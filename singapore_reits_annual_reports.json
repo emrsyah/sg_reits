@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "title": "Singapore REITs Annual Reports FY2023-FY2025",
+    "compiled_date": "2026-06-10",
+    "total_reits": 39,
+    "status_legend": {
+      "available": "Direct or verified link to the annual report",
+      "ir_page": "Only an IR landing/publications page found, not a direct PDF",
+      "not_yet_published": "Fiscal year ended but the report is not yet released",
+      "not_applicable": "REIT did not exist / was not listed for that fiscal year"
+    }
+  },
+  "reits": [
+    {
+      "name": "Acrophyte Hospitality Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/CMLP8JLRJ67V19OI/794587_ARA%20H-Trust%20Annual%20Report%202023.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/N8FF4C24L58G1ZSB/840700_ACRO-HT%20Annual%20Report%20FY2024.pdf" },
+        "FY2025": { "status": "not_yet_published", "url": "https://www.acrophytetrust.com/investor-relations/publications" }
+      }
+    },
+    {
+      "name": "AIMS APAC REIT",
+      "fye": "March",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/2IH9K4VJ3OAQG5NH/763037_AA%20REIT%20AR2023_Final.pdf" },
+        "FY2024": { "status": "downloaded", "url": "https://investor.aimsapacreit.com/newsroom/20240627_071307_O5RU_X8O8233BO8P6P428.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.aimsapacreit.com/newsroom/20250627_070359_O5RU_312U85OOJ7KGIOXV.1.pdf" }
+      }
+    },
+    {
+      "name": "Alpha Integrated REIT",
+      "former_name": "Sabana Industrial REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/M2CUKRPL9L0C8ZIO/792942_Sabana%20Annual%20Report%202023.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/OH7N6UC7IE4H3D03/836302_Sabana%20Annual%20Report%202024.pdf" },
+        "FY2025": { "status": "not_yet_published", "url": "https://sabana.listedcompany.com/ar.html" }
+      }
+    },
+    {
+      "name": "BHG Retail REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://bhgreit.listedcompany.com/newsroom/20240404_172252_BMGU_U5H2ZXLQN3CO9T4L.1.pdf" },
+        "FY2024": { "status": "downloaded", "url": "https://bhgreit.listedcompany.com/newsroom/20250404_172334_BMGU_A2P7PTS9R615CWAQ.1.pdf" },
+        "FY2025": { "status": "not_yet_published", "url": null }
+      }
+    },
+    {
+      "name": "CapitaLand Ascendas REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.capitaland-ascendasreit.com/misc/CapitaLand-Ascendas-REIT-AR2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.capitaland-ascendasreit.com/misc/CapitaLand-Ascendas-REIT-AR2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/VLMUR6L61OAEVKHB/881419_CLAR%20-%20AR%202025.pdf" }
+      }
+    },
+    {
+      "name": "CapitaLand Ascott Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.capitalandascotttrust.com/misc/agm2024/CLAS-FY2023-AR.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.capitalandascotttrust.com/misc/agm2025/CLAS-FY2024-AR.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/DUALIJNN4ECM6DZL/880333_1_CLAS%20Annual%20Report%202025.pdf" }
+      }
+    },
+    {
+      "name": "CapitaLand China Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.clct.com.sg/misc/ar2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.clct.com.sg/misc/ar2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.clct.com.sg/misc/ar2025.pdf" }
+      }
+    },
+    {
+      "name": "CapitaLand India Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.clint.com.sg/misc/CapitaLand-India-Trust-AR2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.clint.com.sg/misc/CapitaLand-India-Trust-AR2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.clint.com.sg/misc/CapitaLand-India-Trust-AR2025.pdf" }
+      }
+    },
+    {
+      "name": "CapitaLand Integrated Commercial Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.cict.com.sg/misc/ar2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.cict.com.sg/misc/ar2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.cict.com.sg/misc/ar2025.pdf" }
+      }
+    },
+    {
+      "name": "CDL Hospitality Trusts",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/FileOpen/CDLHT-AR2023.ashx?App=Announcement&FileID=793259" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/FileOpen/CDLHT-AR2024.ashx?App=Announcement&FileID=837284" },
+        "FY2025": { "status": "not_yet_published", "url": "https://investor.cdlht.com/ar.html" }
+      }
+    },
+    {
+      "name": "Centurion Accommodation REIT",
+      "fye": "December",
+      "note": "IPO September 2025; FY2025 is the inaugural annual report",
+      "reports": {
+        "FY2023": { "status": "not_applicable", "url": null },
+        "FY2024": { "status": "not_applicable", "url": null },
+        "FY2025": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/O6SOB45JEQQ30JFR/881951_CAREIT%20Annual%20Report%202025.pdf" }
+      }
+    },
+    {
+      "name": "Daiwa House Logistics Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.daiwahouse-logisticstrust.com/misc/agm2024/DHLT-AR2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.daiwahouse-logisticstrust.com/newsroom/20250402_075910_DHLU_TZFO19DL0N64JM51.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.daiwahouse-logisticstrust.com/misc/agm2026/DHLT-AR2025.pdf" }
+      }
+    },
+    {
+      "name": "Digital Core REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://s28.q4cdn.com/669718746/files/doc_downloads/2024/AGM/Digital-Core-REIT-Annual-Report-2023-Web.pdf" },
+        "FY2024": { "status": "available", "url": "https://s28.q4cdn.com/669718746/files/doc_financials/2024/q4/Digital-Core-REIT-Annual-Report-2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://s28.q4cdn.com/669718746/files/doc_downloads/2026/03/Digital-Core-REIT-Annual-Report-2025.pdf" }
+      }
+    },
+    {
+      "name": "Elite UK REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/5UCI1I1FXTMTOEQV/796199_Elite%20UK%20REIT-Annual%20Report.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/VMUPUDVJEFHVYAJK/838195_Elite%20UK%20REIT-Annual%20Report%202024.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/714GTQTLJ3NYKLBL/880347_Elite%20UK%20REIT-Annual%20Report%202025.pdf" }
+      }
+    },
+    {
+      "name": "ESR-LOGOS REIT",
+      "former_name": "ESR-REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/JCQQXJZJXRQS974R/795349_E-LOG_Annual%20Report%202023_FINAL.pdf" },
+        "FY2024": { "status": "downloaded", "url": "https://esr-reit.listedcompany.com/misc/agm2025/ESR-REIT%20Annual%20Report%202024.pdf" },
+        "FY2025": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/O7ERKHPDIP84G1QS/881689_ESR-REIT%20AR%202025.pdf" }
+      }
+    },
+    {
+      "name": "Far East Hospitality Trust",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/OIAFI1WRZLQOPU6A/792621_FEHT%20Annual%20Report%202023.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/RJ3PQM8FO861S9KO/837004_FEHT%20AR2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/8DT56CN7KLU5ZJX3/878889_FEHT%20AR2025.pdf" }
+      }
+    },
+    {
+      "name": "First REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/FileOpen/Annual%20Report%20FY2023.ashx?App=Announcement&FileID=795422" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/8JJ6RAFULEZQ96TV/838170_First_REIT_Annual_Report.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/V8ZYLJV6UA0ODE6T/881430_First_REIT_Annual_Report_2025.pdf" }
+      }
+    },
+    {
+      "name": "Frasers Centrepoint Trust",
+      "fye": "September",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/FileOpen/FCT%20AR%202023.ashx?App=Announcement&FileID=781334", "note": "Verify FileID - may overlap with FLCT FY2023" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/6CLTX7B8ENVEL9UV/828582_Annual_Report_FCT.pdf" },
+        "FY2025": { "status": "available", "url": "https://links.sgx.com/FileOpen/FCT%20AR%202025.ashx?App=Announcement&FileID=870392" }
+      }
+    },
+    {
+      "name": "Frasers Logistics & Commercial Trust",
+      "fye": "September",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/FileOpen/FLCT_Annual_Report_2023.ashx?App=Announcement&FileID=781334" },
+        "FY2024": { "status": "available", "url": "https://flct.frasersproperty.com/misc/FLCT-AR2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://flct.frasersproperty.com/misc/FLCT-AR2025.pdf" }
+      }
+    },
+    {
+      "name": "IREIT Global",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.ireitglobal.com/misc/ar2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.ireitglobal.com/newsroom/20250402_073227_UD1U_ZQ03BR1CN2DBQC0V.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.ireitglobal.com/newsroom/20260326_073047_UD1U_TAAV8JQHHQQHBTQR.1.pdf" }
+      }
+    },
+    {
+      "name": "Keppel DC REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://www.keppeldcreit.com/en/file/investor-relations/publications/annual-report/kdcr-ar-2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://www.keppeldcreit.com/en/file/investor-relations/publications/annual-report/kdcr-ar2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://www.keppeldcreit.com/en/file/investor-relations/publications/annual-report/kdcr-ar2025.pdf" }
+      }
+    },
+    {
+      "name": "Keppel Pacific Oak US REIT (KORE)",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://www.koreusreit.com/file/downloads/2024/keppel-pacific-oak-us-reit-annual-report-2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://www.koreusreit.com/file/downloads/2025/keppel-pacific-oak-us-reit-annual-report-2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://www.koreusreit.com/file/downloads/2026/kore-us-reit-annual-report-2025.pdf" }
+      }
+    },
+    {
+      "name": "Keppel REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://www.keppelreit.com/file/investor-relations/publications/annual-reports/kreit-ar23.pdf" },
+        "FY2024": { "status": "available", "url": "https://www.keppelreit.com/file/investor-relations/publications/annual-reports/kreit-ar24-website.pdf" },
+        "FY2025": { "status": "available", "url": "https://www.keppelreit.com/file/investor-relations/publications/annual-reports/keppel-reit-ar25.pdf" }
+      }
+    },
+    {
+      "name": "Lendlease Global Commercial REIT",
+      "fye": "June",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://www.lendleaseglobalcommercialreit.com/siteassets/publications/2023/lendlease-ar2023-web.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/1CV3JP458PTTTDQR/820765_Lendlease%20AR24.pdf" },
+        "FY2025": { "status": "available", "url": "https://www.lendleaseglobalcommercialreit.com/siteassets/publications/annual-reports/annual-report-fy2025.pdf" }
+      }
+    },
+    {
+      "name": "Landmark REIT",
+      "former_name": "Lippo Malls Indonesia Retail Trust (LMIRT)",
+      "sgx_ticker": "D5IU",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://lmir.listedcompany.com/newsroom/20240403_063456_D5IU_DSINMXMIUKTHJYXY.1.pdf" },
+        "FY2024": { "status": "available", "url": "https://lmir.listedcompany.com/newsroom/20250404_064606_D5IU_BP8HE8VLOS2KQTR6.1.pdf" },
+        "FY2025": { "status": "not_yet_published", "url": "https://lmir.listedcompany.com/ar.html" }
+      }
+    },
+    {
+      "name": "Manulife US REIT",
+      "sgx_ticker": "BTOU",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/W29AFE4D4TNWTLM4/793242_Manulife%20US%20REIT%20Annual%20Report%20and%20Sustainability%20Report%202023.pdf" },
+        "FY2024": { "status": "downloaded", "url": "https://www.manulifeusreit.sg/assets/pdf/Manulife-AR2024.pdf" },
+        "FY2025": { "status": "downloaded", "url": "https://investor.manulifeusreit.sg/newsroom/20260414_071310_BTOU_1D8FNAX92XYZKWQ5.1.pdf" }
+      }
+    },
+    {
+      "name": "Mapletree Industrial Trust",
+      "sgx_ticker": "ME8U",
+      "fye": "March",
+      "reports": {
+        "FY2022/23": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/VU8628XHDTKMM5EV/762868_20230620_MIT%20Annual%20Report_2022_2023.pdf" },
+        "FY2023/24": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/SUBLTCKIESQ86HBG/806807_20240618_%20MIT%20AR2023_2024.pdf" },
+        "FY2024/25": { "status": "available", "url": "https://investor.mapletreeindustrialtrust.com/newsroom/20250625_073214_ME8U_UQG8RIVWFVIRDJZO.1.pdf" }
+      }
+    },
+    {
+      "name": "Mapletree Logistics Trust",
+      "sgx_ticker": "M44U",
+      "fye": "March",
+      "reports": {
+        "FY2022/23": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/WQEKME6QKGFRE0M7/763652_20230628-MLT-Annual%20Report%202022-23.pdf" },
+        "FY2023/24": { "status": "available", "url": "https://links.sgx.com/FileOpen/20240625-MLT-AR2023-24.ashx?App=Announcement&FileID=807491" },
+        "FY2024/25": { "status": "available", "url": "https://investor.mapletreelogisticstrust.com/newsroom/20250620_071305_M44U_W4WC665GQ77T049L.1.pdf" }
+      }
+    },
+    {
+      "name": "Mapletree Pan Asia Commercial Trust",
+      "sgx_ticker": "N2IU",
+      "fye": "March",
+      "reports": {
+        "FY2022/23": { "status": "missing", "url": "https://investor.mapletreepact.com/investor-resources.html", "note": "AR PDF removed in IR site migration; SGX corporate-announcement hash not indexed. Not obtained." },
+        "FY2023/24": { "status": "downloaded", "url": "https://links.sgx.com/1.0.0/corporate-announcements/3YDRM073JA2REB9Z/808073_MPACT_FY2324_Annual%20Report.pdf" },
+        "FY2024/25": { "status": "downloaded", "url": "https://investor.mapletreepact.com/newsroom/20250627_071024_N2IU_A865ED2W965R9N0P.1.pdf" }
+      }
+    },
+    {
+      "name": "NTT DC REIT",
+      "fye": "March",
+      "note": "IPO July 2025; full annual report not yet published",
+      "reports": {
+        "FY2023": { "status": "not_applicable", "url": null },
+        "FY2024": { "status": "not_applicable", "url": null },
+        "FY2025": { "status": "not_yet_published", "url": "https://ir.nttdcreit.com/financials.html" }
+      }
+    },
+    {
+      "name": "OUE REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.ouereit.com/misc/OUEREIT_AR2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.ouereit.com/misc/OUEREIT_AR2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.ouereit.com/misc/OUE_REIT_Annual_Report_2025.pdf" }
+      }
+    },
+    {
+      "name": "Parkway Life REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/A6OLK2A8MOSEM756/793482_Parkway%20Life%20REIT%20-%20Annual%20Report%20FY2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://links.sgx.com/FileOpen/Parkway%20Life%20REIT%20-%20Annual%20Report%202024.ashx?App=Announcement&FileID=837824" },
+        "FY2025": { "status": "not_yet_published", "url": null }
+      }
+    },
+    {
+      "name": "Prime US REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://www.primeusreit.com/misc/ar2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://www.primeusreit.com/misc/ar2024.pdf" },
+        "FY2025": { "status": "available", "url": "https://www.primeusreit.com/misc/ar2025.pdf" }
+      }
+    },
+    {
+      "name": "Sasseur REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://links.sgx.com/1.0.0/corporate-announcements/3WR1ZIWDU8A3FD8S/794350_Sasseur_REIT-Annual_Report_FY2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://www.sasseurreit.com/misc/sr2024.pdf" },
+        "FY2025": { "status": "not_yet_published", "url": "https://www.sasseurreit.com/reports.html" }
+      }
+    },
+    {
+      "name": "Starhill Global REIT",
+      "fye": "June",
+      "reports": {
+        "FY2022/23": { "status": "available", "url": "https://starhillglobalreit.listedcompany.com/misc/ar/ar2023.pdf" },
+        "FY2023/24": { "status": "available", "url": "https://starhillglobalreit.listedcompany.com/misc/Starhill-Annual-Report-2024.pdf" },
+        "FY2024/25": { "status": "available", "url": "https://starhillglobalreit.listedcompany.com/misc/SGREIT-FY2425-Annual-Report.pdf" }
+      }
+    },
+    {
+      "name": "Stoneweg Europe Stapled Trust",
+      "former_name": "Cromwell European REIT",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.stonewegeuropestapledtrust.com.sg/newsroom/20240411_065229_CWCU_GE3FUTSJTR45AHH8.1.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.stonewegeuropestapledtrust.com.sg/newsroom/20250404_203459_CWCU_Q6LA9K39M61IP31G.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.stonewegeuropestapledtrust.com.sg/misc/SERT_AR_2025_14_Apr.pdf" }
+      }
+    },
+    {
+      "name": "Suntec REIT",
+      "sgx_ticker": "T82U",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://suntecreit.listedcompany.com/misc/ar2023/SuntecREITAnnualReport2023.pdf" },
+        "FY2024": { "status": "available", "url": "https://suntecreit.listedcompany.com/newsroom/20250325_073831_T82U_2BYFMY5WOSSNEU8J.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://suntecreit.listedcompany.com/newsroom/20260401_074618_T82U_2A9T8NEG2VQBDHNM.1.pdf" }
+      }
+    },
+    {
+      "name": "UI Boustead REIT",
+      "fye": "December",
+      "note": "Listed on SGX 12 March 2026; no annual report published yet",
+      "reports": {
+        "FY2023": { "status": "not_applicable", "url": null },
+        "FY2024": { "status": "not_applicable", "url": null },
+        "FY2025": { "status": "not_applicable", "url": null }
+      }
+    },
+    {
+      "name": "United Hampshire US REIT",
+      "sgx_ticker": "ODBU",
+      "fye": "December",
+      "reports": {
+        "FY2023": { "status": "available", "url": "https://investor.uhreit.com/newsroom/20240328_073710_ODBU_7M32I7APVUAXXLKY.1.pdf" },
+        "FY2024": { "status": "available", "url": "https://investor.uhreit.com/newsroom/20250404_073558_ODBU_SWQ2FKO1ARIMC219.1.pdf" },
+        "FY2025": { "status": "available", "url": "https://investor.uhreit.com/misc/ar2025.pdf" }
+      }
+    }
+  ]
+}
