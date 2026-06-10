@@ -1,0 +1,37 @@
+[
+  {
+    "file": "09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025.pdf",
+    "status": "error",
+    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+  },
+  {
+    "file": "21_AJBU.SI_Keppel-DC-REIT_FY2025.pdf",
+    "status": "error",
+    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+  },
+  {
+    "file": "28_M44U.SI_Mapletree-Logistics-Trust_FY2025.pdf",
+    "status": "error",
+    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+  },
+  {
+    "file": "17_AW9U.SI_First-REIT_FY2025.pdf",
+    "status": "error",
+    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+  },
+  {
+    "file": "16_Q5T.SI_Far-East-Hospitality-Trust_FY2025.pdf",
+    "status": "error",
+    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+  },
+  {
+    "file": "36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2025.pdf",
+    "status": "error",
+    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+  },
+  {
+    "file": "22_CMOU.SI_KORE-US-REIT_FY2024.pdf",
+    "status": "error",
+    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+  }
+]

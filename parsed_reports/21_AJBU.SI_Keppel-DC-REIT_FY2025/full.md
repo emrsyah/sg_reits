@@ -1,0 +1,22254 @@
+
+
+<!-- PAGE 1 -->
+
+Keppel DC REIT logo
+
+# Momentum
+
+Annual Report 2025
+
+<!-- PAGE 2 -->
+
+# VISION
+
+To be the preferred data centre real estate investment trust, serving as a trusted partner to our stakeholders.
+
+# MISSION
+
+Guided by Keppel’s Core Values, we will create value for our investors by growing a quality portfolio of data centre assets that generates sustainable returns.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">OVERVIEW</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Key Figures for 2025</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Corporate Profile and Strategic Direction</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Chairman’s Statement</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Group Financial Highlights</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>2025 Significant Events</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Corporate Governance at a Glance</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Trust and Organisation Structure</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Board of Directors</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>The Manager</td>
+        <td>17</td>
+    </tr>
+    <tr>
+        <td>Investor Relations</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>Unit Price Performance</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Keppel DC REIT Around the World</td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <th colspan="2">OPERATIONS REVIEW</th>
+    </tr>
+    <tr>
+        <td>Independent Market Review</td>
+        <td>24</td>
+    </tr>
+    <tr>
+        <td>Portfolio Review</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>Financial Review</td>
+        <td>48</td>
+    </tr>
+    <tr>
+        <th colspan="2">SUSTAINABILITY REPORT</th>
+    </tr>
+    <tr>
+        <td>Sustainability Framework<br/>and Highlights for 2025</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>Letter to Stakeholders</td>
+        <td>56</td>
+    </tr>
+    <tr>
+        <td>About This Report</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>Approach to Sustainability</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td>Environmental Stewardship</td>
+        <td>67</td>
+    </tr>
+    <tr>
+        <td>Responsible Business</td>
+        <td>76</td>
+    </tr>
+    <tr>
+        <td>People and Community</td>
+        <td>82</td>
+    </tr>
+    <tr>
+        <td>GRI Content Index</td>
+        <td>91</td>
+    </tr>
+    <tr>
+        <td>IFRS S2 Content Index</td>
+        <td>94</td>
+    </tr>
+    <tr>
+        <td>Independent Assurance Statement</td>
+        <td>98</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th colspan="2">CORPORATE INFORMATION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Corporate Information</td>
+<td>100</td>
+    </tr>
+    <tr>
+<th colspan="2">FINANCIAL STATEMENTS</th>
+    </tr>
+    <tr>
+<td>Report of the Trustee</td>
+<td>102</td>
+    </tr>
+    <tr>
+<td>Statement by the Manager</td>
+<td>103</td>
+    </tr>
+    <tr>
+<td>Independent Auditor’s Report</td>
+<td>104</td>
+    </tr>
+    <tr>
+<td>Statements of Financial Position</td>
+<td>107</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Profit or Loss</td>
+<td>108</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of<br/>Comprehensive Income</td>
+<td>109</td>
+    </tr>
+    <tr>
+<td>Statement of Movements in Unitholders’ Funds</td>
+<td>110</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Cash Flows</td>
+<td>112</td>
+    </tr>
+    <tr>
+<td>Distribution Statement</td>
+<td>114</td>
+    </tr>
+    <tr>
+<td>Portfolio Statement</td>
+<td>115</td>
+    </tr>
+    <tr>
+<td>Notes to the Financial Statements</td>
+<td>117</td>
+    </tr>
+    <tr>
+<th colspan="2">GOVERNANCE</th>
+    </tr>
+    <tr>
+<td>Corporate Governance</td>
+<td>164</td>
+    </tr>
+    <tr>
+<td>Risk Management</td>
+<td>191</td>
+    </tr>
+    <tr>
+<th colspan="2">OTHER INFORMATION</th>
+    </tr>
+    <tr>
+<td>Additional Information</td>
+<td>194</td>
+    </tr>
+    <tr>
+<td>Statistics of Unitholdings</td>
+<td>196</td>
+    </tr>
+    <tr>
+<td>Financial Calendar</td>
+<td>198</td>
+    </tr>
+    <tr>
+<td>Notice of Annual General Meeting</td>
+<td>199</td>
+    </tr>
+    <tr>
+<td colspan="2">Proxy Form</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 3 -->
+
+# Momentum
+
+**Building on a strong foundation and strengthened by agile portfolio management and strategic capital deployment, Keppel DC REIT is well-positioned to leverage its momentum to capture growth opportunities arising from the accelerating digitalisation, artificial intelligence wave and expanding digital economy. This enables us to deliver long-term value for our stakeholders.**
+
+<!-- PAGE 4 -->
+
+Data center server room with blue and purple lighting
+
+
+
+# Key Figures for 2025
+
+**DISTRIBUTABLE INCOME**
+
+# $268.1m
+
+55.2% higher than 2024’s $172.7 million due to acquisitions and strong portfolio performance.
+
+**DISTRIBUTION PER UNIT¹ (DPU)**
+
+# 10.381 cts
+
+Record-high DPU since listing, 9.8% higher than 2024’s 9.451 cents.
+
+**HEALTHY AGGREGATE LEVERAGE²**
+
+# 35.3%
+
+Provides debt headroom to pursue strategic opportunities. Interest coverage ratio remained high at 7.5 times and average cost of debt remained low at 3.0% per annum as at 31 December 2025.
+
+**PRUDENT CAPITAL MANAGEMENT**
+
+# 71.2%
+
+Of loans are hedged. Forecast foreign-sourced distributions are progressively hedged till end June 2027.
+
+**STRATEGIC PIVOT TO HYPERSCALE STRATEGY**
+
+# $6.3b³
+
+Assets under management rose 26% year-on-year, mainly driven by acquisitions, alongside ongoing portfolio rebalancing to support the pivot to a hyperscale strategy.
+
+**HIGH PORTFOLIO OCCUPANCY**
+
+# 95.8%
+
+Long portfolio weighted average lease expiry of 6.7 years⁴, supported by proactive asset management, strong client engagement, and a well-diversified contract expiry profile that underpins income stability.
+
+**STRONG PORTFOLIO REVERSIONS**
+
+# ~45%
+
+Positive rental reversions and ongoing value creation initiatives delivered income uplift and strengthened asset performance.
+
+**STRAITS TIMES INDEX (STI)**
+
+# STI constituent
+
+A key milestone enhancing Keppel DC REIT’s visibility and profile among global investors.
+
+1 Computed based on distributable income after setting aside both Capex Reserves and upfront land premium relating to Keppel DC Singapore 7 and 8 (ULP Reserves). DPU took into account an expanded Unitholding base due to the new pro-rata Preferential Offering Units listed on 22 October 2025 that will be entitled to distributable income from 1 July 2025. Had the Preferential Offering Units been only entitled to distributable income from 22 October 2025, the adjusted DPU would be 10.629 cents.
+
+2 Computed based on gross borrowings and deferred payment as a percentage of deposited properties, both of which do not consider the lease liabilities pertaining to extension offers.
+
+3 Includes investments in debt securities and the acquisition of remaining interests in Keppel DC Singapore 3 and Keppel DC Singapore 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+4 By lettable area. Weighted average lease expiry by rental income was 4.9 years as a higher proportion of rental income is from fully-fitted (colocation) assets, which typically have shorter contractual periods.
+
+<!-- PAGE 5 -->
+
+# Corporate Profile and Strategic Direction
+
+Keppel DC REIT was listed on the Singapore Exchange on 12 December 2014 as the first pure-play data centre REIT in Asia.
+
+Its portfolio comprises 25 data centres strategically located in key data centre hubs across 10 countries in Asia Pacific and Europe. Keppel DC REIT’s investments comprise a mix of fully-fitted (colocation/single tenant) and shell and core assets, as well as debt securities, thereby reinforcing the diversity and resilience of its portfolio.
+
+Keppel DC REIT’s investment strategy is to principally invest, directly or indirectly, in a diversified portfolio of income-producing real estate assets primarily used for data centre purposes, as well as real estate and assets necessary to support the digital economy.
+
+Keppel DC REIT is managed by Keppel DC REIT Management Pte. Ltd. (the Manager) and sponsored by Keppel, a global asset manager and operator with strong expertise in sustainability-related solutions spanning the areas of infrastructure, real estate and connectivity.
+
+Keppel DC REIT has a diversified global portfolio with strong Asia Pacific presence, with assets under management of approximately $6.3 billion¹ as at 31 December 2025.
+
+## Keppel DC REIT aims to be the preferred data centre REIT and a trusted partner to its stakeholders.
+
+The Manager’s key objectives are to deliver regular, stable and sustainable distributions, drive long-term growth and value creation, and maintain an optimal capital structure.
+
+With sustainability at the core of its business and strategy, the Manager employs a three-pronged approach to create long-term value for investors.
+
+Three-pronged approach diagram showing Sustainability at the center, surrounded by Proactive Asset Management, Focused Investment Strategy, and Prudent Capital Management.
+
+### FOCUSED INVESTMENT STRATEGY
+
+* Pursue strategic, accretive opportunities that complement the portfolio and strengthen presence in key data centre hubs
+
+* Capitalise on growth opportunities within hyperscale segment and leverage structural trends such as artificial intelligence and digital transformation
+
+* Enhance portfolio resilience through geographic diversification
+
+* Unlock value through disciplined capital recycling and reinvestment into higher-yielding opportunities
+
+### PROACTIVE ASSET MANAGEMENT
+
+* Optimise returns through proactive portfolio and asset management to drive income and leverage economies of scale
+
+* Enhance long-term value and performance through strategic rebalancing, asset enhancements, sustainability and operational efficiencies
+
+* Deliver quality offerings that meet the evolving needs and requirements of a global clientele
+
+* Maintain an optimal mix of fully-fitted (colocation/single tenant) and shell and core assets to diversify income and enhance portfolio stability
+
+### PRUDENT CAPITAL MANAGEMENT
+
+* Maintain a disciplined capital structure with an optimal combination of debt and equity to optimise returns while maintaining financial flexibility
+
+* Diversify funding sources including green financing and ensure a well-spread debt maturity profile
+
+* Apply disciplined hedging strategies to safeguard capital and returns while enhancing certainty and stability of distributions
+
+\*1 Includes investments in debt securities and the acquisition of remaining interests in Keppel DC Singapore 3 and Keppel DC Singapore 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+<!-- PAGE 6 -->
+
+# Chairman’s Statement
+
+# Momentum
+
+Photograph of Christina Tan, Chairman
+
+> **Building on our momentum, Keppel DC REIT is ready to ride on megatrends such as cloudification and AI, especially in inference and agentic AI. Our focus remains on delivering sustainable growth, optimising our portfolio, and creating long-term value for our stakeholders.**
+
+**CHRISTINA TAN**, Chairman
+
+**DEAR UNITHOLDERS,**
+
+2025 was a year of sustained momentum for Keppel DC REIT. Amidst rapid technological change and heightened global uncertainty, we delivered record-high financials and strengthened our portfolio for future growth, reinforcing our position as one of the leading owners of stabilised data centres in Asia Pacific.
+
+**DELIVERING GROWTH AND VALUE**
+
+Since listing, Keppel DC REIT has delivered a total unitholder return of 317.0%, underscoring our track record of creating sustainable value in a dynamic world.
+
+Through disciplined execution and proactive management, distributable income grew 55.2% year-on-year to $268.1 million and distribution per unit increased 9.8% year-on-year to 10.381 cents for 2025. This robust financial performance was driven by accretive acquisitions and strong portfolio performance.
+
+Our assets under management reached $6.3 billion¹ at year-end, nearly doubling over two years. Portfolio occupancy remained high at 95.8%, with a long weighted average lease expiry (WALE) of 6.7 years² as at 31 December 2025.
+
+**ADVANCING OUR HYPERSCALE-FOCUSED STRATEGY**
+
+In 2025, we continued to build a future-ready portfolio of high-quality, hyperscale data centres in key digital hubs with $1.1 billion of acquisitions. Rental income from hyperscalers³ rose to 69.3% as at 31 December 2025, up from 61.1% a year ago, reflecting our strategic focus.
+
+The accretive acquisition of Tokyo Data Centre 3, our second hyperscale asset in Tokyo and largest overseas acquisition since listing, strengthens our presence in one of Asia’s top and most supply-constrained data centre markets.
+
+In Singapore, we acquired the remaining interests in four data centres – Keppel DC Singapore 3, 4, 7 and 8 to achieve full ownership and secured a 10-year land tenure lease extension for Keppel DC Singapore 7 and 8. These acquisitions reinforce our long-term commitment to the Singapore market whilst expanding our footprint in key data centre markets in Asia Pacific.
+
+To support our growth, we raised $404.5 million via a preferential offering in October 2025 which was 168.2% subscribed. Proceeds were used to fund the acquisition of Tokyo Data Centre 3 and other value creation initiatives. As at 31 December 2025, our aggregate leverage stood at 35.3%, providing financial flexibility for growth.
+
+**DRIVING PORTFOLIO PERFORMANCE**
+
+Our proactive portfolio management translated into portfolio reversion of approximately 45% for the year, reflecting strong demand for our assets and our ability to optimise returns and create value. Leveraging artificial intelligence (AI), we will continue to enhance operational efficiency to deliver returns to our unitholders. At Keppel DC Singapore 8, we unlocked additional saleable power by improving operational efficiency, and are now converting part of previously unutilised space into a new data hall to generate additional revenue. Completion for this asset enhancement is targeted for the third quarter of 2027.
+
+Total Unitholder Return icon
+
+**TOTAL UNITHOLDER RETURN**
+
+**317.0%**
+
+Since listing in Dec 2014
+
+AUM Growth icon
+
+**AUM GROWTH**
+
+**26.0%**
+
+year-on-year growth to $6.3 billion¹
+
+Distribution Per Unit icon
+
+**DISTRIBUTION PER UNIT**
+
+**10.381 cts**
+
+Record-high DPU since listing
+
+¹ Includes investments in debt securities and the acquisition of remaining interests in Keppel DC Singapore 3 and 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+² By lettable area. WALE by rental income was 4.9 years as a higher proportion of rental income is from fully-fitted (colocation) assets, which typically have shorter contractual periods.
+
+³ Based on agreements with clients of the portfolio and in the case of Keppel DC Singapore 1 to 5, 7 and 8, the underlying client contracts.
+
+<!-- PAGE 7 -->
+
+# Chairman’s Statement
+
+> “Our inclusion in the Straits Times Index from June 2025 and multiple award wins in Singapore and Ireland underscore Keppel DC REIT’s growing market relevance, strong governance, and sustainability leadership.”
+
+In line with our strategic focus on hyperscale assets, we sold Kelsterbach Data Centre in Germany, Basis Bay Data Centre in Malaysia¹ and the NetCo bonds and preference shares² during the year. These divestments strategically sharpen our portfolio mix and will unlock approximately $0.2 billion that may be redeployed to higher-yielding investments.
+
+## GROWING MARKET RECOGNITION
+
+Our inclusion in the Straits Times Index from June 2025 and multiple award wins in Singapore and Ireland underscore Keppel DC REIT’s growing market relevance, strong governance, and sustainability leadership. We were honoured as a joint winner of the Singapore Corporate Governance Award at the SIAS³ Investors’ Choice Awards 2025, received the Best Investor Relations (Silver) Award at the Singapore Corporate Awards 2025 and voted the Most Popular REIT at the 2025 REITs Symposium. In Ireland, Keppel DC REIT was the joint winner of the Energy Impact Award at the DCD Awards 2025 and was named Specialist Collections Team of the Year at the Irish Credit Team of the Year Awards. These accolades affirm our commitment to strong corporate governance and operational excellence.
+
+## LOOKING AHEAD
+
+Building on our momentum, Keppel DC REIT is ready to ride on megatrends such as cloudification and AI, especially in inference and agentic AI. Our focus remains on delivering sustainable growth, optimising our portfolio, and creating long-term value for our stakeholders.
+
+The accretive acquisition of Tokyo Data Centre 3 strengthens Keppel DC REIT’s presence in one of Asia’s top and most supply-constrained data centre markets.
+
+The accretive acquisition of Tokyo Data Centre 3 strengthens Keppel DC REIT’s presence in one of Asia’s top and most supply-constrained data centre markets.
+
+In 2025, Keppel DC REIT acquired the remaining interests in Keppel DC Singapore 7 and 8, achieving full ownership and secured a 10-year land tenure lease extension.
+
+In 2025, Keppel DC REIT acquired the remaining interests in Keppel DC Singapore 7 and 8, achieving full ownership and secured a 10-year land tenure lease extension.
+
+We will continue to leverage our global mandate and pursue opportunities in established data centre hubs across Asia Pacific and Europe, supported by Keppel’s integrated capabilities across infrastructure, real estate, and connectivity and strong networks with industry players.
+
+## BOARD RENEWAL
+
+During the year, we appointed Mr Low Huan Ping as our new Lead Independent Director. With his expertise in digital technology, strategic planning and transformation amongst other areas, he is well-placed to guide Keppel DC REIT through its next phase of growth.
+
+We extend our heartfelt appreciation to Mr Kenny Kwan, who has stepped down from the Board, for his strategic leadership and invaluable contributions to Keppel DC REIT in the past six years, which have been instrumental in supporting Keppel DC REIT’s expansion. We also thank Mr Chua Soon Ghee, who stepped down from the Board in March 2026, for his steadfast guidance and valuable perspectives over the past two years, which have strengthened the REIT.
+
+## APPRECIATION
+
+I would like to thank my fellow Board members, the management and team for their dedication and contributions. We are also grateful to our investors and business partners for their trust and continued support. We look forward to continued progress and shared success in the year ahead.
+
+Yours sincerely,
+
+[signature: Christina Tan]
+
+**CHRISTINA TAN**
+Chairman
+17 March 2026
+
+\*1 Completion of divestment of Basis Bay Data Centre expected in 1Q 2026.
+
+\*2 Completion of the sale is subject to certain conditions under the Sale and Purchase Agreement including, among others, the applicable clearances being obtained from Infocomm Media Development Authority.
+
+\*3 Securities Investors Association (Singapore).
+
+<!-- PAGE 8 -->
+
+# Group Financial Highlights
+
+## RESULTS HIGHLIGHTS AND RATIOS
+
+for the financial year ended 31 December
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>Change</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Gross Revenue</td>
+        <td>441,362</td>
+        <td>310,287</td>
+        <td>42.2</td>
+    </tr>
+    <tr>
+        <td>Net Property Income</td>
+        <td>383,260</td>
+        <td>260,286</td>
+        <td>47.2</td>
+    </tr>
+    <tr>
+        <td>Distributable Income</td>
+        <td>268,051</td>
+        <td>172,733</td>
+        <td>55.2</td>
+    </tr>
+    <tr>
+        <td>Distribution per Unit (DPU)<sup>1,2</sup> (cents)</td>
+        <td>10.381</td>
+        <td>9.451</td>
+        <td>9.8</td>
+    </tr>
+    <tr>
+        <td>Distribution Yield³ (%)</td>
+        <td>4.61</td>
+        <td>4.34</td>
+        <td>27 bps</td>
+    </tr>
+    <tr>
+        <td>Adjusted DPU<sup>1,2</sup> (cents)</td>
+        <td>10.629</td>
+        <td>9.504</td>
+        <td>11.8</td>
+    </tr>
+    <tr>
+        <td>Weighted Average all-in Interest Rate (% per annum)</td>
+        <td>3.0</td>
+        <td>3.3</td>
+        <td>-30 bps</td>
+    </tr>
+    <tr>
+        <td>Interest Coverage Ratio (times)</td>
+        <td>7.5</td>
+        <td>5.3</td>
+        <td>2.2 times</td>
+    </tr>
+  </tbody>
+</table>
+
+## BALANCE SHEET HIGHLIGHTS AND RATIOS
+
+as at 31 December
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>Change</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Investment Properties⁴</td>
+        <td>6,150,492</td>
+        <td>4,920,527</td>
+        <td>25.0</td>
+    </tr>
+    <tr>
+        <td>Total Assets⁴,⁵</td>
+        <td>6,881,182</td>
+        <td>5,543,233</td>
+        <td>24.1</td>
+    </tr>
+    <tr>
+        <td>Deposited Properties</td>
+        <td>6,792,091</td>
+        <td>5,450,247</td>
+        <td>24.6</td>
+    </tr><tr>
+<td>Gross Borrowings5,6</td>
+<td>(2,375,583)</td>
+<td>(1,683,908)</td>
+<td>41.1</td>
+</tr><tr>
+<td>Deferred Payment⁷</td>
+<td>(22,535)</td>
+<td>(33,865)</td>
+<td>(33.5)</td>
+</tr><tr>
+<td>Lease Liabilities4,5</td>
+<td>(21,339)</td>
+<td>(35,203)</td>
+<td>(39.4)</td>
+</tr><tr>
+<td>Total Liabilities</td>
+<td>(2,651,066)</td>
+<td>(2,116,285)</td>
+<td>25.3</td>
+</tr><tr>
+<td>Unitholders’ Funds</td>
+<td>4,168,455</td>
+<td>3,372,016</td>
+<td>23.6</td>
+</tr><tr>
+<td>Units in Issue (’000)</td>
+<td>2,440,733</td>
+<td>2,209,075</td>
+<td>10.5</td>
+</tr>
+    <tr>
+        <td>Net Asset Value (NAV) per Unit ($)</td>
+        <td>1.71</td>
+        <td>1.53</td>
+        <td>11.8</td>
+    </tr>
+    <tr>
+        <td>Adjusted NAV per Unit, excluding distribution ($)</td>
+        <td>1.66</td>
+        <td>1.52</td>
+        <td>9.2</td>
+    </tr>
+    <tr>
+        <td>Aggregate Leverage⁵ (%)</td>
+        <td>35.3</td>
+        <td>31.5</td>
+        <td>381 bps</td>
+    </tr>
+  </tbody>
+</table>
+
+## HALF-YEARLY RESULTS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">First Half</th>
+        <th colspan="2">Second Half</th>
+        <th>Full Year</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>%</th>
+        <th>$’000</th>
+        <th>%</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6"><strong>Gross Revenue</strong></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>211,309</td>
+        <td>48</td>
+        <td>230,053</td>
+        <td>52</td>
+        <td>441,362</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>157,180</td>
+        <td>51</td>
+        <td>153,107</td>
+        <td>49</td>
+        <td>310,287</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Net Property Income</strong></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>182,813</td>
+        <td>48</td>
+        <td>200,447</td>
+        <td>52</td>
+        <td>383,260</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>132,649</td>
+        <td>51</td>
+        <td>127,637</td>
+        <td>49</td>
+        <td>260,286</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Distributable Income</strong></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>127,128</td>
+        <td>47</td>
+        <td>140,923</td>
+        <td>53</td>
+        <td>268,051</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>80,878</td>
+        <td>47</td>
+        <td>91,855</td>
+        <td>53</td>
+        <td>172,733</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>DPU³ (cents)</strong></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>5.133</td>
+        <td>49</td>
+        <td>5.248</td>
+        <td>51</td>
+        <td>10.381</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>4.549</td>
+        <td>48</td>
+        <td>4.902</td>
+        <td>52</td>
+        <td>9.451</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> Computed based on distributable income after setting aside both Capex Reserves and upfront land premium relating to Keppel DC Singapore 7 and 8 (ULP Reserves).
+<sup>2</sup> FY 2025 DPU took into account an expanded Unitholding base due to the new pro-rata Preferential Offering Units listed on 22 October 2025 that will be entitled to distributable income from 1 July 2025. Adjusted DPU of 5.496 cents for 2H 2025 and 10.629 cents for FY 2025 were derived assuming that the Preferential Offering Units are not entitled to the distributable income prior to 22 October 2025.
+
+<sup>3</sup> Computed based on closing price of $2.25 and $2.18 per Unit as at 31 December 2025 and 31 December 2024 respectively.
+
+<sup>4</sup> Included an investment property held for sale, which was re-classified upon the entry into a sale and purchase agreement in 2024. Investment properties and total assets include the carrying value of the lease liabilities pertaining to extension offers.
+
+<sup>5</sup> Computed based on gross borrowings and deferred payment as a percentage of deposited properties, both of which do not consider the lease liabilities pertaining to extension offers.
+
+<sup>6</sup> Gross borrowings relates to external borrowings drawn down from term loan facilities, revolving credit facilities, multicurrency debt issuance programme and Tokutei Mokuteki Kaisha bonds.
+
+<sup>7</sup> Deferred payment relates to the amount payable for Keppel DC Singapore 8 as at 31 December 2025 and 31 December 2024.
+
+bps = basis points
+
+<!-- PAGE 9 -->
+
+# 2025 Significant Events
+
+## 1Q 2025
+
+* Entered agreement for the sale of Basis Bay Data Centre, Cyberjaya, Malaysia to rebalance portfolio
+
+* Divestment of Kelsterbach Data Centre, Frankfurt, Germany at a premium to valuation and in line with the Manager’s focus on hyperscale data centres
+
+* Launched Green Financing Framework to support sustainable growth
+
+## 2Q 2025
+
+* Included in the benchmark Straits Times Index with effect from 23 June 2025
+
+* Mr Kenny Kwan stepped down as Lead Independent Director
+
+* Mr Low Huan Ping appointed as Lead Independent Director
+
+* Voted ‘Most Popular REIT’ at REITs Symposium 2025
+
+## 3Q 2025
+
+* Entered agreement for the sale of NetCo bonds and preference shares to rebalance portfolio
+
+* Completed 30-year land tenure lease extension for Keppel DC Singapore 1
+
+* Won Best Investor Relations (Silver) Award at Singapore Corporate Awards 2025
+
+* Acquired remaining 0.51% economic interest in Keppel DC Singapore 7 and 8, achieving full ownership of the assets
+
+* Acquired 98.47% effective interest in Tokyo Data Centre 3, a hyperscale data centre in Inzai City, Greater Tokyo for JPY 82.1 billion as part of the Manager’s strategy to pursue hyperscale opportunities in established data centre hubs
+
+* Maintained 9th place in the Singapore Governance and Transparency Index under the REIT and Business Trust category
+
+* Achieved Green Star designation for 2025 GRESB Assessment submission, for the fourth consecutive year with improved score
+
+## 4Q 2025
+
+* Raised $404.5 million through a preferential offering which was 168.2% subscribed
+
+* Joint winner of Singapore Corporate Governance Award at SIAS Investors’ Choice Awards 2025
+
+* Joint winner of Energy Impact Award at DCD Awards 2025
+
+* Won Specialist Collections Team of the Year at Irish Credit Team of the Year Awards
+
+* Maintained ‘AA’ MSCI ESG rating
+
+* Entered agreements to acquire remaining interests in Keppel DC Singapore 3 and 4, to achieve full ownership of the assets¹
+
+* Secured 10-year land tenure lease extension for Keppel DC Singapore 7 and 8, enhancing long-term value
+
+\*1 Acquisition of remaining interests in Keppel DC Singapore 3 and 4 was completed on 12 February 2026.
+
+<!-- PAGE 10 -->
+
+# Corporate Governance at a Glance
+
+The Board and management of Keppel DC REIT Management Pte. Ltd., as Manager of Keppel DC REIT, are fully committed to upholding good corporate governance standards.
+
+## BOARD HIGHLIGHTS
+
+## CORPORATE GOVERNANCE POLICIES
+
+The Manager adopts the Code of Corporate Governance 2018 issued by the Monetary Authority of Singapore on 6 August 2018, as amended from time to time (the CG Code) as its benchmark for corporate governance policies and practices. The Manager is pleased to share that Keppel DC REIT has complied with the principles of the CG Code and complied in all material aspects with the provisions and practices in the CG Code. Where there are deviations from the provisions of the CG Code, appropriate explanations have been provided in this Annual Report. Please refer to pages 164 to 190 for more information on Keppel DC REIT and the Manager's governance policies.
+
+## BOARD COMPOSITION DASHBOARD
+
+### TENURE
+
+<table>
+    <tr>
+        <th>&lt;3 years</th>
+        <th>3-6 years</th>
+        <th>&gt;6 years</th>
+    </tr>
+    <tr>
+        <td>Tenure &lt;3 years icon</td>
+        <td>Tenure 3-6 years icon</td>
+        <td>Tenure &gt;6 years icon</td>
+    </tr>
+</table>
+
+### BOARD GENDER DIVERSITY
+
+<table>
+    <tr>
+        <td>Female icon</td>
+        <td>Female</td>
+    </tr>
+    <tr>
+        <td>Male icon</td>
+        <td>Male</td>
+    </tr>
+</table>
+
+### INDEPENDENCE
+
+<table>
+    <tr>
+        <td>Independent Directors icon</td>
+        <td>Independent Directors</td>
+    </tr>
+    <tr>
+        <td>Non-Independent Directors icon</td>
+        <td>Non-Independent Directors</td>
+    </tr>
+</table>
+
+### AGE PROFILE
+
+<table>
+    <tr>
+        <td>Age 50-59 icon</td>
+        <td>50-59 years</td>
+    </tr>
+    <tr>
+        <td>Age 60-69 icon</td>
+        <td>60-69 years</td>
+    </tr>
+</table>
+
+Lead Independent Director icon
+**Lead Independent Director role implemented since November 2020**
+
+Audit and Risk Committee icon
+**Audit and Risk Committee comprises three Independent Directors**
+
+## RISK MANAGEMENT AND INTERNAL CONTROLS
+
+Keppel DC REIT is committed to maintaining effective risk management and internal control systems to optimise returns, taking into consideration business risks. The macroeconomic, market and business risks and respective mitigating measures reviewed by the Board include the following categories of risks: operational, financing, financial, credit, investment, compliance, climate change, information technology and cybersecurity and emerging risks.
+
+More information on the considerations of these risk factors and the mitigating measures can be found on pages 191 to 193. Whilst each of the risks have been deliberated on and specific mitigating measures identified, including appropriate hedging for interest rate and currency risks mitigations, the Board and management also apply a prudent overall approach in managing risks through the application of thorough asset and counterparty due diligence, active capital, asset and portfolio management, and diversification across clients, geographies and business segments.
+
+## ATTENDANCE TABLE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Board Meetings Attended</th>
+        <th>Audit and Risk Committee Meetings Attended</th>
+        <th>Nominating and Remuneration Committee Meetings Attended</th>
+        <th>Environmental, Social and Governance Committee Meetings Attended</th>
+        <th>Unitholders' Meetings Attended</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan</td>
+        <td>5</td>
+        <td>–</td>
+        <td>2</td>
+        <td>–</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping¹</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>1/1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>–</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan²</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>1/1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang</td>
+        <td>4</td>
+        <td>–</td>
+        <td>–</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee³</td>
+        <td>5</td>
+        <td>–</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Kenny Kwan⁴</td>
+        <td>2/2</td>
+        <td>2/2</td>
+        <td>2/2</td>
+        <td>–</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>No. of Meetings held in FY 2025</td>
+        <td>5</td>
+        <td>4</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Mr Low Huan Ping was appointed as Lead Independent Director and Chairman of the Nominating and Remuneration Committee (NRC) on 6 May 2025. He stepped down as member of the Environmental, Social and Governance Committee (ESGC) on 6 May 2025.
+
+\*2 Mr Andrew Tan was appointed as member of the ESGC on 6 May 2025.
+
+\*3 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the NRC and ESGC with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the ESGC and Mr Andrew Tan succeeded Mr Chua as member of the NRC.
+
+\*4 Mr Kenny Kwan stepped down as Lead Independent Director and Chairman of the NRC on 6 May 2025.
+
+Board Competencies icon
+## Board Competencies
+
+* Accounting/Finance
+* Business Development/ Entrepreneurship
+* Corporate Finance
+* Corporate Governance
+* Digital Technology
+* Human Resource
+* International & Regional Strategic Planning
+* Legal
+* Mergers & Acquisitions
+* Real Estate Industry Knowledge
+* Risk Management
+* Sustainability and Renewable Energy
+
+## HOW KEPPEL DC REIT COMPLIES WITH THE CG CODE
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>Page</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>1. Board Matters</td>
+<td>165</td>
+    </tr>
+    <tr>
+<td>2. Remuneration Report</td>
+<td>172</td>
+    </tr>
+    <tr>
+<td>3. Accountability and Audit</td>
+<td>175</td>
+    </tr>
+    <tr>
+<td>4. Unitholder Rights, Conduct of Unitholder Meetings and Engagement with Unitholders and Stakeholders</td>
+<td>179</td>
+    </tr>
+    <tr>
+<td colspan="2">5. Policies</td>
+    </tr>
+    <tr>
+<td>Directors' and Key Management Personnel Remuneration Policy</td>
+<td>172</td>
+    </tr>
+    <tr>
+<td>Insider Trading and Dealing in Securities Policies</td>
+<td>180</td>
+    </tr>
+    <tr>
+<td>Whistle-Blower Policy</td>
+<td>186</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 11 -->
+
+# Trust and Organisation Structure
+
+```mermaid
+graph TD
+    Unitholders[Unitholders]
+    Trustee["Perpetual (Asia) Limited(The Trustee)"]
+    REIT["Keppel DC REIT"]
+    Manager["Keppel DC REITManagement Pte. Ltd.(The Manager)"]
+    Properties[Properties]
+
+    Unitholders -- "Holding of Units" --> REIT
+    REIT -- "Distributions" --> Unitholders
+    Trustee -- "Acts on Behalf of Unitholders" --> REIT
+    REIT -- "Trustee Fees" --> Trustee
+    Manager -- "Management Services" --> REIT
+    REIT -- "Management Fees" --> Manager
+    REIT -- "Ownership of Assets" --> Properties
+    Properties -- "Income Contribution" --> REIT
+```
+
+```mermaid
+graph TD
+    Board["Board of Directors"]
+    NRC["Nominating andRemuneration Committee"]
+    ESGC["Environmental, Social andGovernance Committee"]
+    ARC["Audit andRisk Committee"]
+    CEO["Chief Executive Officer"]
+    RC["Risk and Compliance"]
+    AM["Asset Management"]
+    FIN["Finance"]
+    INV["Investment"]
+    IRS["Investor Relationsand Sustainability"]
+    PM["Portfolio Management"]
+
+    Board --- NRC
+    Board --- ESGC
+    Board --- ARC
+    Board --- CEO
+    CEO --- RC
+    CEO --- AM
+    CEO --- FIN
+    CEO --- INV
+    CEO --- IRS
+    CEO --- PM
+```
+
+## Properties
+
+### Asia Pacific
+
+**Singapore**
+* Keppel DC Singapore 1
+  FM¹: Keppel DC Singapore 1 Ltd.
+* Keppel DC Singapore 2
+  FM¹: Keppel DC Singapore 2 Pte. Ltd.
+* Keppel DC Singapore 3
+  FM¹: Keppel DCS3 Services Pte. Ltd.
+* Keppel DC Singapore 4
+  FM¹: Keppel DC Singapore 2 Pte. Ltd.
+* Keppel DC Singapore 5
+  FM¹: Keppel DCS3 Services Pte. Ltd.
+* Keppel DC Singapore 7
+  FM¹: Keppel DCS3 Services Pte. Ltd.
+* Keppel DC Singapore 8
+  FM¹: Keppel DCS3 Services Pte. Ltd.
+* DC1
+
+**Australia**
+* Gore Hill Data Centre
+  FM¹: Keppel DC Services Australia Pty Ltd²
+
+**China**
+* Guangdong Data Centres 1, 2 and 3
+
+**Japan**
+* Tokyo Data Centre 1
+  FM¹: Jones Lang LaSalle K.K.
+* Tokyo Data Centre 3
+  FM¹: Colt Data Centre Services Japan Operating GK
+
+**Malaysia**
+* Basis Bay Data Centre³
+  FM¹: Basis Bay Services MSC Sdn Bhd
+
+### Europe
+
+**Germany**
+* maincubes Data Centre
+
+**Ireland**
+* Keppel DC Dublin 1
+* Keppel DC Dublin 2
+
+**Italy**
+* Milan Data Centre
+
+**The Netherlands**
+* Almere Data Centre
+* Amsterdam Data Centre
+  FM¹: FRIS Investment Care B.V.
+* Eindhoven Campus
+  FM¹: NL Asset Management B.V.
+
+**United Kingdom**
+* Cardiff Data Centre
+* GV7 Data Centre
+* London Data Centre
+
+\*1 The facility managers (FM) are appointed pursuant to the facility management agreements entered into for the respective properties.
+
+\*2 Renamed with effect from 16 February 2026. Previously known as iseek-KDC Services Pty Ltd.
+
+\*3 Divestment of asset announced on 2 January 2025; completion expected in 1Q 2026.
+
+<!-- PAGE 12 -->
+
+# Board of Directors
+
+**Board Committees**
+
+Audit and Risk Committee icon Audit and Risk Committee
+
+Nominating and Remuneration Committee icon Nominating and Remuneration Committee
+
+Environmental, Social and Governance Committee icon Environmental, Social and Governance Committee
+
+Portrait of Christina Tan
+
+**CHRISTINA TAN, 60** Nominating and Remuneration Committee icon
+Chairman and Non-Executive Director
+
+**Date of first appointment:**
+15 September 2016
+
+**Date of last re-endorsement:**
+19 April 2023
+
+**Length of service (as at 31 December 2025):**
+9 years 4 months
+
+**Board Committee(s) served on:**
+Member of Nominating and Remuneration Committee
+
+**Academic & Professional Qualification(s):**
+Bachelor of Accountancy (Honours), National University of Singapore; CFA® Charterholder
+
+**Present Directorships (as at 1 January 2026):**
+*Listed companies*
+Keppel REIT Management Limited (the manager of Keppel REIT); Keppel Infrastructure Fund Management Pte. Ltd. (the trustee-manager of Keppel Infrastructure Trust)
+
+**Other principal directorships**
+Keppel Capital Holdings Pte. Ltd.; Keppel Fund Management Limited
+
+**Major Appointments (other than directorships):**
+Chief Executive Officer, Fund Management and Chief Investment Officer, Keppel Ltd.
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+Various subsidiaries and associated companies of Keppel Fund Management Limited and funds managed by Keppel Fund Management Limited
+
+**Others:**
+Nil
+
+Portrait of Low Huan Ping
+
+**LOW HUAN PING, 69** Nominating and Remuneration Committee icon Audit and Risk Committee icon
+Lead Independent Director
+
+**Date of first appointment:**
+28 February 2019
+
+**Date of last re-endorsement:**
+15 April 2025
+
+**Length of service (as at 31 December 2025):**
+6 years 10 months
+
+**Board Committee(s) served on:**
+Chairman of Nominating and Remuneration Committee; Member of Audit and Risk Committee
+
+**Academic & Professional Qualification(s):**
+Bachelor of Arts (Honours) and Master of Arts in Engineering, Cambridge University; Master of Science (Industrial Engineering), National University of Singapore; Advanced Management Program, Harvard Business School
+
+**Present Directorships (as at 1 January 2026):**
+*Listed companies*
+Nil
+
+**Other principal directorships**
+M1 Network Private Limited¹
+
+**Major Appointments (other than directorships):**
+Nil
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+Nil
+
+**Others:**
+Former Executive Vice President, Technology of Singapore Press Holdings Limited
+
+<!-- PAGE 13 -->
+
+Portrait of Yeo Siew Eng
+
+Portrait of Chua Soon Ghee
+
+**YEO SIEW ENG, 68²** A
+Independent Director
+
+**CHUA SOON GHEE, 54²** N E
+Independent Director
+
+**Date of first appointment:**
+
+1 November 2022
+
+**Date of last endorsement:**
+
+19 April 2023
+
+**Length of service (as at 31 December 2025):**
+
+3 years 2 months
+
+**Board Committee(s) served on:**
+
+Chairman of Audit and Risk Committee
+
+**Academic & Professional Qualification(s):**
+
+Bachelor of Accountancy, University of Singapore; Fellow of the Singapore Institute of Chartered Accountants; Member of the Singapore Institute of Directors
+
+**Present Directorships (as at 1 January 2026):**
+
+Listed companies
+Nil
+
+**Other principal directorships**
+
+Maritime and Port Authority of Singapore; SimplyGo Pte. Ltd.; Surbana Jurong Private Limited
+
+**Major Appointments (other than directorships):**
+
+Nil
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Transit Link Pte Ltd; Venture Corporation Limited; Nam Lee Pressed Metal Industries Limited
+
+**Others:**
+
+Former Partner of Deloitte and Touche LLP, Singapore
+
+**Date of first appointment:**
+
+1 September 2023
+
+**Date of last endorsement:**
+
+17 April 2024
+
+**Length of service (as at 31 December 2025):**
+
+2 years 4 months
+
+**Board Committee(s) served on:**
+
+Member of Nominating and Remuneration Committee; Member of Environmental, Social and Governance Committee
+
+**Academic & Professional Qualification(s):**
+
+Master of Science in Electrical Engineering, Stanford University; Bachelors of Science with Honors in Electrical Engineering and Economics (Double Major), The California Institute of Technology
+
+**Present Directorships (as at 1 January 2026):**
+
+Listed companies
+Nil
+
+**Other principal directorships**
+
+Infocomm Media Development Authority (IMDA);
+
+A.T. Kearney Pte Ltd
+
+**Major Appointments (other than directorships):**
+
+Senior Partner, Global Talent Team, A.T. Kearney Pte Ltd
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Nil
+
+**Others:**
+
+Nil
+
+² As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the Nominating and Remuneration Committee and Environmental, Social and Governance Committee with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the Environmental, Social and Governance Committee and Mr Andrew Tan succeeded Mr Chua as member of the Nominating and Remuneration Committee.
+
+<!-- PAGE 14 -->
+
+# Board of Directors
+
+Photo of Tan Kok Kiong Andrew
+
+**TAN KOK KIONG ANDREW, 58¹** A E
+
+Independent Director
+
+**Date of first appointment:**
+
+1 September 2023
+
+**Date of last endorsement:**
+
+17 April 2024
+
+**Length of service (as at 31 December 2025):**
+
+2 years 4 months
+
+**Board Committee(s) served on:**
+
+Member of Audit and Risk Committee; Member of Environmental, Social and Governance Committee
+
+**Academic & Professional Qualification(s):**
+
+Advanced Management Programme, INSEAD Business School, Fontainebleau, France; Masters in Public Administration, Kennedy School of Government, Harvard University; Postgraduate Diploma in Business Administration, National University of Singapore; First Class Honours Degree in History from King’s College, University of London; Member of Singapore Institute of Directors
+
+**Present Directorships (as at 1 January 2026):**
+
+*Listed companies*
+Kim Heng Ltd.
+
+**Other principal directorships**
+
+GoTyme Bank Corporation; Singapore Management University Institute of Innovation & Entrepreneurship’s Enterprise Board
+
+**Major Appointments (other than directorships):**
+
+Nil
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Agoda Company Pte. Ltd.
+
+**Others:**
+
+Nil
+
+Photo of Thomas Pang Thieng Hwi
+
+**THOMAS PANG THIENG HWI, 61** E
+
+Non-Executive Director
+
+**Date of first appointment:**
+
+18 November 2014
+
+**Date of last re-endorsement:**
+
+17 April 2024
+
+**Length of service (as at 31 December 2025):**
+
+11 years 1 month
+
+**Board Committee(s) served on:**
+
+Chairman of Environmental, Social and Governance Committee
+
+**Academic & Professional Qualification(s):**
+
+Bachelor of Arts (Engineering) and Master of Arts (Honorary Award), University of Cambridge
+
+**Present Directorships (as at 1 January 2026):**
+
+*Listed companies*
+
+Nil
+
+**Other principal directorships**
+
+ADCF C Private Limited; M1 Limited; Keppel Anhui Food Logistics Park Pte Ltd; Keppel Jilin Food Logistics Park Pte. Limited; Keppel Technology and Innovation Pte Ltd;
+
+**Major Appointments (other than directorships):**
+
+Senior Managing Director, CEO’s Office, Keppel Ltd.
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Various subsidiaries and associated companies of Keppel Telecommunications & Transportation Ltd and Keppel DC REIT; Keppel Capital Holdings Pte. Ltd.; SVOA Public Company Ltd; Keppel Data Centres Pte Ltd; Keppel Networks Infrastructure Pte Ltd; Computer Generated Solutions, Inc
+
+**Others:**
+
+Nil
+
+\*1 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the Nominating and Remuneration Committee and Environmental, Social and Governance Committee with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the Environmental, Social and Governance Committee and Mr Andrew Tan succeeded Mr Chua as member of the Nominating and Remuneration Committee.
+
+<!-- PAGE 15 -->
+
+# The Manager
+
+Portrait of Loh Hwee Long
+
+**LOH HWEE LONG**, 49
+Chief Executive Officer
+
+Mr Loh has more than 25 years of experience in real asset investment and in asset and fund management across major global markets in Asia Pacific, Europe, Middle East and North America. He was appointed as Chief Executive Officer of the Manager on 28 July 2023.
+
+Prior to joining the Manager, Mr Loh was the Chief Investment Officer, Data Centres, at Keppel Capital, overseeing its data centre strategies across various investment platforms and mandates. Before joining Keppel, he held senior positions with the Government of Singapore Investment Corporation Real Estate and Mapletree Investments, where he was responsible for investments across multiple real estate sectors as well as spearheading entry into new markets. Mr Loh began his career with Keppel Land.
+
+Mr Loh holds a Bachelor of Science (Real Estate) degree from the National University of Singapore where he graduated with First Class Honours. He received a scholarship from Keppel in 1997.
+
+**Present Directorships (as at 1 January 2026):**
+
+Various subsidiaries and associated companies of Keppel DC REIT
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Ruyi Asset Management Pte. Ltd.; Helios (DC2) Pte. Ltd.; Huailai (DC2) Pte. Ltd.; Fusion (DC2) Pte. Ltd.; Fusion Ireland (DC2) Private Limited; Keppel DC Malaysia 1 Sdn. Bhd.; GH Cloud Management Pty Ltd; Jinhuitong Creative Design (Shanghai) Co., Ltd.; PT Indokeppel Datacentre JKT, Huizhou Bike Property Development Co., Ltd.; KDCR Japan 2 Pte. Ltd.
+
+Portrait of Adam Lee Sin Jun
+
+**ADAM LEE SIN JUN**, 41
+Chief Financial Officer
+
+Mr Lee has more than 18 years of experience in the areas of financial and statutory reporting, corporate finance, management accounting, taxation, and audit.
+
+Mr Lee has been with the Manager since the preparation for the initial public offering (IPO) of Keppel DC REIT as part of the key IPO team in 2014. In his previous role as Vice President, Finance, Mr Lee assisted the finance heads of the Manager with financial and statutory reporting, management reporting and annual budgeting, as well as certain compliance matters. Mr Lee was also involved in various acquisitions, divestments and fund-raising exercises.
+
+Mr Lee started his career in an audit function within the real estate and hospitality sectors with PricewaterhouseCoopers LLP Singapore where he was the engagement manager for listed real estate investment trusts and property developers.
+
+Mr Lee holds a Bachelor of Accountancy, Second Class Honours (Upper Division), from the Nanyang Technological University of Singapore. He is a Chartered Accountant (Singapore) and is a member of the Institute of Singapore Chartered Accountants.
+
+**Present Directorships (as at 1 January 2026):**
+
+Various subsidiaries and associated companies of Keppel DC REIT
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+KDCR Japan 1 Pte. Ltd.
+
+Portrait of Charmaine Cai Jialing
+
+**CHARMAINE CAI JIALING**, 44
+Head of Portfolio Management
+
+Ms Cai has over 21 years of experience in the real estate and financial services industries.
+
+Before joining Keppel DC REIT, she was Head of Acquisitions at Rockworth Capital Partners Pte Ltd (Rockworth), where she was primarily responsible for the origination and execution of direct property deals and was also involved in several indirect investment-related transactions.
+
+Before joining Rockworth, she held senior investment positions and directorships in a private European fund management company for 10 years, seeing through full cycles of acquisition, asset management and divestment of assets across Asia Pacific, including Australia, China, Japan and South Korea. She was also involved in strategic planning and investor relations matters.
+
+Her prior experiences include portfolio allocation, investment advisory, risk management and corporate finance at Morgan Stanley and CapitaLand.
+
+Ms Cai holds a Bachelor of Business Management with First Class Honours from the Singapore Management University, majoring in Finance and Law, and spent half a year at the Wharton School of the University of Pennsylvania during her undergraduate years.
+
+**Present Directorships (as at 1 January 2026):**
+
+KDCR Japan 2 Pte. Ltd.
+
+**Past Directorships held over the preceding 5 years (from 1 January 2021 to 31 December 2025):**
+
+Nil
+
+<!-- PAGE 16 -->
+
+# Investor Relations
+
+Keppel DC REIT Annual General Meeting 15 April 2025
+
+Keppel DC REIT’s general meeting provides a platform for meaningful two-way engagement, enabling the Board and Management to address Unitholders’ questions and reinforce transparent, effective communication.
+
+## The Manager proactively engages the investment community to share Keppel DC REIT’s developments and gather feedback, reinforcing transparency and trust.
+
+In its communication with the investment community, Keppel DC REIT is guided by the principles and guidelines set out in the Investor Relations (IR) policy available on its corporate website. The Manager provides timely, accurate, fair, and transparent disclosures through multiple platforms to enhance its outreach to the investment community.
+
+**EFFECTIVE AND TIMELY DISCLOSURES**
+
+Keppel DC REIT announces financial results on a half-yearly basis and provides voluntary business updates for the first and third quarters. On a quarterly basis, the Manager conducts live webcasts or analyst teleconferences to announce its results and business updates.
+
+Post-results, the Manager engages investors through in-person and virtual meetings to discuss strategy, performance and outlook.
+
+The corporate website serves as a repository for the latest information including annual reports, factsheet, financial and portfolio information, investor presentations and media releases. Investors may subscribe to receive email alerts for key announcements. The IR contact is published on the corporate website and in all media releases to facilitate engagement.
+
+**ONGOING STAKEHOLDER ENGAGEMENT**
+
+In 2025, the Manager had more than 1,100 engagements with institutional investors and analysts in Singapore, Australia, Europe, Hong Kong, Japan, Malaysia, North America, South Korea, Taiwan, Thailand and the Middle East through a combination of in-person and virtual investor conferences, roadshows, meetings, teleconferences and site visits.
+
+In addition, the Manager participated in the Keppel REITs and Trust Investor Day held in Bangkok in partnership with DBS to reach out to institutional investors via a mix of one-on-one and group meetings.
+
+To broaden its outreach to retail investors, the Manager participated in the REITs Symposium and two webinars hosted by Phillip Securities, collectively reaching close to 1,800 attendees.
+
+<!-- PAGE 17 -->
+
+# ANNUAL GENERAL MEETING
+
+Keppel DC REIT’s 10th Annual General Meeting (AGM) took place on 15 April 2025, providing a platform for two-way engagement, enabling the Board and Management to address Unitholders’ questions. The Manager published responses to substantial and relevant questions from Unitholders on SGXNet and the corporate website.
+
+All resolutions at the AGM were polled with an independent scrutineer to count and validate the votes. The results, minutes and presentation slides were published on SGXNet and Keppel DC REIT’s website.
+
+# ACCOLADES AND MEMBERSHIPS
+
+* Included in the benchmark Straits Times Index with effect from 23 June 2025
+
+* Won Best Investor Relations (Silver) Award at Singapore Corporate Awards 2025
+
+* Joint winner of Singapore Corporate Governance Award at SIAS Investors’ Choice Awards 2025
+
+* Maintained 9th position in the Singapore Governance and Transparency Index under the REIT and Business Trust category in 2025
+
+* Voted ‘Most Popular REIT’ at REITs Symposium 2025
+
+* Member of the REIT Association of Singapore (REITAS)
+
+Keppel DC REIT is a constituent of the FTSE Straits Times Index, FTSE EPRA Nareit Global Real Estate Index Series, FTSE Global Equity Index Series, FTSE Environmental Opportunities Index Series, MSCI Singapore Small Cap Index, GPR Real Estate Index Series and iEdge SG Real Estate, SREIT, and SREIT Leaders indices, amongst other indices.
+
+# Research Coverage
+
+Keppel DC REIT is covered by 16 equity research houses and Bloomberg:
+
+* Bank of America Securities
+
+* CGS International
+
+* Citi Research
+
+* CLSA Singapore
+
+* DBS Group Research
+
+* Goldman Sachs Equity Research
+
+* HSBC Global Research
+
+* J.P. Morgan Securities
+
+* Maybank
+
+* Macquarie Securities
+
+* Morgan Stanley Research
+
+* Morningstar Equity Research
+
+* OCBC Investment Research
+
+* Phillip Securities
+
+* UOB Kay Hian
+
+* UBS
+
+**UNITHOLDING BY GEOGRAPHY¹ (%)**
+as at 4 February 2026
+
+<table>
+  <tbody>
+    <tr>
+        <td>Singapore</td>
+        <td>21.4</td>
+    </tr>
+    <tr>
+        <td>North America</td>
+        <td>18.1</td>
+    </tr>
+    <tr>
+        <td>Asia (excluding Singapore)</td>
+        <td>9.4</td>
+    </tr>
+    <tr>
+        <td>United Kingdom (UK)</td>
+        <td>6.5</td>
+    </tr>
+    <tr>
+        <td>Europe (excluding UK)</td>
+        <td>6.0</td>
+    </tr>
+    <tr>
+        <td>Others²</td>
+        <td>38.6</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <th>100.0</th>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Excluding Sponsor and related parties.
+
+\*2 Others comprise the rest of the world, as well as unidentified holdings and holdings below the analysis threshold.
+
+**UNITHOLDING BY TYPE (%)**
+as at 4 February 2026
+
+<table>
+  <thead>
+    <tr>
+      <th>Sponsor and related parties</th>
+      <th>19.2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Institutional</td>
+      <td>45.9</td>
+    </tr>
+    <tr>
+      <td>Retail</td>
+      <td>34.9</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Management engaging with investors during the AGM held on 15 April 2025.
+
+Management engaging with investors during the AGM held on 15 April 2025.
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Sponsor and related parties</th>
+      <th>19.2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Institutional</td>
+      <td>45.9</td>
+    </tr>
+    <tr>
+      <td>Retail</td>
+      <td>34.9</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 18 -->
+
+# Investor Relations
+
+**INVESTOR RELATIONS CALENDAR**
+
+Financial Year Ended 31 December 2025
+
+# 1Q 2025
+
+* FY 2024 results announcement and webcast
+
+* FY 2024 post-results group investor luncheon and virtual meeting hosted by DBS
+
+* Webinar for retail investors and trading representatives hosted by Phillip Securities
+
+* Roadshow for Thailand investors hosted by DBS
+
+* Citi’s 2025 Global Property CEO Conference
+
+* Goldman Sachs APAC Data Center Corporate Day
+
+# 2Q 2025
+
+* 1Q 2025 operational updates and analyst teleconference
+
+* 1Q 2025 post-operational updates group investor luncheon and virtual meeting hosted by HSBC
+
+* Keppel DC REIT’s 10th AGM
+
+* J.P. Morgan ASEAN TMT & Fintech Forum
+
+* Roadshow for Malaysia investors hosted by CLSA
+
+* Macquarie Asia Conference 2025
+
+* DBS Private Bank – REITAS Luncheon
+
+* REITs Symposium 2025
+
+* Roadshow for Australia investors hosted by UBS
+
+# 3Q 2025
+
+* 1H 2025 results announcement and webcast
+
+* 1H 2025 post-results group investor luncheon and virtual meeting hosted by Goldman Sachs
+
+* Webinar for retail investors and trading representatives hosted by Phillip Securities
+
+* Keppel REITs and Trust Investor Day 2025
+
+* UBS SGX Singapore Corporate Day
+
+* BofA 2025 Global Real Estate Conference
+
+# 4Q 2025
+
+* 3Q 2025 operational updates and analyst teleconference
+
+* 3Q 2025 post-operational updates group investor luncheon and virtual meeting hosted by Citi
+
+* Roadshow for Japan investors hosted by Goldman Sachs and Mizuho
+
+* Roadshow for Taiwan investors hosted by UOB Kay Hian
+
+* BofA APAC Property Week
+
+* Morgan Stanley 24th Annual Asia Pacific Summit 2025
+
+* PwC Asia Pacific Real Estate Summit 2025
+
+* UBS Global Real Estate CEO/CFO Conference 2025
+
+**Unitholder Enquiries**
+
+**Telephone**
+
+(65) 6803 1679
+
+**Email**
+
+investor.relations@keppeldcreit.com
+
+**Website**
+
+www.keppeldcreit.com
+
+<!-- PAGE 19 -->
+
+# Unit Price Performance
+
+Keppel DC REIT’s closing price was $2.25 per Unit as at 31 December 2025. Based on this closing price and Distribution per Unit (DPU) of 10.381 cents for the financial year ended 31 December 2025, this translates into a distribution yield of 4.6%. Keppel DC REIT delivered total Unitholder return of 6.4% for FY 2025.
+
+## MONTHLY TRADING PERFORMANCE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Jan 2025</th>
+        <th>Feb 2025</th>
+        <th>Mar 2025</th>
+        <th>Apr 2025</th>
+        <th>May 2025</th>
+        <th>Jun 2025</th>
+        <th>Jul 2025</th>
+        <th>Aug 2025</th>
+        <th>Sep 2025</th>
+        <th>Oct 2025</th>
+        <th>Nov 2025</th>
+        <th>Dec 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Monthly trading volume (million Units)</td>
+        <td>181.9</td>
+        <td>190.2</td>
+        <td>178.1</td>
+        <td>190.9</td>
+        <td>121.8</td>
+        <td>201.7</td>
+        <td>270.8</td>
+        <td>117.5</td>
+        <td>161.1</td>
+        <td>144.0</td>
+        <td>153.6</td>
+        <td>162.3</td>
+    </tr>
+    <tr>
+        <td>Closing Unit price month-end ($ per Unit)</td>
+        <td>2.20</td>
+        <td>2.07</td>
+        <td>2.15</td>
+        <td>2.16</td>
+        <td>2.19</td>
+        <td>2.33</td>
+        <td>2.37</td>
+        <td>2.36</td>
+        <td>2.39</td>
+        <td>2.39</td>
+        <td>2.31</td>
+        <td>2.25</td>
+    </tr>
+  </tbody>
+</table>
+
+## UNIT PRICE PERFORMANCE ($ per Unit)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Highest closing price</td>
+        <td>$2.43</td>
+        <td>$2.38</td>
+    </tr>
+    <tr>
+        <td>Lowest closing price</td>
+        <td>$1.92</td>
+        <td>$1.62</td>
+    </tr>
+    <tr>
+        <td>Average closing price</td>
+        <td>$2.245</td>
+        <td>$1.946</td>
+    </tr>
+    <tr>
+        <td>Closing price on last trading day of the year</td>
+        <td>$2.25</td>
+        <td>$2.18</td>
+    </tr>
+    <tr>
+        <td>Trading volume (million Units)</td>
+        <td>2,073.9</td>
+        <td>1,655.6</td>
+    </tr>
+  </tbody>
+</table>
+
+## COMPARATIVE YIELDS (%)
+as at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Yield</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Keppel DC REIT</td>
+        <td>4.6¹</td>
+    </tr>
+    <tr>
+        <td>FTSE ST REIT Index</td>
+        <td>4.7</td>
+    </tr>
+    <tr>
+        <td>Straits Times Index</td>
+        <td>4.6</td>
+    </tr>
+    <tr>
+        <td>FTSE ST RE Index</td>
+        <td>4.3</td>
+    </tr>
+    <tr>
+        <td>CPF Ordinary Account</td>
+        <td>2.5</td>
+    </tr>
+    <tr>
+        <td>10-year SG Govt Bond</td>
+        <td>2.1</td>
+    </tr>
+    <tr>
+        <td>5-year SG Govt Bond</td>
+        <td>1.8</td>
+    </tr>
+  </tbody>
+</table>
+
+## UNIT PRICE PERFORMANCE AGAINST INDICES (%)
+for the period from 1 January 2025 to 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th>Series</th>
+        <th>% change</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Keppel DC REIT</td>
+        <td>+3.2</td>
+    </tr>
+    <tr>
+        <td>FTSE ST RE Index</td>
+        <td>+16.9</td>
+    </tr>
+    <tr>
+        <td>FTSE ST REIT Index</td>
+        <td>+11.3</td>
+    </tr>
+    <tr>
+        <td>Straits Times Index</td>
+        <td>+22.7</td>
+    </tr>
+  </tbody>
+</table>
+
+Sources: Bloomberg, Monetary Authority of Singapore and Central Provident Fund.
+
+\*1 Based on Keppel DC REIT’s total DPU of 10.381 cents for FY 2025 and the closing price per Unit of $2.25 as at 31 December 2025.
+
+<!-- PAGE 20 -->
+
+Map of Keppel DC REIT global presence showing data centre locations in Europe and Asia Pacific
+
+<table>
+  <tbody>
+    <tr>
+        <td>ASSETS UNDER MANAGEMENT</td>
+        <td>TOTAL NUMBER OF DATA CENTRES</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <td>$6.3b¹</td>
+        <td>25</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <td>As at 31 December 2025</td>
+        <td>Across 10 countries</td>
+    </tr>
+  </tbody>
+</table>
+
+# Keppel DC REIT Around the World
+
+## EUROPE
+
+**GERMANY**
+
+* maincubes Data Centre, Offenbach am Main
+
+**IRELAND**
+
+* Keppel DC Dublin 1, Dublin
+
+* Keppel DC Dublin 2, Dublin
+
+**ITALY**
+
+* Milan Data Centre, Milan
+
+**THE NETHERLANDS**
+
+* Almere Data Centre, Almere
+
+* Amsterdam Data Centre, Amsterdam
+
+* Eindhoven Campus, Eindhoven
+
+**UNITED KINGDOM**
+
+* Cardiff Data Centre, Cardiff
+
+* GV7 Data Centre, London
+
+* London Data Centre, London
+
+## ASIA PACIFIC
+
+**SINGAPORE**
+
+* Keppel DC Singapore 1
+
+* Keppel DC Singapore 2
+
+* Keppel DC Singapore 3
+
+* Keppel DC Singapore 4
+
+* Keppel DC Singapore 5
+
+* Keppel DC Singapore 7
+* Keppel DC Singapore 8
+* DC1
+
+**AUSTRALIA**
+
+* Gore Hill Data Centre, Sydney
+
+**CHINA**
+
+* Guangdong Data Centres 1, 2 and 3, Guangdong Province
+
+**JAPAN**
+
+* Tokyo Data Centre 1, Tokyo
+
+* Tokyo Data Centre 3, Tokyo
+
+**MALAYSIA**
+
+* Basis Bay Data Centre, Cyberjaya²
+
+\*1 Includes investments in debt securities and the acquisition of remaining interests in Keppel DC Singapore 3 and Keppel DC Singapore 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+\*2 Divestment of asset announced on 2 January 2025; completion expected in 1Q 2026.
+
+<!-- PAGE 21 -->
+
+# Independent Market Review
+
+By DC Byte
+
+**Demand growth outpaced supply for the fifth consecutive year, reinforcing positive fundamentals for operators and investors.**
+
+<!-- PAGE 22 -->
+
+# GLOBAL DATA CENTRE OVERVIEW
+
+The global data centre market continued its strong growth trajectory in 2025, driven by continued cloud adoption, rapid digitalisation and the scaling of artificial intelligence (AI) workloads. Demand growth outpaced supply for the fifth consecutive year, reinforcing positive fundamentals for operators and investors.
+
+Total global supply¹, comprising both colocation and self-build facilities, grew by 19.0% from 50.3 GW² in 2024 to 59.9 GW in 2025E. Demand grew slightly faster at 19.1% from 47.0 GW to 56.0 GW for the same period.
+
+This global supply demand imbalance is expected to persist, with supply projected to grow at a compound annual growth rate (CAGR) of 17.9% between 2025E and 2029F, and demand growth at 19.4%, underscoring continued market tightness. While total supply today exceeds total demand, demand is growing materially faster than supply. As demand velocity accelerates, the current supply surplus will narrow, and vacancy rates are expected to decline across major regions.
+
+The colocation segment constitutes the largest share of global supply, estimated at 59.8% in 2025E. Colocation supply grew by 17.1% year-on-year, from 30.6 GW in 2024 to 35.8 GW in 2025E and is forecast to grow at a CAGR of 15.3% between 2025E and 2029F. Self-build facilities comprise 40.2% of the market, of which 22.5% are owned by global cloud service providers (CSPs)³.
+
+On the demand front, colocation requirements increased by 16.9% from 27.3 GW in 2024 to 32.0 GW in 2025E and is expected to outpace supply growth with a projected CAGR of 17.6% between 2025E and 2029F. Global colocation demand continues to stem largely from CSPs³. CSP and AI-related colocation demand doubled to 4.2 GW in 2025, reflecting a CAGR of 47.7%, while other sectors including social media, Internet of Things (IoT), gaming, and financial institutions saw growth rates between 26.9% and 49.1%. Meanwhile, demand for self-build facilities continues to increase as CSPs seek AI-ready, high-density deployments to support AI training workloads.
+
+CSPs pursue a mix of self-build and colocation strategies including build-to-suit and wholesale colocation⁴, which make up 4.1% and 41.7% of the total colocation supply respectively. This mixed deployment strategy reflects the need for CSPs to balance flexibility, scalability and control as demand in the global market surges.
+
+## Asia Pacific
+
+The Asia Pacific (APAC) colocation data centre market is expanding rapidly, driven by strong AI and cloud demand, even as developed hubs face land and power constraints.
+
+The supply of colocation data centres in APAC has grown steadily, averaging a CAGR of 17.7% over the past five years (2020 to 2025E) to reach an estimated 11.9 GW in 2025E. Among the developed APAC markets, Australia, Japan, Singapore, and South Korea remain the leading data centre hubs and are underpinned by strong infrastructure, connectivity, and stability though growth is increasingly constrained by land scarcity, limited new power availability, and heightened sustainability-related regulatory oversight.
+
+Emerging APAC markets are gaining traction, supported by streamlined ownership structures and government incentives. Malaysia and India saw the most significant growth, each adding over 300 MW and 200 MW of new supply from 2024 to 2025E respectively. In Southeast Asia, countries are benefitting from pro-investment policies, incentives for large-scale campus developments, and spillover demand from constrained markets such as Singapore. These emerging APAC markets are securing sizeable CSP pre-commitments, accelerating the delivery of hyperscale capacity at lower development costs and faster build timelines, particularly for Machine Learning (ML)-driven and cloud-intensive workloads.
+
+Demand for ML-capable capacity is increasing rapidly in APAC, with these workloads increasingly gravitating toward markets where data centre capacity can be deployed quickly, cost effectively, and at scale. The Australia, India, and Malaysia markets possess these advantages and as such are capturing the
+
+GLOBAL COLOCATION DATA CENTRE SUPPLY/DEMAND/UTILISATION¹
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>59,910</td>
+        <td>70,573</td>
+        <td>83,191</td>
+        <td>98,134</td>
+        <td>115,841</td>
+    </tr>
+    <tr>
+        <td>Total Live Take-up (MW)</td>
+        <td>56,026</td>
+        <td>66,728</td>
+        <td>79,646</td>
+        <td>95,162</td>
+        <td>113,778</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>93.5</td>
+        <td>94.6</td>
+        <td>95.7</td>
+        <td>97.0</td>
+        <td>98.2</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Utilisation is a proportion of the total demand to the total supply.
+
+¹ Supply, unless stated otherwise refers to live IT capacity that is fully fitted out with mechanical and electrical (M&E) systems required for the capacity to be operational.
+
+² Gigawatt. 1 GW is equivalent to 1,000 megawatt (MW) or 1,000,000 kilowatt (KW).
+
+³ Cloud service providers include Amazon Web Services (AWS), Alibaba, Baidu, Bytedance, Google, Microsoft, Oracle and Tencent.
+
+⁴ Wholesale colocation: Data centres are developed at scale for large customer deployments. Rents tend to be lower and the size of individual deals commensurately larger, perhaps 1 MW or higher per deal as a typical size.
+
+<!-- PAGE 23 -->
+
+# Independent Market Review
+By DC Byte
+
+largest AI-driven contracts at a high degree of concentration.
+
+APAC's AI market is projected to grow from US$85.2 billion in 2025 to US$283.9 billion by 2030<sup>1</sup>, at a CAGR of 27.2%, reflected by the expanding development pipeline of hyperscale, high-power-density campuses designed for next-generation AI requirements.
+
+Another key driver is the growth of cloud, as seen with major CSP providers scaling their APAC investments. Cloud demand is further reinforced by rising AI workloads, digital transformation, and IoT adoption. Neocloud<sup>2</sup> demand in APAC remains domestic and in small deployment sizes, while larger contract sizes have been observed for traditional hyperscale end-users.
+
+Looking ahead, APAC's colocation supply is projected to grow at a CAGR of 18.7% between 2025E and 2029F, while demand is expected to grow at a CAGR of 21.1% for the same period.
+
+## Europe
+
+Europe's colocation market is expanding rapidly, with supply growing at an average of 15.3% over the last five years (2020 to 2025E) or 15.7% year-on-year from 6.9 GW in 2024 to 7.9 GW in 2025E. This growth is fuelled by surging demand from CSPs and AI-driven workloads, which are expected to maintain double-digit CAGRs through 2029.
+
+However, the traditional FLAPD markets (Frankfurt, London, Amsterdam, Paris, and Dublin) face acute delivery challenges. Lack of suitable land, tight power grid capacity, and lengthy connection lead times, and more complex regulatory and administrative requirements are slowing new developments. As these core hubs reach capacity and demand for wholesale space escalates, demand is spilling over into secondary European markets.
+
+Outside the traditional FLAPD hubs, secondary markets are emerging
+
+### ASIA PACIFIC COLOCATION DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>11,892</td>
+        <td>14,122</td>
+        <td>16,770</td>
+        <td>19,913</td>
+        <td>23,646</td>
+    </tr>
+    <tr>
+        <td>Total Live Take-up (MW)</td>
+        <td>10,522</td>
+        <td>12,687</td>
+        <td>15,361</td>
+        <td>18,629</td>
+        <td>22,615</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>88.5</td>
+        <td>89.8</td>
+        <td>91.6</td>
+        <td>93.5</td>
+        <td>95.6</td>
+    </tr>
+  </tbody>
+</table>
+
+### EUROPE COLOCATION DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>7,948</td>
+        <td>9,086</td>
+        <td>10,386</td>
+        <td>11,873</td>
+        <td>13,572</td>
+    </tr>
+    <tr>
+        <td>Total Live Take-up (MW)</td>
+        <td>7,195</td>
+        <td>8,431</td>
+        <td>9,888</td>
+        <td>11,602</td>
+        <td>13,530</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>90.5</td>
+        <td>92.8</td>
+        <td>95.2</td>
+        <td>97.7</td>
+        <td>99.7</td>
+    </tr>
+  </tbody>
+</table>
+
+as essential alternatives due to land scarcity, rising power costs, and tightening sustainability rules in core cities. Yet, these newer locations are also experiencing acute power grid congestion and slower infrastructure development, making long-term power availability, renewable energy access and environmental impacts central considerations for operators. With the right grid upgrades and clean energy partnerships, these markets can still offer strong potential for sustainable expansion.
+
+Surging demand for AI-ready infrastructure is transforming the investment landscape. To meet the need for high-density, power-intensive facilities on accelerated timelines, data centre operators are increasingly forming joint ventures with institutional investors. These partnerships allow large-scale capital to secure a strategic, long-term stake in the physical foundation of the AI economy.
+
+CSPs are prioritising in-country deployments over broader regional coverage and given limited availability
+
+\* Statista (January 2025)
+
+\*<sup>2</sup> NeoCloud, refers to GPU-as-a-Service (GPUaaS), a cloud-based infrastructure platform that provides on-demand access to high-performance GPU computing resources through a service-oriented model. It typically consists of high-performance GPUs (e.g. Nvidia A100, H100, AMD MI300) organised in scalable clusters.
+
+<!-- PAGE 24 -->
+
+in primary markets, they are turning to smaller, secondary markets such as Italy, Spain and Portugal, where greenfield sites offer more favourable development conditions and access to renewables.
+
+Looking ahead, Europe’s colocation supply is projected to grow at a CAGR of 14.3% between 2025E and 2029F, while demand is expected to grow at a CAGR of 17.1% for the same period, exceeding supply.
+
+# Key Trends
+
+## 1. Artificial Intelligence
+
+The global adoption of generative AI³ (Gen-AI) models is set to reshape data centre infrastructure demand over the next five years, contributing up to one-third of total capacity growth by 2030. A key driver of this expansion will be agentic AI, autonomous systems capable of independent, real-time decision-making without human input.
+
+Demand for inference-focused AI data centres is expected to accelerate significantly over the next five years, driven by the commercialisation and scaling of generative and agentic AI applications. Unlike training workloads which are compute-intensive but episodic, inference workloads are persistent, latency-sensitive, and user-facing, requiring continuous availability and rapid response times.
+
+As AI models move from development to deployment, inference increasingly becomes the dominant workload, supporting real-time decision-making, autonomous agents, copilots, and AI-enabled consumer and enterprise applications. This shift is driving demand for distributed data centre infrastructure, including edge facilities located closer to end-users.
+
+Global electricity demand from data centres is expected to more than double by 2030, with data centres contributing roughly one-tenth of total global electricity demand growth over the same period. AI is projected to be the largest driver of this increase, with electricity demand from AI-optimised data centres expected to more than quadruple by 2030⁴. The power intensity of AI workloads far exceeds traditional computing requirements, with the International Energy Agency estimating that power demand for AI processing will consume up to five times more power than standard data operations. Rising demand for AI-ready infrastructure is being driven primarily by CSPs, which are scaling capacity to support both proprietary AI models and third-party deployments.
+
+On 13 May 2025, the United States (US) administration rescinded the *AI Diffusion Rule*, lifting export restrictions on advanced AI chips for allied and partner nations while maintaining controls on adversarial states. This is expected to accelerate the global deployment of AI-optimised infrastructure, particularly in Southeast Asia, the Middle East, and Europe, where uncertainty had previously delayed hyperscale and High-Performance Computing projects. Increased accessibility of high-performance Graphics Processing Units (GPU) will also enable greater geographic diversification of AI cluster⁵ development beyond traditional US and Chinese data centre hubs.
+
+## 2. Sustainability and Resource Accessibility
+
+The rapid expansion of the global data centre industry, amplified by surging generative AI workloads, is placing unprecedented strain on global power infrastructure and resource availability. Power accessibility has overtaken cost as the key determinant of data centre feasibility, particularly for hyperscale and ML-optimised facilities that require high-density, continuous energy supply.
+
+Traditional data centre hubs are experiencing acute grid congestion, prompting developers to prioritise sites with secure, renewable power availability. In Europe, governments are reforming planning and electricity market systems to fast-track infrastructure delivery.
+
+Sustainability mandates are driving innovation in both power generation and reuse. Meta, Equinix, and Google are exploring nuclear power, particularly Small Modular Reactors, as a long-term clean-baseload solution. NorthC and Microsoft are advancing the use of green hydrogen for their projects in Germany, the Netherlands and Ireland. European operators are also repurposing residual heat from data centres for district networks and greenhouse farming.
+
+In APAC, renewable energy adoption is accelerating from a historically lagging base. From 2025E to 2030F, the region’s renewable energy capacity is expected to double, expanding by 670 GW, raising its contribution to 30–50% of the generation mix⁶. China is the largest driver of this growth, followed by India, with both countries rapidly scaling solar, wind, and hydro capacity. Cross-border Virtual Power Purchase Agreements (VPPAs) are gaining traction, enabling operators to secure renewable supply beyond local grids, such as AirTrunk’s PPA under Malaysia’s Corporate Green Power Programme and Google’s Clean Energy Connect deal in Japan. Operators in Japan, Australia, and Southeast Asia are investing in hydrogen fuel cells, microgrid systems, liquid cooling, and on-site renewables to overcome grid constraints and align with rising investor expectations around ESG performance. In Singapore, operators are increasingly integrating solar, battery storage, and energy-efficient cooling solutions to optimise grid reliance and sustainability requirements such as the new Building and Construction Authority Green Mark scheme.
+
+\* 3 Generative AI refers to a class of AI systems that can create new content by learning patterns from large datasets in response to prompts, enabling tasks such as writing, design, simulation and synthesis at scale.
+
+\* 4 International Energy Agency (April 2025)
+
+\* 5 Large scale facilities and deployments designed for AI use.
+
+\* 6 International Energy Agency (October 2025)
+
+<!-- PAGE 25 -->
+
+# Independent Market Review
+By DC Byte
+
+There is a growing trend of retrofitting older commercial buildings into data centres, as well as upgrading legacy DCs to become AI-ready facilities capable of supporting high-density GPU clusters. Water availability and cooling infrastructure are increasingly considered in site selection, particularly in regions with limited freshwater supply, prompting investment in water-efficient or closed-loop cooling systems.
+
+## 3. Data Sovereignty and Regulations
+Data sovereignty has become a key driver of digital infrastructure investment as governments tighten controls over where sensitive and citizen data can be stored and processed. This shift is fuelling demand for localised data centres and the growth of sovereign cloud ecosystems.
+
+In Europe, the General Data Protection Regulation remains the foundation of data protection, complemented by the European Data Act (2024) and national sovereign cloud initiatives in France and Germany. The UK has elevated data centres to Critical National Infrastructure status, increasing scrutiny of ownership and foreign investment.
+
+Across APAC, similar regulations such as India’s Digital Personal Data Protection Act (PDPA), Thailand’s PDPA, and Vietnam’s Cybersecurity Law, are reinforcing in-country data-hosting mandates. Australia and Singapore are also strengthening privacy frameworks to balance cross-border transfers with national security requirements.
+
+Beyond data sovereignty, the global data centre regulatory landscape has also undergone a definitive shift from voluntary guidance to mandatory enforcement. Central to this transition are the European Union’s (EU) Network and Information Security 2 Directive and Singapore’s Digital Infrastructure Act, which now classify data centres as essential infrastructure. Operators are legally required to implement
+
+24-hour incident reporting and strict supply chain risk management. Critically, these laws introduce executive personal liability, where senior management can face individual fines or disqualification for systemic security failures.
+
+The unprecedented surge in AI workloads has triggered a new wave of environmental and operational mandates. Under the EU AI Act (fully operational as of 2025), AI systems used to manage critical facility infrastructure (such as automated cooling or power systems) are now categorised as high-risk, requiring rigorous auditing and human oversight. Simultaneously, the EU Energy Efficiency Directive now requires data centre operators to report on AI-specific energy and water usage to demonstrate sustainability performance in order to maintain their operating licenses.
+
+Finally, global powers are tightening sovereignty and resilience standards. China’s 2026 Cybersecurity Law Amendments and the US Executive Order 14318 reflect a dual-track strategy: accelerating the permitting process for large-scale AI “computing power” centres while imposing massive penalties (up to 2% of global turnover) for data security breaches. For operators, compliance will no longer be a technical checkbox but a core pillar of financial risk management and corporate governance.
+
+## 4. Development Challenges
+Global data centre construction costs saw a smaller increase of 5.5% between 2024 and 2025, down from the 9% increase recorded the previous year, reflecting the easing of global construction cost inflation and the gradual stabilisation of local supply chains particularly in emerging and secondary markets in a period of broader macroeconomic situations¹.
+
+There is an ongoing shift towards high-density, liquid-cooled data centres purpose-built for AI workloads, particularly those for ML. These AI data centres command a premium in construction costs over conventional builds. In the US, construction costs for liquid-cooled facilities are estimated at 7 to 10% higher than comparable air-cooled developments due to increased technical complexity and the integration of advanced cooling infrastructure. Similar cost premiums are being observed in Europe and APAC as AI-driven and high-density deployments gain market share.
+
+The implementation of new US tariffs on 5 April 2025 has introduced significant additional cost risks. The sweeping measures, ranging from 10% to 100% on strategic imports such as semiconductors, electric vehicles, steel, aluminium, and batteries from China, the EU, and India, function as de facto taxes on critical materials. These tariffs are threatening to reverse the recent stabilisation, resulting in artificially renewed inflationary pressures on commodities and elevated capital expenditures.
+
+Beyond cost inflation, labour availability has emerged as a structural constraint. Shortages of skilled construction labour – particularly electrical, mechanical, and commissioning specialists – are extending project timelines and increasing execution risk in many established data centre markets.
+
+Data centre developments are also facing heightened scrutiny from local communities, environmental groups, and regulators. Concerns around land use, energy consumption, water usage, noise, and carbon impact are resulting in longer planning timelines, more complex permitting processes, and, in some cases, project opposition or downsizing. This is particularly evident in urban or water-stressed regions, where environmental impact assessments and sustainability commitments are becoming decisive factors for project approvals.
+
+\*1 Turner & Townsend (November 2025)
+
+<!-- PAGE 26 -->
+
+# Outlook
+
+The global data centre market is expected to see strong momentum in 2026, underpinned by sustained cloud adoption, the rapid scale-up of AI workloads, and growing edge and IoT requirements. Hyperscale CSPs will continue to dominate colocation demand, driving large multi-MW deals and accelerating the shift toward high-density, liquid-cooling-ready facilities. Meanwhile, traditional cloud data centres will remain a critical pillar of the broader digital infrastructure ecosystem.
+
+The global interest rate environment in 2026 is projected to ease gradually as inflation continues to moderate, with central banks adopting a cautious but generally more accommodative stance, improving financing conditions and supporting ongoing digital infrastructure investment worldwide.
+
+Geopolitical developments are emerging as a key variable, shaping investment flows, supply chains, and market selection. Ongoing geopolitical tensions, trade restrictions, and technology export controls are influencing where data centre capacity can be developed, the availability of advanced AI hardware, and cross-border data movement. As a result, demand for sovereign, in-country, and geopolitically aligned infrastructure is expected to intensify, particularly in regulated and strategic markets.
+
+# SINGAPORE
+
+Singapore is a Tier 1 data centre market and one of APAC’s most strategically important hubs. Its role as a financial centre, connectivity gateway, and geopolitical safe haven underpins strong demand from cloud providers, financial institutions, e-commerce platforms, and multinational enterprises. The connectivity advantage positions Singapore as a preferred destination for latency-sensitive and network-intensive applications, including inference AI.
+
+Since the 2019 moratorium on new data centre developments, growth has been tightly managed through the Infocomm Media Development Authority’s (IMDA) Call for Application (CFA) and the Green Data Centre Roadmap (GDCR). New projects must meet stringent energy-efficiency standards (minimum Power Usage Effectiveness (PUE) of 1.25-1.3), demonstrate strong economic value, and align with sustainability objectives – signalling Singapore’s preference for high value workloads that maximise economic output over sheer scale.
+
+In July 2023, Equinix, GDS (now branded as DayOne), an AirTrunk-ByteDance Consortium, and Microsoft were awarded a total of 80 MW of IT capacity as part of the CFA. In 2H 2024, DayOne and Equinix selected sites for their projects, with the operators breaking ground on their projects in July 2025 and November 2024
+
+respectively. AirTrunk has also secured a site in Loyang adjacent to their SGP1 with ground works already underway. The new supply from these operators is expected to come online from 2026 onwards, given the time required for construction and fit-out works.
+
+The GDCR outlines 300 MW of new capacity and 200 MW of green energy deployments to be rolled out through upcoming CFAs. In March 2025, refreshed Green Mark standards for data centres took effect, tightening energy and water efficiency requirements. In October 2025, the government announced plans for a 700 MW low-carbon data centre park on Jurong Island. While the park represents a significant addition to the long-term supply pipeline, absorption will be gradual as capacity deployment will be constrained. A significant portion of this capacity is likely to address latent demand rather than loosen near-term market tightness, given the phasing, infrastructure readiness, and sustainability constraints. The second CFA launched in December 2025 aims to add at least 200 MW of capacity, reinforcing Singapore’s focus on strategic, sustainable growth.
+
+Singapore’s policy framework signals that the market is competing on quality, sustainability and innovation as seen from the approval of a floating data centre and next-generation cooling solutions.
+
+Demand remains robust driven by the government’s push towards digital transformation and global CSPs which have established regional headquarters in Singapore and secured wholesale colocation capacity from operators.
+
+The colocation segment takes up the largest market share in Singapore’s data centre market in 2025E at 61.5%. Local operators such as Keppel Data Centres, Singtel (now branded as Nxera) and STT, as well as international operators such as AirTrunk, Digital Realty and Equinix have a significant market presence.
+
+Notable upcoming projects include Keppel DC Singapore 9, Keppel’s Floating Data Centre, AirTrunk’s SGP2,
+
+SINGAPORE DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>1,244</td>
+        <td>1,505</td>
+        <td>1,807</td>
+        <td>2,164</td>
+        <td>2,587</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>1,184</td>
+        <td>1,432</td>
+        <td>1,733</td>
+        <td>2,097</td>
+        <td>2,539</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>95.2</td>
+        <td>95.2</td>
+        <td>95.9</td>
+        <td>96.9</td>
+        <td>98.1</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 27 -->
+
+# Independent Market Review
+By DC Byte
+
+DayOne’s SG1, Equinix’s SG6 and Singtel’s DC Tuas. CSP expansions include Google’s Lok Yang Way Campus.
+
+Utilisation rates in Singapore remain high in 2025E at 95.2%, reflecting persistent supply constraints. Demand remains strong and grew by 141 MW year-on-year in 2025E, clocking a CAGR (2020 to 2025E) of 12.9%. Demand is projected to reach 2,500 MW in 2029E (estimated CAGR of 21.0% between 2025E to 2029F).
+
+Supply grew by 192 MW to reach 1,244 MW in 2025E, clocking a CAGR (2020 to 2025E) of 12.6% for the same period. Future supply is projected to grow at an estimated CAGR (2025E to 2029F) of 20.1% in the post-moratorium landscape.
+
+## SYDNEY, AUSTRALIA
+
+Sydney remains Australia’s primary Tier 1 data centre market accounting for 51.9% of national IT capacity in 2025. Its position as a financial centre and data-localisation regulations drives strong demand from banks, financial services firms, and large enterprises. Sydney is increasingly positioned to be the hub for inference AI, cloud, and enterprise workloads while Melbourne is expected to be the hub for large-scale AI workloads.
+
+Government and institutional policies, such as Australia’s Hosting Certification Framework impose stringent standards around data sovereignty, security, and privacy for federal and state workloads. While these requirements elevate compliance obligations for operators, they also provide a steady source of demand from government, financial services, and other regulated industries.
+
+Although power constraints persist, especially in the Huntingwood submarket, 2025 saw continued development momentum with multiple operators announcing large expansions and new campuses to meet the growing demand for cloud and AI. Hyperscale leasing activity remained robust, led by operators such as NEXTDC, AirTrunk, and CDC Data Centres. The market is poised to see new entrants such as GreenSquareDC, Goodman Group, and Stack Infrastructure, with the former two having secured development approvals and targeting Ready For Service within the next 24 months.
+
+The colocation segment currently makes up 89.6% of Sydney’s data centre market with domestic operators such as Airtrunk, CDC Data Centres, Macquarie Data Centres, and NEXTDC accounting for 44.9% of supply, reflecting their early-mover advantage, deep enterprise and government relationships, and strong alignment with local regulatory frameworks. Global operators such as Digital Realty and Equinix also have an established presence and continue to focus on interconnection and multinational customer access.
+
+CSPs adopt varied strategies, with AWS and Microsoft preferring self-build deployments, while Google opting for colocation deployments. Transparent regulations and ease of doing business have led to increased investment from CSPs, resulting in a rapid growth of self-build supply over the recent years.
+
+Demand in the Sydney market continues to outpace available supply as power constraints, protracted state permitting processes, and growing water concerns place pressure on supply delivery. In response, the New South Wales government established the Investment Delivery Authority (IDA) in October 2025 to streamline data centre projects in the state. The IDA is expected to enhance coordination between various state agencies and utility providers to support the development of critical digital infrastructure.
+
+The Sydney market clocked a utilisation rate of 92.5% in 2025E. Demand expanded by 71 MW year-on-year in 2025E, recording a historical CAGR (2020 to 2025E) of 20.6%. Future demand is projected to reach an estimated CAGR (2025E to 2029F) of 18.8%.
+
+Supply grew by 96 MW to reach 821 MW in 2025E, clocking a CAGR (2020 to 2025E) of 20.6%. Future supply is projected to reach an estimated CAGR (2025E to 2029F) of 18.8% to meet heightened CSP demand.
+
+## GUANGDONG, CHINA
+
+Guangdong is a Tier 1 data centre market in China within the Guangdong-Hong Kong-Macao Greater Bay Area (GBA). As a socio-economic powerhouse with a population exceeding 128 million, the province sits at the centre of China’s manufacturing, technology, and innovation ecosystem.
+
+Demand is driven by Guangdong’s ambitious “AI+Industry” plan, which targets a 50% increase in total regional compute capacity between 2025 and 2027, and by the GBA’s role as one of the three eastern national computing hubs identified in China’s Eastern Data, Western Computing initiative aimed at facilitating the movement of China’s data storage and computing from the populous
+
+### SYDNEY DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>821</td>
+        <td>979</td>
+        <td>1,169</td>
+        <td>1,397</td>
+        <td>1,671</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>760</td>
+        <td>894</td>
+        <td>1,061</td>
+        <td>1,266</td>
+        <td>1,515</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>92.5</td>
+        <td>91.3</td>
+        <td>90.8</td>
+        <td>90.6</td>
+        <td>90.6</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 28 -->
+
+regions in the east to resource-rich regions in the west.
+
+Guangdong’s data centre market is poised to benefit from broader industry trends and policy support, with AI adoption being a key driver across sectors ranging from technology and life sciences to finance, healthcare, and manufacturing. Although AI-driven demand has been modest due to limited access to advanced chips, further demand is anticipated from 2026 onwards as stimulus measures stabilise enterprise ICT spending and revive deployment of digital infrastructure projects. The pace of growth will depend largely on improvements in access to advanced western chips or improved performance of domestic chips.
+
+Policy support is also strengthening the outlook. The Guangzhou Municipal People’s Government (part of the Guangdong province) aims to develop digital industries such as live streaming, e-commerce, smart cars, smart computing and AI, bolstering cloud demand and data centre requirements in the medium to long term. At the same time, supply faces tighter constraints as new large-scale national hub facilities must comply with stricter environmental regulations and an aggressive PUE target below 1.25.
+
+Using the Guangzhou market as a proxy for the Guangdong province, the Guangzhou market recorded utilisation rates of 79.0% in 2025E. Demand expanded to 378 MW in 2025E, recording a CAGR (2020 to 2025E) of 16.1%. Future demand is projected to reach an estimated CAGR 2025E to 2029F of 31.1%.
+
+Supply clocked a CAGR (2020 to 2025E) of 12.1%. Future supply is projected to reach an estimated CAGR (2025E to 2029F) of 27.7%.
+
+## TOKYO, JAPAN
+
+Greater Tokyo (Tokyo) is a Tier 1 data centre market and Japan’s primary data centre hub. It serves as APAC’s key regional business hub with a strong financial services sector, and benefits from a strong economy, dense population and high concentration of international enterprise and ICT industries.
+
+GUANGZHOU DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>477</td>
+        <td>609</td>
+        <td>778</td>
+        <td>993</td>
+        <td>1,268</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>377</td>
+        <td>494</td>
+        <td>648</td>
+        <td>849</td>
+        <td>1,113</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>79.0</td>
+        <td>81.1</td>
+        <td>83.3</td>
+        <td>85.5</td>
+        <td>87.8</td>
+    </tr>
+  </tbody>
+</table>
+
+TOKYO DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>1,350</td>
+        <td>1,507</td>
+        <td>1,672</td>
+        <td>1,852</td>
+        <td>2,047</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>1,245</td>
+        <td>1,392</td>
+        <td>1,561</td>
+        <td>1,754</td>
+        <td>1,973</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>92.3</td>
+        <td>92.4</td>
+        <td>93.4</td>
+        <td>94.7</td>
+        <td>96.4</td>
+    </tr>
+  </tbody>
+</table>
+
+The market also plays a key role due to its geographic location and foreign policies, particularly regarding its alliance with the US which further bolsters Japan’s strategic importance as the link between Asia and the Americas.
+
+Tokyo is a predominantly wholesale colocation market, accounting for 57.5% of the total supply as of 2025. Developers such as SKYY Development and Goodman Group are delivering large-scale build-to-suit colocation facilities for CSPs. Goodman’s Tsukuba campus, with 600 MW of secured power, is set to significantly expand Tokyo’s colocation footprint.
+
+CSPs are major contributors to Tokyo’s data centre demand. AWS was the first CSP to self-build in the market and is one of the only two markets in the APAC region where AWS’ cloud region is served by four Availability Zones (AZ) instead of the typical three-AZ configuration, a testament to Tokyo’s strong cloud demand. Google has a self-build presence in Inzai, while Microsoft has pursued a colocation and build-to-suit strategy, supported by its US$2.9 billion investment commitment in Japan through 2025 to meet rising AI-related compute demand. Leasing demand from Chinese CSPs has also grown.
+
+<!-- PAGE 29 -->
+
+# Independent Market Review
+By DC Byte
+
+The Tokyo data centre market faces supply constraints due to competition for power and labour resources from large construction projects such as semiconductor manufacturing, which will pose significant challenges for new entrants. These constraints are expected to endure, with general contractors providing delivery timelines for 2030 onwards for many new projects in the market. Most upcoming data centre developments remain clustered in Inzai and West Tokyo.
+
+The Japanese government has been working on long-term plans to address the power constraints, including implementing efficiency standards and incentives to ensure sustainable operations from 2029. Geographic diversification to regions with available grid capacity and a balanced energy mix – including nuclear restarts and stable fossil fuel supply – are being explored. TEPCO also announced a commitment to invest US$3.2 billion into grid and infrastructure upgrades by 2030 to support demand.
+
+Tokyo clocked a utilisation rate of 92.3% in 2025E. Demand grew by 129 MW year-on-year in 2025E, recording a CAGR (2020 to 2025E) of 13.0%. Demand is projected to reach 2.0 GW in 2029F, with an estimated CAGR of 12.2% between 2025E to 2029F.
+
+Tokyo’s data centre supply grew by 173 MW to reach 1.3 GW in 2025E, clocking a CAGR (2020 to 2025E) of 11.5%. Future supply is projected to grow at an estimated CAGR of 11.0% between 2025E to 2029F.
+
+## CYBERJAYA, MALAYSIA
+
+Cyberjaya is one of Malaysia’s most developed data centre clusters and serves as a core submarket within Greater Kuala Lumpur’s data centre landscape, forming part of the Multimedia Super Corridor.
+
+The submarket is predominantly colocation-led, which accounts for approximately 85% of the supply. There is a concentration of established facilities alongside a development pipeline of retail, wholesale, and hyperscale campuses. Developers are progressing multi-phase mega campuses of 200-300 MW.
+
+CYBERJAYA DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>122</td>
+        <td>183</td>
+        <td>224</td>
+        <td>284</td>
+        <td>312</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>101</td>
+        <td>153</td>
+        <td>193</td>
+        <td>246</td>
+        <td>284</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>82.8</td>
+        <td>83.5</td>
+        <td>86.0</td>
+        <td>86.7</td>
+        <td>90.9</td>
+    </tr>
+  </tbody>
+</table>
+
+Traditionally, Cyberjaya’s data centre demand has been driven by enterprises, telecommunications providers, and financial institutions. In recent years, demand has expanded to support cloud and emerging AI workloads, facilitated by large campuses with timely access to power. CSPs such as AWS and Microsoft continue to advance both colocation and self-build strategies, while new AI-driven requirements are beginning to emerge alongside cloud deployments.
+
+Sustained demand growth is expected across financial services, public-sector workloads, and digital adoption, supporting the next wave of hyperscale and AI-driven requirements. At the same time, Cyberjaya is now facing several sectoral pressures. Intensifying competition is driving colocation prices downward, while rapid development has strained the existing talent pool, leading to higher turnover. Upgrading older facilities may also require specialised engineering expertise.
+
+As the cluster matures, Cyberjaya may encounter approval and infrastructure constraints similar to those observed in Johor, particularly as regulators balance grid capacity, sustainability goals, and national investment priorities. Operators are evaluating alternatives beyond Cyberjaya – Johor, Elmina, Negeri Sembilan, and emerging markets such as Sarawak, which may offer faster power access and green energy options.
+
+Overall, Malaysia’s data centre sector is evolving amid several regulatory and market shifts, including tariff adjustments, higher Sales and Service Tax rates, and heightened pressure on power and water resources. Federal agencies such as the Malaysia Digital Economy Corporation and the Malaysian Investment Development Authority remain central to facilitating foreign investment and aligning digital-infrastructure expansion with national economic priorities. Tenaga Nasional Berhad has announced a multi-year RM90 billion grid-modernisation programme to enhance reliability and support long-term decarbonisation goals. Policies such as the Corporate Renewable Energy Supply Scheme are expected to further enhance power availability for large users, including data centres, by enabling direct procurement of renewable energy from generation sources.
+
+Cyberjaya clocked a utilisation rate of 82.8% in 2025E. Demand grew by 44 MW year-on-year in 2025E, recording a CAGR (2020 to 2025E) of 25.2%. Demand is projected to reach 283 GW in 2029F, with an estimated CAGR of 29.5% between 2025E to 2029F.
+
+Cyberjaya data centre supply grew by 48 MW to reach 121 GW in 2025E, clocking a CAGR (2020 to 2025E) of 21.0%. Future supply is projected to grow at an estimated CAGR of 26.5% between 2025E to 2029F.
+
+<!-- PAGE 30 -->
+
+# FRANKFURT, GERMANY
+
+Frankfurt remains Europe’s digital capital and Germany’s first major public cloud hub, anchored by DE-CIX – the world’s largest internet exchange. Its dense concentration of operators, coupled with strong enterprise demand from banking and financial institutions, reinforces Frankfurt’s position as one of Europe’s most interconnected Tier 1 data centre markets. Hyperscalers such as AWS, Microsoft, Google and OVHcloud continue to drive strong demand across both wholesale colocation and self-build deployments.
+
+As traditional AZs tighten, operators are expanding into Southern and Northern regions such as Langen and Schwalbach am Taunus to secure sites with dependable power allocations. While AI-ready facilities are emerging, large-scale AI campuses have yet to materialise given the city’s power limitations, with large AI deployments likely to emerge outside the Frankfurt metro area.
+
+Supply remains constrained in Frankfurt, with most new capacity being pre-leased. Notable new developments include the Digital Realty Fechenheim Campus and sizeable projects from Equinix, Vantage, Digital Realty, Goodman, Stack Infrastructure, EdgeConnex, CloudHQ, CyrusOne, Colt Data4, NTT and maincubes in the existing AZs and the new South, East, North and West regions of Frankfurt.
+
+Operating and acquisition costs in Frankfurt are expected to continue rising. The Frankfurt Data Centre Master Plan designates suitable, restricted suitable and exclusion areas for data centre development leading to higher land cost amid increased competition.
+
+Germany’s sustainability regulations are among the strictest in Europe. The Energy Efficiency Bill mandates new data centres meet energy reuse targets of 10% (from 1 July 2026), 15% (1 July 2027), and 20% (1 July 2028). All new data centres must report on key sustainability metrics annually, achieve a PUE of 1.3 or lower by July 2026, and must be powered entirely by 100% renewable electricity by January 2027. Existing data centres are not exempt from the new regulations and will require efficiency upgrades and increased transparency which will likely require costly retrofits and operational upgrades.
+
+Frankfurt saw high utilisation rates of 96.1% recorded in 2025E as the new supply that came online has been pre-committed during development. Demand grew by 108 MW year-on-year, clocking a CAGR (2020 to 2025E) of 15.1%. Future demand is forecast to grow by a CAGR of 17.9% from 2025E to 2029F.
+
+Supply grew by 139 MW to reach 897 MW in 2025E, clocking a CAGR (2020 to 2025E) of 15.1%. Future supply is estimated to grow by a CAGR of 17.9% from 2025E to 2029F.
+
+# DUBLIN, IRELAND
+
+Dublin is a Tier 1 data centre market and an established hyperscale hub. The market is attractive due to strong renewable energy potential, favourable free-cooling climate, and competitive corporate tax environment.
+
+Public cloud demand continues to fuel growth, with wholesale colocation gaining traction, particularly in clusters near major AZs such as Grange Castle, Ballycoolen, and Clonshaugh. Self-build public cloud deployments account for 61.5% of total live supply, underscoring Dublin’s strategic relevance to hyperscalers.
+
+Power availability remains a major bottleneck. Despite Ireland’s strong renewable energy resources, transmission-grid limitations are the primary obstacle. The Commission for Regulation of Utilities’ (CRU) requires new developments to incorporate on-site, dispatchable generation and to locate in “unconstrained” parts of the power grid. As a result, new applications have shifted outside Greater Dublin to Waterford, Drogheda and Westmeath. However, few projects have secured planning permission amid opposition from environmental groups.
+
+Ireland’s Climate Action Plan – which targets 80% renewable electricity by 2030 – has intensified Dublin’s already strained power environment. On-site gas generation is now increasingly restricted, with multiple planning applications being rejected on environmental grounds. Gas Networks Ireland has been directed to not approve gas-only connections for data centres.
+
+The CRU's December 2025 Decision Paper on the Large Energy User Connection Policy establishes a tiered connection framework for new data centres based on maximum capacity. Despite challenges, there are some precedents for new supply amidst tighter regulations. EdgeConneX brought two facilities online in 2025, each featuring purpose-built on-site gas generation, the first successful deployments of this kind in the market. In parallel, Echelon began construction at their Arklow site, the first data centre designed to meet the CRU’s updated grid-connection requirements.
+
+FRANKFURT DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>897</td>
+        <td>1,051</td>
+        <td>1,233</td>
+        <td>1,445</td>
+        <td>1695</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>862</td>
+        <td>1,005</td>
+        <td>1,185</td>
+        <td>1,402</td>
+        <td>1,664</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>96.1</td>
+        <td>95.6</td>
+        <td>96.1</td>
+        <td>97.0</td>
+        <td>98.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 31 -->
+
+# Independent Market Review
+By DC Byte
+
+Tight supply conditions and severely limited power access have limited AI-driven demand seen elsewhere in Europe. Neocloud and AI infrastructure companies are prioritising markets with greater power availability where large-scale, high-density deployments are more feasible.
+
+Dublin saw high utilisation rates of 98.6% recorded in 2025E and demand grew by 156 MW year-on-year, clocking a CAGR (2020 to 2025E) of 15.0%. Future demand is projected to grow at a CAGR (2024E to 2028F) of 6.1% tampered by the limitation in supply.
+
+Supply grew by 170 MW to reach 1,287 MW in 2025E, clocking a CAGR (2020 to 2025E) of 15.2% for the same period. Future supply is estimated to grow at a CAGR of approximately 7.0% from 2025E to 2029F.
+
+## MILAN, ITALY
+
+Milan is Italy's most mature data centre hub, accounting for 93.2% of national capacity as of 2025. Originally serving mainly financial and telecommunications workloads, Milan's demand has broadened to include hyperscale and cloud workloads, supported by its extensive terrestrial fibre and subsea cable connections.
+
+The city's diverse enterprise base of banks, insurers, manufacturers, and creative industries and low-latency links to FLAPD hubs and Southern Europe continue to drive colocation and cloud adoption. Milan's geographic location, talent pool and supportive government initiatives give it a competitive edge among secondary European markets, with early hyperscale deployments reinforcing its credibility. Grid upgrades and growth in renewable energy sourcing will further strengthen its position.
+
+Milan is well-placed to capture spillover demand as hyperscalers seek additional European capacity and aim to locate workloads closer to Southern European users, though this depends on the region's ability to secure additional grid capacity and streamline permitting processes.
+
+Despite strong fundamentals, the market remains structurally constrained compared to core
+
+## DUBLIN DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>1,287</td>
+        <td>1,387</td>
+        <td>1,486</td>
+        <td>1,586</td>
+        <td>1,686</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>1,269</td>
+        <td>1,350</td>
+        <td>1,435</td>
+        <td>1,522</td>
+        <td>1,609</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>98.0</td>
+        <td>97.2</td>
+        <td>96.7</td>
+        <td>96.5</td>
+        <td>96.3</td>
+    </tr>
+  </tbody>
+</table>
+
+## MILAN DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>277</td>
+        <td>314</td>
+        <td>356</td>
+        <td>404</td>
+        <td>460</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>261</td>
+        <td>299</td>
+        <td>343</td>
+        <td>394</td>
+        <td>454</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>94.4</td>
+        <td>95.3</td>
+        <td>96.4</td>
+        <td>97.5</td>
+        <td>98.7</td>
+    </tr>
+  </tbody>
+</table>
+
+FLAPD hubs. Challenges include a smaller hyperscale presence, fewer campus-scale developments and grid bottlenecks due to long connection lead times and competing demand for power from other industrial and urban uses. Permitting processes, while improving, can still be fragmented and slow.
+
+Colocation data centres dominate with 88.9% of total data centre market, led by international operators such as Stack Infrastructure, DATA4, Equinix, and domestic operators such as Aruba.it and Telecom Italia. Microsoft has launched self-built deployments, while other CSPs have entered through colocation strategies or partnerships.
+
+Recent years have brought a wave of new entrants including Khazna, hscale, Echelon, NTT and VIRTUS. The July 2025 partnership between Eni and Khazna to develop a 500 MW AI data centre campus near Milan, represents one of the largest single data centre investments in Italy to date.
+
+Government and regulatory activity are increasingly reshaping the investment landscape. In May 2025, the Metropolitan City of Milan issued Decree No. 122 clarified local planning and environmental requirements for data centre projects and approval processes. At the national level, Italy's Ministry of Enterprises aims to coordinate efforts to attract large-scale data centre and
+
+<!-- PAGE 32 -->
+
+digital infrastructure investment. Together, these efforts signal a unified government push to enhance Italy’s competitiveness as a regional data centre destination.
+
+Milan saw utilisation rates of 94.4% in 2025E. Demand grew by 50 MW between 2024 to 2025E, clocking a CAGR (2020 to 2025E) of 21.9% and is projected to reach 14.8% from 2025E to 2029F.
+
+Supply grew by 48 MW year-on-year to reach 277 MW in 2024, clocking a CAGR (2020 to 2025E) of 21.4% and is forecast to grow by 14.8% from 2025E to 2029F.
+
+## ALMERE, THE NETHERLANDS
+
+Almere is an emerging data centre submarket within the Greater Amsterdam hub, located 30 km from Amsterdam’s established data centre clusters. The area offers land availability and strong access to renewable energy from nearby wind and solar farms, positioning it as a potential growth area for sustainable infrastructure.
+
+Dutch authorities are considering enhancements to the Netherlands’ digital infrastructure, and the Almere 2030 plan includes improvements to infrastructure connectivity between Almere, Amsterdam, and Utrecht. Almere also aligns with the Netherlands’ National Strategy on Planning which mandates situating new facilities in areas with robust energy networks and integrating residual heat reuse into district heating systems and electricity networks.
+
+At present, Almere hosts a limited operational data centre footprint. However, there are indicators of an emerging expansion, including plans by EcoSwitch to develop a two-building campus with a combined capacity of 16 MW. Construction is expected to commence in 2026, marking an initial move toward larger-scale data centre development in the market.
+
+Future data centre growth in Almere is expected to be strong, driven by spillover demand from central Amsterdam and favourable local policy.
+
+While demand and supply have remained flat from 2020 to 2025E, demand is expected to grow at a CAGR of 28.5% from 2025E to 2029F and supply is projected to expand by 28.5% for the same period.
+
+## AMSTERDAM, THE NETHERLANDS
+
+Amsterdam is a Tier 1 data centre market in Europe and the Netherlands’ primary digital hub. It is home to the AMS-IX, one of the world’s largest internet exchanges, making it a critical peering location that handles a significant share of regional internet traffic. The market is structured around four major submarket clusters: Schiphol-Rijk, Science Park, Amstel, and Westpoort.
+
+Power availability remains the most significant challenge, with operators struggling to secure power allocations and planning approvals. While the 2019 moratorium has since been lifted, the Municipality of Amsterdam established a new regulatory framework in June 2025. This updated policy prohibits all new data center developments and expansions until 2035. This new policy is expected to push spillover demand into other regions within the Netherlands or into nearby countries such as Rotterdam, Groningen, Belgium and Germany where grid capacity remains available.
+
+In this constrained supply environment, incumbent data centre owners and operators stand to benefit. With little room for new entrants, existing players are likely to see stronger pricing power across colocation and wholesale services. Many are pursuing capacity
+
+ALMERE DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>12</td>
+        <td>16</td>
+        <td>16</td>
+        <td>24</td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>11</td>
+        <td>15</td>
+        <td>15</td>
+        <td>23</td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>93.8</td>
+        <td>93.8</td>
+        <td>93.8</td>
+        <td>93.8</td>
+        <td>93.8</td>
+    </tr>
+  </tbody>
+</table>
+
+AMSTERDAM DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>1,133</td>
+        <td>1,355</td>
+        <td>1,628</td>
+        <td>1,964</td>
+        <td>2,380</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>1,041</td>
+        <td>1,226</td>
+        <td>1,469</td>
+        <td>1,774</td>
+        <td>2,159</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>91.9</td>
+        <td>90.5</td>
+        <td>90.2</td>
+        <td>90.4</td>
+        <td>90.7</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 33 -->
+
+# Independent Market Review
+By DC Byte
+
+optimisation measures such as efficiency upgrades, battery storage, demandside management and onsite renewables, to unlock additional capacity without relying on new grid connections.
+
+At the same time, Amsterdam’s policy landscape is accelerating a shift toward sustainability and operational efficiency. Operators are prioritising retrofits, deploying energy storage solutions and more flexible operating models. Switch Datacenters (AMS4, AMS7) is utilising renewable PPAs, waste heat reuse and battery systems. Several have paused or relocated hyperscale developments entirely, while some, such as euNetworks, have exited the market due to persistent grid and regulatory constraints.
+
+The colocation market makes up 71% of Amsterdam’s total supply and is dominated by international players, including EdgeConneX, Equinix, and Digital Realty. Self-build facilities represent a third of the market with CSPs including Google and Microsoft maintaining presence in the north of Amsterdam.
+
+AI-related developments remain minimal, constrained by the national cap on projects exceeding 70 MW or 10 hectares, with exceptions limited to peripheral zones such as Hollands Kroon and Het Hogeland with strong renewable energy access.
+
+Amsterdam saw utilisation rates of 91.9% recorded in 2025E. Demand grew by 45 MW in 2025E, clocking a CAGR (2020 to 2025E) of 9.2% and is projected to grow at a CAGR of 20.0% from 2025E to 2029F, tempered by a constrained supply.
+
+Supply grew by 104 MW to reach 1,133 MW in 2025E, clocking a CAGR (2020 to 2025E) of 9.7% and is projected to expand at a CAGR of 20.4% from 2025E to 2029F, hampered by the congested power grid.
+
+## EINDHOVEN, THE NETHERLANDS
+
+Eindhoven is a Tier 2 data centre market, located near the Belgian and German borders. It hosts major global companies such as ASML and NXP, alongside prominent academic institutions including Eindhoven University of Technology and Design Academy Eindhoven.
+
+The data centre market comprises 12% wholesale colocation, 49% retail colocation, and 39% self-build facilities operated primarily by financial institutions. Key colocation providers include Eurofiber Cloud Infra, Colt, and NorthC.
+
+Colocation demand is driven by enterprises and research institutions clustered in innovation hubs such as Brainport Industries Campus and High-Tech Campus Eindhoven. The city’s Roadmap Urban Lighting Eindhoven 2030 initiative, which focuses on developing smart-city infrastructure with integrated digital systems, could indirectly support further data centre growth.
+
+Severe power-grid constraints have limited large-scale expansions since 2022, with restrictions expected to persist until around 2030. The Dutch government’s long-term energy diversification strategies, including the planned development of two nuclear power plants by 2035 – which could contribute 9% to 13% of national electricity generation – alongside ongoing investments in wind and solar capacity, may ease constraints over time.
+
+Eindhoven saw utilisation rates of 90.6% recorded in 2025E. Demand and supply grew modestly at a CAGR (2020 to 2025E) of 3.8% and 3.9% respectively. It is expected that there will be no growth through 2030 due to ongoing grid and permitting restrictions that limit meaningful expansion.
+
+## CARDIFF, UNITED KINGDOM
+
+Cardiff, the capital of Wales, is a Tier 2 data centre market. It benefits from a strong base of financial services, ICT companies, and research institutions, supported by improving transport networks, urban regeneration and growing digital infrastructure.
+
+Data centre demand is primarily driven by domestic enterprises and increasingly supported by CSPs’ interest due to Wales’ strong renewable-energy profile and favourable free-cooling climate. Cardiff is also well-positioned to capture spillover demand from the power-constrained West London market as it offers stronger power availability in comparison to other areas including North/East London.
+
+Microsoft’s planned self-build deployment in Newport, expected to be delivered in 2026, represents the first self-build hyperscale deployment in Wales and is expected to catalyse further hyperscale demand.
+
+Wholesale colocation accounts for 95.1% of the total supply as at 2025. Vantage is the leading colocation player and is expanding their Newport facility with a total of 68 MW planned to
+
+### EINDHOVEN DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>37</td>
+        <td>37</td>
+        <td>37</td>
+        <td>37</td>
+        <td>37</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>34</td>
+        <td>34</td>
+        <td>34</td>
+        <td>34</td>
+        <td>34</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>90.6</td>
+        <td>90.6</td>
+        <td>90.6</td>
+        <td>90.6</td>
+        <td>90.6</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 34 -->
+
+be built out in phases, and developing facilities in Bridgend and in St Athan, which are expected to significantly boost the market’s data centre supply.
+
+Wales has been designated an AI Growth Zone under the UK’s AI Opportunities Action Plan, with Cardiff and South Wales identified as potential locations for large-scale, high-density AI campuses, positioning the market for future high-density AI workloads.
+
+Demand grew by 12 MW, clocking a CAGR (2020 to 2025E) of 16.7% and is expected to grow by 23.9% from 2025E to 2029F.
+
+Supply grew in tandem with demand in 2025E and reached a CAGR (2020 to 2025E) of 16.6% and is expected to grow by 24.0% year-on-year from 2025E to 2029F.
+
+# CARDIFF DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>124</td>
+        <td>153</td>
+        <td>190</td>
+        <td>236</td>
+        <td>293</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>124</td>
+        <td>153</td>
+        <td>189</td>
+        <td>235</td>
+        <td>292</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>99.7</td>
+        <td>99.6</td>
+        <td>99.6</td>
+        <td>99.5</td>
+        <td>99.5</td>
+    </tr>
+  </tbody>
+</table>
+
+# LONDON, UNITED KINGDOM
+
+London is a Tier 1 data centre market and Europe’s leading financial hub. It remains a core market for hyperscale and enterprise workloads despite rising land costs and power constraints.
+
+Wholesale colocation dominates, accounting for 72% of London’s data centre supply. High land costs and power constraints have limited large scale CSP self-builds, resulting in CSPs securing multi-megawatt capacity from dedicated hyper-wholesale operators such as VIRTUS, NTT, Vantage, CyrusOne and Ark Data Centres.
+
+Looking ahead, colocation will continue to dominate the development pipeline until 2028, while CSPs are also expanding their self-build development plans in sites across Greater London, in Broxbourne, Thurrock, North Weald Bassett, Park Royal, Langley, Iver, Thorney, Houghton Regis and Hemel Hempstead.
+
+CSPs remain the largest demand drivers, though leasing slowed in early 2025 as AWS and Microsoft reassessed their AI inference strategies. Leasing activity resumed in the second half of 2025, led by neocloud providers such as Nscale and Nebius, which have inked deals with Microsoft to service both enterprise and hyperscale AI requirements. CSPs are increasingly using neocloud platforms to host and deliver their services.
+
+# LONDON DATA CENTRE SUPPLY/DEMAND/UTILISATION
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025E</th>
+        <th>2026F</th>
+        <th>2027F</th>
+        <th>2028F</th>
+        <th>2029F</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Live Supply (MW)</td>
+        <td>1,548</td>
+        <td>1,740</td>
+        <td>1,950</td>
+        <td>2,183</td>
+        <td>2,443</td>
+    </tr>
+    <tr>
+        <td>Total Take-up (MW)</td>
+        <td>1,427</td>
+        <td>1,618</td>
+        <td>1,835</td>
+        <td>2,083</td>
+        <td>2,366</td>
+    </tr>
+    <tr>
+        <td>Utilisation Rate (%)</td>
+        <td>92.2</td>
+        <td>93.0</td>
+        <td>94.1</td>
+        <td>95.4</td>
+        <td>96.9</td>
+    </tr>
+  </tbody>
+</table>
+
+Neocloud companies have prioritised speed-to-market over traditional cluster locations in London, demonstrated by CoreWeave’s leasing in Gatwick and Nebius’ deployment in Surrey. Consequently, operators with vacant powered shells capable of servicing high-density liquid-cooled deployments and be rapidly fitted-out have benefitted. This has spurred speculative builds including VIRTUS at the Saunderton Campus, Green Mountain at Romford North and Ada Infrastructure at Docklands Campus.
+
+Government policy is also shaping market direction. The UK government’s AI Opportunities Action Plan and designation of data centres as Critical National Infrastructure aim to accelerate hyperscale development. AI Growth Zones provide streamlined planning processes and prioritise clean power provision despite current grid constraints.
+
+London saw high utilisation rates of 92.2% recorded in 2025E. Demand grew by 133 MW year-on-year, clocking a CAGR (2020 to 2025E) of 12.1% and is projected to reach a CAGR of 13.5% from 2025E to 2029F.
+
+Supply grew by 175 MW year-on-year to reach 1,548 MW in 2025E, clocking a CAGR (2020 to 2025E) of 11.2% and is forecast to expand by 12.1% from 2025E to 2029F.
+
+<!-- PAGE 35 -->
+
+# Portfolio Review
+
+The Manager remains focused on long-term portfolio resilience through disciplined growth, active rebalancing and value creation initiatives.
+
+Photograph of Keppel DC REIT data center buildings with trees in the foreground
+
+<!-- PAGE 36 -->
+
+# ACCELERATING DISCIPLINED GROWTH
+
+2025 marked a year of disciplined growth and strategic portfolio rebalancing, with Keppel DC REIT sharpening its focus on core data centre markets through selective hyperscale acquisitions and divestments of non-core assets. This grounded approach, amid geopolitical and macroeconomic volatility, positions the portfolio to capitalise on long-term global structural tailwinds in digital infrastructure, as cloud adoption and artificial intelligence (AI) workloads continue to surge.
+
+In November 2025, Keppel DC REIT deepened its presence in Japan, with the acquisition of its second hyperscale data centre in Tokyo and largest overseas purchase since listing. Tokyo DC 3 is a newly built, freehold, fully-fitted (single tenant), Tier III-equivalent facility in Inzai City, Greater Tokyo. Keppel DC REIT and Keppel Ltd. (Keppel), entered into an agreement to acquire 100% interest in Tokyo DC 3 for JPY 82.1 billion from Sunrise Inzai 4 TMK with the purchase price arrived on a willing-buyer and willing-seller basis. Keppel DC REIT holds a 98.47% effective interest in the asset. Based on the independent valuation dated 1 September 2025 by JLL Morii Valuation & Advisory K.K., an independent valuation firm appointed by the Trustee, the market value of the property was JPY 83.0 billion on a 100% basis using the direct capitalisation and discounted cash flow methodologies. The purchase price represents a discount of approximately 1.1% to the independent valuation.
+
+From September to December 2025, Keppel DC REIT further strengthened its Singapore foothold and enhanced portfolio stability, by achieving full ownership of KDC SGP 7 and 8 and executed plans to consolidate its interests in KDC SGP 3 and 4.
+
+In September 2025, Keppel DC REIT exercised its call option to purchase the remaining 51% interest in the shares of Memphis 1 Pte. Ltd. (Memphis 1) which holds KDC SGP 7 and 8, from Keppel Griffin for approximately S$6.6 million (without Land Tenure Lease Extension). The call option price was negotiated on a willing-buyer and willing-seller basis, with final adjustments based on S$1,046.3 million, the sum of the agreed aggregated property value of KDC SGP 7 and 8 at S$1,030.0 million and approximately S$16.3 million of JTC Land Premium for the initial leasehold term¹. This is lower than the valuations as at 1 May 2025 by Knight Frank Pte Ltd of S$1,047.0 million and Savills Valuation and Professional Services (S) Pte. Ltd. of S$1,064.0 million, independent valuation firms appointed by the Manager and Trustee respectively, using the income capitalisation and discounted cash flow methods.
+
+In December 2025, Keppel DC REIT entered into agreements to acquire the remaining 10.0% interest in KDC SGP 3 and the remaining 1.0% interest in KDC SGP 4 from Keppel Data Centres Holding Pte. Ltd., a wholly owned subsidiary of Keppel for the aggregate sum of approximately S$50.5 million². The transaction was completed on 12 February 2026.
+
+Concerted efforts also continued to align the portfolio towards scale and resilience, with selected non-core divestments.
+
+In March 2025, Kelsterbach DC was opportunistically divested to Fortinet GmbH for EUR 50.0 million or a 28.2% premium to its 31 December 2024 value of EUR 39.0 million by Savills (UK) Limited, an independent
+
+## ASSETS UNDER MANAGEMENT
+
+# $6.3b³
+
+Increased 26% year-on-year.
+
+## ASIA PACIFIC EXPOSURE
+
+# 84.5%
+
+Of the portfolio’s AUM is located in Asia Pacific.
+
+## PORTFOLIO STRATEGY
+
+# Hyperscale Focus
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">PORTFOLIO GLOSSARY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Keppel DC Singapore 1</td>
+        <td>KDC SGP 1</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 2</td>
+        <td>KDC SGP 2</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 3</td>
+        <td>KDC SGP 3</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 4</td>
+        <td>KDC SGP 4</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 5</td>
+        <td>KDC SGP 5</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 7</td>
+        <td>KDC SGP 7</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 8</td>
+        <td>KDC SGP 8</td>
+    </tr>
+    <tr>
+        <td>DC1</td>
+        <td>DC1</td>
+    </tr>
+    <tr>
+        <td>Gore Hill Data Centre</td>
+        <td>Gore Hill DC</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 1</td>
+        <td>Guangdong DC 1</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 2</td>
+        <td>Guangdong DC 2</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 3</td>
+        <td>Guangdong DC 3</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 1</td>
+        <td>Tokyo DC 1</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 3</td>
+        <td>Tokyo DC 3</td>
+    </tr>
+    <tr>
+        <td>Basis Bay Data Centre</td>
+        <td>Basis Bay DC⁴</td>
+    </tr>
+    <tr>
+        <td>Kelsterbach Data Centre</td>
+        <td>Kelsterbach DC⁵</td>
+    </tr>
+    <tr>
+        <td>maincubes Data Centre</td>
+        <td>maincubes DC</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Dublin 1</td>
+        <td>KDC DUB 1</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Dublin 2</td>
+        <td>KDC DUB 2</td>
+    </tr>
+    <tr>
+        <td>Milan Data Centre</td>
+        <td>Milan DC</td>
+    </tr>
+    <tr>
+        <td>Almere Data Centre</td>
+        <td>Almere DC</td>
+    </tr>
+    <tr>
+        <td>Amsterdam Data Centre</td>
+        <td>Amsterdam DC</td>
+    </tr>
+    <tr>
+        <td>Eindhoven Campus</td>
+        <td>Eindhoven DC</td>
+    </tr>
+    <tr>
+        <td>Cardiff Data Centre</td>
+        <td>Cardiff DC</td>
+    </tr>
+    <tr>
+        <td>GV7 Data Centre</td>
+        <td>GV7 DC</td>
+    </tr>
+    <tr>
+        <td>London Data Centre</td>
+        <td>London DC</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Please refer to the announcements of Keppel DC REIT dated 3 September 2025 and 19 November 2024 in relation to the acquisition of interests in such two data centre buildings for details on the formula of the Call Option Property Price and transaction details.
+
+\*2 Please refer to the announcement of Keppel DC REIT dated 16 December 2025 in relation to the acquisition of remaining interests in the data centres known as KDC SGP 3 and KDC SGP 4 for transaction details.
+
+\*3 Includes investments in debt securities and the acquisition of remaining interests in KDC SGP 3 and KDC SGP 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+\*4 Divestment of asset announced on 2 January 2025; completion expected in 1Q 2026.
+
+\*5 Divestment of asset completed on 24 March 2025.
+
+<!-- PAGE 37 -->
+
+# Portfolio Review
+
+**TOTAL ATTRIBUTABLE LETTABLE AREA BY GEOGRAPHY (%)**
+as at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th>Geography</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Singapore</td>
+        <td>27.4</td>
+    </tr>
+    <tr>
+        <td>China</td>
+        <td>24.3</td>
+    </tr>
+    <tr>
+        <td>The Netherlands</td>
+        <td>13.2</td>
+    </tr>
+    <tr>
+        <td>Japan</td>
+        <td>9.6</td>
+    </tr>
+    <tr>
+        <td>United Kingdom</td>
+        <td>7.3</td>
+    </tr>
+    <tr>
+        <td>Italy</td>
+        <td>6.1</td>
+    </tr>
+    <tr>
+        <td>Germany</td>
+        <td>3.5</td>
+    </tr>
+    <tr>
+        <td>Ireland</td>
+        <td>3.5</td>
+    </tr>
+    <tr>
+        <td>Australia</td>
+        <td>3.3</td>
+    </tr>
+    <tr>
+        <td>Malaysia</td>
+        <td>1.8</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+**PORTFOLIO AUM BY GEOGRAPHY (%)**
+as at 31 December 2025<sup>1,2</sup>
+
+<table>
+  <thead>
+    <tr>
+        <th>Geography</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Singapore</td>
+        <td>62.4</td>
+    </tr>
+    <tr>
+        <td>Japan</td>
+        <td>14.0</td>
+    </tr>
+    <tr>
+        <td>Ireland</td>
+        <td>5.4</td>
+    </tr>
+    <tr>
+        <td>Australia</td>
+        <td>4.1</td>
+    </tr>
+    <tr>
+        <td>The Netherlands</td>
+        <td>4.1</td>
+    </tr>
+    <tr>
+        <td>China</td>
+        <td>3.7</td>
+    </tr>
+    <tr>
+        <td>Germany</td>
+        <td>2.9</td>
+    </tr>
+    <tr>
+        <td>United Kingdom</td>
+        <td>2.1</td>
+    </tr>
+    <tr>
+        <td>Italy</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>Malaysia</td>
+        <td>0.3</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+valuation firm appointed by the Trustee, using a combination of direct comparison and discounted cash flow methods. The sale price was negotiated on a willing-buyer and willing-seller basis.
+
+In January 2025, Keppel DC REIT also announced the proposed divestment of Basis Bay DC in Malaysia to Basis Bay Services MSC Sdn. Bhd. and the sale of its entire interest in the NetCo bonds and preference shares issued by M1 Network Private Limited (NetCo) in August 2025 to unrelated third parties. Completion of both transactions is subject to certain conditions, including applicable clearances to be obtained from the relevant authorities³.
+
+With a strong Asia Pacific base, complemented by targeted portfolio growth and recomposition towards next-generation hyperscale focused facilities in strategic data centre markets, Keppel DC REIT is well-positioned to capture existing and emerging demand drivers. Leveraging the knowledge, networks and synergies within the Keppel ecosystem, Keppel DC REIT is poised to continue delivering resilient returns for its stakeholders.
+
+## VALUE CREATION THROUGH ACTIVE ASSET AND PORTFOLIO MANAGEMENT
+
+Keppel DC REIT’s portfolio comprises 25 data centres with a total attributable lettable area of 2,721,198 sq ft in 10 countries as at 31 December 2025. 84.5% of the portfolio’s AUM is located in Asia Pacific and 15.5% is located in Europe.
+
+Driving value through organic growth by optimising operational efficiencies, improving occupancies, and reviewing client re-mixing for selected assets were key focuses for the year.
+
+In Singapore, additional value was unlocked at KDC SGP 8, which was acquired in 2024 with 1.5 vacant floors. Through active efficiency enhancements upon operational stabilisation, this enabled the conversion of a portion of the unutilised space into a data hall for additional income, resulting in value uplift.
+
+In December 2025, a 10-year land tenure lease extension to 15 July 2050 was secured from the relevant authorities for the Keppel Data Centre Campus housing KDC SGP 7 and 8, providing a further runway and flexibility for Keppel DC REIT to drive growth and client retention.
+
+At KDC SGP 1, a 30-year land lease extension was obtained in September 2025, enabling a wider scope for the review of mid-to-long term plans for the asset.
+
+Leveraging robust market fundamentals in key data centre markets of Singapore and Dublin, also drove healthy portfolio reversion of approximately 45% which contributed to an uplift in revenue for the year.
+
+Portfolio occupancy remained strong at 95.8% and weighted average lease expiry (WALE) by lettable area remained long at 6.7 years as at 31 December 2025.
+
+In 2025, the WALE by lettable area of new and renewal contracts, was 4.0 years and these contracts contributed 23.0% to Keppel DC REIT’s rental income as at end December 2025. Keppel DC REIT continued to maintain a well-spread contract expiry profile. As at 31 December 2025, approximately 53.6% of the REIT’s occupied lettable area have more than five years to expiry.
+
+With client retention as a key priority, the Manager adopts proactive leasing strategies, initiating renewal discussions at least six months in advance. As part of its due diligence, a “Know Your Customer” review is conducted before signing or renewing each contract. The Manager, either directly or indirectly through the facility managers also maintains strong client relationships through
+
+<sup>1</sup> Includes investment in debt securities. This investment is excluded from the Rental Income Breakdown and Total Attributable Lettable Area by Geography (%) charts as it is not a real estate investment.
+
+<sup>2</sup> Includes investments in debt securities and the acquisition of remaining interests in Keppel DC Singapore 3 and Keppel DC Singapore 4 which was completed on 12 February 2026. Excluding the acquisition, assets under management would be approximately $6.2 billion.
+
+<sup>3</sup> Please refer to the announcements of Keppel DC REIT dated 2 January 2025 in relation to the divestment of Basis Bay DC located in Cyberjaya Malaysia and 11 August 2025 in relation to the proposed sale of NetCo bonds and preference shares for transaction details.
+
+<!-- PAGE 38 -->
+
+regular engagement, to understand evolving needs and address potential concerns to ensure client satisfaction.
+
+Portfolio resilience is reinforced not only by growing AUM and market diversification, but also through proactive portfolio rebalancing to focus on core assets. Keppel DC REIT actively monitors industry and global developments, continually assessing asset strategies to capture new opportunities and demand that match its core competencies, including asset repositioning, site intensification and growth drivers underpinning the hyperscale data centre market.
+
+# RESILIENCE ANCHORED IN DIVERSIFICATION
+
+Keppel DC REIT's portfolio resilience remains firmly supported by diversification across geographies, lease structures and a broad client base.
+
+As at December 2025, fully-fitted (colocation) assets contributed approximately 72.7% of Keppel DC REIT's rental income, while fully-fitted (single tenant) and shell and core assets accounted for the remaining 27.3%. The portfolio is underpinned by a high-quality global client mix, spanning internet enterprises, information technology services, telecommunications, financial services and corporates. A significant share of rental income is derived from hyperscalers and clients with investment grade or equivalent credit profiles.
+
+Keppel DC REIT maintains a balanced mix of fully-fitted (colocation) facilities contracted to a diverse base of clients under staggered contractual terms, alongside long-term master leases that provide income stability. Contracts with top clients are distributed across multiple data centres and geographies, with expiries spread out to reduce concentration risk.
+
+Portfolio resilience is further reinforced with built-in rental escalation mechanisms in more than half of the contracts, including Consumer Price Index-linked adjustments or similar indexations, fixed rate increases, or a combination of both, which help to mitigate the impact of inflationary pressures.
+
+**WEIGHTED AVERAGE LEASE EXPIRY (WALE) BY TYPE OF CONTRACTS (years)**
+as at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Fully-fitted (Colocation)</th>
+        <th>Fully-fitted (Single Tenant)</th>
+        <th>Shell and Core</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>WALE</td>
+        <td>3.2</td>
+        <td>9.6</td>
+        <td>6.1</td>
+    </tr>
+  </tbody>
+</table>
+
+**PORTFOLIO CONTRACT EXPIRY PROFILE BY LETTABLE AREA (%)**
+as at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2026</th>
+        <th>2027</th>
+        <th>2028</th>
+        <th>2029</th>
+        <th>2030</th>
+        <th>≥2031</th>
+    </tr>
+    <tr>
+        <th>Total (%)</th>
+        <th>7.6</th>
+        <th>10.1</th>
+        <th>8.9</th>
+        <th>8.9</th>
+        <th>10.9</th>
+        <th>53.6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>1.8</td>
+        <td>2.7</td>
+        <td>4.0</td>
+        <td>7.1</td>
+        <td>4.2</td>
+        <td>2.5</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>0.0</td>
+        <td>1.0</td>
+        <td>4.6</td>
+        <td>0.0</td>
+        <td>0.0</td>
+        <td>31.7</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>5.8</td>
+        <td>6.4</td>
+        <td>0.3</td>
+        <td>1.8</td>
+        <td>6.7</td>
+        <td>19.4</td>
+    </tr>
+  </tbody>
+</table>
+
+**PORTFOLIO CONTRACT EXPIRY PROFILE BY RENTAL INCOME (%)**
+as at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2026</th>
+        <th>2027</th>
+        <th>2028</th>
+        <th>2029</th>
+        <th>2030</th>
+        <th>≥2031</th>
+    </tr>
+    <tr>
+        <th>Total (%)</th>
+        <th>6.4</th>
+        <th>5.7</th>
+        <th>14.5</th>
+        <th>26.5</th>
+        <th>18.5</th>
+        <th>28.4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>4.7</td>
+        <td>3.7</td>
+        <td>12.4</td>
+        <td>26.3</td>
+        <td>17.5</td>
+        <td>8.1</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>0.0</td>
+        <td>1.1</td>
+        <td>2.1</td>
+        <td>0.0</td>
+        <td>0.0</td>
+        <td>18.0</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>1.7</td>
+        <td>0.9</td>
+        <td>0.0</td>
+        <td>0.2</td>
+        <td>1.0</td>
+        <td>2.3</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 39 -->
+
+# Portfolio Review
+
+## RENTAL INCOME BREAKDOWN BY TYPE OF CONTRACT (%)
+
+as at 31 December 2025
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Value</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>72.7</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>21.2</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>6.1</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>72.7</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>21.2</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>6.1</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>100.0</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+## RENTAL INCOME BREAKDOWN¹ BY CLIENTS’ TRADE SECTOR (%)
+
+as at 31 December 2025
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Value</td>
+    </tr>
+    <tr>
+        <td>Internet Enterprise</td>
+        <td>69.3</td>
+    </tr>
+    <tr>
+        <td>IT Services</td>
+        <td>14.0</td>
+    </tr>
+    <tr>
+        <td>Telecommunications</td>
+        <td>13.6</td>
+    </tr>
+    <tr>
+        <td>Financial Services</td>
+        <td>2.4</td>
+    </tr>
+    <tr>
+        <td>Corporate</td>
+        <td>0.7</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <td>Internet Enterprise</td>
+        <td>69.3</td>
+    </tr>
+    <tr>
+        <td>IT Services</td>
+        <td>14.0</td>
+    </tr>
+    <tr>
+        <td>Telecommunications</td>
+        <td>13.6</td>
+    </tr>
+    <tr>
+        <td>Financial Services</td>
+        <td>2.4</td>
+    </tr>
+    <tr>
+        <td>Corporate</td>
+        <td>0.7</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>100.0</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+## TOP 10 CLIENTS<sup>1,2,3</sup> BY RENTAL INCOME (%)
+
+as at 31 December 2025
+
+<table>
+  <tbody>
+    <tr>
+        <td>Client</td>
+        <td>Percentage</td>
+    </tr>
+    <tr>
+        <td>Fortune Global 500 Company (Hyperscaler)</td>
+        <td>42.1</td>
+    </tr>
+    <tr>
+        <td>Fortune Global 500 Company (Hyperscaler)</td>
+        <td>9.6</td>
+    </tr>
+    <tr>
+        <td>Fortune Global 500 Company (Hyperscaler)</td>
+        <td>8.4</td>
+    </tr>
+    <tr>
+        <td>Fortune Global 500 Company (Hyperscaler)</td>
+        <td>5.7</td>
+    </tr>
+    <tr>
+        <td>Government-linked Connectivity Solutions Provider</td>
+        <td>4.8</td>
+    </tr>
+    <tr>
+        <td>Government-linked Connectivity Solutions Provider</td>
+        <td>4.1</td>
+    </tr>
+    <tr>
+        <td>Internet Technology Provider (Hyperscaler)</td>
+        <td>2.2</td>
+    </tr>
+    <tr>
+        <td>Fortune Global 500 Company</td>
+        <td>2.1</td>
+    </tr>
+    <tr>
+        <td>Multinational Colocation Provider</td>
+        <td>2.1</td>
+    </tr>
+    <tr>
+        <td>Multinational Colocation Provider</td>
+        <td>2.0</td>
+    </tr>
+  </tbody>
+</table>
+
+## PORTFOLIO STATISTICS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>As at</th>
+        <th>As at</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>31 December 2025</th>
+        <th>31 December 2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total Attributable Lettable Area⁴</td>
+        <td>2,721,198 sq ft</td>
+        <td>3,183,191 sq ft</td>
+    </tr>
+    <tr>
+        <td>Valuation⁴</td>
+        <td>$6.07 billion</td>
+        <td>$4.83 billion</td>
+    </tr>
+    <tr>
+        <td>Others (debt securities)</td>
+        <td>$0.15 billion</td>
+        <td>$0.16 billion</td>
+    </tr>
+    <tr>
+        <td>Number of Unique Clients⁵</td>
+        <td>75</td>
+        <td>77</td>
+    </tr>
+    <tr>
+        <td>Occupancy</td>
+        <td>95.8%</td>
+        <td>97.2%</td>
+    </tr>
+    <tr>
+        <td>WALE by Lettable Area</td>
+        <td>6.7 years</td>
+        <td>6.3 years</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>In addition, electricity costs</th>
+      <th>negotiations to achieve balanced</th>
+      <th>initiatives. This includes pursuing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>are largely passed through to</td>
+      <td>and sustainable outcomes.</td>
+      <td>accretive acquisitions with strong</td>
+    </tr>
+    <tr>
+      <td>colocation clients, while master</td>
+      <td></td>
+      <td>covenants in key data centre markets,</td>
+    </tr>
+    <tr>
+      <td>lease clients contract directly</td>
+      <td>Looking ahead, the Manager remains</td>
+      <td>while unlocking opportunities within</td>
+    </tr>
+    <tr>
+      <td>with the power suppliers. These</td>
+      <td>focused on long-term portfolio</td>
+      <td>the existing portfolio to deliver</td>
+    </tr>
+    <tr>
+      <td>arrangements are reviewed and</td>
+      <td>resilience through disciplined growth,</td>
+      <td>overall portfolio stability and</td>
+    </tr>
+    <tr>
+      <td>considered during contract renewal</td>
+      <td>active rebalancing and value creation</td>
+      <td>sustainable income.</td>
+    </tr>
+  </tbody>
+</table>
+
+are largely passed through to colocation clients, while master lease clients contract directly with the power suppliers. These arrangements are reviewed and considered during contract renewal negotiations to achieve balanced and sustainable outcomes.
+
+Looking ahead, the Manager remains focused on long-term portfolio resilience through disciplined growth, active rebalancing and value creation initiatives. This includes pursuing accretive acquisitions with strong covenants in key data centre markets, while unlocking opportunities within the existing portfolio to deliver overall portfolio stability and sustainable income.
+
+\*<sup>1</sup> Clients refer to those contracted under service level agreements with Keppel DC REIT and/or its subsidiaries with the exception of KDC SGP 1 – 5, 7 and 8 where clients refer to those who contracted with Keppel DC Singapore 1 Ltd., Keppel DC Singapore 2 Pte. Ltd. and Keppel DC3 Services Pte. Ltd. and rental income refers to contributions by these clients.
+
+\*<sup>2</sup> The names of the clients cannot be identified and matched to the information set out above as many of the lease arrangements and colocation arrangements contain confidentiality provisions. Furthermore, there are commercial sensitivities involved due to the mission critical nature of data centre operations and some clients prefer to keep their presence in a data centre facility confidential to minimise the risk of physical threats and/or intrusions into the data centre.
+
+\*<sup>3</sup> Excluding master tenant of Guangdong Data Centres to reflect provision of loss allowance in relation to uncollected rental income.
+
+\*<sup>4</sup> Based on respective interests of assets.
+
+\*<sup>5</sup> Clients with contracts across multiple data centres are counted as one client.
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>In addition, electricity costs</th>
+      <th>negotiations to achieve balanced</th>
+      <th>initiatives. This includes pursuing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>are largely passed through to</td>
+      <td>and sustainable outcomes.</td>
+      <td>accretive acquisitions with strong</td>
+    </tr>
+    <tr>
+      <td>colocation clients, while master</td>
+      <td></td>
+      <td>covenants in key data centre markets,</td>
+    </tr>
+    <tr>
+      <td>lease clients contract directly</td>
+      <td>Looking ahead, the Manager remains</td>
+      <td>while unlocking opportunities within</td>
+    </tr>
+    <tr>
+      <td>with the power suppliers. These</td>
+      <td>focused on long-term portfolio</td>
+      <td>the existing portfolio to deliver</td>
+    </tr>
+    <tr>
+      <td>arrangements are reviewed and</td>
+      <td>resilience through disciplined growth,</td>
+      <td>overall portfolio stability and</td>
+    </tr>
+    <tr>
+      <td>considered during contract renewal</td>
+      <td>active rebalancing and value creation</td>
+      <td>sustainable income.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 40 -->
+
+# Portfolio Review
+At A Glance
+
+## ASIA PACIFIC
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Keppel DC Singapore 1</th>
+        <th>Keppel DC Singapore 2</th>
+        <th>Keppel DC Singapore 3</th>
+        <th>Keppel DC Singapore 4</th>
+        <th>Keppel DC Singapore 5</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Keppel DC Singapore 1</th>
+        <th>Keppel DC Singapore 2</th>
+        <th>Keppel DC Singapore 3</th>
+        <th>Keppel DC Singapore 4</th>
+        <th>Keppel DC Singapore 5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Location</strong></td>
+        <td>25 Serangoon North Avenue 5, Singapore 554914</td>
+        <td>25 Tampines Street 92, Singapore 528877</td>
+        <td>27 Tampines Street 92, Singapore 528878</td>
+        <td>20 Tampines Street 92, Singapore 528875</td>
+        <td>13 Sunview Way, Singapore 627541</td>
+    </tr>
+    <tr>
+        <td><strong>Title</strong></td>
+        <td>Leasehold<br/>(Expiring 30 September 2055)</td>
+        <td>Leasehold<br/>(Expiring 31 July 2051)</td>
+        <td>Leasehold<br/>(Expiring 31 January 2052)</td>
+        <td>Leasehold<br/>(Expiring 30 June 2050)</td>
+        <td>Leasehold<br/>(Expiring 31 August 2050, including a further term of nine years)</td>
+    </tr>
+    <tr>
+        <td><strong>Ownership Interest</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>90%<sup>5</sup></td>
+        <td>99%<sup>5</sup></td>
+        <td>99%</td>
+    </tr>
+    <tr>
+        <td><strong>Land Area (sq ft)</strong></td>
+        <td>78,928</td>
+        <td>53,821</td>
+        <td>53,815</td>
+        <td>73,248</td>
+        <td>83,331</td>
+    </tr>
+    <tr>
+        <td><strong>Gross Floor Area (sq ft)</strong></td>
+        <td>225,945</td>
+        <td>106,726</td>
+        <td>133,878</td>
+        <td>181,734</td>
+        <td>208,096</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Lettable Area (sq ft)</strong></td>
+        <td>109,721</td>
+        <td>38,480</td>
+        <td>49,433<sup>6</sup></td>
+        <td>83,698<sup>6</sup></td>
+        <td>93,936<sup>6</sup></td>
+    </tr>
+    <tr>
+        <td><strong>Number of Clients¹</strong></td>
+        <td>17</td>
+        <td>5</td>
+        <td>2</td>
+        <td>4</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Lease Type</strong></td>
+        <td>Keppel lease/Fully-fitted (Colocation)</td>
+        <td>Keppel lease/Fully-fitted (Colocation)</td>
+        <td>Keppel lease/Fully-fitted (Colocation)</td>
+        <td>Keppel lease/Fully-fitted (Colocation)</td>
+        <td>Keppel lease/Fully-fitted (Colocation)</td>
+    </tr>
+    <tr>
+        <td><strong>Facility Manager²</strong></td>
+        <td>Keppel DC Singapore 1 Ltd.</td>
+        <td>Keppel DC Singapore 2 Pte. Ltd.</td>
+        <td>Keppel DCS3 Services Pte. Ltd.</td>
+        <td>Keppel DC Singapore 2 Pte. Ltd.</td>
+        <td>Keppel DCS3 Services Pte. Ltd.</td>
+    </tr>
+    <tr>
+        <td><strong>Occupancy Rate</strong></td>
+        <td>53.3%</td>
+        <td>98.2%</td>
+        <td>100%</td>
+        <td>94.5%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Gross Revenue³ (million)</strong></td>
+        <td>S$16.5</td>
+        <td>S$18.0</td>
+        <td>S$37.0</td>
+        <td>S$52.5</td>
+        <td>S$52.5</td>
+    </tr>
+    <tr>
+        <td><strong>Purchase Price (million)</strong></td>
+        <td>S$262.8</td>
+        <td>S$162.0</td>
+        <td>S$202.5</td>
+        <td>S$384.9</td>
+        <td>S$295.1</td>
+    </tr>
+    <tr>
+        <td><strong>Valuation⁴ (million)</strong></td>
+        <td>S$307.0</td>
+        <td>S$188.0</td>
+        <td>S$383.4</td>
+        <td>S$584.1</td>
+        <td>S$497.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> Certain clients have signed more than one colocation arrangement using multiple entities. Clients refer to those contracted under service level agreements with Keppel DC REIT and/or its subsidiaries with the exceptions of KDC SGP 1, KDC SGP 2, KDC SGP 3, KDC SGP 4 and KDC SGP 5 where clients refer to those who contracted with Keppel DC Singapore 1 Ltd., Keppel DC Singapore 2 Pte. Ltd. and Keppel DCS3 Services Pte. Ltd..
+
+<sup>2</sup> Keppel Ltd. holds 100% ordinary shares of Keppel DC REIT’s outsourced facility managers for KDC SGP 1 to SGP 5, namely Keppel DC Singapore 1 Ltd., Keppel DC Singapore 2 Pte. Ltd. and Keppel DCS3 Services Pte. Ltd., through Keppel Data Centres Holding Pte. Ltd. (Keppel Data Centres).
+
+<sup>3</sup> Based on Keppel DC REIT’s respective effective interests for FY 2025’s rental income, unless otherwise stated.
+
+<sup>4</sup> Based on respective interest and independent valuations as at 31 December 2025, unless otherwise stated.
+
+<sup>5</sup> Acquisition of remaining interests in KDC SGP 3 and KDC SGP 4 was completed on 12 February 2026.
+
+<sup>6</sup> Attributable lettable area of KDC SGP 3 is 90%, while both KDC SGP 4 and KDC SGP 5 is 99% of total building net lettable area as at 31 December 2025.
+
+<!-- PAGE 41 -->
+
+# Portfolio Review
+
+At A Glance
+
+## ASIA PACIFIC
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Keppel DC Singapore 7</th>
+        <th>Keppel DC Singapore 8</th>
+        <th>DC1</th>
+        <th>Gore Hill Data Centre</th>
+        <th>Guangdong Data Centre 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td> </td>
+        <td>
+
+Keppel DC Singapore 7</td>
+        <td>
+
+Keppel DC Singapore 8</td>
+        <td>
+
+DC1</td>
+        <td>
+
+Gore Hill Data Centre</td>
+        <td>
+
+Guangdong Data Centre 1</td>
+    </tr>
+    <tr>
+        <td><strong>Location</strong></td>
+        <td>82 Genting Lane,<br/>Singapore 349567</td>
+        <td>82 Genting Lane,<br/>Singapore 349567</td>
+        <td>18 Riverside Road,<br/>Singapore 739088</td>
+        <td>5 Broadcast Way<br/>(South Gate) Artarmon,<br/>New South Wales 2064,<br/>Australia</td>
+        <td>No.5 Data Centre, Bluesea<br/>Intelligence Valley, Shaping<br/>Street, Heshan, Jiangmen,<br/>Guangdong Province, China</td>
+    </tr>
+    <tr>
+        <td><strong>Title</strong></td>
+        <td>Leasehold<br/>(Expiring 15 July 2050,<br/>including a further term<br/>of 10 years)</td>
+        <td>Leasehold<br/>(Expiring 15 July 2050,<br/>including a further term<br/>of 10 years)</td>
+        <td>Leasehold<br/>(Expiring 31 July 2044)</td>
+        <td>Freehold</td>
+        <td>Leasehold<br/>(Expiring 17 January 2067)</td>
+    </tr>
+    <tr>
+        <td><strong>Ownership Interest</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Land Area (sq ft)</strong></td>
+        <td>267,936 (shared land area<br/>of whole campus)</td>
+        <td>267,936 (shared land area<br/>of whole campus)</td>
+        <td>91,902</td>
+        <td>72,032</td>
+        <td>839,811 (shared land area<br/>of whole campus)</td>
+    </tr>
+    <tr>
+        <td><strong>Gross Floor Area (sq ft)</strong></td>
+        <td>186,608</td>
+        <td>290,041</td>
+        <td>–</td>
+        <td>127,283</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Lettable Area<br/>(sq ft)</strong></td>
+        <td>77,024</td>
+        <td>78,214</td>
+        <td>213,815</td>
+        <td>90,955</td>
+        <td>221,689</td>
+    </tr>
+    <tr>
+        <td><strong>Number of Clients¹</strong></td>
+        <td>4</td>
+        <td>4</td>
+        <td>1</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Lease Type</strong></td>
+        <td>Keppel lease/Fully-fitted<br/>(Colocation)</td>
+        <td>Keppel lease/Fully-fitted<br/>(Colocation)</td>
+        <td>Fully-fitted (Single Tenant)<br/>(Triple-net)</td>
+        <td>Shell and core (Triple-net)<br/>and Fully-fitted (Colocation)</td>
+        <td>Fully-fitted (Single Tenant)<br/>(Triple-net)⁸</td>
+    </tr>
+    <tr>
+        <td><strong>Facility Manager</strong></td>
+        <td>Keppel DCS3 Services<br/>Pte. Ltd.²</td>
+        <td>Keppel DCS3 Services<br/>Pte. Ltd.²</td>
+        <td>–</td>
+        <td>Keppel DC Services<br/>Australia Pty Ltd⁷</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Occupancy Rate</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>80.0%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Gross<br/>Revenue³ (million)</strong></td>
+        <td>S$58.0</td>
+        <td>S$49.7</td>
+        <td>S$26.7</td>
+        <td>S$2.9</td>
+        <td>S$11.3</td>
+    </tr>
+    <tr>
+        <td><strong>Purchase Price (million)</strong></td>
+        <td>S$708.0⁴</td>
+        <td>S$672.0⁴</td>
+        <td>S$200.2</td>
+        <td>S$210.9<br/>A$190.0</td>
+        <td>S$136.4<br/>RMB635.9</td>
+    </tr>
+    <tr>
+        <td><strong>Valuation⁵ (million)</strong></td>
+        <td>S$744.0⁶</td>
+        <td>S$796.0⁶</td>
+        <td>S$290.7</td>
+        <td>S$181.8<br/>A$214.0</td>
+        <td>S$109.2<br/>RMB596.0</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Guangdong Data Centre 2</th>
+        <th>Guangdong Data Centre 3</th>
+        <th>Tokyo Data Centre 1</th>
+        <th>Tokyo Data Centre 3</th>
+        <th>Basis Bay Data Centre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Location</strong></td>
+        <td>No.6 Data Centre, Bluesea<br/>Intelligence Valley, Shaping<br/>Street, Heshan, Jiangmen,<br/>Guangdong Province, China</td>
+        <td>No.7 Data Centre, Bluesea<br/>Intelligence Valley, Shaping<br/>Street, Heshan, Jiangmen,<br/>Guangdong Province, China</td>
+        <td>1-22-1 Karakida, Tama City,<br/>Tokyo, Japan</td>
+        <td>8 Otsuka 2-Chome<br/>Inzai City, Chiba Prefecture,<br/>Japan</td>
+        <td>No. 4710, Jalan Cyber Point 5,<br/>Zone Flagship Cyberjaya<br/>63000 Cyberjaya, Selangor<br/>Darul Ehsan, Malaysia</td>
+    </tr>
+    <tr>
+        <td><strong>Title</strong></td>
+        <td>Leasehold<br/>(Expiring 17 January 2067)</td>
+        <td>Leasehold<br/>(Expiring 17 January 2067)</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+    </tr>
+    <tr>
+        <td><strong>Ownership Interest</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>98.47%</td>
+        <td>98.47%</td>
+        <td>99%</td>
+    </tr>
+    <tr>
+        <td><strong>Land Area (sq ft)</strong></td>
+        <td>839,811 (shared land area<br/>of whole campus)</td>
+        <td>839,811 (shared land area<br/>of whole campus)</td>
+        <td>96,185</td>
+        <td>94,157</td>
+        <td>64,809</td>
+    </tr>
+    <tr>
+        <td><strong>Gross Floor Area (sq ft)</strong></td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+        <td>195,216</td>
+        <td>88,600</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Lettable Area<br/>(sq ft)</strong></td>
+        <td>218,615</td>
+        <td>221,847</td>
+        <td>187,257¹⁰</td>
+        <td>73,325¹⁰</td>
+        <td>48,193¹²</td>
+    </tr>
+    <tr>
+        <td><strong>Number of Clients¹</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Lease Type</strong></td>
+        <td>Fully-fitted (Single Tenant)<br/>(Triple-net)⁸</td>
+        <td>Shell and core<br/>(Triple-net)⁸</td>
+        <td>Shell and core<br/>(Triple-net)</td>
+        <td>Fully-fitted<br/>(Single Tenant)</td>
+        <td>Fully-fitted<br/>(Colocation)</td>
+    </tr>
+    <tr>
+        <td><strong>Facility Manager</strong></td>
+        <td>–</td>
+        <td>–</td>
+        <td>Jones Lang LaSalle K.K.</td>
+        <td>Colt Data Centre Services<br/>Japan Operating GK</td>
+        <td>Basis Bay Services MSC<br/>Sdn Bhd</td>
+    </tr>
+    <tr>
+        <td><strong>Occupancy Rate</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>40.2%</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Gross<br/>Revenue³ (million)</strong></td>
+        <td>S$11.3</td>
+        <td>S$0.5</td>
+        <td>S$6.3</td>
+        <td>S$4.6</td>
+        <td>S$1.4</td>
+    </tr>
+    <tr>
+        <td><strong>Purchase Price (million)</strong></td>
+        <td>S$141.3<br/>RMB690.3</td>
+        <td>S$13.1⁹<br/>RMB64.2⁹</td>
+        <td>S$194.2<br/>JPY23,042.0</td>
+        <td>S$683.0<br/>JPY80,843.9</td>
+        <td>S$42.9<br/>RM112.4</td>
+    </tr>
+    <tr>
+        <td><strong>Valuation⁵ (million)</strong></td>
+        <td>S$108.9<br/>RMB594.0</td>
+        <td>S$11.2<br/>RMB61.0</td>
+        <td>S$196.2<br/>JPY23,632.8</td>
+        <td>S$678.6¹¹<br/>JPY81,730.1¹¹</td>
+        <td>S$16.9¹³<br/>RM53.9¹³</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Certain clients have signed more than one colocation arrangement using multiple entities. Clients refer to those contracted under service level agreements with Keppel DC REIT and/or its subsidiaries with the exceptions of KDC SGP 7 and KDC SGP 8 where clients refer to those who contracted with Keppel DCS3 Services Pte. Ltd..
+
+\*2 Keppel Ltd. holds 100% ordinary shares of Keppel DC REIT’s outsourced facility manager for KDC SGP 7 and KDC SGP 8, Keppel DCS3 Services Pte. Ltd., through Keppel Data Centres.
+
+\*3 Based on Keppel DC REIT’s respective effective interests for FY 2025’s rental income, unless otherwise stated. Rental income from Guangdong Data Centres and corresponding loss allowances recognised under ‘Gross Revenue’ and ‘Property Expenses’ respectively.
+
+\*4 Purchase price reflects the increase in ownership from 99.49% to 100% and includes the 10-land tenure lease extension consideration of S$350.0 million for both KDC SGP 7 and KDC SGP 8.
+
+\*5 Based on respective interests and independent valuations as at 31 December 2025, unless otherwise stated.
+
+\*6 Excluding the 10-year land tenure lease extension, consideration would be S$540.0 million and S$560.0 million for KDC SGP 7 and KDC SGP 8 respectively.
+
+<!-- PAGE 42 -->
+
+ASIA PACIFIC
+
+<table>
+    <tr>
+        <th>Guangdong Data Centre 2</th>
+        <th>Guangdong Data Centre 3</th>
+        <th>Tokyo Data Centre 1</th>
+        <th>Tokyo Data Centre 3</th>
+        <th>Basis Bay Data Centre</th>
+    </tr>
+    <tr>
+        <td>
+
+ Guangdong Data Centre 2</td>
+        <td>
+
+ Guangdong Data Centre 3</td>
+        <td>
+
+ Tokyo Data Centre 1</td>
+        <td>
+
+ Tokyo Data Centre 3</td>
+        <td>
+
+ Basis Bay Data Centre</td>
+    </tr>
+</table>
+<table>
+  <thead>
+    <tr>
+<th>Guangdong Data Centre 2</th>
+<th>Guangdong Data Centre 3</th>
+<th>Tokyo Data Centre 1</th>
+<th>Tokyo Data Centre 3</th>
+<th>Basis Bay Data Centre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>Location</strong></td>
+    </tr>
+    <tr>
+<td>No.6 Data Centre, Bluesea Intelligence Valley, Shaping Street, Heshan, Jiangmen, Guangdong Province, China</td>
+<td>No.7 Data Centre, Bluesea Intelligence Valley, Shaping Street, Heshan, Jiangmen, Guangdong Province, China</td>
+<td>1-22-1 Karakida, Tama City, Tokyo, Japan</td>
+<td>8 Otsuka 2-Chome Inzai City, Chiba Prefecture, Japan</td>
+<td>No. 4710, Jalan Cyber Point 5, Zone Flagship Cyberjaya 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Title</strong></td>
+    </tr>
+    <tr>
+<td>Leasehold (Expiring 17 January 2067)</td>
+<td>Leasehold (Expiring 17 January 2067)</td>
+<td>Freehold</td>
+<td>Freehold</td>
+<td>Freehold</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Ownership Interest</strong></td>
+    </tr>
+    <tr>
+<td>100%</td>
+<td>100%</td>
+<td>98.47%</td>
+<td>98.47%</td>
+<td>99%</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Land Area (sq ft)</strong></td>
+    </tr>
+    <tr>
+<td>839,811 (shared land area of whole campus)</td>
+<td>839,811 (shared land area of whole campus)</td>
+<td>96,185</td>
+<td>94,157</td>
+<td>64,809</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Gross Floor Area (sq ft)</strong></td>
+    </tr>
+    <tr>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>195,216</td>
+<td>88,600</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Attributable Lettable Area (sq ft)</strong></td>
+    </tr>
+    <tr>
+<td>218,615</td>
+<td>221,847</td>
+<td>187,257<sup>10</sup></td>
+<td>73,325<sup>10</sup></td>
+<td>48,193<sup>12</sup></td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Number of Clients¹</strong></td>
+    </tr>
+    <tr>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Lease Type</strong></td>
+    </tr>
+    <tr>
+<td>Fully-fitted (Single Tenant) (Triple-net)⁸</td>
+<td>Shell and core (Triple-net)⁸</td>
+<td>Shell and core (Triple-net)</td>
+<td>Fully-fitted (Single Tenant)</td>
+<td>Fully-fitted (Colocation)</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Facility Manager</strong></td>
+    </tr>
+    <tr>
+<td>–</td>
+<td>–</td>
+<td>Jones Lang LaSalle K.K.</td>
+<td>Colt Data Centre Services Japan Operating GK</td>
+<td>Basis Bay Services MSC Sdn Bhd</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Occupancy Rate</strong></td>
+    </tr>
+    <tr>
+<td>100%</td>
+<td>100%</td>
+<td>100%</td>
+<td>100%</td>
+<td>40.2%</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Attributable Gross Revenue³ (million)</strong></td>
+    </tr>
+    <tr>
+<td>S$11.3</td>
+<td>S$0.5</td>
+<td>S$6.3</td>
+<td>S$4.6</td>
+<td>S$1.4</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Purchase Price (million)</strong></td>
+    </tr>
+    <tr>
+<td>S$141.3<br/>RMB690.3</td>
+<td>S$13.1⁹<br/>RMB64.2⁹</td>
+<td>S$194.2<br/>JPY23,042.0</td>
+<td>S$683.0<br/>JPY80,843.9</td>
+<td>S$42.9<br/>RM112.4</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Valuation⁵ (million)</strong></td>
+    </tr>
+    <tr>
+<td>S$108.9<br/>RMB594.0</td>
+<td>S$11.2<br/>RMB61.0</td>
+<td>S$196.2<br/>JPY23,632.8</td>
+<td>S$678.6¹¹<br/>JPY81,730.1¹¹</td>
+<td>S$16.9¹³<br/>RM53.9¹³</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>7</sup> Renamed with effect from 16 February 2026. Previously known as iseek-KDC Services Pty Ltd. Keppel DC REIT outsources facilities management to Keppel DC Services Australia Pty Ltd in respect of the colocation space at Gore Hill DC. Keppel DC Services Australia Pty Ltd is a wholly-owned subsidiary of KDCH.
+
+<sup>8</sup> With the exception of applicable real estate tax where the lessee shall bear up to a certain threshold.
+
+<sup>9</sup> This is the purchase price for the building shell.
+
+<sup>10</sup> Attributable lettable area of Tokyo DC 1 and Tokyo DC 3 are both 98.47% of total building net lettable area.
+
+<sup>11</sup> Valuation as at 1 September 2025 during acquisition.
+
+<sup>12</sup> Attributable lettable area of Basis Bay DC is 99% of total building net lettable area.
+
+<sup>13</sup> Divestment of asset announced on 2 January 2025; completion expected in 1Q 2026.
+
+<!-- PAGE 43 -->
+
+# Portfolio Review
+At A Glance
+
+## EUROPE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>maincubes Data Centre</th>
+        <th>Keppel DC Dublin 1</th>
+        <th>Keppel DC Dublin 2</th>
+        <th>Milan Data Centre</th>
+        <th>Almere Data Centre</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>maincubes Data Centre</th>
+        <th>Keppel DC Dublin 1</th>
+        <th>Keppel DC Dublin 2</th>
+        <th>Milan Data Centre</th>
+        <th>Almere Data Centre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Location</strong></td>
+        <td>Goethering 29,<br/>Offenbach am Main,<br/>Germany</td>
+        <td>Unit 4033-4035<br/>Citywest Business Campus,<br/>Naas Road, Dublin 24,<br/>Ireland</td>
+        <td>Unit B10, Ballycoolin<br/>Business and Technology<br/>Park, Blanchardstown,<br/>Dublin 15, Ireland</td>
+        <td>Via Bisceglie 71, 73 and 75,<br/>Milan, Italy</td>
+        <td>Rondebeltweg 62<br/>‘Sallandsekant’<br/>Business Park, Almere,<br/>the Netherlands</td>
+    </tr>
+    <tr>
+        <td><strong>Title</strong></td>
+        <td>Freehold</td>
+        <td>Leasehold<br/>(Expiring 31 December 2998)</td>
+        <td>Leasehold<br/>(Expiring 31 December 2997)</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+    </tr>
+    <tr>
+        <td><strong>Ownership Interest</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Land Area (sq ft)</strong></td>
+        <td>60,235</td>
+        <td>218,236</td>
+        <td>149,620</td>
+        <td>128,791</td>
+        <td>85,358</td>
+    </tr>
+    <tr>
+        <td><strong>Gross Floor Area (sq ft)</strong></td>
+        <td>–</td>
+        <td>125,044</td>
+        <td>76,747</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Lettable Area<br/>(sq ft)</strong></td>
+        <td>97,043</td>
+        <td>66,124</td>
+        <td>28,484</td>
+        <td>165,389</td>
+        <td>118,403</td>
+    </tr>
+    <tr>
+        <td><strong>Number of Clients</strong></td>
+        <td>1</td>
+        <td>24</td>
+        <td>3</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Lease Type</strong></td>
+        <td>Fully-fitted (Single Tenant)<br/>(Triple-net)</td>
+        <td>Fully-fitted<br/>(Colocation)</td>
+        <td>Fully-fitted<br/>(Colocation)</td>
+        <td>Shell and core<br/>(Double-net)</td>
+        <td>Fully-fitted (Single Tenant)<br/>(Double-net)</td>
+    </tr>
+    <tr>
+        <td><strong>Facility Manager</strong></td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Occupancy Rate</strong></td>
+        <td>100%</td>
+        <td>96.5%</td>
+        <td>98.1%</td>
+        <td>100%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Gross<br/>Revenue¹ (million)</strong></td>
+        <td>S$10.0</td>
+        <td>S$23.2</td>
+        <td>S$13.7</td>
+        <td>S$4.5</td>
+        <td>S$10.7</td>
+    </tr>
+    <tr>
+        <td><strong>Purchase Price (million)</strong></td>
+        <td>S$130.0<br/>€84.0</td>
+        <td>S$102.8<br/>€63.2</td>
+        <td>S$111.1<br/>€70.7</td>
+        <td>S$61.9<br/>€40.2</td>
+        <td>S$131.6<br/>€80.9</td>
+    </tr>
+    <tr>
+        <td><strong>Valuation² (million)</strong></td>
+        <td>S$179.7<br/>€119.5</td>
+        <td>S$171.4<br/>€114.0</td>
+        <td>S$170.5<br/>€113.4</td>
+        <td>S$60.8<br/>€40.4</td>
+        <td>S$171.3<br/>€113.9</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Based on Keppel DC REIT’s respective effective interests for FY 2025’s rental income, unless otherwise stated.
+
+\*2 Based on respective interest and independent valuations as at 31 December 2025, unless otherwise stated.
+
+\*3 For GV7 DC, neither the lease nor the registered title of the Property refers, nor are they required to refer, to the land area of the Property.
+
+<!-- PAGE 44 -->
+
+# EUROPE
+
+<table>
+    <tr>
+        <th>Amsterdam Data Centre</th>
+        <th>Eindhoven Campus</th>
+        <th>Cardiff Data Centre</th>
+        <th>GV7 Data Centre</th>
+        <th>London Data Centre</th>
+    </tr>
+    <tr>
+        <td>
+
+ Amsterdam Data Centre</td>
+        <td>
+
+ Eindhoven Campus</td>
+        <td>
+
+ Cardiff Data Centre</td>
+        <td>
+
+ GV7 Data Centre</td>
+        <td>
+
+ London Data Centre</td>
+    </tr>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Amsterdam Data Centre</th>
+        <th>Eindhoven Campus</th>
+        <th>Cardiff Data Centre</th>
+        <th>GV7 Data Centre</th>
+        <th>London Data Centre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Location</strong></td>
+        <td>Tupolevlaan 101-109,<br/>Schiphol-Rijk<br/>(1119 PA), the Netherlands</td>
+        <td>Dillenburgstraat 25A-25E,<br/>25E1, 25F, 25G and 25J-25M,<br/>5652 AM, Eindhoven,<br/>the Netherlands</td>
+        <td>Ty Cynnal, Dunleavy Drive,<br/>Celtic Gateway, Cardiff<br/>CF110SW, United Kingdom</td>
+        <td>7 Greenwich View Place,<br/>Millharbour Road, London,<br/>E14 9NN, United Kingdom</td>
+        <td>Waterside House,<br/>Longshot Lane, Bracknell<br/>RG12 1WB, United Kingdom</td>
+    </tr>
+    <tr>
+        <td><strong>Title</strong></td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Leasehold<br/>(Expiring 28 September 2183)</td>
+        <td>Freehold</td>
+    </tr>
+    <tr>
+        <td><strong>Ownership Interest</strong></td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Land Area (sq ft)</strong></td>
+        <td>167,725</td>
+        <td>201,222</td>
+        <td>279,864</td>
+        <td>N.A.³</td>
+        <td>204,732</td>
+    </tr>
+    <tr>
+        <td><strong>Gross Floor Area (sq ft)</strong></td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+        <td>34,850</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Lettable Area<br/>(sq ft)</strong></td>
+        <td>141,698</td>
+        <td>98,577</td>
+        <td>79,439</td>
+        <td>24,972</td>
+        <td>94,867</td>
+    </tr>
+    <tr>
+        <td><strong>Number of Clients</strong></td>
+        <td>9</td>
+        <td>4</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Lease Type</strong></td>
+        <td>Shell and core<br/>(Double-net)</td>
+        <td>Shell and core<br/>(Double-net)</td>
+        <td>Shell and core<br/>(Triple-net)</td>
+        <td>Fully-fitted (Single Tenant)<br/>(Triple-net)</td>
+        <td>Shell and core<br/>(Triple-net)</td>
+    </tr>
+    <tr>
+        <td><strong>Facility Manager</strong></td>
+        <td>FRIS Investment Care B.V.</td>
+        <td>NL Asset Management B.V.</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>Occupancy Rate</strong></td>
+        <td>95.1%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td><strong>Attributable Gross<br/>Revenue¹ (million)</strong></td>
+        <td>S$3.5</td>
+        <td>S$3.5</td>
+        <td>S$5.5</td>
+        <td>S$5.2</td>
+        <td>S$4.5</td>
+    </tr>
+    <tr>
+        <td><strong>Purchase Price (million)</strong></td>
+        <td>S$48.1<br/>€30.0</td>
+        <td>S$59.1<br/>€37.2</td>
+        <td>S$58.1<br/>£34.0</td>
+        <td>S$77.0<br/>£37.5</td>
+        <td>S$103.8<br/>£57.0</td>
+    </tr>
+    <tr>
+        <td><strong>Valuation² (million)</strong></td>
+        <td>S$43.9<br/>€29.2</td>
+        <td>S$40.3<br/>€26.8</td>
+        <td>S$22.8<br/>£13.3</td>
+        <td>S$28.8<br/>£16.8</td>
+        <td>S$83.8<br/>£48.8</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 45 -->
+
+Photograph of two people walking through a data center facility with rows of electrical cabinets
+
+# Financial Review
+
+The Manager seeks to maintain an optimal combination of debt and equity to manage the cost of capital and maximise returns to Unitholders.
+
+<!-- PAGE 46 -->
+
+# GROUP OVERVIEW
+
+Keppel DC REIT is a Singapore-domiciled real estate investment trust (REIT) listed on the Singapore Exchange Securities Trading Limited (SGX-ST) on 12 December 2014. This review is for the financial year ended 31 December 2025 (FY 2025).
+
+Keppel DC REIT completed the divestment of Kelsterbach Data Centre (Kelsterbach DC) on 24 March 2025. In the second half of 2025, Keppel DC REIT acquired the remaining 0.51% economic interest in Keppel DC Singapore 7 and Keppel DC Singapore 8 (KDC SGP 7 and 8) on 3 September 2025, strengthened its presence in Japan with the acquisition of Tokyo Data Centre 3 (Tokyo DC 3) on 19 November 2025 and secured a 10-year land tenure lease extension for KDC SGP 7 and 8 on 29 December 2025.
+
+# DISTRIBUTABLE INCOME AND DISTRIBUTION PER UNIT
+
+Distributable income for FY 2025 was $268.1 million, 55.2% higher than $172.7 million for FY 2024. This was mainly due to full year contributions from KDC SGP 7 and 8 and Tokyo Data Centre 1 (Tokyo DC 1) which were acquired in 2024 and 1.5 months contribution from the newly acquired Tokyo DC 3. The increase was supported by strong portfolio performance and lower finance costs in FY 2025. These were partially offset by absence of income due to the divestment of Kelsterbach DC and the one-off dispute settlement sum received in 2024. Income support (net of tax) for FY 2025 of $7,221,000 (FY 2024: $176,000), translated to DPU of approximately 0.316 cents (FY 2024: 0.010 cents).
+
+Distribution per Unit (DPU) for FY 2025 was 10.381 cents¹, 9.8% higher than FY 2024's 9.451 cents. DPU took into account an expanded Unitholding base as the new pro-rata Preferential Offering Units listed on 22 October 2025 are also entitled to distributable income from 1 July 2025.
+
+Based on the closing price of $2.25 per Unit as at 31 December 2025, Keppel DC REIT's distribution yield was 4.61% for FY 2025.
+
+# REVENUE AND EXPENSES
+
+Keppel DC REIT recorded gross revenue of $441.4 million in FY 2025, which was $131.1 million or 42.2% higher than that of FY 2024.
+
+Gross rental income increased by $129.5 million or 42.4% to $435.2 million in FY 2025, from $305.7 million in FY 2024. This was mainly due to acquisitions of KDC SGP 7 and 8 and Tokyo DC 1 in 2024 and 1.5 months
+
+contribution from the newly acquired Tokyo DC 3, as well as strong reversions and escalations. This was partially offset by loss of income from the divestments of Intellicentre Campus (IC DC) and Kelsterbach DC, as well as the absence of a one-off dispute settlement sum received in 2024.
+
+Other income was $6.2 million, $1.6 million higher than FY 2024, mainly due to higher ad-hoc service income from overseas assets.
+
+Property operating expenses for FY 2025 was $58.1 million, including
+
+GROSS REVENUE ($ million)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>328.1</td>
+        <td>198.7</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>80.7</td>
+        <td>74.4</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>32.6</td>
+        <td>37.2</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>441.4</td>
+        <td>310.3</td>
+    </tr>
+  </tbody>
+</table>
+
+NET PROPERTY INCOME ($ million)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fully-fitted (Colocation)</td>
+        <td>297.9</td>
+        <td>173.1</td>
+    </tr>
+    <tr>
+        <td>Fully-fitted (Single Tenant)</td>
+        <td>58.6</td>
+        <td>53.1</td>
+    </tr>
+    <tr>
+        <td>Shell and Core</td>
+        <td>26.8</td>
+        <td>34.1</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>383.3</td>
+        <td>260.3</td>
+    </tr>
+  </tbody>
+</table>
+
+\* Adjusted DPU of 10.629 cents was derived assuming that these new Preferential Offering Units are not entitled to the distributable income prior to 22 October 2025.
+
+<!-- PAGE 47 -->
+
+# Financial Review
+
+$16.7 million of facility management fees. This was $8.1 million or 16.2% higher than $50.0 million in FY 2024, mainly due to full year impact of the acquisitions of KDC SGP 7 and 8.
+
+As a result, net property income for FY 2025 was $383.3 million, an increase of $123.0 million or 47.2% compared to FY 2024.
+
+## PROFIT ATTRIBUTABLE TO UNITHOLDERS
+
+Profit after tax for FY 2025 was $434.7 million, which includes net fair value gains in investment properties of $161.6 million (FY 2024: $120.6 million) and deferred tax expense of $0.1 million (FY 2024: $4.6 million) arising from the fair value movements for the portfolio.
+
+Excluding the fair value changes and related deferred tax, profit after tax for FY 2025 was $273.2 million, an increase of $75.2 million or 38.0% as compared to $198.0 million in FY 2024. This increase was mainly due to acquisitions, higher net contributions from the portfolio and lower finance costs, partially offset by lower divestment gains ofinvestment property and higher management fees.
+
+Profit attributable to Unitholders was $427.8 million for FY 2025, $127.1 million or 42.3% higher than the $300.7 million recorded in the prior year.
+
+## DISTRIBUTION POLICY
+
+Keppel DC REIT’s policy is to distribute, on a half-yearly basis, at least 90.0% of its distributable income for each financial year, with the actual level of distribution to be determined at the Manager’s discretion. Distributions will be in SGD and are generally paid within 90 days after the end of each distribution period.
+
+<table>
+  <thead>
+    <tr>
+<th colspan="4">GROUP FINANCIAL OVERVIEW</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+<th>Change</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Gross rental income</td>
+<td>435,168</td>
+<td>305,696</td>
+<td>42.4</td>
+    </tr>
+    <tr>
+<td>Other income¹</td>
+<td>6,194</td>
+<td>4,591</td>
+<td>34.9</td>
+    </tr>
+    <tr>
+<td><strong>Gross revenue</strong></td>
+<td><strong>441,362</strong></td>
+<td><strong>310,287</strong></td>
+<td><strong>42.2</strong></td>
+    </tr>
+    <tr>
+<td>Property operating expenses</td>
+<td>(58,102)</td>
+<td>(50,001)</td>
+<td>16.2</td>
+    </tr>
+    <tr>
+<td><strong>Net property income</strong></td>
+<td><strong>383,260</strong></td>
+<td><strong>260,286</strong></td>
+<td><strong>47.2</strong></td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td>15,311</td>
+<td>15,390</td>
+<td>(0.5)</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>(48,943)</td>
+<td>(51,509)</td>
+<td>(5.0)</td>
+    </tr>
+    <tr>
+<td>Trustees’ fees</td>
+<td>(680)</td>
+<td>(562)</td>
+<td>21.0</td>
+    </tr>
+    <tr>
+<td>Manager’s base fee</td>
+<td>(25,485)</td>
+<td>(18,841)</td>
+<td>35.3</td>
+    </tr>
+    <tr>
+<td>Manager’s performance fee</td>
+<td>(12,107)</td>
+<td>(8,945)</td>
+<td>35.3</td>
+    </tr>
+    <tr>
+<td>Audit fees</td>
+<td>(805)</td>
+<td>(646)</td>
+<td>24.6</td>
+    </tr>
+    <tr>
+<td>Valuation fees</td>
+<td>(282)</td>
+<td>(280)</td>
+<td>0.7</td>
+    </tr>
+    <tr>
+<td>Net gains on derivatives</td>
+<td>2,350</td>
+<td>5,885</td>
+<td>(60.1)</td>
+    </tr>
+    <tr>
+<td>Other trust expenses</td>
+<td>(12,373)</td>
+<td>(12,189)</td>
+<td>1.5</td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Profit before divestment of an investment property and</strong></td>
+    </tr>
+    <tr>
+<td><strong>net change in fair value of investment properties</strong></td>
+<td><strong>300,246</strong></td>
+<td><strong>188,589</strong></td>
+<td><strong>59.2</strong></td>
+    </tr>
+    <tr>
+<td>Gain on divestment of an investment property</td>
+<td>10,825</td>
+<td>31,611</td>
+<td>Nm</td>
+    </tr>
+    <tr>
+<td>Net change in fair value of investment properties</td>
+<td>161,648</td>
+<td>120,610</td>
+<td>34.0</td>
+    </tr>
+    <tr>
+<td><strong>Profit before tax</strong></td>
+<td><strong>472,719</strong></td>
+<td><strong>340,810</strong></td>
+<td><strong>38.7</strong></td>
+    </tr>
+    <tr>
+<td>Tax expenses</td>
+<td>(38,037)</td>
+<td>(26,832)</td>
+<td>41.8</td>
+    </tr>
+    <tr>
+<td><strong>Profit after tax</strong></td>
+<td><strong>434,682</strong></td>
+<td><strong>313,978</strong></td>
+<td><strong>38.4</strong></td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Profit after tax attributable to:</strong></td>
+    </tr>
+    <tr>
+<td>Unitholders</td>
+<td>427,820</td>
+<td>300,669</td>
+<td>42.3</td>
+    </tr>
+    <tr>
+<td>Non-controlling interests</td>
+<td>6,862</td>
+<td>13,309</td>
+<td>(48.4)</td>
+    </tr>
+    <tr>
+<td><strong>Profit after tax</strong></td>
+<td><strong>434,682</strong></td>
+<td><strong>313,978</strong></td>
+<td><strong>38.4</strong></td>
+    </tr>
+    <tr>
+<td><strong>Profit attributable to Unitholders</strong></td>
+<td><strong>427,820</strong></td>
+<td><strong>300,669</strong></td>
+<td><strong>42.3</strong></td>
+    </tr>
+    <tr>
+<td>Net tax and other adjustments to profit after tax attributable to Unitholders</td>
+<td>(159,769)</td>
+<td>(127,936)</td>
+<td>24.9</td>
+    </tr>
+    <tr>
+<td><strong>Distributable income²'³</strong></td>
+<td><strong>268,051</strong></td>
+<td><strong>172,733</strong></td>
+<td><strong>55.2</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Other income includes income support (net of tax) provided by a vendor of an asset acquired.
+
+\*2 Distributable Income includes Capex Reserves and upfront land premium relating to Keppel DC Singapore 7 and 8 (ULP Reserves) set aside. Keppel DC REIT declares distributions on a half-yearly basis.
+
+\*3 Included in distributable income was an income support (net of tax) provided by vendors of an asset acquired.
+
+<!-- PAGE 48 -->
+
+# INVESTMENT PROPERTIES AND INVESTMENT PROPERTY HELD FOR SALE
+
+The carrying value of investment properties (including those held for sale) was $6,150.5 million as at 31 December 2025, as compared to $4,920.5 million as at 31 December 2024. This included $16.8 million (2024: $29.2 million) of capitalised lease liabilities pertaining to extension offers (2024: a land rent option and an extension offer). The net increase of $1,230.0 million or 25.0% in the carrying value was mainly due to the additions of Tokyo DC 3, 10-year land tenure lease extension for KDC SGP 7 and 8, capital expenditures, net fair value gains from the revaluation of the Group’s investment properties and foreign exchange translation gains from the appreciation of certain foreign currencies against SGD. This was partially offset by the divestment of Kelsterbach DC.
+
+# NET ASSET VALUE (NAV) PER UNIT
+
+NAV per Unit as at 31 December 2025 was $1.71 (31 December 2024: $1.53). Excluding the distributable income for the financial period from 1 July 2025 to 31 December 2025 (2024: financial period from 28 November 2024 to 31 December 2024), the adjusted NAV per Unit was $1.66 (31 December 2024: $1.52).
+
+# CASH FLOWS AND LIQUIDITY
+
+As at 31 December 2025, cash and cash equivalents amounted to $336.5 million (31 December 2024: $311.2 million). This excludes $5.9 million in pledged bank deposits (31 December 2024: $5.3 million) to secure a guarantee for virtual power purchase agreements with unrelated corporations and $9.5 million that is required to be maintained under a bank agreement (31 December 2024: $0.2 million).
+
+Cash generated from operating activities for FY 2025 was $262.8 million, $39.1 million higher than the $223.7 million a year ago, mainly due to higher operational cash inflows.
+
+Net cash used in investing activities for FY 2025 was $1,125.6 million, comprising the acquisition of Tokyo DC 3, 10-year land tenure
+
+INVESTMENT PROPERTIES¹ BREAKDOWN BY CARRYING VALUE² ($ million)
+as at 31 December
+
+<table>
+  <thead>
+    <tr>
+        <th>Property</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Keppel DC Singapore 1</td>
+        <td>307.0</td>
+        <td>339.8</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 2</td>
+        <td>188.0</td>
+        <td>185.0</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 3</td>
+        <td>426.0</td>
+        <td>412.0</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 4</td>
+        <td>590.0</td>
+        <td>510.0</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 5</td>
+        <td>507.0</td>
+        <td>492.2</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 7</td>
+        <td>750.1</td>
+        <td>536.2</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 8</td>
+        <td>801.8</td>
+        <td>498.7</td>
+    </tr>
+    <tr>
+        <td>DC1</td>
+        <td>290.7</td>
+        <td>290.7</td>
+    </tr>
+    <tr>
+        <td>Gore Hill Data Centre</td>
+        <td>181.8</td>
+        <td>188.3</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 1</td>
+        <td>109.2</td>
+        <td>130.8</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 2</td>
+        <td>108.9</td>
+        <td>130.8</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 3</td>
+        <td>11.2</td>
+        <td>12.0</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 1</td>
+        <td>199.3</td>
+        <td>214.0</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 3</td>
+        <td>689.1</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Basis Bay Data Centre</td>
+        <td>17.1</td>
+        <td>16.5</td>
+    </tr>
+    <tr>
+        <td>Kelsterbach Data Centre</td>
+        <td>-</td>
+        <td>55.0</td>
+    </tr>
+    <tr>
+        <td>maincubes Data Centre</td>
+        <td>179.7</td>
+        <td>167.7</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Dublin 1</td>
+        <td>171.4</td>
+        <td>155.9</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Dublin 2</td>
+        <td>170.5</td>
+        <td>146.6</td>
+    </tr>
+    <tr>
+        <td>Milan Data Centre</td>
+        <td>60.8</td>
+        <td>57.3</td>
+    </tr>
+    <tr>
+        <td>Almere Data Centre</td>
+        <td>171.3</td>
+        <td>155.5</td>
+    </tr>
+    <tr>
+        <td>Amsterdam Data Centre</td>
+        <td>43.9</td>
+        <td>40.9</td>
+    </tr>
+    <tr>
+        <td>Eindhoven Campus</td>
+        <td>40.3</td>
+        <td>38.0</td>
+    </tr>
+    <tr>
+        <td>Cardiff Data Centre</td>
+        <td>22.8</td>
+        <td>26.6</td>
+    </tr>
+    <tr>
+        <td>GV7 Data Centre</td>
+        <td>28.8</td>
+        <td>37.4</td>
+    </tr>
+    <tr>
+        <td>London Data Centre</td>
+        <td>83.8</td>
+        <td>82.6</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <th>6,150.5</th>
+        <th>4,920.5</th>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Included an investment property held for sale, which was reclassified upon the entry into a sale and purchase agreement in 2024.
+
+\*2 The carrying values of investment properties include lease liabilities pertaining to land rent option and extension offers.
+
+<!-- PAGE 49 -->
+
+lease extension for KDC SGP 7 and 8 as well as capital expenditures. This was partially offset by net proceeds from the divestment of Kelsterbach DC, coupon income and partial repayment of notes receivables by M1 Network Private Limited (NetCo). Net cash used in investing activities for FY 2024 was $1,066.3 million, comprising the acquisition of Tokyo DC 1, KDC SGP 7 and 8 as well as capital expenditures. This was partially offset by net proceeds from divestment of IC DC and subscription into Australia Data Centre Note, coupon income and partial repayment of notes receivables by NetCo.
+
+The Group recorded net cash generated from financing activities of $886.5 million in FY 2025 as compared to net cash generated from financing activities of $1,004.7 million for FY 2024. Net cash generated in FY 2025 was mainly from the preferential offering and drawdown of borrowings. These were partially offset by the distributions paid to Unitholders, payment of lease liabilities, repayment of borrowings, finance costs and the acquisition of the remaining interest in KDC SGP 7 and 8. Net cash generated in FY 2024 was mainly from the equity fund raise and drawdown of borrowings. These were partially offset by the distributions paid to Unitholders, repayment of borrowings and finance costs.
+
+## FUNDING AND BORROWINGS
+
+The Group’s total borrowings as at 31 December 2025 were $2,375.6 million (31 December 2024: $1,683.9 million). The increase was mainly due to the acquisition of Tokyo DC 3 and the 10-year land tenure lease extension for KDC SGP 7 and 8.
+
+In February 2025, Keppel DC REIT established a Green Financing Framework, demonstrating its commitment to sustainable financing. The Group secured new revolving credit facilities, term loans and a Tokutei Mokuteki Kaisha bond in FY 2025, totalling $1,344.0 million. By the end of 2025, the Group has put in place $608.4 million of green financing in line with the Green Financing Framework, representing 25.6% of total borrowings.
+
+**DEBT MATURITY PROFILE (%)**
+as at 31 December
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2026</th>
+        <th>2027</th>
+        <th>2028</th>
+        <th>2029</th>
+        <th>2030</th>
+        <th>2031</th>
+        <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2025</td>
+        <td>0.0</td>
+        <td>12.8</td>
+        <td>16.3</td>
+        <td>9.8</td>
+        <td>19.0</td>
+        <td>33.7</td>
+        <td>8.4</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>3.8</td>
+        <td>24.0</td>
+        <td>31.4</td>
+        <td>21.5</td>
+        <td>2.5</td>
+        <td>4.2</td>
+        <td>12.6</td>
+        <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="3">KEY STATISTICS<br/>as at 31 December</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Aggregate leverage¹ (%)</td>
+        <td>35.3</td>
+        <td>31.5</td>
+    </tr>
+    <tr>
+        <td>Interest coverage ratio (ICR)</td>
+        <td>7.5 times</td>
+        <td>5.3 times</td>
+    </tr>
+    <tr>
+        <td>Weighted average debt tenor (years)</td>
+        <td>3.3</td>
+        <td>3.2</td>
+    </tr>
+    <tr>
+        <td>Percentage of unencumbered assets (%)</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Computed based on gross borrowings and deferred payment as a percentage of deposited properties, both of which do not consider the lease liabilities pertaining to extension offers.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">SENSITIVITY ANALYSIS ON ICR<br/>as at 31 December</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>10% decrease in EBITDA</td>
+        <td>6.7 times</td>
+    </tr>
+    <tr>
+        <td>100 basis points increase in the weighted average cost of debt¹</td>
+        <td>5.6 times</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Assuming change in the weighted average interest rate of all hedged and unhedged borrowings.
+
+As at 31 December 2025, the Group had $774.3 million of unutilised facilities (31 December 2024: $406.8 million). Weighted average debt tenor and weighted average hedge tenor were 3.3 years and 3.5 years respectively. The all-in weighted average cost of debt was 3.0% per annum for FY 2025, with an interest coverage ratio of 7.5 times as at 31 December 2025. While aggregate leverage increased by 3.8 percentage points year-on-year, Keppel DC REIT’s financial position remained healthy, supported by a strong interest coverage ratio, and ample unutilised credit facilities. The Manager will continue to monitor these metrics as part of its risk management process, taking into consideration the potential effects of future transactions.
+
+Aggregate leverage as at 31 December 2025 was 35.3% with the exclusion of lease liabilities related to land extension offers.
+
+## USE OF PROCEEDS OF THE PRO-RATA PREFERENTIAL OFFERING
+
+Keppel DC REIT raised approximately $398.9 million in net proceeds from the October 2025 Preferential Offering (PO) of 180,562,518 new units at an issue price of $2.24 per unit.
+
+<!-- PAGE 50 -->
+
+As at 31 December 2025, the net proceeds have been utilised as follows:
+
+1. $229.8 million for the acquisition of 98.47% effective interest in Tokyo DC 3;
+
+2. $2.7 million to finance an ongoing asset enhancement initiative for KDC SGP 8;
+
+3. $10.7 million to finance the associated costs for a 30-year land tenure lease extension of KDC SGP 1; and
+
+4. $51.1 million for debt repayment.
+
+On 12 February 2026, $53.4 million of the unutilised proceeds were used to acquire the remaining interests in Keppel DC Singapore 3 and 4 and the unutilised proceeds mainly intended to finance the ongoing asset enhancement initiative for KDC SGP 8.
+
+## CAPITAL MANAGEMENT
+
+The Manager regularly reviews the Group's financial policy, as well as its debt and capital management structures to optimise funding sources. The Group's exposure to various risk elements is also monitored closely through clearly established management policies and procedures.
+
+The Manager seeks to maintain an optimal combination of debt and equity to manage the cost of capital and maximise returns to Unitholders. The Manager closely monitors the externally imposed capital requirements and ensures that the adopted capital structure complies with such requirements.
+
+For the financial year ended 31 December 2025, the Group has complied with Property Funds Appendix of the CIS Code issued by MAS, including fulfilling the requirement of maintaining aggregate leverage below 50.0% of deposited properties.
+
+## FINANCIAL RISK MANAGEMENT
+
+The Group operates across multiple jurisdictions and is exposed to credit, liquidity, market (primarily currency and interest rate) and climate-related risks. These risks are managed through established policies and guidelines designed to balance the potential impact of adverse events through the cost of implementing appropriate risk-mitigation measures. The Group's financial risk management is discussed in greater detail in the notes to the financial statements.
+
+The Manager adopts appropriate hedging strategies to mitigate interest rate and foreign currency exposure for the Group. Interest rate swaps and forward currency contracts have been entered into to mitigate interest rate exposures of long-term loans and foreign currency exposures of forecast foreign-sourced income respectively. Natural hedging is in place with borrowings in currencies that match the corresponding investments. As at 31 December 2025, 71.2% of the REIT's borrowings comprise fixed loans or loans that have been hedged, and the REIT has substantially hedged its forecast foreign-sourced distributions through end June 2027.
+
+The net derivative financial assets of $0.6 million (2024: $10.2 million) represented 0.02% (2024: 0.30%) of the net assets of the Group as at 31 December 2025. The fair value of derivatives is included in Note 10 to the Financial Statements.
+
+## ACCOUNTING POLICIES
+
+The financial statements have been prepared in accordance with the Singapore Financial Reporting Standards (International) (SFRS(I)), issued by the Accounting Standards Council (Singapore), the applicable requirements of the CIS Code and the provisions of the Trust Deed.
+
+The Group's significant accounting policies are discussed in more detail in the notes to the financial statements. The preparation of the financial statements in conformity with SFRS(I) requires the Manager to make judgements, estimates and assumptions that affect the application of accounting policies and reported amounts of assets, liabilities, income, expenses and disclosures made. In particular, the valuation of investment properties is a significant area which requires estimation and critical judgement in applying accounting policies. This has the most significant effect on the amounts recognised in the financial statements, and is discussed in greater detail in the notes to the financial statements.
+
+## DISTRIBUTABLE INCOME
+
+# $268.1m
+
+55.2% higher than FY 2024
+
+## DISTRIBUTION PER UNIT
+
+# 10.381 cts
+
+9.8% higher than FY 2024
+
+## INTEREST COVERAGE RATIO
+
+# 7.5 times
+
+2.2 times higher than FY 2024
+
+<!-- PAGE 51 -->
+
+Background image of data center with two technicians in the foreground
+
+# Sustainability Report
+
+Keppel DC REIT is committed to environmental stewardship, ethical business conduct, and community involvement, guided by a robust sustainability framework aimed at delivering enduring value to its stakeholders.
+
+
+
+# Sustainability Framework and Highlights for 2025
+
+<table>
+  <thead>
+    <tr>
+        <th>ENVIRONMENTAL STEWARDSHIP Environmental Stewardship icon</th>
+        <th>RESPONSIBLE BUSINESS Responsible Business icon</th>
+        <th>PEOPLE AND COMMUNITY People and Community icon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Aligned with Keppel’s Vision 2030, we remain committed to enhancing resource efficiency, advancing environmental performance, and contributing meaningfully to global climate action.</td>
+        <td>The long-term sustainability of the business is supported by our strong and effective Board, sound corporate governance, and disciplined risk management.</td>
+        <td>We foster a safe and healthy workplace, invest in training and development to empower our people, and strive to make a positive impact in the communities where we operate.</td>
+    </tr>
+    <tr>
+        <td>» For more information,<br/>go to: pages 67 to 75</td>
+        <td>» For more information,<br/>go to: pages 76 to 81</td>
+        <td>» For more information,<br/>go to: pages 82 to 90</td>
+    </tr>
+    <tr>
+        <td>REFRESHED CLIMATE TARGET<br/><strong>50% reduction</strong><br/>In Scope 1 and 2 emissions from a 2025 baseline.</td>
+        <td>GREEN FINANCING<br/><strong>~$608m</strong><br/>Launched inaugural Green Financing Framework and obtained approximately $608 million in green financing.</td>
+        <td>TRAINING AND DEVELOPMENT<br/><strong>42.5 hrs</strong><br/>Per employee, exceeding target of 20 training hours per employee.</td>
+    </tr>
+    <tr>
+        <td>ENERGY EFFICIENCY<br/><strong>~12% reduction</strong><br/>In effective Power Usage Effectiveness (PUE) for fully-fitted (colocation) assets that underwent major asset enhancement works. Achieved the 10% reduction target one year ahead of schedule.</td>
+        <td>GREEN CERTIFICATIONS<br/><strong>8 assets</strong><br/>In Singapore and Dublin with green certifications.</td>
+        <td>DIVERSITY<br/><strong>~30%</strong><br/>Female Board representation.</td>
+    </tr>
+    <tr>
+        <td>RENEWABLE ENERGY (RE)<br/><strong>VPPAs</strong><br/>Secured fourth Virtual Power Purchase Agreement (VPPA) in Dublin.</td>
+        <td>GOVERNANCE<br/><strong>1st position</strong><br/>Joint winner of the Singapore Corporate Governance Award at the SIAS Investors’ Choice Awards 2025.</td>
+        <td>VOLUNTEERISM<br/><strong>&gt;1,300 hrs</strong><br/>Dedicated to community outreach activities, in conjunction with Keppel’s Fund Management and Investment platforms (Keppel FM&amp;I).</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 52 -->
+
+# Our Commitment to Sustainability Excellence
+
+Portrait of Loh Hwee Long, Chief Executive Officer
+
+> "Sustainability remains at the heart of our strategy. While the AI-driven digital economy presents exciting opportunities, our focus is on building a future-ready portfolio, balanced with responsible growth."
+
+LOH HWEE LONG, Chief Executive Officer
+
+**DEAR STAKEHOLDERS,**
+
+Sustainability stands at the heart of Keppel DC REIT’s strategy as we navigate a rapidly evolving digital economy. The accelerating adoption of artificial intelligence (AI) and digital transformation continues to drive unprecedented demand for data centres. These trends present exciting growth opportunities for Keppel DC REIT, but at the same time, also bring heightened energy and climate-related risks. Our goal is not only to deliver resilient returns, but also create long-term value for our stakeholders while advancing environmental responsibility, strong governance, and community engagement.
+
+In 2025, we strengthened our sustainability reporting efforts to align with the climate-related disclosure requirements of the IFRS Sustainability Disclosure Standards, meeting the Singapore Exchange Regulation’s revised climate reporting requirements for Straits Times Index constituents.
+
+**ENVIRONMENTAL STEWARDSHIP**
+
+With the acquisition of Keppel DC Singapore 7 and Keppel DC Singapore 8 (KDC SGP 7 and 8) in December 2024, we refreshed our climate target, aligned the reporting methodology to better reflect actual consumption, and set our sights on achieving a 50% reduction in Scope 1 and 2 emissions by 2035 from a 2025 baseline. To meet this target, we will continue to improve operational performance and efficiencies, whilst remaining open to the selective procurement of Renewable Energy Certificates (RECs) and/or carbon offsets as a secondary option.
+
+Keppel DC REIT was the first data centre operator in Ireland to introduce RE from domestic sources into the grid in 2024. In April 2025, we strengthened this position by committing to a fourth Irish VPPA, adding to the arrangements that ensure our Irish data centres are fully backed by electricity originating from Irish-based renewable projects.
+
+Across our in-scope properties that underwent major asset enhancement works, we delivered an approximate 12% improvement in PUE which was independently assured, achieving our target of a 10% improvement one year ahead of schedule. This reflects our proactive approach in energy optimisation, driving cost efficiency, and supporting long-term value creation for stakeholders.
+
+Building on earlier climate risk assessments, we completed an analysis of nature-related dependencies guided by the Taskforce on Nature-related Financial Disclosures (TNFD) framework. This enables us to better understand emerging risks and opportunities in a rapidly changing environment.
+
+**RESPONSIBLE BUSINESS**
+
+Strong governance underpins execution. The Board Environmental, Social and Governance (ESG) Committee provides oversight of sustainability strategy, supported by a working-level Sustainability Committee.
+
+As a testament to our efforts, in 2025, Keppel DC REIT maintained an ‘AA’ MSCI ESG rating, achieved a Green Star rating for the fourth consecutive year in the GRESB Assessment, and was ranked 9th in the Singapore Governance and Transparency Index. We also received the Singapore Corporate Governance Award at the SIAS Investors’ Choice Awards and the Best Investor Relations (Silver) award at the Singapore Corporate Awards.
+
+We continued to strengthen our responsible business practices through sustainable financing initiatives. In 2025, we launched our inaugural Green Financing Framework, obtaining approximately $608 million in green financing to fund data centre acquisitions and other asset enhancement initiatives that meet stringent sustainability criteria, aligning capital allocation with our long-term ESG objectives.
+
+**PEOPLE AND COMMUNITY**
+
+Our people and communities are fundamental to our success. We continued to foster a safe, inclusive, and innovative workplace while supporting the communities wherever we operate.
+
+In 2025, our employee engagement score remained strong at above 80%, reflecting a commitment to a positive and collaborative culture. We exceeded our training target, maintained a zero-fatality workplace, and contributed to FM&I's more than 1,300 volunteering hours.
+
+**LOOKING AHEAD**
+
+As we look ahead, sustainability remains at the heart of our strategy. While the AI-driven digital economy presents exciting opportunities, our focus is on building a future-ready portfolio, balanced with responsible growth. We recognise the risks posed by physical climate events, resource constraints, and evolving regulations, and are committed to proactively address potential challenges where possible, to ensure sustainable progress.
+
+With your support, we remain committed to delivering enduring value for our stakeholders while creating positive impact on the environment and communities.
+
+Yours sincerely,
+
+**Loh Hwee Long**
+
+LOH HWEE LONG
+Chief Executive Officer
+17 March 2026
+
+<!-- PAGE 53 -->
+
+# About This Report
+
+## REPORTING PERIOD AND SCOPE
+
+Published in March 2026, Keppel DC REIT’s annual sustainability report (the Report) presents the Manager’s sustainability strategy and performance in managing key ESG factors. In alignment with Keppel DC REIT’s financial reporting, the Report contains information for the financial year from 1 January 2025 to 31 December 2025 (FY 2025). The social and governance performance data presented in subsequent sections of this Report pertains to the Manager and the Manager’s employees.
+
+## ASSETS IN REPORTING SCOPE
+
+Unless otherwise stated, Keppel DC REIT has provided material information to the extent possible for all entities included in the related consolidated financial statements. Investment holding entities, special purpose vehicles, and entities with asset(s) under master lease arrangements were excluded following a materiality assessment.
+
+Tokyo Data Centre 3 which was acquired on 19 November 2025 will be included from FY 2026.
+
+<table>
+  <thead>
+    <tr>
+        <th>Entity</th>
+        <th>Asset(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Keppel DC REIT (c/o Perpetual (Asia) Limited)</td>
+        <td>Keppel DC Singapore 1 (KDC SGP 1)<br/>Keppel DC Singapore 2 (KDC SGP 2)</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 3 LLP</td>
+        <td>Keppel DC Singapore 3 (KDC SGP 3)</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 4 LLP</td>
+        <td>Keppel DC Singapore 4 (KDC SGP 4)</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 5 LLP</td>
+        <td>Keppel DC Singapore 5 (KDC SGP 5)</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Singapore 7 LLP¹</td>
+        <td>Keppel DC Singapore 7 (KDC SGP 7)<br/>Keppel DC Singapore 8 (KDC SGP 8)</td>
+    </tr>
+    <tr>
+        <td>KDCR Australia Trust No. 2 (c/o KDCR Australia No.2 Pty Limited)</td>
+        <td>Gore Hill Data Centre (Gore Hill DC)</td>
+    </tr>
+    <tr>
+        <td>Basis Bay Capital Management Sdn. Bhd.</td>
+        <td>Basis Bay Data Centre (Basis Bay DC)</td>
+    </tr>
+    <tr>
+        <td>KDCR (Ireland) Limited</td>
+        <td>Keppel DC Dublin 1 (KDC DUB 1)</td>
+    </tr>
+    <tr>
+        <td>KDCR (Ireland) 2 Limited</td>
+        <td>Keppel DC Dublin 2 (KDC DUB 2)</td>
+    </tr>
+  </tbody>
+</table>
+
+\*¹ Memphis 1 Pte. Ltd. was converted to Keppel DC Singapore 7 LLP, a limited liability partnership pursuant to section 21 of the Limited Liability Partnership Act 2005 of Singapore on 11 February 2026.
+
+## REPORTING STANDARDS
+
+This Report is prepared in compliance with SGX Listing Rules 711A and 711B. It provides climate-related disclosures based on the climate-relevant provisions in IFRS Sustainability Disclosure Standards S1 General Requirements for Disclosure of Sustainability-related Financial Information and IFRS Sustainability Disclosure Standards S2 Climate-related Disclosures. Please refer to the IFRS S2 Content Index on pages 94 to 97 and the IFRS S2 Industry-based Guidance Metrics on page 97.
+
+This Report has also been prepared in accordance with the Global Reporting Initiative (GRI) Standards 2021 which was selected for its widely recognised reporting principles that support consistent and transparent disclosures. These principles include accuracy, balance, clarity, comparability, completeness, sustainability context, timeliness, and verifiability. For a full list of disclosures reported, please refer to the GRI Content Index on pages 91 to 93.
+
+A technician working on server racks in a data center with a Keppel logo on their uniform
+
+## INTERNAL REVIEW
+
+While the Report has not been externally verified in its entirety, the data in this Report has undergone thorough examination and the Manager will consider external assurance for future publications. In line with the SGX Listing Rules, the Manager in 2022 initiated an internal review of the sustainability report process, procedures, and controls, conducted by Keppel’s internal audit team.
+
+To enhance the reliability of the reported data, the Manager also engaged DNV Business Assurance Singapore Pte. Ltd. to independently verify the achievement of the PUE reduction target. For further information on the external assurance, please refer to pages 98 to 99.
+
+## CONTACT
+
+The Manager strives to continuously improve its approach to sustainability. For feedback, please contact the Manager at investor.relations@keppeldcreit.com.
+
+<!-- PAGE 54 -->
+
+# Approach to Sustainability
+
+## SUSTAINABILITY GOVERNANCE
+
+**Board of Directors (The Board)**
+
+The Board is ultimately responsible for Keppel DC REIT’s sustainability strategy and initiatives. It oversees the due diligence and processes in place to identify and manage sustainability and climate-related impacts, risks, and opportunities.
+
+Sustainability and climate-related considerations, in addition to associated trade-offs, are integrated into strategic decision-making processes including potential acquisitions, divestments, capital expenditure, and risk management.
+
+### BOARD STATEMENT
+
+> “As part of its strategic oversight, the Board has reviewed, considered, and approved Keppel DC REIT’s material ESG factors. The Board incorporates consideration of these factors, alongside other sustainability matters, into its strategy formulation and business decisions. The Board will continue to oversee the management and monitoring of Keppel DC REIT’s ESG factors periodically. Whilst the Board holds ultimate responsibility for the governance of sustainability issues, direct management is delegated to the ESG Committee and Sustainability Committee.”
+
+All eligible Directors have received training on sustainability matters as prescribed by the SGX. The Nominating and Remuneration Committee (NRC) ensures the Board collectively possesses the skills and competencies necessary to address climate-related risks and opportunities, including during the appointment of new Directors and succession planning.
+
+ESG updates, including updates on climate-related risks and opportunities, and relevant regulatory changes are communicated through quarterly Board meetings, emails, training, and presentations from external consultants.
+
+Critical concerns are communicated to the Board through emails and meetings as required. In 2025, there were zero cases of critical concerns brought to the Board.
+
+For more information on Keppel DC REIT’s governance structure, including the Board’s composition, roles, nomination processes, and other related matters, please refer to pages 14 to 16, 59 to 60 and 167.
+
+### SUSTAINABILITY GOVERNANCE STRUCTURE
+
+```mermaid
+graph TD
+    subgraph Board_Level [Board Level]
+        BD[Board of Directors]
+        ESG[Environmental, Social and Governance Committee]
+        SC[Sustainability Committee]
+        BD --> ESG
+        ESG --> SC
+    end
+
+    subgraph Management_and_Business_Unit_Level [Management and Business Unit Level]
+        SM[Senior Management]
+        AM[Asset Management]
+        FIN[Finance]
+        HR[Human Resources]
+        INV[Investment]
+        IRS[Investor Relations and Sustainability]
+        LEG[Legal]
+        PM[Portfolio Management]
+        RC[Risk and Compliance]
+
+        SM --- AM
+        SM --- FIN
+        SM --- HR
+        SM --- INV
+        SM --- IRS
+        SM --- LEG
+        SM --- PM
+        SM --- RC
+    end
+
+    SC --> SM
+```
+
+<!-- PAGE 55 -->
+
+# Approach to Sustainability
+
+## ESG Committee
+
+The ESG Committee convenes at least twice a year and provides oversight of sustainability initiatives across Keppel DC REIT’s business operations. The ESG Committee oversees the setting, disclosure, and achievement of ESG targets, and reviews the effectiveness of the sustainability risk management framework, including climate-related risk and opportunities. The ESG Committee also oversees and provides guidance to the Sustainability Committee where relevant.
+
+## Sustainability Committee
+
+The Sustainability Committee executes the Manager’s sustainability strategy, updates the ESG Committee and the Board on ESG matters, and makes recommendations on necessary follow-up actions. It ensures that ESG considerations are integrated into strategic decision-making in areas such as acquisitions and divestments, capital expenditures, financing, and risk management.
+
+ESG-related performance metrics, including the advancement of ESG goals through sustainability initiatives, enhanced climate reporting, and community engagement, are incorporated into senior management’s corporate scorecard. ESG and corporate social responsibility targets made up approximately 8% of Keppel DC REIT’s corporate scorecard in 2025.
+
+## SUSTAINABILITY FRAMEWORK AND POLICIES
+
+The Manager’s sustainability framework comprises three key pillars: Environmental Stewardship, Responsible Business, and People and Community. Sustainability is integrated across Keppel DC REIT’s portfolio, with initiatives implemented at the asset level. These efforts are periodically reviewed in collaboration with facility managers, with post-implementation monitoring to ensure accountability and drive performance improvements.
+
+## Policies and Commitments
+
+The Manager leverages a comprehensive set of policies to support effective management of ESG-related matters and responsible business conduct. These include the
+
+* Keppel Artificial Intelligence Guidelines
+
+* Keppel Code of Conduct
+
+* Keppel Competition Law Compliance Manual
+
+* Keppel Cyber Security Policy
+
+* Keppel Diversity, Equity and Inclusion Policy
+
+* Keppel Global Anti-Bribery Policy
+
+* Keppel Green Procurement Guidelines
+
+* Keppel Health, Safety and Environmental (HSE) Policy
+
+* Keppel Human Rights Policy
+
+* Keppel Supplier Code of Conduct
+
+* Insider Trading Policy and Dealing in Securities Policy
+
+**SUSTAINABILITY COMMITTEE**
+
+<table>
+  <thead>
+    <tr>
+        <th>Teams</th>
+        <th>Responsibilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Asset Management</td>
+        <td>* Drive implementation of sustainability and climate-related mitigation and adaptation initiatives across assets<br/>* Engage with facility managers and key clients to identify relevant ESG topics, risks and opportunities, and implement mitigating measures</td>
+    </tr>
+    <tr>
+        <td>Finance</td>
+        <td>* Assess financial implications of climate-related risks and opportunities, and integrate considerations of climate-related risks into financial reporting<br/>* Introduce appropriate sustainable capital management measures and sustainable and green financing</td>
+    </tr>
+    <tr>
+        <td>Investment</td>
+        <td>* Integrate ESG considerations into evaluation of opportunities to ensure long-term resilience and alignment with sustainability targets</td>
+    </tr>
+    <tr>
+        <td>Investor Relations and Sustainability</td>
+        <td>* Articulate ESG strategy, achievements, and progress<br/>* Understand investors’ ESG requirements and incorporate them into disclosures, as relevant</td>
+    </tr>
+    <tr>
+        <td>Human Resources</td>
+        <td>* Develop strategies related to talent management, capacity building, and engagement in relation to ESG</td>
+    </tr>
+    <tr>
+        <td>Legal</td>
+        <td>* Ensure compliance of strategies and disclosures with relevant laws<br/>* Manage legal and regulatory risks</td>
+    </tr>
+    <tr>
+        <td>Portfolio Management</td>
+        <td>* Set overall direction and targets related to sustainability and climate change, including working with relevant internal and external stakeholders to identify and assess climate and sustainability-related risks<br/>* Work closely with the asset and facility managers to drive the implementation of sustainability and climate-related mitigation and adaptation initiatives across assets<br/>* Develop and update sustainability roadmap<br/>* Track and assess portfolio performance to ensure alignment with sustainability targets across the portfolio<br/>* Management of ESG data across assets</td>
+    </tr>
+    <tr>
+        <td>Risk and Compliance</td>
+        <td>* Advise and guide senior management on enterprise risk management and the development of risk mitigation strategies</td>
+    </tr>
+  </tbody>
+</table>
+
+Keppel policies are reviewed and approved by Keppel’s Board, Board Committees or senior management in charge. Similarly, Keppel DC REIT’s policies are reviewed and approved by its Board or CEO to ensure the policies remain relevant. To ensure effective implementation, the Manager conducts due diligence as required and applies the precautionary principle where appropriate, to prevent non-compliance and unintended negative outcomes.
+
+The Manager adopts the policy commitments outlined in the Keppel Code of Conduct. On an annual basis, employees are required to complete online training modules and formally declare their adherence to Keppel’s policies.
+
+For further information on the policies, please refer to the Responsible Business and People and Community sections in this Report.
+
+<!-- PAGE 56 -->
+
+# MATERIALITY ASSESSMENT
+
+In identifying key material issues relevant to Keppel DC REIT, the Manager prioritises the ESG factors influencing its business, as well as those significantly affected by its activities.
+
+In 2024, the Manager worked with an external sustainability consultant to conduct a double materiality assessment. The assessment incorporated both financial and impact materiality. Financial materiality considered the impact of ESG factors on Keppel DC REIT’s cash flows, access to financing, and cost of capital. Impact materiality assessed Keppel DC REIT’s influence on the economy, environment, and community. The assessment also included a review of Keppel DC REIT’s existing list of material ESG factors, supplemented by research on macro ESG and industry-relevant trends. Material topics were subsequently identified with input from consultations with Keppel DC REIT’s internal and external stakeholders. This exercise then informed Keppel DC REIT’s sustainability strategy and management approach, ensuring that the Manager can remain adaptable amidst an evolving sustainability landscape and shifting expectations for business.
+
+## Materiality Assessment Process
+
+<table>
+    <tr>
+        <th>Understand Context</th>
+        <th>Identify Topics</th>
+        <th>Assessment of ESG Factors</th>
+        <th>Determination of Material ESG Factors</th>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>• Reviewed Keppel DC REIT’s operations, including upstream and downstream value chain<br/>• Identified key stakeholders for engagement</th>
+        <th>• Reviewed and updated the list of ESG factors, using sectoral guidance, external standards, and peer research<br/>• Identified risks and opportunities, and assessed actual as well as potential positive and negative impacts pertinent to Keppel DC REIT</th>
+        <th>• Engaged internal and external stakeholders to assess the importance of each ESG factor for Keppel DC REIT<br/>• Conducted interviews with key stakeholders to understand their perspectives and priorities</th>
+        <th>• Analysed quantitative and qualitative findings to prioritise material ESG factors<br/>• List of material ESG factors reviewed by the management team<br/>• Final list of material ESG factors validated and approved by the Board</th>
+    </tr>
+</table>
+
+# PRIORITISATION OF ESG FACTORS
+
+Keppel DC REIT’s prioritised ESG factors have been categorised as Material ESG Factors or Important ESG Factors as determined by the double materiality assessment.
+
+<table>
+  <tbody>
+    <tr>
+        <td>Impact Materiality</td>
+        <td>Financial Materiality</td>
+        <td>Category</td>
+    </tr>
+    <tr>
+        <td>High</td>
+        <td>High</td>
+        <td>Material ESG Factors</td>
+    </tr>
+    <tr>
+        <td>Medium</td>
+        <td>Medium</td>
+        <td>Important ESG Factors</td>
+    </tr>
+  </tbody>
+</table>
+
+## Material ESG Factors
+
+Factors determined to be of the highest importance to Keppel DC REIT and its key stakeholders from both an impact and financial perspective form the core of its sustainability strategy and reporting. The Manager discloses its targets and performance for these factors.
+
+* Building and Service Quality
+
+* Climate Action and Energy Management
+
+* Corporate Governance
+
+* Employee Health and Wellbeing
+
+* Human Capital Management
+
+## Important ESG Factors
+
+Factors determined to be moderately to highly important to Keppel DC REIT and its key stakeholders from both an impact and financial perspective are actively monitored and managed. The Manager includes them in external reporting where relevant:
+
+* Community Development and Engagement
+
+* Sustainable Finance
+
+* Sustainable Supply Chain Management
+
+* Water Management
+
+<!-- PAGE 57 -->
+
+# ESG TARGETS AND COMMITMENTS
+
+In support of the United Nations Sustainable Development Goals (SDGs) and the 2030 Agenda for Sustainable Development, the Manager has embedded nine selected SDGs into Keppel DC REIT’s sustainability strategy. To track progress and ensure accountability, the Manager has established a set of targets across the short term (2026) and medium term (2030), as well as long-term goals and commitments for its material ESG factors.
+
+<table>
+  <thead>
+    <tr>
+        <th>ESG Factors</th>
+        <th>UN SDGs</th>
+        <th>Time Horizon</th>
+        <th>Targets/Commitments</th>
+        <th>FY 2025 Performance</th>
+        <th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6">Environmental Stewardship</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Climate Action and Energy Management</td>
+        <td>11 SUSTAINABLE CITIES AND COMMUNITIES</td>
+        <td>[yes]</td>
+        <td>• Continue advancing energy-optimisation initiatives including the adoption of energy-efficient equipment and technologies</td>
+        <td>• Reporting aligned with climate-related disclosure requirements of the IFRS Sustainability Disclosure Standards</td>
+        <td rowspan="2">67 to 74</td>
+    </tr>
+    <tr>
+        <td>13 CLIMATE ACTION</td>
+        <td>[yes]</td>
+        <td>• Reduce Scope 1 and 2 emissions with an aim to halve this by 2035 from a 2025 baseline¹. Target was refreshed in 2025 to reflect material portfolio developments and refined allocation methodology<br/>• Introduce RE² to at least 50% of fully-fitted (colocation) assets by 2030, as well as encourage RE use at all other portfolio assets</td>
+        <td>• In 2025, Keppel DC REIT emitted a total of 38,538 tCO₂e Scope 1 and 2 Greenhouse Gases (GHG) emissions, constituting a 32% year-on-year increase from 2024 due to the inclusion of KDC SGP 7 and 8<br/>• Achieved a 12.1% reduction in effective PUE³, relative to the 2019 baseline, for fully-fitted (colocation) assets that underwent major asset enhancement works⁴</td>
+    </tr>
+    <tr>
+        <td>Water Management</td>
+        <td>6 CLEAN WATER AND SANITATION</td>
+        <td>● ●</td>
+        <td>• Continue to monitor water consumption and undertake measures to reduce water consumption including water conservation efforts and the water-efficient fittings</td>
+        <td>• In 2025, total water withdrawal amounted to 714.6 megalitres (ML), representing a 50.4% increase from 2024, attributable to the acquisition of KDC SGP 7 and 8</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td colspan="6">Responsible Business</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Building and Service Quality</td>
+        <td>9 INDUSTRY, INNOVATION AND INFRASTRUCTURE</td>
+        <td>[yes]</td>
+        <td>• Achieve an above satisfactory score for the Annual Customer Satisfaction Survey⁵<br/>• Achieve zero cases of client dissatisfaction over the physical security of all fully-fitted (colocation) properties in the Annual Customer Satisfaction Survey</td>
+        <td>• Achieved an above average satisfactory rating for the Annual Customer Satisfaction Survey<br/>• Achieved zero cases of client dissatisfaction over the physical security of fully-fitted (colocation) in the Annual Customer Satisfaction Survey</td>
+        <td rowspan="2">76 to 78</td>
+    </tr>
+    <tr>
+        <td>11 SUSTAINABLE CITIES AND COMMUNITIES</td>
+        <td>[yes]</td>
+        <td>• Green certification for all fully-fitted (colocation) assets by 2030</td>
+        <td>• Green certification for 8 fully-fitted (colocation) assets in Singapore and Dublin⁶<br/>• In 2022, the Manager set the target of obtaining and maintaining green certification for all Singapore fully-fitted (colocation) assets by 2025. Green certifications for all Singapore fully-fitted (colocation) assets have been obtained and maintained except for KDC SGP 1 which is under a strategic review in tandem with a 30-year land tenure lease extension</td>
+    </tr>
+    <tr>
+        <td>Corporate Governance</td>
+        <td>16 PEACE, JUSTICE AND STRONG INSTITUTIONS</td>
+        <td>● ● ●</td>
+        <td>• Uphold strong corporate governance, robust risk management and timely, transparent communications with stakeholders<br/>• Uphold high standards of cybersecurity and data protection best practices through the Keppel Cybersecurity governance structure<br/>• Zero incidents of data breaches and non-compliance with data privacy laws<br/>• Maintain high standards and best practices in ethical business conduct and compliance, with zero incidents of fraud, corruption, and bribery, and no significant instances of non-compliance with laws and regulations</td>
+        <td>• The Manager continues to uphold strong corporate governance and risk management practices<br/>• No incidents of data breaches and non-compliance with data privacy laws<br/>• No incidents relating to fraud, corruption and bribery, and no instances of non-compliance with laws and regulations<br/>• Maintained 9th place in the Singapore Governance and Transparency Index (SGTI) under the REIT and Business Trust category<br/>• Joint winner of Singapore Corporate Governance Award at SIAS Investors’ Choice Awards 2025<br/>• Best Investor Relations (Silver) Award at Singapore Corporate Awards 2025</td>
+        <td>78 to 80</td>
+    </tr>
+    <tr>
+        <td>Sustainable Finance</td>
+        <td>8 DECENT WORK AND ECONOMIC GROWTH</td>
+        <td>● ●</td>
+        <td>• Diversify sources of funding to achieve sustainable financing</td>
+        <td>• Announced inaugural Green Financing Framework<br/>• Green financing comprised 25.6% of total borrowings as at 31 December 2025</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td>Sustainable Supply Chain Management</td>
+        <td>12 RESPONSIBLE CONSUMPTION AND PRODUCTION</td>
+        <td>[yes]</td>
+        <td>• Encourage the adoption of sustainability principles throughout the supply chain</td>
+        <td>• Zero instances of non-compliance with any applicable regulations regarding human rights and labour practices</td>
+        <td>80 to 81</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 To be recalibrated periodically to account for material developments to the portfolio. This target was refreshed in 2025 to reflect material portfolio developments and a refined allocation methodology that better represents Keppel DC REIT’s emissions and will be effective from 2025.
+
+\*2 This includes exploring the use of solar-powered ancillary equipment.
+
+\*3 PUE is a ratio that describes how efficiently a data centre uses energy. The lower the PUE, the better the energy efficiency of the data centre.
+
+\*4 Major asset enhancement includes any capex above $1 million targeted at enhancing asset value and/or revenue but excludes repairs, maintenance and replacement.
+
+\*5 Ratings based. A scale of 1 – 5 is used in the survey. The higher the score, the more satisfied the client is with Keppel DC REIT’s assets.
+
+\*6 Basis Bay has been excluded from green certification target as the asset is in the process of being divested.
+
+**Time Horizon**
+
+● 2026 targets/commitments      ● Medium and long term targets/commitments
+
+<!-- PAGE 58 -->
+
+<table>
+  <thead>
+    <tr>
+<th>ESG Factors</th>
+<th>UN SDGs</th>
+<th>Time Horizon</th>
+<th>Targets/Commitments</th>
+<th>FY 2025 Performance</th>
+<th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6"><strong>People and Community</strong></td>
+    </tr>
+    <tr>
+<td rowspan="2">Employee Health and Wellbeing</td>
+<td rowspan="2">3 GOOD HEALTH AND WELL-BEING</td>
+<td>[yes]</td>
+<td>\* Provide a safe and healthy environment for employees, adopting the Keppel Zero Fatality Strategy to achieve a zero-fatality workplace</td>
+<td>\* Maintained a zero-fatality workplace, in line with efforts to create a safe workplace for everyone</td>
+<td rowspan="2">87 to 89</td>
+    </tr>
+    <tr>
+<td colspan="3">[yes]</td>
+    </tr>
+    <tr>
+<td rowspan="4">Human Capital Management</td>
+<td>3 GOOD HEALTH AND WELL-BEING</td>
+<td rowspan="2">[yes]</td>
+<td rowspan="2">\* Approximately 30% female representation on the Board<br/>\* Conduct Employee Engagement Surveys (EES) to track and enhance employee engagement<br/>\* Achieve at least an average of 20 training hours per employee</td>
+<td rowspan="2">\* Maintained gender diversity with approximately 30% of the Board comprising female directors<br/>\* Engagement score remained strong at above 80%<br/>\* Achieved an average of 42.5 training hours per employee</td>
+<td rowspan="4">83 to 87</td>
+    </tr>
+    <tr>
+<td rowspan="3">8 DECENT WORK AND ECONOMIC GROWTH</td>
+    </tr>
+    <tr>
+<td>[yes]</td>
+<td>\* Build an agile and highly trained workforce through proactive learning culture and growing digital readiness, including enhancing of AI competence</td>
+<td> </td>
+    </tr>
+    <tr>
+<td>[yes]</td>
+<td>\* Continue to deepen staff engagement and promote an inclusive and harmonious workplace</td>
+<td> </td>
+    </tr>
+    <tr>
+<td rowspan="2">Community Development and Engagement</td>
+<td rowspan="2">17 PARTNERSHIPS FOR THE GOALS</td>
+<td>[yes]</td>
+<td>\* Engage with local communities and contribute to Keppel FM&amp;I's target of 800 hours of staff volunteerism</td>
+<td>\* The Manager contributed to FM&amp;I's more than 1,300 volunteering hours</td>
+<td rowspan="2">89 to 90</td>
+    </tr>
+    <tr>
+<td>[yes]</td>
+<td>\* Drive collaboration with organisations that share Keppel’s commitment to have a positive impact on our communities<br/>\* Contribute positively and meaningfully to the community through engagement and development activities</td>
+<td> </td>
+    </tr>
+  </tbody>
+</table>
+
+## ESG RATINGS & INDUSTRY AFFILIATIONS
+
+### RATERS AND RANKERS
+
+MSCI ESG RATINGS AA logo
+In 2025, Keppel DC REIT maintained its ‘AA’ rating in the MSCI ESG Ratings assessment¹.
+
+GRESB logo
+In 2025, Keppel DC REIT achieved Green Star designation for the fourth consecutive year and further improved its score.
+
+### AFFILIATIONS
+
+**Large Industry Energy Network (LIEN)**
+(supported by Sustainable Energy Authority of Ireland)
+
+Keppel DC Ireland is a member of the LIEN, supported by the Sustainable Energy Authority of Ireland. LIEN member companies collaborate to improve energy management and implement sustainable energy solutions.
+
+SIAS Securities Investors Association (Singapore) logo
+The Manager, through Keppel, works with the Securities Investors Association (Singapore) in its efforts to empower the investment community through continuous investor education and outreach.
+
+REITAS logo
+Keppel DC REIT is a member of the REIT Association of Singapore, an organisation that aims to collaboratively strengthen and promote the Singapore REIT industry through education, research, and professional development. Mr Loh Hwee Long, CEO of the Manager of Keppel DC REIT, is a member of the REITAS Promotions sub-committee.
+
+### SIGNATORY
+
+CLIMATE NEUTRAL DATA CENTER logo
+Keppel DC Ireland is a signatory of the Climate Neutral Data Centre Pact in Europe, which is a voluntary commitment to take actions to make data centres climate neutral by 2030.
+
+CODE OF CONDUCT DATA CENTRES Participant logo
+Keppel DC Ireland is a signatory of the European Code of Conduct for Data Centres, a voluntary standard that focuses on encouraging energy-efficient best practices.
+
+*Signatory of:*
+PRI Principles for Responsible Investment logo
+The Manager, through Keppel FM&I, is a signatory of the UN-supported Principles for Responsible Investment (PRI), committed to adopting the PRI’s six Principles where feasible.
+
+**United Nations Global Compact**
+The Manager, through Keppel, is a participant of the UN Global Compact and is committed to the Global Compact’s Ten Principles, which include human rights, labour, environment, and anti-corruption.
+
+\*¹ The use by Keppel DC REIT of any MSCI ESG Research LLC or its affiliates (“MSCI”) data, and the use of MSCI logos, trademarks, service marks or index names herein, do not constitute a sponsorship, endorsement, recommendation, or promotion of Keppel DC REIT by MSCI. MSCI services and data are the property of MSCI or its information providers, and are provided ‘as-is’ and without warranty. MSCI names and logos are trademarks or service marks of MSCI.
+
+<!-- PAGE 59 -->
+
+# Approach to Sustainability
+
+## STAKEHOLDER ENGAGEMENT
+
+Keppel DC REIT engages with its key stakeholders regularly to understand their expectations and concerns. Stakeholders are identified based on how significantly they may be affected by the Manager’s operations and ESG performance. By integrating stakeholder feedback into its strategic approach, Keppel DC REIT ensures that sustainability initiatives remain closely aligned with stakeholder priorities.
+
+### BUSINESS PARTNERS Business Partners icon
+
+**Objectives of Engagement**
+
+* Align business partners with Keppel values to enhance operational resilience
+
+**Modes of Engagement**
+
+* Regular meetings
+
+* Safety and operations workshops
+
+* Annual reviews and feedback sessions
+
+**Key Topics**
+
+* Compliance
+
+* Collaboration
+
+* HSE matters
+
+### CLIENTS Clients icon
+
+**Objectives of Engagement**
+
+* Build deep relationships with existing and prospective clients
+
+**Modes of Engagement**
+
+* Annual survey
+
+* Onsite audits
+
+* In-person and virtual meetings
+
+* Industry conferences
+
+**Key Topics**
+
+* Building and service quality
+
+* HSE matters
+
+### EMPLOYEES Employees icon
+
+**Objectives of Engagement**
+
+* Build talent pool through continuous investments in training and development, as well as employee wellbeing and welfare
+
+* Enhance careers through self-directed learning
+
+* Inspiring others through leading by example
+
+**Modes of Engagement**
+
+* Dialogue sessions with senior leaders and staff communication sessions
+
+* Annual EES
+
+* Leadership programmes
+
+* Team building activities
+
+* Appreciation month and physical, mental, and financial wellbeing months
+
+* Employee interest groups
+
+* Family Day
+
+**Key Topics**
+
+* Employees’ personal and professional growth
+
+* Sharing of ideas
+
+* Build a culture of recognition and appreciation
+
+### GOVERNMENTS AND REGULATORY BODIES Governments and Regulatory Bodies icon
+
+**Objectives of Engagement**
+
+* Collaborate on topics of mutual interest
+
+**Modes of Engagement**
+
+* Meetings
+
+* Consultation exercises and surveys
+
+**Key Topics**
+
+* Adherence to rules and regulations
+
+* Consultation on policies regarding the REIT sector
+
+* Communication on industry/sector trends including sustainability
+
+### INVESTORS Investors icon
+
+**Objectives of Engagement**
+
+* Timely and accurate disclosure of information
+
+**Modes of Engagement**
+
+* Annual and sustainability reports
+
+* Corporate website
+
+* Email feedback
+
+* General meetings
+
+* Investor presentations
+
+* Media releases
+
+* Quarterly teleconferences or webcasts
+
+* Regular meetings and conference calls
+
+* SGX announcements
+
+* Social media
+
+**Key Topics**
+
+* Business strategy and corporate developments
+
+* Financial and portfolio performance
+
+* ESG strategy and performance
+
+### LOCAL COMMUNITIES Local Communities icon
+
+**Objectives of Engagement**
+
+* Understand and support community needs
+
+* Build lasting positive relationships
+
+**Modes of Engagement**
+
+* Community outreach activities
+
+* Promote and organise community-related activities
+
+* Participation in industry events and talks
+
+**Key Topics**
+
+* Community engagement
+
+* Sharing of industry insights and knowledge
+
+<!-- PAGE 60 -->
+
+# RISK MANAGEMENT
+
+Keppel DC REIT adopts a balanced approach to risk management through its ERM Framework to optimise returns. More information on the key risks and the mitigating measures can be found on pages 191 to 193 of the Annual Report.
+
+The Manager's ERM processes to identify, assess, treat, monitor, and report on key risks include climate-related risks. These climate-related risks are analysed alongside other risk factors using the same risk rating matrix that considers the likelihood and magnitude of the risk impact to evaluate and prioritise. For climate-related risks, Keppel DC REIT's vulnerability is also assessed by taking hazard exposure, sensitivity, and adaptive capacity into account.
+
+A quarterly review of the risk register is conducted to ensure the relevance and currentness of key risks and mitigation actions. During quarterly updates to the Audit and Risk Committee (ARC), Management highlights key risk issues, including climate-related risks and opportunities, if any.
+
+In 2025, the processes to identify, assess, treat, monitor, and report climate-related risks and opportunities remained consistent with previous reporting periods.
+
+In addition, the Manager adheres to the Monetary Authority of Singapore Guidelines on Environmental Risk Management.
+
+Whilst scenario analysis serves as a helpful tool, it is not an exact forecast or prediction. Limitations exist on account of the level of uncertainties, particularly when longer timeframes are applied. Inherent to each scenario considered is a set of assumptions about the future. The Manager also made further assumptions, such as no changes in the portfolio of assets, and relied on the use of historical data. Despite these limitations, the scenario analysis conducted has supported the Manager in understanding the resilience of the portfolio and leveraging potential opportunities.
+
+## Physical Risk Assessment Methodology
+
+In line with TCFD recommendations, Keppel DC REIT conducted a qualitative physical risk assessment across eight assets¹ in 2022, using scenarios from the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). Building on these efforts, in 2023, the Manager has progressed towards quantifying the potential financial impact from physical risks. The analysis identified 11 separate chronic and acute variables under three Shared Socioeconomic Pathways (SSPs), including a scenario limiting warming to a maximum of 2°C and a scenario with greater physical climate-related risks. The analysis considered impacts up to 2030, with additional evaluation of potential impacts beyond this timeframe to reflect the dynamic business landscape. The assessment outcomes are presented on page 71.
+
+# SELECTED IPCC SHARED SOCIOECONOMIC PATHWAYS
+
+Diagram showing Socioeconomic Challenges to Mitigation (High to Low) vs Socioeconomic Challenges to Adaptation (Low to High) with three scenarios: SSP5-8.5, SSP2-4.5, and SSP1-2.6.
+
+**SSP5-8.5**
+* Current CO₂ emissions projected to double by 2050
+* Fossil-fuelled development
+* High temperature increase of 4.4°C by 2100
+* Technological progress drives development and economic growth
+* Adoption of resource- and energy-intensive lifestyles
+* Strong convergence of interregional income distribution and decline in income inequality within regions
+
+**SSP2-4.5**
+* Delayed emissions reduction
+* Slow progress made by governments and businesses toward sustainability
+* Moderate temperature increase of 2.7°C by 2100
+* Technological trends are consistent with historical patterns
+* Uneven development and income growth
+* Decline in intensity of resource and energy use
+
+**SSP1-2.6**
+* Severe emissions reduction
+* Inclusive development that respects environmental boundaries
+* Limited temperature increase, below 2°C by 2100
+* Rapid technological development
+* Inequality is reduced within countries and across countries
+* Lower resource intensity and energy intensity
+
+\* This refers to KDC SGP 1 to 5 (Singapore), Gore Hill DC (Australia) and KDC DUB 1 and 2 (Ireland).
+
+<!-- PAGE 61 -->
+
+# Approach to Sustainability
+
+<table>
+  <thead>
+    <tr>
+        <th>External Data</th>
+        <th>Internal Data</th>
+    </tr>
+    <tr>
+        <th colspan="2">Data Sources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>· Data from ClimSystems’ Climate Insights, comprising Global Climate Models of the coupled model intercomparison project, covering 2005 to 2030 for selected scenarios<br/>· Country/location-specific historical climate and weather data</td>
+        <td>· Building characteristics (such as building types and materials)<br/>· Building asset value¹</td>
+    </tr>
+    <tr>
+        <th colspan="2">Key Assumptions</th>
+    </tr>
+    <tr>
+        <td colspan="2">· No changes in portfolio of assets<br/>· No implementation of mitigations</td>
+    </tr>
+    <tr>
+        <th colspan="2">Limitations</th>
+    </tr>
+    <tr>
+        <td colspan="2">The assessment did not include assets acquired after the point of assessment.</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Asset value is inclusive of the land value.
+
+## Transition Risk Assessment Methodology
+
+The Manager also conducted a qualitative assessment in 2022 to identify material transition risks and opportunities. Following guidance from the TCFD Recommendations, three Network for Greening the Financial System (NGFS) scenarios were selected while indicators and projections from the IPCC and NGFS databases were used. In 2024, a quantitative assessment was performed to evaluate the impacts of carbon taxes and the downstream implications of higher electricity prices. The assessment outcomes are presented on page 72.
+
+## SELECTED NGFS SCENARIOS
+
+### Disorderly
+
+**Delayed transition**
+
+* Divergent introduction of climate policies across nations
+* Annual emissions do not decrease until 2030
+* Strong policies introduced after 2030 to limit warming to below 2°C
+* Varied implementation of clean technology to support and accelerate the sustainable transition
+
+### Orderly
+
+**Net Zero 2050**
+
+* Immediate introduction of climate policies globally with medium variation in regional policy
+* Limit global warming to 1.5°C from 2020 to 2030
+* Fast technology change to support and accelerate the sustainable transition
+
+### Hot House World
+
+**Current policies**
+
+* Limited climate policies introduced globally with low variation in regional policy
+* Slow technology change to support and accelerate the sustainable transition
+* Significant global warming
+* Increased exposure to physical risks leads to irreversible impact
+
+<table>
+  <thead>
+    <tr>
+        <th>Scenario</th>
+        <th>Transition Risks</th>
+        <th>Physical Risks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Disorderly</td>
+        <td>High</td>
+        <td>Low</td>
+    </tr>
+    <tr>
+        <td>Orderly</td>
+        <td>Low-Medium</td>
+        <td>Low-Medium</td>
+    </tr>
+    <tr>
+        <td>Hot House World</td>
+        <td>Low</td>
+        <td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+Matrix chart showing NGFS scenarios mapped against Transition Risks and Physical Risks. Disorderly is high transition/low physical risk. Orderly is low-medium for both. Hot House World is low transition/high physical risk.
+
+## Opportunity Assessment Methodology
+
+Climate-related opportunities were identified through an assessment based on opportunity size and ability to execute. Opportunity size took into consideration market size, competition, profit margin and savings or efficiency gains. Ability to execute was assessed considering alignment to business model, the solutions available, operational feasibility and impact, and execution cost. The assessment outcomes are presented on page 73.
+
+<!-- PAGE 62 -->
+
+# Environmental Stewardship
+
+**The Manager’s strategy for Environmental Stewardship is centred on Climate Action and Energy Management, as well as Water Management.**
+
+Large industrial building with cooling units on the roof and surrounding greenery
+
+<!-- PAGE 63 -->
+
+# Environmental Stewardship
+
+Advancing its sustainability agenda, the Manager is committed to reducing emissions and enhancing operational efficiencies. By actively exploring and adopting renewable and alternative energy sources, Keppel DC REIT continues to unlock new opportunities for a greener and more efficient future.
+
+While biodiversity was not identified as a material topic in the double materiality assessment, the Manager recognises its importance and the associated potential risks and opportunities. Guided by the recommendations from the TNFD, the Manager has conducted an analysis of nature and biodiversity impacts and dependencies. Keppel DC REIT continues to monitor the development of guidance and methodologies as they become increasingly robust to better assess its impact and dependencies on nature.
+
+A technician working on the rooftop cooling infrastructure of a data centre
+
+In 2025, Keppel DC REIT was named joint winner of the Energy Impact Award at the DCD Awards in Ireland, recognising its commitment to advancing energy efficiency and sustainability in data centre operations.
+
+## CLIMATE ACTION AND ENERGY MANAGEMENT
+
+### Management Approach
+
+In 2025, the Manager refreshed Keppel DC REIT’s climate target to achieve 50% reduction in Scope 1 and 2 emissions by 2035 from a 2025 baseline, including the use of RECs and carbon offsets¹. The target was set with an objective of decarbonising and supporting the global transition to a low-carbon economy in line with the Paris Agreement, and to future-proof Keppel DC REIT’s portfolio.
+
+This revision reflects material portfolio developments and a refined allocation methodology that better represents Keppel DC REIT’s emissions. The updated target will be reviewed by the Board regularly to ensure relevance, and the Manager will continue to monitor global developments and the state of knowledge on climate change. This will inform any potential changes to the target, including whether Keppel DC REIT seeks independent validation or pursues a sectoral decarbonisation approach. Baseline emissions will also be recalibrated periodically to account for further material portfolio developments.
+
+The Manager has implemented various climate-related initiatives across its assets and operations. This includes integrating energy-efficient equipment and technologies where feasible, leveraging advanced energy management practices such as using AI for predictive machine learning, and deploying energy optimisation measures.
+
+In 2025, the Manager continued to roll out green clauses at its fully-fitted (colocation) data centres in Singapore, where feasible. These clauses cover the installation of meters to measure clients’ consumption of electricity and usage of water in common areas, encourage clients to recycle waste, and adherence to third-party rating systems in the event of alteration works. The Manager aims to expand these clauses during contract renewal discussions to cover overseas fully-fitted (colocation) data centres going forward, where feasible.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">ENERGY OPTIMISATION INITIATIVES Energy icon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Integrate energy-efficient equipment and technologies including AI-driven predictive analytics</td>
+        <td>and installation of LED lights and motion sensors to reduce electricity usage</td>
+    </tr>
+    <tr>
+        <td>Continuous monitoring and recalibration of temperature setpoints to avoid overcooling</td>
+        <td>reduce excessive energy consumption and identify and prevent power leakage</td>
+    </tr>
+    <tr>
+        <td colspan="2">Upgrade meters and energy management systems for improved monitoring and control</td>
+    </tr>
+    <tr>
+        <td colspan="2">Optimise and/or right-size chillers and computer room air conditioners for energy-efficient cooling</td>
+    </tr>
+    <tr>
+        <td colspan="2">Implement hot or cold aisle containment whenever possible to manage airflow and reduce energy usage</td>
+    </tr>
+    <tr>
+        <td colspan="2">Manage factors affecting envelope thermal transfer value</td>
+    </tr>
+    <tr>
+        <td colspan="2">Calibrate equipment test durations to optimise diesel consumption</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 There is currently no gross emissions target associated with Keppel DC REIT’s net target as the level of offsets needed will depend on factors that are uncertain at present. The scope of the target aligns with the scope of this Report and covers Keppel DC REIT’s emissions which consist of carbon dioxide (CO₂), methane (CH₄), nitrous oxide (N₂O), hydrofluorocarbons (HFCs), and sulphur hexafluoride (SF₆).
+
+<!-- PAGE 64 -->
+
+At KDC DUB 1 and 2, various measures have also been implemented to optimise energy efficiency. The procurement of VPPAs has enabled KDC DUB 1 and 2 to be fully backed by domestically-procured RE, achieving this milestone five years ahead of the 2030 target. Other initiatives include implementing a new portal to track RE generation and guarantees of origin, working towards hourly matching, the use of battery energy storage systems to support grid stability and resilience, as well as upgrading meters and energy management systems.
+
+The Manager adopts Keppel’s shadow carbon pricing policy, to evaluate major new investment decisions where applicable. Currently set at US$30/tCO₂e, Keppel’s shadow carbon price is expected to progressively increase to US$50/tCO₂e over time. This policy helps mitigate climate-related risks, prepare for increased climate legislation, and avoid stranded assets.
+
+Whilst Keppel DC REIT’s approach to climate action and energy management focuses on reducing consumption and increasing RE usage, RECs and/or carbon offsets may be considered in the future where necessary. If offsets are used, the Manager will assess the most appropriate type of credit and select projects that adhere to standards from widely recognised organisations, such as Gold Standard and Verra, to ensure quality and legitimacy.
+
+# Performance and Progress
+
+## Emissions
+
+In 2025, Keppel DC REIT refined its GHG emissions methodology to account for the acquisition of KDC SGP 7 and 8, as well as to better reflect client emissions generated from energy used to cool data halls. The 2025 performance data reflects this refined methodology. The 2024 performance data has also been recalculated to reflect Keppel DC REIT’s performance using the refined methodology such that there may be year-on-year comparability.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="5">TOTAL SCOPE 1 AND 2 GHG EMISSIONS¹ (tCO₂e)</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2019²<br/>(Baseline³)</th>
+        <th>2023²</th>
+        <th>2024⁴</th>
+        <th>2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Scope 1 (tCO₂e)</td>
+        <td>1,161</td>
+        <td>765</td>
+        <td>932</td>
+        <td>1,360</td>
+    </tr>
+    <tr>
+        <td>Scope 2⁵ (tCO₂e)</td>
+        <td>73,288</td>
+        <td>63,563</td>
+        <td>28,273</td>
+        <td>37,178⁶</td>
+    </tr>
+    <tr>
+        <td><strong>Total Scope 1 and 2 Emissions (tCO₂e)</strong></td>
+        <td><strong>74,449</strong></td>
+        <td><strong>64,328</strong></td>
+        <td><strong>29,205</strong></td>
+        <td><strong>38,538</strong></td>
+    </tr>
+    <tr>
+        <td>GHG Emissions Intensity⁷ (tCO₂e/m²)</td>
+        <td>0.63</td>
+        <td>0.54</td>
+        <td>0.25</td>
+        <td><strong>0.24</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 GHG emissions are calculated in accordance with the operational control approach of the GHG Protocol standard – the most widely accepted international standard for GHG accounting. Gases included in the calculation are carbon dioxide (CO₂), methane (CH₄), sulphur hexafluoride (SF₆), and nitrous oxide (N₂O), with totals expressed in units of tonnes of carbon dioxide equivalent (tCO₂e). Biogenic emissions are not included. Conversion factors for Scope 1 and Scope 2 (market-based) GHG emissions were obtained from the UK Department for Energy Security and Net Zero (DESNZ) and Department for Business Energy & Industrial Strategy (BEIS), Energy Market Authority (EMA) and the International Energy Agency (IEA) for country-specific emission factors.
+
+\*2 Emissions were not recalculated using the refined methodology due to limitations in data availability. KDC SGP 7 and 8 were only operational from 2025 onwards and were hence excluded from the GHG calculations.
+
+\*3 The selection of 2019 as the previous base year for Scope 1 and Scope 2 GHG emissions was made because 2019 is a year with a normalised usage that was unaffected by COVID-19. Moving forward, the 2025 emissions will form the new baseline for Keppel DC REIT’s GHG emissions.
+
+\*4 Emissions for 2024 were restated to reflect the refined calculation methodology. KDC SGP 7 and KDC SGP 8 were only operational from 2025 onwards and were hence excluded from the GHG calculations. The restatement resulted in Scope 2 emissions, Total Scope 1 and 2 emissions, and GHG emissions intensity being 48.1% lower, 47.3% lower, and 46.8% lower respectively compared to the level of emissions previously reported. For information on the 2024 emissions using the previous methodology, please refer to Keppel DC REIT’s Sustainability Report 2024. Location-based Scope 2 emissions using the refined methodology were 28,273 tCO₂e.
+
+\*5 Scope 2 emissions are indirect emissions that result from the generation of purchased or acquired electricity by Keppel DC REIT. This figure refers to Keppel DC REIT's market-based emissions, which account for the VPPAs covering KDC DUB 1 and 2.
+
+\*6 Keppel DC REIT’s gross location-based Scope 2 emissions in 2025 were 37,178 tCO₂e.
+
+\*7 GHG intensity calculation is based on total gross floor area in square metres. It includes Scope 1 and 2 emissions.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">TOTAL GHG EMISSIONS IN 2025 (tCO₂e)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Scope 1 (Direct emissions)¹</td>
+        <td>1,360</td>
+    </tr>
+    <tr>
+        <td>Scope 2 (Indirect emissions)²</td>
+        <td>37,178</td>
+    </tr>
+    <tr>
+        <td>Scope 3 (Indirect emissions)³</td>
+        <td>201,029</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>239,567</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Emissions arising from fuel (diesel) consumption.
+
+\*2 Emissions arising from consumption of purchased electricity.
+
+\*3 Based on the nine relevant categories for Keppel DC REIT. Gases included in the calculation are carbon dioxide (CO₂), methane (CH₄) and nitrous oxide (N₂O), with totals expressed in units of tonnes of carbon dioxide equivalent (tCO₂e). Biogenic emissions are not included. Scope 3 emission factors are referenced from the DESNZ, BEIS and IEA for fuel and energy, waste, and from the International Civil Aviation Organisation for business air travel. Emission factors for downstream leased assets are based on country-specific grid emission factors. Employee commuting emissions are estimated based on Singapore Census of Population 2020 survey with emission factors provided by Singapore Emission Factors Registry.
+
+<!-- PAGE 65 -->
+
+The 2019 and 2023 GHG emissions could not be reasonably recalculated due to limitations in data availability.
+
+Moving forward, Keppel DC REIT will be using the 2025 emissions based on the refined methodology, and stabilised Tokyo Data Centre 3 data as the new baseline for its GHG emissions target.
+
+In 2025, Keppel DC REIT recorded total GHG emissions of 239,567 tCO₂e. This figure comprises Scope 1 emissions arising from diesel consumption for backup generators, Scope 2 emissions from electricity consumption and Scope 3 value chain emissions. Total emissions rose 32% year-on-year, driven by increases of 46% in Scope 1, 32% in Scope 2, and 32% in Scope 3. The increase in emissions reflects the acquisition of KDC SGP 7 and 8.
+
+Nevertheless, the Scope 1 and 2 emissions intensity decreased slightly from 0.25 tCO₂e/m² in 2024 to 0.24 tCO₂e/m² in 2025, with an increase in gross floor area.
+
+## Energy
+
+In 2025, Keppel DC REIT’s overall energy consumption was 2,053,859 GJ, reflecting a year-on-year increase of 34%. However, energy usage intensity decreased 3% to 12.6 GJ/m² in 2025 from 12.9 GJ/m² in 2024, attributable to an increase in gross floor area following the acquisition of KDC SGP 7 and 8.
+
+99.1% of Keppel DC REIT’s energy consumption in 2025 was from the use of electricity, and 0.9% from diesel consumption by backup generators.
+
+The Manager continues to procure RE for its energy consumption at KDC DUB 1 and 2, having entered into three 10-year renewable VPPAs in 2024 and an additional VPPA in 2025. These wind and solar VPPAs are underpinned by RE projects in Ireland, demonstrating Keppel DC REIT’s efforts to maximise local impact and grid decarbonisation. As of 31 December 2025, all four VPPAs
+
+<table>
+  <thead>
+    <tr>
+        <th>Scope 3 Category¹</th>
+        <th>2023</th>
+        <th>2024</th>
+        <th>2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Category 1: Purchased goods and services</td>
+        <td>2,409</td>
+        <td>2,443</td>
+        <td>3,189</td>
+    </tr>
+    <tr>
+        <td>Category 2: Capital goods</td>
+        <td>3,504</td>
+        <td>2,505</td>
+        <td>3,003</td>
+    </tr>
+    <tr>
+        <td>Category 3: Fuel and energy-related activities not included in Scope 1 &amp; 2</td>
+        <td>20,674</td>
+        <td>7,893</td>
+        <td>10,622</td>
+    </tr>
+    <tr>
+        <td>Category 4: Upstream transportation and distribution</td>
+        <td>833</td>
+        <td>518</td>
+        <td>784</td>
+    </tr>
+    <tr>
+        <td>Category 5: Waste generated in operations</td>
+        <td>33</td>
+        <td>31</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Category 6: Business travel¹</td>
+        <td>150</td>
+        <td>88</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>Category 7: Employee commuting²</td>
+        <td>8</td>
+        <td>8</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Category 13: Downstream leased assets</td>
+        <td>125,613</td>
+        <td>135,249</td>
+        <td>179,730</td>
+    </tr>
+    <tr>
+        <td>Category 15: Investments</td>
+        <td>2,907</td>
+        <td>3,641</td>
+        <td>3,574</td>
+    </tr>
+    <tr>
+        <td>Total Scope 3 Emissions</td>
+        <td>156,131</td>
+        <td>152,376</td>
+        <td>201,029</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Scope 3 emissions were restated for 2023 and 2024 to reflect improved data accuracy. Category 3 and 6 emissions for 2024 were restated, resulting in emissions being 55% and 65% lower respectively, compared to the emissions previously reported. Category 13 emissions were restated for both 2023 and 2024, resulting in emissions being 17% and 53% higher respectively, compared to the emissions previously reported.
+
+² Includes the Manager's employees and excludes employees at the asset level.
+
+TOTAL ENERGY CONSUMPTION¹ (GJ)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2024²</th>
+        <th>2025³</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Landlord Consumption⁴ (GJ)</td>
+        <td>634,260</td>
+        <td>257,427</td>
+        <td>348,793</td>
+    </tr>
+    <tr>
+        <td>Client Consumption⁵ (GJ)</td>
+        <td>1,105,121</td>
+        <td>1,272,917</td>
+        <td>1,705,066</td>
+    </tr>
+    <tr>
+        <td>Total Energy Consumption (GJ)</td>
+        <td>1,739,382</td>
+        <td>1,530,344</td>
+        <td>2,053,859</td>
+    </tr>
+    <tr>
+        <td>Total Energy Intensity⁶ (GJ/m²)</td>
+        <td>14.7</td>
+        <td>12.9</td>
+        <td>12.6</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Landlord Consumption and Client Consumption figures include RE procured at KDC DUB 1 and 2.
+² Energy consumption for 2024 was restated to reflect the refined calculation methodology. KDC SGP 7 and 8 were only operational from 2025 onwards and were hence excluded from the energy consumption calculations. The restatement resulted in landlord consumption and client consumption being 54.7% lower and 32.4% higher respectively compared to the level of energy consumption previously reported. For information on the 2024 energy consumption using the previous methodology, please refer to Keppel DC REIT’s Sustainability Report 2024.
+
+³ Calculated using the refined calculation methodology and inclusive of KDC SGP 7 and 8.
+
+⁴ Includes electricity and diesel consumption only.
+
+⁵ Includes electricity consumption only.
+
+⁶ Energy intensity calculation is based on total energy consumption in GJ of both landlord (within the organisation) and clients (outside the organisation), and the total gross floor area in square metres.
+
+produced 86,280 MWh of green energy, saving 19,525 tCO₂e of emissions. In 2025, works also commenced on the installation of battery energy storage systems at KDC DUB 1 and 2. Completion of the installations is targeted for 1Q 2026.
+
+In 2025, Keppel DC REIT was named joint winner of the Energy Impact Award at the DCD Awards in Ireland, recognising its commitment to advancing energy efficiency and sustainability in data centre operations.
+
+<!-- PAGE 66 -->
+
+# CLIMATE-RELATED RISKS AND OPPORTUNITIES
+
+Climate-related risks and opportunities have been identified and assessed through scenario analysis, and portfolio resilience is strengthened via adaptation and mitigation measures. ESG factors, including climate-related risks and opportunities, are integrated into portfolio decisions and asset strategies where relevant.
+
+The Manager also actively manages cash flow and working capital to ensure adequate resources are allocated for initiatives to address climate-related risks and opportunities alongside regular maintenance and capital expenditure refresh.
+
+To support long-term resilience, the Manager plans for capital expenditure on a 10 to 15 year basis and utilises instruments issued under Keppel DC REIT’s Green Financing Framework to fund acquisitions, capital and operating expenditures, asset enhancement initiatives, and other works to sustain, and enhance properties where applicable.
+
+## Qualitative Physical Risk Assessment Results
+
+Through the risk assessment described on page 65, the Manager identified key physical risks across the short term (present to 2030), medium term (2031 to 2040), and long term (2041 to 2050). These time horizons align with the Manager’s 2022 climate scenario analysis and business cycle, and capture the risks that are material to Keppel DC REIT’s activities.
+
+## Quantitative Physical Risk Assessment Results
+
+Value at risk from damages (VaRD) estimates the possible financial losses stemming from repairs needed due to physical climate damages. The results are not a financial forecast, but instead indicate the possible trajectory of potential financial exposure to physical risks that can help inform decision-making and financial planning.
+
+Keppel DC REIT's 2023 assessment estimated the percentage of potential annual incremental VaRD for the identified material physical risks from 2023 up to 2030 for each of the assets existing at that time. Applied to 2025 asset values, the VaRD is estimated to
+
+### QUALITATIVE PHYSICAL RISK ASSESSMENT
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk Description¹</th>
+        <th>Time Horizon</th>
+        <th>Description of Potential Business Impact</th>
+        <th>Business Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Extreme Precipitation icon <strong>Extreme Precipitation</strong><br/>Exposure of assets to substantial exceedance in the amount of rainfall delivered</td>
+        <td>Short term<br/>Medium term<br/>Long term</td>
+        <td rowspan="3">* Destruction of the built environment, including the physical structure of buildings, installed infrastructure, and natural environment<br/>* Reduced accessibility may impact productivity for employees and clients, leading to financial loss</td>
+        <td rowspan="3">* Flood risk evaluation is an integral part of data centre site selection to avoid flood-prone and coastal sites<br/>* Onsite facility managers actively monitor climate and implement systems to prevent disruptions where possible<br/>* Regular assessment of options for retrofitting and improving existing assets, such as installation/enhancement of drainage systems, water leak sensors and building elevation</td>
+    </tr>
+    <tr>
+        <td>Extreme Water Level icon <strong>Extreme Water Level</strong><br/>Coastal extreme sea-level elevations occurring with a confluence of events such as storms, high tides, and sea level change</td>
+        <td>Short term<br/>Medium term<br/>Long term</td>
+    </tr>
+    <tr>
+        <td>Mean Sea Level Rise icon <strong>Mean Sea Level Rise</strong><br/>Location-specific variations in sea level changes influenced by factors such as vertical land movement and regional ocean currents</td>
+        <td>Long term</td>
+    </tr>
+    <tr>
+        <td>Extreme Temperature icon <strong>Extreme Temperature</strong><br/>Unexpected severe temperature variations above or below normal conditions</td>
+        <td>Long term</td>
+        <td rowspan="2">* Increased energy and water consumption costs<br/>* Business disruptions resulting in penalties<br/>* Health and safety risks due to human discomfort<br/>* Reduced building material durability, thus affecting indoor climate</td>
+        <td rowspan="2">* Monitor indoor temperatures and adjust cooling systems as needed<br/>* Regular maintenance with planned technical refresh or end-of-life replacements of cooling systems to optimise efficiency<br/>* Manage envelope thermal transfer to enhance overall efficiency, minimising building heat absorption<br/>* Data centre design and equipment selection considers historical local environmental data<br/>* Cooling infrastructure includes built-in redundancies for unexpected operational conditions<br/>* Review insurance coverage as necessary<br/>* Implement energy-efficient materials and colour schemes to reduce heat absorption or aid in external façade heat dissipation</td>
+    </tr>
+    <tr>
+        <td>Heat Wave Days icon <strong>Heat Wave Days</strong><br/>Persistent period of high temperatures</td>
+        <td>Short term<br/>Medium term<br/>Long term</td>
+    </tr>
+    <tr>
+        <td>Fire Risk icon <strong>Fire Risk</strong><br/>Increased potential and frequency of fire-related risks associated with warmer and low moisture conditions due to climate change</td>
+        <td>Short term<br/>Medium term<br/>Long term</td>
+        <td>* Destruction of built and natural environment<br/>* Economic losses for repairs or business interruption losses not covered by insurance</td>
+        <td>* Prioritise evaluation of fire risks in data centre site selection and design, and minimise surrounding vegetation to reduce potential fire spread<br/>* Business continuity plans in place to address potentially affected operational conditions, with insurance coverage reviewed as necessary</td>
+    </tr>
+  </tbody>
+</table>
+
+\*¹ Adopting the most conservative approach, time horizons are based on SSP5-8.5, the scenario with the most severe consequences.
+
+**Time Horizon**
+
+Short term icon Short term Medium term icon Medium term Long term icon Long term
+
+<!-- PAGE 67 -->
+
+# Environmental Stewardship
+
+range from $6 to $7 million¹ across the three NGFS scenarios. This represents approximately 0.23% to 0.27% of total 2025 asset value¹, and is not financially material in the short term. statements. If only the building values were considered, the VaRD would be lower.
+
+The estimates are based on the whole asset valuations, including both the building and land values, consistent with Keppel DC REIT’s financial The calculation also assumed a consistent portfolio and did not account for mitigation measures (such as repairs, maintenance, upgrading of assets to adapt to potential damages) which would lower the VaRD.
+
+## Qualitative Transition Risks and Opportunities Assessment Results
+
+The Manager also identified key transition risks and opportunities across the same time horizons as physical risks, through the process described on page 66.
+
+\* This refers to KDC SGP 1 to 5 (Singapore), Gore Hill DC (Australia) and KDC DUB 1 and 2 (Ireland).
+
+### QUALITATIVE TRANSITION RISKS ASSESSMENT
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk Description¹</th>
+        <th>Time Horizon</th>
+        <th>Description of Potential Business Impact</th>
+        <th>Business Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">Regulatory</td>
+    </tr>
+    <tr>
+        <td>CO2 and currency icon <strong>Increasing Price of Carbon</strong><br/>Direct/indirect exposure to carbon tax in Singapore, Australia, and Ireland due to current and future potential legislation</td>
+        <td>[yes]</td>
+        <td>• Increased operating costs due to both direct and indirect carbon taxes from electricity consumption<br/>• Loss of clients seeking alternative low-carbon operators</td>
+        <td>• Reduce reliance on carbon-intensive fuels through the procurement of RE where feasible<br/>• Commitment to emissions reduction and energy optimisation initiatives such as regular maintenance, overhauls, and end-of-life replacements of equipment<br/>• Active assessment of impact of carbon tax on both current portfolio and future potential investments<br/>• Restructure new contracts or renewal contracts to enable pass through of such relevant costs where possible</td>
+    </tr>
+    <tr>
+        <td>Reporting icon <strong>Enhanced Reporting Obligations</strong><br/>In Singapore, SGX RegCo has mandated listed issuers to report against the climate-related disclosure requirements of the IFRS Sustainability Disclosure Standards in line with a phased timeline</td>
+        <td>[yes]</td>
+        <td>• Additional costs to hire and upskill employees to maintain continued compliance with regulations<br/>• Potential financial penalties for non-compliance and associated reputational damage</td>
+        <td>• Keppel DC REIT is compliant with current Singapore listing obligations and reports in accordance with GRI reporting standards<br/>• Actively monitor the development of relevant regulations and reporting frameworks<br/>• Continuously upskill and develop in-house reporting capabilities</td>
+    </tr>
+    <tr>
+        <td>Building icon <strong>Stricter Building/Sector Regulations</strong><br/>Building sector regulations and performance standards are likely to progressively increase, becoming more stringent over time globally</td>
+        <td>● ●</td>
+        <td>• Increased retrofitting costs to upgrade existing buildings to meet new standards<br/>• Increased capital expenditure to invest in cleaner technologies<br/>• Non-compliance may lead to financial penalties, product obsolescence, and associated reputational damage</td>
+        <td>• Keppel DC REIT is compliant with current building sector regulations, possessing various green certifications<br/>• Regular maintenance and portfolio optimisation efforts to maintain green certifications and to futureproof assets<br/>• Active asset strategy and portfolio rebalancing planning to ensure portfolio remains relevant and competitive</td>
+    </tr>
+    <tr>
+        <td colspan="4">Market</td>
+    </tr>
+    <tr>
+        <td>Market icon <strong>Revenue Loss Due to Increase in Cost</strong><br/>Increase in electricity costs may lead to revenue loss</td>
+        <td>[yes]</td>
+        <td>• Lower profits due to higher operating costs<br/>• Revenue loss due to clients' preference for more energy-efficient data centres</td>
+        <td>• Commitment to emissions reduction and energy optimisation initiatives such as regular maintenance, overhauls, and end-of-life replacements of equipment<br/>• Reduce reliance on carbon-intensive fuels through the procurement of RE where feasible<br/>• Active portfolio monitoring and planning to manage stability of revenues and distributions</td>
+    </tr>
+    <tr>
+        <td colspan="4">Reputation</td>
+    </tr>
+    <tr>
+        <td>Reputation icon <strong>Change in Stakeholder (Client and Investor) Expectations</strong><br/>Increased demand for low carbon/net zero data centres to align investor climate ambitions with the Paris Agreement</td>
+        <td>● ●</td>
+        <td>• Reduced capital availability due to failure to meet stakeholder expectations<br/>• Decreased revenue as more clients opt for low-carbon buildings</td>
+        <td>• Eight of Keppel DC REIT's fully-fitted (colocation) properties have green certifications<br/>• Commitment to energy optimisation initiatives<br/>• Increase RE usage where feasible<br/>• Actively engage with stakeholders to understand preferences and incorporate changes where relevant and feasible</td>
+    </tr>
+  </tbody>
+</table>
+
+\* Adopting the most conservative approach, time horizons are based on Orderly – Net Zero 2050, the scenario that represents current ambitions to achieve net zero by 2050.
+
+**Time Horizon**
+
+* Light grey dot Short term
+* Green dot Medium term
+* Dark blue dot Long term
+
+<!-- PAGE 68 -->
+
+# OPPORTUNITIES
+
+<table>
+  <thead>
+    <tr>
+        <th>Opportunity Description¹</th>
+        <th>Time Horizon</th>
+        <th>Description of Potential Business Impact</th>
+        <th>Business Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Energy efficiency icon <strong>Cost Savings from Tapping on Energy-efficient Technology and Cooling Infrastructure</strong><br/>Improving energy efficiency in data centres can help to reduce operating costs and attract clients in the medium to long term</td>
+        <td>Short, Medium, Long term dots</td>
+        <td>• Reduced exposure to changes in energy prices<br/>• Decreased operating costs due to energy savings<br/>• Increased revenue from clients looking for higher energy efficiency/low-carbon data centres</td>
+        <td>• Continue to explore and invest in potential energy-efficient technologies and initiatives</td>
+    </tr>
+    <tr>
+        <td>Green capital icon <strong>Increased Access to Green Capital</strong><br/>Increase in demand and supply for green bonds and investments as the number of sustainability-oriented debt and equity investors increases</td>
+        <td>Short, Medium, Long term dots</td>
+        <td>• Greater access to additional financing sources which can be used to fund energy-efficient initiatives and associated reputational benefits</td>
+        <td>• Launched Green Financing Framework in 2025, obtaining approximately $615 million of green financing facilities to fund data centre acquisitions and other asset enhancement initiatives that meet the eligibility criteria set out in the Framework<br/>• Keppel DC REIT has entered into both sustainability-linked loans and green financing transactions (GFT) and will continue to seek opportunities to leverage GFTs</td>
+    </tr>
+    <tr>
+        <td>Government incentives icon <strong>Incentives Provided by Government Entities</strong><br/>Public sector incentives may increase over time to encourage companies to pursue decarbonisation</td>
+        <td>Short, Medium, Long term dots</td>
+        <td>• Increased access to financing and support for energy-efficiency incentives<br/>• Improved reputational benefits from government partnerships<br/>• Improved energy efficiency</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Stakeholder expectations icon <strong>Shift in Stakeholder (Client and Investor) Expectations</strong><br/>Increased client preference for green data centres may drive market competitiveness and revenue<br/>Increased investor interest in companies with an ESG focus</td>
+        <td>Short, Medium term dots</td>
+        <td>• Increased revenue arising from increased demand for green data centres<br/>• Increased access to potential investors that have an ESG focus</td>
+        <td>• Majority of fully-fitted (colocation) properties have green certifications<br/>• Actively engage with stakeholders to understand preferences and incorporate changes where relevant and feasible</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Adopting the most conservative approach, time horizons are based on Orderly – Net Zero 2050, the scenario that represents current ambitions to achieve net zero by 2050.
+
+## Time Horizon
+
+Short term dot Short term Medium term dot Medium term ● Long term
+
+## Quantitative Transition Risks and Opportunities Results
+
+In 2024, Keppel DC REIT conducted a quantitative analysis of climate-related transition risks and opportunities for its portfolio as at the end of 2023. The assessment focused on the impacts of carbon taxes and the downstream implications of higher electricity prices, using the climate scenarios NGFS Current Policies and NGFS Net Zero 2050 for the timeframe 2024 to 2030.
+
+Keppel DC REIT’s data centres are not directly subject to carbon pricing in regions where it owns assets, including Singapore, Australia, and Ireland. Nevertheless, to manage these transition risks, the Manager integrates energy-efficient technologies and implements energy optimisation measures on an ongoing basis.
+
+The majority of Keppel DC REIT’s fully-fitted (colocation) facilities in Singapore and Ireland hold certifications for high-quality energy and environmental management systems. Both assets in Ireland procure RE through VPPAs and have maintained Leadership in Energy & Environmental Design (LEED) v4.1 Operations and Maintenance Gold certification. Long-term trends in electricity prices are also considered when reviewing energy contracts, and the Manager will continue to review and assess transition risks on a portfolio basis.
+
+The Manager acknowledges uncertainties involved in estimating future impacts and the challenge of isolating climate-related effects from other influencing factors. Current assessments rely on assumptions that may increase the degree of uncertainty
+
+in the results. In addition, the effects of transition risks and opportunities currently cannot be separately identified from other factors which impact operating costs. Keppel DC REIT remains committed to ongoing monitoring and assessment and will continue to refine its methodology and action plans as more reliable data becomes available.
+
+## Financial Effects of Climate-related Risks and Opportunities
+
+In 2025, the Manager incurred approximately $280,000 for green certificates as part of Keppel DC REIT’s response to stricter building and sector regulations and changes in stakeholder expectations, which present both risks and opportunities.
+
+In addition, approximately $9,690,000 was incurred in capital expenditures to replace and upgrade transformers
+
+<!-- PAGE 69 -->
+
+# Environmental Stewardship
+
+to more efficient models, as well as to overhaul chiller and diesel rotary uninterruptible power supply devices. These investments support the management of transition risks and opportunities, including cost savings from tapping on energy-efficient technology and cooling infrastructure.
+
+In total, approximately $9,970,000 was invested in initiatives related to climate-related risks and opportunities in 2025.
+
+As part of its value creation strategy, the Manager considers potential future capital expenditures to maintain competitiveness and comply with climate-related regulations.
+
+The Manager has not identified any significant risk of a material adjustment to the carrying amount of assets and liabilities within the next annual reporting period, in connection with climate-related risks and opportunities.
+
+As at the date of Keppel DC REIT’s consolidated financial statements, the Manager does not anticipate that climate change will result in any material impact to the REIT’s financial position and financial performance on a consolidated basis. Site selection remains a key consideration before the development of data centres,
+
+and major capital expenditures to address climate-related risks are not expected in the near term.
+
+## WATER MANAGEMENT
+
+### Management Approach
+
+Keppel DC REIT prioritises responsible water management and consumption, recognising its importance in data centre operations where cooling towers and chillers maintain optimal temperatures for mechanical equipment to function.
+
+The Manager implements several water-saving measures and water-efficient fittings across its fully-fitted (colocation) facilities. It also tracks water consumption across all in-scope properties. Water Usage Effectiveness (WUE), a metric that measures water efficiency relative to IT workload, is periodically analysed across assets to identify opportunities for improvement.
+
+Discharged water is disposed of in accordance with local standards.
+
+### Performance and Progress
+
+In 2025, all in-scope properties in Singapore complied with the Mandatory Water Efficiency Management Practices set by PUB, Singapore’s national water agency, maintained their Water Efficient Buildings, and renewed their ISO 46001:2019 Water Efficiency
+
+Management System certifications. Some Singapore fully-fitted (colocation) facilities also used reclaimed wastewater (NEWater) from PUB.
+
+At Gore Hill DC, low-flow sanitary appliances have been installed to reduce water use, and reclaimed stormwater is utilised. KDC DUB 1 and 2 utilise closed-circuit cooling systems to decrease water loss through evaporation, which in turn enhances energy efficiency. In 2025, KDC DUB 2 also installed a small water harvesting solution to collect rainwater for the irrigation of the green roof and external plants.
+
+In 2025, Keppel DC REIT recorded total water withdrawal of 714.6 ML, a 50.4% increase compared to the previous year, attributable to the acquisition of KDC SGP 7 and 8.
+
+## CLIMATE TRANSITION PLANNING
+
+As transition planning grows in strategic importance for organisations, Keppel DC REIT has embarked on its own transition planning journey, informed by a review of transition planning frameworks used internationally. For further information on Keppel DC REIT’s transition planning, please refer to pages 86 to 87 of Keppel DC REIT’s Sustainability Report 2024.
+
+### TOTAL WATER WITHDRAWAL
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2024</th>
+        <th>2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>NEWater Withdrawal (ML)</td>
+        <td>401.6</td>
+        <td>363.5</td>
+        <td>328.5</td>
+    </tr>
+    <tr>
+        <td>Total Water Withdrawal (ML)</td>
+        <td>514.4</td>
+        <td>475.2</td>
+        <td>714.6</td>
+    </tr>
+    <tr>
+        <td>NEWater Withdrawal as % Total Water Withdrawal</td>
+        <td>78.1</td>
+        <td>76.5</td>
+        <td>46.0</td>
+    </tr>
+    <tr>
+        <td>Water Consumption Intensity (ML/m²)</td>
+        <td>9.1</td>
+        <td>8.4</td>
+        <td>10.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 70 -->
+
+# NATURE AND BIODIVERSITY
+
+The Manager recognises that nature and biodiversity loss are emerging environmental risks and can impact both communities and supply chains associated with data centre operations. In line with Keppel’s Environmental Sustainability Policy, the Manager is committed to responsible stewardship of the natural environment, including the protection of biodiversity and the avoidance of deforestation.
+
+In 2024, the Manager initiated a study, supported by an external consultant, to establish a nature and biodiversity baseline across all data centres in the FY 2024 portfolio, including KDC SGP 7¹. Completed in 2025, the assessment adopted the LEAP (Locate, Evaluate, Assess, Prepare) approach recommended by TNFD, and utilised the Exploring Natural Capital Opportunities, Risks and Exposure (ENCORE) tool to identify key nature-related dependencies and impacts. At a sectoral level, data centre operations were found to have medium exposure to nature-related dependencies and impacts. These findings will be taken into account when considering the nature and biodiversity impacts of Keppel DC REIT’s activities.
+
+The findings indicated that all assessed data centres have low to medium biodiversity and water risks. None are located within or near key biodiversity areas or protected areas, and all sites are situated in regions with low or medium baseline water stress and low STAR (Species Threat Abatement and Restoration) ratings. The Manager will continue to deepen its understanding of nature-related risks and opportunities and stay abreast of evolving regulations and best practices to enhance its policies and disclosures. These efforts support the Managers’ commitment to environmental stewardship and ongoing improvement in sustainability outcomes.
+
+## LEAP (LOCATE, EVALUATE, ASSESS, PREPARE) APPROACH
+
+<table>
+  <thead>
+    <tr>
+        <th>Locate<br/>The interface with nature</th>
+        <th>Evaluate<br/>Dependencies and impacts</th>
+        <th>Assess<br/>Risks and opportunities</th>
+        <th>Prepare<br/>To respond and report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Map Keppel DC REIT’s assets using geospatial tools to identify assets with higher biodiversity value and water risk.<br/><br/><strong>Key external sources used</strong><br/>\* Integrated Biodiversity Assessment Tool (IBAT)<br/>\* World Resources Institute (WRI) Aqueduct Water Risk Atlas</td>
+        <td>Identify nature-related dependencies and impacts of relevance to the sector and assets.<br/><br/><strong>Key external sources used</strong><br/>\* Exploring Natural Capital Opportunities, Risks and Exposure (ENCORE)</td>
+        <td>Assess relevant nature-related risks and opportunities through impact and dependency pathways.</td>
+        <td>Develop and refine policies, operations, and disclosures, where necessary.</td>
+    </tr>
+  </tbody>
+</table>
+
+## NATURE AND BIODIVERSITY RISKS AND OPPORTUNITIES IDENTIFIED WITH REFERENCE TO ENCORE
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk</th>
+        <th>Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Water scarcity icon <strong>Water scarcity</strong><br/>Data centres using water-chilled cooling systems are heavily reliant on water supply, the regulation of rainfall, and water flow to ensure stable and consistent water prices.</td>
+        <td>\* Water-saving measures and efficient fittings have been implemented. Examples include higher water recycling rate for cooling towers and closed-loop chilled water systems that employ both free air and adiabatic cooling.</td>
+    </tr>
+    <tr>
+        <td>Flood and storm damage icon <strong>Flood and storm damage</strong><br/>Data centres could be dependent on rainfall regulation to mitigate the risk of floods and damage to infrastructure.</td>
+        <td>\* Flood risk evaluation is integral to site selection, avoiding flood-prone and coastal areas. Facility managers actively monitor extreme climate changes and anomalies, implementing systems to prevent disruptions, where possible. Regular assessment is conducted for retrofitting and improving assets such as installation and enhancement of drainage systems, water leak sensors, and building elevation improvements.</td>
+    </tr>
+    <tr>
+        <td>Transition icon <strong>Transition to processes with reduced negative impacts on nature</strong><br/>Data centre activities may cause disturbances such as noise pollution (e.g., when backup generators are activated or tested and when servers and/or cooling systems are not appropriately insulated). Excessive noise could disrupt or negatively affect nearby wildlife.</td>
+        <td>\* Key data centre equipment are typically housed indoors, with mitigation measures for noise pollution in place. These include the installation of acoustic panels and the use of thicker insulating materials on the external walls of plant rooms.</td>
+    </tr>
+  </tbody>
+</table>
+
+\*¹ KDC SGP 7 and 8 were acquired in December 2024. As KDC SGP 8 is located within the Keppel Data Centre Campus adjacent to KDC SGP 7, its nature-related dependencies and impacts are considered similar to those of KDC SGP 7.
+
+<!-- PAGE 71 -->
+
+# Responsible Business
+
+The Manager upholds high standards across operations and corporate governance to support sustainable growth and strengthen stakeholder trust.
+
+Keppel Data Centres control room monitors
+
+<!-- PAGE 72 -->
+
+# BUILDING AND SERVICE QUALITY
+
+**Management Approach**
+
+To ensure high building and service quality levels, high standards of physical security of the assets and the provision of a safe and healthy environment for building occupants and visitors are of top priority.
+
+**Security**
+
+The Manager enforces high standards of security and maintains robust data centre governance through the enforcement of strict security protocols, regular audits, employee training, and compliance with regulatory requirements.
+
+A multi-layered approach is taken to safeguard physical security, including access control systems, surveillance systems, and deployment of trained security personnel. To ensure privacy, client directories or logos are not displayed at the data centres. All visitors must complete registration in advance and secure prior approval to prevent unauthorised access.
+
+**Building and Service Quality**
+
+Keppel DC REIT actively enhances building and service quality through the installation of energy-efficient technologies alongside regular maintenance and overhauls or replacement of end-of-life equipment. For all in-scope properties, the Manager tracks and renews relevant sustainability certifications.
+
+On behalf of the Manager, the facility managers regularly engage with fully-fitted (colocation) clients to gather feedback on infrastructure resilience, service quality and physical security. This enables the Manager to identify industry trends early, uncover new value added service(s) or areas for enhancement, as well as initiate relevant discussions on mutually beneficial actions to improve energy efficiency. For example, temperature setpoints within service level agreements are reviewed during each renewal cycle to better align with Infocomm Media Development Authority’s (IMDA) recommendation to increase data centre operating temperatures.
+
+The facility managers also actively review opportunities to leverage strategic partnerships forged by Keppel and synergies to create additional value for its underlying clients. These include the active sourcing of RE imports to Singapore, as well as the adoption of AI, machine learning, and predictive technology across operations to minimise incidents.
+
+**HSE**
+
+The Manager applies comprehensive HSE practices across all in-scope properties, adhering to internationally recognised standards and best practices. All building occupants, including employees and contractors appointed by facility managers, are required to comply with the established health and safety management systems and protocols. In 2025, all Singapore and Ireland fully-fitted (colocation) sites maintained their ISO 45001:2018 Occupational Health and Safety Management System certifications.
+
+Safety incidents are closely monitored, with preventive maintenance and timely equipment replacements undertaken to reduce the risk of incidents.
+
+Senior management conduct HSE site visits annually across assets. External consultants perform periodic technical audits, involving independent assessments of owned mechanical and electrical equipment conditions, identification of improvement opportunities, and verification of regulatory compliance across all assets.
+
+**Business Continuity and Resilience**
+
+Regular Business Continuity Management exercises prepare employees for business disruptions such as pandemics, power failures, and fires amongst others. Fire protection systems are installed at all assets, with fire evacuation routes clearly marked. Data centre employees,
+
+**GREEN CERTIFICATIONS**
+
+# 8 assets
+
+8 fully-fitted (colocation) assets in Singapore and Dublin have obtained green certifications
+
+**CUSTOMER SATISFACTION**
+
+# Above average rating
+
+Maintained in 2025 survey
+
+<!-- PAGE 73 -->
+
+# Responsible Business
+
+clients, and visitors are briefed on emergency procedures and evacuation paths. A structured process is in place to investigate incidents, identify relevant risks and hazards, and implement corrective actions to mitigate future occurrences. Global data centre related outages or incidents are also monitored and analysed, with key learning points incorporated into in-house case studies and processes where relevant.
+
+Consistent with previous years, the annual customer satisfaction survey was conducted using a five-point scale, where higher scores reflect a higher level of satisfaction with building and service quality, infrastructure resiliency, service delivery, and physical security.
+
+The Manager continues to work closely with facility teams to review client feedback and address concerns where feasible.
+
+## Performance and Progress
+
+In 2025, there were zero recorded incidents of non-compliance related to the health and safety impacts of Keppel DC REIT’s products and services.
+
+Results from the 2025 survey showed that the Manager received above average ratings across all categories, including Data Protection and Client Privacy, Physical Security, and overall Building and Service Quality. There were zero reported cases of client dissatisfaction concerning the physical security of fully-fitted (colocation) properties.
+
+In 2025, the Manager maintained sustainability certifications and accolades across its fully-fitted (colocation) assets outlined in the table below.
+
+## CORPORATE GOVERNANCE
+**Management Approach**
+
+Keppel DC REIT upholds robust corporate governance through strict compliance with applicable laws, regulations, and internal policies and frameworks.
+
+**SUSTAINABILITY AWARDS, ACCREDITATIONS AND CERTIFICATIONS**
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>KDC SGP 1</th>
+        <th>KDC SGP 2</th>
+        <th>KDC SGP 3</th>
+        <th>KDC SGP 4</th>
+        <th>KDC SGP 5</th>
+        <th>KDC SGP 7</th>
+        <th>KDC SGP 8</th>
+        <th>Gore Hill DC</th>
+        <th>KDC DUB 1</th>
+        <th>KDC DUB 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>BCA Green Mark Award (Gold<sup>PLUS</sup>)</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>BCA Green Mark Award (Platinum)</td>
+        <td> </td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>bizSAFE Level Star</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>LEED Gold Award</td>
+        <td> </td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>LEED v4.1 Operations and Maintenance (Existing Buildings) Gold Award</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO 14001:2015 Environmental Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>IMDA Data Protection Trustmark</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Certificate of Compliance Payment Card Industry Data Security Standard</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO 37001:2016 Anti-Bribery Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO 45001:2018 Occupational Health and Safety Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO 46001:2019 Water Efficiency Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>ISO 50001:2018 Energy Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO 9001:2015 Quality Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ISO/IEC 27001:2022 Information Security Management System</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+    <tr>
+        <td>ANSI/TIA-942-B:2017 – Rated 3</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>SS 507:2015 Provision of Business Continuity and Disaster Recovery Facilities Services</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>SS 564 Part-1:2020 Sustainable Data Centres</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Water Efficient Building by PUB</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>EU Code of Conduct Participation</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>[yes]</td>
+        <td>[yes]</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 74 -->
+
+Leadership sets the tone from the top, with the Board consisting of majority independent directors, bringing together a diverse mix of expertise, experience, and perspectives. This composition is aligned with the principles outlined in the Code of Corporate Governance, including its emphasis on board diversity and independence.
+
+For further insights into Keppel DC REIT’s corporate governance guidelines, practices, and risk management strategy and processes, please refer to pages 164 to 193.
+
+### Anti-corruption, Ethics and Integrity, and Compliance with Laws and Regulation, including Sustainability-related Regulations
+
+The Manager adopts a zero-tolerance policy against corruption, bribery, fraud, and unethical business conduct.
+
+This approach is underpinned by a suite of policies promoting responsible business practices, such as the Code of Conduct, Whistle-Blower Policy, Global Anti-Bribery Policy, Competition Law Compliance Manual, Insider Trading Policy, and Dealings in Securities Policy.
+
+New employees are introduced to the Code of Conduct, Global Anti-Bribery and Whistle-Blower policies during onboarding. These policies are reinforced for all employees through an online portal and annual exercises, including online training modules and declarations affirming compliance with Keppel’s policies. Under Keppel’s Third Party Associate’s Policy, applicable third-party associates¹, including joint venture partners, are also expected to acknowledge Keppel’s anti-bribery and anti-corruption requirements.
+
+The Manager has established a grievance handling process for employees to voice concerns without fear of reprisal. Employees may raise issues related to work, colleagues, business dealings, employment terms, remuneration, working conditions, job responsibilities, or health and safety through various confidential channels. Details of the grievance handling process are available on the company intranet.
+
+The Manager has instituted a Whistle-Blower Policy that provides secure, independent channels for employees, customers, suppliers, and other stakeholders to report, in good faith, suspected reportable conduct. The policy establishes clearly defined processes and reporting channels through which such reports may be made with confidence that employees and other persons making such reports will be treated fairly and, to the extent possible, protected from reprisal.
+
+For more information on Keppel DC REIT’s corporate governance guidelines, practices, and policies, please refer to pages 164 to 190.
+
+### Stakeholder Engagement
+
+The Manager is committed to engaging and strengthening ties with key stakeholders to better understand their views and consider their interests in decision-making. For further information on Keppel DC REIT’s stakeholder engagement strategy, please see page 64.
+
+### Data Privacy and Cybersecurity
+
+Data privacy and cybersecurity are fundamental to maintaining trust, ensuring compliance, and safeguarding against evolving cyber threats. Robust measures are essential to protect the integrity and continuity of Keppel DC REIT’s operations by preventing data breaches, fraud, and other cyber incidents.
+
+### AWARDS AND RECOGNITION Awards and Recognition icon
+
+Maintained 9th place in the SGTI under the REIT and Business Trust category
+
+Joint winner of Singapore Corporate Governance Award at SIAS Investors’ Choice Awards 2025
+
+Best Investor Relations (Silver) Award at Singapore Corporate Awards 2025
+
+Most Popular REIT at 2025 REITs Symposium
+
+\* 1 Third Party Associates are individuals or entities (not owned or controlled by Keppel) that provide services, or engage in business activities, on behalf of Keppel.
+
+<!-- PAGE 75 -->
+
+# Responsible Business
+
+The Manager adopts Keppel’s comprehensive approach to managing cybersecurity risks and building resilience.
+
+Keppel’s Cyber Security Centre (KCSC) drives the enterprise vision, strategy, and programme to ensure technology assets are protected from cyber threats. It also maintains cyber policies aligned with industry standards and local regulatory requirements to manage cybersecurity risks effectively.
+
+To reinforce this framework, a dedicated Business Information Security Officer (BISO) partners with the Manager to reinforce cyber risk management and strengthen resilience.
+
+KCSC further safeguards organisational resilience by overseeing cyber incident management, conducting threat analysis, enabling proactive threat detection and improving preparedness to ensure effective response to cyber-attacks.
+
+Employees receive regular cybersecurity advisories and participate in phishing simulation exercises as part of a long-term Cyber Safe Culture Programme, which aims to instil a strong, cyber-safe mindset throughout the organisation.
+
+## Performance and Progress
+
+Keppel DC REIT was ranked 9th in the 2025 SGTI under the REIT and Business Trust category, consistent with its 2024 ranking. The SGTI evaluates listed entities based on the corporate governance disclosure and practices including the timeliness, accessibility, and transparency of financial results announcements. In 2025, Keppel DC REIT was also named winner of the Singapore Corporate Governance Award at SIAS Investors’ Choice Awards, and Best Investor Relations (Silver) accolade at Singapore Corporate Awards.
+
+Keppel DC REIT continued to uphold high standards in corporate governance, risk management, and timely and transparent stakeholder communication throughout 2025. All personnel, including contracted staff, senior management, and Board members, completed mandatory training on key internal policies, including those related to anti-bribery and anti-corruption.
+
+The Manager maintained strong compliance and ethical business practices, with zero reported incidents of fraud, corruption, or legal actions involving anti-competitive behaviour, anti-trust, or monopoly practices. There were also no significant breaches of laws or regulations, and consequently, no fines were incurred during the year for instances of non-compliance with laws and regulations.
+
+In 2025, Keppel continued to implement cybersecurity awareness initiatives for all employees, including the Manager’s staff. These reinforce vigilance against common cyber threats and emphasised the importance of timely reporting and resolution of potential security incidents to strengthen organisational resilience.
+
+There were zero incidents of data breaches and non-compliance with data privacy laws.
+
+# SUSTAINABLE SUPPLY CHAIN MANAGEMENT
+
+## Management Approach
+
+Keppel DC REIT is committed to encouraging the adoption of sustainability principles throughout its supply chain and building a resilient, responsible and diversified supply chain. The Manager evaluates suppliers’ track records, mandates adherence to the Keppel Supplier Code of Conduct (SCOC), and ensures product quality and cost efficiency. The SCOC holds suppliers accountable for responsible labour practices in their operations, including prohibiting the use of forced labour and child labour, respecting employees’ freedom of association, as well as providing fair compensation and equal opportunity. Mandatory conflict of interest declarations ensure transparency in dealings with suppliers and third parties.
+
+The Manager’s supply chain primarily comprises facility managers, corporate service providers, and professional consultants such as lawyers, technical consultants, valuers, and tax consultants. The Manager assesses the track record, quality, and reputation of potential suppliers and partners. Suppliers providing goods or services with a value over S$200,000 or more per contract or over cumulative purchase orders in the prior calendar year must sign and comply with the SCOC, addressing business conduct, human rights, health and safety, and environmental management, or have their own codes of conduct which meet Keppel's requirements. Suppliers with poor performance in health and safety or environmental stewardship are blacklisted.
+
+During vendor onboarding, suppliers are screened using database checks and comprehensive online searches to identify any compliance concerns or risk indicators, such as ongoing litigation, politically-exposed personnel¹, or adverse media reports, including instances of forced or compulsory labour. Sustainability-related policies, performance metrics, procedures,
+
+<!-- PAGE 76 -->
+
+and certifications, such as ISO 14001 and bizSAFE, are also evaluated. making, ensuring that investments are evaluated holistically.
+
+The Manager also works with its facility managers to align on key supply chain management principles with their underlying vendors where possible. In June 2025, key underlying suppliers participated in Carbon Management Training on carbon management principles and how to manage and reduce carbon emissions in operations, aligning with Keppel’s broader sustainability objectives. Certain ESG assessments, such as MSCI ESG Ratings, are used as performance metrics to determine eligibility for more favourable borrowing margins. Accordingly, the Manager actively monitors its green ratings to meet the assessment targets.
+
+## Performance and Progress
+
+## Performance and Progress
+
+In 2025, there were no known instances of non-compliance with any applicable regulations regarding human rights and labour practices throughout Keppel DC REIT’s supply chain. There were also no identified cases of operations or suppliers with significant risks of child labour, forced labour or compulsory labour. In February 2025, the Manager announced its Green Financing Framework which outlines the criteria and guidelines for Keppel DC REIT and its subsidiaries to allocate and manage the proceeds raised from the GFTs. The Green Financing Framework was developed in alignment with the four core components of the International Capital Market Association’s Green Bond Principles 2021 (including the June 2022 Appendix 1), and the Loan Market Association, the Asia Pacific Loan Market Association, and the Loan Syndications and Trading Association’s Green Loan Principles 2023. A second party opinion was issued by DNV Business Assurance Singapore Pte Ltd.
+
+Local facility managers were also appointed across Keppel DC REIT’s fully-fitted (colocation) assets. For underlying services such as building management, physical security, technical maintenance, and routine cleaning, 100% of procurement costs were directed to local companies. In 2025, Keppel DC REIT obtained approximately $615 million of green financing facilities, of which $608 million of green borrowings and bonds were used to finance the acquisitions of three data centres that meet the eligibility criteria set out in the Green Financing Framework.
+
+Through its appointed facility managers in Singapore, majority of new suppliers were screened (other than Exempted Suppliers²) in accordance with ESG criteria using Ethixbase 360. As of 31 December 2025, $608 million or 25.6% of the total borrowings were classified as green financing.
+
+# SUSTAINABLE FINANCE
+
+## Management Approach
+
+Keppel DC REIT recognises the strategic importance of operationalising sustainable finance initiatives. Doing so promotes long-term economic stability and environmental stewardship. These initiatives embed ESG criteria into financial decision- Keppel DC REIT met all relevant ESG assessment targets tied to its sustainability-linked loans in 2025. The Manager also remains on track to broaden its funding sources by incorporating sustainable financing options.
+
+<!-- PAGE 77 -->
+
+# People and Community
+
+**The Manager aims to build an inclusive environment where everyone can thrive, and to foster a culture that values continuous learning, growth, teamwork, innovation, and philanthropy.**
+
+<!-- PAGE 78 -->
+
+# HUMAN CAPITAL MANAGEMENT
+
+## Management Approach
+
+The Manager recognises Keppel DC REIT’s employees as essential to its continued success and development. Given this, the Manager is focused on attracting, nurturing, and retaining talent. It achieves this by cultivating an inclusive workplace and fostering a proactive learning culture, while placing strong emphasis on employee health, safety, and wellbeing. The Manager also ensures that employees have access to a wide range of training, development, and upskilling opportunities. Five key areas have been identified to guide its human capital development efforts.
+
+# FIVE KEY AREAS FOR BUILDING HUMAN CAPITAL Five key areas icon
+
+## Making a Difference
+
+Provide platforms for employees to contribute to communities
+
+## Having a Voice
+
+Encourage employees to engage in company conversations and share ideas for improvement
+
+## Feeling Valued
+
+Foster a culture of recognition and appreciation with an emphasis on employee wellbeing
+
+## Growing a Career
+
+Enhance career development by providing pathways for skills acquisition and mentorship
+
+## Inspiring Growth
+
+Provide platforms for leadership development and encourage employees to lead by example
+
+## Investing in Talent
+
+The Manager adopts a holistic approach for the identification, development and retention of staff, alongside succession planning. A Leadership Potential Assessment framework is applied across Keppel to identify high potential employees. The Career Review Committee, comprising senior management from Keppel, regularly reviews and
+
+discusses the career development plans of high-potential employees, offering them developmental support such as executive education, executive coaching and engagement sessions with top management. In November 2025, 40 high potential leaders across Keppel attended the in-house Advanced Leaders Programme designed to sharpen their leadership skills and knowledge to drive Keppel’s growth as a global asset manager and operator. It was designed in partnership with the IMD Business School and delivered by its resident faculty. In addition, career mobility supports employees’ ambition and professional development goals. Individuals identified are given opportunities for job rotation, providing exposure to different roles and equipping them with skills for future leadership positions. This culture of internal mobility is complemented by continuous coaching and support from line managers, which significantly aids in talent retention.
+
+Keppel’s centralised Talent Management unit coordinates efforts across all divisions to optimise human capital management. This includes talent development programmes such as the Keppel Associate Programme (KAP) which aims to build an early career pipeline by providing outstanding fresh graduates accelerated growth opportunities through job rotations and structured learning. 13 Keppel associates were onboarded in 2025. Associates who demonstrate leadership potential are invited to join the Keppel Young Leaders, a two-year programme to nurture emerging talents. Employees are selected based on leadership potential, performance and core values alignment. They are empowered to take ownership of their own development and given opportunities to lead high-impact projects sponsored by senior management. In 2025, there were about 100 Keppel Young Leaders across Singapore, China and Vietnam.
+
+## EES
+
+# >80%
+
+Maintained a strong employee engagement score in 2025
+
+## TRAINING HOURS
+
+# 42.5 hrs
+
+Per employee in 2025, exceeding goal of 20 hours per employee
+
+## VOLUNTEERISM
+
+# >1,300 hrs
+
+Dedicated to community outreach activities, in conjunction with Keppel FM&I platforms
+
+<!-- PAGE 79 -->
+
+Succession planning is crucial for ensuring the seamless transition of leadership responsibilities. The Manager has in place a robust succession and talent management process which identifies and develops key talents to tackle potential leadership gaps. Succession plans for key management positions are discussed at Nominating and Remuneration Committee meetings, with succession planning integrated into the annual targets of senior management. This programme is aligned with Keppel’s priorities as an asset manager and operator by encapsulating the core values of Agile, Can Do and Trusted. Employees’ performance is reviewed using a performance-based framework which covers four key areas: financial, process, customers and stakeholders, and people.
+
+Across Keppel, selected employees benefit from structured job rotations that broaden their skillsets and prepare them for future leadership roles. At Keppel DC REIT, internal mobility is fostered through joint projects and cross-functional collaboration. These initiatives, combined with regular coaching from line managers, strengthen talent development and retention.
+
+Beyond career development, the Manager strives to retain its talent by offering full-time and part-time employees a competitive compensation package. Benefits include:
+
+* Group term life insurance
+
+* Group living care insurance
+
+* Group personal accident insurance
+
+* Group hospitalisation and surgical plan insurance
+
+* Outpatient medical benefits for employees and their dependants
+
+* Annual health screening benefit
+
+* Annual, medical and parental leave entitlements
+
+* Contributions to the local pension fund, i.e. the Central Provident Fund in Singapore
+
+Temporary employees are eligible for a separate suite of benefits that is aligned with market practice.
+
+In its locations of operations, the Manager adheres to local labour regulations, including minimum wage laws, where such laws apply.
+
+To foster a culture of openness and knowledge sharing, senior leaders regularly interact with employees, creating opportunities for employees to develop a deeper understanding of Keppel DC REIT’s strategic direction and operational considerations.
+
+On a yearly basis, Keppel DC REIT engages an external, independent survey provider to conduct an EES. The EES assesses employee engagement and sentiments relating to leadership, execution, collaboration and agility, growth and development, psychological safety, engagement, and job satisfaction. Employee feedback is considered when the Manager develops business plans and work and action plans. Where areas for improvement are identified, focus group discussions are organised to gather detailed feedback which are then incorporated into action plans. Progress on these plans are communicated to employees during townhall meetings.
+
+Employees are encouraged to engage directly with senior leadership in-person or through an online platform, submitting questions and ideas to the CEO of Fund Management and the Chief Investment Officer of Keppel Ltd. (Keppel). This fosters open dialogue, and empowers employees to shape initiatives that drive Keppel’s long-term growth and success.
+
+In February 2025, the annual Global Keppelites Forum, a company-wide townhall, was held. Keppel’s CEO, Mr Loh Chin Hua, addressed Keppelites around the world on the Company’s transformation and strategy as a global asset manager and operator. The townhall included a question-and-answer section, during which the senior management team responded to questions raised by employees.
+
+## Developing Our People
+
+The Manager is committed to providing employees with opportunities for learning and development. In doing so, employees are equipped with the relevant skillsets to help them succeed in a rapidly changing business environment. This mindset is aligned with Keppel’s philosophy of “One Keppel, Many Careers”.
+
+The Manager empowers its employees by offering diverse training programmes, courses, initiatives, and workshops. These learning opportunities provide employees with the essential knowledge and skills to perform their roles effectively.
+
+At Keppel DC REIT, all eligible employees undergo regular performance reviews. Supervisors are trained to discuss career goals, development opportunities, and level of satisfaction at work with their mentees during these reviews. These discussions also cover non-financial targets such as health, safety, employee wellbeing, environmental issues, and governance.
+
+Beyond development in the workplace, the Manager recognises that employees may opt to pursue higher professional certification to bolster their credentials. In such cases, employees are supported by the Employee Development Scheme, which provide employees with up to seven working days of examination leave per year. Alternatively, employees who attend eligible personal development or enrichment courses may also have their expenses reimbursed under the Flexible Benefits Programme.
+
+<!-- PAGE 80 -->
+
+To cater to different learning styles and needs, bite-sized, on-demand learning is made available to the Manager's employees. Courses cover a wide range of topics, including risk management, digital transformation, compliance, health and safety, as well as sustainability. Employees can also leverage LinkedIn Learning to participate in online courses. Through Keppel’s partnership with the United Nations Global Compact (UNGC), employees are also given access to the UNGC Academy. Courses on ESG principles and their application in the data centre sector are available for employees.
+
+In the event of significant operational changes, the Manager ensures that employees are well-informed of the changes. At least half a month’s notice is provided to employees, giving them time to understand the changes and engage in discussions where needed. Where relevant, outplacement services, including job search support, skills development and counselling services, are made available to affected employees.
+
+## Diversity and Inclusion
+
+The Manager adopts a strong, zero-tolerance policy for discrimination.
+
+As an equal opportunity employer, the Manager is determined to provide equal opportunities to all employees regardless of race, gender, religion, disability, marital status or age. This includes opportunities relating to hiring, career development, promotions, and remuneration. Recruitment is solely based on merit and equal opportunity. Continuous efforts are made to promote greater awareness amongst managers about potential unconscious biases when hiring.
+
+Guided by the Tripartite Guidelines on Fair Employment Practices (TGFEP), the Manager upholds the Employers’ Pledge of Fair Employment Practices, which includes:
+
+1. Recruiting based on merit, regardless of age, race, gender, religion, marital status, family responsibilities or disability;
+
+2. Treating employees fairly and respectfully, using progressive human resource management systems;
+
+3. Providing fair opportunities for training and development to help employees reach their full potential;
+
+4. Rewarding employees based on ability, performance, contribution, and experience; and
+
+5. Complying with labour laws and adopting the Tripartite Guidelines on Fair Employment Practices.
+
+The Manager’s strong stance on anti-discrimination is supported by the Code of Conduct, Keppel’s Human Rights Policy, and Keppel’s Diversity, Equity and Inclusion Policy. To ensure that all employees feel safe and supported in reporting any concerns, the Manager has established strong procedures for reporting incidents of discrimination. These processes ensure a prompt and thorough response to all submissions and the effective remediation of reported incidents.
+
+## Human Rights
+
+The Manager conducts human rights due diligence as part of its decision making and risk management processes. This includes identifying, preventing, mitigating, and accounting for adverse impacts on human rights, including child labour.
+
+Keppel DC REIT adopts the Keppel Human Rights Policy, which supports the principles set out in the Universal Declaration of Human Rights by the United Nations (UN) and the Fundamental Principles and Rights at Work Declaration of the International Labour Organisation (ILO). Additionally, the Manager leverages the UN Guiding Principles on Business and Human Rights for guidance to support its position on human rights.
+
+<!-- PAGE 81 -->
+
+# People and Community
+
+## PERCENTAGE OF MALES AND FEMALES PER EMPLOYEE CATEGORY (%)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">2023</th>
+        <th colspan="2">2024</th>
+        <th colspan="2">2025</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Male</th>
+        <th>Female</th>
+        <th>Male</th>
+        <th>Female</th>
+        <th>Male</th>
+        <th>Female</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Board</td>
+        <td>71.4</td>
+        <td>28.6</td>
+        <td>71.4</td>
+        <td>28.6</td>
+        <td><strong>66.7</strong></td>
+        <td><strong>33.3</strong></td>
+    </tr>
+    <tr>
+        <td>Managerial¹</td>
+        <td>66.7</td>
+        <td>33.3</td>
+        <td>66.7</td>
+        <td>33.3</td>
+        <td><strong>66.7</strong></td>
+        <td><strong>33.3</strong></td>
+    </tr>
+    <tr>
+        <td>Executive</td>
+        <td>18.2</td>
+        <td>81.8</td>
+        <td>20.0</td>
+        <td>80.0</td>
+        <td><strong>33.3</strong></td>
+        <td><strong>66.7</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+## PERCENTAGE BY AGE GROUP PER EMPLOYEE CATEGORY (%)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="3">2023</th>
+        <th colspan="3">2024</th>
+        <th colspan="3">2025</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>&lt;30 years old</th>
+        <th>30–50 years old</th>
+        <th>&gt;50 years old</th>
+        <th>&lt;30 years old</th>
+        <th>30–50 years old</th>
+        <th>&gt;50 years old</th>
+        <th>&lt;30 years old</th>
+        <th>30–50 years old</th>
+        <th>&gt;50 years old</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Board</td>
+        <td>–</td>
+        <td>–</td>
+        <td>100.0</td>
+        <td>–</td>
+        <td>–</td>
+        <td>100.0</td>
+        <td><strong>–</strong></td>
+        <td><strong>–</strong></td>
+        <td><strong>100.0</strong></td>
+    </tr>
+    <tr>
+        <td>Managerial¹</td>
+        <td>–</td>
+        <td>100.0</td>
+        <td>–</td>
+        <td>–</td>
+        <td>100.0</td>
+        <td>–</td>
+        <td><strong>–</strong></td>
+        <td><strong>100.0</strong></td>
+        <td><strong>–</strong></td>
+    </tr>
+    <tr>
+        <td>Executive</td>
+        <td>18.2</td>
+        <td>81.8</td>
+        <td>–</td>
+        <td>6.7</td>
+        <td>86.6</td>
+        <td>6.7</td>
+        <td><strong>13.3</strong></td>
+        <td><strong>80.0</strong></td>
+        <td><strong>6.7</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Managerial includes senior management and heads of department.
+
+Business partners and suppliers of Keppel DC REIT are required to sign the Keppel Supplier Code of Conduct. The Whistle-Blower Policy encourages the reporting in good faith of suspected reportable conduct, including incidents relating to human rights violations.
+
+## Performance and Progress
+
+### Investing in Talent
+
+As at 31 December 2025, the Manager had a total of 18 employees, comprising 11 females and seven males. All 18 employees are permanent employees, with no contract staff. This includes the CEO, CFO, finance and portfolio management teams.
+
+Further information about the Manager’s Board of Directors and management team can be found on pages 14 to 17.
+
+Keppel FM&I continues to provide shared support services to the Manager with employees in various functions, including Asset Management, Investment, Investor Relations and Sustainability, Risk and Compliance, Human Resources, Information Technology, as well as Legal and Corporate Secretarial Services.
+
+As of 31 December 2025, none of the Manager’s employees were covered by collective bargaining agreements.
+
+In 2025, all eligible employees had their performance evaluated and underwent career development reviews during the financial year.
+
+### Developing Our People
+
+Keppel continued to support employee learning through targeted initiatives. For example, the 2025 Global Learning Festival themed "Sharpen, Speed Up, Soar” was a virtual event covering topics such as AI, asset management and resilience. Another initiative was the 2025 Career Well-Being Festival themed “Be Empowered, Own Your Growth” which featured staff sharing how they develop AI skills and use AI in their daily work.
+
+As AI continues to revolutionise the workplace, Copilot is a tool for employees to leverage. With the launch of Keppel Ltd.’s proprietary GenAI tools such as KAI (Keppel AI), Alpha Core, Anaplan, Tellus, Suits, employees now have more ways to utilise AI to transform their ways of working.
+
+## NEW HIRES AND TURNOVER BY GENDER AND AGE GROUP
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">New Hire</th>
+<th colspan="2">Turnover</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>No. of Employees</th>
+<th>Rate (%)</th>
+<th>No. of Employees</th>
+<th>Rate (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>By Gender</strong></td>
+    </tr>
+    <tr>
+<td>Female</td>
+<td>1</td>
+<td>5.6</td>
+<td>3</td>
+<td>16.7</td>
+    </tr>
+    <tr>
+<td>Male</td>
+<td>3</td>
+<td>16.7</td>
+<td>1</td>
+<td>5.6</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>By Age Group</strong></td>
+    </tr>
+    <tr>
+<td>Under 30 years old</td>
+<td>2</td>
+<td>11.1</td>
+<td>1</td>
+<td>5.6</td>
+    </tr>
+    <tr>
+<td>30–50 years old</td>
+<td>2</td>
+<td>11.1</td>
+<td>3</td>
+<td>16.7</td>
+    </tr>
+    <tr>
+<td>Over 50 years old</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Keppel’s flagship innovation forum, Keppel NEXT, was held on 15 September 2025. The event brought together an international audience of limited partners, thought leaders, and technology experts to explore emerging trends and technologies shaping the future of investment and enterprise. Highlighting innovations from agentic AI to quantum-safe networks, the forum underscored
+
+## TRAINING HOURS PER EMPLOYEE BY GENDER
+
+<table>
+  <tbody>
+    <tr>
+        <td>Female</td>
+        <td>45.9</td>
+    </tr>
+    <tr>
+        <td>Male</td>
+        <td>35.8</td>
+    </tr>
+  </tbody>
+</table>
+
+## AVERAGE TRAINING HOURS PER EMPLOYEE BY EMPLOYEE CATEGORY
+
+<table>
+  <tbody>
+    <tr>
+        <td>Managerial¹</td>
+        <td>33.7</td>
+    </tr>
+    <tr>
+        <td>Executive</td>
+        <td>41.2</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Managerial includes senior management and heads of department.
+
+<!-- PAGE 82 -->
+
+how these advancements address real-world challenges and unlock new investment opportunities, while showcasing Keppel’s transformation into a technology-enabled global asset manager and operator through keynote presentations, panel discussions, and interactive exhibits. Employees were encouraged to attend the conference and explore the exhibition booths showcasing innovative applications of technology across business teams.
+
+In 2025, the Manager’s employees attended an average of 42.5 hours of training per person, surpassing the target of 20 hours.
+
+## Diversity and Inclusion
+
+In 2025, there were zero incidents of discrimination reported.
+
+Female representation on the Board of Directors was maintained at approximately 30%, which is in line with Keppel DC REIT’s target. Additionally, seven employees were eligible for parental leave, of which three took parental leave during the year.
+
+Training programmes on unconscious bias and inclusive leadership were also conducted. The effectiveness of these training programmes were evaluated through participant feedback and improvements in workplace inclusivity metrics.
+
+Keppel’s Annual Global Inclusion Festival was held in October 2025 where employees engaged in discussions on building an inclusive workplace and how to create fairness at the workplace.
+
+## Human Rights
+
+In 2025, there were no instances of non-compliance with human rights policies.
+
+# EMPLOYEE HEALTH AND WELLBEING
+
+## Management Approach
+
+The health, safety and wellbeing of employees are among the Manager’s key priorities. To provide employees with a safe and healthy work environment, the Manager implements comprehensive practices to identify and minimise hazards and manage risks.
+
+Underlying the Manager’s approach to health and safety is the Keppel Zero Fatality Strategy.
+
+The Manager requires all employees to comply with safety policies. Where employees identify safety issues, they are empowered to speak up, remove themselves from the situation and report it, without the fear of reprisal.
+
+In Singapore, technology such as data analytics and AI is leveraged to provide real-time insight of risk patterns. The Keppel Data Centres’ Quality, Environmental, Health & Safety Policy Statement is also put in place to enshrine the Manager’s commitment to protecting its workers.
+
+Across its fully-fitted (colocation) assets, Keppel DC REIT has a Stop Work Policy which authorises all employees to stop any activity which they assess to be harmful to their health, safety, that of others, or the environment. The policy also delineates the steps that employees should follow in such situations and reiterates the fact that employees are able to apply this policy without fear of consequence.
+
+Annually, health and safety audits are conducted at selected properties to ensure compliance with safety regulations and to identify potential areas for improvement. Subsequently, policy updates, as well as other corrective actions, are implemented where necessary.
+
+During yearly events such as the Keppel Safety Convention and Global Safety Time-Out, the Manager promotes best practices in workplace health and safety and offers employees a platform to share their related knowledge and experiences. The Manager expects all employees to abide by the HSE Policy and the Keppel Code of Conduct.
+
+In alignment with Keppel, the Manager has committed to:
+
+* Adopt the HSE Policy statement in all its business operations where it has a controlling influence, including when working with contractors.
+
+<table>
+  <thead>
+    <tr>
+        <th>KEPPEL ZERO FATALITY STRATEGY Keppel Zero Fatality Strategy logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Build a high-performance safety culture</td>
+    </tr>
+    <tr>
+        <td>Adopt a proactive approach to safety management</td>
+    </tr>
+    <tr>
+        <td>Leverage technology to mitigate safety risks</td>
+    </tr>
+    <tr>
+        <td>Harmonise global safety practices and competency</td>
+    </tr>
+    <tr>
+        <td>Streamline learning from incidents</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 83 -->
+
+# People and Community
+
+* Set HSE improvement targets and monitor progress through performance management, audits, and periodic reviews.
+
+* Involve workers in the development and implementation of strategies to improve HSE culture and performance.
+
+* Comply with the requirements of statutory legislation of the countries in which it operates.
+
+* Promote wellbeing and maintain a safe and healthy working environment for all stakeholders.
+
+* Provide adequate resources and training to ensure that the workforce is competent.
+
+* Adopt a systematic approach in the HSE management system that enables continuous performance improvement.
+
+* Report and investigate all accidents, incidents and near misses, and ensure lessons learned are disseminated to prevent recurrence.
+
+All Keppel DC REIT employees, contractors and visitors across all operations are covered by Keppel’s Occupational Health and Safety Management System. Beyond physical health and safety, the Manager also prioritises employee wellbeing. Employees are supported by the Employee Assistance Programme which provides confidential counselling and support for work-related or personal issues.
+
+To promote the health of its workers, the Manager also offers employees corporate gym memberships and regular health screenings. Flexible work arrangements and staggered working hours are also available options for employees to improve their work-life balance. Throughout the year, the Manager also organises wellbeing programmes for employees. These programmes seek to empower employees to take charge of various aspects of their wellbeing, including career, financial, physical, and mental wellbeing. The participation rates are monitored such that employees’ preferences are taken into account when planning future events. The Manager has a team cohesion budget for departments to organise team-bonding activities.
+
+In September 2025, a PepTalk platform was launched at the Irish data centres, as part of the Manager’s continued focus on safety and improving site culture. By combining anonymous frontline employee feedback with data analytics, the platform offers real-time visibility into team morale and psychological safety, enabling proactive action to improve safety, morale and project efficiency where needed. In October 2025, the Right to Disconnect policy, which reflects the Code of Practice issued by the Irish Workplace Relations Commission, was also launched. The policy is intended as a clear and practical reminder of best practices including arranging effective meetings, implementing rest breaks, and limiting non-critical out-of-office hours contact, that help promote a healthy work-life balance.
+
+To reflect the Manager’s commitment to employee wellbeing, the performance evaluation of senior management includes the achievement of wellbeing objectives.
+
+## Performance and Progress
+
+In 2025, the Manager’s employees recorded zero fatalities, work-related injuries and safety incidents. For non-employees whose work or workplace is controlled by Keppel DC REIT, there were zero fatalities, seven work-related injuries, and seven reported safety incidents. The Manager has investigated the incidents and reviewed the policies in place to ensure more stringent safety standards.
+
+During the year, the Manager designated specific months to employee wellbeing. This included Financial Wellbeing month in March, themed Be Empowered, Be Financially Wise. In recognition of the importance of financial wellbeing, events and activities were organised to help employees improve financial literacy. Examples include webinars on Central Provident Fund and retirement planning and how to be financially resilient.
+
+Physical wellbeing was highlighted in June, during which employees were encouraged to Be Empowered to Live Well, through activities such as cycling challenges, hiking, and talks on diabetes prevention.
+
+Throughout the year, the Manager organises wellbeing programmes for employees.
+
+Throughout the year, the Manager organises wellbeing programmes for employees.
+
+<!-- PAGE 84 -->
+
+In 2025, the Manager and its employees participated in the Sotong Games, organised by Keppel FM&I. The event brought employees together for a day of camaraderie and collaboration, reinforcing Keppel DC REIT’s commitment to an engaged and inclusive workplace. Beyond the excitement of friendly competition, senior leaders also stepped in to serve lunch which underscored the importance of shared experiences, mutual support, and showing staff appreciation. In addition, through an engagement series called Kopi and Tea Sessions, senior leaders were also able to connect with staff, fostering greater connectivity and providing a platform for open discussions.
+
+Keppel held a Family Day in October 2025 at the Mandai Rainforest Wild Asia where Keppelites enjoyed a day of family bonding and nature exploration. There were also carnival games set up specially for the event for Keppelites and their family members.
+
+# COMMUNITY DEVELOPMENT AND ENGAGEMENT
+
+## Management Approach
+
+Keppel DC REIT seeks to positively contribute to local communities through community engagement, development activities, and charitable donations. Each employee is granted two days of paid volunteerism leave annually to give back to society and partake in community initiatives.
+
+## Performance and Progress
+
+Together with Keppel FM&I, the Manager dedicated more than 1,300 volunteering hours in 2025. This surpassed the target established in 2024 to reach 800 volunteering hours annually.
+
+Nine volunteering activities were organised, seven of which were held in collaboration with Keppel FM&I’s longstanding partner, Muscular Dystrophy Association (Singapore) (MDAS). This included an outing to Rainforest Wild Asia, part of Mandai Wildlife Reserve, as well as a Gardens by the Bay tour, supported by Keppel Care Foundation’s pledge of $300,000 to the Nature & Sustainability Tours programme at Gardens by the Bay.
+
+Group photo of employees at the Sotong Games
+
+Sotong Games brought employees together for a day of camaraderie and collaboration.
+
+Following the success of Keppel FM&I’s first year of partnership with SASCO Senior Citizens’ Home (SASCO), a second event was held in 2025, providing employees the opportunity to spend a morning connecting with seniors.
+
+As part of the Keppel Care Foundation’s support of NParks’ OneMillionTrees movement, volunteers were invited to plant trees at West Coast Park, contributing to a nationwide effort to plant one million trees by 2030 as part of Singapore’s vision to become a City in Nature.
+
+> **“Our heartfelt thanks to Keppel for organising a range of activities this year. MDAS is truly grateful for your continued and heartwarming support as well as the collective efforts towards creating memorable experiences over the years.”**
+
+**JUDY WEE**, MDAS Executive Director
+
+<!-- PAGE 85 -->
+
+# People and Community
+
+## COMMUNITY ENGAGEMENT HIGHLIGHTS IN 2025
+
+Volunteers and MDAS beneficiaries at The Mind Cafe
+
+**Game Show with MDAS at The Mind Cafe**
+
+Volunteers partnered with MDAS for the third consecutive year for an afternoon of game-show activities at The Mind Café. The session continued to be well-received, fostering meaningful connections.
+
+Volunteers and MDAS beneficiaries at a "Bearbrick" painting workshop
+
+**“Bearbrick” Painting Workshop with MDAS**
+
+Volunteers hosted MDAS beneficiaries for a “Bearbrickˮ Acrylic Pouring session, providing participants the opportunity to create their own unique art pieces.
+
+Volunteers and MDAS beneficiaries at the Lee Kong Chian Natural History Museum
+
+**Lee Kong Chian Natural History Museum Visit with MDAS**
+
+Volunteers and MDAS beneficiaries spent an enriching afternoon attending guided tours at the Lee Kong Chian Natural History Museum.
+
+Volunteers and MDAS beneficiaries at Science Centre Singapore
+
+**Outing to Science Centre Singapore with MDAS**
+
+Volunteers and MDAS beneficiaries spent an afternoon exploring interactive exhibitions on climate change, the human anatomy, nature, engineering, and technology at the Science Centre Singapore.
+
+Volunteers and MDAS beneficiaries at the Singapore Oceanarium
+
+**Outing to the Singapore Oceanarium with MDAS**
+
+Volunteers and MDAS beneficiaries enjoyed an immersive afternoon at the newly reopened Singapore Oceanarium, exploring vibrant marine habitats, featuring fascinating creatures such as dolphins, jellyfish, and seahorses.
+
+Group photo for the Cycle to Singapore – Cubbie Initiative
+
+**Cycle to Singapore – Cubbie Initiative**
+
+Keppel DC REIT raised over €40,000 for the Scoil Dara Kilcock School in Ireland. The funds were used to support the purchase and upkeep of a Cubbie sensory pod, which help students manage autism, neurodiversity and anxiety challenges. This forms part of a larger sensory unit, creating inclusive spaces for over 1,000 students.
+
+> “I always look forward to the games at The Mind Cafe, a nice afternoon spent playing games and chit chatting! Keppel’s events are special to me because they are more than just events – they are like gatherings with friends, both from MDAS and Keppel. Thanks for always having us and taking time to create all these special moments!”
+
+**LIM KAY CHOONG**, MDAS member
+
+<!-- PAGE 86 -->
+
+# GRI Content Index
+
+<table>
+  <tbody>
+    <tr>
+        <td>Statement of Use</td>
+        <td>Keppel DC REIT has reported in accordance with the GRI Standards for the period from 1 January 2025 to 31 December 2025.</td>
+    </tr>
+    <tr>
+        <td>GRI 1 Used</td>
+        <td>GRI 1: Foundation 2021</td>
+    </tr>
+    <tr>
+        <td>Applicable GRI Sector Standard(s)</td>
+        <td>Not applicable</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th>GRI Standard</th>
+        <th>Disclosure Title</th>
+        <th>Page References, Omissions and Restatements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">General Disclosures 2021</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>The Organisation and Its Reporting Practices</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 2-1</td>
+        <td>Organisational details</td>
+        <td>3, 22 to 23, 38 to 47, 58</td>
+    </tr>
+    <tr>
+        <td>GRI 2-2</td>
+        <td>Entities included in the organisation’s sustainability reporting</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>GRI 2-3</td>
+        <td>Reporting period, frequency and contact point</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>GRI 2-4</td>
+        <td>Restatements of information</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>GRI 2-5</td>
+        <td>External assurance</td>
+        <td>58, 98 to 99</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Activities and Workers</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 2-6</td>
+        <td>Activities, value chain and other business relationships</td>
+        <td>3, 38 to 47, 64, 80 to 81</td>
+    </tr>
+    <tr>
+        <td>GRI 2-7</td>
+        <td>Employees</td>
+        <td>86</td>
+    </tr>
+    <tr>
+        <td>GRI 2-8</td>
+        <td>Workers who are not employees</td>
+        <td>86<br/>Nature of engagement is described in the report.</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Governance</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 2-9</td>
+        <td>Governance structure and composition</td>
+        <td>14 to 16, 59 to 60</td>
+    </tr>
+    <tr>
+        <td>GRI 2-10</td>
+        <td>Nomination and selection of the highest governance body</td>
+        <td>59 to 60, 167</td>
+    </tr>
+    <tr>
+        <td>GRI 2-11</td>
+        <td>Chair of the highest governance body</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>GRI 2-12</td>
+        <td>Role of the highest governance body in overseeing the management of impacts</td>
+        <td>59 to 60</td>
+    </tr>
+    <tr>
+        <td>GRI 2-13</td>
+        <td>Delegation of responsibility for managing impacts</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td>GRI 2-14</td>
+        <td>Role of the highest governance body in sustainability reporting</td>
+        <td>59 to 60</td>
+    </tr>
+    <tr>
+        <td>GRI 2-15</td>
+        <td>Conflicts of interest</td>
+        <td>177, 181</td>
+    </tr>
+    <tr>
+        <td>GRI 2-16</td>
+        <td>Communication of critical concerns</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td>GRI 2-17</td>
+        <td>Collective knowledge of the highest governance body</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td>GRI 2-18</td>
+        <td>Evaluation of the performance of the highest governance body</td>
+        <td>59 to 60, 172</td>
+    </tr>
+    <tr>
+        <td>GRI 2-19</td>
+        <td>Remuneration policies</td>
+        <td>60, 172 to 175</td>
+    </tr>
+    <tr>
+        <td>GRI 2-20</td>
+        <td>Process to determine remuneration</td>
+        <td>60, 172 to 175</td>
+    </tr>
+    <tr>
+        <td>GRI 2-21</td>
+        <td>Annual total compensation ratio</td>
+        <td>Confidentiality constraints. Due to the highly competitive conditions in the industry where poaching of senior management is commonplace, the Manager is not able to disclose this information. For more details on our remuneration policy and structure, please refer to pages 172 to 175.</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Strategy, Policies and Practices</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 2-22</td>
+        <td>Statement on sustainable development strategy</td>
+        <td>56 to 57</td>
+    </tr>
+    <tr>
+        <td>GRI 2-23</td>
+        <td>Policy commitments</td>
+        <td>60, 79, 85 to 87</td>
+    </tr>
+    <tr>
+        <td>GRI 2-24</td>
+        <td>Embedding policy commitments</td>
+        <td>60, 79, 85 to 87</td>
+    </tr>
+    <tr>
+        <td>GRI 2-25</td>
+        <td>Processes to remediate negative impacts</td>
+        <td>79</td>
+    </tr>
+    <tr>
+        <td>GRI 2-26</td>
+        <td>Mechanisms for seeking advice and raising concerns</td>
+        <td>79</td>
+    </tr>
+    <tr>
+        <td>GRI 2-27</td>
+        <td>Compliance with laws and regulations</td>
+        <td>79 to 80</td>
+    </tr>
+    <tr>
+        <td>GRI 2-28</td>
+        <td>Membership associations</td>
+        <td>63</td>
+    </tr>
+    <tr>
+        <td>GRI 2-29</td>
+        <td>Approach to stakeholder engagement</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>GRI 2-30</td>
+        <td>Collective bargaining agreements</td>
+        <td>86</td>
+    </tr>
+    <tr>
+        <td colspan="3">Material Topic Disclosures</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Material Topics 2021</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-1</td>
+        <td>Process to determine material topics</td>
+        <td>61</td>
+    </tr>
+    <tr>
+        <td>GRI 3-2</td>
+        <td>List of material topics</td>
+        <td>61</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 87 -->
+
+# GRI Content Index
+
+<table>
+  <thead>
+    <tr>
+        <th>GRI Standard</th>
+        <th>Disclosure Title</th>
+        <th>Page References, Omissions and Restatements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3"><strong>Environmental Stewardship</strong></td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Climate Action and Energy Management</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>68 to 69</td>
+    </tr>
+    <tr>
+        <td>GRI 302-1</td>
+        <td>Energy consumption within the organisation</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>GRI 302-2</td>
+        <td>Energy consumption outside the organisation</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>GRI 302-3</td>
+        <td>Energy intensity</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>GRI 302-4</td>
+        <td>Reduction of energy consumption</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>GRI 305-1</td>
+        <td>Direct (Scope 1) GHG emissions</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>GRI 305-2</td>
+        <td>Energy indirect (Scope 2) GHG emissions</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>GRI 305-3</td>
+        <td>Other indirect (Scope 3) GHG emissions</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>GRI 305-4</td>
+        <td>GHG emissions intensity</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>GRI 305-5</td>
+        <td>Reduction of GHG emissions</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Water Management</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td>GRI 303-1</td>
+        <td>Interactions with water as a shared resource</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td>GRI 303-2</td>
+        <td>Management of water discharge-related impacts</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td>GRI 303-3</td>
+        <td>Water withdrawal</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td>GRI 303-5</td>
+        <td>Water consumption</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Responsible Business</strong></td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Building and Service Quality</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>77 to 78</td>
+    </tr>
+    <tr>
+        <td>GRI 416-2</td>
+        <td>Incidents of non-compliance concerning the health and safety impacts of products and services</td>
+        <td>78</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Corporate Governance</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>78 to 80</td>
+    </tr>
+    <tr>
+        <td>GRI 205-1</td>
+        <td>Operations assessed for risks related to corruption</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td>GRI 205-2</td>
+        <td>Communication and training about anti-corruption policies and procedures</td>
+        <td>79</td>
+    </tr>
+    <tr>
+        <td>GRI 205-3</td>
+        <td>Confirmed incidents of corruption and actions taken</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td>GRI 206-1</td>
+        <td>Legal actions for anti-competitive behaviour, anti-trust, and monopoly practices</td>
+        <td>79</td>
+    </tr>
+    <tr>
+        <td>GRI 418-1</td>
+        <td>Substantiated complaints concerning breaches of customer privacy and losses of customer data</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Sustainable Supply Chain Management</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>80 to 81</td>
+    </tr>
+    <tr>
+        <td>GRI 204-1</td>
+        <td>Proportion of spending on local suppliers</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td>GRI 414-1</td>
+        <td>New suppliers that were screened using social criteria</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>Sustainable Finance</strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>81</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 88 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>GRI Standard</th>
+        <th>Disclosure Title</th>
+        <th>Page References, Omissions and Restatements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3"><strong>People and Community</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Human Capital Management</strong></td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>83 to 86</td>
+    </tr>
+    <tr>
+        <td>GRI 401-1</td>
+        <td>New employee hires and employee turnover</td>
+        <td>86</td>
+    </tr>
+    <tr>
+        <td>GRI 401-2</td>
+        <td>Benefits provided to full-time employees that are not provided to temporary or part-time employees</td>
+        <td>84</td>
+    </tr>
+    <tr>
+        <td>GRI 401-3</td>
+        <td>Parental leave</td>
+        <td>87</td>
+    </tr>
+    <tr>
+        <td>GRI 402-1</td>
+        <td>Minimum notice periods regarding operational changes</td>
+        <td>85</td>
+    </tr>
+    <tr>
+        <td>GRI 404-1</td>
+        <td>Average hours of training per year per employee</td>
+        <td>83, 86 to 87</td>
+    </tr>
+    <tr>
+        <td>GRI 404-2</td>
+        <td>Programs for upgrading employee skills and transition assistance programs</td>
+        <td>84 to 85</td>
+    </tr>
+    <tr>
+        <td>GRI 404-3</td>
+        <td>Percentage of employees receiving regular performance and career development reviews</td>
+        <td>86</td>
+    </tr>
+    <tr>
+        <td>GRI 405-1</td>
+        <td>Diversity of governance bodies and employees</td>
+        <td>86</td>
+    </tr>
+    <tr>
+        <td>GRI 406-1</td>
+        <td>Incidents of discrimination and corrective actions taken</td>
+        <td>87</td>
+    </tr>
+    <tr>
+        <td>GRI 407-1</td>
+        <td>Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td>GRI 408-1</td>
+        <td>Operations and suppliers at significant risk for incidents of child labor</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td>GRI 409-1</td>
+        <td>Operations and suppliers at significant risk for incidents of forced or compulsory labor</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Employee Health and Wellbeing</strong></td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-1</td>
+        <td>Occupational health and safety management system</td>
+        <td>77, 87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-2</td>
+        <td>Hazard identification, risk assessment, and incident investigation</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-3</td>
+        <td>Occupational health services</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-4</td>
+        <td>Worker participation, consultation, and communication on occupational health and safety</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-5</td>
+        <td>Worker training on occupational health and safety</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-6</td>
+        <td>Promotion of worker health</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-7</td>
+        <td>Prevention and mitigation of occupational health and safety impacts directly linked by business relationships</td>
+        <td>87 to 88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-8</td>
+        <td>Workers covered by an occupational health and safety management system</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td>GRI 403-9</td>
+        <td>Work-related injuries</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Community Development and Engagement</strong></td>
+    </tr>
+    <tr>
+        <td>GRI 3-3</td>
+        <td>Management of material topics</td>
+        <td>89 to 90</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 89 -->
+
+# IFRS S2 Content Index
+
+<table>
+  <thead>
+    <tr>
+        <th>IFRS S2</th>
+        <th>Disclosure Requirement</th>
+        <th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">Governance</td>
+    </tr>
+    <tr>
+        <td>6 (a)</td>
+        <td>the governance body(s) (which can include a board, committee or equivalent body charged with governance) or individual(s) responsible for oversight of climate-related risks and opportunities. Specifically, the entity shall identify that body(s) or individual(s) and disclose information about:</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(i) how responsibilities for climate-related risks and opportunities are reflected in the entity’s terms of reference, mandates, role descriptions and other related policies applicable to that body or individuals;</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) how the body(s) or individual(s) determines whether appropriate skills and competencies are available or will be developed to oversee strategies designed to respond to climate-related risks and opportunities;</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) how and how often the body(s) or individual(s) is informed about climate-related risks and opportunities;</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iv) how the body(s) or individual(s) takes into account climate-related risks and opportunities when overseeing the entity’s strategy, its decisions on major transactions, and its risk management processes and related policies, including whether the body(s) or individual(s) has considered trade-offs associated with those risks and opportunities; and</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(v) how the body(s) or individual(s) oversees the setting of targets related to significant climate-related risks and opportunities, and monitor progress towards them (see paragraphs 33-36), including whether and how related performance metrics are included in remuneration policies (see paragraph 29(g)).</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>6 (b)</td>
+        <td>management’s role in the governance processes, controls and procedures used to monitor, manage and oversee climate-related risks and opportunities, including information about:</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(i) whether the role is delegated to a specific management-level position or management-level committee and how oversight is exercised over that position or committee; and</td>
+        <td>59 to 60</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) whether management uses controls and procedures to support the oversight of climate-related risks and opportunities and, if so, how these controls and procedures are integrated with other internal functions.</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td colspan="3">Strategy</td>
+    </tr>
+    <tr>
+        <td colspan="3">Climate-related Risks and Opportunities</td>
+    </tr>
+    <tr>
+        <td>10 (a)</td>
+        <td>describe climate-related risks and opportunities that could reasonably be expected to affect the entity’s prospects;</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td>10 (b)</td>
+        <td>explain, for each climate-related risk the entity has identified, whether the entity considers the risk to be a climate-related physical risk or climate-related transition risk;</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td>10 (c)</td>
+        <td>specify, for each climate-related risk and opportunity the entity has identified, over which time horizons – short, medium or long term – the effects of each climate-related risk and opportunity could reasonably be expected to occur; and</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td>10 (d)</td>
+        <td>explain how the entity defines ‘short term’, ‘medium term’ and ‘long term’ and how these definitions are linked to the planning horizons used by the entity for strategic decision-making.</td>
+        <td>71 to 72</td>
+    </tr>
+    <tr>
+        <td colspan="3">Business Model and Value Chain</td>
+    </tr>
+    <tr>
+        <td>13 (a)</td>
+        <td>a description of the current and anticipated effects of climate-related risks and opportunities on the entity’s business model and value chain; and</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td>13 (b)</td>
+        <td>a description of where in the entity’s business model and value chain climate-related risks and opportunities are concentrated (for example, geographical areas, facilities and types of assets).</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td colspan="3">Strategy and Decision-making</td>
+    </tr>
+    <tr>
+        <td>14 (a)</td>
+        <td>information about how the entity has responded to, and plans to respond to, climate-related risks and opportunities in its strategy and decision-making, including how the entity plans to achieve any climate-related targets it has set and any targets it is required to meet by law or regulation. Specifically, the entity shall disclose information about:</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(i) current and anticipated changes to the entity’s business model, including its resource allocation, to address climate-related risks and opportunities (for example, these changes could include plans to manage or decommission carbon-, energy- or water-intensive operations; resource allocations resulting from demand or supply-chain changes; resource allocations arising from business development through capital expenditure or additional expenditure on research and development; and acquisitions or divestments);</td>
+        <td>\*</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) current and anticipated direct mitigation and adaptation efforts (for example, through changes in production processes or equipment, relocation of facilities, workforce adjustments, and changes in product specifications);</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) current and anticipated indirect mitigation and adaptation efforts (for example, through working with customers and supply chains);</td>
+        <td>68, 81</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iv) any climate-related transition plan the entity has, including information about key assumptions used in developing its transition plan, and dependencies on which the entity’s transition plan relies; and</td>
+        <td>74</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(v) how the entity plans to achieve any climate-related targets, including any greenhouse gas emissions targets, described in accordance with paragraphs 33-36.</td>
+        <td>68 to 69</td>
+    </tr>
+    <tr>
+        <td>14 (b)</td>
+        <td>information about how the entity is resourcing, and plans to resource, the activities disclosed in accordance with paragraph 14(a).</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>14 (c)</td>
+        <td>quantitative and qualitative information about the progress of plans disclosed in previous reporting periods in accordance with paragraph 14(a).</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td colspan="3">Financial Position, Financial Performance and Cash Flows</td>
+    </tr>
+    <tr>
+        <td>16 (a)</td>
+        <td>how climate-related risks and opportunities have affected its financial position, financial performance and cash flows for the reporting period;</td>
+        <td>73 to 74</td>
+    </tr>
+    <tr>
+        <td>16 (b)</td>
+        <td>the climate-related risks and opportunities identified in paragraph 16(a) for which there is a significant risk of a material adjustment within the next annual reporting period to the carrying amounts of assets and liabilities reported in the related financial statements;</td>
+        <td>73 to 74</td>
+    </tr>
+  </tbody>
+</table>
+
+\* No current and anticipated changes to the business model have been identified.
+
+<!-- PAGE 90 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>IFRS S2</th>
+        <th>Disclosure Requirement</th>
+        <th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>16 (c)</td>
+        <td>how the entity expects its financial position to change over the short, medium and long-term, given its strategy to manage climate-related risks and opportunities, taking into consideration:<br/>(i) its investment and disposal plans (for example, plans for capital expenditure, major acquisitions and divestments, joint ventures, business transformation, innovation, new business areas and asset retirements) including plans the entity is not contractually committed to; and<br/>(ii) its planned sources of funding to implement its strategy; and</td>
+        <td>73 to 74</td>
+    </tr>
+    <tr>
+        <td>16 (d)</td>
+        <td>how the entity expects its financial performance to change over time, given its strategy to address significant climate-related risks and opportunities (for example, increased revenue from or costs of products and services aligned with a lower-carbon economy, consistent with the latest international agreement on climate change; physical damage to assets from climate events; and the costs of climate adaptation or mitigation).</td>
+        <td>73 to 74</td>
+    </tr>
+    <tr>
+        <td colspan="3">Climate Resilience</td>
+    </tr>
+    <tr>
+        <td>22 (a)</td>
+        <td>the entity’s assessment of its climate resilience as at the reporting date, which shall enable users of general purpose financial reports to understand:<br/>(i) the implications, if any, of the entity’s assessment for its strategy and business model, including how the entity would need to respond to the effects identified in the climate-related scenario analysis;</td>
+        <td>71 to 73</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) the significant areas of uncertainty considered in the entity’s assessment of its climate resilience;</td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) the entity’s capacity to adjust or adapt its strategy and business model to climate change over the short, medium and long term, including;<br/>(1) the availability of, and flexibility in, the entity’s existing financial resources to respond to the effects identified in the climate-related scenario analysis, including to address climate-related risks and to take advantage of climate-related opportunities;<br/>(2) the entity’s ability to redeploy, repurpose, upgrade or decommission existing assets; and<br/>(3) the effect of the entity’s current and planned investments in climate-related mitigation, adaptation and opportunities for climate resilience; and</td>
+        <td>71</td>
+    </tr>
+    <tr>
+        <td>22 (b)</td>
+        <td>how and when the climate-related scenario analysis was carried out, including:<br/>(i) information about the inputs the entity used, including:<br/>(1) which climate-related scenarios the entity used for the analysis and the sources of those scenarios;<br/>(2) whether the analysis included a diverse range of climate-related scenarios;<br/>(3) whether the climate-related scenarios used for the analysis are associated with climate-related transition risks or climate-related physical risks;<br/>(4) whether the entity used, among its scenarios, a climate-related scenario aligned with the latest international agreement on climate change;<br/>(5) why the entity decided that its chosen climate-related scenarios are relevant to assessing its resilience to climate-related changes, developments or uncertainties;<br/>(6) the time horizons the entity used in the analysis; and<br/>(7) what scope of operations the entity used in the analysis (for example, the operating locations and business units used in the analysis);</td>
+        <td>65 to 66, 73</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) the key assumptions the entity made in the analysis, including assumptions about:<br/>(1) climate-related policies in the jurisdictions in which the entity operates;<br/>(2) macroeconomic trends;<br/>(3) national- or regional-level variables (for example, local weather patterns, demographics, land use, infrastructure and availability of natural resources);<br/>(4) energy usage and mix; and<br/>(5) developments in technology; and</td>
+        <td>65 to 66</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) the reporting period in which the climate-related scenario analysis was carried out.</td>
+        <td>65 to 66</td>
+    </tr>
+    <tr>
+        <td colspan="3">Risk Management</td>
+    </tr>
+    <tr>
+        <td>25 (a)</td>
+        <td>the processes and related policies the entity uses to identify, assess, prioritise and monitor climate-related risks, including information about:<br/>(i) the inputs and parameters the entity uses (for example, information about data sources and the scope of operations covered in the processes);</td>
+        <td>65 to 66</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) whether and how the entity uses climate-related scenario analysis to inform its identification of climate-related risks;</td>
+        <td>71</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) how the entity assesses the nature, likelihood and magnitude of the effects of those risks (for example, whether the entity considers qualitative factors, quantitative thresholds or other criteria);</td>
+        <td>65 to 66</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iv) whether and how the entity prioritises climate-related risks relative to other types of risk;</td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(v) how the entity monitors climate-related risks; and</td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(vi) whether and how the entity has changed the processes it uses compared with the previous reporting period;</td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td>25 (b)</td>
+        <td>the processes the entity uses to identify, assess, prioritise and monitor climate-related opportunities, including information about whether and how the entity uses climate-related scenario analysis to inform its identification of climate-related opportunities; and</td>
+        <td>66</td>
+    </tr>
+    <tr>
+        <td>25 (c)</td>
+        <td>the extent to which, and how, the processes for identifying, assessing, prioritising and monitoring climate-related risks and opportunities are integrated into and inform the entity’s overall risk management process.</td>
+        <td>65</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 91 -->
+
+# IFRS S2 Content Index
+
+<table>
+  <thead>
+    <tr>
+        <th>IFRS S2</th>
+        <th>Disclosure Requirement</th>
+        <th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">Metrics and Targets</td>
+    </tr>
+    <tr>
+        <td colspan="3">Climate-related Metrics</td>
+    </tr>
+    <tr>
+        <td>29 (a)</td>
+        <td>greenhouse gases – the entity shall:<br/>(i) disclose its absolute gross greenhouse gas emissions generated during the reporting period, expressed as metric tonnes of CO₂ equivalent (see paragraphs B19-B22), classified as:<br/>(1) Scope 1 emissions;<br/>(2) Scope 2 emissions;<br/>(3) Scope 3 emissions;</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(ii) measure its greenhouse gas emissions in accordance with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004) unless required by a jurisdictional authority or an exchange on which the entity is listed to use a different method for measuring its greenhouse gas emissions (see paragraphs B23-B25);</td>
+        <td>69</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iii) disclose the approach it uses to measure its greenhouse gas emissions (see paragraphs B26-B29) including:<br/>(1) the measurement approach, inputs and assumptions the entity uses to measure its greenhouse gas emissions;<br/>(2) the reason why the entity has chosen the measurement approach, inputs and assumptions it uses to measure its greenhouse gas emissions; and<br/>(3) any changes the entity made to the measurement approach, inputs and assumptions during the reporting period and the reasons for those changes;</td>
+        <td>69</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(iv) for Scope 1 and Scope 2 greenhouse gas emissions disclosed in accordance with paragraph 29(a)(i)(1)-(2), disaggregate emissions between:<br/>(1) the consolidated accounting group (for example, for an entity applying IFRS Accounting Standards, this group would comprise the parent and its consolidated subsidiaries); and<br/>(2) other investees excluded from paragraph 29(a)(iv)(1) (for example, for an entity applying IFRS Accounting Standards, these investees would include associates, joint ventures and unconsolidated subsidiaries);</td>
+        <td>NA</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(v) for Scope 2 greenhouse gas emissions disclosed in accordance with paragraph 29(a)(i)(2), disclose its location-based Scope 2 greenhouse gas emissions, and provide information about any contractual instruments that is necessary to inform users’ understanding of the entity’s Scope 2 greenhouse gas emissions (see paragraphs B30-B31); and</td>
+        <td>69</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(vi) for Scope 3 greenhouse gas emissions disclosed in accordance with paragraph 29(a)(i)(3), and with reference to paragraphs B32-B57, disclose:<br/>(1) the categories included within the entity’s measure of Scope 3 greenhouse gas emissions, in accordance with the Scope 3 categories described in the Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard (2011); and<br/>(2) additional information about the entity’s Category 15 greenhouse gas emissions or those associated with its investments (financed emissions), if the entity’s activities include asset management, commercial banking or insurance (see paragraphs B58-B63);</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td>29 (b)</td>
+        <td>climate-related transition risks – the amount and percentage of assets or business activities vulnerable to climate-related transition risks;</td>
+        <td>#</td>
+    </tr>
+    <tr>
+        <td>29 (c)</td>
+        <td>climate-related physical risks – the amount and percentage of assets or business activities vulnerable to climate-related physical risks;</td>
+        <td>71 to 72</td>
+    </tr>
+    <tr>
+        <td>29 (d)</td>
+        <td>climate-related opportunities – the amount and percentage of assets or business activities aligned with climate-related opportunities;</td>
+        <td>#</td>
+    </tr>
+    <tr>
+        <td>29 (e)</td>
+        <td>capital deployment – the amount of capital expenditure, financing or investment deployed towards climate-related risks and opportunities;</td>
+        <td>73 to 74</td>
+    </tr>
+    <tr>
+        <td>29 (f)</td>
+        <td>internal carbon prices – the entity shall disclose:<br/>(i) an explanation of whether and how the entity is applying a carbon price in decision-making (for example, investment decisions, transfer pricing and scenario analysis); and<br/>(ii) the price for each metric tonne of greenhouse gas emissions the entity uses to assess the costs of its greenhouse gas emissions;</td>
+        <td>69</td>
+    </tr>
+    <tr>
+        <td>29 (g)</td>
+        <td>remuneration – the entity shall disclose:<br/>(i) a description of whether and how climate-related considerations are factored into executive remuneration (see also paragraph 6(a)(v)); and<br/>(ii) the percentage of executive management remuneration recognised in the current period that is linked to climate-related considerations.</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td colspan="3">Climate-related Targets</td>
+    </tr>
+    <tr>
+        <td>33 (a)</td>
+        <td>the metric used to set the target (see paragraphs B66-B67);</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (b)</td>
+        <td>the objective of the target (for example, mitigation, adaptation or conformance with science-based initiatives);</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (c)</td>
+        <td>the part of the entity to which the target applies (for example, whether the target applies to the entity in its entirety or only a part of the entity, such as a specific business unit or specific geographical region);</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (d)</td>
+        <td>the period over which the target applies;</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (e)</td>
+        <td>the base period from which progress is measured;</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (f)</td>
+        <td>any milestones or interim targets;</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (g)</td>
+        <td>if the target is quantitative, whether it is an absolute target or an intensity target; and</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>33 (h)</td>
+        <td>how the latest international agreement on climate change, including jurisdictional commitments that arise from that agreement, has informed the target.</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>34 (a)</td>
+        <td>whether the target and the methodology for setting the target has been validated by a third party;</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>34 (b)</td>
+        <td>the entity’s processes for reviewing the target;</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>34 (c)</td>
+        <td>the metrics used to monitor progress towards reaching the target; and</td>
+        <td>69</td>
+    </tr>
+  </tbody>
+</table>
+
+\# The effects of transitions risks and opportunities currently cannot be separately identified. The Manager will continue to refine its disclosure as more reliable data becomes available.
+
+<!-- PAGE 92 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>IFRS S2</th>
+        <th>Disclosure Requirement</th>
+        <th>Page Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>34 (d)</td>
+        <td>any revisions to the target and an explanation for those revisions.</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>An entity shall disclose information about its performance against each climate-related target and an analysis of trends or changes in the entity’s performance.</td>
+        <td>69 to 70</td>
+    </tr>
+    <tr>
+        <td>36 (a)</td>
+        <td>which greenhouse gases are covered by the target.</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>36 (b)</td>
+        <td>whether Scope 1, Scope 2 or Scope 3 greenhouse gas emissions are covered by the target.</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>36 (c)</td>
+        <td>whether the target is a gross greenhouse gas emissions target or net greenhouse gas emissions target. If the entity discloses a net greenhouse gas emissions target, the entity is also required to separately disclose its associated gross greenhouse gas emissions target (see paragraphs B68-B69).</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>36 (d)</td>
+        <td>whether the target was derived using a sectoral decarbonisation approach.</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>36 (e)</td>
+        <td>the entity’s planned use of carbon credits to offset greenhouse gas emissions to achieve any net greenhouse gas emissions target. In explaining its planned use of carbon credits the entity shall disclose information including, and with reference to paragraphs B70-B71:<br/>(i) the extent to which, and how, achieving any net greenhouse gas emissions target relies on the use of carbon credits;<br/>(ii) which third-party scheme(s) will verify or certify the carbon credits;<br/>(iii) the type of carbon credit, including whether the underlying offset will be nature-based or based on technological carbon removals, and whether the underlying offset is achieved through carbon reduction or removal; and<br/>(iv) any other factors necessary for users of general purpose financial reports to understand the credibility and integrity of the carbon credits the entity plans to use (for example, assumptions regarding the permanence of the carbon offset).</td>
+        <td>69</td>
+    </tr>
+  </tbody>
+</table>
+
+# IFRS S2 INDUSTRY-BASED GUIDANCE METRICS
+
+<table>
+  <thead>
+    <tr>
+        <th>Topic</th>
+        <th>Metric</th>
+        <th>Keppel DC REIT Data¹</th>
+    </tr>
+    <tr><th colspan="2">Volume 36 – Real Estate</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="5">Energy Management</td>
+        <td>Energy consumption data coverage as a percentage of total floor area, by property sector</td>
+        <td>45.6%</td>
+    </tr>
+    <tr>
+        <td>(1) Total energy consumed by portfolio area with data coverage,<br/>(2) percentage grid electricity and<br/>(3) percentage renewable, by property sector</td>
+        <td>(1) 2,053,859 GJ<br/>(2) 99.1%<br/>(3) 13.0% (based on Energy Consumed – Scopes 2 and 3) for KDC DUB 1 and 2 of total electricity consumed at fully-fitted (colocation) assets and RE is procured by <u>clients at all master lease assets in Europe</u></td>
+    </tr>
+    <tr>
+        <td>Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property sector</td>
+        <td>34% increase</td>
+    </tr>
+    <tr>
+        <td>Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property sector</td>
+        <td>(1) 19.3%<br/>(2) NA²</td>
+    </tr>
+    <tr>
+        <td>Description of how building energy management considerations are integrated into property investment analysis and operational strategy</td>
+        <td>Refer to pages 77 to 78</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Water Management</td>
+        <td>Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property sector</td>
+        <td>(1) 45.6%<br/>(2) 11.8%</td>
+    </tr>
+    <tr>
+        <td>(1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property sector</td>
+        <td>(1) 714.6 ML<br/>(2) 28.1%</td>
+    </tr>
+    <tr>
+        <td>Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property sector</td>
+        <td>50.4% increase</td>
+    </tr>
+    <tr>
+        <td>Description of water management risks and discussion of strategies and practices to mitigate those risks</td>
+        <td>NA³</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Management of Client Sustainability Impacts</td>
+        <td>(1) Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements and (2) associated leased floor area, by property sector</td>
+        <td>NA⁴</td>
+    </tr>
+    <tr>
+        <td>Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property sector</td>
+        <td>(1) 88.5%⁵<br/>(2) NA⁶</td>
+    </tr>
+    <tr>
+        <td>Discussion of approach to measuring, incentivising and improving sustainability impacts of tenants</td>
+        <td>Refer to pages 77 to 78</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Climate Change Adaptation</td>
+        <td>Area of properties located in 100-year flood zones, by property sector</td>
+        <td>69,965 sqm</td>
+    </tr>
+    <tr>
+        <td>Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks</td>
+        <td>Refer to pages 71 to 74</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Activity Metrics</td>
+        <td>Number of assets, by property sector</td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td>Leasable floor area, by property sector</td>
+        <td>252,805 sqm</td>
+    </tr>
+    <tr>
+        <td>Percentage of indirectly managed assets, by property sector</td>
+        <td>Fully-fitted (colocation): 51.0%;<br/>Fully-fitted (single tenant) and<br/>Shell and Core: 49.0% of gross floor area</td>
+    </tr>
+    <tr>
+        <td>Average occupancy rate, by property sector</td>
+        <td>Portfolio Occupancy: 95.8%</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 All properties are classified into the Data Centres Sector according to FTSE EPRA Nareit Global Real Estate Index property sector classification system.
+
+\*2 Keppel DC REIT does not have properties in the US.
+
+\*3 No material information to be disclosed.
+
+\*4 Keppel DC REIT sets aside a separate yearly budget on operating expenditure (opex) and capital expenditure (capex) to improve the efficiency of the assets.
+
+\*5 Covers Singapore, Australia, Malaysia and Ireland colocation assets.
+
+\*6 Keppel DC REIT does not meter clients’ water withdrawals, water withdrawals are tracked at the building level.
+
+<!-- PAGE 93 -->
+
+# Independent Assurance Statement
+
+## DNV
+
+DNV Business Assurance Singapore Pte. Ltd. (“DNV”) has been commissioned by the management of Keppel DC REIT, Keppel DC REIT Management Pte. Ltd. (‘the Company’, UEN: 199508930C) to carry out an independent verification of the power usage effectiveness (PUE) target set by Keppel DC REIT. Keppel DC REIT aims to achieve at least 10% reduction in effective PUE for colocation assets that undergo major enhancement works¹, by 2025 from a 2019 baseline.
+
+## ASSURANCE APPROACH
+
+This assurance engagement has been carried out in accordance with DNV’s VeriSustain protocol V6.0 which is based on our professional experience and international assurance best practice including the International Standard on Assurance Engagements (ISAE) 3000 revised – ‘Assurance Engagements other than Audits and Reviews of Historical Financial Information’ (revised), issued by the International Auditing and Assurance Standards Board. This standard requires that we comply with ethical requirements and plan and perform the assurance engagement to obtain limited and reasonable assurance.
+
+DNV applies its own management standards and compliance policies for quality control, in accordance with ISO/IEC 17029:2019 – Conformity assessment, whose general principles are requirements for validation and verification bodies. Accordingly, DNV maintains a comprehensive system of quality control including documented policies and procedures regarding compliance with ethical requirements, professional standards, and applicable legal and regulatory requirements.
+
+We performed the activities applying a limited level of assurance for a selection of indicators, as described in the following sections. Our assurance engagement was carried out from August 2024 to March 2025.
+
+The procedures performed in a limited level of assurance vary in nature and timing from, and are less detailed than, those undertaken during a reasonable assurance engagement, so the level of assurance obtained is lower than the assurance that would have been obtained had a reasonable assurance engagement been performed. We planned and performed our work to obtain the evidence we considered sufficient to provide a basis for our conclusion, so that the risk of this conclusion being in error is reduced, but not reduced completely.
+
+We have not performed any work, and do not express any conclusion, on any other information that may be published outside of the 2024 Sustainability Report (“Report”) and/ or on Keppel DC REIT’s website for the reporting period of 1 January 2019 to 31 December 2019 and 1 January 2024 to 31 December 2024.
+
+## REPORTING CRITERIA FOR SELECTED INFORMATION
+
+The selected information has been prepared with reference to (“Reporting Criteria”):
+
+* “Recommendations for Measuring and Reporting Overall Data Center Efficiency” published 17 May 2011
+
+* Power Usage Effectiveness (“PUE”) Methodology:
+
+$$ PUE = \frac{\text{Total Facility Energy (kWh)}}{\text{Total IT Equipment Energy (kWh)}} $$
+
+## RESPONSIBILITIES OF KEPPEL DC REIT AND OF THE ASSURANCE PROVIDERS
+
+The Management of Keppel DC REIT has sole responsibility for:
+
+* Preparing and presenting the selected information;
+
+* Designing, implementing and maintaining effective internal controls over the information and data, resulting in the preparation of the selected Information that is free from material misstatements;
+
+* Measuring and reporting the selected information.
+
+DNV’s responsibility is to plan and perform the work to obtain assurance about whether the selected information has been prepared with reference to the reporting requirements and to report to Keppel DC REIT in the form of an independent assurance conclusion, based on the work performed and the evidence obtained.
+
+Our statement represents our independent opinion and is intended to inform all stakeholders. DNV was not involved in the preparation of any statements or data included in the Report except for this Independent Assurance Statement.
+
+## SCOPE OF ASSURANCE
+
+### Scope of Assurance (Data only)
+
+* Reduction in effective Power Usage Effectiveness (PUE) for colocation assets that underwent major asset enhancement works, by 2025 from a 2019 baseline
+
+### Organisational Boundary
+
+The organisational boundary for the assessment is based on the GRI Standards “operational control” classification and included:
+
+* Keppel DC REIT’s colocation assets with major asset enhancement works (Keppel DC Singapore 5 (KDC SGP 5), Keppel DC Dublin 1 and Keppel DC Dublin 2 (KDC DUB 1 and 2)).
+
+* All other assets are excluded from the scope of the assurance as the amount of asset enhancement works spent was less than S$1 million.
+
+## OUR COMPETENCE, INDEPENDENCE AND QUALITY CONTROL
+
+DNV’s established policies and procedures are designed to ensure that DNV, its personnel and, where applicable, others are subject to independence requirements (including personnel of other entities of DNV) and maintain independence where required by relevant ethical requirements. This engagement work was carried out by an independent team of sustainability assurance professionals. We have no other contract with Keppel DC REIT.
+
+\*1 Major asset enhancement refers to capex above $1 million targeted at enhancing asset value and/or revenue but excludes repairs, maintenance and replacement.
+
+<!-- PAGE 94 -->
+
+# DNV
+
+Our multi-disciplinary team consisted of professionals with a combination of sustainability assurance experiences. We adopted a risk-based approach, that is, we concentrated our assurance efforts on the issues of high material relevance to the Company’s business and its key stakeholders. Our limited assurance procedures included, but were not limited to, the following activities:
+
+## INHERENT LIMITATIONS
+
+DNV’s assurance engagements are based on the assumption that the data and information provided by the Company to us as part of our review have been provided in good faith, are true, and are free from material misstatements. Because of the selected nature (sampling) and other inherent limitation of both procedures and systems of internal control, there remains the unavoidable risk that errors or irregularities, possibly significant, may not have been detected.
+
+The engagement excludes the sustainability management, performance, and reporting practices of the Company’s suppliers, contractors, and any third parties mentioned in the Report. We did not interview external stakeholders as part of this assurance engagement.
+
+We understand that the reported financial data, governance and related information are based on statutory disclosures and Audited Financial Statements, which are subject to a separate independent statutory audit process. We did not review financial disclosures and data as they are not within the scope of our assurance engagement.
+
+The assessment is limited to data and information in scope within the defined reporting period. Any data outside this period is not considered within the scope of assurance.
+
+DNV expressly disclaims any liability or co-responsibility for any decision a person or an entity may make based on this Independent Assurance Statement.
+
+## BASIS OF OUR CONCLUSIONS
+
+As part of the assurance process, a multi-disciplinary team of assurance specialists performed assurance work for selected sites of Keppel DC REIT.
+
+* Desk review of the PUE Reduction associated data for the period 1 January 2019 to 31 December 2019 and 1 January 2024 to 31 December 2024 captured in bespoke spreadsheets.
+
+* Review of the Company’s electricity data management processes used to generate, aggregate, and report the PUE value, as well as assessment of the completeness, accuracy and reliability of the data.
+
+* Sampling of activity data for verification in line with the requirements for a limited level of verification.
+
+* Verification of PUE data calculation sheets in place including forms and formats, assumptions, calculation methodologies and evidence related to Electricity Consumption.
+
+* Carried out physical site visit at KDC SGP 5, and remote assessment of KDC DUB 1 and 2 in Dublin, to review the processes and systems for preparing site level sustainability data.
+
+* Sampling of activity data for verification in line with the requirements for a limited level of verification.
+
+* Data related to total electricity consumption for KDC SGP 5, KDC DUB 1 and 2 in 2019 and 2024
+
+<table>
+  <thead>
+    <tr>
+        <th>DATA VERIFIED¹</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>(%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Weighted average effective PUE reduction to-date²</td>
+        <td>-12.1</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> Due to confidentiality reasons, the Effective PUE data has been excluded.
+
+<sup>2</sup> Weighted average effective PUE reduction to-date = $\frac{2024 \text{ Effective PUE} - 2019 \text{ Effective PUE}}{2019 \text{ Effective PUE}}$
+
+Wheras,
+Effective PUE = $\sum$ PUE of each asset x Weightage
+Weightage is calculated by taking the cost of AEI works for a specific site (KDC SGP 5, KDC DUB 1 or 2), divided by the total cost of AEI works for 3 sites.
+
+on a sampling basis based on month-wise consolidated data from electricity bills.
+
+* Data related IT Consumption of the tenants, through the DCIM system used by each data center.
+
+* Reviewed evidence of major asset enhancement works conducted at KDC SGP 5, KDC DUB 1 and 2.
+
+* Review of feedback from Keppel DC REIT on reported observations arising from desk review and samples testing.
+
+## OUR CONCLUSIONS
+
+### Limited Level of Assurance
+
+On the basis of the work undertaken, nothing came to our attention to suggest that the selected information as described in ‘Scope of assurance’ is not fairly stated and has not been prepared, in all material respects, with reference to the Reporting Criteria specified in this Statement.
+
+For and on behalf of DNV Business Assurance Singapore Pte. Ltd.
+
+**Gangwar, Vishal**
+**VISHAL GANGWAR**
+Lead Verifier
+Supply Chain and Product Assurance
+Digitally signed by Gangwar, Vishal
+Date: 2025.05.30 15:27:02 +08’00’
+
+**FUAD HASAN**
+Verifier
+
+**Jang, Yu Lee**
+**JANG YU LEE**
+Assurance Reviewer
+Supply Chain and Product Assurance
+Digitally signed by Jang, Yu Lee
+Date: 2025.05.30 16:27:59 +09’00’
+
+30 May 2025, Singapore
+
+<!-- PAGE 95 -->
+
+Corporate Information hero image showing people walking through a revolving door in a modern office lobby
+
+
+
+# Corporate Information
+
+## TRUSTEE
+
+**Perpetual (Asia) Limited**
+*Registered Address*
+38 Beach Road
+#23-11, South Beach Tower
+Singapore 189767
+Phone: (65) 6908 8203
+
+*Principal Business Address*
+16 Collyer Quay
+#07-01
+Singapore 049318
+
+## EXTERNAL AUDITOR
+
+**PricewaterhouseCoopers LLP**
+7 Straits View
+Marina One, East Tower
+Level 12, Singapore 018936
+Phone: (65) 6236 3388
+
+Partner-in-charge:
+Maurice Loh Seow Wee
+(With effect from financial year ended 31 December 2022)
+
+## INTERNAL AUDITOR
+
+**Magdalene Tan**
+Head of Internal Audit
+
+## THE MANAGER
+
+**Keppel DC REIT Management Pte. Ltd.**
+**(a member of Keppel Ltd.)**
+
+*Registered Address*
+1 HarbourFront Avenue
+#18-01 Keppel Bay Tower
+Singapore 098632
+Phone: (65) 6803 1818
+
+*Principal Business Address*
+1 HarbourFront Avenue
+Level 2 Keppel Bay Tower
+Singapore 098632
+
+*Investor Relations Contact*
+Phone: (65) 6803 1679
+Email: investor.relations@keppeldcreit.com
+
+## UNIT REGISTRAR AND UNIT TRANSFER OFFICE
+
+**Boardroom Corporate & Advisory Services Pte. Ltd.**
+
+1 HarbourFront Avenue
+#14-07 Keppel Bay Tower
+Singapore 098632
+Phone: (65) 6536 5355
+
+*For updates or change of mailing address, please contact:*
+
+**The Central Depository (Pte) Limited**
+Phone: (65) 6535 7511
+Email: asksgx@sgx.com
+Website: www.sgx.com/cdp-customer-service
+
+## COMPANY SECRETARIES
+
+**Chiam Yee Sheng**
+
+**Tan Wei Ming, Darren**
+
+## DIRECTORS OF THE MANAGER
+
+**Christina Tan**
+Chairman and Non-Executive Director
+
+**Low Huan Ping**
+Lead Independent Director
+
+**Yeo Siew Eng**
+Independent Director
+
+**Chua Soon Ghee¹**
+Independent Director
+
+**Andrew Tan**
+Independent Director
+
+**Thomas Pang**
+Non-Executive Director
+
+## AUDIT AND RISK COMMITTEE
+
+**Yeo Siew Eng**
+Chairman
+
+**Low Huan Ping**
+
+**Andrew Tan**
+
+## NOMINATING AND REMUNERATION COMMITTEE
+
+**Low Huan Ping**
+Chairman
+
+**Christina Tan**
+
+**Chua Soon Ghee¹**
+
+## ENVIRONMENTAL, SOCIAL AND GOVERNANCE COMMITTEE
+
+**Thomas Pang**
+Chairman
+
+**Chua Soon Ghee¹**
+
+**Andrew Tan**
+
+\* 1 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the Nominating and Remuneration Committee and Environmental, Social and Governance Committee with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the Environmental, Social and Governance Committee and Mr Andrew Tan succeeded Mr Chua as member of the Nominating and Remuneration Committee.
+
+<!-- PAGE 96 -->
+
+# Manager’s Statement & Financial Statements
+
+<table>
+  <thead>
+    <tr>
+<th colspan="2">FINANCIAL STATEMENTS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Report of the Trustee</td>
+<td>102</td>
+    </tr>
+    <tr>
+<td>Statement by the Manager</td>
+<td>103</td>
+    </tr>
+    <tr>
+<td>Independent Auditor’s Report</td>
+<td>104</td>
+    </tr>
+    <tr>
+<td>Statements of Financial Position</td>
+<td>107</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Profit or Loss</td>
+<td>108</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Comprehensive Income</td>
+<td>109</td>
+    </tr>
+    <tr>
+<td>Statement of Movements in Unitholders’ Funds</td>
+<td>110</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Cash Flows</td>
+<td>112</td>
+    </tr>
+    <tr>
+<td>Distribution Statement</td>
+<td>114</td>
+    </tr>
+    <tr>
+<td>Portfolio Statement</td>
+<td>115</td>
+    </tr>
+    <tr>
+<td>Notes to the Financial Statements</td>
+<td>117</td>
+    </tr>
+    <tr>
+<th colspan="2">GOVERNANCE</th>
+    </tr>
+    <tr>
+<td>Corporate Governance</td>
+<td>164</td>
+    </tr>
+    <tr>
+<td>Risk Management</td>
+<td>191</td>
+    </tr>
+    <tr>
+<th colspan="2">OTHER INFORMATION</th>
+    </tr>
+    <tr>
+<td>Additional Information</td>
+<td>194</td>
+    </tr>
+    <tr>
+<td>Statistics of Unitholdings</td>
+<td>196</td>
+    </tr>
+    <tr>
+<td>Financial Calendar</td>
+<td>198</td>
+    </tr>
+    <tr>
+<td>Notice of Annual General Meeting</td>
+<td>199</td>
+    </tr>
+    <tr>
+<td colspan="2">Proxy Form</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 97 -->
+
+# Report of the Trustee
+
+For the year ended 31 December 2025
+
+Perpetual (Asia) Limited (the “Trustee”) is under a duty to take into custody and hold the assets of Keppel DC REIT (the “Trust”) and its subsidiaries (collectively, the “Group”) in trust for the holders of units (“Unitholders”) in the Trust. In accordance with, inter alia, the Securities and Futures Act 2001 of Singapore, its subsidiary legislation and the Code on Collective Investment Schemes and the Listing Manual (collectively referred to as the “laws and regulations”), the Trustee shall monitor the activities of Keppel DC REIT Management Pte. Ltd. (the “Manager”) for compliance with the limitations imposed on the investment and borrowing powers as set out in the trust deed dated 17 March 2011 (as amended) (the “Trust Deed”) between the Manager and the Trustee in each annual accounting period and report thereon to Unitholders in an annual report.
+
+To the best knowledge of the Trustee, the Manager has, in all material respects, managed Keppel DC REIT and its subsidiaries during the period covered by these financial statements, set out on pages 107 to 163 in accordance with the limitations imposed on the investment and borrowing powers set out in the Trust Deed.
+
+For and on behalf of the Trustee,
+**Perpetual (Asia) Limited**
+
+signature: Sin Li Choo
+
+**Sin Li Choo**
+Director
+
+Singapore, 26 February 2026
+
+<!-- PAGE 98 -->
+
+# Statement by the Manager
+
+For the year ended 31 December 2025
+
+In the opinion of the directors of Keppel DC REIT Management Pte. Ltd., the accompanying financial statements of Keppel DC REIT (the “Trust”) and its subsidiaries (collectively, the “Group”) set out on pages 107 to 163, comprising the Statements of Financial Position for the Group and the Trust, the Portfolio Statement of the Group as at 31 December 2025, the Consolidated Statement of Profit or Loss of the Group, the Consolidated Statement of Comprehensive Income of the Group, the Statements of Movements in Unitholders’ Funds of the Group and the Trust, and the Consolidated Statement of Cash Flows and the Distribution Statement of the Group, and the Notes to the Financial Statements for the year have been drawn up so as to present fairly, in all material respects, the financial positions of the Group and the Trust and the portfolio statement of the Group as at 31 December 2025, the consolidated profit or loss of the Group, the consolidated comprehensive income of the Group, the movements in Unitholders’ funds of the Group and the Trust, and the distribution statement and the consolidated cash flows of the Group for the year ended in accordance with the Singapore Financial Reporting Standards (International) and the provisions of the Trust Deed dated 17 March 2011 (as amended) and the relevant requirements of the Code on Collective Investment Schemes issued by the Monetary Authority of Singapore. At the date of this statement, there are reasonable grounds to believe that the Trust will be able to meet its financial obligations as and when they materialise.
+
+For and on behalf of the Manager,
+**Keppel DC REIT Management Pte. Ltd.**
+
+[signature: Christina Tan]
+
+**Christina Tan**
+Director
+
+Singapore, 26 February 2026
+
+<!-- PAGE 99 -->
+
+# Independent Auditor’s Report to the Unitholders of Keppel DC REIT
+
+(Constituted under a Trust Deed in the Republic of Singapore)
+
+## Our opinion
+
+In our opinion, the accompanying consolidated financial statements of Keppel DC REIT (the “Trust”) and its subsidiaries (the “Group”) and the statement of financial position and statement of movements of Unitholders’ funds of the Trust are properly drawn up in accordance with the Singapore Financial Reporting Standards (International) (“SFRS(I)s”) and applicable requirements of the Code on Collective Investment Schemes relating to financial reporting (the “CIS Code”) so as to present fairly, in all material respects, the consolidated financial position of the Group and the financial position of the Trust and the consolidated portfolio holdings of the Group as at 31 December 2025 and the consolidated financial performance of the Group, the consolidated amount distributable of the Group, the consolidated movements of Unitholders’ funds of the Group and movements in Unitholders’ funds of the Trust, and the consolidated cash flows of the Group for the financial year ended on that date.
+
+## What we have audited
+
+The financial statements of the Group and the Trust comprise:
+
+* the statements of financial position of the Group and the Trust as at 31 December 2025;
+
+* the consolidated statement of profit or loss of the Group for the year ended 31 December 2025;
+
+* the consolidated statement of comprehensive income of the Group for the year then ended;
+
+* the statements of movements in Unitholders’ funds of the Group and the Trust for the year then ended;
+
+* the consolidated statement of cash flows of the Group for the year then ended;
+
+* the distribution statement of the Group for the year then ended;
+
+* the portfolio statement of the Group as at 31 December 2025; and
+
+* the notes to the financial statements, including material accounting policy information.
+
+## Basis for opinion
+
+We conducted our audit in accordance with Singapore Standards on Auditing (“SSAs”). Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our report.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+## Independence
+
+We are independent of the Group in accordance with the Accounting and Corporate Regulatory Authority Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities (“ACRA Code”), as applicable to audits of financial statements of public interest entities, together with the ethical requirements that are relevant to our audit of the financial statements of public interest entities in Singapore. We have also fulfilled our other ethical responsibilities in accordance with these requirements and the ACRA Code.
+
+## Our audit approach
+
+As part of designing our audit, we determined materiality and assessed the risks of material misstatement in the accompanying financial statements. In particular, we considered where management made subjective judgements; for example, in respect of significant accounting estimates that involved making assumptions and considering future events that are inherently uncertain. As in all of our audits, we also addressed the risk of management override of internal controls, including among other matters consideration of whether there was evidence of bias that represented a risk of material misstatement due to fraud.
+
+## Key audit matters
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial statements for the financial year ended 31 December 2025. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+<!-- PAGE 100 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Key Audit Matter</th>
+        <th>How our audit addressed the key audit matter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Valuation of investment properties</strong><br/><br/>Refer to Note 4(i) – Investment Properties and Note 4(ii) Investment Property Held for Sale<br/><br/>The Group owns a portfolio of investment properties stated at their fair values based on independent external valuations.<br/><br/>As at 31 December 2025, the carrying value of the Group’s investment properties of $6.1 billion and investment property held for sale of $17.1 million accounted for about 89.4% of the Group’s total assets. Information relating to these investment properties are disclosed in Note 4(i) and Note 4(ii) to the accompanying financial statements.<br/><br/>The valuation of investment properties is a key audit matter due to the significant judgement in the key inputs used in valuation techniques. These key inputs include capitalisation rates and discount rates and are dependent on the nature of each investment property and the prevailing market conditions.<br/><br/>The information about the key inputs that were used to determine the fair value of the investment properties are disclosed in Note 29 to the accompanying financial statements.</td>
+        <td>Our audit procedures included the following:<br/><br/>Assessed the competence, capabilities and objectivity of the independent valuers engaged by the Group to perform the valuations of the investment properties;<br/><br/>Assessed the appropriateness of methodologies and assumptions applied for valuation by the independent valuers:<br/><br/>· Obtained an understanding of the techniques used by the independent valuers in determining the valuations of individual investment properties;<br/><br/>· Discussed the significant assumptions made by the independent valuers for the key inputs used in the valuation techniques;<br/><br/>· Tested the integrity of information, including underlying lease and financial information provided to the independent valuers; and<br/><br/>· Assessed the reasonableness of the capitalisation rates and discount rates used in the valuations by comparing them against industry rates and those of comparable properties.<br/><br/>The independent valuers are members of recognised bodies for professional valuers. The valuation techniques used were appropriate in relation to the Group’s investment properties and the significant assumptions used for the key inputs were within the range used by valuers of similar investment properties.<br/><br/>We have assessed the adequacy of the disclosures relating to the assumptions in the valuation of investment properties.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Other information
+
+The Manager is responsible for the other information. The other information comprises all sections of the annual report but does not include the financial statements and our auditor’s report thereon.
+
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+## Responsibilities of the Manager for the financial statements
+
+The Manager is responsible for the preparation and fair presentation of these financial statements in accordance with SFRS(I)s and the applicable requirements of the CIS Code relating to financial reporting and for such internal control as the Manager determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Manager is responsible for assessing the Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Manager either intends to terminate the Group or to cease the Group’s operations, or has no realistic alternative but to do so.
+
+The Manager’s responsibilities include overseeing the Group’s financial reporting process.
+
+<!-- PAGE 101 -->
+
+# Independent Auditor’s Report to the Unitholders of Keppel DC REIT
+
+(Constituted under a Trust Deed in the Republic of Singapore)
+
+## Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SSAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain professional scepticism throughout the audit. We also:
+
+* Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+
+* Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal control.
+
+* Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the Manager.
+
+* Conclude on the appropriateness of the Manager’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+
+* Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+* Plan and perform the group audit to obtain sufficient appropriate audit evidence regarding the financial information of the entities or business units within the group as a basis for forming an opinion on the group financial statements. We are responsible for the direction, supervision and review of the audit work performed for purposes of the group audit. We remain solely responsible for our audit opinion.
+
+We communicate with the Manager regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide the Manager with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, actions taken to eliminate threats or safeguards applied.
+
+From the matters communicated with the Manager, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+The engagement partner on the audit resulting in this independent auditor’s report is Maurice Loh Seow Wee.
+
+[signature]
+
+**PricewaterhouseCoopers LLP**
+Public Accountants and Chartered Accountants
+
+Singapore, 26 February 2026
+
+<!-- PAGE 102 -->
+
+# Statements of Financial Position
+
+As at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th colspan="2">GROUP</th>
+<th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>2025</th>
+<th>2024</th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6"><strong>Non-current assets</strong></td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>4(i)</td>
+<td>6,133,400</td>
+<td>4,904,007</td>
+<td>495,000</td>
+<td>524,772</td>
+    </tr>
+    <tr>
+<td>Investment in subsidiaries</td>
+<td>5</td>
+<td>–</td>
+<td>–</td>
+<td>3,867,223</td>
+<td>3,015,294</td>
+    </tr>
+    <tr>
+<td>Loans to subsidiaries</td>
+<td>6</td>
+<td>–</td>
+<td>–</td>
+<td>219,332</td>
+<td>514,832</td>
+    </tr>
+    <tr>
+<td>Investment in a joint venture</td>
+<td>7</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Notes receivables</td>
+<td>8</td>
+<td>77,167</td>
+<td>155,293</td>
+<td>–</td>
+<td>75,237</td>
+    </tr>
+    <tr>
+<td>Trade and other receivables</td>
+<td>9</td>
+<td>13,472</td>
+<td>16,526</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>10</td>
+<td>7,874</td>
+<td>15,006</td>
+<td>4,064</td>
+<td>2,050</td>
+    </tr>
+    <tr>
+<td>Deposits</td>
+<td>11</td>
+<td>–</td>
+<td>619</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Deferred tax assets</td>
+<td>12</td>
+<td>248</td>
+<td>4,054</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>6,232,161</td>
+<td>5,095,505</td>
+<td>4,585,619</td>
+<td>4,132,185</td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Current assets</strong></td>
+    </tr>
+    <tr>
+<td>Loans to subsidiaries</td>
+<td>6</td>
+<td>–</td>
+<td>–</td>
+<td>41,399</td>
+<td>71,651</td>
+    </tr>
+    <tr>
+<td>Notes receivables</td>
+<td>8</td>
+<td>–</td>
+<td>3,836</td>
+<td>–</td>
+<td>3,836</td>
+    </tr>
+    <tr>
+<td>Trade and other receivables</td>
+<td>9</td>
+<td>204,207</td>
+<td>106,372</td>
+<td>39,248</td>
+<td>5,253</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>10</td>
+<td>427</td>
+<td>4,309</td>
+<td>219</td>
+<td>1,124</td>
+    </tr>
+    <tr>
+<td>Cash and cash equivalents</td>
+<td>13</td>
+<td>351,869</td>
+<td>316,691</td>
+<td>176,850</td>
+<td>119,648</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>556,503</td>
+<td>431,208</td>
+<td>257,716</td>
+<td>201,512</td>
+    </tr>
+    <tr>
+<td>Investment property held for sale</td>
+<td>4(ii)</td>
+<td>17,092</td>
+<td>16,520</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Asset held for sale</td>
+<td>4(iii)</td>
+<td>75,426</td>
+<td>–</td>
+<td>75,426</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>649,021</td>
+<td>447,728</td>
+<td>333,142</td>
+<td>201,512</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Total assets</strong></td>
+<td> </td>
+<td>6,881,182</td>
+<td>5,543,233</td>
+<td>4,918,761</td>
+<td>4,333,697</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Current liabilities</strong></td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>14</td>
+<td>–</td>
+<td>–</td>
+<td>195,273</td>
+<td>64,043</td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>15</td>
+<td>312,759</td>
+<td>87,331</td>
+<td>–</td>
+<td>8,372</td>
+    </tr>
+    <tr>
+<td>Trade and other payables</td>
+<td>16</td>
+<td>126,705</td>
+<td>287,355</td>
+<td>29,396</td>
+<td>95,529</td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>10</td>
+<td>1,815</td>
+<td>456</td>
+<td>1,115</td>
+<td>196</td>
+    </tr>
+    <tr>
+<td>Provision for taxation</td>
+<td>17</td>
+<td>17,130</td>
+<td>11,615</td>
+<td>1,514</td>
+<td>1,229</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>458,409</td>
+<td>386,757</td>
+<td>227,298</td>
+<td>169,369</td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Non-current liabilities</strong></td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>14</td>
+<td>–</td>
+<td>–</td>
+<td>1,428,680</td>
+<td>1,353,916</td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>15</td>
+<td>2,077,482</td>
+<td>1,628,137</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>10</td>
+<td>5,848</td>
+<td>8,664</td>
+<td>3,822</td>
+<td>6</td>
+    </tr>
+    <tr>
+<td>Deferred tax liabilities</td>
+<td>12</td>
+<td>109,327</td>
+<td>92,727</td>
+<td>17,596</td>
+<td>16,218</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>2,192,657</td>
+<td>1,729,528</td>
+<td>1,450,098</td>
+<td>1,370,140</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Total liabilities</strong></td>
+<td> </td>
+<td>2,651,066</td>
+<td>2,116,285</td>
+<td>1,677,396</td>
+<td>1,539,509</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Net assets</strong></td>
+<td> </td>
+<td>4,230,116</td>
+<td>3,426,948</td>
+<td>3,241,365</td>
+<td>2,794,188</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Represented by:</strong></td>
+    </tr>
+    <tr>
+<td>Unitholders’ funds</td>
+<td> </td>
+<td>4,168,455</td>
+<td>3,372,016</td>
+<td>3,241,365</td>
+<td>2,794,188</td>
+    </tr>
+    <tr>
+<td>Non-controlling interests</td>
+<td>26</td>
+<td>61,661</td>
+<td>54,932</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>4,230,116</td>
+<td>3,426,948</td>
+<td>3,241,365</td>
+<td>2,794,188</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Units in issue (’000)</strong></td>
+<td>19</td>
+<td>2,440,733</td>
+<td>2,209,075</td>
+<td>2,440,733</td>
+<td>2,209,075</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Net asset value per Unit ($)</strong></td>
+<td> </td>
+<td>1.71</td>
+<td>1.53</td>
+<td>1.33</td>
+<td>1.26</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 103 -->
+
+# Consolidated Statement of Profit or Loss
+
+Year ended 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Gross revenue</td>
+<td>20</td>
+<td>441,362</td>
+<td>310,287</td>
+    </tr>
+    <tr>
+<td>Property operating expenses</td>
+<td>21</td>
+<td>(58,102)</td>
+<td>(50,001)</td>
+    </tr>
+    <tr>
+<td><strong>Net property income</strong></td>
+<td> </td>
+<td><strong>383,260</strong></td>
+<td><strong>260,286</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td> </td>
+<td>15,311</td>
+<td>15,390</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>22</td>
+<td>(48,943)</td>
+<td>(51,509)</td>
+    </tr>
+    <tr>
+<td>Trustees’ fees</td>
+<td> </td>
+<td>(680)</td>
+<td>(562)</td>
+    </tr>
+    <tr>
+<td>Manager’s base fee</td>
+<td> </td>
+<td>(25,485)</td>
+<td>(18,841)</td>
+    </tr>
+    <tr>
+<td>Manager’s performance fee</td>
+<td> </td>
+<td>(12,107)</td>
+<td>(8,945)</td>
+    </tr>
+    <tr>
+<td>Audit fees</td>
+<td> </td>
+<td>(805)</td>
+<td>(646)</td>
+    </tr>
+    <tr>
+<td>Valuation fees</td>
+<td> </td>
+<td>(282)</td>
+<td>(280)</td>
+    </tr>
+    <tr>
+<td>Net gains on derivatives</td>
+<td> </td>
+<td>2,350</td>
+<td>5,885</td>
+    </tr>
+    <tr>
+<td>Other trust expenses</td>
+<td>24</td>
+<td>(12,373)</td>
+<td>(12,189)</td>
+    </tr>
+    <tr>
+<td><strong>Profit before divestment of an investment property and net change in fair value of investment properties</strong></td>
+<td> </td>
+<td><strong>300,246</strong></td>
+<td><strong>188,589</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Gain on divestment of an investment property</td>
+<td>4(i)</td>
+<td>10,825</td>
+<td>31,611</td>
+    </tr>
+    <tr>
+<td>Net change in fair value of investment properties</td>
+<td>23</td>
+<td>161,648</td>
+<td>120,610</td>
+    </tr>
+    <tr>
+<td><strong>Profit before tax</strong></td>
+<td> </td>
+<td><strong>472,719</strong></td>
+<td><strong>340,810</strong></td>
+    </tr>
+    <tr>
+<td>Tax expenses</td>
+<td>25</td>
+<td>(38,037)</td>
+<td>(26,832)</td>
+    </tr>
+    <tr>
+<td><strong>Profit after tax</strong></td>
+<td> </td>
+<td><strong>434,682</strong></td>
+<td><strong>313,978</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Profit attributable to:</strong></td>
+    </tr>
+    <tr>
+<td>Unitholders</td>
+<td> </td>
+<td>427,820</td>
+<td>300,669</td>
+    </tr>
+    <tr>
+<td>Non-controlling interests</td>
+<td>26</td>
+<td>6,862</td>
+<td>13,309</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td><strong>434,682</strong></td>
+<td><strong>313,978</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Earnings per Unit (cents)</strong></td>
+    </tr>
+    <tr>
+<td>– Basic and diluted</td>
+<td>27</td>
+<td>18.71</td>
+<td>17.09</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>– Basic and diluted (excluding net change in fair value of investment properties and their related deferred tax impact)</td>
+<td>27</td>
+<td>11.73</td>
+<td>11.00</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 104 -->
+
+# Consolidated Statement of Comprehensive Income
+
+Year ended 31 December 2025
+
+**GROUP**
+
+<table>
+  <thead>
+    <tr>
+      <th>Note</th>
+      <th>2025</th>
+      <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit after tax</td>
+      <td>434,682</td>
+      <td>313,978</td>
+    </tr>
+    <tr>
+      <td>Other comprehensive loss:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Movement in hedging reserve</td>
+      <td>(8,238)</td>
+      <td>(11,487)</td>
+    </tr>
+    <tr>
+      <td>Realisation of net currency translation differences upon reduction of share capital of foreign operations –</td>
+      <td></td>
+      <td>7,581</td>
+    </tr>
+    <tr>
+      <td>Foreign currency translation movement</td>
+      <td>6,517</td>
+      <td>(8,610)</td>
+    </tr>
+    <tr>
+      <td>Total other comprehensive loss</td>
+      <td>(1,721)</td>
+      <td>(12,516)</td>
+    </tr>
+    <tr>
+      <td>Total comprehensive income</td>
+      <td>432,961</td>
+      <td>301,462</td>
+    </tr>
+    <tr>
+      <td>Attributable to:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Unitholders</td>
+      <td>426,294</td>
+      <td>288,143</td>
+    </tr>
+    <tr>
+      <td>Non-controlling interests</td>
+      <td>6,667</td>
+      <td>13,319</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>432,961</td>
+      <td>301,462</td>
+    </tr>
+    <tr>
+      <td>ANNUAL REPORT 2025 109</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Note</th>
+      <th>2025</th>
+      <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit after tax</td>
+      <td>434,682</td>
+      <td>313,978</td>
+    </tr>
+    <tr>
+      <td>Other comprehensive loss:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Movement in hedging reserve</td>
+      <td>(8,238)</td>
+      <td>(11,487)</td>
+    </tr>
+    <tr>
+      <td>Realisation of net currency translation differences upon reduction of share capital of foreign operations –</td>
+      <td></td>
+      <td>7,581</td>
+    </tr>
+    <tr>
+      <td>Foreign currency translation movement</td>
+      <td>6,517</td>
+      <td>(8,610)</td>
+    </tr>
+    <tr>
+      <td>Total other comprehensive loss</td>
+      <td>(1,721)</td>
+      <td>(12,516)</td>
+    </tr>
+    <tr>
+      <td>Total comprehensive income</td>
+      <td>432,961</td>
+      <td>301,462</td>
+    </tr>
+    <tr>
+      <td>Attributable to:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Unitholders</td>
+      <td>426,294</td>
+      <td>288,143</td>
+    </tr>
+    <tr>
+      <td>Non-controlling interests</td>
+      <td>6,667</td>
+      <td>13,319</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>432,961</td>
+      <td>301,462</td>
+    </tr>
+    <tr>
+      <td>ANNUAL REPORT 2025 109</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 105 -->
+
+# Statement of Movements in Unitholders’ Funds
+
+Year ended 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th>Units in Issue</th>
+<th>Foreign Currency Translation Reserve</th>
+<th>Hedging Reserve</th>
+<th>Other Reserve</th>
+<th>Accumulated Profits</th>
+<th>Unitholders’ Funds</th>
+<th>Non-Controlling Interests</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="10"><strong>GROUP (2025)</strong></td>
+    </tr>
+    <tr>
+<td>At 1 January 2025</td>
+<td> </td>
+<td>2,944,483</td>
+<td>(58,791)</td>
+<td>26,900</td>
+<td>(95,751)</td>
+<td>555,175</td>
+<td>3,372,016</td>
+<td>54,932</td>
+<td>3,426,948</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Operations</strong></td>
+    </tr>
+    <tr>
+<td>Profit after tax for the year</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>427,820</td>
+<td>427,820</td>
+<td>6,862</td>
+<td>434,682</td>
+    </tr>
+    <tr>
+<td><strong>Net increase in net assets resulting from operations</strong></td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>427,820</td>
+<td>427,820</td>
+<td>6,862</td>
+<td>434,682</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Other comprehensive loss</strong></td>
+    </tr>
+    <tr>
+<td>Movement in hedging reserve</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>(8,238)</td>
+<td>–</td>
+<td>–</td>
+<td>(8,238)</td>
+<td>–</td>
+<td>(8,238)</td>
+    </tr>
+    <tr>
+<td>Foreign currency translation movement</td>
+<td> </td>
+<td>–</td>
+<td>6,712</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>6,712</td>
+<td>(195)</td>
+<td>6,517</td>
+    </tr>
+    <tr>
+<td><strong>Net decrease in other comprehensive income</strong></td>
+<td> </td>
+<td>–</td>
+<td>6,712</td>
+<td>(8,238)</td>
+<td>–</td>
+<td>–</td>
+<td>(1,526)</td>
+<td>(195)</td>
+<td>(1,721)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Unitholders’ transactions</strong></td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ contribution</td>
+<td>19</td>
+<td>484,707</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>484,707</td>
+<td>–</td>
+<td>484,707</td>
+    </tr>
+    <tr>
+<td>Distributions to Unitholders</td>
+<td>19</td>
+<td>(29,594)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(103,937)</td>
+<td>(133,531)</td>
+<td>–</td>
+<td>(133,531)</td>
+    </tr>
+    <tr>
+<td>Payment of management fees in Units</td>
+<td>19</td>
+<td>23,268</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>23,268</td>
+<td>–</td>
+<td>23,268</td>
+    </tr>
+    <tr>
+<td><strong>Net increase in net assets resulting from Unitholders’ transactions</strong></td>
+<td> </td>
+<td>478,381</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(103,937)</td>
+<td>374,444</td>
+<td>–</td>
+<td>374,444</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Acquisition of an interest in a subsidiary</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(4,299)</td>
+<td>–</td>
+<td>(4,299)</td>
+<td>(48)</td>
+<td>(4,347)</td>
+    </tr>
+    <tr>
+<td>Capital contribution of non-controlling interests</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>4,666</td>
+<td>4,666</td>
+    </tr>
+    <tr>
+<td>Dividends paid to non-controlling interests</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(4,556)</td>
+<td>(4,556)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>At 31 December 2025</strong></td>
+<td> </td>
+<td><strong>3,422,864</strong></td>
+<td><strong>(52,079)</strong></td>
+<td><strong>18,662</strong></td>
+<td><strong>(100,050)</strong></td>
+<td><strong>879,058</strong></td>
+<td><strong>4,168,455</strong></td>
+<td><strong>61,661</strong></td>
+<td><strong>4,230,116</strong></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th>Units in Issue</th>
+<th>Foreign Currency Translation Reserve</th>
+<th>Hedging Reserve</th>
+<th>Other Reserve</th>
+<th>Accumulated Profits</th>
+<th>Unitholders’ Funds</th>
+<th>Non-Controlling Interests</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="10"><strong>GROUP (2024)</strong></td>
+    </tr>
+    <tr>
+<td>At 1 January 2024</td>
+<td> </td>
+<td>1,991,446</td>
+<td>(57,752)</td>
+<td>38,387</td>
+<td>(95,751)</td>
+<td>434,650</td>
+<td>2,310,980</td>
+<td>42,981</td>
+<td>2,353,961</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Operations</strong></td>
+    </tr>
+    <tr>
+<td>Profit after tax for the year</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>300,669</td>
+<td>300,669</td>
+<td>13,309</td>
+<td>313,978</td>
+    </tr>
+    <tr>
+<td><strong>Net increase in net assets resulting from operations</strong></td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>300,669</td>
+<td>300,669</td>
+<td>13,309</td>
+<td>313,978</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Other comprehensive loss</strong></td>
+    </tr>
+    <tr>
+<td>Movement in hedging reserve</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>(11,487)</td>
+<td>–</td>
+<td>–</td>
+<td>(11,487)</td>
+<td>–</td>
+<td>(11,487)</td>
+    </tr>
+    <tr>
+<td>Realisation of net currency translation differences upon reduction of share capital of foreign operations</td>
+<td> </td>
+<td>–</td>
+<td>7,581</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>7,581</td>
+<td>–</td>
+<td>7,581</td>
+    </tr>
+    <tr>
+<td>Foreign currency translation movement</td>
+<td> </td>
+<td>–</td>
+<td>(8,620)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(8,620)</td>
+<td>10</td>
+<td>(8,610)</td>
+    </tr>
+    <tr>
+<td><strong>Net decrease in other comprehensive income</strong></td>
+<td> </td>
+<td>–</td>
+<td>(1,039)</td>
+<td>(11,487)</td>
+<td>–</td>
+<td>–</td>
+<td>(12,526)</td>
+<td>10</td>
+<td>(12,516)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="10"><strong>Unitholders’ transactions</strong></td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ contribution</td>
+<td>19</td>
+<td>988,263</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>988,263</td>
+<td>–</td>
+<td>988,263</td>
+    </tr>
+    <tr>
+<td>Distributions to Unitholders</td>
+<td>19</td>
+<td>(43,279)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(180,144)</td>
+<td>(223,423)</td>
+<td>–</td>
+<td>(223,423)</td>
+    </tr>
+    <tr>
+<td>Payment of management fees in Units</td>
+<td>19</td>
+<td>8,053</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>8,053</td>
+<td>–</td>
+<td>8,053</td>
+    </tr>
+    <tr>
+<td><strong>Net increase in net assets resulting from Unitholders’ transactions</strong></td>
+<td> </td>
+<td>953,037</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(180,144)</td>
+<td>772,893</td>
+<td>–</td>
+<td>772,893</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Acquisition of an interest in a subsidiary</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(56)</td>
+<td>(56)</td>
+    </tr>
+    <tr>
+<td>Capital contribution of non-controlling interests</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>1,349</td>
+<td>1,349</td>
+    </tr>
+    <tr>
+<td>Dividends paid to non-controlling interests</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(2,661)</td>
+<td>(2,661)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>At 31 December 2024</strong></td>
+<td> </td>
+<td><strong>2,944,483</strong></td>
+<td><strong>(58,791)</strong></td>
+<td><strong>26,900</strong></td>
+<td><strong>(95,751)</strong></td>
+<td><strong>555,175</strong></td>
+<td><strong>3,372,016</strong></td>
+<td><strong>54,932</strong></td>
+<td><strong>3,426,948</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 106 -->
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>Units<br/>in Issue<br/>$'000</th>
+<th>Other<br/>Reserve<br/>$'000</th>
+<th>Accumulated<br/>Profits/<br/>(Losses)<br/>$'000</th>
+<th>Unitholders'<br/>Funds<br/>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6">TRUST (2025)</td>
+    </tr>
+    <tr>
+<td>At 1 January 2025</td>
+<td> </td>
+<td>2,944,483</td>
+<td>(95,751)</td>
+<td>(54,544)</td>
+<td>2,794,188</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6">Operations</td>
+    </tr>
+    <tr>
+<td>Profit after tax for the year</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>72,733</td>
+<td>72,733</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from operations</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>72,733</td>
+<td>72,733</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6">Unitholders’ transactions</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ contribution</td>
+<td>19</td>
+<td>484,707</td>
+<td>–</td>
+<td>–</td>
+<td>484,707</td>
+    </tr>
+    <tr>
+<td>Distribution to Unitholders</td>
+<td>19</td>
+<td>(29,594)</td>
+<td>–</td>
+<td>(103,937)</td>
+<td>(133,531)</td>
+    </tr>
+    <tr>
+<td>Payment of management fees in Units</td>
+<td>19</td>
+<td>23,268</td>
+<td>–</td>
+<td>–</td>
+<td>23,268</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ transactions</td>
+<td> </td>
+<td>478,381</td>
+<td>–</td>
+<td>(103,937)</td>
+<td>374,444</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>At 31 December 2025</td>
+<td> </td>
+<td>3,422,864</td>
+<td>(95,751)</td>
+<td>(85,748)</td>
+<td>3,241,365</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>Units<br/>in Issue<br/>$'000</th>
+<th>Other<br/>Reserve<br/>$'000</th>
+<th>Accumulated<br/>Profits/<br/>(Losses)<br/>$'000</th>
+<th>Unitholders'<br/>Funds<br/>$'000</th>
+    </tr>
+    <tr>
+<td colspan="6">TRUST (2024)</td>
+    </tr>
+    <tr>
+<td>At 1 January 2024</td>
+<td> </td>
+<td>1,991,446</td>
+<td>(95,751)</td>
+<td>(50,326)</td>
+<td>1,845,369</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6">Operations</td>
+    </tr>
+    <tr>
+<td>Profit after tax for the year</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>175,926</td>
+<td>175,926</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from operations</td>
+<td> </td>
+<td>–</td>
+<td>–</td>
+<td>175,926</td>
+<td>175,926</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6">Unitholders’ transactions</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ contribution</td>
+<td>19</td>
+<td>988,263</td>
+<td>–</td>
+<td>–</td>
+<td>988,263</td>
+    </tr>
+    <tr>
+<td>Distribution to Unitholders</td>
+<td>19</td>
+<td>(43,279)</td>
+<td>–</td>
+<td>(180,144)</td>
+<td>(223,423)</td>
+    </tr>
+    <tr>
+<td>Payment of management fees in Units</td>
+<td>19</td>
+<td>8,053</td>
+<td>–</td>
+<td>–</td>
+<td>8,053</td>
+    </tr>
+    <tr>
+<td>Net increase in net assets resulting from Unitholders’ transactions</td>
+<td> </td>
+<td>953,037</td>
+<td>–</td>
+<td>(180,144)</td>
+<td>772,893</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>At 31 December 2024</td>
+<td> </td>
+<td>2,944,483</td>
+<td>(95,751)</td>
+<td>(54,544)</td>
+<td>2,794,188</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 107 -->
+
+# Consolidated Statement of Cash Flows
+
+Year ended 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+      <th>Note</th>
+      <th>2025</th>
+      <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash flows from operating activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit after tax</td>
+      <td>434,682</td>
+      <td>313,978</td>
+    </tr>
+    <tr>
+      <td>Adjustments for:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tax expenses</td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>Finance income</td>
+      <td>(15,311)</td>
+      <td>(15,390)</td>
+    </tr>
+    <tr>
+      <td>Finance costs 22</td>
+      <td>48,943</td>
+      <td>51,509</td>
+    </tr>
+    <tr>
+      <td>Gain on divestment of an investment property 4(i)</td>
+      <td>(10,825)</td>
+      <td>(31,611)</td>
+    </tr>
+    <tr>
+      <td>Loss allowance for doubtful receivables</td>
+      <td>28,275</td>
+      <td>26,949</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of financial asset through profit or loss –</td>
+      <td></td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of derivatives</td>
+      <td>1,667</td>
+      <td>548</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of investment properties 23</td>
+      <td>(161,648)</td>
+      <td>(120,610)</td>
+    </tr>
+    <tr>
+      <td>Management fees paid and payable in Units</td>
+      <td>9,876</td>
+      <td>4,996</td>
+    </tr>
+    <tr>
+      <td>Unrealised currency translation differences</td>
+      <td>1,168</td>
+      <td>1,428</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>374,864</td>
+      <td>258,805</td>
+    </tr>
+    <tr>
+      <td>Changes in working capital:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trade and other receivables</td>
+      <td>(56,329)</td>
+      <td>(24,977)</td>
+    </tr>
+    <tr>
+      <td>Trade and other payables</td>
+      <td>(41,632)</td>
+      <td>13,065</td>
+    </tr>
+    <tr>
+      <td>Cash generated from operations</td>
+      <td>276,903</td>
+      <td>246,893</td>
+    </tr>
+    <tr>
+      <td>Net tax paid 17</td>
+      <td>(14,074)</td>
+      <td>(23,158)</td>
+    </tr>
+    <tr>
+      <td>Net cash from operating activities</td>
+      <td>262,829</td>
+      <td>223,735</td>
+    </tr>
+    <tr>
+      <td>Cash flows from investing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Acquisitions of interests in investment properties (Note A)</td>
+      <td>(1,165,437)</td>
+      <td>(1,097,382)</td>
+    </tr>
+    <tr>
+      <td>Additions to investment properties</td>
+      <td>(3,301)</td>
+      <td>(22,509)</td>
+    </tr>
+    <tr>
+      <td>Net proceeds from divestment of investment property and investment in notes (Note B)</td>
+      <td>65,475</td>
+      <td>75,110</td>
+    </tr>
+    <tr>
+      <td>Capital expenditures on investment properties</td>
+      <td>(38,923)</td>
+      <td>(35,409)</td>
+    </tr>
+    <tr>
+      <td>Coupon received from notes receivables</td>
+      <td>12,747</td>
+      <td>10,382</td>
+    </tr>
+    <tr>
+      <td>Receipt of notes receivables 8</td>
+      <td>3,836</td>
+      <td>3,487</td>
+    </tr>
+    <tr>
+      <td>Net cash used in investing activities</td>
+      <td>(1,125,603)</td>
+      <td>(1,066,321)</td>
+    </tr>
+    <tr>
+      <td>Cash flows from financing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Proceeds from issuance of Units 19</td>
+      <td>489,460</td>
+      <td>1,001,280</td>
+    </tr>
+    <tr>
+      <td>Proceeds from borrowings</td>
+      <td>1,284,055</td>
+      <td>692,801</td>
+    </tr>
+    <tr>
+      <td>Acquisition of additional interest in a subsidiary –</td>
+      <td>(6,682)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Note proceeds from a non-controlling interest 16 –</td>
+      <td></td>
+      <td>2,335</td>
+    </tr>
+    <tr>
+      <td>Capital contribution from a non-controlling interest</td>
+      <td>4,666</td>
+      <td>1,354</td>
+    </tr>
+    <tr>
+      <td>Payment of transaction costs relating to fund-raising</td>
+      <td>(4,200)</td>
+      <td>(10,204)</td>
+    </tr>
+    <tr>
+      <td>Payment of financing transaction costs</td>
+      <td>(4,585)</td>
+      <td>(1,883)</td>
+    </tr>
+    <tr>
+      <td>Repayment of borrowings</td>
+      <td>(595,066)</td>
+      <td>(474,788)</td>
+    </tr>
+    <tr>
+      <td>Finance costs paid</td>
+      <td>(45,614)</td>
+      <td>(50,533)</td>
+    </tr>
+    <tr>
+      <td>Distributions paid to Unitholders</td>
+      <td>(203,994)</td>
+      <td>(152,960)</td>
+    </tr>
+    <tr>
+      <td>Dividends paid to non-controlling interests</td>
+      <td>(4,556)</td>
+      <td>(2,661)</td>
+    </tr>
+    <tr>
+      <td>Payment of lease liabilities –</td>
+      <td>(27,024)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Net cash generated from financing activities</td>
+      <td>886,460</td>
+      <td>1,004,741</td>
+    </tr>
+    <tr>
+      <td>Net increase in cash and cash equivalents</td>
+      <td>23,686</td>
+      <td>162,155</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at beginning of the year</td>
+      <td>311,218</td>
+      <td>149,733</td>
+    </tr>
+    <tr>
+      <td>Effects of exchange rate fluctuations on cash held</td>
+      <td>1,642</td>
+      <td>(670)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at end of the year 13</td>
+      <td>336,546</td>
+      <td>311,218</td>
+    </tr>
+    <tr>
+      <td>112 KEPPEL DC REIT</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Note</th>
+      <th>2025</th>
+      <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash flows from operating activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit after tax</td>
+      <td>434,682</td>
+      <td>313,978</td>
+    </tr>
+    <tr>
+      <td>Adjustments for:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tax expenses</td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>Finance income</td>
+      <td>(15,311)</td>
+      <td>(15,390)</td>
+    </tr>
+    <tr>
+      <td>Finance costs 22</td>
+      <td>48,943</td>
+      <td>51,509</td>
+    </tr>
+    <tr>
+      <td>Gain on divestment of an investment property 4(i)</td>
+      <td>(10,825)</td>
+      <td>(31,611)</td>
+    </tr>
+    <tr>
+      <td>Loss allowance for doubtful receivables</td>
+      <td>28,275</td>
+      <td>26,949</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of financial asset through profit or loss –</td>
+      <td></td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of derivatives</td>
+      <td>1,667</td>
+      <td>548</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of investment properties 23</td>
+      <td>(161,648)</td>
+      <td>(120,610)</td>
+    </tr>
+    <tr>
+      <td>Management fees paid and payable in Units</td>
+      <td>9,876</td>
+      <td>4,996</td>
+    </tr>
+    <tr>
+      <td>Unrealised currency translation differences</td>
+      <td>1,168</td>
+      <td>1,428</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>374,864</td>
+      <td>258,805</td>
+    </tr>
+    <tr>
+      <td>Changes in working capital:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Trade and other receivables</td>
+      <td>(56,329)</td>
+      <td>(24,977)</td>
+    </tr>
+    <tr>
+      <td>Trade and other payables</td>
+      <td>(41,632)</td>
+      <td>13,065</td>
+    </tr>
+    <tr>
+      <td>Cash generated from operations</td>
+      <td>276,903</td>
+      <td>246,893</td>
+    </tr>
+    <tr>
+      <td>Net tax paid 17</td>
+      <td>(14,074)</td>
+      <td>(23,158)</td>
+    </tr>
+    <tr>
+      <td>Net cash from operating activities</td>
+      <td>262,829</td>
+      <td>223,735</td>
+    </tr>
+    <tr>
+      <td>Cash flows from investing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Acquisitions of interests in investment properties (Note A)</td>
+      <td>(1,165,437)</td>
+      <td>(1,097,382)</td>
+    </tr>
+    <tr>
+      <td>Additions to investment properties</td>
+      <td>(3,301)</td>
+      <td>(22,509)</td>
+    </tr>
+    <tr>
+      <td>Net proceeds from divestment of investment property and investment in notes (Note B)</td>
+      <td>65,475</td>
+      <td>75,110</td>
+    </tr>
+    <tr>
+      <td>Capital expenditures on investment properties</td>
+      <td>(38,923)</td>
+      <td>(35,409)</td>
+    </tr>
+    <tr>
+      <td>Coupon received from notes receivables</td>
+      <td>12,747</td>
+      <td>10,382</td>
+    </tr>
+    <tr>
+      <td>Receipt of notes receivables 8</td>
+      <td>3,836</td>
+      <td>3,487</td>
+    </tr>
+    <tr>
+      <td>Net cash used in investing activities</td>
+      <td>(1,125,603)</td>
+      <td>(1,066,321)</td>
+    </tr>
+    <tr>
+      <td>Cash flows from financing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Proceeds from issuance of Units 19</td>
+      <td>489,460</td>
+      <td>1,001,280</td>
+    </tr>
+    <tr>
+      <td>Proceeds from borrowings</td>
+      <td>1,284,055</td>
+      <td>692,801</td>
+    </tr>
+    <tr>
+      <td>Acquisition of additional interest in a subsidiary –</td>
+      <td>(6,682)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Note proceeds from a non-controlling interest 16 –</td>
+      <td></td>
+      <td>2,335</td>
+    </tr>
+    <tr>
+      <td>Capital contribution from a non-controlling interest</td>
+      <td>4,666</td>
+      <td>1,354</td>
+    </tr>
+    <tr>
+      <td>Payment of transaction costs relating to fund-raising</td>
+      <td>(4,200)</td>
+      <td>(10,204)</td>
+    </tr>
+    <tr>
+      <td>Payment of financing transaction costs</td>
+      <td>(4,585)</td>
+      <td>(1,883)</td>
+    </tr>
+    <tr>
+      <td>Repayment of borrowings</td>
+      <td>(595,066)</td>
+      <td>(474,788)</td>
+    </tr>
+    <tr>
+      <td>Finance costs paid</td>
+      <td>(45,614)</td>
+      <td>(50,533)</td>
+    </tr>
+    <tr>
+      <td>Distributions paid to Unitholders</td>
+      <td>(203,994)</td>
+      <td>(152,960)</td>
+    </tr>
+    <tr>
+      <td>Dividends paid to non-controlling interests</td>
+      <td>(4,556)</td>
+      <td>(2,661)</td>
+    </tr>
+    <tr>
+      <td>Payment of lease liabilities –</td>
+      <td>(27,024)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Net cash generated from financing activities</td>
+      <td>886,460</td>
+      <td>1,004,741</td>
+    </tr>
+    <tr>
+      <td>Net increase in cash and cash equivalents</td>
+      <td>23,686</td>
+      <td>162,155</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at beginning of the year</td>
+      <td>311,218</td>
+      <td>149,733</td>
+    </tr>
+    <tr>
+      <td>Effects of exchange rate fluctuations on cash held</td>
+      <td>1,642</td>
+      <td>(670)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at end of the year 13</td>
+      <td>336,546</td>
+      <td>311,218</td>
+    </tr>
+    <tr>
+      <td>112 KEPPEL DC REIT</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 108 -->
+
+<u>Note A – Acquisitions of interests in investment properties</u>
+
+In November 2025, Keppel DC REIT completed the acquisition of 98.47% effective interest in Tokyo DC 3, located in Inzai City, Japan.
+
+In December 2025, Keppel DC REIT paid a lease extension consideration of $350 million to the vendors of KDC SGP 7 and KDC SGP 8 for a 10-year land tenure lease extension.
+
+In 2024, Keppel DC REIT completed the acquisition of 98.47% effective interest in Tokyo DC 1 and 99.49% economic interest in Memphis 1 Pte. Ltd., a Singapore-incorporated company, which in turn holds KDC SGP 7 and KDC SGP 8.
+
+<u>Note B – Net proceeds from divestment of investment property and investment in notes</u>
+
+In March 2025, Keppel DC REIT completed the divestment of Kelsterbach DC. The net divestment proceeds were used to repay bank borrowings.
+
+In June 2024, Keppel DC REIT completed the divestment of Intellicentre Campus and subscribed for an Australia Data Centre Note (“AU DC Note”). As part of the transaction, the subscription for the AU DC Note was net settled by using part of these divestment proceeds.
+
+**RECONCILIATION OF LIABILITIES ARISING FROM FINANCING ACTIVITIES**
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="3">Non-cash changes</th>
+<th> </th>
+    </tr>
+    <tr>
+<th> </th>
+<th>As at<br/>1 January<br/>$’000</th>
+<th>Net<br/>cash flows<br/>$’000</th>
+<th>Addition<br/>$’000</th>
+<th>Interest<br/>expense<br/>$’000</th>
+<th>Currency<br/>translation<br/>differences<br/>$’000</th>
+<th>As at<br/>31 December<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="7"><strong>2025</strong></td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>1,680,265</td>
+<td>684,404</td>
+<td>–</td>
+<td>1,452</td>
+<td>2,781</td>
+<td>2,368,902</td>
+    </tr>
+    <tr>
+<td>Lease liabilities</td>
+<td>35,203</td>
+<td>(27,024)</td>
+<td>12,841</td>
+<td>319</td>
+<td>–</td>
+<td>21,339</td>
+    </tr>
+    <tr>
+<td>Interest payable</td>
+<td>3,954</td>
+<td>(45,614)</td>
+<td>–</td>
+<td>47,172</td>
+<td>(119)</td>
+<td>5,393</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>1,719,422</td>
+<td>611,766</td>
+<td>12,841</td>
+<td>48,943</td>
+<td>2,662</td>
+<td>2,395,634</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="7"><strong>2024</strong></td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>1,467,788</td>
+<td>216,130</td>
+<td>–</td>
+<td>1,128</td>
+<td>(4,781)</td>
+<td>1,680,265</td>
+    </tr>
+    <tr>
+<td>Lease liabilities</td>
+<td>12,948</td>
+<td>–</td>
+<td>21,925</td>
+<td>330</td>
+<td>–</td>
+<td>35,203</td>
+    </tr>
+    <tr>
+<td>Interest payable</td>
+<td>4,503</td>
+<td>(50,533)</td>
+<td>–</td>
+<td>50,051</td>
+<td>(67)</td>
+<td>3,954</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>1,485,239</td>
+<td>165,597</td>
+<td>21,925</td>
+<td>51,509</td>
+<td>(4,848)</td>
+<td>1,719,422</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 109 -->
+
+# Distribution Statement
+
+Year ended 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td><strong>Amount available for distribution to Unitholders at beginning of the year</strong></td>
+<td>64,842</td>
+<td>115,532</td>
+    </tr>
+    <tr>
+<td>Profit after tax attributable to Unitholders after tax</td>
+<td>427,820</td>
+<td>300,669</td>
+    </tr>
+    <tr>
+<td>Net tax and other adjustments (Note A)</td>
+<td>(159,769)</td>
+<td>(127,936)</td>
+    </tr>
+    <tr>
+<td><strong>Amount available for distribution to Unitholders</strong></td>
+<td>332,893</td>
+<td>288,265</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3"><strong>Distributions to Unitholders:</strong></td>
+    </tr>
+    <tr>
+<td>Distribution of 4.332 cents per Unit for the period from 1/7/2023 to 31/12/2023</td>
+<td>–</td>
+<td>(74,573)</td>
+    </tr>
+    <tr>
+<td>Distribution of 4.549 cents per Unit for the period from 1/1/2024 to 30/6/2024</td>
+<td>–</td>
+<td>(78,388)</td>
+    </tr>
+    <tr>
+<td>Distribution of 4.083 cents per Unit for the period from 1/7/2024 to 27/11/2024</td>
+<td>–</td>
+<td>(70,462)</td>
+    </tr>
+    <tr>
+<td>Distribution of 0.819 cents per Unit for the period from 28/11/2024 to 31/12/2024</td>
+<td>(18,091)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 5.133 cents per Unit for the period from 1/1/2025 to 30/6/2025</td>
+<td>(113,729)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 4.209 cents per Unit for the period from 1/1/2025 to 30/6/2025</td>
+<td>(1,711)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(133,531)</td>
+<td>(223,423)</td>
+    </tr>
+    <tr>
+<td><strong>Amount available for distribution to Unitholders at end of the year</strong></td>
+<td>199,362</td>
+<td>64,842</td>
+    </tr>
+  </tbody>
+</table>
+
+## Note A:
+
+Net tax and other adjustments (net of non-controlling interests) comprise:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Trustee’s fees</td>
+        <td>571</td>
+        <td>470</td>
+    </tr>
+    <tr>
+        <td>Rental income adjustment on a straight-line basis</td>
+        <td>(4,663)</td>
+        <td>1,471</td>
+    </tr>
+    <tr>
+        <td>Amortisation of capitalised transaction costs</td>
+        <td>1,449</td>
+        <td>1,127</td>
+    </tr>
+    <tr>
+        <td>Net change in fair value of investment properties</td>
+        <td>(159,887)</td>
+        <td>(111,687)</td>
+    </tr>
+    <tr>
+        <td>Foreign exchange (gains)/losses</td>
+        <td>(394)</td>
+        <td>673</td>
+    </tr>
+    <tr>
+        <td>Deferred tax expenses/(credit)</td>
+        <td>17,955</td>
+        <td>(2,189)</td>
+    </tr>
+    <tr>
+        <td>Net change in fair value of financial assets at FVTPL</td>
+        <td>–</td>
+        <td>176</td>
+    </tr>
+    <tr>
+        <td>Management fees paid and/or payable in units</td>
+        <td>9,876</td>
+        <td>4,996</td>
+    </tr>
+    <tr>
+        <td>Income support (net of tax)</td>
+        <td>7,221</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Gain on divestment of investment property (net of withholding tax)¹</td>
+        <td>(10,825)</td>
+        <td>(17,028)</td>
+    </tr>
+    <tr>
+        <td>Other net adjustments²</td>
+        <td>(21,072)</td>
+        <td>(5,945)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(159,769)</td>
+        <td>(127,936)</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ These relate to adjustments of accounting gains on divestments for Kelsterbach DC (FY 2025) and Intellicentre Campus (FY 2024).
+
+² Included in other net adjustments largely comprise timing differences in the dividends and distributions by subsidiaries.
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 110 -->
+
+# Portfolio Statement
+
+As at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+        <th>Description of investment properties</th>
+        <th>Location</th>
+        <th>Land tenure</th>
+        <th>Term of lease¹</th>
+        <th>Remaining term of lease¹</th>
+        <th colspan="2">Carrying amount at fair value</th>
+        <th colspan="2">Percentage of total net assets</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>(Years)</th>
+        <th>(Years)</th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="9"><strong>Fully-fitted (Single Tenant)</strong></td>
+    </tr>
+    <tr>
+        <td>DC1</td>
+        <td>Woodlands,<br/>Singapore</td>
+        <td>Leasehold</td>
+        <td>70</td>
+        <td>18.6</td>
+        <td>290,700</td>
+        <td>290,700</td>
+        <td>6.9</td>
+        <td>8.5</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 1<br/>(“Guangdong DC 1”)</td>
+        <td>Jiangmen Guangdong Province, People’s Republic of China</td>
+        <td>Leasehold</td>
+        <td>50</td>
+        <td>41.0</td>
+        <td>109,247</td>
+        <td>130,760</td>
+        <td>2.6</td>
+        <td>3.8</td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 2<br/>(“Guangdong DC 2”)</td>
+        <td>Jiangmen Guangdong Province, People’s Republic of China</td>
+        <td>Leasehold</td>
+        <td>50</td>
+        <td>41.0</td>
+        <td>108,880</td>
+        <td>130,760</td>
+        <td>2.6</td>
+        <td>3.8</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 3<br/>(“Tokyo DC 3”)</td>
+        <td>Tokyo,<br/>Japan</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>689,149</td>
+        <td>–</td>
+        <td>16.3</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>maincubes Data Centre<br/>(“maincubes DC”)</td>
+        <td>Offenbach am Main,<br/>Germany</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>179,716</td>
+        <td>167,662</td>
+        <td>4.2</td>
+        <td>4.9</td>
+    </tr>
+    <tr>
+        <td>Almere Data Centre<br/>(“Almere DC”)</td>
+        <td>Almere,<br/>The Netherlands</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>171,294</td>
+        <td>155,525</td>
+        <td>4.0</td>
+        <td>4.5</td>
+    </tr>
+    <tr>
+        <td>GV7 Data Centre<br/>(“GV7 DC”)</td>
+        <td>Greenwich, London,<br/>United Kingdom</td>
+        <td>Leasehold</td>
+        <td>199</td>
+        <td>157.7</td>
+        <td>28,832</td>
+        <td>37,470</td>
+        <td>0.7</td>
+        <td>1.1</td>
+    </tr>
+    <tr>
+        <td colspan="9"><strong>Shell and core</strong></td>
+    </tr>
+    <tr>
+        <td>Guangdong Data Centre 3<br/>(“Guangdong DC 3”)</td>
+        <td>Jiangmen Guangdong Province, People’s Republic of China</td>
+        <td>Leasehold</td>
+        <td>50</td>
+        <td>41.0</td>
+        <td>11,181</td>
+        <td>12,030</td>
+        <td>0.3</td>
+        <td>0.3</td>
+    </tr>
+    <tr>
+        <td>Tokyo Data Centre 1<br/>(“Tokyo DC 1”)</td>
+        <td>Tokyo,<br/>Japan</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>199,272</td>
+        <td>213,960</td>
+        <td>4.7</td>
+        <td>6.2</td>
+    </tr>
+    <tr>
+        <td>Kelsterbach Data Centre<br/>(“Kelsterbach DC”)²</td>
+        <td>Kelsterbach,<br/>Germany</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>–</td>
+        <td>55,041</td>
+        <td>–</td>
+        <td>1.6</td>
+    </tr>
+    <tr>
+        <td>Milan Data Centre<br/>(“Milan DC”)</td>
+        <td>Milan,<br/>Italy</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>60,758</td>
+        <td>57,299</td>
+        <td>1.4</td>
+        <td>1.7</td>
+    </tr>
+    <tr>
+        <td>Amsterdam Data Centre<br/>(“Amsterdam DC”)</td>
+        <td>Schiphol-Rijk,<br/>The Netherlands</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>43,914</td>
+        <td>40,928</td>
+        <td>1.0</td>
+        <td>1.2</td>
+    </tr>
+    <tr>
+        <td>Eindhoven Campus<br/>(“Eindhoven DC”)</td>
+        <td>Eindhoven,<br/>The Netherlands</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>40,305</td>
+        <td>37,964</td>
+        <td>1.0</td>
+        <td>1.1</td>
+    </tr>
+    <tr>
+        <td>Cardiff Data Centre<br/>(“Cardiff DC”)</td>
+        <td>Cardiff,<br/>United Kingdom</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>22,825</td>
+        <td>26,570</td>
+        <td>0.5</td>
+        <td>0.8</td>
+    </tr>
+    <tr>
+        <td>London Data Centre<br/>(“London DC”)</td>
+        <td>London,<br/>United Kingdom</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>Freehold</td>
+        <td>83,751</td>
+        <td>82,605</td>
+        <td>2.0</td>
+        <td>2.4</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 111 -->
+
+# Portfolio Statement
+
+As at 31 December 2025
+
+<table>
+  <thead>
+    <tr>
+<th>Description of investment properties</th>
+<th>Location</th>
+<th>Land tenure</th>
+<th>Term of lease¹</th>
+<th>Remaining term of lease¹</th>
+<th colspan="2">Carrying amount at fair value</th>
+<th colspan="2">Percentage of total net assets</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>(Years)</th>
+<th>(Years)</th>
+<th>2025</th>
+<th>2024</th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>%</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="9"><strong>Fully-fitted (Colocation)</strong></td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 1<br/>(“KDC SGP 1”)</td>
+<td>Serangoon,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>60</td>
+<td>29.7</td>
+<td>307,000</td>
+<td>339,772</td>
+<td>7.3</td>
+<td>9.9</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 2<br/>(“KDC SGP 2”)</td>
+<td>Tampines,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>60</td>
+<td>25.6</td>
+<td>188,000</td>
+<td>185,000</td>
+<td>4.4</td>
+<td>5.4</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 3<br/>(“KDC SGP 3”)</td>
+<td>Tampines,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>60</td>
+<td>26.1</td>
+<td>426,000</td>
+<td>412,000</td>
+<td>10.1</td>
+<td>12.0</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 4<br/>(“KDC SGP 4”)</td>
+<td>Tampines,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>60</td>
+<td>24.5</td>
+<td>590,000</td>
+<td>510,000</td>
+<td>13.9</td>
+<td>14.9</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 5<br/>(“KDC SGP 5”)³</td>
+<td>Jurong,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>39</td>
+<td>24.7</td>
+<td>507,003</td>
+<td>492,196</td>
+<td>12.0</td>
+<td>14.4</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 7<br/>(“KDC SGP 7”)³</td>
+<td>Kallang,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>70</td>
+<td>24.5</td>
+<td>750,077</td>
+<td>536,226</td>
+<td>17.7</td>
+<td>15.6</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 8<br/>(“KDC SGP 8”)³</td>
+<td>Kallang,<br/>Singapore</td>
+<td>Leasehold</td>
+<td>70</td>
+<td>24.5</td>
+<td>801,759</td>
+<td>498,657</td>
+<td>19.0</td>
+<td>14.6</td>
+    </tr>
+    <tr>
+<td>Gore Hill Data Centre<br/>(“Gore Hill DC”)⁴</td>
+<td>Artarmon,<br/>New South Wales,<br/>Australia</td>
+<td>Freehold</td>
+<td>Freehold</td>
+<td>Freehold</td>
+<td>181,750</td>
+<td>188,299</td>
+<td>4.3</td>
+<td>5.5</td>
+    </tr>
+    <tr>
+<td>Basis Bay Data Centre<br/>(“Basis Bay DC”)</td>
+<td>Cyberjaya,<br/>Malaysia</td>
+<td>Freehold</td>
+<td>Freehold</td>
+<td>Freehold</td>
+<td>17,092</td>
+<td>16,520</td>
+<td>0.4</td>
+<td>0.5</td>
+    </tr>
+    <tr>
+<td>Keppel DC Dublin 1<br/>(“KDC DUB 1”)</td>
+<td>Dublin,<br/>Republic of Ireland</td>
+<td>Leasehold</td>
+<td>999</td>
+<td>973.0</td>
+<td>171,445</td>
+<td>155,949</td>
+<td>4.1</td>
+<td>4.6</td>
+    </tr>
+    <tr>
+<td>Keppel DC Dublin 2<br/>(“KDC DUB 2”)</td>
+<td>Dublin,<br/>Republic of Ireland</td>
+<td>Leasehold</td>
+<td>999</td>
+<td>972.0</td>
+<td>170,542</td>
+<td>146,634</td>
+<td>4.0</td>
+<td>4.3</td>
+    </tr>
+    <tr>
+<td colspan="5">Total investment properties (including those held for sale) at fair value</td>
+<td>6,150,492</td>
+<td>4,920,527</td>
+<td>145.4</td>
+<td>143.6</td>
+    </tr>
+    <tr>
+<td colspan="5">Notes receivables (including those held for sale (Note 8) and (Note 4 (iii))</td>
+<td>152,593</td>
+<td>159,129</td>
+<td>3.6</td>
+<td>4.6</td>
+    </tr>
+    <tr>
+<td colspan="5">Other assets and liabilities (net)</td>
+<td>(2,072,969)</td>
+<td>(1,652,708)</td>
+<td>(49.0)</td>
+<td>(48.2)</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Total net assets of the Group</strong></td>
+<td><strong>4,230,116</strong></td>
+<td><strong>3,426,948</strong></td>
+<td><strong>100.0</strong></td>
+<td><strong>100.0</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Terms of lease disclosed include extension offers of 9 years for KDC SGP 5 and 10 years for KDC SGP 7 and KDC SGP 8.
+
+² Kelsterbach DC was divested on 24 March 2025.
+
+³ Included in the investment properties were lease liabilities pertaining to extension offers.
+
+⁴ A portion of the premises at Gore Hill DC relates to fully-fitted (colocation) lease arrangements and the remaining portion of the premises relates to shell and core lease arrangements.
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 112 -->
+
+These notes form an integral part of the financial statements.
+
+The financial statements of Keppel DC REIT (the “Trust”) and its subsidiaries (collectively, the “Group”) for the financial year ended 31 December 2025 were authorised for issue by the Manager on 26 February 2026.
+
+## 1 GENERAL INFORMATION
+
+Keppel DC REIT is a Singapore-domiciled real estate investment trust constituted by the trust deed dated 17 March 2011 (as amended) (the “Trust Deed”). Pursuant to the Trust Deed, Keppel DC REIT Management Pte. Ltd. (the “Manager”) has been appointed as, and remains, the manager of the Trust and Perpetual (Asia) Limited (the “Trustee”) has been appointed as, and remains, the trustee of the Trust on 24 October 2014.
+
+The Trust Deed is governed by the laws of The Republic of Singapore. The Trustee is under a duty to take into custody and hold the assets of the Group in trust for the holders (“Unitholders”) of units in the Trust (the “Units”). The address of the Trustee’s registered office and principal place of business is 38 Beach Road #23-11, South Beach Tower, Singapore 189767 and 16 Collyer Quay #07-01, Singapore 049318 respectively.
+
+The Trust was formally admitted to the Official List of the Singapore Exchange Securities Trading Limited (“SGX-ST”) on 12 December 2014 and was included under the Central Provident Fund (“CPF”) Investment Scheme on 12 December 2014.
+
+The principal activity of the Trust is to invest, directly or indirectly, in a diversified portfolio of income-producing real estate assets which are used primarily for data centre purposes, as well as real estate and assets necessary to support the digital economy. The principal activities of the subsidiaries are disclosed in Note 5.
+
+The Trust has entered into several service agreements in relation to management of the Trust and its property operations. The fee structures for these services are as follows:
+
+## a. Trustee’s fees
+
+The Trustee’s fees are charged on a scaled basis of up to 0.015% per annum of the value of Deposited Property (as defined in the Trust Deed) subject to a minimum amount of $15,000 per month.
+
+## b. Manager’s fees
+
+The Manager is entitled under the Trust Deed to the following management fees:
+
+i. a Base Fee of 0.5% per annum of the value of Deposited Property; and
+
+ii. a Performance Fee of 3.5% per annum of the Group’s Net Property Income (as defined in the Trust Deed) in the relevant financial year.
+
+The Manager is also entitled to receive an acquisition fee at the rate of 1.0% of the acquisition price and a divestment fee of 0.5% of the sale price on all acquisitions or disposals of properties respectively.
+
+The Manager is also entitled to receive a development management fee equivalent to 3.0% of the total project costs incurred in a development project undertaken by the Manager on behalf of the Group.
+
+Any increase in the rate or any change in the structure of the Manager’s fees must be approved by an Extraordinary Resolution of Unitholders passed at a Unitholders meeting duly convened and held in accordance with the provisions of the Trust Deed.
+
+The management fees are paid in the form of cash and/or Units (as the Manager may elect). The management fees payable in Units are issued at the volume weighted average price for a Unit for all trades on the SGX-ST in the ordinary course of trading on the SGX-ST for the period of last 10 Business Days (as defined in the Trust Deed) of the relevant period in which the relevant component of the management fees accrues. The Manager’s management fees are payable in arrears.
+
+## c. Facility management fees
+
+Under the facility management agreement in respect of certain properties, the facility manager provides facility management services, lease management services and project management services. The facility manager is entitled to receive the following fees:
+
+i. KDC SGP 1 to 5, 7 and 8: facility management fee of 4.0% of EBITDA derived from the underlying end-users (after deducting the fixed rent payable to the Group and operating expenses incurred for each property); and
+
+ii. Gore Hill DC: facility management fee of AUD 2.3 million for FY 2025.
+
+<!-- PAGE 113 -->
+
+## 2 BASIS OF PREPARATION
+
+## 2.1 Statement of compliance
+
+The financial statements have been prepared in accordance with the Singapore Financial Reporting Standards (International) (“SFRS(I)”), the provisions of the Trust Deed and the relevant requirements of the Code on Collective Investment Schemes (“CIS Code”) issued by the Monetary Authority of Singapore (“MAS”).
+
+The Monetary Authority of Singapore has granted the Group a waiver from compliance with the requirement under Paragraph 4.3 of Appendix 6 to the CIS Code to prepare its financial statements in accordance with Singapore Financial Reporting Standards.
+
+On 1 January 2025, the Group has adopted the new or amended SFRS(I) and Interpretations of SFRS(I) (“INT SFRS(I)”) that are mandatory for application for the financial year. Changes to the Group’s accounting policies have been made as required, in accordance with the transitional provisions in the respective SFRS(I) and INT SFRS(I).
+
+The adoption of these new or amended SFRS(I) and INT SFRS(I) did not result in significant changes to the Group’s accounting policies and had no material effect on the amounts reported for the current or prior financial years.
+
+## 2.2 Basis of measurement
+
+The financial statements have been prepared on the historical cost basis except as disclosed in the accounting policies set out in Note 3.
+
+## 2.3 Functional and presentation currency
+
+The Manager has determined the functional currency of the primary economic environment in which the Trust operates, i.e. functional currency, to be Singapore dollars ($). The financial statements are expressed in Singapore dollars and rounded to the nearest thousand ($’000) unless otherwise stated.
+
+## 2.4 Use of estimates and judgements
+
+The preparation of financial statements requires the Manager to make judgements, estimates and assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities, incomes and expenses. Actual results may differ from these estimates.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimates are revised and in any future periods affected.
+
+Information about assumptions and estimation uncertainties that have a significant risk of resulting in a material adjustment within the next financial year are included in Note 4 – Investment Properties and Note 29 – Fair Value of Assets and Liabilities.
+
+## 3 MATERIAL ACCOUNTING POLICY INFORMATION
+
+The accounting policies set out below have been applied consistently to all periods presented in these financial statements, and have been applied consistently by the entities in the Group.
+
+## 3.1 Basis of consolidation
+
+## Business combination
+
+The Group accounts for business combination using the acquisition method when the acquired set of activities and assets meet the definition of a business and control is transferred to the Group. In determining whether a particular set of activities and assets is a business, the Group assesses whether the set of assets and activities acquired includes, at a minimum, an input and substantive process and whether the acquired set has the ability to produce outputs.
+
+The Group has an option to apply a ‘concentration test’ that permits a simplified assessment of whether an acquired set of activities and assets is not a business. The optional concentration test is met if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets.
+
+The Group measures goodwill at the acquisition date as:
+
+- the fair value of the consideration transferred; plus
+- the recognised amount of any non-controlling interests (“NCI”) in the acquiree; plus
+- if the business combination is achieved in stages, the fair value of the pre-existing equity interest in the acquiree,
+
+over the fair value of the identifiable assets acquired and liabilities assumed. Any goodwill that arises is tested annually for impairment and whenever there is indication that the goodwill may be impaired.
+
+<!-- PAGE 114 -->
+
+When the excess is negative, a bargain purchase gain is recognised immediately in the profit or loss.
+
+The consideration transferred does not include amounts related to the settlement of pre-existing relationships. Such amounts are generally recognised in the profit or loss.
+
+Any contingent consideration payable is recognised at fair value at the acquisition date and included in the consideration transferred. If the contingent consideration is classified as equity, it is not remeasured and settlement is accounted for within equity. Otherwise, subsequent changes to the fair value of the contingent consideration are recognised in the profit or loss.
+
+NCI that are present ownership interests and entitle their holders to a proportionate share of the acquiree’s net assets in the event of liquidation are measured either at fair value or at the NCI’s proportionate share of the recognised amounts of the acquiree’s identifiable net assets, at the date of acquisition. The measurement basis taken is elected on a transaction-by-transaction basis. All other NCI are measured at acquisition-date fair value, unless another measurement basis is required by SFRS(I)s.
+
+Costs related to the acquisition, other than those associated with the issue of debt or equity investments, that the Group incurs in connection with a business combination are expensed as incurred.
+
+Changes in the Group’s interest in a subsidiary that do not result in a loss of control are accounted for as equity transactions.
+
+## Subsidiaries
+
+Subsidiaries are all entities controlled by the Group. The Group controls an entity when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity. The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+
+The accounting policies of subsidiaries have been changed when necessary to align them with the policies adopted by the Group. Losses applicable to the NCI in a subsidiary are allocated to the NCI even if doing so causes the NCI to have a deficit balance.
+
+## Transactions with NCI
+
+Changes in Group’s ownership interest in a subsidiary that do not result in a loss of control over the subsidiary are accounted for as transactions with equity owners of the Group. Any difference between the change in the carrying amounts of the NCI and the fair value of the consideration paid or received is recognised in other reserves within equity attributable to the Unitholders of Keppel DC REIT.
+
+## Loss of control
+
+When the Group losses control over a subsidiary, the Group derecognises the assets and liabilities of the subsidiary, any NCI and other components of equity. Any related resulting gain or loss is recognised in profit or loss.
+
+Any interest retained in the former subsidiary is measured at fair value when control is lost.
+
+## Transactions eliminated on consolidation
+
+Intra-group balances and transactions, and any unrealised income or expenses (except for foreign currency transaction gains or losses) arising from intra-group transactions, are eliminated in preparing the consolidated financial statements. Unrealised gains arising from transactions with equity-accounted investees are eliminated against the investment to the extent of the Group’s interest in the investee. Unrealised losses are eliminated in the same way as unrealised gains, but only to the extent that there is no evidence of impairment.
+
+## Accounting for subsidiaries by the Trust
+
+Investment in subsidiaries are stated in the Trust’s statement of financial position at cost less accumulated impairment losses.
+
+<!-- PAGE 115 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 3 MATERIAL ACCOUNTING POLICY INFORMATION (continued)
+
+## 3.1 Basis of consolidation (continued)
+
+### Joint ventures
+
+Joint ventures are entities over which the Group has joint control as a result of contractual arrangements, and rights to the net assets of the entities.
+
+Investments in joint ventures are accounted for in the consolidated financial statements using the equity method of accounting less impairment losses, if any.
+
+### Acquisition
+
+Investments in joint ventures are initially recognised at cost. The cost of an acquisition is measured at the fair value of the assets given, equity instruments issued or liabilities incurred or assumed at the date of exchange, plus costs directly attributable to the acquisition. Goodwill on joint ventures represents the excess of the cost of acquisition of the joint ventures over the Group’s share of the fair value of the identifiable net assets of the joint ventures and is included in the carrying amount of the investments.
+
+### Equity method of accounting
+
+Under the equity method of accounting, the investments are initially recognised at cost and adjusted thereafter to recognise Group’s share of its joint ventures’ post-acquisition profits or losses of the investee in profit or loss and its share of movements in other comprehensive income of the investee’s other comprehensive income. Dividends received or receivable from the joint ventures are recognised as a reduction of the carrying amount of the investments. When the Group’s share of losses in a joint venture equals to or exceeds its interest in the joint venture, the Group does not recognise further losses, unless it has legal or constructive obligations to make, or has made, payments on behalf of the joint venture. If the joint venture subsequently reports profits, the Group resumes recognising its share of those profits only after its share of the profits equals the share of losses not recognised. Interest in a joint venture includes any long-term loans for which settlement is never planned nor likely to occur in the foreseeable future.
+
+Unrealised gains on transactions between the Group and its joint ventures are eliminated to the extent of the Group’s interest in the joint ventures. Unrealised losses are also eliminated unless the transactions provide evidence of impairment of the assets transferred. The accounting policies of joint ventures are changed where necessary to ensure consistency with the accounting policies adopted by the Group.
+
+### Disposals
+
+Investments in associates or joint ventures are derecognised when the Group loses significant influence or joint control. If the retained equity interest in the former associates or joint venture is a financial asset, the retained equity interest is measured at fair value. The difference between the carrying amount of the retained interest at the date when significant influence or joint control is lost, and its fair value and any proceeds on partial disposal, is recognised in profit or loss.
+
+## 3.2 Foreign currency
+
+### Foreign currency transactions
+
+Items included in the financial statements of each entity in the Group are measured using the currency of the primary economic environment in which the entity operates (“functional currency”). The financial statements are presented in Singapore Dollars (“SGD or “$”), which is the functional currency of the Trust.
+
+Transactions in foreign currencies are translated to the respective functional currencies of the Group entities at exchange rates at the dates of the transactions. Monetary assets and liabilities denominated in foreign currencies at the reporting date are translated to the functional currency of the Group at the exchange rate at that date. The foreign currency gain or loss on monetary items is the difference between amortised cost in the functional currency at the beginning of the year, adjusted for effective interest and payments during the year, and the amortised cost in foreign currency translated at the exchange rate at the end of the year.
+
+<!-- PAGE 116 -->
+
+Non-monetary assets and liabilities denominated in foreign currencies that are measured at fair value are translated to the functional currency at the exchange rate at the date that the fair value was determined. Non-monetary items in a foreign currency that are measured in terms of historical cost are translated using the exchange rate at the date of the transaction. Foreign currency differences arising on translation are recognised in the profit or loss. However, foreign currency differences arising from the following items are recognised in OCI:
+
+*   an equity investment designated as at FVOCI;
+
+*   a financial liability designated as a hedge of the net investment in a foreign operation to the extent that the hedge is effective; or
+
+*   qualifying cash flow hedges to the extent the hedges are effective.
+
+**Foreign operations**
+
+The assets and liabilities of foreign operations, including goodwill and fair value adjustments arising on acquisition, are translated to Singapore dollars at exchange rates at the reporting date. The income and expenses of foreign operations are translated to Singapore dollars at the average exchange rates unless the average is not a reasonable approximation of the cumulating effect of the rates prevailing on the transaction dates, in which case income and expenses are translated using the exchange rate at the date of the transaction for the reporting period.
+
+Foreign currency differences are recognised in OCI. However, if the foreign operation is a non-wholly-owned subsidiary, then the relevant proportionate share of the translation difference is allocated to the NCI. When a foreign operation is disposed of such that control, significant influence or joint control is lost, the cumulative amount in the translation reserve related to that foreign operation is reclassified to the profit or loss as part of the gain or loss on disposal. When the Group disposes of only part of its interest in a subsidiary that includes a foreign operation while retaining control, the relevant proportion of the cumulative amount is reattributed to NCI. When the Group disposes of only part of its investment in an associate or joint venture that includes a foreign operation while retaining significant influence or joint control, the relevant proportion of the cumulative amount is reclassified to profit or loss.
+
+When the settlement of a monetary item receivable from or payable to a foreign operation is neither planned nor likely to occur in the foreseeable future, foreign exchange gains and losses arising from such a monetary item that are considered to form part of a net investment in a foreign operation are recognised in OCI and are presented in the translation reserve in Unitholders’ funds.
+
+# 3.3 Financial instruments
+
+## i. Recognition and initial measurement
+
+**Non-derivative financial assets and financial liabilities**
+
+Trade receivables and debt investments issued are initially recognised when they are originated. All other financial assets and financial liabilities are initially recognised when the Group becomes a party to the contractual provisions of the instrument.
+
+A financial asset (unless it is a trade receivable without a significant financing component) or financial liability is initially measured at fair value plus, for an item not at fair value through profit or loss (“FVTPL”), transaction costs that are directly attributable to its acquisition or issue. A trade receivable without a significant financing component is initially measured at the transaction price.
+
+## ii. Classification and subsequent measurement
+
+**Non-derivative financial assets**
+
+On initial recognition, a financial asset is classified as measured at amortised cost.
+
+Financial assets are not reclassified subsequent to their initial recognition unless the Group changes its business model for managing financial assets, in which case all affected financial assets are reclassified on the first day of the first reporting period following the change in the business model.
+
+**Financial assets at amortised cost**
+
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at FVTPL:
+
+*   it is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+
+*   its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+<!-- PAGE 117 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 3 MATERIAL ACCOUNTING POLICY INFORMATION (continued)
+
+## 3.3 Financial instruments (continued)
+
+ii. Classification and subsequent measurement (continued)
+
+**Financial assets: Business model assessment**
+
+The Group makes an assessment of the objective of the business model in which a financial asset is held. The information provided to management for this assessment includes:
+
+* the stated policies and objectives for the financial assets and the operation of those policies in practice. These include whether management’s strategy focuses on earning contractual interest income, maintaining a particular interest rate profile, matching the duration of the financial assets to the duration of any related liabilities or expected cash outflows or realising cash flows through the sale of the assets;
+
+* how the performance of the financial assets are evaluated and reported to the Group’s management;
+
+* the risks that affect the performance of the business model (and the financial assets held within that business model) and how those risks are managed;
+
+* how managers of the business are compensated – e.g. whether compensation is based on the fair value of the assets managed or the contractual cash flows collected; and
+
+* the frequency, volume and timing of sales of financial assets in prior periods, the reasons for such sales and expectations about future sales activity.
+
+Transfers of financial assets to third parties in transactions that do not qualify for derecognition are not considered sales for this purpose, consistent with the Group’s continuing recognition of the assets.
+
+Financial assets that are held-for-trading or are managed and whose performance is evaluated on a fair value basis are measured at FVTPL.
+
+**Non-derivative financial assets: Assessment whether contractual cash flows are solely payments of principal and interest**
+
+For the purposes of this assessment, ‘principal’ is defined as the fair value of the financial asset on initial recognition. ‘Interest’ is defined as consideration for the time value of money and for the credit risk associated with the principal amount outstanding during a particular period of time and for other basic lending risks and costs (e.g. liquidity risk and administrative costs), as well as a profit margin.
+
+In assessing whether the contractual cash flows are solely payments of principal and interest, the Group considers the contractual terms of the instrument. This includes assessing whether the financial asset contains a contractual term that could change the timing or amount of contractual cash flows such that it would not meet this condition. In making this assessment, the Group considers:
+
+* contingent events that would change the amount or timing of cash flows;
+
+* terms that may adjust the contractual coupon rate, including variable rate features;
+
+* prepayment and extension features; and
+
+* terms that limit the Group’s claim to cash flows from specified assets (e.g. non-recourse features).
+
+A prepayment feature is consistent with the solely payments of principal and interest criterion if the prepayment amount substantially represents unpaid amounts of principal and interest on the principal amount outstanding, which may include reasonable additional compensation for early termination of the contract. Additionally, for a financial asset acquired at a significant discount or premium to its contractual par amount, a feature that permits or requires prepayment at an amount that substantially represents the contractual par amount plus accrued (but unpaid) contractual interest (which may also include reasonable additional compensation for early termination) is treated as consistent with this criterion if the fair value of the prepayment feature is insignificant at initial recognition.
+
+**Non-derivative financial assets: Subsequent measurement and gains and losses**
+
+These assets are subsequently measured at amortised cost using the effective interest method. The amortised cost is reduced by impairment losses. Interest income, foreign exchange gains and losses and impairment are recognised in profit or loss. Any gain or loss on derecognition is recognised in profit or loss.
+
+**Non-derivative financial liabilities: Classification, subsequent measurement and gains and losses**
+
+Financial liabilities are classified as measured at amortised cost or FVTPL. A financial liability is classified as at FVTPL if it is classified as held-for-trading or it is designated as such on initial recognition. Financial liabilities at FVTPL are measured at fair value and net gains and losses, including any interest expense, are recognised in profit or loss. Direct attributable transaction costs are recognised in profit or loss as incurred.
+
+<!-- PAGE 118 -->
+
+Other financial liabilities are initially measured at fair value less directly attributable transaction costs. They are subsequently measured at amortised cost using the effective interest method. Interest expense and foreign exchange gains and losses are recognised in the profit or loss.
+
+Other financial liabilities comprise loans and borrowings and trade and other payables.
+
+## iii. Derecognition
+
+## *Financial assets*
+
+The Group derecognises a financial asset when:
+
+- the contractual rights to the cash flows from the financial asset expire; or
+- it transfers the rights to receive the contractual cash flows in a transaction in which either:
+- substantially all of the risks and rewards of ownership of the financial asset are transferred; or
+- the Group neither transfers nor retains substantially all of the risks and rewards of ownership and it does not retain control of the financial asset.
+
+Transferred assets are not derecognised when the Group enters into transactions whereby it transfers assets recognised in its statement of financial position, but retains either all or substantially all of the risks and rewards of the transferred assets.
+
+## *Financial liabilities*
+
+The Group derecognises a financial liability when its contractual obligations are discharged, cancelled or expired. The Group also derecognises a financial liability when its terms are modified and the cash flows of the modified liability are substantially different, in which case a new financial liability based on the modified terms is recognised at fair value.
+
+On derecognition of a financial liability, the difference between the carrying amount extinguished and the consideration paid (including any non-cash assets transferred or liabilities assumed) is recognised in profit or loss.
+
+## iv. Offsetting
+
+Financial assets and liabilities are offset and the net amount presented in the statement of financial position when, and only when, the Group has a legal right to offset the amounts and intends either to settle on a net basis or to realise the asset and settle the liability simultaneously.
+
+## 3.4 Derivative financial instruments and hedge accounting
+
+## Derivative financial instruments and hedge accounting
+
+Derivative financial instruments are initially measured at fair value and any directly attributable transaction costs are recognised in profit or loss as incurred. Subsequent to initial recognition, derivatives are measured at fair value, and changes therein are generally recognised in profit or loss.
+
+The Group holds derivative financial instruments to mitigate its foreign currency and interest rate risk exposures. Embedded derivatives are separated from the host contract and accounted for separately if the host contract is not a financial asset and certain criteria are met.
+
+Fair value changes on derivatives that are not designated or do not qualify for hedge accounting are recognised in profit or loss when the changes arise.
+
+The Group designates certain derivatives and non-derivative financial instruments as hedging instruments in qualifying hedging relationships. At inception of designated hedging relationships, the Group documents the risk management objective and strategy for undertaking the hedge. The Group also documents the economic relationship between the hedged item and the hedging instrument, including whether the changes in cash flows of the hedged item and hedging instrument are expected to offset each other.
+
+## Cash flow hedges
+
+The Group designates certain derivatives as hedging instruments to mitigate the variability in cash flows associated with changes in interest rates on floating rates borrowings.
+
+When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognised in OCI and accumulated in the hedging reserve. The effective portion of changes in the fair value of the derivative that is recognised in OCI is limited to the cumulative change in fair value of the hedged item, determined on a present value basis, from inception of the hedge. Any ineffective portion of changes in the fair value of the derivative is recognised immediately in profit or loss.
+
+<!-- PAGE 119 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 3 MATERIAL ACCOUNTING POLICY INFORMATION (continued)
+
+## 3.4 Derivative financial instruments and hedge accounting (continued)
+
+**Cash flow hedges (continued)**
+
+If the hedge no longer meets the criteria for hedge accounting or the hedging instrument is sold, expires, is terminated or is exercised, then hedge accounting is discontinued prospectively. When hedge accounting for cash flow hedges is discontinued, the amount that has been accumulated in the hedging reserve and the cost of hedging reserve remains in equity until it is reclassified to profit or loss in the same period or periods as the hedged expected future cash flows affect profit or loss.
+
+If the hedged future cash flows are no longer expected to occur, then the amounts that have been accumulated in the hedging reserve and the cost of hedging reserve are immediately reclassified to profit or loss.
+
+**Net investment hedges**
+
+The Group designates certain non-derivative financial liabilities as hedges of foreign exchange risk on a net investment in a foreign operation.
+
+When a derivative instrument or a non-derivative financial liability is designated as the hedging instrument in a hedge of a net investment in a foreign operation, the effective portion of changes in the fair value of a derivative or, foreign exchange gains and losses for a non-derivative is recognised in OCI and presented in the translation reserve within equity. Any ineffective portion of the changes in the fair value of the derivative or foreign exchange gains and losses on the non-derivative is recognised immediately in profit or loss. The amount recognised in OCI is fully or partially reclassified to profit or loss as a reclassification adjustment on disposal of the foreign operation, respectively.
+
+## 3.5 Cash and cash equivalents
+
+Cash and cash equivalents comprise cash balances and short-term deposits with maturities of three months or less from the date of acquisition that are subject to insignificant risk of changes in their fair value and are used by the Group in the management of short term commitments.
+
+## 3.6 Unitholders’ funds
+
+Unitholders’ funds represent the Unitholders’ residual interest in the Group’s net assets upon termination. Proceeds from issuance of Units are recognised as Units in issue in Unitholders’ funds. Incremental costs directly attributable to the issue of Units are recognised as deduction from Unitholders’ funds.
+
+## 3.7 Investment properties
+
+Investment property is property held either to earn rental income or capital appreciation or for both, but not for sale in the ordinary course of business, use in production or supply of goods or services or for administrative purposes. Investment property is measured at cost on initial recognition and subsequently at fair value with any change therein recognised in profit or loss. Contingent consideration that is payable only upon the occurrence of uncertain future events is not recognised as a liability at the acquisition date. Instead, it is recognised as an additional cost of the investment property when the contingency is resolved and the payment becomes probable.
+
+Rental income from investment properties is accounted for in a manner described in Note 3.13.
+
+Cost includes expenditure that is directly attributable to the acquisition of the investment property. The cost of self-constructed investment property includes the cost of materials and direct labour, any other costs directly attributable to bringing the investment property to a working condition for their intended use and capitalised borrowing costs.
+
+When the use of a property changes such that it is reclassified as property, plant and equipment, its fair value at the date of reclassification becomes its cost for subsequent accounting.
+
+On disposal of an investment property, the differences between the disposal proceeds and the carrying amount is recognised in profit or loss.
+
+## 3.8 Non-current assets held for sale
+
+**Asset held for sale and Investment property held for sale**
+
+Non-current assets are classified as assets held-for-sale if their carrying amount is recovered principally through a sale transaction rather than through continuing use. They are measured at the lower of carrying amount and fair value less costs to sell except for assets such as financial assets and investment property that are carried at fair value. The assets are not depreciated or amortised while they are classified as held-for-sale. Equity accounting ceases when investments in associates and joint ventures are classified as held for sale. Any impairment loss on initial classification and subsequent measurement is recognised as an expense. Any subsequent increase in fair value less costs to sell (not exceeding the accumulated impairment loss previously recognised) is recognised in profit or loss.
+
+<!-- PAGE 120 -->
+
+## 3.9 Intra-group financial guarantees
+
+Financial guarantees are financial instruments issued by the Trust that require the issuer to make specified payments to reimburse the holder for the loss it incurs because a specified debtor fails to meet payment when due in accordance with the original or modified terms of a debt instrument.
+
+Financial guarantees issued are initially measured at fair value. Subsequently, they are measured at the higher of the loss allowance determined in accordance with SFRS(I) 9 and the amount initially recognised less, when appropriate, the cumulative amount of income recognised in accordance with the principles of SFRS(I) 15.
+
+Expected credit losses (“ECL”) are a probability-weighted estimate of credit losses. ECLs are measured for financial guarantees issued as the expected payments to reimburse the holder less any amounts that the Trust expects to recover.
+
+Liabilities arising from financial guarantees are included within loans and borrowings.
+
+## 3.10 Impairment
+
+## i. Non-derivative financial assets
+
+The Group recognises loss allowances for ECL on financial assets measured at amortised costs, trade receivables and intra-group financial guarantee contracts (“FGC”).
+
+Loss allowances of the Group are measured on either of the following bases:
+
+- 12-month ECLs: these are ECLs that result from default events that are possible within the 12 months after the reporting date (or for a shorter period if the expected life of the instrument is less than 12 months); or
+- Lifetime ECLs: these are ECLs that result from all possible default events over the expected life of a financial instrument or contract asset.
+
+## *Simplified approach*
+
+The Group applies the simplified approach to provide for ECLs for all trade receivables and accrued income. The simplified approach requires the loss allowance to be measured at an amount equal to lifetime ECLs.
+
+## *General approach*
+
+The Group applies the general approach to provide for ECLs on all other financial instruments. Under the general approach, the loss allowance is measured at an amount equal to 12-month ECLs at initial recognition.
+
+At each reporting date, the Group assesses whether the credit risk of a financial instrument has increased significantly since initial recognition. When credit risk has increased significantly since initial recognition, loss allowance is measured at an amount equal to lifetime ECLs.
+
+When determining whether the credit risk of a financial asset has increased significantly since initial recognition and when estimating ECLs, the Group considers reasonable and supportable information that is relevant and available without undue cost or effort. This includes both quantitative and qualitative information and analysis, based on the Group’s historical experience and informed credit assessment and includes forward-looking information.
+
+If credit risk has not increased significantly since initial recognition or if the credit quality of the financial instruments improves such that there is no longer a significant increase in credit risk since initial recognition, loss allowance is measured at an amount equal to 12-month ECLs.
+
+The Group assesses that the credit risk on a financial asset has increased significantly if it is more than 90 days past due.
+
+The Group considers a financial asset to be in default when:
+
+- the borrower is unlikely to pay its credit obligations to the Group in full, without recourse by the Group to actions such as realising security (if any is held); and
+- the financial asset is more than 90 days past due.
+
+The Trust considers a FGC to be in default when the debtor of the loan is unlikely to pay its credit obligations to the creditors and the Trust in full, without recourse by the Trust to actions such as realising security (if any is held).
+
+The maximum period considered when estimating ECLs is the maximum contractual period over which the Group is exposed to credit risk.
+
+<!-- PAGE 121 -->
+
+## **3.10 Impairment** (continued)
+
+i. Non-derivative financial assets (continued)
+
+## *Measurement of ECLs*
+
+ECLs are probability-weighted estimates of credit losses. Credit losses are measured at the present value of all cash shortfalls (i.e. the difference between the cash flows due to the entity in accordance with the contract and the cash flows that the Group expects to receive).
+
+ECLs are discounted at the effective interest rate of the financial asset.
+
+## *Credit-impaired financial assets*
+
+At each reporting date, the Group assesses whether financial assets carried at amortised cost are credit-impaired. A financial asset is ‘credit-impaired’ when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred.
+
+Evidence that a financial asset is credit-impaired includes the following observable data:
+
+- significant financial difficulty of the borrower or issuer;
+- a breach of contract such as a default or being more than 90 days past due;
+- the restructuring of a loan or advance by the Group on terms that the Group would not consider otherwise;
+- it is probable that the borrower will enter bankruptcy or other financial reorganisation; or
+- the disappearance of an active market for a security because of financial difficulties.
+
+## *Presentation of allowance for ECLs in the statement of financial position*
+
+Loss allowances for financial assets measured at amortised cost and accrued income are deducted from the gross carrying amount of these assets. Loss allowances for FGC are recognised as a financial liability to the extent that they exceed the initial carrying amount of the FGC less the cumulated income recognised.
+
+## *Write-off*
+
+The gross carrying amount of a financial asset is written off (either partially or in full) to the extent that there is no realistic prospect of recovery. This is generally the case when the Group determines that the debtor does not have assets or sources of income that could generate sufficient cash flows to repay the amounts subject to the write-off. However, financial assets that are written off could still be subject to enforcement activities in order to comply with the Group’s procedures for recovery of amounts due.
+
+## ii. Non-financial assets
+
+The carrying amounts of the Group’s non-financial assets, other than investment property, property under development and deferred tax assets, are reviewed at each reporting date to determine whether there is any indication of impairment. If any such indication exists, then the asset’s recoverable amount is estimated. An impairment loss is recognised if the carrying amount of an asset or its related cash-generating unit (CGU) exceeds its estimated recoverable amount.
+
+The recoverable amount of an asset or CGU Is the greater of Its value in use and its fair value less costs to sell. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset or CGU. For the purpose of impairment testing, assets that cannot be tested individually are grouped together into the smallest group of assets that generates cash inflows from continuing use that are largely independent of the cash inflows of other assets or CGU.
+
+Impairment losses are recognised in profit or loss. Impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if and only if there has been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+
+<!-- PAGE 122 -->
+
+## 3.11 Employee benefits
+
+## Defined contribution plans
+
+A defined contribution plan is a post-employment benefit plan under which an entity pays fixed contributions into a separate entity and will have no legal or constructive obligations to pay further amounts. Obligations for contributions to defined contribution plans are recognised as an expense in the profit or loss in the periods during which services are rendered by employees.
+
+## Short-term employee benefits
+
+Short-term employee benefit obligations are measured on an undiscounted basis and are expensed as the related service is provided. A liability is recognised for the amount expected to be paid under short-term cash bonus if the Group has a present legal or constructive obligation to pay this amount as a result of past service provided by the employee, and the obligation can be estimated reliably.
+
+## 3.12 Leases
+
+## i. When the Group is the lessee:
+
+At the inception of the contract, the Group assesses if the contract contains a lease. A contract contains a lease if the contract convey the right to control the use of an identified asset for a period of time in exchange for consideration. Reassessment is only required when the terms and conditions of the contract are changed.
+
+## *• Right-of-use assets*
+
+The Group recognised a right-of-use asset and lease liability at the date which the underlying asset is available for use. Right-of-use assets are measured at cost which comprises the initial measurement of lease liabilities adjusted for any lease payments made at or before the commencement date and lease incentive received. Any initial direct costs that would not have been incurred if the lease had not been obtained are added to the carrying amount of the right-of-use assets.
+
+Right-of-use asset which meets the definition of an investment property is presented within “Investment Properties” and accounted for in accordance with Note 3.7.
+
+## *• Lease liabilities*
+
+The initial measurement of lease liability is measured at the present value of the lease payments discounted using the implicit rate in the lease, if the rate can be readily determined. If that rate cannot be readily determined, the Group shall use its incremental borrowing rate.
+
+Lease payments include the following:
+
+- Fixed payment (including in-substance fixed payments), less any lease incentives receivables;
+- Amount expected to be payable under residual value guarantees; and
+- Payment of penalties for terminating the lease, if the lease term reflects the Group exercising that option.
+
+Lease liability is measured at amortised cost using the effective interest method. Lease liability shall be remeasured when:
+
+- There is a change in future lease payments arising from changes in rate;
+- There is a change in the Group’s assessment of whether it will exercise an extension option; or
+- There are modification in the scope or the consideration of the lease that was not part of the original term.
+
+Lease liability is remeasured with a corresponding adjustment to the right-of-use asset, or is recorded in profit or loss if the carrying amount of the right-of-use asset has been reduced to zero.
+
+## *• Short term and low value leases*
+
+The Group has elected to not recognise right-of-use assets and lease liabilities for short-term leases that have lease terms of 12 months or less and leases of low value leases, except for sublease arrangements. Lease payments relating to these leases are expensed to profit or loss on a straight-line basis over the lease term.
+
+## ii. When the Group is the lessor:
+
+## *• Lessor – Operating leases*
+
+Leases where the Group retains substantially all risks and rewards incidental to ownership are classified as operating leases. Rental income from operating leases (net of any incentives given to the lessees) is accounted for in a manner described in Note 3.13.
+
+<!-- PAGE 123 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+# 3 MATERIAL ACCOUNTING POLICY INFORMATION (continued)
+
+## 3.12 Leases (continued)
+
+ii. When the Group is the lessor: (continued)
+
+* **Lessor – Subleases**
+
+In classifying a sublease, the Group as an intermediate lessor classifies the sublease as a finance or an operating lease with reference to the right-of-use asset arising from the head lease, rather than the underlying asset.
+
+When the sublease is assessed as a finance lease, the Group derecognises the right-of-use asset relating to the head lease that it transfers to the sublessee and recognised the net investment in the sublease within “Trade and other receivables”. Any differences between the right-of-use asset derecognised and the net investment in sublease is recognised in profit or loss. Lease liability relating to the head lease is retained in the balance sheet, which represents the lease payments owed to the head lessor.
+
+When the sublease is assessed as an operating lease, the Group recognises lease income from the sublease in profit or loss within “Gross Revenue”. The right-of-use asset relating to the head lease is not derecognised.
+
+For contract which contains lease and non-lease components, the Group allocates the consideration based on a relative stand-alone selling price basis.
+
+## 3.13 Revenue
+
+Revenue is recognised to the extent that it is probable that the economic benefits will flow to the Group and the revenue can be reliably measured, regardless of when the payment is made. Revenue is measured at the fair value of consideration received or receivable, taking into account contractually define terms of payment.
+
+**Rental income**
+
+Rental income from investment property is recognised over time in the profit or loss on a straight-line basis over the term of the lease. Lease incentives granted are recognised as an integral part of the total rental income over the term of the lease. Contingent rents are recognised as income in profit or loss when earned.
+
+**Service revenue**
+
+Service revenue derived from clients is recognised at point in time in the profit or loss as and when the services are rendered. Service revenue is included in other income.
+
+**Rental top up income**
+
+Rental top up income provided from the vendors is recognised over time in the profit or loss as and when there is an economic inflow of benefits. Rental top up income is included in other income.
+
+## 3.14 Finance costs
+
+Borrowing costs are recognised using the effective interest method, except to the extent that they are capitalised as being directly attributable to the acquisition, construction or production of an asset which necessarily takes a substantial period of time to be prepared for its intended use or sale.
+
+## 3.15 Finance income
+
+Interest income is recognised using the effective interest method.
+
+## 3.16 Income tax
+
+Income tax expense comprises current and deferred tax. Current tax and deferred tax are recognised in the profit or loss except to the extent that it relates to items recognised directly in Unitholders’ funds or in OCI.
+
+**Current income tax**
+
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year, using tax rates enacted or substantively enacted at the reporting date, and any adjustment to tax payable in respect of previous years.
+
+**Deferred tax**
+
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+
+<!-- PAGE 124 -->
+
+Deferred tax is not recognised for:
+
+* temporary differences on the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor taxable profit or loss;
+
+* temporary differences related to investments in subsidiaries and associates to the extent that the Group is able to control the timing of the reversal of the temporary difference and it is probable that they will not reverse in the foreseeable future; and
+
+* taxable temporary differences arising on the initial recognition of goodwill.
+
+The measurement of deferred taxes reflects the tax consequences that would follow the manner in which the Group expects at the end of the reporting period to recover or settle the carrying amount of its assets and liabilities. For investment property that is measured at fair value, the presumption that the carrying amount of the investment property will be recovered through sale has not been rebutted. Deferred tax is measured at the tax rates that are expected to be applied to temporary differences when they reverse, based on the laws that have been enacted or substantively enacted by the reporting date.
+
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realised simultaneously.
+
+A deferred tax asset is recognised for unused tax losses, tax credits and deductible temporary differences, to the extent that it is probable that future taxable profits will be available against which they can be utilised. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+
+In determining the amount of current and deferred tax, the Group takes into account the impact of uncertain tax positions and whether additional taxes and interest may be due. The Group believes that its accruals for tax liabilities are adequate for all open tax years based on its assessment of many factors, including interpretations of tax law and prior experience. This assessment relies on estimates and assumptions and may involve a series of judgements about future events.
+
+New information may become available that causes the Group to change its judgement regarding the adequacy of existing tax liabilities; such changes to tax liabilities will impact tax expense in the period that such a determination is made.
+
+Tax transparency
+
+The Inland Revenue Authority of Singapore (“IRAS”) has granted tax transparency treatment to the Trust in respect of certain taxable income (“Specified Taxable Income”). Broadly, subject to meeting the terms and conditions that the Trustee and the Manager have undertaken to comply with for the purposes of the application of the tax transparency treatment, which includes a requirement to distribute at least 90% of the Specified Taxable Income of the Trust within three months from the financial year end (for example, for the financial year ended 31 December 2025, 90% of the Trust’s Specified Taxable Income must be distributed by 31 March 2026), the Trust will not be assessed for tax on the portion of the Specified Taxable Income that is distributed to Unitholders. Any portion of the Trust’s Specified Taxable Income that is not distributed to Unitholders will be taxed at the prevailing corporate tax rate at the Trust’s level.
+
+Further to the above, the Trustee and the Manager have undertaken to deduct income tax at the prevailing corporate tax rate on the distributions made to Unitholders out of such Specified Taxable Income except:
+
+a. where the beneficial owner is a Qualifying Unitholder, the Trustee and the Manager will make the distributions to such Unitholder without deducting any income tax; and
+
+b. where the beneficial owner is Qualifying Non-Resident Unitholder (as defined below), the Trustee and the Manager have undertaken to deduct income tax at a reduced rate of 10% from the distributions made up to 31 December 2030, unless otherwise extended.
+
+c. where the beneficial owner is a Qualifying Non-Resident Fund (as defined herein), income tax will be deducted at a reduced rate of 10% from the distributions made up to 31 December 2030, unless otherwise extended.
+
+A Qualifying Unitholder is a Unitholder who is:
+
+a. an individual;
+
+b. a company incorporated and tax resident in Singapore;
+
+c. a Singapore branch of a company incorporated outside Singapore;
+
+d. a body of persons (excluding company or partnership) incorporated or registered in Singapore, including a charity registered under the Charities Act 1994 or established by any written law, a town council, a statutory board, a co-operative society registered under the Co-operative Societies Act 1979, a platform work association registered under Part 3 of the Platform Workers Act 2024 or a trade union registered under the Trade Unions Act 1940;
+
+e. an international organisation that is exempt from tax on such distributions by reason of an order made under the International Organisations (Immunities and privileges) Act 1948; or
+
+f. a real estate investment trust exchange-traded fund which has been accorded the tax transparency treatment.
+
+<!-- PAGE 125 -->
+
+## **3.16 Income tax** (continued)
+
+A Qualifying Non-Resident Unitholder is a person other than an individual not resident in Singapore for Singapore income tax purposes and:
+
+a. who does not have a permanent establishment in Singapore; or
+
+b. who carries on an operation in Singapore through a permanent establishment in Singapore, where the funds used by that person to acquire the Units are not obtained from that operation in Singapore.
+
+A Qualifying Non-Resident Fund is one who is not a resident in Singapore for Singapore income tax purposes, qualifies for tax exemption under section 13D, 13OA (from 1 January 2025), 13U or 13V of the Income Tax Act 1947 and:
+
+a. who does not have any permanent establishment in Singapore (other than the fund manager in Singapore); or
+
+b. who carries on any operation in Singapore through a permanent establishment in Singapore (other than the fund manager in Singapore), where the funds used to acquire the Units are not obtained from that operation.
+
+In the event that there are subsequent adjustments to the Specified Taxable Income when the actual Specified Taxable Income is finally agreed with the IRAS, such adjustments are taken up as an adjustment to the amount of Specified Taxable Income to be distributed for the next distribution following the agreement with the IRAS.
+
+The above tax transparency treatment does not apply to gains from sale of real properties. Such gains, if they are considered as trading gains, are assessable to tax in accordance with Section 10(1)(a) of the Income Tax Act (1947) and are to be collected from the Trustee. Where the gains are capital gains (and provided the gains are not otherwise taxable under Section 10L of the Income Tax Act 1947, which is broadly applicable to gains from the sale of foreign assets), they will not be assessed to tax and the Trustee and Manager may distribute the capital gains to Unitholders without having to deduct tax at source.
+
+## Tax exemption
+
+Pursuant to the Foreign-Source Income Tax Exemption Ruling issued by the Ministry of Finance and subject to meeting the terms and conditions of the tax ruling, the Trust and/or its Singapore subsidiaries (i.e. KDCR GVP Pte. Ltd., KDCR Netherlands 1 Pte. Ltd., KDCR Netherlands 2 Pte. Ltd., KDCR Netherlands 3 Pte. Ltd., KDCR UK Pte. Ltd., KDCR Three Pte. Ltd., KDCR Japan 1 Pte. Ltd. and KDCR Japan 2 Pte. Ltd. (collectively, the “Singapore Subsidiaries”)) will be exempted from Singapore tax on foreign-sourced dividends and interest income received from overseas entities in Australia, Malaysia, England, the Netherlands, Germany, the British Virgin Islands, the Bailiwick of Guernsey (“Guernsey”), the People’s Republic of China and Japan.
+
+Any distributions made by the Trust to the Unitholders out of tax-exempt income and income taxed at Trust’s level would be exempted from Singapore income tax in the hands of all Unitholders.
+
+## 3.17 Operating segments
+
+An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, including revenues and expenses that relate to transactions with any of the Group’s other components. All operating segments’ operating results are reviewed regularly by the Manager to make decisions about resources to be allocated to the segment and to assess its performance, and for which discrete financial information is available.
+
+Segment results that are reported to the senior management of the Manager include items directly attributable to a segment as well as those that can be allocated on a reasonable basis. Unallocated items comprise mainly corporate assets (primarily the Trust’s head office), notes receivables, head office expenses, and tax assets and liabilities.
+
+Segment capital expenditure is the total cost incurred during the year to acquire and fit-out investment properties.
+
+## 3.18 Provisions
+
+A provision is recognised if, as a result of a past event, the Group has a present obligation (legal or constructive) that can be estimated reliably, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation. Provisions are determined by discounting the expected future cash flows at a pre-tax rate that reflects the current market assessments of the time value of money and the risks specific to the liability. The unwinding of the discount is recognised as finance cost.
+
+## 3.19 Government grants
+
+Grants from the government are recognised as a receivable at their fair value when there is reasonable assurance that the grant will be received and the Group will comply with all the attached conditions.
+
+Government grants receivable are recognised as income over the periods necessary to match them with the related costs which they are intended to compensate, on a systematic basis. Government grants relating to expenses are shown separately as other income within gross revenue.
+
+<!-- PAGE 126 -->
+
+## 3.20 Significant Accounting Estimates and Judgements
+
+The preparation of the financial statements requires the Manager to make judgements, estimates and assumptions that affect the application of accounting policies and reported amounts of assets, liabilities, income, expenses and disclosures made. The estimates and associated assumptions are based on historical experience and relevant factors, including expectations of future events that are believed to be reasonable under the circumstances. Estimates and underlying assumptions are reviewed on an ongoing basis. Financial impact arising from revisions to accounting estimates are recognised in the period in which the estimates are revised and in any future periods affected. In particular, significant areas of estimation, uncertainty and critical judgements in applying accounting policies that have the most significant effect on the amounts recognised in the financial statements is the valuation of investment properties included in Note 4 – Investment Properties and specific assumptions and estimates included in Note 29 – Fair Value of Assets and Liabilities.
+
+## 3.21 New Standards and Interpretations not adopted
+
+Below are the new or amended standards and interpretations to existing standards that have been published, and are relevant for the Group’s accounting periods beginning on or after 1 January 2026 and which the Group has not early adopted:
+
+* Amendments to SFRS(I) 9 and SFRS(I) 7 – Amendments to the Classification and Measurement of Financial Instruments
+
+* SFRS(I) 18 – Presentation and Disclosure in Financial Statements
+
+* SFRS(I) 19 – Subsidiaries without Public Accountability: Disclosures
+
+The new or amended accounting Standards and Interpretations listed above are not mandatory for 31 December 2025 reporting periods and have not been early adopted by the Group. These are not expected to have a material impact on the Group in the current or future reporting periods and on foreseeable future transactions, except for SFRS(I) 18 as disclosed below.
+
+**SFRS(I) 18 – Presentation and Disclosure in Financial Statements (effective for annual reporting periods beginning on or after 1 January 2027)**
+
+SFRS(I) 18 will replace SFRS(I) 1-1 Presentation of Financial Statements, introducing new requirements that will help to achieve comparability of financial performance of similar entities and provide more relevant information and transparency to users. Even though SFRS(I) 18 will not impact the recognition or measurement of items in the financial statements, its impacts on presentation and disclosure are expected to be pervasive, in particular those related to the statement of financial performance (comprising of the statement of profit or loss and other comprehensive income) and providing disclsoures on management-defined performance measures within the financial statements.
+
+The Manager is currently assessing the detailed implications of applying the new standard on the group’s consolidated financial statements. From the high-level preliminary assessment performed, the following potential impacts have been identified:
+
+* Although the adoption of SFRS(I) 18 will have no impact on the group’s net profit, the group expects that grouping items of income and expenses in the statement of profit or loss into the new categories will impact how operating profit is calculated and reported. From the high-level impact assessment that the group has performed, the following items might potentially impact operating profit:
+
+    - Foreign exchange differences currently aggregated in the line item ‘net foreign exchange loss’ might need to be disaggregated, with some foreign exchange gains or losses presented below operating profit.
+
+    - SFRS(I) 18 has specific requirements on the category in which derivative gains or losses are presented – which is the same category as the income and expenses affected by the risk that the derivative is used to manage. Although the group currently presents such gains or losses outside of operating profit, there might be a change to where these gains or losses are presented, and the group is currently evaluating the need for change.
+
+* The line items presented on the primary financial statements might change as a result of the application of the concept of ‘useful structured summary’ and the enhanced principles on aggregation and disaggregation.
+
+* The group does not expect there to be a significant change in the information that is currently disclosed in the notes because the requirement to disclose material information remains unchanged; however, the way in which the information is grouped might change as a result of the enhanced principles of aggregation and disaggregation. In addition, there will be significant new disclosures required for:
+
+    - management-defined performance measures;
+
+    - a break-down of the nature of expenses for line items presented by function in the operating category of the statement of profit or loss – this break-down is only required for certain nature expenses; and
+
+    - for the first annual period of application of SFRS(I) 18, a reconciliation for each line item in the statement of profit or loss between the restated amounts presented by applying SFRS(I) 18 and the amounts previously presented applying SFRS(I) 1-1.
+
+The Group will apply the new standard from its mandatory effective date of 1 January 2027. Retrospective application is required, and so the comparative information for the financial year ending 31 December 2026 will be restated in accordance with SFRS(I) 18.
+
+<!-- PAGE 127 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 4(i) INVESTMENT PROPERTIES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>4,904,007</td>
+        <td>3,655,932</td>
+        <td>524,772</td>
+        <td>530,837</td>
+    </tr>
+    <tr>
+        <td>Acquisitionsᵇ</td>
+        <td>1,037,815</td>
+        <td>1,222,122</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Additionsᶜ</td>
+        <td>28,849</td>
+        <td>23,869</td>
+        <td>2,655</td>
+        <td>230</td>
+    </tr>
+    <tr>
+        <td>Divestmentᵈ</td>
+        <td>(54,682)</td>
+        <td>(115,544)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Capital expenditure</td>
+        <td>38,923</td>
+        <td>28,409</td>
+        <td>2,505</td>
+        <td>4,026</td>
+    </tr>
+    <tr>
+        <td>Transfer to investment property held for saleᵈ (Note 4(ii))</td>
+        <td>–</td>
+        <td>(16,520)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Net change in fair value</td>
+        <td>166,485</td>
+        <td>119,095</td>
+        <td>(34,932)</td>
+        <td>(10,321)</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>12,003</td>
+        <td>(13,356)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>At 31 December</strong></td>
+        <td><strong>6,133,400</strong></td>
+        <td><strong>4,904,007</strong></td>
+        <td><strong>495,000</strong></td>
+        <td><strong>524,772</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+Reconciliation of fair value measurement to valuation reports
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fair value on investment properties based on valuation reports</td>
+        <td>6,116,560</td>
+        <td>4,874,846</td>
+        <td>495,000</td>
+        <td>516,400</td>
+    </tr>
+    <tr>
+        <td>Add: Carrying amount of lease liabilitiesᵉ</td>
+        <td>16,840</td>
+        <td>29,161</td>
+        <td>–</td>
+        <td>8,372</td>
+    </tr>
+    <tr>
+        <td><strong>Carrying amount of investment properties</strong></td>
+        <td><strong>6,133,400</strong></td>
+        <td><strong>4,904,007</strong></td>
+        <td><strong>495,000</strong></td>
+        <td><strong>524,772</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+a. Investment properties are stated at fair value based on valuations performed by independent valuers, Savills (UK) Limited, Savills Japan Valuation G.K., JLL Morii Valuation & Advisory K.K., Cushman & Wakefield Limited, Knight Frank Pte Ltd, Colliers International Consultancy & Valuation (Singapore) Pte Ltd and CIVAS (VIC) Pty Limited (2024: Savills (UK) Limited, Savills Japan Valuation G.K., Knight Frank Pte Ltd, Colliers International Consultancy & Valuation (Singapore) Pte Ltd, Colliers Appraisal & Advisory Services Co., Ltd. and CIVAS (VIC) Pty Limited). The external independent valuers have the appropriate recognised professional qualifications and recent experience in the locations and categories of properties being valued. The fair values are based on market values, being the estimated amount for which a property could be exchanged on the date of the valuation between a willing buyer and a willing seller in an arm’s length transaction after proper marketing wherein the parties had each acted knowledgeably.
+
+In determining the fair value, the valuers have considered direct comparison method, capitalisation approach and discounted cash flows approach, which make reference to certain estimates. The key assumptions used to determine the fair value of investment properties include, amongst others, market-corroborated capitalisation yields, terminal yields, discount rates and transacted prices of comparable properties. In relying on the valuation reports, the Manager has exercised its judgement and is satisfied that the valuation approaches and estimates are reflective of current market conditions and that the valuation reports are prepared in accordance with recognised appraisal and valuation standards.
+
+At each financial year end, the Manager verifies all major inputs to the independent valuation reports, assesses investment property valuation movements compared to the prior year valuation reports, and holds discussions with the valuers on the reasons for the fair value movements.
+
+The capitalisation approach capitalises in perpetuity an income stream with appropriate adjustments for rental shortfalls and overages and discounts the stream using an appropriate capitalisation rate to arrive at the market value. The discounted cash flow approach involves estimation and projection of an income stream over a period and discounting the income stream with an internal rate of return to arrive at the market value. The discounted cash flow approach requires the valuer to assume a rental growth rate indicative of the market and the selection of a target internal rate of return consistent with current market requirements. These rates relate to significant unobservable inputs classified under Level 3 fair value measurements (Note 29).
+
+<!-- PAGE 128 -->
+
+b. On 29 December 2025, the Group paid a lease extension consideration of $350 million to the vendors of KDC SGP 7 and KDC SGP 8 for a 10-year land tenure lease extension. On 19 November 2025, Keppel DC REIT completed the acquisition of 98.47% effective interest in Tokyo DC 3, Inzai City, Japan.
+
+In 2024, the Group completed the acquisitions of 98.47% effective interest in Tokyo DC 1 and 99.49% economic interest in KDC SGP 7 and KDC SGP 8.
+
+These acquisitions have been accounted for as asset acquisitions.
+
+c. The additions include transaction-related costs and any costs other than capital expenditures capitalised as part of the investment properties.
+
+d. On 24 March 2025, the Group divested Kelsterbach DC for a consideration of approximately $70.6 million.
+
+In 2024, the Group completed the divestment of Intellicentre Campus and entered into a sale and purchase agreement to divest Basis Bay DC. Basis Bay DC has been transferred to Investment Property held for Sale (Note 4(ii)).
+
+e. In 2025, the Group and the Trust exercised the option, paid and extended the leasehold land interest in KDC SGP 1 by 30 years.
+
+The lease liabilities of the Group as at 31 December 2025 relate to extension offers for certain leasehold lands in Singapore which the Group is reasonably certain to take up.
+
+f. At 31 December 2025, the Group’s investment properties amounting to $6,133.4 million (2024: $4,904.0 million) were free from encumbrances for debt facilities.
+
+# 4(ii) INVESTMENT PROPERTY HELD FOR SALE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>16,520</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Transfer from investment property (Note 4(i))</td>
+        <td>–</td>
+        <td>16,520</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>572</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td>17,092</td>
+        <td>16,520</td>
+    </tr>
+  </tbody>
+</table>
+
+In 2024, the Group entered into a sale and purchase agreement to divest Basis Bay DC. To the best of the Manager's knowledge and assessment, this agreement to divest Basis Bay DC (currently held for sale) remains valid and completion is expected to be within one year.
+
+# 4(iii) ASSET HELD FOR SALE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP AND TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Transfer from notes receivables (Note 8)</td>
+        <td>75,237</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Transfer from trade and other receivables</td>
+        <td>189</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td>75,426</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+On 11 August 2025, Keppel DC REIT entered into a sale and purchase agreement to divest notes issued by M1 Network Private Limited (the “NetCo Bonds”) based on the aggregate principal amount outstanding of the NetCo Bonds at the date of completion together with interests accrued.
+
+<!-- PAGE 129 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+# 5 INVESTMENT IN SUBSIDIARIES
+
+<table>
+  <thead>
+    <tr>
+<th colspan="3">TRUST</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3">Investment in subsidiaries, at cost less accumulated impairment</td>
+    </tr>
+    <tr>
+<td>At 1 January</td>
+<td><strong>3,015,294</strong></td>
+<td>2,268,228</td>
+    </tr>
+    <tr>
+<td>Capital injection, net of capital reductions</td>
+<td><strong>888,455</strong></td>
+<td>804,445</td>
+    </tr>
+    <tr>
+<td>Impairment loss, net of reversals</td>
+<td><strong>(36,526)</strong></td>
+<td>(57,379)</td>
+    </tr>
+    <tr>
+<td>At 31 December</td>
+<td><strong>3,867,223</strong></td>
+<td>3,015,294</td>
+    </tr>
+  </tbody>
+</table>
+
+The Manager assesses at the end of each financial year whether there is any indication of impairment for Keppel DC REIT’s subsidiaries. The assessment takes into account the recoverable amount based on the cash flow estimates of the underlying assets, which comprise mainly investment properties which are stated at fair value based on revaluation performed by independent valuers. The Manager assessed the recoverable amount of the investments and recognised impairment loss of $64.7 million (2024: $57.4 million) during the year, which arose mainly due to fair value losses on certain overseas investment properties. The Manager recognised reversals of impairment loss of $28.2 million (2024: Nil) during the year, which arose mainly due to a gain on divestment of an investment property.
+
+## Listing of significant subsidiaries in the Group
+
+<table>
+  <thead>
+    <tr>
+<th>Name of entities</th>
+<th>Principal activities</th>
+<th>Place of incorporation/business</th>
+<th colspan="2">Effective equity held by the Trust</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>%</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>Subsidiaries</strong></td>
+    </tr>
+    <tr>
+<td>Keppel DC REIT Fin. Company Pte. Ltd.</td>
+<td>Provision of treasury services</td>
+<td>Singapore</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Keppel DC REIT MTN Pte. Ltd.</td>
+<td>Provision of treasury services</td>
+<td>Singapore</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 3 LLP (“KDCS3 LLP”)</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Singapore</td>
+<td><strong>90</strong></td>
+<td>90</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 4 LLP (“KDCS4 LLP”)</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Singapore</td>
+<td><strong>99</strong></td>
+<td>99</td>
+    </tr>
+    <tr>
+<td>Keppel DC Singapore 5 LLP (“KDCS5 LLP”)</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Singapore</td>
+<td><strong>99</strong></td>
+<td>99</td>
+    </tr>
+    <tr>
+<td>Memphis 1 Pte. Ltd.(“M1PL”)</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Singapore</td>
+<td><strong>100</strong></td>
+<td>99.49</td>
+    </tr>
+    <tr>
+<td>Datacentre One LLPᶜ</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Singapore</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>KDCR Singapore 2 Pte. Ltd.</td>
+<td>Investment Holding</td>
+<td>Singapore</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Basis Bay Capital Management Sdn. Bhd.ᵃ</td>
+<td>Investment in real estate properties</td>
+<td>Malaysia</td>
+<td><strong>99</strong></td>
+<td>99</td>
+    </tr>
+    <tr>
+<td>KDCR Australia Trust No.2ᵇ</td>
+<td>Investment in real estate properties</td>
+<td>Australia</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>KDCR Guangdong Co., Ltdᵃ</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>China</td>
+<td><strong>100</strong></td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>KDCR Tokyo 1 TMKᵃ</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Japan</td>
+<td><strong>98.47</strong></td>
+<td>98.47</td>
+    </tr>
+    <tr>
+<td>KDCR Tokyo 2 TMKᵃ (“KDCRT2 TMK”)</td>
+<td>Letting of self-owned or leased real estate property</td>
+<td>Japan</td>
+<td><strong>98.47</strong></td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 130 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of entities</th>
+        <th>Principal activities</th>
+        <th>Place of incorporation/business</th>
+        <th colspan="2">Effective equity held by the Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>%</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5"><em>Subsidiaries</em></td>
+    </tr>
+    <tr>
+        <td>KDCR Almere B.V. ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>The Netherlands</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR Netherlands 3 B.V. ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>The Netherlands</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR Netherlands 5 B.V. ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>The Netherlands</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR Netherlands 6 B.V. ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>The Netherlands</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR (Ireland) Limited ᵃ</td>
+        <td>Investment<br/>in real estate properties<br/>and provision of data services<br/>and colocation services</td>
+        <td>Republic<br/>of Ireland</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR (Ireland) 2 Limited ᵃ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>Republic<br/>of Ireland</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>BI71 SRL ᵃ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>Italy</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Greenwich View Place Limited ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>Guernsey</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR Cardiff Limited ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>Guernsey</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>KDCR England Limited ᵇ</td>
+        <td>Investment in<br/>real estate properties</td>
+        <td>Guernsey</td>
+        <td><strong>100</strong></td>
+        <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+\*ᵃ PricewaterhouseCoopers LLP, is the auditor of the Singapore-incorporated subsidiaries. KDCR (Ireland) Limited, KDCR (Ireland) 2 Limited, Basis Bay Capital Management Sdn Bhd, KDCR Guangdong Co., Ltd, KDCR Tokyo 1 TMK, KDCR Tokyo 2 TMK and BI71 SRL, are audited by PricewaterhouseCoopers, PricewaterhouseCoopers PLT, PricewaterhouseCoopers Zhong Tian LLP, PricewaterhouseCoopers Japan LLC and PricewaterhouseCoopers SpA.
+
+\*ᵇ Not required to be audited by law in the country of incorporation.
+
+\*ᶜ On 10 April 2025, Datacentre One Pte. Ltd. was converted to Datacentre One LLP, a limited liability partnership pursuant to section 21 of the Limited Liability Partnership Act 2005 of Singapore.
+
+# 6 LOANS TO SUBSIDIARIES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Loans to subsidiaries</td>
+        <td><strong>260,731</strong></td>
+        <td>586,483</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Current</td>
+        <td><strong>41,399</strong></td>
+        <td>71,651</td>
+    </tr>
+    <tr>
+        <td>Non-current</td>
+        <td><strong>219,332</strong></td>
+        <td>514,832</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>260,731</strong></td>
+        <td>586,483</td>
+    </tr>
+  </tbody>
+</table>
+
+Loans to subsidiaries are unsecured. The interest-bearing loans range from 3.1% to 5.5% (2024: 3.5% to 7.1%). The non-interest bearing loans amounting to $188.7 million (2024: $184.8 million) have no fixed repayment terms and are intended to be long-term funding source for the subsidiaries.
+
+<!-- PAGE 131 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+# 7 INVESTMENT IN A JOINT VENTURE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Equity investments at cost</td>
+        <td>–</td>
+        <td>1,000</td>
+    </tr>
+    <tr>
+        <td>Share of reserves</td>
+        <td>–</td>
+        <td>(1,000)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+M1 Network Private Limited (“NetCo”) is incorporated in and maintains a place of business in Singapore. Based on the agreement, the Group owns 100% preference shares in NetCo and its joint venture partner owns 100% ordinary shares in NetCo. Accordingly, the Group accounts for its interest based on 100% economic interest in NetCo. The preference shares are part of the sale and purchase agreement in Note 4(iii).
+
+Set out below is the summarised financial information for NetCo.
+
+## Summarised statement of financial position
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Current assets</td>
+<td>22,480</td>
+    </tr>
+    <tr>
+<td colspan="2">Includes:</td>
+    </tr>
+    <tr>
+<td>– Cash and cash equivalents</td>
+<td>2,737</td>
+    </tr>
+    <tr>
+<td>Current liabilities</td>
+<td>(37,753)</td>
+    </tr>
+    <tr>
+<td colspan="2">Includes:</td>
+    </tr>
+    <tr>
+<td>– Financial liabilities (excluding trade payables)</td>
+<td>(36,007)</td>
+    </tr>
+    <tr>
+<td>Non-current assets</td>
+<td>436,039</td>
+    </tr>
+    <tr>
+<td>Non-current liabilities</td>
+<td>(453,417)</td>
+    </tr>
+    <tr>
+<td colspan="2">Includes:</td>
+    </tr>
+    <tr>
+<td>– Financial liabilities (excluding trade payables)</td>
+<td>(453,417)</td>
+    </tr>
+    <tr>
+<td>Net liabilities</td>
+<td>(32,651)</td>
+    </tr>
+  </tbody>
+</table>
+
+## Summarised statement of comprehensive income
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Revenue</td>
+<td>50,900</td>
+    </tr>
+    <tr>
+<td colspan="2">Expenses</td>
+    </tr>
+    <tr>
+<td colspan="2">Includes:</td>
+    </tr>
+    <tr>
+<td>– Depreciation and amortisation</td>
+<td>(37,536)</td>
+    </tr>
+    <tr>
+<td>– Finance costs</td>
+<td>(18,131)</td>
+    </tr>
+    <tr>
+<td>– Other costs</td>
+<td>(24,905)</td>
+    </tr>
+    <tr>
+<td>Loss before taxation</td>
+<td>(29,672)</td>
+    </tr>
+    <tr>
+<td>Taxation</td>
+<td>4,286</td>
+    </tr>
+    <tr>
+<td>Loss after taxation</td>
+<td>(25,386)</td>
+    </tr>
+    <tr>
+<td>Other comprehensive loss</td>
+<td>(6,375)</td>
+    </tr>
+    <tr>
+<td>Total comprehensive loss</td>
+<td>(31,761)</td>
+    </tr>
+  </tbody>
+</table>
+
+The information above reflects the amounts presented in the financial statements of the joint venture, adjusted for difference in accounting policies between the Group and the joint venture. Other comprehensive loss comprises mark-to-market changes from an interest rate swap.
+
+As at 31 December 2024, the Group has not recognised losses totalling $32.7 million in relation to its investment in a joint venture, because the Group has no obligation in respect of these losses.
+
+<!-- PAGE 132 -->
+
+# 8 NOTES RECEIVABLES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>159,129</td>
+        <td>82,560</td>
+        <td>79,073</td>
+        <td>82,560</td>
+    </tr>
+    <tr>
+        <td>Additions</td>
+        <td>–</td>
+        <td>81,851</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Receipt of principal during the year</td>
+        <td>(3,836)</td>
+        <td>(3,487)</td>
+        <td>(3,836)</td>
+        <td>(3,487)</td>
+    </tr>
+    <tr>
+        <td>Amortisation of transaction costs</td>
+        <td>(104)</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Transfer to asset held for sale (Note 4 (iii))</td>
+        <td>(75,237)</td>
+        <td>–</td>
+        <td>(75,237)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>(2,785)</td>
+        <td>(1,795)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td>77,167</td>
+        <td>159,129</td>
+        <td>–</td>
+        <td>79,073</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Non-current</td>
+        <td>77,167</td>
+        <td>155,293</td>
+        <td>–</td>
+        <td>75,237</td>
+    </tr>
+    <tr>
+        <td>Current</td>
+        <td>–</td>
+        <td>3,836</td>
+        <td>–</td>
+        <td>3,836</td>
+    </tr>
+    <tr>
+        <td>Total notes receivables</td>
+        <td>77,167</td>
+        <td>159,129</td>
+        <td>–</td>
+        <td>79,073</td>
+    </tr>
+  </tbody>
+</table>
+
+On 24 June 2024, Keppel DC REIT subscribed for A$90.0 million of AU DC Note issued by Macquarie Data Centres Group Pty Ltd. The AU DC Note bears interest at an initial rate of 6.97% per annum and adjusted in accordance with the formula set out in the subscription agreement and shall mature in 2032. The AU DC Note is unsecured and may be redeemed at par prior to maturity, subject to certain conditions.
+
+The NetCo Bonds comprise $75.2 million (2024: $79.1 million) issued by a joint venture matures in 2036, with fixed interest rate of 9.17% per annum, the receipt of principal and interest amount to $11.0 million per annum, payable semi-annually. The NetCo Bonds have been re-classified to asset held for sale.
+
+# 9 TRADE AND OTHER RECEIVABLES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Trade receivables</td>
+        <td>92,005</td>
+        <td>101,749</td>
+        <td>5,710</td>
+        <td>2,595</td>
+    </tr>
+    <tr>
+        <td>Less: Loss allowance</td>
+        <td>–</td>
+        <td>(30,840)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>92,005</td>
+        <td>70,909</td>
+        <td>5,710</td>
+        <td>2,595</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Other receivables</td>
+        <td>89,827</td>
+        <td>35,896</td>
+        <td>1,549</td>
+        <td>1,339</td>
+    </tr>
+    <tr>
+        <td>Less: Loss allowance</td>
+        <td>–</td>
+        <td>(2,257)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>89,827</td>
+        <td>33,639</td>
+        <td>1,549</td>
+        <td>1,339</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Accrued income</td>
+        <td>22,483</td>
+        <td>14,048</td>
+        <td>1,944</td>
+        <td>984</td>
+    </tr>
+    <tr>
+        <td>Amount due from subsidiaries</td>
+        <td>–</td>
+        <td>–</td>
+        <td>30,045</td>
+        <td>315</td>
+    </tr>
+    <tr>
+        <td>Prepayments</td>
+        <td>13,364</td>
+        <td>4,302</td>
+        <td>–</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>217,679</td>
+        <td>122,898</td>
+        <td>39,248</td>
+        <td>5,253</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Non-current</td>
+        <td>13,472</td>
+        <td>16,526</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Current</td>
+        <td>204,207</td>
+        <td>106,372</td>
+        <td>39,248</td>
+        <td>5,253</td>
+    </tr>
+    <tr>
+        <td>Total trade and other receivables</td>
+        <td>217,679</td>
+        <td>122,898</td>
+        <td>39,248</td>
+        <td>5,253</td>
+    </tr>
+  </tbody>
+</table>
+
+Accrued income relates to lease income which has been recognised but not yet billed to the clients.
+
+Amount due from subsidiaries are non-trade in nature, unsecured, interest-free and repayable on demand.
+
+<!-- PAGE 133 -->
+
+# 10 DERIVATIVE FINANCIAL INSTRUMENTS
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>Maturity</th>
+<th>Contract/<br/>Notional<br/>amount<br/>$’000</th>
+<th>Assets<br/>$’000</th>
+<th>Liabilities<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>GROUP</strong></td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>2025</strong></td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Current</strong></td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td>– Forward exchange contracts</td>
+<td>2026</td>
+<td>29,693</td>
+<td>219</td>
+<td>(826)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td colspan="5">Cash-flow hedge</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps</td>
+<td>2026</td>
+<td>164,163</td>
+<td>208</td>
+<td>(989)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>427</td>
+<td>(1,815)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Non-current</strong></td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td>– Forward exchange contracts</td>
+<td>2027-2031</td>
+<td>21,522</td>
+<td>508</td>
+<td>(266)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td colspan="5">Cash-flow hedge</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps</td>
+<td>2027-2031</td>
+<td>842,483</td>
+<td>7,366</td>
+<td>(5,582)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>7,874</td>
+<td>(5,848)</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>Maturity</th>
+<th>Contract/<br/>Notional<br/>amount<br/>$’000</th>
+<th>Assets<br/>$’000</th>
+<th>Liabilities<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>GROUP</strong></td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>2024</strong></td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Current</strong></td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td>– Forward exchange contracts</td>
+<td>2025</td>
+<td>42,998</td>
+<td>1,124</td>
+<td>(196)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td colspan="5">Cash-flow hedge</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps</td>
+<td>2025</td>
+<td>317,339</td>
+<td>3,185</td>
+<td>(260)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>4,309</td>
+<td>(456)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Non-current</strong></td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td>– Forward exchange contracts</td>
+<td>2026-2027</td>
+<td>25,097</td>
+<td>380</td>
+<td>(6)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivatives designated as hedging instruments:</td>
+    </tr>
+    <tr>
+<td colspan="5">Cash-flow hedge</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps</td>
+<td>2026-2030</td>
+<td>564,235</td>
+<td>14,626</td>
+<td>(8,658)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>15,006</td>
+<td>(8,664)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 134 -->
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Maturity</th>
+        <th>Contract/Notional<br/>amount</th>
+        <th>Assets</th>
+        <th>Liabilities</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5">TRUST</td>
+    </tr>
+    <tr>
+        <td colspan="5">2025</td>
+    </tr>
+    <tr>
+        <td colspan="5">Current</td>
+    </tr>
+    <tr>
+        <td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+        <td>– Forward exchange contracts</td>
+        <td>2026</td>
+        <td>29,693</td>
+        <td>219</td>
+        <td>(826)</td>
+    </tr>
+    <tr>
+        <td>– Interest rate swaps</td>
+        <td>2026</td>
+        <td>90,000</td>
+        <td>–</td>
+        <td>(289)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>219</td>
+        <td>(1,115)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="5">Non-current</td>
+    </tr>
+    <tr>
+        <td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+        <td>– Forward exchange contracts</td>
+        <td>2027-2031</td>
+        <td>21,522</td>
+        <td>508</td>
+        <td>(266)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="5">Derivatives designated as hedging instruments:</td>
+    </tr>
+    <tr>
+        <td>– Interest rate swaps</td>
+        <td>2029-2031</td>
+        <td>352,878</td>
+        <td>3,556</td>
+        <td>(3,556)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>4,064</td>
+        <td>(3,822)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="5">2024</td>
+    </tr>
+    <tr>
+        <td colspan="5">Current</td>
+    </tr>
+    <tr>
+        <td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+        <td>– Forward exchange contracts</td>
+        <td>2025</td>
+        <td>42,998</td>
+        <td>1,124</td>
+        <td>(196)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="5">Non-current</td>
+    </tr>
+    <tr>
+        <td colspan="5">Derivatives not designated as hedging instruments:</td>
+    </tr>
+    <tr>
+        <td>– Forward exchange contracts</td>
+        <td>2026-2027</td>
+        <td>25,097</td>
+        <td>380</td>
+        <td>(6)</td>
+    </tr>
+    <tr>
+        <td>– Interest rate swaps</td>
+        <td>2026</td>
+        <td>90,000</td>
+        <td>1,670</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>2,050</td>
+        <td>(6)</td>
+    </tr>
+  </tbody>
+</table>
+
+Derivatives not designated as hedging instruments reflect the change in fair value of foreign exchange forward contracts that are not designated in hedge relationships, but are, nevertheless, intended to reduce the level of foreign currency risk for highly probable transactions.
+
+Interest rate swaps are used to hedge interest rate risk arising from the underlying floating interest rates of respective borrowings (Note 15). Under these interest rate swaps, the Group receives the following floating interest equal to SORA, Tokyo Overnight Average Rate (“TONA”), AUD bank bill swap bid rate (“BBSW”), Euro interbank offer rate (“EURIBOR”), Sterling Overnight Index Average (“SONIA”) and 1-year loan prime year (“1Y LPR”) at specific contracted intervals.
+
+The Group designates the interest rate swaps as cash flow hedges. In respective of these contracts, net fair value losses of $8.2 million (2024: net fair value losses of $11.5 million) were included in hedging reserve for the Group as at the financial year.
+
+<!-- PAGE 135 -->
+
+## 10 DERIVATIVE FINANCIAL INSTRUMENTS (continued)
+
+**Hedging instruments used in Group’s hedging strategy in 2025 and 2024**
+
+There were no material hedge ineffectiveness for the derivative hedging instruments for current and prior financial year.
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th>Carrying Amount</th>
+<th> </th>
+<th> </th>
+<th> </th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Contractual notional amount<br/>$’000</th>
+<th>Assets/(Liabilities)<br/>$’000</th>
+<th>Category</th>
+<th>Weighted average hedged rate</th>
+<th>Maturity date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6">GROUP</td>
+    </tr>
+    <tr>
+<td colspan="6">2025</td>
+    </tr>
+    <tr>
+<td colspan="6">Cash flow hedge</td>
+    </tr>
+    <tr>
+<td colspan="6">Interest rate risk</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps to hedge floating rate borrowings</td>
+<td>1,006,646</td>
+<td>1,003</td>
+<td>Derivative financial instruments</td>
+<td>1.80%</td>
+<td>2026-2031</td>
+    </tr>
+    <tr>
+<td colspan="6">Net investment hedge</td>
+    </tr>
+    <tr>
+<td colspan="6">Foreign exchange risk</td>
+    </tr>
+    <tr>
+<td>– Borrowings to hedge net investments in foreign operations</td>
+<td>–</td>
+<td>(925,253)</td>
+<td>Borrowings</td>
+<td>AUD 1 : $0.85<br/>EUR 1 : $1.50<br/>GBP 1 : $1.72<br/>JPY 100: $0.8303</td>
+<td>2026-2031</td>
+    </tr>
+    <tr>
+<td colspan="6">2024</td>
+    </tr>
+    <tr>
+<td colspan="6">Cash flow hedge</td>
+    </tr>
+    <tr>
+<td colspan="6">Interest rate risk</td>
+    </tr>
+    <tr>
+<td>– Interest rate swaps to hedge floating rate borrowings</td>
+<td>881,574</td>
+<td>8,893</td>
+<td>Derivative financial instruments</td>
+<td>2.19%</td>
+<td>2025-2030</td>
+    </tr>
+    <tr>
+<td colspan="6">Net investment hedge</td>
+    </tr>
+    <tr>
+<td colspan="6">Foreign exchange risk</td>
+    </tr>
+    <tr>
+<td>– Borrowings to hedge net investments in foreign operations</td>
+<td>–</td>
+<td>(757,879)</td>
+<td>Borrowings</td>
+<td>AUD 1 : $0.88<br/>EUR 1 : $1.41<br/>GBP 1 : $1.70</td>
+<td>2025-2030</td>
+    </tr>
+  </tbody>
+</table>
+
+## 11 DEPOSITS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025<br/>$’000</th>
+        <th>2024<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Deposits</td>
+        <td>–</td>
+        <td>5,604</td>
+    </tr>
+    <tr>
+        <td>Less: Loss allowance</td>
+        <td>–</td>
+        <td>(4,985)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>–</td>
+        <td>619</td>
+    </tr>
+  </tbody>
+</table>
+
+Deposits relate to amount paid to the vendor for the fit-out of the facilities and equipment as part of a framework agreement entered into in conjunction with the acquisition of Guangdong DC 3. As at 31 December 2024, the long-stop date for the fit-out completion has passed. The Group has reserved its rights under the agreement.
+
+As at 31 December 2025, the Group has written off the fully impaired deposits.
+
+<!-- PAGE 136 -->
+
+# 12 DEFERRED TAXATION
+
+Deferred tax assets and liabilities are attributable to the following:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="4">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Assets</th>
+        <th>Liabilities</th>
+        <th>Assets</th>
+        <th>Liabilities</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Investment properties</td>
+        <td>9,226</td>
+        <td>(129,175)</td>
+        <td>7,191</td>
+        <td>(109,081)</td>
+    </tr>
+    <tr>
+        <td>Tax losses carried forward</td>
+        <td>10,870</td>
+        <td>–</td>
+        <td>3,696</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Allowance against assets</td>
+        <td>–</td>
+        <td>–</td>
+        <td>9,521</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>20,096</td>
+        <td>(129,175)</td>
+        <td>20,408</td>
+        <td>(109,081)</td>
+    </tr>
+    <tr>
+        <td>Offset</td>
+        <td>(19,848)</td>
+        <td>19,848</td>
+        <td>(16,354)</td>
+        <td>16,354</td>
+    </tr>
+    <tr>
+        <td>Deferred tax assets/(liabilities)</td>
+        <td>248</td>
+        <td>(109,327)</td>
+        <td>4,054</td>
+        <td>(92,727)</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Liabilities</th>
+<th>Liabilities</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3">Investment properties</td>
+    </tr>
+    <tr>
+<td>Deferred tax liabilities</td>
+<td>(17,596)</td>
+<td>(16,218)</td>
+    </tr>
+  </tbody>
+</table>
+
+Movement in temporary differences during the year:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>At</th>
+<th>Acquisition of a</th>
+<th>Recognised in</th>
+<th>Recognised in other</th>
+<th>Currency</th>
+<th>At</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>1 January</th>
+<th>subsidiary</th>
+<th>profit or loss</th>
+<th>comprehensive income</th>
+<th>translation differences</th>
+<th>31 December</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="7"><strong>GROUP</strong></td>
+    </tr>
+    <tr>
+<td colspan="7"><strong>2025</strong></td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>(101,889)</td>
+<td>461</td>
+<td>(16,513)</td>
+<td>–</td>
+<td>(2,008)</td>
+<td>(119,949)</td>
+    </tr>
+    <tr>
+<td>Tax losses carried forward</td>
+<td>3,696</td>
+<td>–</td>
+<td>7,818</td>
+<td>(334)</td>
+<td>(310)</td>
+<td>10,870</td>
+    </tr>
+    <tr>
+<td>Allowance against assets</td>
+<td>9,520</td>
+<td>–</td>
+<td>(9,261)</td>
+<td>–</td>
+<td>(259)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Net deferred tax liabilities</td>
+<td>(88,673)</td>
+<td>461</td>
+<td>(17,956)</td>
+<td>(334)</td>
+<td>(2,577)</td>
+<td>(109,079)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="7"><strong>2024</strong></td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>(90,828)</td>
+<td>(6,714)</td>
+<td>(5,733)</td>
+<td>–</td>
+<td>1,386</td>
+<td>(101,889)</td>
+    </tr>
+    <tr>
+<td>Tax losses carried forward</td>
+<td>2,510</td>
+<td>–</td>
+<td>1,175</td>
+<td>113</td>
+<td>(102)</td>
+<td>3,696</td>
+    </tr>
+    <tr>
+<td>Allowance against assets</td>
+<td>2,754</td>
+<td>–</td>
+<td>6,737</td>
+<td>–</td>
+<td>29</td>
+<td>9,520</td>
+    </tr>
+    <tr>
+<td>Net deferred tax liabilities</td>
+<td>(85,564)</td>
+<td>(6,714)</td>
+<td>2,179</td>
+<td>113</td>
+<td>1,313</td>
+<td>(88,673)</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>At</th>
+<th>Recognised in</th>
+<th>At</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>1 January</th>
+<th>profit or loss</th>
+<th>31 December</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="4"><strong>TRUST</strong></td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>2025</strong></td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>(16,218)</td>
+<td>(1,378)</td>
+<td>(17,596)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>2024</strong></td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>(15,012)</td>
+<td>(1,206)</td>
+<td>(16,218)</td>
+    </tr>
+  </tbody>
+</table>
+
+Net deferred tax assets and liabilities are determined by offsetting deferred tax assets against deferred tax liabilities of the same entities. Deferred tax assets are recognised for unutilised tax benefits carried forward to the extent that realisation of the related tax benefits through future taxable profits is probable.
+
+As at 31 December 2025 and 31 December 2024, the Group and Trust does not have unrecognised deductible temporary differences in respect of tax losses which can be carried forward and used to offset against future taxable income.
+
+<!-- PAGE 137 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 13 CASH AND CASH EQUIVALENTS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Bank balances</td>
+        <td>195,765</td>
+        <td>268,956</td>
+        <td>20,746</td>
+        <td>71,913</td>
+    </tr>
+    <tr>
+        <td>Short-term deposits</td>
+        <td>156,104</td>
+        <td>47,735</td>
+        <td>156,104</td>
+        <td>47,735</td>
+    </tr>
+    <tr>
+        <td>Total cash and bank balances</td>
+        <td>351,869</td>
+        <td>316,691</td>
+        <td>176,850</td>
+        <td>119,648</td>
+    </tr>
+    <tr>
+        <td>Less: restricted cash</td>
+        <td>(15,323)</td>
+        <td>(5,473)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Cash and cash equivalents in the Consolidated Statement of Cash Flows</td>
+        <td>336,546</td>
+        <td>311,218</td>
+        <td>176,850</td>
+        <td>119,648</td>
+    </tr>
+  </tbody>
+</table>
+
+For the purpose of presenting the consolidated statement of cash flows, cash and cash equivalents exclude pledged bank deposits of $5.9 million (2024: $5.3 million) to secure a guarantee in connection with the virtual power purchase agreements with unrelated corporations for renewable power and $9.5 million (2024: $0.2 million) which is required to be maintained based on agreement with the bank.
+
+## 14 LOANS FROM SUBSIDIARIES
+
+**Trust**
+
+The loans from subsidiaries are unsecured, interest-bearing, and have loan maturities of one to six years (2024: one to seven years) with interest ranging from 1.51% to 4.78% (2024: 1.19% to 4.78%) per annum.
+
+**Terms and debt repayment schedule**
+
+Terms and conditions of loans from subsidiaries are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th colspan="2">2025</th>
+        <th colspan="2">2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Interest rate</th>
+        <th>Year of</th>
+        <th>Face</th>
+        <th>Carrying</th>
+        <th>Face</th>
+        <th>Carrying</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>% per annum</th>
+        <th>maturity</th>
+        <th>value</th>
+        <th>amount</th>
+        <th>value</th>
+        <th>amount</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="7">TRUST</td>
+    </tr>
+    <tr>
+        <td colspan="7">Non-current liabilities</td>
+    </tr>
+    <tr>
+        <td>Loans from subsidiaries</td>
+        <td>1.82 – 4.78<br/>(2024: 1.19 – 4.78)</td>
+        <td>2027 – 2031<br/>(2024: 2026 – 2031)</td>
+        <td>1,428,680</td>
+        <td>1,428,680</td>
+        <td>1,353,916</td>
+        <td>1,353,916</td>
+    </tr>
+    <tr>
+        <td colspan="7">Current liabilities</td>
+    </tr>
+    <tr>
+        <td>Loans from subsidiaries</td>
+        <td>1.51 – 3.54<br/>(2024: 3.72 – 3.91)</td>
+        <td>2026<br/>(2024: 2025)</td>
+        <td>195,273</td>
+        <td>195,273</td>
+        <td>64,043</td>
+        <td>64,043</td>
+    </tr>
+  </tbody>
+</table>
+
+## 15 LOANS AND BORROWINGS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5">Non-current liabilities</td>
+    </tr>
+    <tr>
+        <td>Borrowings</td>
+        <td>2,062,824</td>
+        <td>1,606,775</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Capitalised transaction costs of debt financing</td>
+        <td>(6,681)</td>
+        <td>(3,643)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>2,056,143</td>
+        <td>1,603,132</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Lease liabilities</td>
+        <td>21,339</td>
+        <td>25,005</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>2,077,482</td>
+        <td>1,628,137</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td colspan="5">Current liabilities</td>
+    </tr>
+    <tr>
+        <td>Borrowings</td>
+        <td>312,759</td>
+        <td>77,133</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Lease liabilities</td>
+        <td>–</td>
+        <td>10,198</td>
+        <td>–</td>
+        <td>8,372</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>312,759</td>
+        <td>87,331</td>
+        <td>–</td>
+        <td>8,372</td>
+    </tr>
+    <tr>
+        <td>Total loans and borrowings</td>
+        <td>2,390,241</td>
+        <td>1,715,468</td>
+        <td>–</td>
+        <td>8,372</td>
+    </tr>
+  </tbody>
+</table>
+
+The loans and borrowings are carried at amortised cost.
+
+<!-- PAGE 138 -->
+
+All borrowings are unconditionally and irrevocably guaranteed by Perpetual (Asia) Limited (in its capacity as Trustee of Keppel DC REIT).
+
+Pursuant to the terms of the respective agreements of loans and borrowings, the Group is required to comply with financial covenants which include, amongst others, aggregate leverage and interest coverage ratio. The Group has complied with all financial covenants throughout the reporting period.
+
+### Terms and debt repayment schedule
+
+Terms and conditions of outstanding financial liabilities are as follows:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="2">2025</th>
+<th colspan="2">2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Interest rate % per annum</th>
+<th>Year of maturity</th>
+<th>Face value $’000</th>
+<th>Carrying amount $’000</th>
+<th>Face value $’000</th>
+<th>Carrying amount $’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="7"><strong>GROUP</strong></td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>1.51 – 4.78<br/>(2024: 1.08 – 4.78)</td>
+<td>2026 – 2031<br/>(2024: 2025 – 2031)</td>
+<td>2,375,583</td>
+<td>2,375,583</td>
+<td>1,683,908</td>
+<td>1,683,908</td>
+    </tr>
+  </tbody>
+</table>
+
+# 16 TRADE AND OTHER PAYABLES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Trade payables</td>
+        <td>22,740</td>
+        <td>99,217</td>
+        <td>522</td>
+        <td>168</td>
+    </tr>
+    <tr>
+        <td>Other payables and accruals</td>
+        <td>98,572</td>
+        <td>111,387</td>
+        <td>25,781</td>
+        <td>22,168</td>
+    </tr>
+    <tr>
+        <td>Distribution payables</td>
+        <td>–</td>
+        <td>70,462</td>
+        <td>–</td>
+        <td>70,462</td>
+    </tr>
+    <tr>
+        <td>Amount due to subsidiaries</td>
+        <td>–</td>
+        <td>–</td>
+        <td>3,093</td>
+        <td>2,731</td>
+    </tr>
+    <tr>
+        <td>Note payable to a non-controlling interest</td>
+        <td>–</td>
+        <td>2,335</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Interest payables</td>
+        <td>5,393</td>
+        <td>3,954</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>126,705</strong></td>
+        <td><strong>287,355</strong></td>
+        <td><strong>29,396</strong></td>
+        <td><strong>95,529</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+Amount due to subsidiaries are non-trade, unsecured, interest-free and repayable on demand.
+
+As at 31 December 2025 and 31 December 2024, other payables and accruals mainly relate to deferred payment, accruals for development costs, management fees, unearned revenue, rental deposit, audit fees, valuation fees and other expenses.
+
+# 17 PROVISION FOR TAXATION
+
+Movement in current tax liabilities:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>11,615</td>
+        <td>5,740</td>
+        <td>1,229</td>
+        <td>763</td>
+    </tr>
+    <tr>
+        <td>Income tax paid</td>
+        <td>(14,074)</td>
+        <td>(23,158)</td>
+        <td>(1,039)</td>
+        <td>(8,081)</td>
+    </tr>
+    <tr>
+        <td>Tax expense</td>
+        <td>20,081</td>
+        <td>29,011</td>
+        <td>1,324</td>
+        <td>8,547</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>(492)</td>
+        <td>22</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td><strong>17,130</strong></td>
+        <td><strong>11,615</strong></td>
+        <td><strong>1,514</strong></td>
+        <td><strong>1,229</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 139 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+# 18 UNITHOLDERS’ FUNDS
+
+## a. Foreign currency translation reserve
+
+The foreign currency translation reserve attributable to Unitholders comprises:
+
+* foreign exchange differences arising from the translation of the financial statements of foreign operations whose functional currencies are different from the presentation currency of the Group; and
+
+* foreign exchange differences on monetary items which form part of the Group’s net investment in foreign operations, provided certain conditions are met.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>(58,791)</td>
+        <td>(57,752)</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences of financial statements of foreign subsidiaries</td>
+        <td>(15,580)</td>
+        <td>3,180</td>
+    </tr>
+    <tr>
+        <td>Less: Non-controlling interests</td>
+        <td>195</td>
+        <td>(10)</td>
+    </tr>
+    <tr>
+        <td>Realisation of net currency translation differences upon reduction of share capital of foreign operations</td>
+        <td>–</td>
+        <td>7,581</td>
+    </tr>
+    <tr>
+        <td>Net currency translation difference on borrowings designated as net investment hedge of foreign operations</td>
+        <td>22,097</td>
+        <td>(11,790)</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td>(52,079)</td>
+        <td>(58,791)</td>
+    </tr>
+  </tbody>
+</table>
+
+## b. Hedging reserve
+
+The hedging reserve comprises the effective portion of the cumulative net change in the fair value of hedging instruments used in cash flow hedges pending subsequent recognition in profit or loss when the hedged cash flows affect profit or loss.
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Interest rate risk</th>
+<th>Interest rate risk</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3">GROUP</td>
+    </tr>
+    <tr>
+<td>At 1 January</td>
+<td>26,900</td>
+<td>38,387</td>
+    </tr>
+    <tr>
+<td>Fair value (losses)/gains</td>
+<td>(6,289)</td>
+<td>973</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>20,611</td>
+<td>39,360</td>
+    </tr>
+    <tr>
+<td>Reclassified to profit or loss, as hedged item has affected profit or loss (Note 22)</td>
+<td>(1,949)</td>
+<td>(12,460)</td>
+    </tr>
+    <tr>
+<td>At 31 December</td>
+<td>18,662</td>
+<td>26,900</td>
+    </tr>
+  </tbody>
+</table>
+
+## c. Other reserve
+
+Other reserve comprises an excess amounting to $95.8 million of the consideration paid by Trust over the nominal value of the Unitholders’ funds for the redemption of the existing units from unitholders on the listing date.
+
+In 2025, the Group acquired the remaining 51% stake in a subsidiary M1PL, for a consideration of $6.7 million from Keppel Griffin Pte. Ltd. Arising from the acquisition of the equity interest in M1PL, the Group recorded an other reserve of $4.3 million.
+
+**Capital management**
+
+The Manager reviews the Group’s debt and capital management cum financial policy regularly so as to optimise the Group’s funding structure. The Group’s exposures to various risk elements are also monitored closely through clearly established management policies and procedures.
+
+The Manager seeks to maintain an optimal combination of debt and equity in order to optimise returns while maintaining financial flexibility. The Manager also monitors the externally imposed capital requirements closely and ensures the capital structure adopted complies with the requirements.
+
+Under the Property Funds Appendix of the CIS Code, the aggregate leverage should not exceed 50.0% of the Group’s deposited properties. The Group has complied with this requirement and all externally imposed capital requirements for the financial years ended 31 December 2025 and 31 December 2024.
+
+<!-- PAGE 140 -->
+
+The Manager also monitors the Group’s capital using a net debt to total funding ratio, which is defined as the (1) net borrowings divided by (2) total Unitholders’ funds and liabilities:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Gross borrowings (Note 15)</td>
+        <td>2,375,583</td>
+        <td>1,683,908</td>
+    </tr>
+    <tr>
+        <td>Less: cash and cash equivalents (Note 13)</td>
+        <td>(351,869)</td>
+        <td>(316,691)</td>
+    </tr>
+    <tr>
+        <td>(1) Net borrowings</td>
+        <td>2,023,714</td>
+        <td>1,367,217</td>
+    </tr>
+    <tr>
+        <td>(2) Total Unitholders’ funds and liabilities</td>
+        <td>6,819,521</td>
+        <td>5,488,301</td>
+    </tr>
+    <tr>
+        <td>Net debt to total funding ratio at end of the year</td>
+        <td>0.30</td>
+        <td>0.25</td>
+    </tr>
+  </tbody>
+</table>
+
+There were no significant changes in the Manager’s approach to capital management for the Group during the year.
+
+# 19 UNITS IN ISSUE
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="4">GROUP AND TRUST</th>
+    </tr>
+    <tr>
+<th> </th>
+<th colspan="2">2025</th>
+<th colspan="2">2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>No. of Units</th>
+<th>$’000</th>
+<th>No. of Units</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5">Units in issue:</td>
+    </tr>
+    <tr>
+<td>At 1 January</td>
+<td>2,209,075,362</td>
+<td>2,944,483</td>
+<td>1,721,429,811</td>
+<td>1,991,446</td>
+    </tr>
+    <tr>
+<td colspan="5">Issue of Units:</td>
+    </tr>
+    <tr>
+<td>Management feesᵃ</td>
+<td>3,216,661</td>
+<td>7,203</td>
+<td>2,721,215</td>
+<td>5,102</td>
+    </tr>
+    <tr>
+<td>Acquisition and Divestmentᵃ</td>
+<td>7,208,911</td>
+<td>16,065</td>
+<td>1,582,273</td>
+<td>2,951</td>
+    </tr>
+    <tr>
+<td>Issuance of Unitsᵇ</td>
+<td>221,232,518</td>
+<td>489,460</td>
+<td>483,342,063</td>
+<td>1,001,280</td>
+    </tr>
+    <tr>
+<td>Issue expenses (net)</td>
+<td>–</td>
+<td>(4,753)</td>
+<td>–</td>
+<td>(13,017)</td>
+    </tr>
+    <tr>
+<td>Capital distribution ᵈ</td>
+<td>–</td>
+<td>(29,594)</td>
+<td>–</td>
+<td>(43,279)</td>
+    </tr>
+    <tr>
+<td>At 31 December</td>
+<td>2,440,733,452</td>
+<td>3,422,864</td>
+<td>2,209,075,362</td>
+<td>2,944,483</td>
+    </tr>
+  </tbody>
+</table>
+
+a. During the financial year, the Group and Trust issued 3,216,661 new Units (2024: 2,721,215) to the Manager as payment of base fees and performance fees for its interests in certain assets for the period from 1 October 2024 to 30 September 2025 (2024: 1 October 2023 to 30 September 2024).
+
+The Group and Trust also issued 7,208,911 new units to the Manager as payment of acquisition fees for the acquisitions of 99.49% economic interest in KDC SGP 7 and KDC SGP 8 as well as a 98.47% effective interest in Tokyo DC 3.
+
+In FY 2024, the Group and Trust also issued 1,582,273 new units to the Manager as payment of acquisition fees for the acquisition of 98.47% effective interest in Tokyo DC 1 and the subscription of AU DC Note as well as divestment fees in relation to the divestment of Intellicentre Campus.
+
+b. Pursuant to the preferential offering announced on 22 September 2025, the Group and Trust issued 180,562,518 new Units (listed on 22 October 2025) at an issue price of $2.24.
+
+Pursuant to the private placement and sponsor subscription announced on 19 November 2024, the Group and Trust issued 334,929,000 new Units (listed on 28 November 2024) and 40,670,000 new Units (listed on 3 February 2025) at an issue price of $2.090.
+
+Pursuant to the preferential offering announced on 19 November 2024, the Group and Trust issued 148,413,063 new Units (listed on 18 December 2024) at an issue price of $2.03.
+
+<!-- PAGE 141 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 19 UNITS IN ISSUE (continued)
+
+c. Each Unit in the Trust represents an undivided interest in the Trust. The rights and interests of Unitholders are contained in the Trust Deed which includes the rights to:
+
+* receive income and other distributions attributable to the Units;
+
+* participate in the termination of the Trust by receiving a share of all net cash proceeds derived from the realisation of the assets of the Trust less any liabilities, in accordance with their proportionate interests in the Trust. However, a Unitholder has no equitable or proprietary interest in the underlying assets of the Trust and is not entitled to the transfer to it of any assets (or part thereof) or of any estate or interest in any asset (or part thereof) of the Trust; and
+
+* have the right to receive notice of, attend and one vote per Unit at any meeting of the Unitholders.
+
+The holders of Units are entitled to receive all distributions declared and paid by the Trust. Upon winding up, the holders of Units are entitled to a return of capital based on the net asset value per Unit of the Trust.
+
+The restrictions on Unitholders include the following:
+
+* A Unitholder’s right is limited to the right to require due administration of the Trust in accordance with the provisions of the Trust Deed; and
+
+* A Unitholder has no right to request the Manager to redeem his Units while the Units are listed on SGX-ST.
+
+A Unitholder’s liability is limited to the amount paid or payable for any Units in the Trust. The provisions of the Trust Deed provide that no Unitholders will be personally liable for indemnifying the Trustee or any creditor of the Trustee in the event that the liabilities of the Trust exceed its assets.
+
+d. Capital distribution represents a return of capital to Unitholders during the year.
+
+## 20 GROSS REVENUE
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Rental income</td>
+        <td>435,168</td>
+        <td>305,696</td>
+    </tr>
+    <tr>
+        <td>Other income</td>
+        <td>6,194</td>
+        <td>4,591</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>441,362</td>
+        <td>310,287</td>
+    </tr>
+  </tbody>
+</table>
+
+Other income mainly refers to one-off government incentives received in 2025 and 2024 as well as non-recurring service fee charged to clients as stipulated in the lease agreements.
+
+Contingent rent relating to variable rental income from related corporations, recognised as rental income, amounted to $231.5 million (2024: $120.5 million).
+
+## 21 PROPERTY OPERATING EXPENSES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Property-related taxes</td>
+        <td>6,504</td>
+        <td>4,291</td>
+    </tr>
+    <tr>
+        <td>Facility management and related costs</td>
+        <td>20,239</td>
+        <td>14,506</td>
+    </tr>
+    <tr>
+        <td>Repairs and maintenance</td>
+        <td>2,275</td>
+        <td>1,815</td>
+    </tr>
+    <tr>
+        <td>Loss allowance for doubtful receivables</td>
+        <td>20,874</td>
+        <td>20,948</td>
+    </tr>
+    <tr>
+        <td>Other property-related costs</td>
+        <td>8,210</td>
+        <td>8,441</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>58,102</td>
+        <td>50,001</td>
+    </tr>
+  </tbody>
+</table>
+
+Other property-related costs mainly relate to net power costs, insurance, security costs and other relevant costs at the property.
+
+<!-- PAGE 142 -->
+
+<table>
+  <thead>
+    <tr>
+      <th>22 FINANCE COSTS</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Interest expense for borrowings</td>
+      <td>49,121</td>
+      <td>62,511</td>
+    </tr>
+    <tr>
+      <td>Amortisation of:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>– lease charges</td>
+      <td>319</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td>– capitalised transaction costs of debt financing</td>
+      <td>1,452</td>
+      <td>1,128</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>50,892</td>
+      <td>63,969</td>
+    </tr>
+    <tr>
+      <td>Cash flow hedges, reclassified from hedging reserve (Note 18(b))</td>
+      <td>(1,949)</td>
+      <td>(12,460)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>48,943</td>
+      <td>51,509</td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Investment properties held directly by the Group (Note 4(i))</td>
+      <td>166,485</td>
+      <td>119,095</td>
+    </tr>
+    <tr>
+      <td>Effects of recognising rental income on a straight-line basis over the lease terms</td>
+      <td>(4,837)</td>
+      <td>1,515</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>161,648</td>
+      <td>120,610</td>
+    </tr>
+    <tr>
+      <td>24 OTHER TRUST EXPENSES</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Professional, legal and related fees</td>
+      <td>2,762</td>
+      <td>3,736</td>
+    </tr>
+    <tr>
+      <td>Net foreign exchange loss</td>
+      <td>109</td>
+      <td>819</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of financial assets through profit or loss –</td>
+      <td></td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>Loss allowance</td>
+      <td>7,402</td>
+      <td>6,001</td>
+    </tr>
+    <tr>
+      <td>Other expenses</td>
+      <td>2,100</td>
+      <td>1,457</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>12,373</td>
+      <td>12,189</td>
+    </tr>
+    <tr>
+      <td>25 TAX EXPENSES</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Current tax expense</td>
+      <td>20,081</td>
+      <td>29,011</td>
+    </tr>
+    <tr>
+      <td>Deferred tax – origination and reversal of temporary differences</td>
+      <td>17,956</td>
+      <td>(2,179)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>Reconciliation of effective tax rate</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit before tax</td>
+      <td>472,719</td>
+      <td>340,810</td>
+    </tr>
+    <tr>
+      <td>Tax calculated using Singapore tax rate of 17% (2024: 17%)</td>
+      <td>80,362</td>
+      <td>57,938</td>
+    </tr>
+    <tr>
+      <td>Effects of tax rates in foreign jurisdictions</td>
+      <td>(5,263)</td>
+      <td>1,715</td>
+    </tr>
+    <tr>
+      <td>Income not subject to tax</td>
+      <td>(53,882)</td>
+      <td>(60,873)</td>
+    </tr>
+    <tr>
+      <td>Non-deductible expenses</td>
+      <td>32,036</td>
+      <td>23,450</td>
+    </tr>
+    <tr>
+      <td>Utilisation of tax benefits</td>
+      <td>(443)</td>
+      <td>(3,949)</td>
+    </tr>
+    <tr>
+      <td>Effect of other temporary differences</td>
+      <td>6,224</td>
+      <td>22,780</td>
+    </tr>
+    <tr>
+      <td>Tax transparency</td>
+      <td>(20,997)</td>
+      <td>(14,229)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>ANNUAL REPORT 2025 147</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>22 FINANCE COSTS</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Interest expense for borrowings</td>
+      <td>49,121</td>
+      <td>62,511</td>
+    </tr>
+    <tr>
+      <td>Amortisation of:</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>– lease charges</td>
+      <td>319</td>
+      <td>330</td>
+    </tr>
+    <tr>
+      <td>– capitalised transaction costs of debt financing</td>
+      <td>1,452</td>
+      <td>1,128</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>50,892</td>
+      <td>63,969</td>
+    </tr>
+    <tr>
+      <td>Cash flow hedges, reclassified from hedging reserve (Note 18(b))</td>
+      <td>(1,949)</td>
+      <td>(12,460)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>48,943</td>
+      <td>51,509</td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Investment properties held directly by the Group (Note 4(i))</td>
+      <td>166,485</td>
+      <td>119,095</td>
+    </tr>
+    <tr>
+      <td>Effects of recognising rental income on a straight-line basis over the lease terms</td>
+      <td>(4,837)</td>
+      <td>1,515</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>161,648</td>
+      <td>120,610</td>
+    </tr>
+    <tr>
+      <td>24 OTHER TRUST EXPENSES</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Professional, legal and related fees</td>
+      <td>2,762</td>
+      <td>3,736</td>
+    </tr>
+    <tr>
+      <td>Net foreign exchange loss</td>
+      <td>109</td>
+      <td>819</td>
+    </tr>
+    <tr>
+      <td>Net change in fair value of financial assets through profit or loss –</td>
+      <td></td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>Loss allowance</td>
+      <td>7,402</td>
+      <td>6,001</td>
+    </tr>
+    <tr>
+      <td>Other expenses</td>
+      <td>2,100</td>
+      <td>1,457</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>12,373</td>
+      <td>12,189</td>
+    </tr>
+    <tr>
+      <td>25 TAX EXPENSES</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GROUP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2025</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Current tax expense</td>
+      <td>20,081</td>
+      <td>29,011</td>
+    </tr>
+    <tr>
+      <td>Deferred tax – origination and reversal of temporary differences</td>
+      <td>17,956</td>
+      <td>(2,179)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>Reconciliation of effective tax rate</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Profit before tax</td>
+      <td>472,719</td>
+      <td>340,810</td>
+    </tr>
+    <tr>
+      <td>Tax calculated using Singapore tax rate of 17% (2024: 17%)</td>
+      <td>80,362</td>
+      <td>57,938</td>
+    </tr>
+    <tr>
+      <td>Effects of tax rates in foreign jurisdictions</td>
+      <td>(5,263)</td>
+      <td>1,715</td>
+    </tr>
+    <tr>
+      <td>Income not subject to tax</td>
+      <td>(53,882)</td>
+      <td>(60,873)</td>
+    </tr>
+    <tr>
+      <td>Non-deductible expenses</td>
+      <td>32,036</td>
+      <td>23,450</td>
+    </tr>
+    <tr>
+      <td>Utilisation of tax benefits</td>
+      <td>(443)</td>
+      <td>(3,949)</td>
+    </tr>
+    <tr>
+      <td>Effect of other temporary differences</td>
+      <td>6,224</td>
+      <td>22,780</td>
+    </tr>
+    <tr>
+      <td>Tax transparency</td>
+      <td>(20,997)</td>
+      <td>(14,229)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>38,037</td>
+      <td>26,832</td>
+    </tr>
+    <tr>
+      <td>ANNUAL REPORT 2025 147</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 143 -->
+
+# 26 NON-CONTROLLING INTERESTS
+
+As at 31 December 2025, non-controlling interests in relation to KDCS3 LLP, KDCS4 LLP, KDCS5 LLP and KDCRT2 TMK are material to the Group’s non-controlling interests. Set out below are the summarised financial information for KDCS3 LLP, KDCS4 LLP, KDCS5 LLP and KDCRT2 TMK. These are presented before inter-company eliminations.
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">KDCS3 LLP</th>
+<th colspan="2">KDCS4 LLP</th>
+<th colspan="2">KDCS5 LLP</th>
+<th>KDCRT2 TMK</th>
+    </tr>
+    <tr>
+<th>Summarised balance sheet</th>
+<th>2025</th>
+<th>2024</th>
+<th>2025</th>
+<th>2024</th>
+<th>2025</th>
+<th>2024</th>
+<th>2025</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="8"><strong>Current</strong></td>
+    </tr>
+    <tr>
+<td>Assets</td>
+<td>24,434</td>
+<td>25,019</td>
+<td>42,232</td>
+<td>12,596</td>
+<td>30,716</td>
+<td>18,236</td>
+<td>85,158</td>
+    </tr>
+    <tr>
+<td>Liabilities</td>
+<td>(3,627)</td>
+<td>(5,616)</td>
+<td>(2,465)</td>
+<td>(2,318)</td>
+<td>(2,920)</td>
+<td>(1,686)</td>
+<td>(13,614)</td>
+    </tr>
+    <tr>
+<td>Total current net assets</td>
+<td>20,807</td>
+<td>19,403</td>
+<td>39,767</td>
+<td>10,278</td>
+<td>27,796</td>
+<td>16,550</td>
+<td>71,544</td>
+    </tr>
+    <tr>
+<td colspan="8"> </td>
+    </tr>
+    <tr>
+<td colspan="8"><strong>Non-current</strong></td>
+    </tr>
+    <tr>
+<td>Assets</td>
+<td>426,000</td>
+<td>412,000</td>
+<td>590,000</td>
+<td>510,000</td>
+<td>507,003</td>
+<td>492,196</td>
+<td>689,149</td>
+    </tr>
+    <tr>
+<td>Liabilities</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>(5,003)</td>
+<td>(4,906)</td>
+<td>(516,290)</td>
+    </tr>
+    <tr>
+<td>Total non-current net assets</td>
+<td>426,000</td>
+<td>412,000</td>
+<td>590,000</td>
+<td>510,000</td>
+<td>502,000</td>
+<td>487,290</td>
+<td>172,859</td>
+    </tr>
+    <tr>
+<td>Net assets</td>
+<td>446,807</td>
+<td>431,403</td>
+<td>629,767</td>
+<td>520,278</td>
+<td>529,796</td>
+<td>503,840</td>
+<td>244,403</td>
+    </tr>
+    <tr>
+<td colspan="8"> </td>
+    </tr>
+    <tr>
+<td colspan="8">Summarised income statement</td>
+    </tr>
+    <tr>
+<td>Revenue</td>
+<td>41,099</td>
+<td>37,696</td>
+<td>53,038</td>
+<td>36,242</td>
+<td>53,071</td>
+<td>38,144</td>
+<td>3,950</td>
+    </tr>
+    <tr>
+<td>Profit before tax</td>
+<td>46,061</td>
+<td>112,361</td>
+<td>127,141</td>
+<td>81,354</td>
+<td>63,225</td>
+<td>115,764</td>
+<td>14,483</td>
+    </tr>
+    <tr>
+<td>Income tax</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+    </tr>
+    <tr>
+<td>Profit after tax</td>
+<td>46,061</td>
+<td>112,361</td>
+<td>127,141</td>
+<td>81,354</td>
+<td>63,225</td>
+<td>115,764</td>
+<td>14,483</td>
+    </tr>
+    <tr>
+<td>Other comprehensive income</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>4,845</td>
+    </tr>
+    <tr>
+<td>Total comprehensive income</td>
+<td>46,061</td>
+<td>112,361</td>
+<td>127,141</td>
+<td>81,354</td>
+<td>63,225</td>
+<td>115,764</td>
+<td>19,328</td>
+    </tr>
+    <tr>
+<td>Total comprehensive income allocated to non-controlling interests</td>
+<td>4,606</td>
+<td>11,236</td>
+<td>1,271</td>
+<td>814</td>
+<td>632</td>
+<td>1,158</td>
+<td>296</td>
+    </tr>
+    <tr>
+<td>Dividends paid to non-controlling interests</td>
+<td>(4,006)</td>
+<td>(2,004)</td>
+<td>(177)</td>
+<td>(371)</td>
+<td>(373)</td>
+<td>(276)</td>
+<td>—</td>
+    </tr>
+    <tr>
+<td colspan="8"> </td>
+    </tr>
+    <tr>
+<td colspan="8">Summarised cash flows</td>
+    </tr>
+    <tr>
+<td colspan="8">Cash flows from operating activities</td>
+    </tr>
+    <tr>
+<td>Cash generated from operations</td>
+<td>36,820</td>
+<td>37,957</td>
+<td>37,988</td>
+<td>37,437</td>
+<td>50,660</td>
+<td>29,711</td>
+<td>526</td>
+    </tr>
+    <tr>
+<td>Income tax paid</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+    </tr>
+    <tr>
+<td>Net cash generated from operating activities</td>
+<td>36,820</td>
+<td>37,957</td>
+<td>37,988</td>
+<td>37,437</td>
+<td>50,660</td>
+<td>29,711</td>
+<td>526</td>
+    </tr>
+    <tr>
+<td>Net cash used in investing activities</td>
+<td>(7,755)</td>
+<td>(10,370)</td>
+<td>(4,891)</td>
+<td>(5,215)</td>
+<td>(2,513)</td>
+<td>(2,424)</td>
+<td>(753,221)</td>
+    </tr>
+    <tr>
+<td>Net cash (used in)/generated from financing activities</td>
+<td>(30,656)</td>
+<td>(20,042)</td>
+<td>(17,652)</td>
+<td>(37,137)</td>
+<td>(37,269)</td>
+<td>(27,577)</td>
+<td>760,134</td>
+    </tr>
+    <tr>
+<td colspan="8"> </td>
+    </tr>
+    <tr>
+<td>Net (decrease)/increase in cash and cash equivalents</td>
+<td>(1,591)</td>
+<td>7,545</td>
+<td>15,445</td>
+<td>(4,915)</td>
+<td>10,878</td>
+<td>(290)</td>
+<td>7,439</td>
+    </tr>
+    <tr>
+<td>Cash and cash equivalents at the beginning of financial year</td>
+<td>14,332</td>
+<td>6,787</td>
+<td>7,659</td>
+<td>12,574</td>
+<td>6,219</td>
+<td>6,509</td>
+<td>—</td>
+    </tr>
+    <tr>
+<td>Effects of currency translation on cash and cash equivalents</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>(148)</td>
+    </tr>
+    <tr>
+<td>Cash and cash equivalents at the end of financial year</td>
+<td>12,741</td>
+<td>14,332</td>
+<td>23,104</td>
+<td>7,659</td>
+<td>17,097</td>
+<td>6,219</td>
+<td>7,291</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 144 -->
+
+# 27 EARNINGS PER UNIT AND DISTRIBUTION PER UNIT
+
+## a. Basic and diluted earnings per Unit
+
+The calculation of basic and diluted earnings per Unit is based on the profit or loss for the year and weighted average number of Units during the year:
+
+<table>
+  <thead>
+    <tr>
+<th colspan="3">GROUP</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$'000</th>
+<th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Profit attributable to Unitholders</td>
+<td>427,820</td>
+<td>300,669</td>
+    </tr>
+    <tr>
+<td>Profit attributable to Unitholders (excluding net change in fair value of investment properties and their related deferred tax impact)</td>
+<td>268,137</td>
+<td>193,501</td>
+    </tr>
+    <tr>
+<th colspan="3">Number of Units</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>'000</th>
+<th>'000</th>
+    </tr>
+    <tr>
+<td colspan="3">Weighted average number of Units:</td>
+    </tr>
+    <tr>
+<td>– outstanding during the year</td>
+<td>1,759,159</td>
+<td>1,720,451</td>
+    </tr>
+    <tr>
+<td>– effects of Units issued</td>
+<td>527,607</td>
+<td>38,708</td>
+    </tr>
+    <tr>
+<td>Weighted average number of Units during the year</td>
+<td>2,286,766</td>
+<td>1,759,159</td>
+    </tr>
+    <tr>
+<th colspan="3">GROUP</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<td>Basic and diluted earnings per Unit (cents)</td>
+<td>18.71</td>
+<td>17.09</td>
+    </tr>
+    <tr>
+<td>Basic and diluted earnings per Unit (cents) (excluding net change in fair value of investment properties and their related deferred tax impact)</td>
+<td>11.73</td>
+<td>11.00</td>
+    </tr>
+  </tbody>
+</table>
+
+## b. Distribution per Unit
+
+The calculation of distribution per Unit for the financial year is based on:
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="3">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$'000</th>
+        <th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Total amount available for distribution for the year</td>
+        <td>268,051</td>
+        <td>172,733</td>
+    </tr>
+    <tr>
+        <td>Distribution per Unit (cents)</td>
+        <td>10.381</td>
+        <td>9.451</td>
+    </tr>
+  </tbody>
+</table>
+
+The amount available for distribution for the financial year is after setting aside amounts for capital expenditure of $18.5 million (2024: $5.8 million) and upfront land premium reserves for 10-year land tenure lease extension for KDC SGP 7 and KDC SGP 8 of $6.0 million (2024: Nil).
+
+# 28 FINANCIAL RISK MANAGEMENT
+
+## Overview
+
+The Manager has a system of controls for the Group in place to determine an acceptable balance between the cost of risks occurring and the cost of managing risks. The Manager continually monitors the Group’s risk management process to ensure that an appropriate balance between risk and control is achieved.
+
+## Credit risk
+
+Credit risk is the risk of financial loss to the Group if a counterparty fails to meet its contractual obligations.
+
+Prior to signing any major contracts, credit assessments on prospective clients are carried out by way of evaluation of information from corporate searches conducted. The Group’s client trade sector mix in its property portfolio is actively managed to avoid excessive exposure to any potentially volatile trade sector.
+
+Cash and cash equivalents are placed and derivative financial instruments are entered into with banks and financial institution counterparties which are of good credit ratings. Credit standing of notes issued by the counterparties are not rated. The Manager assesses all counterparties for credit risk for the Group before contracting with them.
+
+<!-- PAGE 145 -->
+
+## 28 FINANCIAL RISK MANAGEMENT (continued)
+
+### Credit risk (continued)
+
+ECLs are probability-weighted estimates of credit losses. Credit losses are measured at the present value of all cash shortfalls (i.e. the difference between the cash flows due to the entity in accordance with the contract and the cash flows that the Group expects to receive). ECLs are discounted at the effective interest rate of the financial asset. At each balance sheet date, the Group assesses whether financial assets carried at amortised cost is credit-impaired. A financial asset is ‘credit-impaired’ when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred. These events include probability of insolvency, significant financial difficulties of the debtor and default or significant delay in payments.
+
+When determining whether the credit risk of a financial asset has increased significantly since initial recognition and when estimating ECLs, the Group considers reasonable and supportable information that is relevant and available without undue cost or effort. This includes both quantitative and qualitative information and analysis, based on the Group’s historical experience and informed credit assessment and includes forward-looking information.
+
+At the reporting date, the carrying amount of each class of financial assets recognised in the statement of financial position represents the Group’s maximum credit exposure.
+
+Credit loss allowance for trade receivables are recognised based on simplified approach, and credit allowance for other receivables, notes receivables and deposits are assessed under the general model. Where it is credit-impaired, these are recognised at an amount equal to lifetime ECL.
+
+Other receivables and deposits are assessed as non-performing and are classified under Stage 3 lifetime ECLs.
+
+### Trade receivables
+
+In measuring the ECLs of its trade receivables, the Group considers payment history of each counterparty and adjusts its ECL to reflect specific and macroeconomic factors affecting the ability of the counterparty to settle. The Group also considered the existence of tenancy deposits, banker’s guarantees and subsequent receipts. The Group then adjust the ECLs based on expected changes in these factors.
+
+Trade receivables are written off when there is no reasonable expectation of recovery, such as a counterparty failing to engage in a recovery roadmap with the Group. Where such allowances are made, the Group continues to engage the counterparty to attempt to recover these receivables due. Where recoveries are made, these are recognised in profit or loss.
+
+As at 31 December 2025, the Manager has identified a specific counterparty in the Asia-Pacific region to be credit impaired as the Group experienced significant collection issues from this counterparty. The related balances that are credit impaired are disclosed below. These fully impaired balances have been written off as at 31 December 2025.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Gross carrying amount</td>
+        <td>66,862</td>
+        <td>42,809</td>
+    </tr>
+    <tr>
+        <td>Less: loss allowance</td>
+        <td>–</td>
+        <td>(37,878)</td>
+    </tr>
+    <tr>
+        <td>Written off</td>
+        <td>(66,862)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>–</td>
+        <td>(204)</td>
+    </tr>
+    <tr>
+        <td>Carrying amount, net of loss allowance</td>
+        <td>–</td>
+        <td>4,727</td>
+    </tr>
+  </tbody>
+</table>
+
+Movement in loss allowance:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January</td>
+        <td>38,082</td>
+        <td>11,017</td>
+    </tr>
+    <tr>
+        <td>Loss allowance recognised in profit or loss during the year</td>
+        <td>28,275</td>
+        <td>26,949</td>
+    </tr>
+    <tr>
+        <td>Written off</td>
+        <td>(66,862)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Currency translation differences</td>
+        <td>505</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>At 31 December</td>
+        <td>–</td>
+        <td>38,082</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 146 -->
+
+The following shows the ageing of the trade receivables which are not credit impaired.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th colspan="2">Past due</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Current</th>
+        <th>Less than 3 months</th>
+        <th>Between 3 to 6 months</th>
+        <th>Total</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5">GROUP</td>
+    </tr>
+    <tr>
+        <td colspan="5">2025</td>
+    </tr>
+    <tr>
+        <td>Trade receivables</td>
+        <td>20,128</td>
+        <td>71,564</td>
+        <td>313</td>
+        <td>92,005</td>
+    </tr>
+    <tr>
+        <td colspan="5">2024</td>
+    </tr>
+    <tr>
+        <td>Trade receivables</td>
+        <td>33,265</td>
+        <td>35,561</td>
+        <td>2,083</td>
+        <td>70,909</td>
+    </tr>
+  </tbody>
+</table>
+
+The credit risk exposure of these trade receivables are not significant.
+
+As at 31 December 2025 and 31 December 2024, the credit risk exposure in relation to trade receivables are not significant.
+
+## Credit risk concentration profile
+
+At the reporting date, approximately $65.6 million representing 32.1% (2024: $17.5 million representing 14.8%) and $5.7 million representing 14.5% (2024: $2.6 million representing 49.1%) of trade and other receivables of the Group and the Trust respectively, were due from a related corporation. The Group has assessed that the related corporation has strong financial capacity to meet the contractual obligation and hence does not expect significant credit losses.
+
+## Notes receivables
+
+For the purpose of impairment assessment, the notes receivables are considered to have low credit risk as they are not due for payment at the end of the reporting period and there has been no significant increase in the risk of default on the receivables since initial recognition. Accordingly, for the purpose of impairment assessment for these receivables, the loss allowances is measured at an amount equal to 12-month ECL.
+
+In determining the ECL, the Manager has taken into account the historical default experience and the financial position of the counterparties, adjusted for the factors that are specific to the counterparties and general economic conditions of the industry in which the counterparties operate, in estimating the probability of default of each of these financial assets occurring within their respective loss assessment time horizon, as well as the loss upon default of each case.
+
+Accordingly, the Manager believes that there is no loss allowance required.
+
+There has been no change in the estimation techniques or significant assumptions made during the current reporting period in assessing the loss allowance for these financial assets.
+
+## Amount due from a related company and subsidiaries
+
+The Group monitors the credit risk based on the past due information to assess if there is any significant increase in credit risk. The amount due from a related company and subsidiaries are measured on 12-month ECL. The credit loss is immaterial.
+
+## Deposits and other receivables
+
+For the purpose of impairment assessment, deposits and other receivables are considered to remain at ECL Stage 3. Accordingly, for the purpose of impairment assessment, related loss allowances are measured at an amount equal to lifetime ECL.
+
+In determining the ECL, the Group has taken into account the historical default experience and the financial position of the counterparty, adjusted for the factors that are specific to the counterparty and general economic conditions of the industry in which the counter-party operate, in estimating the probability of default occurring within the respective loss assessment time horizon, as well as the loss upon default of each case.
+
+## Cash and cash equivalents
+
+Bank balances and short-term deposits are mainly transacted with banks of high credit ratings assigned by international credit-rating agencies and are considered to have low credit risk. The cash balances are measured on 12-month expected credit losses and subject to immaterial credit loss.
+
+## Loan to subsidiaries
+
+The Trust has assessed that its subsidiaries will be able to meet the contractual obligation and considered to have low credit risk. The loans are measured on 12-month expected credit losses and subject to immaterial credit loss.
+
+<!-- PAGE 147 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 28 FINANCIAL RISK MANAGEMENT (continued)
+
+**Financial guarantee contracts**
+
+The Trust has issued financial guarantees to banks for borrowings of its subsidiaries. These guarantees are subject to the impairment requirement of SFRS(I) 9. The Trust has assessed that its subsidiaries will be able to meet the contractual cash flow obligations in the near future and hence, does not expect credit losses arising from these guarantees.
+
+**Liquidity risk**
+
+Liquidity risk is the risk that the Group will encounter difficulty in meeting the obligations associated with its financial liabilities that are settled by delivering cash or another financial asset.
+
+The Manager manages the liquidity structure of the Group’s assets, liabilities and commitments so that cash flows are appropriately balanced and all funding obligations are met when due.
+
+The Manager monitors and maintains a level of cash and cash equivalents of the Group deems adequate to finance the Group’s operations and to mitigate the effects of fluctuations in cash flows. Steps will be taken to plan early for funding and expense requirements so as to manage the cash position at any point in time.
+
+The following are the contractual undiscounted cash flows of financial liabilities, including estimated finance costs and excluding the impact of netting agreements:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th colspan="3">Contractual cash flows<br/>(including finance costs)</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Total</th>
+<th>Within 1 year</th>
+<th>Within 1 to 5 years</th>
+<th>More than 5 years</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5">GROUP</td>
+    </tr>
+    <tr>
+<td colspan="5">2025</td>
+    </tr>
+    <tr>
+<td colspan="5">Non-derivative financial liabilities</td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>(2,569,370)</td>
+<td>(364,974)</td>
+<td>(2,002,520)</td>
+<td>(201,876)</td>
+    </tr>
+    <tr>
+<td>Lease liabilities</td>
+<td>(34,006)</td>
+<td>–</td>
+<td>–</td>
+<td>(34,006)</td>
+    </tr>
+    <tr>
+<td>Trade and other payables</td>
+<td>(126,705)</td>
+<td>(126,705)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(2,730,081)</td>
+<td>(491,679)</td>
+<td>(2,002,520)</td>
+<td>(235,882)</td>
+    </tr>
+    <tr>
+<td colspan="5">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td colspan="5">Forward foreign exchange contracts</td>
+    </tr>
+    <tr>
+<td>– Outflow</td>
+<td>(51,215)</td>
+<td>(29,693)</td>
+<td>(20,524)</td>
+<td>(998)</td>
+    </tr>
+    <tr>
+<td>– Inflow</td>
+<td>50,850</td>
+<td>29,086</td>
+<td>20,655</td>
+<td>1,109</td>
+    </tr>
+    <tr>
+<td>Interest rate swaps</td>
+<td>1,874</td>
+<td>(2,956)</td>
+<td>4,065</td>
+<td>765</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>1,509</td>
+<td>(3,563)</td>
+<td>4,196</td>
+<td>876</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">2024</td>
+    </tr>
+    <tr>
+<td colspan="5">Non-derivative financial liabilities</td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>(1,834,603)</td>
+<td>(125,083)</td>
+<td>(1,418,561)</td>
+<td>(290,959)</td>
+    </tr>
+    <tr>
+<td>Lease liabilities</td>
+<td>(43,688)</td>
+<td>(10,457)</td>
+<td>(7,610)</td>
+<td>(25,621)</td>
+    </tr>
+    <tr>
+<td>Trade and other payables</td>
+<td>(287,355)</td>
+<td>(287,355)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(2,165,646)</td>
+<td>(422,895)</td>
+<td>(1,426,171)</td>
+<td>(316,580)</td>
+    </tr>
+    <tr>
+<td colspan="5">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td colspan="5">Forward foreign exchange contracts</td>
+    </tr>
+    <tr>
+<td>– Outflow</td>
+<td>(68,095)</td>
+<td>(42,998)</td>
+<td>(25,097)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>– Inflow</td>
+<td>69,396</td>
+<td>43,926</td>
+<td>25,470</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Interest rate swaps</td>
+<td>3,467</td>
+<td>3,674</td>
+<td>131</td>
+<td>(338)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>4,768</td>
+<td>(4,602)</td>
+<td>504</td>
+<td>(338)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 148 -->
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th colspan="3">Contractual cash flows<br/>(including finance costs)</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Total</th>
+<th>Within</th>
+<th>Within</th>
+<th>More than</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>1 year</th>
+<th>1 to 5 years</th>
+<th>5 years</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5">TRUST</td>
+    </tr>
+    <tr>
+<td colspan="5">2025</td>
+    </tr>
+    <tr>
+<td colspan="5">Non-derivative financial liabilities</td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>(1,749,858)</td>
+<td>(232,940)</td>
+<td>(1,433,171)</td>
+<td>(83,747)</td>
+    </tr>
+    <tr>
+<td>Trade and other payables</td>
+<td>(29,396)</td>
+<td>(29,396)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(1,779,254)</td>
+<td>(262,336)</td>
+<td>(1,433,171)</td>
+<td>(83,747)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td colspan="5">Forward foreign exchange contracts</td>
+    </tr>
+    <tr>
+<td>– Outflow</td>
+<td>(51,215)</td>
+<td>(29,693)</td>
+<td>(20,524)</td>
+<td>(998)</td>
+    </tr>
+    <tr>
+<td>– Inflow</td>
+<td>50,850</td>
+<td>29,086</td>
+<td>20,655</td>
+<td>1,109</td>
+    </tr>
+    <tr>
+<td>Interest rate swaps</td>
+<td>(287)</td>
+<td>(287)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(652)</td>
+<td>(894)</td>
+<td>131</td>
+<td>111</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">2024</td>
+    </tr>
+    <tr>
+<td colspan="5">Non-derivative financial liabilities</td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>(1,530,469)</td>
+<td>(100,258)</td>
+<td>(1,269,941)</td>
+<td>(160,270)</td>
+    </tr>
+    <tr>
+<td>Lease liabilities</td>
+<td>(8,534)</td>
+<td>(8,534)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Trade and other payables</td>
+<td>(95,529)</td>
+<td>(95,529)</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>(1,634,532)</td>
+<td>(204,321)</td>
+<td>(1,269,941)</td>
+<td>(160,270)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td colspan="5">Forward foreign exchange contracts</td>
+    </tr>
+    <tr>
+<td>– Outflow</td>
+<td>(68,095)</td>
+<td>(42,998)</td>
+<td>(25,097)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>– Inflow</td>
+<td>69,396</td>
+<td>43,926</td>
+<td>25,470</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Interest rate swaps</td>
+<td>1,737</td>
+<td>927</td>
+<td>810</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>3,038</td>
+<td>1,855</td>
+<td>1,183</td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+## Market risk
+
+Market risk is the risk that changes in market prices, such as interest rates and foreign exchange rates will affect the Group’s profit or loss. The objective of market risk management is to manage and mitigate market risk exposures within acceptable parameters, while optimising returns.
+
+## Interest rate risk
+
+The Group’s exposure to market risk for changes in interest rate environment relates mainly to its credit facilities.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">Fixed rate instruments</td>
+    </tr>
+    <tr>
+        <td>Interest rate swaps (Notional)</td>
+        <td>(1,006,646)</td>
+        <td>(881,574)</td>
+    </tr>
+    <tr>
+        <td>Lease liabilities</td>
+        <td>(21,339)</td>
+        <td>(35,203)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="3">Variable rate instruments</td>
+    </tr>
+    <tr>
+        <td>Borrowings</td>
+        <td>(1,689,884)</td>
+        <td>(1,683,908)</td>
+    </tr>
+    <tr>
+        <td>Interest rate swaps (Notional)</td>
+        <td>1,006,646</td>
+        <td>881,574</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 149 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 28 FINANCIAL RISK MANAGEMENT (continued)
+
+### Interest rate risk (continued)
+
+The Group enters into interest rate swap agreements to mitigate the interest rate risk exposure arising from its SGD, EUR, GBP, AUD, JPY and RMB variable rate term loans (Note 15).
+
+As at the end of the financial year, the Group has interest rate swap agreements with notional amount totalling $1,006.6 million (2024: $881.6 million) whereby it receives variable rates equal to SORA, TONA, EURIBOR, SONIA, BBSW and 1Y LPR and pays fixed rates of interest. The all-in fixed interest rates ranges between 1.51% and 4.78% (2024: 1.51% and 4.78%) on the notional amount. These interest rate swap agreements are held for hedging interest rate risk arising from variable rate borrowings, with interest rates based on SORA, TONA, EURIBOR, SONIA, BBSW and 1Y LPR. This amounts to 71% (2024: 66%) of the Group’s total amount of borrowings.
+
+### Fair value sensitivity analysis for fixed rate instruments
+
+The Group does not account for any fixed rate financial asset and liabilities at fair value through profit or loss, and the Group does not designate derivatives as hedging instruments under a fair value hedge accounting model. Therefore, a change in interest rates at the reporting date would not affect the statement of profit or loss.
+
+### Cash flow sensitivity analysis for variable rate instruments
+
+The Group manages interest risks by using interest rate swaps (Note 10). The details of the interest rates relating to interest-bearing financial liabilities are disclosed in Note 15.
+
+As at 31 December 2025 and 31 December 2024, the Group is not exposed to significant interest rate risk since its floating rate borrowings are substantially hedged with interest rate swaps. The Group has applied hedge accounting in order to manage volatility in profit or loss.
+
+As at 31 December 2025 and 31 December 2024, the Trust is not exposed to significant interest rate risk.
+
+### Derivatives assets and liabilities designated as cash flow hedges
+
+The following table indicates the periods in which the cash flows associated with cash flow hedges are expected to occur and the fair value of the related hedging instruments.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Carrying<br/>amount<br/>$’000</th>
+        <th>Expected<br/>cash flows<br/>$’000</th>
+        <th>Within<br/>1 year<br/>$’000</th>
+        <th>Within<br/>1 to 5 years<br/>$’000</th>
+        <th>More than<br/>5 years<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6">GROUP</td>
+    </tr>
+    <tr>
+        <td colspan="6">2025</td>
+    </tr>
+    <tr>
+        <td colspan="6">Interest rate swaps</td>
+    </tr>
+    <tr>
+        <td>Assets</td>
+        <td>7,574</td>
+        <td>8,186</td>
+        <td>466</td>
+        <td>6,955</td>
+        <td>765</td>
+    </tr>
+    <tr>
+        <td>Liabilities</td>
+        <td>(6,571)</td>
+        <td>(6,312)</td>
+        <td>(3,422)</td>
+        <td>(2,890)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>1,003</td>
+        <td>1,874</td>
+        <td>(2,956)</td>
+        <td>4,065</td>
+        <td>765</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="6">2024</td>
+    </tr>
+    <tr>
+        <td colspan="6">Interest rate swaps</td>
+    </tr>
+    <tr>
+        <td>Assets</td>
+        <td>17,811</td>
+        <td>18,644</td>
+        <td>8,886</td>
+        <td>9,758</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Liabilities</td>
+        <td>(8,918)</td>
+        <td>(15,177)</td>
+        <td>(5,212)</td>
+        <td>(9,627)</td>
+        <td>(338)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>8,893</td>
+        <td>3,467</td>
+        <td>3,674</td>
+        <td>131</td>
+        <td>(338)</td>
+    </tr>
+  </tbody>
+</table>
+
+### Foreign currency risk
+
+The Group operates across multiple jurisdictions and is exposed to various currencies, particularly AUD, EUR, GBP, RMB and JPY.
+
+The Group manages its foreign currency risk, whenever possible, by borrowing in the currency of the country in which the property or investment is located or by borrowing in currencies that match the future revenue stream to be generated from its investments.
+
+Foreign exchange exposures in transactional currencies other than functional currencies of the operating entities are kept to an acceptable level.
+
+<!-- PAGE 150 -->
+
+In relation to its overseas investments in its foreign subsidiaries whose net assets are exposed to currency translation risk and which are held for long term investment purposes, the differences arising from such translation are captured under the foreign currency translation reserve. These translation differences are reviewed and monitored on a regular basis.
+
+The Group’s exposure to fluctuations in foreign currency rates relates primarily to its receivables, borrowings and payables that are denominated in a currency other than the presentation currency of the Group. The Group has material receivables, borrowings and payables denominated in foreign currencies in AUD, EUR, GBP, RMB and JPY. To hedge against the volatility of future cash flows caused by changes in foreign currency rates, the Group utilises forward foreign currency contracts to mitigate the Group’s exposure to specific currency risks relating to receivables and payables.
+
+As at the end of the financial year, the Group and Trust has outstanding forward foreign exchange contracts with notional amounts totalling $51.2 million (2024: $68.1 million). The net negative fair value of forward foreign exchange contracts is $0.4 million (2024: net positive fair value of $1.3 million) comprising assets of $0.7 million (2024: $1.5 million) and liabilities of $1.1 million (2024: $0.2 million). These amounts are recognised as derivative financial instruments in Note 10.
+
+Exposure to currency risk:
+
+The summary of quantitative data about the Group’s exposure to currency risk as reported to the management of the Group is as follows:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="5">2025</th>
+<th colspan="5">2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>AUD</th>
+<th>EUR</th>
+<th>GBP</th>
+<th>RMB</th>
+<th>JPY</th>
+<th>AUD</th>
+<th>EUR</th>
+<th>GBP</th>
+<th>RMB</th>
+<th>JPY</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="11">GROUP</td>
+    </tr>
+    <tr>
+<td>Cash and cash equivalents</td>
+<td>4,737</td>
+<td>43,169</td>
+<td>7,791</td>
+<td>1,757</td>
+<td>22,104</td>
+<td>11,569</td>
+<td>35,718</td>
+<td>10,746</td>
+<td>1,516</td>
+<td>4,825</td>
+    </tr>
+    <tr>
+<td>Trade receivables and other receivables</td>
+<td>858</td>
+<td>13,065</td>
+<td>672</td>
+<td>16,360</td>
+<td>85,006</td>
+<td>1,067</td>
+<td>11,388</td>
+<td>130</td>
+<td>23,451</td>
+<td>10,213</td>
+    </tr>
+    <tr>
+<td>Deposits</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>619</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Borrowings</td>
+<td>(25,479)</td>
+<td>(499,323)</td>
+<td>(82,061)</td>
+<td>(116,608)</td>
+<td>(953,412)</td>
+<td>(26,397)</td>
+<td>(503,861)</td>
+<td>(139,434)</td>
+<td>(131,926)</td>
+<td>(222,211)</td>
+    </tr>
+    <tr>
+<td>Trade payables and other payables</td>
+<td>(2,879)</td>
+<td>(23,018)</td>
+<td>(3,841)</td>
+<td>(1,612)</td>
+<td>(21,122)</td>
+<td>(2,463)</td>
+<td>(20,829)</td>
+<td>(5,507)</td>
+<td>(1,890)</td>
+<td>(1,272)</td>
+    </tr>
+    <tr>
+<td>Add: Firm commitments and highly probable forecast transactions in foreign currencies</td>
+<td>8,514</td>
+<td>27,377</td>
+<td>8,738</td>
+<td>–</td>
+<td>6,586</td>
+<td>10,175</td>
+<td>44,687</td>
+<td>11,187</td>
+<td>46</td>
+<td>1,999</td>
+    </tr>
+    <tr>
+<td>Less: Forward exchange contracts</td>
+<td>(8,514)</td>
+<td>(27,377)</td>
+<td>(8,738)</td>
+<td>–</td>
+<td>(6,586)</td>
+<td>(10,175)</td>
+<td>(44,687)</td>
+<td>(11,187)</td>
+<td>(46)</td>
+<td>(1,999)</td>
+    </tr>
+    <tr>
+<td>Add: Borrowings designated as net investment hedge of foreign operations</td>
+<td>25,479</td>
+<td>499,323</td>
+<td>82,061</td>
+<td>116,608</td>
+<td>953,412</td>
+<td>26,397</td>
+<td>503,861</td>
+<td>139,434</td>
+<td>131,926</td>
+<td>222,211</td>
+    </tr>
+    <tr>
+<td>Net exposure</td>
+<td>2,716</td>
+<td>33,216</td>
+<td>4,622</td>
+<td>16,505</td>
+<td>85,988</td>
+<td>10,173</td>
+<td>26,277</td>
+<td>5,369</td>
+<td>23,696</td>
+<td>13,766</td>
+    </tr>
+  </tbody>
+</table>
+
+The summary of quantitative data about the Trust’s exposure to currency risk as reported to the management of the Trust is as follows:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="4">2025</th>
+<th colspan="4">2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>AUD</th>
+<th>EUR</th>
+<th>GBP</th>
+<th>JPY</th>
+<th>AUD</th>
+<th>EUR</th>
+<th>GBP</th>
+<th>JPY</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="9">TRUST</td>
+    </tr>
+    <tr>
+<td>Cash and cash equivalents</td>
+<td>15</td>
+<td>7,706</td>
+<td>2,825</td>
+<td>627</td>
+<td>5,606</td>
+<td>12,030</td>
+<td>3,688</td>
+<td>247</td>
+    </tr>
+    <tr>
+<td>Trade receivables and other receivables</td>
+<td>1,192</td>
+<td>3,451</td>
+<td>279</td>
+<td>587</td>
+<td>80</td>
+<td>–</td>
+<td>199</td>
+<td>621</td>
+    </tr>
+    <tr>
+<td>Trade payables and other payables</td>
+<td>(49)</td>
+<td>(1,455)</td>
+<td>(52)</td>
+<td>(890)</td>
+<td>(138)</td>
+<td>(1,548)</td>
+<td>(62)</td>
+<td>(189)</td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>(25,479)</td>
+<td>(499,323)</td>
+<td>(82,062)</td>
+<td>(318,389)</td>
+<td>(26,397)</td>
+<td>(503,861)</td>
+<td>(139,434)</td>
+<td>(88,187)</td>
+    </tr>
+    <tr>
+<td>Loans to subsidiaries</td>
+<td>70,970</td>
+<td>189,761</td>
+<td>–</td>
+<td>–</td>
+<td>73,527</td>
+<td>182,876</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Add: Firm commitments and highly probable forecast transactions in foreign currencies</td>
+<td>8,514</td>
+<td>27,377</td>
+<td>8,738</td>
+<td>6,586</td>
+<td>10,175</td>
+<td>44,687</td>
+<td>11,187</td>
+<td>1,999</td>
+    </tr>
+    <tr>
+<td>Less: Forward exchange contracts</td>
+<td>(8,514)</td>
+<td>(27,377)</td>
+<td>(8,738)</td>
+<td>(6,586)</td>
+<td>(10,175)</td>
+<td>(44,687)</td>
+<td>(11,187)</td>
+<td>(1,999)</td>
+    </tr>
+    <tr>
+<td>Net exposure</td>
+<td>46,649</td>
+<td>(299,860)</td>
+<td>(79,010)</td>
+<td>(318,065)</td>
+<td>52,678</td>
+<td>(310,503)</td>
+<td>(135,609)</td>
+<td>(87,508)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 151 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 28 FINANCIAL RISK MANAGEMENT (continued)
+
+**Foreign currency risk (continued)**
+
+**Sensitivity analysis:**
+
+A 10% (2024: 10%) strengthening of the Group’s presentation currency against the following foreign currencies at the reporting date would increase/(decrease) the Group and Trust’s profit or loss as at the reporting date by the amounts shown below. This analysis assumes that all other variables, in particular interest rates, remain constant.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>AUD</td>
+        <td>(272)</td>
+        <td>(1,017)</td>
+        <td>(4,665)</td>
+        <td>(5,268)</td>
+    </tr>
+    <tr>
+        <td>EUR</td>
+        <td>(3,322)</td>
+        <td>(2,628)</td>
+        <td>29,986</td>
+        <td>31,050</td>
+    </tr>
+    <tr>
+        <td>GBP</td>
+        <td>(462)</td>
+        <td>(537)</td>
+        <td>7,901</td>
+        <td>13,561</td>
+    </tr>
+    <tr>
+        <td>RMB</td>
+        <td>(1,651)</td>
+        <td>(2,369)</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>JPY</td>
+        <td>(8,599)</td>
+        <td>(1,377)</td>
+        <td>31,807</td>
+        <td>8,751</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>(14,306)</td>
+        <td>(7,928)</td>
+        <td>65,029</td>
+        <td>48,094</td>
+    </tr>
+  </tbody>
+</table>
+
+A 10% (2024: 10%) weakening of the Group’s presentation currency against the above currencies would have an equal but opposite effect on the above currencies at the amounts shown above, on the basis that all other variables remain constant.
+
+**Financial instruments by category**
+
+The carrying amount of the different categories of financial instruments are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Financial assets at amortised cost</td>
+        <td>552,450</td>
+        <td>565,351</td>
+        <td>475,822</td>
+        <td>789,907</td>
+    </tr>
+    <tr>
+        <td>Financial liabilities at amortised cost</td>
+        <td>2,490,704</td>
+        <td>1,950,152</td>
+        <td>1,653,349</td>
+        <td>1,513,488</td>
+    </tr>
+  </tbody>
+</table>
+
+**Climate-related risk**
+
+The effects of climate change are increasingly apparent globally and gaining attention from countries to corporates. Understanding and addressing climate-related impacts is crucial to ensuring the business remains sustainable and resilient. In this regard, the Group is focused on strengthening the portfolio and operational capabilities against climate change risks, as well as assessing potential opportunities the Group can capitalise on as the world endeavours to transit to a low-carbon economy.
+
+The Taskforce on Climate-related Financial Disclosures (TCFD) has classified climate-related risks into two categories – physical risks and transition risks.
+
+Firstly, physical risks that arise from changes in the climate can be event driven or can emerge as a result of longer-term shifts. The Manager continues to maintain appropriate level of insurance and schedule regular maintenance to ensure the resilience and durability of the building and equipment, in response to risks such as extreme precipitation and weather.
+
+Secondly, transition risks are business-related risks that follow societal and economic shifts in market preferences, norms and technology towards a low-carbon and more climate-sensitive economy. Governments globally have been taking steps such as increasing price of carbon and stricter building regulations. Examples of mitigating responses include optimising building energy consumption through the adoption of energy-efficient equipment, technologies and sustainable building designs, as well as be fully compliant with current regulations with most properties being green certified with high standards of environmental performance.
+
+To bolster the resilience of the Group’s portfolio and operations, the Manager continues to evolve its approach to ensure resilience over such climate-related risks. The Manager with the support and guidance of the Environmental, Social and Governance (ESG) Board Committee, reviews the ESG strategy, roadmaps and targets, which includes climate-related targets on emissions and energy, as well as climate change adaptation. The Manager will continue to consider and integrate ESG factors in the Group’s strategy formulation and business operations and growth.
+
+<!-- PAGE 152 -->
+
+## 29 FAIR VALUE OF ASSETS AND LIABILITIES
+
+## Determination of fair values
+
+The following valuation methods and assumptions are used to estimate the fair values of the following significant classes of assets and liabilities:
+
+## Investment properties and investment property held for sale
+
+External, independent valuation companies, having appropriate recognised professional qualifications and recent experience in the location and category of property being valued, value the Group’s investment properties portfolio annually. The fair values are based on market values, being the estimated amount for which a property could be exchanged on the date of the valuation between a willing buyer and a willing seller in an arm’s length transaction after proper marketing wherein the parties had each acted knowledgeably.
+
+In the absence of current prices in an active market, the valuations are prepared by considering the estimated rental revenue of the property. A market yield is applied to the estimated rental value to arrive at the gross property valuation. When actual rents differ materially from the estimated rental value, adjustments are made to reflect actual rents.
+
+Valuations reflect, when appropriate, the type of clients actually in occupation or responsible for meeting lease commitments or likely to be in occupation after letting vacant accommodation, the allocation of maintenance and insurance responsibilities between the Group and the lessee, and the remaining economic life of the property. When rent reviews or lease renewals are pending with anticipated reversionary increases, it is assumed that all notices, and when appropriate counter-notices, have been served validly and within the appropriate time.
+
+Investment property held for sale is carried at fair value based on the sale and purchase agreement entered into.
+
+## Non-derivative financial liabilities
+
+Fair value, which is determined for disclosure purposes, is calculated based on the present value of expected future principal and interest cash flows, where the discount rate is computed from the market rate of interest at the reporting date.
+
+## Notes receivables
+
+The Manager estimates that the carrying value of the notes receivable approximate their fair value as these notes may be redeemed at par at the option of the borrower prior to their maturity dates on any interest payment date.
+
+## Other financial assets and liabilities
+
+The carrying amounts of financial assets and financial liabilities with a maturity of less than one period (including trade and other receivables, cash and cash equivalents and trade and other payables) are assumed to approximate their fair values because of the short period to maturity. All other financial assets and liabilities are discounted to determine their fair values.
+
+The carrying amounts of the Trust’s interest-bearing amounts owing by subsidiaries are assumed to approximate their fair values because of the short period to maturity.
+
+## Fair value hierarchy
+
+The table below analyses fair value measurements for financial assets, financial liabilities and non-financial assets carried at fair value. The different levels are defined as follows:
+
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities that the Group can access at the measurement date;
+
+Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly; and
+
+Level 3: unobservable inputs for the asset or liability.
+
+<!-- PAGE 153 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 29 FAIR VALUE OF ASSETS AND LIABILITIES (continued)
+
+**Assets and liabilities carried at fair value**
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>Level 1</th>
+<th>Level 2</th>
+<th>Level 3</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5">GROUP</td>
+    </tr>
+    <tr>
+<td colspan="5">2025</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>–</td>
+<td>8,301</td>
+<td>–</td>
+<td>8,301</td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>–</td>
+<td>–</td>
+<td>6,133,400</td>
+<td>6,133,400</td>
+    </tr>
+    <tr>
+<td>Investment property held for sale</td>
+<td>–</td>
+<td>–</td>
+<td>17,092</td>
+<td>17,092</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>–</td>
+<td>8,301</td>
+<td>6,150,492</td>
+<td>6,158,793</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>–</td>
+<td>(7,663)</td>
+<td>–</td>
+<td>(7,663)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">2024</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>–</td>
+<td>19,315</td>
+<td>–</td>
+<td>19,315</td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>–</td>
+<td>–</td>
+<td>4,904,007</td>
+<td>4,904,007</td>
+    </tr>
+    <tr>
+<td>Investment property held for sale</td>
+<td>–</td>
+<td>–</td>
+<td>16,520</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>–</td>
+<td>19,315</td>
+<td>4,920,527</td>
+<td>4,939,842</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>–</td>
+<td>(9,120)</td>
+<td>–</td>
+<td>(9,120)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">TRUST</td>
+    </tr>
+    <tr>
+<td colspan="5">2025</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>–</td>
+<td>4,283</td>
+<td>–</td>
+<td>4,283</td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>–</td>
+<td>–</td>
+<td>495,000</td>
+<td>495,000</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>–</td>
+<td>4,283</td>
+<td>495,000</td>
+<td>499,283</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>–</td>
+<td>(4,937)</td>
+<td>–</td>
+<td>(4,937)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">2024</td>
+    </tr>
+    <tr>
+<td>Derivative financial assets</td>
+<td>–</td>
+<td>3,174</td>
+<td>–</td>
+<td>4,754</td>
+    </tr>
+    <tr>
+<td>Investment properties</td>
+<td>–</td>
+<td>–</td>
+<td>524,772</td>
+<td>524,772</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>–</td>
+<td>3,174</td>
+<td>524,772</td>
+<td>527,946</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td>Derivative financial liabilities</td>
+<td>–</td>
+<td>(202)</td>
+<td>–</td>
+<td>(202)</td>
+    </tr>
+  </tbody>
+</table>
+
+There were no transfers between levels of the fair value hierarchy during the years ended 31 December 2025 and 31 December 2024.
+
+Movement in Level 3 fair values of investment properties for the financial year is as shown in Note 4.
+
+### Level 2 fair value measurements
+
+The fair values of financial instruments that are not traded in an active market are determined by using valuation techniques. The fair values of currency forwards are based on valuations provided by the banks. The fair values of interest rate swaps are calculated as the present value of the estimated future cash flows discounted at actively quoted interest rates.
+
+<!-- PAGE 154 -->
+
+# Level 3 fair values – Investment properties
+
+The following table shows the valuation techniques and the significant unobservable inputs that were considered in the determination of fair value.
+
+<table>
+  <thead>
+    <tr>
+        <th>Valuation method</th>
+        <th>Significant unobservable inputs</th>
+        <th>Inter-relationship between significant unobservable inputs and fair value measurement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3"><strong>Asia Pacific</strong></td>
+    </tr>
+    <tr>
+        <td>Capitalisation approach</td>
+        <td>Capitalisation rate: 3.10% to 8.50%<br/>(2024: 3.10% to 7.25%)</td>
+        <td>The estimated fair value varies inversely against the capitalisation rate.</td>
+    </tr>
+    <tr>
+        <td>Discounted cash flow approach</td>
+        <td>Discount rate: 2.80% to 8.25%<br/>(2024: 2.80% to 9.50%)<br/><br/>Terminal yield rate: 3.20% to 6.75%<br/>(2024: 3.20% to 8.50%)</td>
+        <td>The estimated fair value varies inversely against the discount rate and terminal yield rate.</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Europe</strong></td>
+    </tr>
+    <tr>
+        <td>Discounted cash flow approach</td>
+        <td>Discount rate: 6.00% to 15.00%<br/>(2024: 6.00% to 12.50%)<br/><br/>Terminal yield rate: 5.00% to 7.50%<br/>(2024: 5.00% to 7.50%)</td>
+        <td>The estimated fair value varies inversely against the discount rate and terminal yield rate.</td>
+    </tr>
+  </tbody>
+</table>
+
+For FY 2025, the Manager has engaged different independent valuers for the Group's investment properties as per Code on Collective Investment Schemes for Property Funds.
+
+In valuing certain properties in Europe, the valuers had used discounted cash flow method (as above) and direct comparison method for the ancillary portion of one Europe property (2024: two properties) with $122 to $194 (2024: $121 to $192) per square foot and $15 to $64 (2024: $15 to $63) per square foot for building and undeveloped land respectively as significant unobservable inputs which will affect the estimated fair values if different inputs were used.
+
+## Fair value
+
+The basis for fair value measurement of financial assets and liabilities is set out above. The carrying amounts of other financial assets and liabilities approximate their fair values.
+
+Fair value of financial instruments by classes that are not carried at fair value and whose carrying amounts are not reasonable approximation of fair value.
+
+The Manager has determined that the carrying amounts of cash and bank balances, note receivables, trade and other receivables, deposits, trade and other payables and current borrowings reasonably approximate their fair values.
+
+The fair values of non-current fixed-rate borrowings as at 31 December 2025 and 31 December 2024 are as stated below. They are estimated using discounted cash flows analyses based on current rates for similar types of borrowing arrangements.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">2025</th>
+        <th colspan="2">2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Carrying value</th>
+        <th>Fair value</th>
+        <th>Carrying value</th>
+        <th>Fair value</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5"><strong>GROUP</strong></td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings (non-current)</td>
+        <td>685,700</td>
+        <td>655,565</td>
+        <td>230,658</td>
+        <td>204,178</td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>TRUST</strong></td>
+    </tr>
+    <tr>
+        <td>Loans from subsidiaries (non-current)</td>
+        <td>112,793</td>
+        <td>113,764</td>
+        <td>105,848</td>
+        <td>103,779</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 155 -->
+
+# 30 LEASES
+
+## Nature of the leasing activities
+
+## The Group as a lessee
+
+The right-of-use assets relating to the leasehold lands presented under Investment Properties (Note 4) are stated at fair value. The corresponding lease liabilities for the leasehold lands have carrying amounts at balance sheet date of $16.8 million (2024: $29.2 million). There is no externally imposed covenant on these lease arrangements.
+
+## Future cash outflow which are not capitalised in lease liabilities
+
+The leases for certain leasehold lands contain extension periods, for which the related lease payments had not been included in lease liabilities as the Group is not reasonably certain to exercise these extension option. The Group negotiates extension options to optimise operational flexibility in terms of managing the assets used in the Group’s operations. The majority of the extension options are exercisable by the Group and not by the lessor.
+
+## The Group as a lessor
+
+## Leasehold property
+
+The Group have leased out their owned investment properties to a third party for monthly lease payments. Where considered necessary to reduce credit risk, the Group may obtain bank guarantees for the term of the lease. This lease is classified as an operating lease because the risk and rewards incidental to ownership of the assets are not substantially transferred. Rental income from investment properties are disclosed in Note 20.
+
+Undiscounted lease payments from the operating leases to be received after the reporting date are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th>Operating leases under SFRS (I) 16</th>
+        <th colspan="2">GROUP</th>
+        <th colspan="2">TRUST</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Less than one year</td>
+        <td>205,571</td>
+        <td>180,240</td>
+        <td>10,930</td>
+        <td>10,611</td>
+    </tr>
+    <tr>
+        <td>One to two years</td>
+        <td>189,519</td>
+        <td>166,671</td>
+        <td>11,258</td>
+        <td>10,930</td>
+    </tr>
+    <tr>
+        <td>Two to three years</td>
+        <td>175,048</td>
+        <td>150,751</td>
+        <td>11,595</td>
+        <td>11,258</td>
+    </tr>
+    <tr>
+        <td>Three to four years</td>
+        <td>164,189</td>
+        <td>136,817</td>
+        <td>11,943</td>
+        <td>11,595</td>
+    </tr>
+    <tr>
+        <td>Four to five years</td>
+        <td>156,488</td>
+        <td>126,307</td>
+        <td>12,302</td>
+        <td>11,943</td>
+    </tr>
+    <tr>
+        <td>More than five years</td>
+        <td>883,697</td>
+        <td>641,650</td>
+        <td>59,274</td>
+        <td>71,576</td>
+    </tr>
+    <tr>
+        <td>Total undiscounted lease payment</td>
+        <td>1,774,512</td>
+        <td>1,402,436</td>
+        <td>117,302</td>
+        <td>127,913</td>
+    </tr>
+  </tbody>
+</table>
+
+## The Group as an intermediate lessor
+
+A sub-lease agreement in 2024 was entered between M1PL and Memphis 2 (DC2) Pte. Ltd. (Memphis 2) and there was a land tenure lease extension offer of 10 years in December 2025. The lease term of the sub-lease commenced from 27 December 2024 and will end one day prior to the expiry of the head lease in relation to the property. Memphis 2 is required to pay M1PL amounts equivalent to the aggregate of upfront land premium, land rents, land premium adjustments, stamp duty and goods and services tax on its proportionate share associated with the lease extension.
+
+# 31 RELATED PARTY TRANSACTIONS
+
+For the purpose of these financial statements, parties are considered to be related to the Group when the Group has the ability, whether directly or indirectly, to control the party or exercise significant influence over the party in making financial and operating decisions or vice-versa, or where the Group and the party are subject to common control or with a Unitholder that has significant influence. Other than disclosed elsewhere in the financial statements, the following are significant transactions with related parties on terms agreed between the parties.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fixed rental income from related corporations</td>
+        <td>53,383</td>
+        <td>32,530</td>
+    </tr>
+    <tr>
+        <td>Variable rental income from related corporations</td>
+        <td>231,468</td>
+        <td>120,453</td>
+    </tr>
+    <tr>
+        <td>Management base fees to related corporations</td>
+        <td>(25,485)</td>
+        <td>(18,841)</td>
+    </tr>
+    <tr>
+        <td>Management performance fees to a related corporation</td>
+        <td>(12,107)</td>
+        <td>(8,945)</td>
+    </tr>
+    <tr>
+        <td>Acquisition and development management fees to related corporations</td>
+        <td>(9,705)</td>
+        <td>(12,544)</td>
+    </tr>
+    <tr>
+        <td>Divestment fees to a related corporation</td>
+        <td>(351)</td>
+        <td>(782)</td>
+    </tr>
+    <tr>
+        <td>Facility management fees to related corporations</td>
+        <td>(11,316)</td>
+        <td>(6,900)</td>
+    </tr>
+    <tr>
+        <td>Support services fee to a related corporation</td>
+        <td>78</td>
+        <td>(531)</td>
+    </tr>
+    <tr>
+        <td>Interest income from a joint venture</td>
+        <td>7,155</td>
+        <td>7,504</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 156 -->
+
+# 32 COMMITMENTS AND CONTINGENCIES
+
+**Commitments**
+
+In accordance with the sub-lease agreement between a subsidiary, M1PL and a lessee, Memphis 2, the lessee is responsible for undertaking remediation works to satisfy certain requirements by JTC.
+
+In June 2022, the Group paid a deposit for fit-out works in relation to Guangdong DC 3, with the remaining $121.0 million to be paid when the fit-out works are completed. The long-stop date has passed, and the Group has reserved its rights since end 2023.
+
+**Contingencies**
+
+In December 2025, the Group entered into payment undertaking deeds which Keppel Data Centres Holding Pte. Ltd., Times Properties Private Limited and an unrelated third party are required to reimburse their respective agreed percentages of the lease extension consideration of $350 million and certain capped financing and related costs if specified relevant events occur, such as JTC not granting the land tenure lease extension or issuing terms that are prejudicial to the Group. These undertakings are supported by minimum net asset value requirements for each undertaking party throughout the undertaking period.
+
+# 33 FINANCIAL RATIOS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>%</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Expenses to average net assets¹</td>
+        <td>1.40</td>
+        <td>1.62</td>
+    </tr>
+    <tr>
+        <td>– including asset management fees</td>
+        <td>0.39</td>
+        <td>0.51</td>
+    </tr>
+    <tr>
+        <td>– excluding asset management fees</td>
+        <td>1.01</td>
+        <td>1.11</td>
+    </tr>
+    <tr>
+        <td colspan="3"> </td>
+    </tr>
+    <tr>
+        <th> </th>
+        <th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2025</th>
+        <th>2024</th>
+    </tr>
+    <tr>
+        <td>Operating expenses² ($’000)</td>
+        <td>147,762</td>
+        <td>117,290</td>
+    </tr>
+    <tr>
+        <td>Operating expenses² to net asset value as at 31 December (%)</td>
+        <td>3.97</td>
+        <td>4.68</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 The expense ratio has been computed based on the guidelines laid down by the Investment Management Association of Singapore (“IMAS”). The calculation of the expense ratio was based on total expenses of the Group divided by the average net asset value for the year. The expenses used in the computation exclude property expenses, finance costs, foreign exchange gains/losses, gains/losses from derivatives and tax expenses. The average net asset value is based on the month-end balances.
+
+\*2 The operating expenses include property expenses, the Manager’s management fees, trustee’s fees and all other fees and charges paid to interested persons as well as taxation incurred.
+
+# 34 OPERATING SEGMENTS
+
+The Group has 25 (2024: 25) investment properties, as described in the portfolio statement in three reportable segments. The various investment properties are managed separately given the different geographic locations. For each of the investment properties, the Manager reviews internal management reports at least on a quarterly basis.
+
+Information regarding the results of each reportable segment is included below. Performance is measured based on segment profit or loss before tax, as included in the internal management reports that are reviewed by the Manager. Reporting segment profit or loss before tax is used to measure performance as management believes that such information is the most relevant in evaluating the results of certain segments relative to other entities that operate within these segments.
+
+In 2025, following the inclusion of Tokyo DC 3 into the portfolio, the reportable segments by type of asset were renamed to fully-fitted (colocation), fully-fitted (single tenant) and shell and core to better reflect the nature of each asset type. There was no reclassification made between the reportable segments arising from this change.
+
+<!-- PAGE 157 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2025
+
+## 34 OPERATING SEGMENTS (continued)
+
+### Information about reportable segments
+
+By type of asset
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="4">2025</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Fully-fitted<br/>(Colocation)</th>
+<th>Fully-fitted<br/>(Single Tenant)</th>
+<th>Shell and core</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Gross revenue</td>
+<td>328,115</td>
+<td>80,715</td>
+<td>32,532</td>
+<td>441,362</td>
+    </tr>
+    <tr>
+<td>Net property income</td>
+<td>297,914</td>
+<td>58,607</td>
+<td>26,739</td>
+<td>383,260</td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td>457</td>
+<td>303</td>
+<td>92</td>
+<td>852</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>(19,029)</td>
+<td>(16,193)</td>
+<td>(11,723)</td>
+<td>(46,945)</td>
+    </tr>
+    <tr>
+<td>Net change in fair value of investment properties</td>
+<td>200,895</td>
+<td>(35,436)</td>
+<td>(3,811)</td>
+<td>161,648</td>
+    </tr>
+    <tr>
+<td><strong>Reportable segment profit before tax</strong></td>
+<td><strong>470,013</strong></td>
+<td><strong>5,314</strong></td>
+<td><strong>20,467</strong></td>
+<td><strong>495,794</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Unallocated amounts:</td>
+    </tr>
+    <tr>
+<td>– Finance income</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>14,459</td>
+    </tr>
+    <tr>
+<td>– Finance costs</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(1,998)</td>
+    </tr>
+    <tr>
+<td>– Other corporate expenses</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(35,536)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Profit before tax</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>472,719</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Segment assets</strong></td>
+<td><strong>4,196,942</strong></td>
+<td><strong>1,727,647</strong></td>
+<td><strong>626,514</strong></td>
+<td><strong>6,551,103</strong></td>
+    </tr>
+    <tr>
+<td>Other unallocated amounts</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>330,079</td>
+    </tr>
+    <tr>
+<td><strong>Consolidated assets</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>6,881,182</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Segment liabilities</strong></td>
+<td><strong>998,668</strong></td>
+<td><strong>1,220,816</strong></td>
+<td><strong>413,197</strong></td>
+<td><strong>2,632,681</strong></td>
+    </tr>
+    <tr>
+<td>Other unallocated amounts</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>18,385</td>
+    </tr>
+    <tr>
+<td><strong>Consolidated liabilities</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>2,651,066</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Other segment items:</td>
+    </tr>
+    <tr>
+<td>Capital expenditure/net additions</td>
+<td>60,459</td>
+<td>6,887</td>
+<td>426</td>
+<td>67,772</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<th> </th>
+<th colspan="4">2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Fully-fitted<br/>(Colocation)</th>
+<th>Fully-fitted<br/>(Single Tenant)</th>
+<th>Shell and core</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+    <tr>
+<td>Gross revenue</td>
+<td>198,652</td>
+<td>74,424</td>
+<td>37,211</td>
+<td>310,287</td>
+    </tr>
+    <tr>
+<td>Net property income</td>
+<td>173,053</td>
+<td>53,087</td>
+<td>34,146</td>
+<td>260,286</td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td>71</td>
+<td>1,399</td>
+<td>3,203</td>
+<td>4,673</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>(15,949)</td>
+<td>(18,280)</td>
+<td>(14,011)</td>
+<td>(48,240)</td>
+    </tr>
+    <tr>
+<td>Net change in fair value of financial assets at FVTPL</td>
+<td>–</td>
+<td>–</td>
+<td>(176)</td>
+<td>(176)</td>
+    </tr>
+    <tr>
+<td>Net change in fair value of investment properties</td>
+<td>178,606</td>
+<td>(7,862)</td>
+<td>(50,134)</td>
+<td>120,610</td>
+    </tr>
+    <tr>
+<td><strong>Reportable segment profit before tax</strong></td>
+<td><strong>330,999</strong></td>
+<td><strong>21,021</strong></td>
+<td><strong>6,481</strong></td>
+<td><strong>358,501</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Unallocated amounts:</td>
+    </tr>
+    <tr>
+<td>– Finance income</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>10,717</td>
+    </tr>
+    <tr>
+<td>– Finance costs</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(3,269)</td>
+    </tr>
+    <tr>
+<td>– Other corporate expenses</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(25,139)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Profit before tax</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>340,810</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Segment assets</strong></td>
+<td><strong>3,592,979</strong></td>
+<td><strong>961,974</strong></td>
+<td><strong>711,043</strong></td>
+<td><strong>5,265,996</strong></td>
+    </tr>
+    <tr>
+<td>Other unallocated amounts</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>277,237</td>
+    </tr>
+    <tr>
+<td><strong>Consolidated assets</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>5,543,233</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Segment liabilities</strong></td>
+<td><strong>1,119,593</strong></td>
+<td><strong>454,070</strong></td>
+<td><strong>523,855</strong></td>
+<td><strong>2,097,518</strong></td>
+    </tr>
+    <tr>
+<td>Other unallocated amounts</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>18,767</td>
+    </tr>
+    <tr>
+<td><strong>Consolidated liabilities</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>2,116,285</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5">Other segment items:</td>
+    </tr>
+    <tr>
+<td>Capital expenditure/net additions</td>
+<td>48,812</td>
+<td>238</td>
+<td>3,228</td>
+<td>52,278</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 158 -->
+
+By geographical area
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">GROUP</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2025</th>
+<th>2024</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3"><strong>Gross revenue</strong></td>
+    </tr>
+    <tr>
+<td>– Singapore</td>
+<td><strong>316,088</strong></td>
+<td>177,495</td>
+    </tr>
+    <tr>
+<td>– China</td>
+<td><strong>24,100</strong></td>
+<td>23,929</td>
+    </tr>
+    <tr>
+<td>– Japan</td>
+<td><strong>11,018</strong></td>
+<td>2,679</td>
+    </tr>
+    <tr>
+<td>– Germany</td>
+<td><strong>11,678</strong></td>
+<td>17,615</td>
+    </tr>
+    <tr>
+<td>– Ireland</td>
+<td><strong>36,906</strong></td>
+<td>35,438</td>
+    </tr>
+    <tr>
+<td>– The Netherlands</td>
+<td><strong>17,668</strong></td>
+<td>16,459</td>
+    </tr>
+    <tr>
+<td>– Other countries</td>
+<td><strong>23,904</strong></td>
+<td>36,672</td>
+    </tr>
+    <tr>
+<td>Total gross revenue</td>
+<td><strong>441,362</strong></td>
+<td>310,287</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3"><strong>Investment properties</strong></td>
+    </tr>
+    <tr>
+<td>– Singapore</td>
+<td><strong>3,860,539</strong></td>
+<td>3,264,551</td>
+    </tr>
+    <tr>
+<td>– China</td>
+<td><strong>229,308</strong></td>
+<td>273,550</td>
+    </tr>
+    <tr>
+<td>– Japan</td>
+<td><strong>888,421</strong></td>
+<td>213,960</td>
+    </tr>
+    <tr>
+<td>– Germany</td>
+<td><strong>179,716</strong></td>
+<td>222,703</td>
+    </tr>
+    <tr>
+<td>– Ireland</td>
+<td><strong>341,987</strong></td>
+<td>302,583</td>
+    </tr>
+    <tr>
+<td>– The Netherlands</td>
+<td><strong>255,513</strong></td>
+<td>234,417</td>
+    </tr>
+    <tr>
+<td>– Other countries</td>
+<td><strong>377,916</strong></td>
+<td>392,243</td>
+    </tr>
+    <tr>
+<td>Total carrying value of investment properties</td>
+<td><strong>6,133,400</strong></td>
+<td>4,904,007</td>
+    </tr>
+  </tbody>
+</table>
+
+Major customers
+
+Gross revenue of approximately $289.1 million (2024: $151.3 million) is derived from one client from the fully-fitted (colocation) segment (2024: fully-fitted (colocation) segment).
+
+# 35 SUBSEQUENT EVENTS
+
+On 30 January 2026, the Manager declared a distribution of 5.248 cents per Unit for the period from 1 July 2025 to 31 December 2025.
+
+On 11 February 2026, M1PL was converted to Keppel DC Singapore 7 LLP, a limited liability partnership pursuant to section 21 of the Limited Liability Partnership Act 2005 of Singapore.
+
+On 12 February 2026, the Group completed the acquisition of all remaining interests in KDCS3 LLP and KDCS4 LLP, which in turn hold KDC SGP 3 and KDC SGP 4 respectively, at an aggregate amount of $50.5 million.
+
+<!-- PAGE 159 -->
+
+# Corporate Governance
+
+The board and management of Keppel DC REIT Management Pte. Ltd., the manager of Keppel DC REIT (the "Manager"), are fully committed to good corporate governance as they firmly believe that it is essential in protecting the interests of the unitholders of Keppel DC REIT (the "Unitholders"). Good corporate governance is also critical to the performance and success of the Manager.
+
+The Manager adopts the Code of Corporate Governance 2018 issued by the Monetary Authority of Singapore on 6 August 2018, as amended from time to time (the "CG Code") as its benchmark for corporate governance policies and practices. The following sections describe the Manager's main corporate governance policies and practices, with specific reference to the CG Code and its accompanying Practice Guidance. The Manager is pleased to share that Keppel DC REIT has complied with the principles of the CG Code and complied in all material aspects with the provisions and practices in the CG Code. Where there are deviations from the provisions of the CG Code, appropriate explanations have been provided in this Annual Report.
+
+## THE MANAGER OF KEPPEL DC REIT
+
+The Manager has general powers of management over the assets of Keppel DC REIT. The Manager's main responsibility is to manage the assets and liabilities of Keppel DC REIT for the benefit of Unitholders. The Manager manages the assets of Keppel DC REIT with a focus on generating rental income and enhancing asset value over time so as to optimise returns from investments, and ultimately, distributions and total returns to Unitholders.
+
+The primary role of the Manager is to set the strategic direction of Keppel DC REIT and make recommendations to Perpetual (Asia) Limited as trustee of Keppel DC REIT (the "Trustee") on the acquisitions to, and divestments from, Keppel DC REIT's portfolio of assets, as well as enhancement of the assets of Keppel DC REIT, in accordance with its investment strategy. The research, analysis and evaluation required to achieve this is carried out by the Manager. The Manager is also responsible for the risk management of Keppel DC REIT.
+
+The Manager uses its best endeavours to carry on and conduct its business in a proper and efficient manner and to conduct all transactions with, or for Keppel DC REIT, at arm's length.
+
+Other functions and responsibilities of the Manager include:
+
+a. developing a business plan for Keppel DC REIT with a view to maximise the distributable income of Keppel DC REIT;
+
+b. acquiring, selling, leasing, contracting, licensing, entering into arrangements for the use of colocation space or otherwise dealing with any real estate in furtherance of the investment policy and prevailing investment strategy that the Manager has for Keppel DC REIT;
+
+c. supervising and overseeing the management of Keppel DC REIT's properties (including lease and facility management, systems control, data management, business plan implementation and adoption of sustainability initiatives);
+
+d. undertaking regular individual asset performance analysis and market research analysis;
+
+e. managing the finances of Keppel DC REIT, including accounts preparation, capital management, co-ordination of the budget process, forecast modelling, performance analysis and reporting, corporate treasury functions and ongoing financial market analysis;
+
+f. ensuring compliance with the applicable provisions of the Companies Act, the Securities and Futures Act and other relevant legislation, the Listing Manual of the Singapore Exchange Securities Trading Limited ("SGX"), the Code on Collective Investment Schemes (including the Property Funds Appendix) issued by the Monetary Authority of Singapore ("MAS"), and applicable tax rulings including those issued by the Inland Revenue Authority of Singapore on taxation of Keppel DC REIT and its Unitholders;
+
+g. managing regular communications with Unitholders;
+
+h. managing sustainability risks (including environmental, social and governance factors) and climate-related risks (including physical and transition risks) as part of its decision-making process; and
+
+i. supervising the facility managers who perform day-to-day facility management functions (including contracting, accounting, budgeting, marketing, promotion, facility management, maintenance and administration) for Keppel DC REIT's properties, pursuant to the facility management agreements signed for the respective properties.
+
+Keppel DC REIT, constituted as a trust, is externally managed by the Manager. The Manager is a wholly-owned subsidiary of Keppel Ltd., the Sponsor of Keppel DC REIT. Keppel Ltd. is a global asset manager and operator with strong expertise in sustainability-related solutions spanning the areas of connectivity (of which the data centre industry is a large component of), infrastructure, and real estate. Keppel Ltd. holds a sizeable unitholding interest of approximately 19% in Keppel DC REIT and is aligned with Unitholders with regard to the long-term performance of Keppel DC REIT. The commitment of the Sponsor is also demonstrated by the rights of first refusal granted by the Sponsor to contribute to the acquisition pipeline of Keppel DC REIT. As a result, the appointment of the Manager and its association with Keppel Ltd. has, among others, the following benefits for Keppel DC REIT:
+
+a. access to deep and specialised knowledge in terms of data centre technical expertise, real estate structuring and investments;
+
+b. leverage on Keppel Ltd. for strategic growth opportunities, including pipeline to data centre assets and clients;
+
+c. ability to tap on Keppel Ltd.'s external networks, including banks, debt and capital markets, as well as Keppel Ltd.'s support for fund raising;
+
+d. access to Keppel Ltd.'s internal resources and shared functions such as human resources, information technology, investor relations and sustainability, legal and corporate secretariat, risk and compliance and treasury; and
+
+e. support from and access to a bench of experienced management talent.
+
+To run the day-to-day operations of Keppel DC REIT, the Manager appoints an experienced and well-qualified management team. All directors of the Manager (the "Directors") and employees of the Manager are remunerated by the Manager, and not by Keppel DC REIT.
+
+<!-- PAGE 160 -->
+
+The Manager is appointed in accordance with the terms of the Deed of Trust dated 17 March 2011 as amended and supplemented by a First Supplemental Deed dated 24 October 2014, a Supplemental Deed of Appointment and Retirement dated 24 October 2014, the First Amending and Restating Deed dated 24 October 2014, the Second Supplemental Deed dated 18 November 2014, the Third Supplemental Deed dated 21 January 2015, the Fourth Supplemental Deed dated 11 March 2016, the Fifth Supplemental Deed dated 17 April 2018, the Sixth Supplemental Deed dated 9 April 2020 and the Seventh Supplemental Deed dated 10 December 2021 (collectively, the "Trust Deed")¹. The Trust Deed outlines certain circumstances under which the Manager can be removed by notice in writing given by the Trustee in favour of a corporation appointed by the Trustee, upon the occurrence of certain events, including if the Unitholders by a resolution duly proposed and passed by a simple majority of Unitholders present and voting at a meeting of Unitholders, with no Unitholder (including the Manager and its related parties) being disenfranchised, vote to remove the Manager.
+
+# BOARD MATTERS: THE BOARD'S CONDUCT OF AFFAIRS
+
+## Principle 1:
+
+*The company is headed by an effective Board which is collectively responsible and works with Management for the long-term success of the company.*
+
+## Principle 3:
+
+*There is a clear division of responsibilities between the leadership of the Board and Management, and no one individual has unfettered powers of decision-making.*
+
+The Board of Directors of the Manager (the "Board") is responsible for the overall management and the corporate governance of Keppel DC REIT and the Manager, including establishing goals for management and monitoring the achievement of these goals. The Board puts in place a code of conduct and ethics, sets appropriate tone from the top and desired organisational culture, and ensures proper accountability within the Manager and Keppel DC REIT.
+
+**Role:** The principal functions and responsibilities of the Board are to:
+
+* provide entrepreneurial leadership and decide on matters in relation to Keppel DC REIT's and the Manager's activities of a significant nature, including decisions on strategic direction, guidelines and the approval of periodic plans and major investments and divestments;
+
+* oversee the business and affairs of Keppel DC REIT and the Manager, establish, with management, the strategies and financial objectives (including appropriate focus on value creation, innovation and sustainability) to be implemented by management, and monitor the performance of management and ensure that the Manager has necessary resources to meet its strategic objectives;
+
+* hold management accountable for performance and ensure proper accountability within Keppel DC REIT and the Manager;
+
+* oversee processes for evaluating the adequacy and effectiveness of internal controls, risk management, financial reporting and compliance, and satisfy itself as to the adequacy and effectiveness of such processes;
+
+* be responsible for the governance of risk and ensure that management maintains a sound system of risk management and internal controls, to safeguard the interests of Keppel DC REIT and its stakeholders; and
+
+* assume responsibility for corporate governance and ensure transparency and accountability to key stakeholder groups.
+
+**Internal Limits of Authority:** The Manager has adopted a set of internal guidelines which sets out the level of authorisation and financial authority limits for investment/business acquisition and divestment, operating/capital expenditure, capital management, leasing, contracting and write-off of assets and corporate matters. Transactions and matters which require the approval of the Board are clearly set out in the internal guidelines and clearly communicated to management in writing. Appropriate delegations of authority and approval sub-limits are also provided at management level to facilitate operational efficiency.
+
+The Board has reserved authority to approve certain matters including:
+
+* material acquisitions, investments and divestments;
+
+* issuance of new units in Keppel DC REIT ("Units");
+
+* income distributions and other returns to Unitholders; and
+
+* matters which involve a conflict of interest for a controlling Unitholder or a Director.
+
+**Independent Judgement:** All Directors are fiduciaries who are expected to act objectively and exercise independent judgement in the best interests of Keppel DC REIT and hold management accountable for performance. When reviewing management's proposals or decisions, the Directors bring their objective independent judgement to bear on business activities and transactions involving conflicts of interest and other complexities. All Directors have consistently discharged this duty well.
+
+**Conflicts of Interest:** All Directors are required to promptly disclose any conflict of interest, whether direct or indirect, in relation to a transaction or proposed transaction with Keppel DC REIT or the Manager as soon as is practicable after the relevant facts have come to his or her knowledge, and recuse themselves when the conflict-related matter is discussed unless the Board is of the opinion that his or her presence and participation is necessary to enhance the efficacy of such discussion, and abstain from voting in relation to conflict-related matters. On an annual basis, each Director is also required to submit details of his or her associates for the purpose of monitoring interested persons transactions.
+
+**Board Committees:** To assist the Board in the discharge of its oversight function, the Audit and Risk Committee ("ARC"), the Nominating and Remuneration Committee ("NRC") and the Environmental, Social and Governance Committee ("ESGC") have been constituted with clear written terms of reference, setting out their compositions, authorities and duties, including reporting back to the Board,
+
+\*1 A copy of the Trust Deed is available for inspection at the registered office of the Manager during usual business hours and Unitholders should make an appointment with the Manager should they wish to do so.
+
+<!-- PAGE 161 -->
+
+and play important roles in ensuring good corporate governance. The responsibilities of the Board committees are disclosed in the Appendix hereto.
+
+**Meetings:** The Board meets at least four times a year and as warranted by particular circumstances to discuss and review the Manager’s key activities, including its business strategies and policies for Keppel DC REIT, proposed acquisitions and divestments, the annual budgets, the performance of the business and the financial performance of Keppel DC REIT and the Manager. The Board also reviews and approves the release of the financial results. In addition, the Board reviews the risks to the assets of Keppel DC REIT, and acts upon any comments from the internal and external auditors of Keppel DC REIT and the Manager. Board meetings are scheduled in advance and the scheduled dates are circulated to the Directors prior to the start of the financial year to allow Directors to plan ahead to attend such meetings, so as to maximise participation.
+
+The Manager’s constitution permits Board meetings to be held by way of conference via telephone or any other electronic means of communication by which all persons participating are able, contemporaneously, to hear and be heard by all other participants.
+
+The number of Board and Board committee meetings held in FY 2025, as well as the attendance of each Board member at these meetings, are disclosed in the table below.
+
+If a Director is unable to attend a Board or Board committee meeting, he or she still receives all the papers and materials for discussion at that meeting. He or she will review them and will advise the Chairman or Board committee chairman of his or her views and comments on the matters to be discussed so that they can be conveyed to other members at the meeting.
+
+**Closed Door Directors’ Meetings:**
+
+Time is also set aside at the end of each scheduled quarterly Board meeting, and as and when required, for closed door discussions without the presence of management to discuss matters such as board processes, corporate governance initiatives, succession planning, and performance management and remuneration matters.
+
+**Company Secretaries:** The Company Secretaries administer, attend and prepare minutes of Board proceedings. They assist the Chairman to ensure that Board procedures (including but not limited to assisting the Chairman to ensure timely and good information flow to the Board and its Board committees, and between management and the Directors) are followed and regularly reviewed to ensure effective functioning of the Board and that the Manager’s constitution and relevant rules and regulations are complied with. They also assist the Chairman and the Board to implement corporate governance practices and processes with a view to enhancing long-term Unitholder value. They are also the primary channel of communication between Keppel DC REIT and the SGX. The appointment and removal of the Company Secretaries are subject to the approval of the Board.
+
+**Access to Information:** The Board and management fully appreciate that fundamental to good corporate governance is an effective and robust Board whose members engage in open and constructive debate and challenge management on its assumptions and proposals and that for this to happen, the Board must be kept well informed of Keppel DC REIT’s businesses and affairs and be knowledgeable about the industry in which the businesses operate.
+
+Management provides the Board with complete, adequate, relevant and accurate information in a timely manner relating to matters to be brought before the Board, prior to Board meetings and on an ongoing basis to enable the Board to make informed decisions and discharge its duties and responsibilities. The information provided to the Board includes management accounts, financial results, market and business developments, and business and operational information. Such reports keep the Board informed, on a balanced and understandable basis, of Keppel DC REIT’s business, performance, business and financial environment, risk and prospects on a regular basis. The financial results are also compared against the respective budgets, together with explanations given for significant variances for the reporting period. Management also surfaces key risk issues for discussion and confers with the ARC and the Board regularly.
+
+As a general rule, Board papers are required to be distributed to Directors at least seven days before the Board meeting so that the Directors may better understand the matters prior to the Board meeting and discussions may be focused on questions that the Directors may have. Directors are provided with tablet devices to facilitate their access to and review of board materials. However, sensitive matters may be tabled at the meeting itself or discussed without any papers being distributed. Managers who can provide additional insight into the matters at hand would be present at the relevant time during
+
+<table>
+  <thead>
+    <tr>
+        <th>Director</th>
+        <th>Board Meetings Attended</th>
+        <th>ARC Meetings Attended</th>
+        <th>NRC Meetings Attended</th>
+        <th>ESGC Meetings Attended</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan</td>
+        <td>5</td>
+        <td>–</td>
+        <td>2</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping (Appointed as Lead Independent Director and Chairman of NRC on 6 May 2025 and ceased as Member of ESGC on 6 May 2025)</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>1/1</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee¹</td>
+        <td>5</td>
+        <td>–</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan (Appointed as Member of ESGC on 6 May 2025)</td>
+        <td>5</td>
+        <td>4</td>
+        <td>–</td>
+        <td>1/1</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang</td>
+        <td>4</td>
+        <td>–</td>
+        <td>–</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Mr Kenny Kwan (Ceased as Lead Independent Director and Chairman of NRC on 6 May 2025)</td>
+        <td>2/2</td>
+        <td>2/2</td>
+        <td>2/2</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td><strong>No. of Meetings held in FY 2025</strong></td>
+        <td><strong>5</strong></td>
+        <td><strong>4</strong></td>
+        <td><strong>2</strong></td>
+        <td><strong>2</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the NRC and ESGC with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the ESGC and Mr Andrew Tan succeeded Mr Chua as member of the NRC.
+
+<!-- PAGE 162 -->
+
+the Board meeting. The Directors also have separate and independent access to management and the Company Secretaries, and are provided with the names and contact details of senior management and the Company Secretaries to facilitate direct access to senior management and the Company Secretaries. The Directors are entitled to request from management, and would be provided with, such additional information as may be needed from time to time in order to make informed decisions. In addition, Directors also have separate and independent access to external advisers (where necessary).
+
+Subject to the approval of the Chairman, the Directors, whether as a group or individually, may seek and obtain independent professional advice to assist them in their duties, at the expense of Keppel DC REIT or the Manager, as appropriate.
+
+The Board reviews the budgets on an annual basis, and any material variance between the projections and actual results would be disclosed and explained. A board strategy meeting is organised periodically for in-depth discussion on strategic issues and direction of Keppel DC REIT, to give the Directors a better understanding of Keppel DC REIT and its businesses, and to provide an opportunity for the Directors to familiarise themselves with the management team so as to facilitate the Board’s review of Keppel DC REIT’s succession planning.
+
+**Director Orientation:** A formal letter is sent to newly-appointed Directors upon their appointment explaining their roles, duties, obligations and responsibilities as a Director. All newly-appointed Directors undergo a comprehensive orientation programme which includes management presentations on the businesses and strategic plans and objectives of Keppel DC REIT. Site visits are organised by management periodically for Directors and other employees.
+
+**Training:** Changes to laws, regulations, policies, accounting and financial reporting standards and industry-related matters are monitored closely. Where the changes have an important and significant bearing on Keppel DC REIT and its disclosure obligations, the Directors are briefed either during Board meetings, at specially convened sessions or via the circulation of Board papers and updates. The Directors are also
+
+provided with opportunities to develop and maintain their skills and knowledge through continuing education in areas such as directors’ duties and responsibilities, corporate governance, changes in financial reporting standards, insider trading, changes in the Companies Act or other applicable legislation and industry-related matters, so as to update and refresh them on matters that affect or may enhance their performance as Board or Board committee members. All induction, training and development costs are at the Manager’s expense.
+
+Directors who are appointed to the Board from time to time either have prior experience as a director of an issuer listed on the SGX-ST or will undergo the training required under Rule 210(5)(a) of the Listing Manual. Rule 720(7) of the Listing Manual requires all directors of an issuer to undergo training on sustainability matters as prescribed by the SGX. All Directors have undergone the required sustainability training prescribed by the SGX.
+
+**Chairman and CEO:** The positions of Chairman and Chief Executive Officer (“CEO”) are held by two separate persons to ensure an appropriate balance of power, increased accountability and greater capacity of the Board for independent decision making. The Chairman and CEO are not immediate family members.
+
+The Chairman, with the assistance of the Company Secretaries, schedules meetings and prepares meeting agenda to enable the Board to perform its duties responsibly having regard to the flow of Keppel DC REIT’s operations.
+
+The Chairman sets guidelines on and monitors the flow of information from management to the Board to ensure that all material information is provided in a timely manner to the Board for the Board to make good decisions. The Chairman also encourages constructive relations between the Board and management. At Board meetings, the Chairman encourages a full and frank exchange of views, drawing out contributions from all Directors so that the debate benefits from the full diversity of views, in a robust yet collegiate setting.
+
+At annual general meetings (“AGM”) and other Unitholders’ meetings, the Chairman ensures constructive dialogue between Unitholders, the Board and
+
+management. The Chairman sets the right ethical and behavioural tone and takes a leading role in Keppel DC REIT’s drive to achieve and maintain a high standard of corporate governance with the full support of the Directors, Company Secretaries and management.
+
+The CEO, assisted by the management team, makes strategic proposals to the Board and after robust and constructive Board discussion, executes the agreed strategy, manages and develops Keppel DC REIT’s businesses and implements the Board’s decisions.
+
+The clear separation of roles and division of responsibilities between the Chairman and CEO provides a healthy professional relationship between the Board and management with clarity of roles and robust deliberations on the business activities of Keppel DC REIT.
+
+# BOARD MATTERS: BOARD COMPOSITION AND GUIDANCE
+
+## Principle 2:
+
+*The Board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interests of the company.*
+
+## Principle 4:
+
+*The Board has a formal and transparent process for the appointment and re-appointment of directors, taking into account the need for progressive renewal of the Board.*
+
+# NOMINATING AND REMUNERATION COMMITTEE
+
+The Manager has established the NRC to, among other things, make recommendations to the Board on all Board appointments and oversee the Board and senior management's succession plans. The NRC conducts regular, and at least annual, reviews of board diversity, board size, board independence, directors' tenure, core competencies and directors' commitment. In particular, the NRC convenes for additional discussions to deliberate on potential candidates for board renewal as and when necessary.
+
+A total of two NRC meetings were held in FY 2025. The NRC comprises three Directors (including the lead independent director “Lead Independent Director”, Mr Low Huan Ping), the majority of
+
+<!-- PAGE 163 -->
+
+# Corporate Governance
+
+whom, including the Chairman of the NRC, are independent.
+
+The composition of the NRC is as follows:
+
+<table>
+  <tbody>
+    <tr>
+        <td>Mr Low Huan Ping¹<br/>(Lead Independent Director)</td>
+        <td>Chairman</td>
+    </tr>
+    <tr>
+        <td>Ms Christina Tan<br/>(Non-executive Director)</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee²<br/>(Independent Director)</td>
+        <td>Member</td>
+    </tr>
+  </tbody>
+</table>
+
+The NRC has its written terms of reference setting out its scope and authority in performing the functions of the NRC. In addition, Provision 3.3 of the CG Code recommends appointing an independent director to be the lead independent director in certain circumstances, including where the Chairman is not independent. Mr Low Huan Ping was appointed as Lead Independent Director of the Board and Chairman of the NRC on 6 May 2025, following Mr Kenny Kwan’s stepping down from the Board.
+
+Mr Low Huan Ping as the Lead Independent Director provides leadership among the Directors in a way that enhances the objectivity and independence of the Board and he acts as an additional conduit to the Board for communicating Unitholder concerns when the normal channels are not able to resolve the matter or when the result is not appropriate or adequate. Questions or feedback may be submitted via email to the Lead Independent Director at investor.relations@keppeldcreit.com. The Lead Independent Director may also arrange and chair periodic meetings with other independent Directors as and when required, without the presence of management and provides feedback to the Chairman.
+
+## Process for Appointment of New Directors and Succession Planning for the Board
+
+The NRC is responsible for reviewing the succession plans for the Board (in particular, the Chairman). In this regard, it has put in place a formal process for the renewal of the Board and the selection of new Directors. The NRC leads the process and makes recommendations to the Board as follows:
+
+a. the NRC reviews annually the balance and diversity of skills, talents, experience, gender, age and knowledge required by the Board and the size of the Board which would facilitate decision-making;
+
+b. in light of such review and in consultation with management, the NRC assesses if there is any inadequate representation in respect of those attributes and if so, prepares a description of the role and the essential and desirable competencies for a particular appointment;
+
+c. external resources (for example, the Singapore Institute of Directors, external search consultants, open advertisement) are used periodically to source for potential candidates. Directors and management may also make suggestions;
+
+d. the NRC meets with the shortlisted candidates to assess suitability and to ensure that the candidate(s) is/ are aware of the expectations and the level of commitment required; and
+
+e. the NRC makes recommendations to the Board for approval.
+
+The Board believes that orderly succession and renewal is achieved as a result of careful planning, where the appropriate composition of the Board is continually under review.
+
+## Criteria for Appointment of New Directors
+
+All new appointments are subject to the recommendations of the NRC based on the following objective criteria:
+
+a. Integrity;
+
+b. Independent mindedness;
+
+c. Diversity – possess core competencies that meet the current needs of Keppel DC REIT and the Manager and complement the skills, talents and competencies of the existing Directors on the Board;
+
+d. Able to commit time and effort to carry out duties and responsibilities effectively;
+
+e. Track record of making good decisions;
+
+f. Experience in high-performing corporations or property funds;
+
+g. Financially literate; and
+
+h. Fit and proper person in accordance with the guidelines issued by the MAS.
+
+## Endorsement by Unitholders of Appointment of Directors
+
+Keppel Capital Holdings Pte. Ltd. (“Keppel Capital”) had on 1 July 2016 provided an undertaking to the Trustee (the “Undertaking”) to provide Unitholders with the right to endorse the appointment of each of the Directors by way of an ordinary resolution at the AGM. Pursuant to the Undertaking, Keppel Capital undertakes to the Trustee:
+
+a. to procure the Manager to seek Unitholders’ re-endorsement for the appointment of each Director no later than every third AGM after the relevant general meeting at which such Director’s appointment was last endorsed or re-endorsed, as the case may be;
+
+b. (where a person is appointed as Director, either to fill a vacancy or as an addition to the existing Directors, at any time) to procure the Manager to seek Unitholders’ endorsement for his or her appointment as a Director at the next AGM immediately following his or her appointment; and
+
+c. to procure any person whose appointment as a Director has not been endorsed or re-endorsed (as the case may be) by the Unitholders at the relevant general meeting where the endorsement or re-endorsement (as the case may be) for his or her appointment was sought, to resign or otherwise be removed from the Board either (i) within 21 days from the date of the relevant general meeting or (ii) in the event that the Board determines that a replacement Director has to be appointed, no later than the date when such replacement Director is appointed, and the regulatory approval for such appointment (if any) has been obtained.
+
+The endorsement or re-endorsement from Unitholders of any appointment of any person as a Director shall be by way of an
+
+\*1 Appointed as Lead Independent Director and Chairman of NRC on 6 May 2025.
+
+\*2 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director with effect from 16 March 2026 and accordingly, ceased to be a member of the NRC. Mr Andrew Tan succeeded Mr Chua as member of the NRC.
+
+<!-- PAGE 164 -->
+
+ordinary resolution passed at the relevant general meeting. The Undertaking shall not restrict the Manager or Keppel Capital from appointing any Director from time to time in accordance with applicable laws and regulations (including any applicable rules of SGX) and the constitution of the Manager.
+
+The Undertaking shall remain in force for so long as:
+
+a. Keppel Capital continues to hold shares in the Manager; and
+
+b. Keppel DC REIT Management Pte. Ltd. remains as the manager of Keppel DC REIT.
+
+The Manager is seeking the re-endorsement of the appointments of Ms Christina Tan and Ms Yeo Siew Eng at the AGM to be held in 2026. Pursuant to the re-endorsements, the Board will comprise of a majority of independent directors (being Mr Low Huan Ping, Ms Yeo Siew Eng, and Mr Andrew Tan), with Mr Low Huan Ping as the Lead Independent Director.
+
+The NRC recommends the re-endorsement of Directors to the Board, having regard to each Director’s skills, talents, experience, profile, contribution and performance (such as attendance, preparedness, knowledge, participation and candour), with reference to the results of the assessment of the performance of the individual Director.
+
+### Alternate Director
+
+The Manager has no alternate directors on the Board.
+
+### Board Diversity
+
+The Manager recognises that diversity in relation to composition of the Board provides a range of perspectives, insights and challenge needed to support good decision-making for the benefit of Keppel DC REIT, and is committed to ensuring that the Board comprises Directors who, as a group, provide an appropriate balance and mix of skills, talents, knowledge, experience, and other aspects of diversity (such as gender and age) so as to promote the inclusion of different perspectives and ideas, mitigate against groupthink, foster constructive debate and ensure that Keppel DC REIT has the opportunity to benefit from all available talent.
+
+It is paramount that the Manager continues to maintain the appropriate balance and mix of skills, talents, knowledge and experience on the Board to support the needs and long-term sustainability of Keppel DC REIT’s and the Manager’s businesses. When assessing Board composition or identifying suitable candidates for appointment or re-endorsement to the Board, the Manager will consider candidates on merit against objective criteria set by the Board after having given due regard to the benefits of diversity and the needs of the Board.
+
+The Manager has in place a Board Diversity Policy that sets out the framework and approach for the Board to set its qualitative and measurable quantitative objectives for achieving diversity, and to annually assess the progress in achieving these objectives.
+
+The Board will, taking into consideration the recommendations of the NRC, review and agree annually the qualitative and measurable quantitative objectives for achieving diversity on the Board. At the recommendation of the NRC, the Board has committed to the following diversity objectives in recognition of the merits of gender diversity and to take into account the needs of Keppel DC REIT's business in the table below.
+
+### Annual Review of Board Size and Composition
+
+As at 31 December 2025, the Board comprised six members, majority of whom (four members) are non-executive independent Directors which is compliant with Provisions 2.2 and 2.3 of the CG Code. As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director with effect from 16 March 2026. As such, there are five Directors on the Board with effect from 16 March 2026, of which a majority of whom (three members) are non-executive independent Directors.
+
+The NRC is of the view that, taking into account the nature and scope of Keppel DC REIT’s operations, the present Board size is appropriate and facilitates effective decision making.
+
+The nature of the Directors’ appointments on the Board and details of their Board committee membership are set out on pages 14 to 16 and on page 185.
+
+The NRC has recently conducted its assessment in January 2026 and is satisfied that the Board and the Board committees comprise Directors who as a group provide an appropriate balance and mix of skills, talents, knowledge, experience, and other aspects of diversity such as gender and age, so as to avoid groupthink and foster constructive debate. The NRC is also satisfied that the Directors, as a group, possess core competencies including accounting and/or finance, real estate industry knowledge, risk management, sustainability and renewable energy, digital technology, mergers and acquisitions, business development and/or entrepreneurship experience,
+
+<table>
+  <thead>
+    <tr>
+        <th>Objectives</th>
+        <th>Progress</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Skills and Experience</strong><br/>To ensure that the Board, collectively, possesses an appropriate range of skills, talents and expertise, including core competencies, domain knowledge and relevant experience.<br/><br/>The Manager is of the view that diversity in skills and experience enhances the effectiveness of the Board and the Board Committees and enables the Board to provide robust guidance and oversight.</td>
+        <td>The NRC, together with the Board, continues to assess and consider potential candidates with the relevant skills to support the needs and long-term sustainability of Keppel DC REIT’s and the Manager’s businesses.<br/><br/>As at the end of FY2025, the Board collectively possesses the identified core skills and experience. The Directors bring diversity through their collective expertise across the identified core competencies as well as academic backgrounds, and collectively have extensive board level and leadership experience across regional and international markets.</td>
+    </tr>
+    <tr>
+        <td><strong>Gender</strong><br/>In identifying suitable candidates for new appointment to the Board, to ensure that female candidates are included for consideration so that gender diversity is maintained with approximately 30% of the Board comprising female directors, in line with recommendations of Singapore’s Council for Board Diversity.</td>
+        <td>As at 31 December 2025, there were two female Directors out of a total of six Directors on the Board and accordingly, this target has been met.<br/><br/>As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director with effect from 16 March 2026. As such, there will be five Directors on the Board with effect from 16 March 2026 and a higher representation of female Directors.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 165 -->
+
+# Corporate Governance
+
+corporate finance, international and regional strategic planning experience, human resource, legal and corporate governance, required for the Board and the Board committees to be effective.
+
+The composition of the Board is also determined using the following principles:
+
+a. the Chairman should be a non-executive Director of the Manager;
+
+b. the Board comprises Directors with a broad range of commercial experience including expertise in fund management, audit and accounting and the real estate industry; and
+
+c. at least one-third of the Board comprises independent Directors.
+
+Further, in accordance with Provision 2.2 of the CG Code, independent Directors make up a majority of the Board as the Chairman is not an independent Director.
+
+The composition is reviewed regularly to ensure that the Board has the appropriate mix of expertise and experience
+
+## Board Independence
+
+The Board determines on an annual basis, taking into account the views of the NRC, whether or not a Director is independent, bearing in mind the CG Code’s definition of an “independent director” and guidance as to relationships the existence of which would deem a Director not to be independent, as well as the independence criteria under the Securities and Futures (Licensing and Conduct of Business) Regulations (“SF(LCB) Regulations”).
+
+Under the CG Code, a Director who is independent in conduct, character and judgement, and has no relationship with the Manager, its related corporations, its substantial shareholders or its officers that could interfere, or be reasonably perceived to interfere, with the exercise of the Director’s independent business judgement in the best interests of Keppel DC REIT, is considered to be independent. In addition, under the SF(LCB) Regulations, an independent Director is one who:
+
+a. is independent from the management of the Manager and Keppel DC REIT;
+
+b. is independent from any business relationship with the Manager and Keppel DC REIT;
+
+c. is independent from every substantial shareholder of the Manager, and every substantial Unitholder of Keppel DC REIT;
+
+d. is not a substantial shareholder of the Manager, or a substantial Unitholder of Keppel DC REIT; and
+
+e. has not served as a director of the Manager for a continuous period of nine years or longer.
+
+Taking into account the views of the NRC, the Board has determined that:
+
+a. each of Mr Low Huan Ping, Ms Yeo Siew Eng and Mr Andrew Tan (i) has been independent from management and business relationships with the Manager and Keppel DC REIT; (ii) has not been a substantial shareholder of the Manager or a substantial Unitholder of Keppel DC REIT; and (iii) has been independent from every substantial shareholder of the Manager and substantial Unitholder of Keppel DC REIT;
+
+b. Mr Chua Soon Ghee¹ (i) has been independent from the management of the Manager and Keppel DC REIT; (ii) has not been a substantial shareholder of the Manager or a substantial Unitholder of Keppel DC REIT; and (iii) has been independent from every substantial shareholder of the Manager and substantial Unitholder of Keppel DC REIT. The Board has also determined that Mr Chua Soon Ghee shall nevertheless be considered independent notwithstanding Regulation 13G(2)(a)(ii) of the SF(LCB) Regulations which establishes a business relationship due to Mr Chua Soon Ghee being a partner of A.T. Kearney Holdings Limited (“Kearney”), a global management consulting firm incorporated in the United Kingdom. Kearney, which operates in Singapore under A.T. Kearney Pte Ltd (“A.T. Kearney”), has provided consultancy services to Keppel. The value of such services is less than 1% of Keppel’s turnover. The Board has taken into consideration (A) Mr Chua Soon Ghee having declared that (I) he does not hold a substantial interest (less than 5%) in Kearney and he does not hold any shares of A.T. Kearney; and (II) he has not provided any services to Keppel DC REIT nor the Manager; (B) he is not in any employment relationship with Keppel and is not under any obligation to act in accordance with the directions, instructions or wishes of Keppel; (C) his conduct and contribution to the Board, including the instances of constructive challenge, exercise of independent judgement and probing of management by Mr Chua Soon Ghee at the Board and the Board committee meetings of the Manager; and (D) the value of the services provided by Kearney to Keppel is less than 1% of Kearney’s turnover for FY 2025. For avoidance of doubt, Keppel DC REIT has not engaged Kearney (or A.T. Kearney) in FY 2025 and there are no proposed nor intended engagements on a forward-looking basis. In any event, had there been any proposed engagement with Kearney (or A.T. Kearney) prior to his cessation as director, such engagement would have been decided by the Manager in its ordinary course of business, on arm’s length basis and on normal commercial terms and/or market rates. As part of its conflicts management processes, the Manager would have to propose such engagement to the Board for approval and Mr Chua Soon Ghee would have had to recuse himself and would not have been involved in the approval process for the engagement of Kearney (or A.T. Kearney) and;
+
+c. Ms Christina Tan and Mr Thomas Pang are not considered independent. Ms Christina Tan is the Chief Executive Officer, Fund Management and Chief Investment Officer of Keppel Ltd., and Mr Thomas Pang is Senior Managing Director in the CEO’s Office of Keppel Ltd.
+
+As at 31 December 2025, none of the Independent Directors have served on the Board for continuous period of nine years or longer.
+
+For purposes of transparency, Mr Low Huan Ping has been appointed as a director of M1 Network Private Limited (“NetCo”), which is a joint venture of Keppel DC REIT, and will receive director’s fees from NetCo. As NetCo is a joint venture of Keppel DC REIT and is not a related corporation of the Manager, such appointment does not affect the assessment of his independence. For avoidance of doubt,
+
+<!-- PAGE 166 -->
+
+Mr Low Huan Ping serves as a Keppel DC REIT nominated director on the board of NetCo and in that capacity, acts in the interests of the Unitholders. His appointment to the board of NetCo is also in accordance with the circular dated 10 November 2021 which discloses that Keppel DC REIT is entitled to have 50% board representation on the board of NetCo and the rationale of such appointment is meant to provide Keppel DC REIT with oversight on the performance of NetCo and early line of sight of any issues that may pose credit risks. It is further noted that Keppel DC REIT has announced the proposed sale of its interests in NetCo on 11 August 2025. Upon completion of such divestment, Mr Low Huan Ping will step down from the NetCo board.
+
+The Chairman and CEO are separate persons, the independent Directors currently comprise a majority of the Board, and the Board committees are chaired by and comprise at least a majority of independent Directors. As there are no executive Directors, all non-executive and independent Directors contribute to the Board process by monitoring and reviewing management's performance against goals and objectives. The views and opinions of the non-executive and independent Directors provide alternative perspective to Keppel DC REIT's business and enable the Board to make informed and balanced decisions. This also enables the Board to interact and work with management to help shape the strategic process. In addition to the foregoing, Mr Low Huan Ping serves as Lead Independent Director to diligently maintain the high standards of corporate governance. If the Chairman is conflicted, the Lead Independent Director will lead the Board. In addition, the Whistle-Blower Policy provides an independent mechanism for employees and other persons to raise any concerns, and matters under the policy are reported directly to the Chairman of the ARC ("ARC Chairman").
+
+The current Board comprises individuals who are business leaders and/or have professional backgrounds. The Board, as a group, possesses core competencies including accounting and/or finance, real estate industry knowledge, risk management, sustainability and renewable energy, digital technology,
+
+mergers and acquisitions, business development and/or entrepreneurship experience, corporate finance, international and regional strategic planning experience, human resource, legal and corporate governance. In addition, there are Directors with the following backgrounds, fields of expertise and skill sets: Audit; Arts (including History); Business Administration; Capital Markets; Consulting; Engineering (including Industrial Engineering); Management; Public Administration; and Science. Together, the Board as a group provides an appropriate balance and diversity of skills with core competencies, age, gender (two female Directors), and experience. Their varied backgrounds enable management to benefit from their diverse expertise and experience to further the interests of Keppel DC REIT and its Unitholders. Taking into account the strong independent character and diversity of the Board, the NRC is of the view that the Board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interests of Keppel DC REIT.
+
+## Annual Review of Directors' Time Commitments
+
+The NRC assesses annually whether a director is able to and has been adequately carrying out his/her duties as a Director. Instead of fixing a maximum number of listed company board representation and/or other principal commitments that a director may have, the NRC assesses holistically whether a director is able to and has been adequately carrying out his/her duties as a Director, taking into account the results of the assessment of the effectiveness of the individual Director, the level of commitment required of the Director's listed company board representations and/or other principal commitments, and the Director's actual conduct and participation on the Board and Board committees, including availability and attendance at regular scheduled meetings and ad-hoc meetings. The NRC is of the view that such an assessment is sufficiently robust to detect and address, on a timely basis, any time commitment issues that may hinder the effectiveness of the Directors.
+
+Taking into account the abovementioned factors, the NRC is of the view that each Director has given sufficient time and attention to the affairs of Keppel DC REIT and the Manager and has been able to discharge his/her duties as Director effectively.
+
+## ENVIRONMENTAL, SOCIAL AND GOVERNANCE COMMITTEE
+
+The Board constituted the ESGC for the primary purpose of, among others, enhancing and articulating Keppel DC REIT's ESG strategy, as well as providing oversight on Keppel DC REIT's sustainability efforts across its business operations. As of the date of this Annual Report, the ESGC comprises three Directors:
+
+<table>
+  <tbody>
+    <tr>
+        <td>Mr Thomas Pang<br/>(Non-executive Director)</td>
+        <td>Chairman</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee²<br/>(Independent Director)</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan<br/>(Independent Director)</td>
+        <td>Member</td>
+    </tr>
+  </tbody>
+</table>
+
+## Key Information Regarding Directors
+
+The following key information regarding Directors are set out in the following pages of this Annual Report:
+
+* Pages 10 to 11: Corporate governance at a glance, setting out key metrics of the Board such as the level of independence, age profile, tenure, skills and expertise and gender diversity;
+
+* Pages 14 to 16: Academic and professional qualifications, Board committee served on (as a member or Chairman), date of first appointment, date of last endorsement or re-endorsement, length of service, listed company directorships and other principal commitments both present and past held over the preceding five years and other major appointments, whether appointment is executive or non-executive, whether considered by the Board to be independent;
+
+* Pages 188 to 189: The information required under Rule 720(6) read with Appendix 7.4.1 of the Listing Manual in respect of Directors whom the Manager is seeking re-endorsement by Unitholders at the annual general meeting; and
+
+* Pages 196 to 197: Unitholdings in Keppel DC REIT as at 11 March 2026.
+
+\*2 As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the ESGC with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the ESGC.
+
+<!-- PAGE 167 -->
+
+# BOARD MATTERS: BOARD PERFORMANCE
+
+## Principle 5:
+
+*The Board undertakes a formal annual assessment of its effectiveness as a whole, and that of each of its board committees and individual directors.*
+
+The Board has implemented formal processes for annual assessment of the effectiveness of the Board as a whole and of each of its Board committees separately, the contribution by the Chairman and each individual Director to the Board, as well as the effectiveness of the Chairman.
+
+**Independent Coordinator:** To ensure that the assessments are done promptly and fairly, the Board has appointed an independent external third party (the "Independent Co-ordinator") to assist in collating and analysing the responses of the Board members. Mr Terry Wee, partner at Ernst & Young LLP, was appointed for this role. Mr Terry Wee does not have any other connection with Keppel DC REIT, the Manager or any of its Directors.
+
+**Formal Process and Performance Criteria:** The evaluation processes and performance criteria are set out in the Appendix hereto and on pages 185 to 186. The performance criteria was similar to that adopted in previous years.
+
+**Evaluation Results:** For FY 2025, the outcomes of the evaluations of the Board and Board Committees, individual Directors and the Chairman were satisfactory and the Directors as a whole provided affirmative ratings across all the performance criteria.
+
+**Objectives and Benefits:** The Board assessment exercise provided an opportunity to obtain constructive feedback from each Director on whether the Board's procedures and processes allow him or her to discharge his or her duties effectively and the changes which should be made to enhance the effectiveness of the Board and/or Board committees. The assessment exercise also helped the Directors to focus on their key responsibilities. The individual director assessment exercise allowed for peer review with a view to raising the quality of Board members. It also assisted the Board in evaluating the skills required by the Board, the size and the effectiveness of the Board as a whole.
+
+# REMUNERATION REPORT
+
+## Principle 6:
+
+*The Board has a formal and transparent procedure for developing policies on director and executive remuneration, and for fixing the remuneration packages of individual directors and key management personnel. No director is involved in deciding his or her own remuneration.*
+
+## Principle 7:
+
+*The level and structure of remuneration of the Board and key management personnel are appropriate and proportionate to the sustained performance and value creation of the company, taking into account the strategic objectives of the company.*
+
+## Principle 8:
+
+*The company is transparent on its remuneration policies, level and mix of remuneration, the procedure for setting remuneration, and the relationships between remuneration, performance and value creation.*
+
+The composition of the NRC has been set out at the section "Board Matters: Board Composition and Guidance" on page 168. The NRC comprises entirely non-executive Directors, a majority of whom are independent Directors and includes the Lead Independent Director.
+
+The NRC is responsible for ensuring a formal and transparent procedure for developing policy on executive remuneration and for determining the remuneration packages of individual Directors and key management personnel. The NRC assists the Board to ensure that remuneration policies and practices are sound in that they are able to attract, retain and motivate without being excessive, and thereby grow Unitholder value. The NRC recommends to the Board for endorsement a framework of remuneration (which covers all aspects of remuneration including Directors' fees, salaries, allowances, bonuses and Unit grants) and the specific remuneration packages for each Director and the key management personnel. The NRC also reviews the remuneration of the key management personnel of the Manager and administers the Manager's Unit-based incentive plans. In addition, the NRC reviews the Manager's obligations arising in the event of termination of key management personnel's contract of service, to ensure that such contracts of service contain fair and reasonable termination clauses which are not overly generous.
+
+The NRC has access to expert advice from external remuneration consultant(s) where required. In FY 2025, the NRC sought views from external remuneration consultant Willis Towers Watson on market practice and trends, as well as benchmarks against comparable organisations. The NRC undertook a review of the independence and objectivity of the external remuneration consultant through discussions with the external remuneration consultant. The NRC has confirmed that the external remuneration consultant had no relationships with the Manager which would affect their independence and objectivity.
+
+# ANNUAL REMUNERATION REPORT
+
+Although the remuneration of the Directors and employees of the Manager is paid by the Manager, and not by Keppel DC REIT, the Manager is disclosing the following information on the remuneration of its Directors, CEO and key management personnel.
+
+## Remuneration Policy in Respect of Directors
+
+The remuneration of Directors is appropriate to the level of contribution, taking into account factors such as effort, time spent, and responsibilities. Each Director is paid a basic fee and an additional fee for services performed on Board committees. The Chairman and the chairman of each Board committee are paid a higher fee compared with members of the Board and of such Board committee in view of the greater responsibility carried by that office. The Directors' fee structure is regularly benchmarked with comparable listed companies to ensure that their remuneration is fair and appropriate. The non-executive Directors participated in additional ad-hoc meetings with management during the year and are not paid for attending such meetings.
+
+In FY 2025, the NRC, in consultation with Willis Towers Watson, conducted a review of the FY 2025 non-executive Directors' fee structure. The review took into account a variety of factors, including prevailing market practices, referencing Directors' fees against comparable benchmarks, as well as the roles and responsibilities of the Board and Board committees. The revised directors' fee structure which will take effect for the financial year ending 31 December 2026 ("FY 2026") is set out in the table on the next page.
+
+<!-- PAGE 168 -->
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Chairman</th>
+        <th>Lead Independent Director</th>
+        <th>Director</th>
+        <th>Member</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Main Board</td>
+        <td>S$120,000 per annum</td>
+        <td>S$76,000 per annum</td>
+        <td>S$63,000 per annum</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Audit and Risk Committee</td>
+        <td>S$55,000 per annum</td>
+        <td>–</td>
+        <td>–</td>
+        <td>S$30,000 per annum</td>
+    </tr>
+    <tr>
+        <td>Nominating and Remuneration Committee</td>
+        <td>S$26,500 per annum</td>
+        <td>–</td>
+        <td>–</td>
+        <td>S$15,000 per annum</td>
+    </tr>
+    <tr>
+        <td>Environmental, Social and Governance Committee</td>
+        <td>S$12,000 per annum</td>
+        <td>–</td>
+        <td>–</td>
+        <td>S$6,000 per annum</td>
+    </tr>
+  </tbody>
+</table>
+
+Recognising that Directors have ongoing oversight responsibilities towards the Manager, the Directors’ fees include a payment of fees in Units to Directors. The equity component in the total remuneration of the Directors is intended to align the interests of the Directors with those of Unitholders and the long-term interests of Keppel DC REIT.
+
+Each of the Directors will receive 70% of his or her total Director’s fees in cash and the balance 30% in the form of Units. The Director’s fees for Ms Christina Tan and Mr Thomas Pang will be paid in cash to Keppel.
+
+For FY 2025, the actual number of Units awarded to the Directors will be determined based on the volume-weighted average price of a Unit over the 10 trading days post-30 April 2026. A Director is also required to hold Units worth at least one year of the basic fee for a Director (which will be S$63,000 from FY 2026) or the total number of Units awarded, whichever is lower, at all times during his or her Board tenure.
+
+## Remuneration Policy in Respect of Key Management Personnel
+
+The Manager advocates a performance-based remuneration system that is highly flexible and responsive to the market, corporate and individual performance.
+
+In designing the remuneration structure, the NRC seeks to ensure that the level and mix of remuneration is competitive, relevant and appropriate in achieving a balance between current versus long-term remuneration and between cash versus equity incentive remuneration, to attract, retain and motivate key management personnel for the longer term.
+
+The current total remuneration structure reflects four key objectives:
+
+a. **Unitholder alignment:** To incorporate performance measures that are aligned to Unitholder’s interests.
+
+b. **Long-term orientation:** To motivate employees to drive sustainable long-term growth.
+
+c. **Simplicity:** To ensure that the remuneration structure is easy to understand and communicate to stakeholders.
+
+d. **Synergy:** To facilitate talent mobility and enhance collaboration across businesses.
+
+The total remuneration structure comprises three components – annual fixed pay, annual performance bonus and long-term incentive. The annual fixed pay component comprises the annual basic salary plus any other fixed allowances which the Manager benchmarks against the relevant industry market data. The size of the Manager’s annual performance bonus pot is mainly determined by Keppel DC REIT’s financial and non-financial performance, and is distributed to employees based on their individual performance. The long-term incentive is in the form of two Unit plans, being the Restricted Unit Plan (“RUP”) and the Performance Unit Plan (“PUP”). A portion of the annual performance bonus is granted in the form of deferred Units that are awarded under the RUP. The PUP comprises performance targets determined on an annual basis and which vest over a longer term horizon. The RUP and PUP are long term incentive plans of the Manager.
+
+Executives who have greater ability to influence strategic outcomes have a greater proportion of their overall remuneration at risk. The Manager performs regular benchmarking reviews on employees’ total remuneration to ensure market competitiveness. Eligible employees of the Manager are granted existing Units in Keppel DC REIT that are already owned by the Manager.
+
+Therefore, no new Units are or will be issued by Keppel DC REIT to satisfy the grant of the Units under the RUP and/or the PUP as the Units that are granted under these plans will be taken from the Units which are already owned by the Manager.
+
+Taking advice from an external independent remuneration consultant, the NRC exercises broad discretion and independent judgement in ensuring that the amount and mix of remuneration are aligned with the interests of Unitholders and promote the long-term success of Keppel DC REIT. The mix of fixed and variable reward is considered appropriate for the Manager and for each individual role.
+
+The remuneration structure is directly linked to corporate and individual performance, both in terms of financial and non-financial performances. This link is achieved in the following ways:
+
+a. By placing a significant portion of executive’s remuneration at risk (“at-risk component”) and in some cases, subject to a vesting schedule;
+
+b. By incorporating appropriate key performance indicators (“KPIs”) for awarding of annual cash incentives:
+
+i. There are four scorecard areas that the Manager has identified as key to measuring its performance:
+
+1. Financial;
+
+2. Process;
+
+3. Customers and Stakeholders; and
+
+4. People.
+
+Some of the key sub-targets within each of the scorecard areas include key financial indicators, safety goals, risk management, compliance and controls measures, corporate social responsibility activities, sustainability efforts, employee engagement, talent development and succession planning;
+
+<!-- PAGE 169 -->
+
+# Corporate Governance
+
+ii. The four scorecard areas have been chosen because they support how the Manager achieves its strategic objectives. The framework provides a link for staff in understanding how they contribute to each area of the scorecard, and therefore to the Manager’s overall strategic goals. The NRC reviews and approves the scorecard annually;
+
+c. By selecting performance conditions for the KDCRM PUP such as Assets Under Management, Distribution Per Unit and Absolute Total Unitholder Returns that are aligned with Unitholders’ interests;
+
+d. By requiring those KPIs or conditions to be met in order for the at-risk components of remuneration to be awarded or to vest; and
+
+e. Forfeiture of the at-risk components of remuneration when those KPIs or conditions are not met at a satisfactory level.
+
+The NRC also recognises the need for a reasonable alignment between risk and remuneration to discourage excessive risk taking. Therefore, in reviewing the remuneration structure, the NRC had taken into account the risk policies and risk tolerance of Keppel DC REIT and the Manager as well as the time horizon of risks, and incorporated risks-adjustments into the remuneration structure through several initiatives, including but not limited to:
+
+a. Prudent funding of annual performance bonus;
+
+b. Granting a portion of the annual performance bonus in the form of deferred Units, to be awarded under the RUP;
+
+c. Vesting of contingent Unit awards under the PUP being subjected to KPIs and/or performance conditions being met;
+
+d. Potential forfeiture of variable incentives in any year due to misconduct;
+
+e. Requiring the CEO and eligible key management personnel to hold a minimum number of Units under the unit ownership guideline; and
+
+f. Exercising discretion to ensure that remuneration decisions are aligned to the Manager’s long-term strategy and performance and discourage excessive risk taking.
+
+The NRC is of the view that the overall level of remuneration is not considered to be at a level which is likely to promote behaviours contrary to the Manager’s risk profile.
+
+In determining the actual quantum of the variable component of remuneration, the NRC took into account the extent to which the performance conditions, as set out above had been met. The NRC is of the view that remuneration is aligned to performance during FY 2025.
+
+In order to align the interests of the CEO and key management personnel with that of the Unitholders, the CEO and key management personnel are remunerated partially in the form of Units owned by the Manager and are encouraged to hold such Units while they remain in the employment of the Manager. Under the unit ownership guideline, the CEO and key management personnel are required to hold at least 1.0 to 2.0 times of their annual fixed pay in the form of Units granted to them under the PUP and RUP, so as to maintain a beneficial ownership stake, thus aligning interests with Unitholders.
+
+In addition, a portion of the cash bonus earned by the CEO is deferred and set aside for long-term co-investment in Keppel’s private funds. The NRC believes that this enhances the long-term alignment of interests with our Sponsor, which will actively contribute to Keppel DC REIT’s performance and growth.
+
+The Directors, the CEO and the key management personnel (who are not Directors or the CEO) are remunerated on an earned basis and there are no termination, retirement and post-employment benefits that are granted over and above what have been disclosed.
+
+Due to the highly competitive talent market as well as confidentiality concerns and sensitivity regarding remuneration matters, the NRC and the Board are of the view that the remuneration of the Manager's key management personnel (who are not Directors or the CEO) should only be disclosed in an aggregate amount as indicated in the table on page 175. While non-disclosure of the remuneration in bands of S$250,000 is a deviation from Provision 8.1 of the CG Code, the Manager is of the view that the provided disclosures are sufficient and consistent with the intent of Principle 8 of the CG Code and will not be prejudicial to the interests of Unitholders as: (i) the NRC, which comprises a majority of independent directors, had conducted reviews of the Manager's remuneration policies and packages; and (ii) there is sufficient information to give Unitholders an understanding of the Manager’s remuneration framework, including the procedure for setting remuneration and the relationship between remuneration, performance and value creation. In FY 2025, the key management personnel (who are not Directors or the CEO) are the Chief Financial Officer and Head of Portfolio Management.
+
+## Long Term Incentive Plans – KDCRM Unit Plans
+
+The RUP and the PUP (the “KDCRM Unit Plans”) are long-term incentive schemes implemented by the Manager since 2015. No employee share option schemes or share schemes have been implemented by Keppel DC REIT.
+
+The KDCRM Unit Plans are put in place to increase the Manager’s flexibility and effectiveness in its continuing efforts to reward, retain and motivate employees to achieve superior performance and to motivate them to continue to strive for long-term Unitholders’ value. The KDCRM Unit Plans also aim to strengthen the Manager’s competitiveness in attracting and retaining talented key management personnel and employees. The RUP applies to a broader base of employees while the PUP applies to a selected group of key management personnel. The range of performance targets to be set under the PUP emphasises stretched or strategic targets aimed at sustaining longer-term growth.
+
+The NRC has the discretion to not award variable incentives in any year if an executive is directly involved in a material restatement of financial statements or in misconduct resulting in restatement of financial statements or financial losses to Keppel DC REIT or the Manager. Outstanding performance bonuses under the RUP and the PUP are also subject to the NRC’s discretion before further payment or vesting can occur.
+
+<!-- PAGE 170 -->
+
+The level and mix of remuneration of each of the Directors, the CEO and the key management personnel for the year ended 31 December 2025 is set out in the following tables:
+
+# LEVEL AND MIX OF REMUNERATION OF DIRECTORS
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of Director</th>
+        <th>Base/ Fixed Salary (S$)</th>
+        <th>Variable or Performance- related Income/Bonuses (S$)</th>
+        <th>Directors' Fees¹ (S$)</th>
+        <th>Benefits-in-Kind (S$)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan²</td>
+        <td>–</td>
+        <td>–</td>
+        <td>112,000</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping³</td>
+        <td>–</td>
+        <td>–</td>
+        <td>59,715</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>–</td>
+        <td>–</td>
+        <td>100,000</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee</td>
+        <td>–</td>
+        <td>–</td>
+        <td>78,000</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan⁴</td>
+        <td>–</td>
+        <td>–</td>
+        <td>83,945</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang²</td>
+        <td>–</td>
+        <td>–</td>
+        <td>72,000</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Kenny Kwan⁵</td>
+        <td>–</td>
+        <td>–</td>
+        <td>29,687</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 Unless otherwise stated, each of the Directors will receive 70% of his/her total Director’s fee in cash and the balance 30% in the form of Units.
+
+\*2 Each of Ms Christina Tan’s and Mr Thomas Pang’s fees will be paid 100% in cash to Keppel Ltd.
+
+\*3 Mr Low Huan Ping’s fees include his pro-rated fees for his appointment as Lead Independent Director and Chairman of NRC with effect from 6 May 2025. His fees are also pro-rated accordingly for ceasing as member of the ESGC.
+
+\*4 Mr Andrew Tan’s fees include his pro-rated fees for his appointment as member of the ESGC on 6 May 2025.
+
+\*5 Mr Kenny Kwan stepped down as Director effective 6 May 2025. His fees are pro-rated accordingly and will be paid in cash.
+
+# LEVEL AND MIX OF REMUNERATION OF THE CEO AND KEY MANAGEMENT PERSONNEL
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th colspan="3">Contingent Award of Units/Shares</th>
+    </tr>
+    <tr>
+        <th>Remuneration of CEO</th>
+        <th>Base/ Fixed Salary</th>
+        <th>Variable or Performance- related Income/ Bonuses1,5</th>
+        <th>Benefits-in-Kind</th>
+        <th>PUP²</th>
+        <th>RUP²</th>
+        <th>PSP-TIP³</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="7">Total Remuneration: S$1,768,250</td>
+    </tr>
+    <tr>
+        <td>Mr Loh Hwee Long</td>
+        <td>30%</td>
+        <td>28%</td>
+        <td>n.m³</td>
+        <td>20%</td>
+        <td>22%</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <th>Aggregate Remuneration of Key Management Personnel (other than the CEO)⁴: S$1,041,202</th>
+        <th>Base/ Fixed Salary</th>
+        <th>Variable or Performance- related Income/ Bonuses⁵</th>
+        <th>Benefits-in-Kind</th>
+        <th>PUP²</th>
+        <th>RUP²</th>
+        <th>PSP-TIP³</th>
+    </tr>
+    <tr>
+        <td>Key Management Personnel</td>
+        <td>52%</td>
+        <td>32%</td>
+        <td>n.m³</td>
+        <td>5%</td>
+        <td>11%</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+\*1 An amount of S$50,000 is deferred and set aside for long term co-investment in Keppel’s private funds.
+
+\*2 Units awarded under the KDCRM PUP are subject to pre-determined performance targets set over a three-year performance period. As at 30 April 2025 (being the grant date), the estimated fair value of each unit granted in respect of the contingent awards under the KDCRM PUP was S$1.63. As at 20 March 2026 (being the grant date for the contingent deferred units under the KDCRM RUP), the volume-weighted average unit price granted in respect of the contingent awards under the KDCRM RUP was S$2.23. For the KDCRM PUP, the figures were based on the value of the PUP units at 100% of the award and the figures may not be indicative of the actual value at vesting which can range from 0% to 150% of the award.
+
+\*3 “n.m” means not material.
+
+\*4 The Manager has less than five key management personnel other than the CEO as at 31 December 2025.
+
+\*5 The NRC is satisfied that the quantum of performance-related bonuses earned by the CEO and key management personnel of the Manager was fair and appropriate taking into account the extent to which their KPIs for FY 2025 were met.
+
+## Remuneration of Employees who are Substantial Shareholders/Unitholders or Immediate Family Members of a Director, Chief Executive Officer or a Substantial Shareholder/Unitholder
+
+No employee of the Manager was a substantial shareholder of the Manager or a substantial Unitholder of Keppel DC REIT or an immediate family member of a Director, the CEO, a substantial shareholder of the Manager or a substantial Unitholder of Keppel DC REIT and whose remuneration exceeded S$100,000 during the financial year ended 31 December 2025. “Immediate family member” refers to the spouse, child, adopted child, step-child, brother, sister and parent.
+
+## AUDIT COMMITTEE
+
+### Principle 10:
+
+The Board has an Audit Committee which discharges its duties objectively.
+
+## AUDIT AND RISK COMMITTEE
+
+The ARC has been appointed by the Board from among the Directors of the Manager and comprises three non-executive Directors, all of whom (including the ARC Chairman) are independent Directors. The composition of the ARC is as follows:
+
+<table>
+  <tbody>
+    <tr>
+        <td>Ms Yeo Siew Eng<br/>(Independent Director)</td>
+        <td>Chairman</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping<br/>(Independent Director)</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan<br/>(Independent Director)</td>
+        <td>Member</td>
+    </tr>
+  </tbody>
+</table>
+
+None of the ARC members were former partners or directors of Keppel DC REIT’s external auditor, PricewaterhouseCoopers LLP (“PwC”), within the last two years or hold any financial interest in PwC.
+
+<!-- PAGE 171 -->
+
+All of the members of the ARC have accounting or related financial management expertise or experience. Thus, the Board is of the view that the members of the ARC are suitably qualified to assist the Board in areas of internal controls, financial and accounting matters, compliance and risk management, including oversight over management in the design, implementation and monitoring of risk management and internal control systems.
+
+The ARC’s role includes assisting the Board to ensure the integrity of financial reporting and that sound internal control and risk management systems are in place.
+
+The ARC has authority to investigate any matter within its terms of reference, full access to and co-operation by management and full discretion to invite any Director or executive officer to attend its meetings, and reasonable resources to enable it to discharge its functions properly. Keppel DC REIT and the Manager’s internal audit function has been outsourced to Keppel Ltd.’s Internal Audit department (“Internal Audit”). Internal Audit, together with the external auditor, report their findings and recommendations independently to the ARC.
+
+A total of four ARC meetings were held in FY 2025. In addition, the ARC met with the internal auditor and the external auditor on separate occasions. At least once a year, such meetings would be without the presence of management.
+
+During FY 2025, the ARC performed independent reviews for Keppel DC REIT before the announcement of Keppel DC REIT’s key business and operational updates in the first and third quarter, and financial statements in the half year and full year results. In the process, the ARC reviewed the key areas of management judgement applied for adequate provisioning and disclosure, critical accounting policies and any significant changes made that would have a significant impact on the financial statements.
+
+The ARC also reviewed and approved both the internal auditor’s and external auditor’s plans to ensure that the scope of audit was sufficient for the purposes of reviewing the significant internal controls and the financial statements audits of Keppel DC REIT and the Manager. Such significant controls comprise financial, operational, compliance, and risk management and information technology
+
+controls. All significant audit findings and recommendations reported by the internal and external auditors were forwarded to the ARC. Significant issues were discussed at these meetings.
+
+In the review of the financial statements of Keppel DC REIT for FY 2025, the ARC noted that, amongst other matters, the key audit matter on the valuation of investment properties was highlighted by the external auditor. The ARC considered the appropriateness of the methodologies and assumptions applied by the independent valuers engaged to perform the valuations of the investment properties, as well as the evaluation by the external auditor. The ARC was satisfied with the methodologies and assumptions used, and the valuation of investment properties adopted in the financial statements.
+
+In determining the independence and objectivity of the external auditor, the ARC reviewed all aspects of Keppel DC REIT’s relationships with it including the processes, policies and safeguards adopted by Keppel DC REIT and the external auditor relating to auditor independence. The ARC had discussions with the external auditor, and also considered the nature of the provision of the non-audit services in FY 2025 and the corresponding fees and ensured that the fees for such non-audit services did not impair or threaten auditor independence. Based on the review, the ARC is of the opinion that the external auditor is, and is perceived to be, independent for the purpose of Keppel DC REIT’s statutory financial audit.
+
+For FY 2025, an aggregate amount of S$671,000, comprising audit service fees of S$614,000 and non-audit service fees of S$57,000, was paid/payable to Keppel DC REIT’s external auditor.
+
+Keppel DC REIT has complied with Rule 712 and Rule 715, read with Rule 716 of the SGX Listing Manual in relation to its appointment of audit firms.
+
+The ARC also reviewed the independence and performance of the internal audit function and was satisfied that the internal audit team was independent, adequately resourced and effective in performing its functions, and had appropriate standing within Keppel DC REIT and the Manager.
+
+The ARC reviewed the Whistle-Blower Policy (the “Policy”) which provides the mechanisms by which employees and other persons may, in confidence, raise concerns about possible improprieties in business conduct or other matters, and was satisfied that arrangements are in place for the independent investigation of such matters and for appropriate follow-up action. To facilitate the management of incidences of alleged fraud or other misconduct, the ARC is guided by a set of guidelines to ensure proper conduct of investigations and appropriate closure actions following completion of the investigations, including administrative, disciplinary, civil and/or criminal actions, and remediation of any control weaknesses that perpetrated the fraud or misconduct so as to prevent a recurrence. In addition, the ARC reviews the Policy annually to ensure that it remains current. The details of the Policy are set out on pages 186 to 187.
+
+The ARC members are kept updated whenever there are changes to the accounting standards or issues that may have an impact on the financial statements of Keppel DC REIT.
+
+# RISK MANAGEMENT AND INTERNAL CONTROLS
+
+## Principle 9:
+
+Board is responsible for the governance of risk and ensures that Management maintains a sound system of risk management and internal controls, to safeguard the interests of the company and its shareholders.
+
+The ARC also assists the Board in examining the adequacy and effectiveness of Keppel DC REIT’s and the Manager’s risk management system to ensure that a robust risk management system is maintained. The ARC reviews and guides management in the formulation of risk policies and processes to effectively identify, assess and manage significant risks, to safeguard Unitholders’ interests and Keppel DC REIT’s assets. The ARC reports to the Board on critical risk issues, material matters, findings and recommendations.
+
+## Risk Assessment and Management of Business Risk
+
+Identifying, assessing, and managing risks is central to the business of Keppel DC REIT and to protecting Unitholders’ interests and value. Keppel DC REIT operates within overall guidelines and specific parameters set by the Board. Responsibility for managing risks lies with the Manager,
+
+<!-- PAGE 172 -->
+
+working within the overall strategy outlined by the Board. The Manager has appointed experienced and well-qualified management to handle it day-to-day operations.
+
+The Board met five times in FY 2025. Management surfaces key risk issues for discussion and confers with the ARC and the Board regularly.
+
+The Manager’s Enterprise Risk Management framework (“ERM Framework”) provides a holistic and systematic approach to risk management. In assessing business risk, the Board takes into consideration the economic environment and the risks relevant to the data centre industry. The Manager has implemented a systematic risk assessment process to identify business risks and mitigating actions. Details of the Manager’s approach to risk management and internal controls and the management of key business risks are set out in the “Risk Management” section on pages 191 to 193 of this Annual Report. The Manager is guided by a set of Risk Tolerance Guiding Principles, as disclosed on page 191.
+
+In addition, the Manager has adopted, among others, the Whistle-Blower Policy, Insider Trading Policy and Dealing in Securities Policy which reflect the Management’s commitment to conduct its business within a framework that fosters the highest ethical and legal standards.
+
+## Independent Review of Internal Controls
+
+Keppel DC REIT’s and the Manager’s internal and external auditors conduct an annual risk-based review of the adequacy and effectiveness of Keppel DC REIT’s and the Manager’s material internal controls, including financial, operational, compliance and information technology controls, and risk management systems. Any material non-compliance or failures in internal controls and recommendations for improvements are reported to the ARC. The ARC also reviews the effectiveness of the actions taken by management on the recommendations made by the internal and external auditors in this respect.
+
+Keppel DC REIT and the Manager also have in place a System of Management Controls (“KSMC”) to facilitate the Board’s assessment on the adequacy and effectiveness of the Manager’s and Keppel DC REIT’s internal controls and risk management system. The KSMC comprises the Three Lines Model and lays out the governing policies, processes and systems pertaining to each of the identified business risk areas, and assessments are made on the adequacy and effectiveness of such policies, processes and systems. The Board reviews and opines on any gaps or areas of improvement.
+
+Under the First Line of Business Governance, management is responsible for the identification and mitigation of risks (including financial, operational, compliance and technology risks) facing Keppel DC REIT and the Manager in the course of running their business. Appropriate policies, procedures and controls are implemented and operationalised in line with Keppel DC REIT’s and the Manager’s risk appetite to address such risks. Employees are guided by the Manager’s Core Values and expected to comply strictly with Keppel’s Code of Conduct.
+
+Under the Second Line, Management Assurance Frameworks are established to enable oversight and governance over operations and activities undertaken by management under the First Line.
+
+* Business units and entities scoped in for control self-assessment (“CSA”) are required to conduct a self-assessment exercise to assess the status of their respective internal controls on an annual basis. The CSA Framework, overseen by the Control Assurance function, aims to assess whether the existing internal controls provide reasonable assurance that key controls are adequately designed and effectively implemented to address the key risks identified by the management. Remedial actions are implemented to address control gaps identified during the annual CSA exercise.
+
+* Under the ERM Framework, significant risk areas are identified and assessed, with systems, policies and processes put in place to manage and mitigate the identified risks, to ensure that risks fall within the established risk appetite and tolerance.
+
+* Regulatory Compliance works alongside management to ensure relevant policies, processes, and controls are effectively designed, implemented, and managed to mitigate compliance risks that Keppel DC REIT’s and the Manager’s face in the course of their business.
+
+The Technology Governance Framework (“Framework”), overseen by Keppel Information Technology, aims to align technology strategy to enterprise vision, whilst strengthening technology controls and security, and managing technology risks for the Manager. The Framework consists of a uniform framework structure and methodology to enable the Manager to monitor and manage technology risks better and more effectively, as well as to ensure that activities associated with technology are aligned with the overall business objectives through the establishment of the three pillars in Technology Governance (i.e. Policy, Technology Risk Management and Compliance). The Framework also covers the use of all technology systems used by the Manager, including third party service providers. Additionally, the Data Governance Framework, overseen by Keppel Data and Digital, aims to establish a common minimum level of data governance maturity and seeks to create a consistent and proper management of data assets.
+
+The Cyber Security function drives Keppel’s enterprise cyber vision, strategy and programme to ensure technology assets are adequately protected against cyber threats. Cyber policies are aligned with industry standards and applicable local regulatory requirements to ensure effective management of cybersecurity risks, and assurance and compliance programmes are executed to ensure that developed processes and controls are effective and operating as intended.
+
+The Third Line comprises independent assurance, including internal and external audit. Internal audit provides the Board and Keppel DC REIT’s and the Manager’s senior management with independent assurance over the adequacy and effectiveness of the system of internal controls, risk management and governance, while external audit considers the internal controls relevant to Keppel DC REIT’s and the Manager’s preparation of financial statements and performs tests on such internal controls where they are assessed to be necessary, in support of the audit opinion issued on the financial statements of Keppel DC REIT.
+
+The CEO and Chief Financial Officer (“CFO”) are required to provide the Board with written attestation as to the adequacy and effectiveness of Keppel DC REIT’s and the Manager’s system of internal controls and risk management.
+
+<!-- PAGE 173 -->
+
+# KEPPEL DC REIT’S SYSTEM OF MANAGEMENT CONTROLS
+
+```mermaid
+graph TD
+    subgraph System_of_Management_Controls
+        BD[Board of Directors]
+        M[Management]
+        IA[Internal Audit]
+        EAP[External Assurance Providers]
+
+        BD <--> M
+        BD <--> IA
+        M <--> IA
+    end
+
+    subgraph First_Line
+        M --- FL[First Line: Business Governance]
+        FL --- FL_List["• Core Values• Code of Conduct• Financial Controls• Operational Controls• Compliance Controls• Technology Controls"]
+    end
+
+    subgraph Second_Line
+        M --- SL[Second Line: Management Assurance Framework]
+        SL --- SL_List["• Control Self-Assessment• Enterprise Risk Management• Regulatory Compliance• Technology & Cybersecurity Governance"]
+    end
+
+    subgraph Third_Line
+        IA --- TL[Third Line: Independent Assurance]
+        TL --- TL_List["• Independent & Objective Assurance"]
+    end
+```
+
+↑ Accountability, reporting ↓ Delegation, direction, resources, oversight ↔ Alignment, communication, coordination, collaboration
+
+The Board, supported by the ARC, oversees Keppel DC REIT’s and the Manager’s system of internal controls and risk management. The Board has received assurance from the CEO, Mr Loh Hwee Long and the CFO, Mr Adam Lee (being the other key management personnel responsible regarding the adequacy and effectiveness of Keppel DC REIT’s and the Manager’s risk management and internal control systems), that, among others, as at 31 December 2025:
+
+a. the financial records of Keppel DC REIT have been properly maintained and the financial statements for the financial year then ended give a true and fair view of the operations and finances of Keppel DC REIT;
+
+b. the internal controls (including financial, operational, compliance and information technology controls) and risk management systems in place were adequate and effective to address the risks which Keppel DC REIT and the Manager consider relevant and material to its current business scope, operations and environment and that they were not aware of any material weaknesses in the system of internal controls; and
+
+c. they were satisfied with the adequacy and effectiveness of Keppel DC REIT’s and the Manager’s risk management and internal controls systems.
+
+Based on the internal controls and ERM Framework established and maintained by Keppel DC REIT and the Manager, work performed by the internal and external auditors, and reviews performed by management, the ARC, as well as the assurances set out above, the Board is of the view that, as at 31 December 2025, Keppel DC REIT’s and the Manager’s internal controls (including financial, operational, compliance and information technology controls) and risk management systems, were adequate and effective to address the risks which Keppel DC REIT and the Manager consider relevant and material to its current business scope, operations and environment.
+
+The Board notes that the system of internal controls and risk management established by Keppel DC REIT and the Manager provides reasonable, but not absolute, assurance that Keppel DC REIT and the Manager will not be adversely affected by any event that could be reasonably foreseen as it strives to achieve its business objectives. In this regard, the Board also notes that no system of internal controls and risk management can provide absolute assurance against the occurrence of material errors, poor judgement in decision-making, human errors, losses, fraud or other irregularities.
+
+The ARC concurs with the Board’s view that, as at 31 December 2025, Keppel DC REIT’s and the Manager’s internal controls (including financial, operational, compliance and information technology controls) and risk management systems, were adequate and effective to address the risks which Keppel DC REIT and the Manager consider relevant and material to Keppel DC REIT and its current business scope, operations and environment taking into account the nature, scale and complexity of Keppel DC REIT’s and the Manager’s operations.
+
+## INTERNAL AUDIT
+
+The role of the internal auditor is to assist the ARC to ensure that Keppel DC REIT and the Manager maintain a sound system of internal controls by performing risk-based reviews of key controls and procedures and their effectiveness, undertaking investigations as directed by the ARC, and conducting regular in-depth audits of high-risk areas. The ARC approves the evaluation of the internal auditor, or the accounting or auditing firm or corporation to which the internal audit function is outsourced. Keppel DC REIT and the Manager’s internal audit function is performed by Keppel Ltd’s Internal Audit department (“Internal Audit”).
+
+Internal Audit is guided by the International Professional Practices Framework established by the Institute of Internal Auditors (“IIA”). External quality assessment reviews are carried out at least once every five years by qualified professionals with the last assessment conducted in 2021. The results reaffirmed that the internal audit activity generally conforms to the International Standards for the Professional Practices of Internal Auditing. The professional competence of Internal Audit is maintained through its continuing professional development programme for its staff which includes sending auditors to attend professional courses conducted by external accredited organisations to ensure that their technical knowledge and skill sets remain current and relevant.
+
+<!-- PAGE 174 -->
+
+Internal Audit is independent of management and its primary line of reporting is to the ARC Chairman. Internal Audit has unfettered access to all of Keppel DC REIT and the Manager’s documents, records, properties and personnel, including access to the ARC. The ARC decides on the appointment, termination, evaluation and remuneration of Internal Audit, as an outsourced function.
+
+Internal Audit adopts a risk-based approach that focuses on key risks, including financial, operational, compliance and information technology risks. An annual audit plan is developed using a structured risk and control assessment framework. This plan is reviewed and approved by the ARC, who are also apprised on material changes to the plan regularly prior to the commencement of the internal audit work.
+
+Internal Audit’s reports are submitted to the ARC for deliberation with copies of these reports extended to the relevant senior management personnel. In addition, significant audit findings and recommendations are discussed at the ARC meetings. To ensure timely and proper closure of audit findings, the status of the implementation of the actions agreed by management is tracked and discussed with the ARC. The ARC also reviews the effectiveness of the actions taken by management on the recommendations made by Internal Audit.
+
+The ARC reviewed the adequacy and effectiveness of Internal Audit and is satisfied that the team is independent, effective and adequately resourced with persons with relevant qualifications and experience and has appropriate standing within Keppel DC REIT and the Manager.
+
+**UNITHOLDER RIGHTS,**
+**CONDUCT OF UNITHOLDER MEETINGS**
+**AND ENGAGEMENT WITH**
+**UNITHOLDERS AND STAKEHOLDERS**
+
+### Principle 11:
+
+*The company treats all shareholders fairly and equitably in order to enable them to exercise shareholders’ rights and have the opportunity to communicate their views on matters affecting the company. The company gives shareholders a balanced and understandable assessment of its performance, position and prospects.*
+
+### Principle 12:
+
+*The company communicates regularly with its shareholders and facilitates the participation of shareholders during general meetings and other dialogues to allow shareholders to communicate their views on various matters affecting the company.*
+
+### Principle 13:
+
+*The Board adopts an inclusive approach by considering and balancing the needs and interests of material stakeholders, as part of its overall responsibility to ensure that the best interests of the company are served.*
+
+The Board is responsible for providing a balanced and understandable assessment of Keppel DC REIT’s performance, position and prospects, including interim and other price-sensitive public reports, and reports to regulators, if required. The Board adopts an inclusive approach by considering and balancing the needs and interests of material stakeholders, as part of its overall responsibility to ensure that the best interests of Keppel DC REIT are served.
+
+The Board has embraced openness and transparency in the conduct of the Manager’s affairs, whilst preserving the commercial interests of Keppel DC REIT. Financial reports and other price sensitive information are disseminated to Unitholders through announcements via SGXNet, media releases, as well as Keppel DC REIT’s corporate website.
+
+In addition, the Manager regularly communicates with Unitholders and responds promptly to their queries and concerns. The Manager employs various platforms to enhance its outreach to Unitholders, with an emphasis on timely, accurate, fair and transparent disclosure of information. The Manager has arrangements in place to identify and engage with its key stakeholder groups, including business partners, clients, employees, governments and regulatory bodies, investors and local communities, to gather feedback on the sustainability matters which have significant impact to the business and operations of Keppel DC REIT and to manage its relationships with such groups in order to review and assess the material factors relevant to Keppel DC REIT’s business activities. Please refer to Sustainability Report on pages 54 to 97 of this Annual Report, which sets out information on Keppel DC REIT’s arrangements to
+
+identify and engage with its material stakeholder groups and to manage its relationships with such groups, and Keppel DC REIT’s strategy and key areas of focus to the management of stakeholder relationships during FY 2025. In FY 2025, the Manager had more than 1,100 engagements with institutional investors and analysts in Singapore, Australia, Europe, Hong Kong, Japan, Malaysia, North America, South Korea, Taiwan, Thailand and the Middle East through a combination of in-person and virtual investor conferences, roadshows, meetings, teleconferences and site visits.
+
+More details on the Manager’s investor relations activities are found on pages 18 to 20 of this Annual Report.
+
+The Manager actively engages with Unitholders with a view to solicit and understand their views. The Manager has in place an Investor Relations Policy which sets out the principles and practices applied to provide Unitholders and prospective investors with information necessary to make well-informed investment decisions and to ensure a level playing field. The Investor Relations Policy is published on Keppel DC REIT’s website at https://www.keppeldcreit.com/, which also serves as a platform to communicate and engage with stakeholders.
+
+Material information is disclosed in a comprehensive, accurate and timely manner via SGXNet and/or media releases. The Manager ensures that unpublished price-sensitive and trade-sensitive information is not selectively disclosed and if on the rare occasion when such information is inadvertently disclosed, this would be immediately released to the public via SGXNet and/or media releases.
+
+Unitholders are also kept abreast of latest announcements and updates regarding Keppel DC REIT via the corporate website and email alerts system. Unitholders and members of the public can pose their queries and feedback to a dedicated investor relations contact via email or the phone, through which they are able to ask questions and receive responses in a timely manner.
+
+The Manager ensures that Unitholders have the opportunity to participate effectively and vote at Unitholders’ meetings. Unitholders are informed of Unitholders’ meetings, its agenda and rules governing such meetings through notices published via SGXNet, Keppel DC REIT’s website and in newspapers, as well as
+
+<!-- PAGE 175 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Director</th>
+        <th>Unitholders' Meetings Attended</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Kenny Kwan</td>
+        <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+effectiveness of its prudent and agile capital management strategy against evolving market conditions.
+
+reports or circulars sent to all Unitholders. Unitholders are invited to such meetings to put forth any questions they may have on the motions to be debated and decided upon. If any Unitholder is unable to attend, he or she is allowed to appoint up to two proxies to vote on his or her behalf at the meeting through proxy forms sent in advance. Where a Unitholder is a relevant intermediary (including but not limited to, a nominee company, a custodian bank or a CPF agent bank), such Unitholder may appoint more than one proxy to vote on its behalf at the meeting through proxy forms sent in advance, provided that each proxy must be appointed to exercise the rights attached to a different Unit or Units held by it (which number of Units and class shall be specified). The Manager tables separate resolutions at Unitholders’ meetings on each substantially separate issue unless the issues are interdependent and linked so as to form one significant proposal. Where the resolutions are “bundled”, the Manager explains the reasons and material implications in the notice of meeting.
+
+Where possible, all the Directors will attend Unitholders’ meetings. In particular, the Chairmen of the Board and the Board committees are required to be present to address questions at Unitholders’ meetings. The external auditor is also present at such meetings to assist the Directors to address Unitholders’ queries, if necessary. The number of Unitholders’ meetings held in FY 2025, as well as the attendance of each Board member, are disclosed on page 180.
+
+**SECURITIES TRANSACTIONS**
+
+The Securities and Futures Act requires Directors and the CEO to report their dealings in Units. In addition, any changes to the Manager's holdings in Units are also reported. All dealings in Units by the Directors, CEO and the Manager are announced on SGXNet.
+
+Keppel DC REIT’s AGM was convened in a wholly physical format on 15 April 2025, to provide Unitholders with the ability to participate, vote and pose questions to senior management in a clear and effective manner. At the meeting, Keppel DC REIT’s performance for FY 2024 was presented, and both the Board and senior management addressed questions and comments from Unitholders. Prior to the meeting, the Manager also responded to substantial and relevant questions that had been submitted by Unitholders in advance.
+
+The Trust Deed allows for absentia voting at general meetings by way of proxy. While the Manager has implemented absentia voting by way of proxy through the proxy forms disseminated to Unitholders, the Manager has not implemented other absentia voting methods such as voting via mail, e-mail or fax until security, integrity and other pertinent issues are satisfactorily resolved.
+
+**Insider Trading Policy**
+
+The Manager has an Insider Trading Policy on dealings in the securities of Keppel DC REIT, which sets out the implications of insider trading and guidance on such dealings. The policy has been distributed to the Manager’s directors, officers, and employees. It has also adopted the best practices on securities dealings issued by the SGX. In FY 2025, the Manager issued notices informing that the Manager and its officers must not deal in listed securities of Keppel DC REIT if they are in possession of unpublished price-sensitive information, and during the period commencing one month before the release of the half year and full year results and ending on the date of the announcement of the relevant results, this being consistent with Rule 1207(19) of the Listing Manual. The Manager’s directors, officers, and employees are also informed that they should not deal in Keppel DC REIT’s securities on short-term considerations.
+
+All resolutions at the AGM were voted by poll with an independent scrutineer appointed to validate the votes. Results of the AGM were announced during the meeting as well as published on SGXNet and Keppel DC REIT’s website. Minutes of the meeting, presentation slides as well as responses to relevant and substantial questions from Unitholders were published on SGXNet and Keppel DC REIT’s website.
+
+The Company Secretaries prepare detailed minutes of Unitholders’ meetings, which incorporates vote results, comments or queries from Unitholders and responses from the Board and management. These minutes are published on SGXNet and Keppel DC REIT’s website. Keppel DC REIT’s policy is to distribute, on a half-yearly basis, at least 90% of its distributable income for each financial year. The Manager endeavours to pay distributions no later than 90 days after the end of each distribution period.
+
+**Dealing in Securities Policy**
+
+In addition to the Insider Trading Policy, the Manager has a Dealing in Securities Policy, which applies to all employees and the securities accounts that employees have a beneficial interest. Pursuant to this policy, the trading of rights and the subscription of excess rights of Units are subject to trade clearance/restrictions. In general, a list of securities which employees are not allowed to trade without pre-clearance is maintained. All employees must check if the intended securities are listed on this restricted list before trading. The restricted list is broadcasted to all employees at the beginning of each week and as and when it is updated. In addition, the policy also states that all employees should not trade on short-term considerations.
+
+**Protection of Creditors’ Rights**
+
+To protect creditors’ rights, the Manager monitors compliance with various loan covenants as well as applicable laws and regulations, including aggregate leverage limits set out in the Property Funds Appendix. The Manager strives to diversify sources of funding, achieve a well-spread debt maturity profile to reduce concentration risks, as well as implements appropriate hedging strategies with a view to achieve good risk-adjusted returns. In addition, the Manager endeavours to secure favourable credit facilities and terms to fund operational needs as well as monitor risk exposure to ensure
+
+**CONFLICTS OF INTERESTS**
+
+The Manager has instituted the following procedures to deal with potential conflicts of interests issues:
+
+<!-- PAGE 176 -->
+
+a. The Manager will not manage any other real estate investment trust which invests in the same type of properties as Keppel DC REIT.
+
+b. All resolutions in writing of the Directors in relation to matters concerning Keppel DC REIT must be approved by at least a majority of the Directors, including at least one Independent Director.
+
+c. At least one-third of the Board shall comprise independent Directors.
+
+d. In respect of matters in which Keppel and/or its subsidiaries have an interest, direct or indirect, any nominees appointed by Keppel and/or its subsidiaries to the Board to represent their interests will abstain from deliberation and voting on such matters. For such matters, the quorum must comprise a majority of the independent Directors and must exclude nominee Directors of Keppel and/or its subsidiaries.
+
+It is also provided in the Trust Deed that if the Manager is required to decide whether or not to take any action against any person in relation to any breach of any agreement entered into by the Trustee for and on behalf of Keppel DC REIT with a Related Party (meaning any "interested person" as defined in the Listing Manual and/or, as the case may be, an "interested party" as defined in the Property Funds Appendix) of the Manager, the Manager shall be obliged to consult with a reputable law firm (acceptable to the Trustee) which shall provide legal advice on the matter. If the said law firm is of the opinion that the Trustee, on behalf of Keppel DC REIT, has a prima facie case against the party allegedly in breach under such agreement, the Manager shall be obliged to take appropriate action in relation to such agreement. The Directors (including the independent Directors) will have a duty to ensure that the Manager so complies. Notwithstanding the foregoing, the Manager shall inform the Trustee as soon as it becomes aware of any breach of any agreement entered into by the Trustee for and on behalf of Keppel DC REIT with a Related Party of the Manager and the Trustee may take such action as it deems necessary to protect the rights of Unitholders and/or which is in the interests of Unitholders. Any decision by the Manager not to take action against a Related Party of the Manager shall not constitute a waiver of the
+
+Trustee’s right to take such action as it deems fit against such Related Party.
+
+# KEPPEL’S CODE OF CONDUCT
+
+The Manager has in place a code of conduct (“Code”) which establishes a culture of high integrity as well as reinforces ethical business practices.
+
+The Code sets out important principles to guide employees in executing their duties and responsibilities to the highest standards of business integrity, as well as issues of workplace harassment. The Code encompasses topics ranging from conduct in the workplace to business conduct, including clear provisions on prohibitions against bribery and corruption, the offering and receiving of gifts, hospitality and promotional expenditures as well as conflicts of interests amongst others. The Code also requires all staff to avoid any conflict between their own interests and the interests of the Manager in dealing with its suppliers, customers and other third parties.
+
+The Code requires business to be conducted with integrity, fairly, impartially, in an ethical and proper manner, and in compliance with all applicable laws and regulations. Relevant anti-corruption rules are also spelt out to protect the business, resources and reputation of Keppel DC REIT and the Manager. Employees must not offer or authorise the giving, directly or through third parties, of any bribe, kickback, illicit payment, benefit-in-kind or any other advantage to any person or entity, as an inducement or reward for an improper performance or non-performance of a function or activity. Similarly, employees must not solicit or accept illicit payment, directly or indirectly, from any person or entity that is intended to induce or reward an improper performance or non-performance of a function or activity. The Code is published on the intranet which is accessible by all employees of the Manager. New employees are briefed on the Code when they join the Manager. Subsequently, all employees are required to acknowledge and comply with the Code annually to ensure awareness.
+
+# RELATED PARTY TRANSACTIONS
+## The Manager’s Internal Control System
+
+The Manager has established an internal control system to ensure that all Related Party transactions:
+
+* will be undertaken on normal commercial terms; and
+
+* will not be prejudicial to the interests of Keppel DC REIT and the Unitholders.
+
+As a general rule, the Manager must demonstrate to the ARC that such transactions satisfy the foregoing criteria. This may entail:
+
+* obtaining (where practicable) quotations from parties unrelated to the Manager; or
+
+* obtaining two or more valuations from independent professional valuers (in compliance with the Property Funds Appendix), with one of the valuers commissioned independently by the Trustee. Each of those assets must be acquired from the Related Party at a price not more than the higher of the two assessed values, or sold to the Related Party at a price not less than the lower of the two assessed values. The ARC may further choose to appoint an independent financial adviser to evaluate and provide an opinion that the transaction is on normal commercial terms and is not prejudicial to the interests of Keppel DC REIT and the Unitholders.
+
+The Manager maintains a register to record all Related Party transactions which are entered into by Keppel DC REIT and the bases used for evaluation, including any quotations from unrelated parties and independent valuations, on which they are entered into. The Manager also incorporates into its internal audit plan a review of all Related Party transactions entered into by Keppel DC REIT. The ARC reviews the internal audit reports at least twice a year to ascertain that the guidelines and procedures established to monitor Related Party transactions have been complied with.
+
+The following procedures are undertaken:
+
+* transactions (either individually or as part of a series or if aggregated with other transactions involving the same Related Party during the same financial year) equal to or exceeding S$100,000 in value but below 3% of the value of Keppel DC REIT’s latest audited net tangible assets will be subject to review by the ARC at regular intervals;
+
+<!-- PAGE 177 -->
+
+# Corporate Governance
+
+* transactions (either individually or as part of a series or if aggregated with other transactions involving the same Related Party during the same financial year) equal to or exceeding 3% but below 5% of the value of Keppel DC REIT's latest audited net tangible assets will be subject to the review and prior approval of the ARC. Such approval shall only be given if the transactions are on normal commercial terms and not prejudicial to the interests of Keppel DC REIT and its Unitholders, and are consistent with similar types of transactions which could have been entered into by third parties which are unrelated to the Manager with the Trustee (in its capacity as trustee for Keppel DC REIT); and
+
+* transactions (either individually or as part of a series or if aggregated with other transactions involving the same Related Party during the same financial year) equal to or exceeding 5% of the value of Keppel DC REIT's latest audited net tangible assets will be reviewed and approved prior to such transactions being entered into, on the basis described in the preceding paragraph, by the ARC which may, as it deems fit, request advice on the transaction from independent sources or advisers, including the obtaining of valuations from independent professional valuers. Furthermore, under the Listing Manual and the Property Funds Appendix, such transactions would have to be approved by the Unitholders at a meeting of Unitholders duly convened and held in accordance with the provisions of the Trust Deed.
+
+Where matters concerning Keppel DC REIT relate to transactions entered into or to be entered into by the Trustee for and on behalf of Keppel DC REIT with a Related Party of Keppel DC REIT or the Manager, the Trustee is required to consider the terms of such transactions to satisfy itself that such transactions are conducted:
+
+* on normal commercial terms;
+
+* are not prejudicial to the interests of Keppel DC REIT and the Unitholders; and
+
+* are in accordance with all applicable requirements of the Property Funds Appendix and/or the Listing Manual relating to the transaction in question.
+
+The Trustee has the discretion under the Trust Deed to decide whether or not to enter into a transaction involving a Related Party of Keppel DC REIT or the Manager. If the Trustee is to sign any contract with a Related Party of Keppel DC REIT or the Manager, the Trustee will review the contract to ensure that it complies with the requirements relating to interested party transactions in the Property Funds Appendix (as may be amended from time to time) and the provisions of the Listing Manual relating to interested person transactions (as may be amended from time to time) as well as such other guidelines as may from time to time be prescribed by the MAS and the SGX to apply to REITs.
+
+Keppel DC REIT will, in compliance with Rule 905 of the Listing Manual, announce any interested person transaction in accordance with the Listing Manual if such transaction, by itself or when aggregated with other interested person transactions entered into with the same interested person during the same financial year, is 3.0% or more of Keppel DC REIT's latest audited net tangible assets.
+
+The aggregate value of all Related Party transactions which are subject to Rules 905 and 906 of the Listing Manual in a particular financial year will be disclosed in Keppel DC REIT's annual report for that financial year.
+
+## Role of the Audit and Risk Committee for Related Party Transactions
+
+The Manager's internal control procedures are intended to ensure that Related Party transactions are conducted at arm's length and on normal commercial terms and are not prejudicial to Unitholders.
+
+On a half-yearly basis, management reports to the ARC the Related Party transactions entered into by Keppel DC REIT. The Related Party transactions were also reviewed by the internal auditor and all findings, if any, are reported during the ARC meetings.
+
+The ARC reviews Related Party transactions to ensure compliance with the internal control procedures and with the relevant provisions of the Listing Manual and the Property Funds Appendix. The review includes the examination of the nature of the transaction and if necessary, its supporting documents or such other data deemed necessary by the ARC. In addition, the Trustee will review such internal audit reports to ascertain that the requirements of the Property Funds Appendix have been complied with.
+
+If a member of the ARC has an interest in a transaction, he or she is to abstain from participating in the review and approval process in relation to that transaction.
+
+## APPENDIX – BOARD COMMITTEE RESPONSIBILITIES
+
+**1. Audit and Risk Committee**
+
+a. Review financial statements and formal announcements relating to financial performance, and review significant financial reporting issues and judgements contained in them, for better assurance of the integrity of such statements and announcements.
+
+b. Review and report to the Board at least annually the adequacy and effectiveness of the Manager's and Keppel DC REIT's risk management and internal controls, including financial, operational, compliance and information technology controls in relation to financial reporting and other financial-related risks (such review can be carried out internally or with the assistance of any competent third parties).
+
+i. Review the Board's comment on the adequacy and effectiveness of the Manager's risk management system and internal controls and state whether it concurs with the Board's comment;
+
+ii. Where there are material weaknesses identified in the Manager's risk management system and internal controls, to consider and recommend the necessary steps to be taken to address them.
+
+c. Review the scope, audit plans and reports of the external auditor and internal auditor, and consider the
+
+<!-- PAGE 178 -->
+
+effectiveness of actions or policies taken by management on the recommendations and observations. at least annually and report the ARC’s assessment to the Board.
+
+d. Review the independence and objectivity of the external auditor and internal auditor annually.
+
+e. Review the nature and extent of non-audit services performed by external auditor annually.
+
+f. Meet with external auditor (without the presence of management and internal auditor) and internal auditor (without the presence of management and external auditor), at least annually.
+
+g. Assess the Manager’s and Keppel DC REIT’s exposure or nexus to sanctions-related risks on an ongoing basis and monitor the Manager and Keppel DC REIT’s risk of becoming subject to, or violating, any sanctions-related laws and regulations.
+
+h. Ensure adequate and effective control measures have been implemented to protect the Manager and Keppel DC REIT’s interests in relation to any sanctions-related risks.
+
+i. Where the Manager and Keppel DC REIT has exposure or nexus to sanctions-related risks, to review and assess on an annual basis, whether there has been a material change in the Manager and Keppel DC REIT’s risk of being subject to any sanctions laws.
+
+j. Assess the need to obtain independent legal advice or appoint a compliance adviser in relation to sanctions-related risks applicable to the Manager and Keppel DC REIT.
+
+k. Ensure timely and accurate disclosures to Unitholders, SGX and other relevant authorities.
+
+l. Make recommendations to the Board on the proposals to Unitholders on the appointment, re-appointment and removal of the external auditor, and approve the remuneration and terms of engagement of the external auditor.
+
+m. Review the adequacy, effectiveness and independence, of the Manager’s and Keppel DC REIT’s external audit function and internal audit function,
+
+n. Ensure at least annually that the internal audit function is adequately resourced and has appropriate standing with the Manager and Keppel DC REIT.
+
+o. Approve the accounting/auditing firm or corporation to which the internal audit function is outsourced.
+
+p. Review the whistle-blower policy and the Manager’s and Keppel DC REIT’s procedures for detecting and preventing fraud, and other arrangements by which employees of the Manager and any other persons may, in confidence, raise concerns about possible improprieties in matters of financial reporting or other matters, to ensure that arrangements are in place for such concerns to be raised and independently investigated, and for appropriate follow up action to be taken.
+
+q. Report significant matters raised through the whistle-blowing channel to the Board.
+
+r. Monitor the procedures in place to ensure compliance with applicable legislation, the Listing Manual and the Code on Collective Investment Schemes (including the Property Funds Appendix).
+
+s. Review Related Party transactions, including ensuring compliance with the provisions of the Listing Manual relating to “interested person transaction” (as defined therein) and the provisions of the Property Funds Appendix relating to “interested party transactions” (as defined therein).
+
+t. Investigate any matters within the ARC’s purview, whenever it deems necessary.
+
+u. Obtain recommendations on risk tolerance and strategy from management, and where appropriate, report and recommend to the Board for its determination:
+
+i. The nature and extent of significant risks which the Manager and Keppel DC REIT may take in achieving its strategic objectives; and
+
+ii. Overall risk appetite, risk tolerance, risk parameters and risk policies.
+
+v. Review and discuss, as and when appropriate, with management the Manager’s and Keppel DC REIT’s risk governance structure and framework, including risk appetite, risk policies, risk strategy, risk culture, risk assessment, risk mitigation and monitoring processes and procedures.
+
+w. Review and approve Information Technology (“IT”) risk management strategy of the Manager and Keppel DC REIT.
+
+x. Review the enterprise risk management framework set up by management to provide reasonable assurance of the effectiveness of the security, reliability and resilience of the IT, operational technology (“OT”) and cybersecurity operating environment of the Manager and Keppel DC REIT. The enterprise risk management framework includes: (a) determination of IT, OT, and cybersecurity risks; (b) implementation of relevant internal controls to address such risks including assessing competencies of outsourced service providers; and (c) monitoring of the effectiveness of such controls.
+
+y. Review at least quarterly reports from management on the Manager’s and Keppel DC REIT’s risk profile and major risk exposures and the steps taken to monitor, control and mitigate such risks to ensure that such risks are managed within acceptable levels.
+
+z. Review the Manager’s risk management capabilities including capacity, resourcing, systems, training, communication channels as well as competencies in identifying and managing new risk types.
+
+aa. Receive and review updates from management to assess the adequacy and effectiveness of the Manager’s and Keppel DC REIT’s compliance framework in line with relevant laws, regulations and best practices.
+
+bb. Through interactions with the Risk and Compliance Director supporting the Manager, review and oversee performance of the
+
+<!-- PAGE 179 -->
+
+# Corporate Governance
+
+Manager’s implementation of compliance programmes.
+
+cc. Review and monitor the Manager’s approach to ensuring (i) regulatory compliance and (ii) alignment to Keppel DC REIT’s investment strategies, including progress of remedial actions where applicable.
+
+dd. Review the adequacy, effectiveness and independence of the Risk and Compliance function, at least annually, and report the ARC’s assessment to the Board.
+
+ee. Review and monitor management’s responsiveness to the risks, matters, and identified recommendations of the Risk and Compliance function.
+
+ff. Providing timely input to the Board on critical risk and compliance issues, material matters and recommendations.
+
+gg. Review management’s proposals in respect of new risk focused products, focusing, in particular, on the risk and compliance aspects and implications of the proposed action for the risk tolerance of the Manager and Keppel DC REIT, and make recommendations to the Board.
+
+hh. Review the assurance from the CEO and CFO on the financial records and financial statements and the steps taken by the CEO and other key management personnel for their relevant areas of responsibilities, regarding the adequacy and effectiveness of the Manager’s and Keppel DC REIT’s risk management and internal controls systems.
+
+ii. Ensure that the Risk and Compliance Director supporting the Manager has direct and unrestricted access to the ARC Chairman.
+
+jj. Review the ARC’s terms of reference annually and recommend any proposed changes to the Board.
+
+kk. Perform such other functions as the Board may determine.
+
+ll. Sub-delegate any of its powers within its terms of reference as listed above from time to time as this ARC may deem fit.
+
+## 2. Nominating and Remuneration Committee
+
+a. Recommend to the Board the appointment and re-appointment of Directors (including alternate directors, if any).
+
+b. Annual review of the structure and size of the Board and Board committees, and the balance and mix of skills, talents, knowledge, experience, and other aspects of diversity such as gender and age.
+
+c. Recommend to the Board a Board Diversity Policy (including the qualitative, and measurable quantitative, objectives (as appropriate) for achieving board diversity), and conduct an annual review of the progress towards achieving these objectives.
+
+d. Annual review of the independence of each Director, and to ensure that the Board comprises (i) majority non-executive Directors, and (ii) at least one-third, or (if Chairman is not independent) a majority of, independent Directors.
+
+e. Assess, where a Director has other listed company board representation and/or other principal commitments, whether the Director is able to and has been adequately carrying out his or her duties as Director of the Manager.
+
+f. Recommend to the Board the process for the evaluation of the performance of the Board, the Board committees and individual Directors, and propose objective performance criteria to assess the effectiveness of the Board as a whole, the Board committees and the contribution of the Chairman and each Director.
+
+g. Annual assessment of the effectiveness of the Board as a whole, the Board committees and the contribution of the Chairman and individual Directors.
+
+h. Review the succession plans for the Board (in particular, the Chairman) and key management personnel (including the CEO).
+
+i. Review talent development plans.
+
+j. Review the training and professional development programs for Board members. The NRC has noted that all Directors must undergo training on sustainability matters as prescribed by the SGX, and that if the NRC is of the view that training is not required because the Director has expertise in sustainability matters, the basis of its assessment must be disclosed in Keppel DC REIT’s annual report.
+
+k. Review and recommend to the Board a framework of remuneration for Board members and key management personnel, and the specific remuneration packages for each Director as well as the key management personnel, including review of all long-term and short-term incentive plans, with a view to aligning the level and structure of remuneration to the Company’s long-term strategy and performance.
+
+l. Consider all aspects of remuneration to ensure that they are fair, and review the Company’s obligations arising in the event of termination of the executive Directors’ and key management personnel’s contracts of service, to ensure that such clauses are fair and reasonable and not overly generous.
+
+m. Consider whether Directors should be eligible for benefits under long-term incentive schemes (including weighing the use of share schemes against the other types of long-term incentive scheme).
+
+n. Review the ongoing appropriateness and relevance of the remuneration policy to ensure that the level and structure of the remuneration are appropriate and proportionate to the sustained performance and value creation of the Company, taking into account the strategic objectives of the Company.
+
+o. Review the level and structure of remuneration for Directors and key management personnel relative to the internal and external peers and competitors to ensure that the remuneration is appropriate to attract, retain and motivate the Directors to provide good stewardship of the company and key management personnel to successfully manage the Company for the long term.
+
+p. Set performance measures and determine targets for any performance-related pay schemes.
+
+<!-- PAGE 180 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Director</th>
+        <th>Board Membership</th>
+        <th>ARC Membership</th>
+        <th>NRC Membership</th>
+        <th>ESGC Membership</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan</td>
+        <td>Chairman and<br/>Non-Executive Director</td>
+        <td>–</td>
+        <td>Member</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping</td>
+        <td>Lead Independent Director</td>
+        <td>Member</td>
+        <td>Chairman</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>Independent Director</td>
+        <td>Chairman</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee¹</td>
+        <td>Independent Director</td>
+        <td>–</td>
+        <td>Member</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan</td>
+        <td>Independent Director</td>
+        <td>Member</td>
+        <td>–</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang</td>
+        <td>Non-Executive Director</td>
+        <td>–</td>
+        <td>–</td>
+        <td>Chairman</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ As announced by the Manager on 16 February 2026, Mr Chua Soon Ghee has stepped down as Independent Director and accordingly, ceased to be a member of the NRC and ESGC with effect from 16 March 2026. Ms Yeo Siew Eng succeeded Mr Chua as member of the ESGC and Mr Andrew Tan succeeded Mr Chua as member of the NRC.
+
+q. Administer the Company’s long-term incentive schemes in accordance with the rules of such schemes.
+
+r. Report to the Board on material matters and recommendations.
+
+s. Review the NRC’s terms of reference annually and recommend any proposed changes to the Board for approval.
+
+t. Perform such other functions as the Board may determine.
+
+u. Sub-delegate any of its powers within its terms of reference as listed above, from time to time, as the NRC may deem fit.
+
+## 3. Environmental, Social and Governance Committee
+
+a. Develop and articulate Keppel DC REIT’s Environmental, Social and Governance strategy.
+
+b. Provide an oversight of sustainability initiatives across Keppel DC REIT’s business operations. This includes, but is not limited to, the setting, disclosure and achievement of ESG targets, reviewing the effectiveness of the sustainability risk management framework including climate related risk and opportunities, people development and community involvement, as well as where needed, provide oversight of and advice to the Manager’s sustainability committee (which for the avoidance of doubt is a working level committee involving all relevant functions including asset management, finance, investment, investor relations, legal, portfolio management and risk and compliance).
+
+c. Recommend management’s proposals to the Board, including policies, strategies, workplans and targets pertaining to sustainability and ESG matters (collectively, “ESG Framework”) and review the effectiveness of the ESG Framework benchmarked against global and local ESG trends and best practices. Keppel DC REIT’s sustainability and ESG standards, which would form an integral part of Keppel DC REIT’s strategies and core competencies, will drive long-term value creation.
+
+d. Review the implementation and integration of the ESG Framework.
+
+e. Review the adequacy of resources allocated to achieving compliance as well as strategies, workplans and targets pertaining to the ESG Framework.
+
+f. Report to the Board on sustainability and ESG performance, incidents, rectifications, risk management and other material matters.
+
+g. Perform such other functions as the Board may determine.
+
+## BOARD ASSESSMENT
+### Evaluation and appraisal processes
+
+**Board and Board Committees**
+Each Board member is required to complete a Board Evaluation Questionnaire and send the completed Questionnaire directly to the Independent Co-ordinator. An “Explanatory Note” is attached to the Questionnaire to clarify the background, rationale and objectives of the various performance criteria used in the Board Evaluation Questionnaire with the aim of achieving consistency in the understanding and interpretation of the questions. Based on the responses from each of the Directors, the Independent Co-ordinator prepares a consolidated report and briefs the NRC Chairman and Chairman on
+
+the report. Thereafter, the Independent Co-ordinator will present the report to the Board for discussion on the changes which should be made to help the Board discharge its duties more effectively.
+
+**Individual Directors**
+
+In the assessment of the performance of the non-executive Directors, each Director is required to complete the non-executive Directors’ assessment form and send the completed form directly to the Independent Co-ordinator. Each non-executive Director is also required to perform a self-assessment in addition to a peer assessment. Based on the responses, the Independent Co-ordinator prepares a consolidated report and briefs the NRC Chairman and the Chairman. Thereafter, the report is presented to the NRC. Following the meeting and if necessary, the NRC Chairman will meet with non-executive Directors individually to provide feedback on their respective performance with a view to improving their board performance.
+
+**Chairman**
+
+The Chairman Evaluation Form is completed by each non-executive Director (other than the Chairman) and sent directly to the Independent Co-ordinator. Based on the responses from each of the non-executive Directors, the Independent Co-ordinator prepares a consolidated report and briefs the NRC Chairman and the Chairman on the report. Thereafter, the Independent Co-ordinator will present the report to the NRC.
+
+**Performance Criteria**
+
+The performance criteria for the board evaluation and appraisal are in respect of board size and composition, board independence, board processes, board information and accountability, management in diversity, board performance in relation to discharging its principal functions and board committee
+
+<!-- PAGE 181 -->
+
+# Corporate Governance
+
+performance in relation to discharging its responsibilities set out in its terms of reference. Based on the responses received, the Board continues to perform and fulfill its duties, responsibilities and performance objectives in accordance with the established Board processes of the Manager.
+
+The individual Director’s performance criteria for evaluation and appraisal are categorised into five segments; namely, (i) interactive skills (under which factors as to whether the Director works well with other Directors, and participates actively are taken into account); (ii) knowledge (under which factors as to the Director’s industry and business knowledge, functional expertise, whether he or she provides valuable inputs, his or her ability to analyse, communicate and contribute to the productivity of meetings, and his or her understanding of finance and accounts are taken into consideration); (iii) Director’s duties (under which factors as to the Director’s board committee work contribution, whether the Director takes his or her role of Director seriously and works to further improve his or her own performance, whether he or she listens and discusses objectively and exercises independent judgement, and meeting preparation are taken into consideration); (iv) availability (under which the Director’s attendance at board and board committee meetings, whether he or she is available when needed, and his or her informal contribution via e-mail, telephone, written notes etc are considered); and (v) overall contribution, bearing in mind that each Director was appointed for his or her strength in certain areas which, taken together with the skill sets of the other Directors, provides the Board with the required mix of skills, talents and competencies.
+
+The assessment of the Chairman is based on her ability to lead, whether she established proper procedures to ensure the effective functioning of the Board, whether she ensured that the time devoted to Board meetings was appropriate (in terms of number of meetings held a year and duration of each Board meeting) for effective discussion and decision making by the Board, whether she ensured that
+
+information provided to the Board was adequate (in terms of adequacy and timeliness) for the Board to make informed and considered decisions, whether she guided discussions effectively so that there is timely resolution of issues, whether she ensured that meetings are conducted in a manner that facilitates open communication and meaningful participation, and whether she ensured that Board committees are formed where appropriate, with clear terms of reference, to assist the Board in the discharge of its duties and responsibilities.
+
+## KEPPEL DC REIT MANAGEMENT WHISTLE-BLOWER POLICY
+
+The Policy was established and has been put in place to encourage reporting in good faith of suspected Reportable Conduct (as defined below by establishing clearly defined processes and reporting channels through which such reports may be made with confidence that employees and other persons making such reports will be treated fairly and, to the extent possible, protected from reprisal.
+
+Reportable Conduct refers to any act or omission by a director, officer, employee of the Manager, Keppel DC REIT and/or its group of companies, or a third party that provides services or engages in business activities on behalf of Keppel DC REIT and the Manager, which occurred in the course of his or her work (whether or not the act is within the scope of his or her employment) which in the view of a Whistle-Blower acting in good faith, is:
+
+a. Dishonest, including but not limited to theft or misuse of the resources owned by or under the management of Keppel DC REIT and/or the Manager;
+
+b. Fraudulent;
+
+c. Corrupt;
+
+d. Illegal;
+
+e. Other serious improper conduct;
+
+f. An unsafe work practice; or
+
+g. Any other conduct which may cause financial or non-financial loss to Keppel DC REIT and/or the Manager or damage to the reputation of Keppel DC REIT and/or the Manager.
+
+A person who files a report or provides evidence which he or she knows to be false, or without a reasonable belief in the truth and accuracy of such information, will not be protected by the Policy and may be subject to administrative and/or disciplinary action, including termination of employment or other contract, as the case may be.
+
+Similarly, a person may be subject to administrative and/or disciplinary measures, including but not limited to termination of employment or contract if he or she subjects (i) a person who has made or intends to make a Protected Report (referring to a report made in good faith that discloses suspected Reportable Conduct) in accordance with the Policy, or (ii) a person who was called or who may be called as a witness, to any form of reprisal which would not have occurred if he or she did not intend to or had not made the Protected Report or be a witness.
+
+The Head of Internal Audit is the Receiving Officer for the purposes of the Policy, and is responsible for the administration, implementation, and oversight of ongoing compliance with the Policy. The Head of Internal Audit reports directly to the ARC Chairman on all matters arising under the Policy.
+
+## Reporting Mechanism
+
+The Whistle-Blower’s role is as a reporting party. Whistle-Blowers are not investigators or finders of fact, nor do they determine the appropriate corrective or remedial actions that may be warranted.
+
+Whistle-Blowers may make a Protected Report in relation to suspected Reportable Conduct to either the Receiving Officer or the ARC Chairman via the established reporting channels.
+
+Employees are also encouraged to make a Protected Report in relation to a suspected Reportable Conduct to their respective supervisors who are responsible for promptly informing the Receiving Officer, who in turn is required to promptly report to the
+
+<!-- PAGE 182 -->
+
+ARC Chairman, of any such report. The supervisor shall not, upon receiving or becoming aware of any Protected Report, take any independent action or start any investigation in connection with such Protected Report unless otherwise directed by the ARC Chairman or the Receiving Officer. If the employee prefers not to disclose the matter to the supervisor and/or Receiving Officer (as the case may be), he or she may make the report directly to the ARC Chairman via the established reporting channels.
+
+A Protected Report may be made orally or in writing. However, such reports should preferably be in writing so as to ensure a clear understanding of the matters raised. All communications relating to the allegations made in a Protected Report should also be in writing. The information disclosed should be as precise as possible to allow for proper assessment of the nature, extent and urgency of preliminary investigative procedures to be undertaken.
+
+## Investigation
+
+Every Protected Report received, whether oral or written, and anonymous or otherwise, will be assessed by the Receiving Officer, who will review the information disclosed, interview the Whistle-Blower(s) when required and if contactable, and make recommendations to the ARC Chairman as to whether the circumstances warrant an investigation. Where the circumstances warrant an investigation, the ARC Chairman or the ARC (as the case may be) shall determine the appropriate investigative process to be employed, including the engagement of internal or external advisors as he or they see fit. The ARC Chairman or the ARC (as the case may be) will use his or their respective best endeavours to ensure that there is no conflict of interests on the part of any party involved in the investigations. The ARC Chairman will also require the matter to be reported to the authorities if a crime is involved, and/or to the relevant insurance company in accordance with the terms of the applicable insurance policies.
+
+The Receiving Officer will prepare a report on her findings including recommendations on any corrective or remedial actions to be taken, and such report shall be submitted to the ARC Chairman upon the conclusion of the investigation into any Reportable Conduct. The ARC Chairman (whether in the exercise of his own discretion or in consultation with the ARC) shall determine the adequacy of corrective or remedial actions proposed (if any).
+
+The identity of Whistle-Blowers, persons who participate (or who intend to participate) in investigations, and the investigation subject(s) will be kept confidential to the extent possible.
+
+## No Reprisal
+
+No person shall, except in the circumstances stated below, be subject to any reprisal for having made a Protected Report in accordance with the Policy. A reprisal means personal disadvantage by:
+
+a. Dismissal;
+
+b. Demotion;
+
+c. Suspension;
+
+d. Termination of employment/contract;
+
+e. Any form of harassment or threatened harassment;
+
+f. Discrimination; or
+
+g. Current or future bias.
+
+A Whistle-Blower or any person who participated or intends to participate in an investigation arising from a Protected Report, who believes that he or she is subject to reprisal and that the Protected Report is a contributing factor to the reprisal may complain to the Receiving Officer (who shall refer the matter to the ARC Chairman) or the ARC Chairman. The ARC Chairman shall review the matter and determine the actions to be taken. The protection from reprisal does not extend to situations where the Whistle-Blower or witness has committed or abetted the Reportable Conduct that is the subject of the allegations contained in the Protected Report. However, the ARC Chairman will take into account the fact that he or she has cooperated as a Whistle Blower or a witness pursuant to this policy in determining whether, and to what extent, disciplinary measures are to be taken against him or her.
+
+<!-- PAGE 183 -->
+
+# Corporate Governance
+
+**Rule 720(6) of the Listing Manual of the SGX-ST**
+
+The information required under Rule 720(6) read with Appendix 7.4.1 of the Listing Manual in respect of Directors whom the Manager is seeking re-endorsement by Unitholders at the annual general meeting to be held in 2026 is set out below. Pursuant to the re-endorsements, the Board will comprise of a majority of independent directors (being Mr Low Huan Ping, Ms Yeo Siew Eng, and Mr Andrew Tan), with Mr Low Huan Ping as the Lead Independent Director.
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of Director</th>
+        <th>Ms Christina Tan</th>
+        <th>Ms Yeo Siew Eng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Date of Appointment</td>
+        <td>15 September 2016</td>
+        <td>1 November 2022</td>
+    </tr>
+    <tr>
+        <td>Date of last re-appointment (if applicable)</td>
+        <td>19 April 2023</td>
+        <td>19 April 2023</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>60</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>Country of principal residence</td>
+        <td>Singapore</td>
+        <td>Singapore</td>
+    </tr>
+    <tr>
+        <td>The Board’s comments on this appointment (including rationale, selection criteria, and the search and nomination process)</td>
+        <td colspan="2">The process for succession planning for the Board, appointment of Directors, and the seeking of endorsement or re-endorsement of Directors, is set out in pages 168 to 170 of this Annual Report.</td>
+    </tr>
+    <tr>
+        <td>Whether the appointment is executive, and if so, the area of responsibility</td>
+        <td>Non-executive</td>
+        <td>Non-executive</td>
+    </tr>
+    <tr>
+        <td>Job Title (e.g. Lead ID, AC Chairman, AC Member etc.)</td>
+        <td>Chairman of the Board and Member of the Nominating and Remuneration Committee</td>
+        <td>Independent Director and Chairman of the Audit and Risk Committee</td>
+    </tr>
+    <tr>
+        <td>Professional qualifications</td>
+        <td>Bachelor of Accountancy (Honours), National University of Singapore; CFA® Charterholder</td>
+        <td>Bachelor of Accountancy, University of Singapore; Fellow of the Singapore Institute of Chartered Accountants; Member of the Singapore Institute of Directors</td>
+    </tr>
+    <tr>
+        <td>Working experience and occupation(s) during the past 10 years</td>
+        <td>From July 2023 to Current:<br/>Chief Executive Officer, Fund Management and Chief Investment Officer, Keppel Ltd.<br/><br/>From October 2021 to Current:<br/>Director, Keppel Management Limited<br/><br/>From September 2016 to Current:<br/>Non-executive Director, Keppel REIT Management Limited (the manager of Keppel REIT)<br/><br/>From September 2016 to Current:<br/>Non-executive Director, Keppel Infrastructure Fund Management Pte. Ltd. (the trustee-manager of Keppel Infrastructure Trust)<br/><br/>From July 2016 to July 2023:<br/>Chief Executive Officer, Keppel Capital Holdings Pte. Ltd.<br/><br/>From May 2016 to Current:<br/>Director, Keppel Capital Holdings Pte. Ltd.<br/><br/>From Jan 2012 to February 2018:<br/>Managing Director, Keppel Fund Management Limited<br/><br/>From April 2007 to Current:<br/>Director, Keppel Fund Management Limited</td>
+        <td>From November 2022 to Current:<br/>Independent Non-executive Director, Keppel DC REIT Management Pte. Ltd. (the Manager of Keppel DC REIT)<br/><br/>From September 2024 to Current:<br/>Non-executive Director, Surbana Jurong Private Limited<br/><br/>From September 2024 to Current:<br/>Non-executive Director, SimplyGo Pte. Ltd.<br/><br/>From February 2024 to Current:<br/>Board Member, Maritime and Port Authority of Singapore<br/><br/>From August 2022 to September 2024:<br/>Non-executive Director, Transit Link Pte Ltd<br/><br/>From October 2020 to April 2024:<br/>Non-executive Independent Director, Venture Corporation Limited<br/><br/>From March 2020 to January 2023:<br/>Non-executive Independent Director, Nam Lee Pressed Metal Industries Limited<br/><br/>From October 1998 to May 2018:<br/>Partner, Deloitte &amp; Touche LLP</td>
+    </tr>
+    <tr>
+        <td>Shareholding interest in the listed issuer and its subsidiaries</td>
+        <td>64,908 units in Keppel DC REIT</td>
+        <td>31,694 units in Keppel DC REIT</td>
+    </tr>
+    <tr>
+        <td>Any relationship (including immediate family relationships) with any existing director, existing executive officer, the issuer and/or substantial shareholder of the listed issuer or of any of its principal subsidiaries</td>
+        <td>Ms Christina Tan is Chief Executive Officer, Fund Management and Chief Investment Officer of Keppel Ltd.</td>
+        <td>Nil</td>
+    </tr>
+    <tr>
+        <td>Conflict of interest (including any competing business)</td>
+        <td>Nil</td>
+        <td>Nil</td>
+    </tr>
+    <tr>
+        <td>Undertaking (in the format set out in Appendix 7.7) under Rule 720(1) has been submitted to the listed issuer</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Other Principal Commitments including Directorships – Past (for the last 5 years)</td>
+        <td>Various subsidiaries and associated companies of Keppel Fund Management Limited and funds managed by Keppel Fund Management Limited</td>
+        <td>Transit Link Pte Ltd; Venture Corporation Limited; Nam Lee Pressed Metal Industries Limited</td>
+    </tr>
+    <tr>
+        <td>Other Principal Commitments including Directorships – Present</td>
+        <td>Keppel Capital Holdings Pte. Ltd.; Keppel Fund Management Limited</td>
+        <td>Maritime and Port Authority of Singapore; SimplyGo Pte. Ltd.; Surbana Jurong Private Limited</td>
+    </tr>
+    <tr>
+        <td>Any prior experience as a director of an issuer listed on the Exchange?</td>
+        <td>Yes</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>If yes, please provide details of prior experience</td>
+        <td>Keppel DC REIT Management Pte. Ltd. (the manager of Keppel DC REIT); Keppel REIT Management Limited (the manager of Keppel REIT); Keppel Infrastructure Fund Management Pte. Ltd. (the trustee-manager of Keppel Infrastructure Trust)</td>
+        <td>Keppel DC REIT Management Pte. Ltd. (the manager of Keppel DC REIT); Venture Corporation Limited; Nam Lee Pressed Metal Industries Limited</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 184 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of Director</th>
+        <th>Ms Christina Tan</th>
+        <th>Ms Yeo Siew Eng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>If no, please state if the director has attended or will be attending training on the roles and responsibilities of a director of a listed issuer as prescribed by the Exchange.<br/><br/>Please provide details of relevant experience and the nominating committee’s reasons for not requiring the director to undergo training as prescribed by the Exchange (if applicable).</td>
+        <td>N.A.</td>
+        <td>N.A.</td>
+    </tr>
+    <tr>
+        <td>a. Whether at any time during the last 10 years, an application or a petition under any bankruptcy law of any jurisdiction was filed against him or against a partnership of which he was a partner at the time when he was a partner or at any time within 2 years from the date he ceased to be a partner?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>b. Whether at any time during the last 10 years, an application or a petition under any law of any jurisdiction was filed against an entity (not being a partnership) of which he was a director or an equivalent person or a key executive, at the time when he was a director or an equivalent person or a key executive of that entity or at any time within 2 years from the date he ceased to be a director or an equivalent person or a key executive of that entity, for the winding up or dissolution of that entity or, where that entity is the trustee of a business trust, that business trust, on the ground of insolvency?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>c. Whether there is any unsatisfied judgement against him?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>d. Whether he has ever been convicted of any offence, in Singapore or elsewhere, involving fraud or dishonesty which is punishable with imprisonment, or has been the subject of any criminal proceedings (including any pending criminal proceedings of which he is aware) for such purpose?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>e. Whether he has ever been convicted of any offence, in Singapore or elsewhere, involving a breach of any law or regulatory requirement that relates to the securities or futures industry in Singapore or elsewhere, or has been the subject of any criminal proceedings (including any pending criminal proceedings of which he is aware) for such breach?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>f. Whether at any time during the last 10 years, judgement has been entered against him in any civil proceedings in Singapore or elsewhere involving a breach of any law or regulatory requirement that relates to the securities or futures industry in Singapore or elsewhere, or a finding of fraud, misrepresentation or dishonesty on his part, or he has been the subject of any civil proceedings (including any pending civil proceedings of which he is aware) involving an allegation of fraud, misrepresentation or dishonesty on his part?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>g. Whether he has ever been convicted in Singapore or elsewhere of any offence in connection with the formation or management of any entity or business trust?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>h. Whether he has ever been disqualified from acting as a director or an equivalent person of any entity (including the trustee of a business trust), or from taking part directly or indirectly in the management of any entity or business trust?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>i. Whether he has ever been the subject of any order, judgement or ruling of any court, tribunal or governmental body, permanently or temporarily enjoining him from engaging in any type of business practice or activity?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>j. Whether he has ever, to his knowledge, been concerned with the management or conduct, in Singapore or elsewhere, of the affairs of:<br/><br/>i. any corporation which has been investigated for a breach of any law or regulatory requirement governing corporations in Singapore or elsewhere; or<br/>ii. any entity (not being a corporation) which has been investigated for a breach of any law or regulatory requirement governing such entities in Singapore or elsewhere; or<br/>iii. any business trust which has been investigated for a breach of any law or regulatory requirement governing business trusts in Singapore or elsewhere; or<br/>iv. any entity or business trust which has been investigated for a breach of any law or regulatory requirement that relates to the securities or futures industry in Singapore or elsewhere,<br/><br/>in connection with any matter occurring or arising during that period when he was so concerned with the entity or business trust?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>k. Whether he has been the subject of any current or past investigation or disciplinary proceedings, or has been reprimanded or issued any warning, by the Monetary Authority of Singapore or any other regulatory authority, exchange, professional body or government agency, whether in Singapore or elsewhere?</td>
+        <td>No</td>
+        <td>No</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 185 -->
+
+# Corporate Governance
+
+### Summary of Disclosures of CG Code
+
+Rule 710 of the SGX Listing Manual requires Singapore listed companies to describe their corporate governance practices with specific reference to the CG Code in their annual reports. This summary of disclosures describes our corporate governance practices with specific reference to the disclosure requirement under the CG Code.
+
+<table>
+  <thead>
+    <tr>
+<th>Principles</th>
+<th>Page Reference in this Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="2"><strong>BOARD MATTERS</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>The Board's Conduct of Affairs</strong></td>
+    </tr>
+    <tr>
+<td>Provision 1.1</td>
+<td>Pages 165, 180 to 182</td>
+    </tr>
+    <tr>
+<td>Provision 1.2</td>
+<td>Page 167</td>
+    </tr>
+    <tr>
+<td>Provision 1.3</td>
+<td>Page 165</td>
+    </tr>
+    <tr>
+<td>Provision 1.4</td>
+<td>Pages 165 to 179, 182 to 185</td>
+    </tr>
+    <tr>
+<td>Provision 1.5</td>
+<td>Pages 166 to 167</td>
+    </tr>
+    <tr>
+<td>Provision 1.6</td>
+<td>Pages 166 to 167</td>
+    </tr>
+    <tr>
+<td>Provision 1.7</td>
+<td>Pages 166 to 167</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Board Composition and Guidance</strong></td>
+    </tr>
+    <tr>
+<td>Provision 2.1</td>
+<td>Pages 170 to 171</td>
+    </tr>
+    <tr>
+<td>Provision 2.2</td>
+<td>Page 169</td>
+    </tr>
+    <tr>
+<td>Provision 2.3</td>
+<td>Page 169</td>
+    </tr>
+    <tr>
+<td>Provision 2.4</td>
+<td>Pages 168 to 170</td>
+    </tr>
+    <tr>
+<td>Provision 2.5</td>
+<td>Page 166</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Chairman and Chief Executive Officer</strong></td>
+    </tr>
+    <tr>
+<td>Provision 3.1</td>
+<td>Page 167</td>
+    </tr>
+    <tr>
+<td>Provision 3.2</td>
+<td>Page 167</td>
+    </tr>
+    <tr>
+<td>Provision 3.3</td>
+<td>Pages 167 to 168, 171</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Board Membership</strong></td>
+    </tr>
+    <tr>
+<td>Provision 4.1</td>
+<td>Pages 167 to 171, 184 to 185</td>
+    </tr>
+    <tr>
+<td>Provision 4.2</td>
+<td>Page 168</td>
+    </tr>
+    <tr>
+<td>Provision 4.3</td>
+<td>Page 168</td>
+    </tr>
+    <tr>
+<td>Provision 4.4</td>
+<td>Pages 170 to 171</td>
+    </tr>
+    <tr>
+<td>Provision 4.5</td>
+<td>Pages 14 to 16, 171</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Board Performance</strong></td>
+    </tr>
+    <tr>
+<td>Provision 5.1</td>
+<td>Pages 169 to 172, 185 to 186</td>
+    </tr>
+    <tr>
+<td>Provision 5.2</td>
+<td>Pages 169 to 172, 185 to 186</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>REMUNERATION MATTERS</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Procedures for Developing Remuneration Policies</strong></td>
+    </tr>
+    <tr>
+<td>Provision 6.1</td>
+<td>Pages 172 to 175</td>
+    </tr>
+    <tr>
+<td>Provision 6.2</td>
+<td>Page 168</td>
+    </tr>
+    <tr>
+<td>Provision 6.3</td>
+<td>Pages 172 to 175</td>
+    </tr>
+    <tr>
+<td>Provision 6.4</td>
+<td>Pages 172 to 173</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Level and Mix of Remuneration</strong></td>
+    </tr>
+    <tr>
+<td>Provision 7.1</td>
+<td>Pages 172 to 175</td>
+    </tr>
+    <tr>
+<td>Provision 7.2</td>
+<td>Pages 172 to 175</td>
+    </tr>
+    <tr>
+<td>Provision 7.3</td>
+<td>Pages 172 to 175</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+<th>Principles</th>
+<th>Page Reference in this Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="2"><strong>REMUNERATION MATTERS</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Disclosure on Remuneration</strong></td>
+    </tr>
+    <tr>
+<td>Provision 8.1</td>
+<td>Page 175</td>
+    </tr>
+    <tr>
+<td>Provision 8.2</td>
+<td>Page 175</td>
+    </tr>
+    <tr>
+<td>Provision 8.3</td>
+<td>Pages 172 to 175</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>ACCOUNTABILITY AND AUDIT</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Risk Management and Internal Controls</strong></td>
+    </tr>
+    <tr>
+<td>Provision 9.1</td>
+<td>Pages 175 to 179</td>
+    </tr>
+    <tr>
+<td>Provision 9.2</td>
+<td>Pages 177 to 178</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Audit Committee</strong></td>
+    </tr>
+    <tr>
+<td>Provision 10.1</td>
+<td>Pages 175 to 176, 182 to 184</td>
+    </tr>
+    <tr>
+<td>Provision 10.2</td>
+<td>Page 175</td>
+    </tr>
+    <tr>
+<td>Provision 10.3</td>
+<td>Page 175</td>
+    </tr>
+    <tr>
+<td>Provision 10.4</td>
+<td>Pages 178 to 179</td>
+    </tr>
+    <tr>
+<td>Provision 10.5</td>
+<td>Pages 175 to 176</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>SHAREHOLDER RIGHTS AND RESPONSIBILITIES</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Shareholder Rights and Conduct of General Meetings</strong></td>
+    </tr>
+    <tr>
+<td>Provision 11.1</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 11.2</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 11.3</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 11.4</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 11.5</td>
+<td>Page 180</td>
+    </tr>
+    <tr>
+<td>Provision 11.6</td>
+<td>Page 180</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Engagement with Shareholders</strong></td>
+    </tr>
+    <tr>
+<td>Provision 12.1</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 12.2</td>
+<td>Page 179</td>
+    </tr>
+    <tr>
+<td>Provision 12.3</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>MANAGING STAKEHOLDER RELATIONSHIPS</strong></td>
+    </tr>
+    <tr>
+<td colspan="2"><strong>Engagement with Stakeholders</strong></td>
+    </tr>
+    <tr>
+<td>Provision 13.1</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 13.2</td>
+<td>Pages 179 to 180</td>
+    </tr>
+    <tr>
+<td>Provision 13.3</td>
+<td>Page 179</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 186 -->
+
+# Risk Management
+
+## ROBUST ENTERPRISE RISK MANAGEMENT FRAMEWORK
+
+Keppel DC REIT Management Pte. Ltd., the Manager of Keppel DC REIT, has in place an Enterprise Risk Management Framework (“ERM”) Framework that is adapted from the International Standards Organisation (“ISO”) 31000 International Risk Management Standards. The ERM Framework is also benchmarked against other best practices and guidelines and is reviewed regularly to ensure its continued relevance and practicality.
+
+The ERM Framework articulates the key objectives and purposes of ERM within the Manager and Keppel DC REIT. It institutes a risk governance structure, establishes the roles and responsibilities of key stakeholders, provides an overview of the key components of the ERM Framework, promotes a common risk language and consistent understanding of risk management, and establishes the risk management processes, including risk identification, assessment, treatment, monitoring and reporting of significant risk areas across the Manager and Keppel DC REIT and key operating principles for a sound system of risk management and controls. A robust ERM Framework enables the Manager and Keppel DC REIT to manage risks systematically and respond promptly
+
+and effectively in the constantly evolving business, geopolitical and technology landscape.
+
+## RISK GOVERNANCE
+
+The Board of Directors (the “Board”), supported by the Audit and Risk Committee (“ARC”), is responsible for the governance of risks and ensures that the Manager maintains a sound system of risk management and internal controls to safeguard Unitholders’ interests and Keppel DC REIT’s business and assets. Terms of reference of the ARC are disclosed on pages 182 to 184 of this Annual Report. The Manager recognises risk management as an integral part of its business strategy to deliver regular and steady distributions. To safeguard and create value for Unitholders, the Manager proactively manages risks and embeds the risk management process into the planning and decision-making process. The Manager’s risk governance process is detailed on pages 177 to 178 under Principle 9 (Risk Management and Internal Controls).
+
+The Board, supported by the ARC, approves the risk appetite which determines the nature and extent of the material risks the Manager and Keppel DC REIT are willing to take to achieve their strategic objectives. The Manager and Keppel DC REIT adhere to three Risk Tolerance Guiding Principles, as follows:
+
+1. Risks taken should be carefully evaluated, commensurate with rewards and align with the Manager’s and Keppel DC REIT’s core strengths and strategic objectives.
+
+2. No risk arising from a single area of operation, investment or undertaking should be so significant and material as to endanger the Manager and Keppel DC REIT.
+
+3. The Manager does not condone safety breaches or lapses, non-compliance with laws and regulations and acts such as fraud, bribery and corruption.
+
+The Manager directs and implements the conduct of the risk management processes, including identifying new and emerging risks, formulating key risk indicators as early warning signals, assessing their likelihood and impact on the business, establishing mitigating controls and considering the cost-benefit trade-off. This information is maintained in risk registers that are reviewed, updated, and reported to the ARC regularly to keep the ARC apprised of the Manager’s and Keppel DC REIT’s risk profiles, key risks and corresponding mitigation strategies.
+
+In 2025, the Board, with the concurrence of the ARC, assessed and deemed the
+
+## RISK-CENTRIC CULTURE
+
+Having the right risk culture and people with the right attitude and values are fundamental to the success of ERM. It involves developing the right behaviours and skill sets necessary to systematically identify key risks, implement appropriate mitigation measures and respond effectively to risks, ensuring resilience and sustainable value creation. At the Manager and Keppel DC REIT, we foster a ‘risk-centric’ culture which embeds prudent risk-taking in decision-making and business processes.
+
+**Leadership & Governance**
+
+Board and management set the tone at the top and encourages prudent risk-taking in decision-making.
+
+**Training, Competency & Communications**
+
+Risk management is regularly reinforced as a discipline and developed through training, awareness and practice.
+
+**Transparency**
+
+We promote transparency in information sharing and escalation of risk-related matters, incidents, near-misses or events of interest.
+
+**Framework**
+
+We are guided by the ERM Framework to manage effectively the risks and opportunities arising from our businesses.
+
+**Ownership & Accountability**
+
+Our risk processes provide clarity and accountability in executing our roles and responsibilities and emphasise on having clear ownership for major risk areas.
+
+**Process & Methods**
+
+A key part of the process is the identification and assessment of key risks, guided by our risk appetite statements, and monitored through key risk indicators.
+
+> Risk-Centric Culture
+
+<!-- PAGE 187 -->
+
+# Risk Management
+
+Manager’s and Keppel DC REIT’s risk management system to be adequate and effective in addressing the key risks identified below:
+
+## 1. Operational Risk
+
+* All operations are aligned with Keppel DC REIT’s strategies to ensure income sustainability and growth. Measures include engagements with its master lease tenants and underlying clients through its facility managers, to ensure proactive contract management and marketing to optimise revenue, reduce income voids, monitor contractual arrears to minimise bad debts, and manage property expenses to raise operational efficiency.
+
+* Proactive asset management and portfolio rebalancing, to ensure assets remain competitive, relevant and aligned with overall portfolio strategy.
+
+* Formalised guidelines, procedures, internal training and tools are used to provide guidance in identifying, assessing, treating, monitoring and reporting risks.
+
+* The Manager fosters close relationships, whether directly and/or indirectly through its facility managers, with clients and manages contract expiries to avoid a disproportionate amount of contracts expiring in any one year.
+
+* The Manager closely engages the facility managers to ensure that asset performance is well managed and adheres to the respective service level agreements.
+
+* The Manager actively engages the facility managers for updates on renewals, new contracts as well as capital expenditures required. Through regular operational meetings, the Manager ensures that such assets are managed in accordance with Keppel DC REIT’s operating plans and standards.
+
+* Business continuity plans (“BCP”) enable Keppel DC REIT to respond effectively to potential disruptions resulting from internal and external events, while continuing critical business functions including the data centre operations. Regular BCP drills are conducted to ensure operational resilience.
+
+* Insurance coverage is reviewed annually to ensure that Keppel DC REIT’s assets as well as the directors and officers of entities held directly or indirectly by Keppel DC REIT, are appropriately insured.
+
+## 2. Financing Risk
+
+* Liquidity and financing risks are managed in accordance with established guidelines and policies. The Manager proactively monitors cash flows to support expenditure, asset enhancement initiatives and payouts to Unitholders. Funding options and leverage are evaluated for major acquisitions. Funding sources are diversified and debt maturities are staggered.
+
+## 3. Financial Risk
+
+* The Manager constantly monitors the exposure of Keppel DC REIT to changes in interest and foreign exchange rates. It utilises various methods and financial instruments, where appropriate, to hedge against such exposures.
+
+* The Manager enters into floating to fixed interest rate swaps, with the primary objective of limiting the extent to which net interest expense can be affected by adverse movements in interest rates.
+
+* The Manager mitigates the impact of currency fluctuations through the use of foreign currency forward contracts to hedge Keppel DC REIT’s forecast foreign-sourced distributions as well as achieving natural hedge for all or part of the capital value through the use of foreign currency debt to finance its overseas acquisitions, capital expenditures and asset enhancement initiatives in the same foreign currency.
+
+* Impact assessments and stress tests are conducted from time to time to gauge Keppel DC REIT’s potential financial exposure to changing market conditions. This enables the Manager to make informed decisions and implement mitigating actions.
+
+## 4. Credit Risk
+
+* The Manager assesses credit risk upfront and maintains a diversified client base across high value-added trade sectors to minimise credit and concentration risk.
+
+* Regular monitoring of rent collection to minimise potential rental arrears and facilitate proactive implementation of practical risk mitigation processes.
+
+## 5. Investment Risk
+
+* Comprehensive due diligence to assess and evaluate potential investment risks is conducted prior to any transaction.
+
+* The Manager actively evaluates each investment by considering the target asset’s specifications, expected returns, growth potential and its ability to enhance Keppel DC REIT’s portfolio value. Additionally, various factors including the macro environment, market
+
+<!-- PAGE 188 -->
+
+conditions, counterparty creditworthiness, interest rate risks and ESG considerations, are thoroughly evaluated based on the Manager’s expertise and experience.
+
+* Investment criteria and processes are periodically reviewed and updated as needed to ensure relevance and strengthen the overall transaction evaluation framework.
+
+* The Board reviews and approves transactions after evaluating all aspects of the investment proposal and risks involved.
+
+* The effect of each proposed transaction on the Singapore-overseas ratio is evaluated prior to any transaction to manage concentration risk.
+
+## 6. Compliance Risk
+
+* As a Capital Markets Services Licence holder, the Manager complies with applicable laws and regulations including the SGX-ST Listing Rules issued by the Singapore Exchange Regulation (SGX RegCo), the Code on Collective Investment Schemes and its Property Fund Appendix and conditions of the Capital Markets Services Licence for REIT Management issued by the Monetary Authority of Singapore under the Securities and Futures Act, as well as the tax rulings issued by the Inland Revenue Authority of Singapore.
+
+* The Manager closely monitors changes to legislations and regulations as well as new developments in the operating environment for the Manager and Keppel DC REIT to uphold legal and regulatory compliance in all operations.
+
+* The Manager and Keppel DC REIT undergo periodic internal and external audits to ensure that they adhere to relevant policies and processes.
+
+* Recognising that non-compliance with laws and regulations has potential significant reputational and financial impact, the Manager and Keppel DC REIT prioritise regulatory compliance throughout all its business activities.
+
+* The Manager adopts a strong anti-corruption and anti-bribery stance and regularly communicates key policy requirements to all employees, ensuring relevant policies, processes and controls are effectively designed, managed and implemented, so that compliance risks and controls are effectively managed.
+
+## 7. Climate Change Risk
+
+* Keppel DC REIT’s climate change risk forms part of the material ESG issues addressed by the Board and the Manager. Keppel DC REIT’s sustainability reporting, previously based on the Task Force on Climate-Related Financial Disclosures (“TCFD”) Recommendations, has progressively incorporated the climate-related disclosure requirements of the IFRS Sustainability Disclosure Standards, in line with SGX RegCo’s enhanced sustainability reporting regime.
+
+* Sustainability is at the core of Keppel DC REIT’s strategy with climate change risk reviewed and assessed within its ERM Framework. The ERM Framework guides the Manager and Keppel DC REIT on the processes and methods applied in identifying, assessing, treating, monitoring and reporting climate change risk.
+
+* As part of climate change risk management, the Manager has embarked on assessing both physical and transition risks for Keppel DC REIT and strengthening its organisational capabilities in response. The Manager recently completed both qualitative and quantitative assessment of the relevant physical and transition risks for Keppel DC REIT for 2025. More details are provided in the Sustainability Report 2025.
+
+## 8. Information Technology and Cybersecurity Risks
+
+* The Manager, in its capacity as manager of Keppel DC REIT, recognises the criticality of global cyber threats and has established robust information technology and cybersecurity governance structures, frameworks and controls to address key risk areas including business disruption, theft or loss of confidential data, and data integrity. Throughout the year, various initiatives such as cybersecurity training, regular awareness communications and phishing exercises are conducted to raise awareness of information security and cyber threats. These efforts foster a strong cyber safety culture and enhance employees’ ability to recognise and respond effectively to information technology and cybersecurity risks. The Manager continually monitors its information technology and cybersecurity risks to ensure the ongoing effectiveness and relevance of its controls and frameworks.
+
+## 9. Emerging Risks
+
+* The Manager will continue to monitor any evolving or emerging risks. Risks identified will be considered and mitigating actions will be taken as necessary.
+
+<!-- PAGE 189 -->
+
+# Additional Information
+
+**INTERESTED PERSON TRANSACTIONS**
+
+The transactions entered into with interested persons during the financial year which falls under the Listing Manual of the SGX-ST and the CIS Code are as follows:
+
+<table>
+  <thead>
+    <tr>
+<th>Name of Interested Persons</th>
+<th>Nature of Relationship</th>
+<th>Aggregate value of all interested person transaction during the financial year under review (excluding transactions less than S$100,000 and transactions conducted under Unitholders’ mandate pursuant to Rule 920)</th>
+<th>Aggregate value of all interested person transactions conducted under Unitholders’ mandate pursuant to Rule 920 (excluding transactions less than S$100,000)</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>FY 2025</th>
+<th>FY 2025</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>S$’000</th>
+<th>S$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="4"><strong>Temasek Holdings Group</strong></td>
+    </tr>
+    <tr>
+<td>– Acquisition of interests in KDC SGP 7 and 8</td>
+<td rowspan="4">“Controlling Unitholder”<br/>of the REIT and<br/>“Controlling Shareholder”<br/>of the REIT Manager</td>
+<td>143,109</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Rental income</td>
+<td>18,712</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Recovery of expenses</td>
+<td>1,091</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Corporate guarantee</td>
+<td>24,000</td>
+<td>Nil</td>
+    </tr>
+    <tr><td> </td><td> </td><td> </td></tr>
+    <tr>
+<td colspan="4"><strong>Keppel Ltd. and its subsidiaries</strong></td>
+    </tr>
+    <tr>
+<td>– Acquisition of interests in KDC SGP 3, 4, 7 and 8</td>
+<td rowspan="10">“Controlling Unitholder”<br/>of the REIT and<br/>“Controlling Shareholder”<br/>of the REIT Manager</td>
+<td>271,803</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Fixed rental income</td>
+<td>124,425</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Variable rental income</td>
+<td>226,754</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Facility management and property management fees and reimbursables</td>
+<td>10,732</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Manager’s management fees</td>
+<td>37,586</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Acquisition and development management fees</td>
+<td>10,639</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Divestment fee</td>
+<td>351</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Support services fees</td>
+<td>1,881</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Recovery of expenses</td>
+<td>46,826</td>
+<td>Nil</td>
+    </tr>
+    <tr>
+<td>– Corporate guarantee</td>
+<td>33,037</td>
+<td>Nil</td>
+    </tr>
+    <tr><td> </td><td> </td><td> </td></tr>
+    <tr>
+<td colspan="4"><strong>Perpetual (Asia) Limited</strong></td>
+    </tr>
+    <tr>
+<td>– Trustee fees</td>
+<td>“Trustee” of the REIT</td>
+<td>587</td>
+<td>Nil</td>
+    </tr>
+  </tbody>
+</table>
+
+Certain other interested person transactions outlined in the Prospectus dated 5 December 2014 are deemed to have been approved by the Unitholders and are therefore not subject to Rules 905 and 906 of the Listing Manual to the extent that specific information on these agreements have been disclosed in the Prospectus and there is no subsequent change to the rates and/or bases of the fees charged thereunder which will adversely affect Keppel DC REIT.
+
+Keppel DC REIT has not obtained a general mandate from Unitholders for Interested Person Transactions for the financial period under review. Please also see significant related party transactions on Note 31 in the financial statements.
+
+<!-- PAGE 190 -->
+
+In accordance with Rule 906(1) of the Listing Manual, the below interested person transactions have not been computed as a percentage of the net assets of Keppel DC REIT for purposes of Rule 906(1) because the following transactions have been approved or have been deemed approved by Unitholders:
+
+a. Aggregate variable rental income amount of S$215,497,000 and facility management fees of S$8,707,000 in FY 2025 comprising:
+
+i. 90% (representing Keppel DC REIT’s ownership interest in the property) of the lease agreement and the facility management agreement for a period of 10 years for Keppel DC Singapore 3 (KDC SGP 3) approved by Unitholders by way of an extraordinary general meeting held on 7 November 2016 pursuant to the circular dated 18 October 2016 in connection with the acquisition of an interest in KDC SGP 3;
+
+ii. 99% (representing Keppel DC REIT’s ownership interest in the property) of the lease agreement and the facility management agreement for a period of 10 years for Keppel DC Singapore 4 (KDC SGP 4) approved by Unitholders by way of an extraordinary general meeting held on 23 October 2019 pursuant to the circular dated 8 October 2019 in connection with, among others, the acquisition of an interest in KDC SGP 4;
+
+iii. 99% (representing Keppel DC REIT’s ownership interest in the property) of the lease agreement and the facility management agreement relating to a 9-year renewal of the lease for Keppel DC Singapore 5 (KDC SGP 5) approved by Unitholders by way of an extraordinary general meeting held on 16 April 2019 pursuant to the circular dated 25 March 2019 in connection with, among others, the renewal of the KDC SGP 5 lease and facility management services;
+
+iv. 99.49% economic interest (representing Keppel DC REIT’s ownership interest in the property) of the lease agreement and the facility management agreement for a period of 10 years for Keppel DC Singapore 7 and Keppel DC Singapore 8 (KDC SGP 7 and KDC SGP 8) approved by Unitholders by way of an extraordinary general meeting held on 20 December 2024 pursuant to the circular dated 5 December 2024 in connection with, among others, the acquisition of an interest in KDC SGP 7 and KDC SGP 8; and
+
+v. the lease agreements and the facility management agreements (each for a period of 10 years) for Keppel DC Singapore 1 and Keppel DC Singapore 2 (KDC SGP 1 and KDC SGP 2) approved by Unitholders by way of an extraordinary general meeting held on 20 December 2024 pursuant to the circular dated 5 December 2024 in connection with, among others, the new master lease agreements and the new facility management agreements in relation to KDC SGP 1 and KDC SGP 2.
+
+b. Rental income amounting to S$18,712,000 in FY 2025 arising from the master lease entered into by the company holding DC1 (DC1PL). As disclosed in the circular to the Unitholders dated 8 October 2019, Keppel DC REIT acquired 100% of the interest in DC1PL and in accordance with the Listing Manual and the aforementioned circular, the existing master lease is deemed approved by Unitholders and need not be included in any subsequent aggregation for purposes of Rule 906(1) of the Listing Manual.
+
+c. Investment in notes and preference shares in a joint venture and total interest income receivable from a joint venture amounting to an aggregate of S$166,000,000, approved by Unitholders by way of an extraordinary general meeting held on 2 December 2021 pursuant to the circular dated 10 November 2021.
+
+As Unitholders’ approval has been obtained or have been duly deemed obtained in connection with the foregoing transactions, these are excluded for the purposes of Rule 906(1)(b) and it is therefore noted that Keppel DC REIT has not exceeded the threshold stipulated in Rule 906(1).
+
+## Subscription of Keppel DC REIT Units
+
+During the financial year ended 31 December 2025, Keppel DC REIT issued:
+
+1. 40,670,000 new Units pursuant to the sponsor subscription announced on 19 November 2024 at an issue price of S$2.090 per Unit;
+
+2. 180,562,518 new Units pursuant to the preferential offering announced on 22 September 2025 at an issue price of S$2.24 per Unit;
+
+3. 3,216,661 new Units to the Manager as payment of 100% of the base and performance fees in respect of Amsterdam Data Centre, Eindhoven Campus, Guangdong Data Centres 1, 2 and 3, London Data Centre and 98.47% effective interest in Tokyo Data Centre 1, 50% of the base and performance fees in respect of 99% interest in KDC SGP 5 and 50% of the base and performance fees in respect of 99.49% interest1 in KDC SGP 7 and KDC SGP 8 for the period from 1 October 2024 to 30 September 2025 at issue prices ranging from S$2.1452 - S$2.3744 per Unit; and;
+
+4. 7,208,911 new Units to the Manager as payment of 100% of the acquisition fee earned in respect of acquisition of 99.49% economic interest in KDC SGP 7 and KDC SGP 8 and 98.47% effective interest in Tokyo Data Centre 3, less Keppel DC REIT’s proportionate share of the Keppel Japan KK acquisition fee at issue prices S$2.1494 and S$2.3834 per unit respectively.
+
+> 1 In the case of KDC SGP 7 and KDC SGP 8, 50% of the base fees for the period from 3 September 2025 to 30 September 2025 were computed based on 100% interest as the acquisition of the remaining interests in KDC SGP 7 and KDC SGP 8 was completed on 3 September 2025.
+
+<!-- PAGE 191 -->
+
+# Statistics of Unitholdings
+
+As at 11 March 2026
+
+## ISSUED AND FULLY PAID UNITS
+
+2,444,525,568 Units (Voting rights: 1 vote per Unit)
+
+There is only one class of Units in Keppel DC REIT.
+
+Market capitalisation of S$5,549,073,039 based on market closing price of S$2.27 per Unit on 11 March 2026.
+
+## DISTRIBUTION OF UNITHOLDINGS
+
+<table>
+  <thead>
+    <tr>
+        <th>Size of Unitholdings</th>
+        <th>No. of Unitholders</th>
+        <th>%</th>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1 – 99</td>
+        <td>217</td>
+        <td>0.84</td>
+        <td>8,491</td>
+        <td>0.00</td>
+    </tr>
+    <tr>
+        <td>100 – 1,000</td>
+        <td>3,562</td>
+        <td>13.82</td>
+        <td>2,475,100</td>
+        <td>0.10</td>
+    </tr>
+    <tr>
+        <td>1,001 – 10,000</td>
+        <td>14,970</td>
+        <td>58.07</td>
+        <td>70,242,269</td>
+        <td>2.87</td>
+    </tr>
+    <tr>
+        <td>10,001 – 1,000,000</td>
+        <td>6,999</td>
+        <td>27.15</td>
+        <td>230,552,493</td>
+        <td>9.43</td>
+    </tr>
+    <tr>
+        <td>1,000,001 and above</td>
+        <td>32</td>
+        <td>0.12</td>
+        <td>2,141,247,215</td>
+        <td>87.60</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>25,780</strong></td>
+        <td><strong>100.00</strong></td>
+        <td><strong>2,444,525,568</strong></td>
+        <td><strong>100.00</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+## TWENTY LARGEST UNITHOLDERS
+
+<table>
+  <thead>
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1.</td>
+        <td>Citibank Nominees Singapore Pte Ltd</td>
+        <td>502,201,814</td>
+        <td>20.54</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Keppel DC Investment Holdings Pte. Ltd.</td>
+        <td>438,166,074</td>
+        <td>17.92</td>
+    </tr><tr>
+<td>3.</td>
+<td>DBS Nominees (Private) Limited</td>
+<td>324,679,154</td>
+<td>13.28</td>
+</tr><tr>
+<td>4.</td>
+<td>HSBC (Singapore) Nominees Pte Ltd</td>
+<td>257,179,711</td>
+<td>10.52</td>
+</tr><tr>
+<td>5.</td>
+<td>DBSN Services Pte. Ltd.</td>
+<td>178,254,166</td>
+<td>7.29</td>
+</tr><tr>
+<td>6.</td>
+<td>Raffles Nominees (Pte.) Limited</td>
+<td>154,386,366</td>
+<td>6.32</td>
+</tr><tr>
+<td>7.</td>
+<td>BPSS Nominees Singapore (Pte.) Ltd.</td>
+<td>70,629,147</td>
+<td>2.89</td>
+</tr><tr>
+<td>8.</td>
+<td>ABN AMRO Clearing Bank N.V.</td>
+<td>35,233,187</td>
+<td>1.44</td>
+</tr><tr>
+<td>9.</td>
+<td>Keppel DC REIT Management Pte. Ltd.</td>
+<td>33,817,673</td>
+<td>1.38</td>
+</tr><tr>
+<td>10.</td>
+<td>United Overseas Bank Nominees (Private) Limited</td>
+<td>20,469,207</td>
+<td>0.84</td>
+</tr><tr>
+<td>11.</td>
+<td>Phillip Securities Pte Ltd</td>
+<td>19,306,969</td>
+<td>0.79</td>
+</tr><tr>
+<td>12.</td>
+<td>iFast Financial Pte. Ltd.</td>
+<td>15,677,758</td>
+<td>0.64</td>
+</tr><tr>
+<td>13.</td>
+<td>OCBC Nominees Singapore Private Limited</td>
+<td>15,226,063</td>
+<td>0.62</td>
+</tr><tr>
+<td>14.</td>
+<td>Moomoo Financial Singapore Pte. Ltd.</td>
+<td>13,952,636</td>
+<td>0.57</td>
+</tr><tr>
+<td>15.</td>
+<td>OCBC Securities Private Limited</td>
+<td>10,978,216</td>
+<td>0.45</td>
+</tr><tr>
+<td>16.</td>
+<td>DB Nominees (Singapore) Pte Ltd</td>
+<td>8,723,456</td>
+<td>0.36</td>
+</tr><tr>
+<td>17.</td>
+<td>UOB Kay Hian Private Limited</td>
+<td>7,366,730</td>
+<td>0.30</td>
+</tr>
+    <tr>
+        <td>18.</td>
+        <td>Tiger Brokers (Singapore) Pte. Ltd.</td>
+        <td>6,287,364</td>
+        <td>0.26</td>
+    </tr>
+    <tr>
+        <td>19.</td>
+        <td>BNP Paribas Nominees Singapore Pte. Ltd.</td>
+        <td>4,551,321</td>
+        <td>0.19</td>
+    </tr>
+    <tr>
+        <td>20.</td>
+        <td>CGS International Securities Singapore Pte. Ltd.</td>
+        <td>2,878,036</td>
+        <td>0.12</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><strong>Total</strong></td>
+        <td><strong>2,119,965,084</strong></td>
+        <td><strong>86.72</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 192 -->
+
+# THE MANAGER’S DIRECTORS’ UNITHOLDINGS
+
+Based on the Register of Directors’ Unitholdings maintained by the Manager, as at 21 January 2026, the direct and deemed interests of each Director of Keppel DC REIT Management Pte. Ltd. in the Units in Keppel DC REIT are set out below. As at 21 January 2026, there are no convertible securities in Keppel DC REIT.
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of Director</th>
+        <th>No. of Units</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Ms Christina Tan</td>
+        <td>64,908 (Direct)</td>
+    </tr>
+    <tr>
+        <td>Mr Low Huan Ping</td>
+        <td>62,834 (Direct)</td>
+    </tr>
+    <tr>
+        <td>Ms Yeo Siew Eng</td>
+        <td>31,694 (Direct)</td>
+    </tr>
+    <tr>
+        <td>Mr Chua Soon Ghee</td>
+        <td>28,102 (Direct)</td>
+    </tr>
+    <tr>
+        <td>Mr Andrew Tan</td>
+        <td>15,200 (Direct)</td>
+    </tr>
+    <tr>
+        <td>Mr Thomas Pang</td>
+        <td>188,976 (Direct)</td>
+    </tr>
+  </tbody>
+</table>
+
+# SUBSTANTIAL UNITHOLDERS
+
+Based on the Register of Substantial Unitholders’ Unitholdings maintained by the Manager, as at 11 March 2026, the Substantial Unitholders of Keppel DC REIT and their interests in the Units in Keppel DC REIT are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Temasek Holdings (Private) Limited</td>
+        <td>518,697,306 (Deemed)¹</td>
+        <td>21.21</td>
+    </tr>
+    <tr>
+        <td>Keppel Ltd.</td>
+        <td>471,983,747 (Deemed)²</td>
+        <td>19.31</td>
+    </tr>
+    <tr>
+        <td>Keppel Management Ltd.</td>
+        <td>438,166,074 (Deemed)³</td>
+        <td>17.92</td>
+    </tr>
+    <tr>
+        <td>Keppel DC Investment Holdings Pte. Ltd.</td>
+        <td>438,166,074 (Direct)</td>
+        <td>17.92</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+\*1 Temasek Holdings (Private) Limited’s deemed interest arises from the deemed interest held by Keppel Ltd. and other subsidiaries and associated companies of Temasek Holdings (Private) Limited.
+
+\*2 Keppel Ltd.’s deemed interest arises from its shareholdings in (i) Keppel DC Investment Holdings Pte. Ltd., a wholly-owned subsidiary of Keppel Management Ltd., which is in turn a subsidiary of Keppel Ltd. and (ii) Keppel DC REIT Management Pte. Ltd., a wholly-owned subsidiary of Keppel Capital Holdings Pte. Ltd., which is in turn a subsidiary of Keppel Ltd.
+
+\*3 Keppel Management Ltd.’s deemed interest arises from its shareholding in Keppel DC Investment Holdings Pte. Ltd., a wholly-owned subsidiary of Keppel Management Ltd.
+
+# PUBLIC UNITHOLDERS
+
+Based on the information available to the Manager as at 11 March 2026, approximately 78.75% of the issued Units in Keppel DC REIT are held by the public and therefore, pursuant to Rules 1207 and 723 of the Listing Manual of the Singapore Exchange Securities Trading Limited, it is confirmed that at least 10% of the issued Units in Keppel DC REIT are at all times held by the public.
+
+# TREASURY UNITS
+
+As at 11 March 2026, there are no treasury units held by Keppel DC REIT or the Manager.
+
+<!-- PAGE 193 -->
+
+# Financial Calendar
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Financial Year Ended 31 December 2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Annual General Meeting</td>
+        <td>15 April 2025</td>
+    </tr>
+    <tr>
+        <td>First Quarter 2025 Key Business and Operational Updates</td>
+        <td>17 April 2025</td>
+    </tr>
+    <tr>
+        <td>First Half 2025 Results Announcement</td>
+        <td>25 July 2025</td>
+    </tr>
+    <tr>
+        <td>Distribution for 1 January 2025 to 30 June 2025</td>
+        <td>15 September 2025</td>
+    </tr>
+    <tr>
+        <td>Third Quarter 2025 Key Business and Operational Updates</td>
+        <td>24 October 2025</td>
+    </tr>
+    <tr>
+        <td>Full Year 2025 Results Announcement</td>
+        <td>30 January 2026</td>
+    </tr>
+    <tr>
+        <td>Distribution for 1 July 2025 to 31 December 2025</td>
+        <td>19 March 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 194 -->
+
+# Notice of Annual General Meeting
+
+Keppel DC REIT logo
+
+(Constituted in the Republic of Singapore pursuant to a trust deed dated 17 March 2011 (as amended))
+
+NOTICE IS HEREBY GIVEN that the Annual General Meeting (the “AGM”) of the holders of units of Keppel DC REIT (the “Unitholders”) will be convened and held at Marina Bay Sands Expo and Convention Centre, Level 4, Melati Ballroom, 10 Bayfront Ave, Singapore 018956 (see Explanatory Notes 1 to 11) on Thursday, 30 April 2026 at 3.00 p.m. (Singapore time) to transact the following business:
+
+## A. AS ORDINARY BUSINESS
+
+1 To receive and adopt the Report of Perpetual (Asia) Limited, as trustee of Keppel DC REIT (the “Trustee”), the Statement by Keppel DC REIT Management Pte. Ltd., as manager of Keppel DC REIT (the “Manager”), and the Audited Financial Statements of Keppel DC REIT for the financial year ended 31 December 2025 and the Auditor’s Report thereon.
+**Ordinary Resolution 1**
+
+2. To re-appoint Messrs PricewaterhouseCoopers LLP as the Auditor of Keppel DC REIT to hold office until the conclusion of the next AGM of Keppel DC REIT, and to authorise the Manager to fix their remuneration.
+**Ordinary Resolution 2**
+
+3. To re-endorse the appointments of the following directors of the Manager (“Directors”), pursuant to the undertaking dated 1 July 2016 provided by Keppel Capital Holdings Pte. Ltd. (“Keppel Capital”) to the Trustee:
+
+a. Ms Christina Tan; and
+**Ordinary Resolution 3**
+
+b. Ms Yeo Siew Eng.
+**Ordinary Resolution 4**
+
+(Please see Explanatory Note 10)
+
+## B. AS SPECIAL BUSINESS
+
+To consider, and, if thought fit, to pass with or without any modifications, the following resolutions:
+
+4. That authority be and is hereby given to the Manager to:
+**Ordinary Resolution 5**
+
+a. i. issue units in Keppel DC REIT (“Units”) whether by way of rights, bonus or otherwise, and including any capitalisation of any sum for the time being standing to the credit of any of Keppel DC REIT’s reserve accounts or any sum standing to the credit of the profit or loss account or otherwise available for distribution; and/or
+
+ii. make or grant offers, agreements or options (collectively, “Instruments”) that would or might require Units to be issued, including but not limited to the creation and issue of (as well as adjustments to) options, securities, warrants, debentures or other instruments convertible into Units,
+
+at any time and upon such terms and conditions and for such purposes and to such persons as the Manager may in its absolute discretion deem fit; and
+
+b. (notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time such Units are issued) issue Units in pursuance of any Instrument made or granted by the Manager while this Resolution was in force,
+
+provided that:
+
+1. the aggregate number of Units to be issued pursuant to this Resolution (including Units to be issued in pursuance of Instruments made or granted pursuant to this Resolution and any adjustment effected under any relevant Instrument) shall not exceed fifty per cent. (50%) of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) in each class (as calculated in accordance with sub-paragraph (2) below), of which the aggregate number of Units to be issued other than on a pro rata basis to Unitholders (including Units to be issued in pursuance of Instruments made or granted pursuant to this Resolution and any adjustment effected under any relevant Instrument) shall not exceed twenty per cent. (20%) of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) in each class (as calculated in accordance with sub-paragraph (2) below);
+
+<!-- PAGE 195 -->
+
+# Notice of Annual General Meeting
+
+2. subject to such manner of calculation as may be prescribed by Singapore Exchange Securities Trading Limited (the "**SGX-ST**") for the purpose of determining the aggregate number of Units that may be issued under sub-paragraph (1) above, the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) shall be calculated based on the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) at the time this Resolution is passed, after adjusting for:
+
+a. any new Units arising from the conversion or exercise of any Instruments which were issued and are outstanding or subsisting at the time this Resolution is passed; and
+
+b. any subsequent bonus issue, consolidation or subdivision of Units;
+
+3. in exercising the authority conferred by this Resolution, the Manager shall comply with the provisions of the Listing Manual of the SGX-ST for the time being in force (the "**Listing Manual**") (unless such compliance has been waived by the SGX-ST) and the trust deed dated 17 March 2011 constituting Keppel DC REIT (as amended) (the "**Trust Deed**") (unless otherwise exempted or waived by the Monetary Authority of Singapore);
+
+4. (unless revoked or varied by the Unitholders in a general meeting) the authority conferred by this Resolution shall continue in force until (i) the conclusion of the next AGM of Keppel DC REIT or (ii) the date by which the next AGM of Keppel DC REIT is required by applicable law or regulations to be held, whichever is earlier;
+
+5. where the terms of the issue of the Instruments provide for adjustment to the number of Instruments or Units into which the Instruments may be converted in the event of rights, bonus or other capitalisation issues or any other events, the Manager is authorised to issue additional Instruments or Units pursuant to such adjustment, notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time the Instruments or Units are issued; and
+
+6. the Manager and the Trustee be and are hereby severally authorised to complete and do all such acts and things (including executing, as the case may be, all such documents as may be required) as the Manager or, as the case may be, the Trustee may consider necessary, expedient, incidental or in the interest of Keppel DC REIT to give effect to the authority conferred by this Resolution.
+
+(Please see Explanatory Note 11)
+
+## C. AS OTHER BUSINESS
+
+5. To transact such other business as may be transacted at an AGM of Keppel DC REIT.
+
+Unitholders are invited to send in their questions relating to the resolutions above to the Manager by 3.00 p.m. on 15 April 2026. Please see Explanatory Note 7 of this Notice of AGM on how Unitholders may submit their questions.
+
+**BY ORDER OF THE BOARD**
+**Keppel DC REIT Management Pte. Ltd.**
+(UEN 199508930C)
+As Manager of Keppel DC REIT
+
+signature: Chiam Yee Sheng
+
+signature: Darren Tan
+
+**Chiam Yee Sheng/Darren Tan**
+Company Secretaries
+
+Singapore, 7 April 2026
+
+<!-- PAGE 196 -->
+
+## Notes:
+
+1. The AGM is being convened and will be held in a wholly physical format, at Marina Bay Sands Expo and Convention Centre, Level 4, Melati Ballroom, 10 Bayfront Ave, Singapore 018956, on Thursday, 30 April 2026 at 3.00 p.m.. There will be no option for Unitholders to participate virtually. In addition to printed copies of the Notice of AGM and the accompanying Proxy Form that will be sent to Unitholders, this Notice of AGM and the accompanying Proxy Form will also be sent to Unitholders by electronic means via publication on Keppel DC REIT’s website at https://www.keppeldcreit.com/en/investor-relations/agmegm-information/ and SGXNet. Unitholders should check Keppel DC REIT’s website and/or SGXNet for the latest updates.
+
+Unitholders need to register personally at the registration counter(s) outside the AGM venue on the date of the event, and should bring along their NRIC/passport to enable verification of their identity for entry to, and (where applicable) be provided with a handheld device for electronic voting.
+
+A Depositor (as defined in Section 81SF of the Securities and Futures Act 2001 of Singapore) shall not be regarded as a Unitholder of Keppel DC REIT entitled to attend the AGM and to speak and vote thereat unless his name appears on the Depository Register at least 72 hours before the AGM. Depositors who are individuals and who wish to attend the AGM in person can attend and vote at the AGM without the lodgement of any Proxy Forms.
+
+2. Investors holding Units through relevant intermediaries (“Investors”) (other than investors holding Units through the Central Provident Fund (“CPF”) or Supplementary Retirement Scheme (“SRS”) (“CPF/SRS investors”)) and who wish to participate in the AGM by (i) attending the AGM in person; (ii) submitting questions to the Manager in advance of, or at, the AGM; and/or (iii) voting at the AGM (A) themselves; or (B) by appointing the Chairman as proxy in respect of the Units held by such relevant intermediary on their behalf, should contact the relevant intermediary through which they hold such Units as soon as possible in order for the necessary arrangements to be made for their participation in the AGM.
+
+In this Notice of AGM, a “relevant intermediary” means:
+
+a. a banking corporation licensed under the Banking Act 1970, or a wholly-owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds Units in that capacity;
+
+b. a person holding a capital markets services licence to provide custodial services for securities under the Securities and Futures Act 2001, and who holds Units in that capacity; or
+
+c. the Central Provident Fund Board (“CPF Board”) established by the Central Provident Fund Act 1953, in respect of Units purchased under the subsidiary legislation made under that Act providing for the making of investments from the contributions and interest standing to the credit of members of the CPF, if the CPF Board holds those Units in the capacity of an intermediary pursuant to or in accordance with that subsidiary legislation.
+
+3. Arrangements relating to:
+
+a. attendance at the AGM by Unitholders, including CPF and SRS investors;
+
+b. submission of questions to the Manager in advance of, or at, the AGM, and addressing of substantial and relevant questions in advance of, or at, the AGM; and
+
+c. voting at the AGM by Unitholders, including CPF and SRS investors, or (where applicable) their duly appointed proxy,
+
+are set out in the accompanying announcement dated 7 April 2026. This announcement may be accessed at Keppel DC REIT’s website at https://www.keppeldcreit. com/en/investor-relations/agmegm-information/ and SGXNet.
+
+4. A proxy need not be a Unitholder. A Unitholder can appoint the Chairman as his/her/its proxy, but this is not mandatory.
+
+The instrument for the appointment of proxy (“Proxy Form”) will be sent to Unitholders and may be accessed at Keppel DC REIT’s website at https://www.keppeldcreit. com/en/investor-relations/agmegm-information/ and SGXNet. Where a Unitholder (whether individual or corporate) appoints the Chairman as his/her/its proxy, he/ she/it must give specific instructions as to voting, or abstentions from voting, in respect of a resolution in the Proxy Form, failing which the appointment of the Chairman as proxy for that resolution will be treated as invalid.
+
+A Unitholder who is not a relevant intermediary is entitled to appoint not more than two proxies. A Unitholder who is a relevant intermediary may appoint more than two proxies to exercise all or any of its rights to attend, speak and vote at the AGM. In any case where a Unitholder appoints more than one proxy, the proportion of the holding of Units concerned to be represented by each proxy shall be specified in the Proxy Form.
+
+## 5. The Proxy Form must be submitted in the following manner:
+
+a. if submitted by post, be lodged with the Unit Registrar, Boardroom Corporate & Advisory Services Pte. Ltd., at 1 HarbourFront Avenue, #14-07 Keppel Bay Tower, Singapore 098632; or
+
+b. if submitted electronically, be submitted via email to srs.proxy@boardroomlimited.com,
+
+in either case, by 3.00 p.m. on 27 April 2026, being 72 hours before the time appointed for holding the AGM.
+
+A Unitholder who wishes to submit the Proxy Form must complete and sign the Proxy Form, before submitting it by post to the address provided above, or before scanning and sending it by email to the email address provided above.
+
+6. The Proxy Form is not valid for use by Investors (including CPF/SRS investors) and shall be ineffective for all intents and purposes if used or purported to be used by them.
+
+CPF/SRS investors may appoint Chairman as proxy to vote on his/her behalf at the AGM, in which case he/she should approach his/her respective CPF bank or SRS operator to specify his/her voting instructions by 5.00 p.m. on 20 April 2026, being 7 working days before the date of the AGM.
+
+An Investor (other than CPF/SRS investors) who wishes to vote should instead approach his/her/its relevant intermediary as soon as possible, and by no later than 5.00 p.m. on 20 April 2026 to specify his/her/its voting instructions, including but not limited to, whether he/she/it wishes to vote at the AGM.
+
+## 7. All Unitholders and Investors may also submit questions relating to the business of the AGM no later than 3.00 p.m. on 15 April 2026:
+
+a. by email to investor.relations@keppeldcreit.com; or
+
+b. by post to the Unit Registrar, Boardroom Corporate & Advisory Services Pte. Ltd., at 1 HarbourFront Avenue, #14-07 Keppel Bay Tower, Singapore 098632.
+
+The Manager will endeavour to answer all substantial and relevant questions prior to 3.00 p.m. on 25 April 2026 through the publication of its responses on Keppel DC REIT’s website and on SGXNet.
+
+8. All documents (including Keppel DC REIT’s Annual Report 2025, the Proxy Form and this Notice of AGM) and information relating to the business of this AGM have been, or will be, published on SGXNet and Keppel DC REIT’s website at https://www.keppeldcreit.com/en/investor-relations/agmegm-information/. Printed copies of Keppel DC REIT’s Annual Report 2025 will not be despatched to Unitholders. Unitholders and Investors are advised to check SGXNet and/or Keppel DC REIT’s website regularly for updates.
+
+9. Any reference to a time of day is made by reference to Singapore time.
+
+<!-- PAGE 197 -->
+
+# Notice of Annual General Meeting
+
+## 10. Ordinary Resolutions 3 and 4
+
+Keppel Capital had on 1 July 2016 provided an undertaking (the "**Undertaking**") to the Trustee:
+
+* to procure the Manager to seek Unitholders’ re-endorsement for the appointment of each Director no later than every third AGM of Keppel DC REIT after the relevant general meeting at which such Director’s appointment was last endorsed or re-endorsed, as the case may be;
+
+* (where a person is appointed as Director, either to fill a vacancy or as an addition to the existing Directors, at any time) to procure the Manager to seek Unitholders’ endorsement for his appointment as a Director at the next AGM of Keppel DC REIT immediately following his appointment; and
+
+* to procure any person whose appointment as a Director has not been endorsed or re-endorsed (as the case may be) by the Unitholders at the relevant general meeting of Keppel DC REIT where the endorsement or re-endorsement (as the case may be) for his/her appointment was sought, to resign or otherwise be removed from the Board of Directors of the Manager either (i) within 21 days from the date of the relevant general meeting or (ii) in the event that the Board of Directors of the Manager determines that a replacement Director has to be appointed, no later than the date when such replacement Director is appointed, and the regulatory approval for such appointment (if any) has been obtained.
+
+The endorsement or re-endorsement from Unitholders of any appointment of any person as a Director shall be by way of an ordinary resolution passed at the relevant general meeting. The Undertaking shall not restrict the Manager or Keppel Capital from appointing any Director from time to time in accordance with applicable laws and regulations (including any applicable rule of the SGX-ST) and the Constitution of the Manager.
+
+The Undertaking shall remain in force for so long as:
+
+* Keppel Capital continues to hold shares in the Manager; and
+
+* Keppel DC REIT Management Pte. Ltd. remains as the manager of Keppel DC REIT.
+
+As the appointments of Ms Christina Tan and Ms Yeo Siew Eng were last endorsed by Unitholders on 19 April 2023, the Manager is seeking the re-endorsement of the appointments of Ms Christina Tan and Ms Yeo Siew Eng at this AGM. Pursuant to the re-endorsements and in light of Mr Chua Soon Ghee ceasing to be a director since 16 March 2026, the Board will comprise of a majority of independent directors (being Mr Low Huan Ping, Ms Yeo Siew Eng, and Mr Andrew Tan), with Mr Low Huan Ping as the Lead Independent Director.
+
+Detailed information on Ms Christina Tan and Ms Yeo Siew Eng, including their current directorships in other listed companies and details of other principal commitments, can be found in the “Board of Directors” section in Keppel DC REIT’s Annual Report 2025.
+
+Ms Christina Tan will, upon re-endorsement, continue to serve as the Chairman of the Board and member of the Nominating and Remuneration Committee. Ms Yeo Siew Eng will, upon re-endorsement, continue to serve as an Independent Director and Chairman of the Audit and Risk Committee.
+
+## 11. Ordinary Resolution 5
+
+Ordinary Resolution 5 above, if passed, will empower the Manager from the date of this AGM until (i) the conclusion of the next AGM of Keppel DC REIT; (ii) the date on which the next AGM of Keppel DC REIT is required by applicable law or regulations to be held, or (iii) the date on which such authority is revoked or varied by the Unitholders in a general meeting, whichever is the earliest (the "**Mandated Period**"), to issue Units, to make or grant Instruments and to issue Units pursuant to such Instruments, up to a number not exceeding 50% of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) in each class, of which up to 20% may be issued other than on a pro rata basis to Unitholders.
+
+Ordinary Resolution 5 above, if passed, will empower the Manager to issue Units, during the Mandated Period, as either full or partial payment of fees which the Manager is entitled to receive for its own account pursuant to the Trust Deed.
+
+For determining the aggregate number of Units that may be issued, the percentage of issued Units (excluding treasury Units and subsidiary holdings, if any) will be calculated based on the total number of issued Units at the time Ordinary Resolution 5 above is passed, after adjusting for new Units arising from the conversion or exercise of any Instrument which were issued and are outstanding or subsisting at the time Ordinary Resolution 5 is passed and any subsequent bonus issue, consolidation or subdivision of Units.
+
+Fund raising by issuance of new Units may be required in instances of property acquisitions or debt repayments. In any event, if the approval of Unitholders is required under the Listing Manual, the Trust Deed or any applicable laws and regulations, the Manager will then obtain the approval of Unitholders accordingly.
+
+**Personal Data Privacy:**
+
+By (i) submitting any question prior to or at the AGM; and/or (ii) submitting a proxy form appointing a proxy(ies) and/or a representative(s) to attend, speak and vote at the AGM and/or any adjournment thereof, a Unitholder (A) consents to the collection, use and disclosure of the Unitholder’s personal data by the Manager and the Trustee (or their agents or service providers) for the purpose of the processing, administration and analysis by the Manager and the Trustee (or their agents or service providers) of proxies and representatives appointed for the AGM (including any adjournment thereof) and the preparation and compilation of the attendance lists, minutes and other documents relating to the AGM (including any adjournment thereof), and in order for the Manager and the Trustee (or their agents or service providers) to comply with any applicable laws, listing rules, takeover rules, regulations and/or guidelines (collectively, the “Purposes”), (B) warrants that where the Unitholder discloses the personal data of the Unitholder’s proxy(ies) and/or representative(s) to the Manager and the Trustee (or its agents or service providers), the Unitholder has obtained the prior consent of such proxy(ies) and/or representative(s) for the collection, use and disclosure by the Manager and the Trustee (or its agents or service providers) of the personal data of such proxy(ies) and/or representative(s) for the Purposes, and (C) agrees to provide the Manager and the Trustee with written evidence of such prior consent upon reasonable request.
+
+<!-- PAGE 198 -->
+
+# Proxy Form
+
+# Keppel DC REIT
+
+(Constituted in the Republic of Singapore pursuant to a trust deed dated 17 March 2011 (as amended))
+
+> **IMPORTANT**
+> 1. The AGM (as defined below) will be held in a wholly physical format, at Marina Bay Sands Expo and Convention Centre, Level 4, Melati Ballroom, 10 Bayfront Ave, Singapore 018956, on Thursday, 30 April 2026 at 3.00 p.m. **There will be no option for Unitholders to participate virtually.** In addition to printed copies of the Notice of AGM and this Proxy Form that will be sent to unitholders of Keppel DC REIT ("Unitholders"), Unitholders can also access the Notice of AGM and this Proxy Form on Keppel DC REIT's website at **https://www.keppeldcreit.com/en/investor-relations/agmegm-information/** and SGXNet.
+> 2. Arrangements relating to attendance at the AGM by Unitholders (including investors holding Units through Central Provident Fund ("**CPF**") or Supplementary Retirement Scheme ("**SRS**") ("**CPF/SRS investors**")), submission of questions to the Manager in advance of, or at, the AGM, addressing of substantial and relevant questions in advance of, or at the AGM, and voting at the AGM by Unitholders (including CPF/SRS investors) or, where applicable, by appointing a proxy to vote on his/her/its behalf at the AGM, are set out in the Notice of AGM and the accompanying announcement dated 7 April 2026. This announcement may be accessed at Keppel DC REIT's website at https://www.keppeldcreit.com/en/investor-relations/agmegm-information/ and SGXNet.
+> 3. This Proxy Form is not valid for use by investors holding units in Keppel DC REIT ("Units") through relevant intermediaries ("Investors") (including CPF/SRS investors) and shall be ineffective for all intents and purposes if used or purported to be used by them. Such Investors (including CPF/SRS investors) should refer instead to the instructions set out in the Notice of AGM and the accompanying announcement dated 7 April 2026. An Investor (other than a CPF/SRS investor) who wishes to vote should instead approach his/her/its relevant intermediary as soon as possible, and no later than 5.00 p.m. on 20 April 2026 to make the necessary arrangements.
+> 4. **Personal Data Privacy:** By submitting this Proxy Form, a Unitholder accepts and agrees to the personal data terms set out in the Notice of AGM dated 7 April 2026.
+> 5. **Please read the notes overleaf which contain instructions on, inter alia, the appointment of proxies to vote on his/her/its behalf at the AGM.**
+
+## ANNUAL GENERAL MEETING
+
+**I/We**      (Name(s))
+     (NRIC/Passport/Company Registration Number(s)) of
+     (Address)
+
+being a Unitholder/Unitholders of Keppel DC REIT, hereby appoint:
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="2">Name</th>
+        <th rowspan="2">Address</th>
+        <th rowspan="2">NRIC/ Passport Number</th>
+        <th colspan="2">Proportion of Unitholdings</th>
+    </tr>
+    <tr>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+and/or (delete as appropriate)
+
+
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="2">Name</th>
+        <th rowspan="2">Address</th>
+        <th rowspan="2">NRIC/ Passport Number</th>
+        <th colspan="2">Proportion of Unitholdings</th>
+    </tr>
+    <tr>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+or failing him/her, or if no persons are named above, the Chairman of the Annual General Meeting (the "**Chairman**"), as my/our proxy/proxies to attend, speak and vote on my/our behalf at the Annual General Meeting of Keppel DC REIT ("**AGM**") to be convened and held at Marina Bay Sands Expo and Convention Centre, Level 4, Melati Ballroom, 10 Bayfront Ave, Singapore 018956, on Thursday, 30 April 2026 at 3.00 p.m. and at any adjournment thereof. I/We direct my/our proxy/proxies to vote or abstain from voting on the resolutions to be proposed at the AGM as indicated hereunder. If no specific direction as to voting is given, the proxy/proxies (other than the Chairman) will vote or abstain from voting at his/her/their discretion, as he/she/they may determine on any other matter arising at the AGM. In the absence of specific directions in respect of a resolution, any appointment of the Chairman as your proxy for that resolution will be treated as invalid.
+
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Resolution</th>
+      <th>For*</th>
+      <th>Against*</th>
+      <th>Abstain*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5">Ordinary Business</td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>To receive and adopt the Trustee’s Report, the Manager’s Statement, the 
+Audited Financial Statements of Keppel DC REIT for the financial year ended 
+31 December 2025 and the Auditor’s Report thereon.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>To re-appoint Messrs PricewaterhouseCoopers LLP as the Auditor of Keppel 
+DC REIT and authorise the Manager to fix the Auditor’s remuneration.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>To re-endorse the appointment of Ms Christina Tan as Director.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>To re-endorse the appointment of Ms Yeo Siew Eng as Director.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="5">Special Business</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>To authorise the Manager to issue Units and to make or grant 
+convertible instruments.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+\* If you wish to exercise all your votes "For" or "Against" the relevant resolution, please mark with an "X" within the relevant box provided. Alternatively, if you wish to exercise your votes for both "For" and "Against" the relevant resolution, please indicate the number of Units in the boxes provided. If you wish to abstain from voting on a resolution, please mark with an "X" within the relevant box provided. Alternatively, please indicate the number of Units which you wish to abstain from voting in the box provided.
+
+Dated this      day of      2026
+
+<table>
+    <tr>
+        <th>Total Number of Units Held</th>
+        <th>    </th>
+    </tr>
+</table>
+
+Signature(s) of Unitholder(s)/Common Seal of Corporate Unitholder
+
+**IMPORTANT: Please read the notes overleaf before completing this Proxy Form**
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Resolution</th>
+      <th>For*</th>
+      <th>Against*</th>
+      <th>Abstain*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5">Ordinary Business</td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>To receive and adopt the Trustee’s Report, the Manager’s Statement, the 
+Audited Financial Statements of Keppel DC REIT for the financial year ended 
+31 December 2025 and the Auditor’s Report thereon.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>To re-appoint Messrs PricewaterhouseCoopers LLP as the Auditor of Keppel 
+DC REIT and authorise the Manager to fix the Auditor’s remuneration.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>To re-endorse the appointment of Ms Christina Tan as Director.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>To re-endorse the appointment of Ms Yeo Siew Eng as Director.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="5">Special Business</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>To authorise the Manager to issue Units and to make or grant 
+convertible instruments.</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 199 -->
+
+**Notes to the Proxy Form:**
+
+1. A Unitholder should insert the total number of Units held in the Proxy Form. If the Unitholder has Units entered against his/her/its name in the Depository Register (as defined in Section 81SF of the Securities and Futures Act 2001 and maintained by The Central Depository (Pte) Limited ("CDP")), he/she/it should insert that number of Units. If the Unitholder has Units registered in his/her/its name in the Register of Unitholders of Keppel DC REIT, he/she/it should insert that number of Units. If the Unitholder has Units entered against his/her/its name in the said Depository Register and registered in his/her/its name in the Register of Unitholders, he/she/it should insert the aggregate number of Units. If no number is inserted, this Proxy Form will be deemed to relate to all the Units held by the Unitholder.
+
+2. A proxy need not be a Unitholder. A Unitholder can appoint the Chairman as his/her/its proxy. Where a Unitholder (whether individual or corporate) appoints the Chairman as his/her/its proxy, he/she/it must give specific instructions as to voting, or abstentions from voting, in respect of a resolution in the Proxy Form, failing which the appointment of the Chairman as proxy for that resolution will be treated as invalid.
+
+3. The Proxy Form is not valid for use by Investors (including CPF/SRS investors) and shall be ineffective for all intents and purposes if used or purported to be used by them. CPF/SRS investors may appoint the Chairman as proxy to vote on his/her/its behalf at the AGM, in which case he/she/it should approach his/her/its respective CPF bank or SRS operator to specify his/her/its voting instructions by 5.00 p.m. on 20 April 2026, being 7 working days before the date of the AGM. An Investor (other than CPF/SRS investors) who wishes to vote should instead approach his/her/its relevant intermediary as soon as possible, and by no later than 5.00 p.m. on 20 April 2026 to specify his/her/its voting instructions, including but not limited to, whether he/she/it wishes to vote at the AGM.
+
+4. The Proxy Form must be submitted in the following manner:
+
+a if submitted by post, be lodged with the Unit Registrar, Boardroom Corporate & Advisory Services Pte. Ltd., at 1 HarbourFront Avenue, #14-07 Keppel Bay Tower, Singapore 098632; or
+
+b. if submitted electronically, be submitted via email to srs.proxy@boardroomlimited.com,
+
+in either case, by **3.00 p.m.** on **27 April 2026**, being **72 hours before the time appointed for holding the AGM**.
+
+Fold along this line (1)
+
+Keppel DC REIT logo
+Postage will be paid by addressee. For posting in Singapore only.
+
+**BUSINESS REPLY SERVICE**
+**PERMIT No. 09289**
+
+Barcode
+
+**Keppel DC REIT Management Pte. Ltd.**
+(as manager of Keppel DC REIT)
+c/o Boardroom Corporate & Advisory Services Pte. Ltd.
+1 HarbourFront Avenue
+#14-07 Keppel Bay Tower
+Singapore 098632
+
+Fold along this line (2)
+
+5. A Unitholder who wishes to submit the Proxy Form must complete and sign the Proxy Form, before submitting it by post to the address provided above, or before scanning and sending it by email to the email address provided above.
+
+6. Completion and return of the Proxy Form shall not preclude a Unitholder from attending and voting at the AGM. Any appointment of a proxy shall be deemed to be revoked if a Unitholder attends the AGM.
+
+7. The Proxy Form shall be in writing, under the hand of the appointor or of his/her/its attorney duly authorised in writing or if the appointor is a corporation either under the common seal or under the hand of an officer or attorney so authorised. The Manager and the Trustee shall have the right to reject a Proxy Form which has not been properly completed. In determining the rights to vote and other matters in respect of a completed Proxy Form submitted to it, the Manager and the Trustee shall have regard to any instructions and/or notes set out in the Proxy Form.
+
+8. Where the Proxy Form is signed on behalf of the appointor by an attorney or a duly authorised officer, the power of attorney or other authority (if any) under which it is signed, or a notarially certified copy of such power or authority must (failing previous registration with the Manager) be lodged with the Proxy Form, failing which the Proxy Form may be treated as invalid.
+
+9. The Proxy Form and the power of attorney or other authority (if any) under which it is signed or a notarially certified copy of such power or authority shall be deposited at such place as the Manager may in the notice convening the meeting direct, or if no such place is appointed, then at the registered office of the Manager not less than 72 hours before the time appointed for holding the meeting or adjourned meeting (or in the case of a poll before the time appointed for the taking of the poll) at which the person named in the Proxy Form proposes to vote and in default the Proxy Form shall not be treated as valid. No Proxy Form shall be valid after the expiration of 12 months from the date named in it as the date of its execution.
+
+10. Any reference to a time of day is made by reference to Singapore time.
+
+**General:**
+
+The Manager and the Trustee shall be entitled to reject the Proxy Form if it is incomplete, improperly completed or illegible or where the true intentions of the appointor are not ascertainable from the instructions of the appointor specified in the Proxy Form. In addition, in the case of Units entered in the Depository Register, the Manager may reject any Proxy Form if the Unitholder, being the appointor, is not shown to have Units entered against his/her/its name in the Depository Register as at 72 hours before the time appointed for holding the AGM, as certified by the CDP to the Manager.
+
+<!-- PAGE 200 -->
+
+**Keppel DC REIT Management Pte. Ltd.**
+
+1 HarbourFront Avenue
+Level 2 Keppel Bay Tower
+Singapore 098632
+
+Tel: (65) 6803 1818
+Fax: (65) 6251 4710
+www.keppeldcreit.com
+
+UEN 199508930C
