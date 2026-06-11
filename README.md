@@ -11,9 +11,13 @@ financial data layer.
 |---|---|
 | 1. Catalog annual report links (39 trusts, FY2023–FY2025) | ✅ done |
 | 2. Download PDFs (~101 of 117 slots; rest unpublished/manual) | ✅ done |
-| 3. Parse sample with LlamaParse agentic tier | ✅ 5 of 7 (credits exhausted) |
+| 3. Parse sample with LlamaParse agentic tier | ✅ 22 reports (20 usable ARs) |
 | 4. Extractability analysis + schema design | ✅ done |
-| 5. Structured extraction (LlamaExtract) → DB load | ⬜ next |
+| 5. Schema review feedback → evidence-based reflection | ✅ done (`feedback_reflection.md`) |
+| 6. Synthesized production schema v2 | ✅ done (`sgx_reit_schema_v2.md`) |
+| 7. Adversarial validation round (6 stress-test trusts) | ✅ passed — see schema doc §10 |
+| 8. Ingestion plan (parse routing + extraction + validation) | ✅ done (`ingestion_plan.md`) |
+| 9. Bake-off → extraction pilot → DB load | ⬜ next |
 
 ## Repository layout
 
@@ -35,10 +39,19 @@ parsed_reports/_inventories.md            Per-report data inventories with page 
 schema_analysis.md                        Cross-report commonality matrix + generic schema design
 reit_schema_proposal.md                   Review of draft workbook + sgx_reit_* production
                                           schema proposal (aligned with prod sgx_* conventions)
+feedback_reflection.md                    Response to schema review feedback, validated against
+                                          9 parsed ARs (terminology aliases, tenant-mix scopes,
+                                          GRI vs NPI boundary, standardized-metric strategy)
+sgx_reit_schema_v2.md                     FINAL synthesized schema: 14-report evidence + draft
+                                          workbook + feedback + v1 proposal + prod conventions
+                                          (+ §10 adversarial validation on 6 more trusts)
+ingestion_plan.md                         Production parsing/extraction plan: free local pass +
+                                          section routing + premium parse on hard pages only +
+                                          batch structured extraction + validation invariants
 REITS db.xlsx                             Colleague's draft data schema (reference)
 ```
 
-## Parsed sample (all FY2025, stratified by sector/structure)
+## Parsed sample (stratified by sector/structure/currency)
 
 | Trust | Sector | Pages |
 |---|---|---|
@@ -47,8 +60,26 @@ REITS db.xlsx                             Colleague's draft data schema (referen
 | Mapletree Logistics Trust (M44U) | Logistics, March FYE | 235 |
 | First REIT (AW9U) | Healthcare | 208 |
 | Far East Hospitality Trust (Q5T) | Hospitality, stapled trust | 251 |
+| CapitaLand Ascendas REIT (A17U) | Industrial / business space | 212 |
+| Frasers Centrepoint Trust (J69U) | Suburban retail, Sept FYE | 222 |
+| KORE US REIT (CMOU) | US office, USD | 163 |
+| Stoneweg Europe Stapled Trust (SET) | European logistics/office, EUR | 404 |
+| Sasseur REIT (CRPU) FY2024 | ⚠ mis-catalogued: sustainability report only | 40 |
+| Sasseur REIT (CRPU) FY2023 | China outlet malls, EMA income model | 228 |
+| CapitaLand China Trust (AU8U) | China retail/business parks, RMB | 180 |
+| Keppel REIT (K71U) | Prime office, JV-heavy (attributable basis) | 228 |
+| Elite UK REIT (MXNU) | UK gov-tenanted, GBP, FRI leases | 192 |
+| CapitaLand Ascott Trust (HMN) | Global lodging, 3 contract types | 297 |
+| Centurion Accommodation REIT (8C8U) | Worker/student dorms, IPO stub period | 83 |
+| CapitaLand India Trust (CY6U) | India business trust, INR, dev pipeline | 216 |
+| Daiwa House Logistics Trust (DHLU) | Japan logistics, JPY, TMK structures | 216 |
+| Digital Core REIT (DCRU) | US/DE/JP data centres, USD, partial stakes | 220 |
+| Manulife US REIT (BTOU) | Distressed US office, restructuring | 152 |
+| Suntec REIT (T82U) | SG diversified + convention centre, JVs | 199 |
+| United Hampshire US REIT (ODBU) | US grocery retail + self-storage, USD | 220 |
 
-Stoneweg Europe (EUR) and KORE US (USD) were planned but blocked on LlamaCloud plan credits.
+Note: the catalogued Sasseur FY2024 "AR" link is actually its sustainability report; the FY2023
+AR (parsed above) covers the Entrusted Management Agreement income model instead.
 
 ## Key findings (detail in `schema_analysis.md`)
 
