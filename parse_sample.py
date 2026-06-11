@@ -27,7 +27,22 @@ SAMPLE = [
     "17_AW9U.SI_First-REIT_FY2025.pdf",
     "16_Q5T.SI_Far-East-Hospitality-Trust_FY2025.pdf",
     "36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2025.pdf",
-    "22_CMOU.SI_KORE-US-REIT_FY2024.pdf",
+    "22_CMOU.SI_KORE-US-REIT_FY2025.pdf",
+    "05_A17U.SI_CapitaLand-Ascendas-REIT_FY2025.pdf",
+    "18_J69U.SI_Frasers-Centrepoint-Trust_FY2025.pdf",
+    "34_CRPU.SI_Sasseur-REIT_FY2024.pdf",
+    "34_CRPU.SI_Sasseur-REIT_FY2023.pdf",
+    "07_AU8U.SI_CapitaLand-China-Trust_FY2025.pdf",
+    "23_K71U.SI_Keppel-REIT_FY2025.pdf",
+    "14_MXNU.SI_Elite-UK-REIT_FY2025.pdf",
+    "06_HMN.SI_CapitaLand-Ascott-Trust_FY2025.pdf",
+    "11_8C8U.SI_Centurion-Accommodation-REIT_FY2025.pdf",
+    "08_CY6U.SI_CapitaLand-India-Trust_FY2025.pdf",
+    "12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025.pdf",
+    "13_DCRU.SI_Digital-Core-REIT_FY2025.pdf",
+    "26_BTOU.SI_Manulife-US-REIT_FY2025.pdf",
+    "37_T82U.SI_Suntec-REIT_FY2025.pdf",
+    "39_ODBU.SI_United-Hampshire-US-REIT_FY2025.pdf",
 ]
 
 client = AsyncLlamaCloud(api_key=os.environ["LLAMA_CLOUD_API_KEY"])
@@ -65,16 +80,16 @@ async def parse_one(fname: str):
             pages = result.markdown.pages if result.markdown else []
             with open(out / "full.md", "w", encoding="utf-8") as f:
                 for p in pages:
-                    f.write(f"\n\n<!-- PAGE {p.page} -->\n\n")
+                    f.write(f"\n\n<!-- PAGE {p.page_number} -->\n\n")
                     f.write(p.markdown or "")
             with open(out / "pages.jsonl", "w", encoding="utf-8") as f:
                 item_pages = result.items.pages if result.items else []
-                items_by_page = {p.page: p for p in item_pages}
+                items_by_page = {p.page_number: p for p in item_pages}
                 for p in pages:
-                    ip = items_by_page.get(p.page)
+                    ip = items_by_page.get(p.page_number)
                     types = [i.type for i in ip.items] if ip else []
                     f.write(json.dumps({
-                        "page": p.page,
+                        "page": p.page_number,
                         "markdown": p.markdown,
                         "item_types": types,
                     }, ensure_ascii=False) + "\n")

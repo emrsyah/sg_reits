@@ -1,37 +1,108 @@
 [
   {
     "file": "09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025.pdf",
-    "status": "error",
-    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+    "status": "cached"
   },
   {
     "file": "21_AJBU.SI_Keppel-DC-REIT_FY2025.pdf",
-    "status": "error",
-    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+    "status": "cached"
   },
   {
     "file": "28_M44U.SI_Mapletree-Logistics-Trust_FY2025.pdf",
-    "status": "error",
-    "error": "'MarkdownPageMarkdownResultPage' object has no attribute 'page'"
+    "status": "cached"
   },
   {
     "file": "17_AW9U.SI_First-REIT_FY2025.pdf",
-    "status": "error",
-    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+    "status": "cached"
   },
   {
     "file": "16_Q5T.SI_Far-East-Hospitality-Trust_FY2025.pdf",
-    "status": "error",
-    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+    "status": "cached"
   },
   {
     "file": "36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2025.pdf",
-    "status": "error",
-    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+    "status": "cached"
   },
   {
-    "file": "22_CMOU.SI_KORE-US-REIT_FY2024.pdf",
-    "status": "error",
-    "error": "Error code: 402 - {'detail': \"You've exceeded the maximum number of credits for your plan.\"}"
+    "file": "22_CMOU.SI_KORE-US-REIT_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "05_A17U.SI_CapitaLand-Ascendas-REIT_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "18_J69U.SI_Frasers-Centrepoint-Trust_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "34_CRPU.SI_Sasseur-REIT_FY2024.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "34_CRPU.SI_Sasseur-REIT_FY2023.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "07_AU8U.SI_CapitaLand-China-Trust_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "23_K71U.SI_Keppel-REIT_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "14_MXNU.SI_Elite-UK-REIT_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "06_HMN.SI_CapitaLand-Ascott-Trust_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "11_8C8U.SI_Centurion-Accommodation-REIT_FY2025.pdf",
+    "status": "cached"
+  },
+  {
+    "file": "08_CY6U.SI_CapitaLand-India-Trust_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 216,
+    "seconds": 310.4
+  },
+  {
+    "file": "12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 216,
+    "seconds": 310.2
+  },
+  {
+    "file": "13_DCRU.SI_Digital-Core-REIT_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 220,
+    "seconds": 275.8
+  },
+  {
+    "file": "26_BTOU.SI_Manulife-US-REIT_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 152,
+    "seconds": 236.6
+  },
+  {
+    "file": "37_T82U.SI_Suntec-REIT_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 199,
+    "seconds": 220.5
+  },
+  {
+    "file": "39_ODBU.SI_United-Hampshire-US-REIT_FY2025.pdf",
+    "status": "ok",
+    "job_id": null,
+    "pages": 220,
+    "seconds": 350.9
   }
 ]

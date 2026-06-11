@@ -1,0 +1,16115 @@
+
+
+<!-- PAGE 1 -->
+
+# Drive for Excellence, Passion for Innovation
+
+Sasseur REIT Annual Report 2023
+
+<!-- PAGE 2 -->
+
+# Drive for Excellence, Passion for Innovation
+
+**At the core of Sasseur Group’s DNA is excellence and passion. These tenets drive the Group forward, making it possible to overcome obstacles, meet goals, expand boundaries and offer innovative offerings that differentiates the Group from the rest. It empowers the Group to pursue greater goals and scale the highest peaks by boldly moving ahead whilst knowing that excellence is not a destination but an ongoing journey.**
+
+**At Sasseur REIT, our culture and values are aligned with that of Sasseur Group. We continue to pursue excellence by setting new high standards as well as breaking new grounds in different facets of our business through our innovative spirit. Enriched by our heritage and energised by our future, we are committed to building an enduring company that delivers long-term value for our Unitholders through our...**
+
+*Drive for Excellence and Passion for Innovation.*
+
+Sasseur (Hefei) Outlet building at night with "OUTLETS" signage
+
+**Vision**
+
+To be the world-class premier outlet mall REIT in Asia
+
+**Mission**
+
+To deliver consistent and strong performance for our Unitholders by offering unrivalled experiential outlet shopping to our customers
+
+**Corporate Objectives**
+
+The key objectives are to provide Unitholders with a stable and attractive rate of return on their investment through regular and stable distributions and to achieve long-term sustainable growth in DPU and NAV per Unit, while maintaining an appropriate capital structure for Sasseur REIT.
+
+<table>
+  <thead>
+    <tr>
+<th colspan="2">Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="2">Overview</td>
+    </tr>
+    <tr>
+<td>Key Highlights</td>
+<td>01</td>
+    </tr>
+    <tr>
+<td>About Sasseur REIT</td>
+<td>02</td>
+    </tr>
+    <tr>
+<td>Our Portfolio</td>
+<td>03</td>
+    </tr>
+    <tr>
+<td>Growth Strategy</td>
+<td>04</td>
+    </tr>
+    <tr>
+<td>REIT Structure</td>
+<td>06</td>
+    </tr>
+    <tr>
+<td>Organisation Structure</td>
+<td>07</td>
+    </tr>
+    <tr>
+<td colspan="2">Year In Review</td>
+    </tr>
+    <tr>
+<td>Financial Highlights</td>
+<td>08</td>
+    </tr>
+    <tr>
+<td>Chairman’s Statement</td>
+<td>10</td>
+    </tr>
+    <tr>
+<td>主席致辞</td>
+<td>13</td>
+    </tr>
+    <tr>
+<td>Interview with CEO</td>
+<td>14</td>
+    </tr>
+    <tr>
+<td>首席执行官采访</td>
+<td>17</td>
+    </tr>
+    <tr>
+<td>Financial Review</td>
+<td>19</td>
+    </tr>
+    <tr>
+<td>Capital Management</td>
+<td>22</td>
+    </tr>
+    <tr>
+<td>Year in Brief</td>
+<td>24</td>
+    </tr>
+    <tr>
+<td colspan="2">Leadership</td>
+    </tr>
+    <tr>
+<td>品牌故事</td>
+<td>26</td>
+    </tr>
+    <tr>
+<td>The Sasseur Story</td>
+<td>30</td>
+    </tr>
+    <tr>
+<td>Sasseur Group in 2023</td>
+<td>34</td>
+    </tr>
+    <tr>
+<td>Board of Directors</td>
+<td>40</td>
+    </tr>
+    <tr>
+<td>REIT Management Team</td>
+<td>44</td>
+    </tr>
+    <tr>
+<td>Sponsor Team</td>
+<td>46</td>
+    </tr>
+    <tr>
+<td colspan="2">Portfolio</td>
+    </tr>
+    <tr>
+<td>Entrusted Management Agreement (EMA) Model</td>
+<td>48</td>
+    </tr>
+    <tr>
+<td>Property Portfolio</td>
+<td>50</td>
+    </tr>
+    <tr>
+<td>Outlet Industry Review</td>
+<td>58</td>
+    </tr>
+    <tr>
+<td>Operations Review</td>
+<td>62</td>
+    </tr>
+    <tr>
+<td>Marketing and Promotion</td>
+<td>70</td>
+    </tr>
+    <tr>
+<td>Partner Brands</td>
+<td>74</td>
+    </tr>
+    <tr>
+<td colspan="2">Reports</td>
+    </tr>
+    <tr>
+<td>Sustainability Report</td>
+<td>76</td>
+    </tr>
+    <tr>
+<td>Investor Relations</td>
+<td>116</td>
+    </tr>
+    <tr>
+<td>Unit Price Performance</td>
+<td>120</td>
+    </tr>
+    <tr>
+<td>Enterprise Risk Management</td>
+<td>122</td>
+    </tr>
+    <tr>
+<td>Corporate Governance</td>
+<td>126</td>
+    </tr>
+    <tr>
+<td colspan="2">Financials and Other Information</td>
+    </tr>
+    <tr>
+<td>Financial Statements</td>
+<td>153</td>
+    </tr>
+    <tr>
+<td>Interested Person Transactions</td>
+<td>212</td>
+    </tr>
+    <tr>
+<td>Unitholders’ Information</td>
+<td>213</td>
+    </tr>
+    <tr>
+<td>Notice of Annual General Meeting</td>
+<td>216</td>
+    </tr>
+    <tr>
+<td colspan="2">Proxy Form</td>
+    </tr>
+  </tbody>
+</table>
+
+All figures in this Annual Report are in Singapore dollars unless otherwise specified.
+
+Certain figures in this report may not add up to the respective totals due to rounding.
+
+Visit us or download the Annual Report at www.sasseurreit.com
+
+<!-- PAGE 3 -->
+
+# Key Highlights
+
+For financial year ended 31 December 2023 (FY2023)
+
+## Financials
+
+**EMA Rental Income¹**
+**$124.9 million**
+FY2022: $121.3 million
+
+**Distribution per Unit**
+**6.249¢**
+FY2022: 6.550¢
+
+**Distribution Yield**
+based on closing price of S$0.685 on 29 December 2023
+**9.1%**
+FY2022: 8.7%
+
+**NAV per Unit²**
+**$0.82**
+FY2022: $0.87
+
+## Capital Management
+
+**Aggregate Leverage²**
+**25.3%**
+FY2022: 27.6%
+
+**Interest Coverage Ratio²**
+**4.3 times**
+FY2022: 4.4 times
+
+## Portfolio
+
+**Total Outlet Sales**
+**RMB4,663.7 million**
+FY2022: RMB3,534.8 million
+
+**Portfolio Occupancy Rate³**
+**97.6%**
+FY2022: 97.2%
+
+**Portfolio Valuation²**
+**RMB8.5 billion**
+FY2022: RMB8.5 billion
+
+**VIP Membership²**
+**3.5 million**
+FY2022: 2.9 million
+
+**Shopper Traffic**
+**13.3 million**
+FY2022: 9.6 million
+
+## Key Achievements
+
+**IR Magazine Awards – South East Asia 2023**
+* Best Innovation in Shareholder Communications
+* Certificate for Excellence in Investor Relations
+
+**The Edge Singapore Centurion Club Awards 2023**
+* Overall Sector Winner
+* Highest Weighted Return on Equity Over Three Years
+
+**Singapore Governance and Transparency Index 2023**
+* Ranked 17ᵗʰ out of 43 REITs and Business Trusts
+
+**Hermes Creative Awards 2023**
+* Platinum award for Annual Report 2022
+
+**Notes:**
+
+1 Excluding straight-line accounting adjustments.
+
+2 As at 31 December of the financial year.
+
+3 Portfolio occupancy rate for fourth quarter of 2023. Occupancy is computed based on average of the last day's occupancy of each month in the quarter.
+
+<!-- PAGE 4 -->
+
+# About Sasseur REIT
+
+Sasseur REIT is a real estate investment trust (REIT) listed on the Mainboard of the Singapore Exchange since 28 March 2018. It is the first outlet REIT listed in Asia, with four outlets in China in its initial portfolio. The outlets are located in the high-growth cities of Chongqing, Hefei and Kunming, with a total asset value of RMB8.5 billion as at 31 December 2023.
+
+Sasseur REIT is managed by Sasseur Asset Management Pte. Ltd., an indirect wholly-owned subsidiary of Sasseur Cayman Holding Limited (the Sponsor) which is part of Sasseur Group, one of the leading premium outlet operators in China with 17 outlets under management – including the four outlets in Sasseur REIT’s portfolio as at 31 December 2023.
+
+Sasseur REIT is well positioned to benefit from the fast-growing outlet sector in China, with growth driven by rising consumption from the rapidly expanding Chinese middle class.
+
+# Sasseur Outlets’ DNA
+## Passion for ART AND COMMERCE
+
+<table>
+  <thead>
+    <tr>
+        <th>A logo</th>
+        <th>( 1 + N )</th>
+        <th>D T</th>
+    </tr>
+    <tr>
+        <th>ART</th>
+        <th>OUTLETS +<br/>LIFESTYLE EXPERIENTIAL SPACES</th>
+        <th>DATA TECHNOLOGY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Synergy between Art and Commerce<br/>(art expressions in outlet layout and design)</td>
+        <td>Super Sports (sporting activities for families)</td>
+        <td>VIP Memberships (loyalty programme)</td>
+    </tr>
+    <tr>
+        <td>Shoppers’ emotional connections with the outlets featuring local themes (creating emotional connections)</td>
+        <td>Super Kids (playgrounds and educational activities for kids)</td>
+        <td>Online and Offline integration (meeting customers’ needs for seamless online and offline retail experiences)</td>
+    </tr>
+    <tr>
+        <td>Local culture appreciation (enjoying cultural history and experiences)</td>
+        <td>Super Farm (farmers’ markets and local/ regional food culture)</td>
+        <td>Constant analysis of shoppers’ data to improve operations and promote sales</td>
+    </tr>
+  </tbody>
+</table>
+
+### Examples of Lifestyle Experiential Spaces
+
+**Sasseur (Chongqing Bishan) Outlet**
+*   **Strawberry farm (漫香草莓公园)**
+    Strawberry farm
+    A “pick-your-own strawberries” activity which is popular with families
+
+*   **Counter-strike game arena (赫氪真人CS俱乐部)**
+    Real-life counter-strike game which stimulates combat training by using tactical launchers such as lasers and other counter launchers
+
+**Sasseur (Hefei) Outlet**
+*   **Matata Animal Kingdom (马塔塔动物王国)**
+    Matata Animal Kingdom
+    The first indoor zoo in Anhui Province which spans two levels over a total area of 2,276 square metres
+
+**Sasseur (Kunming) Outlet**
+*   **Vito Driving School for children (维拓乐园)**
+    Vito Driving School for children
+    Targeted at young children to let them learn driving and abide by traffic rules
+
+<!-- PAGE 5 -->
+
+# Our Portfolio
+
+Map of China showing locations of Sasseur REIT properties in Kunming, Chongqing, and Hefei
+
+Kunming property
+
+Chongqing Bishan property
+
+Chongqing Liangjiang property
+
+Hefei property
+
+<table>
+  <thead>
+    <tr>
+        <th>Net Lettable Area¹ (sqm)</th>
+        <th>Sales² (RMB billion)</th>
+        <th>Shopper Traffic² (million)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>310,241</td>
+        <td>4.7</td>
+        <td>13.3</td>
+    </tr>
+    <tr>
+        <th>Valuation¹ (RMB billion)</th>
+        <th>Occupancy³ (%)</th>
+        <th>VIP Members¹ (million)</th>
+    </tr>
+    <tr>
+        <td>8.5</td>
+        <td>97.6</td>
+        <td>3.5</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+1 As at 31 December 2023.
+
+2 For financial year 2023.
+
+3 Occupancy is calculated based on average of the last day’s occupancy of each month in fourth quarter of 2023.
+
+<!-- PAGE 6 -->
+
+# **Growth** Strategy
+
+The REIT Manager’s key objectives are to provide Unitholders with an attractive rate of return on their investment through regular and stable distributions to Unitholders and to achieve long-term sustainable growth in distribution per Unit and net asset value per Unit, while maintaining an appropriate capital structure for Sasseur REIT.
+
+Sasseur REIT logo
+
+**The REIT Manager plans to achieve its key objectives through the following strategies:**
+
+# 01
+
+**Active asset management and asset enhancement strategy**
+
+The REIT Manager works closely with the Entrusted Manager, to proactively manage Sasseur REIT’s property portfolio and strive to achieve growth in revenue and property income and maintain optimal occupancy levels. In respect of properties acquired from third parties in the future, the REIT Manager will also implement proactive policies to improve the yields and seek suitable property enhancement opportunities to support and enhance organic growth.
+
+<!-- PAGE 7 -->
+
+Diagram showing three interlocking circles representing Sasseur REIT's strategies: Active asset management and asset enhancement strategy (red), Capital and risk management strategy (green), and Acquisition growth strategy (blue).
+
+# 02
+
+## Acquisition growth strategy
+
+The REIT Manager seeks to achieve portfolio growth by pursuing selective acquisition opportunities of quality income-producing properties used mainly for retail outlet mall purposes initially in China (including the potential pipeline under the Sponsor's Right of First Refusal) and subsequently in other countries. Such acquisition opportunities would also be evaluated by the REIT Manager according to the investment strategy of Sasseur REIT, to enhance the return to Unitholders and pursue opportunities for future income and capital growth.
+
+# 03
+
+## Capital and risk management strategy
+
+The REIT Manager endeavours to employ an appropriate mix of debt and equity in financing acquisitions and asset enhancements, and utilise hedging strategies where appropriate from time to time to manage interest rate volatilities and foreign exchange exposure for Sasseur REIT.
+
+<!-- PAGE 8 -->
+
+# REIT Structure
+
+```mermaid
+graph TD
+    Unitholders[Unitholders]
+    REIT_Manager["SASSEUR ASSETMANAGEMENTPTE. LTD.(REIT MANAGER)"]
+    REIT[SASSEUR REIT]
+    Trustee["DBS TRUSTEELIMITED (TRUSTEE)"]
+    Sasseur_Singapore[Sasseur SingaporeHoldings Pte. Ltd.]
+
+    Unitholders -- Holdings of Units --> REIT
+    REIT -- Distributions --> Unitholders
+    REIT_Manager -- Management Services --> REIT
+    REIT -- Management Fees --> REIT_Manager
+    Trustee -- Acts on behalf of Unitholders --> REIT
+    REIT -- Trustee Fees --> Trustee
+    REIT -- 100% --> Sasseur_Singapore
+
+    subgraph BVI [BVI]
+        Sasseur_Hefei_Limited[Sasseur Hefei Limited]
+        Sasseur_Bishan_Limited[Sasseur Bishan (BVI) Limited]
+        Sasseur_Jinan_Limited[Sasseur Jinan Limited]
+    end
+
+    Sasseur_Singapore -- 100% --> Sasseur_Hefei_Limited
+    Sasseur_Singapore -- 100% --> Sasseur_Bishan_Limited
+    Sasseur_Singapore -- 100% --> Sasseur_Jinan_Limited
+
+    subgraph HONG_KONG [HONG KONG]
+        Sasseur_Hefei_HK[Sasseur Hefei HK Limited]
+        Hong_Sun[Hong Sun Development Group Limited]
+        Sasseur_Bishan_HK[Sasseur Bishan HK Limited]
+        Sasseur_Jinan_HK[Sasseur Jinan HK Limited]
+    end
+
+    Sasseur_Hefei_Limited -- 100% --> Sasseur_Hefei_HK
+    Sasseur_Bishan_Limited -- 100% --> Hong_Sun
+    Sasseur_Bishan_Limited -- 100% --> Sasseur_Bishan_HK
+    Sasseur_Jinan_Limited -- 100% --> Sasseur_Jinan_HK
+
+    subgraph PRC [PRC]
+        Sasseur_Hefei_Inv[Sasseur (Hefei) Investment Consultancy Co., Ltd.]
+        Sasseur_Chongqing_Bus[Sasseur (Chongqing) Business Co., Ltd.]
+        Sasseur_Chongqing_Bishan_Outlet[Sasseur (Chongqing Bishan) Outlet]
+        Sasseur_Kunming_Inv[Sasseur (Kunming) Investment Consultancy Co., Ltd.]
+        Hefei_Sasseur_Comm[Hefei Sasseur Commercial Management Co., Ltd.]
+        Chongqing_Sasseur_Suge[Chongqing Sasseur Suge Apparel Joint Stock Co., Ltd.]
+        Sasseur_Chongqing_Liangjiang_Outlet[Sasseur (Chongqing Liangjiang) Outlet]
+        Kunming_Sasseur_Comm[Kunming Sasseur Commercial Management Co., Ltd.]
+        Sasseur_Hefei_Outlet[Sasseur (Hefei) Outlet]
+        Sasseur_Kunming_Outlet[Sasseur (Kunming) Outlet]
+        Entrusted_Manager["SASSEUR (SHANGHAI) HOLDING COMPANY LIMITED(ENTRUSTED MANAGER)"]
+    end
+
+    Sasseur_Hefei_HK -- 100% --> Sasseur_Hefei_Inv
+    Sasseur_Bishan_HK -- 100% --> Sasseur_Chongqing_Bus
+    Sasseur_Jinan_HK -- 100% --> Sasseur_Kunming_Inv
+    Sasseur_Hefei_Inv -- 100% --> Hefei_Sasseur_Comm
+    Sasseur_Chongqing_Bus -- 85% --> Chongqing_Sasseur_Suge
+    Sasseur_Chongqing_Bus --- Sasseur_Chongqing_Bishan_Outlet
+    Hong_Sun -- 15% --> Chongqing_Sasseur_Suge
+    Chongqing_Sasseur_Suge --- Sasseur_Chongqing_Liangjiang_Outlet
+    Sasseur_Kunming_Inv -- 100% --> Kunming_Sasseur_Comm
+    Hefei_Sasseur_Comm --- Sasseur_Hefei_Outlet
+    Kunming_Sasseur_Comm --- Sasseur_Kunming_Outlet
+
+    Sasseur_Hefei_Outlet -- Entrusted Management Agreement (EMA) Services --> Entrusted_Manager
+    Entrusted_Manager -- Entrusted Management Fees --> Sasseur_Hefei_Outlet
+    Sasseur_Kunming_Outlet -- Entrusted Management Agreement (EMA) Services --> Entrusted_Manager
+    Entrusted_Manager -- Entrusted Management Fees --> Sasseur_Kunming_Outlet
+```
+
+<!-- PAGE 9 -->
+
+# Organisation Structure
+
+```mermaid
+graph TD
+    subgraph Board_Level [ ]
+        direction LR
+        B[Board of Directors] --- C[Audit and Risk CommitteeNominating and Remuneration CommitteeSustainability Committee]
+    end
+
+    Board_Level --> CEO[Chief Executive Officer]
+
+    CEO --> IM[Investment Management]
+    CEO --> AM[Asset Management]
+    CEO --> IR[Investor Relations & Capital Markets]
+    CEO --> CR[Compliance & Risk Management]
+    CEO --> FI[Finance]
+    CEO --> HR[Human Resource & Administration]
+
+    style B fill:#FADBD8,stroke:#E74C3C
+    style C fill:#D7BDE2,stroke:#8E44AD
+    style CEO fill:#D5F5E3,stroke:#2ECC71
+    style IM fill:#AED6F1,stroke:#3498DB
+    style AM fill:#AED6F1,stroke:#3498DB
+    style IR fill:#AED6F1,stroke:#3498DB
+    style CR fill:#AED6F1,stroke:#3498DB
+    style FI fill:#AED6F1,stroke:#3498DB
+    style HR fill:#AED6F1,stroke:#3498DB
+```
+
+Sasseur (Hefei) Outlet building
+
+<!-- PAGE 10 -->
+
+# Financial Highlights
+
+Total Outlet Sales
+(RMB million)
+**4,663.7**
+
+<table>
+  <tbody>
+    <tr>
+        <td>Year</td>
+        <td>Total Outlet Sales (RMB million)</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>4,184.6</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>3,534.8</td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>4,663.7</td>
+    </tr>
+  </tbody>
+</table>
+
+Sasseur (Chongqing Liangjiang) Outlet
+(RMB million)
+**2,541.3**
+
+<table>
+  <tbody>
+    <tr>
+        <td>Year</td>
+        <td>Sales (RMB million)</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>2,178.2</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>1,875.0</td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>2,541.3</td>
+    </tr>
+  </tbody>
+</table>
+
+Sasseur (Chongqing Bishan) Outlet
+(RMB million)
+**400.7**
+
+<table>
+  <tbody>
+    <tr>
+        <td>Year</td>
+        <td>Sales (RMB million)</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>374.0</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>330.6</td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>400.7</td>
+    </tr>
+  </tbody>
+</table>
+
+Sasseur (Hefei) Outlet
+(RMB million)
+**1,037.1**
+
+<table>
+  <tbody>
+    <tr>
+        <td>Year</td>
+        <td>Sales (RMB million)</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>900.4</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>781.0</td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>1,037.1</td>
+    </tr>
+  </tbody>
+</table>
+
+Sasseur (Kunming) Outlet
+(RMB million)
+**684.6**
+
+<table>
+  <tbody>
+    <tr>
+        <td>Year</td>
+        <td>Sales (RMB million)</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>732.0</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>548.2</td>
+    </tr>
+    <tr>
+        <td>2023</td>
+        <td>684.6</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 11 -->
+
+Person using a tablet showing financial charts
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>As at</th>
+        <th>As at</th>
+        <th>As at</th>
+        <th>As at</th>
+        <th>As at</th>
+        <th>As at</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>31 Dec</th>
+        <th>31 Dec</th>
+        <th>31 Dec</th>
+        <th>31 Dec</th>
+        <th>31 Dec</th>
+        <th>31 Dec</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2021</th>
+        <th>2020</th>
+        <th>2019</th>
+        <th>2018¹</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="7"><strong>STATEMENT OF TOTAL RETURN HIGHLIGHTS</strong></td>
+    </tr>
+    <tr>
+        <td>EMA rental income (RMB million)</td>
+        <td><strong>658.5</strong></td>
+        <td>594.7</td>
+        <td>611.9</td>
+        <td>579.8</td>
+        <td>617.6</td>
+        <td>444.7</td>
+    </tr>
+    <tr>
+        <td>- Fixed Component</td>
+        <td><strong>447.5</strong></td>
+        <td>434.5</td>
+        <td>421.8</td>
+        <td>409.6</td>
+        <td>396.3</td>
+        <td>291.2</td>
+    </tr>
+    <tr>
+        <td>- Variable Component</td>
+        <td><strong>211.0</strong></td>
+        <td>160.2</td>
+        <td>190.1</td>
+        <td>170.2</td>
+        <td>221.3</td>
+        <td>153.5</td>
+    </tr>
+    <tr>
+        <td>EMA rental income ($ million)</td>
+        <td><strong>124.9</strong></td>
+        <td>121.3</td>
+        <td>127.5</td>
+        <td>115.8</td>
+        <td>122.1</td>
+        <td>89.9</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="7"><strong>STATEMENT OF FINANCIAL POSITION HIGHLIGHTS</strong></td>
+    </tr>
+    <tr>
+        <td>Investment properties ($ million)</td>
+        <td><strong>1,580.2</strong></td>
+        <td>1,639.0</td>
+        <td>1,801.0</td>
+        <td>1,651.1</td>
+        <td>1,587.2</td>
+        <td>1,539.5</td>
+    </tr>
+    <tr>
+        <td>Total assets ($ million)</td>
+        <td><strong>1,747.7</strong></td>
+        <td>1,767.8</td>
+        <td>1,989.8</td>
+        <td>1,858.2</td>
+        <td>1,770.4</td>
+        <td>1,768.7</td>
+    </tr>
+    <tr>
+        <td>Gross borrowings</td>
+        <td><strong>442.1</strong></td>
+        <td>488.3</td>
+        <td>518.6</td>
+        <td>518.5</td>
+        <td>492.5</td>
+        <td>512.6</td>
+    </tr>
+    <tr>
+        <td>Unitholders' funds ($ million)</td>
+        <td><strong>1,019.6</strong></td>
+        <td>1,067.8</td>
+        <td>1,209.2</td>
+        <td>1,105.4</td>
+        <td>1,069.2</td>
+        <td>1,074.0</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="7"><strong>KEY FINANCIAL METRICS</strong></td>
+    </tr>
+    <tr>
+        <td>Distribution per Unit (S cents)</td>
+        <td><strong>6.249</strong></td>
+        <td>6.550</td>
+        <td>7.104</td>
+        <td>6.545</td>
+        <td>6.533</td>
+        <td>5.128</td>
+    </tr>
+    <tr>
+        <td>Distribution yield² (%)</td>
+        <td><strong>9.1%</strong></td>
+        <td>8.7%</td>
+        <td>8.4%</td>
+        <td>8.0%</td>
+        <td>7.4%</td>
+        <td>10.3%</td>
+    </tr>
+    <tr>
+        <td>Aggregate leverage (%)</td>
+        <td><strong>25.3</strong></td>
+        <td>27.6</td>
+        <td>26.1</td>
+        <td>27.9</td>
+        <td>27.8</td>
+        <td>29.0</td>
+    </tr>
+    <tr>
+        <td>Interest coverage ratio (times)</td>
+        <td><strong>4.3</strong></td>
+        <td>4.4</td>
+        <td>5.1</td>
+        <td>4.0</td>
+        <td>4.8</td>
+        <td>4.1</td>
+    </tr>
+    <tr>
+        <td>Weighted average cost of borrowings³ (%)</td>
+        <td><strong>5.6</strong></td>
+        <td>4.9</td>
+        <td>4.4</td>
+        <td>4.9</td>
+        <td>4.4</td>
+        <td>4.4</td>
+    </tr>
+    <tr>
+        <td>Net asset value per Unit ($)</td>
+        <td><strong>0.82</strong></td>
+        <td>0.87</td>
+        <td>0.99</td>
+        <td>0.91</td>
+        <td>0.89</td>
+        <td>0.9</td>
+    </tr>
+    <tr>
+        <td>Number of Units in issue (million)</td>
+        <td><strong>1,243</strong></td>
+        <td>1,231</td>
+        <td>1,217</td>
+        <td>1,207</td>
+        <td>1,196</td>
+        <td>1,180</td>
+    </tr>
+    <tr>
+        <td>Market capitalisation² ($ million)</td>
+        <td><strong>851</strong></td>
+        <td>929</td>
+        <td>1,028</td>
+        <td>989</td>
+        <td>1,059</td>
+        <td>767</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+1 From 28 March 2018 (Sasseur REIT's listing date) to 31 December 2018.
+
+2 Based on year-end closing unit price.
+
+3 Weighted average cost of borrowings took into consideration hedged borrowings in 2023.
+
+<!-- PAGE 12 -->
+
+# Chairman’s Statement
+
+Portrait of Mr Xu Rongcan, Vito, Founder of Sasseur Group and Chairman of the Board of the REIT Manager, with a quote box.
+
+> **We remain focused as a team to further strengthen our business’ fundamentals and stay committed to deliver sustainable growth in DPU and net asset value per Unit for our Unitholders over the medium to long term.**
+
+**Mr Xu Rongcan, Vito**
+Founder of Sasseur Group and
+Chairman of the Board of the REIT Manager
+
+<!-- PAGE 13 -->
+
+Dear Unitholders,
+
+On behalf of the Board of Directors, I am pleased to present Sasseur REIT’s Annual Report for the financial year ended 31 December 2023 (FY2023).
+
+ROBUSTNESS AND RESILIENCE OF THE OUTLET BUSINESS
+
+China’s economy saw ups and downs in 2023. The country’s economic growth accelerated to 5.2% in 2023, surpassing the official government target of around 5.0% and 2022’s pandemic-hit pace of 3.0%¹. However, the country’s economic recovery in 2023 from pandemic-related lockdowns has been more gradual than expected amidst domestic and international headwinds. While consumption has been a major driver of growth, consumer confidence remained tepid in 2023.
+
+Despite the external headwinds, we are very encouraged by the strong growth in Sasseur REIT’s outlet sales, with the aggregate FY2023 sales increasing by 31.9% year-on-year (YoY) which led to a 10.7% YoY higher Entrusted Management Agreement (EMA) Rental Income in Renminbi (RMB). In particular, Sasseur (Chongqing Liangjiang) Outlet’s FY2023 sales set a new high and exceeded pre-COVID level in FY2019 by 8.5%. In addition, in the fourth quarter of 2023, the REIT’s portfolio average occupancy rate across the four properties remained strong at 97.6%, exceeding FY2019’s pre-COVID occupancy rate of 96.0%.
+
+However, the stronger Singapore Dollar relative to the RMB as well as higher finance costs and tax expense affected FY2023 distributable income which fell by 5.8% YoY. This brings the distribution per Unit (DPU) for FY2023 to 6.249 Singapore cents, which was 4.6% lower than that for FY2022. However, excluding the impact of foreign currency translation, FY2023 DPU would have been higher by 4.1% YoY at 6.822 cents². Based on our closing unit price of S$0.685 as at 29 December 2023, the 6.249 cents DPU translated to a distribution yield of 9.1%.
+
+The strong FY2023 sales attested to the robustness and resilience of Sasseur REIT’s outlet business, amidst economic uncertainties in China, particularly in the second half of the year. The valuation of the REIT’s portfolio has remained stable as at end-2023 from a year ago, reflecting the strong underlying fundamentals of the outlets.
+
+Outlets appeal to Chinese middle-class consumers who are price- and value-conscious, and seek to buy off-season luxury goods at discounted prices. Post pandemic, with the rise of economic uncertainties, people are becoming more rational in their shopping choices, prioritising product quality and value and taking advantage of promotions. At outlets, consumers can stretch their purchasing power by buying high-end, mid-range and mass market brands. This trend of “consumption downgrade” actually benefits Sasseur REIT, given its outlets’ clear value-for-money proposition.
+
+We also see more Chinese shoppers favouring domestic brands which are seen to be more cost-effective and have a better understanding of Chinese consumer habits.
+
+Global capital markets have been marked by volatilities in 2023, reflecting broader economic uncertainties and geopolitical instabilities. Nonetheless, as at end-2023, for Unitholders who have invested in Sasseur REIT since its public listing on 28 March 2018, we are delighted to report that the REIT has delivered a total return of approximately 36.2%³, outperforming that of the FTSE ST REIT Index (20.6%) and FTSE Straits Times Index (19.5%) for the same period. We will continue to work towards long-term value creation for our Unitholders.
+
+LONG-TERM GROWTH STRATEGY
+
+For the Board and Management, effective corporate governance continues to be a long-term strategic priority which leads to positive performance and a sustainable business overall. In line with our efforts to maintain high levels of transparency and accountability to the REIT’s stakeholders, we value the feedback that we regularly gather through engagements with different stakeholders.
+
+In September 2023, the Board and the senior management of the REIT’s Sponsor (Sasseur Group) met with a group of four analysts who have coverage of Sasseur REIT in Chongqing, China. The discussions in Chongqing city were fruitful, with the analysts and the Board sharing their capital market insights while the management team of Sasseur Group also provided their strategic viewpoints on the outlet industry in China. The group of analysts also went on site tours of Sasseur (Chongqing Liangjiang) Outlet, Sasseur (Chongqing Bishan) Outlet as well as Sasseur (Xi’an) Outlet which is owned by the Sponsor, giving them the opportunity to have a more comprehensive understanding of the outlet business’ operations.
+
+On this front, we are pleased that Sasseur REIT has continued to receive recognition for good corporate transparency. In the 2023 Singapore Governance and Transparency Index (SGTI), Sasseur REIT achieved its highest score since its inclusion in the 2019 SGTI ranking. Sasseur REIT also improved its ranking by two places to 17th out of 43 REITs and Business Trusts, compared to 2022.
+
+We are also honoured that the REIT has received prestigious industry accolades which highlight excellence in our outreach to the investment community as well as business excellence. In November 2023, Sasseur REIT was named the “Overall Sector Winner” in the REITs Sector and recognised for being the REIT with the “Highest Weighted Return on Equity Over Three Years” at The Edge Singapore Centurion Club Awards 2023 event. In December 2023, Sasseur REIT won an award for “Best Innovation in Shareholder Communications” at the IR Magazine Awards – South East Asia 2023 event.
+
+Notes:
+
+\*1 National Bureau of Statistics of China, Press Release dated 17 January 2024.
+
+\*2 Assuming the same blended 7.2% retention rate for FY2023.
+
+\*3 Source: Bloomberg.
+
+<!-- PAGE 14 -->
+
+# Chairman’s Statement
+
+Our prudent and proactive stance in our capital management strategy is also critical in preserving Sasseur REIT’s financial strength in the long term. Following the REIT’s successful refinancing of its loans due in March 2023, it has no significant refinancing requirements till 2026 while the unencumbered Sasseur (Kunming) Outlet further enhances financing flexibility for the REIT in seeking refinancing opportunities. This presents us with further opportunities to optimise the REIT’s debt capacity as we accelerate efforts to pursue inorganic growth opportunities in 2024, while continuing to explore active asset management.
+
+At the Sponsor level, we have strongly supported Sasseur REIT through the operational resources and expertise we have, as well as through an unsecured loan extended to the REIT in 2023. Our operational teams’ strong drive for excellence, decades of expertise in the outlet industry and deep knowledge in understanding customers’ preferences, have equipped Sasseur REIT well to navigate the uncertain landscape in the last few years.
+
+We continue to adopt an innovative approach to marketing and branding. For instance, Sasseur Group holds an annual ‘Red Festival’ sales promotion to tap on Chinese consumers’ rising demand for domestic retail products and to promote China’s strong domestic retail brands. For the conceptualisation of this event, Sasseur Group had won a Super Intellectual Property Award at the China Outlets Leader Summit in 2022.
+
+As for e-commerce, we do not see it as a threat but as a complementary channel to the REIT’s physical outlets, as part of our omnichannel marketing strategy to reach a wider consumer base and serve existing customers. On the digital front, our online efforts extend to various popular Chinese social media platforms including Xiaohongshu (小红书), Weibo (微博), and Douyin (抖音) which cater to the tech-savvy and younger generation of consumers. We also conduct regular live-streaming events to complement our promotional events.
+
+We believe that we can deliver more value for our stakeholders with our customer-centric approach and drive to excel, as well as long-term commitment and perseverance.
+
+## MARKET OUTLOOK
+
+For 2024, the Chinese government has set GDP growth target of around 5.0% and consumer inflation rate at 3.0%, while maintaining target of 5.5% urban unemployment rate. In the country’s annual Government Work Report, China also stated an aim to create 12 million urban jobs in 2024 and turn itself into a mid-level developed economy by 2035⁴.
+
+As China’s economic growth may continue to face near-term challenges, the Chinese government is stepping up various policy measures to further stimulate economic and consumption growth. The measures included reductions in policy rates, mortgage rates and loan prime rates, as well as increases in public sector investments.
+
+In December 2023, China’s Central Economic Work Conference, a tone-setting meeting for economic growth in 2024, had outlined plans to stimulate domestic consumption and increase residents’ incomes, with investments to be strategically used to boost consumer spending⁵.
+
+We believe that the long-term outlook for China’s outlet industry remains bright, given consumer dynamics shifting towards “consumption downgrade” with greater sensitivity to price and value. This is evidenced by the outlet industry’s strong sales performance in 2023⁶, as shoppers seek to stretch their purchasing power against a backdrop of economic uncertainties.
+
+According to international consultancy firm, McKinsey, by 2025, outlets’ sales in China could reach as much as RMB390 billion, approximately 86.0% higher than the level seen in 2022⁷. The Sponsor is already leveraging the growing industry potential with its expanding asset-light business model and currently manages 17 outlets, including the four owned by Sasseur REIT. Sasseur Group remains focused on operations of outlets and is not in the business of property development.
+
+Sasseur REIT is set to benefit from these positive industry developments, as well as benefit from growing urbanisation and rising income levels amongst the middle class in the country, given the positioning of the REIT’s outlets as a one-stop destination for providing value-for-money bargains and offering uniquely curated lifestyle experiences for shoppers.
+
+## ACKNOWLEDGEMENTS
+
+Amidst the economic uncertainties in the past year, the Board is thankful for the steadfast support of our Unitholders, tenants, shoppers and the wider business community. We would also like to express our appreciation to the management team and our people whose drive for excellence and passion for innovation continue to propel the business forward. To the Board of Directors, we are grateful for your contributions and guidance.
+
+We remain focused as a team to further strengthen our business’ fundamentals and stay committed to deliver sustainable growth in DPU and net asset value per Unit for our Unitholders over the medium to long term. At the same time, the management team and the REIT’s Sponsor, Sasseur Group, will work hand in hand as we make the leap from the norm towards enduring excellence.
+
+**Mr Xu Rongcan, Vito**
+
+Founder of Sasseur Group and
+Chairman of the Board of the REIT Manager
+
+Notes:
+
+⁴ China Daily, “China’s 5% GDP target in line with govt goals”, 5 March 2024.
+
+⁵ China Briefing, “China's Central Economic Work Conference outlines key priorities for 2024”, 21 December 2023.
+
+⁶ China.org.cn, “Shoppers coming back to malls”, 12 December 2023.
+
+⁷ Jing Daily, “Outlet malls get new lease of life thanks to Chinese bargain-hunters”, 31 August 2023.
+
+<!-- PAGE 15 -->
+
+# 主席致辞
+
+
+
+尊敬的单位持有人，
+
+我谨此代表董事局提供截至2023年12月31日财政年度(2023财年)的砂之船房地产投资信托基金(砂之船房托)的年度报告。
+
+## 奥莱业务的稳健性和韧性
+
+2023年，中国经济经历了起伏，经济增长在2023年加速至5.2%，超过了5.0%左右的官方政府设定目标和2022年受新冠疫情影响3.0%的增长¹。然而，在国内和国际的逆风中，2023年中国经济从与新冠疫情相关的封锁中复苏的速度比预期更为缓慢。虽然国内消费一直是经济增长的主要驱动力，但消费者信心在2023年仍然不温不火。
+
+尽管面临外部不利因素，但我们对砂之船房托奥莱销售的强劲增长感到非常鼓舞，2023财年的总销售额同比增长31.9%，相应的以人民币计算的委托管理协议(EMA)租金收入同比增长10.7%。特别是，重庆两江奥特莱斯2023财年的销售额创下新高，比2019财年新冠疫情之前的水平高出8.5%。此外，在2023年第四季度，砂之船房托的四个奥莱物业的平均出租率保持强劲，达到97.6%，超过2019财年新冠疫情之前96.0%的出租率。
+
+然而，由于新元相对人民币走强，以及较高的融资成本和税收支出，使得2023财年的可分配收入同比下降5.8%。这使得2023财年的每单位派息(DPU)为6.249新分，比2022财年低4.6%。但是，撇除汇率换算的影响，2023财年的DPU将比去年同期高4.1%，达到6.822新分²。根据砂之船房托截至2023年12月29日0.685新元的收盘单价，6.249新分的DPU换算为9.1%的分配收益率。
+
+在中国经济不明朗的情况下，尤其是在下半年，2023财年的强劲销售证明了砂之船房托奥莱业务的稳健性和韧性。截至2023年底，房托资产组合的估值与一年前相比保持稳定，反映了奥莱的强劲基本面。
+
+奥莱吸引注重价格和价值，以及寻求以折扣价购买淡季奢侈品的中国中产阶级消费者。新冠疫情后，随着经济不确定性的增加，人们的购物选择越来越理性，利用促销活动，优先考虑产品质量和价值。在奥莱，消费者可以通过购买高端、中档和大众市场品牌来扩展他们的购买力。这种"消费降级"的趋势实际上有利于砂之船房托，因为其奥莱具有明确的物有所值主张。我们也看到越来越多的中国消费者青睐国产品牌，这些品牌被认为更具成本效益，并且对中国消费者的习惯有更好的了解。
+
+全球资本市场在2023年出现波动，反映出更广泛的经济不确定性和地缘政治不稳定性。尽管如此，截至2023年底，对于自2018年3月28日公开上市以来投资于砂之船房托的单位持有人，我们欣然报告，该房托总回报率约为36.2%³。表现优于同期的富时新加坡房托指数(20.6%)和富时海峡时报指数(19.5%)。我们将继续努力为房托单位持有人创造长期价值。
+
+## 长期增长战略
+
+对于董事局和管理层而言，有效的企业管治仍然是一项长期战略重点，这将带来积极的业绩和整体业务的可持续发展。我们致力向房托的利益相关者保持高水平的透明度和问责制，并非常重视通过定期与不同利益相关者接触而收集到的反馈意见。
+
+2023年9月，董事局和房托的发起人(砂之船集团)的高级管理层在中国重庆会见了报道砂之船房托的四名分析师。在重庆进行的讨论取得了丰硕成果，分析师和董事局分享了他们对资本市场的见解，而砂之船集团的管理团队也提供了他们对中国奥特莱斯行业的战略观点。分析师团队还对砂之船(重庆两江)奥特莱斯和砂之船(重庆璧山)奥特莱斯，以及发起人旗下的砂之船(西安)奥特莱斯进行了考察，让他们有机会更全面地了解奥莱业务的运营情况。
+
+在这方面，我们很高兴砂之船房托继续获得良好企业透明度的认可。在2023年新加坡治理和透明度指数(Singapore Governance and Transparency Index)中，砂之船房托获得了自2019年纳入该指数以来的最高分数。与2022年相比，砂之船房托的排名也提高了两位，在43家房托和商业信托基金中排名第17位。
+
+我们亦感荣幸的是，砂之船房托获得了久负盛名的行业荣誉，凸显了我们与投资界的联系以及商业业务上的卓越表现。2023年11月，砂之船房托被评为房地产投资信托基金行业的"整体行业赢家"，并在The Edge Singapore Centurion Club Awards 2023颁奖典礼上荣获"三年加权股本回报率最高REIT"奖项。2023年12月，砂之船房托在投资者关系杂志大奖(IR Magazine Awards)–东南亚2023年的活动中荣获"股东沟通最佳创新奖"。
+
+从长远来看，我们在资本管理策略中的审慎和积极立场对于保持砂之船房托的财务实力也至关重要。继房托成功完成为2023年3月到期的贷款进行再融资后，其在2026年前并无重大再融资需求，而砂之船(昆明)奥特莱斯无抵押的情况进一步增强房托寻求再融资机会的融资灵活性。这为我们提供了进一步优化房托债务能力的机会，而我们也同时加快了在2024年追求收购增长机会的努力，继续积极探索资产管理的有机增长。
+
+
+
+在发起人层面，我们通过营运资源及专业知识，以及在2023年向房托提供的无抵押贷款，大力支持砂之船房托。我们的营运团队致力于追求卓越，在奥特莱斯行业拥有数十年的专业知识，并深入了解消费者的喜好，使砂之船房托在过去几年中能够很好地应对不确定的环境。
+
+我们继续采用创新的营销和品牌策略。例如，砂之船集团每年举办"红色第五季"促销活动，以满足中国消费者对国内零售产品日益增长的需求，并推广中国强大的国内零售品牌。由于这一活动的概念化，砂之船集团在2022年中国奥特莱斯领袖峰会上获得了超级知识产权奖。
+
+至于电子商务，我们并不将其视为一种威胁，而是将其视为房托实体奥莱的补充渠道，作为我们全渠道营销战略的一部分，以接触更广泛的消费者群体并服务现有客户。在数字方面，我们在线上努力扩展至多个中国流行的社交媒体平台，包括小红书、微博及抖音，以迎合精通科技及年轻一代的消费者。我们还定期举办直播活动，以补充我们的推广活动。
+
+我们相信，凭借我们以顾客为中心，以奋斗者为本，长期艰苦奋斗，我们可以为利益相关者创造更多价值。
+
+
+
+## 市场展望
+
+对于2024年，中国政府设定的国内生产总值增长目标为5.0%左右，消费者通胀率为3.0%，同时维持5.5%的城镇失业率目标。在中国的年度政府工作报告中，中国还提出了到2024年创造1,200万个城镇就业岗位，到2035年成为中等发达经济体的目标⁴。
+
+由于中国经济增长可能继续面临短期挑战，中国政府正在加紧采取各种政策措施，以进一步刺激经济和消费增长。这些措施包括降低政策利率、抵押贷款利率和贷款市场报价利率，以及增加公共部门投资。
+
+2023年12月，中国中央经济工作会议(2024年经济增长定调的会议)概述了刺激国内消费和增加居民收入的计划，投资将战略性地用于刺激消费支出⁵。
+
+
+
+我们认为，鉴于消费者动态转向"消费降级"，对价格和价值更加敏感，中国奥莱行业的长期前景依然光明。奥莱行业在2023年的强劲销售表现证明了这一点⁶，在经济不确定的背景下，消费者寻求扩大他们的购买力。
+
+根据国际咨询公司麦肯锡的数据，到2025年，奥莱在中国的销售额将达到3,900亿元人民币，比2022年增长约86.0%⁷。房托的发起人, 砂之船集团, 已通过其不断扩大的轻资产业务模式，利用不断增长的行业潜力，目前运营17家奥莱，包括砂之船房托拥有的四家奥莱。砂之船集团仍然专注于奥莱的运营，并不从事房地产开发业务。
+
+鉴于砂之船房托的奥莱定位为一站式目的地，为消费者提供超值优惠和独特的生活体验方式，其房托将成为这些积极行业发展以及不断增长的城市化和不断提高的中国中产阶级收入水平的受益者。
+
+
+
+## 董事局感谢
+
+在过去一年经济不明朗的情况下，董事局感谢单位持有人、商户、消费者及广大商界人士的坚定支持。我们还要感谢管理团队和我们的员工，他们对卓越的追求和对创新的热情不断推动着我们的业务向前发展。对于董事局，我们感谢您的贡献和指导。
+
+作为一个团队，我们将继续专注于进一步巩固我们的业务基础，并致力于在中长期为我们的单位持有人实现DPU及单位资产净值的可持续增长，并与发起人，砂之船集团，一起实现从平凡向优秀再向卓越的跨越。
+
+
+
+**徐荣灿先生**
+砂之船集团创始人
+砂之船资产管理公司董事局主席
+
+1 中国国家统计局，2024年1月17日新闻稿。
+
+2 假设2023财年的混合留存率为7.2%。
+
+3 来源：彭博。
+
+4 《中国日报》，"中国5%的GDP目标符合政府目标"，2024年3月5日。
+
+5 中国简报，"中国中央经济工作会议概述了2024年的主要优先事项"，2023年12月21日。
+
+6 中国网，"购物者重返商场"，2023年12月12日。
+
+7 《京日报》，"奥特莱斯购物中心因中国投机者而获得新生"，2023年8月31日。
+
+<!-- PAGE 16 -->
+
+# **Interview** with CEO
+
+Portrait of Ms Cecilia Tan, Chief Executive Officer
+
+> **In 2023, we continued to fortify the REIT’s resilience by sharpening the outlets’ positioning through a series of successful asset enhancement initiatives in the past year, and by further strengthening our leasing efforts.**
+
+**Ms Cecilia Tan**
+Chief Executive Officer
+
+<!-- PAGE 17 -->
+
+**Question mark icon The Renminbi has been weakening against the Singapore Dollar. How is Sasseur REIT managing volatilities in foreign exchange and finance costs?**
+
+Sasseur REIT continues to maintain a prudent balance sheet. We have hedging policies to manage foreign exchange volatilities. We progressively hedge at least 30% and up to 100% of foreign currency exposure on committed net cashflows.
+
+As at 31 December 2023, approximately 86.7% of Sasseur REIT’s total borrowings are hedged to fixed interest rates or pegged to stable/fixed interest rates, with a weighted average debt to maturity of 2.9 years. We will continue to actively manage foreign exchange volatilities through appropriate hedging strategies.
+
+**Question mark icon How does Sasseur REIT plan to capitalise on the trend of declining interest rates in China?**
+
+China has been lowering their loan prime rates. The most recent rate cut to the five-year loan prime rate was in February 2024, from 4.2% to 3.95% to further prop up the economy.
+
+Given that the loan prime rate has been trending lower, this helps to cushion Sasseur REIT’s overall cost of debt, since approximately 53.4% of Sasseur REIT’s total loans are denominated in RMB, while also providing a natural hedge. The REIT’s Sasseur (Kunming) Outlet is also unencumbered which further enhances its financing flexibility in seeking refinancing opportunities.
+
+In addition, Sasseur REIT has an unsecured fixed-rate Sponsor Loan of RMB308.0 million (approximately $57.0 million) which will mature in March 2025. We are exploring opportunities to refinance this with an onshore loan at lower interest rates.
+
+**Question mark icon What is the typical shopper profile of Sasseur REIT’s outlets?**
+
+The growing middle-class population in China is a large potential customer base for our outlets. The outlets’ higher-quality branded and luxury goods at reasonable prices appeal to the rising aspirations of the middle class.
+
+Sasseur REIT’s outlets are lifestyle destinations which are located in strategic areas of first-tier and second-tier cities such as Chongqing, Hefei and Kunming, where there are many middle-income consumers with rising incomes. Sasseur (Kunming) Outlet sees a higher proportion of domestic tourists compared to the other outlets, due to Kunming’s status as a well-catered-for tourist destination.
+
+We are also very active in holding promotional and marketing events, and retaining customers through VIP memberships. Our outlets’ VIP members constitute a key component of our shopper base, with sales from this customer segment accounting for more than 60% of Sasseur REIT’s total outlet sales in FY2023. To deepen customer loyalty and retention, we focus on enhancing the outlets’ bespoke VIP services and curating exciting promotions and events for members. As at 31 December 2023, the number of our VIP members rose by 20.5% year-on-year, reaching a new high of 3.5 million.
+
+<!-- PAGE 18 -->
+
+# Interview with CEO
+
+## How does Sasseur REIT plan to further tap on organic growth within its asset portfolio?
+
+In 2023, we continued to fortify the REIT’s resilience by sharpening the outlets’ positioning through a series of successful asset enhancement initiatives (AEI) in the past year, and by further strengthening our leasing efforts. Sasseur (Chongqing Bishan) and Sasseur (Kunming) Outlets achieved record high occupancy rates of 96.8% and 98.5% respectively in the fourth quarter of 2023, demonstrating our effective leasing strategies which have been supported by our active AEIs.
+
+During the year, we continued to strengthen the vibrancy of the outlets’ tenant mixes by curating synergistic retail and lifestyle offerings, as well as partnering brand champions across all outlets. We are planning to initiate more AEIs in 2024 to further enhance the assets’ values.
+
+## Question mark icon With declining interest rates in China, will this have any implications on the capitalisation rates and in turn, the values of Sasseur REIT’s property values?
+
+The valuations of Sasseur REIT’s outlets have been stable for the past three years from 2021 to 2023. The stable valuations were driven by the four outlets’ steady operational performances and strong fundamentals of properties over the past three years during the pandemic period.
+
+Despite the declining interest rates in China, the independent valuers have kept the capitalisation rates of the properties relatively steady, reflecting their conservative stance in valuing the properties.
+
+## What is the status on Sasseur REIT’s asset acquisition plans?
+
+In the past one year, we have made strong efforts to further strengthen the balance sheet. With Sasseur REIT’s low gearing of 25.3% as at 31 December 2023, coupled with the unencumbering of Sasseur (Kunming Outlet), this presents us with further opportunities to optimise the REIT’s debt capacity as we accelerate efforts to pursue inorganic growth opportunities this year.
+
+The REIT’s sizeable debt headroom is approximately $863.4 million (based on regulatory leverage limit of 50.0%) as at 31 December 2023, providing us with ammunition to make asset acquisitions.
+
+However, we would want to ensure that any acquisition that the REIT makes, has to bring long-term value creation to the Unitholders. Currently, the REIT has a Right of First Refusal from the Sponsor for two pipeline assets, Sasseur (Xi’an) Outlet and Sasseur (Guiyang) Outlet.
+
+**Ms Cecilia Tan**
+
+Chief Executive Officer
+
+<!-- PAGE 19 -->
+
+# 首席执行官采访
+
+
+
+**Question mark icon 人民币兑新元一直在走弱。砂之船房托如何管理外汇和融资成本的波动？**
+
+砂之船房托继续保持审慎的资产负债表。我们设有对冲政策管理外汇波动，逐步对冲至少30%至100%的承诺净现金流量的外汇风险。
+
+截至2023年12月31日，砂之船房托约86.7%的借款总额已经通过对冲转换为固定利率或与稳定利率挂钩，到期债务加权平均期限为2.9年。我们将继续通过适当的对冲策略积极管理外汇波动。
+
+
+
+**Question mark icon 砂之船房托计划如何利用中国利率下降的趋势？**
+
+中国一直在降低贷款市场报价利率。2024年2月，五年期利率又再次从4.2%降至3.95%，以进一步支撑经济。
+
+鉴于贷款市场报价利率一直呈下降趋势，而砂之船房托的人民币贷款占总贷款的53.4%，这使得砂之船房托的整体债务成本有所下降，同时也提供了自然对冲。房托的昆明项目目前无抵押，这也进一步增强我们寻求再融资机会时的融资灵活性。
+
+此外，发起人提供给砂之船房托的人民币3.08亿元(约5700万新元)的无抵押固定利率贷款将于2025年3月到期。我们正在探索机会，寻求以较低利率的境内贷款对其进行再融资。
+
+
+
+**Question mark icon 砂之船房托奥莱的典型消费者特征是什么？**
+
+中国不断增长的中产阶级人口是我们奥莱的巨大潜在客户群。砂之船奥莱以合理的价格提供更高品质品牌和奢侈品，吸引了中产阶级日益增长的愿望。
+
+砂之船房托的奥莱为消费者提供超值优惠和独特的生活体验方式，位于重庆、合肥和昆明等一二线城市的战略区域，拥有许多收入不断增长的中等收入消费者。由于昆明是一个非常受欢迎的旅游城市，相比与其他奥莱，砂之船(昆明)奥莱的国内游客比例更高。
+
+
+
+我们还非常积极地举办促销和营销活动，并通过VIP会员资格留住客户。我们的奥莱VIP会员是消费者群体的重要组成部分，该客户群体的销售额占砂之船房托2023财年总销售额的60%以上。为提高客户忠诚度和留存率，我们专注于提升奥莱的定制VIP服务，并为会员策划精彩的促销和活动。截至2023年12月31日，我们的VIP会员人数同比增长20.5%，达到350万人的新高。
+
+**Question mark icon 砂之船房托计划如何进一步挖掘其资产组合的有机增长？**
+
+
+
+在过去一年里，我们通过一系列成功的资产改造，以及增强租赁工作，继续加强房托的韧性。在有效的租赁策略和活跃的资本改造计划带动下，砂之船的重庆璧山项目和昆明项目于2023年第四季度分别创下96.8%及98.5%历史新高的出租率。
+
+我们在2023年也继续透过策划具协同效应的零售及生活时尚产品，以及与所有奥特莱斯的品牌冠军合作，加强租户组合的活力。我们计划在2024年启动更多资本改造计划，进一步提升资产价值。
+
+<!-- PAGE 20 -->
+
+# 首席执行官采访
+
+## Question mark icon 中国利率的下降是否会对砂之船房托未来的资本化率及其价值产生影响？
+
+砂之船房托的奥莱估值在过去的2021年至2023年里一直保持稳定。尽管过去三年中国受新冠疫情影响，砂之船房托稳定的资产估值是由四家奥莱的稳定经营表现和强劲的物业基本面所推动的。
+
+虽然中国利率下降，独立估值师一直维持砂之船房托奥莱的资本化率相对稳定，反映其对该等资产估值的保守立场。
+
+## Question mark icon 砂之船房托的资产收购计划进展得如何？
+
+在过去的一年里，我们努力加强资产负债表。截至2023年12月31日，砂之船房托的杠杆率为25.3%，加上砂之船(昆明)奥莱无抵押，为我们提供了进一步优化房托债务能力的机会，帮助我们加快今年追求收购机会的步伐。
+
+截至2023年12月31日，房托拥有约为8.6亿新元的庞大债务空间(基于50.0%的监管杠杆限制)，为我们提供充足的空间进行资产收购。
+
+我们希望确保房托进行的任何收购都必须为单位持有人创造长期价值。目前，房托对两家资产，砂之船(西安)奥莱和砂之船(贵阳)奥莱，拥有优先购买权。
+
+**陈凤莱女士**
+
+首席执行官
+
+<!-- PAGE 21 -->
+
+# Financial Review
+
+## FINANCIAL OVERVIEW
+
+<table>
+  <thead>
+    <tr>
+        <th>Consolidated Statement of Total Return</th>
+        <th>FY2023</th>
+        <th>FY2022</th>
+        <th>Change</th>
+    </tr>
+    <tr>
+        <th>and Distribution Statement</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>EMA Rental Income¹</td>
+        <td>124,914</td>
+        <td>121,324</td>
+        <td>3.0</td>
+    </tr>
+    <tr>
+        <td>REIT Manager’s Management Fees</td>
+        <td>(8,335)</td>
+        <td>(8,850)</td>
+        <td>(5.8)</td>
+    </tr>
+    <tr>
+        <td>Trust Expenses</td>
+        <td>(1,589)</td>
+        <td>(1,638)</td>
+        <td>(3.0)</td>
+    </tr>
+    <tr>
+        <td>Exchange Differences</td>
+        <td>(813)</td>
+        <td>110</td>
+        <td>n.m.</td>
+    </tr>
+    <tr>
+        <td>Finance Costs (net)</td>
+        <td>(27,123)</td>
+        <td>(26,109)</td>
+        <td>3.9</td>
+    </tr>
+    <tr>
+        <td><strong>Total Return before Fair Value Adjustments and Tax</strong></td>
+        <td><strong>87,054</strong></td>
+        <td><strong>84,837</strong></td>
+        <td><strong>2.6</strong></td>
+    </tr>
+    <tr>
+        <td>Change in Fair Value of Financial Derivatives</td>
+        <td>614</td>
+        <td>70</td>
+        <td>n.m.</td>
+    </tr>
+    <tr>
+        <td>Fair Value Adjustments to Investment Properties</td>
+        <td>(1,289)</td>
+        <td>(4,720)</td>
+        <td>(72.7)</td>
+    </tr>
+    <tr>
+        <td><strong>Total Return before Tax</strong></td>
+        <td><strong>86,379</strong></td>
+        <td><strong>80,187</strong></td>
+        <td><strong>7.7</strong></td>
+    </tr>
+    <tr>
+        <td>Tax Expense</td>
+        <td>(23,958)</td>
+        <td>(18,089)</td>
+        <td>32.4</td>
+    </tr>
+    <tr>
+        <td><strong>Total Return Attributable to Unitholders</strong></td>
+        <td><strong>62,421</strong></td>
+        <td><strong>62,098</strong></td>
+        <td><strong>0.5</strong></td>
+    </tr>
+    <tr>
+        <td>Distribution Adjustments</td>
+        <td>20,929</td>
+        <td>26,405</td>
+        <td>(20.7)</td>
+    </tr>
+    <tr>
+        <td><strong>Income Available for Distribution to Unitholders</strong></td>
+        <td><strong>83,350</strong></td>
+        <td><strong>88,503</strong></td>
+        <td><strong>(5.8)</strong></td>
+    </tr>
+    <tr>
+        <td>Less: Amount Retained²</td>
+        <td>(5,980)</td>
+        <td>(8,181)</td>
+        <td>(26.9)</td>
+    </tr>
+    <tr>
+        <td><strong>Amount to be Distributed to Unitholders</strong></td>
+        <td><strong>77,370</strong></td>
+        <td><strong>80,322</strong></td>
+        <td><strong>(3.7)</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+n.m. – not meaningful
+
+## EMA RENTAL INCOME
+
+Sasseur REIT’s EMA rental income (excluding straight-line adjustments) was $124.9 million, increasing by $3.6 million or 3.0% as compared to FY2022, mainly due to the weakening of Renminbi (RMB) against Singapore Dollar as compared to FY2022. EMA rental income (excluding straight-line adjustments) for FY2023 was higher by RMB63.7 million or 10.7% as compared to FY2022.
+
+## REIT MANAGER’S MANAGEMENT FEES
+
+Sasseur REIT adopts a base and performance fee structure based on income available for distribution to Unitholders (or distributable income) and distribution per Unit (DPU) growth respectively to derive the management fees to the REIT Manager which is aligned with the interests of the Unitholders. Under the Trust Deed, the REIT Manager is entitled to receive a base fee of 10.0% per annum of the distributable income, as well as a performance fee of 25.0% of the difference in DPU in a financial year compared with the preceding financial year, multiplied by the weighted average number of Units in issue. The REIT Manager’s management fees of $8.3 million was 5.8% lower than FY2022 mainly due to lower distributable income in FY2023.
+
+The REIT Manager has elected to receive 100% of its base fee in the form of Units for FY2023 and FY2022.
+
+## FINANCE COSTS (NET)
+
+Finance costs (net) of $27.1 million were 3.9% higher than FY2022 largely due to higher interest rates on the offshore loans for FY2023 as compared to FY2022. More information on the borrowings is available in the Capital Management section.
+
+Notes:
+
+\*1 For a more meaningful comparison, EMA rental income excluding straight-line adjustments of $1,812,000 for FY2023 and $4,608,000 for FY2022.
+
+\*2 For FY2023, approximately $5,980,000 of the income available for distribution has been retained for the principal amortisation of onshore loans and asset enhancement initiatives. For FY2022, approximately $8,181,000 of the income available for distribution has been retained to fund the transaction costs of refinancing and for working capital.
+
+<!-- PAGE 22 -->
+
+# Financial Review
+
+## FAIR VALUE ADJUSTMENTS TO INVESTMENT PROPERTIES
+
+Change in fair value of investment properties represents the fair value losses on investment properties based on the portfolio valuation carried out by Jones Lang LaSalle Corporate Appraisal and Advisory Limited as at 31 December 2023 compared to the carrying value of the properties.
+
+Investment properties are stated at fair value based on the valuations performed by independent valuers, Jones Lang LaSalle Corporate Appraisal and Advisory Limited and Colliers Appraisal & Advisory Services Co., Limited as at 31 December 2023 and 31 December 2022 respectively. In RMB terms, the valuation of the investment properties was RMB8,497.0 million as at 31 December 2023, which was 0.02% higher than the valuation of RMB8,495.0 million as at 31 December 2022. The fairly stable valuation reflects the resilience of the investment properties' performance. In Singapore Dollar terms, the valuation of investment properties is 3.6% lower as at 31 December 2023 as compared to 31 December 2022, mainly due to lower translated value arising from depreciation of Renminbi against Singapore Dollar on 31 December 2023 as compared to 31 December 2022.
+
+The fair value adjustments to investment properties do not have an impact on income available for distribution to Unitholders.
+
+## TAX EXPENSE
+
+Tax expense of $24.0 million was higher than FY2022 by $5.9 million, mainly due to the absence of one-off non-recurring tax refund of $2.1 million relating to FY2021 for Sasseur (Chongqing Liangjiang) Outlet which was received in FY2022 and higher operational profit in FY2023.
+
+## DISTRIBUTION ADJUSTMENTS
+
+Distribution adjustments include non-tax deductible expenses relating to the REIT Manager’s management fees which are payable in the form of Units, amortisation of borrowing-related transaction costs, change in fair value of investment properties, deferred tax expense, change in fair value of financial derivatives as well as unrealised exchange differences.
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="2">Distribution Adjustments</th>
+        <th>FY2023</th>
+        <th>FY2022</th>
+        <th>Change</th>
+    </tr>
+    <tr>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>REIT Manager’s management fees payable in Units</td>
+        <td>8,335</td>
+        <td>8,850</td>
+        <td>(5.8)</td>
+    </tr>
+    <tr>
+        <td>Amortisation of borrowing-related transaction costs</td>
+        <td>1,518</td>
+        <td>6,423</td>
+        <td>(76.4)</td>
+    </tr>
+    <tr>
+        <td>Fair value adjustments to investment properties</td>
+        <td>1,289</td>
+        <td>4,720</td>
+        <td>(72.7)</td>
+    </tr>
+    <tr>
+        <td><strong>Deferred tax expense</strong></td>
+        <td><strong>7,485</strong></td>
+        <td><strong>6,624</strong></td>
+        <td><strong>13.0</strong></td>
+    </tr>
+    <tr>
+        <td>Unrealised exchange differences</td>
+        <td>2,916</td>
+        <td>(142)</td>
+        <td>n.m.</td>
+    </tr>
+    <tr>
+        <td>Change in fair value of financial derivatives</td>
+        <td>(614)</td>
+        <td>(70)</td>
+        <td>n.m.</td>
+    </tr>
+    <tr>
+        <td><strong>Total distribution adjustments</strong></td>
+        <td><strong>20,929</strong></td>
+        <td><strong>26,405</strong></td>
+        <td><strong>(20.7)</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+n.m. – not meaningful
+
+## UNITS IN ISSUE
+
+During FY2023, Sasseur REIT issued 11,555,795 new Units as payment of management fees to the REIT Manager. As a result, the total number of Units in issue increased to 1,242,647,853 as at 31 December 2023 from 1,231,092,058 as at 31 December 2022.
+
+<!-- PAGE 23 -->
+
+# DISTRIBUTABLE INCOME
+
+Income available for distribution to Unitholders before retention for FY2023 was $83.4 million, 5.8% lower compared to $88.5 million for FY2022. Approximately $6.0 million or 7.2% of the income available for distribution for FY2023 has been retained for the principal amortisation of onshore loans and asset enhancement initiatives. After cash retention, the amount to be distributed to Unitholders for FY2023 was $77.4 million, 3.7% lower compared to $80.3 million distributed to Unitholders for FY2022.
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="3">Statement of Financial Position Highlights</th>
+        <th>As at</th>
+        <th>As at</th>
+        <th rowspan="3">Change %</th>
+    </tr>
+    <tr>
+        <th>31 December 2023</th>
+        <th>31 December 2022</th>
+    </tr>
+    <tr>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Investment Properties</td>
+        <td>1,580,190</td>
+        <td>1,638,981</td>
+        <td>(3.6)</td>
+    </tr>
+    <tr>
+        <td>Total Assets</td>
+        <td>1,747,680</td>
+        <td>1,767,840</td>
+        <td>(1.1)</td>
+    </tr>
+    <tr>
+        <td>Loans and Borrowings</td>
+        <td>432,613</td>
+        <td>487,355</td>
+        <td>(11.2)</td>
+    </tr>
+    <tr>
+        <td>Total Liabilities</td>
+        <td>728,068</td>
+        <td>700,041</td>
+        <td>4.0</td>
+    </tr>
+    <tr>
+        <td>Net Assets</td>
+        <td>1,019,612</td>
+        <td>1,067,799</td>
+        <td>(4.5)</td>
+    </tr>
+    <tr>
+        <td>Number of Units in Issue and to be Issued ('000)</td>
+        <td>1,245,670</td>
+        <td>1,233,752</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>Net Asset Value per Unit ($)</td>
+        <td>0.82</td>
+        <td>0.87</td>
+        <td>(5.7)</td>
+    </tr>
+  </tbody>
+</table>
+
+# NET ASSET VALUE PER UNIT
+
+Net Asset Value (NAV) per Unit as at 31 December 2023 was lower at $0.82 from $0.87 as at 31 December 2022, mainly attributed to the net translation losses relating to investment properties denominated in RMB arising from depreciation of Renminbi against Singapore Dollar as compared to 31 December 2022. Without the impact of the RMB weakness, investment properties’ valuation in RMB would have been stable at 0.02% higher YoY.
+
+# VALUATION OF INVESTMENT PROPERTIES
+
+As at 31 December 2023, Sasseur REIT’s investment properties were independently assessed at $1,580.2 million (RMB8,497.0 million) by Jones Lang LaSalle Corporate Appraisal and Advisory Limited. The Trustee had appointed the valuer for the valuation of investment properties as at 31 December 2023. In RMB terms, the valuation of the investment properties was RMB8,497.0 million as at 31 December 2023, which was 0.02% higher than the valuation of RMB8,495.0 million as at 31 December 2022. The fairly stable valuation reflects the resilience of the investment properties' performance. In SGD terms, valuation of investment properties was 3.6% lower as at 31 December 2023 as compared to 31 December 2022, mainly due to lower translated value arising from depreciation of Renminbi against Singapore Dollar on 31 December 2023 as compared to 31 December 2022.
+
+<table>
+  <thead>
+    <tr>
+        <th>Property</th>
+        <th>RMB/$ million</th>
+        <th>Valuation as at 31 December 2023</th>
+        <th>Valuation as at 31 December 2022</th>
+        <th>Change %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="2">Sasseur (Chongqing Liangjiang) Outlet</td>
+        <td>RMB</td>
+        <td>3,129.0</td>
+        <td>3,129.0</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>581.9</td>
+        <td>603.7</td>
+        <td>(3.6)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Sasseur (Chongqing Bishan) Outlet</td>
+        <td>RMB</td>
+        <td>834.0</td>
+        <td>834.0</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>155.1</td>
+        <td>160.9</td>
+        <td>(3.6)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Sasseur (Hefei) Outlet</td>
+        <td>RMB</td>
+        <td>2,882.0</td>
+        <td>2,880.0</td>
+        <td>0.1</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>536.0</td>
+        <td>555.7</td>
+        <td>(3.5)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Sasseur (Kunming) Outlet</td>
+        <td>RMB</td>
+        <td>1,652.0</td>
+        <td>1,652.0</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>307.2</td>
+        <td>318.7</td>
+        <td>(3.6)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Portfolio</td>
+        <td>RMB</td>
+        <td>8,497.0</td>
+        <td>8,495.0</td>
+        <td>0.02</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>1,580.2</td>
+        <td>1,639.0</td>
+        <td>(3.6)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 24 -->
+
+# Capital Management
+
+The REIT Manager adopts a disciplined and proactive approach in ensuring adequate funding and managing refinancing requirements and interest rate exposure. The REIT Manager also aims to optimise the REIT's capital structure and cost of capital.
+
+<table>
+  <thead>
+    <tr>
+        <th>Key Financial Indicators</th>
+        <th>As at</th>
+        <th>As at</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>31 December 2023</th>
+        <th>31 December 2022</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Gross borrowings ($ million)</td>
+        <td>442.1</td>
+        <td>488.3</td>
+    </tr>
+    <tr>
+        <td>Aggregate leverage (%)</td>
+        <td>25.3</td>
+        <td>27.6</td>
+    </tr>
+    <tr>
+        <td>Average debt maturity (years)</td>
+        <td>2.9</td>
+        <td>0.2</td>
+    </tr>
+    <tr>
+        <td>Debt headroom<sup>1,2</sup> ($ million)</td>
+        <td>863.4</td>
+        <td>791.0</td>
+    </tr>
+    <tr>
+        <td>Available undrawn facilities³ ($ million)</td>
+        <td>-</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>Weighted average cost of debt per year⁴ (%)</td>
+        <td>5.6</td>
+        <td>4.9</td>
+    </tr>
+    <tr>
+        <td>Interest coverage ratio⁵ (times)</td>
+        <td>4.3</td>
+        <td>4.4</td>
+    </tr>
+  </tbody>
+</table>
+
+The Manager adopts a disciplined and proactive approach in ensuring adequate funding and managing refinancing requirements and interest rate exposure. The REIT Manager also aims to optimise the REIT's capital structure and cost of capital.
+
+Sasseur REIT continues to maintain a prudent balance sheet. As at 31 December 2023, its aggregate leverage stood at 25.3%, implying a sizeable debt headroom for funding potential acquisitions. Interest coverage ratio remained healthy at 4.3 times.
+
+Approximately 86.7% of Sasseur REIT’s total borrowings are hedged to fixed interest rates or pegged to stable/fixed interest rates, with a weighted average debt to maturity of 2.9 years as at 31 December 2023. Approximately 53.4% of Sasseur REIT’s total loans are denominated in RMB, helping to cushion Sasseur REIT’s overall cost of debt given that the five-year Loan Prime Rate in China has been trending lower, while also providing a natural hedge.
+
+Sasseur REIT has no significant refinancing requirements till 2026 while the unencumbered Sasseur (Kunming) Outlet further enhances financing flexibility for the REIT in seeking refinancing opportunities. In December 2023, Sasseur REIT and its Sponsor extended the maturity of the unsecured fixed-rate Sponsor Loan of RMB308.0 million (approximately $57.0 million) by another year from March 2024 to March 2025.
+
+**Notes:**
+
+<sup>1</sup> Debt headroom is computed based on total assets and assumes a corresponding increase in total assets with new debts raised.
+
+<sup>2</sup> Based on MAS prescribed leverage limit of 50.0%.
+
+<sup>3</sup> $10 million of the revolving credit facility was drawn down as at 31 December 2023.
+
+<sup>4</sup> Weighted average cost of debt ratio took into consideration hedged borrowings as well as borrowing-related fees.
+
+<sup>5</sup> On dividing the trailing 12 months earnings before interest, tax, depreciation and amortisation (excluding the effects of any fair value changes in financial derivatives and investment properties, and foreign exchange translation) by the trailing 12 months interest expense and borrowing-related fees as set out in the CIS Code.
+
+<!-- PAGE 25 -->
+
+## Debt Maturity Profile
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Component</th>
+        <th>Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2025</td>
+        <td>Sponsor loan (13.0% of total loans)</td>
+        <td>S$57 million¹</td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>RMB loan</td>
+        <td>RMB308 million</td>
+    </tr>
+    <tr>
+        <td>2026</td>
+        <td>Offshore loans (S$125 million + US$54 million)</td>
+        <td>S$206 million¹ (46.6% of total loans)</td>
+    </tr>
+    <tr>
+        <td>2026</td>
+        <td>Revolving credit facility</td>
+        <td>S$10 million</td>
+    </tr>
+    <tr>
+        <td>2028</td>
+        <td>Onshore RMB loan</td>
+        <td>RMB960 million / S$179 million¹ (40.4% of total loans)</td>
+    </tr>
+  </tbody>
+</table>
+
+Unsecured fixed rate loan from Sponsor extended to 2025
+
+## Funding Sources
+
+<table>
+  <thead>
+    <tr>
+        <th>Source</th>
+        <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Onshore loans²</td>
+        <td>53.4%</td>
+    </tr>
+    <tr>
+        <td>Offshore loans</td>
+        <td>46.6%</td>
+    </tr>
+  </tbody>
+</table>
+
+## Debt Currency Profile
+
+<table>
+  <thead>
+    <tr>
+        <th>Currency</th>
+        <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>RMB loan²</td>
+        <td>53.4%</td>
+    </tr>
+    <tr>
+        <td>US$ loan</td>
+        <td>16.1%</td>
+    </tr>
+    <tr>
+        <td>S$ loan</td>
+        <td>30.5%</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+1 Closing S$:RMB and US$:S$ rates of 5.3772 and 1.3172 as at 31 December 2023 respectively.
+
+2 Includes S$57 million Sponsor loan.
+
+<!-- PAGE 26 -->
+
+# **Year** in Brief
+
+Sasseur Outlets building at night with illuminated signs
+
+**FEBRUARY 2023**
+
+**Completed refinancing of outstanding loans ahead of maturity date**
+
+No significant refinancing requirements till 2026
+
+**Portfolio occupancy at all-time high of 97.2% in fourth quarter (4Q) 2022**
+
+FY2022 distribution per Unit (DPU) of 6.550 Singapore cents
+
+**ARPIL 2023**
+
+**5ᵗʰ Annual General Meeting**
+
+with all proposed resolutions duly passed
+
+**MAY 2023**
+
+**Platinum Winner, Annual Report category**
+
+**Highest first quarter (1Q) DPU in five years**
+
+1Q 2023 DPU of 1.849 Singapore cents
+
+<!-- PAGE 27 -->
+
+# AUGUST 2023
+
+**Ranked 17ᵗʰ out of 43 REITs and Business Trusts**
+
+in the Singapore Governance and Transparency Index (SGTI) 2023; score of 91.2 is an improvement of 3.2 points from 2022 and also the highest score since 2019 when Sasseur REIT was first included in the SGTI rankings
+
+**Portfolio’s outlet sales in first half year (1H) 2023 surpassed pre-COVID level in 1H 2019**
+
+1H 2023 DPU of 3.322 Singapore cents
+
+# NOVEMBER 2023
+
+**Double-award win: Overall Sector Winner and Highest Weighted Return on Equity Over Three Years**
+
+THE EDGE SINGAPORE BILLION DOLLAR CLUB 2023 CENTURION CLUB logo
+
+**Portfolio occupancy at record high of 97.9% in third quarter (3Q) 2023; Aggregate leverage of 25.4% as at 30 September 2023, lowest amongst Singapore REITs and since listing**
+
+3Q 2023 DPU of 1.512 Singapore cents
+
+# DECEMBER 2023
+
+**Winner, Best Innovation in Shareholder Communications**
+
+IR magazine Award winner South East Asia 2023 logo
+
+**Extended the maturity of RMB308.0 million Sponsor Loan**
+
+for another year from March 2024 to March 2025
+
+Sasseur (Chongqing Bishan) Outlet building exterior
+
+Sasseur (Chongqing Bishan) Outlet
+
+<!-- PAGE 28 -->
+
+# 艺术与商业的对话
+
+1985年，重庆北碚，西南师范大学。
+
+二十岁的徐荣灿骑着一辆嘎吱着响的二八零自行车，风吹拂起他的长发，肩上的帆布背包里，装着他的青春激情和艺术梦想——几本教材、一台老相机。对于艺术美学有着敏锐直觉的徐荣灿，彼时选择用镜头去捕捉他所看到的，用胶片来表达他所想到的——外表简单而内心细腻的他，更喜欢选择用黑白胶片来叙述他对世界的感受。庄子说：五色乱目。在他看来，纯粹的黑白与变幻莫测、微妙灵动的灰色一起，更能真实地还原光影交错的丰富的瞬间，更有冻结时间的魔力。在光影的神奇混合中，艺术的基因也被深深地植入到他的血液里。
+
+1988年，成为西南师范大学一名年轻教师的徐荣灿创下了一个奇迹——年轻的生物系老师——不仅在自己的专业上获得全国的奖项，还在全国性的青年摄影家比赛中拿了奖。这也许就是一种暗示——这个年轻人今后注定会用某种方式，去和艺术做极其精彩的对话。
+
+好的艺术作品就是精神交流的载体，一群怀着梦想的年轻人，一瓶啤酒、一把吉它，就可以在球场边聊一整夜。从文学、艺术，到音乐，人生......不断地有人加入，最初的三两知已的聚会变成了越来越多的一群朋友的狂欢。梦想也在年轻不羁的灵魂碰撞下越来越广阔。作为这群追梦人的领头者，徐荣灿更看重创造过程中的情神愉悦。他东拼西凑了6500元人民币，第一次尝试着把艺术感受放置于活动空间，变成可持续的体验。在他看来，艺术或许不仅仅是有限的平面展示，它可以变成一个立体的体验空间。
+
+> 1980年代，对于中国内地而言，是一个充满惊奇、梦想和浪漫气息的年代，一个将哲学启蒙、思想自由、艺术探索澎湃地交织在一起的精神黄金时代。那个时代，并不以物质的丰盛见长，却涌现出大量中国当代最杰出的诗人、作家、画家、音乐人，其影响力直到今天，依然巨大。
+
+1989年，重庆北碚。西南大学的校园一隅。一间小小的咖啡馆悄然开张了。竹篱笆的墙上挂满了老照片，船家的缆绳挂着大红的灯笼，厚实的实木门正好迎着夕阳的方向。就像对自己最心爱的孩子，取个什么名字呢？从开始创作到开门迎宾，已过月余，仍然没有想出合适的名字。那时台湾歌手苏芮的专辑《台北东京》刚刚火到内地。台北、东京，是遥远而陌生的两个地名，却让人联想到多元的生活影像与文化背景。专辑里的一首《砂之船》是大家的最爱，这首歌夜夜吟唱在绿荫深处的小咖啡馆，淡淡的忧伤与青春的迷茫经由苏芮的空灵歌声，婉徊悠扬，很符合文艺青年的心境。但徐荣灿感受到的却是小船终会抵达的梦想和远方。就叫"砂之船"吧，这个名字代表了徐荣灿对艺术现状的思考，也寄托了他对未来的期望。于是门口放一摞的土陶罐，贴着大红的纸，酣畅淋漓地写上了三个书法字——"砂之船"。一旁的一位青年法语老师脱口而出"SASSEUR"，这是一个法文单词，意指经由自然动力推动的风车，是营造自然与人类和谐关系的产物，浪漫优雅。从此，"砂之船"代表着自然、自由、乐观、理想的这个名字被叫响了。
+
+1989年砂之船咖啡馆老照片
+
+砂之船咖啡馆内部装饰细节
+
+贴有“砂之船”书法字的土陶罐
+
+<!-- PAGE 29 -->
+
+就是这间代表着啤酒、音乐、艺术、情感......名为"砂之船"的小咖啡馆，很快成了校园艺术菁英们的据点——诗人，画家，乐队，每天都排满了地下摇滚表演、美术批评沙龙......在那个精神浪漫的年代，这里俨然就是他们走出坚硬的制度化文化困境的美妙乌托邦。
+
+咖啡馆不赚钱，但咖啡馆的沙龙氛围，让徐荣灿开始思考——获得视觉与体验快感是人类的本能，而现代人对艺术的本能渴望，已经在转化为对美好生活品质的追求。艺术源于生活，它的终极目标不是远离生活的独立存在，只有更贴近人们的现实生活，艺术才能更有活力，让生命的存在更有意义、更富于美感。
+
+"我喜欢的东西，一定有人喜欢！"1991年，徐荣灿在离职申请上签下了自己的大名，结束了让普通人羡慕的大学老师的生涯，只带走了"砂之船"这一个名字。在去欧洲短期游学之后，位于重庆解放碑临江支路的砂之船时装屋开张了。这是他第一次真正地将艺术理念与商业相融合。小店空间不大，砖墙、岩石，原木一如既往地粗烁，装备了专业级的音响，涂鸦的墙上挂满了从沿海淘来的牛仔裤、棉卫衣。代表西方年轻人的生活方式、别具一格的店面让"砂之船"在这个传统商业中心里一炮而红。很快，从一家小店，发展出两家、三家......客人越来越多，店面越开越大，货品也越来越丰富。市场的热烈反应让他看到了艺术与商业碰撞的火花。
+
+90年代中期，中国复苏的市场开始呈现出繁荣的景象，一些国际品牌开始在中国寻找商业机会。徐荣灿，这个艺术气质与商业头脑皆具的人很容易就吸引到他们的关注。而徐荣灿也深深认识到在真正的奢侈品里面蕴含了丰富的历史、人文、技术，它们不仅是物质消费品，更是一种文化和艺术精神的消费。这样的认知与国际品牌长期发展的愿景高度一致，基于相互的了解与认可，双方很快建立了良好的合作关系。
+
+1997年，由李嘉诚投建的，代表当时重庆最高消费水准的大都会购物广场开业，整个一楼的名品区，砂之船代理的国际品牌专卖店就占据了半壁江山。
+
+1999年，为了更深入了解奢侈品背后的文化逻辑，徐荣灿选择再次游学欧洲。东方与西方、历史与未来的文化的碰撞再次深深震撼了他。他开始渴望能拥有一个自己的品牌，来释放他对艺术、服装和时尚的理解。
+
+2001年，游学归来的他成立了自己的女装品牌，品牌延用了他最心爱的名字"SASSEUR"。与此同时，他在重庆璧山郊外的森林里设计修建了自己的品牌总部，与之前的空间设计不同，这一次，是全新的创作，再次沉醉于创作的激情里，每一栋建筑都由他亲自规划与设计，依山而建的红砖建筑群最终以他梦想的方式高低错落呈现在三十多亩的青山绿水之间，除了满足SASSEUR品牌设计、生产、展示的功能，小型酒店、网球场、游泳池......使得这里不仅仅是SASSEUR的品牌总部，更是一座远离尘俗的意式的时尚庄园。
+
+自创品牌是一段神奇的体验——一边代理国际名品，一边打造自己的服装品牌——从国际品牌里学习经验，从中国市场里吸取养分，同时充分表达自己对于时尚的认知。这个定位于中高端市场的女装一经推出就得到了市场的认可，短短两年时间，"SASSEUR"就在中国二十几个城市开设了专卖店。随着市场的拓展，原材料采购和生产周期的限制，让商品与市场的需求总是存在不可调和的矛盾。良好的业绩背后，日益增大的库存让徐荣灿发现了服装产业持续经营的危机。怎样在保证业绩增长的前提下降低库存，让资金高效流动，这不仅仅是砂之船女装的痛点，也是所有品牌服装的痛点。2005年，砂之船再次在重庆机场路旁拿地七十亩，开始规划筹建自己的品牌管理基地，为未来的集团化管理做准备。徐荣灿经常一边彻夜画着品牌基地的建筑草图，一边思考着如何打开这个服装产业链中的死结。
+
+与生俱来的艺术天分与时尚触角，让徐荣灿的内心在意大利这个古老的国度感受到深深的共鸣，痴迷于意式生活方式的他经常会往来于意大利采风，在此期间，怀着对服装产业链的思考，徐荣灿发现了奥特莱斯这个新奇的事物。奥特莱斯的原意是"出口、出路"，这种专供品牌销售过季下架商品的营销形态，一方面让所有品牌商可以合理消化库存且不影响品牌形象，另一方面"名品、低价"的高性价比实质能让更多的消费者受益。这个关于"消费人性本质"的发现让徐荣灿欣喜不已，经过深思熟虑，他做了一个大胆的规划——停止代理合作，关闭女装品牌，把原本的品牌生产基地规划为奥特莱斯商场，在品牌的库存压力与消费者的性价比需求之间搭建一个链接平台。这个规划一经提出，就受到来自各方的反对与质疑——是的，已经走过最艰难的创业期，眼看着事业的大路越走越宽阔，在这样的关键时候押上集团所有成熟的业务去开辟一条前途未卜的险径，让一切回归为零，这确实是让大多数人不能理解。得不到团队支持的徐荣灿，也不由得对自己的想法产生了深深的犹疑。
+
+砂之船历史照片组合，包括咖啡馆访客、徐荣灿在咖啡馆门口、砂之船酒瓶以及代理的国际品牌专卖店
+
+1. 砂之船咖啡馆的访客
+
+2. 年轻的徐荣灿在砂之船咖啡馆门口
+
+3. 带有"砂之船"名字的酒瓶
+
+4. 砂之船在重庆代理的国际品牌专卖店
+
+<!-- PAGE 30 -->
+
+# 品牌故事
+
+砂之船(重庆两江)奥莱全景图
+
+L Catterton Asia和砂之船集团的战略股东投资签约仪式现场
+
+徐荣灿和杨雪出席Sasseur & Friends Party
+
+1. 砂之船(重庆两江)奥莱
+
+2. L Catterton Asia和砂之船集团的战略股东投资签约仪式
+
+3. 徐荣灿和杨雪出席 Sasseur & Friends Party
+
+<!-- PAGE 31 -->
+
+2004年的夏末秋初，三位朋友相约前来参观璧山的砂之船品牌总部，充满意式风情和艺术氛围的庄园式园区让他们深感震撼，参观完毕，围坐在徐荣灿办公室的露台，远近都是极好的风景，话题从对园区建筑设计规划的赞叹自然就切换到了徐荣灿那个深藏于心的梦想。从产业的痛点，到闭环的形成，再到消费者、品牌方、经营者的利益分析，再到接下来需要解决的问题：没有商业地产的经验、没有甲方运营的经验、没有商业团队、没有项目所在地的区位优势......类似这样的讨论已经有很多次了，每次的探讨的结果都会让他对自己的决策多一份犹豫。而这一次，因为一个女子的加入，现场俨然变成了一次支持与反对的灵感撞击的头脑风暴。坚定的站在徐荣灿之一方的就是杨雪，时年二十一岁的她，内心纯净，聪慧伶俐，有勇善谋。讨论最后，干干脆脆几个字落地有声："为什么不做！所有问题都有解决的办法，这么好的想法，不去实施，你永远也不会知道行不行。"看似淡定的坚毅，瞬间让徐荣灿恢复时在离职申请上签字的豪迈自信。这是很长一段时间以来，徐荣灿所得到的最肯定和直接的支持。复杂的问题变得简单，也让他胸中郁藏的所有藩篱顿消。他记住了她的名字——杨雪。他的才情与情怀感染了她，她的灵动与聪慧也打动了他，因为这一句话，从此，一个人的梦想，成为两个人的江湖。
+
+砂之船(重庆两江)奥莱的成功，由此引起了政商各界的热切关注。2010年，杭州市政府向砂之船发出邀请。砂之船，这个诞生于中国西部的年轻商业品牌，从此开始首次走出重庆，接下来，杭州、南京、合肥、昆明、长春、西安、贵阳、长沙、兰州、扬州、厦门、苏州、福州、石家庄、上海、深圳、乌鲁木齐、银川、广州......到2023年年底，砂之船奥莱已在中国20个直辖市、省会城市或高速发展城市签约落地22家大型超级奥莱，在营17家超级奥莱；砂之船奥莱的旋风，伴随着徐荣灿的艺术商业理想，愈演愈烈。
+
+砂之船下决心全面转航，成为中国第三家投入奥特莱斯行业中的企业。要将原有的品牌基地规划调整为奥特莱斯，要完成的不仅仅是项目调规的行政手续，还有与之配合的周边交通动线改造，涉及到交通、园林，市政，路管......多个行政主管部门，"所有问题都有解决的办法"——为了从封闭的机场高速开一个下道口直达项目，杨雪抱着规划图一个部门一个部门的跑，硬是把不可能变为可能。机场高速的匝道开口，无疑从根本上改变了砂之船集团首个奥莱项目的交通属性，打通了项目未来成功的主动脉。全面转航的砂之船面临的最大问题还是招商，集团的各部门都在摸索当中完成了部门组建与分工，唯有国际品牌的招商工作一直搁浅，同样没有经验的杨雪又再次担当，带着一群新人从零开始，梳理出意向合作国际品牌，按着商品吊牌上的地址一个个一轮轮拜访，也硬是让最初理想设定中的卖场品牌规划从图纸变成了现实......并没有太多工作经验的杨雪，凭着与徐荣灿同样的时尚敏感度，凭着对这一份梦想执着而坚定的热爱，以她特有的冷静与勇气快速地在各类工作中完成角色切换。徐荣灿所有天马行空的创意，总能经过她变成可以落地实现的好点子。而正是这种相互的肯定与认可，又激发出相互更多的潜力。向着梦想飞奔的脚步越来越充满激情——激情是不可思议的力量，激情带来创造力，也带来勇气与斗志，所有的困难都变成充满乐趣的挑战：于是，原本只满足品牌开发生产需求的现代化厂房变成了布局合理的商城，原本拦在机场路外需要绕行的砂之船奥莱有了一条从机场路直达的宽阔匝道，原本空白的招商团队在经历过实战中的学习之后，快速成长为业内最具活力的生力军......徐荣灿与杨雪之间无缝衔接的默契，无疑是砂之船成功转型的加速剂。
+
+与此同时，砂之船的成功也持续吸引着国际资本市场的关注。2011年，砂之船集团与全球领先的美国华平投资集团完成战略重组。2015年全球奢侈品零售巨头LVMH旗下全球最大的消费品投资公司 L Catterton Asia 成为砂之船集团的重要战略股东，给企业发展带来了强大的资源优势。2016年，"砂之船超级奥莱全球发布会"在重庆盛大举行。平安不动产成为砂之船重要战略股东，同时，全球最大消费品投资公司 L Catterton Asia 增持砂之船股份。
+
+深入骨髓的艺术思维也给徐荣灿的商业实践带来深远的影响。让艺术改变生活的初衷一直影响着他。如果说最初的精品小店让他感受到服装之美，接下来的国际品牌代理的经历则让他触摸到品牌文化之美，品牌制造商让他体会到技术之美，砂之船的艺术商业环境打造让他深入建筑之美。建筑是艺术，但艺术不仅仅是建筑，艺术是种子，是对自然的敬畏，对历史的尊重，对人性的歌颂。中国很大，每一个城市的个性、历史、文化都不同。他把每一个项目都当成自己的艺术作品——从建筑设计，环境设计，到商业氛围营造，同时力图在地域文化中抓取设计要素，建立商业、艺术与体验者之间的和谐共融联系。也正是在这种思维的影响下，强调体验感的砂之船奥莱更具温度与识别度。他希望砂之船奥莱不仅能满足人们消费的需求，同时也是源于自然，发于心灵的艺术作品，从而成为当地的文化地标。
+
+能引发人们共鸣共情的艺术作品才是好作品，商业也如是——能深知各方需求才能成为成功的商业体。此时的砂之船，经历了服装产业链中的所有角色：设计、生产、销售，也经历了商业中的所有角色：消费者、代理商、制造商、品牌商，恰恰是这些优于同行业的经验，让砂之船能够快速地完成角色转换，也给未来砂之船在奥莱行业中的持续稳定的运营奠定了坚实的基础。
+
+用艺术家的情怀去打造商业环境，用企业家的思维去开拓市场的空间，用不忘初心的坚持去滋养梦想。当砂之船旗下四个项目在2018年成功在新加坡联交所完成REIT上市时，面对一个崭新的发展格局和充满广阔空间的未来，砂之船品牌文化里最基本价值观——"追求美、发现美，创造美、传播美"，却永远不会改变。这句话不仅铭刻着徐荣灿投身商业的初心，也闪烁着砂之船品牌的"艺术基因"光芒，标示着砂之船集团未来发展的愿景："用艺术商业，做超级奥莱"。
+
+2008年8月8日，砂之船(重庆两江)奥莱开业迎宾，全城轰动。充满艺术魅力的商业空间环境，来自全球的时尚品牌，从消费到体验，无不刷新了一座城市的观感。商业成功与否，业绩是硬指标。开业首年，砂之船(重庆两江)奥莱年业绩4.5亿，跃居中国奥莱前三甲；开业第四年，5.5万平米的营业面积实现销售12亿元，年坪效达2.2万，位居全国行业之首。同时，砂之船奥莱项目对城市区域的价值影响力首次得以凸显——原本是一片荒地的区域，因为一个砂之船奥莱的成功，竟然在短短数年内发展为一个城市级特色商圈，不仅极大地促进了区域土地价值，还使该区域产生出强大的经济内生力，不仅改变了区域的城市风貌建设，更是在客流、社零总额、城市活力、城市就业与税收上迅速提升了一个区域的发展城市水准。这种影响力，将伴随着砂之船的每一次城市拓展，而被不断的演绎下去。
+
+从1989年在西南师范大学校园深处由"情感、艺术、音乐、时尚"碰撞出的咖啡馆，到今天辉煌的商业帝国，一路行来，徐荣灿与杨雪共同携手，推动砂之船创造了无数经典，让"砂之船"这一品牌——无论是时尚品位，还是人生态度都成为了女性追求的先导和典范，SASSEUR砂之船这个美丽的名字无疑已成为砂之船集团创始人徐荣灿先生生命中无法剥离的部分，2009年的12月31号这一天，砂之船(重庆两江)奥莱首创的跨年营销活动刷新业绩纪录印证了砂之船奥特莱斯获得的巨大成功，也标志着他们共同的梦想的实现。就在这一天，徐荣灿将Sasseur这个充满浪漫诗意、在他心里至高无上的名字郑重地赠予了他一生中的最爱——杨雪女士——这位能与他一起去实现共同梦想，集美丽、智慧于一身的女人，同时也是砂之船集团"四品四美"企业文化最完美的代言人。
+
+"男人要做对三件事，爱情与婚姻结合，爱好与事业结合，选对合作伙伴。我是一个很幸运的人，到今天，这三件事我都做对了。"徐荣灿曾在25周年庆的感言里如是感慨。而他与杨雪，因为对爱情和事业共同的信仰，已经完美的将爱情与事业相融合了。
+
+"激情、创造力、美"是深植于砂之船集团的艺术商业DNA，情感思维是砂之船集团发展的核心力量。三十年过去了，那种很美、很浪漫、很有诗意、富有情感的原创艺术商业思想，一直是砂之船商业的永恒主题。
+
+<!-- PAGE 32 -->
+
+# The Sasseur Story
+
+# Dialogue Between Art and Commerce
+
+1. A young Xu Rongcan sitting outside Sasseur bar
+
+1. A young Xu Rongcan sitting outside Sasseur bar
+2. Sasseur (Chongqing Bishan) Outlet
+3. The birth of Sasseur women’s fashion brand
+
+**The 1980s was a time of wonder, dreams and romance for mainland China, a golden age of spiritual and philosophical enlightenment, freedom of thought and artistic expression. During those days of transition, life was hard and material goods were scarce. That was when a large number of China’s most outstanding post-modern poets, novelists, painters and musicians emerged and whose influence continues to this day.**
+
+Xu Rongcan’s affinity with artistry in the practice of business (what he termed **“Art Commerce”**) has its roots in Southwest China Normal University located at Beibei, a scenic town in the outskirts of Chongqing. As a young man of 20, on a creaking old bicycle, with wind caressing his hippie styled hair, rucksack on his shoulder, his most valuable possessions were his youthful passion, dreams of artistry and an old camera. Xu, with his keen sense of art aesthetics, captured what he saw with his lens and expressed what he felt with films. He loved using black and white films to describe his feelings about the world. From literature, art, to music and life, Xu was surrounded by other young people who shared his dreams; they would often meet over beer while enjoying guitar music through the night together. To Xu, art was not two dimensional. He believed art could be experiential. In 1989, he invested RMB6,500 and started his first brick and mortar business based on his unique Art Commerce concept.
+
+It was a small bar called “Ship of Sand” that was named after a popular song by a then well-known singer, Su Rui. “Sasseur” was the French name given to the establishment by a young French language teacher whom Xu knew. A year later, the Sasseur Bar had yet to return a profit, but it had become the favoured gathering place for artistic elites in the university campus, including poets, art critics, painters, music bands and underground rock performers.
+
+<!-- PAGE 33 -->
+
+Close-up of a weathered wooden surface with Chinese characters and a small metal vent
+
+Aerial view of a large red brick building complex with "OUTLET" signage, surrounded by greenery
+
+Black and white fashion photography of a woman in a coat and a woman in a white shirt
+
+# LEADING MERCHANDISER OF INTERNATIONAL DESIGNER FASHION PRODUCTS
+
+“If I like it, others will too!” Xu left the university in 1991 and toured Europe. After this tour, Xu opened the Sasseur fashion house in Chongqing’s Jiefangbei district, which later became the top shopping destination in Western China. The store was outfitted with brick walls, rocks and logs giving it a rustic charm. Its graffiti wall was covered with jeans and cotton-padded hoodies procured from the coastal cities in China. Sasseur’s unique store decor - symbolic of iconic and youthful Western lifestyles - was a big hit. China’s economic reforms during the boom of the mid-nineties attracted many international fashion labels to set up stores in China to cater to the consumer class. Sasseur’s iconic apparel store caught the eyes of these fashion labels. Xu himself understood international brands: an apparel label can only attain luxury brand status by virtue of its rich history, culture, as well as consistent and superior technical quality. It cannot exist simply as just another good consumer product. Sasseur successfully obtained distribution rights for many international brands.
+
+Sasseur was so successful that it occupied half the floor for international designer merchandise at the Li Kashing-owned Metropolitan Plaza in Chongqing, which was the most glamorous shopping destination in Western China.
+
+In 1999, Xu visited Europe again to gain a better understanding of the culture behind luxury goods. The clash between the cultures of the East and West of the time came as a shock to him. Xu longed for his own fashion brand that would embody his own values and beliefs about art, clothing and fashion. When he returned in 2001, Xu established his own brand of women’s clothing, under the name of “Sasseur”. At the same time, he began designing and building a headquarter in the forested area outside Bishan, Chongqing. The building was an indulgence of Xu’s personal passions, and materialised as a beautiful red brick building that stood out among the green mountains and water. In addition to office functions, the building featured small hotels, tennis courts and swimming pools, likening itself to an Italian-style manor hidden away from the hustle and bustle of the city.
+
+Creating his own fashion brand was a surreal experience for Xu, and it allowed him to express his passion for fashion in a way that was not available to him before. The Sasseur women’s fashion brand was targeted at the mid-to-high end market, and was quickly recognised soon after its launch. In just two years, Sasseur had opened stores in over 20 cities across China.
+
+<!-- PAGE 34 -->
+
+# **The** Sasseur Story
+
+Yang Xue, co-founder of Sasseur Outlets
+
+Xu Rongcan and Yang Xue at Sasseur REIT’s listing ceremony in Singapore in 2018
+
+1. Yang Xue, co-founder of Sasseur Outlets
+
+2. Xu Rongcan and Yang Xue at Sasseur REIT’s listing ceremony in Singapore in 2018
+
+## OUTLET FOR EXCESS INVENTORY
+
+As the consumer market expanded, restrictions on imports of raw materials led to a disconnect between supply and demand. This issue posed a challenge to every brand in the clothing industry, and taught Xu how to manage his inventory while ensuring that the business continued to grow at a steady pace. In 2005, Sasseur acquired another 70 acres of land by Chongqing Airport Road to develop its own brand management base. Xu often sketched ideas for the layout of the base through the night, while pondering the solution to unlock the supply chain issue in the clothing industry.
+
+Xu’s inherent artistic and fashion spirit resonated deeply with the ancient country of Italy. He was obsessed with the Italian lifestyle and often travelled there to get ideas for fashion styles. Xu soon discover outlet shops which were still a novelty back then. The business strategy of exclusively selling off-season merchandise allowed fashion brands to comfortably offload inventory without affecting their image and status.
+
+The high quality goods at lower prices were extremely attractive to consumers. Xu picked up on this, and made the bold decision to reimagine the Sasseur base into an outlet mall. This outlet mall would be the vital link between fashion brands looking to offload their inventory, and consumers looking for more affordable branded goods.
+
+This decision was met with a lot of opposition. The business had gone through many challenges over the years to reach the success it had now; wiping the slate clean and starting from scratch to pursue an unproven concept was a huge risk. Xu himself could not help but have his own doubts and fears. In 2004, three friends visited the Sasseur headquarters in Bishan, and were pleasantly surprised by the beautiful Italian architecture and artistic atmosphere. Their conversation with Xu naturally shifted from admiration of the headquarters’ design and architecture to his latest plans. The overhaul of Sasseur’s identity would pose many new challenges; it would need to develop new supply chains and fulfil the needs of consumers and brands. Sasseur also lacked expertise in commercial real estate, and the location of the headquarters provided no geographical advantage for the operation.
+
+Xu continued to question his own decision, until the appearance of a woman who would provide the support needed to bolster his own resolve. At 21 years of age, Yang Xue was a spirited and smart individual who firmly supported Xu in the pursuit of his dream: “Why not do it? Every problem has a solution, and if you don’t give it a shot you will never know if it works.”
+
+These calm and assuring words gave Xu the confidence he needed to finally make the decision to leave the business and chase his own dreams. Her unwavering support helped Xu overcome personal barriers that were holding him back. Xu and Yang Xue’s unique personalities could not help but be attracted to each other, and from that point a single man’s dream had become a dream for two.
+
+<!-- PAGE 35 -->
+
+Sasseur had resolved to become the third company to invest in the outlet industry in China. The transformation of the headquarters into an outlet mall required a complete overhaul of the surrounding infrastructure, including public transportation and road design. Every problem has a solution: to connect Sasseur to the closed-off airport expressway, Yang Xue followed through and worked with each and every municipal department, succeeding in what was supposed to be an impossible task.
+
+The ramp connecting the airport expressway to Sasseur undoubtedly opened up many opportunities for the outlet mall. While Sasseur had completed its physical transformation, it still lacked investors from the fashion industry. Yang Xue led the Group as it sought out and fostered relationships with many international fashion brands, catering to their individual needs and finding a place for them in Sasseur. Yang Xue shared the same passion for fashion as Xu, and her persistent love for his dream spurred her on to take on different roles. It was her perseverance and passion that would help to turn Xu's incredible ideas into reality. The melding of the two spirited individuals generated even more creativity and passion, and turned daunting difficulties into challenges waiting to be solved. The duo was undoubtedly the catalyst that catapulted Sasseur through its transformation into the success it is today.
+
+This experience laid the foundation for Sasseur's transformation and its growing business in the outlet industry.
+
+On 8 August 2008, Sasseur (Chongqing Liangjiang) Outlet opened to the public. With its tailored commercial space full of artistic charm and flushed with international fashion brand offerings, it became an instant sensation. Its business performance was a clear indicator of its success. Sasseur (Chongqing Liangjiang) Outlet brought in RMB450 million in its first year, ranking among the top three outlets in China. In its fourth year, it achieved RMB1.2 billion sales, clinching first place within the industry. At the same time, the outlet mall brought about a transformation of the surrounding landscape. Originally a wasteland, the area was quickly developed into a bustling city within a few years, raising the development standard of the city to compete with the rest of China.
+
+The success of Sasseur (Chongqing Liangjiang) Outlet garnered attention from political and business circles. In 2010, the Hangzhou Municipal Government invited Sasseur to set up an outlet in the city. This was Sasseur's first expansion outside of Chongqing. Since then, Sasseur started expanding its outlet business from Chongqing to other tier 1 and tier 2 cities in China, including Hangzhou, Nanjing, Hefei, Kunming, Changchun, Xi'an, Guiyang, Changsha, Lanzhou, Yangzhou, Xiamen, Suzhou, Fuzhou, Shijiazhuang, Shanghai, Shenzhen, Urumqi, Yinchuan and Guangzhou. By the end of 2023, Sasseur had 22 outlet projects across China, 17 of which are currently in operation. Accompanied by Xu Rongcan's 'Art Commerce' business ideology, the undercurrents propelling Sasseur outlets' growth are gathering stronger momentum.
+
+SUCCESSFULLY ATTRACTED INTERNATIONAL INVESTORS
+
+In 2011, Warburg Pincus, a world leader in private equity investments from the U.S. restructured and invested in Sasseur Group. Warburg Pincus sold its stake to L Catterton Asia, the world's largest consumer goods investment company owned by global luxury retail giant LVMH in 2015, and L Catterton Asia became an important strategic shareholder. L Catterton Asia's strategic stake in the company brought important resources and advantages to the development of the company. In 2016, Sasseur held its Global Outlet Conference in Chongqing. Ping An Real Estate became another strategic stakeholder, while L Catterton Asia increased its stake in Sasseur.
+
+Xu's artistic inclinations have always had a profound impact on his business practices. While a boutique shop allowed him to experience the beauty of clothing, the partnerships with international fashion brands allowed him to experience the beauty of brand business and culture. Xu further delved into art in his business through the architecture of Sasseur Outlets. Beyond just architecture, art was a platform to explore and promote a respect for the environment and love for human nature and history.
+
+Mr Zhang Mingqing
+Assistant President,
+General Manager of Investment &
+Development Centre
+
+Each city in China is unique, with its own personality, history and culture. Likewise, Xu imbued each new project with elements from its location, creating a harmonious connection between art, commerce and the human experience. This gave Sasseur Outlets a unique image that made each building a landmark in its own right.
+
+When Sasseur listed its four outlets in a REIT portfolio on the Singapore Exchange in 2018, it faced new challenges. Xu stayed true to his original values: "Pursuing, Discovering, Creating and Spreading Beauty". His vision of the Art Commerce soul of Sasseur pushed the business further to become a premium outlet operator.
+
+From its first incarnation as a bar to the outlet empire today, the name Sasseur had become an integral part of Xu's life. Together with Yang Xue, they achieved numerous successes with the Sasseur brand, making it a symbol of class and beauty. Sasseur has no doubt become an inseparable part of Xu's life. On 31 December 2009, following a successful run of Sasseur (Chongqing Liangjiang) Outlet's New Year's Eve promotional events, Xu solemnly bestowed the name of Sasseur to Yang Xue to thank her for her unwavering support throughout the years. Yang Xue was the perfect embodiment of the "Beauty" culture of Sasseur.
+
+Xu expressed this feeling in his speech at the 25<sup>th</sup> anniversary of Sasseur: "In life a man must pursue success in three aspects, love in marriage, love of work, and finding the right partner. I am lucky to have found all three."
+
+The common beliefs of love and career have forged an unbreakable bond between Xu and Yang Xue over the years.
+
+<!-- PAGE 36 -->
+
+# **Sasseur** Group in 2023
+
+In 2023, Sasseur Group, Sasseur REIT’s Sponsor, continues to dominate the outlet industry and forge ahead with its plans for expansion.
+
+Photograph of the 2022 Liangjiang New Consumption Annual Billboard Award Ceremony stage and audience
+
+## JANUARY
+
+1. 2022 Liangjiang New Consumption Annual Billboard Award Ceremony held in January 2023
+
+**‘New Fashion New Vitality’ 2022 Liangjiang New Consumption Annual Billboard (‘新风尚 新活力’ 2022两江新消费年度风云榜)**
+
+The Sasseur (Chongqing) Outlet team garnered two awards at the 2022 Liangjiang New Consumption Annual Billboard award ceremony, which recognises outstanding companies who have achieved excellent results in terms of corporate influence, sales and tax, innovation and development, and competitiveness. It also honours exceptional individuals for their contributions to the economic growth of Chongqing Liangjiang New Area.
+
+* Liangjiang New Consumption Vitality Award (两江新消费活力奖)
+    * Sasseur (Chongqing Liangjiang) Outlet
+* Liangjiang New Consumption Influential Leader Award (两江新消费影响力人物)
+    * Ms Ying Jinyou, General Manager of Sasseur (Chongqing Liangjiang) Outlet and Sasseur (Chongqing Bishan) Outlet
+
+<!-- PAGE 37 -->
+
+# FEBRUARY
+
+**Anning City’s Municipal Committee Economic Work and Investment Promotion Conference (市委经济工作会议暨2023年度安宁市招商引资项目建设大会)**
+
+Sasseur (Kunming) Outlet clinched two awards for its contribution to Anning City despite the difficult operating climate arising mainly from COVID-related mobility restrictions.
+
+* High-Quality Development Contribution Advanced Corporation Award (安宁市高质量发展贡献奖先进集体奖)
+    - Sasseur (Kunming) Outlet
+
+* Anning High-quality Development Contribution Advanced Individual Award (安宁市高质量发展贡献奖先进个人奖)
+    - Ms Wu Yan, General Manager of Sasseur (Kunming) Outlet
+
+# APRIL
+
+**15ᵗʰ Yaok Choice Lifestyle Awards (要客之选第15届颁奖)**
+
+At the 15ᵗʰ Yaok Choice Lifestyle awards ceremony, Sasseur Group was recognised for its outstanding contributions to the development of China’s fashion and luxury goods industry. Ms Yang Xue, Co-founder of Sasseur Outlets, was also acknowledged for her contributions and influence as a role model and style icon to women in China’s business industry.
+
+* 2022 China’s Best Lifestyle IP Award (2022年度中国最佳生活方式IP场景奖)
+    - Sasseur Group
+
+* 2022 China Lifestyle Industry Person of the Year (2022年度中国生活方式产业领军人物)
+    - Ms Yang Xue, Co-founder of Sasseur Outlets and co-Chairman of the Board of Sasseur Group
+
+1. High-Quality Development Contribution Advanced Corporation Award
+
+2. Ms Wu Yan, General Manager of Sasseur (Kunming) Outlet speaking during a media interview
+
+1. Ms Yang Xue (right) receiving the award for 2022 China Lifestyle Industry Person of the Year
+
+2. 2022 China Lifesyle Industry Person of the Year award trophy
+
+High-Quality Development Contribution Advanced Corporation Award plaque
+
+Ms Yang Xue receiving the 2022 China Lifestyle Industry Person of the Year award and the award trophy
+
+Ms Wu Yan, General Manager of Sasseur (Kunming) Outlet, during a media interview
+
+<!-- PAGE 38 -->
+
+# Sasseur Group in 2023
+
+## MAY
+
+## 2023 Van Sound Club Annual Awards (2023年度 商业不动产卓越力论坛暨万商年度排行榜)
+
+Sasseur Group clinched five awards at the 2023 Van Sound Club Annual Awards, an independent and influential professional ranking list for China's commercial real estate sector.
+
+* [Top 20] 2022 Influential Commercial Real Estate Enterprise (2022年度商业不动产影响力企业)
+    - Sasseur Group
+
+* 2022 Influential Commercial Real Estate Business Leader (2022商业不动产影响力商业领袖) (*award win for the second consecutive year*)
+    - Mr Xu Jun, President of Sasseur Group
+
+* 2022 Exemplary VIP Member Programme (2022年度 会员运营标杆项目)
+    - Sasseur (Changsha) Outlet
+
+* 2022 New Influential Outlet (2022年度新开奥莱 影响力项目榜单)
+    - Sasseur (Fuzhou) Outlet
+    - Sasseur (Nanjing Jiangbei) Outlet
+
+## 10ᵗʰ Outlets Leader Summit (第10届奥莱领秀峰会)
+
+At the 10ᵗʰ China Outlets Leader Summit held in 2023, Sasseur Group garnered 13 awards, out of which three were won by outlets in Sasseur REIT’s portfolio and another one for the Group’s strong marketing programmes.
+
+* 2022-23 China Outlet Marketing Gold Award (2022-23年度中国奥莱金牌营销奖)
+    - Sasseur Group
+
+* 2022-23 China Outlet Commercial Business Driver Award (2022-23年度中国奥莱城市商业驱动大奖)
+    - Sasseur (Changsha) Outlet
+
+* 2022-23 China Outlet Black Horse Award (2022-23年度中国奥莱黑马奖)
+    - Sasseur (Nanjing Jiangbei) Outlet
+
+* 2022-23 China Outlet Innovation in Architecture Award (2022-23年度中国奥莱建筑创新大奖)
+    - Sasseur (Nanjing Jiangbei) Outlet
+
+* 2022-23 China Outlet Index Top 20 (2022-23年度中国 奥莱指数核心20强)
+    - **Sasseur (Chongqing Liangjiang) Outlet**
+    - Sasseur (Xi'an) Outlet
+
+* 2022-23 China Outlet Index Top 50 (2022-23年度中国 奥莱指数核心50强)
+    - **Sasseur (Hefei) Outlet**
+    - **Sasseur (Kunming) Outlet**
+    - Sasseur (Guiyang) Outlet
+    - Sasseur (Hangzhou) Outlet
+    - Sasseur (Nanjing Jiangbei) Outlet
+    - Sasseur (Changchun Zhongdong) Outlet
+    - Sasseur (Changsha) Outlet
+
+1. Sasseur Group’s trophies at the 2023 Van Sound Club Annual Awards
+2. Awards garnered at the 10th China Outlet Leader Summit
+
+Sasseur Group’s trophies at the 2023 Van Sound Club Annual Awards
+
+Awards garnered at the 10th China Outlet Leader Summit
+
+<!-- PAGE 39 -->
+
+2023 Linkshop Conference award photo
+
+2023 China Shopping Centre and Chain Brand Development Summit award photo
+
+# JUNE
+
+**2023 Linkshop Conference (2023联商网大会)**
+
+**2023 China Shopping Centre and Chain Brand Development Summit (2023中国购物中心与连锁品牌发展峰会)**
+
+Two of Sasseur Group’s marketing initiatives received awards at the Summit.
+
+* Operation Best Practice Case (深耕运营案例)
+
+    - YEAH! Outlets WeChat Mini-Program (砂之船夜奥莱小程序)
+
+* Marketing and Innovation Best Practice Case (营销创新案例)
+
+    - Red Festival (红色第五季 国人的购物街)
+
+1. Sasseur (Chongqing Liangjiang) Outlet awarded the 2022 Annual Benchmark Commercial Project at the 2023 Linkshop Conference
+
+2. Marketing initiatives received awards at the 2023 China Shopping Centre and Chain Brand Development Summit
+
+China Top 100 Retail Enterprises in 2022 ranking poster
+
+# JULY
+
+**China Top 100 Retail Enterprises in 2022 (2022年度中国商业零售百强企业)**
+
+Sasseur Group’s ranking improved to 39<sup>th</sup> place in 2022 from 43<sup>rd</sup> place in 2021, inching its way up steadily within the RMB10 billion club. This recognition shows the strength and resilience of the Group and its “Super Outlet” business model, despite the operational challenges arising from China's zero-COVID policy in 2022.
+
+1. Sasseur Group ranked 39<sup>th</sup> place in China Top 100 Retail Enterprises in 2022
+
+<!-- PAGE 40 -->
+
+# Sasseur Group in 2023
+
+## AUGUST
+
+**Sasseur Group signed cooperation agreement with Guangzhou Baiyun District Government**
+
+The cooperation marks an important milestone for Sasseur Group’s venture into China’s first-tier cities and the Greater Bay Area. The Group is partnering Yiyun Science and Technology Innovation Centre to build the largest Outlet Cultural Tourism Commercial Complex in South China.
+
+1. Sasseur Group’s cooperation agreement signing ceremony with Guangzhou Baiyun District Government
+
+Sasseur Group's cooperation agreement signing ceremony with Guangzhou Baiyun District Government
+
+Official opening ceremony of Sasseur (Shijiazhuang) Outlet
+
+## SEPTEMBER
+
+1. Sasseur (Shijiazhuang) Outlet's official opening ceremony
+
+**Official opening of the 17ᵗʰ Sasseur outlet, Sasseur (Shijiazhuang) Outlet**
+
+QR code to view outlet's opening ceremony
+
+Scan to view outlet’s opening ceremony
+
+## 2023 China Top 500 Enterprises Summit Forum (2023中国500强·企业高峰论坛)
+
+Sasseur Group ranked 306ᵗʰ in the 2023 China Top 500 Service Enterprises (2023中国服务业企业500强) category. Out of the 500 service enterprises who made it to this list, 17 are enterprises from Chongqing and Sasseur Group was ranked 11th out of the 17 Chongqing enterprises.
+
+<!-- PAGE 41 -->
+
+# OCTOBER
+
+## Golden Mall Professional Competitiveness List 2023 (Golden Mall中购联购物中心行业2023年度专业竞争力榜单)
+
+Sasseur Group made it to the Golden Mall China Shopping Centre Industry 2023 Annual ESG Sustainability Excellence List (Golden Mall中购联购物中心行业2023年度ESG可持续发展卓越榜), demonstrating its ESG innovative implementation, practices and successful integration of sustainability into its business operations.
+
+## China Commercial Real Estate Southwest Summit (中国商业地产西南峰会)
+
+Sasseur (Chongqing Liangjiang) Outlet was named TOP 30 Southwest Commercial Real Estate Project (西南商业地产项目TOP 30), with notable recognition given to the outlet’s ‘round-the-clock’ Anniversary Sales event in September every year.
+
+1. Sasseur Group's Golden Mall China Shopping Centre Industry 2023 Annual ESG Sustainability Excellence List award
+
+2. Golden Mall Professional Competitiveness List 2023 award ceremony
+
+Sasseur Group's ESG award and Golden Mall award ceremony
+
+# DECEMBER
+
+## 2023 Winshang Conference Top 100 List (2023赢商网大会暨赢商网百强榜研究成果发布)
+
+Sasseur Group and its Sasseur (Nanjing Jiangbei) Outlet bagged three awards at the 2023 Winshang Conference Top 100 List. This is also the fourth time in 2023 that Mr Xu Jun has received an industry award for his strong leadership skills, a testament to his keen business insight, deep industry experience, and visionary leadership.
+
+* Ranked 34<sup>th</sup> in 2023 Top 100 Retail Real Estate Enterprise (2023年度零售商业地产企业综合实力TOP100)
+    
+
+    - Sasseur Group
+
+* Real Estate’s Influential Person in 2023 (2023年度商业地产影响力人物)
+    
+
+    - President of Sasseur Group, Mr Xu Jun
+
+* 2023 Top 100 Excellent Retail Operation Team (2023年度中国购物中心100支优秀运营项目团队)
+    
+
+    - Sasseur (Nanjing Jiangbei) Outlet
+
+1. Sasseur Group ranked 34<sup>th</sup> in 2023 Top 100 Retail Real Estate Enterprise in 2023
+
+2. Mr Xu Jun's 2023 Real Estate Influential Person award trophy
+
+Sasseur Group Top 34 award certificate
+
+Mr Xu Jun's 2023 Real Estate Influential Person award trophy
+
+<!-- PAGE 42 -->
+
+# Board of Directors
+
+Mr Xu Rongcan, Vito Non-Executive and Non-Independent Chairman
+
+Ms Yang Xue Non-Executive and Non-Independent Director
+
+Mr Mario Boselli Independent Director
+
+Mr Cheng Heng Tan Independent Director
+
+**Mr Xu Rongcan, Vito, 58**
+
+Non-Executive and Non-Independent Chairman
+
+DATE OF APPOINTMENT AS DIRECTOR
+
+11 April 2017
+
+LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)
+6 years 8 months
+
+BOARD COMMITTEES SERVED ON
+
+* Nominating and Remuneration Committee (Member)
+
+* Sustainability Committee (Member)
+
+ACADEMIC AND PROFESSIONAL QUALIFICATIONS
+
+* Specialisation in Agronomy, Chongqing Yongchuan Agricultural School, PRC
+
+PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)
+
+* Nil
+
+OTHER PRINCIPAL COMMITMENTS (As at 31 December 2023)
+
+* Sasseur Cayman Holding Limited, Executive Director and Chairman
+
+* Changchun Sasseur Zhongdong Commercial Management Co., Ltd, Non-Executive and Non-Independent Director
+
+* Changsha Sha Min Enterprise Management Co., Ltd, Non-Executive and Non-Independent Director
+
+* Changsha Sasseur Zhong Min Bai Hui Outlets Business Management Co., Ltd, Non-Executive and Non-Independent Director
+
+* Sasseur Vito (BVI) Limited, Non-Executive and Non-Independent Director
+
+* Sasseur Super Outlet Development Pte. Ltd., Executive Director
+
+* Sasseur Kunming Limited, Non-Executive and Non-Independent Director
+
+* Sasseur Nanjing Limited, Non-Executive and Non-Independent Director
+
+PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)
+
+* Nil
+
+<!-- PAGE 43 -->
+
+Dr Gu Qingyang Lead Independent Director
+
+**Dr Gu Qingyang**
+Lead Independent Director
+
+Mr Wu Geng Independent Director
+
+**Mr Wu Geng**
+Independent Director
+
+# Ms Yang Xue, 40
+
+Non-Executive and Non-Independent Director
+
+<table>
+  <thead>
+    <tr>
+        <th>DATE OF APPOINTMENT AS DIRECTOR</th>
+        <th>LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>16 November 2017</td>
+        <td>6 years 1 month</td>
+    </tr>
+  </tbody>
+</table>
+
+## BOARD COMMITTEES SERVED ON
+
+* Nil
+
+## ACADEMIC AND PROFESSIONAL QUALIFICATIONS
+
+* Specialisation in Garment Marketing, Chongqing Material Technical School, PRC
+
+## PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)
+
+* Nil
+
+## OTHER PRINCIPAL COMMITMENTS (As at 31 December 2023)
+
+* Sasseur Cayman Holding Limited, Non-Executive and Non-Independent Director
+
+* Hangzhou Sasseur Commercial Management Co., Ltd, Non-Executive and Non-Independent Director
+
+* Changsha Sha Min Enterprise Management Co., Ltd, Non-Executive and Non-Independent Director
+
+* Shanghai Shayi Business Co., Ltd, Non-Executive and Non-Independent Director
+
+* Shanghai Sasseur Super Outlet Brand Management Co., Ltd, Executive Director
+
+## PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)
+
+* Nil
+
+## BACKGROUND AND WORKING EXPERIENCE
+
+Mr Xu founded Sasseur Group in 1989, and is currently the Chairman of the Board of Sasseur Group, the Sponsor of Sasseur REIT. He is an innovative leader with artistic passions, acute business insight and outstanding strategic planning capability.
+
+As the founder of Sasseur Group and a pioneer in Chinese "Art Commerce" business ideology, Vito Xu created a Super Outlet empire with his unique artistic approach. With 30 years of experience focusing on the outlet mall operation led by the "Art Commerce" DNA, under the four core thought processes which incorporates emotions, aesthetics, sense of place and capital management, he initiated the new business concept of "Art Commerce Super Outlets" in 2016 and brings innovation to the outlets industry with his unique "A × (1+N) × DT" business model. Under the leadership of Vito Xu, Sasseur Group has grown into a Top 500 Chinese Service Enterprise and is the Sponsor of the first outlet mall real estate investment trust listed on the Mainboard of the Singapore Exchange Securities Trading Limited (SGX-ST), as well as the leading super outlets brand in the global outlet industry.
+
+Vito Xu was lauded by various institutions for his contributions to the development of the industry. As a testimony to his achievements, his many awards include "the Knight of the Order of the Italian Star" by the Italian president, "Meritorious Figure of the 40ᵗʰ Anniversary of China's Commercial Reform and Opening-up", and "Outstanding Asian Entrepreneur", amongst others.
+
+## BACKGROUND AND WORKING EXPERIENCE
+
+Ms Yang is the Co-founder of Sasseur Outlets and is currently the Co-chairman of the Board of Sasseur Group. She is the spouse of the Non-Executive and Non-Independent Chairman, Mr Xu Rongcan.
+
+As Co-founder of Sasseur Outlets, Sasseur Yang is a key figure in the strategic development of Sasseur Group. With her ingrained fashion sense and delicate but decisive business actions, she contributed in many ways in the development of Sasseur Group, especially in the areas of public relations, international brand leasing, strategic planning, consolidating the collaboration between Sasseur Group and various brands, which led to the successful opening of the first Sasseur outlet in Chongqing.
+
+Sasseur Yang is responsible for the strategic development of Sasseur Group, heading its Nominating and Remuneration Committee, international brand centre, Sasseur outlet branding, human resources, domestic and international public relations.
+
+She was named "Most Stylish Figure of 2019" by Yaok Institute (要客学院).
+
+<!-- PAGE 44 -->
+
+# Board of Directors
+
+**Dr Gu Qingyang, 62**
+
+Lead Independent Director
+
+**DATE OF APPOINTMENT AS DIRECTOR**
+
+16 November 2017
+
+**LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)**
+
+6 years 1 month
+
+**BOARD COMMITTEES SERVED ON**
+
+* Nominating and Remuneration Committee, Chairman
+
+* Sustainability Committee, Chairman,
+
+* Audit and Risk Committee, Member
+
+**ACADEMIC AND PROFESSIONAL QUALIFICATIONS**
+
+* Doctor of Philosophy, Nanyang Technological University, Singapore
+
+**PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)**
+
+* PCI-Suntek Technology Co., Ltd, External Non-Executive Director
+
+* Intchains Group Limited, Independent Director
+
+* Willfar Information Technology Co., Ltd, Independent Director
+
+**OTHER PRINCIPAL COMMITMENTS (As at 31 December 2023)**
+
+* China Life Insurance (Singapore) Co., Ltd, Independent Director
+
+* National University of Singapore, Associate Professor, Lee Kuan Yew School of Public Policy
+
+* Fuzhou New Zone (People’s Republic of China), Economic Advisor
+
+* Suzhou GSUN Fund Management Co., PTD, Independent Director
+
+**PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)**
+
+* Nil
+
+**BACKGROUND AND WORKING EXPERIENCE**
+
+Dr Gu has been an Associate Professor of the Lee Kuan Yew School of Public Policy of the National University of Singapore since August 2009, where he conducts lectures on the Chinese economy, economics of the public sector and urban development.
+
+He has been an economic adviser to some provincial and municipal governments in China. As economic adviser, he provides advice to the Chinese governments for economic development of new zones and experiments on the PRC’s new type of urban cluster. He was an Assistant Professor at the Nanyang Technological University of Singapore from July 2001 to July 2009, where he taught mathematical economics, microeconomics and macroeconomics and cost-benefit analysis. He also undertook research work relating to the Chinese economy, econometric modelling, reform of state-owned enterprises and international trade and finance. He carried out research on the Chinese economy, Singapore public policy and urban development from June 1997 to July 2001 as a research officer in the East Asian Institute of the National University of Singapore. He has been an Independent Director for other companies, including China Life Insurance (Singapore) Pte. Ltd. He is also the Editor-in-Chief of the Journal of Infrastructure, Policy and Development since 2016.
+
+**Mr Mario Boselli, 82**
+
+Independent Director
+
+**DATE OF APPOINTMENT AS DIRECTOR**
+
+16 November 2017
+
+**LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)**
+
+6 years 1 month
+
+**BOARD COMMITTEES SERVED ON**
+
+* Nil
+
+**ACADEMIC AND PROFESSIONAL QUALIFICATIONS**
+
+* Diploma, School for Director of Drying Cocoon Warehouse, Spinning Mill and Silk Spinning Wheel, Italy
+
+**PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)**
+
+* Nil
+
+**OTHER PRINCIPAL COMMITMENTS (As at 31 December 2023)**
+
+* Isybank S.P.A (formerly known as Banca 5 S.P.A), Independent Director
+
+* M.Seventy S.R.L, Independent Director
+
+* Mario Boselli S.R.L, Chief Executive
+
+* F.lli De Cecco di Filippo – Fara San Martino S.P.A., Independent Director
+
+* Prestitalia S.P.A, Independent Director
+
+**PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)**
+
+* GIGLIO.COM S.P.A., Independent Director
+
+**BACKGROUND AND WORKING EXPERIENCE**
+
+Mr Boselli began his career in 1959 in his family’s silk mill which was established in 1586 in Garbagnate Monastero, taking over the reins from his father, Carlo Boselli. For four decades from the 1970s till the 2000s, Mr Boselli developed the company’s textile supply chain and grew the business both at home and abroad. He left the family business in 2005 to pursue new goals for his career.
+
+Mr Boselli’s distinguished career includes his time as President of the Italian Fashion Chamber, Federtessile, Fiera Internazionale di Milano, Pitti Immagine, International Silk Association (Lyon), Italian-Slovak Chamber of Commerce (Bratislava), and Italy-Hong Kong Association. For his accomplishments, Mr Boselli was appointed the Cavaliere del Lavoro (1990), the Commandeur de l’Ordre National de la Legion d’Honneur (France 2002) and the Cavaliere di Gran Croce Ordine al Merito della Repubblica Italiana (2007).
+
+Mr Boselli was born in Como, Italy in 1941, and is married with three children. He is President of Isybank and Prestitalia (Intesa Sanpaolo Group), Italy China Council Foundation and sits on the boards of several listed and non-listed companies.
+
+<!-- PAGE 45 -->
+
+# Mr Cheng Heng Tan, 72
+
+Independent Director
+
+**DATE OF APPOINTMENT AS DIRECTOR**
+
+16 November 2017
+
+**LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)**
+6 years 1 month
+
+**BOARD COMMITTEES SERVED ON**
+
+* Audit and Risk Committee, Chairman
+
+* Sustainability Committee, Member
+
+**ACADEMIC AND PROFESSIONAL QUALIFICATIONS**
+
+* Life Fellow member of The Institute of Singapore Chartered Accountants
+
+* Retired Fellow member of the Association of Chartered Certified Accountants, United Kingdom
+
+* Retired member of the American Institute of Certified Public Accountants
+
+**PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)**
+
+* Powermatic Data Systems Limited, Independent Director
+
+**OTHER PRINCIPAL COMMITMENTS(As at 31 December 2023)**
+
+* Omakase Pte. Ltd., Executive Director
+
+* Omakase Burger Pte. Ltd., Executive Director
+
+* Omakase Burger (Orchard) Pte. Ltd., Executive Director
+
+**PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)**
+
+* Nil
+
+**BACKGROUND AND WORKING EXPERIENCE**
+
+Mr Cheng brings to the REIT Manager 33 years of extensive experience with Ernst & Young LLP (then known as Turquand, Youngs & Co) from April 1977 to June 2010. He was admitted as an Audit Partner of Ernst & Young LLP from July 1990 and he retired as a Senior Partner in June 2010. His professional experience covered financial audit, bank audit, training and group administration as well as initial public offerings in Singapore, Taiwan, China and USA. After retirement, Mr Cheng operated the famous Omakase Burger restaurant until October 2021.
+
+Mr Cheng was an Independent Director of Singapore-listed Chip Eng Seng Corporation Ltd. from July 2011 to April 2017, where he chaired the Nominating Committee and was a member of its Audit and Remuneration Committees. He is also an Independent Director of Powermatic Data Systems Limited.
+
+Mr Cheng was a journalist with two Chinese language daily newspapers in Singapore from December 1970 to July 1975. He is a Life Fellow member of The Institute of Singapore Chartered Accountants and retired Fellow member of the Association of Chartered Certified Accountants, United Kingdom, and the American Institute of Certified Public Accountants.
+
+# Mr Wu Geng, 52
+
+Independent Director
+
+**DATE OF APPOINTMENT AS DIRECTOR**
+
+16 November 2017
+
+**LENGTH OF SERVICE AS DIRECTOR (As at 31 December 2023)**
+6 years 1 month
+
+**BOARD COMMITTEES SERVED ON**
+
+* Audit and Risk Committee, Member
+
+* Nominating and Remuneration Committee, Member
+
+**ACADEMIC AND PROFESSIONAL QUALIFICATIONS**
+
+* Master of Arts, University of Delaware, United States of America
+
+* Advocate and Solicitor, Supreme Court, Singapore
+
+**PRESENT DIRECTORSHIPS IN OTHER LISTED COMPANIES (As at 31 December 2023)**
+
+* Shengli Oil & Gas Pipe Holdings Limited, Independent Director
+
+**OTHER PRINCIPAL COMMITMENTS (As at 31 December 2023)**
+
+* Drew & Napier LLC, Director, Corporate and Finance
+
+* Chalco Trading Singapore Pte. Ltd., Non-Executive Director
+
+* Chalco International Trading Mineral Resources Pte. Ltd., Non-Executive Director
+
+**PAST DIRECTORSHIPS IN OTHER LISTED COMPANIES OVER THE PRECEDING THREE (3) YEARS (From 1 January 2021 to 31 December 2023)**
+
+* Nil
+
+**BACKGROUND AND WORKING EXPERIENCE**
+
+Mr Wu has practised with Drew & Napier LLC since April 2008, and has been a Director at Drew & Napier LLC since May 2016. His areas of practice include corporate finance, capital markets, and general corporate legal advisory work.
+
+He was with Hoh Law Corporation (formerly known as Hoh & Partners) as a legal executive from November 2003 to April 2008, Hoh & Partners as a Chinese law adviser from January 2002 to June 2003, Colin Ng & Partners as a foreign counsel from June 2003 to October 2003, and with Pan-Commercial Pte. Ltd. as a legal adviser and foreign trade assistant from July 1999 to December 1999 where he assisted with the company's trading business and investments in the PRC. He started his career as a Judicial Clerk with the Supreme People's Court of the PRC (July 1995 to June 1998), where he was mainly responsible for reviewing legal cases, conducting legal research and drafting legal documents.
+
+Mr Wu has been an Independent Director of Shengli Oil & Gas Pipe Holdings Limited (listed on the Mainboard of the Hong Kong Stock Exchange) since March 2015, where he chairs the Remuneration Committee and is a member of the Audit Committee and the Nominating Committee.
+
+<!-- PAGE 46 -->
+
+# REIT Management Team
+
+**Ms Tan Hong Lye, Cecilia**
+
+**Chief Executive Officer**
+
+Ms Tan was appointed the CEO of Sasseur Asset Management Pte Ltd in August 2021. She brings with her to the Group more than 20 years of professional career experience spanning across a wide spectrum of real estate expertise in real estate investment banking, real estate direct investment, REIT management, real estate fund management and property development.
+
+Ms Tan started her professional career in investment banking with N.M. Rothschild & Sons Singapore and JP Morgan Singapore, where she was involved in a wide range of capital markets and cross-border M&A transactions. She has accumulated significant real estate expertise backed by extensive management experience from numerous leadership and senior roles in REIT management, real estate investment, real estate fund management, and property development companies.
+
+Before joining Sasseur Asset Management Pte Ltd, Ms Tan was the Senior Strategic Adviser to Mr Vito Xu, the Chairman of Sasseur Group from July 2019 to June 2021. She was also an Independent Director of Roxy-Pacific Holdings Limited, a SGX-listed company involved in property development and hospitality activities, from 1 October 2019 to 30 July 2021.
+
+Her previous appointments included being the Chief Financial Officer and Chief Operating Officer of KOP Group Pte Ltd, Executive Vice-President (Real Estate Fund Management) of Pacific Star Group, and Chief Investment Officer of Macquarie Pacific Star Prime REIT Management Pte Ltd, the manager of Macquarie MEAG Prime REIT (now known as Starhill Global REIT).
+
+Ms Tan holds a Master of Applied Finance from Macquarie University, Australia and she graduated with a Second Upper Class Honours Degree in Business Administration from the National University of Singapore.
+
+Ms Tan Hong Lye, Cecilia, Chief Executive Officer and Mr Xie Jianfeng, Chief Financial Officer
+
+**Ms Tan Hong Lye, Cecilia**
+Chief Executive Officer
+
+**Mr Xie Jianfeng**
+Chief Financial Officer
+
+<!-- PAGE 47 -->
+
+# Mr Xie Jianfeng
+
+## Chief Financial Officer
+
+Mr Xie has over 20 years of experience in finance, audit, accounting, corporate finance and treasury functions.
+
+Mr Xie started his career with PricewaterhouseCoopers (PwC) China as an audit professional from September 2001 to September 2014 in Beijing. During his time with PwC China, he assisted clients in capital markets transactions such as IPO listings in Hong Kong and China, secondary market private placements and bond offerings. He was seconded to PwC United Kingdom from 2005 to 2007 as part of a talent development program in recognition of his outstanding performance.
+
+Before joining Sasseur Asset Management Pte Ltd, Mr Xie was the General Manager of the Finance Department of Sasseur Group, the Sponsor of Sasseur REIT since May 2018. He reported directly to the Chief Financial Officer of Sasseur Group, and was in charge of Sasseur Group’s financial operations including financing, cash management, accounting and tax management. He had gained considerable insights and working knowledge of the unique business model and operations of Sasseur outlets during his time with Sasseur Group, and had established a good network of relationships across various core departments in Sasseur Group.
+
+Mr Xie graduated from Central University of Finance and Economy with a Bachelor’s Degree in Management. He is also a Chartered Accountant with The Chinese Institute of Certified Public Accountants.
+
+# Mr Cheng Hsing Yuen
+
+## Head of Asset Management
+
+Mr Cheng is responsible for the asset management function of all the outlets located in three cities in China under Sasseur REIT. His key focus is creating value for all stakeholders through strategic asset planning and asset enhancement initiatives (AEI) at the asset level to enhance the attractiveness of the outlets for a sustainable income growth. He brings with him more than 25 years of experience in asset and property management for various asset classes, ranging from retail malls, offices, business parks and industrial buildings.
+
+Prior to joining Sasseur Asset Management Pte Ltd, Mr Cheng was the Senior Asset Manager at Mapletree Industrial Trust. He was responsible for developing strategies to maximise the performance of industrial properties including business parks, data centres as well as portfolio reporting. He has also held portfolio management positions in Ascendas Pte. Ltd and NTUC Income. His role included formulating Key-Performing Index measures for assets, leasing and tenant-relationship management plans and AEI programs. He worked closely with the property managers to execute proactive asset management plans to optimise operational and financial performance and manage property expenses.
+
+Mr Cheng holds a Master of Science (Real Estate) and Bachelor of Social Sciences (Honours) Degrees from the National University of Singapore.
+
+# Ms Jeanette Pang
+
+## Head of Investor Relations and Capital Markets
+
+Ms Pang is in charge of Investor Relations and Capital Markets function of Sasseur REIT. As the liaison between Sasseur REIT and the investment community, she nurtures relationships with institutional and retail investors, research analysts and the media. She is also the main point of contact with investors and stakeholders.
+
+She has more than 20 years of experience in financial communications in the real estate and banking sectors, as well as financial journalism. Prior to her current appointment, Ms Pang had held investor relations positions before in other public-listed companies in Singapore including United Overseas Bank Limited, CapitaLand Mall Trust Management Limited, Keppel REIT Management Limited and Mapletree Logistics Trust Management Ltd..
+
+Ms Pang holds a Master of Business Administration, Master of Science (Real Estate) and Bachelor of Arts from the National University of Singapore. She is also a Chartered Financial Analyst charterholder.
+
+<!-- PAGE 48 -->
+
+# Sponsor Team
+
+Portrait photos of Mr Xu Jun, Jim, Mr Zheng Yuanlai, and Mr Zeng Jianzheng
+
+## Mr Xu Jun, Jim
+
+**President**
+
+Mr Xu Jun currently serves as President of Sasseur Group and is responsible for the overall management of the Group and its subsidiaries.
+
+He has more than 20 years of experience in commercial operations and commercial real estate investment and development. Mr Xu is a veteran in China's commercial real estate industry. He has participated in the planning, development and operation of multiple commercial real estate projects in China.
+
+## Mr Zheng Yuanlai
+
+**Senior Vice President, General Manager of Business Management Centre**
+
+Mr Zheng Yuanlai is among the outlet industry pioneers in China with more than 30 years of experience in business planning, business operation and marketing. Mr Zheng is one of the founders of China Outlet Industry Association, a senior lecturer at the Outlet Business School and an Adjunct Professor at the Business School of Chengdu University of Technology.
+
+## Mr Zeng Jianzheng
+
+**Vice President, General Manager of International Brands Centre**
+
+Mr Zeng Jianzheng has a deep understanding of the outlet industry and market development, with nearly 30 years of experience in business operation management and leadership roles. He has acquired broad-based capabilities in brand management as well as operations management.
+
+<!-- PAGE 49 -->
+
+Portrait photos of Mr Yang Dongsheng, Mr Long Jian, Ms Hua Xu, and Mr Zhang Mingqing
+
+**Mr Yang Dongsheng**
+Vice President, Director of President’s Office, General Manager of Group Financial Management Centre
+
+**Mr Long Jian**
+Vice President, General Manager of Human Resources and Administration Centre
+
+**Ms Hua Xu**
+Assistant President, Deputy General Manager of Business Management Centre
+
+**Mr Zhang Mingqing**
+Assistant President, General Manager of Investment & Development Centre
+
+## Mr Yang Dongsheng
+
+**Vice President, Director of President’s Office, General Manager of Group Financial Management Centre**
+
+Mr Yang Dongsheng is a Certified Public Accountant in China with more than 20 years of financial management experience. He has in-depth knowledge of corporate financial management and rich practical experience in the capital market.
+
+## Ms Hua Xu
+
+**Assistant President, Deputy General Manager of Business Management Centre**
+
+Ms Hua Xu has more than 20 years in brand management and commercial operation experience, and has participated in the development and operation of multiple commercial projects. She won the honourary 2019 China Commercial Real Estate Outstanding Professional Manager Award.
+
+## Mr Long Jian
+
+**Vice President, General Manager of Human Resources and Administration Centre**
+
+Mr Long Jian has deep knowledge and rich experience in the area of human resource management. He is the winner of the National Personnel Research Achievement Award, the representative of the 5ᵗʰ People’s Congress of Chongqing and the 5ᵗʰ Party representative of Fuling District in Chongqing.
+
+## Mr Zhang Mingqing
+
+**Assistant President, General Manager of Investment & Development Centre**
+
+Mr Zhang Mingqing has rich experience in business management, having participated in commercial project positioning, planning & design, leasing, sales and commercial operations of multiple projects.
+
+<!-- PAGE 50 -->
+
+# Entrusted Management Agreement (EMA) Model
+
+## EMA Rental Income:
+## EMA Resultant Rent + Performance Sharing
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Business Model</th>
+        <th colspan="3">REIT Income Model</th>
+    </tr>
+    <tr>
+        <th>Outlet Sales</th>
+        <th>Gross Revenue</th>
+        <th>EMA Resultant Rent</th>
+        <th>EM Base Fee</th>
+        <th>Residual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td>payable to REIT</td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Outlet Sales icon</td>
+        <td>Gross Revenue icon</td>
+        <td>EMA Resultant Rent icon</td>
+        <td>EM Base Fee icon</td>
+        <td>Residual icon</td>
+    </tr>
+    <tr>
+        <td>~10-16% Commission arrow</td>
+        <td> </td>
+        <td>Fixed Component (FC) | 3% annual escalation rate<br/>Variable Component (VC)</td>
+        <td> </td>
+        <td>Entrusted Manager (EM) Performance Fee<br/>Payment to REIT</td>
+    </tr>
+    <tr>
+        <td>Gross Revenue (GR) = Total rental receivable + Income from permissible investments</td>
+        <td> </td>
+        <td>EMA Resultant Rent (RR) comprises FC and VC<br/>VC is pegged to the Sales of the Outlet</td>
+        <td>EM Base Fee: Up to 30% of GR to the Entrusted Manager</td>
+        <td>EM Performance Fee: &gt;60% x (GR - RR - EM Base Fee)<br/>Payment to REIT: &gt;40% x (GR - RR - EM Base Fee)</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr><th colspan="2">Breakdown of Variable Component (VC)</th></tr>
+    <tr><th>Sasseur REIT’s Outlets</th><th>VC(% of Outlet’s Sales)</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="4">Aligning the interests of the Entrusted Manager, REIT Manager and Unitholders</td>
+        <td>Chongqing Liangjiang</td>
+        <td>4.0%</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>4.5%</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>5.5%</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>5.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+**ABOUT THE ENTRUSTED MANAGEMENT AGREEMENT MODEL**
+
+Sasseur REIT’s unique Entrusted Management Agreement (EMA) model comprises a fixed component to provide a stable growing income and a variable component to enable Unitholders to participate in the upside in sales performances of the REIT’s outlets. Under this model, every sale from the tenants is captured in the REIT’s bank account from which a certain percentage is drawn out as the variable rent component.
+
+Coupled with the built-in 3% annual step-up of the fixed component under the EMA, this ensures Sasseur REIT can achieve fair, transparent and stable growth whilst aligning the REIT Manager’s interests with that of the REIT’s Unitholders. Under the EMA model, the Sponsor bears all the operating expenses related to the running of all the REIT’s outlets.
+
+Please refer to URL: https://www.sasseurreit.com/entrusted-management-agreement-model.html for more details.
+
+<!-- PAGE 51 -->
+
+# EMA RENTAL INCOME
+
+The EMA Rental Income received or receivable from the Entrusted Manager is stipulated under the Entrusted Management Agreements and is derived from the rental income from tenants (see “Financial Statements – Notes to Financial Statements – 1. General – Entrusted Management Agreement” page 166 for further details).
+
+The EMA Rental Income consists of (i) EMA Resultant Rent, which is the sum of fixed component and variable component, subject to a Minimum Rent arrangement on the portfolio level, and (ii) performance sharing as described below.
+
+The EMA Rental Income for the financial year ended 31 December 2023 and 31 December 2022 are shown in the table below.
+
+In the absence of the EMA, the distribution per Unit would be 6.445 Singapore cents for FY2023 without retention of income available for distribution.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>FY2023</th>
+        <th>FY2022</th>
+        <th>Change</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>RMB million</th>
+        <th>RMB million</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fixed Component</td>
+        <td>447.5</td>
+        <td>434.5</td>
+        <td>3.0</td>
+    </tr>
+    <tr>
+        <td>Variable Component</td>
+        <td>211.0</td>
+        <td>160.2</td>
+        <td>31.7</td>
+    </tr>
+    <tr>
+        <td>EMA Rental Income</td>
+        <td>658.5</td>
+        <td>594.7</td>
+        <td>10.7</td>
+    </tr>
+  </tbody>
+</table>
+
+# EMA RENTAL INCOME COMPRISES:
+
+### EMA Resultant Rent
+EMA Resultant Rent is the sum of fixed component and variable component.
+
+**Fixed Component**
+The Fixed Component is subject to an annual step-up of 3% over the term of the Entrusted Management Agreements.
+
+**Variable Component**
+The Variable Component for each property will be pegged to a percentage of their respective total sales in accordance with the following percentages:
+
+<table>
+  <thead>
+    <tr>
+        <th>Property</th>
+        <th>Variable Component</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Sasseur (Chongqing Liangjiang) Outlet</td>
+        <td>4.0% of total sales</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Chongqing Bishan) Outlet</td>
+        <td>4.5% of total sales</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Hefei) Outlet</td>
+        <td>5.5% of total sales</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Kunming) Outlet</td>
+        <td>5.0% of total sales</td>
+    </tr>
+  </tbody>
+</table>
+
+### Performance Sharing
+Performance sharing is based on the differential between the Gross Revenue and EMA Resultant Rent and after deducting the EM Base Fee.
+
+**Performance Reserve**
+Under the Master Entrusted Management Agreement, the Sponsor will provide a performance reserve of RMB 100.0 million to Sasseur REIT in the form of bank guarantees (which will be placed with an independent financial institution of good financial standing, that is considered to be of investment grade) or cash which the Trustee can call or draw upon without requiring the approval of the Sponsor (i) as security for performance by the Sponsor and the Entrusted Manager, as the case may be, of all their respective obligations under the Entrusted Management Agreements; and (ii) to secure or indemnify the Trustee as well as any of the subsidiaries of Sasseur REIT against (a) any losses, damages, liability or expenses incurred or sustained arising out of any default by the Sponsor and the Entrusted Manager, as the case may be, under the EMA and (b) any claims, losses, damages, liabilities or other obligations by the Trustee or any of the subsidiaries of Sasseur REIT at any time against the Entrusted Manager in relation to any matter arising out of or in connection with the Properties.
+
+The Sponsor has provided a bank guarantee issued by China Citic Bank International pursuant to the Performance Reserve requirement. Fitch Ratings affirmed China Citic Bank International’s long-term credit rating “BBB+” with stable outlook.
+
+<!-- PAGE 52 -->
+
+# Property Portfolio
+
+Sasseur (Chongqing Liangjiang) Outlet exterior view with key performance indicators: Occupancy 100%, Annual Shopper Traffic 6.38 million, VIP Members 1,175,000
+
+## SASSEUR (CHONGQING LIANGJIANG) OUTLET
+
+Sasseur (Chongqing Liangjiang) Outlet abuts Airport Road, which is an arterial road in Chongqing. It enjoys convenient accessibility and is well-served by various modes of public transport. Bus stops and taxi stands are available around the property, connecting the subject area to various destinations in Chongqing.
+
+The vicinity of the property comprises various residential and commercial developments, including Rong Chuang Zi Feng Jun (融创紫枫郡), Hong Cheng (红城), Chongqing Meilian Suning Tesco Plaza (重庆美联苏宁易购广场), and IKEA Shopping Mall.
+
+The property is around 7 kilometres away from the Guanyinqiao (观音桥) retail hub, around 20 kilometres away from the Jiefangbei (解放碑) retail hub, and about 11 kilometres away from Chongqing Jiangbei International Airport. In addition, Sasseur (Chongqing Liangjiang) Outlet is in the north of the Chongqing Economic and Technological Development Zone which is one of the key development areas and will continue to enjoy preferential policies to boost its growth.
+
+China has announced an ambitious development plan for the Chongqing – Chengdu economic circle which will help accelerate the growth in the western region and facilitate the dual circulation strategy. This will form an important growth driver for the western region¹.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Property Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Address</td>
+        <td>No. 1 Aotelaisi Road, Liangjiang New District, Chongqing, PRC (重庆市两江新区奥特莱斯路1号)</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>Three 7-storey retail buildings and a 2-storey retail building; 7 retail levels (including a basement level)</td>
+    </tr>
+    <tr>
+        <td>Site area</td>
+        <td>22 parcels of land totalling approximately 40,189 sqm</td>
+    </tr>
+    <tr>
+        <td>Expiry year of land use right</td>
+        <td>2047</td>
+    </tr>
+    <tr>
+        <td>Commencement of operations</td>
+        <td>May 2008</td>
+    </tr>
+    <tr>
+        <td>Year of acquisition</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>Acquired value (RMB million)</td>
+        <td>2,452.0</td>
+    </tr>
+    <tr>
+        <td>Carpark lots</td>
+        <td>420</td>
+    </tr>
+  </tbody>
+</table>
+
+**Positioning of outlet**
+
+Sasseur (Chongqing Liangjiang) Outlet distinguishes itself through an experiential shopping concept and targets middle- and upper-class consumers with high disposable incomes, and is one of the malls in Chongqing with strongest international brands offering.
+
+**Note:**
+
+1 South China Morning Post dated 22 October 2021.
+
+<!-- PAGE 53 -->
+
+Map showing location of Sasseur (Chongqing Liangjiang) Outlet and surrounding infrastructure including Chongqing Jiangbei International Airport, Chongqing North Railway Station, and various expressways.
+
+**Chongqing Jiangbei International Airport**
+Approx. 11.5km
+Approx. 20min by car
+
+## History of Asset Enhancement Initiatives (AEI)
+
+### Completion date and Summary of AEI
+
+**December 2021**
+Converted a management office at level 5 into revenue-generating retail spaces featuring food and beverage, sports brands and ad-hoc sales booths.
+
+14,000 sqm of leasable space was revamped. Two popular brands, Nike and Adidas, set up their new factory outlets in the middle of 2021.
+
+**March 2023**
+Upgraded VIP Premium Lounge to include VIP Reception, Elite Lounge Zone and Premium Lounge Zone.
+
+Exclusive events for VIP members are held at the newly refurbished VIP Premium Lounge.
+
+<table>
+  <thead>
+    <tr>
+        <th>As at 31 December</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Valuation (RMB million)</td>
+        <td>3,129</td>
+        <td>3129</td>
+    </tr>
+    <tr>
+        <td>Gross floor area (sqm)</td>
+        <td>73,373</td>
+        <td>73,373</td>
+    </tr>
+    <tr>
+        <td>Net lettable area (sqm)</td>
+        <td>50,885</td>
+        <td>50,885</td>
+    </tr>
+    <tr>
+        <td>Number of tenants</td>
+        <td>376</td>
+        <td>387</td>
+    </tr>
+    <tr>
+        <td>Committed occupancy (%)</td>
+        <td>100</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Annual shopper traffic (‘000)</td>
+        <td>4,192</td>
+        <td>6,375</td>
+    </tr>
+    <tr>
+        <td>VIP members (‘000)</td>
+        <td>967</td>
+        <td>1,175</td>
+    </tr>
+    <tr>
+        <td>Major tenants by gross revenue</td>
+        <td>NIKE<br/>Adidas<br/>FILA<br/>+39 Space</td>
+        <td>NIKE<br/>Adidas<br/>FILA<br/>+39 Space</td>
+    </tr>
+    <tr>
+        <td>Outlet sales (RMB million)</td>
+        <td>1,875.0</td>
+        <td>2,541.2</td>
+    </tr>
+  </tbody>
+</table>
+
+## Trade Mix by Gross Revenue (As at 31 Dec 23)
+
+<table>
+  <thead>
+    <tr>
+        <th>Trade Category</th>
+        <th>Percentage (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>43.5</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>21.1</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>18.7</td>
+    </tr>
+    <tr>
+        <td>Children’s Wear</td>
+        <td>8.1</td>
+    </tr>
+    <tr>
+        <td>Shoes &amp; Leather</td>
+        <td>4.4</td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>4.2</td>
+    </tr>
+  </tbody>
+</table>
+
+## Outlet's Awards
+
+**2023 China Commercial Real Estate Southwest Summit (2023中国商业地产西南峰会)**
+* Top 30 Southwest Commercial Real Estate Project (西南商业地产项目TOP30)
+
+
+
+## Scan the QR Codes below to find out more
+
+Sasseur (Chongqing Liangjiang) Outlet's WeChat QR Code
+Sasseur (Chongqing Liangjiang) Outlet's WeChat
+
+Sasseur (Chongqing Liangjiang) Outlet's Property Videos QR Code
+Sasseur (Chongqing Liangjiang) Outlet's Property Videos
+
+
+
+**2023 Linkshop Conference Award Ceremony (2023联商网大会)**
+* 2022 Annual Benchmark Commercial Project (2022年度标杆商业项目)
+
+**10ᵗʰ Outlets Leader Summit (第10届奥莱领秀峰会)**
+* 2022-23 China Outlet Index Top 20 (2022-23年度中国奥莱指数核心20强)
+
+**“New Fashion New Vitality” 2022 Liangjiang New Consumption Annual Billboard Award (2022年两江新消费年度风云榜颁奖典礼)**
+* Liangjiang New Consumption Vitality Award (两江新消费活力奖)
+* Liangjiang New Consumption Influential Leader Award (两江新消费影响力人物奖): Ms Ying Jinyou, General Manager of Sasseur (Chongqing Liangjiang) Outlet
+
+<!-- PAGE 54 -->
+
+# Property Portfolio
+
+Sasseur (Chongqing Bishan) Outlet exterior view with key performance indicators: Occupancy 96.8%, Annual Shopper Traffic 1.12 million, VIP Members 486,000
+
+## SASSEUR (CHONGQING BISHAN) OUTLET
+
+Sasseur (Chongqing Bishan) Outlet is located at the southeast corner of Shuangxing Avenue and Biqing Road, Bishan District of Chongqing. Commuters travelling from the east and north of Sichuan, and the west of Chongqing, would have to cross Bishan in order to enter Chongqing city centre.
+
+The vicinity of the property comprises various residential and industrial developments built in the last decade. The property is around 4 kilometres away from Bishan station, Light Rail Line 1, around 21 kilometres away from Chongqing South railway station and around 42 kilometres away from Chongqing Jiangbei International Airport. The property abuts Biqing Road, which is a secondary road in the Bishan District.
+
+It enjoys convenient accessibility and is well-served by various modes of public transportation. Bus stops and taxi stands are available around the property, connecting the subject area to various destinations in Chongqing.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Property Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Address</td>
+        <td>No. 9 Baiyang Road, Bishan District, Chongqing, PRC (重庆市璧山区白羊路9号)</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>21 blocks of retail buildings spread over an undulated site, comprising seven 4-storey buildings, seven 3-storey buildings, five 2-storey buildings and two single-storey buildings</td>
+    </tr>
+    <tr>
+        <td>Site area</td>
+        <td>Approximately 78,793 sqm</td>
+    </tr>
+    <tr>
+        <td>Expiry year of land use right</td>
+        <td>2051</td>
+    </tr>
+    <tr>
+        <td>Commencement of operations</td>
+        <td>Oct 2014</td>
+    </tr>
+    <tr>
+        <td>Year of acquisition</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>Acquired value (RMB million)</td>
+        <td>729</td>
+    </tr>
+    <tr>
+        <td>Carpark lots</td>
+        <td>512</td>
+    </tr>
+  </tbody>
+</table>
+
+**Positioning of outlet**
+
+Sasseur (Chongqing Bishan) Outlet offers a diverse shopping and dining experience catering to the needs of the population. It was designed to be a one-stop shopping destination in the Bishan and West Chongqing areas, combining retail shopping with entertainment, food, education and leisure. Over the past year, more than 30 new brands were introduced into the outlet, boosting its product offerings to cater to a wider range of shoppers.
+
+<!-- PAGE 55 -->
+
+Map of Sasseur (Chongqing Bishan) Outlet location and surrounding landmarks
+
+# Chongqing Jiangbei International Airport
+
+Approx. 41.6km
+Approx. 1h 10min by car
+
+**Legend**
+* Expressway and road
+* Commercial
+* Park
+
+## History of Asset Enhancement Initiatives (AEI)
+
+### Completion date and Summary of AEI
+
+**February 2022**
+
+Improvement of storefront façade and conversion of vehicular flow to pedestrian walkway to enhance shoppers’ experience.
+
+**December 2023**
+
+Opening of new entrance to enhance the outlet’s visibility to drivers travelling along the Bishan Tunnel highway and reduce traffic congestion during peak periods when vehicle traffic is high.
+
+<table>
+  <thead>
+    <tr>
+        <th>As at 31 December</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Valuation (RMB million)</td>
+        <td>834</td>
+        <td>834</td>
+    </tr>
+    <tr>
+        <td>Gross floor area (sqm)</td>
+        <td>68,791</td>
+        <td>68,791</td>
+    </tr>
+    <tr>
+        <td>Net lettable area (sqm)</td>
+        <td>44,706</td>
+        <td>44,706</td>
+    </tr>
+    <tr>
+        <td>Number of tenants</td>
+        <td>180</td>
+        <td>172</td>
+    </tr>
+    <tr>
+        <td>Committed occupancy (%)</td>
+        <td>92.8</td>
+        <td>96.8</td>
+    </tr>
+    <tr>
+        <td>Annual shopper traffic (‘000)</td>
+        <td>950</td>
+        <td>1,120</td>
+    </tr>
+    <tr>
+        <td>VIP members (‘000)</td>
+        <td>416</td>
+        <td>486</td>
+    </tr>
+    <tr>
+        <td>Major tenants by gross revenue</td>
+        <td>NIKE<br/>+39 Space<br/>POLO SPORT<br/>ANTA</td>
+        <td>NIKE<br/>New Balance<br/>POLO SPORT<br/>ANTA</td>
+    </tr>
+    <tr>
+        <td>Outlet sales (RMB million)</td>
+        <td>330.6</td>
+        <td>400.7</td>
+    </tr>
+  </tbody>
+</table>
+
+## Trade Mix by Gross Revenue
+(As at 31 Dec 23)
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>Percentage (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>42.1</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>8.5</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>29.2</td>
+    </tr>
+    <tr>
+        <td>Children’s Wear</td>
+        <td>10.3</td>
+    </tr>
+    <tr>
+        <td>Accessories</td>
+        <td>2.3</td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>7.6</td>
+    </tr>
+  </tbody>
+</table>
+
+## Outlet's Awards
+
+**“New Fashion New Vitality” 2022 Liangjiang New Consumption Annual Billboard Award (2022年两江新消费年度风云榜颁奖典礼)**
+
+* Liangjiang New Consumption Influential Leader Award (两江新消费影响力人物奖): Ms Ying Jinyou, General Manager of Sasseur (Chongqing Bishan) Outlet
+
+## Scan the QR Codes below to find out more
+
+Sasseur (Chongqing Bishan) Outlet's WeChat QR Code
+
+Sasseur (Chongqing Bishan) Outlet's Property Videos QR Code
+
+Sasseur (Chongqing Bishan) Outlet's WeChat
+
+Sasseur (Chongqing Bishan) Outlet's Property Videos
+
+<!-- PAGE 56 -->
+
+# Property Portfolio
+
+Sasseur (Hefei) Outlet exterior view with key performance indicators: Occupancy 96.1%, Annual Shopper Traffic 2.97 million, VIP Members 1,087,000
+
+## SASSEUR (HEFEI) OUTLET
+
+Sasseur (Hefei) Outlet is situated within close proximity to the precious ecological landscape resource in Hefei – Wangzui Lake (王咀湖). The developments in the neighbourhood are mainly residential and educational institutions.
+
+Sasseur (Hefei) Outlet is located in the High-Tech Industrial Development Zone, which is one of the top national high-tech industrial development zones in China. The high-tech school district of the University of Science and Technology of China is located at the northeast of the property. The various established residential developments in the vicinity form a large catchment population for this outlet.
+
+The property is 24 kilometres away from Hefei railway station and 23 kilometres away from Hefei Xinqiao International Airport. There are two metro stations near the property, one along Metro Line 2, and the other along the newly completed Metro Line 4 launched in December 2021. Both stations are approximately 1.2 kilometres from Sasseur (Hefei) Outlet. The Metro Line 2 station will also become an interchange in the future, with the addition of the upcoming Metro Line 7, further connecting Sasseur (Hefei) Outlet with the city centre, thereby improving the accessibility of the outlet and broadening its consumer base.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Property Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Address</td>
+        <td>No. 1888 Changning Avenue,<br/>Gaoxin District, Hefei,<br/>Anhui Province, PRC<br/>(安徽省合肥高新区长宁大道1888号)</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>Five retail levels (including a basement level)</td>
+    </tr>
+    <tr>
+        <td>Site area</td>
+        <td>137,212.72 sqm</td>
+    </tr>
+    <tr>
+        <td>Expiry year of land use right</td>
+        <td>2053</td>
+    </tr>
+    <tr>
+        <td>Commencement of operations</td>
+        <td>May 2016</td>
+    </tr>
+    <tr>
+        <td>Year of acquisition</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>Acquired value (RMB million)</td>
+        <td>2,250</td>
+    </tr>
+    <tr>
+        <td>Carpark lots</td>
+        <td>1,438</td>
+    </tr>
+  </tbody>
+</table>
+
+**Positioning of outlet**
+
+Sasseur (Hefei) Outlet caters to middle-class consumers by offering a wide range of entertainment choices as well as luxury brands. It offers shoppers a onestop shopping, dining and entertainment destination.
+
+Sasseur (Hefei) Outlet also features one of the largest cinemas in east China and the first five-star cinema in Hefei under the UME cinema chain, with 17 cinemas equipped with state-of-the-art audio and visual systems and more than 2,500 seats.
+
+Other attractions include an indoor zoo and a children’s edutainment centre spanning over two levels, which have consistently drawn large crowds and groups from schools and companies.
+
+<!-- PAGE 57 -->
+
+Map of Sasseur (Hefei) Outlet location and surrounding infrastructure including metro stations, expressways, schools, and industrial parks.
+
+# Hefei Xinqiao International Airport
+
+Approx. 21.5km
+Approx. 27min by car
+
+**Legend**
+* Expressway and road
+* Residential
+* Industrial park
+* Metro station
+* School
+
+# History of Asset Enhancement Initiatives (AEI)
+
+## Completion date and Summary of AEI
+
+### December 2020
+
+Re-configuration of the ground floor of Block B to a sports theme with renowned brands like Nike and Adidas.
+
+### January 2024
+
+Converted a previously vacant unit to a space equipped with infrastructure for supermarket operations.
+
+The revamped unit welcomed Yonghui Superstores, a top supermarket brand in January 2024.
+
+<table>
+  <thead>
+    <tr>
+        <th>As at 31 December</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Valuation (RMB million)</td>
+        <td>2,880</td>
+        <td>2,882</td>
+    </tr>
+    <tr>
+        <td>Gross floor area (sqm)</td>
+        <td>147,316</td>
+        <td>147,316</td>
+    </tr>
+    <tr>
+        <td>Net lettable area (sqm)</td>
+        <td>144,583</td>
+        <td>144,583</td>
+    </tr>
+    <tr>
+        <td>Number of tenants</td>
+        <td>333</td>
+        <td>354</td>
+    </tr>
+    <tr>
+        <td>Committed occupancy (%)</td>
+        <td>98.1</td>
+        <td>96.1</td>
+    </tr>
+    <tr>
+        <td>Annual shopper traffic (‘000)</td>
+        <td>2,616</td>
+        <td>2,974</td>
+    </tr>
+    <tr>
+        <td>VIP members (‘000)</td>
+        <td>905</td>
+        <td>1,087</td>
+    </tr>
+    <tr>
+        <td>Major tenants by gross revenue</td>
+        <td>NIKE<br/>Koradior<br/>Boy London<br/>PEACEBIRD</td>
+        <td>NIKE<br/>Coach<br/>Bosideng<br/>HAZZYS</td>
+    </tr>
+    <tr>
+        <td>Outlet sales (RMB million)</td>
+        <td>781.0</td>
+        <td>1,037.1</td>
+    </tr>
+  </tbody>
+</table>
+
+# Trade Mix by Gross Revenue (As at 31 Dec 23)
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>Percentage (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>45.5</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>17.0</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>11.9</td>
+    </tr>
+    <tr>
+        <td>Food &amp; Beverage</td>
+        <td>7.5</td>
+    </tr>
+    <tr>
+        <td>Shoes &amp; Leather</td>
+        <td>5.3</td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>12.8</td>
+    </tr>
+  </tbody>
+</table>
+
+# Outlet's Awards
+
+**10ᵗʰ Outlets Leader Summit (第10届奥莱领秀峰会)**
+
+* 2022-23 China Outlet Index Top 50 (2022-23年度中国奥莱指数核心50强)
+
+# Scan the QR Codes below to find out more
+
+Sasseur (Hefei) Outlet's WeChat QR Code
+
+Sasseur (Hefei) Outlet's WeChat
+
+Sasseur (Hefei) Outlet's Property Videos QR Code
+
+Sasseur (Hefei) Outlet's Property Videos
+
+<!-- PAGE 58 -->
+
+# Property Portfolio
+
+Sasseur (Kunming) Outlet exterior at night with key performance indicators: Occupancy 98.5%, Annual Shopper Traffic 2.80 million, VIP Members 781,000
+
+## SASSEUR (KUNMING) OUTLET
+
+The vicinity of Sasseur (Kunming) Outlet comprises various residential and commercial developments, tourist attractions and the New Kunhua Hospital (新昆华医院).
+
+The property is sited in the northeast of Anning City, and well-served by public transport. It is about 25 minutes’ drive to Anning Bus Station, a half-hour’ drive to the city centre of Kunming, and a one-hour drive to the Kunming Changshui Airport. The established land transport network across these regions provides an impetus to the growth of the regional economies, and support the retail business at Sasseur (Kunming) Outlet.
+
+Sasseur (Kunming) Outlet has integrated Hantang Xiyue Hotel (汉唐玺悦酒店) of the G.D Hotel Group to attract more tourists to the outlet. The hotel occupies the central location of the gateway to western Yunnan and is one of the outlet’s major tenants by net lettable area, occupying 8,200 sqm.
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Property Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Address</td>
+        <td>No. 181 Aotelaisi Avenue, Anning City, Kunming, Yunnan Province, PRC (云南省昆明市安宁市奥特莱斯大道 181号)</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>Two 7-storey buildings comprising 4 retail levels and 3 basement levels</td>
+    </tr>
+    <tr>
+        <td>Site area</td>
+        <td>150,920.57 sqm</td>
+    </tr>
+    <tr>
+        <td>Expiry year of land use right</td>
+        <td>2054</td>
+    </tr>
+    <tr>
+        <td>Commencement of operations</td>
+        <td>Dec 2016</td>
+    </tr>
+    <tr>
+        <td>Year of acquisition</td>
+        <td>2018</td>
+    </tr>
+    <tr>
+        <td>Acquired value (RMB million)</td>
+        <td>1,350</td>
+    </tr>
+    <tr>
+        <td>Carpark lots</td>
+        <td>2,000</td>
+    </tr>
+  </tbody>
+</table>
+
+### Positioning of outlet
+
+Sasseur (Kunming) Outlet is positioned to cater to the growing middle-class consumers, satisfying their preference for international brands such as FILA, MISS Sixty and Adidas. The outlet also carries popular domestic brands to cater to a wider customer base.
+
+The outlet offers an exciting array of retail options including outlet shopping, restaurants, service offerings, children entertainment and hotel facilities.
+
+The property also oversees a man-made lake surrounded by luscious green landscaping.
+
+<!-- PAGE 59 -->
+
+Map of Sasseur (Kunming) Outlet location and surrounding amenities
+
+Airplane icon
+
+# Kunming Changshui International Airport
+
+**Approx. 40.9km**
+**Approx. 1h by car**
+
+**Legend**
+
+* Grey dot Expressway and road
+
+* Pink dot Commercial
+
+* Light pink dot Residential
+
+* Blue dot School
+
+* Light blue dot Hospital
+
+* Green dot Park
+
+# History of Asset Enhancement Initiatives (AEI)
+
+## Completion date and Summary of AEI
+
+### 2019
+
+Added a lift and escalator to connect a seamless shopper flow from level one to the basements.
+
+### September 2023
+
+Revamped shop units to bring in popular food & beverage (F&B) brands such as KFC and Erlanggang Chongqing Hotpot at low-traffic zones.
+
+<table>
+  <thead>
+    <tr>
+        <th>As at 31 December</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Valuation (RMB million)</td>
+        <td>1,652</td>
+        <td>1,652</td>
+    </tr>
+    <tr>
+        <td>Gross floor area (sqm)</td>
+        <td>88,257</td>
+        <td>88,257</td>
+    </tr>
+    <tr>
+        <td>Net lettable area (sqm)</td>
+        <td>70,067</td>
+        <td>70,067</td>
+    </tr>
+    <tr>
+        <td>Number of tenants</td>
+        <td>225</td>
+        <td>257</td>
+    </tr>
+    <tr>
+        <td>Committed occupancy (%)</td>
+        <td>97.0</td>
+        <td>98.5</td>
+    </tr>
+    <tr>
+        <td>Annual shopper traffic (‘000)</td>
+        <td>1,852</td>
+        <td>2,797</td>
+    </tr>
+    <tr>
+        <td>VIP members (‘000)</td>
+        <td>642</td>
+        <td>781</td>
+    </tr>
+    <tr>
+        <td>Major tenants by gross revenue</td>
+        <td>FILA<br/>Li-Ning<br/>ANTA<br/>FEIZI<br/>New Balance</td>
+        <td>+39 Space<br/>NIKE<br/>FILA<br/>ANTA</td>
+    </tr>
+    <tr>
+        <td>Outlet sales (RMB million)</td>
+        <td>548.2</td>
+        <td>684.6</td>
+    </tr>
+  </tbody>
+</table>
+
+# Trade Mix by Gross Revenue
+(As at 31 Dec 23)
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>Percentage (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>41.1</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>14.1</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>23.3</td>
+    </tr>
+    <tr>
+        <td>Children’s Wear</td>
+        <td>8.4</td>
+    </tr>
+    <tr>
+        <td>Shoes &amp; Leather</td>
+        <td>4.7</td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>8.4</td>
+    </tr>
+  </tbody>
+</table>
+
+# Outlet's Awards
+
+**10ᵗʰ Outlets Leader Summit (第10届奥莱领秀峰会)**
+
+* 2022-23 China Outlet Index Top 50 (2022-23年度中国奥莱指数核心50强)
+
+# Scan the QR Codes below to find out more
+
+Sasseur (Kunming) Outlet's WeChat QR Code
+
+Sasseur (Kunming) Outlet's WeChat
+
+Sasseur (Kunming) Outlet's Property Videos QR Code
+
+Sasseur (Kunming) Outlet's Property Videos
+
+<!-- PAGE 60 -->
+
+# Outlet Industry Review
+
+OUTLET INDUSTRY REVIEW
+
+Outlets typically offer off-season or factory excess goods priced at a discount to the in-season products sold by the same brands in department stores.
+
+The development of China’s outlet market is still at an early stage, compared to the United States where outlets originated in the 1970s. In China, the outlet industry has developed rapidly since the country’s first outlet commenced operations in 2002¹. This new retail format grew rapidly after that, bringing together hundreds of shops under one roof, usually outside a main city and near large expressway interchanges in China, rather than in expensive city centre locations.
+
+From 2002 to 2010, the average annual growth rate of the number of newly opened outlets in China was 8.0%, while the growth rate for 2011-2015 was 17.0%². As at end-2022, there were 266 outlets with a combined area of 23.5 million sqm, with the number of outlets growing at a compound annual growth rate of approximately 18.0% over 10 years from 2012 to 2022³.
+
+## Size of Outlet Industry in China
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Combined area of outlets (million sqm)</th>
+        <th>Number of outlets in China</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2012</td>
+        <td>3.5</td>
+        <td>53</td>
+    </tr>
+    <tr>
+        <td>2013</td>
+        <td>4.8</td>
+        <td>69</td>
+    </tr>
+    <tr>
+        <td>2014</td>
+        <td>6.4</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td>2015</td>
+        <td>8.4</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>11.0</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td>13.7</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>2018</td>
+        <td>15.8</td>
+        <td>189</td>
+    </tr>
+    <tr>
+        <td>2019</td>
+        <td>17.3</td>
+        <td>203</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td>18.9</td>
+        <td>220</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>20.6</td>
+        <td>240</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>23.5</td>
+        <td>266</td>
+    </tr>
+  </tbody>
+</table>
+
+Combined area of outlets (million sqm) icon Combined area of outlets (million sqm)
+Number of outlets in China icon Number of outlets in China
+
+Source: 西南商业地产汇, “Map of China's 260+ outlets (全国260+奥莱地图出炉, 这些城市还有机会)”, 31 March 2023.
+
+According to Zhongyan Puhua Industrial Research Institute’s (中研普华产业研究院) 2023-2028 research report on China’s outlet industry, the Yangtze River Delta, central China and southwest China are hot spots for China’s outlet market, accounting for approximately 60% of the total number of outlets in operation. The outlets in operation are mainly concentrated in the first- and second-tier cities, accounting for more than 80.0% of the total number⁴.
+
+The fast growth of the outlet market can be attributed to the low base, in terms of the number, as well as the growing middle class in China⁵. This creates a large potential customer base for the outlet market, given their preference for higher-quality branded and luxury goods at reasonable prices. With greater disposable income, Chinese middle class consumers are becoming more sophisticated and discerning in terms of product branding, quality and value, as reflected in their increasing willingness to pay for well-designed and well-crafted goods. This trend has also helped to drive demand for luxury goods from domestic and international brands that appeal to the rising aspirations of the middle class, which bodes well for the growth of the outlet industry in China.
+
+**Notes:**
+
+1 China Daily, “Branded outlets move in”, 18 February 2011.
+
+2 China Daily, “Outlet plazas make waves in retail sector”, 18 February 2021.
+
+3 Southwest Commercial Real Estate Collection (西南商业地产汇), “Map of China's 260+ outlets (全国260+奥莱地图出炉, 这些城市还有机会)”, 31 March 2023.
+
+4 ChinaIRN.com, "奥特莱斯成年轻人"新宠"! 2023年中国奥特莱斯行业发展现状", 17 October 2023.
+
+5 Outlet Industry Development Working Committee of China’s Department Store Business Association, “2022-2023 China outlet industry white paper”, July 2023.
+
+<!-- PAGE 61 -->
+
+However, the outlet mall industry in China is far from being saturated. According to an industry white paper from the Outlet Industry Development Working Committee of China’s Department Store Business Association, in 2022, a count of outlet malls with an area of more than 30,000 sqm indicated there were 226 of such outlet malls in operation, with 23 outlet malls opened in the year 2022. This industry stock of outlet malls is much smaller than the 5,685 number of shopping centres in China with that size (of more than 30,000 sqm) in 2022³.
+
+The outlet mall industry continues to perform well and remains the fastest growing segment in China’s retail value chain, in terms of sales performance in recent years.
+
+## Year-on-Year Growth Rate of Major Retail Formats in China
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Department stores</th>
+        <th>Supermarkets</th>
+        <th>Specialty stores</th>
+        <th>Outlets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2020</td>
+        <td>-10</td>
+        <td>3</td>
+        <td>-1.5</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td>12</td>
+        <td>6</td>
+        <td>12</td>
+        <td>15.0</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>-9.5</td>
+        <td>3</td>
+        <td>0</td>
+        <td>8.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Source: Outlet Industry Development Working Committee of China's Department Store Business Association, “2022-2023 China outlet industry white paper”, July 2023.
+
+The better performance of the outlet industry can be attributed to mainly the counter-cyclical nature of the outlet business. In times of economic growth, domestic lower-tier consumers tend to migrate towards higher level of consumption and spend in outlets. On the other hand, in times of economic downturns, some higher-tier consumers downgrade their consumption of luxury merchandise and turn to outlets for better value.
+
+Within China’s outlet industry, there are only a few leading players.
+
+## Main Outlet Players in China
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlet Operators</th>
+        <th>Operator Category</th>
+        <th>Number of Outlets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Sasseur Group<br/>砂之船集团</td>
+        <td>Local Private Outlet Specialist</td>
+        <td>17</td>
+    </tr>
+    <tr>
+        <td>Wangfujing SCITECH<br/>王府井赛特</td>
+        <td>Real Estate Company</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Shanshan<br/>杉杉</td>
+        <td>Conglomerate</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Beijing Capital Grand<br/>首创</td>
+        <td>Real Estate Company</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>Bailian<br/>百联</td>
+        <td>State-owned enterprise Retail Group</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>RDM</td>
+        <td>International Outlet Specialist</td>
+        <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+Sources: Company websites, China Daily, 北京商报, 证券时报, 27 February 2024.
+
+<!-- PAGE 62 -->
+
+# Outlet Industry Review
+
+## More Chinese consumers are “smart shopping”
+
+“Consumers aren't necessarily shifting to cheaper brands, but are instead finding ways to trade up at a lower cost via different platforms, promotions, or by adjusting quantity or pack size in their purchases.”
+
+**Mckinsey & Company ⁶**
+
+Sales at outlets across China exceeded RMB130 billion in the first half of 2023, already exceeding half of the RMB210 billion sales in full year 2022, according to data from the China Commerce Association for General Merchandise⁶.
+
+By the third quarter of 2023, outlet industry sales grew 26.3% year-on-year on average⁷, buoyed by the openings of new outlets in the country as well. During the same period in 2023, shopper visits to outlets in China grew by about 35.0% year-on-year. According to a forecast by international consultant, McKinsey & Company, outlet sales in the country could reach as much as RMB390 billion by 2025⁶.
+
+China’s economy is steadily evolving towards being more consumption-driven. McKinsey estimated an additional RMB10 trillion in retail sales over the next five years⁸. This would propel China to become the single largest growth market globally. According to simulations by the McKinsey Global Institute, the number of upper-middle and high-income households may reach 200 million by 2025 and 260 million by 2030. The number of high-income cities is projected to hit 82 by 2025 and 93 by 2030. Continued urbanisation and rising income levels are expected to sustainably drive consumption growth in the medium to long term.
+
+Sasseur (Chongqing Liangjiang) Outlet
+
+**Notes:**
+
+\*6 Jing Daily, “Outlet malls get new lease of life thanks to Chinese bargain-hunters”, 31 August 2023.
+
+\*7 China.org.cn, “Shoppers coming back to malls”, 12 December 2023.
+
+\*8 McKinsey & Company, “China consumption: Start of a new era”, November 2023.
+
+<!-- PAGE 63 -->
+
+## Number of Upper-middle and High-income Households in China⁶ (million)
+
+(>RMB160,000 annual household income)
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Number of Households (million)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2015</td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>2025E</td>
+        <td>200</td>
+    </tr>
+    <tr>
+        <td>2030E</td>
+        <td>259</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2015</th>
+        <th>2022</th>
+        <th>2025E</th>
+        <th>2030E</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Upper-middle and high-income households as % of all urban households</td>
+        <td>12%</td>
+        <td>41%</td>
+        <td>52%</td>
+        <td>62%</td>
+    </tr>
+  </tbody>
+</table>
+
+## Number of High-income Cities in China⁶
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Number of Cities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2020</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>2025E</td>
+        <td>82</td>
+    </tr>
+    <tr>
+        <td>2030E</td>
+        <td>93</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2020</th>
+        <th>2025E</th>
+        <th>2030E</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Share of China's population</td>
+        <td>27%</td>
+        <td>39%</td>
+        <td>44%</td>
+    </tr>
+    <tr>
+        <td>Share of China's Gross Domestic Product</td>
+        <td>47%</td>
+        <td>58%</td>
+        <td>64%</td>
+    </tr>
+  </tbody>
+</table>
+
+Source: McKinsey & Company, “China consumption: Start of a new era”, November 2023.
+
+Sasseur (Kunming) Outlet
+
+<!-- PAGE 64 -->
+
+# Operations Review
+
+OVERVIEW
+
+Sasseur REIT has a portfolio of four outlets strategically located in the high-growth Chinese cities of Chongqing, Hefei and Kunming. Chongqing's 2023 GDP has reached RMB3.01 trillion¹, increasing by 6.1% compared to the previous year. This marks the official entry of the municipality into the RMB3 trillion GDP club, along with Shanghai, Beijing and Shenzhen. Hefei achieved a 2023 GDP of approximately RMB1.27 trillion², placing Hefei as one of the top 20 mega-cities³ in China.
+
+STABLE VALUATIONS
+
+According to independent valuers’ assessments, Sasseur REIT’s investment properties have been valued at RMB8.5 billion as at 31 December 2023, relatively unchanged from a year ago (2022: RMB8.5 billion), reflecting the strong underlying fundamentals of the outlets. The REIT’s portfolio occupancy rate achieved a record high of 97.6% in the fourth quarter of 2023 (4Q 2023), against the backdrop of external challenges during the year.
+
+Portfolio Valuations
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlet</th>
+        <th>Valuation as at 31 Dec 23</th>
+        <th>Valuation as at 31 Dec 22</th>
+        <th colspan="2">Variance</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>(RMB million)</th>
+        <th>(RMB million)</th>
+        <th>(RMB million)</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chongqing Liangjiang</td>
+        <td>3,129</td>
+        <td>3,129</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>834</td>
+        <td>834</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>2,882</td>
+        <td>2,880</td>
+        <td>+2</td>
+        <td>+0.07</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>1,652</td>
+        <td>1,652</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td><strong>Portfolio</strong></td>
+        <td><strong>8,497</strong></td>
+        <td><strong>8,495</strong></td>
+        <td><strong>+2</strong></td>
+        <td><strong>+0.02</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+OUTLETS’ SALES PERFORMANCE
+
+The portfolio’s combined sales for 2023 was RMB4,663.7 million, 31.9% higher than the RMB3,534.8 million sales in 2022 and outpacing the growth rate of China's national retail sales of consumer goods of 7.2% for FY2023⁴. The performance reflects the robustness and resilience of Sasseur REIT's outlet business model and the ability to leverage current consumer trends.
+
+China lifted all COVID-19 lockdown measures in December 2022, leading to a rebound in retail sales driven by spending of consumers in the first quarter of 2023. However, despite this initial burst of spending on the back of pent-up demand, market recovery was gradual and uneven⁵.
+
+We kept up the sales momentum through well-curated promotional campaigns at the outlet level and were proactive in cultivating brand champions at the outlets. We continued to refresh in-store retail experiences by bringing in a diverse mix of offerings.
+
+Notes:
+
+1 iChongqing, “Chongqing's GDP exceeds 3 Trillion yuan, joining elite club”, 19 January 2024.
+
+2 凤凰网 (ifeng.com), "独家！安徽各市2023年经济数据出炉", 6 February 2024.
+
+3 Sohu.com, "各省市区和万亿城市 增长目标已出 2024年中国经济增速如何", 20 February 2024.
+
+4 National Bureau of Statistics of China, “Total retail sales of consumer goods”, 18 January 2024.
+
+5 Centre for Strategic & International Studies “Why China’s long-awaited “revenge spending” boom has not arrived”, 1 June 2023.
+
+<!-- PAGE 65 -->
+
+# Full Year Sales
+
+(2019-2023)
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlet</th>
+        <th>2019</th>
+        <th>2020</th>
+        <th>2021</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chongqing Liangjiang</td>
+        <td>2,342</td>
+        <td>1,852</td>
+        <td>2,178</td>
+        <td>1,875</td>
+        <td>2,541</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>459</td>
+        <td>369</td>
+        <td>374</td>
+        <td>331</td>
+        <td>401</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>1,140</td>
+        <td>845</td>
+        <td>900</td>
+        <td>781</td>
+        <td>1,037</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>884</td>
+        <td>661</td>
+        <td>732</td>
+        <td>548</td>
+        <td>685</td>
+    </tr>
+    <tr>
+        <td>Portfolio</td>
+        <td>4,826</td>
+        <td>3,727</td>
+        <td>4,185</td>
+        <td>3,535</td>
+        <td>4,664</td>
+    </tr>
+  </tbody>
+</table>
+
+## RECORD HIGH PORTFOLIO OCCUPANCY
+
+The occupancy rate of Sasseur REIT’s portfolio increased to 97.6% in 4Q 2023, compared to 97.2% a year before. Our portfolio’s occupancy surpassed the pre-COVID 19 level of 96.0% in year 2019. The strong occupancy rates across all outlets demonstrate our tenants’ confidence in our outlets, despite a challenging external environment.
+
+Chongqing Bishan Outlet and Kunming Outlet achieved record high occupancy rates of 96.8% and 98.5% respectively, demonstrating our effective leasing strategies which have been supported by our active AEIs.
+
+In 2023, Sasseur REIT signed 986 new and renewal leases, accounting for 113,752 sqm or 36.7% of the portfolio’s total net lettable area (NLA). Notable new leases which commenced in 2023 included Charles & Keith and KFC at Kunming Outlet; Chagee and Lady Today at Hefei Outlet; Under Armour Kids and The North Face at Chongqing Liangjiang Outlet; and C.C.CROSS and CoCo Fresh Tea & Juice at Chongqing Bishan Outlet.
+
+# Portfolio Occupancy
+(2019-2023)
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlet</th>
+        <th>2019</th>
+        <th>2020</th>
+        <th>2021</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chongqing Liangjiang</td>
+        <td>100</td>
+        <td>100</td>
+        <td>100</td>
+        <td>100</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>92.5</td>
+        <td>81.4</td>
+        <td>83.5</td>
+        <td>92.8</td>
+        <td>96.8</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>96.3</td>
+        <td>94.9</td>
+        <td>95.7</td>
+        <td>98.1</td>
+        <td>96.1</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>94.9</td>
+        <td>95.8</td>
+        <td>96.7</td>
+        <td>97.0</td>
+        <td>98.5</td>
+    </tr>
+    <tr>
+        <td>Portfolio</td>
+        <td>96.0</td>
+        <td>93.5</td>
+        <td>94.5</td>
+        <td>97.2</td>
+        <td>97.6</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 66 -->
+
+# Operations Review
+
+**Asset Enhancement Initiatives**
+
+**We continued to extract more value from Sasseur REIT’s portfolio by successfully completing a few asset enhancement initiatives (AEI) in the past year. These include:**
+
+In early 2023, VIP Lounge at Chongqing Liangjiang Outlet was upgraded and expanded from the original size of around 100 sqm to 700 sqm.
+
+In July 2023, we embarked on an AEI to strengthen the food & beverage (F&B) offerings at Kunming Outlet, with the objective to lengthen shoppers’ dwell time and attract more footfall to retail zones with low traffic. Multinational fast-food chain, KFC, took over a retail space on Level 1 in August 2023 while a well-established Erlanggang Chongqing Hotpot had taken over a previously vacant unit on Level 4 rooftop in the same month.
+
+Chongqing Liangjiang Outlet VIP Lounge interior
+
+Kunming Outlet F&B offerings including KFC and Erlanggang Hotpot
+
+Chongqing Liangjiang Outlet ~ VIP Lounge
+
+Kunming Outlet ~ Erlanggang "二郎岗" & KFC
+
+In October 2023, we carried out some AEI works to a space which was vacant for 7 years to make it leasable to Yong-hui Superstores "永辉", a leading supermarket. This is to strengthen Hefei Outlet’s positioning as a family-friendly destination.
+
+In December 2023, Sasseur REIT successfully completed its AEI at Chongqing Bishan Outlet ahead of time, with a new secondary entrance constructed to help attract more shoppers by enhancing the visibility of the outlet to drivers travelling along a nearby highway, as well as reduce traffic congestion during peak periods.
+
+Hefei Outlet Yonghui Superstore interior
+
+Chongqing Bishan Outlet secondary entrance before and after construction
+
+Hefei Outlet ~ Yonghui Superstore
+
+Chongqing Bishan Outlet ~ Construction of new secondary entrance (aerial view)
+
+**Looking ahead, we will continue to curate more AEI opportunities to further enhance the assets’ values.**
+
+<!-- PAGE 67 -->
+
+# WELL DIVERSIFIED TENANT MIX
+
+As at 31 December 2023, 80.4% of the portfolio’s average monthly gross revenue was attributable to the Fashion (Domestic), International Brands and Sports trade categories which occupied a combined area representing 63.6% of total NLA. The top three trade categories’ aggregate share of the portfolio’s average monthly gross revenue remained stable year-on-year. By NLA, the aggregate share increased marginally as we allocated more spaces in FY2023 to these trade categories.
+
+Based on the portfolio's gross sales, the top-performing trade sector was Fashion (Domestic), which allows us to capitalise on the growing popularity of domestic Chinese brands. To further enhance our outlets’ offerings, we have also introduced more F&B offerings, with the trade category increasing by 0.8 percentage point from 2.2% in 2022 to 3.0% in 2023, by gross revenue.
+
+As part of our proactive leasing strategy, Sasseur REIT continued to refresh our outlets’ brands and retail concepts to appeal to a wider shopper base.
+
+## Breakdown of Trade Category by Gross Revenue
+
+(% of GR⁴ as at 31 Dec 23)
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Percentage (%)</td>
+    </tr>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>43.6</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>18.3</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>18.5</td>
+    </tr>
+    <tr>
+        <td>Children’s Wear</td>
+        <td>6.8</td>
+    </tr>
+    <tr>
+        <td>Shoes &amp; Leather</td>
+        <td>4.5</td>
+    </tr>
+    <tr>
+        <td>Others³</td>
+        <td>8.3</td>
+    </tr>
+  </tbody>
+</table>
+
+## Breakdown of Trade Category by NLA
+
+(% of NLA as at 31 Dec 23)
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Percentage (%)</td>
+    </tr>
+    <tr>
+        <td>Fashion (Domestic)</td>
+        <td>35.2</td>
+    </tr>
+    <tr>
+        <td>International Brands</td>
+        <td>14.7</td>
+    </tr>
+    <tr>
+        <td>Sports</td>
+        <td>13.7</td>
+    </tr>
+    <tr>
+        <td>Large Tenants¹</td>
+        <td>11.5</td>
+    </tr>
+    <tr>
+        <td>Food &amp; Beverage</td>
+        <td>6.7</td>
+    </tr>
+    <tr>
+        <td>Others²</td>
+        <td>18.3</td>
+    </tr>
+  </tbody>
+</table>
+
+**Of the Portfolio's Gross Revenue⁴**
+
+Top 10 tenants contribute
+
+**14.4%**
+
+No single tenant accounts for
+
+**>5%**
+
+**Aggregate of Fashion (Domestic), International Brands and Sports trade categories**
+
+**80.4%**
+
+By Gross Revenue
+
+**63.6%**
+
+By NLA
+
+**Notes:**
+
+1 ‘Anchor tenants’ are fixed rental leases, such as cinema, hotels and gym.
+
+2 ‘Others’ comprises Food & beverage, Children's wear, Shoes & leather, Lifestyle, Accessories and Ad-hoc; ‘Ad-hoc’ refers to temporary leases.
+
+3 ‘Others’ comprises Accessories, Food & beverage, Anchor tenants, Lifestyle, Kids-centric centres and Ad-hoc; ‘Ad-hoc’ refers to temporary leases.
+
+4 GR refers to Gross Revenue which is calculated based on average monthly gross revenue for the period Jan-Dec 2023.
+
+<!-- PAGE 68 -->
+
+# Operations Review
+
+## LEASE STRUCTURE
+
+The majority of Sasseur REIT’s leases are structured to capture the sales growth of high-performing tenants. Approximately 98.0% and 93.0% of the leases (in terms of gross revenue and NLA respectively) contain turnover rent provisions, allowing the REIT’s Unitholders to enjoy upside in revenues should the tenants do well. This leasing structure aligns the interests of both landlords and retailers.
+
+Anchor tenants' leases are often structured on a fixed rent basis with an annual step-up rent component. All tenants' point-of-sale systems are connected to the systems of the REIT's Entrusted Manager's, which allows accurate and timely tracking of tenants’ sales data. This arrangement also helps to keep rent arrears low, often less than 1.0% of total tenants’ sales.
+
+% of Leases with Turnover Rent by Gross Revenue
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Percentage (%)</td>
+    </tr>
+    <tr>
+        <td>Turnover Rent</td>
+        <td>97.7</td>
+    </tr>
+    <tr>
+        <td>Fixed Rent</td>
+        <td>2.3</td>
+    </tr>
+  </tbody>
+</table>
+
+% of Leases with Turnover Rent by NLA
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Percentage (%)</td>
+    </tr>
+    <tr>
+        <td>Turnover Rent</td>
+        <td>93.1</td>
+    </tr>
+    <tr>
+        <td>Fixed Rent</td>
+        <td>6.9</td>
+    </tr>
+  </tbody>
+</table>
+
+## LEASE EXPIRY PROFILE
+
+The leases in Sasseur REIT's portfolio have a typical lease duration of 1 to 3 years although certain key or anchor tenancies may have longer tenures. Most tenants' lease terms, besides anchor tenants, are deliberately kept between one and three years. This gives us the flexibility to raise the rate of commission we levy on tenants' sales for tenants who have enjoyed success at our outlets, and also to replace under-performing tenants with new brands that are in trend given the fast-changing consumer preferences. Approximately 52.3% and 61.6% of leases by NLA and gross revenue respectively will expire in 2024.
+
+As at 31 December 2023, the lease expiry profile for Sasseur REIT remained well balanced with a portfolio weighted average lease expiry (WALE) of 1.2 years by gross revenue and 2.1 years by NLA. Out of the portfolio’s leases which expired in 2023, 688 leases were renewed and 298 new leases were secured.
+
+Active leasing initiatives are put in place to ensure that our outlets maintain high occupancy rates. We proactively engage existing tenants to establish strong relationships and continue to build a pipeline of promising brands that we can potentially tap on in future.
+
+Renewals and New Leases Secured for Leases Expiring in 2023
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Number of Leases</th>
+        <th>Net Lettable Area (sqm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Renewal Leases</td>
+        <td>688</td>
+        <td>64,410</td>
+    </tr>
+    <tr>
+        <td>New Leases</td>
+        <td>298</td>
+        <td>49,342</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>986</strong></td>
+        <td><strong>113,752</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 69 -->
+
+## Lease Expiry Profile
+
+(As at 31 Dec 2023)
+
+**Continued emphasis on cultivating brand champions and new & exciting retail offerings at our outlets**
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>By NLA (%)</th>
+        <th>By Gross Revenue (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2024</td>
+        <td>52.3</td>
+        <td>61.6</td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>19.6</td>
+        <td>29.1</td>
+    </tr>
+    <tr>
+        <td>2026</td>
+        <td>11.1</td>
+        <td>5.2</td>
+    </tr>
+    <tr>
+        <td>2027 &amp; Beyond</td>
+        <td>17.0</td>
+        <td>4.2</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">WALES</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2.1 years</td>
+        <td>by NLA</td>
+    </tr>
+    <tr>
+        <td>1.2 years</td>
+        <td>by Gross Revenue</td>
+    </tr>
+  </tbody>
+</table>
+
+## VIP MEMBERSHIP
+
+VIP members are a large contributor to our outlets’ sales, consistently representing more than 60.0% of total outlet sales. We have continued to grow and cultivate this group of important customers, which has grown in number by 20.5% in 2023 compared to the previous year. This is 6.9 percentage points higher than the year-on-year growth rate in 2022 versus 2021.
+
+On a year-on-year comparison, the ratio of sales contribution continued to increase by double-digit percentage growth. Sasseur REIT focused on cultivating more repeated spending at our outlets for Gold and Platinum members due to their higher propensity to spend on more expensive items. Attractive discounts would be offered to members during our four key promotional events¹ throughout the year.
+
+### Number of VIP Members in Portfolio
+**22.0% 4-year CAGR (Dec 2019 - Dec 2023)**
+**20.5% year-on-year**
+
+<table>
+  <thead>
+    <tr>
+        <th>Date</th>
+        <th>Number of Members ('000)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>31 Dec 2019</td>
+        <td>1,591</td>
+    </tr>
+    <tr>
+        <td>31 Dec 2020</td>
+        <td>2,098</td>
+    </tr>
+    <tr>
+        <td>31 Dec 2021</td>
+        <td>2,580</td>
+    </tr>
+    <tr>
+        <td>31 Dec 2022</td>
+        <td>2,931</td>
+    </tr>
+    <tr>
+        <td>31 Dec 2023</td>
+        <td>3,530</td>
+    </tr>
+  </tbody>
+</table>
+
+### Total VIP Members by Outlets (‘000)
+(As at 31 Dec 2023)
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlet</th>
+        <th>Members ('000)</th>
+        <th>Share (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chongqing Liangjiang</td>
+        <td>1,175</td>
+        <td>33.3%</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>1,087</td>
+        <td>30.8%</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>781</td>
+        <td>22.1%</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>486</td>
+        <td>13.8%</td>
+    </tr>
+  </tbody>
+</table>
+
+Note:
+¹ Spring Festival, Anniversary Sales, Red Festival & Year-End Promotions
+
+<!-- PAGE 70 -->
+
+# Operations Review
+
+Interior view of a Sasseur outlet mall showing multiple levels of shops and a glass dome roof
+
+**SHOPPER TRAFFIC**
+
+The portfolio’s overall shopper traffic continued its recovery trajectory as China lifted most of its pandemic-related lockdowns and travel restrictions in December 2022. This marked a significant progress towards normalisation, with the portfolio’s total shopper traffic improving by 38.5% from 9.6 million in 2022 to 13.3 million in 2023.
+
+Various promotions and events were carried out during the year to encourage higher shopper traffic and in turn, boost tenants’ sales. During the year, we promoted the outlets’ promotional events on social media channels to over 3.5 million VIP members, inviting them to visit our outlets and take advantage of our exclusive member discounts.
+
+Shopper Traffic
+(2019-2023)
+Millions
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>2019</th>
+        <th>2020</th>
+        <th>2021</th>
+        <th>2022</th>
+        <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Q1</td>
+        <td>2.8</td>
+        <td>1.1</td>
+        <td>2.7</td>
+        <td>2.7</td>
+        <td>3.3</td>
+    </tr>
+    <tr>
+        <td>Q2</td>
+        <td>2.5</td>
+        <td>2.2</td>
+        <td>2.4</td>
+        <td>2.0</td>
+        <td>3.0</td>
+    </tr>
+    <tr>
+        <td>Q3</td>
+        <td>2.9</td>
+        <td>3.0</td>
+        <td>2.8</td>
+        <td>2.8</td>
+        <td>3.6</td>
+    </tr>
+    <tr>
+        <td>Q4</td>
+        <td>2.8</td>
+        <td>3.8</td>
+        <td>2.6</td>
+        <td>2.2</td>
+        <td>3.5</td>
+    </tr>
+    <tr>
+        <td>Full-year</td>
+        <td>10.9</td>
+        <td>10.1</td>
+        <td>10.6</td>
+        <td>9.6</td>
+        <td>13.3</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 71 -->
+
+Sasseur Outlets logo/signage
+
+Sasseur Outlet building at night with fountain
+
+1. Sasseur (Chongqing Bishan) Outlet
+2. Sasseur (Kunming) Outlet
+3. Sasseur (Chongqing Liangjiang) Outlet
+
+# TENANT’S PROFILES
+
+Sasseur REIT’s portfolio has more than 1,100 leases. As at 31 December 2023, no single tenant contributed more than 5.0% of the portfolio’s gross revenue. The top 10 tenants contribute about 14.4% of the portfolio’s gross revenue.
+
+Sasseur REIT’s portfolio boasts a diversified trade mix. This lowers its dependence on any particular tenant, which enables the REIT to mitigate concentration risks and enhance the resilience of its portfolio.
+
+## Top 10 Tenants by Gross Revenue
+
+(As at 31 Dec 2023)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Tenant 1</th>
+        <th>Tenant 2</th>
+        <th>Tenant 3</th>
+        <th>Tenant 4</th>
+        <th>Tenant 5</th>
+        <th>Tenant 6</th>
+        <th>Tenant 7</th>
+        <th>Tenant 8</th>
+        <th>Tenant 9</th>
+        <th>Tenant 10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>%</td>
+        <td>3.5</td>
+        <td>1.7</td>
+        <td>1.3</td>
+        <td>1.3</td>
+        <td>1.2</td>
+        <td>1.1</td>
+        <td>1.1</td>
+        <td>1.0</td>
+        <td>1.0</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>Trade Category</td>
+        <td>Sports</td>
+        <td>Sports</td>
+        <td>Sports</td>
+        <td>Sports</td>
+        <td>Sports</td>
+        <td>Fashion (Domestic)</td>
+        <td>International Brand</td>
+        <td>Fashion (Domestic)</td>
+        <td>Fashion (Domestic)</td>
+        <td>Sports</td>
+    </tr>
+  </tbody>
+</table>
+
+## Breakdown of Tenants in Portfolio
+
+(as at 31 Dec 2023)
+
+<table>
+  <thead>
+    <tr>
+        <th>Outlets</th>
+        <th>Number of Tenants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chongqing Liangjiang</td>
+        <td>387</td>
+    </tr>
+    <tr>
+        <td>Chongqing Bishan</td>
+        <td>172</td>
+    </tr>
+    <tr>
+        <td>Hefei</td>
+        <td>354</td>
+    </tr>
+    <tr>
+        <td>Kunming</td>
+        <td>257</td>
+    </tr>
+    <tr>
+        <td><strong>Portfolio</strong></td>
+        <td><strong>1,170</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 72 -->
+
+# Marketing and Promotion
+
+**BUILDING CUSTOMER LOYALTY**
+
+To deepen customer loyalty, all Sasseur outlets have a VIP programme structured with four tiers of membership, namely, Basic Card, Gold Card, Platinum Card and Black Gold. Through bespoke services and exclusive events, we position the Platinum Card and Black Gold Card memberships as an aspiration, motivating VIP members to spend more at our outlets.
+
+Spending criteria for different tiers of VIP memberships
+
+<table>
+  <thead>
+    <tr>
+        <th>VIP membership tier</th>
+        <th>Promotion criteria</th>
+        <th>Criteria to maintain current tier</th>
+        <th>Demotion rules</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Basic Card<br/>Basic Card</td>
+        <td>Spend RMB1,000<br/>OR<br/>make two purchases within 6 months to get Gold Card<br/>Spend RMB20,000<br/>OR<br/>spend at least RMB10,000 in 1 day within first 6 months of card membership to get Platinum Card</td>
+        <td>No spending requirements</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Gold Card<br/>Gold Card</td>
+        <td>Spend RMB20,000<br/>OR<br/>spend at least RMB10,000 in 1 day within first 6 months of card membership to get Platinum Card</td>
+        <td>Spend RMB1,000<br/>OR<br/>make two purchases within first 12 months of card membership to extend Gold membership for another 12 months</td>
+        <td>If cumulative spending does not reach RMB1,000<br/>OR<br/>two purchases are not made within first 12 months of card membership, membership tier will be demoted to Basic</td>
+    </tr>
+    <tr>
+        <td>Platinum Card<br/>Platinum Card</td>
+        <td> </td>
+        <td>Spend RMB20,000<br/>OR<br/>make 12 purchases within first 12 months of card membership to extend Platinum membership for another 12 months</td>
+        <td>If cumulative spending does not reach RMB20,000<br/>OR<br/>12 purchases are not made within first 12 months of card membership, membership tier will be demoted to Gold</td>
+    </tr>
+    <tr>
+        <td>Black Gold Card<br/>Black Gold Card</td>
+        <td colspan="3">By invitation only from Sasseur Group, based on top spending VIP members across all 17 Sasseur Group operating outlets</td>
+    </tr>
+  </tbody>
+</table>
+
+Throughout the year, all outlets had put together elaborate activities exclusive only to Platinum and Black Gold cardholders. Our active engagement with these key VIP members aims to cultivate members’ loyalty to encourage repeated spending at Sasseur outlets. The VIP-members only events also present an opportunity for our tenants to showcase their product range to this group of high-spending customers.
+
+Delightful high-tea pastries prepared for VIP members' enjoyment during exclusive events
+
+Product showcase to high-spending VIP members during closed-door brand sharing salon
+
+1. Delightful high-tea pastries prepared for VIP members' enjoyment during exclusive events
+
+2. Product showcase to high-spending VIP members during closed-door brand sharing salon
+
+<!-- PAGE 73 -->
+
+Besides these closed-door events, Platinum Card and Black Gold Card members can expect to enjoy special privileges such as reserved parking lot use, free shipping of purchased items to their doorsteps, and complimentary deposit of purchased items at the outlets’ customer service centres for a hassle-free shopping experience.
+
+To provide best-in-class customer service and attention to VIP members, Sasseur (Chongqing Liangjiang) Outlet held an in-house competition in December 2023 to assess the best standard of customer service amongst customer service staff. The outlet also unveiled a newly revamped VIP lounge in the first quarter of 2023, serving as a luxe space for VIP members to relax.
+
+Complementary shopping bag deposit service at the customer service centre
+
+Customer service staff competition at Sasseur (Chongqing Liangjiang) Outlet
+
+1. Complementary shopping bag deposit service at the customer service centre
+
+2. Customer service staff competition at Sasseur (Chongqing Liangjiang) Outlet
+
+# PORTFOLIO-WIDE ACTIVITIES
+
+## Chinese New Year
+
+**January**
+
+The festive season sprang to life at Sasseur outlets weeks ahead of the Chinese New Year holidays, as shoppers were eager to unleash their pent-up shopping desires. Playing to the theme of Chinese traditions, Sasseur (Kunming) Outlet assembled a bazaar selling traditional handicrafts such as paper cutting art, dough figurines and candy drawings.
+
+At Sasseur (Hefei) Outlet, lion dancers and dragon dancers pranced with vigour at the outdoor plaza, putting up a spectacle entertaining shoppers. Sasseur (Chongqing Bishan) and Sasseur (Chonqing Liangjiang) Outlets each set up a shimmering gold-leaf tree at their respective outlet entrances, inviting shoppers to make a wish for their desired blessings for the new year.
+
+Shoppers draping their well-wishes on the golden tree at Sasseur (Chongqing Liangjiang) Outlet
+
+Lion dancers and dragon dancers prancing around the outdoor plaza at Sasseur (Hefei) Outlet
+
+1. Shoppers draping their well-wishes on the golden tree at Sasseur (Chongqing Liangjiang) Outlet
+
+2. Lion dancers and dragon dancers prancing around the outdoor plaza at Sasseur (Hefei) Outlet
+
+## Spring Carnival
+
+**March**
+
+As an annual affair, the Spring Carnival at Sasseur outlets celebrates the best of spring. Cherry blossoms bloomed at Sasseur (Kunming) Outlet to the delight of shoppers, contouring the outlet with a splash of pink. As shoppers swapped out their layers of winter wear for lightweight outfits, each outlet put up a vibrant medley of games and activities for shoppers to participate in and have fun.
+
+With spring symbolising the rebirth of lush greenery and nature, all Sasseur outlets collaborated with a non-profit organization, White Whales, to collect pre-loved clothes from shoppers for recycling, an initiative to protect the environment by giving new life to clothes that would have otherwise been turned into waste.
+
+Sasseur (Hefei) Outlet also collaborated with charitable organisation, Chunya Association for the Disabled, to set up a flea market selling handicrafts made by children with autism, with all sales proceeds going back to the charity.
+
+Shoppers soaking in the beauty of cherry blossoms at Sasseur (Kunming) Outlet
+
+Handicrafts sold for a good cause at Sasseur (Hefei) Outlet’s charity flea market
+
+1. Shoppers soaking in the beauty of cherry blossoms at Sasseur (Kunming) Outlet
+
+2. Handicrafts sold for a good cause at Sasseur (Hefei) Outlet’s charity flea market
+
+<!-- PAGE 74 -->
+
+# Marketing and Promotion
+
+## PORTFOLIO-WIDE ACTIVITIES
+
+## Anniversary Sales
+
+**September**
+
+Excitement for the highly anticipated Anniversary sales event started building up weeks ahead. Each outlet put on their creative hats to promote the event, ranging from a rap theme song produced by Sasseur (Kunming) Outlet, to a dance choreography which Sasseur (Chongqing Liangjiang) Outlet took to the streets, attracting the attention of onlookers along the key retail districts in Chongqing city. Media engagements and brand briefings were carried out in advance to prepare all stakeholders for their involvement in the mega sales event. To drive towards achieving successful Anniversary sales events, the ground team of each outlet rallied and bonded together over team-building activities as a prelude to the kick-off of the sales event.
+
+The first day of the Anniversary sales event at each outlet kicked off with a VIP day, whereby the huge discounts are offered to VIP members in appreciation of their support. Shoppers continually streamed into the outlets, hoping to get their hands on super value-for-money deals. Entertainment programmes were also lined up throughout the day, prolonging shoppers’ dwell time as they take breaks in between their shopping sprees.
+
+Sasseur (Chongqing Liangjiang) Outlet’s dance flash mob
+
+Brands’ briefing in preparation for the event
+
+Shoppers at a pop-up store
+
+Captivating performances on stage
+
+A 10-metre cake celebrating 10 years of operations
+
+1. Sasseur (Chongqing Liangjiang) Outlet’s dance flash mob created publicity for Anniversary sales
+
+2. Brands’ briefing in preparation for the event
+
+3. Shoppers jostling to take their picks from a pop-up store offering store-wide 90% discounts
+
+4. Captivating performances keeping crowds glued to the stage
+
+5. A 10-metre cake celebrating 10 years of operations at Sasseur (Chongqing Bishan) Outlet
+
+View Sasseur (Chongqing Liangjiang) Outlet's Anniversary Sales event by scanning this QR code QR code for Anniversary Sales event
+
+## Sasseur’s Red Festival
+
+**November**
+
+Riding on the wave of rising nationalism, ‘Red Festival’ (红色第五季 – 国人的购物节) is an annual hallmark Sasseur Group event. This unique promotion festival was ingeniously started by Sasseur Group in 2018 to leverage the growing consumer trend and demand for domestic retail brands. Red Festival is akin to Black Friday but with a focus on China’s strong domestic retail brands, dedicated to featuring local brands such as Joeone (九牧王), JNBY (江南布衣) and PEACEBIRD (太平鸟).
+
+Chef cooking Laifeng Fish
+
+Workshop on historical dining etiquette
+
+Beyond supporting high quality domestic brands, the festival was imbued with traditional arts activities, preserving China’s intangible cultural heritage.
+
+Performance of Red Rock Red
+
+Children attempting movable-type printing
+
+1. Showdown amongst chefs to cook a traditional Chongqing dish, Laifeng Fish (来凤鱼), at Sasseur (Chongqing Bishan) Outlet
+
+2. Workshop on historical dining etiquette engaging children at Sasseur (Hefei) Outlet
+
+3. Performance of Red Rock Red (红岩红), an epic period drama, by a theatrical troupe at Sasseur (Kunming) Outlet
+
+4. Children attempting movable-type printing, which was common in the ancient times, at Sasseur (Kunming) Outlet
+
+<!-- PAGE 75 -->
+
+# OUTLET-LEVEL HIGHLIGHTS
+
+Fashion runway show at Sasseur (Chongqing Liangjiang) Outlet
+
+Fashion runway show at Sasseur (Chongqing Liangjiang) Outlet
+
+**Sasseur (Chongqing Liangjiang) Outlet**
+
+The outlet was selected as the opening ceremony host for the Chongqing International Consumption Festival which was organised by the city’s government. Several rounds of fashion runway shows inaugurated the event.
+
+Lingerie-themed zone at Sasseur (Chongqing Bishan) Outlet
+
+Retro-themed photogenic spot at Sasseur (Hefei) Outlet
+
+Exhibition centre event for Sasseur (Kunming) Outlet
+
+**Sasseur (Chongqing Bishan) Outlet**
+Newly reconfigured lingerie-themed zone, part of a strategy to curate thematic shopping experience.
+
+**Sasseur (Hefei) Outlet**
+Freshly created photogenic spots at level 3 featuring a retro theme of Hefei city back in time.
+
+**Sasseur (Kunming) Outlet**
+Bringing the outlet’s best offerings out of Kunming to a nearby city Yuxi, in an exhibition centre.
+
+# DIVERSIFYING PROMOTION CHANNELS WITH SASSEUR’S YEAH! OUTLETS WECHAT MINI-PROGRAM
+
+**Beyond our physical malls, we have also diversified into online sales channels.**
+
+The YEAH! Outlets (夜奥莱) WeChat Mini-Program is the equivalent of a mall app built within WeChat, China’s most widely used messaging and lifestyle app. YEAH! Outlets boasts a variety of features such as a live-stream broadcast room, product catalogue and shopping cart, member’s centre, deals discovery page and store locator amongst others.
+
+Conveniently integrated with WeChat’s ecosystem, customers can easily share good deals and upcoming live-stream events with their friends via chat messages, organically promoting mindshare of Sasseur outlets. Online purchases can also be made seamlessly using WeChat Pay.
+
+Each of our outlets hosts at least four live-streaming sessions per month, featuring the best deals in partnership with our brands. The engaging nature of live-streaming has drawn high volumes of viewership and shopper purchases.
+
+Screenshots of YEAH! Outlets WeChat Mini-Program interface
+
+<!-- PAGE 76 -->
+
+# Partner Brands
+International Brands
+
+Grid of International Partner Brand Logos
+
+Starbucks logo
+
+Miss Sixty logo
+
+Ports Outlet logo
+
+Nike logo
+
+Fila logo
+
+Revolve logo
+
+Shiseido Ginza Tokyo logo
+
+Victoria's Secret logo
+
+Cianfrango Ferre logo
+
+Puma logo
+
+Versace logo
+
+C'N'C Costume National logo
+
+MaxMara logo
+
+Burberry logo
+
+Calvin Klein logo
+
+Adidas logo
+
+Italia Space logo
+
+Tommy Hilfiger logo
+
+Givenchy logo
+
+Bally logo
+
+Boss logo
+
+Coach New York logo
+
+Aigle logo
+
+Polo Ralph Lauren logo
+
+Ermenegildo Zegna Outlet Store logo
+
+Salvatore Ferragamo logo
+
+Armani Outlet logo
+
+The Cosmetics Company Store logo
+
+Michael Kors logo
+
+I.T Outlet logo
+
+Gap logo
+
+UGG Australia logo
+
+Kate Spade New York logo
+
+Theory logo
+
+Diesel logo
+
+Bebe logo
+
+Maryling logo
+
+Aquascutum London logo
+
+Kent & Curwen England logo
+
+Maje Paris logo
+
+Guess logo
+
+Sandro logo
+
+Navigare Yachting & Sportswear logo
+
+Dunhill London logo
+
+Tory Burch logo
+
+Ed Hardy logo
+
+Calvin Klein Underwear logo
+
+Swarovski logo
+
+Calvin Klein Platinum logo
+
+Lady Today logo
+
+Karl Lagerfeld logo
+
+Brooks Brothers Factory Store logo
+
+Prime Time logo
+
+L'Oreal Paris logo
+
+New Balance logo
+
+Daniel Hechter Paris logo
+
+Under Armour logo
+
+Le Coq Sportif logo
+
+Fissler logo
+
+Chow Tai Fook logo
+
+The North Face logo
+
+Samsonite logo
+
+Columbia logo
+
+Burger King logo
+
+Kappa logo
+
+Converse logo
+
+<!-- PAGE 77 -->
+
+# Koradior GXG Marisfrolg EP ELEGANT PROSPER outlet logo
+
+**LANCY** **ÁFIONA 妍丽** JORYA logo
+
+**JNBY** **LANCY** RYINER logo
+
+ANMANI logo **INSUN** PSALTER logo
+
+ELLASSAY logo **KLOVA** E-LAND logo
+
+LUKA DILONG logo Laico Dire logo Satchi logo
+
+VICUTU logo Kevin Kelly logo EVE SINCE 1994 logo Biem.l.fdlkk logo
+
+XTEP logo ANTA logo LI-NING logo E-LAND KIDS logo
+
+M.latin logo **TEENIE WEENIE KIDS** Paw Paw logo le saunda OUTLET logo
+
+balabala logo gb logo C.BANNER logo
+
+Jinea Rosa logo **BELLE** TOP GLORIA logo
+
+MO&Co. logo ERKE logo 361 logo
+
+erfeni logo DAZZLE logo 1927 logo on logo
+
+<!-- PAGE 78 -->
+
+# Sustainability Report
+
+> The Board recognises the importance of considering sustainability issues in Sasseur REIT’s business and strategy, in order to enhance long-term value for all stakeholders and the wider community.
+
+## BOARD STATEMENT
+
+The Board of Directors (the Board) is pleased to present Sasseur Real Estate Investment Trust’s (Sasseur REIT) Sustainability Report for the financial year ended 31 December 2023 (FY2023). This report showcases Sasseur Asset Management Pte. Ltd.'s (the REIT Manager) and Sasseur (Shanghai) Holding Company Limited’s (the Entrusted Manager) partnership to manage environmental, social and governance (ESG) impacts throughout Sasseur REIT’s business operations.
+
+The Board recognises the importance of considering sustainability issues in Sasseur REIT’s business and strategy, in order to enhance long-term value for all stakeholders and the wider community. To this end, the Board has delegated authority to the Board-level Sustainability Committee (the SC) to oversee the incorporation of sustainability as part of Sasseur REIT’s and the REIT Manager’s strategic formulation.
+
+The material ESG factors presented in this report have been revalidated to be relevant for the current year by the SC, who is responsible for overseeing the management and monitoring of material ESG factors.
+
+We continue to recognise the need to address climate change, and have strengthened our climate-related disclosures, which is consistent with the Task Force on Climate-related Financial Disclosures (TCFD) and the Monetary Authority of Singapore's (MAS) Guidelines on Environmental Risk Management for Asset Managers (EnRM Guidelines). In FY2023, Sasseur REIT established an environmental risk management framework (EnRM Framework) which defines the environmental risk management practices to be undertaken in the management and selection of our properties, aligning with environmental risk principles to deliver long-term value to our investors. In addition, we have delivered on our commitment to expand our monitoring and reporting of Scope 3 emissions, with the inclusion of new tenant emission categories and landlord Scope 3 emissions.
+
+The Board would like to thank all stakeholders for their continuous trust and support as Sasseur REIT continues its sustainability journey. We continue to remain vigilant in upholding our commitments towards sustainability while creating long-term value for our stakeholders.
+
+<!-- PAGE 79 -->
+
+# ABOUT THIS REPORT
+
+## REPORTING FRAMEWORK
+
+This Sustainability Report has been prepared in accordance with the sustainability reporting requirements of the Singapore Exchange Securities Trading Limited (SGX-ST) Mainboard Listing Rules 711A and 711B on Sustainability Reporting, as well as Practice Note 7.6 Sustainability Reporting Guide (updated in January 2022). In addition, this report has been prepared with reference to the Global Reporting Initiative Universal Standards (GRI Standards) (updated 2021). The GRI Standards was selected due to its global adoption and robust industry guidance, promoting comparability against global and local peers. We view this framework as the most appropriate for communicating relevant information to stakeholders on Sasseur REIT’s ESG risks and opportunities.
+
+## REPORTING PERIOD AND SCOPE
+
+The reporting period covered in this report is from 1 January 2023 to 31 December 2023. Where applicable, data from previous financial years have been included for comparison.
+
+This report should be read together with the financial performance and governance information detailed in the Annual Report for a comprehensive picture of Sasseur REIT’s business and performance.
+
+Unless otherwise stated, this report covers the following entities:
+
+* Sasseur REIT;
+* The REIT Manager;
+* The Entrusted Manager; and
+* Sasseur REIT’s portfolio of properties - Sasseur (Chongqing Liangjiang) Outlet, Sasseur (Chongqing Bishan) Outlet, Sasseur (Hefei) Outlet and Sasseur (Kunming) Outlet (the Outlets).
+
+The remaining entities within the trust structure are special purpose vehicles which have been excluded from the report.
+
+For performance related to environmental factors, the data disclosed covers Sasseur REIT’s Outlets. For performance related to employee data and governance factors, the data disclosed covers the REIT Manager in Singapore.
+
+Any discrepancies in the table and charts between the listed figures and totals thereof are due to rounding. Where applicable, figures and percentages are rounded to two decimal places.
+
+Sasseur REIT’s sustainability reporting process for FY2023 has been internally reviewed by Sasseur REIT’s internal auditors. No external assurance was sought for this report. External assurance by independent professional bodies will be considered as our reporting matures over time.
+
+## FEEDBACK
+
+The REIT Manager values and welcomes all feedback from stakeholders as they are integral to the continuous improvement of our sustainability practices and reporting. Please send all comments and suggestions to ir@sasseurreit.com.
+
+Email icon
+
+<!-- PAGE 80 -->
+
+# FY2023
+# SUSTAINABILITY HIGHLIGHTS
+
+## ENVIRONMENTAL PERFORMANCE FY2023
+
+**Scope 1 and 2 Emissions**
+Cloud icon with downward arrow inside a circular progress bar
+**↓ 5.0%**
+Reduction from FY2022
+
+**Energy Consumption**
+Gear icon with lightning bolt inside a circular progress bar
+**↓ 10.9%**
+Reduction from FY2022
+(for landlord-controlled areas)
+
+**Water Consumption**
+Water droplets icon inside a circular progress bar
+**↓ 13.9%**
+Reduction from FY2022
+(for landlord-controlled areas)
+
+## SOCIAL PERFORMANCE FY2023
+
+**Annual employee turnover rate (%)**
+Icon of two people
+FY2023: 23.1%
+FY2022: 28.6%
+
+**Average training hours per employee (Hours)**
+Icon of a person at a desk with a screen
+FY2023: 32.30
+FY2022: 25.25
+
+Checkmark icon
+# ZERO
+# INCIDENTS
+of fatalities, high-consequence injuries, recordable injuries and recordable work-related ill health cases
+
+## GOVERNANCE PERFORMANCE FY2023
+
+# ZERO
+# INCIDENTS
+
+Scales of justice icon
+Zero incidents of non-compliance with relevant laws and regulations resulting in fines or non-monetary sanctions
+
+Dollar sign inside a circular arrow icon
+Zero incidents of corruption
+
+Warning sign icon
+Zero instances of counterfeit reports
+
+Shield with a lock icon
+Zero incidents of identified leaks, thefts, or losses of data
+
+<!-- PAGE 81 -->
+
+# MANAGING SUSTAINABILITY
+
+## SUSTAINABILITY GOVERNANCE
+
+The Board has ultimate responsibility for Sasseur REIT’s sustainability reporting and oversees the management of Sasseur REIT’s sustainability performance as well as risks and opportunities. The Board has established a SC with its own terms of reference. The SC plays a key role in incorporating sustainability matters as part of Sasseur REIT’s and the REIT Manager’s strategic formulation and determines the ESG factors identified as material to the business.
+
+The SC is supported by the Sustainability Steering Committee (SSC) which is responsible for developing Sasseur REIT’s sustainability objectives and strategies, monitoring and driving sustainability performance as well as ensuring that material ESG factors are monitored on an ongoing basis and appropriately managed. The SSC is led by the Chief Executive Officer (CEO) and comprises Heads of Departments (HOD) and representatives from the Investment Management, Asset Management, Finance, Investor Relations, Risk and Compliance, and Human Resources functions. The SSC meets regularly to discuss sustainability-related matters and reports Sasseur REIT’s sustainability performance and progress to the SC twice a year. Matters discussed during the SC meetings are reported to the Board.
+
+In FY2023, Sasseur REIT has established an EnRM Framework which is aligned with the EnRM Guidelines issued by the MAS. By integrating EnRM principles, Sasseur REIT can proactively address environmental challenges, enhance resilience and contribute to sustainable and long-term value creation.
+
+## Sasseur REIT’s Sustainability Governance Structure
+
+```mermaid
+graph TD
+    subgraph "Top-down Strategy"
+    direction TB
+    A1[ ]
+    end
+
+    subgraph "Bottom-up information flow"
+    direction BT
+    B1[ ]
+    end
+
+    Board[Board of Directors]
+    SC[Sustainability Committee]
+    SSC[Sustainability Steering Committee]
+    KCU[Key Corporate Units and Functions]
+
+    Board --- SC
+    SC --- SSC
+    SSC --- KCU
+
+    %% Descriptions
+    Board_Desc[Oversee Sasseur REIT's sustainability reporting]
+    
+    SC_Left[Meets twice a year with the SSC and representatives of the Sponsor to discuss sustainability-related matters]
+    SC_Right[Delegated authority by the Board with its own terms of reference to incorporate sustainability issues as part of Sasseur REIT's and the REIT Manager's strategic formulation and approves, manages and monitors material ESG factors]
+    
+    SSC_Left[Meets regularly to discuss sustainability-related matters]
+    SSC_Right[Chaired by the CEO; comprises HODs and representatives from various departments. Supports the implementation of sustainability initiatives across Sasseur REIT and the REIT Manager]
+    
+    KCU_Right[Investment ManagementAsset ManagementFinanceInvestor RelationsRisk and ComplianceHuman Resources]
+
+    %% Layout positioning (conceptual)
+    Board --- Board_Desc
+    SC --- SC_Left
+    SC --- SC_Right
+    SSC --- SSC_Left
+    SSC --- SSC_Right
+    KCU --- KCU_Right
+```
+
+<!-- PAGE 82 -->
+
+# Sustainability Report
+
+**STAKEHOLDER ENGAGEMENT**
+
+To address our stakeholders' concerns and expectations, we remained committed in ensuring two-way open communication channels and frequent stakeholder engagements throughout FY2023 to facilitate the continuous improvement of our operations. The table below details our various engagement modes with our key stakeholders.
+
+<table>
+  <thead>
+    <tr>
+        <th>Key Stakeholder Groups</th>
+        <th>Relevance to Sasseur REIT</th>
+        <th>Key Engagement Modes</th>
+        <th>Key Interests of Stakeholder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Investment communities</strong><br/>(investors, analysts, and media)<br/>Investment communities icon</td>
+        <td>* The REIT Manager is committed to provide accurate and timely disclosures<br/>* We are proactive in engaging investors, analysts, and media through regular two-way communications</td>
+        <td>* SGXNet announcements<br/>* Results briefings to analysts and investors<br/>* Annual General Meetings (AGM) and Extraordinary General Meetings (EGM)<br/>* Bilateral communications via emails, calls, and virtual/physical meetings<br/>* Partnerships with REIT Association of Singapore (REITAS), Securities Investors Association (Singapore) (SIAS) and brokerage houses to conduct corporate presentations to retail investors<br/>* Sasseur REIT website, Facebook, LinkedIn and YouTube<br/>* Roadshows and conferences<br/>* Site visits to Sasseur REIT Outlets</td>
+        <td>* Business strategy and outlook<br/>* Financial and operational performance<br/>* Capital and risk management<br/>* Good corporate governance<br/>* Timely and transparent disclosures</td>
+    </tr>
+    <tr>
+        <td><strong>Tenants</strong><br/>Tenants icon</td>
+        <td>* Tenants are key to the success of the business as their goods and services attract customers to our Outlets, thus contributing to the sales and income for Sasseur REIT</td>
+        <td>* Face-to-face dialogues<br/>* Training sessions conducted by the Entrusted Manager for promoters of tenants<br/>* Meetings and discussions to review yearly sales targets and optimal levels of stock inventories for promotional activities<br/>* Joint promotional and strategic partnerships</td>
+        <td>* Quality of facilities and services to enhance shoppers' experience<br/>* Publicity through collaborative promotional activities<br/>* Good flow of shopper traffic<br/>* Strategic partnerships, online projects, new product launches, discounts, VIP memberships etc.<br/>* Health and safety</td>
+    </tr>
+    <tr>
+        <td><strong>Shoppers</strong><br/>Shoppers icon</td>
+        <td>* Shoppers are crucial to the economic viability of the outlet business</td>
+        <td>* Customer service<br/>* Marketing and promotional events<br/>* Online communication platforms including social media<br/>* Loyalty programmes<br/>* Customer satisfaction surveys</td>
+        <td>* Range and quality of retail offerings, amenities and services<br/>* Conducive shopping environment and family-friendliness<br/>* Availability of promotion campaigns<br/>* Health and safety<br/>* Membership benefits<br/>* Access to public transport</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 83 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Key Stakeholder Groups</th>
+        <th>Relevance to Sasseur REIT</th>
+        <th>Key Engagement Modes</th>
+        <th>Key Interests of Stakeholder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Regulators and industry associations</strong><br/>Regulators icon</td>
+        <td>* Sasseur REIT and the REIT Manager comply with applicable rules and regulations</td>
+        <td>* Regular participation in briefings and consultations with Singapore Exchange (SGX) and MAS<br/>* Communication and consultations with government agencies<br/>* Ongoing monitoring of evolving regulatory landscape<br/>* Annual Report and Sustainability Report<br/>* Sasseur REIT is a member of REITAS<br/>* CEO of the REIT Manager is a member of the Promotions sub-committee of REITAS</td>
+        <td>* Compliance with rules and regulations<br/>* Good corporate governance and transparency<br/>* Environmental impact</td>
+    </tr>
+    <tr>
+        <td><strong>Employees</strong><br/>Employees icon</td>
+        <td>* People drive our business growth and success. We strive to have a diverse, safe, and healthy work environment for our employees</td>
+        <td>* Orientation programmes for new joiners<br/>* Half-yearly performance reviews<br/>* 360-degree feedback sessions<br/>* Training and career development opportunities<br/>* Team cohesion activities<br/>* Internal staff communication<br/>* Employee satisfaction surveys<br/>* Weekly team meetings<br/>* Health and wellness initiatives</td>
+        <td>* Fair and equal employment practices<br/>* Diversity and inclusion<br/>* Skills development and career progression<br/>* Employee welfare management<br/>* Health and wellbeing</td>
+    </tr>
+    <tr>
+        <td><strong>Local communities</strong><br/>Local communities icon</td>
+        <td>* We seek to make a positive impact and give back to the local communities as part of our corporate social responsibility</td>
+        <td>* Employee volunteerism<br/>* Social entrepreneurship</td>
+        <td>* Contributions to community<br/>* Impact of business on the environment and society</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 84 -->
+
+# Sustainability Report
+
+## MATERIALITY ASSESSMENT
+
+Guided by the GRI Standards’ Principles of accuracy, balance, clarity, comparability, completeness, sustainability context, timeliness, and verifiability, Sasseur REIT conducts a materiality assessment annually to identify and prioritise ESG issues which are of significant relevance to Sasseur REIT and its stakeholders.
+
+The materiality assessment process commences with the identification of material factors relevant to Sasseur REIT, strategically reviewed to ensure alignment with business strategies. In order to address key stakeholders’ concerns, material factors are prioritised based on Sasseur REIT’s existing risk analysis and disclosures, global and local emerging trends, peer benchmarking as well as internal and external stakeholder views. As part of the materiality assessment exercise, the SSC participates in a materiality workshop conducted by an external consultant to gain insights on the latest industry trends and emerging materiality topics relevant to Sasseur REIT. An ESG materiality survey is also conducted to understand internal and external stakeholders’ views on sustainability and the material ESG factors they prioritise in terms of importance.
+
+The figure below maps out Sasseur REIT’s four-step materiality assessment process.
+
+## Sasseur REIT’s Four-step Materiality Assessment Process
+
+```mermaid
+graph LR
+    Step1["**Step 1: Identify**Identify a list of potential material ESG factors relevant to Sasseur REIT based on global sustainability trends, peers' disclosures and a materiality workshop to obtain insights from internal stakeholders and ESG materiality survey with internal and external stakeholders"]
+    
+    Step2["**Step 2: Prioritise**Rank the importance of each material ESG factor from the perspective of internal and external stakeholders through an ESG materiality surveyDevelop a materiality matrix of material ESG factors"]
+    
+    Step3["**Step 3: Validate**Present material ESG factors to the Sustainability Committee for validation and approval"]
+    
+    Step4["**Step 4: Report**Report material ESG factors in Sasseur REIT's Sustainability Report"]
+
+    Step1 --> Step2
+    Step2 --> Step3
+    Step3 --> Step4
+```
+
+The REIT Manager continues to assess ESG factors deemed material and relevant to Sasseur REIT annually. In FY2023, Sasseur REIT’s material ESG factors remain unchanged. The REIT Manager plans to conduct a materially reassessment in FY2024 to assess the relevance of the material ESG factors which were previously identified.
+
+Refer to the figures below for Sasseur REIT’s material ESG factors and materiality matrix.
+
+<table>
+  <thead>
+    <tr>
+        <th>Environmental icon</th>
+        <th>Social icon</th>
+        <th>Governance icon</th>
+    </tr>
+    <tr>
+        <th>Environmental</th>
+        <th>Social</th>
+        <th>Governance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>* Managing the Impacts of Climate Change<br/>- Greenhouse Gas Emissions<br/>- Climate-related Financial Disclosures<br/>* Environmental Footprint<br/>- Energy Consumption<br/>- Water Management<br/>- Waste Generation</td>
+        <td>* Tenant Management<br/>* Health and Safety<br/>- Employees, Tenants and Shoppers<br/>* Talent Retention and Training (including local communities)</td>
+        <td>* Regulatory Compliance<br/>- Compliance with Laws and Regulations<br/>- Anti-corruption<br/>- Cybersecurity</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 85 -->
+
+# Sasseur REIT's Materiality Matrix
+
+<table>
+  <tbody>
+    <tr>
+        <td>Topic</td>
+        <td>Importance to Internal Stakeholders</td>
+        <td>Importance to External Stakeholders</td>
+    </tr>
+    <tr>
+        <td>Regulatory Compliance</td>
+        <td>8.2</td>
+        <td>7.2</td>
+    </tr>
+    <tr>
+        <td>Tenant Management</td>
+        <td>5.2</td>
+        <td>6.1</td>
+    </tr>
+    <tr>
+        <td>Managing the Impacts of Climate Change</td>
+        <td>4.8</td>
+        <td>5.1</td>
+    </tr>
+    <tr>
+        <td>Environmental Footprint</td>
+        <td>4.6</td>
+        <td>4.9</td>
+    </tr>
+    <tr>
+        <td>Health and Safety</td>
+        <td>4.4</td>
+        <td>4.8</td>
+    </tr>
+    <tr>
+        <td>Talent Retention and Training</td>
+        <td>4.3</td>
+        <td>3.8</td>
+    </tr>
+  </tbody>
+</table>
+
+# ENVIRONMENTAL Environmental icon
+
+<table>
+  <thead>
+    <tr>
+        <th>TARGETS FOR FY2023</th>
+        <th>FY2023 PERFORMANCE</th>
+        <th>TARGETS FOR FY2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Reduce total energy consumption or energy intensity by 1% from FY2022</strong></td>
+        <td><strong>Not achieved:</strong><br/>FY2023 total energy consumption and energy intensity increased by 4.5% as compared to FY2022<br/><br/>However, energy consumption and energy intensity for landlord-controlled areas fell by 10.9% as compared to FY2022</td>
+        <td>Reduce energy intensity for landlord-controlled areas by 1% from FY2023</td>
+    </tr>
+    <tr>
+        <td><strong>Reduce water intensity by 1% from FY2022</strong></td>
+        <td><strong>Achieved:</strong><br/>FY2023 total water consumption and water intensity fell by 9.0% as compared to FY2022<br/><br/>Water consumption and water intensity for landlord-controlled areas fell by 13.9% as compared to FY2022</td>
+        <td>Reduce water intensity for landlord-controlled areas by 1% from FY2023</td>
+    </tr>
+    <tr>
+        <td><strong>Assess emission hotspots to determine expansion of Scope 3 organisational boundary</strong></td>
+        <td>Scope 3 categories expanded¹</td>
+        <td>To continue assessing emission hotspots to determine expansion of Scope 3 organisational boundary</td>
+    </tr>
+  </tbody>
+</table>
+
+Note:
+
+1 Refer to “Greenhouse Gas Emissions” on pages 92 to 93 for a detailed explanation.
+
+<!-- PAGE 86 -->
+
+# Sustainability Report
+
+## CLIMATE-RELATED FINANCIAL DISCLOSURES
+
+**Introduction**
+
+In this decade, it is essential to accelerate our efforts to adapt to climate change to bridge the gap between current adaptation efforts and the necessary level of action. As emphasised in the Intergovernmental Panel on Climate Change (IPCC) report, the impact of human-caused climate change is already affecting many weather and climate extremes across the globe. This has led to widespread adverse impacts and related losses and damages to nature and people² worldwide, including in China, where Sasseur REIT’s portfolio is based. Climate change poses risks and opportunities for the real estate industry. Public and private sectors are actively addressing these climate-related risks and exploring climate change adaptation opportunities.
+
+Guided by China’s goal of peaking carbon emissions by 2030 and achieving carbon neutrality by 2060³, we have adopted strategies to minimise the adverse impacts on our business and environment, including ensuring efficient resource utilisation in our daily operations and enhancing our climate resilience.
+
+This section of the report outlines our approach to adopting the TCFD Recommendation, which are consistent with the MAS’ EnRM Guidelines⁴. It discusses the potential physical and transition risks that Sasseur REIT is likely to be exposed to in its operations.
+
+The TCFD framework offers a globally recognised reporting structure, ensuring consistency and comparability. It allows us to provide investors and stakeholders with insights into our strategies for addressing climate-related risks and opportunities. Our alignment with TCFD enhances the transparency and clarity in our sustainability approach, enabling informed financial decisions by investors and key stakeholders.
+
+Transparency is important to us, and we remain dedicated to continuously improving our risk management and disclosure practices in future Sustainability Reports. Our commitment to integrating environmental and climate-related risk considerations into our business and investment process is evident with the establishment of Sasseur REIT’s EnRM Framework. This serves as a structured framework for the selection and management of our properties, aligning with environmental risk principles to deliver long-term value to our investors.
+
+**TCFD Disclosures**
+
+Our disclosure based on the 4 pillars of the TCFD is set out below:
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Sasseur REIT's TCFD Disclosures</th>
+    </tr>
+    <tr>
+        <th colspan="2">Governance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>a) Describe the Board’s oversight of climate-related risks and opportunities.</td>
+        <td>The REIT Manager and Entrusted Manager believe that Sasseur REIT’s long-term success and well-established reputation are underpinned by a strong corporate governance culture that is cascaded throughout our portfolio.<br/><br/>In line with Sasseur REIT’s commitment to advancing the sustainability agenda, a SC was established by the Board in July 2022. With delegated authority by the Board, the SC drives the incorporation of climate-related issues into the strategy formulation and review process, as detailed in its terms of reference. The SC meets with the SSC and representatives from the Sponsor twice a year before Board meetings.<br/><br/>In FY2023, Sasseur REIT has established an EnRM Framework which is aligned with the EnRM Guidelines issued by MAS. The framework defines the roles and responsibilities of the Board along with the Audit and Risk Committee (ARC) and SC (collectively, Board Committees or Committees) on environmental risk management as well as the roles and responsibilities of the Senior Management which is represented by the SSC.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+\*2 IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, IPCC, March 2023.
+
+\*3 UNFCCC, China First NDC: China’s Achievements, New Goals and New Measures for Nationally Determined Contributions, 2021.
+
+\*4 MAS, Guidelines on Environmental Risk Management for Asset Managers, December 2020.
+
+<!-- PAGE 87 -->
+
+# Sasseur REIT’s TCFD Disclosures
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Governance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>a) Describe the Board’s oversight of climate-related risks and opportunities.</td>
+        <td>The Board and its Committees bear the following responsibilities for overseeing the management of Sasseur REIT’s environmental risks.<br/><br/>• Approving an EnRM Framework and policies to assess and manage the environmental risk of properties under Sasseur REIT’s portfolio.<br/>• Setting clear roles and responsibilities of the Board and Senior Management, including personnel and departments responsible for oversight of risk for assets under Sasseur REIT’s portfolio.<br/>• Ensuring that Board members have an adequate understanding of environmental risks.<br/>• Ensuring that Senior Management possess the expertise for managing environmental risks.<br/>• Identifying various environmental risks and opportunities over the short-term and long-term to evaluate the actual and potential impact of these risks and opportunities on Sasseur REIT’s strategies, business plans and properties.<br/>• Determining organisational risk appetite and exercising oversight of risk management.<br/>• Overseeing the integration of environmental risk into Sasseur REIT’s enterprise risk management framework (ERM Framework) and Investment Policy.<br/>• Overseeing Sasseur REIT’s disclosures on environmental risks.<br/>• Reviewing the escalations of unanticipated environmental-related events and the relevant risks involved.<br/><br/>The Board’s commitment to building climate capacity is reflected through its efforts in ensuring that the SC and SSC undergo sustainability training to equip themselves with the relevant knowledge and skillsets for addressing climate-related issues.</td>
+    </tr>
+    <tr>
+        <td>b) Describe management’s role in assessing and managing climate-related risks and opportunities.</td>
+        <td>The SC is further supported by the SSC, which provides oversight in identifying and addressing the climate-related risks and opportunities relevant to the business. The SSC is led by the CEO who is responsible for matters relevant to climate change within Sasseur REIT and assists the Board in effectively managing climate-related risks by establishing ESG targets and goals. On the other hand, the Chief Financial Officer (CFO), who is the SSC Leader, monitors the implementation of sustainability initiatives and projects closely to ensure their successful and timely completion, as well as reports the progress regularly to the CEO, who is the Chair of the SSC.<br/><br/>The rest of the SSC comprises the HODs and representatives from the Investment Management, Asset Management, Finance, Investor Relations, Risk and Compliance, and Human Resources functions. They facilitate the coordination and compilation of information and data, which often involve working across departments. The SSC meets regularly to discuss major developments in relation to sustainability and provides half-yearly updates to the SC regarding Sasseur REIT’s sustainability progress.<br/><br/>The SSC has the following responsibilities with respect to environmental risk management.<br/><br/>• Ensuring the development and implementation of related policies, tools, and metrics to monitor exposures to risk.<br/>• Regularly reviewing the effectiveness of the EnRM Framework and metrics and making necessary adjustments, taking into account changes in the business, size, and complexity of Sasseur REIT as well as the risk environment.<br/>• Implementing an internal escalation process to address risks in a timely and appropriate manner.<br/>• Allocating adequate resources with appropriate expertise, to manage the risks of Sasseur REIT’s portfolio.<br/>• Updating the Board on environmental risk issues such as environmental-related events in a timely manner.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 88 -->
+
+# Sustainability Report
+
+## Sasseur REIT’s TCFD Disclosures
+
+### Governance
+
+**b) Describe management’s role in assessing and managing climate-related risks and opportunities.**
+
+The EnRM governance structure utilises the three lines of defence model to enable effective management of environmental risks across different functions and departments of the REIT Manager. The first line of defence is provided by the Investment Management Department and the Asset Management Department. The second line of defence is provided by the Risk and Compliance Department which reports directly to the CEO. The third line of defence is provided by Internal Audit. The figure below illustrates Sasseur REIT’s three lines of defence model.
+
+Sasseur REIT’s three lines of defence model for acquisitions from IPT and/or RPT and acquisitions that are not IPT and/or RPT.
+
+Sasseur REIT’s sustainability governance structure as well as the key roles and responsibilities of each component of the structure can be found on page 79 of the Sustainability Report.
+
+### Strategy
+
+**a) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.**
+
+Sasseur REIT recognises that climate change is reshaping the operating environment for companies across the globe. As such, we place the utmost importance on identifying the related risks and opportunities relevant to the four outlets in our portfolio – Sasseur (Chongqing Liangjiang) Outlet, Sasseur (Chongqing Bishan) Outlet, Sasseur (Hefei) Outlet and Sasseur (Kunming) Outlet.
+
+Sasseur REIT considers short, medium, and long-term time horizons to be less than 10 years, 10 to 20 years, and beyond 20 years respectively. However, given that Sasseur REIT’s portfolio consists of long-term fixed assets, climate-related risks often manifest themselves over the medium and long term and are more profound during this period.
+
+**a) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.**
+
+TCFD divides climate-related risks into two major categories:
+
+**Physical risks**
+
+Physical risks stemming from climate change can heavily affect the operations of Sasseur REIT. Physical risks affect countries globally and pose significant financial threats to many countries. Over the last few years, there has been an increase in the intensity of climate catastrophes and the impact of climate change can be felt more severely and at a larger scale. Sasseur REIT’s assets in China are also exposed to physical risks such as floods and heatwaves. The increasing frequency of extreme weather events, including cyclones, heavy storms, and other meteorological phenomena, necessitates a meticulous examination of the resilience and adaptability of each property in the portfolio. Sasseur REIT must remain vigilant in identifying emerging threats, understanding the intricate dynamics of regional climates, and implementing measures to enhance the robustness of its assets against the evolving physical risks associated with climate change.
+
+<!-- PAGE 89 -->
+
+# Sasseur REIT’s TCFD Disclosures
+
+## Strategy
+
+<!-- layout: planning
+1. This is semantically a table representing TCFD disclosure requirements and the organization's response, including a nested table for climate scenarios.
+2. Side-by-side table check: No, it's a single structured layout with a main table and a nested sub-table.
+2b. Vertical continuity check: The content from regions olqb, bzqc, pjoi, uwhy, and qrvn forms a single logical disclosure table.
+3. Row sampling: The main table has 2 columns. The first column contains the TCFD disclosure requirement labels (a, b), and the second column contains the detailed response text and a nested scenario table.
+4. Columns (N=2):
+   - Col 1: TCFD Disclosure Requirement (e.g., "a) Describe the...")
+   - Col 2: Sasseur REIT's Response (prose and nested table)
+5. Merge cell detection: None in the main structure.
+6. Header structure: No explicit header row for the main table, but the first row starts with requirement 'a)'.
+7. Column count verification: N=2.
+8. Header TSV sanity check: N/A (no explicit header).
+-->
+<table>
+  <tbody>
+    <tr>
+        <td>a) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.</td>
+        <td><strong>Transition risks</strong><br/>Transition risks resulting from shifts in policies, advancements in technology, and changes in the low-carbon market landscape could potentially affect both the strategy and operations of Sasseur REIT. In order to address evolving market dynamics and meet regulatory requirements, it is crucial for Sasseur REIT to consistently review its investments and climate change commitments. Ensuring resilience and staying relevant amid these transitions necessitates the periodic reassessment of the REIT's portfolio.<br/><br/>As a proactive step toward understanding and addressing transition risks, Sasseur REIT has conducted scenario analysis in the financial year ended 31 December 2022 (FY2022) as part of the climate-related risk assessment exercise, taking into consideration climate scenarios from the IPCC and International Energy Agency (IEA). Sasseur REIT will conduct scenario analysis if there are changes that impact the risk profile of the portfolio, such as new property acquisitions or significant changes in operations. In FY2023, there were no changes to Sasseur REIT’s portfolio that resulted in a change in the climate-risk profile. The results of the FY2022 scenario analysis remain valid and informed the climate-related risk assessments in FY2023.<br/><br/>The climate scenarios that have been adopted are:<br/><br/>&lt;!-- layout: planning</td>
+    </tr>
+    <tr>
+        <td colspan="2">1. This is a nested table within the main disclosure table.</td>
+    </tr>
+    <tr>
+        <td colspan="2">2. Side-by-side check: No.</td>
+    </tr>
+    <tr>
+        <td colspan="2">3. Row sampling: 3 columns.</td>
+    </tr>
+    <tr>
+        <td colspan="2">4. Columns (N=3):</td>
+    </tr>
+    <tr>
+        <td colspan="2">- Col 1: Scenario Category</td>
+    </tr>
+    <tr>
+        <td colspan="2">- Col 2: Business as usual</td>
+    </tr>
+    <tr>
+        <td colspan="2">- Col 3: Net zero by 2050</td>
+    </tr>
+    <tr>
+        <td colspan="2">5. Merge cell detection: None.</td>
+    </tr>
+    <tr>
+        <td colspan="2">6. Header structure: One header row.</td>
+    </tr>
+    <tr>
+        <td colspan="2">7. Column count verification: N=3.</td>
+    </tr>
+    <tr>
+        <td colspan="2">--&gt;</td>
+    </tr>
+  </tbody>
+</table>
+tsv
+<table>
+  <thead>
+    <tr>
+        <th>Sasseur REIT’s climate scenarios</th>
+        <th>Business as usual</th>
+        <th>Net zero by 2050</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>IPCC scenario⁵ alignment for physical risks assessment</td>
+        <td><strong>RCP8.5</strong><br/>\* Shows a very high emissions trajectory with a projected global mean surface temperature increase of up to 4.8°C</td>
+        <td><strong>RCP2.6</strong><br/>\* Aims to keep global warming likely below 2°C above pre-industrial levels</td>
+    </tr>
+    <tr>
+        <td>IEA scenario⁶ alignment for transition risks and opportunities assessment</td>
+        <td><strong>Stated Policies Scenario (STEPS)</strong><br/>\* Reflects current policy settings based on an assessment of the existing policies and those that have been announced by governments around the world</td>
+        <td><strong>Net Zero Emissions by 2050 Scenario (NZE)</strong><br/>\* Sets out a pathway for the global energy sector to achieve net zero CO₂ emissions by 2050 without relying on emissions reductions from other sectors</td>
+    </tr>
+  </tbody>
+</table>
+
+```
+b) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+```
+
+**Notes:**
+
+5 IPCC, Fifth Assessment Report, 2014.
+
+6 IEA, Global Energy and Climate Model, October 2023.
+
+7 IEA, World Energy Outlook 2021, October 2021.
+
+<!-- PAGE 90 -->
+
+# Sustainability Report
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Sasseur REIT’s TCFD Disclosures</th>
+    </tr>
+    <tr>
+        <th colspan="2">Strategy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>a) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.</td>
+        <td>A summary of key climate-related risks and opportunities as well as their key potential impacts is as follows:<br/><br/><strong>Climate-related risks: physical risks</strong><br/><strong>Acute</strong><br/>As global temperature rises, acute hazards grow in frequency and severity. Increased occurrence and intensity of rainfall contribute to more frequent events in which precipitation in catchment areas causes a river to exceed its usual capacity, flooding nearby areas. On days with high temperatures, high wind speeds and dry weather conditions, trees may catch on fire easily and spread fires across forest canopies. These disastrous events can cause significant damage to Sasseur REIT’s assets and result in operational disruptions and economic flow losses due to business premises being shut down.<br/><br/>Although extreme temperatures do not usually cause structural damage, commercial and utility assets may be impacted by malfunction of electronic control systems on days of extreme heat. In the case of Sasseur REIT, air conditioning units can stop working once their maximum design temperature is reached, leading to the closure of the Outlets.</td>
+    </tr>
+    <tr>
+        <td>b) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.</td>
+        <td><strong>Chronic</strong><br/>Due to longer dry spells and droughts that are caused by a permanent shift in weather patterns, soil moisture within reactive clay soils significantly reduces, triggering substantial soil movement and cracking. Soil shrinking and swelling can lead to shifting of the foundations of Sasseur REIT’s assets, bringing about extensive damage.<br/><br/>Based on the physical climate-related risk assessment at Sasseur REIT’s portfolio level, the potential financial impacts brought by riverine flooding are more significant than those of forest fire, extreme heat, and soil subsidence due to drought.<br/><br/><strong>Climate-related risks: transition risks</strong><br/><strong>Policy and Legal</strong><br/>To achieve China's goals of peaking emissions by 2030 and achieving carbon neutrality by 2060, the Chinese government may introduce stringent policies that contribute to a rise in carbon pricing. These could include an expansion of the national Emissions Trading Scheme (ETS) scope to include the real estate sector or emission allowances reduction which will be passed onto the real estate sector along the value chain.<br/><br/>In the first trading year of China’s ETS since its launch in July 2021, the price of national Carbon Emission Allowances (CEA) fluctuated between RMB 58 and RMB 60⁸. To understand how the carbon pricing scheme in China could evolve in the future, Sasseur REIT has taken into consideration IEA’s projections in WEO 2021. According to the STEPS report, the price of CO₂ is expected to increase from USD 30/tonne CO₂ in 2023 to USD 55/tonne CO₂ in 2050; while in NZE, where more aggressive climate actions can be observed from the government, the CO₂ price is expected to hit USD 90/tonne CO₂ in 2030 and subsequently increase to USD 200/tonne CO₂ in 2050. It is also estimated that a carbon price of USD 50/tonne would increase the cost of operating the average coal plant by about USD 50/MWh⁹.<br/><br/>Due to the indirect cost carbon passes through, non-renewable-based electricity prices will likely increase in the future, resulting in an increase in Sasseur REIT’s operating costs.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+\*8 Refinitiv, One Year In: China's National Emission Trading System, 25 July 2022.
+
+\*9 RFF, Carbon Pricing 201: Pricing Carbon in the Electricity Sector, 20 August 2020.
+
+<!-- PAGE 91 -->
+
+# Sasseur REIT’s TCFD Disclosures
+
+## Strategy
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Strategy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>a) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.</td>
+        <td><strong>Market</strong><br/>Following the Chinese government's push and increased adoption by industry players, green buildings are rising in China and may go mainstream in the future. Driven by the global climate agenda, there has also been an increase in tenants that have adopted climate change commitments and have high expectations of the environmental performance of the buildings they occupy. Failing to recognise this trend and respond accordingly may cause Sasseur REIT to lose these sustainability-conscious tenants to zero-carbon-ready buildings when they become more widely available in China.</td>
+    </tr>
+    <tr>
+        <td rowspan="2">b) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.</td>
+        <td>Based on IEA’s NZE, 20% of the existing buildings will be retrofitted to zero-carbon-ready levels by 2030, which will grow to 85% by 2050. However, as the world still falls short of reaching NZE targets, in the STEPS scenario, the buildings sector is expected to have only 4-5% of the existing buildings retrofitted to zero-carbon buildings by 2030.<br/><br/>With tenants’ preferences increasingly geared towards green or sustainable commercial spaces and the green building industry expanding rapidly, Sasseur REIT may suffer a revenue loss to the green building rental market as they move out of Sasseur REIT’s properties.<br/><br/>Based on the transition climate-related risk assessment at Sasseur REIT’s portfolio level, the potential financial impacts brought by market risk are more significant than those of policy and legal risk.</td>
+    </tr>
+    <tr>
+        <td><strong>Climate-related opportunities</strong><br/><strong>Energy Source</strong><br/>China’s ambitious objective to accelerate the adoption of renewable energy is reflected by its recently updated Nationally Determined Contributions<sup>10</sup> (NDC). It has announced its commitment to increase the share of non-fossil fuels in primary energy consumption to around 25% in 2030 and to bring its total installed capacity of solar and wind power to over 1.2 billion kW by 2030. Furthermore, underpinned by a strong regulatory push from the Chinese government, ongoing efforts can be observed in China to promote a low-carbon energy transition, which could in turn, make clean energy more accessible and affordable.<br/><br/>In assessing the cost-saving opportunity presented by deploying solar and wind power, Sasseur REIT has drawn insights from the electricity generation technology costs associated with solar photovoltaic (PV), wind onshore, and wind offshore presented in WEO 2021. For solar PV, the Levelised Cost of Electricity (LCOE) in STEPS decreases from USD 35/MWh in 2020 to USD 20/MWh in 2030 and finally, USD 15/MWh in 2050, whereas in NZE, the LCOE is USD 25/MWh in 2030 and scales to USD 15/MWh after two decades. On the other hand, the contrasts between the two scenarios are more prominent for wind power. The LCOE for wind power shows a steep decline from USD 150/MWh in 2020 to USD 100/MWh in 2030, and USD 75/MWh in 2050, while in NZE, the LCOE sits at USD 85/MWh in 2030 and falls to USD 70/MWh in 2050.<br/><br/>The progressive uptake of renewable energy in China may drive down Sasseur REIT’s operating costs with the assumption that Sasseur REIT will be switching to clean energy sources.<br/><br/>Based on the climate-related opportunity assessment at Sasseur REIT’s portfolio level, the potential financial opportunities brought by wind energy are greater than that of solar energy.</td>
+    </tr>
+  </tbody>
+</table>
+
+Note:
+<sup>10</sup> UNFCCC, China’s Achievements, New Goals and New Measures for Nationally Determined Contributions, 2022.
+
+<!-- PAGE 92 -->
+
+# Sustainability Report
+
+<table>
+    <tr>
+        <th>Sasseur REIT’s TCFD Disclosures</th>
+    </tr>
+    <tr>
+        <td>**Strategy**</td>
+    </tr>
+</table>
+
+a) Describe the climate-related risks and opportunities the organisation has identified over the short, medium, and long term.
+
+b) Describe the impact of climate-related risks and opportunities on the organisation’s businesses, strategy, and financial planning.
+
+In the table below, Sasseur REIT has identified several climate-related risks and opportunities that are relevant to its operations across different time horizons for different scenarios:
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="3">Risk / opportunity category</th>
+        <th rowspan="3">Risk / opportunity</th>
+        <th rowspan="3">Impact description</th>
+        <th colspan="4">Risk / opportunity impact</th>
+    </tr>
+    <tr>
+        <th colspan="2">Business as usual</th>
+        <th colspan="2">Net zero by 2050</th>
+    </tr>
+    <tr>
+        <th>Short-term</th>
+        <th>Long-term</th>
+        <th>Short-term</th>
+        <th>Long-term</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="7">Climate-related risks: physical risks</td>
+    </tr>
+    <tr>
+        <td rowspan="5">Acute</td>
+        <td rowspan="2">Riverine flooding¹¹</td>
+        <td>Increased capital expenditures due to repairing asset damage</td>
+        <td>High</td>
+        <td>High</td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Reduced revenue due to operational disruption</td>
+        <td>High</td>
+        <td>High</td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Forest fire</td>
+        <td>Increased capital expenditures due to repairing asset damage</td>
+        <td>Medium</td>
+        <td>Medium</td>
+        <td>Medium</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Reduced revenue due to operational disruption</td>
+        <td>High</td>
+        <td>High</td>
+        <td>Medium</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Extreme heat</td>
+        <td>Reduced revenue due to operational disruption</td>
+        <td>Medium</td>
+        <td>Medium</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Chronic</td>
+        <td>Soil subsidence due to drought</td>
+        <td>Increased capital expenditures due to repairing asset damage</td>
+        <td>Low</td>
+        <td>Low</td>
+        <td>Low</td>
+        <td>Low</td>
+    </tr>
+    <tr>
+        <td colspan="7">Climate-related risks: transition risks</td>
+    </tr>
+    <tr>
+        <td>Policy and legal</td>
+        <td>Carbon pricing</td>
+        <td>Increased operating costs due to increased non-renewable-based electricity price</td>
+        <td>Low</td>
+        <td>Low</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Market</td>
+        <td>Shifting market demand</td>
+        <td>Reduced revenue due to loss of tenants</td>
+        <td>Medium</td>
+        <td>Medium</td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td colspan="7">Climate-related opportunities</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Energy source</td>
+        <td rowspan="2">Renewable energy</td>
+        <td>Reduced operating costs due to decreased solar electricity price</td>
+        <td>Low</td>
+        <td>Medium</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Reduced operating costs due to decreased wind electricity price</td>
+        <td>Medium</td>
+        <td>High</td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+**Note:**
+
+11 Riverine flooding is only applicable to Sassuer (Hefei) Outlet due to its close proximity to Wangzui Lake.
+
+<!-- PAGE 93 -->
+
+# Sasseur REIT’s TCFD Disclosures
+
+## Strategy
+
+<table>
+  <tbody>
+    <tr>
+        <td>c) Describe the resilience of the organisation’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.</td>
+        <td>As considerable uncertainty remains regarding the magnitude of global temperature rise and the transition to a low-carbon economy, the scenario analysis results allow Sasseur REIT to prepare and build resilience against the potential worst-case impacts of climate change.<br/><br/>Sasseur REIT has implemented various measures to mitigate climate-related risks and tap into the associated opportunities. For example, we are actively exploring the possibility of deploying solar power as an alternative energy source for the Sasseur (Kunming) Outlet, whether through investing in an on-site PV system or purchasing solar power through Power Purchase Agreements (PPA). We also regularly conduct face-to-face ESG dialogue sessions with our tenants to advocate energy and water saving initiatives, reduce unnecessary wastage and remind our tenants on the locations of recycling bins for them to deposit recyclable waste.<br/><br/>In FY2022, Sasseur REIT established its greenhouse gas (GHG) inventory and had set energy reduction targets. We have been continuously monitoring our Scope 1, Scope 2, and Scope 3 emissions diligently and devising action plans to reduce our carbon footprint on a progressive basis.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Risk management
+
+<table>
+  <tbody>
+    <tr>
+        <td>a) Describe the organisation’s processes for identifying and assessing climate-related risks.</td>
+        <td>Sasseur REIT’s climate-related risk management practices are guided by a four-step approach, as shown below:</td>
+    </tr>
+    <tr>
+        <td>b) Describe the organisation’s processes for managing climate-related risks.</td>
+        <td rowspan="2">The Board, ARC, and the CEO, work jointly to ensure risks are properly addressed within Sasseur REIT through its ERM Framework, as well as its EnRM Framework.<br/><br/>In accordance with Sasseur REIT’s EnRM framework, environmental and climate considerations are integrated into the investment process from investment acquisition to ongoing monitoring of portfolio properties. During investment acquisition, Sasseur REIT uses an environmental and climate due diligence questionnaire to evaluate the environmental risks of the investment target. Climate-related risks are evaluated qualitatively during due diligence, leveraging scenario analysis tools to screen the physical and transition risk exposure of the investment target.<br/><br/>Portfolio monitoring of environmental risks involve an Environmental Corrective Action Plan (ECAP) that is developed following acquisition. The ECAP records corrective actions to address environmental and climate issues identified during the environmental and climate due diligence and improve the property’s performance to meet the agreed operational requirements and operational standards. Sudden changes due to the environmental risk profile such as governmental regulations and unanticipated events such as environmental disasters are regularly monitored. The Entrusted Manager is involved in providing on-the-ground support for ongoing portfolio monitoring.<br/><br/>Environmental and climate risks are carefully evaluated based on their likelihood and impact to assess the risk levels. Mitigation and monitoring plans are then devised based on the risks assessed. All risks evaluated and their corresponding mitigation plans are incorporated into the risk register, which the ARC later reviews for deliberation and adoption.</td>
+    </tr>
+    <tr>
+        <td>c) Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organisation’s overall risk management.</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th>Step 1: Identify</th>
+        <th>Step 2: Assess</th>
+        <th>Step 3: Manage</th>
+        <th>Step 4: Monitor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Identify icon</td>
+        <td>Assess icon</td>
+        <td>Manage icon</td>
+        <td>Monitor icon</td>
+    </tr>
+    <tr>
+        <td>Identifying potential climate-related risks and opportunities through relevant climate change publications and data as well as sectoral research</td>
+        <td>Evaluating the relevance and materiality of potential risks and opportunities to Sasseur REIT by assessing their likelihood, impact and time horizon</td>
+        <td>Assigning each risk to a risk owner who is responsible for developing and implementing mitigating controls for that particular risk</td>
+        <td>Monitoring the development of risks on an ongoing basis and regularly reporting progress to the Board and ARC</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 94 -->
+
+# Sustainability Report
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">Sasseur REIT's TCFD Disclosures</th>
+    </tr>
+    <tr>
+        <th colspan="2">Metrics and targets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>a) Disclose the metrics used by the organisation to assess climate-related risks and opportunities in line with its strategy and risk management process.</td>
+        <td>Sasseur REIT is reporting on the following metrics to manage climate-related risks associated with emissions and energy for the four Outlets in scope:<br/><br/>• GHG emissions – Scope 1, Scope 2, and Scope 3 emissions (pages 92 to 93 of Sustainability Report); and<br/>• Energy consumption – energy intensity (pages 94 to 95 of Sustainability Report).<br/><br/>Sasseur REIT has also provided past years’ data to allow for trend analysis. Based on Sasseur REIT’s materiality review, climate-related risks such as emissions and energy have been identified as material to the business.</td>
+    </tr>
+    <tr>
+        <td>b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions, and the related risks.</td>
+        <td>Sasseur REIT begun measuring and monitoring our Scope 1, Scope 2, and Scope 3 emissions in FY2022. Our performance data is disclosed on pages 92 to 93 of the Sustainability Report.</td>
+    </tr>
+    <tr>
+        <td>c) Describe the targets used by the organisation to manage climate-related risks and opportunities and performance against targets.</td>
+        <td>Sasseur REIT has set the following targets to manage climate-related risks associated with emissions and energy for the four Outlets in scope:<br/><br/>• GHG emissions – Scope 1, Scope 2, and Scope 3 emissions (pages 92 to 93 of Sustainability Report); and<br/>• Energy consumption – energy intensity (pages 94 to 95 of Sustainability Report).</td>
+    </tr>
+  </tbody>
+</table>
+
+## ENVIRONMENTAL FOOTPRINT
+
+### Greenhouse Gas Emissions
+
+Sasseur REIT’s GHG emissions are calculated in line with the operational control accounting methodology defined by the GHG Protocol and applicable national standards. In FY2023, we measured and reported total Scope 1 & 2 emissions of 13,823 t CO₂e, or 0.0698 t CO₂e/m² in terms of emission intensity, a 5.0% decrease for both compared to FY2022. This was mainly attributed to a decrease in consumption of gas and electricity at the common areas, driven by our energy conservation efforts in FY2023 at the landlord-controlled areas.
+
+Encompassing new emission categories, Scope 3 tenant emissions recorded in FY2023 increased to 20,024 t CO₂e, or 0.0777 t CO₂e/m² in terms of emission intensity, a 14.3% increase for both from FY2022. On a like-for-like basis comparing the same Scope 3 categories, FY2023 Scope 3 tenant emissions would have been 19,522 t CO₂e, a 12.1% year-on-year (YoY) increase, mainly due to increased tenant activities compared to FY2022 which was affected by temporary outlet closures mandated by the government to curb the spread of COVID-19.
+
+Building on our initial Scope 3 screening done in FY2022¹², we have expanded the categories covered in our Scope 3 calculations for FY2023. This includes wider coverage of tenant emissions monitored with the addition of refrigerant and gas use by tenants, and Scope 3 landlord emissions from business travel, transmission and distribution losses (T&D) and well-to-tank (WTT)¹³. Due to the complexity and large volumes of data required, going forward, we will gradually work towards expanding our Scope 3 data coverage and quality, aligning with relevant reporting frameworks and requirements, building in-house capabilities, and improve overall disclosure.
+
+As part of our efforts to reduce GHG emissions, we actively carry out green landscaping, and have extensive amounts of greenery in our Outlets, comprising a total of approximately 23,841 m² coverage of trees, shrubs and seedlings. The greenery in our Outlets not only offers a healthy recreational environment for the community, but also contributes to carbon sequestration from the atmosphere. Additionally, we also continue to support the adoption of Electric Vehicles (EV), which emit approximately 43.4% lesser GHG emissions as compared to internal combustion engine (ICE) vehicles¹⁴. A total of 27 EV chargers have been installed at Sasseur (Hefei) Outlet to facilitate the convenience of EV drivers, making EV facilities more accessible to the public.
+
+**Notes:**
+
+\*12 FY2021 and FY2022 Scope 3 data comprises of tenant emissions in the categories of electricity and fire extinguisher consumption.
+
+\*13 FY2023 Scope 3 data comprises of the same categories as FY2021 and FY2022, with the addition of new categories; tenant emissions from gas and refrigerant consumption, and landlord emissions from business travel, T&D and WTT.
+
+\*14 China Automotive Technology & Research Center Co., Ltd., China Automotive Low Carbon Action 2022, 27 July 2022.
+
+<!-- PAGE 95 -->
+
+## Scope 1 & 2 Total GHG Emissions and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Total Scope 1 &amp; Scope 2 (t CO₂e)</th>
+        <th>Emission intensity Scope 1 &amp; Scope 2 (t CO₂e/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>19,346</td>
+        <td>0.0977</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>14,552</td>
+        <td>0.0735</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>13,823</td>
+        <td>0.0698</td>
+    </tr>
+  </tbody>
+</table>
+
+## Scope 3 GHG Emissions and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Scope 3 (tenant emissions) (t CO₂e)</th>
+        <th>Scope 3 (landlord emissions) (t CO₂e)</th>
+        <th>Emission intensity Scope 3 (tenant emissions) (t CO₂e/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>17,719</td>
+        <td>0</td>
+        <td>0.0687</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>17,410</td>
+        <td>0</td>
+        <td>0.0675</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>20,024</td>
+        <td>833</td>
+        <td>0.0777</td>
+    </tr>
+  </tbody>
+</table>
+
+In the coming years, we will remain cognisant of our GHG emissions and will continue to implement new initiatives and identify opportunities to reduce our emissions.
+
+<table>
+  <thead>
+    <tr>
+        <th>GHG Emissions</th>
+        <th>Unit</th>
+        <th>FY2021</th>
+        <th>FY2022</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Scope 1</td>
+        <td>t CO₂e</td>
+        <td>6,039</td>
+        <td>1,381</td>
+        <td>1,089</td>
+    </tr>
+    <tr>
+        <td>Scope 2¹⁵</td>
+        <td>t CO₂e</td>
+        <td>13,307</td>
+        <td>13,171</td>
+        <td>12,734</td>
+    </tr>
+    <tr>
+        <td><strong>Total Scope 1 &amp; Scope 2</strong></td>
+        <td><strong>t CO₂e</strong></td>
+        <td><strong>19,346</strong></td>
+        <td><strong>14,552</strong></td>
+        <td><strong>13,823</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Emission intensity (Scope 1 &amp; Scope 2)</strong></td>
+        <td><strong>t CO₂e/m²</strong></td>
+        <td><strong>0.0977</strong></td>
+        <td><strong>0.0735</strong></td>
+        <td><strong>0.0698</strong></td>
+    </tr>
+    <tr>
+        <td>Scope 3 (tenant emissions)¹⁵</td>
+        <td>t CO₂e</td>
+        <td>17,719</td>
+        <td>17,410</td>
+        <td>20,024</td>
+    </tr>
+    <tr>
+        <td>Scope 3 (landlord emissions)</td>
+        <td>t CO₂e</td>
+        <td>-</td>
+        <td>-</td>
+        <td>833</td>
+    </tr>
+    <tr>
+        <td><strong>Total Scope 3</strong></td>
+        <td><strong>t CO₂e</strong></td>
+        <td><strong>17,719</strong></td>
+        <td><strong>17,410</strong></td>
+        <td><strong>20,857</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Emission intensity (Scope 3) (tenant emissions)</strong></td>
+        <td><strong>t CO₂e/m²</strong></td>
+        <td><strong>0.0687</strong></td>
+        <td><strong>0.0675</strong></td>
+        <td><strong>0.0777</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+Emission intensity is calculated based on total GHG emission divided by total operating area, for the corresponding emission scope. Total operating area is the sum of Gross Floor Area (GFA) and outdoor operating area¹⁶.
+
+### Clothes Recycling Initiative led by Sasseur Group in Collaboration with White Whales White Whales logo
+
+In conjunction with the Spring Carnival event in March 2023, Sasseur Group spearheaded a clothes recycling initiative across all 16 Sasseur outlets, including the 4 outlets owned by Sasseur REIT, in collaboration with White Whales (白鲸鱼). The initiative collected a total of 76,583 kg of pre-loved clothes from shoppers, which would have otherwise been disposed as waste.
+
+As a result of this campaign, the recycling of the pre-loved clothes collected helped to avoid an equivalent of 944,268 kg CO₂e GHG emissions.
+
+Sasseur Outlets clothes recycling campaign poster
+
+Notes:
+
+15 FY2021 and FY2022 data restated to align electricity consumption data source to the Entrusted Manager's meter readings.
+
+16 Total operating area for FY2021 has been adjusted to align with calculation methodology adopted for FY2022 and FY2023.
+
+<!-- PAGE 96 -->
+
+# Sustainability Report
+
+## Energy Consumption
+
+The Entrusted Manager closely monitors all meter readings to identify and rectify any irregularities. These monthly energy consumption data provide insights for the Entrusted Manager to improve the energy consumption efficiency at each outlet. Working closely with our tenants is critical to achieving our goal of reducing energy consumption intensity. Thus, the Entrusted Manager collaborates with tenants to conserve energy usage by promoting energy-saving initiatives during monthly meetings with tenants. The Entrusted Manager further conducts daily checks to ensure that the tenants' main power switches are turned off after business hours.
+
+## Energy Saving Initiatives
+
+<table>
+  <thead>
+    <tr>
+        <th>S/N</th>
+        <th>Recap of Past Initiatives</th>
+        <th>New Initiatives implemented in 2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1.</td>
+        <td>Replaced worn-out cooling tower ventilation fans to improve energy efficiency and reduce noise levels</td>
+        <td>Replaced decentralised air conditioning control panel with centralised air conditioning control panel, saving 150,000 kWh annually</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Installed solar powered street lights in open-air carpark</td>
+        <td>Adjusted operating hours of LED displays to reduce energy consumption</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Installed air curtains at the main entrances of the Outlets to prevent the outflow of cool air, which reduced electricity usage by approximately 3,900 kWh in FY2023</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Installed sunshades within the Outlets to reduce exposure to direct sunlight, which lowered the indoor temperature by 5°C and thereby lowered the energy consumption of the air-conditioning system</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Installed motion sensors to the lights along public walkways, saving 22,680 kWh in FY2023</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td>Switched off escalators and lifts after operating hours and setting escalators to operate at low-speed mode when passenger load is not detected</td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+As a result of our energy conservation efforts, in FY2023 we reduced energy consumption at landlord-controlled areas to 86,527 GJ, or 0.4368 GJ/m² in terms of energy intensity, achieving a 10.9% decrease YoY. This was despite having more operational days in FY2023 than in FY2022, when the government mandated temporary outlet closures to prevent the spread of COVID-19 at the time.
+
+At tenant-controlled areas, energy consumption in FY2023 increased by 18.2% YoY to 129,805 GJ, or 0.5035 GJ/m² in terms of energy intensity. This was due to more operational activities in FY2023 after the resumption of normal business activities following the lifting of COVID-19 restrictions in December 2022, as well as slightly higher occupancies in FY2023.
+
+Overall, total energy consumption and total energy intensity for the portfolio stood at 216,332 GJ and 0.4745 GJ/m² respectively in FY2023, reflecting a 4.5% increase YoY driven by increased tenant consumption, as a result of resumption of normal business operations in FY2023. Sasseur REIT will continue working closely with our tenants to advocate energy conservation, and work towards reducing the portfolio’s energy consumption.
+
+## Landlord Energy Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Total energy consumption (GJ)</th>
+        <th>Energy intensity (GJ/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>95,426</td>
+        <td>0.4817</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>97,133</td>
+        <td>0.4903</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>86,527</td>
+        <td>0.4368</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 97 -->
+
+## Tenant Energy Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Total energy consumption (GJ)</th>
+        <th>Energy intensity (GJ/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>112,262</td>
+        <td>0.4355</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>109,813</td>
+        <td>0.4260</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>129,805</td>
+        <td>0.5035</td>
+    </tr>
+  </tbody>
+</table>
+
+## Total Energy Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Total energy consumption (GJ)</th>
+        <th>Energy intensity (GJ/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>207,688</td>
+        <td>0.4556</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>206,946</td>
+        <td>0.4539</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>216,332</td>
+        <td>0.4745</td>
+    </tr>
+  </tbody>
+</table>
+
+## Total Energy Consumption by Fuel Category
+
+<table>
+  <thead>
+    <tr>
+        <th>Fuel Category</th>
+        <th>Unit</th>
+        <th>FY2021¹⁷</th>
+        <th>FY2022¹⁷</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Diesel consumption</td>
+        <td>GJ</td>
+        <td>29</td>
+        <td>30</td>
+        <td>27</td>
+    </tr>
+    <tr>
+        <td>Natural gas consumption</td>
+        <td>GJ</td>
+        <td>16,370</td>
+        <td>17,433</td>
+        <td>12,695</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Electricity consumption</td>
+        <td>MWh</td>
+        <td>53,136</td>
+        <td>52,634</td>
+        <td>56,558</td>
+    </tr>
+    <tr>
+        <td>GJ</td>
+        <td>191,290</td>
+        <td>189,483</td>
+        <td>203,610</td>
+    </tr>
+    <tr>
+        <td><strong>Total energy consumption</strong></td>
+        <td><strong>GJ</strong></td>
+        <td><strong>207,688</strong></td>
+        <td><strong>206,946</strong></td>
+        <td><strong>216,332</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Energy intensity</strong></td>
+        <td><strong>GJ/m²</strong></td>
+        <td><strong>0.4556</strong></td>
+        <td><strong>0.4539</strong></td>
+        <td><strong>0.4745</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+Energy intensity is calculated based on total energy consumption divided by total operating area, for the corresponding control ownership. Total operating area is the sum of Gross Floor Area (GFA) and outdoor operating areas¹⁸.
+
+## Sasseur (Chongqing Bishan) Outlet won the ‘Energy Saving Role Model’ Award
+
+Energy Saving Role Model Award Icon
+
+Sasseur (Chongqing Bishan) Outlet received an award from the Bishan municipal government in July 2023 for outstanding efforts in saving energy during the electricity shortage in Chongqing in July to August 2022. An estimated 40,000 kWh of electricity was saved by the outlet, placing it as one of the top 10 organisations receiving this recognition.
+
+Sasseur (Chongqing Bishan) Outlet award ceremony
+
+**Notes:**
+
+\*17 FY2021 and FY2022 data restated to align all data source to the Entrusted Manager’s meter readings.
+
+\*18 Total operating area for FY2021 has been adjusted to align with calculation methodology adopted for FY2022 and FY2023.
+
+<!-- PAGE 98 -->
+
+# Sustainability Report
+
+## Water Management
+
+Water is a shared and finite resource, so we are committed to sound water management and look to reduce water consumption.
+
+The Entrusted Manager inspects water supply equipment and records meter readings to detect and resolve problems promptly. Daily after-hours checks ensure that restroom and tenant main water valves are functioning and properly switched off. The Entrusted Manager collaborates with tenants to advocate water conservation at monthly meetings. The secondary water supply tank is cleaned, disinfected, and tested regularly to meet drinking water safety standards.
+
+## Water Savings Initiatives
+
+<table>
+  <thead>
+    <tr>
+        <th>S/N</th>
+        <th>Recap of Past Initiatives</th>
+        <th>New Initiatives implemented in 2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1.</td>
+        <td>Installed water saving faucets and water saving flush valves in restrooms</td>
+        <td>Adjusted water supply pressure to meet the normal water consumption requirement of the Outlets</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>Placed a filled water bottle in each toilet cistern to reduce the volume of water needed to fill the toilet cistern after each flush, which resulted in water savings of approximately 1,200 m³ annually</td>
+        <td>Increased frequency of maintenance checks to avoid water leaks</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Extracted spring water from the mountains for landscape irrigation, cleaning and water features</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Construction of reclaimed water stations to produce recycled water for landscape irrigation purposes, saving approximately 3,600 m³ of water annually</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Collected condensation water from air-conditioners and reusing it for cleaning purposes, which led to approximately 60 m³ of water being recycled</td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+As a result of our water conservation efforts, in FY2023 we reduced water consumption at landlord-controlled areas to 257,209 m³, or 1.2984 m³/m² in terms of water intensity, achieving a 13.9% decrease YoY. Part of the reduction in water consumption was due to more accurate estimation of ground water withdrawal in FY2023, after a water meter was installed in November 2023 to monitor the withdrawal amount of ground water from a nearby spring in Sasseur (Chongqing Bishan) Outlet.
+
+At tenant-controlled areas, water consumption in FY2023 increased by 4.8% YoY to 111,443 m³, or 0.4323 m³/m² in terms of water intensity. This was due to a surge in operational activities in FY2023 with the resumption of normal business activities following the lifting of COVID-19 restrictions in December 2022, as well as introduction of more Food & Beverage tenants across the outlets.
+
+Overall, total water consumption and total water intensity for the portfolio stood at 368,652 m³ and 0.8087 m³/m² respectively in FY2023, reflecting a 9.0% decrease YoY attributed to lower water consumption at landlord-controlled areas. Sasseur REIT will continue working closely with our tenants to advocate water conservation, and work towards reducing the portfolio’s water consumption.
+
+## Landlord Water Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Year</th>
+        <th>Total water consumption (m³)</th>
+        <th>Water intensity (m³/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>279,090</td>
+        <td>1.4089</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>298,605</td>
+        <td>1.5074</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>257,209</td>
+        <td>1.2984</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 99 -->
+
+## Tenant Water Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Total water consumption (m³)</th>
+        <th>Water intensity (m³/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>112,683</td>
+        <td>0.4371</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>106,331</td>
+        <td>0.4125</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>111,443</td>
+        <td>0.4323</td>
+    </tr>
+  </tbody>
+</table>
+
+## Total Water Consumption and Intensity
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Total water consumption (m³)</th>
+        <th>Water intensity (m³/m²)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>391,773</td>
+        <td>0.8594</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>404,936</td>
+        <td>0.8883</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>368,652</td>
+        <td>0.8087</td>
+    </tr>
+  </tbody>
+</table>
+
+## Water Consumption by Water Source Category
+
+<table>
+  <thead>
+    <tr>
+        <th>Water Source Category</th>
+        <th>Unit</th>
+        <th>FY2021</th>
+        <th>FY2022</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Third-party water¹⁹</td>
+        <td>m³</td>
+        <td>356,673</td>
+        <td>366,101</td>
+        <td>361,852</td>
+    </tr>
+    <tr>
+        <td>Ground water</td>
+        <td>m³</td>
+        <td>35,100</td>
+        <td>38,835</td>
+        <td>6,800</td>
+    </tr>
+    <tr>
+        <td><strong>Total water consumption</strong></td>
+        <td><strong>m³</strong></td>
+        <td><strong>391,773</strong></td>
+        <td><strong>404,936</strong></td>
+        <td><strong>368,652</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Water intensity</strong></td>
+        <td><strong>m³/m²</strong></td>
+        <td><strong>0.8594</strong></td>
+        <td><strong>0.8883</strong></td>
+        <td><strong>0.8087</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+Water intensity is calculated based on total water consumption divided by total operating area, for the corresponding control ownership. Total operating area is the sum of Gross Floor Area (GFA) and outdoor operating areas²⁰.
+
+Water droplet creating ripples in a pool of blue water
+
+**Notes:**
+
+19 FY2021 and FY2022 data restated to align all data source to the Entrusted Manager's meter readings.
+
+20 Total operating area for FY2021 has been adjusted to align with calculation methodology adopted for FY2022 and FY2023.
+
+<!-- PAGE 100 -->
+
+# Sustainability Report
+
+## Waste Generation
+
+Waste disposal and recycling, when done safely, ethically, and responsibly, can help to protect the environment and reduce various forms of pollution. Sasseur REIT is committed to enhancing our waste management initiatives to safeguard the environment and public health. been placed within the Outlets to encourage shoppers to recycle waste.
+
+The Entrusted Manager works closely with tenants and shoppers to implement effective waste management procedures to minimise the volume of waste generated at our Outlets. Tenants are encouraged to participate in waste recycling programmes while recycling bins have Across our Outlets, waste such as electronic waste, metals, paper, cardboard, and construction waste are collected for recycling by third-party waste management and recycling service providers. At Sasseur (Hefei) Outlet and Sasseur (Kunming) Outlet, used oil from food and beverage is collected by the tenants and recycled into fuel, soap and compost.
+
+In FY2023, waste generated was significantly lesser than previous years due to reduction in tenant fit-outs, lowering the amount of construction waste generated.
+
+<table>
+  <thead>
+    <tr>
+        <th>Waste Generated</th>
+        <th>Unit</th>
+        <th>FY2021¹⁵</th>
+        <th>FY2022¹⁵</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Non-recyclable waste</td>
+        <td>tonnes</td>
+        <td>48,053</td>
+        <td>44,188</td>
+        <td>17,483</td>
+    </tr>
+    <tr>
+        <td>Recyclable waste</td>
+        <td>tonnes</td>
+        <td>9,703</td>
+        <td>9,676</td>
+        <td>351</td>
+    </tr>
+    <tr>
+        <td>Total waste generated</td>
+        <td>tonnes</td>
+        <td>57,756</td>
+        <td>53,864</td>
+        <td>17,834</td>
+    </tr>
+  </tbody>
+</table>
+
+## Waste Generated
+
+<table>
+  <thead>
+    <tr>
+        <th>Fiscal Year</th>
+        <th>Non-recyclable waste (tonnes)</th>
+        <th>Recyclable waste (tonnes)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FY2021</td>
+        <td>48,053</td>
+        <td>9,703</td>
+    </tr>
+    <tr>
+        <td>FY2022</td>
+        <td>44,188</td>
+        <td>9,676</td>
+    </tr>
+    <tr>
+        <td>FY2023</td>
+        <td>17,483</td>
+        <td>351</td>
+    </tr>
+  </tbody>
+</table>
+
+Categorized bins for waste classification at Sasseur (Kunming) Outlet
+
+Categorized bins for waste classification at Sasseur (Kunming) Outlet
+
+Note:
+
+\*15 FY2021 and FY2022 data restated to due to adjustments in data arising from revised waste generation estimation methodologies.
+
+<!-- PAGE 101 -->
+
+# SOCIAL Social icon
+
+<table>
+  <thead>
+    <tr>
+        <th>TARGETS FOR FY2023</th>
+        <th>FY2023 PERFORMANCE</th>
+        <th>TARGETS FOR FY2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Zero incidents of fatalities, high-consequence injuries, recordable injuries and recordable work-related ill health cases</strong></td>
+        <td><strong>Achieved:</strong><br/>Zero incidents of fatalities, high-consequence injuries, recordable injuries and recordable work-related ill health cases</td>
+        <td>Zero incidents of fatalities, high-consequence injuries, recordable injuries and recordable work-related ill health cases</td>
+    </tr>
+    <tr>
+        <td><strong>Continue to practise fair treatment in the recruitment and selection of employees on the basis of merit, regardless of age, race, gender</strong></td>
+        <td><strong>Achieved:</strong><br/>Continued to practise fair treatment in the recruitment and selection of employees on the basis of merit, regardless of age, race, gender</td>
+        <td>Continue to practise fair treatment in the recruitment and selection of employees on the basis of merit, regardless of age, race, gender</td>
+    </tr>
+    <tr>
+        <td><strong>Maintain or reduce the employee turnover rate</strong></td>
+        <td><strong>Achieved:</strong><br/>Annual employee turnover rate decreased to 23.1% in FY2023 (FY2022: 28.6%)</td>
+        <td>Maintain or reduce the employee turnover rate</td>
+    </tr>
+    <tr>
+        <td><strong>Maintain or increase average training hours per employee</strong></td>
+        <td><strong>Achieved:</strong><br/>Average training hours per employee increased to 32.30 hours in FY2023 (FY2022: 25.25 hours)</td>
+        <td>Maintain or increase average training hours per employee</td>
+    </tr>
+  </tbody>
+</table>
+
+## TENANT MANAGEMENT
+
+Our tenants are essential to the success of our business. Our tenants, through their goods and services, play an important role in attracting shopper to our outlets. As the primary users of our outlets, our tenants play a significant part in accomplishing our sustainability goals. To establish a long-term and profitable business, we must maintain a mutually beneficial relationship with our tenants.
+
+Through the Entrusted Manager, we continually engage our tenants via various channels. For instance, the Entrusted Manager conducts regular face-to-face meetings with tenants to foster deeper connections, gather feedback, and ensure continuing two-way communication between both parties. The Entrusted Manager also organises joint promotional and strategic partnerships with our tenants to attract more shopper to Sasseur REIT Outlets. Prior to the start of any major promotional events which are planned in advance, the respective outlets’ operational team will conduct a pre-event session to brief tenants on the event's sales targets. The objective is to boost collaboration with our tenants so that we could all meet our sales targets together.
+
+The Entrusted Manager collaborated closely with tenants on the management of water and energy consumption, as well as to reduce the amount of waste that was generated at our Outlets. Quarterly dialogues were also held with tenants in order to raise their understanding of environmental, social, and governance issues.
+
+The impacts of waste management relate to waste generated in our outlets’ activities or in its value chain. Proper waste management is crucial for businesses as it can lead to various consequences. Poor waste management can result in air pollution, hygiene concerns, financial burdens, and health risks for employees due to exposure to hazardous waste. Thus, the Entrusted Manager implemented effective waste management practices to not only benefit the environment but also enhances employee satisfaction, reduces disposal costs, and improves the company's image and reputation.
+
+The Entrusted Manager achieved these benefits by conducting regular waste audits, analysing their current waste management approach, reducing waste going to landfills, educating both tenants and staff on waste reduction, and monitoring progress towards waste reduction goals.
+
+<!-- PAGE 102 -->
+
+# Sustainability Report
+
+HEALTH AND SAFETY
+
+**Employees, Tenants and Shoppers**
+
+Sasseur REIT places a high priority on adequate health and safety management in order to strengthen our resiliency and respond quickly to unforeseen interruptions. The commitment is to provide a safe and healthy environment for employees, tenants, and shoppers. This commitment is reflected in various strategies and practices implemented within our Outlets.
+
+*   **Training Programmes:** Staff undergo training covering first aid, evacuation procedures, crowd management, and security measures like surveillance systems and access control protocols.
+
+*   **Collaboration with Law Enforcement Authorities:** Regular meetings between the Entrusted Manager, law enforcement agencies, and security personnel are crucial for sharing information, coordinating efforts, and conducting joint training exercises to improve response during emergencies.
+
+*   **Security Measures:** Implementing effective security measures such as surveillance systems, access control protocols, and crowd management strategies is essential to maintain order within shopping malls and deter potential criminals.
+
+*   **Emergency Preparedness:** Staff are well-trained on emergency procedures and protocols to ensure quick response times during crises. Regular drills are conducted to test preparedness. Fire drills are conducted twice a year, and escalators and elevators are inspected for safety.
+
+*   **Improving the indoor air quality at our Outlets:** The Entrusted Manager performs regular cleaning and disinfection of air-conditioning filters to reduce bacteria levels and enhance the overall performance of the air-conditioning system.
+
+*   **Regular inspections of tenant premises:** To ensure our tenants comply with electrical and fire safety standards. Tenants will be notified of any instances of noncompliance and required to correct the issues within a set time frame.
+
+By combining these strategies with effective communication, regular training sessions, collaboration with law enforcement agencies, and adherence to safety guidelines, the Outlets can create a secure environment that prioritises the well-being of all individuals within the premises.
+
+The REIT Manager has established a Workplace Safety and Health Policy (WSH Policy) which takes reference from the Workplace Safety and Health Act 2006 (WSH Act) and Code of Practice on Chief Executives’ and Board of Directors’ Workplace Safety and Health Duties (Code of Practice) published in September 2022 by the Workplace Safety and Health Council. The WSH Policy serves as a guide to remind all employees, contractors, and visitors to observe safe practices and work procedures within the REIT Manager’s office premises.
+
+To safeguard the health and well-being of our employees, the REIT Manager continues to conduct quarterly professional deep cleaning of the office premises. Air purifiers are also placed within the office premises to improve indoor air quality. All employees of the REIT Manager are also equipped with height-adjustable desks and ergonomic chairs to promote healthy work habits and reduce the occurrence of musculoskeletal injuries. The REIT Manager strives to continuously provide a conducive work environment to improve our employees’ work productivity and health.
+
+In FY2023, both the REIT Manager and Entrusted Manager recorded zero incidents of fatalities, high-consequence injuries, recordable injuries, and recordable work-related ill health cases. Sasseur REIT aims to continue our progress of zero incidents in FY2024.
+
+TALENT RETENTION AND TRAINING
+
+It is imperative that the REIT Manager remains as an employer of choice to continually attract, retain, and develop talent, in order to ensure Sasseur REIT’s long-term success.
+
+In FY2023, the REIT Manager rolled out an inaugural Employee Satisfaction Survey to gather objective feedback from employees on various aspects including work environment, career development opportunities, communication and feedback, company culture as well as compensation and benefits. The responses gathered from the survey allowed the REIT Manager to identify strengths, address key improvement areas, and implement action plans to create a more fulfilling work environment for all employees. An overall employee satisfaction score of 74.2% was achieved for FY2023. Moving forward, the REIT Manager plans to conduct the Employee Satisfaction Survey annually.
+
+In order to ensure that our compensation packages remain competitive to attract and retain qualified individuals, the REIT Manager reviews and aligns its compensation packages against market data and engages independent remuneration consultants to provide advice on executive remuneration.
+
+The REIT Manager also strives to provide an engaging and rewarding environment for our employees through training and career development programmes, as well as employee wellness initiatives, to empower our employees to discover and develop their potential to the fullest. As part of our commitment to support the social development of our local communities, we also encourage our employees to give back to society and advance our communities’ quality of life through various Corporate Social Responsibility (CSR) activities.
+
+<!-- PAGE 103 -->
+
+## Diversity and Equal Opportunity
+
+The REIT Manager recognises the importance of diversity in the workplace as it acknowledges the individual strengths of each employee as well as the potential they bring to the organisation. The REIT Manager is a signatory to the Tripartite Alliance for Fair Employment Practices (TAFEP) and adopts fair employment practices that provides everyone with equal opportunities which is free from discrimination. This includes:
+
+* Recruiting and selecting employees on the basis of merit (such as skills, experience, or ability to perform the job), regardless of age, race, gender, religion, nationality, sexual orientation, family status, disability, medical condition, or other characteristics protected by applicable law.
+
+* Treating employees fairly with respect and implementing progressive human resource management systems.
+
+* Providing employees with equal opportunity to be considered for training and development based on their strengths and needs, and to help them achieve their full potential.
+
+* Rewarding employees fairly based on their ability, skill set, performance, contribution, and experience.
+
+* Continuing to hire employees who are above the retirement age with no mandatory retirement policy, under the premise of obtaining the employees’ consent and as long as they are fit for work.
+
+## Overall Employee Profile
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Gender</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Male</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>11</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Employee Category¹⁶</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Senior management</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Middle management</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Associate</td>
+        <td>4</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Age Group</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+## Diversity of Board of Directors
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Age Group</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>0.0%</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>16.7%</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>83.3%</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Gender</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Male</td>
+        <td>83.3%</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>16.7%</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">By Independence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Independent</td>
+        <td>66.7%</td>
+    </tr>
+    <tr>
+        <td>Non-independent</td>
+        <td>33.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+**Note:**
+
+\* 16 “Senior management” refers to C-suite, Directors and Senior Associate Directors. “Middle management” refers to Associate Directors, Senior Managers and Managers. “Associate” refers to Assistant Managers, Senior Executives and Executives.
+
+<!-- PAGE 104 -->
+
+# Sustainability Report
+
+**Diversity of Employees**
+
+### Senior Management
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Value</td>
+    </tr>
+    <tr>
+        <td>Age Group 1</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>Age Group 2</td>
+        <td>40</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Value</td>
+    </tr>
+    <tr>
+        <td>Gender 1</td>
+        <td>75</td>
+    </tr>
+    <tr>
+        <td>Gender 2</td>
+        <td>25</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>< 30 years old Male</th>
+      <th>0.0%</th>
+      <th>40.0%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>40.0%</td>
+      <td>60.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>60.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Middle Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>By Age Group By Gender</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>< 30 years old Male</td>
+      <td>0.0%</td>
+      <td>0.0%</td>
+    </tr>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>75.0%</td>
+      <td>100.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>25.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Associate</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>By Age Group By Gender</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>< 30 years old Male</td>
+      <td>50.0%</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>50.0%</td>
+      <td>100.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>0.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>102 Sasseur REIT Annual Report 2023</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>< 30 years old Male</th>
+      <th>0.0%</th>
+      <th>40.0%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>40.0%</td>
+      <td>60.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>60.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Middle Management</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>By Age Group By Gender</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>< 30 years old Male</td>
+      <td>0.0%</td>
+      <td>0.0%</td>
+    </tr>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>75.0%</td>
+      <td>100.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>25.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Associate</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>By Age Group By Gender</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>< 30 years old Male</td>
+      <td>50.0%</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>30 - 50 years old  Female</td>
+      <td>50.0%</td>
+      <td>100.0%</td>
+    </tr>
+    <tr>
+      <td>> 50 years old</td>
+      <td>0.0%</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>102 Sasseur REIT Annual Report 2023</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 105 -->
+
+# New Employee Hires and Employee Turnover
+
+As part of the REIT Manager’s efforts in supporting new hires to better integrate and transit smoothly into our workplace culture, an induction programme is conducted by the CEO, Human Resources Department and Compliance Department to enable our new hires to gain a deeper understanding of the history, business, values, mission and policies of Sasseur REIT and the REIT Manager.
+
+In addition, the Human Resources Department conducts an exit interview with all resignees to understand the reason(s) for the resignation. The feedback gathered from the exit interview will be reviewed by the Human Resources Department and used confidentially to further improve the REIT Manager’s work environment and processes.
+
+In FY2023, the REIT Manager hired two new employees and had a turnover of three employees. The annual new employee hires rate and annual employee turnover rate stood at 15.4% and 23.1% respectively, a decrease from 35.7% and 28.6% respectively in FY2022.
+
+## FY2023 New Employee Hires
+
+## FY2023 New Employee Hire Rate
+
+<table>
+  <thead>
+    <tr>
+        <th>Age Group</th>
+        <th>Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+By Age Group
+
+<table>
+  <thead>
+    <tr>
+        <th>Gender</th>
+        <th>Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Male</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+By Gender
+
+<table>
+  <thead>
+    <tr>
+        <th>Age Group</th>
+        <th>Rate (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>0.0%</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>100%</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>0.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+By Age Group
+
+<table>
+  <thead>
+    <tr>
+        <th>Gender</th>
+        <th>Rate (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Male</td>
+        <td>0.0%</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>100.0%</td>
+    </tr>
+  </tbody>
+</table>
+
+By Gender
+
+## FY2023 Annual New Hires Rate Against FY2022
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>FY2022 (%)</th>
+        <th>FY2023 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">By Age Group</td>
+    </tr>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>40</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>40</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>20</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td colspan="3">By Gender</td>
+    </tr>
+    <tr>
+        <td>Male</td>
+        <td>20</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>80</td>
+        <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 106 -->
+
+# Sustainability Report
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">FY2023 Employee Turnover</th>
+        <th colspan="2">FY2023 Turnover Rate</th>
+    </tr>
+    <tr>
+        <th>By Age Group</th>
+        <th> </th>
+        <th>By Age Group</th>
+        <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>1</td>
+        <td>&lt; 30 years old</td>
+        <td>33%</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>2</td>
+        <td>30 - 50 years old</td>
+        <td>67%</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>0</td>
+        <td>&gt; 50 years old</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <th>By Gender</th>
+        <th> </th>
+        <th>By Gender</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <td>Male</td>
+        <td>1</td>
+        <td>Male</td>
+        <td>33%</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>2</td>
+        <td>Female</td>
+        <td>67%</td>
+    </tr>
+  </tbody>
+</table>
+
+**FY2023 Annual Turnover Rate Against FY2022**
+
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>FY2022 (%)</th>
+        <th>FY2023 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">By Age Group</td>
+    </tr>
+    <tr>
+        <td>&lt; 30 years old</td>
+        <td>0</td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td>30 - 50 years old</td>
+        <td>100</td>
+        <td>67</td>
+    </tr>
+    <tr>
+        <td>50 years old</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td colspan="3">By Gender</td>
+    </tr>
+    <tr>
+        <td>Male</td>
+        <td>25</td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>75</td>
+        <td>67</td>
+    </tr>
+  </tbody>
+</table>
+
+## Performance Management
+
+The REIT Manager has in place a fair and objective performance management system which includes semi-annual performance appraisals and an annual 360-degree feedback assessment. The performance appraisal measures an employee’s performance against predefined competency areas, recognise employee achievements, set realistic goals and objectives and identify areas for personal development.
+
+Through the 360-degree feedback assessment, all employees are given the opportunity to provide feedback about the strengths and areas of improvement of their colleagues and reporting managers, thereby increasing an employee’s self-awareness and promoting a culture of open and honest communication within the organisation.
+
+In FY2023, all employees of the REIT Manager received performance reviews and career development reviews.
+
+<!-- PAGE 107 -->
+
+## Training and Career Development
+
+The REIT Manager recognises the importance of investing in employees through training and career development programmes in order to enable employees to widen their knowledge base and develop both soft skills and hard skills to remain relevant and keep up with industry trends. This in turn results in enhanced productivity and boosts employee morale and confidence.
+
+Each employee is provided with an equal opportunity to be considered for training to help them achieve their full potential.
+
+All employees of the REIT Manager are encouraged to attend trainings, conferences, and seminars for their professional and personal development. The REIT Manager also sponsors part-time courses relevant to an employee’s job scope, with the courses typically conducted locally by recognised institutions, schools and universities.
+
+The decline in training hours for middle management in FY2023 compared to FY2022 was due to employee turnover in late 2023. Training hours for employees that left within the year were excluded. Overall in FY2023, the REIT Manager's average training hours per employee increased to 32.30 hours compared to 25.25 hours in FY2022.
+
+## FY2023 Average Training Hours Per Employee Against FY2022
+
+Average Training Hours By Gender By Employee Category By Employees
+<table>
+  <thead>
+    <tr>
+        <th>Category</th>
+        <th>FY2022</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Male</td>
+        <td>17.58</td>
+        <td>44.58</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>27.34</td>
+        <td>30.07</td>
+    </tr>
+    <tr>
+        <td>Senior management</td>
+        <td>20.15</td>
+        <td>43.39</td>
+    </tr>
+    <tr>
+        <td>Middle management</td>
+        <td>22.50</td>
+        <td>7.88</td>
+    </tr>
+    <tr>
+        <td>Associate</td>
+        <td>35.06</td>
+        <td>42.88</td>
+    </tr>
+    <tr>
+        <td>By Employees</td>
+        <td>25.25</td>
+        <td>32.30</td>
+    </tr>
+  </tbody>
+</table>
+
+## Employee Wellness
+
+The REIT Manager recognises the importance of instilling a workplace culture which promotes mental, physical and social wellbeing to enable employees to thrive and achieve their full potential. We continue to implement flexible working arrangements to safeguard the physical and mental wellbeing of our employees by enabling them to better manage their work-life balance.
+
+In FY2023, the following employee wellness initiatives were organised:
+
+Fruits Day icon
+
+### Fruits Day
+
+To promote a healthy lifestyle and better eating habits amongst employees, the REIT Manager provides employees with a variety of fresh fruits on a bi-weekly basis.
+
+Wellness Day icon
+
+### Wellness Day
+
+To encourage employees to take time off work to recharge and prioritise their physical and mental wellbeing, the REIT Manager designates one Friday of each month as Wellness Day. On Wellness Day, employees are dismissed from work two hours earlier to enjoy the day as a team or individually.
+
+Celebrating Birthdays and Festive Occasions icon
+
+### Celebrating Birthdays and Festive Occasions
+
+Employees of the REIT Manager celebrate birthdays and festive occasions such as Chinese New Year and Christmas together to foster team bonding outside of the workplace and forge deeper relationships between employees.
+
+<!-- PAGE 108 -->
+
+# Sustainability Report
+
+## Local Communities
+
+Engaging with local communities is an integral part of our approach to creating a positive social impact and supporting various underprivileged segments of society. Sasseur REIT works closely with local stakeholders to invest resources in programmes which help improve social conditions.
+
+In FY2023, we participated in the following CSR initiatives:
+
+# 01
+
+## Care for the Community
+
+Care for the Community icon
+
+In Nov-Dec 2023, VIP members of Sasseur (Hefei) Outlet were encouraged to donate their points to a good cause, whereby the dollar value of the points donated would be used to purchase school supplies for less-privileged children; 148 VIP members participated.
+
+On 7 Dec 2023, in partnership with Haier and radio station “Anhui Music Broadcast FM89.5” (安徽音乐广播), a media partner of Sasseur (Hefei) Outlet, the school supplies were gifted to left-behind children in Huainan city.
+
+School supplies gifted to the children
+
+Corporate social responsibility event in partnership with Haier and radio station
+
+1. School supplies gifted to the children.
+
+2. Corporate social responsibility event in partnership with Haier and radio station “Anhui Music Broadcast FM89.5” (安徽音乐广播).
+
+<!-- PAGE 109 -->
+
+02
+
+# Waterways Watch Society Clean-up Programme
+
+Waterways Watch Society logo
+
+Established in 1998, Waterways Watch Society (WWS) is a non-governmental and non-profit environmental organisation, committed to foster appreciation and promote conservation of the environment, especially the waterways in Singapore. WWS has approximately 700 volunteers helping out in its various environmental conservation programmes.
+
+In September 2023, under the guidance of WWS’ volunteers, employees of the REIT Manager participated in WWS’ waterways clean-up programme to clear litter from the Marina Reservoir. At the end of the expedition, we had removed almost 13 kilogrammes of litter, including plastic bags, empty drink cans and even a discarded pail, from the reservoir.
+
+While soaking in the sights of prominent landmarks during the boat ride, the WWS volunteers also provided insights on Singapore’s water conservation history and drove home the message of the importance of individual ownership in ensuring environmental sustainability.
+
+An employee of the REIT Manager picking up litter from the Marina Reservoir
+
+1. An employee of the REIT Manager picking up litter from the Marina Reservior.
+
+03
+
+# SGX Cares Bull Charge Charity Run 2023
+
+SGX Cares Bull Charge logo
+
+Employees and business contacts of the REIT Manager showed support for SGX Cares’ 20ᵗʰ anniversary by participating in the SGX Cares Bull Charge Charity Run which was held at the Marina Barrage on 27 October 2023.
+
+The REIT Manager also made a cash donation of $5,000 to raise funds for SGX Cares beneficiaries and support the needs of underprivileged children and families, persons with disabilities, and the elderly.
+
+Employees and business contacts of the REIT Manager at the SGX Cares Bull Charge Charity Run 2023
+
+1. Employees and business contacts of the REIT Manager at the SGX Cares Bull Charge Charity Run 2023.
+
+<!-- PAGE 110 -->
+
+# Sustainability Report
+
+# GOVERNANCE
+
+<table>
+  <thead>
+    <tr>
+        <th>TARGETS FOR FY2023</th>
+        <th>FY2023 PERFORMANCE</th>
+        <th>TARGETS FOR FY2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Zero incidents of non-compliance with relevant laws and regulations resulting in fines or non-monetary sanctions</strong></td>
+        <td><strong>Achieved:</strong><br/>Zero incidents of non-compliance with relevant laws and regulations resulting in fines or non-monetary sanctions</td>
+        <td>Zero incidents of non-compliance with relevant laws and regulations resulting in fines or non-monetary sanctions</td>
+    </tr>
+    <tr>
+        <td><strong>Zero incidents of corruption</strong></td>
+        <td><strong>Achieved:</strong><br/>Zero incidents of corruption</td>
+        <td>Zero incidents of corruption</td>
+    </tr>
+    <tr>
+        <td><strong>Zero instances of counterfeit reports</strong></td>
+        <td><strong>Achieved:</strong><br/>Zero instances of counterfeit reports</td>
+        <td>Zero incidents of identified leaks, thefts, or losses of data</td>
+    </tr>
+    <tr>
+        <td><strong>Zero substantiated complaints received concerning breaches of customer privacy and zero incidents of identified leaks, thefts, or losses of customer data</strong></td>
+        <td><strong>Achieved:</strong><br/>Zero substantiated complaints received concerning breaches of customer privacy and zero incidents of identified leaks, thefts, or losses of customer data</td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+**REGULATORY COMPLIANCE**
+
+Sasseur REIT aspires to uphold high standards of corporate governance, including accountability, transparency, and sustainability to enhance long-term Unitholder value, protect the interests of stakeholders and achieve sustainable business performance in the long run. We believe that conducting our business in an ethical manner, alongside compliance with applicable laws and regulations, are essential in building and maintaining trust among our stakeholders.
+
+A Compliance Manual is also in place to document the requirements under the SGX-ST Mainboard Listing Rules and the Code on Collective Investment Schemes applicable to Sasseur REIT, as well as the requirements under the Securities and Futures Act 2001 and the accompanying regulations, notices, guidelines, and circulars applicable to the regulated activity of REIT management. The Compliance Manual is reviewed and updated annually to manage compliance risks and ensure that laws and regulations are complied with. A compliance monitoring programme has also been established within the REIT Manager. Instances of non-compliance, if any, are reported to the ARC on a timely basis and prompt action is taken to correct any breaches or deficiencies identified.
+
+**Compliance with Laws and Regulations**
+
+As an entity listed on the SGX and a holder of the Capital Markets Services Licence (CMSL) issued by MAS, Sasseur REIT and the REIT Manager recognises the importance of complying with laws and regulations to avoid regulatory action that could result in licence revocations, reputational damage as well as financial penalties and losses.
+
+Employees of the REIT Manager undergo regular trainings to ensure that they are kept up to date on applicable laws and regulations. In particular, CMSL representatives from the REIT Manager attend an annual Rules and Ethics training to keep abreast on applicable regulatory updates. As at 31 December 2023, the REIT Manager has 9 CMSL representatives, of which, 6 CMSL representatives have at least five years of experience relevant to trust management.
+
+The REIT Manager frequently monitors regulatory updates in order to keep abreast of the evolving regulatory landscape. The Board and employees are updated on revisions to laws and regulations as and when required.
+
+In FY2023, there were zero incidents of non-compliance with relevant laws and regulations resulting in fines or monetary sanctions.
+
+<!-- PAGE 111 -->
+
+# Anti-corruption
+
+Sasseur REIT is committed to conducting business with integrity and upholding the highest ethical standards, to prevent corruption, bribery and extortion. Corrupt practices will adversely affect the reputation of Sasseur REIT as well as the confidence held by stakeholders, including Unitholders and business partners. In line with our commitment to act professionally, fairly and with integrity in all our business dealings and relationships, we adopt a ‘zero-tolerance’ approach against all forms of corruption, bribery and extortion.
+
+The REIT Manager’s employees and directors are also required to provide a Fit and Proper Criteria Declaration during their onboarding and on an annual basis.
+
+The following policies and procedures have been established to ensure that business dealings are carried out fairly and transparently:
+
+<table>
+  <thead>
+    <tr>
+        <th>Policies and Procedures</th>
+        <th>Objectives</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Anti-bribery and Corruption Policy</td>
+        <td>Sets out the responsibilities of Sasseur REIT and its subsidiaries, the REIT Manager and of each employee in observing and upholding the REIT Manager's ‘zero-tolerance’ approach against all forms of corruption, bribery and extortion.<br/><br/>It also provides information and guidance to employees on how to recognise, address, resolve, avoid and prevent instances of corruption, bribery and extortion which may arise in the course of their work.</td>
+    </tr>
+    <tr>
+        <td>Anti-money Laundering Manual</td>
+        <td>Assists the REIT Manager in understanding its legal and regulatory obligations as well as the internal policies and procedures instituted by the REIT Manager when conducting its business.</td>
+    </tr>
+    <tr>
+        <td>Code of Conduct</td>
+        <td>Sets out the behaviour and conduct expected of all employees.<br/><br/>The Code of Conduct is available on Sasseur REIT’s website at https://www.sasseurreit.com/code-of-conduct.html</td>
+    </tr>
+    <tr>
+        <td>Conflict of Interest Policy</td>
+        <td>Framework to provide guidance on dealing with conflicts of interest.</td>
+    </tr>
+    <tr>
+        <td>Interested Person Transaction Policy</td>
+        <td>Sets out the procedures of the REIT Manager to identify interested person transactions and highlight the relevant approval, announcement and disclosure requirements.</td>
+    </tr>
+    <tr>
+        <td>Personal Account Dealing Policy</td>
+        <td>Sets out the procedures to all directors and employees of the REIT Manager with regards to dealings in Sasseur REIT and aims to prevent insider trading through effective trading restrictions of dealings in securities.</td>
+    </tr>
+    <tr>
+        <td>Procedure on Declaration of Gifts and Entertainment</td>
+        <td>Procedures established by the REIT Manager on the receipt and provision of gifts and entertainment.</td>
+    </tr>
+    <tr>
+        <td>Whistle-blowing Policy</td>
+        <td>Provides a framework to encourage the REIT Manager’s employees and stakeholders such as customers, suppliers and service providers to use the procedures to report any concern or complaint, possible improprieties in matters of financial reporting, and other malpractices.<br/><br/>The Whistle-blowing Policy is available on Sasseur REIT’s website at https://www.sasseurreit.com/whistle-blowing-policy.html</td>
+    </tr>
+  </tbody>
+</table>
+
+The REIT Manager is cognisant that corrupt practices may adversely affect Sasseur REIT’s reputation and stakeholder confidence. The REIT Manager has assessed Sasseur REIT’s operations for risks related to corruption as part of Sasseur REIT’s enterprise risk management framework. The REIT Manager has implemented measures to mitigate risks arising from non-compliance with laws and regulations which could result in fines, sanctions or loss of reputation. More details of
+
+Sasseur REIT’s enterprise risk management framework can be found on pages 122 to 125 of the Annual Report.
+
+All employees and the Board of the REIT Manager receive anti-corruption training on a regular basis. The Anti-bribery and Corruption Policy was communicated to all employees in FY2023. There were zero instances of bribery, corruption and fraud reported during the year.
+
+<!-- PAGE 112 -->
+
+# Sustainability Report
+
+**Cybersecurity**
+
+Sasseur REIT recognises the increasing prevalence of cyber-attacks which have resulted in data leaks and breaches worldwide. We place high importance on cybersecurity in the organisation to mitigate prevalent and emerging risks arising from the evolving cyber threat landscape. We continuously strive to strengthen our IT infrastructure in order to protect personal data from unauthorised access, use or disclosure.
+
+In order to maintain the integrity and availability of the data environment, the REIT Manager has an Information Security Policy which defines the technical controls and security configurations that users and IT administrators are required to implement. It also provides users with policies and guidelines regarding the acceptable use of the REIT Manager’s technology equipment and email.
+
+The REIT Manager has also established a Handling of Confidential Information Policy which sets out the procedures on information classification based on the sensitivity of information, providing guidance to employees on handling confidential information. In addition, the REIT Manager ensures compliance with the Personal Data Protection Act (PDPA) and has a Personal Data Protection Policy in place. The Personal Data Protection Policy can be found on Sasseur REIT’s website at https://www.sasseurreit.com/privacy-policy.html.
+
+All directors and employees of the REIT Manager undergo comprehensive IT security awareness training regularly to instil and maintain a high level of cybersecurity awareness and culture within the organisation.
+
+In FY2023, there were zero incidents of identified leaks, thefts, or losses of data.
+
+Close-up of a person's hands using a laptop in a data center environment
+
+<!-- PAGE 113 -->
+
+# GRI Content Index logo
+
+<table>
+  <tbody>
+    <tr>
+        <td>Statement of use</td>
+        <td>Sasseur REIT has reported the information cited in this GRI content index for the period from 1 January 2023 to 31 December 2023 with reference to the GRI Standards.</td>
+    </tr>
+    <tr>
+        <td>GRI 1 used</td>
+        <td>GRI 1: Foundation 2021</td>
+    </tr>
+    <tr>
+        <td>Applicable GRI Sector Standard(s)</td>
+        <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th>GRI Disclosure</th>
+        <th>Disclosure Requirements</th>
+        <th>Disclosure Information and Page Reference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">GRI 2: General Disclosures 2021</td>
+    </tr>
+    <tr>
+        <td>2-1</td>
+        <td>Organisational details</td>
+        <td>Annual Report, About Sasseur REIT, page 2</td>
+    </tr>
+    <tr>
+        <td>2-2</td>
+        <td>Entities included in the organisation’s sustainability reporting</td>
+        <td>Sustainability Report, About this Report<br/>– Reporting Period and Scope, page 77</td>
+    </tr>
+    <tr>
+        <td>2-3</td>
+        <td>Reporting period, frequency and contact point</td>
+        <td>• Sustainability Report, About this Report<br/>– Reporting Period and Scope, page 77<br/>• Sustainability Report, About this Report<br/>– Feedback, page 77</td>
+    </tr>
+    <tr>
+        <td>2-4</td>
+        <td>Restatements of information</td>
+        <td>We have restated the data for the energy consumption, third party water consumption, and waste generated within Sasseur REIT Outlets for FY2021 and FY2022 due to a change in methodology where a standardised procedure was implemented for all Outlets. The data has been corrected on pages 94 to 95, 96 to 97 and 98 of this Sustainability Report for energy consumption, third party water consumption and waste generated respectively.</td>
+    </tr>
+    <tr>
+        <td>2-5</td>
+        <td>External assurance</td>
+        <td>No external assurance was sought for this report. External assurance by independent professional bodies will be considered as our reporting matures over time.</td>
+    </tr>
+    <tr>
+        <td>2-6</td>
+        <td>Activities, value chain and other business relationships</td>
+        <td>Annual Report, About Sasseur REIT, page 2</td>
+    </tr>
+    <tr>
+        <td>2-7</td>
+        <td>Employees</td>
+        <td>Sustainability Report, Talent Retention and Training<br/>– Diversity and Equal Opportunity, pages 100 to 102</td>
+    </tr>
+    <tr>
+        <td>2-8</td>
+        <td>Workers who are not employees</td>
+        <td>Not applicable due to the nature of our business.</td>
+    </tr>
+    <tr>
+        <td>2-9</td>
+        <td>Governance structure and composition</td>
+        <td>• Sustainability Report, Managing Sustainability<br/>– Sustainability Governance, pages 84 to 86<br/>• Annual Report, Corporate Governance<br/>– Board Composition and Guidance, page 131</td>
+    </tr>
+    <tr>
+        <td>2-10</td>
+        <td>Nomination and selection of the highest governance body</td>
+        <td>Annual Report, Corporate Governance<br/>– Board Composition and Guidance, page 131</td>
+    </tr>
+    <tr>
+        <td>2-11</td>
+        <td>Chair of the highest governance body</td>
+        <td>Annual Report, Board of Directors, pages 40 to 41</td>
+    </tr>
+    <tr>
+        <td>2-12</td>
+        <td>Role of the highest governance body in overseeing the management of impacts</td>
+        <td>Sustainability Report, Managing Sustainability<br/>- Sustainability Governance, page 79<br/>Annual Report, Corporate Governance<br/>- The Board's Conduct of Affairs, page 127</td>
+    </tr>
+    <tr>
+        <td>2-13</td>
+        <td>Delegation of responsibility for managing impacts</td>
+        <td>Sustainability Report, Managing Sustainability<br/>– Sustainability Governance, page 79</td>
+    </tr>
+    <tr>
+        <td>2-14</td>
+        <td>Role of the highest governance body in sustainability reporting</td>
+        <td>Sustainability Report, Managing Sustainability<br/>– Sustainability Governance, page 79</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 114 -->
+
+# GRI Content Index
+
+<table>
+  <thead>
+    <tr>
+        <th>GRI Disclosure</th>
+        <th>Disclosure Requirements</th>
+        <th>Disclosure Information and Page Reference</th>
+    </tr>
+    <tr>
+        <th colspan="3">GRI 2: General Disclosures 2021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>2-15</td>
+        <td>Conflicts of interest</td>
+        <td>\* Corporate Governance Report, Dealings with Conflicts of<br/>Interest, page 150<br/>\* Corporate Governance Report, Interested Person<br/>Transactions (IPT) / Related Party Transactions (RPT),<br/>page 151</td>
+    </tr>
+    <tr>
+        <td>2-16</td>
+        <td>Communication of critical concerns</td>
+        <td>Annual Report, Corporate Governance<br/>– Whistle-blowing Policy, page 146</td>
+    </tr>
+    <tr>
+        <td>2-17</td>
+        <td>Collective knowledge of the highest governance body</td>
+        <td>\* Annual Report, Board of Directors, pages 40 to 43<br/>\* Annual Report, Corporate Governance Report<br/>– Board Composition and Guidance, page 131</td>
+    </tr>
+    <tr>
+        <td>2-18</td>
+        <td>Evaluation of the performance of the highest governance body</td>
+        <td>Annual Report, Corporate Governance<br/>– Board Performance, page 137</td>
+    </tr>
+    <tr>
+        <td>2-19</td>
+        <td>Remuneration policies</td>
+        <td>Annual Report, Corporate Governance<br/>– Remuneration Matters, pages 138 to 141</td>
+    </tr>
+    <tr>
+        <td>2-20</td>
+        <td>Process to determine remuneration</td>
+        <td>Annual Report, Corporate Governance<br/>– Remuneration Matters, pages 138 to 141</td>
+    </tr>
+    <tr>
+        <td>2-21</td>
+        <td>Annual total compensation ratio</td>
+        <td>Confidentiality constraints. We are unable to disclose the ratio due to the highly competitive labour market.</td>
+    </tr>
+    <tr>
+        <td>2-22</td>
+        <td>Statement on sustainable development strategy</td>
+        <td>Sustainability Report, Board Statement, page 76</td>
+    </tr>
+    <tr>
+        <td>2-25</td>
+        <td>Processes to remediate negative impacts</td>
+        <td>\* Sustainability Report, Managing Sustainability<br/>– Stakeholder Engagement, pages 80 to 81<br/>\* Annual Report, Corporate Governance<br/>– Whistle-blowing Policy, page 146</td>
+    </tr>
+    <tr>
+        <td>2-26</td>
+        <td>Mechanisms for seeking advice and raising concerns</td>
+        <td>Annual Report, Corporate Governance<br/>– Whistle-blowing Policy, page 146</td>
+    </tr>
+    <tr>
+        <td>2-27</td>
+        <td>Compliance with laws and regulations</td>
+        <td>Sustainability Report, Regulatory Compliance<br/>– Compliance with Laws and Regulations, page 108</td>
+    </tr>
+    <tr>
+        <td>2-28</td>
+        <td>Membership associations</td>
+        <td>REITAS, Financial Industry Disputes Resolution Centre (FIDReC), Singapore Business Federation (SBF) and Singapore Chinese Chamber of Commerce &amp; Industry (SCCCI)</td>
+    </tr>
+    <tr>
+        <td>2-29</td>
+        <td>Approach to stakeholder engagement</td>
+        <td>Sustainability Report, Managing Sustainability<br/>– Stakeholder Engagement, pages 80 to 81</td>
+    </tr>
+    <tr>
+        <td>2-30</td>
+        <td>Collective bargaining agreements</td>
+        <td>There are no collective bargaining agreements in place.</td>
+    </tr>
+    <tr>
+        <th colspan="3">GRI 3: Material Topics 2021</th>
+    </tr>
+    <tr>
+        <td>3-1</td>
+        <td>Process to determine material topics</td>
+        <td>Sustainability Report, Materiality Assessment, page 82</td>
+    </tr>
+    <tr>
+        <td>3-2</td>
+        <td>List of material topics</td>
+        <td>Sustainability Report, Materiality Assessment, page 82</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 115 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Standards</th>
+        <th>Disclosure</th>
+        <th>Disclosure Information and Page Reference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">Managing the Impacts of Climate Change</td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topics 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change, pages 83 to 92</td>
+    </tr>
+    <tr>
+        <td>GRI 201: Economic Performance 2016</td>
+        <td><strong>201-2</strong> Financial implications and other risks and opportunities due to climate change</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Climate-related Financial Disclosures, pages 84 to 93</td>
+    </tr>
+    <tr>
+        <td>GRI 305: Emissions 2016</td>
+        <td><strong>305-1</strong> Direct (Scope 1) GHG emissions</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Greenhouse Gas Emissions, pages 92 to 93</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>305-2</strong> Energy indirect (Scope 2) GHG emissions</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Greenhouse Gas Emissions, pages 92 to 93</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>305-3</strong> Other indirect (Scope 3) GHG emissions</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Greenhouse Gas Emissions, pages 92 to 93</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>305-4</strong> GHG emissions intensity</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Greenhouse Gas Emissions, pages 92 to 93</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>305-5</strong> Reduction of GHG emissions</td>
+        <td>Sustainability Report, Managing the Impacts of Climate Change – Greenhouse Gas Emissions, pages 92 to 93</td>
+    </tr>
+    <tr>
+        <td colspan="3">Environmental Footprint</td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topics 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Environmental Footprint, pages 92 to 98</td>
+    </tr>
+    <tr>
+        <td>GRI 302: Energy 2016</td>
+        <td><strong>302-1</strong> Energy consumption within the organisation</td>
+        <td>Sustainability Report, Environmental Footprint – Energy Consumption, pages 94 to 95</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>302-3</strong> Energy intensity</td>
+        <td>Sustainability Report, Environmental Footprint – Energy Consumption, pages 94 to 95</td>
+    </tr>
+    <tr>
+        <td>GRI 303: Water and Effluents 2018</td>
+        <td><strong>303-1</strong> Interactions with water as a shared resource</td>
+        <td>Sustainability Report, Environmental Footprint – Water Management, pages 96 to 97</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>303-2</strong> Management of water discharge-related impacts</td>
+        <td>Sustainability Report, Environmental Footprint – Water Management, pages 96 to 97</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>303-3</strong> Water withdrawal</td>
+        <td>Sustainability Report, Environmental Footprint – Water Management, pages 96 to 97</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td><strong>303-5</strong> Water consumption</td>
+        <td>Not applicable due to the nature of our business. We will continue to monitor the relevance of the disclosure for future reporting.</td>
+    </tr>
+    <tr>
+        <td>Non-GRI</td>
+        <td>Water withdrawal intensity</td>
+        <td>Sustainability Report, Environmental Footprint – Water Management, pages 96 to 97</td>
+    </tr>
+    <tr>
+        <td>GRI 306: Waste 2020</td>
+        <td><strong>306-3</strong> Waste generated</td>
+        <td>Sustainability Report, Environmental Footprint – Water Generation, page 98</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 116 -->
+
+# GRI Content Index
+
+<table>
+  <thead>
+    <tr>
+        <th>Standards</th>
+        <th>Disclosure</th>
+        <th>Disclosure Information and Page Reference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">Tenant Management</td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topics 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Tenant Management, page 99</td>
+    </tr>
+    <tr>
+        <td rowspan="3">Non-GRI (GRESB)</td>
+        <td>Tenant Engagement Program</td>
+        <td>Sustainability Report, Tenant Management, page 99</td>
+    </tr>
+    <tr>
+        <td>Fit-out and Refurbishment Program</td>
+        <td>Sustainability Report, Tenant Management, page 99</td>
+    </tr>
+    <tr>
+        <td>Green Leases</td>
+        <td>Sustainability Report, Tenant Management, page 99</td>
+    </tr>
+    <tr>
+        <td colspan="3">Health and Safety</td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topics 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Health and Safety, page 100</td>
+    </tr>
+    <tr>
+        <td rowspan="4">GRI 403: Occupational Health and Safety 2018</td>
+        <td><strong>403-1</strong> Occupational health and safety management system</td>
+        <td>Sustainability Report, Health and Safety, page 100</td>
+    </tr>
+    <tr>
+        <td><strong>403-7</strong> Prevention and mitigation of occupational health and safety impacts directly linked by business relationships</td>
+        <td>Sustainability Report, Health and Safety – Employees, Tenants and Shoppers, page 100</td>
+    </tr>
+    <tr>
+        <td><strong>403-9</strong> Work-related injuries</td>
+        <td>Sustainability Report, Health and Safety – Employees, Tenants and Shoppers, page 100</td>
+    </tr>
+    <tr>
+        <td><strong>403-10</strong> Work-related ill health</td>
+        <td>Sustainability Report, Health and Safety – Employees, Tenants and Shoppers, page 100</td>
+    </tr>
+    <tr>
+        <td>Non-GRI</td>
+        <td>Tenant Health &amp; Well-being Measures</td>
+        <td>Sustainability Report, Health and Safety – Employees, Tenants and Shoppers, page 100</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 117 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Standards</th>
+        <th>Disclosure</th>
+        <th>Disclosure Information and Page Reference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3"><strong>Talent Retention and Training</strong></td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topis 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Talent Retention and Training, pages 100 to 105</td>
+    </tr>
+    <tr>
+        <td>GRI 401: Employment 2016</td>
+        <td><strong>401-1</strong> New employee hires and employee turnover</td>
+        <td>Sustainability Report, Talent Retention and Training – New Employee Hires and Employee Turnover, pages 103 to 104</td>
+    </tr>
+    <tr>
+        <td rowspan="3">GRI 404: Training and Education 2016</td>
+        <td><strong>404-1</strong> Average hours of training per year per employee</td>
+        <td>Sustainability Report, Talent Retention and Training – Training and Career Development, page 105</td>
+    </tr>
+    <tr>
+        <td><strong>404-2</strong> Programs for upgrading employee skills and transition assistance programs</td>
+        <td>Sustainability Report, Talent Retention and Training – Training and Career Development, page 105</td>
+    </tr>
+    <tr>
+        <td><strong>404-3</strong> Percentage of employees receiving regular performance and career development reviews</td>
+        <td>Sustainability Report, Talent Retention and Training – Performance Management, page 104</td>
+    </tr>
+    <tr>
+        <td>GRI 405: Diversity and Equal Opportunity 2016</td>
+        <td><strong>405-1</strong> Diversity of governance bodies and employees</td>
+        <td>Sustainability Report, Talent Retention and Training – Diversity and Equal Opportunity, pages 101 to 102</td>
+    </tr>
+    <tr>
+        <td>GRI 413: Local Communities 2016</td>
+        <td><strong>413-1</strong> Operations with local community engagement, impact assessments, and development programs</td>
+        <td>Sustainability Report, Talent Retention and Training – Local Communities, pages 106 to 107</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Regulatory Compliance</strong></td>
+    </tr>
+    <tr>
+        <td>GRI 3: Material Topics 2021</td>
+        <td><strong>3-3</strong> Management of material topics</td>
+        <td>Sustainability Report, Regulatory Compliance, pages 108 to 110</td>
+    </tr>
+    <tr>
+        <td rowspan="3">GRI 205: Anti-corruption 2016</td>
+        <td><strong>205-1</strong> Operations assessed for risks related to corruption</td>
+        <td>Annual Report, Enterprise Risk Management, pages 122 to 125</td>
+    </tr>
+    <tr>
+        <td><strong>205-2</strong> Communication and training about corruption policies and procedures</td>
+        <td>Sustainability Report, Regulatory Compliance – Anti-corruption, page 109</td>
+    </tr>
+    <tr>
+        <td><strong>205-3</strong> Confirmed incidents of corruption and actions taken</td>
+        <td>Sustainability Report, Regulatory Compliance – Anti-corruption, page 109</td>
+    </tr>
+    <tr>
+        <td>Non-GRI</td>
+        <td>Cyber Security</td>
+        <td>Sustainability Report, Regulatory Compliance – Cyber Security, page 110</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 118 -->
+
+# Investor Relations
+
+## ENGAGING IN RELEVANT AND TARGETED COMMUNICATIONS VIA MULTIPLE PLATFORMS AND CHANNELS
+
+A panel discussion at the REITs Symposium with Ms Cecilia Tan and other speakers.
+
+The REIT Manager remains dedicated to upholding high standards of corporate governance and transparency by providing all key stakeholders such as the investment and media communities, with clear, timely, and accurate information on Sasseur REIT’s financial and operating performance. We are guided by our Investor Relations Policy (please refer to https://investor.sasseurreit.com/ir_policy.html) in planning regular communication and programmes to ensure effective engagements. We seek to proactively engage existing Unitholders, potential retail and institutional investors, analysts and the media through announcements, post-results briefings, social media, investor conferences, roadshows, webinars, panel discussions, one-on-one virtual meetings and face-to-face meetings.
+
+For Sasseur REIT’s full and half-year result announcements, the REIT Manager releases financial statements and supplementary materials such as results presentations and press releases. The REIT Manager also provides interim business and operational updates for the first and third quarters which include presentations, key financial metrics and other supplementary information.
+
+All material information such as announcements, press releases, financial results, presentation slides and annual reports are regularly and promptly issued through SGXNet and our corporate website at www.sasseurreit.com to ensure timely dissemination of information to the public. The public can also sign up for email alerts on Sasseur REIT’s corporate website (https://investor.sasseurreit.com/email_alerts.html) to receive updates on Sasseur REIT’s latest announcements and press releases.
+
+With the restoration of travel and in-person meetings, the Investor Relations team resumed participation in in-person events, conferences and site visits. In 2023, the REIT Manager has engaged in dialogues with approximately 110 institutional investors and more than 1,000 retail investors through a series of face-to-face as well as virtual sessions.
+
+In May 2023, the REIT manager participated in the REITs Symposium event, jointly organised by the REIT Association of Singapore (REITAS), ShareInvestor and Investing Note. The event provided a valuable opportunity for the REIT Manager team to engage with both existing retail Unitholders and potential retail investors face-to-face. Sasseur REIT’s booth drew a good number of people and an enthusiastic crowd who was eager to get to know the REIT Manager team. The REIT Manager’s CEO, Ms Cecilia Tan, also participated in a panelist session “Opportunities and Challenges in a Post-Pandemic Era” held during the event.
+
+In September 2023, as part of Sasseur REIT’s investment community outreach efforts, the REIT Manager organised a property site visit in China for equity research analysts who have coverage on Sasseur REIT. This was the analysts’ first site visit to Sasseur REIT’s outlets in Chongqing city since the re-opening of China’s borders post-COVID-19 pandemic. The visiting analysts had opportunities to make first-hand in-person observations of Sasseur REIT’s Chongqing outlets and interacted with the outlets’ ground teams, senior management representatives from Sasseur REIT’s Sponsor, Sasseur Group, and the Board of Directors of Sasseur REIT’s Manager.
+
+In November 2023, the REIT Manager took part in the SGX-REITAS Bangkok conference, which was jointly organised by DBS Bank, the Singapore Exchange (SGX) Group and REITAS. The REIT Manager met more than 30 professionals from 11 groups of Thai institutional investors to share updates on Sasseur REIT’s performance and engage in lively discussions on the REIT Manager’s growth strategies for the REIT.
+
+We adopt a diverse stakeholder engagement model, through different modes such as webinars, in-person meetings, property site visits and podcasts. These engagements are broadcast beyond the traditional communication channels to encompass popular social media channels, LinkedIn and Facebook. Sasseur REIT also has a dedicated YouTube channel (https://www.youtube.com/@sasseur_reit) to showcase various happenings at the outlet level, such as each outlet’s sales and promotional events through videos. Given that the REIT’s assets are located in China, the videos have proven to be an engaging way of showcasing the outlets’ unique selling points.
+
+Riding on the momentum from 2022, we continued to ramp up corporate updates on Sasseur REIT’s LinkedIn page (https://www.linkedin.com/company/sasseurreit) to enhance the profile and visibility of the REIT, as well as the REIT’s Sponsor, Sasseur Group. Our active postings on LinkedIn have been
+
+<!-- PAGE 119 -->
+
+Group photo of research analysts and management at Sasseur (Chongqing Liangjiang) Outlet
+
+1. Ms Cecilia Tan, CEO of the REIT Manager, speaking at the REITs Symposium event
+
+2. Research analysts, the REIT Manager team, Sasseur Group’s senior management team and the Board of Directors of Sasseur REIT’s Manager at Sasseur (Chongqing Liangjiang) Outlet
+
+gaining attention amongst followers. From 1 January 2023 to 31 December 2023, the number of followers increased by 229 (up 21.8% year-on-year) to 1,280. Sasseur REIT’s LinkedIn page has garnered 4,570 page views (up 21.7% year-on-year) for the same period.
+
+Our efforts in using a multi-pronged approach to reach out to different stakeholders were endorsed at the IR Magazine Awards – South East Asia 2023 where Sasseur REIT garnered an award for “Best Innovation in Shareholder Communications”.
+
+Looking ahead, in 2024, we will continue to intensify our efforts in social media outreach. On this front, we have already launched a Sasseur REIT channel on Telegram in January 2024 to further update the REIT's stakeholders on Sasseur REIT's and its Sponsor's latest developments.
+
+# ANNUAL GENERAL MEETINGS
+
+Annual general meetings (AGM) provide an important channel for the Management and the Board of Directors of the REIT Manager to engage and communicate directly with Unitholders.
+
+The REIT Manager conducted Sasseur REIT’s fifth AGM in April 2023. The AGM was held virtually with a ‘live’ question and answer chat session. Unitholders were also invited to submit their questions to the REIT Manager ahead of the AGM. The REIT Manager’s responses to these key questions from Unitholders were subsequently published on SGXNet before the AGM as well as on Sasseur REIT’s corporate website. All three of the proposed resolutions at the AGM were passed. The results of the AGM and AGM minutes were also published on SGXNet and on Sasseur REIT’s corporate website for greater transparency.
+
+## Unitholdings by Geography¹
+
+(As at 31 Dec 2023)
+
+<table>
+  <tbody>
+    <tr>
+        <td>Singapore (excluding Sasseur Group’s Unitholdings)</td>
+        <td>71%</td>
+    </tr>
+    <tr>
+        <td>Asia (excluding Singapore)</td>
+        <td>15%</td>
+    </tr>
+    <tr>
+        <td>United Kingdom and Europe</td>
+        <td>2%</td>
+    </tr>
+    <tr>
+        <td>North America</td>
+        <td>10%</td>
+    </tr>
+    <tr>
+        <td>Rest of World</td>
+        <td>2%</td>
+    </tr>
+  </tbody>
+</table>
+
+## Unitholdings by Investor Type¹
+
+(As at 31 Dec 2023)
+
+<table>
+  <tbody>
+    <tr>
+        <td>Sasseur Group²</td>
+        <td>67%</td>
+    </tr>
+    <tr>
+        <td>Retail Investors</td>
+        <td>15%</td>
+    </tr>
+    <tr>
+        <td>Institutional Investors</td>
+        <td>18%</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+1 Excludes unidentified and unanalysed holdings.
+
+2 “Sasseur Group” includes related parties of Sasseur Group.
+
+<!-- PAGE 120 -->
+
+# Investor Relations
+
+**AWARDS AND ACCOLADES**
+
+In recognition of Sasseur REIT’s strong corporate governance standards and dedication to delivering long-term value creation for our Unitholders, the REIT has garnered the following awards and accolades in 2023:
+
+Sasseur REIT has been placed on the SGX Fast Track programme since 2021, allowing the REIT prioritised clearance on all submissions of corporate actions to Singapore Exchange Regulation (SGX RegCo). This programme was launched by SGX RegCo in recognition of listed companies which have maintained good corporate governance standards and compliance track record.
+
+In November 2023, we also participated in “Corporate Governance Statement of Support”, a corporate governance initiative organised by the Securities Investors Association Singapore (SIAS) to demonstrate the commitment of Singapore’s public listed companies to continuously adapt and improve governance practices as well as maintain transparent, frequent and proactive communications with all key stakeholders.
+
+* **IR Magazine Awards – South East Asia 2023**
+
+    * Best Innovation in Shareholder Communications
+
+    * Certificate for Excellence in Investor Relations
+
+* **The Edge Singapore Centurion Club Awards 2023**
+
+    * Overall Sector Winner
+
+    * Highest Weighted Return on Equity Over Three Years
+
+* **Singapore Governance and Transparency Index (SGTI) 2023**
+
+    * Placed 17ᵗʰ out of 43 REITs and Business Trusts, improvement from 19ᵗʰ place in 2022
+
+    * Sasseur REIT achieved its highest ever score of 91.2 since 2019 when the REIT was first included in the SGTI rankings
+
+        - Above mean score of 89.3 points
+
+        - Improvement of 3.2 points from score in 2022
+
+* **Hermes Creative Awards 2023**
+
+    * Platinum award for Sasseur REIT’s Annual Report 2022
+
+**INVESTOR & MEDIA RELATIONS CALENDAR 2023**
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="2">EVENTS</th>
+        <th>FORMAT (LOCATION)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>FIRST QUARTER</td>
+        <td>CGS China-ASEAN Business Leaders Summit<br/>• Panelist topic on REITs<br/>• Meetings with institutional investors</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>ProsperUs Webinar</td>
+        <td>Webinar</td>
+    </tr>
+    <tr>
+        <td>SECOND QUARTER</td>
+        <td>DBS-REITAS Private Banking Luncheon</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>REITs Symposium<br/>Panelist topic “Opportunities and Challenges in a Post-Pandemic Era”</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>Money FM 89.3 Podcast</td>
+        <td>Podcast</td>
+    </tr>
+    <tr>
+        <td>THIRD QUARTER</td>
+        <td>REITAS Conference<br/>Panelist topic “REITs with Overseas Assets – Needing More Love”</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>Value Invest Asia YouTube Podcast (Asian Mavericks Series)</td>
+        <td>Podcast</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>Visit to outlet malls in China for research analysts</td>
+        <td>Physical (Chongqing and Xi’an)</td>
+    </tr>
+    <tr>
+        <td>FOURTH QUARTER</td>
+        <td>Fintech Festival firechat<br/>Panelist topic “REITs vs Tokenised Real Estate”</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>PhillipCapital Corporate Insights Webinar</td>
+        <td>Webinar</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>DBS-SGX-REITAS Bangkok Conference</td>
+        <td>Physical (Bangkok)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>IR Magazine Forum &amp; Awards (South East Asia)<br/>Panelist topic “Storytelling: Benchmark your Digital IR Strategy”</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>SGX-NHIS Corporate Day for Korean Investors</td>
+        <td>Physical (Singapore)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 121 -->
+
+# FINANCIAL AND DISTRIBUTION CALENDAR 2023
+
+<table>
+  <thead>
+    <tr>
+        <th>FY2022 Annual General Meeting</th>
+        <th>20 Apr 2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>First quarter business and operational updates</td>
+        <td>10 May 2023</td>
+    </tr>
+    <tr>
+        <td>First quarter distribution to Unitholders</td>
+        <td>27 Jun 2023</td>
+    </tr>
+    <tr>
+        <td>Second quarter results announcement</td>
+        <td>11 Aug 2023</td>
+    </tr>
+    <tr>
+        <td>Second quarter distribution to Unitholders</td>
+        <td>26 Sep 2023</td>
+    </tr>
+    <tr>
+        <td>Third quarter business and operational updates</td>
+        <td>10 Nov 2023</td>
+    </tr>
+    <tr>
+        <td>Third quarter distribution to Unitholders</td>
+        <td>27 Dec 2023</td>
+    </tr>
+    <tr>
+        <td>Full year results announcement</td>
+        <td>21 Feb 2024</td>
+    </tr>
+    <tr>
+        <td>Fourth quarter distribution to Unitholders</td>
+        <td>28 Mar 2024</td>
+    </tr>
+    <tr>
+        <td>FY2023 Annual General Meeting</td>
+        <td>25 Apr 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+## RESEARCH COVERAGE
+
+* DBS Group Research
+
+* CGS International
+
+* KGI Securities
+
+* PhillipCapital
+
+* Soochow CSSD Capital Markets
+
+* UOB Kay Hian
+
+## CONSTITUENT OF KEY INDICES
+
+* FTSE ST All Share Index
+
+* FTSE ST All-Share Real Estate Index
+
+* FTSE ST All-Share Real Estate Investment Trusts Index
+
+* FTSE ST Real Estate Investment Trusts Index
+
+* FTSE™ EPRA Nareit Global Index
+
+* FTSE ST China Index
+
+* FTSE ST Small Cap Index
+
+* iEdge SG Real Estate Index
+
+* iEdge S-REIT Index
+
+* iEdge ESG Transparency Index
+
+## UNITHOLDER AND MEDIA ENQUIRIES
+
+If you have any enquiries and would like to find out more about Sasseur REIT, please contact:
+
+**Ms Jeanette Pang**
+
+Head of Investor Relations and Capital Markets
+
+**Tel**: +65 6360 0290
+**Email**: ir@sasseurreit.com
+**Website**: www.sasseurreit.com
+
+LinkedIn
+
+LinkedIn QR Code
+
+YouTube
+
+YouTube QR Code
+
+Facebook
+
+Facebook QR Code
+
+Telegram
+
+Telegram QR Code
+
+## UNIT REGISTRAR
+
+**Boardroom Corporate & Advisory Services Pte. Ltd.**
+
+1 Harbourfront Avenue
+#14-07 Keppel Bay Tower
+Singapore 098632
+
+**Tel**: +65 6536 5355
+**Website**: www.boardroomlimited.com
+
+For depository-related matters such as change of details pertaining to Unitholders' investment records, please contact:
+
+**The Central Depository (Pte) Limited**
+
+9 North Buona Vista Drive
+#01-19/20 The Metropolis
+Singapore 138588
+
+**Tel**: +65 6535 7511
+**Email**: asksgx@sgx.com
+**Website**: www.sgx.com/cdp
+
+<!-- PAGE 122 -->
+
+# Unit Price Performance
+
+In 2023, global markets continue to grapple with inflationary concerns, high interest rates and the ongoing geopolitical conflicts. The rising US 10-year government bond yield was largely due to concerns over the deterioration of the country’s credit standing and a possible prolonged government shutdown.
+
+FIRST QUARTER OF 2023
+
+Markets started 2023 on a strong footing, underpinned by hopes of a dovish United States (US) Federal Reserve (Fed). The re-opening of China’s borders following the easing of pandemic restrictions in the late December 2022 also helped to propel the advance. However, in February, a hot economy and tight labour market in US kept inflationary pressures strong across the board, giving rise to renewed US rate hike concerns. In March, there was short-lived market turbulence that followed the collapse of Silicon Valley Bank in the US.
+
+SECOND QUARTER OF 2023
+
+The quarter started with market concerns over a slowdown in US and hopes that the Fed could soon be cutting rates. China was the exception as its GDP grew 6.3% year-on-year in the second quarter of 2023, the fastest quarterly growth rate recorded since the second quarter of 2021¹. However, by the end of the quarter, market sentiment was dragged down by inflation worries as the Fed raised its short-term rates for the 10th time in a row. There were also mounting concerns about the US debt ceiling and increased expectations that US Fed will continue to hike rates.
+
+THIRD QUARTER OF 2023
+
+In the third quarter of 2023, rising global bond yields, fears of a rebound in inflation in the US, as well as concerns about a future economic slowdown in US weighed on major indices in August and September. The volatility in the benchmark 10-year yield drove increased volatility in yield instruments like the S-REITs, which continued to weather headwinds as interest rates were expected to stay higher for longer. The FTSE ST REIT Index declined 3.2% in the month of September 2023, underperforming the Straits Times Index’s 0.5% fall².
+
+FOURTH QUARTER OF 2023
+
+In October, US Fed maintained a hawkish stance as the US economy has remained more resilient with steady job growth numbers. This triggered a rise in 10-year bond yields and the US two-year yield, with the high benchmark yields presenting a near-term headwind for S-REITs. There was a broad sell-off among the S-REITs in October, with property investors worried about erosion of S-REITs’ net asset values as some valuations get “marked-to-market” at lower levels, impacting gearing levels.
+
+In December, the US Fed signalled it will hold interest rates steady for the foreseeable future and possibly cut rates a few times in 2024, sparking off a large rally in US stocks and bonds. The 10-year US Treasury yield fell in November and December as investors continued to bet that the easing of inflation would raise chances of rate cuts by the US Fed in 2024.
+
+In November/December 2023, S-REITs’ unit prices posted an encouraging rebound on the back of a retreat in global benchmark 10-year yields. On 29 December 2023, Sasseur REIT closed at $0.685, representing a 9.3% decline year-on-year, while the FTSE ST REIT Index was up 0.3%. The FTSE Straits Times Index saw a year-on-year decline of 0.3%.
+
+## Sasseur REIT’s Monthly Trading Performance for FY2023
+
+Weighted Average Unit Price for FY2023:
+
+**$0.729**
+
+<table>
+  <thead>
+    <tr>
+        <th>Month</th>
+        <th>Total Monthly Trading Volume (million Units)</th>
+        <th>Month-end Closing Price ($)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Jan 23</td>
+        <td>25</td>
+        <td>0.815</td>
+    </tr>
+    <tr>
+        <td>Feb 23</td>
+        <td>32</td>
+        <td>0.760</td>
+    </tr>
+    <tr>
+        <td>Mar 23</td>
+        <td>45</td>
+        <td>0.745</td>
+    </tr>
+    <tr>
+        <td>Apr 23</td>
+        <td>28</td>
+        <td>0.720</td>
+    </tr>
+    <tr>
+        <td>May 23</td>
+        <td>35</td>
+        <td>0.745</td>
+    </tr>
+    <tr>
+        <td>Jun 23</td>
+        <td>42</td>
+        <td>0.705</td>
+    </tr>
+    <tr>
+        <td>Jul 23</td>
+        <td>22</td>
+        <td>0.715</td>
+    </tr>
+    <tr>
+        <td>Aug 23</td>
+        <td>18</td>
+        <td>0.700</td>
+    </tr>
+    <tr>
+        <td>Sep 23</td>
+        <td>12</td>
+        <td>0.675</td>
+    </tr>
+    <tr>
+        <td>Oct 23</td>
+        <td>23</td>
+        <td>0.625</td>
+    </tr>
+    <tr>
+        <td>Nov 23</td>
+        <td>20</td>
+        <td>0.685</td>
+    </tr>
+    <tr>
+        <td>Dec 23</td>
+        <td>20</td>
+        <td>0.685</td>
+    </tr>
+  </tbody>
+</table>
+
+Source: ShareInvestor
+
+Notes:
+
+1 China Briefing, “China’s economy in 2023 – A year of growth and recovery”, 18 December 2023.
+2 Singapore Exchange Research, “Chartbook: SREITs & Property Trusts”, October 2023.
+
+<!-- PAGE 123 -->
+
+## Sasseur REIT and FTSE ST REIT Index’s Price Performance for FY2023 (Rebased)
+
+<table>
+  <tbody>
+    <tr>
+        <td>Month</td>
+        <td>Sasseur Real Estate Investment Trust (%)</td>
+        <td>FTSE ST All-Share Real Estate Investment Trusts Index (%)</td>
+    </tr>
+    <tr>
+        <td>Jan 23</td>
+        <td>100</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Feb 23</td>
+        <td>108</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>Mar 23</td>
+        <td>98</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Apr 23</td>
+        <td>98</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>May 23</td>
+        <td>95</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>Jun 23</td>
+        <td>92</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>Jul 23</td>
+        <td>98</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>Aug 23</td>
+        <td>90</td>
+        <td>95</td>
+    </tr>
+    <tr>
+        <td>Sep 23</td>
+        <td>92</td>
+        <td>92</td>
+    </tr>
+    <tr>
+        <td>Oct 23</td>
+        <td>82</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td>Nov 23</td>
+        <td>90</td>
+        <td>92</td>
+    </tr>
+    <tr>
+        <td>Dec 23</td>
+        <td>90</td>
+        <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+\* Sasseur Real Estate Investment Trust
+\* FTSE ST All-Share Real Estate Investment Trusts Index
+
+## Comparative Yields
+
+As at 29 December 2023
+
+<table>
+  <tbody>
+    <tr>
+        <td>Category</td>
+        <td>Yield (%)</td>
+    </tr>
+    <tr>
+        <td>Sasseur REIT¹</td>
+        <td>9.1</td>
+    </tr>
+    <tr>
+        <td>Singapore 10-year government bond yield</td>
+        <td>2.7</td>
+    </tr>
+    <tr>
+        <td>China 10-year government bond yield</td>
+        <td>2.6</td>
+    </tr>
+    <tr>
+        <td>CPF Ordinary Account</td>
+        <td>2.5</td>
+    </tr>
+    <tr>
+        <td>Singapore 1-year Treasury Bill</td>
+        <td>3.8</td>
+    </tr>
+    <tr>
+        <td>FTSE ST REIT Index Yield</td>
+        <td>6.1</td>
+    </tr>
+    <tr>
+        <td>FTSE Straits Times Index Yield</td>
+        <td>5.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Sources: Bloomberg, Monetary Authority of Singapore, Central Provident Fund (CPF) Board, Trading Economics
+
+<sup>1</sup> Based on FY2023 distribution per Unit of 6.249 Singapore cents and the closing unit price of $0.685 on 29 December 2023.
+
+## Sasseur REIT’s 5-Year Trading Performance
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>FY2019</th>
+        <th>FY2020</th>
+        <th>FY2021</th>
+        <th>FY2022</th>
+        <th>FY2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Opening price</td>
+        <td>$0.650</td>
+        <td>$0.895</td>
+        <td>$0.820</td>
+        <td>$0.845</td>
+        <td>$0.755</td>
+    </tr>
+    <tr>
+        <td>Closing price</td>
+        <td>$0.885</td>
+        <td>$0.820</td>
+        <td>$0.845</td>
+        <td>$0.755</td>
+        <td>$0.685</td>
+    </tr>
+    <tr>
+        <td>Highest closing price</td>
+        <td>$0.910</td>
+        <td>$0.920</td>
+        <td>$0.970</td>
+        <td>$0.875</td>
+        <td>$0.845</td>
+    </tr>
+    <tr>
+        <td>Lowest closing price</td>
+        <td>$0.640</td>
+        <td>$0.530</td>
+        <td>$0.810</td>
+        <td>$0.670</td>
+        <td>$0.615</td>
+    </tr>
+    <tr>
+        <td>Total volume traded (million Units)</td>
+        <td>383.7</td>
+        <td>562.5</td>
+        <td>435.5</td>
+        <td>430.6</td>
+        <td>260.8</td>
+    </tr>
+    <tr>
+        <td>Total turnover traded² ($ million)</td>
+        <td>339.6</td>
+        <td>461.2</td>
+        <td>368.0</td>
+        <td>325.1</td>
+        <td>178.6</td>
+    </tr>
+    <tr>
+        <td>Average daily volume traded (million Units)</td>
+        <td>1.5</td>
+        <td>2.2</td>
+        <td>1.7</td>
+        <td>1.7</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>Average daily turnover traded² ($ million)</td>
+        <td>1.4</td>
+        <td>1.8</td>
+        <td>1.5</td>
+        <td>1.3</td>
+        <td>0.7</td>
+    </tr>
+    <tr>
+        <td>Market capitalisation at year-end ($ million)</td>
+        <td>1,059.0</td>
+        <td>989.0</td>
+        <td>1,028.0</td>
+        <td>929.0</td>
+        <td>851.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Sources: SGX, ShareInvestor
+
+<sup>2</sup> Based on year-end closing price.
+
+Note: Data extracted are not adjusted for any cash adjustments, capital changes or corporate actions (including but not limited to cash dividends, rights offerings, warrants and stock splits).
+
+## Comparative Total Returns
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">1 Year³</th>
+        <th colspan="2">3 Years³</th>
+        <th colspan="2">Since Listing³</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Price Change</th>
+        <th>Total Return⁴</th>
+        <th>Price Change</th>
+        <th>Total Return⁴</th>
+        <th>Price Change</th>
+        <th>Total Return⁴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Sasseur REIT</td>
+        <td>-9.3%</td>
+        <td>-1.1%</td>
+        <td>-16.5%</td>
+        <td>8.0%</td>
+        <td>-14.4%</td>
+        <td>36.2%</td>
+    </tr>
+    <tr>
+        <td>FTSE Straits Times Index</td>
+        <td>-0.3%</td>
+        <td>4.7%</td>
+        <td>12.9%</td>
+        <td>27.7%</td>
+        <td>-5.8%</td>
+        <td>19.5%</td>
+    </tr>
+    <tr>
+        <td>FTSE ST REIT Index</td>
+        <td>0.3%</td>
+        <td>6.4%</td>
+        <td>-15.0%</td>
+        <td>-0.3%</td>
+        <td>-11.1%</td>
+        <td>20.6%</td>
+    </tr>
+  </tbody>
+</table>
+
+Source: Bloomberg
+
+<sup>3</sup> Computed based on closing prices. The 1-year return is for period 30 December 2022 to 29 December 2023; 3-year return is for period 30 December 2020 to 29 December 2023; and return since Sasseur REIT’s public listing (offering price of $0.80 per Unit) is for period 27 March 2018 to 29 December 2023.
+
+<sup>4</sup> Assumes dividends are reinvested.
+
+Since Sasseur REIT’s listing on 28 March 2018, the REIT’s total return of 36.2% has outperformed the FTSE Straits Times Index (19.5%) and the FTSE ST REIT Index (20.6%).
+
+<!-- PAGE 124 -->
+
+# Enterprise Risk Management
+
+**Enterprise Risk Management (ERM) is an integral part of the business strategy for Sasseur Real Estate Investment Trust (Sasseur REIT).** Sasseur Asset Management Pte. Ltd. (REIT Manager) practices a proactive approach towards risk management applied towards both strategic and operational levels. This approach enables Sasseur REIT to manage risks in a systematic and consistent manner, support its business objectives and strategy, thereby creating and preserving value.
+
+## RISK MANAGEMENT GOVERNANCE AND STRUCTURE
+
+The Board of Directors (Board) has overall responsibility for the governance of risk. The Board is responsible for setting Sasseur REIT’s risk appetite and risk tolerance limits as well as reviewing Sasseur REIT’s risk oversight structure to ensure appropriate accountability by risk owners, and that material risks are properly monitored in a regular and timely manner to detect deviations and ensure compliance. For these purposes, the Board is supported by the Audit and Risk Committee (ARC), which assists the Board in discharging risk management oversight responsibility by ensuring the establishment, review and assessment of Sasseur REIT’s policies as well as risk management and internal control systems.
+
+<table>
+  <thead>
+    <tr>
+        <th>Line of Defence</th>
+        <th>Visual Representation</th>
+        <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>4ᵗʰ line of defence:<br/>Board Oversight</td>
+        <td>Pyramid Level 4</td>
+        <td>Maintains oversight and monitors the adequacy and effectiveness of risk management processes and internal control systems</td>
+    </tr>
+    <tr>
+        <td>3ʳᵈ line of defence:<br/>Independent Assurance</td>
+        <td>Pyramid Level 3</td>
+        <td>Internal and external audits</td>
+    </tr>
+    <tr>
+        <td>2ⁿᵈ line of defence:<br/>Risk and Compliance Oversight</td>
+        <td>Pyramid Level 2</td>
+        <td>Provides direction and establishes policies and business rules</td>
+    </tr>
+    <tr>
+        <td>1ˢᵗ line of defence:<br/>Management</td>
+        <td>Pyramid Level 1</td>
+        <td>Performs and monitors day-to-day risk management activities</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 125 -->
+
+## ERM FRAMEWORK
+
+The REIT Manager is responsible for the implementation and practice of ERM across Sasseur REIT. The REIT Manager’s ERM framework is based on the principles and guidelines of the International Organisation for Standardisation (ISO) 31000 on Risk Management, and also guided by the Committee of Sponsoring Organisations of the Treadway Commission (COSO), and other leading best practices and guidelines.
+
+The ERM framework is also supplemented by an outsourced internal audit function which reviews the design and implementation of internal controls to provide reasonable assurance to the ARC on the adequacy and effectiveness of the risk management and internal control systems.
+
+## MANAGING MATERIAL RISKS
+
+For the financial year ended 31 December 2023 (FY2023), the REIT Manager, with the assistance of an external consultant, completed a comprehensive review of Sasseur REIT’s ERM framework, taking into consideration upcoming and emerging industry trends and market developments. As part of the review, risk surveys were conducted with key stakeholders to understand key risks and concerns. The external consultant also facilitated a risk prioritisation workshop with senior management and key stakeholders to identify risks which are of top priority to Sasseur REIT. The identified risks were subsequently validated with the ARC. The REIT Manager has also reviewed and updated Sasseur REIT’s risk parameters, key risk drivers and key risk consequences, and mitigating measures to manage identified risks. Action plans were also developed to further mitigate the risks to an acceptable level. Lastly, key risk indicators were established to define thresholds used by the REIT Manager for regular monitoring and reporting to the ARC.
+
+Details of Sasseur REIT’s material risks and mitigating actions are summarised in the table below.
+
+### 1. RISK IDENTIFICATION AND ANALYSIS
+
+* Setting the “tone from the top” to establish a “risk-aware” culture across all levels of the organisation
+
+* Proactive risk identification across all of Sasseur REIT’s activities
+
+### 2. RISK MEASUREMENT AND ASSESSMENT
+
+* Assess the level of risk based on likelihood of occurrence and impact by using quantitative and qualitative considerations
+
+### 3. RISK MANAGEMENT AND REPORTING
+
+* Implement appropriately designed internal control systems and procedures to manage risk that is consistent with Sasseur REIT’s risk appetite
+
+* Continually monitor and review the effectiveness of internal controls
+
+* Regular reporting to the ARC and Board
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk</th>
+        <th>Risk Description</th>
+        <th>Mitigating Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Strategic/Business Direction Risk</td>
+        <td>• Failure to identify and respond to the competitive and changing landscape in a timely manner<br/>• Failure to anticipate business trends and adapt to changes in the evolving business landscape<br/>• Poor decision making and oversight on business expansion, investments or disposals, including acquisitions in countries/properties that are not consistent with growth strategy, transactions at inappropriate prices or commercial terms<br/>• Inability to expand due to lack of expertise</td>
+        <td>• All investment proposals are subject to a rigorous and disciplined assessment, taking into consideration the asset valuation, yield and sustainability<br/>• The REIT Manager appoints external third-party consultants such as legal counsels and tax consultants to conduct rigorous due diligence of investment targets to ensure that the target is suitable for investment and complies with the requirements found in the SGX-ST Listing Manual and Code on Collective Investment Schemes<br/>• All investment decisions are tabled for deliberation and approval by the Board<br/>• Conduct adequate research and understanding of the markets where the respective assets are domiciled and the regulatory frameworks within which they reside<br/>• Constant review of the business environment, consumer spending data and profile and new/ emerging trends are discussed, with preliminary recommendations/ initiatives identified</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 126 -->
+
+# Enterprise Risk Management
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk</th>
+        <th>Risk Description</th>
+        <th>Mitigating Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Fund Performance<br/>Risk</strong></td>
+        <td>• Inability to meet performance targets set for the portfolio of assets and/or investor expectations</td>
+        <td>• Continuous asset enhancement initiatives aimed at upgrading Sasseur REIT’s outlets and aligning them with the rapidly changing consumer preferences in the retail market<br/>• Half-yearly tenants review exercise is conducted. Poor performing tenants will be replaced with new tenants that are expected to generate more sales<br/>• Monthly promotional activities are organised at Sasseur REIT’s outlets to increase sales and shoppers’ traffic<br/>• Monthly reporting to the Board on the performance of Sasseur REIT’s outlets</td>
+    </tr>
+    <tr>
+        <td><strong>Macroeconomic<br/>Risk</strong></td>
+        <td>• Failure to anticipate and respond to adverse short- and medium-term changes in local market conditions and global trends<br/>• Geopolitical tensions may threaten financial stability</td>
+        <td>• Continuous monitoring of economic indicators, such as GDP growth, employment rates, and consumer spending, in order to keep abreast on macroeconomic trends. In-depth market research allows for proactive decision-making based on economic forecasts<br/>• Active asset management strategy which involves regularly assessing the performance of individual properties, making strategic decisions on acquisitions and dispositions, and optimising the overall portfolio to respond to changing economic conditions<br/>• Interest rate hedging strategies are implemented to protect Sasseur REIT from the adverse effects of rising interest rates</td>
+    </tr>
+    <tr>
+        <td><strong>Talent Attraction<br/>and Retention Risk</strong></td>
+        <td>• Failure to attract and retain talent with the appropriate and required expertise/ competency to support Sasseur REIT’s operations and objectives</td>
+        <td>• Competitive salary and benefits packages to attract high-calibre professionals. Compensation structures are reviewed and adjusted regularly based on market trends<br/>• Robust recruitment strategies to identify and attract skilled individuals<br/>• Employee engagement programmes to foster a positive work environment<br/>• Regular feedback is obtained from employees to understand their concerns and address issues promptly<br/>• Training is provided to all employees to bridge any gaps in technical skillsets and develop soft skills</td>
+    </tr>
+    <tr>
+        <td><strong>Adverse External<br/>Event Risk</strong></td>
+        <td>• Occurrence of natural and/or man-made adverse events affecting Sasseur REIT’s assets and/or operations<br/>• Inadequate business impact analysis, planning for business continuity and disaster recovery may result in significant business interruption</td>
+        <td>• Risk assessments are conducted for each property in the portfolio to identify vulnerabilities to natural disasters<br/>• Comprehensive insurance coverage is secured for each property in the portfolio. Insurance policies are reviewed regularly to ensure alignment with property values and potential risks<br/>• Emergency preparedness plans are in place and updated regularly</td>
+    </tr>
+    <tr>
+        <td><strong>Funding/Liquidity<br/>Risk</strong></td>
+        <td>• Inability to raise sufficient funds for new investments/ acquisitions and/or maintain sufficient cashflow to support business operations, meet short-term financial obligations as they fall due, and refinance existing borrowings</td>
+        <td>• The REIT Manager actively monitors Sasseur REIT’s debt maturity profile, operating cash flows, availability of funding sources, gearing limits and bank covenants<br/>• Establish various banking facilities in order to meet Sasseur REIT’s capital, refinancing and operating needs</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 127 -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Risk</th>
+        <th>Risk Description</th>
+        <th>Mitigating Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><strong>Foreign Exchange Risk</strong></td>
+        <td>* Unfavourable exposure to Renminbi (RMB) against Singapore Dollars ($), affecting the distribution per Unit (DPU) paid out in $</td>
+        <td>* The REIT Manager uses RMB-denominated borrowings to match the revenue stream generated from its assets as a natural currency hedge<br/>* The REIT Manager enters into derivative contracts to hedge the cashflow in RMB<br/>* The REIT Manager enters into foreign currency forward contracts and cross-currency swaps as and when required to reduce foreign currency risk exposure on distribution<br/>* Regular monitoring of foreign exchange markets, economic indicators, and geopolitical events</td>
+    </tr>
+    <tr>
+        <td><strong>Regulatory Compliance Risk</strong></td>
+        <td>* Changes in the political environment or government regulations, affecting business operations<br/>* Failure to comply with applicable rules and regulations, or accepted industry practices (including cultural / political norms)</td>
+        <td>* The REIT Manager has established a compliance monitoring programme to ensure compliance with applicable regulatory requirements and relevant policies and procedures<br/>* Changes in rules, regulations and listing requirements are monitored on an ongoing basis and the Board is informed of any significant updates affecting Sasseur REIT and/or the REIT Manager<br/>* Trainings are provided to the Board and employees to ensure that they are kept abreast on updates to laws and regulations</td>
+    </tr>
+    <tr>
+        <td><strong>Cybersecurity Risk</strong></td>
+        <td>* Cybersecurity breaches to IT infrastructure and/or systems may compromise operations and data privacy regulations. Breaches include those relating to confidentiality, integrity and availability</td>
+        <td>* The REIT Manager has engaged a professional third-party IT service provider to manage cybersecurity risks and ensure availability, authorised access, accuracy and agility of IT systems<br/>* Closely monitor cyber security alerts issued by MAS and take remedial action where necessary<br/>* The REIT Manager has an Information Security Policy in order to maintain the integrity and availability of the data environment<br/>* IT security awareness training is conducted regularly to maintain a high level of IT security awareness among employees<br/>* The REIT Manager has a comprehensive cyber insurance policy in place to cover financial losses in the event of a cyber incident</td>
+    </tr>
+    <tr>
+        <td><strong>Environmental Risk</strong></td>
+        <td>* Physical risk arises from climate change resulting in increased occurrences of weather events such as flash floods, droughts, prolonged heatwaves and rising sea levels<br/>* Transition risk arises from changes in public policies and shift in stakeholder preferences</td>
+        <td>* Conduct climate scenario analysis to identify and assess climate-related risks and opportunities</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 128 -->
+
+## INTRODUCTION
+
+Sasseur Real Estate Investment Trust (Sasseur REIT) is a real estate investment trust listed on the Mainboard of the Singapore Exchange Securities Trading Limited (SGX-ST) on 28 March 2018 (Listing Date). Sasseur REIT is managed by Sasseur Asset Management Pte. Ltd. (the REIT Manager or the Company).
+
+The REIT Manager was appointed in accordance with the terms of the Deed of Trust constituting Sasseur REIT dated 30 October 2017 (as supplemented on 19 March 2018) (the Trust Deed).
+
+The primary role of the REIT Manager is to manage Sasseur REIT’s assets and liabilities for the benefit of the unitholders of Sasseur REIT (Unitholders) and set the strategic direction of Sasseur REIT in accordance with its mandate and make recommendations to DBS Trustee Limited, in its capacity as trustee of Sasseur REIT (the Trustee), on any investment or divestment opportunities for Sasseur REIT and the enhancement of the assets of Sasseur REIT in accordance with the stated investment strategy for Sasseur REIT. The research, evaluation and analysis required for this purpose are coordinated and carried out by the REIT Manager.
+
+Other functions and responsibilities of the REIT Manager include but are not limited to the following:
+
+a) using its best endeavours to conduct Sasseur REIT’s business in a proper and efficient manner and ensuring that its related parties will conduct all transactions with or for Sasseur REIT at an arm’s length basis and on normal commercial terms;
+
+b) coordinating the annual budget process and preparing the annual budget proposal of the REIT Manager and Sasseur REIT, with explanations for major variances, written commentary on key issues and any relevant assumptions, for approval by the directors of the REIT Manager (Directors);
+
+c) ensuring compliance with all applicable and relevant requirements, laws and regulations including but not limited to the Securities and Futures Act 2001 (the SFA), the Listing Manual of SGX-ST (the Listing Manual), the Code on Collective Investment Schemes (the CIS Code) including Appendix 6 to the CIS Code (the Property Funds Appendix) issued by the Monetary Authority of Singapore (MAS) and the Trust Deed;
+
+d) establishing a framework of prudent and effective controls which enables financial, operational, compliance and information technology risks to be managed;
+
+e) attending to all regular communications with the Unitholders; and
+
+f) supervising and overseeing the management of real estate (including but not limited to lease audit, systems control, data management and business plan implementation) in accordance with the provisions of the Trust Deed.
+
+The REIT Manager has developed and, on an ongoing basis, maintains sound and transparent policies and practices to meet the specific business needs of Sasseur REIT and provide a firm foundation for a trusted and respected business enterprise.
+
+The Board of Directors (the Board) and Management of the REIT Manager (the Management) aspire to the highest standards of corporate governance. The REIT Manager remains focused on complying with the substance and spirit of the principles of the Code of Corporate Governance 2018 (the Code) while achieving operational excellence and delivering Sasseur REIT’s long-term strategic objectives. The REIT Manager is fully committed in continuously improving its corporate governance practices as it firmly believes that it is essential in protecting the interests of the Unitholders.
+
+This report describes the corporate governance framework of Sasseur REIT and its subsidiaries (the Group), and practices that were in place throughout the financial year under review. The Board confirms that the REIT Manager had adhered to the principles and provisions of the Code, where they are applicable, relevant and practicable to the Group. Explanations have been provided for any deviations from the provisions of the Code or areas of non-compliance.
+
+<!-- PAGE 129 -->
+
+# (A) BOARD MATTERS
+
+## THE BOARD’S CONDUCT OF AFFAIRS
+
+**Principle 1: The company is headed by an effective Board which is collectively responsible and works with Management for the long-term success of the company.**
+
+The Board is collectively responsible for the long-term success of Sasseur REIT. The Board works with the Management to achieve this and the Management remains accountable to the Board.
+
+The Board is responsible for the REIT Manager’s corporate governance standards and policies, underscoring their importance to the REIT Manager. It recognises that good corporate governance establishes and maintains a legal and ethical environment, which is critical to the performance and success of the REIT Manager and essential for preserving and enhancing the interests of all stakeholders.
+
+The principal roles of the Board are to:
+
+* guide the corporate strategy and directions of the REIT Manager;
+
+* ensure that the Management discharges business leadership and demonstrates the highest quality of management skills with integrity and enterprise;
+
+* ensure that measures relating to corporate governance, financial regulations and other required policies are in place and enforced;
+
+* oversee the proper conduct of the REIT Manager through the Code of Conduct and Ethics;
+
+* set the appropriate tone-from-the top and desired organisational culture; and
+
+* ensure proper accountability within the REIT Manager.
+
+All Directors exercise due care and independent judgement and make decisions objectively at all times as fiduciaries in the best interests of Unitholders. Apart from the Board’s statutory duties and responsibilities, the Board provides leadership to the Chief Executive Officer (CEO) and the Management, and sets the strategic vision, direction and long-term objectives for Sasseur REIT. The key strategies of the REIT Manager are:
+
+* Active Asset Management and Asset Enhancement Strategy
+
+    - Achieve growth in revenue and sales and maintain optimal occupancy levels
+
+    - Implement proactive policies to improve the yields and enhance organic growth
+
+* Acquisition Growth Strategy
+
+    - Pursue selective acquisitions of quality income-producing properties used mainly for outlet mall purposes initially in the PRC and subsequently in other countries
+
+* Divestment Strategy
+
+    - To realise properties’ optimal market potential and value
+
+* Capital and Risk Management Strategy
+
+    - Employ an appropriate mix of debt and equity
+
+    - Utilise hedging strategies where appropriate
+
+<!-- PAGE 130 -->
+
+# Corporate Governance
+
+The REIT Manager believes in being a responsible corporate citizen and acknowledges its responsibilities toward society, the environment and its stakeholders. The REIT Manager seeks to manage its business in a fair and ethical manner to demonstrate its consideration towards employees and the wider community. The REIT Manager is committed to providing a safe and healthy working environment for its employees and shoppers of Sasseur REIT’s properties.
+
+To assist the Board in the discharge of its oversight function, the Audit and Risk Committee (ARC) and the Nominating and Remuneration Committee (NRC) have been constituted with clear written terms of reference. The ARC and NRC play an important role in ensuring good corporate governance. The Board has also constituted the Sustainability Committee (SC) which is guided with clear written terms of reference. The SC serves the primary purpose of, among others, incorporating sustainability issues as part of Sasseur REIT’s and the REIT Manager’s strategic formulation and approves, manages and monitors material environmental, social and governance (ESG) factors.
+
+Each of the ARC, NRC and SC (collectively the Board Committees) operates under delegated authority from the Board, with the Board retaining overall oversight. The Board may form other Board committees as and when required. Membership of the Board Committees is managed to ensure an equitable distribution of responsibilities among Board members, to maximise the effectiveness of the Board and to foster active participation and contribution from Board members. Diversity of experience, knowledge and appropriate skills are considered in the composition of the respective Board Committees.
+
+The Board meets at least once every quarter, and as required by business imperatives. Board and Board Committees’ meetings are scheduled prior to the start of each financial year. Where exigencies prevent a Director from attending a Board meeting in person, the Constitution of the REIT Manager permits the Director to participate via audio or video conference or by similar electronic communication means. If a Director is unable to attend a Board or Board Committee meeting, he or she still receives all the papers and materials for discussion at that meeting. He or she will review them and will advise the Chairman of the Board or the relevant Board Committee of his or her views and comments on the matters to be discussed so that they can be conveyed to other participants present at the meeting. The Board and Board Committees may also make decisions by way of resolutions in writing.
+
+In each meeting where matters requiring the Board’s approval are to be considered, all members of the Board participate in the discussions and deliberations. Resolutions in writing are circulated to all Directors for their consideration and approval. The exception is where a Director has a conflict of interest in a particular matter in which case, he or she will be required to recuse himself or herself from the deliberations and abstain from voting on the matter. This principle of collective decisions adopted by the Board ensures that no individual influences or dominates the decision-making process.
+
+The number of meetings held by the Board, the Board Committees as well as the attendance of Directors at the meetings held during the financial year ended 31 December 2023 (FY2023) are summarised in the table below:
+
+<table>
+  <thead>
+    <tr>
+        <th>Meetings</th>
+        <th>Board of Directors</th>
+        <th>ARC</th>
+        <th>NRC</th>
+        <th>SC</th>
+        <th>AGM</th>
+    </tr>
+    <tr>
+        <th>Total meetings held in FY2023</th>
+        <th>6</th>
+        <th>5</th>
+        <th>2</th>
+        <th>1</th>
+        <th>1</th>
+    </tr>
+    <tr>
+        <th>Name of Director</th>
+        <th>Attended</th>
+        <th>Attended</th>
+        <th>Attended</th>
+        <th>Attended</th>
+        <th>Attended</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Mr Xu Rongcan</td>
+        <td>6</td>
+        <td>N.A.</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Ms Yang Xue</td>
+        <td>5</td>
+        <td>N.A.</td>
+        <td>N.A.</td>
+        <td>N.A.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Dr Gu Qingyang</td>
+        <td>6</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Mario Boselli</td>
+        <td>4</td>
+        <td>N.A.</td>
+        <td>N.A.</td>
+        <td>N.A.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Cheng Heng Tan</td>
+        <td>6</td>
+        <td>5</td>
+        <td>N.A.</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mr Wu Geng</td>
+        <td>6</td>
+        <td>5</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 131 -->
+
+The REIT Manager believes in the overall contribution of its Directors beyond their attendance at formal Board and Board Committee meetings. The REIT Manager believes that a Director’s contributions based on his or her attendance at formal meetings alone would not represent his or her overall contributions, which include being accessible to the Management for guidance or exchange of views outside of the formal environment of Board and Board Committee meetings.
+
+Apart from matters that specifically require the Board’s approval, to assist the Board in discharging its oversight function, it has delegated authority to the Board Committees and the Management for transactions below certain limits to facilitate operational efficiency. In connection therewith, the Board has adopted a set of delegation of authority guidelines which establishes approval limits to facilitate operational efficiency as well as arrangements for inter alia (i) annual budget in respect of annual operating and capital expenditure budget, and payment for expenditures within approved budgets; (ii) interested person transactions within the approved threshold limits; (iii) treasury matters such as bank loan or credit facilities, financial derivative instruments, investments in financial assets, opening of bank accounts, shareholder or intercompany loans (including signing of shareholder or intercompany loan agreements); and (iv) new investments and divestments.
+
+Matters requiring specific Board approval have been clearly communicated to the Management in writing. This includes business strategy, issuance of new Units, income distributions and other returns to Unitholders, matters which involve a conflict of interest with a controlling Unitholder or a Director, acquisitions and disposals, approval of annual budgets, financial plans, business and operational updates, unaudited half-yearly and full-year result announcements and audited financial statements.
+
+Upon appointment, each new Director will be given a formal appointment letter setting out the terms of his or her appointment as well as his or her duties and obligations, including his or her responsibilities and fiduciaries, and on the policies relating to conflict of interest. A tailored induction and orientation programme is also conducted to provide the new Director with information on the business activities, strategic direction, policies and corporate governance practices of the REIT Manager, as well as his or her statutory duties and other duties and responsibilities as a Director. New Directors who have no prior experience as a director of an issuer listed on the SGX-ST will undergo training in the roles and responsibilities of a listed issuer as prescribed under Rule 210(5)(a) of the Listing Manual. The costs of these trainings are borne by the REIT Manager.
+
+To keep pace with changes to regulations and accounting standards, where these changes have an important bearing on the disclosure obligations of the REIT Manager or its Directors, the Directors are briefed either during Board meetings or at specially convened sessions involving the relevant advisers and professionals, if necessary, or via circulation of Board papers. The Management will also provide the Board with relevant and adequate information in a timely manner through regular updates, and at least every quarter during the quarterly Board meetings on financial results, market trends and business developments.
+
+To ensure that the Directors can fulfil their obligations and to continually improve the performance of the Board, all Directors are encouraged to undergo continual professional development during the term of their appointment, and are provided opportunities to develop and maintain their skills and knowledge. Directors are also encouraged to be members of the Singapore Institute of Directors (SID) to receive updates and training from SID in order to stay abreast of relevant developments in financial, legal and regulatory requirements, and business trends. The costs of arranging and funding of the training of Directors will be borne by the REIT Manager. The REIT Manager maintains a training record to track Directors’ attendance at training and professional development courses.
+
+In FY2023, the training and professional development courses for Directors included seminars organised by SID. As prescribed under Rule 720(7) of the Listing Manual, all Directors have attended a training on sustainability matters organised by SID.
+
+An effective and robust Board, whose members engage in open and constructive debate to develop and refine proposals on strategy, is fundamental to good corporate governance. In this regard, the Board must be kept well-informed of Sasseur REIT’s business and affairs and the industry in which Sasseur REIT operates.
+
+The ARC and the Board meet at least once every quarter. At each Board meeting, the CEO provides updates on Sasseur REIT’s business and operations, while the Chief Financial Officer (CFO) provides updates on financial performance. Presentations in relation to specific business areas are also made by members of the Management to allow the Board to develop a good understanding of the progress of Sasseur REIT’s business and promote active engagement between the Board and the Management. Where necessary, the CEO or the CFO also briefs the relevant Board member(s) prior to the Board and/or Board Committee meetings to facilitate a more effective discussion at these meetings.
+
+<!-- PAGE 132 -->
+
+# Corporate Governance
+
+<u>Provision of Information to the Board and the Board Committees</u>
+
+The REIT Manager recognises the importance of providing the Board with complete and adequate information on a timely basis prior to Board meetings and on an ongoing basis, to enable the Directors to make informed decisions to discharge their duties and responsibilities. The Board and Board Committee papers are generally sent to Directors at least three days before each of the Board or Board Committee meetings, to provide Directors with sufficient time to review and consider the matters tabled for discussion. However, sensitive matters may be tabled at the meeting itself or discussed without any papers being distributed prior to the meeting. Members of the Management who can provide additional insight into the matters at hand would be present at the relevant time during the Board or Board Committee meeting. The Board has separate and independent access to the Management for further clarification, if required.
+
+<u>Access to the Management, Company Secretary and Independent Professional Advisers</u>
+
+The Chairman, the CEO and the relevant members of the Management are present at Board and Board Committee meetings to address any queries which the Board or Board Committee members may have. In addition, Board members have separate and independent access to the Management, the Company Secretary and independent professional advisers (where necessary) at the REIT Manager’s expense.
+
+The Company Secretary prepares minutes of the Board and Board Committee meetings. He assists the Chairman of the Board and the Board Committees in ensuring that proper procedures are followed and ensure that the REIT Manager’s Constitution, the Board Committees’ terms of reference, the Trust Deed, relevant rules, regulations, best practices, and internal policies, including applicable provisions of the Property Funds Appendix, are complied with. Under the direction of the Chairman of the Board and the Board Committees, the Company Secretary is responsible for ensuring that information flows within and among the Board, the Board Committees and the Management. He also works with the Management to ensure that the Board and Board Committee papers are provided to each Director ahead of meetings. In the year under review, the Company Secretary or in his absence, his representative, attended all Board meetings. The appointment and/or change of the Company Secretary are subject to approval by the Board.
+
+Where decisions to be taken require expert opinion or specialised knowledge, the Directors, whether as a group or individually, may seek independent professional advice as and when necessary, in furtherance of their duties at the REIT Manager’s expense. The appointment of such independent professional adviser is subject to approval by the Board.
+
+The CEO, CFO and the Company Secretary are the primary channels of communication between the REIT Manager and the SGX-ST.
+
+<!-- PAGE 133 -->
+
+# BOARD COMPOSITION AND GUIDANCE
+
+**Principle 2: The Board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interests of the company.**
+
+The Board of the REIT Manager comprises six (6) Non-Executive Directors, of whom four (4) are Independent Directors which constitute majority of the Board, in compliance with Provisions 2.2 and 2.3 of the Code. There is no alternate director appointed.
+
+The current composition of the Directors in the Board and Board Committees are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th>Name of Director</th>
+        <th>ARC</th>
+        <th>NRC</th>
+        <th>SC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Mr Xu Rongcan (Non-Executive and Non-Independent Chairman)</td>
+        <td>-</td>
+        <td>Member</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Ms Yang Xue (Non-Executive and Non-Independent Director)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Dr Gu Qingyang (Lead Independent Director)</td>
+        <td>Member</td>
+        <td>Chairman</td>
+        <td>Chairman</td>
+    </tr>
+    <tr>
+        <td>Mr Mario Boselli (Independent Director)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Mr Cheng Heng Tan (Independent Director)</td>
+        <td>Chairman</td>
+        <td>-</td>
+        <td>Member</td>
+    </tr>
+    <tr>
+        <td>Mr Wu Geng (Independent Director)</td>
+        <td>Member</td>
+        <td>Member</td>
+        <td>Member</td>
+    </tr>
+  </tbody>
+</table>
+
+The Board comprises individuals who are business leaders and professionals with legal, audit and accounting, retail management and real estate backgrounds. Together, the Board as a group provides an appropriate balance and diversity of skills with core competencies such as industry knowledge, business and management experience, strategic planning and customer-based experience. The varied backgrounds of each Director enable the Management to benefit from their diverse expertise and experience to further the interests of Sasseur REIT. Each Director brings to the Board skills, experience, insights and sound judgement which, together with his or her strategic networking relationships, serve to further the interests of Sasseur REIT. Profiles of the Directors are provided on pages 40 to 43 of the Annual Report.
+
+The Board embraces diversity and has adopted a Board Diversity Policy. The Board recognises that a diverse Board is beneficial to Sasseur REIT, the REIT Manager and the Management as Board diversity introduces fresh perspectives into the Boardroom, adds value to the policies and practices of the REIT Manager, supports the REIT Manager’s achievement of its strategic objectives and enhances long-term sustainable performance. A diverse Board includes and leverages on the differences between the Directors in terms of skills, knowledge and experience, gender, age, ethnicity and culture, geography and tenure. These aspects of diversity will be considered in determining the optimum composition of the Board and when possible, balanced appropriately.
+
+The NRC has set an objective to ensure that the Board comprises Directors with various skills, knowledge and experience, gender, age, ethnicity and culture, geography and tenure. As at 31 December 2023, the Board composition reflects the objectives set out in the Board Diversity Policy. The current Board comprises one (1) female Director as well as Directors with various skills, knowledge and experience, age groups, ethnicity and culture, geography and tenure. The Board is therefore of the view that it has achieved its objectives under the Board Diversity Policy. As part of the Board renewal process, the NRC will review these objectives from time to time and may recommend changes or may recommend additional objectives to achieve greater diversity.
+
+The NRC reviews from time to time the size and composition of the Board with a view to ensure that the size of the Board is appropriate in facilitating effective decision-making, taking into account the scope and nature of the operations of the Group, and that the Board has a strong element of independence. The Board, with the concurrence of the NRC, is of the view that the current Board size is appropriate taking into consideration the scope and nature of Sasseur REIT’s operations.
+
+<!-- PAGE 134 -->
+
+As part of the process of assessing the independence of each Director as established by the Board, each of the Independent Directors and members of the ARC are required to confirm, upon appointment, as well as on an annual basis, whether there are any material relationships based on the definition of independence set out in the Code, the Listing Manual and the Securities and Futures (Licensing and Conduct of Business) Regulations (SF(LCB) Regulations) which would render him non-independent.
+
+An Independent Director is one who:
+
+i) is independent in conduct, character and judgement, and has no relationship with the REIT Manager, its related corporations, shareholders who hold 5.0% or more of the voting shares (the Substantial Shareholders) of the REIT Manager, or Unitholders who hold 5.0% or more of the Units (the Substantial Unitholders) in issue, or its officers that could interfere, or be reasonably perceived to interfere, with the exercise of his independent business judgement, in the best interests of the Unitholders;
+
+ii) is independent from any management and business relationship with the REIT Manager and Sasseur REIT, and from every Substantial Shareholder of the REIT Manager and every Substantial Unitholder;
+
+iii) is not a Substantial Shareholder of the REIT Manager or a Substantial Unitholder;
+
+iv) has not served on the Board for a continuous period of nine (9) years or longer;
+
+v) is not employed or has been employed by the REIT Manager or Sasseur REIT or any of their related corporations in the current or any of the past three (3) financial years; and
+
+vi) does not have an immediate family member who is employed or has been employed by the REIT Manager or Sasseur REIT or any of their related corporations in the current or any of the past three (3) financial years and whose remuneration is or was determined by the Board.
+
+The relevant Directors had provided declarations of their independence which have been deliberated upon by the NRC. The NRC, having conducted an annual review of the independence, is of the view that the Independent Directors are independent and that no individual or small group of individuals dominate the Board’s decision-making process, and has made its recommendations to the Board.
+
+The Board has determined, after taking into account the views of the NRC, each of Dr Gu Qingyang, Mr Mario Boselli, Mr Cheng Heng Tan and Mr Wu Geng to be independent in terms of their character and judgement in the discharge of their responsibilities as Directors and there are no relationships or circumstances which are likely to affect, or could appear to affect, the Director’s judgement. Each member of the NRC had recused himself from deliberations on his own independence.
+
+Mr Xu Rongcan and Ms Yang Xue are Executive Directors of the Sponsor, which is a controlling Unitholder of Sasseur REIT. As such, Mr Xu Rongcan and Ms Yang Xue are Non-Executive and Non-Independent Directors of the REIT Manager.
+
+None of the Directors have served on the Board beyond nine (9) years from the date of his or her first appointment.
+
+As there are no Executive Directors, all Non-Executive and Non-Independent Directors and the Independent Directors contribute to the Board by monitoring and reviewing the Management’s performance against goals and objectives. The views and opinions of the Independent Directors and the Non-Executive and Non-Independent Directors provide alternative perspectives to Sasseur REIT’s business and enable the Board to make informed and balanced decisions. This also enables the Board to interact and work with the Management to help shape the strategic process.
+
+When reviewing the Management’s proposals or decisions, the Independent Directors bring their objective independent judgement to bear on business activities and transactions involving conflicts of interest and other complexities.
+
+The Non-Executive and Non-Independent Directors and Independent Directors meet regularly without the presence of the Management as and when the need arises. The Chairman of such meetings provides feedback to the Board and/or the Chairman as appropriate.
+
+<!-- PAGE 135 -->
+
+# CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+
+*Principle 3: There is a clear division of responsibilities between the leadership of the Board and Management, and no one individual has unfettered power of decision-making.*
+
+Mr Xu Rongcan (Non-Executive and Non-Independent Chairman of the Board) and Ms Tan Hong Lye, Cecilia (CEO of the REIT Manager) are two (2) separate persons and are not immediate family members. This ensures a balance of power and authority, increased accountability and greater capacity of the Board for independent decision making.
+
+The Chairman is responsible for leadership of the Board and for facilitating the conditions for the overall effectiveness of the Board, the Board Committees and individual Directors. This includes setting the agenda of the Board meetings in consultation with the CEO and promoting constructive engagement among the Directors as well as between the Board and the CEO on strategic issues. The Chairman plays a significant leadership role by providing clear oversight, direction, advice and guidance to the CEO and the Management on strategies. He also ensures that the Directors work together with the Management in a constructive manner to address strategic, business, operational, capital management, risk, corporate governance and financial issues. At the Board meetings, the Chairman ensures that adequate time is available for discussion of all agenda items and strategic issues. At annual general meetings and other Unitholders’ meetings, the Chairman will seek to ensure that there is constructive dialogue between Unitholders, the Board and the Management.
+
+The CEO of the REIT Manager, together with the Management, has full executive responsibilities over the business direction and strategies, and operational decisions in managing Sasseur REIT.
+
+As the Chairman is not an Independent Director, in accordance with Provision 3.3 of the Code and in the spirit of good corporate governance, Dr Gu Qingyang has been appointed as the Lead Independent Director of the Board. The principal responsibilities of the Lead Independent Director are to act as Chairman of the Board when matters concerning the Chairman are to be considered, and to be available to the Board and Unitholders for communication of Unitholders’ concerns when other channels of communication through the Chairman or CEO are inappropriate or inadequate, as well as for leading all deliberations on feedback regarding the performance of the CEO and any interested party transactions. As the Lead Independent Director, Dr Gu Qingyang has the discretion to hold meetings with the Independent Directors (without the presence of the Management) as he deems appropriate or necessary, and he will provide feedback to the Chairman, where appropriate. Contact details of the Lead Independent Director is available on Sasseur REIT’s website at <u>https://www.sasseurreit.com/contact.html</u>.
+
+The division of responsibilities between the Chairman, the Lead Independent Director and the CEO have been set out in writing and approved by the Board.
+
+<!-- PAGE 136 -->
+
+# Corporate Governance
+
+**BOARD MEMBERSHIP**
+
+*Principle 4: The Board has a formal and transparent process for the appointment and re-appointment of directors, taking into account the need for progressive renewal of the Board.*
+
+The Board has established the NRC which comprises three (3) Non-Executive Directors, a majority of whom, including the NRC Chairman are Independent Directors. The composition of the NRC is as follows:
+
+<table>
+  <tbody>
+    <tr>
+        <td>Dr Gu Qingyang</td>
+        <td>Lead Independent Director</td>
+        <td>NRC Chairman</td>
+    </tr>
+    <tr>
+        <td>Mr Wu Geng</td>
+        <td>Independent Director</td>
+        <td>NRC member</td>
+    </tr>
+    <tr>
+        <td>Mr Xu Rongcan</td>
+        <td>Non-Executive and Non-Independent Chairman</td>
+        <td>NRC member</td>
+    </tr>
+  </tbody>
+</table>
+
+The NRC has written terms of reference setting out the scope and authority in performing the functions of the NRC, which include but are not limited to the following:
+
+a) reviewing the structure, size and composition (including the skills, gender, age, qualification, experience and diversity) of the Board and the Board Committees (taking into account Rule 210(5)(c) of the Listing Manual and Provisions 2.1 to 2.4 of the Code). The NRC will then recommend changes, if any, to the Board;
+
+b) identifying and nominating candidates to fill Board vacancies as they occur;
+
+c) following the Board’s confirmation, the NRC will send the newly appointed Director a formal appointment letter which clearly sets out his or her roles and responsibilities, authority, and the Board’s expectations in respect of his or her time commitment as a Director of the REIT Manager;
+
+d) recommending the membership of the Board Committees to the Board;
+
+e) reviewing the independence status of Independent Directors annually or when necessary;
+
+f) developing the performance evaluation framework for the Board, the Board Committees and individual Directors. The NRC proposes objective performance criteria for the Board, the Board Committees and individual Directors. The NRC conducts the evaluations, analyses the findings and reports the results to the Board and will also recommend areas that need improvement;
+
+g) recommending that the Board removes or re-appoints a Non-Executive Director at the end of his or her term. In making such recommendations, the NRC considers the Director’s performance, commitment and his or her ability to continue contributing to the Board;
+
+h) reviewing other directorships held by each Director and decide whether or not a Director is able to carry out, and has been adequately carrying out, his or her duties as a Director, taking into consideration the Director’s number of listed company directorships and principal commitments, and the NRC may in its discretion determine the maximum number of listed company directorships which any Director may hold;
+
+i) identifying and developing training programmes or schedules for the Board and assisting with similar programmes for the Board Committees. The NRC will ensure that all Board appointees undergo the appropriate induction programme;
+
+j) reviewing and ensuring that there is a clear division of responsibilities between the Chairman and CEO of the REIT Manager in place;
+
+<!-- PAGE 137 -->
+
+k) providing the Board with its succession plans for the Board Chairman, Directors, CEO and key management personnel of the REIT Manager;
+
+l) keeping up to date with developments in corporate governance initiatives, changes to relevant legislations, strategic issues and commercial changes that may affect the REIT Manager and the industry in which it operates;
+
+m) undertaking such other functions and duties as may be required by the Board under the Code, statute or Listing Manual (where applicable); and
+
+n) taking into account all relevant legal and regulatory requirements, including the principles and provisions of the Code, when determining the REIT Manager’s remuneration policies. In doing so, the NRC also considers the REIT Manager’s risk appetite and ensure that the policies are aligned to long-term goals.
+
+In respect of the Directors’ other listed company directorships and principal commitments, a maximum limit of nine (9) has been set for the number of listed company directorships which any Director may hold. The Board takes the view that the number of listed company directorships that an individual may hold should be considered on a case-by-case basis, as a person’s available time and attention may be affected by many different factors, such as his or her individual capacity, whether he or she is in full-time employment, the nature of his or her other responsibilities and his or her near-term plan regarding some of the other appointments. The contributions by Directors to and during meetings of the Board and the Board Committees as well as their attendance at such meetings, in addition to each of their principal commitments, should also be taken into account. The NRC will review the number of listed company directorships of the Directors on an annual basis or from time to time when the need arises. A Director with multiple directorships is expected to ensure that he or she can devote sufficient time and attention to the affairs of the REIT Manager.
+
+Pursuant to its Terms of Reference, the NRC is required to determine if a Director has been adequately carrying out his or her duties as a Director of the REIT Manager, particularly if he or her has multiple Board representations in listed companies and other principal commitments. In view of this, the NRC, having considered the confirmations received by each Director, is of the view that such multiple board representations (where applicable) do not hinder each Director from carrying out his or her duties as a Director of the REIT Manager. The NRC is satisfied that sufficient time and attention have been accorded by these Directors to the affairs of the REIT Manager.
+
+The NRC is responsible for reviewing the succession plans for the Board, in particular the appointment and/or replacement of the Chairman, the CEO and key management personnel, and the appointment of Directors (including alternate directors, if applicable). The NRC will lead and make recommendations to the Board on the appointment of new Directors, if necessary, as follows:
+
+i) the NRC will review the balance and diversity of skills, experience, age, gender, expertise and qualification required by the Board, as well as the optimal size of the Board required to facilitate decision-making;
+
+ii) following such review and in consultation with the Management, the NRC will assess the relevant attributes and corresponding representation and desired profile, underpinning any particular appointment;
+
+iii) external support (for example, search consultants) may be used to source for potential candidates if required. Directors and the Management may also make suggestions;
+
+iv) suitable candidates are carefully evaluated by the NRC so that recommendations made on proposed candidates are objective and well supported. The NRC meets shortlisted candidates to assess suitability, and to ensure the candidates are aware of the level of commitment required; and
+
+v) the NRC recommends the proposed appointee(s) for the Board’s consideration. New Directors are formally appointed by way of a Board resolution.
+
+<!-- PAGE 138 -->
+
+In reviewing succession plans, the Board has in mind the REIT Manager's strategic priorities and the factors affecting the long-term success of the REIT Manager. Further, the Board aims to maintain an optimal Board composition by considering the trends affecting the REIT Manager, reviewing the skills needed and identifying gaps, including considering whether there is an appropriate level of diversity of thought. In addition, the Board considers different time horizons for succession planning as follows: (i) long-term planning, to identify competencies needed for the REIT Manager's strategy and objectives; (ii) medium-term planning, for the orderly replacement of Board members and key management personnel, and (iii) contingency planning, for preparedness against sudden and unforeseen changes.
+
+All new appointments are subject to the recommendations of the NRC based on the following objective criteria:
+
+i) integrity;
+
+ii) independent judgement;
+
+iii) diversity – possess core competencies that meet the current needs of Sasseur REIT and the REIT Manager and complement the skills and competencies of the existing Directors;
+
+iv) ability to commit time and effort to carry out duties and responsibilities effectively;
+
+v) the Board should comprise Directors with a broad range of commercial experience including expertise in audit and accounting, risk management, legal matters and industry knowledge; and
+
+vi) financial literacy.
+
+The appointment of Directors, or to change the nature of the appointment of each Director from non-executive to executive is subject to the approval of the MAS.
+
+The NRC is also responsible for determining the independence of each Director on an annual basis and had adopted the definition of independence set out in the Code, the Listing Manual and the SF(LCB) Regulations. The process for assessing the independence of each Director is set out on page 132.
+
+The listed company directorships and principal commitments of each Director are provided on pages 40 to 43 of the Annual Report.
+
+<!-- PAGE 139 -->
+
+BOARD PERFORMANCE
+
+Principle 5: The Board undertakes a formal annual assessment of its effectiveness as a whole, and that of each of its board committees and individual directors
+
+Whilst board performance is ultimately reflected in the long-term performance of Sasseur REIT, the Board believes that engaging in a regular process of evaluation of board performance in order to identify key strengths and areas for improvement is essential for effective stewardship and attaining success for Sasseur REIT.
+
+As part of the REIT Manager’s commitment towards improving corporate governance, the Board has approved and implemented a process to evaluate the effectiveness of the Board as a whole, each of the Board Committees and individual Directors on an annual basis. As part of the process, questionnaires are sent to the Directors, and the evaluation results are aggregated and reported to the NRC. The overall evaluation results are deliberated upon by the NRC and also shared with the Board and follow up action is taken where necessary with a view to enhancing the effectiveness of the Board, the Board Committees and individual Directors in the discharge of its and their duties and responsibilities. The evaluation process for the Board, each of the Board Committees and individual Directors for FY2023 was facilitated by Boardroom Corporate & Advisory Services Pte. Ltd. (Boardroom), the REIT Manager’s corporate secretarial agent. Save for Boardroom’s appointment as external facilitator to conduct the evaluation and as the REIT Manager’s corporate secretarial agent and unit registrar, Boardroom does not have any other connection with the REIT Manager or any of the Directors.
+
+<u>Board and Board Committees</u>
+
+The evaluation categories covered in the questionnaire include Board composition, Board processes, strategy, access to information, Board conduct of affairs, internal controls and risk management, Board accountability, relations with the CEO, standards of conduct and Board’s and Board Committees’ effectiveness. As part of the questionnaire, the Board also considers whether the creation of value for Unitholders has been taken into account in the decision-making process. For FY2023, the outcome of the evaluation was consistently good and the Directors as a whole provided affirmative ratings across all the evaluation categories.
+
+<u>Individual Directors</u>
+
+The evaluation categories covered in the questionnaire include knowledge and experience, attendance and preparation for Board meetings, contributions, initiative, knowledge of Sasseur REIT’s business and participation in Board meetings. For FY2023, the outcome of the evaluation was consistently good and each of the Directors as a whole received affirmative ratings across all the evaluation categories.
+
+The Board also recognises that contributions by an individual Director can take different forms including providing objective perspectives on issues, facilitating business opportunities and strategic relationships, and accessibility to the Management outside of the formal environment of Board and Board Committees’ meetings.
+
+<!-- PAGE 140 -->
+
+# Corporate Governance
+
+** (B) REMUNERATION MATTERS **
+
+** PROCEDURES FOR DEVELOPING REMUNERATION POLICIES **
+
+*Principle 6: The Board has a formal and transparent procedure for developing policies on director and executive remuneration, and for fixing the remuneration packages of individual directors and key management personnel. No director is involved in deciding his and her own remuneration.*
+
+** LEVEL AND MIX OF REMUNERATION **
+
+*Principle 7: The level and structure of remuneration of the Board and key management personnel are appropriate and proportionate to the sustained performance and value creation of the company, taking into account the strategic objectives of the company.*
+
+** DISCLOSURE ON REMUNERATION **
+
+*Principle 8: The company is transparent on its remuneration policies, level and mix of remuneration, the procedure for setting remuneration, and the relationships between remuneration, performance and value creation.*
+
+The composition of the NRC has been set out on page 134. The NRC has written terms of reference setting out its scope and authority in performing the functions of a remuneration committee, which include but are not limited to the following:
+
+a) taking into account all relevant legal and regulatory requirements, including the principles and provisions of the Code, when determining the REIT Manager’s remuneration policies. In doing so, the NRC considers the REIT Manager’s risk appetite and ensures that the policies are aligned to long-term goals;
+
+b) ensuring that the level and structure of remuneration of the Board and the key management personnel are appropriate and proportionate to the sustained performance and value creation of the REIT Manager, taking into account the strategic objectives of the REIT Manager;
+
+c) setting the remuneration policy for Directors and key management personnel;
+
+d) reviewing and approving fees for each Director of the REIT Manager and making recommendations for the Board’s approval;
+
+e) reviewing and approving salary for each key management personnel and making recommendations for the Board’s approval;
+
+f) monitoring the level and structure of remuneration for key management personnel relative to internal and external peers and competitors;
+
+g) ensuring that the remuneration of the Non-Executive Directors is appropriate to the level of contribution, taking into account factors such as effort, time spent, and responsibilities;
+
+h) reviewing the remuneration of employees related to the Directors, CEO or substantial shareholders, if any, to ensure that their remuneration packages are in line with staff remuneration guidelines and commensurate with the respective job scopes and level of responsibilities. Bonuses, pay increases and/or promotion for these related employees will also be subject to the review and approval of the NRC;
+
+i) reviewing ongoing appropriateness and relevance of the REIT Manager’s remuneration policy (including but not limited to Directors’ fees, salaries, allowances, bonuses, options, share-based incentives and awards and benefits-in-kind) and other benefit programmes (where appropriate);
+
+j) obtaining reliable, up-to-date information on the remuneration practices of other companies and the relevant market benchmarks through the appointment of external consultants;
+
+<!-- PAGE 141 -->
+
+k) overseeing any major changes in employee benefits or remuneration structures;
+
+l) reviewing the design of all short-term and long-term incentive plans for approval by the Board and shareholders;
+
+m) reviewing the REIT Manager’s obligations arising in the event of termination of each Director’s and executive officer’s contracts of service and ensuring that such contracts of service contain fair and reasonable termination clauses which are not overly generous;
+
+n) setting performance measures and determining targets for any performance-related pay schemes operated by the REIT Manager;
+
+o) working and liaising, as necessary, with all other Board Committees on any other matters connected with remuneration matters; and
+
+p) undertaking such other functions and duties as may be required by the Board under the Code, statue or Listing Manual (where applicable).
+
+Sasseur REIT is externally managed by the REIT Manager and accordingly has no personnel of its own. Directors’ fees of all Directors and remuneration of the employees of the REIT Manager are paid by the REIT Manager and not by Sasseur REIT. The REIT Manager adopts the principle that remuneration matters should be appropriately structured and benchmarked with good market practices to attract qualified talent to grow and manage its business. The remuneration structure supports the continuous development of the management bench strength to ensure robust talent management and succession planning.
+
+The underlying principles governing the REIT Manager’s remuneration policy for its key management personnel are as follows:
+
+* Rewarding and motivating the Management team to work towards achieving the strategic goals, business results and performance of Sasseur REIT and the REIT Manager; and
+
+* Enhancing the retention of key talents to build strong organisational capabilities and ensuring competitive remuneration relative to the appropriate external talent markets.
+
+The NRC is responsible for approving all key performance indicators (KPIs) and targets to drive the performance of Sasseur REIT and the REIT Manager. The REIT Manager has implemented a performance-based remuneration system, reviewed and approved by the NRC, utilising specific KPIs. The core KPIs relate to achieving significant corporate milestones in debt capital management, acquisition of new assets, effectiveness of investor relations activities in respect of the market performance of Sasseur REIT in terms trading volume, trading yield and relative performance to FTSE ST Real Estate Investment Trusts Index, and the extent of research coverage of Sasseur REIT. Other KPIs relate to cultivating strong teamwork and positive corporate culture. These key performance indicators are designed to not only measure performance but also to incentivize the senior management and employees of the REIT Manager, fostering resilience and ensuring continued success of Sasseur REIT.
+
+At present, there are four (4) key management personnel (including the CEO). In arriving at the annual remuneration package for the CEO and key management personnel, the NRC takes into consideration the remuneration policy and framework, performance of the REIT Manager in relation to the approved KPIs and makes reference to compensation benchmarks within the industry, as appropriate. The NRC have reviewed and ensured that the level and structure of remuneration for the CEO, key management personnel and Directors align with the long-term interests and risk management policies of the REIT Manager.
+
+The key objectives and features of the REIT Manager’s policy on Director remuneration are as follows:
+
+* the level of Directors’ fees should be appropriate (but not excessive) to attract and motivate the Directors to provide good stewardship of the REIT Manager and the Group;
+
+* Directors’ fees are reviewed annually based on each Director’s level of responsibilities, holding appointments as Chairman or member of the Board Committees and subject to the approval of the REIT Manager’s shareholder;
+
+* to ensure that fees received by each Director are commensurate with his or her responsibilities and time spent, each Director is paid a basic retainer and Directors who perform additional services through the Board Committees are paid additional fees for such services; and
+
+* no Director is involved in deciding his or her own remuneration.
+
+<!-- PAGE 142 -->
+
+# Corporate Governance
+
+The Board had endorsed, with the concurrence of the NRC, an amount of $804,000 as Directors’ fees for FY2023. In reviewing the Directors’ fees, the NRC took into consideration the expertise and experience of each Director and his or her contributions to the Board. No member of the Board will be involved in any decision of the Board relating to his or her own remuneration. Each of the NRC members, being interested in the matter, recused himself from all discussions and abstained from the recommendations in respect of their own fees.
+
+The NRC has access to expert advice from external consultants where required. In FY2023, HR Guru Pte. Ltd. was appointed as independent remuneration consultant to provide professional advice on executive remuneration. The independent remuneration consultant is not related to the REIT Manager, its controlling shareholder, related corporations or any of its Directors.
+
+The Code and the Notice to All Holders of a Capital Markets Services Licence for Real Estate Investment Trust Management (issued pursuant to Section 101 of the SFA) require:
+
+* the disclosure of the remuneration of each individual Director and the CEO on a named basis; and
+
+* the disclosure of the remuneration of at least the top five key management personnel (who are neither Directors nor the CEO) in bands of $250,000.
+
+The breakdown of the Directors’ fees for FY2023 is set out in the table below:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>Variable/<br/>Performance-related</th>
+        <th> </th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th>Name of Director</th>
+        <th>Base/Fixed Salary<br/>($)</th>
+        <th>Income/Bonuses<br/>($)</th>
+        <th>Directors’ Fees<br/>($)</th>
+        <th>Benefits in Kind<br/>($)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Mr Xu Rongcan</td>
+        <td>-</td>
+        <td>-</td>
+        <td>234,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Ms Yang Xue</td>
+        <td>-</td>
+        <td>-</td>
+        <td>180,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Mr Cheng Heng Tan</td>
+        <td>-</td>
+        <td>-</td>
+        <td>105,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Dr Gu Qingyang</td>
+        <td>-</td>
+        <td>-</td>
+        <td>100,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Mr Mario Boselli</td>
+        <td>-</td>
+        <td>-</td>
+        <td>100,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Mr Wu Geng</td>
+        <td>-</td>
+        <td>-</td>
+        <td>85,000</td>
+        <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+## Remuneration of the CEO and Key Management Personnel for FY2023
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>Variable/<br/>Performance-related</th>
+        <th> </th>
+        <th>Other</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th>Name of Key<br/>Management Personnel</th>
+        <th>Base/Fixed<br/>Salary<br/>%</th>
+        <th>Income/<br/>Bonuses<br/>%</th>
+        <th>Benefits<br/>in Kind<br/>%</th>
+        <th>Long-Term<br/>Incentives<br/>%</th>
+        <th>Total<br/>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6"><strong>$500,001 to $750,000</strong></td>
+    </tr>
+    <tr>
+        <td>Ms Tan Hong Lye, Cecilia</td>
+        <td>77</td>
+        <td>22</td>
+        <td>1</td>
+        <td>-</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>$250,001 to $500,000</strong></td>
+    </tr>
+    <tr>
+        <td>Mr Xie Jianfeng</td>
+        <td>78</td>
+        <td>22</td>
+        <td>0</td>
+        <td>-</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>$250,000 and below</strong></td>
+    </tr>
+    <tr>
+        <td>Mr Cheng Hsing Yuen</td>
+        <td>87</td>
+        <td>13</td>
+        <td>0</td>
+        <td>-</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Ms Jeanette Pang</td>
+        <td>78</td>
+        <td>22</td>
+        <td>0</td>
+        <td>-</td>
+        <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 143 -->
+
+No compensation is payable to any Director, the CEO, key management personnel or staff of the REIT Manager in the form of options in Units or pursuant to any bonus or profit-sharing plan or any other compensation relating to any profit-linked agreement or arrangement. Remuneration of the Directors, the CEO and key management personnel of the REIT Manager is paid in cash.
+
+The aggregate remuneration paid to the key management personnel (which excludes the CEO) for FY2023 is approximately $925,600.
+
+There were no employees of the REIT Manager who were substantial shareholders of the REIT Manager or immediate family members of a Director, the CEO or a substantial shareholder of the REIT Manager, and whose remuneration exceeds $100,000 in FY2023.
+
+The REIT Manager has decided (a) to disclose the CEO’s remuneration in bands of $250,000 (instead of on a quantum basis), (b) to disclose the remuneration of the three (3) key management personnel (excluding the CEO) of the REIT Manager in bands of $250,000, and (c) to disclose the total remuneration of the key management personnel (excluding the CEO) of the REIT Manager.
+
+Singapore Exchange (SGX) has recently amended its Listing Rule on remuneration disclosures and this amendment will take effect for annual reports prepared for the financial year ending on or after 31 December 2024, where the REIT Manager will disclose the exact amount and breakdown of remuneration paid to directors and the CEO by the Company and its subsidiaries (if any) in the annual report. The REIT Manager will make the appropriate disclosures when the new Listing Rule 1207(10)(D) is effective.
+
+The REIT Manager’s decision takes into consideration the sensitive and confidential nature of remuneration matters and the importance of the continuity of a stable management team in the competitive environment which the REIT Manager operates. Due to the existing size of the management team, the REIT Manager only has three (3) key management personnel other than the CEO for FY2023. The REIT Manager is of the view that disclosure in such manner is not prejudicial to the interests of the Unitholders as the indicative range for the CEO’s remuneration, as well as the total remuneration of the key management personnel, is made known to the Unitholders. In addition, sufficient information is provided on the REIT Manager’s remuneration framework to enable the Unitholders to understand the link between Sasseur REIT’s performance and the remuneration of the key management personnel. The REIT Manager believes that its practices and policies on setting and disclosure of remuneration are in line with the intent of Principle 8 of the Code.
+
+There are no contractual provisions which allow the REIT Manager to reclaim incentive components of remuneration from key management personnel in exceptional circumstances of misstatement of financial results, or of misconduct resulting in financial loss to the REIT Manager and Sasseur REIT.
+
+Presently, the REIT Manager does not have a share option scheme or long-term incentive scheme in place. The NRC has reviewed the REIT Manager’s remuneration framework and is satisfied that there is reasonable mitigation of any potential misalignment of interests of the Unitholders, taking into account (a) the NRC’s discretion to determine whether the remuneration payable is in line with the remuneration framework, and (b) the substantial emphasis placed on the performance of Sasseur REIT which have been included as part of the KPIs. However, this does not rule out the possibility of the REIT Manager implementing a share option scheme or long-term incentive scheme in the future.
+
+There are no termination, retirement or post-employment benefits that are granted over and above what have been disclosed.
+
+<!-- PAGE 144 -->
+
+## (C) ACCOUNTABILITY AND AUDIT
+
+## RISK MANAGEMENT AND INTERNAL CONTROLS
+
+***Principle 9: The Board is responsible for the governance of risk and ensures that Management maintains a sound system of risk management and internal controls, to safeguard the interests of the company and its shareholders.***
+
+The REIT Manager has put in place an adequate and effective system of internal controls which address material financial, operational, compliance and information technology risks to safeguard the Unitholders’ interests and Sasseur REIT’s assets.
+
+The Board has overall responsibility for the governance of risk and oversees the REIT Manager in the design, implementation and monitoring of the risk management and internal controls system. The ARC assists the Board in carrying out the Board’s responsibility of overseeing the risk management framework and policies of Sasseur REIT.
+
+The REIT Manager adopts an Enterprise Risk Management (ERM) Framework to manage risks in a systematic and consistent manner. More information on the ERM Framework, including the material risks identified, can be found on pages 122 to 125 of the Annual Report.
+
+In line with the Code, the ARC, with the concurrence of the Board, had adopted a Management Assurance Confirmation Statement (Management Assurance Statement). For FY2023, the CEO and the CFO had provided a Management Assurance Statement confirming that:
+
+i) they are aware of their responsibilities for establishing, maintaining and evaluating the adequacy and effectiveness of the risk management and internal controls of Sasseur REIT;
+
+ii) the financial records of Sasseur REIT have been properly maintained and the financial statements give a true and fair view of Sasseur REIT’s operations and finances;
+
+iii) to the best of their knowledge and in addition to the review conducted by Ernst & Young LLP (EY), the external auditors (External Auditors) of Sasseur REIT, nothing has come to the Management’s attention, which may render the full-year financial results of Sasseur REIT for FY2023 to be false or misleading in any material aspect;
+
+iv) there are no known significant deficiencies or lapses in the risk management and internal controls system relating to Sasseur REIT’s financial, operational, compliance and information technology controls which could adversely affect Sasseur REIT’s ability to record, process, summarise or report financial data, or of any fraud, whether material or not; and
+
+v) the risk management and internal control systems of Sasseur REIT are adequate and effective.
+
+Based on the system of internal controls and risk management policies and procedures established and maintained by Sasseur REIT and the REIT Manager, work done by the internal auditors and External Auditors, reviews performed by the Management, various Board Committees and the Board, and the receipt of assurance from the CEO and the CFO, the Board, with the concurrence of the ARC, is of the opinion that taking into account the nature, scale and complexity of Sasseur REIT’s and the REIT Manager’s operations, Sasseur REIT’s and the REIT Manager’s risk management and internal controls system were adequate and effective in addressing the financial, operational, compliance and information technology risks as at 31 December 2023.
+
+<!-- PAGE 145 -->
+
+**AUDIT COMMITTEE**
+
+**Principle 10: The Board has an Audit Committee which discharges its duties objectively.**
+
+The Board has established an ARC which comprises three Independent Directors. The composition of the ARC is as follows:
+
+<table>
+  <tbody>
+    <tr>
+        <td>Mr Cheng Heng Tan</td>
+        <td>Independent Director</td>
+        <td>ARC Chairman</td>
+    </tr>
+    <tr>
+        <td>Dr Gu Qingyang</td>
+        <td>Lead Independent Director</td>
+        <td>ARC member</td>
+    </tr>
+    <tr>
+        <td>Mr Wu Geng</td>
+        <td>Independent Director</td>
+        <td>ARC member</td>
+    </tr>
+  </tbody>
+</table>
+
+The ARC members bring with them invaluable recent and relevant managerial and professional expertise in accounting and related financial management domains. The ARC Chairman, Mr Cheng Heng Tan, is a member of the Institute of Singapore Chartered Accountants, among other professional affiliations. Mr Wu Geng also has recent and relevant financial management experience and expertise. None of the ARC members was previously a partner of the incumbent External Auditors, EY, within a period of two (2) years commencing on the date of their ceasing to be a partner or director, nor does any of the ARC members hold any financial interest in EY.
+
+The ARC has explicit authority to investigate any matter within its terms of reference. The Management is required to provide the fullest co-operation in providing information and resources, and in implementing or carrying out all requests made by the ARC. The ARC has direct access to the internal auditors and External Auditors and has the full discretion to invite any Director or executive officer to attend its meetings. Similarly, both internal auditors and External Auditors are given unrestricted access to the ARC.
+
+The ARC meets at least four (4) times a year and, as and when deemed appropriate, to carry out its function. The ARC is guided by the following key terms of reference:
+
+a) reviewing the financial reporting issues and judgements so as to ensure the integrity of financial statements, and of announcements on the financial performance and recommending changes, if any, to the Board;
+
+b) overseeing and reviewing the adequacy and effectiveness of the risk management function;
+
+c) overseeing the Management in establishing the risk management framework;
+
+d) reviewing and reporting to the Board at least annually on the adequacy and effectiveness of Sasseur REIT’s and the REIT Manager’s risk management and internal control systems;
+
+e) reviewing the assurance provided by the CEO and the CFO that the financial records have been properly maintained, and that the financial statements give a true and fair view of Sasseur REIT’s operations and finances;
+
+f) reviewing the adequacy, effectiveness, independence, scope and results of the internal audit function;
+
+g) reviewing the scope and results of the external audit and the independence and objectivity of the external audit. The ARC shall then recommend to the Board the appointment, reappointment and removal of the External Auditors and its remuneration and terms of engagement;
+
+h) ensuring that Sasseur REIT and the REIT Manager comply with the requisite laws and regulations;
+
+i) ensuring Sasseur REIT and the REIT Manager have programmes and policies in place to identify and prevent fraud;
+
+j) overseeing the establishment and operation of the whistle-blowing process in Sasseur REIT and the REIT Manager;
+
+k) reviewing all interested person transactions and related party transactions;
+
+l) reviewing and providing their views on all hedging policies and instruments to be implemented by Sasseur REIT to the Board;
+
+<!-- PAGE 146 -->
+
+# Corporate Governance
+
+m) reviewing and approving the procedure for the entry into any foreign exchange hedging transactions and monitoring the implementation of such policy, including reviewing the instruments, processes and practices in accordance with the policy for entering into foreign exchange hedging transactions approved by the Board;
+
+n) reviewing the processes and procedures in relation to the appointment or removal of legal representatives of the PRC Companies annually;
+
+o) exercising oversight over the undertakings given by each of the Sponsor and the Entrusted Manager to the REIT Manager and the Trustee that (i) it will immediately inform the Trustee and the REIT Manager of any matter that has a materially adverse impact on its ability to perform its obligations under the Entrusted Management Agreements (including matters pertaining to the Sponsor’s and the Entrusted Manager’s creditworthiness); and (ii) it will not unilaterally novate or assign any of the Individual Entrusted Management Agreements or the Master Entrusted Management Agreement, as the case may be, to other parties, and will inform the REIT Manager and the Trustee of any changes to the Individual Entrusted Management Agreements, or the Master Entrusted Management Agreement, as the case may be (including any such novation or assignment);
+
+p) on an annual basis and where there are changes to the financial and/or credit standing of the financial institutions providing the banker’s guarantee pursuant to the Performance Reserve, whether the standing of the banker’s guarantee or banker’s performance bond provided has been diminished arising from the changes;
+
+q) determining when the income support safeguards implemented post-listing (save for the Performance Reserve) would fall away;
+
+r) in relation to the Performance Reserve, overseeing (i) that the banker’s guarantee provided in respect of the Performance Reserve is obtained or placed with an independent financial institution of good financial standing (i.e. at least investment grade); (ii) the withdrawal and utilisation of the Performance Reserve by Sasseur REIT during the term of the Entrusted Management Agreements; and (iii) where the term of the banker’s guarantee is shorter than the duration of the income support and is subject to periodic renewal, that the Sponsor should ensure that the banker’s guarantee would be renewed;
+
+s) exercising oversight over the undertakings of the REIT Manager pursuant to the Entrusted Management Agreements (including the disclosures required in the announced full-year financial results and annual reports of Sasseur REIT pursuant to the undertakings in relation to the Entrusted Management Agreements);
+
+t) reviewing the internal guidelines and monitoring the procedures put in place by the REIT Manager to ensure that the transactions entered into by the PRC Property Companies under the Entrusted Management Agreements are conducted on normal commercial terms and will not be prejudicial to Sasseur REIT and its minority Unitholders;
+
+u) reviewing at least quarterly in each financial year the transactions entered into by the PRC Property Companies under the Entrusted Management Agreements to ascertain the guidelines and procedures established by the REIT Manager to monitor interested person transactions have been complied with;
+
+v) reviewing and considering the terms of the Entrusted Management Agreements on an annual basis to ensure that the commercial terms of the Entrusted Management Agreements would not be prejudicial to the interests of Sasseur REIT and its Unitholders and be in compliance with Sasseur REIT’s internal controls systems;
+
+w) conducting an annual assessment on whether the relevant PRC Property Company should exercise the Buy Back Option to acquire the development rights to the Phase 2 Developments and where the Sponsor is unable to complete the development of the Phase 2 Developments prior to the completion date of 31 December 2020 (as set out in the Grant Agreements), conducting an assessment on whether Sasseur REIT should grant the Sponsor a further extension of the completion date in accordance with the terms of the relevant Grant Agreements; and
+
+x) deliberating on and putting forth proposals to the Board on measures to mitigate conflicts of interest situations involving Sasseur REIT.
+
+<!-- PAGE 147 -->
+
+The ARC has reviewed the nature and extent of non-audit services provided by the External Auditors in FY2023 and the fees paid for such services. The aggregate amount of fees paid and payable to the External Auditors for FY2023 was $522,000:
+
+Audit fees: $389,000
+Non-audit fees: $133,000
+
+The External Auditors have also confirmed their independence and that they complied with the Code of Professional Conduct and Ethics of the Institute of Singapore Chartered Accountants in respect of the relative size of audit fees and non-audit fees. The ARC has reviewed and is satisfied that the independence of the External Auditors has not been impaired by the provision of those services.
+
+The internal audit function is outsourced to KPMG Services Pte. Ltd. (KPMG or Internal Auditors) which is staffed by qualified executives. The ARC approves the hiring, removal, evaluation and compensation of the auditing firm to which the internal audit function is outsourced. The Internal Auditors have unfettered access to all the Group’s documents, records, properties and personnel, including access to the ARC. KPMG reports to the ARC Chairman and has unrestricted access to the ARC, and is guided by the standards set by nationally or internationally recognised professional bodies including the Standards for the Professional Practice of Internal Auditing set by The Institute of Internal Auditors.
+
+The ARC will review the findings of the Internal Auditors and will ensure that the Group follows up on the Internal Auditors’ recommendations. The ARC will review the adequacy of the internal audit function annually to ensure that the internal audit function is adequately resourced and is able to perform its function effectively and objectively. The ARC also reviews the independence of the internal audit function. For FY2023, the ARC is satisfied that the internal audit function is independent, effective and adequately resourced.
+
+In FY2023, the ARC also met with the Internal Auditors and External Auditors, without the Management’s presence, to discuss the reasonableness of the financial reporting process, the system of internal controls, and the significant comments and recommendations by the auditors. Where relevant, the ARC makes reference to best practices and guidance for Audit Committees in Singapore, including practice directions issued from time to time in relation to the Financial Reporting Surveillance Programme administered by the Accounting and Corporate Regulatory Authority of Singapore.
+
+The REIT Manager confirms, on behalf of Sasseur REIT, that Sasseur REIT complies with Rule 712 and Rule 715 of the Listing Manual.
+
+Changes to the accounting standards and accounting issues which have a direct impact on the financial impact on the financial statements were reported to and discussed with the ARC at its meetings.
+
+## Key Audit Matter
+
+In the review of the financial statements, the ARC has discussed with the Management on the accounting principles that were applied and their judgement of items that might affect the integrity of the financial statements. The ARC had discussed and reviewed the following key audit matter impacting the financial statements with the Management and the External Auditors:
+
+<table>
+  <thead>
+    <tr>
+        <th>Key Audit Matter</th>
+        <th>How this issue was addressed by the ARC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Valuation of investment properties</td>
+        <td>The ARC evaluated the objectivity, independence and expertise of the external appraisers.<br/>The valuation as at 31 December 2023 was performed by Jones Lang LaSalle Corporate Appraisal and Advisory Limited.<br/><br/>The ARC reviewed the valuation methodology, assumptions and outcomes, and discussed the valuation details with the Management.<br/><br/>The valuation of investment properties was also an area of focus for the External Auditors. The ARC considered the findings of the External Auditors, including their assessment of the appropriateness of the valuation methodology and key assumptions applied in the valuation of the investment properties.<br/><br/>The ARC was satisfied with the valuation methodology and the valuation for investment properties as disclosed in the financial statements.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 148 -->
+
+## *Whistle-blowing Policy*
+
+The ARC is responsible for oversight and monitoring of whistle-blowing policies, processes and reporting. The REIT Manager has put in place a Whistle-blowing Policy endorsed by the ARC. The Whistle-blowing Policy sets out the procedures for employees of the REIT Manager and any other person who may in confidence, raise concerns about possible corporate improprieties on matters of financial reporting or other matters. A dedicated secured e-mail address has been set up to allow whistle-blowers to contact the ARC Chairman at arcchair@sasseurreit.com directly for any wrongdoing or concerns.
+
+Upon receiving a whistle-blowing report, an email will be sent to the whistle-blower to acknowledge receipt of the report within three (3) working days. All whistle-blowing reports will be handled confidentially, to the extent permitted by laws and regulations. Identities of employees and any other persons will not be disclosed without prior consent.
+
+Following a review of the complaint or concern, the ARC Chairman, where appropriate, will take steps to have the matter investigated. The ARC Chairman may also appoint independent parties to conduct investigations in relation to the whistle-blowing report. If, at the conclusion of an investigation, it is determined that a violation has occurred or the allegations are substantiated, remedial action which commensurate with the severity of the offence will be taken. All subsequent actions and decisions taken following the receipt of whistle-blowing reports will be documented and circulated to the ARC or tabled for discussion every quarter.
+
+The REIT Manager does not tolerate the harassment or victimisation of anyone raising a wrongdoing or concern in good faith.
+
+The REIT Manager will ensure that no one will be at risk of suffering from retribution as a result of raising a concern even if they are mistaken, unless the individual raises a matter which they know to be untrue.
+
+The Whistle-blowing Policy has been made available to all employees of the REIT Manager and is also available on Sasseur REIT’s website at <u>https://www.sasseurreit.com/whistle-blowing-policy.html</u> .
+
+<!-- PAGE 149 -->
+
+# (D) SHAREHOLDER RIGHTS AND ENGAGEMENT
+
+## SHAREHOLDERS RIGHTS AND CONDUCT OF GENERAL MEETING
+
+*Principle 11: The company treats all shareholders fairly and equitably in order to enable them to exercise shareholders’ rights and have the opportunity to communicate their views on matters affecting the company. The company gives shareholders a balanced and understandable assessment of its performance, position and prospects.*
+
+## ENGAGEMENT WITH SHAREHOLDERS
+
+*Principle 12: The company communicates regularly with its shareholders and facilitates the participation of shareholders during general meetings and other dialogues to allow shareholders to communicate their views on various matters affecting the company.*
+
+### Timely Disclosure of Information
+
+The REIT Manager is committed to achieving effective communication with the public and keeps all Unitholders and other relevant stakeholders and analysts informed of the performance and changes in Sasseur REIT or its business which would be likely to materially affect the price or value of the Units, on a timely and consistent basis, for the purposes of assisting Unitholders and investors in their investment decisions.
+
+The REIT Manager provides Unitholders with half-yearly and full-year financial statements within the relevant periods prescribed by the Listing Manual after they are reviewed by the ARC and approved by the Board. These financial statements are accompanied by press releases and presentation slides which are also uploaded on SGXNet. In presenting the half-yearly and full-year financial statements to Unitholders, the Board aims to provide Unitholders with a balanced, clear and understandable assessment of Sasseur REIT’s performance, position and prospects. To update the market, the REIT Manager releases business and operational updates for the first quarter and third quarter on SGXNet.
+
+The REIT Manager believes in conducting itself in ways that seek to deliver maximum sustainable value to Unitholders. Best practices are promoted as a means to build an excellent business for Unitholders and the REIT Manager is accountable to Unitholders for Sasseur REIT’s performance. Prompt fulfilment of statutory and regulatory reporting requirements is but one way to maintain Unitholders’ confidence and trust in the capability and integrity of the REIT Manager.
+
+The Trust Deed is available for inspection at the REIT Manager’s office (prior appointment would be appreciated).
+
+### Investor Relations
+
+The REIT Manager has a dedicated team performing the investor relations function which facilitates effective communication with Unitholders, analysts, fund managers and the media. The REIT Manager actively engages with Unitholders and has in place an Investor Relations Policy which sets out the principles and practices that the REIT Manager applies in order to provide Unitholders and prospective investors of Sasseur REIT with balanced and understandable information necessary to make well-informed investment decisions and to ensure a level playing field. It also provides a specific investor relations contact, through which Unitholders are able to ask questions and receive responses in a timely manner. The Investor Relations Policy is available on Sasseur REIT’s website at <u>https://investor.sasseurreit.com/ir_policy.html</u>.
+
+The REIT Manager upholds a strong culture of continuous disclosure and transparent communication with Unitholders and the investment community. All material information, including press releases on major developments relating to Sasseur REIT, would be communicated on a timely basis via announcements through the SGX-ST via SGXNet at first instance before publishing the same on Sasseur REIT’s corporate website at <u>https://www.sasseurreit.com/</u>.
+
+<!-- PAGE 150 -->
+
+Other than publicly released announcements on SGXNet and frequent and timely updates on Sasseur REIT’s corporate website, the REIT Manager also seeks to engage Unitholders and the investment community through the following channels:
+
+i) Property site visits;
+
+ii) Annual reports and Circulars to Unitholders;
+
+iii) Notices of, and explanatory notes for annual general meetings (AGM) and extraordinary general meetings (EGM);
+
+iv) Investor, media and analyst briefings;
+
+v) Other individual or group meetings both in person and virtually, local and overseas conferences, conference calls, roadshows, and emails; and
+
+vi) Social media channels such as LinkedIn, YouTube, Facebook and Telegram.
+
+More information on the REIT Manager’s investor relations activities with Unitholders, investors and analysts can be found in the “Investor Relations” section on pages 116 to 119 of the Annual Report.
+
+The REIT Manager does not practise selective disclosure, and in the event that any inadvertent disclosure is made to a select group, the REIT Manager will make the same disclosure publicly to all others as promptly as possible.
+
+The REIT Manager is committed to treat all Unitholders fairly and equitably. In addition, there are relevant laws and regulations together with the Trust Deed governing specific Unitholders' rights. These rights include among others, the right to participate in profit distributions and the right to attend and vote in general meetings.
+
+## *General Meetings*
+
+General meetings are the principal forum for dialogue with Unitholders. Unitholders are encouraged to attend the AGMs and EGMs (if any) to ensure high level of accountability and to stay informed of the Group’s strategy and goals. At such general meetings, Unitholders will be informed of the rules, including voting procedures, that govern general meetings and are also given the opportunity to share and communicate their views and seek clarification with the Board on issues relating to the Group’s performance either informally or formally at or after the AGM.
+
+The REIT Manager is not implementing absentia voting methods such as voting via mail, e-mail or fax until security, integrity and other pertinent issues are satisfactorily resolved. Nonetheless, Unitholders can vote at the general meetings in person or by appointing a proxy, through proxy forms which are sent together with the Annual Reports or circulars, as the case may be. Where a registered holder for the time being of Units is a relevant intermediary (including, but not limited to, a nominee company, a custodian bank or a CPF agent bank) (Holder), the Holder may, for the avoidance of doubt, appoint more than one proxy to exercise all or any of its rights to attend, speak and vote at every meeting, provided that each proxy must be appointed to exercise the rights attached to a different Unit or Units held by it (which number of Units and Class shall be specified).
+
+The duly completed and signed proxy forms are required to be submitted to the REIT Manager’s registered office address 72 hours before the general meeting. The Annual Report or Circular, as the case may be, and notices of the general meetings are dispatched to Unitholders, together with explanatory notes at least 14 calendar days before each meeting for ordinary resolutions and at least 21 calendar days for extraordinary resolutions to be passed. The notice is also advertised in a national newspaper and announced on SGX-ST via SGXNet.
+
+Each distinct issue is proposed as a separate resolution at the general meeting.
+
+Where possible, all the Directors will attend Unitholders’ meetings. In particular, the Chairman of the Board and the respective Chairman of the ARC and the NRC, including the Lead Independent Director, are required to be present to address questions at general meetings. The External Auditors are also available at such meetings to assist the Directors to address Unitholders’ queries on the conduct of audit and the preparation and content of the Auditors’ Report, where necessary.
+
+<!-- PAGE 151 -->
+
+The Joint Company Secretary(ies) of the REIT Manager prepare minutes of Unitholders’ meetings, which incorporate comments or queries from Unitholders and responses from the Board, the Management and Auditors (if applicable). These minutes are available to Unitholders upon request. Minutes of the general meetings are also uploaded on Sasseur REIT’s website at <u>https://investor.sasseurreit.com/agm_egm.html</u>.
+
+To ensure transparency in the voting process and better reflect Unitholders’ interests, the REIT Manager will conduct electronic poll voting for all the resolutions proposed at the general meetings. An independent scrutineer is also appointed to validate the vote tabulation procedures. Votes cast, for or against and the respective percentages, on each resolution are tallied and displayed “live” on-screen to Unitholders immediately at such general meetings. The total number of votes cast for or against the resolutions and the respective percentages are also announced on SGXNet after the general meetings.
+
+In view of the COVID-19 pandemic, the AGM in year 2023 was held via electronic means pursuant to the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and Debenture Holders) Order 2020 (the Order).
+
+Alternative arrangements relating to (a) attendance at the AGM via electronic means (including arrangement by which the meeting can be electronically accessed via “live” audio-visual webcast or “live” audio-only stream); (b) submission of questions to the REIT Manager in advance of the AGM, or “live” at the AGM, and addressing of substantial and relevant questions in advance of the AGM, or “live” at the AGM; and (c) voting at the AGM (i) “live” by the Unitholders or his/her/its duly appointed proxy(ies) (other than the Chairman of the AGM) via electronic means; or (ii) by appointing the Chairman of the AGM as proxy to vote on behalf of the Unitholders at the AGM, were put in place. The minutes of the AGM held in year 2023 was uploaded to Sasseur REIT’s website and SGXNet within one month from the date of the AGM.
+
+Mr Zhang Mingqing
+Assistant President,
+General Manager
+of Investment &
+Development Centre
+
+**Distribution Policy**
+
+Sasseur REIT makes distribution to the Unitholders on a quarterly basis. Sasseur REIT’s distribution policy is to distribute at least 90% of its annual income available for distribution for each financial year. The actual level of distribution will be determined at the discretion of the Board of the REIT Manager.
+
+** (E) MANAGING STAKEHOLDER RELATIONSHIPS **
+
+** ENGAGEMENT WITH STAKEHOLDERS **
+
+** Principle 13: The Board adopts an inclusive approach by considering and balancing the needs and interests of material stakeholders, as part of its overall responsibility to ensure that the best interests of the company are served. **
+
+The Board adopts an inclusive approach by considering and balancing the needs and interests of material stakeholders, as part of its overall responsibility to ensure that the best interests of Sasseur REIT are served.
+
+In order to review and assess the material factors relevant to Sasseur REIT’s business activities, the REIT Manager from time to time proactively engages with various stakeholders, including investment communities (investors, analysts and media), tenants, shoppers, regulators and industry associations, employees and local communities, to gather feedback on the sustainability matters which have significant impact to the business and operations of Sasseur REIT and its stakeholders. The REIT Manager’s strategy and key areas of focus in relation to the management of stakeholder relationships during FY2023 are set out on pages 76 to 115 of the Annual Report.
+
+Sasseur REIT maintains a current corporate website at <u>https://www.sasseurreit.com/</u> to communicate and engage with its stakeholders.
+
+<!-- PAGE 152 -->
+
+## (F) ADDITIONAL INFORMATION
+
+## DEALING IN SECURITIES
+
+The Group has adopted a Personal Account Dealing Policy to provide guidance to its officers regarding dealings in listed securities of Sasseur REIT, in compliance with Rule 1207(19) of the Listing Manual.
+
+To this end, the REIT Manager has issued guidelines to its Directors and officers (whom include both the REIT Manager and any subsidiary or related corporation), who will be notified of the closed window period by an internal memorandum, which set out prohibitions against dealing in the listed securities of Sasseur REIT during the period beginning (i) one (1) month before the date of the announcement of the half-yearly and full-year results; and (ii) two (2) weeks before the date of the announcement of the business and operational updates.
+
+Any employee who intends to deal in the listed securities of Sasseur REIT outside of the prohibition period are required to seek approval from the CEO before the intended purchase or sale. In the case of the CEO and Directors, written approval is required to be sought from the ARC Chairman before the intended purchase or sale. In the case of the ARC Chairman, written approval is required to be sought from the Chairman of the Board before the intended purchase or sale.
+
+Directors and officers are also advised against dealing in the listed securities of Sasseur REIT on short-term consideration and when they are in possession of any unpublished material price-sensitive information of the Group, and to be mindful of the law on insider trading.
+
+## DEALING WITH CONFLICTS OF INTEREST
+
+In accordance with the Compliance Manuals adopted by the REIT Manager, the following principles and procedures have been established to deal with potential conflicts of interest which the REIT Manager (including its Directors, executive officers and employees) may encounter in managing Sasseur REIT:
+
+a) the REIT Manager is a dedicated manager to Sasseur REIT and will not manage any other REIT or be involved in any other real estate property business without obtaining approval from the MAS;
+
+b) all resolutions at meetings of the Board or Board resolutions in relation to matters concerning Sasseur REIT must be approved by a majority vote of the Directors, including at least one Independent Director;
+
+c) in respect of matters in which Sasseur REIT’s Sponsor, shareholder and/or its subsidiaries have an interest, whether directly or indirectly, the nominees appointed by the relevant shareholder, Sponsor or subsidiary to the Board will abstain from voting. For such matters, the quorum must comprise a majority of the Independent Directors and shall exclude such Directors who are the nominees of the Sponsor, shareholder and/or its subsidiaries;
+
+d) in respect of matters in which a Director or his associates have an interest, whether direct or indirect, such interested Director will abstain from voting. In such matters, the quorum must comprise a majority of the Directors and shall exclude such interested Director(s);
+
+e) any decision by the REIT Manager not to take action against a related party of the REIT Manager shall not constitute a waiver of the Trustee’s right to take such action as it deems fit against such related party; and
+
+f) at least majority of the Board shall comprise Independent Directors.
+
+In addition, the Trust Deed provides that if the REIT Manager is required to decide whether to or not to take any action against any person in relation to any breach of any agreement entered into by the Trustee for and on behalf of the Trust with such person which is a Related Party of the REIT Manager. The REIT Manager shall be obliged to consult with a reputable law firm (acceptable to the Trustee) who shall provide legal advice on the matter. If the said law firm is of the opinion that the Trustee, on behalf of the Trust, has a prima facie case against the party allegedly in breach under such agreement, the REIT Manager shall be obliged to take appropriate action in relation to such agreement. The Directors of the REIT Manager (including its Independent Directors) will have a duty to ensure that the REIT Manager shall comply with the aforesaid.
+
+Any decision by the REIT Manager not to take action against a Related Party of the REIT Manager shall not constitute a waiver of the Trustee’s right to take such action as it deems fit against such Related Party and shall be reported to and communicated to the ARC.
+
+<!-- PAGE 153 -->
+
+# INTERESTED PERSON TRANSACTIONS (IPT) / RELATED PARTY TRANSACTIONS (RPT)
+
+“Related Party Transactions” in this Annual Report refers to “Interested Person Transactions” under the Listing Manual and “Interested Party Transactions” under the Property Funds Appendix.
+
+The REIT Manager has in place policies and procedures and established an internal control system on IPTs to ensure that all future RPTs will be undertaken on normal commercial terms and will not be prejudicial to the interests of Sasseur REIT and its Unitholders.
+
+As a general rule, the REIT Manager must demonstrate to its ARC that such transactions satisfy the foregoing criteria. This may entail obtaining (where practicable) quotations from parties unrelated to the REIT Manager or obtaining two or more valuations from independent professional valuers (in compliance with the Property Funds Appendix).
+
+The REIT Manager maintains a register to record all RPTs which are entered into by Sasseur REIT and the bases, including any quotations from unrelated parties and independent valuations, on which they are entered into.
+
+The REIT Manager has also incorporated into its internal audit plan a review of all IPTs and RPTs entered into by Sasseur REIT to ascertain that the guidelines and procedures established to monitor IPTs and RPTs have been complied with. The Trustee will also have the right to review such audit reports to ascertain that the Property Funds Appendix has been complied with. The review will include the examination of the nature of the transaction and its supporting documents or such other data deemed necessary to the ARC. If a member of the ARC has an interest in a transaction, he or she is to abstain from participating in the review and approval process in relation to that transaction.
+
+Further, the following procedures will be undertaken:
+
+(i) transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding $100,000 in value but below 3.0% of the value of Sasseur REIT’s net tangible assets (based on the latest audited accounts) will be subject to review by the ARC at regular intervals;
+
+(ii) transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding 3.0% but below 5.0% of the value of Sasseur REIT’s net tangible assets (based on the latest audited accounts) will be subject to the review and prior approval of the ARC. Such approval shall only be given if the transactions are on normal commercial terms and are not prejudicial to the interests of Sasseur REIT and its Unitholders and are consistent with similar types of transactions made by the Trustee with third parties which are unrelated to the REIT Manager. Further, under the Listing Manual and the Property Funds Appendix, such transactions would be announced via SGXNet; and
+
+(iii) transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding 5.0% of the value of Sasseur REIT’s net tangible assets (based on the latest audited accounts) will be reviewed and approved prior to such transactions being entered into, on the basis described in the preceding paragraph, by the ARC which may, as it deems fit, request advice on the transaction from independent sources or advisers, including the obtaining of valuations from independent professional valuers. Furthermore, under the Listing Manual and the Property Funds Appendix, such transactions would have to be approved by the Unitholders at a meeting of Unitholders duly convened and held in accordance with the provisions of the Trust Deed.
+
+<!-- PAGE 154 -->
+
+Pursuant to the Listing Manual, transactions with a value below $100,000 are disregarded for the purpose of the announcement and Unitholders’ approval requirements under the Listing Manual as set out in the paragraph above. Accordingly, such transactions are excluded from aggregation with other transactions involving the same Related Parties.
+
+Where matters concerning Sasseur REIT relate to transactions entered into or to be entered into by the Trustee for and on behalf of Sasseur REIT with a Related Party of the REIT Manager (which would include relevant “associates” as defined under the Listing Manual) or Sasseur REIT, the Trustee is required to consider the terms of such transactions to satisfy itself that such transactions are conducted on normal commercial terms, are not prejudicial to the interests of Sasseur REIT and the Unitholders, and are in accordance with all applicable requirements of the Property Funds Appendix and/or the Listing Manual relating to the transaction in question.
+
+The Trustee has the ultimate discretion under the Trust Deed to decide whether or not to enter into a transaction involving a Related Party of the REIT Manager or Sasseur REIT. If the Trustee is to sign any contract with a Related Party of the REIT Manager or Sasseur REIT, the Trustee will review the contract to ensure that it complies with the requirements relating to interested party transactions in the Property Funds Appendix (as may be amended from time to time) and the provisions of the Listing Manual relating to interested person transactions (as may be amended from time to time) as well as such other guidelines as may from time to time be prescribed by the MAS and the SGX-ST to apply to REITs.
+
+Save for the transactions described under “Related Party Transactions in Connection with the Setting Up of Sasseur REIT and the Offering” in the Prospectus, Sasseur REIT will comply with Rule 905 of the Listing Manual by announcing any IPT in accordance with the Listing Manual if such transaction, by itself or when aggregated with other IPTs entered into with the same interested person during the same financial year, is 3.0% or more of Sasseur REIT’s latest audited net tangible assets.
+
+The aggregate value of all IPTs in accordance with the Listing Manual in a particular financial year, each of at least $100,000 in value and which are subject to Rules 905 and 906 of the Listing Manual, will be disclosed in Sasseur REIT’s Annual Report for the relevant financial year.
+
+All IPTs are subject to review by the ARC at its quarterly meetings to ensure that such transactions are conducted on an arm’s length basis and are not prejudicial to the interests of the Unitholders.
+
+Details of all IPTs (equal to or exceeding $100,000 each in value) entered into by Sasseur REIT in FY2023 are disclosed on page 212 of the Annual Report.
+
+<!-- PAGE 155 -->
+
+# Contents
+
+**Financials and Other Information**
+
+<table>
+  <tbody>
+    <tr>
+<td>Report of the Trustee</td>
+<td>154</td>
+    </tr>
+    <tr>
+<td>Statement by the REIT Manager</td>
+<td>155</td>
+    </tr>
+    <tr>
+<td>Independent Auditor’s Report</td>
+<td>156</td>
+    </tr>
+    <tr>
+<td>Statements of Financial Position</td>
+<td>160</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Total Return</td>
+<td>161</td>
+    </tr>
+    <tr>
+<td>Consolidated Distribution Statement</td>
+<td>162</td>
+    </tr>
+    <tr>
+<td>Statements of Changes in Unitholders’ Funds</td>
+<td>163</td>
+    </tr>
+    <tr>
+<td>Consolidated Statement of Cash Flows</td>
+<td>164</td>
+    </tr>
+    <tr>
+<td>Statement of Portfolio</td>
+<td>165</td>
+    </tr>
+    <tr>
+<td>Notes to the Financial Statements</td>
+<td>166</td>
+    </tr>
+    <tr>
+<td>Interested Person Transactions</td>
+<td>212</td>
+    </tr>
+    <tr>
+<td>Unitholders’ Information</td>
+<td>213</td>
+    </tr>
+    <tr>
+<td>Notice of Annual General Meeting</td>
+<td>216</td>
+    </tr>
+    <tr>
+<td colspan="2">Proxy Form</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 156 -->
+
+# **Report** of the Trustee
+
+DBS Trustee Limited (the Trustee) is under a duty to take into custody and hold the assets of Sasseur Real Estate Investment Trust (the Trust) and its subsidiaries (collectively known as the Group) in trust for the Unitholders. In accordance with the Securities and Futures Act 2001, its subsidiary legislation and the Code on Collective Investment Schemes, the Trustee shall monitor the activities of Sasseur Asset Management Pte. Ltd. (the REIT Manager) for compliance with the limitations imposed on the investment and borrowing powers as set out in the trust deed dated 30 October 2017 which was supplemented by a first supplemental deed dated 19 March 2018 (the Trust Deed) between the REIT Manager and the Trustee in each annual accounting period and report thereon to Unitholders in an annual report.
+
+To the best knowledge of the Trustee, the REIT Manager has, in all material respects, managed the Trust and its subsidiaries during the year covered by these financial statements, set out on pages 160 to 211, in accordance with the limitations imposed on the investment and borrowing powers set out in the Trust Deed.
+
+**For and on behalf of the Trustee,**
+**DBS Trustee Limited**
+
+**Chan Kim Lim**
+Director
+
+Singapore
+20 March 2024
+
+<!-- PAGE 157 -->
+
+# Statement by the REIT Manager
+
+
+
+In the opinion of the directors of Sasseur Asset Management Pte. Ltd. (the REIT Manager), the REIT Manager of Sasseur Real Estate Investment Trust (the Trust), the accompanying financial statements set out on pages 160 to 211 comprising the Statement of Financial Position and Statement of Portfolio of the Group and the Statement of Financial Position of the Trust as at 31 December 2023, the Consolidated Statement of Total Return, Consolidated Distribution Statement, Consolidated Statement of Changes in Unitholders’ Funds and Consolidated Statement of Cash Flows of the Group and the Statement of Changes in Unitholders’ Funds of the Trust for the year ended 31 December 2023 are drawn up so as to present fairly, in all material respects, the consolidated financial position of the Group and the financial position of the Trust as at 31 December 2023, the consolidated total returns, consolidated distributable income, consolidated changes in unitholders’ funds, consolidated cash flows of the Group and the changes in unitholders’ funds of the Trust for the year ended 31 December 2023 and the statement of portfolio of the Group as at 31 December 2023, in accordance with the recommendations of The Statement of Recommended Accounting Practice 7 “Reporting Framework for Unit Trusts” issued by the Institute of Singapore Chartered Accountants and the provisions of the Trust Deed between DBS Trustee Limited and the REIT Manager dated 30 October 2017 which was supplemented by a first supplemental deed dated 19 March 2018. At the date of this statement, there are reasonable grounds to believe that the Group and the Trust will be able to meet their financial obligations as and when they materialise.
+
+For and on behalf of the REIT Manager,
+**Sasseur Asset Management Pte. Ltd.**
+
+**Cheng Heng Tan**
+Director
+
+Singapore
+20 March 2024
+
+<!-- PAGE 158 -->
+
+# Independent Auditor’s Report
+
+For the financial year ended 31 December 2023
+
+## REPORT ON THE AUDIT OF THE FINANCIAL STATEMENTS
+
+## Opinion
+
+We have audited the financial statements of Sasseur Real Estate Investment Trust (the Trust) and its subsidiaries (collectively, the Group), which comprise the statement of financial position and statement of portfolio of the Group and the statement of financial position of the Trust as at 31 December 2023, the consolidated statement of total return, consolidated distribution statement, consolidated statement of changes in unitholders’ funds and consolidated statement of cash flows of the Group and the statement of changes in unitholders’ funds of the Trust for the year ended 31 December 2023 and notes to the financial statements, including material accounting policies.
+
+In our opinion, the accompanying consolidated financial statements of the Group, the statement of financial position and the statement of changes in unitholders’ funds of the Trust are properly drawn up in accordance with the recommendations of The Statement of Recommended Accounting Practice 7 “Reporting framework for Unit Trusts” (RAP 7) issued by the Institution of Singapore Chartered Accountants, so as to present fairly, in all material respects, the consolidated financial position of the Group and the financial position of the Trust as at 31 December 2023 and the consolidated total returns, consolidated distributable income, consolidated changes in unitholders’ funds, consolidated cash flows of the Group, and the changes in unitholders’ funds of the Trust for the year ended 31 December 2023 and the statement of portfolio of the Group as at 31 December 2023.
+
+## Basis for Opinion
+
+We conducted our audit in accordance with Singapore Standards on Auditing (SSAs). Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the Group in accordance with the Accounting and Corporate Regulatory Authority (ACRA) Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities (ACRA Code) together with the ethical requirements that are relevant to our audit of the financial statements in Singapore, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the ACRA Code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+## Key Audit Matters
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial statements of the current period. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters. For each matter below, our description of how our audit addressed the matter is provided in that context.
+
+We have fulfilled our responsibilities described in the Auditor’s responsibilities for the Audit of the Financial Statements section of our report, including in relation to these matters. Accordingly, our audit included the performance of procedures designed to respond to our assessment of the risks of material misstatement of the financial statements. The results of our audit procedures, including the procedures performed to address the matters below, provide the basis for our audit opinion on the accompanying financial statements.
+
+<!-- PAGE 159 -->
+
+# Independent Auditor’s Report
+
+For the financial year ended 31 December 2023
+
+## Key Audit Matters (continued)
+
+<u>Valuation of investment properties</u>
+
+As at 31 December 2023, the carrying amount of investment properties was $1,580,190,000 which accounted for 90.4% of total assets. The valuation of the investment properties is significant to our audit due to its magnitude and the complexity of the valuation which is highly dependent on a range of assumptions and estimates made by the external valuer engaged by the REIT Manager. As disclosed in Note 19(d), valuations of investment properties are sensitive to changes in the significant unobservable inputs, particularly those relating to rental rates and discount rates. This is aggravated by an increase in the level of estimation uncertainty and judgement required arising from the rapid changes in market and economic conditions. Accordingly, we have identified this as a key audit matter.
+
+The REIT Manager uses external valuer to support its determination of the individual fair value of the investment properties. Our audit procedures included, amongst others, an assessment of the Group’s process relating to the selection of the external valuer, the determination of the scope of work of the valuer, and a review of the valuation reports issued by the external valuer. We evaluated the objectivity, independence and expertise of the external valuer and read their terms of engagement to ascertain whether there are matters that might have affected the scope of their work and their objectivity.
+
+We involved our internal real estate and valuation specialists to assist us in assessing the appropriateness of the valuation model and the reasonableness of the significant assumptions and estimates by reference to historical rates and market data. Our procedures also included checking the reliability of property related data used by the external valuer, assessing the appropriateness of the valuation techniques and basis for the significant assumptions and estimates used, including key valuation adjustments made in response to the changes in market and economic conditions. We assessed the overall reasonableness of the movements in fair value of the investment properties and the associated deferred tax consequences. We also assessed the adequacy of disclosures in Note 19(d) to the consolidated financial statements.
+
+## Other Information
+
+The REIT Manager is responsible for other information. The other information comprises the information included in the annual report but does not include the financial statements and our auditor’s report thereon.
+
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+<!-- PAGE 160 -->
+
+## Responsibilities of the REIT Manager for the Financial Statements
+
+The REIT Manager is responsible for the preparation and fair presentation of these financial statements in accordance with the recommendations of The Statement of Recommended Accounting Practice 7 “ *Reporting framework for Unit Trusts* ” (RAP 7) issued by the Institution of Singapore Chartered Accountants, and for such internal control as the REIT Manager determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the REIT Manager is responsible for assessing the Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the REIT Manager either intends to terminate the Group or to cease the Group’s operations, or has no realistic alternative but to do so.
+
+The REIT Manager’s responsibilities include overseeing the Group’s financial reporting process.
+
+## Auditor’s Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SSAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain professional scepticism throughout the audit. We also:
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal control.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the REIT Manager.
+- Conclude on the appropriateness of the REIT Manager’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the Group to express an opinion on the consolidated financial statements. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinion.
+
+<!-- PAGE 161 -->
+
+# Independent Auditor’s Report
+
+For the financial year ended 31 December 2023
+
+## Auditor’s Responsibilities for the Audit of the Financial Statements (continued)
+
+We communicate with the REIT Manager regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide the REIT Manager with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with the REIT Manager, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+The engagement partner on the audit resulting in this independent auditor’s report is Briston Loo.
+
+**Ernst & Young LLP**
+
+Public Accountants and
+Chartered Accountants
+
+Singapore
+20 March 2024
+
+<!-- PAGE 162 -->
+
+# Statements of Financial Position
+
+As at 31 December 2023
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Note</th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6"><strong>Assets</strong></td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Non-current assets</strong></td>
+    </tr>
+    <tr>
+        <td>Investment properties</td>
+        <td>4</td>
+        <td>1,580,190</td>
+        <td>1,638,981</td>
+        <td>—</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Interests in subsidiaries</td>
+        <td>5</td>
+        <td>—</td>
+        <td>—</td>
+        <td>1,047,947</td>
+        <td>1,080,917</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td>1,580,190</td>
+        <td>1,638,981</td>
+        <td>1,047,947</td>
+        <td>1,080,917</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Current assets</strong></td>
+    </tr>
+    <tr>
+        <td>Prepayments, deposits and other receivables</td>
+        <td>6</td>
+        <td>26,042</td>
+        <td>28,104</td>
+        <td>354</td>
+        <td>224</td>
+    </tr>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>7</td>
+        <td>140,834</td>
+        <td>100,755</td>
+        <td>3,765</td>
+        <td>33,214</td>
+    </tr>
+    <tr>
+        <td>Derivative financial instruments</td>
+        <td>11</td>
+        <td>614</td>
+        <td>—</td>
+        <td>77</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td>167,490</td>
+        <td>128,859</td>
+        <td>4,196</td>
+        <td>33,438</td>
+    </tr>
+    <tr>
+        <td><strong>Total assets</strong></td>
+        <td> </td>
+        <td>1,747,680</td>
+        <td>1,767,840</td>
+        <td>1,052,143</td>
+        <td>1,114,355</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong><u>Liabilities</u></strong></td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Non-current liabilities</strong></td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>8</td>
+        <td>369,895</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Loan from a related party</td>
+        <td>8</td>
+        <td>57,279</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Other payables</td>
+        <td>10</td>
+        <td>—</td>
+        <td>—</td>
+        <td>195,435</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td>Deferred tax liabilities</td>
+        <td>9</td>
+        <td>114,970</td>
+        <td>111,667</td>
+        <td>—</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td>542,144</td>
+        <td>111,667</td>
+        <td>195,435</td>
+        <td>—</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Current liabilities</strong></td>
+    </tr>
+    <tr>
+        <td>Other payables and accruals</td>
+        <td>10</td>
+        <td>142,285</td>
+        <td>69,635</td>
+        <td>1,329</td>
+        <td>1,257</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>8</td>
+        <td>5,439</td>
+        <td>487,355</td>
+        <td>—</td>
+        <td>240,099</td>
+    </tr>
+    <tr>
+        <td>Derivative financial instruments</td>
+        <td>11</td>
+        <td>23</td>
+        <td>23</td>
+        <td>—</td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td>Tax payables</td>
+        <td> </td>
+        <td>38,177</td>
+        <td>31,361</td>
+        <td>27</td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td>185,924</td>
+        <td>588,374</td>
+        <td>1,356</td>
+        <td>241,408</td>
+    </tr>
+    <tr>
+        <td><strong>Total liabilities</strong></td>
+        <td> </td>
+        <td>728,068</td>
+        <td>700,041</td>
+        <td>196,791</td>
+        <td>241,408</td>
+    </tr>
+    <tr>
+        <td><strong>Net assets</strong></td>
+        <td> </td>
+        <td>1,019,612</td>
+        <td>1,067,799</td>
+        <td>855,352</td>
+        <td>872,947</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="6"><strong>Represented by:</strong></td>
+    </tr>
+    <tr>
+        <td>Unitholders’ funds</td>
+        <td> </td>
+        <td>1,019,612</td>
+        <td>1,067,799</td>
+        <td>855,352</td>
+        <td>872,947</td>
+    </tr>
+    <tr>
+        <td>Units in issue and to be issued (’000)</td>
+        <td>12</td>
+        <td>1,245,670</td>
+        <td>1,233,752</td>
+        <td>1,245,670</td>
+        <td>1,233,752</td>
+    </tr>
+    <tr>
+        <td>Net asset value per Unit ($)</td>
+        <td> </td>
+        <td>0.82</td>
+        <td>0.87</td>
+        <td>0.69</td>
+        <td>0.71</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying accounting policies and explanatory notes form an integral part of the financial statements.
+
+<!-- PAGE 163 -->
+
+# Consolidated Statement of Total Return
+
+For the financial year ended 31 December 2023
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th colspan="2">Group</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Note</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>EMA rental income¹</td>
+        <td>13</td>
+        <td>126,726</td>
+        <td>125,932</td>
+    </tr>
+    <tr>
+        <td>REIT Manager’s management fees</td>
+        <td> </td>
+        <td>(8,335)</td>
+        <td>(8,850)</td>
+    </tr>
+    <tr>
+        <td>Trustee’s fees</td>
+        <td> </td>
+        <td>(321)</td>
+        <td>(342)</td>
+    </tr>
+    <tr>
+        <td>Other trust expenses</td>
+        <td>14</td>
+        <td>(1,268)</td>
+        <td>(1,296)</td>
+    </tr>
+    <tr>
+        <td>Finance income</td>
+        <td> </td>
+        <td>286</td>
+        <td>171</td>
+    </tr>
+    <tr>
+        <td>Finance costs</td>
+        <td>15</td>
+        <td>(27,409)</td>
+        <td>(26,280)</td>
+    </tr>
+    <tr>
+        <td>Exchange differences</td>
+        <td> </td>
+        <td>(813)</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>Change in fair value of financial derivatives</td>
+        <td> </td>
+        <td>614</td>
+        <td>70</td>
+    </tr>
+    <tr>
+        <td><strong>Total return before fair value adjustments to investment properties and tax</strong></td>
+        <td> </td>
+        <td><strong>89,480</strong></td>
+        <td><strong>89,515</strong></td>
+    </tr>
+    <tr>
+        <td>Fair value adjustments to investment properties</td>
+        <td>4</td>
+        <td>(3,101)</td>
+        <td>(9,328)</td>
+    </tr>
+    <tr>
+        <td><strong>Total return for the year before tax</strong></td>
+        <td> </td>
+        <td><strong>86,379</strong></td>
+        <td><strong>80,187</strong></td>
+    </tr>
+    <tr>
+        <td>Tax expense</td>
+        <td>16</td>
+        <td>(23,958)</td>
+        <td>(18,089)</td>
+    </tr>
+    <tr>
+        <td><strong>Total return for the year attributable to Unitholders</strong></td>
+        <td> </td>
+        <td><strong>62,421</strong></td>
+        <td><strong>62,098</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> The Group receives EMA rental income under the Entrusted Management Agreement (EMA), and all the operating expenses of the properties are borne by the Entrusted Manager.
+
+The accompanying accounting policies and explanatory notes form an integral part of the financial statements.
+
+<!-- PAGE 164 -->
+
+# Consolidated Distribution Statement
+
+For the financial year ended 31 December 2023
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">Group</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Income available for distribution to Unitholders at beginning of the year</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Total return for the year attributable to Unitholders</td>
+<td>62,421</td>
+<td>62,098</td>
+    </tr>
+    <tr>
+<td>Distribution adjustments (Note A)</td>
+<td>20,929</td>
+<td>26,405</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>83,350</td>
+<td>88,503</td>
+    </tr>
+    <tr>
+<td>Less: Amount retained</td>
+<td>(5,980)</td>
+<td>(8,181)</td>
+    </tr>
+    <tr>
+<td>Amount available for distribution to Unitholders</td>
+<td>77,370</td>
+<td>80,322</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3">Distribution to Unitholders:</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.849 cents per Unit for the period from 1/1/2023 to 31/3/2023</td>
+<td>(22,812)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.473 cents per Unit for the period from 1/4/2023 to 30/6/2023</td>
+<td>(18,220)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.512 cents per Unit for the period from 1/7/2023 to 30/9/2023</td>
+<td>(18,746)</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.415 cents per Unit for the period from 1/10/2023 to 31/12/2023</td>
+<td>(17,583)¹</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.822 cents per Unit for the period from 1/1/2022 to 31/3/2022</td>
+<td>–</td>
+<td>(22,269)</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.588 cents per Unit for the period from 1/4/2022 to 30/6/2022</td>
+<td>–</td>
+<td>(19,456)</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.838 cents per Unit for the period from 1/7/2022 to 30/9/2022</td>
+<td>–</td>
+<td>(22,568)</td>
+    </tr>
+    <tr>
+<td>Distribution of 1.302 cents per Unit for the period from 1/10/2022 to 31/12/2022</td>
+<td>–</td>
+<td>(16,029)²</td>
+    </tr>
+    <tr>
+<td>Total distribution to Unitholders</td>
+<td>(77,361)</td>
+<td>(80,322)</td>
+    </tr>
+    <tr>
+<td>Amount available for distribution to Unitholders at end of the year</td>
+<td>9</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td><strong>Distribution per Unit (DPU) (cents)³:</strong></td>
+<td><strong>6.249</strong></td>
+<td><strong>6.550</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3"><strong>Note A – Distribution adjustments comprise:</strong></td>
+    </tr>
+    <tr>
+<td>- REIT Manager’s management fees paid/payable in Units</td>
+<td>8,335</td>
+<td>8,850</td>
+    </tr>
+    <tr>
+<td>- Amortisation of borrowing-related transaction costs</td>
+<td>1,518</td>
+<td>6,423</td>
+    </tr>
+    <tr>
+<td>- Straight-line adjustments</td>
+<td>(1,812)</td>
+<td>(4,608)</td>
+    </tr>
+    <tr>
+<td>- Fair value adjustments to investment properties</td>
+<td>3,101</td>
+<td>9,328</td>
+    </tr>
+    <tr>
+<td>- Deferred tax expense</td>
+<td>7,485</td>
+<td>6,624</td>
+    </tr>
+    <tr>
+<td>- Exchange differences</td>
+<td>2,916</td>
+<td>(142)</td>
+    </tr>
+    <tr>
+<td>- Change in fair value of financial derivatives</td>
+<td>(614)</td>
+<td>(70)</td>
+    </tr>
+    <tr>
+<td>Distribution adjustments</td>
+<td>20,929</td>
+<td>26,405</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Distribution relating to the period from 1 October 2023 to 31 December 2023 will be made subsequent to the reporting date (Note 24).
+
+² Distribution relating to the period from 1 October 2022 to 31 December 2022 was made in the subsequent financial year.
+
+³ The DPU relates to the distributions in respect of the relevant financial year.
+
+The accompanying accounting policies and explanatory notes form an integral part of the financial statements.
+
+<!-- PAGE 165 -->
+
+# Statements of Changes in Unitholders’ Funds
+
+For the financial year ended 31 December 2023
+
+
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th colspan="2">Group</th>
+<th colspan="2">Trust</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Note</th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td><strong>At beginning of the year</strong></td>
+<td> </td>
+<td>1,067,799</td>
+<td>1,209,208</td>
+<td>872,947</td>
+<td>911,694</td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Operations</strong></td>
+    </tr>
+    <tr>
+<td>Total return for the year attributable to Unitholders</td>
+<td> </td>
+<td>62,421</td>
+<td>62,098</td>
+<td>49,877</td>
+<td>39,821</td>
+    </tr>
+    <tr>
+<td><strong>Net increase in net assets resulting from operations</strong></td>
+<td> </td>
+<td>62,421</td>
+<td>62,098</td>
+<td>49,877</td>
+<td>39,821</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Unitholders’ transactions</strong></td>
+    </tr>
+    <tr>
+<td colspan="6">Units in issue</td>
+    </tr>
+    <tr>
+<td>- REIT Manager’s management fees paid in Units</td>
+<td> </td>
+<td>6,271</td>
+<td>6,858</td>
+<td>6,271</td>
+<td>6,858</td>
+    </tr>
+    <tr>
+<td>- Distribution to Unitholders</td>
+<td>12</td>
+<td>(75,807)</td>
+<td>(87,418)</td>
+<td>(75,807)</td>
+<td>(87,418)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td>(69,536)</td>
+<td>(80,560)</td>
+<td>(69,536)</td>
+<td>(80,560)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="6">Units to be issued</td>
+    </tr>
+    <tr>
+<td>- REIT Manager’s management fees payable in Units</td>
+<td>12</td>
+<td>2,064</td>
+<td>1,992</td>
+<td>2,064</td>
+<td>1,992</td>
+    </tr>
+    <tr>
+<td><strong>Net decrease in net assets resulting from Unitholders’ transactions</strong></td>
+<td> </td>
+<td>(67,472)</td>
+<td>(78,568)</td>
+<td>(67,472)</td>
+<td>(78,568)</td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>Foreign currency translation reserve</strong></td>
+    </tr>
+    <tr>
+<td>Movement in foreign currency translation reserve</td>
+<td> </td>
+<td>(43,136)</td>
+<td>(124,939)</td>
+<td>—</td>
+<td>—</td>
+    </tr>
+    <tr>
+<td><strong>At end of the year</strong></td>
+<td> </td>
+<td><strong>1,019,612</strong></td>
+<td><strong>1,067,799</strong></td>
+<td><strong>855,352</strong></td>
+<td><strong>872,947</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying accounting policies and explanatory notes form an integral part of the financial statements.
+
+<!-- PAGE 166 -->
+
+# **Consolidated** Statement of Cash Flows
+
+For the financial year ended 31 December 2023
+
+**Group**
+
+<table>
+  <thead>
+    <tr>
+      <th>Note 2023 2022</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash flows from operating activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Total return for the year before tax</td>
+      <td>86,379</td>
+      <td>80,187</td>
+    </tr>
+    <tr>
+      <td><u>Adjustments for:</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>REIT Manager’s management fees paid/payable in Units</td>
+      <td>8,335</td>
+      <td>8,850</td>
+    </tr>
+    <tr>
+      <td>Straight-line adjustments 4</td>
+      <td>(1,812)</td>
+      <td>(4,608)</td>
+    </tr>
+    <tr>
+      <td>Change in fair value of investment properties 4</td>
+      <td>3,101</td>
+      <td>9,328</td>
+    </tr>
+    <tr>
+      <td>Change in fair value of financial derivatives</td>
+      <td>(614)</td>
+      <td>(70)</td>
+    </tr>
+    <tr>
+      <td>Finance costs 15</td>
+      <td>27,409</td>
+      <td>26,280</td>
+    </tr>
+    <tr>
+      <td>Finance income</td>
+      <td>(286)</td>
+      <td>(171)</td>
+    </tr>
+    <tr>
+      <td>Cash flows before changes in working capital</td>
+      <td>122,512</td>
+      <td>119,796</td>
+    </tr>
+    <tr>
+      <td><u>Changes in working capital:</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prepayments, deposits and other receivables</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(excluding mid-term deposits)</td>
+      <td>818</td>
+      <td>(8,271)</td>
+    </tr>
+    <tr>
+      <td>Mid-term deposits −</td>
+      <td></td>
+      <td>6,405</td>
+    </tr>
+    <tr>
+      <td>Other payables and accruals</td>
+      <td>68,015</td>
+      <td>(44,038)</td>
+    </tr>
+    <tr>
+      <td>Cash generated from operations</td>
+      <td>191,345</td>
+      <td>73,892</td>
+    </tr>
+    <tr>
+      <td>Tax paid</td>
+      <td>(6,164)</td>
+      <td>(7,237)</td>
+    </tr>
+    <tr>
+      <td>Interest received</td>
+      <td>247</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>Net cash generated from operating activities</td>
+      <td>185,428</td>
+      <td>66,818</td>
+    </tr>
+    <tr>
+      <td>Cash flows from investing activity</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Capital expenditure on investment properties</td>
+      <td>(532)</td>
+      <td>(3,770)</td>
+    </tr>
+    <tr>
+      <td>Net cash used in investing activity</td>
+      <td>(532)</td>
+      <td>(3,770)</td>
+    </tr>
+    <tr>
+      <td>Cash flows from financing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Proceeds from bank loans –</td>
+      <td>395,193</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Loan from a related party –</td>
+      <td>59,505</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Repayments of bank loans</td>
+      <td>(491,138)</td>
+      <td>(5,592)</td>
+    </tr>
+    <tr>
+      <td>Payment of borrowing-related transaction costs –</td>
+      <td>(13,513)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distribution to Unitholders</td>
+      <td>(75,807)</td>
+      <td>(87,418)</td>
+    </tr>
+    <tr>
+      <td>Interest paid 8</td>
+      <td>(18,904)</td>
+      <td>(19,382)</td>
+    </tr>
+    <tr>
+      <td>Decrease/(increase) in restricted cash</td>
+      <td>115</td>
+      <td>(3,016)</td>
+    </tr>
+    <tr>
+      <td>Net cash used in financing activities</td>
+      <td>(144,549)</td>
+      <td>(115,408)</td>
+    </tr>
+    <tr>
+      <td>Net increase/(decrease) in cash and cash equivalents</td>
+      <td>40,347</td>
+      <td>(52,360)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at beginning of the year</td>
+      <td>90,833</td>
+      <td>152,421</td>
+    </tr>
+    <tr>
+      <td>Effect of exchange rate changes on cash and cash equivalents</td>
+      <td>17</td>
+      <td>(9,228)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at end of the year 7</td>
+      <td>131,197</td>
+      <td>90,833</td>
+    </tr>
+    <tr>
+      <td>164 SasseurREITAnnual Report 2023</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Note 2023 2022</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$’000 $’000</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cash flows from operating activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Total return for the year before tax</td>
+      <td>86,379</td>
+      <td>80,187</td>
+    </tr>
+    <tr>
+      <td><u>Adjustments for:</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>REIT Manager’s management fees paid/payable in Units</td>
+      <td>8,335</td>
+      <td>8,850</td>
+    </tr>
+    <tr>
+      <td>Straight-line adjustments 4</td>
+      <td>(1,812)</td>
+      <td>(4,608)</td>
+    </tr>
+    <tr>
+      <td>Change in fair value of investment properties 4</td>
+      <td>3,101</td>
+      <td>9,328</td>
+    </tr>
+    <tr>
+      <td>Change in fair value of financial derivatives</td>
+      <td>(614)</td>
+      <td>(70)</td>
+    </tr>
+    <tr>
+      <td>Finance costs 15</td>
+      <td>27,409</td>
+      <td>26,280</td>
+    </tr>
+    <tr>
+      <td>Finance income</td>
+      <td>(286)</td>
+      <td>(171)</td>
+    </tr>
+    <tr>
+      <td>Cash flows before changes in working capital</td>
+      <td>122,512</td>
+      <td>119,796</td>
+    </tr>
+    <tr>
+      <td><u>Changes in working capital:</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prepayments, deposits and other receivables</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(excluding mid-term deposits)</td>
+      <td>818</td>
+      <td>(8,271)</td>
+    </tr>
+    <tr>
+      <td>Mid-term deposits −</td>
+      <td></td>
+      <td>6,405</td>
+    </tr>
+    <tr>
+      <td>Other payables and accruals</td>
+      <td>68,015</td>
+      <td>(44,038)</td>
+    </tr>
+    <tr>
+      <td>Cash generated from operations</td>
+      <td>191,345</td>
+      <td>73,892</td>
+    </tr>
+    <tr>
+      <td>Tax paid</td>
+      <td>(6,164)</td>
+      <td>(7,237)</td>
+    </tr>
+    <tr>
+      <td>Interest received</td>
+      <td>247</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>Net cash generated from operating activities</td>
+      <td>185,428</td>
+      <td>66,818</td>
+    </tr>
+    <tr>
+      <td>Cash flows from investing activity</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Capital expenditure on investment properties</td>
+      <td>(532)</td>
+      <td>(3,770)</td>
+    </tr>
+    <tr>
+      <td>Net cash used in investing activity</td>
+      <td>(532)</td>
+      <td>(3,770)</td>
+    </tr>
+    <tr>
+      <td>Cash flows from financing activities</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Proceeds from bank loans –</td>
+      <td>395,193</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Loan from a related party –</td>
+      <td>59,505</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Repayments of bank loans</td>
+      <td>(491,138)</td>
+      <td>(5,592)</td>
+    </tr>
+    <tr>
+      <td>Payment of borrowing-related transaction costs –</td>
+      <td>(13,513)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Distribution to Unitholders</td>
+      <td>(75,807)</td>
+      <td>(87,418)</td>
+    </tr>
+    <tr>
+      <td>Interest paid 8</td>
+      <td>(18,904)</td>
+      <td>(19,382)</td>
+    </tr>
+    <tr>
+      <td>Decrease/(increase) in restricted cash</td>
+      <td>115</td>
+      <td>(3,016)</td>
+    </tr>
+    <tr>
+      <td>Net cash used in financing activities</td>
+      <td>(144,549)</td>
+      <td>(115,408)</td>
+    </tr>
+    <tr>
+      <td>Net increase/(decrease) in cash and cash equivalents</td>
+      <td>40,347</td>
+      <td>(52,360)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at beginning of the year</td>
+      <td>90,833</td>
+      <td>152,421</td>
+    </tr>
+    <tr>
+      <td>Effect of exchange rate changes on cash and cash equivalents</td>
+      <td>17</td>
+      <td>(9,228)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at end of the year 7</td>
+      <td>131,197</td>
+      <td>90,833</td>
+    </tr>
+    <tr>
+      <td>164 SasseurREITAnnual Report 2023</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 167 -->
+
+# Statement of Portfolio
+
+As at 31 December 2023
+
+<table>
+  <thead>
+    <tr>
+        <th>Description of Property</th>
+        <th>Location</th>
+        <th>Tenure of Land</th>
+        <th>Remaining Term of Lease (Year)</th>
+        <th>Lease Expiry</th>
+        <th colspan="2">Valuation</th>
+        <th colspan="2">Valuation</th>
+        <th colspan="2">Percentage of Total Net Assets attributable to Unitholders</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th> </th>
+        <th>RMB’000</th>
+        <th>RMB’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>%</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Sasseur (Chongqing Liangjiang) Outlet</td>
+        <td>No. 1 Aotelaisi Road, Beibuxin District, Chongqing</td>
+        <td>Leasehold</td>
+        <td>23</td>
+        <td>2047</td>
+        <td>3,129,000</td>
+        <td>3,129,000</td>
+        <td>581,901</td>
+        <td>603,693</td>
+        <td>57.1</td>
+        <td>56.5</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Chongqing Bishan) Outlet</td>
+        <td>No. 9 Baiyang Road, Bishan District, Chongqing</td>
+        <td>Leasehold</td>
+        <td>28</td>
+        <td>2051</td>
+        <td>834,000</td>
+        <td>834,000</td>
+        <td>155,099</td>
+        <td>160,908</td>
+        <td>15.2</td>
+        <td>15.1</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Hefei) Outlet</td>
+        <td>No. 1888 Changning Avenue, Gaoxin District, Hefei, Anhui Province</td>
+        <td>Leasehold</td>
+        <td>30</td>
+        <td>2053</td>
+        <td>2,882,000</td>
+        <td>2,880,000</td>
+        <td>535,967</td>
+        <td>555,652</td>
+        <td>52.6</td>
+        <td>52.0</td>
+    </tr>
+    <tr>
+        <td>Sasseur (Kunming) Outlet</td>
+        <td>No. 181 Aotelaisi Avenue, Anning City, Kunming, Yunnan Province</td>
+        <td>Leasehold</td>
+        <td>30</td>
+        <td>2054</td>
+        <td>1,652,000</td>
+        <td>1,652,000</td>
+        <td>307,223</td>
+        <td>318,728</td>
+        <td>30.1</td>
+        <td>29.8</td>
+    </tr>
+    <tr>
+        <td>Investment properties, at valuation</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>8,497,000</td>
+        <td>8,495,000</td>
+        <td>1,580,190</td>
+        <td>1,638,981</td>
+        <td>155.0</td>
+        <td>153.4</td>
+    </tr>
+    <tr>
+        <td>Other assets and liabilities (net)</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>(560,578)</td>
+        <td>(571,182)</td>
+        <td>(55.0)</td>
+        <td>(53.4)</td>
+    </tr>
+    <tr>
+        <td>Net assets attributable to Unitholders</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>1,019,612</td>
+        <td>1,067,799</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+  </tbody>
+</table>
+
+The accompanying accounting policies and explanatory notes form an integral part of the financial statements.
+
+<!-- PAGE 168 -->
+
+## 1. GENERAL
+
+Sasseur Real Estate Investment Trust (the Trust) is a Singapore real estate investment trust constituted pursuant to a trust deed dated 30 October 2017, as supplemented and amended by the First Supplemental Deed dated 19 March 2018 (the Trust Deed) made between Sasseur Asset Management Pte. Ltd. (the REIT Manager) and DBS Trustee Limited (the Trustee). The trust deed is governed by the laws of the Republic of Singapore. The Trustee is under a duty to take into custody and hold the assets of the Trust and its subsidiaries in trust for the Unitholders of the Trust.
+
+The Trust was constituted as a private trust on 30 October 2017 (date of constitution) and admitted to the Official List of Singapore Exchange Securities Trading Limited (the SGX-ST) on 28 March 2018 (the Listing Date). The Trust was established to acquire an initial portfolio of four retail outlet malls located in People’s Republic of China (PRC) comprising Sasseur (Chongqing Liangjiang) Outlet, Sasseur (Chongqing Bishan) Outlet, Sasseur (Hefei) Outlet and Sasseur (Kunming) Outlet (collectively, the Initial Portfolio or Properties).
+
+The registered office of the REIT Manager is located at 1 Harbourfront Avenue, #14-07 Keppel Bay Tower, Singapore 098632. The principal place of business is located at 7 Temasek Boulevard, #06-05, Suntec Tower One, Singapore 038987.
+
+The principal activity of the Trust is to invest principally, directly or indirectly, in a diversified portfolio of income-producing real estate, primarily comprised retail outlet malls, as well as real estate related assets, with an initial focus in Asia.
+
+## <u>Entrusted Management Agreement</u>
+
+The Trustee, the REIT Manager and the Sponsor have entered into a Master Entrusted Management Agreement (EMA) in relation to management of the Properties’ operations. Sasseur (Shanghai) Holding Company Limited, a wholly-owned subsidiary of the Sponsor, is the Entrusted Manager of the Trust.
+
+The terms of the EMA are for 10 years from the Listing Date. Pursuant to the terms of the EMA, all the operating expenses of the properties shall be borne by the Entrusted Manager throughout the entire EMA duration.
+
+Under the EMA, Group is entitled to receive EMA rental income, a sum of fixed rent (the fixed component) and a variable rent (the variable component) plus performance sharing if any. The fixed component for each Properties shall increase at an escalation rate of 3.0% per annum, in line with inflationary expectation. EMA Resultant Rent is the sum of fixed component and variable component. Performance sharing is based on the differential between the Gross Revenue and EMA Resultant Rent and after deducting the Entrusted Manager Base Fee (EM Base Fee), defined in Note 1(c).
+
+The variable component for each Property is pegged to a percentage of their respective total sales of a range between 4.0% to 5.5%. Gross Revenue is property income plus the income received or receivable by the PRC Property Companies from investments in other permissible investments. PRC Property Companies are the subsidiaries of the Trust listed in Note 5.
+
+Unlike conventional lease arrangements, whereby tenants make rental payments to the landlord on a monthly basis, a point-of-sale and cash management system is put in place whereby the total sale proceeds of goods sold by the retail tenants are deposited into the bank accounts of each respective PRC Property Companies. The PRC Property Companies will deduct rental income from the total sale proceeds and return the balance to each retail tenant.
+
+<!-- PAGE 169 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 1. GENERAL (continued)
+
+The fee structures of these services are as follows:
+
+### (a) Management fee
+
+The REIT Manager is entitled under the Trust Deed to receive the following remuneration for the provision of asset management services:
+
+**Base fee**
+
+Pursuant to the Trust Deed, the REIT Manager is entitled to a Base Fee not exceeding the rate of 10.0% per annum (or such lower percentage as may be determined by the REIT Manager in its absolute discretion) of the distributable income. The Base Fee is payable to the REIT Manager either in the form of cash or Units out of the Properties as the REIT Manager may elect, in such proportions as may be determined by the REIT Manager.
+
+The REIT Manager has elected to receive 100.0% of its Base Fee in the form of Units for the financial years ended 31 December 2023 and 31 December 2022.
+
+The portion of the Base Fee, payable either in the form of cash or Units, is payable quarterly in arrears. Where the Base Fee is payable in Units, Units will be issued based on the volume weighted average price for a Unit for all trades transacted on SGX-ST in the ordinary course of trading for the last 10 business days (as defined in the Trust Deed) immediately preceding the relevant business day.
+
+**Performance fee**
+
+Pursuant to the Trust Deed, the REIT Manager is entitled to a performance fee of 25.0% of the difference in Distribution Per Unit (DPU) in a financial year with the DPU in the preceding financial year (calculated before accounting for the performance fee, but after accounting for the Base Fee in each financial year) multiplied by the weighted average number of Units in issue for such financial year. The performance fee is payable if the DPU in any financial year exceeds the DPU in the preceding financial year, notwithstanding that the DPU in such relevant financial year may be less than the DPU in any financial year(s) prior to the preceding financial year.
+
+The performance fee is payable to the REIT Manager either in the form of cash or Units as the REIT Manager may elect, in such proportions as may be determined by the REIT Manager.
+
+The REIT Manager has elected to receive 100.0% of its performance fee in the form of cash for the financial year ended 31 December 2023 (2022: 100.0% of its performance fee in the form of Units).
+
+The portion of the performance fee, payable either in the form of cash or Units, is payable annually in arrears. Where the performance fee is payable in Units, Units will be issued based on the volume weighted average price for a Unit for all trades transacted on SGX-ST in the ordinary course of trading for the last 10 business days (as defined in the Trust Deed) immediately preceding the relevant business day.
+
+No performance fee was payable for the financial year ended 31 December 2023 (2022: $Nil).
+
+<!-- PAGE 170 -->
+
+## (a) Management fee (continued)
+
+## *Acquisition fee*
+
+Pursuant to the Trust Deed, the REIT Manager is entitled to receive an acquisition fee of 0.75% of the acquisition price of any real estate purchased, whether directly or indirectly through one or more subsidiaries, by the Trust (pro-rated if applicable to the proportion of the Trust’s interest in the real estate acquired) from related parties and 1.0% of the acquisition price for all other cases (or such lower percentage as may be determined by the REIT Manager in its absolute discretion).
+
+The acquisition fee is payable to the REIT Manager either in the form of cash or Units as the REIT Manager may elect, in such proportions as may be determined by the REIT Manager. In respect of any acquisition of real estate assets from related parties, such a fee should be in the form of Units issued by the Trust at the prevailing market price(s) instead of cash. Such Units should not be sold within 1 year from the date of their issuance.
+
+The acquisition fee is payable as soon as practicable after completion of the acquisition or sale. There was no acquisition fee paid for the Initial Portfolio of assets acquired by the Trust.
+
+No acquisition fee was paid for the financial years ended 31 December 2023 and 31 December 2022.
+
+## *Divestment fee*
+
+Pursuant to the Trust Deed, the REIT Manager is entitled to receive a divestment fee of 0.5% (or such lower percentage as may be determined by the REIT Manager in its absolute discretion) of the sale price of any real estate sold or divested, the underlying value of any real estate which is taken into account when computing the sale price for the equity interests in any vehicle, the sale price of any investment sold or divested by the Trust whether directly or indirectly through one or more subsidiaries, by the Trust.
+
+The divestment fee is payable to the REIT Manager either in the form of cash or Units as the REIT Manager may elect, in such proportions as may be determined by the REIT Manager. Any payment to third party agents or brokers in connection with the disposal of any assets shall be paid to such persons out of the Properties, and not out of the divestment fee received or to be received by the REIT Manager.
+
+No divestment fee was paid for the financial years ended 31 December 2023 and 31 December 2022.
+
+<!-- PAGE 171 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 1. GENERAL (continued)
+
+### (a) Management fee (continued)
+
+*Development management fee*
+
+Pursuant to the Trust Deed, the REIT Manager is entitled to receive a development management fee of 3.0% of the total project costs incurred in development projects. Project costs is defined to mean the sum of construction cost based on project final account prepared by the project quantity surveyor or issued by the appointed contractor; principal consultants fees, cost of obtaining all approval for the project, site staff cost, interest costs on borrowings used to finance project cashflow, any other costs including contingency expenses.
+
+The development management fee is payable in equal instalments over the construction period of each development project based on best estimates. The divestment fee is payable as soon as practicable after completion of the acquisition or sale.
+
+No development management fee was paid for the financial years ended 31 December 2023 and 31 December 2022.
+
+### (b) Trustee’s fee
+
+The Trustee’s fee shall not exceed 0.1% per annum of the value of the Deposited Properties, subject to a minimum of $15,000 per month, excluding out-of-pocket expenses and GST, in accordance with the Trust Deed. The Trustee’s fee is accrued daily and will be paid monthly in arrears in accordance with the Trust Deed. The actual fee payable will be determined between the REIT Manager and the Trustee from time to time.
+
+### (c) Entrusted management fee
+
+The Entrusted Manager is entitled to a management fee per annum comprising Base Fee (EM Base Fee) and a variable performance fee (EM Performance Fee).
+
+*EM Base Fee*
+
+EM Base Fee is derived from 30% of Gross Revenue.
+
+*EM Performance Fee*
+
+EM Performance Fee is determined as 60% of the differential between the Gross Revenue and EMA Resultant Rent after deducting EM Base Fee. The EM Performance Fee is payable annually.
+
+No EM Performance Fee is payable for the financial years ended 31 December 2023 and 31 December 2022.
+
+<!-- PAGE 172 -->
+
+# **Notes** to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 2. BASIS OF PREPARATION
+
+## 2.1 Statement of compliance
+
+The financial statements have been prepared in accordance with the recommendations of The Statement of Recommended Accounting Practice 7 “Reporting Framework for Unit Trusts” (RAP 7) issued by the Institute of Singapore Chartered Accountants, and the applicable requirements of the Code on Collective Investment Schemes (the CIS Code) issued by the Monetary Authority of Singapore (MAS) and the provisions of the Trust Deed.
+
+## 2.2 Going concern
+
+As at 31 December 2023, the current liabilities of the Group exceeded the current assets by $18,434,000 (2022: $459,515,000). Notwithstanding the net current liabilities position, the financial statements have been prepared on a going concern basis, as the REIT Manager is of the opinion that the Group will be able to meet its current obligations as and when they fall due based on the Group’s existing financial resources.
+
+## 2.3 Functional and presentation currency
+
+The Group’s consolidated financial statements are presented in Singapore dollars (SGD or $). The Trust and each entity in the Group determines its own functional currency and items included in the financial statements of each entity are measured using the currency that best reflects the economic substance of the underlying events and circumstances relevant to that entity (the functional currency). The functional currency of the Trust and its directly held subsidiary, Sasseur Singapore Holdings Pte. Ltd. are in SGD and the functional currency of all the indirectly held subsidiaries in Note 5 are in Chinese Renminbi (RMB). The presentation currency is SGD as the financial statements are meant primarily for users in Singapore. All values in the tables are rounded to the nearest thousand ($’000), except when otherwise indicated.
+
+## 2.4 Basis of measurement
+
+The financial statements have been prepared on the historical cost basis except as disclosed in the accounting policies below.
+
+<!-- PAGE 173 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 2. BASIS OF PREPARATION (continued)
+
+## 2.5 Significant accounting judgements and estimates
+
+The preparation of the Group’s consolidated financial statements in conformity with RAP 7 requires the REIT Manager to make judgements, estimates and assumptions that affect the reported amounts of assets, liabilities, income, expenses and the disclosure of contingent liabilities at the end of each reporting period.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period in which the estimate is revised, and in any future periods affected.
+
+There are no critical judgements made in applying accounting policies that have the most significant effect on the amounts recognised in the financial information.
+
+**Key sources of estimation uncertainty**
+
+The key assumptions concerning the future and other key sources of estimation uncertainty at the end of the reporting period are discussed below. The Group based its assumptions and estimates on parameters available when the financial statements were prepared. Existing circumstances and assumptions about future developments, however, may change due to market changes or circumstances arising beyond the control of the Group. Such changes are reflected in the assumptions when they occur.
+
+**Fair value of investment properties**
+
+The investment properties are stated at fair value based on independent valuations undertaken by Jones Lang LaSalle Corporate Appraisal and Advisory Limited on 31 December 2023. The independent valuer has the appropriate professional qualifications and recent experience in the location and category of the properties being valued.
+
+The fair value of the investment properties is determined by the independent valuer using the Discounted Cash Flow (DCF) approach. The key assumptions are provided in Note 19(d).
+
+The aggregate carrying amount of the investment properties at fair value as at 31 December 2023 is $1,580,190,000 (2022: $1,638,981,000).
+
+<!-- PAGE 174 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 3. MATERIAL ACCOUNTING POLICIES
+
+The accounting policies set out below have been applied by the Group consistently to the year presented in these financial statements.
+
+## 3.1 Basis of consolidation and business combination
+
+### (a) Basis of consolidation
+
+The consolidated financial statements comprise the financial statements of the Trust and its subsidiaries as at the end of the reporting period. The financial statements of the subsidiaries used in the preparation of the consolidated financial statements are prepared for the same reporting date as the Trust. Consistent accounting policies are applied to like transactions and events in similar circumstances.
+
+All intra-group balances, income and expenses and unrealised gains and losses resulting from intra-group transactions and dividends are eliminated in full.
+
+Subsidiaries are consolidated from the date of acquisition, being the date on which the Group obtains control, and continue to be consolidated until the date that such control ceases. Losses within a subsidiary are attributed to the non-controlling interest even if that results in a deficit balance.
+
+### (b) Business combinations
+
+Business combinations are accounted for using the acquisition method as at acquisition date, which is the date on which control is transferred to the Group. Identifiable assets acquired and liabilities assumed in a business combination are measured initially at their fair values as at acquisition date. Any contingent consideration to be transferred by the acquirer will be recognised at fair value at acquisition date. Subsequent changes to the fair value of the contingent consideration which is deemed to be an asset or liability, will be recognised in profit and loss. Any excess of the sum of fair value of the consideration transferred in the business combination, the amount of non-controlling interest in the acquiree (if any), and the fair value of the Group's previously held equity interest in the acquiree (if any), over the net fair value of the acquiree's identifiable assets and liabilities is recorded as goodwill. Any goodwill that arises is tested annually for impairment.
+
+When the excess is negative, a bargain purchase gain is recognised immediately in profit and loss.
+
+The consideration transferred does not include amounts related to the settlement of pre-existing relationships. Such amounts are generally recognised in profit and loss.
+
+When the acquisition of an investment property does not represent a business, it is accounted for as an acquisition of a group of assets and liabilities. Acquisition-related costs are capitalised to the investment property at the time the acquisition is completed.
+
+<!-- PAGE 175 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+
+
+## 3. MATERIAL ACCOUNTING POLICIES (continued)
+
+## 3.1 Basis of consolidation and business combination (continued)
+
+### (c) Subsidiaries
+
+Subsidiaries are entities controlled by the Group. The Group controls an entity when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect these returns through its power over the investee.
+
+In the Trust’s statement of financial position, investment in subsidiaries are accounted for at cost less impairment losses.
+
+
+
+## 3.2 Revenue recognition
+
+Revenue is recognised to the extent that it is received or receivable, taking into account contractually defined terms of payment and excluding taxes or duty.
+
+### (a) EMA rental income
+
+
+
+EMA rental income arising from operating leases on investment properties is accounted for on a straight-line basis over the lease terms and is included in profit and loss due to its operating nature except for contingent rental income which is recognised when it arises. Tenant lease incentives are recognised as a reduction of rental income over the lease term on a straight-line basis.
+
+### (b) Finance income
+
+Finance income comprises interest income which is recognised as it accrues using the effective interest method.
+
+## 3.3 Expenses
+
+
+
+**Management fees**
+
+Management fees are recognised on an accrual basis using the applicable formula stipulated in Note 1(a).
+
+**Trust expenses**
+
+Trust expenses are recognised on an accrual basis. Included in trust expenses is the Trustee’s fee which is based on the applicable formula stipulated in Note 1(b).
+
+<!-- PAGE 176 -->
+
+## 3.4 Finance expenses
+
+Finance costs comprise interest expense incurred on borrowings, amortisation and write-off of borrowing-related transaction costs.
+
+## 3.5 Earnings per Unit
+
+The Group presents basic and diluted earnings per Unit data for its Units. Basic earnings per Unit is calculated by dividing the total return for the year attributable to Unitholders of the Trust by the weighted average number of Units outstanding during the year.
+
+## 3.6 Cash and cash equivalents
+
+Cash and cash equivalents comprise cash at bank and on hand, and short-term fixed deposits that are readily convertible to known amount of cash and which are subject to insignificant risk of changes in value. These also include bank overdrafts that form an integral part of the Group’s cash management.
+
+## 3.7 Foreign currencies
+
+## *Transactions and balances*
+
+Transactions in foreign currencies are measured in the respective functional currencies of the Trust and its subsidiaries and are recorded on initial recognition in the functional currencies at exchange rates approximating those ruling at the transaction dates. Monetary assets and liabilities denominated in foreign currencies are translated at the rate of exchange ruling at the end of the reporting period. Non-monetary items that are measured in terms of historical cost in a foreign currency are translated using the exchange rates as at the dates of the initial transactions. Non-monetary items measured at fair value in a foreign currency are translated using the exchange rates at the date when the fair value was determined.
+
+Exchange differences arising on the settlement of monetary items or on translating monetary items at the end of the reporting period are recognised in profit or loss except for exchange differences arising on monetary items that form part of the Group’s net investment in foreign operations, which are recognised initially in other comprehensive income and accumulated under foreign currency translation reserve in equity.
+
+For consolidation purpose, the assets and liabilities of foreign operations are translated into Singapore dollars at the rate of exchange ruling at the end of the reporting period and their profit or loss are translated at the exchange rates prevailing at the date of the transactions. The exchange differences arising on the translation are recognised in foreign currency translation reserve. On disposal of a foreign operation, the cumulative amount in the foreign currency translation reserve relating to that particular foreign operation is recognised in profit or loss.
+
+<!-- PAGE 177 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+
+
+## 3. MATERIAL ACCOUNTING POLICIES (continued)
+
+## 3.8 Investment properties
+
+
+
+Investment properties are properties that are owned by the Group and are held to earn rentals or for capital appreciation, or both, rather than for use in the production or supply of goods or services, or for administrative purposes, or in the ordinary course of business. Investment properties comprise completed investment properties.
+
+Investment properties are initially measured at cost, including transaction costs.
+
+Subsequent to initial recognition, investment properties are measured at fair value. Gains or losses arising from changes in the fair values of investment properties are included in profit or loss in the year in which they arise. Fair values are determined in accordance with the Trust Deed, which requires the investment properties to be valued by independent registered valuers in such manner and frequency required under the CIS Code issued by MAS.
+
+## 3.9 Financial instruments
+
+
+
+### (a) Non-derivative financial assets
+
+**Initial recognition and measurement**
+
+Financial assets are recognised when, and only when, the Group becomes a party to the contractual provisions of the financial instrument. The Group determines the classification of its financial assets at initial recognition. The classification of financial assets at initial recognition depends on the financial asset’s contractual cash flow characteristics and the Group’s business model for managing them.
+
+The Group classifies non-derivative financial assets as financial assets measured at amortised cost. At initial recognition, the Group measures a financial asset at its fair value plus, in the case of a financial asset not at fair value through profit or loss (FVPL), transaction costs that are directly attributable to the acquisition of the financial asset.
+
+
+
+Other financial assets comprise cash and short-term deposits, deposits and other receivables.
+
+**Subsequent measurement**
+
+Financial assets at amortised cost are held for the collection of contractual cash flows where those cash flows represent solely payments of principal and interest are measured at amortised cost. Financial assets are measured at amortised cost using the effective interest method, less impairment. Gains and losses are recognised in profit or loss when the assets are derecognised or impaired, and through amortisation process.
+
+
+
+**Derecognition**
+
+A financial asset is derecognised where the contractual right to receive cash flows from the asset has expired. On derecognition of a financial asset in its entirety, the difference between the carrying amount and the sum of the consideration received is recognised in profit or loss.
+
+<!-- PAGE 178 -->
+
+## 3.9 Financial instruments (continued)
+
+## (b) Non-derivative financial liabilities
+
+## *Initial recognition and measurement*
+
+Financial liabilities are recognised when, and only when, the Group becomes a party to the contractual provisions of the financial instrument. The Group determines the classification of its financial liabilities at initial recognition.
+
+The Group derecognises a financial liability when its contractual obligations are discharged or cancelled or expired.
+
+Financial assets and liabilities are offset and the net amount presented in the Statements of Financial Position when, and only when, the Group has a legal right to offset the amounts and intends either to settle on a net basis or to realise the asset and settle the liability simultaneously.
+
+The Group classifies non-derivative financial liabilities as financial liabilities measured at amortised cost. Such financial liabilities are recognised initially at fair value and any directly attributable transaction costs.
+
+Other financial liabilities comprise other payables, rental security deposits and loans and borrowings.
+
+## *Subsequent measurement*
+
+Subsequent to initial recognition, these financial liabilities are measured at amortised cost using the effective interest method. Gains and losses are recognised in profit or loss when the liabilities are derecognised or impaired, and through the amortisation process.
+
+## *Derecognition*
+
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires. On derecognition, the difference between the carrying amounts and the consideration paid is recognised in profit or loss.
+
+## (c) Derivative financial instruments
+
+The Group holds derivative financial instruments to hedge its foreign currency and interest rate risk exposures. The Group has not elected to apply hedge accounting.
+
+Derivatives are recognised initially at fair value and any directly attributable transaction costs are recognised in the Statement of Total Return as incurred. Subsequent to initial recognition, derivatives are measured at fair value, and changes therein are generally recognised in the Statement of Total Return.
+
+<!-- PAGE 179 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 3. MATERIAL ACCOUNTING POLICIES (continued)
+
+## 3.10 Impairment of financial assets
+
+The Group considers evidence of impairment for loans and receivables at both a specific asset and collective level. All individually significant loans and receivables are assessed for specific impairment. All individually significant receivables found not to be specifically impaired are then collectively assessed for any impairment that has been incurred but not yet identified. Loans and receivables that are not individually significant are collectively assessed for impairment by grouping together loans and receivables with similar risk characteristics.
+
+In assessing collective impairment, the Group uses historical trends of the probability of default, the timing of recoveries and the amount of loss incurred, adjusted for management’s judgement as to whether current economic and credit conditions are such that the actual losses are likely to be greater or less than suggested by historical trends.
+
+An impairment loss in respect of a financial asset measured at amortised cost is calculated as the difference between its carrying amount and the present value of the estimated future cash flows, discounted at the asset’s original effective interest rate. Losses are recognised in profit or loss and reflected in an allowance account against loans and receivables. Interest on the impaired asset continues to be recognised. When the Group considers that there are no realistic prospects of recovery of the asset, the relevant amounts are written off. If the amount of impairment loss subsequently decreases and the decrease can be related objectively to an event occurring after the impairment was recognised, then the previously recognised impairment loss is reversed through profit or loss.
+
+## 3.11 Unitholders’ funds
+
+Unitholders’ funds are classified as equity. Issue costs relate to expenses incurred in connection with the issue of Units. These expenses are deducted directly against Unitholders’ funds.
+
+<!-- PAGE 180 -->
+
+## 3.12 Taxes
+
+## (a) Current income tax
+
+Current income tax assets and liabilities for the current and prior periods are measured at the amount expected to be recovered from or paid to the taxation authorities. The tax rates and tax laws used to compute the amount are those that are enacted or substantively enacted at the end of the reporting period, in the countries where the Group operates and generates taxable income.
+
+Current income taxes are recognised in profit or loss except to the extent that the tax relates to items recognised outside profit or loss, either in other comprehensive income or directly in equity. Management periodically evaluates positions taken in the tax returns with respect to situations in which applicable tax regulations are subject to interpretation and establishes provisions where appropriate.
+
+## (b) Deferred tax
+
+Deferred tax is provided using the liability method on temporary differences at the end of the reporting period between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
+
+Deferred tax is not recognised for:
+
+- temporary differences on the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither accounting nor taxable profit; and
+- temporary differences relating to investments in subsidiaries to the extent that the Group is able to control the timing of the reversal of the temporary differences and it is probable that they will not reverse in the foreseeable future.
+
+The measurement of deferred taxes reflects the tax consequences that would follow the manner in which the Group expects, at the end of the reporting period, to recover or settle the carrying amount of its assets and liabilities. For investment properties that are measured at fair value in the PRC, the presumption that the carrying amounts will be recovered through sale has not been rebutted. Deferred tax is measured at the tax rates that are expected to be applied to temporary differences when they reverse, based on the laws that have been enacted or substantively enacted by the reporting date.
+
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they relate to income taxes levied by the same tax authority on the same taxable entity.
+
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be available against which the unused tax losses and credits can be utilised. Deferred tax assets are reviewed at each reporting date and reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+
+<!-- PAGE 181 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 3. MATERIAL ACCOUNTING POLICIES (continued)
+
+## 3.13 Distribution policy
+
+The Trust makes distribution to the Unitholders on a quarterly basis. The Trust’s distribution policy is to distribute at least 90% of its annual income available for distribution for each financial year. The actual level of distribution will be determined at the discretion of the Board of Directors of the REIT Manager.
+
+## 3.14 Leases – as lessor
+
+Leases in which the Group does not transfer substantially all the risks and rewards of ownership of the asset are classified as operating leases. Initial direct costs incurred in negotiating an operating lease are added to the carrying amount of the leased asset and recognised over the lease term on the same bases as rental income. The accounting policy for rental income is set out in Note 3.2(a). Contingent rents are recognised as revenue in the period in which they are earned.
+
+## 3.15 Segment reporting
+
+For management purposes, the Group is organised into operating segments based on individual investment property within the Group’s portfolio. The properties are independently managed by the Entrusted Managers who are responsible for the performance of the property under their charge. Discrete financial information is provided to the REIT Manager on a property by property basis. The REIT Manager regularly reviews this information in order to allocate resources to each property and to assess the property’s performance.
+
+## 3.16 New and amended standards and interpretations
+
+The accounting policies adopted are consistent with those of the previous financial year except that in the current financial year, the Group has adopted all the new and amended standards which are relevant to the Group and are effective for annual financial periods beginning on or after 1 January 2023. The adoption of these standards did not have any material effect on the financial performance or position of the Group.
+
+## 3.17 Standards issued but not yet effective
+
+The Group has not adopted the following standards that have been issued but not yet effective:
+
+<table>
+  <thead>
+    <tr>
+        <th>Description</th>
+        <th>Effective for annual periods<br/>beginning on or after</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Amendments to FRS 1: Classification of Liabilities as Current or Non-current</td>
+        <td>1 January 2024</td>
+    </tr>
+    <tr>
+        <td>Amendments to FRS 1: Non-current Liabilities with Covenants</td>
+        <td>1 January 2024</td>
+    </tr>
+    <tr>
+        <td>Amendments to FRS 116: Lease Liability in a Sale and Leaseback</td>
+        <td>1 January 2024</td>
+    </tr>
+    <tr>
+        <td>Amendments to FRS 7: Supplier Finance Arrangements</td>
+        <td>1 January 2024</td>
+    </tr>
+    <tr>
+        <td>Amendments to FRS 21: Lack of Exchangeability</td>
+        <td>1 January 2025</td>
+    </tr>
+  </tbody>
+</table>
+
+The Group expects that the adoption of the standards above will have no material impact on the financial statements in the year of initial application.
+
+<!-- PAGE 182 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 4. INVESTMENT PROPERTIES
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">Group</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3"><u>Consolidated Statement of Financial Position</u></td>
+    </tr>
+    <tr>
+<td>At 1 January</td>
+<td>1,638,981</td>
+<td>1,801,013</td>
+    </tr>
+    <tr>
+<td>Capital expenditure incurred</td>
+<td>1,636</td>
+<td>4,078</td>
+    </tr>
+    <tr>
+<td>Change in fair value of investment properties</td>
+<td>(1,289)</td>
+<td>(4,720)</td>
+    </tr>
+    <tr>
+<td>Exchange differences</td>
+<td>(59,138)</td>
+<td>(161,390)</td>
+    </tr>
+    <tr>
+<td><strong>At 31 December</strong></td>
+<td><strong>1,580,190</strong></td>
+<td><strong>1,638,981</strong></td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3"><u>Consolidated Statement of Total Return</u></td>
+    </tr>
+    <tr>
+<td>Change in fair value of investment properties</td>
+<td>(1,289)</td>
+<td>(4,720)</td>
+    </tr>
+    <tr>
+<td>Net effect of straight-line adjustments¹</td>
+<td>(1,812)</td>
+<td>(4,608)</td>
+    </tr>
+    <tr>
+<td>Fair value adjustments to investment properties recognised in the<br/>Consolidated Statement of Total Return</td>
+<td>(3,101)</td>
+<td>(9,328)</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> Arising from accounting for EMA rental income on a straight-line basis, the difference between revenue recognised and the contractual cash flows is included in the carrying value of the investment properties and subsequently adjusted to the fair value adjustments to investment properties recognised in the Consolidated Statement of Total Return.
+
+Investment properties comprise retail properties which are leased to external tenants.
+
+<u>Valuation of investment properties</u>
+
+Investment properties are stated at fair value, which has been determined based on independent valuations performed by Jones Lang LaSalle Corporate Appraisal and Advisory Limited as at 31 December 2023 (2022: Colliers Appraisal & Advisory Services Co., Limited). The independent valuer has the appropriate professional qualification and recent experience in the location and category of the properties being valued. Details of valuation techniques and inputs are disclosed in Note 19(d).
+
+<u>Properties pledged as security</u>
+
+As at 31 December 2023, investment properties with an aggregate carrying amount of $1,272,967,000 (2022: $1,801,013,000) have been pledged as security to secure bank loans (see Note 8).
+
+<!-- PAGE 183 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 5. INTERESTS IN SUBSIDIARIES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Unquoted equity investment at cost</td>
+        <td>951,558</td>
+        <td>951,558</td>
+    </tr>
+    <tr>
+        <td>Non-trade amounts due from subsidiaries</td>
+        <td>96,389</td>
+        <td>129,359</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>1,047,947</td>
+        <td>1,080,917</td>
+    </tr>
+  </tbody>
+</table>
+
+The non-trade amounts due from subsidiaries are unsecured, non-interest bearing and settlement is neither planned nor likely to occur in the foreseeable future. As the non-trade amounts due from subsidiaries are, in substance, a part of the Trust’s net investment in the subsidiaries, it is stated at cost.
+
+Details of the subsidiaries are as follows:
+
+<table>
+  <thead>
+    <tr>
+<th rowspan="3">Name of subsidiaries</th>
+<th rowspan="3">Country of incorporation</th>
+<th rowspan="3">Principal activities</th>
+<th colspan="2">Effective equity interest held</th>
+    </tr>
+    <tr>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th>%</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><u><strong>Direct subsidiary:</strong></u></td>
+    </tr>
+    <tr>
+<td>Sasseur Singapore Holdings Pte. Ltd.¹</td>
+<td>Singapore</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><u><strong>Indirect subsidiaries:</strong></u></td>
+    </tr>
+    <tr>
+<td colspan="5"><u>British Virgin Islands (BVI) Holding Companies</u></td>
+    </tr>
+    <tr>
+<td>Sasseur Bishan (BVI) Limited³</td>
+<td>British Virgin Islands</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur Hefei Limited³</td>
+<td>British Virgin Islands</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur Jinan Limited³</td>
+<td>British Virgin Islands</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><u>Hong Kong (HK) Holding Companies</u></td>
+    </tr>
+    <tr>
+<td>Sasseur Bishan HK Limited²</td>
+<td>Hong Kong</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Hong Sun Development Group Limited²</td>
+<td>Hong Kong</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur Hefei HK Limited²</td>
+<td>Hong Kong</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur Jinan HK Limited²</td>
+<td>Hong Kong</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 184 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 5. INTERESTS IN SUBSIDIARIES (continued)
+
+<table>
+  <thead>
+    <tr>
+<th>Name of subsidiaries</th>
+<th>Country of incorporation</th>
+<th>Principal activities</th>
+<th colspan="2">Effective equity interest held</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>%</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><u><strong>Indirect subsidiaries: (continued)</strong></u></td>
+    </tr>
+    <tr>
+<td colspan="5"><u>PRC Holding Companies</u></td>
+    </tr>
+    <tr>
+<td>Sasseur (Hefei) Investment Consultancy Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur (Kunming) Investment Consultancy Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Investment holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td colspan="5"><u>PRC Property Companies</u></td>
+    </tr>
+    <tr>
+<td>Chongqing Sasseur Suge Apparel Joint Stock Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Property holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Sasseur (Chongqing) Business Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Property holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Hefei Sasseur Commercial Management Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Property holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+    <tr>
+<td>Kunming Sasseur Commercial Management Co., Ltd.<sup>2</sup></td>
+<td>People's Republic of China</td>
+<td>Property holding</td>
+<td>100</td>
+<td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+\*<sup>1</sup> Audited by Ernst & Young LLP Singapore
+
+\*<sup>2</sup> Audited by Ernst & Young Hua Ming LLP Shanghai Branch
+
+\*<sup>3</sup> Audited by Ernst & Young Hua Ming LLP Shanghai Branch for consolidation purpose
+
+<!-- PAGE 185 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 6. PREPAYMENTS, DEPOSITS AND OTHER RECEIVABLES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Refundable deposits</td>
+        <td>28</td>
+        <td>29</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>VAT/GST recoverables</td>
+        <td>7,465</td>
+        <td>6,128</td>
+        <td>351</td>
+        <td>183</td>
+    </tr>
+    <tr>
+        <td>Other receivables</td>
+        <td>10,191</td>
+        <td>7,964</td>
+        <td>–</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Amounts due from related parties (trade)</td>
+        <td>8,302</td>
+        <td>13,950</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>25,986</td>
+        <td>28,071</td>
+        <td>351</td>
+        <td>191</td>
+    </tr>
+    <tr>
+        <td>Prepayments</td>
+        <td>56</td>
+        <td>33</td>
+        <td>3</td>
+        <td>33</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>26,042</td>
+        <td>28,104</td>
+        <td>354</td>
+        <td>224</td>
+    </tr>
+  </tbody>
+</table>
+
+Included in other receivables of the Group is an amount of $9,337,000 (2022: $4,743,000) relating to sale proceeds of goods sold by the tenants which are yet to be received from merchant banks due to cashless mode of payment made by customers.
+
+Amounts due from related parties are unsecured, non-interest bearing, repayable upon demand and are to be settled in cash. The amounts have been fully received subsequent to the reporting date.
+
+## 7. CASH AND SHORT-TERM DEPOSITS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>140,834</td>
+        <td>100,755</td>
+        <td>3,765</td>
+        <td>33,214</td>
+    </tr>
+    <tr>
+        <td>Less: Restricted cash</td>
+        <td>(9,637)</td>
+        <td>(9,922)</td>
+        <td>–</td>
+        <td>(5,217)</td>
+    </tr>
+    <tr>
+        <td>Cash and cash equivalents</td>
+        <td>131,197</td>
+        <td>90,833</td>
+        <td>3,765</td>
+        <td>27,997</td>
+    </tr>
+  </tbody>
+</table>
+
+Restricted cash relates to cash held in interest escrow accounts for interest payment for bank loans.
+
+The interest rates of short-term deposits placed with financial institutions for the Group and Trust ranged from 0.05% to 4.00% (2022: 0.05% to 4.00%) per annum and 0.30% to 4.00% (2022: 0.05% to 4.00%) per annum respectively.
+
+<!-- PAGE 186 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 8. LOANS AND BORROWINGS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Secured bank loans</td>
+        <td>384,860</td>
+        <td>488,340</td>
+        <td>–</td>
+        <td>240,874</td>
+    </tr>
+    <tr>
+        <td>Loan from a related party</td>
+        <td>57,279</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Less: Unamortised transaction costs</td>
+        <td>(9,526)</td>
+        <td>(985)</td>
+        <td>–</td>
+        <td>(775)</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>432,613</td>
+        <td>487,355</td>
+        <td>–</td>
+        <td>240,099</td>
+    </tr>
+    <tr>
+        <td>Current</td>
+        <td>5,439</td>
+        <td>487,355</td>
+        <td>–</td>
+        <td>240,099</td>
+    </tr>
+    <tr>
+        <td>Non-current</td>
+        <td>427,174</td>
+        <td>–</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>432,613</td>
+        <td>487,355</td>
+        <td>–</td>
+        <td>240,099</td>
+    </tr>
+  </tbody>
+</table>
+
+<u>Secured bank loans</u>
+
+As at 31 December 2023, the Group has the following onshore and offshore facilities:
+
+The Group through its PRC wholly-owned subsidiaries, Chongqing Sasseur Suge Apparel Joint Stock Co., Ltd., Sasseur (Chongqing) Business Co., Ltd. and Hefei Sasseur Commercial Management Co., Ltd. has put in place an aggregate amount of RMB975.0 million, 5-year onshore term loans, with repayment of 1.5% of initial loan principal semi-annually (the onshore loans).
+
+The Group, through its wholly-owned subsidiaries, Sasseur Bishan (BVI) Limited and Sasseur Hefei Limited, has also put in place offshore loans which comprise term loans of $125.0 million and US$54.1 million, and a $10.0 million revolving credit facility (collectively the offshore loans).
+
+<!-- PAGE 187 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 8. LOANS AND BORROWINGS (continued)
+
+<u>Loan from a related party</u>
+
+On 3 February 2023, the Group, through its wholly-owned subsidiary, Kunming Sasseur Commercial Management Co., Ltd., has entered into a one year loan agreement (with extension for up to another year with mutual agreement) with Sasseur Business Management Group Co., Ltd, a wholly-owned subsidiary of the Sponsor, under which an unsecured interest-bearing loan of RMB308.0 million (Sponsor Loan) has been granted. On 7 December 2023, Kunming Sasseur Commercial Management Co., Ltd. has exercised its option to extend the Sponsor Loan for another year with the maturity in March 2025.
+
+The offshore loans were partially hedged with interest rate swap and cross currency swap contracts (see Note 11). The weighted average cost of borrowings was 5.6% (2022: 4.9%) per annum.
+
+The Group’s secured bank borrowings are generally secured by:
+
+(a) mortgages on the borrowing subsidiaries’ investment properties (see Note 4) and
+
+(b) assignment of all rights, titles and benefits with respect to the properties mortgaged.
+
+The outstanding principal, interest rate and maturity of the loans and borrowings are as follows:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="2">Group</th>
+<th colspan="2">Trust</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Nominal interest rate</th>
+<th>Term</th>
+<th>Year of maturity</th>
+<th>Face value</th>
+<th>Carrying amount</th>
+<th>Face value</th>
+<th>Carrying amount</th>
+    </tr>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="8"><strong>2023</strong></td>
+    </tr>
+    <tr>
+<td>Onshore loans</td>
+<td>4.20% to 4.80%</td>
+<td>5.0 years</td>
+<td>2028</td>
+<td>235,880</td>
+<td>233,645</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Offshore loans</td>
+<td>4.43% to 6.58%</td>
+<td>3.0 years</td>
+<td>2026</td>
+<td>206,259</td>
+<td>198,968</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>442,139</td>
+<td>432,613</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="8"><strong>2022</strong></td>
+    </tr>
+    <tr>
+<td>Onshore loans</td>
+<td>4.40% to 4.75%</td>
+<td>5.0 years</td>
+<td>2023</td>
+<td>247,466</td>
+<td>247,256</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Offshore loans</td>
+<td>1.55% to 5.64%</td>
+<td>2.5 years</td>
+<td>2023</td>
+<td>240,874</td>
+<td>240,099</td>
+<td>240,874</td>
+<td>240,099</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>488,340</td>
+<td>487,355</td>
+<td>240,874</td>
+<td>240,099</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 188 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 8. LOANS AND BORROWINGS (continued)
+
+<u>Loan from a related party</u> (continued)
+
+A reconciliation of liabilities arising from the Group’s financing activities is as follows:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="2">Non-cash changes</th>
+<th> </th>
+    </tr>
+    <tr>
+<th> </th>
+<th>At</th>
+<th> </th>
+<th>Exchange</th>
+<th>Finance cost</th>
+<th>At</th>
+    </tr>
+    <tr>
+<th>Group</th>
+<th>1 January</th>
+<th>Net cash flow</th>
+<th>differences</th>
+<th>(Note 15)</th>
+<th>31 December</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6"><strong>2023</strong></td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>487,355</td>
+<td>(49,953)</td>
+<td>(10,068)</td>
+<td>5,279</td>
+<td>432,613</td>
+    </tr>
+    <tr>
+<td>Interest payables</td>
+<td>820</td>
+<td>(18,904)</td>
+<td>(580)</td>
+<td>22,130</td>
+<td>3,466</td>
+    </tr>
+    <tr>
+<td colspan="6"><strong>2022</strong></td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>510,572</td>
+<td>(5,592)</td>
+<td>(24,353)</td>
+<td>6,728</td>
+<td>487,355</td>
+    </tr>
+    <tr>
+<td>Interest payables</td>
+<td>440</td>
+<td>(19,382)</td>
+<td>210</td>
+<td>19,552</td>
+<td>820</td>
+    </tr>
+  </tbody>
+</table>
+
+## 9. DEFERRED TAX LIABILITIES
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Deferred tax liabilities</td>
+        <td>114,970</td>
+        <td>111,667</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+Movements in deferred tax of the Group during the financial year are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Tax losses</th>
+        <th> </th>
+        <th>Tax on</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>carried</th>
+        <th>Investment</th>
+        <th>unrepatriated</th>
+        <th> </th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>forward</th>
+        <th>properties</th>
+        <th>profits</th>
+        <th>Total</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>At 1 January 2022</td>
+        <td>1,003</td>
+        <td>(107,950)</td>
+        <td>(8,858)</td>
+        <td>(115,805)</td>
+    </tr>
+    <tr>
+        <td>Recognised in Consolidated Statement of Total Return</td>
+        <td>(639)</td>
+        <td>(5,003)</td>
+        <td>(982)</td>
+        <td>(6,624)</td>
+    </tr>
+    <tr>
+        <td>Exchange differences</td>
+        <td>(364)</td>
+        <td>9,969</td>
+        <td>1,157</td>
+        <td>10,762</td>
+    </tr>
+    <tr>
+        <td>At 31 December 2022 and 1 January 2023</td>
+        <td>–</td>
+        <td>(102,984)</td>
+        <td>(8,683)</td>
+        <td>(111,667)</td>
+    </tr>
+    <tr>
+        <td>Recognised in Consolidated Statement of Total Return</td>
+        <td>–</td>
+        <td>(4,728)</td>
+        <td>(2,757)</td>
+        <td>(7,485)</td>
+    </tr>
+    <tr>
+        <td>Exchange differences</td>
+        <td>–</td>
+        <td>3,815</td>
+        <td>367</td>
+        <td>4,182</td>
+    </tr>
+    <tr>
+        <td>At 31 December 2023</td>
+        <td>–</td>
+        <td>(103,897)</td>
+        <td>(11,073)</td>
+        <td>(114,970)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 189 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 10. OTHER PAYABLES AND ACCRUALS
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">Group</th>
+<th colspan="2">Trust</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="5"><strong>Current:</strong></td>
+    </tr>
+    <tr>
+<td>Refundable security deposits</td>
+<td>7,885</td>
+<td>7,614</td>
+<td>−</td>
+<td>−</td>
+    </tr>
+    <tr>
+<td>Interest payables</td>
+<td>3,466</td>
+<td>820</td>
+<td>−</td>
+<td>659</td>
+    </tr>
+    <tr>
+<td>VAT and other tax payables</td>
+<td>1,290</td>
+<td>102</td>
+<td>−</td>
+<td>−</td>
+    </tr>
+    <tr>
+<td>Construction payables</td>
+<td>3,605</td>
+<td>3,499</td>
+<td>−</td>
+<td>−</td>
+    </tr>
+    <tr>
+<td>Amounts due to a subsidiary (non-trade)</td>
+<td>−</td>
+<td>−</td>
+<td>572</td>
+<td>14</td>
+    </tr>
+    <tr>
+<td>Amounts due to related parties (non-trade)</td>
+<td>1,482</td>
+<td>1,082</td>
+<td>−</td>
+<td>18</td>
+    </tr>
+    <tr>
+<td>Accrued expenses</td>
+<td>996</td>
+<td>831</td>
+<td>699</td>
+<td>546</td>
+    </tr>
+    <tr>
+<td>Property tax payables</td>
+<td>1,108</td>
+<td>475</td>
+<td>−</td>
+<td>−</td>
+    </tr>
+    <tr>
+<td>Other payables</td>
+<td>122,453</td>
+<td>55,212</td>
+<td>58</td>
+<td>20</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>142,285</td>
+<td>69,635</td>
+<td>1,329</td>
+<td>1,257</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Non-current:</strong></td>
+    </tr>
+    <tr>
+<td>Loans from subsidiaries</td>
+<td>−</td>
+<td>−</td>
+<td>195,435</td>
+<td>−</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>142,285</td>
+<td>69,635</td>
+<td>196,764</td>
+<td>1,257</td>
+    </tr>
+  </tbody>
+</table>
+
+Construction payables consist mainly of retention sum of completed construction works arising from acquisition of investment properties and related assets and liabilities, and asset enhancement works.
+
+The non-trade amounts due to a subsidiary and related parties are unsecured, interest-free and repayable on demand in cash.
+
+Included in other payables is an amount of $116,657,000 (2022: $50,202,000) relating to sale proceeds collected from customers on behalf of the tenants.
+
+Loans from subsidiaries are unsecured interest-bearing and repayable in March 2026.
+
+<!-- PAGE 190 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 11. DERIVATIVE FINANCIAL INSTRUMENTS
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="4">Group and Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th colspan="2">2023</th>
+        <th colspan="2">2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Contractual<br/>notional<br/>amount<br/>$’000</th>
+        <th>(Liabilities)/<br/>Asset<br/>$’000</th>
+        <th>Contractual<br/>notional<br/>amount<br/>$’000</th>
+        <th>(Liabilities)<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Interest rate swap</td>
+        <td>31,250</td>
+        <td>(23)</td>
+        <td>97,000</td>
+        <td>(23)</td>
+    </tr>
+    <tr>
+        <td>Cross currency swaps</td>
+        <td>116,259</td>
+        <td>537</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Forward currency contracts</td>
+        <td>11,789</td>
+        <td>77</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>159,298</td>
+        <td>591</td>
+        <td>97,000</td>
+        <td>(23)</td>
+    </tr>
+    <tr>
+        <td colspan="2">Derivative financial instruments<br/>as a percentage of the Group’s net assets</td>
+        <td>0.058%</td>
+        <td> </td>
+        <td>0.002%</td>
+    </tr>
+    <tr>
+        <td colspan="2">Derivative financial instruments<br/>as a percentage of the Trust’s net assets</td>
+        <td>0.069%</td>
+        <td> </td>
+        <td>0.003%</td>
+    </tr>
+  </tbody>
+</table>
+
+<u>Interest rate swaps</u>
+
+The Group enters into interest rate swaps to manage its exposure to interest rate movements on its floating rate interest-bearing borrowings by swapping the interest expense on these borrowings from floating rates to fixed rates. The Group held interest rate swaps for a term of 3 years, ending 15 March 2026.
+
+The changes in fair value of the interest rate swaps are recognised in the consolidated statement of total return.
+
+<u>Cross currency swaps</u>
+
+The Group enters into cross currency swaps to manage its exposure to interest rate and foreign currency movements on its floating rate interest-bearing USD and SGD denominated borrowing by swapping the interest expense on this borrowing from floating rate denominated in USD and SGD to fixed rate denominated in SGD and RMB respectively. The Group held cross currency swap for a term ranging from 2 to 3 year, ending 15 March 2026.
+
+The changes in fair value of the cross currency swap are recognised in the consolidated statement of total return.
+
+<u>Forward currency contracts</u>
+
+The Group enters into forward currency contracts to manage its foreign currency risk arising from the cash flows of the Group’s investments in PRC.
+
+The changes in fair value of the forward currency contracts are recognised in the consolidated statement of total return.
+
+<!-- PAGE 191 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 12. UNITS IN ISSUE AND TO BE ISSUED
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="4">Group and Trust</th>
+    </tr>
+    <tr>
+<th> </th>
+<th colspan="2">2023</th>
+<th colspan="2">2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>Number of Units '000</th>
+<th>$’000</th>
+<th>Number of Units '000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td><strong>At 1 January</strong></td>
+<td>1,231,092</td>
+<td>608,780</td>
+<td>1,217,119</td>
+<td>685,118</td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Units in issue:</strong></td>
+    </tr>
+    <tr>
+<td>- REIT Manager’s management fees paid in Units</td>
+<td>11,556</td>
+<td>8,263</td>
+<td>13,973</td>
+<td>11,080</td>
+    </tr>
+    <tr>
+<td>- Distribution to Unitholders</td>
+<td>–</td>
+<td>(75,807)</td>
+<td>–</td>
+<td>(87,418)</td>
+    </tr>
+    <tr>
+<td><strong>Total Units in issue at 31 December</strong></td>
+<td>1,242,648</td>
+<td>541,236</td>
+<td>1,231,092</td>
+<td>608,780</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="5"><strong>Units to be issued:</strong></td>
+    </tr>
+    <tr>
+<td>- REIT Manager’s management fees payable in Units</td>
+<td>3,022</td>
+<td>2,064</td>
+<td>2,660</td>
+<td>1,992</td>
+    </tr>
+    <tr>
+<td><strong>Total Units in issue and to be issued at 31 December</strong></td>
+<td>1,245,670</td>
+<td>543,300</td>
+<td>1,233,752</td>
+<td>610,772</td>
+    </tr>
+  </tbody>
+</table>
+
+During the financial year ended 31 December 2023, 11,555,795 Units (2022: 13,972,982 Units) amounting to $8,263,943 (2022: $11,080,024) were issued at issue prices ranging from $0.6682 to $0.7491 per Unit (2022: $0.7245 to $0.8334 per Unit) for the payment of 100% of the REIT Manager's management fee.
+
+Each Unit in the Trust represents an undivided interest in the Trust. The rights and interests of Unitholders are contained in the Trust Deed and include the right to:
+
+* One vote per Unit;
+
+* Receive income and other distributions attributable to the Units held;
+
+* Participate in the termination of the Trust by receiving a share of all net cash proceeds derived from the realisation of the assets of the Trust less any liabilities, in accordance with their proportionate interests in the Trust;
+
+* Attend all Unitholders’ meetings. The Trustee or the REIT Manager may (and the REIT Manager shall at request in writing of not less than 50 Unitholders or Unitholders representing not less than 10% of the total Units issued) may at any time convene a meeting of Unitholders in accordance with the provisions of the Trust Deed.
+
+<!-- PAGE 192 -->
+
+## 12. UNITS IN ISSUE AND TO BE ISSUED (continued)
+
+The restrictions of a Unitholder include the following:
+
+* A Unitholder has no equitable or proprietary interest in the underlying asset of the Group and is not entitled to the transfer to it of any asset (or any part thereof) or of any real estate or interest in any asset and the real estate-related assets (or any part thereof) of the Group.
+
+* A Unitholder’s liability is limited to the amount paid or payable for any Units. The provisions of the Trust Deed provide that no Unitholders will be personally liable to indemnify the Trustee or any creditor of the Trustee in the event that liabilities of the Trust exceed its assets.
+
+## 13. EMA RENTAL INCOME
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>EMA rental income</td>
+        <td>126,726</td>
+        <td>125,932</td>
+    </tr>
+  </tbody>
+</table>
+
+EMA rental income is accounted for on a straight-line basis over the lease term. Excluding net effect of straight-line adjustments, EMA rental income is $124,914,000 (2022: $121,324,000) (Note 21).
+
+## 14. OTHER TRUST EXPENSES
+
+Included in other trust expenses are the following:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3">Auditors of the Group:</td>
+    </tr>
+    <tr>
+<td>- Audit fees</td>
+<td>389</td>
+<td>407</td>
+    </tr>
+    <tr>
+<td>- Non-audit fees</td>
+<td>133</td>
+<td>85</td>
+    </tr>
+    <tr>
+<td>Legal expenses</td>
+<td>82</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Valuation and other professional fees</td>
+<td>231</td>
+<td>254</td>
+    </tr>
+    <tr>
+<td>Other expenses</td>
+<td>433</td>
+<td>550</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>1,268</td>
+<td>1,296</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 193 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 15. FINANCE COSTS
+
+Included in the effective interest expenses on borrowings are the following:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Interest expenses on loans and borrowings</td>
+        <td>22,130</td>
+        <td>19,552</td>
+    </tr>
+    <tr>
+        <td>Amortisation of borrowing-related transaction costs</td>
+        <td>5,003</td>
+        <td>6,423</td>
+    </tr>
+    <tr>
+        <td>Other borrowing costs</td>
+        <td>276</td>
+        <td>305</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>27,409</td>
+        <td>26,280</td>
+    </tr>
+  </tbody>
+</table>
+
+## 16. TAX EXPENSE
+
+The major components of tax expense are:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3"><strong>Current tax expense</strong></td>
+    </tr>
+    <tr>
+<td>Current year</td>
+<td>16,527</td>
+<td>13,423</td>
+    </tr>
+    <tr>
+<td>Over provision in previous years</td>
+<td>(54)</td>
+<td>(1,958)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>16,473</td>
+<td>11,465</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="3"><strong>Deferred tax expense</strong></td>
+    </tr>
+    <tr>
+<td>Movement in temporary differences</td>
+<td>7,485</td>
+<td>6,624</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>23,958</td>
+<td>18,089</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 194 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 16. TAX EXPENSE (continued)
+
+Reconciliation of effective tax rate:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>Total return for the year before tax</td>
+<td>86,379</td>
+<td>80,187</td>
+    </tr>
+    <tr>
+<td>Tax calculated using Singapore income tax rate of 17% (2022: 17%)</td>
+<td>14,684</td>
+<td>13,632</td>
+    </tr>
+    <tr>
+<td colspan="3">Adjustments:</td>
+    </tr>
+    <tr>
+<td>Non-deductible expenses</td>
+<td>5,300</td>
+<td>1,653</td>
+    </tr>
+    <tr>
+<td>Effects of different tax rates in foreign jurisdictions</td>
+<td>6,124</td>
+<td>3,823</td>
+    </tr>
+    <tr>
+<td>Effect of preferential tax rate¹</td>
+<td>(6,466)</td>
+<td>(4,352)</td>
+    </tr>
+    <tr>
+<td>Tax losses not allowed to be carried forward²</td>
+<td>4,370</td>
+<td>5,291</td>
+    </tr>
+    <tr>
+<td>Over provision in prior years</td>
+<td>(54)</td>
+<td>(1,958)</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>23,958</td>
+<td>18,089</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Effect of preferential tax rate is a tax rate of 15% for the Sasseur (Chongqing Liangjiang) Outlet, Sasseur (Chongqing Bishan) Outlet and Sasseur (Kunming) Outlet obtained from the State Administration of Taxation of the People’s Republic of China.
+
+² Tax losses resulted from losses from the Trust.
+
+## 17. EARNINGS PER UNIT (EPU)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Weighted average number of Units (‘000)</td>
+        <td>1,235,949</td>
+        <td>1,223,648</td>
+    </tr>
+    <tr>
+        <td>Total return after tax ($’000)</td>
+        <td>62,421</td>
+        <td>62,098</td>
+    </tr>
+    <tr>
+        <td>EPU¹ (cents) – basic and diluted²</td>
+        <td>5.050</td>
+        <td>5.075</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ EPU is calculated by dividing the total return for the year after tax against the weighted average number of Units in issue for the reporting year.
+
+² Diluted EPU is the same as the basic EPU as there are no dilutive instruments in issue during the reporting year.
+
+<!-- PAGE 195 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+
+
+## 18. FINANCIAL RISK MANAGEMENT
+
+**Capital management**
+
+The REIT Manager aims to optimise the capital structure and cost of capital, within the borrowing limits set out in the Property Fund Appendix. The REIT Manager’s strategy of the management of capital involves adopting and maintaining appropriate aggregate leverage level to ensure optimal returns to Unitholders, while maintaining flexibility in respect of future capital expenditures or acquisitions. The REIT Manager will endeavour to match the maturity of the Group’s indebtedness with the maturity of the Group’s investment assets, and to employ long-term, fixed-rate debt to the extent practicable in view of market conditions in existence from time to time.
+
+The Group is subject to the aggregate leverage limit as defined in the Property Funds Appendix of the CIS Code. The Property Funds Appendix stipulates that the total borrowings and deferred payments (collectively, the Aggregate Leverage) of a property fund shall not exceed 50.0% of its deposited property and has a minimum adjusted interest coverage ratio (ICR) of 2.5 times after taking into account the interest payment obligations arising from the new borrowings.
+
+The Group has complied with the Aggregate Leverage limit of 50.0% during the financial year, with an Aggregate Leverage of 25.3% (2022: 27.6%) and ICR of 4.3 times (2022: 4.4 times) as at 31 December 2023.
+
+**Overview of risk management**
+
+The Group is exposed to financial risks arising from its operations and the use of financial instruments. The key financial risks include market risk (including foreign currency risk and interest rate risk), credit risk and liquidity risk. The Group’s overall risk management strategy seeks to minimise adverse effects from the unpredictability of financial markets on the Group’s financial performance.
+
+The Board of Directors of the REIT Manager is responsible for setting the objectives and underlying principles of financial risk management for the Group. This is supported by comprehensive internal processes and procedures which are formalised in the REIT Manager’s organisational and reporting structure, operating manuals and delegation of authority guidelines.
+
+The following sections provide details regarding the Group’s and Trust’s exposure to the above-mentioned financial risks and the objectives, policies and processes for the management of these risks.
+
+<!-- PAGE 196 -->
+
+## *Market risk*
+
+## *Foreign currency risk*
+
+Foreign currency risk is the risk that the fair value or future cash flows of an exposure will fluctuate because of changes in foreign exchange rates. The Group is exposed to foreign exchange risk arising from foreign currency transactions, primarily with respect to Chinese Renminbi (RMB), Singapore dollar (SGD) and United States dollar (USD). Foreign exchange risk arises from future transactions and recognised assets and liabilities denominated in a currency that is not the functional currency of the companies within the Group.
+
+The Group and Trust have transactional currency exposures arising from cash and short-term deposits, prepayments, deposits and other receivables and loans and borrowings that are denominated in a currency other than their functional currency. These transactions are mainly denominated in RMB, SGD and USD.
+
+The Group’s strategy is to achieve a natural hedge through local RMB financing. To mitigate the foreign currency risk, the REIT Manager will enter into forward currency contracts to limit the Group’s exposure for the RMB denominated cash flows.
+
+The Group determines the existence of an economic relationship between the hedging instrument and hedged item based on the currency, amount and timing of their respective cash flows. The Group assesses whether the derivative designated in each hedging relationship is expected to be and has been effective in offsetting changes in cash flows of the hedged item using the hypothetical derivative method.
+
+<!-- PAGE 197 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 18. FINANCIAL RISK MANAGEMENT (continued)
+
+### Market risk (continued)
+
+Foreign currency risk (continued)
+
+The Group’s and the Trust’s exposure to foreign currency risk is as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>RMB</th>
+        <th>SGD</th>
+        <th>USD</th>
+        <th>Total</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5"><strong>Group</strong></td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>2023</strong></td>
+    </tr>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>1,264</td>
+        <td>4,637</td>
+        <td>3,848</td>
+        <td>9,749</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>–</td>
+        <td>(135,000)</td>
+        <td>(71,259)</td>
+        <td>(206,259)</td>
+    </tr>
+    <tr>
+        <td>Net assets/(liabilities)</td>
+        <td>1,264</td>
+        <td>(130,363)</td>
+        <td>(67,411)</td>
+        <td>(196,510)</td>
+    </tr>
+    <tr>
+        <td colspan="5"> </td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Trust</strong></td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>2023</strong></td>
+    </tr>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>1,264</td>
+        <td>–</td>
+        <td>187</td>
+        <td>1,451</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>–</td>
+        <td>–</td>
+        <td>(71,259)</td>
+        <td>(71,259)</td>
+    </tr>
+    <tr>
+        <td>Net assets/(liabilities)</td>
+        <td>1,264</td>
+        <td>–</td>
+        <td>(71,072)</td>
+        <td>(69,808)</td>
+    </tr>
+    <tr>
+        <td colspan="5"> </td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Group</strong></td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>2022</strong></td>
+    </tr>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>6,631</td>
+        <td>1,327</td>
+        <td>1,711</td>
+        <td>9,669</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>–</td>
+        <td>–</td>
+        <td>(26,874)</td>
+        <td>(26,874)</td>
+    </tr>
+    <tr>
+        <td>Net assets/(liabilities)</td>
+        <td>6,631</td>
+        <td>1,327</td>
+        <td>(25,163)</td>
+        <td>(17,205)</td>
+    </tr>
+    <tr>
+        <td colspan="5"> </td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>Trust</strong></td>
+    </tr>
+    <tr>
+        <td colspan="5"><strong>2022</strong></td>
+    </tr>
+    <tr>
+        <td>Cash and short-term deposits</td>
+        <td>6,631</td>
+        <td>–</td>
+        <td>1,708</td>
+        <td>8,339</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>–</td>
+        <td>–</td>
+        <td>(26,874)</td>
+        <td>(26,874)</td>
+    </tr>
+    <tr>
+        <td>Net assets/(liabilities)</td>
+        <td>6,631</td>
+        <td>–</td>
+        <td>(25,166)</td>
+        <td>(18,535)</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 198 -->
+
+# **Notes** to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 18. FINANCIAL RISK MANAGEMENT (continued)
+
+### Market risk (continued)
+
+#### Foreign currency risk (continued)
+
+The following table demonstrates the sensitivity of the Group's and Trust’s total return before tax to a reasonably possible change in the RMB, SGD and USD exchange rates against the functional currency of the companies within the Group, with all other variables held constant.
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Increase/(decrease)<br/>in total return before tax</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>Group<br/>$’000</th>
+        <th>Trust<br/>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">2023</td>
+    </tr>
+    <tr>
+        <td>RMB - strengthened by 5%</td>
+        <td>63</td>
+        <td>63</td>
+    </tr>
+    <tr>
+        <td>RMB - weakened by 5%</td>
+        <td>(63)</td>
+        <td>(63)</td>
+    </tr>
+    <tr>
+        <td>SGD - strengthened by 5%</td>
+        <td>(6,518)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>SGD - weakened by 5%</td>
+        <td>6,518</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>USD - strengthened by 5%</td>
+        <td>(3,371)</td>
+        <td>(3,554)</td>
+    </tr>
+    <tr>
+        <td>USD - weakened by 5%</td>
+        <td>3,371</td>
+        <td>3,554</td>
+    </tr>
+    <tr>
+        <td colspan="3">2022</td>
+    </tr>
+    <tr>
+        <td>RMB - strengthened by 5%</td>
+        <td>332</td>
+        <td>332</td>
+    </tr>
+    <tr>
+        <td>RMB - weakened by 5%</td>
+        <td>(332)</td>
+        <td>(332)</td>
+    </tr>
+    <tr>
+        <td>SGD - strengthened by 5%</td>
+        <td>66</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>SGD - weakened by 5%</td>
+        <td>(66)</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>USD - strengthened by 5%</td>
+        <td>(1,258)</td>
+        <td>(1,258)</td>
+    </tr>
+    <tr>
+        <td>USD - weakened by 5%</td>
+        <td>1,258</td>
+        <td>1,258</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 199 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 18. FINANCIAL RISK MANAGEMENT (continued)
+
+### Market risk (continued)
+
+### Interest rate risk
+
+The Group adopts a proactive interest rate management policy to manage the risk associated with changes in interest rates on the Group’s loan facilities while also seeking to ensure that the ongoing cost of debt remains competitive.
+
+The Group proactively seeks to minimise the level of interest rate risk by hedging certain amounts of the Group’s borrowings at fixed rates. As at 31 December 2023, the Group has hedged approximately 33.4% (2022: 19.9%) of its borrowings at fixed rates.
+
+Included in the Group’s borrowings, 53.4% (2022: 50.7%) of its borrowings is RMB denominated onshore loans. The RMB denominated onshore loans are pegged to 5-year Loan Prime Rate (LPR) published by the People’s Bank of China. The Group will periodically review the Group’s hedging policy with respect to the interest rate risk and modify the hedging portion as its management deems prudent in light of prevailing market conditions.
+
+### Sensitivity analysis for interest rate risk
+
+The following table demonstrates the sensitivity to a reasonably possible change in interest rates on the Group’s unhedged floating rate loans and borrowings, with all other variables held constant and the impact on the Group’s total return before tax.
+
+<table>
+  <thead>
+    <tr>
+        <th>Group</th>
+        <th>Increase/ (decrease) in basis points</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>- SGD</td>
+        <td>25</td>
+        <td>(147)</td>
+        <td>(360)</td>
+    </tr>
+    <tr>
+        <td>- SGD</td>
+        <td>(25)</td>
+        <td>147</td>
+        <td>360</td>
+    </tr>
+    <tr>
+        <td>- RMB</td>
+        <td>25</td>
+        <td>(590)</td>
+        <td>(619)</td>
+    </tr>
+    <tr>
+        <td>- RMB</td>
+        <td>(25)</td>
+        <td>590</td>
+        <td>619</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 200 -->
+
+## *Credit risk*
+
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Group’s receivables from customers. The Group has minimal exposure to credit risk through its point-of-sale and cash management system.
+
+For other financial assets (including cash and short-term deposits), the Group minimises credit risk by dealing exclusively with high credit rating counterparties.
+
+The Group believes that there is no credit risk inherent in the Group’s other receivables, based on historical payment behaviours. The maximum exposure to credit risk is represented by the carrying amount of each financial asset in the consolidated statement of financial position.
+
+## *Financial assets that are neither past due nor impaired*
+
+Other receivables that are neither past due nor impaired are with creditworthy debtors with good payment track records with the Group.
+
+Derivative financial instruments are only entered into with banks and financial counterparties with sound credit ratings.
+
+Cash and short-term deposits are placed with financial institutions which are regulated.
+
+## *Liquidity risk*
+
+Liquidity risk is the risk that the Group will encounter difficulty in meeting the obligations associated with its financial liabilities that are settled by delivering cash or another financial asset. The Group’s and the Trust’s approach to managing liquidity is to ensure, as far as possible, that they will always have sufficient liquidity to meet their liabilities when due, under both normal and stressed conditions, without incurring unacceptable losses or risking damage to the Group’s and the Trust’s reputation.
+
+The REIT Manager monitors liquidity risk and maintains a level of cash and short-term deposits deemed adequate by management to finance the Group’s and the Trust’s operations and to mitigate the effects of fluctuations in cash flows. In addition, the REIT Manager also monitors and observes the CIS Code issued by MAS concerning limits on total borrowings.
+
+The Group’s loans and borrowings are set out in Note 8.
+
+<!-- PAGE 201 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 18. FINANCIAL RISK MANAGEMENT (continued)
+
+### Liquidity risk (continued)
+
+The following are the contractual maturities of financial liabilities, including estimated interest payments:
+
+<table>
+  <thead>
+    <tr>
+        <th>Group</th>
+        <th> </th>
+        <th> </th>
+        <th colspan="3">Cash flows</th>
+    </tr>
+    <tr>
+        <th>2023</th>
+        <th>Carrying amount</th>
+        <th>Contractual cash flows</th>
+        <th>Within 1 year</th>
+        <th>Within 2 to 5 years</th>
+        <th>More than 5 years</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6"><strong>Non-derivative financial liabilities</strong></td>
+    </tr>
+    <tr>
+        <td>Other payables and accruals¹</td>
+        <td>140,995</td>
+        <td>140,995</td>
+        <td>140,995</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td>Loans and borrowings</td>
+        <td>432,613</td>
+        <td>495,013</td>
+        <td>25,099</td>
+        <td>469,914</td>
+        <td>–</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>573,608</td>
+        <td>636,008</td>
+        <td>166,094</td>
+        <td>469,914</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Excludes VAT and other tax payables.
+
+<table>
+  <thead>
+    <tr>
+        <th>Trust</th>
+        <th> </th>
+        <th> </th>
+        <th colspan="3">Cash flows</th>
+    </tr>
+    <tr>
+        <th>2023</th>
+        <th>Carrying amount</th>
+        <th>Contractual cash flows</th>
+        <th>Within 1 year</th>
+        <th>Within 2 to 5 years</th>
+        <th>More than 5 years</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+        <th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="6"><strong>Non-derivative financial liabilities</strong></td>
+    </tr>
+    <tr>
+        <td>Other payables and accruals</td>
+        <td>196,764</td>
+        <td>196,764</td>
+        <td>1,329</td>
+        <td>195,435</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 202 -->
+
+# 18. FINANCIAL RISK MANAGEMENT (continued)
+
+**Liquidity risk (continued)**
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="3">Cash flows</th>
+    </tr>
+    <tr>
+<th>Group</th>
+<th>Carrying</th>
+<th>Contractual</th>
+<th>Within</th>
+<th>Within</th>
+<th>More than</th>
+    </tr>
+    <tr>
+<th>2022</th>
+<th>amount</th>
+<th>cash flows</th>
+<th>1 year</th>
+<th>2 to 5 years</th>
+<th>5 years</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6"><strong>Non-derivative financial liabilities</strong></td>
+    </tr>
+    <tr>
+<td>Other payables and accruals¹</td>
+<td>69,533</td>
+<td>69,533</td>
+<td>69,533</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>487,355</td>
+<td>494,172</td>
+<td>494,172</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>556,888</td>
+<td>563,705</td>
+<td>563,705</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+¹ Excludes VAT and other tax payables.
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th> </th>
+<th> </th>
+<th colspan="3">Cash flows</th>
+    </tr>
+    <tr>
+<th>Trust</th>
+<th>Carrying</th>
+<th>Contractual</th>
+<th>Within</th>
+<th>Within</th>
+<th>More than</th>
+    </tr>
+    <tr>
+<th>2022</th>
+<th>amount</th>
+<th>cash flows</th>
+<th>1 year</th>
+<th>2 to 5 years</th>
+<th>5 years</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+<th>$'000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="6"><strong>Non-derivative financial liabilities</strong></td>
+    </tr>
+    <tr>
+<td>Other payables and accruals</td>
+<td>1,257</td>
+<td>1,257</td>
+<td>1,257</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td>Loans and borrowings</td>
+<td>240,099</td>
+<td>243,984</td>
+<td>243,984</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td> </td>
+<td>241,356</td>
+<td>245,241</td>
+<td>245,241</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 203 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 19. FAIR VALUES OF ASSETS AND LIABILITIES
+
+### (a) Fair value hierarchy
+
+The Group categorises fair value measurements using a fair value hierarchy that is dependent on the valuation inputs used as follows:
+
+* Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities that the Group can access at the measurement date,
+
+* Level 2: inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly or indirectly, and
+
+* Level 3: unobservable inputs for the asset or liability.
+
+Fair value measurements that use inputs of different hierarchy levels are categorised in its entirety in the same level of the fair value hierarchy as the lowest level input that is significant to the entire measurement.
+
+### (b) Assets and liabilities measured at fair value
+
+The following table shows the classification of each class of assets and liabilities measured at fair value at the end of the reporting year:
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="3">Fair value</th>
+    </tr>
+    <tr>
+<th>Group</th>
+<th>Level 2</th>
+<th>Level 3</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th>2023</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="4"><strong>Assets measured at fair value</strong></td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Non-financial assets</strong></td>
+    </tr>
+    <tr>
+<td colspan="4">Investment properties</td>
+    </tr>
+    <tr>
+<td>- Outlet malls</td>
+<td>–</td>
+<td>1,580,190</td>
+<td>1,580,190</td>
+    </tr>
+    <tr>
+<td><strong>Total non-financial assets</strong></td>
+<td>–</td>
+<td>1,580,190</td>
+<td>1,580,190</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Financial assets</strong></td>
+    </tr>
+    <tr>
+<td colspan="4">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td>- Cross currency swaps</td>
+<td>537</td>
+<td>–</td>
+<td>537</td>
+    </tr>
+    <tr>
+<td>- Forward currency contracts</td>
+<td>77</td>
+<td>–</td>
+<td>77</td>
+    </tr>
+    <tr>
+<td><strong>Total financial assets</strong></td>
+<td>614</td>
+<td>–</td>
+<td>614</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Liabilities measured at fair value</strong></td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Financial liabilities</strong></td>
+    </tr>
+    <tr>
+<td colspan="4">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td>- Interest rate swap</td>
+<td>23</td>
+<td>–</td>
+<td>23</td>
+    </tr>
+    <tr>
+<td><strong>Total financial liabilities</strong></td>
+<td>23</td>
+<td>–</td>
+<td>23</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 204 -->
+
+# 19. FAIR VALUES OF ASSETS AND LIABILITIES (continued)
+
+## (b) Assets and liabilities measured at fair value (continued)
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="3">Fair value</th>
+    </tr>
+    <tr>
+<th>Group</th>
+<th>Level 2</th>
+<th>Level 3</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th>2022</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="4">Assets measured at fair value</td>
+    </tr>
+    <tr>
+<td colspan="4">Non-financial assets</td>
+    </tr>
+    <tr>
+<td colspan="4">Investment properties</td>
+    </tr>
+    <tr>
+<td>- Outlet malls</td>
+<td>–</td>
+<td>1,638,981</td>
+<td>1,638,981</td>
+    </tr>
+    <tr>
+<td><strong>Total non-financial assets</strong></td>
+<td>–</td>
+<td>1,638,981</td>
+<td>1,638,981</td>
+    </tr>
+    <tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+    </tr>
+    <tr>
+<td colspan="4">Liabilities measured at fair value</td>
+    </tr>
+    <tr>
+<td colspan="4">Financial liabilities</td>
+    </tr>
+    <tr>
+<td colspan="4">Derivative financial instruments</td>
+    </tr>
+    <tr>
+<td>- Interest rate swap</td>
+<td>23</td>
+<td>–</td>
+<td>23</td>
+    </tr>
+    <tr>
+<td><strong>Total financial liabilities</strong></td>
+<td>23</td>
+<td>–</td>
+<td>23</td>
+    </tr>
+  </tbody>
+</table>
+
+## (c) Level 2 fair value measurements
+
+The following is a description of the valuation techniques and inputs used in the fair value measurements for assets and liabilities that are categorised within Level 2 of the fair value hierarchy:
+
+*Derivative financial instruments*
+
+The fair values of interest rate swap, cross currency swaps and forward currency contracts are based on valuations provided by the financial institutions that are the counterparties of the transactions. These quotes are tested for reasonableness by discounting estimated future cash flows based on the terms and maturity of each contract and using market interest rates or exchange rates, where applicable, for a similar financial instrument at the measurement date.
+
+<!-- PAGE 205 -->
+
+# **Notes** to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 19. FAIR VALUES OF ASSETS AND LIABILITIES (continued)
+
+### (d) Level 3 fair value measurements
+
+*Information about significant unobservable inputs used in Level 3 fair value measurements*
+
+**Investment properties**
+
+The investment properties are stated at fair value based on valuations by independent professional valuer. The independent professional valuer has the appropriate professional qualifications and recent experience in the location and category of the properties being valued.
+
+The fair values are based on open market values, being the estimated amount for which a property could be exchanged on the date of the valuation between a willing buyer and a willing seller in an arm’s length transaction after proper marketing wherein the parties had each acted knowledgeably and without compulsion.
+
+The fair values were generally calculated using the Discounted Cash Flow (DCF) approach. The DCF approach calculates the present values of future cash flows over a specified time period, including the potential proceeds of a deemed disposition, to determine the fair value. The DCF approach converts the earnings of a property into an estimate of value. The final step in the appraisal process involves the reconciliation of the individual valuation techniques in relationship to their substantiation by market data, and the reliability and applicability of each valuation technique to the subject property.
+
+The valuation techniques used in determining the fair value involve certain estimates including those relating to discount rates and rental rates per square foot, which are unobservable. In relying on the valuation reports, the REIT Manager has exercised its judgement and is satisfied that the valuation techniques and estimates used are reflective of the current market conditions.
+
+The fair value measurement for investment properties has been categorised under Level 3 of the fair value hierarchy based on the inputs to the valuation technique used.
+
+<!-- PAGE 206 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 19. FAIR VALUES OF ASSETS AND LIABILITIES (continued)
+
+### (d) Level 3 fair value measurements (continued)
+
+Information about significant unobservable inputs used in Level 3 fair value measurements (continued)
+
+Investment properties (continued)
+
+The following table shows the Group’s valuation technique used in measuring the fair value of investment properties, as well as the significant unobservable inputs used:
+
+<table>
+  <thead>
+    <tr>
+        <th>Valuation<br/>technique</th>
+        <th>Significant<br/>unobservable<br/>inputs</th>
+        <th>Range of significant<br/>unobservable<br/>inputs</th>
+        <th>Relationship of significant<br/>unobservable inputs<br/>to fair value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">2023</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Discounted cash flow<br/>approach</td>
+        <td>Discount rate</td>
+        <td>10.0% to 11.0%</td>
+        <td>The higher the rate,<br/>the lower the fair value.</td>
+    </tr>
+    <tr>
+        <td>Rental rate per square<br/>foot per annum¹</td>
+        <td>$24 to $83</td>
+        <td>The higher the rate,<br/>the higher the fair value.</td>
+    </tr>
+    <tr>
+        <td colspan="4">2022</td>
+    </tr>
+    <tr>
+        <td rowspan="2">Discounted cash flow<br/>approach</td>
+        <td>Discount rate</td>
+        <td>9.3% to 10.8%</td>
+        <td>The higher the rate,<br/>the lower the fair value.</td>
+    </tr>
+    <tr>
+        <td>Rental rate per square<br/>foot per annum¹</td>
+        <td>$25 to $94</td>
+        <td>The higher the rate,<br/>the higher the fair value.</td>
+    </tr>
+  </tbody>
+</table>
+
+\*¹ Average rental rate over remaining lease term per gross floor area based on square feet.
+
+The investment properties categorised under Level 3 of the fair value hierarchy are generally sensitive to the significant unobservable inputs tabled above. A significant movement of each input would result in a significant change to the fair value of the respective investment properties.
+
+The Group assesses the fair value of investment properties on a yearly basis.
+
+<!-- PAGE 207 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 19. FAIR VALUES OF ASSETS AND LIABILITIES (continued)
+
+### (d) Level 3 fair value measurements (continued)
+
+Information about significant unobservable inputs used in Level 3 fair value measurements (continued)
+
+Movements in Level 3 assets and liabilities measured at fair value
+
+The reconciliation for investment properties measured at fair value based on significant unobservable inputs (Level 3) is disclosed in Note 4.
+
+Valuation policies and procedures
+
+For all significant financial reporting valuations using valuation models and significant unobservable inputs, it is the Group’s policy to engage external valuation experts who possess the relevant credentials and knowledge on valuation of investment properties. In accordance to the CIS Code, the Group rotates the independent valuer every two years.
+
+For valuations performed by external valuation experts, the appropriateness of the valuation methodologies and assumptions adopted are reviewed along with the appropriateness and reliability of the inputs (including those developed internally by the Group) used in the valuations.
+
+In selecting the appropriate valuation models and inputs to be adopted for each valuation that uses significant unobservable inputs, external valuation experts are requested to calibrate the valuation models and inputs to actual market transactions (which may include transactions entered into by the Group with third parties as appropriate) that are relevant to the valuation if such information are reasonably available. For valuations that are sensitive to the unobservable inputs used, external valuation experts are required, to the extent practicable, to use up to two valuation approaches to allow for cross-checks.
+
+Significant changes in fair value measurements from period to period are evaluated for reasonableness. Key drivers of the changes are identified and assessed for reasonableness against relevant information from independent sources, or internal sources if necessary and appropriate.
+
+### (e) Fair value and classification of financial instruments that are not carried at fair value and whose carrying amounts are reasonable approximation of fair value
+
+The carrying amounts of the Group’s and the Trust’s current financial assets and liabilities approximate their fair values. The carrying amounts of the Group’s non-current loans and borrowings and loans from subsidiaries approximate their fair values because they are floating rate instruments that are repriced to market interest rates on or near the end of the reporting year.
+
+<!-- PAGE 208 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 20. COMMITMENTS
+
+### (a) Capital commitments
+
+Capital expenditure contracted for as at the end of the reporting year but not recognised in the financial statements are as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+        <th colspan="2">Trust</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Capital commitments in relation to investment properties</td>
+        <td>2,219</td>
+        <td>1,543</td>
+        <td>–</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+### (b) Operating lease commitments – as lessor
+
+The Group’s PRC Property Companies have entered into separate individual Entrusted Management Agreements (EMAs) with its Entrusted Manager to operate, maintain, manage and market the properties and are entitled to receive a sum of fixed rent which increases at an escalation rate of 3.0% per annum. Future minimum rental receivable under the EMAs is as follows:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Within 1 year</td>
+        <td>87,443</td>
+        <td>91,295</td>
+    </tr>
+    <tr>
+        <td>After 1 year but within 5 years</td>
+        <td>301,780</td>
+        <td>393,404</td>
+    </tr>
+    <tr>
+        <td>After 5 years</td>
+        <td>–</td>
+        <td>25,158</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td>389,223</td>
+        <td>509,857</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 209 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 21. RELATED PARTY TRANSACTIONS
+
+For the purposes of these financial statements, parties are considered to be related to the Group, if the Sponsor has the direct and indirect ability to control the parties, jointly control or exercise significant influence over the parties in making financial and operating decisions. Related parties may be individuals or other entities.
+
+In the normal course of its business, the Group carried out transactions with related parties on terms agreed between the parties. During the year, in addition to the related party information disclosed elsewhere in the financial statements, the following significant related party transactions were carried out at terms agreed between the parties and included in the Group’s total return before tax:
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th colspan="2">Group</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>2023</th>
+        <th>2022</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th>$’000</th>
+        <th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>EMA rental income received/receivable from Entrusted Manager (Note 13)</td>
+        <td>124,914</td>
+        <td>121,324</td>
+    </tr>
+    <tr>
+        <td>REIT Manager’s management fees paid/payable</td>
+        <td>8,335</td>
+        <td>8,850</td>
+    </tr>
+    <tr>
+        <td>Trustee’s fees paid/payable</td>
+        <td>321</td>
+        <td>342</td>
+    </tr>
+    <tr>
+        <td>Interest expenses on loan from a related party</td>
+        <td>2,322</td>
+        <td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+## 22. FINANCIAL RATIOS
+
+<table>
+  <thead>
+    <tr>
+<th> </th>
+<th colspan="2">Group</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>2023</th>
+<th>2022</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>%</th>
+<th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="3">Ratio of expenses to weighted average net assets¹</td>
+    </tr>
+    <tr>
+<td>- Including performance component of the REIT Manager’s management fees</td>
+<td>0.97</td>
+<td>0.94</td>
+    </tr>
+    <tr>
+<td>- Excluding performance component of the REIT Manager’s management fees</td>
+<td>0.97</td>
+<td>0.94</td>
+    </tr>
+    <tr>
+<td>Portfolio turnover rate²</td>
+<td>–</td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup>1</sup> The ratios are computed in accordance with the guidelines of the Investment Management Association of Singapore (IMAS). The expenses used in the computation relate to expenses of the Group, excluding finance costs, exchange differences and tax expense.
+
+<sup>2</sup> The ratio is computed based on the lower of purchases or sales of underlying investment properties of the Group expressed as a percentage of weighted average net asset value.
+
+<!-- PAGE 210 -->
+
+## 23. OPERATING SEGMENTS
+
+For the purpose of making resource allocation decisions and the assessment of segment performance, the REIT Manager reviews internal management reports of the Group’s investment properties. This forms the basis of identifying the operating segments of the Group under FRS 108 *Operating Segments* .
+
+The Group’s reportable segments are investment properties located in PRC used primarily for retail purposes. The Group has four reportable segments as follows:
+
+(a) Chongqing Sasseur Suge Apparel Joint Stock Co., Ltd. (Sasseur (Chongqing Liangjiang) Outlet)
+
+(b) Sasseur (Chongqing) Business Co., Ltd. (Sasseur (Chongqing Bishan) Outlet)
+
+(c) Hefei Sasseur Commercial Management Co., Ltd. (Sasseur (Hefei) Outlet)
+
+(d) Kunming Sasseur Commercial Management Co., Ltd. (Sasseur (Kunming) Outlet)
+
+Segment revenue comprises mainly income generated under the EMA and is reported to the REIT Manager for the purpose of assessment of segment performance. In addition, the REIT Manager monitors the non-financial assets as well as financial assets attributable to each segment when assessing segment performance.
+
+Segment results, assets and liabilities include items directly attributable to a segment as well as those that can be allocated on a reasonable basis. Unallocated items comprise mainly the REIT Manager’s management fee, trustee’s fees, trust expenses, finance income, finance costs, tax expense, exchange differences and related assets and liabilities.
+
+Transfer prices between operating segments are on an arm’s length basis in a manner similar to transactions with third parties.
+
+<!-- PAGE 211 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 23. OPERATING SEGMENTS (continued)
+
+Information regarding the Group’s reportable segments is presented in the tables below:
+
+### Segment results
+
+<table>
+  <thead>
+    <tr>
+<th rowspan="2">Group<br/>2023</th>
+<th>Sasseur<br/>(Chongqing<br/>Liangjiang)<br/>Outlet</th>
+<th>Sasseur<br/>(Chongqing<br/>Bishan)<br/>Outlet</th>
+<th>Sasseur<br/>(Hefei)<br/>Outlet</th>
+<th>Sasseur<br/>(Kunming)<br/>Outlet</th>
+<th>Unallocated</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>EMA rental income</td>
+<td>57,802</td>
+<td>11,286</td>
+<td>35,413</td>
+<td>22,225</td>
+<td>–</td>
+<td>126,726</td>
+    </tr>
+    <tr>
+<td>REIT Manager’s management fees</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(8,335)</td>
+<td>(8,335)</td>
+    </tr>
+    <tr>
+<td>Trustee’s fees</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(321)</td>
+<td>(321)</td>
+    </tr>
+    <tr>
+<td colspan="7">Other trust expenses</td>
+    </tr>
+    <tr>
+<td>- Other income</td>
+<td>64</td>
+<td>13</td>
+<td>797</td>
+<td>23</td>
+<td>–</td>
+<td>897</td>
+    </tr>
+    <tr>
+<td>- Other expenses</td>
+<td>(257)</td>
+<td>(44)</td>
+<td>(140)</td>
+<td>(89)</td>
+<td>(1,635)</td>
+<td>(2,165)</td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>286</td>
+<td>286</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>(6,106)</td>
+<td>(1,024)</td>
+<td>(2,749)</td>
+<td>(2,702)</td>
+<td>(14,828)</td>
+<td>(27,409)</td>
+    </tr>
+    <tr>
+<td>Exchange differences</td>
+<td>–</td>
+<td>–</td>
+<td>(5)</td>
+<td>–</td>
+<td>(808)</td>
+<td>(813)</td>
+    </tr>
+    <tr>
+<td>Change in fair value of financial derivatives</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>614</td>
+<td>614</td>
+    </tr>
+    <tr>
+<td><strong>Total return before fair value adjustments to investment properties and tax</strong></td>
+<td><strong>51,503</strong></td>
+<td><strong>10,231</strong></td>
+<td><strong>33,316</strong></td>
+<td><strong>19,457</strong></td>
+<td><strong>(25,027)</strong></td>
+<td><strong>89,480</strong></td>
+    </tr>
+    <tr>
+<td>Fair value adjustments to investment properties</td>
+<td>(1,363)</td>
+<td>(583)</td>
+<td>(394)</td>
+<td>(761)</td>
+<td>–</td>
+<td>(3,101)</td>
+    </tr>
+    <tr>
+<td>Total return for the year before tax</td>
+<td>50,140</td>
+<td>9,648</td>
+<td>32,922</td>
+<td>18,696</td>
+<td>(25,027)</td>
+<td>86,379</td>
+    </tr>
+    <tr>
+<td>Tax expense</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(23,958)</td>
+<td>(23,958)</td>
+    </tr>
+    <tr>
+<td>Total return for the year</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(48,985)</td>
+<td>62,421</td>
+    </tr>
+    <tr>
+<td>Segment assets</td>
+<td>654,554</td>
+<td>169,443</td>
+<td>584,559</td>
+<td>327,254</td>
+<td>11,870</td>
+<td>1,747,680</td>
+    </tr>
+    <tr>
+<td>Segment liabilities</td>
+<td>224,719</td>
+<td>34,336</td>
+<td>160,990</td>
+<td>99,611</td>
+<td>208,412</td>
+<td>728,068</td>
+    </tr>
+    <tr>
+<td colspan="7"><strong>Other segment information:</strong></td>
+    </tr>
+    <tr>
+<td>Capital expenditure</td>
+<td>547</td>
+<td>411</td>
+<td>254</td>
+<td>424</td>
+<td>–</td>
+<td>1,636</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 212 -->
+
+# Notes to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 23. OPERATING SEGMENTS (continued)
+
+### Segment results (continued)
+
+<table>
+  <thead>
+    <tr>
+<th>Group</th>
+<th>Sasseur<br/>(Chongqing<br/>Liangjiang)</th>
+<th>Sasseur<br/>(Chongqing<br/>Bishan)</th>
+<th>Sasseur<br/>(Hefei)</th>
+<th>Sasseur<br/>(Kunming)</th>
+<th> </th>
+<th> </th>
+    </tr>
+    <tr>
+<th>2022</th>
+<th>Outlet</th>
+<th>Outlet</th>
+<th>Outlet</th>
+<th>Outlet</th>
+<th>Unallocated</th>
+<th>Total</th>
+    </tr>
+    <tr>
+<th> </th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td>EMA rental income</td>
+<td>56,723</td>
+<td>11,493</td>
+<td>35,207</td>
+<td>22,509</td>
+<td>–</td>
+<td>125,932</td>
+    </tr>
+    <tr>
+<td>REIT Manager’s management fees</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(8,850)</td>
+<td>(8,850)</td>
+    </tr>
+    <tr>
+<td>Trustee’s fees</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>(342)</td>
+<td>(342)</td>
+    </tr>
+    <tr>
+<td colspan="7">Other trust expenses</td>
+    </tr>
+    <tr>
+<td>- Other income</td>
+<td>40</td>
+<td>19</td>
+<td>23</td>
+<td>43</td>
+<td>–</td>
+<td>125</td>
+    </tr>
+    <tr>
+<td>- Other expenses</td>
+<td>–</td>
+<td>(1)</td>
+<td>(97)</td>
+<td>(82)</td>
+<td>(1,241)</td>
+<td>(1,421)</td>
+    </tr>
+    <tr>
+<td>Finance income</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>171</td>
+<td>171</td>
+    </tr>
+    <tr>
+<td>Finance costs</td>
+<td>(8,672)</td>
+<td>(1,704)</td>
+<td>(3,386)</td>
+<td>(2,042)</td>
+<td>(10,476)</td>
+<td>(26,280)</td>
+    </tr>
+    <tr>
+<td>Exchange differences</td>
+<td>–</td>
+<td>–</td>
+<td>141</td>
+<td>2</td>
+<td>(33)</td>
+<td>110</td>
+    </tr>
+    <tr>
+<td>Change in fair value of financial derivatives</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>70</td>
+<td>70</td>
+    </tr>
+    <tr>
+<td><strong>Total return before fair value adjustments to investment properties and tax</strong></td>
+<td><strong>48,091</strong></td>
+<td><strong>9,807</strong></td>
+<td><strong>31,888</strong></td>
+<td><strong>20,430</strong></td>
+<td><strong>(20,701)</strong></td>
+<td><strong>89,515</strong></td>
+    </tr>
+    <tr>
+<td>Fair value adjustments to investment properties</td>
+<td>(2,614)</td>
+<td>(2,700)</td>
+<td>(2,531)</td>
+<td>(1,483)</td>
+<td>–</td>
+<td>(9,328)</td>
+    </tr>
+    <tr>
+<td><strong>Total return for the year before tax</strong></td>
+<td><strong>45,477</strong></td>
+<td><strong>7,107</strong></td>
+<td><strong>29,357</strong></td>
+<td><strong>18,947</strong></td>
+<td><strong>(20,701)</strong></td>
+<td><strong>80,187</strong></td>
+    </tr>
+    <tr>
+<td>Tax expense</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>(18,089)</td>
+<td>(18,089)</td>
+    </tr>
+    <tr>
+<td><strong>Total return for the year</strong></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><strong>(38,790)</strong></td>
+<td><strong>62,098</strong></td>
+    </tr>
+    <tr>
+<td>Segment assets</td>
+<td>633,599</td>
+<td>169,168</td>
+<td>597,969</td>
+<td>333,625</td>
+<td>33,479</td>
+<td>1,767,840</td>
+    </tr>
+    <tr>
+<td>Segment liabilities</td>
+<td>204,242</td>
+<td>37,881</td>
+<td>143,662</td>
+<td>66,792</td>
+<td>247,464</td>
+<td>700,041</td>
+    </tr>
+    <tr>
+<td colspan="7"><strong>Other segment information:</strong></td>
+    </tr>
+    <tr>
+<td>Capital expenditure</td>
+<td>2,079</td>
+<td>1,387</td>
+<td>579</td>
+<td>33</td>
+<td>–</td>
+<td>4,078</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 213 -->
+
+# **Notes** to the Financial Statements
+
+For the financial year ended 31 December 2023
+
+## 24. SUBSEQUENT EVENT
+
+*Distribution*
+
+On 21 February 2024, the REIT Manager declared a distribution of 1.415 Singapore cents per Unit for the period from 1 October 2023 to 31 December 2023.
+
+## 25. AUTHORISATION OF FINANCIAL STATEMENTS FOR ISSUE
+
+The financial statements were authorised for issue by the REIT Manager and the Trustee on 20 March 2024.
+
+<!-- PAGE 214 -->
+
+# **Interested** Person Transactions
+
+The transactions entered into with interested persons for the financial year ended 31 December 2023, which fall under the SGX-ST Listing Manual and Appendix 6 of the Code on Collective Investment Schemes (excluding transactions of less than $100,000 each) are as follows:
+
+<table>
+  <thead>
+    <tr>
+<th colspan="2"> </th>
+<th colspan="2">Aggregate value of all interested person transactions during the financial year under review</th>
+    </tr>
+    <tr>
+<th rowspan="2">Name of interested person</th>
+<th rowspan="2">Nature of relationship</th>
+<th>excluding transactions less than $100,000 and transactions conducted under Unitholders’ mandate pursuant to Rule 920</th>
+<th>transactions conducted under Unitholders’ mandate pursuant to Rule 920 (excluding transactions less than $100,000)</th>
+    </tr>
+    <tr>
+<th>$’000</th>
+<th>$’000</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="4"><strong>Sasseur (Shanghai) Holding Company Limited</strong></td>
+    </tr>
+    <tr>
+<td>- EMA rental income</td>
+<td>Entrusted Manager</td>
+<td>124,914</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Sasseur Asset Management Pte. Ltd.</strong></td>
+    </tr>
+    <tr>
+<td>- REIT Manager's management fees</td>
+<td>REIT Manager</td>
+<td>8,335</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>DBS Trustee Limited</strong></td>
+    </tr>
+    <tr>
+<td>- Trustee fees</td>
+<td>Trustee</td>
+<td>321</td>
+<td>–</td>
+    </tr>
+    <tr>
+<td colspan="4"><strong>Sasseur Business Management Group Co., Ltd.</strong></td>
+    </tr>
+    <tr>
+<td>- Interest expense incurred pursuant to the Sponsor Loan</td>
+<td>A wholly-owned subsidiary of the Sponsor</td>
+<td>2,322</td>
+<td>–</td>
+    </tr>
+  </tbody>
+</table>
+
+Save as disclosed above, there were no additional interested person transactions (excluding transactions of less than $100,000 each) or other material transactions entered into during the financial year under review.
+
+The fees and charges payable by Sasseur REIT to the REIT Manager under the Trust Deed, and receivables from the Entrusted Manager under the Master Entrusted Management Agreement and the Individual Entrusted Management Agreements, each of which constitutes an interested person transaction, are deemed to have been specifically approved by the Unitholder upon purchase of the Units and are therefore not subject to Rules 905 and 906 of the Listing Manual of the SGX-ST to the extent that there is no subsequent change to the rates and/or bases of the fees charged thereunder which will affect Sasseur REIT.
+
+Please also see Related Party Transactions in Note 21 to the Financial Statements.
+
+## SUBSCRIPTION OF SASSEUR REIT UNITS
+
+Total issuable Units in relation to the REIT Manager’s management fees for the year ended 31 December 2023 was 3,022,032 Units and will be issued in the first quarter of 2024.
+
+<!-- PAGE 215 -->
+
+# Unitholders’ Information
+
+As At 4 March 2024
+
+## ISSUED AND FULLY PAID UNITS
+
+**Number of units**: 1,242,647,853 units (“Units”)
+**Voting rights**: One vote per Unit
+
+There were no treasury units and subsidiary holdings, and there is only one class of Units in Sasseur REIT.
+
+## STATISTICS OF UNITHOLDINGS
+
+<table>
+  <thead>
+    <tr>
+        <th>Size of Unitholdings</th>
+        <th>Number of Unitholders</th>
+        <th>%</th>
+        <th>Number of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1 - 99</td>
+        <td>4</td>
+        <td>0.06</td>
+        <td>8</td>
+        <td>0.00</td>
+    </tr>
+    <tr>
+        <td>100 - 1,000</td>
+        <td>817</td>
+        <td>12.35</td>
+        <td>708,850</td>
+        <td>0.06</td>
+    </tr>
+    <tr>
+        <td>1,001 - 10,000</td>
+        <td>3,320</td>
+        <td>50.17</td>
+        <td>17,800,793</td>
+        <td>1.43</td>
+    </tr>
+    <tr>
+        <td>10,001 - 1,000,000</td>
+        <td>2,450</td>
+        <td>37.03</td>
+        <td>130,969,650</td>
+        <td>10.54</td>
+    </tr>
+    <tr>
+        <td>1,000,001 and above</td>
+        <td>26</td>
+        <td>0.39</td>
+        <td>1,093,168,552</td>
+        <td>87.97</td>
+    </tr>
+    <tr>
+        <td><strong>TOTAL:</strong></td>
+        <td><strong>6,617</strong></td>
+        <td><strong>100.00</strong></td>
+        <td><strong>1,242,647,853</strong></td>
+        <td><strong>100.00</strong></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+        <th>Location of Unitholders</th>
+        <th>Number of Unitholders</th>
+        <th>%</th>
+        <th>Number of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Singapore</td>
+        <td>6,451</td>
+        <td>97.49</td>
+        <td>1,236,482,453</td>
+        <td>99.50</td>
+    </tr>
+    <tr>
+        <td>Malaysia</td>
+        <td>124</td>
+        <td>1.87</td>
+        <td>4,434,300</td>
+        <td>0.36</td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>42</td>
+        <td>0.64</td>
+        <td>1,731,100</td>
+        <td>0.14</td>
+    </tr>
+    <tr>
+        <td><strong>TOTAL:</strong></td>
+        <td><strong>6,617</strong></td>
+        <td><strong>100.00</strong></td>
+        <td><strong>1,242,647,853</strong></td>
+        <td><strong>100.00</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+## SUBSTANTIAL UNITHOLDERS AS AT 4 MARCH 2024
+
+(As recorded in the Register of Substantial Unitholders)
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Direct Interest</th>
+        <th>%</th>
+        <th>Deemed Interest</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Sasseur Cayman Holding II Ltd.<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+    <tr>
+        <td>Sasseur Cayman Holding Limited<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+    <tr>
+        <td>Sasseur (BVI) Holding II Limited<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+    <tr>
+        <td>Shimmer Fair Management Limited<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+    <tr>
+        <td>TMF (Cayman) Ltd.<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+    <tr>
+        <td>Xu Rongcan<sup>(1)</sup></td>
+        <td>-</td>
+        <td>-</td>
+        <td>718,915,553</td>
+        <td>57.85</td>
+    </tr>
+    <tr>
+        <td>Yang Xue<sup>(2)</sup></td>
+        <td>11,132,900</td>
+        <td>0.90</td>
+        <td>707,782,653</td>
+        <td>56.95</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 216 -->
+
+# Unitholders’ Information
+
+As At 4 March 2024
+
+Notes:
+
+(1) Shimmer Fair Management Limited (“Shimmer Fair Management”) is the sole shareholder of Sasseur (BVI) Holding II Limited (“Sasseur (BVI) Holding II”). Sasseur (BVI) Holding II holds 94.4048% of the share capital of Sasseur Cayman Holding Limited (the “Sponsor”) and the Sponsor is in turn the sole shareholder of Sasseur Cayman Holding II Ltd. (“Cayman Holdco”).
+
+Cayman Holdco is the sole shareholder of Sasseur Asset Management Pte. Ltd. (the “REIT Manager”) and is deemed to be interested in 27,737,153 Units held by the REIT Manager.
+
+TMF (Cayman) Ltd. (“TMF (Cayman)”) as the trustee of Xu Family Trust is the sole shareholder of Shimmer Fair Management. The Xu Family Trust is a discretionary trust established by Mr. Xu Rongcan as settlor and the sole member of the Protective Committee and Investment Committee of Xu Family Trust, for the benefit of its beneficiaries, being Mr. Xu Rongcan who is the primary beneficiary of the Xu Family Trust during his lifetime and whilst not incapacitated.
+
+In addition, as the sole power to make investment decision relating to the assets of the Xu Family Trust is vested on an investment committee, of which Mr. Xu Rongcan is the sole member, only he can make all decisions relating to any purchase, sale, exchange, or retention of the shares in Shimmer Fair Management as well as the exercise of any voting and other rights on behalf of the Xu Family Trust.
+
+As Cayman Holdco is deemed to be interested in 429,775,600 Units held through CGS-CIMB Securities Singapore Pte. Ltd., 160,000,000 held through China Merchants Bank, 88,000,000 Units held through KGI Securities (Singapore) Pte. Ltd, 2,269,900 Units held through Haitong International Securities (Singapore) Private Limited and 27,737,153 Units held by the REIT Manager, each of the Sponsor, Sasseur (BVI) Holding II, Shimmer Fair Management, TMF (Cayman) and Mr. Xu Rongcan is also deemed to be interested in the 707,782,653 Units.
+
+Mr. Xu Rongcan is the spouse of Ms. Yang Xue and is deemed to be interested in 11,132,900 Units held by Ms. Yang Xue.
+
+(2) Ms. Yang Xue is the spouse of Mr. Xu Rongcan and is deemed to be interested in the Units which he has an interest in.
+
+## TWENTY LARGEST UNITHOLDERS AS AT 4 MARCH 2024
+
+<table>
+  <thead>
+    <tr>
+        <th>No.</th>
+        <th>Name of Unitholders</th>
+        <th>Number of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1.</td>
+        <td>CGS-CIMB SECURITIES (SINGAPORE) PTE. LTD.</td>
+        <td>432,125,300</td>
+        <td>34.77</td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td>BPSS NOMINEES SINGAPORE (PTE.) LTD.</td>
+        <td>166,802,900</td>
+        <td>13.42</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>DBS NOMINEES (PRIVATE) LIMITED</td>
+        <td>149,298,732</td>
+        <td>12.01</td>
+    </tr><tr>
+<td>4.</td>
+<td>KGI SECURITIES (SINGAPORE) PTE. LTD</td>
+<td>88,425,100</td>
+<td>7.12</td>
+</tr><tr>
+<td>5.</td>
+<td>DBSN SERVICES PTE. LTD.</td>
+<td>46,246,350</td>
+<td>3.72</td>
+</tr><tr>
+<td>6.</td>
+<td>RAFFLES NOMINEES (PTE.) LIMITED</td>
+<td>40,746,581</td>
+<td>3.28</td>
+</tr><tr>
+<td>7.</td>
+<td>CITIBANK NOMINEES SINGAPORE PTE LTD</td>
+<td>40,305,439</td>
+<td>3.24</td>
+</tr><tr>
+<td>8.</td>
+<td>SASSEUR ASSET MANAGEMENT PTE. LTD.</td>
+<td>27,737,153</td>
+<td>2.23</td>
+</tr><tr>
+<td>9.</td>
+<td>HSBC (SINGAPORE) NOMINEES PTE LTD</td>
+<td>22,061,697</td>
+<td>1.78</td>
+</tr><tr>
+<td>10.</td>
+<td>PHILLIP SECURITIES PTE LTD</td>
+<td>12,237,695</td>
+<td>0.98</td>
+</tr><tr>
+<td>11.</td>
+<td>IFAST FINANCIAL PTE. LTD.</td>
+<td>9,321,300</td>
+<td>0.75</td>
+</tr><tr>
+<td>12.</td>
+<td>UOB KAY HIAN PRIVATE LIMITED</td>
+<td>7,964,400</td>
+<td>0.64</td>
+</tr><tr>
+<td>13.</td>
+<td>MAYBANK SECURITIES PTE. LTD.</td>
+<td>7,917,200</td>
+<td>0.64</td>
+</tr><tr>
+<td>14.</td>
+<td>UNITED OVERSEAS BANK NOMINEES (PRIVATE) LIMITED</td>
+<td>7,376,900</td>
+<td>0.59</td>
+</tr><tr>
+<td>15.</td>
+<td>OCBC NOMINEES SINGAPORE PRIVATE LIMITED</td>
+<td>6,317,400</td>
+<td>0.51</td>
+</tr><tr>
+<td>16.</td>
+<td>HENG SIEW ENG</td>
+<td>5,223,200</td>
+<td>0.42</td>
+</tr><tr>
+<td>17.</td>
+<td>OCBC SECURITIES PRIVATE LIMITED</td>
+<td>3,885,000</td>
+<td>0.31</td>
+</tr>
+    <tr>
+        <td>18.</td>
+        <td>TIGER BROKERS (SINGAPORE) PTE. LTD.</td>
+        <td>3,204,200</td>
+        <td>0.26</td>
+    </tr>
+    <tr>
+        <td>19.</td>
+        <td>ABN AMRO CLEARING BANK N.V.</td>
+        <td>3,008,700</td>
+        <td>0.24</td>
+    </tr>
+    <tr>
+        <td>20.</td>
+        <td>DB NOMINEES (SINGAPORE) PTE LTD</td>
+        <td>2,907,700</td>
+        <td>0.23</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>TOTAL:</td>
+        <td>1,083,112,947</td>
+        <td>87.14</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- PAGE 217 -->
+
+# Unitholders’ Information
+
+As At 4 March 2024
+
+## PERCENTAGE OF UNITHOLDING IN PUBLIC’S HANDS
+
+Based on the information made available to the REIT Manager as at 4 March 2024, approximately 42.07% of the Units in Sasseur REIT are held in the hands of public. Accordingly, Rule 723 of the Listing Manual of the SGX-ST has been complied with.
+
+## UNITHOLDINGS OF DIRECTORS OF THE REIT MANAGER AS AT 21 JANUARY 2024
+
+<table>
+  <thead>
+    <tr>
+        <th> </th>
+        <th>Direct Interest</th>
+        <th>Deemed Interest</th>
+    </tr>
+    <tr>
+        <th>Name of Director</th>
+        <th>No. of Units</th>
+        <th>No. of Units</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Xu Rongcan(1)</td>
+        <td>-</td>
+        <td>718,915,553</td>
+    </tr>
+    <tr>
+        <td>Yang Xue(2)</td>
+        <td>11,132,900</td>
+        <td>707,782,653</td>
+    </tr>
+    <tr>
+        <td>Cheng Heng Tan</td>
+        <td>350,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Gu Qingyang</td>
+        <td>372,500</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Wu Geng</td>
+        <td>125,000</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Mario Boselli</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+**Notes:**
+
+(1) Shimmer Fair Management Limited (“Shimmer Fair Management”) is the sole shareholder of Sasseur (BVI) Holding II Limited (“Sasseur (BVI) Holding II”). Sasseur (BVI) Holding II holds 94.4048% of the share capital of Sasseur Cayman Holding Limited (the “Sponsor”) and the Sponsor is in turn the sole shareholder of Sasseur Cayman Holding II Ltd. (“Cayman Holdco”).
+
+Cayman Holdco is the sole shareholder of Sasseur Asset Management Pte. Ltd. (the “REIT Manager”) and is deemed to be interested in 27,737,153 Units held by the REIT Manager.
+
+TMF (Cayman) Ltd. (“TMF (Cayman)”) as the trustee of Xu Family Trust is the sole shareholder of Shimmer Fair Management. The Xu Family Trust is a discretionary trust established by Mr. Xu Rongcan as settlor and the sole member of the Protective Committee and Investment Committee of Xu Family Trust, for the benefit of its beneficiaries, being Mr. Xu Rongcan who is the primary beneficiary of the Xu Family Trust during his lifetime and whilst not incapacitated.
+
+In addition, as the sole power to make investment decision relating to the assets of the Xu Family Trust is vested on an investment committee, of which Mr. Xu Rongcan is the sole member, only he can make all decisions relating to any purchase, sale, exchange, or retention of the shares in Shimmer Fair Management as well as the exercise of any voting and other rights on behalf of the Xu Family Trust.
+
+As Cayman Holdco is deemed to be interested in 429,775,600 Units held through CGS-CIMB Securities Singapore Pte. Ltd., 160,000,000 held through China Merchants Bank, 88,000,000 Units held through KGI Securities (Singapore) Pte. Ltd, 2,269,900 Units held through Haitong International Securities (Singapore) Private Limited and 27,737,153 Units held by the REIT Manager, each of the Sponsor, Sasseur (BVI) Holding II, Shimmer Fair Management, TMF (Cayman) and Mr. Xu Rongcan is also deemed to be interested in the 707,782,653 Units.
+
+Mr. Xu Rongcan is the spouse of Ms. Yang Xue and is deemed to be interested in 11,132,900 Units held by Ms. Yang Xue.
+
+(2) Ms. Yang Xue is the spouse of Mr. Xu Rongcan and is deemed to be interested in the Units which he has an interest in.
+
+<!-- PAGE 218 -->
+
+NOTICE IS HEREBY GIVEN that the Annual General Meeting (“ **AGM** ” or “ **Meeting** ”) of the holders of the units of Sasseur Real Estate Investment Trust (“ **Sasseur REIT** ” and the holders of units of Sasseur REIT, the “ **Unitholders** ”) will be held at Meeting Rooms 331 & 332, Level 3, Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Suntec City, Singapore 039593 on Thursday, 25 April 2024 at 3.00 p.m. to transact the following business:
+
+## AS ORDINARY BUSINESS
+
+1. To receive and adopt the Report of DBS Trustee Limited, as trustee of Sasseur REIT (the “ **Trustee** ”), the Statement by Sasseur Asset Management Pte. Ltd., as manager of Sasseur REIT (the “ **REIT Manager** ”), and the Audited Financial Statements of Sasseur REIT for the financial year ended 31 December 2023 and the Auditors’ Report thereon.
+
+**(Resolution 1)**
+
+2. To re-appoint Ernst & Young LLP as Auditors of Sasseur REIT to hold office until the conclusion of the next AGM of Sasseur REIT, and to authorise the REIT Manager to fix their remuneration.
+
+**(Resolution 2)**
+
+## AS SPECIAL BUSINESS
+
+To consider and, if thought fit, to pass the following Ordinary Resolution, with or without any modifications:
+
+3. The authority be and is hereby given to the REIT Manager, to
+
+(a) (i) issue units in Sasseur REIT (“ **Units** ”) whether by way of rights, bonus or otherwise; and/or
+
+(ii) make or grant offers, agreements or options (collectively, “ **Instruments** ”) that might or would require Units to be issued, including but not limited to the creation and issue of (as well as adjustments to) securities, warrants, debentures or other instruments convertible into Units,
+
+at any time and upon such terms and conditions and for such purposes and to such persons as the REIT Manager may in its absolute discretion deem fit; and
+
+(b) issue Units in pursuance of any Instrument made or granted by the REIT Manager while this Resolution was in force (notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time such Units are issued),
+
+provided that:
+
+(1) the aggregate number of Units to be issued pursuant to this Resolution (including Units to be issued in pursuance of Instruments made or granted pursuant to this Resolution) must not exceed fifty per cent. (50%) of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) (as calculated in accordance with sub-paragraph (2) below), of which the aggregate number of Units to be issued other than on a pro rata basis to Unitholders (including Units to be issued in pursuance of Instruments made or granted pursuant to this Resolution) must not exceed twenty per cent. (20%) of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) (as calculated in accordance with sub-paragraph (2) below);
+
+<!-- PAGE 219 -->
+
+# Notice of Annual General Meeting
+
+(2) subject to such manner of calculation as may be prescribed by Singapore Exchange Securities Trading Limited (the "**SGX-ST**") for the purpose of determining the aggregate number of Units that may be issued under sub-paragraph (1) above, the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) shall be based on the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) at the time this Resolution is passed, after adjusting for:
+
+(a) any new Units arising from the conversion or exercise of any Instruments which are outstanding at the time this Resolution is passed; and
+
+(b) any subsequent bonus issue, consolidation or subdivision of Units;
+
+(3) in exercising the authority conferred by this Resolution, the REIT Manager shall comply with the provisions of the Listing Manual of the SGX-ST for the time being in force (unless such compliance has been waived by the SGX-ST) and the deed of trust constituting Sasseur REIT (as supplemented) (the "**Trust Deed**") for the time being in force (unless otherwise exempted or waived by the Monetary Authority of Singapore);
+
+(4) unless revoked or varied by the Unitholders in a general meeting, the authority conferred by this Resolution shall continue in force until (i) the conclusion of the next AGM of Sasseur REIT or (ii) the date by which the next AGM of Sasseur REIT is required by the applicable laws or regulations or the Trust Deed to be held, whichever is earlier;
+
+(5) where the terms of the issue of the Instruments provide for adjustment to the number of Instruments or Units into which the Instruments may be converted in the event of rights, bonus or other capitalisation issues or any other events, the REIT Manager is authorised to issue additional Instruments or Units pursuant to such adjustment notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time the Instruments or Units are issued; and
+
+(6) the REIT Manager and the Trustee, be and are hereby severally authorised to complete and do all such acts and things (including executing all such documents as may be required) as the Manager or, as the case may be, the Trustee may consider expedient or necessary or in the interest of Sasseur REIT to give effect to the authority conferred by this Resolution.
+
+[Please see Explanatory Note] **(Resolution 3)**
+
+By Order of the Board
+Sasseur Asset Management Pte. Ltd.
+(Company Registration No. 201707259N)
+as REIT Manager of Sasseur REIT
+
+Cho Form Po
+Company Secretary
+
+3 April 2024
+
+<!-- PAGE 220 -->
+
+## *Explanatory Note:*
+
+Ordinary Resolution 3 above, if passed, will empower the REIT Manager from the date of this AGM until (i) the conclusion of the next AGM of the Unitholders of Sasseur REIT, or (ii) the date by which the next AGM of the Unitholders of Sasseur REIT is required by the applicable laws and regulations or the Trust Deed to be held, whichever is earlier, to issue Units and to make or grant Instruments (such securities, warrants or debentures) convertible into Units and to issue Units pursuant to such Instruments, up to a number not exceeding, in total, fifty per cent. (50%) of the total number of issued Units (excluding treasury Units and subsidiary holdings, if any), of which up to twenty per cent. (20%) may be issued other than on a pro rata basis to Unitholders (excluding treasury Units and subsidiary holdings, if any).
+
+For the purpose of determining the aggregate number of Units that may be issued, the percentage of issued Units will be calculated based on the total number of issued Units (excluding treasury Units and subsidiary holdings, if any) at the time this Ordinary Resolution is passed, after adjusting for new Units arising from the conversion or exercise of any Instruments which are outstanding or subsisting at the time when this Ordinary Resolution is passed and any subsequent bonus issue, consolidation or subdivision of Units.
+
+Fund raising by issuance of new Units may be required in instances of property acquisitions or debt repayments. In any event, if the approval of Unitholders is required under the Listing Manual and the Trust Deed or any applicable laws and regulations in such instances, the REIT Manager will then obtain the approval of Unitholders accordingly.
+
+## *Notes:*
+
+## 1. **Arrangements for Conduct of the AGM**
+
+The AGM will be held in a wholly physical format at Meeting Rooms 331 & 332, Level 3, Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Suntec City, Singapore 039593 on Thursday, 25 April 2024 at 3.00 p.m.. Unitholders, including CPF and SRS investors, and (where applicable) their duly appointed proxy(ies) and/or representative(s) will be able to ask questions and vote at the AGM by attending the AGM in person. **There will be no option for Unitholders to participate the AGM virtually.**
+
+Printed copies of this Notice of AGM (“ **Notice of AGM** ”) and the accompanying proxy form for the AGM (“ **Proxy Form** ”) will be sent by post to Unitholders. These documents will also be published on Sasseur REIT’s website at the URL <u>www.sasseurreit.com</u> and on the SGX website at the URL <u>https://www.sgx.com/securities/company-announcements</u> .
+
+Arrangements relating to:
+
+(a) attendance at the AGM by Unitholders, including CPF and SRS Investors, and (where applicable) their duly appointed proxy(ies) and/or representative(s);
+
+(b) submission of questions (relating to the business of the AGM) to the REIT Manager by Unitholders, including CPF and SRS investors, in advance of, or at, the AGM, and addressing of substantial and relevant questions (relating to the business of the AGM) in advance of, or at the AGM; and
+
+(c) voting at the AGM by Unitholders, including CPF and SRS investors, or (where applicable) their duly appointed proxy(ies) and/or representative(s), are set out below.
+
+## 2. **Attendance at the AGM in person**
+
+Unitholders, including CPF and SRS investors, and (where applicable) their duly appointed proxy(ies) and/or representative(s) will be able to attend the AGM in person. They will be required to register personally at the registration counter(s) outside the AGM venue on the day of the event, and should bring along their NRIC/passport to enable the REIT Manager to verify their identity for entry to the AGM, and (where applicable) be provided with a handheld device for electronic voting at the AGM.
+
+<!-- PAGE 221 -->
+
+# Notice of Annual General Meeting
+
+
+
+## 3. Questions and Answers relating to the AGM
+
+All Unitholders, including CPF and SRS investors, may submit questions relating to the business of the AGM in advance of, or at, the AGM.
+
+<u>Submission of Questions in Advance of the AGM</u>
+
+If the Unitholders, including CPF and SRS investors, wish to submit questions in advance of the AGM, all questions must be submitted no later than 3.00 p.m. on Friday, 12 April 2024 ("**Q&A Submission Deadline**") through the following means:
+
+(a) by post to 10 Anson Road, #29-07 International Plaza, Singapore 079903; or
+
+(b) by email to sasseur-agm@complete-corp.com.
+
+When submitting in questions by post or via email, the following information of Unitholders and Investors will be required for authentication purposes:
+
+(a) full name;
+
+(b) NRIC/Passport/Company Registration number;
+
+(c) contact number;
+
+(d) email address; and
+
+(e) the manner in which the units are held (e.g. via CDP, CPF or SRS).
+
+<u>Ask Questions at the AGM</u>
+
+All Unitholders, including CPF and SRS investors, and (where applicable) their duly appointed proxy(ies) and/or representative(s) may also ask questions relating to the business of the AGM at the AGM itself.
+
+<u>Addressing Questions prior to and at the AGM</u>
+
+The REIT Manager will publish the responses to the substantial and relevant questions relating to the business of the AGM received from the Unitholders by the Q&A Submission Deadline on the SGX website at https://www.sgx.com/securities/company-announcements and Sasseur REIT's website at www.sasseurreit.com on Thursday, 18 April 2024.
+
+If there are any relevant and subsequent questions received after Q&A Submission Deadline, the REIT Manager will address them during the AGM. For questions which are addressed during the AGM, the responses to such questions will be included in the minutes of AGM which will be published on the SGX website and Sasseur REIT's website within one (1) month after the date of AGM.
+
+Where there are substantially similar questions, the REIT Manager will consolidate such questions and consequently, not all questions may be individually addressed.
+
+## 4. Voting at the AGM
+
+Unitholders can vote at the AGM themselves or through their duly appointed proxy(ies) and/or representative(s).
+
+Upon the registration at the AGM venue, Unitholders, including CPF and SRS investors, and (where applicable) their duly appointed proxy(ies) and/or representative(s), will be provided a handheld device for electronic voting at the AGM.
+
+<!-- PAGE 222 -->
+
+## 5. **Appointment of Proxy(ies)**
+
+A Unitholder who is not a relevant intermediary entitled to attend and vote at the AGM is entitled to appoint one or two proxies to attend and vote in the Unitholder’s stead. Where a Unitholder appoints more than one proxy, the appointments shall be invalid unless the Unitholder specifies the proportion of the Unitholder’s holdings (expressed as a percentage of the whole) to be represented by each proxy.
+
+A Unitholder who is a relevant intermediary entitled to attend and vote at the AGM is entitled to appoint more than one proxy to attend and vote in stead of the Unitholder, provided that each proxy must be appointed to exercise the rights attached to a different Unit or Units held by such Unitholder. Where such Unitholder appoints more than one proxy, the appointments shall be invalid unless the Unitholder specifies in the Proxy Form the number of Units in relation to which each proxy has been appointed.
+
+In this Notice of AGM, a “ **relevant intermediary** ” means:
+
+(a) a banking corporation licensed under the Banking Act 1970 of Singapore or a wholly-owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds Units in that capacity;
+
+(b) a person holding a capital markets services licence to provide custodial services for securities under the Securities and Futures Act 2001 of Singapore and who holds Units in that capacity; or
+
+(c) the Central Provident Fund Board (“ **CPF Board** ”) established by the Central Provident Fund Act 1953 of Singapore, in respect of Units purchased under the subsidiary legislation made under that Act providing for the making of investments from the contributions and interest standing to the credit of members of the Central Provident Fund, if the CPF Board holds those Units in the capacity of an intermediary pursuant to or in accordance with that subsidiary legislation.
+
+## 6. **Submission of Proxy Form**
+
+Unitholders who wish to appoint a proxy(ies) or the Chairman of the Meeting as proxy to attend, speak and vote at the AGM on their behalf must submit a Proxy Form for the appointment of such proxy(ies). A proxy need not be a Unitholder of Sasseur REIT. The Proxy Form must be submitted to the REIT Manager in the following manner:
+
+(a) if submitted by post, be lodged at 10 Anson Road, #29-07 International Plaza, Singapore 079903; or
+
+(b) if submitted electronically, be submitted via email to the REIT Manager at email address <u>sasseur-agm@complete-corp.com</u> ,
+
+in either case no later than 3.00 p.m. on Monday, 22 April 2024 (being not less than seventy-two (72) hours before the time appointed for holding the AGM).
+
+A Unitholder who wishes to submit a Proxy Form by post or via email can either use the printed copy of the Proxy Form which is sent to him/her/it by post, or download a copy of the Proxy Form from Sasseur REIT’s website or the SGX website, complete and sign the Proxy Form, before submitting it by post to the address provided above, or before scanning and sending it by email to the email address provided above.
+
+The Proxy Form is not valid for use by investors (including CPF and SRS Investors) and shall be ineffective for all intents and purposes if used or purported to be used by them.
+
+<!-- PAGE 223 -->
+
+# Notice of Annual General Meeting
+
+
+
+**7. Investors who hold Units through relevant intermediaries**
+
+Investors holding Units through relevant intermediaries (“Investors”) (other than CPF and SRS investors) who wish to participate in the AGM by (a) attending the AGM in person; (b) submitting questions to the REIT Manager in advance of, or at, the AGM; and/or (c) voting at the AGM by (i) themselves; or (ii) appointing the Chairman of the Meeting as proxy to vote on their behalf, should contact their relevant intermediaries as soon as possible in order for the necessary arrangements to be made for their participation in the AGM.
+
+
+
+CPF and SRS investors:
+
+(a) may attend, speak and vote at the AGM if they are appointed as proxies by their respective CPF Agent Banks or SRS Operators, and should contact their respective CPF Agent Banks or SRS Operators if they have any queries regarding their appointment as proxies; or
+
+(b) may appoint the Chairman of the Meeting as proxy to vote on their behalf at the AGM, in which case they should approach their respective CPF Agent Banks or SRS Operators to submit their votes by 5.00 p.m. on Monday, 15 April 2024, being seven (7) working days before the date of the AGM. For the avoidance of doubt, CPF and SRS investors will not be able to appoint third party proxy(ies) (i.e. persons other than the Chairman of the Meeting) to vote at the AGM on their behalf.
+
+
+
+**8. Annual Report 2023, Notice of AGM and Proxy Form**
+
+The Annual Report 2023, Notice of AGM and Proxy Form have been published on Sasseur REIT’s website at the URL <u>www.sasseurreit.com</u> and SGX website at the URL <u>https://www.sgx.com/securities/company-announcements</u>. Such documents may be accessed at Sasseur REIT’s website at the URL www.sasseurreit.com and SGX website at the URL <u>https://www.sgx.com/securities/company-announcements</u>.
+
+**Personal data privacy:**
+
+By submitting an instrument appointing a proxy(ies) and/or representative(s) to attend, speak and vote at the AGM and/or any adjournment thereof, a member of the Company or a Depositor, as the case may be (i) consents to the collection, use and disclosure of the member or Depositor’s personal data by the Company (or its agents) for the purpose of the processing and administration by the Company (or its agents) of proxies and representatives appointed for the AGM (including any adjournment thereof) and the preparation and compilation of the attendance lists, minutes and other documents relating to the AGM (including any adjournment thereof), and in order for the Company (or its agents) to comply with any applicable laws, listing rules, regulations and/or guidelines (collectively, the “**Purposes**”), (ii) warrants that where the member or a Depositor discloses the personal data of the member or Depositor’s proxy(ies) and/or representative(s) to the Company (or its agents), the member or Depositor has obtained the prior consent of such proxy(ies) and/or representative(s) for the collection, use and disclosure by the Company (or its agents) of the personal data of such proxy(ies) and/or representative(s) for the Purposes, and (iii) agrees that the member or Depositor will indemnify the Company in respect of any penalties, liabilities, claims, demands, losses and damages as a result of the member or Depositor’s breach of warranty.
+
+<!-- PAGE 224 -->
+
+
+
+<!-- PAGE 225 -->
+
+# SASSEUR REAL ESTATE INVESTMENT TRUST
+
+(Constituted in the Republic of Singapore pursuant to a deed of trust dated 30 October 2017 (as supplemented))
+
+**IMPORTANT:**
+
+1. The Annual General Meeting (“**AGM**” or “**Meeting**”) will be held in a wholly physical format at Meeting Rooms 331 & 332, Level 3, Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Suntec City, Singapore 039593 on Thursday, 25 April 2024 at 3.00 p.m.. There will be no option for Unitholders to participate the AGM virtually.
+
+2. This Proxy Form is not valid for use by CPF/SRS investors and shall be ineffective for all intents and purposes if used or is purported to be used by them.
+
+3. CPF/SRS investors who wish to appoint proxy(ies) should approach their respective CPF Agent Banks or SRS Operators to submit their votes at least seven (7) working days prior to the AGM (by 5.00 p.m. on Monday, 15 April 2024).
+
+4. Please read the notes overleaf which contain instructions on, *inter alia*, the appointment of the proxy(ies) to attend, speak and vote at the AGM.
+
+# Proxy Form
+
+(Please see notes overleaf before completing this Form)
+
+I/We\*,      (Name), NRIC/Passport number\*     
+of      (Address)
+being a Unitholder/Unitholders of Sasseur Real Estate Investment Trust (“**Sasseur REIT**”, and the units of Sasseur REIT, the “**Units**”), hereby appoint(s):
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>NRIC/Passport No.</th>
+        <th colspan="2">Proportion of Unitholdings</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="2">Address</td>
+        <td rowspan="2">Email</td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td></td>
+    </tr>
+  </tbody>
+</table>
+
+and/or (delete as appropriate)
+
+<table>
+  <thead>
+    <tr>
+        <th>Name</th>
+        <th>NRIC/Passport No.</th>
+        <th colspan="2">Proportion of Unitholdings</th>
+    </tr>
+    <tr>
+        <th> </th>
+        <th> </th>
+        <th>No. of Units</th>
+        <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="2">Address</td>
+        <td rowspan="2">Email</td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td></td>
+    </tr>
+  </tbody>
+</table>
+
+or, both of whom failing, the Chairman of the Annual General Meeting (“**AGM**” or “**Meeting**”) as my/our proxy/proxies to attend and vote for me/us on my/our behalf at the AGM of Sasseur REIT to be held at Meeting Rooms 331 & 332, Level 3, Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Suntec City, Singapore 039593 on Thursday, 25 April 2024 at 3.00 p.m. and at any adjournment thereof. I/We direct my/our proxy/proxies to vote for or against or to abstain from voting on the Resolutions to be proposed at the AGM as indicated hereunder. If no specific direction as to voting is given, the proxy/proxies may vote or abstain from voting at his/her/their discretion, as he/ she/they will on any other matter arising at the AGM and at any adjournment thereof.
+
+<table>
+  <thead>
+    <tr>
+        <th>No.</th>
+        <th>Resolutions relating to:</th>
+        <th>For(1)</th>
+        <th>Against(1)</th>
+        <th>Abstain(1)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="5">ORDINARY BUSINESS</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>To receive and adopt the Report of DBS Trustee Limited, as trustee of Sasseur REIT (the “<strong>Trustee</strong>”), the Statement by Sasseur Asset Management Pte. Ltd., as manager of Sasseur REIT (the “<strong>REIT Manager</strong>”), and the Audited Financial Statements of Sasseur REIT for the financial year ended 31 December 2023 and the Auditors’ Report thereon.</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>To re-appoint Ernst &amp; Young LLP as Auditors of Sasseur REIT to hold office until the conclusion of the next AGM of Sasseur REIT, and to authorise the REIT Manager to fix their remuneration.</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td colspan="5">SPECIAL BUSINESS</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>To authorise the REIT Manager to issue Units and to make or grant convertible instruments.</td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+\* (1) If you wish to exercise all your votes “For” or “Against” or “Abstain”, please tick within the box provided. Alternatively, please indicate the number of Units, as appropriate, in the boxes provided.
+
+Dated this      day of April 2024
+
+<table>
+  <thead>
+    <tr>
+<th>Total number of Units in:</th>
+<th>No. of Units</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<td colspan="2">(a) CDP Register</td>
+    </tr>
+    <tr>
+<td colspan="2">(b) Register of Unitholders</td>
+    </tr>
+  </tbody>
+</table>
+
+[signature]
+Signature of Unitholder(s)
+or, Common Seal of Corporate Unitholder
+
+\* Delete where inapplicable
+
+<!-- PAGE 226 -->
+
+# Proxy Form
+
+**NOTES:**
+
+1. Please insert the total number of units (Units) held by you. If you have Units entered against your name in the Depository Register (maintained by the Central Depository (Pte) Limited), you should insert that number of Units. If you have Units registered in your name in the Register of Unitholders (maintained by or on behalf of the REIT Manager), you should insert that number of Units. If you have Units entered against your name in the Depository Register and Units registered in your name in the Register of Unitholders, you should insert the aggregate number of Units. If no number is inserted, this Proxy Form will be deemed to relate to all Units held by you.
+
+2. A unitholder of Sasseur REIT (“Unitholder”) who is not a relevant intermediary entitled to attend and vote at the AGM is entitled to appoint one or two proxies to attend and vote in his/her stead. A proxy need not be a Unitholder. Where a Unitholder appoints more than one proxy, the appointments shall be invalid unless he/she specifies the proportion of his/her holding (expressed as a percentage of the whole) to be represented by each proxy.
+
+3. A Unitholder who is a relevant intermediary entitled to attend and vote at the AGM is entitled to appoint more than one proxy to attend and vote in stead of the Unitholder, but each proxy must be appointed to exercise the rights attached to a different Unit or Units held by such Unitholder. Where such Unitholder appoints more than one proxy, the appointments shall be invalid unless the Unitholder specifies the number of Units in relation to which each proxy has been appointed in the Proxy Form.
+
+4. “Relevant intermediary” means:
+
+* (a) banking corporation licensed under the Banking Act 1970, or a wholly-owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds Units in that capacity;
+
+* (b) a person holding a capital market services licence to provide custodial services for securities under the Securities and Futures Act 2001, and who holds Units in that capacity; or
+
+* (c) the Central Provident Fund Board (“CPF Board”) established by the Central Provident Fund Act 1953, in respect of Units purchased under the subsidiary legislation made under that Act providing for the making of investments from the contributions and interest standing to the credit of members of the Central Provident Fund, if the CPF Board holds those Units in the capacity of an intermediary pursuant to or in accordance with that subsidiary legislation.
+
+5. This Proxy Form may be accessed at Sasseur REIT’s website at the URL <u>www.sasseurreit.com</u>, and will be made available on the SGX website at the URL <u>https://www.sgx.com/securities/company-announcements</u>. Printed copies of the Proxy Form will also be sent to Unitholders.
+
+6. Where a Unitholder (whether individual or corporation) appoints a proxy(ies) (including the Chairman of the Meeting) to attend, speak and vote at the AGM on his/her/its behalf, he/she/it should give specific instructions as to voting, or abstention from voting, in respect of the resolutions in the Proxy Form. Where a Unitholder (whether individual or corporation) appoints the Chairman of the Meeting as his/her/its proxy and no specific instructions are given as to voting, or abstentions from voting, in respect of a resolution in the Proxy Form, the appointment of Chairman of the Meeting as proxy for such resolution will be treated as invalid.
+
+7. CPF or SRS investors who wish to appoint the Chairman of the Meeting as proxy should approach their respective CPF Agent Banks or SRS Operators to submit their votes by 5.00 p.m. on Monday, 15 April 2024 (at least seven (7) working days prior to the AGM).
+
+8. The proxy need not be a Unitholder of the Company.
+
+9. The Proxy Form must be submitted to the REIT Manager in the following manner:
+
+* (a) if submitted by post, be lodged at 10 Anson Road, #29-07 International Plaza, Singapore 079903; or
+
+* (b) if submitted electronically, be submitted via email to the REIT Manager at email address <u>sasseur-agm@complete-corp.com</u>,
+
+in either case no later than 3.00 p.m. on Monday, 22 April 2024 (being not less than seventy-two (72) hours before the time appointed for holding the AGM).
+
+A Unitholder who wishes to submit a Proxy Form by post or via email can either use the printed copy of the Proxy Form which is sent to him/her/it by post, or download a copy of the Proxy Form from Sasseur REIT’s website or the SGX-ST website, complete and sign the Proxy Form, before submitting it by post to the address provided above, or before scanning and sending it by email to the email address provided above.
+
+10. Completion and return of the Proxy Form shall not preclude a Unitholder from attending and voting at the AGM. Any appointment of a proxy or proxies shall be deemed to be revoked if a Unitholder attends the AGM in person, and in such event, the REIT Manager reserves the right to refuse to admit any person or persons appointed under the Proxy Form to the AGM.
+
+11. The Proxy Form must be executed under the hand of the appointor or of his attorney duly authorised in writing or if the appointer is a corporation, it must be executed either under its common seal or under the hand of an officer or attorney so authorised.
+
+12. Where the Proxy Form is signed on behalf of the appointor by an attorney or a duly appointed officer, the power of attorney or other authority (if any) under which it is signed or a notarially certified copy of such power of attorney must (failing previous registration) be deposited with the Proxy Form, failing which the Proxy Form may be treated as invalid.
+
+13. A corporation which is a Unitholder may by resolution of its directors or other governing body authorise such person as it thinks fit to act as its representative at the AGM and the person so authorised shall upon production of a copy of such resolution certified by a director of the corporation to be a true copy, be entitled to exercise the powers on behalf of the corporation so represented as the corporation could exercise in person if it were an individual.
+
+**PERSONAL DATA PRIVACY:**
+
+By submitting an instrument appointing a proxy(ies) and/or representative(s), the Unitholder accepts and agrees to the personal data privacy terms set out in the Notice of AGM dated 3 April 2024.
+
+**GENERAL:**
+
+The REIT Manager shall be entitled to reject a Proxy Form which is incomplete, improperly completed or illegible, or where the true intentions of the appointor are not ascertainable from the instructions of the appointor specified in the Proxy Form. In addition, in the case of Units entered in the Depository Register, the REIT Manager may reject a Proxy Form lodged if the Unitholder, being the appointor, is not shown to have Units entered against his/her/its name in the Depository Register as at seventy-two (72) hours before the time appointed for holding the AGM, as certified by CDP to the REIT Manager.
+
+<!-- PAGE 227 -->
+
+# Corporate Information
+
+## The REIT Manager
+
+Sasseur Asset Management Pte. Ltd.
+
+Company Registration Number: 201707259N
+
+## Business Office Address
+
+7 Temasek Boulevard
+#06-05 Suntec Tower One
+Singapore 038987
+
+Telephone: +65 6255 2953
+
+Fax: +65 6873 0930
+
+## Registered Office Address
+
+1 Harbourfront Avenue
+#14-07 Keppel Bay Tower
+Singapore 098632
+
+Telephone: +65 6536 5355
+
+Fax: +65 6536 1360
+
+## Board of Directors
+
+**Xu Rongcan**
+
+(Non-Executive and Non-Independent Chairman)
+
+**Yang Xue**
+
+(Non-Executive and Non-Independent Director)
+
+**Gu Qingyang**
+
+(Lead Independent Director)
+
+**Mario Boselli**
+
+(Independent Director)
+
+**Cheng Heng Tan**
+
+(Independent Director)
+
+**Wu Geng**
+
+(Independent Director)
+
+## Audit and Risk Committee
+
+**Cheng Heng Tan**
+
+(Chairman)
+
+**Gu Qingyang**
+
+(Member)
+
+**Wu Geng**
+
+(Member)
+
+## Nominating and Remuneration Committee
+
+**Gu Qingyang**
+
+(Chairman)
+
+**Xu Rongcan**
+
+(Member)
+
+**Wu Geng**
+
+(Member)
+
+## Sustainability Committee
+
+**Gu Qingyang**
+
+(Chairman)
+
+**Xu Rongcan**
+
+(Member)
+
+**Cheng Heng Tan**
+
+(Member)
+
+## Company Secretary
+
+Cho Form Po
+
+## Trustee
+
+DBS Trustee Limited
+
+12 Marina Boulevard
+
+Marina Bay Financial Centre Tower 3
+
+Singapore 018982
+
+Telephone: +65 6878 8888
+
+## Unit Registrar
+
+Boardroom Corporate & Advisory Services Pte. Ltd.
+
+1 Harbourfront Avenue
+
+#14-07 Keppel Bay Tower
+
+Singapore 098632
+
+Telephone: +65 6536 5355
+
+## Auditor
+
+Ernst & Young LLP
+
+One Raffles Quay
+
+Level 18, North Tower
+
+Singapore 048583
+
+## Audit Partner-In-Charge
+
+**Briston Loo**
+
+(Appointed with effect from financial year ended 31 December 2023)
+
+## Stock Code
+
+CRPU
+
+<!-- PAGE 228 -->
+
+HZ SASSEUR REIT logo
+
+**SASSEUR ASSET MANAGEMENT PTE. LTD.**
+
+As Manager of Sasseur REIT
+Company Registration No.: 201707259N
+
+7 Temasek Boulevard,
+#06-05, Suntec Tower One,
+Singapore 038987
+
+**Tel:** +65 6255 2953
+**Fax:** +65 6873 0930
+www.sasseurreit.com
+
+Facebook logo facebook.com/SasseurREIT
+
+LinkedIn logo linkedin.com/company/sasseurreit
+
+YouTube logo youtube.com/@sasseur_reit
+
+Telegram logo t.me/s/sasseurreit
+
+FSC MIX Paper logo
