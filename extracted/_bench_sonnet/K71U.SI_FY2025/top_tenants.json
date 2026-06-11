@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 1,
+    "tenant_name": "DBS Bank",
+    "trade_sector": "Banking, insurance and financial services",
+    "gri_percentage": 8.6,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 6.7,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 2,
+    "tenant_name": "Minister for Finance – State of Victoria",
+    "trade_sector": "Government agency",
+    "gri_percentage": 4.7,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 7.3,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 3,
+    "tenant_name": "Minister for Works – Government of Western Australia",
+    "trade_sector": "Government agency",
+    "gri_percentage": 2.8,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 3.1,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 4,
+    "tenant_name": "The Executive Centre",
+    "trade_sector": "Real estate and property services",
+    "gri_percentage": 2.3,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 1.7,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 5,
+    "tenant_name": "Keppel",
+    "trade_sector": "Banking, insurance and financial services",
+    "gri_percentage": 2.2,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 2.9,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 6,
+    "tenant_name": "Ernst & Young",
+    "trade_sector": "Accounting and consultancy services",
+    "gri_percentage": 2.1,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 2.4,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 7,
+    "tenant_name": "TikTok",
+    "trade_sector": "TMT",
+    "gri_percentage": 1.9,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 1.7,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 8,
+    "tenant_name": "Deutsche Bank",
+    "trade_sector": "Banking, insurance and financial services",
+    "gri_percentage": 1.8,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 1.4,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 9,
+    "tenant_name": "Standard Chartered Bank",
+    "trade_sector": "Banking, insurance and financial services",
+    "gri_percentage": 1.6,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 1.4,
+    "source_page": 43
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "rank": 10,
+    "tenant_name": "Australian Taxation Office",
+    "trade_sector": "Government agency",
+    "gri_percentage": 1.5,
+    "pct_basis": "committed_gross_rent",
+    "pct_nla": 1.3,
+    "source_page": 43
+  }
+]

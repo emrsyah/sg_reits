@@ -1,0 +1,59 @@
+{
+  "symbol": "CRPU.SI",
+  "fiscal_year": 2023,
+  "portfolio_value": 1580190000,
+  "portfolio_value_rmb": 8497000000,
+  "properties_location": "China",
+  "gross_revenue": 126726000,
+  "gross_revenue_excl_sl": 124914000,
+  "net_property_income": null,
+  "net_distributable_income": 83350000,
+  "dpu": 6.249,
+  "currency": "SGD",
+  "fx_rate_rmb_per_sgd": 5.3772,
+  "distribution_record": [
+    {
+      "period": "1 Jan 2023 to 31 Mar 2023",
+      "dpu": 1.849,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Apr 2023 to 30 Jun 2023",
+      "dpu": 1.473,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jul 2023 to 30 Sep 2023",
+      "dpu": 1.512,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Oct 2023 to 31 Dec 2023",
+      "dpu": 1.415,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 6617,
+  "source_page": {
+    "portfolio_value": 23,
+    "gross_revenue": 163,
+    "net_distributable_income": 164,
+    "dpu": 3,
+    "number_of_unitholders": 215,
+    "distribution_record": 164,
+    "fx_rate": 24
+  },
+  "notes": [
+    "gross_revenue = EMA rental income (audited, including straight-line adjustments): $126,726,000 (p163). Excluding straight-line adjustments = $124,914,000 (p163, Note 13).",
+    "net_property_income is structurally null for EMA model — all operating expenses borne by Entrusted Manager; see profile.json.",
+    "net_distributable_income = Income available for distribution before retention = $83,350,000. Amount actually distributed = $77,370,000 after $5,980,000 retention.",
+    "dpu = 6.249 cents per unit = 1.849+1.473+1.512+1.415 cents across 4 quarters (reconciles per audited Distribution Statement p164).",
+    "portfolio_value = $1,580.2 million = audited Statement of Portfolio value at 31 Dec 2023 (p167). Balance sheet Investment Properties line = same $1,580,190,000 (all four properties consolidated 100%).",
+    "number_of_unitholders = 6,617 as at date of Statistics (post-FYE; as-at date inferred from Statistics of Unitholdings table which shows 1,242,647,853 units = units in issue at 31 Dec 2023).",
+    "fx_rate: Closing S$:RMB = 5.3772 as at 31 December 2023 (p24 footnote 1)."
+  ]
+}

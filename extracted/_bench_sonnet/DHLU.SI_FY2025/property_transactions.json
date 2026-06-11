@@ -1,0 +1,50 @@
+[
+  {
+    "property_name": "DPL Gunma Fujioka",
+    "transaction_type": "acquisition",
+    "transaction_year": 2025,
+    "transaction_date": "2025-03-24",
+    "price": 3990000000,
+    "currency": "JPY",
+    "stake_pct": 100.0,
+    "counterparty": "Mitsubishi HC Capital Estate Plus Inc.",
+    "source_page": 51,
+    "notes": "Purchase consideration JPY 3,990.0 million (approx. S$35.4 million per Note 9 p182). Acquisition financed by borrowings and internal cash resources. Valuation at acquisition date per operational review: JPY 5,210.0 million (23.4% discount to valuation). Valuation as at 31 Dec 2025: JPY 5,230 million. Freehold property in Greater Tokyo (Fujioka-shi, Gunma). Built January 2022."
+  },
+  {
+    "property_name": "D Project Tan Duc 2",
+    "transaction_type": "acquisition",
+    "transaction_year": 2024,
+    "transaction_date": "2024-07-05",
+    "price": 483000000000,
+    "currency": "VND",
+    "stake_pct": 100.0,
+    "counterparty": null,
+    "source_page": 182,
+    "notes": "Agreed property value VND 483.0 billion (VND 483,000 million) = approximately S$25.6 million per Note 9 p182. Acquired through purchase of entire charter capital of DH Logistics Management Vietnam Co., Ltd. (100% equity acquisition). Vietnam cold storage logistics facility in Long An Province (now Tay Ninh Province)."
+  },
+  {
+    "property_name": "DPL Ibaraki Yuki",
+    "transaction_type": "acquisition",
+    "transaction_year": 2024,
+    "transaction_date": "2024-03-15",
+    "price": 2640000000,
+    "currency": "JPY",
+    "stake_pct": 100.0,
+    "counterparty": "Daiwa House Industry Co., Ltd.",
+    "source_page": 182,
+    "notes": "Purchase consideration JPY 2,640.0 million (approximately S$23.8 million per Note 9 p182). Agreement entered 31 January 2024, completion 15 March 2024. Freehold property in Yuki, Ibaraki (Greater Tokyo). Trust Beneficial Interest Sale and Purchase Agreement via DH-CRUX Japan TMK. Purchase consideration matches factsheet p34."
+  },
+  {
+    "property_name": "DPL Shinfuji",
+    "transaction_type": "acquisition",
+    "transaction_year": 2024,
+    "transaction_date": "2024-03-15",
+    "price": 3194000000,
+    "currency": "JPY",
+    "stake_pct": 100.0,
+    "counterparty": null,
+    "source_page": 39,
+    "notes": "Date of acquisition per Statement of Portfolio p164: 15 March 2024. Purchase consideration JPY 3,194 million per factsheet p39. Greater Nagoya region (Fuji-shi, Shizuoka). Note: Statement of Portfolio places DPL Shinfuji in 'Greater Tokyo' — this is a parser error; actual region is Greater Nagoya per portfolio overview p24 and factsheet p39."
+  }
+]

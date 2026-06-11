@@ -1,0 +1,219 @@
+{
+  "A": {
+    "1_total_gross_revenue": {
+      "v": 1619174000,
+      "p": 106,
+      "note": "From audited Statement of Total Return (Note 21 breakdown: Gross Rental Income 1,514,171k + Car park income 40,243k + Other income 64,760k = 1,619,174k)"
+    },
+    "2_total_net_property_income": {
+      "v": 1189749000,
+      "p": 106,
+      "note": "From audited Statement of Total Return"
+    },
+    "3_distributable_income": {
+      "v": 860900000,
+      "p": 4,
+      "note": "From FY2025 Highlights (S$860.9m)"
+    },
+    "4_dpu_cents": {
+      "v": 11.58,
+      "p": 4,
+      "note": "From FY2025 Highlights: 11.58 cents per unit"
+    },
+    "5_number_of_unitholders": {
+      "v": null,
+      "p": null,
+      "note": "Not disclosed in the annual report"
+    },
+    "6_portfolio_investment_property_value": {
+      "v": 27400000000,
+      "p": 4,
+      "note": "Total property value of S$27.4 billion as at 31 December 2025 (mentioned in highlights and portfolio valuation section)"
+    }
+  },
+  "B": {
+    "Bedok_Mall": {
+      "FY2025_gross_revenue_SGD": {
+        "v": 58900000,
+        "p": 39
+      },
+      "latest_market_valuation_SGD": {
+        "v": 827000000,
+        "p": 39,
+        "note": "As at 31 December 2025"
+      },
+      "committed_occupancy_percent": {
+        "v": 99.7,
+        "p": 39
+      },
+      "land_tenure": {
+        "v": "Freehold",
+        "p": 39,
+        "note": "Property Information section shows freehold tenure"
+      }
+    },
+    "CapitaSpring": {
+      "FY2025_gross_revenue_SGD": {
+        "v": 72700000,
+        "p": 52,
+        "note": "100% basis; CICT acquired remaining 55% on 26 August 2025"
+      },
+      "latest_market_valuation_SGD": {
+        "v": 1900000000,
+        "p": 52,
+        "note": "100% basis as at 31 December 2025; Agreed property value of S$1.9 billion for commercial component"
+      },
+      "committed_occupancy_percent": {
+        "v": 100,
+        "p": 52
+      },
+      "land_tenure": {
+        "v": "Leasehold tenure of 99 years with effect from 1 February 1982",
+        "p": 52
+      }
+    },
+    "Gallileo": {
+      "FY2025_gross_revenue_SGD": {
+        "v": 6800000,
+        "p": 56,
+        "note": "100% basis; progressive handover started 4Q 2025"
+      },
+      "latest_market_valuation_SGD": {
+        "v": 547600000,
+        "p": 56,
+        "note": "100% basis as at 31 December 2025 (EUR363.0m converted at EUR1=S$1.509); CICT holds 94.9% interest"
+      },
+      "committed_occupancy_percent": {
+        "v": 97.7,
+        "p": 56
+      },
+      "land_tenure": {
+        "v": "Freehold",
+        "p": 56
+      }
+    },
+    "101_Miller_Street": {
+      "FY2025_gross_revenue_SGD": {
+        "v": 22300000,
+        "p": 64,
+        "note": "50% interest basis"
+      },
+      "latest_market_valuation_SGD": {
+        "v": 271100000,
+        "p": 64,
+        "note": "50% interest as at 31 December 2025 (A$319.5m x 50% converted at A$1=S$0.848)"
+      },
+      "committed_occupancy_percent": {
+        "v": 92.8,
+        "p": 64
+      },
+      "land_tenure": {
+        "v": "Freehold",
+        "p": 64
+      }
+    },
+    "IMM_Building": {
+      "FY2025_gross_revenue_SGD": {
+        "v": 95500000,
+        "p": 42
+      },
+      "latest_market_valuation_SGD": {
+        "v": 790000000,
+        "p": 42,
+        "note": "As at 31 December 2025; uplifted post-AEI completion in 3Q 2025"
+      },
+      "committed_occupancy_percent": {
+        "v": 98.8,
+        "p": 42,
+        "note": "Total occupancy; Retail 98.9%, Warehouse 98.6%"
+      },
+      "land_tenure": {
+        "v": "Leasehold tenure of 99 years with effect from 21 May 2008",
+        "p": 42
+      }
+    }
+  },
+  "C": {
+    "top_3_tenants": [
+      {
+        "rank": 1,
+        "name": "RC Hotels (Pte) Ltd",
+        "percent_contribution": 4.5,
+        "basis_wording": "% of Total GRI for December 2025, based on CICT's proportionate interests"
+      },
+      {
+        "rank": 2,
+        "name": "GIC Private Limited",
+        "percent_contribution": 1.6,
+        "basis_wording": "% of Total GRI for December 2025, based on CICT's proportionate interests"
+      },
+      {
+        "rank": 3,
+        "name": "The Work Project Group",
+        "percent_contribution": 1.6,
+        "basis_wording": "% of Total GRI for December 2025, based on CICT's proportionate interests"
+      }
+    ],
+    "page": 32
+  },
+  "D": {
+    "gross_revenue_line_items": [
+      {
+        "label": "Gross rental income",
+        "amount_SGD": 1514171000,
+        "page": 159,
+        "note": "From Note 21 (in $'000)"
+      },
+      {
+        "label": "Car park income",
+        "amount_SGD": 40243000,
+        "page": 159,
+        "note": "From Note 21 (in $'000)"
+      },
+      {
+        "label": "Other income",
+        "amount_SGD": 64760000,
+        "page": 159,
+        "note": "From Note 21 (in $'000)"
+      }
+    ],
+    "property_expense_line_items": [
+      {
+        "label": "Property tax",
+        "amount_SGD": 141300000,
+        "page": 160,
+        "note": "From Note 22 Property Operating Expenses (in $'000)"
+      },
+      {
+        "label": "Utilities",
+        "amount_SGD": 65525000,
+        "page": 160,
+        "note": "From Note 22 Property Operating Expenses (in $'000)"
+      },
+      {
+        "label": "Maintenance",
+        "amount_SGD": 94768000,
+        "page": 160,
+        "note": "From Note 22 Property Operating Expenses (in $'000)"
+      }
+    ]
+  },
+  "E": {
+    "CapitaSpring_FY2025_acquisition": {
+      "transaction_type": "Acquisition of remaining 55% interest in Commercial Component",
+      "stake_percent": 55,
+      "price_SGD": 1045000000,
+      "completion_date": "26 August 2025",
+      "page": 4,
+      "note": "Acquired remaining 55% interest in CapitaSpring's Commercial Component for S$1,045.0 million on 26 August 2025, funded via S$600 million private placement"
+    },
+    "CapitaSpring_FY2025_divestment": {
+      "transaction_type": "Divestment of 45% interest in Serviced Residence Component",
+      "stake_percent": 45,
+      "price_SGD": 126000000,
+      "completion_date": "30 May 2025",
+      "page": 4,
+      "note": "Divested 45% interest in serviced residence component for S$126.0 million on 30 May 2025"
+    }
+  }
+}

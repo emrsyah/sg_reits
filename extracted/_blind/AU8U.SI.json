@@ -1,0 +1,299 @@
+{
+  "ticker": "AU8U.SI",
+  "entity": "CapitaLand China Trust",
+  "fiscal_year": "FY2025",
+  "A": {
+    "gross_revenue": {
+      "v": 303720,
+      "v_unit": "SGD_thousands",
+      "v_rmb": 1670000,
+      "v_rmb_unit": "RMB_thousands",
+      "p": 7,
+      "note": "From Financial Highlights table (p.7) and confirmed in Consolidated Statement of Total Return (p.95) and Financial Review gross revenue breakdown (p.26). SGD 303.7m = S$303,720k; RMB 1,670.0m = RMB 1,670,000k."
+    },
+    "net_property_income": {
+      "v": 200895,
+      "v_unit": "SGD_thousands",
+      "v_rmb": 1104635,
+      "v_rmb_unit": "RMB_thousands",
+      "p": 7,
+      "note": "From Financial Highlights table (p.7) and confirmed in NPI breakdown (p.27) and Consolidated Statement of Total Return (p.95). SGD 200.9m = S$200,895k; RMB 1,104.6m = RMB 1,104,635k."
+    },
+    "distributable_income": {
+      "v": 83900,
+      "v_unit": "SGD_thousands",
+      "v_rmb": null,
+      "p": 7,
+      "note": "S$83.9 million from Financial Highlights table (p.7) and confirmed in Chairman & CEO message ('distributable income totalled S$83.9 million'). RMB equivalent not separately disclosed. Income for the year available for distribution per Distribution Statement (p.96) was S$78,226k; the S$83.9m figure includes distribution top-up of S$5,700k."
+    },
+    "dpu_cents": {
+      "v": 4.82,
+      "p": 7,
+      "note": "From Financial Highlights table (p.7) and confirmed in Distribution Statement (p.96). Comprises 2.49 cents (1H 2025) + 2.33 cents (2H 2025). Note: 2H 2025 DPU not shown separately but totals 4.82 cents for FY2025."
+    },
+    "num_unitholders": {
+      "v": 18075,
+      "p": 172,
+      "note": "From Statistics of Unitholdings as at 24 February 2026. Total unitholders across all size bands."
+    },
+    "portfolio_value": {
+      "v": 4204400,
+      "v_unit": "SGD_thousands",
+      "v_rmb": 22981000,
+      "v_rmb_unit": "RMB_thousands",
+      "p": 28,
+      "note": "From Portfolio Valuation table (p.28). Total Valuation excluding CapitaMall Yuhuating (divested 31 Oct 2025): RMB 22,981.0m / SGD 4,204.4m. Financial Highlights table (p.7) also shows SGD 4,204.4m as 'Portfolio Property Valuation (100% basis)'."
+    },
+    "sgd_rmb_exchange_rate": {
+      "v": 5.499,
+      "p": 33,
+      "note": "Average exchange rate (SGD/RMB) for FY 2025. Stated as: '1 Based on the average exchange rate (SGD/RMB) of 5.499 for FY 2025.' (footnote on page 33). This means 1 SGD = 5.499 RMB."
+    }
+  },
+  "B": {
+    "Rock_Square": {
+      "gross_revenue": {
+        "v": 42723,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 234974,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 26,
+        "note": "Based on 100% stake. From Gross Revenue by Property table (p.26)."
+      },
+      "npi": {
+        "v": 29849,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 164169,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 27,
+        "note": "Based on 100% stake. From NPI by Property table (p.27). Confirmed in portfolio detail page (NPI = 164.2 RMB million, rounded)."
+      },
+      "valuation": {
+        "v": 623900,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 3410000,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 28,
+        "note": "Valuation 2025. From Portfolio Valuation table (p.28). RMB 3,410.0m / SGD 623.9m."
+      },
+      "occupancy_pct": {
+        "v": 99.0,
+        "p": 43,
+        "note": "Committed Occupancy Rate as at 31 December 2025. From Rock Square Property Information table (p.43), confirmed in retail occupancy table (p.35)."
+      },
+      "land_tenure": {
+        "v": "17 October 2045",
+        "p": 43,
+        "note": "Land Use Right Expiry from Rock Square Property Information table (p.43)."
+      }
+    },
+    "CapitaMall_Xizhimen": {
+      "gross_revenue": {
+        "v": 53772,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 295741,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 26,
+        "note": "Based on 100% stake. From Gross Revenue by Property table (p.26)."
+      },
+      "npi": {
+        "v": 37214,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 204673,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 27,
+        "note": "Based on 100% stake. From NPI by Property table (p.27). Portfolio detail page shows NPI = 204.7 RMB million (rounded)."
+      },
+      "valuation": {
+        "v": 684400,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 3741000,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 28,
+        "note": "Valuation 2025. From Portfolio Valuation table (p.28). RMB 3,741.0m / SGD 684.4m."
+      },
+      "occupancy_pct": {
+        "v": 99.1,
+        "p": 42,
+        "note": "Committed Occupancy Rate as at 31 December 2025. From CapitaMall Xizhimen Property Information table (p.42), confirmed in retail occupancy table."
+      },
+      "land_tenure": {
+        "v": "23 August 2044 / 23 August 2054",
+        "p": 42,
+        "note": "Land Use Right Expiry: two dates disclosed (23 August 2044 and 23 August 2054) corresponding to Phase 1 and Phase 2. From Property Information table (p.42)."
+      }
+    },
+    "Ascendas_Xinsu_Portfolio": {
+      "gross_revenue": {
+        "v": 40748,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 224112,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 26,
+        "note": "Based on 100% stake. From Gross Revenue by Property table (p.26). CLCT effective interest is 51%."
+      },
+      "npi": {
+        "v": 30127,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 165700,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 27,
+        "note": "Based on 100% stake. From NPI by Property table (p.27). Portfolio detail page shows NPI = 165.7 RMB million. CLCT effective interest is 51%."
+      },
+      "valuation": {
+        "v": 428100,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 2340000,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 28,
+        "note": "Valuation 2025. From Portfolio Valuation table (p.28). RMB 2,340.0m / SGD 428.1m. Based on 100% basis."
+      },
+      "occupancy_pct": {
+        "v": 95.3,
+        "p": 51,
+        "note": "Committed Occupancy Rate as at 31 December 2025. From Ascendas Xinsu Portfolio Property Information table (p.51)."
+      },
+      "land_tenure": {
+        "v": "31 December 2046 to 30 May 2057",
+        "p": 51,
+        "note": "Land Use Right Expiry: range across multiple sub-properties. From Property Information table (p.51)."
+      }
+    },
+    "CapitaMall_Grand_Canyon": {
+      "gross_revenue": {
+        "v": 18376,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 101068,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 26,
+        "note": "Based on 100% stake. From Gross Revenue by Property table (p.26)."
+      },
+      "npi": {
+        "v": 11127,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 61199,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 27,
+        "note": "Based on 100% stake. From NPI by Property table (p.27). Portfolio detail page shows NPI = 61.2 RMB million (rounded)."
+      },
+      "valuation": {
+        "v": 325700,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 1780000,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 28,
+        "note": "Valuation 2025. From Portfolio Valuation table (p.28). RMB 1,780.0m / SGD 325.7m."
+      },
+      "occupancy_pct": {
+        "v": 96.9,
+        "p": 47,
+        "note": "Committed Occupancy Rate as at 31 December 2025. From CapitaMall Grand Canyon Property Information table (p.47), confirmed in retail occupancy table."
+      },
+      "land_tenure": {
+        "v": "29 August 2044 / 29 August 2054",
+        "p": 47,
+        "note": "Land Use Right Expiry: two dates disclosed (29 August 2044 and 29 August 2054). From Property Information table (p.47)."
+      }
+    },
+    "Shanghai_Fengxian_Logistics_Park": {
+      "gross_revenue": {
+        "v": 1228,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 6755,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 26,
+        "note": "Based on 100% stake. From Gross Revenue by Property table (p.26). Prior year was only RMB 1,212k (N.M. change) due to new tenant commencing in FY2025."
+      },
+      "npi": {
+        "v": 526,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 2893,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 27,
+        "note": "Based on 100% stake. From NPI by Property table (p.27). Portfolio detail page shows NPI = 2.9 RMB million. FY2024 NPI was negative (RMB -5,463k) due to vacancy."
+      },
+      "valuation": {
+        "v": 80100,
+        "v_unit": "SGD_thousands",
+        "v_rmb": 438000,
+        "v_rmb_unit": "RMB_thousands",
+        "p": 28,
+        "note": "Valuation 2025. From Portfolio Valuation table (p.28). RMB 438.0m / SGD 80.1m."
+      },
+      "occupancy_pct": {
+        "v": 100.0,
+        "p": 56,
+        "note": "Committed Occupancy Rate as at 31 December 2025. From Shanghai Fengxian Logistics Park Property Information table (p.56)."
+      },
+      "land_tenure": {
+        "v": "20 July 2059",
+        "p": 56,
+        "note": "Land Use Right Expiry from Property Information table (p.56)."
+      }
+    }
+  },
+  "C": {
+    "basis_wording": {
+      "v": "Based on percentage of Total Gross Rental Income in the month of December 2025",
+      "p": 32,
+      "note": "Exact table header wording: 'Top 10 tenants (Based on percentage of Total Gross Rental Income in the month of December 2025)'. Column header: '% of Total Gross Rental Incomeii,iii'. Footnote ii: 'Includes both gross rental income and the gross turnover rental income (GTO) components.'"
+    },
+    "tenant_1": {
+      "name": "JD.com Group of Companies",
+      "pct": 1.8,
+      "p": 32
+    },
+    "tenant_2": {
+      "name": "POP MART Holding Limited",
+      "pct": 1.0,
+      "p": 32
+    },
+    "tenant_3": {
+      "name": "Bestseller Group of Companies",
+      "pct": 1.0,
+      "p": 32
+    }
+  },
+  "D": {
+    "vat_business_tax": {
+      "label": "Business tax",
+      "v": -1598,
+      "v_unit": "SGD_thousands",
+      "p": 95,
+      "note": "From Consolidated Statement of Total Return (p.95). FY2025: S$(1,598)k. Labelled 'Business tax' in the income statement. Note: there is also a separate 'Property related tax' line of S$(27,577)k."
+    },
+    "expense_line_2": {
+      "label": "Property related tax",
+      "v": -27577,
+      "v_unit": "SGD_thousands",
+      "p": 95,
+      "note": "From Consolidated Statement of Total Return (p.95). FY2025: S$(27,577)k."
+    },
+    "expense_line_3": {
+      "label": "Property management fees and reimbursables",
+      "v": -18220,
+      "v_unit": "SGD_thousands",
+      "p": 95,
+      "note": "From Consolidated Statement of Total Return (p.95). FY2025: S$(18,220)k."
+    },
+    "expense_line_4": {
+      "label": "Other property operating expenses",
+      "v": -55430,
+      "v_unit": "SGD_thousands",
+      "p": 95,
+      "note": "From Consolidated Statement of Total Return (p.95). FY2025: S$(55,430)k. Note 19 referenced."
+    }
+  },
+  "E": {
+    "rock_square_acquisition": {
+      "v": "51% stake acquired on 31 January 2018; remaining 49% stake acquired on 30 December 2020. The first 51% stake was purchased at RMB 3,340.7 million, and the subsequent 49% stake was purchased at RMB 3,400.0 million (purchase price represented on 100% basis). The property information table shows Purchase Price as RMB 3,400.0 million (100% basis).",
+      "p": 43,
+      "note": "From Rock Square Property Information table and footnote (p.43)."
+    },
+    "yuhuating_divestment": {
+      "v": "Divestment of CapitaMall Yuhuating completed on 31 October 2025. Sale price: RMB 813.8 million. Sold 100% equity interest in the SPV holding CapitaMall Yuhuating to Changsha 2023 Consulting & Management Co., Ltd. through Changsha Kaiting Consulting & Management Co., Ltd. (each an indirect wholly owned subsidiary of CapitaLand Mall Asia Limited). This was a sale to CapitaLand Commercial C-REIT (CLCR), listed on Shanghai Stock Exchange on 29 September 2025. Sold at ~4% above 2024 book value; exit NPI yield of 6.2% based on FY2024 NPI of RMB50.7m. Independent valuations: Colliers at RMB 748.0m, CBRE at RMB 780.0m. Loss on disposal (S$11,988k) mainly due to realisation of foreign exchange differences upon divestment, partially offset by premium over 2024 valuation.",
+      "p": 36,
+      "note": "From Operations Review - Establishment of C-REIT and divestment section (p.36) and financial statement footnote (p.95)."
+    }
+  }
+}

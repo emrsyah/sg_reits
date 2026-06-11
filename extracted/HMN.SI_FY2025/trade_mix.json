@@ -1,0 +1,232 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – France",
+    "pct": 8,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country. Source: p.26 pie/bar chart. Master lease properties in France on fixed/variable rent terms.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – Japan",
+    "pct": 7,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – Germany",
+    "pct": 4,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – Singapore",
+    "pct": 3,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – South Korea",
+    "pct": 3,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Master Leases – Australia",
+    "pct": 2,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit by contract type and country.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – UK",
+    "pct": 12,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – Singapore",
+    "pct": 5,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – Australia",
+    "pct": 2,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – Ireland",
+    "pct": 2,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – Belgium",
+    "pct": 1,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "MCMGI – Spain",
+    "pct": 1,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. MCMGI = Management Contracts with Minimum Guaranteed Income.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Living Sector) – Student Accommodation USA",
+    "pct": 9,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Living sector management contracts (no minimum guarantee) — student accommodation properties in USA (Paloma, Seven07, Standard at Columbia, etc.).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Living Sector) – Rental Housing Japan",
+    "pct": 5,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Living sector management contracts (no minimum guarantee) — rental housing properties in Japan.",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – USA",
+    "pct": 14,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Australia",
+    "pct": 5,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Japan",
+    "pct": 5,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Vietnam",
+    "pct": 5,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Indonesia",
+    "pct": 2,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Philippines",
+    "pct": 2,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Singapore",
+    "pct": 1,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – China",
+    "pct": 1,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee).",
+    "is_derived": false,
+    "source_page": 26
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "category": "Management Contracts (Serviced Residences/Hotels) – Malaysia",
+    "pct": 1,
+    "pct_basis": "gross_profit",
+    "pct_basis_note": "% of Stapled Group FY2025 gross profit. Serviced residences and hotel management contracts (no minimum guarantee). Malaysia < 1% per report; recorded as 1 (rounded).",
+    "is_derived": false,
+    "source_page": 26
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "symbol": "DHLU.SI",
+  "fiscal_year": "FY2025",
+  "portfolio_value": 835200000,
+  "properties_location": ["Japan", "Vietnam"],
+  "gross_revenue": 57794000,
+  "net_property_income": 44199000,
+  "net_distributable_income": 30378000,
+  "dpu": 4.33,
+  "distribution_record": [
+    {"period": "1H FY2025 (six months ended 30 June 2025)", "dpu": null, "ex_date": null, "pay_date": null},
+    {"period": "2H FY2025 (six months ended 31 December 2025)", "dpu": null, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 4865,
+  "currency": "SGD",
+  "source_page": {
+    "portfolio_value": 51,
+    "gross_revenue": 53,
+    "net_property_income": 53,
+    "net_distributable_income": 53,
+    "dpu": 53,
+    "number_of_unitholders": 206
+  },
+  "note": "portfolio_value S$835.2m = headlined overall portfolio valuation of the 19 properties (incl. JPY-denominated Japan portfolio JPY98,759m and Vietnam VND524.2bn translated to SGD), as at 31 Dec 2025 (p51-52). No JV/associate interests; 100% wholly-owned. B/S investment-properties figure differs: S$835,157k investment properties value at end of year, S$984,117k carrying value incl. right-of-use & ARO assets (p182). GR/NPI/distributable income/DPU from Summary of Financial Results (p53), tie to audited Statement of Total Return (GR 57,794; NPI 44,199; p162) and Distribution Statement (income available for distribution 30,378; DPU 4.33 cents; p163). number_of_unitholders 4,865 as-at 12 Mar 2026 (post-FYE), from Statistics of Unitholdings (p206). Distribution paid semi-annually; ex/pay dates not disclosed in AR. DHLT pays distributions for 1H and 2H each year (distribution statement shows 31 Dec 2024 and 30 Jun 2025 payments during FY2025)."
+}

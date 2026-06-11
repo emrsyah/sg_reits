@@ -1,0 +1,36 @@
+{
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "portfolio_value": 4204374000,
+  "portfolio_value_rmb": 22981000000,
+  "properties_location": "China - 17 properties across 11 cities (Beijing, Guangzhou, Chengdu, Hohhot, Harbin, Suzhou, Hangzhou, Xi'an, Shanghai, Wuhan, Kunshan)",
+  "gross_revenue": 303720000,
+  "gross_revenue_rmb": 1670000000,
+  "net_property_income": 200895000,
+  "net_property_income_rmb": 1104635000,
+  "net_distributable_income": 83900000,
+  "dpu": 4.82,
+  "distribution_record": [
+    {
+      "period": "1 January 2025 to 30 June 2025",
+      "dpu_cents": 2.49,
+      "note": "Distribution of 2.49 cents per Unit paid during the year (Consolidated Distribution Statement)",
+      "source_page": 96
+    },
+    {
+      "period": "1 July 2025 to 31 December 2025",
+      "dpu_cents": 2.33,
+      "note": "Declared by the Manager on 5 February 2026 (subsequent event); payable March 2026",
+      "source_page": 171
+    }
+  ],
+  "number_of_unitholders": 18075,
+  "currency": "SGD",
+  "source_page": 95,
+  "_field_notes": {
+    "portfolio_value": "Audited Consolidated Portfolio Statement total 'Investment properties, at valuation' S$4,204,374k / RMB22,981,000k as at 31 Dec 2025 (p.102); Financial Highlights p.7 rounds to S$4,204.4m",
+    "net_distributable_income": "Disclosed as 'Distributable Income S$83.9 million' (p.7, p.12). Audited Distribution Statement (p.96) shows income for the year available for distribution S$78,226k plus distribution top-up S$5,700k (drawn from past divestment gains, funded through debt)",
+    "number_of_unitholders": "Total no. of unitholders 18,075 as at 24 February 2026 (Statistics of Unitholdings, p.174), not as at FY end",
+    "gross_revenue_npi": "Audited Consolidated Statement of Total Return p.95 (SGD); RMB figures from Financial Review p.26-27"
+  }
+}

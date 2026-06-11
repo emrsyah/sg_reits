@@ -1,0 +1,42 @@
+{
+  "symbol": "J69U.SI",
+  "fiscal_year": 2025,
+  "portfolio_value": 6449000000,
+  "properties_location": "Singapore",
+  "gross_revenue": 389603000,
+  "net_property_income": 277980000,
+  "net_distributable_income": 233180000,
+  "dpu": 12.113,
+  "distribution_record": [
+    {
+      "period": "1H FY25 (1 October 2024 - 31 March 2025)",
+      "dpu": 6.054,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 April 2025 - 3 April 2025 (advanced distribution, pre-EFR)",
+      "dpu": 0.096,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "4 April 2025 - 30 September 2025",
+      "dpu": 5.963,
+      "ex_date": null,
+      "pay_date": "2025-11-28"
+    }
+  ],
+  "number_of_unitholders": 17713,
+  "currency": "SGD",
+  "source_page": {
+    "portfolio_value": 37,
+    "properties_location": 33,
+    "gross_revenue": 34,
+    "net_property_income": 34,
+    "net_distributable_income": 147,
+    "dpu": 36,
+    "distribution_record": 147,
+    "number_of_unitholders": 216
+  }
+}

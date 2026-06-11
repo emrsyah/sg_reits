@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "revenue",
+    "component": "base_rental",
+    "amount": 259399000,
+    "currency": "SGD",
+    "label_raw": "Gross rent",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "revenue",
+    "component": "car_park",
+    "amount": 9604000,
+    "currency": "SGD",
+    "label_raw": "Car park income",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "revenue",
+    "component": "other",
+    "amount": 5475000,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 20431000,
+    "currency": "SGD",
+    "label_raw": "Property tax",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "property_mgmt_fee",
+    "amount": 6704000,
+    "currency": "SGD",
+    "label_raw": "Property management fee",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "mgmt_reimbursement",
+    "amount": 1994000,
+    "currency": "SGD",
+    "label_raw": "Property management reimbursements",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "marketing",
+    "amount": 2955000,
+    "currency": "SGD",
+    "label_raw": "Marketing expenses",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "utilities",
+    "amount": 5403000,
+    "currency": "SGD",
+    "label_raw": "Utilities",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "maintenance",
+    "amount": 17237000,
+    "currency": "SGD",
+    "label_raw": "Repair and maintenance",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "expense",
+    "component": "other",
+    "amount": 3849000,
+    "currency": "SGD",
+    "label_raw": "Other property expenses",
+    "source_page": 163
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "adjustment",
+    "component": "rental_support",
+    "amount": 2360000,
+    "currency": "SGD",
+    "label_raw": "Rental support",
+    "source_page": 63
+  },
+  {
+    "symbol": "K71U.SI",
+    "fiscal_year": "FY2025",
+    "statement": "adjustment",
+    "component": "straight_line_rent",
+    "amount": -8421000,
+    "currency": "SGD",
+    "label_raw": "– Effects of recognising rental income on a straight-line basis over the lease terms",
+    "source_page": 121
+  }
+]

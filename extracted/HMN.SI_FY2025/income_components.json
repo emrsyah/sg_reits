@@ -1,0 +1,145 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "revenue",
+    "component": "base_rental",
+    "amount": 653809000,
+    "currency": "SGD",
+    "label_raw": "Gross rental income",
+    "label_raw_note": "Note 22, p.213. Stapled Group FY2025. Includes rent from master leases, management contracts with and without minimum guarantee, and short-stay rentals. Figure in $'000 = 653,809 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "revenue",
+    "component": "hospitality",
+    "amount": 23129000,
+    "currency": "SGD",
+    "label_raw": "Hospitality income",
+    "label_raw_note": "Note 22, p.213. Stapled Group FY2025. Figure in $'000 = 23,129 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "revenue",
+    "component": "other",
+    "amount": 154672000,
+    "currency": "SGD",
+    "label_raw": "Hotel revenue",
+    "label_raw_note": "Note 22, p.213. Stapled Group FY2025. Hotel revenue from BT-held hotel properties. Figure in $'000 = 154,672 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "adjustment",
+    "component": "straight_line_rent",
+    "amount": 425000,
+    "currency": "SGD",
+    "label_raw": "Amortisation of deferred income",
+    "label_raw_note": "Note 22, p.213. Stapled Group FY2025. Figure in $'000 = 425 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "revenue",
+    "component": "car_park",
+    "amount": 5549000,
+    "currency": "SGD",
+    "label_raw": "Car park income",
+    "label_raw_note": "Note 22, p.213. Stapled Group FY2025. Figure in $'000 = 5,549 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "maintenance",
+    "amount": 79411000,
+    "currency": "SGD",
+    "label_raw": "Operations and maintenance expenses",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 79,411 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "staff",
+    "amount": 133695000,
+    "currency": "SGD",
+    "label_raw": "Staff costs",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 133,695 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "property_mgmt_fee",
+    "amount": 32305000,
+    "currency": "SGD",
+    "label_raw": "Serviced residence management fees",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 32,305 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 44230000,
+    "currency": "SGD",
+    "label_raw": "Property tax",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 44,230 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "depreciation_ffe",
+    "amount": 16449000,
+    "currency": "SGD",
+    "label_raw": "Depreciation of PPE",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 16,449 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "marketing",
+    "amount": 60023000,
+    "currency": "SGD",
+    "label_raw": "Marketing and selling expenses",
+    "label_raw_note": "Note 23, p.213. Stapled Group FY2025. Figure in $'000 = 60,023 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "other",
+    "amount": 53540000,
+    "currency": "SGD",
+    "label_raw": "Administrative and general expenses",
+    "label_raw_note": "Note 23, p.213-214. Stapled Group FY2025. Figure in $'000 = 53,540 × 1000.",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "fiscal_year": 2025,
+    "statement": "expense",
+    "component": "other",
+    "amount": 32630000,
+    "currency": "SGD",
+    "label_raw": "Other direct expenses",
+    "label_raw_note": "Note 23, p.214. Stapled Group FY2025. Figure in $'000 = 32,630 × 1000.",
+    "source_page": 214
+  }
+]

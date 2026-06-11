@@ -1,0 +1,337 @@
+{
+  "A": {
+    "trust_level_fy2025": {
+      "total_gross_revenue_sgd_million": {
+        "v": 303.7,
+        "p": 5
+      },
+      "total_gross_revenue_rmb_million": {
+        "v": 1670.0,
+        "p": 5,
+        "v_rmb": 1670.0
+      },
+      "total_net_property_income_sgd_million": {
+        "v": 200.9,
+        "p": 5
+      },
+      "total_net_property_income_rmb_million": {
+        "v": 1104.6,
+        "p": 5,
+        "v_rmb": 1104.6
+      },
+      "distributable_income_sgd_million": {
+        "v": 83.9,
+        "p": 5
+      },
+      "dpu_cents": {
+        "v": 4.82,
+        "p": 5
+      },
+      "number_of_unitholders": {
+        "v": 18075,
+        "p": 172
+      },
+      "portfolio_value_sgd_million": {
+        "v": 4204.4,
+        "p": 5
+      },
+      "sgd_rmb_exchange_rate": {
+        "v": 5.499,
+        "p": 33,
+        "note": "Average exchange rate for FY2025"
+      }
+    }
+  },
+  "B": {
+    "properties": {
+      "rock_square": {
+        "fy2025_gross_revenue_rmb_million": {
+          "v": 234.974,
+          "p": 26
+        },
+        "fy2025_gross_revenue_sgd_million": {
+          "v": 42.723,
+          "p": 26
+        },
+        "fy2025_net_property_income_rmb_million": {
+          "v": 164.169,
+          "p": 27
+        },
+        "fy2025_net_property_income_sgd_million": {
+          "v": 29.849,
+          "p": 27
+        },
+        "latest_valuation_rmb_million": {
+          "v": 3410.0,
+          "p": 28
+        },
+        "latest_valuation_sgd_million": {
+          "v": 623.9,
+          "p": 28
+        },
+        "occupancy_percent": {
+          "v": 99.0,
+          "p": 43
+        },
+        "land_use_right_expiry": {
+          "v": "17 October 2045",
+          "p": 43
+        }
+      },
+      "capitamall_xizhimen": {
+        "fy2025_gross_revenue_rmb_million": {
+          "v": 295.741,
+          "p": 26
+        },
+        "fy2025_gross_revenue_sgd_million": {
+          "v": 53.772,
+          "p": 26
+        },
+        "fy2025_net_property_income_rmb_million": {
+          "v": 204.673,
+          "p": 27
+        },
+        "fy2025_net_property_income_sgd_million": {
+          "v": 37.214,
+          "p": 27
+        },
+        "latest_valuation_rmb_million": {
+          "v": 3741.0,
+          "p": 28
+        },
+        "latest_valuation_sgd_million": {
+          "v": 684.4,
+          "p": 28
+        },
+        "occupancy_percent": {
+          "v": 99.1,
+          "p": 42
+        },
+        "land_use_right_expiry": {
+          "v": "23 August 2044 and 23 August 2054",
+          "p": 42
+        }
+      },
+      "ascendas_xinsu_portfolio": {
+        "fy2025_gross_revenue_rmb_million": {
+          "v": 224.112,
+          "p": 26
+        },
+        "fy2025_gross_revenue_sgd_million": {
+          "v": 40.748,
+          "p": 26
+        },
+        "fy2025_net_property_income_rmb_million": {
+          "v": 165.700,
+          "p": 27
+        },
+        "fy2025_net_property_income_sgd_million": {
+          "v": 30.127,
+          "p": 27
+        },
+        "latest_valuation_rmb_million": {
+          "v": 2340.0,
+          "p": 28
+        },
+        "latest_valuation_sgd_million": {
+          "v": 428.1,
+          "p": 28
+        },
+        "occupancy_percent": {
+          "v": 95.3,
+          "p": 50
+        },
+        "land_use_right_expiry": {
+          "v": "31 December 2046 to 30 May 2057",
+          "p": 50
+        }
+      },
+      "capitamall_grand_canyon": {
+        "fy2025_gross_revenue_rmb_million": {
+          "v": 101.068,
+          "p": 26
+        },
+        "fy2025_gross_revenue_sgd_million": {
+          "v": 18.376,
+          "p": 26
+        },
+        "fy2025_net_property_income_rmb_million": {
+          "v": 61.199,
+          "p": 27
+        },
+        "fy2025_net_property_income_sgd_million": {
+          "v": 11.127,
+          "p": 27
+        },
+        "latest_valuation_rmb_million": {
+          "v": 1780.0,
+          "p": 28
+        },
+        "latest_valuation_sgd_million": {
+          "v": 325.7,
+          "p": 28
+        },
+        "occupancy_percent": {
+          "v": 96.9,
+          "p": 47
+        },
+        "land_use_right_expiry": {
+          "v": "29 August 2044 and 29 August 2054",
+          "p": 47
+        }
+      },
+      "shanghai_fengxian_logistics_park": {
+        "fy2025_gross_revenue_rmb_million": {
+          "v": 6.755,
+          "p": 26
+        },
+        "fy2025_gross_revenue_sgd_million": {
+          "v": 1.228,
+          "p": 26
+        },
+        "fy2025_net_property_income_rmb_million": {
+          "v": 2.893,
+          "p": 27
+        },
+        "fy2025_net_property_income_sgd_million": {
+          "v": 0.526,
+          "p": 27
+        },
+        "latest_valuation_rmb_million": {
+          "v": 438.0,
+          "p": 28
+        },
+        "latest_valuation_sgd_million": {
+          "v": 80.1,
+          "p": 28
+        },
+        "occupancy_percent": {
+          "v": 100.0,
+          "p": 55
+        },
+        "land_use_right_expiry": {
+          "v": "20 July 2059",
+          "p": 55
+        }
+      }
+    }
+  },
+  "C": {
+    "top_3_tenants": {
+      "tenant_1": {
+        "name": "JD.com Group of Companies",
+        "percent_of_total_gross_rental_income": {
+          "v": 1.8,
+          "p": 32
+        },
+        "basis_wording": "percentage of Total Gross Rental Income in the month of December 2025"
+      },
+      "tenant_2": {
+        "name": "POP MART Holding Limited",
+        "percent_of_total_gross_rental_income": {
+          "v": 1.0,
+          "p": 32
+        },
+        "basis_wording": "percentage of Total Gross Rental Income in the month of December 2025"
+      },
+      "tenant_3": {
+        "name": "Bestseller Group of Companies",
+        "percent_of_total_gross_rental_income": {
+          "v": 1.0,
+          "p": 32
+        },
+        "basis_wording": "percentage of Total Gross Rental Income in the month of December 2025"
+      }
+    }
+  },
+  "D": {
+    "audited_statements_expenses": {
+      "business_tax": {
+        "label": "Business tax",
+        "amount_sgd_million": {
+          "v": 1.598,
+          "p": 96
+        }
+      },
+      "property_related_tax": {
+        "label": "Property related tax",
+        "amount_sgd_million": {
+          "v": 27.577,
+          "p": 96
+        }
+      },
+      "property_management_fees": {
+        "label": "Property management fees and reimbursables",
+        "amount_sgd_million": {
+          "v": 18.220,
+          "p": 96
+        }
+      },
+      "other_property_operating_expenses": {
+        "label": "Other property operating expenses",
+        "amount_sgd_million": {
+          "v": 55.430,
+          "p": 96
+        }
+      }
+    }
+  },
+  "E": {
+    "transactions": {
+      "rock_square_acquisition": {
+        "phase_1": {
+          "stake_percent": {
+            "v": 51,
+            "p": 43
+          },
+          "year": {
+            "v": 2018,
+            "p": 43
+          },
+          "price_rmb_million": {
+            "v": 3340.7,
+            "p": 43
+          },
+          "exact_date": "31 January 2018"
+        },
+        "phase_2": {
+          "stake_percent": {
+            "v": 49,
+            "p": 43
+          },
+          "year": {
+            "v": 2020,
+            "p": 43
+          },
+          "price_rmb_million": {
+            "v": 3400.0,
+            "p": 43
+          },
+          "exact_date": "30 December 2020",
+          "note": "Purchase price represented on 100% basis"
+        }
+      },
+      "capitamall_yuhuating_divestment_fy2025": {
+        "property_name": "CapitaMall Yuhuating",
+        "completion_date": "31 October 2025",
+        "sale_price_rmb_million": {
+          "v": 813.8,
+          "p": 32
+        },
+        "buyer_structure": {
+          "v": "Sold to Changsha 2023 Consulting & Management Co., Ltd. through Changsha Kaiting Consulting & Management Co., Ltd., each an indirect wholly owned subsidiary of CapitaLand Mall Asia Limited",
+          "p": 32
+        },
+        "transaction_type": "100% equity interest in the SPV which holds CapitaMall Yuhuating",
+        "exit_npi_yield_percent": {
+          "v": 6.2,
+          "p": 10
+        },
+        "premium_to_valuation": {
+          "v": "~4% above the 2024 book value",
+          "p": 10
+        }
+      }
+    }
+  }
+}

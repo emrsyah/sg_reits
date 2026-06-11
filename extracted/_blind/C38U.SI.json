@@ -1,0 +1,257 @@
+{
+  "ticker": "C38U.SI",
+  "entity": "CapitaLand Integrated Commercial Trust (CICT)",
+  "fy": "FY2025",
+  "fy_end": "2025-12-31",
+  "currency": "SGD",
+  "A": {
+    "1_total_gross_revenue": {
+      "v": 1619174000,
+      "p": 106,
+      "unit": "SGD",
+      "note": "Audited Statement of Total Return: Gross revenue S$1,619,174k. Consistent with Financial Review (p25) figure of S$1,619.2m."
+    },
+    "2_total_net_property_income": {
+      "v": 1189749000,
+      "p": 106,
+      "unit": "SGD",
+      "note": "Audited Statement of Total Return: Net property income S$1,189,749k. Consistent with Financial Review (p25) figure of S$1,189.7m."
+    },
+    "3_total_distributable_income": {
+      "v": 860900000,
+      "p": 4,
+      "unit": "SGD",
+      "note": "S$860.9m distributable income as stated in 2025 Highlights (p4) and Financial Highlights (p5). The audited Distribution Statement (p107) shows 'Amount available for distribution to Unitholders' of S$1,119,753k (which includes opening balance of S$249,796k); the distributable income for FY2025 generated = S$869,957k per distribution statement Note A sub-total. The S$860.9m figure per Operations Review (p26) is net of retained income of S$6.9m (CLCT) + S$2.2m (Sentral REIT). Preferred source: Operations/Financial Highlights disclosed S$860.9m as 'Distributable Income'."
+    },
+    "4_DPU_cents": {
+      "v": 11.58,
+      "p": 5,
+      "unit": "cents per unit",
+      "note": "Full year FY2025 DPU of 11.58 cents per unit as per Financial Highlights table (p5) and 2025 Highlights (p4). Breakdown: 1H (1 Jan - 30 Jun) = 5.62c; period 1 Jul - 13 Aug = 1.35c; period 14 Aug - 31 Dec = 4.61c."
+    },
+    "5_number_of_unitholders": {
+      "v": 91421,
+      "p": 193,
+      "unit": "unitholders",
+      "note": "As at 27 February 2026 per Statistics of Unitholdings (p193): Total 91,421 unitholders."
+    },
+    "6_portfolio_investment_property_value": {
+      "v": 25601573000,
+      "p": 105,
+      "unit": "SGD",
+      "note": "Audited Statements of Financial Position (p105): Investment properties S$25,601,573k (Group). Note: Portfolio valuation including CICT's proportionate interests in joint ventures (Gallileo 94.9%, MAC 94.9%, CapitaSky 70%, ION Orchard 50%, 101 Miller Street 50%) is S$27,397.5m per Portfolio Valuation table (p23-24). The S$25,601.6m is the on-balance-sheet figure per audited financial statements."
+    }
+  },
+  "B": {
+    "Bedok_Mall": {
+      "gross_revenue_fy2025": {
+        "v": 58900000,
+        "p": 39,
+        "unit": "SGD",
+        "note": "Property factsheet (p39): Gross Revenue S$58.9m (FY2025). Also confirmed in Financial Review table (p25)."
+      },
+      "market_valuation": {
+        "v": 827000000,
+        "p": 39,
+        "unit": "SGD",
+        "note": "Valuation as at 31 December 2025: S$827.0m per property factsheet (p39) and Portfolio Valuation table (p23)."
+      },
+      "committed_occupancy_pct": {
+        "v": 99.7,
+        "p": 39,
+        "unit": "%",
+        "note": "Committed Occupancy as at 31 December 2025: 99.7% per property factsheet (p39)."
+      },
+      "land_tenure": {
+        "v": "Leasehold tenure of 99 years with effect from 21 November 2011",
+        "p": 39,
+        "note": "Per Property Information table in Bedok Mall factsheet (p39)."
+      }
+    },
+    "CapitaSpring": {
+      "gross_revenue_fy2025": {
+        "v": 37700000,
+        "p": 25,
+        "unit": "SGD",
+        "note": "Financial Review table (p25-26): CapitaSpring S$37.7m for FY2025. Note: this is on CICT-owned basis from 26 Aug 2025 to 31 Dec 2025 (post-acquisition of remaining 55%). Property factsheet (p52, 100% basis) shows S$72.7m for FY2025 (100% basis)."
+      },
+      "market_valuation": {
+        "v": 1900000000,
+        "p": 52,
+        "unit": "SGD",
+        "note": "Property factsheet (p52): Valuation S$1,900.0m as at 31 December 2025 (100% basis, Commercial Component only, following reclassification from Integrated Development to Office post SR Component divestment). Consistent with Portfolio Valuation table (p23)."
+      },
+      "committed_occupancy_pct": {
+        "v": 100,
+        "p": 52,
+        "unit": "%",
+        "note": "Committed Occupancy as at 31 December 2025: 100% per property factsheet (p52)."
+      },
+      "land_tenure": {
+        "v": "Leasehold tenure of 99 years with effect from 1 February 1982",
+        "p": 52,
+        "note": "Per Property Information table in CapitaSpring factsheet (p52)."
+      }
+    },
+    "Gallileo": {
+      "gross_revenue_fy2025": {
+        "v": 6800000,
+        "p": 25,
+        "unit": "SGD",
+        "note": "Financial Review table (p25): Gallileo S$6.8m for FY2025 (100% basis as noted in footnote 5, p26). Property factsheet (p55-56) also confirms S$6.8m. Note: FY2024 was N.M. (not meaningful) as property was undergoing AEI."
+      },
+      "market_valuation": {
+        "v": 519700000,
+        "p": 23,
+        "unit": "SGD",
+        "note": "Portfolio Valuation table (p23): Gallileo Germany (94.9% interest) S$519.7m as at 31 Dec 2025. Based on EUR344.5m × 1.509 = S$519.8m (CICT 94.9% share). Property factsheet (p55) shows 100% basis: EUR363.0m = S$547.6m. The portfolio table figure of S$519.7m represents CICT's 94.9% proportionate interest."
+      },
+      "committed_occupancy_pct": {
+        "v": 97.7,
+        "p": 55,
+        "unit": "%",
+        "note": "Committed Occupancy as at 31 December 2025: 97.7% per property factsheet (p55)."
+      },
+      "land_tenure": {
+        "v": "Freehold",
+        "p": 56,
+        "note": "Per Property Information table in Gallileo factsheet (p56)."
+      }
+    },
+    "101_Miller_Street": {
+      "gross_revenue_fy2025": {
+        "v": 22300000,
+        "p": 25,
+        "unit": "SGD",
+        "note": "Financial Review table (p26): '101-103 Miller Street and Greenwood Plaza (50% interest)' S$22.3m for FY2025. Property factsheet (p64) confirms S$22.3m (50% basis)."
+      },
+      "market_valuation": {
+        "v": 271100000,
+        "p": 64,
+        "unit": "SGD",
+        "note": "Property factsheet (p64): Valuation S$271.1m as at 31 December 2025 (50% basis). A$319.5m × 0.848 = S$271.0m. Also per Portfolio Valuation table (p23-24)."
+      },
+      "committed_occupancy_pct": {
+        "v": 92.8,
+        "p": 64,
+        "unit": "%",
+        "note": "Committed Occupancy as at 31 December 2025: 92.8% per property factsheet (p64, 100% basis)."
+      },
+      "land_tenure": {
+        "v": "Freehold",
+        "p": 64,
+        "note": "Per Property Information table in 101-103 Miller Street and Greenwood Plaza factsheet (p64)."
+      }
+    },
+    "IMM_Building": {
+      "gross_revenue_fy2025": {
+        "v": 95500000,
+        "p": 42,
+        "unit": "SGD",
+        "note": "Property factsheet (p42): Gross Revenue S$95.5m (FY2025). Also confirmed in Financial Review table (p25)."
+      },
+      "market_valuation": {
+        "v": 790000000,
+        "p": 42,
+        "unit": "SGD",
+        "note": "Valuation as at 31 December 2025: S$790.0m per property factsheet (p42) and Portfolio Valuation table (p23). Uplifted due to AEI completion, improvements in rents and higher occupancy."
+      },
+      "committed_occupancy_pct": {
+        "v": 98.8,
+        "p": 42,
+        "unit": "%",
+        "note": "Committed Occupancy (Total) as at 31 December 2025: 98.8% per property factsheet (p42). Retail occupancy: 98.9%; Warehouse: 98.6%."
+      },
+      "land_tenure": {
+        "v": "Leasehold tenure of 30 + 30 years with effect from 23 January 1989",
+        "p": 42,
+        "note": "Per Property Information table in IMM Building factsheet (p42)."
+      }
+    }
+  },
+  "C": {
+    "basis_statement": {
+      "v": "Top 10 tenants for the month of December 2025 is based on GRI and excludes GTO. Collectively, the top 10 tenants accounted for 16.0% of CICT's GRI for December 2025, based on CICT's proportionate interests.",
+      "p": 33,
+      "note": "Exact wording from footnote 1 below Top 10 Tenants table (p33-34) and the introductory sentence (p33)."
+    },
+    "tenant_1": {
+      "name": {"v": "RC Hotels (Pte) Ltd", "p": 33},
+      "pct_of_total_GRI": {"v": 4.5, "p": 33},
+      "trade_sector": {"v": "Hotel", "p": 33}
+    },
+    "tenant_2": {
+      "name": {"v": "GIC Private Limited", "p": 33},
+      "pct_of_total_GRI": {"v": 1.6, "p": 33},
+      "trade_sector": {"v": "Financial Services", "p": 33}
+    },
+    "tenant_3": {
+      "name": {"v": "The Work Project Group", "p": 33},
+      "pct_of_total_GRI": {"v": 1.6, "p": 33},
+      "trade_sector": {"v": "Real Estate & Property Services", "p": 33}
+    }
+  },
+  "D": {
+    "gross_revenue_line_items": {
+      "note": "From audited financial statements Note 21 Gross Revenue (p159), Group figures for FY2025.",
+      "gross_rental_income": {
+        "v": 1514171000,
+        "p": 159,
+        "unit": "SGD"
+      },
+      "car_park_income": {
+        "v": 40243000,
+        "p": 159,
+        "unit": "SGD"
+      },
+      "other_income": {
+        "v": 64760000,
+        "p": 159,
+        "unit": "SGD"
+      },
+      "total": {
+        "v": 1619174000,
+        "p": 159,
+        "unit": "SGD"
+      }
+    },
+    "property_expense_line_items": {
+      "note": "From audited financial statements Note 22 Property Operating Expenses (p159), Group figures for FY2025. Three items selected.",
+      "property_tax": {
+        "v": 141300000,
+        "p": 159,
+        "unit": "SGD"
+      },
+      "utilities": {
+        "v": 65525000,
+        "p": 159,
+        "unit": "SGD"
+      },
+      "maintenance": {
+        "v": 94768000,
+        "p": 159,
+        "unit": "SGD"
+      }
+    }
+  },
+  "E": {
+    "CapitaSpring_acquisition_FY2025": {
+      "stake_acquired_pct": {
+        "v": 55,
+        "p": 15,
+        "unit": "%",
+        "note": "Acquired remaining 55% interest in the Commercial Component (office and retail) of CapitaSpring from Glory Office Pte. Ltd. and MEA Commercial Holdings Pte. Ltd. Completion: 26 August 2025. Prior to this, CICT held 45% interest in CapitaSpring (as Integrated Development). Post-acquisition, CICT holds 100% of the Commercial Component."
+      },
+      "agreed_property_value_100pct_basis": {
+        "v": 1900000000,
+        "p": 15,
+        "unit": "SGD",
+        "note": "Agreed property value: S$1,900.0 million on a 100% basis per Value Creation section (p15). The acquisition price for the 55% stake = 55% x S$1,900.0m = S$1,045.0m (derived; not separately stated as a single consideration figure in this way in the report). The report discloses the agreed property value on 100% basis and entry yield of 'low 4%'. Financing: S$600 million private placement at S$2.11 per unit. Note 6 on p12 states 'Based on 55% of the agreed property value of S$1.9 billion'."
+      },
+      "completion_date": {
+        "v": "26 August 2025",
+        "p": 15
+      }
+    }
+  }
+}

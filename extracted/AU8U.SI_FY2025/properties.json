@@ -1,0 +1,1431 @@
+[
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Xizhimen",
+  "address": "No. 1 Xizhimenwai Street, Xicheng District, Beijing",
+  "ownership": 100.0,
+  "market_valuation": 684416000,
+  "market_valuation_rmb": 3741000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 37214000,
+  "net_property_income_rmb": 204673000,
+  "gross_revenue": 53772000,
+  "gross_revenue_rmb": 295741000,
+  "occupancy_rate": 99.1,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 48.4,
+    "pct_nla": 36.4
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 19.2,
+    "pct_nla": 14.4
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 5.6,
+    "pct_nla": 6.3
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 3.9,
+    "pct_nla": 3.8
+   },
+   {
+    "category": "Services",
+    "pct_gri": 3.7,
+    "pct_nla": 2.9
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 3.7,
+    "pct_nla": 2.2
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 2.9,
+    "pct_nla": 20.3
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 2.4,
+    "pct_nla": 1.4
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 2.3,
+    "pct_nla": 1.4
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 2.3,
+    "pct_nla": 1.4
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 2.2,
+    "pct_nla": 0.9
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 2.2,
+    "pct_nla": 6.0
+   },
+   {
+    "category": "Education",
+    "pct_gri": 0.3,
+    "pct_nla": 0.6
+   },
+   {
+    "category": "Books & Stationery",
+    "pct_gri": 0.3,
+    "pct_nla": 1.2
+   },
+   {
+    "category": "Others",
+    "pct_gri": 0.6,
+    "pct_nla": 0.8
+   }
+  ],
+  "major_tenant": "DT-X; Uniqlo; Bosideng; Huawei; Haidilao (as featured tenants; largest single tenant not disclosed)",
+  "gla": 83075,
+  "nla": 50424,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": null,
+  "lease_expiry_date": "23 August 2044 / 23 August 2054",
+  "tenure_raw": "Term of lease 40 - 50 years; remaining 19 - 29 years; Land Use Right Expiry 23 August 2044 / 23 August 2054",
+  "status": "operational",
+  "source_page": 42,
+  "number_of_leases": 275,
+  "purchase_price_rmb": 1851400000,
+  "acquisition_date": "Phase 1: 2008-02-05; Phase 2: 2008-09-29"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "Rock Square",
+  "address": "No.106-108 Gongye Avenue North, Haizhu District, Guangzhou, Guangdong Province",
+  "ownership": 100.0,
+  "market_valuation": 623859000,
+  "market_valuation_rmb": 3410000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 29849000,
+  "net_property_income_rmb": 164169000,
+  "gross_revenue": 42723000,
+  "gross_revenue_rmb": 234974000,
+  "occupancy_rate": 99.0,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 40.9,
+    "pct_nla": 29.0
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 9.6,
+    "pct_nla": 10.4
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 7.3,
+    "pct_nla": 13.5
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 6.4,
+    "pct_nla": 6.1
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 5.7,
+    "pct_nla": 19.9
+   },
+   {
+    "category": "Services",
+    "pct_gri": 3.9,
+    "pct_nla": 1.7
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 3.7,
+    "pct_nla": 5.0
+   },
+   {
+    "category": "Vehicle Sales",
+    "pct_gri": 3.7,
+    "pct_nla": 1.1
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 3.6,
+    "pct_nla": 1.6
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 3.2,
+    "pct_nla": 2.1
+   },
+   {
+    "category": "Education",
+    "pct_gri": 3.2,
+    "pct_nla": 3.8
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 2.8,
+    "pct_nla": 1.0
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 2.7,
+    "pct_nla": 2.0
+   },
+   {
+    "category": "Home Living",
+    "pct_gri": 2.0,
+    "pct_nla": 1.1
+   },
+   {
+    "category": "Others",
+    "pct_gri": 1.3,
+    "pct_nla": 1.7
+   }
+  ],
+  "major_tenant": "AEON Supermarket; Zara; Decathlon (mini-anchor, 4Q 2025); Sushiro; Meland (featured tenants)",
+  "gla": 88279,
+  "nla": 53077,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": "2045-10-17",
+  "tenure_raw": "Term of lease 40 years; remaining 20 years; Land Use Right Expiry 17 October 2045",
+  "status": "operational",
+  "source_page": 43,
+  "number_of_leases": 238,
+  "purchase_price_rmb": 3400000000,
+  "acquisition_date": "51% stake: 2018-01-31; 49% stake: 2020-12-30",
+  "purchase_price_note": "First 51% stake purchased 31 Jan 2018 at RMB3,340.7m and subsequent 49% stake 30 Dec 2020 at RMB3,400.0m (both purchase prices represented on 100% basis)"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Wangjing",
+  "address": "No. 33, Guangshun North Street, Chaoyang District, Beijing",
+  "ownership": 100.0,
+  "market_valuation": 516285000,
+  "market_valuation_rmb": 2822000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 23508000,
+  "net_property_income_rmb": 129294000,
+  "gross_revenue": 34671000,
+  "gross_revenue_rmb": 190687000,
+  "occupancy_rate": 96.0,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 33.6,
+    "pct_nla": 26.5
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 14.7,
+    "pct_nla": 13.4
+   },
+   {
+    "category": "Services",
+    "pct_gri": 9.1,
+    "pct_nla": 12.6
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 7.3,
+    "pct_nla": 10.5
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 7.2,
+    "pct_nla": 2.3
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 6.7,
+    "pct_nla": 4.0
+   },
+   {
+    "category": "Education",
+    "pct_gri": 3.7,
+    "pct_nla": 4.4
+   },
+   {
+    "category": "Vehicle Sales",
+    "pct_gri": 3.4,
+    "pct_nla": 0.9
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 3.0,
+    "pct_nla": 4.8
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 2.9,
+    "pct_nla": 4.0
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 2.5,
+    "pct_nla": 2.4
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 1.3,
+    "pct_nla": 0.9
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 1.0,
+    "pct_nla": 4.6
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 0.8,
+    "pct_nla": 0.6
+   },
+   {
+    "category": "Others",
+    "pct_gri": 2.8,
+    "pct_nla": 8.1
+   }
+  ],
+  "major_tenant": "UpOffice; Uniqlo; Sephora; Starbucks; 7Fresh (featured tenants)",
+  "gla": 83768,
+  "nla": 41611,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": null,
+  "lease_expiry_date": "15 May 2043 / 15 May 2053",
+  "tenure_raw": "Term of lease 38 - 48 years; remaining 18 - 28 years; Land Use Right Expiry 15 May 2043 / 15 May 2053",
+  "status": "operational",
+  "source_page": 44,
+  "number_of_leases": 270,
+  "purchase_price_rmb": 1102000000,
+  "acquisition_date": "2006-12-01"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Xuefu",
+  "address": "No. 1 Xuefu Road, Nangang District, Harbin, Heilongjiang Province",
+  "ownership": 100.0,
+  "market_valuation": 327298000,
+  "market_valuation_rmb": 1789000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 21751000,
+  "net_property_income_rmb": 119628000,
+  "gross_revenue": 31715000,
+  "gross_revenue_rmb": 174430000,
+  "occupancy_rate": 98.8,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 34.8,
+    "pct_nla": 25.6
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 26.6,
+    "pct_nla": 21.9
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 4.9,
+    "pct_nla": 4.8
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 4.8,
+    "pct_nla": 2.9
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 4.4,
+    "pct_nla": 5.1
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 3.9,
+    "pct_nla": 10.7
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 3.5,
+    "pct_nla": 1.8
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 3.5,
+    "pct_nla": 3.2
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 3.2,
+    "pct_nla": 10.7
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 2.6,
+    "pct_nla": 2.3
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 2.4,
+    "pct_nla": 1.7
+   },
+   {
+    "category": "Services",
+    "pct_gri": 2.4,
+    "pct_nla": 2.3
+   },
+   {
+    "category": "Education",
+    "pct_gri": 1.5,
+    "pct_nla": 3.9
+   },
+   {
+    "category": "Electrical & Electronics",
+    "pct_gri": 0.6,
+    "pct_nla": 0.8
+   },
+   {
+    "category": "Others",
+    "pct_gri": 0.9,
+    "pct_nla": 2.3
+   }
+  ],
+  "major_tenant": "B.U.T Supermarket; Perfect World Cinema; Miniso Land; Haidilao; Bosideng (featured tenants)",
+  "gla": 123811,
+  "nla": 63218,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": "2045-12-15",
+  "tenure_raw": "Term of lease 40 years; remaining 20 years; Land Use Right Expiry 15 December 2045",
+  "status": "operational",
+  "source_page": 45,
+  "number_of_leases": 427,
+  "purchase_price_rmb": 1745000000,
+  "acquisition_date": "2019-08-30"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Grand Canyon",
+  "address": "No. 16 South Third Ring West Road, Fengtai District, Beijing",
+  "ownership": 100.0,
+  "market_valuation": 325651000,
+  "market_valuation_rmb": 1780000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 11127000,
+  "net_property_income_rmb": 61199000,
+  "gross_revenue": 18376000,
+  "gross_revenue_rmb": 101068000,
+  "occupancy_rate": 96.9,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 41.9,
+    "pct_nla": 28.0
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 8.1,
+    "pct_nla": 8.3
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 7.3,
+    "pct_nla": 16.8
+   },
+   {
+    "category": "Education",
+    "pct_gri": 7.2,
+    "pct_nla": 10.7
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 6.6,
+    "pct_nla": 7.7
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 6.5,
+    "pct_nla": 3.0
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 3.8,
+    "pct_nla": 9.3
+   },
+   {
+    "category": "Services",
+    "pct_gri": 3.5,
+    "pct_nla": 2.2
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 2.4,
+    "pct_nla": 2.5
+   },
+   {
+    "category": "Vehicle Sales",
+    "pct_gri": 2.1,
+    "pct_nla": 0.8
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 2.0,
+    "pct_nla": 0.7
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 2.0,
+    "pct_nla": 1.2
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 1.5,
+    "pct_nla": 1.6
+   },
+   {
+    "category": "Home Living",
+    "pct_gri": 1.3,
+    "pct_nla": 2.0
+   },
+   {
+    "category": "Others",
+    "pct_gri": 3.8,
+    "pct_nla": 5.2
+   }
+  ],
+  "major_tenant": "7Fresh Supermarket; Poly Cinema; Uniqlo; K-SHOW KTV (featured tenants)",
+  "gla": 92918,
+  "nla": 40672,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": null,
+  "lease_expiry_date": "29 August 2044 / 29 August 2054",
+  "tenure_raw": "Term of lease 40 - 50 years; remaining 19 - 29 years; Land Use Right Expiry 29 August 2044 / 29 August 2054",
+  "status": "operational",
+  "source_page": 46,
+  "number_of_leases": 229,
+  "purchase_price_rmb": 1740000000,
+  "acquisition_date": "2013-12-30"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Xinnan",
+  "address": "No. 99, Shenghe First Road, Gaoxin District, Chengdu, Sichuan Province",
+  "ownership": 100.0,
+  "market_valuation": 238384000,
+  "market_valuation_rmb": 1303000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 3317000,
+  "net_property_income_rmb": 18245000,
+  "gross_revenue": 7778000,
+  "gross_revenue_rmb": 42781000,
+  "occupancy_rate": 88.4,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 39.1,
+    "pct_nla": 19.0
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 13.0,
+    "pct_nla": 19.4
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 10.5,
+    "pct_nla": 10.8
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 8.3,
+    "pct_nla": 10.3
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 6.9,
+    "pct_nla": 2.5
+   },
+   {
+    "category": "Services",
+    "pct_gri": 5.5,
+    "pct_nla": 5.0
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 4.7,
+    "pct_nla": 18.1
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 3.7,
+    "pct_nla": 5.6
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 2.0,
+    "pct_nla": 0.9
+   },
+   {
+    "category": "Education",
+    "pct_gri": 1.8,
+    "pct_nla": 4.0
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 1.3,
+    "pct_nla": 0.2
+   },
+   {
+    "category": "Home Living",
+    "pct_gri": 1.1,
+    "pct_nla": 1.0
+   },
+   {
+    "category": "Value Store",
+    "pct_gri": 1.0,
+    "pct_nla": 0.7
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 0.7,
+    "pct_nla": 1.9
+   },
+   {
+    "category": "Others",
+    "pct_gri": 0.4,
+    "pct_nla": 0.6
+   }
+  ],
+  "major_tenant": "361 Degrees; Huawei; Sephora; Uniqlo; McDonald's (featured tenants)",
+  "gla": 91816,
+  "nla": 36854,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": "2047-10-17",
+  "tenure_raw": "Term of lease 40 years; remaining 22 years; Land Use Right Expiry 17 October 2047",
+  "status": "operational",
+  "source_page": 47,
+  "number_of_leases": 198,
+  "purchase_price_rmb": 1500000000,
+  "acquisition_date": "2016-09-30"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Nuohemule",
+  "address": "Block A Jinyu Xintiandi, Ordos Street, Yuquan District, Hohhot, Inner Mongolia Autonomous Region",
+  "ownership": 100.0,
+  "market_valuation": 188438000,
+  "market_valuation_rmb": 1030000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 9947000,
+  "net_property_income_rmb": 54706000,
+  "gross_revenue": 17225000,
+  "gross_revenue_rmb": 94735000,
+  "occupancy_rate": 99.5,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 28.2,
+    "pct_nla": 24.6
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 28.0,
+    "pct_nla": 17.6
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 8.2,
+    "pct_nla": 5.6
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 7.4,
+    "pct_nla": 20.0
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 4.2,
+    "pct_nla": 3.3
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 3.9,
+    "pct_nla": 12.1
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 3.8,
+    "pct_nla": 2.4
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 3.6,
+    "pct_nla": 1.0
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 3.4,
+    "pct_nla": 1.8
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 2.3,
+    "pct_nla": 1.0
+   },
+   {
+    "category": "Services",
+    "pct_gri": 2.3,
+    "pct_nla": 2.3
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 2.2,
+    "pct_nla": 1.6
+   },
+   {
+    "category": "Education",
+    "pct_gri": 0.9,
+    "pct_nla": 1.5
+   },
+   {
+    "category": "Books & Stationery",
+    "pct_gri": 0.6,
+    "pct_nla": 1.2
+   },
+   {
+    "category": "Others",
+    "pct_gri": 1.0,
+    "pct_nla": 4.0
+   }
+  ],
+  "major_tenant": "Pop Mart; DJI; Haidilao; Wanda Cinema; Pet Tribes (flagship tenants)",
+  "gla": 100047,
+  "nla": 44404,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": "2049-07-26",
+  "tenure_raw": "Term of lease 40 years; remaining 24 years; Land Use Right Expiry 26 July 2049",
+  "status": "operational",
+  "source_page": 48,
+  "number_of_leases": 259,
+  "purchase_price_rmb": 808000000,
+  "acquisition_date": "2019-12-26"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Aidemengdun",
+  "address": "No. 38 Aidemengdun Road, Daoli District, Harbin, Heilongjiang Province",
+  "ownership": 100.0,
+  "market_valuation": 67509000,
+  "market_valuation_rmb": 369000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 1992000,
+  "net_property_income_rmb": 10953000,
+  "gross_revenue": 5722000,
+  "gross_revenue_rmb": 31471000,
+  "occupancy_rate": 96.6,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 26.9,
+    "pct_nla": 15.9
+   },
+   {
+    "category": "Fashion & Accessories",
+    "pct_gri": 17.2,
+    "pct_nla": 15.8
+   },
+   {
+    "category": "Supermarket",
+    "pct_gri": 11.5,
+    "pct_nla": 25.7
+   },
+   {
+    "category": "Sporting Goods & Apparel",
+    "pct_gri": 8.4,
+    "pct_nla": 8.7
+   },
+   {
+    "category": "Leisure & Entertainment",
+    "pct_gri": 8.4,
+    "pct_nla": 12.1
+   },
+   {
+    "category": "IT & Telecommunications",
+    "pct_gri": 7.0,
+    "pct_nla": 3.4
+   },
+   {
+    "category": "Beauty & Health",
+    "pct_gri": 5.1,
+    "pct_nla": 3.7
+   },
+   {
+    "category": "Education",
+    "pct_gri": 4.0,
+    "pct_nla": 6.8
+   },
+   {
+    "category": "Jewellery & Watches",
+    "pct_gri": 3.3,
+    "pct_nla": 2.0
+   },
+   {
+    "category": "Gifts & Souvenirs",
+    "pct_gri": 2.7,
+    "pct_nla": 1.5
+   },
+   {
+    "category": "Shoes & Bags",
+    "pct_gri": 2.4,
+    "pct_nla": 1.6
+   },
+   {
+    "category": "Toys & Hobbies",
+    "pct_gri": 0.8,
+    "pct_nla": 0.5
+   },
+   {
+    "category": "Electrical & Electronics",
+    "pct_gri": 0.7,
+    "pct_nla": 0.4
+   },
+   {
+    "category": "Home Living",
+    "pct_gri": 0.6,
+    "pct_nla": 0.7
+   },
+   {
+    "category": "Others",
+    "pct_gri": 1.0,
+    "pct_nla": 1.2
+   }
+  ],
+  "major_tenant": "B.U.T Supermarket; Qi Cai International Cineplex; Miniso; McDonald's; Adidas (featured tenants)",
+  "gla": 49040,
+  "nla": 28130,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": "2042-09-07",
+  "tenure_raw": "Term of lease 40 years; remaining 17 years; Land Use Right Expiry 07 September 2042",
+  "status": "operational",
+  "source_page": 49,
+  "number_of_leases": 160,
+  "purchase_price_rmb": 469000000,
+  "acquisition_date": "2019-08-30"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "business_park",
+  "property_name": "Ascendas Xinsu Portfolio",
+  "address": "Suzhou Industrial Park, Suzhou, Jiangsu Province",
+  "ownership": 51.0,
+  "market_valuation": 428103000,
+  "market_valuation_rmb": 2340000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 30127000,
+  "net_property_income_rmb": 165700000,
+  "gross_revenue": 40748000,
+  "gross_revenue_rmb": 224112000,
+  "occupancy_rate": 95.3,
+  "trade_mix": [
+   {
+    "category": "Engineering",
+    "pct_gri": 32.1,
+    "pct_nla": 35.8
+   },
+   {
+    "category": "Electronics",
+    "pct_gri": 26.6,
+    "pct_nla": 27.3
+   },
+   {
+    "category": "Biomedical Sciences",
+    "pct_gri": 10.6,
+    "pct_nla": 11.0
+   },
+   {
+    "category": "Professional Services",
+    "pct_gri": 9.2,
+    "pct_nla": 8.8
+   },
+   {
+    "category": "Information & Communications Technology",
+    "pct_gri": 6.7,
+    "pct_nla": 5.5
+   },
+   {
+    "category": "Data Centre",
+    "pct_gri": 4.0,
+    "pct_nla": 2.6
+   },
+   {
+    "category": "Others",
+    "pct_gri": 10.8,
+    "pct_nla": 9.0
+   }
+  ],
+  "major_tenant": "TDK (Suzhou); Suzhou Kamen Haas Laser Technology; CCL Design (Suzhou); Nexteer Automotive (Suzhou); Herbalife (China) (key tenants)",
+  "gla": 373334,
+  "nla": 348804,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "31 December 2046 to 30 May 2057",
+  "tenure_raw": "Term of lease 50 years; remaining 21 - 32 years; Land Use Right Expiry 31 December 2046 to 30 May 2057",
+  "status": "operational",
+  "source_page": 50,
+  "number_of_leases": 328,
+  "purchase_price_rmb": 2265000000,
+  "acquisition_date": "2021-01-04"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "business_park",
+  "property_name": "Singapore-Hangzhou Science & Technology Park Phase I",
+  "address": "No. 2 Kejiyuan Road, Hangzhou Economic & Technological Development Area, Qiantang New Area, Hangzhou, Zhejiang Province",
+  "ownership": 80.0,
+  "market_valuation": 147275000,
+  "market_valuation_rmb": 805000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 6211000,
+  "net_property_income_rmb": 34166000,
+  "gross_revenue": 9859000,
+  "gross_revenue_rmb": 54227000,
+  "occupancy_rate": 73.6,
+  "trade_mix": [
+   {
+    "category": "E-Commerce",
+    "pct_gri": 30.4,
+    "pct_nla": 30.4
+   },
+   {
+    "category": "Biomedical Sciences",
+    "pct_gri": 10.8,
+    "pct_nla": 9.5
+   },
+   {
+    "category": "Culture / Sports / Entertainment",
+    "pct_gri": 10.8,
+    "pct_nla": 12.6
+   },
+   {
+    "category": "Information & Communications Technology",
+    "pct_gri": 9.4,
+    "pct_nla": 9.8
+   },
+   {
+    "category": "Electronics",
+    "pct_gri": 9.0,
+    "pct_nla": 9.1
+   },
+   {
+    "category": "Services",
+    "pct_gri": 6.2,
+    "pct_nla": 2.9
+   },
+   {
+    "category": "Professional Services",
+    "pct_gri": 5.4,
+    "pct_nla": 6.3
+   },
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 4.7,
+    "pct_nla": 3.3
+   },
+   {
+    "category": "Education",
+    "pct_gri": 3.7,
+    "pct_nla": 5.2
+   },
+   {
+    "category": "Others",
+    "pct_gri": 9.6,
+    "pct_nla": 10.9
+   }
+  ],
+  "major_tenant": "MiRXES; CITIC Bank; Hangzhou Quentin Science and Technology (featured tenants)",
+  "gla": 101811,
+  "nla": 101450,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2056-09-04",
+  "tenure_raw": "Term of lease 50 years; remaining 31 years; Land Use Right Expiry 04 September 2056",
+  "status": "operational",
+  "source_page": 51,
+  "number_of_leases": 168,
+  "purchase_price_rmb": 641000000,
+  "acquisition_date": "2021-06-18"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "business_park",
+  "property_name": "Singapore-Hangzhou Science & Technology Park Phase II",
+  "address": "No. 20 and 57 Kejiyuan Road, Hangzhou Economic & Technological Development Area, Qiantang New Area, Hangzhou, Zhejiang Province",
+  "ownership": 80.0,
+  "market_valuation": 186060000,
+  "market_valuation_rmb": 1017000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 6556000,
+  "net_property_income_rmb": 36059000,
+  "gross_revenue": 11551000,
+  "gross_revenue_rmb": 63529000,
+  "occupancy_rate": 74.9,
+  "trade_mix": [
+   {
+    "category": "Food & Beverage",
+    "pct_gri": 17.5,
+    "pct_nla": 12.8
+   },
+   {
+    "category": "E-Commerce",
+    "pct_gri": 16.1,
+    "pct_nla": 17.2
+   },
+   {
+    "category": "Professional Services",
+    "pct_gri": 16.0,
+    "pct_nla": 17.6
+   },
+   {
+    "category": "Culture / Sports / Entertainment",
+    "pct_gri": 13.2,
+    "pct_nla": 15.8
+   },
+   {
+    "category": "Real Estate",
+    "pct_gri": 10.5,
+    "pct_nla": 11.4
+   },
+   {
+    "category": "Information & Communications Technology",
+    "pct_gri": 8.2,
+    "pct_nla": 8.2
+   },
+   {
+    "category": "Biomedical Sciences",
+    "pct_gri": 4.5,
+    "pct_nla": 4.8
+   },
+   {
+    "category": "Textile and Garments",
+    "pct_gri": 3.3,
+    "pct_nla": 3.0
+   },
+   {
+    "category": "Financial Services",
+    "pct_gri": 2.5,
+    "pct_nla": 1.2
+   },
+   {
+    "category": "Others",
+    "pct_gri": 8.2,
+    "pct_nla": 8.0
+   }
+  ],
+  "major_tenant": "Hangzhou Weinian Brand Management; Hangzhou Wentongzi Cultural and Creative; Hangzhou Youyin Youguo Technology (featured tenants)",
+  "gla": 130261,
+  "nla": 130161,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2060-07-06",
+  "tenure_raw": "Term of lease 50 years; remaining 35 years; Land Use Right Expiry 06 July 2060",
+  "status": "operational",
+  "source_page": 52,
+  "number_of_leases": 290,
+  "purchase_price_rmb": 767000000,
+  "acquisition_date": "2021-06-18"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "business_park",
+  "property_name": "Ascendas Innovation Towers",
+  "address": "No. 88 Tiangu Seventh Road, Xi'an HiTech Industries Development Zone, Xi'an, Shaanxi Province",
+  "ownership": 100.0,
+  "market_valuation": 159349000,
+  "market_valuation_rmb": 871000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 6928000,
+  "net_property_income_rmb": 38105000,
+  "gross_revenue": 10831000,
+  "gross_revenue_rmb": 59572000,
+  "occupancy_rate": 85.2,
+  "trade_mix": [
+   {
+    "category": "Information & Communications Technology",
+    "pct_gri": 34.3,
+    "pct_nla": 32.8
+   },
+   {
+    "category": "Electronics",
+    "pct_gri": 16.6,
+    "pct_nla": 17.1
+   },
+   {
+    "category": "Financial Services",
+    "pct_gri": 13.9,
+    "pct_nla": 12.2
+   },
+   {
+    "category": "Professional Services",
+    "pct_gri": 11.4,
+    "pct_nla": 13.9
+   },
+   {
+    "category": "Engineering",
+    "pct_gri": 6.9,
+    "pct_nla": 6.0
+   },
+   {
+    "category": "Others",
+    "pct_gri": 16.9,
+    "pct_nla": 18.0
+   }
+  ],
+  "major_tenant": "Ping An Insurance Company; iSoftStone; Senfetech; ChangXin Memory Technologies (notable tenants)",
+  "gla": 118495,
+  "nla": 95654,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2064-02-19",
+  "tenure_raw": "Term of lease 50 years; remaining 39 years; Land Use Right Expiry 19 February 2064",
+  "status": "operational",
+  "source_page": 53,
+  "number_of_leases": 111,
+  "purchase_price_rmb": 759000000,
+  "acquisition_date": "2021-02-10"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "business_park",
+  "property_name": "Ascendas Innovation Hub",
+  "address": "No. 38 Gaoxin Sixth Road, Xi'an HiTech Industries Development Zone, Xi'an, Shaanxi Province",
+  "ownership": 80.0,
+  "market_valuation": 61105000,
+  "market_valuation_rmb": 334000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 3704000,
+  "net_property_income_rmb": 20368000,
+  "gross_revenue": 5403000,
+  "gross_revenue_rmb": 29714000,
+  "occupancy_rate": 86.7,
+  "trade_mix": [
+   {
+    "category": "Electronics",
+    "pct_gri": 82.1,
+    "pct_nla": 77.5
+   },
+   {
+    "category": "Information & Communications Technology",
+    "pct_gri": 13.2,
+    "pct_nla": 12.8
+   },
+   {
+    "category": "Others",
+    "pct_gri": 4.7,
+    "pct_nla": 9.7
+   }
+  ],
+  "major_tenant": "UniIC Semiconductors; Montage Technology; Xi'an Zhaoxin Semiconductor; New H3C Technologies (notable tenants)",
+  "gla": 40547,
+  "nla": 36288,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2051-05-23",
+  "tenure_raw": "Term of lease 50 years; remaining 26 years; Land Use Right Expiry 23 May 2051",
+  "status": "operational",
+  "source_page": 54,
+  "number_of_leases": 46,
+  "purchase_price_rmb": 298000000,
+  "acquisition_date": "2021-02-26"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "logistics_park",
+  "property_name": "Shanghai Fengxian Logistics Park",
+  "address": "No. 435, Haishang Road, Fengxian District, Shanghai",
+  "ownership": 100.0,
+  "market_valuation": 80132000,
+  "market_valuation_rmb": 438000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 526000,
+  "net_property_income_rmb": 2893000,
+  "gross_revenue": 1228000,
+  "gross_revenue_rmb": 6755000,
+  "occupancy_rate": 100.0,
+  "trade_mix": [
+   {
+    "category": "Logistics & Warehouse",
+    "pct_gri": 100.0,
+    "pct_nla": 100.0
+   }
+  ],
+  "major_tenant": null,
+  "gla": 62785,
+  "nla": null,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2059-07-20",
+  "tenure_raw": "Term of lease 50 years; remaining 34 years; Land Use Right Expiry 20 July 2059",
+  "status": "operational",
+  "source_page": 55,
+  "number_of_leases": 1,
+  "purchase_price_rmb": 623700000,
+  "acquisition_date": "2021-11-10"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "logistics_park",
+  "property_name": "Wuhan Yangluo Logistics Park",
+  "address": "No. 10 Qiuli South Road, Yangluo Development Zone, Xinzhou District, Wuhan, Hubei Province",
+  "ownership": 100.0,
+  "market_valuation": 59642000,
+  "market_valuation_rmb": 326000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 2085000,
+  "net_property_income_rmb": 11466000,
+  "gross_revenue": 3086000,
+  "gross_revenue_rmb": 16972000,
+  "occupancy_rate": 100.0,
+  "trade_mix": [
+   {
+    "category": "E-Commerce",
+    "pct_gri": 99.2,
+    "pct_nla": 94.6
+   },
+   {
+    "category": "Others",
+    "pct_gri": 0.8,
+    "pct_nla": 5.4
+   }
+  ],
+  "major_tenant": null,
+  "gla": 86973,
+  "nla": null,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2064-07-14",
+  "tenure_raw": "Term of lease 50 years; remaining 39 years; Land Use Right Expiry 14 July 2064",
+  "status": "operational",
+  "source_page": 55,
+  "number_of_leases": 2,
+  "purchase_price_rmb": 379700000,
+  "acquisition_date": "2021-11-10"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "logistics_park",
+  "property_name": "Chengdu Shuangliu Logistics Park",
+  "address": "No. 86 Tongguan Road, Shuangliu District, Chengdu, Sichuan Province",
+  "ownership": 100.0,
+  "market_valuation": 59093000,
+  "market_valuation_rmb": 323000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 1593000,
+  "net_property_income_rmb": 8764000,
+  "gross_revenue": 2478000,
+  "gross_revenue_rmb": 13629000,
+  "occupancy_rate": 92.3,
+  "trade_mix": [
+   {
+    "category": "Logistics & Warehouse",
+    "pct_gri": 100.0,
+    "pct_nla": 100.0
+   }
+  ],
+  "major_tenant": null,
+  "gla": 71556,
+  "nla": null,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2062-04-25",
+  "tenure_raw": "Term of lease 50 years; remaining 37 years; Land Use Right Expiry 25 April 2062",
+  "status": "operational",
+  "source_page": 56,
+  "number_of_leases": 32,
+  "purchase_price_rmb": 352000000,
+  "acquisition_date": "2021-11-10"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "logistics_park",
+  "property_name": "Kunshan Bacheng Logistics Park",
+  "address": "No. 998 Yuyang Road, Yushan Town Kunshan, Jiangsu Province",
+  "ownership": 100.0,
+  "market_valuation": 51775000,
+  "market_valuation_rmb": 283000000,
+  "valuation_date": "2025-12-31",
+  "currency": "SGD",
+  "net_property_income": 1929000,
+  "net_property_income_rmb": 10608000,
+  "gross_revenue": 2527000,
+  "gross_revenue_rmb": 13898000,
+  "occupancy_rate": 100.0,
+  "trade_mix": [
+   {
+    "category": "Logistics & Warehouse",
+    "pct_gri": 63.1,
+    "pct_nla": 54.2
+   },
+   {
+    "category": "E-Commerce",
+    "pct_gri": 24.4,
+    "pct_nla": 31.9
+   },
+   {
+    "category": "Manufacturing",
+    "pct_gri": 9.5,
+    "pct_nla": 9.5
+   },
+   {
+    "category": "Others",
+    "pct_gri": 3.0,
+    "pct_nla": 4.4
+   }
+  ],
+  "major_tenant": null,
+  "gla": 43945,
+  "nla": null,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 50,
+  "lease_expiry_date": "2064-06-16",
+  "tenure_raw": "Term of lease 50 years; remaining 39 years; Land Use Right Expiry 16 June 2064",
+  "status": "operational",
+  "source_page": 56,
+  "number_of_leases": 6,
+  "purchase_price_rmb": 328000000,
+  "acquisition_date": "2021-11-10"
+ },
+ {
+  "symbol": "AU8U.SI",
+  "fiscal_year": 2025,
+  "country": "China",
+  "category": "retail",
+  "property_name": "CapitaMall Yuhuating",
+  "address": "No. 421 Shaoshan Middle Road, Yuhua District, Changsha, Hunan Province",
+  "ownership": 100.0,
+  "market_valuation": null,
+  "market_valuation_rmb": null,
+  "valuation_date": null,
+  "currency": null,
+  "net_property_income": 2531000,
+  "net_property_income_rmb": 13639000,
+  "gross_revenue": 4027000,
+  "gross_revenue_rmb": 21705000,
+  "occupancy_rate": null,
+  "trade_mix": null,
+  "major_tenant": null,
+  "gla": null,
+  "nla": null,
+  "area_unit": "sq m",
+  "land_tenure": "Leasehold",
+  "effective_date": null,
+  "lease_term_years": 40,
+  "lease_expiry_date": null,
+  "tenure_raw": "Term of lease 40 years (Consolidated Portfolio Statement, divested asset line) | land tenure label: leasehold (land use right)",
+  "status": "divested (completed 31 October 2025; sold to CapitaLand Commercial C-REIT structure at RMB813.8 million)",
+  "source_page": 26
+ }
+]

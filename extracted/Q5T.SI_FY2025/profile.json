@@ -1,0 +1,12 @@
+{
+  "symbol": "Q5T.SI",
+  "trust_name": "Far East Hospitality Trust",
+  "reit_sub_sector": "Hospitality",
+  "income_model": "master_lease",
+  "fiscal_year": 2025,
+  "fye_date": "2025-12-31",
+  "currency": "SGD",
+  "stapled_structure": true,
+  "notes": "STAPLED trust: Far East H-REIT + Far East H-BT. Singapore hotels/serviced residences leased under 20-year master leases (fixed rent only per Note 24) to related-party master lessees (Far East Organization entities). Japan property (FPN) leased from H-REIT to H-BT under inter-group master lease; H-BT then appointed CENTRAIR hotel systems Ltd as operator under a variable-rent sub-lease based on % gross operating profit with no minimum floor (Note 24). income_model=master_lease reflects the dominant structure; Japan property effectively mixed (variable pass-through).",
+  "source_page": 89
+}

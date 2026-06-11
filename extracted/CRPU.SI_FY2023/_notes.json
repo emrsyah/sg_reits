@@ -1,0 +1,142 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "net_property_income",
+      "reason": "Structural null for EMA model. Under the EMA, all operating expenses of the outlets are borne by the Entrusted Manager (Sasseur Shanghai Holding Company Limited). The REIT receives only EMA rental income (fixed + variable components + performance sharing). There is no separate disclosure of property revenues and expenses at the REIT level; therefore NPI cannot be derived or disclosed. Anchors checked: Statement of Total Return (p163), Financial Review (p21), Note 13 (p196), per-property factsheets (pp52-59) — none disclose NPI."
+    },
+    {
+      "column": "gross_revenue (per-property)",
+      "reason": "Structural null for EMA model at the property level. The REIT's income statement contains only the single consolidated EMA rental income line — there is no per-property breakdown of the REIT's revenue in SGD. Per-property outlet sales (RMB) are disclosed but those are the underlying tenants' sales figures, not the REIT's revenue. Anchors checked: Financial Review (p21-22), per-property tables (pp52-59), Notes to financial statements — no per-property REIT revenue breakdown found."
+    },
+    {
+      "column": "ema_fixed (SGD)",
+      "reason": "Fixed and variable components of EMA rental income are only disclosed in RMB (p51). Note 13 (p196) gives only the total EMA rental income in SGD ($126,726,000) without the component split in SGD. Structurally, the SGD amounts could be computed from RMB using the disclosed FX rate but that would be derived — recorded only in RMB per the disclosure."
+    },
+    {
+      "column": "tenant_name (top_tenants)",
+      "reason": "Anonymised in the top-10 table — columns are labelled 'Tenant 1' through 'Tenant 10' with no names disclosed. Per-outlet major tenants are named (pp53,55,57,59) but without individual percentage contributions — not mappable to the top-10 ranked list."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Outlet sales by property (RMB million, FY2023)",
+      "value": {"Chongqing Liangjiang": 2541200000, "Chongqing Bishan": 400700000, "Hefei": 1037100000, "Kunming": 684600000, "Portfolio": 4663700000},
+      "currency": "RMB",
+      "page": 53,
+      "note": "Tenant outlet sales (not REIT revenue). Very material for EMA model — variable component is % of sales. No home in schema."
+    },
+    {
+      "item": "Variable Component rate by property",
+      "value": {"Chongqing Liangjiang": "4.0% of total sales", "Chongqing Bishan": "4.5% of total sales", "Hefei": "5.5% of total sales", "Kunming": "5.0% of total sales"},
+      "page": 51,
+      "note": "VC rate stipulated in EMA per property. Material for modelling EMA income sensitivity."
+    },
+    {
+      "item": "EMA Fixed Component (RMB) FY2023",
+      "value": 447500000,
+      "currency": "RMB",
+      "page": 51
+    },
+    {
+      "item": "EMA Variable Component (RMB) FY2023",
+      "value": 211000000,
+      "currency": "RMB",
+      "page": 51
+    },
+    {
+      "item": "Portfolio WALE by gross revenue",
+      "value": "1.2 years",
+      "page": 69
+    },
+    {
+      "item": "Portfolio WALE by NLA",
+      "value": "2.1 years",
+      "page": 69
+    },
+    {
+      "item": "Aggregate leverage",
+      "value": "25.3%",
+      "page": 24,
+      "note": "As at 31 December 2023"
+    },
+    {
+      "item": "Weighted average cost of debt",
+      "value": "5.6% per year",
+      "page": 24
+    },
+    {
+      "item": "Interest coverage ratio",
+      "value": "4.3 times",
+      "page": 24
+    },
+    {
+      "item": "NAV per Unit",
+      "value": 0.82,
+      "currency": "SGD",
+      "page": 23
+    },
+    {
+      "item": "Total portfolio VIP members",
+      "value": 3530000,
+      "page": 69,
+      "note": "As at 31 Dec 2023. VIP sales represent >60% of outlet sales."
+    },
+    {
+      "item": "Trade category by NLA — Portfolio",
+      "value": {"Fashion (Domestic)": 35.2, "International Brands": 14.7, "Sports": 13.7, "Large Tenants": 11.5, "Food & Beverage": 6.7, "Others": 18.3},
+      "page": 67,
+      "note": "Breakdown of trade category by NLA (% of NLA as at 31 Dec 23). No home — trade_mix.json contains only GR-basis."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "EMA rental income dual disclosure (SGD vs RMB)",
+      "detail": "Financial Review (p21) reports EMA rental income of $124,914,000 (excluding straight-line adjustments). Audited Statement of Total Return (p163) reports $126,726,000 (including straight-line adjustment of $1,812,000). Both are correct figures for different bases. Chosen: $126,726,000 (audited SOTR, including SL) as primary; $124,914,000 noted as alt.",
+      "resolution": "Audited SOTR figure ($126,726,000) wins. SL adjustment documented in income_components.json."
+    },
+    {
+      "trap": "Sasseur 'Gross Revenue' vs REIT revenue",
+      "detail": "The report uses 'Gross Revenue' (GR) in two distinct senses: (1) the EMA model GR = outlet tenant sales captured in bank accounts (denominator for EMA resultant rent calculation); (2) trade mix 'by Gross Revenue' = average monthly tenant-level gross revenue. Neither is the REIT's gross revenue (which is EMA rental income). Risk of conflating tenant GR with REIT revenue.",
+      "resolution": "trade_mix.json pct_basis_note explicitly flags this distinction for all rows."
+    },
+    {
+      "trap": "EMA Rental Income — three-layer figure",
+      "detail": "EMA Rental Income can be reported as: (a) RMB658.5M total EMA in RMB; (b) $124.9M excl. straight-line; (c) $126.7M incl. straight-line. The financial highlights (p3) and financial review (p21) use the excl. SL figure for YoY comparison; the audited SOTR uses the incl. SL figure.",
+      "resolution": "Audited SOTR figure used as primary in performance.json."
+    },
+    {
+      "trap": "Land tenure column: 'Leasehold' is correct enum value",
+      "detail": "Statement of Portfolio (p167) uses column header 'Leasehold' and all 4 properties are leasehold with Chinese land use rights. Expiry year only (not full date) disclosed — day 01 used per convention.",
+      "resolution": "land_tenure = 'Leasehold' (enum). lease_expiry_date = YYYY-01-01 with note. tenure_raw contains verbatim."
+    },
+    {
+      "trap": "Valuation dual currency (trap #19)",
+      "detail": "Each property has two valuations: SGD from audited Statement of Portfolio (p167) and RMB from property factsheets/valuation table (pp23, 64). The RMB figures match across both factsheets and the valuation table.",
+      "resolution": "SGD audited figure → market_valuation. RMB appraisal → alt_value with alt_value_currency='RMB'."
+    },
+    {
+      "trap": "No Portfolio Statement with tenure details — Statement of Portfolio used instead",
+      "detail": "Sasseur has a Statement of Portfolio (p167) which contains tenure, remaining term, lease expiry year, and valuations in both RMB and SGD. This is the audited source used for valuation and tenure.",
+      "resolution": "Statement of Portfolio at p167 is the authoritative source, equivalent to Portfolio Statement."
+    }
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": null,
+    "reported_total_gross_revenue": 126726000,
+    "sum_property_npi": null,
+    "reported_total_npi": null,
+    "property_count": 4,
+    "fx_rate_disclosed": "SGD:RMB = 1:5.3772 as at 31 December 2023 (p24 footnote 1)",
+    "sum_property_market_valuation_sgd": 1580190000,
+    "reported_portfolio_valuation_sgd": 1580190000,
+    "valuation_reconciles": true,
+    "sum_property_market_valuation_rmb": 8497000000,
+    "reported_portfolio_valuation_rmb": 8497000000,
+    "notes": [
+      "Per-property gross_revenue and NPI are null (EMA structural nulls) — sum reconciliation not applicable.",
+      "Valuation reconciles exactly: sum of 4 properties in SGD = $581,901k + $155,099k + $535,967k + $307,223k = $1,580,190k = reported total (p167). RMB: 3,129,000 + 834,000 + 2,882,000 + 1,652,000 = 8,497,000 RMB thousands = reported (p167).",
+      "net_distributable_income = $83,350,000. Amount distributed = $77,370,000. Retained = $5,980,000. Math checks out.",
+      "DPU: 1.849 + 1.473 + 1.512 + 1.415 = 6.249 cents per unit. Matches headline DPU (p3)."
+    ]
+  }
+}

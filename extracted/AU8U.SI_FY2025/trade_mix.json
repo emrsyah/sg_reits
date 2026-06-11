@@ -1,0 +1,263 @@
+[
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Retail (segment total)",
+    "pct": 69.3,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Business Parks (segment total)",
+    "pct": 27.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Logistics Parks (segment total)",
+    "pct": 3.7,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Food & Beverage",
+    "pct": 27.3,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Fashion & Accessories",
+    "pct": 11.9,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Beauty & Healthcare",
+    "pct": 4.1,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "IT & Telecommunications",
+    "pct": 3.3,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Leisure & Entertainment",
+    "pct": 3.2,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Services",
+    "pct": 3.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Sporting Goods & Apparel",
+    "pct": 2.9,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Supermarket",
+    "pct": 2.4,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Jewellery & Watches",
+    "pct": 2.4,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Gifts & Souvenirs",
+    "pct": 2.1,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Education",
+    "pct": 1.7,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Other Retail Trades",
+    "pct": 5.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Electronics",
+    "pct": 6.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Engineering",
+    "pct": 4.8,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Information & Communications Technology",
+    "pct": 3.2,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Professional Services",
+    "pct": 2.6,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Biomedical Sciences",
+    "pct": 2.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "E-Commerce (Business Parks)",
+    "pct": 1.9,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Culture / Sports / Entertainment",
+    "pct": 0.9,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Real Estate",
+    "pct": 0.8,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Financial Services",
+    "pct": 0.7,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Other Business Park Trades",
+    "pct": 4.1,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Logistics & Warehouse",
+    "pct": 2.3,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "E-Commerce (Logistics Parks)",
+    "pct": 1.3,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Manufacturing",
+    "pct": 0.1,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  },
+  {
+    "symbol": "AU8U.SI",
+    "fiscal_year": 2025,
+    "category": "Other Logistics Park Trades",
+    "pct": 0.0,
+    "pct_basis": "% of portfolio Gross Rental Income (GRI) as at 31 December 2025 ('Breakdown of CLCT Portfolio by Trade Sector', by GRI)",
+    "is_derived": false,
+    "source_page": 31
+  }
+]

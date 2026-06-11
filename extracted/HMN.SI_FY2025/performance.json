@@ -1,0 +1,47 @@
+{
+  "symbol": "HMN.SI",
+  "fiscal_year": 2025,
+  "portfolio_value": 7900000000,
+  "portfolio_value_note": "Headlined as S$7.9 billion (portfolio revalued at S$7.9 billion per p.21). This includes proportionate interests in the full portfolio. The Portfolio Statement total of investment properties + land & buildings for Stapled Group = S$7,637,513,000 (audited, p.143) before right-of-use assets. Portfolio valuation per p.21/highlights = S$7.9 billion.",
+  "portfolio_value_alt": 7637513000,
+  "portfolio_value_alt_basis": "Audited Portfolio Statement total (investment properties + freehold land & buildings, Stapled Group) in $'000 = 7,637,513",
+  "properties_location": "103 properties in 45 cities across 16 countries: Australia, Belgium, China, France, Germany, Indonesia, Ireland, Japan, Malaysia, The Philippines, South Korea, Singapore, Spain, United Kingdom, USA, Vietnam",
+  "gross_revenue": 837584000,
+  "gross_revenue_note": "Stapled Group FY2025 audited gross revenue = $837,584,000 (Note 22, p.213). Rounded headline = S$837.6 million (p.8). Tables in $'000.",
+  "net_property_income": null,
+  "net_property_income_note": "NPI not used in this trust; 'gross profit' plays NPI's role. Gross profit = $385,301,000 (Stapled Group, audited Statement of Total Return, p.114). Checked: Statement of Total Return (p.114), Note 22/23 (p.213-214), Financial Review (p.18-20). NPI line does not exist in any anchor section.",
+  "gross_profit": 385301000,
+  "gross_profit_note": "Gross profit = Gross revenue minus Direct expenses. Stapled Group FY2025 audited: $385,301,000. This is the primary income metric for CLAS (plays NPI's role). Per report: gross profit increased 4% YoY to S$385.3 million.",
+  "net_distributable_income": 256700000,
+  "net_distributable_income_note": "Income available for distribution to Stapled Securityholders for FY 2025 = S$256.7 million (p.20, financial review). Total distribution paid = S$233.5 million (retained S$23.2 million of non-periodic items). Headline: $256.7 million = income available for distribution.",
+  "total_distribution": 233500000,
+  "total_distribution_note": "Total distribution to Stapled Securityholders FY2025 = S$233.5 million (p.20). S$23.2 million of non-periodic items retained for AEIs/working capital.",
+  "dpu": 6.10,
+  "dpu_unit": "cents per stapled security",
+  "distribution_record": [
+    {
+      "period": "1 January 2025 to 30 June 2025",
+      "dpu": 2.526,
+      "ex_date": null,
+      "pay_date": "2025-08-29"
+    },
+    {
+      "period": "1 July 2025 to 31 December 2025",
+      "dpu": 3.576,
+      "ex_date": null,
+      "pay_date": "2026-02-27"
+    }
+  ],
+  "number_of_unitholders": 71313,
+  "number_of_unitholders_note": "As at 26 February 2026 (post-FYE date per standard practice). Source: Statistics of Stapled Securityholdings, p.291.",
+  "currency": "SGD",
+  "source_page": {
+    "gross_revenue": 114,
+    "gross_profit": 114,
+    "net_distributable_income": 20,
+    "total_distribution": 20,
+    "dpu": 8,
+    "portfolio_value": 21,
+    "number_of_unitholders": 291
+  }
+}

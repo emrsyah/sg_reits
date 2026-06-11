@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "issuer": "Frasers Centrepoint Trust",
+    "ticker": "J69U.SI",
+    "fy_end": "30 September 2025",
+    "currency": "SGD",
+    "unit": "amounts in $'000 unless stated"
+  },
+  "A": {
+    "gross_revenue": {
+      "v": 389603,
+      "p": 146,
+      "note": "From audited Statement of Total Return (Note 16 cross-ref). Also confirmed in per-property table on p34 and narrative on p8/35. Value in $'000."
+    },
+    "net_property_income": {
+      "v": 277980,
+      "p": 146,
+      "note": "From audited Statement of Total Return. Narrative on p35 rounds to $278.0 million. Value in $'000."
+    },
+    "distributable_income": {
+      "v": 233180,
+      "p": 147,
+      "note": "From audited Distribution Statement: 'Distributable income for the financial year'. Value in $'000."
+    },
+    "dpu_cents": {
+      "v": 12.113,
+      "p": 36,
+      "note": "Full Year FY25 DPU from Distribution per Unit table. Also confirmed on p147 of audited distribution statement."
+    },
+    "num_unitholders": {
+      "v": 17713,
+      "p": 216,
+      "note": "From Statistics of Unitholdings table ('Distribution of Holdings'), total as at 25 November 2025."
+    },
+    "portfolio_value": {
+      "v": 6449000,
+      "p": 37,
+      "note": "Total appraised value of FCT Group's investment property portfolio as at 30 September 2025: $6,449.0 million (directly-held properties only; excludes JV properties NEX and Waterway Point). Also confirmed on p145 financial statements (Investment properties $6,449,000). Value in $'000."
+    }
+  },
+  "B": {
+    "Causeway_Point": {
+      "gross_revenue": {
+        "v": 97704,
+        "p": 34,
+        "note": "From per-property gross revenue table. Value in $'000."
+      },
+      "npi": {
+        "v": 69931,
+        "p": 34,
+        "note": "From per-property NPI table. Value in $'000."
+      },
+      "valuation": {
+        "v": 1354000,
+        "p": 37,
+        "note": "Appraised value as at 30 September 2025 from valuation table. Value in $'000."
+      },
+      "committed_occupancy_pct": {
+        "v": 92.3,
+        "p": 29,
+        "note": "As at 30 September 2025 from committed occupancy by property table."
+      },
+      "land_tenure": {
+        "v": "99-year leasehold commencing 30 October 1995",
+        "p": 68,
+        "note": "From portfolio overview table."
+      }
+    },
+    "NEX": {
+      "gross_revenue": {
+        "v": 133701,
+        "p": 71,
+        "note": "From NEX mall performance highlights table. On 100.0% basis (FCT owns 50.0% effective interest). Value in $'000."
+      },
+      "npi": {
+        "v": 102252,
+        "p": 71,
+        "note": "From NEX mall performance highlights table. On 100.0% basis. Value in $'000."
+      },
+      "valuation": {
+        "v": 2141000,
+        "p": 37,
+        "note": "Appraised value as at 30 September 2025, on 100.0% basis. FCT's 50.0% interest amounts to $1,070.5 million. Value in $'000."
+      },
+      "committed_occupancy_pct": {
+        "v": 100.0,
+        "p": 29,
+        "note": "As at 30 September 2025 from committed occupancy by property table."
+      },
+      "land_tenure": {
+        "v": "99-year leasehold commencing 26 June 2008",
+        "p": 68,
+        "note": "From portfolio overview table."
+      }
+    },
+    "Century_Square": {
+      "gross_revenue": {
+        "v": 35886,
+        "p": 34,
+        "note": "From per-property gross revenue table. Value in $'000. Note: a duplicate row showing $36,545 also appears in the same table; the $35,886 figure is consistent with the portfolio overview table on p68 and is the canonical figure (duplicate rows appear to be a PDF rendering artifact)."
+      },
+      "npi": {
+        "v": 26075,
+        "p": 34,
+        "note": "From per-property NPI table. Value in $'000."
+      },
+      "valuation": {
+        "v": 563000,
+        "p": 37,
+        "note": "Appraised value as at 30 September 2025. Value in $'000."
+      },
+      "committed_occupancy_pct": {
+        "v": 91.8,
+        "p": 29,
+        "note": "As at 30 September 2025. Lower than FY24's 100.0% due to exit of Cathay Cineplexes."
+      },
+      "land_tenure": {
+        "v": "99-year leasehold commencing 1 September 1992",
+        "p": 68,
+        "note": "From portfolio overview table."
+      }
+    },
+    "Waterway_Point": {
+      "gross_revenue": {
+        "v": 86183,
+        "p": 77,
+        "note": "From Waterway Point mall performance highlights table. On 100.0% basis (FCT owns 50.0% interest in SST which holds Waterway Point). Value in $'000."
+      },
+      "npi": {
+        "v": 64484,
+        "p": 77,
+        "note": "From Waterway Point mall performance highlights table. On 100.0% basis. Value in $'000."
+      },
+      "valuation": {
+        "v": 1331000,
+        "p": 37,
+        "note": "Appraised value as at 30 September 2025, on 100.0% basis. FCT's 50.0% interest amounts to $665.5 million. Value in $'000."
+      },
+      "committed_occupancy_pct": {
+        "v": 100.0,
+        "p": 29,
+        "note": "As at 30 September 2025 from committed occupancy by property table."
+      },
+      "land_tenure": {
+        "v": "99-year leasehold commencing 18 May 2011",
+        "p": 68,
+        "note": "From portfolio overview table."
+      }
+    },
+    "Tiong_Bahru_Plaza": {
+      "gross_revenue": {
+        "v": 44502,
+        "p": 34,
+        "note": "From per-property gross revenue table. Value in $'000. A duplicate row showing $44,504 also appears; $44,502 is consistent with portfolio overview table on p68."
+      },
+      "npi": {
+        "v": 33335,
+        "p": 34,
+        "note": "From per-property NPI table. Value in $'000. Confirmed by duplicate row (same value $33,335)."
+      },
+      "valuation": {
+        "v": 665000,
+        "p": 37,
+        "note": "Appraised value as at 30 September 2025. Value in $'000."
+      },
+      "committed_occupancy_pct": {
+        "v": 99.2,
+        "p": 29,
+        "note": "As at 30 September 2025 from committed occupancy by property table."
+      },
+      "land_tenure": {
+        "v": "99-year leasehold commencing 1 September 1991",
+        "p": 68,
+        "note": "From portfolio overview table."
+      }
+    }
+  },
+  "C": {
+    "top3_tenants": [
+      {
+        "name": "NTUC FairPrice",
+        "contribution_pct": 6.0,
+        "basis_wording": "As % of total GRI",
+        "p": 29,
+        "note": "Table header 'As % of total GRI' in 'Top 10 tenants by GRI as at 30 September 2025'. Footnote 10 defines GRI as Gross Rental Income."
+      },
+      {
+        "name": "BreadTalk Group",
+        "contribution_pct": 3.2,
+        "basis_wording": "As % of total GRI",
+        "p": 29,
+        "note": "Same table and basis as above."
+      },
+      {
+        "name": "Dairy Farm Group",
+        "contribution_pct": 1.8,
+        "basis_wording": "As % of total GRI",
+        "p": 29,
+        "note": "Same table and basis as above."
+      }
+    ]
+  },
+  "D": {
+    "gross_revenue_breakdown": [
+      {
+        "label": "Gross rental income",
+        "amount": 351360,
+        "p": 186,
+        "note": "From Note 16 Gross Revenue in financial statements. Value in $'000."
+      },
+      {
+        "label": "Gross turnover rental income",
+        "amount": 15779,
+        "p": 186,
+        "note": "From Note 16 Gross Revenue. Value in $'000."
+      },
+      {
+        "label": "Car park income",
+        "amount": 7880,
+        "p": 186,
+        "note": "From Note 16 Gross Revenue. Value in $'000."
+      },
+      {
+        "label": "Others",
+        "amount": 14584,
+        "p": 186,
+        "note": "From Note 16 Gross Revenue. Value in $'000."
+      }
+    ],
+    "property_mgmt_fee": {
+      "v": 14903,
+      "p": 186,
+      "note": "From Note 17 Property expenses: 'Property management fees'. Value in $'000."
+    },
+    "property_mgmt_fee_reimbursement": {
+      "v": 15495,
+      "p": 186,
+      "note": "From Note 17 Property expenses: 'Property management reimbursements'. Footnote (1) states: 'Relates to reimbursement of staff costs paid/payable under the respective property management agreements to Frasers Property Retail Management Pte. Ltd.' Value in $'000."
+    }
+  },
+  "E": {
+    "NEX_acquisition": [
+      {
+        "phase": 1,
+        "stake_pct": 25.5,
+        "price_value": 529800,
+        "buyer": "Frasers Centrepoint Trust",
+        "seller": null,
+        "p": 68,
+        "note": "25.5% effective interest in GRPL (which holds NEX) acquired on 6 February 2023. Price $529.8 million from portfolio overview table. Seller not explicitly named in the report for this phase. Value in $'000."
+      },
+      {
+        "phase": 2,
+        "stake_pct": 24.5,
+        "price_value": 331011,
+        "buyer": "Frasers Centrepoint Trust",
+        "seller": "FPL (Frasers Property Limited)",
+        "p": 175,
+        "note": "Additional 24.5% effective interest in GRPL acquired on 26 March 2024 ('NEX Acquisition'). The Trust entered into a share purchase agreement with FPL to acquire all ordinary shares in FCL Emerald (1) Pte. Ltd. which holds 49.0% interest in each of NP Trust and FP Coral. Total acquisition outlay approximately $331,011,000 (including transaction costs and completion adjustments). Portfolio overview table (p68) shows purchase price $521.1 million for additional 24.5% interest; the $331,011 is the actual acquisition outlay per Note 7 — the $521.1M figure on p68 reflects the total value of the stake including the intercompany debt repayment. Value in $'000."
+      }
+    ],
+    "Northpoint_City_South_Wing_acquisition": {
+      "stake_pct": 100.0,
+      "price_value": 1133000,
+      "acquisition_outlay": 393238,
+      "purchase_consideration": 380660,
+      "buyer": "Frasers Centrepoint Trust",
+      "seller": "FCL Amber Pte. Ltd. (subsidiary of FPL, 50%) and Bright Bloom Capital Limited (subsidiary of TCC Prosperity Limited, 50%)",
+      "p": 176,
+      "note": "Acquisition completed 26 May 2025. FCT acquired 100.0% interest in North Gem Trust (NG Trust) and its trustee-manager Frasers Property North Gem Trustee Pte. Ltd. Agreed property value $1,133.0 million (per p33). Total acquisition outlay ~$393,238,000 (incl. transaction costs). Purchase consideration $380,660,000. Sellers: FCL Amber Pte. Ltd. sold 50% of NG Trust units (wholly-owned subsidiary of FPL); Bright Bloom Capital Limited sold remaining 50% of NG Trust units (wholly-owned subsidiary of TCC Prosperity Limited). Values in $'000."
+    },
+    "Yishun10_divestment": {
+      "price_value": 34500,
+      "buyer": "Lion (Singapore) Pte. Limited",
+      "seller": "Frasers Centrepoint Trust",
+      "p": 37,
+      "note": "Yishun 10 Retail Podium (10 strata units at Yishun 10 Cinema Complex) divested on 23 September 2025 for total consideration of $34.5 million. Buyer: Lion (Singapore) Pte. Limited. Negotiated on willing-buyer willing-seller basis after taking into account average of two independent valuations of $34.0 million and $35.0 million as at 31 May 2025. Value in $'000."
+    }
+  }
+}

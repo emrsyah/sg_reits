@@ -1,0 +1,13 @@
+[
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Banking, insurance and financial services", "pct": 34.8, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43, "note": "Portfolio Tenant Business Sector Analysis by Committed Monthly Gross Rent (%), as at 31 December 2025 (p43). Includes Top Ryde City Shopping Centre."},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "TMT", "pct": 13.8, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Government agency", "pct": 10.8, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Energy, natural resources, shipping and marine", "pct": 7.7, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Retail and F&B", "pct": 7.0, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43, "note": "Includes Top Ryde City Shopping Centre (table footnote 1)."},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Legal", "pct": 6.7, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Manufacturing and distribution", "pct": 6.2, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Real estate and property services", "pct": 5.6, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Accounting and consultancy services", "pct": 4.6, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Services", "pct": 1.8, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43},
+  {"symbol": "K71U.SI", "fiscal_year": 2025, "category": "Others", "pct": 1.0, "pct_basis": "committed_gross_rent", "is_derived": false, "source_page": 43, "note": "Total = 100.0%. A parallel sector breakdown by Committed NLA is also disclosed on p43 (Banking 28.4, TMT 14.1, Government 13.4, Retail&F&B 12.7, etc.) -- not duplicated here; primary basis taken is committed monthly gross rent."}
+]

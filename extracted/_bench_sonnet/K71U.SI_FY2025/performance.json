@@ -1,0 +1,50 @@
+{
+  "symbol": "K71U.SI",
+  "fiscal_year": "FY2025",
+  "portfolio_value": 11657085000,
+  "properties_location": ["Singapore", "Australia", "South Korea", "Japan"],
+  "gross_revenue": 274478000,
+  "net_property_income": 215905000,
+  "net_distributable_income": 212406000,
+  "dpu": 5.23,
+  "distribution_record": [
+    {
+      "period": "1H 2025 (1 January 2025 to 30 June 2025)",
+      "dpu": 2.72,
+      "ex_date": null,
+      "pay_date": "15 September 2025"
+    },
+    {
+      "period": "2H 2025 advanced (1 July 2025 to 16 October 2025)",
+      "dpu": 1.63,
+      "ex_date": null,
+      "pay_date": "25 November 2025"
+    },
+    {
+      "period": "2H 2025 final (17 October 2025 to 31 December 2025)",
+      "dpu": 0.88,
+      "ex_date": null,
+      "pay_date": "25 March 2026"
+    }
+  ],
+  "number_of_unitholders": 75437,
+  "currency": "SGD",
+  "source_page": {
+    "portfolio_value": 123,
+    "gross_revenue": 63,
+    "net_property_income": 63,
+    "net_distributable_income": 63,
+    "dpu": 7,
+    "number_of_unitholders": 217
+  },
+  "_notes": {
+    "portfolio_value": "S$11,657,085,000 per Portfolio Statement p123 (audited). This is the headlined ~$11.7 billion including proportionate JV interests (ORQ, MBFC T1&2+MBLM, MBFC T3, 8 Chifley, DMJC at their attributable valuations). The balance-sheet investment-properties figure (consolidated only) is $5,573,016,000.",
+    "gross_revenue": "Report labels this 'property income', $274,478,000 — the consolidated income for directly-held properties only. Attributable NPI $381,364,000 includes JV NPI but the 'gross revenue' equivalent at attributable level is not separately disclosed.",
+    "net_property_income": "Consolidated NPI $215,905,000 (directly-held properties only). Attributable NPI to Unitholders including JV share and rental support = $381,364,000 (p178). Trap #8 applies: both figures are printed. Consolidated figure stored as primary per schema; alt_value documented.",
+    "alt_value_net_property_income": 381364000,
+    "alt_basis_net_property_income": "attributable to unitholders including JV share of NPI and rental support",
+    "net_distributable_income": "Distribution to Unitholders from Distribution Statement p121 = $212,406,000. This is distributions paid/payable in FY2025 per income statement. Income available for distribution for FY2025 (excluding opening balance) = $212,406,000 from Distribution Statement line.",
+    "dpu": "5.23 cents total = 2.72 cents 1H + 2.51 cents 2H. 2H comprised advanced distribution of 1.63 cents (1 Jul to 16 Oct 2025) + 0.88 cents (17 Oct to 31 Dec 2025). DPU inclusive of new Units issued 19 January 2026 from Preferential Offering.",
+    "number_of_unitholders": "75,437 as at 27 February 2026 (post-FYE date as expected; p217)"
+  }
+}

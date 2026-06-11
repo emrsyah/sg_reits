@@ -1,0 +1,113 @@
+[
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 1,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 3.5,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71,
+    "notes": "Tenant names are anonymised in the top-10 table (columns labelled Tenant 1–10). Trade category and % of portfolio gross revenue disclosed. GR footnote (p67): GR = average monthly gross revenue Jan-Dec 2023. Report discloses per-outlet 'major tenants by gross revenue' (p53,55,57,59) but these are not ranked with percentages — not loaded as top_tenants rows. Top 10 aggregate = 14.4% of portfolio GR; no single tenant > 5% GR."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 2,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 1.7,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 3,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 1.3,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 4,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 1.3,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 5,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 1.2,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 6,
+    "tenant_name": null,
+    "trade_sector": "Fashion (Domestic)",
+    "gri_percentage": 1.1,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 7,
+    "tenant_name": null,
+    "trade_sector": "International Brand",
+    "gri_percentage": 1.1,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 8,
+    "tenant_name": null,
+    "trade_sector": "Fashion (Domestic)",
+    "gri_percentage": 1.0,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 9,
+    "tenant_name": null,
+    "trade_sector": "Fashion (Domestic)",
+    "gri_percentage": 1.0,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "rank": 10,
+    "tenant_name": null,
+    "trade_sector": "Sports",
+    "gri_percentage": 1.0,
+    "pct_basis": "gross_revenue",
+    "pct_nla": null,
+    "source_page": 71
+  }
+]

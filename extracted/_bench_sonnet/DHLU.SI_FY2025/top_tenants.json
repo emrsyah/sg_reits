@@ -1,0 +1,117 @@
+[
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 1,
+    "tenant_name": "Mitsubishi Shokuhin",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 24.5,
+    "source_page": 50,
+    "notes": "% basis is NPI for FY2025, allocated to tenants by proportion of NLA occupied in property per footnote 4 p50. Mitsubishi Shokuhin uses space across 3 properties (D Project Maebashi S, DPL Kawasaki Yako, DPL Ibaraki Yuki based on factsheet disclosures). WALE for Mitsubishi Shokuhin across 3 properties: ~8.7 years as at 31 Dec 2025 per p50."
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 2,
+    "tenant_name": "Suntory Logistics",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 8.4,
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 3,
+    "tenant_name": "Meito Vietnam",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 5.5,
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 4,
+    "tenant_name": "Nippon Express",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 5.3,
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 5,
+    "tenant_name": null,
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 4.1,
+    "source_page": 50,
+    "notes": "Anonymised as 'Tenant A' — tenant has not given consent to disclosure per footnote 5 p50."
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 6,
+    "tenant_name": "Create SD",
+    "trade_sector": "Retail",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 3.9,
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 7,
+    "tenant_name": null,
+    "trade_sector": "E-commerce",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 3.8,
+    "source_page": 50,
+    "notes": "Anonymised as 'Tenant B' — tenant has not given consent to disclosure per footnote 5 p50."
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 8,
+    "tenant_name": "K.R.S Corporation",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 3.7,
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 9,
+    "tenant_name": null,
+    "trade_sector": "Retail",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 3.7,
+    "source_page": 50,
+    "notes": "Anonymised as 'Tenant C' — tenant has not given consent to disclosure per footnote 5 p50."
+  },
+  {
+    "symbol": "DHLU.SI",
+    "fiscal_year": "FY2025",
+    "rank": 10,
+    "tenant_name": "Tokyo Logistics Factory",
+    "trade_sector": "3PL",
+    "gri_percentage": null,
+    "pct_basis": "npi",
+    "pct_npi": 3.6,
+    "source_page": 50,
+    "notes": "Top 10 tenants combined = 66.6% of NPI per p50 table total row. Basis: % of NPI for FY2025, calculated and adjusted based on NPI of each property and allocated to respective tenants by proportion of NLA occupied per footnote 4. gri_percentage checked at p50: only NPI-basis disclosed; no GRI-basis top-tenant table found in document."
+  }
+]

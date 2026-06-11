@@ -1,0 +1,123 @@
+{
+  "symbol": "Q5T.SI",
+  "fiscal_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "occupancy_rate (hotel/SR properties)",
+      "reason": "Master-lease structure: the master lessees are the tenants; no hotel/SR occupancy is disclosed by the REIT. Trap #18 applies. Commercial Premises average occupancy disclosed at portfolio level (91.1%) but not per individual property."
+    },
+    {
+      "column": "net_property_income (per property)",
+      "reason": "Master-lease structure: segment NPI is disclosed only at aggregate level (Hotels & SRs: $81,876,000; Commercial Premises: $14,705,000). No per-property NPI split disclosed anywhere in the report. Checked: audited income statement p150, segment reporting p211, factsheets p24-30."
+    },
+    {
+      "column": "lease_expiry_date (Singapore land leases)",
+      "reason": "Portfolio Statement (p157) discloses remaining term only (e.g. '62 years remaining'), not the lease commencement date. Without the start date the expiry year cannot be determined with confidence. tenure_raw preserves the verbatim remaining-term information. Checked: Portfolio Statement p157-158, all property factsheets p24-29."
+    },
+    {
+      "column": "gri_percentage (master lessees as top tenants)",
+      "reason": "The 12 master lessees (hotel/SR segment) contribute 83.6% of total trust gross revenue but are not ranked or shown as percentages in any top-tenants table. The top tenants table (p45) covers only Commercial Premises tenants (124 retail/office tenants). Schema can hold master lessee names in major_tenant field on each property row."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Commercial Premises average occupancy",
+      "value": "91.1% (FY2025), up 5.3 pp year-on-year",
+      "page": 10
+    },
+    {
+      "item": "Commercial Premises average rental rate per sqm",
+      "value": "S$8.93 per square foot (FY2025)",
+      "page": 10
+    },
+    {
+      "item": "Commercial Premises WALE",
+      "value": "1.34 years as at 31 December 2025 (down from 1.67 years)",
+      "page": 44
+    },
+    {
+      "item": "Singapore hotels average occupancy",
+      "value": "Average occupancy increased marginally by 0.3 pp year-on-year (FY2025). No absolute figure disclosed.",
+      "page": 10
+    },
+    {
+      "item": "Singapore hotels ADR",
+      "value": "S$170 (FY2025), down 4.1% year-on-year",
+      "page": 10
+    },
+    {
+      "item": "Singapore hotels RevPAR",
+      "value": "Declined 3.8% year-on-year (FY2025). No absolute figure disclosed.",
+      "page": 10
+    },
+    {
+      "item": "Serviced Residences average occupancy",
+      "value": "81.5% (FY2025)",
+      "page": 10
+    },
+    {
+      "item": "Serviced Residences ADR",
+      "value": "S$270 (FY2025)",
+      "page": 10
+    },
+    {
+      "item": "Four Points Nagoya RevPAR (JPY)",
+      "value": "JPY 7,983 (May-Dec 2025), up 6.0% year-on-year over corresponding period",
+      "page": 10
+    },
+    {
+      "item": "Aggregate leverage",
+      "value": "33.0% as at 31 December 2025 (based on 50% limit)",
+      "page": 46
+    },
+    {
+      "item": "Distribution of other gains (capital distribution)",
+      "value": "S$7,928,000 (0.39 cents per security) - final capital distribution from Central Square divestment (March 2022)",
+      "page": 152
+    },
+    {
+      "item": "Fair value change in investment properties (Stapled Group)",
+      "value": "-$27,371,000 (2025 vs -$12,421,000 in 2024) — loss to total return",
+      "page": 150
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Two portfolio values exist",
+      "detail": "Stapled Group: $2,494,300,000 (Japan hotel reclassified to PP&E). Far East H-REIT Group: $2,558,268,000 (Japan hotel as investment property at valuation). REFERENCE.md rule: portfolio_value = headlined portfolio valuation including proportionate JV interests. The H-REIT Group figure ($2,558,268,000) is used as it represents all properties as investment properties consistently. The Stapled Group reclassification is an accounting treatment difference (owner-managed vs investment property), not an economic difference.",
+      "page": 157
+    },
+    {
+      "trap": "Master lease rental discrepancy H-REIT vs Stapled Group",
+      "detail": "H-REIT Group shows master lease rental of $87,571,000; Stapled Group shows $86,138,000. The $1,433,000 difference ($1,411,000 per Note 20 = H-BT to H-REIT Japan master lease) is eliminated on consolidation. Both figures are audited and correct at their respective entity level.",
+      "page": 150
+    },
+    {
+      "trap": "Japan hotel gross revenue: factsheet vs audited statement",
+      "detail": "Factsheet p30 shows 'Gross revenue for FY 2025 (S$ million): 6.9' with footnote 1 indicating partial year (from acquisition date). Audited Statement shows H-BT Group hotel revenue = $6,764,000 (Stapled Group) or $6,786,000 (rounded). These are consistent (~$6.8m-6.9m) with rounding. Factsheet figure used in properties.json as it is property-level disclosure.",
+      "page": 30
+    },
+    {
+      "trap": "Term of lease = land lease, not tenant lease",
+      "detail": "Portfolio Statement 'Term of lease' column (e.g. '75 years', '65 years') refers to the REIT's land lease, not master lease tenancy. These are stored as lease_term_years and tenure_raw. The master lease tenancy term (20 years initial + 20-year option per Note 24) is not a land tenure figure.",
+      "page": 157
+    },
+    {
+      "trap": "FPN Japan hotel PP&E vs investment property dual classification",
+      "detail": "At H-REIT Group: FPN = investment property at $63,968,000. At Stapled Group: FPN reclassified to PP&E (land & building) at cost less depreciation = $59,211,000 because it is leased to H-BT's subsidiary to operate as owner-managed hotel. Valuation precedence: H-REIT audited investment property figure ($63,968,000) used for market_valuation; JPY 7,790 million appraisal stored as alt_value.",
+      "page": 157
+    }
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 111400000,
+    "reported_total_gross_revenue": 111400000,
+    "gross_revenue_diff": 0,
+    "sum_property_gross_revenue_detail": "Sum of 13 factsheet property gross revenues: Oasia Hotel Downtown 11.9m + Oasia Hotel Novena 11.2m + Rendezvous Hotel Singapore 11.5m + Orchard Rendezvous Hotel 19.1m + The Quincy Hotel 2.9m + Vibe Hotel Singapore Orchard 6.8m + Village Hotel Albert Court 5.6m + Village Hotel Bugis 11.8m + Village Hotel Changi 8.2m + Village Residence Hougang 2.7m + Adina Serviced Apartments 7.7m + Village Residence Robertson Quay 5.1m + Four Points Nagoya 6.9m = S$111.4m",
+    "sum_property_npi": null,
+    "reported_total_npi": 96581000,
+    "npi_reconciliation_note": "Per-property NPI not disclosed; sum cannot be computed. Reported total NPI (Stapled Group) = $96,581,000 from audited Statement of Total Return p150.",
+    "property_count": 13,
+    "fx_rate_disclosed": null,
+    "fx_rate_note": "No explicit JPY/SGD exchange rate disclosed in the report. Inferred rate: $63,968,000 SGD / 7,790,000,000 JPY = approx 0.00821 SGD per JPY (~121.8 JPY per SGD). This is derived, not stored."
+  }
+}

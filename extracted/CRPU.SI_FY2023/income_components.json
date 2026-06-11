@@ -1,0 +1,71 @@
+[
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "revenue",
+    "component": "ema_fixed",
+    "amount": null,
+    "amount_rmb": 447500000,
+    "currency": "RMB",
+    "label_raw": "Fixed Component",
+    "source_page": 51,
+    "notes": "RMB447.5 million fixed component of EMA Resultant Rent for FY2023 (p51, EMA Rental Income table in RMB). SGD equivalent not separately disclosed — only the total EMA rental income is published in SGD. Anchors checked: Note 13 (p196) gives only total EMA rental income of $126,726,000; the financial review table (p21) gives total in $'000 but not split between fixed/variable in SGD."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "revenue",
+    "component": "ema_variable",
+    "amount": null,
+    "amount_rmb": 211000000,
+    "currency": "RMB",
+    "label_raw": "Variable Component",
+    "source_page": 51,
+    "notes": "RMB211.0 million variable component of EMA Resultant Rent for FY2023 (p51). SGD equivalent not separately disclosed. Variable component is pegged to outlet sales: 4.0% (Chongqing Liangjiang), 4.5% (Chongqing Bishan), 5.5% (Hefei), 5.0% (Kunming) of respective outlet total sales."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "revenue",
+    "component": "other",
+    "amount": 126726000,
+    "amount_rmb": 658500000,
+    "currency": "SGD",
+    "label_raw": "EMA rental income¹",
+    "source_page": 163,
+    "notes": "Total EMA rental income including straight-line adjustments per audited Consolidated Statement of Total Return (p163). Footnote 1: 'The Group receives EMA rental income under the Entrusted Management Agreement (EMA), and all the operating expenses of the properties are borne by the Entrusted Manager.' Excluding straight-line adjustments = $124,914,000 (Note 13, p196). RMB total = RMB658.5 million (p11 highlights, p51). Note: the straight-line adjustment is $(1,812,000) for FY2023."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "adjustment",
+    "component": "straight_line_rent",
+    "amount": -1812000,
+    "currency": "SGD",
+    "label_raw": "Net effect of straight-line adjustments",
+    "source_page": 182,
+    "notes": "From Note 4 Investment Properties (p182): net effect of straight-line adjustments = $(1,812,000) for FY2023. This adjustment is included in the carrying value of investment properties and presented within fair value adjustments line in the audited statement (total fair value adjustment in P&L = $(3,101,000) = $(1,289,000) change in fair value + $(1,812,000) SL adjustment)."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "expense",
+    "component": "property_mgmt_fee",
+    "amount": -8335000,
+    "currency": "SGD",
+    "label_raw": "REIT Manager's management fees",
+    "source_page": 163,
+    "notes": "REIT Manager's management fees per audited Consolidated Statement of Total Return p163. Base fee only (no performance fee payable for FY2023). 100% paid in Units."
+  },
+  {
+    "symbol": "CRPU.SI",
+    "fiscal_year": 2023,
+    "statement": "expense",
+    "component": "other",
+    "amount": -1268000,
+    "currency": "SGD",
+    "label_raw": "Other trust expenses",
+    "source_page": 163,
+    "notes": "Other trust expenses per audited Consolidated Statement of Total Return p163. Includes audit fees ($389k), non-audit fees ($133k), legal expenses ($82k), valuation and professional fees ($231k), other ($433k). Also Trustee's fees of $(321,000) are separately presented."
+  }
+]
