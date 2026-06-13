@@ -1,13 +1,25 @@
 {
   "symbol": "C38U.SI",
-  "sub_sector": "Retail",
+  "sub_sector": "Diversified",
   "income_model": "conventional",
   "management": [
-    {"role": "reit_manager", "company_name": "CapitaLand Integrated Commercial Trust Management Limited"},
-    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
-    {"role": "property_manager", "company_name": "CapitaLand Retail Management Pte Ltd"},
-    {"role": "sponsor", "company_name": "CapitaLand Investment Limited"}
+    {
+      "role": "reit_manager",
+      "company_name": "CapitaLand Integrated Commercial Trust Management Limited"
+    },
+    {
+      "role": "trustee",
+      "company_name": "HSBC Institutional Trust Services (Singapore) Limited"
+    },
+    {
+      "role": "property_manager",
+      "company_name": "CapitaLand Retail Management Pte Ltd"
+    },
+    {
+      "role": "sponsor",
+      "company_name": "CapitaLand Investment Limited"
+    }
   ],
-  "source_page": {"reit_manager": 5, "trustee": 9, "property_manager": 9, "sponsor": 102},
+  "source_page": 9,
   "note": "sub_sector judged Retail: CICT self-classifies as Singapore's largest commercial (retail + office + integrated) trust; retail GR subtotal 607.8m is the single largest asset-class line vs office 525.3m and integrated 486.1m (p25), and retail anchors the integrated developments. 'Diversified' is defensible (3 asset classes, 3 countries) and noted as an alternative for the schema owner. income_model = conventional (direct rental leases; no master-lease/EMA structure). management: reit_manager/trustee from governance pages 5/9 and Report of the Trustee p105; property_manager (CapitaLand Retail Management Pte Ltd) is the lead PM listed for Singapore retail/office/integrated assets on p9 (overseas assets use local PMs, not separately named at entity level); sponsor CLI per p102 sustainability section."
 }

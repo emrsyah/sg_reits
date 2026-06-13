@@ -1,0 +1,123 @@
+{
+  "symbol": "AJBU.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI not disclosed by Keppel DC REIT. Only segment-level NPI disclosed (Fully-fitted Colocation S$297.9m, Single Tenant S$58.6m, Shell and Core S$26.8m) per financial review page 46. This is structural for this REIT."
+    },
+    {
+      "column": "property.gla",
+      "reason": "Gross Lettable Area not disclosed for data centre properties. The metric used is 'Attributable Lettable Area (sq ft)' captured in nla. gla is structurally absent for this sub-sector."
+    },
+    {
+      "column": "property.major_tenant",
+      "reason": "All clients are fully anonymised per page 39 footnote 2 (commercial confidentiality and security concerns). No per-property major tenant names disclosed. Anonymised descriptors captured at REIT level in top_tenants.json."
+    },
+    {
+      "column": "property.trade_mix",
+      "reason": "Per-property trade mix not disclosed. Only portfolio-level client trade sector breakdown disclosed. This is structural."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Contract-type mix by rental income",
+      "value": "Fully-fitted (Colocation) 72.7%, Fully-fitted (Single Tenant) 21.2%, Shell and Core 6.1%",
+      "source_page": 39,
+      "note": "Per 'RENTAL INCOME BREAKDOWN BY TYPE OF CONTRACT'. Not trade mix; DC-specific contract structure data. Cannot fit trade_mix schema (wrong taxonomy level)."
+    },
+    {
+      "item": "Gross Revenue by contract type (S$m)",
+      "value": "Fully-fitted (Colocation) 328.1, Fully-fitted (Single Tenant) 80.7, Shell and Core 32.6, Total 441.4",
+      "source_page": 46
+    },
+    {
+      "item": "NPI by contract type (S$m)",
+      "value": "Fully-fitted (Colocation) 297.9, Fully-fitted (Single Tenant) 58.6, Shell and Core 26.8, Total 383.3",
+      "source_page": 46
+    },
+    {
+      "item": "Portfolio occupancy rate",
+      "value": "95.8% as at 31 December 2025",
+      "source_page": 4
+    },
+    {
+      "item": "WALE by lettable area",
+      "value": "6.7 years as at 31 December 2025",
+      "source_page": 4
+    },
+    {
+      "item": "WALE by rental income",
+      "value": "4.9 years as at 31 December 2025",
+      "source_page": 4
+    },
+    {
+      "item": "Total attributable lettable area",
+      "value": "2,721,198 sq ft as at 31 December 2025 (25 data centres, 10 countries)",
+      "source_page": 39
+    },
+    {
+      "item": "Aggregate leverage",
+      "value": "35.3% as at 31 December 2025 (excludes lease liabilities)",
+      "source_page": 8
+    },
+    {
+      "item": "NetCo bonds held for sale",
+      "value": "S$75.4m classified as asset held for sale (Note 4(iii)). Sale and purchase agreement entered 11 Aug 2025.",
+      "source_page": 127
+    },
+    {
+      "item": "Number of unique clients",
+      "value": "75 as at 31 December 2025",
+      "source_page": 39
+    },
+    {
+      "item": "Hyperscaler rental income share",
+      "value": "69.3% as at 31 December 2025",
+      "source_page": 6
+    },
+    {
+      "item": "KDC SGP 7/8 lease extension disclosure",
+      "value": "S$350m paid Dec 2025 for 10-year extension to 15 Jul 2050. Capitalised as investment property addition. Explains why Tier C exceeds Tier A/B for these assets.",
+      "source_page": 36
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "SGP 7/8 Tier C > Tier B valuation",
+      "description": "KDC SGP 7 Tier C=750,077k vs Tier B=744.0m; KDC SGP 8 Tier C=801,759k vs Tier B=796.0m. The S$350m lease extension consideration paid Dec 2025 was capitalised into investment properties (Note 4(i)(b)). Tier C includes lease liabilities for extension offers (Portfolio Statement footnote 3). Tier C used as market_valuation per skill rules; Tier B in alt_value."
+    },
+    {
+      "trap": "NCI on SGP 3, SGP 4, SGP 5, Tokyo DC 1, Tokyo DC 3",
+      "description": "KDC SGP 3: 90% owned (10% NCI); KDC SGP 4: 99% owned (1% NCI); KDC SGP 5: 99% owned (1% NCI); Tokyo DC 1 & DC 3: 98.47% owned (1.53% NCI). Portfolio Statement shows 100%-consolidated carrying values. value_basis=consolidated on all these records. Attributable gross revenues from factsheets reflect REIT's proportionate interest."
+    },
+    {
+      "trap": "Basis Bay in held_for_sale block",
+      "description": "Basis Bay DC classified as investment property held for sale since 2024 (Note 4(ii)). Carrying value 17,092k includes FX translation gains. Status=held_for_sale. Included in 6,150,492k total investment properties including held-for-sale."
+    },
+    {
+      "trap": "Kelsterbach DC zero at year-end",
+      "description": "Kelsterbach DC divested 24 Mar 2025. Zero carrying value at 31 Dec 2025. Partial-year revenue contribution included in consolidated totals but per-property gross revenue not separately disclosed for divested period."
+    },
+    {
+      "trap": "Guangdong DC loss allowances",
+      "description": "Rental income from Guangdong DCs and corresponding loss allowances recognised under 'Gross Revenue' and 'Property Expenses' respectively (page 41 footnote). Net impact on NPI should be considered. Per-property NPI not disclosed."
+    },
+    {
+      "trap": "Per-property gross revenues in millions (factsheet vs audited)",
+      "description": "Per-property 'Attributable Gross Revenue' on pages 40-44 are approximate million-dollar figures. Sum does not exactly reconcile to audited 441,362k due to: (1) rounding; (2) Kelsterbach contribution before Mar 2025 divestment not separately shown; (3) attributable vs consolidated differences."
+    }
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue_sgd": 433500000,
+    "reported_total_gross_revenue_sgd": 441362000,
+    "difference_sgd": 7862000,
+    "difference_pct": 1.78,
+    "reconciliation_status": "EXPLAINED",
+    "explanation": "Gap of S$7.9m is explained by: (1) Kelsterbach DC partial-year revenue (divested Mar 2025) not included in property-level rows (status=divested, gross_revenue=null); (2) per-property figures are approximate millions from factsheets (non-audited); (3) Guangdong DC loss allowances netted in some disclosures. Audited total 441,362k from page 8/47 is the authoritative figure.",
+    "sum_property_npi_sgd": null,
+    "reported_total_npi_sgd": 383260000,
+    "npi_reconciliation_status": "NOT_APPLICABLE",
+    "npi_note": "Per-property NPI not disclosed (segment only). Declared structural in columns_never_fillable."
+  }
+}

@@ -1,6 +1,5 @@
 {
   "symbol": "C38U.SI",
-  "fiscal_year": 2025,
   "portfolio_value": 27400000000,
   "properties_location": "Singapore; Australia; Germany",
   "gross_revenue": 1619174000,
@@ -8,22 +7,30 @@
   "net_distributable_income": 860900000,
   "dpu": 11.58,
   "distribution_record": [
-    {"period": "1 January to 30 June 2025", "dpu": 5.62, "ex_date": null, "pay_date": null},
-    {"period": "1 July to 13 August 2025", "dpu": 1.35, "ex_date": null, "pay_date": null},
-    {"period": "14 August to 31 December 2025", "dpu": 4.61, "ex_date": null, "pay_date": null}
+    {
+      "period": "1 January to 30 June 2025",
+      "dpu": 5.62,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 July to 13 August 2025",
+      "dpu": 1.35,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "14 August to 31 December 2025",
+      "dpu": 4.61,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 91421,
   "currency": "SGD",
   "date": "2025-12-31",
   "source_url": null,
-  "source_page": {
-    "portfolio_value": 23,
-    "gross_revenue": 106,
-    "net_property_income": 106,
-    "net_distributable_income": 26,
-    "dpu": 26,
-    "number_of_unitholders": 193,
-    "distribution_record": 26
-  },
-  "note": "portfolio_value = S$27.4bn headline portfolio valuation as at 31 Dec 2025 (p23), which INCLUDES proportionate JV interests (ION Orchard, CapitaSky, Gallileo, MAC, 101-103 Miller); the audited Portfolio Statement investment-properties-at-valuation line is S$25,601,573k (consolidated, excl. ION JV) plus Bukit Panjang Plaza held-for-sale 390,885k (p109) - both differ from the headline by design. gross_revenue and net_property_income from audited Statement of Total Return (p106): GR 1,619,174k, NPI 1,189,749k. net_distributable_income = headline S$860.9m (p26); DISTRIBUTION-STATEMENT LAYERING (p107): 869,957k subtotal (incl. tax-exempt income, capital distributions, distribution income from JV) and 1,119,753k 'Amount available for distribution' (incl. 249,796k opening balance). Took the headline 860.9m per convention; layers documented in _notes. dpu = full-year 11.58 cents (sum of the three sub-periods 5.62 + 1.35 + 4.61; p26); distribution_record holds the three disclosed sub-periods; ex/pay dates not in AR (nulled). number_of_unitholders = 91,421 (sum of the 5 size-bands on the Statistics of Unitholdings table, as at 27 Feb 2026, p193). currency SGD. distribution_record dates null - AR does not print ex/pay dates."
+  "source_page": 5,
+  "note": "portfolio_value = S$27.4bn headline portfolio valuation as at 31 Dec 2025 (p23), which INCLUDES proportionate JV interests (ION Orchard, CapitaSky, Gallileo, MAC, 101-103 Miller); the audited Portfolio Statement investment-properties-at-valuation line is S$25,601,573k (consolidated, excl. ION JV) plus Bukit Panjang Plaza held-for-sale 390,885k (p109) - both differ from the headline by design. gross_revenue and net_property_income from audited Statement of Total Return (p106): GR 1,619,174k, NPI 1,189,749k. net_distributable_income = headline S$860.9m (p26); DISTRIBUTION-STATEMENT LAYERING (p107): 869,957k subtotal (incl. tax-exempt income, capital distributions, distribution income from JV) and 1,119,753k 'Amount available for distribution' (incl. 249,796k opening balance). Took the headline 860.9m per convention; layers documented in _notes. dpu = full-year 11.58 cents (sum of the three sub-periods 5.62 + 1.35 + 4.61; p26); distribution_record holds the three disclosed sub-periods; ex/pay dates not in AR (nulled). number_of_unitholders = 91,421 (sum of the 5 size-bands on the Statistics of Unitholdings table, as at 27 Feb 2026, p193). currency SGD. distribution_record dates null - AR does not print ex/pay dates.",
+  "financial_year": 2025
 }

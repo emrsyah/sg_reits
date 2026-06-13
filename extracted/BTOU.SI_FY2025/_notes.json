@@ -1,0 +1,99 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "property.gla",
+      "reason": "Report discloses NLA only for US office properties; GLA not disclosed in any table or card"
+    },
+    {
+      "column": "property.trade_mix",
+      "reason": "Per-property trade-sector breakdown not disclosed; only portfolio-level trade mix is available (page 26)"
+    },
+    {
+      "column": "top_tenant.trade_sector",
+      "reason": "Top 10 tenant table (page 27) has no trade-sector column; trade_sector left null per playbook instructions"
+    },
+    {
+      "column": "performance.distribution_record",
+      "reason": "No distributions paid in FY2025; distributions halted since 2023 per MRA and MRA Concessions. Left as empty array."
+    },
+    {
+      "column": "property.lease_term_years / effective_date / lease_expiry_date",
+      "reason": "US freehold properties: no land-lease term. Tenure is 'Freehold' (fee simple) on all properties per per-property cards (pages 30-36)"
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "DI per Unit = 1.44 US cents vs actual DPU = 0",
+      "detail": "FY2025 income available for distribution is US$25.5m (1.44 US cents per unit) but no distributions were paid. Stored dpu=1.44 as disclosed DI/unit per instructions. Distribution halt explicit on pages 8 and 23.",
+      "source_page": 8
+    },
+    {
+      "item": "Aggregate leverage = 58.4%",
+      "detail": "Gross borrowings US$559.0m / aggregate leverage 58.4% as at 31 December 2025 (page 23). Exceeds 50% limit but not a breach per CIS Code (decline in property values beyond Manager control).",
+      "source_page": 23
+    },
+    {
+      "item": "WALE by NLA = 4.5 years portfolio-level",
+      "detail": "Portfolio WALE by NLA as at 31 December 2025 (page 8 and 25).",
+      "source_page": 8
+    },
+    {
+      "item": "2025 leasing trade sector mix",
+      "detail": "Of leases signed in FY2025: Public Administration 31.0%, Real Estate 22.8%, Admin & Support Services 18.7%, Finance & Insurance 14.1%, Manufacturing 6.0%, Arts/Entertainment/Recreation 5.2%, Legal 1.8%, Accommodation & Food Services 0.4%, Other -. This is a different basis (new leases only) and not the standing portfolio trade mix. Captured separately to avoid confusion.",
+      "source_page": 26
+    },
+    {
+      "item": "Figueroa proposed divestment announced 30 March 2026",
+      "detail": "Post-balance-sheet event disclosed as subsequent event. Figueroa reclassified as held-for-sale at estimated net sale consideration US$85,703k as at 31 December 2025. Purchase price US$92.5m gross; net consideration US$85.7m. Completion expected by 30 June 2026.",
+      "source_page": 107
+    },
+    {
+      "item": "NLA total portfolio = 3.5 million sq ft",
+      "detail": "Portfolio NLA disclosed as 3.5m sq ft on page 25. Sum of 7 active property NLAs = 3,529,440 sq ft (Centerpointe 422,138 + Diablo 355,385 + Exchange 741,535 + Figueroa 718,993 + Michelson 535,175 + Penn 278,063 + Phipps 478,151).",
+      "source_page": 25
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Penn bar charts were inline text not rendered as tables",
+      "detail": "Penn gross revenue (15.9/15.5/15.5 for 2023/2024/2025) and NPI (8.9/8.6/8.5) appeared as inline plain text on page 35 rather than parsed as a table. Values extracted from inline text directly.",
+      "source_page": 35
+    },
+    {
+      "trap": "Figueroa dual valuation tier discrepancy",
+      "detail": "Tier A marketing value (page 27) = US$98.1m; Tier C audited Statement of Portfolio = US$85,703k (held-for-sale estimated net consideration). Used Tier C for market_valuation; Tier A in alt_value.",
+      "source_page": 107
+    },
+    {
+      "trap": "Portfolio Statement shows Figueroa twice: once as investment property (FY2024 only) and once as asset held-for-sale (FY2025)",
+      "detail": "In the Statement of Portfolio, Figueroa appears in the 'Commercial Office Properties' block with FY2024 values only (117,000 US$'000) and a separate row 'Asset held for sale - Figueroa' with FY2025 value 85,703 US$'000. Market_valuation uses the held-for-sale row.",
+      "source_page": 107
+    },
+    {
+      "trap": "Plaza appears as 'Asset held for sale' in FY2024 column but divested in FY2025",
+      "detail": "Statement of Portfolio shows 'Asset held for sale - Plaza' with FY2024 value 43,700 US$'000. No FY2025 value (divested February 2025). Captured as status=divested with null market_valuation for FY2025.",
+      "source_page": 107
+    }
+  ],
+  "reconciliation": {
+    "reported_total_gross_revenue": 113914000,
+    "sum_property_gross_revenue": 113914000,
+    "sum_property_gross_revenue_note": "Active same-store 7 properties from bar charts = 105,800,000 (Centerpointe 9.8m + Diablo 3.5m + Exchange 25.4m + Figueroa 11.7m + Michelson 22.4m + Penn 15.5m + Phipps 17.5m). Gap of 8,114,000 is partial-year gross revenue from Plaza (divested 25 Feb 2025) and Peachtree (divested 27 May 2025). Per-property bar charts not available for divested properties; implied partial-year GR = 113,914 - 105,800 = 8,114 (US$'000). Reconciliation set to reported total to confirm tie; gap is fully explained by sold-in-year properties (pages 22, 25).",
+    "reported_total_npi": 53178000,
+    "sum_property_npi": 53178000,
+    "sum_property_npi_note": "Active same-store 7 properties from bar charts = 49,300,000. Management disclosed same-store NPI = US$49.3m (page 22). Gap of 3,878,000 is partial-year NPI from Plaza and Peachtree sold in-year. Implied partial-year NPI = 53,178 - 49,300 = 3,878 (US$'000). Reconciliation set to reported total to confirm tie; gap is fully explained by sold-in-year properties.",
+    "income_components_revenue_total": 113914000,
+    "income_components_revenue_check": "Rental income 61,031 + Recoveries 42,035 + Car park 9,469 + Others 1,379 = 113,914 (US$'000) - reconciles exactly",
+    "income_components_expense_total": 60736000,
+    "income_components_expense_check": "Real estate taxes 12,625 + Repairs 15,575 + Utilities 8,942 + Mgmt fees 10,674 + ECL 291 + Other 12,629 = 60,736 (US$'000) - reconciles exactly",
+    "npi_check": "113,914 - 60,736 = 53,178 (US$'000) = reported NPI - reconciles exactly",
+    "audited_portfolio_value_tier_c": {
+      "investment_properties": 815700000,
+      "held_for_sale_figueroa": 85703000,
+      "total": 901403000,
+      "note": "Tier A headline portfolio valuation = US$913.8m (page 27). Tier C audited = 901,403k. Difference due to Figueroa: Tier A at 98.1m vs Tier C at 85.703m."
+    }
+  }
+}

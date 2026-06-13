@@ -1,0 +1,132 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "gross_rental_income",
+    "amount": 653809000,
+    "currency": "SGD",
+    "label_raw": "Gross rental income",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "hospitality_income",
+    "amount": 23129000,
+    "currency": "SGD",
+    "label_raw": "Hospitality income",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "hotel_revenue",
+    "amount": 154672000,
+    "currency": "SGD",
+    "label_raw": "Hotel revenue",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "amortisation_of_deferred_income",
+    "amount": 425000,
+    "currency": "SGD",
+    "label_raw": "Amortisation of deferred income",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "car_park_income",
+    "amount": 5549000,
+    "currency": "SGD",
+    "label_raw": "Car park income",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "operations_and_maintenance",
+    "amount": 79411000,
+    "currency": "SGD",
+    "label_raw": "Operations and maintenance",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "staff_costs",
+    "amount": 133695000,
+    "currency": "SGD",
+    "label_raw": "Staff costs",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "serviced_residence_management_fees",
+    "amount": 32305000,
+    "currency": "SGD",
+    "label_raw": "Serviced residence management fees",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 44230000,
+    "currency": "SGD",
+    "label_raw": "Property tax",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "depreciation_ppe",
+    "amount": 16449000,
+    "currency": "SGD",
+    "label_raw": "Depreciation of property, plant and equipment",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "marketing_and_selling",
+    "amount": 60023000,
+    "currency": "SGD",
+    "label_raw": "Marketing and selling",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "administrative_and_general",
+    "amount": 53540000,
+    "currency": "SGD",
+    "label_raw": "Administrative and general",
+    "source_page": 213
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_direct_expenses",
+    "amount": 32630000,
+    "currency": "SGD",
+    "label_raw": "Other direct expenses",
+    "source_page": 213
+  }
+]
