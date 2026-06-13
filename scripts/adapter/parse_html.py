@@ -50,6 +50,9 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("doc")
     ap.add_argument("--page-range", default=None, help="0-based, e.g. 108-112")
+    ap.add_argument("--name", default="portfolio",
+                    help="output basename (one per section group: portfolio|tenants|"
+                         "financial|cards|...) — avoids clobbering other sections' HTML")
     ap.add_argument("--format", default="html", choices=["html", "json"])
     ap.add_argument("--mode", default="balanced", choices=["fast", "balanced", "accurate"])
     args = ap.parse_args()
@@ -87,7 +90,7 @@ def main() -> None:
         # SDK may expose the html under a different attr across versions
         body = getattr(result, "output", None) or getattr(result, "content", None)
     ext = "html" if args.format == "html" else "json"
-    fp = out / f"portfolio.{ext}"
+    fp = out / f"{args.name}.{ext}"
     if isinstance(body, (dict, list)):
         fp.write_text(json.dumps(body, indent=2, ensure_ascii=False), encoding="utf-8")
     else:
@@ -97,7 +100,7 @@ def main() -> None:
     meta = {"file": fname, "format": args.format, "page_range": args.page_range,
             "pages": getattr(result, "page_count", None), "cost_breakdown": cost,
             "checkpoint_id": getattr(result, "checkpoint_id", None)}
-    (out / "_meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
+    (out / f"{args.name}.meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
     c = (cost or {}).get("final_cost_cents")
     print(f"+ wrote {fp.relative_to(ROOT)} ({len(str(body)):,} chars)"
           f"{f'  ({c}c)' if c is not None else ''}", flush=True)

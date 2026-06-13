@@ -35,7 +35,7 @@ YEARS_RX = re.compile(r"(\d+(?:\.\d+)?)\s*year", re.I)
 
 
 def num(s: str):
-    s = (s or "").strip()
+    s = (s or "").strip().rstrip("%").strip()      # tolerate trailing % (trade-mix tables)
     if not s or s.lower() in ("nan", "na", "n.a.", "–", "-", "—"):
         return None
     if not NUM_RX.match(s):
@@ -67,42 +67,44 @@ def block_page(el):
     return None
 
 
-def pick_table(tables, table_contains, table_index):
-    """Prefer locating the table by header text (robust as table positions shift across
-    reports); fall back to a fixed index. Returns (table, chosen_index)."""
+def pick_tables(tables, table_contains, table_index):
+    """Return ALL tables matching the header text (so a multi-page table split into one
+    <table> per page is concatenated). Fall back to a single fixed index. The row-gate
+    (numeric value_col, non-empty col0, skip_rx) drops the repeated header rows of each
+    page-table, so plain concatenation is safe."""
     if table_contains:
         needles = [table_contains] if isinstance(table_contains, str) else table_contains
-        for i, t in enumerate(tables):
-            txt = t.get_text(" ", strip=True).lower()
-            if all(n.lower() in txt for n in needles):
-                return t, i
-        sys.exit(f"no table contains {needles!r} ({len(tables)} tables present)")
+        matched = [(t, i) for i, t in enumerate(tables)
+                   if all(n.lower() in t.get_text(" ", strip=True).lower() for n in needles)]
+        if not matched:
+            sys.exit(f"no table contains {needles!r} ({len(tables)} tables present)")
+        return matched
     if table_index is None or table_index >= len(tables):
         sys.exit(f"table_index {table_index} out of range ({len(tables)} tables)")
-    return tables[table_index], table_index
+    return [(tables[table_index], table_index)]
 
 
 def load_table(html_path: Path, table_index, table_contains=None):
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "lxml")
-    tables = soup.find_all("table")
-    table, chosen = pick_table(tables, table_contains, table_index)
+    matched = pick_tables(soup.find_all("table"), table_contains, table_index)
     if table_contains:
-        print(f"  (matched table #{chosen} by header text)")
-    # footnote markers are <sup> tags; remove them so "Westgate¹"->"Westgate" while
-    # "Junction 8" (a real name) is untouched. Deterministic, no regex guessing.
-    for sup in table.find_all(["sup", "sub"]):
-        sup.decompose()
+        idxs = ",".join(str(i) for _, i in matched)
+        print(f"  (matched {len(matched)} table(s) by header text: #{idxs})")
     rows = []
-    for tr in table.find_all("tr"):
-        cells = tr.find_all(["td", "th"])
-        if not cells:
-            continue
-        texts = [clean(c.get_text(" ", strip=True)) for c in cells]
-        # per-row page if a cell carries its own block-id, else the table's page
-        page = next((block_page(c) for c in cells if block_page(c) is not None), None)
-        if page is None:
-            page = block_page(table)
-        rows.append((texts, page))
+    for table, _ in matched:
+        # footnote markers are <sup> tags; remove them so "Westgate¹"->"Westgate" while
+        # "Junction 8" (a real name) is untouched. Deterministic, no regex guessing.
+        for sup in table.find_all(["sup", "sub"]):
+            sup.decompose()
+        for tr in table.find_all("tr"):
+            cells = tr.find_all(["td", "th"])
+            if not cells:
+                continue
+            texts = [clean(c.get_text(" ", strip=True)) for c in cells]
+            page = next((block_page(c) for c in cells if block_page(c) is not None), None)
+            if page is None:
+                page = block_page(table)
+            rows.append((texts, page))
     return rows
 
 
@@ -141,8 +143,11 @@ def main() -> None:
             if hit and "also" in rule:
                 for k, v in rule["also"].items():
                     ctx[k] = v
-        # is this a property (data) row? value_col numeric AND not a skip header
+        # is this a data row? value_col numeric, col0 non-empty (totals often blank-labelled),
+        # and not a skip header
         if value_col >= len(texts) or num(texts[value_col]) is None:
+            continue
+        if not col0.strip():
             continue
         if skip_rx and skip_rx.match(col0):
             continue
@@ -162,6 +167,8 @@ def main() -> None:
             elif m == "parse_years":
                 mm = YEARS_RX.search(texts[spec["col"]] or "")
                 rec[fname] = float(mm.group(1)) if mm else None
+            elif m == "parse_pct":
+                rec[fname] = num(texts[spec["col"]])      # "18.7%" -> 18.7
             elif m == "concat":
                 parts = [clean(texts[c]) for c in spec["cols"]
                          if c < len(texts) and clean(texts[c]).lower() not in ("", "nan")]
@@ -181,7 +188,8 @@ def main() -> None:
                      "reason": spec.get("reason") or spec.get("where")})
         records.append(rec)
 
-    out = Path(args.out) if args.out else (html_path.parent / "properties_deterministic.json")
+    section = plan.get("section", "section")
+    out = Path(args.out) if args.out else (html_path.parent / f"{section}_deterministic.json")
     out.write_text(json.dumps(records, indent=2, ensure_ascii=False), encoding="utf-8")
     (out.parent / (out.stem + ".llm_todo.json")).write_text(
         json.dumps(llm_todo, indent=2, ensure_ascii=False), encoding="utf-8")
