@@ -21,7 +21,7 @@ Pages are FY2025 examples; use `locate.py` for the actual pages in any report. T
 |---|---|---|
 | `profile.management` | "Corporate Information" (back) + "Trust Structure" (front) | roles named explicitly; operators/master-lessees appear in hospitality footnotes |
 | `profile.sub_sector` | derive from content (locate.py guesses) | Diversified when 2 physical classes co-dominate |
-| `property.market_valuation` | **audited Portfolio Statement / Statement of Portfolio** | **Tier C, $'000** — the only valid source |
+| `property.market_valuation` | **audited Portfolio Statement / Statement of Portfolio** | **Tier C, $'000** — the only valid source. LOCATE it (name + page vary: "Portfolio Statement" / "Statement of Portfolio" / "Consolidated Portfolio Statement", often near the back); the FS also prints an **aggregate** investment-property figure that is more prominent — do NOT grab that. Foreign trusts: confirm the reporting currency (EUR/JPY/RMB; some print dual RMB+S$) and set `currency` per row. |
 | `property.land_tenure / term / remaining / location` | same audited Portfolio Statement | tenure verbatim → `tenure_raw`; enum → `land_tenure` |
 | `property.occupancy_rate` | per-property cards / "At A Glance" / audited stmt (US) | NOT in Tier A; absent for hospitality |
 | `property.gla / nla` | per-property cards | hospitality uses units/keys → declare structural |

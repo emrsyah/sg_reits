@@ -28,19 +28,34 @@ it); **S** = fails silently (wrong-but-plausible data — the dangerous kind). A
 
 | # | Assumption | Where | L/S | Status | Mitigation / next |
 |---|---|---|---|---|---|
-| R1 | Every trust has ONE audited Portfolio Statement = the valuation source (Tier-C rule) | method / skill | **S** | OPEN | judge step must check it exists; if not, document + pick a source. Test on divergent reports. |
-| R2 | Audited values are at 100% basis (not effective stake) | method / schema | **S** | OPEN (schema-flagged) | agent captures `value_basis`+`ownership`; no gate can verify — spot-check. |
+| R1 | Every trust has ONE audited Portfolio Statement = the valuation source (Tier-C rule) | method / skill | **S** | HOLDS, with care | divergence check: all 3 (IREIT/Daiwa/CLCT) DO have a per-property audited statement, but the **name + location vary** ("Statement of Portfolio" p177 / "Consolidated Portfolio Statement" p98 / inline) and the aggregate (€804.3m) is more prominent than the per-property table — **agent must LOCATE it, never assume a page or grab the aggregate.** |
+| R2 | Audited values are at 100% basis (not effective stake) | method / schema | **S** | OPEN | not stressed by the 3 (mostly freehold single-owner); agent captures `value_basis`+`ownership`; no gate can verify — spot-check. |
 | R3 | Footnote markers are `<sup>` (name-number disambiguation) | run_adapter | **S** | OPEN | relies on Datalab; watch on new reports. |
-| R4 | Datalab balanced parses all 40 adequately (incl. 400-pg / scanned) | parsing | **S** | OPEN | validate on the big/odd ones; gates catch gross breaks only. |
-| R5 | Numbers are US/SG format (`,` thousands, `.` decimal) — `num()` does `replace(",","")` | run_adapter | L→S | OPEN | **untested on EUR/JPY/INR/RMB reports** — divergence check targets this. |
+| R4 | Datalab balanced parses all 40 adequately (incl. 400-pg / scanned) | parsing | **S** | partly validated | 9 reports now parse clean (incl. IREIT/Daiwa/CLCT); the 404-pg Stoneweg still untested. |
+| R5 | Numbers are US/SG format (`,` thousands, `.` decimal) — `num()` does `replace(",","")` | run_adapter | L→S | **RESOLVED** | divergence check: EUR/JPY/RMB SGX reports all use **English numerals** (`44,154` / `60,348` / `10,425`); IREIT 44-property EUR adapter run parsed clean. No code change needed. |
+| R5b | Single reporting currency per report | method | **S** | OPEN (new) | CLCT reports dual RMB+S$; Daiwa shows `$'000`; agent must attribute `currency` per record correctly (which currency is `market_valuation` in) — a real per-report judgement, not a format issue. |
 | R6 | Sub-sector → which tables exist (playbook) | skill | S/L | partial | judge step verifies vs the actual doc; structural-null declaration. |
 | R7 | English + observed-vocabulary anchors / `DEFAULT_HEADER_SKIP` | locate / run_adapter | **L** | ongoing | extend vocab as new wording appears (done: customers / rental-and-other-income / (Years)). |
 | R8 | `MONEY_MIN=1e6`, recon tol 1%/5%, `KNOWN_PCT_BASIS`, sub-sector weights, Diversified 0.6/200 | gates / locate | **L** | tuned | warn-not-corrupt; revisit if false-flags appear. |
 | R9 | Per-report plan authoring generalises (NOT per-sponsor reuse) | skill | **L** | RESOLVED | reuse assumption dropped 2026-06-13; gates catch a bad fit. |
 
-The gates convert most of these from silent to loud — the genuinely silent ones (R1, R2, R3,
-R4) and the untested R5 are the priorities. The standing rule: **validate on divergent reports,
-don't assert generality.** (Divergence check: see the Foundation note / Phase D findings.)
+The gates convert most of these from silent to loud. The standing rule: **validate on divergent
+reports, don't assert generality.**
+
+**Divergence check `[2026-06-13]`** — parsed + inspected 3 deliberately-different reports
+(IREIT/EUR office, Daiwa/JPY logistics, CLCT/RMB China retail+business-parks):
+- **R5 RESOLVED** — all use English numerals despite EUR/JPY/RMB; the `num()` parser is safe.
+  Confirmed end-to-end: IREIT 44-property EUR statement extracted clean (sum €761.4m vs €804.3m
+  headline = the IFRS-16 right-of-use component, a normal reconciliation note).
+- **R1 HOLDS but with care** — each has a per-property audited statement, yet under different
+  names/locations and behind a more-prominent aggregate. The skill must emphasise locating it.
+- **New R5b** — dual/foreign reporting currency (CLCT RMB+S$, Daiwa $) → per-record currency
+  attribution is a real judgement.
+- **New tenure** — CLCT "Land Use Right Expiry" with two dates in one cell (China land-use-right
+  → Leasehold, dual-expiry) — already covered by §3b conventions.
+Net: the scariest silent assumption (number format) is disproven; the engine generalised to a
+4th currency/region. Remaining work is agent-judgement (locate the statement, attribute
+currency), not silent code failure.
 
 ---
 

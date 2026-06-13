@@ -1,0 +1,16 @@
+{
+  "file": "12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 216,
+  "pages_written": 216,
+  "seconds": 56.4,
+  "parse_quality_score": null,
+  "runtime": 47.377031087875366,
+  "cost_breakdown": {
+    "list_cost_cents": 87,
+    "final_cost_cents": 65,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_CSEgxc_9_SPWdkv_0YTOsl6s3ePl_xONYjg9ZeHX1JM",
+  "page_range": null
+}
