@@ -17,39 +17,53 @@ financial data layer.
 | 6. Synthesized production schema v2 | ✅ done (`sgx_reit_schema_v2.md`) |
 | 7. Adversarial validation round (6 stress-test trusts) | ✅ passed — see schema doc §10 |
 | 8. Ingestion plan (parse routing + extraction + validation) | ✅ done (`ingestion_plan.md`) |
-| 9. Bake-off → extraction pilot → DB load | ⬜ next |
+| 9. Extraction pilot on the locked 6-table schema (`schema/sgx_reit_schema.md`) | 🔄 in progress |
+| 10. DB load + NL-query layer pilot | ⬜ next |
 
 ## Repository layout
 
 ```
-singapore_reits_annual_reports.md/.json   Catalog of AR links per trust (FY2023–25)
-download_reports.py                       PDF downloader, standardized naming:
-                                          {id:02d}_{symbol}_{name}_FY{year}.pdf
-reconcile.py                              Rebuilds annual_reports/_manifest.csv from disk,
-                                          reports gaps vs expected slots
-annual_reports/                           ~101 downloaded PDFs + _manifest.csv
+schema/
+  sgx_reit_schema.md            CANONICAL schema — the locked 6-table plan of record
+                                (sgx_reit_profile/property/performance/top_tenant/
+                                trade_mix/financial + mv_sgx_reit)
 
-parse_sample.py                           LlamaParse (agentic tier) batch parser, create+poll
-fetch_results.py                          Re-fetch completed parse jobs by job_id (free)
-list_jobs.py                              Inspect parse jobs on the LlamaCloud account
-parsed_reports/<stem>/                    Per report: full.md (page-anchored markdown),
-                                          pages.jsonl (per-page markdown + item types), meta.json
-parsed_reports/_inventories.md            Per-report data inventories with page references
+annual_reports/                 ~101 downloaded PDFs + _manifest.csv  (run dir, root)
+parsed_reports/<stem>/          Per report: full.md (page-anchored markdown),
+                                pages.jsonl (per-page md + item types), meta.json;
+                                _inventories.md = per-report data inventories
+extracted/<SYMBOL>_FY<YYYY>/    Extraction output (NEW schema). 8 JSON files per
+                                trust-year — see .claude/skills/reit-extraction
 
-schema_analysis.md                        Cross-report commonality matrix + generic schema design
-reit_schema_proposal.md                   Review of draft workbook + sgx_reit_* production
-                                          schema proposal (aligned with prod sgx_* conventions)
-feedback_reflection.md                    Response to schema review feedback, validated against
-                                          9 parsed ARs (terminology aliases, tenant-mix scopes,
-                                          GRI vs NPI boundary, standardized-metric strategy)
-sgx_reit_schema_v2.md                     FINAL synthesized schema: 14-report evidence + draft
-                                          workbook + feedback + v1 proposal + prod conventions
-                                          (+ §10 adversarial validation on 6 more trusts)
-ingestion_plan.md                         Production parsing/extraction plan: free local pass +
-                                          section routing + premium parse on hard pages only +
-                                          batch structured extraction + validation invariants
-REITS db.xlsx                             Colleague's draft data schema (reference)
+scripts/
+  download_reports.py           PDF downloader, naming {id:02d}_{symbol}_{name}_FY{yr}.pdf
+  reconcile.py                  Rebuild annual_reports/_manifest.csv, report gaps
+  parse_sample.py               LlamaParse (agentic tier) batch parser, create+poll
+  fetch_results.py              Re-fetch completed parse jobs by job_id (free)
+  list_jobs.py                  Inspect parse jobs on the LlamaCloud account
+  build_verify_html.py          Build the human verification bench HTML from extracted/
+
+catalog/
+  singapore_reits_annual_reports.md/.json   Catalog of AR links per trust (FY2023–25)
+
+docs/                           Dated analysis / journey-of-record (NOT the live schema):
+  schema_analysis.md            Cross-report commonality matrix + generic schema design
+  feedback_reflection.md        Response to schema review feedback (validated vs 9 ARs)
+  ingestion_plan.md             Production parsing/extraction plan + validation invariants
+
+archive/                        Superseded work, kept for reference:
+  schema_iterations/            Old schema drafts (proposal, v2, v3, _final, _finale, draft)
+  pilot_old_schema/             First pilot extraction (OLD 8-table schema) + model benchmarks
+  presentation/                 Findings/explorer/verify HTML + screenshots
+  reference/                    REITS db.xlsx (colleague's draft workbook)
+
+.claude/skills/reit-extraction/ The extraction skill (SKILL.md, REFERENCE.md, scripts/):
+                                turns a parsed AR into the 8 schema JSON files + QC gate
 ```
+
+The extraction pipeline (skill + scripts) hardcodes `annual_reports/`, `parsed_reports/`,
+and `extracted/` at the repo root, so those run directories stay at root by design; run
+all scripts from the repo root (paths are CWD-relative).
 
 ## Parsed sample (stratified by sector/structure/currency)
 
@@ -97,20 +111,21 @@ AR (parsed above) covers the Entrusted Management Agreement income model instead
 pip install requests llama-cloud openpyxl
 $env:LLAMA_CLOUD_API_KEY = "llx-..."
 
-python download_reports.py    # fetch PDFs into annual_reports/
-python reconcile.py           # rebuild manifest, report gaps
-python parse_sample.py        # parse sample set via LlamaParse agentic tier
+python scripts/download_reports.py    # fetch PDFs into annual_reports/
+python scripts/reconcile.py           # rebuild manifest, report gaps
+python scripts/parse_sample.py        # parse sample set via LlamaParse agentic tier
 ```
 
 Notes: parsing a ~250-page report on agentic tier takes several minutes and significant credits;
-`parse_sample.py` skips reports already present in `parsed_reports/`. Completed jobs can be
-re-downloaded for free with `fetch_results.py` (job IDs are printed by the parse run), and
+`scripts/parse_sample.py` skips reports already present in `parsed_reports/`. Completed jobs
+can be re-downloaded for free with `scripts/fetch_results.py` (job IDs printed by the run), and
 **LlamaExtract accepts existing parse-job IDs as input** — the next stage needs no re-parsing.
 
 ## Next steps
 
-1. LlamaExtract with Pydantic schemas per data block (start from the 5 existing parse jobs),
-   cross-validating totals (segments vs revenue, property valuations vs balance sheet).
+1. Run the extraction skill (`.claude/skills/reit-extraction`) over `parsed_reports/` into
+   `extracted/<SYMBOL>_FY<YYYY>/`, one trust at a time, QC-gating each (`check_extraction.py`)
+   against the locked 6-table schema. Pilot trust: C38U (CICT) FY2025.
 2. Top up LlamaCloud credits; parse the full corpus incl. FY2023/24 backfill for 3-year trends.
-3. Implement `sgx_reit_*` tables per `reit_schema_proposal.md` and pilot the NL-query layer on
-   the 5 parsed trusts before scaling to all 39.
+3. Implement the `sgx_reit_*` tables per `schema/sgx_reit_schema.md`, load the extracted JSON
+   (intermediate→table mapping documented in the skill), and pilot the NL-query layer.

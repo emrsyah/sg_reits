@@ -68,29 +68,61 @@ create table sgx_reits (
   reporting_currency text,        -- SGD|USD|EUR|GBP
   listing_date       date,        -- Centurion 2025-09-25; drives stub-period handling
   mandate            text,
-  is_active          boolean default true
+  is_active          boolean default true,
+
+  -- ownership (see 2.2): public float is the reliable scalar; substantial holders best-effort
+  public_float_pct   numeric,     -- SGX Rule 723-mandated, present in ~all reports → dependable
+  sponsor_stake_pct  numeric,     -- sponsor skin-in-the-game; from substantial table where present
+
+  -- who runs / who owns / who governs — jsonb columns, mirroring prod sgx_companies pattern (2.2)
+  service_entities   jsonb,       -- manager/sponsor/trustee/lessee/operator  (BUILD — core)
+  unitholders        jsonb,       -- substantial (>=5%) holders, best-effort  (BUILD if clean table)
+  management         jsonb        -- directors & execs, prod shape            (DEFER for v1)
 );
 ```
 
-Manager/sponsor/trustee move out of the master into role-typed entities (feedback item 1):
+### 2.2 Management / ownership — jsonb columns on the master, NOT separate tables
 
-### 2.2 `sgx_reit_entities` — every named role, portfolio- or property-scoped
+Decision (revised from v1's `sgx_reit_entities`/`sgx_reit_unitholders` tables): these are
+**jsonb columns on `sgx_reits`**, one row per REIT, mirroring how prod `sgx_companies` stores
+`management`/`shareholders`. Rationale: low cardinality (~5-8 entities/REIT), slow-changing,
+mostly display — a separate normalized table only pays off if we build cross-REIT screening on
+managers/lessees, which isn't committed for v1. Verified populatable from a single "Trust
+Structure" page per report (CICT p9, MLT p22, Sasseur p8, FEHT p6).
 
-```sql
-create table sgx_reit_entities (
-  id           serial primary key,
-  symbol       text references sgx_reits(symbol),
-  role         text check (role in ('reit_manager','property_manager','operator',
-                  'master_lessee','entrusted_manager','trustee','sponsor','valuer')),
-  entity_name  text not null,
-  property_id  int,              -- null = portfolio-wide; CICT has 3 property managers by asset
-                                 -- class; FEHT has SG operator + Marriott for Japan; Centurion's
-                                 -- EPIISOD master lessee is the sponsor entity CPPL
-  is_related_party boolean,      -- Sasseur EM, Centurion CPPL, First REIT master lessees = true
-  fiscal_year  smallint,         -- as-reported year (roles change)
-  source_page  int
-);
+**`service_entities`** — array; `role` is a fixed enum (the AR's regulated *defined terms* —
+"the Manager", "the Trustee", etc. — normalized to a consistent label; enforced at the
+extraction/app layer since jsonb isn't DB-constrained):
 ```
+role      enum   reit_manager|property_manager|operator|master_lessee|entrusted_manager|sponsor|trustee
+name      string required
+fee_basis string nullable  -- e.g. "0.25% of deposited property + 4.25% of NPI" (CICT p114);
+                           -- "2.0% of gross revenue" (MLT p175); "30% of GR" (Sasseur p50).
+                           -- Promote to a structured sgx_reit_fees table only if a fee-comparison
+                           -- screen is built. NOTE: `is_related_party` was dropped — it is
+                           -- ~always true for manager/sponsor (derivable from role) and only
+                           -- varies for master_lessee/operator; the useful version is
+                           -- related-party *income* exposure, a concentration metric, not a bool.
+```
+
+**Ownership — two reliability tiers (verified across 8 reports):**
+- `public_float_pct` (scalar, §2.1) is the **dependable** field — SGX Rule 723 mandates it, so it
+  appears in every report with a clean number (CICT ~71% p195, MLT 66.42% p230, FEHT 45.07% p236,
+  KORE 77.52% p153, DCR 58.7% p218, CLAS ~69.8% p295, Sasseur 42.07% p217, MUST states the rule).
+  Lead the ownership story with this.
+- `unitholders` (jsonb, best-effort/nullable) — substantial (>=5%) **beneficial** holders, *not*
+  the Top-20 (which is custodian nominees: Citibank Nominees 23%, etc.). Present as a clean table
+  in ~3 of 5 (CICT p195, MLT p230, KORE p153), as deemed-interest footnotes in others (FEHT
+  p237-238), occasionally absent (DCR gives only the float). Extraction rule: **deemed-interest
+  rows up an ownership chain are one stake — capture but never sum** (CICT Temasek→Tembusu→Bartley
+  all ~21% = a single Temasek holding).
+  ```
+  name string ; pct numeric (fraction) ; type enum: substantial|sponsor
+  ```
+
+**`management`** (deferred) — if built, copy prod `sgx_companies.management` verbatim:
+`name, age, position, start_date`. For a REIT the *manager entity* (in service_entities) matters
+more than individual directors, so this is the first thing to cut from v1 scope.
 
 ---
 
@@ -383,7 +415,8 @@ create table sgx_reit_concentrations (
 -- Sasseur top-10 = 14.4% vs CLAS top-10 = 2.4% — the spread IS the story
 
 -- sgx_reit_valuation_inputs: v1 + nullable property_id (Keppel REIT per-building cap rates)
--- sgx_reit_unitholders: unchanged from v1
+-- (ownership moved to §2.1/2.2: public_float_pct scalar + unitholders jsonb — the standalone
+--  sgx_reit_unitholders table from v1 is dropped)
 ```
 
 ## 7. Long tail + agentic text layer (v1 kept)
@@ -407,7 +440,8 @@ sgx_reit_doc_chunks (symbol, fiscal_year, report_type, page, section_type, text,
 |---|---|
 | Property-centric core, trade-mix/top-tenant JSON instincts, 39-trust universe | colleague's draft |
 | symbol keys, typed-columns + jsonb style, computed-at-API rule, no market-data duplication | prod `sgx_*` |
-| `land_tenure_*` family, `valuation_date` vs `acquisition` events, `sgx_reit_entities` roles | her feedback #1 + alias evidence (9 reports) |
+| `land_tenure_*` family, `valuation_date` vs `acquisition` events | her feedback #1 + alias evidence (9 reports) |
+| `service_entities`/`management`/`unitholders` as jsonb on master (not tables); `public_float_pct` as reliable ownership scalar | prod `sgx_companies` pattern + ownership disclosure check across 8 reports |
 | `tenant_mix.scope` + mandatory `basis` + `is_derived` | her feedback #2, corrected by evidence (2/14 have property level) |
 | revenue/expense components, accounting adjustments, standardized formulas in API layer | her feedback #3 + 14-report expense divergence |
 | `ownership_basis`/`npi_attributable`/`held_via` | Keppel REIT JV evidence |
@@ -427,7 +461,10 @@ sgx_reit_doc_chunks (symbol, fiscal_year, report_type, page, section_type, text,
 | tenant_mix property scope | ~14% | CICT, Sasseur only |
 | tenant_mix portfolio scope, top tenants, lease metrics, expiry | 100% | bases vary — captured |
 | revenue/expense components | 100% | granularity varies (Stoneweg expenses thin) |
-| distributions, debt, fees, segments, unitholders | 100% | |
+| distributions, debt, fees, segments | 100% | |
+| service_entities (manager/sponsor/trustee) | 100% | from Trust Structure page |
+| public_float_pct | ~100% | SGX Rule 723-mandated — the reliable ownership field |
+| unitholders (substantial, named) | ~60% | clean table ~3/5; deemed-interest footnotes or float-only elsewhere |
 | concentrations | ~70% | notes-mining required |
 
 ## 10. Validation round — 6 more trusts, schema deliberately stress-tested

@@ -6,7 +6,16 @@ description: Extract structured data from parsed SGX REIT annual reports (markdo
 # REIT annual-report extraction
 
 Turn a parsed annual report (markdown) into schema-shaped JSON under
-`extracted/<SYMBOL>_FY<YYYY>/`. Target schema: `sgx_reit_schema_final.md` (plan of record).
+`extracted/<SYMBOL>_FY<YYYY>/`. Target schema: `schema/sgx_reit_schema.md` — the locked
+6-table plan of record (`sgx_reit_schema_final.md`/`_v2`/`_v3` are superseded, in `archive/`).
+
+**Intermediate files → 6 final tables.** The 8 JSON files below are the extraction
+intermediate; they map to the schema's 6 tables as: `profile→sgx_reit_profile`,
+`properties→sgx_reit_property`, `performance→sgx_reit_performance`,
+`top_tenants→sgx_reit_top_tenant`, `trade_mix→sgx_reit_trade_mix`,
+`income_components→sgx_reit_financial` (renamed). `property_transactions` is **parked**
+(the transaction layer is out of scope in the final schema) — keep capturing it for the
+audit trail, it just isn't loaded. `_notes` is QC metadata, never loaded.
 
 ## Quick start
 
@@ -74,6 +83,10 @@ python .claude/skills/reit-extraction/scripts/check_extraction.py extracted/<SYM
      (`gross_revenue_sgd_million` is a red flag that the value broke the units rule)
 5. **Write the 8 files**: `profile, performance, properties, property_transactions,
    top_tenants, trade_mix, income_components, _notes` — exact shapes in REFERENCE.md §2.
+   Two fields the final schema requires that older runs omitted: `profile.management`
+   (jsonb array `[{role, company_name}]`; roles: reit_manager | property_manager |
+   trustee | sponsor | operator | master_lessee) and `trade_mix.category_raw` (the
+   verbatim disclosed label, alongside `category` mapped to the schema's canonical enum).
 6. **Run `check_extraction.py`** — validates JSON, fill rates, provenance, basis-on-pct,
    and the Σ(property) vs reported-total reconciliations. Fix DIFFs before finishing:
    a non-reconciling sum usually means a duplicate/merged table row, a missed property,
@@ -121,4 +134,4 @@ Full table in REFERENCE.md §3. The five that bite hardest:
   never read linearly — chunked Read driven by the section map.
 - For neutrality checks, run a blind re-extraction of a stratified sample (no access to
   prior output) and diff — see REFERENCE.md §6.
-- After extraction, rebuild the human verification bench: `python build_verify_html.py`.
+- After extraction, rebuild the human verification bench: `python scripts/build_verify_html.py`.

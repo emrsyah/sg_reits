@@ -25,13 +25,18 @@ Page markers by parser: `<!-- PAGE N -->` (agentic LlamaParse) · `--- N ---` / 
 (other LlamaParse modes) · `Page N of M` (some pdf2md tools) · none (estimate:
 `page ≈ N_pages × char_offset / total_chars`, flag `p_estimated`).
 
-## 2. Output file shapes (mirror `sgx_reit_schema_final.md` §D)
+## 2. Output file shapes (mirror `schema/sgx_reit_schema.md` — the 6-table plan of record)
 
 All amounts absolute units; percentages plain numbers (33.9 not 0.339); every record has
 `source_page`. `extracted/<SYMBOL>_FY<YYYY>/`:
 
-- `profile.json` — `{symbol, reit_sub_sector, income_model}`. income_model ∈ conventional |
-  master_lease | mcmgi | management_contract | entrusted_management | fri | mixed.
+- `profile.json` — `{symbol, sub_sector, management, income_model}`. `sub_sector` = the
+  REIT-specific ~7-value list (Retail | Office | Industrial | Hospitality | Healthcare |
+  Data Centre | Diversified). `management` = jsonb array `[{role, company_name}]`, roles ∈
+  reit_manager | property_manager | trustee | sponsor | operator | master_lessee (→
+  `sgx_reit_profile.management`). income_model ∈ conventional | master_lease | mcmgi |
+  management_contract | entrusted_management | fri | mixed (working metadata that drives
+  extraction logic per trap #18; parked in the final schema, so not loaded to DB).
 - `performance.json` — one object: symbol, fiscal_year, portfolio_value,
   properties_location, gross_revenue, net_property_income, net_distributable_income,
   dpu (cents), distribution_record (array of {period, dpu, ex_date, pay_date} — dates are
@@ -55,9 +60,13 @@ All amounts absolute units; percentages plain numbers (33.9 not 0.339); every re
 - `top_tenants.json` — array: symbol, fiscal_year, rank, tenant_name (null if anonymised —
   rank+% are still data), trade_sector, gri_percentage, pct_basis, pct_nla (when both
   disclosed, e.g. FCT), source_page.
-- `trade_mix.json` — REIT-level disclosed set: symbol, fiscal_year, category, pct,
-  pct_basis, is_derived:false, source_page. (Derived roll-ups are computed later, never
-  during extraction.)
+- `trade_mix.json` — REIT-level disclosed set: symbol, fiscal_year, category,
+  category_raw (the VERBATIM disclosed label — required; lets the canonical mapping be
+  redone without re-extraction), pct, pct_basis, source_page. `category` = the disclosed
+  label mapped to the schema's canonical enum (the 19-value list + alias dictionary in
+  `schema/sgx_reit_schema.md` §5); when in doubt keep the raw label and leave mapping to
+  review. (Derived roll-ups are computed later, never during extraction — the old
+  `is_derived` flag is dropped.)
 - `income_components.json` — array: symbol, fiscal_year, statement
   (revenue|expense|adjustment), component (canonical key below), amount, currency,
   label_raw (EXACT note line), source_page.
