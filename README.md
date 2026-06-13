@@ -14,11 +14,13 @@ financial data layer.
 | 3. Parse sample with LlamaParse agentic tier | ✅ 22 reports (20 usable ARs) |
 | 4. Extractability analysis + schema design | ✅ done |
 | 5. Schema review feedback → evidence-based reflection | ✅ done (`feedback_reflection.md`) |
-| 6. Synthesized production schema v2 | ✅ done (`sgx_reit_schema_v2.md`) |
+| 6. Synthesized production schema v2 → locked 6-table schema | ✅ done (`schema/sgx_reit_schema.md`) |
 | 7. Adversarial validation round (6 stress-test trusts) | ✅ passed — see schema doc §10 |
 | 8. Ingestion plan (parse routing + extraction + validation) | ✅ done (`ingestion_plan.md`) |
-| 9. Extraction pilot on the locked 6-table schema (`schema/sgx_reit_schema.md`) | 🔄 in progress |
-| 10. DB load + NL-query layer pilot | ⬜ next |
+| 9. Switch parsing engine to **Datalab** (balanced, cheaper + cleaner tables) | ✅ done (`parsed_reports_datalab/`) |
+| 10. Pure-LLM extraction skill, validated on 5 archetypes | ✅ done (`reit-extract`, both gates pass) |
+| 11. **Hybrid on-the-fly extraction** (deterministic adapters + LLM judgement) for batch scale | 🔄 piloted (C38U properties); skill = `reit-extract-hybrid` |
+| 12. Run full corpus (one agent per AR) → DB load + NL-query layer | ⬜ next |
 
 ## Repository layout
 
@@ -27,21 +29,31 @@ schema/
   sgx_reit_schema.md            CANONICAL schema — the locked 6-table plan of record
                                 (sgx_reit_profile/property/performance/top_tenant/
                                 trade_mix/financial + mv_sgx_reit)
+  models.py                     Pydantic mirror of the 6 tables — the field contract
+                                (shared by the validation gate + extraction)
 
 annual_reports/                 ~101 downloaded PDFs + _manifest.csv  (run dir, root)
-parsed_reports/<stem>/          Per report: full.md (page-anchored markdown),
-                                pages.jsonl (per-page md + item types), meta.json;
-                                _inventories.md = per-report data inventories
-extracted/<SYMBOL>_FY<YYYY>/    Extraction output (NEW schema). 8 JSON files per
-                                trust-year — see .claude/skills/reit-extraction
+parsed_reports/<stem>/          LlamaParse (agentic) output — legacy parses
+parsed_reports_datalab/<stem>/  Datalab (balanced) output — CURRENT parser: full.md
+                                (page-anchored), pages.jsonl, meta.json (cost+checkpoint)
+extracted/<SYMBOL>.SI_FY<YYYY>/ FINAL extraction output — 8 JSON files per trust-year,
+                                gated; the canonical store loaded to the DB
+extracted_adapter/<stem>/       Hybrid working dir: per-section HTML, plan_<section>.json
+                                (LLM-authored), deterministic/merged outputs, status.json
 
 scripts/
   download_reports.py           PDF downloader, naming {id:02d}_{symbol}_{name}_FY{yr}.pdf
   reconcile.py                  Rebuild annual_reports/_manifest.csv, report gaps
-  parse_sample.py               LlamaParse (agentic tier) batch parser, create+poll
-  fetch_results.py              Re-fetch completed parse jobs by job_id (free)
-  list_jobs.py                  Inspect parse jobs on the LlamaCloud account
+  parse_datalab.py              Datalab parser (balanced, token-efficient, checkpoint) → md
+  parse_datalab_extract.py      Datalab page_schema structured extraction (A/B harness)
+  parse_sample.py               LlamaParse (agentic) batch parser — legacy
+  fetch_results.py / list_jobs.py   LlamaCloud job re-fetch / inspect — legacy
   build_verify_html.py          Build the human verification bench HTML from extracted/
+  adapter/                      HYBRID on-the-fly extraction engine:
+    parse_html.py               Datalab convert → HTML (preserves <sup> + page block-ids)
+    run_adapter.py              generic plan engine: plan_<section>.json + HTML → records
+    merge_llm.py                merge the batched LLM pass back; anomaly check
+    track.py                    progress matrix across all ARs (from status.json)
 
 catalog/
   singapore_reits_annual_reports.md/.json   Catalog of AR links per trust (FY2023–25)
@@ -51,19 +63,62 @@ docs/                           Dated analysis / journey-of-record (NOT the live
   feedback_reflection.md        Response to schema review feedback (validated vs 9 ARs)
   ingestion_plan.md             Production parsing/extraction plan + validation invariants
 
-archive/                        Superseded work, kept for reference:
-  schema_iterations/            Old schema drafts (proposal, v2, v3, _final, _finale, draft)
-  pilot_old_schema/             First pilot extraction (OLD 8-table schema) + model benchmarks
-  presentation/                 Findings/explorer/verify HTML + screenshots
-  reference/                    REITS db.xlsx (colleague's draft workbook)
+archive/                        Superseded work, kept for reference (incl. old schema drafts,
+                                first 8-table pilot, presentation HTML, reference workbook)
 
-.claude/skills/reit-extraction/ The extraction skill (SKILL.md, REFERENCE.md, scripts/):
-                                turns a parsed AR into the 8 schema JSON files + QC gate
+.claude/skills/
+  reit-extract/                 Pure-LLM extraction skill (Datalab-tuned): SKILL + REFERENCE
+                                + scripts/ (locate.py, validate_schema.py, check_extraction.py)
+  reit-extract-hybrid/          Batch-scale skill: one agent per AR authoring its own
+                                on-the-fly deterministic plans + LLM judgement; plans/ library
+  reit-extraction/              First-gen skill (parser-agnostic) — superseded by the above
 ```
 
-The extraction pipeline (skill + scripts) hardcodes `annual_reports/`, `parsed_reports/`,
-and `extracted/` at the repo root, so those run directories stay at root by design; run
-all scripts from the repo root (paths are CWD-relative).
+The pipeline hardcodes the data run-dirs (`annual_reports/`, `parsed_reports*/`,
+`extracted/`, `extracted_adapter/`) at the repo root by design. Scripts resolve paths from
+their own location (`Path(__file__).parent.parent`), so they work from anywhere, but the
+documented convention is to run them from the repo root.
+
+## Extraction approach (current direction)
+
+Parsing now runs on **Datalab (balanced mode)** — cheaper than the agentic LlamaParse tier
+(~0.4¢/page) and emits cleaner tables (markdown pipe tables for reading, HTML for
+deterministic parsing). The full FY2025 corpus parses for ~$26.
+
+Extraction has two complementary skills, both targeting the locked 6-table schema and gated
+by `validate_schema.py` (Pydantic/type+enum) **and** `check_extraction.py` (reconciliation/
+units/provenance):
+
+- **`reit-extract` (pure LLM)** — a Sonnet agent reads the parsed markdown and writes the 8
+  schema JSON files. Data-driven from a 4-archetype sweep: three-tier valuation rule
+  (`market_valuation` only from the audited Portfolio Statement), source precedence, and
+  per-sub-sector playbooks (Retail/Office/Diversified, Hospitality, Data Centre, Healthcare,
+  Industrial). Validated on 5 archetypes — all pass both gates. Best for one-off correctness.
+
+- **`reit-extract-hybrid` (on-the-fly deterministic + LLM)** — the **scaling** path for the
+  ~40-report corpus. Per-row LLM transcription is the bottleneck (regenerating 180 property
+  rows as output tokens takes minutes), but that data sits in clean tables. So **each AR is
+  handled by its own agent that writes that report's extraction *plans* on the fly**:
+
+  1. **Judge** (LLM) — per section, sample ~5 rows + the schema and decide each field
+     `deterministic` / `needs_llm` / `other_source`, and whether the section is a clean grid
+     (`hybrid`) or scattered (`llm_only`).
+  2. **Plan** — author `plan_<section>.json` (column→field map + transforms), locating the
+     table by header text so it survives layout shifts.
+  3. **Run** — a generic, declarative engine (`run_adapter.py`, *not* exec'd codegen) pulls
+     every row deterministically.
+  4. **Cross-check** — counts + reconciliation + spot-check vs the source.
+  5. **LLM pass** — resolve the `needs_llm` fields for all rows in one batched call, then
+     **merge back** (`merge_llm.py`), never overwriting deterministic values.
+  6. **Assemble + gate + track** — write the 8 final files, run both gates, keep
+     `status.json` current (`track.py` shows progress across all ARs).
+
+  Plans are **reusable across sponsor template families** (CapitaLand, Mapletree, Keppel…) —
+  the first report of a family costs a planning pass, the rest are near-instant.
+
+  *Pilot (C38U properties):* deterministic Tier-C = **25 rows in 0.28 s, 25/25 identical** to
+  the pure-LLM agent on valuation/tenure/term; the LLM touched only 2 judgment fields in one
+  14 s batched call. ~20× faster, ~6× cheaper, reproducible.
 
 ## Parsed sample (stratified by sector/structure/currency)
 
@@ -108,24 +163,36 @@ AR (parsed above) covers the Entrusted Management Agreement income model instead
 ## Usage
 
 ```powershell
-pip install requests llama-cloud openpyxl
-$env:LLAMA_CLOUD_API_KEY = "llx-..."
+pip install requests datalab-python-sdk pandas beautifulsoup4 lxml pydantic openpyxl
+# secrets in .env (gitignored): DATALAB_API_KEY=...   (LLAMA_CLOUD_API_KEY for legacy parse)
 
-python scripts/download_reports.py    # fetch PDFs into annual_reports/
-python scripts/reconcile.py           # rebuild manifest, report gaps
-python scripts/parse_sample.py        # parse sample set via LlamaParse agentic tier
+python scripts/download_reports.py            # fetch PDFs into annual_reports/
+python scripts/reconcile.py                   # rebuild manifest, report gaps
+python scripts/parse_datalab.py <stem>        # parse to markdown (balanced, ~0.4c/page)
+
+# --- hybrid extraction (per AR) ---
+python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md
+python scripts/adapter/parse_html.py <stem> --page-range A-B    # HTML for the table pages
+python scripts/adapter/run_adapter.py extracted_adapter/<stem>/plan_<section>.json
+python scripts/adapter/merge_llm.py <det>.json <llm_filled>.json <plan>.json
+python .claude/skills/reit-extract/scripts/validate_schema.py  extracted/<SYMBOL>.SI_FY<YYYY>
+python .claude/skills/reit-extract/scripts/check_extraction.py extracted/<SYMBOL>.SI_FY<YYYY>
+python scripts/adapter/track.py               # progress across all ARs
 ```
 
-Notes: parsing a ~250-page report on agentic tier takes several minutes and significant credits;
-`scripts/parse_sample.py` skips reports already present in `parsed_reports/`. Completed jobs
-can be re-downloaded for free with `scripts/fetch_results.py` (job IDs printed by the run), and
-**LlamaExtract accepts existing parse-job IDs as input** — the next stage needs no re-parsing.
+Notes: Datalab is a paid per-page API — validate with `--page-range` before full runs;
+`parse_datalab.py` saves a checkpoint (re-extract without re-paying the parse). The skills
+drive the agent through the per-section judge → plan → run → cross-check → merge loop; the
+commands above are the underlying engine. Legacy LlamaParse (`parse_sample.py`,
+`fetch_results.py`) is kept for the existing `parsed_reports/` only.
 
 ## Next steps
 
-1. Run the extraction skill (`.claude/skills/reit-extraction`) over `parsed_reports/` into
-   `extracted/<SYMBOL>_FY<YYYY>/`, one trust at a time, QC-gating each (`check_extraction.py`)
-   against the locked 6-table schema. Pilot trust: C38U (CICT) FY2025.
-2. Top up LlamaCloud credits; parse the full corpus incl. FY2023/24 backfill for 3-year trends.
-3. Implement the `sgx_reit_*` tables per `schema/sgx_reit_schema.md`, load the extracted JSON
-   (intermediate→table mapping documented in the skill), and pilot the NL-query layer.
+1. **Prove the full 6-section hybrid** on one report end-to-end (author + run the
+   `top_tenants` / `trade_mix` / `financial` adapters on C38U), then on a fresh report to
+   test plan reuse (a second CapitaLand) and 180-property scale (M44U).
+2. **Run the full corpus** with one `reit-extract-hybrid` agent per AR (incl. FY2023/24
+   backfill for 3-year trends), tracked via `status.json` + `track.py`; fall back to
+   `reit-extract` (pure LLM) for non-adapterable sections.
+3. Implement the `sgx_reit_*` tables per `schema/sgx_reit_schema.md`, project the 8-file
+   intermediate to exact schema columns, load, and pilot the NL-query layer.
