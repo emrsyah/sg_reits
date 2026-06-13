@@ -15,7 +15,8 @@ try:
 except ImportError:
     sys.exit("requests not installed -- run: pip install requests")
 
-OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "annual_reports")
+# repo root = parent of scripts/ (script lives in scripts/)
+OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "annual_reports")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 HEADERS = {

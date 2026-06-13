@@ -2,7 +2,8 @@
 """Rebuild an accurate manifest from the PDFs actually on disk, and report gaps."""
 import os, csv, re
 
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "annual_reports")
+# repo root = parent of scripts/ (script lives in scripts/)
+OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "annual_reports")
 
 # Reports that genuinely DO NOT exist (entity not listed / FY not yet published) -> expected-absent
 NOT_EXIST = {

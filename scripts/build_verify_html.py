@@ -9,7 +9,7 @@ Re-run after any re-extraction:  python build_verify_html.py
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (script lives in scripts/)
 TRUSTS = [
     {"symbol": "C38U.SI", "name": "CapitaLand Integrated Commercial Trust", "short": "CICT",
      "dir": "C38U.SI_FY2025", "pdf": "annual_reports/09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025.pdf"},

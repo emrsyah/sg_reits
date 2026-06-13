@@ -7,7 +7,7 @@ from pathlib import Path
 
 from llama_cloud import AsyncLlamaCloud
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (script lives in scripts/)
 OUT_DIR = ROOT / "parsed_reports"
 OUT_DIR.mkdir(exist_ok=True)
 
