@@ -29,7 +29,7 @@ ANCHORS = [
     ("about_trust",          r"\babout (us|the trust|must|clas)\b|corporate profile"),
     ("trust_structure",      r"trust(?: and organisation)? structure|organisation chart"),
     ("corporate_info",       r"corporate information|corporate directory"),
-    ("financial_highlights", r"financial highlights|5[- ]year financial|five[- ]year financial"),
+    ("financial_highlights", r"financial[\w &]{0,15}highlights|5[- ]year financial|five[- ]year financial"),
     # property tiers (THREE of them - read the audited one for market_valuation)
     ("valuation_summary",    r"portfolio valuation|valuation as at|appraised value"),       # tier A (marketing)
     ("per_property_detail",  r"property details|at a glance|property information"),          # tier B (operating)
@@ -39,8 +39,8 @@ ANCHORS = [
     ("tenure",               r"land tenure|tenure of land|land title|term of lease|land use right"),
     ("held_for_sale",        r"held for sale|asset held for sale|held-for-sale"),
     # tenants & mix (sub-sector conditional)
-    ("top_tenants",          r"top (10|ten) tenants?|top (10|ten) (corporate )?clients?"),
-    ("trade_mix",            r"trade (mix|sector)|tenant.{0,15}mix|business.{0,10}mix"),
+    ("top_tenants",          r"top (10|ten) (corporate )?(tenants?|clients?|customers?)|major tenants?|top (10|ten) (corporate )?(account|lessee)"),
+    ("trade_mix",            r"trade (mix|sector)|tenant.{0,15}mix|business.{0,10}mix|tenant.{0,15}sector"),
     ("client_type",          r"hyperscaler|colocation|contract type|by contract|client.{0,10}trade sector"),
     # performance / distribution
     ("distribution_stmt",    r"distribution statement|available for distribution|income available"),
@@ -49,7 +49,7 @@ ANCHORS = [
     # audited financial statements
     ("financial_position",   r"statement(s)? of financial position|balance sheet"),
     ("total_return",         r"statement(s)? of (total return|comprehensive income|profit or loss)"),
-    ("revenue_note",         r"\bgross revenue\b|\bgross rental income\b"),
+    ("revenue_note",         r"\bgross revenue\b|\bgross rental income\b|rental and other income|revenue and other income"),
     ("expense_note",         r"property (operating )?expenses|direct expenses"),
     ("segment_note",         r"segment(al)? (information|reporting)|operating segments"),
     ("nci",                  r"non-controlling interest|minority interest"),
