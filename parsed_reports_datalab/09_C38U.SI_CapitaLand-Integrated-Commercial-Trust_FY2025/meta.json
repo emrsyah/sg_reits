@@ -1,14 +1,14 @@
 {
   "file": "09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025.pdf",
-  "parser": "datalab:accurate",
+  "parser": "datalab:balanced",
   "pages": 5,
   "pages_written": 5,
-  "seconds": 26.1,
+  "seconds": 20.1,
   "parse_quality_score": null,
-  "runtime": 18.968369483947754,
+  "runtime": 14.002493143081665,
   "cost_breakdown": {
-    "list_cost_cents": 5,
-    "final_cost_cents": 4,
+    "list_cost_cents": 2,
+    "final_cost_cents": 2,
     "regional_multiplier": 1.0
   },
   "page_range": "108-112"

@@ -9,22 +9,28 @@ parses for a like-for-like quality comparison.
   parsed_reports_datalab/<stem>/
     full.md      page-anchored markdown  (<!-- PAGE N --> separators)
     pages.jsonl  one JSON object per page
-    meta.json    parser, mode, pages, seconds, parse_quality_score, cost
+    meta.json    parser, mode, pages, seconds, quality, cost, checkpoint_id
   parsed_reports_datalab/_compare.md   metrics vs the agentic parse (when present)
+
+Defaults are the measured sweet spot for these documents (see the chat / research):
+  mode=balanced (0.4c/page, table fidelity == accurate on the FY tables),
+  + save_checkpoint (parse once, run extraction later without re-paying the parse),
+  + token_efficient_markdown (leaner markdown -> cheaper downstream extraction),
+  + image extraction off (we only need text/tables).
 
 Auth: reads DATALAB_API_KEY from the repo-root .env (gitignored) or the env.
 
 Usage (run from anywhere):
-  pip install datalab-python-sdk          # see install note in the README/below
-  python scripts/parse_datalab.py                              # default 2 docs, mode=accurate
-  python scripts/parse_datalab.py 09_C38U... 28_M44U...        # specific stems/files
-  python scripts/parse_datalab.py 09_C38U... --page-range 108-112   # cheap smoke test
-  python scripts/parse_datalab.py --mode balanced 13_DCRU...   # fast | balanced | accurate
+  pip install datalab-python-sdk
+  python scripts/parse_datalab.py                                  # default 2 docs, balanced
+  python scripts/parse_datalab.py 13_DCRU... --mode accurate
+  python scripts/parse_datalab.py 12_DHLU... --use-llm --page-range 95-115  # hard tables
+  python scripts/parse_datalab.py 09_C38U... --extras chart_understanding,table_row_bboxes
 
-NOTE: Datalab is a paid, per-page API. Use --page-range first to validate on a
-few pages before spending credits on full ~200-page reports.
+NOTE: Datalab is a paid per-page API. Use --page-range to validate cheaply first.
 """
 import argparse
+import inspect
 import json
 import os
 import re
@@ -42,8 +48,7 @@ DEFAULT_DOCS = [
     "28_M44U.SI_Mapletree-Logistics-Trust_FY2025.pdf",
 ]
 
-# Marker's paginate delimiter is a line like "{0}------------------------------".
-PAGE_DELIM_RX = re.compile(r"\n*\{(\d+)\}-{6,}\n*")
+PAGE_DELIM_RX = re.compile(r"\n*\{(\d+)\}-{6,}\n*")   # Marker paginate delimiter
 TABLE_ROW_RX = re.compile(r"^\s*\|.*\|\s*$", re.MULTILINE)
 HTML_TABLE_RX = re.compile(r"<t[dr]\b", re.IGNORECASE)
 
@@ -58,24 +63,31 @@ def load_dotenv() -> None:
         if not line or line.startswith("#") or "=" not in line:
             continue
         k, v = line.split("=", 1)
-        k, v = k.strip(), v.strip().strip('"').strip("'")
-        os.environ.setdefault(k, v)
+        os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
+
+def build_options(ConvertOptions, **kw):
+    """Construct ConvertOptions tolerantly: kwargs the SDK doesn't expose directly
+    (e.g. the beta use_llm / format_lines) are routed into additional_config so the
+    script keeps working across SDK versions instead of throwing TypeError."""
+    accepted = set(inspect.signature(ConvertOptions).parameters)
+    known, extra = {}, {}
+    for k, v in kw.items():
+        if v is None or v == "":
+            continue
+        (known if k in accepted else extra)[k] = v
+    if extra:
+        known["additional_config"] = {**(known.get("additional_config") or {}), **extra}
+    return ConvertOptions(**known)
 
 
 def split_pages(md: str) -> list[tuple[int, str]]:
-    """Split paginated Datalab markdown into (page_number, markdown) pairs.
-
-    Returns 1-based page numbers. Falls back to a single page if no delimiter
-    is found (so the parser still produces usable output if the format shifts).
-    """
     parts = PAGE_DELIM_RX.split(md)
-    if len(parts) < 3:  # no delimiters detected
+    if len(parts) < 3:
         return [(1, md.strip())]
-    # parts = [pre, idx0, body0, idx1, body1, ...]; 'pre' is usually empty
     pages: list[tuple[int, str]] = []
-    pre = parts[0].strip()
-    if pre:
-        pages.append((1, pre))
+    if parts[0].strip():
+        pages.append((1, parts[0].strip()))
     it = iter(parts[1:])
     for idx, body in zip(it, it):
         pages.append((int(idx) + 1, body.strip()))  # marker pages are 0-indexed
@@ -83,11 +95,9 @@ def split_pages(md: str) -> list[tuple[int, str]]:
 
 
 def metrics(md: str) -> dict:
-    return {
-        "chars": len(md),
-        "pipe_table_rows": len(TABLE_ROW_RX.findall(md)),
-        "html_table_tags": len(HTML_TABLE_RX.findall(md)),
-    }
+    return {"chars": len(md),
+            "pipe_table_rows": len(TABLE_ROW_RX.findall(md)),
+            "html_table_tags": len(HTML_TABLE_RX.findall(md))}
 
 
 def agentic_full_md(stem: str) -> str | None:
@@ -95,8 +105,7 @@ def agentic_full_md(stem: str) -> str | None:
     return p.read_text(encoding="utf-8") if p.exists() else None
 
 
-def parse_one(client, ConvertOptions, fname: str, mode: str,
-              page_range: str | None) -> dict:
+def parse_one(client, opts, mode_label: str, page_range: str | None, fname: str) -> dict:
     src = IN_DIR / fname
     if not src.exists():
         print(f"! missing PDF: {src}", flush=True)
@@ -105,15 +114,9 @@ def parse_one(client, ConvertOptions, fname: str, mode: str,
     out = OUT_DIR / stem
     out.mkdir(parents=True, exist_ok=True)
 
-    opts = ConvertOptions(
-        output_format="markdown",
-        mode=mode,                      # fast | balanced | accurate
-        paginate=True,                  # page delimiters -> per-page split
-        disable_image_extraction=True,  # text/table fidelity only; no base64 dumps
-        **({"page_range": page_range} if page_range else {}),
-    )
     rng = f" pages={page_range}" if page_range else ""
-    print(f"> datalab[{mode}]:{rng} {fname} ({src.stat().st_size/1e6:.1f} MB) ...", flush=True)
+    print(f"> datalab[{mode_label}]:{rng} {fname} ({src.stat().st_size/1e6:.1f} MB) ...",
+          flush=True)
     t0 = time.monotonic()
     try:
         result = client.convert(file_path=str(src), options=opts)
@@ -121,7 +124,6 @@ def parse_one(client, ConvertOptions, fname: str, mode: str,
         print(f"! error: {fname} - {type(e).__name__}: {e}", flush=True)
         return {"file": fname, "status": "error", "error": str(e)}
     dt = time.monotonic() - t0
-
     if not getattr(result, "success", False):
         print(f"! failed: {fname} - {getattr(result, 'error', 'unknown')}", flush=True)
         return {"file": fname, "status": "failed", "error": getattr(result, "error", None)}
@@ -135,25 +137,24 @@ def parse_one(client, ConvertOptions, fname: str, mode: str,
             jf.write(json.dumps({"page": num, "markdown": body}, ensure_ascii=False) + "\n")
 
     meta = {
-        "file": fname,
-        "parser": f"datalab:{mode}",
-        "pages": result.page_count or len(pages),
-        "pages_written": len(pages),
+        "file": fname, "parser": f"datalab:{mode_label}",
+        "pages": result.page_count or len(pages), "pages_written": len(pages),
         "seconds": round(dt, 1),
         "parse_quality_score": getattr(result, "parse_quality_score", None),
         "runtime": getattr(result, "runtime", None),
         "cost_breakdown": getattr(result, "cost_breakdown", None),
+        "checkpoint_id": getattr(result, "checkpoint_id", None),  # reuse for extraction
         "page_range": page_range,
     }
-    with open(out / "meta.json", "w", encoding="utf-8") as f:
-        json.dump(meta, f, indent=2)
-    q = meta["parse_quality_score"]
+    (out / "meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
+    cost = (meta["cost_breakdown"] or {}).get("final_cost_cents")
+    ckpt = f" ckpt={meta['checkpoint_id']}" if meta["checkpoint_id"] else ""
     print(f"+ done: {fname} - {len(pages)} pages in {dt:.0f}s"
-          f"{f' (quality {q})' if q is not None else ''} -> {out.relative_to(ROOT)}",
+          f"{f' ({cost}c)' if cost is not None else ''}{ckpt} -> {out.relative_to(ROOT)}",
           flush=True)
 
     row = {"file": fname, "status": "ok", **meta, "datalab_md": metrics(md)}
-    if page_range is None:  # only compare full parses against the full agentic parse
+    if page_range is None:
         ag = agentic_full_md(stem)
         if ag is not None:
             row["agentic"] = {"pages": len(re.findall(r"<!-- PAGE \d+ -->", ag)),
@@ -166,32 +167,23 @@ def write_compare(rows: list[dict]) -> None:
     if not full:
         return
     lines = [
-        "# Datalab (Marker/Surya) vs agentic LlamaParse — quality compare",
+        "# Datalab (Marker/Surya) vs agentic LlamaParse — quality compare", "",
+        "`pipe_table_rows` + `html_table_tags` proxy surviving table structure;",
+        "`chars` is raw text volume. Datalab emits clean markdown pipe tables, agentic",
+        "emits HTML `<td>` tables — both are structured (unlike LiteParse's flattening).",
         "",
-        "Same PDFs, two cloud parsers. `pipe_table_rows` + `html_table_tags` proxy how",
-        "much tabular structure survived (audited portfolio / financial-review tables);",
-        "`chars` is raw text volume. Datalab also returns a `parse_quality_score`.",
-        "",
-        "| Doc | Parser | Pages | Chars | Pipe rows | HTML cells | Quality | Seconds |",
+        "| Doc | Parser | Pages | Chars | Pipe rows | HTML cells | Cost | Seconds |",
         "|---|---|---:|---:|---:|---:|---:|---:|",
     ]
     for r in full:
         short = r["file"].replace(".pdf", "")
         d, a = r["datalab_md"], r["agentic"]
-        q = r.get("parse_quality_score")
-        lines.append(f"| {short} | **datalab:{r['parser'].split(':')[1]}** | {r['pages']} | "
-                     f"{d['chars']:,} | {d['pipe_table_rows']:,} | {d['html_table_tags']:,} | "
-                     f"{q if q is not None else '—'} | {r['seconds']} |")
+        cost = (r.get("cost_breakdown") or {}).get("final_cost_cents", "—")
+        lines.append(f"| {short} | **{r['parser']}** | {r['pages']} | {d['chars']:,} | "
+                     f"{d['pipe_table_rows']:,} | {d['html_table_tags']:,} | {cost}c | "
+                     f"{r['seconds']} |")
         lines.append(f"| {short} | agentic | {a['pages']} | {a['chars']:,} | "
                      f"{a['pipe_table_rows']:,} | {a['html_table_tags']:,} | — | (cloud) |")
-    lines += [
-        "",
-        "Open the same hard page in both to judge table fidelity directly:",
-        "```",
-        "parsed_reports/09_C38U..._FY2025/full.md            # agentic",
-        "parsed_reports_datalab/09_C38U..._FY2025/full.md    # datalab",
-        "```",
-    ]
     (OUT_DIR / "_compare.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"+ wrote {(OUT_DIR/'_compare.md').relative_to(ROOT)}", flush=True)
 
@@ -199,9 +191,18 @@ def write_compare(rows: list[dict]) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser(description="Parse REIT PDFs with Datalab.")
     ap.add_argument("docs", nargs="*", help="PDF filenames/stems (default: 2 compare docs)")
-    ap.add_argument("--mode", default="accurate", choices=["fast", "balanced", "accurate"])
-    ap.add_argument("--page-range", default=None,
-                    help="0-based range, e.g. '108-112' — cheap smoke test before full runs")
+    ap.add_argument("--mode", default="balanced", choices=["fast", "balanced", "accurate"],
+                    help="default balanced — measured sweet spot for these docs")
+    ap.add_argument("--page-range", default=None, help="0-based, e.g. '108-112' (cheap test)")
+    ap.add_argument("--extras", default=None,
+                    help="comma list: chart_understanding,table_row_bboxes,extract_links,...")
+    ap.add_argument("--use-llm", action="store_true",
+                    help="beta LLM pass for hard tables/forms (~2x cost) — use on hard docs")
+    ap.add_argument("--no-checkpoint", action="store_true",
+                    help="don't save a checkpoint (default: save, for cheap re-extraction)")
+    ap.add_argument("--no-token-efficient", action="store_true",
+                    help="emit standard markdown instead of token-efficient")
+    ap.add_argument("--images", action="store_true", help="keep image extraction on")
     args = ap.parse_args()
 
     load_dotenv()
@@ -213,9 +214,21 @@ def main() -> None:
         sys.exit("datalab_sdk not installed. Try: pip install datalab-python-sdk")
 
     OUT_DIR.mkdir(exist_ok=True)
+    opts = build_options(
+        ConvertOptions,
+        output_format="markdown",
+        mode=args.mode,
+        paginate=True,
+        disable_image_extraction=not args.images,
+        save_checkpoint=not args.no_checkpoint,
+        token_efficient_markdown=not args.no_token_efficient,
+        extras=args.extras,
+        use_llm=True if args.use_llm else None,   # routed via additional_config if needed
+        page_range=args.page_range,
+    )
     docs = [(d if d.endswith(".pdf") else d + ".pdf") for d in (args.docs or DEFAULT_DOCS)]
-    client = DatalabClient()  # reads DATALAB_API_KEY from env
-    rows = [parse_one(client, ConvertOptions, d, args.mode, args.page_range) for d in docs]
+    client = DatalabClient()
+    rows = [parse_one(client, opts, args.mode, args.page_range, d) for d in docs]
     write_compare(rows)
     ok = sum(1 for r in rows if r.get("status") == "ok")
     print(f"\nFinished: {ok}/{len(docs)} parsed -> {OUT_DIR.relative_to(ROOT)}/")
