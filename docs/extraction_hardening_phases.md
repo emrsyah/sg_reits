@@ -20,6 +20,30 @@ after review). **Findings** are append-only, each line dated `[YYYY-MM-DD]` with
 
 ---
 
+## Known non-agnostic assumptions (risk register)
+
+Things the pipeline currently *assumes* that are validated only on the reports seen so far —
+the "families"-class risk (asserted-general, not proven). **L** = fails loudly (a gate catches
+it); **S** = fails silently (wrong-but-plausible data — the dangerous kind). Audited 2026-06-13.
+
+| # | Assumption | Where | L/S | Status | Mitigation / next |
+|---|---|---|---|---|---|
+| R1 | Every trust has ONE audited Portfolio Statement = the valuation source (Tier-C rule) | method / skill | **S** | OPEN | judge step must check it exists; if not, document + pick a source. Test on divergent reports. |
+| R2 | Audited values are at 100% basis (not effective stake) | method / schema | **S** | OPEN (schema-flagged) | agent captures `value_basis`+`ownership`; no gate can verify — spot-check. |
+| R3 | Footnote markers are `<sup>` (name-number disambiguation) | run_adapter | **S** | OPEN | relies on Datalab; watch on new reports. |
+| R4 | Datalab balanced parses all 40 adequately (incl. 400-pg / scanned) | parsing | **S** | OPEN | validate on the big/odd ones; gates catch gross breaks only. |
+| R5 | Numbers are US/SG format (`,` thousands, `.` decimal) — `num()` does `replace(",","")` | run_adapter | L→S | OPEN | **untested on EUR/JPY/INR/RMB reports** — divergence check targets this. |
+| R6 | Sub-sector → which tables exist (playbook) | skill | S/L | partial | judge step verifies vs the actual doc; structural-null declaration. |
+| R7 | English + observed-vocabulary anchors / `DEFAULT_HEADER_SKIP` | locate / run_adapter | **L** | ongoing | extend vocab as new wording appears (done: customers / rental-and-other-income / (Years)). |
+| R8 | `MONEY_MIN=1e6`, recon tol 1%/5%, `KNOWN_PCT_BASIS`, sub-sector weights, Diversified 0.6/200 | gates / locate | **L** | tuned | warn-not-corrupt; revisit if false-flags appear. |
+| R9 | Per-report plan authoring generalises (NOT per-sponsor reuse) | skill | **L** | RESOLVED | reuse assumption dropped 2026-06-13; gates catch a bad fit. |
+
+The gates convert most of these from silent to loud — the genuinely silent ones (R1, R2, R3,
+R4) and the untested R5 are the priorities. The standing rule: **validate on divergent reports,
+don't assert generality.** (Divergence check: see the Foundation note / Phase D findings.)
+
+---
+
 ## Phase A — Engine generality (does the deterministic engine handle the section shapes?)
 
 **Goal:** prove `run_adapter` extracts the adapterable sections deterministically from Datalab
