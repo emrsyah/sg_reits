@@ -10,22 +10,109 @@
     "checkpoint_id": "checkpoint_2FAg8qYBGscbRki2dTJlRk_ZEb5QVuXV-CQ_SXPMLBg"
   },
   "sections": {
-    "profile":     {"status": "llm_only", "method": "llm_only", "adapterable": false, "reason": "management entities scattered across front + back matter; not a single table"},
-    "performance": {"status": "llm_only", "method": "llm_only", "adapterable": false, "reason": "headline figures span 5-yr summary + distribution statement + unitholders page"},
-    "properties":  {"status": "merged",   "method": "hybrid",  "adapterable": true,
-                    "plan": "plan_properties.json",
-                    "deterministic_fields": ["symbol","financial_year","currency","valuation_date","property_name","land_tenure","lease_term_years","tenure_raw","address","market_valuation","country","category","status","source_page"],
-                    "needs_llm_fields": ["ownership","value_basis"],
-                    "other_source_fields": ["net_property_income","gross_revenue","occupancy_rate","gla","nla","major_tenant","trade_mix","lease_expiry_date","effective_date"],
-                    "rows": 25,
-                    "cross_check": {"vs": "agent extracted/C38U.SI_FY2025", "match": "25/25 on market_valuation, land_tenure, lease_term_years", "gaps": ["ION Orchard (equity-accounted JV, not in Portfolio Statement)"]},
-                    "files": {"deterministic": "properties_deterministic.json", "llm_todo": "properties_deterministic.llm_todo.json", "llm_filled": "llm_filled.json", "merged": "properties_merged.json"},
-                    "note": "Tier-C portfolio statement adapter done. other_source fields await the per-property-cards adapter (pp.39-70)."},
-    "top_tenants": {"status": "llm_only", "method": "llm_only", "adapterable": true, "note": "single clean Top-10 table; adapter not yet authored"},
-    "trade_mix":   {"status": "llm_only", "method": "llm_only", "adapterable": true, "note": "single clean table with roll-up sub-tables; adapter not yet authored"},
-    "financial":   {"status": "llm_only", "method": "llm_only", "adapterable": true, "note": "Gross Revenue + Property Operating Expenses notes are clean grids; adapter not yet authored"}
+    "profile": {
+      "status": "llm_only",
+      "method": "llm_only",
+      "adapterable": false,
+      "reason": "management entities scattered across front + back matter; not a single table"
+    },
+    "performance": {
+      "status": "llm_only",
+      "method": "llm_only",
+      "adapterable": false,
+      "reason": "headline figures span 5-yr summary + distribution statement + unitholders page"
+    },
+    "properties": {
+      "status": "merged",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_properties.json",
+      "deterministic_fields": [
+        "symbol",
+        "financial_year",
+        "currency",
+        "valuation_date",
+        "property_name",
+        "land_tenure",
+        "lease_term_years",
+        "tenure_raw",
+        "address",
+        "market_valuation",
+        "country",
+        "category",
+        "status",
+        "source_page"
+      ],
+      "needs_llm_fields": [
+        "ownership",
+        "value_basis"
+      ],
+      "other_source_fields": [
+        "net_property_income",
+        "gross_revenue",
+        "occupancy_rate",
+        "gla",
+        "nla",
+        "major_tenant",
+        "trade_mix",
+        "lease_expiry_date",
+        "effective_date"
+      ],
+      "rows": 25,
+      "cross_check": {
+        "vs": "agent extracted/C38U.SI_FY2025",
+        "match": "25/25 on market_valuation, land_tenure, lease_term_years",
+        "gaps": [
+          "ION Orchard (equity-accounted JV, not in Portfolio Statement)"
+        ]
+      },
+      "files": {
+        "deterministic": "properties_deterministic.json",
+        "llm_todo": "properties_deterministic.llm_todo.json",
+        "llm_filled": "llm_filled.json",
+        "merged": "properties_merged.json"
+      },
+      "note": "Tier-C portfolio statement adapter done. other_source fields await the per-property-cards adapter (pp.39-70)."
+    },
+    "top_tenants": {
+      "status": "merged",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_top_tenants.json",
+      "rows": 10,
+      "cross_check": {
+        "vs": "agent",
+        "match": "10/10 name+gri%"
+      }
+    },
+    "trade_mix": {
+      "status": "merged",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_trade_mix.json",
+      "rows": 9,
+      "cross_check": {
+        "vs": "agent",
+        "match": "9/9 category+pct"
+      }
+    },
+    "financial": {
+      "status": "merged",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_financial_revenue.json + plan_financial_expense.json",
+      "rows": 13,
+      "cross_check": {
+        "vs": "agent",
+        "match": "revenue total 1,619,174,000 + expense total 429,425,000 exact; 13 raw lines vs agent 12 (agent merged 2 bad-debt lines)"
+      },
+      "note": "financial = 2 sub-table plans (revenue note + opex note); component mapping is the needs_llm step"
+    }
   },
   "final_dir": "extracted/C38U.SI_FY2025",
-  "gates": {"schema": "PASS", "check": "PASS"},
+  "gates": {
+    "schema": "PASS",
+    "check": "PASS"
+  },
   "updated": "2026-06-13"
 }

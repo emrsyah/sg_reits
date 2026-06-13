@@ -1,0 +1,64 @@
+{
+  "component": [
+    {
+      "row": 0,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 1,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 2,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 3,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 4,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 5,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 6,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 7,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 8,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    },
+    {
+      "row": 9,
+      "property_name": null,
+      "decision": "needs_llm",
+      "reason": "map label_raw -> canonical component key (base_rental, car_park, property_tax, ...)"
+    }
+  ]
+}
