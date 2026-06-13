@@ -1,0 +1,82 @@
+[
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "rental_income",
+    "amount": 627722000,
+    "currency": "SGD",
+    "label_raw": "Rental income",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "service_charges",
+    "amount": 87058000,
+    "currency": "SGD",
+    "label_raw": "Service charges",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_operating_income",
+    "amount": 12246000,
+    "currency": "SGD",
+    "label_raw": "Other operating income",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "operation_and_maintenance",
+    "amount": 26196000,
+    "currency": "SGD",
+    "label_raw": "Operation and maintenance",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_and_other_taxes",
+    "amount": 44380000,
+    "currency": "SGD",
+    "label_raw": "Property and other taxes",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_and_lease_management_fees",
+    "amount": 17282000,
+    "currency": "SGD",
+    "label_raw": "Property and lease management fees",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "loss_allowances",
+    "amount": 437000,
+    "currency": "SGD",
+    "label_raw": "Loss allowances",
+    "source_page": 187
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_property_expenses",
+    "amount": 13438000,
+    "currency": "SGD",
+    "label_raw": "Others",
+    "source_page": 187
+  }
+]
