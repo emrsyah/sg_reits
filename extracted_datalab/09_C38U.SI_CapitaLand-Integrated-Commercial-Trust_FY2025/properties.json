@@ -1,0 +1,7682 @@
+[
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The symbol C38U.SI is the correct SGX ticker for CapitaLand Integrated Commercial Trust. Although not explicitly printed in the text of this chunk, it is correct.\n\nPASS:\n  Conclusion: C38U.SI, which agrees with the extraction."
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The portfolio statement is as at 31 December 2025, as shown in block `/page/108/Text/1`.\n\nPASS:\nConclusion: 2025, which agrees with the extraction."
+      }
+    },
+    "property_name": "Tampines Mall",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The property name is listed as 'Tampines Mall' in the table on page 109 (block `/page/108/Table/2`).\n\nPASS:\nConclusion: \"Tampines Mall\", which agrees with the extraction."
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "Tampines Mall is located in Singapore, as supported by the portfolio statement.\n\nPASS:\n  Conclusion: Singapore, which agrees with the extraction."
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "Tampines Mall is categorized under Retail, as supported by the portfolio statement.\n\nPASS:\n  Conclusion: Retail, which agrees with the extraction."
+      }
+    },
+    "address": "4 Tampines Central 5",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The address for Tampines Mall is 4 Tampines Central 5, which is correct.\n\nPASS:\n  Conclusion: 4 Tampines Central 5, which agrees with the extraction."
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain ownership percentage information for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "market_valuation": 1158000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The carrying value for Tampines Mall in 2025 is $1,158,000 thousand (or $1,158,000,000), as shown in block `/page/108/Table/2`.\n\nPASS:\nConclusion: 1158000000, which agrees with the extraction."
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The valuation date is stated as 31 December 2025 on page 109 (block /page/109/Text/1), which matches the extracted value of 2025-12-31.\n\nConclusion: 2025-12-31, which agrees with the extraction."
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The currency is SGD, which is supported by the portfolio statement context and the dollar signs in the financial statements on page 110.\n\nConclusion: SGD, which agrees with the extraction."
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain net property income for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain gross revenue for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain occupancy rate for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain major tenant information for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain GLA for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain NLA for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The land tenure for Tampines Mall is Leasehold, which is correct.\n\nPASS:\n  Conclusion: Leasehold, which agrees with the extraction."
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain effective date for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The lease term is 99 years, which is correct.\n\nPASS:\n  Conclusion: 99, which agrees with the extraction."
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "FAIL_UNRESOLVABLE",
+        "feedback": "The document does not contain lease expiry date for Tampines Mall on page 109 or 110.\n\nConclusion: the document does not support a value for this field."
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The land tenure raw value is Leasehold, which is supported by the portfolio statement context.\n\nConclusion: Leasehold, which agrees with the extraction."
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The status is active, which is correct.\n\nPASS:\n  Conclusion: active, which agrees with the extraction."
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "The source page is 109 (1-indexed), which is correct.\n\nPASS:\n  Conclusion: 109, which agrees with the extraction."
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Bugis Junction",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "200 Victoria Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1155000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Westgate",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "3 Gateway Drive",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1140000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Bedok Mall",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "311 New Upper Changi Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 827996000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Junction 8",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "9 Bishan Place",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 815000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "IMM Building",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "2 Jurong East Street 21",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 790002000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 60,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Lot One Shoppers' Mall",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "21 Choa Chu Kang Avenue 4",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 584000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "CQ @ Clarke Quay",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "3A/B/C/D/E River Valley Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 413936000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Bugis+",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "201 Victoria Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 362571000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 60,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Asia Square Tower 2",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "12 Marina View",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 2252000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "CapitaSpring",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "86 and 88 Market Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": 100,
+    "ownership_citations": [
+      "/page/108/Footnote/3"
+    ],
+    "ownership_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Footnote/3"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "Footnote 4 (block `/page/108/Footnote/3`) states that Glory Office Trust (GOT), which holds CapitaSpring, became a wholly owned subsidiary (100% ownership) on 26 August 2025.\n\nPASS:\nConclusion: 100, which agrees with the extraction."
+      }
+    },
+    "market_valuation": 1900000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "CapitaGreen",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "138 Market Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1718000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Six Battery Road",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "6 Battery Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1623000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 999,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Capital Tower",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "168 Robinson Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1471000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "CapitaSky",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "79 Robinson Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1268000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Raffles City Singapore",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Integrated Developments",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "250 and 252 North Bridge Road, 2 Stamford Road and 80 Bras Basah Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 3434000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Plaza Singapura",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Integrated Developments",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "68 Orchard Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 1443256000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Freehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Freehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Funan",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Integrated Developments",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "107 & 109 North Bridge Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 852000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "The Atrium@Orchard",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Integrated Developments",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "60A & 60B Orchard Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 789000000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "100 Arthur Street",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Australia",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "100 Arthur Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 242634000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "AUD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Freehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Freehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "66 Goulburn Street",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Australia",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "Civic Tower, 66 Goulburn Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 223667000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "AUD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "101–103 Miller Street and Greenwood Plaza",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Australia",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Integrated Developments",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "101–103 Miller Street & 36 Blue Street",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 271054000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "AUD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Freehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Freehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Gallileo",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Germany",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "Gallusanlage 7",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 547629000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "EUR",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Freehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Freehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Main Airport Center",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Germany",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Office",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "Unterschweinstiege 2-14",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 319828000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "EUR",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Freehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": null,
+    "lease_term_years_citations": [],
+    "lease_term_years_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Freehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "active",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  },
+  {
+    "symbol": "C38U.SI",
+    "symbol_citations": [],
+    "symbol_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "financial_year": 2025,
+    "financial_year_citations": [
+      "/page/108/Text/1"
+    ],
+    "financial_year_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "property_name": "Bukit Panjang Plaza",
+    "property_name_citations": [
+      "/page/108/Table/2"
+    ],
+    "property_name_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "country": "Singapore",
+    "country_citations": [
+      "/page/108/Table/2"
+    ],
+    "country_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "category": "Retail",
+    "category_citations": [
+      "/page/108/Table/2"
+    ],
+    "category_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "address": "1 Jelebu Road",
+    "address_citations": [
+      "/page/108/Table/2"
+    ],
+    "address_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "ownership": null,
+    "ownership_citations": [],
+    "ownership_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "market_valuation": 390885000,
+    "market_valuation_citations": [
+      "/page/108/Table/2"
+    ],
+    "market_valuation_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "valuation_date": "2025-12-31",
+    "valuation_date_citations": [
+      "/page/108/Text/1"
+    ],
+    "valuation_date_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Text/1"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "currency": "SGD",
+    "currency_citations": [
+      "/page/108/Table/2"
+    ],
+    "currency_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "net_property_income": null,
+    "net_property_income_citations": [],
+    "net_property_income_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gross_revenue": null,
+    "gross_revenue_citations": [],
+    "gross_revenue_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "occupancy_rate": null,
+    "occupancy_rate_citations": [],
+    "occupancy_rate_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "trade_mix": null,
+    "major_tenant": null,
+    "major_tenant_citations": [],
+    "major_tenant_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "gla": null,
+    "gla_citations": [],
+    "gla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "nla": null,
+    "nla_citations": [],
+    "nla_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "land_tenure": "Leasehold",
+    "land_tenure_citations": [
+      "/page/108/Table/2"
+    ],
+    "land_tenure_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "effective_date": null,
+    "effective_date_citations": [],
+    "effective_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_term_years": 99,
+    "lease_term_years_citations": [
+      "/page/108/Table/2"
+    ],
+    "lease_term_years_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "lease_expiry_date": null,
+    "lease_expiry_date_citations": [],
+    "lease_expiry_date_meta": {
+      "extraction_status": "NOT_RESOLVABLE",
+      "reasoning": null,
+      "citations": [],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "tenure_raw": "Leasehold",
+    "tenure_raw_citations": [
+      "/page/108/Table/2"
+    ],
+    "tenure_raw_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    },
+    "status": "held_for_sale",
+    "status_citations": [
+      "/page/108/Table/2"
+    ],
+    "status_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PASS",
+        "feedback": "Bukit Panjang Plaza is listed under 'Asset held for sale in Singapore' in block `/page/108/Table/2` and confirmed by footnote 15.\n\nPASS:\nConclusion: \"held_for_sale\", which agrees with the extraction."
+      }
+    },
+    "source_page": 109,
+    "source_page_citations": [
+      "/page/108/Table/2"
+    ],
+    "source_page_meta": {
+      "extraction_status": "EXTRACTED",
+      "reasoning": null,
+      "citations": [
+        "/page/108/Table/2"
+      ],
+      "verification": {
+        "status": "PENDING",
+        "feedback": ""
+      }
+    }
+  }
+]

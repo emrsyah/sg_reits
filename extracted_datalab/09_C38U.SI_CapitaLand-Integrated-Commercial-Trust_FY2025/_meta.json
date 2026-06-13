@@ -1,0 +1,15 @@
+{
+  "file": "09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025.pdf",
+  "parser": "datalab-extract:balanced",
+  "section": "properties",
+  "page_range": "108-110",
+  "checkpoint_id_in": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7,
+    "regional_multiplier": 1.0
+  },
+  "written": {
+    "properties.json": 25
+  }
+}
