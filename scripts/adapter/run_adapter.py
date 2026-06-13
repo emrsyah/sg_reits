@@ -32,6 +32,11 @@ ROOT = Path(__file__).resolve().parents[2]
 FOOTNOTE_RX = re.compile(r"\s+\d{1,2}$")          # trailing superscript footnote number
 NUM_RX = re.compile(r"^\(?-?[\d,]+(?:\.\d+)?\)?$")
 YEARS_RX = re.compile(r"(\d+(?:\.\d+)?)\s*year", re.I)
+# header / sub-header fragments that leak when concatenating multi-row-header page-tables
+DEFAULT_HEADER_SKIP = re.compile(
+    r"^\(?(years|s\$|us\$|\$'?000|%|20\d\d|description|location|land\s*(tenure|title)|"
+    r"term of lease|remaining|carrying|fair value|percentage|occupancy|gross\s*(floor|revenue)|"
+    r"note)\b", re.I)
 
 
 def num(s: str):
@@ -149,6 +154,8 @@ def main() -> None:
             continue
         if not col0.strip():
             continue
+        if DEFAULT_HEADER_SKIP.match(col0):     # leaked header/sub-header rows
+            continue
         if skip_rx and skip_rx.match(col0):
             continue
 
@@ -165,8 +172,9 @@ def main() -> None:
                 if v and rec[fname] is None:
                     rec.setdefault("_warn", []).append(f"{fname}='{v}' not in enum")
             elif m == "parse_years":
-                mm = YEARS_RX.search(texts[spec["col"]] or "")
-                rec[fname] = float(mm.group(1)) if mm else None
+                cell = texts[spec["col"]] or ""
+                mm = YEARS_RX.search(cell)
+                rec[fname] = float(mm.group(1)) if mm else num(cell)   # "99 years" or bare "60"
             elif m == "parse_pct":
                 rec[fname] = num(texts[spec["col"]])      # "18.7%" -> 18.7
             elif m == "concat":
