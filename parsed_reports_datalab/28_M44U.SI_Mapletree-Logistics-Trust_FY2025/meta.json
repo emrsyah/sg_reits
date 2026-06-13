@@ -1,0 +1,16 @@
+{
+  "file": "28_M44U.SI_Mapletree-Logistics-Trust_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 235,
+  "pages_written": 235,
+  "seconds": 50.7,
+  "parse_quality_score": null,
+  "runtime": 41.424203634262085,
+  "cost_breakdown": {
+    "list_cost_cents": 94,
+    "final_cost_cents": 71,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_ZJKVjJoydj06Z1g2_Buc-rPhxZY5HZyfUyqgLNesU48",
+  "page_range": null
+}

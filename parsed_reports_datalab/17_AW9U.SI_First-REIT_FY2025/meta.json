@@ -1,0 +1,16 @@
+{
+  "file": "17_AW9U.SI_First-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 208,
+  "pages_written": 208,
+  "seconds": 63.4,
+  "parse_quality_score": null,
+  "runtime": 55.58810234069824,
+  "cost_breakdown": {
+    "list_cost_cents": 84,
+    "final_cost_cents": 63,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_SAWsyDBPznVcfq8skUd3SSqyllgDp41CB82_KD_uQZo",
+  "page_range": null
+}
