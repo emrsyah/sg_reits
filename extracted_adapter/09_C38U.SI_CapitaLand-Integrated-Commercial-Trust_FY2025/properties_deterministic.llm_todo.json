@@ -1,0 +1,1674 @@
+{
+  "ownership": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "needs_llm",
+      "reason": "disclosed in footnotes keyed by the superscript on property_name (e.g. CapitaSky 70%, Gallileo/MAC 94.9%); needs footnote->property mapping"
+    }
+  ],
+  "value_basis": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "needs_llm",
+      "reason": "100%-consolidated vs proportionate vs effective-interest; JV/<100% assets need judgement (Gallileo/MAC 94.9% shown at 100%; CapitaSky 70% at 100%)"
+    }
+  ],
+  "net_property_income": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "segment-level chart only (p26) — no per-property NPI disclosed"
+    }
+  ],
+  "gross_revenue": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "Financial Review by-property table (p25) + per-property cards"
+    }
+  ],
+  "occupancy_rate": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (p39-70)"
+    }
+  ],
+  "gla": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (GFA)"
+    }
+  ],
+  "nla": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (NLA)"
+    }
+  ],
+  "major_tenant": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (top 3 tenants)"
+    }
+  ],
+  "trade_mix": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "per-property cards (property-level mix)"
+    }
+  ],
+  "lease_expiry_date": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "not in Portfolio Statement (only Remaining Term of Lease) — compute or other page"
+    }
+  ],
+  "effective_date": [
+    {
+      "row": 0,
+      "property_name": "Tampines Mall",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 1,
+      "property_name": "Bugis Junction",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 2,
+      "property_name": "Westgate",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 3,
+      "property_name": "Bedok Mall",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 4,
+      "property_name": "Junction 8",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 5,
+      "property_name": "IMM Building",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 6,
+      "property_name": "Lot One Shoppers' Mall",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 7,
+      "property_name": "CQ @ Clarke Quay",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 8,
+      "property_name": "Bugis+",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 9,
+      "property_name": "Asia Square Tower 2",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 10,
+      "property_name": "CapitaSpring",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 11,
+      "property_name": "CapitaGreen",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 12,
+      "property_name": "Six Battery Road",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 13,
+      "property_name": "Capital Tower",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 14,
+      "property_name": "CapitaSky",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 15,
+      "property_name": "Raffles City Singapore",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 16,
+      "property_name": "Plaza Singapura",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 17,
+      "property_name": "Funan",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 18,
+      "property_name": "The Atrium@Orchard",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 19,
+      "property_name": "100 Arthur Street",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 20,
+      "property_name": "66 Goulburn Street",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 21,
+      "property_name": "101–103 Miller Street and Greenwood Plaza",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 22,
+      "property_name": "Gallileo",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 23,
+      "property_name": "Main Airport Center",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    },
+    {
+      "row": 24,
+      "property_name": "Bukit Panjang Plaza",
+      "decision": "other_source",
+      "reason": "land-lease start not disclosed in Portfolio Statement"
+    }
+  ]
+}
