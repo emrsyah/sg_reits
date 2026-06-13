@@ -191,5 +191,5 @@
   "known_gaps": {
     "equity_accounted_jv": "ION Orchard (50%) is equity-accounted and NOT in the Portfolio Statement (sits in the Joint Ventures balance-sheet line). Deterministic Tier-C extraction yields 25 rows; ION is a +1 that must come from the JV note / factsheet (needs_llm)."
   },
-  "_template_note": "CapitaLand-family Portfolio-Statement (Tier C) template. Per new report: update source.html path + consts (symbol/financial_year/valuation_date), re-verify value_col and column indices (3d), and check context_rules match the section headers used."
+  "_example_note": "EXAMPLE ONLY — shows the plan format for a single-table audited Portfolio Statement (originally authored for CICT/C38U). NOT a reusable template: layout is not guaranteed by sponsor or sub-sector. Author a fresh plan per report; if you borrow this, re-verify table_contains and every column index against the actual report first."
 }

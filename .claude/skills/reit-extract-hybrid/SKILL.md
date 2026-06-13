@@ -88,8 +88,8 @@ prints rows + per-field fill + the decision tally.
 
 **3d. Cross-check.** Verify the row count against the report's stated count; reconcile sums
 (e.g. Σ property valuation vs total) where possible; eyeball 3–5 rows vs the source page.
-Record matches/gaps in `status.json`. (For the first report of a template family, diff
-against a pure-LLM run of the same report to build confidence.)
+Record matches/gaps in `status.json`. (When validating a new layout, diff against a pure-LLM
+run of the same report to build confidence.)
 
 **3e. Batched LLM pass + merge (`needs_llm`).** Collect the `needs_llm` fields across ALL rows
 and resolve them in ONE call (give the model the row list + the relevant footnotes/source).
@@ -151,18 +151,23 @@ extracted/<SYMBOL>.SI_FY<YYYY>/                        FINAL 8-file output (gate
 `<stem>` = the PDF stem, e.g. `09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025`.
 `<section>` ∈ {profile, performance, properties, top_tenants, trade_mix, financial}.
 
-## Scaling: one agent per AR + plan reuse
+## Scaling: one agent per AR (author a fresh plan each)
 
 - **One agent per report** (orchestration prompt template in REFERENCE.md §4). Reports are
   independent — run them in parallel.
-- **Plans are per-layout and REUSABLE.** Reports from the same sponsor share templates
-  (CapitaLand, Mapletree, Keppel, Frasers…). Seed a new report from the family's prior plan
-  in `.claude/skills/reit-extract-hybrid/plans/<family>/` and adjust `table_contains`/columns
-  if the layout drifted. The first report of a family costs a full planning pass; the rest
-  are near-instant. Always re-verify column indices on the new report (3d) before trusting a
-  reused plan.
-- **The two gates are the safety net** — a reused plan that drifted (wrong column, missed
-  rows) fails reconciliation loudly.
+- **Author a plan PER REPORT — this is the default, not the exception.** Do NOT assume a
+  layout from the sponsor or the sub-sector: **same sub-sector ≠ same layout** (different
+  sponsors lay out a "retail" or "office" statement completely differently), and **same
+  sponsor is only a weak hint** (layouts drift across trusts and across years). What
+  generalises across reports is the **engine + the judge/plan step + the gates** — not the
+  plans. Plan authoring is cheap (one small LLM pass; the expensive per-row transcription is
+  already gone), so just write a fresh plan each time.
+- **Reusing a prior plan is an optional shortcut, never a shortcut past verification.** If you
+  start from an earlier report's plan, treat it as a guess: re-run `locate.py`, re-inspect the
+  table, and re-verify `table_contains` + every column index on THIS report (step 3d) before
+  trusting it. A plan that's wrong here must be edited, not forced.
+- **The two gates are the safety net** — a plan that doesn't fit (wrong column, missed rows)
+  fails reconciliation loudly, so a bad reuse can't pass silently.
 
 ## Self-check before finishing
 - Row count matches the report's stated property/tenant count (note legit gaps, e.g. equity-

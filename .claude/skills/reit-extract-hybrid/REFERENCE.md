@@ -158,8 +158,10 @@ Read and follow:
 - .claude/skills/reit-extract-hybrid/SKILL.md (+ REFERENCE.md)
 - .claude/skills/reit-extract/REFERENCE.md  (schema field set, sub-sector playbooks, quirks)
 - schema/models.py  (authoritative field names)
-If a plan exists for this trust's template family in
-.claude/skills/reit-extract-hybrid/plans/<family>/, START from it and re-verify columns.
+Author this report's plans fresh from its own tables — do NOT assume a layout from the
+sponsor or sub-sector. The example plans in .claude/skills/reit-extract-hybrid/plans/examples/
+are illustrations of the plan format only; if you borrow one, re-verify table_contains and
+every column index on THIS report before trusting it.
 
 Do the per-AR pipeline: parse (md + HTML for table pages) -> locate -> per section
 {judge feasibility -> plan -> run_adapter -> cross-check -> batched LLM pass -> merge},
@@ -168,11 +170,12 @@ extracted/<SYMBOL>.SI_FY<YYYY>/ -> run BOTH gates -> keep extracted_adapter/<ste
 current.
 
 Return: per-section method + status, rows per section, both gate verdicts, reconciliation
-lines, and any layout quirk that broke a reused plan (so the family template can be updated).
+lines, and any new layout shape worth recording in the table-shape taxonomy (§2).
 ```
 
-When a new template family is proven, copy its plans into
-`.claude/skills/reit-extract-hybrid/plans/<family>/` so later reports in the family reuse them.
+The `plans/examples/` folder holds a few reference plans to show the format — NOT a per-sponsor
+library to reuse by default. Layout sameness is not guaranteed by sponsor or type, so the
+reliable path is per-report authoring + the gates, not plan reuse.
 
 ---
 

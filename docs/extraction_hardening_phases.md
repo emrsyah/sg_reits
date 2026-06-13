@@ -136,7 +136,8 @@ properties 100% valuation-match vs the pure-LLM baseline. Gate to Phase E is **c
 - [x] Full 6-section pipeline on 3 trusts (AJBU, BTOU, AW9U) → both gates PASS each
 - [x] Include one fallback trust (AW9U stacked-cell → properties llm_only) — exercised
 - [x] Diff hybrid vs pure-LLM (properties valuation: AJBU 25/25, BTOU 7/7, AW9U 32/32)
-- [ ] Save proven plans to `.claude/skills/reit-extract-hybrid/plans/<family>/` (next)
+- [x] Decision: **author a plan per report** (no per-sponsor reuse assumption — layout is not
+      guaranteed by sponsor or sub-sector; the engine + judge step + gates are what generalise)
 - [ ] One facing-page-split trust (MLT) full run — deferred (MLT has no full pure-LLM baseline)
 
 **Findings**
@@ -186,7 +187,8 @@ tracked and sample-validated.
 
 **Todos**
 - [ ] One agent per AR (orchestration prompt in `reit-extract-hybrid/REFERENCE.md §4`)
-- [ ] Plan library accumulates per family; reuse + re-verify columns per report
+- [ ] Author a fresh plan per report (no per-sponsor reuse assumption); `plans/examples/` is
+      format reference only, always re-verify columns if borrowed
 - [ ] `track.py` monitors; every AR must hit both gates green
 - [ ] Stratified accuracy audit (one per sub-sector) hybrid vs pure-LLM before trusting the batch
 - [ ] FY2023/24 backfill (later, for 3-year trends)

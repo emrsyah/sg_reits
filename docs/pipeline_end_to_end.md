@@ -133,9 +133,12 @@ python scripts/adapter/merge_llm.py <section>_deterministic.json llm_filled_<sec
 ```
 `other_source` fields stay null until their own adapter/LLM pass fills them.
 
-**Plans are reusable across sponsor template families** (CapitaLand, Mapletree, Keppel…). Seed:
-`.claude/skills/reit-extract-hybrid/plans/<family>/`. First report of a family = a planning pass;
-the rest reuse the plan (re-verify columns).
+**Author a plan per report.** Layout is NOT guaranteed by sponsor or sub-sector (same type ≠
+same layout across sponsors; same sponsor only a weak hint). What generalises is the engine +
+the judge/plan step + the gates — not the plans. Plan authoring is cheap (the expensive per-row
+transcription is already gone), so write a fresh plan each time. Reusing a prior plan (see
+`plans/examples/`) is an optional shortcut that must always re-verify `table_contains` + columns
+on the actual report; the gates catch a bad fit loudly.
 
 ---
 
@@ -205,7 +208,7 @@ extracted/<SYMBOL>.SI_FY<YYYY>/                          FINAL 8-file output (ga
 - **Datalab page** lives on the `<table>` block-id (`/page/N/`), not per-row; `source_page` = N+1.
 - **Locate tables by header text**, not index — positions shift between reports.
 - **Footnote vs name-number**: strip `<sup>` tags, never a trailing-digit regex.
-- **The gates are the safety net** — a reused plan that drifted (wrong column, missed rows) fails
+- **The gates are the safety net** — a plan that doesn't fit (wrong column, missed rows) fails
   reconciliation loudly.
 - **Field-name discipline**: `financial_year` (not `fiscal_year`), `.SI` symbols, absolute money.
 

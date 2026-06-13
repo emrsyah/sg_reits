@@ -113,8 +113,10 @@ units/provenance):
   6. **Assemble + gate + track** — write the 8 final files, run both gates, keep
      `status.json` current (`track.py` shows progress across all ARs).
 
-  Plans are **reusable across sponsor template families** (CapitaLand, Mapletree, Keppel…) —
-  the first report of a family costs a planning pass, the rest are near-instant.
+  A plan is **authored fresh per report** — layout is not guaranteed by sponsor or sub-sector,
+  so what generalises is the engine + the judge/plan step + the gates, not the plans (plan
+  authoring is cheap once per-row transcription is gone). Reuse is an optional shortcut that
+  always re-verifies columns; the gates catch a bad fit.
 
   *Pilot (C38U properties):* deterministic Tier-C = **25 rows in 0.28 s, 25/25 identical** to
   the pure-LLM agent on valuation/tenure/term; the LLM touched only 2 judgment fields in one
@@ -188,11 +190,15 @@ commands above are the underlying engine. Legacy LlamaParse (`parse_sample.py`,
 
 ## Next steps
 
-1. **Prove the full 6-section hybrid** on one report end-to-end (author + run the
-   `top_tenants` / `trade_mix` / `financial` adapters on C38U), then on a fresh report to
-   test plan reuse (a second CapitaLand) and 180-property scale (M44U).
-2. **Run the full corpus** with one `reit-extract-hybrid` agent per AR (incl. FY2023/24
-   backfill for 3-year trends), tracked via `status.json` + `track.py`; fall back to
-   `reit-extract` (pure LLM) for non-adapterable sections.
+Hardening phases A–D are done (see `docs/extraction_hardening_phases.md`): the hybrid pipeline
+is proven end-to-end on 4 families, both gates green, with deterministic + LLM-lane + llm_only
+fallback paths. Remaining:
+
+1. **Phase E — run the full corpus** with one `reit-extract-hybrid` agent per AR (a fresh plan
+   authored per report), tracked via `status.json` + `track.py`, both gates green each; a
+   stratified accuracy audit (one per sub-sector) hybrid-vs-pure-LLM before trusting the batch.
+   Then FY2023/24 backfill for 3-year trends.
+2. **Build the positional-join engine mode** (or keep the LLM fallback) for facing-page-split
+   statements (Mapletree big portfolios, e.g. MLT).
 3. Implement the `sgx_reit_*` tables per `schema/sgx_reit_schema.md`, project the 8-file
    intermediate to exact schema columns, load, and pilot the NL-query layer.
