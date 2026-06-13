@@ -78,6 +78,23 @@ sweep. Always re-confirm on the actual report; this is the prior, not the answer
 Rule of thumb: **one clean grid → hybrid; few scattered cells → llm_only.** When `llm_only`,
 use the `reit-extract` workflow for that section and mark it `llm_only` in status.json.
 
+### Table-shape taxonomy (decide this in the judge step)
+
+The engine handles some table shapes deterministically and not others. Inspect the section's
+HTML tables (`pandas.read_html` / count `<table>` blocks) before committing to `hybrid`:
+
+| Shape | Engine support | What to do |
+|---|---|---|
+| **Single self-contained table** (label + values in one grid; C38U portfolio statement, top-10, trade-mix, FS notes) | ✅ full | `hybrid` — author a plan, `value_col` = the numeric anchor column |
+| **Multi-page, same columns** (one `<table>` per page, each with its own label + value column) | ✅ `run_adapter` concatenates all tables matching `table_contains` | `hybrid` — header text matches every page-table; concat is automatic |
+| **Facing-page positional split** (description columns on left page, value/revenue columns on a SEPARATE table with NO label column, aligned by row position — Mapletree big-portfolio statements, e.g. MLT) | ❌ not yet — needs a two-table positional-join mode | `llm_only` for that section for now (the LLM reads the paired pages fine). Detect it: the value table's col0 is blank for every row. |
+| **Per-property cards** (occupancy/area/NPI/major_tenant; irregular) | ❌ deterministic; ✅ LLM lane | LLM lane — small targeted pass over the card pages, merged like the needs_llm pass |
+
+**Detection rule for the judge step:** if the section's value columns sit in a table whose
+first column is blank for every data row (no label), it's a positional split → route that
+section to `llm_only` (or the positional-join mode once built). One clean labelled grid (even
+if spread over many same-shaped pages) → `hybrid`.
+
 ---
 
 ## §3 — status.json schema (per AR)
