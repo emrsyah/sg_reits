@@ -1,0 +1,42 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "CICT discloses NPI ONLY at asset-class segment level (Retail 439.0m / Office 396.8m / Integrated 353.9m, p26), never per individual property. Audited Statement of Total Return gives a single trust-level NPI of 1,189,749k. Per-property NPI is structurally absent."},
+    {"column": "properties.gla (foreign properties)", "reason": "The 5 overseas properties (Gallileo, Main Airport Center, 66 Goulburn Street, 100 Arthur Street, 101-103 Miller Street) disclose NLA only on their factsheets, no GFA. Structural for the overseas factsheet template."},
+    {"column": "performance.distribution_record.ex_date / pay_date", "reason": "Singapore REIT annual reports disclose distribution PERIODS and DPU only; ex-dividend and payment dates are released separately via SGXNet announcements, not in the AR."},
+    {"column": "performance.source_url", "reason": "Provenance is the parsed PDF; no canonical source URL is embedded in the report markdown."}
+  ],
+  "data_with_no_home": [
+    {"item": "Aggregate leverage (gearing) ratio", "value": "38.5% (CIS-code basis incl. proportionate JV borrowings)", "page": 27},
+    {"item": "Average cost of debt", "value": "3.6%", "page": 27},
+    {"item": "Interest coverage ratio (ICR)", "value": "3.1 times", "page": 27},
+    {"item": "WALE (portfolio, by committed GRI, proportionate)", "value": "3.0 years", "page": 32},
+    {"item": "Total number of tenants (portfolio)", "value": "3,457", "page": 33},
+    {"item": "Portfolio committed occupancy (trust-level)", "value": "96.9% as at 31 Dec 2025", "page": 11},
+    {"item": "Segment-level NPI (the only NPI granularity disclosed below trust total)", "value": "Retail 439.0m / Office 396.8m / Integrated 353.9m", "page": 26},
+    {"item": "Distributable-income layers (transaction/distribution facts)", "value": "headline 860.9m vs distribution-statement subtotal 869.957m vs amount available for distribution 1,119.753m (incl. opening balance 249.796m)", "page": 26},
+    {"item": "CapitaSpring (GOT) acquisition - parked transaction", "value": "balance 55% acquired 26 Aug 2025, total consideration incl. costs S$478.7m, underlying property 1,900.0m (100%)", "page": 187},
+    {"item": "Bukit Panjang Plaza divestment - parked transaction / subsequent event", "value": "90/91 strata lots, S$428.0m, completed 27 Feb 2026", "page": 12},
+    {"item": "ION Orchard 50% JV acquisition - parked transaction (prior year, drives FY2025 full-year contribution)", "value": "50% acquired 30 Oct 2024 from CLI Singapore; agreed value S$3,697.0m (100%)", "page": 187},
+    {"item": "Glory SR Trust (CapitaSpring SR component) 45% JV divestment - parked transaction", "value": "completed 30 May 2025, net gain S$26,000", "page": 189}
+  ],
+  "parsing_traps": [
+    "Gross revenue != GRI (trap #4): CICT defines Gross revenue = GRI + car park income + other income (Note 21, p159: GRI 1,514,171k + car park 40,243k + other 64,760k = 1,619,174k). Per-property 'Gross Revenue' figures throughout are on this GR definition.",
+    "Combined 'Other Assets' line (trap #10): Financial Review per-property GR merges Bugis+ and Bukit Panjang Plaza into one 'Other Assets' line = 65.7m (p25 footnote 1); both factsheets repeat this combined 65.7m / 99.9% occupancy. Recorded the combined GR + occupancy on Bugis+ only; Bukit Panjang Plaza GR/occupancy set null to prevent double-counting in reconciliation.",
+    "ION Orchard equity-accounted JV (trap #9): CICT owns 50% of ION Orchard; it is NOT in the audited Portfolio Statement and is excluded from the consolidated GR/NPI total. Captured as a separate property row (value_basis=joint_venture_100pct) but EXCLUDED from the Sigma-property reconciliation.",
+    "CapitaSpring dual-basis GR (trap #7): Financial Review GR 37.7m is the consolidated period 26 Aug-31 Dec 2025 (post-acquisition of balance 55%) and is the figure that reconciles to the 1,619.2 total; the factsheet prints full-year 100%-basis 72.7m. Stored 37.7m as gross_revenue, 72.7m as alt_value_gross_revenue.",
+    "Distributable-income layering (trap #12): headline 860.9m (p26) != distribution-statement subtotal 869.957m != amount available for distribution 1,119.753m (incl. 249.796m opening balance). Took the 860.9m headline for net_distributable_income.",
+    "Dual valuation source/currency for overseas assets (trap #7/#19): Gallileo, MAC, 66 Goulburn, 100 Arthur, Miller St print local-currency appraisals (EUR/AUD) on factsheets and SGD carrying values in the audited Portfolio Statement. Audited SGD figure wins market_valuation; local-currency appraisal -> alt_value. NB 66 Goulburn's factsheet S$ conversion (202.8m) differs from its audited PS figure (223.7m) - audited PS used.",
+    "Land-lease start dates embedded in prose (trap #3): factsheet 'Land Tenure' strings carry 'X years with effect from DATE' - parsed into effective_date + lease_term_years; lease_expiry_date computed as effective_date + term. IMM Building factsheet says '30 + 30 years' (renewal structure) but audited PS Term of Lease = 60 years -> lease_term_years=60.",
+    "66 Goulburn Street partial tenure (trap #20): factsheet gives only 'Leasehold expiring 16 August 2116' (no start date); lease_expiry_date filled from the verbatim string, effective_date/lease_term_years null.",
+    "Number of unitholders not printed as a single figure: derived by summing the 5 size-bands on the Statistics of Unitholdings distribution table (7,631+28,037+40,910+14,795+48 = 91,421), as at 27 Feb 2026 (p193)."
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 1619200000,
+    "reported_total_gross_revenue": 1619174000,
+    "sum_property_npi": null,
+    "reported_total_npi": 1189749000,
+    "property_count": 26,
+    "fx_rate_disclosed": "EUR1 = S$1.509 (Germany factsheets); A$1 = S$0.848 (Australia factsheets)",
+    "note": "sum_property_gross_revenue 1,619.2m is the rounded S$-million Financial Review per-property table (p25) which sums exactly to the reported total; the audited Statement of Total Return prints 1,619,174k (rounding diff S$26k, immaterial). EXCLUDES ION Orchard 50% JV (130.8m, equity-accounted, not in consolidated total). Bugis+/Bukit Panjang Plaza counted once as combined 'Other Assets' 65.7m. CapitaSpring at 37.7m (consolidated period). sum_property_npi=null - no per-property NPI disclosed; reported_total_npi is the trust-level audited figure. property_count=26 rows in properties.json: 25 consolidated properties in the audited Portfolio Statement (incl. Bukit Panjang Plaza held-for-sale) + 1 equity-accounted JV (ION Orchard). NB the audited PS lists 24 investment-property rows + Bukit Panjang Plaza held-for-sale = 25 consolidated; the reconciling consolidated GR set covers 25 line-items (21 GR-bearing names, with Bugis+/BPP combined and CapitaSpring/21 Collyer Quay handled per notes)."
+  }
+}
