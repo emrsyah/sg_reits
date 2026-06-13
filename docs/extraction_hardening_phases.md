@@ -55,6 +55,14 @@ generality is **NOT** proven and is deferred to Phase D.
   likely population.
 - `[2026-06-13]` **Honesty correction:** "engine generality" was validated on ONE AR (C38U)
   fully + ONE AR (MLT) probed. Not yet general across families — that is Phase D.
+- `[2026-06-13]` **Cross-family generality run (properties / Tier-C) on 3 more ARs** — see
+  Phase D findings. Net: deterministic works on clean-column layouts across 4 families
+  (C38U, AJBU, BTOU exact valuation matches); two layout types need the LLM lane (MLT
+  facing-page split, First REIT stacked-cell).
+- `[2026-06-13]` Engine fixes from that run: `parse_years` now accepts a bare number
+  (AJBU term column "60", no "years" word) → lease_term filled; a DEFAULT header/sub-header
+  skip drops leaked multi-row-header rows (the "(Years)" artifact on concatenated pages).
+  Re-verified C38U (25) and BTOU (7) unchanged after the change.
 
 ---
 
@@ -109,17 +117,37 @@ so an agent authoring plans on the fly doesn't re-learn them per report.
 llm_only sections) on **3 trusts from 3 different families**, both gates green, diffed vs a
 pure-LLM run. **This is where cross-family engine generality actually gets validated.**
 
-**Status:** `TODO`
+**Status:** `IN PROGRESS` — cross-family generality of the **properties adapter** evaluated on
+4 families (below). Full 6-section end-to-end per report still TODO.
 
 **Todos**
-- [ ] Pick 3 families incl. one **facing-page-split** trust (exercises the LLM fallback path)
-- [ ] Full pipeline each: parse → locate → per-section judge/plan/run/cross-check/LLM/merge →
-      assemble → both gates → status.json
+- [x] Cross-family generality of the properties (Tier-C) adapter — 4 families evaluated
+- [ ] Full 6-section pipeline on 3 trusts (judge/plan/run/cross-check/LLM lane/merge → gates)
+- [ ] Include one **facing-page-split** trust (MLT) to exercise the LLM fallback path
 - [ ] Stratified diff hybrid vs pure-LLM; record disagreements (expect dual-basis / pct_basis)
 - [ ] Save proven plans to `.claude/skills/reit-extract-hybrid/plans/<family>/`
 
 **Findings**
-- _(none yet)_
+- `[2026-06-13]` **Properties adapter, cross-family evaluation** (deterministic vs pure-LLM
+  agent baseline), 4 families / 3 layout types:
+
+  | AR | Family / sub-sector | Statement layout | Result |
+  |---|---|---|---|
+  | C38U | CapitaLand / Diversified | clean multi-col, single table | 25/25 valuation, tenure, term |
+  | AJBU | Keppel / Data Centre | clean multi-col, **2 pages → concat** | **25/25 valuation**, 25/25 tenure, term 14/25 (rest freehold) |
+  | BTOU | Manulife / US Office | clean multi-col, single, **+occupancy** | **6/6 valuation, 6/6 tenure** (7th = held-for-sale Figueroa, value 85,703k correct, name needs cleaning) |
+  | MLT | Mapletree / Industrial | **facing-page positional split** (label-less value table) | ✗ deterministic → **LLM lane** |
+  | AW9U | First REIT / Healthcare | **stacked-cell, one table per property** (name/loc/tenure/term in one `<br>` cell) | ✗ deterministic → **LLM lane** |
+
+- `[2026-06-13]` **Verdict:** the deterministic engine is reliable on **clean column layouts**
+  (single OR multi-page) — exact valuation matches across 3 unrelated families. **Two layout
+  families need the LLM lane**: facing-page positional split (Mapletree big portfolios) and
+  stacked-cell (First REIT / healthcare-style). The judge step must detect these (label-less
+  value table; multi-field single cell) and route properties to `llm_only`.
+- `[2026-06-13]` **Cross-source name mismatch** is a real issue: audited statements use full
+  legal names (`Guangdong Data Centre 1 ("Guangdong DC 1")`) while marketing/agent use
+  abbreviations (`Guangdong DC 1`). Matching/merging across sections needs a name-
+  normalization (needs_llm/join) step — don't assume exact-name joins.
 
 ---
 

@@ -1,0 +1,106 @@
+{
+  "section": "properties",
+  "source": {
+    "html": "extracted_adapter/21_AJBU.SI_Keppel-DC-REIT_FY2025/portfolio.html",
+    "table_contains": [
+      "Description of investment",
+      "Carrying amount"
+    ],
+    "value_col": 5
+  },
+  "consts": {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "valuation_date": "2025-12-31",
+    "status": "active"
+  },
+  "fields": {
+    "symbol": {
+      "method": "const",
+      "from": "symbol",
+      "decision": "deterministic"
+    },
+    "financial_year": {
+      "method": "const",
+      "from": "financial_year",
+      "decision": "deterministic"
+    },
+    "property_name": {
+      "method": "text",
+      "col": 0,
+      "decision": "deterministic"
+    },
+    "address": {
+      "method": "text",
+      "col": 1,
+      "decision": "deterministic"
+    },
+    "land_tenure": {
+      "method": "enum",
+      "col": 2,
+      "allowed": [
+        "Freehold",
+        "Leasehold"
+      ],
+      "decision": "deterministic"
+    },
+    "lease_term_years": {
+      "method": "parse_years",
+      "col": 3,
+      "decision": "deterministic"
+    },
+    "tenure_raw": {
+      "method": "concat",
+      "cols": [
+        2,
+        3,
+        4
+      ],
+      "sep": " / ",
+      "decision": "deterministic"
+    },
+    "market_valuation": {
+      "method": "scale",
+      "col": 5,
+      "scale": 1000,
+      "decision": "deterministic"
+    },
+    "valuation_date": {
+      "method": "const",
+      "from": "valuation_date",
+      "decision": "deterministic"
+    },
+    "category": {
+      "method": "context",
+      "from": "category",
+      "decision": "deterministic"
+    },
+    "currency": {
+      "method": "const",
+      "from": "currency",
+      "decision": "deterministic"
+    },
+    "status": {
+      "method": "const",
+      "from": "status",
+      "decision": "deterministic"
+    },
+    "source_page": {
+      "method": "page",
+      "decision": "deterministic"
+    }
+  },
+  "context_rules": [
+    {
+      "set": "category",
+      "col0_in": [
+        "Fully-fitted (Colocation)",
+        "Fully-fitted (Single Tenant)",
+        "Shell and core",
+        "Shell and Core"
+      ]
+    }
+  ],
+  "skip_col0_regex": "^(Total|Group|Net assets|Other assets|Investment properties)"
+}
