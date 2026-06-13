@@ -124,11 +124,44 @@ Keep the disclosed label verbatim in `category_raw`; map to canonical via:
 - office long tail with no home → **Other Office Trades**; industrial/logistics long tail
   (chemicals, automobiles, document storage, e-commerce) → **Other Industrial Trades**
 
-**land_tenure**: Freehold | Leasehold only. US "fee simple"/"freehold" → Freehold. Verbatim
-→ `tenure_raw`.
+**land_tenure**: Freehold | Leasehold only. Verbatim → `tenure_raw`. Mappings:
+US "fee simple" / "freehold" → **Freehold**; Indonesia **HGB** ("Hak Guna Bangunan",
+right-to-build, state retains title — the report may say "little practical difference from
+freehold") → **Leasehold** (it is a fixed-term right); **BOT** (Build-Operate-Transfer)
+scheme → **Leasehold**, `lease_expiry_date` = the BOT/MLA expiry; China "land use right" →
+**Leasehold**. When a single combined row has **two leases with different expiries**
+(e.g. hospital 2035 + hotel 2027), put the **earlier** expiry in `lease_expiry_date` and both
+verbatim in `tenure_raw`.
 
 **income_model**: conventional | master_lease | mcmgi | management_contract |
-entrusted_management | fri | mixed.
+entrusted_management | fri | mixed. Base-rent + variable/performance-rent (e.g. % of gross
+operating revenue) = **fri**; a portfolio mixing several (CLAS, First REIT) = **mixed**.
+
+---
+
+## §3b — Cross-cutting conventions (sub-sector quirks)
+
+Folded in from the healthcare (First REIT) and industrial (MLT) runs — apply everywhere:
+
+- **Units / area metric.** GFA/NLA may be **m²** (Indonesia/Japan/most SG) or **sq ft**
+  (US, some SG) — keep the disclosed number, note the unit (downstream normalises). When a
+  trust's size metric is **beds/keys/rooms** (healthcare, hospitality) or **MW** (data
+  centre), `gla`/`nla` are structurally absent → declare in `_notes.columns_never_fillable`;
+  put the bed/key/MW count in `_notes.data_with_no_home`. Don't force a non-area metric into
+  gla/nla.
+- **Multi-currency.** Set `currency` per record. Foreign assets show local currency on the
+  cards but reconcile to the reporting currency in the audited statements; trusts disclose
+  **two FX rates** (an average rate for income/revenue, a closing rate for valuation) —
+  record both in a note when present.
+- **Stapled trusts** (CLAS, Far East H-Trust): financials come in 3 columns (REIT / BT /
+  **Stapled Group**) — use **Stapled Group**. BT-held properties sit in a separate
+  Portfolio-Statement block; PPE-classified assets (e.g. owner-operated hotels) are outside
+  the investment-property statement.
+- **`number_of_unitholders`** is dated weeks after FY-end (Statistics of Unitholdings) —
+  expected, keep the disclosed date.
+- **Name forms differ across sections** — audited statements use full legal names, marketing/
+  cards use abbreviations. Match/merge on a normalised name (the hybrid `merge_llm.py` keys on
+  normalised + quoted-abbreviation forms).
 
 ---
 

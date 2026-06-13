@@ -72,17 +72,26 @@ generality is **NOT** proven and is deferred to Phase D.
 NLA, net_property_income, gross_revenue, major_tenant) which the deterministic Tier-C adapter
 leaves null.
 
-**Status:** `TODO`
+**Status:** `DONE (C38U)` — proven on C38U; will re-exercise per report in Phase D/E.
 
 **Todos**
-- [ ] A small targeted LLM pass over the per-property-card pages that fills the 5–6 fields
-- [ ] Merge into the deterministic property records (like the `needs_llm` merge), keyed by name
-- [ ] Handle property-name matching between the card pages and the Tier-C rows
-- [ ] Test on C38U (cards pp.39–70) vs the agent's values
+- [x] A small targeted LLM pass over the per-property-card pages that fills the 5–6 fields
+- [x] Merge into the deterministic property records (`merge_llm.py --decision other_source`)
+- [x] Property-name matching between cards and Tier-C rows (normalised + quoted-abbrev keys)
+- [x] Test on C38U (cards pp.39–70) vs the agent's values
 
 **Findings**
 - `[2026-06-13]` Decision: **LLM lane, not a deterministic cards adapter** — cards are too
   irregular across 40 trusts; a targeted LLM pass is more robust. (User-selected.)
+- `[2026-06-13]` Implemented: one batched Sonnet pass reads the card pages → JSON map;
+  `merge_llm.py --decision other_source` fills occupancy/gla/nla/gross_revenue/major_tenant
+  by **normalised name**. C38U result vs agent: **occupancy 24/24, NLA 25/25**; fill after
+  the lane: occupancy 25/25, nla 25/25, major_tenant 25/25, gross_revenue 23/25
+  (Bugis+/Bukit Panjang combined "Other Assets" → null, correct), gla 20/25 (overseas cards
+  omit GFA). net_property_income stays null (CICT discloses no per-property NPI — structural).
+  No anomalies. Full property record now ~21/24 fields, matching the pure-LLM agent.
+- `[2026-06-13]` `merge_llm.py` generalised: `--decision needs_llm|other_source|both` +
+  normalised/quoted-abbrev name matching (fixes the audited-full-name vs card-abbrev mismatch).
 
 ---
 
@@ -91,16 +100,18 @@ leaves null.
 **Goal:** fold every sub-sector quirk we've observed into `reit-extract` / `reit-extract-hybrid`
 so an agent authoring plans on the fly doesn't re-learn them per report.
 
-**Status:** `TODO` (findings accumulating)
+**Status:** `DONE` — quirks folded into `reit-extract/REFERENCE.md` (§3 tenure + §3b
+cross-cutting conventions) and the `other_source` lane wired into `reit-extract-hybrid/SKILL.md`.
 
 **Todos**
-- [ ] Land-tenure variants → enum: Indonesia HGB → Leasehold; US fee simple → Freehold; BOT scheme
-- [ ] Combined/dual-expiry properties (one row, two leases) — convention
-- [ ] Units: m² vs sq ft (`area_unit`); beds/keys as structural (declare, don't force into gla/nla)
-- [ ] Income models: FRI / blended master-lease+variable → `mixed`
-- [ ] Multi-currency per-property + disclosed FX rates (income vs valuation rates)
-- [ ] Stapled trusts: use the Stapled Group column; BT-held properties in a separate block
-- [ ] `locate.py` anchor variants already added (customers / rental-and-other-income / highlights)
+- [x] Land-tenure variants → enum: HGB → Leasehold; US fee simple → Freehold; BOT; land-use-right
+- [x] Combined/dual-expiry properties (one row, two leases) — earlier expiry + both in tenure_raw
+- [x] Units: m² vs sq ft; beds/keys/MW as structural (declare, don't force into gla/nla)
+- [x] Income models: FRI (base+variable) → `fri`; mixed portfolio → `mixed`
+- [x] Multi-currency per-property + two FX rates (avg for income, closing for valuation)
+- [x] Stapled trusts: Stapled Group column; BT block separate; PPE assets outside the IP statement
+- [x] Cross-section name-form mismatch → match on normalised/quoted-abbrev name
+- [x] `locate.py` anchor variants (customers / rental-and-other-income / highlights)
 
 **Findings**
 - `[2026-06-13]` Source of the todo list: the First REIT (healthcare) and MLT (industrial)

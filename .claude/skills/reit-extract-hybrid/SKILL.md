@@ -91,14 +91,28 @@ prints rows + per-field fill + the decision tally.
 Record matches/gaps in `status.json`. (For the first report of a template family, diff
 against a pure-LLM run of the same report to build confidence.)
 
-**3e. Batched LLM pass + merge.** Collect the `needs_llm` fields across ALL rows and resolve
-them in ONE call (give the model the row list + the relevant footnotes/source). Save as
-`llm_filled_<section>.json`, then:
+**3e. Batched LLM pass + merge (`needs_llm`).** Collect the `needs_llm` fields across ALL rows
+and resolve them in ONE call (give the model the row list + the relevant footnotes/source).
+Save as `llm_filled_<section>.json`, then:
 ```bash
-python scripts/adapter/merge_llm.py <section>_deterministic.json llm_filled_<section>.json plan_<section>.json
+python scripts/adapter/merge_llm.py <section>_deterministic.json llm_filled_<section>.json \
+    plan_<section>.json --decision needs_llm --out <section>_merged.json
 ```
-`merge_llm.py` fills only `needs_llm` fields (never overwrites deterministic values) and runs
-an anomaly check. `other_source` fields stay null until their own adapter/LLM pass fills them.
+`merge_llm.py` fills only the chosen decision's fields (never overwrites deterministic values),
+matches by **normalised name** (handles audited-full-name vs card-abbreviation), and runs an
+anomaly check.
+
+**3f. `other_source` LLM lane (properties).** The property fields that live in per-property
+cards (occupancy_rate, gla, nla, net_property_income, gross_revenue, major_tenant) are too
+irregular to parse deterministically across 40 trusts → one batched LLM pass reads the card
+pages and returns `{property_name: {field: value}}`. Save as `llm_other_source.json`, then:
+```bash
+python scripts/adapter/merge_llm.py properties_merged.json llm_other_source.json \
+    plan_properties.json --decision other_source --out properties_full.json
+```
+Fields the trust genuinely doesn't disclose per property (e.g. CICT per-property NPI) stay
+null — declare them in `_notes.columns_never_fillable`. (Validated on C38U: occupancy 24/24,
+NLA 25/25 vs the pure-LLM agent.)
 
 ### Step 4 — Assemble
 Combine the merged per-section records into the 8 intermediate files in
