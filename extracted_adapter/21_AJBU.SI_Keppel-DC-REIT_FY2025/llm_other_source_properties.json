@@ -1,0 +1,252 @@
+{
+  "DC1": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 213815.0,
+    "gross_revenue": 26700000,
+    "lease_expiry_date": "2044-07-31",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 1 (\"KDC SGP 1\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 53.3,
+    "nla": 109721.0,
+    "gross_revenue": 16500000,
+    "lease_expiry_date": "2055-09-30",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 2 (\"KDC SGP 2\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 98.2,
+    "nla": 38480.0,
+    "gross_revenue": 18000000,
+    "lease_expiry_date": "2051-07-31",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 3 (\"KDC SGP 3\")": {
+    "ownership": 90.0,
+    "occupancy_rate": 100.0,
+    "nla": 49433.0,
+    "gross_revenue": 37000000,
+    "lease_expiry_date": "2052-01-31",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 4 (\"KDC SGP 4\")": {
+    "ownership": 99.0,
+    "occupancy_rate": 94.5,
+    "nla": 83698.0,
+    "gross_revenue": 52500000,
+    "lease_expiry_date": "2050-06-30",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 5 (\"KDC SGP 5\")": {
+    "ownership": 99.0,
+    "occupancy_rate": 100.0,
+    "nla": 93936.0,
+    "gross_revenue": 52500000,
+    "lease_expiry_date": "2050-08-31",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 7 (\"KDC SGP 7\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 77024.0,
+    "gross_revenue": 58000000,
+    "lease_expiry_date": "2050-07-15",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Singapore 8 (\"KDC SGP 8\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 78214.0,
+    "gross_revenue": 49700000,
+    "lease_expiry_date": "2050-07-15",
+    "status": "active",
+    "country": "Singapore",
+    "value_basis": "consolidated"
+  },
+  "Gore Hill Data Centre (\"Gore Hill DC\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 80.0,
+    "nla": 90955.0,
+    "gross_revenue": 2900000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Australia",
+    "value_basis": "consolidated"
+  },
+  "Basis Bay Data Centre (\"Basis Bay DC\")": {
+    "ownership": 99.0,
+    "occupancy_rate": 40.2,
+    "nla": 48193.0,
+    "gross_revenue": 1400000,
+    "lease_expiry_date": null,
+    "status": "held_for_sale",
+    "country": "Malaysia",
+    "value_basis": "consolidated"
+  },
+  "Guangdong Data Centre 1 (“Guangdong DC 1”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 221689.0,
+    "gross_revenue": 11300000,
+    "lease_expiry_date": "2067-01-17",
+    "status": "active",
+    "country": "China",
+    "value_basis": "consolidated"
+  },
+  "Guangdong Data Centre 2 (“Guangdong DC 2”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 218615.0,
+    "gross_revenue": 11300000,
+    "lease_expiry_date": "2067-01-17",
+    "status": "active",
+    "country": "China",
+    "value_basis": "consolidated"
+  },
+  "Guangdong Data Centre 3 (“Guangdong DC 3”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 221847.0,
+    "gross_revenue": 500000,
+    "lease_expiry_date": "2067-01-17",
+    "status": "active",
+    "country": "China",
+    "value_basis": "consolidated"
+  },
+  "Tokyo Data Centre 1 (“Tokyo DC 1”)": {
+    "ownership": 98.47,
+    "occupancy_rate": 100.0,
+    "nla": 187257.0,
+    "gross_revenue": 6300000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Japan",
+    "value_basis": "consolidated"
+  },
+  "Tokyo Data Centre 3 (“Tokyo DC 3”)": {
+    "ownership": 98.47,
+    "occupancy_rate": 100.0,
+    "nla": 73325.0,
+    "gross_revenue": 4600000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Japan",
+    "value_basis": "consolidated"
+  },
+  "maincubes Data Centre (“maincubes DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 97043.0,
+    "gross_revenue": 10000000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Germany",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Dublin 1 (\"KDC DUB 1\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 96.5,
+    "nla": 66124.0,
+    "gross_revenue": 23200000,
+    "lease_expiry_date": "2998-12-31",
+    "status": "active",
+    "country": "Ireland",
+    "value_basis": "consolidated"
+  },
+  "Keppel DC Dublin 2 (\"KDC DUB 2\")": {
+    "ownership": 100.0,
+    "occupancy_rate": 98.1,
+    "nla": 28484.0,
+    "gross_revenue": 13700000,
+    "lease_expiry_date": "2997-12-31",
+    "status": "active",
+    "country": "Ireland",
+    "value_basis": "consolidated"
+  },
+  "Milan Data Centre (“Milan DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 165389.0,
+    "gross_revenue": 4500000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Italy",
+    "value_basis": "consolidated"
+  },
+  "Almere Data Centre (“Almere DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 118403.0,
+    "gross_revenue": 10700000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Netherlands",
+    "value_basis": "consolidated"
+  },
+  "Amsterdam Data Centre (“Amsterdam DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 95.1,
+    "nla": 141698.0,
+    "gross_revenue": 3500000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Netherlands",
+    "value_basis": "consolidated"
+  },
+  "Eindhoven Campus (“Eindhoven DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 98577.0,
+    "gross_revenue": 3500000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "Netherlands",
+    "value_basis": "consolidated"
+  },
+  "Cardiff Data Centre (“Cardiff DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 79439.0,
+    "gross_revenue": 5500000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "United Kingdom",
+    "value_basis": "consolidated"
+  },
+  "GV7 Data Centre (“GV7 DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 24972.0,
+    "gross_revenue": 5200000,
+    "lease_expiry_date": "2183-09-28",
+    "status": "active",
+    "country": "United Kingdom",
+    "value_basis": "consolidated"
+  },
+  "London Data Centre (“London DC”)": {
+    "ownership": 100.0,
+    "occupancy_rate": 100.0,
+    "nla": 94867.0,
+    "gross_revenue": 4500000,
+    "lease_expiry_date": null,
+    "status": "active",
+    "country": "United Kingdom",
+    "value_basis": "consolidated"
+  }
+}

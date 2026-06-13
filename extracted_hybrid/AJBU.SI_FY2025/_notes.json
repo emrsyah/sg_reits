@@ -1,0 +1,54 @@
+{
+  "symbol": "AJBU.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed by Keppel DC REIT; only segment-level (Fully-fitted Colocation S$297.9m, Single Tenant S$58.6m, Shell and Core S$26.8m). Structural."},
+    {"column": "property.gla", "reason": "GLA not disclosed for DC properties. Area metric is Attributable Lettable Area (sq ft) captured in nla. Structurally absent."},
+    {"column": "property.major_tenant", "reason": "Clients fully anonymised per page 39 footnote 2 (commercial confidentiality and security). No per-property major tenant names. Anonymised descriptors in top_tenants.json."},
+    {"column": "property.trade_mix", "reason": "Per-property trade mix not disclosed. Only portfolio-level client trade sector breakdown disclosed."}
+  ],
+  "data_with_no_home": [
+    {"item": "Contract-type mix by rental income", "value": "Fully-fitted (Colocation) 72.7%, Fully-fitted (Single Tenant) 21.2%, Shell and Core 6.1%", "source_page": 39, "note": "Not trade mix; DC-specific contract structure. Cannot fit trade_mix schema."},
+    {"item": "Gross Revenue by contract type (S$m)", "value": "Fully-fitted (Colocation) 328.1, Fully-fitted (Single Tenant) 80.7, Shell and Core 32.6, Total 441.4", "source_page": 46},
+    {"item": "NPI by contract type (S$m)", "value": "Fully-fitted (Colocation) 297.9, Fully-fitted (Single Tenant) 58.6, Shell and Core 26.8, Total 383.3", "source_page": 46},
+    {"item": "Portfolio occupancy rate", "value": "95.8% as at 31 December 2025", "source_page": 39},
+    {"item": "WALE by lettable area", "value": "6.7 years as at 31 December 2025", "source_page": 39},
+    {"item": "Total attributable lettable area", "value": "2,721,198 sq ft as at 31 December 2025 (25 data centres, 10 countries)", "source_page": 39},
+    {"item": "Number of unique clients", "value": "75 as at 31 December 2025", "source_page": 39},
+    {"item": "KDC SGP 7/8 lease extension", "value": "S$350m paid Dec 2025 for 10-year extension; capitalised as investment property. Explains Tier C > Tier B for SGP7/8.", "source_page": 40}
+  ],
+  "parsing_traps": [
+    {"trap": "SGP 7/8 Tier C > Tier B valuation", "description": "KDC SGP 7 Tier C=750,077k vs Tier B=744.0m; KDC SGP 8 Tier C=801,759k vs Tier B=796.0m. S$350m lease extension capitalised into investment properties. Tier C used per skill rules."},
+    {"trap": "NCI on SGP 3, SGP 4, SGP 5, Tokyo DC 1, Tokyo DC 3", "description": "Portfolio Statement shows 100%-consolidated carrying values. value_basis=consolidated. Attributable gross revenues from factsheets reflect proportionate interest."},
+    {"trap": "Basis Bay held_for_sale", "description": "Basis Bay DC in held_for_sale block in Portfolio Statement since 2024. Divestment announced 2 Jan 2025. Status=held_for_sale."},
+    {"trap": "Kelsterbach divested Mar 2025", "description": "Kelsterbach DC divested 24 Mar 2025 for EUR50m. Zero carrying value at year-end. Included as status=divested row with null valuations."},
+    {"trap": "Guangdong DC loss allowances", "description": "Rental income from Guangdong DCs and corresponding loss allowances recognised under Gross Revenue and Property Expenses respectively (page 40-41 footnotes)."},
+    {"trap": "plan_properties adapter — Basis Bay status fix", "description": "Portfolio Statement context_rules did not include held_for_sale block detection for Basis Bay. Status post-corrected in merge step based on page 41 footnote 13."}
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue_sgd": 433500000,
+    "reported_total_gross_revenue_sgd": 441362000,
+    "difference_sgd": 7862000,
+    "difference_pct": 1.78,
+    "reconciliation_status": "EXPLAINED",
+    "explanation": "Gap of S$7.9m: Kelsterbach partial-year revenue (divested Mar 2025) not in property rows; per-property figures approximate millions from factsheets; Guangdong loss allowances netted differently. Audited total 441,362k is authoritative.",
+    "sum_revenue_note_sgd": 441362000,
+    "reported_total_gross_revenue_note_sgd": 441362000,
+    "note_reconciliation_status": "EXACT_MATCH",
+    "sum_expense_note_sgd": 58102000,
+    "reported_total_expense_note_sgd": 58102000,
+    "expense_reconciliation_status": "EXACT_MATCH",
+    "sum_property_npi_sgd": null,
+    "reported_total_npi_sgd": 383260000,
+    "npi_reconciliation_status": "NOT_APPLICABLE",
+    "npi_note": "Per-property NPI not disclosed (segment only). Declared structural in columns_never_fillable."
+  },
+  "hybrid_method_notes": {
+    "properties": "HYBRID: deterministic adapter (plan_properties.json, 25 rows) + other_source LLM lane (ownership, occupancy, nla, gross_revenue, lease_expiry from card pages 39-43). Kelsterbach added as divested. Basis Bay status post-corrected.",
+    "top_tenants": "HYBRID: markdown page 39 table (10 rows, all anonymised descriptors). trade_sector mapped by descriptor text judgement.",
+    "trade_mix": "HYBRID: markdown page 39 table (5 rows). category_raw mapped to canonical 19-value taxonomy.",
+    "financial": "HYBRID: Notes 20+21 from markdown page 141 (7 lines, exact note extraction).",
+    "profile": "LLM_ONLY: corporate info page 95.",
+    "performance": "LLM_ONLY: Group Financial Highlights page 8 + Distribution Statement page 109 + Statistics of Unitholdings page 191."
+  }
+}

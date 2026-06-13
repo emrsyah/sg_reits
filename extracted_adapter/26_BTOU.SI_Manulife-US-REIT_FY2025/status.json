@@ -1,0 +1,132 @@
+{
+  "stem": "26_BTOU.SI_Manulife-US-REIT_FY2025",
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Office",
+  "template_family": "ManulifeUS",
+  "parsed": {
+    "markdown": "parsed_reports_datalab/26_BTOU.SI_Manulife-US-REIT_FY2025/full.md",
+    "html_pages": "107 (portfolio statement)",
+    "checkpoint_id": "datalab_full"
+  },
+  "sections": {
+    "properties": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_properties.json",
+      "deterministic_fields": ["symbol", "financial_year", "property_name", "land_tenure", "occupancy_rate", "market_valuation", "valuation_date", "country", "currency", "source_page"],
+      "needs_llm_fields": ["value_basis", "ownership", "status (Figueroa cleanup: Asset held for sale -> Figueroa + held_for_sale)"],
+      "other_source_fields": ["category", "address", "nla", "gross_revenue", "net_property_income", "major_tenant"],
+      "rows": 7,
+      "cross_check": {
+        "vs": "Tier A table page 27 (7 active properties + 2 divested in-year)",
+        "match": "7/7 active property valuations match exactly between adapter output and Tier A/C",
+        "gaps": ["Plaza and Peachtree divested in-year: no FY2025 market_valuation in audited FS; captured as divested with null valuation"]
+      },
+      "files": {
+        "deterministic": "properties_deterministic.json",
+        "llm_filled": "llm_filled_properties.json",
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/properties.json"
+      },
+      "note": "Adapter ran on portfolio.html (page 107). 7 active rows + held-for-sale Figueroa detected. 'Asset held for sale - Figueroa' renamed and status corrected in needs_llm pass. Divested Plaza and Peachtree added in LLM lane from page 107/25 context."
+    },
+    "top_tenants": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_top_tenants.json (inline - markdown table p27 parsed directly)",
+      "deterministic_fields": ["symbol", "financial_year", "rank", "tenant_name", "gri_percentage", "pct_basis", "source_page"],
+      "needs_llm_fields": [],
+      "other_source_fields": ["trade_sector (null - no column in table)"],
+      "rows": 10,
+      "cross_check": {
+        "vs": "Table page 27: Top 10 Tenants by GRI (%), total = 51.4%",
+        "match": "10/10 rows, sum = 51.4% (matches note in report)",
+        "gaps": []
+      },
+      "files": {
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/top_tenants.json"
+      },
+      "note": "Table cleanly parsed from markdown p27. pct_basis=gri per playbook. trade_sector=null (no column)."
+    },
+    "trade_mix": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_trade_mix.json (inline - markdown donut table p26 parsed directly)",
+      "deterministic_fields": ["symbol", "financial_year", "category_raw", "pct", "pct_basis", "source_page"],
+      "needs_llm_fields": ["category (canonical mapping)"],
+      "other_source_fields": [],
+      "rows": 10,
+      "cross_check": {
+        "vs": "Donut chart table page 26: Trade Sector by GRI (%), portfolio mix (not 2025-leasing mix)",
+        "match": "10/10 categories, sum = 100.0% (18.3+15.3+9.6+8.9+7.7+6.5+5.9+5.4+4.4+17.9 = 99.9 due to rounding)",
+        "gaps": ["'Other' category 17.9% maps to Other Office Trades as best-fit (US office portfolio)"]
+      },
+      "files": {
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/trade_mix.json"
+      },
+      "note": "Used PORTFOLIO trade mix (page 26), NOT 2025-leasing-only mix (also page 26, separate section). pct_basis=gri."
+    },
+    "financial": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_financial.json (inline - Note 15/16 tables p138 parsed directly)",
+      "deterministic_fields": ["symbol", "financial_year", "amount", "currency", "label_raw", "source_page"],
+      "needs_llm_fields": ["component (canonical key)", "statement (revenue/expense)"],
+      "other_source_fields": [],
+      "rows": 10,
+      "cross_check": {
+        "vs": "Note 15 total = 113,914 US$'000; Note 16 total = 60,736 US$'000",
+        "match": "Revenue sum 61,031+42,035+9,469+1,379 = 113,914. Expense sum 12,625+15,575+8,942+10,674+291+12,629 = 60,736. Both reconcile exactly.",
+        "gaps": []
+      },
+      "files": {
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/income_components.json"
+      },
+      "note": "Notes 15 and 16 on page 138. USD'000 scale x1000 applied. NPI check: 113,914 - 60,736 = 53,178 matches reported NPI."
+    },
+    "profile": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "cross_check": {
+        "vs": "Corporate Information page 151 + Trust Structure",
+        "match": "Manager, trustee, property_manager, sponsor all confirmed from p151",
+        "gaps": []
+      },
+      "files": {
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/profile.json"
+      },
+      "note": "Profile LLM-only per playbook (scattered management entities)."
+    },
+    "performance": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "cross_check": {
+        "vs": "Financial highlights p8, income stmt p22, unitholders p93",
+        "match": "gross_revenue 113,914k, NPI 53,178k, NDI 25,542k, DI/unit 1.44, unitholders 7655",
+        "gaps": ["DPU=0 actual; stored 1.44 as disclosed DI/unit per instructions; distribution_record=[] (no distributions paid)"]
+      },
+      "files": {
+        "merged": "extracted_hybrid/BTOU.SI_FY2025/performance.json"
+      },
+      "note": "Performance LLM-only per playbook. DPU halt noted per BTOU quirks: actual DPU=0, disclosed DI/unit=1.44 stored."
+    }
+  },
+  "final_dir": "extracted_hybrid/BTOU.SI_FY2025",
+  "gates": {
+    "schema": "PASS",
+    "check": "PASS"
+  },
+  "gate_details": {
+    "schema": "41 valid, 0 invalid",
+    "check": "0 fail, 2 warn, 0 info. Warns: property GR/NPI sums vs reported differ by ~7% due to divested-in-year Plaza/Peachtree; documented in _notes.reconciliation."
+  },
+  "updated": "2026-06-13"
+}

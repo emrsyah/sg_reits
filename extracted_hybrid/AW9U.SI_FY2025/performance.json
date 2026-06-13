@@ -1,0 +1,40 @@
+{
+  "symbol": "AW9U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 1022619000,
+  "properties_location": "Indonesia, Japan, Singapore",
+  "gross_revenue": 100531000,
+  "net_property_income": 97340000,
+  "net_distributable_income": 45800000,
+  "dpu": 2.17,
+  "distribution_record": [
+    {
+      "period": "1 October 2024 to 31 December 2024",
+      "dpu": 0.58,
+      "ex_date": null,
+      "pay_date": "2025-03-30"
+    },
+    {
+      "period": "1 January 2025 to 31 March 2025",
+      "dpu": 0.58,
+      "ex_date": null,
+      "pay_date": "2025-06-26"
+    },
+    {
+      "period": "1 April 2025 to 30 June 2025",
+      "dpu": 0.55,
+      "ex_date": null,
+      "pay_date": "2025-09-25"
+    },
+    {
+      "period": "1 July 2025 to 30 September 2025",
+      "dpu": 0.52,
+      "ex_date": null,
+      "pay_date": "2025-12-18"
+    }
+  ],
+  "number_of_unitholders": 12773,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "source_page": 6
+}

@@ -1,0 +1,136 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "gla",
+      "reason": "Healthcare REIT: primary size metric is beds/rooms (max 6,305 beds/rooms per portfolio). GFA in m2 IS disclosed in the Portfolio Statement and has been captured. However, per-property occupancy/NLA not disclosed."
+    },
+    {
+      "column": "nla",
+      "reason": "Not disclosed for any property; healthcare facilities do not report NLA."
+    },
+    {
+      "column": "net_property_income",
+      "reason": "Per-property NPI not disclosed; only aggregate/segment level (Indonesia $82,203k, Japan $11,367k, Singapore $3,770k per Note 28)."
+    },
+    {
+      "column": "occupancy_rate",
+      "reason": "Not disclosed per property in annual report. Lease structure is full master lease (tenants are master lessees) so occupancy is effectively 100% at the REIT level; not disclosed per property."
+    },
+    {
+      "column": "gross_revenue",
+      "reason": "Per-property gross revenue not disclosed in audited statements. Approximate values available only from marketing cards (S$'million rounded) which are not Tier C sources."
+    },
+    {
+      "column": "trade_mix",
+      "reason": "Per-property trade mix not disclosed; only REIT-level (3-bucket: Healthcare 89.4%, Hospitality 5.6%, Retail 5.0%)."
+    },
+    {
+      "column": "major_tenant",
+      "reason": "Tenant mix is visible from the portfolio cards but not disclosed in the audited Portfolio Statement. Available from property cards on marketing pages."
+    },
+    {
+      "column": "lease_expiry_date",
+      "reason": "Most properties: master lease expiry dates are not explicitly stated in the stacked-cell Portfolio Statement — only remaining term. Specific expiry dates were available from per-property marketing cards (not audited). Dual-expiry case: SHMD/HAMD — earlier expiry 29 Nov 2027 (Hotel Aryaduta Manado) is set."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Maximum beds/rooms",
+      "value": "6,305 beds and rooms (portfolio total)",
+      "note": "Size metric for healthcare properties; occupancy by beds not disclosed per property in audited statements.",
+      "source_page": 4
+    },
+    {
+      "item": "Geographic AUM breakdown",
+      "value": "Indonesia 74.5% ($762.0m), Japan 22.7% ($232.0m), Singapore 2.8% ($28.6m)",
+      "source_page": 7
+    },
+    {
+      "item": "Rental income by geography (FY2025)",
+      "value": "Indonesia 82.5% ($82.9m), Japan 13.3% ($13.4m), Singapore 4.2% ($4.2m)",
+      "source_page": 6
+    },
+    {
+      "item": "Variable rent included in rental income",
+      "value": "$3,926,000 (FY2025); $2,778,000 (FY2024)",
+      "source_page": 173
+    },
+    {
+      "item": "Rental straight-lining adjustment included in rental income",
+      "value": "$7,446,000 (FY2025); $10,227,000 (FY2024)",
+      "source_page": 173
+    },
+    {
+      "item": "Divestment: Imperial Aryaduta Hotel & Country Club",
+      "value": "Disposed December 2025. Proceeds: $25,908k. Loss on disposal: $7,535k. Carried $27,723k at FY2024.",
+      "source_page": 140
+    },
+    {
+      "item": "Income model detail",
+      "value": "Base rent + variable rent (% of gross operating revenue). Indonesia properties under master lease agreements restructured since 1 Jan 2021. Japan under master leases. Singapore under master leases. income_model = mixed (Indonesia has variable component; Japan/SG are pure master lease).",
+      "source_page": 6
+    },
+    {
+      "item": "FX rates (end-2025)",
+      "value": "SGD 1 = IDR 12,987 (closing rate for valuation); SGD 1 = IDR 12,346 (average rate for income)",
+      "source_page": 40
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Stacked-cell Portfolio Statement",
+      "detail": "The audited Portfolio Statement uses one table per page with a single multi-field stacked column (Description/Location/Acquisition date/Type/Land title/Term/Remaining term all packed into col0 with <br> separators). The deterministic adapter engine cannot split this stacked cell. All 35 properties were extracted via LLM lane (llm_only routing)."
+    },
+    {
+      "trap": "SHMD/HAMD combined row with dual expiry",
+      "detail": "Siloam Hospitals Manado & Hotel Aryaduta Manado: presented as one combined row with combined GFA (36,051 m2) and combined carrying value ($79,372k). Two sub-components have different HGB leases and expiry dates (SHMD: 31 Dec 2035, HAMD: 29 Nov 2027). Earlier date (29 Nov 2027) placed in lease_expiry_date; both recorded verbatim in tenure_raw."
+    },
+    {
+      "trap": "Siloam Hospitals Baubau & Lippo Plaza Baubau combined row",
+      "detail": "Combined row for hospital + retail mall, both under BOT scheme. Values and GFA combined."
+    },
+    {
+      "trap": "Siloam Hospitals Kupang & Lippo Plaza Kupang combined row",
+      "detail": "Combined row for hospital + retail mall, both under BOT scheme."
+    },
+    {
+      "trap": "Imperial Aryaduta Hotel & Country Club divested mid-year",
+      "detail": "Carrying value shows '-' (nil) at 31/12/2025. Prior year $27,723k. market_valuation set to 0, status=divested."
+    },
+    {
+      "trap": "Group vs Trust statements",
+      "detail": "The Portfolio Statement shows both Group (all subsidiaries) and Trust (SG only) sections. market_valuation taken from Group section (canonical Tier C source). Trust section shows only 3 SG properties at $28,650k total."
+    },
+    {
+      "trap": "HGB tenure wording",
+      "detail": "The report explicitly states HGB is a leasehold title. master lease 'term' (col: Term of lease) refers to the REIT's master lease agreement term, not the underlying HGB land lease. tenure_raw captures both. land_tenure=Leasehold per playbook."
+    },
+    {
+      "trap": "Top-tenant table is full roster (11), not top-10",
+      "detail": "Labelled 'Rental Income by Tenant Mix' — all 11 tenants account for 100%. All captured. pct_basis=rental_income."
+    },
+    {
+      "trap": "financial Note 16: revenue note does not sum to $100,531k cleanly",
+      "detail": "Rental income $100,526k + Dividend income from shares $5k = $100,531k. Total matches segment note ($100,531k). No gap."
+    }
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation_active": 1022619000,
+    "reported_total_portfolio_value": 1022619000,
+    "valuation_match": true,
+    "valuation_note": "Sum of 34 active properties (35 rows minus Imperial Aryaduta which is divested/zero) = $1,022,619k. Matches Portfolio Statement total and AUM headline.",
+    "sum_revenue_components": 100531000,
+    "reported_gross_revenue": 100531000,
+    "revenue_match": true,
+    "sum_expense_components": 3191000,
+    "reported_property_opex": 3191000,
+    "expense_match": true,
+    "implied_npi": 97340000,
+    "reported_npi": 97340000,
+    "npi_match": true,
+    "property_count_portfolio_statement": 35,
+    "property_count_extracted": 35,
+    "tenant_count_disclosed": 11,
+    "tenant_count_extracted": 11
+  }
+}

@@ -89,6 +89,41 @@
     "source_page": {
       "method": "page",
       "decision": "deterministic"
+    },
+    "ownership": {
+      "method": "absent_here",
+      "where": "per-property card pages 39-43",
+      "decision": "other_source"
+    },
+    "occupancy_rate": {
+      "method": "absent_here",
+      "where": "per-property card pages 39-43",
+      "decision": "other_source"
+    },
+    "nla": {
+      "method": "absent_here",
+      "where": "Attributable Lettable Area per card pages 39-43",
+      "decision": "other_source"
+    },
+    "gross_revenue": {
+      "method": "absent_here",
+      "where": "Attributable Gross Revenue per card pages 39-43 (in millions, scaled)",
+      "decision": "other_source"
+    },
+    "lease_expiry_date": {
+      "method": "absent_here",
+      "where": "Title/expiry per card pages 39-43",
+      "decision": "other_source"
+    },
+    "country": {
+      "method": "absent_here",
+      "where": "derived from address and region headers",
+      "decision": "other_source"
+    },
+    "value_basis": {
+      "method": "absent_here",
+      "where": "NCI footnotes — consolidated for all",
+      "decision": "other_source"
     }
   },
   "context_rules": [

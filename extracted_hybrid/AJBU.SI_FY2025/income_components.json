@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "rental_income",
+    "amount": 435168000,
+    "currency": "SGD",
+    "label_raw": "Rental income",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_income",
+    "amount": 6194000,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_taxes",
+    "amount": 6504000,
+    "currency": "SGD",
+    "label_raw": "Property-related taxes",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "facility_management",
+    "amount": 20239000,
+    "currency": "SGD",
+    "label_raw": "Facility management and related costs",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "repairs_maintenance",
+    "amount": 2275000,
+    "currency": "SGD",
+    "label_raw": "Repairs and maintenance",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "loss_allowance",
+    "amount": 20874000,
+    "currency": "SGD",
+    "label_raw": "Loss allowance for doubtful receivables",
+    "source_page": 141
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_property_costs",
+    "amount": 8210000,
+    "currency": "SGD",
+    "label_raw": "Other property-related costs",
+    "source_page": 141
+  }
+]
