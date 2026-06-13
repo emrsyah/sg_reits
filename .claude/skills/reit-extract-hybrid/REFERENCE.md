@@ -51,6 +51,24 @@ generic engine that consumes it (no exec of generated code). Shape:
 `decision` drives the summary + tracking: `deterministic` (filled by the engine),
 `needs_llm` (batched LLM pass fills it), `other_source` (a different table/page fills it).
 
+**When to use the HTML adapter vs read markdown directly (Phase-D lesson):** reserve the
+HTML+`run_adapter` path for the **large property statement** (multi-page, multi-column —
+where deterministic row extraction earns its keep). For **small, clean 2-column tables**
+(Gross-Revenue / expenses notes, top-10 tenants, trade mix) the markdown is just as reliable
+and avoids two HTML pitfalls seen in Phase D: (a) `parse_html --page-range` is a **PDF page
+index that can drift** from the markdown `<!-- PAGE N -->` numbers (front-matter offset), so
+the wrong note can be parsed; (b) **headerless tables** (e.g. anonymised DC client tables)
+have no text for `table_contains` to match. Extracting those few rows straight from the
+markdown is faster and avoids both. Still validate totals against the audited figure.
+
+**Held-for-sale / divested rows (recurring — add to every property plan):** add a
+`context_rule` so a "held for sale" block sets status, e.g.
+`{"set":"status","col0_regex":"held for sale","also":{"status":"held_for_sale"}}`, or a
+post-step that renames an "Asset held for sale - X" row to "X" + `status=held_for_sale`
+(seen on AJBU Basis Bay and BTOU Figueroa). Divested-in-year properties are absent from the
+Tier-C statement — add them from the divestment note / context, `status=divested`, and record
+the partial-year P&L gap in `_notes.reconciliation`.
+
 **Parser notes that make plans robust across reports:**
 - `<sup>`/`<sub>` are stripped at parse, so "Westgate¹"→"Westgate" but "Junction 8"
   (name-number) is preserved. Don't add regex footnote-stripping.
