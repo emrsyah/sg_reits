@@ -188,6 +188,29 @@ def main() -> None:
     if small:
         warns.append(f"properties with valuation < {MONEY_MIN:,} (unit check): {small[:5]}")
 
+    # 4b. financial completeness — the audited Statement of Total Return ALWAYS has
+    # trust-level lines below NPI (management fees + finance costs, and usually a tax
+    # line). If income_components has none of these, only the property revenue/opex
+    # notes were captured => the statement is incomplete (the systemic under-capture).
+    fin = data["income_components"]
+    if fin:
+        comps = [str(r.get("component", "")).lower() for r in fin]
+        has_finance = any("finance" in c for c in comps)
+        has_mgmt = any(("management_fee" in c) or ("manager_fee" in c) for c in comps)
+        has_adj = any(r.get("statement") == "adjustment" for r in fin)
+        missing = []
+        if not has_finance:
+            missing.append("finance_costs")
+        if not has_mgmt:
+            missing.append("management_fee")
+        if not has_adj:
+            missing.append("adjustment lines (fair-value/JV/tax)")
+        if missing and not declared("income_components"):
+            warns.append(
+                f"income_components likely INCOMPLETE ({len(fin)} lines): missing "
+                f"{', '.join(missing)}. Capture the FULL Statement of Total Return "
+                f"(all lines below NPI), not just the revenue/opex notes.")
+
     # 5. fill rates
     if props:
         keys = sorted({k for p in props for k in p})
