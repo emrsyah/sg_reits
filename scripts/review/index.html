@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>REIT extraction · proofreading cockpit</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
+    --txt:#e6e9ef; --dim:#8b93a3; --accent:#5b9dff;
+    --ok:#2ecc71; --bad:#ff5c5c; --maybe:#f4b740;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;font:13px/1.45 ui-sans-serif,system-ui,Segoe UI,Roboto,sans-serif;
+            background:var(--bg);color:var(--txt)}
+  header{display:flex;gap:14px;align-items:center;padding:8px 14px;background:var(--panel);
+         border-bottom:1px solid var(--line);flex-wrap:wrap}
+  header h1{font-size:13px;margin:0;font-weight:600;color:var(--dim);letter-spacing:.04em}
+  select,input[type=number]{background:var(--panel2);color:var(--txt);border:1px solid var(--line);
+         border-radius:6px;padding:5px 8px;font-size:13px}
+  .grow{flex:1}
+  .progress{display:flex;gap:10px;align-items:center;font-size:12px}
+  .bar{width:160px;height:8px;background:var(--panel2);border-radius:5px;overflow:hidden;display:flex}
+  .bar i{display:block;height:100%}
+  .pill{padding:2px 7px;border-radius:20px;font-size:11px;font-weight:600}
+  .pill.ok{color:var(--ok)} .pill.bad{color:var(--bad)} .pill.maybe{color:var(--maybe)}
+  .pill.left{color:var(--dim)}
+  .filters button{background:var(--panel2);border:1px solid var(--line);color:var(--dim);
+         border-radius:6px;padding:5px 9px;cursor:pointer;font-size:12px}
+  .filters button.active{color:var(--txt);border-color:var(--accent)}
+  main{display:flex;height:calc(100% - 49px)}
+  #left{width:56%;border-right:1px solid var(--line);position:relative;background:#222}
+  #pdf{width:100%;height:100%;border:0}
+  #right{width:44%;overflow:auto;padding:10px 12px 60px}
+  .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
+       color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
+       z-index:2;border-bottom:1px solid var(--line)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:10px 11px;margin:9px 0}
+  .card.v-correct{border-left:3px solid var(--ok)}
+  .card.v-false{border-left:3px solid var(--bad)}
+  .card.v-unsure{border-left:3px solid var(--maybe)}
+  .chead{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+  .ctitle{font-weight:600;font-size:13px}
+  .cidx{color:var(--dim);font-size:11px}
+  .pagebtn{margin-left:auto;background:var(--accent);color:#08101f;border:0;border-radius:6px;
+           padding:4px 9px;font-weight:700;cursor:pointer;font-size:12px;white-space:nowrap}
+  .pagebtn:disabled{background:var(--panel2);color:var(--dim);cursor:default}
+  .fields{display:grid;grid-template-columns:auto 1fr;gap:1px 12px;font-size:12px;
+          background:var(--line);border-radius:6px;overflow:hidden}
+  .fields>div{background:var(--panel2);padding:3px 8px}
+  .fk{color:var(--dim);white-space:nowrap}
+  .fv{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;word-break:break-word}
+  .fv.null{color:#5a6172;font-style:italic}
+  .fv.num{color:#9ad29a}
+  .frow.sp .fk,.frow.sp .fv{background:#243044}
+  .actions{display:flex;gap:6px;align-items:center;margin-top:9px}
+  .vbtn{flex:1;border:1px solid var(--line);background:var(--panel2);color:var(--dim);
+        border-radius:6px;padding:6px;cursor:pointer;font-weight:600;font-size:12px}
+  .vbtn.correct.on{background:rgba(46,204,113,.16);border-color:var(--ok);color:var(--ok)}
+  .vbtn.false.on{background:rgba(255,92,92,.16);border-color:var(--bad);color:var(--bad)}
+  .vbtn.unsure.on{background:rgba(244,183,64,.16);border-color:var(--maybe);color:var(--maybe)}
+  .note{width:100%;margin-top:8px;background:var(--panel2);border:1px solid var(--line);
+        color:var(--txt);border-radius:6px;padding:6px 8px;font-size:12px;resize:vertical;min-height:30px;
+        font-family:inherit}
+  .saved{font-size:11px;color:var(--dim);margin-top:3px;height:13px}
+  .saved.show{color:var(--ok)}
+  .notesref{background:var(--panel);border:1px dashed var(--line);border-radius:8px;padding:8px 11px;margin:8px 0}
+  .notesref summary{cursor:pointer;color:var(--dim);font-weight:600}
+  .notesref pre{white-space:pre-wrap;font-size:11px;color:#aeb6c4;max-height:260px;overflow:auto}
+  .hint{color:var(--dim);font-size:11px}
+</style>
+</head>
+<body>
+<header>
+  <h1>PROOFREAD COCKPIT</h1>
+  <select id="report"></select>
+  <label class="hint">page offset
+    <input id="offset" type="number" value="0" style="width:64px" title="physical PDF page = printed source_page + offset">
+  </label>
+  <div class="progress" id="prog"></div>
+  <div class="grow"></div>
+  <div class="filters" id="filters">
+    <button data-f="all" class="active">all</button>
+    <button data-f="unreviewed">unreviewed</button>
+    <button data-f="false">false</button>
+    <button data-f="unsure">unsure</button>
+  </div>
+</header>
+<main>
+  <div id="left"><iframe id="pdf" title="PDF"></iframe></div>
+  <div id="right"><p class="hint">Loading…</p></div>
+</main>
+
+<script>
+const $ = s => document.querySelector(s);
+let DIR=null, RECORDS=[], REVIEW={items:{},page_offset:0}, FILTER="all", pdfLoadedDir=null;
+
+async function init(){
+  const reports = await (await fetch('/api/reports')).json();
+  const sel = $('#report');
+  sel.innerHTML = reports.map(r=>{
+    const c=r.counts;
+    return `<option value="${r.dir}">${r.symbol} FY${r.financial_year} `
+         + `· ${c.reviewed}/${c.total}${r.has_pdf?'':' (no pdf)'}</option>`;
+  }).join('');
+  sel.onchange = ()=>loadReport(sel.value);
+  $('#offset').onchange = async e=>{
+    REVIEW.page_offset = parseInt(e.target.value||'0',10);
+    await post({page_offset:REVIEW.page_offset});
+  };
+  $('#filters').onclick = e=>{
+    if(e.target.tagName!=='BUTTON')return;
+    FILTER=e.target.dataset.f;
+    [...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));
+    render();
+  };
+  if(reports.length) loadReport(reports[0].dir);
+}
+
+async function loadReport(dir){
+  DIR=dir;
+  const data = await (await fetch('/api/report/'+encodeURIComponent(dir))).json();
+  RECORDS = data.records;
+  REVIEW = data.review;
+  $('#offset').value = REVIEW.page_offset||0;
+  // load PDF once for this report (page 1)
+  pdfLoadedDir=null;
+  setPdf(1);
+  render(data.notes);
+}
+
+function setPdf(physicalPage){
+  // Same URL path each time so the browser serves the PDF bytes from cache;
+  // only the #page fragment changes, which Chrome/Edge's native viewer honors
+  // on every src set -> fast, reliable page jumps without re-downloading.
+  const base='/pdf/'+encodeURIComponent(DIR);
+  $('#pdf').src = base + (physicalPage?('#page='+physicalPage):'');
+  pdfLoadedDir=DIR;
+}
+
+function gotoPrinted(p){
+  if(p==null) return;
+  const off = parseInt($('#offset').value||'0',10);
+  setPdf(p+off);
+}
+
+function fmtVal(v){
+  if(v===null||v===undefined||v==='') return ['null','null'];
+  if(typeof v==='number'){
+    const s = Number.isInteger(v)? v.toLocaleString('en-US')
+            : v.toLocaleString('en-US',{maximumFractionDigits:4});
+    return [s,'num'];
+  }
+  if(typeof v==='object') return [JSON.stringify(v),''];
+  return [String(v),''];
+}
+
+function passesFilter(id){
+  const v=(REVIEW.items[id]||{}).verdict;
+  if(FILTER==='all') return true;
+  if(FILTER==='unreviewed') return !v;
+  return v===FILTER;
+}
+
+function render(notes){
+  const right=$('#right');
+  const bySection={};
+  RECORDS.forEach(r=>(bySection[r.section]=bySection[r.section]||[]).push(r));
+  let html='';
+  if(notes){
+    html += `<details class="notesref"><summary>_notes.json (reconciliation · quirks · nulls)</summary>`
+          + `<pre>${escapeHtml(JSON.stringify(notes,null,2))}</pre></details>`;
+  }
+  const order=["profile","performance","properties","top_tenants","trade_mix","income_components","property_transactions"];
+  for(const sec of order){
+    const recs=(bySection[sec]||[]).filter(r=>passesFilter(r.id));
+    if(!recs.length) continue;
+    html+=`<div class="sec">${sec} · ${recs.length}</div>`;
+    for(const r of recs) html+=cardHtml(r);
+  }
+  if(!html || html.indexOf('class="card"')<0) html+=`<p class="hint">No records match this filter.</p>`;
+  right.innerHTML=html;
+  right.querySelectorAll('.card').forEach(bind);
+  updateProgress();
+}
+
+function cardHtml(r){
+  const it=REVIEW.items[r.id]||{};
+  const v=it.verdict||'';
+  let frows='';
+  for(const [k,val] of Object.entries(r.fields)){
+    const [disp,cls]=fmtVal(val);
+    const sp = k==='source_page';
+    frows+=`<div class="frow ${sp?'sp':''}" style="display:contents">`
+         +`<div class="fk">${escapeHtml(k)}</div>`
+         +`<div class="fv ${cls}">${escapeHtml(disp)}</div></div>`;
+  }
+  const pg=r.source_page;
+  return `<div class="card ${v?('v-'+v):''}" data-id="${r.id}" data-page="${pg==null?'':pg}">
+    <div class="chead">
+      <span class="ctitle">${escapeHtml(r.title)}</span>
+      <span class="cidx">${r.id}</span>
+      <button class="pagebtn" ${pg==null?'disabled':''}>${pg==null?'no page':'📄 p.'+pg}</button>
+    </div>
+    <div class="fields">${frows}</div>
+    <div class="actions">
+      <button class="vbtn correct ${v==='correct'?'on':''}" data-v="correct">✓ correct</button>
+      <button class="vbtn false ${v==='false'?'on':''}" data-v="false">✗ false</button>
+      <button class="vbtn unsure ${v==='unsure'?'on':''}" data-v="unsure">? unsure</button>
+    </div>
+    <textarea class="note" placeholder="notes…">${escapeHtml(it.note||'')}</textarea>
+    <div class="saved"></div>
+  </div>`;
+}
+
+function bind(card){
+  const id=card.dataset.id;
+  const pg=card.dataset.page;
+  card.querySelector('.pagebtn').onclick=()=>{ if(pg!=='') gotoPrinted(parseInt(pg,10)); };
+  card.querySelectorAll('.vbtn').forEach(b=>{
+    b.onclick=async()=>{
+      const cur=(REVIEW.items[id]||{}).verdict;
+      const nv = cur===b.dataset.v? null : b.dataset.v;   // click active = clear
+      await post({item_id:id, verdict:nv});
+      applyVerdict(card,id,nv);
+      flash(card,'saved');
+    };
+  });
+  const ta=card.querySelector('.note');
+  let t;
+  ta.oninput=()=>{
+    clearTimeout(t);
+    flash(card,'…',true);
+    t=setTimeout(async()=>{
+      await post({item_id:id, note:ta.value});
+      REVIEW.items[id]=REVIEW.items[id]||{};
+      if(ta.value) REVIEW.items[id].note=ta.value; else delete REVIEW.items[id].note;
+      flash(card,'saved');
+    },600);
+  };
+}
+
+function applyVerdict(card,id,nv){
+  REVIEW.items[id]=REVIEW.items[id]||{};
+  if(nv) REVIEW.items[id].verdict=nv; else delete REVIEW.items[id].verdict;
+  card.classList.remove('v-correct','v-false','v-unsure');
+  if(nv) card.classList.add('v-'+nv);
+  card.querySelectorAll('.vbtn').forEach(b=>b.classList.toggle('on',b.dataset.v===nv));
+  // if a filter is active, the card may need to disappear
+  if(FILTER!=='all' && !passesFilter(id)) render(currentNotes);
+  updateProgress();
+}
+
+let currentNotes=null;
+const _origRender=render;
+render=function(n){ if(n!==undefined) currentNotes=n; _origRender(currentNotes); };
+
+function updateProgress(){
+  const c={total:RECORDS.length,correct:0,false:0,unsure:0,reviewed:0};
+  RECORDS.forEach(r=>{const v=(REVIEW.items[r.id]||{}).verdict;
+    if(v){c[v]++;c.reviewed++;}});
+  const pct=x=>c.total? (100*x/c.total).toFixed(1)+'%':'0';
+  $('#prog').innerHTML=
+    `<div class="bar">
+       <i style="width:${pct(c.correct)};background:var(--ok)"></i>
+       <i style="width:${pct(c.false)};background:var(--bad)"></i>
+       <i style="width:${pct(c.unsure)};background:var(--maybe)"></i>
+     </div>
+     <span class="pill ok">✓ ${c.correct}</span>
+     <span class="pill bad">✗ ${c.false}</span>
+     <span class="pill maybe">? ${c.unsure}</span>
+     <span class="pill left">· ${c.reviewed}/${c.total}</span>`;
+  // reflect in dropdown label
+  const opt=$('#report').selectedOptions[0];
+  if(opt) opt.text=opt.text.replace(/· \d+\/\d+/, `· ${c.reviewed}/${c.total}`);
+}
+
+async function post(body){
+  await fetch('/api/review/'+encodeURIComponent(DIR),{
+    method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify(body)});
+}
+function flash(card,msg,pending){
+  const s=card.querySelector('.saved');
+  s.textContent=msg==='saved'?'✓ saved':msg;
+  s.classList.toggle('show',msg==='saved');
+  if(msg==='saved') setTimeout(()=>{s.textContent='';s.classList.remove('show');},1200);
+}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,
+  m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+
+init();
+</script>
+</body>
+</html>
