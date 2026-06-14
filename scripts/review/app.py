@@ -188,9 +188,15 @@ def pdf(dirname):
     p = pdf_path_for(dirname)
     if not p or not p.exists():
         abort(404)
-    # conditional=True enables range requests so the native viewer can jump
-    # pages without re-downloading the whole file.
-    return send_file(p, mimetype="application/pdf", conditional=True)
+    # conditional=True enables range requests; the explicit cache header lets the
+    # browser keep the bytes so the forced re-navigation on each page-jump is
+    # instant (no re-download, no revalidation round-trip).
+    resp = send_file(p, mimetype="application/pdf", conditional=True)
+    resp.cache_control.no_cache = None        # send_file sets this; clear it
+    resp.cache_control.public = True
+    resp.cache_control.max_age = 86400
+    resp.expires = None
+    return resp
 
 
 if __name__ == "__main__":

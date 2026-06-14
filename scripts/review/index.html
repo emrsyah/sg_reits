@@ -130,11 +130,14 @@ async function loadReport(dir){
 }
 
 function setPdf(physicalPage){
-  // Same URL path each time so the browser serves the PDF bytes from cache;
-  // only the #page fragment changes, which Chrome/Edge's native viewer honors
-  // on every src set -> fast, reliable page jumps without re-downloading.
+  // Native PDF viewers honor #page only on a FRESH load — a fragment-only change
+  // after the doc is loaded does nothing (no scroll). So force a real navigation
+  // each time. The PDF bytes are cached (max_age), so the reload is fast.
   const base='/pdf/'+encodeURIComponent(DIR);
-  $('#pdf').src = base + (physicalPage?('#page='+physicalPage):'');
+  const url = base + (physicalPage?('#page='+physicalPage):'');
+  const frame=$('#pdf');
+  frame.removeAttribute('src');               // blank it...
+  requestAnimationFrame(()=>{ frame.src=url; }); // ...then load fresh -> #page scrolls
   pdfLoadedDir=DIR;
 }
 
