@@ -3,131 +3,144 @@
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "revenue",
-    "component": "base_rental",
+    "component": "rental_income",
     "amount": 51252000,
     "currency": "SGD",
     "label_raw": "Rental income",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 18 Gross Revenue breakdown"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "revenue",
-    "component": "recoverable_income",
+    "component": "recoverable_and_other_income",
     "amount": 6542000,
     "currency": "SGD",
     "label_raw": "Recoverable and other income",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 18 Gross Revenue breakdown. Includes utilities recoveries and other recoverable expenses from tenants."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "property_tax",
-    "amount": 5276000,
+    "component": "property_taxes",
+    "amount": -5276000,
     "currency": "SGD",
     "label_raw": "Property taxes",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 19 Property Operating Expenses"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "utilities",
-    "amount": 3674000,
+    "component": "utilities_expenses",
+    "amount": -3674000,
     "currency": "SGD",
     "label_raw": "Utilities expenses",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 19 Property Operating Expenses"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "property_management_fee",
-    "amount": 1201000,
+    "component": "property_management_fees",
+    "amount": -1201000,
     "currency": "SGD",
     "label_raw": "Property management fees and expenses",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 19 Property Operating Expenses"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "building_management",
-    "amount": 2005000,
+    "component": "building_management_expenses",
+    "amount": -2005000,
     "currency": "SGD",
     "label_raw": "Building management expenses",
-    "source_page": 191
+    "source_page": 191,
+    "note": "Note 19 Property Operating Expenses"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
     "component": "other_operating_expenses",
-    "amount": 1439000,
+    "amount": -1439000,
     "currency": "SGD",
     "label_raw": "Other operating expenses",
-    "source_page": 191
-  },
-  {
-    "symbol": "DHLU.SI",
-    "financial_year": 2025,
-    "statement": "revenue",
-    "component": "other_income",
-    "amount": 884000,
-    "currency": "SGD",
-    "label_raw": "Other income",
-    "source_page": 162
+    "source_page": 191,
+    "note": "Note 19 Property Operating Expenses"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "asset_management_fee",
-    "amount": 2075000,
+    "component": "managers_management_fees",
+    "amount": -2075000,
     "currency": "SGD",
     "label_raw": "Manager's management fees",
-    "source_page": 162
+    "source_page": 162,
+    "note": "From Consolidated Statement of Comprehensive Income p162"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "japan_asset_management_fee",
-    "amount": 1067000,
+    "component": "japan_asset_management_fees",
+    "amount": -1067000,
     "currency": "SGD",
     "label_raw": "Japan asset management fees",
-    "source_page": 162
+    "source_page": 162,
+    "note": "From Consolidated Statement of Comprehensive Income p162; paid to Daiwa House Real Estate Investment Management Co., Ltd."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "trustee_fee",
-    "amount": 283000,
+    "component": "trustees_fee",
+    "amount": -283000,
     "currency": "SGD",
     "label_raw": "Trustee's fee",
-    "source_page": 162
+    "source_page": 162,
+    "note": "From Consolidated Statement of Comprehensive Income p162"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
     "component": "trust_expenses",
-    "amount": 773000,
+    "amount": -773000,
     "currency": "SGD",
     "label_raw": "Trust expenses",
-    "source_page": 162
+    "source_page": 162,
+    "note": "Note 20: includes audit fees S$388k, valuation fees S$123k, tax/legal S$63k, IR S$146k. S$0.9m lower than FY2024 mainly due to GST refunds received in FY2025."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "finance_costs",
-    "amount": 9216000,
+    "component": "finance_expenses",
+    "amount": -9216000,
     "currency": "SGD",
     "label_raw": "Finance expenses",
-    "source_page": 162
+    "source_page": 162,
+    "note": "Note 21: interest expense S$4,471k + amortisation of debt-related expense S$1,924k + commitment/financing fees S$70k + finance cost on lease liabilities S$2,751k. 39% higher y-o-y."
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "other_income",
+    "amount": 884000,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 162,
+    "note": "Includes net foreign exchange gain (realised FX gain S$0.5m) and interest income S$0.3m per financial review p53"
   },
   {
     "symbol": "DHLU.SI",
@@ -137,7 +150,8 @@
     "amount": 10232000,
     "currency": "SGD",
     "label_raw": "Fair value change in investment properties",
-    "source_page": 162
+    "source_page": 162,
+    "note": "Note 9: gross FV change S$13,591k less ROU/ARO changes S$(2,694k) less amortisation/straight-lining S$(665k) = net S$10,232k"
   },
   {
     "symbol": "DHLU.SI",
@@ -147,16 +161,18 @@
     "amount": -174000,
     "currency": "SGD",
     "label_raw": "Fair value change in derivatives",
-    "source_page": 162
+    "source_page": 162,
+    "note": "From Consolidated Statement of Comprehensive Income p162"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "tax_expense",
+    "component": "tax_expenses",
     "amount": -6073000,
     "currency": "SGD",
     "label_raw": "Tax expenses",
-    "source_page": 162
+    "source_page": 162,
+    "note": "Note 22: current tax S$102k + deferred tax S$5,971k = S$6,073k total tax expense"
   }
 ]

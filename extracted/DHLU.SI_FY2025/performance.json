@@ -9,13 +9,13 @@
   "dpu": 4.33,
   "distribution_record": [
     {
-      "period": "2024-07-01 to 2024-12-31",
+      "period": "1 July 2024 to 31 December 2024",
       "dpu": 2.34,
       "ex_date": null,
       "pay_date": "2025-03-26"
     },
     {
-      "period": "2025-01-01 to 2025-06-30",
+      "period": "1 January 2025 to 30 June 2025",
       "dpu": 2.24,
       "ex_date": null,
       "pay_date": "2025-09-26"
@@ -24,5 +24,6 @@
   "number_of_unitholders": 4865,
   "currency": "SGD",
   "date": "2025-12-31",
-  "source_page": 163
+  "source_page": 205,
+  "note": "portfolio_value S$835.2m is the headline independent-valuation figure converted at JPY122.00/SGD and VND20447.50/SGD per p7. number_of_unitholders as at 12 March 2026 from Statistics of Unitholdings p205. DPU breakdown: 2.34 cents (H2 2024 paid Mar 2026) + 2.24 cents (H1 2025 paid Sep 2025) as per Distribution Statement p163. net_distributable_income from Distribution Statement p163."
 }

@@ -33,7 +33,7 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "revenue",
-    "component": "other_property_income",
+    "component": "other_income",
     "amount": 277000,
     "currency": "EUR",
     "label_raw": "Other income",
@@ -42,19 +42,9 @@
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
-    "component": "finance_income",
-    "amount": 532000,
-    "currency": "EUR",
-    "label_raw": "Finance income",
-    "source_page": 175
-  },
-  {
-    "symbol": "UD1U.SI",
-    "financial_year": 2025,
     "statement": "expense",
-    "component": "property_management",
-    "amount": 949000,
+    "component": "property_management_expenses",
+    "amount": -949000,
     "currency": "EUR",
     "label_raw": "Property management expenses",
     "source_page": 196
@@ -63,8 +53,8 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "repairs_maintenance",
-    "amount": 8207000,
+    "component": "repair_and_maintenance",
+    "amount": -8207000,
     "currency": "EUR",
     "label_raw": "Repair and maintenance expenses",
     "source_page": 196
@@ -74,7 +64,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "utilities",
-    "amount": 3434000,
+    "amount": -3434000,
     "currency": "EUR",
     "label_raw": "Utilities expenses",
     "source_page": 196
@@ -83,8 +73,8 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "property_taxes",
-    "amount": 3231000,
+    "component": "property_tax",
+    "amount": -3231000,
     "currency": "EUR",
     "label_raw": "Property tax expenses",
     "source_page": 196
@@ -93,8 +83,8 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "other_property_costs",
-    "amount": 1789000,
+    "component": "other_property_expenses",
+    "amount": -1789000,
     "currency": "EUR",
     "label_raw": "Other expenses",
     "source_page": 196
@@ -102,9 +92,19 @@
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "expense",
+    "statement": "adjustment",
+    "component": "finance_income",
+    "amount": 532000,
+    "currency": "EUR",
+    "label_raw": "Finance income",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
     "component": "finance_costs",
-    "amount": 8197000,
+    "amount": -8197000,
     "currency": "EUR",
     "label_raw": "Finance costs",
     "source_page": 175
@@ -112,19 +112,29 @@
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "expense",
-    "component": "management_fees",
-    "amount": 1810000,
+    "statement": "adjustment",
+    "component": "management_fee_base",
+    "amount": -1810000,
     "currency": "EUR",
-    "label_raw": "Management fees",
+    "label_raw": "Management fees - Base fee",
     "source_page": 175
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "expense",
+    "statement": "adjustment",
+    "component": "management_fee_performance",
+    "amount": 0,
+    "currency": "EUR",
+    "label_raw": "Management fees - Performance fee",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
     "component": "trustee_fees",
-    "amount": 196000,
+    "amount": -196000,
     "currency": "EUR",
     "label_raw": "Trustee's fees",
     "source_page": 175
@@ -132,9 +142,9 @@
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "expense",
+    "statement": "adjustment",
     "component": "administrative_costs",
-    "amount": 1706000,
+    "amount": -1706000,
     "currency": "EUR",
     "label_raw": "Administrative costs",
     "source_page": 175
@@ -142,9 +152,9 @@
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
-    "statement": "expense",
+    "statement": "adjustment",
     "component": "other_trust_expenses",
-    "amount": 2227000,
+    "amount": -2227000,
     "currency": "EUR",
     "label_raw": "Other trust expenses",
     "source_page": 175
@@ -163,7 +173,17 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "fair_value_change_derivatives",
+    "component": "divestment_fee_and_related_costs",
+    "amount": 0,
+    "currency": "EUR",
+    "label_raw": "Divestment fee and related costs",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "change_in_fair_value_financial_derivatives",
     "amount": -8542000,
     "currency": "EUR",
     "label_raw": "Change in fair value of financial derivatives",
@@ -173,7 +193,7 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "fair_value_change_investment_properties",
+    "component": "change_in_fair_value_investment_properties",
     "amount": -81970000,
     "currency": "EUR",
     "label_raw": "Change in fair value of investment properties",
@@ -188,5 +208,16 @@
     "currency": "EUR",
     "label_raw": "Income tax benefit/(expense)",
     "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "total_return_for_year",
+    "amount": -63200000,
+    "currency": "EUR",
+    "label_raw": "Total (loss)/return for the year attributable to Unitholders",
+    "source_page": 175,
+    "note": "Revenue lines from Note 3.2 (p.196); expense lines from Note 3.3 (p.196); adjustment/below-NPI lines from Consolidated Statement of Total Return (p.175). Gross revenue total: 39,119+8,412+2,626+277=50,434 EUR'000 (matches disclosed). Total property opex: 949+8,207+3,434+3,231+1,789=17,610 EUR'000 (matches disclosed). NPI=50,434-17,610=32,824 EUR'000 (matches). Total return: 32,824+532-8,197-1,810-196-1,706-2,227+2,290+0-8,542-81,970+5,802=-63,200 EUR'000 (matches). Reconciliation complete."
   }
 ]

@@ -2,12 +2,17 @@
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
-    "property_name": "DPL Gunma Fujioka",
     "transaction_type": "acquisition",
-    "transaction_date": "2025-03-24",
-    "consideration": 42870000,
-    "currency": "SGD",
-    "notes": "Acquired from Mitsubishi HC Capital Estate Plus Inc. for JPY 3,990 million (unrelated third party). Independent valuation JPY 5,210 million.",
+    "property_name": "DPL Gunma Fujioka",
+    "country": "Japan",
+    "date": "2025-03-24",
+    "consideration": 3990000000,
+    "consideration_currency": "JPY",
+    "consideration_sgd": 35400000,
+    "vendor": "Mitsubishi HC Capital Estate Plus Inc.",
+    "valuation_at_acquisition": 5210000000,
+    "valuation_currency": "JPY",
+    "notes": "Acquired via DH-CRUX Japan TMK. Freehold logistics property in Fujioka-shi, Gunma (Greater Tokyo). Purchase consideration JPY 3,990m = 23.4% discount to independent valuation of JPY 5,210m at acquisition (Jan 2025 valuation). Financed by borrowings and internal cash. Valuation at 31 Dec 2025 grew to JPY 5,230m (31.1% above acquisition price). JPY 3,990m loan drawn to finance acquisition.",
     "source_page": 51
   }
 ]

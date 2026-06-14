@@ -1,14 +1,29 @@
 {
   "symbol": "UD1U.SI",
   "financial_year": 2025,
-  "portfolio_value": 804280000,
+  "portfolio_value": 798100000,
   "properties_location": "Germany, Spain, France",
   "gross_revenue": 50434000,
   "net_property_income": 32824000,
   "net_distributable_income": 14662000,
   "dpu": 1.09,
+  "distribution_record": [
+    {
+      "period": "1 January 2025 to 30 June 2025",
+      "dpu": 0.71,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 July 2025 to 31 December 2025",
+      "dpu": 0.38,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
   "number_of_unitholders": 6494,
   "currency": "EUR",
   "date": "2025-12-31",
-  "source_page": 176
+  "source_page": 176,
+  "note": "portfolio_value=€798.1m from p.40 Tier A marketing summary (independent valuation total, note 2.3 p.188 confirms €798,140k). Number_of_unitholders as at 12 March 2026 (Statistics of Unitholdings p.223). DPU in EUR cents. Distribution semi-annual. Ex/pay dates not disclosed in parsed text."
 }

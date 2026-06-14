@@ -7,7 +7,8 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 24.5,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Occupies space in 3 properties (Maebashi, Ibaraki Yuki, Kawasaki Yako); WALE ~8.7 years. pct_basis is NPI not GRI per footnote 4 p50: '% of NPI for FY2025 allocated by NLA proportion'."
   },
   {
     "symbol": "DHLU.SI",
@@ -17,7 +18,8 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 8.4,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "3PL tenant, group company of Suntory Holdings (F&B). pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
@@ -27,7 +29,8 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 5.5,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "3PL tenant in Vietnam (D Project Tan Duc 2). Japanese 3PL specializing in frozen/chilled food. TSE-listed group company. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
@@ -37,17 +40,19 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 5.3,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Global 3PL company; occupies DPL Okayama Hayashima 2 and part of DPL Iwakuni 1&2. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "rank": 5,
-    "tenant_name": null,
+    "tenant_name": "Tenant A",
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 4.1,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Anonymised; 3PL sector. Tenant has not given consent to disclosure of tenancy terms including name (footnote 5 p50). pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
@@ -57,17 +62,19 @@
     "trade_sector": "Other Retail Trades",
     "gri_percentage": 3.9,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "CREATE SD Co., Ltd., one of the largest drug store chains in Japan (Retail sector). Occupies DPL Shinfuji. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "rank": 7,
-    "tenant_name": null,
+    "tenant_name": "Tenant B",
     "trade_sector": "Other Retail Trades",
     "gri_percentage": 3.8,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Anonymised; E-commerce sector. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
@@ -77,17 +84,19 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 3.7,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "3PL operator occupying DPL Okayama Hayashima. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "rank": 9,
-    "tenant_name": null,
+    "tenant_name": "Tenant C",
     "trade_sector": "Other Retail Trades",
     "gri_percentage": 3.7,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Anonymised; Retail sector. pct_basis is NPI per footnote 4."
   },
   {
     "symbol": "DHLU.SI",
@@ -97,6 +106,7 @@
     "trade_sector": "Logistics & Supply Chain Management",
     "gri_percentage": 3.6,
     "pct_basis": "npi",
-    "source_page": 50
+    "source_page": 50,
+    "note": "Tokyo Logi Factory Co., Ltd.; leading Japanese 3PL company; occupies D Project Iruma S. pct_basis is NPI per footnote 4. Top 10 subtotal = 66.6%."
   }
 ]

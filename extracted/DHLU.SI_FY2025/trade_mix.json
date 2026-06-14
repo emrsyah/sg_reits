@@ -5,8 +5,9 @@
     "category": "Logistics & Supply Chain Management",
     "category_raw": "3PL",
     "pct": 79.6,
-    "pct_basis": "npi",
-    "source_page": 50
+    "pct_basis": "gri",
+    "source_page": 50,
+    "note": "GRI based on monthly rent as at December 2025 per footnote 3 p50. 3PL tenants serve clients in F&B, household products, chemical, materials sectors distributing to supermarkets, convenience stores, retail stores, and manufacturers."
   },
   {
     "symbol": "DHLU.SI",
@@ -14,8 +15,9 @@
     "category": "Other Retail Trades",
     "category_raw": "Retail",
     "pct": 11.4,
-    "pct_basis": "npi",
-    "source_page": 50
+    "pct_basis": "gri",
+    "source_page": 50,
+    "note": "GRI based on monthly rent as at December 2025 per footnote 3 p50. Includes drug store chains (Create SD), appliance retailers (EDION)."
   },
   {
     "symbol": "DHLU.SI",
@@ -23,16 +25,18 @@
     "category": "Other Retail Trades",
     "category_raw": "E-commerce",
     "pct": 5.8,
-    "pct_basis": "npi",
-    "source_page": 50
+    "pct_basis": "gri",
+    "source_page": 50,
+    "note": "GRI based on monthly rent as at December 2025 per footnote 3 p50. E-commerce classified under Other Retail Trades as no exact canonical match; category_raw preserved."
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
-    "category": "Manufacturing",
+    "category": "Other Industrial Trades",
     "category_raw": "Manufacturing",
     "pct": 3.3,
-    "pct_basis": "npi",
-    "source_page": 50
+    "pct_basis": "gri",
+    "source_page": 50,
+    "note": "GRI based on monthly rent as at December 2025 per footnote 3 p50. Includes NOK Corporation (car component supplier). Note: total shown in report = 79.6+11.4+5.8+3.3=100.1% (rounding). No residual 'Other' category disclosed."
   }
 ]

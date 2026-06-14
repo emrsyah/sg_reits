@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "rank": 1,
     "tenant_name": "Decathlon",
-    "trade_sector": "Retail",
+    "trade_sector": "Other Retail Trades",
     "gri_percentage": 20.8,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -14,7 +14,7 @@
     "financial_year": 2025,
     "rank": 2,
     "tenant_name": "GMG - Deutsche Telekom",
-    "trade_sector": "Telecommunications",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 17.7,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -24,7 +24,7 @@
     "financial_year": 2025,
     "rank": 3,
     "tenant_name": "B&M",
-    "trade_sector": "Retail",
+    "trade_sector": "Other Retail Trades",
     "gri_percentage": 17.5,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -44,7 +44,7 @@
     "financial_year": 2025,
     "rank": 5,
     "tenant_name": "ST Microelectronics",
-    "trade_sector": "Manufacturing",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 3.7,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -54,7 +54,7 @@
     "financial_year": 2025,
     "rank": 6,
     "tenant_name": "Westfälisch-Lippische Vermögensverwaltungsgesellschaft mbH",
-    "trade_sector": "Real Estate & Property Services",
+    "trade_sector": "Government Related",
     "gri_percentage": 3.6,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -97,6 +97,7 @@
     "trade_sector": "IT & Telecommunications",
     "gri_percentage": 2.2,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "note": "pct_basis stated as 'percentage of total gross rental income' (footnote 1, p.39). Top-10 tenants total 77.3% of gross rental income. Trade sectors inferred from company names/known businesses — see _notes.inferred."
   }
 ]
