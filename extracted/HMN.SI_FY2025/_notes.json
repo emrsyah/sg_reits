@@ -3,10 +3,6 @@
   "financial_year": 2025,
   "columns_never_fillable": [
     {
-      "column": "trade_mix",
-      "reason": "Structurally absent for hospitality REIT. No trade-mix table disclosed. A 'Portfolio Information by Industry' table exists (page 27) but is based on rental income from corporate accounts of management contract properties only (not portfolio-wide), so it does not map to the canonical trade_mix schema."
-    },
-    {
       "column": "occupancy_rate",
       "reason": "Per-property occupancy not disclosed in the Portfolio Statement for hospitality. Portfolio-level occupancy of 80% disclosed (page 18) but not breakdowns by property."
     },
@@ -57,12 +53,6 @@
       "source_page": 18
     },
     {
-      "item": "Portfolio by industry (corporate clients, MC only)",
-      "value": "Industrial 21%, Government & NGOs 17%, Financial Institutions 13%, Consumers 11%, IT 6%, Energy & Utilities 6%, Media & Telecom 6%, Manufacturing 6%, Real Estate/Lodging 5%, Healthcare 5%, Others 4%",
-      "note": "Based on rental income from corporate accounts of properties under Ascott management contracts only. Page 27.",
-      "source_page": 27
-    },
-    {
       "item": "BT freehold land and buildings (PPE) - block total",
       "value": "SGD 550,748k (2025), SGD 555,907k (2024)",
       "note": "Five hotels held as property, plant and equipment by the BT Group (Pullman Brisbane, Pullman Melbourne, Pullman Sydney, Sydney Central, Temple Bar Dublin). Individual property values not disclosed in the Portfolio Statement; block total on page 143.",
@@ -100,7 +90,8 @@
     "Australia REIT properties also show 'Not applicable' in Stapled Group 2025. This appears to be a consistent reporting quirk across AU and parts of France in the Stapled Group column.",
     "Japan properties from page 135+ use 'Freehold / applicable / Not applicable' as tenure - the word 'applicable' in the 'Term of Lease' column is unusual but reflects the statement verbatim.",
     "Top-10 corporate clients table (page 27) has 11 rows (Rank 10 and Rank 11 both at 0.1%) - the report shows 3J Shipping Agencies as a tied 11th entrant. Both captured.",
-    "The income_components use the Stapled Group column (not REIT-only or BT-only), consistent with the stapled-group reporting convention."
+    "The income_components use the Stapled Group column (not REIT-only or BT-only), consistent with the stapled-group reporting convention.",
+    "trade_mix SCOPE: the 'Portfolio Information by Industry' table (page 27) captured as trade_mix is based on rental income from CORPORATE ACCOUNTS of properties under ASCOTT MANAGEMENT CONTRACTS ONLY — it is NOT a portfolio-wide tenant trade mix (hospitality has no leased-unit trade mix). pct_basis stored as 'rental_income'; treat as a scoped demand-side industry mix, not directly comparable to retail/office trusts' portfolio trade_mix."
   ],
   "reconciliation": {
     "sum_property_market_valuation_reit_group_sgd": 7039919000.0,

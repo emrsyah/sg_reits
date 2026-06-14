@@ -6,7 +6,7 @@ Datalab-parsed archetype reports (FY2025):
 | Archetype | Report | sub_sector | Why it's here |
 |---|---|---|---|
 | SG diversified | CICT (C38U) | Diversified | JV/proportionate vs 100% valuation traps; full table set |
-| Hospitality, stapled | CapitaLand Ascott (HMN) | Hospitality | REIT+BT staple; no trade mix; units not GLA; multi-currency |
+| Hospitality, stapled | CapitaLand Ascott (HMN) | Hospitality | REIT+BT staple; trade mix is a corporate-account industry mix (verify, don't assume absent); units not GLA; multi-currency |
 | Data centre | Keppel DC (AJBU) | Data Centre | anonymised clients; client-type ≠ trade mix; no MW; NCI |
 | US office | Manulife US (BTOU) | Office | USD; per-property NPI in bar charts; held-for-sale |
 
@@ -32,7 +32,7 @@ Pages are FY2025 examples; use `locate.py` for the actual pages in any report. T
 | `performance.number_of_unitholders` | "Statistics of Unitholdings" (back) | dated POST year-end (e.g. late Feb/Mar 2026) |
 | `performance.dpu` + distribution_record | "Distribution Statement" + DPU table | US trust may show DI/unit while actual DPU = 0 (halted) |
 | `top_tenant.*` | "Top 10 Tenants/Clients" | retail/office rich; DC anonymised; hospitality trivial |
-| `trade_mix.*` | "Trade Mix" / "Trade Sector by GRI" | DC = client trade sector; hospitality = none |
+| `trade_mix.*` | "Trade Mix" / "Trade Sector by GRI" / "Portfolio Information by Industry" | DC = client trade sector / "by contract type"; hospitality OFTEN none portfolio-wide but VERIFY — Ascott discloses a corporate-account industry mix (capture it, scoped `pct_basis`). Most industries map to the canonical taxonomy |
 | `income_components` (revenue) | **Note "Gross Revenue"** | reconciliation anchor = total |
 | `income_components` (expense) | **Note "Property Operating Expenses" / "Direct Expenses"** | $'000 |
 | Statement of Total Return | audited P&L | NPI = gross revenue − property opex |
@@ -188,8 +188,15 @@ Folded in from the healthcare (First REIT) and industrial (MLT) runs — apply e
 - Portfolio Listing shows "Agreed Property Value at Acquisition" (historical cost) — NOT
   valuation. Current valuation only in the audited Portfolio Statements ($'000).
 - Revenue note splits gross rental income / hospitality income / hotel revenue.
-- No trade mix, no real top-tenant table, no per-property NPI/occupancy, no GLA/NLA →
-  declare all structural; size metric is units/keys.
+- Often no per-property NPI/occupancy/GLA/NLA (size metric is units/keys) — but VERIFY each
+  before declaring structural.
+- **Trade mix DOES exist** here: a "Portfolio Information by Industry" table (~p27), % of
+  rental income by industry, scoped to *corporate accounts under management contracts only*.
+  Capture it as `trade_mix` with `pct_basis="rental_income (corporate accounts, mgmt-contract
+  properties only)"` and `category_raw` verbatim; most industries map to the canonical
+  taxonomy (Government Related, Banking/Insurance/Financial, IT & Telecommunications, Energy
+  & Utilities, Manufacturing, Healthcare…). Do NOT declare it a structural absence.
+- Top-tenant table is thin/absent — confirm in the report.
 - Income split disclosed by contract type (master lease/MCMGI/MC) and geography → goes in
   `_notes.data_with_no_home`.
 
@@ -251,3 +258,14 @@ For an accuracy check, run a blind re-extraction of a stratified sample (one per
 sub-sector) with no access to prior output, then diff. Differences cluster on dual-basis
 valuations and pct_basis wording — exactly the judgment calls, which is where review time
 should go.
+
+**Playbooks are PRIORS, not facts — verify against THIS report.** The sub-sector notes here
+say where data *usually* lives and what's *often* absent; they are hints to speed the search,
+never a substitute for looking. In particular:
+- **Never declare a field/table structurally absent on the playbook's say-so.** Confirm the
+  report genuinely doesn't disclose it. Reserve "structural absence" for true non-disclosure —
+  NOT for "disclosed on a narrow basis" (e.g. Ascott's corporate-account industry mix is a
+  real `trade_mix`, scoped via `pct_basis`, not an absence).
+- A playbook absence claim that turns out wrong is an under-capture bug. If you find data the
+  playbook said wouldn't exist, capture it (with a scope note) and the claim here is the bug —
+  fix it. (Same failure mode as the now-removed "same sub-sector ⇒ same layout" assumption.)
