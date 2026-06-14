@@ -211,6 +211,25 @@ def main() -> None:
                 f"{', '.join(missing)}. Capture the FULL Statement of Total Return "
                 f"(all lines below NPI), not just the revenue/opex notes.")
 
+    # 4c. trade_mix completeness — a trade-mix breakdown should sum to ~100% of its
+    # basis. A sum well below 100 means rows were dropped (split/long table). An empty
+    # trade_mix is only valid as a declared structural absence (e.g. hospitality).
+    tmix = data["trade_mix"]
+    if tmix:
+        tmsum = sum(r.get("pct") or 0 for r in tmix)
+        if not (95 <= tmsum <= 105):
+            warns.append(f"trade_mix sums to {tmsum:.1f}% over {len(tmix)} rows "
+                         f"(expected ~100%) — rows may be missing or double-counted")
+    elif not declared("trade_mix"):
+        warns.append("trade_mix is empty and not declared structural in _notes "
+                     "(valid only for sub-sectors with no tenant trade mix, e.g. hospitality)")
+
+    # 4d. top_tenants presence — a top-N tenants table is near-universal; empty usually
+    # means the section was missed.
+    if not data["top_tenants"] and not declared("top_tenants"):
+        warns.append("top_tenants is empty and not declared structural — the top-N "
+                     "tenants/customers table was likely missed")
+
     # 5. fill rates
     if props:
         keys = sorted({k for p in props for k in p})
