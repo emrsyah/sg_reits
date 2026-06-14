@@ -52,7 +52,7 @@
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "finance_income",
     "amount": 6465000.0,
     "currency": "SGD",
@@ -62,7 +62,7 @@
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "other_income",
     "amount": 1581000.0,
     "currency": "SGD",

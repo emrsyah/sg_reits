@@ -17,7 +17,8 @@
     },
     {
       "role": "sponsor",
-      "company_name": "CapitaLand Investment Limited"
+      "company_name": "The Ascott Limited",
+      "_role_note": "Sponsor of CLAS (p16/p194: 'The Ascott Limited, in turn, is the sponsor of CLAS'); CapitaLand Investment Limited is its parent, not the sponsor"
     }
   ],
   "income_model": "mixed",

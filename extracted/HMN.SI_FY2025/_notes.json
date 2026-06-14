@@ -46,8 +46,11 @@
       "match": true
     },
     "portfolio_value_note": {
-      "performance_portfolio_value": 7637513000,
-      "note": "Sourced from p8/p9 Financial Highlights (S$7,637.5 million headline); this is the Stapled Group portfolio valuation as marketed. The audited Tier C investment properties total (REIT Group) plus BT Group investment properties and PPE would produce a different figure due to accounting classification; the headline figure is the report-stated portfolio value.",
+      "performance_portfolio_value": 7900000000,
+      "basis": "Disclosed headline 'S$7.9 billion' (p21: 'The Group's portfolio was revalued at S$7.9 billion'), per REFERENCE.md §1 convention that performance.portfolio_value = the report's headline portfolio valuation.",
+      "audited_tier_c_property_total_p143": 7637513000,
+      "audited_tier_c_incl_robertson_leasehold_ppe": 7975463000,
+      "note": "The audited Stapled-Group investment properties + IPUD + BT freehold L&B on p143 = 7,637,513 $'000 (excludes Robertson House leasehold PPE); including Robertson (337,950) = 7,975,463 $'000. The 7.9bn headline sits between these two and is the figure shipped in performance.json.",
       "tier_c_investprop_reit_sum": "not separately summed — see properties.json for all individual Tier C values",
       "tier_c_bt_investprop": "207,447 + 89,746 + 87,603 = 384,796 $'000",
       "tier_c_bt_ppe_freehold_total": 550748000,
@@ -73,63 +76,19 @@
 
   "inferred": [
     {
-      "field": "properties[Pullman and Mercure Brisbane King George Square].market_valuation",
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "5 BT Group freehold PPE hotels (Pullman/Mercure Brisbane, Pullman/Mercure Melbourne, Pullman Sydney Hyde Park, Sydney Central Hotel, Temple Bar Dublin)",
       "value": null,
-      "reason": "BT Group freehold land and buildings (PPE) — Portfolio Statement p143 discloses only the aggregate total of 550,748 $'000 for all 5 BT PPE freehold properties and their % of Stapled Securityholders' funds (2.1%, 1.6%, 3.0%, 3.0%, 2.6% respectively). Individual $'000 values NOT disclosed. Percentage-derived values would require multiplying against Stapled Securityholders' funds (~4,474,792 $'000) which is itself a derived figure — too speculative. Set to null and declared structurally absent per Tier C discipline.",
+      "basis": "Portfolio Statement p143 discloses only the aggregate 550,748 $'000 for all 5 plus each property's % of Stapled Securityholders' funds (2.1/1.6/3.0/3.0/2.6%). Individual $'000 NOT disclosed; left null (structurally absent at Tier C). Aggregate noted in data_with_no_home.",
       "source_page": 143
     },
     {
-      "field": "properties[Pullman and Mercure Melbourne Albert Park].market_valuation",
-      "value": null,
-      "reason": "Same as Pullman Brisbane — BT PPE freehold, % only disclosed, individual $'000 structurally absent from Portfolio Statement.",
-      "source_page": 143
-    },
-    {
-      "field": "properties[Pullman Sydney Hyde Park].market_valuation",
-      "value": null,
-      "reason": "Same as above — BT PPE freehold.",
-      "source_page": 143
-    },
-    {
-      "field": "properties[Sydney Central Hotel].market_valuation",
-      "value": null,
-      "reason": "Same as above — BT PPE freehold.",
-      "source_page": 143
-    },
-    {
-      "field": "properties[Temple Bar Hotel Dublin].market_valuation",
-      "value": null,
-      "reason": "Same as above — BT PPE freehold.",
-      "source_page": 143
-    },
-    {
-      "field": "profile.sponsor",
-      "value": "The Ascott Limited",
-      "reason": "Not explicitly named in one location as 'sponsor' — inferred from repeated references to Ascott as the operating sponsor and the REIT's name (CapitaLand Ascott Trust). Standard structure: The Ascott Limited (subsidiary of CapitaLand Group) is the sponsor.",
-      "source_page": 16
-    },
-    {
-      "field": "property_transactions[ibis Styles Tokyo Ginza].consideration",
-      "value": null,
-      "reason": "Acquisition price not found in the audited financials pages reviewed (p127-143, p114, p213). The property appears in Portfolio Statement at 145,345 $'000 as year-end carrying value which may differ from acquisition cost.",
-      "source_page": 132
-    },
-    {
-      "field": "property_transactions[Chisun Budget Kanazawa Ekimae].consideration",
-      "value": null,
-      "reason": "Same as ibis Styles Tokyo Ginza — acquisition price not found in audited financials pages reviewed.",
-      "source_page": 132
-    },
-    {
-      "field": "property_transactions[Pre de Cort Nishikyogoku / Splendide Namba West / Pregio Esaka South].consideration",
-      "value": null,
-      "reason": "Same — acquisition prices for the 3 August 2025 Japan rental housing acquisitions not in the audited financials pages reviewed.",
-      "source_page": 135
-    },
-    {
-      "field": "properties[Quest Sydney Olympic Park].lease_term_years",
-      "value": 99,
-      "reason": "Tenure stated as '99 years, 86 years remaining' in Portfolio Statement p127 — lease_term_years = 99 is disclosed; expiry back-calculated as approximately 2111.",
+      "table": "properties",
+      "field": "lease_term_years / lease_expiry_date",
+      "scope": "all leasehold rows (~50)",
+      "value": "derived",
+      "basis": "The Portfolio Statement discloses tenure as 'term / years remaining' (e.g. '99 years, 86 years remaining'), never an explicit expiry date. lease_term_years is taken from the disclosed term where stated; lease_expiry_date is BACK-CALCULATED as FY-end (2025-12-31) + remaining years. Internally consistent but not disclosed verbatim per property.",
       "source_page": 127
     }
   ],
@@ -149,11 +108,7 @@
     },
     {
       "field": "properties.net_property_income",
-      "reason": "Hospitality trust does not disclose NPI per property. Only portfolio-level gross profit (S$385.3M) is in the audited financials. Per-property contribution not in Portfolio Statement."
-    },
-    {
-      "field": "properties.gross_revenue",
-      "reason": "Same as net_property_income — not disclosed at property level in audited financials."
+      "reason": "Hospitality trust does not disclose NPI/gross profit per property in SGD. Only portfolio-level gross profit (S$385.3M) is in the audited financials. Per-property contribution genuinely absent."
     },
     {
       "field": "top_tenants.lease_expiry",
@@ -231,6 +186,12 @@
       "note": "Securityholder statistics — date is post-FY close (register date); no schema home"
     },
     {
+      "item": "Per-property Gross Rental Income / RevPAU (local currency)",
+      "value": "Disclosed per property in LOCAL currency across the Operations Review (Australia AUD'000, Japan JPY'000, Singapore S$'000, China RMB'000, Indonesia IDR'm, Europe EUR'000, South Korea KRW'm, Vietnam VND'm), scoped to management-contract and some master-lease properties. Example (China, p43): Citadines Xinghai Suzhou 10,647 RMB'000; Dalian 33,524; Shenyang 24,975.",
+      "source_page": 43,
+      "note": "properties.gross_revenue is therefore NOT structurally absent — it exists per-property in local currency. It was not normalised to SGD nor captured per-property in this pass (would require per-property FX assumptions); left null on an SGD basis. Distinct from per-property NPI in SGD, which IS genuinely absent."
+    },
+    {
       "item": "Length of stay mix",
       "value": "Not extracted — p27 shows portfolio info by length of stay; breakdown by short-term vs extended stay exists but was not captured as trade_mix was captured by industry",
       "source_page": 27,
@@ -280,7 +241,7 @@
     "Stapled trust (REIT + BT): All financials extracted from Stapled Group column throughout.",
     "income_model = mixed: Properties operated under master lease, MCMGI, and management contracts concurrently.",
     "net_property_income in performance.json is mapped from 'gross profit' (S$385,301,000) — this trust uses hospitality accounting where 'gross profit' = revenue minus direct operating costs, functionally equivalent to NPI. Confirmed per REFERENCE.md guidance.",
-    "portfolio_value in performance.json (7,637,513,000) is the headline Stapled Group portfolio valuation as of end-2025, sourced from p8/p9. This figure represents management's stated portfolio value inclusive of all assets across REIT and BT groups.",
+    "portfolio_value in performance.json (7,900,000,000) is the disclosed headline Stapled Group portfolio valuation ('S$7.9 billion', p21), per REFERENCE.md §1 convention (portfolio_value = the report's headline figure). The audited Tier-C property totals (7,637,513 $'000 excl. / 7,975,463 $'000 incl. Robertson House leasehold PPE) are recorded as cross-references in reconciliation.portfolio_value_note.",
     "Somerset Liang Court Property Singapore is classified as active despite being under development; it holds a year-end audited valuation of 315,400 $'000.",
     "The Robertson House Singapore: Despite being a BT Group PPE asset (leasehold land and buildings), it has an audited $'000 value (337,950 $'000) and is included in properties.json with tenure_raw noting the PPE classification.",
     "5 BT PPE freehold properties (Pullman Brisbane/Melbourne/Sydney, Sydney Central, Temple Bar Dublin): market_valuation set to null because only % of Stapled Securityholders' funds is disclosed at property level. The aggregate 550,748 $'000 is noted in data_with_no_home.",

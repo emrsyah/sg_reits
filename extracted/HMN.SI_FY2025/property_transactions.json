@@ -34,12 +34,13 @@
     "property_name": "ibis Styles Tokyo Ginza",
     "country": "Japan",
     "transaction_date": "2025-01-31",
-    "consideration": null,
+    "consideration": 178500000,
     "currency": "SGD",
-    "consideration_local": null,
+    "consideration_local": 21000000000,
     "currency_local": "JPY",
-    "note": "Acquired 31 January 2025. Appears in audited Portfolio Statement at 145,345 $'000 (p132). Acquisition price not separately disclosed in audited financials reviewed.",
-    "source_page": 132
+    "consideration_basis": "blended",
+    "note": "Acquired 31 January 2025. Appears in audited Portfolio Statement at 145,345 $'000 (p132). Consideration JPY21.0 billion (S$178.5 million) is a BLENDED price disclosed on p11 'Investments Completed in FY 2025' covering this hotel together with Chisun Budget Kanazawa Ekimae; not split per property. NOI yield 4.3%.",
+    "source_page": 11
   },
   {
     "symbol": "HMN.SI",
@@ -52,7 +53,7 @@
     "currency": "SGD",
     "consideration_local": null,
     "currency_local": "JPY",
-    "note": "Acquired 31 January 2025. Appears in audited Portfolio Statement at 47,106 $'000 (p132). Acquisition price not separately disclosed in audited financials reviewed.",
+    "note": "Acquired 31 January 2025. Appears in audited Portfolio Statement at 47,106 $'000 (p132). Part of the blended JPY21.0 billion (S$178.5 million) acquisition disclosed on p11 together with ibis Styles Tokyo Ginza; not separately priced.",
     "source_page": 132
   },
   {
@@ -62,12 +63,13 @@
     "property_name": "Pre de Cort Nishikyogoku",
     "country": "Japan",
     "transaction_date": "2025-08-27",
-    "consideration": null,
+    "consideration": 34200000,
     "currency": "SGD",
-    "consideration_local": null,
+    "consideration_local": 4000000000,
     "currency_local": "JPY",
-    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 14,872 $'000 (p135). Acquisition price not separately disclosed in audited financials reviewed.",
-    "source_page": 135
+    "consideration_basis": "blended",
+    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 14,872 $'000 (p135). Consideration JPY4.0 billion (S$34.2 million) is a BLENDED price disclosed on p11 covering the three rental-housing acquisitions (this property, Splendide Namba West, Pregio Esaka South); not split per property. NOI yield 4.0%.",
+    "source_page": 11
   },
   {
     "symbol": "HMN.SI",
@@ -80,7 +82,7 @@
     "currency": "SGD",
     "consideration_local": null,
     "currency_local": "JPY",
-    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 11,427 $'000 (p136). Acquisition price not separately disclosed in audited financials reviewed.",
+    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 11,427 $'000 (p136). Part of the blended JPY4.0 billion (S$34.2 million) rental-housing acquisition disclosed on p11 (with Pre de Cort Nishikyogoku and Pregio Esaka South); not separately priced.",
     "source_page": 136
   },
   {
@@ -94,7 +96,7 @@
     "currency": "SGD",
     "consideration_local": null,
     "currency_local": "JPY",
-    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 10,923 $'000 (p135). Acquisition price not separately disclosed in audited financials reviewed.",
+    "note": "Acquired 27 August 2025. Appears in audited Portfolio Statement at 10,923 $'000 (p135). Part of the blended JPY4.0 billion (S$34.2 million) rental-housing acquisition disclosed on p11 (with Pre de Cort Nishikyogoku and Splendide Namba West); not separately priced.",
     "source_page": 135
   }
 ]
