@@ -10,6 +10,37 @@ Datalab-parsed archetype reports (FY2025):
 | Data centre | Keppel DC (AJBU) | Data Centre | anonymised clients; client-type ≠ trade mix; no MW; NCI |
 | US office | Manulife US (BTOU) | Office | USD; per-property NPI in bar charts; held-for-sale |
 
+> ⚠️ **These four are ILLUSTRATIVE, not a taxonomy.** They show the *range* of layouts that
+> exist — they are NOT a set of rules to apply to a new report. Reports do not generalise by
+> sub-sector or sponsor. Treat everything below that is sub-sector-specific as *examples of
+> variety you might encounter*, never as a precondition. Discover each report from the report.
+
+---
+
+## §0 — Invariants (the ONLY things you may assume; everything else: discover)
+
+These hold for every SGX REIT — they are accounting/SGX structure, not observations:
+
+1. **Task = the schema.** Fill the 6 tables / fields in `schema/models.py`. That defines what
+   to look for. (Not "what this sub-sector usually has.")
+2. **Valuation source = the audited Portfolio Statement, in `'000`** (Tier C) — never the
+   marketing summary (millions) and never the aggregate investment-property line.
+3. **Income source = the full Statement of Total Return** — every line down to "total return
+   for the year", not just the revenue/opex notes.
+4. **Money is absolute** (×1000 from `'000`); **`source_page` on every record**; **currency
+   per figure**; **reconcile Σ to the disclosed total** (property valuations → portfolio total;
+   trade_mix → 100%; income → total return).
+5. **Discover, don't assume.** What each table looks like, where it lives, what units it uses,
+   and **whether a field is present or absent is a property of THIS report** — establish it by
+   reading (use the page map: classify + summary), never from a sub-sector prior.
+6. **Structural absence must be proven from this report**, with evidence — never declared
+   because "sub-sector X usually lacks it". "Disclosed on a narrow basis" ≠ absent (capture it,
+   scope it).
+
+Anything in §1/§3b/§4 below that predicts presence/absence/shape from sub-sector or sponsor is
+an *observation* (overfit to the 4 reports), not an invariant — use it only as a hint to speed
+discovery, and let the report override it every time.
+
 ---
 
 ## §1 — Where each fact lives (field-source matrix)
@@ -166,6 +197,12 @@ Folded in from the healthcare (First REIT) and industrial (MLT) runs — apply e
 ---
 
 ## §4 — Quirks catalogue (observed, by report)
+
+> ⚠️ **ILLUSTRATIVE — these are quirks seen in specific reports, NOT rules.** Do not apply
+> any of these to a different report, and do not infer presence/absence from them. They exist
+> to show the *kinds* of traps that occur (dual-basis valuations, aggregated rows, scoped
+> tables, odd tenure wording) so you recognise one when discovery surfaces it on YOUR report.
+> Per the §0 invariants, the report you are extracting is the only authority.
 
 **CICT / diversified (C38U)**
 - Gallileo/Main Airport Center appear at 100% in the audited Portfolio Statement

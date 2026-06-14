@@ -48,35 +48,44 @@ Use `locate.py` (step 2) FIRST to find the table pages, then HTML-parse just tho
 (Datalab is per-page paid). One HTML file per page-range is fine; name it for the section
 group (e.g. `portfolio.html`, `tenants.html`, `financial.html`).
 
-### Step 2 — Locate + page map
+### Step 2 — Discover THIS report (don't assume)
+
+Your job here is to learn how *this* report is laid out — not to look up a sub-sector
+playbook. Per the §0 invariants (`reit-extract/REFERENCE.md`), the only things you may assume
+are the schema target + the audited-statement sources; everything else (where each table is,
+its shape, units, and whether a field is present) you establish by reading.
+
 ```bash
 python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md
-python scripts/adapter/page_map.py <stem>          # schema-aware page index (ScaleDown)
+python scripts/adapter/page_map2.py <stem>        # classify-based page index (ScaleDown)
+# (page_map.py is the older keyword/summary variant; page_map2 is preferred — see below)
 ```
-`locate.py` gives the `sub_sector` guess (picks the playbook) and quick regex anchors.
-`page_map.py` builds a **semantic page index** — `extracted_adapter/<stem>/schema_pages.json`
-(table -> {lead, also} candidate pages) + `page_map.md` (each candidate with a one-line
-summary + reporting unit). It needs `SCALEDOWN_API_KEY` in `.env`; re-use an existing map
-with `--retag` (no API). This is the **completeness safety net**: before extracting a
-section, open `schema_pages.json` and pull EVERY candidate page for it — don't stop at the
-first table locate.py found (that's how income_components lost its below-NPI lines).
+`locate.py` = a cheap regex first pass (sub_sector hint + anchors). **`page_map2.py`** is the
+real discovery tool: it CLASSIFIES every page against the 6 tables (sub-sector-agnostic
+rubrics) → `schema_pages_v2.json` (per table, pages **ranked by score**; `top` = the
+authoritative page; `top_audited_000` = the audited '000 statement vs marketing millions) +
+`page_map_v2.md` (ranked, with summaries + units). Needs `SCALEDOWN_API_KEY` in `.env`;
+`--rebuild` re-ranks from stored scores (no API).
 
-How to read it (it is ROUTING, not data — never extract numbers from a summary):
-- `lead` = a page that names that table's authoritative artifact; `also` = a relevant mention.
-- The tagger is recall-oriented and coarse: per-property **cards** and sub-sector nuance
-  (e.g. hospitality has no trade_mix; DC "by contract type" *is* trade_mix) are NOT resolved
-  by it. YOU pick the authoritative page using the **unit hint** ('000 audited statement vs
-  per-property cards in millions) and the **sub-sector playbook**, then read that page.
-- Cross-check at the end: every schema table you extracted should correspond to its
-  candidate page(s); a table with candidates but no extracted rows is a missed section.
+Use it as the **completeness map**: for each schema table, open `schema_pages_v2.json` and
+read EVERY candidate page (start at `top`/`top_audited_000`, then down the ranked list) before
+deciding what's there — don't stop at the first table (that's how income_components lost its
+below-NPI lines).
+
+How to read it (ROUTING, not data — never extract numbers from the map):
+- Classify gives a calibrated score per table. The authoritative table = the top-scored page;
+  for valuations/financials use `top_audited_000` ('000 audited statement, not a millions card).
+- It validated at 100% table-level recall across 7 sub-sectors and **fixes profile** (the
+  Trust-Structure page the summariser missed → classify scores it ~1.0). OCR fallback re-reads
+  diagram pages if text is sparse.
+- What classify CANNOT do is apply judgment that needs the report's content — e.g. is a scoped
+  "by-industry" table a real trade_mix (yes, Ascott) or not; is the top-scored "financial"
+  page the income statement or a note. **That judgment is yours, made by READING the page —
+  not from a sub-sector prior.** Reconcile to the disclosed total to confirm completeness.
+- Cross-check at the end: every schema table should map to its candidate page(s); a table with
+  candidates but no extracted rows is a missed section; a field you nulled must be absent in
+  THIS report (evidence), not "absent per the playbook".
 - Pages are `md_page` = physical PDF page (same numbering as `parse_html --page-range`).
-- **`profile` is NOT map-reliable** — the management/`Trust Structure` page is often a
-  diagram with little text, which the SLM summarises as "no schema-relevant data", so it may
-  be absent from the profile rollup (validated: C38U/AU8U/M44U all under-mapped profile).
-  Don't depend on the map for profile/management entities — read the front matter directly
-  (Trust Structure diagram + Corporate Information, usually the first ~20 pages). The map is
-  strong for the 5 grid tables (properties, financial, top_tenants, trade_mix, performance),
-  which is where under-capture actually bites.
 
 ### Step 3 — Per section: judge → plan → run → cross-check → LLM → merge
 
