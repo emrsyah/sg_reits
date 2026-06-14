@@ -1,0 +1,192 @@
+[
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "rental_income",
+    "amount": 61031000,
+    "currency": "USD",
+    "label_raw": "Rental income",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "recoveries_income",
+    "amount": 42035000,
+    "currency": "USD",
+    "label_raw": "Recoveries income",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "car_park_income",
+    "amount": 9469000,
+    "currency": "USD",
+    "label_raw": "Car park income",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_revenue",
+    "amount": 1379000,
+    "currency": "USD",
+    "label_raw": "Others",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 12625000,
+    "currency": "USD",
+    "label_raw": "Real estate taxes",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "repairs_and_maintenance",
+    "amount": 15575000,
+    "currency": "USD",
+    "label_raw": "Repairs and property maintenance expenses",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "utilities",
+    "amount": 8942000,
+    "currency": "USD",
+    "label_raw": "Utilities",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_management_fee",
+    "amount": 10674000,
+    "currency": "USD",
+    "label_raw": "Property management fees and reimbursements",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "provision_for_ecl",
+    "amount": 291000,
+    "currency": "USD",
+    "label_raw": "Net provision for ECL",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_property_expenses",
+    "amount": 12629000,
+    "currency": "USD",
+    "label_raw": "Other operating expenses",
+    "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "interest_income",
+    "amount": 1385000,
+    "currency": "USD",
+    "label_raw": "Interest income",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "management_fee_base",
+    "amount": 2838000,
+    "currency": "USD",
+    "label_raw": "Manager's base fee",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fee",
+    "amount": 180000,
+    "currency": "USD",
+    "label_raw": "Trustee's fee",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_trust_expenses",
+    "amount": 2008000,
+    "currency": "USD",
+    "label_raw": "Other trust expenses",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_costs",
+    "amount": 34608000,
+    "currency": "USD",
+    "label_raw": "Finance expenses",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_derivatives",
+    "amount": -11666000,
+    "currency": "USD",
+    "label_raw": "Net fair value change in derivatives",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_investment_properties",
+    "amount": -83515000,
+    "currency": "USD",
+    "label_raw": "Net fair value change in investment properties",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "loss_on_disposal",
+    "amount": -3323000,
+    "currency": "USD",
+    "label_raw": "Loss on disposal of investment properties",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "tax_expense",
+    "amount": -4078000,
+    "currency": "USD",
+    "label_raw": "Tax (expense)/income",
+    "source_page": 103
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "property.gla",
+      "reason": "The report discloses NLA (net lettable area) in sq ft for each property; GLA is not separately stated."
+    },
+    {
+      "column": "property.effective_date",
+      "reason": "Tenure is Freehold for all properties; land-lease start date is not applicable."
+    },
+    {
+      "column": "property.lease_term_years",
+      "reason": "Tenure is Freehold for all properties; no term applies."
+    },
+    {
+      "column": "property.lease_expiry_date",
+      "reason": "Tenure is Freehold for all properties; no expiry date."
+    },
+    {
+      "column": "property.trade_mix",
+      "reason": "Per-property trade mix is not disclosed in this report. Only a portfolio-level Trade Sector by GRI donut chart is provided (page 26)."
+    },
+    {
+      "column": "property.gross_revenue (Plaza, Peachtree)",
+      "reason": "Plaza and Peachtree were divested in FY2025. Their partial-year gross revenue is included in the consolidated total but not separately disclosed per property. status=divested; gross_revenue=null."
+    },
+    {
+      "column": "property.net_property_income (Plaza, Peachtree)",
+      "reason": "Plaza and Peachtree were divested in FY2025. Their partial-year NPI is included in the consolidated total but not separately disclosed per property. status=divested; net_property_income=null."
+    },
+    {
+      "column": "performance.dpu",
+      "reason": "Distributions are halted since 2023 per the Recapitalisation Plan and MRA Concessions. The Distribution Statement confirms DPU = 0 for FY2025. Income Available for Distribution per Unit = 1.44 US cents (stored as data_with_no_home; DPU field set to 0.0)."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "label": "Income Available for Distribution per Unit",
+      "value": "1.44 US cents",
+      "note": "This is DI/unit (income available for distribution per unit), not actual DPU. DPU = 0 as distributions are halted. Source: page 8."
+    },
+    {
+      "label": "Portfolio WALE by NLA",
+      "value": "4.5 years",
+      "note": "Portfolio weighted average lease expiry by NLA as at 31 December 2025. Source: page 8."
+    },
+    {
+      "label": "Total tenants count",
+      "value": 96,
+      "note": "As at 31 December 2025, total number of tenants was 96. Source: page 27."
+    },
+    {
+      "label": "Total NLA of portfolio",
+      "value": "3.5 million sq ft",
+      "note": "Seven office buildings as at 31 December 2025. Source: page 25."
+    },
+    {
+      "label": "2025 Leasing activity",
+      "value": "~407k sq ft executed in 2025",
+      "note": "New leases, renewals, expansions representing 11.5% of portfolio NLA. WALE by NLA for leases signed = 3.6 years. Source: page 26."
+    },
+    {
+      "label": "Property Manager name",
+      "value": "John Hancock Life Insurance Company (U.S.A) (JHUSA)",
+      "note": "JHUSA provides property management, lease management, and construction supervision services. Source: page 92 (Interested Person Transactions table) and Notes 1(c). JHUSA is a subsidiary of The Manufacturers Life Insurance Company (the Sponsor)."
+    },
+    {
+      "label": "Distribution adjustments (total FY2025)",
+      "value": 113195000,
+      "note": "US$'000 absolute. Comprises: property related non-cash items 10,070; amortisation of upfront debt costs 1,372; trustee fee 180; net FV change derivatives 11,666; net FV change investment properties 83,515; loss on disposal 3,323; deferred tax expense 3,629; other items (560). Source: page 104."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Figueroa dual valuation",
+      "detail": "Figueroa appears at US$98.1m in marketing summary (page 27, Cushman & Wakefield JLL valuation) and at US$85,703k in the audited Portfolio Statement (page 125, held-for-sale at estimated net sale consideration). market_valuation = US$85,703,000 (audited). The portfolio headline of US$913.8m uses the marketing figure (815.7+98.1=913.8); audited total = 815,700+85,703 = 901,403 US$'000."
+    },
+    {
+      "trap": "Per-property NPI from bar charts (US$ million, convert ×1,000,000)",
+      "detail": "NPI and GR per property are disclosed in bar charts rendered as markdown tables by Datalab on pages 30-36. Values are in US$ million (not '000). Applied ×1,000,000 to convert to absolute. All 7 active/held-for-sale properties captured including Centerpointe (page 30: GR 9.8m, NPI 4.9m). Penn NPI from inline text on page 35 ('8.9 8.6 8.5' for 2023/2024/2025). Figueroa NPI from bar chart page 33 (0.5m)."
+    },
+    {
+      "trap": "DPU = 0 but DI/unit = 1.44",
+      "detail": "The Distribution Statement confirms: DPU = 0 (distributions halted since 2023 per Recapitalisation Plan). However, income available for distribution for FY2025 = US$25.542m and per-unit = 1.44 US cents. Stored dpu=0 in performance.json per as-disclosed instruction."
+    },
+    {
+      "trap": "Peachtree and Plaza absent from Tier-C valuation table",
+      "detail": "Both divested in FY2025 and show '–' (zero) in the 2025 column of page 124. Their partial-year P&L is included in the consolidated Statement of Total Return (the ~US$3.9m NPI gap noted in REFERENCE.md §4). status=divested; market_valuation=null as at 31 Dec 2025."
+    },
+    {
+      "trap": "Statement of Portfolio (page 107) is in US$ million not '000",
+      "detail": "The front-matter Statement of Portfolio (page 107) uses US$ million format (e.g. 230,400 means 230.4m). The audited Note 6 on pages 124-125 uses US$'000 (e.g. 230,400 means 230,400,000 absolute). Used pages 124-125 as authoritative source."
+    }
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 105800000,
+    "reported_total_gross_revenue": 105800000,
+    "gross_revenue_consolidated_total": 113914000,
+    "gross_revenue_gap_explanation": "Per-property GR for the 7 FY2025 portfolio properties (incl. held-for-sale Figueroa) sums to US$105.8m (Michelson 22.4m + Phipps 17.5m + Exchange 25.4m + Penn 15.5m + Centerpointe 9.8m + Figueroa 11.7m + Diablo 3.5m). The consolidated Statement total is US$113.914m. The gap of ~US$8.1m is partial-year revenue from Plaza (divested Feb 25 2025, ~2 months) and Peachtree (divested May 27 2025, ~5 months) — both classified as status=divested with null GR since full-year figures are not individually disclosed in the report. The ~US$8.1m gap is consistent with ~2 months of Plaza (~US$1.7m at 2024 run rate of US$10.1m/12) plus ~5 months of Peachtree (~US$6.4m at 2024 run rate of US$15.4m/12).",
+    "sum_property_npi": 49300000,
+    "reported_total_npi": 49300000,
+    "npi_consolidated_total": 53178000,
+    "npi_gap_explanation": "Per-property NPI for the 7 FY2025 portfolio properties sums to US$49.3m (Michelson 13.6m + Phipps 10.2m + Exchange 10.5m + Penn 8.5m + Centerpointe 4.9m + Figueroa 0.5m + Diablo 1.1m). The consolidated Statement total is US$53.178m. The gap of ~US$3.9m is partial-year NPI from Plaza and Peachtree (divested in FY2025), not individually disclosed.",
+    "income_reconciliation": {
+      "gross_revenue_note_sum": 113914000,
+      "gross_revenue_statement": 113914000,
+      "note_match": true,
+      "property_opex_note_sum": 60736000,
+      "property_opex_statement": 60736000,
+      "npi_derived": 53178000,
+      "npi_statement": 53178000,
+      "npi_match": true,
+      "net_income_before_tax_check": "53178+1385-2838-180-2008-34608 = 14929 (matches statement line 'Net income before tax and fair value changes')",
+      "adjustments_sum": -98504000,
+      "loss_before_tax_check": "14929+(-98504) = -83575 (matches statement)",
+      "tax": -4078000,
+      "net_loss_for_year": -87653000,
+      "net_loss_statement": -87653000,
+      "reconciled": true
+    },
+    "property_valuation": {
+      "sum_active_investment_properties": 815700000,
+      "reported_total_investment_properties_audited": 815700000,
+      "held_for_sale_figueroa": 85703000,
+      "audited_portfolio_total": 901403000,
+      "marketing_headline_total": 913800000,
+      "discrepancy_explanation": "Marketing headline (US$913.8m, page 27) uses Cushman & Wakefield valuation for Figueroa (US$98.1m). Audited statement uses estimated net sale consideration (US$85.703m). Difference = US$12.4m.",
+      "match": "audited match confirmed"
+    },
+    "top_tenant_total": {
+      "sum_top_10_pct": 51.4,
+      "reported_total": 51.4,
+      "match": true
+    },
+    "trade_mix_total": {
+      "sum_pct": 99.9,
+      "note": "Reported percentages sum to 99.9% (18.3+15.3+9.6+8.9+7.7+6.5+5.9+5.4+4.4+17.9=99.9); fractional rounding per report footnote."
+    }
+  }
+}

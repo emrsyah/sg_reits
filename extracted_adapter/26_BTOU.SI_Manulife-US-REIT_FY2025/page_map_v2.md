@@ -1,0 +1,170 @@
+# Page map v2 (classify) — 26_BTOU.SI_Manulife-US-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p19  · audited('000): p74
+- [1.00] p19 — no schema-relevant data
+- [1.00] p20 — no schema-relevant data
+- [1.00] p151 — no schema-relevant data
+- [1.00] p2 — no schema-relevant data
+- [1.00] p21 — no schema-relevant data
+- [1.00] p96 — no schema-relevant data
+- [1.00] p67 — no schema-relevant data
+- [1.00] p152 — no schema-relevant data
+- [0.99] p66 — no schema-relevant data
+- [0.99] p72 — no schema-relevant data
+- [0.98] p75 — no schema-relevant data
+- [0.97] p97 — no schema-relevant data
+- [0.97] [million] p11 — This page features an "In Conversation with Management" Q&A highlighting MUST's 2025 achievements, including the sale of
+- [0.97] p68 — no schema-relevant data
+- [0.96] p84 — no schema-relevant data
+- [0.95] ['000] p74 — no schema-relevant data
+- [0.94] p16 — no schema-relevant data
+- [0.93] p79 — no schema-relevant data
+- [0.92] p86 — no schema-relevant data
+- [0.92] p90 — no schema-relevant data
+- [0.89] p71 — no schema-relevant data
+- [0.89] ['000] p85 — no schema-relevant data
+- [0.89] ['000] p82 — no schema-relevant data
+- [0.87] p18 — no schema-relevant data
+- [0.86] ['000] p81 — no schema-relevant data
+- [0.86 OCR] [million] p52 — no schema-relevant data
+- [0.82] p100 — no schema-relevant data
+- [0.80] p77 — no schema-relevant data
+- [0.78] p80 — no schema-relevant data
+- [0.73] [million] p10 — no schema-relevant data
+- [0.69] p108 — no schema-relevant data
+- [0.65] p69 — no schema-relevant data
+- [0.65] p76 — no schema-relevant data
+- [0.62] p88 — no schema-relevant data
+- [0.53] p17 — no schema-relevant data
+- [0.53 OCR] p57 — no schema-relevant data
+- [0.53 OCR] p83 — no schema-relevant data
+- [0.53] p62 — This page presents MUST's sustainability overview, highlighting its GRESB 5 Star rating, S&P Global ESG score of 5.0, an
+- [0.53] [million] p14 — no schema-relevant data
+- [0.52 OCR] p91 — no schema-relevant data
+- [0.50] p70 — no schema-relevant data
+- [0.50] p73 — no schema-relevant data
+- [0.44 OCR] p65 — no schema-relevant data
+- [0.40] ['000] p92 — This page details the Interested Person Transactions for Manulife US REIT, explicitly listing aggregate values in US$'00
+- [0.40 OCR] p3 — no schema-relevant data
+- [0.31] ['000] p25 — This page presents the Operational Review for Manulife US REIT (MUST) as of 31 December 2025, featuring a **Divestments*
+- [0.25 OCR] [million] p12 — no schema-relevant data
+- [0.23] ['000] p128 — This page presents the audited Portfolio Statement (property valuations) via the "Investment in Subsidiaries" table and 
+- [0.22 OCR] p78 — no schema-relevant data
+- [0.20 OCR] p56 — no schema-relevant data
+- [0.20 OCR] p87 — no schema-relevant data
+- [0.20 OCR] p58 — no schema-relevant data
+- [0.19 OCR] p7 — no schema-relevant data
+- [0.18] p95 — This page lists the table of contents for the SGX REIT annual report, including the Independent Auditor's Report on page
+- [0.18 OCR] ['000] p55 — This page presents the SGX'000 reporting unit's calendar of events for FY2024 through FY2025, listing dates and titles f
+- [0.15] p89 — no schema-relevant data
+
+## performance  — top: p8  · audited('000): p93
+- [1.00] [million] p8 — This page presents Manulife US REIT's FY2025 financial and portfolio highlights, featuring tables detailing Net Property
+- [1.00] [million] p9 — This page presents the unit price performance of SGX REIT, reporting 1,776.6 million units in issue and a market capital
+- [1.00] ['000] p93 — This page presents the unitholding statistics for SGX REIT MUST as at 16 March 2026, featuring a table detailing the dis
+- [1.00] ['000] p94 — This page presents the **Statistics of Unitholdings** for SGX REIT MUST as at 16 March 2026, detailing the **Substantial
+- [0.97] p53 — This page presents the IR contact details for Manulife US REIT (MUST), including profiles for Ms Wyllyn Liu (Head of Inv
+- [0.93] ['000] p137 — This page of the SGX REIT annual report presents **Table 14: Net Asset Value Per Unit**, displaying the Group and Trust'
+- [0.93] ['000] p102 — This page presents the Statements of Financial Position for the Group and Trust as at 31 December 2025, reporting total 
+- [0.88] ['000] p104 — This page presents the **Distribution Statement** for Manulife US REIT for the year ended 31 December 2025, reporting an
+- [0.80] ['000] p105 — This page presents the Statements of Changes in Unitholders' Funds for the year ended 31 December 2025, detailing net lo
+- [0.80] [million] p24 — The page presents a Debt Maturity Profile table and chart for MUST as at 31 December 2025, detailing gross outstanding d
+- [0.74] ['000] p46 — This page presents the Independent Market Report for Phoenix (Tempe) as of 31 December 2025, with an Overall Market Stat
+- [0.73] ['000] p15 — no schema-relevant data
+- [0.71] [million] p37 — This page presents an Independent Market Report by JLL as of 31 December 2025, featuring multiple comparative charts ana
+- [0.63] ['000] p43 — This page presents market analysis for the New Jersey (Hudson Waterfront) office submarket, featuring a table of Overall
+- [0.62] ['000] p47 — This page presents the Washington, D.C. CBD office market overview with a 2025 forecast table showing net absorption of 
+- [0.60] ['000] p44 — This page presents an Independent Market Report by JLL for Northern Virginia as of 31 December 2025, featuring a forecas
+- [0.60 OCR] ['000] p42 — This page presents an Independent Market Report by JLL for Los Angeles (Downtown) as of 31 December 2025, featuring a ta
+- [0.56] ['000] p41 — This page presents the Atlanta (Buckhead) office market statistics, including a forecast table for 2025 net absorption (
+- [0.49] ['000] p45 — The page presents market statistics and trends for the Orange County (Irvine) submarket, featuring a table titled "Overa
+- [0.25 OCR] [million] p12 — no schema-relevant data
+- [0.18] [million] p23 — The page presents a Key Financial Indicators table showing gross borrowings of US$559.0 million and aggregate leverage a
+- [0.18 OCR] p1 — no schema-relevant data
+
+## properties  — top: p28
+- [1.00] ['000] p28 — This page presents a portfolio overview featuring a topographic map of US locations and detailed property profiles for C
+- [1.00] [million] p29 — This page presents the **Statement of Portfolio (property valuations)** for four properties, detailing their locations, 
+- [1.00] ['000] p124 — This page presents the audited Portfolio Statement detailing fair-value property valuations for SGX REIT's US-based inve
+- [1.00] ['000] p107 — This page presents the **Statement of Portfolio** as at 31 December 2025, detailing fair values (US$'000), occupancy rat
+- [0.86] [million] p34 — This page presents a portfolio overview for the Michelson office building in Irvine, CA, featuring a table of Top Three 
+- [0.82] [million] p32 — This page presents the Portfolio Overview for the Exchange building, featuring a table of property details (land tenure,
+- [0.81] [million] p36 — This page presents the Portfolio Overview for the Phipps office tower in Atlanta, featuring a Top-N tenants table listin
+- [0.81] [million] p33 — This page features a Top-N tenants table listing Quinn Emanuel (26.4%), Allen Matkins (24.8%), and LA County Metro Trans
+- [0.79] ['000] p125 — This page presents an audited Portfolio Statement for "Asset held for sale" listing properties in Los Angeles and New Je
+- [0.66] [million] p126 — This page contains narrative disclosures regarding divestments and fair value measurement techniques for investment prop
+- [0.65] [million] p35 — This page presents a property profile for Penn, featuring key metrics including 84.9% occupancy and a US$79.8m valuation
+- [0.63] ['000] p30 — This page presents the portfolio overview for the Centerpointe office building, featuring a Top-N tenants table (ASM at 
+- [0.40] ['000] p25 — This page presents the Operational Review for Manulife US REIT (MUST) as of 31 December 2025, featuring a **Divestments*
+- [0.29] [million] p31 — This page presents the Diablo office campus in Tempe, AZ with a valuation of US$44.9 million, an occupancy of 37.8%, and
+- [0.17 OCR] ['000] p51 — This page presents a Sales Transactions table for 2025 detailing property sales over $15.0 million (excluding entity-lev
+
+## top_tenants  — top: p49
+- [0.86] ['000] p49 — This page presents a "Leasing Activity" table detailing over 20,000 square feet of new leases, renewals, and expansions 
+- [0.85] [million] p27 — This page presents a Top-N tenants table showing the top 10 tenants contributing 51.4% of MUST's Gross Revenue per Inch 
+- [0.70] ['000] p48 — This page presents the "Leasing Activity (2025, over 20,000 s.f.)" table from JLL's Independent Market Report as of 31 D
+- [0.50] ['000] p50 — This page presents the **Top-N tenants/customers table** for leasing activity in 2025 (over 20,000 s.f.) and a **Sales T
+- [0.48] [million] p31 — This page presents the Diablo office campus in Tempe, AZ with a valuation of US$44.9 million, an occupancy of 37.8%, and
+- [0.34] ['000] p30 — This page presents the portfolio overview for the Centerpointe office building, featuring a Top-N tenants table (ASM at 
+- [0.27] [million] p35 — This page presents a property profile for Penn, featuring key metrics including 84.9% occupancy and a US$79.8m valuation
+
+## trade_mix  — top: p26
+- [0.97] ['000] p26 — This page presents the Lease Expiry Profile as at 31 Dec 2025 (%) and Average Annual Rent Escalation data for SGX REIT, 
+- [0.22 OCR] ['000] p42 — This page presents an Independent Market Report by JLL for Los Angeles (Downtown) as of 31 December 2025, featuring a ta
+- [0.20] ['000] p47 — This page presents the Washington, D.C. CBD office market overview with a 2025 forecast table showing net absorption of 
+- [0.20] [million] p31 — This page presents the Diablo office campus in Tempe, AZ with a valuation of US$44.9 million, an occupancy of 37.8%, and
+- [0.16] ['000] p48 — This page presents the "Leasing Activity (2025, over 20,000 s.f.)" table from JLL's Independent Market Report as of 31 D
+
+## financial  — top: p139
+- [1.00] ['000] p139 — This page presents the Group's Finance Expenses and Tax Expense/(Income) notes for the year ended 31 December 2025, repo
+- [1.00] ['000] p138 — This page presents the Gross Revenue and Property Operating Expenses tables for SGX REIT's Group, reporting figures in U
+- [1.00] p119 — no schema-relevant data
+- [1.00] ['000] p135 — This page presents the audited Portfolio Statement for Preferred Units and Deferred Tax Liabilities, reporting values in
+- [1.00] p120 — no schema-relevant data
+- [0.99] ['000] p103 — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT for the year ended 31 December 2025, 
+- [0.99] ['000] p145 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains the audited Portfolio Statement (pr
+- [0.99] ['000] p147 — This page presents a table titled "Fair values of assets and liabilities (cont'd)" detailing the classification, carryin
+- [0.99] ['000] p148 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents fair value measurement techniques a
+- [0.99] ['000] p146 — This page presents the Notes to the Financial Statements for the year ended 31 December 2025, specifically detailing Fai
+- [0.99] ['000] p134 — no schema-relevant data
+- [0.99] p117 — no schema-relevant data
+- [0.99] ['000] p144 — This page presents the audited Portfolio Statement (property valuations) titled "22 FAIR VALUES OF ASSETS AND LIABILITIE
+- [0.99] ['000] p149 — no schema-relevant data
+- [0.98] p121 — no schema-relevant data
+- [0.98] ['000] p129 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table listing indirect subsidiari
+- [0.98] ['000] p133 — This page presents a sensitivity analysis table for the Interest Coverage Ratio (ICR) and a financial derivatives table,
+- [0.97] ['000] p131 — This page details the financial covenants, restructuring concessions, and loan facility terms for Manulife US REIT as of
+- [0.97] p115 — no schema-relevant data
+- [0.95] p116 — no schema-relevant data
+- [0.95] [million] p111 — no schema-relevant data
+- [0.95] ['000] p130 — This page presents the audited Portfolio Statement for Loans and Borrowings, detailing Group and Trust debt composition 
+- [0.94] p118 — This page contains accounting policy notes regarding impairment of non-derivative financial assets and non-financial ass
+- [0.94] ['000] p132 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents the Reconciliation of movements of 
+- [0.94] ['000] p123 — This page presents the aged analysis of trade receivables impairment losses and a reconciliation table for the allowance
+- [0.94] ['000] p106 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting Group cash fl
+- [0.93] ['000] p140 — This page contains Notes 19 (Tax Expense/Income), 20 (Earnings Per Unit) with a table reporting Net Loss and Units in US
+- [0.92] [million] p109 — no schema-relevant data
+- [0.91] [million] p112 — no schema-relevant data
+- [0.90] ['000] p22 — This page presents the **Statement of Total Return (Profit or Loss)** for the SGX REIT, reporting a Net loss attributabl
+- [0.88] ['000] p127 — This page presents a table of significant unobservable inputs (rental rates, discount rates, capitalisation rates) used 
+- [0.87] ['000] p122 — This page presents accounting policy notes regarding unadopted new standards and detailed tables for Cash and Cash Equiv
+- [0.87] p114 — no schema-relevant data
+- [0.87] ['000] p110 — no schema-relevant data
+- [0.82] ['000] p136 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table titled "Units in Issue and 
+- [0.81] [million] p23 — The page presents a Key Financial Indicators table showing gross borrowings of US$559.0 million and aggregate leverage a
+- [0.80] [million] p99 — This page contains the Independent Auditor's Report focusing on Key Audit Matters, specifically detailing the valuation 
+- [0.70] ['000] p128 — This page presents the audited Portfolio Statement (property valuations) via the "Investment in Subsidiaries" table and 
+- [0.69] p89 — no schema-relevant data
+- [0.61] ['000] p113 — This page of the Manulife US REIT annual report for the year ended 31 December 2025 contains no schema-relevant data, as
+- [0.58] ['000] p92 — This page details the Interested Person Transactions for Manulife US REIT, explicitly listing aggregate values in US$'00
+- [0.58] [million] p98 — This page presents the Independent Auditor's Report on the financial statements of Manulife US Real Estate Investment Tr
+- [0.46 OCR] ['000] p141 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents financial risk management disclosur
+- [0.44 OCR] p101 — This page contains the Independent Auditor's Report for Manulife US Real Estate Investment Trust, issued by Ernst & Youn
+- [0.39] p95 — This page lists the table of contents for the SGX REIT annual report, including the Independent Auditor's Report on page
+- [0.37 OCR] ['000] p143 — This page presents the Liquidity Risk maturity analysis table detailing the contractual maturities and cash flows of the
+- [0.31] [million] p126 — This page contains narrative disclosures regarding divestments and fair value measurement techniques for investment prop
+- [0.29] p108 — no schema-relevant data
+- [0.18] ['000] p125 — This page presents an audited Portfolio Statement for "Asset held for sale" listing properties in Los Angeles and New Je

@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Internet Enterprise",
+    "pct": 69.3,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT Services",
+    "pct": 14.0,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Telecommunications",
+    "pct": 13.6,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "category": "Banking, Insurance & Financial Services",
+    "category_raw": "Financial Services",
+    "pct": 2.4,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "AJBU.SI",
+    "financial_year": 2025,
+    "category": "Other Office Trades",
+    "category_raw": "Corporate",
+    "pct": 0.7,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  }
+]

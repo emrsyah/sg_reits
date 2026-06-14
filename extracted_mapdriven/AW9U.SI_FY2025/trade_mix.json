@@ -1,0 +1,29 @@
+[
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare, Pharmaceuticals & Life Sciences",
+    "category_raw": "Healthcare",
+    "pct": 89.4,
+    "pct_basis": "rental_income",
+    "source_page": 5
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Hospitality",
+    "pct": 5.6,
+    "pct_basis": "rental_income",
+    "source_page": 5
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 5.0,
+    "pct_basis": "rental_income",
+    "source_page": 5
+  }
+]

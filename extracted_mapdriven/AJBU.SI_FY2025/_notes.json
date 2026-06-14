@@ -1,0 +1,146 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "properties.gla",
+      "reason": "The report discloses 'Attributable Lettable Area (sq ft)' for each property, not GLA/NLA separately. The area metric used is Attributable Lettable Area which has been placed in nla. GLA is separately shown as 'Gross Floor Area (sq ft)' for some properties but not consistently across all — not used as gla to avoid inconsistency. See At A Glance pages 40-44."
+    },
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI is NOT disclosed in this report. NPI is only disclosed at segment level: Fully-fitted (Colocation) S$297.9m, Fully-fitted (Single Tenant) S$58.6m, Shell and Core S$26.8m (page 46). No per-property NPI appears in the Portfolio Statement, the financial notes, or the 'At A Glance' cards."
+    },
+    {
+      "column": "properties.major_tenant",
+      "reason": "All clients are fully anonymised per footnotes on page 39: 'The names of the clients cannot be identified and matched to the information set out above as many of the lease arrangements and colocation arrangements contain confidentiality provisions.' No client names appear anywhere in the report."
+    },
+    {
+      "column": "properties.trade_mix",
+      "reason": "Per-property trade mix is not disclosed. The report gives portfolio-level trade sector breakdown only (page 39)."
+    },
+    {
+      "column": "top_tenants.tenant_name",
+      "reason": "All clients are anonymised — only verbatim descriptors provided (e.g. 'Fortune Global 500 Company (Hyperscaler)'). Captured verbatim per schema field instruction."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "label": "Rental Income by Contract Type (% as at 31 Dec 2025)",
+      "data": {
+        "Fully-fitted (Colocation)": "72.7%",
+        "Fully-fitted (Single Tenant)": "21.2%",
+        "Shell and Core": "6.1%"
+      },
+      "source_page": 39,
+      "note": "Second breakdown disclosed on p.39 alongside the trade sector mix. Pct_basis = rental_income. Not placed in trade_mix to avoid double-counting; captured here."
+    },
+    {
+      "label": "NPI by Contract Type (S$ million, FY2025)",
+      "data": {
+        "Fully-fitted (Colocation)": 297900000,
+        "Fully-fitted (Single Tenant)": 58600000,
+        "Shell and Core": 26800000,
+        "Total": 383300000
+      },
+      "source_page": 46,
+      "note": "Segment-level NPI only, not per-property."
+    },
+    {
+      "label": "Attributable Lettable Area by property (sq ft) — NCI-adjusted",
+      "note": "Each property card shows 'Attributable Lettable Area' which is the REIT's interest-adjusted area. Captured in properties.nla field.",
+      "source_page": "40-44"
+    },
+    {
+      "label": "WALE by Contract Type (years, as at 31 Dec 2025)",
+      "data": {
+        "Fully-fitted (Colocation)": 3.2,
+        "Fully-fitted (Single Tenant)": 9.6,
+        "Shell and Core": 6.1
+      },
+      "source_page": 38,
+      "note": "Weighted average lease expiry by contract type."
+    },
+    {
+      "label": "Portfolio occupancy rate",
+      "data": "95.8%",
+      "source_page": 39,
+      "note": "Portfolio-wide occupancy as at 31 December 2025."
+    },
+    {
+      "label": "Basis Bay DC — divestment announced 2 Jan 2025, completion expected 1Q 2026",
+      "source_page": 42,
+      "note": "Retained in Portfolio Statement as 'investment property held for sale' at S$17,092k. Valuation as at 31 Dec 2025 per Portfolio Statement: S$17,092k (SGD). Card valuation: S$16.9m / RM53.9m."
+    },
+    {
+      "label": "NCI subsidiaries: KDCS3 LLP (10%), KDCS4 LLP (1%), KDCS5 LLP (1%), KDCRT2 TMK (1.53% of Tokyo DC 3)",
+      "source_page": 143,
+      "note": "Non-controlling interests as at year-end. KDC SGP 3 and 4 NCI were acquired post-year-end (12 Feb 2026)."
+    },
+    {
+      "label": "Gross Floor Area (sq ft) — some properties only",
+      "data": {
+        "Keppel DC Singapore 1": 225945,
+        "Keppel DC Singapore 2": 106726,
+        "Keppel DC Singapore 3": 133878,
+        "Keppel DC Singapore 4": 181734,
+        "Keppel DC Singapore 5": 208096,
+        "Keppel DC Singapore 7": 186608,
+        "Keppel DC Singapore 8": 290041,
+        "DC1": null,
+        "Gore Hill DC": 127283,
+        "Tokyo DC 3": 195216,
+        "Basis Bay DC": 88600,
+        "Keppel DC Dublin 1": 125044,
+        "Keppel DC Dublin 2": 76747,
+        "GV7 DC": 34850
+      },
+      "source_page": "40-44",
+      "note": "GFA disclosed inconsistently across properties. Not used as gla."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "KDC SGP 7 and KDC SGP 8 carrying values include lease liabilities from 10-year land tenure extension (S$350m paid Dec 2025). Carrying value on Portfolio Statement (S$750,077k and S$801,759k) includes these capitalised lease liabilities. Card valuation excludes extension: S$744.0m and S$796.0m respectively.",
+      "source_page": 111
+    },
+    {
+      "trap": "KDC SGP 5 lease term in Portfolio Statement is 39 years, but includes further 9-year extension. Lease expiry is 31 August 2050.",
+      "source_page": 111
+    },
+    {
+      "trap": "Guangdong DC 1 and 2 gross revenue (S$11.3m each) includes recognition under 'Gross Revenue' and corresponding 'Property Expenses' for loss allowances on uncollected rental income per footnote 3, page 39.",
+      "source_page": 39
+    },
+    {
+      "trap": "Tokyo DC 3 acquired 19 Nov 2025 — only 1.5 months contribution to FY2025 gross revenue (S$4.6m attributable).",
+      "source_page": 42
+    },
+    {
+      "trap": "Cashflow hedge reclassification of S$1,949k appears in Note 22 as a credit to finance costs total (reduces net finance costs from S$50,892k to S$48,943k). In income_components.json, this is recorded as an adjustment (positive) rather than reducing a finance expense line.",
+      "source_page": 142
+    }
+  ],
+  "reconciliation": {
+    "income_statement": {
+      "sum_revenue": 456673000,
+      "sum_expense": 158777000,
+      "sum_adjustment_signed": 136786000,
+      "implied_profit_after_tax": 434682000,
+      "reported_profit_after_tax": 434682000,
+      "reconciles": true,
+      "detail": "Σrev(435168+6194+15311=456673) - Σexp(58102+48943+680+25485+12107+805+282+12373=158777) + Σadj(2350+10825+161648-38037=136786) = 434682 MATCHES Statement of Profit or Loss p.103"
+    },
+    "properties": {
+      "sum_property_valuation": 6150492000,
+      "reported_total_valuation": 6150492000,
+      "reconciles": true,
+      "detail": "25 active/held-for-sale properties from Portfolio Statement pages 110-111. Kelsterbach DC divested (S$0 at year-end), excluded from sum. Sum matches Portfolio Statement total S$6,150,492k.",
+      "property_count_portfolio_statement": 25,
+      "property_count_extracted": 26,
+      "note": "26 rows extracted including Kelsterbach DC (divested, S$0 valuation). 25 properties in Portfolio Statement (including Basis Bay DC held for sale S$17,092k)."
+    },
+    "sum_property_gross_revenue": 433500000,
+    "reported_total_gross_revenue": 441362000,
+    "gross_revenue_gap_note": "Per-property gross revenues are 'Attributable Gross Revenue' from At A Glance cards (REIT's share only, SGD millions rounded to 1 d.p.). Sum of 25 active/held-for-sale properties = S$433.5m vs total reported S$441.4m. Gap of ~S$7.9m (~1.8%) is attributable to: (1) Kelsterbach DC partial-year gross revenue Jan-Mar 2025 (divested 24 Mar 2025, not shown in any card since no longer active); (2) rounding to nearest S$0.1m across 25 card disclosures. This is a structural limitation of the card-based per-property gross revenue disclosure.",
+    "trade_mix_sum": 100.0,
+    "trade_mix_reconciles": true
+  }
+}
