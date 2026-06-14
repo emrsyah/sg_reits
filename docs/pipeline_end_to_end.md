@@ -1,232 +1,182 @@
-# SGX REIT pipeline — end-to-end reference
+# SGX REIT pipeline — end-to-end reference (assumption-free, discovery-first)
 
-*How we go from an annual-report PDF to gated `sgx_reit_*` JSON. Personal reference for the
-parsing + extraction flow as it stands (Jun 2026). Canonical schema: `schema/sgx_reit_schema.md`
-+ `schema/models.py`.*
+The canonical flow for turning a Datalab-parsed annual report into the `sgx_reit_*` 6-table
+schema. This is the **current** strategy (Jun 2026): **assumption-free + ScaleDown discovery
+(summary + classify) + deterministic-where-clean / LLM-where-not + provenance-flagged + gated**.
 
----
-
-## 0. The shape of the problem
-
-~40 SGX REITs × up to 3 fiscal years ≈ ~120 heterogeneous PDFs (200–400 pages each, different
-layouts, currencies, sub-sectors). Goal: high-accuracy structured data in 6 tables. Two hard
-truths drive every design choice:
-
-1. **Three-tier valuation** — every report prints each property's value up to 3× on different
-   bases (marketing summary in millions / per-property card at 100% / **audited Portfolio
-   Statement in $'000**). Only the audited tier is `market_valuation`.
-2. **Sub-sector changes which tables exist** — `trade_mix`/`top_tenant` are retail/office facts;
-   data-centre uses client-type, hospitality uses contract-type. Don't force-fit.
-
-And one performance truth: **per-row LLM transcription is the bottleneck** — making an LLM
-regenerate 180 property rows as output tokens takes minutes. The pipeline is built to avoid that.
+Deep detail lives in the skills — this doc is the map, not a duplicate:
+- `.claude/skills/reit-extract/REFERENCE.md` **§0 Invariants** (the philosophy) + §1–§4 (field
+  sources, enums, illustrative quirks)
+- `.claude/skills/reit-extract-hybrid/SKILL.md` + `REFERENCE.md` (the per-report pipeline)
+- `schema/sgx_reit_schema.md` + `schema/models.py` (the target)
 
 ---
 
-## 1. Parsing — Datalab (balanced)
+## 0. The core principle — ASSUME NOTHING, DISCOVER EVERYTHING
 
-We parse with **Datalab Marker/Surya, balanced mode**. Cheaper than agentic LlamaParse
-(~0.4¢/page vs ~1.2¢) and cleaner tables. Full FY2025 corpus ≈ $26.
+Reports do **not** generalise by sub-sector or sponsor. Per-family "playbooks" overfit to a
+handful of reports and *suppress* extraction ("sub-sector X doesn't have Y → skip it"). So the
+only things an agent may assume are the **invariants**; everything else is **discovered from the
+report being extracted**.
 
-```bash
-# markdown — for the agent to READ / locate sections
-python scripts/parse_datalab.py <stem>
-#   -> parsed_reports_datalab/<stem>/full.md  (page-anchored <!-- PAGE N -->)
-#                                  pages.jsonl, meta.json (cost + checkpoint_id)
+**Invariants (assumable — accounting/SGX structure, true for every trust):**
+1. The task = the schema (`schema/models.py`).
+2. `market_valuation` only from the **audited Portfolio Statement in `'000`** — never the
+   marketing summary (millions), never the aggregate investment-property line.
+3. Income = the **full Statement of Total Return** (every line down to "total return for the
+   year"), not just the revenue/opex notes.
+4. Money absolute (×1000 from `'000`); `source_page` on every record; currency per figure;
+   **reconcile Σ to the disclosed total** (property valuations→portfolio total; trade_mix→100%;
+   income→total return).
 
-# HTML — for DETERMINISTIC table parsing (hybrid path), on the table pages only
-python scripts/adapter/parse_html.py <stem> --page-range A-B
-#   -> extracted_adapter/<stem>/portfolio.html  (preserves <sup> footnotes, /page/N/ block-ids)
+**Two hard rules:**
+- **Structural absence must be proven from THIS report** (evidence), never declared from a prior.
+  "Disclosed on a narrow basis" ≠ absent (capture it, scope it).
+- **Disclosed vs inferred:** you may infer/derive for completeness, but flag it in
+  `_notes.inferred[]` — never make a computed value look disclosed; else leave null.
+
+Everything labelled per-sub-sector in the skills is an **illustrative prior** (a hint to speed
+discovery), never a rule. The report overrides it every time.
+
+---
+
+## 1. Parse — Datalab (balanced)  [PAID, per page — validate ranges first]
+
 ```
+python scripts/parse_datalab.py "<full-stem>"          # markdown + checkpoint
+python scripts/adapter/parse_html.py <stem> --page-range A-B   # HTML for table pages (hybrid)
+```
+- markdown → `parsed_reports_datalab/<stem>/full.md` (page-anchored `<!-- PAGE N -->`).
+- HTML (only the table pages you'll adapt) → `extracted_adapter/<stem>/<group>.html`; preserves
+  `<sup>` footnotes + `/page/N/` block-ids that markdown flattens.
+- `<stem>` = PDF stem, e.g. `09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025`.
 
-Defaults: balanced, `token_efficient_markdown`, `save_checkpoint` (re-extract later without
-re-paying the parse), images off. **Datalab is paid per page — always validate with
-`--page-range` before a full run.**
+## 2. Discover — map the report to the schema (NO assumptions)  [ScaleDown, PAID]
 
-Why two formats: markdown is best for an LLM to scan; **HTML is best for deterministic parsing**
-because it preserves multi-row headers, merged section cells, and `<sup>` footnote markers that
-markdown pipe tables flatten.
+Three passes, cheapest→richest. Goal: learn *where each table is, its shape, units, and whether
+each field is present* — by reading, not by looking up a family.
 
-`<stem>` = the PDF stem, e.g. `09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025`.
-
----
-
-## 2. Locate — map the document before reading it
-
-```bash
+```
 python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md
+python scripts/adapter/page_map.py <stem>            # ScaleDown summaries (per-page notes)
+python scripts/adapter/page_map_classify.py <stem>   # ScaleDown CLASSIFY -> routing (STANDARD)
 ```
+- `locate.py` — cheap regex pre-pass (sub_sector hint + anchors).
+- `page_map.py` — `/summarization/abstractive` per page → `page_map.jsonl` (human/agent notes).
+- **`page_map_classify.py` — the routing standard.** `/classify` per page against the 6 tables
+  using **sub-sector-agnostic rubrics** → `schema_pages_v2.json`: per table, candidate pages
+  **ranked by score**, with `top` (authoritative) and `top_audited_000` (the '000 audited
+  statement vs a millions marketing card). Reuses page_map summaries for notes; OCR fallback
+  (re-classify the PDF page image) for sparse/diagram pages; `/extract` for profile entities;
+  `--rebuild` re-ranks from stored scores with no API.
 
-Prints: page-marker dialect, a **sub_sector guess** (keyword-weighted; Retail+Office co-dominant
-⇒ Diversified), the **audited-FS start page**, and the page list for every anchor section
-(Portfolio Statement, Gross Revenue note, Top-10 Tenants, Trade Mix, Distribution Statement,
-Statistics of Unitholdings, Corporate Information, …). The agent reads only those pages
-(chunked), never 200 pages linearly. The sub_sector picks the **playbook**.
+**What discovery gives vs what the agent must still do:**
+- The map = **recall + routing** (which pages hold each table; validated 100% table-level recall
+  across 7 sub-sectors; it fixes the profile/Trust-Structure page the summariser missed).
+- The agent = **precision by reading**: pick the authoritative page (unit/`top_audited_000`),
+  apply schema judgment the classifier can't (is a scoped industry table a real `trade_mix`?
+  is this the income *statement* or a *note*?), and reconcile. **Never extract numbers from a
+  summary/map — only from the actual page.**
 
----
+ScaleDown (`SCALEDOWN_API_KEY` in `.env`) = `/summarization/abstractive`, `/classify`,
+`/extract`, `/compress` at `api.scaledown.xyz` (header `x-api-key`).
 
-## 3. Extraction — two paths
+## 3. Route + extract — per section, decided from discovery
 
-Both target the same 8-file intermediate and pass the same two gates. Choose by goal:
+For each of the 6 tables, read EVERY candidate page in `schema_pages_v2.json` (start at
+`top`/`top_audited_000`, then down the ranked list) — don't stop at the first table.
 
-| Path | Skill | When |
-|---|---|---|
-| **Pure LLM** | `reit-extract` | one-off correctness; scattered sections |
-| **Hybrid on-the-fly** | `reit-extract-hybrid` | batch scale; sections that are clean tables |
-
-The **8-file intermediate** (in `extracted/<SYMBOL>.SI_FY<YYYY>/`): `profile, performance,
-properties, top_tenants, trade_mix, income_components, property_transactions, _notes`. Maps to
-the 6 schema tables (`income_components→sgx_reit_financial`); `property_transactions` is parked,
-`_notes` is QC metadata. Field names follow `schema/models.py` exactly — year key is
-**`financial_year`**, symbols carry `.SI`, money is **absolute** ($'000 → ×1000).
-
-### 3A. Pure-LLM path (`reit-extract`)
-
-A Sonnet agent reads the parsed markdown and writes the 8 files, following: three-tier valuation
-rule (audited Portfolio Statement only), source precedence (audited wins conflicts), per-sub-sector
-playbook, and the conventions (absolute money, `pct_basis` on every %, enums clean with verbatim
-in `*_raw`, dual-basis captured). Validated on 5 archetypes (C38U, HMN, AJBU, BTOU, AW9U) — all
-pass both gates.
-
-### 3B. Hybrid on-the-fly path (`reit-extract-hybrid`) — the scaling design
-
-**One agent per AR**, each authoring that report's extraction **plans on the fly**. Per section,
-the loop is:
+**Judge each field** (LLM): `deterministic` (one cell / header-carried / trivial transform) /
+`needs_llm` (judgement, combining, classify-to-taxonomy) / `other_source` (lives elsewhere).
+**Judge the section shape:** clean repeating grid → `hybrid` (deterministic adapter); scattered
+/ card / facing-page-split / stacked-cell → `llm_only`.
 
 ```
-JUDGE  →  PLAN  →  RUN  →  CROSS-CHECK  →  LLM PASS  →  MERGE
-```
-
-**1. Judge (LLM).** Sample ~5 rows of the section's HTML table + read the schema fields. Decide:
-- each **field** → `deterministic` (one cell / header-carried / trivial transform) /
-  `needs_llm` (judgement or combine) / `other_source` (lives in a different table/page);
-- the **section** → `hybrid` (a clean grid exists → write a plan) or `llm_only` (scattered →
-  use the pure-LLM workflow for this section). *This is the feasibility gate.*
-  Prior (confirm per report): properties / top_tenants / trade_mix / financial = hybrid;
-  profile / performance = llm_only.
-
-**2. Plan.** Author `extracted_adapter/<stem>/plan_<section>.json` — a **declarative** column→field
-map (located by header text, not index) with a method per field. Methods: `const, text, enum,
-parse_years, concat, scale, context (carry section headers down), page, needs_llm, absent_here`.
-
-**3. Run (deterministic, no LLM per row).**
-```bash
+# hybrid: author plan, run the generic engine (NOT exec'd codegen), then batched LLM merge
 python scripts/adapter/run_adapter.py extracted_adapter/<stem>/plan_<section>.json
-#   -> <section>_deterministic.json  +  <section>_deterministic.llm_todo.json
+python scripts/adapter/merge_llm.py <section>_deterministic.json llm_filled_<section>.json \
+       plan_<section>.json --decision needs_llm --out <section>_merged.json
 ```
-A generic engine consumes the plan (it is **not** exec'd generated code). It locates the table by
-header text, strips `<sup>` footnotes (so "Westgate¹"→"Westgate" but "Junction 8" name-number is
-kept), carries country/category/status section-headers down onto rows, and gates data rows on a
-numeric `value_col`.
 
-**4. Cross-check.** Row count vs the report's stated count; reconcile sums (Σ valuation/revenue vs
-total); spot-check 3–5 rows vs the source page. Record matches + legit gaps (e.g. equity-accounted
-JVs absent from the Portfolio Statement) in `status.json`.
+**Completeness (the recurring failure mode):** capture ALL disclosed rows/lines, not the first
+table you find. Especially **financial = the WHOLE Statement of Total Return** (below-NPI:
+management fees base/perf, finance costs, trustee/audit/professional fees, interest/investment
+income, share of JV, fair-value change, divestment gains, tax — `statement="adjustment"` with
+**signed** amounts). Verify `Σrevenue − Σexpense + Σadjustment(signed) = total return`.
 
-**5. LLM pass (batched).** Resolve the `needs_llm` fields for ALL rows in ONE call (give the model
-the row list + the relevant footnotes), save `llm_filled_<section>.json`.
+## 4. Provenance — disclosed vs inferred
 
-**6. Merge.**
-```bash
-python scripts/adapter/merge_llm.py <section>_deterministic.json llm_filled_<section>.json plan_<section>.json
-#   -> <section>_merged.json   (fills only needs_llm fields; runs an anomaly check)
+Prefer disclosed values. Any inferred/derived value (a portfolio figure applied per-property; a
+category assigned from a name; `total × pct`) goes in **`_notes.inferred[]`**
+`{table, field, scope/rows, value, basis, source_page}` — or leave the field null. The gate warns
+on undeclared inferences (e.g. a per-property field uniform across many rows); the cockpit renders
+inferred fields amber so disclosed ≠ computed.
+
+## 5. Assemble + gate (never skip)
+
+Write the 8 intermediate files to `extracted/<SYMBOL>.SI_FY<YYYY>/` (`schema/models.py` field
+names: `financial_year`, `.SI` symbol, absolute money, `source_page` everywhere). Then:
 ```
-`other_source` fields stay null until their own adapter/LLM pass fills them.
-
-**Author a plan per report.** Layout is NOT guaranteed by sponsor or sub-sector (same type ≠
-same layout across sponsors; same sponsor only a weak hint). What generalises is the engine +
-the judge/plan step + the gates — not the plans. Plan authoring is cheap (the expensive per-row
-transcription is already gone), so write a fresh plan each time. Reusing a prior plan (see
-`plans/examples/`) is an optional shortcut that must always re-verify `table_contains` + columns
-on the actual report; the gates catch a bad fit loudly.
-
----
-
-## 4. Assemble + gate (never skip)
-
-Combine the merged per-section records into the 8 files in `extracted/<SYMBOL>.SI_FY<YYYY>/`, then:
-
-```bash
-python .claude/skills/reit-extract/scripts/validate_schema.py  extracted/<SYMBOL>.SI_FY<YYYY>
+python .claude/skills/reit-extract/scripts/validate_schema.py extracted/<SYMBOL>.SI_FY<YYYY>
 python .claude/skills/reit-extract/scripts/check_extraction.py extracted/<SYMBOL>.SI_FY<YYYY>
 ```
+`check_extraction.py` now also: financial-INCOMPLETE warn (missing finance_costs/management_fee/
+adjustment lines); trade_mix sums ~100%; top_tenants present; **inferred-provenance** (undeclared
+uniform-fill warn + `_notes.inferred[]` validation). Fix every FAIL.
 
-- **validate_schema.py** — Pydantic type/enum contract against `schema/models.py`. Caught the
-  `fiscal_year`→`financial_year` rename.
-- **check_extraction.py** — reconciliation (Σ property vs reported totals, cross-currency aware),
-  unit sanity (<1,000,000 trust-level ⇒ unscaled), provenance (`source_page` on every record),
-  `pct_basis` discipline, enum discipline, fill rates. Reads `_notes.columns_never_fillable` so
-  declared sub-sector-structural nulls become INFO not WARN.
-
-Both must read `... PASS`. Fix every FAIL.
-
----
-
-## 5. Track (batch progress)
-
-Each AR agent keeps `extracted_adapter/<stem>/status.json` current (per-section status + method +
-decisions + cross-check + gate verdicts). Then:
-
-```bash
-python scripts/adapter/track.py            # matrix: AR × section status + gates
-```
-Status lifecycle per section: `planned → run → merged → gated → done` (or `llm_only` / `skipped`).
-
----
-
-## 6. Folder & file map
+## 6. Track + proofread
 
 ```
-parsed_reports_datalab/<stem>/full.md                    markdown (locating)
-extracted_adapter/<stem>/                                hybrid working dir
-  portfolio.html | tenants.html | financial.html         HTML table pages
-  plan_<section>.json                                    on-the-fly plan (LLM-authored)
-  <section>_deterministic.json (+ .llm_todo.json)        deterministic output
-  llm_filled_<section>.json                              batched LLM output
-  <section>_merged.json                                  merged
-  status.json                                            per-AR tracker
-extracted/<SYMBOL>.SI_FY<YYYY>/                          FINAL 8-file output (gated, DB-loaded)
+python scripts/adapter/track.py                 # matrix across all ARs from status.json
+python scripts/review/app.py                     # cockpit -> http://127.0.0.1:5057 (Chrome/Edge)
+```
+Cockpit: PDF ‖ records side-by-side; page button jumps to `source_page` (+ per-report page-offset
+for printed-vs-physical drift); mark correct/false/unsure + notes → `reviews/<dir>.json`;
+inferred fields show amber.
+
+## 7. Folder & file map
+
+```
+annual_reports/<stem>.pdf                              source PDFs (FY2025 corpus)
+parsed_reports_datalab/<stem>/full.md                  parsed markdown (locating + reading)
+extracted_adapter/<stem>/                              per-AR working dir
+  page_map.jsonl                                       ScaleDown summaries (notes)
+  schema_pages_v2.json | page_map_v2.md                CLASSIFY routing (the standard)
+  <group>.html                                         HTML table pages (hybrid)
+  plan_<section>.json | <section>_*.json               on-the-fly plan + engine outputs
+  status.json                                          per-AR tracker
+extracted/<SYMBOL>.SI_FY<YYYY>/                        CANONICAL 8-file output (gated)
+extracted_llm_baseline/                                pure-LLM baselines (validation)
+extracted_mapdriven/                                   discovery-first A/B outputs (pre-promotion)
+reviews/<dir>.json                                     proofreading verdicts + notes
+scripts/adapter/  page_map.py · page_map_classify.py · parse_html.py · run_adapter.py ·
+                  merge_llm.py · track.py
+scripts/review/   app.py · index.html                  proofreading cockpit
 ```
 
----
+## 8. Status (Jun 2026)
 
-## 7. What's proven vs scaffolded
+- **10-report FY2025 set** extracted + gated (`docs/proofread_10set.md`). income_components fixed
+  across all 10 (full Statement of Total Return, reconciles exactly).
+- **Discovery-first validated + promoted:** AJBU, AW9U (recovered `major_tenant` 0→31 + income),
+  BTOU, plus C38U/AU8U/M44U (round-1 map-driven). **Not yet discovery-first:** DHLU, UD1U, J69U,
+  + a full HMN pass.
+- **Assumption cost is real but uneven** — large on master-lease/operator REITs (per-property
+  tenant/occupancy wrongly nulled), ~nil on grid-heavy reports already complete.
+- Deprecated: the old `reit-extraction` skill (carried the overfit assumptions).
 
-- ✅ **Parsing** — Datalab balanced, 6 reports parsed.
-- ✅ **Pure-LLM extraction** — 5 archetypes, both gates pass.
-- ✅ **Hybrid properties (Tier-C)** — C38U pilot: **25 rows in 0.28 s, 25/25 identical** to the
-  LLM agent on valuation/tenure/term; LLM touched only `ownership`+`value_basis` in one 14 s
-  batched call. ~20× faster, ~6× cheaper, reproducible.
-- 🔄 **Scaffolded, not yet run** — the `top_tenants` / `trade_mix` / `financial` adapters (all
-  clean grids); the per-property-cards adapter (occupancy/gla/nla/npi); full-corpus run.
+## 9. Run a new report (recipe)
 
----
-
-## 8. Key learnings baked into the tooling
-
-- **HTML > markdown** for deterministic parsing (multi-row headers, merged cells, `<sup>`).
-- **Datalab page** lives on the `<table>` block-id (`/page/N/`), not per-row; `source_page` = N+1.
-- **Locate tables by header text**, not index — positions shift between reports.
-- **Footnote vs name-number**: strip `<sup>` tags, never a trailing-digit regex.
-- **The gates are the safety net** — a plan that doesn't fit (wrong column, missed rows) fails
-  reconciliation loudly.
-- **Field-name discipline**: `financial_year` (not `fiscal_year`), `.SI` symbols, absolute money.
-
----
-
-## 9. Run a new report (quick recipe)
-
-```bash
-python scripts/parse_datalab.py <stem>                                   # 1. parse md
-python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md  # 2. locate
-python scripts/adapter/parse_html.py <stem> --page-range <table-pages>   # 3. HTML
-# 4. per section: judge -> plan_<section>.json -> run_adapter -> cross-check -> llm pass -> merge_llm
-# 5. assemble 8 files in extracted/<SYMBOL>.SI_FY<YYYY>/
-python .claude/skills/reit-extract/scripts/validate_schema.py  extracted/<SYMBOL>.SI_FY<YYYY>
-python .claude/skills/reit-extract/scripts/check_extraction.py extracted/<SYMBOL>.SI_FY<YYYY>
-python scripts/adapter/track.py                                          # 6. progress
 ```
-
-Skills (read these for the detail): `.claude/skills/reit-extract-hybrid/SKILL.md` (+ REFERENCE) and
-`.claude/skills/reit-extract/SKILL.md` (+ REFERENCE — schema field set, sub-sector playbooks,
-quirks catalogue).
+1. parse_datalab.py <stem>                              # markdown
+2. locate.py + page_map.py + page_map_classify.py       # DISCOVER (no assumptions)
+3. per section: read all candidate pages -> judge -> deterministic adapter OR llm_only
+   - financial = the WHOLE Statement of Total Return; reconcile to total return
+   - flag any inferred value in _notes.inferred[]
+4. parse_html.py only for the grid pages you adapt
+5. assemble 8 files in extracted/<SYMBOL>.SI_FY<YYYY>/
+6. validate_schema.py + check_extraction.py  (fix every FAIL)
+7. track.py ; proofread in the cockpit
+```
+**Golden rule:** the map routes, the report decides, the gates verify — never assume from family,
+never let an inference look disclosed.
