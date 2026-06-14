@@ -1,0 +1,20 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 901403000,
+  "properties_location": "United States (Arizona, California, Georgia, New Jersey, Virginia, Washington D.C.)",
+  "gross_revenue": 113914000,
+  "net_property_income": 53178000,
+  "net_distributable_income": 25542000,
+  "dpu": 1.44,
+  "distribution_record": [],
+  "number_of_unitholders": 7655,
+  "currency": "USD",
+  "date": "2025-12-31",
+  "source_page": 8,
+  "_notes": {
+    "dpu_note": "Actual DPU distributed = 0. Distributions halted since 2023 pursuant to MRA and MRA Concessions. 1.44 US cents is the 'DI per Unit' (income available for distribution divided by units in issue) as disclosed on page 8 and page 22 - stored as dpu per instructions.",
+    "portfolio_value_note": "US$913.8m is the headline Tier A valuation (page 27). Audited Tier C total = investment properties US$815,700k + held-for-sale Figueroa US$85,703k = US$901,403k. Used audited sum for this field. The Tier A headline (913.8m) includes Figueroa at marketing value US$98.1m vs audited held-for-sale US$85.703m.",
+    "number_of_unitholders_note": "Statistics of Unitholdings as at 16 March 2026 (page 93)"
+  }
+}

@@ -6,8 +6,7 @@
     "category_raw": "Internet Enterprise",
     "pct": 69.3,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "JUDGMENT CALL: DC client trade sector breakdown. 'Internet Enterprise' maps to IT & Telecommunications (internet platforms, hyperscalers are IT/internet). Source: 'RENTAL INCOME BREAKDOWN BY CLIENTS' TRADE SECTOR (%)' page 39. pct_basis = rental_income per section heading."
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",
@@ -16,8 +15,7 @@
     "category_raw": "IT Services",
     "pct": 14.0,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "IT Services -> IT & Telecommunications per canonical mapping"
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",
@@ -26,8 +24,7 @@
     "category_raw": "Telecommunications",
     "pct": 13.6,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "Telecommunications -> IT & Telecommunications"
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",
@@ -45,7 +42,6 @@
     "category_raw": "Corporate",
     "pct": 0.7,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "'Corporate' has no precise canonical match; mapped to Other Office Trades as closest general enterprise category"
+    "source_page": 39
   }
 ]

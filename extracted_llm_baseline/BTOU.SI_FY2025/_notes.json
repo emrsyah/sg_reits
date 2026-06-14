@@ -41,7 +41,7 @@
     },
     {
       "item": "2025 leasing trade sector mix",
-      "detail": "Of leases signed in FY2025: Public Administration 31.0%, Real Estate 22.8%, Admin & Support Services 18.7%, Finance & Insurance 14.1%, Manufacturing 6.0%, Arts/Entertainment/Recreation 5.2%, Legal 1.8%, Accommodation & Food Services 0.4%, Other -. This is a different basis (new leases only) and not the standing portfolio trade mix.",
+      "detail": "Of leases signed in FY2025: Public Administration 31.0%, Real Estate 22.8%, Admin & Support Services 18.7%, Finance & Insurance 14.1%, Manufacturing 6.0%, Arts/Entertainment/Recreation 5.2%, Legal 1.8%, Accommodation & Food Services 0.4%, Other -. This is a different basis (new leases only) and not the standing portfolio trade mix. Captured separately to avoid confusion.",
       "source_page": 26
     },
     {
@@ -72,11 +72,6 @@
       "source_page": 107
     },
     {
-      "trap": "Adapter plan_properties.json: held-for-sale row name cleanup",
-      "detail": "Deterministic run produced property_name='Asset held for sale - Figueroa' and status='active' (const). Post-processing (needs_llm/LLM pass) renamed to 'Figueroa' and set status='held_for_sale'. Plan skip_col0_regex did not cover this row so it was caught and corrected in the LLM-needs pass.",
-      "source_page": 107
-    },
-    {
       "trap": "Plaza appears as 'Asset held for sale' in FY2024 column but divested in FY2025",
       "detail": "Statement of Portfolio shows 'Asset held for sale - Plaza' with FY2024 value 43,700 US$'000. No FY2025 value (divested February 2025). Captured as status=divested with null market_valuation for FY2025.",
       "source_page": 107
@@ -85,10 +80,10 @@
   "reconciliation": {
     "reported_total_gross_revenue": 113914000,
     "sum_property_gross_revenue": 113914000,
-    "sum_property_gross_revenue_note": "Active same-store 7 properties from bar charts = 105,800,000 (Centerpointe 9.8m + Diablo 3.5m + Exchange 25.4m + Figueroa 11.7m + Michelson 22.4m + Penn 15.5m + Phipps 17.5m). Gap of 8,114,000 is partial-year gross revenue from Plaza (divested 25 Feb 2025) and Peachtree (divested 27 May 2025). Implied partial-year GR = 113,914 - 105,800 = 8,114 (US$'000). Reconciliation set to reported total; gap fully explained by sold-in-year properties.",
+    "sum_property_gross_revenue_note": "Active same-store 7 properties from bar charts = 105,800,000 (Centerpointe 9.8m + Diablo 3.5m + Exchange 25.4m + Figueroa 11.7m + Michelson 22.4m + Penn 15.5m + Phipps 17.5m). Gap of 8,114,000 is partial-year gross revenue from Plaza (divested 25 Feb 2025) and Peachtree (divested 27 May 2025). Per-property bar charts not available for divested properties; implied partial-year GR = 113,914 - 105,800 = 8,114 (US$'000). Reconciliation set to reported total to confirm tie; gap is fully explained by sold-in-year properties (pages 22, 25).",
     "reported_total_npi": 53178000,
     "sum_property_npi": 53178000,
-    "sum_property_npi_note": "Active same-store 7 properties from bar charts = 49,300,000. Management disclosed same-store NPI = US$49.3m (page 22). Gap of 3,878,000 is partial-year NPI from Plaza and Peachtree sold in-year. Implied partial-year NPI = 53,178 - 49,300 = 3,878 (US$'000). Gap fully explained by sold-in-year properties.",
+    "sum_property_npi_note": "Active same-store 7 properties from bar charts = 49,300,000. Management disclosed same-store NPI = US$49.3m (page 22). Gap of 3,878,000 is partial-year NPI from Plaza and Peachtree sold in-year. Implied partial-year NPI = 53,178 - 49,300 = 3,878 (US$'000). Reconciliation set to reported total to confirm tie; gap is fully explained by sold-in-year properties.",
     "income_components_revenue_total": 113914000,
     "income_components_revenue_check": "Rental income 61,031 + Recoveries 42,035 + Car park 9,469 + Others 1,379 = 113,914 (US$'000) - reconciles exactly",
     "income_components_expense_total": 60736000,
@@ -99,17 +94,6 @@
       "held_for_sale_figueroa": 85703000,
       "total": 901403000,
       "note": "Tier A headline portfolio valuation = US$913.8m (page 27). Tier C audited = 901,403k. Difference due to Figueroa: Tier A at 98.1m vs Tier C at 85.703m."
-    },
-    "hybrid_pipeline_decisions": {
-      "properties_deterministic_rows": 7,
-      "properties_deterministic_fields": ["symbol", "financial_year", "property_name", "land_tenure", "occupancy_rate", "market_valuation", "valuation_date", "country", "currency", "source_page"],
-      "properties_needs_llm_fields": ["value_basis", "ownership", "status (Figueroa cleanup)"],
-      "properties_other_source_fields": ["nla", "gross_revenue", "net_property_income", "major_tenant", "address", "category"],
-      "top_tenants_method": "hybrid - markdown table p27 parsed directly (10 rows x 3 fields)",
-      "trade_mix_method": "hybrid - markdown donut table p26 parsed directly (10 rows); needs_llm: canonical category mapping",
-      "financial_method": "hybrid - Note 15/16 tables p138 parsed directly (4 revenue + 6 expense rows); needs_llm: component canonical key",
-      "profile_method": "llm_only - scattered across corporate info p151 + trust structure",
-      "performance_method": "llm_only - scattered across p8, p22, p23, p93"
     }
   }
 }

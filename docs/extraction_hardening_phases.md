@@ -201,7 +201,9 @@ properties 100% valuation-match vs the pure-LLM baseline. Gate to Phase E is **c
   abbreviations (`Guangdong DC 1`). Matching/merging across sections needs a name-
   normalization (needs_llm/join) step — don't assume exact-name joins.
 - `[2026-06-13]` **3 FULL end-to-end runs (one agent per AR via the skill)** → output to
-  `extracted_hybrid/<sym>/`, diffed vs the pure-LLM baseline:
+  the canonical store (now `extracted/<sym>/`; was `extracted_hybrid/` before the
+  2026-06-14 folder consolidation), diffed vs the pure-LLM baseline (now
+  `extracted_llm_baseline/<sym>/`):
 
   | AR | Family | properties route | gates | properties valuation match |
   |---|---|---|---|---|

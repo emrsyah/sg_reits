@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "statement": "revenue",
     "component": "rental_income",
-    "amount": 61031000,
+    "amount": 61031000.0,
     "currency": "USD",
     "label_raw": "Rental income",
     "source_page": 138
@@ -14,7 +14,7 @@
     "financial_year": 2025,
     "statement": "revenue",
     "component": "recoveries_income",
-    "amount": 42035000,
+    "amount": 42035000.0,
     "currency": "USD",
     "label_raw": "Recoveries income",
     "source_page": 138
@@ -24,7 +24,7 @@
     "financial_year": 2025,
     "statement": "revenue",
     "component": "car_park_income",
-    "amount": 9469000,
+    "amount": 9469000.0,
     "currency": "USD",
     "label_raw": "Car park income",
     "source_page": 138
@@ -34,7 +34,7 @@
     "financial_year": 2025,
     "statement": "revenue",
     "component": "other_revenue",
-    "amount": 1379000,
+    "amount": 1379000.0,
     "currency": "USD",
     "label_raw": "Others",
     "source_page": 138
@@ -44,7 +44,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "real_estate_taxes",
-    "amount": 12625000,
+    "amount": 12625000.0,
     "currency": "USD",
     "label_raw": "Real estate taxes",
     "source_page": 138
@@ -54,7 +54,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "repairs_and_maintenance",
-    "amount": 15575000,
+    "amount": 15575000.0,
     "currency": "USD",
     "label_raw": "Repairs and property maintenance expenses",
     "source_page": 138
@@ -64,7 +64,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "utilities",
-    "amount": 8942000,
+    "amount": 8942000.0,
     "currency": "USD",
     "label_raw": "Utilities",
     "source_page": 138
@@ -74,7 +74,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "property_management_fees",
-    "amount": 10674000,
+    "amount": 10674000.0,
     "currency": "USD",
     "label_raw": "Property management fees and reimbursements",
     "source_page": 138
@@ -84,7 +84,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "ecl_provision",
-    "amount": 291000,
+    "amount": 291000.0,
     "currency": "USD",
     "label_raw": "Net provision for ECL",
     "source_page": 138
@@ -94,7 +94,7 @@
     "financial_year": 2025,
     "statement": "expense",
     "component": "other_operating_expenses",
-    "amount": 12629000,
+    "amount": 12629000.0,
     "currency": "USD",
     "label_raw": "Other operating expenses",
     "source_page": 138

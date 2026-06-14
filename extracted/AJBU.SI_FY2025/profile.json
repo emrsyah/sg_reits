@@ -2,9 +2,18 @@
   "symbol": "AJBU.SI",
   "sub_sector": "Data Centre",
   "management": [
-    {"role": "reit_manager", "company_name": "Keppel DC REIT Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "sponsor", "company_name": "Keppel Ltd."}
+    {
+      "role": "reit_manager",
+      "company_name": "Keppel DC REIT Management Pte. Ltd."
+    },
+    {
+      "role": "trustee",
+      "company_name": "Perpetual (Asia) Limited"
+    },
+    {
+      "role": "sponsor",
+      "company_name": "Keppel Ltd."
+    }
   ],
   "income_model": "mixed",
   "source_page": 95

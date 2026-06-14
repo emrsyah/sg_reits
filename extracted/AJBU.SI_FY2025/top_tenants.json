@@ -7,8 +7,7 @@
     "trade_sector": "Internet Enterprise",
     "gri_percentage": 42.1,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "Verbatim descriptor from Top 10 Clients table page 39. Clients fully anonymised per footnote 2. pct_basis = rental_income per section heading 'TOP 10 CLIENTS BY RENTAL INCOME (%)'"
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",
@@ -18,8 +17,7 @@
     "trade_sector": "Internet Enterprise",
     "gri_percentage": 9.6,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "Second Fortune Global 500 Company (Hyperscaler) - distinct from rank 1 per table ordering"
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",
@@ -79,8 +77,7 @@
     "trade_sector": null,
     "gri_percentage": 2.1,
     "pct_basis": "rental_income",
-    "source_page": 39,
-    "note": "Verbatim: 'Fortune Global 500 Company' without the (Hyperscaler) qualifier"
+    "source_page": 39
   },
   {
     "symbol": "AJBU.SI",

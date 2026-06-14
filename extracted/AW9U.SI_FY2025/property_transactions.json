@@ -2,15 +2,13 @@
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
-    "transaction_type": "divestment",
     "property_name": "Imperial Aryaduta Hotel & Country Club",
+    "transaction_type": "divestment",
     "country": "Indonesia",
-    "completion_date": "2025-12",
-    "consideration_sgd": 25908000,
-    "book_value_sgd": 27723000,
-    "loss_on_disposal_sgd": 7535000,
-    "counterparty": "PT Abadi Jaya Sakti and PT Tigamitra Ekamulia",
-    "source_page": 140,
-    "note": "Loss on disposal $7,535k recognised in FY2025 P&L. Withholding tax on disposal $1,105k. Consideration per interested person transaction disclosure."
+    "transaction_date": "2025-12-04",
+    "consideration": 25908000,
+    "currency": "SGD",
+    "notes": "100% stake in PT Karya Sentra Sejahtera (PT KSS) sold to PT Abadi Jaya Sakti and PT Tigamitra Ekamulia. Loss on disposal $7,535k. Carrying value was $27,723k at end of FY2024.",
+    "source_page": 140
   }
 ]
