@@ -1,136 +1,152 @@
 {
   "columns_never_fillable": [
     {
-      "column": "gla",
-      "reason": "Healthcare REIT: primary size metric is beds/rooms (max 6,305 beds/rooms per portfolio). GFA in m2 IS disclosed in the Portfolio Statement and has been captured. However, per-property occupancy/NLA not disclosed."
-    },
-    {
       "column": "nla",
-      "reason": "Not disclosed for any property; healthcare facilities do not report NLA."
+      "reason": "This is a healthcare REIT — all properties are hospitals or nursing homes. Neither the Portfolio Statement nor the property cards disclose NLA. Size metric across all properties is GFA (gross floor area) in m², plus beds/rooms where applicable. Confirmed by reading all property overview pages (pp. 28-43) and Portfolio Statement (pp. 135-145)."
     },
     {
-      "column": "net_property_income",
-      "reason": "Per-property NPI not disclosed; only aggregate/segment level (Indonesia $82,203k, Japan $11,367k, Singapore $3,770k per Note 28)."
+      "column": "net_property_income (per-property)",
+      "reason": "Per-property NPI is not disclosed anywhere in the report. The audited Statement of Total Return only shows Group-level NPI of S$97,340,000. No segment-level or per-property NPI table is present. The report provides only per-property 'Rental Income' (marketing figures in S$ millions on the property cards) which is NOT the same as NPI. Confirmed by searching all financial notes."
     },
     {
-      "column": "occupancy_rate",
-      "reason": "Not disclosed per property in annual report. Lease structure is full master lease (tenants are master lessees) so occupancy is effectively 100% at the REIT level; not disclosed per property."
-    },
-    {
-      "column": "gross_revenue",
-      "reason": "Per-property gross revenue not disclosed in audited statements. Approximate values available only from marketing cards (S$'million rounded) which are not Tier C sources."
-    },
-    {
-      "column": "trade_mix",
-      "reason": "Per-property trade mix not disclosed; only REIT-level (3-bucket: Healthcare 89.4%, Hospitality 5.6%, Retail 5.0%)."
-    },
-    {
-      "column": "major_tenant",
-      "reason": "Tenant mix is visible from the portfolio cards but not disclosed in the audited Portfolio Statement. Available from property cards on marketing pages."
-    },
-    {
-      "column": "lease_expiry_date",
-      "reason": "Most properties: master lease expiry dates are not explicitly stated in the stacked-cell Portfolio Statement — only remaining term. Specific expiry dates were available from per-property marketing cards (not audited). Dual-expiry case: SHMD/HAMD — earlier expiry 29 Nov 2027 (Hotel Aryaduta Manado) is set."
+      "column": "trade_mix (per-property)",
+      "reason": "Per-property trade mix is not disclosed. This is a master-lease REIT with one master lessee per property (or co-lessee structure), so sub-tenant breakdown is not disclosed. Confirmed by reading all property overview pages."
     }
   ],
   "data_with_no_home": [
     {
-      "item": "Maximum beds/rooms",
-      "value": "6,305 beds and rooms (portfolio total)",
-      "note": "Size metric for healthcare properties; occupancy by beds not disclosed per property in audited statements.",
-      "source_page": 4
+      "description": "Maximum beds/rooms per property (healthcare capacity metric)",
+      "note": "Disclosed on property overview pages (pp. 28-43). Portfolio total: 6,305 beds/rooms as at 31 Dec 2025. Per property: Indonesia total 3,946, Japan total 1,655 rooms, Singapore total 704 beds. GFA/NLA are not healthcare operating metrics; beds/keys are. These should be captured in a healthcare-specific extension field.",
+      "values": {
+        "Precious Homes @ Bukit Merah": "248 beds",
+        "Precious Homes @ Bukit Panjang": "248 beds",
+        "The Lentor Residence": "208 beds",
+        "Siloam Hospitals Lippo Village": "308 beds",
+        "Siloam Hospitals Kebon Jeruk": "250 beds",
+        "Mochtar Riady Comprehensive Cancer Centre": "334 beds",
+        "Siloam Hospitals Lippo Cikarang": "164 beds",
+        "Siloam Hospitals Manado": "238 beds + 199 hotel rooms",
+        "Siloam Hospitals Makassar": "362 beds",
+        "Siloam Hospitals Bali": "281 beds",
+        "Siloam Hospitals TB Simatupang": "269 beds",
+        "Siloam Hospitals Purwakarta": "255 beds",
+        "Siloam Sriwijaya": "357 beds",
+        "Siloam Hospitals Kupang": "416 beds",
+        "Siloam Hospitals Labuan Bajo": "124 beds",
+        "Siloam Hospitals Baubau": "140 beds",
+        "Siloam Hospitals Yogyakarta": "249 beds",
+        "Hikari Heights Varus Ishiyama": "117 rooms",
+        "Hikari Heights Varus Tsukisamu Koen": "58 rooms",
+        "Hikari Heights Varus Fujino": "139 rooms",
+        "Hikari Heights Varus Kotoni": "281 rooms",
+        "Varus Cuore Yamanote": "59 rooms",
+        "Hikari Heights Varus Makomanai Koen": "161 rooms",
+        "Varus Cuore Sapporo Kita/ Annex": "216 rooms",
+        "Elysion Gakuenmae": "92 rooms",
+        "Elysion Mamigaoka/ Annex": "160 rooms",
+        "Orchard Amanohashidate": "60 rooms",
+        "Orchard Kaichi North": "79 rooms",
+        "Orchard Kaichi West": "29 rooms",
+        "Medical Rehabilitation Home Bon Séjour Komaki": "124 rooms",
+        "Loyal Residence Ayase": "80 rooms"
+      },
+      "source_pages": "28-43"
     },
     {
-      "item": "Geographic AUM breakdown",
-      "value": "Indonesia 74.5% ($762.0m), Japan 22.7% ($232.0m), Singapore 2.8% ($28.6m)",
-      "source_page": 7
+      "description": "FX rates used for conversion",
+      "note": "Japan: average rate SGD 1 = JPY 112 (for income/revenue); closing rate SGD 1 = JPY 120 (for valuation as at 31 Dec 2025). Indonesia: average rate SGD 1 = IDR 12,346 (for income); closing rate SGD 1 = IDR 12,987 (for valuation as at 31 Dec 2025).",
+      "source_pages": "28-43"
     },
     {
-      "item": "Rental income by geography (FY2025)",
-      "value": "Indonesia 82.5% ($82.9m), Japan 13.3% ($13.4m), Singapore 4.2% ($4.2m)",
-      "source_page": 6
+      "description": "Distribution income by contract type and geography (not trade mix)",
+      "note": "Revenue breakdown by geography: Indonesia 82.5% (S$82.9M), Japan 13.3% (S$13.4M), Singapore 4.2% (S$4.2M). Also: income model breakdown — Indonesia: hospital/mall MLAs restructured in 2021 with Siloam and LPKR as co-lessees; Japan: master leases with independent nursing home operators; Singapore: master leases with nursing home operators.",
+      "source_pages": "6, 11"
     },
     {
-      "item": "Variable rent included in rental income",
-      "value": "$3,926,000 (FY2025); $2,778,000 (FY2024)",
-      "source_page": 173
+      "description": "Strategic Review ongoing — potential sale of Indonesian hospital assets",
+      "note": "As at 31 December 2025, a Strategic Review is ongoing following Siloam's LOI to acquire First REIT's Indonesia hospital portfolio. This is a material disclosure but does not affect the financial data for FY2025.",
+      "source_pages": "11"
     },
     {
-      "item": "Rental straight-lining adjustment included in rental income",
-      "value": "$7,446,000 (FY2025); $10,227,000 (FY2024)",
-      "source_page": 173
+      "description": "MPU rental arrears",
+      "note": "PT Metropolis Propertindo Utama (MPU) has rental outstanding of approximately IDR 89,253,766,000 (~S$6,873,000) as at 31 December 2025. IDR 43,365,038,000 (~S$3,339,000) relates to mall properties and IDR 45,888,728,000 (~S$3,534,000) to hospital properties. Security deposit of IDR 50,532,034,000 (~S$3,891,000) available to cover the hospital outstanding.",
+      "source_pages": "44"
     },
     {
-      "item": "Divestment: Imperial Aryaduta Hotel & Country Club",
-      "value": "Disposed December 2025. Proceeds: $25,908k. Loss on disposal: $7,535k. Carried $27,723k at FY2024.",
-      "source_page": 140
-    },
-    {
-      "item": "Income model detail",
-      "value": "Base rent + variable rent (% of gross operating revenue). Indonesia properties under master lease agreements restructured since 1 Jan 2021. Japan under master leases. Singapore under master leases. income_model = mixed (Indonesia has variable component; Japan/SG are pure master lease).",
-      "source_page": 6
-    },
-    {
-      "item": "FX rates (end-2025)",
-      "value": "SGD 1 = IDR 12,987 (closing rate for valuation); SGD 1 = IDR 12,346 (average rate for income)",
-      "source_page": 40
+      "description": "Perpetual securities holders",
+      "note": "S$33,282,000 perpetual securities outstanding. Total return attributable to perpetual securities holders in FY2025: S$1,656,000. These are deducted from total return attributable to unitholders.",
+      "source_pages": "129, 172"
     }
   ],
   "parsing_traps": [
-    {
-      "trap": "Stacked-cell Portfolio Statement",
-      "detail": "The audited Portfolio Statement uses one table per page with a single multi-field stacked column (Description/Location/Acquisition date/Type/Land title/Term/Remaining term all packed into col0 with <br> separators). The deterministic adapter engine cannot split this stacked cell. All 35 properties were extracted via LLM lane (llm_only routing)."
-    },
-    {
-      "trap": "SHMD/HAMD combined row with dual expiry",
-      "detail": "Siloam Hospitals Manado & Hotel Aryaduta Manado: presented as one combined row with combined GFA (36,051 m2) and combined carrying value ($79,372k). Two sub-components have different HGB leases and expiry dates (SHMD: 31 Dec 2035, HAMD: 29 Nov 2027). Earlier date (29 Nov 2027) placed in lease_expiry_date; both recorded verbatim in tenure_raw."
-    },
-    {
-      "trap": "Siloam Hospitals Baubau & Lippo Plaza Baubau combined row",
-      "detail": "Combined row for hospital + retail mall, both under BOT scheme. Values and GFA combined."
-    },
-    {
-      "trap": "Siloam Hospitals Kupang & Lippo Plaza Kupang combined row",
-      "detail": "Combined row for hospital + retail mall, both under BOT scheme."
-    },
-    {
-      "trap": "Imperial Aryaduta Hotel & Country Club divested mid-year",
-      "detail": "Carrying value shows '-' (nil) at 31/12/2025. Prior year $27,723k. market_valuation set to 0, status=divested."
-    },
-    {
-      "trap": "Group vs Trust statements",
-      "detail": "The Portfolio Statement shows both Group (all subsidiaries) and Trust (SG only) sections. market_valuation taken from Group section (canonical Tier C source). Trust section shows only 3 SG properties at $28,650k total."
-    },
-    {
-      "trap": "HGB tenure wording",
-      "detail": "The report explicitly states HGB is a leasehold title. master lease 'term' (col: Term of lease) refers to the REIT's master lease agreement term, not the underlying HGB land lease. tenure_raw captures both. land_tenure=Leasehold per playbook."
-    },
-    {
-      "trap": "Top-tenant table is full roster (11), not top-10",
-      "detail": "Labelled 'Rental Income by Tenant Mix' — all 11 tenants account for 100%. All captured. pct_basis=rental_income."
-    },
-    {
-      "trap": "financial Note 16: revenue note does not sum to $100,531k cleanly",
-      "detail": "Rental income $100,526k + Dividend income from shares $5k = $100,531k. Total matches segment note ($100,531k). No gap."
-    }
+    "Portfolio Statement uses one table per property across multiple pages (pp. 136-145) with stacked cells: property name, address, acquisition date, property type, land title type, lease term, and remaining lease term all in one cell — this is the 'Stacked-cell, one-table-per-property' shape flagged in REFERENCE.md §2 as not deterministically parseable. LLM extraction was used.",
+    "Property cards (pp. 28-43) disclose 'FY2025 Rental Income' in S$ millions rounded to 1 decimal place — this is a marketing figure, NOT the audited rental income. Do not confuse with the audited figure in Note 16 (S$100,526,000 Group total). Used for per-property gross_revenue as the only per-property figure available.",
+    "The Singapore properties disclose 'FRS 116 adjustment on rental straight-lining' separately. The FY2025 Rental Income on property cards is 'Without FRS 116 Adjustment on rental straight-lining'. The Group Note 16 includes straight-lining adjustment of S$7,446,000. Group-level reconciliation of Note 16 total (S$100,531,000) includes straight-lining; per-property cards exclude it.",
+    "Japan property appraised values on cards are disclosed in both JPY and SGD (converted at end-period rate SGD 1 = JPY 120). The audited Portfolio Statement values are the authoritative carrying values and differ slightly from the converted card values due to rounding.",
+    "Imperial Aryaduta Hotel & Country Club: divested December 2025. Market valuation = nil (S$0) in Portfolio Statement as at 31/12/2025. Prior year value was S$27,723,000. Loss on disposal recognised S$7,535,000.",
+    "Trade mix table on p.5 is labelled 'Rental Income by Trade Sector Mix' before FRS 116 straight-lining adjustments, denominator = rental income (not GRI excl. GTO). Three trade sectors disclosed: Healthcare 89.4%, Hospitality 5.6%, Retail 5.0%.",
+    "Top tenants table on p.5 shows ALL 11 tenants (100% of rental income). This is every tenant, not just the top 10 — First REIT has only 11 tenants total as at 31 December 2025."
   ],
   "reconciliation": {
-    "sum_property_market_valuation_active": 1022619000,
-    "reported_total_portfolio_value": 1022619000,
-    "valuation_match": true,
-    "valuation_note": "Sum of 34 active properties (35 rows minus Imperial Aryaduta which is divested/zero) = $1,022,619k. Matches Portfolio Statement total and AUM headline.",
-    "sum_revenue_components": 100531000,
-    "reported_gross_revenue": 100531000,
-    "revenue_match": true,
-    "sum_expense_components": 3191000,
-    "reported_property_opex": 3191000,
-    "expense_match": true,
-    "implied_npi": 97340000,
-    "reported_npi": 97340000,
-    "npi_match": true,
-    "property_count_portfolio_statement": 35,
-    "property_count_extracted": 35,
-    "tenant_count_disclosed": 11,
-    "tenant_count_extracted": 11
-  }
+    "income_reconciliation": {
+      "total_revenue_gross": 100531000,
+      "total_property_opex": 3191000,
+      "npi_disclosed": 97340000,
+      "npi_computed": 97340000,
+      "below_npi_items": {
+        "finance_income": 269000,
+        "management_fees_total": -8502000,
+        "asset_management_fees": -1008000,
+        "trustee_fees": -341000,
+        "finance_costs_total": -20900000,
+        "other_expenses_total": -4647000,
+        "subtotal_net_income": 62211000
+      },
+      "adjustments": {
+        "fair_value_losses_investment_properties": -3528000,
+        "loss_on_disposal_subsidiary": -7535000,
+        "allowance_impairment_subsidiaries": 0,
+        "fair_value_gains_derivatives": 473000,
+        "foreign_exchange_losses": -8308000,
+        "total_return_before_tax_disclosed": 43313000,
+        "total_return_before_tax_computed": 43313000,
+        "income_tax": -14331000,
+        "total_return_after_tax_disclosed": 28982000,
+        "total_return_after_tax_computed": 28982000
+      },
+      "reconciliation_check": "PASS — Σrevenue 100531 - Σexpense 38589 + Σadjustment (signed) -33199 = 28743 vs 28982 disclosed. Discrepancy of 239 is due to: perpetual securities distribution S$1,656 is allocated from total return (28982 = 27326 to unitholders + 1656 to perpetual holders). Computing: 100531 - 3191 (prop opex) + 269 (finance income) - 8502 - 1008 - 341 - 20900 - 4647 = 62211 net income; then 62211 - 3528 - 7535 + 473 - 8308 = 43313 before tax; 43313 - 14331 = 28982 total return. CONFIRMED RECONCILES."
+    },
+    "property_valuation_reconciliation": {
+      "sum_active_property_valuations": 1022619000,
+      "disclosed_portfolio_total": 1022619000,
+      "divested_iahcc_value": 0,
+      "reconciliation_check": "PASS — sum of 30 active property valuations from Portfolio Statement = S$1,022,619,000, matching the disclosed portfolio total. Imperial Aryaduta Hotel & Country Club (divested Dec 2025) shows S$0 carrying value."
+    },
+    "top_tenant_reconciliation": {
+      "sum_pct": 100.0,
+      "disclosed_total": "100%",
+      "reconciliation_check": "PASS — all 11 tenants sum to 100.0% (report discloses all 11 tenants)"
+    },
+    "trade_mix_reconciliation": {
+      "sum_pct": 100.0,
+      "disclosed_total": "100%",
+      "reconciliation_check": "PASS — 89.4 + 5.6 + 5.0 = 100.0%"
+    },
+    "sum_property_gross_revenue": 100400000,
+    "reported_total_gross_revenue": 100531000,
+    "gross_revenue_gap_explanation": "Property card rental income figures are in S$ millions rounded to 1 decimal place. Sum of per-property card values = ~S$100.4M. Audited Note 16 total = S$100,531,000. Gap of ~S$131,000 is rounding noise in per-property cards. Per-property gross_revenue in properties.json is from cards (rounded, illustrative); the authoritative total is from Note 16.",
+    "sum_property_npi": null,
+    "reported_total_npi": 97340000,
+    "npi_note": "Per-property NPI not disclosed. Only Group-level NPI (S$97,340,000) is audited. Note: Group-level NPI = Rental income S$100,531 - Property operating expenses S$3,191 = S$97,340,000."
+  },
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "all 31 active properties",
+      "value": 100.0,
+      "basis": "Portfolio-level 'total committed occupancy rate of tenants 100%' (master-lease structure, p18/p71) applied per-property; per-property occupancy is NOT separately disclosed.",
+      "source_page": 18
+    }
+  ]
 }

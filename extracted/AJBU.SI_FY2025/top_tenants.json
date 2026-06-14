@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "rank": 1,
     "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "Internet Enterprise",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 42.1,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -14,7 +14,7 @@
     "financial_year": 2025,
     "rank": 2,
     "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "Internet Enterprise",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 9.6,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -24,7 +24,7 @@
     "financial_year": 2025,
     "rank": 3,
     "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "Internet Enterprise",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 8.4,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -34,7 +34,7 @@
     "financial_year": 2025,
     "rank": 4,
     "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "Internet Enterprise",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 5.7,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -44,7 +44,7 @@
     "financial_year": 2025,
     "rank": 5,
     "tenant_name": "Government-linked Connectivity Solutions Provider",
-    "trade_sector": "Telecommunications",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 4.8,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -54,7 +54,7 @@
     "financial_year": 2025,
     "rank": 6,
     "tenant_name": "Government-linked Connectivity Solutions Provider",
-    "trade_sector": "Telecommunications",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 4.1,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -64,7 +64,7 @@
     "financial_year": 2025,
     "rank": 7,
     "tenant_name": "Internet Technology Provider (Hyperscaler)",
-    "trade_sector": "Internet Enterprise",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 2.2,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -74,7 +74,7 @@
     "financial_year": 2025,
     "rank": 8,
     "tenant_name": "Fortune Global 500 Company",
-    "trade_sector": null,
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 2.1,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -84,7 +84,7 @@
     "financial_year": 2025,
     "rank": 9,
     "tenant_name": "Multinational Colocation Provider",
-    "trade_sector": "IT Services",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 2.1,
     "pct_basis": "rental_income",
     "source_page": 39
@@ -94,7 +94,7 @@
     "financial_year": 2025,
     "rank": 10,
     "tenant_name": "Multinational Colocation Provider",
-    "trade_sector": "IT Services",
+    "trade_sector": "IT & Telecommunications",
     "gri_percentage": 2.0,
     "pct_basis": "rental_income",
     "source_page": 39

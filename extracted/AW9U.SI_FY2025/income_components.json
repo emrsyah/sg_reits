@@ -33,7 +33,7 @@
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "valuation_expenses",
+    "component": "valuation_fees",
     "amount": 311000,
     "currency": "SGD",
     "label_raw": "Valuation expenses",
@@ -43,10 +43,10 @@
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "professional_fees",
+    "component": "professional_fees_property",
     "amount": 930000,
     "currency": "SGD",
-    "label_raw": "Professional fees",
+    "label_raw": "Professional fees (property operating)",
     "source_page": 173
   },
   {
@@ -66,7 +66,7 @@
     "component": "other_property_expenses",
     "amount": 286000,
     "currency": "SGD",
-    "label_raw": "Others",
+    "label_raw": "Others (property operating expenses)",
     "source_page": 173
   },
   {
@@ -76,18 +76,28 @@
     "component": "finance_income",
     "amount": 269000,
     "currency": "SGD",
-    "label_raw": "Finance income",
-    "source_page": 127
+    "label_raw": "Finance income (bank deposits)",
+    "source_page": 174
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "management_fees",
-    "amount": 8502000,
+    "component": "management_fee_base",
+    "amount": 3575000,
     "currency": "SGD",
-    "label_raw": "Manager's management fees",
-    "source_page": 127
+    "label_raw": "Manager's management fees — base fees",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "management_fee_performance",
+    "amount": 4927000,
+    "currency": "SGD",
+    "label_raw": "Manager's management fees — performance fees",
+    "source_page": 174
   },
   {
     "symbol": "AW9U.SI",
@@ -113,21 +123,81 @@
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "finance_costs",
-    "amount": 20900000,
+    "component": "finance_costs_interest",
+    "amount": 16195000,
     "currency": "SGD",
-    "label_raw": "Finance costs",
-    "source_page": 127
+    "label_raw": "Finance costs — interest expense on borrowings",
+    "source_page": 174
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "other_trust_expenses",
-    "amount": 4647000,
+    "component": "finance_costs_amortisation",
+    "amount": 4705000,
     "currency": "SGD",
-    "label_raw": "Other expenses",
-    "source_page": 127
+    "label_raw": "Finance costs — amortisation of transaction costs (borrowings, guarantee fees, letter of credit fees)",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "depreciation",
+    "amount": 15000,
+    "currency": "SGD",
+    "label_raw": "Depreciation",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "handling_and_processing_fees",
+    "amount": 360000,
+    "currency": "SGD",
+    "label_raw": "Handling and processing fees",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "professional_fees_trust",
+    "amount": 728000,
+    "currency": "SGD",
+    "label_raw": "Professional fees (other expenses)",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "project_expenses",
+    "amount": 3431000,
+    "currency": "SGD",
+    "label_raw": "Project expenses",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "losses_on_disposal_quoted_shares",
+    "amount": 1000,
+    "currency": "SGD",
+    "label_raw": "Losses on disposal of quoted shares",
+    "source_page": 174
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_expenses",
+    "amount": 112000,
+    "currency": "SGD",
+    "label_raw": "Others (other expenses)",
+    "source_page": 174
   },
   {
     "symbol": "AW9U.SI",
@@ -143,7 +213,7 @@
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "gain_loss_on_disposal",
+    "component": "loss_on_disposal_subsidiary",
     "amount": -7535000,
     "currency": "SGD",
     "label_raw": "Loss on disposal of a subsidiary",
@@ -163,7 +233,7 @@
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "net_foreign_exchange",
+    "component": "foreign_exchange_losses",
     "amount": -8308000,
     "currency": "SGD",
     "label_raw": "Net foreign exchange (losses)/gains",

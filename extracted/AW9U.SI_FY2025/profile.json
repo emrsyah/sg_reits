@@ -20,49 +20,49 @@
     },
     {
       "role": "master_lessee",
-      "company_name": "PT Siloam International Hospitals Tbk (Indonesia hospitals)"
+      "company_name": "PT Siloam International Hospitals Tbk"
     },
     {
       "role": "master_lessee",
-      "company_name": "PT Lippo Karawaci Tbk (Indonesia hospitals, joint tenant)"
+      "company_name": "PT Lippo Karawaci Tbk"
     },
     {
       "role": "master_lessee",
-      "company_name": "PT Metropolis Propertindo Utama (Indonesia: Sriwijaya, Purwakarta, Kupang)"
+      "company_name": "Hikari Heights Varus Co., Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Hikari Heights Varus Co., Ltd. (Japan nursing homes)"
+      "company_name": "PT Metropolis Propertindo Utama"
     },
     {
       "role": "master_lessee",
-      "company_name": "BEC Co., Ltd. (Japan nursing homes)"
+      "company_name": "BEC Co., Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Orchard Care Co., Ltd. (Japan nursing homes)"
+      "company_name": "The Lentor Residence Pte. Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Social Welfare Research Institute Co., Ltd. (Japan nursing home)"
+      "company_name": "Orchard Care Co., Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Benesse Style Care Co., Ltd. (Japan nursing home)"
+      "company_name": "Precious Homes Pte. Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Precious Homes Pte. Ltd. (Singapore nursing home)"
+      "company_name": "Precious Homes Bukit Panjang Pte. Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "Precious Homes Bukit Panjang Pte. Ltd. (Singapore nursing home)"
+      "company_name": "Benesse Style Care Co., Ltd."
     },
     {
       "role": "master_lessee",
-      "company_name": "The Lentor Residence Pte. Ltd. (Singapore nursing home)"
+      "company_name": "Social Welfare Research Institute Co., Ltd."
     }
   ],
-  "income_model": "mixed",
+  "income_model": "master_lease",
   "source_page": 19
 }
