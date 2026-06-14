@@ -137,6 +137,32 @@ running; they change reconciliation and what stays null. Watch for them in the c
   on the trust's FY-end, not 31 Dec. Distribution payment dates can fall after FY-end (normal).
   locate.py's sub_sector guess is unaffected, but get the FY-end right when stamping records and
   reading "2H" distribution lines.
+- **SFP line ≠ Statement-of-Portfolio valuation** (DHLU). The balance-sheet "Investment
+  properties" line can be INFLATED vs the Portfolio Statement by IFRS-16 ROU assets (ground
+  leases) and Asset Retirement Obligations (DHLU: SFP S$984,117k vs valuation S$835,157k, a
+  S$148,960k gap). `market_valuation` = the **"Investment properties, at valuation"** figure in
+  the Portfolio Statement reconciliation box, NOT the SFP line. The Portfolio Statement usually
+  prints the reconciliation explicitly at the bottom.
+- **Concentration disclosed by NPI, not GRI** (DHLU). Most trusts give top-tenant / trade-mix %
+  by gross rental income; some give it by NPI. Set `pct_basis="npi"` (not `gri`) and don't
+  assume the basis — read the table caption/footnote.
+- **Dual-currency Portfolio Statement prints both currencies** (CLCT: RMB'000 + S$'000 side by
+  side). They are the SAME fact in two currencies — do NOT add them. Canonical figure = the
+  SGD consolidated column (matches the audited FS); preserve the local-currency column in an
+  audit field (e.g. `_rmb_valuation_000`). Two FX rates exist: closing (valuation) vs average
+  (income) — keep them straight.
+- **Multi-tier trade-mix (don't double-count)** (CLCT: segment → sub-category). Some trusts give
+  a top-level segment breakdown AND a sub-category breakdown that rolls up into it. Capture ONE
+  level (usually the leaf sub-categories) so the percentages sum to 100% once; disambiguate
+  repeated leaf names (e.g. two "E-commerce" rows) via `category_raw`.
+- **Stapled group: dual REIT-vs-BT Portfolio Statement blocks** (HMN/CapitaLand Ascott). The
+  business-trust assets (some investment properties + PPE hotels) sit in SEPARATE blocks with
+  only a Stapled-Group column (the REIT-Group column is blank/dashes). Reconcile each block to
+  its own stated total; PPE hotels may be disclosed only as a block total (per-property null).
+  A "Not applicable" valuation cell (HMN: 8 AU + some FR rows) is a legit null, not an error.
+- **Under-construction / redevelopment property** (M44U: 5A Joo Koon; MLT Subang parcels). A
+  property mid-redevelopment shows zero revenue + zero/low occupancy and possibly a large
+  valuation jump on completion — record the figures as-disclosed; this is not a data error.
 
 ---
 
