@@ -69,9 +69,18 @@
       "status": "done",
       "method": "llm_only",
       "adapterable": true,
-      "rows": 8,
-      "cross_check": {"vs": "Note 3 (Gross Revenue) and Note 4 (Property Expenses) page 187", "match": "Revenue lines sum to S$727,026k = stated gross revenue. Expense lines sum to S$101,733k = stated property expenses."},
-      "note": "Clean 2-column notes table on page 187 read directly from markdown."
+      "rows": 17,
+      "cross_check": {
+        "vs": "Note 3 (Gross Revenue) and Note 4 (Property Expenses) page 187 + Statements of Profit or Loss page 121",
+        "match": "Revenue lines sum to S$729,674k (gross revenue S$727,026k + interest income S$2,648k). Expense lines sum to S$361,869k. Adjustment lines sum to -S$158,909k. Σrev - Σexp + Σadj = S$208,896k = Profit for the year (Group). Diff = 0.",
+        "reconciliation_target": "Profit for the year (Group) S$208,896k — page 121",
+        "revenue_sum": 729674000,
+        "expense_sum": 361869000,
+        "adjustment_sum": -158909000,
+        "calculated_total": 208896000,
+        "reconciles": true
+      },
+      "note": "Originally captured only property revenue/opex from Note 3 & 4 (page 187, 8 lines). Extended 2026-06-14 to add all trust-level lines below NPI from the audited Statements of Profit or Loss (page 121): interest income, manager fees, trustee fees, other trust expenses (net), finance costs, FV derivatives change, FV investment properties movement, gain on disposal of subsidiary, income tax. Dividend income nil at Group level. Amortisation of FV guarantees nil at Group level. Both excluded."
     }
   },
   "final_dir": "extracted/M44U.SI_FY2025",
@@ -91,5 +100,6 @@
     {"quirk": "Subang 3 and Subang 4 zero revenue", "detail": "Both show nil revenue in the value table, consistent with potential amalgamation/conversion noted in footnote (r)."},
     {"quirk": "14 divestments in FY2025", "detail": "MLT divested 14 properties across Singapore, China, Japan and Malaysia during FY24/25 (per Manager's narrative page 3). All 17 divested rows (some were prior year) included in properties.json with status=divested and partial-year revenue where disclosed."}
   ],
-  "updated": "2026-06-14"
+  "updated": "2026-06-14",
+  "income_components_extended": "2026-06-14"
 }

@@ -68,18 +68,18 @@
       "status": "done",
       "method": "hybrid",
       "adapterable": true,
-      "plan": "extracted from markdown Notes 20+21 page 141",
+      "plan": "extracted from markdown Notes 20+21 page 141 + Consolidated Statement of Profit or Loss page 103",
       "deterministic_fields": ["symbol","financial_year","statement","component","amount","currency","label_raw","source_page"],
       "needs_llm_fields": ["component (canonical key mapping)"],
       "other_source_fields": [],
-      "rows": 7,
+      "rows": 19,
       "cross_check": {
-        "vs": "Note 20 total 441,362; Note 21 total 58,102",
-        "match": "Revenue sum=441,362k EXACT; Expense sum=58,102k EXACT",
+        "vs": "Consolidated Statement of Profit or Loss page 103; Profit after tax = 434,682k",
+        "match": "Σrev=456,673k − Σexp=158,777k + Σadj=136,786k = 434,682k EXACT",
         "gaps": ["financial.html (pages 141-143) covered NCI note (Note 26), not Notes 20/21; notes extracted from markdown directly"]
       },
       "files": {},
-      "note": "HTML parse page range mismatch: financial.html (PDF pages 141-143) contains Note 22-26 not Note 20-21. Notes 20+21 located at markdown page 141 (different PDF vs markdown page numbering). Extracted from markdown."
+      "note": "Note: this report uses SFRS(I) consolidated P&L (page 103) — no separate Trust-level Statement of Total Return. Full statement captured: 7 existing note-level revenue/opex lines retained; 12 new lines added below NPI (finance_income, finance_costs, trustee_fees, management_fee_base, management_fee_performance, audit_fees, valuation_fees, other_trust_expenses as expenses; net_gains_on_derivatives, gain_on_divestment, fair_value_change_investment_properties as adjustment gains; taxation as negative adjustment). Reconciles to Profit after tax 434,682k."
     },
     "profile": {
       "status": "done",
@@ -101,5 +101,5 @@
     "schema": "PASS",
     "check": "PASS"
   },
-  "updated": "2026-06-13"
+  "updated": "2026-06-14"
 }

@@ -33,11 +33,21 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "statement": "revenue",
-    "component": "other_income",
+    "component": "other_property_income",
     "amount": 277000,
     "currency": "EUR",
     "label_raw": "Other income",
     "source_page": 196
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "finance_income",
+    "amount": 532000,
+    "currency": "EUR",
+    "label_raw": "Finance income",
+    "source_page": 175
   },
   {
     "symbol": "UD1U.SI",
@@ -88,5 +98,95 @@
     "currency": "EUR",
     "label_raw": "Other expenses",
     "source_page": 196
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_costs",
+    "amount": 8197000,
+    "currency": "EUR",
+    "label_raw": "Finance costs",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "management_fees",
+    "amount": 1810000,
+    "currency": "EUR",
+    "label_raw": "Management fees",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fees",
+    "amount": 196000,
+    "currency": "EUR",
+    "label_raw": "Trustee's fees",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "administrative_costs",
+    "amount": 1706000,
+    "currency": "EUR",
+    "label_raw": "Administrative costs",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_trust_expenses",
+    "amount": 2227000,
+    "currency": "EUR",
+    "label_raw": "Other trust expenses",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "foreign_exchange_gain",
+    "amount": 2290000,
+    "currency": "EUR",
+    "label_raw": "Foreign exchange gain",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_derivatives",
+    "amount": -8542000,
+    "currency": "EUR",
+    "label_raw": "Change in fair value of financial derivatives",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_investment_properties",
+    "amount": -81970000,
+    "currency": "EUR",
+    "label_raw": "Change in fair value of investment properties",
+    "source_page": 175
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "income_tax_benefit",
+    "amount": 5802000,
+    "currency": "EUR",
+    "label_raw": "Income tax benefit/(expense)",
+    "source_page": 175
   }
 ]

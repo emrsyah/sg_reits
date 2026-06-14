@@ -118,16 +118,16 @@
       "deterministic_fields": ["label_raw", "amount"],
       "needs_llm_fields": ["component", "statement"],
       "other_source_fields": [],
-      "rows": 15,
+      "rows": 28,
       "cross_check": {
-        "vs": "Note 16 Gross Revenue (page 187) + Note 17 Property Expenses (page 187)",
-        "match": "PASS — Revenue Σ = 389,603k (matches Statement of Total Return). Expenses Σ = 111,623k (matches exactly). NPI check: 389,603k - 111,623k = 277,980k (matches).",
+        "vs": "Statement of Total Return page 146 + Note 16 Gross Revenue (page 187) + Note 17 Property Expenses (page 187)",
+        "match": "PASS — Revenue Σ = 390,227k; Expense Σ = 242,392k; Adjustment Σ = 52,027k; Total return = 199,862k (exact match to audited Statement of Total Return).",
         "gaps": []
       },
       "files": {
         "merged": "extracted/J69U.SI_FY2025/income_components.json"
       },
-      "note": "Revenue note has 4 line items; expenses note has 11 line items. All reconcile to Statement of Total Return."
+      "note": "Full Statement of Total Return captured (28 rows). Revenue: 4 property revenue lines (Note 16) + finance income. Expenses: 11 property opex lines (Note 17) + finance costs, asset management fees (base $22,370k + performance $18,067k aggregated), valuation fees, trustee's fees, audit fees, professional fees, other charges. Adjustments: share of JV results (NEX + Waterway Point, +$62,645k), gain on divestment (+$128k), net change in fair value of investment properties (-$11,130k), net foreign exchange loss (-$3k), taxation overprovision (+$387k). Reconciliation: 390,227k - 242,392k + 52,027k = 199,862k (exact)."
     }
   },
   "final_dir": "extracted/J69U.SI_FY2025",
@@ -135,5 +135,5 @@
     "schema": "PASS",
     "check": "PASS"
   },
-  "updated": "2026-06-14"
+  "updated": "2026-06-14T(income_components_expanded)"
 }

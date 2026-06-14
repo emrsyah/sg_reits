@@ -99,21 +99,22 @@
       "status": "done",
       "method": "hybrid",
       "adapterable": true,
-      "plan": "extracted from markdown Notes 18 and 19 (page 191, clean 2-col tables)",
+      "plan": "Notes 18/19 (page 191) for property-level lines; Consolidated Statement of Total Return (page 162) for below-NPI trust-level lines",
       "deterministic_fields": ["label_raw", "amount", "currency", "source_page"],
       "needs_llm_fields": ["component", "statement"],
       "other_source_fields": [],
-      "rows": 7,
+      "rows": 16,
       "cross_check": {
-        "vs": "Note 18 total S$57,794k = reported gross revenue; Note 19 total S$13,595k = reported property expenses",
-        "match": "Both reconcile exactly.",
+        "vs": "Full Statement of Total Return reconciliation: Σ(revenue) − Σ(expense) + Σ(adjustment) = Total return for the year",
+        "match": "58,678,000 − 27,009,000 + 3,985,000 = 35,654,000. Matches reported Total return S$35,654k exactly.",
         "gaps": []
       },
       "files": {"merged": "extracted/DHLU.SI_FY2025/income_components.json"},
-      "note": "Per REFERENCE §1: small clean 2-column tables extracted from markdown directly. Note 18 (Gross Revenue) + Note 19 (Property Operating Expenses). Source page set to 191 (markdown page numbering)."
+      "note": "Extended from 7 to 16 lines (2026-06-14). Property-level revenue/opex from Notes 18+19 (page 191) retained. Added from page 162: other_income (revenue), asset_management_fee + japan_asset_management_fee + trustee_fee + trust_expenses + finance_costs (expense), fair_value_change_investment_properties + fair_value_change_derivatives + tax_expense (adjustment, signed). Full TR reconciliation passes."
     }
   },
   "final_dir": "extracted/DHLU.SI_FY2025",
   "gates": {"schema": "PASS", "check": "PASS"},
-  "updated": "2026-06-14"
+  "updated": "2026-06-14",
+  "last_fix": "2026-06-14: income_components extended 7→16 lines (full Statement of Total Return captured, TR reconciliation verified)"
 }

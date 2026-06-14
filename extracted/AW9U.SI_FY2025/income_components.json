@@ -72,21 +72,111 @@
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
-    "statement": "adjustment",
-    "component": "rental_straightlining",
-    "amount": 7446000,
+    "statement": "revenue",
+    "component": "finance_income",
+    "amount": 269000,
     "currency": "SGD",
-    "label_raw": "Adjustment on rental straight-lining (included in rental income per Note 4)",
-    "source_page": 173
+    "label_raw": "Finance income",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "management_fees",
+    "amount": 8502000,
+    "currency": "SGD",
+    "label_raw": "Manager's management fees",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "asset_management_fees",
+    "amount": 1008000,
+    "currency": "SGD",
+    "label_raw": "Asset management fees",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fees",
+    "amount": 341000,
+    "currency": "SGD",
+    "label_raw": "Trustee fees",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_costs",
+    "amount": 20900000,
+    "currency": "SGD",
+    "label_raw": "Finance costs",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_trust_expenses",
+    "amount": 4647000,
+    "currency": "SGD",
+    "label_raw": "Other expenses",
+    "source_page": 127
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "statement": "adjustment",
-    "component": "variable_rent",
-    "amount": 3926000,
+    "component": "fair_value_change_investment_properties",
+    "amount": -3528000,
     "currency": "SGD",
-    "label_raw": "Variable rent (included in rental income per Note 16)",
-    "source_page": 173
+    "label_raw": "Net fair value losses on investment properties",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "gain_loss_on_disposal",
+    "amount": -7535000,
+    "currency": "SGD",
+    "label_raw": "Loss on disposal of a subsidiary",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_derivatives",
+    "amount": 473000,
+    "currency": "SGD",
+    "label_raw": "Net fair value gains of derivative financial instruments",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "net_foreign_exchange",
+    "amount": -8308000,
+    "currency": "SGD",
+    "label_raw": "Net foreign exchange (losses)/gains",
+    "source_page": 127
+  },
+  {
+    "symbol": "AW9U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "income_tax",
+    "amount": -14331000,
+    "currency": "SGD",
+    "label_raw": "Income tax expenses",
+    "source_page": 127
   }
 ]

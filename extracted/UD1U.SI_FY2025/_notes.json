@@ -60,6 +60,15 @@
     "net_property_income_eur": 32824000,
     "npi_reconciliation_status": "EXACT_MATCH",
     "npi_note": "NPI = gross revenue 50,434 - property operating expenses 17,610 = 32,824. Matches page 175.",
+    "income_statement_reconciliation": {
+      "sum_revenue_eur": 50966000,
+      "sum_expense_eur": 31746000,
+      "sum_adjustment_signed_eur": -82420000,
+      "computed_total_return_eur": -63200000,
+      "reported_total_return_eur": -63200000,
+      "status": "EXACT_MATCH",
+      "note": "Σ(revenue) - Σ(expense) + Σ(adjustment) = 50,966k - 31,746k + (-82,420k) = -63,200k. Matches 'Total (loss)/return for the year attributable to Unitholders' on page 175."
+    },
     "dpu_reconciliation": "DPU 1.09 EUR cents = H1 0.71 cents + H2 0.38 cents. Matches page 176.",
     "distribution_to_unitholders_eur": 14662000
   },
@@ -67,7 +76,7 @@
     "properties": "MARKDOWN: All 53 property rows extracted directly from audited Statement of Portfolio pages 179-181. Occupancy, NLA, gross_revenue from individual property cards (pages 45-88). All properties Freehold except 4 French leaseholds (Noyelles-Godault 8.5yr, Maizières-lès-Metz 17yr, Fayet 26.1yr, Blois 29.9yr). No German Erbbaurecht.",
     "top_tenants": "MARKDOWN: Page 39 table (10 rows named). Trade sectors mapped from tenant names and disclosed sector context.",
     "trade_mix": "MARKDOWN: Page 39 table (7 sectors). Mapped to canonical 19-value taxonomy.",
-    "financial": "MARKDOWN: Notes 3.2 and 3.3 from page 196 (4 revenue lines + 5 expense lines). EXACT MATCH confirmed.",
+    "financial": "MARKDOWN: Notes 3.2 and 3.3 from page 196 (4 revenue + 5 expense property-level lines) + Consolidated Statement of Total Return page 175 (1 revenue + 5 expense + 4 adjustment trust-level lines). Full TR reconciles to Total (loss)/return EUR -63,200k. EXACT MATCH confirmed.",
     "profile": "LLM_ONLY: Corporate directory page 235 + trust structure page 19.",
     "performance": "LLM_ONLY: Financial Review page 22 + Consolidated Statement of Distribution page 176 + Statistics of Unitholdings page 223."
   }

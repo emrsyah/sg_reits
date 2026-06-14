@@ -10,11 +10,11 @@
     "properties": {"status": "done", "method": "hybrid", "adapterable": true, "rows": 53, "cross_check": {"vs": "Statement of Portfolio p179-181 + cards p45-88", "match": "Σ EUR 804,280,000 = Note 2.3 total — EXACT", "gaps": []}, "note": "markdown-deterministic; EUR"},
     "top_tenants": {"status": "done", "method": "hybrid", "adapterable": true, "rows": 10, "cross_check": {"vs": "page 39", "match": "all named; Decathlon 20.8%", "gaps": []}},
     "trade_mix": {"status": "done", "method": "hybrid", "adapterable": true, "rows": 7, "cross_check": {"vs": "page 39", "match": "rental_income basis; sums to 100.0%", "gaps": []}},
-    "financial": {"status": "done", "method": "hybrid", "adapterable": true, "rows": 9, "cross_check": {"vs": "Notes 3.2+3.3 p196", "match": "revenue EUR 50,434k + expense EUR 17,610k — both EXACT", "gaps": []}}
+    "financial": {"status": "done", "method": "hybrid", "adapterable": true, "rows": 19, "cross_check": {"vs": "Notes 3.2+3.3 p196 + Consolidated Statement of Total Return p175", "match": "Σ(revenue) 50,966k − Σ(expense) 31,746k + Σ(adj) −82,420k = −63,200k total return — EXACT", "gaps": []}}
   },
   "final_dir": "extracted/UD1U.SI_FY2025",
   "gates": {"schema": "PASS", "check": "PASS"},
-  "gate_detail": {"schema": "81 valid, 0 invalid", "check": "0 fail, 0 warn, 4 info"},
+  "gate_detail": {"schema": "91 valid, 0 invalid", "check": "0 fail, 0 warn, 4 info"},
   "currency": "EUR",
   "market_valuation_total_eur": 804280000,
   "quirks": [

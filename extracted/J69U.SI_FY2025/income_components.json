@@ -33,11 +33,21 @@
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "statement": "revenue",
-    "component": "other_income",
+    "component": "other_property_income",
     "amount": 14584000,
     "currency": "SGD",
     "label_raw": "Others",
     "source_page": 187
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "finance_income",
+    "amount": 624000,
+    "currency": "SGD",
+    "label_raw": "Finance income",
+    "source_page": 146
   },
   {
     "symbol": "J69U.SI",
@@ -143,10 +153,130 @@
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "statement": "expense",
-    "component": "other_expenses",
+    "component": "other_property_expenses",
     "amount": 3792000,
     "currency": "SGD",
     "label_raw": "Others",
     "source_page": 187
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_costs",
+    "amount": 86163000,
+    "currency": "SGD",
+    "label_raw": "Finance costs",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "asset_management_fees",
+    "amount": 41187000,
+    "currency": "SGD",
+    "label_raw": "Asset management fees",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "valuation_fees",
+    "amount": 148000,
+    "currency": "SGD",
+    "label_raw": "Valuation fees",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fees",
+    "amount": 1132000,
+    "currency": "SGD",
+    "label_raw": "Trustee's fees",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "audit_fees",
+    "amount": 312000,
+    "currency": "SGD",
+    "label_raw": "Audit fees",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "professional_fees",
+    "amount": 1058000,
+    "currency": "SGD",
+    "label_raw": "Professional fees",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_trust_expenses",
+    "amount": 769000,
+    "currency": "SGD",
+    "label_raw": "Other charges",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "share_of_results_of_joint_ventures",
+    "amount": 62645000,
+    "currency": "SGD",
+    "label_raw": "Share of results of joint ventures",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "gain_on_divestment",
+    "amount": 128000,
+    "currency": "SGD",
+    "label_raw": "Gain on divestment of investment property and investment in joint venture",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "net_change_in_fair_value_of_investment_properties",
+    "amount": -11130000,
+    "currency": "SGD",
+    "label_raw": "Net change in fair value of investment properties",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "net_foreign_exchange_loss",
+    "amount": -3000,
+    "currency": "SGD",
+    "label_raw": "Net foreign exchange loss",
+    "source_page": 146
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "taxation",
+    "amount": 387000,
+    "currency": "SGD",
+    "label_raw": "Taxation",
+    "source_page": 146
   }
 ]

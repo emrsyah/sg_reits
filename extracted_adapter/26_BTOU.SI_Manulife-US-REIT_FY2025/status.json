@@ -73,20 +73,20 @@
       "status": "done",
       "method": "hybrid",
       "adapterable": true,
-      "plan": "plan_financial.json (inline - Note 15/16 tables p138 parsed directly)",
+      "plan": "plan_financial.json (inline - Note 15/16 tables p138 + Consolidated Statement of Comprehensive Income p103)",
       "deterministic_fields": ["symbol", "financial_year", "amount", "currency", "label_raw", "source_page"],
-      "needs_llm_fields": ["component (canonical key)", "statement (revenue/expense)"],
+      "needs_llm_fields": ["component (canonical key)", "statement (revenue/expense/adjustment)"],
       "other_source_fields": [],
-      "rows": 10,
+      "rows": 19,
       "cross_check": {
-        "vs": "Note 15 total = 113,914 US$'000; Note 16 total = 60,736 US$'000",
-        "match": "Revenue sum 61,031+42,035+9,469+1,379 = 113,914. Expense sum 12,625+15,575+8,942+10,674+291+12,629 = 60,736. Both reconcile exactly.",
+        "vs": "Note 15 total = 113,914 US$'000; Note 16 total = 60,736 US$'000; Consolidated Statement of Comprehensive Income p103 net loss = (87,653) US$'000",
+        "match": "Revenue sum (115,299k) - Expense sum (100,370k) + Adjustment sum (-102,582k) = -87,653k. Matches 'Net loss for the year attributable to Unitholders' exactly.",
         "gaps": []
       },
       "files": {
-        "merged": "extracted_hybrid/BTOU.SI_FY2025/income_components.json"
+        "merged": "extracted/BTOU.SI_FY2025/income_components.json"
       },
-      "note": "Notes 15 and 16 on page 138. USD'000 scale x1000 applied. NPI check: 113,914 - 60,736 = 53,178 matches reported NPI."
+      "note": "Notes 15 and 16 on page 138 (property revenue/opex breakdown). Full trust-level lines added from Consolidated Statement of Comprehensive Income on page 103: interest income, manager base fee, trustee fee, other trust expenses, finance expenses, fair value changes (derivatives and investment properties), loss on disposal, tax. All 9 below-NPI lines captured. Adjustment amounts are signed (negative = loss/expense/write-down). Reconciliation: R(115,299) - E(100,370) + A(-102,582) = -87,653k exact. Updated 2026-06-14."
     },
     "profile": {
       "status": "done",
@@ -128,5 +128,5 @@
     "schema": "41 valid, 0 invalid",
     "check": "0 fail, 2 warn, 0 info. Warns: property GR/NPI sums vs reported differ by ~7% due to divested-in-year Plaza/Peachtree; documented in _notes.reconciliation."
   },
-  "updated": "2026-06-13"
+  "updated": "2026-06-14"
 }

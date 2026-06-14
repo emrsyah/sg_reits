@@ -77,14 +77,14 @@
       "status": "done",
       "method": "hybrid",
       "adapterable": true,
-      "plan": "Note 16 (Rental and other income) + Note 17 (Property operating expenses) — clean 2-col $'000 grids. Extracted directly from markdown (Note 16 is simple 3-line table; Note 17 is 5-line table). component mapping: needs_llm for canonical keys.",
+      "plan": "Note 16 (Rental and other income) + Note 17 (Property operating expenses) + full Statement of Total Return (p.127) — all lines from gross revenue through total return after tax captured.",
       "deterministic_fields": ["label_raw", "amount", "currency", "source_page"],
       "needs_llm_fields": ["component", "statement"],
       "other_source_fields": [],
-      "rows": 9,
+      "rows": 20,
       "cross_check": {
-        "vs": "Note 16 total $100,531k; Note 17 total $3,191k; NPI = $97,340k",
-        "match": "Revenue sum: $100,531k (rental $100,526k + div $5k). Expense sum: $3,191k. NPI implied: $97,340k. All match segment note.",
+        "vs": "Statement of Total Return p.127 (Group 2025): Total return after tax = $28,982k",
+        "match": "Σ revenue $100,800k − Σ expense $38,589k + Σ adj signed (−$33,229k) = $28,982k. Exact match. Revenue: rental $100,526k + dividend $5k + finance income $269k. Expense: property opex $3,191k + mgmt fees $8,502k + asset mgmt $1,008k + trustee $341k + finance costs $20,900k + other $4,647k. Adj: FV losses IP −$3,528k, disposal loss −$7,535k, FV gains derivatives +$473k, FX losses −$8,308k, tax −$14,331k. Note: rental_straightlining (+$7,446k) and variable_rent (+$3,926k) are note-16 sub-disclosures already embedded in rental_income; excluded from P&L reconciliation.",
         "gaps": []
       },
       "files": {
@@ -92,7 +92,7 @@
         "llm_filled": null,
         "merged": "extracted_hybrid/AW9U.SI_FY2025/income_components.json"
       },
-      "note": "Note 16 clean grid (p.173). Note 17 clean grid (p.173). Adjustment rows added for straight-lining and variable rent (both disclosed in Note 16 footnote). Fell back to direct markdown read (no HTML parse needed — grid is clean 4-col table already parsed)."
+      "note": "Phase D fix: added 11 below-NPI lines from Statement of Total Return (p.127): finance_income, management_fees, asset_management_fees, trustee_fees, finance_costs, other_trust_expenses, fair_value_change_investment_properties, gain_loss_on_disposal, fair_value_change_derivatives, net_foreign_exchange, income_tax. P&L reconciles exactly to $28,982k. Note 16 clean grid (p.173). Adjustment rows rental_straightlining and variable_rent retained as note-disclosure entries (not standalone P&L lines). Updated 2026-06-14."
     },
     "profile": {
       "status": "done",
@@ -138,5 +138,5 @@
     "schema": "PASS",
     "check": "PASS"
   },
-  "updated": "2026-06-13"
+  "updated": "2026-06-14"
 }

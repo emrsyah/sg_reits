@@ -98,5 +98,95 @@
     "currency": "USD",
     "label_raw": "Other operating expenses",
     "source_page": 138
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "interest_income",
+    "amount": 1385000.0,
+    "currency": "USD",
+    "label_raw": "Interest income",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "manager_base_fee",
+    "amount": 2838000.0,
+    "currency": "USD",
+    "label_raw": "Manager's base fee",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fee",
+    "amount": 180000.0,
+    "currency": "USD",
+    "label_raw": "Trustee's fee",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_trust_expenses",
+    "amount": 2008000.0,
+    "currency": "USD",
+    "label_raw": "Other trust expenses",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_expenses",
+    "amount": 34608000.0,
+    "currency": "USD",
+    "label_raw": "Finance expenses",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_derivatives",
+    "amount": -11666000.0,
+    "currency": "USD",
+    "label_raw": "Net fair value change in derivatives",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_investment_properties",
+    "amount": -83515000.0,
+    "currency": "USD",
+    "label_raw": "Net fair value change in investment properties",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "loss_on_disposal_investment_properties",
+    "amount": -3323000.0,
+    "currency": "USD",
+    "label_raw": "Loss on disposal of investment properties",
+    "source_page": 103
+  },
+  {
+    "symbol": "BTOU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "tax_expense",
+    "amount": -4078000.0,
+    "currency": "USD",
+    "label_raw": "Tax (expense)/income",
+    "source_page": 103
   }
 ]

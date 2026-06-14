@@ -108,18 +108,19 @@
       "deterministic_fields": ["label_raw", "amount", "statement"],
       "needs_llm_fields": ["component"],
       "other_source_fields": [],
-      "rows": 13,
+      "rows": 29,
       "cross_check": {
-        "vs": "page 213 Note 22 Gross Revenue (total SGD 837,584k) + Note 23 Direct Expenses (total SGD 452,283k)",
-        "match": "PASS - sums match",
+        "vs": "page 114 Consolidated Statements of Total Return (Stapled Group column) + page 213 Note 22 + Note 23",
+        "match": "PASS - full reconciliation: Σrevenue(845,630) − Σexpense(638,132) + Σadj(125,125) = 332,623k == Total return for the year",
         "gaps": []
       },
       "files": {"merged": "extracted/HMN.SI_FY2025/income_components.json"},
-      "note": "Extracted from markdown (not HTML adapter) per Phase-D lesson: Notes 22 and 23 are clean 2-column tables well within a single page - markdown extraction is reliable. Stapled Group column used throughout. Revenue 5 lines, Expense 8 lines. Total revenue = 653,809 + 23,129 + 154,672 + 425 + 5,549 = 837,584k. Total expense = 79,411 + 133,695 + 32,305 + 44,230 + 16,449 + 60,023 + 53,540 + 32,630 = 452,283k."
+      "note": "Stapled Group column used throughout (REIT + BT combined). Revenue 7 lines: Notes 22 sub-lines (5) + finance income + other income from page 114 statement. Expense 15 lines: Notes 23 sub-lines (8) + 7 trust-level cost lines from page 114 (depreciation land/buildings, finance costs, managers management fees, trustee fee, professional fees, audit fees, other operating expenses). Adjustment 7 lines (signed): foreign exchange gain +39,688k; net change FV investment properties +135,726k; revaluation deficit land/buildings -7,257k; net change FV financial derivatives -30,213k; profit from divestments +99,038k; investment properties written off -102k; income tax expense -111,755k. Share of results of associate = nil (Stapled Group). Note: net change in fair value of investment securities is zero for Stapled Group (only REIT Group had -155k; BT Group had nil) — omitted as zero."
     }
   },
   "final_dir": "extracted/HMN.SI_FY2025",
   "gates": {"schema": "PASS", "check": "PASS (0 fail, 1 warn, 3 info)"},
   "gate_notes": "WARN: 24 leasehold rows have lease_term_years but null lease_expiry_date. The Portfolio Statement discloses 'Remaining Term of Lease' (years remaining) but not the actual expiry date. Computing expiry from remaining term + valuation date is possible but introduces imprecision (partial-year rounding). Declared legitimate gap — the statement does not print explicit expiry calendar dates.",
-  "updated": "2026-06-14"
+  "updated": "2026-06-14",
+  "income_patch": "2026-06-14 — full Statement of Total Return captured (13→29 lines); all below-gross-profit trust-level lines added from page 114 Stapled Group column; reconciliation verified exact"
 }

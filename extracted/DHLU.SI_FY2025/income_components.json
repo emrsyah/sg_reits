@@ -68,5 +68,95 @@
     "currency": "SGD",
     "label_raw": "Other operating expenses",
     "source_page": 191
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_income",
+    "amount": 884000,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "asset_management_fee",
+    "amount": 2075000,
+    "currency": "SGD",
+    "label_raw": "Manager's management fees",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "japan_asset_management_fee",
+    "amount": 1067000,
+    "currency": "SGD",
+    "label_raw": "Japan asset management fees",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trustee_fee",
+    "amount": 283000,
+    "currency": "SGD",
+    "label_raw": "Trustee's fee",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "trust_expenses",
+    "amount": 773000,
+    "currency": "SGD",
+    "label_raw": "Trust expenses",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "finance_costs",
+    "amount": 9216000,
+    "currency": "SGD",
+    "label_raw": "Finance expenses",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_investment_properties",
+    "amount": 10232000,
+    "currency": "SGD",
+    "label_raw": "Fair value change in investment properties",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "fair_value_change_derivatives",
+    "amount": -174000,
+    "currency": "SGD",
+    "label_raw": "Fair value change in derivatives",
+    "source_page": 162
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "statement": "adjustment",
+    "component": "tax_expense",
+    "amount": -6073000,
+    "currency": "SGD",
+    "label_raw": "Tax expenses",
+    "source_page": 162
   }
 ]
