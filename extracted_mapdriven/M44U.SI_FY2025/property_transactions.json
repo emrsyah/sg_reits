@@ -1,0 +1,145 @@
+[
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Mapletree Logistics Hub – Jubli Shah Alam",
+    "country": "Malaysia",
+    "completion_date": "2024-05-17",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Hung Yen Logistics Park I",
+    "country": "Vietnam",
+    "completion_date": "2024-06-19",
+    "consideration": null,
+    "currency": "SGD",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Mapletree Logistics Park Phase 3",
+    "country": "Vietnam",
+    "completion_date": "2024-06-20",
+    "consideration": null,
+    "currency": "SGD",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "30 Tuas South Avenue 8",
+    "country": "Singapore",
+    "completion_date": "2024-06-14",
+    "consideration": null,
+    "currency": "SGD",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "119 Neythal Road",
+    "country": "Singapore",
+    "completion_date": "2024-09-12",
+    "consideration": null,
+    "currency": "SGD",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Toki Centre",
+    "country": "Japan",
+    "completion_date": "2024-11-27",
+    "consideration": null,
+    "currency": "JPY",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Aichi Miyoshi Centre",
+    "country": "Japan",
+    "completion_date": "2024-11-27",
+    "consideration": null,
+    "currency": "JPY",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Padi Warehouse",
+    "country": "Malaysia",
+    "completion_date": "2024-05-31",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Flexhub",
+    "country": "Malaysia",
+    "completion_date": "2024-09-23",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Celestica Hub",
+    "country": "Malaysia",
+    "completion_date": "2025-01-28",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Zentraline",
+    "country": "Malaysia",
+    "completion_date": "2025-01-28",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Linfox",
+    "country": "Malaysia",
+    "completion_date": "2025-03-19",
+    "consideration": null,
+    "currency": "MYR",
+    "source_page": 34
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Mapletree Xi'an Logistics Park",
+    "country": "China",
+    "completion_date": "2024-11-15",
+    "consideration": null,
+    "currency": "SGD",
+    "source_page": 34
+  }
+]

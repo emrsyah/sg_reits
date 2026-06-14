@@ -1,0 +1,96 @@
+{
+  "symbol": "AU8U.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "properties.nla",
+      "reason": "Logistics Parks (Shanghai Fengxian, Chengdu Shuangliu, Wuhan Yangluo, Kunshan Bacheng) do not disclose NLA separately in their property information tables; only GFA is given"
+    },
+    {
+      "column": "properties.major_tenant",
+      "reason": "Not disclosed per-property in a single audited source; property cards mention brand names in narrative but no structured per-property top-tenant table"
+    },
+    {
+      "column": "properties.trade_mix",
+      "reason": "Per-property trade_mix is available from property cards (pages 42-55) but is not in scope for the schema property-level trade_mix field; captured at portfolio level in trade_mix.json"
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "CLCR investment",
+      "value": "5.0% equity interest in CapitaLand Commercial C-REIT (CLCR); cost RMB 114.4m; current value RMB 130.5m as Dec 2025",
+      "source_page": 57
+    },
+    {
+      "item": "Dual FX rates",
+      "value": "Average SGD/RMB rate FY2025: 5.499; closing rate implied from Portfolio Statement: SGD/RMB ~5.468 (22,981,000 RMB / 4,204,374 SGD in '000 terms)",
+      "source_page": 100
+    },
+    {
+      "item": "Ascendas Xinsu Portfolio ownership",
+      "value": "CLCT owns 51% of Ascendas Xinsu Portfolio; shown at 100% in Portfolio Statement consistent with consolidation",
+      "source_page": 101
+    },
+    {
+      "item": "NCI entities",
+      "value": "Non-controlling interests of $288,293k relate to Xinsu subgroup (51% owned) and other subsidiaries",
+      "source_page": 99
+    },
+    {
+      "item": "SHSTP Phase I and II ownership",
+      "value": "CLCT owns 80% of Singapore-Hangzhou Science & Technology Park Phase I and Phase II",
+      "source_page": 32
+    },
+    {
+      "item": "Ascendas Innovation Hub ownership",
+      "value": "CLCT owns 80% of Ascendas Innovation Hub",
+      "source_page": 32
+    },
+    {
+      "item": "Distribution top-up",
+      "value": "S$5.7m distribution top-up applied in 2025 representing approximately the distribution income CapitaMall Yuhuating would have contributed from 1 Apr 2025 to 31 Dec 2025; funded through debt",
+      "source_page": 96
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Dual-currency Portfolio Statement",
+      "detail": "Pages 100-102 show RMB'000 and S$'000 side by side for each property. They represent the SAME valuation in two currencies — do not add them. SGD column used as canonical (consolidated audited)."
+    },
+    {
+      "trap": "Management fee split",
+      "detail": "The face of Statement of Total Return (p95) shows Manager's management fees as a single line $17,613k. Note 20 (p148) splits this into base fee $10.3m and performance fee $7.3m. Income_components captures both sub-lines; total matches face."
+    },
+    {
+      "trap": "CapitaMall Yuhuating divested in-year",
+      "detail": "Property shows zero valuation in 2025 Portfolio Statement (divested 31 Oct 2025). Partial-year P&L ($4,027k GR / $2,531k NPI from page 27) included in properties.json with status=divested and market_valuation=null."
+    },
+    {
+      "trap": "Trade-mix multi-tier structure",
+      "detail": "Page 31 shows three sub-sector blocks (Retail 69.3%, Business Parks 27.0%, Logistics 3.7%) and leaf-level categories within each. Leaf-level categories captured in trade_mix.json. The three sub-sector totals are NOT captured as additional rows to avoid double-counting."
+    },
+    {
+      "trap": "Non-controlling interest in Ascendas Xinsu",
+      "detail": "Portfolio Statement reports Ascendas Xinsu at 100% value (consolidated per SFRS). The 49% NCI share is deducted in the net assets reconciliation. market_valuation in properties.json = 100% consolidated figure as shown in Portfolio Statement."
+    }
+  ],
+  "reconciliation": {
+    "income_components_reconciliation": {
+      "sum_revenue_000": 307262,
+      "sum_expense_000": 182992,
+      "sum_adjustment_signed_000": -118697,
+      "computed_total_return_000": 5573,
+      "reported_total_return_after_tax_000": 5573,
+      "match": true,
+      "note": "Computed = 307262 - 182992 + (-118697) = 5573. Matches audited Total return for the year after taxation on p95."
+    },
+    "sum_property_gross_revenue_sgd_000": 303720,
+    "reported_total_gross_revenue_sgd_000": 303720,
+    "sum_property_npi_sgd_000": 200895,
+    "reported_total_npi_sgd_000": 200895,
+    "sum_property_market_valuation_sgd_active_000": 4204374,
+    "reported_total_investment_properties_valuation_000": 4204374,
+    "valuation_match": true,
+    "note_valuation": "Sum of 16 active properties SGD '000 from Portfolio Statement pages 100-102: 684416+623859+516285+325651+327298+238384+188438+67509+428103+147275+186060+159349+61105+80132+59093+59642+51775 = 4,204,374. Matches 'Investment properties, at valuation (Note 4)' on p102."
+  }
+}

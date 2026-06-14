@@ -1,0 +1,146 @@
+[
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Food & Beverages",
+    "category_raw": "F&B",
+    "pct": 19.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Consumer Staples",
+    "pct": 17.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Electronics & IT",
+    "pct": 13.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Automobiles",
+    "pct": 6.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Fashion, Apparel & Cosmetics",
+    "pct": 6.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Construction & Engineering",
+    "category_raw": "Materials, Construction & Engineering",
+    "pct": 6.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 4.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Chemicals",
+    "pct": 4.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Information Communication Technology",
+    "pct": 4.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Commodities",
+    "pct": 4.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare, Pharmaceuticals & Life Sciences",
+    "category_raw": "Healthcare",
+    "pct": 3.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Furniture & Furnishings",
+    "pct": 3.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Energy & Utilities",
+    "category_raw": "Oil, Gas, Energy & Marine",
+    "pct": 1.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Document Storage",
+    "pct": 1.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Commercial Printing",
+    "pct": 1.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  },
+  {
+    "symbol": "M44U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Others",
+    "pct": 8.0,
+    "pct_basis": "gross_revenue",
+    "source_page": 50
+  }
+]

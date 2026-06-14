@@ -70,6 +70,13 @@ How to read it (it is ROUTING, not data — never extract numbers from a summary
 - Cross-check at the end: every schema table you extracted should correspond to its
   candidate page(s); a table with candidates but no extracted rows is a missed section.
 - Pages are `md_page` = physical PDF page (same numbering as `parse_html --page-range`).
+- **`profile` is NOT map-reliable** — the management/`Trust Structure` page is often a
+  diagram with little text, which the SLM summarises as "no schema-relevant data", so it may
+  be absent from the profile rollup (validated: C38U/AU8U/M44U all under-mapped profile).
+  Don't depend on the map for profile/management entities — read the front matter directly
+  (Trust Structure diagram + Corporate Information, usually the first ~20 pages). The map is
+  strong for the 5 grid tables (properties, financial, top_tenants, trade_mix, performance),
+  which is where under-capture actually bites.
 
 ### Step 3 — Per section: judge → plan → run → cross-check → LLM → merge
 
