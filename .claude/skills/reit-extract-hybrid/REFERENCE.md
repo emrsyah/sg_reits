@@ -114,6 +114,30 @@ first column is blank for every data row (no label), it's a positional split →
 section to `llm_only` (or the positional-join mode once built). One clean labelled grid (even
 if spread over many same-shaped pages) → `hybrid`.
 
+### Cross-trust quirks observed (canary log — extend as new reports surface more)
+
+These are **data-semantics** quirks (not engine-shape quirks). They don't stop the adapter
+running; they change reconciliation and what stays null. Watch for them in the cross-check.
+
+- **JV property absent from the Portfolio Statement** (FCT: NEX, Waterway Point — 50% each).
+  Some trusts hold JV/associate properties via a single "Investment in joint ventures" line in
+  the audited statement, so the individual property is NOT a row in the Portfolio Statement.
+  Its appraised value appears only on the per-property card on a **100% basis**. Record it with
+  `value_basis="joint_venture_100pct"` and `source_page` = the card. Σ-reconciliation of the
+  Portfolio Statement rows will (correctly) exclude these — do NOT treat the shortfall as a
+  miss. (Contrast: CICT keeps JV assets like Gallileo IN the Portfolio Statement at 100% with a
+  stake footnote.) Confirm by checking whether the Portfolio-Statement total + JV book value
+  ≈ marketing total.
+- **Segment-aggregated multi-property rows** (FCT: Northpoint City NW+SW + Yishun 10 reported as
+  one segment). When a trust buys a second wing/building mid-year and/or divests in the same
+  segment, the audited segment note may collapse several properties into ONE row, making
+  per-property GR/NPI unsplittable. Assign the combined figure to the anchor property, null the
+  others' GR/NPI, and record the constraint in `_notes`.
+- **Non-December fiscal year-end** (FCT: 30 Sep). `financial_year=YYYY` means the year ENDING
+  on the trust's FY-end, not 31 Dec. Distribution payment dates can fall after FY-end (normal).
+  locate.py's sub_sector guess is unaffected, but get the FY-end right when stamping records and
+  reading "2H" distribution lines.
+
 ---
 
 ## §3 — status.json schema (per AR)

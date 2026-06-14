@@ -1,0 +1,118 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI is disclosed for directly-held properties in the segment note (page 34) but Northpoint City North Wing and South Wing are reported together as a segment ('Northpoint City and Y10'). NPI cannot be split between North Wing and South Wing individually from the audited statements."
+    },
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Same as NPI — Northpoint City North and South Wing revenues are reported as a combined segment. Individual wing revenues not separately disclosed in the audited statements."
+    },
+    {
+      "column": "properties.market_valuation (NEX, Waterway Point)",
+      "reason": "NEX and Waterway Point are held via JVs (GRPL and SST). They do not appear in the Group Portfolio Statement investment properties table. The per-property card shows '100% basis' valuations (NEX: $2,141.0m; Waterway Point: $1,331.0m) which are the appraised values, not the audited carrying values in the Tier C Portfolio Statement. These have been recorded with value_basis='per_property_card_100pct_basis'. FCT's 50% share of the JV book value is $1,042,638k combined (Note 6)."
+    },
+    {
+      "column": "properties.gla (Central Plaza)",
+      "reason": "GLA for Central Plaza not disclosed in the portfolio overview table. NLA only is disclosed."
+    },
+    {
+      "column": "properties.gla (Northpoint City South Wing)",
+      "reason": "GFA/NLA for Northpoint City South Wing not disclosed separately in the portfolio overview (South Wing merged with North Wing in the header table). The card pages show NW and SW combined."
+    },
+    {
+      "column": "properties.nla (Northpoint City South Wing)",
+      "reason": "Same as GLA — not separately disclosed for South Wing."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "label": "Total portfolio appraised value (including JVs at proportionate share)",
+      "value": "$8.2 billion",
+      "note": "Stated in performance highlights (page 7). Includes FCT's 50% interest in SST (Waterway Point) and 50% effective interest in GRPL (NEX). This is the Tier A headline figure."
+    },
+    {
+      "label": "Retail Portfolio Occupancy",
+      "value": "98.1%",
+      "note": "Excludes Hougang Mall due to ongoing AEI works."
+    },
+    {
+      "label": "Aggregate leverage",
+      "value": "39.6%",
+      "note": "Includes proportionate 50% interest in SST and GRPL borrowings."
+    },
+    {
+      "label": "Average cost of debt",
+      "value": "3.8%",
+      "note": "FY25 average."
+    },
+    {
+      "label": "FY25 Shopper traffic - Retail Portfolio",
+      "value": "207.8 million",
+      "note": "Excludes Hougang Mall."
+    },
+    {
+      "label": "JV book value - combined NEX + Waterway Point",
+      "value": "$1,042,638k",
+      "note": "Group Investment in joint ventures (Note 6): SST + FC Retail Trustee + Gold Ridge Pte. Ltd."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "FCT FY ends 30 September — NOT December. financial_year=2025 = period Oct 2024 to Sep 2025.",
+      "action": "All records use financial_year=2025 with date='2025-09-30'."
+    },
+    {
+      "trap": "NEX and Waterway Point are JV-held (50% each), NOT in the Group Portfolio Statement as investment properties. Their '$'000 table' valuations are per-property-card appraised values (100% basis), not Tier C audited carrying values. The Group Tier C statement shows combined JV book = $1,042,638k.",
+      "action": "Recorded NEX and Waterway Point with value_basis='per_property_card_100pct_basis' and noted 50% ownership. The Tier C audited carrying values for the 10 directly-held properties sum to $6,449,000k (matches the Group statement total exactly)."
+    },
+    {
+      "trap": "Northpoint City revenue/NPI in segment note includes Y10 (divested Sep 23, 2025) and NPCSW (acquired May 26, 2025). The combined segment reported $85,573k GR and $62,264k NPI. Individual wing breakdowns not available in audited statements.",
+      "action": "Northpoint City North Wing and South Wing GR/NPI left null; total is attributed to the combined segment only."
+    },
+    {
+      "trap": "Yishun 10 Retail Podium (Y10) divested Sep 23, 2025. Appears in FY24 Portfolio Statement at $34,000k but $0 (zero) in FY25 statement (showing '-'). The report's marketing summary may show it under Northpoint City.",
+      "action": "Recorded with status='divested', market_valuation=null (no FY25 carrying value as divested)."
+    },
+    {
+      "trap": "The Portfolio Statement Tier C total ($6,449,000k) matches exactly: 1,354,000 + 800,000 + 1,133,000 + 817,000 + 665,000 + 563,000 + 467,000 + 431,000 + 219,000 = 6,449,000. Reconciles perfectly.",
+      "action": "Σ reconciled; no gap."
+    },
+    {
+      "trap": "Trade mix table excludes Hougang Mall (ongoing AEI works). The 'Retail Portfolio' footnote explicitly excludes Hougang Mall. Statistics of Unitholdings date is 25 November 2025 (post FY-end) — expected.",
+      "action": "Recorded number_of_unitholders=17,713 as disclosed; date in performance.json is the FY-end 2025-09-30."
+    },
+    {
+      "trap": "2H FY25 DPU = 6.059 cents comprises two tranches: 0.096 cents (1 Apr 2025 – 3 Apr 2025) and 5.963 cents (4 Apr 2025 – 30 Sep 2025). The 5.963 cents was to be paid on 28 November 2025.",
+      "action": "distribution_record captures all three tranches."
+    }
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue_directly_held": 311591000,
+    "note_directly_held_properties": "Causeway Point ($97,704k) + Tampines 1 ($54,990k) + Tiong Bahru Plaza ($44,502k) + Century Square ($35,886k) + Hougang Mall ($27,124k) + White Sands ($31,635k) + Central Plaza ($12,147k) + Northpoint City combined ($85,573k) + Changi City Point adj ($42k) = $389,603k (matches Note 16 and Statement of Total Return).",
+    "reported_total_gross_revenue": 389603000,
+    "sum_property_npi_directly_held": 277728000,
+    "reported_total_npi": 277980000,
+    "npi_gap_note": "NPI gap of $252k matches the Changi City Point 'Other investment property' adjustment shown in segment note page 207 ($252k NPI). Reconciles exactly.",
+    "portfolio_statement_sum_carrying_value": 6449000000,
+    "portfolio_statement_reported_total": 6449000000,
+    "portfolio_statement_reconciles": true,
+    "portfolio_statement_breakdown": {
+      "Causeway_Point": 1354000000,
+      "Northpoint_City_North_Wing": 800000000,
+      "Northpoint_City_South_Wing": 1133000000,
+      "Tampines_1": 817000000,
+      "Tiong_Bahru_Plaza": 665000000,
+      "Century_Square": 563000000,
+      "Hougang_Mall": 467000000,
+      "White_Sands": 431000000,
+      "Central_Plaza": 219000000,
+      "Yishun_10_divested": 0
+    },
+    "income_components_revenue_sum": 389603000,
+    "income_components_revenue_matches_total_return": true,
+    "income_components_expense_sum": 111623000,
+    "income_components_expense_matches_total_return": true,
+    "npi_check": "389,603k - 111,623k = 277,980k (matches Statement of Total Return)"
+  }
+}
