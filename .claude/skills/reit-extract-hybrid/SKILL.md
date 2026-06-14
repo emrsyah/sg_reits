@@ -170,10 +170,17 @@ extracted/<SYMBOL>.SI_FY<YYYY>/                        FINAL 8-file output (gate
   fails reconciliation loudly, so a bad reuse can't pass silently.
 
 ## Self-check before finishing
-- Row count matches the report's stated property/tenant count (note legit gaps, e.g. equity-
-  accounted JVs absent from the Portfolio Statement).
+- **Completeness — did I capture ALL disclosed rows/lines, not just the first table?** Row count
+  matches the report's stated property/tenant count (note legit gaps, e.g. equity-accounted JVs
+  absent from the Portfolio Statement). A long section may span several pages or live partly in a
+  segment note / financial review / cards — merge them.
+- **financial: the WHOLE Statement of Total Return** — every line below NPI (management fees,
+  finance costs, trustee/audit/professional fees, interest/investment income, share of JV,
+  fair-value change, divestment gains, tax), not just the revenue/opex notes. Verify
+  `Σrevenue − Σexpense + Σadjustment(signed) = Total return for the year`.
 - Σ checks reconcile (property valuation/revenue vs totals) within tolerance.
-- Both gates green; `status.json` reflects reality; `track.py` shows the AR resolved.
+- Both gates green (incl. no "income_components likely INCOMPLETE" warn); `status.json` reflects
+  reality; `track.py` shows the AR resolved.
 - Money absolute (<1,000,000 trust-level ⇒ unscaled); every record has `source_page`.
 
 ## Model

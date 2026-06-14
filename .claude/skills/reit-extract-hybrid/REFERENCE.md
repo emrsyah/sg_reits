@@ -89,12 +89,24 @@ sweep. Always re-confirm on the actual report; this is the prior, not the answer
 | **properties** (operating metrics) | hybrid (2nd adapter) | per-property cards / "At A Glance" — semi-structured; a 2nd plan over the card pages, or LLM if cards are too irregular (hospitality). |
 | **top_tenants** | **hybrid** | single ranked table. `value_col` = the % column. `needs_llm`: map `trade_sector` to taxonomy; DC names are anonymised (use verbatim descriptor). Anchor wording varies: "Top 10 Tenants/Customers/Clients" / "by GRI". |
 | **trade_mix** | **hybrid** | single table; `value_col` = pct. Watch roll-up + expanded sub-tables (CICT "Other Retail/Office Trades"). `needs_llm`: map `category_raw`→canonical. Hospitality: none (declare structural). DC: client trade-sector, `pct_basis=rental_income`. |
-| **financial** (revenue + opex notes) | **hybrid** | the Gross Revenue note and Property Operating/Direct Expenses note are clean 2-col grids ($'000). `value_col` = amount. `needs_llm`: map `label_raw`→canonical `component` key + `statement` (revenue/expense). |
+| **financial** (FULL Statement of Total Return) | **hybrid** | **capture the WHOLE audited Statement of Total Return, not just the revenue/opex notes** (the #1 under-capture bug). It has three layers: (1) Gross Revenue note + Property Operating/Direct Expenses note (clean 2-col $'000 grids) → the `revenue` + property-`expense` detail; (2) every line BELOW NPI on the face of the statement → interest/investment income (`revenue`), management fees base+performance, trustee/audit/professional/valuation fees, finance costs, other trust expenses (`expense`); (3) non-operating lines → share of JV/associate results, net change in fair value of investment properties/derivatives, gain/loss on divestment, taxation → `statement="adjustment"` with the amount **SIGNED** (gains +, charges/tax −). `value_col` = amount. `needs_llm`: map `label_raw`→canonical `component` key + `statement`. **Don't** re-add aggregate "Gross revenue"/"Property operating expenses" rows when their note detail is already captured (double-count). **Completeness self-check: `Σrevenue − Σexpense + Σadjustment(signed)` must equal "Total return for the year".** The gate warns if finance_costs / management_fee / adjustment lines are absent. |
 | **performance** | **llm_only** (usually) | headline figures are spread across 5-yr summary + distribution statement + statistics-of-unitholders (3 pages). A few cells, scattered — cheaper to LLM-extract than to author 3 micro-adapters. |
 | **profile** | **llm_only** | `management` entities are scattered across front matter + corporate-information; `sub_sector` is judgement (use locate.py guess). Not a grid. |
 
 Rule of thumb: **one clean grid → hybrid; few scattered cells → llm_only.** When `llm_only`,
 use the `reit-extract` workflow for that section and mark it `llm_only` in status.json.
+
+**Completeness over convenience (target-driven).** For every section, the question is *"have I
+captured ALL the disclosed rows/lines this schema table wants?"* — not *"what did the first
+table I found contain?"*. The common failure is stopping at the headline/first table and
+under-capturing. Two habits prevent it:
+- **Reconcile row/line count to a disclosed total**: properties vs the stated property count;
+  trade_mix to 100%; **financial: Σrev − Σexp + Σadj(signed) = Total return for the year**. If
+  it doesn't reconcile, rows/lines are missing — the data is split across pages or a section you
+  haven't read yet. Go find the continuation (light-medium check, not a deep dive).
+- **A long section may span several tables/pages or live partly elsewhere** (segment notes,
+  financial review, per-property cards). Pull and merge them; don't take the first grid as the
+  whole truth.
 
 ### Table-shape taxonomy (decide this in the judge step)
 
