@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 1,
+    "tenant_name": "Government entities and embassies of various countries",
+    "trade_sector": "Government Related",
+    "gri_percentage": 1.2,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 2,
+    "tenant_name": "CapitaLand",
+    "trade_sector": "Real Estate & Property Services",
+    "gri_percentage": 0.2,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 3,
+    "tenant_name": "SK",
+    "trade_sector": "Energy & Utilities",
+    "gri_percentage": 0.2,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 4,
+    "tenant_name": "Mitsubishi",
+    "trade_sector": "Manufacturing",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 5,
+    "tenant_name": "LITE-ON",
+    "trade_sector": "IT & Telecommunications",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 6,
+    "tenant_name": "Volkswagen",
+    "trade_sector": "Manufacturing",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 7,
+    "tenant_name": "Rothschild",
+    "trade_sector": "Banking, Insurance & Financial Services",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 8,
+    "tenant_name": "UBS",
+    "trade_sector": "Banking, Insurance & Financial Services",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 9,
+    "tenant_name": "Hôpital Universitaire de Bruxelles",
+    "trade_sector": "Healthcare, Pharmaceuticals & Life Sciences",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 10,
+    "tenant_name": "Amazon",
+    "trade_sector": "IT & Telecommunications",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "rank": 11,
+    "tenant_name": "3J Shipping Agencies",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 0.1,
+    "pct_basis": "rental_income",
+    "source_page": 27
+  }
+]

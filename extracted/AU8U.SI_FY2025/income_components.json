@@ -1,0 +1,152 @@
+[
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "base_rental",
+    "amount": 276794000.0,
+    "currency": "SGD",
+    "label_raw": "Gross rental income",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_income",
+    "amount": 26926000.0,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 27577000.0,
+    "currency": "SGD",
+    "label_raw": "Property related tax",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "business_tax",
+    "amount": 1598000.0,
+    "currency": "SGD",
+    "label_raw": "Business tax",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_management_fees",
+    "amount": 18220000.0,
+    "currency": "SGD",
+    "label_raw": "Property management fees and reimbursables",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_property_expenses",
+    "amount": 55430000.0,
+    "currency": "SGD",
+    "label_raw": "Other property operating expenses",
+    "source_page": 95
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "utilities",
+    "amount": 10576000.0,
+    "currency": "SGD",
+    "label_raw": "Utilities",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "advertising_promotion",
+    "amount": 8458000.0,
+    "currency": "SGD",
+    "label_raw": "Advertising and promotion",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "maintenance",
+    "amount": 20874000.0,
+    "currency": "SGD",
+    "label_raw": "Maintenance",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "staff_costs",
+    "amount": 12471000.0,
+    "currency": "SGD",
+    "label_raw": "Staff costs",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "depreciation",
+    "amount": 569000.0,
+    "currency": "SGD",
+    "label_raw": "Depreciation of plant and equipment",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "impairment_receivables",
+    "amount": 914000.0,
+    "currency": "SGD",
+    "label_raw": "Impairment losses on trade receivables, net",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "amortisation",
+    "amount": 43000.0,
+    "currency": "SGD",
+    "label_raw": "Amortisation of deferred expenditure included in other receivables",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "plant_equipment_writeoff",
+    "amount": 172000.0,
+    "currency": "SGD",
+    "label_raw": "Plant and equipment written off",
+    "source_page": 148
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_expenses",
+    "amount": 1353000.0,
+    "currency": "SGD",
+    "label_raw": "Others",
+    "source_page": 148
+  }
+]

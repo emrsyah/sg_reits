@@ -1,0 +1,111 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "property.gla",
+      "reason": "Not disclosed; NLA is used instead for all properties"
+    },
+    {
+      "column": "property.net_property_income",
+      "reason": "Portfolio Statement does not disclose per-property NPI in SGD. JPY/VND per-property NPI disclosed in the portfolio overview table (page 27) but only for multi-tenanted properties and in local currency; single-tenanted BTS properties are not disclosed (confidentiality obligations). Cross-currency reconciliation to SGD not possible per-property."
+    },
+    {
+      "column": "property.gross_revenue",
+      "reason": "Disclosed in JPY/VND only for multi-tenanted properties (page 27); not disclosed for single-tenanted BTS properties per confidentiality. SGD equivalent per property not in audited statements."
+    },
+    {
+      "column": "trade_mix.pct_basis=npi",
+      "reason": "DHLT uses NPI as pct_basis for both trade mix and top tenants — different from typical GRI basis used by retail/diversified REITs. Note that this is the as-disclosed basis."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Japan Portfolio gross rental income FY2025",
+      "value": "JPY 5,586 million",
+      "note": "As disclosed in the Financial Review (page 53). SGD equivalent included in total gross revenue."
+    },
+    {
+      "item": "Japan Portfolio NPI FY2025",
+      "value": "JPY 4,787 million",
+      "note": "As disclosed in the Financial Review (page 53). Implies Vietnam NPI = S$44.199M - (JPY4,787M / 122) = S$44.199M - S$39.24M = ~S$4.96M"
+    },
+    {
+      "item": "Vietnam property valuation (local currency)",
+      "value": "VND 524,200 million",
+      "note": "Converted at S$1 = VND 20,447.50 per report footnote. SGD equivalent = S$25,636k (matches Statement of Portfolio)"
+    },
+    {
+      "item": "Japan portfolio valuation (local currency)",
+      "value": "JPY 98,759 million",
+      "note": "Converted at S$1 = JPY 122.00 per report footnote. SGD equivalent = S$809,500k. Statement of Portfolio Japan = S$835,157k - S$25,636k = S$809,521k. Close match (rounding)."
+    },
+    {
+      "item": "FX rates used for valuation conversion",
+      "value": "S$1 = JPY 122.00; S$1 = VND 20,447.50",
+      "note": "Closing rate as at 31 December 2025, used for balance sheet / valuation conversion"
+    },
+    {
+      "item": "Right-of-use assets in investment properties (SFP)",
+      "value": "S$133,125k",
+      "note": "IFRS 16 right-of-use assets included in SFP investment property line (S$984,117k). Excluded from Statement of Portfolio valuation (S$835,157k)."
+    },
+    {
+      "item": "Asset Retirement Obligation in investment properties (SFP)",
+      "value": "S$15,835k",
+      "note": "Also included in SFP investment property line, excluded from Statement of Portfolio valuation."
+    },
+    {
+      "item": "Tenant trade sector breakdown (page 50)",
+      "value": "3PL: 79.6%, Retail: 11.4%, E-commerce: 5.8%, Manufacturing: 3.3%",
+      "note": "By NPI. Used for trade_mix. E-commerce mapped to Other Retail Trades as there is no canonical E-commerce category."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "Statement of Portfolio SGD vs SFP investment properties SGD mismatch",
+      "detail": "SFP shows investment properties = S$984,117k (includes ROU S$133,125k + ARO S$15,835k). Statement of Portfolio = S$835,157k (at valuation only). Use S$835,157k as the Tier C market_valuation aggregate and individual rows from the portfolio table. Do NOT use S$984,117k.",
+      "resolution": "Used Statement of Portfolio row values for market_valuation on each property. Confirmed S$835,157k = sum of 19 property rows."
+    },
+    {
+      "trap": "pct_basis for trade_mix and top_tenants is NPI, not GRI",
+      "detail": "DHLT discloses tenant concentration and trade mix as % of NPI. This is unusual vs the typical GRI basis. The schema field gri_percentage is used but the actual basis is NPI per the footnote: 'Based on NPI for FY2025'.",
+      "resolution": "Set pct_basis='npi' for all top_tenant and trade_mix records. gri_percentage field populated with the NPI% values per schema requirement."
+    },
+    {
+      "trap": "DPL Okayama Hayashima footnote re freehold vs leasehold",
+      "detail": "The property card says 'Leasehold expiring in April 2067' but notes: 'The Property Trustee holds some parcels of the land as freehold interest and the rest of the land parcels as sub-leasehold rights.' Statement of Portfolio says 'Leasehold'. Used Leasehold per audited statement.",
+      "resolution": "land_tenure = Leasehold, tenure_raw includes the verbatim Statement of Portfolio disclosure."
+    },
+    {
+      "trap": "DPL Okayama Hayashima 2 auto-renewal clause",
+      "detail": "The ordinary land lease will automatically renew for a term of 20 years upon expiry unless otherwise agreed. Statement of Portfolio shows 'Leasehold (1)' indicating footnote. Expiry is November 2051.",
+      "resolution": "land_tenure = Leasehold, lease_expiry_date = 2051-11-30, tenure_raw includes the auto-renewal clause description."
+    },
+    {
+      "trap": "D Project Iruma S converted to freehold in 2024",
+      "detail": "The property card says 'This property was converted to freehold in 2024.' Statement of Portfolio shows 'Freehold'. Used Freehold.",
+      "resolution": "land_tenure = Freehold, tenure_raw = Freehold"
+    },
+    {
+      "trap": "E-commerce category mapping",
+      "detail": "DHLT discloses 'E-commerce' as a trade sector (5.8% of NPI). No direct mapping in the canonical 19-value taxonomy. Mapped to 'Other Retail Trades' as e-commerce is primarily retail fulfillment.",
+      "resolution": "category = Other Retail Trades, category_raw = E-commerce"
+    }
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation_sgd": 835157000,
+    "reported_total_market_valuation_sgd": 835157000,
+    "valuation_match": true,
+    "property_count": 19,
+    "reported_property_count": 19,
+    "sum_revenue_components": 57794000,
+    "reported_gross_revenue": 57794000,
+    "revenue_match": true,
+    "sum_expense_components": 13595000,
+    "reported_property_expenses": 13595000,
+    "expense_match": true,
+    "npi_check": 44199000,
+    "reported_npi": 44199000,
+    "npi_match": true,
+    "notes": "Statement of Portfolio total S$835,157k = sum of 19 individual property rows. Confirmed. Revenue and expense notes reconcile exactly to audited income statement totals. SFP investment properties S$984,117k differs from Statement of Portfolio due to ROU assets (S$133,125k) and ARO (S$15,835k) — expected, documented."
+  }
+}

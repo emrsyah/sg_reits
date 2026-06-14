@@ -6,107 +6,104 @@
   "template_family": "CapitaLand",
   "parsed": {
     "markdown": "parsed_reports_datalab/09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025/full.md",
-    "html_pages": "108-112",
+    "html_pages": "109-110",
     "checkpoint_id": "checkpoint_2FAg8qYBGscbRki2dTJlRk_ZEb5QVuXV-CQ_SXPMLBg"
   },
   "sections": {
     "profile": {
-      "status": "llm_only",
+      "status": "done",
       "method": "llm_only",
       "adapterable": false,
-      "reason": "management entities scattered across front + back matter; not a single table"
+      "reason": "management entities scattered across front + back matter (p198); not a single table",
+      "rows": 1,
+      "cross_check": {
+        "vs": "Corporate Information page 198 + Trust Structure page 9",
+        "match": "reit_manager=CapitaLand Integrated Commercial Trust Management Limited, trustee=HSBC Institutional Trust Services (Singapore) Limited, sponsor=CapitaLand Investment Limited"
+      }
     },
     "performance": {
-      "status": "llm_only",
+      "status": "done",
       "method": "llm_only",
       "adapterable": false,
-      "reason": "headline figures span 5-yr summary + distribution statement + unitholders page"
+      "reason": "headline figures span 5-yr summary (p5) + distribution statement (p107) + unitholders page (p193)",
+      "rows": 1,
+      "cross_check": {
+        "vs": "Financial Highlights p5, Distribution Statement p107, Statistics of Unitholdings p193",
+        "match": "GR=S$1,619.2m, NPI=S$1,189.7m, NDI=S$860.9m, DPU=11.58c, unitholders=91,421"
+      }
     },
     "properties": {
-      "status": "merged",
+      "status": "done",
       "method": "hybrid",
       "adapterable": true,
       "plan": "plan_properties.json",
       "deterministic_fields": [
-        "symbol",
-        "financial_year",
-        "currency",
-        "valuation_date",
-        "property_name",
-        "land_tenure",
-        "lease_term_years",
-        "tenure_raw",
-        "address",
-        "market_valuation",
-        "country",
-        "category",
-        "status",
-        "source_page"
+        "symbol", "financial_year", "currency", "valuation_date", "property_name",
+        "land_tenure", "lease_term_years", "tenure_raw", "address", "market_valuation",
+        "country", "category", "status", "source_page"
       ],
-      "needs_llm_fields": [
-        "ownership",
-        "value_basis"
-      ],
+      "needs_llm_fields": ["ownership", "value_basis"],
       "other_source_fields": [
-        "net_property_income",
-        "gross_revenue",
-        "occupancy_rate",
-        "gla",
-        "nla",
-        "major_tenant",
-        "trade_mix",
-        "lease_expiry_date",
-        "effective_date"
+        "occupancy_rate", "gla", "nla", "gross_revenue", "major_tenant",
+        "trade_mix", "lease_expiry_date", "effective_date"
       ],
-      "rows": 25,
+      "rows": 26,
       "cross_check": {
-        "vs": "agent extracted/C38U.SI_FY2025",
-        "match": "25/25 on market_valuation, land_tenure, lease_term_years",
+        "vs": "Portfolio Statement page 109 + per-property cards pp39-70 + llm_other_source",
+        "match": "25 rows from Portfolio Statement (deterministic 25/25) + ION Orchard from per-property cards (equity-accounted JV, market_valuation=null)",
         "gaps": [
-          "ION Orchard (equity-accounted JV, not in Portfolio Statement)"
+          "ION Orchard absent from Portfolio Statement (equity-accounted JV); added from per-property cards with value_basis=joint_venture_100pct",
+          "Bugis+ and Bukit Panjang Plaza gross_revenue null (aggregated as 'Other Assets' in financial review; not separately disclosed)"
         ]
+      },
+      "market_valuation_reconciliation": {
+        "sum_25_rows": 25992458000.0,
+        "investment_properties_at_valuation": 25601573000.0,
+        "asset_held_for_sale": 390885000.0,
+        "status": "EXACT MATCH"
       },
       "files": {
         "deterministic": "properties_deterministic.json",
         "llm_todo": "properties_deterministic.llm_todo.json",
         "llm_filled": "llm_filled.json",
-        "merged": "properties_merged.json"
+        "llm_other_source": "llm_other_source.json",
+        "merged": "properties_full.json"
       },
-      "note": "Tier-C portfolio statement adapter done. other_source fields await the per-property-cards adapter (pp.39-70)."
+      "note": "Tier-C portfolio statement adapter 25/25. ION Orchard added from per-property cards as equity-accounted JV (null market_valuation). Per-property NPI structurally absent. net_property_income declared in columns_never_fillable."
     },
     "top_tenants": {
-      "status": "merged",
+      "status": "done",
       "method": "hybrid",
       "adapterable": true,
       "plan": "plan_top_tenants.json",
       "rows": 10,
       "cross_check": {
-        "vs": "agent",
-        "match": "10/10 name+gri%"
+        "vs": "Top 10 Tenants table page 33",
+        "match": "10/10 name + gri_percentage; trade_sector mapped to canonical taxonomy via LLM pass"
       }
     },
     "trade_mix": {
-      "status": "merged",
+      "status": "done",
       "method": "hybrid",
       "adapterable": true,
       "plan": "plan_trade_mix.json",
       "rows": 9,
       "cross_check": {
-        "vs": "agent",
-        "match": "9/9 category+pct"
+        "vs": "Trade Mix by GRI table page 34",
+        "match": "9/9 category + pct; top-level 9 categories captured (sub-category expansion not double-counted)"
       }
     },
     "financial": {
-      "status": "merged",
+      "status": "done",
       "method": "hybrid",
       "adapterable": true,
       "plan": "plan_financial_revenue.json + plan_financial_expense.json",
       "rows": 13,
       "cross_check": {
-        "vs": "agent",
-        "match": "revenue total 1,619,174,000 + expense total 429,425,000 exact; 13 raw lines vs agent 12 (agent merged 2 bad-debt lines)"
+        "vs": "Gross Revenue note + Property Operating Expenses note, page 159",
+        "match": "Revenue: 3 lines sum = 1,619,174k ✓ (stated total). Expense: 10 lines sum = 429,425k ✓. component keys mapped to canonical via LLM pass."
       },
-      "note": "financial = 2 sub-table plans (revenue note + opex note); component mapping is the needs_llm step"
+      "note": "2 sub-table plans (revenue note + opex note); 13 lines total"
     }
   },
   "final_dir": "extracted/C38U.SI_FY2025",
@@ -114,5 +111,5 @@
     "schema": "PASS",
     "check": "PASS"
   },
-  "updated": "2026-06-13"
+  "updated": "2026-06-14"
 }

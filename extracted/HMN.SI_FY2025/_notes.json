@@ -1,0 +1,127 @@
+{
+  "symbol": "HMN.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "trade_mix",
+      "reason": "Structurally absent for hospitality REIT. No trade-mix table disclosed. A 'Portfolio Information by Industry' table exists (page 27) but is based on rental income from corporate accounts of management contract properties only (not portfolio-wide), so it does not map to the canonical trade_mix schema."
+    },
+    {
+      "column": "occupancy_rate",
+      "reason": "Per-property occupancy not disclosed in the Portfolio Statement for hospitality. Portfolio-level occupancy of 80% disclosed (page 18) but not breakdowns by property."
+    },
+    {
+      "column": "gla",
+      "reason": "Hospitality properties use keys/units as size metric, not GLA. Keys/units data exists in per-property cards but was not extracted in this run."
+    },
+    {
+      "column": "nla",
+      "reason": "Same as gla — hospitality uses keys/units, not NLA."
+    },
+    {
+      "column": "gross_revenue",
+      "reason": "Per-property gross revenue not disclosed in the audited Portfolio Statement. Segment-level data (master lease / MCMGI / management contract by country) is in the Financial Review but not per individual property."
+    },
+    {
+      "column": "net_property_income",
+      "reason": "Per-property NPI not disclosed. Gross profit (= NPI equivalent) is disclosed only at contract-type and country level, not individual property."
+    },
+    {
+      "column": "major_tenant",
+      "reason": "Not applicable for hospitality properties. No per-property major tenant disclosed."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "Portfolio occupancy",
+      "value": "80%",
+      "note": "Portfolio-level occupancy rate for FY2025, disclosed on page 18. Excludes master lease properties.",
+      "source_page": 18
+    },
+    {
+      "item": "Revenue per available unit (RevPAU)",
+      "value": "S$161 (FY2025), up 3% from S$156 (FY2024)",
+      "note": "Key hospitality KPI disclosed on page 18.",
+      "source_page": 18
+    },
+    {
+      "item": "Income split by contract type",
+      "value": "Master lease: S$113.1m (14%); MCMGI: S$230.2m (27%); Management contracts: S$494.3m (59%)",
+      "note": "Revenue split by contract type for FY2025, page 18. Hospitality MC: S$400.0m; Living sector MC: S$94.3m.",
+      "source_page": 18
+    },
+    {
+      "item": "Gross profit split by contract type",
+      "value": "Master lease: S$103.9m; MCMGI: S$91.8m; Management contracts: S$189.6m (hospitality: S$134.9m, living: S$54.7m)",
+      "note": "Gross profit by contract type FY2025, page 18.",
+      "source_page": 18
+    },
+    {
+      "item": "Portfolio by industry (corporate clients, MC only)",
+      "value": "Industrial 21%, Government & NGOs 17%, Financial Institutions 13%, Consumers 11%, IT 6%, Energy & Utilities 6%, Media & Telecom 6%, Manufacturing 6%, Real Estate/Lodging 5%, Healthcare 5%, Others 4%",
+      "note": "Based on rental income from corporate accounts of properties under Ascott management contracts only. Page 27.",
+      "source_page": 27
+    },
+    {
+      "item": "BT freehold land and buildings (PPE) - block total",
+      "value": "SGD 550,748k (2025), SGD 555,907k (2024)",
+      "note": "Five hotels held as property, plant and equipment by the BT Group (Pullman Brisbane, Pullman Melbourne, Pullman Sydney, Sydney Central, Temple Bar Dublin). Individual property values not disclosed in the Portfolio Statement; block total on page 143.",
+      "source_page": 143
+    },
+    {
+      "item": "Right-of-use assets (block)",
+      "value": "SGD 222,296k (2025), SGD 240,546k (2024) - Stapled Group",
+      "note": "Right-of-use assets included in the Portfolio Statement total but cannot be attributed to individual properties.",
+      "source_page": 141
+    },
+    {
+      "item": "FX rates disclosed",
+      "value": "Not stated as explicit exchange rates in the AR; multi-currency portfolio but all valuations reported in SGD equivalent",
+      "note": "Valuations in the Portfolio Statement are in SGD equivalent per Datalab parse. Individual local-currency valuations not disclosed in the Portfolio Statement."
+    },
+    {
+      "item": "Australia properties - Stapled Group 2025 valuation marked N/A",
+      "value": "8 Australian REIT properties show 'Not applicable' in the Stapled Group 2025 column of the Portfolio Statement",
+      "note": "This is a quirk specific to CLAS: the Australia REIT properties' Stapled Group 2025 column shows 'Not applicable' (possibly due to classification change or reporting convention). The Ascott REIT Group column shows the values (same as 2024). This is unusual and may reflect a reclassification or accounting policy change for FY2025. The 2024 values are available. market_valuation set to null for these 8 properties pending clarification.",
+      "source_page": 127
+    },
+    {
+      "item": "France properties Citadines Antigone Montpellier, Austerlitz, Les Halles, Maine Montparnasse, Montmartre, Place d'Italie - Stapled Group 2025 valuation marked N/A",
+      "value": "6 France properties show 'Not applicable' in Stapled Group 2025 column",
+      "note": "Same pattern as Australia. The Ascott REIT Group 2024 column shows prior values. These properties were also marked as master leases (footnote 1). Citadines Antigone Montpellier was divested in April 2025.",
+      "source_page": 129
+    }
+  ],
+  "parsing_traps": [
+    "Stapled group = REIT + BT. The Portfolio Statement has TWO sections: (1) Investment properties of the Ascott REIT Group (pages 127-141), and (2) Investment properties of the Ascott BT Group (page 142) plus Freehold land and buildings of the BT Group (page 143). Both sections use the SAME table headers but the BT properties only have Stapled Group values (REIT column is blank).",
+    "The Robertson House by The Crest Collection appears in the REIT Group Portfolio Statement at SGD 337,950k but is actually a BT Group PPE property (leasehold land and buildings). Its Stapled Group column shows dashes.",
+    "17 France properties are master-leased to related parties (footnote 1). This does not affect valuation capture but explains the income model for those properties.",
+    "Multiple pages of the France section show 'Not applicable' in the Stapled Group 2025 valuation column - this is unusual and differs from other countries. The REIT Group 2024 column does show values for these properties.",
+    "Australia REIT properties also show 'Not applicable' in Stapled Group 2025. This appears to be a consistent reporting quirk across AU and parts of France in the Stapled Group column.",
+    "Japan properties from page 135+ use 'Freehold / applicable / Not applicable' as tenure - the word 'applicable' in the 'Term of Lease' column is unusual but reflects the statement verbatim.",
+    "Top-10 corporate clients table (page 27) has 11 rows (Rank 10 and Rank 11 both at 0.1%) - the report shows 3J Shipping Agencies as a tied 11th entrant. Both captured.",
+    "The income_components use the Stapled Group column (not REIT-only or BT-only), consistent with the stapled-group reporting convention."
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation_reit_group_sgd": 7039919000.0,
+    "reported_reit_group_total_sgd": 7039919000.0,
+    "match_reit_group": true,
+    "sum_property_market_valuation_stapled_group_sgd": 7086765000.0,
+    "reported_stapled_group_investment_properties": 7086765000.0,
+    "reported_stapled_group_total_incl_ppl": 7637513000.0,
+    "note_stapled_group": "SGD 7,086,765k = REIT investment properties + BT investment properties (Sotetsu Grand Fresa Osaka-Namba, ibis Ambassador Seoul Insadong, Sotetsu Hotels The Splaisir Seoul Dongdaemun). Plus BT PPE block SGD 550,748k + Robertson House leasehold SGD 337,950k (but Robertson is already in REIT column) = Total SGD 7,637,513k per page 143.",
+    "sum_gross_revenue_note_22_stapled": 837584000.0,
+    "reported_total_gross_revenue": 837584000.0,
+    "match_gross_revenue": true,
+    "sum_direct_expenses_note_23_stapled": 452283000.0,
+    "reported_total_direct_expenses": 452283000.0,
+    "match_direct_expenses": true,
+    "gross_profit": 385301000.0,
+    "note_gross_profit": "Gross Revenue SGD 837,584k - Direct Expenses SGD 452,283k = SGD 385,301k; report rounds to S$385.3 million on page 8",
+    "properties_with_null_valuation": [
+      "8 Australia REIT properties (Stapled Group 2025 column N/A)",
+      "5 France properties with N/A in Stapled Group 2025 column (6 shown in parser; Citadines Antigone Montpellier is divested)",
+      "5 BT PPE hotels (individual values not disclosed, only block total SGD 550,748k)"
+    ]
+  }
+}

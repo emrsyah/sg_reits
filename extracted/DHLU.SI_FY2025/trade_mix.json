@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "3PL",
+    "pct": 79.6,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 11.4,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "E-commerce",
+    "pct": 5.8,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing",
+    "pct": 3.3,
+    "pct_basis": "npi",
+    "source_page": 50
+  }
+]

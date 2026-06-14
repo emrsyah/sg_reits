@@ -1,0 +1,20 @@
+{
+  "symbol": "C38U.SI",
+  "sub_sector": "Diversified",
+  "management": [
+    {
+      "role": "reit_manager",
+      "company_name": "CapitaLand Integrated Commercial Trust Management Limited"
+    },
+    {
+      "role": "trustee",
+      "company_name": "HSBC Institutional Trust Services (Singapore) Limited"
+    },
+    {
+      "role": "sponsor",
+      "company_name": "CapitaLand Investment Limited"
+    }
+  ],
+  "income_model": "conventional",
+  "source_page": 198
+}

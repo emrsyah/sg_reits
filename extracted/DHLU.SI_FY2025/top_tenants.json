@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 1,
+    "tenant_name": "Mitsubishi Shokuhin",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 24.5,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 2,
+    "tenant_name": "Suntory Logistics",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 8.4,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 3,
+    "tenant_name": "Meito Vietnam",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 5.5,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 4,
+    "tenant_name": "Nippon Express",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 5.3,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 5,
+    "tenant_name": null,
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 4.1,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 6,
+    "tenant_name": "Create SD",
+    "trade_sector": "Other Retail Trades",
+    "gri_percentage": 3.9,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 7,
+    "tenant_name": null,
+    "trade_sector": "Other Retail Trades",
+    "gri_percentage": 3.8,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 8,
+    "tenant_name": "K.R.S Corporation",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 3.7,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 9,
+    "tenant_name": null,
+    "trade_sector": "Other Retail Trades",
+    "gri_percentage": 3.7,
+    "pct_basis": "npi",
+    "source_page": 50
+  },
+  {
+    "symbol": "DHLU.SI",
+    "financial_year": 2025,
+    "rank": 10,
+    "tenant_name": "Tokyo Logistics Factory",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 3.6,
+    "pct_basis": "npi",
+    "source_page": 50
+  }
+]

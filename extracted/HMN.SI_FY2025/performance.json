@@ -1,0 +1,37 @@
+{
+  "symbol": "HMN.SI",
+  "financial_year": 2025,
+  "portfolio_value": 7900000000.0,
+  "properties_location": "Australia, Belgium, China, France, Germany, Indonesia, Ireland, Japan, Malaysia, The Philippines, Singapore, South Korea, Spain, United Kingdom, United States of America, Vietnam",
+  "gross_revenue": 837584000.0,
+  "net_property_income": 385301000.0,
+  "net_distributable_income": 256708000.0,
+  "dpu": 6.10,
+  "distribution_record": [
+    {
+      "period": "1 January 2025 to 30 June 2025",
+      "dpu": 2.526,
+      "ex_date": null,
+      "pay_date": "2025-08-29"
+    },
+    {
+      "period": "1 July 2025 to 31 December 2025",
+      "dpu": 3.576,
+      "ex_date": null,
+      "pay_date": "2026-02-27"
+    }
+  ],
+  "number_of_unitholders": 71313,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "source_page": 8,
+  "_notes": {
+    "portfolio_value_source": "Page 21: Group portfolio revalued at S$7.9 billion as at 31 December 2025",
+    "gross_revenue_source": "Page 213, Note 22: Stapled Group 2025 = SGD 837,584k",
+    "npi_source": "Page 8 5-Year Financial Summary: Gross Profit (equivalent to NPI for hospitality) = S$385.3 million = SGD 385,300k (rounded from 385,301)",
+    "ndi_source": "Page 116 Distribution Statement: Income available for distribution = SGD 256,708k",
+    "dpu_source": "Page 8/116: 6.10 cents total = 2.526 + 3.576",
+    "unitholders_source": "Page 291 Statistics of Stapled Securityholdings as at 26 February 2026: 71,313 total holders",
+    "distribution_rate_note": "DPS in annual report rounded to 6.10 cents; exact = 6.102 cents per page 20"
+  }
+}

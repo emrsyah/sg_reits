@@ -1,0 +1,99 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "net_property_income",
+      "reason": "Per-property NPI not disclosed by CICT; only segment-level (Retail/Office/Integrated Developments) NPI is available in the report. Structural absence for this trust."
+    },
+    {
+      "column": "effective_date",
+      "reason": "Land-lease start date not disclosed in the Portfolio Statement; only Remaining Term of Lease is given."
+    },
+    {
+      "column": "lease_expiry_date",
+      "reason": "Not in Portfolio Statement; only Remaining Term of Lease given. Computable but not as-disclosed."
+    },
+    {
+      "column": "trade_mix (per-property)",
+      "reason": "Per-property trade mix not disclosed; only portfolio-level trade mix by GRI is disclosed."
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "ION Orchard tenure details",
+      "note": "ION Orchard is an equity-accounted JV (50% held since Oct 2024). Not in the audited Portfolio Statement so market_valuation and land_tenure are null. Tier-A proportionate value: S$1,855.2m (50% basis). Source: Portfolio Valuation table, page 23."
+    },
+    {
+      "item": "CapitaSpring acquisition details",
+      "note": "Remaining 55% stake in the Commercial Component acquired on 26 Aug 2025 for S$1,900m (100% basis). Prior 45% interest reclassified from Integrated Developments to Office. Source: p23-24."
+    },
+    {
+      "item": "Bukit Panjang Plaza divestment",
+      "note": "Sale of 90 out of 91 strata lots for S$428.0m completed 27 Feb 2026 (post FY-end). Still in Portfolio Statement at held_for_sale at S$390,885k as at 31 Dec 2025."
+    },
+    {
+      "item": "Distribution tranches ex-dates / pay-dates",
+      "note": "Annual report does not disclose specific ex-dates and pay-dates for individual distribution periods within FY2025. The 14 Aug–31 Dec 2025 tranche (4.61 cents) is payable after 31 Dec 2025."
+    },
+    {
+      "item": "FX rates for foreign assets",
+      "note": "EUR1 = SGD1.509 (closing rate, 31 Dec 2025) for Gallileo and Main Airport Center. AUD1 = SGD0.848 (closing rate, 31 Dec 2025) for 100 Arthur Street, 66 Goulburn Street, 101-103 Miller Street. Source: pages 23-24."
+    },
+    {
+      "item": "CapitaSky ownership",
+      "note": "CICT owns 70% of CapitaSky (79 Robinson Road). Market_valuation in Portfolio Statement is at 100% = $1,268,000k. Tier-A proportionate value = $887.6m. Source: pages 23, 109."
+    },
+    {
+      "item": "Gallileo and Main Airport Center ownership",
+      "note": "CICT owns 94.9% of both German assets. Market_valuation in Portfolio Statement is at 100% consolidated basis (per §2b: JV assets IN the Portfolio Statement at 100% with stake footnote). Source: page 109 footnotes 13-14."
+    },
+    {
+      "item": "101-103 Miller Street ownership",
+      "note": "CICT owns 50% via Monopoly Trust as tenants in common. Market_valuation at 100% in Portfolio Statement = $271,054k. Source: page 109 footnote 12."
+    },
+    {
+      "item": "Gross revenue for Bugis+ and Bukit Panjang Plaza",
+      "note": "Aggregate 'Other Assets' category in the Financial Review table (page 25) consolidates Bugis+ and Bukit Panjang Plaza. Individual revenues unavailable from the financial review. GR set to null for both."
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "CapitaSky 70% - Portfolio Statement shows 100% value",
+      "detail": "Market_valuation = $1,268,000k (100% basis, value_basis=consolidated). Tier-A shows $887.6m (70%). Do not use Tier-A figure for market_valuation."
+    },
+    {
+      "trap": "ION Orchard absent from Portfolio Statement",
+      "detail": "Equity-accounted JV; appears only in Tier-A at 50% proportionate value ($1,855.2m). NOT in the audited Portfolio Statement. market_valuation=null for this property."
+    },
+    {
+      "trap": "Gallileo valuation uplift driven by AEI",
+      "detail": "Portfolio Statement value $547,629k ($'000) vs Tier-A $519.7m (94.9%). The Tier-C value is at 100% consolidated; Tier-A is at proportionate 94.9%. Large YoY increase driven by AEI and FX (EUR/SGD)."
+    },
+    {
+      "trap": "CapitaSpring reclassification",
+      "detail": "In FY2024, CapitaSpring appeared as Integrated Development (45% ownership). In FY2025, after acquiring remaining 55% on 26 Aug 2025, it is 100%-owned and classified as Office."
+    }
+  ],
+  "reconciliation": {
+    "market_valuation_source": "Audited Portfolio Statement (Tier C), page 109",
+    "sum_property_market_valuation_25_rows": 25992458000.0,
+    "sum_investment_properties_at_valuation": 25601573000.0,
+    "sum_asset_held_for_sale": 390885000.0,
+    "stated_investment_properties_total": 25601573000.0,
+    "stated_asset_held_for_sale": 390885000.0,
+    "market_valuation_reconciliation": "EXACT MATCH: sum of 25 rows (24 active/office + 1 held_for_sale) = 25,601,573 + 390,885 = 25,992,458 $'000; matches Portfolio Statement line totals exactly",
+    "ion_orchard_note": "ION Orchard (equity-accounted JV, 50%) NOT in Portfolio Statement. market_valuation=null. Tier-A proportionate value $1,855.2m. Legit absence per REFERENCE §2b.",
+    "sum_property_gross_revenue": 1588600000.0,
+    "reported_total_gross_revenue": 1619174000.0,
+    "gross_revenue_diff_pct": 1.89,
+    "gross_revenue_gap_note": "Sum of consolidated property GR (23 active properties excluding ION Orchard equity-accounted JV) = $1,588.6m vs reported consolidated GR $1,619.2m. Diff ~$30.6m (~1.9%) explained by Bugis+ and Bukit Panjang Plaza GR not separately disclosed (aggregated as 'Other Assets' in financial review). Per-property cards do not show individual GR for these two. Revenue note total = $1,619,174k.",
+    "sum_property_npi": null,
+    "reported_total_npi": 1189700000.0,
+    "npi_note": "Per-property NPI structurally absent for CICT; only segment-level NPI disclosed",
+    "revenue_note_total": 1619174000.0,
+    "revenue_note_sum_components": 1619174000.0,
+    "revenue_reconciliation": "PASS: 1,514,171 + 40,243 + 64,760 = 1,619,174 $'000",
+    "expense_note_total": 429425000.0,
+    "expense_note_sum_components": 429425000.0,
+    "expense_reconciliation": "PASS: 141,300 + 65,525 + 51,429 + 32,231 + 35,018 + 94,768 + 584 + 513 + 326 + 7,731 = 429,425 $'000"
+  }
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "base_rental",
+    "amount": 1514171000.0,
+    "currency": "SGD",
+    "label_raw": "Gross rental income",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "car_park",
+    "amount": 40243000.0,
+    "currency": "SGD",
+    "label_raw": "Car park income",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "revenue",
+    "component": "other_income",
+    "amount": 64760000.0,
+    "currency": "SGD",
+    "label_raw": "Other income",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_tax",
+    "amount": 141300000.0,
+    "currency": "SGD",
+    "label_raw": "Property tax",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "utilities",
+    "amount": 65525000.0,
+    "currency": "SGD",
+    "label_raw": "Utilities",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_management_fees",
+    "amount": 51429000.0,
+    "currency": "SGD",
+    "label_raw": "Property management fees",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "property_management_reimbursements",
+    "amount": 32231000.0,
+    "currency": "SGD",
+    "label_raw": "Property management reimbursements",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "marketing",
+    "amount": 35018000.0,
+    "currency": "SGD",
+    "label_raw": "Marketing",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "maintenance",
+    "amount": 94768000.0,
+    "currency": "SGD",
+    "label_raw": "Maintenance",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "depreciation_amortisation",
+    "amount": 584000.0,
+    "currency": "SGD",
+    "label_raw": "Depreciation and amortisation",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "bad_debt_allowance",
+    "amount": 513000.0,
+    "currency": "SGD",
+    "label_raw": "Allowance of doubtful debts",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "bad_debt_writeoff",
+    "amount": 326000.0,
+    "currency": "SGD",
+    "label_raw": "Doubtful debts written off/ (recovered)",
+    "source_page": 159
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "statement": "expense",
+    "component": "other_expenses",
+    "amount": 7731000.0,
+    "currency": "SGD",
+    "label_raw": "Others",
+    "source_page": 159
+  }
+]

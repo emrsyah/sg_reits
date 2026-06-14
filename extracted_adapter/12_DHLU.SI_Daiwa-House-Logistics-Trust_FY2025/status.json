@@ -1,0 +1,119 @@
+{
+  "stem": "12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025",
+  "symbol": "DHLU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Industrial",
+  "template_family": "Daiwa House",
+  "parsed": {
+    "markdown": "parsed_reports_datalab/12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025/full.md",
+    "html_pages": "n/a - markdown used directly per REFERENCE §1 guidance for small tables",
+    "checkpoint_id": null
+  },
+  "sections": {
+    "profile": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "plan": null,
+      "deterministic_fields": [],
+      "needs_llm_fields": ["sub_sector", "management", "income_model"],
+      "other_source_fields": [],
+      "rows": 1,
+      "cross_check": {
+        "vs": "Trust Structure diagram (page 9) + Corporate Directory (page 215)",
+        "match": "4 management entities confirmed: REIT manager, trustee, property manager, sponsor",
+        "gaps": []
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/profile.json"},
+      "note": "llm_only: management scattered across front matter, trust structure diagram, corporate directory. Income model = conventional (base rent + recoverable income, no master lease structure)."
+    },
+    "performance": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "plan": null,
+      "deterministic_fields": [],
+      "needs_llm_fields": ["portfolio_value", "gross_revenue", "net_property_income", "net_distributable_income", "dpu", "distribution_record", "number_of_unitholders"],
+      "other_source_fields": [],
+      "rows": 1,
+      "cross_check": {
+        "vs": "Financial Review summary (page 53), Distribution Statement (page 163), Statistics of Unitholdings (page 205)",
+        "match": "GR S$57,794k, NPI S$44,199k, DI S$30,378k, DPU 4.33c all confirmed from audited FS",
+        "gaps": ["ex_date not disclosed for distributions"]
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/performance.json"},
+      "note": "Portfolio value S$835.2M from marketing summary confirmed against Statement of Portfolio S$835,157k. Unitholders 4,865 as at 12 March 2026."
+    },
+    "properties": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "plan_properties.json (on-the-fly from markdown Statement of Portfolio + property cards)",
+      "deterministic_fields": ["property_name", "country", "market_valuation", "valuation_date", "currency", "land_tenure", "tenure_raw", "lease_expiry_date", "status", "source_page"],
+      "needs_llm_fields": ["ownership", "category"],
+      "other_source_fields": ["address", "nla", "occupancy_rate", "major_tenant"],
+      "rows": 19,
+      "cross_check": {
+        "vs": "Statement of Portfolio total S$835,157k",
+        "match": "Sum of 19 rows = S$835,157k. Confirmed. All 19 properties listed match the report's stated count.",
+        "gaps": ["per-property NPI not available in SGD; JPY figures available for multi-tenanted only", "per-property GR not available for single-tenanted BTS (confidentiality)"]
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/properties.json"},
+      "note": "Statement of Portfolio (page 166) used for market_valuation (Tier C, SGD). Property cards (pages 28-46) used for address, NLA, occupancy, major_tenant. REFERENCE §1 note applied: Statement of Portfolio shows investment properties AT VALUATION = S$835,157k, NOT S$984,117k (which includes ROU and ARO)."
+    },
+    "top_tenants": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "extracted from markdown table directly (page 50, small clean table)",
+      "deterministic_fields": ["rank", "tenant_name", "gri_percentage", "source_page"],
+      "needs_llm_fields": ["trade_sector"],
+      "other_source_fields": [],
+      "rows": 10,
+      "cross_check": {
+        "vs": "Sum of top 10 tenants = 66.6% of NPI (reported)",
+        "match": "24.5+8.4+5.5+5.3+4.1+3.9+3.8+3.7+3.7+3.6 = 66.5% (rounding). Report states 66.6%. Match.",
+        "gaps": ["Tenants A, B, C anonymised per confidentiality — names null, verbatim descriptor not provided in report beyond '3PL', 'E-commerce', 'Retail'"]
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/top_tenants.json"},
+      "note": "pct_basis = npi (not gri). Report footnote: 'Based on NPI for FY2025'. Tenants A/B/C did not consent to name disclosure."
+    },
+    "trade_mix": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "extracted from markdown (page 50, donut chart table)",
+      "deterministic_fields": ["category_raw", "pct", "source_page"],
+      "needs_llm_fields": ["category"],
+      "other_source_fields": [],
+      "rows": 4,
+      "cross_check": {
+        "vs": "Sum = 79.6+11.4+5.8+3.3 = 100.1% (rounding to 100%)",
+        "match": "Confirmed. 4 categories match the donut chart.",
+        "gaps": []
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/trade_mix.json"},
+      "note": "pct_basis = npi. E-commerce mapped to Other Retail Trades (no canonical e-commerce category). 3PL mapped to Logistics & Supply Chain Management."
+    },
+    "financial": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "plan": "extracted from markdown Notes 18 and 19 (page 191, clean 2-col tables)",
+      "deterministic_fields": ["label_raw", "amount", "currency", "source_page"],
+      "needs_llm_fields": ["component", "statement"],
+      "other_source_fields": [],
+      "rows": 7,
+      "cross_check": {
+        "vs": "Note 18 total S$57,794k = reported gross revenue; Note 19 total S$13,595k = reported property expenses",
+        "match": "Both reconcile exactly.",
+        "gaps": []
+      },
+      "files": {"merged": "extracted/DHLU.SI_FY2025/income_components.json"},
+      "note": "Per REFERENCE §1: small clean 2-column tables extracted from markdown directly. Note 18 (Gross Revenue) + Note 19 (Property Operating Expenses). Source page set to 191 (markdown page numbering)."
+    }
+  },
+  "final_dir": "extracted/DHLU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-14"
+}

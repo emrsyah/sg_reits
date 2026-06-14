@@ -1,0 +1,28 @@
+{
+  "symbol": "DHLU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 835200000,
+  "properties_location": "Japan, Vietnam",
+  "gross_revenue": 57794000,
+  "net_property_income": 44199000,
+  "net_distributable_income": 30378000,
+  "dpu": 4.33,
+  "distribution_record": [
+    {
+      "period": "2024-07-01 to 2024-12-31",
+      "dpu": 2.34,
+      "ex_date": null,
+      "pay_date": "2025-03-26"
+    },
+    {
+      "period": "2025-01-01 to 2025-06-30",
+      "dpu": 2.24,
+      "ex_date": null,
+      "pay_date": "2025-09-26"
+    }
+  ],
+  "number_of_unitholders": 4865,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "source_page": 163
+}

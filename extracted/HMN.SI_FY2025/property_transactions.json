@@ -1,0 +1,79 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Chisun Budget Kanazawa Ekimae",
+    "country": "Japan",
+    "completion_date": "2025-01-31",
+    "consideration": null,
+    "notes": "Acquired from GKK Godo Kaisha, unrelated third party. Valuation based on discounted cash flow method.",
+    "source_page": 132
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "ibis Styles Tokyo Ginza",
+    "country": "Japan",
+    "completion_date": "2025-01-31",
+    "consideration": null,
+    "notes": "Acquired from GKK Godo Kaisha, unrelated third party. Valuation based on discounted cash flow method.",
+    "source_page": 132
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Prede Cort Nishikyogoku",
+    "country": "Japan",
+    "completion_date": "2025-08-27",
+    "consideration": null,
+    "notes": "Acquired from HSJPN2 TMK, unrelated third party, together with Pregio Esaka South and Splendide Namba West.",
+    "source_page": 135
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Pregio Esaka South",
+    "country": "Japan",
+    "completion_date": "2025-08-27",
+    "consideration": null,
+    "notes": "Acquired from HSJPN2 TMK, unrelated third party.",
+    "source_page": 135
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "Splendide Namba West",
+    "country": "Japan",
+    "completion_date": "2025-08-27",
+    "consideration": null,
+    "notes": "Acquired from HSJPN2 TMK, unrelated third party.",
+    "source_page": 136
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Citadines Central Shinjuku Tokyo",
+    "country": "Japan",
+    "completion_date": "2025-10-02",
+    "consideration": null,
+    "notes": "Divested to ML Estate Co., Ltd. (which would warehouse for CapitaLand Japan KK, a related party). Sale price JPY25.0 billion, 100% above 2024 valuation.",
+    "source_page": 132
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Citadines Antigone Montpellier",
+    "country": "France",
+    "completion_date": "2025-04-15",
+    "consideration": null,
+    "notes": "Divested in FY2025 (referenced in per-property card notes); gross rental income for FY2025 stated for 1 January 2025 to 15 April 2025.",
+    "source_page": 129
+  }
+]

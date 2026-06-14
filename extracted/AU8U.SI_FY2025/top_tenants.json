@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 1,
+    "tenant_name": "JD.com Group of Companies",
+    "trade_sector": "Departmental Store/Supermarket",
+    "gri_percentage": 1.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 2,
+    "tenant_name": "POP MART Holding Limited",
+    "trade_sector": "Other Retail Trades",
+    "gri_percentage": 1.0,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 3,
+    "tenant_name": "Bestseller Group of Companies",
+    "trade_sector": "Fashion & Accessories",
+    "gri_percentage": 1.0,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 4,
+    "tenant_name": "Bosideng International Holdings Limited",
+    "trade_sector": "Fashion & Accessories",
+    "gri_percentage": 0.9,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 5,
+    "tenant_name": "Guangdong AEON Teem",
+    "trade_sector": "Departmental Store/Supermarket",
+    "gri_percentage": 0.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 6,
+    "tenant_name": "BHG Group of Companies",
+    "trade_sector": "Departmental Store/Supermarket",
+    "gri_percentage": 0.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 7,
+    "tenant_name": "Yun Feng Logistics",
+    "trade_sector": "Logistics & Supply Chain Management",
+    "gri_percentage": 0.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 8,
+    "tenant_name": "Yum China Holdings, Inc",
+    "trade_sector": "Food & Beverages",
+    "gri_percentage": 0.7,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 9,
+    "tenant_name": "Biyoute Commercial Group",
+    "trade_sector": "Departmental Store/Supermarket",
+    "gri_percentage": 0.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "AU8U.SI",
+    "financial_year": 2025,
+    "rank": 10,
+    "tenant_name": "Ping An Insurance Company",
+    "trade_sector": "Banking, Insurance & Financial Services",
+    "gri_percentage": 0.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  }
+]
