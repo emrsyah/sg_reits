@@ -1,0 +1,101 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Industrial",
+    "category": "Industrial / Warehouse / Logistics",
+    "pct_of_portfolio": 21.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Government & NGOs",
+    "category": "Government / Public Sector",
+    "pct_of_portfolio": 17.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Financial Institutions",
+    "category": "Financial Services / Insurance",
+    "pct_of_portfolio": 13.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Consumers",
+    "category": "Food & Beverage / Consumer",
+    "pct_of_portfolio": 11.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Information Technology",
+    "category": "Information Technology / Software",
+    "pct_of_portfolio": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Energy & Utilities",
+    "category": "Energy / Utilities",
+    "pct_of_portfolio": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Media & Telecommunications",
+    "category": "Telecommunications / Media / Entertainment",
+    "pct_of_portfolio": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Manufacturing",
+    "category": "Industrial / Warehouse / Logistics",
+    "pct_of_portfolio": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Real Estate / Lodging",
+    "category": "Real Estate / Property",
+    "pct_of_portfolio": 5.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Healthcare",
+    "category": "Healthcare / Pharmaceuticals / Life Sciences",
+    "pct_of_portfolio": 5.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2025,
+    "category_raw": "Others",
+    "category": "Others",
+    "pct_of_portfolio": 4.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 38.3,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Telecommunications",
+    "pct": 17.7,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT & Electronics",
+    "pct": 16.9,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "Government Related",
+    "category_raw": "Government",
+    "pct": 6.6,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "Banking, Insurance & Financial Services",
+    "category_raw": "Financial Services",
+    "pct": 4.9,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "Other Office Trades",
+    "category_raw": "Real Estate",
+    "pct": 4.3,
+    "pct_basis": "rental_income",
+    "source_page": 39
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2025,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 11.3,
+    "pct_basis": "rental_income",
+    "source_page": 39,
+    "note": "pct_basis stated as 'percentage of total gross rental income' (footnote 1, p.39). Sum: 38.3+17.7+16.9+6.6+4.9+4.3+11.3=100.0%. Report uses 7 categories (6 named + Others). 'Telecommunications' and 'IT & Electronics' both map to IT & Telecommunications canonical; two rows retained with category_raw to preserve report's distinction. 'Real Estate' maps to Other Office Trades as no standard canonical category fits."
+  }
+]

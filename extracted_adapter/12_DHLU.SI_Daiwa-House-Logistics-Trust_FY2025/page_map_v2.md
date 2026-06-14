@@ -1,0 +1,191 @@
+# Page map v2 (classify) — 12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p9  · audited('000): p138
+- [1.00] p9 — This page displays the Trust Structure diagram for Daiwa House Logistics Trust, illustrating its Singapore-based entitie
+- [1.00] p215 — This page presents the organizational structure of Daiwa House Logistics Trust, listing the manager (Daiwa House Asset M
+- [1.00] [million] p6 — This page presents the Corporate Profile of Daiwa House Logistics Trust, detailing its status as an SGX-ST listed REIT f
+- [1.00] p14 — no schema-relevant data
+- [1.00] p126 — no schema-relevant data
+- [1.00] p155 — no schema-relevant data
+- [1.00] p216 — no schema-relevant data
+- [1.00] p12 — no schema-relevant data
+- [0.99] p134 — no schema-relevant data
+- [0.99] p208 — no schema-relevant data
+- [0.99] p212 — no schema-relevant data
+- [0.98] p10 — no schema-relevant data
+- [0.98] p207 — This page contains the Notice of Annual General Meeting (AGM) for Daiwa House Logistics Trust (DHLT) scheduled for 24 Ap
+- [0.98] p129 — no schema-relevant data
+- [0.98] p133 — no schema-relevant data
+- [0.97] p127 — no schema-relevant data
+- [0.96] ['000] p138 — This page presents the Corporate Governance Report detailing the remuneration policy for Key Management Personnel (KMPs)
+- [0.96] p156 — no schema-relevant data
+- [0.96] p213 — no schema-relevant data
+- [0.95] p130 — no schema-relevant data
+- [0.93] p136 — no schema-relevant data
+- [0.93] p11 — no schema-relevant data
+- [0.93] ['000] p137 — This page of the SGX REIT annual report presents a table detailing the fees paid to Directors for FY2025, reporting amou
+- [0.92] p132 — no schema-relevant data
+- [0.92] ['000] p139 — no schema-relevant data
+- [0.92] p148 — no schema-relevant data
+- [0.92] p211 — no schema-relevant data
+- [0.91] p209 — no schema-relevant data
+- [0.90 OCR] p60 — no schema-relevant data
+- [0.89] ['000] p146 — no schema-relevant data
+- [0.89 OCR] p135 — no schema-relevant data
+- [0.88] p210 — no schema-relevant data
+- [0.85] p128 — no schema-relevant data
+- [0.85] p18 — no schema-relevant data
+- [0.83] p145 — no schema-relevant data
+- [0.82 OCR] p91 — no schema-relevant data
+- [0.79] ['000] p203 — This page details SGX-ST and Property Funds Appendix compliant Interested Person Transactions for FY2025, presented in a
+- [0.78] p131 — no schema-relevant data
+- [0.75] ['000] p144 — no schema-relevant data
+- [0.75] p149 — no schema-relevant data
+- [0.73] p55 — no schema-relevant data
+- [0.73] p167 — no schema-relevant data
+- [0.70] p143 — no schema-relevant data
+- [0.62] p21 — no schema-relevant data
+- [0.62] p62 — no schema-relevant data
+- [0.56 OCR] p147 — no schema-relevant data
+- [0.53] p15 — no schema-relevant data
+- [0.52] p1 — no schema-relevant data
+- [0.50] ['000] p204 — no schema-relevant data
+- [0.50 OCR] p63 — no schema-relevant data
+- [0.43 OCR] [million] p140 — no schema-relevant data
+- [0.38 OCR] p141 — no schema-relevant data
+- [0.35 OCR] p3 — This page displays the Table of Contents for the SGX REIT annual report, listing sections such as Corporate Profile, Hig
+- [0.33] p22 — no schema-relevant data
+- [0.32] ['000] p168 — no schema-relevant data
+- [0.30 OCR] p48 — no schema-relevant data
+- [0.29] ['000] p190 — The page presents the "Units in Issue and to Be Issued" table for SGX REIT, detailing the 2025 and 2024 financial years 
+- [0.28 OCR] ['000] p23 — no schema-relevant data
+- [0.27 OCR] ['000] p61 — no schema-relevant data
+- [0.26 OCR] p159 — no schema-relevant data
+- [0.22 OCR] p92 — no schema-relevant data
+- [0.22 OCR] p142 — no schema-relevant data
+- [0.20 OCR] p13 — no schema-relevant data
+- [0.19 OCR] p58 — no schema-relevant data
+- [0.18 OCR] p2 — no schema-relevant data
+- [0.17] p158 — no schema-relevant data
+- [0.16 OCR] p59 — no schema-relevant data
+
+## performance  — top: p205
+- [1.00] ['000] p205 — This page presents the **Statistics of Unitholdings** for Daiwa House Logistics Trust as at 12 March 2026, featuring a t
+- [1.00] [million] p7 — This page presents the Highlights of FY2025 for SGX REIT, featuring a DPU (Distribution Per Unit) financial highlight of
+- [1.00] ['000] p57 — This page presents unit price information, monthly trading performance charts and tables, and index comparisons for the 
+- [0.99] [million] p54 — This page presents the Prudent Capital Management financial indicators and Debt Maturity Profile for Prudential Capital 
+- [0.95] ['000] p164 — This page presents the **Statement of Changes in Unitholders' Funds** for SGX REIT for the financial year ended 31 Decem
+- [0.94] ['000] p206 — This page presents the Statistics of Unitholdings for Daiwa House Logistics Trust as at 12 March 2026, featuring a table
+- [0.90] ['000] p118 — This page presents Figure 10, a table and chart detailing the Greater Fukuoka Long-Term Lease (LMT) Supply-Demand Balanc
+- [0.85] ['000] p161 — This page presents the **Statements of Financial Position** for SGX REIT as at 31 December 2025, reporting Group and Tru
+- [0.85] ['000] p115 — This page presents market overview data for the Greater Osaka long-term rental (LMT) sector, primarily through Figure 6'
+- [0.84] ['000] p113 — no schema-relevant data
+- [0.79] ['000] p116 — This page presents market overview data for the Greater Nagoya region, led by **Figure 8: Greater Nagoya LMT Supply-Dema
+- [0.74] ['000] p112 — This page presents market overview data for the SGX REIT Japan LMT portfolio, featuring Figure 2 (Japan LMT Vacancy Rate
+- [0.72] ['000] p163 — This page presents the **Distribution Statement** for SGX REIT for the financial year ended 31 December 2025, reporting 
+- [0.70] ['000] p114 — no schema-relevant data
+- [0.66] ['000] p117 — This page presents the Greater Nagoya Effective Rent Index (Figure 9) and market analysis for Greater Fukuoka, displayin
+- [0.65] [million] p19 — no schema-relevant data
+- [0.61] ['000] p190 — The page presents the "Units in Issue and to Be Issued" table for SGX REIT, detailing the 2025 and 2024 financial years 
+- [0.61] p22 — no schema-relevant data
+- [0.54 OCR] [million] p20 — no schema-relevant data
+- [0.40] ['000] p53 — This page presents the Financial Review for SGX REIT FY2025, featuring a main table detailing financial highlights such 
+- [0.29 OCR] ['000] p124 — no schema-relevant data
+- [0.22 OCR] p58 — no schema-relevant data
+- [0.20 OCR] p2 — no schema-relevant data
+- [0.20] ['000] p191 — This page presents financial statement notes for the SGX REIT year ended 31 December 2025, featuring tables reporting NA
+- [0.17] ['000] p123 — no schema-relevant data
+- [0.16 OCR] p13 — no schema-relevant data
+
+## properties  — top: p28  · audited('000): p46
+- [1.00] [million] p28 — This page details the physical attributes and valuation of the DPL Sapporo Higashi Kariki property, including its freeho
+- [1.00] [million] p30 — no schema-relevant data
+- [1.00] [million] p31 — no schema-relevant data
+- [1.00] [million] p32 — no schema-relevant data
+- [1.00] [million] p33 — no schema-relevant data
+- [1.00] [million] p35 — This page presents the audited Portfolio Statement (property valuations) for the DPL Gunma Fujioka asset, detailing its 
+- [1.00] [million] p36 — no schema-relevant data
+- [1.00] [million] p37 — no schema-relevant data
+- [1.00] [million] p39 — no schema-relevant data
+- [1.00] [million] p40 — no schema-relevant data
+- [1.00] [million] p42 — no schema-relevant data
+- [1.00] [million] p43 — no schema-relevant data
+- [1.00] ['000] p46 — no schema-relevant data
+- [1.00] ['000] p166 — This page presents the Audited Portfolio Statement for SGX REIT, detailing 20 properties across Japan and Vietnam with t
+- [1.00] [million] p29 — This page details the property profile of DPL Sendai Port, a two-storey industrial warehouse located in Sendai, Japan, w
+- [1.00] [million] p34 — no schema-relevant data
+- [1.00] [million] p41 — This page details the property-specific attributes of DPL Okayama Hayashima, including its land address, completion date
+- [1.00] [million] p45 — This page presents a property profile for D Project Fukuoka Tobara S, detailing its location in Fukuoka, Japan, completi
+- [1.00] ['000] p38 — no schema-relevant data
+- [1.00] [million] p44 — no schema-relevant data
+- [0.99] [million] p52 — This page presents the Japan and Vietnam Portfolio Valuations for 31 Dec 2024 and 31 Dec 2025 in JPY million and VND bil
+- [0.98] ['000] p26 — This page presents the audited Portfolio Statement listing 17 properties across Japan, Vietnam, and other regions with t
+- [0.97] p24 — no schema-relevant data
+- [0.90 OCR] p47 — no schema-relevant data
+- [0.86] [million] p51 — This page presents the DHLT Portfolio acquisition of DPL Gunma Fujioka and reports the portfolio valuation as S$835.2 mi
+- [0.80] p27 — This page presents a Portfolio Overview table detailing property types, Weighted Average Lease Expiration (WALE) by GRI 
+- [0.50] [million] p183 — no schema-relevant data
+- [0.49] ['000] p25 — The main artifact on this page is the DHLT Portfolio Overview, detailing a 19-property portfolio as of 31 December 2025 
+- [0.22] p184 — This page presents a table detailing the significant unobservable inputs used in Level 3 fair value measurements for inv
+- [0.16 OCR] [million] p157 — This page presents the Independent Auditor's Report on the financial statements of Daiwa House Logistics Trust (DHLT) fo
+
+## top_tenants  — top: p50
+- [0.45] p50 — This page presents the Operational Review of DHLT's portfolio, featuring a table detailing Occupancy Rates by region as 
+
+## trade_mix  — top: p123
+- [0.46] ['000] p123 — no schema-relevant data
+- [0.45] p50 — This page presents the Operational Review of DHLT's portfolio, featuring a table detailing Occupancy Rates by region as 
+- [0.42 OCR] ['000] p124 — no schema-relevant data
+- [0.38] ['000] p25 — The main artifact on this page is the DHLT Portfolio Overview, detailing a 19-property portfolio as of 31 December 2025 
+- [0.18] p27 — This page presents a Portfolio Overview table detailing property types, Weighted Average Lease Expiration (WALE) by GRI 
+- [0.17 OCR] ['000] p111 — no schema-relevant data
+
+## financial  — top: p189
+- [1.00] ['000] p189 — This page presents the audited Portfolio Statement for deferred tax liabilities, detailing balances of S$32,299 (2025) a
+- [1.00] p179 — no schema-relevant data
+- [1.00] ['000] p200 — This page presents a continuation of the Fair Values of Assets and Liabilities table (Note 27) detailing financial asset
+- [1.00] ['000] p199 — This page of the SGX REIT annual report presents **NOTES TO THE FINANCIAL STATEMENTS** for the year ended 31 December 20
+- [0.99] p178 — This page contains no schema-relevant data.
+- [0.99] ['000] p193 — This page presents the Operating Segments table for the financial year ended 31 December 2025, reporting SG$'000 for Jap
+- [0.99] ['000] p188 — This page details the Group's loan facilities and borrowings as of 31 December 2025, including specific debt instruments
+- [0.99] ['000] p201 — This page presents the SGX'000 audited Portfolio Statement for significant related party transactions and financial rati
+- [0.99] ['000] p194 — This page presents the Operating Segments table (continued) for the year ended 31 December 2024, detailing segment resul
+- [0.99] ['000] p181 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains Notes 6 to 8 detailing trade receiv
+- [0.99] ['000] p162 — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT's financial year ended 31 December 20
+- [0.98] ['000] p187 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents notes on Trade and Other 
+- [0.98] p173 — no schema-relevant data
+- [0.98] ['000] p186 — This page presents the **Investment in Subsidiaries** and **Trade and Other Payables** notes from the SGX REIT annual re
+- [0.98] p174 — no schema-relevant data
+- [0.97] ['000] p170 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, reporting in SGD'000. It detai
+- [0.97] p172 — no schema-relevant data
+- [0.97] p176 — no schema-relevant data
+- [0.97] ['000] p165 — This page presents the CONSOLIDATED STATEMENT OF CASH FLOWS for the financial year ended 31 December 2025, reporting net
+- [0.97] p177 — no schema-relevant data
+- [0.96] ['000] p198 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains a Liquidity risk table de
+- [0.94] p175 — no schema-relevant data
+- [0.91] ['000] p180 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents accounting policy notes on distribu
+- [0.91] ['000] p192 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents detailed Notes to the Financial Sta
+- [0.90] ['000] p185 — This page contains Level 3 fair value details for Japan and Vietnam properties alongside a Statement of Portfolio listin
+- [0.89] [million] p169 — This page contains notes to the financial statements detailing fee structures under property management and building man
+- [0.87] p171 — no schema-relevant data
+- [0.86] ['000] p182 — This page presents the Consolidated Statement of Portfolio (property valuations) for investment properties and right-of-
+- [0.79] ['000] p191 — This page presents financial statement notes for the SGX REIT year ended 31 December 2025, featuring tables reporting NA
+- [0.76] p184 — This page presents a table detailing the significant unobservable inputs used in Level 3 fair value measurements for inv
+- [0.68] ['000] p195 — This page details the Group's capital management compliance and financial risk management objectives, specifically outli
+- [0.67] ['000] p168 — no schema-relevant data
+- [0.65 OCR] ['000] p197 — This page presents the contractual maturities of financial liabilities for the Group and its subsidiaries for the years 
+- [0.60 OCR] p160 — no schema-relevant data
+- [0.58 OCR] ['000] p196 — This page details the Group's financial risk management policies, specifically presenting a sensitivity analysis table f
+- [0.58] ['000] p53 — This page presents the Financial Review for SGX REIT FY2025, featuring a main table detailing financial highlights such 
+- [0.52] [million] p202 — This page contains notes on subsequent events and authorisation for the SGX REIT financial year ended 31 December 2025, 
+- [0.51] p158 — no schema-relevant data
+- [0.44] [million] p183 — no schema-relevant data
+- [0.44] ['000] p154 — This page (153-165) indexes the SGX'000 financial statements for SGX REIT, listing key artifacts including the Independe
+- [0.38 OCR] [million] p157 — This page presents the Independent Auditor's Report on the financial statements of Daiwa House Logistics Trust (DHLT) fo
+- [0.26] ['000] p163 — This page presents the **Distribution Statement** for SGX REIT for the financial year ended 31 December 2025, reporting 
+- [0.24] p167 — no schema-relevant data
+- [0.24] ['000] p204 — no schema-relevant data
+- [0.15] ['000] p203 — This page details SGX-ST and Property Funds Appendix compliant Interested Person Transactions for FY2025, presented in a

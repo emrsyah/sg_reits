@@ -1,0 +1,204 @@
+{
+  "symbol": "UD1U.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI is not disclosed in this report. Only segment-level NPI is disclosed: Germany EUR 10,753k, Spain EUR 5,816k, France EUR 16,255k (p.193). No per-property NPI breakdown provided in any section."
+    },
+    {
+      "column": "properties.nla",
+      "reason": "Net Lettable Area (NLA) is not disclosed separately from GLA for German and Spanish properties. The report uses 'Total Lettable Area' for German offices (GLA basis). French properties do not disclose individual property areas in the portfolio statement."
+    },
+    {
+      "column": "properties.gla",
+      "reason": "GLA for most French Decathlon and B&M properties is not disclosed individually in the portfolio statement. Only portfolio totals are given: Decathlon 95,500 sqm total, B&M 61,756 sqm total (p.63, p.79). Individual property GLA not read from per-property cards (individual card pages not fully extracted for all 44 French properties)."
+    },
+    {
+      "column": "performance.distribution_record.ex_date",
+      "reason": "Ex-dividend dates not disclosed in the annual report text parsed."
+    },
+    {
+      "column": "performance.distribution_record.pay_date",
+      "reason": "Payment dates for FY2025 distributions not extracted from parsed text."
+    }
+  ],
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "all 27 Decathlon properties (France)",
+      "value": 100.0,
+      "basis": "Portfolio summary page p.63 discloses '100% Occupancy Rate as at 31 Dec 2025' for the Decathlon Portfolio. Applied per-property as a portfolio-level figure — individual property occupancy not separately disclosed in the Statement of Portfolio.",
+      "source_page": 63
+    },
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "all 17 B&M properties (France)",
+      "value": 100.0,
+      "basis": "Portfolio summary page p.79 discloses '100% Occupancy Rate as at 31 Dec 2025' and 'overall occupancy rate of 100%' for the B&M Portfolio. Applied per-property — individual property occupancy not separately disclosed in Statement of Portfolio.",
+      "source_page": 79
+    },
+    {
+      "table": "top_tenants",
+      "field": "trade_sector",
+      "scope": "all 10 rows",
+      "value": "various",
+      "basis": "The top-10 tenant table on p.39 does not include a trade sector column. Trade sectors assigned from the report's own Trade Sectors table (p.39) and known business classification. Specifically: Decathlon → Other Retail Trades (Retail sector in report); GMG-Deutsche Telekom → IT & Telecommunications; B&M → Other Retail Trades; Allianz → Banking, Insurance & Financial Services; ST Microelectronics → IT & Telecommunications (IT & Electronics in report); Westfälisch-Lippische Vermögensverwaltungsgesellschaft mbH → Government Related (regional association/government body); Ebase → Banking, Insurance & Financial Services (fund platform); Land of Hessen → Government Related (state government); DXC Technology → IT & Telecommunications; OXYGEN DATA CENTER → IT & Telecommunications.",
+      "source_page": 39
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_value",
+      "scope": "single value",
+      "value": 798100000,
+      "basis": "Portfolio valuation €798.1m taken from p.6 marketing highlight figure (Tier A). This matches the independent valuation total confirmed in Note 2.3 (p.188): Germany 470,300 + Spain 127,100 + France 200,740 = EUR 798,140k. The audited carrying value including right-of-use assets is EUR 804,280k (p.188), which differs by the France ROU assets of EUR 6,140k. Per schema convention, portfolio_value = headline incl. proportionate JV interests = Tier A / independent valuation EUR 798,140k.",
+      "source_page": 6
+    }
+  ],
+  "data_with_no_home": [
+    {
+      "item": "GRI chart label anomaly",
+      "description": "The FY2025 Gross Rental Income by Property donut chart (p.41) labels 'Il•lumina' at 3.9% and 'Darmstadt Campus' at 0.1%. Il·lumina was divested in January 2024 and cannot have contributed 3.9% of FY2025 GRI. The property card for Darmstadt Campus (p.49) shows GRI €1.9m (approx 3.8% of €50.4m) vs the chart's 0.1%. These labels appear to be swapped or mislabelled in the report's chart. Extraction used per-property card figures as authoritative.",
+      "source_page": 41
+    },
+    {
+      "item": "Segment NPI by geography",
+      "description": "Germany NPI EUR 10,753k; Spain NPI EUR 5,816k; France NPI EUR 16,255k (p.193). These are the only NPI disclosures. No per-property NPI available.",
+      "source_page": 193
+    },
+    {
+      "item": "Debt maturity profile",
+      "description": "German Portfolio EUR 200.8m (Jul 2029); Decathlon Portfolio EUR 51.4m (Jul 2027); Spanish Portfolio EUR 63.5m (Dec 2026); B&M Portfolio EUR 38.4m (Sep 2028); Fixed Rate Green Notes (Berlin Campus) EUR 56.4m/SGD 85m (May 2028). Total gross borrowings EUR 410.5m as at 31 Dec 2025.",
+      "source_page": 6
+    },
+    {
+      "item": "Berlin Campus repositioning Project RE(O)",
+      "description": "Berlin Campus 0% occupied, undergoing conversion to mixed-use hospitality/office. Two 20-year hospitality leases signed (Premier Inn and Stayery) covering ~24% NLA. Phase 1 construction began 2Q2025. EUR 22.8m capex incurred in FY2025. SGD 85m fixed rate green notes issued May 2025 to partly finance repositioning.",
+      "source_page": 45
+    },
+    {
+      "item": "DRV legal claim",
+      "description": "Former Berlin Campus tenant DRV filed a EUR 8.4m legal claim in H1 2025 contesting dilapidation costs. No provision recorded as at 31 Dec 2025. Court filing still pending.",
+      "source_page": 9
+    },
+    {
+      "item": "Property valuation assumptions",
+      "description": "Berlin Campus valuation assumes (i) lease finalisation with major prospective office tenant (ii) refurbishment cost as provided by Manager (iii) no construction cost/risk adjustment. These are special assumptions per the valuer.",
+      "source_page": 188
+    },
+    {
+      "item": "Decathlon portfolio GRI by property (partial)",
+      "description": "Individual GRI disclosed on property cards: Laval EUR 459k; Mâcon EUR 665k; Sens EUR 265k; Verdun EUR 253k; Vichy EUR 321k; Istres EUR 307k; Lannion EUR 330k; Gap EUR 323k; Foix EUR 347k. Portfolio total EUR 9.2m. Not fully extracted for all 27 properties.",
+      "source_page": 63
+    },
+    {
+      "item": "FX rates",
+      "description": "Reporting currency is EUR throughout the consolidated financials. SGD exposure disclosed: Group assets SGD equivalent EUR 1,971k, liabilities EUR 57,875k (related to SGD 85m fixed rate green notes) as at 31 Dec 2025 (p.212). No explicit EUR/SGD or EUR/USD spot rate disclosed in the report.",
+      "source_page": 212
+    },
+    {
+      "item": "B&M portfolio property-level GRI",
+      "description": "Individual B&M property GRI not fully extracted. B&M portfolio total GRI EUR 7.2m (p.79). 17 properties with 100% occupancy. Lease WALE 5.9 years.",
+      "source_page": 79
+    }
+  ],
+  "parsing_traps": [
+    {
+      "trap": "GRI donut chart label swap (Il·lumina vs Darmstadt)",
+      "description": "The FY2025 GRI donut chart (p.41) appears to label Il·lumina at 3.9% and Darmstadt at 0.1%. Il·lumina was divested Jan 2024 and should not appear in FY2025. Darmstadt's property card shows €1.9m GRI. Labels are likely swapped in the chart's rendering. Property card data (p.49) used for Darmstadt GRI.",
+      "resolution": "Used property card figures; flagged in data_with_no_home."
+    },
+    {
+      "trap": "Three-tier valuation — audited vs marketing",
+      "description": "Page 40 shows 'Asset Valuation by Property' in € millions (Tier A). Statement of Portfolio (pp.179-181) shows carrying values in EUR'000 including ROU assets (Tier C). Note 2.3 (p.188) shows independent valuations ex-ROU (798,140k). All market_valuation figures taken from Tier C Statement of Portfolio (pp.179-181), which includes ROU assets for leasehold properties.",
+      "resolution": "Used Statement of Portfolio (Tier C) for all market_valuation fields. Alt_value noted where Tier A differs."
+    },
+    {
+      "trap": "France carrying values include ROU assets",
+      "description": "France total carrying value in Statement of Portfolio (p.181) is 206,880k, which includes EUR 6,140k in right-of-use assets (Note 2.3, p.188). The independent valuation of France properties is EUR 200,740k. For individual leasehold properties (Noyelles-Godault, Maizières-lès-Metz, Fayet, Blois), the carrying value includes the ROU component. Cannot separate per-property ROU from investment property value.",
+      "resolution": "Used Statement of Portfolio values (includes ROU) for all France properties. Note added per affected property."
+    },
+    {
+      "trap": "Concor Park valuation decline",
+      "description": "Concor Park valuation dropped from EUR 80,900k (2024) to EUR 58,700k (2025), a EUR 22.2m decline, due to weak Munich leasing conditions. This is the largest single-property fair value loss. Tier A (p.40) shows same value EUR 58.7m — consistent.",
+      "resolution": "Used Tier C Statement of Portfolio value EUR 58,700k."
+    },
+    {
+      "trap": "GRI percentage footnote basis",
+      "description": "Per-property GRI percentages on the property cards (e.g. Bonn 16.5%) appear to exclude Berlin Campus from the denominator (Berlin had near-zero GRI in 2025). Total GRI excl. Berlin ≈ EUR 41.6m vs stated total EUR 50.4m. The footnote on p.41 (GRI chart) does not explicitly state this. Absolute GRI amounts from the cards (EUR millions) used as authoritative.",
+      "resolution": "Used absolute GRI amounts (EUR millions) from property cards. Percentage figures noted as potentially excluding Berlin from denominator."
+    }
+  ],
+  "reconciliation": {
+    "portfolio_valuation": {
+      "sum_property_values_tier_c": 804280000,
+      "sum_of_which_independent_valuation": 798140000,
+      "sum_of_which_rou_assets": 6140000,
+      "reported_total_carrying_value_p181": 804280000,
+      "reported_independent_valuation_note_2_3": 798140000,
+      "reported_marketing_portfolio_value_p6": 798100000,
+      "status": "RECONCILED",
+      "note": "Germany 470,300 + Spain 127,100 + France 200,740 = 798,140k independent valuation (Note 2.3 p.188). France ROU 6,140k → total carrying 804,280k. Marketing figure €798.1m = €798,100k ≈ €798,140k (rounding). All consistent."
+    },
+    "income_statement": {
+      "gross_revenue": {
+        "rental_income": 39119000,
+        "service_charge_income": 8412000,
+        "carpark_income": 2626000,
+        "other_income": 277000,
+        "sum": 50434000,
+        "disclosed_total": 50434000,
+        "status": "RECONCILED"
+      },
+      "property_operating_expenses": {
+        "property_management": 949000,
+        "repair_maintenance": 8207000,
+        "utilities": 3434000,
+        "property_tax": 3231000,
+        "other_expenses": 1789000,
+        "sum": 17610000,
+        "disclosed_total": 17610000,
+        "status": "RECONCILED"
+      },
+      "net_property_income": {
+        "calculated": 32824000,
+        "disclosed": 32824000,
+        "status": "RECONCILED"
+      },
+      "total_return_for_year": {
+        "calculated": -63200000,
+        "disclosed": -63200000,
+        "status": "RECONCILED",
+        "note": "NPI 32,824 + finance income 532 - finance costs 8,197 - mgmt fees 1,810 - trustee fees 196 - admin 1,706 - other trust exp 2,227 + FX 2,290 + divestment 0 - FV derivatives 8,542 - FV investment props 81,970 + tax 5,802 = -63,200 EUR'000"
+      }
+    },
+    "trade_mix": {
+      "sum_pct": 100.0,
+      "status": "RECONCILED",
+      "note": "Retail 38.3 + Telecommunications 17.7 + IT & Electronics 16.9 + Government 6.6 + Financial Services 4.9 + Real Estate 4.3 + Others 11.3 = 100.0%"
+    },
+    "top_tenants": {
+      "top_10_total_pct": 77.3,
+      "note": "20.8+17.7+17.5+3.8+3.7+3.6+3.2+2.5+2.3+2.2=77.3%. Report does not state a top-10 total explicitly but individual figures sum to 77.3%."
+    },
+    "portfolio_property_count": {
+      "germany": 5,
+      "spain": 4,
+      "france_decathlon": 27,
+      "france_bm": 17,
+      "total": 53,
+      "source": "p.4 text states 5 German + 4 Spanish + 44 French (27 Decathlon + 17 B&M) = 53 properties"
+    },
+    "property_gross_revenue": {
+      "sum_property_gross_revenue": 41728000,
+      "reported_total_gross_revenue": 41700000,
+      "status": "RECONCILED_VIA_NOTES",
+      "basis": "Property cards disclose 'Gross Rental Income' which is a mix of pure rental income and (for German/Spanish offices) includes service charges in the headline GRI figure. Per-property card GRI sums to EUR 41,728k. Portfolio overview disclosures sum to EUR 41.7m (Germany overview €17.8m + Spain portfolio overview €7.5m + Decathlon portfolio p.63 €9.2m + B&M portfolio p.79 €7.2m = €41.7m). These agree within 0.07% (pure rounding). Performance.gross_revenue = EUR 50,434k is TOTAL gross revenue including service charge income (EUR 8,412k), carpark income (EUR 2,626k), and other income (EUR 277k). The card GRI figures represent rental income plus service-charge elements rolled into the headline GRI, which is a different basis from Note 3.2 rental income (EUR 39,119k). The reconciliation here is at the card GRI granularity.",
+      "note": "property.gross_revenue = card 'Gross Rental Income' (not Note 3.2 'Rental income' which is 39,119k). The 8,706k gap to performance.gross_revenue = service charge income (8,412k) + carpark (2,626k) + other (277k) = 11,315k; offset by embedded service charges in German/Spanish card GRI = ~2,609k. Data is internally consistent at card level."
+    },
+    "sum_property_gross_revenue": 41728000,
+    "reported_total_gross_revenue": 41700000
+  }
+}

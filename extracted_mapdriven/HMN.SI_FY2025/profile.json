@@ -1,0 +1,24 @@
+{
+  "symbol": "HMN.SI",
+  "sub_sector": "Hospitality",
+  "management": [
+    {
+      "role": "reit_manager",
+      "company_name": "CapitaLand Ascott Trust Management Limited"
+    },
+    {
+      "role": "trustee",
+      "company_name": "DBS Trustee Limited"
+    },
+    {
+      "role": "trustee",
+      "company_name": "CapitaLand Ascott Business Trust Management Pte. Ltd. (trustee-manager of CapitaLand Ascott BT)"
+    },
+    {
+      "role": "sponsor",
+      "company_name": "The Ascott Limited"
+    }
+  ],
+  "income_model": "mixed",
+  "source_page": 16
+}

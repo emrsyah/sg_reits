@@ -1,0 +1,241 @@
+# Page map v2 (classify) — 18_J69U.SI_Frasers-Centrepoint-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p21  · audited('000): p124
+- [1.00] p21 — no schema-relevant data
+- [1.00] p221 — no schema-relevant data
+- [1.00] p5 — This page describes the organizational structure of Frasers Centrepoint Trust (FCT) and its Manager, Frasers Centrepoint
+- [1.00] p22 — no schema-relevant data
+- [1.00] p97 — no schema-relevant data
+- [1.00] [million] p4 — no schema-relevant data
+- [1.00] p98 — no schema-relevant data
+- [1.00] p139 — no schema-relevant data
+- [0.99] p99 — no schema-relevant data
+- [0.99] p222 — no schema-relevant data
+- [0.99] p120 — no schema-relevant data
+- [0.99] p20 — no schema-relevant data
+- [0.99] p24 — no schema-relevant data
+- [0.98] p18 — no schema-relevant data
+- [0.98] p115 — no schema-relevant data
+- [0.98] ['000] p124 — This page presents the Corporate Governance report's remuneration tables for the CEO, Mr Richard Ng, and key executives 
+- [0.97] p128 — no schema-relevant data
+- [0.97] p6 — no schema-relevant data
+- [0.97] p110 — no schema-relevant data
+- [0.97 OCR] p2 — no schema-relevant data
+- [0.97] p131 — no schema-relevant data
+- [0.96] p40 — no schema-relevant data
+- [0.96] p100 — no schema-relevant data
+- [0.96] p140 — no schema-relevant data
+- [0.95] p106 — no schema-relevant data
+- [0.95] p112 — no schema-relevant data
+- [0.94] p122 — no schema-relevant data
+- [0.94] p107 — no schema-relevant data
+- [0.94] ['000] p114 — no schema-relevant data
+- [0.92] p129 — no schema-relevant data
+- [0.91] ['000] p123 — no schema-relevant data
+- [0.91] ['000] p125 — no schema-relevant data
+- [0.90] p103 — no schema-relevant data
+- [0.90] p108 — no schema-relevant data
+- [0.89] p104 — no schema-relevant data
+- [0.89] p111 — This page presents the Corporate Governance report detailing the Board's diversity targets and progress, with a main art
+- [0.88] p172 — no schema-relevant data
+- [0.88] p121 — no schema-relevant data
+- [0.86] p19 — no schema-relevant data
+- [0.86] p143 — no schema-relevant data
+- [0.83] p134 — This page contains the Corporate Governance report and a table detailing the Manager's Base Fee (up to 0.3% per annum of
+- [0.82] p113 — no schema-relevant data
+- [0.82] p116 — no schema-relevant data
+- [0.77] p144 — no schema-relevant data
+- [0.75] p119 — no schema-relevant data
+- [0.73] p101 — no schema-relevant data
+- [0.70] p102 — no schema-relevant data
+- [0.70] p118 — no schema-relevant data
+- [0.65] p109 — no schema-relevant data
+- [0.65] p117 — no schema-relevant data
+- [0.62 OCR] p1 — no schema-relevant data
+- [0.62] ['000] p126 — no schema-relevant data
+- [0.60] ['000] p219 — This page details the Interested Person Transactions for the financial year ended 30 September 2025, listing aggregate v
+- [0.59] p96 — no schema-relevant data
+- [0.56] p23 — no schema-relevant data
+- [0.54 OCR] [million] p17 — no schema-relevant data
+- [0.53] p130 — no schema-relevant data
+- [0.50] ['000] p185 — no schema-relevant data
+- [0.47 OCR] p105 — no schema-relevant data
+- [0.45 OCR] p132 — no schema-relevant data
+- [0.38 OCR] p133 — no schema-relevant data
+- [0.34] p153 — no schema-relevant data
+- [0.31 OCR] p141 — This page presents the Independent Auditors' Report on Frasers Centrepoint Trust's financial statements as at 30 Septemb
+- [0.29 OCR] p127 — no schema-relevant data
+- [0.27 OCR] p142 — This page contains the Independent Auditors' Report to the Unitholders of Fraser's Centrepont Trust, which addresses the
+- [0.22 OCR] p136 — no schema-relevant data
+- [0.19] ['000] p218 — This page details the use of proceeds from the Equity Fund Raising completed in April 2025, presenting a table with gros
+- [0.18 OCR] ['000] p137 — no schema-relevant data
+- [0.18 OCR] p61 — no schema-relevant data
+- [0.17] p135 — no schema-relevant data
+
+## performance  — top: p10  · audited('000): p216
+- [1.00] [million] p10 — This page presents a 5-year performance overview for the SGX REIT reporting unit in SGD million, featuring five key fina
+- [1.00] ['000] p216 — This page presents the **Statistics of Unitholdings** for the SGX REIT, detailing 2,034,952,990 outstanding units with a
+- [1.00] [million] p12 — This page presents FCT's one-year unit price performance versus the FTSE REIT Index and STI Index (Oct-24 to Sep-25) in 
+- [1.00] ['000] p36 — This page presents the DPU / distribution / financial highlights for SGX REIT, detailing a full-year 2025 distribution o
+- [1.00] p217 — no schema-relevant data
+- [1.00] [million] p13 — This page presents monthly trading performance data for FY25, including a chart and table detailing total volume traded 
+- [0.99] [million] p7 — This page presents the FY25 performance highlights for SGX REIT, featuring a **Financial performance** table reporting G
+- [0.99] ['000] p11 — This page presents Distribution per Unit (DPU) by financial reporting periods and selected income statement, balance she
+- [0.97] [million] p14 — This page contains a Letter to Unitholders summarizing FCT's FY25 performance, explicitly stating gross revenue of SGD'0
+- [0.94] ['000] p147 — This page presents the Distribution Statement for SGX REIT for the financial year ended 30 September 2025, reporting Dis
+- [0.91] [million] p39 — This page presents the Key financial metrics and Debt maturity profile for FCT Group as of 30 September 2025, reporting 
+- [0.90] ['000] p145 — This page presents the **Statements of financial position** for the SGX REIT Group and Trust as at 30 September 2025, re
+- [0.87] [million] p30 — This page presents the Shopper Traffic analysis for the Retail Portfolio, primarily featuring a table of FY25 versus FY2
+- [0.86] [million] p9 — This page summarizes FCT's June through October 2025 events, including debt issuance, portfolio management renewals, and
+- [0.79] ['000] p8 — no schema-relevant data
+- [0.73] [million] p49 — no schema-relevant data
+- [0.63] ['000] p15 — no schema-relevant data
+- [0.59] p28 — This page presents the main artifact, a monthly table of tenants' sales for the Retail Portfolio showing FY24 versus FY2
+- [0.59] p29 — This page presents a table of Committed Occupancy by property for the Retail Portfolio as at 30 September 2025, reportin
+- [0.59] p57 — This page presents **Chart 14** and a corresponding table detailing retail occupancy rates (%) across five Singapore sub
+- [0.54] p56 — This page presents a market overview for the retail property sector, primarily featuring Chart 12 which details the mark
+- [0.40] ['000] p38 — This page presents the Capital Resources section of FCT REIT's annual report, detailing its funding sources, credit rati
+- [0.37] ['000] p148 — This page presents the Statements of movements in Unitholders' funds for the financial year ended 30 September 2025, rep
+- [0.29] ['000] p184 — This page details the Trust's perpetual securities issuance under Note 13 and presents a table of Units in issue (in '00
+- [0.29 OCR] [million] p17 — no schema-relevant data
+- [0.25] ['000] p27 — This page presents the Retail Portfolio's lease expiry profile as at 30 September 2025, featuring a table detailing expi
+- [0.24] ['000] p83 — This page presents the Office performance highlights for Central Plaza, featuring a table of financial data reporting Gr
+- [0.23] ['000] p220 — This page details the Trust's interested person transactions, manager fees paid in Units for the financial year ended 30
+
+## properties  — top: p150
+- [1.00] ['000] p150 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 30 September 2025, listing i
+- [1.00] [million] p37 — This page presents the **audited Portfolio Statement** detailing FCT Group's investment property portfolio appraised val
+- [1.00] ['000] p68 — This page presents a Portfolio overview table detailing the audited portfolio statement for six properties (NEX, Northpo
+- [1.00] [million] p70 — no schema-relevant data
+- [1.00] [million] p76 — no schema-relevant data
+- [1.00] ['000] p149 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing
+- [1.00] ['000] p88 — no schema-relevant data
+- [1.00] ['000] p72 — no schema-relevant data
+- [1.00] ['000] p74 — no schema-relevant data
+- [1.00] [million] p82 — no schema-relevant data
+- [1.00] [million] p69 — This page presents the **Asset portfolio** table detailing five core properties (Tiong Bahru Plaza, Central Plaza, Centu
+- [0.99] [million] p80 — This page presents a property profile for Tiong Bahru Plaza, an SGX REIT asset with no audited Portfolio Statement or fi
+- [0.99] [million] p86 — no schema-relevant data
+- [0.99] [million] p84 — no schema-relevant data
+- [0.98] [million] p78 — no schema-relevant data
+- [0.93] ['000] p211 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing gross revenue and fair-
+- [0.92] ['000] p34 — This page presents the audited Portfolio Statement (property valuations) for FCT Group's investment property portfolio, 
+- [0.88] ['000] p207 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing
+- [0.86] ['000] p213 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, listing p
+- [0.86] p90 — no schema-relevant data
+- [0.71] [million] p33 — no schema-relevant data
+- [0.64] ['000] p209 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing the gross investment pr
+- [0.37] ['000] p210 — This page presents the **Segment reporting (cont'd)** table for SGX REIT's audited Portfolio Statement as at 30 Septembe
+- [0.36] p29 — This page presents a table of Committed Occupancy by property for the Retail Portfolio as at 30 September 2025, reportin
+- [0.32] ['000] p53 — This page presents the Retail Supply Pipeline for 2025–2028, featuring **Chart 10** and **Table 2** which detail future 
+- [0.29] ['000] p212 — This page presents the SGX'000 audited Portfolio Statement (Segment reporting) for Causeway Point, Northpoint City and Y
+
+## top_tenants  — top: p83
+- [0.73] ['000] p83 — This page presents the Office performance highlights for Central Plaza, featuring a table of financial data reporting Gr
+- [0.46] ['000] p79 — This page presents the **Asset portfolio** section for Tampines 1, featuring a **Mall performance highlights** table rep
+- [0.44] ['000] p87 — This page presents the **Asset portfolio** section for Hougang Mall, featuring a **Mall performance highlights** table r
+- [0.35] ['000] p89 — This page presents the Asset Portfolio section of White Sands, featuring a Mall Performance Highlights table with financ
+- [0.35] ['000] p81 — This page presents the Asset Portfolio section for Tiong Bahru Plaza, featuring a Mall Performance Highlights table repo
+- [0.33] ['000] p75 — This page of the SGX REIT annual report presents Mall performance highlights for Causeway Point, led by a financial tabl
+- [0.30] ['000] p71 — This page presents the SGX'000 financial highlights and asset portfolio details for NEX, featuring a Mall performance ta
+- [0.29] ['000] p31 — This page presents the **Trade mix** table detailing property valuations by category as a percentage of total Gross Rent
+- [0.29] ['000] p73 — This page presents the Asset portfolio for Northpoint City, featuring a Mall performance highlights table reporting Gros
+- [0.28] ['000] p77 — This page presents the Asset Portfolio performance for SGX REIT's Mall segment, featuring a Mall Performance Highlights 
+- [0.23] ['000] p85 — This page presents the Asset portfolio section for SGX REIT, featuring a Mall performance highlights table reporting FY2
+
+## trade_mix  — top: p51
+- [0.84] ['000] p51 — This page presents Chart 8 and an accompanying table detailing retail sales growth (2024 vs 2019) across various categor
+- [0.76] ['000] p52 — no schema-relevant data
+- [0.75] ['000] p26 — This page presents a "Summary of lease renewals and rental reversion in FY25" table detailing the Retail Portfolio (439 
+- [0.70] ['000] p31 — This page presents the **Trade mix** table detailing property valuations by category as a percentage of total Gross Rent
+- [0.64] ['000] p85 — This page presents the Asset portfolio section for SGX REIT, featuring a Mall performance highlights table reporting FY2
+- [0.62] ['000] p73 — This page presents the Asset portfolio for Northpoint City, featuring a Mall performance highlights table reporting Gros
+- [0.60] ['000] p77 — This page presents the Asset Portfolio performance for SGX REIT's Mall segment, featuring a Mall Performance Highlights 
+- [0.57] ['000] p71 — This page presents the SGX'000 financial highlights and asset portfolio details for NEX, featuring a Mall performance ta
+- [0.55] ['000] p75 — This page of the SGX REIT annual report presents Mall performance highlights for Causeway Point, led by a financial tabl
+- [0.51] ['000] p89 — This page presents the Asset Portfolio section of White Sands, featuring a Mall Performance Highlights table with financ
+- [0.50] ['000] p81 — This page presents the Asset Portfolio section for Tiong Bahru Plaza, featuring a Mall Performance Highlights table repo
+- [0.47] ['000] p27 — This page presents the Retail Portfolio's lease expiry profile as at 30 September 2025, featuring a table detailing expi
+- [0.47] [million] p55 — no schema-relevant data
+- [0.41] ['000] p79 — This page presents the **Asset portfolio** section for Tampines 1, featuring a **Mall performance highlights** table rep
+- [0.40] ['000] p53 — This page presents the Retail Supply Pipeline for 2025–2028, featuring **Chart 10** and **Table 2** which detail future 
+- [0.39] ['000] p87 — This page presents the **Asset portfolio** section for Hougang Mall, featuring a **Mall performance highlights** table r
+- [0.36] p28 — This page presents the main artifact, a monthly table of tenants' sales for the Retail Portfolio showing FY24 versus FY2
+- [0.24] p57 — This page presents **Chart 14** and a corresponding table detailing retail occupancy rates (%) across five Singapore sub
+- [0.21] [million] p49 — no schema-relevant data
+
+## financial  — top: p187
+- [1.00] ['000] p187 — This page of the SGX REIT annual report for the year ended 30 September 2025 details finance costs and asset management 
+- [1.00] ['000] p190 — This page presents the Fair value of assets and liabilities table for SGX REIT's financial year ended 30 September 2025,
+- [1.00] ['000] p191 — This page presents the "Fair value of assets and liabilities (cont'd)" table for the SGX REIT group as of 30 September 2
+- [1.00] ['000] p192 — This page of the SGX REIT annual report for the financial year ended 30 September 2025 contains a table titled "(a) Clas
+- [1.00] ['000] p193 — This page contains the audited Portfolio Statement (property valuations) for the SGX REIT Trust as of 30 September 2024,
+- [1.00] p156 — no schema-relevant data
+- [1.00] p167 — no schema-relevant data
+- [1.00] ['000] p174 — This page contains the audited Portfolio Statement (investment in joint ventures) for SGX REIT, presenting results and a
+- [1.00] ['000] p183 — This page presents the reconciliation of movements of liabilities to cash flows arising from financing activities for th
+- [0.99] p162 — no schema-relevant data
+- [0.99] p166 — no schema-relevant data
+- [0.99] ['000] p175 — This page presents the Investment in joint ventures table (SGD'000) for SGX REIT, detailing results and assets/liabiliti
+- [0.99] ['000] p179 — This page contains notes on derivative financial instruments and trade receivables, featuring a table of notional amount
+- [0.99] ['000] p206 — This page presents the audited Portfolio Statement (property valuations) under Segment Reporting for the financial year 
+- [0.99] ['000] p189 — This page presents the audited Portfolio Statement for significant related party transactions within the SGX REIT group,
+- [0.99] ['000] p178 — This page presents the **Derivative financial instruments** table detailing Group and Trust interest rate swaps (assets 
+- [0.99] ['000] p182 — This page contains a table detailing the Group's and Trust's interest-bearing borrowings (multicurrency debt) with face 
+- [0.99] ['000] p208 — This page presents the audited Segment Reporting table detailing gross revenue, property expenses, and fair-value change
+- [0.99] p165 — This page contains text-only accounting policy notes regarding impairment of non-financial assets and the recognition of
+- [0.99] p160 — no schema-relevant data
+- [0.98] ['000] p214 — This page presents the Commitments table detailing future capital expenditure for investment properties and share of joi
+- [0.98] p155 — no schema-relevant data
+- [0.98] p169 — no schema-relevant data
+- [0.98] p158 — no schema-relevant data
+- [0.98] ['000] p173 — This page contains the audited Portfolio Statement detailing the Group's and Trust's investment in joint ventures, inclu
+- [0.98] ['000] p177 — This page details the Group's acquisition of subsidiaries (NEX Acquisition) with a net cash outflow of $317,686 thousand
+- [0.98] ['000] p199 — This page of the SGX REIT annual report for the financial year ended 30 September 2025 presents a table detailing hedge 
+- [0.97] ['000] p181 — This page presents the audited Interest-bearing borrowings table for the SGX REIT Group and Trust, reporting values in $
+- [0.97] ['000] p151 — This page presents the **Statement of cash flows** for the financial year ended 30 September 2025, reporting all figures
+- [0.95] p168 — no schema-relevant data
+- [0.95] ['000] p200 — This page presents a table detailing the Group's financial risk management objectives and policies regarding interest ra
+- [0.95] ['000] p201 — no schema-relevant data
+- [0.94] ['000] p180 — no schema-relevant data
+- [0.94] ['000] p176 — This page presents the acquisition of subsidiaries via an asset and liability purchase, detailed by a table summarising 
+- [0.94] ['000] p146 — This page presents the **Statement of Total Return** for SGX REIT for the financial year ended 30 September 2025, report
+- [0.94] ['000] p154 — no schema-relevant data
+- [0.93] [million] p35 — This page presents a narrative performance comparison between FY25 and FY24 for SGX REIT, detailing gross revenue of $38
+- [0.93] p194 — no schema-relevant data
+- [0.92] ['000] p196 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains tables detailing expected credit l
+- [0.92] ['000] p186 — This page presents the Net asset value/net tangible asset per unit table (SGD'000) alongside detailed gross revenue and 
+- [0.92] ['000] p202 — This page contains a table detailing the notional amounts, carrying values, and fair value changes of cross-currency int
+- [0.92] p161 — no schema-relevant data
+- [0.91] ['000] p152 — This page contains the **Statement of Cash Flows** for the financial year ended 30 September 2025, reporting financing a
+- [0.89] p157 — no schema-relevant data
+- [0.89] ['000] p171 — This page contains a table of valuation techniques and significant unobservable inputs (capitalisation rate, discount ra
+- [0.88] ['000] p170 — This page of the SGX REIT annual report for the year ended 30 September 2025 presents a table detailing changes in inves
+- [0.88] ['000] p215 — This page presents the **Financial ratios** table (Expenses to weighted average net assets, Total operating expenses to 
+- [0.86] ['000] p188 — This page of the SGX REIT annual report for the financial year ended 30 September 2025 contains a Statement of Total Ret
+- [0.79] p135 — no schema-relevant data
+- [0.78] p205 — no schema-relevant data
+- [0.76] p164 — no schema-relevant data
+- [0.75] p159 — no schema-relevant data
+- [0.75] ['000] p198 — no schema-relevant data
+- [0.72] p163 — no schema-relevant data
+- [0.71] p195 — no schema-relevant data
+- [0.70] p138 — This page lists the contents of the Financial Statements section, including the Independent auditors' report (page 139),
+- [0.70] ['000] p184 — This page details the Trust's perpetual securities issuance under Note 13 and presents a table of Units in issue (in '00
+- [0.70] ['000] p212 — This page presents the SGX'000 audited Portfolio Statement (Segment reporting) for Causeway Point, Northpoint City and Y
+- [0.64] ['000] p204 — This page contains a Liquidity risk table detailing carrying amounts and contractual cash flows for derivative financial
+- [0.63] p153 — no schema-relevant data
+- [0.62] ['000] p220 — This page details the Trust's interested person transactions, manager fees paid in Units for the financial year ended 30
+- [0.62] ['000] p197 — no schema-relevant data
+- [0.61] ['000] p210 — This page presents the **Segment reporting (cont'd)** table for SGX REIT's audited Portfolio Statement as at 30 Septembe
+- [0.61] ['000] p148 — This page presents the Statements of movements in Unitholders' funds for the financial year ended 30 September 2025, rep
+- [0.59] ['000] p218 — This page details the use of proceeds from the Equity Fund Raising completed in April 2025, presenting a table with gros
+- [0.58] ['000] p203 — This page presents the Liquidity Risk section of the financial statements for SGX REIT, featuring a detailed table of ex
+- [0.40] ['000] p38 — This page presents the Capital Resources section of FCT REIT's annual report, detailing its funding sources, credit rati
+- [0.34] ['000] p209 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing the gross investment pr
+- [0.32] ['000] p219 — This page details the Interested Person Transactions for the financial year ended 30 September 2025, listing aggregate v
+- [0.30] ['000] p185 — no schema-relevant data
+- [0.16 OCR] p142 — This page contains the Independent Auditors' Report to the Unitholders of Fraser's Centrepont Trust, which addresses the
