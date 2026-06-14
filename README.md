@@ -90,27 +90,35 @@ by `validate_schema.py` (Pydantic/type+enum) **and** `check_extraction.py` (reco
 units/provenance):
 
 - **`reit-extract` (pure LLM)** — a Sonnet agent reads the parsed markdown and writes the 8
-  schema JSON files. Data-driven from a 4-archetype sweep: three-tier valuation rule
-  (`market_valuation` only from the audited Portfolio Statement), source precedence, and
-  per-sub-sector playbooks (Retail/Office/Diversified, Hospitality, Data Centre, Healthcare,
-  Industrial). Validated on 5 archetypes — all pass both gates. Best for one-off correctness.
+  schema JSON files. **Assumption-free / discovery-first**: it works from a small set of
+  *invariants* (the schema target; valuation only from the audited Portfolio Statement in
+  `'000`; income = the full Statement of Total Return; absolute money + provenance + reconcile
+  to disclosed totals) and **discovers everything else from the report** — where each table is,
+  its shape, and whether a field is present. The per-sub-sector notes are *illustrative priors*,
+  never rules (reports don't generalise by sub-sector; assuming they do caused real
+  under-captures). Best for one-off correctness.
 
 - **`reit-extract-hybrid` (on-the-fly deterministic + LLM)** — the **scaling** path for the
   ~40-report corpus. Per-row LLM transcription is the bottleneck (regenerating 180 property
   rows as output tokens takes minutes), but that data sits in clean tables. So **each AR is
   handled by its own agent that writes that report's extraction *plans* on the fly**:
 
-  1. **Judge** (LLM) — per section, sample ~5 rows + the schema and decide each field
+  1. **Discover** — ScaleDown maps the report to the schema with no assumptions:
+     `page_map.py` summarises each page, `page_map_classify.py` **classifies** every page
+     against the 6 tables (sub-sector-agnostic rubrics) → `schema_pages_v2.json` ranks the
+     candidate pages per table (`top_audited_000` = the audited '000 statement vs marketing
+     millions). The agent routes off this, reading every candidate before deciding.
+  2. **Judge** (LLM) — per section, sample ~5 rows + the schema and decide each field
      `deterministic` / `needs_llm` / `other_source`, and whether the section is a clean grid
      (`hybrid`) or scattered (`llm_only`).
-  2. **Plan** — author `plan_<section>.json` (column→field map + transforms), locating the
+  3. **Plan** — author `plan_<section>.json` (column→field map + transforms), locating the
      table by header text so it survives layout shifts.
-  3. **Run** — a generic, declarative engine (`run_adapter.py`, *not* exec'd codegen) pulls
+  4. **Run** — a generic, declarative engine (`run_adapter.py`, *not* exec'd codegen) pulls
      every row deterministically.
-  4. **Cross-check** — counts + reconciliation + spot-check vs the source.
-  5. **LLM pass** — resolve the `needs_llm` fields for all rows in one batched call, then
+  5. **Cross-check** — counts + reconciliation + spot-check vs the source.
+  6. **LLM pass** — resolve the `needs_llm` fields for all rows in one batched call, then
      **merge back** (`merge_llm.py`), never overwriting deterministic values.
-  6. **Assemble + gate + track** — write the 8 final files, run both gates, keep
+  7. **Assemble + gate + track** — write the 8 final files, run both gates, keep
      `status.json` current (`track.py` shows progress across all ARs).
 
   A plan is **authored fresh per report** — layout is not guaranteed by sponsor or sub-sector,

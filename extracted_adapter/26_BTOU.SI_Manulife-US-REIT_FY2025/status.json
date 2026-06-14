@@ -119,14 +119,15 @@
       "note": "Performance LLM-only per playbook. DPU halt noted per BTOU quirks: actual DPU=0, disclosed DI/unit=1.44 stored."
     }
   },
-  "final_dir": "extracted_hybrid/BTOU.SI_FY2025",
+  "final_dir": "extracted_mapdriven/BTOU.SI_FY2025",
   "gates": {
-    "schema": "PASS",
-    "check": "PASS"
+    "schema": "PASS (prior run; current mapdriven run pending shell access to re-run)",
+    "check": "PASS (prior run; current mapdriven run pending shell access to re-run)"
   },
   "gate_details": {
-    "schema": "41 valid, 0 invalid",
-    "check": "0 fail, 2 warn, 0 info. Warns: property GR/NPI sums vs reported differ by ~7% due to divested-in-year Plaza/Peachtree; documented in _notes.reconciliation."
+    "schema": "41 valid, 0 invalid (prior run on extracted_hybrid/)",
+    "check": "0 fail, 2 warn, 0 info (prior run). Current mapdriven run: manual pre-validation completed. Known warn: RECON VIA NOTES for GR/NPI (divested-in-year Plaza/Peachtree partial revenue in consolidated; documented in _notes).",
+    "mapdriven_run_note": "Current extraction into extracted_mapdriven/BTOU.SI_FY2025/ completed 2026-06-14. Shell access was denied during run; gates not re-run. Files created: 8/8. Income reconciliation verified manually."
   },
   "updated": "2026-06-14"
 }

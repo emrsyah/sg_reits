@@ -225,8 +225,9 @@ sponsor or sub-sector. The example plans in .claude/skills/reit-extract-hybrid/p
 are illustrations of the plan format only; if you borrow one, re-verify table_contains and
 every column index on THIS report before trusting it.
 
-Do the per-AR pipeline: parse (md + HTML for table pages) -> locate + page_map.py
-(read schema_pages.json so you pull EVERY candidate page per section, not just the first
+Do the per-AR pipeline: parse (md + HTML for table pages) -> discover (locate.py +
+page_map.py summaries + page_map_classify.py routing; read schema_pages_v2.json so you pull
+EVERY candidate page per section, not just the first
 table) -> per section {judge feasibility -> plan -> run_adapter -> cross-check -> batched
 LLM pass -> merge}, llm_only fallback for scattered sections -> assemble the 8 files in
 extracted/<SYMBOL>.SI_FY<YYYY>/ -> run BOTH gates -> keep extracted_adapter/<stem>/status.json
@@ -247,7 +248,8 @@ reliable path is per-report authoring + the gates, not plan reuse.
 
 | Script | Role |
 |---|---|
-| `page_map.py` | schema-aware page index (ScaleDown summary per page → `schema_pages.json` table→pages + `page_map.md`); `--retag` rebuilds tags from existing summaries with no API. Completeness safety net for step 2 |
+| `page_map_classify.py` | **discovery/routing STANDARD** — ScaleDown `/classify` per page vs the 6 tables (sub-sector-agnostic rubrics) → `schema_pages_v2.json` (ranked, `top` + `top_audited_000`) + `page_map_v2.md`. OCR fallback for diagram pages; `/extract` for profile entities; `--rebuild` re-ranks from stored scores (no API). Reuses page_map.py summaries for notes |
+| `page_map.py` | ScaleDown `/summarization/abstractive` summary per page → `page_map.jsonl` / `page_map.md` (the human/agent notes that classify reuses). `--retag` keyword-tags from summaries (legacy, superseded by classify for routing) |
 | `parse_html.py` | Datalab convert → HTML (or json) for the table pages (preserves `<sup>`, page block-ids) |
 | `run_adapter.py` | deterministic engine: plan + HTML → records + llm_todo (the on-the-fly extractor) |
 | `merge_llm.py` | merge the batched LLM pass back; anomaly check |

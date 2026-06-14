@@ -57,15 +57,20 @@ its shape, units, and whether a field is present) you establish by reading.
 
 ```bash
 python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md
-python scripts/adapter/page_map2.py <stem>        # classify-based page index (ScaleDown)
-# (page_map.py is the older keyword/summary variant; page_map2 is preferred — see below)
+python scripts/adapter/page_map.py <stem>            # ScaleDown summaries (per-page notes)
+python scripts/adapter/page_map_classify.py <stem>   # ScaleDown CLASSIFY -> routing (STANDARD)
 ```
-`locate.py` = a cheap regex first pass (sub_sector hint + anchors). **`page_map2.py`** is the
-real discovery tool: it CLASSIFIES every page against the 6 tables (sub-sector-agnostic
-rubrics) → `schema_pages_v2.json` (per table, pages **ranked by score**; `top` = the
-authoritative page; `top_audited_000` = the audited '000 statement vs marketing millions) +
-`page_map_v2.md` (ranked, with summaries + units). Needs `SCALEDOWN_API_KEY` in `.env`;
-`--rebuild` re-ranks from stored scores (no API).
+Discovery is two ScaleDown passes (complementary, not duplicates):
+- `page_map.py` = abstractive **summary** per page → `page_map.jsonl` (human/agent notes).
+- **`page_map_classify.py`** = the **routing standard**: it CLASSIFIES every page against the
+  6 tables (sub-sector-agnostic rubrics) and reuses the summaries for readable notes →
+  `schema_pages_v2.json` (per table, pages **ranked by score**; `top` = the authoritative page;
+  `top_audited_000` = the audited '000 statement vs marketing millions) + `page_map_v2.md`.
+  `--rebuild` re-ranks from stored scores (no API). `locate.py` is just a cheap regex pre-pass.
+
+`SCALEDOWN_API_KEY` in `.env`. ScaleDown capabilities: `/summarization/abstractive` (notes),
+`/classify` (routing — the standard), `/extract` (pull entities/scalars for profile +
+verify-don't-trust cross-checks), `/compress` (shrink narrative context for the LLM lane).
 
 Use it as the **completeness map**: for each schema table, open `schema_pages_v2.json` and
 read EVERY candidate page (start at `top`/`top_audited_000`, then down the ranked list) before

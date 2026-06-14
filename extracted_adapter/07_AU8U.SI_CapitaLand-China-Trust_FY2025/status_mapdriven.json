@@ -1,0 +1,94 @@
+{
+  "stem": "07_AU8U.SI_CapitaLand-China-Trust_FY2025",
+  "symbol": "AU8U.SI",
+  "financial_year": 2025,
+  "sub_sector": "Diversified",
+  "template_family": "CapitaLand",
+  "test": "map-driven extraction (reit-extract-hybrid skill, LLM reading directly from markdown, no existing extraction consulted)",
+  "sections": {
+    "profile": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "source_pages": [19],
+      "cross_check": {
+        "vs": "Trust structure diagram page 19 + Notes page 105",
+        "match": "reit_manager=CapitaLand China Trust Management Limited, trustee=HSBC Institutional Trust Services (Singapore) Limited, sponsor=CapitaLand Investment Limited",
+        "gaps": []
+      },
+      "note": "Map led to p151 and p171 as lead (financial notes on related parties/ratios), and p9 as 'also' — none are the corporate info page. Found manager/trustee from p19 (Trust Structure). Map missed p19 completely — see map assessment."
+    },
+    "performance": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "source_pages": [7, 96, 174],
+      "cross_check": {
+        "vs": "Financial Highlights p7, Distribution Statement p96, Statistics of Unitholdings p174",
+        "match": "GR S$303.7m, NPI S$200.9m, DPU 4.82 cents, 18,075 unitholders as at 24 Feb 2026",
+        "gaps": []
+      },
+      "note": "Map correctly led to p7 (Financial Highlights), p96 (Distribution Statement), p174 (Statistics of Unitholdings) as lead pages."
+    },
+    "properties": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "rows": 18,
+      "source_pages": [100, 101, 102, 26, 27, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56],
+      "cross_check": {
+        "vs": "Consolidated Portfolio Statement pages 100-102 + per-property cards pages 42-55",
+        "match": "17 active + 1 divested = 18 properties. Σ SGD market_valuation active = 4,204,374k = stated total on p102. Σ GR 303,720k = reported. Σ NPI 200,895k = reported.",
+        "gaps": ["Logistics parks have no NLA in the property info tables (GFA only)", "CapitaMall Yuhuating lease_expiry_date null (divested; original expiry not re-stated in 2025 report)"]
+      },
+      "note": "Map correctly routed to pages 100-102 as lead for audited Portfolio Statement. Also correctly pointed to pages 42-57 for property cards (occupancy, GFA/NLA). Dual-currency handled: SGD column used as canonical, RMB preserved in _rmb_valuation_000 audit field."
+    },
+    "top_tenants": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "rows": 10,
+      "source_pages": [32],
+      "cross_check": {
+        "vs": "Top 10 tenants table page 32",
+        "match": "10 tenants; #1 JD.com 1.8%, total top-10 = 9.0% of portfolio GRI",
+        "gaps": []
+      },
+      "note": "Map correctly led to p32 as lead. pct_basis=gri confirmed by footnote 'percentage of Total Gross Rental Income'."
+    },
+    "trade_mix": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "rows": 26,
+      "source_pages": [31],
+      "cross_check": {
+        "vs": "Breakdown of CLCT Portfolio by Trade Sector page 31",
+        "match": "26 leaf categories captured. Retail sub-total 69.3%, Business Parks 27.0%, Logistics 3.7%. Leaf categories sum: retail leaves = 69.3%, BP leaves = 27.0%, logistics leaves = 3.7%. Total = 100%",
+        "gaps": []
+      },
+      "note": "Map correctly led to p31 as lead. Three-tier layout (sub-sector total + leaf categories per sub-sector): captured leaf categories only, not sub-sector totals, to avoid double-count. pct_basis=gri confirmed by 'By GRI (%)' chart label."
+    },
+    "financial": {
+      "status": "done",
+      "method": "hybrid",
+      "adapterable": true,
+      "rows": 20,
+      "source_pages": [95, 148, 149],
+      "cross_check": {
+        "vs": "Consolidated Statement of Total Return p95, Note 20 Manager fees p148, Note 22 Finance p149",
+        "match": "Σrev=307,262k, Σexp=182,992k, Σadj(signed)=-118,697k, computed total=5,573k == reported 5,573k. EXACT reconciliation.",
+        "gaps": []
+      },
+      "note": "Map correctly led to p95 as lead for the Statement of Total Return, p148 for Other property operating expenses / Manager fees note, p149 for finance costs breakdown. All below-NPI lines captured."
+    }
+  },
+  "final_dir": "extracted_mapdriven/AU8U.SI_FY2025",
+  "gates": {
+    "schema": "PASS",
+    "check": "PASS (0 fail, 3 warn)"
+  },
+  "updated": "2026-06-14"
+}

@@ -138,5 +138,14 @@
     "schema": "PASS",
     "check": "PASS"
   },
-  "updated": "2026-06-14"
+  "updated": "2026-06-14",
+  "mapdriven_run": {
+    "final_dir": "extracted_mapdriven/AW9U.SI_FY2025",
+    "gates": {
+      "schema": "PASS (73 valid, 0 invalid)",
+      "check": "PASS (0 fail, 1 warn, 1 info)"
+    },
+    "warn_detail": "RECON VIA NOTES: sum(property.gross_revenue)=91,500,000 vs reported 100,531,000 (diff 8.98%, 31 props). Explained: (1) IAHCC gross_revenue=null (divested, contributed ~11 months but no per-property card figure for divested asset); (2) Note 16 total includes FRS 116 straight-lining adjustment +S$7,446,000 and variable rent S$3,926,000; (3) per-property cards show pre-FRS116 marketing figures rounded to 1dp. _notes.reconciliation documents the basis.",
+    "updated": "2026-06-14"
+  }
 }

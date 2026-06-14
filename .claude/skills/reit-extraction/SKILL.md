@@ -1,7 +1,11 @@
 ---
 name: reit-extraction
-description: Extract structured data from parsed SGX REIT annual reports (markdown from any parser - agentic/cheap LlamaParse, LiteParser, etc.) into the sgx_reit_* schema JSON files, with page provenance and mandatory reconciliation. Use when extracting, re-extracting, or verifying REIT annual report data, when the user mentions extraction against the schema, parsed_reports, or adding a new trust/fiscal year to extracted/.
+description: "[DEPRECATED — do not use. Superseded by reit-extract (single report) and reit-extract-hybrid (batch, discovery-first). This older skill predates the §0 invariants / discovery-first approach and contains overfit per-sub-sector assumptions that cause under-extraction. Kept only for history.]"
 ---
+
+> ⚠️ **DEPRECATED.** Use **`reit-extract`** (single report) or **`reit-extract-hybrid`** (batch,
+> discovery-first via ScaleDown classify). This skill's per-sub-sector assumptions are the exact
+> overfit this project moved away from — do not extract with it.
 
 # REIT annual-report extraction
 

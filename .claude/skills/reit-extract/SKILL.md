@@ -60,8 +60,11 @@ complementary — neither alone is sufficient.
    never read 200 pages linearly. Trust the sub_sector guess but sanity-check it (Retail +
    Office co-dominant ⇒ Diversified).
 
-2. **Pick the playbook** for the sub_sector (below). It tells you which tables to fill,
-   which to leave empty, and where the data lives for that archetype.
+2. **Read §0 INVARIANTS in REFERENCE.md first** — those are the only things you may assume.
+   The sub_sector playbooks below are ILLUSTRATIVE PRIORS (where data *usually* lives), NOT
+   rules: never decide a table is empty because the playbook says so — discover from THIS
+   report and reconcile. (Reports don't generalise by sub-sector; assuming they do is what
+   caused under-captures like declaring hospitality's industry mix "absent".)
 
 3. **Extract in source-precedence order** (audited wins every conflict):
    audited Portfolio Statement (Tier C) → audited Statement of Total Return + revenue/
@@ -110,6 +113,9 @@ complementary — neither alone is sufficient.
    items — feeds schema iteration), `parsing_traps`, `reconciliation`.
 
 ## Sub-sector playbooks
+
+> ⚠️ ILLUSTRATIVE PRIORS, NOT RULES (see REFERENCE.md §0). Use them to speed discovery —
+> never to decide what's present/absent. The report overrides every one of these.
 
 **Retail / Office / Diversified** (CICT, Manulife US, Keppel REIT, FCT…)
 - Full table set. `trade_mix` and `top_tenant` both present and rich.

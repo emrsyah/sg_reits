@@ -1,0 +1,87 @@
+{
+  "stem": "28_M44U.SI_Mapletree-Logistics-Trust_FY2025",
+  "symbol": "M44U.SI",
+  "financial_year": 2025,
+  "sub_sector": "Industrial",
+  "template_family": "Mapletree",
+  "run_type": "map-driven LLM extraction (no adapter engine)",
+  "parsed": {"markdown": "parsed_reports_datalab/28_M44U.SI_Mapletree-Logistics-Trust_FY2025/full.md"},
+  "sections": {
+    "profile": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "cross_check": {"vs": "p174 trust deed notes + p2 corporate profile", "match": "manager=Mapletree Logistics Trust Management Ltd, trustee=HSBC Institutional Trust Services (Singapore) Limited, sponsor=Mapletree Investments Pte Ltd"},
+      "note": "Management details from p174 (trust deed notes) and p2 (corporate profile). income_model=conventional (no master-lease structure disclosed)."
+    },
+    "performance": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "rows": 1,
+      "cross_check": {"vs": "p5 highlights + p6 financial highlights + p124 distribution statement + p229 unitholdings", "match": "gross_revenue=727,026k, NPI=625,293k, DPU=8.053c, unitholders=34,292"},
+      "note": "FY2025 = year ended 31 March 2025. DPU 8.053c over 4 quarterly distributions."
+    },
+    "properties": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": false,
+      "reason_not_adapted": "FACING-PAGE POSITIONAL SPLIT: description columns (name/tenure/location) and value columns (revenue/occupancy/valuation) are in separate tables with blank col0 on the value side across 38 paired pages (p130-171). Per table-shape taxonomy this is llm_only.",
+      "rows": 197,
+      "cross_check": {
+        "vs": "p46 stated 180 properties; p167 total valuation S$13,156,611k",
+        "match": "176 active + 4 held_for_sale = 180 matching stated portfolio count; Σ market_valuation = S$13,156,611k EXACT match to p167 Group total",
+        "gaps": ["17 divested rows included with null valuations for audit trail", "5A Joo Koon Circle: 0 revenue (redevelopment), valuation S$188m (completed May 2025 post FY-end)"]
+      },
+      "note": "Multi-currency: AUD (Australia), HKD (HK), SGD (China/India/Vietnam translated), JPY (Japan), MYR (Malaysia), KRW (South Korea). All market_valuation figures in SGD as per audited Group Portfolio Statement."
+    },
+    "top_tenants": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": true,
+      "rows": 10,
+      "cross_check": {"vs": "p49 table", "match": "top-10 sum = 21.7% (text confirms); top tenant Equinix 3.7%"},
+      "note": "pct_basis=gross_revenue per report wording. Page 49 is the authoritative source (map lead confirmed). Named tenants, not anonymised."
+    },
+    "trade_mix": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": true,
+      "rows": 16,
+      "cross_check": {"vs": "p50 table; sum=100%", "match": "16 categories sum to 100%"},
+      "note": "pct_basis=gross_revenue. Page 50 is authoritative (map lead p50 confirmed). Top 3: F&B 19%, Consumer Staples 17%, Electronics & IT 13%."
+    },
+    "financial": {
+      "status": "done",
+      "method": "llm_only",
+      "adapterable": true,
+      "rows": 24,
+      "cross_check": {
+        "vs": "p121 Statement of Profit or Loss; p187-188 Notes 3-7",
+        "match": "Complete WHOLE statement captured",
+        "reconciliation": {
+          "gross_revenue_sgd_000": 727026,
+          "property_expenses_sgd_000": -101733,
+          "npi_sgd_000": 625293,
+          "interest_income_sgd_000": 2648,
+          "management_fees_sgd_000": -90513,
+          "trustee_fees_sgd_000": -1821,
+          "other_trust_expenses_net_sgd_000": -10909,
+          "borrowing_costs_sgd_000": -156893,
+          "net_investment_income_sgd_000": 367805,
+          "fair_value_derivatives_sgd_000": -26947,
+          "net_movement_investment_properties_sgd_000": -67612,
+          "gain_disposal_subsidiary_sgd_000": 515,
+          "income_tax_expense_sgd_000": -64865,
+          "profit_for_year_sgd_000": 208896,
+          "note": "P&L lines: NPI(625,293) + interest_income(2,648) - mgmt_fees(90,513) - trustee(1,821) - other_trust_net(10,909) - borrowing(156,893) = net_investment_income(367,805). Then -26,947 + 515 - 67,612 - 64,865 = 208,896 profit. VERIFIED."
+        }
+      },
+      "note": "Full Statement of P&L captured: revenue (rental/service/other/interest), property expenses (5 lines), management fees (base+performance), trustee, valuation/professional/other trust expenses, finance costs (3 lines), fx gain, fair-value change derivatives, investment property movement, disposal gain, tax. 24 lines total."
+    }
+  },
+  "final_dir": "extracted_mapdriven/M44U.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-14"
+}
