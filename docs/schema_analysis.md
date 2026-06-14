@@ -1,5 +1,9 @@
 # S-REIT Annual Report Extraction Analysis & Schema Proposal
 
+> ⚠️ **HISTORICAL — superseded.** Current operational reference: `docs/pipeline_end_to_end.md`
+> (assumption-free + discovery-first); schema is canonical in `schema/sgx_reit_schema.md` +
+> `schema/models.py`. This is an earlier analysis snapshot; do not treat it as current guidance.
+
 > Based on LlamaParse (agentic tier) parses of 5 FY2025 annual reports, deliberately stratified
 > across sector, sponsor, size and structure. Parsed sources in `parsed_reports/<stem>/full.md`
 > (page-anchored markdown) and `pages.jsonl` (per-page markdown + item types).

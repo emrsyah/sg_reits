@@ -1,5 +1,9 @@
 # Reflection on schema feedback — evidence from 9 parsed annual reports
 
+> ⚠️ **HISTORICAL — superseded.** Current operational reference: `docs/pipeline_end_to_end.md`
+> (assumption-free + discovery-first). This is an earlier reflection snapshot; do not treat it
+> as current guidance.
+
 Response to the review feedback on `reit_schema_proposal.md`, grounded in a re-examination of the
 5 originally parsed reports plus 4 newly parsed ones (CapitaLand Ascendas, Frasers Centrepoint,
 KORE US, Stoneweg Europe). One more file (Sasseur "FY2024") turned out to be a mis-catalogued

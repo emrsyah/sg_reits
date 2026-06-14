@@ -1,5 +1,9 @@
 # S-REIT Ingestion Plan — parsing & extraction for production
 
+> ⚠️ **HISTORICAL — superseded.** Current operational reference: `docs/pipeline_end_to_end.md`
+> (assumption-free + discovery-first). This is an earlier planning snapshot; do not treat it as
+> current guidance.
+
 > Scope: how ~120 backfill annual reports (~36k pages) and ~39 reports/year (~12k pages)
 > get from PDF → validated rows in the `sgx_reit_*` schema (`sgx_reit_schema_v2.md`).
 > Grounded in: 22 reports already parsed on LlamaParse agentic tier, 20 of them audited

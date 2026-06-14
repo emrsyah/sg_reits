@@ -1,5 +1,9 @@
 # High-accuracy PDF→schema extraction: strategy research (2025/2026)
 
+> ⚠️ **HISTORICAL — superseded.** Current operational reference: `docs/pipeline_end_to_end.md`
+> (assumption-free + discovery-first). This is earlier research; do not treat it as current
+> guidance.
+
 > Research brief: best strategies/technologies/libraries/models for a high-accuracy
 > (~99% field-level) ingestion pipeline over ~40 SGX REIT annual reports (×3 FYs ≈ 120
 > PDFs, 80–400 pages, every issuer a different layout) into a fixed relational schema
