@@ -52,6 +52,9 @@
   .fv{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;word-break:break-word}
   .fv.null{color:#5a6172;font-style:italic}
   .fv.num{color:#9ad29a}
+  .fv.inferred{color:var(--maybe)}
+  .infb{font-size:9px;background:rgba(244,183,64,.18);color:var(--maybe);border:1px solid var(--maybe);
+        border-radius:4px;padding:0 4px;margin-left:5px;vertical-align:middle;cursor:help}
   .frow.sp .fk,.frow.sp .fv{background:#243044}
   .actions{display:flex;gap:6px;align-items:center;margin-top:9px}
   .vbtn{flex:1;border:1px solid var(--line);background:var(--panel2);color:var(--dim);
@@ -94,6 +97,7 @@
 <script>
 const $ = s => document.querySelector(s);
 let DIR=null, RECORDS=[], REVIEW={items:{},page_offset:0}, FILTER="all", pdfLoadedDir=null;
+let INFERRED={};   // "section.field" -> basis, from _notes.inferred[]
 
 async function init(){
   const reports = await (await fetch('/api/reports')).json();
@@ -169,11 +173,17 @@ function render(notes){
   const right=$('#right');
   const bySection={};
   RECORDS.forEach(r=>(bySection[r.section]=bySection[r.section]||[]).push(r));
+  // inferred/derived fields declared in _notes.inferred[] -> mark them so disclosed values
+  // are never confused with computed ones
+  INFERRED={};
+  const infList=(notes&&notes.inferred)||[];
+  for(const i of infList){ if(i&&i.table&&i.field) INFERRED[i.table+'.'+i.field]=i.basis||'inferred'; }
   let html='';
   if(notes){
-    html += `<details class="notesref"><summary>_notes.json (reconciliation · quirks · nulls)</summary>`
+    html += `<details class="notesref"><summary>_notes.json (reconciliation · quirks · nulls · inferred)</summary>`
           + `<pre>${escapeHtml(JSON.stringify(notes,null,2))}</pre></details>`;
   }
+  if(infList.length) html+=`<p class="hint">⚠ ${infList.length} inferred/derived field-rule(s) — shown amber below (computed, not disclosed).</p>`;
   const order=["profile","performance","properties","top_tenants","trade_mix","income_components","property_transactions"];
   for(const sec of order){
     const recs=(bySection[sec]||[]).filter(r=>passesFilter(r.id));
@@ -194,9 +204,11 @@ function cardHtml(r){
   for(const [k,val] of Object.entries(r.fields)){
     const [disp,cls]=fmtVal(val);
     const sp = k==='source_page';
+    const inf = INFERRED[r.section+'.'+k];
+    const infBadge = inf? ` <span class="infb" title="${escapeHtml(inf)}">inferred</span>`:'';
     frows+=`<div class="frow ${sp?'sp':''}" style="display:contents">`
          +`<div class="fk">${escapeHtml(k)}</div>`
-         +`<div class="fv ${cls}">${escapeHtml(disp)}</div></div>`;
+         +`<div class="fv ${cls} ${inf?'inferred':''}">${escapeHtml(disp)}${infBadge}</div></div>`;
   }
   const pg=r.source_page;
   return `<div class="card ${v?('v-'+v):''}" data-id="${r.id}" data-page="${pg==null?'':pg}">

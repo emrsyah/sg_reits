@@ -230,6 +230,24 @@ def main() -> None:
         warns.append("top_tenants is empty and not declared structural — the top-N "
                      "tenants/customers table was likely missed")
 
+    # 4e. inferred-value provenance (REFERENCE §0 #7) — inferred/derived values must be
+    # declared in _notes.inferred[] so they aren't mistaken for disclosed data.
+    notes = data["_notes"][0] if data["_notes"] else {}
+    inferred = notes.get("inferred", []) or []
+    inferred_fields = {(str(i.get("table", "")), str(i.get("field", ""))) for i in inferred}
+    for i in inferred:
+        if not (i.get("table") and i.get("field") and i.get("basis")):
+            warns.append(f"_notes.inferred entry missing table/field/basis: {i}")
+    # heuristic: a per-property field that is uniform across many rows is usually a portfolio
+    # figure applied per-property (inference) — must be declared inferred.
+    for field in ("occupancy_rate",):
+        vals = [p.get(field) for p in props if isinstance(p.get(field), (int, float))]
+        if len(vals) >= 5 and len(set(vals)) == 1 \
+                and ("properties", field) not in inferred_fields:
+            warns.append(f"properties.{field} is uniform ({vals[0]}) across {len(vals)} rows "
+                         f"— if applied from a portfolio figure it's INFERRED; declare it in "
+                         f"_notes.inferred[] (or it's coincidence — confirm)")
+
     # 5. fill rates
     if props:
         keys = sorted({k for p in props for k in p})

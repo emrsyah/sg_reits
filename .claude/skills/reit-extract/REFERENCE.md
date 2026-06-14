@@ -36,6 +36,19 @@ These hold for every SGX REIT — they are accounting/SGX structure, not observa
 6. **Structural absence must be proven from this report**, with evidence — never declared
    because "sub-sector X usually lacks it". "Disclosed on a narrow basis" ≠ absent (capture it,
    scope it).
+7. **Disclosed vs inferred — flag every inference.** Prefer disclosed values. You MAY infer or
+   derive a value for completeness (compute it; apply a portfolio figure per-property; assign a
+   category from a name/known fact) — but it must be FLAGGED, never made to look disclosed.
+   Record each in **`_notes.inferred[]`**:
+   ```json
+   {"table": "properties", "field": "occupancy_rate", "scope": "all active rows",
+    "value": 100.0, "basis": "portfolio 'committed occupancy 100%' applied per-property
+    (master lease); not disclosed per property", "source_page": 71}
+   ```
+   (Use `scope` for a whole-field rule, or `rows`/`property_name` for specific records.) Examples
+   that MUST be flagged: occupancy=100% applied from a portfolio figure; a top-tenant
+   `trade_sector` assigned from the company name when the table has no sector column; a value
+   computed as `total × pct`. If you can't justify the inference, leave the field null.
 
 Anything in §1/§3b/§4 below that predicts presence/absence/shape from sub-sector or sponsor is
 an *observation* (overfit to the 4 reports), not an invariant — use it only as a hint to speed

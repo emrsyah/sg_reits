@@ -218,6 +218,9 @@ extracted/<SYMBOL>.SI_FY<YYYY>/                        FINAL 8-file output (gate
   fair-value change, divestment gains, tax), not just the revenue/opex notes. Verify
   `Σrevenue − Σexpense + Σadjustment(signed) = Total return for the year`.
 - Σ checks reconcile (property valuation/revenue vs totals) within tolerance.
+- **Every inferred/derived value is flagged in `_notes.inferred[]`** (occupancy applied from a
+  portfolio figure, a category assigned from a name, a value computed as total×pct) — disclosed
+  values are never confused with computed ones (REFERENCE §0 #7).
 - Both gates green (incl. no "income_components likely INCOMPLETE" warn); `status.json` reflects
   reality; `track.py` shows the AR resolved.
 - Money absolute (<1,000,000 trust-level ⇒ unscaled); every record has `source_page`.
