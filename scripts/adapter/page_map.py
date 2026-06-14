@@ -59,7 +59,8 @@ LEAD_ANCHORS = {
                     r"\bthe manager\b|trustee[\s-]manager|the sponsor\b"],
     "performance": [r"financial (highlights|review)", r"five[\s-]year", r"key financial",
                     r"distribution statement", r"lease expiry profile",
-                    r"key (statistics|figures)|performance (at a glance|highlights)"],
+                    r"key (statistics|figures)|performance (at a glance|highlights)",
+                    r"(statistics|distribution)[^.]{0,25}unithold|unitholding statistics"],
     "properties":  [r"portfolio statement", r"statement of portfolio",
                     r"portfolio overview|portfolio (review|at a glance)"],
     "top_tenants": [r"top[\s-]?(\d+|ten|n)\s*(tenants|customers|clients|lessees|"
@@ -78,7 +79,8 @@ LEAD_ANCHORS = {
 MENTION_ANCHORS = {
     "profile":     [r"\bmanager\b|\btrustee\b|\bsponsor\b|property manager"],
     "performance": [r"distribution per unit|\bdpu\b", r"net asset value|\bnav\b",
-                    r"aggregate leverage|cost of debt|interest coverage", r"lease expiry"],
+                    r"aggregate leverage|cost of debt|interest coverage", r"lease expiry",
+                    r"\bunitholders?\b|unitholding"],
     "properties":  [r"investment propert", r"property (valuation|overview|portfolio)",
                     r"\boccupancy\b", r"land tenure|leasehold|freehold|\bgfa\b|\bnla\b|\bgla\b"],
     "top_tenants": [r"\btenant\b|\bcustomer\b|\bclient\b|\blessee\b",
@@ -173,7 +175,10 @@ def detect_unit(summary):
 
 def tag_summary(summary):
     """{table: 'lead'|'also'} from the summary; lead = named in the first sentence."""
-    if not summary or "no schema-relevant data" in summary.lower():
+    # Only treat as empty when the SLM returned the instructed sentinel reply — not when
+    # a longer summary merely mentions "no schema-relevant data such as ..." in passing
+    # (that phrasing was zeroing out real pages, e.g. the Statistics of Unitholdings page).
+    if not summary or summary.lower().strip().startswith("no schema-relevant data"):
         return {}
     full = summary.lower()
     tags = {}

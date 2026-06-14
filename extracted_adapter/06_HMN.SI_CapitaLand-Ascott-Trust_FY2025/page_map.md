@@ -5,21 +5,25 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 
 ## profile
 - **MAIN (lead):**
+    - p16 — This page features two main diagrams illustrating the Trust Structure and Organisation Structure of CapitaLand Ascott Trust (CLAS), detailing relation
     - p98 ['000] — This page presents the Statement of Policies and Practices for CapitaLand Ascott Business Trust, featuring a table detailing FY 2025 fees earned by th
     - p100 — This page lists the contents of the Financial Statements section, including reports from the Trustee, Manager, and BT Trustee-Manager; an Independent 
     - p122 ['000] — This page presents the Statements of Movements in Stapled Securityholders' Funds for CapitalLand and Ascott BT Group for the year ended 31 December 20
     - p292 ['000] — This page details CapitalLand Ascott Trust's operating expenses of S$493.4 million and taxation of S$111.8 million for FY 2025, alongside tables summa
+    - p297 — This page contains the corporate information for CapitaLand Ascott Trust Management Limited and CapitaLand Ascott Business Trust Management Pte. Ltd.,
 - **also mentions:**
     - p5 ['000] — This page presents textual financial highlights for CLAS REIT (SGX: 1825) reporting in SGD'000, detailing an FY 2025 total distribution of S$233.5 mil
     - p46 — This page presents a single-page summary for the Ireland reporting unit featuring a revenue and valuation table for the Temple Bar Hotel Dublin by The
     - p236 ['000] — This page presents the Stapled Group's interest rate risk disclosures and a table detailing the carrying amounts of fixed and variable rate financial 
     - p251 ['000] — This page presents the "Related parties" table detailing significant related party transactions for the CapitaLand Ascott REIT Group, CapitaLand Ascot
+    - p268 — This page of the CapitaLand Ascott Business Trust Management Pte. Ltd. annual report serves as an index, listing the contents and corresponding page n
     - p276 [million] — This page contains the **Statement of Cash Flows** for the financial year ended 31 December 2025, reporting net cash used in operating activities of $
     - p277 — This page presents the Notes to the Financial Statements for CapitaLand Ascott Business Trust Management Pte. Ltd. (the "Company") for the year ended 
     - p291 ['000] — This page presents a table of Interested Person Transactions for the financial year, detailing aggregate values in S$'000 for entities including Temas
 
 ## performance
 - **MAIN (lead):**
+    - p2 — This page displays the Table of Contents for the SGX REIT annual report, listing sections such as Overview, Performance, Governance, Financial Stateme
     - p5 ['000] — This page presents textual financial highlights for CLAS REIT (SGX: 1825) reporting in SGD'000, detailing an FY 2025 total distribution of S$233.5 mil
     - p7 — This page presents a Portfolio Snapshot highlighting 103 properties across four lodging asset classes in 16 countries, alongside DPU/financial highlig
     - p8 [million] — This page presents the SGX REIT's 2025 Financial Highlights, featuring a comprehensive table displaying five-year data for gross revenue (S$ million),
@@ -36,19 +40,24 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p122 ['000] — This page presents the Statements of Movements in Stapled Securityholders' Funds for CapitalLand and Ascott BT Group for the year ended 31 December 20
     - p146 ['000] — This page presents the Statements of Cash Flows for CapitaLand Ascott REIT Group, BT Group, and Stapled Group for the year ended 31 December 2025, rep
     - p176 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (continued) as of 31 December 2025, detailing capital land assets
+    - p179 — This page details the fair value hierarchy and valuation techniques for Property, Plant and Equipment, specifically presenting significant unobservabl
     - p217 ['000] — This page presents a table titled "Profit From Divestments (continued)" detailing the gain/(loss) on divestment of assets held for sale and gain on di
     - p259 — This page outlines the SGX REIT's accounting policies for determining fair values of assets and liabilities, specifically detailing methods for financ
     - p262 ['000] — This page contains a table detailing the fair value of assets and liabilities as of 31 December 2025, reporting carrying amounts and fair values in SG
+    - p271 — This page contains the Independent Auditor's Report confirming that CapitaLand Ascott Business Trust Management Pte. Ltd.'s financial statements for t
+    - p297 — This page contains the corporate information for CapitaLand Ascott Trust Management Limited and CapitaLand Ascott Business Trust Management Pte. Ltd.,
 - **also mentions:**
     - p22 [million] — This page presents the Debt Maturity Profile tables for CLAS as at 31 December 2025 and 31 December 2024, detailing total borrowings of S$'million (sp
     - p25 ['000] — This page presents a table titled "Lease Expiry for Master Leases" detailing the percentage of gross rental income for CLAS' 28 master leases expiring
     - p113 ['000] — This page presents the Statements of Financial Position for CapitaLand Ascott REIT Group, BT Group, and Stapled Group as at 31 December 2025, reportin
     - p203 ['000] — This page presents the Stapled Group's Financial Liabilities table (currency, nominal interest rates, maturity years, face and carrying amounts in $'0
     - p220 ['000] — This page presents the Issue Expenses table for the CapitalLand Ascott REIT Group, Stapled Group, and BT Group for the financial year ended 31 Decembe
+    - p225 — This page contains no schema-relevant data, as it presents narrative disclosures regarding liquidity risk management and financial liabilities without
     - p252 ['000] — This page contains the Financial Ratios table for CapitalLand Ascott REIT Group and Stapled Group for the year ended 31 December 2025, reporting expen
 
 ## properties
 - **MAIN (lead):**
+    - p2 — This page displays the Table of Contents for the SGX REIT annual report, listing sections such as Overview, Performance, Governance, Financial Stateme
     - p5 ['000] — This page presents textual financial highlights for CLAS REIT (SGX: 1825) reporting in SGD'000, detailing an FY 2025 total distribution of S$233.5 mil
     - p18 [million] — This page presents a table detailing CLAS' portfolio revenue and gross profit by country for FY 2025 and FY 2024, reporting figures in local currencie
     - p24 [million] — This page presents a Portfolio Overview featuring a Total Assets by Geography table and chart displaying the asset split as 56% Asia Pacific, 26% Euro
@@ -88,18 +97,23 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p175 ['000] — This page presents the audited Portfolio Statement (property valuations) for CapitaLand Ascott BT Group, detailing the movements in property, plant, a
     - p176 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (continued) as of 31 December 2025, detailing capital land assets
     - p178 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (Note 5), detailing accumulated depreciation and carrying amounts
+    - p179 — This page details the fair value hierarchy and valuation techniques for Property, Plant and Equipment, specifically presenting significant unobservabl
     - p182 — This page presents the audited Portfolio Statement (subsidiary structure) for CapitaLand Ascott REIT, listing subsidiaries by name, principal place of
     - p185 ['000] — This page presents the audited Portfolio Statement for CapitalLand Ascott REIT Group's subsidiaries with material Non-Controlling Interests (NCI) in S
     - p186 ['000] — This page presents the audited Portfolio Statement (property valuations) for Non-Controlling Interests, detailing Net Assets and Net Assets Attributab
     - p188 ['000] — This page presents the audited Portfolio Statement for Non-Controlling Interests (NCI) as of 31 December 2025, detailing revenue, profit/(loss), net a
     - p198 ['000] — This page presents the audited Portfolio Statement (property valuations) for CapitaLand Ascott REIT Group, CapitaLand Ascott BT Group, and Stapled Gro
     - p216 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for the CapitaLand Ascott REIT
+    - p225 — This page contains no schema-relevant data, as it presents narrative disclosures regarding liquidity risk management and financial liabilities without
     - p236 ['000] — This page presents the Stapled Group's interest rate risk disclosures and a table detailing the carrying amounts of fixed and variable rate financial 
     - p259 — This page outlines the SGX REIT's accounting policies for determining fair values of assets and liabilities, specifically detailing methods for financ
     - p262 ['000] — This page contains a table detailing the fair value of assets and liabilities as of 31 December 2025, reporting carrying amounts and fair values in SG
+    - p268 — This page of the CapitaLand Ascott Business Trust Management Pte. Ltd. annual report serves as an index, listing the contents and corresponding page n
+    - p271 — This page contains the Independent Auditor's Report confirming that CapitaLand Ascott Business Trust Management Pte. Ltd.'s financial statements for t
     - p273 ['000] — This page contains the audited Portfolio Statement, specifically the Statement of Financial Position for SGX REIT as at 31 December 2025, presenting t
     - p277 — This page presents the Notes to the Financial Statements for CapitaLand Ascott Business Trust Management Pte. Ltd. (the "Company") for the year ended 
     - p290 ['000] — This page contains a table titled "Fair Value of Financial Assets and Financial Liabilities (continued)" presenting carrying amounts and fair values f
+    - p297 — This page contains the corporate information for CapitaLand Ascott Trust Management Limited and CapitaLand Ascott Business Trust Management Pte. Ltd.,
 - **also mentions:**
     - p26 [million] — This page presents FY 2025 Gross Profit by Contract Type (S$385.3 million split between Growth Income at 35% and Stable Income at 65%), detailed break
     - p31 — This page details the performance of CLAS' France portfolio, reporting 12 freehold serviced residences with 1,266 units and a total valuation of S$35.
@@ -131,6 +145,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p262 ['000] — This page contains a table detailing the fair value of assets and liabilities as of 31 December 2025, reporting carrying amounts and fair values in SG
     - p293 ['000] — This page presents the statistics of Stapled Securityholdings as at 26 February 2026, featuring a Top-N tenants/customers table listing the twenty lar
 - **also mentions:**
+    - p2 — This page displays the Table of Contents for the SGX REIT annual report, listing sections such as Overview, Performance, Governance, Financial Stateme
     - p5 ['000] — This page presents textual financial highlights for CLAS REIT (SGX: 1825) reporting in SGD'000, detailing an FY 2025 total distribution of S$233.5 mil
     - p25 ['000] — This page presents a table titled "Lease Expiry for Master Leases" detailing the percentage of gross rental income for CLAS' 28 master leases expiring
     - p29 ['000] — This page presents the **Serviced Residences** segment of CLAS' annual report, detailing FY 2025 performance in AUD'000 for gross rental income and re
@@ -153,11 +168,15 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p56 [million] — This page presents a Portfolio Listing table detailing the SGX REIT's audited portfolio of 19 properties across Ireland and Japan, including their add
     - p100 — This page lists the contents of the Financial Statements section, including reports from the Trustee, Manager, and BT Trustee-Manager; an Independent 
     - p213 ['000] — This page presents the Gross Revenue and Direct Expenses tables for CapitaLand Ascott REIT Group, CapitaLand Ascott BT Group, and their Stapled Group 
+    - p225 — This page contains no schema-relevant data, as it presents narrative disclosures regarding liquidity risk management and financial liabilities without
     - p236 ['000] — This page presents the Stapled Group's interest rate risk disclosures and a table detailing the carrying amounts of fixed and variable rate financial 
     - p240 ['000] — This page presents the Hedge accounting table within the Financial Instruments notes for SGX REIT's year ended 31 December 2025, detailing interest ra
     - p259 — This page outlines the SGX REIT's accounting policies for determining fair values of assets and liabilities, specifically detailing methods for financ
+    - p268 — This page of the CapitaLand Ascott Business Trust Management Pte. Ltd. annual report serves as an index, listing the contents and corresponding page n
+    - p271 — This page contains the Independent Auditor's Report confirming that CapitaLand Ascott Business Trust Management Pte. Ltd.'s financial statements for t
     - p277 — This page presents the Notes to the Financial Statements for CapitaLand Ascott Business Trust Management Pte. Ltd. (the "Company") for the year ended 
     - p290 ['000] — This page contains a table titled "Fair Value of Financial Assets and Financial Liabilities (continued)" presenting carrying amounts and fair values f
+    - p297 — This page contains the corporate information for CapitaLand Ascott Trust Management Limited and CapitaLand Ascott Business Trust Management Pte. Ltd.,
 
 ## trade_mix
 - **MAIN (lead):**
@@ -166,7 +185,10 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p56 [million] — This page presents a Portfolio Listing table detailing the SGX REIT's audited portfolio of 19 properties across Ireland and Japan, including their add
     - p100 — This page lists the contents of the Financial Statements section, including reports from the Trustee, Manager, and BT Trustee-Manager; an Independent 
     - p176 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (continued) as of 31 December 2025, detailing capital land assets
+    - p225 — This page contains no schema-relevant data, as it presents narrative disclosures regarding liquidity risk management and financial liabilities without
     - p236 ['000] — This page presents the Stapled Group's interest rate risk disclosures and a table detailing the carrying amounts of fixed and variable rate financial 
+    - p268 — This page of the CapitaLand Ascott Business Trust Management Pte. Ltd. annual report serves as an index, listing the contents and corresponding page n
+    - p271 — This page contains the Independent Auditor's Report confirming that CapitaLand Ascott Business Trust Management Pte. Ltd.'s financial statements for t
     - p277 — This page presents the Notes to the Financial Statements for CapitaLand Ascott Business Trust Management Pte. Ltd. (the "Company") for the year ended 
     - p290 ['000] — This page contains a table titled "Fair Value of Financial Assets and Financial Liabilities (continued)" presenting carrying amounts and fair values f
 - **also mentions:**
@@ -228,6 +250,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p245 ['000] — This page details the hedge accounting for financial instruments within the Stapled Group, presenting a table of cash flow hedges (interest rate risk)
     - p248 ['000] — This page presents the CapitalLand Ascott REIT Group's table detailing financial assets and liabilities subject to offsetting under enforceable master
     - p262 ['000] — This page contains a table detailing the fair value of assets and liabilities as of 31 December 2025, reporting carrying amounts and fair values in SG
+    - p268 — This page of the CapitaLand Ascott Business Trust Management Pte. Ltd. annual report serves as an index, listing the contents and corresponding page n
     - p273 ['000] — This page contains the audited Portfolio Statement, specifically the Statement of Financial Position for SGX REIT as at 31 December 2025, presenting t
     - p274 ['000] — This page presents the **Statement of Profit or Loss and Other Comprehensive Income** for the financial year ended 31 December 2025, reporting all fig
     - p275 ['000] — This page presents the **Statement of Changes in Equity** for SGX REIT, reporting financial year activity ended 31 December 2025 with values expressed

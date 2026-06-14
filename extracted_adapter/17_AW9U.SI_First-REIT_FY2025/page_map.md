@@ -5,6 +5,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 
 ## profile
 - **MAIN (lead):**
+    - p96 — This page presents the Manager's diversity targets, plans, and progress for First REIT, specifically detailing a 25% female Director target set to be 
     - p118 ['000] — This page details the Manager's management fees and provides a table showing FY2024 and FY2025 Group and Trust base fees (S$'000) and performance fees
     - p178 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a maturity analysis table of undiscounted lease payments receivab
     - p191 ['000] — This page presents the Manager's capital management objectives and financial instrument disclosures, featuring a table of Net debt and Adjusted capita
@@ -25,15 +26,41 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p40 ['000] — This page presents a Property Overview of two hospital assets in Indonesia, featuring detailed property-specific tables for SiLoam Hospitals Bali and 
     - p42 [million] — This page presents a property overview of two Indonesian hospital assets, the Mochtar Riady Comprehensive Cancer Centre and Siloam Hospitals Lippo Cik
     - p43 [million] — This page presents detailed property profiles for two hospital assets in Indonesia, SILOAM HOSPITALS LIPPO VILLAGE and SILOAM HOSPITALS KEBON JERUK, i
+    - p129 ['000] — This page presents the **Statement of Movement in Unitholders' Funds** for the year ended 31 December 2025, reporting changes in issued equity ($SGD'0
     - p130 ['000] — This page presents the Statement of Movement in Unitholders' Funds for the year ended 31 December 2024, reporting financial highlights in SGD'000 incl
     - p131 ['000] — This page presents the Statements of Movement in Unitholders' Funds for the year ended 31 December 2025, reporting a total net decrease in net assets 
+    - p132 ['000] — This page presents the Statement of Movement in Unitholders' Funds for the year ended 31 December 2024, reporting unitholders' funds and total compreh
+    - p133 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash flows from operating activitie
     - p157 — This page presents accounting policy notes detailing the Group's finance costs (interest expense and transaction cost amortisation) and tax recognitio
+    - p176 ['000] — This page presents the Earnings per Unit (EPU) and Distributions to unitholders for the Group, reporting financial figures in SGD'000. The Basic EPU i
+    - p181 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited Portfolio Statements, fin
+    - p201 ['000] — This page presents the Statistics and Distribution of Unitholdings as at 13 March 2026, featuring a table detailing unitholder size brackets (ranging 
+    - p202 — This page presents the **Statistics of Unitholdings** as recorded in the Register of Substantial Unitholders' Unitholdings as at 13 March 2026, detail
+    - p203 ['000] — This page presents the Statistics of Unitholdings for First REIT as at 13 March 2026, detailing the beneficial ownership chain through intermediate ho
 - **also mentions:**
     - p4 — This page presents an "At a Glance" summary table detailing the SGX REIT's asset size of SGD$1.02 billion, total gross floor area of 432,159 m², and k
+    - p7 ['000] — This page presents the Assets-Under-Management (AUM) table and breakdown by geography for SGX REIT, alongside a Balance Sheet and Financial Rations ta
     - p11 ['000] — This page presents First REIT's 2025 Strategic Review regarding a potential sale of its Indonesian hospital assets and outlines operating performance 
     - p50 [million] — This page presents the FY2025 Highlights of SGX REIT's Sustainability Report, featuring financial performance metrics in S$ million and Singapore cent
+    - p86 — This page contains a GRI Standard disclosure table outlining omitted sustainability requirements for Energy Management and Diversity and Inclusion, re
     - p126 ['000] — This page presents the Statements of Financial Position (Balance Sheets) for the Group and Trust as at 31 December 2025, reporting total assets of SGD
+    - p127 ['000] — This page presents the **Statement of Total Return** for the Group and Trust for the year ended 31 December 2025, reporting revenue, expenses (includi
     - p128 ['000] — This page presents the Statements of Distribution for SGX REIT for the year ended 31 December 2025, reporting in $'000. The main table details the Gro
+    - p135 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 December 2025, detailing carrying values and percentages of net asse
+    - p136 ['000] — This page presents the audited Portfolio Statement for the SGX REIT as at 31 December 2025, detailing three nursing home properties in Singapore with 
+    - p137 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT Group as at 31 December 2025, detailing gross floor area and
+    - p138 ['000] — This page presents the audited Portfolio Statement of SGX REIT as at 31 December 2025, detailing property valuations by geographical area in Indonesia
+    - p139 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT Group as at 31 December 2025, detailing gross floor area and
+    - p140 ['000] — This page presents the **audited Portfolio Statement** for SGX REIT as at 31 December 2025, detailing property valuations by geographical area with gr
+    - p141 ['000] — This page presents the **Audited Portfolio Statement (property valuations)** for the Group as at 31 December 2025, detailing five nursing home propert
+    - p142 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT as at 31 December 2025, detailing five nursing home properti
+    - p143 ['000] — This page presents the Audited Portfolio Statement (property valuations) for the Group as at 31 December 2025, detailing geographical breakdowns inclu
+    - p145 ['000] — This page presents the audited Portfolio Statement for the Trust as at 31 December 2025, detailing property valuations by geographical area with gross
+    - p153 — This page contains the accounting policies for SGX REIT's financial statements, specifically detailing the basis of consolidation, treatment of subsid
+    - p172 ['000] — This page presents the audited Portfolio Statement of units in issue and to be issued, detailing the Group and Trust net assets value attributable to 
+    - p173 ['000] — This page of the SGX REIT annual report presents financial notes including a table of Net Assets Value attributable to unitholders and two tables deta
+    - p177 ['000] — This page presents the Financial ratios table for SGX REIT's Group and Trust, reporting 2025 total operating expenses of $32,020 (Group) and $13,924 (
+    - p199 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, detailing entity listings with audit firm names and a joint 
 
 ## properties
 - **MAIN (lead):**
@@ -46,6 +73,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p35 ['000] — This page presents detailed property-level data for two nursing homes in Singapore, Precious Homes @ Bukit Merah and Precious Homes @ Bukit Panjang, i
     - p38 [million] — This page details the audited Portfolio Statement for two properties in Indonesia: SILOAM HOSPITALS LABUAN BAJO and SILOAM HOSPITALS KUPANG ("SHKP") &
     - p42 [million] — This page presents a property overview of two Indonesian hospital assets, the Mochtar Riady Comprehensive Cancer Centre and Siloam Hospitals Lippo Cik
+    - p86 — This page contains a GRI Standard disclosure table outlining omitted sustainability requirements for Energy Management and Diversity and Inclusion, re
     - p90 — This page presents the SGX REIT's Sustainability Report disclosure table detailing tenant sustainability impacts and climate change adaptation strateg
     - p111 ['000] — This page of the SGX REIT annual report contains the Corporate Governance Report's External Audit section, which details key audit matters regarding i
     - p135 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 December 2025, detailing carrying values and percentages of net asse
@@ -58,6 +86,8 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p142 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT as at 31 December 2025, detailing five nursing home properti
     - p143 ['000] — This page presents the Audited Portfolio Statement (property valuations) for the Group as at 31 December 2025, detailing geographical breakdowns inclu
     - p145 ['000] — This page presents the audited Portfolio Statement for the Trust as at 31 December 2025, detailing property valuations by geographical area with gross
+    - p151 — This page presents accounting policies regarding financial instruments, including derecognition rules for assets and liabilities, offsetting criteria,
+    - p153 — This page contains the accounting policies for SGX REIT's financial statements, specifically detailing the basis of consolidation, treatment of subsid
     - p157 — This page presents accounting policy notes detailing the Group's finance costs (interest expense and transaction cost amortisation) and tax recognitio
     - p163 ['000] — This page presents notes on investment properties and investments in subsidiaries, detailing valuation techniques for Singapore and Indonesia assets w
     - p166 ['000] — This page presents the audited Portfolio Statement for Investment properties and Unremitted income from Japan subsidiaries under Note 10 Deferred tax 
@@ -65,7 +95,9 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p174 ['000] — This page presents the audited Portfolio Statement and Statement of Total Return for SGX REIT, detailing finance income (bank deposits and loan to sub
     - p175 ['000] — This page presents the audited Portfolio Statement for Total Return/(Loss) before income tax, detailing Group and Trust figures of \$'000 for 2025 and
     - p180 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's operating segments, detailing total return reconciliation and 
+    - p181 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited Portfolio Statements, fin
     - p189 ['000] — This page contains a sensitivity analysis table for variable rate instruments under the Financial Instruments notes, quantifying the impact of a 100 b
+    - p199 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, detailing entity listings with audit firm names and a joint 
 - **also mentions:**
     - p4 — This page presents an "At a Glance" summary table detailing the SGX REIT's asset size of SGD$1.02 billion, total gross floor area of 432,159 m², and k
     - p32 ['000] — This page presents the Property Overview for two Japanese nursing home assets, Elysion Mamigaoka & Annex and Orchard Amanohashidate, detailing their s
@@ -97,16 +129,25 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p43 [million] — This page presents detailed property profiles for two hospital assets in Indonesia, SILOAM HOSPITALS LIPPO VILLAGE and SILOAM HOSPITALS KEBON JERUK, i
     - p56 — This page presents a table titled "Targets and Aspirations" detailing First REIT's sustainability performance for FY2025 across five material topics: 
     - p57 [million] — This page presents a Material Topics table aligning Business Conduct & Compliance and Financial Performance with GRI standards, UN SDGs, and 2025 targ
+    - p86 — This page contains a GRI Standard disclosure table outlining omitted sustainability requirements for Energy Management and Diversity and Inclusion, re
     - p90 — This page presents the SGX REIT's Sustainability Report disclosure table detailing tenant sustainability impacts and climate change adaptation strateg
+    - p151 — This page presents accounting policies regarding financial instruments, including derecognition rules for assets and liabilities, offsetting criteria,
+    - p153 — This page contains the accounting policies for SGX REIT's financial statements, specifically detailing the basis of consolidation, treatment of subsid
+    - p181 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited Portfolio Statements, fin
     - p189 ['000] — This page contains a sensitivity analysis table for variable rate instruments under the Financial Instruments notes, quantifying the impact of a 100 b
+    - p199 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, detailing entity listings with audit firm names and a joint 
 
 ## trade_mix
 - **MAIN (lead):**
     - p5 — This page presents Financial Highlights focusing on the Healthy Lease Expiry Profile and Rental Income by Tenant Mix and Trade Sector for FY2025 and F
     - p35 ['000] — This page presents detailed property-level data for two nursing homes in Singapore, Precious Homes @ Bukit Merah and Precious Homes @ Bukit Panjang, i
     - p42 [million] — This page presents a property overview of two Indonesian hospital assets, the Mochtar Riady Comprehensive Cancer Centre and Siloam Hospitals Lippo Cik
+    - p86 — This page contains a GRI Standard disclosure table outlining omitted sustainability requirements for Energy Management and Diversity and Inclusion, re
+    - p153 — This page contains the accounting policies for SGX REIT's financial statements, specifically detailing the basis of consolidation, treatment of subsid
+    - p199 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, detailing entity listings with audit firm names and a joint 
 - **also mentions:**
     - p133 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash flows from operating activitie
+    - p151 — This page presents accounting policies regarding financial instruments, including derecognition rules for assets and liabilities, offsetting criteria,
     - p165 ['000] — This page presents the audited financial statements for trade and other receivables (Note 7) and other assets (Note 8), reporting figures in SGD'000. 
     - p171 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains Note 13 on Trade and other payables, presenting Group and Trust b
     - p179 ['000] — This page presents the "Total return reconciliation" table for SGX REIT's three reportable operating segments (Singapore, Indonesia, and Japan) as of 
@@ -120,10 +161,12 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p127 ['000] — This page presents the **Statement of Total Return** for the Group and Trust for the year ended 31 December 2025, reporting revenue, expenses (includi
     - p132 ['000] — This page presents the Statement of Movement in Unitholders' Funds for the year ended 31 December 2024, reporting unitholders' funds and total compreh
     - p133 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash flows from operating activitie
+    - p153 — This page contains the accounting policies for SGX REIT's financial statements, specifically detailing the basis of consolidation, treatment of subsid
     - p160 ['000] — This page presents the accounting policies regarding new standards and a table detailing the Group's investment properties (property valuations) for 2
     - p163 ['000] — This page presents notes on investment properties and investments in subsidiaries, detailing valuation techniques for Singapore and Indonesia assets w
     - p166 ['000] — This page presents the audited Portfolio Statement for Investment properties and Unremitted income from Japan subsidiaries under Note 10 Deferred tax 
     - p174 ['000] — This page presents the audited Portfolio Statement and Statement of Total Return for SGX REIT, detailing finance income (bank deposits and loan to sub
+    - p199 — This page contains Notes to the Financial Statements for the year ended 31 December 2025, detailing entity listings with audit firm names and a joint 
 - **also mentions:**
     - p118 ['000] — This page details the Manager's management fees and provides a table showing FY2024 and FY2025 Group and Trust base fees (S$'000) and performance fees
     - p128 ['000] — This page presents the Statements of Distribution for SGX REIT for the year ended 31 December 2025, reporting in $'000. The main table details the Gro

@@ -25,17 +25,31 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p49 ['000] — This page of the SGX REIT annual report for Keppel DC REIT features a Debt Maturity Profile (%) table and Key Statistics as at 31 December, reporting 
     - p50 ['000] — This page details the utilisation of net proceeds as at 31 December 2025 and February 2026, outlines capital management policies including compliance 
     - p67 — This page presents a Qualitative Transition Risks and Opportunities Assessment table detailing regulatory, market, and reputation risks such as increa
+    - p88 — This page presents a GRI Standard disclosure table outlining Human Capital Management, Employee Health and Wellbeing, and Community Development and En
     - p103 ['000] — This page presents the Consolidated Statement of Profit or Loss for SGX REIT, reporting financial highlights in SGD'000 including gross revenue ($441,
+    - p106 ['000] — This page presents the Statement of Total Return for the SGX REIT Trust, reporting Unitholders' Funds in SGD'000 for the years ended 31 December 2025 
+    - p107 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting cash flows from operating activities (net c
     - p109 ['000] — This page presents the Distribution Statement for the year ended 31 December 2025, detailing the amount available for distribution to Unitholders ($SG
+    - p191 — This page presents the **Statistics of Unitholdings** for Keppel DC REIT as of 11 March 2026, featuring a table detailing the distribution of units ac
 - **also mentions:**
     - p6 [million] — This page of the Keppel DC REIT annual report features a "Momentum" section highlighting record financial performance, including a Total Unitholder Re
+    - p11 — This page presents the Trust and Organisation Structure diagram of Keppel DC REIT alongside its organizational hierarchy, detailing relationships betw
+    - p17 — This page details Keppel DC REIT's 10th Annual General Meeting held on 15 April 2025 and lists accolades, memberships, research coverage, unitholding 
     - p38 — This page presents the Weighted Average Lease Expiry (WALE) by contract type, the Portfolio Contract Expiry Profile by Lettable Area and Rental Income
     - p46 [million] — This page of the Keppel DC REIT FY 2025 annual report primarily features a **Gross Revenue table** (in SGD million) detailing revenue breakdowns by as
     - p48 ['000] — The page presents an Investment Properties and Investment Property Held for Sale table detailing the carrying value breakdown of 23 specific data cent
     - p53 ['000] — This page of the Keppel DC REIT sustainability report (FY 2025, March 2026) presents a table listing entities and assets within the reporting scope, i
     - p99 — This page contains the Independent Auditor's Report to the Unitholders of Keppel DC REIT, confirming that the Group's consolidated financial statement
+    - p102 ['000] — This page presents the Statements of Financial Position for the SGX REIT Group and Trust as at 31 December 2025, reporting assets, liabilities, net as
+    - p104 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the year ended 31 December 2025, reporting Group profit after tax of $434,68
+    - p105 ['000] — This page presents the **Statement of Movements in Unitholders' Funds** for SGX REIT, detailing the year-end balance as of 31 December 2025 and compar
+    - p139 ['000] — This page presents the audited Portfolio Statement (property valuations) for the foreign currency translation reserve and hedging reserve components o
     - p144 ['000] — This page presents the Earnings Per Unit (EPS) and Distribution Per Unit (DPU) tables for the SGX REIT Group, reporting profit attributable to unithol
     - p154 ['000] — The page presents Level 3 fair value tables detailing valuation techniques and significant unobservable inputs for investment properties in Asia Pacif
+    - p175 — This page details Keppel DC REIT's corporate governance procedures, including attendance records for Unitholders' meetings (Ms Christina Tan, Mr Low H
+    - p189 ['000] — This page details Interested Person Transactions for Keppel DC REIT, presenting a table of aggregate values in S$'000 for FY 2025 covering the Control
+    - p192 — This page presents the Register of Directors' Unitholdings and Substantial Unitholders' Unitholdings for Keppel DC REIT as of 21 January 2026 and 11 M
+    - p194 — This page presents the Notice of Annual General Meeting (AGM) for Keppel DC REIT scheduled for Thursday, 30 April 2026, convening unitholders to trans
 
 ## properties
 - **MAIN (lead):**
@@ -51,6 +65,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p61 — This page details the SGX REIT's sustainability approach, including an audited Portfolio Statement (property valuations) with building characteristics
     - p67 — This page presents a Qualitative Transition Risks and Opportunities Assessment table detailing regulatory, market, and reputation risks such as increa
     - p68 ['000] — This page presents a table of climate-related transition opportunities for Keppel DC REIT, detailing business impacts and responses such as cost savin
+    - p88 — This page presents a GRI Standard disclosure table outlining Human Capital Management, Employee Health and Wellbeing, and Community Development and En
     - p96 — This page serves as the Table of Contents for the SGX REIT annual report, listing all financial statements including the audited Portfolio Statement (
     - p99 — This page contains the Independent Auditor's Report to the Unitholders of Keppel DC REIT, confirming that the Group's consolidated financial statement
     - p110 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 31 December 2025, detailing investment properties across m
@@ -78,6 +93,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p136 ['000] — This page presents the Deferred Taxation table detailing the Group's and Trust's deferred tax assets and liabilities (reported in SGD'000) arising fro
     - p142 ['000] — This page presents SGX REIT's financial statements for the reporting unit in SGD'000, detailing Finance Costs (interest expense and amortization), Net
     - p144 ['000] — This page presents the Earnings Per Unit (EPS) and Distribution Per Unit (DPU) tables for the SGX REIT Group, reporting profit attributable to unithol
+    - p156 — This page contains no schema-relevant data, as it presents textual commitments and contingencies alongside financial ratio tables that omit specific r
     - p158 ['000] — This page presents a geographical breakdown of the SGX'000 reporting unit's Gross revenue and Total carrying value of investment properties by region 
 
 ## top_tenants
@@ -93,7 +109,9 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p41 [million] — This page presents the **At A Glance** portfolio review for Keppel DC REIT's Asia Pacific assets, detailing five data centre facilities (Keppel DC Sin
     - p53 ['000] — This page of the Keppel DC REIT sustainability report (FY 2025, March 2026) presents a table listing entities and assets within the reporting scope, i
     - p68 ['000] — This page presents a table of climate-related transition opportunities for Keppel DC REIT, detailing business impacts and responses such as cost savin
+    - p86 — This page presents the GRI Content Index for Keppel DC REIT's sustainability report covering the period from 1 January 2025 to 31 December 2025, detai
     - p87 — This page presents the GRI Content Index, which outlines disclosure titles and page references for Environmental Stewardship, Responsible Business, Su
+    - p88 — This page presents a GRI Standard disclosure table outlining Human Capital Management, Employee Health and Wellbeing, and Community Development and En
     - p92 — This page presents IFRS S2 disclosure requirements for climate-related targets and provides Keppel DC REIT's industry-based metrics on energy consumpt
     - p154 ['000] — The page presents Level 3 fair value tables detailing valuation techniques and significant unobservable inputs for investment properties in Asia Pacif
     - p157 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's operating segments, detailing gross revenue, net property inco

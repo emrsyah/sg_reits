@@ -1,0 +1,35 @@
+[
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "transaction_type": "acquisition",
+    "property_name": "CapitaSpring (remaining 55% of Commercial Component)",
+    "country": "Singapore",
+    "consideration": null,
+    "completion_date": "2025-08-26",
+    "notes": "Acquired remaining 55% interest in Glory Office Trust (GOT) which holds commercial component of CapitaSpring. GOT became wholly-owned subsidiary post-acquisition.",
+    "source_page": 109
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "CapitaSpring SR Component (serviced residence)",
+    "country": "Singapore",
+    "consideration": null,
+    "completion_date": "2025-05-30",
+    "notes": "Divested the SR Component of CapitaSpring on 30 May 2025 prior to acquiring remaining 55% commercial component.",
+    "source_page": 109
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "Bukit Panjang Plaza",
+    "country": "Singapore",
+    "consideration": 428000000,
+    "completion_date": "2026-02-27",
+    "notes": "Sale of 90 out of 91 strata lots announced 14 Jan 2026 at S$428.0 million. Completed 27 February 2026. Reclassified as Asset held for sale at 31 Dec 2025.",
+    "source_page": 109
+  }
+]

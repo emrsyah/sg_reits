@@ -1,0 +1,40 @@
+{
+  "symbol": "C38U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 27397500000,
+  "properties_location": "Singapore, Germany, Australia",
+  "gross_revenue": 1619174000,
+  "net_property_income": 1189749000,
+  "net_distributable_income": 860900000,
+  "dpu": 11.58,
+  "distribution_record": [
+    {
+      "period": "01/07/2024 to 11/09/2024 (Advanced Distribution)",
+      "dpu": 2.16,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "12/09/2024 to 31/12/2024",
+      "dpu": 3.29,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01/01/2025 to 13/08/2025 (Cumulative)",
+      "dpu": 6.97,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "14/08/2025 to 31/12/2025",
+      "dpu": 4.61,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 91421,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "source_page": 5
+}

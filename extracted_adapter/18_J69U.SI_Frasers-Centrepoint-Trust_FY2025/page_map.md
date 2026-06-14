@@ -9,6 +9,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p134 — This page contains the Corporate Governance report and a table detailing the Manager's Base Fee (up to 0.3% per annum of deposited property value) and
     - p220 ['000] — This page details the Trust's interested person transactions, manager fees paid in Units for the financial year ended 30 September 2025, and unit subs
 - **also mentions:**
+    - p5 — This page describes the organizational structure of Frasers Centrepoint Trust (FCT) and its Manager, Frasers Centrepoint Asset Management Ltd., detail
     - p173 ['000] — This page contains the audited Portfolio Statement detailing the Group's and Trust's investment in joint ventures, including specific details on Sapph
     - p206 ['000] — This page presents the audited Portfolio Statement (property valuations) under Segment Reporting for the financial year ended 30 September 2025, detai
 
@@ -17,6 +18,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p7 ['000] — This page presents the FY25 performance highlights for SGX REIT, featuring a **Financial performance** table reporting Gross Revenue of $389.6 million
     - p9 ['000] — This page summarizes FCT's June through October 2025 events, including debt issuance, portfolio management renewals, and divestments, alongside FY25 f
     - p10 [million] — This page presents a 5-year performance overview for the SGX REIT reporting unit in SGD million, featuring five key financial tables tracking Revenue 
+    - p11 ['000] — This page presents Distribution per Unit (DPU) by financial reporting periods and selected income statement, balance sheet, and other financial indica
     - p27 ['000] — This page presents the Retail Portfolio's lease expiry profile as at 30 September 2025, featuring a table detailing expiring leases by financial year 
     - p36 ['000] — This page presents the DPU / distribution / financial highlights for SGX REIT, detailing a full-year 2025 distribution of $233.2 million and a DPU of 
     - p39 [million] — This page presents the Key financial metrics and Debt maturity profile for FCT Group as of 30 September 2025, reporting all monetary values in USD mil
@@ -31,13 +33,20 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p87 ['000] — This page presents the **Asset portfolio** section for Hougang Mall, featuring a **Mall performance highlights** table reporting Gross Revenue ($'000)
     - p89 ['000] — This page presents the Asset Portfolio section of White Sands, featuring a Mall Performance Highlights table with financial year data (FY25 vs FY24) i
     - p138 — This page lists the contents of the Financial Statements section, including the Independent auditors' report (page 139), Statements of financial posit
+    - p142 — This page contains the Independent Auditors' Report to the Unitholders of Fraser's Centrepont Trust, which addresses the valuation of investment prope
     - p147 ['000] — This page presents the Distribution Statement for SGX REIT for the financial year ended 30 September 2025, reporting Distributable Income of SGD'000 2
+    - p171 — This page contains a table of valuation techniques and significant unobservable inputs (capitalisation rate, discount rate, terminal yield) for Level 
     - p175 ['000] — This page presents the Investment in joint ventures table (SGD'000) for SGX REIT, detailing results and assets/liabilities for SST, GRPL, NP Trust, an
     - p186 ['000] — This page presents the Net asset value/net tangible asset per unit table (SGD'000) alongside detailed gross revenue and property expense notes for the
+    - p216 [million] — This page presents the **Statistics of Unitholdings** for the SGX REIT, detailing 2,034,952,990 outstanding units with a market capitalisation of appr
 - **also mentions:**
-    - p11 ['000] — This page presents Distribution per Unit (DPU) by financial reporting periods and selected income statement, balance sheet, and other financial indica
+    - p12 [million] — This page presents FCT's one-year unit price performance versus the FTSE REIT Index and STI Index (Oct-24 to Sep-25) in a table showing index values, 
     - p14 ['000] — This page contains a Letter to Unitholders summarizing FCT's FY25 performance, explicitly stating gross revenue of SGD'000 (implied by S$ context) ros
     - p38 [million] — This page presents the Capital Resources section of FCT REIT's annual report, detailing its funding sources, credit rating (Baa2 from Moody's), and de
+    - p91 — This page outlines the Enterprise Risk Management (ERM) framework and governance structure of Frasers Centrepoint Trust, detailing the Board's oversig
+    - p145 ['000] — This page presents the **Statements of financial position** for the SGX REIT Group and Trust as at 30 September 2025, reporting all figures in **$'000
+    - p148 ['000] — This page presents the Statements of movements in Unitholders' funds for the financial year ended 30 September 2025, reporting data in SGD'000 for bot
+    - p149 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing carrying values and percentag
     - p206 ['000] — This page presents the audited Portfolio Statement (property valuations) under Segment Reporting for the financial year ended 30 September 2025, detai
     - p215 ['000] — This page presents the **Financial ratios** table (Expenses to weighted average net assets, Total operating expenses to net asset value, and Portfolio
 
@@ -47,9 +56,12 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p37 ['000] — This page presents the **audited Portfolio Statement** detailing FCT Group's investment property portfolio appraised values as at 30 September 2025 in
     - p68 ['000] — This page presents a Portfolio overview table detailing the audited portfolio statement for six properties (NEX, Northpoint City wings, Causeway Point
     - p80 [million] — This page presents a property profile for Tiong Bahru Plaza, an SGX REIT asset with no audited Portfolio Statement or financial tables present. The re
+    - p91 — This page outlines the Enterprise Risk Management (ERM) framework and governance structure of Frasers Centrepoint Trust, detailing the Board's oversig
     - p138 — This page lists the contents of the Financial Statements section, including the Independent auditors' report (page 139), Statements of financial posit
+    - p142 — This page contains the Independent Auditors' Report to the Unitholders of Fraser's Centrepont Trust, which addresses the valuation of investment prope
     - p149 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing carrying values and percentag
     - p150 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 30 September 2025, listing independent valuations of Singa
+    - p171 — This page contains a table of valuation techniques and significant unobservable inputs (capitalisation rate, discount rate, terminal yield) for Level 
     - p173 ['000] — This page contains the audited Portfolio Statement detailing the Group's and Trust's investment in joint ventures, including specific details on Sapph
     - p174 ['000] — This page contains the audited Portfolio Statement (investment in joint ventures) for SGX REIT, presenting results and assets/liabilities by SST ($'00
     - p189 ['000] — This page presents the audited Portfolio Statement for significant related party transactions within the SGX REIT group, detailing property management
@@ -96,11 +108,13 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p85 ['000] — This page presents the Asset portfolio section for SGX REIT, featuring a Mall performance highlights table reporting FY25 Gross Revenue of $35,886'000
     - p87 ['000] — This page presents the **Asset portfolio** section for Hougang Mall, featuring a **Mall performance highlights** table reporting Gross Revenue ($'000)
     - p89 ['000] — This page presents the Asset Portfolio section of White Sands, featuring a Mall Performance Highlights table with financial year data (FY25 vs FY24) i
+    - p171 — This page contains a table of valuation techniques and significant unobservable inputs (capitalisation rate, discount rate, terminal yield) for Level 
 - **also mentions:**
     - p27 ['000] — This page presents the Retail Portfolio's lease expiry profile as at 30 September 2025, featuring a table detailing expiring leases by financial year 
     - p81 ['000] — This page presents the Asset Portfolio section for Tiong Bahru Plaza, featuring a Mall Performance Highlights table reporting FY25 gross revenue of SG
     - p111 — This page presents the Corporate Governance report detailing the Board's diversity targets and progress, with a main artifact being a table tracking a
     - p138 — This page lists the contents of the Financial Statements section, including the Independent auditors' report (page 139), Statements of financial posit
+    - p142 — This page contains the Independent Auditors' Report to the Unitholders of Fraser's Centrepont Trust, which addresses the valuation of investment prope
     - p206 ['000] — This page presents the audited Portfolio Statement (property valuations) under Segment Reporting for the financial year ended 30 September 2025, detai
     - p214 ['000] — This page presents the Commitments table detailing future capital expenditure for investment properties and share of joint venture expenditures, along
 
@@ -136,6 +150,8 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p150 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 30 September 2025, listing independent valuations of Singa
     - p151 ['000] — This page presents the **Statement of cash flows** for the financial year ended 30 September 2025, reporting all figures in **$'000**. It details oper
     - p152 ['000] — This page contains the **Statement of Cash Flows** for the financial year ended 30 September 2025, reporting financing activities and net cash movemen
+    - p165 — This page contains text-only accounting policy notes regarding impairment of non-financial assets and the recognition of finance income/costs within t
+    - p171 — This page contains a table of valuation techniques and significant unobservable inputs (capitalisation rate, discount rate, terminal yield) for Level 
     - p174 ['000] — This page contains the audited Portfolio Statement (investment in joint ventures) for SGX REIT, presenting results and assets/liabilities by SST ($'00
     - p175 ['000] — This page presents the Investment in joint ventures table (SGD'000) for SGX REIT, detailing results and assets/liabilities for SST, GRPL, NP Trust, an
     - p179 ['000] — This page contains notes on derivative financial instruments and trade receivables, featuring a table of notional amounts for cross-currency interest 

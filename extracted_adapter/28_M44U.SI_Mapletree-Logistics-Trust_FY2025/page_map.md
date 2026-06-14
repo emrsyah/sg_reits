@@ -36,13 +36,19 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p52 ['000] — This page presents a Portfolio Analysis and Review featuring tables detailing the Gross Revenue Breakdown by Single-User Assets (SUA) and Multi-Tenant
     - p53 — This page presents the Lease Expiry Profile by geographical region (by NLA) for fiscal years FY25/26 through >FY29/30 and details portfolio valuation 
     - p54 ['000] — This page presents the audited Portfolio Statement as at 31 Mar 2025 and 31 Mar 2024, detailing property valuations in SGD'000 across nine countries w
+    - p113 — This page features a table listing the 14 sell-side research houses actively covering MLT, followed by details of the company's 15th Annual General Me
+    - p114 ['000] — This page lists the contents of the SGX'000 annual report, including financial statements such as Statements of Profit or Loss and Portfolio Statement
     - p117 — This page contains the Independent Auditor's Report on the audited financial statements of Mapletree Logistics Trust for the year ended 31 March 2025,
     - p124 ['000] — This page presents the Distribution Statements for the financial year ended 31 March 2025, reporting in SGD'000. It details the Group and MLT's profit
     - p125 ['000] — This page presents the Distribution Statements for SGX REIT for the financial year ended 31 March 2025, reporting Group and MLT distributions in S$'00
+    - p127 ['000] — This page presents the Consolidated Statement of Cash Flows and Reconciliation of liabilities arising from financing activities for the financial year
     - p146 — This page presents the audited Portfolio Statement (property valuations) for Mapletree Logistics Centre Group as of 31 March 2025, detailing logistics
     - p186 — This page contains accounting policy notes regarding currency translation, consolidation adjustments, units issuance, and segment reporting for the SG
     - p195 — This page contains a table detailing the valuation techniques and key unobservable inputs (such as capitalisation rates, discount rates, gross develop
     - p207 — This page of the SGX MLT annual report for the year ended 31 March 2025 details the issuance of new units under the Distribution Reinvestment Plan, Ma
+    - p225 — This page details accounting standards amendments relevant to SGX REIT's Group for periods beginning on or after 1 April 2025, specifically covering S
+    - p229 — This page presents the statistics of unitholdings as at 30 May 2025, featuring tables detailing issued and fully paid units, the distribution of holdi
+    - p230 — This page presents the **Statistics of Unitholdings** for MLT as at 30 May 2025, featuring a table of **Substantial Unitholders** (Temasek Holdings, F
 - **also mentions:**
     - p17 [million] — This page presents a textual analysis of SGX REIT MLT's FY24/25 performance, explicitly reporting gross revenue and net property income in S$ million,
     - p33 ['000] — This page presents the Consolidated Statement of Profit or Loss (revenue, expenses, management fees, borrowing costs, and available distribution per u
@@ -51,10 +57,31 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p43 [million] — This page presents the Interest Rate Sensitivity Analysis showing a 0.25% base rate movement impacts DPU by ±0.04 SGD cent, alongside a Foreign Exchan
     - p51 ['000] — This page details MLT's rental reversion performance and lease structure optimization, featuring a **Rental Reversions table** showing portfolio-wide 
     - p63 [million] — The page presents a **Mapletree Logistics Park Bac Ninh Phase 5** property performance table (Book Value in S$ million) and text describing Vietnam's 
+    - p121 ['000] — This page presents the Statements of Profit or Loss for SGX REIT (Group) and MLT for the financial year ended 31 March 2025, reporting key line items 
+    - p122 ['000] — This page presents the Statements of Comprehensive Income for SGX REIT (Group) and MLT for the financial year ended 31 March 2025, reporting total com
     - p123 ['000] — This page presents the Statements of Financial Position for MLT as at 31 March 2025, detailing Group and MLT assets, liabilities, net assets, unithold
+    - p128 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 2025, reporting Group and MLT 
+    - p129 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 2025, reporting Group and MLT 
+    - p131 ['000] — This page presents a table detailing Gross revenue, occupancy rates, and Latest valuation for multiple properties as of 31/03/2025 and 31/03/2024, wit
+    - p133 ['000] — This page presents a Statement of Portfolio detailing gross revenue, occupancy rates, and latest valuations (S$'000) for 17 distinct property assets a
+    - p137 ['000] — This page presents a detailed breakdown of gross revenue, occupancy rates, property valuations, and the percentage of total net assets attributable to
+    - p139 ['000] — This page presents a table detailing gross revenue, occupancy rates, and latest property valuations for eight distinct portfolio segments as of 31/03/
+    - p141 ['000] — This page presents a table detailing gross revenue, occupancy rates, and latest property valuations for ten distinct portfolio segments as of 31/03/20
+    - p145 ['000] — This page presents a Statement of Portfolio (property valuations) for the SGX REIT, detailing gross revenue, occupancy rates, and latest valuation fig
+    - p147 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, listing gross revenue and occupancy rates alongside valuation f
+    - p149 ['000] — This page presents a table detailing gross revenue, occupancy rates, and latest property valuations (S$'000) for three distinct portfolio segments as 
+    - p153 ['000] — This page presents a table detailing gross revenue, occupancy rates, and property valuations for the SGX REIT portfolio as of 31/03/2025, with figures
+    - p155 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, reporting gross revenue and latest valuation figures in S$'000 
+    - p157 ['000] — This page presents the audited Portfolio Statement (property valuations) and gross revenue/occupancy data for SGX REIT's portfolio as of 31/03/2025, w
+    - p159 ['000] — This page presents a table detailing Gross revenue and valuation figures for the SGX REIT year ended 31/03/2025, reported in S$'000. The data includes
+    - p163 ['000] — This page presents a table titled "Gross revenue for year ended 31/03/2025" reporting gross revenue (S$'000), occupancy rates (%), and latest valuatio
+    - p166 ['000] — This page presents the audited Portfolio Statement for Group logistics properties as of 31 March 2025, listing assets such as Mapletree Logistics Park
     - p167 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, reporting gross revenue of S$'000 and total net asset values at
+    - p169 ['000] — This page presents a table detailing gross revenue (S$'000), occupancy rates, and latest valuation figures for individual portfolio properties as of 3
     - p170 — This page presents the audited Portfolio Statement (property valuations) for MLT as of 31 March 2025, detailing logistics properties in Singapore with
+    - p171 ['000] — This page presents the Audited Portfolio Statement, detailing gross revenue for the year ended 31/03/2025 at S$'000 (totaling 201,149) alongside occup
     - p219 ['000] — This page presents the Financial Risk Management notes, specifically detailing capital risk metrics including aggregate leverage (40.7% as of 31 March
+    - p232 — This page details SGX-ST interested person transactions, confirming no material contracts involving the CEO, Director, or controlling unitholder were 
 
 ## properties
 - **MAIN (lead):**
@@ -122,6 +149,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p205 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's derivative financial instruments as of 31 March 2025, detailin
     - p207 — This page of the SGX MLT annual report for the year ended 31 March 2025 details the issuance of new units under the Distribution Reinvestment Plan, Ma
     - p220 ['000] — This page presents the audited Portfolio Statement for financial derivatives at fair value, classified by Level 2 hierarchy and reporting unit SGD'000
+    - p225 — This page details accounting standards amendments relevant to SGX REIT's Group for periods beginning on or after 1 April 2025, specifically covering S
     - p227 ['000] — This page presents the audited Portfolio Statement (subsidiary valuations) titled "LISTING OF SIGNIFICANT COMPANIES IN THE GROUP" for the financial ye
 - **also mentions:**
     - p5 ['000] — This page presents the SGX REIT's key financial and portfolio highlights as of 31 March 2025, with a main focus on DPU/financial metrics including S\$
@@ -172,6 +200,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p186 — This page contains accounting policy notes regarding currency translation, consolidation adjustments, units issuance, and segment reporting for the SG
     - p195 — This page contains a table detailing the valuation techniques and key unobservable inputs (such as capitalisation rates, discount rates, gross develop
     - p207 — This page of the SGX MLT annual report for the year ended 31 March 2025 details the issuance of new units under the Distribution Reinvestment Plan, Ma
+    - p225 — This page details accounting standards amendments relevant to SGX REIT's Group for periods beginning on or after 1 April 2025, specifically covering S
 
 ## trade_mix
 - **MAIN (lead):**
@@ -186,6 +215,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p168 — This page presents the audited Portfolio Statement (property valuations) for Mapletree Logistics Trust as of 31 March 2025, detailing Singapore logist
     - p186 — This page contains accounting policy notes regarding currency translation, consolidation adjustments, units issuance, and segment reporting for the SG
     - p195 — This page contains a table detailing the valuation techniques and key unobservable inputs (such as capitalisation rates, discount rates, gross develop
+    - p225 — This page details accounting standards amendments relevant to SGX REIT's Group for periods beginning on or after 1 April 2025, specifically covering S
 - **also mentions:**
     - p51 ['000] — This page details MLT's rental reversion performance and lease structure optimization, featuring a **Rental Reversions table** showing portfolio-wide 
     - p53 — This page presents the Lease Expiry Profile by geographical region (by NLA) for fiscal years FY25/26 through >FY29/30 and details portfolio valuation 
@@ -258,6 +288,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p168 — This page presents the audited Portfolio Statement (property valuations) for Mapletree Logistics Trust as of 31 March 2025, detailing Singapore logist
     - p169 ['000] — This page presents a table detailing gross revenue (S$'000), occupancy rates, and latest valuation figures for individual portfolio properties as of 3
     - p171 ['000] — This page presents the Audited Portfolio Statement, detailing gross revenue for the year ended 31/03/2025 at S$'000 (totaling 201,149) alongside occup
+    - p177 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains no schema-relevant data, as it exclusively details accounting polici
     - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2025 presents Notes to the Financial Statements detailing gross revenue, property 
     - p206 ['000] — This page contains the Deferred Taxation movement table and Units in Issue table for the SGX REIT reporting unit, with all financial figures presented
     - p207 — This page of the SGX MLT annual report for the year ended 31 March 2025 details the issuance of new units under the Distribution Reinvestment Plan, Ma

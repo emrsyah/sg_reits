@@ -9,6 +9,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p34 — This page presents a table and chart detailing the closing unit price performance of IREIT Global for the trading period from 1 January 2025 to 31 Dec
     - p177 ['000] — This page presents the Statements of Changes in Net Assets attributable to Unitholders for the year ended 31 December 2025, reporting two distinct tab
     - p224 — This page presents the statistics of unitholdings for IREIT as at 12 March 2026, featuring tables detailing issued units (1,344,837,568 Units), market
+    - p235 — This page presents the Corporate Directory for SGX REIT, detailing the Manager (IREIT Global Group Pte. Ltd.), Trustee (DBS Trustee Limited), Board of
 - **also mentions:**
     - p80 ['000] — This page presents the audited Portfolio Statement for two B&M properties in Béthune and Blois, detailing property information, lease profiles, and fi
     - p131 [million] — This page contains the Appendix 1 Green Financing Reporting table detailing a SGD 85.0 million green note issued by DBS Trustee Limited for the reposi
@@ -27,6 +28,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p3 — This page contains the Table of Contents for an SGX REIT annual report, listing sections such as Key Figures on page 4 and Financial Statements on pag
     - p6 [million] — This page presents the Key Figures for the financial year ended 31 December 2025, featuring a Debt Maturity Profile table detailing €63.5m to €200.8m 
     - p7 — This page presents the SGX REIT's key portfolio financial highlights as of 31 December 2024, featuring an audited Portfolio Statement showing an occup
+    - p8 [million] — This page features the Chairman and CEO Letter to Unitholders for IREIT Global Group Pte. Ltd., reporting FY 2025 gross revenue of €50.4 million (a 33
     - p10 — This page presents €50.4m gross revenue for the reporting period and details strategic portfolio diversification into retail (France) and hospitality 
     - p24 [million] — This page presents the Balance Sheet and Capital Management section of the IREIT annual report for the period ending 31 December 2025, reporting total
     - p26 — This page presents an Independent Market Review containing the EMEA GDP forecast table (2025–2027), a 30-Year Government Bond Yield table (1998–2026),
@@ -38,24 +40,39 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p170 — This page presents the Independent Auditor's Report confirming that IREIT Global's financial statements as of 31 December 2025 are properly drawn up i
     - p171 — This page contains the Independent Auditor's Report focusing on the Key Audit Matter of Fair Valuation and Disclosure of Fair Value for Investment Pro
     - p175 ['000] — This page presents the Consolidated Statement of Total Return and Other Comprehensive Income for the year ended 31 December 2025, reporting Group resu
+    - p184 — This page contains no schema-relevant data, as it details general accounting policies regarding consolidation and business combinations rather than pr
     - p189 — This page presents Level 3 fair value inputs and sensitivity analysis for SGX REIT's investment properties in Germany, Spain, and France, detailing di
+    - p208 — This page contains textual disclosures regarding financial risk management objectives and policies, including details on interest rate hedging, credit
     - p211 ['000] — This page presents the Group's liquidity analysis for derivative financial instruments as of 31 December 2025 and 2024, detailing net settled cash flo
     - p216 ['000] — This page presents the DPU / distribution / financial highlights and manager/trustee/sponsor info via the Net Asset Value per Unit table, reporting Gr
+    - p223 ['000] — This page presents the statistics of unitholdings as of 12 March 2026, featuring a table of twenty largest unitholders in SGD'000. The distribution de
+    - p224 — This page presents the statistics of unitholdings for IREIT as at 12 March 2026, featuring tables detailing issued units (1,344,837,568 Units), market
 - **also mentions:**
+    - p19 — This page details the organizational hierarchy of IREIT GLOBAL through two diagrams: the Trust Structure, which outlines relationships among UNITHOLDE
+    - p22 ['000] — This page presents the **Statement of Total Return** for IREIT and its subsidiaries ("IREIT") reporting financial data in **€'000**, detailing a total
+    - p34 — This page presents a table and chart detailing the closing unit price performance of IREIT Global for the trading period from 1 January 2025 to 31 Dec
     - p40 [million] — This page presents the **Asset Valuation by Property** for SGX REIT's portfolio, detailing property-specific valuations in € million as of 31 December
     - p41 ['000] — This page presents the audited Portfolio Statement detailing Gross Rental Income by Property for 2024 and 2025, alongside a table of Portfolio Lease E
     - p72 ['000] — This page presents property-specific details for two Decathlon retail locations (Istres and Lannion) via a Property Information table listing completi
     - p83 ['000] — This page details the property information, lease profiles, and valuation metrics for two retail assets located at Epinal (Golbey) and Forbach as of 3
+    - p104 — This page of the SGX REIT annual report contains a table detailing Sustainable Development Goals ("SDG") material topics, FY 2025 targets, performance
+    - p174 ['000] — This page presents the Statements of Financial Position (Balance Sheet) for both the Group and Trust as at 31 December 2025, reporting values in EUR'0
     - p176 ['000] — This page presents the Consolidated Statement of Distribution for SGX REIT for the year ended 31 December 2025, reporting EUR'000 values. The table de
     - p177 ['000] — This page presents the Statements of Changes in Net Assets attributable to Unitholders for the year ended 31 December 2025, reporting two distinct tab
+    - p179 ['000] — This page presents the **audited Portfolio Statement** for the SGX REIT as at 31 December 2025, detailing property valuations by geography (Germany, S
+    - p180 ['000] — This page presents the **Statement of Portfolio (Continued)** for SGX REIT as at 31 December 2025, detailing property valuations by French location wi
+    - p181 ['000] — This page presents the **Statement of Portfolio (Continued)** for SGX REIT as at 31 December 2025, detailing property valuations by geography and tenu
+    - p183 — This page contains no schema-relevant data, as it details the application of new IFRS Accounting Standards and their lack of material impact on the fi
     - p198 ['000] — This page details the Group's management fee structure for IREIT, including a 10.0% Base Fee of Annual Distributable Income and a Performance Fee tied
     - p213 ['000] — This page presents the Capital Structure notes for the SGX REIT, featuring a table of Group borrowings denominated in EUR'000 as at 31 December 2025 a
     - p221 — This page contains the Group's financial ratios table for the year ended 31 December 2025, reporting expenses to weighted average net assets (1.16% in
+    - p222 ['000] — This page presents the Interested Person Transactions table for IREIT, detailing aggregate values in EUR'000 for fees paid to the Trustee (DBS Trustee
 
 ## properties
 - **MAIN (lead):**
     - p3 — This page contains the Table of Contents for an SGX REIT annual report, listing sections such as Key Figures on page 4 and Financial Statements on pag
     - p7 — This page presents the SGX REIT's key portfolio financial highlights as of 31 December 2024, featuring an audited Portfolio Statement showing an occup
+    - p8 [million] — This page features the Chairman and CEO Letter to Unitholders for IREIT Global Group Pte. Ltd., reporting FY 2025 gross revenue of €50.4 million (a 33
     - p10 — This page presents €50.4m gross revenue for the reporting period and details strategic portfolio diversification into retail (France) and hospitality 
     - p26 — This page presents an Independent Market Review containing the EMEA GDP forecast table (2025–2027), a 30-Year Government Bond Yield table (1998–2026),
     - p34 — This page presents a table and chart detailing the closing unit price performance of IREIT Global for the trading period from 1 January 2025 to 31 Dec
@@ -77,18 +94,22 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p86 ['000] — This page presents the B&M Portfolio Overview with two distinct property tables detailing asset information and lease profiles for NOYELLES-GODAULT an
     - p87 ['000] — This page presents audited Portfolio Statements for two b&m retail properties in Rouen and Saint-Quentin / Fayet, detailing their property information
     - p88 ['000] — This page presents the B&M Portfolio Overview for Tours (Saint-Cyr-sur-Loire), featuring a Property Information table detailing building completion in
+    - p103 — This page presents the IREIT's Sustainable Development Goals (SDG) report, detailing FY 2025 targets and performance across five key areas including g
     - p106 — This page from the SGX REIT annual report contains a combined bar and line chart and a table detailing portfolio energy consumption and intensity by c
     - p170 — This page presents the Independent Auditor's Report confirming that IREIT Global's financial statements as of 31 December 2025 are properly drawn up i
     - p171 — This page contains the Independent Auditor's Report focusing on the Key Audit Matter of Fair Valuation and Disclosure of Fair Value for Investment Pro
     - p179 ['000] — This page presents the **audited Portfolio Statement** for the SGX REIT as at 31 December 2025, detailing property valuations by geography (Germany, S
     - p180 ['000] — This page presents the **Statement of Portfolio (Continued)** for SGX REIT as at 31 December 2025, detailing property valuations by French location wi
     - p181 ['000] — This page presents the **Statement of Portfolio (Continued)** for SGX REIT as at 31 December 2025, detailing property valuations by geography and tenu
+    - p183 — This page contains no schema-relevant data, as it details the application of new IFRS Accounting Standards and their lack of material impact on the fi
+    - p184 — This page contains no schema-relevant data, as it details general accounting policies regarding consolidation and business combinations rather than pr
     - p186 ['000] — This page contains the audited Portfolio Statement for investment property valuations under Note 2.4 and the Statement of Total Return for income tax 
     - p188 ['000] — This page presents the audited Portfolio Statement for investment properties under "2.3 INVESTMENT PROPERTIES" within the Notes to Financial Statement
     - p189 — This page presents Level 3 fair value inputs and sensitivity analysis for SGX REIT's investment properties in Germany, Spain, and France, detailing di
     - p192 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents **Notes to Financial Statements** detailing Group operating asset
     - p195 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's operating segments, detailing segment assets and liabilities i
     - p206 ['000] — This page of the SGX REIT annual report contains a table titled "Financial Derivatives" listing Group and Trust fair values for interest rate caps, in
+    - p208 — This page contains textual disclosures regarding financial risk management objectives and policies, including details on interest rate hedging, credit
     - p212 ['000] — This page presents foreign currency risk exposure tables for the Group and Trust denominated in Singapore dollars with values reported in EUR'000, alo
     - p233 — This page contains a Proxy Form for the IREIT Global Annual General Meeting scheduled for 17 April 2026, detailing resolutions to adopt audited financ
 - **also mentions:**
@@ -164,6 +185,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p86 ['000] — This page presents the B&M Portfolio Overview with two distinct property tables detailing asset information and lease profiles for NOYELLES-GODAULT an
     - p87 ['000] — This page presents audited Portfolio Statements for two b&m retail properties in Rouen and Saint-Quentin / Fayet, detailing their property information
     - p88 ['000] — This page presents the B&M Portfolio Overview for Tours (Saint-Cyr-sur-Loire), featuring a Property Information table detailing building completion in
+    - p103 — This page presents the IREIT's Sustainable Development Goals (SDG) report, detailing FY 2025 targets and performance across five key areas including g
     - p106 — This page from the SGX REIT annual report contains a combined bar and line chart and a table detailing portfolio energy consumption and intensity by c
     - p117 — This page presents a TCFD Strategy table detailing IREIT's assessment of material climate-related opportunities and its corresponding business respons
     - p134 — This page of the SGX REIT Sustainability Report contains a GRI Standard disclosure table outlining policy commitments, stakeholder engagement mechanis
@@ -172,8 +194,11 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p140 ['000] — This page presents the SGX'000 Sustainability Report's table detailing ESG metrics for FY 2025, including ENERGY STAR and LEED certifications, water m
     - p141 ['000] — This page presents the SASB sustainability disclosure table for FY 2025 and Table B containing activity metrics for SGX REIT's portfolio in SGD'000, d
     - p171 — This page contains the Independent Auditor's Report focusing on the Key Audit Matter of Fair Valuation and Disclosure of Fair Value for Investment Pro
+    - p183 — This page contains no schema-relevant data, as it details the application of new IFRS Accounting Standards and their lack of material impact on the fi
+    - p184 — This page contains no schema-relevant data, as it details general accounting policies regarding consolidation and business combinations rather than pr
     - p192 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents **Notes to Financial Statements** detailing Group operating asset
     - p206 ['000] — This page of the SGX REIT annual report contains a table titled "Financial Derivatives" listing Group and Trust fair values for interest rate caps, in
+    - p208 — This page contains textual disclosures regarding financial risk management objectives and policies, including details on interest rate hedging, credit
     - p212 ['000] — This page presents foreign currency risk exposure tables for the Group and Trust denominated in Singapore dollars with values reported in EUR'000, alo
     - p220 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents significant related party transactions in EUR'000, detailing mana
     - p233 — This page contains a Proxy Form for the IREIT Global Annual General Meeting scheduled for 17 April 2026, detailing resolutions to adopt audited financ
@@ -185,11 +210,14 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p41 ['000] — This page presents the audited Portfolio Statement detailing Gross Rental Income by Property for 2024 and 2025, alongside a table of Portfolio Lease E
     - p55 [million] — This page displays the property-level details for Parc Cugat Green and Delta Nova VI, including their purchase prices, gross rental income for 2025 (€
     - p80 ['000] — This page presents the audited Portfolio Statement for two B&M properties in Béthune and Blois, detailing property information, lease profiles, and fi
+    - p103 — This page presents the IREIT's Sustainable Development Goals (SDG) report, detailing FY 2025 targets and performance across five key areas including g
     - p106 — This page from the SGX REIT annual report contains a combined bar and line chart and a table detailing portfolio energy consumption and intensity by c
     - p171 — This page contains the Independent Auditor's Report focusing on the Key Audit Matter of Fair Valuation and Disclosure of Fair Value for Investment Pro
     - p179 ['000] — This page presents the **audited Portfolio Statement** for the SGX REIT as at 31 December 2025, detailing property valuations by geography (Germany, S
+    - p183 — This page contains no schema-relevant data, as it details the application of new IFRS Accounting Standards and their lack of material impact on the fi
     - p192 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents **Notes to Financial Statements** detailing Group operating asset
     - p206 ['000] — This page of the SGX REIT annual report contains a table titled "Financial Derivatives" listing Group and Trust fair values for interest rate caps, in
+    - p208 — This page contains textual disclosures regarding financial risk management objectives and policies, including details on interest rate hedging, credit
     - p212 ['000] — This page presents foreign currency risk exposure tables for the Group and Trust denominated in Singapore dollars with values reported in EUR'000, alo
 - **also mentions:**
     - p178 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting Group net cash from operating activities of
@@ -206,12 +234,15 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p82 [million] — This page presents a property-level overview of two B&M retail assets located in Chateauroux (Saint-Maur) and Claye-Souilly, detailing their building 
     - p175 ['000] — This page presents the Consolidated Statement of Total Return and Other Comprehensive Income for the year ended 31 December 2025, reporting Group resu
     - p178 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting Group net cash from operating activities of
+    - p183 — This page contains no schema-relevant data, as it details the application of new IFRS Accounting Standards and their lack of material impact on the fi
     - p186 ['000] — This page contains the audited Portfolio Statement for investment property valuations under Note 2.4 and the Statement of Total Return for income tax 
     - p189 — This page presents Level 3 fair value inputs and sensitivity analysis for SGX REIT's investment properties in Germany, Spain, and France, detailing di
+    - p208 — This page contains textual disclosures regarding financial risk management objectives and policies, including details on interest rate hedging, credit
     - p212 ['000] — This page presents foreign currency risk exposure tables for the Group and Trust denominated in Singapore dollars with values reported in EUR'000, alo
     - p233 — This page contains a Proxy Form for the IREIT Global Annual General Meeting scheduled for 17 April 2026, detailing resolutions to adopt audited financ
 - **also mentions:**
     - p6 [million] — This page presents the Key Figures for the financial year ended 31 December 2025, featuring a Debt Maturity Profile table detailing €63.5m to €200.8m 
+    - p8 [million] — This page features the Chairman and CEO Letter to Unitholders for IREIT Global Group Pte. Ltd., reporting FY 2025 gross revenue of €50.4 million (a 33
     - p10 — This page presents €50.4m gross revenue for the reporting period and details strategic portfolio diversification into retail (France) and hospitality 
     - p23 [million] — This page presents the Revenue by Geography and Net Property Income by Geography for FY 2025, reporting total revenue of €50.4 million and net propert
     - p193 ['000] — This page presents the **Segment results** table detailing SGX REIT's operating performance by geographic region (Germany, Spain, France) and total fo

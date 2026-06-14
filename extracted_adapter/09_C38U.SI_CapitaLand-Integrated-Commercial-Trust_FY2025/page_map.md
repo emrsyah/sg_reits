@@ -10,8 +10,10 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p162 ['000] — This page details significant related party transactions with the Manager for 2025 and 2024, including asset enhancement works, leasing expenses, rent
 - **also mentions:**
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p15 [million] — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements including the divestment of 45% inte
     - p38 [million] — This page details CICT's office portfolio performance in FY 2025, highlighting strong demand that drove 0.8 million sq ft of new and renewed leases ac
     - p107 ['000] — This page presents the Distribution Statement for the SGX REIT year ended 31 December 2025, reporting in SGD'000. It details total return attributable
+    - p132 ['000] — This page presents accounting policy notes regarding FRS 118 and other standards, alongside a detailed Plant and Equipment table for the Group and Tru
     - p161 ['000] — This page presents the Earnings Per Unit (DPU) financial highlights for the Group, reporting total return attributable to Unitholders and weighted ave
     - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
 
@@ -44,6 +46,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p105 ['000] — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, reporting total assets in SGD'000. Key financial highl
     - p107 ['000] — This page presents the Distribution Statement for the SGX REIT year ended 31 December 2025, reporting in SGD'000. It details total return attributable
     - p108 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group and Trust for the year ended 31 December 2025, reporting financial 
+    - p119 — This page outlines accounting policies for plant and equipment, investment properties, assets held for sale, and foreign currency transactions within 
     - p134 — This page details the valuation techniques and significant unobservable inputs used for Level 3 fair value measurements of investment properties, incl
     - p143 — This page presents the audited Portfolio Statement (property valuations) for Joint Ventures, reporting Gross Revenue of $102,128k (GOT) and $46,761k (
     - p159 ['000] — This page presents financial highlights for SGX REIT, specifically detailing Gross Revenue (comprising rental, car park, and other income totaling $1,
@@ -51,19 +54,28 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p163 ['000] — This page details the Group's credit risk management regarding trade receivables, including credit limit policies, a table of impairment allowance mov
     - p166 ['000] — This page presents the Group's liquidity risk exposure as of 31 December 2024, detailing contractual cash flows for non-derivative financial liabiliti
     - p167 ['000] — This page presents the Trust's liquidity risk exposure as of 31 December 2025 and 2024, detailing contractual cash flows for non-derivative financial 
+    - p193 — This page presents the statistics and distribution of unitholdings for SGX REIT as of 27 February 2026, including a total of 7,611,317,783 issued unit
 - **also mentions:**
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
     - p28 [million] — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 10% Secured Bank Loans), and i
     - p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average lease expiry (WALE) metrics for
+    - p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confirming that the financial statem
     - p101 [million] — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investment properties (referencing No
+    - p109 ['000] — This page presents the audited Portfolio Statement for SGX REIT as at 31 December 2025, detailing property valuations and net assets attributable to u
     - p121 ['000] — This page outlines the accounting policies for financial instruments, detailing the recognition, classification, and subsequent measurement of non-der
+    - p155 ['000] — This page presents a table of Lease Liabilities for the Group and Trust with values in SGD'000, detailing current and non-current amounts for 2025 and
     - p162 ['000] — This page details significant related party transactions with the Manager for 2025 and 2024, including asset enhancement works, leasing expenses, rent
+    - p169 ['000] — This page presents the Group's foreign currency risk exposure as of 31 December 2024 and 2025, detailing net exposures in USD, HKD, EUR, AUD, and JPY 
+    - p170 ['000] — This page presents a sensitivity analysis table showing the impact of a 10.0% strengthening of the Singapore dollar against USD, HKD, EUR, AUD, and JP
+    - p172 ['000] — This page contains a cash flow sensitivity analysis for variable rate instruments showing the impact of 100 basis point interest rate changes on the S
 
 ## properties
 - **MAIN (lead):**
     - p4 — This page of the SGX REIT annual report presents 2025 financial highlights, including a Distribution per Unit of 11.58¢ and Distributable Income of S\
+    - p6 — This page details ESG highlights and corporate governance metrics for CICTML, including employee training participation, volunteer hours, carbon reduc
     - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p15 [million] — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements including the divestment of 45% inte
     - p23 [million] — This page presents an audited Portfolio Statement of property valuations as at 31 December 2025, reporting a total portfolio value of S$27.4 billion (
     - p24 [million] — This page presents the audited portfolio statement showing total property valuations of S$27,397.5 million as at 31 December 2025, with a 5.2% increas
     - p28 [million] — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 10% Secured Bank Loans), and i
@@ -86,8 +98,11 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p61 [million] — This page presents the audited Portfolio Statement for Plaza Singapura as of 31 December, reporting a valuation of S$1,443.0 million (2025) and S$1,44
     - p62 [million] — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ million alongside trade mix, tena
     - p97 — This page contains the table of contents for SGX REIT's Financial Statements, listing sections including the Statement of Total Return, Distribution S
+    - p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confirming that the financial statem
     - p101 [million] — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investment properties (referencing No
     - p109 ['000] — This page presents the audited Portfolio Statement for SGX REIT as at 31 December 2025, detailing property valuations and net assets attributable to u
+    - p119 — This page outlines accounting policies for plant and equipment, investment properties, assets held for sale, and foreign currency transactions within 
+    - p132 ['000] — This page presents accounting policy notes regarding FRS 118 and other standards, alongside a detailed Plant and Equipment table for the Group and Tru
     - p133 ['000] — This page presents the Audited Portfolio Statement for investment properties, detailing movements in carrying amounts and fair values for both the Gro
     - p134 — This page details the valuation techniques and significant unobservable inputs used for Level 3 fair value measurements of investment properties, incl
     - p143 — This page presents the audited Portfolio Statement (property valuations) for Joint Ventures, reporting Gross Revenue of $102,128k (GOT) and $46,761k (
@@ -95,6 +110,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p156 ['000] — This page presents the audited Portfolio Statement for Non-Controlling Interests (NCI) related to 79RR LLP and other immaterial subsidiaries, reportin
     - p175 ['000] — This page presents a reconciliation table of the Group and Trust hedging reserves for cash flow hedges under hedge accounting, detailing balance movem
     - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
+    - p193 — This page presents the statistics and distribution of unitholdings for SGX REIT as of 27 February 2026, including a total of 7,611,317,783 issued unit
 - **also mentions:**
     - p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average lease expiry (WALE) metrics for
     - p34 [million] — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categories including Banking (18.7%) an
@@ -139,8 +155,10 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p63 [million] — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporting figures in S$ million with 
 - **also mentions:**
     - p4 — This page of the SGX REIT annual report presents 2025 financial highlights, including a Distribution per Unit of 11.58¢ and Distributable Income of S\
+    - p6 — This page details ESG highlights and corporate governance metrics for CICTML, including employee training participation, volunteer hours, carbon reduc
     - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p15 [million] — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements including the divestment of 45% inte
     - p26 [million] — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Property Income (NPI) by segment
     - p28 [million] — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 10% Secured Bank Loans), and i
     - p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average lease expiry (WALE) metrics for
@@ -149,8 +167,11 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p51 [million] — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,718.0 million, gross revenue o
     - p64 [million] — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80 tenants (70 as at 31 December
     - p97 — This page contains the table of contents for SGX REIT's Financial Statements, listing sections including the Statement of Total Return, Distribution S
+    - p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confirming that the financial statem
     - p101 [million] — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investment properties (referencing No
+    - p119 — This page outlines accounting policies for plant and equipment, investment properties, assets held for sale, and foreign currency transactions within 
     - p121 ['000] — This page outlines the accounting policies for financial instruments, detailing the recognition, classification, and subsequent measurement of non-der
+    - p132 ['000] — This page presents accounting policy notes regarding FRS 118 and other standards, alongside a detailed Plant and Equipment table for the Group and Tru
     - p134 — This page details the valuation techniques and significant unobservable inputs used for Level 3 fair value measurements of investment properties, incl
     - p141 ['000] — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values in SGD'000 where the Group he
     - p162 ['000] — This page details significant related party transactions with the Manager for 2025 and 2024, including asset enhancement works, leasing expenses, rent
@@ -158,11 +179,13 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p164 ['000] — This page contains a table detailing the expected credit loss assessment for trade receivables by tenant status and aging period (not past due, 31 to 
     - p175 ['000] — This page presents a reconciliation table of the Group and Trust hedging reserves for cash flow hedges under hedge accounting, detailing balance movem
     - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
+    - p193 — This page presents the statistics and distribution of unitholdings for SGX REIT as of 27 February 2026, including a total of 7,611,317,783 issued unit
 
 ## trade_mix
 - **MAIN (lead):**
     - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p15 [million] — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements including the divestment of 45% inte
     - p26 [million] — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Property Income (NPI) by segment
     - p34 [million] — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categories including Banking (18.7%) an
     - p38 [million] — This page details CICT's office portfolio performance in FY 2025, highlighting strong demand that drove 0.8 million sq ft of new and renewed leases ac
@@ -191,6 +214,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p62 [million] — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ million alongside trade mix, tena
     - p63 [million] — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporting figures in S$ million with 
     - p64 [million] — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80 tenants (70 as at 31 December
+    - p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confirming that the financial statem
     - p141 ['000] — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values in SGD'000 where the Group he
     - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
 - **also mentions:**
@@ -208,14 +232,17 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 ## financial
 - **MAIN (lead):**
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p15 [million] — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements including the divestment of 45% inte
     - p40 ['000] — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations of S\$1,141.0 million (2024) an
     - p46 [million] — This page presents an audited Portfolio Statement for Tampines Mall, detailing property valuations of S$1,158.0 million (2025) and 507,300 sq ft GFA a
     - p60 ['000] — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting valuation in SGD millions and
     - p97 — This page contains the table of contents for SGX REIT's Financial Statements, listing sections including the Statement of Total Return, Distribution S
+    - p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confirming that the financial statem
     - p106 ['000] — This page presents the Statement of Total Return for the year ended 31 December 2025, reporting total return before tax of $958,604 and after tax of $
     - p107 ['000] — This page presents the Distribution Statement for the SGX REIT year ended 31 December 2025, reporting in SGD'000. It details total return attributable
     - p110 ['000] — This page of the SGX REIT annual report (as at 31 December 2025) details the independent property valuers for Retail, Office, and Integrated Developme
     - p112 ['000] — This page presents the Statement of Cash Flows for the year ended 31 December 2025, reporting net cash used in financing activities of $(450,001) thou
+    - p119 — This page outlines accounting policies for plant and equipment, investment properties, assets held for sale, and foreign currency transactions within 
     - p121 ['000] — This page outlines the accounting policies for financial instruments, detailing the recognition, classification, and subsequent measurement of non-der
     - p142 ['000] — This page presents a table summarizing the financial information of the Group's material joint ventures for the year ended 31 December 2025, reporting
     - p143 — This page presents the audited Portfolio Statement (property valuations) for Joint Ventures, reporting Gross Revenue of $102,128k (GOT) and $46,761k (

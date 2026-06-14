@@ -12,14 +12,17 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p38 — This page presents the Weighted Average Lease Expiry (WALE) and lease expiry profile for CLCT's logistics park portfolio as at 31 December 2025, repor
     - p71 — This page presents the Key Management Personnel Remuneration table for FY 2025, detailing salary, bonus, benefits-in-kind, and deferred compensation a
     - p97 ['000] — This page contains the Consolidated Distribution Statement (Note A) detailing distribution adjustment items for SGX REIT's year ended 31 December 2025
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
     - p148 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 19, 20, and 21 detailing Other property operating expenses 
     - p158 [million] — This page contains a cash flow sensitivity analysis table detailing the Group and Trust's exposure to interest rate risk for variable rate instruments
     - p164 ['000] — This page presents a table detailing the amounts relating to hedging instruments designated for a hedge of net investment in foreign operations, speci
 
 ## performance
 - **MAIN (lead):**
+    - p4 — The page presents a Property Portfolio table detailing CLCT's 17 properties across China, categorized into eight retail malls, five business parks, an
     - p7 [million] — The page presents the **Financial Highlights** table for SGX REIT, reporting gross revenue and net property income in both RMB million and S$ million 
     - p9 — The page presents Governance Highlights for the SGX REIT, featuring a main table detailing Board Composition with 9 directors (67% independent) and co
+    - p21 — This page presents the biographical details of SGX REIT's CEO Chan Kin Leong Gerry and Independent Director Chua Keng Kim, including their qualificati
     - p29 [million] — This page presents the **Capital Management** section with a **Key Financial Indicators** table detailing CLCT's total gross borrowings of S$1,703.0 m
     - p33 [million] — This page presents a Portfolio Lease Expiry Profile table detailing the Weighted Average Lease Expiry (WALE) and GRI/NLA distribution by year through 
     - p37 — This page presents the Weighted Average Lease Expiry (WALE) and lease expiry profile by business park property for CLCT's portfolio as at 31 December 
@@ -29,28 +32,53 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p97 ['000] — This page contains the Consolidated Distribution Statement (Note A) detailing distribution adjustment items for SGX REIT's year ended 31 December 2025
     - p103 ['000] — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the year ended 31 December 2025, reporting cash flows in SGD'000. Key fin
     - p114 — This page contains accounting policy notes regarding financial instruments, specifically covering derecognition, offsetting, cash equivalents, and der
+    - p121 ['000] — This page contains accounting policy notes regarding expenses, finance income/costs, and taxation for the year ended 31 December 2025, explicitly stat
     - p129 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table listing subsidiaries with their principal activities, pla
     - p143 ['000] — This page contains a table of Units in issue and perpetual securities for the SGX REIT Trust, reporting balances in number of units rather than SGD'00
+    - p147 — This page contains the Notes to the Financial Statements regarding Total Unitholders' distribution for the year ended 31 December 2025, detailing dist
     - p155 ['000] — This page contains a table of commitments (capital and operating leases) with no audited Portfolio Statement, financial highlights, or tenant mix data
+    - p174 — This page presents the **Distribution of Unitholdings** and **Twenty Largest Unitholders** for SGX REIT as of 24 February 2026, detailing that total i
 - **also mentions:**
     - p6 — This page of the SGX REIT annual report presents 2025 Highlights, led by a Gross Revenue table (RMB billion) showing 2025 revenue at 1.67 billion alon
     - p34 — This page presents the Weighted Average Lease Expiry (WALE) and detailed expiry profile for CLCT's retail portfolio as at 31 December 2025, reporting 
+    - p40 — This page of the CLCT annual report details investor relations activities, governance approvals, and unitholder structure rather than financial perfor
+    - p71 — This page presents the Key Management Personnel Remuneration table for FY 2025, detailing salary, bonus, benefits-in-kind, and deferred compensation a
+    - p94 ['000] — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, reporting Net Assets in SGD'000 alongside Unitholders'
+    - p95 ['000] — This page presents the **Consolidated Statement of Total Return** for the year ended 31 December 2025, reporting gross revenue of SGD'000 and detailin
+    - p98 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group and Trust for the year ended 31 December 2025, reporting changes in
+    - p99 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 December 2025, reporting Group and Trust totals in SGD'000.
+    - p100 ['000] — This page presents the Consolidated Portfolio Statement for SGX REIT, detailing property valuations in RMB'000 and USD'000 for 2025 versus 2024 alongs
+    - p101 ['000] — This page presents the Consolidated Portfolio Statement (property valuations) for SGX REIT as of 31 December 2025, detailing asset values in RMB'000 a
+    - p102 ['000] — This page presents the Consolidated Portfolio Statement for the year ended 31 December 2025, detailing property valuations in RMB'000 and USD'000 alon
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
+    - p142 ['000] — This page presents the Unitholders' funds table for the SGX REIT, reporting Group and Trust net assets resulting from operations of SGD 1,575,405 and 
     - p151 ['000] — This page presents the Notes to the Financial Statements for SGX REIT, specifically detailing significant related party transactions and financial rat
     - p158 [million] — This page contains a cash flow sensitivity analysis table detailing the Group and Trust's exposure to interest rate risk for variable rate instruments
+    - p160 ['000] — This page presents a foreign currency risk sensitivity analysis table detailing the Group and Trust financial impacts of a 10% strengthening or weaken
+    - p162 — This page presents a table detailing hedge accounting for cash flow hedges, specifically showing notional amounts and carrying values of interest rate
+    - p163 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a reconciliation table by risk category of components of equity a
     - p164 ['000] — This page presents a table detailing the amounts relating to hedging instruments designated for a hedge of net investment in foreign operations, speci
+    - p176 — This page presents the **Substantial Unitholders' Unitholdings** table for CapitaLand Integrated Commercial Trust (CLCT) as at 24 February 2026, detai
 
 ## properties
 - **MAIN (lead):**
+    - p2 — This page serves as the table of contents for an SGX REIT annual report, listing major sections including Overview, Performance, Governance, Financial
+    - p4 — The page presents a Property Portfolio table detailing CLCT's 17 properties across China, categorized into eight retail malls, five business parks, an
     - p9 — The page presents Governance Highlights for the SGX REIT, featuring a main table detailing Board Composition with 9 directors (67% independent) and co
     - p16 [million] — This page is a management letter for Cayman China Trust's 2025 financial year, explicitly naming the audited portfolio statement and distribution high
+    - p21 — This page presents the biographical details of SGX REIT's CEO Chan Kin Leong Gerry and Independent Director Chua Keng Kim, including their qualificati
     - p38 — This page presents the Weighted Average Lease Expiry (WALE) and lease expiry profile for CLCT's logistics park portfolio as at 31 December 2025, repor
     - p47 [million] — This page presents the audited Portfolio Statement for CapitaMall Xinnan, detailing property information including a Gross Floor Area of 91,816 sq m, 
     - p53 [million] — This page details the Ascendas Innovation Towers business park in Xi'an, presenting its property information table (GFA 118,495 sq m, NLA 95,654 sq m)
     - p54 ['000] — This page presents property-level data for Ascendas Innovation Hub in Xi'an, featuring a Property Information table with metrics such as Gross Floor A
+    - p57 [million] — This page introduces CapitaLand Commercial C-REIT (CLCR), its parent company CLCT's equity interest of 5.0% with a cost of RMB 114.4 million, and prov
+    - p88 — This page contains the Table of Contents for the SGX REIT annual report, listing 10 sections including the Independent Auditor's Report and the Consol
     - p100 ['000] — This page presents the Consolidated Portfolio Statement for SGX REIT, detailing property valuations in RMB'000 and USD'000 for 2025 versus 2024 alongs
     - p101 ['000] — This page presents the Consolidated Portfolio Statement (property valuations) for SGX REIT as of 31 December 2025, detailing asset values in RMB'000 a
     - p102 ['000] — This page presents the Consolidated Portfolio Statement for the year ended 31 December 2025, detailing property valuations in RMB'000 and USD'000 alon
     - p114 — This page contains accounting policy notes regarding financial instruments, specifically covering derecognition, offsetting, cash equivalents, and der
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
+    - p121 ['000] — This page contains accounting policy notes regarding expenses, finance income/costs, and taxation for the year ended 31 December 2025, explicitly stat
     - p124 ['000] — This page presents the audited Portfolio Statement for investment properties, detailing a 2025 ending balance of $4,204,374 (in $'000) and reporting f
     - p126 ['000] — This page contains the audited Portfolio Statement (property valuations) for the Group's plant and equipment as of 31 December 2025, detailing cost, a
     - p129 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table listing subsidiaries with their principal activities, pla
@@ -94,11 +122,15 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p32 [million] — This page presents the Top 10 tenants by percentage of Total Gross Rental Income for December 2025, detailing brand names, trade sectors, and their re
     - p38 — This page presents the Weighted Average Lease Expiry (WALE) and lease expiry profile for CLCT's logistics park portfolio as at 31 December 2025, repor
     - p50 ['000] — This page details the Ascendas Xinsu Portfolio, presenting a Property Information table with GFA of 373,334 sq m and NLA of 348,804 sq m (RMB'000), al
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
+    - p121 ['000] — This page contains accounting policy notes regarding expenses, finance income/costs, and taxation for the year ended 31 December 2025, explicitly stat
     - p129 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table listing subsidiaries with their principal activities, pla
     - p158 [million] — This page contains a cash flow sensitivity analysis table detailing the Group and Trust's exposure to interest rate risk for variable rate instruments
     - p164 ['000] — This page presents a table detailing the amounts relating to hedging instruments designated for a hedge of net investment in foreign operations, speci
 - **also mentions:**
+    - p4 — The page presents a Property Portfolio table detailing CLCT's 17 properties across China, categorized into eight retail malls, five business parks, an
     - p16 [million] — This page is a management letter for Cayman China Trust's 2025 financial year, explicitly naming the audited portfolio statement and distribution high
+    - p21 — This page presents the biographical details of SGX REIT's CEO Chan Kin Leong Gerry and Independent Director Chua Keng Kim, including their qualificati
     - p33 [million] — This page presents a Portfolio Lease Expiry Profile table detailing the Weighted Average Lease Expiry (WALE) and GRI/NLA distribution by year through 
     - p34 — This page presents the Weighted Average Lease Expiry (WALE) and detailed expiry profile for CLCT's retail portfolio as at 31 December 2025, reporting 
     - p35 [million] — This page presents the Retail Occupancy table (Committed Occupancy Rates) and performance tables for Tenant Sales and Shopper Traffic, reporting units
@@ -115,6 +147,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p52 [million] — This page presents the Singapore-Hangzhou Science & Technology Park Phase II property details, including a Property Information table with GFA of 130,
     - p53 [million] — This page details the Ascendas Innovation Towers business park in Xi'an, presenting its property information table (GFA 118,495 sq m, NLA 95,654 sq m)
     - p55 [million] — This page details the portfolio specifics for Shanghai Fengxian Logistics Park (62,785 sq m GFA, RMB623.7 million purchase price) and Wuhan Yangluo Lo
+    - p57 [million] — This page introduces CapitaLand Commercial C-REIT (CLCR), its parent company CLCT's equity interest of 5.0% with a cost of RMB 114.4 million, and prov
     - p139 ['000] — This page presents the reconciliation of movements of liabilities to cash flows arising from financing activities for SGX REIT, detailing adjustments 
     - p143 ['000] — This page contains a table of Units in issue and perpetual securities for the SGX REIT Trust, reporting balances in number of units rather than SGD'00
     - p155 ['000] — This page contains a table of commitments (capital and operating leases) with no audited Portfolio Statement, financial highlights, or tenant mix data
@@ -122,6 +155,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 ## trade_mix
 - **MAIN (lead):**
     - p16 [million] — This page is a management letter for Cayman China Trust's 2025 financial year, explicitly naming the audited portfolio statement and distribution high
+    - p21 — This page presents the biographical details of SGX REIT's CEO Chan Kin Leong Gerry and Independent Director Chua Keng Kim, including their qualificati
     - p31 — This page presents a breakdown of the CLCT portfolio by trade sector as at 31 December 2025, reporting Retail (69.3%), Business Parks (27.0%), and Log
     - p32 [million] — This page presents the Top 10 tenants by percentage of Total Gross Rental Income for December 2025, detailing brand names, trade sectors, and their re
     - p37 — This page presents the Weighted Average Lease Expiry (WALE) and lease expiry profile by business park property for CLCT's portfolio as at 31 December 
@@ -140,6 +174,8 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p53 [million] — This page details the Ascendas Innovation Towers business park in Xi'an, presenting its property information table (GFA 118,495 sq m, NLA 95,654 sq m)
     - p54 ['000] — This page presents property-level data for Ascendas Innovation Hub in Xi'an, featuring a Property Information table with metrics such as Gross Floor A
     - p55 [million] — This page details the portfolio specifics for Shanghai Fengxian Logistics Park (62,785 sq m GFA, RMB623.7 million purchase price) and Wuhan Yangluo Lo
+    - p57 [million] — This page introduces CapitaLand Commercial C-REIT (CLCR), its parent company CLCT's equity interest of 5.0% with a cost of RMB 114.4 million, and prov
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
     - p143 ['000] — This page contains a table of Units in issue and perpetual securities for the SGX REIT Trust, reporting balances in number of units rather than SGD'00
     - p155 ['000] — This page contains a table of commitments (capital and operating leases) with no audited Portfolio Statement, financial highlights, or tenant mix data
     - p158 [million] — This page contains a cash flow sensitivity analysis table detailing the Group and Trust's exposure to interest rate risk for variable rate instruments
@@ -166,6 +202,8 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p104 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, featuring a detailed table (in SGD'000) on the net ca
     - p113 — This page presents accounting policy notes regarding the classification, measurement, and derecognition of financial instruments for the year ended 31
     - p116 — This page outlines the Group's accounting policies for loans, borrowings, sustainability-linked loans, and investment properties within the Notes to t
+    - p117 ['000] — This page details the accounting policies for plant and equipment and leases, specifying that gains or losses on disposal are recognised in the statem
+    - p121 ['000] — This page contains accounting policy notes regarding expenses, finance income/costs, and taxation for the year ended 31 December 2025, explicitly stat
     - p123 — This page details accounting policies for segment reporting and newly issued standards, specifically FRS 118's requirements to classify income/expense
     - p130 ['000] — This page contains the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for the SGX REIT, specifically
     - p134 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss, comprehensive income, revenue,
