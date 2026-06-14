@@ -1,0 +1,177 @@
+# Page map v2 (classify) — 21_AJBU.SI_Keppel-DC-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p11  · audited('000): p176
+- [1.00] p11 — This page presents the Trust and Organisation Structure diagram of Keppel DC REIT alongside its organizational hierarchy
+- [1.00] p15 — no schema-relevant data
+- [1.00] p95 — no schema-relevant data
+- [1.00] p200 — no schema-relevant data
+- [1.00] p5 — no schema-relevant data
+- [1.00] p159 — no schema-relevant data
+- [1.00] p97 — no schema-relevant data
+- [1.00] p160 — no schema-relevant data
+- [1.00] p163 — no schema-relevant data
+- [0.99] p197 — no schema-relevant data
+- [0.99] p164 — no schema-relevant data
+- [0.99] p183 — no schema-relevant data
+- [0.99] p194 — This page presents the Notice of Annual General Meeting (AGM) for Keppel DC REIT scheduled for Thursday, 30 April 2026, 
+- [0.98] ['000] p176 — no schema-relevant data
+- [0.98] ['000] p130 — This page presents the **audited Portfolio Statement** detailing the Trust's subsidiaries, including their principal act
+- [0.98] p165 — no schema-relevant data
+- [0.98] p199 — no schema-relevant data
+- [0.97] p10 — This page of the Keppel DC REIT annual report presents a Board Composition Dashboard featuring tables detailing board te
+- [0.96] p12 — no schema-relevant data
+- [0.95] p98 — no schema-relevant data
+- [0.95] p195 — no schema-relevant data
+- [0.95] p13 — no schema-relevant data
+- [0.93] p173 — no schema-relevant data
+- [0.91] p175 — This page details Keppel DC REIT's corporate governance procedures, including attendance records for Unitholders' meetin
+- [0.90] p14 — no schema-relevant data
+- [0.90] p162 — no schema-relevant data
+- [0.89] p161 — This page details the Corporate Governance framework of Keppel DC REIT, including Board meeting procedures, roles of Com
+- [0.88] p184 — no schema-relevant data
+- [0.85] ['000] p169 — no schema-relevant data
+- [0.83] ['000] p168 — no schema-relevant data
+- [0.81] p198 — no schema-relevant data
+- [0.80] p172 — no schema-relevant data
+- [0.71] p166 — no schema-relevant data
+- [0.67] ['000] p189 — This page details Interested Person Transactions for Keppel DC REIT, presenting a table of aggregate values in S$'000 fo
+- [0.65] p177 — no schema-relevant data
+- [0.65] p81 — no schema-relevant data
+- [0.62] p167 — no schema-relevant data
+- [0.62] p16 — no schema-relevant data
+- [0.62] ['000] p170 — This page presents the **Level and Mix of Remuneration of Directors** (fees in S$) and the **Remuneration of the CEO and
+- [0.56] ['000] p190 — no schema-relevant data
+- [0.52] ['000] p112 — no schema-relevant data
+- [0.47] p179 — no schema-relevant data
+- [0.44] p2 — This page is the cover of the SGX REIT annual report, serving as a table of contents that lists all sections and their c
+- [0.44] p7 — no schema-relevant data
+- [0.32] p181 — no schema-relevant data
+- [0.27] p72 — no schema-relevant data
+- [0.22] ['000] p53 — This page of the Keppel DC REIT sustainability report (FY 2025, March 2026) presents a table listing entities and assets
+- [0.22] p73 — no schema-relevant data
+- [0.22] p101 — no schema-relevant data
+- [0.22] p96 — This page serves as the Table of Contents for the SGX REIT annual report, listing all financial statements including the
+- [0.20] p185 — no schema-relevant data
+- [0.20] [million] p100 — This page details the Key Audit Matter regarding the valuation of investment properties, confirming that as at 31 Decemb
+- [0.18] p79 — no schema-relevant data
+- [0.16] p74 — no schema-relevant data
+
+## performance  — top: p4  · audited('000): p191
+- [1.00] [million] p4 — This page presents the **Key Figures for 2025** of Keppel DC REIT, featuring a main table of financial highlights includ
+- [1.00] [million] p19 — This page presents Unit Price Performance data for Keppel DC REIT, featuring a monthly trading performance table and cha
+- [1.00] ['000] p191 — This page presents the **Statistics of Unitholdings** for Keppel DC REIT as of 11 March 2026, featuring a table detailin
+- [1.00] ['000] p8 — This page presents the Group Financial Highlights for SGX REIT, featuring a table of Results Highlights and Ratios with 
+- [0.99] [million] p6 — This page of the Keppel DC REIT annual report features a "Momentum" section highlighting record financial performance, i
+- [0.97] p17 — This page details Keppel DC REIT's 10th Annual General Meeting held on 15 April 2025 and lists accolades, memberships, r
+- [0.96] p192 — This page presents the Register of Directors' Unitholdings and Substantial Unitholders' Unitholdings for Keppel DC REIT 
+- [0.90] ['000] p102 — This page presents the Statements of Financial Position for the SGX REIT Group and Trust as at 31 December 2025, reporti
+- [0.84] ['000] p144 — This page presents the Earnings Per Unit (EPS) and Distribution Per Unit (DPU) tables for the SGX REIT Group, reporting 
+- [0.77] [million] p49 — This page of the SGX REIT annual report for Keppel DC REIT features a Debt Maturity Profile (%) table and Key Statistics
+- [0.76] [million] p27 — no schema-relevant data
+- [0.74] [million] p50 — This page details the utilisation of net proceeds as at 31 December 2025 and February 2026, outlines capital management 
+- [0.69] p29 — no schema-relevant data
+- [0.68] ['000] p46 — This page of the Keppel DC REIT FY 2025 annual report primarily features a **Gross Revenue table** (in SGD million) deta
+- [0.67] p30 — no schema-relevant data
+- [0.66] ['000] p140 — This page presents the Manager's net debt to total funding ratio for the Group (2025: 0.30, 2024: 0.25) and details the 
+- [0.62] p32 — no schema-relevant data
+- [0.61] p26 — no schema-relevant data
+- [0.58] p34 — This page presents supply/demand/utilisation tables for Cardiff and London data centre markets from 2025E to 2029F, repo
+- [0.53] ['000] p33 — This page presents an independent market review of data centre landscapes in Amsterdam, Eindhoven, and Cardiff, featurin
+- [0.49] ['000] p109 — This page presents the Distribution Statement for the year ended 31 December 2025, detailing the amount available for di
+- [0.33] p28 — This page presents data centre market analysis for Guangdong (using Guangzhou as a proxy) and Tokyo, Japan, featuring th
+- [0.31] p193 — no schema-relevant data
+- [0.27] ['000] p22 — no schema-relevant data
+- [0.27] p1 — 
+- [0.26] ['000] p190 — no schema-relevant data
+- [0.18] [million] p36 — This page features a glossary of data centre assets and strategic updates on 2025 acquisitions including Tokyo DC 3 (val
+- [0.17] p37 — This page presents the **TOTAL ATTRIBUTABLE LETTABLE AREA BY GEOGRAPHY (%)** and **PORTFOLIO AUM BY GEOGRAPHY (%)** tabl
+
+## properties  — top: p110
+- [1.00] ['000] p110 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 31 December 2025, detailing 
+- [1.00] [million] p41 — This page presents the **At A Glance** portfolio review for Keppel DC REIT's Asia Pacific assets, detailing five data ce
+- [1.00] ['000] p42 — This page presents a detailed asset table for five data centre properties (Guangdong Data Centre 2, Guangdong Data Centr
+- [1.00] [million] p43 — This page presents a "Portfolio Review" featuring a detailed **Statement of Portfolio (property valuations)** table that
+- [1.00] ['000] p111 — This page presents the audited Portfolio Statement as at 31 December 2025, listing investment properties including Keppe
+- [1.00] [million] p44 — This page presents a Statement of Portfolio detailing the physical attributes, ownership, and financial metrics for five
+- [1.00] [million] p40 — This page presents the **Statement of Portfolio (property valuations)** for Keppel DC REIT's Asia Pacific assets, displa
+- [0.99] [million] p48 — The page presents an Investment Properties and Investment Property Held for Sale table detailing the carrying value brea
+- [0.88] p20 — This page presents Keppel DC REIT's global data centre portfolio as of 31 December 2025, highlighting $6.3 billion in as
+- [0.80] ['000] p127 — This page presents the audited Portfolio Statement for investment properties, detailing the Group and Trust carrying amo
+- [0.57] [million] p36 — This page features a glossary of data centre assets and strategic updates on 2025 acquisitions including Tokyo DC 3 (val
+- [0.48] ['000] p128 — This page details the Group's investment property and asset held for sale activities, featuring a Statement of Investmen
+- [0.22] p37 — This page presents the **TOTAL ATTRIBUTABLE LETTABLE AREA BY GEOGRAPHY (%)** and **PORTFOLIO AUM BY GEOGRAPHY (%)** tabl
+
+## top_tenants  — top: p39
+- [0.19] p39 — This page presents a Portfolio Review featuring two donut charts detailing rental income breakdown by contract type (Ful
+
+## trade_mix  — top: p38  · audited('000): p22
+- [0.93] p38 — This page presents the Weighted Average Lease Expiry (WALE) by contract type, the Portfolio Contract Expiry Profile by L
+- [0.74] p39 — This page presents a Portfolio Review featuring two donut charts detailing rental income breakdown by contract type (Ful
+- [0.41] p37 — This page presents the **TOTAL ATTRIBUTABLE LETTABLE AREA BY GEOGRAPHY (%)** and **PORTFOLIO AUM BY GEOGRAPHY (%)** tabl
+- [0.37] p28 — This page presents data centre market analysis for Guangdong (using Guangzhou as a proxy) and Tokyo, Japan, featuring th
+- [0.35] ['000] p22 — no schema-relevant data
+- [0.25] ['000] p33 — This page presents an independent market review of data centre landscapes in Amsterdam, Eindhoven, and Cardiff, featurin
+- [0.22] ['000] p46 — This page of the Keppel DC REIT FY 2025 annual report primarily features a **Gross Revenue table** (in SGD million) deta
+- [0.20] p26 — no schema-relevant data
+- [0.19] p31 — no schema-relevant data
+
+## financial  — top: p104
+- [1.00] ['000] p104 — This page presents the Consolidated Statement of Comprehensive Income for the year ended 31 December 2025, reporting Gro
+- [1.00] ['000] p136 — This page presents the Deferred Taxation table detailing the Group's and Trust's deferred tax assets and liabilities (re
+- [1.00] ['000] p142 — This page presents SGX REIT's financial statements for the reporting unit in SGD'000, detailing Finance Costs (interest 
+- [1.00] p123 — no schema-relevant data
+- [1.00] ['000] p155 — This page details lease activities and related party transactions, featuring a table of undiscounted future lease paymen
+- [0.99] ['000] p131 — This page details the Group's investment in M1 Network Private Limited ("NetCo") via a summarised statement of financial
+- [0.99] ['000] p133 — This page contains the Derivative Financial Instruments table for SGX REIT, detailing notional amounts and fair values o
+- [0.99] ['000] p138 — This page presents the debt repayment schedule and terms for Group borrowings, detailing interest rates ranging from 1.5
+- [0.99] ['000] p143 — This page presents the summarised financial information for four entities (KDCS3 LLP, KDCS4 LLP, KDCS5 LLP, and KDCRT2 T
+- [0.99] ['000] p103 — This page presents the Consolidated Statement of Profit or Loss for SGX REIT, reporting financial highlights in SGD'000 
+- [0.99] ['000] p135 — This page contains the audited Portfolio Statement of Derivative Financial Instruments detailing the Group's hedging str
+- [0.99] ['000] p157 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's operating segments, detailing gr
+- [0.99] ['000] p137 — This page presents the audited Portfolio Statement for Cash and Cash Equivalents (Note 13) and Loans from Subsidiaries (
+- [0.99] ['000] p132 — This page presents the audited Portfolio Statement for Notes Receivables and Trade and Other Receivables, detailing bala
+- [0.98] p119 — no schema-relevant data
+- [0.98] ['000] p47 — This page presents the **GROUP FINANCIAL OVERVIEW** table for Keppel DC REIT, detailing FY 2025 financial highlights inc
+- [0.98] ['000] p108 — This page presents the **Reconciliation of Liabilities Arising from Financing Activities** for Keppel DC REIT, detailing
+- [0.98] p125 — no schema-relevant data
+- [0.98] ['000] p107 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting cash flows fr
+- [0.98] ['000] p153 — This page presents the audited Portfolio Statement for fair value of assets and liabilities, detailing Group and Trust i
+- [0.97] ['000] p141 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains gross revenue and propert
+- [0.97] p117 — no schema-relevant data
+- [0.97] ['000] p134 — This page presents a derivatives table detailing the maturity, notional amounts, and fair value impacts of forward excha
+- [0.95] p152 — no schema-relevant data
+- [0.95] p115 — no schema-relevant data
+- [0.95] p124 — no schema-relevant data
+- [0.94] ['000] p106 — This page presents the Statement of Total Return for the SGX REIT Trust, reporting Unitholders' Funds in SGD'000 for the
+- [0.94] ['000] p139 — This page presents the audited Portfolio Statement (property valuations) for the foreign currency translation reserve an
+- [0.94] ['000] p113 — no schema-relevant data
+- [0.93] p116 — no schema-relevant data
+- [0.93] p118 — no schema-relevant data
+- [0.92] ['000] p105 — This page presents the **Statement of Movements in Unitholders' Funds** for SGX REIT, detailing the year-end balance as 
+- [0.92] p121 — no schema-relevant data
+- [0.89] p120 — no schema-relevant data
+- [0.88] ['000] p129 — This page presents the Investment in Subsidiaries table and a listing of significant subsidiaries for Keppel DC REIT, re
+- [0.86] p114 — no schema-relevant data
+- [0.85] ['000] p154 — The page presents Level 3 fair value tables detailing valuation techniques and significant unobservable inputs for inves
+- [0.85] ['000] p148 — This page presents a table of Contractual cash flows (including finance costs) for the Trust and Group, detailing total 
+- [0.84] ['000] p145 — This page presents the Financial Risk Management notes for SGX REIT's year ended 31 December 2025, specifically detailin
+- [0.84] ['000] p156 — This page contains no schema-relevant data, as it presents textual commitments and contingencies alongside financial rat
+- [0.84] ['000] p151 — This page contains a sensitivity analysis table detailing the Group and Trust's profit or loss impact from a 10% strengt
+- [0.83] ['000] p149 — This page contains the "Derivatives assets and liabilities designated as cash flow hedges" table detailing the carrying 
+- [0.77] ['000] p158 — This page presents a geographical breakdown of the SGX'000 reporting unit's Gross revenue and Total carrying value of in
+- [0.77] ['000] p147 — This page contains a Liquidity risk disclosure table detailing the Group's contractual undiscounted cash flows for finan
+- [0.66] ['000] p146 — This page details the Group's credit risk assessment for trade receivables, notes receivables, deposits, cash equivalent
+- [0.65] p122 — no schema-relevant data
+- [0.62] [million] p100 — This page details the Key Audit Matter regarding the valuation of investment properties, confirming that as at 31 Decemb
+- [0.49] p126 — no schema-relevant data
+- [0.49] ['000] p109 — This page presents the Distribution Statement for the year ended 31 December 2025, detailing the amount available for di
+- [0.46] ['000] p112 — no schema-relevant data
+- [0.35] p99 — This page contains the Independent Auditor's Report to the Unitholders of Keppel DC REIT, confirming that the Group's co
+- [0.33] ['000] p128 — This page details the Group's investment property and asset held for sale activities, featuring a Statement of Investmen
+- [0.24] ['000] p140 — This page presents the Manager's net debt to total funding ratio for the Group (2025: 0.30, 2024: 0.25) and details the 
+- [0.22] [million] p49 — This page of the SGX REIT annual report for Keppel DC REIT features a Debt Maturity Profile (%) table and Key Statistics
+- [0.19] ['000] p189 — This page details Interested Person Transactions for Keppel DC REIT, presenting a table of aggregate values in S$'000 fo
+- [0.18] ['000] p127 — This page presents the audited Portfolio Statement for investment properties, detailing the Group and Trust carrying amo

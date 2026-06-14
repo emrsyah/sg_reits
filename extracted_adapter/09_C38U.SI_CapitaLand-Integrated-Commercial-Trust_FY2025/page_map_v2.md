@@ -1,0 +1,242 @@
+# Page map v2 (classify) — 09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p9  · audited('000): p141
+- [1.00] p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as Capit
+- [1.00] p198 — no schema-relevant data
+- [1.00] p22 — no schema-relevant data
+- [1.00] p65 — no schema-relevant data
+- [1.00] p3 — no schema-relevant data
+- [1.00] p66 — no schema-relevant data
+- [1.00] p98 — no schema-relevant data
+- [1.00] p199 — no schema-relevant data
+- [0.99] p69 — no schema-relevant data
+- [0.99] p18 — no schema-relevant data
+- [0.99] p102 — no schema-relevant data
+- [0.98] p137 — no schema-relevant data
+- [0.96] p87 — no schema-relevant data
+- [0.95] p73 — no schema-relevant data
+- [0.94] p19 — no schema-relevant data
+- [0.93] p99 — no schema-relevant data
+- [0.93] p67 — no schema-relevant data
+- [0.93] p68 — no schema-relevant data
+- [0.93] p21 — no schema-relevant data
+- [0.93] p75 — no schema-relevant data
+- [0.88] p83 — no schema-relevant data
+- [0.88] p85 — no schema-relevant data
+- [0.83] p86 — no schema-relevant data
+- [0.82] p20 — no schema-relevant data
+- [0.81] p89 — no schema-relevant data
+- [0.77] p31 — no schema-relevant data
+- [0.75] p80 — no schema-relevant data
+- [0.74] p138 — no schema-relevant data
+- [0.73] p88 — no schema-relevant data
+- [0.73] p78 — no schema-relevant data
+- [0.68] p84 — no schema-relevant data
+- [0.60] p113 — no schema-relevant data
+- [0.60] p192 — no schema-relevant data
+- [0.59] p72 — no schema-relevant data
+- [0.59] p81 — no schema-relevant data
+- [0.52] p140 — no schema-relevant data
+- [0.48] p191 — no schema-relevant data
+- [0.47] p70 — no schema-relevant data
+- [0.44] p158 — no schema-relevant data
+- [0.43] p104 — no schema-relevant data
+- [0.43] ['000] p141 — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values
+- [0.41] p82 — no schema-relevant data
+- [0.40] p103 — no schema-relevant data
+- [0.40] p77 — no schema-relevant data
+- [0.36] ['000] p10 — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO
+- [0.34] p139 — no schema-relevant data
+- [0.33] p79 — no schema-relevant data
+- [0.28] p2 — no schema-relevant data
+- [0.20] p194 — no schema-relevant data
+- [0.18] p71 — no schema-relevant data
+- [0.17] [million] p101 — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investm
+- [0.16] p115 — no schema-relevant data
+
+## performance  — top: p193  · audited('000): p5
+- [1.00] p193 — This page presents the statistics and distribution of unitholdings for SGX REIT as of 27 February 2026, including a tota
+- [1.00] p195 — no schema-relevant data
+- [1.00] p4 — This page of the SGX REIT annual report presents 2025 financial highlights, including a Distribution per Unit of 11.58¢ 
+- [1.00] [million] p30 — This page details the 2025 trading performance of CICT's Units, reporting a total volume of 6.2 billion Units and an ave
+- [1.00] ['000] p5 — This page presents the Financial Highlights for CICT Group, reporting Gross Revenue, Distributable Income, Net Property 
+- [0.99] p27 — no schema-relevant data
+- [0.96] p12 — no schema-relevant data
+- [0.95] [million] p26 — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Pr
+- [0.93] ['000] p161 — This page presents the Earnings Per Unit (DPU) financial highlights for the Group, reporting total return attributable t
+- [0.87] p37 — no schema-relevant data
+- [0.82] ['000] p105 — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, reporting total assets i
+- [0.77] ['000] p107 — This page presents the Distribution Statement for the SGX REIT year ended 31 December 2025, reporting in SGD'000. It det
+- [0.76] [million] p29 — This page presents the Debt Maturity Profile as at 31 December 2025 in SGD million, detailing borrowings by year from 20
+- [0.71] p194 — no schema-relevant data
+- [0.69] p11 — no schema-relevant data
+- [0.68] p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average l
+- [0.59] ['000] p10 — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO
+- [0.55] [million] p28 — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 
+- [0.39] p158 — no schema-relevant data
+- [0.36] ['000] p157 — This page details Non-Controlling Interests ("NCI") financial data for the SGX REIT reporting unit in SGD'000, including
+- [0.34] p190 — no schema-relevant data
+- [0.34] p35 — no schema-relevant data
+
+## properties  — top: p23  · audited('000): p109
+- [1.00] [million] p23 — This page presents an audited Portfolio Statement of property valuations as at 31 December 2025, reporting a total portf
+- [1.00] [million] p43 — This page details the ION Orchard property, an iconic mall in Singapore with a total valuation of S$3,697.0 million (100
+- [1.00] ['000] p109 — This page presents the audited Portfolio Statement for SGX REIT as at 31 December 2025, detailing property valuations an
+- [1.00] p8 — no schema-relevant data
+- [0.99] [million] p24 — This page presents the audited portfolio statement showing total property valuations of S$27,397.5 million as at 31 Dece
+- [0.99] ['000] p110 — This page of the SGX REIT annual report (as at 31 December 2025) details the independent property valuers for Retail, Of
+- [0.98] ['000] p133 — This page presents the Audited Portfolio Statement for investment properties, detailing movements in carrying amounts an
+- [0.93] p7 — no schema-relevant data
+- [0.61] ['000] p56 — This page details the Gallileo property, a 38-storey Grade A commercial building in Frankfurt's Banking District, report
+- [0.57] ['000] p53 — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$
+- [0.55] ['000] p41 — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of 
+- [0.52] [million] p46 — This page presents an audited Portfolio Statement for Tampines Mall, detailing property valuations of S$1,158.0 million 
+- [0.52] [million] p39 — This page details the property specifics and financial performance of Bedok Mall as at 31 December 2025, reporting gross
+- [0.52] [million] p64 — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80
+- [0.52] [million] p45 — This page presents the audited Portfolio Statement for Lot One Shoppers' Mall as of 31 December, reporting a valuation o
+- [0.49] [million] p61 — This page presents the audited Portfolio Statement for Plaza Singapura as of 31 December, reporting a valuation of S$1,4
+- [0.48] ['000] p58 — This page details the audited Portfolio Statement for 66 Goulburn Street, reporting property valuations in A$ and S$ (S$
+- [0.46] [million] p15 — This page details the CICT Value Creation Strategy across four pillars and outlines significant capital movements includ
+- [0.45] ['000] p40 — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations o
+- [0.45] [million] p55 — This page details the Six Battery Road property, reporting a valuation of S$1,623.0 million and gross revenue of S$71.1 
+- [0.43] [million] p47 — This page details the Westgate shopping mall in Jurong Gateway, Singapore, presenting a portfolio statement as at 31 Dec
+- [0.40] [million] p44 — This page presents an audited Portfolio Statement for Junction 8, a shopping mall located at 9 Bishan Place, with financ
+- [0.39] [million] p59 — This page presents the audited Portfolio Statement for the 100 Arthur Street building as at 31 December 2024 and 2025, r
+- [0.37] [million] p63 — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporti
+- [0.36] [million] p48 — This page details the Bugis+ shopping mall, a property with an as-of-December 2024 valuation of S$359.0 million and gros
+- [0.35] [million] p25 — This page presents gross revenue figures for FY 2025 totaling S$1,619.2 million (reported in millions of Singapore Dolla
+- [0.34] [million] p49 — This page details the Bukit Panjang Plaza asset, reporting a valuation of S$389.0 million and gross revenue of S$65.7 mi
+- [0.34] [million] p42 — This page details the IMM Building, Singapore's largest outlet mall, presenting property valuations and gross revenue fo
+- [0.34] ['000] p60 — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting
+- [0.33] [million] p52 — This page presents the audited Portfolio Statement for CapitaSpring as of 31 December 2025, reporting a valuation of S$1
+- [0.31] p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuatio
+- [0.30] ['000] p54 — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio v
+- [0.28] [million] p51 — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,
+- [0.28] [million] p50 — This page presents the audited Portfolio Statement for Asia Square Tower 2 as of 31 December 2025, reporting a valuation
+- [0.26] [million] p62 — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ mil
+
+## top_tenants  — top: p33
+- [0.89] ['000] p33 — This page presents the Portfolio Lease Expiry Profile (%) for Retail, Office, and Hospitality sectors from 2026 to 2031 
+
+## trade_mix  — top: p34  · audited('000): p54
+- [1.00] [million] p34 — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categorie
+- [0.99] [million] p38 — This page details CICT's office portfolio performance in FY 2025, highlighting strong demand that drove 0.8 million sq f
+- [0.91] p36 — no schema-relevant data
+- [0.70] [million] p62 — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ mil
+- [0.68] [million] p51 — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,
+- [0.68] [million] p50 — This page presents the audited Portfolio Statement for Asia Square Tower 2 as of 31 December 2025, reporting a valuation
+- [0.65] p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuatio
+- [0.65] ['000] p54 — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio v
+- [0.64] [million] p49 — This page details the Bukit Panjang Plaza asset, reporting a valuation of S$389.0 million and gross revenue of S$65.7 mi
+- [0.63] [million] p42 — This page details the IMM Building, Singapore's largest outlet mall, presenting property valuations and gross revenue fo
+- [0.63] ['000] p60 — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting
+- [0.62] [million] p52 — This page presents the audited Portfolio Statement for CapitaSpring as of 31 December 2025, reporting a valuation of S$1
+- [0.61] [million] p63 — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporti
+- [0.60] [million] p48 — This page details the Bugis+ shopping mall, a property with an as-of-December 2024 valuation of S$359.0 million and gros
+- [0.57] [million] p44 — This page presents an audited Portfolio Statement for Junction 8, a shopping mall located at 9 Bishan Place, with financ
+- [0.57] [million] p59 — This page presents the audited Portfolio Statement for the 100 Arthur Street building as at 31 December 2024 and 2025, r
+- [0.55] [million] p47 — This page details the Westgate shopping mall in Jurong Gateway, Singapore, presenting a portfolio statement as at 31 Dec
+- [0.51] ['000] p40 — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations o
+- [0.50] [million] p55 — This page details the Six Battery Road property, reporting a valuation of S$1,623.0 million and gross revenue of S$71.1 
+- [0.50] p35 — no schema-relevant data
+- [0.49] [million] p61 — This page presents the audited Portfolio Statement for Plaza Singapura as of 31 December, reporting a valuation of S$1,4
+- [0.48] ['000] p58 — This page details the audited Portfolio Statement for 66 Goulburn Street, reporting property valuations in A$ and S$ (S$
+- [0.46] [million] p46 — This page presents an audited Portfolio Statement for Tampines Mall, detailing property valuations of S$1,158.0 million 
+- [0.46] [million] p39 — This page details the property specifics and financial performance of Bedok Mall as at 31 December 2025, reporting gross
+- [0.46] [million] p64 — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80
+- [0.46] [million] p45 — This page presents the audited Portfolio Statement for Lot One Shoppers' Mall as of 31 December, reporting a valuation o
+- [0.42] ['000] p41 — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of 
+- [0.40] ['000] p53 — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$
+- [0.37] ['000] p56 — This page details the Gallileo property, a 38-storey Grade A commercial building in Frankfurt's Banking District, report
+- [0.19] [million] p25 — This page presents gross revenue figures for FY 2025 totaling S$1,619.2 million (reported in millions of Singapore Dolla
+- [0.15] p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average l
+
+## financial  — top: p147
+- [1.00] ['000] p147 — This page details the Group's deferred tax assets and liabilities for the years ended 31 December 2025 and 2024, reporte
+- [1.00] ['000] p160 — This page presents SGX REIT Notes 25 and 26 detailing Group finance costs of $314,704 (2025) and $345,394 (2024), alongs
+- [1.00] p154 — no schema-relevant data
+- [1.00] ['000] p142 — This page presents a table summarizing the financial information of the Group's material joint ventures for the year end
+- [1.00] p150 — no schema-relevant data
+- [1.00] p183 — no schema-relevant data
+- [0.99] p111 — no schema-relevant data
+- [0.99] p182 — no schema-relevant data
+- [0.99] p129 — no schema-relevant data
+- [0.99] ['000] p155 — This page presents a table of Lease Liabilities for the Group and Trust with values in SGD'000, detailing current and no
+- [0.99] ['000] p186 — This page presents the Operating Segments of SGX REIT, reporting financial data in SGD'000 across Retail, Office, and In
+- [0.99] ['000] p146 — This page presents the audited Portfolio Statement of financial instruments subject to enforceable master netting arrang
+- [0.99] p181 — no schema-relevant data
+- [0.99] ['000] p156 — This page presents the audited Portfolio Statement for Non-Controlling Interests (NCI) related to 79RR LLP and other imm
+- [0.99] ['000] p189 — This page contains Notes to the Financial Statements detailing the divestment of investment property and a joint venture
+- [0.99] p143 — This page presents the audited Portfolio Statement (property valuations) for Joint Ventures, reporting Gross Revenue of 
+- [0.99] ['000] p144 — This page contains notes on joint operations, equity investments at fair value (specifically CLCT and Sentral REIT), and
+- [0.99] ['000] p132 — This page presents accounting policy notes regarding FRS 118 and other standards, alongside a detailed Plant and Equipme
+- [0.99] ['000] p159 — This page presents financial highlights for SGX REIT, specifically detailing Gross Revenue (comprising rental, car park,
+- [0.99] p180 — no schema-relevant data
+- [0.99] p179 — no schema-relevant data
+- [0.99] ['000] p184 — This page details SGX REIT's operating segments (Retail, Office, Integrated Developments) and reports a total return for
+- [0.98] p145 — no schema-relevant data
+- [0.98] ['000] p187 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000)
+- [0.98] ['000] p106 — This page presents the Statement of Total Return for the year ended 31 December 2025, reporting total return before tax 
+- [0.98] ['000] p108 — This page presents the Statements of Movements in Unitholders' Funds for the Group and Trust for the year ended 31 Decem
+- [0.98] p130 — no schema-relevant data
+- [0.98] p119 — This page outlines accounting policies for plant and equipment, investment properties, assets held for sale, and foreign
+- [0.97] ['000] p148 — This page details the reclassification of assets and liabilities held for sale regarding the Bukit Panjang Plaza transac
+- [0.97] ['000] p185 — This page presents the 31 Operating Segments table for the year ended 31 December 2025, reporting segment assets and lia
+- [0.97] ['000] p172 — This page contains a cash flow sensitivity analysis for variable rate instruments showing the impact of 100 basis point 
+- [0.96] p151 — no schema-relevant data
+- [0.96] p149 — no schema-relevant data
+- [0.96] ['000] p175 — This page presents a reconciliation table of the Group and Trust hedging reserves for cash flow hedges under hedge accou
+- [0.96] p114 — no schema-relevant data
+- [0.94] ['000] p112 — This page presents the Statement of Cash Flows for the year ended 31 December 2025, reporting net cash used in financing
+- [0.94] p131 — no schema-relevant data
+- [0.94] p152 — no schema-relevant data
+- [0.92] p123 — no schema-relevant data
+- [0.91] p176 — no schema-relevant data
+- [0.89] p153 — no schema-relevant data
+- [0.87] p188 — no schema-relevant data
+- [0.85] ['000] p136 — This page details the financial status of subsidiaries, including loans with interest rates ranging from 2.97% to 5.00%,
+- [0.84] p120 — no schema-relevant data
+- [0.83] p134 — This page details the valuation techniques and significant unobservable inputs used for Level 3 fair value measurements 
+- [0.82] p115 — no schema-relevant data
+- [0.80] p117 — no schema-relevant data
+- [0.79] ['000] p162 — This page details significant related party transactions with the Manager for 2025 and 2024, including asset enhancement
+- [0.75] ['000] p135 — This page details significant unobservable inputs for investment property valuations, specifically terminal yield rates 
+- [0.75] p116 — no schema-relevant data
+- [0.74] p178 — no schema-relevant data
+- [0.74] ['000] p121 — This page outlines the accounting policies for financial instruments, detailing the recognition, classification, and sub
+- [0.69] p174 — no schema-relevant data
+- [0.67] p128 — no schema-relevant data
+- [0.64] p122 — no schema-relevant data
+- [0.64] p118 — no schema-relevant data
+- [0.64] p190 — no schema-relevant data
+- [0.64] p139 — no schema-relevant data
+- [0.64] p124 — no schema-relevant data
+- [0.63] p97 — This page contains the table of contents for SGX REIT's Financial Statements, listing sections including the Statement o
+- [0.61] p177 — no schema-relevant data
+- [0.60] ['000] p157 — This page details Non-Controlling Interests ("NCI") financial data for the SGX REIT reporting unit in SGD'000, including
+- [0.59] [million] p101 — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investm
+- [0.58] ['000] p166 — This page presents the Group's liquidity risk exposure as of 31 December 2024, detailing contractual cash flows for non-
+- [0.52] ['000] p164 — This page contains a table detailing the expected credit loss assessment for trade receivables by tenant status and agin
+- [0.49] p126 — no schema-relevant data
+- [0.49] p125 — no schema-relevant data
+- [0.49] ['000] p141 — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values
+- [0.48] ['000] p163 — This page details the Group's credit risk management regarding trade receivables, including credit limit policies, a tab
+- [0.48] p191 — no schema-relevant data
+- [0.46] p140 — no schema-relevant data
+- [0.43] ['000] p169 — This page presents the Group's foreign currency risk exposure as of 31 December 2024 and 2025, detailing net exposures i
+- [0.43] [million] p28 — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 
+- [0.40] ['000] p170 — This page presents a sensitivity analysis table showing the impact of a 10.0% strengthening of the Singapore dollar agai
+- [0.40] [million] p25 — This page presents gross revenue figures for FY 2025 totaling S$1,619.2 million (reported in millions of Singapore Dolla
+- [0.36] p113 — no schema-relevant data
+- [0.34] p127 — no schema-relevant data
+- [0.34] p171 — no schema-relevant data
+- [0.29] ['000] p165 — This page details the Group's liquidity risk management and presents a table of expected contractual undiscounted cash o
+- [0.26] ['000] p167 — This page presents the Trust's liquidity risk exposure as of 31 December 2025 and 2024, detailing contractual cash flows
+- [0.24] p138 — no schema-relevant data
+- [0.22] ['000] p107 — This page presents the Distribution Statement for the SGX REIT year ended 31 December 2025, reporting in SGD'000. It det
+- [0.19] p192 — no schema-relevant data
+- [0.15] p100 — This page contains the Independent Auditor's Report to the Unitholders of CapitaLand Integrated Commercial Trust, confir
+- [0.15] [million] p29 — This page presents the Debt Maturity Profile as at 31 December 2025 in SGD million, detailing borrowings by year from 20
