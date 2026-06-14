@@ -176,20 +176,18 @@ def tag_summary(summary):
     if not summary or "no schema-relevant data" in summary.lower():
         return {}
     full = summary.lower()
-    unit = detect_unit(summary)
     tags = {}
     for t in SCHEMA_TABLES:
         if any(re.search(p, full) for p in LEAD_ANCHORS[t]):
             tags[t] = "lead"            # a specific named artifact => the page IS this table
         elif any(re.search(p, full) for p in MENTION_ANCHORS[t]):
             tags[t] = "also"            # generic mention => candidate / supporting page
-    # top_tenants & trade_mix are PERCENTAGE tables, never in 'millions'. A million-unit
-    # page is a per-property marketing card, not the authoritative %-table => demote it
-    # from 'lead' so the portfolio-level table stands out.
-    for t in ("top_tenants", "trade_mix"):
-        if tags.get(t) == "lead" and unit == "million":
-            tags[t] = "also"
     return tags
+    # NB: an earlier rule demoted million-unit pages from top_tenants/trade_mix 'lead'
+    # (to drop per-property cards). The 7-report eval showed it also demoted REAL tables
+    # on operations-review pages that mention a $-million figure (e.g. M44U p49 "Top-N
+    # tenants/customers table"), so it was removed. lead/also is a recall hint anyway;
+    # the extraction agent picks the authoritative page from the summaries + unit column.
 
 
 def build_outputs(records, out_dir):

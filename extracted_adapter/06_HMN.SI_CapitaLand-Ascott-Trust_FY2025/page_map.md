@@ -123,6 +123,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 
 ## top_tenants
 - **MAIN (lead):**
+    - p18 [million] — This page presents a table detailing CLAS' portfolio revenue and gross profit by country for FY 2025 and FY 2024, reporting figures in local currencie
     - p46 — This page presents a single-page summary for the Ireland reporting unit featuring a revenue and valuation table for the Temple Bar Hotel Dublin by The
     - p160 — This page contains accounting policy notes regarding the recognition, measurement, depreciation schedules for property and plant equipment (over 2 to 
     - p176 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (continued) as of 31 December 2025, detailing capital land assets
@@ -131,7 +132,6 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p293 ['000] — This page presents the statistics of Stapled Securityholdings as at 26 February 2026, featuring a Top-N tenants/customers table listing the twenty lar
 - **also mentions:**
     - p5 ['000] — This page presents textual financial highlights for CLAS REIT (SGX: 1825) reporting in SGD'000, detailing an FY 2025 total distribution of S$233.5 mil
-    - p18 [million] — This page presents a table detailing CLAS' portfolio revenue and gross profit by country for FY 2025 and FY 2024, reporting figures in local currencie
     - p25 ['000] — This page presents a table titled "Lease Expiry for Master Leases" detailing the percentage of gross rental income for CLAS' 28 master leases expiring
     - p29 ['000] — This page presents the **Serviced Residences** segment of CLAS' annual report, detailing FY 2025 performance in AUD'000 for gross rental income and re
     - p32 ['000] — This page presents the Operations Review with a table detailing Gross Rental Income (EUR'000) for Citadines properties under Master Lease, comparing F
@@ -161,17 +161,17 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 
 ## trade_mix
 - **MAIN (lead):**
+    - p26 [million] — This page presents FY 2025 Gross Profit by Contract Type (S$385.3 million split between Growth Income at 35% and Stable Income at 65%), detailed break
     - p53 — This page presents the Comparative Trading Performance from FY 2023 to FY 2025 and Trading Price Performance for CapitaLand Ascott Trust (CLAS) in SGD
+    - p56 [million] — This page presents a Portfolio Listing table detailing the SGX REIT's audited portfolio of 19 properties across Ireland and Japan, including their add
     - p100 — This page lists the contents of the Financial Statements section, including reports from the Trustee, Manager, and BT Trustee-Manager; an Independent 
     - p176 ['000] — This page presents the audited Portfolio Statement for Property, Plant and Equipment (continued) as of 31 December 2025, detailing capital land assets
     - p236 ['000] — This page presents the Stapled Group's interest rate risk disclosures and a table detailing the carrying amounts of fixed and variable rate financial 
     - p277 — This page presents the Notes to the Financial Statements for CapitaLand Ascott Business Trust Management Pte. Ltd. (the "Company") for the year ended 
     - p290 ['000] — This page contains a table titled "Fair Value of Financial Assets and Financial Liabilities (continued)" presenting carrying amounts and fair values f
 - **also mentions:**
-    - p26 [million] — This page presents FY 2025 Gross Profit by Contract Type (S$385.3 million split between Growth Income at 35% and Stable Income at 65%), detailed break
     - p29 ['000] — This page presents the **Serviced Residences** segment of CLAS' annual report, detailing FY 2025 performance in AUD'000 for gross rental income and re
     - p43 ['000] — This page presents the audited Portfolio Statement for CLAS' China segment, detailing four managed leasehold serviced residences (Citadines Xinghai Su
-    - p56 [million] — This page presents a Portfolio Listing table detailing the SGX REIT's audited portfolio of 19 properties across Ireland and Japan, including their add
     - p169 — This page outlines CapitaLand Ascott REIT's accounting policies regarding income tax treatment, including the 10% reduced withholding rate for qualify
     - p195 ['000] — This page presents the **Trade and Other Receivables** table for CapitaLand Ascott REIT Group, CapitaLand Ascott BT Group, and the Stapled Group with 
     - p207 ['000] — This page presents the **Trade and Other Payables** table for CapitaLand Ascott REIT Group, CapitaLand Ascott BT Group, and Stapled Group, reporting f

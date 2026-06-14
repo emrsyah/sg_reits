@@ -101,6 +101,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 
 ## trade_mix
 - **MAIN (lead):**
+    - p6 [million] — This page of the Keppel DC REIT annual report features a "Momentum" section highlighting record financial performance, including a Total Unitholder Re
     - p10 — This page of the Keppel DC REIT annual report presents a Board Composition Dashboard featuring tables detailing board tenure, gender diversity, indepe
     - p37 — This page presents the **TOTAL ATTRIBUTABLE LETTABLE AREA BY GEOGRAPHY (%)** and **PORTFOLIO AUM BY GEOGRAPHY (%)** tables as at 31 December 2025, det
     - p38 — This page presents the Weighted Average Lease Expiry (WALE) by contract type, the Portfolio Contract Expiry Profile by Lettable Area and Rental Income
@@ -108,7 +109,6 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p53 ['000] — This page of the Keppel DC REIT sustainability report (FY 2025, March 2026) presents a table listing entities and assets within the reporting scope, i
     - p154 ['000] — The page presents Level 3 fair value tables detailing valuation techniques and significant unobservable inputs for investment properties in Asia Pacif
 - **also mentions:**
-    - p6 [million] — This page of the Keppel DC REIT annual report features a "Momentum" section highlighting record financial performance, including a Total Unitholder Re
     - p66 — This page presents the Qualitative Physical Risk Assessment Results for Keppel DC REIT in a table format, detailing five key physical risks (Extreme P
     - p132 ['000] — This page presents the audited Portfolio Statement for Notes Receivables and Trade and Other Receivables, detailing balances in SGD'000 for Group and 
     - p138 ['000] — This page presents the debt repayment schedule and terms for Group borrowings, detailing interest rates ranging from 1.51% to 4.78% per annum with mat

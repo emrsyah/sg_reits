@@ -120,6 +120,9 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 ## top_tenants
 - **MAIN (lead):**
     - p39 — This page presents the **Top-N tenants/customers table** and **trade/tenant mix** for SGX REIT's portfolio as at 31 December 2025, detailing the top 1
+    - p45 [million] — This page details the physical attributes and development plans for Berlin Campus, a freehold property in Lichtenberg district with a book value of €1
+    - p53 [million] — This page details the Concor Park office property in Aschheim-Dornach, Munich, featuring a **Statement of Portfolio (property valuations)** table show
+    - p57 [million] — This page presents property-specific data for Delta Nova IV and VI, featuring a Property Information table detailing completion dates, land tenure, pu
     - p61 — This page presents property-specific data for Parc Cugat Green, featuring a Property Information table detailing its 2009 completion date, €27.2m purc
     - p64 ['000] — This page presents the Portfolio Overview for Decathlon properties in Abbeville and Aurillac, featuring property information tables (completion dates,
     - p65 ['000] — This page details two retail properties (Belfort Bessoncourt and Bergerac) with tables showing property information, lease profiles including occupanc
@@ -130,6 +133,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p72 ['000] — This page presents property-specific details for two Decathlon retail locations (Istres and Lannion) via a Property Information table listing completi
     - p76 ['000] — This page presents the Decathlon Portfolio Overview featuring two properties (SENS and VERDUN) with tables detailing property information, lease profi
     - p80 ['000] — This page presents the audited Portfolio Statement for two B&M properties in Béthune and Blois, detailing property information, lease profiles, and fi
+    - p82 [million] — This page presents a property-level overview of two B&M retail assets located in Chateauroux (Saint-Maur) and Claye-Souilly, detailing their building 
     - p83 ['000] — This page details the property information, lease profiles, and valuation metrics for two retail assets located at Epinal (Golbey) and Forbach as of 3
     - p85 ['000] — This page presents a portfolio statement for two retail properties, B&M Martigues (St-Mitre-Les-Remparts) and B&M Nancy (Essey-lès-Nancy), detailing t
     - p179 ['000] — This page presents the **audited Portfolio Statement** for the SGX REIT as at 31 December 2025, detailing property valuations by geography (Germany, S
@@ -142,13 +146,10 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p40 [million] — This page presents the **Asset Valuation by Property** for SGX REIT's portfolio, detailing property-specific valuations in € million as of 31 December
     - p41 ['000] — This page presents the audited Portfolio Statement detailing Gross Rental Income by Property for 2024 and 2025, alongside a table of Portfolio Lease E
     - p43 — This page presents the audited Portfolio Statement as at 31 December 2025, reporting a book value/valuation of €470.3m, gross rental income of €17.8m 
-    - p45 [million] — This page details the physical attributes and development plans for Berlin Campus, a freehold property in Lichtenberg district with a book value of €1
     - p47 ['000] — This page details the asset profile of Bonn Campus, a single-tenant property with 100% occupancy as at 31 December 2025, featuring a table reporting i
     - p49 [million] — This page details a specific office asset located at Heinrich-Hertz Straße 3-7 in Darmstadt, presenting property valuation and lease profile data repo
     - p51 [million] — This page details the property profile, lease structure, and financial performance of the Münster Campus as at 31 December 2025, featuring a table pre
-    - p53 [million] — This page details the Concor Park office property in Aschheim-Dornach, Munich, featuring a **Statement of Portfolio (property valuations)** table show
     - p55 [million] — This page displays the property-level details for Parc Cugat Green and Delta Nova VI, including their purchase prices, gross rental income for 2025 (€
-    - p57 [million] — This page presents property-specific data for Delta Nova IV and VI, featuring a Property Information table detailing completion dates, land tenure, pu
     - p59 [million] — This page details the property profile and financial metrics for Sant Cugat Green, featuring a **Property Information** table with € million valuation
     - p63 — This page presents a portfolio summary table for the Decathlon Portfolio as of 31 December 2025, detailing €9.2m Gross Rental Income, €95,500 sqm Tota
     - p68 ['000] — This page presents a portfolio overview of two Decathlon properties in Cholet and Concarneau, France, featuring property information tables detailing 
@@ -159,7 +160,6 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p77 ['000] — This page presents property information and lease profiles for a Decathlon store in Vichy, including building completion details, land tenure, purchas
     - p79 [million] — This page presents a portfolio summary table for the B&M retail assets as of 31 December 2025, reporting €7.2m gross rental income, €61,756sqm total l
     - p81 ['000] — This page presents a portfolio statement for two retail properties (Bourg-en-Bresse and Brive-la-Gaillarde) featuring property information, lease prof
-    - p82 [million] — This page presents a property-level overview of two B&M retail assets located in Chateauroux (Saint-Maur) and Claye-Souilly, detailing their building 
     - p84 ['000] — This page presents the B&M Portfolio Overview with two property tables detailing METZ (Maizieres-Les-Metz) and MARSEILLE, including their respective P
     - p86 ['000] — This page presents the B&M Portfolio Overview with two distinct property tables detailing asset information and lease profiles for NOYELLES-GODAULT an
     - p87 ['000] — This page presents audited Portfolio Statements for two b&m retail properties in Rouen and Saint-Quentin / Fayet, detailing their property information
@@ -183,6 +183,7 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p10 — This page presents €50.4m gross revenue for the reporting period and details strategic portfolio diversification into retail (France) and hospitality 
     - p39 — This page presents the **Top-N tenants/customers table** and **trade/tenant mix** for SGX REIT's portfolio as at 31 December 2025, detailing the top 1
     - p41 ['000] — This page presents the audited Portfolio Statement detailing Gross Rental Income by Property for 2024 and 2025, alongside a table of Portfolio Lease E
+    - p55 [million] — This page displays the property-level details for Parc Cugat Green and Delta Nova VI, including their purchase prices, gross rental income for 2025 (€
     - p80 ['000] — This page presents the audited Portfolio Statement for two B&M properties in Béthune and Blois, detailing property information, lease profiles, and fi
     - p106 — This page from the SGX REIT annual report contains a combined bar and line chart and a table detailing portfolio energy consumption and intensity by c
     - p171 — This page contains the Independent Auditor's Report focusing on the Key Audit Matter of Fair Valuation and Disclosure of Fair Value for Investment Pro
@@ -191,7 +192,6 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p206 ['000] — This page of the SGX REIT annual report contains a table titled "Financial Derivatives" listing Group and Trust fair values for interest rate caps, in
     - p212 ['000] — This page presents foreign currency risk exposure tables for the Group and Trust denominated in Singapore dollars with values reported in EUR'000, alo
 - **also mentions:**
-    - p55 [million] — This page displays the property-level details for Parc Cugat Green and Delta Nova VI, including their purchase prices, gross rental income for 2025 (€
     - p178 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting Group net cash from operating activities of
     - p187 ['000] — This page details the Group's and Trust's trade receivables, other receivables, and loans to subsidiaries for the year ended 31 December 2025, present
     - p193 ['000] — This page presents the **Segment results** table detailing SGX REIT's operating performance by geographic region (Germany, Spain, France) and total fo

@@ -116,22 +116,9 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 ## top_tenants
 - **MAIN (lead):**
     - p33 ['000] — This page presents the Portfolio Lease Expiry Profile (%) for Retail, Office, and Hospitality sectors from 2026 to 2031 and beyond, alongside a Top-N 
-    - p40 ['000] — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations of S\$1,141.0 million (2024) an
-    - p53 ['000] — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$79.8 million gross revenue as 
-    - p54 ['000] — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio valuation of S\$1,263.0 million
-    - p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuations and gross revenue data for 
-    - p60 ['000] — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting valuation in SGD millions and
-- **also mentions:**
-    - p4 — This page of the SGX REIT annual report presents 2025 financial highlights, including a Distribution per Unit of 11.58¢ and Distributable Income of S\
-    - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
-    - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
-    - p26 [million] — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Property Income (NPI) by segment
-    - p28 [million] — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 10% Secured Bank Loans), and i
-    - p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average lease expiry (WALE) metrics for
-    - p34 [million] — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categories including Banking (18.7%) an
     - p38 [million] — This page details CICT's office portfolio performance in FY 2025, highlighting strong demand that drove 0.8 million sq ft of new and renewed leases ac
     - p39 [million] — This page details the property specifics and financial performance of Bedok Mall as at 31 December 2025, reporting gross revenue in S$ million alongsi
-    - p41 ['000] — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of S$413 million, 60 tenants with
+    - p40 ['000] — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations of S\$1,141.0 million (2024) an
     - p42 [million] — This page details the IMM Building, Singapore's largest outlet mall, presenting property valuations and gross revenue for 2024 and 2025 (in S$ million
     - p44 [million] — This page presents an audited Portfolio Statement for Junction 8, a shopping mall located at 9 Bishan Place, with financial data reported in S$ millio
     - p45 [million] — This page presents the audited Portfolio Statement for Lot One Shoppers' Mall as of 31 December, reporting a valuation of S$564.0 million (2024) and S
@@ -140,13 +127,26 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p48 [million] — This page details the Bugis+ shopping mall, a property with an as-of-December 2024 valuation of S$359.0 million and gross revenue of S$63.4 million fo
     - p49 [million] — This page details the Bukit Panjang Plaza asset, reporting a valuation of S$389.0 million and gross revenue of S$65.7 million as at 31 December 2025 (
     - p50 [million] — This page presents the audited Portfolio Statement for Asia Square Tower 2 as of 31 December 2025, reporting a valuation of S$2,252.0 million, gross r
-    - p51 [million] — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,718.0 million, gross revenue o
     - p52 [million] — This page presents the audited Portfolio Statement for CapitaSpring as of 31 December 2025, reporting a valuation of S$1,900.0 million and gross reven
+    - p53 ['000] — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$79.8 million gross revenue as 
+    - p54 ['000] — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio valuation of S\$1,263.0 million
     - p55 [million] — This page details the Six Battery Road property, reporting a valuation of S$1,623.0 million and gross revenue of S$71.1 million as at 31 December 2025
+    - p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuations and gross revenue data for 
     - p59 [million] — This page presents the audited Portfolio Statement for the 100 Arthur Street building as at 31 December 2024 and 2025, reporting valuations in SGD mil
+    - p60 ['000] — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting valuation in SGD millions and
     - p61 [million] — This page presents the audited Portfolio Statement for Plaza Singapura as of 31 December, reporting a valuation of S$1,443.0 million (2025) and S$1,44
     - p62 [million] — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ million alongside trade mix, tena
     - p63 [million] — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporting figures in S$ million with 
+- **also mentions:**
+    - p4 — This page of the SGX REIT annual report presents 2025 financial highlights, including a Distribution per Unit of 11.58¢ and Distributable Income of S\
+    - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
+    - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
+    - p26 [million] — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Property Income (NPI) by segment
+    - p28 [million] — This page details CICT Group's financial derivatives, funding sources (52% Unsecured Bank Loans, 38% Medium Term Notes, 10% Secured Bank Loans), and i
+    - p32 — This page presents an operations review of CICT's portfolio, detailing committed occupancy levels and weighted average lease expiry (WALE) metrics for
+    - p34 [million] — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categories including Banking (18.7%) an
+    - p41 ['000] — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of S$413 million, 60 tenants with
+    - p51 [million] — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,718.0 million, gross revenue o
     - p64 [million] — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80 tenants (70 as at 31 December
     - p97 — This page contains the table of contents for SGX REIT's Financial Statements, listing sections including the Statement of Total Return, Distribution S
     - p101 [million] — This page contains the Independent Auditor's Report highlighting the Key Audit Matter regarding the valuation of investment properties (referencing No
@@ -163,21 +163,12 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
 - **MAIN (lead):**
     - p9 — This page details the trust structure of CapitaLand Integrated Commercial Trust (CICT), identifying the Manager as CapitaLand Integrated Commercial Tr
     - p10 ['000] — This page features portraits and titles for Chairman Teo Swee Lian and CEO Tan Choon Siang, alongside a Chairman and CEO Message highlighting FY 2025 
-    - p40 ['000] — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations of S\$1,141.0 million (2024) an
-    - p41 ['000] — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of S$413 million, 60 tenants with
-    - p53 ['000] — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$79.8 million gross revenue as 
-    - p54 ['000] — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio valuation of S\$1,263.0 million
-    - p56 ['000] — This page details the Gallileo property, a 38-storey Grade A commercial building in Frankfurt's Banking District, reporting an audited portfolio valua
-    - p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuations and gross revenue data for 
-    - p58 ['000] — This page details the audited Portfolio Statement for 66 Goulburn Street, reporting property valuations in A$ and S$ (S$000), gross revenue of S$16.3 
-    - p60 ['000] — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting valuation in SGD millions and
-    - p141 ['000] — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values in SGD'000 where the Group he
-    - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
-- **also mentions:**
     - p26 [million] — This page presents financial highlights for SGX REIT, including a trade/tenant mix breakdown of Gross Revenue and Net Property Income (NPI) by segment
     - p34 [million] — This page presents the Diversified Tenant Business Trade Mix, detailing the percentage distribution across ten categories including Banking (18.7%) an
     - p38 [million] — This page details CICT's office portfolio performance in FY 2025, highlighting strong demand that drove 0.8 million sq ft of new and renewed leases ac
     - p39 [million] — This page details the property specifics and financial performance of Bedok Mall as at 31 December 2025, reporting gross revenue in S$ million alongsi
+    - p40 ['000] — This page presents property-specific data for Bugis Junction, including an audited portfolio statement with valuations of S\$1,141.0 million (2024) an
+    - p41 ['000] — This page presents an audited Portfolio Statement for CQ @ Clarke Quay as of 31 December 2025, reporting a valuation of S$413 million, 60 tenants with
     - p42 [million] — This page details the IMM Building, Singapore's largest outlet mall, presenting property valuations and gross revenue for 2024 and 2025 (in S$ million
     - p44 [million] — This page presents an audited Portfolio Statement for Junction 8, a shopping mall located at 9 Bishan Place, with financial data reported in S$ millio
     - p45 [million] — This page presents the audited Portfolio Statement for Lot One Shoppers' Mall as of 31 December, reporting a valuation of S$564.0 million (2024) and S
@@ -188,12 +179,21 @@ _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, no
     - p50 [million] — This page presents the audited Portfolio Statement for Asia Square Tower 2 as of 31 December 2025, reporting a valuation of S$2,252.0 million, gross r
     - p51 [million] — This page presents the audited portfolio statement for CapitaGreen as of 31 December 2025, reporting a valuation of S$1,718.0 million, gross revenue o
     - p52 [million] — This page presents the audited Portfolio Statement for CapitaSpring as of 31 December 2025, reporting a valuation of S$1,900.0 million and gross reven
+    - p53 ['000] — This page details the Capital Tower property, a 52-storey Grade A office building with $1,471.0 million valuation and S$79.8 million gross revenue as 
+    - p54 ['000] — This page details the CapitaSky Grade A property in Singapore's Tanjong Pagar district, reporting an audited portfolio valuation of S\$1,263.0 million
     - p55 [million] — This page details the Six Battery Road property, reporting a valuation of S$1,623.0 million and gross revenue of S$71.1 million as at 31 December 2025
+    - p56 ['000] — This page details the Gallileo property, a 38-storey Grade A commercial building in Frankfurt's Banking District, reporting an audited portfolio valua
+    - p57 — This page details the Main Airport Center (MAC) property in Frankfurt, presenting a Statement of Portfolio with valuations and gross revenue data for 
+    - p58 ['000] — This page details the audited Portfolio Statement for 66 Goulburn Street, reporting property valuations in A$ and S$ (S$000), gross revenue of S$16.3 
     - p59 [million] — This page presents the audited Portfolio Statement for the 100 Arthur Street building as at 31 December 2024 and 2025, reporting valuations in SGD mil
+    - p60 ['000] — This page presents a Statement of Portfolio (property valuations) for the Funan development as at 31 December, reporting valuation in SGD millions and
     - p61 [million] — This page presents the audited Portfolio Statement for Plaza Singapura as of 31 December, reporting a valuation of S$1,443.0 million (2025) and S$1,44
     - p62 [million] — This page presents property valuations and operational metrics for The Atrium@Orchard, reporting gross revenue in S$ million alongside trade mix, tena
     - p63 [million] — This page presents property valuations and gross revenue data for Raffles City Singapore as of 31 December 2025, reporting figures in S$ million with 
     - p64 [million] — This page details the 101-103 Miller Street and Greenwood Plaza property, reporting a total NLA of 498,500 sq ft with 80 tenants (70 as at 31 December
+    - p141 ['000] — This page details the Group's investments in joint ventures as of 31 December 2025 and 2024, reporting investment values in SGD'000 where the Group he
+    - p187 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents operating segment data (in SGD'000) and geographical information,
+- **also mentions:**
     - p121 ['000] — This page outlines the accounting policies for financial instruments, detailing the recognition, classification, and subsequent measurement of non-der
     - p148 ['000] — This page details the reclassification of assets and liabilities held for sale regarding the Bukit Panjang Plaza transaction, alongside a comprehensiv
     - p163 ['000] — This page details the Group's credit risk management regarding trade receivables, including credit limit policies, a table of impairment allowance mov
