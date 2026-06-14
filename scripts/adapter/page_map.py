@@ -46,36 +46,46 @@ SCALEDOWN_URL = "https://api.scaledown.xyz/summarization/abstractive"
 SCHEMA_TABLES = ["profile", "performance", "properties",
                  "top_tenants", "trade_mix", "financial"]
 
-# Two anchor tiers, matched against the ScaleDown SUMMARY. LEAD_ANCHORS = the
-# authoritative artifact (matched in the first sentence => the page's MAIN content).
-# MENTION_ANCHORS = broad recall (matched anywhere => a relevant mention). A page tags
-# 'lead' for a table if its first sentence hits LEAD_ANCHORS, else 'also' if the whole
-# summary hits MENTION_ANCHORS. (The SLM over-labels property cards as "Portfolio
-# Statement", so for properties the unit hint '000-vs-million is the real disambiguator.)
+# Two anchor tiers, matched ANYWHERE in the ScaleDown SUMMARY. LEAD_ANCHORS = a specific
+# named artifact/table (=> the page IS that table). MENTION_ANCHORS = generic terms
+# (=> a relevant mention). A page tags 'lead' for a table if any LEAD anchor hits, else
+# 'also' if any MENTION anchor hits. Anchors carry sub-sector synonyms (DC: contract
+# type/customers/client industry; hospitality: corporate clients). The SLM over-labels
+# property cards as "Portfolio Statement", so for properties the unit '000-vs-million
+# hint is the real authoritative-page disambiguator, not the tag.
 LEAD_ANCHORS = {
-    "profile":     [r"corporate information", r"trust structure"],
-    "performance": [r"financial highlights", r"five[\s-]year", r"key financial",
-                    r"distribution statement", r"lease expiry profile"],
-    "properties":  [r"portfolio statement", r"statement of portfolio"],
-    "top_tenants": [r"top[\s-]?\d*\s*(tenants|customers|clients|lessees|accounts?)",
-                    r"top[\s-]?n\s+tenants", r"largest tenants|major tenants"],
-    "trade_mix":   [r"trade mix", r"trade sector", r"trade categor"],
+    "profile":     [r"corporate (information|directory|profile)", r"trust structure",
+                    r"organisation(al)? structure", r"board of directors",
+                    r"\bthe manager\b|trustee[\s-]manager|the sponsor\b"],
+    "performance": [r"financial (highlights|review)", r"five[\s-]year", r"key financial",
+                    r"distribution statement", r"lease expiry profile",
+                    r"key (statistics|figures)|performance (at a glance|highlights)"],
+    "properties":  [r"portfolio statement", r"statement of portfolio",
+                    r"portfolio overview|portfolio (review|at a glance)"],
+    "top_tenants": [r"top[\s-]?(\d+|ten|n)\s*(tenants|customers|clients|lessees|"
+                    r"occupiers|accounts?)",
+                    r"(largest|major|key|principal)\s+(tenants|customers|clients)",
+                    r"(tenant|customer|client)\s+concentration"],
+    "trade_mix":   [r"trade mix", r"trade sector", r"trade categor", r"tenant mix",
+                    r"(by|breakdown by|income by)\s+(contract type|trade|sector|"
+                    r"industry|business|asset class|client|trade sector)",
+                    r"rental income (breakdown|by)", r"(business|client|sector) mix"],
     "financial":   [r"statement of total return", r"profit or loss",
                     r"comprehensive income", r"statement of cash flow",
-                    r"statement of financial position", r"distribution statement"],
+                    r"statement of financial position", r"distribution statement",
+                    r"gross revenue note|property (operating )?expense note"],
 }
 MENTION_ANCHORS = {
-    "profile":     LEAD_ANCHORS["profile"] + [r"\bmanager\b|\btrustee\b|\bsponsor\b|property manager"],
-    "performance": LEAD_ANCHORS["performance"] + [r"distribution per unit|\bdpu\b",
-                    r"net asset value|\bnav\b", r"lease expiry"],
-    "properties":  LEAD_ANCHORS["properties"] + [r"investment propert",
-                    r"property (valuation|overview|portfolio)", r"\boccupancy\b",
-                    r"land tenure|leasehold|freehold|\bgfa\b|\bnla\b"],
-    "top_tenants": LEAD_ANCHORS["top_tenants"],
-    "trade_mix":   LEAD_ANCHORS["trade_mix"] + [r"tenant.{0,12}mix"],
-    "financial":   LEAD_ANCHORS["financial"] + [r"gross revenue",
-                    r"property (operating )?expenses", r"finance costs",
-                    r"income tax|taxation", r"management fees"],
+    "profile":     [r"\bmanager\b|\btrustee\b|\bsponsor\b|property manager"],
+    "performance": [r"distribution per unit|\bdpu\b", r"net asset value|\bnav\b",
+                    r"aggregate leverage|cost of debt|interest coverage", r"lease expiry"],
+    "properties":  [r"investment propert", r"property (valuation|overview|portfolio)",
+                    r"\boccupancy\b", r"land tenure|leasehold|freehold|\bgfa\b|\bnla\b|\bgla\b"],
+    "top_tenants": [r"\btenant\b|\bcustomer\b|\bclient\b|\blessee\b",
+                    r"\bgri\b|gross rental income"],
+    "trade_mix":   [r"\btrade\b", r"by (income|gri|nla)", r"\bsegment\b", r"contract type"],
+    "financial":   [r"gross revenue", r"property (operating )?expenses", r"finance costs",
+                    r"income tax|taxation", r"management fees|net property income"],
 }
 
 UNIT_000 = re.compile(r"(sgd|s\$|eur|rmb|us\$|usd|jpy)?\s*['’]?000\b", re.I)
@@ -166,12 +176,18 @@ def tag_summary(summary):
     if not summary or "no schema-relevant data" in summary.lower():
         return {}
     full = summary.lower()
-    lead = lead_sentence(full)
+    unit = detect_unit(summary)
     tags = {}
     for t in SCHEMA_TABLES:
-        if any(re.search(p, lead) for p in LEAD_ANCHORS[t]):
-            tags[t] = "lead"
+        if any(re.search(p, full) for p in LEAD_ANCHORS[t]):
+            tags[t] = "lead"            # a specific named artifact => the page IS this table
         elif any(re.search(p, full) for p in MENTION_ANCHORS[t]):
+            tags[t] = "also"            # generic mention => candidate / supporting page
+    # top_tenants & trade_mix are PERCENTAGE tables, never in 'millions'. A million-unit
+    # page is a per-property marketing card, not the authoritative %-table => demote it
+    # from 'lead' so the portfolio-level table stands out.
+    for t in ("top_tenants", "trade_mix"):
+        if tags.get(t) == "lead" and unit == "million":
             tags[t] = "also"
     return tags
 
