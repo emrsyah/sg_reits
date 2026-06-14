@@ -31,7 +31,7 @@ faster, ~6× cheaper, reproducible.
 
 ```
 1. PARSE        markdown (for locating) + HTML (for deterministic tables)
-2. LOCATE       locate.py -> sub_sector + anchor pages
+2. LOCATE       locate.py (sub_sector + anchors) + page_map.py (schema -> ALL candidate pages)
 3. per SECTION: JUDGE feasibility -> PLAN -> RUN -> CROSS-CHECK -> (LLM pass -> MERGE)
                 or fall back to LLM-only for non-adapterable sections
 4. ASSEMBLE     write the 8 files to extracted/<SYMBOL>.SI_FY<YYYY>/
@@ -48,11 +48,28 @@ Use `locate.py` (step 2) FIRST to find the table pages, then HTML-parse just tho
 (Datalab is per-page paid). One HTML file per page-range is fine; name it for the section
 group (e.g. `portfolio.html`, `tenants.html`, `financial.html`).
 
-### Step 2 — Locate
+### Step 2 — Locate + page map
 ```bash
 python .claude/skills/reit-extract/scripts/locate.py parsed_reports_datalab/<stem>/full.md
+python scripts/adapter/page_map.py <stem>          # schema-aware page index (ScaleDown)
 ```
-Note the `sub_sector` guess (picks the playbook) and the anchor pages for each section.
+`locate.py` gives the `sub_sector` guess (picks the playbook) and quick regex anchors.
+`page_map.py` builds a **semantic page index** — `extracted_adapter/<stem>/schema_pages.json`
+(table -> {lead, also} candidate pages) + `page_map.md` (each candidate with a one-line
+summary + reporting unit). It needs `SCALEDOWN_API_KEY` in `.env`; re-use an existing map
+with `--retag` (no API). This is the **completeness safety net**: before extracting a
+section, open `schema_pages.json` and pull EVERY candidate page for it — don't stop at the
+first table locate.py found (that's how income_components lost its below-NPI lines).
+
+How to read it (it is ROUTING, not data — never extract numbers from a summary):
+- `lead` = a page that names that table's authoritative artifact; `also` = a relevant mention.
+- The tagger is recall-oriented and coarse: per-property **cards** and sub-sector nuance
+  (e.g. hospitality has no trade_mix; DC "by contract type" *is* trade_mix) are NOT resolved
+  by it. YOU pick the authoritative page using the **unit hint** ('000 audited statement vs
+  per-property cards in millions) and the **sub-sector playbook**, then read that page.
+- Cross-check at the end: every schema table you extracted should correspond to its
+  candidate page(s); a table with candidates but no extracted rows is a missed section.
+- Pages are `md_page` = physical PDF page (same numbering as `parse_html --page-range`).
 
 ### Step 3 — Per section: judge → plan → run → cross-check → LLM → merge
 
@@ -139,6 +156,7 @@ python scripts/adapter/track.py            # matrix across all ARs
 ```
 parsed_reports_datalab/<stem>/full.md                  markdown (locating)
 extracted_adapter/<stem>/                              per-AR working dir
+  page_map.jsonl | schema_pages.json | page_map.md     schema-aware page index (step 2)
   portfolio.html | tenants.html | financial.html       HTML table pages (per section group)
   plan_<section>.json                                  the on-the-fly plan (LLM-authored)
   <section>_deterministic.json                         deterministic output

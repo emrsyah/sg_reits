@@ -225,11 +225,13 @@ sponsor or sub-sector. The example plans in .claude/skills/reit-extract-hybrid/p
 are illustrations of the plan format only; if you borrow one, re-verify table_contains and
 every column index on THIS report before trusting it.
 
-Do the per-AR pipeline: parse (md + HTML for table pages) -> locate -> per section
-{judge feasibility -> plan -> run_adapter -> cross-check -> batched LLM pass -> merge},
-llm_only fallback for scattered sections -> assemble the 8 files in
+Do the per-AR pipeline: parse (md + HTML for table pages) -> locate + page_map.py
+(read schema_pages.json so you pull EVERY candidate page per section, not just the first
+table) -> per section {judge feasibility -> plan -> run_adapter -> cross-check -> batched
+LLM pass -> merge}, llm_only fallback for scattered sections -> assemble the 8 files in
 extracted/<SYMBOL>.SI_FY<YYYY>/ -> run BOTH gates -> keep extracted_adapter/<stem>/status.json
-current.
+current. For `financial`, capture the WHOLE Statement of Total Return (all below-NPI lines),
+not just the revenue/opex notes.
 
 Return: per-section method + status, rows per section, both gate verdicts, reconciliation
 lines, and any new layout shape worth recording in the table-shape taxonomy (§2).
@@ -245,6 +247,7 @@ reliable path is per-report authoring + the gates, not plan reuse.
 
 | Script | Role |
 |---|---|
+| `page_map.py` | schema-aware page index (ScaleDown summary per page → `schema_pages.json` table→pages + `page_map.md`); `--retag` rebuilds tags from existing summaries with no API. Completeness safety net for step 2 |
 | `parse_html.py` | Datalab convert → HTML (or json) for the table pages (preserves `<sup>`, page block-ids) |
 | `run_adapter.py` | deterministic engine: plan + HTML → records + llm_todo (the on-the-fly extractor) |
 | `merge_llm.py` | merge the batched LLM pass back; anomaly check |
