@@ -10,15 +10,17 @@
 # Then: sudo cp Caddyfile /etc/caddy/Caddyfile && sudo systemctl reload caddy
 
 {
-	email you@example.com
+	email muhammademir48@gmail.com
 }
 
-review.example.com {
+reits.emirsyah.dev {
 	encode zstd gzip
 
 	basic_auth {
 		# username   bcrypt-hash-from-caddy-hash-password
-		alice $2a$14$REPLACE_WITH_HASH
+		user $2a$14$fusknHWbh80VaV1IWkx0AelD7yX3QwtNxGl8uqmD6PUHbr6jorYhy
+		eve $2a$14$3cDqa2CcS1ONM5HxW6oNFOk9SHiUz89VYnzl/479eEL6ua2ctXVYC
+		emir $2a$14$lMwL7DUH5m5Ckc.VmmRGWuDv09u9pPQ.9PfIpqZgtTIzLd.FW3GQm
 		# bob   $2a$14$ANOTHER_HASH
 	}
 
