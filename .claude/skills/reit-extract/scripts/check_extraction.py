@@ -214,12 +214,17 @@ def main() -> None:
     # 4b'. revenue tie-out: Σ(income_components statement=revenue) must equal
     # performance.gross_revenue. A mismatch means a below-NPI income line (finance/
     # interest/other income) was mis-bucketed as `revenue` — the recurring statement-
-    # mis-classification bug found by the forensic auditor on HMN, AW9U and BTOU.
+    # mis-classification bug found by forensic audits in 8 of the first 10 reports
+    # (HMN, AW9U, BTOU, AU8U, C38U, AJBU, J69U, M44U).
+    # Tolerance is a small ABSOLUTE figure (display rounding between two audited figures
+    # is tens of $k at most). An earlier 0.5%-relative tolerance was too loose and MISSED
+    # J69U (gap 624k) and M44U (gap 2,648k) — a real mis-bucket is a whole line item, so
+    # any gap above rounding noise must FAIL and be investigated against the source.
     if fin and perf:
         gr = perf.get("gross_revenue")
         rev_lines = [r for r in fin if r.get("statement") == "revenue"]
         rev_sum = sum(r.get("amount") or 0 for r in rev_lines)
-        if gr and rev_sum and abs(rev_sum - gr) > max(1000, 0.005 * gr):
+        if gr and rev_sum and abs(rev_sum - gr) > 50_000:
             extra = rev_sum - gr
             suspects = [r.get("component") for r in rev_lines
                         if any(k in str(r.get("component", "")).lower()

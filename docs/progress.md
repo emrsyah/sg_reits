@@ -17,40 +17,41 @@ Last updated: 2026-06-15.
 | # | Symbol | Trust | Sub-sector | Parsed | Extracted | Guardchecked | Audited |
 |---|--------|-------|-----------|--------|-----------|--------------|---------|
 | 06 | HMN.SI  | CapitaLand Ascott Trust          | Hospitality  | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/5w) | ✅ MINOR ISSUES — `reviews/HMN_verification.md` (5 fixes applied, commit 86118e5) |
-| 07 | AU8U.SI | CapitaLand China Trust           | Diversified  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/2w/2i) | ⬜ not yet |
-| 09 | C38U.SI | CapitaLand Integrated Commercial | Diversified  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/2i) | ⬜ not yet |
-| 12 | DHLU.SI | Daiwa House Logistics Trust      | Industrial   | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/2w/2i) | ⬜ deterministic scan only |
-| 17 | AW9U.SI | First REIT                       | Healthcare   | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/1i) | ✅ MINOR ISSUES — `reviews/AW9U_verification.md` (4 disc / 2 omit; fixes pending) |
-| 18 | J69U.SI | Frasers Centrepoint Trust        | Retail       | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/0w/1i) | ⬜ not yet |
-| 20 | UD1U.SI | IREIT Global                     | Diversified  | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/1w/2i) | ⬜ deterministic scan only |
-| 21 | AJBU.SI | Keppel DC REIT                   | Data Centre  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/1i) | ⬜ partial manual notes only |
-| 26 | BTOU.SI | Manulife US REIT                 | Office       | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/2w)    | ✅ MINOR ISSUES — `reviews/BTOU_verification.md` (4 disc / 2 omit; fixes pending) |
-| 28 | M44U.SI | Mapletree Logistics Trust        | Industrial   | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/0w/3i) | ⬜ not yet |
+| 07 | AU8U.SI | CapitaLand China Trust           | Diversified  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/2w/2i) | ✅ MINOR ISSUES — `reviews/AU8U_verification.md` (0 value errors; 5 provenance/label fixes pending) |
+| 09 | C38U.SI | CapitaLand Integrated Commercial | Diversified  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/2i) | ✅ MINOR ISSUES — `reviews/C38U_verification.md` (CapitaSpring GR basis + 6 fixes pending) |
+| 12 | DHLU.SI | Daiwa House Logistics Trust      | Industrial   | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/2w/2i) | ✅ MINOR ISSUES — `reviews/DHLU_verification.md` (distribution_record + 4 fixes pending) |
+| 17 | AW9U.SI | First REIT                       | Healthcare   | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/1i) | ✅ MINOR ISSUES — `reviews/AW9U_verification.md` (4 fixes applied, commit cd8f944) |
+| 18 | J69U.SI | Frasers Centrepoint Trust        | Retail       | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/0w/1i) | ✅ MINOR ISSUES — `reviews/J69U_verification.md` (sponsor OK; finance_income FIXED + 6 pending) |
+| 20 | UD1U.SI | IREIT Global                     | Diversified  | ✅ Datalab | ✅ A/B promoted | ✅ PASS (0f/1w/2i) | ✅ MINOR ISSUES — `reviews/UD1U_verification.md` (add Sofidy PM + 3 fixes pending) |
+| 21 | AJBU.SI | Keppel DC REIT                   | Data Centre  | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/1w/1i) | ✅ MINOR ISSUES — `reviews/AJBU_verification.md` (sponsor=Keppel OK; cashflow-hedge + 5 pending) |
+| 26 | BTOU.SI | Manulife US REIT                 | Office       | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/2w)    | ✅ MINOR ISSUES — `reviews/BTOU_verification.md` (fixes applied, commit cd8f944) |
+| 28 | M44U.SI | Mapletree Logistics Trust        | Industrial   | ✅ Datalab | ✅ hybrid       | ✅ PASS (0f/0w/3i) | ✅ MINOR ISSUES — `reviews/M44U_verification.md` (sponsor OK; interest_income FIXED; +txn table & 4 pending) |
 
 Legend: ✅ done · 🔄 running · ⬜ not done. Gate counts = `fail/warn/info` from `check_extraction.py`.
 
 ## Notes
 
-- **All 10 pass both gates with 0 failures** (verified 2026-06-15). Warnings are mostly known
-  narrow-disclosure / scope items, not errors. Gates prove *structure & reconciliation*, NOT
-  *correctness* — only the forensic audit does that.
-- **Audit is paid LLM spend the user gates** → run on a sample / high-risk reports (stapled,
-  multi-currency, operator/master-lease), not blanket. Currently auditing the two highest-risk
-  un-audited reports: **BTOU** (USD, distributions possibly halted, held-for-sale traps) and
-  **AW9U** (healthcare, master-lease, IDR multi-currency).
-- **The income mis-bucketing bug is systemic: found in 5 of 10 reports.** The forensic audits
-  caught it in HMN, AW9U, BTOU; the new revenue-tie-out gate check then caught it in **AU8U**
-  (finance_income + fx_gain_realised) and **C38U** (interest_and_other_income + investment_income)
-  and re-confirmed **AJBU** (finance_income). All 5 fixed by reclassifying the below-NPI income
-  line(s) `revenue`→`adjustment`. **The AU8U/C38U/AJBU reclassifications were initially done by
-  arithmetic (which subset sums to gross_revenue), then SOURCE-VERIFIED** (2026-06-15) by reading
-  each audited Statement of Total Return + Gross Revenue note: AU8U p95; AJBU p103/Note 20; C38U
-  p106/Notes 21,23,24. Every moved line (finance/interest/investment/fx income) confirmed sitting
-  below NPI and excluded from the audited Gross Revenue note. Verdict: all correct. Lesson:
-  arithmetic that closes a tie-out is a *signal*, not a fix — confirm against the report.
-  **AU8U/C38U/AJBU still need FULL forensic audits** (only the income statement was verified;
-  other bug classes may remain). Open minor items found en route: C38U `source_page` 113→159 on
-  the two below-NPI lines; AJBU `cashflow_hedge_reclassification` is an OCI line mis-scoped into P&L.
+- **All 10 forensically audited** (2026-06-15) — every one graded **MINOR ISSUES**: hard numbers
+  solid, no fabricated values. All 10 pass both gates with 0 failures. Gates prove *structure &
+  reconciliation*; only the forensic audit proves *correctness*.
+- **The income mis-bucketing bug is systemic: found in 8 of 10 reports** (all except DHLU, UD1U) —
+  a below-NPI income line (finance/interest/investment/fx) tagged `statement="revenue"`. Found in
+  HMN, AW9U, BTOU (audit) → AU8U, C38U, AJBU (gate) → **J69U (finance_income 624k), M44U
+  (interest_income 2,648k)** (full audits). **All 8 fixed** (`revenue`→`adjustment`), source-cited.
+  The AU8U/C38U/AJBU fixes were additionally SOURCE-VERIFIED (AU8U p95; AJBU p103/Note 20; C38U
+  p106/Notes 21,23,24) after first being done by arithmetic — lesson: arithmetic that closes a
+  tie-out is a *signal*, not a fix; confirm against the report.
+- **Gate-tolerance lesson (2026-06-15):** the revenue-tie-out check first used a 0.5% relative
+  tolerance and MISSED J69U/M44U (their gaps were under 0.5% of gross_revenue). A real mis-bucket
+  is a whole line item, and gross_revenue vs income_components are both audited figures that should
+  tie near-exactly — so the tolerance is now a flat **50k absolute**. Re-verified: catches J69U/M44U,
+  all 10 still pass post-fix.
+- **Fixes APPLIED so far:** HMN (5), AW9U (4), BTOU (4), AU8U/C38U/AJBU (income reclass),
+  J69U + M44U (income reclass). **Remaining audit fixes are PENDING user review** — mostly
+  provenance (`source_page`), null-reason rewordings, missing `_notes.inferred[]` flags, a few
+  value items (C38U CapitaSpring gross_revenue basis, DHLU distribution_record, M44U
+  property_transactions table) and judgment calls (portfolio_value basis). See each
+  `reviews/<SYM>_verification.md` for the per-report fix list.
 - **HMN audit found 4 discrepancies + 3 omissions** despite passing all gates — the canonical
   evidence that gates ≠ correctness (sponsor mislabel, income mis-bucketing, portfolio_value
   contradiction). All fixed. See `reviews/HMN_verification.md`.
