@@ -164,6 +164,17 @@ def api_save(dirname):
     rv = load_review(dirname)
     if "page_offset" in body:
         rv["page_offset"] = int(body["page_offset"])
+    if "section" in body and "section_note" in body:
+        # A note that applies to a whole section (range of records), kept separate
+        # from per-item notes. Stored only in the review file.
+        sn = rv.setdefault("section_notes", {})
+        val = body["section_note"]
+        if val:
+            sn[body["section"]] = val
+        else:
+            sn.pop(body["section"], None)
+        if not sn:
+            rv.pop("section_notes", None)
     if "item_id" in body:
         item = rv["items"].setdefault(body["item_id"], {})
         if "verdict" in body:
@@ -174,6 +185,18 @@ def api_save(dirname):
             item["note"] = body["note"]
             if not body["note"]:
                 item.pop("note", None)
+        if "field" in body:
+            # Inline suggested correction. Stored alongside the verdict in the
+            # review file ONLY — the source extracted/ JSON is never modified.
+            edits = item.setdefault("edits", {})
+            fld = body["field"]
+            val = body.get("value")
+            if val is None or val == "":
+                edits.pop(fld, None)
+            else:
+                edits[fld] = val
+            if not edits:
+                item.pop("edits", None)
         item["updated"] = datetime.datetime.now().isoformat(timespec="seconds")
         if not item:                                   # cleaned out -> drop
             rv["items"].pop(body["item_id"], None)

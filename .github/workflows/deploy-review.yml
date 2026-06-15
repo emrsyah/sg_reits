@@ -1,0 +1,51 @@
+name: Deploy review cockpit to VPS
+
+# Deploys the proofreading cockpit to your VPS over SSH.
+# Only the CODE is deployed (git pull) — the data (annual_reports/, extracted/,
+# reviews/) lives on the VPS and is never touched by this workflow.
+#
+# Required repo secrets (Settings → Secrets and variables → Actions):
+#   VPS_HOST      server IP or hostname
+#   VPS_USER      ssh user (e.g. deploy)
+#   VPS_SSH_KEY   private key whose public half is in the user's authorized_keys
+#   VPS_APP_DIR   absolute path to the repo checkout on the VPS (e.g. /opt/s_reits)
+#   VPS_PORT      ssh port (optional; defaults to 22)
+#
+# Assumes a systemd service named `reit-review` runs the app — see
+# scripts/review/README.md → "Deploy to a VPS" for the unit file and one-time setup.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/review/**'
+      - '.github/workflows/deploy-review.yml'
+  workflow_dispatch:        # lets you trigger a deploy manually from the Actions tab
+
+concurrency:
+  group: deploy-review      # never run two deploys at once
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy over SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_PORT || '22' }}
+          script: |
+            set -euo pipefail
+            cd "${{ secrets.VPS_APP_DIR }}"
+            echo "Pulling latest code…"
+            git fetch --all
+            git reset --hard origin/main
+            echo "Installing deps…"
+            python3 -m venv .venv || true
+            .venv/bin/pip install --quiet --upgrade flask waitress
+            echo "Restarting service…"
+            sudo systemctl restart reit-review
+            sudo systemctl --no-pager --lines=5 status reit-review

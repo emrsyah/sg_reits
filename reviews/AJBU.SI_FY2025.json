@@ -15,34 +15,52 @@
     },
     "properties:0": {
       "verdict": "correct",
-      "updated": "2026-06-15T08:52:03"
+      "updated": "2026-06-15T09:20:00",
+      "note": "gla is not extracted (gross floor area)"
     },
     "properties:1": {
       "verdict": "correct",
-      "updated": "2026-06-15T08:53:39"
+      "updated": "2026-06-15T09:20:05",
+      "note": "gla is not extracted (gross floor area)"
     },
     "properties:2": {
-      "note": "nla should be 90% according to the footnote, but this is also align with the ownership interest so we can calculate from that",
-      "updated": "2026-06-15T08:57:03",
+      "note": "nla should be 90% according to the footnote, but this is also align with the ownership interest so we can calculate from that; gla is not extracted (gross floor area)",
+      "updated": "2026-06-15T09:20:07",
       "verdict": "unsure"
     },
     "properties:3": {
-      "note": "nla at 99%",
-      "updated": "2026-06-15T09:02:10",
+      "note": "nla at 99%; gla is not extracted (gross floor area)",
+      "updated": "2026-06-15T09:20:17",
       "verdict": "correct"
     },
     "properties:4": {
       "verdict": "correct",
-      "updated": "2026-06-15T09:03:05"
+      "updated": "2026-06-15T09:20:18",
+      "note": "gla is not extracted (gross floor area)"
     },
     "properties:5": {
       "verdict": "correct",
-      "updated": "2026-06-15T09:04:53"
+      "updated": "2026-06-15T09:20:20",
+      "note": "gla is not extracted (gross floor area)"
     },
     "properties:6": {
       "verdict": "correct",
-      "updated": "2026-06-15T09:05:53"
+      "updated": "2026-06-15T09:20:21",
+      "note": "gla is not extracted (gross floor area)"
+    },
+    "properties:7": {
+      "verdict": "correct",
+      "updated": "2026-06-15T09:20:24",
+      "note": "gla is not extracted (gross floor area)"
+    },
+    "properties:8": {
+      "note": "gla is not extracted (gross floor area)",
+      "updated": "2026-06-15T09:20:45",
+      "verdict": "correct"
     }
   },
-  "updated": "2026-06-15T09:05:53"
+  "updated": "2026-06-15T09:37:24",
+  "section_notes": {
+    "properties": "gla is not extracted (gross floor area)"
+  }
 }

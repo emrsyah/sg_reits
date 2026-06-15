@@ -197,8 +197,9 @@ python scripts/adapter/track.py               # progress across all ARs
 ### Proofreading cockpit (manual review)
 
 A Flask tool for human verification: the annual-report **PDF on the left**, the **extracted
-records on the right**; mark each record ✓ correct / ✗ false / ? unsure, saved to
-`reviews/<stem>.json`.
+records on the right**; mark each record ✓ correct / ✗ false / ? unsure, add notes, and
+type per-field **suggested corrections** — all saved to `reviews/<stem>.json`. Suggestions
+are recorded alongside the verdict and never modify the canonical `extracted/` JSON.
 
 ```powershell
 pip install flask                  # only dependency beyond the parse/extract stack

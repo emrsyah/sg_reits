@@ -35,6 +35,13 @@
   .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
        color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
        z-index:2;border-bottom:1px solid var(--line)}
+  .secnote{margin:0 0 8px}
+  .snote{width:100%;background:var(--panel2);border:1px dashed var(--line);color:var(--txt);
+         border-radius:6px;padding:5px 8px;font-size:12px;resize:vertical;min-height:26px;font-family:inherit}
+  .snote:focus{outline:none;border-color:var(--accent)}
+  .snote.has{border-style:solid;border-color:rgba(91,157,255,.5)}
+  .snsaved{font-size:11px;color:var(--dim);height:13px;display:block}
+  .snsaved.show{color:var(--ok)}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:10px 11px;margin:9px 0}
   .card.v-correct{border-left:3px solid var(--ok)}
   .card.v-false{border-left:3px solid var(--bad)}
@@ -45,9 +52,21 @@
   .pagebtn{margin-left:auto;background:var(--accent);color:#08101f;border:0;border-radius:6px;
            padding:4px 9px;font-weight:700;cursor:pointer;font-size:12px;white-space:nowrap}
   .pagebtn:disabled{background:var(--panel2);color:var(--dim);cursor:default}
-  .fields{display:grid;grid-template-columns:auto 1fr;gap:1px 12px;font-size:12px;
+  .fields{display:grid;grid-template-columns:auto 1fr 1fr;gap:1px 12px;font-size:12px;
           background:var(--line);border-radius:6px;overflow:hidden}
   .fields>div{background:var(--panel2);padding:3px 8px}
+  .fhdr{background:var(--panel)!important;color:var(--dim);font-size:9px;font-weight:700;
+        text-transform:uppercase;letter-spacing:.06em}
+  .fe{padding:1px 4px!important;display:flex;align-items:center}
+  .editin{width:100%;background:transparent;border:1px solid transparent;border-radius:4px;
+          color:var(--accent);font-family:ui-monospace,SFMono-Regular,Consolas,monospace;
+          font-size:12px;padding:2px 5px}
+  .editin::placeholder{color:#4a5160}
+  .editin:hover{border-color:var(--line)}
+  .editin:focus{outline:none;border-color:var(--accent);background:var(--bg)}
+  .editin.has{color:var(--maybe);font-weight:600;background:rgba(244,183,64,.10);border-color:rgba(244,183,64,.4)}
+  .editbadge{font-size:10px;background:rgba(244,183,64,.18);color:var(--maybe);
+        border:1px solid var(--maybe);border-radius:5px;padding:1px 6px;font-weight:700}
   .fk{color:var(--dim);white-space:nowrap}
   .fv{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;word-break:break-word}
   .fv.null{color:#5a6172;font-style:italic}
@@ -55,7 +74,7 @@
   .fv.inferred{color:var(--maybe)}
   .infb{font-size:9px;background:rgba(244,183,64,.18);color:var(--maybe);border:1px solid var(--maybe);
         border-radius:4px;padding:0 4px;margin-left:5px;vertical-align:middle;cursor:help}
-  .frow.sp .fk,.frow.sp .fv{background:#243044}
+  .frow.sp .fk,.frow.sp .fv,.frow.sp .fe{background:#243044}
   .actions{display:flex;gap:6px;align-items:center;margin-top:9px}
   .vbtn{flex:1;border:1px solid var(--line);background:var(--panel2);color:var(--dim);
         border-radius:6px;padding:6px;cursor:pointer;font-weight:600;font-size:12px}
@@ -188,33 +207,62 @@ function render(notes){
   for(const sec of order){
     const recs=(bySection[sec]||[]).filter(r=>passesFilter(r.id));
     if(!recs.length) continue;
+    const sn=(REVIEW.section_notes||{})[sec]||'';
     html+=`<div class="sec">${sec} · ${recs.length}</div>`;
+    html+=`<div class="secnote"><textarea class="snote ${sn?'has':''}" data-sec="${sec}" `
+        + `placeholder="section note — applies to all ${sec} records…">${escapeHtml(sn)}</textarea>`
+        + `<span class="snsaved"></span></div>`;
     for(const r of recs) html+=cardHtml(r);
   }
   if(!html || html.indexOf('class="card"')<0) html+=`<p class="hint">No records match this filter.</p>`;
   right.innerHTML=html;
   right.querySelectorAll('.card').forEach(bind);
+  right.querySelectorAll('.snote').forEach(bindSectionNote);
   updateProgress();
+}
+
+function bindSectionNote(ta){
+  const sec=ta.dataset.sec;
+  const s=ta.parentElement.querySelector('.snsaved');
+  let t;
+  ta.oninput=()=>{
+    clearTimeout(t);
+    s.textContent='…'; s.classList.remove('show');
+    t=setTimeout(async()=>{
+      await post({section:sec, section_note:ta.value});
+      REVIEW.section_notes=REVIEW.section_notes||{};
+      if(ta.value) REVIEW.section_notes[sec]=ta.value; else delete REVIEW.section_notes[sec];
+      ta.classList.toggle('has', !!ta.value);
+      s.textContent='✓ saved'; s.classList.add('show');
+      setTimeout(()=>{s.textContent='';s.classList.remove('show');},1200);
+    },600);
+  };
 }
 
 function cardHtml(r){
   const it=REVIEW.items[r.id]||{};
   const v=it.verdict||'';
-  let frows='';
+  const edits=it.edits||{};
+  const nEdits=Object.keys(edits).length;
+  let frows=`<div class="fhdr fk">field</div><div class="fhdr">extracted</div><div class="fhdr">suggested correction</div>`;
   for(const [k,val] of Object.entries(r.fields)){
     const [disp,cls]=fmtVal(val);
     const sp = k==='source_page';
     const inf = INFERRED[r.section+'.'+k];
     const infBadge = inf? ` <span class="infb" title="${escapeHtml(inf)}">inferred</span>`:'';
+    const sugg = (edits[k]!=null)? String(edits[k]) : '';
     frows+=`<div class="frow ${sp?'sp':''}" style="display:contents">`
          +`<div class="fk">${escapeHtml(k)}</div>`
-         +`<div class="fv ${cls} ${inf?'inferred':''}">${escapeHtml(disp)}${infBadge}</div></div>`;
+         +`<div class="fv ${cls} ${inf?'inferred':''}">${escapeHtml(disp)}${infBadge}</div>`
+         +`<div class="fe"><input class="editin ${sugg!==''?'has':''}" data-field="${escapeHtml(k)}" `
+         +`value="${escapeHtml(sugg)}" placeholder="—" title="suggest a corrected value (does not change the source)"></div></div>`;
   }
   const pg=r.source_page;
   return `<div class="card ${v?('v-'+v):''}" data-id="${r.id}" data-page="${pg==null?'':pg}">
     <div class="chead">
       <span class="ctitle">${escapeHtml(r.title)}</span>
       <span class="cidx">${r.id}</span>
+      <span class="editbadge" ${nEdits?'':'hidden'}>✎ <b>${nEdits}</b></span>
       <button class="pagebtn" ${pg==null?'disabled':''}>${pg==null?'no page':'📄 p.'+pg}</button>
     </div>
     <div class="fields">${frows}</div>
@@ -253,6 +301,32 @@ function bind(card){
       flash(card,'saved');
     },600);
   };
+  card.querySelectorAll('.editin').forEach(inp=>{
+    let et;
+    inp.oninput=()=>{
+      clearTimeout(et);
+      flash(card,'…',true);
+      et=setTimeout(async()=>{
+        const field=inp.dataset.field, value=inp.value;
+        await post({item_id:id, field, value});               // saved to reviews/<dir>.json only
+        const item=REVIEW.items[id]=REVIEW.items[id]||{};
+        const edits=item.edits=item.edits||{};
+        if(value!=='') edits[field]=value; else delete edits[field];
+        if(!Object.keys(edits).length) delete item.edits;
+        inp.classList.toggle('has', value!=='');
+        updateEditBadge(card,id);
+        flash(card,'saved');
+      },600);
+    };
+  });
+}
+
+function updateEditBadge(card,id){
+  const n=Object.keys((REVIEW.items[id]||{}).edits||{}).length;
+  const b=card.querySelector('.editbadge');
+  if(!b) return;
+  b.hidden=!n;
+  if(n) b.querySelector('b').textContent=n;
 }
 
 function applyVerdict(card,id,nv){
