@@ -39,9 +39,12 @@
   .textLayer span,.textLayer br{color:transparent;position:absolute;white-space:pre;
         cursor:text;transform-origin:0 0}
   .textLayer span::selection{background:rgba(91,157,255,.45)}
+  .textLayer span.hl{background:rgba(244,183,64,.55);border-radius:2px}
   .zbtn{background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:6px;
         padding:5px 9px;cursor:pointer;font-size:13px;line-height:1}
   #pageno{width:50px;text-align:center}
+  #psearch{background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:6px;
+        padding:5px 8px;font-size:12px;width:140px}
   #right{width:44%;overflow:auto;padding:10px 12px 60px}
   .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
        color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
@@ -116,6 +119,10 @@
   <span class="hint">zoom</span>
   <button id="zout" class="zbtn" title="zoom out">−</button>
   <button id="zin" class="zbtn" title="zoom in">+</button>
+  <input id="psearch" type="text" placeholder="search PDF…" title="search the PDF text (Enter = next match)">
+  <button id="pprev" class="zbtn" title="previous match">‹</button>
+  <button id="pnext" class="zbtn" title="next match">›</button>
+  <span class="hint" id="pmatch"></span>
   <div class="progress" id="prog"></div>
   <div class="grow"></div>
   <div class="filters" id="filters">
@@ -157,6 +164,14 @@ async function init(){
   $('#zin').onclick = ()=>setZoom(1.25);
   $('#zout').onclick = ()=>setZoom(0.8);
   $('#pageno').onchange = e=>setPdf(parseInt(e.target.value||'1',10));
+  $('#psearch').onkeydown = e=>{
+    if(e.key!=='Enter') return;
+    const q=$('#psearch').value.trim().toLowerCase();
+    if(q && q===SEARCH_Q && SEARCH_MATCHES.length) gotoMatch(SEARCH_IDX+1);  // same query -> next
+    else doSearch();
+  };
+  $('#pnext').onclick = ()=>gotoMatch(SEARCH_IDX+1);
+  $('#pprev').onclick = ()=>gotoMatch(SEARCH_IDX-1);
   if(reports.length) loadReport(reports[0].dir);
 }
 
@@ -199,9 +214,62 @@ async function openPdf(dir){
     $('#pagecount').textContent='/ '+doc.numPages;
     $('#pageno').max=doc.numPages; $('#pageno').value=1;
     box.onscroll=updateCurrentPage;
+    SEARCH_MATCHES=[]; SEARCH_IDX=-1; SEARCH_Q=''; $('#pmatch').textContent='';
+    buildIndex(doc, myToken);              // index page text in the background for search
   }catch(err){
     box.innerHTML='<p class="hint" style="padding:12px">Could not load PDF.</p>';
   }
+}
+
+// ---- in-PDF text search (uses PDF.js text content) ----
+let PAGE_TEXT=[], SEARCH_MATCHES=[], SEARCH_IDX=-1, SEARCH_Q='';
+
+async function buildIndex(doc, token){
+  PAGE_TEXT=new Array(doc.numPages+1).fill('');
+  for(let i=1;i<=doc.numPages;i++){
+    if(token!==PDF_TOKEN) return;          // a different report was opened -> stop
+    try{
+      const tc=await (await doc.getPage(i)).getTextContent();
+      PAGE_TEXT[i]=tc.items.map(it=>it.str).join(' ').toLowerCase();
+    }catch(e){ PAGE_TEXT[i]=''; }
+  }
+}
+
+function doSearch(){
+  const q=$('#psearch').value.trim().toLowerCase();
+  SEARCH_Q=q; SEARCH_MATCHES=[]; SEARCH_IDX=-1;
+  clearHighlights();
+  if(!q){ $('#pmatch').textContent=''; return; }
+  for(let i=1;i<PAGE_TEXT.length;i++)
+    if(PAGE_TEXT[i] && PAGE_TEXT[i].includes(q)) SEARCH_MATCHES.push(i);
+  if(!SEARCH_MATCHES.length){ $('#pmatch').textContent='0 / 0'; return; }
+  gotoMatch(0);
+}
+
+function gotoMatch(idx){
+  if(!SEARCH_MATCHES.length) return;
+  SEARCH_IDX=(idx+SEARCH_MATCHES.length)%SEARCH_MATCHES.length;
+  const page=SEARCH_MATCHES[SEARCH_IDX];
+  $('#pmatch').textContent=(SEARCH_IDX+1)+' / '+SEARCH_MATCHES.length+' pg';
+  setPdf(page);
+  highlightPage(page, 0);
+}
+
+function highlightPage(page, tries){
+  clearHighlights();
+  const tl=$('#pdf').querySelector('.pdfpage[data-page="'+page+'"] .textLayer');
+  if((!tl || !tl.querySelector('span')) && tries<25)      // wait for the text layer to render
+    return setTimeout(()=>highlightPage(page, tries+1), 120);
+  if(!tl || !SEARCH_Q) return;
+  let first=null;
+  tl.querySelectorAll('span').forEach(s=>{
+    if(s.textContent.toLowerCase().includes(SEARCH_Q)){ s.classList.add('hl'); if(!first) first=s; }
+  });
+  if(first) first.scrollIntoView({block:'center'});
+}
+
+function clearHighlights(){
+  $('#pdf').querySelectorAll('.textLayer span.hl').forEach(s=>s.classList.remove('hl'));
 }
 
 function updateCurrentPage(){
