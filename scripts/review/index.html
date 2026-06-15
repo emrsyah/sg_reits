@@ -33,9 +33,15 @@
   #left{width:56%;border-right:1px solid var(--line);position:relative;background:#222}
   #pdf{width:100%;height:100%;overflow:auto;background:#333}
   .pdfpage{margin:10px auto;display:flex;justify-content:center}
-  .pdfpage canvas{box-shadow:0 1px 6px rgba(0,0,0,.6);max-width:100%}
+  .pagewrap{position:relative;box-shadow:0 1px 6px rgba(0,0,0,.6)}
+  .pagewrap canvas{display:block}
+  .textLayer{position:absolute;inset:0;overflow:hidden;line-height:1;opacity:1}
+  .textLayer span,.textLayer br{color:transparent;position:absolute;white-space:pre;
+        cursor:text;transform-origin:0 0}
+  .textLayer span::selection{background:rgba(91,157,255,.45)}
   .zbtn{background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:6px;
         padding:5px 9px;cursor:pointer;font-size:13px;line-height:1}
+  #pageno{width:50px;text-align:center}
   #right{width:44%;overflow:auto;padding:10px 12px 60px}
   .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
        color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
@@ -104,6 +110,9 @@
   <label class="hint">page offset
     <input id="offset" type="number" value="0" style="width:64px" title="physical PDF page = printed source_page + offset">
   </label>
+  <span class="hint">page</span>
+  <input id="pageno" type="number" min="1" value="1" title="go to PDF page (physical page number)">
+  <span class="hint" id="pagecount">/ 0</span>
   <span class="hint">zoom</span>
   <button id="zout" class="zbtn" title="zoom out">−</button>
   <button id="zin" class="zbtn" title="zoom in">+</button>
@@ -147,6 +156,7 @@ async function init(){
   };
   $('#zin').onclick = ()=>setZoom(1.25);
   $('#zout').onclick = ()=>setZoom(0.8);
+  $('#pageno').onchange = e=>setPdf(parseInt(e.target.value||'1',10));
   if(reports.length) loadReport(reports[0].dir);
 }
 
@@ -186,9 +196,19 @@ async function openPdf(dir){
       for(const e of es) if(e.isIntersecting) renderPage(+e.target.dataset.page);
     },{root:box,rootMargin:'400px 0px'});
     box.querySelectorAll('.pdfpage').forEach(p=>PDF_IO.observe(p));
+    $('#pagecount').textContent='/ '+doc.numPages;
+    $('#pageno').max=doc.numPages; $('#pageno').value=1;
+    box.onscroll=updateCurrentPage;
   }catch(err){
     box.innerHTML='<p class="hint" style="padding:12px">Could not load PDF.</p>';
   }
+}
+
+function updateCurrentPage(){
+  const box=$('#pdf'), mid=box.scrollTop+40, inp=$('#pageno');
+  let cur=1;
+  box.querySelectorAll('.pdfpage').forEach(d=>{ if(d.offsetTop<=mid) cur=+d.dataset.page; });
+  if(document.activeElement!==inp) inp.value=cur;
 }
 
 async function renderPage(i){
@@ -200,10 +220,24 @@ async function renderPage(i){
   const box=$('#pdf');
   const fit=(box.clientWidth-24)/page.getViewport({scale:1}).width;
   const vp=page.getViewport({scale:fit*ZOOM});
+  const dpr=window.devicePixelRatio||1;            // render at device resolution -> crisp
+  const wrap=document.createElement('div');
+  wrap.className='pagewrap';
+  wrap.style.width=vp.width+'px'; wrap.style.height=vp.height+'px';
   const canvas=document.createElement('canvas');
-  canvas.width=vp.width; canvas.height=vp.height;
-  div.style.height=''; div.innerHTML=''; div.appendChild(canvas);
-  page.render({canvasContext:canvas.getContext('2d'),viewport:vp});
+  canvas.width=Math.floor(vp.width*dpr); canvas.height=Math.floor(vp.height*dpr);
+  canvas.style.width=vp.width+'px'; canvas.style.height=vp.height+'px';
+  wrap.appendChild(canvas);
+  const tl=document.createElement('div');           // selectable text overlay
+  tl.className='textLayer'; tl.style.width=vp.width+'px'; tl.style.height=vp.height+'px';
+  wrap.appendChild(tl);
+  div.style.height=''; div.innerHTML=''; div.appendChild(wrap);
+  page.render({canvasContext:canvas.getContext('2d'), viewport:vp,
+               transform: dpr!==1 ? [dpr,0,0,dpr,0,0] : null});
+  try{
+    const tc=await page.getTextContent();
+    pdfjsLib.renderTextLayer({textContent:tc, container:tl, viewport:vp, textDivs:[]});
+  }catch(e){/* image-only page: no text layer */}
 }
 
 function setPdf(physicalPage){
@@ -213,6 +247,7 @@ function setPdf(physicalPage){
   if(!div) return;
   renderPage(p);
   div.scrollIntoView({block:'start'});
+  $('#pageno').value=p;
 }
 
 function gotoPrinted(p){
