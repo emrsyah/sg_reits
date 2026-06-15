@@ -9,8 +9,40 @@
       "verdict": "unsure"
     },
     "performance:0": {
-      "updated": "2026-06-14T13:18:18"
+      "updated": "2026-06-15T08:45:47",
+      "note": "where unitholders and portofovlio value comes from?",
+      "verdict": "unsure"
+    },
+    "properties:0": {
+      "verdict": "correct",
+      "updated": "2026-06-15T08:52:03"
+    },
+    "properties:1": {
+      "verdict": "correct",
+      "updated": "2026-06-15T08:53:39"
+    },
+    "properties:2": {
+      "note": "nla should be 90% according to the footnote, but this is also align with the ownership interest so we can calculate from that",
+      "updated": "2026-06-15T08:57:03",
+      "verdict": "unsure"
+    },
+    "properties:3": {
+      "note": "nla at 99%",
+      "updated": "2026-06-15T09:02:10",
+      "verdict": "correct"
+    },
+    "properties:4": {
+      "verdict": "correct",
+      "updated": "2026-06-15T09:03:05"
+    },
+    "properties:5": {
+      "verdict": "correct",
+      "updated": "2026-06-15T09:04:53"
+    },
+    "properties:6": {
+      "verdict": "correct",
+      "updated": "2026-06-15T09:05:53"
     }
   },
-  "updated": "2026-06-14T13:18:18"
+  "updated": "2026-06-15T09:05:53"
 }

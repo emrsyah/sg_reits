@@ -5,6 +5,28 @@ on the right**. Click a record's `📄 p.N` button to jump the PDF to that page,
 the record **✓ correct / ✗ false / ? unsure** and add a note. Everything is saved
 automatically and tracked.
 
+## Installation
+
+Requires **Python 3.9+**. The only third-party dependency is Flask.
+
+```bash
+# from the repo root
+python -m venv .venv
+# Windows (PowerShell):
+.venv\Scripts\Activate.ps1
+# macOS/Linux:
+# source .venv/bin/activate
+
+pip install flask
+```
+
+The tool reads data straight from the repo, so make sure these exist locally:
+
+- `extracted/<SYM>.SI_FY<YYYY>/` — the extractions to review
+- `annual_reports/*.pdf` — the matching source PDFs
+
+There is **no build step** — the app reads the JSON and PDFs at request time.
+
 ## Run
 
 ```bash
@@ -13,6 +35,10 @@ python scripts/review/app.py
 
 Open **http://127.0.0.1:5057** in **Chrome or Edge** (the page-jump uses the native PDF
 viewer's `#page=` parameter).
+
+> The bundled server (`app.run`, host `127.0.0.1`) is for **local single-user** review.
+> Sharing it with colleagues over a network/internet needs a production server, auth,
+> HTTPS, and per-reviewer verdict storage — not yet wired up here.
 
 ## How it works
 
