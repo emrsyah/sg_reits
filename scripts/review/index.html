@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>REIT extraction · proofreading cockpit</title>
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
 <style>
   :root{
     --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
@@ -30,7 +31,11 @@
   .filters button.active{color:var(--txt);border-color:var(--accent)}
   main{display:flex;height:calc(100% - 49px)}
   #left{width:56%;border-right:1px solid var(--line);position:relative;background:#222}
-  #pdf{width:100%;height:100%;border:0}
+  #pdf{width:100%;height:100%;overflow:auto;background:#333}
+  .pdfpage{margin:10px auto;display:flex;justify-content:center}
+  .pdfpage canvas{box-shadow:0 1px 6px rgba(0,0,0,.6);max-width:100%}
+  .zbtn{background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:6px;
+        padding:5px 9px;cursor:pointer;font-size:13px;line-height:1}
   #right{width:44%;overflow:auto;padding:10px 12px 60px}
   .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
        color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
@@ -99,6 +104,9 @@
   <label class="hint">page offset
     <input id="offset" type="number" value="0" style="width:64px" title="physical PDF page = printed source_page + offset">
   </label>
+  <span class="hint">zoom</span>
+  <button id="zout" class="zbtn" title="zoom out">−</button>
+  <button id="zin" class="zbtn" title="zoom in">+</button>
   <div class="progress" id="prog"></div>
   <div class="grow"></div>
   <div class="filters" id="filters">
@@ -109,13 +117,13 @@
   </div>
 </header>
 <main>
-  <div id="left"><iframe id="pdf" title="PDF"></iframe></div>
+  <div id="left"><div id="pdf"></div></div>
   <div id="right"><p class="hint">Loading…</p></div>
 </main>
 
 <script>
 const $ = s => document.querySelector(s);
-let DIR=null, RECORDS=[], REVIEW={items:{},page_offset:0}, FILTER="all", pdfLoadedDir=null;
+let DIR=null, RECORDS=[], REVIEW={items:{},page_offset:0}, FILTER="all";
 let INFERRED={};   // "section.field" -> basis, from _notes.inferred[]
 
 async function init(){
@@ -137,6 +145,8 @@ async function init(){
     [...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));
     render();
   };
+  $('#zin').onclick = ()=>setZoom(1.25);
+  $('#zout').onclick = ()=>setZoom(0.8);
   if(reports.length) loadReport(reports[0].dir);
 }
 
@@ -146,28 +156,84 @@ async function loadReport(dir){
   RECORDS = data.records;
   REVIEW = data.review;
   $('#offset').value = REVIEW.page_offset||0;
-  // load PDF once for this report (page 1)
-  pdfLoadedDir=null;
-  setPdf(1);
+  openPdf(dir);                  // load the PDF document once; jumps are instant after this
   render(data.notes);
 }
 
+// ---- PDF.js viewer: load the document ONCE, jump by scrolling (no reload) ----
+pdfjsLib.GlobalWorkerOptions.workerSrc =
+  'https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.worker.min.js';
+let PDFDOC=null, ZOOM=1, PDF_IO=null, PDF_TOKEN=0;
+
+async function openPdf(dir){
+  const box=$('#pdf');
+  ZOOM=1;
+  const myToken=++PDF_TOKEN;
+  box.innerHTML='<p class="hint" style="padding:12px">Loading PDF…</p>';
+  if(PDF_IO){ PDF_IO.disconnect(); PDF_IO=null; }
+  PDFDOC=null;
+  try{
+    const doc=await pdfjsLib.getDocument('/pdf/'+encodeURIComponent(dir)).promise;
+    if(myToken!==PDF_TOKEN) return;        // a newer report was picked while this loaded
+    PDFDOC=doc;
+    box.innerHTML='';
+    for(let i=1;i<=doc.numPages;i++){
+      const d=document.createElement('div');
+      d.className='pdfpage'; d.dataset.page=i; d.style.height='560px';
+      box.appendChild(d);
+    }
+    PDF_IO=new IntersectionObserver(es=>{
+      for(const e of es) if(e.isIntersecting) renderPage(+e.target.dataset.page);
+    },{root:box,rootMargin:'400px 0px'});
+    box.querySelectorAll('.pdfpage').forEach(p=>PDF_IO.observe(p));
+  }catch(err){
+    box.innerHTML='<p class="hint" style="padding:12px">Could not load PDF.</p>';
+  }
+}
+
+async function renderPage(i){
+  if(!PDFDOC) return;
+  const div=$('#pdf').querySelector('.pdfpage[data-page="'+i+'"]');
+  if(!div || div.dataset.rendered) return;
+  div.dataset.rendered='1';
+  const page=await PDFDOC.getPage(i);
+  const box=$('#pdf');
+  const fit=(box.clientWidth-24)/page.getViewport({scale:1}).width;
+  const vp=page.getViewport({scale:fit*ZOOM});
+  const canvas=document.createElement('canvas');
+  canvas.width=vp.width; canvas.height=vp.height;
+  div.style.height=''; div.innerHTML=''; div.appendChild(canvas);
+  page.render({canvasContext:canvas.getContext('2d'),viewport:vp});
+}
+
 function setPdf(physicalPage){
-  // Native PDF viewers honor #page only on a FRESH load — a fragment-only change
-  // after the doc is loaded does nothing (no scroll). So force a real navigation
-  // each time. The PDF bytes are cached (max_age), so the reload is fast.
-  const base='/pdf/'+encodeURIComponent(DIR);
-  const url = base + (physicalPage?('#page='+physicalPage):'');
-  const frame=$('#pdf');
-  frame.removeAttribute('src');               // blank it...
-  requestAnimationFrame(()=>{ frame.src=url; }); // ...then load fresh -> #page scrolls
-  pdfLoadedDir=DIR;
+  if(!PDFDOC) return;
+  const p=Math.max(1,Math.min(PDFDOC.numPages, physicalPage||1));
+  const div=$('#pdf').querySelector('.pdfpage[data-page="'+p+'"]');
+  if(!div) return;
+  renderPage(p);
+  div.scrollIntoView({block:'start'});
 }
 
 function gotoPrinted(p){
   if(p==null) return;
   const off = parseInt($('#offset').value||'0',10);
   setPdf(p+off);
+}
+
+function setZoom(mult){
+  if(!PDFDOC) return;
+  ZOOM=Math.max(0.5,Math.min(3, ZOOM*mult));
+  $('#pdf').querySelectorAll('.pdfpage').forEach(d=>{
+    delete d.dataset.rendered; d.innerHTML=''; d.style.height='560px';
+  });
+  renderVisible();
+}
+function renderVisible(){
+  const box=$('#pdf'), top=box.scrollTop, bot=top+box.clientHeight;
+  box.querySelectorAll('.pdfpage').forEach(d=>{
+    if(d.offsetTop+d.offsetHeight>=top-400 && d.offsetTop<=bot+400) renderPage(+d.dataset.page);
+  });
 }
 
 function fmtVal(v){
