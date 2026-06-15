@@ -54,6 +54,10 @@ scripts/
     run_adapter.py              generic plan engine: plan_<section>.json + HTML → records
     merge_llm.py                merge the batched LLM pass back; anomaly check
     track.py                    progress matrix across all ARs (from status.json)
+  review/                       PROOFREADING COCKPIT (Flask): PDF left + extracted records
+    app.py                      right; mark ✓/✗/? per record, saved to reviews/<stem>.json
+    sanity_scan.py              non-interactive sanity checker over extracted/
+    README.md                   install + run details
 
 catalog/
   singapore_reits_annual_reports.md/.json   Catalog of AR links per trust (FY2023–25)
@@ -189,6 +193,20 @@ python .claude/skills/reit-extract/scripts/validate_schema.py  extracted/<SYMBOL
 python .claude/skills/reit-extract/scripts/check_extraction.py extracted/<SYMBOL>.SI_FY<YYYY>
 python scripts/adapter/track.py               # progress across all ARs
 ```
+
+### Proofreading cockpit (manual review)
+
+A Flask tool for human verification: the annual-report **PDF on the left**, the **extracted
+records on the right**; mark each record ✓ correct / ✗ false / ? unsure, saved to
+`reviews/<stem>.json`.
+
+```powershell
+pip install flask                  # only dependency beyond the parse/extract stack
+python scripts/review/app.py       # → http://127.0.0.1:5057  (use Chrome or Edge)
+```
+
+No build step — it reads `extracted/` and `annual_reports/` at request time. The bundled
+server is **local single-user**; see `scripts/review/README.md` for details.
 
 Notes: Datalab is a paid per-page API — validate with `--page-range` before full runs;
 `parse_datalab.py` saves a checkpoint (re-extract without re-paying the parse). The skills
