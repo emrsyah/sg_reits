@@ -114,7 +114,7 @@ After=network.target
 
 [Service]
 WorkingDirectory=/opt/s_reits
-ExecStart=/opt/s_reits/.venv/bin/waitress-serve --host=0.0.0.0 --port=5057 scripts.review.app:app
+ExecStart=/opt/s_reits/.venv/bin/waitress-serve --host=127.0.0.1 --port=5057 scripts.review.app:app
 Restart=always
 User=YOUR_USER
 
@@ -128,12 +128,67 @@ sudo systemctl enable --now reit-review
 echo "YOUR_USER ALL=(root) NOPASSWD: /bin/systemctl restart reit-review, /bin/systemctl status reit-review" | sudo tee /etc/sudoers.d/reit-review
 ```
 
-Put it behind a reverse proxy (Caddy/Nginx) for HTTPS + auth before exposing it publicly —
-the app itself has no login.
+The app binds to `127.0.0.1` only — it is **not** reachable from the internet directly.
+Caddy (below) terminates HTTPS + auth and proxies to it.
 
-**2. In GitHub** (Settings → Secrets and variables → Actions) add the secrets the workflow
-reads: `VPS_HOST`, `VPS_USER`, `VPS_SSH_KEY` (a private key whose public half is in the VPS
-user's `~/.ssh/authorized_keys`), `VPS_APP_DIR` (e.g. `/opt/s_reits`), and optionally
-`VPS_PORT`.
+**3. HTTPS + auth via Caddy** (the app has no login of its own):
+
+```bash
+# DNS: add an A record for your subdomain -> the VPS IP, e.g.
+#   review.yourdomain.com  A  43.157.212.145
+
+# install Caddy (official apt repo)
+sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https curl
+curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key' | sudo gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg
+curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo tee /etc/apt/sources.list.d/caddy-stable.list
+sudo apt update && sudo apt install -y caddy
+
+# create a password hash for each reviewer
+caddy hash-password --plaintext 'a-strong-password'
+
+# edit scripts/review/deploy/Caddyfile (set your subdomain, email, paste the hash),
+# then install it and reload
+sudo cp scripts/review/deploy/Caddyfile /etc/caddy/Caddyfile
+sudo systemctl reload caddy
+
+# firewall: allow ssh + web
+sudo ufw allow 22 && sudo ufw allow 80 && sudo ufw allow 443 && sudo ufw enable
+```
+
+Caddy auto-issues a Let's Encrypt cert for the subdomain on first request. Visit
+`https://review.yourdomain.com` — you'll get a login prompt, then the cockpit.
+
+### Managing who can log in
+
+Logins are the lines in the Caddyfile's `basic_auth` block — one per person. Caddy is the
+only gate; the app has no user list. All logged-in users share the same access (no roles),
+and edits are **not** tagged by author (one shared review file).
+
+```bash
+# add / change a user: hash their password, then add or edit their line
+caddy hash-password --plaintext 'their-password'      # -> $2a$14$...
+sudo nano /etc/caddy/Caddyfile                         # add:  bob  $2a$14$...
+sudo systemctl reload caddy                            # apply, no downtime
+
+# remove a user: delete their line, then reload
+sudo nano /etc/caddy/Caddyfile
+sudo systemctl reload caddy
+```
+
+**2. SSH key for CI** (the VPS gives you a password, but CI must use a key). On your laptop:
+
+```bash
+ssh-keygen -t ed25519 -f deploy_key -N ''        # creates deploy_key (private) + deploy_key.pub
+ssh-copy-id -i deploy_key.pub ubuntu@43.157.212.145   # or paste deploy_key.pub into ~/.ssh/authorized_keys
+```
+
+**3. In GitHub** (Settings → Secrets and variables → Actions) add the secrets the workflow
+reads:
+- `VPS_HOST` = `43.157.212.145`
+- `VPS_USER` = `ubuntu`
+- `VPS_SSH_KEY` = the **full contents of `deploy_key`** (the private key)
+- `VPS_APP_DIR` = `/opt/s_reits`
+- `VPS_PORT` = `22` (optional)
 
 Then push to `main` (or run the workflow manually from the **Actions** tab) to deploy.
+The deploy user also needs the passwordless `systemctl restart` sudoers line shown above.

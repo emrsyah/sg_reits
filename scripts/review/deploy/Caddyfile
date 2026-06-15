@@ -1,0 +1,26 @@
+# Caddy reverse proxy for the REIT proofreading cockpit.
+# Gives automatic HTTPS (Let's Encrypt) + basic-auth in front of the Flask app,
+# which listens only on 127.0.0.1:5057 (not exposed directly).
+#
+# 1. Replace review.example.com with YOUR subdomain (A record -> the VPS IP).
+# 2. Replace the email with yours (Let's Encrypt expiry notices).
+# 3. Generate the password hash on the VPS:
+#       caddy hash-password --plaintext 'your-strong-password'
+#    and paste the result after the username below. Add one line per reviewer.
+# Then: sudo cp Caddyfile /etc/caddy/Caddyfile && sudo systemctl reload caddy
+
+{
+	email you@example.com
+}
+
+review.example.com {
+	encode zstd gzip
+
+	basic_auth {
+		# username   bcrypt-hash-from-caddy-hash-password
+		alice $2a$14$REPLACE_WITH_HASH
+		# bob   $2a$14$ANOTHER_HASH
+	}
+
+	reverse_proxy 127.0.0.1:5057
+}
