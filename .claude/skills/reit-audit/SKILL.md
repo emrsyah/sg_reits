@@ -77,8 +77,17 @@ Write `reviews/<SYM>_verification.md` with these sections — model it on the wo
 8. **Could NOT verify** — genuinely underivable from the parse (e.g. needs FX assumptions).
 
 Then summarize to the user: the grade, the count of fixable defects, and a concrete fix list
-(file → field → correct value → page). Do **not** edit the extraction yourself unless asked —
-the user gates corrections.
+(file → field → correct value → **page where the report says so**). Do **not** edit the
+extraction yourself unless asked — the user gates corrections.
+
+**Every fix you propose must come from the report, never from arithmetic.** A reconciliation
+gap tells you *something* is wrong, not *what* — so never recommend "move this line / change
+this number so the total ties out." Find on the source page what the value truly is and why the
+check failed (mislabelled line, missed/merged row, wrong basis, total read off a marketing
+summary, sign error), and cite it. A fix that makes the numbers balance but isn't what the
+report says is a fabrication you'd be laundering through the audit. This holds for **every**
+field, not just the financials (REFERENCE.md §0 invariant 8). If even after reading the report
+the right value is unresolvable, say so — flag it as UNVERIFIABLE rather than inventing one.
 
 ## Notes
 - Each audit is **paid LLM spend** the user gates — run on a sample / the high-risk reports

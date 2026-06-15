@@ -106,9 +106,15 @@ complementary — neither alone is sufficient.
    metadata. Required fields the schema added: `profile.management`
    (`[{role, company_name}]`) and `trade_mix.category_raw` (verbatim label).
 
-6. **Run both gates; fix every FAIL.** A non-reconciling sum usually means a merged/
-   duplicate table row, a missed property, or a JV property that's equity-accounted
-   (outside the consolidated total). Fill `_notes` honestly:
+6. **Run both gates; fix every FAIL — at the SOURCE, never by plugging numbers** (REFERENCE.md
+   §0 invariant 8). A gate failure is a signal that a value or classification is wrong; the fix
+   is whatever the report actually says, with a `source_page`. NEVER invent, reclassify, derive,
+   or adjust a figure just to make a sum tie out — that's fabrication even when the arithmetic
+   then works. A non-reconciling sum usually means a merged/duplicate table row, a missed
+   property, a JV property that's equity-accounted (outside the consolidated total), a below-NPI
+   line mislabelled `revenue`, or the total read off a marketing summary instead of the audited
+   statement — go confirm which, on the page. If you can't resolve it from the report, leave it
+   flagged in `_notes` rather than forcing a balance. Fill `_notes` honestly:
    `columns_never_fillable` (with the structural reason), `data_with_no_home` (≤12 material
    items — feeds schema iteration), `parsing_traps`, `reconciliation`.
 
@@ -172,7 +178,8 @@ Full catalogue in REFERENCE.md §4. The five that bite hardest:
 - Any money value < 1,000,000? You left it in $'000/millions — rescale.
 - Every `null` names the anchors checked; every dual-printed figure carries its alternative.
 - Re-read your WRITTEN JSON to compose the final message — not memory.
-- Both gates green (`SCHEMA: PASS`, `GATE: PASS`).
+- Both gates green (`SCHEMA: PASS`, `GATE: PASS`) — and green because each value matches the
+  report, NOT because you adjusted figures to make a check pass (REFERENCE.md §0 invariant 8).
 
 ## Model & scaling
 

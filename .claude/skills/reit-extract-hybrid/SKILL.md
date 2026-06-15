@@ -163,7 +163,12 @@ income_components, property_transactions, _notes), using `schema/models.py` fiel
 python .claude/skills/reit-extract/scripts/validate_schema.py extracted/<SYMBOL>.SI_FY<YYYY>
 python .claude/skills/reit-extract/scripts/check_extraction.py extracted/<SYMBOL>.SI_FY<YYYY>
 ```
-Fix every FAIL.
+Fix every FAIL **at the source, never by plugging numbers** (REFERENCE.md §0 invariant 8). A
+gate failure means a value/classification is wrong or a row was merged/missed/double-counted —
+go to the report page and fix what it actually says, with a `source_page`. NEVER reclassify,
+invent, derive, or adjust a figure just to make a Σ tie out; arithmetic that closes a check is
+a signal to investigate, not a fix. If it can't be resolved from the report, leave it flagged
+in `_notes` rather than forcing a balance.
 
 ### Step 6 — Track (keep current throughout)
 Maintain `extracted_adapter/<stem>/status.json` (schema in REFERENCE.md §3) — per-section

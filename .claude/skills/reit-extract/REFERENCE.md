@@ -50,6 +50,28 @@ These hold for every SGX REIT — they are accounting/SGX structure, not observa
    `trade_sector` assigned from the company name when the table has no sector column; a value
    computed as `total × pct`. If you can't justify the inference, leave the field null.
 
+8. **A failed check is a SIGNAL TO INVESTIGATE, never a license to make numbers balance.**
+   This applies to EVERY field and EVERY check — not just gross revenue. When a reconciliation
+   doesn't tie, two artefacts disagree, a sum is off, an enum is wrong, or a gate FAILs:
+   **the value is wrong, or your classification is wrong, or the disclosed total is being read
+   off the wrong line — and the answer is in the report.** Go back to the source page, find what
+   the report ACTUALLY says, and fix the ROOT CAUSE with a `source_page` citation.
+   - **NEVER** invent, plug, reclassify, derive, round, drop, or adjust a value just to make an
+     equation close. "It's not logically consistent" is the start of the investigation, not the
+     fix. A change that makes the numbers balance but isn't what the report says is a FABRICATION,
+     even when the arithmetic now works (e.g. moving an income line `revenue`→`adjustment` only
+     because that closes the tie-out, without confirming on the audited statement that the line
+     truly sits below NPI).
+   - Ask *why* it doesn't balance: a merged/duplicate row? a missed property? a JV asset that's
+     equity-accounted (outside the consolidated total)? a below-NPI line mislabelled? the
+     disclosed total taken from a marketing summary, not the audited statement? a sign error?
+     Each has a different, source-grounded fix.
+   - If you genuinely cannot resolve it from the report, leave it null/flagged and say so in
+     `_notes` — do NOT force a balance. An honest unresolved gap beats a fabricated tie-out.
+   - The deterministic gates DETECT mismatches; they do NOT tell you the right fix. Only the
+     report does. (This is the same discipline the `reit-audit` skill applies — every value is a
+     claim to confirm against the source.)
+
 Anything in §1/§3b/§4 below that predicts presence/absence/shape from sub-sector or sponsor is
 an *observation* (overfit to the 4 reports), not an invariant — use it only as a hint to speed
 discovery, and let the report override it every time.
