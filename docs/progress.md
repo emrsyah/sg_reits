@@ -42,9 +42,15 @@ Legend: ✅ done · 🔄 running · ⬜ not done. Gate counts = `fail/warn/info`
   caught it in HMN, AW9U, BTOU; the new revenue-tie-out gate check then caught it in **AU8U**
   (finance_income + fx_gain_realised) and **C38U** (interest_and_other_income + investment_income)
   and re-confirmed **AJBU** (finance_income). All 5 fixed by reclassifying the below-NPI income
-  line(s) `revenue`→`adjustment` — the audited `gross_revenue` uniquely determines the correct
-  split per report. **AU8U/C38U/AJBU got only this one fix via the gate; they are NOT yet
-  forensically audited** (other bug classes may remain).
+  line(s) `revenue`→`adjustment`. **The AU8U/C38U/AJBU reclassifications were initially done by
+  arithmetic (which subset sums to gross_revenue), then SOURCE-VERIFIED** (2026-06-15) by reading
+  each audited Statement of Total Return + Gross Revenue note: AU8U p95; AJBU p103/Note 20; C38U
+  p106/Notes 21,23,24. Every moved line (finance/interest/investment/fx income) confirmed sitting
+  below NPI and excluded from the audited Gross Revenue note. Verdict: all correct. Lesson:
+  arithmetic that closes a tie-out is a *signal*, not a fix — confirm against the report.
+  **AU8U/C38U/AJBU still need FULL forensic audits** (only the income statement was verified;
+  other bug classes may remain). Open minor items found en route: C38U `source_page` 113→159 on
+  the two below-NPI lines; AJBU `cashflow_hedge_reclassification` is an OCI line mis-scoped into P&L.
 - **HMN audit found 4 discrepancies + 3 omissions** despite passing all gates — the canonical
   evidence that gates ≠ correctness (sponsor mislabel, income mis-bucketing, portfolio_value
   contradiction). All fixed. See `reviews/HMN_verification.md`.
