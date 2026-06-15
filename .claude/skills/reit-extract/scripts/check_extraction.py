@@ -211,6 +211,27 @@ def main() -> None:
                 f"{', '.join(missing)}. Capture the FULL Statement of Total Return "
                 f"(all lines below NPI), not just the revenue/opex notes.")
 
+    # 4b'. revenue tie-out: Σ(income_components statement=revenue) must equal
+    # performance.gross_revenue. A mismatch means a below-NPI income line (finance/
+    # interest/other income) was mis-bucketed as `revenue` — the recurring statement-
+    # mis-classification bug found by the forensic auditor on HMN, AW9U and BTOU.
+    if fin and perf:
+        gr = perf.get("gross_revenue")
+        rev_lines = [r for r in fin if r.get("statement") == "revenue"]
+        rev_sum = sum(r.get("amount") or 0 for r in rev_lines)
+        if gr and rev_sum and abs(rev_sum - gr) > max(1000, 0.005 * gr):
+            extra = rev_sum - gr
+            suspects = [r.get("component") for r in rev_lines
+                        if any(k in str(r.get("component", "")).lower()
+                               for k in ("finance", "interest", "other_income",
+                                         "dividend", "fair_value", "fx"))]
+            fails.append(
+                f"RECON REVENUE Σ(income_components revenue)={rev_sum:,} != "
+                f"performance.gross_revenue={gr:,} (gap {extra:,}). A below-NPI income "
+                f"line is likely mis-bucketed as statement='revenue'"
+                + (f"; suspects: {', '.join(map(str, suspects))}" if suspects else "")
+                + " — it should be statement='adjustment'.")
+
     # 4c. trade_mix completeness — a trade-mix breakdown should sum to ~100% of its
     # basis. A sum well below 100 means rows were dropped (split/long table). An empty
     # trade_mix is only valid as a declared structural absence (e.g. hospitality).

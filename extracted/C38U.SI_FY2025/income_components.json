@@ -132,7 +132,7 @@
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "interest_and_other_income",
     "amount": 6781000.0,
     "currency": "SGD",
@@ -142,7 +142,7 @@
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "investment_income",
     "amount": 9083000.0,
     "currency": "SGD",

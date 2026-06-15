@@ -22,7 +22,7 @@
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "finance_income",
     "amount": 15311000,
     "currency": "SGD",

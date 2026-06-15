@@ -28,7 +28,7 @@
     },
     {
       "period": "4Q2025 (1 Oct 2025 – 31 Dec 2025)",
-      "dpu": null,
+      "dpu": 0.52,
       "ex_date": null,
       "pay_date": "2026-03-30"
     }

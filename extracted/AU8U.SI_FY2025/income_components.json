@@ -142,7 +142,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "finance_income",
     "amount": 1487000.0,
     "currency": "SGD",
@@ -152,7 +152,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "fx_gain_realised",
     "amount": 2055000.0,
     "currency": "SGD",

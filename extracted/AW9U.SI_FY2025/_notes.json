@@ -147,6 +147,30 @@
       "value": 100.0,
       "basis": "Portfolio-level 'total committed occupancy rate of tenants 100%' (master-lease structure, p18/p71) applied per-property; per-property occupancy is NOT separately disclosed.",
       "source_page": 18
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "all rows EXCEPT the two Precious Homes (disclosed 10 Apr 2027 on cards, p30) and Imperial Aryaduta (divested, null)",
+      "value": "derived",
+      "basis": "Audited Portfolio Statement discloses land-title 'lease term / remaining term', not an explicit expiry date; expiry back-calculated as FY-end + remaining term. Internally consistent but not disclosed per property.",
+      "source_page": 136
+    },
+    {
+      "table": "properties",
+      "field": "lease_term_years",
+      "scope": "all rows",
+      "value": "derived",
+      "basis": "Derived from the disclosed land-title lease term / remaining-term wording in the Portfolio Statement, not a discrete disclosed numeric field.",
+      "source_page": 136
+    },
+    {
+      "table": "top_tenants",
+      "field": "trade_sector",
+      "scope": "all 11 rows",
+      "value": "assigned",
+      "basis": "The p5 top-tenant table has no trade-sector column; sector assigned from tenant identity (healthcare operator / hospitality / retail).",
+      "source_page": 5
     }
   ]
 }

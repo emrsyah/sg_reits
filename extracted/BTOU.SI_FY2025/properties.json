@@ -23,7 +23,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 34,
     "value_basis": "consolidated",
     "alt_value": 230400000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$230.4m; matches Tier C"
@@ -52,7 +52,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 32,
     "value_basis": "consolidated",
     "alt_value": 191400000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$191.4m; matches Tier C"
@@ -81,7 +81,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 35,
     "value_basis": "consolidated",
     "alt_value": 79800000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$79.8m; matches Tier C"
@@ -110,7 +110,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 36,
     "value_basis": "consolidated",
     "alt_value": 192500000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$192.5m; matches Tier C"
@@ -139,7 +139,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 30,
     "value_basis": "consolidated",
     "alt_value": 76700000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$76.7m; matches Tier C"
@@ -168,7 +168,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 107,
+    "source_page": 31,
     "value_basis": "consolidated",
     "alt_value": 44900000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$44.9m; matches Tier C"
@@ -197,7 +197,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold",
     "status": "held_for_sale",
-    "source_page": 107,
+    "source_page": 33,
     "value_basis": "consolidated",
     "alt_value": 98100000.0,
     "alt_basis": "Tier A marketing valuation (page 27) = US$98.1m; Tier C audited held-for-sale = US$85,703k (estimated net sale consideration per Note 6 and page 23)"

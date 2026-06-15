@@ -72,7 +72,7 @@
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
-    "statement": "revenue",
+    "statement": "adjustment",
     "component": "finance_income",
     "amount": 269000,
     "currency": "SGD",
