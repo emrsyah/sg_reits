@@ -3,100 +3,106 @@
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 1,
-    "tenant_name": "RC Hotels (Pte) Ltd",
-    "trade_sector": "Hospitality & Leisure",
-    "gri_percentage": 4.5,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "RC Hotels (Pte) Ltd",
+    "industry": "Hospitality & Leisure",
+    "revenue_pct": 4.5
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 2,
-    "tenant_name": "GIC Private Limited",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 1.6,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "GIC Private Limited",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 1.6
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 3,
-    "tenant_name": "The Work Project Group",
-    "trade_sector": "Real Estate & Property Services",
-    "gri_percentage": 1.6,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "The Work Project Group",
+    "industry": "Infrastructure, Real Estate & Property Services",
+    "industry_raw": "Real Estate & Property Services",
+    "revenue_pct": 1.6
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 4,
-    "tenant_name": "Temasek Holdings",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 1.6,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "Temasek Holdings",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 1.6
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 5,
-    "tenant_name": "NTUC Enterprise Co-Operative Ltd",
-    "trade_sector": "Departmental Store/Supermarket",
-    "gri_percentage": 1.5,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "NTUC Enterprise Co-Operative Ltd",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 1.5
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 6,
-    "tenant_name": "Breadtalk Group Pte Ltd",
-    "trade_sector": "Food & Beverages",
-    "gri_percentage": 1.2,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "Breadtalk Group Pte Ltd",
+    "industry": "Food & Beverages",
+    "revenue_pct": 1.2
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 7,
-    "tenant_name": "JPMorgan Chase Bank, N.A.",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 1.1,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "JPMorgan Chase Bank, N.A.",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 1.1
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 8,
-    "tenant_name": "UNIQLO (Singapore) Pte. Ltd.",
-    "trade_sector": "Fashion & Accessories",
-    "gri_percentage": 1.0,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "UNIQLO (Singapore) Pte. Ltd.",
+    "industry": "Fashion & Accessories",
+    "revenue_pct": 1.0
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 9,
-    "tenant_name": "KPMG Services Pte. Ltd.",
-    "trade_sector": "Professional Services",
-    "gri_percentage": 1.0,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "KPMG Services Pte. Ltd.",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Professional Services",
+    "revenue_pct": 1.0
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "rank": 10,
-    "tenant_name": "Mizuho Group",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 0.9,
     "pct_basis": "gri",
-    "source_page": 33
+    "source_page": 33,
+    "client_name": "Mizuho Group",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 0.9
   }
 ]

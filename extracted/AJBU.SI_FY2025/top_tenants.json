@@ -3,100 +3,100 @@
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 1,
-    "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 42.1,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Fortune Global 500 Company (Hyperscaler)",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 42.1
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 2,
-    "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 9.6,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Fortune Global 500 Company (Hyperscaler)",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 9.6
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 3,
-    "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 8.4,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Fortune Global 500 Company (Hyperscaler)",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 8.4
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 4,
-    "tenant_name": "Fortune Global 500 Company (Hyperscaler)",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 5.7,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Fortune Global 500 Company (Hyperscaler)",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 5.7
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 5,
-    "tenant_name": "Government-linked Connectivity Solutions Provider",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 4.8,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Government-linked Connectivity Solutions Provider",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 4.8
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 6,
-    "tenant_name": "Government-linked Connectivity Solutions Provider",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 4.1,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Government-linked Connectivity Solutions Provider",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 4.1
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 7,
-    "tenant_name": "Internet Technology Provider (Hyperscaler)",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.2,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Internet Technology Provider (Hyperscaler)",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.2
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 8,
-    "tenant_name": "Fortune Global 500 Company",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.1,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Fortune Global 500 Company",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.1
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 9,
-    "tenant_name": "Multinational Colocation Provider",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.1,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Multinational Colocation Provider",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.1
   },
   {
     "symbol": "AJBU.SI",
     "financial_year": 2025,
     "rank": 10,
-    "tenant_name": "Multinational Colocation Provider",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.0,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Multinational Colocation Provider",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.0
   }
 ]

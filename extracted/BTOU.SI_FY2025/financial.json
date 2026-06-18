@@ -1,0 +1,238 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "currency": "USD",
+  "income_stmt_metrics": {
+    "total_revenue": 113914000.0,
+    "gross_income": 53178000.0,
+    "cost_of_revenue": null,
+    "operating_income": null,
+    "operating_expense": null,
+    "ebit": null,
+    "ebitda": null,
+    "pretax_income": null,
+    "income_taxes": null,
+    "net_income": null,
+    "non_operating_income_or_loss": null,
+    "interest_expense_non_operating": null,
+    "diluted_shares_outstanding": null,
+    "net_property_sales": null,
+    "funds_from_operation": null,
+    "unitholders": null,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {
+        "category": "rental_income",
+        "amount": 61031000.0,
+        "class": null
+      },
+      {
+        "category": "recoveries_income",
+        "amount": 42035000.0,
+        "class": null
+      },
+      {
+        "category": "car_park_income",
+        "amount": 9469000.0,
+        "class": null
+      },
+      {
+        "category": "other_revenue",
+        "amount": 1379000.0,
+        "class": null
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "real_estate_taxes",
+        "amount": 12625000.0,
+        "class": null
+      },
+      {
+        "category": "repairs_and_maintenance",
+        "amount": 15575000.0,
+        "class": null
+      },
+      {
+        "category": "utilities",
+        "amount": 8942000.0,
+        "class": null
+      },
+      {
+        "category": "property_management_fees",
+        "amount": 10674000.0,
+        "class": null
+      },
+      {
+        "category": "ecl_provision",
+        "amount": 291000.0,
+        "class": null
+      },
+      {
+        "category": "other_operating_expenses",
+        "amount": 12629000.0,
+        "class": null
+      },
+      {
+        "category": "manager_base_fee",
+        "amount": 2838000.0,
+        "class": null
+      },
+      {
+        "category": "trustee_fee",
+        "amount": 180000.0,
+        "class": null
+      },
+      {
+        "category": "other_trust_expenses",
+        "amount": 2008000.0,
+        "class": null
+      },
+      {
+        "category": "finance_expenses",
+        "amount": 34608000.0,
+        "class": null
+      }
+    ]
+  },
+  "balance_sheet_metrics": null,
+  "cash_flow_metrics": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "rental_income",
+      "amount": 61031000.0,
+      "label_raw": "Rental income",
+      "source_page": 138
+    },
+    {
+      "statement": "revenue",
+      "component": "recoveries_income",
+      "amount": 42035000.0,
+      "label_raw": "Recoveries income",
+      "source_page": 138
+    },
+    {
+      "statement": "revenue",
+      "component": "car_park_income",
+      "amount": 9469000.0,
+      "label_raw": "Car park income",
+      "source_page": 138
+    },
+    {
+      "statement": "revenue",
+      "component": "other_revenue",
+      "amount": 1379000.0,
+      "label_raw": "Others",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "real_estate_taxes",
+      "amount": 12625000.0,
+      "label_raw": "Real estate taxes",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "repairs_and_maintenance",
+      "amount": 15575000.0,
+      "label_raw": "Repairs and property maintenance expenses",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "utilities",
+      "amount": 8942000.0,
+      "label_raw": "Utilities",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_fees",
+      "amount": 10674000.0,
+      "label_raw": "Property management fees and reimbursements",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "ecl_provision",
+      "amount": 291000.0,
+      "label_raw": "Net provision for ECL",
+      "source_page": 138
+    },
+    {
+      "statement": "expense",
+      "component": "other_operating_expenses",
+      "amount": 12629000.0,
+      "label_raw": "Other operating expenses",
+      "source_page": 138
+    },
+    {
+      "statement": "adjustment",
+      "component": "interest_income",
+      "amount": 1385000.0,
+      "label_raw": "Interest income",
+      "source_page": 103
+    },
+    {
+      "statement": "expense",
+      "component": "manager_base_fee",
+      "amount": 2838000.0,
+      "label_raw": "Manager's base fee",
+      "source_page": 103
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 180000.0,
+      "label_raw": "Trustee's fee",
+      "source_page": 103
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 2008000.0,
+      "label_raw": "Other trust expenses",
+      "source_page": 103
+    },
+    {
+      "statement": "expense",
+      "component": "finance_expenses",
+      "amount": 34608000.0,
+      "label_raw": "Finance expenses",
+      "source_page": 103
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -11666000.0,
+      "label_raw": "Net fair value change in derivatives",
+      "source_page": 103
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -83515000.0,
+      "label_raw": "Net fair value change in investment properties",
+      "source_page": 103
+    },
+    {
+      "statement": "adjustment",
+      "component": "loss_on_disposal_investment_properties",
+      "amount": -3323000.0,
+      "label_raw": "Loss on disposal of investment properties",
+      "source_page": 103
+    },
+    {
+      "statement": "adjustment",
+      "component": "tax_expense",
+      "amount": -4078000.0,
+      "label_raw": "Tax (expense)/income",
+      "source_page": 103
+    }
+  ],
+  "source_page": 138,
+  "_migration": "from income_components.json (Jun17 schema); standardized buckets + balance_sheet/cash_flow pending re-extraction"
+}

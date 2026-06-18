@@ -2,7 +2,7 @@
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
-    "category": "Banking, Insurance & Financial Services",
+    "category": "Financial & Professional Services",
     "category_raw": "Banking, Insurance & Financial Services",
     "pct": 18.7,
     "pct_basis": "gri",
@@ -29,7 +29,7 @@
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
-    "category": "Beauty & Health",
+    "category": "Healthcare & Wellness",
     "category_raw": "Beauty & Health",
     "pct": 7.6,
     "pct_basis": "gri",
@@ -47,7 +47,7 @@
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
-    "category": "Real Estate & Property Services",
+    "category": "Infrastructure, Real Estate & Property Services",
     "category_raw": "Real Estate & Property Services",
     "pct": 4.1,
     "pct_basis": "gri",

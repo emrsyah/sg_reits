@@ -20,7 +20,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Beauty & Health",
+    "category": "Healthcare & Wellness",
     "category_raw": "Beauty & Healthcare",
     "pct": 4.1,
     "pct_basis": "gri",
@@ -119,7 +119,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Construction & Engineering",
+    "category": "Infrastructure, Real Estate & Property Services",
     "category_raw": "Engineering",
     "pct": 4.8,
     "pct_basis": "gri",
@@ -137,7 +137,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Professional Services",
+    "category": "Financial & Professional Services",
     "category_raw": "Professional Services",
     "pct": 2.6,
     "pct_basis": "gri",
@@ -146,7 +146,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Healthcare, Pharmaceuticals & Life Sciences",
+    "category": "Healthcare & Wellness",
     "category_raw": "Biomedical Sciences",
     "pct": 2.0,
     "pct_basis": "gri",
@@ -173,7 +173,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Real Estate & Property Services",
+    "category": "Infrastructure, Real Estate & Property Services",
     "category_raw": "Real Estate",
     "pct": 0.8,
     "pct_basis": "gri",
@@ -182,7 +182,7 @@
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
-    "category": "Banking, Insurance & Financial Services",
+    "category": "Financial & Professional Services",
     "category_raw": "Financial Services",
     "pct": 0.7,
     "pct_basis": "gri",

@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "property_name": "Citadines Connect Sydney Airport",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "113-121 Baxter Road, Mascot, Sydney, New South Wales, NSW 2020",
     "ownership": 100.0,
     "market_valuation": 41740000,
@@ -24,14 +24,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines on Bourke Melbourne",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "131-135 Bourke Street, Melbourne, Victoria 3000",
     "ownership": 100.0,
     "market_valuation": 134015000,
@@ -51,14 +52,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines St Georges Terrace Perth",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "185 St Georges Terrace, Perth WA 6000",
     "ownership": 100.0,
     "market_valuation": 17711000,
@@ -78,14 +80,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Quest Campbelltown",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "1 Rennie Road, Woodbine, Sydney, NSW 2560",
     "ownership": 100.0,
     "market_valuation": 19496000,
@@ -105,14 +108,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Quest Cannon Hill",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "930 Wynnum Road, Cannon Hill, Brisbane, QLD 4170",
     "ownership": 100.0,
     "market_valuation": 26469000,
@@ -132,14 +136,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Quest Macquarie Park",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "71 Epping Road, Macquarie Park, Sydney, NSW 2113",
     "ownership": 100.0,
     "market_valuation": 36056000,
@@ -159,14 +164,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Quest Mascot",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "108-114 Robey Road, Mascot, Sydney, NSW 2020",
     "ownership": 100.0,
     "market_valuation": 22724000,
@@ -186,14 +192,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Quest Sydney Olympic Park",
     "country": "Australia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "6 Edwin Flack Avenue, Sydney Olympic Park, Sydney NSW 2127",
     "ownership": 100.0,
     "market_valuation": 44355000,
@@ -213,14 +220,15 @@
     "tenure_raw": "Leasehold, 99 years, 86 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 127
+    "source_page": 127,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Sainte-Catherine Brussels",
     "country": "Belgium",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "51 quai au Bois a Bruler, 1000 Brussels",
     "ownership": 100.0,
     "market_valuation": 43361000,
@@ -240,14 +248,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Toison d'Or Brussels",
     "country": "Belgium",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "61-63 Avenue de la Toison d'Or, 1060 Brussels",
     "ownership": 100.0,
     "market_valuation": 35158000,
@@ -267,14 +276,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Xinghai Suzhou",
     "country": "China",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Block 27, Jiacheng Gardens, 58 Xinghai Street, Suzhou Industrial Park, Suzhou 215021",
     "ownership": 100.0,
     "market_valuation": 18943000,
@@ -294,14 +304,15 @@
     "tenure_raw": "Leasehold, 70 years, 41 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Zhuankou Wuhan",
     "country": "China",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "159 Dongfeng Avenue (Xianglong Business Centre Zone C), Wuhan Economic and Technological Development Zone, Wuhan 430056",
     "ownership": 100.0,
     "market_valuation": 22577000,
@@ -321,14 +332,15 @@
     "tenure_raw": "Leasehold, 40 years, 18 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Grand Central Dalian",
     "country": "China",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "No. 128-2 Jinma Road, Dalian Development Area, Dalian 116600",
     "ownership": 100.0,
     "market_valuation": 58430000,
@@ -348,14 +360,15 @@
     "tenure_raw": "Leasehold, 50 years, 31 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Heping Shenyang",
     "country": "China",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "80 Taiyuan North Street, Heping District, Shenyang 110000",
     "ownership": 100.0,
     "market_valuation": 40647000,
@@ -375,14 +388,15 @@
     "tenure_raw": "Leasehold, 40 years, 21 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 128
+    "source_page": 128,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Antigone Montpellier",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "588 boulevard d'Antigone, 34000 Montpellier",
     "ownership": 100.0,
     "market_valuation": 13314000,
@@ -402,14 +416,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Austerlitz Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "27 rue Esquirol, 75013 Paris",
     "ownership": 100.0,
     "market_valuation": 12823000,
@@ -429,14 +444,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Les Halles Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "4 rue des Innocents, 75001 Paris",
     "ownership": 100.0,
     "market_valuation": 107866000,
@@ -456,14 +472,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Maine Montparnasse Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "67 avenue du Maine, 75014 Paris",
     "ownership": 100.0,
     "market_valuation": 26167000,
@@ -483,14 +500,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Montmartre Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "16 avenue Rachel, 75018 Paris",
     "ownership": 100.0,
     "market_valuation": 41315000,
@@ -510,14 +528,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Place d'Italie Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "18 place d'Italie, 75013 Paris",
     "ownership": 100.0,
     "market_valuation": 59346000,
@@ -537,14 +556,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 129
+    "source_page": 129,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Presqu'ile Lyon",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "2 rue Thomassin, 69002 Lyon",
     "ownership": 100.0,
     "market_valuation": 21724000,
@@ -564,14 +584,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Republique Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "75 bis, avenue Parmentier, 75011 Paris",
     "ownership": 100.0,
     "market_valuation": 29296000,
@@ -591,14 +612,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Tour Eiffel Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "132 Boulevard de Grenelle, 75015 Paris",
     "ownership": 100.0,
     "market_valuation": 80213000,
@@ -618,14 +640,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Trocadero Paris",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "29 bis, rue Saint-Didier, 75116 Paris",
     "ownership": 100.0,
     "market_valuation": 49917000,
@@ -645,14 +668,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "La Clef Louvre Paris by The Crest Collection",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "8 rue de Richelieu, 75001 Paris",
     "ownership": 100.0,
     "market_valuation": 56709000,
@@ -672,14 +696,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "La Clef Tour Eiffel Paris by The Crest Collection",
     "country": "France",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "83 avenue Kleber, 75116 Paris",
     "ownership": 100.0,
     "market_valuation": 144002000,
@@ -699,14 +724,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 130
+    "source_page": 130,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Arnulfpark Munich",
     "country": "Germany",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Arnulfstrasse 51, 80636 Munchen",
     "ownership": 100.0,
     "market_valuation": 42634000,
@@ -726,14 +752,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines City Centre Frankfurt",
     "country": "Germany",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Europa-Allee 23, 60327 Frankfurt am Main",
     "ownership": 100.0,
     "market_valuation": 56724000,
@@ -753,14 +780,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Kurfurstendamm Berlin",
     "country": "Germany",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Olivaer Platz 1, 10707 Berlin - Wilmersdorf",
     "ownership": 100.0,
     "market_valuation": 26552000,
@@ -780,14 +808,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Michel Hamburg",
     "country": "Germany",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Ludwig-Erhard-Strasse 7, 20459 Hamburg",
     "ownership": 100.0,
     "market_valuation": 53556000,
@@ -807,14 +836,15 @@
     "tenure_raw": "Leasehold, 99 years, 85 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "The Madison Hamburg",
     "country": "Germany",
-    "category": "Hotel",
+    "category": null,
     "address": "Schaarsteinweg 4, 20459 Hamburg",
     "ownership": 100.0,
     "market_valuation": 82778000,
@@ -834,14 +864,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Ascott Jakarta",
     "country": "Indonesia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Jalan Kebon Kacang Raya No. 2, Jakarta 10230",
     "ownership": 100.0,
     "market_valuation": 52607000,
@@ -861,14 +892,15 @@
     "tenure_raw": "Leasehold, 30 years, 28 years remaining (HGB — Indonesian right-to-build)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Ascott Kuningan Jakarta",
     "country": "Indonesia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Ciputra World 1 Jalan Prof Dr Satrio Kav. 3-5 Jakarta 12940",
     "ownership": 100.0,
     "market_valuation": 53577000,
@@ -888,14 +920,15 @@
     "tenure_raw": "Leasehold, 30 years, 1 year remaining (HGB — Indonesian right-to-build)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Grand Citra Jakarta",
     "country": "Indonesia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Jalan Prof Dr Satrio Kav. 1, Jakarta 12940",
     "ownership": 100.0,
     "market_valuation": 33173000,
@@ -915,14 +948,15 @@
     "tenure_raw": "Leasehold, 20 years, 19 years remaining (HGB — Indonesian right-to-build)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 131
+    "source_page": 131,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Chisun Budget Kanazawa Ekimae",
     "country": "Japan",
-    "category": "Hotel",
+    "category": null,
     "address": "8-16 Horikawa Shinmachi, Kanazawa City, Ishikawa 920-0849",
     "ownership": 100.0,
     "market_valuation": 47106000,
@@ -942,14 +976,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 132
+    "source_page": 132,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Shinjuku Tokyo",
     "country": "Japan",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "1-28-13 Shinjuku, Shinjuku-ku, Tokyo 1600022",
     "ownership": 100.0,
     "market_valuation": 126380000,
@@ -969,14 +1004,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 132
+    "source_page": 132,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "ibis Styles Tokyo Ginza",
     "country": "Japan",
-    "category": "Hotel",
+    "category": null,
     "address": "7 10 9 Ginza, Chuo-ku, Tokyo 104-0061",
     "ownership": 100.0,
     "market_valuation": 145345000,
@@ -996,14 +1032,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 132
+    "source_page": 132,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Sotetsu Grand Fresa Tokyo-Bay Ariake",
     "country": "Japan",
-    "category": "Hotel",
+    "category": null,
     "address": "3-6-6 Ariake Koto-ku, Tokyo 135-0063",
     "ownership": 100.0,
     "market_valuation": 305833000,
@@ -1023,14 +1060,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 132
+    "source_page": 132,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Actus Hakata V-Tower",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-15-10 Hakata Ekimae, Hakata-ku, Fukuoka",
     "ownership": 100.0,
     "market_valuation": 40380000,
@@ -1050,14 +1088,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Alpha Square Kita 15 jo",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2-5, Kita 15 jo Higashi 1-chome, Higashi-ku, Sapporo-shi, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 19409000,
@@ -1077,14 +1116,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Big Palace Kita 14 jo",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "4-1-6, Kita 14 jo Nishi, Kita-ku, Sapporo-shi, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 17140000,
@@ -1104,14 +1144,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Big Palace Minami 5 jo",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-1, Minami 5 jo Nishi 8-chome, Chuo-ku, Sapporo-shi, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 21341000,
@@ -1131,14 +1172,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "City Court Kita 1 jo",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "6-3 Kita 1 jo Higashi 1-chome, Chuo-ku, Sapporo-shi, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 20346000,
@@ -1158,14 +1200,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Eslead College Gate Kindaimae",
     "country": "Japan",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "19-28, 3chome Kowakae, Higashiosaka-shi, Osaka",
     "ownership": 100.0,
     "market_valuation": 15630000,
@@ -1185,14 +1228,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Eslead Residence Bentencho Grande",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "5-15-21, Benten, Minato-ku, Osaka-shi, Osaka",
     "ownership": 100.0,
     "market_valuation": 17812000,
@@ -1212,14 +1256,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 133
+    "source_page": 133,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Eslead Residence Osaka Fukushima East",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "5-8-7, Sagisu, Fukushima-ku, Osaka",
     "ownership": 100.0,
     "market_valuation": 17476000,
@@ -1239,14 +1284,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Eslead Residence Umeda Grande",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "4-8-3, Nakatsu, Kita-ku, Osaka-shi, Osaka",
     "ownership": 100.0,
     "market_valuation": 10755000,
@@ -1266,14 +1312,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Granfore Hakata Waterfront",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "7-9, Sekijomachi, Hakata-ku, Fukuoka",
     "ownership": 100.0,
     "market_valuation": 36633000,
@@ -1293,14 +1340,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Gravis Court Kakomachi",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "13-10, Kakomachi, Naka-ku, Hiroshima",
     "ownership": 100.0,
     "market_valuation": 5537000,
@@ -1320,14 +1368,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Gravis Court Kokutaiji",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2-1-9, Kokutajimachi, Naka-ku, Hiroshima",
     "ownership": 100.0,
     "market_valuation": 4310000,
@@ -1347,14 +1396,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Gravis Court Nishiharaekimae",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "8-38-10, Nishihara, Asaminami-ku, Hiroshima",
     "ownership": 100.0,
     "market_valuation": 3478000,
@@ -1374,14 +1424,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "House Saison Shijo-Dori",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "47-2, Kasaboko-cho, Shimogyo-ku, Kyoto",
     "ownership": 100.0,
     "market_valuation": 25290000,
@@ -1401,14 +1452,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 134
+    "source_page": 134,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Marunouchi Central Heights",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-23-6 Marunouchi, Naka-ku, Nagoya city, Aichi",
     "ownership": 100.0,
     "market_valuation": 6125000,
@@ -1428,14 +1480,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Pre de Cort Nishikyogoku",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "13-1 Nishikyogoku Tsutsumisotocho, Ukyo-ku, 615-0854",
     "ownership": 100.0,
     "market_valuation": 14872000,
@@ -1455,14 +1508,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Pregio Esaka South",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "5 Chome-16-30 Minamisuita, Suita-city, Osaka, 564-0043",
     "ownership": 100.0,
     "market_valuation": 10923000,
@@ -1482,14 +1536,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Roppongi Residences Tokyo",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-4-31 Roppongi, Minato-ku, Tokyo 106-0032",
     "ownership": 100.0,
     "market_valuation": 35482000,
@@ -1509,14 +1564,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Fukushima Luxe",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "7-22-9, Fukushima, Fukushima-ku, Osaka",
     "ownership": 100.0,
     "market_valuation": 27550000,
@@ -1536,14 +1592,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Gakuenzaka",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2-1-1 Shimodera, Naniwa-ku, Osaka-shi, Osaka",
     "ownership": 100.0,
     "market_valuation": 11007000,
@@ -1563,14 +1620,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Hommachi Marks",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2-3-6, Tokuicho, Chuo-ku, Osaka",
     "ownership": 100.0,
     "market_valuation": 15124000,
@@ -1590,14 +1648,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Midoribashi Serio",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-17-6, Nakamoto, Higashinari-ku, Osaka",
     "ownership": 100.0,
     "market_valuation": 13695000,
@@ -1617,14 +1676,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 135
+    "source_page": 135,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Namba Viale",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "3-9-1 Motomachi, Naniwa-ku, Osaka shi, Osaka",
     "ownership": 100.0,
     "market_valuation": 15544000,
@@ -1644,14 +1704,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Shukugawa",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2-88 Kamizono-cho, Nishinomiya city, Hyogo",
     "ownership": 100.0,
     "market_valuation": 6520000,
@@ -1671,14 +1732,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "S-Residence Tanimachi 9 chome",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "4-29, Ikutamamaemachi, Tennoji-ku, Osaka",
     "ownership": 100.0,
     "market_valuation": 16300000,
@@ -1698,14 +1760,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Splendide Namba West",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "2 Chome-16-2 Shikitsunishi, Naniwa-ku, Osaka, 556-0015",
     "ownership": 100.0,
     "market_valuation": 11427000,
@@ -1725,14 +1788,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Teriha Ocean Stage",
     "country": "Japan",
-    "category": "Rental Housing",
+    "category": null,
     "address": "7-8-3, Kashii Teriha, Higashi-ku, Fukuoka",
     "ownership": 100.0,
     "market_valuation": 71921000,
@@ -1752,14 +1816,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Rental Housing"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Kuala Lumpur",
     "country": "Malaysia",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "187, Jalan Ampang, 50450, Kuala Lumpur",
     "ownership": 100.0,
     "market_valuation": 35293000,
@@ -1779,14 +1844,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Ascott Makati",
     "country": "Philippines",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Glorietta 4, Ayala Center, Makati City 1224",
     "ownership": 100.0,
     "market_valuation": 81917000,
@@ -1806,14 +1872,15 @@
     "tenure_raw": "Leasehold, 48 years, 18 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Millennium Makati",
     "country": "Philippines",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "104 Aguirre Street, Legaspi Village, Makati City 1229",
     "ownership": 100.0,
     "market_valuation": 8585000,
@@ -1833,14 +1900,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Ascott Orchard Singapore",
     "country": "Singapore",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "11 Cairnhill Road, Singapore 229724",
     "ownership": 100.0,
     "market_valuation": 430627000,
@@ -1860,14 +1928,15 @@
     "tenure_raw": "Leasehold, 99 years, 87 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "lyf one-north Singapore",
     "country": "Singapore",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "80 Nepal Park, Singapore 139409",
     "ownership": 100.0,
     "market_valuation": 140017000,
@@ -1887,14 +1956,15 @@
     "tenure_raw": "Leasehold, 60 years, 53 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "lyf Funan Singapore",
     "country": "Singapore",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "67 Hill Street, Level 4 Funan, Singapore 179370",
     "ownership": 100.0,
     "market_valuation": 270271000,
@@ -1914,14 +1984,15 @@
     "tenure_raw": "Leasehold, 99 years, 53 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Liang Court Property Singapore",
     "country": "Singapore",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "177B River Valley Road, Singapore 179032",
     "ownership": 100.0,
     "market_valuation": 315400000,
@@ -1941,14 +2012,15 @@
     "tenure_raw": "Leasehold, 99 years, 95 years remaining (investment property under development)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "The Robertson House by The Crest Collection",
     "country": "Singapore",
-    "category": "Hotel",
+    "category": null,
     "address": "1 Unity Street, Singapore 237983",
     "ownership": 100.0,
     "market_valuation": 337950000,
@@ -1968,14 +2040,15 @@
     "tenure_raw": "Leasehold, 99 years, 80/81 years remaining (classified as PPE/leasehold land and buildings under BT Group, not REIT investment property)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Ramblas Barcelona",
     "country": "Spain",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Ramblas 122, 08002 Barcelona",
     "ownership": 100.0,
     "market_valuation": 100372000,
@@ -1995,14 +2068,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Barbican London",
     "country": "United Kingdom",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "7-21 Goswell Road, London EC1M 7AH",
     "ownership": 100.0,
     "market_valuation": 85648000,
@@ -2022,14 +2096,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Holborn - Covent Garden London",
     "country": "United Kingdom",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "94-99 High Holborn, London WC1V 6LF",
     "ownership": 100.0,
     "market_valuation": 214343000,
@@ -2049,14 +2124,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines South Kensington London",
     "country": "United Kingdom",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "35A Gloucester Road, London SW7 4PL",
     "ownership": 100.0,
     "market_valuation": 77551000,
@@ -2076,14 +2152,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Trafalgar Square London",
     "country": "United Kingdom",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "18-21 Northumberland Avenue, London WC2N 5EA",
     "ownership": 100.0,
     "market_valuation": 203614000,
@@ -2103,14 +2180,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "The Cavendish London",
     "country": "United Kingdom",
-    "category": "Hotel",
+    "category": null,
     "address": "81 Jermyn St, St. James's, London SW1Y 6JF",
     "ownership": 100.0,
     "market_valuation": 319418000,
@@ -2130,14 +2208,15 @@
     "tenure_raw": "Leasehold, 150 years, 133/134 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Element New York Times Square West",
     "country": "USA",
-    "category": "Hotel",
+    "category": null,
     "address": "311 West 39th Street, New York, New York 10018",
     "ownership": 100.0,
     "market_valuation": 151260000,
@@ -2157,14 +2236,15 @@
     "tenure_raw": "Leasehold, 99 years, 87 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Sheraton Tribeca New York Hotel",
     "country": "USA",
-    "category": "Hotel",
+    "category": null,
     "address": "370 Canal Street, New York, New York 10013",
     "ownership": 100.0,
     "market_valuation": 177094000,
@@ -2184,14 +2264,15 @@
     "tenure_raw": "Leasehold, 99 years, 87 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "voco Times Square South",
     "country": "USA",
-    "category": "Hotel",
+    "category": null,
     "address": "343 West 36th Street, New York, New York 10018",
     "ownership": 100.0,
     "market_valuation": 158076000,
@@ -2211,14 +2292,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Paloma Kent",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "1450 E Summit Street Kent, Ohio 44240",
     "ownership": 100.0,
     "market_valuation": 46702000,
@@ -2238,14 +2320,15 @@
     "tenure_raw": "Leasehold, 99 years, 92 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Paloma Raleigh",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "5701 Hillsborough Street, Raleigh, North Carolina 27606",
     "ownership": 100.0,
     "market_valuation": 87049000,
@@ -2265,14 +2348,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Paloma University City",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "3600 Lancaster Avenue, Philadelphia, Pennsylvania 19104",
     "ownership": 100.0,
     "market_valuation": 80233000,
@@ -2292,14 +2376,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Paloma West Midtown",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "800 Marietta Street NW, Atlanta, Georgia, 30318",
     "ownership": 100.0,
     "market_valuation": 149211000,
@@ -2319,14 +2404,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Seven07",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "707 South Fourth Street, Champaign, Illinois 61820",
     "ownership": 100.0,
     "market_valuation": 124850000,
@@ -2346,14 +2432,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Standard at Columbia",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "1401 Assembly Street, Columbia, South Carolina 29201",
     "ownership": 100.0,
     "market_valuation": 165946000,
@@ -2373,14 +2460,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Uncommon Wilmington",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "2421 Playa Way, Wilmington, North Carolina 28403",
     "ownership": 100.0,
     "market_valuation": 69744000,
@@ -2400,14 +2488,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Wildwood Lubbock",
     "country": "USA",
-    "category": "Student Accommodation",
+    "category": null,
     "address": "1701 N. Quaker Avenue, Lubbock, Texas, 79416",
     "ownership": 100.0,
     "market_valuation": 94849000,
@@ -2427,14 +2516,15 @@
     "tenure_raw": "Freehold, Not applicable",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Student Accommodation"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Central TD Hai Phong City",
     "country": "Vietnam",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Tower A, TD Plaza, Lot 20A, Nga Nam - Cat Bi Airport New Urban Area, Gia Vien Ward, Hai Phong City",
     "ownership": 100.0,
     "market_valuation": 17511000,
@@ -2454,14 +2544,15 @@
     "tenure_raw": "Leasehold, 64 years, 50 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Chancellor Court Ho Chi Minh City",
     "country": "Vietnam",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "21-23 Nguyen Thi Minh Khai Street, Saigon Ward, Ho Chi Minh City",
     "ownership": 100.0,
     "market_valuation": 31073000,
@@ -2481,14 +2572,15 @@
     "tenure_raw": "Leasehold, 48 years, 16 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Grand Hanoi",
     "country": "Vietnam",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "No. 49 Hai Ba Trung, Cua Nam Ward, Hanoi City",
     "ownership": 100.0,
     "market_valuation": 55225000,
@@ -2508,14 +2600,15 @@
     "tenure_raw": "Leasehold, 45 years, 12 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Ho Chi Minh City",
     "country": "Vietnam",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "No. 8A Nguyen Binh Khiem, Saigon Ward, Ho Chi Minh City",
     "ownership": 100.0,
     "market_valuation": 26036000,
@@ -2535,14 +2628,15 @@
     "tenure_raw": "Leasehold, 45 years, 14 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Hoa Binh Hanoi",
     "country": "Vietnam",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "No. 106, Hoang Quoc Viet Street, Nghia Do Ward, Hanoi City",
     "ownership": 100.0,
     "market_valuation": 19092000,
@@ -2562,14 +2656,15 @@
     "tenure_raw": "Leasehold, 36 years, 16 years remaining",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Sotetsu Grand Fresa Osaka-Namba",
     "country": "Japan",
-    "category": "Hotel",
+    "category": null,
     "address": "1-1-13, Nipponbashi, Chuo-ku, Osaka 542-0073",
     "ownership": 100.0,
     "market_valuation": 207447000,
@@ -2589,14 +2684,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group investment property)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "ibis Ambassador Seoul Insadong",
     "country": "South Korea",
-    "category": "Hotel",
+    "category": null,
     "address": "31 Samil-daero 30-gil, Ikseon-dong, Jongno-gu, Seoul",
     "ownership": 100.0,
     "market_valuation": 89746000,
@@ -2616,14 +2712,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group investment property)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Sotetsu Hotels The Splaisir Seoul Dongdaemun",
     "country": "South Korea",
-    "category": "Hotel",
+    "category": null,
     "address": "226 Jangchoongdan-ro, Gwanghui-dong, Jung-gu, Seoul",
     "ownership": 100.0,
     "market_valuation": 87603000,
@@ -2643,14 +2740,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group investment property)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Pullman and Mercure Brisbane King George Square",
     "country": "Australia",
-    "category": "Hotel",
+    "category": null,
     "address": "Corner Ann and Roma Street, Brisbane, QLD 4000",
     "ownership": 100.0,
     "market_valuation": null,
@@ -2670,14 +2768,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group freehold land and buildings; individual values not disclosed in Portfolio Statement — only aggregate 550,748 $'000 for all 5 BT PPE properties)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Pullman and Mercure Melbourne Albert Park",
     "country": "Australia",
-    "category": "Hotel",
+    "category": null,
     "address": "65 Queens Road, Melbourne, VIC 3004",
     "ownership": 100.0,
     "market_valuation": null,
@@ -2697,14 +2796,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group freehold land and buildings; individual values not disclosed in Portfolio Statement — only aggregate 550,748 $'000 for all 5 BT PPE properties)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Pullman Sydney Hyde Park",
     "country": "Australia",
-    "category": "Hotel",
+    "category": null,
     "address": "36 College Street, Sydney, NSW 2000",
     "ownership": 100.0,
     "market_valuation": null,
@@ -2724,14 +2824,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group freehold land and buildings; individual values not disclosed in Portfolio Statement — only aggregate 550,748 $'000 for all 5 BT PPE properties)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Sydney Central Hotel",
     "country": "Australia",
-    "category": "Hotel",
+    "category": null,
     "address": "169-179 Thomas Street, Sydney, NSW 2000",
     "ownership": 100.0,
     "market_valuation": null,
@@ -2751,14 +2852,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group freehold land and buildings; individual values not disclosed in Portfolio Statement — only aggregate 550,748 $'000 for all 5 BT PPE properties)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Temple Bar Hotel Dublin by The Unlimited Collection",
     "country": "Ireland",
-    "category": "Hotel",
+    "category": null,
     "address": "13-17 Fleet St, Temple Bar, Dublin 2, D02 WD51",
     "ownership": 100.0,
     "market_valuation": null,
@@ -2778,14 +2880,15 @@
     "tenure_raw": "Freehold, Not applicable (BT Group freehold land and buildings; individual values not disclosed in Portfolio Statement — only aggregate 550,748 $'000 for all 5 BT PPE properties)",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Hotel"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Citadines Central Shinjuku Tokyo",
     "country": "Japan",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "1-2-9, Kabuki-cho, Shinjuku-ku, Tokyo 1600021",
     "ownership": null,
     "market_valuation": null,
@@ -2805,14 +2908,15 @@
     "tenure_raw": "Freehold, Not applicable (divested 2 October 2025; 2024 valuation was 108,647 $'000)",
     "status": "divested",
     "value_basis": null,
-    "source_page": 132
+    "source_page": 132,
+    "category_raw": "Serviced Residence"
   },
   {
     "symbol": "HMN.SI",
     "financial_year": 2025,
     "property_name": "Somerset Olympic Tower Tianjin",
     "country": "China",
-    "category": "Serviced Residence",
+    "category": null,
     "address": "Tianjin, China",
     "ownership": null,
     "market_valuation": null,
@@ -2832,6 +2936,7 @@
     "tenure_raw": "Divested 15 April 2025 for RMB420.0 million (S$77.4 million); not in year-end audited Portfolio Statement",
     "status": "divested",
     "value_basis": null,
-    "source_page": 10
+    "source_page": 10,
+    "category_raw": "Serviced Residence"
   }
 ]
