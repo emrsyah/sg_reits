@@ -246,8 +246,9 @@ class IncomeStmtMetrics(BaseModel):
     # REIT keys prod keeps inside this blob
     net_property_sales: Optional[float] = Field(None, description="divestment gain/loss; 0 if none")
     funds_from_operation: Optional[float] = Field(
-        None, description="FFO — NULL for SG REITs (they disclose distributable income, not "
-        "US-style FFO; see performance.net_distributable_income). Do NOT alias to net_income.")
+        None, description="FFO — capture if the report discloses it; else null (many SG REITs "
+        "report distributable income instead, see performance.net_distributable_income). Not "
+        "equal to net_income, which includes non-cash fair-value items FFO excludes.")
     # extra='allow' also carries `_derived`: list[str] — the computed (not disclosed) fields
     # in this blob (operating_income, ebit, ebitda, non_operating_income_or_loss,
     # interest_expense_non_operating), so derived values never masquerade as disclosed.

@@ -346,14 +346,16 @@ def main() -> None:
                 f"financial.income_stmt_metrics.{ism_key}={iv:,} (gap {pv-iv:,}) — same "
                 f"audited figure must agree across tables; investigate the source.")
 
-    # 4b'''''. FFO must not be aliased to net_income (a known-wrong value for SG REITs).
+    # 4b'''''. FFO equal to net_income is unlikely to be a true disclosed FFO (net income
+    # includes non-cash fair-value items FFO excludes) — flag to verify it's disclosed, not an alias.
     ffo = ism.get("funds_from_operation")
     if ffo is not None and ism.get("net_income") is not None \
             and abs(ffo - ism["net_income"]) <= 50_000:
         warns.append(
-            "financial: funds_from_operation == net_income — SG REITs don't disclose FFO; "
-            "net_income carries non-cash fair-value swings FFO removes. Set it null (the "
-            "SG metric is performance.net_distributable_income) or compute true FFO.")
+            "financial: funds_from_operation == net_income — verify this is a FFO disclosed in "
+            "the report, not an alias of net_income (net income includes non-cash fair-value "
+            "items FFO excludes); else set null or list in _derived. SG distributable income "
+            "lives in performance.net_distributable_income.")
 
     # 4c. trade_mix completeness — a trade-mix breakdown should sum to ~100% of its
     # basis. A sum well below 100 means rows were dropped (split/long table). An empty

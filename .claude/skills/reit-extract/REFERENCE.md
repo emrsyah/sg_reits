@@ -188,11 +188,13 @@ A REIT statement doesn't print ebit/ebitda/operating_income — derive them so t
 - `ebit` = `net_income + income_taxes + interest_expense_non_operating`
 - `ebitda` = `ebit + depreciation & amortisation` (≈ ebit for fair-value REITs — no P&L D&A;
   add real D&A for cost-model trusts)
-- `funds_from_operation` = **NULL** for SG REITs. They do NOT disclose US-style FFO; the SG-native
-  metric is "distributable income" (already captured as `performance.net_distributable_income`).
-  **Do NOT alias FFO to net_income** — net income includes the non-cash fair-value swings FFO
-  exists to remove (M44U net_income carries −67.6m property FV + −26.9m derivative FV), so
-  FFO=net_income is a known-WRONG value. Leave null + list it as derived/absent.
+- `funds_from_operation` = **discover it from THIS report** — capture the disclosed FFO/AFFO if the
+  trust reports one. Many SG REITs report "distributable income" (→ `performance.net_distributable_
+  income`) instead of US-style FFO; when no FFO is disclosed, leave it **null** (do not assume
+  absence for a whole class — check each report). Do NOT set FFO = net_income: net income includes
+  non-cash fair-value movements and one-off gains/losses that FFO excludes, so the two are not
+  equivalent (e.g. M44U net_income absorbs −67.6m property FV + −26.9m derivative FV). If you derive
+  FFO yourself (net_income + D&A − fair-value/disposal gains), list it in `_derived`.
 
 **Mark derived fields.** Inside `income_stmt_metrics`, add `"_derived": ["operating_income",
 "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]` — the fields

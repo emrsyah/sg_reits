@@ -41,9 +41,10 @@ audit-trail extras are dropped).
   usually null for externally-managed REITs). Push them straight across.
 - `income_stmt_metrics._derived` lists the fields we **computed** (ebit/ebitda/operating_income/…)
   vs read off the statement — REIT statements don't print these, so we standardize them like prod.
-- `funds_from_operation` is **null** — SG REITs don't disclose US-style FFO; the SG metric is
-  `sgx_reit_performance.net_distributable_income`. (Prod's REIT rows set FFO = net_income, which is
-  a wrong placeholder — net income carries non-cash fair-value swings FFO removes.)
+- `funds_from_operation` is captured when a report discloses an FFO/AFFO; otherwise **null** (many
+  SG REITs report distributable income, in `sgx_reit_performance.net_distributable_income`, rather
+  than US-style FFO). It is not set equal to net_income, which includes non-cash fair-value items
+  FFO excludes — so a null here means "not disclosed in this report," not a class-wide assumption.
 - `line_items` is our extension (the verbatim audited Statement of Total Return; reconciles
   `Σrevenue − Σexpense + Σadjustment = net_income`). **Not** part of `income_stmt_metrics` — keep
   or drop as you like; it's the audit trail.
