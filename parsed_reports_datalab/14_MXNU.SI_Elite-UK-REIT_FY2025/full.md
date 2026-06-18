@@ -1,0 +1,9017 @@
+
+
+<!-- PAGE 1 -->
+
+![Elite UK REIT logo featuring a stylized building icon with red and gold elements, and the text 'ELITE UK REIT' below it.](2dfa6ac3edfe874f68aa0cbccaa42322_img.jpg)
+
+ELITE UK REIT
+
+Elite UK REIT logo featuring a stylized building icon with red and gold elements, and the text 'ELITE UK REIT' below it.
+
+# MISSION CRITICAL
+
+ANNUAL  
+REPORT  
+**2025**
+
+<!-- PAGE 2 -->
+
+## A UK REIT listed in Singapore
+
+Elite UK REIT (“**英利英国房地产信托**”), is a UK REIT listed on the Singapore Exchange and managed by Singapore-headquartered Elite UK REIT Management Pte. Ltd. (the “**Manager**”). Elite UK REIT (“**Elite REIT**” (“**英利房托**”))’s mission-critical portfolio has a total asset value of £424.7 million as at 31 December 2025. With its portfolio, Elite REIT provides Unitholders with a secure income stream mainly from the Department for Work and Pensions and various United Kingdom (“**UK**”) government departments.
+
+The portfolio has 148 properties which are mostly freehold or virtually freehold, geographically diversified across the UK and strategically located in town centres, near amenities and transportation nodes. The Manager is also capitalising on sectors exhibiting strong growth potential in the UK, such as purpose-built student accommodation and built-to-rent residential assets. With a long and diversified lease expiry profile and prudent capital management, Elite REIT is positioned for sustainable stability and growth from government-leased properties and the living sector.
+
+Elite REIT’s Sponsors are Ho Lee Group Pte. Ltd. (“**Ho Lee**”) and Elite Partners Holdings Pte. Ltd. (“**EPH**”). Ho Lee is a real estate and construction conglomerate with deep expertise across the full real-estate value chain, spanning general building construction, industrial projects and residential development. EPH is an alternative investment and asset manager that has assets under management of more than S\$2 billion in UK and Europe.
+
+![Cover of the Elite UK REIT Mission Critical Annual Report 2025. The cover features a stylized illustration of a modern building with a blue and yellow facade, set against a light background. The text 'MISSION CRITICAL' is prominently displayed in orange and red, with 'ANNUAL REPORT 2025' at the bottom.](d5fc881e4328d6a2e76c9576408ced49_img.jpg)
+
+Cover of the Elite UK REIT Mission Critical Annual Report 2025. The cover features a stylized illustration of a modern building with a blue and yellow facade, set against a light background. The text 'MISSION CRITICAL' is prominently displayed in orange and red, with 'ANNUAL REPORT 2025' at the bottom.
+
+![QR code linking to the Elite UK REIT Annual Report 2025 online.](b0d31e6842af4e5cee75a79f4eac72ff_img.jpg)
+
+QR code linking to the Elite UK REIT Annual Report 2025 online.
+
+Scan QR code to view Elite UK REIT’s  
+Annual Report 2025 online or visit  
+<https://investor.eliteukreit.com/ar.html>
+
+**SGX Trading Names | Trading Codes**  
+EliteUKREIT GBP | MXNU  
+EliteUKREIT SGD | MENU
+
+<!-- PAGE 3 -->
+
+# Mission Critical
+
+Every asset we hold serves a purpose that matters. From government offices to border security and customs administration, our properties support essential services that are mission critical. Our portfolio reflects our commitment to investing in what endures – assets built for stability, relevance and long-term performance.
+
+# Contents
+
+# OVERVIEW
+
+|  |  |
+|-|-|
+| <b>IFC</b> | Corporate Profile |
+| <b>2</b> | At a Glance |
+| <b>3</b> | Key Financial Highlights |
+| <b>4</b> | Portfolio Overview |
+| <b>5</b> | Value Creation Strategy |
+| <b>6</b> | Corporate Milestones |
+| <b>10</b> | Chairman and CEO's Letter to Unitholders |
+| <b>13</b> | REIT and Organisation Structure |
+| <b>14</b> | Board of Directors |
+| <b>18</b> | Management |
+
+# PERFORMANCE
+
+|  |  |
+|-|-|
+| <b>20</b> | Financial Review and Capital Management |
+| <b>23</b> | Investment and Asset Management |
+| <b>26</b> | Investor Relations |
+
+# OPERATIONS REVIEW
+
+|  |  |
+|-|-|
+| <b>30</b> | Top Properties by Valuation |
+| <b>34</b> | Portfolio Profiles |
+| <b>56</b> | Market Review |
+
+# SUSTAINABILITY & GOVERNANCE
+
+|  |  |
+|-|-|
+| <b>61</b> | Sustainability Report |
+| <b>91</b> | Enterprise Risk Management |
+| <b>97</b> | Corporate Governance Report |
+
+# FINANCIALS
+
+|  |  |
+|-|-|
+| <b>125</b> | Financial Statements |
+|-|-|
+
+# OTHERS
+
+|  |  |
+|-|-|
+| <b>171</b> | Statistics of Unitholdings |
+| <b>174</b> | Notice of Annual General Meeting and Proxy Form |
+| <b>183</b> | Corporate Information |
+| <b>184</b> | Glossary |
+
+![Stylized illustration of a modern building facade with a grid pattern and a blue vertical element.](c8e6b8d1a0c2ee58fa3886fd9e732692_img.jpg)
+
+A stylized, low-poly illustration of a modern building facade. The building is composed of several rectangular blocks of varying heights and widths, creating a stepped effect. The primary color is a muted olive green, with a grid of thin white lines overlaid on the surfaces. A prominent vertical blue rectangle is positioned on the left side of the central block. The top of the building features a flat roof with a small, dark grey rectangular element. The overall style is geometric and architectural.
+
+Stylized illustration of a modern building facade with a grid pattern and a blue vertical element.
+
+<!-- PAGE 4 -->
+
+# At a Glance
+
+Our vision is to be Singapore’s leading UK-focused real estate investment trust focused on government-leased properties.
+
+**UK REIT**  
+listed in  
+Singapore
+
+**>99%**  
+Gross rental income  
+from the  
+UK Government
+
+**Rental income backed by**  
+**AA-rated**  
+UK sovereign credit
+
+**~100%**  
+Freehold and virtual  
+freehold assets
+
+![Map of the United Kingdom showing the distribution of 148 assets across various regions. The regions are color-coded and labeled: Scotland (dark red), North West (orange), North East (pink), Yorkshire & Humber (green), Midlands (light blue), Wales (brown), South West (yellow), East (red), London (dark red), and South East (light orange).](b7251436a2a3c0d1c00c3e935df2a8f5_img.jpg)
+
+**148 Assets**
+
+| Number of Assets |  |
+|-|-|
+| Scotland | 25 |
+| North West | 23 |
+| North East | 11 |
+| Yorkshire & Humber | 10 |
+| Wales | 20 |
+| Midlands | 16 |
+| South West | 11 |
+| East | 9 |
+| London | 10 |
+| South East | 13 |
+
+Map of the United Kingdom showing the distribution of 148 assets across various regions. The regions are color-coded and labeled: Scotland (dark red), North West (orange), North East (pink), Yorkshire & Humber (green), Midlands (light blue), Wales (brown), South West (yellow), East (red), London (dark red), and South East (light orange).
+
+**KEY INVESTMENT MERITS**
+
+Image: Icon representing government-backed income stream: a circle with '£' symbols and a central 'G'.
+
+**Government-backed<sup>1</sup> Income Stream**  
+100% rent collection three months in advance, backed by AA-rated sovereign credit strength
+
+**Stable and Diversified Portfolio**
+
+Image: Icon representing geographical diversification: a globe.
+
+**Geographically Diversified**  
+Network of assets across the UK covering regional cities and major centres of population
+
+Image: Icon representing strategic location: a location pin.
+
+**Strategically Located**  
+Town centres and CBD-focused, close to key transportation nodes and amenities
+
+Image: Icon representing mission-critical public infrastructure: a building with a flag.
+
+**Mission-critical Public Infrastructure**  
+Elite REIT is one of the largest providers of mission-critical social infrastructure to the UK Government for the delivery of essential and mission-critical government services
+
+**Prudent Capital Management**
+
+Image: Icon representing tax efficiency: a document with a pencil.
+
+**Tax Efficient**  
+Highly optimised tax structure, on par with UK-listed REITs
+
+Image: Icon representing natural hedge: a shield with a heart.
+
+**Natural Hedge**  
+Assets, debts and distributions are naturally hedged in Pound sterling
+
+Image: Icon representing multiple funding sources: a document with a checklist.
+
+**Multiple Funding Sources**  
+Diversified funding sources and opportunistic divestments used for capital recycling
+
+Image: Icon representing growth potential: a bar chart with an upward arrow.
+
+**Growth Potential**  
+Capitalising on lease renewals, asset repositioning and acquisitions
+
+<sup>1</sup> As at 31 December 2025, 99.2% of gross rental income is from the UK Government. Nearly all leases are signed with the Ministry of Housing, Communities and Local Government, which is a Crown Body.
+
+<!-- PAGE 5 -->
+
+## Key Financial Highlights
+
+![Icon representing Revenue: a money bag with a pound sign.](04519be9bd73b202914a1bb3da732edd_img.jpg)
+
+Icon representing Revenue: a money bag with a pound sign.
+
+Revenue<sup>1</sup>
+
+**£38.0 m**
+
+FY2024: £37.5m
+
+![Icon representing Net Property Income: a house with a pound sign inside.](299293e57acaa9093650ced125705667_img.jpg)
+
+Icon representing Net Property Income: a house with a pound sign inside.
+
+Net Property Income<sup>1</sup>
+
+**£36.0 m**
+
+FY2024: £37.4m
+
+![Icon representing Distribution per Unit: a pound sign surrounded by dots.](1006fec55ed05ea680f955e714fab99e_img.jpg)
+
+Icon representing Distribution per Unit: a pound sign surrounded by dots.
+
+Distribution per Unit ("DPU")<sup>2</sup>
+
+**3.03 pence**
+
+FY2024: 2.87 pence
+
+![Icon representing Net Asset Value per Unit: a pound sign inside a circle with radiating lines.](77a114bbffeee8b6fb9bceabfad03024_img.jpg)
+
+Icon representing Net Asset Value per Unit: a pound sign inside a circle with radiating lines.
+
+Net Asset Value per Unit
+
+**£0.40**
+
+31 Dec 2024: £0.41
+
+![Icon representing Distributable Income: a stack of coins with a pound sign.](196296b2f029ca54a57181d6dcc1864c_img.jpg)
+
+Icon representing Distributable Income: a stack of coins with a pound sign.
+
+Distributable Income
+
+**£19.3 m**
+
+FY2024: £18.5m
+
+![Icon representing Distribution Yield: a bar chart with a percentage sign.](efc3e2854d57aa1e355c8da7e239697f_img.jpg)
+
+Icon representing Distribution Yield: a bar chart with a percentage sign.
+
+Distribution Yield
+
+**8.4 %**
+
+As at 31 Dec 2025
+
+![Icon representing Total Return: a circular arrow with a pound sign.](9964276d4c558ef8631e1dddfb426e3d_img.jpg)
+
+Icon representing Total Return: a circular arrow with a pound sign.
+
+Total Return
+
+**34.2 %**
+
+FY2025
+
+![Icon representing Borrowing Cost: a computer monitor with a percentage sign.](109df4b3e03467d79efa0cb7d1e62d98_img.jpg)
+
+Icon representing Borrowing Cost: a computer monitor with a percentage sign.
+
+Borrowing Cost
+
+**4.7 %**
+
+31 Dec 2024: 4.9%
+
+![Icon representing Interest Coverage Ratio: a bar chart with a magnifying glass.](60f31e632b2eb168d34b29872ef195f3_img.jpg)
+
+Icon representing Interest Coverage Ratio: a bar chart with a magnifying glass.
+
+Interest Coverage Ratio
+
+**2.6 x**
+
+31 Dec 2024: 2.5x
+
+![Icon representing Fixed Rate Debt: a hand holding a coin with a percentage sign.](5ce230b2c0821cf62d5d1c01dd80b79f_img.jpg)
+
+Icon representing Fixed Rate Debt: a hand holding a coin with a percentage sign.
+
+Fixed Rate Debt
+
+**85 %**
+
+As at 31 Dec 2025
+
+![Icon representing Net Gearing: a gear with a percentage sign.](93de38bcf02ade60ba23f983fd5b2cbf_img.jpg)
+
+Icon representing Net Gearing: a gear with a percentage sign.
+
+Net Gearing<sup>3</sup>
+
+**40.7 %**
+
+31 Dec 2024: 42.5%
+
+![Icon representing Debt Headroom: a bar chart with an upward arrow and a pound sign.](17aca0813d03f07cf0e176f37218d08e_img.jpg)
+
+Icon representing Debt Headroom: a bar chart with an upward arrow and a pound sign.
+
+Debt Headroom
+
+**£62.6 m**
+
+31 Dec 2024: £57.7m
+
+<sup>1</sup> Excludes effect of straight-line rent adjustments.
+
+<sup>2</sup> At 100% payout ratio, the DPU for FY2025 and FY2024 would be 3.19 pence and 3.11 pence respectively.
+
+<sup>3</sup> Net gearing is calculated as aggregate debt less cash over total assets less cash. Aggregate Leverage calculated as per the Property Funds Appendix would be 42.8% and 43.4% as of 31 December 2025 and 31 December 2024, respectively.
+
+#### Note:
+
+In this Annual Report, any discrepancies between the listed figures, totals thereof, and figures in other sections of this Annual Report are due to rounding.
+
+<!-- PAGE 6 -->
+
+## Portfolio Overview
+
+![Icon of hands holding a pound coin](47d1411aadf4583e0f0c35490d7d8747_img.jpg)
+
+**Portfolio Value<sup>1</sup>**
+
+**£424.7 m**
+
+31 Dec 2024: £416.2m
+
+![Icon of a house on hands](f8e7be3c2bd30232a05cdc54a8b2d22a_img.jpg)
+
+**Number of Tenants<sup>2</sup>**
+
+**11**
+
+31 Dec 2024: 11
+
+![Icon of a house with a percentage sign](f94f473f740247fc62afc0e0e5025277_img.jpg)
+
+**Occupancy Rate<sup>3</sup>**
+
+**98.6%**
+
+31 Dec 2024: 95.8%
+
+![Icon of a calendar with a pound coin](fa57fcab2b2767e504bfa60f0353236a_img.jpg)
+
+**Weighted Average Lease Expiry**
+
+**7.2 years<sup>4</sup>**
+
+FY2024: 3.3 years
+
+![Icon of a house with an upward arrow](e9251c227aeeccc6b31fb5224a56a47e_img.jpg)
+
+**Net Internal Area**
+
+**3.7 m sq ft**
+
+31 Dec 2024: 3.7m sq ft
+
+![Icon of a building with a percentage sign](eedf39744dbed0fff689e599c7c73f71_img.jpg)
+
+**Gross Rental Income From UK Government**
+
+**99.2%**
+
+FY2024: 99.1%
+
+![Donut chart showing the distribution of Net Internal Area (NIA) by region.](46f43cb4ffd47565e7c0ca306d461435_img.jpg)
+
+**NIA**
+
+Donut chart showing the distribution of Net Internal Area (NIA) by region.
+
+| By Net Internal ("NIA") |  |  |
+|-|-|-|
+| <img alt="North West color" data-bbox="169 1682 185 1704" src="a0fa8bc25d670cde3905dff620b401ae_img.jpg"/> | North West | 24% |
+| <img alt="Scotland color" data-bbox="169 1711 185 1733" src="ff3eabf79233f3aa25a5df258f50427a_img.jpg"/> | Scotland | 20% |
+| <img alt="South East color" data-bbox="169 1740 185 1762" src="bac51fe73fcd6bf16764b3096edc5cdf_img.jpg"/> | South East | 10% |
+| <img alt="Wales color" data-bbox="169 1769 185 1792" src="01809458963aa10a19f3dc0f6a292535_img.jpg"/> | Wales | 9% |
+| <img alt="Midlands color" data-bbox="169 1798 185 1821" src="224aaf335bffd16e11ce49d7b66a98b2_img.jpg"/> | Midlands | 8% |
+| <img alt="South West color" data-bbox="169 1827 185 1850" src="3d48eed1edd056dbe8620d09bd0ca2a1_img.jpg"/> | South West | 7% |
+| <img alt="East color" data-bbox="169 1856 185 1879" src="c3d388d95eefd3393b81c09fb451b4f0_img.jpg"/> | East | 7% |
+| <img alt="London color" data-bbox="169 1886 185 1908" src="dabe3c728957f8c764eef915ed18db0e_img.jpg"/> | London | 5% |
+| <img alt="North East color" data-bbox="169 1915 185 1937" src="763209aaf506a1db5a406d8e10241130_img.jpg"/> | North East | 5% |
+| <img alt="Yorkshire &amp; Humber color" data-bbox="169 1944 185 1966" src="9feee1ec44450d4e2ce6f603f8a02310_img.jpg"/> | Yorkshire & Humber | 5% |
+
+![Donut chart showing the distribution of Valuation by region.](0ad3f61f997eb05afb341fc46024bf2b_img.jpg)
+
+**Valuation**
+
+Donut chart showing the distribution of Valuation by region.
+
+| By Valuation |  |  |
+|-|-|-|
+| <img alt="North West color" data-bbox="625 1682 641 1704" src="3d8009e7ef8e195ecf49a9e1dbc93236_img.jpg"/> | North West | 23% |
+| <img alt="Scotland color" data-bbox="625 1711 641 1733" src="cdf0acb13f0b375da0e9f92afb8b3cbb_img.jpg"/> | Scotland | 15% |
+| <img alt="London color" data-bbox="625 1740 641 1762" src="c6c6b7c2c0f2918c24e7c03af8419596_img.jpg"/> | London | 15% |
+| <img alt="South East color" data-bbox="625 1769 641 1792" src="1362c8117a454b63e43b1624be900b6f_img.jpg"/> | South East | 13% |
+| <img alt="South West color" data-bbox="625 1798 641 1821" src="e40afccae065b925b93daeb11bc08034_img.jpg"/> | South West | 7% |
+| <img alt="Midlands color" data-bbox="625 1827 641 1850" src="759e4e154eb0415ecc5ce529c97cd341_img.jpg"/> | Midlands | 7% |
+| <img alt="East color" data-bbox="625 1856 641 1879" src="d4672008256043f91e6a2ac7a9b6f4e7_img.jpg"/> | East | 7% |
+| <img alt="Wales color" data-bbox="625 1886 641 1908" src="9e0b7cdd0e5ac8e6b9ed49de10c58c3e_img.jpg"/> | Wales | 7% |
+| <img alt="North East color" data-bbox="625 1915 641 1937" src="5ce75c31bbcf8dd539c56f958b6de504_img.jpg"/> | North East | 3% |
+| <img alt="Yorkshire &amp; Humber color" data-bbox="625 1944 641 1966" src="4e61215a15a28dd86e1040dcdd6e2846_img.jpg"/> | Yorkshire & Humber | 3% |
+
+![Donut chart showing the distribution of Gross Rental Income (GRI) by region.](ed2fa033a401564314cdc32fe9732935_img.jpg)
+
+**GRI**
+
+Donut chart showing the distribution of Gross Rental Income (GRI) by region.
+
+| By Gross Rental ("GRI") |  |  |
+|-|-|-|
+| <img alt="North West color" data-bbox="1082 1682 1098 1704" src="1b31ae9d59029d9833ae2691c5931df0_img.jpg"/> | North West | 22% |
+| <img alt="Scotland color" data-bbox="1082 1711 1098 1733" src="c642ede17d66ee67f0338a4573c961b8_img.jpg"/> | Scotland | 18% |
+| <img alt="South East color" data-bbox="1082 1740 1098 1762" src="5611d0b0925fee7cd216ff45f89a2ab5_img.jpg"/> | South East | 12% |
+| <img alt="London color" data-bbox="1082 1769 1098 1792" src="d4c895fec1d0696ac59953080619c92b_img.jpg"/> | London | 11% |
+| <img alt="Midlands color" data-bbox="1082 1798 1098 1821" src="151cb99a1b335c497f0ff039dbb48cb2_img.jpg"/> | Midlands | 8% |
+| <img alt="South West color" data-bbox="1082 1827 1098 1850" src="700184a46ddb28a65efbdde0dc7d2849_img.jpg"/> | South West | 8% |
+| <img alt="Wales color" data-bbox="1082 1856 1098 1879" src="c4a1c87de65ebb3e1d261f05b98030e4_img.jpg"/> | Wales | 7% |
+| <img alt="East color" data-bbox="1082 1886 1098 1908" src="9c36269c248f0ef965a7b377f4644469_img.jpg"/> | East | 7% |
+| <img alt="North East color" data-bbox="1082 1915 1098 1937" src="cf49e52879f6ae0e35a43e021966f60b_img.jpg"/> | North East | 4% |
+| <img alt="Yorkshire &amp; Humber color" data-bbox="1082 1944 1098 1966" src="9686160d1df77f07e828db8a1d29c03a_img.jpg"/> | Yorkshire & Humber | 3% |
+
+1 Comprising 148 properties as at 31 December 2025.
+
+2 Nearly all leases are signed with the Ministry of Housing, Communities and Local Government, which is a Crown Body.
+
+3 Operational assets excluding Lindsay House, Dundee and Cambria House, Cardiff which are undergoing asset repositioning.
+
+4 Weighted Average Lease Expiry ("WALE") is weighted by gross rental income. On a pro forma basis post lease regear, WALE is 7.2 years as at 31 December 2025, one of the highest amongst Singapore REITs. Before lease regear, WALE would have been 2.4 years as at 31 December 2025.
+
+<!-- PAGE 7 -->
+
+## Value Creation Strategy
+
+### OUR VALUE CREATION PATHWAYS
+
+Elite UK REIT’s mission is to offer a differentiated investment gateway to income-producing UK real estate and provide attractive and stable returns to our Unitholders. Our dual-sector and focused market exposure to the UK provides cashflow underpinned by secure government leases and positions the REIT to capitalise on the sustained growth of the living sector. Various potential alternative uses are available for the assets, depending on the real estate market conditions and economic dynamics of submarkets. Our repositioning considerations include: market viability, strategy alignment, scale of opportunity, and risk & returns.
+
+![A circular diagram showing the value creation pathways. At the center is an orange circle labeled 'Review'. Four arrows radiate from 'Review' to four grey circles: 'Acquire' (top), 'Recycle' (bottom), 'Relet' (left), and 'Reposition' (right). The 'Relet' and 'Reposition' circles are connected to two larger grey rectangular areas. The left area is titled 'Government-leased Properties' and contains two circular images: 'Jobcentres' (a building) and 'Government Workspaces' (an office interior). The right area is titled 'Living Sector Assets' and contains two circular images: 'Student Housing' (a colorful apartment building) and 'Built-to-Rent Residential' (a modern bedroom).](d793cf7c174b89eb024d132f00679787_img.jpg)
+
+A circular diagram showing the value creation pathways. At the center is an orange circle labeled 'Review'. Four arrows radiate from 'Review' to four grey circles: 'Acquire' (top), 'Recycle' (bottom), 'Relet' (left), and 'Reposition' (right). The 'Relet' and 'Reposition' circles are connected to two larger grey rectangular areas. The left area is titled 'Government-leased Properties' and contains two circular images: 'Jobcentres' (a building) and 'Government Workspaces' (an office interior). The right area is titled 'Living Sector Assets' and contains two circular images: 'Student Housing' (a colorful apartment building) and 'Built-to-Rent Residential' (a modern bedroom).
+
+### KEY COMPETITIVE STRENGTHS
+
+Image: Icon of a house inside a circle.
+
+**1. SPECIALIST ASSET & LEASE FEATURES**
+
+- (a) Strategically located in town centres, near amenities & transport nodes
+- (b) More than 99% leased to the UK government, with Department for Work & Pensions as key occupier
+- (c) Full Repairing and Insuring (“FRI”) leases
+- (d) Advance rent collection
+
+Image: Icon of a pound sterling symbol with a magnifying glass.
+
+**2. UNIQUE CAPITAL STRUCTURE**
+
+- (a) UK Government-backed cashflow, AA-rated sovereign credit strength
+- (b) Highly optimised tax structure on par with UK-listed REITs
+- (c) Naturally hedged: assets, debts, and distributions in Pound sterling
+- (d) Advance rent collection used to reduce debt and optimise financial costs
+
+Image: Icon of a group of people with arrows indicating flow.
+
+**3. ALIGNED & EXPERIENCED LEADERSHIP**
+
+- (a) Best-in-class manager fee structure based on distributable income & DPU growth
+- (b) Seasoned team based in London and Singapore with strong track record in REITs, fund management, real estate and corporate finance
+- (c) Top leadership variable remuneration substantially in deferred units
+- (d) Sponsors & substantial unitholders hold 42% of Elite REIT units
+
+<!-- PAGE 8 -->
+
+## Corporate Milestones
+
+### KEY ACHIEVEMENTS IN FY2025
+
+### Proactive Portfolio Management
+
+Portfolio valuation increased 2.0% year-on-year (“yoy”) to £424.7 million as at 31 December 2025, underpinned by ongoing value creation initiatives and an acquisition of three government-leased properties.
+
+### Optimising Capital and Tax Structure
+
+Effective capital and treasury management measures lowered borrowing costs by 20 basis points to 4.7% from a year ago and net gearing ratio improved 180 basis points to 40.7%<sup>1</sup> as at 31 December 2025.
+
+#### Jan 2025
+
+- **Asset repositioning:**  
+Offered a total of 120 MVA power supply for a potential hyperscale and artificial intelligence-enabled capacity data centre located next to existing buildings occupied by the Department for Work and Pensions (“DWP”) *Peel Park, Blackpool*
+
+![A photograph of a large, modern, multi-story building with a prominent circular tower section, surrounded by a green lawn and trees. This is Peel Park, Blackpool.](76b4e08956dd2053370d2f8e9dd6d2a8_img.jpg)
+
+A photograph of a large, modern, multi-story building with a prominent circular tower section, surrounded by a green lawn and trees. This is Peel Park, Blackpool.
+
+Peel Park, Blackpool
+
+#### Feb 2025
+
+- **FY2024 Results:**  
+Declared FY2024 DPU of 2.87 pence, 5.0%<sup>2</sup> higher yoy, underpinned by strategic capital management, interest rate optimisation and proactive asset management
+
+![A stylized, modern architectural rendering of a building with a flat roof, large windows, and a curved entrance canopy. The building is shown in a perspective view, highlighting its geometric design.](528d839f704da63e4162ae966073e5c6_img.jpg)
+
+A stylized, modern architectural rendering of a building with a flat roof, large windows, and a curved entrance canopy. The building is shown in a perspective view, highlighting its geometric design.
+
+<sup>1</sup> Net gearing is calculated as aggregate debt less cash over total assets less cash. Aggregate Leverage calculated as per the Property Funds Appendix would be 42.8% and 43.4% as of 31 December 2025 and 31 December 2024 respectively.
+
+<sup>2</sup> FY2023 DPU adjusted based on FY2024 weighted average Units in Issue of 593.4 million.
+
+<!-- PAGE 9 -->
+
+#### Mar 2025
+
+- ▶ **Asset recycling:**  
+Completed divestment of *Crown Buildings, Caerphilly*
+- ▶ **Lease regear with key occupier:**  
+Formally commenced dialogue with the DWP on early lease renewals
+- ▶ **Contributing to positive social impact:**  
+Volunteered at a business planning clinic organised by Aidha Singapore, which provides financial literacy education to domestic workers and lower-income women in Singapore
+
+#### Apr 2025
+
+- ▶ **5<sup>th</sup> Annual General Meeting:**  
+All resolutions, including inaugural share buyback mandate, put to vote by poll and duly passed by the Unitholders of Elite UK REIT
+- ▶ **1Q 2025 Business Update:**  
+Achieved 10.2% yoy growth in distributable income to £4.8 million, supported by interest and tax savings
+- ▶ **Asset repositioning:**  
+Submitted a planning application for *Lindsay House, Dundee* in Scotland to be transformed into a 170-bed purpose-built student accommodation ("PBSA")
+
+![A photograph of Lindsay House, a multi-story building in Dundee, Scotland, which is the subject of a planning application for conversion into student accommodation.](6786ba12e3eceb3cf496108a02a37f09_img.jpg)
+
+A photograph of Lindsay House, a multi-story building in Dundee, Scotland, which is the subject of a planning application for conversion into student accommodation.
+
+Lindsay House, Dundee
+
+#### May 2025
+
+- ▶ **Asset recycling:**  
+Completed divestment of *Hilden House, Warrington*
+
+<!-- PAGE 10 -->
+
+### Corporate Milestones
+
+#### Jun 2025
+
+#### ► Acquisition of three government leased properties:
+
+Strengthened lease expiry profile and tenant mix with a £9.2 million acquisition of *Priory Court, Dover*; *Custom House, Felixstowe*; and *Merlin House, Carmarthen*
+
+##### ► Successful private placement:
+
+Partially funded acquisition with private placement of £4.0 million, which was oversubscribed with strong participation from long-only funds, multi-strategy funds and private bank clients
+
+![Exterior view of Priory Court, a modern brick building with a curved roof and large windows.](dc22d132f81aafd8d8e2ebae77bdbedd_img.jpg)
+
+Exterior view of Priory Court, a modern brick building with a curved roof and large windows.
+
+Priory Court, Dover
+
+![Exterior view of Custom House, a modern glass-fronted building with a blue sky and trees in the background.](9e80d0382f6981fb29e6d8d55dbea732_img.jpg)
+
+Exterior view of Custom House, a modern glass-fronted building with a blue sky and trees in the background.
+
+Custom House, Felixstowe
+
+![Exterior view of Merlin House, a large industrial-style building with a flat roof and a parking lot.](bd8e3fb102fd14e1edbc62f149241842_img.jpg)
+
+Exterior view of Merlin House, a large industrial-style building with a flat roof and a parking lot.
+
+Merlin House, Carmarthen
+
+#### Jul 2025
+
+##### ► 1H 2025 Results:
+
+Elite UK REIT's 1H 2025 DPU up 5.5%<sup>3</sup> yoy to 1.54 pence from counter-cyclical portfolio, prudent capital and treasury management initiatives
+
+##### ► Asset repositioning:
+
+Received planning approval from local council for the conversion of *Lindsay House, Dundee* to a 170-bed PBSA
+
+##### ► Asset recycling:
+
+Completed divestments of *St Paul's House, Chippenham* and *Victoria Road, Kirkcaldy*
+
+![3D architectural rendering of a modern building with a flat roof and large windows, featuring a yellow accent line along the roof edge.](b7b15e48a4f96ac243c3fa94fc4ff6bc_img.jpg)
+
+3D architectural rendering of a modern building with a flat roof and large windows, featuring a yellow accent line along the roof edge.
+
+3 1H 2024 DPU adjusted based on the weighted average Units in Issue of 596.2 million units as of 30 June 2025 and payout ratio of 95%.
+
+<!-- PAGE 11 -->
+
+#### Nov 2025
+
+##### ► 3Q 2025 Business Update:
+
+Distributable Income rose 6.2% yoy to £14.8 million, supported by interest savings from capital management initiatives and interest rate optimisation
+
+##### ► Asset repositioning:
+
+Completed positive pre-planning consultation for conversion of *Cambria House, Cardiff* into 348-bed PBSA
+
+![Exterior view of Cambria House, Cardiff, a multi-story building with many windows.](44149aafc1d3d15757730b3d99bb0c42_img.jpg)
+
+Exterior view of Cambria House, Cardiff, a multi-story building with many windows.
+
+Cambria House, Cardiff
+
+##### ► Contributing to positive social impact:
+
+Fundraised and volunteered in Singapore and in London for *StandOut*, a social enterprise based in the UK which helps people leaving prisons in the UK to prepare for and build confidence for job interviews
+
+#### Dec 2025
+
+► **Total Return of 34% in FY2025** and a 25% improvement in market capitalisation to £217.1 million, an improvement in trading velocity by two times, with extensive coverage by sell-side and independent analysts
+
+► **Sustained Portfolio Valuation increase since 2023** rising by 2% yoy to £424.7 million as at 31 December 2025. In addition, asset repositioning initiatives at *Peel Park, Lindsay House*, and *Cambria House* resulted in a total uplift of £7.9 million in FY2025
+
+### Strong FY2025 Results
+
+In February 2026, FY2025 DPU rose 4.5%<sup>4</sup> yoy to 3.03 pence from lower borrowing costs and contributions from new acquisitions in June 2025.
+
+The REIT also completed an early lease regear for a substantial part of DWP-occupied portfolio, extending portfolio WALE from 2.4 years to 7.2 years.
+
+4 FY2024 DPU adjusted based on the weighted average Units in Issue of 603.2 million units as of 31 December 2025 and 95% payout ratio.
+
+<!-- PAGE 12 -->
+
+# Chairman and CEO's Letter to Unitholders
+
+![A photograph of two men, David Lim and Joshua Liaw, standing in front of a large window. David Lim, on the left, is wearing a dark grey suit and has his hands in his pockets. Joshua Liaw, on the right, is wearing a dark blue suit and has his hands clasped in front of him. Both are smiling at the camera.](10953d657a5f47fdc829a800419dd370_img.jpg)
+
+A photograph of two men, David Lim and Joshua Liaw, standing in front of a large window. David Lim, on the left, is wearing a dark grey suit and has his hands in his pockets. Joshua Liaw, on the right, is wearing a dark blue suit and has his hands clasped in front of him. Both are smiling at the camera.
+
+**David Lim**  
+Chairman and Independent  
+Non-Executive Director
+
+**Joshua Liaw**  
+Chief Executive Officer
+
+“ In FY2025, portfolio valuation increased 2.0% to £424.7 million from the acquisition of three government-leased properties and ongoing value enhancement initiatives. Government-leased remains a core strategic focus; however, we are actively exploring repositioning opportunities within the existing portfolio. ”
+
+### Dear Unitholders,
+
+We are pleased to present the annual report for the financial year ended 31 December 2025 (“FY2025”). Over the past year, Elite REIT delivered one of the strongest performance amongst Singapore-listed REITs, with market capitalisation increasing by 25.4% and total unitholder return reaching 34.2%. This performance reflects continued investor demand for non-discretionary and counter-cyclical rental income in the UK.
+
+The UK economy<sup>1</sup> is estimated to have also expanded by 1.3% year-on-year in 2025 and unemployment rate remained at 5.1% at end 2025. With the REIT's key occupier being the UK's Department for Work and Pensions (“DWP”), which is responsible for welfare, pensions and child maintenance policy, Elite REIT's revenue increased 1.3% year-on-year to £38.0 million, distribution per unit rose 4.5%<sup>2</sup> year-on-year to 3.03 pence in FY2025.
+
+<sup>1</sup> Office for National Statistics (ONS), released 12 February 2026, ONS website, statistical bulletin, GDP first quarterly estimate, UK: October to December 2025
+
+<sup>2</sup> FY2024 DPU adjusted based on enlarged equity base for units issued during 2025 and 95% payout ratio. On an unadjusted basis, FY2025 DPU increased 5.6% year-on-year.
+
+<!-- PAGE 13 -->
+
+### RECONSTITUTING A MISSION CRITICAL PORTFOLIO
+
+Through a combination of accretive acquisitions and tactical divestments, Elite UK REIT Management Pte. Ltd. (“**Manager**”) further strengthened the resilience of Elite REIT’s mission critical portfolio. In June 2025, the Manager completed its first acquisition after the COVID-19 pandemic, acquiring three properties for £9.2 million, representing a 7.6% discount to the average of independent valuations<sup>3</sup> and at an attractive yield of 9.2%, higher than the portfolio’s prevailing yield of 9.0%. On a pro forma basis<sup>4</sup>, the acquisition was DPU accretive and resulted in improved gearing.
+
+The acquisition was partially funded by a £4.0 million private placement to institutional, accredited and other investors, alongside existing debt facilities, acquisition fee in units and net divestment proceeds from Hilden House, Warrington. In addition to Hilden House, Warrington, the Manager divested three other vacant assets to third parties. Collectively, the four properties were divested at an average 5% premium. Proceeds from these divestments were used to finance the June 2025 acquisition and reduce debt. Following the portfolio reconstitution, portfolio occupancy<sup>5</sup> increased from 93.9% the year before to 98.6% in FY2025 and another government department was added to our occupier mix: Department for Environment, Food and Rural Affairs, which is responsible for improving and protecting the natural environment and supporting UK’s food and farming sectors.
+
+### ASSET REPOSITIONING FOR VALUE CREATION
+
+In FY2025, portfolio valuation increased 2.0% to £424.7 million from the acquisition of three government-leased properties and ongoing value enhancement initiatives. Government-leased remains a core strategic focus; however, we are actively exploring repositioning opportunities within the existing portfolio. In line with our expanded investment mandate launched in 2024, we are also assessing selective opportunities in the Living Sector, which includes purpose-built student accommodation (“**PBSA**”) and built-to-rent (“**BTR**”) residential assets. Two assets with latent potential for PBSA have since been identified, given their favourable locations and positive market dynamics.
+
+The first, Lindsay House, Dundee, received planning approval approximately three months after submission to convert the asset into a PBSA facility. Redevelopment has commenced and remain on track for an opening aligned with the academic year starting September 2027. The REIT is working closely with a development manager and PBSA operator<sup>6</sup> to maintain strict cost discipline and delivery timetable. The second property, Cambria House, Cardiff, has also received positive feedback in its pre-planning stage.
+
+Elsewhere, Peel Park in Blackpool – which also hosts government office buildings – has been identified as a potential strategic repositioning opportunity for data centre use. Supported by its well-connected location and favourable policy developments, the site is adjacent to the M55 motorway with convenient access to Manchester and Liverpool. It also benefits from strong digital connectivity and proximity to subsea fibre-optic infrastructure and offshore windfarms. Together, these attributes position the site to capture growing demand for secure and resilient data capacity driven by cloud computing, artificial intelligence and expanding digital services.
+
+The Manager had submitted a planning application to convert the portion of the land not occupied by the existing office buildings to data centre use, together with offers of a significant 120 MVA power supply suitable for potential hyperscale and artificial intelligence-enabled capacity. Planning consent was received in February 2026, and we are actively exploring the potential monetisation options for the site with the objective of maximising value for Unitholders.
+
+### EARLY LEASE RENEWALS MITIGATES 2028 RISK
+
+Proactive tenant engagement ahead of the 2028 lease expiries has enabled the REIT to conclude negotiations and enter into new lease agreements with The Secretary of State for Housing, Communities and Local Government of the United Kingdom for properties occupied by the DWP (“**New Lease Agreements**”).
+
+Aggregate rent under the New Lease Agreements, prior to subsequent CPI-linked rent reviews<sup>7</sup> amounts to £24.3 million annually, with no lease breaks. The DWP also has options to renew for (i) a further five years for new leases of five years or more from 1 April 2028; and (ii) a further three years for new leases of three years or less from 1 April 2028 (“**Option Leases**”).
+
+These lease renewals significantly enhance the REIT’s lease expiry profile, which is now amongst the longest within the Singapore REIT sector. Lease expiry exposure in 2028 has been materially reduced from 95.7% of gross rental income to 32.0%. Portfolio’s WALE also improves to 7.2 years on a pro forma basis as at 31 December 2025. Importantly, investors will continue to benefit from secure, government-backed income with sustainable growth from mission-critical assets for an extended period.
+
+Completing negotiations early for a substantial portion of our portfolio underscores the depth of our tenant relationships. Discussions for remaining DWP-occupied properties are ongoing.
+
+<sup>3</sup> Colliers International Property Consultants Limited (“Colliers”) and CBRE Limited (“CBRE”, together with Colliers, the “Independent Valuers”)
+
+<sup>4</sup> Based on FY2024 Audited Financial Statements.
+
+<sup>5</sup> Operational assets excluding Lindsay House, Dundee and Cambria House, Cardiff which are earmarked for asset repositioning into purpose-built student accommodation assets.
+
+<sup>6</sup> Mys Asset Management Limited
+
+<sup>7</sup> Annually compounded CPI-linked rent reversion, with a minimum increase of 1% and a maximum of 5%, on 1 April 2033 and at commencement of Option Leases if exercised.
+
+<!-- PAGE 14 -->
+
+# Chairman and CEO’s Letter to Unitholders
+
+### SAFEGUARDING RETURNS WITH TREASURY MANAGEMENT
+
+Two years ago, Elite REIT’s net gearing ratio was at 47.5%, near a regulatory limit of 50.0%. To strengthen the REIT’s financial position, proceeds from dilapidation settlements, divestments of vacant assets, and the REIT’s first equity fundraising<sup>8</sup> were deployed to reduce borrowings.
+
+With 100% of the REIT’s borrowings also sustainability-linked, the REIT was also able to achieve a margin reduction by meeting portfolio sustainability targets. As a result of these efforts, borrowing cost also fell 50 basis points from 5.2% as at end-2023 to 4.7% at end-2025. Over the same period, net gearing ratio has significantly reduced from 47.5% to 40.7%, progressing toward our guidance of a gearing below 40.0%.
+
+### Borrowing Costs
+
+![Bar chart showing Borrowing Costs from FY2023 to FY2025. The cost decreased from 5.2% in FY2023 to 4.9% in FY2024, and further to 4.7% in FY2025. An annotation indicates an improvement of 50 basis points from FY2023 to FY2025.](bafe3c344aef7f6f79dab49c9eca89a9_img.jpg)
+
+| Fiscal Year | Borrowing Cost |
+|-|-|
+| FY2023 | 5.2% |
+| FY2024 | 4.9% |
+| FY2025 | 4.7% |
+
+Bar chart showing Borrowing Costs from FY2023 to FY2025. The cost decreased from 5.2% in FY2023 to 4.9% in FY2024, and further to 4.7% in FY2025. An annotation indicates an improvement of 50 basis points from FY2023 to FY2025.
+
+#### Net Gearing
+
+![Bar chart showing Net Gearing from FY2023 to FY2025. The ratio decreased from 47.5% in FY2023 to 42.5% in FY2024, and further to 40.7% in FY2025. An annotation indicates an improvement of 680 basis points from FY2023 to FY2025.](89dcb02be40d2949bb93de93bbf213d5_img.jpg)
+
+| Fiscal Year | Net Gearing |
+|-|-|
+| FY2023 | 47.5% |
+| FY2024 | 42.5% |
+| FY2025 | 40.7% |
+
+Bar chart showing Net Gearing from FY2023 to FY2025. The ratio decreased from 47.5% in FY2023 to 42.5% in FY2024, and further to 40.7% in FY2025. An annotation indicates an improvement of 680 basis points from FY2023 to FY2025.
+
+### NAVIGATING THE UK MARKET
+
+According to independent valuer, Colliers International Property Consultants Limited, the UK economy is expected to grow by approximately 1.0% in 2026, which is below its estimated potential rate of 1.5%. Previously, CPI was also forecasted to hit the 2.0% target by late 2026 and the 10-year gilt yield is projected to fall to approximately 4.25%. However, an evolving conflict in the Middle East has led to higher energy costs in March 2026, and the impact on inflation, interest rates and growth is uncertain.
+
+In order to remain positioned for sustainable stability and growth, the Manager will continue in the near term to focus on concluding remaining DWP lease renewals, pursuing accretive opportunities through portfolio reconstitution, advancing asset repositioning for Lindsay House, Cambria House and Peel Park, and optimising the REIT’s capital structure through a disciplined and diversified funding approach.
+
+Our Sponsors – Ho Lee Group Pte. Ltd. and Elite Partners Holdings Pte. Ltd. – and our substantial investors together hold 42% of Elite REIT’s Units, demonstrating strong alignment with Unitholders. Alongside support from our Sponsors as well as the hard work and commitment to excellence from our management, FY2025 has been an outstanding year and we would like to extend our sincere appreciation to the entire team.
+
+The Board also wishes to thank Datin Paduka Sarena Cheah and Mr Tan Chin Hwee, who stepped down as Non-Independent Non-Executive Director and as Independent Non-Executive Director respectively.
+
+Finally, we thank our Unitholders for your steadfast support as we continue to build a defensive yet growth-oriented portfolio anchored by resilient and enduring income streams from mission-critical assets.
+
+**David Lim**  
+Chairman and Independent  
+Non-Executive Director
+
+**Joshua Liaw**  
+Chief Executive Officer
+
+8 £28 million Preferential Offering of 103,354,690 units at an issue price of £0.27 per unit
+
+<!-- PAGE 15 -->
+
+## REIT and Organisation Structure
+
+### Trust Structure
+
+![Trust Structure Diagram](70de8885bd7de15723aaad5eb5c5febf_img.jpg)
+
+```
+graph TD; Unitholders[Unitholders] -.-> EliteREITSingapore[Elite REIT (Singapore)]; EliteUKREIT[Elite UK REIT Management Pte. Ltd. (Manager)] -.-> EliteREITSingapore; PerpetualTrustee[Perpetual (Asia) Limited (Trustee)] -.-> EliteREITSingapore; EliteREITSingapore -.-> EliteREITHoldings[Elite REIT Holdings Limited (UK)]; EliteREITHoldings -.-> Properties[148 Properties];
+```
+
+The Trust Structure diagram illustrates the hierarchy of the REIT. At the top is the **Unitholders** box. A dotted line connects it to the **Elite REIT (Singapore)** box. To the left of Elite REIT (Singapore) is the **Elite UK REIT Management Pte. Ltd. (Manager)** box, with the text "Provides management services to Elite REIT" above it. To the right is the **Perpetual (Asia) Limited (Trustee)** box, with the text "Acts on behalf of Unitholders" above it. Dotted lines connect these three boxes to the central Elite REIT (Singapore) box. Below Elite REIT (Singapore) is the **Elite REIT Holdings Limited (UK)** box, connected by a dotted line. At the bottom is the **148 Properties** box, also connected by a dotted line.
+
+Trust Structure Diagram
+
+### Manager Structure
+
+![Manager Structure Diagram](18722c46c9e8475524e634dedd08bac2_img.jpg)
+
+```
+graph TD; Board[Board of Directors] -.-> CEO[Chief Executive Officer]; CEO -.-> CIO[Chief Investment Officer]; CEO -.-> CFO[Chief Financial Officer]; CEO -.-> HIR[Head of Investor Relations]; Board -.-> ARCA[Audit and Risk Committee]; Board -.-> SPC[Strategic Planning Committee]; Board -.-> SC[Sustainability Committee]; Board -.-> NRC[Nominating and Remuneration Committee];
+```
+
+The Manager Structure diagram shows the governance and management layers. At the top is the **Board of Directors** box. A dotted line connects it to the **Chief Executive Officer** box. Below the CEO are three boxes: **Chief Investment Officer**, **Chief Financial Officer**, and **Head of Investor Relations**, all connected by dotted lines. Above the CEO are four boxes representing committees: **Audit and Risk Committee**, **Strategic Planning Committee**, **Sustainability Committee**, and **Nominating and Remuneration Committee**, all connected to the Board of Directors by dotted lines.
+
+Manager Structure Diagram
+
+<!-- PAGE 16 -->
+
+## Board of Directors
+
+“Elite REIT is anchored by strong corporate governance, led by a majority independent Board, with diverse expertise in areas like legal, audit and risk, real estate and compliance, to drive sustainable performance.”
+
+![Portrait of David Lim Teck Leong, Chairman and Independent Non-Executive Director.](9d5d3616a843e8063fdc3613055aaef8_img.jpg)
+
+Portrait of David Lim Teck Leong, Chairman and Independent Non-Executive Director.
+
+### DAVID LIM TECK LEONG
+
+**Chairman and Independent Non-Executive Director**
+
+Sustainability Committee (Chairman)
+
+Audit and Risk Committee (Member)
+
+Nominating and Remuneration Committee (Member)
+
+#### **Date of first appointment as a Director:**
+
+8 January 2020
+
+#### **Length of service as a Director (as at 31 December 2025):**
+
+Five Years 11 Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Laws, King's College London
+- Barrister-at-Law, Gray's Inn, London (1981)
+
+#### **Present other principal commitments:**
+
+- David Lim & Partners LLP (Founder and Managing Partner)
+- Allium Healthcare (Singapore) Pte. Ltd., a subsidiary of G.K. Goh Holdings Pte. Ltd. (Non-Executive Chairman)
+- PT Eastern Logistics (President Commissioner)
+
+#### **Past directorships in other listed companies held over the preceding three years:**
+
+- G.K. Goh Holdings Limited (now known as G.K. Goh Holdings Pte. Ltd.) (Independent and Non-Executive Director)
+
+#### **Background and working experience:**
+
+Mr Lim is the founder and Managing Partner of David Lim & Partners LLP and has been the Managing Partner since 1990. Mr Lim began his career at Rodyk & Davidson (now known as Dentons Rodyk & Davidson LLP) in 1982 with a focus in commercial litigation, corporate finance, restructuring, and mergers and acquisitions up till 1989. He has represented multiple multinational corporations and corporations from a myriad of sectors including finance and banking, fund management, private equity, oil and gas, logistics, healthcare, construction, information technology and telecommunications, property development, hospitality and shipping.
+
+He also sits on the boards of private companies in Singapore, Indonesia and Thailand in non-executive and independent capacities. He was also the Chairman and Non-Executive Director of Croesus Retail Asset Management Pte. Ltd. from 2012 to 2017. Mr Lim is an honorary legal advisor (for David Lim & Partners LLP) of the Singapore Physiotherapy Association and a Fellow of the Singapore Institute of Directors. He was also appointed by the Monetary Authority of Singapore to be a Member of the Corporate Governance Council from 2017 to 2018.
+
+<!-- PAGE 17 -->
+
+![Portrait of YEZDI PHIROZE CHINYO, Independent Non-Executive Director.](458799cad70fd71e039b539e17892e4f_img.jpg)
+
+Portrait of YEZDI PHIROZE CHINYO, Independent Non-Executive Director.
+
+### **YEZDI PHIROZE CHINYO** Independent Non-Executive Director
+
+Audit and Risk Committee (Chairman)  
+Sustainability Committee (Member)  
+Strategic Planning Committee (Member)
+
+#### **Date of first appointment as a Director:**
+
+1 July 2021
+
+#### **Length of service as a Director (as at 31 December 2025):**
+
+Four Years Six Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Commerce and a Bachelor of Laws, University of Mumbai
+- The Institute of Company Secretaries of India and The Chartered Governance Institute UK & Ireland
+- International Compliance Association
+- Certified Anti-Money Laundering Specialist
+- Financial Industry Certified Professional
+- Senior Accredited Director (Singapore Institute of Directors)
+
+#### **Present other directorships (listed companies):**
+
+- Nil
+
+#### **Present other principal commitments:**
+
+- Nil
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- Nil
+
+#### **Background and working experience:**
+
+Mr Chinoy is a financial services professional with over three decades of experience in multiple roles and responsibilities spanning the banking and financial services industry across business lines and geographies.
+
+Mr Chinoy was recently with Assicurazioni Generali S.p.A, one of the largest global insurance and asset management groups, as its Regional Chief Investment Officer for Asia from 2015 to 2022. In his role, Mr Chinoy oversaw investment strategies and was responsible for optimising investment performance of Generali's insurance operations in Asia. Mr Chinoy was also the Chief Executive Officer of Generali Investments Asia Ltd., a role he held concurrently between 2014 and 2018. Mr Chinoy also provided leadership as a director on the Board of Directors of several Generali Group Companies and Joint Ventures in China, Hong Kong and Singapore. Mr Chinoy has spent several years with other global financial institutions in Corporate Legal, Compliance and risk roles covering multiple businesses and jurisdictions.
+
+![Portrait of KOO TSAI KEE, Independent Non-Executive Director.](ceca47fd697044a50f43b1232c0347d9_img.jpg)
+
+Portrait of KOO TSAI KEE, Independent Non-Executive Director.
+
+### **KOO TSAI KEE** Independent Non-Executive Director
+
+Nominating and Remuneration Committee (Chairman)  
+Audit and Risk Committee (Member)
+
+#### **Date of first appointment as a Director:**
+
+8 January 2020
+
+#### **Length of service as a Director (as at 31 December 2025):**
+
+Five Years 11 Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Surveying (Hons), University of New South Wales, Australia
+- Master of Science (Dist), University College London, UK
+- Master of Philosophy, University of London, UK
+
+#### **Present other directorships (listed companies):**
+
+- Sanli Environmental Ltd.
+
+#### **Present other principal commitments:**
+
+- Nil
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- Nil
+
+#### **Background and working experience:**
+
+Mr Koo is currently the Advisory Director of Temasek International Advisors Pte. Ltd. He joined Temasek International Pte. Ltd. in 2011 as a managing director, specialising in strategic relations, and subsequently moved to Temasek International Advisors Pte. Ltd. in 2016. He is also a Non-Executive Director of Temasek Foundation and Temasek Foundation IPC. He spends time in grassroots work serving as 2nd Advisor of Tanjong Pagar GRC and Chairman of Audit Committee for the Tanjong Pagar Town Council. He was past Chairman of the Tanjong Pagar Town Council from 2006 to 2011. In addition, he is a Patron at RHT G.R.A.C.E Institute.
+
+Before joining Temasek, Mr Koo served in various ministries of the Singapore Government with his last appointment as the Minister of State for Defence.
+
+<!-- PAGE 18 -->
+
+## Board of Directors
+
+![Portrait of Nicholas David Ashmore, Independent Non-Executive Director.](fed351d1b7c4568a439a8682c27f8cc3_img.jpg)
+
+Portrait of Nicholas David Ashmore, Independent Non-Executive Director.
+
+**NICHOLAS DAVID ASHMORE**  
+Independent Non-Executive Director
+
+**Date of first appointment as a Director:**  
+8 January 2020
+
+**Length of service as a Director (as at 31 December 2025):**  
+Five Years 11 Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Arts (Hons), Degree in History and English, Northumbria University, UK
+
+#### **Present other directorships (listed companies):**
+
+- Nil
+
+#### **Present other principal commitments:**
+
+- Ratho Consulting Ltd. (Founder and Executive Director)
+- Equilibrium Gulf Ltd. (Executive Director)
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- Nil
+
+#### **Background and working experience:**
+
+Major General (Retired) Ashmore founded Ratho Consulting Ltd. in 2018, which specialises in providing management consultancy services in the business strategy, defence, and property and infrastructure sectors. From 2017 to 2018, he was an Operations Director with Carillion Plc, where he was responsible for facilities management contracts with the UK Government.
+
+Major General (Retired) Ashmore served in the British Army for more than 30 years, joining in 1984 and leaving in 2017 with the rank of Major General. He served at Regimental Duty with the Royal Regiment of Artillery, including on operations around the world, and also served in the UK's Ministry of Defence, where he specialised in defence resources and plans, property and infrastructure, and human resources. He was also responsible for UK Defence Estate strategy when he served as the Director of Strategy and Plans in the Defence Infrastructure Organisation from 2011 to 2015. He was a member of the UK Defence Infrastructure Board and the UK Government Construction Board.
+
+![Portrait of Tan Hai Peng Micheal, Non-Independent Non-Executive Director.](0370021f6b8409e9426e81df958a7460_img.jpg)
+
+Portrait of Tan Hai Peng Micheal, Non-Independent Non-Executive Director.
+
+**TAN HAI PENG MICHEAL**  
+Non-Independent Non-Executive Director  
+Strategic Planning Committee (Chairman)  
+Nominating and Remuneration Committee (Member)
+
+**Date of first appointment as a Director:**  
+8 January 2020
+
+**Length of service as a Director (as at 31 December 2025):**  
+Five Years 11 Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Science in Computer Engineering (Highest Hon.), Florida Institute of Technology, United States
+- Master of Business Administration (for Senior Executives), National University of Singapore
+
+#### **Present other directorships (listed companies):**
+
+- Marco Polo Marine Limited (Independent Non-Executive Chairman)
+
+#### **Present other principal commitments:**
+
+- Elite Partners Capital Pte. Ltd. (Executive Chairman)
+- Elite Partners Holdings Pte. Ltd. (Non-Executive Director)
+- Ho Lee Group Pte. Ltd. (Executive Director)
+- Teck Lee Holdings Pte. Ltd. (Executive Director)
+- TPSC Asia Pte. Ltd. (Managing Director)
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- Nil
+
+#### **Background and working experience:**
+
+Mr Tan has extensive experience in management and business development in the real estate sector. He is currently the Executive Chairman of Elite Partners Capital Pte. Ltd., where he provides leadership in forging strategic business relationships and broadening business outreach, as well as offering advice and guidance to the senior management. He is also an Executive Director of Ho Lee Group Pte. Ltd. and is responsible for the general and strategic management of the group. He previously served on the Board of two SGX-ST-listed companies.
+
+#### **Awards:**
+
+- The Public Administration Medal (Bronze) (Military) in 2020 and The Commendation Medal (Military) in 2013 for his contributions to the Singapore Armed Forces.
+- The Public Service Star and The Public Service Medal in 2017 and 2011 respectively for his contributions to community service as the Chairman of Sembawang Community Club Management Committee.
+
+<!-- PAGE 19 -->
+
+![Portrait of Victor Song Chern Chean, Non-Independent Non-Executive Director.](0adfe2c1a73ed4d130777d83dd16321d_img.jpg)
+
+Portrait of Victor Song Chern Chean, Non-Independent Non-Executive Director.
+
+**VICTOR SONG CHERN CHEAN**  
+Non-Independent Non-Executive Director  
+Strategic Planning Committee (Member)
+
+**Date of first appointment as a Director:**  
+2 August 2019
+
+**Length of service as a Director (as at 31 December 2025):**  
+Six Years Four Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Business (Business Administration), Royal Melbourne Institute of Technology
+- Certificate of Real Estate Valuation, International Management Academy
+- Certificate of Real Estate Investment Finance, Asia Pacific Real Estate Association
+
+#### **Present other directorships (listed companies):**
+
+- Nil
+
+#### **Present other principal commitments:**
+
+- Elite Partners Holdings Pte. Ltd. (Executive Director)
+- Elite Partners Capital Pte. Ltd. (Managing Director)
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- Nil
+
+#### **Background and working experience:**
+
+Mr Song has wide-ranging experience across the entire real estate investment value chain in leasing, asset management and advisory, build-to-suit activities, acquisitions, investment and divestment.
+
+He is one of the founding shareholders of Elite Partners Holdings Pte. Ltd. and the Managing Director of Elite Partners Capital Pte. Ltd. ("**Elite Partners Capital**"). He is responsible for Elite Partners Capital's management and operations, investment strategies of the various funds under management, as well as investment activities, capital markets, asset management and build-to-suit project management.
+
+He is one of the founding members of two REITs – Viva Industrial Trust ("**VIT**") and Elite REIT. During his tenure at VIT's manager, Viva Industrial Trust Management Pte. Ltd. as Head of Asset Management and Investment Director, VIT's total assets under management grew steadily to over S\$1 billion. VIT has since merged with ESR REIT (now known as ESR-LOGOS REIT).
+
+Mr Song also formulated investment strategies and executed investment transactions as part of the investment team at SGX-ST-listed Cambridge Industrial Trust (also now known as ESR REIT) and provided management and advisory services on real estate-related contracts as a consultant, and was an Operation and Marketing Manager at Lyman Group.
+
+![Portrait of Tan Dah Ching, Non-Independent Non-Executive Director.](9f8bc79bc2053c63e61288c2b52d816d_img.jpg)
+
+Portrait of Tan Dah Ching, Non-Independent Non-Executive Director.
+
+**TAN DAH CHING**  
+Non-Independent Non-Executive Director
+
+**Date of first appointment as a Director:**  
+2 August 2019
+
+**Length of service as a Director (as at 31 December 2025):**  
+Six Years Four Months
+
+#### **Academic and professional qualifications:**
+
+- Bachelor of Engineering (Chemical Engineering), National University of Singapore
+
+#### **Present other directorships (listed companies):**
+
+- Nil
+
+#### **Present other principal commitments:**
+
+- Jin Leng Investments Pte. Ltd. (Executive Director)
+
+#### **Past directorship in other listed companies held over the preceding three years:**
+
+- TSH Corporation Limited (listed on the SGX Catalist Board) (Independent and Non-Executive Director)
+
+#### **Background and working experience:**
+
+Mr Tan was Head of Capital Markets for Elite Partners Capital, where he managed the capital markets and fundraising functions. Mr Tan has about 20 years of experience in corporate finance. Prior to joining Elite Partners Capital, he was managing his own portfolio of investments. From 2008 to 2013, he was a Business Development Manager at Swissco Holdings Limited, where he oversaw the corporate finance activities. Prior to that, he was an Investment Manager at Kim Seng Holdings Pte. Ltd. from 2006 to 2008 and an Associate at Genesis Capital Pte. Ltd. from 2003 to 2006, where he was involved in initial public offerings and financial advisory.
+
+<!-- PAGE 20 -->
+
+## Management
+
+![Portrait of Joshua Liaw, Chief Executive Officer, smiling against a background of architectural wireframes.](63c666b05041841b01fdef9fa4153ff7_img.jpg)
+
+Portrait of Joshua Liaw, Chief Executive Officer, smiling against a background of architectural wireframes.
+
+**JOSHUA LIAW**  
+Chief Executive Officer
+
+Mr Joshua Liaw was appointed the Chief Executive Officer of the Manager on 17 June 2023 and works with the Board to determine the strategy for Elite REIT and with the management team to ensure that Elite REIT operates in accordance with the Manager's investment strategy.
+
+Mr Liaw has more than two decades of experience in real estate finance and fund management across the banking and real estate investment trust management sectors.
+
+Prior to his current role, Mr Liaw was Executive General Manager, Finance at the manager of Lendlease Global Commercial REIT (Lendlease REIT), where he led Lendlease REIT's investment and capital management strategy as the Chief Financial Officer. Mr Liaw was part of the team that oversaw the initial public offering of Lendlease REIT in 2019 and the acquisition of Jem in 2022.
+
+Earlier, he held roles within Lendlease including General Manager, Finance, where he was responsible for the overall finance functions across Lendlease's operations in Singapore, as well as Head of Treasury, Asia, where he was responsible for all debt capital management and treasury activities for Lendlease across Asia.
+
+Mr Liaw started his career in banking, where he held various roles in Standard Chartered Bank and Citi covering real estate funds, sovereign wealth funds, real estate investment trusts and corporate developer clients in Southeast Asia.
+
+Mr Liaw holds a Bachelor of Science in Economics (Summa cum Laude) from the Singapore Management University and a Bachelor of Business (Transport & Logistics Management) with Distinction from the Royal Melbourne Institute of Technology. He was also a recipient of the Japanese Chamber of Commerce and Industry Singapore Foundation scholarship under which he undertook studies at Waseda University.
+
+![Portrait of Michael Tong, Chief Financial Officer, wearing glasses and smiling against a background of architectural wireframes.](a251a846ffb8c1750262be87b489eeec_img.jpg)
+
+Portrait of Michael Tong, Chief Financial Officer, wearing glasses and smiling against a background of architectural wireframes.
+
+**MICHAEL TONG**  
+Chief Financial Officer
+
+Mr Michael Tong was appointed the Chief Financial Officer of the Manager on 23 November 2023 and works with the Chief Executive Officer and the other members of the management team to formulate strategic plans for Elite REIT, in accordance with the Manager's stated investment strategy.
+
+Mr Tong has more than 10 years of experience in financial reporting, financial planning and analysis, project finance, consolidation, taxation, and compliance.
+
+Prior to joining Elite REIT, Mr Tong was employed with Lendlease and was the General Manager Finance, Asia, where his core responsibilities included regional reporting, financial accounting, compliance, annual budgeting, and quarterly forecasting. Prior to joining Lendlease in 2012, he was from PwC, where he was involved in the audit of Singapore-listed corporations and multinational companies across various industries including real estate and initial public offerings.
+
+Mr Tong holds a Bachelor of Accountancy from Nanyang Technological University. He is a Chartered Accountant (Singapore) and a member of the Institute of Singapore Chartered Accountants.
+
+<!-- PAGE 21 -->
+
+![Portrait of Jonathan Edmunds, Chief Investment Officer, smiling against a background of architectural line art.](8c88a2b2e156c28098d47bdd093e67e0_img.jpg)
+
+Portrait of Jonathan Edmunds, Chief Investment Officer, smiling against a background of architectural line art.
+
+**JONATHAN EDMUNDS**  
+Chief Investment Officer
+
+Mr Jonathan Edmunds is the Chief Investment Officer of the Manager.
+
+Mr Edmunds has about 20 years of experience in the real estate industry, focusing on real estate investment and management across various sectors globally. Previously, he was the Investment and Asset Management Director of Elite UK Commercial Fund.
+
+Preceding that, Mr Edmunds was the Director of the Real Estate department of AEP Investment Management Pte. Ltd., where he was responsible for the strategic investment and transaction management for their UK, Australia and Singapore mandates. He was also a lead manager of Basil Property Trust and was responsible for investments, fund acquisitions and structuring.
+
+Mr Edmunds had previously worked in the UK and Switzerland. He was the Vice President of the Real Estate department in Beaumont Partners where he was responsible for fund raising, acquisitions, structuring, reporting, and managing the Global Student Housing and Multi-Family investment strategy. He also completed the analysis, structuring and closing of acquisitions for the company's European and North American credit income strategies.
+
+Prior to that, Mr Edmunds served as the Director of the Real Estate department of WW Advisors Ltd, managing a US\$250 million equity mandate to acquire income-producing assets in the UK and Europe. He originated and managed the acquisition of a portfolio of assets as well as structured and arranged the debt capital, implemented interest rate hedges and managed asset performance for the portfolio.
+
+Earlier in his career, Mr Edmunds was an associate at Lazard, a Corporate Finance Advisory firm in the UK. He started off as an Associate of Deutsche Bank AG's Real Estate Debt Markets department. Mr Edmunds graduated from University of the West of England with a BA (Hons) Business Studies.
+
+He also holds a Master of Arts in Property Valuation and Law from City, University of London, UK.
+
+![Portrait of Pearl Lam, Head of Investor Relations, smiling against a background of architectural line art.](495c7600c1446e741f49274bbc0d6c99_img.jpg)
+
+Portrait of Pearl Lam, Head of Investor Relations, smiling against a background of architectural line art.
+
+**PEARL LAM**  
+Head of Investor Relations
+
+Ms Pearl Lam joined the Manager in August 2024. She stewards the investor relations programme at Elite REIT and works with the Chief Executive Officer and the other members of the management to drive engagement with the investment community.
+
+Ms Lam has been providing strategic financial communications counsel to listed and non-listed corporates in Singapore since 2011. At public relations agencies, she assisted companies from the property, offshore and marine, and financials sectors. She supported her clients in capital market activities such as initial public offerings, rights issues, mergers & acquisitions, and in crisis communications. Ms Lam was also an in-house investor relations representative for large-cap financial institutions, and for Singapore's first healthcare real estate investment trust.
+
+Ms Lam graduated from the Singapore Management University with a Master of Science in Wealth Management, the University of London with a Bachelor of Science in Banking and Finance, and Ngee Ann Polytechnic with a Diploma in Mass Communication.
+
+<!-- PAGE 22 -->
+
+### Financial Review and Capital Management
+
+The REIT continued to strengthen its balance sheet and optimise capital structure, preserving value with treasury management in order to safeguard returns for Unitholders.
+
+Elite UK REIT’s revenue<sup>1</sup> increased 1.3% year-on-year (“yoy”) to £37.5 million in FY2025. The revenue growth was driven by rental reversions as well as new rental contributions from properties acquired in June 2025: Priory Court, Dover, Custom House, Felixstowe, and Merlin House, Carmarthen. In addition, assets which recorded rental uplifts in FY2024 contributed a full period of higher rents in FY2025.
+
+Other property income declined because majority of the dilapidation settlements for vacant properties were concluded in prior years. Property operating expenses rose primarily because of non-recurring asset repositioning expenditures that are expected to deliver long-term value to Unitholders. Excluding non-recurring revenue items such as dilapidation settlements and lease termination premiums, net property income saw a marginal 1.4% yoy decrease. After accounting for these one-off items and excluding the effect of straight-line rent adjustments, the reported net property income was down 3.7% yoy to £36.0 million in FY2025.
+
+Net finance cost was £14.0 million in FY2025. Excluding fair value adjustment on financial derivatives, net finance cost reduced by 11.8% yoy mainly due to proactive capital management to reduce leverage through capital recycling and debt repayments using advance rental collections, as well as a 20-basis-points decline in borrowing costs to 4.7% in FY2025. The net gearing ratio improved by 180 basis points yoy to 40.7% and interest coverage ratio strengthened to 2.6 times in FY2025 from 2.5 times in FY2024.
+
+![Icon of a gear with a percentage sign inside a blue circle.](512a0d658373aa8980ad84697e01b307_img.jpg)
+
+**Net gearing ratio**  
+**40.7%**  
+Progressing towards management guidance of ≤40% in the long term
+
+![Icon of a classical building with a percentage sign inside a blue circle.](bb122b8ea42792d56b2a4d61e3768e5c_img.jpg)
+
+**Borrowing cost**  
+**4.7%**  
+20 basis points improvement yoy
+
+Distributable income increased 4.6% yoy to £19.3 million in FY2025, underpinned by higher revenue and lower interest and tax expenses. Distribution per Unit (“DPU”) increased 5.6% yoy to 3.03 pence in FY2025. Tax expenses also declined 16.9% to £2.1 million, mainly due to reversal of prior-year tax provisions.
+
+Our distribution policy is to distribute at least 90.0% of its annual distributable income for each financial year, with distributions being made to the Unitholders on a semi-annual basis. With multiple risk factors mitigated in the second half of 2024, the Manager has maintained a distribution payout ratio of 95% for FY2025.
+
+Based on independent valuations provided by Colliers International Property Consultants Limited, the market value of the investment properties stood at £424.7 million as at 31 December 2025, up 2.0% from £416.2 million a year ago. The increase was primarily driven by asset repositioning initiatives and the acquisition of three government-leased properties. The valuation uplift also reflected advanced progress in lease regearing discussions for DWP-occupied properties, with the valuer factoring in the improved visibility and greater certainty of lease extensions with longer committed terms.
+
+1 Excludes effect of straight-line rent adjustments.
+
+<!-- PAGE 23 -->
+
+| (£'000) | FY2025 | FY2024 | YoY Change |
+|-|-|-|-|
+| <b>Revenue</b> | <b>36,590</b> | <b>36,472</b> | <b>▲ 0.3%</b> |
+| Other property income | 1,715 | 2,604 | ▼ 34.1% |
+| Property operating expenses | (3,682) | (2,734) | ▲ 34.7% |
+| <b>Net property income</b> | <b>34,623</b> | <b>36,342</b> | <b>▼ 4.7%</b> |
+| Manager's base management fee | (1,988) | (1,845) | ▲ 7.8% |
+| Trustee's fee | (106) | (106) | – |
+| Other trust expenses | (2,317) | (2,313) | ▲ 0.2% |
+| Net finance costs | (11,404) | (12,935) | ▲ 11.8% |
+| Net change in fair value of financial derivatives | (2,546) | 1,146 | N.M. |
+| (Loss)/Gain on divestment of investment properties | (80) | 321 | N.M. |
+| Net change in fair value of investment properties | (188) | 2,442 | N.M. |
+| <b>Profit before tax</b> | <b>15,994</b> | <b>23,052</b> | <b>▼ 30.6%</b> |
+| Tax expense | (2,125) | (2,557) | ▼ 16.9% |
+| <b>Profit for the year</b> | <b>13,869</b> | <b>20,495</b> | <b>▼ 32.3%</b> |
+| <b>Distributable income to Unitholders</b> | <b>19,303</b> | <b>18,454</b> | <b>▲ 4.6%</b> |
+| <b>Distribution per Unit (pence)<sup>2</sup></b> | <b>3.03</b> | <b>2.87</b> | <b>▲ 5.6%</b> |
+
+| Excluding effect of straight line rent adjustments (£'000) | FY2025 | FY2024 | YoY Change |
+|-|-|-|-|
+| Revenue | 37,973 | 37,503 | ▲ 1.3% |
+| Net property income | 36,006 | 37,373 | ▼ 3.7% |
+| Adjusted net property income <sup>3</sup> | 34,381 | 34,878 | ▼ 1.4% |
+
+#### Optimising Capital Structure
+
+| Key Financial Indicators | As at<br>31 Dec 2025 | As at<br>31 Dec 2024 |
+|-|-|-|
+| Total gross borrowings | £189.6m | £190.5m |
+| Total assets | £444.0m | £440.3m |
+| Aggregate leverage | 42.8% | 43.4% |
+| Net gearing ratio <sup>4</sup> | 40.7% | 42.5% |
+| Interest coverage ratio | 2.6x | 2.5x |
+| Weighted average debt maturity | 1.8 years | 2.8 years |
+| Proportion of fixed interest rate | 85% | 86% |
+| Borrowing cost | 4.7% | 4.9% |
+| Net asset value per unit | £0.40 | £0.41 |
+
+More than 99% of Elite UK REIT's rental income is from the UK government, and rents are paid three months in advance. In FY2025, the Manager continued to deploy the rents received in advance towards paying down the REIT's revolving credit facilities. The REIT also continues to meet its Sustainability Performance Targets<sup>5</sup>, which contributed to a margin reduction during the year.
+
+As at 31 December 2025, the REIT achieved a net gearing of 40.7% with a debt headroom of £79.4 million. This is a 680-basis points improvement from a net gearing ratio of 47.5% two years ago and a 180-basis points improvement from 42.5% a year ago.
+
+<sup>2</sup> Based on payout ratio of 95% for FY2025 and 2H2024 and 90% for 1H2024. At 100% payout ratio, the DPU for FY2025 and FY2024 are 3.19 pence and 3.11 pence respectively.
+
+<sup>3</sup> Excluding one-off revenue items, mainly dilapidation settlements and lease termination premium received.
+
+<sup>4</sup> Net gearing is calculated as aggregate debt less cash over total assets less cash.
+
+<sup>5</sup> Achieve not less than 3% and 25% of portfolio with an EPC rating of B and C and above based on floor area, respectively, by 2027 on a cumulative basis over 3 years.
+
+<!-- PAGE 24 -->
+
+## Financial Review and Capital Management
+
+Debt maturity profile (£'m)
+
+![A stacked bar chart showing the debt maturity profile for 2027 and 2029. For 2027, the total debt is £210.8m, consisting of £160.8m in Term Loan Facilities, £28.8m in Revolving Credit Facilities, and £21.2m in Undrawn facilities. For 2029, the total debt is £216.8m, consisting of £160.8m in Term Loan Facilities and £50.0m in Revolving Credit Facilities. A callout box indicates a 'REFINANCE or EXTEND 2-YEARS' option for the 2027 debt.](45329c7d9aa2bd1290af5b2027f08d7e_img.jpg)
+
+| Year | Term Loan Facilities (£'m) | Revolving Credit Facilities (£'m) | Undrawn facilities (£'m) | Total (£'m) |
+|-|-|-|-|-|
+| 2027 | 160.8 | 28.8 | 21.2 | 210.8 |
+| 2029 | 160.8 | 50.0 | 0.0 | 210.8 |
+
+A stacked bar chart showing the debt maturity profile for 2027 and 2029. For 2027, the total debt is £210.8m, consisting of £160.8m in Term Loan Facilities, £28.8m in Revolving Credit Facilities, and £21.2m in Undrawn facilities. For 2029, the total debt is £216.8m, consisting of £160.8m in Term Loan Facilities and £50.0m in Revolving Credit Facilities. A callout box indicates a 'REFINANCE or EXTEND 2-YEARS' option for the 2027 debt.
+
+All of Elite UK REIT’s debt is denominated in Pound sterling terms, creating a natural hedge. As such, the REIT is unaffected by fluctuations in foreign currency. The REIT also does not have refinancing requirements until 2027, with built-in two-year extension options providing additional runway. With tailwinds expected from a gradual easing of interest rates, the Manager will continue to seek opportunities to optimise its capital structure.
+
+#### Use of proceeds from equity fundraising
+
+In FY2024, the REIT raised approximately £28.0 million successfully through a preferential offering (“**Preferential Offering**”) of 103,354,690 new units to improve its financial flexibility through repayment of the REIT’s borrowings. The balance of gross proceeds of £0.6 million has been disbursed in full during the year for payment of fees and expenses in connection with the Preferential Offering. Such use of the proceeds is in accordance with the stated use and percentage allocated to such use, as set out in the announcement dated 18 December 2023.
+
+In FY2025, the REIT completed a DPU-accretive acquisition of three government properties in June 2025. The acquisition was partially funded by a private placement (“**Private Placement**”) that raised gross proceeds of approximately £4.0 million through the issuance of 13,560,000 Units at an issue price of £0.295 per unit, with the remaining funding from divestment proceeds and external bank borrowings.
+
+Gross proceeds from the £4.0 million Private Placement launched on 10 June 2025 have been fully utilised and contributed to the improvement in gearing and financial flexibility.
+
+| Interest Rate Sensitivity | + 100 bps in Floating Rates Only | + 100 bps in Floating Rates + Fixed Rates |
+|-|-|-|
+| Impact to Distributable Income (£'m) | 0.2 | 1.4 |
+| Impact to DPU (%) | 0.9% | 7.3% |
+| Interest Coverage Ratio | 2.6x | 2.3x |
+| EBITDA Sensitivity | 5% decrease in EBITDA | 10% decrease in EBITDA |
+| Interest Coverage Ratio | 2.5x | 2.4x |
+
+| Private Placement | £'m |
+|-|-|
+| Gross proceeds | 4.0 |
+| Use of gross proceeds to part finance the above acquisition and associated costs | (4.0) |
+| Balance of gross proceeds | - |
+
+<!-- PAGE 25 -->
+
+## Investment and Asset Management
+
+Through accretive acquisitions, tactical divestments, active tenant engagement and ongoing asset repositioning initiatives, the Manager has enhanced the resilience of the REIT’s mission-critical portfolio of 148 properties across the UK.
+
+![Icon of a coin with an upward arrow](1018cbaeb8126d17d20a2e98d8cdfd8d_img.jpg)
+
+Uplift from asset repositioning
+
+£7.9 m
+
+Peel Park, Blackpool  
+Lindsay House, Dundee  
+Cambria House, Cardiff
+
+![Icon of a clipboard with a magnifying glass](9f275a784d5961bd413806a3c0ffd217_img.jpg)
+
+Gross capital receipts generated to date<sup>1</sup>
+
+£21.9 m
+
+Fully closed out and collected
+
+According to Colliers, the UK office sector recorded a meaningful rebound in performance in the year under review. Monetary policy was supportive, investment volumes strong, and vacancy rates declined. Amidst these tailwinds, Elite REIT’s portfolio grew in resilience from portfolio reconstitution and asset repositioning. Overall, Elite REIT’s valuation increased 2.0% year-on-year to £424.7 million as at 31 December 2025. The improvement in portfolio valuation was underpinned by an accretive acquisition of three government-leased properties along with asset repositioning for its first student accommodation property in Scotland and a potential data centre development site in Blackpool.
+
+### PORTFOLIO RECONSTITUTION
+
+The REIT, through its wholly-owned subsidiary, Elite Dram Limited, completed an accretive<sup>2</sup> acquisition of three freehold or virtual freehold government-leased properties from
+
+Elite Phoenix Limited<sup>3</sup> for £9.2 million in June 2025. The three properties in aggregate had a long WALE of 7.4 years<sup>4</sup> as at 31 March 2025, more than double the REIT’s portfolio WALE then. The properties also had an attractive gross rental income yield of 9.2%, higher than the REIT’s yield before the acquisition. Following the acquisition, the gross rental income contribution from non-DWP government tenants increased 1.5x.
+
+In 2025, the Manager successfully divested vacant assets to third parties at an average 5% premium in aggregate. Apart from reducing holding costs, these tactical divestments and their dilapidation settlements helped to reduce the REIT’s financing costs and acquisition costs for the acquisition of three government-leased properties in June 2025. The divestments contributed to an improvement in the REIT’s occupancy, which rose almost three percentage points to 98.6%<sup>5</sup> as at 31 December 2025 from 95.8% the year before.
+
+#### Acquisitions
+
+| No. | Property Name | Property Address | Region | Tenant | Purchase | Valuation <sup>6</sup> (£’m) | Completion Date |
+|-|-|-|-|-|-|-|-|
+|  |  |  |  |  | Price (£’m) |  |  |
+| 1 | Custom House, Felixstowe | Custom House, View Point Road, Felixstowe, IP11 3RF | East | Home Office | 3.4 | 3.7 | 20 Jun 25 |
+| 2 | Merlin House, Carmarthen | Parc Pensarn, Carmarthen, SA31 2NF | Wales | DEFRA | 1.8 | 2.3 | 20 Jun 25 |
+| 3 | Priory Court, Dover | Priory Court, St Johns Road, Dover, CT17 9SH | South East | Home Office | 4.0 | 4.7 | 20 Jun 25 |
+| Total |  |  |  |  | 9.2 | 10.7 |  |
+
+1 As at 31 Dec 2025.
+
+2 On a pro forma basis as at 31 December 2024, the New Properties were 0.6% DPU accretive.
+
+3 A wholly-owned subsidiary of Elite UK Commercial Fund III.
+
+4 By gross rental income.
+
+5 Excluding development assets: Lindsay House, Dundee, and Cambria House, Cardiff.
+
+6 Based on independent valuation by Colliers International Property Consultants Limited as at 31 December 2025.
+
+<!-- PAGE 26 -->
+
+## Investment and Asset Management
+
+#### Divestments
+
+| No. | Property Name | Property Address | Region | Purchaser | Divestment Price (£'m) | Valuation (£'m) | Completion Date |
+|-|-|-|-|-|-|-|-|
+|  |  |  |  |  |  |  |  |
+| 1 | Crown Buildings, Caerphilly | Claude Road, Caerphilly, CF83 1WT | Wales | Trivallis Ltd | 0.7 | 0.6 <sup>7</sup> | 3 Mar 25 |
+| 2 | Hilden House, Warrington | Winmarleigh Street, Warrington, WA1 1LA | North West | Caro Developments Ltd | 3.3 | 3.1 <sup>8</sup> | 14 May 25 |
+| 3 | St Paul's House | Marshfield Road, Chippenham, SN15 1LA | South West | Abode & Co Holdings Limited | 1.6 | 1.4 <sup>8</sup> | 18 Jul 25 |
+| 4 | Victoria Road, Kirkcaldy | 26 Victoria Road, Kirkcaldy, Fife, KY1 1EA | Scotland | Alex Penman | 0.3 | 0.5 <sup>7</sup> | 29 Jul 25 |
+| Total |  |  |  |  | 5.9 | 5.6 |  |
+
+### REPOSITIONING TO UNLOCK LATENT VALUE
+
+The REIT’s investment strategy is dual-sector focused: Government-leased and Living Sector. In 2025, the REIT proactively sought to unlock value for strategically located assets that have potential for alternative use. This approach not only expands the REIT’s growth opportunities but also enables organic portfolio growth by enhancing existing asset value. Through asset repositioning, the REIT achieved a valuation uplift of £7.9 million<sup>9</sup>.
+
+During the year, the Manager secured the required planning approval for its first PBSA conversion. The property, Lindsay House, is in Dundee where the demand for high-quality PBSA far exceeds current supply. Soft strip out works have commenced and the conversion is slated
+
+for completion before the start of 2027 academic year. The conversion is also expected to lead to a reduction in embodied carbon emissions and an improvement in energy performance. Building on this momentum, the Manager has completed positive pre-planning consultation for Cambria House, Cardiff.
+
+The Manager has also identified Peel Park, Blackpool as an asset with significant potential to be converted into a cutting-edge data centre. In view of its potential, the Manager submitted a planning application and has been offered 120 MVA power on a single feed. Through this process, the valuation of Peel Park, Blackpool has improved 22.1% yoy to £40 million as at 31 December 2025. Pending planning approvals, the Manager is seeking a strategic divestment of Peel Park, Blackpool to maximise value for Unitholders.
+
+#### Asset repositioning
+
+| No. | Property Name | Property Address | Region | Current Use | New Use | Status |
+|-|-|-|-|-|-|-|
+| 1 | Cambria House, Cardiff | Ty Cambria, 29 Newport Road, Cardiff, CF24 0TP | Wales | Commercial (Office) | Commercial (PBSA) | Ongoing Discussion |
+| 2 | Lindsay House, Dundee | Lindsay House, 18-30 Ward Road, Dundee, DD1 1NE | Scotland | Commercial (Office) | Commercial (PBSA) | Planning Approval Received |
+| 3 | Peel Park, Blackpool | Brunel Way, Blackpool, FY4 5ES | North West | Commercial (Office) | Data Centre | Planning Approval Received <sup>10</sup> |
+
+7 Based on an independent valuation conducted by CBRE Limited as at 31 December 2024.  
+8 Based on an independent valuation conducted by CBRE Limited as at 30 June 2024.  
+9 Comprising £7.2m from Peel Park, Blackpool, £0.6m from Lindsay House, Dundee and £0.07m from Cambria House, Cardiff.  
+10 In February 2026
+
+<!-- PAGE 27 -->
+
+### TENANT ENGAGEMENT FOR SECURE INCOME
+
+In our portfolio, the proportion of lease expiries<sup>11</sup> in 2028 was 95.7%. In 2025, the Manager began negotiations on leases for properties occupied by the DWP and on 5 February 2026 the REIT entered into new lease agreements with The Secretary of State for Housing, Communities and Local Government of the United Kingdom for £24.3 million of new lease agreements, extending leases by up to ten years from March 2028 and resulting in a up to 12-year income expiry profile. This represents approximately 69% of all existing lease income received from properties occupied by the DWP.
+
+Following the New Lease Agreements, expiries in 2028 are materially derisked and lowered from 95.7% of gross rental income to 32.0%. The REIT’s portfolio’s WALE also improves to 7.2 years on a pro forma basis as at 31 December 2025. Unlike the previous lease agreements, there are no lease breaks in the New Lease Agreements.
+
+Being able to complete negotiations early for a substantial portion of our portfolio underscores the depth of our tenant relationships. As we continue to engage our tenants for the rest of our portfolio and carry out other asset repositioning and value creation initiatives, we are confident that Elite UK REIT will remain positioned to yield long-term value for Unitholders.
+
+| Tenants (#) | % of Gross Rental Income <sup>1</sup> |
+|-|-|
+| <b>Government (6)</b> | <b>99.2%</b> |
+| DWP | 92.3% |
+| MOD | 2.4% |
+| Home Office | 2.1% |
+| HM Courts & Tribunals Service | 1.4% |
+| DEFRA | 0.7% |
+| Environment Agency | 0.3% |
+| <b>Others (5)</b> | <b>0.8%</b> |
+| Commercial (1) | 0.3% |
+| Healthcare (1) | 0.3% |
+| Retail (3) | 0.2% |
+| <b>Total (11)</b> | <b>100.0%</b> |
+
+(1) Based on annualised gross rental income as of 31 December 2025
+
+#### Before Lease Regears
+
+![Bar chart showing lease expiry percentages before lease regears. The chart shows a massive spike in 2028 at 95.7%, with very low percentages for other years: 0.7% in 2029, 1.2% in 2030, 1.1% in 2031, and 1.2% in 2032 and beyond. A circular icon indicates WALE of 2.4 years.](155bd5ec49c26532be9f04b06904002e_img.jpg)
+
+**WALE 2.4 years**
+
+- Tower of lease expiries in FY2028 with 95.7% of gross rental income
+- Lease breaks exist in lease agreements but were removed in 2023
+
+| Year | % of Gross Rental Income |
+|-|-|
+| 2026 | 0.0% |
+| 2027 | 0.0% |
+| 2028 | 95.7% |
+| 2029 | 0.7% |
+| 2030 | 1.2% |
+| 2031 | 1.1% |
+| 2032 and beyond | 1.2% |
+
+Bar chart showing lease expiry percentages before lease regears. The chart shows a massive spike in 2028 at 95.7%, with very low percentages for other years: 0.7% in 2029, 1.2% in 2030, 1.1% in 2031, and 1.2% in 2032 and beyond. A circular icon indicates WALE of 2.4 years.
+
+#### After Lease Regears
+
+![Bar chart showing lease expiry percentages after lease regears. The chart shows a much more distributed profile: 32.0% in 2028, 1.0% in 2029, 1.2% in 2030, 19.8% in 2031, and 46.1% in 2032 and beyond. A circular icon indicates WALE of 7.2 years.](f73a962fa02b43355e0523718c4ddbee_img.jpg)
+
+**WALE 7.2 years**
+
+- Smoother lease maturity profile with reduced concentration in any one financial year
+- 2028 expiry exposure materially derisked and lowered to 32.0%
+- Improved cash-flow visibility through elimination of lease breaks
+
+| Year | % of Gross Rental Income |
+|-|-|
+| 2026 | 0.0% |
+| 2027 | 0.0% |
+| 2028 | 32.0% |
+| 2029 | 1.0% |
+| 2030 | 1.2% |
+| 2031 | 19.8% |
+| 2032 and beyond | 46.1% |
+
+Bar chart showing lease expiry percentages after lease regears. The chart shows a much more distributed profile: 32.0% in 2028, 1.0% in 2029, 1.2% in 2030, 19.8% in 2031, and 46.1% in 2032 and beyond. A circular icon indicates WALE of 7.2 years.
+
+11 Weighted by Gross Rental Income in FY2025
+
+<!-- PAGE 28 -->
+
+## Investor Relations
+
+![Icon representing Total Return: a circular arrow with a pound sign inside.](6f14bd1d47837ffca97f7549903e915f_img.jpg)
+
+Total Return in FY2025
+
+**+34.2%**
+
+![Icon representing Market Capitalisation: a computer monitor with a percentage sign and an upward arrow.](9c0403346b936399429a8c172f9e788a_img.jpg)
+
+Market Capitalisation
+
+**+25.4% yoy**
+
+![Icon representing Distribution Yield: a bar chart with an upward arrow and a percentage sign.](fc47187b75bbe272759bc79c789fc288_img.jpg)
+
+Distribution Yield
+
+**8.4%**
+
+In FY2025, Elite REIT continued to deliver one of the top performances amongst Singapore REITs. The REIT’s market capitalisation increased 25.4% yoy to £217.1 million. Average daily trading volume in units rose 64.7% yoy and average daily trading value doubled yoy.
+
+Unitholders received a total return of 34.2% in FY2025, including a distribution yield of 8.4%. With the REIT’s acquisition of three government-leased properties in June 2025, partially funded by a private placement, the REIT’s investor base also saw an increase in long-only funds, multi-strategy funds, and high-quality private bank clients.
+
+### Monthly Trading Performance in FY2025
+
+![A dual-axis chart showing monthly trading performance for Elite UK REIT in FY2025. The left Y-axis represents Total Unitholder Return (%) from 80 to 140. The right Y-axis represents Volume (million units) from 0 to 10. The X-axis lists months from Jan to Dec. Elite UK REIT's return is shown as blue bars, and its volume as a yellow line. The FSTREI Index is shown as a green line. Data labels for return are provided below the bars: Jan (3.2), Feb (3.3), Mar (3.0), Apr (6.7), May (3.5), Jun (6.0), Jul (5.4), Aug (7.6), Sep (9.8), Oct (9.1), Nov (5.9), Dec (4.4).](114a0f7c7ac69ab82f03d68650cf8e88_img.jpg)
+
+| Month | Elite UK REIT Return (%) | Elite UK REIT Volume (million units) | FSTREI Index (%) |
+|-|-|-|-|
+| Jan | 3.2 | ~3.5 | ~100 |
+| Feb | 3.3 | ~3.5 | ~100 |
+| Mar | 3.0 | ~3.5 | ~100 |
+| Apr | 6.7 | ~4.5 | ~100 |
+| May | 3.5 | ~4.5 | ~100 |
+| Jun | 6.0 | ~5.5 | ~100 |
+| Jul | 5.4 | ~7.5 | ~100 |
+| Aug | 7.6 | ~8.5 | ~100 |
+| Sep | 9.8 | ~8.5 | ~100 |
+| Oct | 9.1 | ~8.5 | ~100 |
+| Nov | 5.9 | ~8.5 | ~100 |
+| Dec | 4.4 | ~8.5 | ~100 |
+
+A dual-axis chart showing monthly trading performance for Elite UK REIT in FY2025. The left Y-axis represents Total Unitholder Return (%) from 80 to 140. The right Y-axis represents Volume (million units) from 0 to 10. The X-axis lists months from Jan to Dec. Elite UK REIT's return is shown as blue bars, and its volume as a yellow line. The FSTREI Index is shown as a green line. Data labels for return are provided below the bars: Jan (3.2), Feb (3.3), Mar (3.0), Apr (6.7), May (3.5), Jun (6.0), Jul (5.4), Aug (7.6), Sep (9.8), Oct (9.1), Nov (5.9), Dec (4.4).
+
+| Overview <sup>1</sup> | FY2025 | FY2024 |
+|-|-|-|
+| Opening Price | £0.295 | £0.280 |
+| Closing Price | £0.360 | £0.295 |
+| Highest Price | £0.365 | £0.320 |
+| Lowest Price | £0.265 | £0.220 |
+| Total Trading Volume (units) | 68.1m | 41.3m |
+| Average Daily Trading Volume (units) | 269.6k | 165.0k |
+| Market Capitalisation | £217.1m | £173.2m |
+| Total Return (assuming dividends are reinvested) | 34.2% | 17.1% |
+| Distribution yield for the period | 8.4% <sup>2</sup> | 9.7% <sup>3</sup> |
+| Discount to NAV | 10.0% <sup>2</sup> | 28.1% <sup>3</sup> |
+
+1 Source: Bloomberg Finance L.P.  
+2 Based on the closing Unit price of £0.360 as at 31 December 2025.  
+3 Based on the closing Unit price of £0.295 as at 31 December 2024.
+
+<!-- PAGE 29 -->
+
+### COMMUNICATION WITH THE INVESTMENT COMMUNITY
+
+Unitholdings by Geography<sup>4</sup>
+
+![Donut chart showing Unitholdings by Geography. The chart is divided into six segments: Singapore (61%), Europe and the UK (21%), Hong Kong (7%), Malaysia (3%), Rest of Asia Pacific (1%), and Others (7%).](23816aaa8e6defc50fc888da62fd59cc_img.jpg)
+
+| Geography | Percentage |
+|-|-|
+| Singapore | 61% |
+| Europe and the UK | 21% |
+| Hong Kong | 7% |
+| Malaysia | 3% |
+| Rest of Asia Pacific | 1% |
+| Others | 7% |
+
+Donut chart showing Unitholdings by Geography. The chart is divided into six segments: Singapore (61%), Europe and the UK (21%), Hong Kong (7%), Malaysia (3%), Rest of Asia Pacific (1%), and Others (7%).
+
+A dedicated investor relations team plans and drives engagement with Unitholders, investors, analysts, and the media to foster a strong and growing investment community around Elite REIT.
+
+The Manager practises regular, timely, and transparent disclosures to give Unitholders and investors a balanced and comprehensive assessment of the REIT’s performance, position and prospects, and to facilitate a continuous exchange of perspectives.
+
+![A photograph of the Elite REIT Annual General Meeting (AGM) in progress. A long table with several people seated behind it is in the foreground, with a large screen displaying the Elite REIT logo and QR codes in the background. The audience is seated in rows of chairs facing the stage.](b82dcf86cd51c5066a9abaa9c8f6c0f9_img.jpg)
+
+A photograph of the Elite REIT Annual General Meeting (AGM) in progress. A long table with several people seated behind it is in the foreground, with a large screen displaying the Elite REIT logo and QR codes in the background. The audience is seated in rows of chairs facing the stage.
+
+A yearly Annual General Meeting (“AGM”) is held and serves as the principal communication channel with Unitholders; Elite REIT engages with Unitholders via the AGM and ad-hoc Extraordinary General Meetings (“EGM”) when required.
+
+Unitholdings by Investor Type<sup>4</sup>
+
+![Donut chart showing Unitholdings by Investor Type. The chart is divided into five segments: Family offices, corporations and high net worth individuals (59%), Institutional (25%), Sponsors, the Manager, Management and Directors (9%), Retail and others (7%), and an unlabeled segment (0%).](f3c5e85b70f94b9c3c521f594d69539f_img.jpg)
+
+| Investor Type | Percentage |
+|-|-|
+| Family offices, corporations and high net worth individuals | 59% |
+| Institutional | 25% |
+| Sponsors, the Manager, Management and Directors | 9% |
+| Retail and others | 7% |
+|  | 0% |
+
+Donut chart showing Unitholdings by Investor Type. The chart is divided into five segments: Family offices, corporations and high net worth individuals (59%), Institutional (25%), Sponsors, the Manager, Management and Directors (9%), Retail and others (7%), and an unlabeled segment (0%).
+
+In FY2025, the Manager held its AGM on 30 April 2025, and it provided an effective platform for in-person interactions and engagements between Unitholders, the Board of Directors, and the Management. All resolutions were put to vote by poll and duly passed by the Unitholders, including an inaugural share buyback mandate.
+
+Following the AGM, minutes of the meetings were promptly posted on Elite REIT’s corporate website. The minutes record substantial and relevant comments or queries from Unitholders relating to the agenda of the general meeting, along with responses from the Board and Management. There were no EGMs held in FY2025.
+
+The REIT is a member of REITAS and SGListCos and the Management regularly participated in investor engagement events organised by REITAS and SGListCos which provided Unitholders with various channels to communicate their views on various matters affecting Elite REIT.
+
+As a member of REITAS and SGListCos, the Manager endeavours to foster stronger relations and greater awareness amongst the investment community via thought leadership. The management regularly participated in investor engagement events, including those organised by REITAS and SGListCos, which provided Unitholders various channels to communicate their views on various matters affecting Elite REIT.
+
+In order to strengthen and build connections with institutional investors, the Manager participates in roadshows, organised internally or in partnership with banks or with REITAS and SGX. Such roadshows provide a platform for the Manager to raise visibility of the REIT’s corporate developments and strategy. In FY2025, the Manager participated in investor roadshows in Singapore, Kuala Lumpur, Bangkok, Hong Kong and in Dubai, as well as in investor calls hosted by the banks.
+
+4 As at 31 December 2025.
+
+<!-- PAGE 30 -->
+
+## Investor Relations
+
+### Unitholders and Investors
+
+The Manager practises timely and transparent disclosures, in line with its commitment to keep Unitholders and the investment community well-informed of significant factors that affect Elite REIT’s performance and the foreseeable risks and opportunities that may have a material impact on Elite REIT’s prospects.
+
+Such information will provide Unitholders with a better understanding of Elite REIT’s performance in the context of the current business environment. This includes key events, corporate developments, and the performance of Elite REIT, as well as industry developments in the UK where its assets are located.
+
+Material information is disseminated to the public in a timely and transparent manner via SGXNET in the form of SGX announcements such as press releases, presentation slides, circulars, annual reports and sustainability reports<sup>5</sup>.
+
+In addition to SGXNET, Elite REIT’s corporate website ([www.eliteukreit.com](http://www.eliteukreit.com)) is refreshed regularly, and investors can subscribe to email alerts or follow Elite REIT’s corporate LinkedIn page and Whatsapp channel to be notified of Elite REIT’s latest developments.
+
+### Analysts and Key Opinion Leaders
+
+The Manager updates analysts and key opinion leaders on Elite REIT’s results, business updates, or significant developments through briefings. Throughout the year, seven research houses maintained their BUY calls on Elite REIT and continued to publish regular analyses. As at 31 December 2025, consensus target price increased from £0.35 to £0.41, reflecting the market’s positive sentiment about the REIT’s value creation initiatives.
+
+The Manager organises site visits and outreach events for analysts and key opinion leaders to have a first-hand experience of how the buildings in the REIT’s portfolio are being utilised by the occupiers to enable them to serve the local communities where they are located.
+
+In FY2025, a site visit to Scotland was organised and participants had the opportunity to speak directly with centre managers and experts such as valuers and city councils to gain insights into Elite REIT’s investment case. The Manager also partnered with the development manager of the conversion of Lindsay House, Dundee into a 170-bed PBSA to organise a teach-in session in Singapore about the UK student housing market.
+
+| Research House | Analyst | Email |
+|-|-|-|
+| Beansprout | Gerald Wong | gerald@growbeansprout.com |
+| CGS International | Lock Mun Yee<br>Li Jialin | munyee.lock@cgsi.com<br>jialin.li@cgsi.com |
+| DBS Group Research | Derek Tan<br>Tabitha Foo | derektan@db.com<br>tabithafoo@db.com |
+| KGI Securities | Alyssa Tee | alyssa.tee@kgi.com |
+| Phillip Securities | Paul Chew<br>Hashim Osman Bin Jamsheed<br>Darren Chan | paulchewkl@phillip.com.sg<br>hashimobj@phillip.com.sg<br>darrenchanrx@phillip.com.sg |
+| RHB Research | Vijay Natarajan | vijay.natarajan@rhbgrou.com |
+| UOB Kay Hian | Jonathan Koh | jonathankoh@uobkayhian.com |
+
+The Manager continued its momentum to engage investors through post-results and business updates briefings, group virtual conferences, one-on-one meetings, non-deal roadshows, investor webinars, conferences, and public outreach events. Through these events, the Manager reaches out to existing and potential investors, research analysts, trading representatives, the media, financial bloggers and members of the public. In FY2025, the Manager participated in over 40 events, engaging over 2,200 investors.
+
+Elite REIT has a dedicated investor relations team which is well-acquainted with issues concerning investors. Unitholders, investors, analysts, fund managers, the media and members of the public may reach out to our investor relations team for more information on Elite REIT. The investor relations team provides the directors with regular updates on investor feedback.
+
+5 Please refer to page 61 of Annual Report 2025 for our Sustainability Report.
+
+<!-- PAGE 31 -->
+
+The Manager firmly believes that effective investor relations stems from a high level of transparency and good governance. The Manager continues to value investors as fundamental stakeholders and endeavours to continue improving its engagement with Unitholders to strengthen their understanding of Elite REIT’s performance and growth strategies in the year ahead. For more information
+
+about Elite REIT’s Investor Relations Policy, please visit our corporate website ([www.eliteukreit.com](http://www.eliteukreit.com)).
+
+**Investor Relations Contact**  
+**Pearl Lam**  
+**E: [pearl.lam@eliteukreit.com](mailto:pearl.lam@eliteukreit.com)**  
+**T: (65) 6955 9999**
+
+## Financial and Distribution Calendar
+
+| Event | FY2025 | FY2026 (Provisional)* |
+|-|-|-|
+| First Quarter Business Update Announcement | 30 April 2025 | April / May 2026 |
+| Payment of Advanced Distribution <sup>6</sup> to Unitholders | 25 July 2025 | – |
+| First Half Financial Results Announcement | 31 July 2025 | August 2026 |
+| Payment of Distribution <sup>7</sup> to Unitholders | 18 September 2025 | September 2026 |
+| Nine-month Business Update Announcement | 4 November 2025 | November 2026 |
+| Full Year Financial Results Announcement | 9 February 2026 | February 2027 |
+| Payment of Distribution <sup>8</sup> to Unitholders | 30 March 2026 | March 2027 |
+| Annual General Meeting | 23 April 2026 | April 2027 |
+
+![QR code linking to Elite UK REIT's LinkedIn profile](37ea63c8c2e527a08fedd42442996b07_img.jpg)
+
+LinkedIn:
+
+<https://www.linkedin.com/company/eliteukreit>
+
+![QR code linking to Elite UK REIT's mailing list registration page](eecc27d807dab3f4c56972139212aa23_img.jpg)
+
+Register for our mailing list:
+
+[https://investor.eliteukreit.com/email\\_alerts.html](https://investor.eliteukreit.com/email_alerts.html)
+
+6
+
+Advanced Distribution per unit in Elite UK REIT for the period from 1 January 2025 to 18 June 2025 is 1.43 pence.
+
+7
+
+Distribution of 0.11 pence per unit for the period from 19 June 2025 to 30 June 2025.
+
+8
+
+Distribution of 1.49 pence per unit for the period from 1 July 2025 to 31 December 2025.
+
+<!-- PAGE 32 -->
+
+### Top Properties by Valuation As at 31 December 2025
+
+01
+
+PEEL PARK, BLACKPOOL
+
+NORTH WEST
+
+Brunel Way, Blackpool, FY4 5ES
+
+![Exterior view of Peel Park building](0569b729af52b8305d5938367fdb5c46_img.jpg)![Map of Peel Park location](9052c19bc0a4c404d799ed696c4d50ef_img.jpg)
+
+Net Internal Area
+
+156,542 sq ft
+
+Annualised Gross Rental Income
+
+£2.0 million
+
+Valuation
+
+£40.0 million
+
+Occupier
+
+DWP
+
+Land Tenure
+
+Freehold
+
+Highlights
+
+- Technology Hub for the DWP
+- 5km to Blackpool town centre & 1 hour to Liverpool and Manchester via major motorways
+- Benefits from subsea cables that connects Blackpool to Dublin and extending to Europe and the US
+
+02
+
+GLASGOW BENEFITS CENTRE, GLASGOW
+
+SCOTLAND
+
+Northgate, 96 Milton Street, Glasgow, G4 0DX
+
+![Exterior view of Glasgow Benefits Centre](c97a6f80a417c2fb26707e3f4823e597_img.jpg)![Map of Glasgow Benefits Centre location](32f65b5feeb263a858f9c9864bd485c8_img.jpg)
+
+Net Internal Area
+
+137,287 sq ft
+
+Annualised Gross Rental Income
+
+£2.2 million
+
+Valuation
+
+£16.0 million
+
+Occupier
+
+DWP
+
+Land Tenure
+
+Freehold\*
+
+Highlights
+
+- The only Passport Office in Scotland for 1 day or fast track services
+- Key administration centre for Universal Credit, DWP's benefits payment programme
+- Well serviced by public transport links with bus, metro and railway stations all within a 15 minutes' walk
+- In close proximity to Glasgow Caledonian University, University of Strathclyde as well as student and residential accommodation
+
+\* In Scotland, the equivalent to "freehold" would be "heritable" interest.
+
+<!-- PAGE 33 -->
+
+### 03
+
+#### SPRING GARDENS HOUSE, SWINDON
+
+#### SOUTH WEST
+
+Princes Street, Swindon, SN1 2HY
+
+![Exterior view of Spring Gardens House, a multi-story residential building with a mix of brick and concrete facades, featuring balconies and a modern glass extension.](837a62badec64bc26368ae42fd07e796_img.jpg)
+
+Exterior view of Spring Gardens House, a multi-story residential building with a mix of brick and concrete facades, featuring balconies and a modern glass extension.
+
+![Map showing the location of Spring Gardens House in Swindon. A red pin marks the property on Princes St, adjacent to Fleming Way and Spring Garden. A bus icon indicates nearby public transport.](2113b8011ffd556463bce54f48efd0bb_img.jpg)
+
+Map showing the location of Spring Gardens House in Swindon. A red pin marks the property on Princes St, adjacent to Fleming Way and Spring Garden. A bus icon indicates nearby public transport.
+
+#### Net Internal Area
+
+47,918 sq ft
+
+#### Annualised Gross Rental Income
+
+£0.7 million
+
+#### Valuation
+
+£8.6 million
+
+#### Occupier
+
+DWP
+
+#### Land Tenure
+
+Freehold
+
+#### Highlights
+
+- 9-storey building
+- Surrounded by leisure and retail areas
+- Less than 10 minutes' walk from Swindon railway station and well serviced by local bus routes
+
+#### 04
+
+#### CROWN HOUSE, ROMFORD
+
+#### LONDON
+
+Crown House, 30 Main Road, Romford, RM1 3HH
+
+![Exterior view of Crown House, a modern, multi-story residential building with a prominent glass facade and a mix of brick and concrete elements.](5f98c4b9c5eaa844cd72294023b60f7e_img.jpg)
+
+Exterior view of Crown House, a modern, multi-story residential building with a prominent glass facade and a mix of brick and concrete elements.
+
+![Map showing the location of Crown House in Romford. A red pin marks the property on St Edwards Way, near the A1251 and Romford Railway Station. The map also shows nearby roads like Kingston Rd, Western Rd, and Victoria Rd.](ca18c9af604055ccc23be74cc7dbffa7_img.jpg)
+
+Map showing the location of Crown House in Romford. A red pin marks the property on St Edwards Way, near the A1251 and Romford Railway Station. The map also shows nearby roads like Kingston Rd, Western Rd, and Victoria Rd.
+
+#### Net Internal Area
+
+35,119 sq ft
+
+#### Annualised Gross Rental Income
+
+£0.6 million
+
+#### Valuation
+
+£8.6 million
+
+#### Occupier
+
+DWP
+
+#### Land Tenure
+
+Freehold
+
+##### Highlights
+
+- 3-storey building
+- 15 minutes' walk from Romford station, serviced by the Elizabeth Line
+
+<!-- PAGE 34 -->
+
+#### Top Properties by Valuation As at 31 December 2025
+
+05
+
+NUTWOOD HOUSE,  
+CANTERBURY
+
+SOUTH EAST
+
+Chaucer Road,  
+Canterbury, CT1 1ZZ
+
+![Exterior view of Nutwood House, a large brick building with a gabled roof and multiple windows.](c94850d6a094ed7827108d14374dc880_img.jpg)![Map showing the location of Nutwood House on Chaucer Road in Canterbury, near the University of Kent and Canterbury Christ Church University.](8e2b6fa99613fbe158bbb17338f0c874_img.jpg)
+
+Net Internal Area
+
+27,172 sq ft
+
+Annualised Gross Rental Income
+
+£0.6 million
+
+Valuation
+
+£8.4 million
+
+Occupier
+
+DWP
+
+Land Tenure
+
+Freehold
+
+Highlights
+
+- 2-storey building
+- 5 minutes' drive from Canterbury West train station and well serviced by local bus routes from Law Courts bus station
+- In proximity to Canterbury Christ Church University
+
+06
+
+PARKLANDS,  
+FALKIRK
+
+SCOTLAND
+
+Callendar Boulevard,  
+Falkirk, FK1 1XT
+
+![Exterior view of Parklands, a large stone building with a central tower and multiple windows.](6155c56f7b0c886a52b0a849cf4029b7_img.jpg)![Map showing the location of Parklands on Callendar Boulevard in Falkirk, near Callendar Road and Mary Street.](c84d01f411df524cf782a6ca0d6bcf3f_img.jpg)
+
+Net Internal Area
+
+81,350 sq ft
+
+Annualised Gross Rental Income
+
+£0.8 million
+
+Valuation
+
+£8.0 million
+
+Occupier
+
+DWP
+
+Land Tenure
+
+Freehold\*
+
+Highlights
+
+- 3-storey building
+- Forms part of Callendar Business Park
+- Well placed for access to Junctions 4 and 5 of the M9 motorway
+
+07
+
+BROADWAY HOUSE,  
+EALING
+
+LONDON
+
+Broadway House, 86-92 Uxbridge  
+Road, Ealing, London, W13 8RA
+
+![Exterior view of Broadway House, a modern brick building with large windows and a glass entrance.](9b822a35f5d90fae3e83c766d1919265_img.jpg)![Map showing the location of Broadway House on Uxbridge Road in Ealing, near West Ealing and Walpole Park.](51d9c615f41283645b55e336809f527b_img.jpg)
+
+Net Internal Area
+
+17,303 sq ft
+
+Annualised Gross Rental Income
+
+£0.5 million
+
+Valuation
+
+£7.6 million
+
+Occupier
+
+DWP
+
+Land Tenure
+
+Freehold
+
+Highlights
+
+- Located in the central area of Ealing
+- 15 minutes' walk from Ealing Broadway Station and serviced by bus routes
+- Also houses the Ealing Assessment Centre, which conducts Work Capability Assessments for individuals claiming University Credit and Employment and Support Allowance
+
+\* In Scotland, the equivalent to “freehold” would be “heritable” interest.
+
+<!-- PAGE 35 -->
+
+08
+
+#### PECKHAM HIGH STREET
+
+#### LONDON
+
+24-26 Peckham High Street,  
+SE15 5DS
+
+![Exterior view of a 3-story brick building on Peckham High Street, London, with a 'job centre plus' sign.](e1ff48c63c0872945db7a20d4a93658f_img.jpg)
+
+Exterior view of a 3-story brick building on Peckham High Street, London, with a 'job centre plus' sign.
+
+![Map of Peckham High Street, London, showing the location of the property (red pin) near Peckham Library and Harris Academy Peckham.](36f58a7a683ba9fcb496442ebdde99f2_img.jpg)
+
+Map of Peckham High Street, London, showing the location of the property (red pin) near Peckham Library and Harris Academy Peckham.
+
+#### Net Internal Area
+
+17,470 sq ft
+
+#### Annualised Gross Rental Income
+
+£0.5 million
+
+##### Valuation
+
+£7.2 million
+
+#### Occupier
+
+DWP
+
+#### Land Tenure
+
+Freehold
+
+##### Highlights
+
+- 3-storey building
+- 5 minutes' drive from Peckham Rye train station
+
+09
+
+### OATES HOUSE, STRATFORD
+
+#### LONDON
+
+Oates House, 1 Tramway Avenue,  
+London, E15 4PN
+
+![Exterior view of a 3-story brick building on Tramway Avenue, Stratford, London, with a 'job centre plus' sign.](42e3610e183d774c548b9ac09ea3564e_img.jpg)
+
+Exterior view of a 3-story brick building on Tramway Avenue, Stratford, London, with a 'job centre plus' sign.
+
+![Map of Stratford, London, showing the location of the property (red pin) near Stratford Shopping Centre and Great Eastern Road.](806801e58d9c50d6909f32276fb18e62_img.jpg)
+
+Map of Stratford, London, showing the location of the property (red pin) near Stratford Shopping Centre and Great Eastern Road.
+
+#### Net Internal Area
+
+14,424 sq ft
+
+#### Annualised Gross Rental Income
+
+£0.4 million
+
+#### Valuation
+
+£7.0 million
+
+#### Occupier
+
+DWP
+
+#### Land Tenure
+
+Freehold
+
+#### Highlights
+
+- 3-storey building and basement
+- 8 minutes' walk from Stratford station, served by Elizabeth Line, London Underground Jubilee, Central, DLR, Overground and TfL Rail, and National Rail services
+
+10
+
+#### ST CROSS HOUSE, SOUTHAMPTON
+
+#### SOUTH EAST
+
+St Cross House, 18 Bernard Street,  
+Southampton, SO14 3PJ
+
+![Exterior view of a modern 7-story building on Bernard Street, Southampton.](7f38af0636d73871cc2a42db38b3bd5f_img.jpg)
+
+Exterior view of a modern 7-story building on Bernard Street, Southampton.
+
+![Map of Southampton, showing the location of the property (red pin) near Bernard Street and Back of the Walls.](21e56b5f097acecc524c14a4791e1986_img.jpg)
+
+Map of Southampton, showing the location of the property (red pin) near Bernard Street and Back of the Walls.
+
+#### Net Internal Area
+
+42,700 sq ft
+
+#### Annualised Gross Rental Income
+
+£0.6 million
+
+#### Valuation
+
+£6.9 million
+
+#### Occupier
+
+DWP
+
+#### Land Tenure
+
+Freehold
+
+#### Highlights
+
+- 7-storey building
+- 8 minutes' drive from the Port of Southampton
+- 12 minutes' drive from University of Southampton
+
+<!-- PAGE 36 -->
+
+## Portfolio Profiles
+
+## NORTH WEST
+
+![Icon of a building inside a circle](9695e57d75fc0739e4de79c7b0042023_img.jpg)
+
+23
+
+PROPERTIES<sup>1</sup>
+
+NORTH WEST
+
+![Map of the North West region of England showing 23 numbered locations. The map includes labels for Lancashire, Manchester, Merseyside, and Cheshire. The locations are marked with colored circles: orange for DWP JobCentre Plus, dark red for DWP Back Office, brown for Home Office, and yellow for Ministry of Defence.](4ded6c24433e94c7745e710999e9706d_img.jpg)
+
+Legend:
+
+- DWP JobCentre Plus
+- DWP Back Office
+- Home Office
+- Ministry of Defence
+
+![A photograph of a large, modern building with a curved roof and a central tower, surrounded by greenery and yellow flowers. A red circle with the number '1' is in the top left corner.](6ec000d1ceaaffb3eb238ea0d61f3c5c_img.jpg)
+
+A photograph of a large, modern building with a curved roof and a central tower, surrounded by greenery and yellow flowers. A red circle with the number '1' is in the top left corner.
+
+![A photograph of a long, multi-story red brick building with a prominent mansard roof, characteristic of the Second Empire style. The building has many windows and a central entrance with a small awning. A small orange circle with the number '2' is in the top left corner.](fb552f8e2080efe6f608a6e95d5ea4f9_img.jpg)
+
+A photograph of a long, multi-story red brick building with a prominent mansard roof, characteristic of the Second Empire style. The building has many windows and a central entrance with a small awning. A small orange circle with the number '2' is in the top left corner.
+
+![Exterior view of a modern, multi-story building with large windows and a yellow facade, identified as the building for the '3' category.](62edb5a945b9b5ab58569e92beaa6c2a_img.jpg)
+
+Exterior view of a modern, multi-story building with large windows and a yellow facade, identified as the building for the '3' category.
+
+![A photograph of a large, multi-story brick building with a central tower, identified as the University of Cambridge. A red circle with the number '4' is in the top left corner.](ef0e5cc71642e47e087e1a98d3f7b74c_img.jpg)
+
+A photograph of a large, multi-story brick building with a central tower, identified as the University of Cambridge. A red circle with the number '4' is in the top left corner.
+
+![Image 5: A large, multi-story building with a mix of stone and brickwork, featuring a prominent bay window and a flat roof with a glass extension.](26c966741525c50ccb42aac950999afd_img.jpg)
+
+Image 5: A large, multi-story building with a mix of stone and brickwork, featuring a prominent bay window and a flat roof with a glass extension.
+
+![Figure 6: A photograph of a large, modern, single-story building with a long, low profile and a flat roof. The building has large windows and a covered parking area in front. A red circle with the number '6' is in the top left corner.](63ae75eedbc0eeea2efd2ee19c2fbc7d_img.jpg)
+
+Figure 6: A photograph of a large, modern, single-story building with a long, low profile and a flat roof. The building has large windows and a covered parking area in front. A red circle with the number '6' is in the top left corner.
+
+![A photograph of a modern, multi-story office building with a dark facade and large windows, labeled with a red circle containing the number 7.](be9fe2e2b42b751fbc5361f1e8d62d89_img.jpg)
+
+A photograph of a modern, multi-story office building with a dark facade and large windows, labeled with a red circle containing the number 7.
+
+![Exterior view of a modern brick building with large windows and a green horizontal band, labeled with the number 8 in an orange circle.](943b5c4cef256d8e4b32442bab86697f_img.jpg)
+
+Exterior view of a modern brick building with large windows and a green horizontal band, labeled with the number 8 in an orange circle.
+
+<!-- PAGE 37 -->
+
+### NORTH WEST
+
+![A grid of 13 numbered photographs showing various multi-story buildings in the North West region.](a6a08eae7c853bf726cb40be8b3e545f_img.jpg)
+
+A grid of 13 numbered photographs showing various multi-story buildings in the North West region. The buildings are arranged in a grid-like fashion, with some showing modern architectural styles and others more traditional. The numbers 9 through 23 are visible in the top left corner of each photo. The background of the page features a faint, large-scale architectural line drawing of a building with multiple levels and balconies.
+
+A grid of 13 numbered photographs showing various multi-story buildings in the North West region.
+
+<!-- PAGE 38 -->
+
+## Portfolio Profiles
+
+### NORTH WEST
+
+| No. | Name of Property | Location | Valuation |  | Annualised | Actual | Purchase | Net |
+|-|-|-|-|-|-|-|-|-|
+|  |  |  | as at | 31 Dec 2025 | Gross Rental Income in FY2025 (£'m) | Rental Received in FY2025 (£'m) <sup>1</sup> | Price (£'m) | Internal Area (sq ft) <sup>2</sup> |
+| 1 | Peel Park, Blackpool | Brunel Way, Blackpool, FY4 5ES |  | 40.0 | 2.0 | 2.0 | 28.2 | 156,542 |
+| 2 | Chantry House, Chester | Chantry House, 55-59 City Road and Crew Street, Chester, CH1 3AQ |  | 5.7 | 0.5 | 0.5 | 5.3 | 34,561 |
+| 3 | Tomlinson House, Blackpool Norcross Lane | Tomlinson House, Norcross, Thornton Cleveleys, Blackpool, FY5 3WP |  | 5.7 | 0.9 | 0.9 | 10.5 | 93,502 |
+| 4 | Great Western House, Birkenhead | Great Western House, Woodside, Birkenhead, CH41 6DA |  | 5.6 | 0.8 | 0.8 | 9.1 | 80,141 |
+| 5 | Mitre House, Lancaster | Church Street, Lancaster, LA1 1EQ |  | 5.3 | 0.5 | 0.5 | 4.7 | 64,597 |
+| 6 | Blackburn Road, Burnley | Blackburn Road, Burnley, BB12 7NQ |  | 5.2 | 0.5 | 0.5 | 6.0 | 47,591 |
+| 7 | Heron House, Stockport | Wellington Street, Stockport, SK1 3BE |  | 4.2 | 0.4 | 0.4 | 4.0 | 43,271 |
+| 8 | Wilmslow Road, Manchester | 96 Wilmslow Road, Manchester, M14 5BJ |  | 2.9 | 0.2 | 0.2 | 2.5 | 22,553 |
+| 9 | St Martin's House, Bootle | Stanley Road, Bootle, L69 9BN |  | 2.8 | 0.4 | 0.4 | 4.0 | 86,418 |
+| 10 | Duchy House, Preston <sup>3</sup> | 96 Lancaster Road, Preston, PR1 1NS |  | 2.8 | 0.3 | 0.3 | 4.2 | 43,217 |
+| 11 | Units 1-2 Dallas Court, Salford <sup>4</sup> | Units 1-2, Dallas Court, Salford, M50 2GF |  | 2.6 | 0.2 | 0.2 | 1.5 | 16,044 |
+| 12 | Palatine House, Preston <sup>3</sup> | Lancaster Road, Preston, PR1 1NS |  | 2.3 | 0.2 | 0.2 | 3.5 | 36,522 |
+| 13 | Lee-Moran House, Burnley | Victoria Street, Burnley, BB11 1DD |  | 2.2 | 0.2 | 0.2 | 2.2 | 17,886 |
+| 14 | Beech House, Hyde | Clarendon Street, Hyde, SK14 2LP |  | 2.0 | 0.3 | 0.3 | 2.5 | 39,550 |
+| 15 | Brunswick House, Birkenhead | Brunswick House, 17-21 Price Street, Birkenhead, CH41 6JN |  | 1.9 | 0.2 | 0.2 | 2.1 | 27,956 |
+| 16 | Roydale House, Leigh | 2-10 Windermere Road, Leigh, WN7 1UT |  | 1.4 | 0.1 | 0.1 | 1.3 | 21,022 |
+| 17 | Silver Street, Bury | Silver Street, Bury, BL9 0DP |  | 1.1 | 0.1 | 0.1 | 1.0 | 9,352 |
+| 18 | Springfield House, Liverpool | 416 Eaton Road, Liverpool, L12 3HT |  | 1.0 | 0.1 | 0.1 | 1.1 | 10,534 |
+| 19 | Hougoumont House, Liverpool | 29 Hougoumont Avenue, Waterloo, Liverpool, L22 0PB |  | 1.0 | 0.1 | 0.1 | 1.3 | 17,082 |
+| 20 | Great Moor Street, Bolton | Jobcentre Plus, Great Moor Street, Bolton, BL3 6DT |  | 1.0 | 0.1 | 0.1 | 1.3 | 13,842 |
+| 21 | Premier House, Liverpool | Premier House, 95 Breckfield Road North, Liverpool, L5 4QY |  | 0.7 | 0.1 | 0.1 | 0.8 | 9,475 |
+| 22 | Speke Road, Liverpool | Jobcentre Plus, Speke Road, Garston, Liverpool, L19 2JZ |  | 0.7 | 0.1 | 0.1 | 0.7 | 8,317 |
+| 23 | Roskell House, Fleetwood | 11-27 Kemp Street, Fleetwood, FY7 6JX |  | 0.6 | 0.1 | 0.1 | 0.5 | 5,863 |
+| Total |  |  |  | 98.7 | 8.4 | 8.4 | 98.3 | 905,838 |
+
+1 The occupancy rate for all properties in the North West is 100%.
+
+2 The tenure for properties in North West is freehold, excluding Units 1-2 Dallas Court, Salford.
+
+3 Duchy House, Preston and Palatine House, Preston are in proximity and share the same postcode.
+
+4 Units 1-2 Dallas Court, Salford has a 99-year tenure from 24 June 1987 and the remaining tenure is 60.5 years as at 31 December 2025.
+
+<!-- PAGE 39 -->
+
+![Icon of a building inside a circle Map of Scotland showing 25 numbered locations. The map is color-coded by region: North (light blue), Central (light blue), South (light blue), and West (light blue). The locations are numbered 1 through 25. The locations are: 1. DUNBARTON, 2. STIRLING, 3. RENFREW, 4. BUTE, 5. WEST LOTHIAN, 6. LANARK, 7. DUNBARTON, 8. LANARK, 9. WEST LOTHIAN, 10. PERTH, 11. BERWICK, 12. ANGUS, 13. DUNBARTON, 14. RENFREW, 15. MORAY, 16. DUMFRIES, 17. WEST LOTHIAN, 18. ISLE OF SKYE, 19. STIRLING, 20. BUTE, 21. WIGTOWN, 22. KINCARDINE, 23. ROSS AND CROMARTY, 24. FIFE, 25. ISLE OF SKYE. The map also shows major cities like ABERDEEN, INVERNESS, and GLASGOW.](16c69c0dacd3c57ae91acd114e5f5bd2_img.jpg)
+
+# 25
+
+PROPERTIES<sup>1</sup>
+
+● DWP JobCentre Plus
+
+● DWP Back Office
+
+● Ladywell Medical Centre
+
+● Vacant
+
+## SCOTLAND
+
+Icon of a building inside a circle Map of Scotland showing 25 numbered locations. The map is color-coded by region: North (light blue), Central (light blue), South (light blue), and West (light blue). The locations are numbered 1 through 25. The locations are: 1. DUNBARTON, 2. STIRLING, 3. RENFREW, 4. BUTE, 5. WEST LOTHIAN, 6. LANARK, 7. DUNBARTON, 8. LANARK, 9. WEST LOTHIAN, 10. PERTH, 11. BERWICK, 12. ANGUS, 13. DUNBARTON, 14. RENFREW, 15. MORAY, 16. DUMFRIES, 17. WEST LOTHIAN, 18. ISLE OF SKYE, 19. STIRLING, 20. BUTE, 21. WIGTOWN, 22. KINCARDINE, 23. ROSS AND CROMARTY, 24. FIFE, 25. ISLE OF SKYE. The map also shows major cities like ABERDEEN, INVERNESS, and GLASGOW.
+
+![Property 1: A large, modern building with a glass facade and a parking lot.](4bc95c6b4eac6323f8a6498457333a75_img.jpg)
+
+Property 1: A large, modern building with a glass facade and a parking lot.
+
+![Property 2: A large, multi-story building with a central entrance and a parking lot.](15cfb04d6d02b0e125966b0edb907b68_img.jpg)
+
+Property 2: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 3: A large, multi-story building with a central entrance and a parking lot.](c188a16c19591cada6a7e3e3d690c21b_img.jpg)
+
+Property 3: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 4: A large, multi-story building with a central entrance and a parking lot.](403affb63bbbac5175158681bb89f8a3_img.jpg)
+
+Property 4: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 5: A large, multi-story building with a central entrance and a parking lot.](d0f26127e56d051a9d3d468c6b8a3308_img.jpg)
+
+Property 5: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 6: A large, multi-story building with a central entrance and a parking lot.](9cc5ec27db4e35a26008bce9b9cd0bc8_img.jpg)
+
+Property 6: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 7: A large, multi-story building with a central entrance and a parking lot.](b4123897f54700d9c35c15c044b53e12_img.jpg)
+
+Property 7: A large, multi-story building with a central entrance and a parking lot.
+
+![Property 8: A large, multi-story building with a central entrance and a parking lot.](a5401e6e135dd71a66b971729e9225c8_img.jpg)
+
+Property 8: A large, multi-story building with a central entrance and a parking lot.
+
+<!-- PAGE 40 -->
+
+## Portfolio Profiles
+
+#### SCOTLAND
+
+![Property 9: A large, multi-story residential building with a blue roof and a parking area in front.](c8f2f0357b99e801b1b0bb5faecf0787_img.jpg)
+
+9
+
+Property 9: A large, multi-story residential building with a blue roof and a parking area in front.
+
+![Property 10: A modern, single-story building with a blue roof and a parking area in front.](26aa6023727acd89c3df84889868db1f_img.jpg)
+
+10
+
+Property 10: A modern, single-story building with a blue roof and a parking area in front.
+
+![Property 11: A modern, multi-story building with a blue roof and a parking area in front.](d1a0b33e011ae524cf4bd005ad84dfd6_img.jpg)
+
+11
+
+Property 11: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 12: A modern, multi-story building with a blue roof and a parking area in front.](9091bb2edb836be5751795de218e9456_img.jpg)
+
+12
+
+Property 12: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 13: A modern, single-story building with a blue roof and a parking area in front.](240b551fe6eb50dfcbc2e84d142fb1cf_img.jpg)
+
+13
+
+Property 13: A modern, single-story building with a blue roof and a parking area in front.
+
+![Property 14: A modern, single-story building with a blue roof and a parking area in front.](ba2c793b1a04ffb1239bd5fb41614ead_img.jpg)
+
+14
+
+Property 14: A modern, single-story building with a blue roof and a parking area in front.
+
+![Property 15: A modern, multi-story building with a blue roof and a parking area in front.](ca20ab0d16e822c3a214769781602b32_img.jpg)
+
+15
+
+Property 15: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 16: A modern, multi-story building with a blue roof and a parking area in front.](5dddb446832bc0d98a7265b1d79c3054_img.jpg)
+
+16
+
+Property 16: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 17: A modern, multi-story building with a blue roof and a parking area in front.](0b2ff05a204b15e00ee9b3b8023d03d0_img.jpg)
+
+17
+
+Property 17: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 18: A modern, multi-story building with a blue roof and a parking area in front.](ab6725f2e23537749e823f5458f38245_img.jpg)
+
+18
+
+Property 18: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 19: A modern, multi-story building with a blue roof and a parking area in front.](9b77845519ed6ce33bab327fe59ace1c_img.jpg)
+
+19
+
+Property 19: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 20: A modern, multi-story building with a blue roof and a parking area in front.](7128ba6483e653167605bde401ca4fcc_img.jpg)
+
+20
+
+Property 20: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 21: A modern, multi-story building with a blue roof and a parking area in front.](d546113354a15db82c07cd3b592db353_img.jpg)
+
+21
+
+Property 21: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 22: A modern, multi-story building with a blue roof and a parking area in front.](0067484c12a0dddcf91ca15b3ac375d4_img.jpg)
+
+22
+
+Property 22: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 23: A modern, multi-story building with a blue roof and a parking area in front.](99ca4838fede3eb0125ef97cb022912e_img.jpg)
+
+23
+
+Property 23: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 24: A modern, multi-story building with a blue roof and a parking area in front.](556a4cce3eba2afb4f51583d77bc1a85_img.jpg)
+
+24
+
+Property 24: A modern, multi-story building with a blue roof and a parking area in front.
+
+![Property 25: A modern, multi-story building with a blue roof and a parking area in front.](200e1160751f95e9b7c96aad336ce6a6_img.jpg)
+
+25
+
+Property 25: A modern, multi-story building with a blue roof and a parking area in front.
+
+![A large, faint architectural sketch of a modern building with a glass facade and a parking area, overlaid on the bottom right of the page.](aa5c9f92674eeb3fc13bcdcaa5bc7a57_img.jpg)
+
+A large, faint architectural sketch of a modern building with a glass facade and a parking area, overlaid on the bottom right of the page.
+
+<!-- PAGE 41 -->
+
+#### SCOTLAND
+
+| No. | Name of Property | Location | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Annualised<br>Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+| 1 | Glasgow Benefits Centre, Glasgow | Northgate, 96 Milton Street, Glasgow, G4 0DX | 16.0 | 2.2 | 2.2 | 31.8 | 137,287 |
+| 2 | Parklands, Falkirk | Callendar Boulevard, Falkirk, FK1 1XT | 8.0 | 0.8 | 0.8 | 7.4 | 81,350 |
+| 3 | Coustonholm Road, Glasgow | 8 Coustonholm Road, Glasgow, G43 1SS | 3.8 | 0.3 | 0.3 | 3.6 | 36,124 |
+| 4 | Wallacetoun House, Ayr | John Street, Ayr, KA8 0BX | 3.3 | 0.3 | 0.3 | 3.0 | 29,207 |
+| 5 | Ladywell House, Edinburgh <sup>3</sup> | Ladywell House, Edinburgh EH12 7TF | 3.0 | 0.1 | 0.1 | 7.4 | 54,622 |
+| 6 | Crown Building, Kilmarnock | 12 and 14 Woodstock Street, Kilmarnock, KA1 2BN | 3.0 | 0.3 | 0.3 | 3.4 | 39,181 |
+| 7 | Bowling Green Street, Bellshill | 417 Main Street, Bellshill, ML4 1HT | 2.9 | 0.3 | 0.3 | 2.8 | 21,679 |
+| 8 | Flemington House, Motherwell | 600 Windmillhill Street, Motherwell, ML1 2HN | 2.9 | 0.3 | 0.3 | 2.8 | 29,268 |
+| 9 | Heron House, Falkirk | Wellside Place, Falkirk, FK1 5SE | 2.9 | 0.3 | 0.3 | 2.6 | 25,454 |
+| 10 | Claverhouse Industrial Park, Dundee | 6 Jack Martin Way, Dundee, DD4 9FF | 2.3 | 0.3 | 0.3 | 3.4 | 45,740 |
+| 11 | New Reiver House, Galashiels | New Reiver House, Roxburgh Street, Galashiels, TD1 1PD | 2.2 | 0.3 | 0.3 | 2.8 | 21,216 |
+| 12 | Lindsay House, Dundee <sup>4</sup> | Lindsay House, 18-30 Ward Road, Dundee, DD1 1NE | 2.1 | 0.0 | 0.0 | 4.7 | 39,264 |
+| 13 | Atlas Road, Glasgow | 200 Atlas Road, Glasgow, G21 4DL | 2.0 | 0.2 | 0.2 | 4.5 | 49,788 |
+| 14 | Pollokshaws Road, Glasgow | 159-181 Pollokshaws Road, Glasgow, G41 1PU | 1.7 | 0.2 | 0.2 | 2.0 | 15,812 |
+| 15 | Trinity Road, Elgin | 13-21 Trinity Road, Elgin, IV30 1RJ | 1.5 | 0.2 | 0.2 | 1.5 | 17,427 |
+| 16 | Irish Street, Dumfries | 67-75 Irish Street, Dumfries, DG1 2NU | 1.2 | 0.1 | 0.1 | 1.4 | 12,303 |
+| 17 | Whitburn Road, Bathgate | 31-33 Whitburn Road, Bathgate, EH48 1HG | 1.2 | 0.2 | 0.2 | 2.8 | 31,484 |
+| 18 | Discovery House, Stornoway | 2 Castle Street, Stornoway, HS1 2BA | 0.9 | 0.1 | 0.1 | 1.1 | 7,276 |
+| 19 | South Muirhead Road, Glasgow | 3 South Muirhead Road, Cumbernauld, Glasgow, G67 1AX | 0.9 | 0.1 | 0.1 | 0.9 | 9,097 |
+| 20 | Hall Street, Campbeltown | 40 Hall Street, Campbeltown, PA28 6BZ | 0.7 | 0.1 | 0.1 | 0.6 | 8,288 |
+| 21 | St John Street, Stranraer | 12 St John Street, Stranraer, DG9 7EL | 0.6 | 0.1 | 0.1 | 0.7 | 6,402 |
+| 22 | Castlestead House, Montrose | 4 Castle Place, Montrose, DD10 8AL | 0.3 | # | 0.1 | 0.4 | 4,246 |
+| 23 | High Street, Dingwall | 3 High Street, Dingwall, IV15 9HL | 0.3 | # | # | 0.3 | 3,438 |
+| 24 | Waggon Road, Leven | 9 Waggon Road, Leven, KY8 4PT | 0.3 | # | # | 0.3 | 4,901 |
+| 25 | Bayfield Road, Portree | Bayfield Road, Portree, Isle of Skye, IV51 9EN | 0.2 | # | # | 0.3 | 1,943 |
+| Total |  |  | 64.2 | 6.8 | 6.9 | 92.5 | 732,797 |
+
+# Amount under £50,000
+
+1 The occupancy rate for all properties in Scotland is 100%, excluding Lindsay House, Dundee and Ladywell House, Edinburgh.
+
+2 The tenure for all properties in Scotland is “heritable” interest, the equivalent to “freehold” in Scotland.
+
+3 Ladywell House, Edinburgh is partially occupied and undergoing asset management review.
+
+4 Lindsay House, Dundee is a vacant property being converted into a purpose-built student accommodation asset.
+
+<!-- PAGE 42 -->
+
+## Portfolio Profiles
+
+![Icon of a building inside a circle Map of the South East region of England showing the locations of 13 properties. The map highlights counties: Oxfordshire, Buckinghamshire, Berkshire, Surrey, Hampshire, West Sussex, Kent, East Sussex, Brighton and Hove, Portsmouth, Southampton, and the Isle of Wight. Numbered markers 1-13 indicate property locations. Markers 1, 3, 6, 8, 9, 10, 11, 12, and 13 are orange (DWP JobCentre Plus). Markers 2, 4, 5, 7, and 13 are brown (Home Office).](1c2028183a35357e7238438a4af9cab7_img.jpg)
+
+**13**  
+PROPERTIES<sup>1</sup>
+
+- DWP JobCentre Plus
+- Home Office
+
+**SOUTH EAST**
+
+Icon of a building inside a circle Map of the South East region of England showing the locations of 13 properties. The map highlights counties: Oxfordshire, Buckinghamshire, Berkshire, Surrey, Hampshire, West Sussex, Kent, East Sussex, Brighton and Hove, Portsmouth, Southampton, and the Isle of Wight. Numbered markers 1-13 indicate property locations. Markers 1, 3, 6, 8, 9, 10, 11, 12, and 13 are orange (DWP JobCentre Plus). Markers 2, 4, 5, 7, and 13 are brown (Home Office).
+
+![Property 1: A three-story red brick building with a gabled roof and multiple windows.](4103c191cea33c392bb669a73a9fab80_img.jpg)
+
+Property 1: A three-story red brick building with a gabled roof and multiple windows.
+
+![Property 2: A modern building with a large glass facade and a dark frame.](cf504c5f59d17aff988b7c672a829d5c_img.jpg)
+
+Property 2: A modern building with a large glass facade and a dark frame.
+
+![Property 3: A multi-story building with a white facade and a grid of windows.](967b21fbac685eb6734d877a40cec1ef_img.jpg)
+
+Property 3: A multi-story building with a white facade and a grid of windows.
+
+![Property 4: A three-story red brick building with a curved roofline.](d426fedab107c13e22db0712dbc1f22f_img.jpg)
+
+Property 4: A three-story red brick building with a curved roofline.
+
+![Property 5: A three-story red brick building with a gabled roof and multiple windows.](cb05e326a3eedebcfc579478a000f72f_img.jpg)
+
+Property 5: A three-story red brick building with a gabled roof and multiple windows.
+
+![Property 6: A long, two-story red brick building with a flat roof.](b81a6b9642c8282338711a6ea7f63033_img.jpg)
+
+Property 6: A long, two-story red brick building with a flat roof.
+
+![Property 7: A three-story red brick building with a flat roof.](b8ba7baf04110999c137dd115388324f_img.jpg)
+
+Property 7: A three-story red brick building with a flat roof.
+
+![Property 8: A multi-story building with a white facade and a grid of windows.](ab488a6d7d5801f36752e3906ad1b3b5_img.jpg)
+
+Property 8: A multi-story building with a white facade and a grid of windows.
+
+![Property 9: A multi-story building with a white facade and a grid of windows.](9d5d3d35503d6db57d7f648b5b3d3e3d_img.jpg)
+
+Property 9: A multi-story building with a white facade and a grid of windows.
+
+![Property 10: A multi-story building with a white facade and a grid of windows.](cfd93b664b5626c3d5266e32a5276f68_img.jpg)
+
+Property 10: A multi-story building with a white facade and a grid of windows.
+
+![Property 11: A multi-story building with a white facade and a grid of windows.](b517986520d089a34aeaee60bccbc511_img.jpg)
+
+Property 11: A multi-story building with a white facade and a grid of windows.
+
+![Property 12: A three-story red brick building with a flat roof.](c8d57a0977d6c21df5b71106357b591b_img.jpg)
+
+Property 12: A three-story red brick building with a flat roof.
+
+![Property 13: A three-story red brick building with a flat roof.](c334e23a59d55fc55f8d396d2110b4ca_img.jpg)
+
+Property 13: A three-story red brick building with a flat roof.
+
+<!-- PAGE 43 -->
+
+### SOUTH EAST
+
+| No. | Name of Property | Location | Valuation | Annualised | Actual | Purchase | Net |
+|-|-|-|-|-|-|-|-|
+|  |  |  | as at<br>31 Dec 2025<br>(£'m) | Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> |  |  |
+| 1 | Nutwood House, Canterbury | Chaucer Road, Canterbury, CT1 1ZZ | 8.4 | 0.6 | 0.6 | 9.6 | 27,172 |
+| 2 | St Cross House, Southampton | St Cross House, 18 Bernard Street, Southampton, SO14 3PJ | 6.9 | 0.6 | 0.6 | 5.5 | 42,700 |
+| 3 | Crown House, Chatham | The Brook, Chatham, ME4 4LQ | 4.8 | 0.5 | 0.5 | 6.7 | 30,088 |
+| 4 | Priory Court, Dover | Priory Court, St Johns Road, Dover, CT17 9SH | 4.7 | 0.3 | 0.3 | 4.0 | 72,052 |
+| 5 | Broadlands House, Newport | Staplers Road, Newport, Isle of Wight, PO30 2HX | 4.5 | 0.5 | 0.5 | 8.4 | 31,930 |
+| 6 | Palting House, Folkestone | Trinity Road, Folkestone, CT20 2RH | 4.1 | 0.3 | 0.3 | 4.8 | 35,968 |
+| 7 | Crown Building, Banbury | Southam Road, Banbury, OX16 2EX | 3.8 | 0.3 | 0.3 | 4.1 | 25,051 |
+| 8 | Medwyn House, Lewes | Medwyn House, Mountfield Road, Lewes, BN7 2XR | 3.8 | 0.4 | 0.4 | 6.0 | 24,440 |
+| 9 | Crown House, Worthing | High Street, Worthing, BN11 1NG | 3.6 | 0.4 | 0.4 | 6.1 | 31,503 |
+| 10 | Gloucester House, Bognor Regis | High Street, Bognor Regis, PO21 1HH | 2.5 | 0.2 | 0.2 | 3.0 | 21,318 |
+| 11 | South Western House, Aldershot | Station Road, Aldershot, GU11 1HP | 2.5 | 0.2 | 0.2 | 2.2 | 19,924 |
+| 12 | East Street, Epsom | 50 East Street, Epsom, KT17 1HQ | 2.4 | 0.2 | 0.2 | 2.6 | 8,687 |
+| 13 | Crown Buildings, Tonbridge | Crown Buildings, Bradford Street, Tonbridge, TN9 1DU | 2.3 | 0.2 | 0.2 | 3.0 | 11,480 |
+| Total |  |  | 54.3 | 4.7 | 4.7 | 66.0 | 382,313 |
+
+1 The occupancy rate for all properties in the South East is 100%.
+
+2 The tenure for all properties in the South East is freehold.
+
+<!-- PAGE 44 -->
+
+### Portfolio Profiles
+
+![Icon of a building inside a circle Map of London showing the locations of 10 DWP JobCentre Plus properties marked with orange dots and numbered 1 through 10. The map labels various London boroughs including Harrow, Barnet, Enfield, Haringey, Waltham Forest, Redbridge, Hillington, Ealing, Brent, Camden, Islington, Hackney, City of Westminster, City of London, Tower Hamlets, Newham, Barking and Dagenham, Havering, Hounslow, Kensington and Chelsea, Hammersmith and Fulham, Southwark, Greenwich, Bexley, Richmond upon Thames, Wandsworth, Lambeth, Lewisham, Kingston upon Thames, and Merton.](94796d524bd7e0f31f89a379bae95996_img.jpg)
+
+**10**  
+PROPERTIES<sup>1</sup>
+
+**LONDON**
+
+● DWP JobCentre Plus
+
+Icon of a building inside a circle Map of London showing the locations of 10 DWP JobCentre Plus properties marked with orange dots and numbered 1 through 10. The map labels various London boroughs including Harrow, Barnet, Enfield, Haringey, Waltham Forest, Redbridge, Hillington, Ealing, Brent, Camden, Islington, Hackney, City of Westminster, City of London, Tower Hamlets, Newham, Barking and Dagenham, Havering, Hounslow, Kensington and Chelsea, Hammersmith and Fulham, Southwark, Greenwich, Bexley, Richmond upon Thames, Wandsworth, Lambeth, Lewisham, Kingston upon Thames, and Merton.
+
+![Property 1: A modern building with a glass facade and a green sign.](0e15b493e5acc6fa1d411bea5cae7164_img.jpg)
+
+Property 1: A modern building with a glass facade and a green sign.
+
+![Property 2: A brick building with a green sign.](340f40c5c3c7fdaf4c4717f0cb63ed68_img.jpg)
+
+Property 2: A brick building with a green sign.
+
+![Property 3: A brick building with a green sign.](7d8028db4d53bbb5186842f59c2c371f_img.jpg)
+
+Property 3: A brick building with a green sign.
+
+![Property 4: A brick building with a green sign.](d76d940998e0bcf3c74952344024ad0b_img.jpg)
+
+Property 4: A brick building with a green sign.
+
+![Property 5: A modern building with a glass facade and a green sign.](69350f1ebebf4e4b2d5644dfc6671d7c_img.jpg)
+
+Property 5: A modern building with a glass facade and a green sign.
+
+![Property 6: A brick building with a green sign.](14a904d30fa04554c7a55a09959e198d_img.jpg)
+
+Property 6: A brick building with a green sign.
+
+![Property 7: A modern building with a glass facade and a green sign.](64270ba02f737fe19cb849f50ffee644_img.jpg)
+
+Property 7: A modern building with a glass facade and a green sign.
+
+![Property 8: A brick building with a green sign.](4ca62688976b4bef770a81683f9d9eef_img.jpg)
+
+Property 8: A brick building with a green sign.
+
+![Property 9: A brick building with a green sign.](181a45705a1f896de90f8f73c6430ba8_img.jpg)
+
+Property 9: A brick building with a green sign.
+
+![Property 10: A brick building with a green sign.](e4f0da8adb9b4b634a0109e380c5ca23_img.jpg)
+
+Property 10: A brick building with a green sign.
+
+![Faint architectural sketch of a building facade and street scene in the background.](0399f8390ece4737e022d31bb32a0984_img.jpg)
+
+Faint architectural sketch of a building facade and street scene in the background.
+
+<!-- PAGE 45 -->
+
+#### LONDON
+
+| No. | Name of Property | Location | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Annualised<br>Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+| 1 | Crown House, Romford | Crown House, 30 Main Road, Romford, RM1 3HH | 8.6 | 0.6 | 0.6 | 12.2 | 35,119 |
+| 2 | Broadway House, Ealing | Broadway House, 86-92 Uxbridge Road, Ealing, London, W13 8RA | 7.6 | 0.5 | 0.5 | 10.9 | 17,303 |
+| 3 | Peckham High Street | 24-26 Peckham High Street, SE15 5DS | 7.2 | 0.5 | 0.5 | 9.6 | 17,470 |
+| 4 | Oates House, Stratford | Oates House, 1 Tramway Avenue, London, E15 4PN | 7.0 | 0.4 | 0.4 | 8.6 | 14,424 |
+| 5 | Raydean House, Barnet | Raydean House, 15 Western Parade, Barnet, EN5 1AH | 6.8 | 0.4 | 0.4 | 8.3 | 28,716 |
+| 6 | Collyer Court, Peckham | Collyer Court, Collyer Place, Peckham, SE15 5DL | 6.8 | 0.4 | 0.4 | 8.4 | 16,786 |
+| 7 | High Road, Ilford | 564-570 High Road, Ilford, IG3 8EJ | 6.4 | 0.4 | 0.4 | 5.8 | 18,741 |
+| 8 | Kilner House, Canning Town | Kilner House, 197 Freemasons Road, London, E16 3PD | 5.0 | 0.3 | 0.3 | 6.3 | 13,276 |
+| 9 | Finchley Lane, Hendon | Crown Building, 10 Finchley Lane, Hendon, London, NW4 1DP | 4.5 | 0.3 | 0.3 | 5.6 | 15,987 |
+| 10 | Medina Road, Finsbury Park | 52-53 Medina Road, Finsbury Park, London, N7 7JX | 4.5 | 0.3 | 0.3 | 6.4 | 15,710 |
+| Total |  |  | 64.4 | 4.1 | 4.1 | 82.1 | 193,532 |
+
+1 The occupancy rate for all properties in London is 100%.
+
+2 The tenure for all properties in London is freehold.
+
+![Architectural rendering of a modern multi-story building with large glass windows and balconies.](7c0124973db6cf14cbfe5eb9c79ef092_img.jpg)
+
+Architectural rendering of a modern multi-story building with large glass windows and balconies.
+
+<!-- PAGE 46 -->
+
+## Portfolio Profiles
+
+![Icon of a building inside a circle Map of the South West region of England showing the locations of 11 properties. The map includes labels for Gloucestershire, South Gloucestershire, North Somerset, Bath and North East Somerset, Wiltshire, Devon, Dorset, Cornwall, Torbay, and Bournemouth Christchurch and Poole. Numbered orange dots (1-11) indicate the locations of the properties. A legend on the left identifies the types of properties: DWP JobCentre Plus (dark orange), DWP Back Office (medium orange), and DWP Others (light orange).](7fef73f27d4372a53355cc9bf8ac2703_img.jpg)
+
+**11**  
+PROPERTIES<sup>1</sup>
+
+- DWP JobCentre Plus
+- DWP Back Office
+- DWP Others
+
+**SOUTH WEST**
+
+Icon of a building inside a circle Map of the South West region of England showing the locations of 11 properties. The map includes labels for Gloucestershire, South Gloucestershire, North Somerset, Bath and North East Somerset, Wiltshire, Devon, Dorset, Cornwall, Torbay, and Bournemouth Christchurch and Poole. Numbered orange dots (1-11) indicate the locations of the properties. A legend on the left identifies the types of properties: DWP JobCentre Plus (dark orange), DWP Back Office (medium orange), and DWP Others (light orange).
+
+![A grid of 11 photographs showing the exterior of the properties. The photos are arranged in three rows: the first row has four photos (1-4), the second row has four photos (5-8), and the third row has three photos (9-11). Each photo is labeled with a small orange circle containing a number from 1 to 11. The properties vary in architectural style, including modern multi-story buildings, older brick structures, and a large industrial-style building.](d778f25f203fa5a385e9f6458f655763_img.jpg)
+
+A grid of 11 photographs showing the exterior of the properties. The photos are arranged in three rows: the first row has four photos (1-4), the second row has four photos (5-8), and the third row has three photos (9-11). Each photo is labeled with a small orange circle containing a number from 1 to 11. The properties vary in architectural style, including modern multi-story buildings, older brick structures, and a large industrial-style building.
+
+<!-- PAGE 47 -->
+
+### SOUTH WEST
+
+| No. | Name of Property | Location | Annualised |  |  |  | Net Internal Area (sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+|  |  |  | Valuation as at 31 Dec 2025 (£'m) | Gross Rental Income in FY2025 (£'m) | Actual Rental Received in FY2025 (£'m) <sup>1</sup> | Purchase Price (£'m) |  |
+| 1 | Spring Gardens House, Swindon | Princes Street, Swindon, SN1 2HY | 8.6 | 0.7 | 0.7 | 7.8 | 47,918 |
+| 2 | Brendon House, Taunton | Upper High Street, Taunton, TA1 3RL | 4.4 | 0.4 | 0.4 | 5.6 | 41,750 |
+| 3 | Lodge House, Bristol | Fishponds Road, Bristol, BS16 3HZ | 4.3 | 0.4 | 0.4 | 4.0 | 25,979 |
+| 4 | Regent House, Weston Super Mare | High Street, Weston Super Mare, BS23 1JH | 2.5 | 0.2 | 0.2 | 2.7 | 21,704 |
+| 5 | Summerlock House, Salisbury | Summerlock Approach, Salisbury, SP2 7RW | 2.4 | 0.2 | 0.2 | 2.7 | 17,136 |
+| 6 | Hanover House, Bridgwater | Hanover House, Northgate, Bridgwater, TA6 3HG | 2.4 | 0.2 | 0.2 | 2.1 | 21,598 |
+| 7 | Cyppa Court, Chippenham | Cyppa Court, Chippenham, SN15 3LH | 2.2 | 0.2 | 0.2 | 2.1 | 12,299 |
+| 8 | Cotswold House, Torquay | Warren Road, Torquay, TQ2 5UX | 1.8 | 0.2 | 0.2 | 3.3 | 22,260 |
+| 9 | Monks Park Avenue, Bristol | 1 Monks Park Avenue, Horfield, Bristol, BS7 0UD | 1.7 | 0.1 | 0.1 | 2.2 | 10,183 |
+| 10 | Queens House, Plymouth | Queens House, St Levan Road, Plymouth, PL2 3BD | 1.0 | 0.1 | 0.1 | 1.4 | 14,094 |
+| 11 | Kent Street, Bristol | 17-19 Kent Street, Bedminster, Bristol, BS3 3NW | 1.0 | 0.1 | 0.1 | 1.0 | 6,339 |
+| Total |  |  | 32.3 | 2.8 | 2.8 | 34.9 | 241,260 |
+
+1 The occupancy rate for all properties in the South West is 100%.
+
+2 The tenure for all properties in the South West is freehold.
+
+<!-- PAGE 48 -->
+
+### Portfolio Profiles
+
+![Icon of a building inside a circle Map of the Midlands region showing 16 numbered locations. The map includes labels for Derbyshire, Nottinghamshire, Lincolnshire, Rutland, Northamptonshire, Warwickshire, West Midlands, Worcestershire, Shropshire, Staffordshire, and Telford and Wrekin. The numbers 1 through 16 are placed on the map to indicate the locations of the properties. Property 6 is marked with a green dot, while all others are marked with orange dots.](9857175bc98d86591d24a161fe615f12_img.jpg)
+
+**16**  
+PROPERTIES<sup>1</sup>
+
+- DWP JobCentre Plus
+- DWP Back Office
+- HM Courts and Tribunals Service
+
+Icon of a building inside a circle Map of the Midlands region showing 16 numbered locations. The map includes labels for Derbyshire, Nottinghamshire, Lincolnshire, Rutland, Northamptonshire, Warwickshire, West Midlands, Worcestershire, Shropshire, Staffordshire, and Telford and Wrekin. The numbers 1 through 16 are placed on the map to indicate the locations of the properties. Property 6 is marked with a green dot, while all others are marked with orange dots.
+
+![Property 1: A large, modern, multi-story building with a parking lot in front.](4ece98b7109616bdd7b02d2da1d5cdb8_img.jpg)
+
+Property 1: A large, modern, multi-story building with a parking lot in front.
+
+![Property 2: A modern building with a large glass facade and a brick base.](015a4afa77810a7cfad7dc795369bf3f_img.jpg)
+
+Property 2: A modern building with a large glass facade and a brick base.
+
+![Property 3: A large, multi-story brick building with a traditional architectural style.](951a8ec4cb47a3c1968d06da1e90ad24_img.jpg)
+
+Property 3: A large, multi-story brick building with a traditional architectural style.
+
+![Property 4: A modern building with a glass and brick facade.](26ff7a3373e19cdf04ff8d02ad38ba6b_img.jpg)
+
+Property 4: A modern building with a glass and brick facade.
+
+![Property 5: A large, multi-story brick building with a parking lot in front.](d3cacc02f47e3b53832968887bfa0913_img.jpg)
+
+Property 5: A large, multi-story brick building with a parking lot in front.
+
+![Property 6: A modern building with a glass and brick facade.](77a3fc2cc806f951f7e873a9dfaac7d1_img.jpg)
+
+Property 6: A modern building with a glass and brick facade.
+
+![Property 7: A brick building with a green sign and a paved area in front.](6b2efa5367a9c441057adeed44098c19_img.jpg)
+
+Property 7: A brick building with a green sign and a paved area in front.
+
+![Property 8: A brick building with a curved facade and a parking lot in front.](84f1d1c87353a3d1b41bf507fa276046_img.jpg)
+
+Property 8: A brick building with a curved facade and a parking lot in front.
+
+![Property 9: A modern building with a glass and brick facade.](5a9804916ed503a7354c5fbcbf170e47_img.jpg)
+
+Property 9: A modern building with a glass and brick facade.
+
+![Property 10: A brick building with a large arched entrance and a parking lot in front.](8e3ee0f5a723f4bf88254ec74d20cb65_img.jpg)
+
+Property 10: A brick building with a large arched entrance and a parking lot in front.
+
+![Property 11: A brick building with a large, flat roof and a paved area in front.](227276d1a70534b895405af29cbd6ee5_img.jpg)
+
+Property 11: A brick building with a large, flat roof and a paved area in front.
+
+![Property 12: A brick building with a traditional architectural style and a parking lot in front.](ea52837a097e4240619910941afb4bb4_img.jpg)
+
+Property 12: A brick building with a traditional architectural style and a parking lot in front.
+
+![Property 13: A brick building with a traditional architectural style and a parking lot in front.](5debe20afc88b4f1a5afff28b85c7ddb_img.jpg)
+
+Property 13: A brick building with a traditional architectural style and a parking lot in front.
+
+![Property 14: A brick building with a traditional architectural style and a parking lot in front.](8f155641e26cfbec72306c84f96f0909_img.jpg)
+
+Property 14: A brick building with a traditional architectural style and a parking lot in front.
+
+![Property 15: A brick building with a traditional architectural style and a parking lot in front.](22a05a3520f8d739eeb1dba51e83b8c9_img.jpg)
+
+Property 15: A brick building with a traditional architectural style and a parking lot in front.
+
+![Property 16: A brick building with a traditional architectural style and a parking lot in front.](c42a483621474339f059ce50274ea0c5_img.jpg)
+
+Property 16: A brick building with a traditional architectural style and a parking lot in front.
+
+<!-- PAGE 49 -->
+
+#### MIDLANDS
+
+| No. | Name of Property | Location | Annualised |  | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+|  |  |  | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) |  |  |  |
+| 1 | Holborn House, Derby | Wyvern Business Park, Stanier Way, Derby, DE21 6BF | 4.1 | 0.5 | 0.5 | 6.4 | 35,120 |
+| 2 | Bristol Road South, Birmingham | 1300 Bristol Road South, Northfield, Birmingham, B31 2TQ | 3.6 | 0.3 | 0.3 | 4.3 | 18,996 |
+| 3 | Temple House, Wolverhampton | Temple House, Wolverhampton, WV2 4AU | 2.7 | 0.3 | 0.3 | 3.0 | 27,523 |
+| 4 | Upper Huntbach Street, Stoke-On-Trent | 91 Upper Huntbach Street, Hanley, Stoke on Trent, ST1 2BX | 2.6 | 0.2 | 0.2 | 2.7 | 21,540 |
+| 5 | Lothersdale House, Wellingborough | West Villa Road, Wellingborough, NN8 4TA | 2.5 | 0.2 | 0.2 | 4.0 | 32,313 |
+| 6 | St Katherine's House, Northampton | St Katherine's House, 21-27 St Katherine's Street, Northampton, NN1 1RS | 1.9 | 0.2 | 0.2 | 2.1 | 27,745 |
+| 7 | Crown House, Grantham | 49A Castlegate, Grantham, NG31 6SY | 1.6 | 0.2 | 0.2 | 2.7 | 24,962 |
+| 8 | Scotland House, Stourbridge | Scotland House, 169 Lower High Street, Stourbridge, DY8 1ES | 1.5 | 0.1 | 0.1 | 1.8 | 12,452 |
+| 9 | Beecroft Road, Cannock | Beecroft Road, Cannock, WS11 1JR | 1.4 | 0.1 | 0.1 | 1.8 | 31,517 |
+| 10 | High Street, Bilston | Jobcentre Plus, 14 High Street, Bilston, WV14 0DB | 1.1 | 0.1 | 0.1 | 1.7 | 10,779 |
+| 11 | George Street, Corby | Thoroughsale House, George Street, Corby, NN17 1PH | 1.1 | 0.1 | 0.1 | 1.3 | 8,847 |
+| 12 | Saxon Mill Lane, Tamworth | Jobcentre Plus, 90 Saxon Mill Lane, Tamworth, B79 7JJ | 1.1 | 0.1 | 0.1 | 1.4 | 10,698 |
+| 13 | Crown Buildings, Ilkeston | 58 South Street, Ilkeston, DE7 8TU | 1.0 | 0.1 | 0.1 | 1.4 | 18,352 |
+| 14 | Tannery House, Alfreton | King Street, Alfreton, DE55 7AF | 1.0 | 0.1 | 0.1 | 1.2 | 10,226 |
+| 15 | Washwood Heath Road, Birmingham | Jobcentre Plus, 295 Washwood Heath Road, Birmingham, B8 2XX | 0.9 | 0.1 | 0.1 | 1.0 | 14,922 |
+| 16 | Acacia Walk, Nottingham | 3 Acacia Walk, Beeston, Nottingham, NG9 2LW | 0.7 | 0.1 | 0.1 | 0.8 | 4,306 |
+| Total |  |  | 28.8 | 2.8 | 2.8 | 37.6 | 310,298 |
+
+1 The occupancy rate for all properties in the Midlands is 100%.
+
+2 The tenure for all properties in the Midlands is freehold.
+
+<!-- PAGE 50 -->
+
+## Portfolio Profiles
+
+![Icon of a building inside a circle Map of Wales showing the locations of 20 properties. The map is color-coded by county: Anglesey, Flintshire, Denbighshire, Wrexham, Conwy, Gwynedd, Powys, Ceredigion, Pembrokeshire, Carmarthenshire, Rhondda Cynon Taf, Blaenau Gwent, Merthyr Tydfil, Torfaen, Monmouthshire, Neath Port Talbot, Swansea, Bridgend, Cardiff, Newport, Vale of Glamorgan. Numbered markers indicate property locations: 1 (DWP JobCentre Plus), 2 (DWP JobCentre Plus), 3 (DWP JobCentre Plus), 4 (DEFRA), 5 (DWP JobCentre Plus), 6 (DWP JobCentre Plus), 7 (DWP JobCentre Plus), 8 (DWP JobCentre Plus), 9 (DWP JobCentre Plus), 10 (DWP JobCentre Plus), 11 (DWP JobCentre Plus), 12 (DWP JobCentre Plus), 13 (DWP JobCentre Plus), 14 (DWP JobCentre Plus), 15 (DWP JobCentre Plus), 16 (DWP JobCentre Plus), 17 (DWP JobCentre Plus), 18 (DWP JobCentre Plus), 19 (DWP JobCentre Plus), 20 (DWP JobCentre Plus).](7e2465b81aed11b2e58575a811424b75_img.jpg)
+
+# 20
+
+PROPERTIES<sup>1</sup>
+
+- DWP JobCentre Plus
+- DWP Back Office
+- DEFRA
+- Vacant
+
+## WALES
+
+Icon of a building inside a circle Map of Wales showing the locations of 20 properties. The map is color-coded by county: Anglesey, Flintshire, Denbighshire, Wrexham, Conwy, Gwynedd, Powys, Ceredigion, Pembrokeshire, Carmarthenshire, Rhondda Cynon Taf, Blaenau Gwent, Merthyr Tydfil, Torfaen, Monmouthshire, Neath Port Talbot, Swansea, Bridgend, Cardiff, Newport, Vale of Glamorgan. Numbered markers indicate property locations: 1 (DWP JobCentre Plus), 2 (DWP JobCentre Plus), 3 (DWP JobCentre Plus), 4 (DEFRA), 5 (DWP JobCentre Plus), 6 (DWP JobCentre Plus), 7 (DWP JobCentre Plus), 8 (DWP JobCentre Plus), 9 (DWP JobCentre Plus), 10 (DWP JobCentre Plus), 11 (DWP JobCentre Plus), 12 (DWP JobCentre Plus), 13 (DWP JobCentre Plus), 14 (DWP JobCentre Plus), 15 (DWP JobCentre Plus), 16 (DWP JobCentre Plus), 17 (DWP JobCentre Plus), 18 (DWP JobCentre Plus), 19 (DWP JobCentre Plus), 20 (DWP JobCentre Plus).
+
+![Property 1: A long, low-rise building with a parking lot in front.](1a71c1fcfe031ac87d6458c6b5062bf1_img.jpg)
+
+Property 1: A long, low-rise building with a parking lot in front.
+
+![Property 2: A multi-story building with a green and yellow facade.](48e4a08eda427e3eca16c3cb8ef68e61_img.jpg)
+
+Property 2: A multi-story building with a green and yellow facade.
+
+![Property 3: A modern, multi-story office building.](1dd5414c93117a86043e7ae8d3ac1c0b_img.jpg)
+
+Property 3: A modern, multi-story office building.
+
+![Property 4: A large, white industrial building with a parking lot.](46a3aaaa16c32e851710b0223cd1c656_img.jpg)
+
+Property 4: A large, white industrial building with a parking lot.
+
+![Property 5: A multi-story building with a brown facade.](54e89262e92dca2b0e02b76b480abf05_img.jpg)
+
+Property 5: A multi-story building with a brown facade.
+
+![Property 6: A multi-story building with a white facade.](33edb527bae42a1b04818001d817a1cd_img.jpg)
+
+Property 6: A multi-story building with a white facade.
+
+![Property 7: A long, low-rise building with a red facade.](ff487673f3a22a7dac3ae2dc59d2fc51_img.jpg)
+
+Property 7: A long, low-rise building with a red facade.
+
+![Property 8: A multi-story building with a white facade.](b3c8bd07a8830cf2bca908f531b1da3d_img.jpg)
+
+Property 8: A multi-story building with a white facade.
+
+![Property 9: A long, low-rise building with a parking lot in front.](297a15ea07c76d723d1065709fa5f514_img.jpg)
+
+Property 9: A long, low-rise building with a parking lot in front.
+
+![Property 10: A multi-story building with a white facade.](b403403ebb9eb4f423be5b277f6c9348_img.jpg)
+
+Property 10: A multi-story building with a white facade.
+
+![Property 11: A long, low-rise building with a white facade.](38cd4166632a157e50a827579937c9b9_img.jpg)
+
+Property 11: A long, low-rise building with a white facade.
+
+![Property 12: A multi-story building with a white facade.](1f20c181a0b4cc21e5f2b883179301af_img.jpg)
+
+Property 12: A multi-story building with a white facade.
+
+![Property 13: A multi-story building with a blue and yellow facade.](f34e95f89ce11323d777bd7f8eff352a_img.jpg)
+
+Property 13: A multi-story building with a blue and yellow facade.
+
+![Property 14: A multi-story building with a brown facade.](747f6c2b78b5a8ce09286a3c67125288_img.jpg)
+
+Property 14: A multi-story building with a brown facade.
+
+![Property 15: A multi-story building with a brick facade.](38f5264b808c14495f306c8da26d1b24_img.jpg)
+
+Property 15: A multi-story building with a brick facade.
+
+![Property 16: A multi-story building with a white facade.](bd78bd33f339f6f8a2872ac42576ff5c_img.jpg)
+
+Property 16: A multi-story building with a white facade.
+
+<!-- PAGE 51 -->
+
+#### WALES
+
+![Four photographs of properties in Wales, numbered 17 to 20. Property 17 is a long, single-story building. Property 18 is a multi-story brick building. Property 19 is a two-story building with a gabled roof. Property 20 is a two-story building with a flat roof and a car parked in front.](93fa4105c1d3c48fee6b3fd97b631387_img.jpg)
+
+Four photographs of properties in Wales, numbered 17 to 20. Property 17 is a long, single-story building. Property 18 is a multi-story brick building. Property 19 is a two-story building with a gabled roof. Property 20 is a two-story building with a flat roof and a car parked in front.
+
+| No. | Name of Property | Location | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Annualised<br>Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+| 1 | Parc Menai, Bangor <sup>3</sup> | Parc Menai, Bangor, LL57 4FD | 4.4 | 0.4 | 0.4 | 4.0 | 32,583 |
+| 2 | Crown Buildings, Bridgend | Angel Street, Bridgend, CF31 4AA | 3.8 | 0.4 | 0.4 | 4.3 | 46,058 |
+| 3 | Cambria House, Cardiff <sup>4</sup> | Ty Cambria, 29 Newport Road, Cardiff, CF24 0TP | 3.5 | 0.0 | 0.0 | 4.9 | 33,749 |
+| 4 | Merlin House, Carmarthen <sup>5</sup> | Ty Merlin, Parc Pensarn, Carmarthen, SA31 2NF | 2.3 | 0.3 | 0.3 | 1.8 | 15,337 |
+| 5 | Charles Street, Newport | 2-6 Charles Street, Newport, NP20 1JR | 2.0 | 0.2 | 0.2 | 2.2 | 18,334 |
+| 6 | High Street, Swansea | 37-38 High Street, Swansea, SA1 1LS | 1.9 | 0.2 | 0.2 | 2.2 | 19,609 |
+| 7 | Afon House, Newtown | Afron House, The Park, Newtown, SY16 2PZ | 1.6 | 0.2 | 0.2 | 1.7 | 19,160 |
+| 8 | Windsor Road, Neath | 1 Windsor Road, Neath, SA11 1LY | 1.4 | 0.1 | 0.1 | 1.5 | 15,816 |
+| 9 | Cleddau Bridge Business Park, Pembroke Dock | Pembroke Dock, SA72 6UP | 1.3 | 0.1 | 0.1 | 1.4 | 19,418 |
+| 10 | Crown Buildings, Aberdare | Greenbach Street, Aberdare, CF44 7HU | 1.0 | 0.1 | 0.1 | 1.3 | 24,290 |
+| 11 | Quay Street, Haverfordwest | 16-20 Quay Street, Haverfordwest, SA61 1BH | 0.9 | 0.1 | 0.1 | 0.8 | 8,603 |
+| 12 | Thistle House, Tonypandy | Llwynypia Road, Tonypandy, CF40 2EP | 0.9 | 0.1 | 0.1 | 1.2 | 14,650 |
+| 13 | Oldway House, Swansea | Clase Road, Morriston, Swansea, SA6 8BT | 0.8 | 0.1 | 0.1 | 1.3 | 14,575 |
+| 14 | High Street, Rhyl | Jobcentre Plus, 80 High Street, Rhyl, LL18 1UB | 0.8 | 0.1 | 0.1 | 0.9 | 9,452 |
+| 15 | Station Road, Port Talbot | 64-66 Station Road, Port Talbot, SA13 1LX | 0.8 | 0.1 | 0.1 | 0.8 | 8,793 |
+| 16 | Hannah Street, Porth | 35 Hannah Street, Porth, CF39 9RB | 0.7 | 0.1 | 0.1 | 0.7 | 7,018 |
+| 17 | Bridge Street, Llangefni | Bridge Street, Llangefni, LL77 7YJ | 0.5 | 0.1 | 0.1 | 0.8 | 9,601 |
+| 18 | Crown Buildings, Abertillery | Portland Street, Abertillery, NP13 1YF | 0.4 | # | # | 0.4 | 9,159 |
+| 19 | Dock Street, Porthcawl | Dock Street, Porthcawl, CF36 3BL | 0.3 | # | # | 0.3 | 3,023 |
+| 20 | Maengwyn Street, Machynlleth | 43-45 Maengwyn, Machynlleth, SY20 8EB | 0.1 | # | # | 0.2 | 3,655 |
+| Total |  |  | 29.4 | 2.7 | 2.7 | 32.7 | 332,883 |
+
+# Amount under £50,000
+
+1 The occupancy rate for properties in Wales is 100%, excluding Newport Road, Cardiff.
+
+2 The tenure for properties in Wales is freehold, excluding Parc Menai, Bangor and Merlin House, Carmarthen.
+
+3 Parc Menai, Bangor has a 250-year tenure from 20 May 2005 and the remaining tenure is 229.4 years as at 31 December 2025.
+
+4 Newport Road, Cardiff is vacant and the Manager has completed a positive pre planning consultation aimed at exploring its redevelopment into purpose-built student accommodation.
+
+5 Merlin House, Carmarthen has a virtual freehold tenure of 999 years from March 2005 and the remaining tenure is 978 years and 3 months as at 31 December 2025.
+
+<!-- PAGE 52 -->
+
+## Portfolio Profiles
+
+![Icon of a building inside a circle Map of the East of England region showing the locations of 9 properties. The map includes labels for Norfolk, Cambridgeshire, Suffolk, Hertfordshire, Essex, Bedford, and the East coast. Numbered markers 1 through 9 indicate property locations. Markers 1-8 are orange, and marker 9 is dark blue.](4666738057044ad78ced4dbbc0c1bfb3_img.jpg)
+
+**9**  
+**PROPERTIES<sup>1</sup>**
+
+- DWP JobCentre Plus
+- DWP Back Office
+- Home Office
+- Others
+
+Icon of a building inside a circle Map of the East of England region showing the locations of 9 properties. The map includes labels for Norfolk, Cambridgeshire, Suffolk, Hertfordshire, Essex, Bedford, and the East coast. Numbered markers 1 through 9 indicate property locations. Markers 1-8 are orange, and marker 9 is dark blue.
+
+![Property 1: A three-story brick building with a modern glass extension on the ground floor.](15ae74d32a573f3ca8c2b6b11ae66496_img.jpg)
+
+Property 1: A three-story brick building with a modern glass extension on the ground floor.
+
+![Property 2: A tall, modern multi-story office building with a glass facade.](8e77aa74bd5ab059077bf9bdb397e287_img.jpg)
+
+Property 2: A tall, modern multi-story office building with a glass facade.
+
+![Property 3: A modern glass-fronted building with a curved facade and trees in front.](4a01d2a9ca92e9abd3caf874ba15430c_img.jpg)
+
+Property 3: A modern glass-fronted building with a curved facade and trees in front.
+
+![Property 4: A long, two-story commercial building with a glass frontage and storefronts.](a23d68fbeac8dd79417a4531ed4e0ed1_img.jpg)
+
+Property 4: A long, two-story commercial building with a glass frontage and storefronts.
+
+![Property 5: A modern multi-story office building with a glass facade.](c11323a22f1d26d7e3f3b285ba537240_img.jpg)
+
+Property 5: A modern multi-story office building with a glass facade.
+
+![Property 6: A multi-story office building with a brick and glass facade and a green entrance.](ff33a4fbb84f26cd8f8935ef70fcc166_img.jpg)
+
+Property 6: A multi-story office building with a brick and glass facade and a green entrance.
+
+![Property 7: A multi-story office building with a brick and glass facade.](e01db0631a0ec263974af71ff3d547f1_img.jpg)
+
+Property 7: A multi-story office building with a brick and glass facade.
+
+![Property 8: A multi-story brick building with a glass extension and a sign that reads 'BOSTON HOUSE'.](8d728307c6c2c88ee65044a1cc5e54c6_img.jpg)
+
+Property 8: A multi-story brick building with a glass extension and a sign that reads 'BOSTON HOUSE'.
+
+![Property 9: A multi-story brick building with a glass extension.](da0c058ea922c6a070a172412990e535_img.jpg)
+
+Property 9: A multi-story brick building with a glass extension.
+
+![Faint architectural line drawing of a building structure in the background.](b0f3e47f7f4cc94171deece77ce9edfa_img.jpg)
+
+Faint architectural line drawing of a building structure in the background.
+
+<!-- PAGE 53 -->
+
+### EAST
+
+| No. | Name of Property | Location | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Annualised<br>Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+| 1 | Beaufort House, Harlow | Crown Gate, Harlow, CM20 1NA | 6.1 | 0.5 | 0.5 | 6.4 | 28,170 |
+| 2 | Great Oaks House, Basildon <sup>3</sup> | Great Oaks House, Great Oaks, Basildon, SS14 1JE | 5.5 | 0.7 | 0.7 | 9.0 | 54,432 |
+| 3 | Custom House, Felixstowe | Custom House, View Point Road, Felixstowe, IP11 3RF | 3.7 | 0.3 | 0.3 | 3.4 | 52,578 |
+| 4 | The Forum, Stevenage | Stevenage, SG1 1EZ | 3.6 | 0.3 | 0.3 | 4.8 | 18,473 |
+| 5 | Crown Buildings, Colchester | 40 Chapel Street South, Colchester, CO2 7AZ | 2.9 | 0.2 | 0.2 | 3.8 | 19,152 |
+| 6 | Wyvern House, Bedford | 53-57 Bromham Road, Bedford, MK40 2EH | 2.7 | 0.2 | 0.2 | 3.2 | 23,799 |
+| 7 | St Andrew's House, Bury St Edmunds | St Andrew's Street North, Bury St Edmunds, IP33 1TT | 2.5 | 0.2 | 0.2 | 3.3 | 28,863 |
+| 8 | Rishton House, Lowestoft | Clapham Road South, Lowestoft, NR32 1RW | 1.4 | 0.1 | 0.1 | 2.7 | 41,656 |
+| 9 | Blackburn House, Norwich <sup>4</sup> | Blackburn House, 1 Theatre Street, NR2 1RG | 0.8 | 0.2 | 0.2 | 1.5 | 9,302 |
+| Total |  |  | 29.2 | 2.7 | 2.7 | 38.1 | 276,425 |
+
+1
+
+The occupancy rate for properties in the East is 100%, excluding The Forum Stevenage which has a vacancy rate of 20%.
+
+2
+
+The tenure for properties in the East is freehold, excluding Great Oaks House, Basildon and Blackburn House, Norwich.
+
+3
+
+Great Oaks House, Basildon has a 999-year tenure from 17 June 2004 and a remaining tenure of 977.5 years as at 31 December 2025.
+
+4
+
+Blackburn House, Norwich has a 99-year tenure from 10 August 1978 and a remaining tenure of 51.6 years as at 31 December 2025.
+
+<!-- PAGE 54 -->
+
+### Portfolio Profiles
+
+#### YORKSHIRE & HUMBER
+
+![University of North Carolina logo](7c166dd7ef469f2cddf2fc4025f9188b_img.jpg)
+
+University of North Carolina logo
+
+# 10 PROPERTIES<sup>1</sup>
+
+- DWP JobCentre Plus
+ - DWP Others
+ - Environment Agency
+ - HM Courts and Tribunals Service
+
+![Map of Yorkshire & Humber showing 10 numbered locations for a pub crawl.](70f89886abc3f0c7d46be7412bb4bbf8_img.jpg)
+
+A map of Yorkshire & Humber, England, divided into its administrative regions: North Yorkshire, West Yorkshire, South Yorkshire, York, East Riding of Yorkshire, North Lincolnshire, North East Lincolnshire, and Kingston upon Hull. The map highlights 10 numbered locations for a pub crawl, each marked with a colored circle. The locations are distributed across the regions as follows:
+
+- 1: Green circle, located in West Yorkshire.
+- 2: Orange circle, located in West Yorkshire.
+- 3: Orange circle, located in South Yorkshire.
+- 4: Pink circle, located in South Yorkshire.
+- 5: Orange circle, located in South Yorkshire.
+- 6: Orange circle, located in South Yorkshire.
+- 7: Orange circle, located in South Yorkshire.
+- 8: Orange circle, located in North Yorkshire.
+- 9: Orange circle, located in South Yorkshire.
+- 10: Orange circle, located in East Riding of Yorkshire.
+
+Map of Yorkshire & Humber showing 10 numbered locations for a pub crawl.
+
+![Figure 1: A photograph of a large, multi-story industrial building with a prominent chimney stack on the left side. The building has a light-colored facade and many windows. A car is parked in the foreground on the left, and a street lamp is visible on the right. A green circle with the number '1' is in the top left corner.](c46b1adec07a3b2a45ab663bd21c5b25_img.jpg)
+
+Figure 1: A photograph of a large, multi-story industrial building with a prominent chimney stack on the left side. The building has a light-colored facade and many windows. A car is parked in the foreground on the left, and a street lamp is visible on the right. A green circle with the number '1' is in the top left corner.
+
+![Image 2: A photograph of a historic brick building with a green awning over the entrance, identified as the former site of the National Academy of Design.](ca3fd843bd42027f91fb7c511023984e_img.jpg)
+
+Image 2: A photograph of a historic brick building with a green awning over the entrance, identified as the former site of the National Academy of Design.
+
+![Image 3: A large, multi-story brick building with yellow decorative bands, identified as the former Lloyds Bank building.](1696483590fd2f2f006feccd043e25c1_img.jpg)
+
+Image 3: A large, multi-story brick building with yellow decorative bands, identified as the former Lloyds Bank building.
+
+![Exterior view of a modern, multi-story brick building with a gabled roof and large windows, identified as the new building for the University of Applied Sciences in Osnabrück.](4538dadae3c277c7a0805fbfdcacefe2_img.jpg)
+
+Exterior view of a modern, multi-story brick building with a gabled roof and large windows, identified as the new building for the University of Applied Sciences in Osnabrück.
+
+![Image 5: A two-story brick building with a green sign, identified as the 'New building'.](e4601e06bf50b50d72d9f0c551859b19_img.jpg)
+
+Image 5: A two-story brick building with a green sign, identified as the 'New building'.
+
+![A photograph of a large, red brick building with a prominent corner tower, identified as the University of Birmingham. A white car is parked in front of the building.](3f59cd33488f8526551967f0e5e7494c_img.jpg)
+
+A photograph of a large, red brick building with a prominent corner tower, identified as the University of Birmingham. A white car is parked in front of the building.
+
+![Image 7: A large, multi-story building with a red brick facade and many windows, identified as a school.](dca0164328b81549c0794293188f3ab3_img.jpg)
+
+Image 7: A large, multi-story building with a red brick facade and many windows, identified as a school.
+
+![Figure 8: A photograph of a modern, two-story building with a dark facade and large windows, identified as the new building for the University of the West of England.](586c28dacb8c4b6fca7a75143e2edfd9_img.jpg)
+
+Figure 8: A photograph of a modern, two-story building with a dark facade and large windows, identified as the new building for the University of the West of England.
+
+![A photograph of a large, multi-story brick building with many windows, identified as the University of Birmingham. A small orange circle with the number '9' is in the top left corner.](3724e905c57ffd1d42456c3796cb03fd_img.jpg)
+
+A photograph of a large, multi-story brick building with many windows, identified as the University of Birmingham. A small orange circle with the number '9' is in the top left corner.
+
+![Image 10: A photograph of a modern, multi-story building with a prominent clock tower and large glass windows, identified as the new building for the University of the West of England.](ce61e9af32bc822f949b0f8e08a41f9d_img.jpg)
+
+Image 10: A photograph of a modern, multi-story building with a prominent clock tower and large glass windows, identified as the new building for the University of the West of England.
+
+<!-- PAGE 55 -->
+
+#### YORKSHIRE & HUMBER
+
+| No. | Name of Property | Location | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Annualised<br>Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+| 1 | Phoenix House, Bradford | Phoenix House, Rushton Avenue,<br>Leeds Old Road, Bradford, BD3 7BH | 2.7 | 0.3 | 0.3 | 4.5 | 37,649 |
+| 2 | Castle House, Huddersfield <sup>3</sup> | Jobcentre Plus, 8 Market Street,<br>Huddersfield, HD1 2NE | 2.2 | 0.2 | 0.2 | 2.7 | 20,389 |
+| 3 | Chantry House, Rotherham | Chantry House, Douglas Street,<br>Rotherham, S60 2DL | 1.6 | 0.1 | 0.1 | 1.6 | 20,618 |
+| 4 | Bradmarsh Business Park,<br>Rotherham | Bradmarsh Business Park, Bow Bridge,<br>Rotherham, S60 1BX | 1.1 | 0.1 | 0.1 | 1.2 | 12,054 |
+| 5 | Centurion House, Castleford | Centurion House, Bank Street,<br>Castleford, WF10 1HY | 0.8 | 0.1 | 0.1 | 1.0 | 11,238 |
+| 6 | Bridge House, Castleford | Bridge House, 28 Wheldon Road,<br>Castleford, WF10 2JD | 0.7 | 0.1 | 0.1 | 1.0 | 12,949 |
+| 7 | Crown Buildings, Mexborough | Adwick Road, Mexborough, S64 0BD | 0.7 | 0.1 | 0.1 | 0.7 | 14,994 |
+| 8 | Elder House, Northallerton | East Road, Northallerton, DL6 1NU | 0.7 | 0.1 | 0.1 | 1.0 | 14,517 |
+| 9 | Low Hall, Pontefract | Market Street, Hemsworth, Pontefract,<br>WF9 4HP | 0.6 | 0.1 | 0.1 | 0.9 | 14,208 |
+| 10 | Mulberry House, Goole | North Street, Goole, DN14 5RA | 0.4 | # | # | 0.4 | 6,202 |
+| Total |  |  | 11.5 | 1.2 | 1.2 | 15.0 | 164,818 |
+
+# Amount under £50,000
+
+1 The occupancy rate for all properties in Yorkshire & Humber is 100%.
+
+2 The tenure for properties in Yorkshire & Humber is freehold, excluding Castle House, Huddersfield.
+
+3 Castle House, Huddersfield has a 150-year tenure from 17 March 1995 and the remaining tenure is 119.2 years as at 31 December 2025.
+
+<!-- PAGE 56 -->
+
+### Portfolio Profiles
+
+![Icon of a building inside a circle Map of North East England showing the locations of 11 DWP JobCentre Plus properties. The map highlights Northumberland, Newcastle Upon Tyne, North Tyneside, Gateshead, South Tyneside, Sunderland, Durham, Hartlepool, Darlington, Stockton-on-Tees, Middlesbrough, and Redcar and Cleveland. Numbered orange dots 1 through 11 indicate the specific locations of the properties. Orange dot icon](6fd373b1aea8f583da362efa5e3710df_img.jpg)
+
+11  
+PROPERTIES<sup>1</sup>
+
+DWP JobCentre Plus
+
+Icon of a building inside a circle Map of North East England showing the locations of 11 DWP JobCentre Plus properties. The map highlights Northumberland, Newcastle Upon Tyne, North Tyneside, Gateshead, South Tyneside, Sunderland, Durham, Hartlepool, Darlington, Stockton-on-Tees, Middlesbrough, and Redcar and Cleveland. Numbered orange dots 1 through 11 indicate the specific locations of the properties. Orange dot icon
+
+![Property 1: A two-story brick building with a green entrance canopy and a paved area in front.](ea6563b73e02632c2c18be3a3a3f00ef_img.jpg)
+
+Property 1: A two-story brick building with a green entrance canopy and a paved area in front.
+
+![Property 2: A long, two-story brick building with a flat roof and a paved area in front.](a57b9c2bd9e58d8969a4465b145349cb_img.jpg)
+
+Property 2: A long, two-story brick building with a flat roof and a paved area in front.
+
+![Property 3: A modern, multi-story brick building with a large glass facade and a paved area in front.](debf76905d5d6bebacf4a3d3a4982fb9_img.jpg)
+
+Property 3: A modern, multi-story brick building with a large glass facade and a paved area in front.
+
+![Property 4: A two-story brick building with a green entrance canopy and a paved area in front.](1ccc8ed007efe4df28993f16cc6e911b_img.jpg)
+
+Property 4: A two-story brick building with a green entrance canopy and a paved area in front.
+
+![Property 5: A modern, multi-story brick building with a large glass facade and a paved area in front.](95e30bbc821dd5bd36127fe9e3ca51d9_img.jpg)
+
+Property 5: A modern, multi-story brick building with a large glass facade and a paved area in front.
+
+![Property 6: A long, two-story brick building with a flat roof and a paved area in front.](c59c57aa32d1de24f1b0cfca10bd7dd9_img.jpg)
+
+Property 6: A long, two-story brick building with a flat roof and a paved area in front.
+
+![Property 7: A two-story brick building with a flat roof and a paved area in front.](afe190e5ab90521540f33277186fe4fb_img.jpg)
+
+Property 7: A two-story brick building with a flat roof and a paved area in front.
+
+![Property 8: A two-story brick building with a flat roof and a paved area in front.](179c6b5c7fd756bb49adff05a115ba4a_img.jpg)
+
+Property 8: A two-story brick building with a flat roof and a paved area in front.
+
+![Property 9: A two-story brick building with a flat roof and a paved area in front.](32e4cf86fda131298887c6d2db7b2d9f_img.jpg)
+
+Property 9: A two-story brick building with a flat roof and a paved area in front.
+
+![Property 10: A modern, multi-story brick building with a large glass facade and a paved area in front.](58a211d80f6b4fb71a438f3d6676deb1_img.jpg)
+
+Property 10: A modern, multi-story brick building with a large glass facade and a paved area in front.
+
+![Property 11: A two-story brick building with a flat roof and a paved area in front.](b42ef5bd72b2b7d93c69d96fec919afd_img.jpg)
+
+Property 11: A two-story brick building with a flat roof and a paved area in front.
+
+![Property 12: A two-story brick building with a flat roof and a paved area in front.](81dd807a99f9e5056bfa0247d09c8424_img.jpg)
+
+Property 12: A two-story brick building with a flat roof and a paved area in front.
+
+<!-- PAGE 57 -->
+
+### NORTH EAST
+
+| No. | Name of Property | Location | Annualised |  | Actual<br>Rental<br>Received in<br>FY2025<br>(£'m) <sup>1</sup> | Purchase<br>Price<br>(£'m) | Net<br>Internal<br>Area<br>(sq ft) <sup>2</sup> |
+|-|-|-|-|-|-|-|-|
+|  |  |  | Valuation<br>as at<br>31 Dec 2025<br>(£'m) | Gross<br>Rental<br>Income in<br>FY2025<br>(£'m) |  |  |  |
+| 1 | St Andrew's House, Hexham | Haugh Lane, Hexham, NE46 3RB | 2.5 | 0.3 | 0.3 | 3.1 | 21,451 |
+| 2 | Ward Jackson House, Hartlepool | Wesley Square, Hartlepool, TS24 8EZ | 2.3 | 0.2 | 0.2 | 2.3 | 20,451 |
+| 3 | Hadrian House, Eston | 81 High Street, Eston, Middlesbrough, TS6 9EH | 1.4 | 0.2 | 0.2 | 1.5 | 24,219 |
+| 4 | Broadway House, Houghton Le Spring | Frederick Place, Houghton Le Spring, DH4 4AH | 1.2 | 0.2 | 0.2 | 1.6 | 20,075 |
+| 5 | Reiverdale House, Ashington | Reiverdale Road, Ashington, NE63 9YU | 1.1 | 0.1 | 0.1 | 1.2 | 23,702 |
+| 6 | Hatfield House, Peterlee | St Cuthberts Road, Peterlee, SR8 1PB | 1.1 | 0.1 | 0.1 | 1.1 | 19,889 |
+| 7 | Portland House, Redcar | Portland House, West Dyke Road, Redcar, TS10 1DH | 0.7 | 0.1 | 0.1 | 0.9 | 9,559 |
+| 8 | Crown Buildings, Chester Le Street | Crown Buildings, Station Road, Chester Le Street, DH3 3AB | 0.6 | 0.1 | 0.1 | 0.9 | 10,490 |
+| 9 | Theatre Buildings, Billingham | Theatre Buildings, Billingham, TS23 2NA | 0.5 | 0.1 | 0.1 | 0.7 | 7,261 |
+| 10 | St John's Square, Seaham | St John's Square, Seaham, SR7 7JE | 0.5 | 0.1 | 0.1 | 0.7 | 6,658 |
+| 11 | Norham House, Berwick Upon Tweed | 15 Walkergate, Berwick Upon Tweed, TD15 1DS | 0.4 | # | # | 0.4 | 7,766 |
+| Total |  |  | 12.3 | 1.5 | 1.5 | 14.4 | 171,521 |
+
+# Amount under £50,000  
+1 The occupancy rate for all properties in the North East is 100%.  
+2 The tenure for all properties in the North East is freehold.
+
+<!-- PAGE 58 -->
+
+## Market Review
+
+By Colliers International Property Consultants Limited
+
+### ECONOMIC OVERVIEW
+
+The UK economy expanded by 1.3% year-on-year in 2025, following growth of 1.1% in 2024. Economic momentum improved modestly towards the end of last year, but the underlying picture remains one of weak and uneven growth. After October's unexpected 0.1% month-on-month contraction, real GDP rebounded by 0.3% month-on-month in November, the strongest monthly increase in five months and well above consensus expectations. This lifted three-month-on-three-month growth slightly from 0.0% to 0.1%, suggesting the economy entered 2026 with a little more momentum than previously thought.
+
+Part of November's strength reflected temporary factors. A ramp-up in production at Jaguar Land Rover following September's cyber-attack drove surge in motor vehicle manufacturing, contributing to a 2.1% rise in manufacturing output and adding around 0.1 percentage points to GDP growth. However, the rebound was not confined to manufacturing. Services output rose by 0.3% month-on-month, despite the Office for National Statistics ("ONS") noting that Budget-related uncertainty continued to weigh on activity across a range of sectors.
+
+Construction output fell sharply by 1.3% month-on-month in November, though this was likely exacerbated by unseasonably wet weather. More favourable conditions in December, alongside a modest rise in the construction PMI, suggest some recovery thereafter.
+
+Labour market conditions continue to soften. Payroll employment fell by a further 43,000 in December and has declined by over 220,000 since the rise in employer National Insurance Contributions was announced in October 2024. The unemployment rate has risen steadily and is expected to peak at around 5.2% in early 2026. While private sector pay growth is easing, overall wage growth remains elevated due to strong public sector pay increases, contributing to persistent services inflation pressures.
+
+Consumer spending remains constrained. Although retail sales volumes rose unexpectedly in December, sales still declined by 0.3% quarter-on-quarter in Q4, marking a seventh consecutive "Golden Quarter" contraction.
+
+Consumer confidence has largely moved sideways for over a year, and softer employment growth alongside slowing real income growth is likely to keep household spending subdued through 2026.
+
+The late-year pickup in activity is unlikely to mark a turning point. November's strength is largely seen as a rebound from earlier weakness rather than evidence of a materially stronger underlying economy. Lingered drags from high interest rates, higher business taxes and weak overseas demand are expected to cap growth.
+
+The economy was expected to grow by around 1.0% in 2026 and recover modestly to 1.2% in 2027, both below the economy's estimated potential rate of 1.5%. Consumer Price Index ("CPI") inflation was expected to fall from 3.6% in late 2025 to reach the 2.0% target by the end of 2026. However, any positivity in this outlook for early 2026 has been dealt a blow by US-Middle East conflict, rising oil prices and renewed expectations of higher inflation and higher-for-longer interest rates.
+
+Previously in late 2021, the Bank of England began raising interest rates to counter supply-side driven commodity inflation. The rate rises were ineffectual in slowing imported inflation, especially as pressure was added by the interruption of gas supplies from Russia in 2022, but the rate rises may have moderated second-round inflationary effects from developing into a sustained wage-price spiral crisis. Given the Bank's primary aim of controlling inflation, the latest unfolding energy supply shock is likely to be greeted with a slowing of rate cuts at best. Given the Bank's recent history, further increases in energy price could plausibly result in a rate rise. Mitigating factors related to general economic performance though are increasingly evident.
+
+<!-- PAGE 59 -->
+
+#### THE GILT MARKET
+
+Gilt yields have been relatively stable since the Budget, with the 10-year yield in the 4.3-4.5% range. This outperformance relative to other G7 bond markets appears to reflect a combination of easing UK interest rate expectations and an improving supply-demand balance in the gilt market. Part of the decline may also reflect growing confidence that the Bank of England will cut rates more aggressively as inflation returns to target.
+
+The 10-year gilt yield is expected to fall modestly to approximately 4.25% by the end of 2026. However, the scope for further declines may be limited by fiscal risks. Political pressure to loosen fiscal policy, particularly in the face of weak growth and poor polling, could lead to higher borrowing than currently planned and slow the pace of yield declines. While such slippage would be unlikely to trigger a sudden loss of market confidence, it would raise the risk of a gradual upward drift in yields over the medium term.
+
+#### CAPITAL MARKETS
+
+Quarterly investment volumes reached a one-year high of £15 billion in Q4, up from under £10 billion in the previous quarter. While the latest figure was 12% above the five-year quarterly average, it was down slightly on the 4Q 2024 total of £16.2 billion. The 2025 total of £46 billion is slightly below the 2024 figure of £48 billion. However, ongoing revisions to the data may result in final 2025 volumes being closer to £50 billion. In 2025, offices and industrial accounted for a 24% of all investment sales each, followed by retail (18%) and residential including student housing (14%). Overseas capital accounted for 46% of all investment into commercial real estate, a lower share than the ten-year average of 50%. The fourth quarter was dominated by large portfolio sales, including TriTax Big Box, British Airways, and Clipstone buying large industrial portfolios. The largest single-asset transaction was the £280 million sale of the Holiday Inn – Kensington High Street. Net initial retail yields have generally been stable across most sectors and scope for yield compression in 2026 will be limited.
+
+#### UK OFFICES OCCUPATIONAL MARKET
+
+- In 2025, demand was broadly stable but polarised. Overall take-up in line with long-term averages, with activity overwhelmingly concentrated in Grade A, ESG-compliant space; secondary stock continues to experience elevated void periods.
+- “Flight to quality” is now the norm. Occupiers prioritising amenity-rich, well-located buildings supporting collaboration and sustainability, despite hybrid working remaining structural.
+- Big Six regional cities showing resilient occupational performance, underpinned by financial/professional services and tech demand.
+- Grade A supply is constrained in all major conurbations. Limited development pipelines and low prime vacancy, supporting occupancy levels and tenant competition for best space.
+- Overall vacancy elevated due to secondary oversupply. While London is starting to see absorption of second-hand space, regional centres still see high overall availability, exacerbated by obsolete stock rather than any inherent weakness in demand.
+- Prime rental growth; rental separation widening. Prime/headline rents grew across all major markets in 2025, while rental differential with secondary space continues to grow.
+- Regulation accelerating obsolescence. Energy Performance Certificate (“EPC”) and sustainability requirements are forcing refurbishment, repurposing or exit of older offices from the occupational market. New developments increasingly targeting National Australian Built Environment Rating System (“NABERS”) 4+ classification. Increasingly a minimum requirement for large corporates, professional services firms and UK Government.
+
+<!-- PAGE 60 -->
+
+## Market Review
+
+By Colliers International Property Consultants Limited
+
+Office Take-up (sq ft)
+
+![A grid of bar charts showing Office Take-up (sq ft) for All Grade and All Grade A across five regions: South West, Midlands, Yorkshire & Humber, North West, and South East. Each region compares 2024 and 2025 data with percentage changes.](a03f88e0ac174f2614e86f19e75f7b1d_img.jpg)
+
+|  | South West | Midlands | Yorkshire & Humber | North West | South East |
+|-|-|-|-|-|-|
+| <b>All Grade</b> | <b>2024:</b> 440,562<br><b>2025:</b> 604,119<br><b>+37%</b> | <b>2024:</b> 861,645<br><b>2025:</b> 651,507<br><b>-24%</b> | <b>2024:</b> 653,411<br><b>2025:</b> 632,997<br><b>-3%</b> | <b>2024:</b> 1,224,102<br><b>2025:</b> 1,062,902<br><b>-13%</b> | <b>2024:</b> 2,823,264<br><b>2025:</b> 2,439,627<br><b>-14%</b> |
+|  | <b>Bristol</b> | <b>Birmingham</b> | <b>Leeds</b> | <b>Manchester</b> | <b>M25 centres</b> |
+| <b>All Grade A</b> | <b>2024:</b> 160,955<br><b>2025:</b> 288,156<br><b>+79%</b> | <b>2024:</b> 540,911<br><b>2025:</b> 359,560<br><b>-34%</b> | <b>2024:</b> 287,833<br><b>2025:</b> 254,203<br><b>-12%</b> | <b>2024:</b> 644,712<br><b>2025:</b> 449,510<br><b>-30%</b> | <b>2024:</b> 2,101,751<br><b>2025:</b> 2,030,145<br><b>-4%</b> |
+|  | <b>Bristol</b> | <b>Birmingham</b> | <b>Leeds</b> | <b>Manchester</b> | <b>M25 centres</b> |
+
+A grid of bar charts showing Office Take-up (sq ft) for All Grade and All Grade A across five regions: South West, Midlands, Yorkshire & Humber, North West, and South East. Each region compares 2024 and 2025 data with percentage changes.
+
+### REGIONAL FOCUS
+
+#### South East
+
+2025 take-up across the South East reached 2.4 million sq ft, which was 14% down year-on-year. The final quarter of 2025 disappointed in terms of leasing activity (457,802 sq ft), making it the lowest level of take-up for five years. A shortage of lettings of scale in the Thames Valley, was the major reason for a subdued end to 2025.
+
+Demand for Grade A fell marginally, down by 4% year-on-year, but still accounted for 83% of all space leased. New Grade A space only accounted for 13% of take-up, underlining the acute shortages that the majority of M25 centres are experiencing. Regardless of below trend demand, vacancy across the region only experienced a minor increase in the fourth quarter. That said, the Thames Valley saw overall vacancy climb back to 14%, having fallen to its lowest level (13.3%) for nearly three years, in 3Q 2025.
+
+1.7 million sq ft of new developments completed in 2025, which is consistent with the 2024 figure of 1.8 million sq ft. 26% of that space (445,000 sq ft) was pre-let prior to practical completion.
+
+#### Midlands
+
+In the Midlands, Birmingham office take-up reached 651,507 sq ft in 2025. In spite of a strong figure in the second half (468,173 sq ft), mirroring 2024, annual take-up ended below the 10-year quarterly average (-10%). Nevertheless, at 290,059 sq ft, 4Q 2025 transaction numbers were the highest quarterly total since 3Q 2024.
+
+Financial and legal/professional services have dominated demand in Birmingham in 2025. 57% of take-up was derived from these business sectors, with the likes of EY, Deloitte, Squire Patton Boggs and Forvis Mazars, all acquiring. Additional news in 4Q suggests that Goldman Sachs, occupant of 88,000 sq ft at One Centenary Way, intends to expand its local workforce by up to 500 people in 2026.
+
+While availability remained flat year-on-year in 2025 (1.9 million sq ft), new Grade A vacancy continued its downward trend. New Grade A vacancy fell to 0.9% (Jan 2026) from 1.7% (Jan 2025). This figure is the lowest amongst the big four English cities. Just 170,000 sq ft of Grade A availability is classed as new-build, with 587,000 sq ft designated refurbished or second-hand.
+
+The prime rent now stands at £45.50 per sq ft based on lettings at Three Chamberlain Square. There is a space in negotiation which is set to push the prime rents to more than £50 per sq ft plus before the end of the year.
+
+<!-- PAGE 61 -->
+
+#### South West
+
+In the South West, Bristol recorded a strong year in 2025, achieving 604,119 sq ft of take up. 3Q was the standout quarter, supported by Hargreaves Lansdown's 90,000 sq ft commitment at The Welcome Building. 2025 deal levels were 37% up year-on-year, the highest take-up since 2022.
+
+Professional services, engineering consultancies, and the flexible workspace sector dominated 4Q take up. However, for 2025, the balanced demand across all sectors was marked. 'Other', which accounted for 11%, included healthcare, charity, manufacturing, public sector and transport/logistics.
+
+All Grade availability continued its downward trajectory in 4Q, aided by minimal new supply and above average take-up. All Grade vacancy stood at a 15-month low at 9.6%. All Grade A availability was down by 25% year-on-year.
+
+Rents continued their upward trend driven by the 'best-in-class'. While stable at £50 per sq ft at the year-end, we anticipate further uplift in 1H 2026. Guiding rents at One Friary are £55-60 per sq ft. Colliers forecasts Grade A rents to be at £60 per sq ft by 2028.
+
+#### Yorkshire & Humber
+
+In Yorkshire & Humber, Leeds saw 2025 annual take-up (632,997 sq ft) marginally below transaction numbers recorded in 2023 and 2024. Average quarterly take-up in 2025 matched the 10-year average exactly, although the annual figure was 1% below the 10-year annual figure. In terms of Grade A demand, 2025 saw a total of 254,203 sq ft of take-up. Again, this was down in 2023 and 2024 and on the 10-year average (352,849 sq ft).
+
+Absorption of Grade A space in 2025 has been strong across Leeds. Grade A vacancy has fallen sharply, as minimal new supply has been compounded by steady demand for new product. Grade A availability, which started
+
+2025 at 410,000 sq ft has fallen to 153,000 sq ft as of January 2026. This represents a reduction of over 60% and is the largest annual fall in Grade A availability for at least 15 years. Average annual Grade A availability in Leeds, since 2011, stands at 275,000 sq ft, putting the 2025 figure 44% below the long-term trend.
+
+Grade A rents rose steadily throughout 2025 with the annual average achieved rent at £38.67 per sq ft versus £35.35 per sq ft in 2024. Prime rents ended the year at £46.00 per sq ft which represents annual uplift of 8.2%. That compares to an average of 3.4% across the Big Six UK centres.
+
+#### North West
+
+In the North West, Manchester take-up (289,632 sq ft) in 4Q 2025 rebounded from below trend in 3Q. This enabled the 2025 figure to match the 5-year quarterly average. The 4Q 2025 total was the highest for three quarters and 5% above the 5-year quarterly average. Average deals size fell slightly in 2025 to 5,341 sq ft from 6,120 sq ft in 2024.
+
+Legal and professional services firms were the largest active sector in 2025, in terms of demand. The majority of that was to legal occupiers, which accounted for 60% (145,000 sq ft) of professional services take-up. Average legal sector deal size at 13,081 sq ft was significantly above the wider market norm in 2025.
+
+Improved transactional activity in Q4 meant that quarterly availability fell by the largest amount (-138,225 sq ft) since Q3 2024. All Grade vacancy, at 9.4%, is now firmly below the longer-term averages, both 5-year (10.3%) and 10-year (10.0%). While new Grade A vacancy is marginally up year-on-year, at 1.2%, compared to 0.9% in 2024, there has still been healthy absorption of development space in 2025.
+
+The Manchester prime rent was unchanged at £45.00 per sq ft but while expectations were that we would see uplift in 4Q, we anticipate a shift in pricing now coming in 1Q 2026.
+
+##### Vacancy Rates (%)
+
+![Bar chart showing Vacancy Rates (%) for Grade A, Grade A Prime, and All Grade across Bristol, Birmingham, Leeds, and Manchester for 2024 and 2025.](a2f95ead2e984ed181bc2c0e3f0de5c2_img.jpg)
+
+A grouped bar chart comparing vacancy rates (%) for four UK cities: Bristol, Birmingham, Leeds, and Manchester. For each city, three categories are shown: Grade A (light orange), Grade A Prime (yellow), and All Grade (light blue). Each category has two bars representing the years 2024 and 2025. The 2025 bars are slightly darker than the 2024 bars. The data values are as follows:
+
+| City | Category | 2024 (%) | 2025 (%) |
+|-|-|-|-|
+| Bristol | Grade A | 3.4 | 1.8 |
+|  | Grade A Prime | 2.7 | 1.1 |
+|  | All Grade | 11.2 | 9.6 |
+| Birmingham | Grade A | 3.7 | 4.0 |
+|  | Grade A Prime | 1.7 | 0.9 |
+|  | All Grade | 10.3 | 10.5 |
+| Leeds | Grade A | 3.6 | 1.1 |
+|  | Grade A Prime | 1.9 | 0.8 |
+|  | All Grade | 9.3 | 8.9 |
+| Manchester | Grade A | 2.9 | 2.9 |
+|  | Grade A Prime | 0.9 | 1.2 |
+|  | All Grade | 9.1 | 9.4 |
+
+Bar chart showing Vacancy Rates (%) for Grade A, Grade A Prime, and All Grade across Bristol, Birmingham, Leeds, and Manchester for 2024 and 2025.
+
+<!-- PAGE 62 -->
+
+## Market Review
+
+By Colliers International Property Consultants Limited
+
+### INVESTMENT MARKET
+
+In summary, investment volumes are recovering but below long-term averages. Transaction activity improved through 2025, with annual volumes exceeding 2024 totals, but still materially below 5- and 10-year norms.
+
+There is a clear “flight to quality” dominating capital allocation. Investor demand is focused on prime, ESG-compliant Grade A offices in core locations; and secondary stock continues to suffer from weak liquidity and pricing pressure. There is pricing stabilisation and early signs of yield compression for core assets.
+
+Development pipeline supporting long-term fundamentals is limited. Severely constrained new-build supply, particularly outside London, is underpinning prime rents and investment demand for modern stock.
+
+Prime yields broadly stabilised across 2025, with modest early compression evident in M25 centres and selective regional markets as confidence improved and rate expectations soften.
+
+With institutional investors currently favouring alternative sectors and exiting many office holdings, market dynamics remain favourable for proactive investors to pick up good quality assets at attractive pricing.
+
+These dynamics have been helped by a reduced buyer pool which has seen office pricing become some of the most attractive across all commercial user classes in the market today.
+
+The current market has been dominated by opportunistic Private Investors, although going into 2026 we expect Private Investors, Private Equity and some REITs to be active.
+
+The Bank of England Base Rate fell 100bps across 2025 and currently stands at 3.75%. With further reductions expected across 2026, pricing for offices looks particularly attractive today. We anticipate that office pricing and yields will begin to strengthen as the year progresses, particularly as and when the cost of debt softens.
+
+We expect the market to remain split on their views of offices. Town centre offices with genuine value-add plays are likely to remain popular, particularly given prime best-in-class rents have grown 25% ahead of their previous ceilings.
+
+Out-of-Town offices will require dynamic pricing to garner good levels of interest, although investors will continue to target them particularly where alternative uses and redevelopment are viable.
+
+<!-- PAGE 63 -->
+
+# Sustainability Report
+
+## Contents
+
+|  |  |
+|-|-|
+| 62 | About This Report |
+| 63 | Board Statement |
+| 64 | FY2025 Highlights |
+| 65 | Stakeholder Engagement |
+| 68 | Material Topics |
+| 70 | A Holistic Governance Approach |
+| 74 | Enabling Positive Social Impact:<br>People, Community, Our Portfolio |
+| 77 | Supporting a Sustainable Environment |
+| 86 | TCFD and SASB Disclosure Index |
+| 86 | GRI Content Index |
+| 88 | SGX Core ESG Metrics Index |
+
+![A large, multi-story brick building with a modern glass extension, likely a corporate headquarters or office building, serving as the background for the report cover.](1bfaecbd0c14cb05f0fc507a42fd49c8_img.jpg)
+
+A large, multi-story brick building with a modern glass extension, likely a corporate headquarters or office building, serving as the background for the report cover. The building features a mix of traditional brickwork and contemporary architectural elements, including a prominent glass facade on one side. The foreground shows a paved area and some greenery, suggesting an urban or campus setting.
+
+A large, multi-story brick building with a modern glass extension, likely a corporate headquarters or office building, serving as the background for the report cover.
+
+<!-- PAGE 64 -->
+
+# Sustainability Report
+
+## About This Report
+
+This is the fifth annual sustainability report for Elite UK REIT (“Elite REIT”). The report provides a detailed overview of Elite REIT’s environmental, social and governance (“ESG”) performance for the financial year spanning 1 January 2025 to 31 December 2025 (“FY2025”, “reporting year”). The report is presented by the REIT manager, Elite UK REIT Management Pte. Ltd. (the “Manager”).
+
+### STANDARDS AND FRAMEWORKS
+
+The report has been prepared with reference to the Global Reporting Initiative (“GRI”) Standards, chosen for their global recognition and focus on managing material economic, environmental, and social impacts. It aligns with the Sustainability Accounting Standards Board (“SASB”) Real Estate Sustainability Accounting Standard to address financially material ESG metrics for investors and complies with the Singapore Exchange (“SGX-ST”) Listing Rules 711A and 711B for sustainability reporting.
+
+A progressive approach to transition to International Sustainability Standards Board (“ISSB”) frameworks is underway, building on existing adherence to the Taskforce on Climate-Related Financial Disclosures (“TCFD”) framework and the Guidelines on Environmental Risk Management (“EnvRM”) for Asset Managers, issued by the Monetary Authority of Singapore (“MAS”). This report, prepared in alignment with the standards and frameworks in the table below, forms the foundation for disclosure required under ISSB’s frameworks.
+
+The report also highlights Elite REIT’s contributions to the United Nations Sustainable Development Goals (“UN SDGs”).
+
+| Standard and Frameworks Referenced |
+|-|
+| • GRI Standards 2021 |
+| • SASB Standards: Real Estate Sustainability Accounting Standard |
+| • TCFD Recommendations |
+| • ISSB IFRS S2 Climate-related Disclosures |
+| • MAS EnvRM Guidelines |
+| • SGX-ST Listing Rules (711A and 711B) – Sustainability Reporting |
+| • UN SDGs |
+| • UN Ten Principles |
+
+### REPORTING PRINCIPLES
+
+This report has been prepared in alignment with the principles outlined in the GRI Standards (Universal Standards 2021): Accuracy, Balance, Clarity, Comparability, Completeness, Sustainability Context, Timeliness, and Verifiability. These principles serve as the foundation for producing a high-quality sustainability report.
+
+### REPORTING SCOPE
+
+This report covers the Manager’s operations as well as the property portfolio held in the REIT. As of 31 December 2025, the portfolio comprised 148 properties in the United Kingdom (“UK”), primarily leased to the UK Government on a full repairing and insuring (“FRI”) basis. Given the structure of these leases, the Manager does not exercise operational nor management control over the day-to-day management or utilities consumption of the properties. However, the Manager actively engages its tenants on asset management-related sustainability issues.
+
+Elite REIT has 11 tenants, of which the Department for Work and Pensions (“DWP”) contributes 92.3% of the REIT’s gross rental income. In prior years, the reporting scope covered only data from properties occupied by the DWP. Following efforts in 2025 to expand data collation, electricity consumption data from the Singapore office and properties occupied by the remaining 10 tenants that contribute 7.7% of Elite REIT’s gross rental income have also been included in this report.
+
+| Assets/<br>Facilities <sup>1</sup> | Location | Net<br>Internal<br>Area | Description |
+|-|-|-|-|
+| Headquarters office (leased) | Singapore | 4,069 sq ft | Utilities, energy, and GHG emissions data partially available from April 2025 |
+| 148 Property assets | UK | 3,711,685 sq ft | Utilities, energy, and GHG emissions data from tenants constituting 100% of portfolio |
+
+With the data received, the Manager is able to incorporate sustainability factors in its business strategy and mitigate portfolio impacts while enhancing the quality and transparency of sustainability reporting. FY2023 and FY2024 energy consumption and GHG emission numbers for tenants (Scope 3) have been restated for enhanced accuracy.
+
+1 In the UK, the Manager has also leased a co-working office with a net internal area of approximately 350 sq ft.
+
+<!-- PAGE 65 -->
+
+### INTERNAL REVIEW AND EXTERNAL ASSURANCE
+
+Our leases operate on an FRI basis hence the Manager relies on occupiers to provide energy consumption data that are extracted from the latest meter reads. Elite REIT adopts internal controls and internal review to ensure data accuracy. An internal review of the sustainability reporting process was conducted in 2025 by the internal audit function, in accordance with the *International Standards for the Professional Practice of Internal Auditing* issued by The Institute of Internal Auditors.
+
+This review builds upon the Manager's established governance framework, supported by robust internal controls and risk management systems. Processes relating to sustainability reporting have been incorporated into the internal audit plan, which covers key aspects of this Sustainability Report over a multi-year audit cycle based on risk-based planning approved by the Audit and Risk Committee.
+
+The option of obtaining external assurance for future reports remains under consideration. As data quality, systems and controls continue to mature over the next reporting cycles, Elite REIT intends to adopt limited external assurance, initially on priority indicators such as greenhouse gas emissions and energy consumption, in consideration of evolving regulatory requirements and stakeholder expectations.
+
+### FEEDBACK
+
+We welcome feedback and suggestions from our stakeholders. For any questions about this report, please contact
+
+## Elite UK REIT Management Pte. Ltd.
+
+T: (65) 6955 9999
+
+E: [sustainability@eliteukreit.com](mailto:sustainability@eliteukreit.com)
+
+Contact Person: Pearl Lam
+
+## Board Statement
+
+As the global economy and industry continues to navigate an evolving landscape of environmental responsibility, regulatory changes, and stakeholder expectations, the Board recognises that effective sustainability stewardship is integral to sound governance and long-term organisational resilience.
+
+The Board and the Manager are committed to embedding sustainability across strategy, operations, and risk management to deliver long-term value for Unitholders and stakeholders. This commitment extends to upholding high standards of corporate governance, ethical conduct, risk management and responsible business practices, while encouraging environmental stewardship, social responsibility and diversity throughout the organisation.
+
+Sustainability considerations have been integrated into the company's strategic and operational decision-making, with the Manager of Elite REIT identifying and prioritising material ESG and climate-related factors that are then reviewed and approved by the Board. The Manager periodically updates the Board on sustainability matters, and the Board is able to have oversight of the effective management and ongoing performance monitoring of material ESG and climate-related factors. Risks and opportunities across short, medium, and long-term horizons are integrated into Elite REIT's sustainability and business strategies.
+
+The Manager is responsible for implementing Elite REIT's sustainability strategy and ensuring that material ESG factors are effectively managed in alignment with the ISSB's principles. This includes ongoing monitoring and managing of ESG risks and opportunities, integration of sustainability considerations into business operations and investment decisions, and regular reporting to the Board. In particular, focus is placed on investing in what endures – assets built for stability, relevance, and long-term performance.
+
+In FY2025, Elite REIT, through its Manager, joined the United Nations Global Compact in support of the international Ten Principles of the UN Global Compact. In addition, Elite REIT ranked 16th in the 2025 Singapore Governance and Transparency Index under the REIT and Business Trust category.
+
+As we move into FY2026 and beyond, we will continue our efforts to meet our sustainability objectives, enhance our resilience to climate and market dynamics, and remain a reliable business partner. We are committed to setting clear, measurable targets, pursuing continuous improvement, and reflecting on our performance with integrity and transparency.
+
+### Board of Directors
+
+<!-- PAGE 66 -->
+
+# Sustainability Report
+
+## FY2025 Highlights
+
+![Icon representing environmental sustainability, showing a building and a leaf.](d62e4b7585fe7f7ce5e9beed6b958bd4_img.jpg)
+
+Icon representing environmental sustainability, showing a building and a leaf.
+
+### Championing Environmental Sustainability
+
+Meeting Sustainability Performance Targets
+
+**34.9%**  
+of portfolio with EPC rating of at least C
+
+**8.6%**  
+of portfolio with EPC rating of at least B
+
+Reducing Embodied Carbon Emissions
+
+**Over 60%**  
+savings in the redevelopment of Lindsay House Dundee
+
+![Icon representing corporate governance, showing a document with a checkmark and a seal.](fdc530db704436d351b1265748656256_img.jpg)
+
+Icon representing corporate governance, showing a document with a checkmark and a seal.
+
+### Robust Corporate Governance
+
+- Maintained zero incidents of non-compliance and corruption.
+- 2025 Singapore Governance and Transparency Index (“SGTI”) ranking: 16th in the REIT and Business Trust category.
+- Four independent Board of Directors, including an independent Non-Executive Chairman.
+
+![Icon representing empowering communities, showing a group of people with a heart in the center.](36f80f84fdd2db72586a4c88cc90b6cc_img.jpg)
+
+Icon representing empowering communities, showing a group of people with a heart in the center.
+
+### Empowering Communities
+
+Supporting initiatives that align with primary occupier DWP’s mission.
+
+- Supporting second-chance opportunities after prison through coaching and fundraising with London-based charity, StandOut
+- Mentoring vulnerable migrant workers in Asia to enable entrepreneurship and long-term livelihood with Singapore-based social enterprise, Aidha
+
+Conferred a Company of Good – 3 Hearts by Singapore’s National Volunteer and Philanthropy Centre.
+
+- A recognition of significant contributions in five impact areas: People, Society, Governance, Environment and Economic
+
+![Image of the 'SINGAPORE COMPANY OF GOOD 2024 to 2026' award badge from nvpc.](06f76c2c1c2f1791f164f4a6f42f4fa6_img.jpg)
+
+Image of the 'SINGAPORE COMPANY OF GOOD 2024 to 2026' award badge from nvpc.
+
+Joined United Nations Global Compact in support of the Ten Principles of the Global Compact (“UN Ten Principles”)
+
+WE SUPPORT
+
+![Logo of the United Nations Global Compact, featuring a globe and the text 'UN GLOBAL COMPACT'.](b38bc3e200b8ad5d3eaf7e06c7a0e086_img.jpg)
+
+Logo of the United Nations Global Compact, featuring a globe and the text 'UN GLOBAL COMPACT'.
+
+<!-- PAGE 67 -->
+
+## Stakeholder Engagement
+
+Strong and trusted relationships with stakeholders form the foundation of long-term business success. We seek to engage with openness, transparency, and accountability, ensuring that dialogue remains constructive and mutually beneficial. Through regular, structured, formal and informal interactions, Elite REIT works closely with identified stakeholders who have a significant influence on, or are affected by, the Manager's activities. Feedback gathered from these engagements is systematically reviewed and integrated into our decision-making processes, helping us align business strategies with stakeholder expectations and enhance overall value creation. Engagement activities leverage both periodic and ongoing interactions, ensuring responsive communication tailored to stakeholder needs and evolving priorities.
+
+An overview of our key stakeholders and how we engage with them is illustrated in the table below:
+
+| Stakeholders | Engagement Method | Purpose of Engagement | Stakeholders' Expectations | Our Response | Engagement Examples in FY2025 |
+|-|-|-|-|-|-|
+| Internal Stakeholders |  |  |  |  |  |
+| Directors | <ul style="list-style-type: none"> <li>Meetings and calls</li> <li>Quarterly Board Meetings</li> <li>Regular engagements with committees delegated by the Board</li> <li>Ad hoc Board Meetings (when required)</li> </ul> | <ul style="list-style-type: none"> <li>To comply with regulatory requirements</li> <li>Best practices for good corporate governance</li> <li>For the interest of unitholders</li> <li>For strategic guidance</li> </ul> | <ul style="list-style-type: none"> <li>Regular and timely updates on Elite REIT's and the Manager's operations and performance</li> </ul> | <ul style="list-style-type: none"> <li>Terms of Reference for each Board committee are laid out and executed</li> <li>Clear agenda setting for all Board Meetings</li> <li>All matters arising are addressed in a timely manner</li> <li>Promote productive engagements between senior management and the Board members</li> <li>Providing regular, timely and accurate updates on Elite REIT's operations and performance</li> </ul> | <ul style="list-style-type: none"> <li>Regular Board Meetings</li> <li>Directors attended trainings on a range of topics including climate change, corporate governance and compliance</li> <li>Performance of Board and Board committees are reviewed annually</li> </ul> |
+| Employees | <ul style="list-style-type: none"> <li>Face-to-face meetings</li> <li>Regular conference calls</li> <li>E-mails</li> <li>Health and wellbeing activities</li> <li>Employee satisfaction survey</li> </ul> | <ul style="list-style-type: none"> <li>To build a cohesive team with high productivity</li> <li>To ensure the well-being of employees</li> <li>To provide an inclusive environment that is conducive for working</li> <li>To attract future and potential employees with a sustainability mindset</li> </ul> | <ul style="list-style-type: none"> <li>Competitive remuneration and benefits for talent retention</li> <li>Good personal growth and development opportunities</li> <li>Career progression</li> <li>Attentive and supportive managers</li> <li>Fair treatment</li> <li>A respectful and conducive working environment</li> <li>Work-life balance</li> </ul> | <ul style="list-style-type: none"> <li>People-friendly human resources ("HR") policies and practices</li> <li>Regular open communications</li> <li>Training and development opportunities</li> <li>Regular employee engagements and performance reviews</li> <li>Whistleblowing channels for malpractice and compliance concerns</li> </ul> | <ul style="list-style-type: none"> <li>Open communications</li> <li>Team lunch gatherings</li> <li>Running together to fundraise for StandOut, a charity in the UK</li> </ul> |
+
+<!-- PAGE 68 -->
+
+###### Sustainability Report
+
+| Stakeholders | Engagement Method | Purpose of Engagement | Stakeholders' Expectations | Our Response | Engagement Examples in FY2025 |
+|-|-|-|-|-|-|
+| <b>External Stakeholders</b> |  |  |  |  |  |
+| <b>Investors (Retail and institutional)</b> | <ul style="list-style-type: none"> <li>One-on-one and group investor meetings and conference calls</li> <li>Local and overseas non-deal roadshows</li> <li>Public outreach events, such as the participation in virtual investment conferences, webinars, panel discussions and industry forums</li> <li>Corporate website with dedicated investor relations contact details</li> <li>Social media</li> <li>Annual General Meetings</li> <li>Extraordinary General Meetings when required</li> <li>Regular announcements and updates</li> <li>Results briefings</li> </ul> | <ul style="list-style-type: none"> <li>To keep all unitholders, investors and stakeholders informed on the financial and portfolio performance of Elite REIT and material information that could affect the price or value of Elite REIT's units</li> </ul> | <ul style="list-style-type: none"> <li>Stable and growing returns from their investments</li> <li>Sustainable financial and portfolio performance</li> <li>Timely and accurate information for their investment decisions</li> <li>Good corporate governance</li> <li>Prudent risk management</li> <li>Unitholder interests are aligned with the management and the Board</li> </ul> | <ul style="list-style-type: none"> <li>Timely and accurate Disclosures of material information</li> <li>Majority independent Board with competent Board members providing quality corporate governance</li> <li>Experienced management with ground presence in the UK</li> <li>Engage competent consultants on remuneration matters, controls and governance</li> <li>Necessary disclosure under corporate governance in the Annual Report</li> </ul> | <ul style="list-style-type: none"> <li>AGM</li> <li>Annual Report and Sustainability Report</li> <li>Broker-organised investor calls</li> <li>Corporate LinkedIn page</li> <li>Corporate WhatsApp channel</li> <li>Non-deal roadshows</li> <li>REITs Symposium</li> <li>SIAS-SGX Corporate Connect</li> <li>Trading representative and retail investor teach-in sessions</li> </ul> |
+| <b>Investment community (Analysts, the media and financial bloggers)</b> | <ul style="list-style-type: none"> <li>Regular analysts and media briefings</li> <li>Face-to-face and virtual meetings</li> <li>Conference calls, e-mails and phone calls</li> <li>Media interviews</li> </ul> | <ul style="list-style-type: none"> <li>To keep the market informed on the financial and portfolio performance of Elite REIT and material information that could affect the price or value of the units</li> </ul> | <ul style="list-style-type: none"> <li>Good corporate governance</li> <li>Prudent risk management</li> <li>Unitholder interests are aligned with the management and the Board</li> <li>Access to senior management</li> </ul> | <ul style="list-style-type: none"> <li>Timely, transparent and accurate disclosures of material information</li> <li>Necessary disclosures under corporate governance in the Annual Report</li> </ul> | <ul style="list-style-type: none"> <li>Research reports by our covering analysts</li> <li>Site Visits</li> <li>Gathering of feedback from analysts and Unitholders</li> </ul> |
+| <b>Primary Occupier and Other Tenants/ Occupiers</b> | <ul style="list-style-type: none"> <li>Periodical engagement to ensure they are satisfied with our buildings</li> <li>Collection of environmental performance data</li> </ul> | <ul style="list-style-type: none"> <li>To engage on energy efficiency measures</li> <li>Get buildings improved for lease longevity</li> <li>To ensure regulatory compliance for energy performance certifications and other regulatory requirements</li> </ul> | <ul style="list-style-type: none"> <li>Higher energy performance rating for buildings</li> <li>Ensuring occupiers comply with regulation by ensuring building accessibility to end users</li> </ul> | <ul style="list-style-type: none"> <li>Ongoing engagement on sustainability issues such as energy, emissions and water</li> <li>Negotiations and discussions for co-investments to improve buildings' energy efficiency</li> </ul> | <ul style="list-style-type: none"> <li>Discussions with primary occupier and agents on a regular basis</li> <li>Engagements to obtain energy performance data</li> </ul> |
+| <b>Property Management</b> | <ul style="list-style-type: none"> <li>Meetings, emails, calls</li> </ul> | <ul style="list-style-type: none"> <li>To keep updated on the operational aspects of our assets</li> </ul> | <ul style="list-style-type: none"> <li>Communication of business plans and strategy</li> </ul> | <ul style="list-style-type: none"> <li>Regular and open communication and engagements</li> <li>Engagements on ESG matters</li> </ul> | <ul style="list-style-type: none"> <li>Engagements and dialogues to keep an ear to the ground</li> </ul> |
+
+<!-- PAGE 69 -->
+
+![Upward pointing triangle icon](4f4f673d35bc7ed8180203e5cb366f85_img.jpg)
+
+Upward pointing triangle icon
+
+| Stakeholders | Engagement Method | Purpose of Engagement | Stakeholders' Expectations | Our Response | Engagement Examples in FY2025 |
+|-|-|-|-|-|-|
+| <b>External Stakeholders</b> |  |  |  |  |  |
+| <b>Trustee</b> | <ul style="list-style-type: none"> <li>Meetings, emails, calls</li> </ul> | <ul style="list-style-type: none"> <li>To keep the trustee updated on the financial, operational and portfolio performance of the REIT</li> </ul> | <ul style="list-style-type: none"> <li>Transparent, honest and accurate information</li> </ul> | <ul style="list-style-type: none"> <li>Regular, timely and accurate updates on business and sustainability plans</li> <li>Regular dialogues</li> </ul> | <ul style="list-style-type: none"> <li>Regular meetings and engagements</li> </ul> |
+| <b>Banks</b> | <ul style="list-style-type: none"> <li>Meetings, emails and calls</li> <li>Ongoing compliance to loan covenants</li> <li>Dialogues on sustainability issues</li> </ul> | <ul style="list-style-type: none"> <li>For funding and advisory needs</li> </ul> | <ul style="list-style-type: none"> <li>Transparent and accurate information</li> <li>Asset package, compliance, business plan</li> <li>Manage sustainability risk, timely interest and maturity payments</li> </ul> | <ul style="list-style-type: none"> <li>Timely interest and maturity payments</li> <li>Continuous engagements as added confidence for loan disbursements</li> <li>Regular updates on business and sustainability plans</li> <li>Regular dialogues</li> <li>Asset package</li> </ul> | <ul style="list-style-type: none"> <li>Underwriting due diligence</li> <li>Yearly credit update call</li> <li>Year-end bank calls</li> <li>Attend webinars organised by banks</li> </ul> |
+| <b>Regulators</b> | <ul style="list-style-type: none"> <li>Ad hoc and periodic survey submissions</li> <li>Regulatory applications and clarifications as appropriate</li> <li>Timely regulatory filings</li> <li>SGX announcements</li> <li>Circulars</li> <li>Website, AGM/EGM, Annual Report, Sustainability Report</li> </ul> | <ul style="list-style-type: none"> <li>To comply with the regulatory requirements in all countries of operations</li> </ul> | <ul style="list-style-type: none"> <li>Timely and transparent information</li> <li>Adequate resources devoted to compliance</li> <li>Setting compliance culture across all staff</li> <li>Good corporate governance</li> <li>Compliance with policies, rules and regulations</li> </ul> | <ul style="list-style-type: none"> <li>Stay updated on all regulatory requirements</li> <li>Establish comprehensive policies, procedures and controls</li> <li>Independent review by third-party internal and external auditors</li> <li>Accountability of senior management and the Board</li> <li>Active membership in industry associations</li> <li>Maintenance of zero tolerance approach towards fraud, corruption, bribery and unethical practices across the business</li> <li>Regular communications with regulators and governing bodies</li> </ul> | <ul style="list-style-type: none"> <li>Attend trainings prescribed by SGX</li> <li>Contribute inputs to consultation and industry feedback via REITAS</li> </ul> |
+| <b>Auditors</b> | <ul style="list-style-type: none"> <li>Planning of audit schedule and scope</li> <li>Participating in audit exercises (internal and external)</li> </ul> | <ul style="list-style-type: none"> <li>To comply with regulatory requirements in all countries of operations</li> </ul> | <ul style="list-style-type: none"> <li>Timely and transparent information</li> <li>Compliance with policies, rules and regulations</li> </ul> | <ul style="list-style-type: none"> <li>Stay updated on all regulatory requirements</li> <li>Establish comprehensive policies, procedures and controls</li> <li>Unfettered access to information</li> </ul> | <ul style="list-style-type: none"> <li>Annual internal and external audit exercises</li> </ul> |
+
+<!-- PAGE 70 -->
+
+## Sustainability Report
+
+## Material Topics
+
+Through materiality assessments, we establish which ESG impacts, risks, and opportunities are most significant to our business activities. It further captures stakeholder priorities and examines sustainability-related risks over near-, mid-, and long-term periods.
+
+Building on a comprehensive assessment completed in FY2021 and subsequent yearly updates, a review of our material sustainability topics was conducted in FY2025. This review was based on a peer benchmarking exercise, as well as insights from continuous engagement with key stakeholder groups, including unitholders, investors, analysts, trustees, sponsors, industry associations, business partners, and employees. All our material topics have been validated by the Board.
+
+The assessment evaluated a range of factors such as the actual and potential impacts of our operations, climate-related risks and opportunities, financial considerations, stakeholder expectations, tenant relationships, sector-specific sustainability challenges and ability to control day-to-day operations in our assets. It also accounts for reporting compliance requirements from the SGX and MAS, alongside evolving regulatory developments in Singapore and the UK. The materiality process aligns with internationally recognised standards and frameworks, such as the GRI Standards, SASB Real Estate Sustainability Accounting Standard, TCFD Recommendations, and the UN SDGs, ensuring a robust approach to identifying and prioritising ESG topics for reporting.
+
+Our materiality process is illustrated below.
+
+![A four-step process diagram for materiality assessment: 1. ESTABLISH CONTEXT, 2. IDENTIFY IMPACTS, 3. ASSESS IMPACTS, 4. PRIORITISE AND APPROVE.](0c88b98a59dd5d549fed7b13c0ca6536_img.jpg)
+
+The diagram illustrates a four-step materiality process:
+
+- 1. ESTABLISH CONTEXT** (Icon: Document with gear and paperclip)
+ - Consider Elite REIT's purpose, principles and values
+ - Elite REIT's portfolio
+ - Consider sustainability challenges relevant to the real estate sector
+ - Refer to SASB Standards – Real Estate Sector Sustainability Accounting Standard and metrics
+ - Refer to GRI Standards, UN SDGs, TCFD Recommendations, and IFRS S2
+ - Study reporting by peers
+- 2. IDENTIFY IMPACTS** (Icon: Monitor with eye and graph)
+ - Identify actual and potential, positive and negative ESG impacts of business activities including climate-related risks and opportunities
+ - Identify financially material ESG issues
+ - Map out key stakeholders and their concerns
+ - Similar issues are clustered together
+- 3. ASSESS IMPACTS** (Icon: Network diagram)
+ - Assess the significance of ESG impacts
+ - Consider stakeholder concerns and expectations
+ - External review of material topics by a sustainability expert
+- 4. PRIORITISE AND APPROVE** (Icon: Target with checkmark)
+ - Internal review of material topics by the management
+ - Review and approval of material topics by the Sustainability Committee
+ - Review and approval of material topics by the Board for reporting
+
+A four-step process diagram for materiality assessment: 1. ESTABLISH CONTEXT, 2. IDENTIFY IMPACTS, 3. ASSESS IMPACTS, 4. PRIORITISE AND APPROVE.
+
+| Material Topics |  |
+|-|-|
+| Governance | Regulatory Compliance |
+|  | Anti-corruption |
+| Social | Attracting and Retaining Talent |
+|  | Employee Development |
+|  | Diversity and Inclusion |
+| Environment | Climate-related Risks and Opportunities |
+|  | Energy and Greenhouse Gas ("GHG") Emissions |
+|  | Tenant Engagement |
+
+<!-- PAGE 71 -->
+
+### SUPPORTING THE UN SDGs
+
+The United Nations Sustainable Development Goals (“UN SDGs”) provide an overarching framework that informs our sustainability priorities. As a UN Global Compact member, we have mapped our existing material topics and initiatives against the SDGs, we have identified where our actions have the most meaningful contribution to support progress towards the UN SDGs.
+
+| Material ESG Topic | SDG Targets Supported |  |
+|-|-|-|
+| Environment |  |  |
+| <ul style="list-style-type: none"><li>Climate-related Risks and Opportunities</li><li>GHG Emissions</li><li>Energy</li><li>Tenant Engagement</li></ul> | <div><div>7</div><div>AFFORDABLE AND CLEAN ENERGY</div><div><img alt="SDG 7 icon: A sun with a power button symbol in the center." data-bbox="659 636 740 714" src="a43ce30782c05f4ce43aa22dbaef8d7c_img.jpg"/></div></div> | <p><b>SDG Target 7.2.</b> By 2030, increase substantially the share of renewable energy in the global energy mix</p> <p><b>SDG Target 7.3.</b> By 2030, double the global rate of improvement in energy efficiency</p> |
+|  | <div><div>9</div><div>INDUSTRY, INNOVATION AND INFRASTRUCTURE</div><div><img alt="SDG 9 icon: Three stacked cubes." data-bbox="659 815 740 893" src="61915982dc65fa6860016b791160685d_img.jpg"/></div></div> | <p><b>SDG Target 9.4.</b> By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities</p> |
+|  | <div><div>13</div><div>CLIMATE ACTION</div><div><img alt="SDG 13 icon: A globe with a leaf and a checkmark." data-bbox="643 1016 756 1072" src="d6da3f6abe5b8e5a535feeb4f8ff0454_img.jpg"/></div></div> | <p><b>SDG Target 13.1.</b> Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters</p> <p><b>SDG Target 13.3.</b> Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning</p> |
+| Social |  |  |
+| <ul style="list-style-type: none"><li>Attracting and Retaining Talent</li><li>Employee Development</li><li>Diversity and Inclusion</li></ul> | <div><div>3</div><div>GOOD HEALTH AND WELL-BEING</div><div><img alt="SDG 3 icon: A heart with a pulse line." data-bbox="643 1240 756 1308" src="379724be4d644152894f7a4dc4623354_img.jpg"/></div></div> | <p><b>SDG Target 5.5.</b> Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision making in political, economic and public life</p> |
+|  | <div><div>5</div><div>GENDER EQUALITY</div><div><img alt="SDG 5 icon: A female symbol with an equals sign." data-bbox="675 1386 740 1476" src="58ae5aaeea859e3e7a9a05ae0324c350_img.jpg"/></div></div> | <p><b>SDG Target 8.5.</b> By 2030, achieve full and productive employment and decent work for all women and men, including young people and persons with disabilities, and equal pay for work of equal value</p> |
+|  | <div><div>8</div><div>DECENT WORK AND ECONOMIC GROWTH</div><div><img alt="SDG 8 icon: A bar chart with an upward arrow." data-bbox="659 1543 740 1621" src="ff0a5a3497c15a6afebd2436037695f1_img.jpg"/></div></div> |  |
+|  | <div><div>10</div><div>REDUCED INEQUALITIES</div><div><img alt="SDG 10 icon: Four arrows pointing outwards from a center point." data-bbox="659 1711 740 1778" src="00583b995951939ba4c4e2c99b875ca7_img.jpg"/></div></div> |  |
+| Governance |  |  |
+| <ul style="list-style-type: none"><li>Regulatory Compliance</li><li>Anti-corruption</li></ul> | <div><div>16</div><div>PEACE, JUSTICE AND STRONG INSTITUTIONS</div><div><img alt="SDG 16 icon: A dove holding an olive branch over a scale of justice." data-bbox="659 1935 740 2000" src="38e9919658e40c53cc86c0801a78baca_img.jpg"/></div></div> | <p><b>SDG Target 16.5.</b> Substantially reduce corruption and bribery in all forms</p> |
+
+<!-- PAGE 72 -->
+
+## Sustainability Report
+
+## A Holistic Governance Approach
+
+Strong governance is the foundation of responsible and effective management across the whole organisation. Our approach is anchored in clear accountability, transparent decision-making, and robust oversight mechanisms that ensure sustainability considerations are embedded in business strategy and risk management. The governance framework defines the roles and responsibilities of the Board, Management, and supporting committees in overseeing financial, operational, and sustainability performance. Through this structure, we seek to uphold integrity, compliance with regulatory standards, and alignment with the expectations of our investors, tenants, and broader stakeholders.
+
+### SUSTAINABILITY GOVERNANCE STRUCTURE
+
+Oversight of material ESG topics, which include climate-related matters, is embedded within the company’s corporate governance structure, with the Board of Directors (the “**Board**”) providing strategic direction and supervision.
+
+In fulfilling its role, the Board reviews, endorses, and approves Elite REIT’s material ESG factors for disclosure. It considers climate-related risks and opportunities, tracks ESG performance, and retains ultimate accountability for the accuracy and integrity of sustainability reporting. This report has been formally reviewed and approved by the Board. To strengthen strategic insight, risk assessment capabilities, and decision-making, all directors are required to undergo sustainability and climate-related training. Additional information is available on page 101.
+
+A Sustainability Committee (“**SC**”) has been formed under the purview of the Board, chaired by the Independent Board Chairman. The SC includes representation from the Board and management, comprising an Independent Director, the Chief Executive Officer (“**CEO**”), Chief Investment Officer (“**CIO**”), Chief Financial Officer (“**CFO**”), and Head of Investor Relations. The Committee is tasked with formulating and executing the Elite REIT’s sustainability strategy, ensuring that material ESG risks and opportunities are effectively identified, managed, and monitored to support long-term stakeholder value. In carrying out its responsibilities, the SC considers stakeholder feedback and expectations in shaping sustainability priorities and initiatives.
+
+A cross-functional Sustainability Working Team (“**SWT**”) supports the Sustainability Committee (“**SC**”) in carrying out the ESG agenda. The SWT draws expertise from key functions, including Investor Relations, Asset Management, Finance, and Compliance, ensuring a coordinated approach to sustainability management. Its responsibilities include the implementation and management of ESG initiatives, monitoring material ESG issues and targets, and
+
+![A green plant growing from the ground, surrounded by circular icons representing various ESG themes such as recycling, community, governance, and environment.](4c3b15239b63af9aabe30740a73bdec1_img.jpg)
+
+A photograph of a small green plant with several leaves growing out of a dark, textured surface. Surrounding the plant are several circular icons with white outlines on a dark green background. The icons represent various sustainability themes: a document, a recycling symbol, a network of nodes, a classical building, a leaf with a circular arrow, a group of people, a factory, a magnifying glass, a globe, a hand holding a leaf, binoculars, a shield, and a clock.
+
+A green plant growing from the ground, surrounded by circular icons representing various ESG themes such as recycling, community, governance, and environment.
+
+consolidating performance data from internal stakeholders for reporting and disclosure. Regular updates are provided to the Board to ensure transparency and alignment with strategic sustainability objectives.
+
+The SC convenes semi-annually to assess progress and performance in sustainability, and to receive updates from the SWT. Additionally, the SC undergoes an annual review of its sustainability performance and effectiveness.
+
+![A diagram titled 'Sustainability Governance Structure' showing a hierarchy: BOARD OF DIRECTORS at the top, followed by SUSTAINABILITY COMMITTEE, and SUSTAINABILITY WORKING TEAM* at the bottom, connected by vertical lines.](4f2887d5043c0923cf5b37ca0d80c60b_img.jpg)
+
+A diagram titled "Sustainability Governance Structure" showing a three-tier hierarchy. At the top is an orange box labeled "BOARD OF DIRECTORS". Below it is a yellow box labeled "SUSTAINABILITY COMMITTEE". At the bottom is a dark blue box labeled "SUSTAINABILITY WORKING TEAM\*". Vertical dotted lines connect the boxes, indicating a reporting or oversight relationship between the levels.
+
+A diagram titled 'Sustainability Governance Structure' showing a hierarchy: BOARD OF DIRECTORS at the top, followed by SUSTAINABILITY COMMITTEE, and SUSTAINABILITY WORKING TEAM\* at the bottom, connected by vertical lines.
+
+\* Members include representatives from across the business: Investor Relations, Asset Management, Finance and Compliance
+
+<!-- PAGE 73 -->
+
+### POLICIES AND PRACTICES
+
+A robust suite of policies and processes have been approved by the Board to guide the Manager in implementing its sustainability strategy. These provide the Manager and its subsidiaries a framework for consistent ESG management across operations and a unified approach to sustainable business practices.
+
+#### A snapshot of key Sustainability-related policies
+
+|  |  |  |  |
+|-|-|-|-|
+| <img alt="Icon representing Sustainability Policy: a lightbulb and a document." data-bbox="240 577 338 680" src="90b59a0bf0c031a70b775c1620b364be_img.jpg"/> | <img alt="Icon representing Code of Conduct and Ethics Policy: a shield with scales of justice." data-bbox="579 577 676 680" src="b24da7e503b621e2d92935de11408357_img.jpg"/> | <img alt="Icon representing Anti-Bribery and Corruption Policy: a document with a checkmark and a gavel." data-bbox="917 577 1015 680" src="dbeb07cbb45426f57c273b2a890d4822_img.jpg"/> | <img alt="Icon representing Whistleblowing Policy: a magnifying glass over a warning triangle." data-bbox="1252 577 1350 680" src="e99ab10034f5e27b5e95bbd1937e7bb3_img.jpg"/> |
+| <b>Sustainability Policy</b> | <b>Code of Conduct and Ethics Policy</b> | <b>Anti-Bribery and Corruption Policy</b> | <b>Whistleblowing Policy</b> |
+| <p>Establish group-wide guidelines for managing material environmental, social and governance impacts, risks and opportunities, and promoting responsible and sustainable business practices.</p> | <p>Sets out guidance for all directors, managers, and employees to perform their scope of duties with proper conduct and ethics, such as managing situations involving the giving or receiving of gifts (monetary or otherwise), kickbacks, concessionary offers, entertainment, and business dealings that might create actual or perceived conflicts of interest.</p> | <p>Provide a principled approach for all directors, managers, and employees to perform their scope of duties without contravening any applicable anti-corruption laws.</p> | <p>Whistleblowing channels are put in place for our business partners, customers, suppliers, other stakeholders, and any third party to report actual or suspected corruption, dishonesty, fraud, negligence, any other forms of illegal, inappropriate, unethical or unprofessional behaviour or conduct (collectively <b>“Serious Breaches”</b>).</p> <p>For more information, please visit <a href="https://www.eliteukreit.com/whistleblowingstatement.html">https://www.eliteukreit.com/whistleblowingstatement.html</a></p> |
+| <img alt="Icon representing Anti-Money Laundering, Countering the Financing of Terrorism, and Countering Proliferation Financing policy: a clipboard with a checklist and a magnifying glass." data-bbox="240 1205 338 1308" src="33de2bdae426412820e31c0a7f00f4e1_img.jpg"/> | <img alt="Icon representing Data Protection and Privacy Policy: a fingerprint inside a square frame." data-bbox="579 1205 676 1308" src="91721ea166825c918033ea2986355fca_img.jpg"/> | <img alt="Icon representing Third-Party Agent and Outsourcing Policy: a person sitting at a desk with three checkmarks." data-bbox="917 1205 1015 1308" src="0930f32a59aaa353521705b9ac0aab3a_img.jpg"/> | <img alt="Icon representing Sustainable and Sustainability-Linked Finance Framework: a flowchart with a checkmark." data-bbox="1252 1205 1350 1308" src="3c52031d6307e88714ea3103dcf9b044_img.jpg"/> |
+| <b>Anti-Money Laundering (“AML”), Countering the Financing of Terrorism (“CFT”), and Countering Proliferation Financing (“CPF”) policy</b> | <b>Data Protection and Privacy Policy</b> | <b>Third-Party Agent and Outsourcing Policy</b> | <b>Sustainable and Sustainability-Linked Finance Framework</b> |
+| <p>Provide guidance on ensuring compliance with AML/CFT/CPF laws, regulations, and notices. The policy also mandates prompt identification, escalation, and reporting of any suspicious or unacceptable transactions, reinforcing the Manager’s zero-tolerance stance towards financial crime.</p> | <p>Singapore’s Personal Data Protection Act 2012 (“<b>PDPA</b>”) was passed in October 2012 and PDPA has established provisions for Do Not Call registry.</p> <p>The Company’s PDPA policy establishes guidance on ensuring compliance with Singapore’s PDPA and applicable data privacy laws globally.</p> <p>For more information, please visit <a href="https://www.eliteukreit.com/pdpa.html">https://www.eliteukreit.com/pdpa.html</a></p> | <p>Requires a supply chain corruption risk assessment for all service providers and provides guidance for ensuring compliance with regulations on outsourcing of functions. Policies and training materials are disseminated through emails, contractual agreements, and the corporate website to reinforce understanding and compliance.</p> | <p>Establishes how Elite REIT conducts its financing activities that have integrated the Manager’s ESG objectives.</p> |
+
+##### Ethical Conduct
+
+Elite REIT’s comprehensive, Group-wide Code of Conduct and Ethics Policy establishes clear principles and expectations for directors, management, and employees to act responsibly and in accordance with the highest standards of professionalism. This policy sets out the Manager’s commitments across key areas such as legal and regulatory
+
+compliance, data privacy, confidentiality, insider trading, anti-money laundering, counter-terrorism financing, counter-proliferation financing and the prevention of bribery and corruption. It also reinforces our obligations towards human rights, social responsibility, environmental stewardship, and transparent whistleblowing practices. Any breach of this policy may result in appropriate disciplinary measures.
+
+<!-- PAGE 74 -->
+
+###### Sustainability Report
+
+##### Anti-Bribery and Corruption
+
+Bribery and corruption pose significant risks, including legal repercussions, reputational harm, and erosion of stakeholder confidence. The Manager upholds a strict zero-tolerance stance towards all forms of unethical behaviour such as fraud, bribery, and corruption, thus reinforcing its commitment to strong governance and the highest ethical standards. All directors, employees, business partners including third-party representatives such as agents, supply chain partners are expected to comply with Elite REIT's Code of Conduct and Ethics Policy, Third-Party Agent and Outsourcing Policy and Anti-Bribery and Corruption Policy. The policies are communicated to the respective parties regularly. More information on these can be found on page 124.
+
+The Group-wide Code of Conduct and Ethics Policy strictly prohibits the giving or receiving of bribes, improper benefits, or any form of undue influence, and sets out clear procedures for addressing business situations that could give rise to actual or perceived conflicts of interest. There were no incidents of corruption reported during the period.
+
+##### Anti-Competition
+
+We maintain a firm stance against anti-competitive conduct, anti-trust violations, and monopolistic practices. All employees are expressly prohibited from participating in activities such as price fixing, market allocation, or any form of behaviour that could undermine fair competition. There were no incidents of non-compliance with anti-competitive behaviour, anti-trust laws, or monopoly regulations reported in FY2025.
+
+##### Anti-Money Laundering
+
+Elite REIT is committed to full compliance with all relevant laws and regulations relating to anti-money laundering ("AML"), countering the financing of terrorism ("CFT") and countering-proliferation financing ("CPF"). An Anti-Money Laundering, Countering the Financing of Terrorism and Countering Proliferation Financing Policy establishes clear governance standards and procedures to manage such risks. All employees are required to adopt a risk-based approach when conducting Know Your Customer ("KYC") due diligence, ensuring that client and transaction assessments are carried out with rigour and consistency. More information about Elite REIT's Anti-Money Laundering, Countering the Financing of Terrorism and Countering Proliferation Financing measures can be found on pages 120-121.
+
+##### Board Diversity
+
+A Board diversity policy has been adopted to promote an appropriate balance of backgrounds and capabilities within its membership. When evaluating the Board's composition and making recommendations for new appointments, the Nominating and Remuneration Committee ("NRC") considers a broad range of factors including gender to ensure that the Board has a robust range of professional credentials, sector and regional experience, competencies, tenure, age, and gender to support the evolving needs of the organisation. Elite REIT has established a target for women to represent no less than 30% of the Board by 2029 as vacancies arise or the Board expands.
+
+##### Data Protection and Cyber Security
+
+The Manager places strong emphasis on safeguarding the personal data of its employees, customers, and stakeholders obtained in the course of business operations. Measures are in place to uphold privacy and ensure compliance with applicable data protection regulations across all jurisdictions of operation. In Singapore, Elite REIT adheres to Singapore's Personal Data Protection Act 2012 ("PDPA") as well as the UK's Data Protection Act 2018.
+
+Information technology ("IT") risk management and cybersecurity form is managed as part of the broader enterprise risk management framework. A structured governance system with stringent controls has been implemented to protect IT infrastructure, mitigate cyber threats, and minimise the risk of data loss. Learn more about our data protection measures at <https://www.eliteukreit.com/pdpa.html>. No confirmed incidents or substantiated complaints relating to personal data breaches were recorded during the reporting period.
+
+##### Regulatory Compliance
+
+Adhering to legal and regulatory requirements is key to safeguard Elite REIT's reputation, minimise risk of financial penalties, and maintain smooth operational performance. We are committed to complying with all relevant legal and regulatory requirements in 1) the UK where our portfolio is located and where we have a representative office; and 2) Singapore where the head office is located and listed on the SGX-ST. These include, but are not limited to, business and commercial laws, governance codes, environmental regulations, and employment laws. More information on how such risks are managed can be found in the Enterprise Risk Management chapter. There were no instances of non-compliance with applicable laws or regulations during the reporting or preceding period.
+
+##### Whistleblowing Policy
+
+A Whistleblowing Policy and confidential channel have been established for internal and external stakeholders to report suspected fraud, corruption, unlawful conduct, human rights or grievances regarding potential negative impacts on stakeholders. More information on our protocols to protect the anonymity of the reporter and ensure non-retaliation can be found on page 120 and on our website: <https://www.eliteukreit.com/whistleblowing-statement.html>. During FY2025, the Group received one whistleblowing report. The matter was investigated and concluded in accordance with the Group's whistleblowing policy and internal procedures. Upon completion of the review, the report was assessed to be non-financial in nature and did not have any impact on the Group's financial statements for FY2025.
+
+#### Political Contributions
+
+Elite REIT's policy prohibits making any contributions to political campaigns. As such, no political contributions were made in the reported period.
+
+<!-- PAGE 75 -->
+
+#### Supply Chain
+
+Our supply chain largely consists of providers of professional services ranging from property management, corporate secretary, human resource consultancy, IT, auditing, valuation, and specialised services such as unit registrars, tax agents, insurance brokers, valuers and surveyors. A Group-wide Third-Party Agent and Outsourcing Policy is in place to govern these relationships, setting rigorous evaluation standards to address risks such as corruption and outsourcing vulnerabilities. Service providers classified as high-risk are required to certify their compliance with relevant laws, including anti-corruption regulations, on an annual basis. Prior to the appointment of key suppliers, the Manager conducts comprehensive due diligence to verify that their practices align with the Group’s ethical and governance principles.
+
+### SUSTAINABLE AND SUSTAINABILITY-LINKED FINANCE FRAMEWORK
+
+A key component of Elite REIT’s net-zero carbon emissions by 2050 goal, a Sustainable and Sustainability-Linked Finance Framework (the “**Framework**”) was launched in November 2022. The Framework underpins the Manager’s project financing initiatives that propel positive environmental, social, and sustainability outcomes, both now and in the future. As at 31 December 2025, all of our loans are sustainability-linked and sustainability performance targets agreed with the lender have been met, resulting in lower finance costs. The Framework introduces Sustainable Finance Instruments (“**SFIs**”) under two distinct sub-frameworks:
+
+#### Sustainable Finance Framework
+
+This sub-framework ensures that our projects contribute to sustainable growth while aligning with broader environmental and social goals. Focused on allocating proceeds to eligible green and/or social projects, it enables Elite REIT to issue SFIs to fund or refinance, either fully or partially, new or existing projects that fall within the eligible green and social categories. Additionally, it allows for the refinancing of projects initiated up to 24 months before the issuance of an SFI.
+
+#### Sustainability-Linked Finance Framework
+
+This sub-framework provides Elite REIT with the operational flexibility to issue financing instruments for general corporate purposes, while holding us accountable to measurable and ambitious sustainability targets. A key highlight is that the financial characteristics of these instruments are tied to selected sustainability Key Performance Indicators (“**KPIs**”) and their corresponding Sustainability Performance Targets (“**SPTs**”). These KPIs and SPTs are integral to our business, ambitious, and measurable.
+
+The Framework was developed with strict adherence to internationally recognised principles and standards. DNV Business Assurance Singapore Pte. Ltd., as an Independent Second Party Opinion Provider, has reviewed the Framework.
+
+![QR code linking to the Sustainable and Sustainability-Linked Finance Framework information.](2c18ff33d38a7a721b312a8a8847c3cd_img.jpg)
+
+More information about Elite REIT’s Sustainable and Sustainability-Linked Finance Framework on the website: [www.eliteukreit.com/pdf/Green-Finance-Framework.pdf](http://www.eliteukreit.com/pdf/Green-Finance-Framework.pdf)
+
+### TARGETS AND PERFORMANCE
+
+| ESG TOPIC | TARGET | FY2025 PERFORMANCE |
+|-|-|-|
+| Regulatory Compliance | <b>Ongoing</b> <ul style="list-style-type: none"><li>Zero incidents of significant non-compliance with environmental and socioeconomic regulations</li></ul> | <ul style="list-style-type: none"><li>No confirmed incidents</li></ul> |
+| Anti-Corruption | <b>Ongoing</b> <ul style="list-style-type: none"><li>Zero incidents of corruption and bribery</li><li>Annual training on anti-corruption and anti-money laundering policies</li></ul> | <ul style="list-style-type: none"><li>No incidents</li><li>100% of Board and eligible staff completed the annual training</li></ul> |
+
+![A person's hands are shown writing on a document with a pen. The document features a green circular chart and other data visualizations. In the background, there are several potted plants, suggesting an office or workspace environment.](11cc42375e0241b38ce83fba4f3cf332_img.jpg)
+
+A person's hands are shown writing on a document with a pen. The document features a green circular chart and other data visualizations. In the background, there are several potted plants, suggesting an office or workspace environment.
+
+<!-- PAGE 76 -->
+
+## Sustainability Report
+
+### Enabling Positive Social Impact: People, Community, Our Portfolio
+
+Elite REIT strives to create an inclusive, supportive, and empowering workplace where every employee can reach their full potential. This commitment forms the foundation of our approach to attracting, developing, and retaining exceptional talent. Our workplace policies are built on principles of open communication, mutual trust, respect, and collaboration, supported by policies that encourage active engagement and continuous personal and professional development.
+
+#### People
+
+#### EMPLOYEES
+
+As at 31 December 2025, there were seven full time employees on permanent contracts, of which three are senior management and four are executives. Four are based in our Singapore office and three are based in our UK office. One joined the Manager in FY2025. There were no turnover, temporary or part-time employees in the reported period.
+
+### POLICIES AND PRACTICES
+
+##### Human Rights and Discrimination
+
+Forced or bonded labour, child labour, and human trafficking are severe violations of fundamental human rights. The Manager aims to uphold and embed internationally recognised human rights principles across our business and supply chains,
+
+Taking reference from the UN Declaration of Human Rights, the International Labour Organization's core labour standards and the UN Global Compact's Ten Principles, Elite REIT's Human Rights Policy cultivates a workplace built on mutual respect, trust, and dignity, where all individuals are treated fairly and protected from human rights infringements.
+
+The policy is robustly developed to prohibit any form of discrimination or harassment based on race, ethnicity, family status, age, disability, religion, gender, or marital status. The Manager is committed to prompt investigation and taking or supporting remedial actions when it has caused or contributed to adverse human rights impacts, including discrimination or harassment. In FY2025, there were no reported incidents of discrimination.
+
+##### Diversity, Equality and Inclusion
+
+We recognise that a diverse workforce strengthens decision-making, enhances market competitiveness, attracts and retains talent, and bolsters our corporate reputation. Our commitment to equal opportunities and recognition based on merit is embedded in our policies and practices.
+
+We aim to cultivate a workplace culture where every individual feels valued, respected, and empowered to contribute meaningfully. As at 31 December 2025, 43% of our employees were female and 57% male; 86% of our employees were between 30-50 years in age; and 14% were below the age of 30. 100% of senior management and 25% of executives are male; 75% of executives are female.
+
+In fostering an inclusive and welcoming workplace that respects diversity, we marked the Anti-Bullying Week in the UK and encouraged staff to wear their most fun, bold, colourful and wonderfully mismatched socks. This was a small but meaningful reminder that our differences are something to celebrate, and that everyone should feel comfortable being themselves.
+
+##### Talent Recruitment, Engagement and Management
+
+Attracting and retaining highly qualified employees is essential to delivering quality services to our primary occupiers and tenants and ensuring sustainable returns for unitholders. Fostering an engaged and motivated workforce is central to our talent management approach. Our strategy centres on cultivating a fair, inclusive, and performance-driven culture that supports the attraction, development, and retention of exceptional talent. We champion employee engagement, continuous learning, diversity and inclusion, collaboration, work-life balance, and a transparent performance management framework that ensures equitable recognition and rewards.
+
+Our hiring practices emphasise merit, diversity, and equal opportunity, while retention efforts focus on fostering a positive work environment, career growth, and employee engagement. Hiring and turnover rates are monitored regularly, with regular updates provided to management to guide workforce planning and continuous improvement.
+
+A range of engagement platforms are leveraged, which include regular meetings, cross-functional collaboration, and continuous interaction. We respect employees' rights to freedom of association and collective bargaining, although at present no employees are covered under such agreements. As a lean organisation, the Human Resource department maintains an open door policy to communicate for employees and suppliers to raise any issues of concern.
+
+A whistleblowing channel additionally allows internal and stakeholders to raise concerns or grievances in confidence. Read more about our Whistleblowing Policy on page 120 and on our website: <https://www.eliteukreit.com/whistleblowing-statement.html>.
+
+Complementing these efforts, we employ formal engagement tools such as annual performance appraisals and individual development goals for all our employees to strengthen alignment with the organisation's overall objectives.
+
+<!-- PAGE 77 -->
+
+##### Employee Development
+
+Developing our people is fundamental to building a skilled and resilient team capable of advancing the company's strategic goals. We are committed to ensuring opportunities for ongoing learning and development, fostering a culture where employees continuously build the skills and knowledge essential for lasting success.
+
+In response to a rapidly evolving business landscape, our employees are equipped to address emerging priorities such as climate-related risks and opportunities, regulatory developments in energy, emissions, and water management, ESG due diligence, green building certification, and sustainability reporting.
+
+We maintain an ongoing target of at least 20 training hours per employee annually, including a minimum of one hour focused on ESG topics. Progress is monitored and reported through average training hours per employee. Overall, employees achieved 29.2 hours of training on average; Male employees completed 31.2 hours while female employees completed 16.7 hours.
+
+##### Employee Well-being
+
+Employee health and well-being are integral to fostering a resilient, engaged, and high-performing workforce that supports long-term value creation and sustainable business performance.
+
+Employees have access to medical insurance, clinical and hospitalisation coverage. A variety of programmes encourage active lifestyles and nurture stronger connections among colleagues. Activities such as walking, jogging, badminton, and cycling contribute to overall wellness while fostering collaboration, cohesion, and team spirit across the organisation.
+
+##### Performance Management
+
+A fair, transparent, and merit-based performance management framework is in place to integrate employees' development goals with Elite REIT's strategic business priorities.
+
+The annual performance evaluation process includes self-assessment, performance discussions, the identification of training and development needs, and joint review of key performance indicators to drive employee growth and motivation. Employees take part in setting and reviewing individual and team goals, ensuring clear alignment between performance expectations and compensation.
+
+In FY2025, all employees participated in annual performance and career development reviews, achieving a 100% participation rate.
+
+##### Health and Safety
+
+Prioritising health and safety of employees, tenants, occupiers, customers, and visitors is a core component of Elite REIT's sustainability commitment. Close collaboration with primary occupiers and tenants helps ensure that appropriate safety measures are in place to prevent workplace accidents and injuries throughout our portfolio, in alignment with all applicable health and safety compliance requirements.
+
+Health and safety practices within an office environment are guided by a commitment to providing a secure, comfortable, and well-managed workspace for all employees. Robust measures are in place to ensure potential risks are proactively identified and effectively managed. Information on our approach to employee health can be found in the Employee Well-being section.
+
+There were no incidents of reportable injuries in our workplaces in FY2025.
+
+##### Community
+
+Most of Elite REIT's physical spaces are operated by our primary occupier, DWP, whose mission is focused on maximising employment and supporting in-work progression. The Manager is aligned with its primary occupier's mission of improving lives and fostering economic prosperity and we collaborate with other institutions including our Sponsors as part of a broader effort to create secure and prosperous futures. Our key community engagement programmes in FY2025 are summarised below:
+
+- Elite REIT supports Singapore-based **Aidha's** mission to help migrant domestic workers and low-income women achieve economic independence through financial education, wealth creation and entrepreneurship. Volunteers from Elite REIT actively take part in the charity's Business Planning Clinics to speak and provide advice to participants
+
+![A group of people, including a woman in a white shirt and a man in a dark shirt, sitting at a table with laptops, smiling and making peace signs.](a6bc7d40ea1428387427115084a4cb21_img.jpg)
+
+A photograph showing a group of people in an office setting. In the foreground, a woman with dark hair tied back, wearing a white long-sleeved shirt, is smiling and making a peace sign with her right hand. Next to her, a man with glasses and a dark shirt is also smiling and making a peace sign. They are seated at a table with several laptops, papers, and a mug. In the background, other people are visible, some working on laptops. The atmosphere appears positive and collaborative.
+
+A group of people, including a woman in a white shirt and a man in a dark shirt, sitting at a table with laptops, smiling and making peace signs.
+
+<!-- PAGE 78 -->
+
+###### Sustainability Report
+
+- We partner with social enterprises for event catering and refreshments to direct our procurement spend towards organisations that create meaningful employment opportunities for individuals from underserved and underrepresented communities. By working with organisations such as Singapore’s **Project Dignity**, **Bettr Coffee** and **the Yellow Ribbon bakery**, we aim to support an ecosystem which enables ex-offenders, women seeking empowerment, at-risk youth, and persons with disabilities.
+
+![A group of five women standing behind a table with various items, likely at a social enterprise event.](6b46a01346687bc6183122b5c80d9755_img.jpg)
+
+A group of five women standing behind a table with various items, likely at a social enterprise event.
+
+![Two photographs: on the left, three men standing together; on the right, a man running in a marathon wearing a 'StandOut' shirt.](2c89962e75ab9e8ceddc51e6bddf3939_img.jpg)
+
+Two photographs: on the left, three men standing together; on the right, a man running in a marathon wearing a 'StandOut' shirt.
+
+- In the UK, we support **StandOut**, which is a charity focused on helping individuals make positive change, realise their potential, and rebuild their lives after prison. In addition to volunteering at coaching events, staff raised funds for the organisation by participating in the London Marathon.
+
+### TARGETS AND PERFORMANCE
+
+| ESG TOPIC | TARGET | FY2025 PERFORMANCE |
+|-|-|-|
+| Attracting and retaining talent | <b>Ongoing</b> <ul style="list-style-type: none"><li>• To improve net promoter score of employee satisfaction survey</li></ul> | <ul style="list-style-type: none"><li>– Relatively stable score</li><li>– Proportion of both Promoters and Detractors increased</li></ul> |
+| Employee Development | <b>Ongoing</b> <ul style="list-style-type: none"><li>• Average 20 hours of training per employee</li><li>• At least one hour of compulsory ESG training for all employees</li></ul> | <ul style="list-style-type: none"><li>– Achieved average 29.2 hours of training per employee</li><li>– 86% of employees received at least one hour of ESG-related training</li></ul> |
+| Diversity | <b>Ongoing</b> <ul style="list-style-type: none"><li>• Introduction of gender diversity at the Board level</li><li>• Achieve 30% female representation on the Board by 2029</li></ul> | <ul style="list-style-type: none"><li>– Refer to Board Diversity section on page 102</li><li>– Female representation on the Board in progress</li></ul> |
+
+### Enabling Positive Social Impact: Portfolio
+
+Elite REIT’s investment strategy is focused on government-leased properties and living sector assets, enabling our portfolio to generate meaningful and lasting positive social impact.
+
+The DWP, the UK’s largest public service department, plays a key role in supporting the UK’s social fabric by managing welfare, pensions, employment and disability support, and child maintenance policies. In its latest reported financial year 2024-2025, the DWP was responsible for over £287 billion in benefits distribution<sup>2</sup>.
+
+Its network of JobCentre Plus centres provides services to over 20 million people, and include activities such as training programmes, job fairs and Sector-Based Work Academy Programmes (“**SWAPs**”). JobCentre Plus serves as a vital pillar in the UK Government’s mission to reduce poverty and promote social progress through the enablement of fair employment opportunities.
+
+Approximately 88% of DWP-occupied assets in Elite REIT’s fit-for-purpose portfolio are used as public-facing JobCentre Plus centres. These centres serve local communities and individuals by providing financial assistance and employment services to rejoin the workforce.
+
+2 DWP Annual Report and Accounts 2024–2025
+
+<!-- PAGE 79 -->
+
+### Supporting a Sustainable Environment
+
+Elite REIT is committed to developing an environmentally responsible and resilient portfolio by managing climate-related risks and opportunities, working to reduce GHG emissions, and improving energy efficiency in partnership with tenants. Our approach includes continuous evaluation and improvement of our portfolio's climate resilience, as well as integrating climate-related risks and opportunities into acquisition decisions. We continue to strengthen our approach to climate resilience by continuously assessing portfolio exposure and integrating climate-related risks and opportunities into investment and acquisition decisions.
+
+The majority of the portfolio operates under full repairing and insuring ("FRI") leases, and the Manager has limited to no direct control over day-to-day energy, water, and waste management. We therefore work on the basis of close collaboration and engagement with tenants to support their efforts while championing our own environmental goals.
+
+The environmental strategy centres on three key priorities:
+
+1. Mitigating climate-related physical and transition risks to safeguard long-term asset value,
+2. Upgrading assets to meet the increasing demand for low-carbon, sustainable spaces,
+3. Collaborating with the primary occupier to monitor and enhance environmental performance.
+
+#### POLICIES AND PRACTICES
+
+##### Tenant Engagement
+
+Proactive and regular engagement of our primary occupier and tenants are undertaken for a range of environmental matters, including energy performance and efficiency.
+
+Regular dialogues and an on-the-ground presence in the UK allow Elite REIT to thoroughly assess occupier behaviour and develop a more informed view of our primary occupier and tenants priorities. We collaborate closely with our stakeholders to implement provisions, which are essential for advancing sustainability and environmental responsibility within our properties.
+
+Such clauses are instrumental in Elite REIT's efforts to establish structured and consistent sharing of environmental performance data from our occupiers, strengthening transparency and enabling more targeted resource management. Through enhanced information and direction for improvement, we aim to explore opportunities for coordinated sustainability planning, drive occupier behavioural optimisation, and establish a more rigorous framework for measuring performance against portfolio-level environmental targets.
+
+![Aerial view of a modern building complex with green roofs and surrounding greenery.](ce67534071b717afd697d4a509ccd181_img.jpg)
+
+An aerial photograph showing a modern architectural complex with multiple buildings featuring green roofs. The roofs are densely planted with various green plants and trees. The surrounding area includes paved walkways, additional green spaces, and some parking areas. The overall scene conveys a commitment to sustainable and green building practices.
+
+Aerial view of a modern building complex with green roofs and surrounding greenery.
+
+In FY2025, Elite REIT successfully expanded portfolio energy and emissions disclosure beyond its principal occupier, the DWP. Working together with a third-party consultant to engage our non-DWP tenants, portfolio coverage has increased to 100% in the reporting year compared to 91% in FY2024.
+
+##### Improving Energy Efficiency
+
+Energy management efforts focus on improving efficiency across the portfolio to lower overall consumption and reduce carbon emissions. Collaboration initiatives with tenants and occupiers support the implementation of energy-saving measures such as LED lighting, high-efficiency Heating, Ventilation and Air-Conditioning ("HVAC") systems, and smart building technologies. Older assets will progressively undergo energy-efficient upgrades and retrofits, alongside the exploration of renewable solutions including rooftop solar installations.
+
+Maintaining strong green building and energy certification standards forms an integral part of this approach. Supported by ongoing awareness-building to promote energy-conscious behaviours, Elite REIT and stakeholders continue to explore opportunities for renewable energy integration such as solar installations as well as other emerging technologies and industry best practice.
+
+##### Reducing GHG Emissions
+
+Reducing greenhouse gas emissions remains a priority as we turn the focus on sustainable operations. Collaboration with tenants and occupiers continues to play a central role by encouraging shared responsibility for emission-reduction efforts and the uptake of sustainable behaviours. To reinforce transparency and accountability, GHG emissions associated with the properties are jointly monitored and reported in line with stakeholder expectations and relevant climate frameworks.
+
+<!-- PAGE 80 -->
+
+###### Sustainability Report
+
+### TARGETS AND PERFORMANCE
+
+Majority of our portfolio (92%) is leased to primary occupants such as the DWP, closely aligning our commitments with the UK’s national climate agenda. As a Singapore-listed entity, we also align to the Singapore Green Plan 2030, a roadmap for sustainable development.
+
+| ESG TOPIC | TARGET | FY2025 PERFORMANCE |
+|-|-|-|
+| Climate-related Risks and Opportunities | <b>Ongoing</b> <ul style="list-style-type: none"> <li>Integrate climate-related risks and opportunities into our due diligence process when considering new asset investments</li> </ul> | <ul style="list-style-type: none"> <li>With reference to the Environmental Risk Management Framework, a climate due diligence was implemented for three new acquisitions in June 2025.</li> </ul> |
+| Energy and GHG Emissions | <b>Ongoing</b> <ul style="list-style-type: none"> <li>Achieve more than 25% of portfolio with an EPC rating of C and above based on floor area by 2027</li> <li>More than 3% of portfolio with an EPC rating of B and above based on floor area by 2027</li> </ul> | <ul style="list-style-type: none"> <li>34.9% (vs 23.1% from FY2024)</li> <li>8.6% (vs 3.5% from FY2024)</li> </ul> |
+| Tenant Engagement | <b>Ongoing</b> <ul style="list-style-type: none"> <li>Maintain regular engagements with the primary occupier on periodic and regular sharing of environmental data for performance tracking</li> <li>Regular engagements with the primary occupier are maintained on periodic and regular sharing of environmental data for performance tracking</li> </ul> | <ul style="list-style-type: none"> <li>Regular engagements with DWP undertaken in reporting period</li> <li>Environmental data shared annually</li> </ul> <p>Example of works completed and in planning under Sustainability Capex:</p> <ul style="list-style-type: none"> <li>Replacement of lighting with LED throughout, including for all emergency lighting, controls and wiring as required</li> <li>Roofing replacement project – replace roof coverings and insulation and replace with new part I compliant roof</li> <li>Replacement of gas/oil-fuelled boilers with new high efficiency air source heat pumps or non-carbon-based heating system solution</li> <li>Replacement of air-conditioned system across ground and first floor offices with VRV system</li> <li>Replacement of air handling unit (“AHU”), direct expansion cooling systems, modifications to existing ductwork and building management system (“BMS”) replacements</li> </ul> |
+
+## TCFD REPORT
+
+This is Elite REIT’s fifth TCFD Report, prepared in line with TCFD Recommendations, to provide stakeholders with insights into climate-related risks and opportunities relevant to Elite REIT and our approach to addressing them. The report is organised around four key areas: governance, strategy, risk management, and metrics and targets.
+
+## Governance
+
+A robust governance framework has been established where the Board oversees climate-related issues and the Management of Elite REIT is responsible for directing, implementing and monitoring climate strategies. Information on Board and Management responsibility has been detailed on page 70.
+
+### Strategy
+
+The Paris Agreement, which seeks to limit global temperature rise to well below 2°C above pre-industrial levels, and the United Kingdom’s legally binding target to achieve net-zero greenhouse gas emissions by 2050 play key roles in shaping the green transition of the real estate sector. These frameworks serve as key reference points in understanding potential market, policy, and physical changes that may shape the built environment. Both transition and physical risks may influence asset performance, operational resilience, and long-term portfolio value. In line with the recommendations of the TCFD, we evaluate how these risks and opportunities could affect our business strategy and investment approach over the short, medium, and long term.
+
+The Manager continues to monitor evolving climate policies, carbon pricing mechanisms, and industry expectations, while assessing their potential implications for asset value, financing,
+
+<!-- PAGE 81 -->
+
+and tenant operations. Scenario-based considerations are used to explore how varying climate pathways and regulatory developments could influence the resilience and long-term performance of our portfolio. Through engagement with tenants, property managers, and other stakeholders, we aim to enhance data availability and identify opportunities to improve the climate resilience and efficiency of our assets, consistent with broader market trends and investor expectations.
+
+As Elite REIT's portfolio is based in the UK, the Manager is guided by the UK Government's net-zero strategy for the real estate sector. The demand for energy-efficient, low-carbon buildings is expected to continue increasing. The Manager regularly assesses climate-related risks and opportunities across the portfolio and implements mitigation and adaptation measures to support the transition toward a lower-carbon economy.
+
+### **Our Strategic Approach**
+
+Our strategy considers potential climate-related financial impacts over short-, medium-, and long-term horizons, defined as:
+
+#### **Short-Term (0-5 years)**
+
+Key priorities centre on enhancing portfolio energy efficiency and mitigating physical climate risks such as flooding and sea-level rise. Given that most assets operate under FRI leases, collaboration with tenants and occupiers is essential to monitoring and improving environmental performance. All leases with the primary occupier already include clauses that facilitate environmental data sharing and performance tracking, and similar provisions will be extended to other tenants as part of our broader climate risk management strategy.
+
+The Manager is also refining our framework for evaluating climate-related risks and opportunities in new acquisitions. Key assessment criteria include exposure to physical climate hazards and asset-level sustainability indicators, such as energy efficiency, carbon intensity, and water consumption.
+
+By 2027, the Manager targets for more than 25% of portfolio with an EPC rating of C and above based on floor area and for more than 3% of portfolio with an EPC rating of B and above based on floor area. Concurrently, engagement with occupiers is being strengthened to improve data collection on energy and emissions, alongside exploring strategic partnerships to enhance overall portfolio performance.
+
+#### **Mid-Term (6-10 years)**
+
+Our mid-term strategy focuses on ongoing collaboration with our primary occupier, other occupiers, and tenants, as well as targeted investments in our property portfolio to comply with the UK Government's Minimum Energy Efficiency Standards.
+
+#### **Long-term (over 10 years)**
+
+The long-term objective is to ensure that the portfolio assets remain tenable and resilient under a range of climate scenarios. Continued investment in mitigation and adaptation measures will strengthen the resilience of existing assets, supporting their ability to withstand evolving climate-related
+
+challenges. Climate risks and opportunities will become a core component of the due diligence process for new acquisitions, encompassing assessments of physical climate risks and carbon appraisals to understand transition requirements associated with a net-zero carbon pathway.
+
+### **Risk Management**
+
+#### **Scenarios Applied**
+
+The Manager continues to strengthen its understanding of climate-related risks and opportunities through ongoing climate scenario analysis, first undertaken in 2021. Two scenarios have been selected to consider global temperature rise of 2°C and 4°C, which is based on the Representative Concentration Pathways ("RCPs") developed by the Intergovernmental Panel on Climate Change ("IPCC"). Under the 2°C scenario, aligned with the IPCC's RCP2.6 pathway, both transition risk, physical risk as well as potential opportunities are evaluated. The 4°C scenario, referencing the higher-emission RCP8.5 pathway, focuses on the assessment of physical risks to the portfolio.
+
+### **Holistic Management of Risks and Opportunities**
+
+Applying the TCFD Recommendations and the MAS Guidelines on Environmental Risk Management, these climate-related risks have been integrated into the Manager's Enterprise Risk Management framework.
+
+Climate-related considerations which include water stress and biodiversity are embedded in investment research, portfolio construction, risk management and stewardship practices across different asset classes and investment strategies.
+
+An internal escalation process is in place to ensure that material environmental risk exposures are regularly reviewed by management and the Board for the need to develop action plans and allocate adequate resources and expertise.
+
+The ARC supports the Board in reviewing the adequacy and effectiveness of internal control policies and procedures. More information can be found on pages 91-96 and 113.
+
+#### **Assessment of Climate-related Risks**
+
+##### **Physical Risk**
+
+Climate change and severe weather phenomena present substantial physical risks to societies, economies, and businesses. These can be broadly classified as acute or chronic. Acute risks arise from event-driven occurrences such as floods and cyclones, while chronic risks emerge from long-term climatic shifts, including rising temperatures, sea-level rise, and prolonged heatwaves. Both forms of risk have the potential to affect asset conditions, disrupt tenant operations, and, in severe circumstances, compromise the usability or how leasable our properties are.
+
+A comprehensive assessment of physical climate risks was carried out across the portfolio of 148 UK properties using the Met Office's UK Climate Projections 2018 ("UKCP18"). The projections for the UK suggest that the UK is expected to experience warmer, wetter winters and hotter, drier summers
+
+<!-- PAGE 82 -->
+
+###### Sustainability Report
+
+throughout the 21st century as a result of anthropogenic global warming. Under a high-emission scenario, average summer temperatures throughout the UK could increase by 0.9°C to 5.4°C, while winter temperatures may rise by 0.7°C to 4.2°C by 2070. Rainfall patterns are also projected to shift, with summer precipitation potentially decreasing by up to 47% and winter rainfall increasing by as much as 35%.
+
+The frequency and severity of extreme weather events are also projected to increase. Intense summer downpours and increased heatwaves are particularly expected to occur across Southeast England. Sea levels around the UK have already risen by approximately 17 centimetres since the 20th century and are expected to continue rising. Under a high-emission scenario, London could see sea levels increase by between 0.53 and 1.15 metres by 2100, relative to the baseline period of 1981–2000.
+
+##### UK Weather in 2025
+
+The Manager regularly monitors weather trends and forecasts to strengthen our understanding and management of climate-related risks and opportunities on local conditions. In 2025, several notable weather events were recorded across the United Kingdom, as reported by the UK Met Office and various media sources.
+
+###### *Temperatures continue to rise*
+
+The past two decades have accounted for all ten of the warmest years on record in the UK. In 2025, England and Scotland experienced their warmest year since 1884, while Wales and Northern Ireland recorded their second warmest year.
+
+Persistent high-pressure systems in 2025 largely led to the year's warmth, sunny conditions, and reduced rainfall. This saw several parts of the country declaring official drought status, particularly in the spring and summer seasons. Conversely, September, November, and December observed higher-than-average rainfall which allowed the counties to recover.
+
+The Met Office continues to anticipate that human-driven climate change will increasingly intensify extreme weather conditions across the UK.
+
+###### *Unusually warmer sea surface*
+
+The Met Office 2025 report noted unprecedented high surrounding sea temperatures for the year. The marine heatwave affected the land's natural cooling functions, contributing to higher temperatures and drier soil conditions. We continue to monitor the situation to further understand if this is an anomaly, or a factor that could potentially accelerate land temperature forecasts in the short to mid-term.
+
+###### *Biggest windstorm a decade*
+
+There were four named storms in 2025 compared to nine in 2024. Storm Éowyn which arrived in January was the most severe windstorm in over ten years, with speeds largely in the 81 mph and 92 mph range and recorded a high of
+
+100 mph at Drumlabin, Lanarkshire in Scotland. It caused widespread power and transport disruption particularly in Northern Ireland and Scotland's Central Belt. Storm Floris was also notable for its unexpected strength during the summer season, producing gusts of up to 82 mph in northern Scotland.
+
+##### Flood Risk
+
+With expected increase in precipitation and sea level rise, coupled with continued urban development, different regions in the UK will likely experience a range of flooding events. Low-lying areas and urban areas with inadequate drainage may experience flash floods, while coastal properties may see storm surges. Elite REIT employs a range of monitoring tools to identify and monitor assets in our portfolio, particularly those that appear in national climate models' higher flood-risk areas.
+
+As flood risk is inherently influenced by hyperlocal factors, the Manager is committed to maintaining ongoing surveillance of site-specific conditions while embedding comprehensive flood-risk management practices within our asset management approach.
+
+##### Water Impact
+
+Majority of the portfolio are in low to moderate baseline water risk regions. An annual review of water-stress exposure utilising World Resources Institute's Aqueduct tool across our UK portfolio places 9% of our portfolio as at 31 December 2025 in areas with high baseline water stress<sup>3</sup>.
+
+We continue to monitor and manage potential exposure points and integrate this into our strategic approach to long-term asset management. This safeguards long-term asset value by ensuring buildings remain resilient, attractive to tenants, and mitigate potential cost and supply risks as a result of constrained water availability as well as evolving environmental and regulatory expectations.
+
+##### Insurance
+
+The insurance sector is undergoing a transition where climate and weather impacts are increasingly considered in underwriting assessments. Consistent with perspectives from industry bodies such as the Association of British Insurers ("ABI"), the Manager continues to monitor the evolving physical climate considerations.
+
+##### Transition Risk
+
+The transition towards a lower-carbon or net-zero economy presents potential risks for the portfolio, driven by evolving policies, regulations, legal requirements, technologies, and market dynamics aimed at supporting climate change mitigation and adaptation. At the same time, these shifts also create opportunities, which include but are not limited to enhancing resource efficiency and reducing costs, adopting low-carbon energy solutions, developing sustainable products and services, entering new markets, and strengthening supply chain resilience.
+
+3 World Resource Institute's Aqueduct 4.0 Water Risk Atlas, data extracted 31 Jan 2026.
+
+<!-- PAGE 83 -->
+
+##### Climate-related Risks
+
+| Risk Type | Risk Type | Risk Description | Potential Financial Impacts | Mitigation or Adaptation Measures |
+|-|-|-|-|-|
+| Physical Risk | Increased severity of extreme weather events such as floods and flash floods | <ul style="list-style-type: none"> <li>Properties located in high flood-risk areas</li> </ul> | <ul style="list-style-type: none"> <li>Asset valuation</li> <li>Inability to rent or sell the asset</li> <li>Increase in insurance costs</li> <li>Physical damage or impairment of assets</li> <li>Cost of pre-emptive mitigation measures</li> </ul> | <ul style="list-style-type: none"> <li>Undertake a further study to assess local town councils' preparedness and plans in areas where there is a high risk of river, coastal and surface water flooding</li> <li>Engage with the local councils and the tenant and/or occupier</li> </ul> |
+|  | Rising mean temperatures | <ul style="list-style-type: none"> <li>Properties located in high water-stressed or heat-stressed areas</li> </ul> | <ul style="list-style-type: none"> <li>Asset valuation</li> <li>Inability to rent or sell the asset</li> <li>Higher energy costs for tenants and/or occupiers due to increased cooling/demand</li> </ul> | <ul style="list-style-type: none"> <li>Prioritise water efficiency measures in collaboration with tenants and occupiers in properties identified to be in high water-stress risk areas</li> </ul> |
+| Transition Risk | Policy and Legal | <ul style="list-style-type: none"> <li>Stricter building energy efficiency and water efficiency regulations</li> <li>For example, the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015 stipulated that from 1 April 2023, landlords of privately rented property in England or Wales must ensure that their properties reach at least an EPC rating of E before the non-domestic properties can be rented out<sup>4</sup></li> <li>From 15 June 2022, new commercial buildings in England are required to emit 27% less carbon in comparison to current standards. Other improvements include increasing ventilation, boosting air quality and cutting transmission risks of airborne viruses</li> <li>In addition, from 15 June 2022, existing non-residential, non mixed-use buildings undergoing major renovation (more than 25% of the surface area of the whole building envelope) will be required to have at least one electric vehicle ("EV") charging point for every 10 car parking spaces<sup>5</sup></li> <li>Pricing on carbon emissions</li> </ul> | <ul style="list-style-type: none"> <li>Cost of asset enhancements to meet high energy efficiency regulations</li> <li>Cost of asset enhancements to improve water efficiency</li> <li>Loss of revenue from the inability to lease non-compliant buildings</li> <li>Higher compliance cost</li> <li>Increased cost of operations due to carbon tax and carbon offsets</li> </ul> | <ul style="list-style-type: none"> <li>More than 25% of portfolio<sup>6</sup> with an EPC rating of C and above by 2027</li> <li>More than 3% of portfolio<sup>6</sup> with an EPC rating of B and above by 2027</li> </ul> |
+|  | Market | <ul style="list-style-type: none"> <li>Reduced demand for carbon efficient buildings due to changing customer preferences</li> <li>Increasing demand for climate related and ESG disclosures</li> </ul> | <ul style="list-style-type: none"> <li>Repricing of assets</li> <li>Lower rental yield</li> <li>Inability to rent or sell the assets</li> <li>Lower ESG ratings could affect asset valuation</li> </ul> | <ul style="list-style-type: none"> <li>More than 25% of portfolio<sup>6</sup> with an EPC rating of C and above by 2027</li> <li>More than 3% of portfolio<sup>6</sup> with an EPC rating of B and above by 2027</li> </ul> |
+|  | Reputation | <ul style="list-style-type: none"> <li>New reporting requirements: Market regulators may require adoption of the newly launched IFRS Sustainability Disclosure Standards (S1 and S2). S2 Standard relates to climate risk reporting</li> </ul> | <ul style="list-style-type: none"> <li>Inability to comply with emerging reporting requirements may affect our reputation, including intangible assets such as brand equity</li> <li>Increased cost of compliance</li> </ul> | <ul style="list-style-type: none"> <li>We closely monitor for gaps and emerging regulations to plan timely implementation</li> </ul> |
+
+4 Gov.UK, Non-domestic private rented property: minimum energy efficiency standard – landlord guidance, 15 October 2019.
+
+5 HM Government, The Building Regulations 2010, Infrastructure for the charging of electric vehicles, 2021 edition – for use in England.
+
+6 Based on floor area.
+
+<!-- PAGE 84 -->
+
+###### Sustainability Report
+
+##### Climate-related Opportunities
+
+| Category | Opportunity | Description | Potential Financial Impacts | Management Approach |
+|-|-|-|-|-|
+| Resource Efficiency | Higher demand for energy-efficient buildings | <ul style="list-style-type: none"><li>Improve energy efficiency of buildings</li></ul> | <ul style="list-style-type: none"><li>Rental premium</li><li>Asset valuation</li><li>Energy and operational cost savings for tenants and occupiers</li><li>Lease longevity</li></ul> | <ul style="list-style-type: none"><li>More than 25% of portfolio<sup>6</sup> with an EPC rating of C and above by 2027</li><li>More than 3% of portfolio<sup>6</sup> with an EPC rating of B and above by 2027</li></ul> |
+| Energy Source | Use of renewable energy to lower carbon emissions | <ul style="list-style-type: none"><li>Installation of photovoltaic ("PV") solar panels on our assets</li></ul> | <ul style="list-style-type: none"><li>On-site PV solar panel installations could generate renewable energy to offset carbon emissions and lower carbon tax</li><li>Surplus from on-site PV solar panel installations could generate additional sources of revenue</li><li>Asset valuation</li><li>Rental premium</li><li>Lease longevity</li></ul> | <ul style="list-style-type: none"><li>Explore opportunities to collaborate with tenants and occupiers to improve properties' sustainability performance, including the feasibility of on-site PV solar panel installations</li></ul> |
+| Products and Services | Higher demand for energy-efficient and green-certified buildings | <ul style="list-style-type: none"><li>Improve energy efficiency of buildings</li><li>Obtain green building certification</li></ul> | <ul style="list-style-type: none"><li>Rental premium</li><li>Asset valuation</li><li>Energy and operational cost savings for tenants and occupiers</li><li>Lease longevity</li></ul> | <ul style="list-style-type: none"><li>More than 25% of portfolio<sup>6</sup> with an EPC rating of C and above by 2027</li><li>More than 3% of portfolio<sup>6</sup> with an EPC rating of B and above by 2027</li></ul> |
+|  | Green finance | <ul style="list-style-type: none"><li>Green finance for asset enhancements</li></ul> | <ul style="list-style-type: none"><li>Lower interest cost on green loans</li></ul> | <ul style="list-style-type: none"><li>Continued commitment to accelerate and amplify instrument(s) to support net zero portfolio by 2050</li><li>As at 31 December 2025, the total amount of sustainability contribution by Elite UK REIT is £14.7 million</li></ul> |
+
+#### Metrics and Targets
+
+While the environmental footprint of our own operations is relatively limited, the Manager recognises that the portfolio's assets and capital financing represent key levers for driving long-term value through improved energy efficiency, reduced carbon intensity, and enhanced climate resilience. Accordingly, our reporting and targets incorporate key industry benchmarks and standards such as the SASB Real Estate Sustainability Accounting Standard for property subsector Office (N742) to ensure comparability, transparency, and alignment with market expectations. All ESG performances are regularly monitored and reviewed internally.
+
+#### Organisational energy and emissions
+
+In April 2025, Elite REIT relocated its Singapore office and begun work with the new landlord to measure its energy consumption for disclosure. From April to December 2025, the Singapore office's electricity consumption was 21.3 GJ, equivalent to carbon emissions of 2.4 tCO<sub>2</sub>e<sup>7</sup>.
+
+##### Portfolio energy and emissions
+
+Elite REIT does not retain operational or management control of its portfolio assets due to the full repairing and insuring basis of all our leases. We currently focus on collaborating closely with our primary occupier(s) to disclose the performance data as they represent the most material impacts for Elite REIT.
+
+As part of our efforts to enhance reporting, a third-party data collection platform arbnco was engaged to collate metered electricity consumption data from our remaining tenants. This information has been newly included in our portfolio's energy and emissions disclosure.
+
+The data presented in this section have been restated to reflect energy performance from the 148 properties in the REIT's portfolio as at 31 December 2025.
+
+7 Scope 2 Location-based grid emission factor is retrieved from Energy Market Authority's Singapore Energy Statistics 2024 data
+
+<!-- PAGE 85 -->
+
+#### TCFD Metrics and Targets
+
+| Climate-related Opportunities |  |  |  |  |
+|-|-|-|-|-|
+| Topic | Metric | FY2023 | FY2024 | FY2025 |
+| Products and services | Percentage of portfolio with an EPC rating of A or B (floor area) | 1.9% | 3.5% | 8.6% |
+|  | Percentage of portfolio with an EPC rating of A or B (gross rental income) | 1.3% | 3.2% | 10.4% |
+|  | Percentage of portfolio with an EPC rating of C (floor area) | 25.4% | 19.6% | 26.3% |
+|  | Percentage of portfolio with an EPC rating of C (gross rental income) | 30.7% | 24.5% | 27.5% |
+| Climate-related Risks |  |  |  |  |
+| Topic | Metric | FY2023 | FY2024 | FY2025 |
+| Policy and legal | Percentage of portfolio with an EPC rating of D and below (by floor area) | 72.7% | 76.9% | 65.1% |
+| Extreme weather | Percentage of portfolio exposed to high risk of inland, coastal and flash flooding (by floor area) | 34.4% | 20.7% | 15.9% |
+|  | Percentage of portfolio exposed to high risk of inland, coastal and flash flooding (by value) | 32.7% | 21.6% | 13.6% |
+| Resource supply | Percentage of portfolio located at high and extremely high baseline water stress area (by floor area) | 15.9% | 9.2% | 9.2% |
+|  | Percentage of portfolio located at high and extremely high baseline water stress area (by value) | 30.4% | 21.3% | 21.5% |
+| REIT Manager's Performance |  |  |  |  |
+| Topic | Metric | FY2023 <sup>8</sup> | FY2024 <sup>8</sup> | FY2025 <sup>8</sup> |
+| Energy Consumption | Energy consumption in Singapore headquarters (GJ) |  |  | 21.3 |
+| GHG Scope 1 Emissions | GHG emissions (tCO <sub>2</sub> e) | Data Not Available |  | 0 |
+|  | GHG emissions intensity by floor area (kgCO <sub>2</sub> e/sq ft) |  |  | 0 |
+| GHG Scope 2 Emissions <sup>8</sup> | GHG emissions (tCO <sub>2</sub> e) <sup>7</sup> |  |  | 2.4 |
+|  | GHG emissions intensity by floor area (kgCO <sub>2</sub> e/sq ft) |  |  | 0.6 |
+
+8
+
+FY2025 data available only from April 2025 onwards due to relocation of Singapore office and cooperation with the new landlord. Data not available for FY2023 and FY2024.
+
+<!-- PAGE 86 -->
+
+###### Sustainability Report
+
+| Tenant's Performance |  |  |  |  |
+|-|-|-|-|-|
+| Topic | Metric | FY2023 <sup>9</sup> | FY2024 <sup>9</sup> | FY2025 <sup>10</sup> |
+| Energy Consumption | Total energy consumption (GJ) | 224,401.4 | 207,676.9 | 213,394.0 |
+|  | Total electricity consumption (GJ) | 81,182.8 | 79,940.6 | 83,762.4 |
+|  | Total fuel consumption (e.g. gas) (GJ) | 143,218.6 | 127,736.3 | 129,631.6 |
+|  | Total energy intensity by floor area (MJ/sq ft) | 69.2 | 64.1 | 57.5 |
+| GHG Scope 3 Emissions: Category 13 (Downstream Leased Assets) | Total GHG emissions (tCO <sub>2</sub> e) <sup>10</sup> | 12,036.3 | 11,113.3 | 11,404.9 |
+|  | Total GHG emissions intensity by floor area (kgCO <sub>2</sub> e/sq ft) | 3.7 | 3.4 | 3.1 |
+
+![Donut chart showing The Manager's Energy Consumption. Electricity accounts for 20.6 GJ and Chilled Water accounts for 0.7 GJ.](b7b9fb0d8504e5e0dc06d2f930fc2444_img.jpg)
+
+The Manager's Energy Consumption (GJ)
+
+| Category | Value (GJ) |
+|-|-|
+| Electricity | 20.6 |
+| Chilled Water | 0.7 |
+
+Donut chart showing The Manager's Energy Consumption. Electricity accounts for 20.6 GJ and Chilled Water accounts for 0.7 GJ.
+
+![Donut chart showing The Manager's Scope 1 & 2 GHG Emissions. Scope 1 accounts for 2.4 tCO2e and Scope 2 accounts for 0 tCO2e.](a90f370ac129475af7bb60d26ddc783f_img.jpg)
+
+The Manager's Scope 1 & 2 GHG Emissions (tCO<sub>2</sub>e)
+
+| Category | Value (tCO <sub>2</sub> e) |
+|-|-|
+| Scope 1 | 2.4 |
+| Scope 2 | 0 |
+
+Donut chart showing The Manager's Scope 1 & 2 GHG Emissions. Scope 1 accounts for 2.4 tCO2e and Scope 2 accounts for 0 tCO2e.
+
+![Bar chart showing Tenant's Energy Consumption for FY2023, FY2024, and FY2025.](a8ca91088f131a25ba8ec2c547d6ffb3_img.jpg)
+
+Tenant's Energy Consumption (GJ)
+
+| Fiscal Year | Value (GJ) |
+|-|-|
+| FY2023 | 224,401.4 |
+| FY2024 | 207,676.9 |
+| FY2025 | 213,394.0 |
+
+Bar chart showing Tenant's Energy Consumption for FY2023, FY2024, and FY2025.
+
+![Bar chart showing Tenant's GHG Emissions for FY2023, FY2024, and FY2025.](46354e78fc94fa64a2d49f26a2a24c80_img.jpg)
+
+Tenant's GHG Emissions (tCO<sub>2</sub>e)
+
+| Fiscal Year | Value (tCO <sub>2</sub> e) |
+|-|-|
+| FY2023 | 12,036.3 |
+| FY2024 | 11,113.3 |
+| FY2025 | 11,404.9 |
+
+Bar chart showing Tenant's GHG Emissions for FY2023, FY2024, and FY2025.
+
+9 FY2023 and FY2024 energy consumption data have been restated based on new information, Scope 3 GHG emissions have likewise been adjusted as a result. The data for both FY2023 and FY2024 are based on DWP assets only.
+
+10 UK Government GHG Conversion Factors for Company reporting 2025, full set (DEFRA)
+
+(i) Electricity : UK Electricity (Scope 2)
+
+(ii) Natural Gas : Fuels (Scope 1, Net CV)
+
+(iii) Oil : Heat and Steam (Scope 2)
+
+<!-- PAGE 87 -->
+
+#### SASB Standards
+
+| SASB Standards Activity Metrics for property subsector Office (N742) |  |  |  |  |
+|-|-|-|-|-|
+| Activity Metric |  | FY2023 | FY2024 | FY2025 |
+| Number of assets, by property subsector (IF-RE-000.A) |  | 150 | 149 | 148 |
+| Leasable floor area, by property subsector (IF-RE-000.B) |  | 3,773,433 sq ft | 3,708,435 sq ft | 3,711,685 sq ft |
+| Percentage of indirectly managed assets, by property subsector (IF-RE-000.C) |  | 100.0% | 100.0% | 100.0% |
+| Average occupancy rate, by property subsector (IF-RE-000.D) <sup>11</sup> |  | 92.3% | 93.9% | 98.6% |
+| Topic |  | FY2023 | FY2024 | FY2025 |
+| Energy Management | Energy consumption data coverage as a percentage of total floor area (%) (IF-RE-130a.1) | 85.9% | 87.4% | 100% |
+|  | (1) Total energy consumed by portfolio area with data coverage, (2) percentage grid electricity (%), and (3) percentage renewable, by property subsector (IF-RE-130a.2) <sup>12</sup> | 224,401.4 GJ<br>36.2%<br>0.0% | 207,676.9 GJ<br>38.5%<br>0.0% | 213,394.0 GJ<br>39.3%<br>0.0% |
+|  | Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property subsector (IF-RE-130a.3) <sup>12</sup> | -11.4% | -7.5% | 2.8% |
+|  | Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector (IF-RE-130a.4) | 100% | 100% | 100% |
+|  | Description of how building energy management considerations are integrated into property investment analysis and operational strategy (IF-RE-130a.5) | Pages 79-82 |  |  |
+|  |  |  |  |  |
+| Water Management | Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property subsector (IF-RE-140a.1) | 85.9%<br>9.1% | 87.4%<br>9.2% | 87.3%<br>9.3% |
+|  | (1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property subsector (IF-RE-140a.2) <sup>12</sup> | 82.0 ML<br>14.7% | 80.1 ML<br>11.5% | 116.7 ML<br>8.9% |
+|  | Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property subsector (IF-RE-140a.3) <sup>12</sup> | -16.5% | -2.3% | 45.8% |
+|  | Description of water management risks and discussion of strategies and practices to mitigate those risks (IF-RE-140a.4) | Page 82 |  |  |
+| Management of Tenant Sustainability Impacts | (1) Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements and (2) associated leased floor area, by property subsector (IF-RE-410a.1) | 0%<br>0 | 0%<br>0 | 0%<br>0 |
+|  | Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property subsector (IF-RE-410a.2) | Not applicable |  |  |
+|  | Discussion of approach to measuring, incentivising, and improving sustainability impacts of tenants (IF-RE-410a.3) | Page 78 |  |  |
+| Climate Change Adaptation | Area of properties located in 100-year flood zones, by property subsector (IF-RE-450a.1) <sup>13</sup> | 781,966 sq ft | 1,000,679 sq ft | 1,101,647 sq ft |
+|  | Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks (IF-RE-450a.2) | Pages 80 to 84 |  |  |
+
+11 As at 31 December of the respective years.
+
+12 FY2023 and FY2024 data have been restated to reflect new information.
+
+13 Properties with High (>3.3% chance a year) and Medium (1% - 3.3% chance a year) risk of river, sea and surface water flooding in Wales, High (10% chance each year) and Medium risk (0.5% chance each year) of river, coastal and surface water flooding in Scotland, and High Probability (1% or greater chance each year) of river and coastal flooding in England.
+
+<!-- PAGE 88 -->
+
+###### Sustainability Report
+
+### TCFD and SASB Disclosure Index
+
+| Recommended Disclosures | Location |
+|-|-|
+| Governance | Page 70 |
+| Strategy | Page 78 |
+| Risk Management | Page 79 |
+| Metrics and Targets | Pages 82-83 |
+| SASB Real Estate Sustainability Accounting Standard Industry Standard v2023-06<br>IFRS S2 Industry-based Guidance Vol. 36 Real Estate<br>(Applicable to Property Sector: Office N742) | Page 85 |
+
+### GRI Content Index
+
+|  |  |
+|-|-|
+| Statement of use | Elite UK Reit has reported the information cited in this GRI content index for the period 1 January 2025 to 31 December 2025 with reference to the GRI Standards. |
+| GRI 1 used | GRI 1: Foundation 2021 |
+
+| GRI Standard | Disclosure | Location |
+|-|-|-|
+| GRI 2:<br>General<br>Disclosures 2021 | 2-1 Organisational details | Page 62 |
+|  | 2-2 Entities included in the organisation's sustainability reporting | Page 62 |
+|  | 2-3 Reporting period, frequency and contact point | Page 62 |
+|  | 2-4 Restatements of information | Pages 83, 85 |
+|  | 2-5 External assurance | Page 63 |
+|  | 2-6 Activities, value chain and other business relationships | Page 62 |
+|  | 2-7 Employees | Page 74 |
+|  | 2-8 Workers who are not employees | Not applicable |
+|  | 2-9 Governance structure and composition | Page 70 |
+|  | 2-10 Nomination and selection of the highest governance body | Pages 105-108 |
+|  | 2-11 Chair of the highest governance body | Page 105 |
+|  | 2-12 Role of the highest governance body in overseeing the management of impacts | Page 105 |
+|  | 2-13 Delegation of responsibility for managing impacts | Pages 98-100 |
+|  | 2-14 Role of the highest governance body in sustainability reporting | Page 70 |
+|  | 2-15 Conflicts of interest | Page 100, 113-114 |
+|  | 2-16 Communication of critical concerns | Page 72 |
+|  | 2-17 Collective knowledge of the highest governance body | Pages 101-103 |
+|  | 2-18 Evaluation of the performance of the highest governance body | Page 108 |
+|  | 2-19 Remuneration policies | Pages 109-112 |
+|  | 2-20 Process to determine remuneration | Pages 109-112 |
+|  | 2-22 Statement on sustainable development strategy | Page 63 |
+|  | 2-23 Policy commitments | Page 71, and in respective chapters |
+|  | 2-24 Embedding policy commitments | Described in respective chapters |
+|  | 2-25 Processes to remediate negative impacts | Described in respective chapters |
+|  | 2-26 Mechanisms for seeking advice and raising concerns | Page 72 |
+
+<!-- PAGE 89 -->
+
+| GRI Standard | Disclosure |  | Location |
+|-|-|-|-|
+| <b>GRI 2:<br/>General<br/>Disclosures 2021</b> | 2-27 | Compliance with laws and regulations | Page 72 |
+|  | 2-28 | Membership associations | REIT Association of Singapore, RICS, UN Global Compact Network Singapore, Singapore Business Federation |
+|  | 2-29 | Approach to stakeholder engagement | Page 65 |
+|  | 2-30 | Collective bargaining agreements | Page 74 |
+| <b>GRI 3:<br/>Material Topics<br/>2021</b> | 3-1 | Process to determine material topics | Page 65 |
+|  | 3-2 | List of material topics | Page 68 |
+|  | 3-3 | Management of material topics | Page 68 |
+| <b>GRI 205:<br/>Anti-corruption<br/>2016</b> | 205-1 | Operations assessed for risks related to corruption | Page 72 |
+|  | 205-2 | Communication and training about anti-corruption policies and procedures | Page 72 |
+|  | 205-3 | Confirmed incidents of corruption and actions taken | Page 72 |
+| <b>GRI 206:<br/>Anti-competitive<br/>Behavior 2016</b> | 206-1 | Legal actions for anti-competitive behavior, anti-trust, and monopoly practices | Page 72 |
+| <b>GRI 302:<br/>Energy 2016</b> | 302-1 | Energy consumption within the organisation | Page 83 |
+|  | 302-2 | Energy consumption outside of the organisation | Page 83 |
+|  | 302-3 | Energy intensity | Page 83 |
+| <b>GRI 303:<br/>Water and<br/>Effluents 2018</b> | 303-1 | Interactions with water as a shared resource | Page 80 |
+|  | 303-3 | Water withdrawal | Page 85 |
+| <b>GRI 305:<br/>Emissions 2016</b> | 305-1 | Direct (Scope 1) GHG emissions | Pages 83-84 |
+|  | 305-2 | Energy indirect (Scope 2) GHG emissions | Pages 83-84 |
+|  | 305-3 | Other indirect (Scope 3) GHG emissions | Pages 83-84 |
+|  | 305-4 | GHG emissions intensity | Page 83 |
+| <b>GRI 401:<br/>Employment 2016</b> | 401-1 | New employee hires and employee turnover | Page 74 |
+|  | 401-2 | Benefits provided to full-time employees that are not provided to temporary or part-time employees | Page 75 |
+| <b>GRI 403:<br/>Occupational<br/>Health and Safety<br/>2018</b> | 403-1 | Occupational health and safety management system | Page 75 |
+|  | 403-2 | Hazard identification, risk assessment, and incident investigation | Page 75 |
+|  | 403-3 | Occupational health services | Page 75 |
+|  | 403-4 | Worker participation, consultation, and communication on occupational health and safety | Page 75 |
+|  | 403-5 | Worker training on occupational health and safety | Page 75 |
+|  | 403-6 | Promotion of worker health | Page 75 |
+|  | 403-7 | Prevention and mitigation of occupational health and safety impacts directly linked by business relationships | Page 75 |
+|  | 403-8 | Workers covered by an occupational health and safety management system | Page 75 |
+|  | 403-9 | Work-related injuries | Page 75 |
+|  | 403-10 | Work-related ill health | Not applicable |
+
+<!-- PAGE 90 -->
+
+###### Sustainability Report
+
+| GRI Standard | Disclosure | Location |
+|-|-|-|
+| <b>GRI 404: Training and Education 2016</b> | 404-1 Average hours of training per year per employee | Page 75 |
+|  | 404-2 Programs for upgrading employee skills and transition assistance programmes | Page 75 |
+|  | 404-3 Percentage of employees receiving regular performance and career development reviews | Page 75 |
+| <b>GRI 405: Diversity and Equal Opportunity 2016</b> | 405-1 Diversity of governance bodies and employees | Pages 72, 74 |
+| <b>GRI 406: Non-discrimination 2016</b> | 406-1 Incidents of discrimination and corrective actions taken | Page 74 |
+| <b>GRI 413: Local Communities 2016</b> | 413-1 Operations with local community engagement, impact assessments, and development programs | Pages 82, 74 |
+|  | 413-2 Operations with significant actual and potential negative impacts on local communities | Page 81 |
+| <b>GRI 415: Public Policy 2016</b> | 415-1 Political contributions | Page 72 |
+| <b>GRI 418: Customer Privacy 2016</b> | 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data | Page 72 |
+
+| Non-GRI Material Topics | Disclosure | Location |
+|-|-|-|
+| <b>GRI 3: Material Topics 2021</b> | 3-1 Process to determine material topics | Page 65 |
+|  | 3-2 List of material topics | Page 68 |
+|  | 3-3 Management of material topics | Page 68 |
+| <b>Tenant Engagement</b> | Refer to the SASB Index<br>(Metric: Management of Tenant Sustainability Impacts) | Page 85 |
+
+#### SGX Core ESG Metrics Index
+
+| Topic | Metric | Unit | Framework Alignment | Reference |
+|-|-|-|-|-|
+| <b>Environmental</b> |  |  |  |  |
+| Greenhouse gas emissions (“GHG”) | Absolute Emissions by:<br>(a) Total; (b) Scope 1, Scope 2; and (c) Scope 3, if appropriate | tCO <sub>2</sub> e | GRI 305-1, GRI 305-2, GRI 305-3, TCFD, SASB 110, WEF core metrics | Page 83 |
+|  | Emission Intensities by:<br>(a) Total; (b) Scope 1, Scope 2; and (c) Scope 3, if appropriate | tCO <sub>2</sub> e/organisation specific metrics | GRI 305-4, TCFD, SASB 110 | Page 83 |
+| Energy consumption | Total energy consumption | MWhs or GJ | GRI 302-1, TCFD, SASB 130 | Page 83, 84 |
+|  | Energy consumption intensity | MWhs or GJ/organisation specific metrics | GRI 302-3, TCFD | Page 84 |
+| Water consumption | Total water consumption | ML or m <sup>3</sup> | GRI 303-5, SASB 140, TCFD, WEF core metrics | Page 85 |
+|  | Water consumption intensity | ML or m <sup>3</sup> /organisation specific metrics | TCFD, SASB IF-RE-140a.1 | Page 85 |
+
+<!-- PAGE 91 -->
+
+| Topic | Metric | Unit | Framework Alignment | Reference |
+|-|-|-|-|-|
+| Social |  |  |  |  |
+| Gender diversity | Current employees by gender | Percentage (%) | GRI 405-1 | Page 74 |
+|  | New hires and turnover by gender | Percentage (%) | GRI 401-1 | Page 74 |
+| Age-based diversity | Current employees by age | Percentage (%) | GRI 405-1 | Page 74 |
+|  | New hires and turnover by age groups | Percentage (%) | GRI 401-1 | Page 74 |
+| Employment | Total turnover | Number and percentage (%) | GRI 401-1 | Page 74 |
+|  | Total number of employees | Number | GRI 2-7 | Page 74 |
+| Development and training | Average training hours per employee | Hours/number of employees | GRI 404-1 | Page 75 |
+|  | Average training hours per employee by gender | Hours/number of employees | GRI 404-1 | Page 75 |
+| Occupational health and safety | Fatalities | Number of cases | GRI 403-9, MOM | Page 75 |
+|  | High-consequence injuries | Number of cases | GRI 403-9, MOM | Page 75 |
+|  | Recordable injuries | Number of cases | GRI 403-9, MOM | Page 75 |
+|  | Recordable work-related ill health cases | Number of cases | GRI 403-9, MOM | Page 75 |
+| Governance |  |  |  |  |
+| Board Composition | Board Independence | Percentage (%) | GRI 2-9 | Page 103 |
+|  | Women on the board | Percentage (%) | GRI 2-9, GRI 405-1 | Page 103 |
+| Management Diversity | Women in the management team | Percentage (%) | GRI 2-9, GRI 405-1 | Pages 18-19 |
+| Ethical Behaviour | Anti-corruption disclosures | Discussion and number of standards | GRI 205-1, GRI 205-2, GRI 205-3 | Pages 71-73 |
+| Certifications | List of relevant certifications | List | Commonly reported metric by SGX Issuers | Page 64 |
+| Alignment with frameworks | Alignment with frameworks and disclosure practices | GRI/TCFD/SASB/SDGs/others | GRI 2-5, SGX-ST Listing Rules (Mainboard) 711A and 711B, Practice Note 7.; SGX-ST Listing Rules (Catalist) 711A and 711B, Practice Note 7F, EnvRM | Page 62 |
+| Assurance | Assurance of sustainability report | Internal/external/none | GRI 2-5, SGX-ST Listing Rules (Mainboard) 711A and 711B, Practice Note 7.6; SGX-ST Listing Rules (Catalist) 711A and 711B, Practice Note 7F | Page 63 |
+
+<!-- PAGE 92 -->
+
+###### Sustainability Report
+
+## Feedback Survey
+
+### ELITE REIT SUSTAINABILITY REPORT 2025: STAKEHOLDER FEEDBACK
+
+Thank you for your time in reading our Sustainability Report. Elite REIT welcomes any feedback or suggestions and will take your comments into due consideration for our next report. You may e-mail the completed form to [sustainability@eliteukreit.com](mailto:sustainability@eliteukreit.com)
+
+### 1. Which of the following best describes you?
+
+Employee
+
+Investor
+
+Government
+
+Non-governmental organisation (NGO)
+
+Contractor
+
+Supplier
+
+Customer
+
+Business Partner
+
+Community
+
+Financial Institutions
+
+Others
+
+### 2. In which region do you reside?
+
+Asia
+
+Europe
+
+UK
+
+North America
+
+South America
+
+Middle East
+
+Others
+
+### 3. How did you hear about this report?
+
+Company Website
+
+Annual General Meeting (AGM)
+
+Word of Mouth
+
+Social Media
+
+Others
+
+### 4. Please rank the material topics according to your interest in them, with the highest being of greatest interest and the lowest being not interested at all
+
+|  | Not at all interested |  |  | Extremely interested |  |  |
+|-|-|-|-|-|-|-|
+| Climate-Related Risk and Opportunities | 1 | 2 | 3 | 4 | 5 |  |
+| Energy and GHG emissions | 1 | 2 | 3 | 4 | 5 |  |
+| Tenant Engagement | 1 | 2 | 3 | 4 | 5 |  |
+| Regulatory Compliance | 1 | 2 | 3 | 4 | 5 |  |
+| Anti-Corruption | 1 | 2 | 3 | 4 | 5 |  |
+| Attracting and Retaining Talent | 1 | 2 | 3 | 4 | 5 |  |
+| Employee Development | 1 | 2 | 3 | 4 | 5 |  |
+| Diversity and Inclusion | 1 | 2 | 3 | 4 | 5 |  |
+
+### 5. Why did you choose to read this report?
+
+For Research and Education
+
+For an Investment Decision
+
+For Greater Understanding of Elite REIT's Business
+
+### 6. In your opinion, does the report cover all material topics in a fair manner?
+
+Yes
+
+No
+
+Partially
+
+### 7. Please rate your satisfaction with the report design (1 star = unsatisfied and 5 stars = totally satisfied).
+
+![Five star rating icons for report design](2843445ffa989459eb298838b57970c5_img.jpg)
+
+Five star rating icons for report design
+
+### 8. Please rate your satisfaction with the clarity of the content (1 star = unsatisfied and 5 stars = totally satisfied).
+
+![Five star rating icons for content clarity](7cba63f23a0c89cca0f64473df4ac358_img.jpg)
+
+Five star rating icons for content clarity
+
+### 9. Please rate your satisfaction with the balance and the credibility of the content (1 star = unsatisfied and 5 stars = totally satisfied).
+
+![Five star rating icons for content balance and credibility](53262dd20f72a9671b466cf4009e0132_img.jpg)
+
+Five star rating icons for content balance and credibility
+
+### 10. Any additional topics that Elite REIT should consider for our next report?
+
+<!-- PAGE 93 -->
+
+## Enterprise Risk Management
+
+Enterprise Risk Management (“**ERM**”) is an integral part of the business strategy for Elite UK REIT (“**Elite REIT**”). Elite UK REIT Management Pte. Ltd. (the “**Manager**”) reviews risk and opportunity on a scale of balance, with appropriate calibration to maximise outcomes on the strategic and operational levels. The objective is not merely centred on risk minimisation, but rather the optimisation of opportunities within the known and agreed risk appetite levels determined by the Board of Directors (the “**Board**”). All businesses carry inherent risks; therefore, the Manager will consider the corresponding risks in relation to Elite REIT’s strategy and business objectives. This approach enables the Manager to manage risks in a systematic and consistent manner to support its business objectives and strategy, thereby creating sustainable value for all stakeholders.
+
+### RISK MANAGEMENT GOVERNANCE STRUCTURE
+
+The Board has overall responsibility for the governance of risk. The Board is responsible for the oversight of Elite REIT’s risk appetite and risk tolerance limits in relation to its strategic
+
+business objectives. The Board also reviews Elite REIT’s risk oversight structure to ensure appropriate accountability by risk owners. Additionally, material risks are regularly and properly monitored to detect deviation. This ensures that the risk management framework and policies are adequate and effective. For these purposes, the Board is supported by the Audit and Risk Committee (the “**ARC**”), which assists the Board in discharging risk management oversight responsibility by ensuring the establishment, review, and assessment of Elite REIT’s policies, risk management systems and internal controls.
+
+The ARC, which is made up of three independent Board members, meets on a regular basis. The meetings are attended by the Chief Executive Officer (“**CEO**”), Chief Financial Officer (“**CFO**”) and Chief Investment Officer (“**CIO**”) (collectively, the Key Management Personnel (“**KMP**”). The KMP is responsible for directing and monitoring the development, improvement, implementation, and practice of ERM for Elite REIT.
+
+![](e48a7aa9d3880694350259852fefbef2_img.jpg)
+
+Board Governance
+
+KMP
+
+Risk and Control Oversight
+
+Independent Assurance
+
+Board of Directors
+
+Audit and Risk Committee
+
+Other Board Committees
+
+Chief Executive Officer
+
+Chief Financial Officer
+
+Chief Investment Officer
+
+Business and Support Heads
+
+Group Compliance (Sponsor Level)
+
+Internal Audit
+
+<!-- PAGE 94 -->
+
+## Enterprise Risk Management
+
+![Enterprise Risk Management Framework diagram showing a house-like structure with four main pillars: Risk Identification and Analysis, Risk Assessment and Evaluation, Risk Monitoring and Reporting, and Risk Response and Treatment. The framework is supported by Governance and Organisation, Independent Review and Audit, and various layers like Risk Capacity, Reporting, Measurement and Modeling, Policies, Procedures and Control, and Risk Culture and Awareness.](abeba89144744fac6a1571aa9f94889e_img.jpg)
+
+The diagram illustrates the Enterprise Risk Management Framework as a house-like structure. The roof is labeled "Enterprise Risk Management Framework". The main body is divided into four quadrants, each representing a core process:
+
+- 1 Risk Identification and Analysis**: Includes Key Risk Indicators, Risk Tolerance, Annual Risk Reporting, and Portfolio Monitoring of Material Risks.
+- 2 Risk Assessment and Evaluation**: Includes Risk & Control Self-Assessment, Investment Risk, Evaluation, Scenario Analysis, and Whistleblowing.
+- 3 Risk Response and Treatment**: Includes Risk Matrix, Risk Weighting, Risk Score, and Risk Owner.
+- 4 Risk Monitoring and Reporting**: Includes Threat (Avoid, Transfer, Mitigate, Accept) and Opportunities (Exploit, Share, Enhance, Ignore).
+
+The framework is supported by several layers and components:
+
+- Top Layer**: Risk Capacity, Risk Appetite, Strategy and Objectives
+- Second Layer**: Reporting
+- Third Layer**: Measurement and Modeling
+- Bottom Layer**: Policies, Procedures and Control
+- Foundation Layer**: Risk Culture and Awareness
+- Left Side**: Governance and Organisation
+- Right Side**: Independent Review and Audit
+
+Enterprise Risk Management Framework diagram showing a house-like structure with four main pillars: Risk Identification and Analysis, Risk Assessment and Evaluation, Risk Monitoring and Reporting, and Risk Response and Treatment. The framework is supported by Governance and Organisation, Independent Review and Audit, and various layers like Risk Capacity, Reporting, Measurement and Modeling, Policies, Procedures and Control, and Risk Culture and Awareness.
+
+The Manager’s ERM Framework is based on the principles and guidelines of the International Organisation for Standardization<sup>1</sup> (“**ISO**”) 31000 on Risk Management and the Committee of Sponsoring Organizations of the Treadway Commission<sup>2</sup> (“**COSO**”) ERM Integrated Framework. The ERM Framework is reviewed and approved by the Board annually.
+
+A robust internal control system and an independent review process underpin Elite REIT’s ERM Framework. While the KMP is responsible for the design and implementation of effective internal controls using a risk-based approach, the Internal Audit function, which is outsourced to an independent
+
+professional firm, reviews such design and implementation to provide reasonable assurance to the ARC on the adequacy and effectiveness of risk management and internal control systems.
+
+Elite REIT’s ERM Framework is based on fostering the right risk culture. Regular risk workshops are conducted to enhance risk management knowledge and promote a culture of risk awareness. Risk management principles are embedded in all decision-making and business processes. Material risks and their associated controls are consolidated and reviewed by the Management before being presented to the ARC and the Board.
+
+1 An international standard-setting body comprised of representatives from various national standards organisations. The organisation develops and publishes worldwide technical, industrial and commercial standards
+
+2 A joint initiative of five professional organisations and is dedicated to helping organisations improve performance by developing thought leadership that enhances internal control, risk management, governance and fraud deterrence
+
+<!-- PAGE 95 -->
+
+### MANAGING MATERIAL RISKS
+
+The Manager undertakes a comprehensive approach in identifying, managing, monitoring, and reporting of material risks across Elite REIT. In FY2025, the Management, alongside the wider working group, reviewed and considered the top material risks to the business. Accordingly, the material risks are summarised as follows:
+
+| Risk Pillars | Material Risks | Details | Key Mitigating Measures |
+|-|-|-|-|
+| Governance | <b>Licence, Regulatory and Compliance Risk</b> | <ul style="list-style-type: none"> <li>Changes in property-related regulations and other events in Singapore and the UK.</li> <li>Continuous compliance with the licencing conditions of the MAS and listing rules from the Singapore Exchange.</li> <li>Any forms of fraud, bribery, and corruption that could be perpetrated by employees, third parties, or collusion between employees and third parties.</li> </ul> | <ul style="list-style-type: none"> <li>Active monitoring of developments in the laws and regulations governing Singapore and the UK.</li> <li>Periodic review and update of policies and procedures to ensure relevance.</li> <li>Provision of regular training for all employees to promote a strong compliance culture.</li> <li>Maintaining a zero-tolerance approach towards fraud, corruption, bribery and unethical practices in the conduct of business. A Group-wide Code of Conduct and Ethics Policy sets out the behaviour and conduct expected of all employees.</li> <li>Providing an accessible communication channel to ARC through a Whistleblowing Policy.</li> </ul> |
+|  | <b>Political Risk</b> | <ul style="list-style-type: none"> <li>The concentration of Elite REIT's assets in the UK exposes Elite REIT to political risks from the UK. Doubts over real estate valuations may erode investors' interests in UK REITs or REITs with high exposure in the UK.</li> <li>Policy decisions will have an impact on the global perception of the UK and its government, including but not limited to their credit rating, currency, political stability and foreign affairs relations. The worst case scenario may include sanctions and exclusions from regional or world trade.</li> </ul> | <ul style="list-style-type: none"> <li>Political developments in the UK are outside the Manager's control but the Manager is able to mitigate its impacts to Elite REIT's business through prudent treasury management, debt management, and assuring its investors that the fundamentals of Elite REIT's business remains sound and that rental income will continue to remain secured by the AA-credit rated UK Government despite certain developments.</li> <li>The current policy is to use similar currency loan facilities and to fix majority of interest rate exposure via interest rate swaps. Distributions are declared in Pound sterling as well.</li> <li>To maintain constant dialogue with the DWP and other government tenants to understand their space requirements and calibrate our real estate to meet their needs, with the goal to be the preferred landlord for their operations.</li> </ul> |
+
+<!-- PAGE 96 -->
+
+# Enterprise Risk Management
+
+| Risk Pillars | Material Risks | Details | Key Mitigating Measures |
+|-|-|-|-|
+| Operational | <b>Information Technology, Cybersecurity and Data Protection Risk</b> | <ul style="list-style-type: none"> <li>Material failure on information technology (“IT”) infrastructure that the Manager relies on may inadvertently cause compromise on the confidentiality, integrity and availability of the information assets and/or systems of Elite REIT and/or the Manager. This may have a negative impact on financials and/or regulatory compliance.</li> <li>Fraudulent transactions and hacking attempts (including internal sabotage) will adversely affect the Manager.</li> <li>Any breach in data protection may undermine investors’ confidence which may result in litigation from customers or fines and penalties from regulators.</li> </ul> | <ul style="list-style-type: none"> <li>The Manager has engaged a reputable and reliable professional third-party service provider to perform IT support services. The Manager’s due diligence process for the service provider incorporates selection criteria such as the service provider’s credentials, cybersecurity plan, firewall and incident management process.</li> <li>The Manager continuously monitors and reviews the adequacy of the IT infrastructure against existing and emerging IT and cyber risks.</li> <li>The Manager has developed a comprehensive Group-wide IT and Cyber Security policy. Ongoing staff’s IT and Cyber Security Training to address human factors in cyber security is also being rolled out.</li> <li>Conducting regular Disaster Recovery exercises to ensure timely recoverability of business-critical IT systems.</li> <li>Conducting awareness training to ensure that employees who directly/indirectly handle personal data in the course of their work are cognisant of data protection principles and are equipped with the right knowledge to carry out good data protection practices in their day-to-day activities.</li> </ul> |
+| Economic | <b>Financial Risk Management Risk</b> | <ul style="list-style-type: none"> <li>Elite REIT may not be able to meet all of its debt obligations or repay future borrowings through its cash flow from operations. Additional debt or equity financing may be required and there is no assurance that such financing will be available on acceptable terms or at all.</li> <li>Tax rulings in Singapore and the UK may be amended with either prospective or retrospective effect. This may affect the overall tax liabilities of the Singapore and/or UK entities.</li> <li>Changes to the International Financial Reporting Standards (“IFRS”) may affect the ability of Elite REIT to make distributions to Unitholders.</li> </ul> | <ul style="list-style-type: none"> <li>The Manager shall keep abreast of changes in accounting and tax policies in the SG and UK, via the support of the Audit and Tax teams. The advisory teams are managed by reputable firms, which are familiar with local conditions and cultures.</li> <li>Actively monitoring Elite REIT’s debt maturity profile, operating cash flows and availability of funding to ensure that there are sufficient liquid reserves, in the form of cash and banking facilities to meet capital, refinancing and operational needs.</li> <li>Elite REIT has a Distribution Reinvestment Plan (“DRP”) in place to support unitholders who wish to accumulate scrip in Elite REIT, which also aids the management of its working capital.</li> </ul> |
+|  | <b>Market and Valuation Risk</b> | <ul style="list-style-type: none"> <li>Movement in domestic and international securities markets, economic conditions and interest rates may affect the market price and demand of the units of the REIT.</li> <li>Economic downturns can lead to decreased demand for rental properties, resulting in lower occupancy rates and rental income.</li> <li>The valuation of any of the properties does not guarantee a sale price at that value at present or in the future.</li> </ul> | <ul style="list-style-type: none"> <li>The Manager is in regular dialogue with our third-party property manager, Jones Lang Lasalle (“JLL”). JLL inspects the assets periodically to provide the Manager updates on the conditions of the assets.</li> <li>Proactive engagement with DWP and other government tenants to understand their space requirements and calibrate our real estate to meet their needs, with the goal of becoming the preferred landlord for their operation.</li> <li>Regularly assess the exposure to changing market conditions.</li> </ul> |
+
+<!-- PAGE 97 -->
+
+![Upward pointing triangle icon](28e9b38c3920f170d0cb9926f5b8d59a_img.jpg)
+
+Upward pointing triangle icon
+
+| Risk Pillars | Material Risks | Details | Key Mitigating Measures |
+|-|-|-|-|
+| <b>Economic</b> | <b>Strategic, Investment and Divestment Risk</b> | <ul style="list-style-type: none"> <li>Inability to successfully implement its expanded investment strategy for Elite REIT or make acquisitions or divestment of investments on favourable terms or within the desired time frame due to internal or external events.</li> <li>Inability to manage the operations with the right expertise and skillsets.</li> </ul> | <ul style="list-style-type: none"> <li>Conduct comprehensive independent risk evaluation and due diligence reviews and obtain independent valuations for all related party transactions and investments.</li> <li>All investment proposals should be objectively evaluated against Elite REIT's business strategy and investment criteria.</li> </ul> |
+| <b>Environment</b> | <b>Sustainability and Climate Risk</b> | <ul style="list-style-type: none"> <li>Includes physical risks such as rising sea levels, violent storms, prolonged heat waves, flash floods, water stress risk, etc.</li> <li>Transitional risks such as increased and more stringent regulations and increased expectations from stakeholders.</li> <li>A lack of holistic understanding, identification, and prioritisation of sustainability risk factors would be detrimental to Elite REIT's competitiveness and longevity.</li> <li>For example, a property with a Poor EPC rating or energy performance is likely to be subjected to obsolescence risk.</li> </ul> | <ul style="list-style-type: none"> <li>The Manager has set up a Sustainability Committee, chaired by the Board Chairman to ensure that sustainability is a key pillar to Elite REIT's business objectives and strategies.</li> <li>Acquisition considerations will include energy performance and technical due diligence outcomes on the assets.</li> <li>Close partnership with Elite REIT's primary occupier through the landmark Sustainability Collaboration, where the Manager engages the DWP in regular dialogues on the progress of sustainability enhancement works.</li> <li>Minimising environmental impact by deploying renewable and low- carbon intensive energy where possible and upgrading energy-intensive equipment through ongoing asset enhancement collaboration with the DWP.</li> <li>Regular meetings with Strategic Planning Committee to ensure key director representatives have been kept abreast of the dealings of Elite REIT.</li> <li>Keeping abreast of the latest regulations, requirements, guidelines as well as reporting and disclosure requirements pertaining to sustainability and ESG in Singapore and in the UK.</li> <li>Equipping the Board, Management and employees with the latest developments in sustainability and climate change, compliance as well as disclosure requirements through regular trainings for the Board, Management and employees.</li> </ul> |
+
+<!-- PAGE 98 -->
+
+## Enterprise Risk Management
+
+| Risk Pillars | Material Risks | Details | Key Mitigating Measures |
+|-|-|-|-|
+| Social | Stakeholder Risk (Internal) | <ul style="list-style-type: none"> <li>Inability to appropriately manage human capital needs and human resource-related costs appropriately in relation to the business environment.</li> <li>High attrition rates and shortage of talent.</li> </ul> | <ul style="list-style-type: none"> <li>Building an inclusive and nurturing workplace culture with a focus to develop its employees, such as through continuous learning and development.</li> <li>Regular communication from management on overall employees' well-being.</li> <li>Regular review of remuneration packages and retention strategies.</li> <li>Regular meetings with Strategic Planning Committee to ensure key director representatives have been kept abreast of the dealings of Elite REIT.</li> </ul> |
+|  | Stakeholder Risk (External) | <ul style="list-style-type: none"> <li>Tenant-customer relations; Investors and media relations; Singapore and UK Government relations.</li> </ul> | <ul style="list-style-type: none"> <li>Regular communication with regulators and governing bodies (as appropriate, depending on nature of engagement).</li> <li>Remain guided by the Code of Corporate Governance and strive to maintain the high standards of corporate governance to ensure that Elite REIT continues to instill stakeholder confidence.</li> <li>Maintaining proactive investor relations and media outreach plan.</li> <li>Participating actively in relevant industry associations and building on existing community partnerships</li> <li>Conducting yearly engagement surveys with tenants.</li> </ul> |
+
+<!-- PAGE 99 -->
+
+# Corporate Governance Report
+
+Elite REIT is a real estate investment trust constituted by the trust deed dated 7 June 2018 (and as may be amended, varied or supplemented from time to time) (the **“Trust Deed”**), and entered into between Elite UK REIT Management Pte. Ltd. (in its capacity as the manager of Elite REIT) (the **“Manager”**) and Perpetual (Asia) Limited (in its capacity as the trustee of Elite REIT) (the **“Trustee”**).
+
+The Manager was issued a capital markets services licence by the Monetary Authority of Singapore (**“MAS”**) for REIT management (**“CMS Licence”**) pursuant to the Securities and Futures Act 2001 of Singapore (the **“SFA”**) on 22 January 2020.
+
+## The Manager’s Role
+
+The primary role of the Manager is to manage Elite REIT’s assets for the benefit of unitholders of Elite REIT (the **“Unitholders”**) and set the strategic direction of Elite REIT in accordance with its mandate, and make recommendations to the Trustee on any investment or divestment opportunities for Elite REIT and the enhancement of the assets of Elite REIT, in accordance with the stated investment strategy for Elite REIT. The research, evaluation and analyses required for this purpose are coordinated and carried out by the Manager.
+
+Other functions and responsibilities of the Manager include but are not limited to the following:
+
+- (a) using its best endeavours to conduct Elite REIT’s business in a proper and efficient manner;
+- (b) preparing annual business plans for review by the directors of the Manager (the **“Directors”**), including forecasts on revenue, net income, and capital expenditure, explanations on major variances to previous years’ financial results;
+- (c) preparing written commentaries on key issues and underlying assumptions on rental rates, operating expenses and any other relevant assumptions;
+- (d) attending to communications with the Unitholders; and
+- (e) supervising and overseeing the management of real estate (including but not limited to lease audit, systems control, data management and business plan implementation) in accordance with the provisions of the Trust Deed.
+
+Elite REIT is externally managed by the Manager. The Manager has general powers of management over the assets of Elite REIT. The Manager appoints experienced and well-qualified personnel to run the day-to-day operations.
+
+The Manager has developed, and on an ongoing basis, maintains, sound and transparent policies and practices to meet the specific business needs of Elite REIT and to provide a firm foundation for trusted and respected business enterprise.
+
+The Board of Directors (the **“Board”**) and management of the Manager (**“Management”**) aspire to meet the highest standards of corporate governance, corporate transparency, and sustainability. The Manager focuses on complying with
+
+the substance and spirit of the principles of the Code of Corporate Governance 2018 while achieving operational excellence and delivering Elite REIT’s long term strategic objectives. It is fully committed to continuous improvement of its corporate governance practices as it firmly believes those are essential in protecting the interests of the Unitholders.
+
+## Elite REIT and Corporate Governance
+
+The framework of relevant legislation and guidelines governing Elite REIT include:
+
+- (i) the SFA;
+- (ii) the Code on Collective Investment Schemes (including Appendix 6 thereon on property funds) (the **“CIS Code”**, and Appendix 6 of the CIS Code, the **“Property Funds Appendix”**);
+- (iii) the listing manual (the **“Listing Manual”**) issued by Singapore Exchange Securities Trading Limited (**“SGX-ST”** or the **“Exchange”**);
+- (iv) the Code of Corporate Governance 2018 (the **“Code”**);
+- (v) the Trust Deed; and
+- (vi) written directions, notices, codes and other guidelines that may be issued, modified or updated by the MAS from time to time.
+
+The Manager is fully dedicated to upholding the highest standards of corporate governance, business integrity and professionalism in all its activities. The Manager believes that its sound corporate governance policies and practices reflect its focus on strong leadership, effective internal controls and risk management, a robust corporate culture, accountability to the Unitholders, and engagement with stakeholders.
+
+This corporate governance report (**“CG Report”**) sets out Elite REIT’s corporate governance framework and practices with specific reference to the principles and the provisions of the Code, in accordance with Rule 710 of the Listing Manual, and where applicable, other relevant rules and provisions in the Listing Manual and the Companies Act 1967 of Singapore.
+
+For the financial year ended 31 December 2025 (**“FY2025”**), save as stated in the CG Report, Elite REIT has complied with the core principles of corporate governance laid down by the Code and also, in all material respects, with the provisions that underpin the principles of the Code.
+
+Where the Manager’s practices vary from any provisions of the Code, it has provided appropriate explanations, which include the reason for the respective variations, as well as the practices adopted to be consistent with the intent and philosophy of the relevant principle in question.
+
+Elite REIT has been included by the SGX-ST in the SGX Fast Track Programme list. The scheme recognises listed companies that have high corporate governance standards and have maintained a good compliance track record, and accords prioritised response on selected corporate action submissions to SGX Exchange Regulation.
+
+<!-- PAGE 100 -->
+
+## Corporate Governance Report
+
+### (A) BOARD MATTERS
+
+#### The Board's Conduct of Affairs, Duties and Responsibilities
+
+#### Principle 1:
+
+The Manager is headed by an effective Board which is collectively responsible and works with Management for the long-term success of Elite REIT.
+
+##### Role of The Board
+
+The Board is entrusted with the overall leadership and oversight of both Elite REIT's and the Manager's business, financial, investment and material operational affairs and performance objectives and their long-term success.
+
+The key roles and responsibilities of the Board are to:
+
+- set strategic objectives and direction, and provide guidance to the Management in executing those objectives;
+- approve the business plans in relation to Elite REIT's properties;
+- ensure that Management discharges its duties with integrity and accountability, and demonstrate the highest level of skill and professionalism;
+- establish a framework of prudent and effective controls which enables risks to be assessed and managed to safeguard the interests of the Unitholders and the assets of Elite REIT;
+- consider sustainability issues such as environmental issues as part of its strategic formulation;
+- ensure that Management maintains sound measures relating to corporate governance, financial regulation and internal policies including the Group-wide Code of Conduct and Ethics Policy ("**Code of Conduct**"); and
+- consider the perceptions of stakeholders that would affect Elite REIT's reputation.
+
+The Board has approved a list of matters reserved for the Board's decision-making. This sets clear directions for Management on matters that must be approved by the Board. The Board decides on these matters and clearly communicates this to Management in writing.
+
+The list of matters reserved for the Board's approval includes, but is not limited to:
+
+- long-term strategy and objectives of Elite REIT;
+- annual budget and business plans in relation to Elite REIT's properties;
+- policies to safeguard the interests of the Unitholders and the assets of Elite REIT;
+- distribution policy;
+- announcements and press releases concerning Elite REIT;
+- Board membership and other appointments;
+- Key Management Personnel ("**KMP**") appointment; and
+- appointment and removal of the company secretary of the Manager ("**Company Secretary**").
+
+In fulfilling its responsibilities to Elite REIT, the Board has approved a set of financial controls which sets out approval limits for operating expenditures, capital expenditures, procurements, general and administrative expenses, as well as arrangements in relation to bank signatories. Appropriate delegation of authority and approval sub-limits are also provided at Management level to facilitate operational efficiency.
+
+##### Culture
+
+The Directors are to discharge their duties and responsibilities objectively as fiduciaries in the best interests of Elite REIT at all times and hold Management accountable for performance.
+
+The Manager has in place a Code of Conduct which sets out general principles and standards of behaviour that the Manager expects from its employees in their dealings with fellow employees, customers, suppliers and business partners. This sets an appropriate tone from the top and desired organisational culture, and ensures proper accountability.
+
+The Manager's Code of Conduct requires the Directors to observe the following key principles:
+
+- Directors must carry out their responsibilities in compliance with all the applicable laws, rules and regulations and the Manager's policies and procedures.
+- Directors are to exercise due care and maintain the confidentiality of information entrusted to them. The Directors' obligation to protect the confidential information continues after leaving the Manager.
+- Directors must not trade in the securities of Elite REIT if, at the relevant time, they are in possession of non-public material price-sensitive or trade sensitive information.
+- Directors are committed to fully complying with all anti-money laundering and countering the financing of terrorism laws throughout the world.
+
+##### Board Composition and Board Committees
+
+The Manager has seven Directors, four of whom (including the Chairman of the Board) are Independent Non-Executive Directors ("**IDs**"). The NRC reviews, on an annual basis, the structure, size and composition of the Board and Board Committees, taking into account the Code and Regulations 13D to 13H of the Securities and Futures (Licensing and Conduct of Business) Regulations (the "**SF(LCB)R**"). The NRC has assessed that the current structure, size and composition of the Board and Board Committees are appropriate for the scope and nature of Elite REIT's and the Manager's operations.
+
+The Manager did not appoint a lead independent Director as the Chairman of the Board is not conflicted and is independent. No individual or group dominates the Board's decision-making process or has unfettered powers of decision-making.
+
+The Board has established four board committees to assist it in the discharge of its functions. These committees are the Audit and Risk Committee ("**ARC**"), the Nominating and Remuneration Committee ("**NRC**"), the Strategic Planning Committee ("**SPC**") and the Sustainability Committee ("**SC**") (collectively known as "**Board Committees**"). The ARC, NRC and SC are chaired by IDs while the SPC is chaired by a Non-Independent Non-Executive Director ("**NINED**").
+
+<!-- PAGE 101 -->
+
+Membership in the various Board Committees is managed to ensure an equitable distribution of responsibilities amongst Board members, to maximise the effectiveness of the Board and to foster active participation and contribution from Board members. Diversity of experience and appropriate skills are considered in determining the composition of the respective Board Committees.
+
+Each of the Board Committees has its own clear written terms of reference, setting out their compositions, authorities and duties, including reporting back to the Board, and operates under delegated authority from the Board. The terms of reference sets out their compositions, authorities and duties, including reporting back to the Board. Notwithstanding that,
+
+the Board retains ultimate responsibility for all decisions made by the Board as a whole. Information on the ARC and NRC can be found in the “**Accountability and Audit**”; “**Board Membership**” and “**Board Performance**”; and “**Remuneration Matters**” sections of this CG Report, respectively. Terms of reference of the respective Board Committees, as well as other relevant information on the Board Committees, are disclosed in pages 98 to 106, 111, 116 to 120 of this CG Report.
+
+Minutes of all Board Committees’ meetings are circulated to the Board so that all Directors are aware of and kept updated as to proceedings, matters discussed and decisions made during such meetings, and to enable the Directors to weigh in on any key points under consideration.
+
+The current composition of the Board and Board Committees is as follows<sup>1,2</sup>:
+
+![Organizational chart showing the Board of Directors of the Manager and its four committees: ARC, NRC, SPC, and SC.](691626a7032a642bb74793336c37e274_img.jpg)
+
+```
+
+graph TD
+    Board["Board of Directors of the Manager  
+4 IDs, 3 NINEDs  
+Led by Mr David Lim Teck Leong"]
+    Board --- ARC["ARC  
+3 IDs  
+Mr Yezdi Phiroze Chinoy (Chairman)  
+Mr David Lim Teck Leong  
+Mr Koo Tsai Kee"]
+    Board --- NRC["NRC  
+2 IDs and 1 NINED  
+Mr Koo Tsai Kee (Chairman)  
+Mr David Lim Teck Leong  
+Mr Tan Hai Peng Micheal"]
+    Board --- SPC["SPC  
+1 ID and 2 NINEDs  
+Mr Tan Hai Peng Micheal (Chairman)  
+Mr Victor Song Chern Chean  
+Mr Yezdi Phiroze Chinoy"]
+    Board --- SC["SC  
+2 IDs  
+Mr David Lim Teck Leong (Chairman)  
+Mr Yezdi Phiroze Chinoy"]
+    
+```
+
+Organizational chart showing the Board of Directors of the Manager and its four committees: ARC, NRC, SPC, and SC.
+
+##### Board Meetings and Activities
+
+Directors attend and actively participate in Board and Board Committees’ meetings. The Board meets regularly, at least once every quarter, and as required by business imperatives or particular circumstances, to discuss and review business strategies and policies, including any significant acquisition and/or divestment, portfolio performance, business outlook, movement in Unitholdings, deliberate growth opportunities of Elite REIT, and approve the release of half-year and full-year financial results, and quarterly business updates. Board and Board Committee meetings are scheduled prior to the start of each financial year in consultation with the Directors. Board meetings may be called at short notice to deal with matters as the need arises.
+
+As a general rule, Board and Board Committees’ meeting notices and papers are required to be sent to the Directors and members of Board Committees, with ample time ahead of the meetings to review the papers. Where exigencies prevent a Director from attending a meeting in person, the constitution of the Manager allows the Director to participate in such Board
+
+or Board Committee meeting via audio or video conference. If a Director is unable to attend a Board or Board Committee meeting, he may provide his input to the Chairman of the Board or the relevant Board Committee, as the case may be, and raise queries on the agenda items ahead of the meeting. These comments are taken into consideration for deliberations. The Board and Board Committees may also make decisions by way of passing written resolutions.
+
+Board papers are detailed and give the background, explanatory information, justification, risks and mitigation measures for each agenda item and mandate sought by Management, including, where applicable, relevant budgets, business plans, forecasts and projections. Directors can ask for additional information as needed to make informed decisions. However, papers containing price sensitive information may be tabled at the meetings themselves or discussed without any papers being distributed. All Board and Board Committees’ papers are kept and disseminated via an electronic board portal, which has proven to be an effective, secure and sustainable form of communication.
+
+1 On 8 August 2025, Datin Paduka Sarena Cheah stepped down as NINED of the Manager and Tan Chin Hwee stepped down as ID of the Manager.
+2 Members of SC also comprise Mr Joshua Liaw (CEO), Mr Michael Tong (CFO), Mr Jonathan Edmunds (CIO) and Ms Pearl Lam (Head of Investor Relations).
+
+<!-- PAGE 102 -->
+
+###### Corporate Governance Report
+
+External consultants or advisers who can provide additional insights into the relevant matters at hand may be invited to attend the meetings. These parties will not participate in any decision-making process.
+
+The Management recognises that an on-going flow of information in an accurate, complete, adequate, and timely manner prior to meetings and on an on-going basis is critical to enable the Board to make informed decisions and be effective in discharging its duties and responsibilities.
+
+At the Board and ARC meetings, Directors are updated on developments, challenges and changes in the operating environment, including changes in accounting standards, changes in laws and regulations governing the REIT industry, and other changes that have bearing on Elite REIT. Written updates on Elite REIT’s operating and financial performance, strategic plans, regulatory and compliance updates and other matters will also be provided to facilitate discussions. On a quarterly basis, Management also provides the Board with an update on the operating performance of Elite REIT, as well as a set of management accounts and analysis, to enable the Board to exercise effective oversight over Elite REIT.
+
+The Board is responsible for providing a balanced and understandable assessment of Elite REIT’s performance, position and prospects.
+
+The Directors have separate and independent access to Management, the Company Secretary and external advisors at all times, and they are entitled to request from Management additional information to make informed
+
+decisions. The Directors, either individually or as a group, may at the Manager’s expense, seek independent professional advice where appropriate, to discharge his/her/their duties effectively.
+
+The Company Secretary and/or her representative attends the Board and Board Committees’ meetings and is responsible for ensuring that Board procedures are observed and that applicable rules and regulations are complied with. The Company Secretary also periodically updates the Board on relevant changes to the listing rules affecting Elite REIT. The appointment and removal of the Company Secretary is a matter for the Board as a whole.
+
+In each meeting where matters requiring the Board’s approval are to be considered, all members of the Board present participate in the discussions and deliberations; and resolutions in writing are circulated to all Directors for their consideration and approval. The exception is where a Director has a conflict of interest in a particular matter in which case, he/she will be required to recuse himself/herself from the discussions and deliberations, and abstain from voting on the matter. This principle of collective decisions adopted by the Board ensures that no individual influences or dominates the decision making process.
+
+The Board’s responsiveness allowed Management to manage Elite REIT’s business and operations effectively in an increasingly competitive business environment. Individual Directors make themselves available and accessible to Management for discussion and consultation outside the formal framework of the Board and Board Committees’ meetings.
+
+The number of Board and Board Committees’ meetings and general meetings held during FY2025, as well as the attendance of every Director and the Chief Executive Officer (“CEO”) at these meetings are set out in the table below:
+
+FY2025 Attendance Table
+
+| Meeting | Board | ARC | NRC | SPC | SC | Annual General Meeting <sup>3</sup> |
+|-|-|-|-|-|-|-|
+| No. of meetings held | 4 | 4 | 1 | 13 | 2 | 1 |
+| Directors | No. of Meetings Attended |  |  |  |  |  |
+| Mr David Lim Teck Leong | 4 | 4 | 1 |  | 2 | 1 |
+| Mr Koo Tsai Kee | 4 | 4 | 1 |  |  | 1 |
+| Mr Nicholas David Ashmore | 4 |  |  |  |  | 1 |
+| Mr Yezdi Phiroze Chinoy | 4 | 4 |  | 13 | 2 | 1 |
+| Mr Tan Hai Peng Micheal | 4 |  | 1 | 13 |  | 1 |
+| Mr Victor Song Chern Chean | 4 |  | 1 | 9 |  | 1 |
+| Mr Tan Dah Ching | 4 |  |  |  |  | 1 |
+| Datin Paduka Sarena Cheah <sup>4</sup> | 3 |  |  | 3 | 2 | 1 |
+| Mr Tan Chin Hwee <sup>5</sup> | 3 |  |  |  |  | 1 |
+| CEO |  |  |  |  |  |  |
+| Mr Liaw Liang Huat Joshua | 4 | 4 | 1 | 13 | 2 | 1 |
+
+3 Annual General Meeting was held on 30 April 2025.
+
+4 Datin Paduka Sarena Cheah stepped down as a NINED of the Manager on 8 August 2025. Accordingly, she also ceased as a member of the SPC and SC respectively on the same date.
+
+5 Mr Tan Chin Hwee stepped down as ID of the Manager on 8 August 2025.
+
+<!-- PAGE 103 -->
+
+Directors with multiple board representations ensure that sufficient time and attention are given to the affairs of the Manager and Elite REIT. As disclosed on page 107 the NRC is satisfied that all Directors gave sufficient time and attention to the affairs of the Manager and were able to and have adequately carried out their duties as a director of the Manager in FY2025.
+
+##### Orientation for Directors
+
+The NRC exercises oversight on the orientation, training and professional development of Directors, in order to ensure that they understand Elite REIT's business as well as their directorship duties (including their roles as executive, non-executive and independent directors, as the case may be).
+
+Upon the appointment of each new Director, he/she is issued a formal letter of appointment setting out his/her duties, responsibilities and obligations.
+
+The Board has a comprehensive and structured orientation framework. Newly appointed Directors will have to attend a familiarisation exercise whereby they undergo a tailored programme to enable them to have a good understanding of Elite REIT. The appropriate induction, and orientation sessions will be conducted to orientate the Directors in acting as a director of a manager of a publicly listed REIT.
+
+The orientation exercise consists of management presentations on Elite REIT's strategic objectives, business, operations, responsibilities of key management personnel, and financial and governance practices, and site visits to Elite REIT's properties.
+
+The orientation exercise allows new Directors to get acquainted with Management and helps pave the way for Board interaction and direct access to Management.
+
+The NRC also ensures that new Directors are aware of their duties and obligations, the Manager's policies relating to restrictions on dealings in Elite REIT's securities and disclosure of price-sensitive and trade-sensitive information.
+
+In addition to the above, copies of the minutes of the latest Board and Board Committees' meetings will be made available to newly appointed Directors. They are also provided with other materials relating to the Board and Board Committees, including the terms of reference of the various Board Committees on which they are appointed as well as relevant guidelines and policies.
+
+Any new Director appointed to the Board who has had no prior experience as director of a SGX-ST's listed issuer must undergo mandatory training on his or her roles and responsibilities as prescribed by the SGX-ST. There were no new Directors appointed during FY2025.
+
+##### Training for Directors
+
+The Board also recognises the importance of continual training and development for the Directors so that they can perform their roles on the Board and Board Committees to the best of their abilities. The NRC is tasked with identifying important training topics for Directors and recommending them to the Board.
+
+Directors are encouraged to participate in industry conferences, seminars, courses and training programmes which are relevant to their duties. Training programmes include those organised by the Singapore Institute of Directors ("SID") on corporate governance, leadership and industry-related subjects. The Manager funds the training and development programmes for the Board members.
+
+In FY2025, various Directors attended training sessions relating to anti-money laundering and countering the financing of terrorism and anti-bribery, anti-corruption. The Manager believes that the provision of continuing education opportunities to Directors will keep them updated on matters relevant to their appointments and responsibilities. A training register is maintained with respect to the courses/seminars attended by the Directors and such register is also tabled to the NRC for information at its meeting. All Directors have undergone training on sustainability matters as required under Rule 720(7) of the Listing Manual.
+
+The Board is regularly updated on new developments in laws and regulations or changes in regulatory requirements, tax matters or financial reporting standards which are relevant to or may affect Elite REIT or the Manager either during Board meetings or at specially convened meetings (with the attendance of professional advisers, consultants, auditors and Management) or disseminated by way of handouts. Management also provides the Board with timely information through regular updates on financial results, relevant market, and business developments.
+
+##### Board Composition and Guidance
+
+#### **Principle 2:**
+
+The Board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interests of Elite REIT.
+
+The Board reviews the size and composition of the Board annually, to ensure that the Board is of an appropriate size and has the appropriate mix of expertise, experience and other aspects of diversity. The Board works to avoid groupthink, and foster constructive debate, with a view to ensure effective decision making by taking into account the scope and nature of the operations of Elite REIT.
+
+Profiles of the Directors are provided on pages 14 to 17 of this Annual Report. Key information on the Directors is also available on Elite REIT's website at [www.eliteukreit.com](http://www.eliteukreit.com).
+
+<!-- PAGE 104 -->
+
+###### Corporate Governance Report
+
+#### Review of Directors' Independence
+
+The Board presently comprises seven Directors, four of whom are IDs. All the Directors are non-executive directors. The composition of the Board complies with Provision 2.3 of the Code which requires a majority of the board to be made up of non-executive directors. In addition to the Chairman of the Board being independent and non-executive, IDs make up the majority of the Board. This enables Management to benefit from their external, diverse and objective perspectives on issues that are brought before the Board. It would also enable the Board to interact and work with Management through a robust exchange of ideas and views to help shape the strategic process. This, together with a clear separation of the roles of the Chairman of the Board and the CEO, provide a healthy professional relationship between the Board and Management, with clarity of roles and robust oversight as they deliberate on the business activities of the Manager.
+
+The NRC reviewed and assessed the independence of each ID in relation to the Code and SF(LCB)R. Pursuant to the Code and Regulation 13E of the SF(LCB)R, the Board and NRC ascertained the following for FY2025:
+
+- (a) each ID had been independent from Management of the Manager and Elite REIT;
+- (b) each ID had been independent from any business relationship with the Manager and Elite REIT;
+- (c) each ID had been independent from every substantial shareholder of the Manager, and every substantial Unitholder of Elite REIT;
+- (d) none of the IDs was a substantial shareholder of the Manager or a substantial Unitholder of Elite REIT; and
+- (e) none of the IDs has served as a director of the Manager for a continuous period of nine years or longer.
+
+Each of the IDs had recused himself from the deliberations of the NRC and Board on his independence.
+
+##### Board Diversity
+
+The Manager embraces diversity, and believes that a balanced Board can provide diversity of viewpoints and insights that will enhance decision-making. The Board has established a Board Diversity Policy that seeks to have an appropriate level of size as well as diversity in its composition, including the dimensions of skills, knowledge and industry experiences, gender, age and tenure.
+
+The NRC is responsible for:
+
+- (a) reviewing the Board Diversity Policy;
+- (b) setting qualitative and measurable quantitative objectives (where appropriate) for achieving board diversity;
+
+- (c) monitoring and implementing the Board Diversity Policy, and taking the principles of the Board Diversity Policy into consideration when determining the optimal composition of the Board and/or Board Committees, and recommending any proposed changes to complement Elite REIT's objectives and strategies; and
+- (d) reviewing the Manager's progress towards achieving the objectives under the Board Diversity Policy.
+
+The Board will set certain measurable objectives and diversity targets (each a "**Target**") based on the NRC's recommendation in order to achieve an optimal Board composition. The Targets will be reviewed by the NRC annually to ensure their appropriateness. The NRC will endeavour to ensure that the Targets are taken into consideration when assessing candidates for new Board appointments.
+
+##### Tenure
+
+Elite REIT was listed on 6 February 2020. Most of the IDs were appointed on the same date prior to listing and their nine-year term will also expire on the same date. Not counting Mr Yezdi Phiroze Chinoy (ID) the average tenure of existing board members is about six years.
+
+The Board believes diversity of tenure and progressive renewal of the Board are important so that there is continuity of experienced directors as well as the onboarding of new directors to provide fresh perspectives on an ongoing basis.
+
+All director appointments will be based on merit, having due regard to the overall balance and effectiveness of the Board. The NRC and the Board will continue to review the tenure of the Board members and plan for renewal gradually.
+
+##### Skills and Expertise
+
+Currently, the Board and its Board Committees comprise Directors with an appropriate balance and diversity of skills and expertise. The Directors have diverse backgrounds in audit and accounting, business advisory, corporate finance, corporate governance, investment and fund management, construction, real estate and property development, management consulting and commercial litigation. The diversity of skills and expertise enrich the discussions and deliberations of the Board as the members bring their broad range of views, perspectives and breadth of experience to the table. Therefore, the Directors are well-equipped to engage in open and constructive debate, and regularly challenge the Management on its assumptions and proposals. This facilitates the effective oversight of the Management.
+
+When considering new directors for appointment to the Board, candidates who have relevant skills, expertise and/or experience which would complement those already on the Board would be prioritised.
+
+<!-- PAGE 105 -->
+
+As of 31 December 2025, the Target for Skills and Expertise was met. Please refer to the Experience/Skills Matrix of the Directors below.
+
+##### Director Experience/Skills Matrix FY2025
+
+|  | Real Estate Industry Experience | Strategic Planning | Senior Management | Legal | Risk Management | Banking and Corporate Finance | Investment & Fund Management | Asset Management | Facilities Management | Operations Management | Capital Markets & Fundraising | Business Development | Human Resources |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Mr David Lim Teck Leong | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |  |  |  |  | ✓ |
+| Mr Koo Tsai Kee | ✓ | ✓ | ✓ |  | ✓ |  |  |  |  |  |  |  | ✓ |
+| Mr Nicholas David Ashmore | ✓ | ✓ | ✓ |  |  |  |  |  | ✓ |  |  |  | ✓ |
+| Mr Yezdi Phiroze Chinoy | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  | ✓ |  |  |
+| Mr Tan Hai Peng Micheal | ✓ | ✓ | ✓ |  |  |  |  |  |  |  | ✓ | ✓ | ✓ |
+| Mr Victor Song Chern Chean | ✓ | ✓ | ✓ |  |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mr Tan Dah Ching | ✓ | ✓ | ✓ |  |  | ✓ | ✓ |  |  |  | ✓ |  |  |
+
+##### Gender Representation
+
+The NRC, the Board, together with the Sustainability Committee have agreed that it will be a medium to long term Target for the Board to achieve and maintain a 30% minimum representation of each gender on the Board by 2029. The Board is committed to the Target and has included the Target in its Board Diversity Policy.
+
+The Board is of the view that gender is an important aspect of diversity and will strive to ensure that:
+
+- (a) when seeking to identify a new Director for appointment, the NRC will request for female candidates to be fielded for consideration. If external search consultants are engaged, their recruitment brief will include this specific requirement; and
+- (b) at least one female Director is appointed; and there is significant and appropriate female representation on the Board.
+
+##### Age Diversity
+
+The Board comprises Directors falling within at least two out of three age groups, being:
+
+- (i) 61-70
+- (ii) 51-60
+- (iii) 41-50
+
+As of 31 December 2025, the ages of the Board members range from 47 to 71. The Target for age diversity was met. Please refer to the chart below.
+
+The Manager believes the age diversity would contribute beneficially to the Board's deliberations.
+
+##### Diverse Board Nationalities
+
+The Board comprises Directors of different nationalities. Coupled with their diverse backgrounds and competencies, this adds value to the Board's capacity for strategic thinking and problem solving.
+
+Please refer to the charts below.
+
+##### Composition of the Board in FY2025
+
+![](1c8458d958b0d98950c071a79b5fefe2_img.jpg)
+
+Age Group
+
+< 30 years old
+
+30 – 50 years old
+
+> 50 years old
+
+0%
+
+33%
+
+67%
+
+Independence
+
+Independent
+
+Non-Independent
+
+56%
+
+44%
+
+Directors' Citizenship
+
+Singapore Citizen
+
+Foreigner
+
+67%
+
+33%
+
+<!-- PAGE 106 -->
+
+###### Corporate Governance Report
+
+The Board continues to seek to introduce greater diversity as it progressively reviews the composition of the Board and its Board Committees. As of 31 December 2025, the Board and Board Committees are of an appropriate size, and comprise Directors who as a group provide the appropriate balance and mix of skills, knowledge, experience, and other aspects of diversity such as gender and age, so as to avoid groupthink and foster constructive debate.
+
+Following the resignation of Datin Paduka Sarena Cheah from the Board on 8 August 2025, the Board remains committed to meeting its gender diversity objectives over the longer term.
+
+##### Meetings of Directors Without Management
+
+The IDs, led by the Independent Chairman of the Board, regularly meet to discuss matters both formally and informally without the presence of the Management and the non-independent Directors.
+
+The Audit and Risk Committee, which comprises three IDs, also meets with the external auditor and the internal auditor at least annually and without the presence of Management.
+
+The Independent Chairman of the Board provides feedback and recommendations to the Board as appropriate.
+
+##### Chairman and Chief Executive Officer
+
+#### **Principle 3:**
+
+There is a clear division of responsibilities between the leadership of the Board and Management, and no one individual has unfettered powers of decision-making.
+
+The positions of Chairman of the Board and CEO of the Manager are held by two different individuals to maintain effective segregation of duties, ensure an appropriate balance of power and authority, increased accountability, and to maintain effective checks and balances, and for more independent decision making. The Chairman of the Board is Mr David Lim Teck Leong, and the CEO of the Manager is Mr Joshua Liaw. In accordance with Regulation 13D(1) of the SF(LCB)R, the Chairman is a non-executive director and not a member of immediate family of the CEO. The Chairman leads the Board to ensure its effectiveness in all aspects of its role. He ensures that adequate time is given for discussion of all items at the Board meeting, in particular strategic issues. He also facilitates effective contribution of the Directors and encourages a culture of openness and debate at Board meetings. The Chairman also ensures that the Board works together with integrity and competency, and that the Board engages the Management in constructive debate on strategy, business operations, enterprise risk and other plans.
+
+The Chairman also has the discretion to hold meetings with the other IDs without the presence of the Management as he deems appropriate or necessary, and provides feedback and recommendations to the Board as appropriate. The Chairman presides over the Annual General Meeting (“AGM”) each year and other general meetings of the Unitholders. The Chairman addresses, and/or requests the CEO and the CFO of the Manager to address the Unitholders’ queries, and ensures that there is clear and open dialogue between all stakeholders.
+
+The Management is led by the CEO. The CEO is principally responsible for execution of the strategies and policies approved by the Board and conduct of the business of the Manager. He has full executive responsibilities over the business direction and operational decisions in managing Elite REIT. The CEO is accountable to the Board for the conduct and performance of Management.
+
+The CEO also makes sure that the information that is shared with the Board is timely, appropriate and of the requisite quality so that the Board can discharge its duties and responsibilities effectively.
+
+The Manager adopted terms of reference for the Chairman and the CEO which set out clearly their respective duties. The Chairman leads the Board and ensures the effectiveness of all aspects of its role. His responsibilities include, inter alia:
+
+- (a) constructively determining and approving, with the full Board, the Manager’s strategy;
+- (b) ensuring that the Board is properly organised, functioning effectively, and meeting its obligations and responsibilities;
+- (c) setting the agenda and ensuring adequate time is available for discussion of all agenda items, in particular, strategic issues;
+- (d) fostering effective communication and constructive relations amongst the Directors, within Board Committees, between Unitholders, between the Directors and the Management;
+- (e) encouraging the constructive exchange of views within the Board and between Board members and the Management;
+- (f) facilitating the effective contributions of all Directors;
+- (g) promoting a culture of openness and debate at the Board level and promoting high standards of corporate governance; and
+- (h) establishing a relationship of trust with the CEO.
+
+The CEO leads the Management and his responsibilities include, inter alia:
+
+- (a) day-to-day running of the Manager’s and Elite REIT’s business in accordance with the business plans approved by the Board;
+- (b) meeting or communicating with the Chairman on a regular basis to review key developments, issues, opportunities and concerns;
+- (c) developing and proposing the Manager’s strategies and policies for the Board’s consideration;
+- (d) implementing the strategies and policies approved;
+- (e) assessing risks to the Manager and Elite REIT;
+- (f) maintaining regular dialogue with the Chairman on important and strategic issues faced by the Manager and Elite REIT;
+- (g) providing to the Board timely reports which contain relevant, accurate, timely and clear information necessary for the Board to fulfil its duties;
+- (h) ensuring the Board is alerted to forthcoming complex, contentious or sensitive issues affecting the Manager and Elite REIT which it might otherwise not be aware;
+
+<!-- PAGE 107 -->
+
+- (i) overseeing the affairs of the Manager and Elite REIT in accordance with the practices and procedures adopted by the Board and promoting the highest standards of integrity, probity and corporate governance within the Manager and Elite REIT; and
+- (j) communicating, on behalf of the Manager, with the Unitholders, government entities and the public.
+
+Provision 3.3 of the Code recommends the appointment of an Independent Director to be the lead independent director, to provide leadership in situations where the Chairman is conflicted, and especially when the Chairman is not independent. As the Chairman, Mr David Lim Teck Leong, is independent, and most of the Board Committees are chaired by and comprise at least a majority of IDs, the Board is of the view that it is not necessary, for the time being, to appoint a lead independent director. In addition, the Group-wide Whistleblowing Policy provides an independent mechanism for employees and other persons to raise any concerns where normal channels of communication with the Chairman or Management are inappropriate or inadequate, and matters under the policy are reported directly to the ARC Chairman, who is also an ID of the Manager.
+
+##### Relationships between the Board and the CEO
+
+The members of the Board and CEO are not related to one another, and none of the members of the Board has any business relationship with the CEO or vice versa.
+
+##### Board Membership
+
+**Principle 4:**
+
+The Board has a formal and transparent process for the appointment and re-appointment of Directors, taking into account the need for progressive renewal of the Board.
+
+The Board has a formal process in place to evaluate the effectiveness of the Board and its Board Committees on an annual basis.
+
+##### Nominating and Remuneration Committee
+
+The NRC members are appointed by the Board from among its members, and comprise three Directors, two of whom (including the NRC Chairman) are IDs. The members of the NRC are:
+
+![Organizational chart of the Nominating and Remuneration Committee (NRC) members.](a471382fa73185ead4f9b83e3e64ee96_img.jpg)
+
+```
+
+graph TD
+    A["Mr Koo Tsai Kee  
+NRC Chairman and  
+Independent Non-Executive Director"]
+    B["Mr David Lim Teck Leong  
+NRC Member and  
+Independent Non-Executive Director"]
+    C["Mr Tan Hai Peng Micheal  
+NRC Member and  
+Non-Independent Non-Executive Director"]
+    A --- B
+    A --- C
+  
+```
+
+Organizational chart of the Nominating and Remuneration Committee (NRC) members.
+
+##### Roles and Responsibilities of the NRC (in Relation to Nomination Matters)
+
+The NRC has written terms of reference setting out its scope and authority in performing the functions of a nominating and remuneration committee, including assisting the Board in matters relating to:
+
+##### Nomination
+
+- reviewing and recommending to the Board a general framework of remuneration and succession plans for each director and executive officer, in particular the appointment and/or replacement of the Chairman, the CEO and KMPs;
+- developing the process and criteria for evaluation of the performance of the Board as a whole and each of its Board Committees and Directors;
+- reviewing the training and professional development programmes for the Board;
+- establishing a formal and transparent process for the appointment and re-appointment of Directors (including alternate directors, if applicable), having regard to the composition and progressive renewal of the Board and each Director's competencies, commitment, contribution and performance, including, if applicable, as an ID;
+- determining annually, and as and when circumstances require, if a Director is independent, having regard to the circumstances set forth in Provisions 2.1 and 2.2 of the Code and Rule 210 (5)(d) of the SGX-ST's Listing Manual;
+- ensuring that new Directors are apprised of their duties and obligations;
+- deciding if a Director is able to and has been adequately carrying out his/her duties as a director, taking into consideration the Director's other principal commitments and other listed company directorships;
+- reviewing Elite REIT's obligations arising in the event of termination of Directors' and KMP's contracts of service and ensuring that such contracts of service contain fair and reasonable termination clauses which are not overly generous;
+- implementation and monitoring of the Board Diversity Policy, and making recommendations to the Board on the diversity of skills, experience, gender, age, knowledge, size and composition of the Board; and
+- such other duties as provided in the Code.
+
+Note:
+
+The roles and responsibilities of the NRC with regard to remuneration matters are detailed in the section under REMUNERATION MATTERS.
+
+The NRC administers nominations to the Board, reviews the structure, size and composition of the Board and reviews the performance and independence of the Directors.
+
+The NRC is of the view that the members of the Board provide an appropriate balance and diversity of skills and commercial experience. The NRC believes that a director's eligibility for selection, appointment and re-appointment goes beyond his or
+
+<!-- PAGE 108 -->
+
+###### Corporate Governance Report
+
+her attendance at meetings. The NRC takes into consideration a director's competencies, commitment, contribution and performance, and is committed to ensuring an appropriate balance and diversity of skills, experience and knowledge in the Board.
+
+##### Review of Directors' Independence by the NRC
+
+The NRC formally assesses the independence of each Director in accordance with the circumstances set forth in the Code and the accompanying Practice Guidance, the Listing Manual and the CIS Code (collectively, the **"Relevant Regulations"**) on an annual basis. Under the Code, an ID is one who is independent in conduct, character and judgement, and has no relationship with the Manager, its related corporations, its substantial shareholders or its officers, or Elite REIT's substantial unitholders that could interfere, or be reasonably perceived to interfere, with the exercise of his/her independent business judgement in the best interests of Elite REIT.
+
+Rule 210(5)(d) of the Listing Manual of the SGX-ST also sets out circumstances under which a director will not be independent:
+
+- (i) if he/she is employed or has been employed by the Manager or Elite REIT or any of its related corporations in the current or any of the past three financial years;
+- (ii) if he/she has an immediate family member who is employed or has been employed by the Manager or Elite REIT or any of its related corporations in the current or any of the past three financial years, and whose remuneration is or was determined by the remuneration committee of the Manager; or
+- (iii) if he/she has been a director of the Manager for an aggregate period of more than nine years (whether before or after listing). Such director may continue to be considered independent until the conclusion of the next annual general meeting of Elite REIT.
+
+There is currently no ID who has served on the Board for more than nine years.
+
+The Board through the NRC assesses annually the independence of each ID based on his/her declaration of independence provided to the NRC/Board, taking into account the requirements and/or guidance set out in the Relevant Regulations.
+
+As part of the rigorous process to evaluate the independence of each ID:
+
+- (a) each ID provides information on his/her business interests and confirms that there are no relationships with the Manager, its related corporations, its substantial shareholders or its officers, Elite REIT's substantial unitholders which interfere with the exercise of his/ her independent business judgement in the best interest of Unitholders as a whole. Such information is then reviewed by the NRC and the Board; and
+- (b) the Board through NRC reflects on the respective IDs' conduct and contributions at Board and Board Committee meetings, and considers whether the relevant ID exercises independent judgement in discharging his/her duties and responsibilities.
+
+The Board has considered the views of the NRC, and determined that Mr David Lim Teck Leong, Mr Koo Tsai Kee, Mr Nicholas David Ashmore and Mr Yezdi Phiroze Chinoy have demonstrated independence in character and judgement in the discharge of their responsibilities as Directors in FY2025, and is satisfied that each of them has acted with independent judgement. The Board has also assessed the relationships or circumstances which are likely to affect, or could appear to affect, the Directors' judgement.
+
+Mr Nicholas David Ashmore acts as a resident director of the following subsidiaries of Elite REIT and the Manager incorporated in the UK:
+
+- (a) Elite REIT Holdings Limited (**"ERHL"**). ERHL is listed on The International Stock Exchange;
+- (b) Elite Kist Limited;
+- (c) Elite UK Commercial Limited;
+- (d) Elite Gemstones Properties Limited;
+- (e) Elite Amphora Limited;
+- (f) Elite Cask Limited;
+- (g) Elite Dram Limited; and
+- (h) Elite Commercial REIT Management (UK) Limited.
+
+The appointment of Mr Ashmore in the above entities is to satisfy the resident director requirement in the UK and he does not play any executive role in the above entities. The NRC, with the concurrence of the Board, is of the view that the appointment of Mr Ashmore as director of the above entities does not impede his independence as an ID. As at the last day of FY2025, the Board was satisfied and Mr Ashmore was able to act in the best interests of all the Unitholders as a whole despite not being independent under Regulation 13E(b)(i)(B). As at the last day of FY2025, Mr Ashmore was able to act in the best interest of the Unitholders as a whole.
+
+In FY2025, based on the annual review of the Directors' independence conducted by the NRC, and the declarations by the IDs of their independence, the NRC and the Board are satisfied that Mr David Lim Teck Leong, Mr Koo Tsai Kee, Mr Nicholas David Ashmore, and Mr Yezdi Phiroze Chinoy are independent.
+
+Except as disclosed above, none of the IDs had any management or business relationship with the Manager, its related companies, its substantial shareholders or its officers, as well as with Elite REIT and its substantial Unitholders that could interfere, or be reasonably perceived to interfere, with the exercise of the Director's independent business judgement in the best interests of Elite REIT.
+
+During FY2025, each of the IDs had been independent from the management of the Manager and Elite REIT, as well as from every substantial shareholder of the Manager, and every substantial Unitholder of Elite REIT. None of the IDs were a substantial shareholder of the Manager or a substantial unitholder of Elite REIT. These disclosures are made in accordance with Regulation 13E(b) (i) of the SF(LCB)R.
+
+<!-- PAGE 109 -->
+
+Each ID is also required to recuse himself from deliberating on his own independence. An ID is required to report to the Manager when there is any change of circumstances which may affect his independence. As and when circumstances require, the NRC and the Board will review the independence of an ID of the Manager.
+
+##### Review of Directors' Time Commitments
+
+The Non-Independent Non-Executive Directors – Mr Tan Hai Peng Micheal, Mr Victor Song Chern Chean and Mr Tan Dah Ching – are representatives of the Manager's shareholders. The Board is satisfied that as at the last day of FY2025, the Non-Independent Non-Executive Directors were able to act in the best interests of all Unitholders as a whole.
+
+All Directors are required to commit sufficient time and attention to the affairs of Elite REIT and the Manager. The NRC will annually, and as required, assess the major commitments of the Directors, including their employment and listed company directorships, and whether the Director has and can suitably fulfill his or her duties as a director of the Manager. All the Directors are required to notify the Board of any changes in their directorships.
+
+Provision 4.5 of the Code requires listed companies to disclose the number of listed company directorships and principal commitments of each director in the Annual Report and where a director holds a significant number of such directorships and commitments, it provides the Board a reasoned assessment of the ability of the director to diligently discharge his or her duties.
+
+The Board believes that it is not practicable to impose a limit on the maximum number of listed company board representations each Director may hold or stipulate the amount of time that each Director should devote to the affairs of Elite REIT and the Manager. The effectiveness of the Board and contributions of each Director cannot be assessed solely on a quantitative basis. The number of listed company directorships and principal commitments of each Director, such as whether he or she is in full-time employment and the nature of his or her other responsibilities, are considered on a case-by-case basis and taken into account in the NRC's and the Board's assessment of the ability of each Director to diligently discharge his or her duties as a director of the Manager, without any potential or actual conflict of interest.
+
+A Director with multiple directorships and significant commitments is expected to ensure that sufficient attention can be given to the affairs of Elite REIT and the Manager. A Director's capacity is determined by metrics such as his/her attendance (including preparedness and productive participation) at Board and Board Committee meetings and contributions to the effective supervision of Elite REIT.
+
+Each Director is or has been a senior executive, and has knowledge about and/or experience in serving as a director of listed companies. Further, each Director confirms that he/she is able to devote sufficient time to discharge his/her
+
+duties as a director of the Manager. Directors who hold more than five listed company directorships are required to provide the NRC and/or the Board additional assurance and representation in writing on how he/she is able to allocate sufficient time to properly discharge his/her duties.
+
+Based on every Director's attendance record for Board and Board Committees' meetings (set out in page 100) and contributions outside of formal Board and Board Committees' meetings, the NRC is satisfied that all Directors have committed sufficient time and discharged their duties adequately for FY2025, and can commit sufficient time and discharge their duties adequately.
+
+Key information regarding the Directors such as academic and professional qualifications, committee membership, date of appointment, other principal commitments and details about the present and past directorships of each Director are set out in pages 14 to 17 of this Annual Report. The Directors' unitholdings in Elite REIT are set out in page 173.
+
+##### Selection and Appointment of New Directors
+
+The NRC will regularly review the existing attributes and competencies of the Board in order to determine the desired experience or expertise required to strengthen or supplement the Board. The NRC is in charge of making recommendations to the Board regarding the identification and selection of Directors for appointment and re-appointment.
+
+In identifying candidates for appointment to the Board as part of the Board's renewal process, the following principles are applied by the NRC:
+
+- the Board should comprise directors with a broad range of commercial and professional experience, including expertise in business management, real estate, finance, investments, risk management and legal matters;
+- the Board should have diversity in terms of gender, age and relevant skillsets;
+- a majority of the Board should comprise IDs if the Chairman is not an ID; and
+- the candidate is fit and proper in accordance with MAS' fit and proper guidelines, taking into account his or her experience, skills, track record, capabilities and such other relevant experience as may be determined by the Board.
+
+To ensure the continuity of experienced Directors alongside new Director appointments, the NRC will continue its efforts to progressively refresh Board membership in an orderly manner. The Manager believes that Board renewal is a necessary and continual process, for good governance and ensuring that the Board has the skills, expertise and experience which are relevant to the evolving needs of Elite REIT's business; renewal or replacement of a Director therefore does not necessarily reflect his/her performance or contributions to date.
+
+<!-- PAGE 110 -->
+
+###### Corporate Governance Report
+
+The Manager has a policy which sets out a detailed process on the search, selection, nomination and appointment of Directors.
+
+The NRC will take the lead in identifying, evaluating and selecting suitable candidates for new directorships based on selection criteria provided, taking into account, among other things, the scope and nature of the operations, business requirements. Potential candidates would be sourced from different channels, including existing networks of contacts and recommendations of Board members and business associates, director associations, advertisements, and from conducting an external search for candidates.
+
+The NRC will then shortlist and interview the candidates. Shortlisted candidates are evaluated by the NRC on his/her skills, competencies and experience as well as the ability to contribute productively to discussions, deliberations and activities of the Board and Board Committees with an understanding of Elite REIT's and the Manager's business, industry, finance and other factors relevant to the success of Elite REIT. Once a candidate is selected for the Board, the NRC will conduct due diligence through reference checks before putting the appointment of such candidate up to the Board for approval.
+
+The process for selection and appointment of IDs also takes into account the relevant requirements under the Listing Manual and SF(LCB)R.
+
+##### Succession Planning of the Board Chairman and Key Management Personnel
+
+The NRC is cognisant of succession planning for key positions in the Manager and has in mind Elite REIT's strategic priorities and the factors affecting the long-term success of Elite REIT. The Board seeks to refresh its membership progressively and in an orderly manner, whilst ensuring continuity and sustainability of corporate governance. The NRC aims to maintain an optimal board composition by considering the trends affecting Elite REIT, reviewing the skills needed and identifying gaps, including considering whether there is an appropriate level of diversity of thought. The NRC considers different time horizons for purposes of succession planning. The NRC evaluates the Board's competencies on a long-term basis and identifies competencies needed to achieve Elite REIT's strategy and objectives. As part of medium-term planning, the NRC seeks to refresh the membership of the Board in an orderly manner. The NRC also considers contingency planning to prepare for sudden and unforeseen changes.
+
+Board succession planning is carried out through the annual review of Board composition as well as when an existing Director gives notice of his/her intention to retire or resign. The outcome of such review will then be reported to the Board.
+
+As part of contingent leadership planning, the NRC has identified one of the board members capable to take on the role of the acting CEO in the event circumstances call for it. For the other KMP's succession, the CEO will cover their duties in the interim while looking for a replacement.
+
+The Manager is mindful of identifying and developing the potential next-in-line for succession of the respective KMP roles. For Board Chairman's succession, the NRC will identify one of the Board members to undertake the role if the circumstances so require.
+
+##### Board Performance
+
+#### **Principle 5:**
+
+The Board undertakes a formal annual assessment of its effectiveness as a whole, and that of each of its board committees and individual directors.
+
+The NRC assesses and discusses the performance of the Board as a whole and its Board Committees on an annual basis. The NRC has in place a process to evaluate the effectiveness of the Board and its Board Committees, as well as the contributions of the Chairman and each individual Director. The review allows each Director to individually express his/her personal and confidential assessment of the Board's overall effectiveness in discharging its duties and responsibilities. It provides insights into the functioning of the Board and its Board Committees, whilst identifying areas that need strengthening or improvement.
+
+##### Board and Board Committees
+
+On an annual basis, the Directors are required to complete evaluation questionnaires on the Board and its Board Committees. The individual Director's performance is assessed based on the Director's duties and performance, knowledge and interactive skills. The scope of evaluation in the evaluation questionnaires for the Board for FY2025 included (1) Board composition, (2) Board processes, (3) Internal control and risk management, (4) Board access to information, (5) Board accountability and committee effectiveness; and (6) Environmental, Social and Governance ("ESG") policy implementation. The evaluation questionnaires on the Board also required the Board to consider whether the creation of value for the Unitholders has been taken into consideration in its decision-making process.
+
+If need be, the NRC recommends for the Board's approval the objective performance criteria and process for the evaluation of the effectiveness of the Board as a whole, and of each Board Committee separately, as well as the contribution by the Chairman and each Director to the Board.
+
+The scope of evaluation for the Board committees is mainly based on the understanding of the respective terms of reference and areas of expertise relevant to the respective Committees.
+
+Each Director is given sufficient opportunity to bring to the Board his/her perspective to enable balanced and well-considered decisions to be made.
+
+<!-- PAGE 111 -->
+
+##### Individual Directors
+
+Each Director is required to complete an individual director self-assessment questionnaire. The questionnaire aims to assess whether each Director is willing and able to constructively challenge and contribute effectively to the Board, and demonstrates commitment to his/her roles on the Board and Board Committees.
+
+The evaluation categories covered in the questionnaire include the Director's initiative, knowledge, skills, participation in constructive debate/discussion, declaration of conflicts of interest and disclosure of interested person transactions.
+
+For FY2025, individual Directors, the Board, ARC, NRC, SPC and SC completed their respective evaluation forms and returned them to the Company Secretary for compilation of the summary of results of the evaluation.
+
+The results of the evaluation questionnaires are first reviewed by the NRC and subsequently presented to the Board. All necessary follow-up actions will be undertaken with a view to enhance the effectiveness of the Board and Board Committees in the discharge of its duties and responsibilities.
+
+The Board, in consultation with the NRC, was satisfied with the Board, ARC, NRC, SPC and SC's performance evaluation results for FY2025, which indicated that each and every Director had demonstrated commitment and contributed to the effective functioning of the Board, ARC, NRC, SPC and SC. The formal annual assessment is conducted entirely by the NRC and does not rely on any external facilitator.
+
+### REMUNERATION MATTERS
+
+#### Procedures for Developing Remuneration Policies
+
+#### **Principle 6:**
+
+The Board has a formal and transparent procedure for developing policies on director and executive remuneration, and for fixing the remuneration packages of individual directors and key management personnel. No director is involved in deciding his or her own remuneration.
+
+#### Level and Mix of Remuneration
+
+#### **Principle 7:**
+
+The level and structure of remuneration of the Board and key management personnel are appropriate and proportionate to the sustained performance and value creation of Elite REIT, taking into account the strategic objectives of Elite REIT.
+
+#### Disclosure on Remuneration
+
+#### **Principle 8:**
+
+The Manager is transparent on its remuneration policies, level and mix of remuneration, the procedure for setting remuneration, and the relationships between remuneration, performance and value creation.
+
+#### Roles and Responsibilities of the NRC (in Relation to Remuneration Matters)
+
+The NRC plays an important role in ensuring the attraction, recruitment, motivation, and retention of talents through competitive remuneration and progressive policies so as to achieve Elite REIT's goals, and to deliver sustainable Unitholder value, distribution income, as well as growth in total returns. Terms of reference setting out the scope and authority in performing the function of the NRC have been put in place, and these include assisting the Board in matters relating to:
+
+##### Remuneration
+
+- establishing a formal and transparent procedure for developing policies on Director and executive remuneration, and for fixing the remuneration packages of individual Directors and KMP;
+- considering all aspects of remuneration, including termination terms, to ensure they are fair;
+- reviewing and recommending the Directors' fees to the Board, for endorsement by the Board;
+- reviewing and recommending a framework of remuneration for the Board and KMP (no member of the Board is involved in any decision of the Board relating to his or her own remuneration). The framework covers all aspects of remuneration, including fees, salaries, allowances, bonuses, award of Units and benefits in kind, as well as termination terms;
+- reviewing and recommending specific remuneration packages for each Director and KMP;
+- consulting independent professional consultancy firms where necessary in determining remuneration packages; and
+- considering the various disclosure requirements on Directors' remuneration and ensuring that there is adequate disclosure in the financial statements to ensure and enhance transparency between Elite REIT and relevant interested parties.
+
+The NRC seeks to ensure that a significant and appropriate proportion of executive Directors' (if any) and KMP's remuneration is structured so as to link rewards to the achievement of Elite REIT and individual performance targets. The Board sets performance targets with the purpose of motivating a high degree of business performance with emphasis on both short- and long-term quantifiable goals. The corporate and individual performance-related elements of remuneration have been established to align the interests of KMP with those of the Unitholders and other stakeholders with the aim of providing for the long-term interests of the Unitholders and to promote the long-term success of Elite REIT.
+
+In addition, the NRC reviews the achievements of Elite REIT against the targets set to determine the overall performance taking into consideration qualitative factors such as the business environment, regulatory landscape and industry trends and approves a bonus pool that is commensurate with the performance achieved. The framework of remuneration is aligned with the interests of the Unitholders. The remuneration packages are also appropriately structured to attract, retain
+
+<!-- PAGE 112 -->
+
+###### Corporate Governance Report
+
+and motivate the Directors to provide good stewardship of the Manager and KMP to successfully manage Elite REIT for the long term.
+
+The remuneration of the Directors, KMP (including the CEO) and employees of the Manager is not paid out of the deposited property of Elite REIT, but paid by the Manager.
+
+#### Remuneration Framework of Key Management Personnel
+
+The remuneration of KMP is structured to take into account:
+
+- the strategic objectives and goals of Elite REIT; and
+- corporate and individual performance, both in terms of financial and non-financial performance of Elite REIT through the incorporation of appropriate key performance indicators (“KPIs”) that are specific, measurable and result-oriented.
+
+The KPIs used to determine the remuneration of the CEO and other KMP for FY2025, take into consideration, inter alia:
+
+- Elite REIT’s income available for distribution (and distribution per Unit);
+- total Unitholders’ return;
+- investor relations management;
+- asset enhancement initiatives; and
+- other strategic initiatives as determined from time to time
+
+These performance indicators are appropriate and meaningful measures which assess the Management’s performance, whilst taking into account the risk policies of Elite REIT. Structuring the level of remuneration such that it aligns the interests of KMP with those of the Unitholders and other stakeholders and fosters the long-term success of Elite REIT. After the end of each financial year, the NRC reviews Elite REIT’s achievements against the KPIs set for the KMP and determines the overall performance, taking into account factors such as the assets under management, the Unit price, the quality of earnings, the regulatory landscape and industry needs.
+
+When determining the quantum of the variable component of remuneration for each KMP, the NRC will consider the overall business performance of Elite REIT and the Manager, individual performance as well as affordability of the variable component payout. The remuneration of the CEO and each of the KMP is reviewed by the NRC, which will then make recommendations to the Board for approval. Please refer to Variable Remuneration on page 111 for more details.
+
+##### Non-Executive Directors’ Remuneration and Fee Structure
+
+The NRC also ensures that the remuneration of Non-Executive Directors is appropriate for their respective levels of contribution, taking into account factors such as effort, time spent, and their responsibilities. The NRC ensures that the IDs are not over-compensated to the extent that their independence may be compromised. None of the Directors has any service contracts with the Manager.
+
+The structure of Directors’ fees takes into account the following:
+
+- Directors’ responsibilities and contributions; and
+- industry practices and norms on remuneration, including the guidelines set out in the Statement of Good Practice issued by the SID.
+
+For FY2025, Directors’ fees for Non-Executive Directors comprise an annual base fee of S\$40,000 for serving as a Director and additional fee for serving as Chairman of the Board, ARC or NRC, as the case may be. The additional fee for chairmanship of the Board, ARC and NRC, as the case may be, is as set out below:
+
+| Chairmanship | Fee |
+|-|-|
+| Board | S\$45,000 |
+| Audit and Risk Committee | S\$25,000 |
+| Nominating and Remuneration Committee | S\$15,000 |
+
+As set out below in Disclosure of Remuneration table, the Directors’ fees for FY2025 were paid only in the form of cash and Directors’ fees were reviewed and endorsed by the NRC.
+
+##### Industry Benchmarking and Engagement of Consultant
+
+In determining the remuneration of its Directors and KMP, the Manager may engage an independent remuneration consultant to advise on compensation benchmarks and provide views on market practices and trends. The independent remuneration consultant will not be related to the Manager, its controlling shareholder, its related companies or any of its Directors. The Board has access to independent remuneration consultants for advice on remuneration matters as required.
+
+The Manager applies the principle that remuneration matters are to be sufficiently structured and benchmarked to good market practices in order to attract suitably qualified talent, and to grow and manage Elite REIT. The Manager applies the principle that the remuneration for the Board and KMP should be viewed in totality.
+
+In determining the mix of different forms of remuneration, the Board and NRC have reviewed and ensured that the level and structure of remuneration for the KMP and Non-Executive Directors are in alignment with the long-term interests and risk management policies of Elite REIT.
+
+The Board and NRC seek to ensure that the level and mix of fixed and performance-related remuneration are competitive, relevant and appropriate.
+
+No external remuneration consultant was engaged for FY2025.
+
+<!-- PAGE 113 -->
+
+##### Disclosure of Remuneration
+
+##### Directors' Fees
+
+The fees paid to the Directors for FY2025 are as follows:
+
+| Board Members | Membership | Fees Paid for FY2025 <sup>6</sup> |
+|-|-|-|
+| Mr David Lim Teck Leong | Independent Non-Executive Chairman | S\$85,000 |
+| Mr Koo Tsai Kee | Independent Non-Executive Director and Chairman of the NRC | S\$55,000 |
+| Mr Yezdi Phiroze Chinoy | Independent Non-Executive Director and Chairman of the ARC | S\$65,000 |
+| Mr Nicholas David Ashmore <sup>7</sup> | Independent Non-Executive Director | S\$40,000 |
+| Mr Tan Chin Hwee <sup>8</sup> | Independent Non-Executive Director | S\$24,239 |
+| Datin Paduka Sarena Cheah <sup>8</sup> | Non-Independent Non-Executive Director | S\$24,239 |
+| Mr Victor Song Chern Chean | Non-Independent Non-Executive Director | S\$40,000 |
+| Mr Tan Dah Ching | Non-Independent Non-Executive Director | S\$40,000 |
+| Mr Tan Hai Peng Micheal | Non-Independent Non-Executive Director and Chairman of the SPC | S\$40,000 |
+
+#### Level and Mix of Remuneration of the CEO and Other Key Management Personnel
+
+The Manager has adopted a performance-based remuneration system and has KPIs in place to measure the performance and value creation in determining the remuneration of the CEO and KMP. The Manager has established a long term incentive programme which will be included as part of the variable component.
+
+The remuneration of the CEO and KMP of the Manager comprises fixed and variable components:
+
+##### Fixed Remuneration
+
+The fixed remuneration in the Manager's remuneration framework comprises base salary, fixed allowances and applicable statutory employer contribution to an employee's Central Provident Fund or other social security system. The fixed remuneration is to remunerate employees for the roles they perform.
+
+##### Variable Remuneration
+
+The variable remuneration is structured to align financial compensation to corporate and individual performance. The variable incentives are based on quantitative and qualitative targets, and overall performance will be determined at the end of the financial year and approved by the NRC.
+
+The variable component is derived from the Variable Pay Plan ("VPP"). It is linked to the evaluation of the achievement of each Management's annual performance targets as set in the scorecard.
+
+Under the scorecard design framework, Elite REIT's strategy and goals are translated to performance outcomes comprising both quantitative and qualitative targets in the areas of Elite REIT's performance, the Manager Performance, People, Sustainability, Risk and Compliance.
+
+The scorecard targets are reviewed and approved by the NRC and Board. After the close of the financial year, the NRC reviews the Group's achievements against the targets set in the scorecard and determines the overall performance taking into consideration qualitative factors such as the quality of earnings, operating environment and industry trends. In determining the potential payout quantum under the VPP, the NRC considers the overall business and individual performance as well as financial conditions of the Manager.
+
+The VPP is delivered only in a combination of cash and deferred Units. Staff in the Executive and Management job grades will have cash and deferred Units components under the VPP, with Executive staff receiving a greater proportion of their VPP payout in deferred Units. These time-based Units are awarded pursuant to the Manager's Unit Incentive Plan. Once the Units are granted to Executive staff, the Units will vest in two tranches. The second tranche is dependent on the Total Unitholder Return of achieving a targeted level.
+
+<sup>6</sup> For the Directors' remunerations, there are no benefits in kind, stock options granted, share-based incentives and awards, and other long-term incentives for FY2025.
+
+<sup>7</sup> In addition to the Directors' fees paid by the Manager, Mr Ashmore is also paid an aggregate of £13,500 in FY2025 in respect of his directorships on the boards of the various subsidiaries of Elite REIT incorporated in the UK, as mentioned in page 106 of the Annual Report 2025.
+
+<sup>8</sup> Mr Tan Chin Hwee and Datin Paduka Sarena Cheah stepped down from the Board on 8 August 2025.
+
+<!-- PAGE 114 -->
+
+###### Corporate Governance Report
+
+The following factors are considered when the NRC and Board decide whether to grant Units in Elite REIT as part of the discretionary bonuses to staff of the Group.
+
+- Group performance metrics;
+- Achievement by the individual staff of goals set under the scorecard for the financial year; and
+- The individual's overall and relative performance.
+- Recipients will receive fully paid Units, or their equivalent cash value, at no cost. These Units awards ensure ongoing alignment between remuneration and sustainable business performance.
+
+The Manager will continue to be guided by the objective of delivering long-term sustainable returns to Unitholders while the remuneration of Management will continue to be aligned with the goal of value creation for Unitholders.
+
+All fixed and variable remuneration are entirely paid by the Manager and are not an additional expense imposed on Elite REIT.
+
+KMP remuneration bands of S\$250,000, together with a breakdown of their respective remuneration components in percentage terms, are set out in the remuneration table below:
+
+| Remuneration Band and KMP Name | Fixed Remuneration | Variable Remuneration <sup>9</sup> | Total |
+|-|-|-|-|
+| <b>\$250,000 to \$500,000</b> |  |  |  |
+| Tong Meng Chong, Michael (CFO) | 68% | 32% | 100% |
+| Jonathan Edmunds (CIO) | 81% | 19% | 100% |
+
+#### CEO's remuneration
+
+Pursuant to Listing Rule 1207(10D), the CEO's remuneration in FY2025 was S\$669,153, comprising 63% remuneration and 37% variable remuneration. The CEO's variable remuneration comprises 60% cash bonus and 40% in granted units in 2025.
+
+The Manager is cognisant of the requirements outlined in Principle 8 of the Code and the **"Notice to All Holders of a Capital Markets Services License for Real Estate Investment Trust Management"** (the **"Notice"**) to disclose:
+
+- (i) the remuneration of its CEO and each individual Director on a named basis;
+- (ii) the remuneration of at least the top five executive officers (who are neither Directors nor the CEO), on a named basis in bands of S\$250,000; and
+- (iii) in aggregate the total remuneration paid to its top five KMP (who are not Directors or the CEO).
+
+The Manager had two KMP in FY2025. The KMP were remunerated wholly in cash for their fixed remuneration for FY2025. Their variable remuneration comprises a portion in cash and a portion in deferred Units, if applicable. For the CEO's and KMPs' remunerations, there are no benefits in kind, and stock options granted.
+
+The Board has assessed and elected not to disclose the aggregate remuneration paid to its two KMP (who are not Directors or the CEO) for the following reasons:
+
+- (i) competition for talent in the REIT management industry is very keen;
+- (ii) important to minimise potential staff movement which would cause undue disruptions;
+- (iii) important to retain competent and committed staff to ensure stability and continuity of business and operations;
+
+- (iv) due to the confidentiality and sensitivity of staff remuneration matters, the Manager is of the view that such disclosures could be prejudicial to the interests of the Unitholders;
+- (v) the Manager is of the view that such non-disclosure will not be prejudicial to the interests of the Unitholders as the information provided regarding the Manager's remuneration policies is sufficient to enable Unitholders to understand the link between remuneration and performance; and
+- (vi) there is no misalignment between the remuneration of the CEO and KMP and the interests of the Unitholders as their remuneration is paid out from the fees the Manager receives from Elite REIT, rather than borne by Elite REIT.
+
+The Board is accordingly of the view that its practice is consistent with Principle 8 of the Code and the Notice as a whole.
+
+There is no employee of the Manager who is a substantial shareholder of the Manager or a substantial Unitholder of Elite REIT, or an immediate family member of a Director, the CEO of the Manager, a substantial shareholder of the Manager or a substantial Unitholder of Elite REIT, and whose remuneration exceeded S\$100,000 during FY2025. According to the Listing Manual, **"immediate family"** refers to spouse, child, adopted child, step-child, brother, sister and parent.
+
+The NRC has reviewed the Manager's remuneration framework and is satisfied that there is reasonable mitigation of any potential misalignment of interests of the Unitholders, taking into account (a) the NRC's discretion to determine whether the remuneration payable is in line with the remuneration framework, and (b) the substantial emphasis placed on the performance of Elite REIT which has been included as part of the KPIs. There are no termination, retirement or post employment benefits that are granted over and above what have been disclosed.
+
+9 For the KMPs' remunerations, their variable remuneration comprises Units received in FY2025. For non-Singapore contract KMP, the KMP received cash equivalent in Pound sterling based on the value of the Award Units at the respective vesting dates.
+
+<!-- PAGE 115 -->
+
+## (B) ACCOUNTABILITY AND AUDIT
+
+#### Risk Management and Internal Controls
+
+#### **Principle 9:**
+
+The Board is responsible for the governance of risk and ensures that Management maintains a sound system of risk management and internal controls, to safeguard the interests of Elite REIT and its Unitholders.
+
+##### **Role of the Board and ARC in Ensuring Effective Risk Management and Internal Controls**
+
+The Board recognises the importance of a sound system of risk management and internal controls to safeguard the Unitholders' interests and Elite REIT's assets. The Board affirms its responsibility for Elite REIT's system of risk management and internal controls, and for reviewing the adequacy and effectiveness of Elite REIT's risk management and internal control systems, including financial, operational, compliance and IT controls on an annual basis. The Board, with the support of the ARC, determines the nature and extent of the significant risks which Elite REIT is both willing and able to take in order to achieve strategic objectives and value creation. This involves the design, implementation and monitoring of risk policies, risk appetite and risk tolerances for Elite REIT.
+
+The ARC assists the Board in examining the adequacy and effectiveness of internal controls policies and procedures to ensure that a robust risk management framework and internal control system is maintained while the Board reviews the adequacy and effectiveness of the risk management and internal control system.
+
+##### **Formulation of Risk Management Framework and Internal Control System**
+
+In setting up the Enterprise Risk Management ("ERM") framework, the extent of risk tolerance and the key risk indicators based on Elite REIT's current operations and risk appetite have been set and approved by the ARC and the Board after taking into consideration Elite REIT's strategic objectives. The key risk indicators guide Management in managing the risks of Elite REIT and these key risk indicators will remain unchanged for as long as there is no change in Elite REIT's operating profile. The ERM framework enables the Manager to manage risks in a systematic, integrated and consistent manner. The ERM framework is reviewed by the ARC annually.
+
+The ARC guides Management in the formulation of risk policies and processes in identifying, evaluating and managing key risks while the ownership of risk management lies with the CEO and he is supported by the respective managers. The nature and extent of risks are assessed regularly by Management and internal auditors, and reports are submitted to the ARC for review. The Management reports to the ARC on material findings and makes recommendations or seeks guidance from the ARC/Board in respect of any material risk issues.
+
+Any findings on material non-compliance or weaknesses in internal controls and risk management by the internal auditors are reported to the ARC. The recommendations to further improve the internal control system and risk management system are reported to the ARC and actions are taken by Management.
+
+##### **Assessment and Management of Material Risks**
+
+##### Business Risk
+
+In managing business risk, the Board considers the economic environment, asset-specific risks such as tenant lease break notices, capital management risks such as financing and refinancing requirements, and risks that are relevant to the UK's commercial real estate industry.
+
+##### IT Risk
+
+In addressing information technology risk, Management, with the assistance of its IT vendor, has put in place a framework and processes to implement control measures for each IT system.
+
+##### Conflicts of Interest Risk
+
+In managing conflicts of interest risk, the Manager has instituted the following:
+
+- (i) The Manager will not manage any other REIT which invests in the same type of properties as Elite REIT.
+- (ii) All KMP will be working exclusively for the Manager and will not hold other executive positions in other entities, save in any wholly owned subsidiaries of the Manager.
+- (iii) All resolutions in writing of the Directors in relation to matters concerning Elite REIT must be approved by at least a majority of the Directors (excluding any interested Director), including at least one ID.
+- (iv) At least one-third of the Board shall comprise Independent Directors, provided that where (1) the Chairman of the Board and the CEO are the same person, (2) the Chairman of the Board and the CEO are immediate family members, (3) the Chairman of the Board is part of the management team, or (4) the Chairman of the Board is not an ID, at least half the Board shall comprise IDs.
+- (v) In respect of matters in which a Director or his associates (as defined in the Listing Manual) have an interest, direct or indirect, such Director will abstain from voting. In respect of matters in which the Sponsors and/or their subsidiaries have an interest, direct or indirect, for example, in matters relating to:
+ - potential acquisitions of additional properties or property-related investments by Elite REIT in competition with the Sponsors and/or their subsidiaries;
+ - competition for tenants between properties owned by Elite REIT and properties owned by the Sponsors and/or their subsidiaries; or
+ - any nominees appointed by the Sponsors and/or their subsidiaries to the Board to represent their interests will abstain from deliberating and voting on such matters.
+
+<!-- PAGE 116 -->
+
+###### Corporate Governance Report
+
+- (vi) Save as to resolutions relating to the removal of the Manager, the Manager and its associates are prohibited from voting or being counted as part of a quorum for any meeting of the Unitholders convened to approve any matter in which the Manager and/or any of its associates has a material interest.
+- (vii) It is also provided in the Trust Deed that if the Manager is required to decide whether or not to take any action against any person in relation to any breach of any agreement entered into by the Trustee for and on behalf of Elite REIT with a Related Party (as defined herein) of the Manager, the Manager shall be obliged to consult with a reputable law firm (acceptable to the Trustee) who shall provide legal advice on the matter. If the said law firm is of the opinion that the Trustee, on behalf of Elite REIT, has a prima facie case against the party allegedly in breach under such agreement, the Manager shall be obliged to take appropriate action in relation to such agreement. The Directors (including the IDs) will have a duty to ensure that the Manager so complies. Notwithstanding the foregoing, the Manager shall inform the Trustee as soon as it becomes aware of any breach of any agreement entered into by the Trustee for and on behalf of Elite REIT with a Related Party of the Manager, and the Trustee may take such action as it deems necessary to protect the rights of the Unitholders and/or which is in the interests of the Unitholders. Any decision by the Manager not to take action against a Related Party of the Manager shall not constitute a waiver of the Trustee's right to take such action as it deems fit against such Related Party.
+
+More information on the ERM framework of the Manager can be found in pages 91 to 96 of this Annual Report.
+
+##### Internal Control System for Related Party and Interested Person Transactions
+
+The Manager has established an internal control system to ensure that all Related Party Transactions, Interested Party Transactions (as defined in the Property Fund Appendix) and Interested Person Transactions (as defined in the Listing Manual) (collectively, "IPT"):
+
+- will be undertaken on an arm's length basis and on normal commercial terms; and
+- will not be prejudicial to the interests of Elite REIT and its Unitholders.
+
+IPT have been disclosed in the financial statements of this Annual Report. As a general rule, the Manager must demonstrate to the ARC that such transactions satisfy the foregoing criteria, which may entail obtaining (where practicable) quotations from parties unrelated to the Manager, or obtaining valuations from independent professional valuers (in accordance with the Property Funds Appendix).
+
+The Manager maintains a register to record all IPT which are entered into by Elite REIT and the bases, including any quotations from unrelated parties and independent valuations obtained, on which they were entered into.
+
+The ARC will monitor the procedures established to regulate IPT, including reviewing any IPT entered into from time to time, to ascertain that the guidelines and procedures established to monitor IPT have been complied with (including relevant provisions of the Listing Manual and Property Funds Appendix). If a member of the ARC has an interest in a transaction, he is to abstain from participating in the review and approval process in relation to that transaction. The ARC will commission an independent review for IPT with an aggregate value equal to, or more than, 3.0% of Elite REIT's latest audited net tangible assets and which are more than S\$100,000 (other than those approved by the Unitholders and the Exempted Agreements). "Exempted Agreements" means the related party transactions for which fees and charges are payable by Elite REIT as set out in the Trust Deed (including pursuant to the Internal Asset Management Agreement) and the Lease Management Agreement (including the individual lease management agreement(s)).
+
+In addition, the ARC will also have the right to review such audit reports to ascertain that the Property Funds Appendix has been complied with. The review will include the examination of the nature of the transaction and its supporting documents, or such other data deemed necessary to the ARC.
+
+Further, the following will be adhered to:
+
+- Transactions (either individually or as part of a series or if aggregated with other transactions involving the same interested party during the same financial year) equal to or exceeding S\$100,000 in value but less than 3.0% of the value of Elite REIT's net tangible assets will be subject to review by the ARC at regular intervals.
+- Transactions (either individually or as part of a series or if aggregated with other transactions involving the same interested party during the same financial year) equal to or exceeding 3.0% but below 5.0% of the value of Elite REIT's net tangible assets will be subject to the review and prior approval of the ARC. Such approval shall only be given if such transaction is conducted on an arm's length basis, on normal commercial terms and consistent with similar types of transactions made with third parties which are not interested parties.
+- Transactions (either individually or as part of a series or if aggregated with other transactions involving the same interested party during the same financial year) equal to or exceeding 5.0% of the value of Elite REIT's net tangible assets will be reviewed and approved prior to such transaction being entered into, on the basis described in the preceding paragraph, by the ARC which may, as it deems fit, request advice on the transaction from independent sources or advisers, including the obtaining of valuations from independent professional valuers.
+- Further, under the Listing Manual and the Property Funds Appendix, such transaction would have to be approved by Elite REIT's Unitholders at a meeting duly convened and held in accordance with the provisions of the Trust Deed.
+
+<!-- PAGE 117 -->
+
+Where matters concerning Elite REIT relate to transactions entered into or to be entered into by the Trustee for and on behalf of Elite REIT with an interested party (which would include relevant associates thereof), the Trustee is required to ensure that such transactions are conducted on normal commercial terms, are not prejudicial to the interests of Elite REIT and the Unitholders, and are in accordance with all applicable requirements of the Property Funds Appendix and/or the Listing Manual relating to the transaction in question. Further, the Trustee has the ultimate discretion under the Trust Deed to decide whether or not to enter into a transaction involving an interested party. If the Trustee is to sign any contract with an interested party, the Trustee will review the contract to ensure that it complies with the requirements relating to IPT in the Property Funds Appendix (as may be amended from time to time) and the provisions of the Listing Manual relating to IPT (as may be amended from time to time) as well as guidance prescribed by the MAS and SGX-ST.
+
+Save for the IPT described under **“Related Party Transactions in Connection with the Setting Up of Elite REIT and the**
+
+**Offering”** and **“Exempted Agreements”** in the Initial Public Offering (“IPO”) Prospectus, Elite REIT will comply with Rule 905 of the Listing Manual by announcing any Interested Person Transaction in accordance with the Listing Manual if such transaction, by itself or when aggregated with other Interested Person Transactions entered into with the same Interested Person (as defined in the Listing Manual) during the same financial year, is 3.0% or more of the value of Elite REIT’s net tangible assets.
+
+Elite REIT has not obtained a Unitholders’ mandate pursuant to Rule 920 of the Listing Manual for IPT.
+
+There were no material contracts entered into by Elite REIT and/or its subsidiaries including the interests of the CEO, any Director or controlling Unitholder, either still subsisting at the end of FY2025 or entered into since the end of FY2024.
+
+The Trustee has the ultimate discretion under the Trust Deed to decide whether or not to enter into a transaction involving a Related Party of the Manager or the Trustee.
+
+| Name of the Interested Person | Nature of Relationship | Aggregate value of all IPT during the financial year under review (excluding transactions less than S\$100,000 and transactions conducted under Unitholders’ Mandate pursuant to Rule 920) | Aggregate value of all IPT, conducted under Unitholders’ Mandate pursuant to Rule 920 (excluding transactions less than S\$100,000) |
+|-|-|-|-|
+|  |  | £’000 | £’000 |
+| <b>Elite UK REIT Management Pte. Ltd.</b> | <b>The Manager of Elite REIT</b> |  |  |
+| Management fee paid and payable |  | 1,988 | – |
+| Lease management fee paid and payable |  | 246 | – |
+| Performance fee paid and payable |  | 283 | – |
+| Acquisition fee paid and payable |  | 92 | – |
+| <b>Elite Real Estate Services UK Limited</b> | <b>Related corporation of the Manager</b> |  |  |
+| Property management fee |  | 230 | – |
+| <b>Elite Phoenix Limited</b> | <b>Related corporation of the Manager</b> |  |  |
+| Acquisition of investment properties |  | 9,200 | – |
+| <b>Perpetual (Asia) Limited</b> | <b>Trustee of Elite REIT</b> |  |  |
+| Trustee fees paid and payable |  | 106 | – |
+
+##### Exempted Agreements
+
+In the case of external managers for REITs, Related Party Transactions mostly relate to management fees and property management fees, leasing fees, development management fees and project management fees. These are paid annually in accordance with the terms disclosed in the IPO Prospectus and reported each year in the financial statements.
+
+The entry into and the fees and charges payable by Elite REIT under the Trust Deed, the License Agreement and the leases set out in the section **“Other Related Party Transactions”** in the IPO Prospectus and/or Circular, to the extent that details of these have been specifically disclosed in the IPO Prospectus and/or Circular are deemed to have been approved by Unitholders upon purchase of the Units and/or in the relevant Extraordinary General Meeting and
+
+<!-- PAGE 118 -->
+
+###### Corporate Governance Report
+
+are therefore not subject to Rules 905 and 906 of the Listing Manual to the extent that there is no subsequent change to the rates and/or bases of the fees charged thereunder which will adversely affect Elite REIT.
+
+All Related Party Transactions are regulated by Chapter 9 of the Listing Manual and the Property Funds Appendix. All Related Party Transactions are undertaken on normal commercial terms and are not prejudicial to the interests of Elite REIT and the Unitholders.
+
+#### Board’s Comment on Internal Controls and Risk Management
+
+The Board has received half-year and full-year written assurance from the CEO, CFO and CIO of the Manager, which assure that to the best of their knowledge, the accounting records have been properly maintained and the financial statements for FY2025 are drawn up so as to give a true and fair view of Elite REIT’s operations and finances and that they are prepared in accordance with accounting standards.
+
+The CEO, CFO and CIO of the Manager, also provided a written of assurance to the Board that Elite REIT’s risk management and internal control systems, to the extent that they address the financial, operational, compliance and IT risks faced by Elite REIT in its current business environment, have been adequately designed and are operating effectively in all material aspects.
+
+Based on the risk management and internal control systems established and adhered to by Elite REIT, the assurance received from the CEO, CFO and CIO, work performed by the internal auditor, external auditor and compliance manager, and reviews conducted by Management and various Board Committees, the Board is of the view that Elite REIT’s internal controls (including financial, operational, compliance and information technology controls) and risk management system have been adequately designed and are operating effectively in all material aspects as at 31 December 2025. Accordingly, Elite REIT complies with Rule 1207(10) of the Listing Manual.
+
+The Board noted that the internal controls and risk management system established provides reasonable though not absolute assurance against material misstatement of loss and that Elite REIT will not be adversely affected by any event that could be reasonably foreseen as it strives to achieve its business objectives. The Board accepts that the internal control systems contain inherent limitations and notes that no system can provide absolute assurance against the occurrence of material errors, poor judgment in decision making, human errors, fraud and other irregularities.
+
+The ARC concurs with the Board’s comments above on the internal controls and risk management system of Elite REIT.
+
+##### Role and Duties of Compliance Manager
+
+The Manager has outsourced the compliance function to EPH, which has a centralised compliance function, and reports to the CEO, the ARC and the Board on matters pertaining to Elite REIT and the Manager.
+
+The Manager is of the view that EPH’s compliance team possesses the necessary skill and experience required to advise Elite REIT on its compliance matters.
+
+The cost of such outsourcing of the role of compliance officer is borne by the Manager out of its own funds and not borne by Elite REIT.
+
+The duties under the compliance function include:
+
+- assisting the Manager in all matters concerning compliance with the SFA, the CIS Code (including Property Funds Appendix), the Listing Manual and all applicable laws, regulations and guidelines including notices issued by the MAS;
+- ensuring all employees of the Manager are regularly apprised of the ongoing compliance requirements under the SFA, the CIS Code (including the Property Funds Appendix), the Listing Manual and relevant Singapore laws, regulations and guidelines;
+- ensuring all employees of the Manager have fulfilled their regulatory obligations;
+- ensuring the Manager has prepared returns and other documents accurately for submission to the MAS as required under the SFA; and
+- highlighting any deficiencies or making recommendations with respect to the Manager’s compliance processes; and assisting in the application process for the appointment of new directors to the Board.
+
+##### Audit and Risk Committee
+
+**Principle 10:**
+
+The Board has an Audit and Risk Committee which discharges its duties objectively.
+
+The ARC comprises three Directors, all of whom (including the Chairman of the ARC) are IDs. The members of the ARC are:
+
+![Organizational chart of the Audit and Risk Committee (ARC) members.](ed6f59e8a789f6fc58182c5eceb12817_img.jpg)
+
+```
+graph TD; A["Mr Yezdi Phiroze Chinoy  
+ARC Chairman and  
+Independent Non-Executive Director"] --- B["Mr David Lim Teck Leong  
+ARC Member and  
+Independent Non-Executive Director"]; A --- C["Mr Koo Tsai Kee  
+ARC Member and  
+Independent Non-Executive Director"];
+```
+
+The diagram shows the structure of the Audit and Risk Committee (ARC). At the top is Mr Yezdi Phiroze Chinoy, the ARC Chairman and Independent Non-Executive Director. Below him are two members: Mr David Lim Teck Leong and Mr Koo Tsai Kee, both ARC Members and Independent Non-Executive Directors. A vertical line connects the Chairman to the members, with a horizontal branch connecting to each member's box.
+
+Organizational chart of the Audit and Risk Committee (ARC) members.
+
+The Board is of the view that the members of the ARC bring with them valuable and relevant managerial and professional expertise in accounting and related financial management domains to discharge their responsibilities. The Chairman of the ARC, Mr Yezdi Phiroze Chinoy, is a financial services professional with over three decades of experience in multiple roles and responsibilities spanning the banking and financial services industry across business
+
+<!-- PAGE 119 -->
+
+lines and geographies. He is a member of the International Compliance Association, a Certified Anti-Money Laundering Specialist and a certified professional in the financial industry, among other professional affiliations. The Board considers Mr David Lim Teck Leong and Mr Koo Tsai Kee as having sufficient recent and relevant accounting or related financial management knowledge, expertise or experience to discharge their responsibilities as members of the ARC.
+
+None of the ARC members are former partners or directors of KPMG LLP; (a) within a period of two years commencing on the date of their ceasing to be a partner or director of KPMG LLP; and in any case, (b) for as long as they have any financial interest in KPMG LLP.
+
+##### Key Responsibilities and Activities of the ARC
+
+The ARC's responsibilities include:
+
+- (i) reviewing the significant financial reporting and judgements so as to ensure the integrity of the financial statements of the Manager and Elite REIT and any formal announcements relating to Elite REIT's and/or the Manager's financial performance;
+- (ii) reviewing the assurance from the CEO and the CFO on the financial records and financial statements;
+- (iii) monitoring the procedures established to regulate IPT, including ensuring compliance with the provisions of the Listing Manual relating to IPT and the provisions of the Property Funds Appendix relating to IPT and reviewing transactions constituting IPT;
+- (iv) deliberating on conflict of interest situations involving Elite REIT, including situations where the Manager is required to decide whether or not to take any action against any person in relation to any breach of any agreement entered into by the Trustee for and on behalf of Elite REIT with an Interested Person of the Manager and where the Directors, controlling shareholder(s) of the Manager, controlling Unitholder(s) and/or Associates are involved in the management of or have shareholding interests in similar or related business as the Manager, and in such situations, the ARC will monitor the investments by these individuals in Elite REIT's competitors, if any, and will make an assessment whether there is any potential conflict of interest;
+- (v) reviewing at least annually the adequacy and effectiveness of Elite REIT's internal controls and risk management systems and reviewing the statements included in Elite REIT's annual report on its internal controls and risk management framework;
+- (vi) reviewing, on a regular basis, Elite REIT's lease concentration risks and if 20.0% of the leases (by Gross Rental Income) which are expiring within 12 months have not been renewed, to direct that timely announcements on SGX-ST are to be made;
+- (vii) monitoring the procedures in place to ensure compliance with the SFA, the CIS Code (including the Property Funds Appendix), the Listing Manual and all applicable legislation, regulations and guidelines including notices issued by the MAS;
+- (viii) monitoring the tax regimes applicable to Elite REIT (including the UK's CIR (as defined below) rules and anti hybrid rules);
+- (ix) reviewing at least annually the adequacy and effectiveness of Elite REIT's system of internal controls, including financial, operational, compliance and IT controls and risk management processes;
+- (x) reviewing the quarterly or, as the case may be, semi-annual and annual financial statements and the auditor's report on the annual financial statements before they are submitted to the Board for approval;
+- (xi) reviewing external and internal audit reports to ensure that where deficiencies in internal controls have been identified, appropriate and prompt remedial action is taken by the Management;
+- (xii) advising the Board if changes are needed to improve the quality of future interim financial statements or financial updates;
+- (xiii) reviewing internal audit reports at least once a year which will be commissioned for IPT with an aggregate value equal to, or more than 3.0% of Elite REIT's latest audited net tangible assets and which are more than S\$100,000 (other than those approved by the Unitholders or the Exempted Agreements) to ascertain that the guidelines and procedures established to monitor IPT have been complied with;
+- (xiv) ensuring that the internal audit, accounting and compliance functions are adequately resourced and has appropriate standing with Elite REIT;
+- (xv) reviewing the adequacy, effectiveness, independence, scope and results of the external audit and the internal audit function;
+- (xvi) reviewing arrangements by which staff and external parties may, in confidence, raise probable improprieties in matters of financial reporting or other matters, with the objective that arrangements are in place for the independent investigation of such matters and for appropriate follow-up action;
+- (xvii) the appointment, re-appointment or removal of internal auditors (including the review of their fees and scope of work);
+- (xviii) making recommendations to the Board on the proposals to Unitholders to appoint, re-appoint or remove external auditors, and on the remuneration and terms of engagement of the external auditors;
+- (xix) reviewing the nature and extent of non-audit services performed by external auditors;
+- (xx) reviewing and providing their views on all hedging policies and instruments to be implemented by Elite REIT to the Board;
+- (xxi) meeting with external and internal auditors, without the presence of the executive officers, at least on an annual basis;
+- (xxii) investigating any matters within the ARC's terms of reference, whenever it deems necessary; and
+- (xxiii) reporting to the Board on material matters, findings and recommendations.
+
+The ARC has explicit authority to investigate any matter within its terms of reference. The ARC has full access to and co-operation by Management and the internal and external auditors, and has full discretion to invite executive officers of the Manager and the Sponsors, external consultants or advisers to attend its meetings. The internal and external auditors have unrestricted access to the ARC.
+
+<!-- PAGE 120 -->
+
+###### Corporate Governance Report
+
+During the year under review, four ARC meetings were held. The ARC has met separately with the internal auditor and external auditor, without the presence of the Management, at least annually, to discuss issues and to confirm that they had full access to and received co-operation and support from Management.
+
+The ARC has conducted a review of all audit and non-audit services provided by KPMG LLP, the external auditor, during the year under review. The audit fees paid and payable to KPMG LLP were £323,000. There were no non-audit services provided for FY2025.
+
+The ARC, having regard to the nature and performance of the work by KPMG LLP, is of the view that the auditor's independence and objectivity are not impaired or threatened.
+
+In reviewing the nomination of KPMG LLP for appointment for the financial year ending 31 December 2026 (“**FY2026**”), the ARC had taken into consideration the Audit Quality Indicators Framework introduced by the Accounting and Corporate Regulatory Authority. The ARC also considered the adequacy and experience of the professional staff and audit engagement partner assigned, KPMG LLP's experience in the REIT sector and the size and complexity of the audit. The ARC is satisfied with the independence and work of the external auditors and has recommended to the Board the re-appointment of KPMG LLP as the external auditors of Elite REIT at the forthcoming annual general meeting. KPMG LLP had also provided confirmation of their independence to the ARC.
+
+The Board confirms that Elite REIT complies with the requirements of Rule 712 and Rule 715 of the Listing Manual in respect of the suitability of the auditing firm for Elite REIT.
+
+#### Reviews Conducted by the ARC
+
+The ARC reviewed and approved the audit plan and scope of the external auditors on the audit of the full-year financial statements. The ARC also reviewed the internal audit plan, including the scope of the internal auditor's work, and results of the internal audit procedures. In addition, the ARC reviewed the IPT to ensure compliance with the Listing Manual and the Property Funds Appendix.
+
+During the year under review, the ARC performed independent reviews of the half-year and full-year financial results; and business updates for the first and third quarters of Elite REIT before recommending to the Board for approval the release of the financial statements and SGX announcements relating to Elite REIT's financial statements.
+
+In the process, the ARC reviewed the significant financial reporting issues and judgements, including the appropriateness of the material accounting policies and the quality and completeness of disclosure to ensure the integrity of the financial statements. The ARC also reviewed, among other matters, the following significant financial reporting matters in relation to the financial statements for FY2025.
+
+#### ARC's Commentary on Significant Financial Reporting Matters
+
+##### Valuation of Investment Properties
+
+The ARC reviewed the independence and competency of the external valuer and the appropriateness of the valuation methodology applied by the valuer in arriving at the fair value of the investment properties based on their existing use.
+
+The ARC also reviewed the valuation reports of Elite REIT's investment properties and held discussions with the Management, the external auditors and the independent professional valuer, focusing on significant changes in fair value measurements and key drivers of changes.
+
+The ARC noted that the valuation report has been prepared in accordance with the Royal Institution of Chartered Surveyors (“**RICS**”)s Valuation – Global Standards (incorporating the International Valuation Standards).
+
+##### Applicable Tax Regimes
+
+The ARC also monitors the tax regimes applicable to Elite REIT (including the UK's Corporate Interest Restriction (“**CIR**”) and anti-hybrid rule) annually.
+
+ERHL, a wholly owned subsidiary of Elite REIT has been listed on The International Stock Exchange (the “**TISE**”) since 26 August 2021. With the admission of ERHL on TISE, ERHL and its subsidiaries qualified as a UK REIT group and enjoy UK corporation tax exemption for its UK property rental business income and gains under the UK REIT regime. The listing of ERHL on TISE is a technical listing and 100% of the shares in ERHL are held by Elite REIT.
+
+##### Role and Duties of Internal Auditors
+
+The role of the internal auditors is to assist the ARC to ensure that the Manager maintains a sound system of internal controls by regularly monitoring key controls and procedures and ensuring their effectiveness, undertaking investigations as directed by the ARC, and conducting regular in depth audits of business critical areas.
+
+The ARC approves the hiring, removal, evaluation and compensation of the internal auditor, or the accounting/auditing firm or company to which the internal audit function is outsourced. Elite REIT and the Manager have engaged Ernst & Young Advisory Pte. Ltd. (“**EY**”) as the internal auditor. EY adopts the Standards for the Professional Practice of Internal Auditing set by the Institute of Internal Auditors. The internal auditor is independent of management and reports directly to the ARC.
+
+The internal auditor plans the internal audit schedules in consultation with, but independent of the Manager. The audit plan is submitted to the ARC for approval prior to the commencement of the internal audit work.
+
+<!-- PAGE 121 -->
+
+The internal auditor has unfettered access to all the Manager's documents, records, properties and personnel, including access to the ARC, and has appropriate standing within the Manager. The ARC reviews the internal audit report and monitors the implementation of the improvements required on internal control weaknesses identified.
+
+The findings and recommendations of the internal auditors, Management's responses and implementations have been reviewed and approved by the ARC.
+
+For the year under review, the ARC was of the view that the internal audit function was adequately resourced and had appropriate standing within the Manager. The ARC has reviewed and is satisfied with the adequacy, independence and effectiveness of the internal audit function.
+
+The ARC had recommended, and the Board had accepted the re-appointment of EY as the internal auditors of the Manager, led by a different partner, based on the rationale as follows:
+
+- (i) engaging the same internal auditor will witness the continuous improvement journey of Elite REIT and the Manager; and
+- (ii) the benefits of continuity from engaging the same firm in terms of the internal auditors' familiarity with the business of Elite REIT and the Manager.
+
+##### Strategic Planning Committee
+
+To support Management in aligning the interests of stakeholders and enable faster decision making, the SPC was set up as a platform for Management and the Directors to discuss and set objectives for Elite REIT. The SPC also tracks the execution of the objectives set.
+
+SPC helps the Board with its oversight responsibilities by:
+
+- conceptualising and evaluating major strategic initiatives, including mergers and acquisitions or divestments, investments and management of property portfolio, asset enhancement initiatives and recommending proposals to the Board which help to achieve the objectives of long-term value creation; and
+- providing direction and guidance to the Management on strategic planning and matters of strategic implementation and monitoring the progress of such initiatives.
+
+The SPC has written terms of reference setting out its duties and responsibilities, including:
+
+- (i) providing guidance for the overall management of Elite REIT and the Manager based on the strategic plan set by the Board in accordance with the financial authority limits delegated to the SPC;
+- (ii) reviewing the long-term objectives of Elite REIT and the Manager;
+- (iii) reviewing and recommending any proposed mergers or acquisitions, divestments or investments to the Board;
+- (iv) reviewing and recommending for adoption of the Board, annual budgets and long-term business plans to achieve the objectives of Elite REIT or the Manager;
+
+- (v) providing guidance and advisory support to the Management at all stages of the strategic planning process upon request; and
+- (vi) such other duties or functions as may be delegated by the Board or required by regulatory authorities.
+
+The SPC comprises:
+
+![Organizational chart of the Strategic Planning Committee (SPC). At the top is Mr Tan Hai Peng Micheal, SPC Chairman and Non-Independent Non-Executive Director. Below him are two members: Mr Victor Song Chern Chean, SPC Member and Non-Independent Non-Executive Director, and Mr Yezdi Phiroze Chinoy, SPC Member and Independent Non-Executive Director.](6b47714bf63f95264e48dc93d1e4037e_img.jpg)
+
+```
+
+graph TD
+    A["Mr Tan Hai Peng Micheal  
+SPC Chairman and  
+Non-Independent Non-Executive Director"]
+    B["Mr Victor Song Chern Chean  
+SPC Member and  
+Non-Independent Non-Executive Director"]
+    C["Mr Yezdi Phiroze Chinoy  
+SPC Member and  
+Independent Non-Executive Director"]
+    A --- B
+    A --- C
+  
+```
+
+Organizational chart of the Strategic Planning Committee (SPC). At the top is Mr Tan Hai Peng Micheal, SPC Chairman and Non-Independent Non-Executive Director. Below him are two members: Mr Victor Song Chern Chean, SPC Member and Non-Independent Non-Executive Director, and Mr Yezdi Phiroze Chinoy, SPC Member and Independent Non-Executive Director.
+
+##### Sustainability Committee
+
+The SC provides strategic oversight and direction for identifying, managing and implementing material ESG factors, including environmental issues concerning climate-related risks and opportunities.
+
+The SC comprises two IDs, and four Executive Officers. The members of the SC are:
+
+![Organizational chart of the Sustainability Committee (SC). At the top is Mr David Lim Teck Leong, SC Chairman and Independent Non-Executive Director. Below him are four members: Mr Yezdi Phiroze Chinoy, SC Member and Independent Non-Executive Director; Mr Liaw Liang Huat Joshua, SPC Member and CEO; Mr Tong Meng Chong, Michael, SPC Member and CFO; and Ms Pearl Lam, SPC Member and Head of Investor Relations.](63675595b96ec1bcad3e42b293b13007_img.jpg)
+
+```
+
+graph TD
+    A["Mr David Lim Teck Leong  
+SC Chairman and  
+Independent Non-Executive Director"]
+    B["Mr Yezdi Phiroze Chinoy  
+SC Member and  
+Independent Non-Executive Director"]
+    C["Mr Liaw Liang Huat Joshua  
+SPC Member and  
+CEO"]
+    D["Mr Tong Meng Chong, Michael  
+SPC Member and  
+CFO"]
+    E["Mr Jonathan Edmunds  
+SPC Member and  
+CIO"]
+    F["Ms Pearl Lam  
+SPC Member and  
+Head of Investor Relations"]
+    A --- B
+    A --- C
+    A --- D
+    A --- E
+    A --- F
+  
+```
+
+Organizational chart of the Sustainability Committee (SC). At the top is Mr David Lim Teck Leong, SC Chairman and Independent Non-Executive Director. Below him are four members: Mr Yezdi Phiroze Chinoy, SC Member and Independent Non-Executive Director; Mr Liaw Liang Huat Joshua, SPC Member and CEO; Mr Tong Meng Chong, Michael, SPC Member and CFO; and Ms Pearl Lam, SPC Member and Head of Investor Relations.
+
+<!-- PAGE 122 -->
+
+###### Corporate Governance Report
+
+The SC's responsibilities include:
+
+- (i) establishing ESG governance for the effective management of ESG issues;
+- (ii) overseeing the management and implementation of strategy, policies and practices relating to material ESG factors;
+- (iii) determining Elite REIT's material ESG factors, including climate-related environmental risks;
+- (iv) reviewing and approving the environmental risk management framework for associated policies to manage the environmental risks of the assets' portfolio;
+- (v) considering ESG factors and environmental risks and opportunities in the formulation of business strategy;
+- (vi) considering key stakeholders' ESG expectations and concerns in developing strategy;
+- (vii) ensuring Directors have an adequate understanding of environmental risks and the Manager is
+- (viii) equipped with the essential expertise for managing environmental risks;
+- (ix) reviewing and approving Elite REIT's sustainability reporting and climate-related performance disclosure; and
+- (x) reviewing the effectiveness of the Board in managing the material ESG factors, including the management of climate-related environmental risks.
+
+#### Whistleblowing Policy
+
+The Manager has adopted Group-wide Whistleblowing Policy for which relevant employees and Directors of the Manager as well as external parties may, in confidence, raise concerns about possible improprieties in matters of financial reporting or other matters in good faith, with the confidence that the relevant persons making the reports will be treated fairly and be protected from reprisal. The objective of the Whistleblowing Policy is to ensure that arrangements are in place for such concerns to be raised and independently investigated, and for appropriate follow-up action to be taken. The Whistleblowing Policy deals with defalcation, impropriety, or wrongdoing by employees in situations including but not limited to suspected fraud, corruption, and unlawful or dishonest conduct (collectively, "**Serious Breaches**").
+
+Investigations of actual or suspected Serious Breaches will be carried out in an objective manner by an independent party who may or may not be within the Elite Partners Group. Where a Serious Breach is established following an investigation, appropriate disciplinary actions will be taken, up to and including termination of employment or contract. If the matter is substantiated, it will be referred to the Singapore Police Force, the Corrupt Practices Investigation Bureau, or other law enforcement agencies, as deemed appropriate. The Manager recognises that there will be times when a person makes a report in good faith which later proves to be unsubstantiated. However, the Manager will take action against those who intentionally or maliciously give false or misleading information against someone else.
+
+To the extent that is lawful, and the investigative process allows, all reports received, including the identity of the whistleblower, will be handled in strict confidence. Whistleblowers are given the option to remain anonymous and may report via the email address: [whistleblow@eliteukreit.com](mailto:whistleblow@eliteukreit.com), or post to Elite REIT's office, addressing it to the Manager's Chairman of the Board, ARC Chairman or the CEO (collectively known as "**Designated Information Recipients**"). Establishing these processes reflects the Manager's commitment to conduct its business within a framework that fosters the highest ethical standards.
+
+The ARC is responsible for oversight and monitoring of whistleblowing. Whistleblowing reports made to the Designated Information Recipients will be reviewed by a Review Committee, the composition of which will be determined by the ARC Chairman. This is to ensure that the whistleblower's concern is being reviewed in a fair, consistent and timely manner. Regardless of the significance of allegations or the outcome, all whistleblowing reports will be tabled and discussed at Review Committee meetings.
+
+All qualifying disclosures shall be protected against any retaliation and victimisation in accordance with the Whistleblowing Policy. Whistleblowers acting in good faith and who have not themselves engaged in such concerns shall be protected from any form of discrimination, harassment, or reprisals. Any acts of retaliation and victimisation shall be reported to the ARC Chairman. The Manager will not tolerate retaliation against or victimisation of anyone who, in good faith, discloses any actual or suspected violations or participates in an investigation.
+
+The Whistleblowing Policy is made available to all new employees when they join the Manager, and they are briefed on this together with the Code of Conduct.
+
+The Whistleblowing Policy is also publicly disclosed on Elite REIT's website. One whistleblowing incident or complaint was reported or submitted in FY2025.
+
+#### Anti-Money Laundering, Countering the Financing of Terrorism and Countering Proliferation Financing Measures
+
+As a holder of a capital markets services licence issued by the MAS, the Manager abides by the MAS' notices and guidelines on the prevention of money laundering, countering the financing of terrorism, and countering proliferation financing. Under these guidelines, the main obligations of the Manager are:
+
+- (a) evaluation of risk;
+- (b) customer due diligence;
+- (c) suspicious transaction reporting;
+- (d) record keeping;
+- (e) employee screening and representative screening; and
+- (f) training.
+
+<!-- PAGE 123 -->
+
+The Manager has developed and implemented a policy on the prevention of money laundering, terrorist financing and proliferation financing and is alert at all times to suspicious transactions. Where there is a suspicion of money laundering, terrorist financing or proliferation financing, the Manager performs due diligence checks on its counterparties in order to ensure that it does not enter into business transactions with terrorist suspects or other high-risk persons or entities. Suspicious transactions will also be reported to the Suspicious Transaction Reporting Office of the Commercial Affairs Department.
+
+Under this policy, the Manager must retain all relevant records or documents relating to business relations with its customers or transactions entered into for a period of at least five years following the termination of such business relations or the completion of such transactions.
+
+All prospective representatives of the Manager are screened against various lists of terrorist suspects issued by the MAS. Periodic training is provided to its Directors, employees and representatives to ensure that they are updated and aware of applicable anti-money laundering, terrorist financing, and proliferation financing regulations, the prevailing techniques and trends in money laundering, terrorist financing and proliferation financing and the measures adopted by the Manager to combat money laundering, terrorist financing and proliferation financing.
+
+## (C) UNITHOLDER RIGHTS AND ENGAGEMENT
+
+#### Unitholder Rights and Conduct of General Meetings
+
+#### **Principle 11:**
+
+The Manager treats all Unitholders fairly and equitably in order to enable them to exercise Unitholders' rights and have the opportunity to communicate their views on matters affecting the Manager. The Manager gives Unitholders a balanced and understandable assessment of Elite REIT's performance, position and prospects.
+
+#### Engagement with Unitholders
+
+#### **Principle 12:**
+
+The Manager communicates regularly with Unitholders and facilitates the participation of Unitholders during general meetings and other dialogues to allow Unitholders to communicate their views on various matters affecting Elite REIT.
+
+#### Managing Stakeholder Relationships Engagement with Stakeholders
+
+#### **Principle 13:**
+
+The Board adopts an inclusive approach by considering and balancing the needs and interests of material stakeholders, as part of its overall responsibility to ensure that the best interests of Elite REIT are served.
+
+#### General Meetings
+
+The fifth Annual General Meeting ("**AGM 2025**") of Elite REIT was held on Wednesday, 30 April 2025 in a wholly physical format at SMU Administration Building, Mochtar Riady Auditorium (Level 5), 81 Victoria Street, Singapore 188065. In the conduct of AGM 2025, Management also took into account any guidance, where applicable, on the conduct of general meetings (the "**Guidance**").
+
+An electronic copy of the Annual Report for FY2025 was published on the Manager's website at the URL <https://investor.eliteukreit.com/ar.html> and made available on the SGXNET website at the URL <https://www.sgx.com/securities/company-announcements>. Pursuant to the Guidance, the Annual Report, Notice of AGM and Proxy Form were made available to the Unitholders by electronic means via publication on Elite REIT's website and on SGXNET. For ease of reference by the Unitholders, A5 booklets containing a cover letter to the Unitholders with instructions on how to download the full Annual Report, the Notice of AGM, Proxy Form and Letter from Chairman and CEO were mailed out to the Unitholders. Unitholders who wished to have a printed copy of the Annual Report were informed that they could submit a request via email to Elite REIT's Unit Registrar.
+
+The Unitholders are informed of AGMs or any other general meetings through notices and/or proxy forms mailed to Unitholders. The announcements and electronic copies of these materials are also issued via SGXNET and on Elite REIT's corporate website. The Board encourages active Unitholders' participation at the general meetings and the opportunity is given to every Unitholder to interact with the Directors and the Management, to communicate his/her views and ask questions on matters affecting Elite REIT. Prior to voting at an AGM or any other general meeting, the voting procedures will be made known to the Unitholders to facilitate their exercising of their votes. If any Unitholder is unable to attend, he/she is allowed to appoint up to two proxies to vote on his/her behalf at the meetings through proxy forms sent in advance.
+
+Proxy forms must be deposited at the office of Boardroom Corporate & Advisory Services Pte. Ltd., the Unit Registrar of Elite REIT, not less than 72 hours before the time appointed for holding the general meetings.
+
+Each distinct issue is proposed as a separate resolution at the general meetings and the reasons and material implications are explained. Where there are issues which are interdependent, they may be linked so as to form one significant proposal. Where the resolutions are "bundled", the Manager will explain the reasons and material implications in the notice of meeting. This enables Unitholders to exercise their votes on an informed basis. All the resolutions at the general meetings are moved by voting by poll.
+
+<!-- PAGE 124 -->
+
+###### Corporate Governance Report
+
+Each Unit is entitled to one vote. In support of greater transparency and to allow for a more efficient voting process, Elite REIT conducts electronic poll voting in respect of all resolutions tabled at the AGM. The voting and vote tabulation procedures are declared before the voting commences, and an independent scrutineer is appointed for the electronic poll voting process. It is the role of the scrutineer to review the proxies and the electronic poll system, as well as attend to the proxy verification process, to ensure that the poll voting information is compiled correctly. The voting results, showing the number of votes cast for and against each resolution and the respective percentages, are disclosed at the general meetings right after the votes are casted.
+
+All Directors, KMP, and representatives of the Trustee are normally present to address the Unitholders' queries at the AGMs and EGMs, unless they are unable to attend due to exigencies. The external auditor will also be present to answer Unitholders' questions about the conduct of audit and the content of the auditors' report. All Directors attended the AGM 2025 as disclosed in page 100.
+
+At AGMs, a presentation is made to Unitholders to update them on Elite REIT's performance, position and prospects. The presentation materials, together with the voting results, will be made available to the Unitholders on the SGXNET and Elite REIT's website.
+
+The Manager publishes minutes of general meetings of Unitholders on SGXNET and its corporate website, as soon as practicable and within one month from the date of the meeting. The minutes of Unitholders' meetings will capture the attendance of Board members at the meetings, matters approved by the Unitholders, voting results as well as substantial and relevant comments or queries from the Unitholders relating to the agenda of the meetings, together with responses from the Board and Management.
+
+The upcoming AGM to be held on 23 April 2026 ("**AGM 2026**") will be convened in a wholly physical format.
+
+Unitholders may submit questions in advance or raise them at the AGM 2026. A Unitholder who wishes to exercise his/her/its voting rights at the AGM 2026 may vote at the AGM 2026 in person or appoint proxy(ies) to vote on his/her/its behalf at the AGM 2026.
+
+Elite REIT encourages Unitholders' participation and voting at general meetings.
+
+#### Absentia Voting
+
+Provision 11.4 of the Code provides that Elite REIT's constitution (or other constitutive documents) allows for absentia voting at general meetings of Unitholders. Principle 11 of the Code provides, inter alia, that the Manager treats all Unitholders fairly and equitably in order to enable them to exercise Unitholders' rights and have the opportunity to communicate their views on matters affecting Elite REIT. Voting in absentia by email, mail or fax is not implemented
+
+currently, which constitutes a variation from Provision 11.4 of the Code. Having considered that the Unitholders who are unable to attend in person may vote by proxy or by attorney, or in the case of a corporation, by a representative, the Manager has decided, for the time being, to refrain from implementing absentia voting until security, integrity, and other pertinent issues are satisfactorily resolved.
+
+#### Distribution Policy
+
+Elite REIT's distribution policy is to distribute at least 90.0% of its Annual Distributable Income (as defined in Elite REIT's IPO Prospectus dated 28 January 2020) on a semi-annual basis. The actual level of distribution will be determined at the Manager's discretion and may be greater than 90.0% of its Annual Distributable Income for each financial year. The actual proportion of Annual Distributable Income distributed to the Unitholders may be greater than 90.0% to the extent that the Manager believes it to be appropriate, having regard to Elite REIT's funding requirements, other capital management considerations and the overall stability of distributions.
+
+The Manager also has the discretion to distribute any additional amounts (including capital). In determining whether to distribute additional amounts (including capital), the Manager will consider a range of factors including but not limited to Elite REIT's funding requirements, its financial position, its growth strategy, compliance with relevant laws, regulations and covenants, other capital management considerations, the overall suitability of distributions and prevailing industry practice.
+
+Elite REIT had on 28 June 2021 announced the establishment of a distribution reinvestment plan ("**DRP**") pursuant to which Unitholders may elect to receive fully paid new Units ("**New Units**") in respect of the cash amount of any distribution to which the **DRP** applies. The **DRP** may be applied from time to time to any distribution declared by Elite REIT as the Manager may determine in its absolute discretion. Participation in the **DRP** is optional.
+
+Distributions are generally paid within the same calendar quarter of the relevant record date. Distributions will be declared in Pound sterling (£). Unitholders are provided the choice of receiving the distribution in either Pound sterling, Singapore Dollars or in fully paid new Units under the **DRP** at each period. Each Unitholder will receive his distribution in Singapore Dollars equivalent of the Pound sterling distribution declared, unless he elects to receive the relevant distribution in Pound sterling or receive New Units by submitting a "**Distribution Election Notice**" before the relevant cut-off date.
+
+For the portion of the distributions to be paid in Singapore Dollars, the Manager will make the necessary arrangements to convert the distributions in Pound sterling into Singapore Dollars, at such exchange rate as the Manager may determine, taking into consideration any premium or discount that may be relevant to the cost of exchange.
+
+<!-- PAGE 125 -->
+
+The Central Depository (Pte) Limited, the Manager or Elite REIT shall not be liable for any loss arising from the conversion of distributions payable to the Unitholders from Pound sterling into Singapore Dollars. Save for approved depository agents (acting as nominees of their customers), each Unitholder may elect to receive his entire distribution in Singapore Dollars or Pound sterling and shall not be able to elect to receive distributions in a combination of Singapore Dollars and Pound sterling.
+
+The Board has approved the application of DRP for Unitholders to participate in FY2025's distributions. The number of Units to be issued in lieu of receiving cash is based on the Unit price calculated at a 2.0% discount of the 10-day volume weighted average price as adjusted for any confirmed distribution in the cum distribution period.
+
+For every distribution declaration made, the Unitholders will be notified via an announcement made through SGXNET.
+
+#### Timely Disclosure of Information
+
+The Manager is committed to keeping all Unitholders, other stakeholders, analysts and the media informed of Elite REIT's performance and any changes in Elite REIT or its business which would likely materially affect the price or value of the Units.
+
+For FY2025, the Manager provided Unitholders with full unaudited half-year and full-year financial statements within the relevant periods prescribed by the Listing Manual. These half-year and full-year financial statements were reviewed and approved by the Board prior to release to Unitholders via announcements on SGXNET. The release of half-year and full-year financial statements were accompanied by news releases issued to the media, which were also made available on SGXNET. In presenting the half-year and full-year financial statements to the Unitholders, the Board sought to provide Unitholders with a balanced, clear and comprehensible assessment of Elite REIT's performance, position and prospects.
+
+In addition to the announcement of half-year and full-year financial statements in FY2025, in keeping with the Manager's commitment to provide its Unitholders with information promptly, the Manager also provided the Unitholders, on a voluntary basis, with business updates in between the announcement of half-yearly financial statements (i.e., first quarter and third quarter). Such business updates contain, among other things, information on Elite REIT's key operating and financial metrics. In addition to the release of financial statements and business updates, the Manager also keeps the Unitholders, stakeholders and analysts informed of the performance and/or changes in Elite REIT or its business which would likely materially affect the price or value of the Units on a timely and consistent basis, to assist the Unitholders in their investment decisions.
+
+Elite REIT has in place an investor relations policy which allows for an ongoing exchange of views so as to actively engage and promote regular, effective and fair communication with Unitholders. For more information on the avenues of communication provided by the Manager between the Board and all Unitholders as well as the strategy and key areas of focus in relation to the management of stakeholder relationships, please refer to the Investor Relations section, set out on pages 26 to 29.
+
+## (D) ADDITIONAL INFORMATION
+
+#### Dealing In Units
+
+Each Director and the CEO of the Manager is to give notice to the Manager of any acquisition of Units or of changes in the number of Units which he/she holds or in which he/she has an interest, within two business days after such acquisition or the occurrence of the events giving rise to changes in the number of Units which he/she holds or in which he/she has an interest. All dealings in Units by the Directors and CEO of the Manager will be announced via SGXNET.
+
+The Directors and employees of the Manager and EPH are encouraged, as a matter of internal policy, to hold Units but are prohibited from dealing in the Units:
+
+- in the period commencing one month before the public announcement of Elite REIT's half year and full year financial results and property valuations, in a prescribed embargo period immediately preceding, and up to the time of, each public announcement of Elite REIT's financial results and property valuations during a financial year; or
+- at any time while in possession of price-sensitive information.
+
+The Directors and employees of the Manager and EPH are also prohibited from communicating price sensitive information to any person. Under this policy, Directors and employees of the Manager and EPH are also discouraged from trading on short-term or speculative considerations.
+
+The Manager has complied with the Code of Best Practices on Securities Dealings in FY2025.
+
+Pursuant to Section 137ZC of the SFA, the Manager is required to, inter alia, announce to SGX-ST the particulars of any acquisition or disposal of interest in Units by the Manager as soon as practicable, and in any case no later than the end of the business day following the day on which the Manager became aware of the acquisition or disposal.
+
+<!-- PAGE 126 -->
+
+###### Corporate Governance Report
+
+### (E) ANTI-BRIBERY AND CORRUPTION POLICY
+
+The Manager adopts a zero-tolerance position towards bribery and corruption. There are detailed guidelines and procedures listed in the Code of Conduct with regard to the giving and receiving of gifts (monetary or otherwise), kickbacks, concessionary offers, entertainment, and business dealings that may place the employee under any real or apparent obligation or indebtedness to any party. The Manager's zero tolerance policy towards bribery and corruption extends to its business dealings with third parties, hence the Manager requires that certain agreements incorporate anti-bribery and anti-corruption provisions.
+
+In FY2025, to the best of its knowledge, the Manager (i) has received zero significant monetary fines or non-monetary sanctions incurred for non-compliance with environmental laws and regulations, (ii) has zero non-compliance with laws and regulations in the social and economic area, (iii) has received zero fines for non-compliance concerning product and service information labelling and (iv) has zero incidents of non-compliance concerning health and safety impacts of products and services, (v) has zero incidents of reported corruption, (vi) has zero legal actions against it for anti-competitive behaviour and anti-trust of monopoly practices. (v) has zero incidents of reported corruption, (vi) has zero legal actions against it for anti-competitive behaviour and anti-trust of monopoly practices.
+
+The Manager has adopted a Group-wide Third-Party Agent & Outsourcing Policy which provides guidance to address outsourcing and corruption risks arising from the engagement of third-party agents. Where there is a greater level of bribery or corruption risk attached to any particular area of business, or when working with a third-party agent, due diligence checks and processes are in place to adequately address and mitigate the risk(s). In FY2025, all of the Manager's employees received mandatory communication and training on anti-bribery and anti-corruption policies and procedures.
+
+### (F) IT AND CYBER SECURITY POLICY
+
+The technology landscape of financial sector is transforming at a rapid pace and the underlying IT infrastructure supporting financial services has grown in scope and complexity over the years. Many financial institutions, including Elite REIT, are riding the wave of digitalisation to increase operational efficiency and to deliver better services to customers. While digital transformation brings significant benefits to the financial ecosystem, it also increases Elite REIT's exposure to technology risks, including cyber risk and security risks (e.g. viruses, hacks and etc.).
+
+The Manager has adopted a Group-wide IT and Cyber Security Policy to ensure sound and robust practices for the management of technology risk to achieve security, reliability and resilience of its information technology operating environment. A sound risk culture and cyber resilience would protect Elite REIT's confidential information.
+
+### (G) BUSINESS CONTINUITY MANAGEMENT POLICY
+
+The Manager has implemented a Business Continuity Management ("**BCM**") programme that puts in place measures to prevent, detect, mitigate and respond to adverse business interruptions or unforeseen events on Elite REIT's operations. Management has identified the critical business services and functions and put in place a Business Continuity Plan ("**BCP**") that details the actions Management and employees should take if such an event occurs. As part of the BCP, simulation testing on different scenarios and tabletop testing are carried out to stress-test the effectiveness of the processes, procedures and escalation protocols. This holistic approach serves to ensure organisational and staff preparedness and readiness to deal with adverse business disruptions such as cyber-attacks, data breaches and epidemics. This approach aims to minimise financial loss to Elite REIT, allow the Manager to continue to function as the manager of Elite REIT and mitigate any negative effects that the disruptions could have on the Manager's reputation, operations and ability to remain in compliance with relevant laws and regulations.
+
+<!-- PAGE 127 -->
+
+# Financial Statements
+
+## Contents
+
+|  |  |
+|-|-|
+| 126 | Report of the Trustee |
+| 127 | Statement by the Manager |
+| 128 | Independent Auditors' Report |
+| 131 | Statements of Financial Position |
+| 132 | Consolidated Statement of Comprehensive Income |
+| 133 | Statement of Movements in Unitholders' Funds |
+| 134 | Consolidated Statement of Cash Flows |
+| 135 | Notes to the Financial Statements |
+
+![A large, modern building with a glass facade and a curved roof, surrounded by lush greenery and flowers in the foreground.](0366644f14ff6cddb418de5f9fe1b406_img.jpg)
+
+A photograph of a large, modern building with a glass facade and a curved roof, surrounded by lush greenery and flowers in the foreground. The building has multiple stories and large windows, and is set against a clear sky. The foreground is filled with various plants and flowers, creating a vibrant and natural setting.
+
+A large, modern building with a glass facade and a curved roof, surrounded by lush greenery and flowers in the foreground.
+
+<!-- PAGE 128 -->
+
+### Report of the Trustee
+
+Perpetual (Asia) Limited (the “Trustee”) is under a duty to take into custody and hold the assets of Elite UK REIT (the “Trust”) held by it or through its subsidiaries (collectively, the “Group”) in trust for the unitholders. In accordance with the Securities and Futures Act 2001 of Singapore, its subsidiary legislation, the Code on Collective Investment Schemes and the Listing Manual (collectively referred to as the “Regulations”), the Trustee shall monitor the activities of Elite UK REIT Management Pte. Ltd. (the “Manager”) for compliance with the limitations imposed on the investment and borrowing powers as set out in the trust deed dated 7 June 2018 (as amended) (the “Trust Deed”) between the Manager and the Trustee in each annual accounting period and report thereon to unitholders in an annual report.
+
+To the best knowledge of the Trustee, the Manager has, in all material respects, managed the Group during the year covered by these financial statements, set out on pages 131 to 170 in accordance with the limitations imposed on the investment and borrowing powers as set out in the Trust Deed.
+
+**For and on behalf of the Trustee,  
+Perpetual (Asia) Limited**
+
+**Sin Li Choo**  
+*Director*
+
+**Singapore**  
+24 March 2026
+
+<!-- PAGE 129 -->
+
+### Statement by the Manager
+
+In the opinion of the directors of Elite UK REIT Management Pte. Ltd. (the “Manager”), the manager of Elite UK REIT (the “Trust”), the accompanying consolidated financial statements set out on pages 131 to 170, comprising the consolidated statement of financial position of the Group and statement of financial position of the Trust as at 31 December 2025, the consolidated statement of comprehensive income, consolidated statement of movements in unitholders’ funds and consolidated statement of cash flows of the Group for the year then ended, and notes to the financial statements are drawn up so as to present fairly, in all material respects, the consolidated financial position of the Group and the financial position of the Trust as at 31 December 2025, and the consolidated financial performance, consolidated movements in unitholders’ funds and consolidated cash flows of the Group for the financial year ended on that date in accordance with International Financial Reporting Standards as issued by the International Accounting Standards Board and the provisions of the Trust Deed.
+
+At the date of this statement, there are reasonable grounds to believe that the Group will be able to meet its financial obligations as and when they materialise.
+
+**For and on behalf of the Manager,  
+Elite UK REIT Management Pte. Ltd.**
+
+**Tan Hai Peng Micheal**  
+*Director*
+
+**Singapore**  
+24 March 2026
+
+<!-- PAGE 130 -->
+
+## Independent Auditors' Report
+
+Unitholders of Elite UK REIT
+
+(Constituted under a Trust Deed dated 7 June 2018 (as amended))
+
+### REPORT ON THE AUDIT OF THE FINANCIAL STATEMENTS
+
+#### *Opinion*
+
+We have audited the financial statements of Elite UK REIT (the "Trust") and its subsidiaries (the "Group"), which comprise the consolidated statement of financial position of the Group and statement of financial position of the Trust as at 31 December 2025, the consolidated statement of comprehensive income, consolidated statement of movements in unitholders' funds and consolidated statement of cash flows of the Group for the year then ended, and notes to the financial statements, including material accounting policy information, as set out on pages 131 to 170.
+
+In our opinion, the accompanying consolidated financial statements of the Group and the statement of financial position of the Trust present fairly, in all material respects, the consolidated financial position of the Group and the financial position of the Trust as at 31 December 2025 and the consolidated financial performance, consolidated movements in unitholders' funds and consolidated cash flows of the Group for the year ended on that date in accordance with the International Financial Reporting Standards as issued by the International Accounting Standards Board ("IFRS Accounting Standards").
+
+#### *Basis for opinion*
+
+We conducted our audit in accordance with International Standards on Auditing ("ISAs"). Our responsibilities under those standards are further described in the '*Auditors' responsibilities for the audit of the financial statements*' section of our report. We are independent of the Group in accordance with the International Ethics Standards Board for Accountants *International Code of Ethics for Professional Accountants (including International Independence Standards)* ('IESBA Code') and Accounting and Corporate Regulatory Authority Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities ("ACRA Code") together with the ethical requirements that are relevant to our audit of the financial statements in Singapore, as applicable to audits of financial statements of public interest entities, together with the ethical requirements that are relevant to audits of the financial statements of public interest entities in Singapore. We have also fulfilled our other ethical responsibilities in accordance with these requirements, the IESBA Code, and the ACRA Code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+#### *Key audit matters*
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial statements of the current period. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+##### **Valuation of investment properties (refer to Note 4 of the financial statements)**
+
+#### ***Risk***
+
+As of 31 December 2025, the Group owns a portfolio of investment properties in United Kingdom and measures them at their fair values. The property valuation was conducted by an independent valuation expert using the income capitalisation method as the primary approach.
+
+The yield rates assumed by the valuation expert are a key determinant of property valuation under the income capitalisation method. The yield rates also incorporated the probability of lease renewal for certain properties that were subject to formal agreement as at the balance sheet date (the "risk adjustment factor"). Any inappropriate rate used that does not reflect the prevailing property market conditions or risk adjustment factor could render the valuation inaccurate.
+
+#### ***Our response***
+
+We evaluated the competence and objectivity of the valuation expert. We considered the valuation technique used against those applied by other valuers for similar property types. We evaluated the appropriateness of the equivalent yield rates used in the valuations by comparing them to available industry and market data. We assessed the relevance of risk adjustment factor that was applied towards the yield rates.
+
+#### ***Our findings***
+
+The valuation expert is a member of a recognised professional association of valuers in the United Kingdom, who had considered his independence and freedom from conflicts prior to performing the property valuation work. The income capitalisation method applied is in line with generally accepted market practices. The equivalent yield rates used, after incorporating the risk adjustment factor, were comparable with observable market data and transactions.
+
+<!-- PAGE 131 -->
+
+#### **Other information**
+
+Elite UK REIT Management Pte. Ltd., the Manager of the Trust (“the Manager”), is responsible for the other information contained in the annual report. Other information is defined as all information in the annual report other than the financial statements and our auditors’ report thereon.
+
+We have obtained all other information prior to the date of this auditors’ report.
+
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+#### ***Responsibilities of the Manager for the financial statements***
+
+The Manager is responsible for the preparation and fair presentation of these financial statements in accordance with IFRS Accounting Standards, and for such internal controls as the Manager determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Manager is responsible for assessing the Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Manager either intends to terminate the Group or to cease operations of the Group, or has no realistic alternative but to do so.
+
+The Manager’s responsibilities include overseeing the Group’s financial reporting process.
+
+#### ***Auditors’ responsibilities for the audit of the financial statements***
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SSAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain professional scepticism throughout the audit. We also:
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal controls.
+- Obtain an understanding of internal controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal controls.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the Manager.
+- Conclude on the appropriateness of the use of the going concern basis of accounting by the Manager and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors’ report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors’ report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+
+<!-- PAGE 132 -->
+
+## Independent Auditors' Report
+
+Unitholders of Elite UK REIT
+
+(Constituted under a Trust Deed dated 7 June 2018 (as amended))
+
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- Plan and perform the group audit to obtain sufficient appropriate audit evidence regarding the financial information of the entities or business units within the group as a basis for forming an opinion on the group financial statements. We are responsible for the direction, supervision and review of the audit work performed for purposes of the group audit. We remain solely responsible for our audit opinion.
+
+We communicate with the Manager regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal controls that we identify during our audit.
+
+We also provide the Manager with a statement that we have complied with relevant ethical requirements regarding independence, and communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with the Manager, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditors' report unless the law or regulations preclude public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+The engagement partner on the audit resulting in this independent auditors' report is Lim Pang Yew, Victor.
+
+#### **KPMG LLP**
+
+*Public Accountants and  
+Chartered Accountants*
+
+#### **Singapore**
+
+24 March 2026
+
+<!-- PAGE 133 -->
+
+### Statements of Financial Position
+
+As at 31 December 2025
+
+|  | Note | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  |  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Non-current assets</b> |  |  |  |  |  |
+| Investment properties | 4 | 425,873 | 412,791 | - | - |
+| Investments in subsidiaries | 5 | - | - | 9,536 | 14,746 |
+| Financial derivatives | 6 | - | 1,629 | - | 1,110 |
+| Notes receivable | 7 | - | - | 201,133 | - |
+|  |  | 425,873 | 414,420 | 210,669 | 15,856 |
+| <b>Current assets</b> |  |  |  |  |  |
+| Notes receivable | 7 | - | - | - | 201,133 |
+| Prepayment for capital expenditure | 4 | - | 6,609 | - | - |
+| Trade and other receivables | 8 | 2,107 | 7,993 | 30,462 | 19,746 |
+| Cash and cash equivalents | 9 | 16,025 | 6,626 | 172 | 572 |
+|  |  | 18,132 | 21,228 | 30,634 | 221,451 |
+| Assets held for sale | 4 | - | 4,650 | - | - |
+|  |  | 18,132 | 25,878 | 30,634 | 221,451 |
+| <b>Total assets</b> |  | 444,005 | 440,298 | 241,303 | 237,307 |
+| <b>Non-current liabilities</b> |  |  |  |  |  |
+| Loans and borrowings | 10 | 185,010 | 183,334 | - | - |
+| Lease liabilities | 11 | 1,205 | 1,213 | - | - |
+| Financial derivatives | 6 | 917 | - | 654 | - |
+|  |  | 187,132 | 184,547 | 654 | - |
+| <b>Current liabilities</b> |  |  |  |  |  |
+| Lease liabilities | 11 | 8 | 8 | - | - |
+| Trade and other payables | 12 | 3,192 | 3,143 | 624 | 710 |
+| Deferred income | 13 | 9,018 | 8,874 | - | - |
+| Current tax liabilities |  | 2,957 | 2,555 | 223 | - |
+|  |  | 15,175 | 14,580 | 847 | 710 |
+| <b>Total liabilities</b> |  | 202,307 | 199,127 | 1,501 | 710 |
+| <b>Net assets</b> |  | 241,698 | 241,171 | 239,802 | 236,597 |
+| Represented by: |  |  |  |  |  |
+| <b>Unitholders' funds</b> |  |  |  |  |  |
+| Units in issue | 14 | 342,989 | 338,215 | 342,989 | 338,215 |
+| Unit issue costs | 15 | (6,513) | (6,330) | (6,513) | (6,330) |
+| Accumulated losses |  | (94,778) | (90,714) | (96,674) | (95,288) |
+|  |  | 241,698 | 241,171 | 239,802 | 236,597 |
+| <b>Number of Units in issue ('000)</b> | 14 | 610,286 | 594,194 | 610,286 | 594,194 |
+| <b>Net asset value per Unit attributable to unitholders (£)</b> | 16 | 0.40 | 0.41 | 0.39 | 0.40 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 134 -->
+
+### Consolidated Statement of Comprehensive Income
+
+Year ended 31 December 2025
+
+|  | Note | 2025<br>£'000 | 2024<br>£'000 |
+|-|-|-|-|
+| Revenue | 17 | 36,590 | 36,472 |
+| Other property income | 18 | 1,715 | 2,604 |
+| Property operating expenses | 19 | (3,682) | (2,734) |
+| <b>Net property income</b> |  | <b>34,623</b> | 36,342 |
+| Manager's base management fees |  | (1,988) | (1,845) |
+| Trustee's fee |  | (106) | (106) |
+| Other trust expenses | 20 | (2,317) | (2,313) |
+| Finance income | 21 | 153 | 1,338 |
+| Finance costs | 21 | (14,103) | (13,127) |
+| Net finance costs |  | (13,950) | (11,789) |
+| (Loss)/Gain on divestment of investment properties |  | (80) | 321 |
+| Net change in fair value of investment properties | 4 | (188) | 2,442 |
+| <b>Profit before tax</b> |  | <b>15,994</b> | 23,052 |
+| Tax expense | 22 | (2,125) | (2,557) |
+| <b>Profit for the year</b> |  | <b>13,869</b> | 20,495 |
+| <b>Earnings per Unit (pence)</b> |  |  |  |
+| Basic | 24 | 2.30 | 3.51 |
+| Diluted | 24 | 2.30 | 3.51 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 135 -->
+
+### Statement of Movements in Unitholders' Funds
+
+Year ended 31 December 2025
+
+|  | Units in<br>issue<br>£'000 | Unit issue<br>costs<br>£'000 | Accumulated<br>losses<br>£'000 | Total<br>£'000 |
+|-|-|-|-|-|
+| <b>Group</b> |  |  |  |  |
+| <b>At 1 January 2024</b> | 308,337 | (5,903) | (95,192) | 207,242 |
+| <b>Total comprehensive income for the year</b> |  |  |  |  |
+| Profit for the year | – | – | 20,495 | 20,495 |
+| <b>Total comprehensive income for the year</b> | – | – | 20,495 | 20,495 |
+| <b>Transactions with unitholders, recognised directly<br/>in unitholders' funds</b> |  |  |  |  |
+| Units issued under preferential offering | 27,906 | – | – | 27,906 |
+| Unit issue costs | – | (427) | – | (427) |
+| Units issued under distribution reinvestment plan | 1,972 | – | – | 1,972 |
+| Distribution to unitholders | – | – | (16,017) | (16,017) |
+| <b>Total transactions with unitholders for the year</b> | 29,878 | (427) | (16,017) | 13,434 |
+| <b>At 31 December 2024</b> | 338,215 | (6,330) | (90,714) | 241,171 |
+| <b>At 1 January 2025</b> | <b>338,215</b> | <b>(6,330)</b> | <b>(90,714)</b> | <b>241,171</b> |
+| <b>Total comprehensive income for the year</b> |  |  |  |  |
+| Profit for the year | – | – | 13,869 | 13,869 |
+| <b>Total comprehensive income for the year</b> | – | – | 13,869 | 13,869 |
+| <b>Transactions with unitholders, recognised directly<br/>in unitholders' funds</b> |  |  |  |  |
+| Units issued under private placement | 4,000 | – | – | 4,000 |
+| Unit issue costs | – | (183) | – | (183) |
+| Units issued under distribution reinvestment plan | 682 | – | – | 682 |
+| Acquisition fee paid in units | 92 | – | – | 92 |
+| Distribution to unitholders | – | – | (17,933) | (17,933) |
+| <b>Total transactions with unitholders for the year</b> | 4,774 | (183) | (17,933) | (13,342) |
+| <b>At 31 December 2025</b> | <b>342,989</b> | <b>(6,513)</b> | <b>(94,778)</b> | <b>241,698</b> |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 136 -->
+
+### Consolidated Statement of Cash Flows
+
+Year ended 31 December 2025
+
+|  | Note | 2025<br>£'000 | 2024<br>£'000 |
+|-|-|-|-|
+| <b>Cash flows from operating activities</b> |  |  |  |
+| Profit before tax |  | 15,994 | 23,052 |
+| Adjustments for: |  |  |  |
+| Effect of recognising rental income on a straight-line basis over the lease term |  | 1,383 | 1,031 |
+| Finance income |  | (153) | (1,338) |
+| Finance costs |  | 14,103 | 13,127 |
+| Loss/(Gain) on divestment of investment properties |  | 80 | (321) |
+| Net change in fair value of investment properties |  | 188 | (2,442) |
+| Acquisition fee paid in units |  | 92 | – |
+| Unrealised foreign exchange gain |  | (1) | – |
+| <b>Operating income before working capital changes</b> |  | <b>31,686</b> | 33,109 |
+| <b>Changes in:</b> |  |  |  |
+| Trade and other receivables |  | 5,893 | (5,120) |
+| Trade and other payables |  | 44 | (176) |
+| Deferred income |  | 144 | 14 |
+| <b>Cash generated from operating activities</b> |  | <b>37,767</b> | 27,827 |
+| Tax paid |  | (1,230) | (1,644) |
+| Interest received |  | 153 | 192 |
+| <b>Net cash generated from operating activities</b> |  | <b>36,690</b> | 26,375 |
+| <b>Cash flows from investing activities</b> |  |  |  |
+| Prepayment for capital expenditure on investment properties |  | – | (3,668) |
+| Proceeds from divestment of investment properties, net |  | 5,670 | 1,221 |
+| Acquisition of investment properties | 4 | (9,644) | – |
+| <b>Net cash used in investing activities</b> |  | <b>(3,974)</b> | (2,447) |
+| <b>Cash flows from financing activities</b> |  |  |  |
+| Net proceeds from units issued under preferential offering |  | – | 27,479 |
+| Net proceeds from units issued under private placement |  | 3,817 | – |
+| Interest paid |  | (9,014) | (11,489) |
+| Proceeds from bank loans, net of transaction costs |  | 34,780 | 198,600 |
+| Repayment of bank loans |  | (35,612) | (236,440) |
+| Distribution to unitholders |  | (17,251) | (14,045) |
+| Payment of transaction costs related to loans and borrowings |  | (29) | (2,215) |
+| Payment of lease liabilities |  | (8) | (8) |
+| Decrease in restricted cash |  | – | 5,206 |
+| <b>Net cash used in financing activities</b> |  | <b>(23,317)</b> | (32,912) |
+| <b>Net increase/(decrease) in cash and cash equivalents</b> |  | <b>9,399</b> | (8,984) |
+| Cash and cash equivalents at 1 January |  | 6,626 | 15,610 |
+| <b>Cash and cash equivalents at 31 December</b> | 9 | <b>16,025</b> | 6,626 |
+
+#### Significant non-cash transactions
+
+For the year ended 31 December 2025, there were the following significant non-cash transactions:
+
+- approximately 2,267,000 Units (2024: 7,873,000 Units), amounting to approximately £682,000 (2024: £1,972,000) were issued as payment for distributions under the distribution reinvestment plan.
+- approximately 265,000 Units (2024: Nil), amounting to approximately £92,000 (2024: Nil) were issued as payment to the Manager for acquisition fee for investment properties acquired during the year.
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 137 -->
+
+## Notes to the Financial Statements
+
+These notes form an integral part of the financial statements.
+
+The financial statements were authorised for issue by the Manager on 24 March 2026.
+
+### 1. GENERAL
+
+The Trust is a Singapore-domiciled unit trust constituted pursuant to the trust deed dated 7 June 2018 (as amended) (the “Trust Deed”) between Elite UK REIT Management Pte. Ltd. (the “Manager”) and Perpetual (Asia) Limited (the “Trustee”). The Trust Deed is governed by the laws of the Republic of Singapore. The Trustee is under a duty to take into custody and hold the assets of the Trust held by it or through its subsidiaries in trust for the holders of units (“Units”) in the Trust.
+
+On 26 August 2021, a wholly-owned subsidiary of the Trust, Elite REIT Holdings Limited (“ERHL”), was admitted to The International Stock Exchange (“TISE”), enabling ERHL and its subsidiaries to qualify as a UK REIT Group.
+
+The principal activity of the Trust and its subsidiaries (the “Group”) is to invest in a diversified portfolio of income-producing properties located primarily in the United Kingdom (“UK”) and used primarily for commercial purposes.
+
+The consolidated financial statements relate to the Trust and its subsidiaries. A list of the subsidiaries is set out in Note 5.
+
+The Group has entered into several service agreements in relation to the management of the Trust and its property operations. The fee structures for these services are as follows:
+
+##### (i) Manager’s management fees
+
+Pursuant to the Trust Deed, the Manager is entitled to the following:
+
+- Management fees comprising a base fee of 10.0% per annum (or such lower percentage as may be determined by the Manager in its absolute discretion) of the Annual Distributable Income (as defined in the Trust Deed) of the Group in the relevant financial year (calculated before accounting for the base fee and performance fee) and a performance fee of 25.0% per annum of the increase in the Distribution Per Unit (“DPU”) (as defined in the Trust Deed) in a financial year over the DPU in the preceding year (calculated before accounting for the performance fee but after accounting for the base fee in the financial year) multiplied by the weighted average number of Units in issue for such financial year.
+
+The management fee is payable in the form of cash and/or Units as the Manager may elect. The portion of the management fee payable in the form of Units is payable quarterly in arrears and the portion of the management fee payable in cash is payable monthly in arrears.
+
+- An acquisition fee of 1.0% (or such lower percentage as may be determined by the Manager in its absolute discretion) of the acquisition price on all future acquisitions of properties or investments.
+
+The acquisition fee is payable in the form of cash and/or Units as the Manager may elect.
+
+- A divestment fee of 0.5% (or such lower percentage as may be determined by the Manager in its absolute discretion) of the sale price on all future disposals of properties or investments.
+
+The divestment fee is payable in the form of cash and/or Units as the Manager may elect.
+
+- A development management fee of 3.0% of the Total Project Costs (as defined in the Trust Deed) incurred in a Development Project (as defined in the Trust Deed) undertaken by the Manager on behalf of the Trust.
+
+The development management fee is payable in equal monthly instalments over the construction period of each Development Project based on the Manager’s best estimate of the Total Project Costs and construction period and, if necessary, a final payment of the balance amount when the Total Project Costs is finalised.
+
+<!-- PAGE 138 -->
+
+## Notes to the Financial Statements
+
+### 1. GENERAL (cont'd)
+
+##### (ii) Property management fees
+
+Under the property management agreement in respect of each property within the Trust's initial portfolio of 92 properties (2024: 95 properties) ("Initial Portfolio"), the property manager ("Property Manager") will provide, amongst others, tenant liaison, rental and insurance collections, accounts monitoring and reporting services.
+
+The property management fee payable to the Property Manager for the management of the portfolio shall reduce the management fee payable to the Manager. The Property Manager shall be entitled to receive out of the Deposited Assets (as defined in the Trust Deed) a fee for its services to be paid either directly (by the Trustee) or indirectly (by the entity which is held by the Trust).
+
+The Property Manager is entitled to a fixed annual fee to be paid in the form of cash quarterly in advance.
+
+Under the property management agreement in respect of each property within the Trust's new portfolio of 56 properties (2024: 54 properties) ("New Portfolio"), the property manager ("New Property Manager"), a related corporation of the Manager, will provide, amongst others, tenancy management, tenant liaison, building management, administrative and financial management services.
+
+The New Property Manager is entitled to a property management fee of 2.0% per annum of the Gross Revenue (as defined the property management agreement) of each property. Where the New Property Manager has sub-contracted any of the property management services to another property manager ("Other Property Manager"), the fees paid to the New Property Manager will be reduced by an amount equal to the fees paid to the Other Property Manager in respect of the property.
+
+The property management fee is payable in the form of cash and/or Units as agreed between the Manager and the New Property Manager. The fees are payable quarterly in arrears.
+
+##### (iii) Lease management fees
+
+Under the lease management agreement in respect of each property within the Trust's Initial Portfolio, the Manager is entitled to a lease management fee of 1.0% per annum of Revenue (as defined in the lease management agreement) of each property.
+
+For securing a new lease or renewal of an existing tenancy, the Manager is entitled to the following lease commissions:
+
+- 0.5 month's gross rent, for securing a tenancy of fewer than three years; or
+- one month's gross rent, for securing a tenancy of three years or more; or
+- 0.25 month's gross rent, for securing a tenancy of any number of years, if there is a third party agent involved.
+
+For the avoidance of doubt, any fees payable to third party agent(s) will be paid on a cost recovery basis.
+
+The lease management fee and commissions are payable in the form of cash or Units or a combination of cash and Units as the Manager may elect.
+
+Under the property management agreement in respect of each property within the Trust's New Portfolio, the New Property Manager will also provide lease management services, including space management and leasing supervision and rental collections.
+
+The New Property Manager is entitled to a lease management fee of 1.0% per annum of the Gross Revenue (as defined the property management agreement) of each property.
+
+<!-- PAGE 139 -->
+
+### 1. GENERAL (cont'd)
+
+#### (iii) Lease management fees (cont'd)
+
+For securing a new lease or renewal of an existing tenancy, the New Property Manager is entitled to the following lease commissions:
+
+- one month's gross effective rent for securing a new tenancy of three years or less, or 1.2 month's gross effective rent if there is a third party agent involved;
+- 2.0 month's gross effective rent for securing a new tenancy exceeding three years, or 2.4 month's gross effective rent if there is a third party agent involved;
+- 0.5 month's gross effective rent for the renewal of an existing tenancy for three years or less; and
+- 1.0 month's gross effective rent for the renewal of an existing tenancy for more than three years.
+
+The lease management fee and commissions are payable in the form of cash and/or Units as agreed between the Manager and the New Property Manager. The fees are payable quarterly in arrears.
+
+##### (iv) Trustee's fee
+
+Pursuant to the Trust Deed, the Trustee's fee shall not exceed 0.015% per annum of the value of the Deposited Property (as defined in the Trust Deed) subject to a minimum amount of S\$15,000 per month, excluding out-of-pocket expenses and GST. The Trustee's fee is payable monthly in arrears.
+
+#### 2. BASIS OF ACCOUNTING
+
+##### 2.1 Statement of compliance
+
+The financial statements have been prepared in accordance with IFRS Accounting Standards and the provisions of the Trust Deed.
+
+##### 2.2 Basis of measurement
+
+The financial statements have been prepared on the historical cost basis except as otherwise described in the notes below.
+
+##### 2.3 Functional and presentation currency
+
+Items included in the financial statements of each entity in the Group are measured using the currency that best reflects the economic substance of the underlying events and circumstances relevant to that entity (the "functional currency"). The financial statements of the Group are presented in Pound Sterling (£), which is the functional currency of the Trust. All financial information presented in Pound Sterling has been rounded to the nearest thousand, unless otherwise stated.
+
+##### 2.4 Use of estimates and judgements
+
+The preparation of financial statements in conformity with IFRS Accounting Standards requires the Manager to make judgements, estimates and assumptions about the future, including climate-related risks and opportunities, that affect the application of accounting policies and the reported amounts of assets, liabilities, income and expenses. Actual results may differ from these estimates.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis and are consistent with the Group's risk management and climate-related commitments where appropriate. Revisions to accounting estimates are recognised in the period in which the estimates are revised and any future periods affected.
+
+Information about critical judgements in applying accounting policies and assumptions and estimation uncertainties that have the most significant effect on the amounts recognised in the financial statements are described in Note 4 – Valuation of investment properties.
+
+##### Measurement of fair values
+
+A number of the Group's accounting policies and disclosures require the measurement of fair values, for both financial and non-financial assets and liabilities.
+
+The Group has an established control framework with respect to the measurement of fair values.
+
+<!-- PAGE 140 -->
+
+## Notes to the Financial Statements
+
+#### 2. BASIS OF ACCOUNTING (cont'd)
+
+#### 2.4 Use of estimates and judgements (cont'd)
+
+##### Measurement of fair values (cont'd)
+
+The Manager regularly reviews significant unobservable inputs and valuation adjustments. If third party information is used to measure fair values, the Manager assesses and documents the evidence obtained from the third parties to support the conclusion that these valuations meet the requirements of IFRS Accounting Standards. Significant valuation issues are reported to the Manager's Audit and Risk Committee.
+
+When measuring the fair value of an asset or a liability, the Group uses observable market data as far as possible. Fair values are categorised into different levels in a fair value hierarchy based on the inputs used in the valuation techniques as follows:
+
+- Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+- Level 2: inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+- Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+
+If the inputs used to measure the fair value of an asset or a liability fall into different levels of the fair value hierarchy, then the fair value measurement is categorised in its entirety in the same level of the fair value hierarchy as the lowest level input that is significant to the entire measurement (with Level 3 being the lowest).
+
+The Group recognises transfers between levels of the fair value hierarchy as of the end of the reporting period during which the change has occurred.
+
+Further information about the assumptions made in measuring fair values is included in the following notes:
+
+- Note 4 – Valuation of investment properties
+- Note 27 – Valuation of financial instruments
+
+##### 2.5 Change in material accounting policies
+
+##### New accounting standards and amendments
+
+The Group has applied various IFRS Accounting Standards, amendments to and interpretations of IFRS Accounting Standards for the first time for the annual period beginning on 1 January 2025. The application of these amendments to accounting standards and interpretations does not have a material effect on the financial statements.
+
+#### 3. MATERIAL ACCOUNTING POLICIES
+
+The accounting policies set out below have been applied consistently to all periods presented in these financial statements and have been applied consistently by Group entities.
+
+##### 3.1 Basis of consolidation
+
+##### (i) Subsidiaries
+
+Subsidiaries are entities controlled by the Group. The Group controls an entity when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity. The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+
+The accounting policies of subsidiaries have been aligned with the policies adopted by the Group.
+
+##### (ii) Transactions eliminated on consolidation
+
+Intra-group balances and transactions, and any unrealised income and expenses arising from intra-group transactions, are eliminated in preparing the consolidated financial statements.
+
+##### (iii) Accounting for subsidiaries by the Trust
+
+Investment in subsidiaries are stated in the Trust's statement of financial position at cost less accumulated impairment losses.
+
+<!-- PAGE 141 -->
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+##### 3.2 Financial instruments
+
+##### (i) Recognition and initial measurement
+
+###### ***Non-derivative financial assets and financial liabilities***
+
+Trade receivables are initially recognised when they are originated. All other financial assets and financial liabilities are initially recognised when the Group becomes a party to the contractual provisions of the instrument.
+
+A financial asset (unless it is a trade receivable without a significant financing component) or financial liability is initially measured at fair value plus or minus, for an item not at fair value through profit or loss, transaction costs that are directly attributable to its acquisition or issue. A trade receivable without a significant financing component is initially measured at the transaction price.
+
+##### (ii) Classification and subsequent measurement
+
+###### ***Non-derivative financial assets***
+
+On initial recognition, a financial asset is classified as measured at: amortised cost or fair value through profit or loss ("FVTPL").
+
+Financial assets are not reclassified subsequent to their initial recognition unless the Group changes its business model for managing financial assets, in which case all affected financial assets are reclassified on the first day of the first reporting period following the change in the business model.
+
+###### ***Financial assets at amortised cost***
+
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at fair value through profit or loss:
+
+- it is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+- its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+These assets are subsequently measured at amortised cost under the effective interest method. The amortised cost is reduced by impairment losses. Interest income, foreign exchange gains and losses and impairment are recognised in statement of comprehensive income. Any gain or loss on derecognition is recognised in the statement of comprehensive income.
+
+###### ***Financial assets at FVTPL***
+
+All financial assets not classified as measured at amortised cost or FVOCI are measured at FVTPL. On initial recognition, the Group may irrevocably designate a financial asset that otherwise meets the requirements to be measured at amortised cost or at FVOCI as at FVTPL if doing so eliminates or significantly reduces an accounting mismatch that would otherwise arise.
+
+These assets are subsequently measured at fair value. Net gains and losses, including any interest or dividend income, are recognised in profit or loss.
+
+###### ***Financial assets: Business model assessment***
+
+The Group makes an assessment of the objective of the business model in which a financial asset is held at a portfolio level because this best reflects the way the business is managed and information is provided to management.
+
+Transfers of financial assets to third parties in transactions that do not qualify for derecognition are not considered sales for this purpose, consistent with the Group's continuing recognition of the assets.
+
+<!-- PAGE 142 -->
+
+###### Notes to the Financial Statements
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+#### 3.2 Financial instruments (cont'd)
+
+##### (ii) Classification and subsequent measurement (cont'd)
+
+###### ***Non-derivative financial assets: Assessment whether contractual cash flows are solely payments of principal and interest***
+
+For the purposes of this assessment, 'principal' is defined as the fair value of the financial asset on initial recognition. 'Interest' is defined as consideration for the time value of money and for the credit risk associated with the principal amount outstanding during a particular period of time and for other basic lending risks and costs (e.g. liquidity risk and administrative costs), as well as a profit margin.
+
+In assessing whether the contractual cash flows are solely payments of principal and interest, the Group considers the contractual terms of the instrument. This includes assessing whether the financial asset contains a contractual term that could change the timing or amount of contractual cash flows such that it would not meet this condition. In making this assessment, the Group considers:
+
+- contingent events that would change the amount or timing of cash flows;
+- terms that may adjust the contractual coupon rate, including variable rate features;
+- prepayment and extension features; and
+- terms that limit the Group's claim to cash flows from specified assets (e.g. non-recourse features).
+
+A prepayment feature is consistent with the solely payments of principal and interest criterion if the prepayment amount substantially represents unpaid amounts of principal and interest on the principal amount outstanding, which may include reasonable additional compensation for early termination of the contract. Additionally, for a financial asset acquired at a significant discount or premium to its contractual par amount, a feature that permits or requires prepayment at an amount that substantially represents the contractual par amount plus accrued (but unpaid) contractual interest (which may also include reasonable additional compensation for early termination) is treated as consistent with this criterion if the fair value of the prepayment feature is insignificant at initial recognition.
+
+###### ***Non-derivative financial liabilities: Classification, subsequent measurement and gains and losses***
+
+Financial liabilities are initially measured at fair value less directly attributable transaction costs. They are subsequently measured at amortised cost using the effective interest method. Interest expense and foreign exchange gains and losses are recognised in profit or loss.
+
+##### (iii) Derecognition
+
+###### ***Financial assets***
+
+The Group derecognises a financial asset when:
+
+- the contractual rights to the cash flows from the financial asset expire; or
+- it transfers the rights to receive the contractual cash flows in a transaction in which either:
+ - substantially all of the risks and rewards of ownership of the financial asset are transferred; or
+ - the Group neither transfers nor retains substantially all of the risks and rewards of ownership and it does not retain control of the financial asset.
+
+Transferred assets are not derecognised when the Group enters into transactions whereby it transfers assets recognised in its statement of financial position, but retains either all or substantially all of the risks and rewards of the transferred assets.
+
+###### ***Financial liabilities***
+
+The Group derecognises a financial liability when its contractual obligations are discharged or cancelled, or expire. The Group also derecognises a financial liability when its terms are modified and the cash flows of the modified liability are substantially different, in which case a new financial liability based on the modified terms is recognised at fair value.
+
+On derecognition of a financial liability, the difference between the carrying amount extinguished and the consideration paid (including any non-cash assets transferred or liabilities assumed) is recognised in profit or loss.
+
+<!-- PAGE 143 -->
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+#### 3.2 Financial instruments (cont'd)
+
+##### (iv) Offsetting
+
+Financial assets and financial liabilities are offset and the net amount presented in the statement of financial position when, and only when, the Group currently has a legally enforceable right to set off the amounts and it intends either to settle them on a net basis or to realise the asset and settle the liability simultaneously.
+
+##### (v) Cash and cash equivalents
+
+Cash and cash equivalents comprise cash balances at banks. For the purpose of the statement of cash flows, restricted cash is excluded.
+
+##### (vi) Derivative financial instruments
+
+The Group holds derivative financial instruments to hedge its interest rate risk exposure. Embedded derivatives are separated from the host contract and accounted for separately if the host contract is not a financial asset and certain criteria are met.
+
+Derivatives are initially measured at fair value and any directly attributable transaction costs are recognised in profit or loss as incurred. Subsequent to initial recognition, derivatives are measured at fair value, and changes therein are generally recognised in profit or loss.
+
+##### (vii) Intra-group financial guarantees in the separate financial statements
+
+Financial guarantees are financial instruments issued by the Trust that require the Trust to make specified payments to reimburse the holder for the loss it incurs because a specified debtor fails to meet payment when due in accordance with the original or modified terms of a debt instrument.
+
+Financial guarantees are initially measured at fair value. Subsequently, they are measured at the higher of the loss allowance determined in accordance with IFRS 9 *Financial Instruments* and the amount initially recognised less, when appropriate, the cumulative amount of income recognised in accordance with the principles of IFRS 15 *Revenue from Contracts with Customers*.
+
+Expected credit losses ("ECLs") are a probability-weighted estimate of credit losses. ECLs are measured for financial guarantees issued as the expected payments to reimburse the holder less any amounts that the Trust expects to recover.
+
+Liabilities arising from financial guarantees are included within 'loans and borrowings'.
+
+#### 3.3 Investment properties
+
+Investment properties are properties held either to earn rental income or for capital appreciation or for both, but not for sale in the ordinary course of business, use in the production or supply of goods or services or for administrative purposes. Investment properties are measured at cost on initial recognition and subsequently at fair value with any change therein recognised in the statement of comprehensive income.
+
+The cost of a purchased property comprises its purchase price and any directly attributable expenditure including transaction costs.
+
+Any gain or loss on disposal of an investment property (calculated as the difference between the net proceeds from disposal and the carrying amount of the item) is recognised in the statement of comprehensive income.
+
+The properties are subject to continued maintenance and regularly revalued on the basis set out above. For taxation purposes, the Group may claim capital allowances on assets that qualify as plant and machinery under UK tax laws.
+
+<!-- PAGE 144 -->
+
+###### Notes to the Financial Statements
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+#### 3.4 Leases
+
+At inception of a contract, the Group assesses whether a contract is, or contains, a lease. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration.
+
+##### *As a lessor*
+
+At inception or on modification of a contract that contains a lease component, the Group allocates the consideration in the contract to each lease component on the basis of their relative stand-alone prices.
+
+When the Group acts as a lessor, it determines at lease inception whether each lease is a finance lease or an operating lease.
+
+To classify each lease, the Group makes an overall assessment of whether the lease transfers substantially all of the risks and rewards incidental to ownership of the underlying asset. If this is the case, then the lease is a finance lease; if not, then it is an operating lease. As part of this assessment, the Group considers certain indicators such as whether the lease is for the major part of the economic life of the asset.
+
+When the Group is an intermediate lessor, it accounts for its interests in the head lease and the sub-lease separately. It assesses the lease classification of a sub-lease with reference to the right-of-use asset arising from the head lease, not with reference to the underlying asset.
+
+If an arrangement contains lease and non-lease components, then the Group applies IFRS 15 to allocate the consideration in the contract.
+
+#### 3.5 Impairment
+
+##### (i) Non-derivative financial assets
+
+The Group recognises loss allowances for ECLs on financial assets measured at amortised cost.
+
+Loss allowances of the Group are measured on either of the following bases:
+
+- 12-month ECLs: these are ECLs that result from default events that are possible within the 12 months after the reporting date (or for a shorter period if the expected life of the instrument is less than 12 months); or
+- Lifetime ECLs: these are ECLs that result from all possible default events over the expected life of a financial instrument.
+
+###### *Simplified approach*
+
+The Group applies the simplified approach to provide for ECLs for all trade receivables. The simplified approach requires the loss allowance to be measured at an amount equal to lifetime ECLs.
+
+###### *General approach*
+
+The Group applies the general approach to provide for ECLs on all other financial instruments and intra-group financial guarantee contracts. Under the general approach, the loss allowance is measured at an amount equal to 12-month ECLs at initial recognition.
+
+At each reporting date, the Group assesses whether the credit risk of a financial instrument has increased significantly since initial recognition. When credit risk has increased significantly since initial recognition, loss allowance is measured at an amount equal to lifetime ECLs.
+
+When determining whether the credit risk of a financial asset has increased significantly since initial recognition and when estimating ECLs, the Group considers reasonable and supportable information that is relevant and available without undue cost or effort. This includes both quantitative and qualitative information and analysis, based on the Group's historical experience and informed credit assessment and includes forward-looking information.
+
+If credit risk has not increased significantly since initial recognition or if the credit quality of the financial instruments improves such that there is no longer a significant increase in credit risk since initial recognition, loss allowance is measured at an amount equal to 12-month ECLs.
+
+The Group considers a financial asset to be in default when the borrower is unlikely to pay its credit obligations to the Group in full, without recourse by the Group to actions such as realising security (if any is held).
+
+<!-- PAGE 145 -->
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+#### 3.5 Impairment (cont'd)
+
+##### (i) Non-derivative financial assets (cont'd)
+
+###### *General approach (cont'd)*
+
+The Trust considers an intra-group financial guarantee contract to be in default when the debtor of the loan is unlikely to pay its credit obligations to the creditor and the Trust in full, without recourse by the Trust to actions such as realising security (if any is held).
+
+The maximum period considered when estimating ECLs is the maximum contractual period over which the Group is exposed to credit risk.
+
+###### *Measurement of ECLs*
+
+ECLs are probability-weighted estimates of credit losses. Credit losses are measured at the present value of all cash shortfalls (i.e. the difference between the cash flows due to the entity in accordance with the contract and the cash flows that the Group expects to receive). ECLs are discounted at the effective interest rate of the financial asset.
+
+###### *Credit-impaired financial assets*
+
+At each reporting date, the Group assesses whether financial assets carried at amortised cost are credit-impaired. A financial asset is 'credit-impaired' when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred.
+
+Evidence that a financial asset is credit-impaired includes the following observable data:
+
+- significant financial difficulty of the borrower or issuer;
+- a breach of contract such as a default;
+- the restructuring of a loan or advance by the Group on terms that the Group would not consider otherwise;
+- it is probable that the borrower will enter bankruptcy or other financial reorganisation; or
+- the disappearance of an active market for a security because of financial difficulties.
+
+###### *Presentation of allowance for ECLs in the statement of financial position*
+
+Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of these assets.
+
+Loss allowances for intra-group financial guarantee contracts are recognised as a financial liability to the extent that they exceed the initial carrying amount of the financial guarantee contract less the cumulative income recognised.
+
+###### *Write-off*
+
+The gross carrying amount of a financial asset is written off (either partially or in full) to the extent that there is no realistic prospect of recovery. This is generally the case when the Group determines that the debtor does not have assets or sources of income that could generate sufficient cash flows to repay the amounts subject to the write-off. However, financial assets that are written off could still be subject to enforcement activities in order to comply with the Group's procedures for recovery of amounts due.
+
+##### (ii) Non-financial assets
+
+The carrying amounts of the Group's non-financial assets, other than investment properties, are reviewed at each reporting date to determine whether there is any indication of impairment. If any such indication exists, then the asset's recoverable amount is estimated. An impairment loss is recognised if the carrying amount of an asset or its cash-generating unit ("CGU") exceeds its estimated recoverable amount.
+
+The recoverable amount of an asset or CGU is the greater of its value in use and its fair value less costs of disposal. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset or CGU. For the purpose of impairment testing, assets that cannot be tested individually are grouped together into the smallest group of assets that generates cash inflows from continuing use that are largely independent of the cash inflows of other assets or CGUs.
+
+<!-- PAGE 146 -->
+
+###### Notes to the Financial Statements
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+##### 3.5 Impairment (cont'd)
+
+##### (ii) Non-financial assets (cont'd)
+
+Impairment losses are recognised in the statement of comprehensive income. Impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if there has been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset's carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+
+#### 3.6 Units in issue
+
+Units issued by the Trust are classified as equity.
+
+Issue costs relate to expenses incurred in connection with issuance of Units. The expenses are deducted directly against unitholders' funds.
+
+#### 3.7 Revenue recognition
+
+##### *Rental income*
+
+Rental income receivable under operating leases is recognised in the statement of comprehensive income on a straight-line basis over the term of the lease. Lease incentives granted are recognised as an integral part of the total rental to be received.
+
+#### 3.8 Finance income and finance costs
+
+Finance income comprises interest income and gain on financial derivatives.
+
+Finance costs comprise interest expense on loans and borrowings and lease liabilities, amortisation of debt-related transaction costs and loss on financial derivatives.
+
+Interest income or expense is recognised using the effective interest method. The 'effective interest rate' is the rate that exactly discounts estimated future cash payments or receipts through the expected life of the financial instrument to the gross carrying amount of the financial asset, or the amortised cost of the financial liability.
+
+#### 3.9 Taxation
+
+Tax expense comprises current and deferred tax. Current tax and deferred tax are recognised in the statement of comprehensive income except to the extent that it relates to items recognised directly in unitholders' fund.
+
+The Group has determined that interest and penalties related to income taxes, including uncertain tax treatments, do not meet the definition of income taxes, and therefore accounted for them under IAS 37 *Provisions, Contingent Liabilities and Contingent Assets*.
+
+Current tax is the expected tax payable or receivable on the taxable income for the year, measured using tax rates enacted or substantively enacted at the reporting date and any adjustment to tax payable in respect of previous years. The amount of current tax payable or receivable is the best estimate of the tax amount expected to be paid or received that reflects uncertainty related to income taxes, if any. Current tax also includes any tax arising from dividends.
+
+Current tax assets and liabilities are offset only if certain criteria are met.
+
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+
+Deferred tax is not recognised for:
+
+- temporary differences on the initial recognition of assets or liabilities in a transaction that is not a business combination and, at the time of the transaction, that affects neither accounting nor taxable profit; and
+- temporary differences relating to investments in subsidiaries to the extent that the timing of the reversal of the temporary differences can be controlled by the Group and it is probable that the temporary differences will not reverse in the foreseeable future.
+
+<!-- PAGE 147 -->
+
+#### 3. MATERIAL ACCOUNTING POLICIES (cont'd)
+
+#### 3.9 Taxation (cont'd)
+
+The measurement of deferred taxes reflects the tax consequences that would follow the manner in which the Group expects, at the reporting date, to recover or settle the carrying amount of its assets and liabilities. For an investment property that is measured at fair value, the carrying amount of the investment property is presumed to be recovered through sale, and the Group has not rebutted this presumption. Deferred tax is measured at the tax rates that are expected to be applied to temporary differences when they reverse, based on tax rates and tax laws that have been enacted or substantively enacted by the reporting date, and reflects uncertainty related to income taxes, if any.
+
+Deferred tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they relate to taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realised simultaneously.
+
+Deferred tax assets are recognised for unused tax losses, unused tax credits and deductible temporary differences to the extent that it is probable that future taxable profits will be available against which they can be used. Future taxable profits are determined based on the reversal of relevant taxable temporary differences. If the amount of taxable temporary differences is insufficient to recognise a deferred tax asset in full, then future taxable profits, adjusted for reversals of existing temporary differences, are considered, based on the business plans for individual subsidiaries in the Group. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realised; such reductions are reversed when the probability of future taxable profits improves.
+
+Unrecognised deferred tax assets are reassessed at each reporting date and recognised to the extent that it has become probable that future taxable profits will be available against which they can be used.
+
+#### 3.10 New standards and interpretations not adopted
+
+A number of new accounting standards and amendments to standards are effective for annual periods beginning after 1 January 2025 and earlier application is permitted. However, the Group has not early adopted the new or amended accounting standards in preparing these financial statements.
+
+##### (i) IFRS 18 *Presentation and Disclosure in Financial Statements*
+
+IFRS 18 will replace IAS 1 *Presentation of Financial Statements* and applies for annual reporting periods beginning on or after 1 January 2027. The new standard introduces the following key new requirements.
+
+- Entities are required to classify all income and expenses into five categories in the statement of profit or loss, namely the operating, investing, financing, discontinued operations and income tax categories. Entities are also required to present a newly-defined operating profit subtotal. Entities' net profit will not change.
+- Management-defined performance measures (MPMs) are disclosed in a single note in the financial statements.
+- Enhanced guidance is provided on how to group information in the financial statements.
+
+The Group is still in the process of assessing the impact of the new accounting standard, particularly with respect to the structure of the Group's statement of comprehensive income, the statement of cash flows and the additional disclosures required for MPMs. The Group is also assessing the impact on how information is grouped in the financial statements, including for items currently labelled as 'other'.
+
+##### (ii) Other accounting standards
+
+The following amendments to IFRS Accounting Standards are not expected to have a significant impact on the Group's consolidated financial statements and the Company's statement of financial position.
+
+- *Classification and Measurement of Financial Instruments (Amendments to IFRS(I) 9 and IFRS(I) 7);*
+- *Annual Improvements to IFRS(I)s—Volume 11;*
+- *Contracts Referencing Nature-dependent Electricity (Amendments to IFRS(I) 9 and IFRS(I) 7); and*
+- *IFRS(I) 19: Subsidiaries without Public Accountability: Disclosures.*
+
+<!-- PAGE 148 -->
+
+## Notes to the Financial Statements
+
+#### 4. INVESTMENT PROPERTIES
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| At 1 January | 412,791 | 413,719 |
+| Divestments during the year | (1,100) | (900) |
+| Acquisition during the year | 9,644 | – |
+| Reclassification to assets held for sale | – | (4,650) |
+| Capital expenditure | 6,109 | 3,211 |
+| Effect of recognising rental income on a straight-line basis over the lease term | (1,383) | (1,031) |
+| Net change in fair value recognised in statement of comprehensive income | (188) | 2,442 |
+| At 31 December | 425,873 | 412,791 |
+
+As at 31 December 2025, the Group owned 100% (2024: 100%) interests in its investment properties, comprising 142 (2024: 144) freehold and 6 (2024: 5) leasehold commercial properties situated throughout England, Scotland and Wales. The investment properties are mainly leased to the UK Government via various government agencies, which include The Secretary of State for Housing, Communities and Local Government (with the Department of Works and Pensions (“DWP”) occupying each property under a group sharing arrangement), and arranged under operating leases with a weighted remaining periods towards lease expiry of 2.4 (2024: 3.3) years at the reporting date.
+
+##### Security
+
+As at 31 December 2025, 145 (2024: 149) properties including those classified as assets held for sale with a total carrying value of £415,249,000 (2024: £417,441,000) were pledged as security for credit facilities granted to the Group (Note 10).
+
+##### Measurement of fair value
+
+The carrying values of the investment properties as at 31 December 2025 and 31 December 2024 were based on an independent professional valuation undertaken by Colliers International Property Consultants Limited (“Colliers”) and CBRE Limited, respectively. The independent valuers have appropriate recognised professional qualifications and recent experience to value properties that are of similar category and situate in comparable locations.
+
+On 13 November 2025, the Group entered into a Memorandum of Understanding (“MOU”) with the Department for Work & Pensions (“DWP”) to renew the leases of 99 properties for additional terms of up to ten years from the existing lease expiry on 31 March 2028. Colliers has considered the signed MOU, along with other factors, in determining the yield rate and assessed the probability of DWP renewing the leases. The signed MOU provides an element of certainty that majority of these leases will be renewed with a term certain of more than 5 years.
+
+The fair values of the investment properties as at 31 December 2025 and 31 December 2024 were based primarily on the income capitalisation method. In a couple of properties in the portfolio where there are redevelopment plans, the fair values of these investment properties were based on the residual valuation method. These are exceptions in the overall valuation methodology, representing less than 2% of the portfolio.
+
+The income capitalisation method involves certain estimates including the market rents and yield rates. The specific risks inherent in each of the properties are taken into consideration in arriving at the property valuation. In relying on the valuation report, the Manager has exercised its judgment and is satisfied that the valuation method and estimates used are reflective of market conditions prevailing at the end of the financial year.
+
+<!-- PAGE 149 -->
+
+### 4. INVESTMENT PROPERTIES (cont'd)
+
+##### (i) Fair value hierarchy
+
+The fair value measurement for investment properties has been categorised as a Level 3 fair value based on the inputs to the valuation technique used (see Note 2.4).
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Fair value of investment properties (based on valuation reports) | 424,660 | 416,220 |
+| Less: Reclassification to assets held for sale | - | (4,650) |
+| Add: Carrying amount of lease liabilities | 1,213 | 1,221 |
+| Carrying amount of investment properties | 425,873 | 412,791 |
+
+##### (ii) Valuation technique and significant unobservable inputs
+
+The following table shows the significant unobservable inputs used in the valuation model:
+
+| Valuation method | Significant unobservable inputs | Inter-relationship between significant unobservable inputs and fair value measurement |
+|-|-|-|
+| Income capitalisation method | Equivalent yield rate*:<br>2025: 3.51% to 13.74%<br>2024: 4.95% to 12.96% | The estimated fair value would increase (decrease) if the yield rate is lower (higher). |
+
+\* The equivalent yield rate (nominal equivalent yield) reflects the weighted average of the initial yield and reversionary yield (being the anticipated yield, which the initial yield will rise to once the rent reaches the estimated rental value and when the property is fully let) and represents the return a property will produce based upon the timing of the income received, assuming that rents are received annually in arrears.
+
+##### Assets held for sale
+
+On 26 November 2024 and 19 December 2024 respectively, the Group entered into contracts for conditional sale of two vacant properties. Accordingly, the carrying amount of the two properties are presented as assets held for sale as at 31 December 2024 and measured them at their fair values. The divestment of these properties were completed on 14 May 2025 and 18 July 2025, respectively.
+
+##### Prepayment for capital expenditure
+
+In 2022, the Group entered into Agreement for Sustainability Contribution to make a £14.7 million sustainability contribution to its tenants, the Department for Work and Pensions and UK Government's Ministry of Defence. As at 31 December 2025, the Group has disbursed a total sustainability contribution of £14.7 million (2024: £14.7 million), of which £14.3 million (2024: £8.2 million) has been incurred as capital expenditure. Amounts incurred are capitalised and included in the carrying value of investment properties and the remaining amount of £0.4 million (2024: Nil) is recoverable from a related party. The related party refers to Elite Phoenix Limited, who is under the common management of a group that also acts as the manager and a unitholder of the REIT. As at 31 December 2024, the prepayment related to the amount disbursed by the Group which has not been utilised yet.
+
+<!-- PAGE 150 -->
+
+## Notes to the Financial Statements
+
+#### 5. INVESTMENTS IN SUBSIDIARIES
+
+|  | Trust |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Equity investments, at cost |  |  |
+| At 1 January | 115,806 | 88,900 |
+| Capitalisation of loan advances to subsidiaries | - | 26,906 |
+| At 31 December | 115,806 | 115,806 |
+| Less: Accumulated impairment losses |  |  |
+| At 1 January | (101,060) | (88,900) |
+| Impairment losses recognised | (5,210) | (12,160) |
+| At 31 December | (106,270) | (101,060) |
+|  | 9,536 | 14,746 |
+
+Details of the subsidiaries are as follows:
+
+| Name of subsidiaries | Place of constitution/business | Equity interests held by the Group |  |
+|-|-|-|-|
+|  |  | 2025 | 2024 |
+|  |  | % | % |
+| <b><u>Direct subsidiaries</u></b> |  |  |  |
+| Elite REIT Holdings Limited (“ERHL”) <sup>2</sup> | United Kingdom | 100 | 100 |
+| <b><u>Indirect subsidiaries</u></b> |  |  |  |
+| Elite Kist Limited <sup>1</sup> | United Kingdom | 100 | 100 |
+| Elite UK Commercial Limited <sup>1</sup> | United Kingdom | 100 | 100 |
+| Elite Dram Limited <sup>2</sup> | United Kingdom | 100 | 100 |
+| Elite Gemstones Properties Limited <sup>2</sup> | United Kingdom | 100 | 100 |
+| Elite Amphora Limited <sup>2</sup> | United Kingdom | 100 | 100 |
+| Elite Cask Limited <sup>2</sup> | United Kingdom | 100 | 100 |
+
+1 Not required to be audited under the laws of the country of incorporation
+
+2 Audited by other member firms of KPMG International
+
+As at the reporting date, the shares of Elite Gemstones Properties Limited, Elite Amphora Limited and Elite Cask Limited, have been pledged as security for credit facilities granted to the Group (Note 10).
+
+On 19 December 2024, the Trust converted loan advances extended to subsidiary into additional £26,905,766 of ordinary shares in ERHL at a consideration of £1 per ordinary share. ERHL remains a wholly-owned subsidiary of the Trust.
+
+During the year, the Trust undertook an assessment of impairment indicators for its investments in subsidiaries. The recoverable amount was determined using the fair value less costs to sell approach, taking into consideration the fair values of the underlying assets and fair values of the liabilities to be settled. The fair value measurement was categorised as a Level 3 fair value based on the inputs to the valuation technique used. On this basis, the Trust recognised an additional impairment loss of £5.2 million (2024: £12.2 million) in profit or loss.
+
+<!-- PAGE 151 -->
+
+#### 6. FINANCIAL DERIVATIVES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Interest rate swap at FVTPL</b> |  |  |  |  |
+| Derivative assets | - | 1,629 | - | 1,110 |
+| Derivative liabilities | (917) | - | (654) | - |
+| Notional amount of interest rate swaps | 165,000 | 163,775 | 50,000 | 50,000 |
+| Percentage of derivative investment of total fund size | 38.9% | 39.3% | - | - |
+| Derivative financial instruments as a percentage of net assets attributable to unitholders | (0.4%) | 0.7% | (0.3%) | 0.5% |
+
+#### 7. NOTES RECEIVABLE
+
+|  | Trust |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Notes receivable | 201,133 | 201,133 |
+| Accumulated impairment loss |  |  |
+| At 1 January | - | (9,104) |
+| Impairment loss reversed | - | 9,104 |
+| At 31 December | - | - |
+|  | 201,133 | 201,133 |
+| Current | - | 201,133 |
+| Non-current | 201,133 | - |
+|  | 201,133 | 201,133 |
+
+Notes receivable relates to loan notes issued by a subsidiary, ERHL, subscribed by the Trust.
+
+As at 31 December 2024, the notes were due to mature on 25 October 2025. On 10 October 2025, the Trust entered into an Amendment and Restatement Agreement to extend the maturity of the notes to 25 October 2030. The notes are unsecured and carry interest at a fixed interest rate of 5.0% per annum.
+
+As at 31 December 2024, an impairment loss of £9.1 million was reversed on the notes receivable.
+
+Since the last financial year end, there has been no significant change in the credit risk of the notes receivable after considering both quantitative and qualitative factors, including the financial and liquidity positions of the subsidiary at the reporting date. Under this general 12-month ECL approach, no impairment loss is required on the notes receivable at the reporting date.
+
+<!-- PAGE 152 -->
+
+###### Notes to the Financial Statements
+
+#### 8. TRADE AND OTHER RECEIVABLES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| Trade receivables | 1,069 | 6,299 | - | - |
+| Other receivables | 592 | 610 | 55 | 548 |
+| Amount due from a subsidiary | - | - | 30,201 | 18,998 |
+|  | 1,661 | 6,909 | 30,256 | 19,546 |
+| VAT & GST receivables | 69 | 29 | 30 | 25 |
+| Prepayments | 377 | 1,055 | 176 | 175 |
+|  | 2,107 | 7,993 | 30,462 | 19,746 |
+
+Trade receivables of the Group as at the reporting date relate mainly to receivables from the property manager in respect of advance rental collected by the property manager on behalf of the Group from tenants.
+
+Of the prepayments, approximately £170,000 (2024: £170,000) relate to transaction costs incurred by the Trust on its multicurrency debt issuance programme set up in 2022 (Note 10) and property expenses of £84,000 (2024: £860,000) prepaid by the Group in relation to the vacant properties. This type of property expense was previously borne by the tenant when the properties were leased out.
+
+As at 31 December 2025, amount due from a subsidiary includes dividend receivable from the subsidiary of approximately £12.3 million (2024: £6.7 million), interest receivable on the notes issued by the subsidiary of approximately £9.2 million (2024: £4.2 million) and £8.7 million (2024: £8.1 million) loans advanced to the subsidiary. The loans advanced to the subsidiary are meant for working capital requirements, unsecured, interest-free and repayable on demand.
+
+#### 9. CASH AND CASH EQUIVALENTS
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| Cash at banks | 16,025 | 6,626 | 172 | 572 |
+
+<!-- PAGE 153 -->
+
+#### 10. LOANS AND BORROWINGS
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Secured bank loans | 189,631 | 190,463 |
+| Less: Unamortised transaction costs | (4,621) | (7,129) |
+|  | 185,010 | 183,334 |
+
+On 15 July 2024 and 23 July 2024, the Group entered into credit facilities agreements with financial institutions for 3.25-year term and revolving facilities to refinance its debts and for working capital requirement. The terms of the facilities are as follows:
+
+##### £135.0 million term loan and revolving credit facilities
+
+- A £100.0 million secured term loan facility. At the reporting date, £97.3 million (2024: £100.0 million) was drawn down and is due for repayment in October 2027.
+- A £35.0 million revolving credit facility. At the reporting date, £18.3 million (2024: £12.3 million) was drawn down and is due for repayment in October 2027.
+
+The shares of a subsidiary, Elite Gemstones Properties Limited, and the 92 (2024: 95) properties held by the subsidiary with carrying values of £263.1 million (2024: £263.4 million) as at 31 December 2025, were pledged and a corporate guarantee from the Trust was provided to secure the facilities (Notes 4 and 5).
+
+##### £80.0 million term loan and revolving credit facilities
+
+- A £65.0 million secured term loan facility. At the reporting date, £63.5 million (2024: £63.8 million) was drawn down and is due for repayment in October 2027.
+- A £15.0 million revolving credit facility. At the reporting date, £10.5 million (2024: £14.4 million) was drawn down and is due for repayment in October 2027.
+
+The shares of two subsidiaries, Elite Amphora Limited and Elite Cask Limited, and the 53 (2024: 54) properties held by these subsidiaries with carrying values of £152.2 million (2024: £154.0 million) as at 31 December 2025, were pledged and a corporate guarantee from the Trust was provided to secure the facilities (Notes 4 and 5).
+
+In September 2024, the Group entered into interest rate swap arrangements with financial institutions for a total notional amount of £165.0 million to hedge its interest rate exposure.
+
+##### S\$300.0 million multicurrency debt issuance programme
+
+- The Trust has in place a S\$300.0 million multicurrency debt issuance programme (the 'Programme'), which was set up in October 2022 for the issuance of notes and/or perpetual securities. At the reporting date, there were no issuances made under this Programme.
+
+<!-- PAGE 154 -->
+
+###### Notes to the Financial Statements
+
+#### 10. LOANS AND BORROWINGS (cont'd)
+
+##### Terms and debt repayment schedule
+
+Terms and conditions of the outstanding loans and borrowings at the reporting date are as follows:
+
+|  | Nominal interest<br>rate per annum<br>% | Year of<br>maturity | Face<br>value<br>£'000 | Carrying<br>amount<br>£'000 |
+|-|-|-|-|-|
+| <b>Group</b> |  |  |  |  |
+| <b>2025</b> |  |  |  |  |
+| Secured term loans | SONIA^ + margin | 2027 | 160,785 | 156,867 |
+| Secured revolving facilities | SONIA^ + margin | 2027 | 28,846 | 28,143 |
+|  |  |  | <b>189,631</b> | <b>185,010</b> |
+| <b>2024</b> |  |  |  |  |
+| Secured term loans | SONIA^ + margin | 2027 | 163,775 | 157,631 |
+| Secured revolving facilities | SONIA^ + margin | 2027 | 26,688 | 25,703 |
+|  |  |  | <b>190,463</b> | <b>183,334</b> |
+
+^ Sterling Overnight Index Average
+
+##### Reconciliation of movements of liabilities to cash flows arising from financing activities
+
+|  | Liabilities |  |  | Total<br>£'000 |
+|-|-|-|-|-|
+|  | Loans and<br>borrowings<br>£'000 | Lease<br>liabilities<br>(Note 11)<br>£'000 | Interest<br>payable<br>(Note 12)<br>£'000 |  |
+| <b>Balance at 1 January 2024</b> | 220,312 | 1,229 | 1,430 | 222,971 |
+| <b>Changes from financing cash flows</b> |  |  |  |  |
+| Gross proceeds from bank loans | 205,588 | – | – | 205,588 |
+| Upfront fee deducted directly by bank | (6,988) | – | – | (6,988) |
+| Proceeds from bank loans, net | 198,600 | – | – | 198,600 |
+| Repayment of bank loans | (236,440) | – | – | (236,440) |
+| Payment of transaction costs related to loans<br>and borrowings | (2,215) | – | – | (2,215) |
+| Payment of lease liabilities | – | (8) | – | (8) |
+| Interest paid | – | (38) | (11,451) | (11,489) |
+| <b>Total changes from financing cash flows</b> | <b>(40,055)</b> | <b>(46)</b> | <b>(11,451)</b> | <b>(51,552)</b> |
+| <b>Other non-cash changes</b> |  |  |  |  |
+| Amortisation of transaction costs related to loans<br>and borrowings | 3,077 | – | – | 3,077 |
+| Interest expense | – | 38 | 10,036 | 10,074 |
+| <b>Total other non-cash changes</b> | <b>3,077</b> | <b>38</b> | <b>10,036</b> | <b>13,151</b> |
+| <b>Balance at 31 December 2024</b> | <b>183,334</b> | <b>1,221</b> | <b>15</b> | <b>184,570</b> |
+
+<!-- PAGE 155 -->
+
+#### 10. LOANS AND BORROWINGS (cont'd)
+
+##### Reconciliation of movements of liabilities to cash flows arising from financing activities (cont'd)
+
+|  | Liabilities |  |  | Total<br>£'000 |
+|-|-|-|-|-|
+|  | Loans and<br>borrowings<br>£'000 | Lease<br>liabilities<br>(Note 11)<br>£'000 | Interest<br>payable<br>(Note 12)<br>£'000 |  |
+| <b>Balance at 1 January 2025</b> | <b>183,334</b> | <b>1,221</b> | <b>15</b> | <b>184,570</b> |
+| <b>Changes from financing cash flows</b> |  |  |  |  |
+| Proceeds from bank loans, net | 34,780 | - | - | 34,780 |
+| Repayment of bank loans | (35,612) | - | - | (35,612) |
+| Payment of transaction costs related to loans and borrowings | (29) | - | - | (29) |
+| Payment of lease liabilities | - | (8) | - | (8) |
+| Interest paid | - | (38) | (8,976) | (9,014) |
+| <b>Total changes from financing cash flows</b> | <b>(861)</b> | <b>(46)</b> | <b>(8,976)</b> | <b>(9,883)</b> |
+| <b>Other non-cash changes</b> |  |  |  |  |
+| Amortisation of transaction costs related to loans and borrowings | 2,537 | - | - | 2,537 |
+| Interest expense | - | 38 | 8,982 | 9,020 |
+| <b>Total other non-cash changes</b> | <b>2,537</b> | <b>38</b> | <b>8,982</b> | <b>11,557</b> |
+| <b>Balance at 31 December 2025</b> | <b>185,010</b> | <b>1,213</b> | <b>21</b> | <b>186,244</b> |
+
+#### 11. LEASE LIABILITIES
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Lease liabilities | 1,213 | 1,221 |
+| Current | 8 | 8 |
+| Non-current | 1,205 | 1,213 |
+|  | 1,213 | 1,221 |
+
+The incremental borrowing rates of the Group's lease liabilities range from 3.06% to 3.11% (2024: 3.06% to 3.11%) per annum.
+
+<!-- PAGE 156 -->
+
+###### Notes to the Financial Statements
+
+#### 12. TRADE AND OTHER PAYABLES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| Trade payables | 287 | 264 | - | - |
+| Interest payable | 21 | 15 | - | - |
+| Accrued operating expenses | 1,755 | 1,500 | 540 | 710 |
+| Other payables | 1,129 | 1,364 | 84 | - |
+|  | 3,192 | 3,143 | 624 | 710 |
+
+Trade payables comprise mainly property expenses on the vacant units during the year.
+
+Other payables of the Group comprise mainly Value Added Tax ("VAT") payable to Her Majesty's Revenue and Customs ("HMRC"), predominantly on the Group's rental receipts.
+
+#### 13. DEFERRED INCOME
+
+Deferred income relates to advance rental received from tenants.
+
+#### 14. UNITS IN ISSUE
+
+|  | Group and Trust |  |  |  |
+|-|-|-|-|-|
+|  | 2025 |  | 2024 |  |
+|  | Number<br>of Units<br>'000 | £'000 | Number<br>of Units<br>'000 | £'000 |
+| <b>Units issued</b> |  |  |  |  |
+| At beginning of the year | 594,194 | 338,215 | 482,966 | 308,337 |
+| Issue of new Units: |  |  |  |  |
+| – Preferential offering | - | - | 103,355 | 27,906 |
+| – Private placement | 13,560 | 4,000 | - | - |
+| – Distribution reinvestment plan | 2,267 | 682 | 7,873 | 1,972 |
+| – Acquisition fee paid in units | 265 | 92 | - | - |
+| At end of the year | 610,286 | 342,989 | 594,194 | 338,215 |
+
+During the year, there were the following movements in the Units in issue:
+
+##### Year ended 31 December 2025
+
+- Approximately 2,267,000 Units were issued at £0.29 to £0.34 per Unit, valued at £682,000, under the distribution reinvestment plan.
+- The Trust launched a private placement of new units ("Private Placement Units") and raised gross proceeds of approximately £4.0 million through private placement of 13,560,000 units at an issue price of £0.295 per Private Placement Unit. The Private Placement Units were issued and listed on the Mainboard of SGX-ST on 19 June 2025. The Private Placement Units issued rank pari passu in all respects with the existing Units in issue on the day immediately prior to the date on which the Private Placement Units were issued, including the right to any distributions out of the Group's distributable income from the date of issuance, as well as all distributions thereafter.
+- Approximately 265,000 Units were issued at £0.35 per Unit, amounting to approximately £92,000, to the Manager as satisfaction of the acquisition fee for investment properties acquired during the year.
+
+<!-- PAGE 157 -->
+
+#### 14. UNITS IN ISSUE (cont'd)
+
+##### Year ended 31 December 2024
+
+- Approximately 7,873,000 Units were issued at £0.25 to £0.26 per Unit, valued at £1,972,000, under the distribution reinvestment plan.
+- The Trust launched a preferential offering of new units (“Preferential Offering Units”) and raised gross proceeds of approximately £27.9 million by way of a fully underwritten pro rata and non-renounceable preferential offering of 103,355,000 new Units on the basis of 214 Preferential Offering Units for every 1,000 existing Units at an issue price of £0.27 per Preferential Offering Unit. The Preferential Offering Units were fully subscribed, issued and listed on the Mainboard of SGX-ST on 18 January 2024. The Preferential Offering Units issued rank pari passu in all respects with the existing Units in issue on the day immediately prior to the date on which the Preferential Offering Units were issued, including the right to any distributions out of the Group’s distributable income from the date of issuance, as well as all distributions thereafter.
+
+Each Unit in the Trust represents an undivided interest in the Trust. The rights and interests of unitholders are contained in the Trust Deed and include the right to:
+
+- one vote per Unit;
+- receive income and other distributions attributable to the Units held;
+- participate in the termination of the Trust by receiving a share of all net cash proceeds derived from the realisation of the assets of the Trust less any liabilities, in accordance with their proportionate interests in the Trust. However, a unitholder has no equitable or proprietary interest in the underlying assets of the Trust and is not entitled to the transfer of any assets (or part thereof) or any estate or interest in any asset (or part thereof) of the Trust; and
+- attend all unitholders’ meetings. The Trustee or the Manager may (and the Manager shall at the request in writing of one or more unitholders) at any time convene a meeting of unitholders in accordance with the provisions of the Trust Deed.
+
+The restrictions of a unitholder include the following:
+
+- a unitholder’s right is limited to the right to require due administration of the Trust in accordance with the provisions of the Trust Deed; and
+- a unitholder has no right to request the Manager to redeem his Units.
+
+A unitholder’s liability is limited to the amount paid or payable for any Unit in the Trust. The provisions of the Trust Deed provide that no unitholder will be personally liable to indemnify the Trustee or any creditor of the Trustee in the event that the liabilities of the Trust exceed its assets.
+
+#### 15. UNIT ISSUE COSTS
+
+|  | Group and Trust |  |
+|-|-|-|
+|  | 2025 | 2024 |
+|  | £'000 | £'000 |
+| Unit issue costs capitalised in unitholders' funds | 6,513 | 6,330 |
+
+<!-- PAGE 158 -->
+
+###### Notes to the Financial Statements
+
+#### 16. NET ASSET VALUE PER UNIT
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 | 2025<br>£'000 | 2024<br>£'000 |
+| Net asset value per Unit is based on: |  |  |  |  |
+| Net assets attributable to unitholders | 241,698 | 241,171 | 239,802 | 236,597 |
+| Total issued Units as at 31 December ('000) (Note 14) | 610,286 | 594,194 | 610,286 | 594,194 |
+| Net asset value per Unit (£) | 0.40 | 0.41 | 0.39 | 0.40 |
+
+#### 17. REVENUE
+
+Revenue mainly relates to rental income derived from leasing of the Group's investment properties recognised on straight-line basis over the lease terms.
+
+Over 99% (2024: 99%) of the contracted rental income under the current leases is derived from the UK Government via various government agencies which includes The Secretary of State for Housing, Communities and Local Government (with the Department of Works and Pensions (“DWP”) occupying each property under a group sharing arrangement).
+
+#### 18. OTHER PROPERTY INCOME
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Dilapidation income and lease surrender premium | 1,625 | 2,495 |
+| Other property income | 90 | 109 |
+|  | 1,715 | 2,604 |
+
+Dilapidation income relates to dilapidation settlements paid and payable by tenants upon the surrender of certain leases of vacant assets.
+
+<!-- PAGE 159 -->
+
+#### 19. PROPERTY OPERATING EXPENSES
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Property management fee paid/payable to a non-related corporation of the Manager | 470 | 457 |
+| Property management fee paid/payable to a related corporation of the Manager | 230 | 229 |
+| Property insurance | 249 | 246 |
+| Lease management fee paid/payable to the Manager | 246 | 244 |
+| Other property expenses | 2,487 | 1,558 |
+|  | <b>3,682</b> | <b>2,734</b> |
+| Property operating expenses | 3,682 | 2,734 |
+| Manager's management fees | 1,988 | 1,845 |
+| Manager's performance fees | 283 | – |
+| Trustee's fees | 106 | 106 |
+| Total operating expenses | <b>6,059</b> | <b>4,685</b> |
+| Total operating expenses as a percentage of net assets attributable to unitholders | <b>2.5%</b> | <b>1.9%</b> |
+
+Other property expenses were mainly incurred by the Group for vacant properties. When the properties were leased out, those property expenses were borne by tenants.
+
+#### 20. OTHER TRUST EXPENSES
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Audit fees paid/payable to auditors of the Trust and other firms affiliated with KPMG International Limited | 323 | 287 |
+| Valuation fees paid/payable to professional valuers | 208 | 276 |
+
+<!-- PAGE 160 -->
+
+###### Notes to the Financial Statements
+
+#### 21. FINANCE INCOME AND FINANCE COSTS
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Finance income</b> |  |  |
+| Interest income | 153 | 192 |
+| Fair value gain on financial derivatives | - | 1,146 |
+|  | 153 | 1,338 |
+| <b>Finance costs</b> |  |  |
+| Fair value loss on financial derivatives | (2,546) | - |
+| Amortisation of transaction costs relating to loans and borrowings | (2,537) | (3,077) |
+| Reversal of accrued commitment fee no longer required | - | 24 |
+| Interest expense on: |  |  |
+| - loans and borrowings | (8,982) | (10,036) |
+| - lease liabilities | (38) | (38) |
+|  | (14,103) | (13,127) |
+| <b>Net finance costs recognised in statement of comprehensive income</b> | <b>(13,950)</b> | <b>(11,789)</b> |
+
+#### 22. TAX EXPENSE
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Current tax</b> |  |  |
+| - Current year | 3 | - |
+| - Prior year | 15 | - |
+|  | 18 | - |
+| <b>Withholding tax</b> |  |  |
+| - Current year | 2,735 | 2,557 |
+| - Prior year | (628) | - |
+|  | 2,107 | 2,557 |
+| <b>Income tax expense</b> | <b>2,125</b> | <b>2,557</b> |
+
+<!-- PAGE 161 -->
+
+### 22. TAX EXPENSE (cont'd)
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Reconciliation of effective tax rate</b> |  |  |
+| Profit before tax | 15,994 | 23,052 |
+| Tax calculated using Singapore tax rate of 17% (2024: 17%) | 2,719 | 3,919 |
+| Effect of different tax rates in foreign jurisdictions | 750 | 1,125 |
+| Income not subject to tax | (4,447) | (5,140) |
+| Expenses not deductible for tax purposes | 981 | 96 |
+| Withholding tax | 2,735 | 2,557 |
+| Over provision in prior year | (613) | - |
+|  | 2,125 | 2,557 |
+
+The Group is not expected to be within scope of the jurisdictional adoption of the Pillar Two Model Rules published by the Organisation for Economic Co-operation and Development (OECD), as the Group's consolidated revenue is less than EUR750 million per year. As a result, no recognition and disclosure in relation to Pillar Two Model had been made.
+
+#### 23. AMOUNT AVAILABLE FOR DISTRIBUTION
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| <b>Amount available for distribution to unitholders at beginning of the year</b> | 8,936 | 7,881 |
+| Profit for the year | 13,869 | 20,495 |
+| Distribution adjustments (Note A) | 5,434 | (2,041) |
+|  | 19,303 | 18,454 |
+| Less: Amount retained for general corporate and working capital ("Retention") | (965) | (1,382) |
+| <b>Amount available for distribution to unitholders</b> | 27,274 | 24,953 |
+| Distribution to unitholders: |  |  |
+| Distribution of GBP 1.33 pence for the period from 1 July 2023 to 31 December 2023 | - | (7,798) |
+| Distribution of GBP 1.40 pence for the period from 1 January 2024 to 30 June 2024 | - | (8,219) |
+| Distribution of GBP 1.47 pence for the period from 1 July 2024 to 31 December 2024 | (8,735) | - |
+| Distribution of GBP 1.43 pence for the period from 1 January 2025 to 18 June 2025 | (8,527) | - |
+| Distribution of GBP 0.11 pence for the period from 19 June 2025 to 30 June 2025 | (671) | - |
+|  | (17,933) | (16,017) |
+| <b>Amount available for distribution to unitholders at end of the year</b> | 9,341 | 8,936 |
+
+<!-- PAGE 162 -->
+
+## Notes to the Financial Statements
+
+### 23. AMOUNT AVAILABLE FOR DISTRIBUTION (cont'd)
+
+|  | Group |  |
+|-|-|-|
+|  | 2025 | 2024 |
+|  | £'000 | £'000 |
+| <b>Distribution per Unit before Retention (pence)</b> | <b>3.19</b> | 3.11 |
+| <b>Distribution per Unit after Retention (pence)</b> | <b>3.03</b> | 2.87 |
+| <b>Note A</b> |  |  |
+| Distribution adjustments (as defined in the Trust Deed) relate to the following items: |  |  |
+| Acquisition fee paid in Units | 92 | – |
+| Amortisation of debt-related upfront fee and transaction costs | 2,537 | 3,077 |
+| Dilapidation settlements and lease surrender premium, net | (1,489) | (2,338) |
+| Fair value loss/(gain) on financial derivatives | 2,546 | (1,146) |
+| Loss/(Gain) on divestment of investment properties | 80 | (321) |
+| Net change in fair value of investment properties | 188 | (2,442) |
+| Effect of recognising rental income on straight-line basis over the lease term | 1,383 | 1,031 |
+| Trustee's fee | 106 | 106 |
+| Others | (9) | (8) |
+| <b>Distribution adjustments</b> | <b>5,434</b> | (2,041) |
+
+#### 24. EARNINGS PER UNIT
+
+##### Basic earnings per Unit
+
+The calculation of basic earnings per Unit is based on the profit attributable to unitholders and the weighted average number of Units outstanding.
+
+|  | Group |  |
+|-|-|-|
+|  | 2025 | 2024 |
+|  | £'000 | £'000 |
+| Profit for the year attributable to unitholders | 13,869 | 20,495 |
+| Weighted average number of Units: |  |  |
+| - Units issued at the beginning of the year | 594,194 | 482,966 |
+| - Effect of Units issued under preferential offering | – | 98,554 |
+| - Effect of Units issued under private placement | 7,282 | – |
+| - Effect of Units issued under distribution reinvestment plan | 1,661 | 2,525 |
+| - Effect of acquisition fee paid in Units | 104 | – |
+| Weighted average number of Units | 603,241 | 584,045 |
+
+#### Diluted earnings per Unit
+
+The calculation of diluted earnings per Unit is based on the profit attributable to unitholders and the weighted average number of Units outstanding after adjustment for the effects of all dilutive potential Units.
+
+For the years ended 31 December 2025 and 31 December 2024, the diluted earnings per Unit is the same as the basic earnings per Unit as there were no outstanding anti-dilutive Units at the end of the reporting periods.
+
+<!-- PAGE 163 -->
+
+#### 25. SEGMENT INFORMATION
+
+Segment information has not been presented as all the Group's investment properties are commercial properties and are located in the United Kingdom.
+
+#### 26. RELATED PARTY TRANSACTIONS
+
+In the normal course of the operations of the Trust, the Manager's management fee and the Trustee's fee have been paid or are payable to the Manager and Trustee, respectively.
+
+Other than as disclosed elsewhere in the financial statements, there were the following significant related party transactions during the period.
+
+|  | Group |  |
+|-|-|-|
+|  | 2025 | 2024 |
+|  | £'000 | £'000 |
+| Leasing commission paid/payable to a related corporation of the Manager | – | 33 |
+| Divestment fee paid/payable to the Manager | 30 | 4 |
+| Acquisition fee paid/payable to the Manager | 92 | – |
+| Acquisition of investment properties from a related party | 9,200 | – |
+| Performance fee paid/payable to the Manager | 283 | – |
+
+On 10 June 2025, a subsidiary of the Group, Elite Dram Limited ("Elite Dram") entered into a Sale and Purchase Agreement with a related party, Elite Phoenix Limited (the "Vendor") to acquire three freehold or virtual freehold government infrastructure and workspaces in the United Kingdom for a purchase consideration of £9.2 million (the "acquisition transaction"). The acquisition transaction was completed on 20 June 2025. Refer to Note 4 for the disclosure of relationship between Elite Phoenix Limited and Elite UK REIT.
+
+Following completion of the above acquisition transaction, Elite Dram entered into a new property management agreement with the Manager and Elite Real Estate UK Ltd (the "Property Manager", the "New Property Management Agreement"). The New Property Management Agreement is effective from the date of completion of the above acquisition transaction for a period of 5 years and will expire on 19 June 2030.
+
+The Vendor and the Property Manager are considered an "interested person", an "interested party" and a "related party" under Chapter 9 of the Listing Manual, the Appendix 6 of the Code on Collective Investment Schemes issued by the Monetary Authority of Singapore (the "Property Funds Appendix") and IAS 24 Related Party Disclosures ("IAS 24"), respectively. Accordingly, the transactions between the Group and the Vendor and the Property Manager will constitute an "interested party transaction" under Chapter 9 of the Listing Manual, an "interested party transaction" under the Property Funds Appendix and a "related party transaction" under IAS 24.
+
+#### 27. FINANCIAL RISK MANAGEMENT
+
+##### Capital management
+
+The Manager proactively reviews the Group's capital and debt management and financing policy regularly so as to optimise the Group's funding structure. Capital consists of net assets attributable to unitholders. The Manager also monitors the Group's exposure to various risk elements and externally imposed requirements by closely adhering to clearly established management policies and procedures.
+
+The Manager's objectives are to provide unitholders of the Group with regular and stable distributions and to achieve long-term growth in distribution per Unit and net asset value per Unit, while maintaining an appropriate capital structure.
+
+The Manager will endeavour to employ an appropriate mix of debt and equity in financing acquisitions and asset enhancement and will seek to optimise its cost of debt financing, in order to minimise exposure to market volatility and maximise risk-adjusted returns to unitholders.
+
+The Group is in compliance with all externally imposed capital requirements for the financial years ended 31 December 2024 and 31 December 2025. There were no substantial changes in the Group's approach to capital management during the year.
+
+<!-- PAGE 164 -->
+
+###### Notes to the Financial Statements
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Capital management (cont'd)
+
+As at 31 December 2025, the Group's aggregate leverage was 42.8% (2024: 43.4%) with an interest coverage ratio of 2.6 times (2024: 2.5 times).
+
+The aggregate leverage is calculated as gross borrowings divided by total assets. Lease liabilities and right-of-use assets are excluded when deriving gross borrowings and total assets, respectively. The interest coverage ratio is computed based on financial information for the financial years, by dividing earnings before interest, tax, depreciation and amortisation (excluding effects of any fair value changes of derivatives and investment properties and foreign exchange translation) ("EBITDA"), by interest expenses and borrowing related fees (excluding interest expense on lease liabilities). Interest expense on lease liabilities is excluded as it does not reflect the serviceability of loans and does not have any impact on the Group's debt servicing ability.
+
+The Group has complied with the guidelines prescribed under the Property Fund Guidelines of the Code of Collective Investment Scheme issued by Monetary Authority of Singapore ("CIS Code") during both financial periods.
+
+#### Financial risk management
+
+##### Overview
+
+The Group's returns are primarily from net operating income and capital appreciation of its assets. However, these returns are exposed to financial risks including credit, liquidity and interest rate risks.
+
+Financial risk management is integral to the whole business of the Group. The Group adopts an integrated approach to manage the financial risks arising in the normal course of the Group's business to ensure that an appropriate balance between risk and control is achieved. Risk management policies and processes are reviewed regularly to reflect changes in market conditions and the Group's activities.
+
+##### Credit risk
+
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Group's receivables from customers and notes receivable from a subsidiary.
+
+The carrying amounts of financial assets represent the maximum exposure of the Group and the Trust to credit risk, before taking into account any collateral held. The Group and the Trust do not require any collateral in respect of their financial assets.
+
+##### Trade receivables
+
+##### *Exposure to credit risk*
+
+While it is necessary to assume a certain level of tenant credit risk to remain competitive in the UK, the Group has established credit limits for tenants and monitors their balances on an ongoing basis. Appropriate risk mitigating actions are in place to manage trade receivables.
+
+Over 99% (2024: 99%) of the Group's revenue is derived from leases to the UK Government via various government agencies, which includes The Secretary of State for Housing, Communities and Local Government (with the Department of Works and Pensions ("DWP") occupying each property under a group sharing arrangement).
+
+##### *Expected credit loss assessment*
+
+At 31 December 2025 and 31 December 2024, the Group's trade receivables were not past due.
+
+The Group establishes allowances for impairment that represent its estimates of the ECL and specific loss component in respect of its trade receivables. ECL is estimated taking into consideration past due status of the trade receivables, adjusted as appropriate to reflect current condition and estimates of future economic conditions. Based on the assessment, the impairment allowance on trade receivables is negligible.
+
+<!-- PAGE 165 -->
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+#### Credit risk (cont'd)
+
+##### *Other receivables and notes receivable*
+
+The Group assesses on a forward-looking basis the expected credit loss associated with financial assets at amortised cost. The impairment methodology applied depends on whether there has been a significant increase in credit risk.
+
+The Group considers the amount of the allowance on other receivables to be negligible.
+
+As at 31 December 2024, the Trust recorded a reversal of impairment loss of £9.1 million on notes receivable from a subsidiary as a result of the decrease in the subsidiary's credit risk due to the improvement in the subsidiary's financial and liquidity positions. There is no impairment loss recognised on the notes receivable in the current financial year.
+
+##### *Derivatives*
+
+The derivatives were entered into with banks with sound credit ratings.
+
+##### *Cash and cash equivalents*
+
+Cash is placed with financial institutions which are regulated.
+
+At the reporting date, the Group held cash and cash equivalents of £16.0 million (2024: £6.6 million). The cash and cash equivalents are held with banks and financial institution counterparties with sound credit ratings.
+
+Impairment on cash and cash equivalents has been measured on the 12-month expected loss basis and reflects the short maturities of the exposures. The Group considers that its cash and cash equivalents have low credit risk based on the external credit ratings of the counterparties. The amount of the allowance on cash and cash equivalents is negligible.
+
+##### *Intra-group financial guarantees*
+
+As at the reporting date, the Trust has issued a guarantee to certain banks in respect of credit facilities granted to subsidiaries (Note 10). These guarantees are subject to impairment assessment under IFRS 9. The Trust has assessed that the subsidiaries have sufficient financial capacity to meet the contractual cash flow obligations in the near future and hence, does not expect significant credit losses from the guarantees. The Trust's assessment is based on qualitative and quantitative factors that are indicative of the risk of default, including an assessment of financial and liquidity positions of the subsidiaries together with their expected economic performance and expected cash flows.
+
+<!-- PAGE 166 -->
+
+###### Notes to the Financial Statements
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+##### Liquidity risk
+
+The Group monitors its liquidity risk and maintains a level of cash and cash equivalents deemed adequate by management to finance the Group's operations and to mitigate the effects of fluctuations in cash flows. Typically, the Group ensures that it has sufficient cash on demand to meet expected operational expenses for a reasonable period, including the servicing of financial obligations.
+
+The Group is cognisant that its loan agreements require compliance with financial covenants for which the key risks that may affect compliance are those relating to interest coverage ratio and loan-to-valuation ratio.
+
+The following are the contractual maturities of financial liabilities, including estimated interest payments and excluding the impact of netting agreements:
+
+|  | Carrying<br>amount<br>£'000 | Contractual<br>cash flows<br>£'000 | Within<br>1 year<br>£'000 | After 1 year<br>but within<br>5 years<br>£'000 | More than<br>5 years<br>£'000 |
+|-|-|-|-|-|-|
+| <b>Group</b> |  |  |  |  |  |
+| <b>31 December 2025</b> |  |  |  |  |  |
+| <b>Non-derivative financial liabilities</b> |  |  |  |  |  |
+| Loans and borrowings | (185,010) | (205,875) | (8,867) | (197,008) | - |
+| Lease liabilities | (1,213) | (2,546) | (46) | (183) | (2,317) |
+| Trade and other payables^ | (2,047) | (2,047) | (2,047) | - | - |
+|  | (188,270) | (210,468) | (10,960) | (197,191) | (2,317) |
+| <b>Derivative financial instruments</b> |  |  |  |  |  |
+| Financial derivatives | (917) | (168) | (96) | (72) | - |
+|  | (189,187) | (210,636) | (11,056) | (197,263) | (2,317) |
+| <b>31 December 2024</b> |  |  |  |  |  |
+| <b>Non-derivative financial liabilities</b> |  |  |  |  |  |
+| Loans and borrowings | (183,334) | (221,911) | (11,105) | (210,806) | - |
+| Lease liabilities | (1,221) | (2,592) | (46) | (183) | (2,363) |
+| Trade and other payables^ | (1,808) | (1,808) | (1,808) | - | - |
+|  | (186,363) | (226,311) | (12,959) | (210,989) | (2,363) |
+| <b>Derivative financial instruments</b> |  |  |  |  |  |
+| Financial derivatives | 1,629 | 4,804 | 1,748 | 3,056 | - |
+|  | (184,734) | (221,507) | (11,211) | (207,933) | (2,363) |
+
+^ Excluding VAT payables
+
+<!-- PAGE 167 -->
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+#### Liquidity risk (cont'd)
+
+|  | Carrying<br>amount<br>£'000 | Contractual<br>cash flows<br>£'000 | Within<br>1 year<br>£'000 | After 1 year<br>but within<br>5 years<br>£'000 | More than<br>5 years<br>£'000 |
+|-|-|-|-|-|-|
+| <b>Trust</b> |  |  |  |  |  |
+| <b>31 December 2025</b> |  |  |  |  |  |
+| <b>Non-derivative financial liabilities</b> |  |  |  |  |  |
+| Trade and other payables | (624) | (624) | (624) | - | - |
+| Financial guarantees* | - | (189,631) | (189,631) | - | - |
+|  | (624) | (190,255) | (190,255) | - | - |
+| <b>Derivative financial instruments</b> |  |  |  |  |  |
+| Financial derivatives | (654) | (39) | (22) | (17) | - |
+|  | (1,278) | (190,294) | (190,277) | (17) | - |
+| <b>31 December 2024</b> |  |  |  |  |  |
+| <b>Non-derivative financial liabilities</b> |  |  |  |  |  |
+| Trade and other payables | (710) | (710) | (710) | - | - |
+| Financial guarantees* | - | (190,463) | (190,463) | - | - |
+|  | (710) | (191,173) | (191,173) | - | - |
+| <b>Derivative financial instruments</b> |  |  |  |  |  |
+| Financial derivatives | 1,110 | 1,486 | 541 | 945 | - |
+|  | 400 | (189,687) | (190,632) | 945 | - |
+
+\* As at 31 December 2025 and 31 December 2024, the maximum exposure of the Trust in respect of the intragroup financial guarantee (Note 10) based on facilities drawn down by the subsidiaries is £189.6 million (2024: £190.5 million). The Trust does not consider it probable that a claim will be made against the Trust under the intra-group financial guarantee as the assets of the subsidiary are pledged as security for the credit facilities.
+
+##### Interest rate risk
+
+The Manager adopts a proactive interest rate management policy to manage the risk associated with changes in interest rates on the Group's loan facilities while also seeking to ensure that the ongoing cost of debt remains competitive.
+
+At the reporting date, the bank loans are subject to floating rates. The floating rate loans are contractually repriced at intervals of one to three months, or when notified by banks.
+
+As at 31 December 2025, the Group entered into interest rate swaps with a total notional amount of £165.0 million (2024: £165.0 million) whereby the Group agreed with the counterparties to exchange, at specified intervals, the difference between floating rate and fixed rate interest amounts calculated by reference to the agreed notional principal amounts of secured term loans. Under the interest rate swap contracts, the Group receives floating interest on the principal amount and pays fixed interest.
+
+<!-- PAGE 168 -->
+
+###### Notes to the Financial Statements
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+##### Interest rate risk (cont'd)
+
+##### Exposure to interest rate risk
+
+At the reporting date, the interest rate profile of interest-bearing financial instruments, as reported to the management, was as follows:
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | Nominal amount |  | Nominal amount |  |
+|  | 2025 | 2024 | 2025 | 2024 |
+|  | £'000 | £'000 | £'000 | £'000 |
+| <b>Fixed rate instruments</b> |  |  |  |  |
+| Financial assets | – | – | 201,133 | 201,133 |
+| Effect of interest rate swaps | (165,000) | (163,775) | (50,000) | (50,000) |
+|  | (165,000) | (163,775) | 151,133 | 151,133 |
+| <b>Variable rate instruments</b> |  |  |  |  |
+| Financial liabilities | (189,631) | (190,463) | – | – |
+| Effect of interest rate swaps | 165,000 | 163,775 | 50,000 | 50,000 |
+|  | (24,631) | (26,688) | 50,000 | 50,000 |
+
+###### Fair value sensitivity analysis for fixed rate instruments
+
+The Group does not account for any fixed rate financial assets and liabilities at FVTPL. The derivatives (interest rate swaps) were, however, dealt with at FVTPL, but not as economic hedging instruments under any accounting hedges. Therefore, in respect of the fixed rate instruments, a change in interest rates at the reporting date would not affect profit or loss. Only changes in fair value of interest rate swaps affects the profit or loss.
+
+###### Cash flow sensitivity analysis for variable rate instruments
+
+A 100 basis point (“bp”)\* movement in interest rate at the reporting date would increase/(decrease) profit or loss (before any tax effect) by the amounts shown below. This analysis assumes that all other variables, in particular foreign currency exchange rates, remain constant.
+
+\* 100 basis point is equivalent to 1 percentage point
+
+|  | 2025 |  | 2024 |  |
+|-|-|-|-|-|
+|  | 100 bp increase | 100 bp decrease | 100 bp increase | 100 bp decrease |
+|  | £'000 | £'000 | £'000 | £'000 |
+| <b>Group</b> |  |  |  |  |
+| Variable rate instruments | (1,896) | 1,896 | (1,905) | 1,905 |
+| Interest rate swaps | 1,650 | (1,650) | 1,638 | (1,638) |
+| Cash flow sensitivity (net) | (246) | 246 | (267) | 267 |
+| <b>Trust</b> |  |  |  |  |
+| Variable rate instruments | – | – | – | – |
+| Interest rate swaps | 500 | (500) | 500 | (500) |
+| Cash flow sensitivity (net) | 500 | (500) | 500 | (500) |
+
+<!-- PAGE 169 -->
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+##### Interest rate risk (cont'd)
+
+##### Accounting classifications and fair values
+
+The carrying amounts and fair values of financial assets and liabilities, including their levels in the fair value hierarchy are set out below. It does not include fair value information for financial assets and liabilities not measured at fair value if the carrying amount is a reasonable approximation of fair value. The fair value disclosure of lease liabilities is also not required.
+
+|  | Carrying amount |  |  |  | Fair value |  |  |  |
+|-|-|-|-|-|-|-|-|-|
+|  | Financial assets at amortised cost<br>£'000 | At FVTPL<br>£'000 | Other financial liabilities<br>£'000 | Total carrying amount<br>£'000 | Level 1<br>£'000 | Level 2<br>£'000 | Level 3<br>£'000 | Total<br>£'000 |
+| <b>Group</b> |  |  |  |  |  |  |  |  |
+| <b>31 December 2025</b> |  |  |  |  |  |  |  |  |
+| <b>Financial liabilities measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Financial derivatives | - | (917) | - | (917) | - | (917) | - | (917) |
+| <b>Financial assets not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other receivables* | 1,661 | - | - | 1,661 |  |  |  |  |
+| Cash and cash equivalents | 16,025 | - | - | 16,025 |  |  |  |  |
+|  | 17,686 | - | - | 17,686 |  |  |  |  |
+| <b>Financial liabilities not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other payables^ | - | - | (2,047) | (2,047) |  |  |  |  |
+| Loans and borrowings | - | - | (185,010) | (185,010) | - | (189,631) | - | (189,631) |
+|  | - | - | (187,057) | (187,057) |  |  |  |  |
+| <b>31 December 2024</b> |  |  |  |  |  |  |  |  |
+| <b>Financial asset measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Financial derivatives | - | 1,629 | - | 1,629 | - | 1,629 | - | 1,629 |
+| <b>Financial assets not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other receivables* | 6,909 | - | - | 6,909 |  |  |  |  |
+| Cash and cash equivalents | 6,626 | - | - | 6,626 |  |  |  |  |
+|  | 13,535 | - | - | 13,535 |  |  |  |  |
+| <b>Financial liabilities not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other payables^ | - | - | (1,808) | (1,808) |  |  |  |  |
+| Loans and borrowings | - | - | (183,334) | (183,334) | - | (190,463) | - | (190,463) |
+|  | - | - | (185,142) | (185,142) |  |  |  |  |
+
+\* Excluding VAT & GST receivables, prepayments and tax receivables
+
+^ Excluding VAT payables
+
+<!-- PAGE 170 -->
+
+###### Notes to the Financial Statements
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+Financial risk management (cont'd)
+
+Interest rate risk (cont'd)
+
+*Accounting classifications and fair values* (cont'd)
+
+|  | Carrying amount |  |  |  | Fair value |  |  |  |
+|-|-|-|-|-|-|-|-|-|
+|  | Financial assets at amortised cost<br>£'000 | At FVTPL<br>£'000 | Other financial liabilities<br>£'000 | Total carrying amount<br>£'000 | Level 1<br>£'000 | Level 2<br>£'000 | Level 3<br>£'000 | Total<br>£'000 |
+| <b>Trust</b> |  |  |  |  |  |  |  |  |
+| <b>31 December 2025</b> |  |  |  |  |  |  |  |  |
+| <b>Financial liabilities measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Financial derivatives | - | (654) | - | (654) | - | (654) | - | (654) |
+| <b>Financial assets not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Notes receivable | 201,133 | - | - | 201,133 | - | 172,907 | - | 172,907 |
+| Trade and other receivables* | 30,256 | - | - | 30,256 |  |  |  |  |
+| Cash and cash equivalents | 172 | - | - | 172 |  |  |  |  |
+|  | 231,561 | - | - | 231,561 |  |  |  |  |
+| <b>Financial liabilities not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other payables | - | - | (624) | (624) |  |  |  |  |
+| <b>31 December 2024</b> |  |  |  |  |  |  |  |  |
+| <b>Financial asset measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Financial derivatives | - | 1,110 | - | 1,110 | - | 1,110 | - | 1,110 |
+| <b>Financial assets not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Notes receivable | 201,133 | - | - | 201,133 |  |  |  |  |
+| Trade and other receivables* | 19,546 | - | - | 19,546 |  |  |  |  |
+| Cash and cash equivalents | 572 | - | - | 572 |  |  |  |  |
+|  | 221,251 | - | - | 221,251 |  |  |  |  |
+| <b>Financial liabilities not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Trade and other payables | - | - | (710) | (710) |  |  |  |  |
+
+\* Excluding prepayments, tax receivables and VAT & GST receivables
+
+<!-- PAGE 171 -->
+
+#### 27. FINANCIAL RISK MANAGEMENT (cont'd)
+
+#### Financial risk management (cont'd)
+
+#### Interest rate risk (cont'd)
+
+##### Measurement of fair values
+
+##### (i) Valuation techniques
+
+The following table shows the valuation techniques used in measuring Level 2 values, as well as the significant unobservable inputs used.
+
+| Type | Valuation technique and significant unobservable inputs |
+|-|-|
+| Loans and borrowings, and Notes receivable | Discounted cash flows: The fair value is based on present value of future payments, discounted at the market rate of interest at the measurement date. |
+| Financial derivatives – interest rate swaps | Market comparison technique: The fair values are based on bank quotes. Similar contracts are traded in an active market and the quotes reflect the actual transactions in similar instruments. |
+
+#### 28. LEASES
+
+##### Leases as lessee
+
+Some of the investment properties of the Group are under operating leases. The leases run for periods with expiry dates between 2077 and 2086. Lease payments are re-negotiated every five years, and there is an option to renew the leases after the expiry date, for a further term of 26 years.
+
+Information about leases for which the Group are lessees is presented as below:
+
+##### Right-of-use (“ROU”) assets
+
+ROU assets relate to the Group’s investment properties and are presented as investment properties.
+
+##### Amounts recognised in statement of comprehensive income
+
+Interest on lease liabilities of £38,000 (2024: £38,000) was recognised in the statement of comprehensive income during the year.
+
+##### Amounts recognised in statement of cash flows
+
+|  | Group |  |
+|-|-|-|
+|  | 2025<br>£'000 | 2024<br>£'000 |
+| Payment of lease liabilities | (8) | (8) |
+| Interest expense | (38) | (38) |
+| Total cash outflow for leases | (46) | (46) |
+
+<!-- PAGE 172 -->
+
+###### Notes to the Financial Statements
+
+#### 28. LEASES (cont'd)
+
+#### Leases as lessor
+
+The Group leases out its investment properties. The Group has classified these leases as operating leases because they do not transfer substantially all of the risks and rewards incidental to the ownership of the assets.
+
+Rental income from investment properties recognised by the Group during 2025 was £36.6 million (2024: £36.5 million).
+
+The following table sets out a maturity analysis of lease payments, showing the undiscounted lease payments to be received after the reporting date:
+
+|  | Group |  |
+|-|-|-|
+|  | 2025 | 2024 |
+|  | £'000 | £'000 |
+| Less than one year | 38,175 | 37,397 |
+| One to two years | 38,217 | 37,348 |
+| Two to three years | 10,795 | 37,348 |
+| Three to four years | 1,408 | 9,955 |
+| Four to five years | 1,171 | 569 |
+| More than five years | 924 | 1,099 |
+|  | 90,690 | 123,716 |
+
+#### 29. FINANCIAL RATIOS
+
+|  | 2025 | 2024 |
+|-|-|-|
+| Expenses to weighted average net assets <sup>(1)</sup> | 1.86% | 1.80% |
+| Portfolio turnover ratio <sup>(2)</sup> | 2.39% | – |
+
+(1) The annualised ratios are computed in accordance with the guidelines of the Investment Management Association of Singapore. The expenses used in the computation relate to the expenses of the Group, excluding property expenses, interest expense, foreign exchange gains and losses, Unit issue costs and income tax expense of the Group.
+
+(2) The annualised ratios are computed in accordance with the formula stated in the Code on Collective Investment Schemes. The calculation of the portfolio turnover ratio is based on the lower of the total value of purchases or sales of underlying investment properties of the Group expressed as a percentage of average daily net asset value.
+
+### 30. SUBSEQUENT EVENTS
+
+On 5 February 2026, the Group entered into new lease agreements with The Secretary of State of Housing, Communities and Local Government of the United Kingdom for properties that are occupied by the Department for Work and Pensions (“DWP”) (“New Lease Agreements”). The New Lease Agreements provide for additional terms of up to ten years from the existing lease expiry on 31 March 2028, with the aggregate rent remaining at £24.3 million per annum. For leases that are more than five years from 1 April 2028, there will be a rent review on 1 April 2033, the fifth anniversary of the lease, that is based on the UK Consumer Price Index and subject to a minimum increase of 1.0% per year and maximum of 5.0% per year compounded. The leases also include options to renew for a further term of three to five years.
+
+On 5 February 2026, the Group also entered into an Agreement for Capital Incentives with The Secretary of State of Housing, Communities and Local Government of the United Kingdom for a one-time contribution of £9.5 million payable in three tranches over a period of three years. The contribution is expected to be deployed at properties undergoing major asset enhancement initiatives led by the DWP.
+
+<!-- PAGE 173 -->
+
+## Statistics of Unitholdings As at 2 March 2026
+
+### ISSUED AND FULLY PAID UNITS
+
+Issued and Fully Paid-Up Units: 610,285,983 units (voting rights: one vote per unit)
+
+There is only one class of Units in Elite UK REIT.
+
+### DISTRIBUTION OF UNITHOLDINGS
+
+| Size of Unitholdings | Number of Unitholders | % | Number of Units | % |
+|-|-|-|-|-|
+| 1 – 99 | 50 | 1.42 | 2,213 | 0.00 |
+| 100 – 1,000 | 887 | 25.13 | 841,363 | 0.14 |
+| 1,001 – 10,000 | 1,741 | 49.32 | 6,311,653 | 1.03 |
+| 10,001 – 1,000,000 | 830 | 23.51 | 46,845,764 | 7.68 |
+| 1,000,001 and above | 22 | 0.62 | 556,284,990 | 91.15 |
+| <b>Total</b> | <b>3,530</b> | <b>100.00</b> | <b>610,285,983</b> | <b>100.00</b> |
+
+### TWENTY LARGEST UNITHOLDERS
+
+| No. | Name of Unitholders | Number of Units | % |
+|-|-|-|-|
+| 1. | DBSN Services Pte. Ltd. | 136,028,183 | 22.29 |
+| 2. | Citibank Nominees Singapore Pte Ltd | 134,220,526 | 21.99 |
+| 3. | DBS Nominees (Private) Limited | 81,402,691 | 13.34 |
+| 4. | DB Nominees (Singapore) Pte Ltd | 47,999,759 | 7.87 |
+| 5. | CGS International Securities Singapore Pte. Ltd. | 35,141,111 | 5.76 |
+| 6. | Sunway RE Capital Pte Ltd | 34,285,892 | 5.62 |
+| 7. | HSBC (Singapore) Nominees Pte Ltd | 14,982,740 | 2.46 |
+| 8. | Raffles Nominees (Pte.) Limited | 11,535,389 | 1.89 |
+| 9. | OCBC Securities Private Limited | 10,332,033 | 1.69 |
+| 10. | ABN AMRO Clearing Bank N.v. | 8,503,594 | 1.39 |
+| 11. | Phillip Securities Pte Ltd | 6,507,678 | 1.07 |
+| 12. | United Overseas Bank Nominees (Private) Limited | 6,082,185 | 1.00 |
+| 13. | Ng Poh Cheng | 5,997,710 | 0.98 |
+| 14. | BNP Paribas Nominees Singapore Pte. Ltd. | 5,427,320 | 0.89 |
+| 15. | UOB Kay Hian Private Limited | 3,513,364 | 0.58 |
+| 16. | Maybank Securities Pte. Ltd. | 3,117,544 | 0.51 |
+| 17. | Chin Phak Lin | 2,725,130 | 0.45 |
+| 18. | iFAST Financial Pte. Ltd. | 2,601,586 | 0.43 |
+| 19. | BPSS Nominees Singapore (Pte.) Ltd. | 2,507,320 | 0.41 |
+| 20. | Tiger Brokers (Singapore) Pte. Ltd. | 1,225,707 | 0.20 |
+|  | <b>Total</b> | <b>554,137,462</b> | <b>90.82</b> |
+
+<!-- PAGE 174 -->
+
+## Statistics of Unitholdings
+
+As at 2 March 2026
+
+### SUBSTANTIAL UNITHOLDERS' UNITHOLDINGS AS AT 2 MARCH 2026
+
+(As recorded in the Register of Substantial Unitholders' Unitholdings)
+
+| Name of Substantial Unitholders | No. of Units<br>Direct Interest | No. of Units<br>Deemed Interest |
+|-|-|-|
+| HLGT VCC (Acting for the Purpose of Diversified Portfolio) | 44,729,446 | – |
+| Tan Hai Seng Benjamin and Tan Hai Peng Micheal (in Joint Names) | – | 44,729,446 <sup>(1)</sup> |
+| Tan Hai Peng Micheal | 183,361 | 54,937,079 <sup>(2)</sup> |
+| Tan Hai Seng Benjamin | – | 54,661,986 <sup>(3)</sup> |
+| Tan Yong Hiang Priscilla | – | 44,729,446 <sup>(4)</sup> |
+| Seow Whye Pheng | – | 44,729,446 <sup>(4)</sup> |
+| Seow Hywe Min | – | 44,729,446 <sup>(4)</sup> |
+| Seow Whye Teck | – | 44,729,446 <sup>(4)</sup> |
+| Seow Hwye Tiong | – | 44,729,446 <sup>(4)</sup> |
+| Sunway RE Capital Pte. Ltd. | 69,168,696 | – |
+| Sunway City Sdn. Bhd. | – | 69,168,696 <sup>(5)</sup> |
+| Sunway Berhad | – | 69,168,696 <sup>(5)</sup> |
+| Sungei Way Corporation Sdn. Bhd. | – | 69,168,696 <sup>(5)</sup> |
+| Active Equity Sdn. Bhd. | – | 69,168,696 <sup>(5)</sup> |
+| Tan Sri Sir Dr Jeffrey Cheah Fook Ling KBE AO | – | 69,168,696 <sup>(5)</sup> |
+| Partner Reinsurance Asia Pte. Ltd. | 34,813,235 | – |
+| Partner Reinsurance Company Ltd. | 46,614,861 | – |
+| Partner Reinsurance Europe SE | 50,988,000 | – |
+| PartnerRe Holdings SA | – | 50,988,000 <sup>(6)</sup> |
+| PartnerRe Holdings Europe Limited | – | 50,988,000 <sup>(6)</sup> |
+| PartnerRe Ltd. | – | 132,416,096 <sup>(6)</sup> |
+| Cov  a Cooperations S.A. | – | 132,416,096 <sup>(7)</sup> |
+| Cov  a | – | 132,416,096 <sup>(7)</sup> |
+| MMA IARD Assurances Mutuelles | – | 132,416,096 <sup>(7)</sup> |
+| MMA Vie Assurances Mutuelles | – | 132,416,096 <sup>(7)</sup> |
+| AM-GMF | – | 132,416,096 <sup>(7)</sup> |
+| MAAF Assurances | – | 132,416,096 <sup>(7)</sup> |
+| MMAF Sant   | – | 132,416,096 <sup>(7)</sup> |
+
+Notes:
+
+(1) Mr Tan Hai Seng Benjamin and Mr Tan Hai Peng Micheal are the joint executors of the estate of Mr Tan Thuan Teck ("Estate"). The Estate is a member of HLGT VCC and is therefore, deemed to be interested in the 44,729,446 Units held by HLGT VCC.
+
+(2) Tan Hai Peng Micheal ("Micheal") holds 46.63% of the share capital of Teck Lee Holdings Pte. Ltd. ("TLH"). TLH holds 82.49% of the share capital of Ho Lee Group Pte. Ltd. ("HLG"). HLG holds 50% of the share capital of Elite Partners Holdings Pte. Ltd. ("EPH"), which holds 5,924,795 Units in Elite UK REIT. EPH holds 83% of the share capital of Elite UK REIT Management Pte. Ltd. (the "Manager"), which holds 4,007,745 Units in Elite UK REIT. Therefore, Micheal is deemed to be interested in 9,932,540 Units held by EPH and the Manager.
+
+HLGT VCC holds 44,729,446 Units. Micheal is a member of HLGT VCC and is therefore deemed to be interested in the 44,729,446 Units held by HLGT VCC.
+
+Micheal is also deemed interested in the 275,093 Units held by his wife, Kan Phui Lin.
+
+(3) Mr Tan Hai Seng Benjamin holds 46.63% of the share capital of TLH. TLH holds 82.49% of the share capital of HLG. HLG holds 50% of the share capital of EPH, which holds 5,924,795 Units in Elite UK REIT. EPH holds 83% of the share capital of the Manager, which holds 4,007,745 Units in Elite UK REIT. Therefore, Mr Tan Hai Seng Benjamin is deemed to be interested in 9,932,540 Units held by EPH and the Manager.
+
+HLGT VCC holds 44,729,446 Units. Tan Hai Seng Benjamin is a member of HLGT VCC and is therefore, deemed to be interested in the 44,729,446 Units held by HLGT VCC.
+
+(4) Ms Tan Yong Hiang Priscilla, Mr Seow Whye Pheng, Mr Seow Hwye Min, Mr Seow Whye Teck and Seow Hwye Tiong are members of HLGT VCC. Accordingly, each of Ms Tan Yong Hiang Priscilla, Mr Seow Whye Pheng, Mr Seow Hwye Min, Mr Seow Whye Teck and Seow Hwye Tiong are deemed to be interested in the Units held by HLGT VCC.
+
+<!-- PAGE 175 -->
+
+(5) Sunway RE Capital Pte. Ltd. ("Sunway RE") is 100% owned by Sunway City Sdn. Bhd. ("SCSB"). SCSB is 100% owned by Sunway Berhad. Active Equity Sdn. Bhd. ("AESB") and its wholly-owned subsidiary, Sungei Way Corporation Sdn. Bhd. ("SWCSB") hold a total shareholding of 50.29% in the Company as at 31 December 2025.
+
+Tan Sri Dato' Seri Dr. Jeffrey Cheah Fook Ling holds 60% interest each in AESB.
+
+SCSB, Sunway Berhad, SWCSB, AESB and Tan Sri Dato' Seri Dr Jeffrey Cheah Fook Ling are therefore deemed interested in the Units held by Sunway RE by virtue of Section 4 of the Securities and Futures Act 2001 of Singapore.
+
+(6) Partner Reinsurance Company Ltd. ("PRCL") and Partner Reinsurance Asia Pte. Ltd. ("PRA") hold 46,614,861 and 34,813,235 units in the REIT respectively. PRCL and PRA are wholly-owned subsidiaries of PartnerRe Ltd. ("PR").
+
+Partner Reinsurance Europe SE is wholly owned by PartnerRe Holdings SA ("PRH"). PRH is wholly owned by PartnerRe Holdings Europe Limited ("PRHE"). PRHE is wholly owned by PR.
+
+(7) Covéa Cooperations S.A. ("Covéa Cooperations") owns 100% PR. Covéa is the ultimate holding company of Covéa Cooperations through the following entities:
+
+(a) MMA IARD Assurances Mutuelles holds 21.528% of the voting rights of Covéa Coopérations and, together with MMA Vie Assurances Mutuelles (with which it acts in concert), holds 33.3% of the voting rights of Covéa Coopérations.
+
+(b) MMA Vie Assurances Mutuelles holds 11.805% of the voting rights of Covéa Coopérations and, together with MMA IARD Assurances Mutuelles (with which it acts in concert), holds 33.3% of the voting rights of Covéa Coopérations.
+
+(c) AM-GMF holds 33.3% of the voting rights of Covéa Coopérations.
+
+(d) MAAF Santé holds 0.173% of the voting rights of Covéa Coopérations and, together with MAAF Assurances (with which it acts in concert), holds 33.3% of the voting rights of Covéa Coopérations.
+
+(e) MAAF Assurances holds 33.161% of the voting rights of Covéa Coopérations and, together with MAAF Santé (with which it acts in concert), holds 33.3% of the voting rights of Covéa Coopérations.
+
+### UNITHOLDINGS OF DIRECTORS OF THE MANAGER AS AT 21 JANUARY 2026 (As recorded in the Register of Directors' Unitholdings)
+
+| Name of Directors | No. of Units<br>Direct Interest | No. of Units<br>Deemed Interest |
+|-|-|-|
+| David Lim Teck Leong | 770,566 | – |
+| Tan Hai Peng Micheal | 183,361 | 54,937,079 <sup>(1)</sup> |
+| Victor Song Chern Chean | – | 9,932,540 <sup>(2)</sup> |
+| Tan Dah Ching | 43,181 | 1,112,371 <sup>(3)</sup> |
+| Yezdi Phiroze Chinoy | 32,146 | – |
+| Nicholas David Ashmore | – | – |
+| Koo Tsai Kee | – | – |
+
+Notes:
+
+(1) Tan Hai Peng Micheal ("Micheal") holds 46.63% of the share capital of Teck Lee Holdings Pte. Ltd. ("TLH"). TLH holds 82.49% of the share capital of Ho Lee Group Pte. Ltd. ("HLG"). HLG holds 50% of the share capital of Elite Partners Holdings Pte. Ltd. ("EPH"), which holds 5,924,795 Units in Elite UK REIT. EPH holds 83% of the share capital of Elite UK REIT Management Pte. Ltd. (the "Manager"), which holds 4,007,745 Units in Elite UK REIT. Therefore, Micheal is deemed to be interested in 9,932,540 Units held by EPH and the Manager.
+
+HLGT VCC holds 44,729,446 Units. Micheal is a member of HLGT VCC and is therefore deemed to be interested in the 44,729,446 Units held by HLGT VCC.
+
+Micheal is also deemed interested in the 275,093 Units held by his wife, Kan Phui Lin.
+
+(2) Victor Song Chern Chean holds 22.5% of the share capital of EPH, which holds 5,924,795 Units in Elite UK REIT. EPH holds 83% of the share capital of the Manager, which holds 4,007,745 Units in Elite UK REIT. Therefore, Victor Song Chern Chean is deemed to be interested in 9,932,540 Units held by EPH and the Manager.
+
+(3) Tan Dah Ching holds 50% of the share capital of Jin Leng Investments Pte. Ltd. ("JLI"), which holds 1,112,371 Units in Elite UK REIT. Therefore, Tan Dah Ching is deemed to be interested in 1,112,371 Units held by JLI.
+
+### FREE FLOAT
+
+*Disclosure pursuant to Rule 1207(9)(e) of the SGX-ST Listing Manual*
+
+Based on information available to the Manager as at 2 March 2026, approximately 57.6% of the Units in Elite UK REIT are held in public hands. Accordingly, Rule 723 of the SGX-ST Listing Manual has been complied with.
+
+<!-- PAGE 176 -->
+
+## Notice of Annual General Meeting
+
+### ELITE UK REIT
+
+(a real estate investment trust constituted on 7 June 2018 under the laws of the Republic of Singapore)  
+(Managed by Elite UK REIT Management Pte. Ltd.)
+
+NOTICE IS HEREBY GIVEN that the Annual General Meeting (“**AGM**” or “**Meeting**”) of the holders of units of Elite UK REIT (the “**Unitholders**”) will be convened and held **in a wholly physical format** at Rendezvous Hotel Singapore, 9 Bras Basah Road, Singapore 189559 on Thursday, 23 April 2026 at 10.30 a.m. (Singapore time) to transact the following business:
+
+### (A) AS ORDINARY BUSINESS
+
+- |  |  |  |
+|-|-|-|
+| 1. | To receive and adopt the Report of Perpetual (Asia) Limited, as trustee of Elite UK REIT (the “ <b>Trustee</b> ”), the Statement by Elite UK REIT Management Pte. Ltd., as manager of Elite UK REIT (the “ <b>Manager</b> ”) and the Audited Financial Statements of Elite UK REIT for the financial year ended 31 December 2025 together with the Auditors’ Report thereon. | <b>(Ordinary Resolution 1)</b> |
+| 2. | To re-appoint KPMG LLP as Auditors of Elite UK REIT and to hold office until the conclusion of the next AGM and to authorise the Manager to fix their remuneration. | <b>(Ordinary Resolution 2)</b> |
+
+### (B) AS SPECIAL BUSINESS
+
+To consider and if thought fit, to pass, with or without any modifications, the following resolutions as Ordinary Resolutions:
+
+- |  |  |  |
+|-|-|-|
+| 3. | <b>General Mandate for the Issue of New Units and/or Convertible Securities</b> | <b>(Ordinary Resolution 3)</b> |
+|-|-|-|
+
+That authority be given to the Manager to:
+
+- |  |  |  |
+|-|-|-|
+| (a) | (i) | issue units in Elite UK REIT (“ <b>Units</b> ”) whether by way of rights, bonus or otherwise; and/or |
+|  | (ii) | make or grant offers, agreements or options (collectively, “ <b>Instruments</b> ”) that might or would require Units to be issued, including but not limited to the creation and issue of (as well as adjustments to) securities, options, warrants, debentures or other instruments convertible into Units, |
+|  |  | at any time and upon such terms and conditions and for such purposes and to such persons as the Manager may in its absolute discretion deem fit; and |
+| (b) |  | issue Units in pursuance of any Instrument made or granted by the Manager while this Resolution was in force (notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time such Units are issued), |
+
+provided that:
+
+- |  |  |
+|-|-|
+| (1) | the aggregate number of Units to be issued pursuant to this Resolution (including Units to be issued in pursuance of the Instruments made or granted pursuant to this Resolution) shall not exceed fifty per cent (50.0%) of the total number of issued Units (excluding treasury Units, if any) (as calculated in accordance with sub-paragraph (2) below), of which the aggregate number of Units to be issued other than on a pro rata basis to existing Unitholders (including Units to be issued in pursuance of Instruments to be made or granted pursuant to this Resolution) shall not exceed twenty per cent (20.0%) of the total number of issued Units (excluding treasury Units, if any) (as calculated in accordance with sub-paragraph (2) below); |
+| (2) | subject to such manner of calculation as may be prescribed by the Singapore Exchange Securities Trading Limited (the “ <b>SGX-ST</b> ”), for the purpose of determining the aggregate number of Units and Instruments that may be issued under sub-paragraph (1) above, the total number of issued Units and Instruments shall be based on the total number of issued Units (excluding treasury Units, if any) at the time of the passing of this Resolution, after adjusting for: |
+|  | (a) any new Units arising from the conversion or exercise of the Instruments; and |
+|  | (b) any subsequent bonus issue, consolidation or subdivision of Units; |
+
+<!-- PAGE 177 -->
+
+- (3) in exercising the authority conferred by this Resolution, the Manager shall comply with the provisions of the Listing Manual of the SGX-ST (the “**Listing Manual**”) for the time being in force (unless such compliance has been waived by the SGX-ST) and the Trust Deed constituting Elite UK REIT (as amended) (“**Trust Deed**”) for the time being in force (unless otherwise exempted or waived by the Monetary Authority of Singapore);
+- (4) unless revoked or varied by Unitholders in a general meeting of Elite UK REIT, the authority conferred by this Resolution shall continue in force (i) until (a) the conclusion of the next AGM of Elite UK REIT or (b) the date by which the next AGM of Elite UK REIT is required by the applicable laws and regulations or the Trust Deed to be held, whichever is earlier or (ii) in the case of Units to be issued in pursuance of the Instruments, made or granted pursuant to this Resolution, until the issuance of such Units in accordance with the terms of the Instruments;
+- (5) where the terms of the issue of the Instruments provide for adjustment to the number of Instruments or Units into which the Instruments may be converted in the event of rights, bonus or other capitalisation issues or any other events, the Manager is authorised to issue additional Instruments or Units pursuant to such adjustment notwithstanding that the authority conferred by this Resolution may have ceased to be in force at the time the Instruments or Units are issued; and
+- (6) the Manager and the Trustee be and are hereby severally authorised to complete and do all such acts and things (including executing all such documents as may be required) as the Manager or, as the case may be, the Trustee may consider expedient or necessary or in the interest of Elite UK REIT to give effect to the authority conferred by this Resolution.
+
+(Please see Explanatory Note)
+
+### 4. Unit Buy-Back Mandate
+
+**(Ordinary Resolution 4)**
+
+That:
+
+- (a) the exercise of all the powers of the Manager to repurchase issued Units for and on behalf of Elite UK REIT not exceeding in aggregate the Maximum Limit (as hereafter defined), at such price or prices as may be determined by the Manager from time to time up to the Maximum Price (as hereafter defined), whether by way of:
+ - (i) market repurchase(s) on the SGX-ST and/or, as the case may be, such other stock exchange for the time being on which the Units may be listed and quoted; and/or
+ - (ii) off-market repurchase(s) (which are not market repurchase(s)) in accordance with any equal access scheme(s) as may be determined or formulated by the Manager as it considers fit in accordance with the Trust Deed,
+
+and otherwise in accordance with all the applicable laws and regulations, including but not limited to the Trust Deed and the Listing Manual as may for the time be applicable, be and is hereby authorised and approved generally and unconditionally (the “**Unit Buy-Back Mandate**”);
+- (b) (unless revoked or varied by the Unitholders in a general meeting) the authority conferred on the Manager pursuant to the Unit Buy-Back Mandate may be exercised by the Manager at any time and from time to time during the period commencing from the date of the passing of this Resolution and expiring on the earliest of:
+ - (i) the date on which the next annual general meeting of Elite UK REIT is held;
+ - (ii) the date by which the next annual general meeting of Elite UK REIT is required by applicable laws and regulations or the provisions of the Trust Deed to be held; or
+ - (iii) the date on which repurchases of Units by the Manager pursuant to the Unit Buy-Back Mandate are carried out to the full extent mandated;
+
+<!-- PAGE 178 -->
+
+## Notice of Annual General Meeting
+
+(c) in this Resolution:
+
+**“Average Closing Price”** means the average of the closing market prices of the Units over the last five Market Days, on which transactions in the Units were recorded, immediately preceding the date of the market repurchase or, as the case may be, the date of the making of the offer pursuant to the off-market repurchase, and deemed to be adjusted for any corporate action that occurs during the relevant five Market Days and on the date of the market repurchase;
+
+**“date of the making of the offer”** means the date on which the Manager makes an offer for an off-market repurchase, stating therein the repurchase price (which shall not be more than the Maximum Price for an off-market repurchase) for each Unit and the relevant terms of the equal access scheme for effecting the off-market repurchase;
+
+**“Market Day”** means a day on which the SGX-ST and/or, as the case may be, such other stock exchange for the time being on which the Units may be listed and quoted, is open for trading in securities;
+
+**“Maximum Limit”** means the number of Units representing 10.0% of the total number of issued Units as at the date of the passing of this Resolution; and
+
+**“Maximum Price”** in relation to a Unit to be repurchased, means the repurchase price (excluding brokerage, stamp duty, commission, applicable goods and services tax and other related expenses) which shall not exceed 105.0% of the Average Closing Price of the Units for both a market repurchase and an off-market repurchase;
+
+(d) the Manager and the Trustee be and are hereby severally authorised to complete and do all such acts and things (including executing all such documents as may be required) as the Manager, such Director or, as the case may be, the Trustee may consider expedient or necessary or in the interests of Elite UK REIT to give effect to the transactions contemplated and/or authorised by this Resolution.
+
+(Please see Explanatory Note)
+
+BY ORDER OF THE BOARD OF DIRECTORS
+
+**ELITE UK REIT MANAGEMENT PTE. LTD.**
+
+as manager of Elite UK REIT
+
+(Company Registration No. 201925309R)
+
+Josephine Toh  
+Company Secretary
+
+Singapore  
+25 March 2026
+
+<!-- PAGE 179 -->
+
+### Explanatory Notes:
+
+### Ordinary Resolution 3
+
+The Ordinary Resolution 3 above, if passed, will empower the Manager from the date of this AGM until (i) the conclusion of the next AGM of the Unitholders of Elite UK REIT, or (ii) the date by which the next AGM of the Unitholders of Elite UK REIT is required by the applicable laws and regulations or the Trust Deed to be held, or (iii) such authority is varied or revoked by the Unitholders in a general meeting, whichever is the earliest, to issue Units, make or grant Instruments and to issue Units pursuant to such Instruments, up to a number not exceeding, in total, fifty per cent (50.0%) of the total number of issued Units (excluding treasury Units, if any), with a sub-limit of twenty per cent (20.0%) for issues other than on a pro rata basis to Unitholders.
+
+For the purpose of determining the aggregate number of Units that may be issued, the total number of issued Units will be calculated based on the total number of issued Units (excluding treasury Units, if any) at the time this Ordinary Resolution 3 is passed, after adjusting for new Units arising from the conversion and any subsequent bonus issue, consolidation or subdivision of Units.
+
+### Ordinary Resolution 4
+
+Ordinary Resolution 4, if passed, will empower the Manager from the date of the AGM of Elite UK REIT until (i) the date on which the next annual general meeting of Elite UK REIT is held, (ii) the date by which the next annual general meeting of Elite UK REIT is required by applicable laws and regulations or the provisions of the Trust Deed to be held, or (iii) the date on which the repurchases of Units pursuant to the Unit Buy-Back Mandate are carried out to the full extent mandated, whichever is the earliest, to exercise all the powers to repurchase issued Units for and on behalf of Elite UK REIT not exceeding in aggregate 10.0% of the total number of Units as at the date of the passing of Ordinary Resolution 4, whether by way of market repurchase(s) or off-market repurchase(s), on the terms of the Unit Buy-Back Mandate set out in the Letter to Unitholders dated 25 March 2026 (in relation to the proposed Unit Buy-Back Mandate), unless such authority is revoked or varied by the Unitholders in a general meeting.
+
+### Important Notice:
+
+1. A Unitholder who is not a relevant intermediary (as defined in paragraph 2 below) and entitled to attend and vote at the AGM is entitled to appoint one or two proxies to attend and vote in his/her/its stead. A proxy need not be a Unitholder. Where a Unitholder appoints more than one proxy, the appointments shall be invalid unless he/she/it specifies the proportion of his/her/its unitholding (expressed as a percentage of the whole) to be represented by each proxy.
+
+Completion and return of the instrument appointing a proxy(ies) (the “**Proxy Form**”) by a Unitholder will not prevent him/her from attending, speaking and voting at the AGM if he/she so wishes. The appointment of the proxy(ies) for the AGM will be deemed to be revoked if the Unitholder attends the AGM in person and, in such event, the Manager reserves the right to refuse to admit any person or persons appointed under the relevant Proxy Form to the AGM.
+
+2. A Unitholder who is a relevant intermediary and entitled to attend and vote at the AGM is entitled to appoint more than two proxies to attend and vote instead of the Unitholder, but each proxy must be appointed to exercise the rights attached to a different Unit or Units held by such Unitholder. Where such Unitholder appoints more than one proxy, the appointments shall be invalid unless the Unitholder specifies the number of Units in relation to which each proxy has been appointed in the Proxy Form.
+
+“**Relevant intermediary**” means:
+
+- (i) a banking corporation licensed under the Banking Act 1970 or a wholly owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds Units in that capacity; or
+ - (ii) a person holding a capital markets services licence to provide custodial services for securities under the Securities and Futures Act 2001 and who holds Units in that capacity.
+3. The AGM will be held in a wholly physical format at Rendezvous Hotel Singapore, 9 Bras Basah Road, Singapore 189559 on **Thursday, 23 April 2026 at 10.30 a.m. (Singapore time). There will be no option to participate virtually.** Printed copies of this Notice of AGM dated 25 March 2026 (the “**Notice of AGM**”) and the Proxy Form will be sent to Unitholders. This Notice of AGM and Proxy Form will also be made available on Elite UK REIT’s website at the URL [https://investor.eliteukreit.com/aggm\\_egm.html](https://investor.eliteukreit.com/aggm_egm.html) and on SGXNET at the URL <https://www.sgx.com/securities/company-announcements>.
+
+<!-- PAGE 180 -->
+
+## Notice of Annual General Meeting
+
+### 4. Arrangements for conduct of the AGM
+
+Arrangements relating to the conduct of the AGM, including:
+
+- (a) attending the AGM in person;
+- (b) submitting questions related to the resolutions to be tabled for approval at the AGM, in advance of the AGM or at the AGM itself; and/or
+- (c) voting at the AGM by the Unitholder (a) in person or (b) by his/her/its duly appointed proxy(ies),
+
+are set out in this Notice of AGM. Any reference to a time of day is made by reference to Singapore time. Unitholders, including Supplementary Retirement Scheme (“**SRS**”) investors, or, where applicable, their appointed proxy(ies) who will be attending the AGM in person should bring along their NRIC/passport so as to enable the verification of their identity on the day of the AGM. Registration will commence at **9.30 a.m. (Singapore time) on Thursday, 23 April 2026**.
+
+### 5. Question and answer and AGM minutes
+
+Unitholders, including SRS investors, or, where applicable, their appointed proxy(ies) will be able to submit questions related to the resolutions to be tabled for approval at the AGM to the Chairman of the AGM, at the AGM.
+
+Unitholders, including SRS investors, may also submit questions related to the resolutions to be tabled for approval at the AGM, in advance of the AGM. To do so, all questions must be submitted in the following manner by **8 April 2026**:
+
+- (a) if submitted by post, be deposited at the office of the Unit Registrar, Boardroom Corporate & Advisory Services Pte. Ltd., at 1 Harbourfront Avenue, #14-07 Keppel Bay Tower, Singapore 098632; or
+- (b) if submitted electronically, via email to the Manager at [EliteREIT@boardroomlimited.com](mailto:EliteREIT@boardroomlimited.com)
+
+Unitholders, including SRS investors, who submit questions by post to the Unit Registrar or via email to the Manager must provide the following information:
+
+- (1) the Unitholder’s full name;
+- (2) the Unitholder’s address; and
+- (3) the manner in which the Unitholder holds Units in Elite UK REIT (e.g., via CDP or SRS).
+
+Unitholders are strongly encouraged to submit their questions via email.
+
+The Manager will endeavour to address all substantial and relevant questions received by it in the manner set out above by publishing the responses to such questions on Elite UK REIT’s website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html) and on SGXNET at the URL <https://www.sgx.com/securities/company-announcements> prior to the AGM by **17 April 2026**. Where substantially similar questions are received, the Manager will consolidate such questions and consequently not all questions may be individually addressed.
+
+Any subsequent clarifications sought, or substantial and relevant follow-up questions (which are related to the resolutions to be tabled for approval at the AGM) received after the 8 April 2026 submission deadline which have not already been addressed prior to the AGM, as well as those substantial and relevant questions received at the AGM itself, will be addressed during the AGM. Where substantially similar questions are received, the Manager will consolidate such questions and consequently, not all questions may be individually addressed.
+
+The Manager will publish the minutes of the AGM on Elite UK REIT’s website and on SGXNET within one month from the date of the AGM, and the minutes will include the responses to the substantial and relevant questions received from Unitholders which are addressed during the AGM.
+
+<!-- PAGE 181 -->
+
+### 6. Voting, or appointing proxy(ies) to vote, at the AGM
+
+A Unitholder who wishes to exercise his/her/its voting rights at the AGM may: (a) vote at the AGM in person or (b) appoint proxy(ies) to vote on his/her/its behalf at the AGM. Upon their registration at the AGM venue, Unitholders will be provided with a handheld device for electronic voting at the AGM.
+
+A Unitholder who wishes to submit a Proxy Form must complete the accompanying Proxy Form, before submitting it in the manner set out below. Printed copies of the Proxy Form will be sent to Unitholders. The Proxy Form may also be accessed at Elite UK REIT's website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html), and will also be made available on SGXNET at the URL <https://www.sgx.com/securities/company-announcements>.
+
+Where a Unitholder appoints proxy(ies), he/she/it may give specific instructions as to voting, or abstentions from voting, in respect of the resolutions in the Proxy Form, failing which the proxy(ies) will vote or abstain from voting at his/her/their discretion, as he/she/they may on any other matter arising at the AGM.
+
+### 7. The Proxy Form must be submitted to the Manager c/o Elite UK REIT's Unit Registrar, Boardroom Corporate & Advisory Services Pte. Ltd., in the following manner:
+
+- (a) if submitted by post, by completing and signing the Proxy Form, and lodging the same at the Unit Registrar's office at **Boardroom Corporate & Advisory Services Pte. Ltd. at 1 Harbourfront Avenue, #14-07 Keppel Bay Tower, Singapore 098632**; or
+- (b) if submitted electronically, by completing and signing the Proxy Form, and attaching and sending a clear PDF copy of the same via email to the Unit Registrar at [EliteREIT@boardroomlimited.com](mailto:EliteREIT@boardroomlimited.com),
+
+in either case, by **10.30 a.m. (Singapore time) on Monday, 20 April 2026**, being 72 hours before the time fixed for holding the AGM.
+
+### 8. Relevant intermediaries
+
+Persons who hold Units through relevant intermediaries, other than SRS investors, and who wish to participate in the AGM should contact the relevant intermediary through which they hold such Units as soon as possible. Persons who hold Units through relevant intermediaries, other than SRS investors, may (i) vote at the AGM if they are appointed as proxies by their respective relevant intermediaries; or (ii) specify their voting instructions to their respective SRS Operators / arrange for their votes to be submitted with their respective relevant intermediaries, and should contact their respective relevant intermediaries as soon as possible in order for the necessary arrangements to be made.
+
+In addition, SRS investors may (a) vote at the AGM if they are appointed as proxies by their respective SRS Operators, and should contact their respective SRS Operators if they have any queries regarding their appointment as proxies; or (b) specify their voting instructions to their respective SRS Operators / arrange for their votes to be submitted with their respective SRS Operators, and should approach their respective SRS Operators by **10.30 a.m. (Singapore time) on Monday, 13 April 2026**, being at least seven working days before the date of the AGM, to ensure their votes are submitted.
+
+### 9. The Annual Report for the financial year ended 31 December 2025 (the "Annual Report 2025") and the Letter to Unitholders dated 25 March 2026 (in relation to the proposed Unit Buy-Back Mandate) (the "UBB Letter") have been uploaded on SGXNET on 25 March 2026 at the URL <https://www.sgx.com/securities/company-announcements> and may be accessed at Elite UK REIT's website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html). Printed copies of the Annual Report 2025 and the UBB Letter will not be sent to Unitholders unless requested for by a Unitholder submitting a request via email to Elite UK REIT's Unit Registrar at [EliteREIT@boardroomlimited.com](mailto:EliteREIT@boardroomlimited.com) or by post to the Unit Registrar's office by **8 April 2026**. The following information must be provided:
+
+- (a) the Unitholder's full name; and
+- (b) the Unitholder's address
+
+A printed copy of the Annual Report 2025 and/or UBB Letter will then be sent to the address specified by the Unitholder at his/her/its own risk.
+
+### 10. Important reminder:
+
+Unitholders should check Elite UK REIT's website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html) and SGXNET at the URL <https://www.sgx.com/securities/company-announcements> for the latest updates on the status of the AGM.
+
+<!-- PAGE 182 -->
+
+## Notice of Annual General Meeting
+
+### Personal Data Privacy:
+
+By either (a) attending the AGM or (b) submitting an instrument appointing proxy(ies) to attend, speak and vote at the AGM and/or any adjournment thereof; and/or (c) submitting any question in advance of, or at, the AGM, a Unitholder:
+
+- (i) consents to the collection, use and disclosure of the Unitholder's personal data by Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) for the following purposes:
+ - (1) the processing, administration and analysis by Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) of instruments appointing proxy(ies) for the AGM (including any adjournment thereof);
+ - (2) the addressing of questions received from Unitholders in advance of or at the AGM and, if necessary, the following up with the relevant Unitholders in relation to such questions;
+ - (3) the preparation and compilation of the attendance lists, proxy lists, minutes and other documents relating to the AGM (including any adjournment thereof); and
+ - (4) in order for Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) to comply with any applicable laws, listing rules, take-over rules, regulations and/or guidelines,
+ (collectively, the "**Purposes**");
+- (ii) warrants that where the Unitholder discloses the personal data of the Unitholder's proxy(ies) and/or representative(s) to Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers), the Unitholder has obtained the prior consent of such proxy(ies) and/or representative(s) for the collection, use and disclosure by Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) of the personal data of such proxy(ies) and/or representative(s) for the Purposes;
+- (iii) agrees to provide the Manager and the Trustee with written evidence of such prior consent upon reasonable request;
+- (iv) agrees that the Unitholder will indemnify Elite UK REIT, the Manager and the Trustee in respect of any penalties, liabilities, claims, demands, losses and damages as a result of the Unitholder's breach of warranty; and
+- (v) agrees and consents to such photographic, sound and/or video recordings of the AGM as may be made by Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) for record keeping and to ensure the accuracy of the minutes prepared of the AGM. Accordingly, the personal data of the Unitholder (such as his/her name, his/her presence at the AGM and any questions he/she may raise or motions he/she may propose/second) may be recorded by Elite UK REIT, the Manager and the Trustee (or their respective agents or service providers) for such purpose.
+
+<!-- PAGE 183 -->
+
+## Proxy Form
+
+## ANNUAL GENERAL MEETING
+
+(Please see notes overleaf before completing this Form)
+
+### ELITE UK REIT
+
+(a real estate investment trust constituted on 7 June 2018 under the laws of the Republic of Singapore)
+
+### Note
+
+This instrument appointing proxy(ies) ("**Proxy Form**") has been made available on SGXNET at the URL <https://www.sgx.com/securities/company-announcements> and may be accessed at Elite UK REIT's website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html). Printed copies of this Proxy Form will be sent to Unitholders of Elite UK REIT ("**Unitholders**").
+
+###### Personal data privacy
+
+By submitting an instrument appointing a proxy(ies), Unitholders accepts and agrees to the personal data privacy terms set out in the Notice of Annual General Meeting dated 25 March 2026 ("**Notice of AGM**").
+
+#### IMPORTANT
+
+- The Annual General Meeting ("**AGM**") will be held in a wholly physical format at Rendezvous Hotel Singapore, 9 Bras Basah Road, Singapore 189559. **There will be no option for Unitholders to participate virtually.** The Notice of AGM and the Proxy Form will be available through electronic means via publication on Elite UK REIT's website at the URL [https://investor.eliteukreit.com/agm\\_egm.html](https://investor.eliteukreit.com/agm_egm.html) and on the SGXNET at the URL <https://www.sgx.com/securities/company-announcements>. Printed copies of the Notice of AGM and the Proxy Form will be sent to Unitholders. However, printed copies of the Annual Report 2025 will **not** be sent to Unitholders. Any Unitholder who wishes to receive printed copies of the Annual Report 2025 should submit his/her/its request via the request form or via email to the Unit Registrar by 8 April 2026. **Please refer to the Notice of AGM for details of the arrangements relating to the conduct of the AGM.**
+- This Proxy Form is for use by Unitholders wishing to appoint a proxy(ies) for the AGM. Please read the notes overleaf which contain instructions on, inter alia, the appointment of a proxy(ies).
+- This Proxy Form is not valid for use and shall be ineffective for all intents and purposes if used or purported to be used by investors holding Units through a relevant intermediary and SRS investors who hold Units through SRS Operators. Unitholders holding Units through relevant intermediaries who wish to participate / vote in the AGM should contact their respective relevant intermediary as soon as possible in order for the necessary arrangements to be made for their participation in the AGM. SRS investors (a) may vote at the AGM if they are appointed as proxies by their respective SRS Operators, and should contact their respective SRS Operators as soon as practicable if they have any queries regarding their appointment as proxies; or (b) may specify their voting instructions to their respective SRS Operators / arrange for their votes to be submitted with their respective SRS Operators, and should approach their respective SRS Operators by **10.30 a.m. (Singapore time) on Monday, 13 April 2026**, being seven (7) working days before the date of the AGM, to ensure their votes are submitted.
+- Capitalised terms not otherwise defined herein shall have the meanings ascribed to them in the Notice of AGM.
+
+I/We, \_\_\_\_\_ (Name)
+
+\_\_\_\_\_ (NRIC/Passport Number/Company Registration Number)
+
+of \_\_\_\_\_ (Address)
+
+being a Unitholder/Unitholders of Elite UK REIT, hereby appoint the following person(s):
+
+| Name | NRIC/Passport No. | Email address | Proportion of Unitholdings |  |
+|-|-|-|-|-|
+|  |  |  | No. of Units | % |
+| Address |  |  |  |  |
+
+\* and/or
+
+| Name | NRIC/Passport No. | Email address | Proportion of Unitholdings |  |
+|-|-|-|-|-|
+|  |  |  | No. of Units | % |
+| Address |  |  |  |  |
+
+or, both of whom failing, the **Chairman of the AGM**, as \*my/our \*proxy/proxies to attend, speak and vote for \*me/us on \*my/our behalf at the AGM of Elite UK REIT to be held in a wholly physical format at Rendezvous Hotel Singapore, 9 Bras Basah Road, Singapore 189559, on **Thursday, 23 April 2026 at 10.30 a.m. (Singapore time)** and at any adjournment thereof.
+
+\*I/We direct \*my/our \*proxy/proxies to vote for or against, or abstain from voting on, the resolutions to be proposed at the AGM as indicated hereunder. If no specific direction as to voting is given, or in the event of any other matter arising at the AGM and at any adjournment thereof, \*my/our \*proxy/proxies will vote or abstain from voting at \*his/her/their discretion.
+
+| No. | Ordinary Resolutions | For** | Against** | Abstain** |
+|-|-|-|-|-|
+| ORDINARY BUSINESS |  |  |  |  |
+| 1. | To receive and adopt the Report of the Trustee, the Statement by the Manager, and the Audited Financial Statements of Elite UK REIT for the financial year ended 31 December 2025 together with the Auditors' Report thereon. |  |  |  |
+| 2. | To re-appoint KPMG LLP as Auditors of Elite UK REIT and to hold office until the conclusion of the next AGM and to authorise the Manager to fix their remuneration. |  |  |  |
+| SPECIAL BUSINESS |  |  |  |  |
+| 3. | To authorise the Manager to issue new Units and to make or grant convertible instruments. |  |  |  |
+| 4. | To approve the Unit Buy-Back Mandate. |  |  |  |
+
+\* Delete where inapplicable
+
+\*\* Voting will be conducted by poll. If you wish to exercise all your votes "For" or "Against" the resolutions, please tick (✓) within the "For" or "Against" box provided. Alternatively, if you wish to exercise your votes both "For" and "Against" the resolutions, please indicate the number of votes "For" or "Against" in the relevant boxes provided. If you wish your proxy(ies) to abstain from voting on the resolutions, please tick (✓) within the "Abstain" box provided. Alternatively, please indicate the number of Units that your proxy(ies) is directed to vote "For" or "Against", or "Abstain" in the relevant boxes provided.
+
+Dated this \_\_\_\_\_ day of \_\_\_\_\_ 2026
+
+Signature(s) of Unitholder(s)/Common Seal of Corporate Unitholder
+
+**IMPORTANT: PLEASE READ THE NOTES TO PROXY FORM ON REVERSE PAGE**
+
+Total Number of Units Held
+
+Glue all sides firmly. Stapling and spot sealing are disallowed.
+
+Glue all sides firmly. Stapling and spot sealing are disallowed.
+
+<!-- PAGE 184 -->
+
+First fold here
+
+Glue all sides firmly. Stapling and spot sealing are disallowed.
+
+Postage will  
+be paid by  
+addressee.  
+For posting in  
+Singapore only.
+
+###### **BUSINESS REPLY SERVICE PERMIT NO. 09568**
+
+![Barcode graphic](e6f4d6cf616642378701b77ec430c917_img.jpg)
+
+Barcode graphic
+
+**ELITE UK REIT MANAGEMENT PTE. LTD.**  
+(as manager of Elite UK REIT)  
+c/o Boardroom Corporate & Advisory Services Pte. Ltd.  
+1 Harbourfront Avenue,  
+#14-07 Keppel Bay Tower,  
+Singapore 098632
+
+Second fold here
+
+#### **IMPORTANT: PLEASE READ THE NOTES TO PROXY FORM BELOW**
+
+### **Notes to the Proxy Form:**
+
+1. A Unitholder who is not a relevant intermediary (as defined herein) is entitled to appoint not more than two proxies to attend, speak and vote at the AGM. Where such Unitholder's instrument appointing a proxy(ies) appoints more than one proxy, the proportion of the unitholding concerned to be represented by each proxy shall be specified in the instrument appointing a proxy(ies).
+2. A Unitholder who is a relevant intermediary is entitled to appoint more than two proxies to attend, speak and vote at the AGM, but each proxy must be appointed to exercise the rights attached to a different unit in Elite UK REIT ("Unit") or Units held by such Unitholder. Where such Unitholder's instrument appointing a proxy(ies) appoints more than two proxies, the number of Units held in relation to which each proxy has been appointed shall be specified in the instrument appointing a proxy(ies).  
+**"Relevant intermediary"** means:
+ - (i) a banking corporation licensed under the Banking Act 1970, or a wholly owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds Units in that capacity; or
+ - (ii) a person holding a capital markets services licence to provide custodial services for securities under the Securities and Futures Act 2001, and who holds Units in that capacity.
+3. This Proxy Form may be accessed at Elite UK REIT's website at the URL [https://investor.eliteukreit.com/aggm\\_egm.html](https://investor.eliteukreit.com/aggm_egm.html), and will also be made available on the SGXNET at the URL <https://www.sgx.com/securities/company-announcements>. Where a Unitholder appoints proxy(ies), he/she/it may give specific instructions as to voting, or abstentions from voting, in respect of a resolution in the Proxy Form, failing which the proxy(ies) will vote or abstain from voting at his/her/ their discretion, as he/she/they may on any other matter arising at the AGM and at any adjournment thereof.
+4. A proxy need not be a Unitholder.
+5. A Unitholder who wishes to submit an instrument of proxy must do so in the following manner:
+ - (a) if submitted by post, by completing and signing the Proxy Form, before lodging it at the office of Elite UK REIT's Unit Registrar's office at **Boardroom Corporate & Advisory Services Pte. Ltd. at 1 Harbourfront Avenue, Keppel Bay Tower #14-07, Singapore 098632**; or
+ - (b) if submitted electronically via email, by completing and signing the Proxy Form, before attaching and sending a clear PDF copy of the same via email to Elite UK REIT's Unit Registrar at [EliteREIT@boardroomlimited.com](mailto:EliteREIT@boardroomlimited.com)in either case, by **10.30 a.m. (Singapore time) on Monday, 20 April 2026**, being 72 hours before the time fixed for holding the AGM.  
+**Unitholders are strongly encouraged to submit completed instruments appointing a proxy(ies) electronically via email.**
+
+Third fold here
+
+6. A Unitholder should insert the total number of Units held in the Proxy Form. If the Unitholder has Units entered against his/her/its name in the Depository Register maintained by The Central Depository (Pte) Limited, he/she/it should insert that number of Units. If the Unitholder has Units registered in his/her/its name in the Register of Unitholders of Elite UK REIT, he/she/it should insert that number of Units. If the Unitholder has Units entered against his/her/its name in the said Depository Register and registered in his/her/its name in the Register of Unitholders, he/she/it should insert the aggregate number of Units. If no number is inserted, the Proxy Form will be deemed to relate to all the Units held by the Unitholder.
+7. The Proxy Form must be executed under the hand of the appointor or of his/her attorney duly authorised in writing. Where the Proxy Form is executed by a corporation, it must be executed either under its common seal or under the hand of its attorney or a duly authorised officer.
+8. Completion and return of the instrument appointing a proxy(ies) by a Unitholder will not prevent him/her from attending, speaking and voting at the AGM if he/she so wishes. The appointment of the proxy(ies) for the AGM will be deemed to be revoked if the Unitholder attends the AGM in person and, in such event, the Manager reserves the right to refuse to admit any person or persons appointed under the relevant instrument appointing a proxy(ies) to the AGM.
+9. Where the Proxy Form is signed on behalf of the appointor by an attorney, the power of attorney or other authority under which it is signed (if applicable) or a duly certified copy thereof must (failing previous registration with the Manager), if the Proxy Form is submitted by post, be lodged with the Proxy Form, or, if the Proxy Form is submitted via email, be emailed with the Proxy Form, failing which the Proxy Form may be treated as invalid.
+10. Any reference to a time of day is made by reference to Singapore time.
+11. All Unitholders will be bound by the outcome of the AGM regardless of whether they have attended or voted at the AGM.
+12. On a poll, every Unitholder who is present in person or by proxy shall have one vote for every Unit of which he/she is the Unitholder. There shall be no division of votes between a Unitholder who is present in person and voting at the AGM and his/her proxy(ies). A person entitled to more than one vote need not use all his/her votes or cast them the same way.
+
+#### **GENERAL**
+
+The Manager shall be entitled to reject this Proxy Form if it is incomplete, improperly completed or illegible or where the true intention of the appointor is not ascertainable from the instruction of the appointor specified in the Proxy Form. In the case of Unitholders whose Units are entered against their names in the Depository Register, the Manager may reject any Proxy Form lodged if such Unitholders are not shown to have the corresponding number of Units in Elite UK REIT entered against his/her/ its name in the Depository Register not less than 72 hours before the time appointed for holding the AGM, as certified by CDP to the Manager.
+
+<!-- PAGE 185 -->
+
+## Corporate Information
+
+### THE TRUSTEE
+
+Perpetual (Asia) Limited  
+8 Marina Boulevard  
+#05-02 Marina Bay Financial Centre  
+Singapore 018981  
+Telephone No.: (65) 6908 8203
+
+### MANAGER
+
+Elite UK REIT Management Pte. Ltd.  
+3 Church Street #09-03 Samsung Hub  
+Singapore 049483  
+Telephone No.: (65) 6955 9999  
+Email<sup>1</sup>: enquiry@eliteukreit.com
+
+### BOARD OF DIRECTORS
+
+*Chairman and Independent  
+Non-Executive Director*  
+Mr David Lim Teck Leong
+
+*Independent Non-Executive Directors*  
+Mr Yezdi Phiroze Chinoy  
+Mr Koo Tsai Kee  
+Mr Nicholas David Ashmore
+
+*Non-Independent  
+Non-Executive Directors*  
+Mr Tan Hai Peng Micheal  
+Mr Victor Song Chern Chean  
+Mr Tan Dah Ching
+
+### AUDIT AND RISK COMMITTEE
+
+*Chairman*  
+Mr Yezdi Phiroze Chinoy
+
+*Members*  
+Mr David Lim Teck Leong  
+Mr Koo Tsai Kee
+
+### NOMINATING AND REMUNERATION COMMITTEE
+
+*Chairman*  
+Mr Koo Tsai Kee
+
+*Members*  
+Mr David Lim Teck Leong  
+Mr Tan Hai Peng Micheal
+
+### SUSTAINABILITY COMMITTEE
+
+*Chairman*  
+Mr David Lim Teck Leong
+
+*Members*  
+Mr Yezdi Phiroze Chinoy  
+Mr Joshua Liaw  
+Mr Michael Tong  
+Mr Jonathan Edmunds  
+Ms Pearl Lam
+
+### STRATEGIC PLANNING COMMITTEE
+
+*Chairman*  
+Mr Tan Hai Peng Micheal
+
+*Members*  
+Mr Victor Song Chern Chean  
+Mr Yezdi Phiroze Chinoy
+
+### MANAGEMENT
+
+*Chief Executive Officer*  
+Mr Joshua Liaw
+
+*Chief Financial Officer*  
+Mr Michael Tong
+
+*Chief Investment Officer*  
+Mr Jonathan Edmunds
+
+*Head of Investor Relations*  
+Ms Pearl Lam
+
+### COMPANY SECRETARY
+
+Ms Josephine Toh. ACS, ACG
+
+### AUDITOR
+
+KPMG LLP  
+12 Marina View  
+#15-01 Asia Square Tower 2  
+Singapore 018961  
+Telephone No.: (65) 6213 3388
+
+*Partner-in-charge:*  
+Mr Lim Pang Yew, Victor<sup>2</sup>
+
+### UNIT REGISTRAR
+
+Boardroom Corporate & Advisory  
+Services Pte. Ltd.  
+1 Harbourfront Avenue  
+#14-07 Keppel Bay Tower  
+Singapore 098632  
+Telephone No.: (65) 6536 5355
+
+<sup>1</sup> Unitholders may contact the Manager through telephone or email; the Manager is not contactable via a facsimile number.
+
+<sup>2</sup> Appointed during the financial period ended 31 December 2024
+
+<!-- PAGE 186 -->
+
+## Glossary
+
+### #
+
+### °C
+
+Degree Celsius
+
+### A
+
+### ABI
+
+Association of British Insurers
+
+### Aggregate Leverage Limit
+
+The leverage limit stipulated by the Code on Collective Investment Schemes governed by the MAS. From 28 November 2024, the aggregate leverage limit should not exceed 50% of the fund's deposited property and a minimum interest coverage ratio of 1.5 times
+
+### AGM
+
+Annual General Meetings
+
+### AHUs
+
+Air Handling Units
+
+### AML
+
+Anti-Money Laundering
+
+### ARC
+
+Audit and Risk Committee
+
+### B
+
+### Bank
+
+Bank of England
+
+### BCM
+
+Business Continuity Management
+
+### BCP
+
+Business Continuity Plan
+
+### BMS
+
+Building Management System
+
+### Board
+
+Board of Directors of the REIT Manager
+
+### Board Committees
+
+ARC, NRC, SPC, and SC
+
+### British Pound/Pound Sterling (£)/GBP
+
+The official currency of the United Kingdom
+
+### BTR
+
+Built-to-Rent
+
+### C
+
+### CEO
+
+Chief Executive Officer
+
+### CFO
+
+Chief Financial Officer
+
+### CFT
+
+Countering the Financing of Terrorism
+
+### CG Report
+
+Corporate Governance Report
+
+### CIO
+
+Chief Investment Officer
+
+### CIR
+
+Corporate Interest Restriction
+
+### CIS Code
+
+The Code on Collective Investment Schemes
+
+### CMS License
+
+Capital Markets Services licence issued by the Monetary Authority of Singapore
+
+### Code
+
+The Code of Corporate Governance 2018
+
+### Code of Conduct
+
+Group-wide Code of Conduct and Ethics Policy
+
+### Companies Act
+
+Companies Act 1967 of Singapore
+
+### Company Secretary
+
+Company Secretary of the REIT Manager
+
+### COSO
+
+Committee of Sponsoring Organizations of the Treadway Commission
+
+### CPF
+
+Counter-proliferation Financing
+
+### CPI
+
+Consumer Price Index
+
+### D
+
+### DEFRA
+
+Department for Environment, Food, and Rural Affairs, which is a ministerial department responsible for improving and protecting the natural environment and supporting UK's food and farming sectors.
+
+### Directors
+
+The directors of the Manager
+
+### DPU
+
+Distribution Per Unit
+
+### DRP
+
+Distribution Reinvestment Plan
+
+### DWP
+
+Department for Work and Pensions
+
+### E
+
+### EBITDA
+
+Earnings before interest, taxes, depreciation, and amortization
+
+### EGM
+
+Extraordinary General Meetings
+
+### Elite Partners Capital
+
+Elite Partners Capital Pte. Ltd.
+
+### Elite REIT
+
+Elite UK REIT
+
+### EnvRM
+
+Guidelines on Environmental Risk Management
+
+### EPC
+
+Energy Performance Certificate
+
+### EPH
+
+Elite Partners Holdings Pte. Ltd.
+
+### ERHL
+
+Elite REIT Holdings Limited
+
+### ERM
+
+Enterprise Risk Management
+
+### ESG
+
+Environmental, Social and Governance
+
+### EV
+
+Electric Vehicle
+
+### Exempted Agreements
+
+The related party transactions for which fees and charges are payable by Elite Commercial REIT as set out in the Trust Deed (including pursuant to the Internal Asset Management Agreement) and the Lease Management Agreement (including the individual lease management agreement(s))
+
+### EY
+
+Ernst & Young Advisory Pte. Ltd.
+
+<!-- PAGE 187 -->
+
+### F
+
+### Framework
+
+Sustainable and Sustainability-Linked Finance Framework
+
+### Freehold
+
+A property with a freehold title can be held by its owner indefinitely
+
+### FRI
+
+Full Repair and Insuring
+
+### FSTREI Index
+
+FTSE ST REIT Index, a free-float, market capitalisation-weighted index that measures the performance of stocks operating within the REIT sector
+
+#### FY2023
+
+Financial year ended 31 December 2023
+
+#### FY2024
+
+Financial year ended 31 December 2024
+
+#### FY2025
+
+Financial year ended 31 December 2025
+
+### G
+
+### GDP
+
+Gross Domestic Product
+
+### GHG
+
+Greenhouse Gas
+
+### GRI
+
+Global Reporting Initiative
+
+### Group
+
+Refers to Elite UK REIT Group
+
+### Group-wide
+
+Refers to Elite Partners Group-wide
+
+### H
+
+### HLGT
+
+Ho Lee Group Trust
+
+### HM Courts and Tribunal
+
+Executive agency of the UK Ministry of Justice responsible for the administration of criminal, civil and family courts, and tribunals.
+
+### Ho Lee
+
+Ho Lee Group Ltd.
+
+### Home Office
+
+British Government department dealing with domestic affairs
+
+### HR
+
+Human Resources
+
+### HVAC
+
+Heading, Ventilation, and Air-Conditioning
+
+### I
+
+### ICR
+
+Interest Coverage Ratio
+
+### IDs
+
+Independent Non-Executive directors
+
+### IFC
+
+Inside Front Cover
+
+### IFRS
+
+International Financial Reporting Standards
+
+### IPCC
+
+Intergovernmental Panel on Climate Change
+
+### IPO
+
+Initial Public Offering
+
+### IPTs
+
+Interested Person Transactions
+
+### ISO
+
+International Organization for Standardization
+
+### ISSB
+
+International Sustainability Standards Board
+
+### IT
+
+Information technology
+
+### J
+
+### JLL
+
+Jones Lang Lasalle
+
+### JobCentre Plus
+
+A UK Government-funded employment agency and social security office
+
+### K
+
+### Kg
+
+Kilogram
+
+### kg CO<sub>2</sub>e
+
+Kilograms of carbon dioxide equivalent
+
+### KMP
+
+Key Management Personnel, which shall mean the CEO and other persons having authority and responsibility for planning, directing and controlling the activities of the Manager
+
+### KPIs
+
+Key Performance Indicators
+
+### kWh
+
+Kilowatt hour
+
+### KYC
+
+Know Your Customer
+
+### L
+
+### Listing Manual
+
+The Listing Manual issued by SGX
+
+### Living Sector
+
+Student Housing and Built-to-Rent Residential properties
+
+### M
+
+### m<sup>2</sup>
+
+Square metre
+
+### m<sup>3</sup>
+
+Cubic metre
+
+### Management
+
+CEO as well as other management personnel of the Manager
+
+### Manager
+
+Elite UK REIT Management Pte. Ltd.
+
+### Market Day
+
+A day (other than a Saturday, Sunday or gazetted public holiday) on which commercial banks are open for business in Singapore and the SGX-ST is open for trading in securities
+
+### MAS
+
+Monetary Authority of Singapore
+
+### MOD
+
+Ministry of Defence
+
+### N
+
+### NABERS
+
+National Australian Built Environment Rating System
+
+### NAV
+
+Net Asset Value
+
+### Net Gearing
+
+Aggregate debt less cash over total assets less cash
+
+### NIA
+
+Net Internal Area
+
+### NINED
+
+Non-Independent Non-Executive Director
+
+### NRC
+
+Nominating and Remuneration Committee
+
+<!-- PAGE 188 -->
+
+## Glossary
+
+### O
+
+### ONS
+
+Office for National Statistics
+
+### P
+
+### PartnerRE Entities
+
+Partner Reinsurance Asia Pte. Ltd., Partner Reinsurance Company Ltd. and Partner Reinsurance Europe SE
+
+### PBSA
+
+Purpose-built student accommodation
+
+### PDPA
+
+Personal Data Protection Act 2012 of Singapore
+
+### PMI
+
+Purchasing Managers' Index
+
+### Portfolio
+
+The REIT's portfolio comprising 148 properties as at 31 December 2025  
+(As at 31 December 2024: 149 properties)
+
+### Preferential Offering
+
+The new Units issued under the Preferential Offering
+
+### Property Funds Appendix
+
+Appendix 6 of the CIS Code
+
+### PV
+
+Photovoltaic
+
+### R
+
+### RCPs
+
+Representative Concentration Pathways
+
+### RICS
+
+Royal Institution of Chartered Surveyors
+
+### S
+
+### S\$
+
+Singapore Dollars
+
+### SASB
+
+Sustainability Accounting Standards Board
+
+### SC
+
+Sustainability Committee
+
+### Serious Breaches
+
+Whistleblowing channels are put in place for our business partners, customers, suppliers, other stakeholders, and any third party to report actual or suspected corruption, dishonesty, fraud, negligence, any other forms of illegal, inappropriate, unethical or unprofessional behaviour or conduct
+
+### SFA
+
+Securities and Futures Act 2001 of Singapore
+
+### SFIs
+
+Sustainable Finance Instruments
+
+### SF (LCB)R
+
+Securities and Futures (Licensing and Conduct of Business) Regulations
+
+### SGTI
+
+Singapore Governance and Transparency Index
+
+### SGX-ST
+
+Singapore Exchange
+
+### SID
+
+Singapore Institute of Directors
+
+### SPC
+
+Strategic Planning Committee
+
+### Sponsors
+
+Sponsors of the REIT
+
+### SPTs
+
+Sustainability Performance Targets
+
+### Sq ft
+
+Square feet
+
+### Substantial Unitholder
+
+Any Unitholder with an interest in such number of Units constituting not less than 5.0% of all Units in issue
+
+### SWT
+
+Sustainability Working Team
+
+### T
+
+### TCFD
+
+Taskforce on Climate-Related Financial Disclosures
+
+### tCO<sub>2</sub>e
+
+Tonnes of carbon dioxide equivalent
+
+### TISE
+
+The International Stock Exchange
+
+### Trust Deed
+
+The trust deed dated 7 June 2018 constituting Elite UK REIT (as amended)
+
+### Trustee
+
+Perpetual (Asia) Limited in its capacity as the trustee of Elite REIT
+
+### U
+
+### UK
+
+United Kingdom
+
+### UKCP18
+
+UK Climate Projections 2018
+
+#### Unitholder(s)
+
+A depositor whose Securities Account with CDP is credited with Unit(s) or the registered holder for the time being of Units
+
+### Unit Registrar
+
+Boardroom Corporate & Advisory Services Pte. Ltd.
+
+### Unit(s)
+
+An undivided interest in Elite UK REIT as provided for in the Trust Deed
+
+### UN SDGs
+
+United Nations Sustainable Development Goals
+
+### V
+
+### Virtual Freehold
+
+Long-term leasehold interest that functions like freehold ownership
+
+### VPP
+
+Variable Pay Plan
+
+### W
+
+### WALE
+
+Weighted Average Lease Expiry. The weighted average lease expiry by headline rent based on the final termination date of the agreement
+
+### Y
+
+### YOY
+
+Year-on-Year
+
+### Others
+
+### 英利英国房地产信托
+
+Elite UK REIT
+
+### 英利房托
+
+Elite REIT
+
+<!-- PAGE 189 -->
+
+*This page has been intentionally left blank.*
+
+<!-- PAGE 190 -->
+
+*This page has been intentionally left blank.*
+
+<!-- PAGE 191 -->
+
+
+
+<!-- PAGE 192 -->
+
+![Elite UK REIT logo, featuring a stylized building structure with gold and red elements.](edf0c520080e139d5a4e89192c773117_img.jpg)
+
+Elite UK REIT logo, featuring a stylized building structure with gold and red elements.
+
+ELITE UK REIT
+
+**ELITE UK REIT MANAGEMENT PTE. LTD.**
+
+3 Church Street #09-03 Samsung Hub  
+Singapore 049483  
+[www.eliteukreit.com](http://www.eliteukreit.com)
+
+![FSC logo with text: MIX Paper | Supporting responsible forestry FSC® C004791](1b63df8315148aabe3c095395357af55_img.jpg)
+
+FSC logo with text: MIX Paper | Supporting responsible forestry FSC® C004791

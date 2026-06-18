@@ -1,0 +1,5 @@
+[
+  {"symbol": "DCRU.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Hyperscale CSP", "pct": 60.0, "pct_basis": "rental_income", "source_page": 36},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Social Media / Other", "pct": 34.0, "pct_basis": "rental_income", "source_page": 36},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Colocation / IT SP", "pct": 6.0, "pct_basis": "rental_income", "source_page": 36}
+]

@@ -1,0 +1,164 @@
+# Page map — 14_MXNU.SI_Elite-UK-REIT_FY2025
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p3 — This page presents the Table of Contents for the SGX REIT annual report, listing sections including Corporate Profile, Key Financial Highlights, Portf
+    - p15 — This page displays the Trust Structure and Manager Structure diagrams for Elite REIT (Singapore), detailing the hierarchy of unitholders, the manager 
+    - p95 — This page presents the Manager's approach to identifying and mitigating material risks for Elite REIT, specifically detailing Governance risks (includ
+    - p117 ['000] — The page presents a table of Interested Person Transactions (IPT) for Elite REIT, listing aggregate values in £'000 for management fees, lease fees, p
+    - p136 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash generated from operating activ
+    - p163 ['000] — This page presents the Related Party Transactions table (showing fees and commissions in £'000) and describes a significant acquisition of three UK pr
+    - p167 ['000] — This page contains a Liquidity risk table presenting the Trust's non-derivative and derivative financial liabilities by carrying amount and contractua
+    - p175 — This page contains the Manager's Director Unitholdings table as of 21 January 2026, detailing direct and deemed interests in Elite UK REIT units held 
+- **also mentions:**
+    - p85 — This page presents the TCFD Metrics and Targets table, detailing climate-related opportunities (EPC ratings by floor area and gross rental income), ri
+    - p114 ['000] — This page of the Corporate Governance Report presents a remuneration table detailing the fixed and variable components for two Key Management Personne
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+
+## performance
+- **MAIN (lead):**
+    - p3 — This page presents the Table of Contents for the SGX REIT annual report, listing sections including Corporate Profile, Key Financial Highlights, Portf
+    - p5 [million] — This page presents the Key Financial Highlights for the SGX REIT, featuring DPU / distribution / financial highlights including Revenue of £38.0 m, Ne
+    - p6 [million] — This page presents the Portfolio Overview for an SGX REIT, featuring key metrics including a portfolio value of £424.7 m as of 31 Dec 2024, 11 tenants
+    - p22 [million] — This page presents financial highlights for Elite UK REIT, including a DPU of 3.03 pence (5.6% yoy increase), distributable income of £19.3 million (£
+    - p23 ['000] — This page presents the Profit or Loss and Distributable Income to Unitholders table (£'000) detailing FY2025 revenue of £36,590k, net property income 
+    - p28 [million] — This page presents the DPU and financial highlights for Elite UK REIT in FY2025, featuring a main table of Total Return (34.2%) and Market Capitalisat
+    - p31 — This page presents the Financial and Distribution Calendar for Elite UK REIT, detailing scheduled events including business update announcements, dist
+    - p44 — This page presents a visual portfolio profile of the SGX REIT's 10 London-based DWP JobCentre Plus properties, illustrated with location maps and indi
+    - p56 — This page presents the Portfolio Profiles for 12 DWP JobCentre Plus properties located across North East England, accompanied by a regional map and in
+    - p97 — This page presents a risk disclosure table outlining Economic risks (strategic, investment, and divestment) and Environment risks (sustainability and 
+    - p134 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the year ended 31 December 2025, reporting revenue of £'000 (36,590) and pro
+    - p135 ['000] — This page presents the Statement of Movements in Unitholders' Funds for SGX REIT, detailing changes in units in issue (£'000), unit issue costs (£'000
+    - p161 ['000] — This page presents a reconciliation of the effective tax rate for 2025 and 2024 (in £'000) followed by a Statement of Amount Available for Distributio
+    - p162 ['000] — This page presents SGX REIT financial highlights including a table of Amount Available for Distribution (pence per Unit) and a table detailing Earning
+    - p163 ['000] — This page presents the Related Party Transactions table (showing fees and commissions in £'000) and describes a significant acquisition of three UK pr
+    - p166 ['000] — This page presents the contractual maturities of financial liabilities for SGX REIT's Group as of 31 December 2024 and 2025, detailing carrying amount
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+    - p173 — This page presents the Statistics of Unitholdings as at 2 March 2026 for Elite UK REIT, featuring a Distribution of Unitholdings table detailing unit 
+    - p174 — This page presents the **Statistics of Unitholdings** as at 2 March 2026, specifically detailing the **Substantial Unitholders' Unitholdings** recorde
+    - p175 — This page contains the Manager's Director Unitholdings table as of 21 January 2026, detailing direct and deemed interests in Elite UK REIT units held 
+- **also mentions:**
+    - p8 [million] — This page details key corporate milestones for SGX REIT's FY2025, including a 2.0% year-on-year portfolio valuation increase to £424.7 million and a d
+    - p10 [million] — This page details Elite UK REIT's corporate milestones, including the acquisition of three government-leased properties (£9.2 million total) and a suc
+    - p15 — This page displays the Trust Structure and Manager Structure diagrams for Elite REIT (Singapore), detailing the hierarchy of unitholders, the manager 
+    - p24 [million] — The page presents a Debt Maturity Profile table detailing £'m debt levels for 2027 and 2029 alongside an Interest Rate Sensitivity table showing impac
+    - p27 — This page details the Tenant Engagement strategy for Elite UK REIT, featuring a **Top-N tenants/customers table** that breaks down gross rental income
+    - p29 — This page presents the "Unitholdings by Geography" and "Unitholdings by Investor Type" tables, detailing Elite REIT's asset distribution across six re
+    - p117 ['000] — The page presents a table of Interested Person Transactions (IPT) for Elite REIT, listing aggregate values in £'000 for management fees, lease fees, p
+    - p133 ['000] — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, detailing total assets of £444,005k (Group) and £241,3
+    - p158 ['000] — This page presents the Net Asset Value per Unit table and tables for Revenue and Other Property Income, reporting figures in £'000 for the Group.
+    - p164 — This page contains the Financial Risk Management notes detailing the Group's capital management metrics (aggregate leverage of 42.8% and interest cove
+    - p176 — This page contains the Notice of Annual General Meeting for Elite UK REIT scheduled for 23 April 2026, listing ordinary business to adopt the audited 
+
+## properties
+- **MAIN (lead):**
+    - p3 — This page presents the Table of Contents for the SGX REIT annual report, listing sections including Corporate Profile, Key Financial Highlights, Portf
+    - p6 [million] — This page presents the Portfolio Overview for an SGX REIT, featuring key metrics including a portfolio value of £424.7 m as of 31 Dec 2024, 11 tenants
+    - p38 [million] — This page presents the audited Portfolio Statement for the North West region, listing 23 properties with their valuations as of 31 Dec 2025 (£'m), gro
+    - p39 — This page presents the audited Portfolio Statement for SGX REIT's Scotland region, detailing 25 numbered properties with descriptive images and a list
+    - p41 [million] — This page presents the audited Portfolio Statement for Scotland, listing 25 properties with valuations and rental data as of 31 Dec 2025 (£'m) and net
+    - p43 [million] — This page presents the audited Portfolio Statement for the South East region as of 31 Dec 2025, detailing property valuations (£'m), annualised gross 
+    - p44 — This page presents a visual portfolio profile of the SGX REIT's 10 London-based DWP JobCentre Plus properties, illustrated with location maps and indi
+    - p45 [million] — This page presents the audited Portfolio Statement for London properties, listing ten individual assets with their valuations as of 31 Dec 2025 (£'m),
+    - p47 [million] — This page presents the **audited Portfolio Statement (property valuations)** for the South West region, listing 11 properties with their annualised va
+    - p49 [million] — This page presents the audited Portfolio Statement for the Midlands region, listing 16 properties with their valuations as at 31 Dec 2025 (£'m), gross
+    - p50 — This page presents the audited Portfolio Statement for SGX REIT's Wales region, detailing a map and descriptions of 20 properties occupied primarily b
+    - p51 [million] — This page presents the **Audited Portfolio Statement** for the Wales reporting unit, listing 20 properties with valuations as at 31 Dec 2025 (£'m), an
+    - p52 — This page presents the audited Portfolio Statement through a map and descriptive profiles of 9 properties located in the East of England region, ident
+    - p53 [million] — This page presents the audited Portfolio Statement for the East region, listing nine properties with their valuations as at 31 Dec 2025 (£'m), annuali
+    - p55 [million] — This page presents the audited Portfolio Statement for the Yorkshire & Humber reporting unit, listing ten properties with valuations as at 31 Dec 2025
+    - p56 — This page presents the Portfolio Profiles for 12 DWP JobCentre Plus properties located across North East England, accompanied by a regional map and in
+    - p57 [million] — This page presents the audited Portfolio Statement for the North East region, listing 11 properties with their valuations as at 31 Dec 2025 (£'m), gro
+    - p89 — This page presents the GRI Standard disclosure matrix for SGX REIT's 2021 annual report, detailing compliance with laws, material topics, anti-corrupt
+    - p97 — This page presents a risk disclosure table outlining Economic risks (strategic, investment, and divestment) and Environment risks (sustainability and 
+    - p130 — This page contains the Independent Auditors' Report for Elite UK REIT, which provides an unqualified opinion on the Group's financial statements as at
+    - p148 ['000] — This page presents the audited Portfolio Statement (property valuations) for Investment Properties, detailing changes in carrying value from £412,791,
+    - p150 ['000] — This page details the Trust's investments in subsidiaries, presenting an audited Portfolio Statement (property valuations) for Elite REIT Holdings Lim
+    - p159 ['000] — This page presents the audited Portfolio Statement of Property Operating Expenses and Other Trust Expenses for the SGX REIT Group, reporting figures i
+    - p164 — This page contains the Financial Risk Management notes detailing the Group's capital management metrics (aggregate leverage of 42.8% and interest cove
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+    - p175 — This page contains the Manager's Director Unitholdings table as of 21 January 2026, detailing direct and deemed interests in Elite UK REIT units held 
+    - p176 — This page contains the Notice of Annual General Meeting for Elite UK REIT scheduled for 23 April 2026, listing ordinary business to adopt the audited 
+- **also mentions:**
+    - p34 [million] — This page presents the "Top Properties by Valuation As at 31 December 2025" artifact, detailing three specific assets (Nutwood House, Parklands, and B
+    - p87 ['000] — This page presents SASB Standards Activity Metrics for the SGX REIT's Office subsector (IF-RE-000) reporting figures in SGD'000 and percentages for FY
+    - p134 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the year ended 31 December 2025, reporting revenue of £'000 (36,590) and pro
+    - p149 ['000] — The page presents a table titled "Fair value hierarchy" reporting the Group's investment properties at £'000, showing fair values of 424,660 and 416,2
+
+## top_tenants
+- **MAIN (lead):**
+    - p27 — This page details the Tenant Engagement strategy for Elite UK REIT, featuring a **Top-N tenants/customers table** that breaks down gross rental income
+    - p52 — This page presents the audited Portfolio Statement through a map and descriptive profiles of 9 properties located in the East of England region, ident
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+    - p173 — This page presents the Statistics of Unitholdings as at 2 March 2026 for Elite UK REIT, featuring a Distribution of Unitholdings table detailing unit 
+- **also mentions:**
+    - p6 [million] — This page presents the Portfolio Overview for an SGX REIT, featuring key metrics including a portfolio value of £424.7 m as of 31 Dec 2024, 11 tenants
+    - p15 — This page displays the Trust Structure and Manager Structure diagrams for Elite REIT (Singapore), detailing the hierarchy of unitholders, the manager 
+    - p34 [million] — This page presents the "Top Properties by Valuation As at 31 December 2025" artifact, detailing three specific assets (Nutwood House, Parklands, and B
+    - p39 — This page presents the audited Portfolio Statement for SGX REIT's Scotland region, detailing 25 numbered properties with descriptive images and a list
+    - p41 [million] — This page presents the audited Portfolio Statement for Scotland, listing 25 properties with valuations and rental data as of 31 Dec 2025 (£'m) and net
+    - p43 [million] — This page presents the audited Portfolio Statement for the South East region as of 31 Dec 2025, detailing property valuations (£'m), annualised gross 
+    - p44 — This page presents a visual portfolio profile of the SGX REIT's 10 London-based DWP JobCentre Plus properties, illustrated with location maps and indi
+    - p45 [million] — This page presents the audited Portfolio Statement for London properties, listing ten individual assets with their valuations as of 31 Dec 2025 (£'m),
+    - p47 [million] — This page presents the **audited Portfolio Statement (property valuations)** for the South West region, listing 11 properties with their annualised va
+    - p48 — This page presents a visual portfolio profile featuring a map of 16 properties located across the Midlands region and individual images describing the
+    - p49 [million] — This page presents the audited Portfolio Statement for the Midlands region, listing 16 properties with their valuations as at 31 Dec 2025 (£'m), gross
+    - p50 — This page presents the audited Portfolio Statement for SGX REIT's Wales region, detailing a map and descriptions of 20 properties occupied primarily b
+    - p51 [million] — This page presents the **Audited Portfolio Statement** for the Wales reporting unit, listing 20 properties with valuations as at 31 Dec 2025 (£'m), an
+    - p53 [million] — This page presents the audited Portfolio Statement for the East region, listing nine properties with their valuations as at 31 Dec 2025 (£'m), annuali
+    - p55 [million] — This page presents the audited Portfolio Statement for the Yorkshire & Humber reporting unit, listing ten properties with valuations as at 31 Dec 2025
+    - p56 — This page presents the Portfolio Profiles for 12 DWP JobCentre Plus properties located across North East England, accompanied by a regional map and in
+    - p57 [million] — This page presents the audited Portfolio Statement for the North East region, listing 11 properties with their valuations as at 31 Dec 2025 (£'m), gro
+    - p71 — This page presents a table mapping material ESG topics to UN SDG targets, detailing specific initiatives under Environment (e.g., GHG Emissions, Energ
+    - p85 — This page presents the TCFD Metrics and Targets table, detailing climate-related opportunities (EPC ratings by floor area and gross rental income), ri
+    - p86 — This page presents a Sustainability Report detailing the SGX REIT's energy consumption and GHG emissions metrics for FY2023, FY2024, and FY2025, inclu
+    - p87 ['000] — This page presents SASB Standards Activity Metrics for the SGX REIT's Office subsector (IF-RE-000) reporting figures in SGD'000 and percentages for FY
+    - p89 — This page presents the GRI Standard disclosure matrix for SGX REIT's 2021 annual report, detailing compliance with laws, material topics, anti-corrupt
+    - p90 — This page presents an SGX Core ESG Metrics Index table detailing environmental disclosures, including greenhouse gas emissions (tCO2e) and energy/wate
+    - p95 — This page presents the Manager's approach to identifying and mitigating material risks for Elite REIT, specifically detailing Governance risks (includ
+    - p97 — This page presents a risk disclosure table outlining Economic risks (strategic, investment, and divestment) and Environment risks (sustainability and 
+    - p130 — This page contains the Independent Auditors' Report for Elite UK REIT, which provides an unqualified opinion on the Group's financial statements as at
+    - p164 — This page contains the Financial Risk Management notes detailing the Group's capital management metrics (aggregate leverage of 42.8% and interest cove
+
+## trade_mix
+- **MAIN (lead):**
+    - p6 [million] — This page presents the Portfolio Overview for an SGX REIT, featuring key metrics including a portfolio value of £424.7 m as of 31 Dec 2024, 11 tenants
+    - p27 — This page details the Tenant Engagement strategy for Elite UK REIT, featuring a **Top-N tenants/customers table** that breaks down gross rental income
+    - p39 — This page presents the audited Portfolio Statement for SGX REIT's Scotland region, detailing 25 numbered properties with descriptive images and a list
+    - p44 — This page presents a visual portfolio profile of the SGX REIT's 10 London-based DWP JobCentre Plus properties, illustrated with location maps and indi
+    - p48 — This page presents a visual portfolio profile featuring a map of 16 properties located across the Midlands region and individual images describing the
+    - p50 — This page presents the audited Portfolio Statement for SGX REIT's Wales region, detailing a map and descriptions of 20 properties occupied primarily b
+    - p52 — This page presents the audited Portfolio Statement through a map and descriptive profiles of 9 properties located in the East of England region, ident
+    - p56 — This page presents the Portfolio Profiles for 12 DWP JobCentre Plus properties located across North East England, accompanied by a regional map and in
+    - p71 — This page presents a table mapping material ESG topics to UN SDG targets, detailing specific initiatives under Environment (e.g., GHG Emissions, Energ
+    - p95 — This page presents the Manager's approach to identifying and mitigating material risks for Elite REIT, specifically detailing Governance risks (includ
+    - p97 — This page presents a risk disclosure table outlining Economic risks (strategic, investment, and divestment) and Environment risks (sustainability and 
+    - p130 — This page contains the Independent Auditors' Report for Elite UK REIT, which provides an unqualified opinion on the Group's financial statements as at
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+- **also mentions:**
+    - p164 — This page contains the Financial Risk Management notes detailing the Group's capital management metrics (aggregate leverage of 42.8% and interest cove
+    - p166 ['000] — This page presents the contractual maturities of financial liabilities for SGX REIT's Group as of 31 December 2024 and 2025, detailing carrying amount
+    - p170 ['000] — This page contains a table detailing the carrying amount and fair value of financial assets and liabilities for a Trust as of 31 December 2025 and 31 
+
+## financial
+- **MAIN (lead):**
+    - p23 ['000] — This page presents the Profit or Loss and Distributable Income to Unitholders table (£'000) detailing FY2025 revenue of £36,590k, net property income 
+    - p97 — This page presents a risk disclosure table outlining Economic risks (strategic, investment, and divestment) and Environment risks (sustainability and 
+    - p134 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the year ended 31 December 2025, reporting revenue of £'000 (36,590) and pro
+    - p136 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash generated from operating activ
+    - p150 ['000] — This page details the Trust's investments in subsidiaries, presenting an audited Portfolio Statement (property valuations) for Elite REIT Holdings Lim
+    - p160 ['000] — This page of the SGX REIT annual report presents detailed notes on Finance Income and Costs (Note 21) and Tax Expense (Note 22) for the Group, reporti
+    - p168 ['000] — This page contains the **Exposure to interest rate risk** table detailing nominal amounts of fixed and variable rate financial instruments for both th
+    - p172 ['000] — This page contains a maturity analysis table of lease payments to be received by the Group under operating leases, with undiscounted figures in £'000 
+- **also mentions:**
+    - p5 [million] — This page presents the Key Financial Highlights for the SGX REIT, featuring DPU / distribution / financial highlights including Revenue of £38.0 m, Ne
+    - p22 [million] — This page presents financial highlights for Elite UK REIT, including a DPU of 3.03 pence (5.6% yoy increase), distributable income of £19.3 million (£
+    - p38 [million] — This page presents the audited Portfolio Statement for the North West region, listing 23 properties with their valuations as of 31 Dec 2025 (£'m), gro
+    - p49 [million] — This page presents the audited Portfolio Statement for the Midlands region, listing 16 properties with their valuations as at 31 Dec 2025 (£'m), gross
+    - p117 ['000] — The page presents a table of Interested Person Transactions (IPT) for Elite REIT, listing aggregate values in £'000 for management fees, lease fees, p
+    - p146 — This page details the material accounting policies for SGX REIT, specifically covering impairment of non-financial assets, unit issuance costs, revenu
+    - p159 ['000] — This page presents the audited Portfolio Statement of Property Operating Expenses and Other Trust Expenses for the SGX REIT Group, reporting figures i
+    - p164 — This page contains the Financial Risk Management notes detailing the Group's capital management metrics (aggregate leverage of 42.8% and interest cove

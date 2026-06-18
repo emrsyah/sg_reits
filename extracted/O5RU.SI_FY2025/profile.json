@@ -1,0 +1,13 @@
+{
+  "symbol": "O5RU.SI",
+  "sub_sector": "Industrial",
+  "management": [
+    {"role": "reit_manager", "company_name": "AIMS APAC REIT Management Limited"},
+    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
+    {"role": "property_manager", "company_name": "AIMS APAC Property Management Pte. Ltd."},
+    {"role": "operator", "company_name": "AA REIT Management Australia Pty Limited"},
+    {"role": "sponsor", "company_name": "AIMS Financial Group"}
+  ],
+  "income_model": "mixed",
+  "source_page": 21
+}

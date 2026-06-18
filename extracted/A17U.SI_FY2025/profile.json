@@ -1,0 +1,15 @@
+{
+  "symbol": "A17U.SI",
+  "sub_sector": "Industrial",
+  "management": [
+    {"role": "reit_manager", "company_name": "CapitaLand Ascendas REIT Management Limited"},
+    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
+    {"role": "sponsor", "company_name": "CapitaLand Investment Limited"},
+    {"role": "property_manager", "company_name": "Ascendas Services Pte Ltd"},
+    {"role": "property_manager", "company_name": "Ascendas Funds Management (Australia) Pty Ltd"},
+    {"role": "property_manager", "company_name": "CapitaLand International Management (UK) Ltd"},
+    {"role": "property_manager", "company_name": "CapitaLand International (US) LLC"}
+  ],
+  "income_model": "conventional",
+  "source_page": 7
+}

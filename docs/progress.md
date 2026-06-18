@@ -13,7 +13,14 @@ Last updated: 2026-06-18.
 > (M44U was already the pilot). All 8 PASS both gates (0 fail). KPIs captured where disclosed;
 > 3 nulls are genuine non-disclosures (AW9U/AJBU debt-maturity-in-years, HMN WALE = MAS waiver).
 > J69U sponsor (Frasers Property) now present; AJBU sponsor=Keppel. Income mis-bucketing caught
-> + fixed in every report where present. Still TODO this batch: UD1U (parsed, not yet re-done).
+> + fixed in every report where present.
+> **Batch 2 (2026-06-18): 8 trusts** — UD1U (re-extract) + 7 newly parsed: O5RU (AIMS APAC),
+> A17U (CLAR, 232 props), CY6U (CLINT, business-trust), 8C8U (Centurion Accom., IPO stub period),
+> DCRU (Digital Core), MXNU (Elite UK, 148 props), J91U (ESR-LOGOS). All 8 PASS both gates (0 fail).
+> 7 KPIs captured where disclosed (CY6U/AJBU/AW9U debt-maturity/WALE-as-chart → null). Income
+> bucketing clean; valuations reconcile to audited. MXNU/J91U needed a Datalab re-parse (key quota).
+> UD1U Sofidy PM added. **Done: 17/30 FY2025 (batch-1 8 + M44U pilot + batch-2 8). Remaining 13
+> (all need parse): Q5T, BUOU, CMOU, K71U, JYEU, ME8U, N2IU, TS0U, OXMU, P40U, SET, T82U, ODBU.**
 
 ## Legend
 

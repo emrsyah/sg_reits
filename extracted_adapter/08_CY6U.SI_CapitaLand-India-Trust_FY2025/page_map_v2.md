@@ -1,0 +1,247 @@
+# Page map v2 (classify) — 08_CY6U.SI_CapitaLand-India-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p10  · audited('000): p188
+- [1.00] p10 — no schema-relevant data
+- [1.00] p215 — no schema-relevant data
+- [1.00] p11 — no schema-relevant data
+- [1.00] p23 — no schema-relevant data
+- [1.00] p216 — no schema-relevant data
+- [1.00] p56 — no schema-relevant data
+- [1.00] p57 — no schema-relevant data
+- [0.99] p87 — no schema-relevant data
+- [0.99] p94 — no schema-relevant data
+- [0.99] p20 — no schema-relevant data
+- [0.98] p212 — no schema-relevant data
+- [0.98] p63 — no schema-relevant data
+- [0.98] p38 — no schema-relevant data
+- [0.98] p88 — no schema-relevant data
+- [0.98 OCR] p68 — no schema-relevant data
+- [0.98] p85 — no schema-relevant data
+- [0.97] [million] p3 — no schema-relevant data
+- [0.96] p58 — no schema-relevant data
+- [0.96] p84 — no schema-relevant data
+- [0.96] ['000] p188 — no schema-relevant data
+- [0.95] p60 — no schema-relevant data
+- [0.95] p77 — no schema-relevant data
+- [0.95] p5 — This page presents a Board Composition table detailing the 8 directors across independence (62.5% independent), age spre
+- [0.95 OCR] p71 — no schema-relevant data
+- [0.94] p59 — no schema-relevant data
+- [0.94] p66 — no schema-relevant data
+- [0.94] p86 — no schema-relevant data
+- [0.93] p21 — no schema-relevant data
+- [0.92] p67 — no schema-relevant data
+- [0.91] ['000] p76 — no schema-relevant data
+- [0.91] p75 — no schema-relevant data
+- [0.91] p179 — no schema-relevant data
+- [0.90] p78 — no schema-relevant data
+- [0.90] p82 — no schema-relevant data
+- [0.89] ['000] p89 — This page details the policies and practices regarding interested person transactions for CLINT, specifically outlining 
+- [0.85] ['000] p108 — This page of the SGX REIT annual report for CapitaLand India Trust (reporting unit: SGD'000) contains general informatio
+- [0.83] p61 — This page details the Board's diversity targets and progress for FY 2025, explicitly stating that gender (37.5% female) 
+- [0.83] p22 — no schema-relevant data
+- [0.82] p62 — no schema-relevant data
+- [0.80] ['000] p137 — This page contains the audited Portfolio Statement (property valuations) section under Note 21, detailing the Trust's in
+- [0.80] p64 — no schema-relevant data
+- [0.80] p74 — no schema-relevant data
+- [0.77] ['000] p90 — This page presents a table detailing Interested Person Transactions for the SGX REIT Trust in FY 2025, listing entities 
+- [0.77] ['000] p135 — This page contains the audited Portfolio Statement (subsidiary valuations) for SGX REIT Ascendas, listing its direct and
+- [0.77] ['000] p69 — This page presents the Key Management Personnel (KMP) Remuneration Table for FY 2025 in SGD, detailing salary, bonus, be
+- [0.75] ['000] p79 — This page presents the Attendance Record of Meetings for Unitholders, Board, and Board Committees in FY 2025, detailing 
+- [0.75] ['000] p138 — This page presents the audited Portfolio Statement (subsidiary valuations) for SGX REIT's indirect subsidiaries as of 31
+- [0.73] p73 — no schema-relevant data
+- [0.72 OCR] p213 — no schema-relevant data
+- [0.70 OCR] p180 — no schema-relevant data
+- [0.70] [million] p14 — no schema-relevant data
+- [0.68] ['000] p72 — no schema-relevant data
+- [0.67 OCR] [million] p34 — no schema-relevant data
+- [0.67] p12 — no schema-relevant data
+- [0.65] ['000] p91 — This page presents a table of Interested Person Transactions for FY 2025 in SGD'000, detailing aggregate values from fiv
+- [0.63] ['000] p83 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains a Directors' interests ta
+- [0.59] p99 — no schema-relevant data
+- [0.57] ['000] p70 — no schema-relevant data
+- [0.56 OCR] p36 — no schema-relevant data
+- [0.50] p65 — no schema-relevant data
+- [0.48] ['000] p92 — This page details the policies and practices regarding fees charged to CLINT, specifically outlining management fees (0.
+- [0.47 OCR] ['000] p43 — no schema-relevant data
+- [0.44] ['000] p136 — This page contains the Investment in subsidiaries table (continued) listing Indirect subsidiaries, their principal activ
+- [0.40 OCR] p15 — no schema-relevant data
+- [0.37 OCR] p1 — no schema-relevant data
+- [0.37 OCR] p2 — This page presents the Table of Contents for the SGX REIT annual report, organizing sections into Overview (pages 01–21)
+- [0.35] ['000] p93 — This page presents the fees earned by the Trustee-Manager for FY 2025 in SGD'000, totaling $26,338k (comprising a Base F
+- [0.24] ['000] p150 — no schema-relevant data
+- [0.23 OCR] p181 — This page contains the Independent Auditor's Report on CapitaLand India Trust Management Pte. Ltd.'s financial statement
+- [0.20] p97 — no schema-relevant data
+- [0.18 OCR] p182 — no schema-relevant data
+- [0.17 OCR] p98 — no schema-relevant data
+
+## performance  — top: p4  · audited('000): p209
+- [1.00] p4 — This page presents the 2025 Highlights for SGX REIT, featuring a main "Financial Performance" table displaying Distribut
+- [1.00] [million] p6 — This page presents Financial Highlights for CLINT, featuring tables and charts displaying Revenue (S$ million), Net Prop
+- [1.00] ['000] p209 — This page presents the **Statistics of Unitholdings** as at 27 February 2026, detailing issued and fully paid units tota
+- [1.00] [million] p27 — This page presents the Income to be Distributed table detailing DPU (Singapore cents) for FY 2025 and FY 2024, alongside
+- [1.00] ['000] p210 — no schema-relevant data
+- [0.99] [million] p30 — This page presents a Key Indicators table reporting capital management metrics for SGX REIT as of 31 December 2025 and 2
+- [0.99] p211 — This page presents the Substantial Unitholders' Unitholdings table for CLINT as of 27 February 2026, detailing direct an
+- [0.99] [million] p37 — This page presents CLINT's 2025 trading performance via a monthly bar-and-line chart and summary table, alongside total 
+- [0.99] [million] p7 — This page presents the SGX REIT's Financial Results table, reporting full-year FY 2025 and FY 2024 Total property income
+- [0.96] [million] p13 — This page details CLINT's financial performance and leasing momentum in India, reporting Total property income of INR 19
+- [0.77] ['000] p148 — This page contains the **Units in issue** table (reporting unit: S\$'000) detailing the balance, issuance of new units, 
+- [0.66] ['000] p161 — This page contains a table titled "Gearing ratio" reporting Group total effective borrowings and value of Trust Property
+- [0.65] ['000] p104 — This page presents the Group and Trust Balance Sheets as at 31 December 2025, reporting Net assets (liabilities) attribu
+- [0.64] [million] p9 — This page displays a map and descriptive text illustrating the company's footprint across five major Indian cities (Pune
+- [0.62] [million] p40 — This page presents the Operations Review featuring a Committed Occupancy table (in percentages) for CLINT's portfolio pr
+- [0.54] [million] p32 — no schema-relevant data
+- [0.46] [million] p31 — This page details CLINT's capital structure strategy and debt maturity profile, featuring a table showing the S$ million
+- [0.45] [million] p29 — This page presents a donut chart and table detailing the Portfolio Valuation by asset type for 2025, showing Completed a
+- [0.34] ['000] p83 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains a Directors' interests ta
+- [0.33 OCR] p1 — no schema-relevant data
+- [0.28] p12 — no schema-relevant data
+- [0.27] ['000] p102 — This page presents the Distribution Statement for SGX REIT's financial year ended 31 December 2025, reporting income ava
+- [0.19 OCR] p19 — no schema-relevant data
+- [0.18 OCR] [million] p33 — no schema-relevant data
+- [0.18] ['000] p127 — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a DPU table show
+
+## properties  — top: p47
+- [1.00] ['000] p47 — This page presents property-specific details for two assets—International Tech Park Pune Hinjawadi (ITPP-H) in Pune and 
+- [1.00] [million] p50 — The page presents a portfolio statement for two data center assets, CapitaLand DC Navi Mumbai and CapitaLand DC ITPB, de
+- [1.00] [million] p28 — This page presents a Valuation of Properties table and Portfolio Valuation chart for the SGX REIT, detailing property va
+- [1.00] ['000] p44 — This page presents a Statement of Portfolio (property valuations) for two assets, International Tech Park Bangalore (ITP
+- [1.00] ['000] p45 — This page presents the International Tech Park Hyderabad (ITPH) and aVance Hyderabad property details within the audited
+- [1.00] [million] p46 — This page details the property specifics for the IT Park portfolio, specifically aVance I and aVance II in Pune, present
+- [1.00] [million] p48 — This page presents the audited Portfolio Statement for Industrial and Logistics facilities, detailing specific asset met
+- [1.00] ['000] p175 — This page presents the audited Portfolio Statement for the SGX REIT group as of 31 December 2025, detailing property val
+- [1.00] [million] p49 — This page presents the audited Portfolio Statement for two data centre assets, CapitaLand DC Chennai and CapitaLand DC I
+- [1.00] ['000] p176 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's Group, detailing the carrying va
+- [0.99] p8 — no schema-relevant data
+- [0.91] ['000] p177 — This page contains the **audited Portfolio Statement (property valuations)** for SGX REIT, detailing property-specific n
+- [0.26] ['000] p183 — This page contains the audited Portfolio Statement (property valuations) for SGX REIT, presenting the Statement of Finan
+- [0.26] [million] p40 — This page presents the Operations Review featuring a Committed Occupancy table (in percentages) for CLINT's portfolio pr
+- [0.21] ['000] p103 — This page presents the Group and Trust Balance Sheets as at 31 December 2025, reporting Total Assets of SGD'000 in S$'00
+- [0.18 OCR] ['000] p35 — This page presents the Committed Pipeline and Data Centre Developments, detailing forward purchase transactions for IT p
+- [0.18] ['000] p133 — This page presents the audited Portfolio Statement for investment properties and a table detailing Intangible assets, wi
+- [0.17] [million] p25 — This page presents the Total Property Income and Total Property Expenses for FY 2025 and FY 2024, reporting values in IN
+
+## top_tenants  — top: p41
+- [0.73] p41 — This page presents the tenant profile and geographical diversification of CLINT's portfolio as at 31 December 2025, feat
+- [0.35] [million] p25 — This page presents the Total Property Income and Total Property Expenses for FY 2025 and FY 2024, reporting values in IN
+
+## trade_mix  — top: p25  · audited('000): p35
+- [0.40] [million] p25 — This page presents the Total Property Income and Total Property Expenses for FY 2025 and FY 2024, reporting values in IN
+- [0.30 OCR] [million] p33 — no schema-relevant data
+- [0.24] p41 — This page presents the tenant profile and geographical diversification of CLINT's portfolio as at 31 December 2025, feat
+- [0.18 OCR] ['000] p35 — This page presents the Committed Pipeline and Data Centre Developments, detailing forward purchase transactions for IT p
+
+## financial  — top: p124
+- [1.00] ['000] p124 — This page presents Notes 7 (Profit before tax) and 8 (Income taxes) for the SGX REIT, detailing audit fees, non-audit fe
+- [1.00] ['000] p125 — This page contains a reconciliation table of income tax expenses (benefit) for the Group for the financial year ended 31
+- [1.00] ['000] p126 — This page presents the Group's deferred income tax liabilities and assets as of 31 December 2025, reported in S$'000, de
+- [1.00] ['000] p184 — This page presents the Statement of Comprehensive Income for the year ended 31 December 2025, reporting revenue of $26,3
+- [1.00] ['000] p202 — This page contains the Tax expense notes (Note 15) for the financial year ended 31 December 2025, reporting Income tax e
+- [1.00] ['000] p101 — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT's Group for the year ended 31 Decembe
+- [1.00] ['000] p123 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents three tables in SGD'000 detailing I
+- [1.00] ['000] p144 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents notes on borrowings, spec
+- [1.00] p192 — This page contains the accounting policies for revenue recognition, distribution income, and income taxes without any fi
+- [1.00] p118 — This page contains no schema-relevant data.
+- [1.00] ['000] p131 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 details derivative financial instr
+- [1.00] ['000] p195 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 4 and 5 detailing Plant and e
+- [1.00] ['000] p201 — This page presents the Notes to the Financial Statements for the year ended 31 December 2025, specifically detailing Tra
+- [1.00] ['000] p208 — This page presents a table detailing the effects of reclassifying comparative amounts from the prior year financial stat
+- [1.00] [million] p121 — This page contains no schema-relevant data.
+- [1.00] ['000] p145 — This page presents the Reconciliation of liabilities arising from financing activities and Medium-term notes details for
+- [0.99] ['000] p130 — This page presents the **Derivative Financial Instruments** table detailing contractual/notional amounts and fair values
+- [0.99] ['000] p100 — This page presents the Consolidated Income Statement for SGX REIT, reporting Group profit before tax of S$'000 458,848 a
+- [0.99] p110 — This page contains text-only notes on accounting policies for revenue recognition and consolidation, with no tables or a
+- [0.99] p114 — no schema-relevant data
+- [0.99] ['000] p129 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Note 14 (Trade and other receivable
+- [0.99] ['000] p146 — This page details borrowings under Medium-term notes and provides a Statement of Portfolio (property valuations) for the
+- [0.99] p193 — no schema-relevant data
+- [0.99] p115 — no schema-relevant data
+- [0.99] p116 — no schema-relevant data
+- [0.99] p119 — This page contains text-only accounting policy notes regarding taxes, provisions, unit issuance, and perpetual securitie
+- [0.99] ['000] p140 — This page presents the audited Trade and other payables statement for SGX REIT's Group and Trust entities, reporting amo
+- [0.99] p117 — no schema-relevant data
+- [0.99] ['000] p196 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains Notes to the Financial Statements d
+- [0.99] ['000] p207 — This page presents the fair value hierarchy and categories of financial instruments for the SGX REIT as at 31 December 2
+- [0.99] ['000] p163 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing accounting classi
+- [0.99] ['000] p203 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains the Notes to the Financia
+- [0.99] ['000] p164 — This page presents a table detailing the accounting classifications and fair values of financial assets and liabilities 
+- [0.99] p189 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data, as it deta
+- [0.99] ['000] p152 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing related party tra
+- [0.99] p191 — This page contains accounting policy notes regarding financial liabilities, offsetting, fair value estimation, and reven
+- [0.99] ['000] p162 — This page presents the accounting classifications and fair values of financial assets and liabilities for the year ended
+- [0.99] ['000] p167 — This page presents the SGX'000 fair value measurements for assets and liabilities (Level 2 and Level 3) in the Notes to 
+- [0.99] ['000] p128 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains Notes 11, 12, and 13 detailing Cash
+- [0.99] ['000] p142 — This page presents the Group and Trust Borrowings table for the financial year ended 31 December 2025, reporting total b
+- [0.99] ['000] p165 — This page presents the Accounting classifications and fair value notes for the financial year ended 31 December 2025, fe
+- [0.99] ['000] p185 — This page presents the **Statement of Changes in Equity** for SGX REIT, detailing movements in share capital, revenue re
+- [0.98] ['000] p147 — This page presents the audited Portfolio Statement for the disposal group classified as held for sale, detailing the ass
+- [0.98] ['000] p139 — This page of the SGX REIT annual report for the year ended 31 December 2025 details the acquisition of subsidiaries Nala
+- [0.98] ['000] p186 — no schema-relevant data
+- [0.98] p113 — no schema-relevant data
+- [0.98] ['000] p169 — This page presents the accounting classifications for fair value measurements and a table of commitments (Note 32) detai
+- [0.98] ['000] p166 — This page contains a table analyzing assets and liabilities measured at fair value for the financial year ended 31 Decem
+- [0.98] ['000] p187 — This page contains the **Statement of Cash Flows** for the year ended 31 December 2025, reporting net cash from operatin
+- [0.97] ['000] p170 — This page of the SGX REIT annual report for the year ended 31 December 2025 details operating lease commitments and cont
+- [0.97] ['000] p143 — This page presents a debt repayment schedule table detailing the Group and Trust borrowings for 2025 and 2024, categoriz
+- [0.97] ['000] p107 — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the financial year ended 31 December 2025, 
+- [0.97] p109 — This page contains the "Notes to the Financial Statements" for the year ended 31 December 2025, specifically detailing s
+- [0.97] ['000] p141 — no schema-relevant data
+- [0.97] ['000] p132 — no schema-relevant data
+- [0.96] [million] p174 — no schema-relevant data
+- [0.96] ['000] p106 — This page presents the Consolidated Statement of Cash Flows for SGX REIT's group for the financial year ended 31 Decembe
+- [0.96] ['000] p168 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Level 3 fair valu
+- [0.96] [million] p134 — no schema-relevant data
+- [0.95] [million] p24 — This page presents the Financial Review and Total Property Income tables, reporting FY 2025 INR million and S$ million f
+- [0.95] p178 — This page contains the table of contents for the Trustee-Manager Financial Statements, listing Directors' Statement thro
+- [0.95] ['000] p200 — This page contains the Share Plans of CapitaLand Investment Limited (CLI) within the Notes to the Financial Statements f
+- [0.95] p112 — no schema-relevant data
+- [0.94] p190 — no schema-relevant data
+- [0.94] p111 — no schema-relevant data
+- [0.94] p194 — no schema-relevant data
+- [0.93] [million] p96 — This page of the Independent Auditor's Report details Key Audit Matters regarding the valuation of investment properties
+- [0.93] ['000] p197 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing employee benefits
+- [0.93] ['000] p149 — This page presents the Reserves statement (audited Portfolio Statement / Statement of Portfolio) and Related Party Trans
+- [0.91] p81 — This page lists the Trust Financial Statements for SGX REIT, including a Table of Contents with entries such as the Cons
+- [0.90] [million] p172 — no schema-relevant data
+- [0.88] p151 — no schema-relevant data
+- [0.85] [million] p171 — no schema-relevant data
+- [0.84] ['000] p173 — no schema-relevant data
+- [0.84] ['000] p105 — This page presents the Consolidated Statement of Changes in Unitholders' Funds for the financial year ended 31 December 
+- [0.83] [million] p122 — This page contains no schema-relevant data.
+- [0.83] ['000] p198 — no schema-relevant data
+- [0.81] ['000] p127 — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a DPU table show
+- [0.80] ['000] p133 — This page presents the audited Portfolio Statement for investment properties and a table detailing Intangible assets, wi
+- [0.74] ['000] p150 — no schema-relevant data
+- [0.73] [million] p26 — This page presents the audited Portfolio Statement detailing Net Property Income by property for FY 2025 and FY 2024, wi
+- [0.72] ['000] p102 — This page presents the Distribution Statement for SGX REIT's financial year ended 31 December 2025, reporting income ava
+- [0.72] ['000] p103 — This page presents the Group and Trust Balance Sheets as at 31 December 2025, reporting Total Assets of SGD'000 in S$'00
+- [0.71] ['000] p199 — no schema-relevant data
+- [0.71] ['000] p183 — This page contains the audited Portfolio Statement (property valuations) for SGX REIT, presenting the Statement of Finan
+- [0.67] p120 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains accounting policy notes o
+- [0.64] ['000] p205 — This page contains the financial risk management objectives and policies, specifically detailing interest rate risk expo
+- [0.64] ['000] p95 — This page presents the Independent Auditor's Report for CapitaLand India Trust (SGD'000) covering the financial year end
+- [0.61 OCR] ['000] p206 — no schema-relevant data
+- [0.60] p97 — no schema-relevant data
+- [0.57] ['000] p93 — This page presents the fees earned by the Trustee-Manager for FY 2025 in SGD'000, totaling $26,338k (comprising a Base F
+- [0.55 OCR] ['000] p160 — This page presents a maturity profile table of the Group's financial liabilities (including derivative financial liabili
+- [0.51] [million] p153 — no schema-relevant data
+- [0.50] ['000] p156 — This page presents a table detailing the Group's currency risk exposure in S$'000, quantifying the potential profit or l
+- [0.49 OCR] ['000] p155 — This page presents a currency risk table (in S$'000) detailing the Group's net financial assets and liabilities denomina
+- [0.48] ['000] p92 — This page details the policies and practices regarding fees charged to CLINT, specifically outlining management fees (0.
+- [0.46] [million] p31 — This page details CLINT's capital structure strategy and debt maturity profile, featuring a table showing the S$ million
+- [0.45] [million] p29 — This page presents a donut chart and table detailing the Portfolio Valuation by asset type for 2025, showing Completed a
+- [0.44] ['000] p136 — This page contains the Investment in subsidiaries table (continued) listing Indirect subsidiaries, their principal activ
+- [0.42 OCR] ['000] p204 — This page contains a sensitivity analysis table for equity price risk showing the effects on the fair value reserve in S
+- [0.42 OCR] ['000] p154 — This page presents a table detailing the Group's main currency exposure by functional currency (INR, SGD, JPY, USD, AUD)
+- [0.37] [million] p32 — no schema-relevant data
+- [0.37 OCR] ['000] p158 — This page details the Group's credit risk management and Expected Credit Loss (ECL) calculations for long-term receivabl
+- [0.30] ['000] p104 — This page presents the Group and Trust Balance Sheets as at 31 December 2025, reporting Net assets (liabilities) attribu
+- [0.23 OCR] p181 — This page contains the Independent Auditor's Report on CapitaLand India Trust Management Pte. Ltd.'s financial statement
+- [0.20 OCR] p157 — This page contains no schema-relevant data.
+- [0.19] ['000] p138 — This page presents the audited Portfolio Statement (subsidiary valuations) for SGX REIT's indirect subsidiaries as of 31
+- [0.19] ['000] p161 — This page contains a table titled "Gearing ratio" reporting Group total effective borrowings and value of Trust Property
+- [0.17] ['000] p90 — This page presents a table detailing Interested Person Transactions for the SGX REIT Trust in FY 2025, listing entities 
+- [0.17] ['000] p135 — This page contains the audited Portfolio Statement (subsidiary valuations) for SGX REIT Ascendas, listing its direct and

@@ -1,0 +1,53 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.gla / properties.nla", "reason": "CLINT discloses 'Floor area owned by CLINT' (built/owned area in million sq ft) per card — captured in gfa. Data centres disclose Built-up Area + MW capacity (no lettable-area metric). No gross/net LETTABLE area is disclosed per property."},
+    {"column": "properties.net_property_income (absolute)", "reason": "Per-property NPI is disclosed only as INR-million and as a % contribution (NPI donut, p26), not as an absolute SGD figure. Captured the % in npi_pct; absolute left null."},
+    {"column": "properties.gross_revenue", "reason": "Per-property total property income is disclosed only in INR-million (financial review, p25), not in the SGD schema unit. Stored as % (npi_pct) and INR figures in data_with_no_home; absolute SGD per-property revenue not disclosed, so kept null to avoid a fabricated cross-currency conversion."},
+    {"column": "properties.major_tenants", "reason": "Tenants are disclosed only at portfolio level (Top 10 Tenants table, p41); no per-property tenant breakdown is given."},
+    {"column": "performance.wale", "reason": "No single weighted-average-lease-expiry (years) figure disclosed; only a lease-expiry profile by rental revenue and city (p40)."},
+    {"column": "performance.weighted_avg_debt_maturity", "reason": "No weighted-average debt maturity (years) disclosed; only a debt-maturity profile bar chart by fiscal year (p31)."},
+    {"column": "financial.employee_breakdown", "reason": "Externally managed business trust; no trust-level employees. Trustee-Manager headcount not disclosed in the report."}
+  ],
+  "data_with_no_home": [
+    "Data centre capacity: DC Navi Mumbai 105.0 MW gross / 70.7 MW IT Load; DC ITPH 42.0 MW / 27.0 MW; DC Chennai 53.0 MW / 34.0 MW; DC ITPB 45.0 MW / 28.0 MW (on hold).",
+    "Portfolio AUM S$3.8b; completed floor area 21.7 million sq ft; 307 tenants; 16 assets; 5 cities.",
+    "Geographical diversification by rental revenue (tenant HQ country): USA 49%, India 33%, Others 13%, France 3%, Singapore 2% (p41).",
+    "Rental reversion +21% (TTM); GCCs ~55% of tenant base; largest tenant 11% of portfolio base rents.",
+    "Fitch credit rating BBB-; net gearing 37.6%; fixed-rate debt 72.6%; INR debt 52.5%; debt headroom S$967m; ICR excl. perpetual distributions 2.8x.",
+    "FX rates: average SGD/INR 66.1 (income); valuation closing rate S$1:INR 70.4 (2025), 62.7 (2024).",
+    "Per-property total property income FY2025 (INR million, p25): ITPB 6,318; ITPC 2,215; ITPH 2,451; aVance Hyderabad 1,635; aVance I Pune 1,253; ITPP-H 1,458; Logistics Park 782; CyberVale 373; CyberPearl 539; Building Q1 538; IF1 MWC 199; IF2&3 MWC 170; aVance II Pune 528; Building Q2 593; DC Navi Mumbai 404; Pollax 12; Total 19,468.",
+    "Per-property NPI FY2025 (INR million, p26): ITPB 5,160; ITPC 1,628; ITPH 1,948; aVance Hyderabad 1,271; aVance I Pune 1,007; ITPP-H 1,205; Logistics Park 111; CyberVale 416; CyberPearl 265; Building Q1 355; IF1 165; IF2&3 150; aVance II 324; Building Q2 522; DC Navi Mumbai 336; Pollax 9; Total 14,872.",
+    "Income available for distribution S$118.9m; income to be distributed S$107.0m (post 10% retention); DPU 7.87 cents.",
+    "Perpetual securities S$101.407m issued FY2025 (redeemable from 2 Jul 2030); accrued distribution S$2.206m debited to equity (not P&L).",
+    "Issued units at year-end 1,206,673k (balance sheet) vs weighted-avg 1,343,882k (EPU denominator) vs 1,360,637,733 units at 27 Feb 2026 (Statistics)."
+  ],
+  "parsing_traps": [
+    "Business trust: P&L is a 'Consolidated Income Statement' ending at 'Net profit after tax' (S$340.030m), NOT a 'Statement of Total Return for the year'. Comprehensive income (S$103.929m) adds OCR/translation — NOT used for net_income.",
+    "Property cards group Building Q1+Q2 (one card) and IF1+IF2&3 (one card); the audited Portfolio Statement (Note 35, p175-176) splits them into 4 distinct rows. Followed the audited statement as canonical (18 property rows).",
+    "CyberVale & CyberPearl show carrying value '-' in the 2025 Portfolio Statement (divested 29 Sep 2025) but their partial-year revenue/NPI is in the consolidated total — kept as status=divested rows.",
+    "Three data centres (Chennai, ITPH, Navi Mumbai) are 'Assets held for sale' at 31 Dec 2025 (SPA/JVA executed for 20.2% stake divestment, completed 27 Feb 2026) — status=held_for_sale, carrying value still in Portfolio Statement.",
+    "Portfolio Statement total = S$3,786.072m (investment properties S$2,833.150m + IPUC S$214.400m + assets held for sale S$738.522m). Used as performance.portfolio_value. The S$2,833.150m balance-sheet IP line is NOT the portfolio total.",
+    "Page 188 ('top_audited_000' for profile) is the Trustee-Manager company's OWN financial statements (CapitaLand India Trust Management Pte Ltd), not the trust — ignored for trust profile/financials.",
+    "Per-property gross_revenue stored in INR '000 (×1,000,000 from INR million) because SGD per-property figures are not disclosed; row currency reflects the SGD valuation. Flagged per row."
+  ],
+  "reconciliation": {
+    "sum_property_valuation_active_and_hfs": 3786072000.0,
+    "reported_portfolio_statement_total": 3786072000.0,
+    "reported_total_gross_revenue": 294351000.0,
+    "performance_gross_revenue": 294351000.0,
+    "reported_total_npi": 224865000.0,
+    "performance_net_property_income": 224865000.0,
+    "line_items_check": "Σrevenue(294,351) − Σexpense(314,275) + Σadjustment(359,954) = 340,030 = net_income (Net profit after tax). PASS.",
+    "trade_mix_sum_pct": 100.0,
+    "property_count": 18,
+    "note": "Portfolio Statement sum of 18 property rows + the held-for-sale/other-assets reconciling lines = S$3,786.072m investment-property total. Per-property revenue/NPI percentages each sum to 100% across the 16-line financial-review tables (which include divested CyberVale/CyberPearl + Pollax)."
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "rows": ["Building Q1, Aurum Q Parc", "Building Q2, Aurum Q Parc"], "value": "2048-06-30", "basis": "Card states land 'Till June 2048' for combined Q1&Q2; applied to both split rows.", "source_page": 47},
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "International Tech Park Pune, Hinjawadi (ITPP-H)", "value": "2103-02-28", "basis": "Card states 'Till February 2103'; consistent with 95-year term / 78 years remaining.", "source_page": 47},
+    {"table": "properties", "field": "lease_expiry_date", "rows": ["Industrial Facility 1, Mahindra World City", "Industrial Facility 2 and 3, Mahindra World City"], "value": "2117-09-30", "basis": "Combined IF card states 'Till September 2117' (initial term 96 yrs 8 mths); applied to both split rows.", "source_page": 48},
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "CapitaLand Data Centre Navi Mumbai", "value": "2062-07-01", "basis": "Multiple tenures; earliest sub-plot expiry (Jul 2062) per REFERENCE land_tenure rule for combined/multi-lease rows.", "source_page": 50},
+    {"table": "properties", "field": "ownership", "rows": ["International Tech Park Bangalore (ITPB)", "CapitaLand Data Centre ITPB"], "value": 93.0, "basis": "Card states 93% (7.2% KIADB); Portfolio Statement footnote says 92.8% for MTB7/8 and DC ITPB. Used card's 93%; footnote 92.8% noted in flags.", "source_page": 44},
+    {"table": "financial", "field": "income_stmt_metrics.capital_expenditure", "value": -192585000.0, "basis": "Sum of purchase of plant & equipment (-4,455) + additions to IPUC/IP (-188,130); cash flow statement p107.", "source_page": 107}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "symbol": "J91U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 4858600000,
+  "properties_location": "Singapore, Australia, Japan",
+  "gross_revenue": 445984000,
+  "net_property_income": 328679000,
+  "net_distributable_income": 176076000,
+  "dpu": 21.914,
+  "distribution_record": [
+    {"period": "1H2025 (1/1/2025-30/6/2025)", "dpu": 11.239, "ex_date": null, "pay_date": "2025-09-12"}
+  ],
+  "number_of_unitholders": null,
+  "aggregate_leverage": 43.4,
+  "interest_coverage_ratio": 2.5,
+  "cost_of_debt": 3.35,
+  "weighted_avg_debt_maturity": 2.0,
+  "nav_per_unit": 2.55,
+  "wale": 4.4,
+  "portfolio_occupancy": 91.1,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_half_year_split", "scope": "distribution_record", "note": "DPU is paid semi-annually; total FY2025 DPU 21.914 cents. 1H2025 distribution of 11.239 cents/Unit paid 12 Sep 2025; 2H2025 distribution declared and paid in FY2026. Comparatives restated for 10:1 unit consolidation completed 5 May 2025."}
+  ],
+  "source_page": 22
+}

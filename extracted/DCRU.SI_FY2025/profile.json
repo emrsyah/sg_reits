@@ -1,0 +1,12 @@
+{
+  "symbol": "DCRU.SI",
+  "sub_sector": "Data Centre",
+  "management": [
+    {"role": "sponsor", "company_name": "Digital Realty Trust, L.P."},
+    {"role": "reit_manager", "company_name": "Digital Core REIT Management Pte. Ltd."},
+    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
+    {"role": "property_manager", "company_name": "Digital Realty Property Manager, LLC"}
+  ],
+  "income_model": "conventional",
+  "source_page": 26
+}

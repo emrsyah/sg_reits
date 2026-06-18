@@ -1,0 +1,69 @@
+{
+  "symbol": "A17U.SI",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "source_page": 115,
+  "income_stmt_metrics": {
+    "total_revenue": 1538574000,
+    "cost_of_revenue": 471014000,
+    "gross_income": 1067560000,
+    "operating_income": 963547000,
+    "operating_expense": 104013000,
+    "ebit": 1113298000,
+    "ebitda": 1113298000,
+    "pretax_income": 835486000,
+    "income_taxes": 55770000,
+    "net_income": 779716000,
+    "non_operating_income_or_loss": -128061000,
+    "interest_expense_non_operating": 277812000,
+    "diluted_shares_outstanding": 4519151000,
+    "net_property_sales": 22819000,
+    "funds_from_operation": null,
+    "unitholders": 769696000,
+    "perpetual_security_holders": 10020000,
+    "minorities": 0,
+    "revenue_breakdown": [
+      {"category": "Property rental income", "amount": 1254395000, "class": "Product/Service Sales"},
+      {"category": "Other income", "amount": 284179000, "class": "Other income"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "Base management fees", "amount": 87888000, "class": "General & Admin"},
+      {"category": "Trust expenses", "amount": 16125000, "class": "Other expenses"}
+    ],
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating", "net_property_sales"]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 19794388000,
+    "total_equity": 10854306000,
+    "total_liabilities": 8940082000,
+    "working_capital": -2008332000,
+    "total_current_asset": 386092000,
+    "total_non_current_asset": 19408296000,
+    "total_current_liabilities": 2394424000,
+    "total_non_current_liabilities": 6545658000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 1068870000,
+    "investing_cash_flow": -1392876000,
+    "financing_cash_flow": 364983000,
+    "net_cash_flow": 40977000,
+    "free_cash_flow": 906336000,
+    "capital_expenditure": -162534000
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "gross_revenue", "amount": 1538574000, "label_raw": "Gross revenue", "source_page": 115},
+    {"statement": "expense", "component": "property_operating_expenses", "amount": 471014000, "label_raw": "Property operating expenses", "source_page": 115},
+    {"statement": "expense", "component": "management_fee_base", "amount": 87888000, "label_raw": "Management fees - Base management fee", "source_page": 115},
+    {"statement": "expense", "component": "trust_expenses", "amount": 16125000, "label_raw": "Trust expenses", "source_page": 115},
+    {"statement": "adjustment", "component": "finance_costs_net", "amount": -277812000, "label_raw": "Finance costs, net", "source_page": 115},
+    {"statement": "adjustment", "component": "net_foreign_exchange_differences", "amount": 32861000, "label_raw": "Net foreign exchange differences", "source_page": 115},
+    {"statement": "adjustment", "component": "gain_on_disposal_subsidiary", "amount": 3538000, "label_raw": "Gain on disposal of a subsidiary", "source_page": 115},
+    {"statement": "adjustment", "component": "gain_on_disposal_investment_properties", "amount": 19281000, "label_raw": "Gain on disposal of investment properties", "source_page": 115},
+    {"statement": "adjustment", "component": "fair_value_change_financial_derivatives", "amount": -105476000, "label_raw": "Net change in fair value of financial derivatives", "source_page": 115},
+    {"statement": "adjustment", "component": "fair_value_change_right_of_use_assets", "amount": -10189000, "label_raw": "Net change in fair value of right-of-use assets", "source_page": 115},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 194619000, "label_raw": "Net change in fair value of investment properties and investment properties under development", "source_page": 115},
+    {"statement": "adjustment", "component": "share_of_jv_associate_results", "amount": 15117000, "label_raw": "Share of associated company's and joint venture's results", "source_page": 115},
+    {"statement": "adjustment", "component": "tax_expense", "amount": -55770000, "label_raw": "Tax (expense)/credit", "source_page": 115}
+  ]
+}

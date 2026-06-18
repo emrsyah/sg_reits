@@ -1,0 +1,14 @@
+{
+  "file": "11_8C8U.SI_Centurion-Accommodation-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 83,
+  "pages_written": 83,
+  "seconds": 49.3,
+  "parse_quality_score": null,
+  "runtime": 26.282238721847534,
+  "cost_breakdown": {
+    "final_cost_cents": 25.0
+  },
+  "checkpoint_id": "checkpoint__REIdPHTTNMH3NxHsklPd_uCDzzuka7XWiM_R1azlOk",
+  "page_range": null
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "symbol": "DCRU.SI", "financial_year": 2025,
+    "type": "acquisition", "property_name": "Digital Osaka 3",
+    "counterparty": "Mitsubishi Corporation",
+    "interest_acquired_pct": 20.0,
+    "consideration": 86700000, "consideration_currency": "USD",
+    "consideration_local": 13000000000, "consideration_local_currency": "JPY",
+    "completion_date": "2025-03-25",
+    "note": "Acquired 20% interest in second fully-fitted freehold data centre in Osaka via Digital CR Singapore 4 Pte. Ltd. for ~JPY13,000m (~US$86.7m); debt-funded. 100% appraisal JPY65,390m at 15 Mar 2025.",
+    "source_page": 34
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "columns_never_fillable": [
+    {"column": "property.net_property_income", "reason": "Per-property NPI is not disclosed; only annualised gross rental income is given per property (portfolio NPI is disclosed at trust level only)."},
+    {"column": "property.gla / gfa", "reason": "Portfolio listing discloses only Net Internal Area (sq ft) -> mapped to nla; GLA/GFA not disclosed."},
+    {"column": "property.lease_expiry_date", "reason": "Per-property land-lease expiry not tabulated; only term/start disclosed for the 6 leasehold assets via footnotes. Tenancy (occupational) expiries disclosed only at portfolio level (lease-expiry profile / WALE)."},
+    {"column": "financial.employee_breakdown", "reason": "Externally managed REIT; no trust-level employees disclosed."},
+    {"column": "financial.funds_from_operation", "reason": "No US-style FFO disclosed; trust reports Distributable Income (GBP 19,303k -> performance.net_distributable_income)."}
+  ],
+  "data_with_no_home": [
+    {"item": "Distribution yield 8.4% (as at 31 Dec 2025)", "source_page": 5},
+    {"item": "Total return FY2025 +34.2%; market capitalisation GBP 217.1m (+25.4% yoy)", "source_page": 28},
+    {"item": "Proportion of fixed-rate debt 85%; debt headroom GBP 62.6m (net gearing basis) / GBP 79.4m", "source_page": 5},
+    {"item": "Net gearing ratio 40.7% (aggregate-debt-less-cash / total-assets-less-cash basis)", "source_page": 5},
+    {"item": "Total gross borrowings GBP 189.6m", "source_page": 23},
+    {"item": "Gross rental income from UK Government 99.2%", "source_page": 6},
+    {"item": "Weighted average remaining lease term at reporting date 2.4 years (audited, Note 4); WALE 7.2y is pro forma post DWP regear", "source_page": 148},
+    {"item": "NIA by region and valuation by region donut splits", "source_page": 6},
+    {"item": "Equivalent yield range 3.51%-13.74% (Note 4 valuation inputs)", "source_page": 149},
+    {"item": "Weighted average number of units 603,241k (DPU/EPU denominator)", "source_page": 162}
+  ],
+  "parsing_traps": [
+    "Per-property valuations are disclosed in the marketing Portfolio Profiles section in GBP millions (pp.38-57); the audited Statement of Financial Position / Note 4 discloses only an AGGREGATE investment-property figure (fair value GBP 424,660k; carrying GBP 425,873k incl. lease liabilities). Per-property market_valuation therefore taken from the marketing list (x1,000,000); Sum = GBP 425.1m, reconciles to headline portfolio value GBP 424.7m (rounding in GBP'm) and to Note 4 fair value GBP 424.66m.",
+    "North West table (p38) has an extra blank column after the 'Valuation as at' header; column offset handled in the adapter.",
+    "Some pages list columns as 'Valuation' first, others as 'Annualised...' first; both map to the same 5 data columns (val, annualised GRI, actual rent received, purchase price, NIA).",
+    "Headline Revenue GBP 38.0m / NPI GBP 36.0m EXCLUDE straight-line rent adjustments; audited Revenue is GBP 36,590k and audited NPI GBP 34,623k INCLUDE them. financial.json and performance use the AUDITED figures. total_revenue = Revenue 36,590 + Other property income 1,715 = 38,305 so that gross_income (total - opex) ties to audited NPI 34,623.",
+    "Aggregate leverage has two disclosed bases: 42.8% per Property Funds Appendix (used for performance.aggregate_leverage) vs 40.7% net gearing. cost_of_debt uses disclosed 'Borrowing cost' 4.7%.",
+    "Scotland tenure disclosed as 'heritable interest' = freehold equivalent -> land_tenure=Freehold."
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation": 425100000,
+    "reported_portfolio_value_headline": 424700000,
+    "note4_fair_value_investment_properties": 424660000,
+    "sum_property_gross_revenue_annualised": 37700000,
+    "annualised_gri_excl_straightline_p23": 37973000,
+    "audited_revenue_incl_other_income": 38305000,
+    "reported_net_property_income_audited": 34623000,
+    "property_count": 148,
+    "freehold_count": 142,
+    "leasehold_count": 6,
+    "line_items_tieout": "Sum(revenue 38,305) - Sum(expense 10,218) + Sum(adjustment -14,218) = 13,869 = net_income",
+    "trade_mix_sum_pct": 100.0
+  },
+  "inferred": [
+    {"table": "properties", "field": "occupancy_rate", "scope": "active rows with no per-region exception",
+     "value": 100.0, "basis": "Region footnotes state 'occupancy rate for all properties in <region> is 100%' (per-region, not per-property); applied per property. Vacant/partial assets (Lindsay House Dundee, Ladywell House Edinburgh, Cambria House/Newport Road Cardiff, The Forum Stevenage) left null and flagged.", "source_page": 41},
+    {"table": "performance", "field": "distribution_record[1].dpu", "scope": "2H FY2025",
+     "value": 1.49, "basis": "Derived as full-year DPU 3.03 - disclosed 1H 1.54 = 1.49 pence", "source_page": 5},
+    {"table": "properties", "field": "category", "scope": "all rows",
+     "value": "Office", "basis": "Portfolio is UK Government-let commercial office/operational assets (DWP JobCentre Plus etc.); per-property asset type not individually labelled.", "source_page": 6}
+  ]
+}

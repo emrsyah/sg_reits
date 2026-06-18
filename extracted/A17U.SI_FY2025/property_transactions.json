@@ -1,0 +1,17 @@
+[
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "9 Tai Seng Drive", "country": "Singapore", "date": "2025-08-11", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "5 Science Park Drive", "country": "Singapore", "date": "2025-08-06", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "Tuas Connection", "country": "Singapore", "date": "2025-12-30", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "9 Kallang Sector", "country": "Singapore", "date": "2025-12-30", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "2 Pioneer Sector 1", "country": "Singapore", "date": "2025-12-30", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "DHL Indianapolis Logistics Center", "country": "United States", "date": "2025-01-15", "source_page": 128},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "30 Tampines Industrial Avenue 3", "country": "Singapore", "date": "2025-10-16", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "31 Ubi Road 1", "country": "Singapore", "date": "2025-12-17", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "10 Toh Guan Road", "country": "Singapore", "date": "2025-12-17", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "9 Changi South Street 3", "country": "Singapore", "date": "2025-12-17", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "19 & 21 Pandan Avenue", "country": "Singapore", "date": "2025-12-17", "source_page": 129},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "95 Gilmore Road", "country": "Australia", "date": "2025-12-10", "source_page": 130},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "Astmoor Road", "country": "United Kingdom", "date": "2025-11-07", "source_page": 130},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "Parkside", "country": "United States", "date": "2025-06-26", "source_page": 130},
+  {"symbol": "A17U.SI", "financial_year": 2025, "type": "divestment", "property_name": "8700-8770 Nimbus", "country": "United States", "date": "2025-12-30", "source_page": 130}
+]

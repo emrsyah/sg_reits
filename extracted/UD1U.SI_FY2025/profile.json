@@ -5,8 +5,12 @@
     {"role": "reit_manager", "company_name": "IREIT Global Group Pte. Ltd."},
     {"role": "trustee", "company_name": "DBS Trustee Limited"},
     {"role": "sponsor", "company_name": "Tikehau Capital"},
-    {"role": "sponsor", "company_name": "City Developments Limited"}
+    {"role": "sponsor", "company_name": "City Developments Limited"},
+    {"role": "property_manager", "company_name": "MVGM Property Management Deutschland GmbH"},
+    {"role": "property_manager", "company_name": "CBRE Real Estate, S.A."},
+    {"role": "property_manager", "company_name": "CBRE Property Management"},
+    {"role": "property_manager", "company_name": "Sofidy Real Estate Fund Management Company"}
   ],
   "income_model": "conventional",
-  "source_page": 19
+  "source_page": 235
 }

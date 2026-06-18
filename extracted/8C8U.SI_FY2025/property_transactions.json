@@ -1,0 +1,4 @@
+[
+  {"symbol": "8C8U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "IPO Portfolio (14 assets: 5 PBWA SG + 8 PBSA UK + 1 PBSA AU)", "transaction_date": "2025-09-25", "price": 1862609000, "currency": "SGD", "note": "Acquisition value of the IPO Portfolio at listing (Note 19a); acquisition costs S$32,934k additional.", "source_page": 65},
+  {"symbol": "8C8U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "EPIISOD Macquarie Park (Sydney, PBSA, 732 beds)", "transaction_date": "2026-01-13", "price": 345000000, "currency": "AUD", "note": "SUBSEQUENT EVENT — completed 13 Jan 2026, after FP 2025 year-end; NOT in the FY2025 portfolio/financials. A$345.0m, fully debt-financed; 2-year master lease with CPPL/Sponsor to 31 Dec 2027. S$16,301k acquisition cost prepaid at year-end (Note 15).", "source_page": 74}
+]

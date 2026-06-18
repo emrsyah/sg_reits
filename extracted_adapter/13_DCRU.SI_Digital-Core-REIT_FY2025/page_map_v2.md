@@ -1,0 +1,189 @@
+# Page map v2 (classify) — 13_DCRU.SI_Digital-Core-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p26  · audited('000): p23
+- [1.00] p26 — This page presents the **TRUST AND ORGANISATION STRUCTURE** of Digital Core REIT, detailing the relationships between th
+- [1.00] p219 — no schema-relevant data
+- [1.00] ['000] p23 — no schema-relevant data
+- [1.00] p24 — no schema-relevant data
+- [1.00] p20 — no schema-relevant data
+- [1.00] p27 — This page details the Manager Organisation Structure with a Board of Directors overseeing three committees and the Chief
+- [1.00] p220 — no schema-relevant data
+- [1.00] p4 — no schema-relevant data
+- [1.00] p77 — no schema-relevant data
+- [1.00] p148 — no schema-relevant data
+- [0.99] p81 — no schema-relevant data
+- [0.99] p5 — This page serves as an introduction to Digital Core REIT, a dedicated core data centre S-REIT sponsored by Digital Realt
+- [0.99] p21 — no schema-relevant data
+- [0.99] p25 — no schema-relevant data
+- [0.98] p80 — no schema-relevant data
+- [0.97] p22 — no schema-relevant data
+- [0.97] ['000] p91 — no schema-relevant data
+- [0.97] p79 — no schema-relevant data
+- [0.96] p149 — no schema-relevant data
+- [0.94] p93 — no schema-relevant data
+- [0.93] p78 — no schema-relevant data
+- [0.88 OCR] p127 — no schema-relevant data
+- [0.87] [million] p18 — no schema-relevant data
+- [0.87] p84 — no schema-relevant data
+- [0.85] ['000] p90 — no schema-relevant data
+- [0.85] p92 — no schema-relevant data
+- [0.81] p151 — no schema-relevant data
+- [0.75] ['000] p86 — no schema-relevant data
+- [0.75] ['000] p186 — This page presents the Subsidiaries and Associates notes, detailing the Group's direct and indirect equity investments a
+- [0.73] p96 — no schema-relevant data
+- [0.73 OCR] p83 — no schema-relevant data
+- [0.67] p89 — no schema-relevant data
+- [0.65 OCR] p107 — no schema-relevant data
+- [0.62] ['000] p85 — The page presents the CEO's remuneration breakdown (John Stewart) with variable bonus and unit-based incentives totaling
+- [0.61] ['000] p216 — This page presents the Interested Persons Transactions table for Digital Core REIT, detailing aggregate values in US$'00
+- [0.58] p138 — This page contains the GRI Content Index for Digital Core REIT's 2025 sustainability report, detailing disclosures on or
+- [0.58 OCR] [million] p19 — no schema-relevant data
+- [0.50 OCR] ['000] p88 — no schema-relevant data
+- [0.49] p3 — no schema-relevant data
+- [0.48] p54 — This page presents an independent market research report containing tables and bar charts detailing Multi-Tenant Commiss
+- [0.47 OCR] ['000] p106 — This page features a table titled 'ENERGY USAGE COMPARISON' displaying Digital Core REIT's Energy Consumption (MWh) and 
+- [0.41 OCR] p75 — no schema-relevant data
+- [0.38 OCR] p82 — no schema-relevant data
+- [0.37] ['000] p164 — This page contains text-only notes regarding fee structures (manager's acquisition/divestment, development, trustee, pro
+- [0.35 OCR] p87 — no schema-relevant data
+- [0.35 OCR] p116 — no schema-relevant data
+- [0.35 OCR] p123 — no schema-relevant data
+- [0.27 OCR] p126 — no schema-relevant data
+- [0.26 OCR] p153 — no schema-relevant data
+- [0.26 OCR] p152 — no schema-relevant data
+- [0.24] p163 — no schema-relevant data
+- [0.22] p196 — no schema-relevant data
+- [0.20 OCR] p136 — no schema-relevant data
+- [0.18] p150 — This page contains the Independent Auditors' Report for Digital Core REIT, providing an opinion that the consolidated fi
+
+## performance  — top: p13  · audited('000): p217
+- [1.00] [million] p13 — This page presents the Highlights of FY 2025 for SGX REIT, featuring a main table detailing core metrics including a Dis
+- [1.00] ['000] p217 — This page presents the Statistics of Unitholding for SGX REIT as at 11 March 2026, led by a table detailing the distribu
+- [1.00] ['000] p218 — This page presents the unitholding statistics for Digital Core REIT as at 11 March 2026, featuring tables detailing Dire
+- [1.00] ['000] p14 — This page presents the Financial Highlights and Ratios alongside Statement of Financial Position Highlights for SGX REIT
+- [1.00] [million] p40 — This page presents Digital Core REIT's 2025 trading performance with a monthly table of Volume (Million Units) and Unit 
+- [0.99] [million] p32 — This page presents the **Key Statistics** table for Digital Core REIT as at 31 December 2025 and 31 December 2024, detai
+- [0.99] [million] p9 — This page presents key portfolio metrics including a weighted average lease expiry of 4.6 years, an occupancy rate of 97
+- [0.97] p41 — This page features a table titled "COMPARATIVE YIELDS (%)" reporting Digital Core REIT's yield at 7.06% as of 31 Decembe
+- [0.97] [million] p17 — This page details the 2025 key events for SGX REIT, explicitly reporting quarterly Distributable Income (DPU and total i
+- [0.96] [million] p28 — This page presents Digital Core REIT's distribution highlights, featuring a table detailing the Full-Year 2025 distribut
+- [0.91] p38 — no schema-relevant data
+- [0.87] p6 — no schema-relevant data
+- [0.86] ['000] p195 — This page presents the audited Portfolio Statement (Units in Issue) for SGX REIT, detailing the issuance and cancellatio
+- [0.83] ['000] p154 — This page presents the Statements of Financial Position (Balance Sheet) for SGX REIT as at 31 December 2025 and 2024, re
+- [0.79] p69 — This page presents a Frankfurt REIT portfolio overview featuring tables and charts on Absorption and New Supply (MW), Va
+- [0.77] ['000] p73 — This page presents the Osaka (Japan) REIT's operational performance through tables and charts detailing Absorption and N
+- [0.76] ['000] p194 — This page presents the **Units in Issue** table for the SGX REIT, detailing the reconciliation of units and amounts (in 
+- [0.75] [million] p11 — no schema-relevant data
+- [0.71] p63 — This page presents operational performance data for the Toronto region, featuring a table of quarterly absorption and ne
+- [0.65] ['000] p33 — This page presents a Debt Maturity Profile table (in US$ million) detailing the weighted average debt maturity of 3.7 ye
+- [0.53] ['000] p199 — This page presents the Tax Expense and Earnings Per Unit (EPU) notes for the SGX REIT group, reporting 2025 and 2024 fig
+- [0.48] p57 — This page presents the Northern Virginia data center segment's operational metrics, featuring a table of Absorption and 
+- [0.46] [million] p15 — This page presents DPU/financial highlights for SGX REIT in US$ million, displaying gross revenue of $176.2m (FY 2025) v
+- [0.40] ['000] p156 — This page presents the Distribution Statement for the SGX REIT Group, reporting US$'000 figures for the year ended 31 De
+- [0.40] ['000] p215 — This page contains the Financial Ratios table for the Group (SGD'000) and a subsequent events note regarding a distribut
+- [0.26] [million] p36 — This page presents the Lease Expiration Schedule, Trade Sector, and Credit Quality breakdowns for Digital Core REIT's in
+- [0.18] p54 — This page presents an independent market research report containing tables and bar charts detailing Multi-Tenant Commiss
+
+## properties  — top: p43
+- [1.00] ['000] p43 — This page presents the audited Portfolio Statement for the Northern Virginia data center property located at 44520 Hasti
+- [1.00] ['000] p45 — This page features a table presenting property details for the 43831 Devin Shafron Drive data centre in Ashburn, VA, inc
+- [1.00] ['000] p46 — This page presents the audited Portfolio Statement for the 3011 Lafayette Street data centre in Santa Clara, CA, detaili
+- [1.00] ['000] p47 — This page presents a property fact sheet for a 90.0% owned, LEED Gold-certified data center located at 1500 Space Park D
+- [1.00] ['000] p48 — This page details the portfolio specifics for 200 North Nash Street in El Segundo, CA, presenting a table with property 
+- [1.00] ['000] p49 — This page presents a detailed property profile for the 3015 Winona Avenue colocation facility in Burbank, CA, featuring 
+- [1.00] ['000] p52 — This page presents the Portfolio Details for Digital Osaka 2, a freehold data centre facility with 20.0% ownership inter
+- [1.00] ['000] p53 — This page presents a property artifact for Osaka Digital Connected Campus, featuring a table with key details such as ad
+- [1.00] [million] p12 — This page presents the audited Portfolio Statement (property valuations) for Digital Core REIT's global data center pres
+- [1.00] ['000] p44 — This page details the portfolio asset at 8217 Linton Hall Road in Bristow, VA, presenting a table of property specificat
+- [1.00] ['000] p50 — This page details the portfolio properties for the Toronto location, specifically highlighting 371 Gough Road as a fully
+- [1.00] ['000] p51 — This page presents a property profile for the Frankfurt data centre (Wilhelm-Fay Straße 15 and 24) featuring an audited 
+- [0.97] ['000] p182 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table titled "Investment in real 
+- [0.82] ['000] p184 — This page presents the audited Portfolio Statement (property valuations) for Property, plant and equipment under Note 6,
+- [0.81] [million] p31 — This page presents a table titled **ASSET UNDER MANAGEMENT (US$ million)** detailing Digital Core REIT's property valuat
+- [0.74] p42 — no schema-relevant data
+- [0.71] p7 — no schema-relevant data
+- [0.52] p8 — no schema-relevant data
+- [0.29 OCR] p70 — This page presents an independent market research report titled "Osaka (Japan)" from Synergy Research, featuring bar cha
+- [0.17] ['000] p34 — This page presents the Operations Review and Portfolio Metrics for Digital Core REIT as of 31 December 2025, featuring a
+
+## top_tenants  — top: p37
+- [1.00] p37 — This page presents the **TOP 10 CUSTOMERS** table for Digital Core REIT, detailing the top-10 tenants by trade sector, c
+
+## trade_mix  — top: p35  · audited('000): p34
+- [0.97] p35 — This page presents an **Occupancy** table listing 10 properties with percentages ranging from 83.5% to 100.0%, alongside
+- [0.71] [million] p36 — This page presents the Lease Expiration Schedule, Trade Sector, and Credit Quality breakdowns for Digital Core REIT's in
+- [0.69] ['000] p34 — This page presents the Operations Review and Portfolio Metrics for Digital Core REIT as of 31 December 2025, featuring a
+- [0.37] p57 — This page presents the Northern Virginia data center segment's operational metrics, featuring a table of Absorption and 
+- [0.23] p63 — This page presents operational performance data for the Toronto region, featuring a table of quarterly absorption and ne
+- [0.15] p69 — This page presents a Frankfurt REIT portfolio overview featuring tables and charts on Absorption and New Supply (MW), Va
+
+## financial  — top: p189
+- [1.00] ['000] p189 — no schema-relevant data
+- [1.00] ['000] p198 — This page presents SG$'000 financial data for the Group under Notes 17 and 18, detailing Finance Income and Costs (inclu
+- [1.00] ['000] p197 — This page of the SGX REIT annual report (Year ended 31 December 2025) presents the **Gross Revenue** and **Property Oper
+- [1.00] ['000] p181 — This page presents the audited financial statements for Trade and Other Receivables (Note 4) and Derivative Financial In
+- [1.00] p178 — This page contains accounting policy notes regarding dividend income, finance costs, and tax expense recognition for the
+- [1.00] ['000] p191 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a reconciliation table of liabiliti
+- [0.99] ['000] p155 — This page presents the Consolidated Statement of Profit or Loss and Other Comprehensive Income for the SGX REIT for the 
+- [0.99] ['000] p208 — This page presents the Group's fair value of assets and liabilities as at 31 December 2024, reporting carrying amounts a
+- [0.99] ['000] p213 — This page presents the Operating Segment table for the year ended 31 December 2025, reporting Group performance by geogr
+- [0.99] ['000] p214 — This page presents the Operating Segment table for SGX REIT's year ended 31 December 2024, reporting gross revenue of US
+- [0.99] ['000] p29 — This page presents the Consolidated Statement of Comprehensive Income and Distribution Statement for SGX REIT, reporting
+- [0.99] ['000] p209 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing the fair value of
+- [0.99] ['000] p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing the fair value of
+- [0.99] ['000] p188 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents an Associates table reporting Digit
+- [0.99] ['000] p207 — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT annual report, detailing fair 
+- [0.99] ['000] p161 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting Group cash fl
+- [0.99] ['000] p200 — This page presents the notes to the financial statements for the year ended 31 December 2025, specifically detailing lea
+- [0.99] p177 — no schema-relevant data
+- [0.99] ['000] p193 — This page presents the audited Portfolio Statement for Non-Controlling Interests (NCI) as of 31 December 2025, detailing
+- [0.99] ['000] p201 — This page presents the acquisition of a subsidiary and significant related party transactions, featuring a table detaili
+- [0.98] p212 — no schema-relevant data
+- [0.98] ['000] p211 — This page presents the audited Portfolio Statement (property valuations) titled "Fair Value of Assets and Liabilities," 
+- [0.98] p168 — no schema-relevant data
+- [0.98] p174 — no schema-relevant data
+- [0.98] ['000] p187 — This page presents financial information for the Group's material associates, Digital Osaka 2 TMK and Digital Osaka 3 TM
+- [0.97] p166 — no schema-relevant data
+- [0.97] ['000] p158 — This page presents the Consolidated Statement of Changes in Unitholders' Funds for SGX REIT, reporting Group and Non-con
+- [0.97] p173 — This page contains no schema-relevant data.
+- [0.96] ['000] p157 — This page presents the Consolidated Statement of Changes in Unitholders' Funds for the year ended 31 December 2025, repo
+- [0.96] ['000] p192 — This page presents the audited Portfolio Statement of Non-Controlling Interests for Digital Space Park JV, LLC and eight
+- [0.96] p172 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains accounting policies regarding finan
+- [0.96] ['000] p179 — This page of the SGX REIT annual report for the year ended 31 December 2025 details accounting policies regarding tax ex
+- [0.96] ['000] p162 — This page presents the Consolidated Statement of Cash Flows for the Group, reporting cash flows from financing activitie
+- [0.95] p169 — no schema-relevant data
+- [0.95] p180 — no schema-relevant data
+- [0.93] [million] p30 — This page presents a Financial Review of Digital Core REIT for FY 2025, detailing revenue growth, expense increases, and
+- [0.91] p170 — This page contains accounting policy notes regarding depreciation of data centre assets and financial instrument classif
+- [0.91] ['000] p183 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing investment proper
+- [0.90] ['000] p190 — no schema-relevant data
+- [0.89] ['000] p160 — This page presents the Statement of Changes in Unitholders' Funds for the year ended 31 December 2025, reporting total u
+- [0.89] ['000] p165 — This page contains the Basis of Preparation notes for the SGX REIT Trust's financial statements presented in US$'000, de
+- [0.87] p167 — no schema-relevant data
+- [0.85] ['000] p159 — This page presents the Statement of Changes in Unitholders' Funds for SGX REIT, reporting total unitholders' funds at US
+- [0.83] p171 — no schema-relevant data
+- [0.79] p175 — no schema-relevant data
+- [0.78] [million] p185 — This page contains the **Statement of Portfolio (property valuations)** as part of the Notes to the Financial Statements
+- [0.73] p163 — no schema-relevant data
+- [0.72] ['000] p204 — This page presents a financial risk management table detailing carrying amounts and contractual cash flows for non-deriv
+- [0.69] p196 — no schema-relevant data
+- [0.67] ['000] p203 — This page presents the "Analysis of financial instruments by remaining contractual maturities" table, which details the 
+- [0.64] p176 — This page contains the "3 Material Accounting Policies (cont'd)" section detailing the Group's impairment methodology fo
+- [0.62] ['000] p164 — This page contains text-only notes regarding fee structures (manager's acquisition/divestment, development, trustee, pro
+- [0.59] ['000] p156 — This page presents the Distribution Statement for the SGX REIT Group, reporting US$'000 figures for the year ended 31 De
+- [0.58] ['000] p215 — This page contains the Financial Ratios table for the Group (SGD'000) and a subsequent events note regarding a distribut
+- [0.55] p150 — This page contains the Independent Auditors' Report for Digital Core REIT, providing an opinion that the consolidated fi
+- [0.52] [million] p15 — This page presents DPU/financial highlights for SGX REIT in US$ million, displaying gross revenue of $176.2m (FY 2025) v
+- [0.50] ['000] p206 — no schema-relevant data
+- [0.47] ['000] p199 — This page presents the Tax Expense and Earnings Per Unit (EPU) notes for the SGX REIT group, reporting 2025 and 2024 fig
+- [0.38 OCR] ['000] p205 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains financial risk management disclosur
+- [0.27] ['000] p33 — This page presents a Debt Maturity Profile table (in US$ million) detailing the weighted average debt maturity of 3.7 ye
+- [0.22] ['000] p216 — This page presents the Interested Persons Transactions table for Digital Core REIT, detailing aggregate values in US$'00
+- [0.22] ['000] p194 — This page presents the **Units in Issue** table for the SGX REIT, detailing the reconciliation of units and amounts (in 
+- [0.19] ['000] p186 — This page presents the Subsidiaries and Associates notes, detailing the Group's direct and indirect equity investments a
+- [0.19 OCR] ['000] p202 — This page presents the Financial Risk Management notes for the year ended 31 December 2025, detailing the Group's aggreg
+- [0.16] ['000] p184 — This page presents the audited Portfolio Statement (property valuations) for Property, plant and equipment under Note 6,

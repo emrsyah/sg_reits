@@ -1,0 +1,12 @@
+[
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 1, "client_name": "SEA Group", "industry": "IT & Telecommunications", "revenue_pct": 3.2, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 2, "client_name": "DSO National Laboratories", "industry": "Government Related", "revenue_pct": 2.0, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 3, "client_name": "Global Technology Company", "industry": "IT & Telecommunications", "revenue_pct": 1.7, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 4, "client_name": "Stripe, Inc.", "industry": "Financial & Professional Services", "revenue_pct": 1.7, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 5, "client_name": "Entserv UK Limited", "industry": "IT & Telecommunications", "revenue_pct": 1.5, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 6, "client_name": "Singapore Telecommunications Limited", "industry": "IT & Telecommunications", "revenue_pct": 1.4, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 7, "client_name": "DHL", "industry": "Logistics & Supply Chain Management", "revenue_pct": 1.4, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 8, "client_name": "Seagate Singapore", "industry": "Other Industrial Trades", "revenue_pct": 1.2, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 9, "client_name": "DBS Bank Ltd.", "industry": "Financial & Professional Services", "revenue_pct": 1.1, "pct_basis": "gross_revenue", "source_page": 38},
+  {"symbol": "A17U.SI", "financial_year": 2025, "rank": 10, "client_name": "Citibank N.A.", "industry": "Financial & Professional Services", "revenue_pct": 1.1, "pct_basis": "gross_revenue", "source_page": 38}
+]

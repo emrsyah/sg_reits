@@ -1,0 +1,14 @@
+{
+  "file": "15_J91U.SI_ESR-LOGOS-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 244,
+  "pages_written": 244,
+  "seconds": 55.0,
+  "parse_quality_score": null,
+  "runtime": 31.779427528381348,
+  "cost_breakdown": {
+    "final_cost_cents": 98.0
+  },
+  "checkpoint_id": "checkpoint_7Hgc_xXlOTXU-x2_yRIsfRsb_YBwcXGPfznMK4X5IvI",
+  "page_range": null
+}

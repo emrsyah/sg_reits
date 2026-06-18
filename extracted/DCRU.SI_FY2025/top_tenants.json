@@ -1,0 +1,12 @@
+[
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 1, "client_name": "Fortune 50 Software Company", "industry": "IT & Telecommunications", "revenue_pct": 30.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 2, "client_name": "Fortune 25 Tech Company", "industry": "IT & Telecommunications", "revenue_pct": 15.6, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 3, "client_name": "Social Media Platform", "industry": "IT & Telecommunications", "revenue_pct": 12.5, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 4, "client_name": "Global Technology Solutions Provider", "industry": "IT & Telecommunications", "revenue_pct": 6.7, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 5, "client_name": "Global Cloud Provider", "industry": "IT & Telecommunications", "revenue_pct": 4.7, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 6, "client_name": "Global Colocation Data Centre Provider", "industry": "IT & Telecommunications", "revenue_pct": 4.4, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 7, "client_name": "Next-Generation AI Computing Developer", "industry": "IT & Telecommunications", "revenue_pct": 3.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 8, "client_name": "Listed Software Developer", "industry": "IT & Telecommunications", "revenue_pct": 2.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 9, "client_name": "Global Cloud Service Provider", "industry": "IT & Telecommunications", "revenue_pct": 2.6, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2025, "rank": 10, "client_name": "IT Service Provider", "industry": "IT & Telecommunications", "revenue_pct": 2.3, "pct_basis": "rental_income", "source_page": 37}
+]

@@ -1,0 +1,275 @@
+# Page map v2 (classify) — 15_J91U.SI_ESR-LOGOS-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p10  · audited('000): p33
+- [1.00] p10 — This page presents the trust structure diagram and textual description of ESR-REIT, detailing ownership stakes between t
+- [1.00] p11 — This page presents the organisational structure and governance details of ESR-REIT Management (S) Limited, featuring a h
+- [1.00] p243 — no schema-relevant data
+- [1.00] p34 — no schema-relevant data
+- [1.00] p239 — no schema-relevant data
+- [1.00] [million] p2 — no schema-relevant data
+- [1.00] ['000] p33 — no schema-relevant data
+- [1.00] p35 — no schema-relevant data
+- [1.00] p36 — no schema-relevant data
+- [1.00] p120 — no schema-relevant data
+- [1.00] p12 — no schema-relevant data
+- [1.00] ['000] p32 — no schema-relevant data
+- [1.00] p37 — no schema-relevant data
+- [1.00] p240 — no schema-relevant data
+- [1.00] p28 — no schema-relevant data
+- [1.00] p94 — no schema-relevant data
+- [1.00] p242 — no schema-relevant data
+- [0.99] p101 — no schema-relevant data
+- [0.99] p93 — no schema-relevant data
+- [0.98] p124 — no schema-relevant data
+- [0.97] p98 — no schema-relevant data
+- [0.96] p233 — no schema-relevant data
+- [0.96] p232 — no schema-relevant data
+- [0.95] p121 — no schema-relevant data
+- [0.95] ['000] p157 — no schema-relevant data
+- [0.95] p234 — no schema-relevant data
+- [0.95] p112 — no schema-relevant data
+- [0.94] p235 — no schema-relevant data
+- [0.93] ['000] p177 — This page presents the "Composition of the Group" table listing indirect subsidiaries under the SGX'000 reporting unit, 
+- [0.92 OCR] ['000] p114 — no schema-relevant data
+- [0.91] p46 — no schema-relevant data
+- [0.89] p31 — no schema-relevant data
+- [0.89] p102 — no schema-relevant data
+- [0.89] p241 — no schema-relevant data
+- [0.85] ['000] p111 — no schema-relevant data
+- [0.84] ['000] p176 — This page presents the "Composition of the Group" table detailing ESR-REIT's subsidiaries and their effective equity int
+- [0.82 OCR] p89 — no schema-relevant data
+- [0.80] p244 — no schema-relevant data
+- [0.78] p95 — no schema-relevant data
+- [0.77] ['000] p105 — no schema-relevant data
+- [0.76] [million] p14 — This page features the "Message to Unitholders" and "FY2025 Financial Performance" section, which explicitly names Mr. A
+- [0.73] p96 — This page details the governance structure and attendance records for ESR-REIT's Board, Board Committees (ARCC, NRC, BSC
+- [0.73] p29 — no schema-relevant data
+- [0.73] p104 — no schema-relevant data
+- [0.69 OCR] p126 — This page contains the Auditor's responsibilities section from Ernst & Young LLP's Independent Auditor's Report for ESR-
+- [0.67] p38 — no schema-relevant data
+- [0.65] ['000] p115 — no schema-relevant data
+- [0.65] p19 — no schema-relevant data
+- [0.65 OCR] p42 — no schema-relevant data
+- [0.62] p97 — no schema-relevant data
+- [0.62 OCR] p99 — no schema-relevant data
+- [0.62] p100 — This page details the NRC's approach to achieving Board diversity targets and outlines the criteria for assessing Direct
+- [0.62 OCR] p237 — no schema-relevant data
+- [0.62] ['000] p161 — no schema-relevant data
+- [0.61] ['000] p178 — This page presents the audited Portfolio Statement via a composition table of indirect subsidiaries for ESR-REIT (SGD'00
+- [0.59] p30 — no schema-relevant data
+- [0.59] p236 — no schema-relevant data
+- [0.56] ['000] p226 — This page details the Interested Person Transactions (IPTs) of ESR REIT, listing aggregate values in SGD'000 for fees an
+- [0.56] p13 — no schema-relevant data
+- [0.55] p113 — no schema-relevant data
+- [0.55] p106 — no schema-relevant data
+- [0.53] p238 — no schema-relevant data
+- [0.50] p109 — no schema-relevant data
+- [0.48] p117 — no schema-relevant data
+- [0.47 OCR] p103 — no schema-relevant data
+- [0.42] p3 — no schema-relevant data
+- [0.35] ['000] p153 — no schema-relevant data
+- [0.32 OCR] p43 — no schema-relevant data
+- [0.28 OCR] [million] p20 — no schema-relevant data
+- [0.28] p116 — no schema-relevant data
+- [0.24] ['000] p197 — This page presents the Gross Revenue table for ESR REIT, reporting Group property rental income of SGD'000 and other inc
+- [0.24] ['000] p204 — This page presents the "Related Parties" section of the ESR-REIT Annual Report 2025, detailing significant transactions 
+- [0.22 OCR] p1 — no schema-relevant data
+- [0.22] ['000] p160 — This page details the fees payable to ESR Property Services Pte. Ltd. as the property manager for Singapore properties u
+- [0.21 OCR] p118 — no schema-relevant data
+- [0.20 OCR] p108 — no schema-relevant data
+- [0.17] ['000] p87 — This page details the portfolio holdings of New LAIVS Trust (4 distribution centres in Australia) and Oxford Property Fu
+- [0.15] [million] p86 — This page presents the "Other Investments" table detailing ESR-REIT's three property fund holdings (New LAIVS Trust, Oxf
+
+## performance  — top: p8  · audited('000): p22
+- [1.00] [million] p8 — This page presents financial highlights including a Total DPU of 21.914 cents, Gross Revenue of S$446.0 million, Net Pro
+- [1.00] ['000] p22 — This page presents the FY2025 Key Highlights of SGX REIT, featuring a main three-column diagram displaying financial per
+- [1.00] ['000] p24 — This page presents the Five-Year Financial Highlights for ESR REIT, featuring five key tables displaying Gross Revenue a
+- [1.00] ['000] p26 — This page presents ESR-REIT's unit price performance and trading data for FY2025, featuring a table of comparative month
+- [1.00] ['000] p25 — This page presents the Financial Highlights and Trading Statistics for SGX REIT, displaying a table of FY2021 through FY
+- [1.00] ['000] p130 — This page presents the Distribution Statement for ESR-REIT for the financial year ended 31 December 2025, detailing gros
+- [0.99] ['000] p58 — This page presents the **NET ASSETS ATTRIBUTABLE TO UNITHOLDERS** table and accompanying narrative, reporting Total Asse
+- [0.99] ['000] p229 — This page presents the Statistics of Unitholders for ESR-REIT as of 19 March 2026, featuring a table detailing the size 
+- [0.99] p44 — This page presents unitholder composition data for ESR-REIT, specifically detailing the breakdown by type (Sponsor, Inst
+- [0.99] [million] p59 — This page presents a **KEY FINANCICAL INDICATORS** table reporting ESR-REIT's capital metrics as at 31 December 2025 and
+- [0.99] p230 — This page presents the **Interest of Substantial Unitholders** table detailing direct and deemed interests in ESR-REIT U
+- [0.99] ['000] p15 — This page presents the **DPU / distribution / financial highlights** for ESR-REIT, reporting that FY2025 Core DPU and To
+- [0.99] [million] p39 — This page presents the SGX REIT's 2025 operational highlights, financial performance (including gross revenue of S$446.0
+- [0.99] ['000] p231 — This page presents the **Statistics of Unitholders** and **Directors' Interest in Units** table as at 19 March 2026, det
+- [0.98] [million] p27 — This page presents two charts detailing the Monthly and 5-Year trading performance (Closing Unit Price in S$ and Trading
+- [0.97] [million] p56 — This page presents financial highlights including the **DPU / distribution** table for FY2023 to FY2025, Net Property In
+- [0.96] ['000] p57 — This page details the change in the number of issued Units for ESR-REIT during FY2025, led by a table showing the reconc
+- [0.93] p4 — no schema-relevant data
+- [0.92] [million] p17 — no schema-relevant data
+- [0.92] [million] p50 — This page presents the audited Portfolio Statement (property valuations) and portfolio occupancy statistics for ESR-REIT
+- [0.79] ['000] p127 — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, reporting total assets o
+- [0.78] [million] p196 — no schema-relevant data
+- [0.72] ['000] p201 — This page presents the Earnings and Distribution Per Unit (DPU) table for ESR-REIT, reporting Total return/(loss) after 
+- [0.59] ['000] p202 — This page presents the ESR REIT's earnings and distribution per unit calculations for the financial year ended 31 Decemb
+- [0.55] [million] p60 — This page presents ESR-REIT's Debt Breakdown by Type and Currency as at 31 December 2025, detailing total debt of S$2,23
+- [0.48] p54 — This page presents the Active Leasing Management section of an SGX REIT annual report, featuring a table titled "Complet
+- [0.42 OCR] [million] p41 — no schema-relevant data
+- [0.41 OCR] [million] p20 — no schema-relevant data
+- [0.36] [million] p86 — This page presents the "Other Investments" table detailing ESR-REIT's three property fund holdings (New LAIVS Trust, Oxf
+- [0.29] [million] p225 — This page contains the Financial Ratios table for 2025 and 2024, reporting Expenses to weighted average net assets at 1.
+- [0.29] ['000] p87 — This page details the portfolio holdings of New LAIVS Trust (4 distribution centres in Australia) and Oxford Property Fu
+- [0.25] p3 — no schema-relevant data
+- [0.22] ['000] p131 — This page presents the Statements of Movements in Unitholders' Funds and Perpetual Securities Holders' Funds for ESR-REI
+- [0.20] ['000] p195 — This page of the ESR REIT Annual Report 2025 presents two tables in SGD'000: a summarized financial information table fo
+- [0.17] p116 — no schema-relevant data
+- [0.15] [million] p7 — no schema-relevant data
+
+## properties  — top: p135
+- [1.00] ['000] p135 — This page presents the audited Portfolio Statement for ESR-REIT as of 31 December 2025, detailing independent property v
+- [1.00] ['000] p137 — This page presents the Investment Properties Portfolio Statements for ESR REIT as of 31 December 2025, featuring a table
+- [1.00] [million] p71 — This page presents a table titled "Audited Portfolio Statement" detailing the remaining land lease terms, acquisition da
+- [1.00] [million] p77 — This page presents a table detailing the audited Portfolio Statement (property valuations) for SGX REIT as at 31 Decembe
+- [1.00] [million] p79 — This page presents key portfolio metrics including 13 properties with a Gross Floor Area of 745,084 sqm and Net Lettable
+- [1.00] [million] p83 — This page presents a table detailing the Remaining Term of Land Lease, Acquisition Date, Purchase Price/Development Cost
+- [1.00] ['000] p133 — This page presents the **Investment Properties Portfolio Statements** for ESR REIT as at 31 December 2025, detailing occ
+- [1.00] ['000] p138 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, listing ten Singa
+- [1.00] ['000] p139 — This page presents the audited Portfolio Statement (property valuations) for ESR REIT as of 31 December 2025, listing in
+- [1.00] ['000] p141 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, detailing occupan
+- [1.00] ['000] p143 — This page presents the Investment Properties Portfolio Statements for ESR REIT as of 31 December 2025, detailing indepen
+- [1.00] ['000] p147 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as at 31 December 2025, detailing indepen
+- [1.00] ['000] p151 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, reporting occupan
+- [1.00] [million] p73 — This page presents a table titled "Statement of Portfolio (property valuations)" detailing 9 properties with metrics inc
+- [1.00] ['000] p136 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, detailing a list 
+- [1.00] p140 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, detailing Singapo
+- [1.00] ['000] p142 — This page presents the **audited Portfolio Statement** for ESR REIT's Singapore General Industrial Properties as of 31 D
+- [1.00] ['000] p144 — This page presents the Investment Properties Portfolio Statement for ESR REIT as of 31 December 2025, detailing Singapor
+- [1.00] ['000] p146 — This page presents the Investment Properties Portfolio Statements for ESR REIT as of 31 December 2025, detailing seven f
+- [1.00] ['000] p148 — This page presents the Investment Properties Portfolio Statement for ESR REIT as of 31 December 2025, listing seven logi
+- [1.00] ['000] p149 — This page presents the audited Portfolio Statement for ESR REIT as at 31 December 2025, detailing independent valuations
+- [1.00] ['000] p63 — no schema-relevant data
+- [1.00] [million] p75 — This page presents key portfolio metrics (25 properties, 407,761 sqm gross floor area, 372,329 sqm net lettable area) an
+- [1.00] [million] p81 — This page presents the SGX REIT's property portfolio metrics, including 18 properties and a Gross Floor Area of 425,507 
+- [1.00] [million] p48 — This page presents a table detailing SGX'000 (S$ million) of announced divestments for the ESR-REIT portfolio, listing n
+- [1.00] ['000] p134 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, detailing a portf
+- [1.00] ['000] p145 — This page presents the audited Portfolio Statement (property valuations) for ESR REIT as of 31 December 2025, detailing 
+- [1.00] p150 — This page presents the Investment Properties Portfolio Statement for ESR REIT as of 31 December 2025, detailing leasehol
+- [0.99] p66 — no schema-relevant data
+- [0.99] p68 — no schema-relevant data
+- [0.99] ['000] p76 — This page presents a table listing 10 portfolio properties with their addresses, lease types, gross and net lettable are
+- [0.99] p69 — no schema-relevant data
+- [0.99] ['000] p132 — This page presents the **audited Portfolio Statement** for ESR-REIT's Singapore Business Park Properties as of 31 Decemb
+- [0.99] ['000] p62 — This page displays the ESR-REIT Singapore property portfolio map featuring 25 assets across Business Park, High-Specific
+- [0.99] p64 — no schema-relevant data
+- [0.99] ['000] p82 — This page presents a table of property details for the audited Portfolio Statement, listing five assets with their addre
+- [0.99] p65 — no schema-relevant data
+- [0.99] ['000] p72 — This page of the SGX REIT annual report for ESR REIT (Singapore) contains an audited Portfolio Statement detailing nine 
+- [0.99] ['000] p152 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, detailing both Tr
+- [0.99] p78 — no schema-relevant data
+- [0.98] p74 — This page presents a detailed portfolio statement for the Singapore General Industrial sector, listing 15 specific prope
+- [0.98] [million] p154 — This page presents the Investment Properties Portfolio Statements for ESR-REIT as of 31 December 2025, reporting audited
+- [0.98] p80 — no schema-relevant data
+- [0.98] ['000] p85 — This page presents a summary of property metrics including the number of properties (2) and gross/net floor areas, follo
+- [0.96] ['000] p49 — This page presents the Statement of Portfolio (property valuations) for ESR-REIT's 70 properties as at 31 December 2025,
+- [0.91] p67 — no schema-relevant data
+- [0.91] p84 — no schema-relevant data
+- [0.91] [million] p70 — This page presents a table detailing the Singapore Business Park portfolio properties, including addresses, lease types,
+- [0.77] [million] p7 — no schema-relevant data
+- [0.61] ['000] p174 — This page presents the audited Portfolio Statement (property valuations) for ESR REIT, detailing the changes in Investme
+- [0.60] [million] p47 — This page of the ESR-REIT 2025 Annual Report features a **Real Estate Transactions in FY2025** table detailing the dives
+- [0.54] ['000] p87 — This page details the portfolio holdings of New LAIVS Trust (4 distribution centres in Australia) and Oxford Property Fu
+- [0.45] ['000] p153 — no schema-relevant data
+- [0.42] [million] p16 — no schema-relevant data
+- [0.36] [million] p86 — This page presents the "Other Investments" table detailing ESR-REIT's three property fund holdings (New LAIVS Trust, Oxf
+- [0.35 OCR] p118 — no schema-relevant data
+- [0.32] [million] p123 — This page presents the "Key audit matters" section from ESR-REIT's 2025 annual report, detailing the auditor's assessmen
+- [0.32] [million] p53 — This page presents the ESR-REIT's balanced lease structure and portfolio expiry profiles as of 31 December 2025, led by 
+
+## top_tenants  — top: p52
+- [0.37] ['000] p52 — This page presents the **Top 10 Tenants** table and a **Portfolio Trade Sector Analysis** table for ESR-REIT's portfolio
+
+## trade_mix  — top: p51
+- [0.99] ['000] p51 — This page presents the SGX'000 reporting unit's breakdown of ESR-REIT's well-diversified industrial portfolio by asset c
+- [0.61] ['000] p52 — This page presents the **Top 10 Tenants** table and a **Portfolio Trade Sector Analysis** table for ESR-REIT's portfolio
+- [0.59] [million] p53 — This page presents the ESR-REIT's balanced lease structure and portfolio expiry profiles as of 31 December 2025, led by 
+- [0.42] p54 — This page presents the Active Leasing Management section of an SGX REIT annual report, featuring a table titled "Complet
+
+## financial  — top: p199
+- [1.00] ['000] p199 — This page presents the Group's Borrowing Costs, Net and Income Tax Expense tables for the financial year ended 31 Decemb
+- [1.00] ['000] p200 — This page of the ESR REIT 2025 annual report presents the Income Tax Expense notes, specifically detailing the movement 
+- [1.00] ['000] p155 — This page presents the Consolidated Statement of Cash Flows for ESR REIT for the financial year ended 31 December 2025, 
+- [1.00] ['000] p186 — This page presents the Group's lease liabilities for leasehold land and details the amounts recognised in the Statement 
+- [0.99] ['000] p192 — no schema-relevant data
+- [0.99] ['000] p212 — This page contains a table titled "Fair value of financial instruments by classes that are not carried at fair value and
+- [0.99] ['000] p224 — This page presents the **Segment Reporting (continued)** table detailing ESR-REIT's financial results and assets/liabili
+- [0.99] p170 — no schema-relevant data
+- [0.99] ['000] p198 — This page presents the **Property Expenses**, **Management Fees**, and **Trust Expenses** tables for ESR-REIT for the fi
+- [0.99] ['000] p213 — This page of the ESR-REIT 2025 annual report presents a table titled "(g) Classification of financial instruments (cont'
+- [0.99] ['000] p223 — This page presents the Segment Reporting table for ESR-REIT for the financial year ended 31 December 2025, detailing seg
+- [0.99] p166 — no schema-relevant data
+- [0.99] ['000] p181 — This page presents a summarized statement of comprehensive income for PTC LLP (a joint venture) and a table detailing in
+- [0.99] [million] p189 — no schema-relevant data
+- [0.99] p210 — This page details Level 3 fair value measurements for investment properties held directly or through a joint venture, pr
+- [0.99] ['000] p211 — This page contains the Level 3 fair value measurement inputs for unquoted equity investments in property funds and a tab
+- [0.99] ['000] p182 — This page contains the **Derivative Financial Instruments** table detailing Group and Trust assets and liabilities for i
+- [0.99] ['000] p187 — This page of the ESR REIT 2025 annual report presents Note 13 (Leases) detailing future minimum rental receivables under
+- [0.99] ['000] p183 — This page contains a table titled **10. TRADE AND OTHER RECEIVABLES** presenting financial data for the Group and Trust 
+- [0.99] ['000] p184 — This page presents Note 10 on the ageing of trade receivables and Note 11 on cash and bank balances for ESR-REIT's Group
+- [0.99] [million] p191 — no schema-relevant data
+- [0.99] ['000] p207 — This page presents the **Fair Value Measurement (Level 1-3)** table for ESR REIT's Group and Trust, detailing assets and
+- [0.99] ['000] p188 — This page of the ESR-REIT 2025 annual report contains a detailed table titled "Terms and debt repayment schedule" detail
+- [0.98] ['000] p209 — This page contains the Level 2 and Level 3 fair value measurement disclosures for ESR REIT's annual report for the finan
+- [0.98] p164 — no schema-relevant data
+- [0.98] ['000] p208 — This page presents the audited Portfolio Statement (property valuations) under Note 30 Fair Value Measurement, detailing
+- [0.98] ['000] p128 — This page presents the **Statement of Total Return** for ESR REIT for the financial year ended 31 December 2025, reporti
+- [0.98] p165 — no schema-relevant data
+- [0.98] ['000] p158 — no schema-relevant data
+- [0.97] p206 — This page contains the Notes to the Financial Statements under section 30, Fair Value Measurement, detailing the Group's
+- [0.97] ['000] p185 — This page presents the audited Trade and Other Payables table for ESR REIT's Group and Trust, detailing current and non-
+- [0.97] ['000] p129 — This page presents the **Distribution Statement** for ESR REIT for the financial year ended 31 December 2025, reporting 
+- [0.97] ['000] p180 — This page presents the Investment in a Joint Venture section of the ESR-REIT Annual Report 2025, featuring a table detai
+- [0.96] ['000] p156 — This page presents the Consolidated Statement of Cash Flows for ESR REIT's group for the financial year ended 31 Decembe
+- [0.96] [million] p159 — no schema-relevant data
+- [0.96] p171 — no schema-relevant data
+- [0.95] p172 — This page contains no schema-relevant data.
+- [0.95] p169 — no schema-relevant data
+- [0.95] [million] p194 — This page contains no schema-relevant data, as it details the terms of perpetual securities and non-controlling interest
+- [0.95] [million] p190 — no schema-relevant data
+- [0.94] p167 — This page presents the "MATERIAL ACCOUNTING POLICY INFORMATION (CONT'D)" section regarding financial instruments, detail
+- [0.90] p173 — no schema-relevant data
+- [0.89] ['000] p205 — This page presents the Related Parties table for ESR REIT's 2025 annual report, detailing fees paid and payable to Group
+- [0.89] ['000] p175 — This page of the ESR REIT 2025 annual report presents an unquoted equity investments table in SGD'000 showing a net carr
+- [0.88] ['000] p55 — This page presents the **Statement of Net Income and Distribution** for SGX REIT (ESR-REIT) reporting in SGD'000, detail
+- [0.86] [million] p162 — no schema-relevant data
+- [0.82] ['000] p179 — This page contains a table detailing the fair value of net assets acquired and cash outflow on the acquisition of Tuas S
+- [0.81] ['000] p222 — This page presents the Capital Management section of the ESR-REIT annual report for the financial year ended 31 December
+- [0.81] p168 — This page contains no schema-relevant data, as it details accounting policies for financial instruments, impairment of a
+- [0.80] [million] p203 — This page of the ESR REIT 2025 annual report details commitments and contingent liabilities rather than containing any s
+- [0.78] ['000] p195 — This page of the ESR REIT Annual Report 2025 presents two tables in SGD'000: a summarized financial information table fo
+- [0.77] ['000] p160 — This page details the fees payable to ESR Property Services Pte. Ltd. as the property manager for Singapore properties u
+- [0.76] ['000] p131 — This page presents the Statements of Movements in Unitholders' Funds and Perpetual Securities Holders' Funds for ESR-REI
+- [0.75] ['000] p227 — This page presents the Interested Persons Transactions (IPTS) disclosure for ESR-REIT, detailing approved transactions i
+- [0.74] [million] p193 — no schema-relevant data
+- [0.74] ['000] p204 — This page presents the "Related Parties" section of the ESR-REIT Annual Report 2025, detailing significant transactions 
+- [0.71] ['000] p61 — no schema-relevant data
+- [0.69] [million] p225 — This page contains the Financial Ratios table for 2025 and 2024, reporting Expenses to weighted average net assets at 1.
+- [0.69] p163 — no schema-relevant data
+- [0.66] ['000] p221 — This page contains a sensitivity analysis table detailing the impact of a 10% weakening of the SGD against AUD and JPY o
+- [0.66] ['000] p215 — This page presents the **Analysis of financial instruments by remaining contracted maturities** table, detailing the Gro
+- [0.61] ['000] p218 — This page presents a sensitivity analysis table detailing the Trust's Total Return and Unitholders' Funds impact (in SGD
+- [0.59] ['000] p197 — This page presents the Gross Revenue table for ESR REIT, reporting Group property rental income of SGD'000 and other inc
+- [0.51] p116 — no schema-relevant data
+- [0.48] p117 — no schema-relevant data
+- [0.47] [million] p123 — This page presents the "Key audit matters" section from ESR-REIT's 2025 annual report, detailing the auditor's assessmen
+- [0.46 OCR] ['000] p216 — This page presents the "Analysis of financial instruments by remaining contracted maturities" table for ESR-REIT's 2025 
+- [0.43] [million] p60 — This page presents ESR-REIT's Debt Breakdown by Type and Currency as at 31 December 2025, detailing total debt of S$2,23
+- [0.43 OCR] ['000] p217 — This page presents a sensitivity analysis table detailing the impact of a 100 basis point interest rate change on the Gr
+- [0.40] ['000] p202 — This page presents the ESR REIT's earnings and distribution per unit calculations for the financial year ended 31 Decemb
+- [0.38] ['000] p226 — This page details the Interested Person Transactions (IPTs) of ESR REIT, listing aggregate values in SGD'000 for fees an
+- [0.38] ['000] p161 — no schema-relevant data
+- [0.37] ['000] p174 — This page presents the audited Portfolio Statement (property valuations) for ESR REIT, detailing the changes in Investme
+- [0.33] ['000] p178 — This page presents the audited Portfolio Statement via a composition table of indirect subsidiaries for ESR-REIT (SGD'00
+- [0.30] ['000] p119 — This page contains the Table of Contents for the financial section of the SGX REIT annual report, listing key statements
+- [0.30 OCR] p122 — This page presents the Independent Auditor's Report to Unitholders of ESR-REIT for the financial year ended 31 December 
+- [0.26] ['000] p201 — This page presents the Earnings and Distribution Per Unit (DPU) table for ESR-REIT, reporting Total return/(loss) after 
+- [0.24] ['000] p115 — no schema-relevant data
+- [0.22 OCR] ['000] p228 — This page presents a table detailing the use of proceeds raised from the 2023 Equity Fund Raising, allocating S\$299.7 m
+- [0.20 OCR] ['000] p219 — This page presents a foreign currency risk exposure table detailing the Group's and Trust's financial assets, liabilitie
+- [0.18 OCR] ['000] p220 — This page of the ESR REIT 2025 Annual Report presents a table detailing foreign currency risk exposure for both Group an
+- [0.15] ['000] p127 — This page presents the Group and Trust Statements of Financial Position as at 31 December 2025, reporting total assets o

@@ -1,0 +1,38 @@
+{
+  "columns_never_fillable": [
+    {"column": "property.net_property_income", "reason": "Per-property NPI is not disclosed; the Statement of Total Return discloses NPI only at portfolio level (S$133.742m). Property cards disclose Gross Rental Income per property, not NPI."},
+    {"column": "property.gla / property.gfa", "reason": "Property cards disclose NLA (sqm) only; no gross lettable or gross floor area is given per property."}
+  ],
+  "data_with_no_home": [
+    {"item": "Portfolio WALE breakdown: Singapore 2.8 years, Australia 7.2 years (overall 4.4 years)", "source_page": 42},
+    {"item": "GRI by lease type: Multi-tenanted 58.1%, Single-user (master lease) 41.9%", "source_page": 42},
+    {"item": "GRI by asset class: Logistics & Warehouse 47.2%, Business Park 25.3%, Industrial 20.3%, Hi-Tech 7.2%", "source_page": 39},
+    {"item": "Full-year weighted average rental reversion +20.0%", "source_page": 5},
+    {"item": "Debt on fixed rates 85% (incl. forward interest rate swaps)", "source_page": 5},
+    {"item": "ICR excluding perpetual securities distributions = 3.9x", "source_page": 7},
+    {"item": "FX rates: A$1 = S$0.8426 (Mar 2025 month-end, valuation); income translated at average rates", "source_page": 165},
+    {"item": "Units in issue and to be issued = 816,615,692 (period-end); weighted-average units (EPU denominator) = 811.88m derived from EPU 4.03c on total return attributable basis", "source_page": 157}
+  ],
+  "parsing_traps": [
+    {"trap": "Marketing property-card numbering (1-28) differs from the audited Portfolio Statement numbering (1-27 + held-for-sale). Properties keyed by name, not index."},
+    {"trap": "Optus Centre is the 28th property but is held 49% via a joint venture (equity-accounted) and is NOT in the audited Portfolio Statement. Its valuation (S$251.9m, 49% share) comes from the marketing card (p56); JV carrying value on the balance sheet = S$251,627k."},
+    {"trap": "Two valuation totals exist: audited Portfolio Statement (p162-165) shows S$1,874,519k for the 27 consolidated properties incl. held-for-sale (excludes Optus JV); the marketing portfolio valuation (p43) shows S$2,126,373k incl. the 49% Optus interest. performance.portfolio_value uses the headline S$2,126.4m (incl. proportionate JV) per schema convention."},
+    {"trap": "Financials reported on Group basis (consolidates Australian subsidiaries; JV equity-accounted). Trust-only column ignored."},
+    {"trap": "Income tax is a CREDIT (+S$4.387m) in FY2025, not an expense; stored as income_taxes = -4,387,000 (signed) so net_income = pretax_income - income_taxes holds."}
+  ],
+  "inferred": [
+    {"table": "performance", "field": "weighted_avg_debt_maturity", "value": 3.0, "basis": "disclosed as 'Weighted Average Debt Maturity 3.0 Years' on the FY2025 Key Highlights page", "source_page": 5},
+    {"table": "performance", "field": "diluted_shares_outstanding (financial)", "value": 811880000, "basis": "derived from EPU of 4.03 Singapore cents on total return attributable to Unitholders & Perpetual holders (53,454k); weighted-average units not printed explicitly", "source_page": 157},
+    {"table": "properties", "field": "lease_term_years", "scope": "leasehold rows", "value": null, "basis": "lease_term_years taken from the audited Portfolio Statement 'Term of land lease' (incl. options to renew); lease_expiry_date taken from the property cards' 'Land Lease Expiry' column", "source_page": 162}
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 164700000,
+    "reported_total_gross_revenue": 164700000,
+    "note_gross_revenue": "Per-property revenue is disclosed on a GROSS RENTAL INCOME (GRI) basis on the property cards (pp53-57), NOT on the audited Gross Revenue basis. The 27 consolidated properties' GRI sums to ~S$164.7m, which equals the portfolio GRI (excl. the 49% Optus JV). The audited portfolio Gross Revenue is S$186.626m (p158) — higher than GRI because it additionally includes service charges/land rent/property tax recoverables and sale of electricity & RECs. The row-level GRI sum is reconciled here at its own (GRI) basis; it is NOT expected to equal the S$186.6m gross-revenue line, which is a different and broader basis.",
+    "reported_total_npi": 133742000,
+    "sum_property_npi": null,
+    "audited_portfolio_statement_total_excl_jv": 1874519000,
+    "marketing_portfolio_value_incl_jv": 2126373000,
+    "line_items_check": "Sigma(revenue 186,626) - Sigma(expense 108,817) + Sigma(adjustment -24,355) = 53,454 = net_income (total return after tax, Group)"
+  }
+}

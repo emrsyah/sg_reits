@@ -1,0 +1,30 @@
+{
+  "symbol": "O5RU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 2126373000,
+  "properties_location": "Singapore; Australia",
+  "gross_revenue": 186626000,
+  "net_property_income": 133742000,
+  "net_distributable_income": 97393000,
+  "dpu": 9.600,
+  "distribution_record": [
+    {"period": "1 January 2024 - 31 March 2024", "dpu": 2.370, "ex_date": null, "pay_date": null},
+    {"period": "1 April 2024 - 30 June 2024", "dpu": 2.270, "ex_date": null, "pay_date": null},
+    {"period": "1 July 2024 - 30 September 2024", "dpu": 2.400, "ex_date": null, "pay_date": null},
+    {"period": "1 October 2024 - 31 December 2024", "dpu": 2.400, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 10623,
+  "aggregate_leverage": 28.9,
+  "interest_coverage_ratio": 2.4,
+  "cost_of_debt": 4.3,
+  "weighted_avg_debt_maturity": 3.0,
+  "nav_per_unit": 1.23,
+  "wale": 4.4,
+  "portfolio_occupancy": 93.6,
+  "currency": "SGD",
+  "date": "2025-03-31",
+  "flags": [
+    {"type": "dpu_distribution_record_lag", "scope": "distribution_record", "note": "Distribution Statement (p159) lists distributions PAID during FY2025, which span Q4 FY2024 (2.370c) through Q3 FY2025; the Q4 FY2025 distribution (paid post year-end) is not in the in-year paid list. Full-year DPU declared = 9.600c."}
+  ],
+  "source_page": 7
+}

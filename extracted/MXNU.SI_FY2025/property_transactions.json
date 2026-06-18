@@ -1,0 +1,14 @@
+[
+  {"symbol": "MXNU.SI", "financial_year": 2025, "type": "acquisition",
+   "description": "Three freehold/virtual-freehold government-leased properties acquired from Elite Phoenix Limited via Elite Dram Limited",
+   "price": 9200000, "currency": "GBP", "date": "2025-06-01",
+   "note": "Acquisition cost recognised in investment properties of GBP 9,644,000 (Note 4); WALE 7.4 years at 31 Mar 2025", "source_page": 148},
+  {"symbol": "MXNU.SI", "financial_year": 2025, "type": "divestment",
+   "description": "Vacant property divestment (contracted 26 Nov 2024)",
+   "price": null, "currency": "GBP", "date": "2025-05-14",
+   "note": "One of two vacant properties classified as held-for-sale at 31 Dec 2024; completed 14 May 2025. Combined net proceeds GBP 5,670,000; net divestment loss GBP 80,000", "source_page": 149},
+  {"symbol": "MXNU.SI", "financial_year": 2025, "type": "divestment",
+   "description": "Vacant property divestment (contracted 19 Dec 2024)",
+   "price": null, "currency": "GBP", "date": "2025-07-18",
+   "note": "Second vacant property; completed 18 Jul 2025", "source_page": 149}
+]
