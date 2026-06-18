@@ -1,0 +1,41 @@
+{
+  "symbol": "M44U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 13292000000.0,
+  "properties_location": "Singapore, Australia, China, Hong Kong SAR, India, Japan, Malaysia, South Korea, Vietnam",
+  "gross_revenue": 727026000.0,
+  "net_property_income": 625293000.0,
+  "net_distributable_income": 406397000.0,
+  "dpu": 8.053,
+  "distribution_record": [
+    {
+      "period": "1 Apr 2024 to 30 Jun 2024",
+      "dpu": 2.068,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jul 2024 to 30 Sep 2024",
+      "dpu": 2.027,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Oct 2024 to 31 Dec 2024",
+      "dpu": 2.003,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jan 2025 to 31 Mar 2025",
+      "dpu": 1.955,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 34292,
+  "currency": "SGD",
+  "date": "2025-03-31",
+  "flags": [],
+  "source_page": 6
+}
