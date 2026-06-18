@@ -31,7 +31,7 @@
   "aggregate_leverage": 35.3,
   "interest_coverage_ratio": 7.5,
   "cost_of_debt": 3.0,
-  "weighted_avg_debt_maturity": null,
+  "weighted_avg_debt_maturity": 3.3,
   "nav_per_unit": 1.71,
   "wale": 6.7,
   "portfolio_occupancy": 95.8,
