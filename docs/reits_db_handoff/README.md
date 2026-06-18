@@ -66,6 +66,88 @@ audit-trail extras are dropped).
 
 (List tables show a few representative rows; full data is in `extracted/M44U.SI_FY2025/`.)
 
+## Schema (ERD)
+
+All tables key on `symbol` (`.SI` suffix); `sgx_reit_profile` is the parent. Full DDL +
+rationale in `schema/sgx_reit_schema.md`; Pydantic source of truth in `schema/models.py`.
+
+```mermaid
+erDiagram
+  sgx_reit_profile     ||--o{ sgx_reit_property     : "symbol"
+  sgx_reit_profile     ||--o| sgx_reit_performance  : "symbol"
+  sgx_reit_profile     ||--o{ sgx_reit_top_tenant   : "symbol"
+  sgx_reit_profile     ||--o{ sgx_reit_trade_mix    : "symbol"
+  sgx_reit_profile     ||--o| sgx_reit_financial    : "symbol"
+
+  sgx_reit_profile {
+    text  symbol PK
+    text  sub_sector
+    jsonb management
+    int   source_page
+  }
+  sgx_reit_property {
+    int      id PK
+    text     symbol FK
+    smallint financial_year
+    text     property_name
+    text     country
+    text     category
+    text     category_raw
+    numeric  market_valuation
+    numeric  gross_revenue
+    numeric  net_property_income
+    numeric  occupancy_rate
+    text     land_tenure
+    jsonb    flags
+    int      source_page
+  }
+  sgx_reit_performance {
+    text     symbol PK
+    smallint financial_year PK
+    numeric  portfolio_value
+    numeric  gross_revenue
+    numeric  net_property_income
+    numeric  net_distributable_income
+    numeric  dpu
+    jsonb    distribution_record
+    int      number_of_unitholders
+    date     date
+  }
+  sgx_reit_top_tenant {
+    text     symbol PK
+    smallint financial_year PK
+    smallint rank PK
+    text     client_name
+    text     industry
+    numeric  revenue_pct
+    text     pct_basis
+  }
+  sgx_reit_trade_mix {
+    text     symbol PK
+    smallint financial_year PK
+    text     category PK
+    text     category_raw
+    numeric  pct
+    text     pct_basis
+  }
+  sgx_reit_financial {
+    text     symbol PK
+    smallint financial_year PK
+    text     currency
+    jsonb    income_stmt_metrics
+    jsonb    balance_sheet_metrics
+    jsonb    cash_flow_metrics
+    jsonb    employee_breakdown
+    jsonb    line_items
+    int      source_page
+  }
+```
+
+> `sgx_reit_property` shows the key columns; it also carries `ownership`, `address`,
+> `valuation_date`, `currency`, `gla`, `nla`, `effective_date`, `lease_term_years`,
+> `lease_expiry_date`, `tenure_raw`, `trade_mix`, `major_tenant`, `status`. (`symbol` is part of the composite PK and the FK to `sgx_reit_profile.symbol`
+> — the FK links are the relationship lines above.)
+
 ## Conventions (important for the projection)
 - **Money is ABSOLUTE units** — the audited `S$'000` figures × 1000 (e.g. `total_revenue` =
   727,026,000, not 727,026).
