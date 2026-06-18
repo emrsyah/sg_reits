@@ -24,7 +24,8 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_quarterly_split", "scope": "distribution_record", "note": "FY2025 DPU 2.17 cents declared across 4 quarters (0.58 + 0.55 + 0.52 + 0.52). Q4 2025 DPU declared but paid in 2026; ex/pay dates not disclosed in AR. Note 24 (p176) shows distributions PAID in FY2025 which relate to Q4 2024 through Q3 2025."}
+    {"type": "dpu_quarterly_split", "scope": "distribution_record", "note": "FY2025 DPU 2.17 cents declared across 4 quarters (0.58 + 0.55 + 0.52 + 0.52). Q4 2025 DPU declared but paid in 2026; ex/pay dates not disclosed in AR. Note 24 (p176) shows distributions PAID in FY2025 which relate to Q4 2024 through Q3 2025."},
+    {"type": "kpi_not_disclosed", "scope": "weighted_avg_debt_maturity", "note": "No portfolio weighted average debt maturity / tenor in years is disclosed in the AR — only individual loan maturity dates and a S$300m facility extended to May 2027. Left null per §0.6 (not structurally claimable as a single figure)."}
   ],
   "source_page": 7
 }

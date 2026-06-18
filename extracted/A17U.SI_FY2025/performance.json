@@ -8,7 +8,6 @@
   "net_distributable_income": 678268000,
   "dpu": 15.005,
   "distribution_record": [
-    {"period": "01/01/2024 to 30/06/2024", "dpu": null, "ex_date": null, "pay_date": null},
     {"period": "01/07/2024 to 31/12/2024", "dpu": 7.681, "ex_date": null, "pay_date": null},
     {"period": "01/01/2025 to 05/06/2025", "dpu": 6.479, "ex_date": null, "pay_date": null},
     {"period": "06/06/2025 to 30/06/2025", "dpu": 0.998, "ex_date": null, "pay_date": null}

@@ -236,6 +236,32 @@ def main() -> None:
     if small:
         warns.append(f"properties with valuation < {MONEY_MIN:,} (unit check): {small[:5]}")
 
+    # 4b. KPI completeness — the 7 as-disclosed capital-management KPIs are widely
+    # disclosed by SGX REITs; a null one is often a silent MISS (e.g. AJBU debt tenor
+    # 3.3yr was on the same Capital Management page as the captured leverage/ICR but
+    # was left null with no structural-absence claim). For each null KPI, decide:
+    # mentioned anywhere (flags/_notes/columns_never_fillable) -> INFO (probably a real
+    # non-disclosure); silently null -> WARN (grep the source to confirm or fill it).
+    KPI_FIELDS = ("aggregate_leverage", "interest_coverage_ratio", "cost_of_debt",
+                  "weighted_avg_debt_maturity", "nav_per_unit", "wale",
+                  "portfolio_occupancy")
+    import json as _json
+    mention_hay = (" ".join(str(f.get("scope", "")) + " " + str(f.get("note", ""))
+                            for f in (perf.get("flags") or []))
+                   + " " + _json.dumps(notes, ensure_ascii=False)
+                   + " " + _json.dumps(perf.get("_notes") or {}, ensure_ascii=False)).lower()
+    null_kpis = [k for k in KPI_FIELDS if perf.get(k) is None]
+    if null_kpis:
+        silent = [k for k in null_kpis if k not in mention_hay and k not in declared_cols]
+        mentioned = [k for k in null_kpis if k not in silent]
+        if mentioned:
+            infos.append(f"performance KPI(s) null but noted as non-disclosed: "
+                         f"{', '.join(mentioned)}")
+        if silent:
+            warns.append(f"performance KPI(s) null with NO flag/_notes mention — "
+                         f"confirm genuinely not disclosed (grep source) or fill: "
+                         f"{', '.join(silent)}")
+
     # financial is now a single object (1:1 income_stmt_metrics) with our line_items[]
     # audit trail. (load() wraps the object in a 1-element list.)
     fin_obj = data["financial"][0] if data["financial"] else {}
