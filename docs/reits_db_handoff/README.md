@@ -7,6 +7,47 @@ and project it into `sgx_manual_input`. Self-contained — this folder is the sp
 - **[`manual_input_mapping.md`](manual_input_mapping.md)** — the full REITs DB → `sgx_manual_input`
   projection (copy / derive / compose, field by field).
 
+```mermaid
+flowchart LR
+  AR["Annual Report<br/>(PDF)"] --> EX["Extraction<br/>(discovery-first)"]
+  EX --> DB
+
+  subgraph DB["REITs DB — source of truth (6 tables)"]
+    direction TB
+    PROF["sgx_reit_profile"]
+    PROP["sgx_reit_property"]
+    PERF["sgx_reit_performance"]
+    TT["sgx_reit_top_tenant"]
+    TM["sgx_reit_trade_mix"]
+    FIN["sgx_reit_financial"]
+  end
+
+  subgraph MI["sgx_manual_input (projected, one row / symbol·year)"]
+    direction TB
+    ISM["income_stmt_metrics"]
+    BSM["balance_sheet_metrics"]
+    CFM["cash_flow_metrics"]
+    EMP["employee_breakdown"]
+    SNK["sankey_component"]
+    IB["industry_breakdown"]
+    SD["source_url · date"]
+  end
+
+  FIN -->|copy| ISM
+  FIN -->|copy| BSM
+  FIN -->|copy| CFM
+  FIN -->|copy| EMP
+  FIN -->|derive| SNK
+  PROP -->|compose| IB
+  TT -->|compose| IB
+  TM -->|compose| IB
+  PERF -->|copy| SD
+```
+
+> The **REITs DB is the source of truth** (full granularity); `sgx_manual_input` is a downstream
+> **projection** of it — blobs copied, `sankey_component` derived, `industry_breakdown` composed.
+> `profile` and the full `property` registry stay REIT-only (only top-20 + counts feed the projection).
+
 Examples are generated from **M44U (Mapletree Logistics Trust) FY2025**, validated to match prod's
 `sgx_manual_input` financials to the dollar. Full per-report data lives in `extracted/<SYM>.SI_FY<YYYY>/`.
 
