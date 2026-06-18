@@ -19,7 +19,7 @@ TRUSTS = [
      "dir": "AU8U.SI_FY2025", "pdf": "annual_reports/07_AU8U.SI_CapitaLand-China-Trust_FY2025.pdf"},
 ]
 TABLES = ["profile", "performance", "properties", "property_transactions",
-          "top_tenants", "trade_mix", "income_components"]
+          "top_tenants", "trade_mix", "financial"]
 
 data = []
 for t in TRUSTS:
@@ -166,7 +166,7 @@ footer .bad-ct{color:#e8917f}
 const DATA = __DATA__;
 const TABLE_LABELS = {profile:'Profile', performance:'Performance', properties:'Properties',
   property_transactions:'Transactions', top_tenants:'Top tenants', trade_mix:'Trade mix',
-  income_components:'Income components', _notes:'Notes & reconciliation'};
+  financial:'Financial', _notes:'Notes & reconciliation'};
 const NUMFMT_SKIP = /(fiscal_year|rank|year|page|count|number_of_leases)/;
 let curTrust = 0, curTab = 'properties', filterMode = 'all', query = '';
 
@@ -210,7 +210,7 @@ function renderVal(ti, key, v){
   return `<span class="v ${num?'num':''}">${fmtNum(v,key)}</span>`;
 }
 function recTitle(tab, r, i){
-  return r.property_name || r.tenant_name || r.category || r.component ||
+  return r.property_name || r.client_name || r.category || r.component ||
     (r.transaction_type ? `${r.transaction_type}: ${r.property_name||''}` : null) ||
     (tab==='performance' ? 'REIT-level performance' : null) ||
     (tab==='profile' ? 'Profile' : null) || ('record #' + (i+1));

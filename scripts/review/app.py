@@ -21,8 +21,9 @@ REVIEWS = ROOT / "reviews"
 REVIEWS.mkdir(exist_ok=True)
 
 # Sections that hold reviewable records, in display order.
-LIST_SECTIONS = ["properties", "top_tenants", "trade_mix",
-                 "income_components", "property_transactions"]
+# `financial` is a single object (1:1 income_stmt_metrics) since Jun17 — shown as one
+# scalar-metrics record plus one record per line_items[] entry (see build_records).
+LIST_SECTIONS = ["properties", "top_tenants", "trade_mix", "property_transactions"]
 DICT_SECTIONS = ["profile", "performance"]
 ALL_SECTIONS = DICT_SECTIONS + LIST_SECTIONS         # _notes shown separately, read-only
 
@@ -96,16 +97,39 @@ def build_records(dirname):
                     "title": _record_title(name, rec),
                     "fields": rec,
                 })
+
+    # financial: scalar metrics as one record, then each audited line_item as its own.
+    fin = load_section(dirname, "financial")
+    if isinstance(fin, dict):
+        scalars = {k: v for k, v in fin.items() if k != "line_items"}
+        records.append({
+            "id": "financial:0", "section": "financial", "index": 0,
+            "source_page": fin.get("source_page"),
+            "title": "financial (income_stmt_metrics)", "fields": scalars,
+        })
+        for i, li in enumerate(fin.get("line_items") or []):
+            records.append({
+                "id": f"financial_lines:{i}", "section": "financial_lines", "index": i,
+                "source_page": li.get("source_page"),
+                "title": f"{li.get('statement', '')}: {li.get('component', '')}",
+                "fields": li,
+            })
+    elif isinstance(load_section(dirname, "income_components"), list):   # pre-Jun17 fallback
+        for i, rec in enumerate(load_section(dirname, "income_components")):
+            records.append({
+                "id": f"income_components:{i}", "section": "income_components", "index": i,
+                "source_page": rec.get("source_page"),
+                "title": f"{rec.get('statement', '')}: {rec.get('component', '')}",
+                "fields": rec,
+            })
     return records
 
 
 def _record_title(section, rec):
-    for k in ("property_name", "tenant_name", "category", "component",
-              "transaction_type", "name"):
+    for k in ("property_name", "client_name", "tenant_name", "category", "industry",
+              "component", "transaction_type", "name"):
         if rec.get(k):
             return str(rec[k])
-    if section == "income_components":
-        return f"{rec.get('statement', '')}: {rec.get('component', '')}"
     return section
 
 
@@ -139,6 +163,31 @@ def api_reports():
             "counts": counts(d, recs),
         })
     return jsonify(out)
+
+
+@app.route("/api/stats")
+def api_stats():
+    """Aggregate verdict counts across every report (read-only)."""
+    agg = {"reports": 0, "reports_started": 0, "reports_done": 0,
+           "total": 0, "correct": 0, "false": 0, "unsure": 0, "reviewed": 0}
+    per_report = []
+    for d in report_dirs():
+        recs = build_records(d)
+        c = counts(d, recs)
+        agg["reports"] += 1
+        if c["reviewed"]:
+            agg["reports_started"] += 1
+        if c["total"] and c["reviewed"] >= c["total"]:
+            agg["reports_done"] += 1
+        for k in ("total", "correct", "false", "unsure", "reviewed"):
+            agg[k] += c[k]
+        per_report.append({
+            "dir": d,
+            "symbol": parse_dir(d)[0],
+            "financial_year": parse_dir(d)[1],
+            "counts": c,
+        })
+    return jsonify({"overall": agg, "per_report": per_report})
 
 
 @app.route("/api/report/<dirname>")

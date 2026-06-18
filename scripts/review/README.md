@@ -79,6 +79,13 @@ Item id = `<section>:<index>` (e.g. `properties:3`, `profile:0`).
 
 ## UI notes
 
+- **PDF viewer**: PDF.js-based — selectable text, hi-DPI rendering, a **page box** (jump to
+  any page), **zoom** (`− / +`), and **search** (type a term, Enter cycles matching pages,
+  highlighted amber).
+- **Annotate from the PDF**: select text in the PDF and a small popup appears — type an
+  optional comment, then **copy** (page + selected text + comment, e.g.
+  `[p.97] "Keppel Ltd." — sponsor source?`) or **text** (raw selection only). Paste it into
+  any record's note or suggested-correction field.
 - **Section note** (under each section header): a free-text note that applies to the whole
   section (range of records), saved to `section_notes` in the review file — separate from
   per-item notes. Use it for "all valuations are one page off", etc.

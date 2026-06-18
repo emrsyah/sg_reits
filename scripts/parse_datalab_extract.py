@@ -160,7 +160,7 @@ def main() -> None:
     written = {}
     if args.section == "all":
         for key, val in (data or {}).items():
-            fn = {"financial": "income_components.json"}.get(key, f"{key}.json")
+            fn = f"{key}.json"   # financial -> financial.json (Jun17; was income_components.json)
             (out / fn).write_text(json.dumps(val, indent=2, ensure_ascii=False), encoding="utf-8")
             written[fn] = len(val) if isinstance(val, list) else 1
     else:
