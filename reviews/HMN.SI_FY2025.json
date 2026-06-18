@@ -1,0 +1,17 @@
+{
+  "symbol": "HMN.SI",
+  "financial_year": 2025,
+  "page_offset": 0,
+  "items": {
+    "profile:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T11:43:14"
+    },
+    "performance:0": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T11:53:53",
+      "note": "HMN page 114 ⇒ Income available for distribution to Stapled Securityholders for the yea is become performance net distribute income, is this the same?; net property income is also  from page. 252 is this correct?"
+    }
+  },
+  "updated": "2026-06-17T11:53:53"
+}

@@ -97,11 +97,12 @@ complementary — neither alone is sufficient.
      Stapled trusts (Ascott): use the **Stapled Group** column. US trusts: USD throughout.
 
 5. **Write the 8 intermediate files** (shapes in REFERENCE.md §2):
-   `profile, performance, properties, top_tenants, trade_mix, income_components,
+   `profile, performance, properties, top_tenants, trade_mix, financial,
    property_transactions, _notes`. They map to the 6 schema tables as:
    `profile→sgx_reit_profile`, `properties→sgx_reit_property`,
    `performance→sgx_reit_performance`, `top_tenants→sgx_reit_top_tenant`,
-   `trade_mix→sgx_reit_trade_mix`, `income_components→sgx_reit_financial`.
+   `trade_mix→sgx_reit_trade_mix`, `financial→sgx_reit_financial` (financial.json is a
+   SINGLE object, 1:1 with prod income_stmt_metrics — not a list of note-lines).
    `property_transactions` is parked (out of scope, kept for audit trail); `_notes` is QC
    metadata. Required fields the schema added: `profile.management`
    (`[{role, company_name}]`) and `trade_mix.category_raw` (verbatim label).
@@ -137,10 +138,10 @@ complementary — neither alone is sufficient.
 - `trade_mix`: capture the **client trade-sector** breakdown (e.g. Internet Enterprise,
   IT Services, Telecommunications) with `pct_basis = rental_income`; also capture the
   contract-type mix (Colocation/Single-Tenant/Shell-and-Core) as `data_with_no_home` or a
-  second basis — it is NOT the retail 19-value taxonomy, so map loosely and keep
+  second basis — it is NOT the retail 15-value taxonomy, so map loosely and keep
   `category_raw`.
 - `top_tenant`: clients are usually **anonymised** ("Fortune Global 500 Company
-  (Hyperscaler)") — set `tenant_name` to the verbatim descriptor, ranked by % rental
+  (Hyperscaler)") — set `client_name` to the verbatim descriptor, ranked by % rental
   income. Expect extreme concentration (top client 40%+).
 - `property`: area metric is "Attributable Lettable Area (sq ft)" (no MW). Per-property NPI
   not disclosed (segment only). Watch NCI/<100% stakes and lease-extension carrying-value

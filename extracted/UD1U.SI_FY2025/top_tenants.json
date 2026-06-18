@@ -3,101 +3,103 @@
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 1,
-    "tenant_name": "Decathlon",
-    "trade_sector": "Other Retail Trades",
-    "gri_percentage": 20.8,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Decathlon",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 20.8
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 2,
-    "tenant_name": "GMG - Deutsche Telekom",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 17.7,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "GMG - Deutsche Telekom",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 17.7
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 3,
-    "tenant_name": "B&M",
-    "trade_sector": "Other Retail Trades",
-    "gri_percentage": 17.5,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "B&M",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 17.5
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 4,
-    "tenant_name": "Allianz Handwerker Services GmbH",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 3.8,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Allianz Handwerker Services GmbH",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 3.8
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 5,
-    "tenant_name": "ST Microelectronics",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 3.7,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "ST Microelectronics",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 3.7
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 6,
-    "tenant_name": "Westfälisch-Lippische Vermögensverwaltungsgesellschaft mbH",
-    "trade_sector": "Government Related",
-    "gri_percentage": 3.6,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Westfälisch-Lippische Vermögensverwaltungsgesellschaft mbH",
+    "industry": "Government Related",
+    "revenue_pct": 3.6
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 7,
-    "tenant_name": "Ebase",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 3.2,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Ebase",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 3.2
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 8,
-    "tenant_name": "Land of Hessen",
-    "trade_sector": "Government Related",
-    "gri_percentage": 2.5,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "Land of Hessen",
+    "industry": "Government Related",
+    "revenue_pct": 2.5
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 9,
-    "tenant_name": "DXC Technology",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.3,
     "pct_basis": "rental_income",
-    "source_page": 39
+    "source_page": 39,
+    "client_name": "DXC Technology",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.3
   },
   {
     "symbol": "UD1U.SI",
     "financial_year": 2025,
     "rank": 10,
-    "tenant_name": "OXYGEN DATA CENTER",
-    "trade_sector": "IT & Telecommunications",
-    "gri_percentage": 2.2,
     "pct_basis": "rental_income",
     "source_page": 39,
-    "note": "pct_basis stated as 'percentage of total gross rental income' (footnote 1, p.39). Top-10 tenants total 77.3% of gross rental income. Trade sectors inferred from company names/known businesses — see _notes.inferred."
+    "note": "pct_basis stated as 'percentage of total gross rental income' (footnote 1, p.39). Top-10 tenants total 77.3% of gross rental income. Trade sectors inferred from company names/known businesses — see _notes.inferred.",
+    "client_name": "OXYGEN DATA CENTER",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.2
   }
 ]

@@ -60,12 +60,15 @@ def scan_report(d):
     props = load(d, "properties") or []
     tenants = load(d, "top_tenants") or []
     mix = load(d, "trade_mix") or []
-    income = load(d, "income_components") or []
+    fin = load(d, "financial")                       # single object (Jun17)
+    if not isinstance(fin, dict):                    # pre-Jun17 fallback
+        fin = {"line_items": load(d, "income_components") or []}
+    income = fin.get("line_items") or []
     notes = load(d, "_notes") or {}
 
     # ---- invariant: source_page on every record ----
     for name, recs in [("properties", props), ("top_tenants", tenants),
-                       ("trade_mix", mix), ("income_components", income)]:
+                       ("trade_mix", mix), ("financial.line_items", income)]:
         miss = sum(1 for r in recs if not r.get("source_page"))
         if miss:
             fail(f"{name}: {miss}/{len(recs)} record(s) missing source_page")
@@ -148,13 +151,13 @@ def scan_report(d):
         ranks = [r.get("rank") for r in tenants if r.get("rank") is not None]
         if ranks and sorted(ranks) != list(range(1, len(ranks) + 1)):
             warn(f"top_tenants: ranks not 1..N contiguous ({sorted(ranks)})")
-        gsum = sum((r.get("gri_percentage") or 0) for r in tenants)
+        gsum = sum((r.get("revenue_pct") or 0) for r in tenants)
         if gsum > 105:
-            fail(f"top_tenants: gri_percentage sums to {gsum:.1f}% (>100)")
+            fail(f"top_tenants: revenue_pct sums to {gsum:.1f}% (>100)")
         for r in tenants:
-            g = r.get("gri_percentage")
+            g = r.get("revenue_pct")
             if g is not None and (g < 0 or g > 100):
-                fail(f"top_tenants rank {r.get('rank')}: gri_percentage {g} outside 0–100")
+                fail(f"top_tenants rank {r.get('rank')}: revenue_pct {g} outside 0–100")
     else:
         info("top_tenants: empty — confirm genuinely absent/anonymised")
 

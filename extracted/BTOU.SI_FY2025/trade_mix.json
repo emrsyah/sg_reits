@@ -2,7 +2,7 @@
   {
     "symbol": "BTOU.SI",
     "financial_year": 2025,
-    "category": "Banking, Insurance & Financial Services",
+    "category": "Financial & Professional Services",
     "category_raw": "Finance and Insurance",
     "pct": 18.3,
     "pct_basis": "gri",
@@ -11,7 +11,7 @@
   {
     "symbol": "BTOU.SI",
     "financial_year": 2025,
-    "category": "Professional Services",
+    "category": "Financial & Professional Services",
     "category_raw": "Legal",
     "pct": 15.3,
     "pct_basis": "gri",
@@ -29,7 +29,7 @@
   {
     "symbol": "BTOU.SI",
     "financial_year": 2025,
-    "category": "Real Estate & Property Services",
+    "category": "Infrastructure, Real Estate & Property Services",
     "category_raw": "Real Estate",
     "pct": 8.9,
     "pct_basis": "gri",

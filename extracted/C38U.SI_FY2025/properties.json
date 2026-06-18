@@ -394,7 +394,7 @@
     "financial_year": 2025,
     "property_name": "Raffles City Singapore",
     "country": "Singapore",
-    "category": "Integrated Developments",
+    "category": null,
     "address": "250 and 252 North Bridge Road, 2 Stamford Road and 80 Bras Basah Road",
     "ownership": 100.0,
     "market_valuation": 3434000000.0,
@@ -413,14 +413,15 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 53 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "category_raw": "Integrated Developments"
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "Plaza Singapura",
     "country": "Singapore",
-    "category": "Integrated Developments",
+    "category": null,
     "address": "68 Orchard Road",
     "ownership": 100.0,
     "market_valuation": 1443256000.0,
@@ -439,14 +440,15 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "category_raw": "Integrated Developments"
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "Funan",
     "country": "Singapore",
-    "category": "Integrated Developments",
+    "category": null,
     "address": "107 & 109 North Bridge Road",
     "ownership": 100.0,
     "market_valuation": 852000000.0,
@@ -465,14 +467,15 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 53 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "category_raw": "Integrated Developments"
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "The Atrium@Orchard",
     "country": "Singapore",
-    "category": "Integrated Developments",
+    "category": null,
     "address": "60A & 60B Orchard Road",
     "ownership": 100.0,
     "market_valuation": 789000000.0,
@@ -491,7 +494,8 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 82 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "category_raw": "Integrated Developments"
   },
   {
     "symbol": "C38U.SI",
@@ -550,7 +554,7 @@
     "financial_year": 2025,
     "property_name": "101–103 Miller Street and Greenwood Plaza",
     "country": "Australia",
-    "category": "Integrated Developments",
+    "category": null,
     "address": "101–103 Miller Street & 36 Blue Street",
     "ownership": 50.0,
     "market_valuation": 271054000.0,
@@ -569,7 +573,8 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "category_raw": "Integrated Developments"
   },
   {
     "symbol": "C38U.SI",

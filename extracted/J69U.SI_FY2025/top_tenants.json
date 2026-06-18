@@ -3,100 +3,102 @@
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 1,
-    "tenant_name": "NTUC FairPrice",
-    "trade_sector": "Departmental Store/Supermarket",
-    "gri_percentage": 6.0,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "NTUC FairPrice",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 6.0
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 2,
-    "tenant_name": "BreadTalk Group",
-    "trade_sector": "Food & Beverages",
-    "gri_percentage": 3.2,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "BreadTalk Group",
+    "industry": "Food & Beverages",
+    "revenue_pct": 3.2
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 3,
-    "tenant_name": "Dairy Farm Group",
-    "trade_sector": "Departmental Store/Supermarket",
-    "gri_percentage": 1.8,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Dairy Farm Group",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 1.8
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 4,
-    "tenant_name": "Courts (Singapore) Pte. Ltd.",
-    "trade_sector": "Other Retail Trades",
-    "gri_percentage": 1.3,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Courts (Singapore) Pte. Ltd.",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 1.3
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 5,
-    "tenant_name": "Metro (Private) Limited",
-    "trade_sector": "Other Retail Trades",
-    "gri_percentage": 1.3,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Metro (Private) Limited",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 1.3
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 6,
-    "tenant_name": "Uniqlo (Singapore) Pte. Ltd.",
-    "trade_sector": "Other Retail Trades",
-    "gri_percentage": 1.2,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Uniqlo (Singapore) Pte. Ltd.",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 1.2
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 7,
-    "tenant_name": "Beauty One International",
-    "trade_sector": "Healthcare, Pharmaceuticals & Life Sciences",
-    "gri_percentage": 1.1,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Beauty One International",
+    "industry": "Healthcare & Wellness",
+    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
+    "revenue_pct": 1.1
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 8,
-    "tenant_name": "Hanbaobao Pte. Ltd.",
-    "trade_sector": "Food & Beverages",
-    "gri_percentage": 1.0,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Hanbaobao Pte. Ltd.",
+    "industry": "Food & Beverages",
+    "revenue_pct": 1.0
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 9,
-    "tenant_name": "Oversea-Chinese Banking Corporation Limited",
-    "trade_sector": "Banking, Insurance & Financial Services",
-    "gri_percentage": 1.0,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Oversea-Chinese Banking Corporation Limited",
+    "industry": "Financial & Professional Services",
+    "industry_raw": "Banking, Insurance & Financial Services",
+    "revenue_pct": 1.0
   },
   {
     "symbol": "J69U.SI",
     "financial_year": 2025,
     "rank": 10,
-    "tenant_name": "Koufu Group",
-    "trade_sector": "Food & Beverages",
-    "gri_percentage": 1.0,
     "pct_basis": "gri",
-    "source_page": 31
+    "source_page": 31,
+    "client_name": "Koufu Group",
+    "industry": "Food & Beverages",
+    "revenue_pct": 1.0
   }
 ]

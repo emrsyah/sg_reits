@@ -221,7 +221,7 @@
     "financial_year": 2025,
     "property_name": "Ascendas Xinsu Portfolio",
     "country": "China",
-    "category": "Business Park",
+    "category": null,
     "address": "Suzhou Industrial Park, Suzhou, Jiangsu Province",
     "ownership": 51.0,
     "market_valuation": 428103000.0,
@@ -243,14 +243,15 @@
     "source_page": 101,
     "_rmb_valuation_000": 2340000,
     "_value_basis": "consolidated_100pct",
-    "_note": "CLCT holds 51% interest; Portfolio Statement valuation on 100% basis"
+    "_note": "CLCT holds 51% interest; Portfolio Statement valuation on 100% basis",
+    "category_raw": "Business Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Singapore-Hangzhou Science & Technology Park (Phase I)",
     "country": "China",
-    "category": "Business Park",
+    "category": null,
     "address": "No. 2 Kejiyuan Road, Hangzhou Economic & Technological Development Area, Qiantang New Area, Hangzhou, Zhejiang Province",
     "ownership": 80.0,
     "market_valuation": 147275000.0,
@@ -272,14 +273,15 @@
     "source_page": 101,
     "_rmb_valuation_000": 805000,
     "_value_basis": "consolidated_100pct",
-    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis"
+    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
+    "category_raw": "Business Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Singapore-Hangzhou Science & Technology Park (Phase II)",
     "country": "China",
-    "category": "Business Park",
+    "category": null,
     "address": "No. 20 and 57 Kejiyuan Road, Hangzhou Economic & Technological Development Area, Qiantang New Area, Hangzhou, Zhejiang Province",
     "ownership": 80.0,
     "market_valuation": 186060000.0,
@@ -301,14 +303,15 @@
     "source_page": 101,
     "_rmb_valuation_000": 1017000,
     "_value_basis": "consolidated_100pct",
-    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis"
+    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
+    "category_raw": "Business Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Ascendas Innovation Towers",
     "country": "China",
-    "category": "Business Park",
+    "category": null,
     "address": "No. 88 Tiangu Seventh Road, Xi'an HiTech Industries Development Zone, Xi'an, Shaanxi Province",
     "ownership": 100.0,
     "market_valuation": 159349000.0,
@@ -328,14 +331,15 @@
     "tenure_raw": "Land use right 50 years; remaining 39 years as at valuation date",
     "status": "active",
     "source_page": 101,
-    "_rmb_valuation_000": 871000
+    "_rmb_valuation_000": 871000,
+    "category_raw": "Business Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Ascendas Innovation Hub",
     "country": "China",
-    "category": "Business Park",
+    "category": null,
     "address": "No. 38 Gaoxin Sixth Road, Xi'an HiTech Industries Development Zone, Xi'an, Shaanxi Province",
     "ownership": 80.0,
     "market_valuation": 61105000.0,
@@ -357,14 +361,15 @@
     "source_page": 101,
     "_rmb_valuation_000": 334000,
     "_value_basis": "consolidated_100pct",
-    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis"
+    "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
+    "category_raw": "Business Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Shanghai Fengxian Logistics Park",
     "country": "China",
-    "category": "Logistics Park",
+    "category": null,
     "address": "No. 435, Haishang Road, Fengxian District, Shanghai",
     "ownership": 100.0,
     "market_valuation": 80132000.0,
@@ -384,14 +389,15 @@
     "tenure_raw": "Land use right 50 years; remaining 34 years as at valuation date",
     "status": "active",
     "source_page": 102,
-    "_rmb_valuation_000": 438000
+    "_rmb_valuation_000": 438000,
+    "category_raw": "Logistics Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Chengdu Shuangliu Logistics Park",
     "country": "China",
-    "category": "Logistics Park",
+    "category": null,
     "address": "No. 86 Tongguan Road, Shuangliu District, Chengdu, Sichuan Province",
     "ownership": 100.0,
     "market_valuation": 59093000.0,
@@ -411,14 +417,15 @@
     "tenure_raw": "Land use right 50 years; remaining 37 years as at valuation date",
     "status": "active",
     "source_page": 102,
-    "_rmb_valuation_000": 323000
+    "_rmb_valuation_000": 323000,
+    "category_raw": "Logistics Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Wuhan Yangluo Logistics Park",
     "country": "China",
-    "category": "Logistics Park",
+    "category": null,
     "address": "No. 10 Qiuli South Road, Yangluo Development Zone, Xinzhou District, Wuhan, Hubei Province",
     "ownership": 100.0,
     "market_valuation": 59642000.0,
@@ -438,14 +445,15 @@
     "tenure_raw": "Land use right 50 years; remaining 39 years as at valuation date",
     "status": "active",
     "source_page": 102,
-    "_rmb_valuation_000": 326000
+    "_rmb_valuation_000": 326000,
+    "category_raw": "Logistics Park"
   },
   {
     "symbol": "AU8U.SI",
     "financial_year": 2025,
     "property_name": "Kunshan Bacheng Logistics Park",
     "country": "China",
-    "category": "Logistics Park",
+    "category": null,
     "address": "No. 998 Yuyang Road, Yushan Town Kunshan, Jiangsu Province",
     "ownership": 100.0,
     "market_valuation": 51775000.0,
@@ -465,7 +473,8 @@
     "tenure_raw": "Land use right 50 years; remaining 39 years as at valuation date",
     "status": "active",
     "source_page": 102,
-    "_rmb_valuation_000": 283000
+    "_rmb_valuation_000": 283000,
+    "category_raw": "Logistics Park"
   },
   {
     "symbol": "AU8U.SI",

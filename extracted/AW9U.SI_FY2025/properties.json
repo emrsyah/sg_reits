@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "property_name": "Precious Homes @ Bukit Merah",
     "country": "Singapore",
-    "category": "Healthcare",
+    "category": null,
     "address": "6 Lengkok Bahru, Singapore 159051",
     "ownership": 100.0,
     "market_valuation": 6800000,
@@ -23,14 +23,15 @@
     "lease_expiry_date": "2027-04-10",
     "tenure_raw": "30 years leasehold from 2002",
     "status": "active",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Precious Homes @ Bukit Panjang",
     "country": "Singapore",
-    "category": "Healthcare",
+    "category": null,
     "address": "21 Senja Road, Singapore 677736",
     "ownership": 100.0,
     "market_valuation": 7550000,
@@ -49,14 +50,15 @@
     "lease_expiry_date": "2027-04-10",
     "tenure_raw": "30 years leasehold from 2003",
     "status": "active",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "The Lentor Residence",
     "country": "Singapore",
-    "category": "Healthcare",
+    "category": null,
     "address": "51 Lentor Avenue, Singapore 786876",
     "ownership": 100.0,
     "market_valuation": 14300000,
@@ -75,14 +77,15 @@
     "lease_expiry_date": "2037-07-19",
     "tenure_raw": "99 years leasehold from 1938",
     "status": "active",
-    "source_page": 136
+    "source_page": 136,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Lippo Village",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Siloam No. 6 Lippo Karawaci 1600, Tangerang, Banten, Indonesia",
     "ownership": 100.0,
     "market_valuation": 148209000,
@@ -101,14 +104,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Kebon Jeruk",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Raya Perjuangan Kav. 8 Kebon Jeruk, West Jakarta 11530, Indonesia",
     "ownership": 100.0,
     "market_valuation": 67586000,
@@ -127,14 +131,15 @@
     "lease_expiry_date": "2035-12-15",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Mochtar Riady Comprehensive Cancer Centre",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Garnisun Dalam No. 2-3, Semanggi, Central Jakarta 12930, Indonesia",
     "ownership": 100.0,
     "market_valuation": 116976000,
@@ -153,14 +158,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Lippo Cikarang",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Mohammad Husni Thamrin Kav. 105, Lippo Cikarang, Bekasi, Indonesia 17550",
     "ownership": 100.0,
     "market_valuation": 47589000,
@@ -179,14 +185,15 @@
     "lease_expiry_date": "2026-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+0.5 years master lease",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Manado & Hotel Aryaduta Manado",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Sam Ratulangi No. 22, Komplek Boulevard Center and Jalan Piere Tendean No. 1, Manado, North Sulawesi Indonesia 95111",
     "ownership": 100.0,
     "market_valuation": 79372000,
@@ -205,14 +212,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years; hospital expiry 31 Dec 2035, hotel expiry 29 Nov 2027",
     "status": "active",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Makassar",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Metro Tanjung Bunga Kav 3-5, Makassar City, South Sulawesi, Indonesia",
     "ownership": 100.0,
     "market_valuation": 60939000,
@@ -231,14 +239,15 @@
     "lease_expiry_date": "2035-12-15",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Bali",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Sunset Road No. 818, Kuta, Badung, Bali, Indonesia",
     "ownership": 100.0,
     "market_valuation": 58803000,
@@ -257,14 +266,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals TB Simatupang",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Letjend. TB Simatupang, Jalan R.A. Kartini No. 8, Cilandak, South Jakarta, Indonesia",
     "ownership": 100.0,
     "market_valuation": 39134000,
@@ -283,14 +293,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 138
+    "source_page": 138,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Purwakarta",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Raya Bungursari No. 1, Purwakarta, West Java, Indonesia",
     "ownership": 100.0,
     "market_valuation": 21766000,
@@ -309,14 +320,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Sriwijaya",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan POM IX, Komplek Palembang Square, Palembang, South Sumatra, Indonesia",
     "ownership": 100.0,
     "market_valuation": 24878000,
@@ -335,14 +347,15 @@
     "lease_expiry_date": "2041-01-24",
     "tenure_raw": "Strata Title on Build, Operate and Transfer (BOT) scheme, BOT expiry 24 Jan 2041, 15+15 years master lease",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Kupang & Lippo Plaza Kupang",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Veteran, No. 4, Arena Pameran Fatululi, Kupang, East Nusa Tenggara, Indonesia",
     "ownership": 100.0,
     "market_valuation": 46904000,
@@ -361,14 +374,15 @@
     "lease_expiry_date": "2041-05-21",
     "tenure_raw": "BOT scheme with expiry on 21 May 2041; hospital lease 15+15 years to 31 Dec 2035, mall lease to 13 Dec 2030",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Labuan Bajo",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Gabriel Gampur, Labuan Bajo, East Nusa Tenggara, Indonesia",
     "ownership": 100.0,
     "market_valuation": 9686000,
@@ -387,14 +401,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Baubau & Lippo Plaza Baubau",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Sultan Hasanuddin No. 50, 52, 54 and 58 Baubau, Sulawesi Tenggara, Indonesia",
     "ownership": 100.0,
     "market_valuation": 22416000,
@@ -413,14 +428,15 @@
     "lease_expiry_date": "2044-06-15",
     "tenure_raw": "BOT scheme with expiry on 15 June 2044; hospital lease SHBB to 31 Dec 2035, mall lease LPB to 9 Oct 2032",
     "status": "active",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Siloam Hospitals Yogyakarta",
     "country": "Indonesia",
-    "category": "Healthcare",
+    "category": null,
     "address": "Jalan Laksda Adi Sucipto No. 32-34 Yogyakarta, Indonesia",
     "ownership": 100.0,
     "market_valuation": 17759000,
@@ -439,14 +455,15 @@
     "lease_expiry_date": "2035-12-31",
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Imperial Aryaduta Hotel & Country Club",
     "country": "Indonesia",
-    "category": "Hospitality",
+    "category": null,
     "address": "Jalan Boulevard Jendral Sudirman Kav. 401, Lippo Village 1300, Tangerang, Banten Indonesia",
     "ownership": 100.0,
     "market_valuation": null,
@@ -465,14 +482,15 @@
     "lease_expiry_date": null,
     "tenure_raw": "Hak Guna Bangunan (HGB), 1+1 year; divested December 2025",
     "status": "divested",
-    "source_page": 140
+    "source_page": 140,
+    "category_raw": "Hospitality"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Hikari Heights Varus Ishiyama",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Ishiyama 1-jo 3-3-33, Minami-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 6972000,
@@ -491,14 +509,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Hikari Heights Varus Tsukisamu Koen",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Misono 9-jo 8-5-1, Toyohira-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 5652000,
@@ -517,14 +536,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Hikari Heights Varus Fujino",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Fujino 3-jo 11-10-11, Minami-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 13612000,
@@ -543,14 +563,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Hikari Heights Varus Kotoni",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Nijuyonken 4-jo 1-3-1, Nishi-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 55112000,
@@ -569,14 +590,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Varus Cuore Yamanote",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Yamanote 6-jo 2-1-1, Nishi-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 9296000,
@@ -595,14 +617,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Hikari Heights Varus Makomanai Koen",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Makomanai Midoricho 1-1-1, Minami-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 39840000,
@@ -621,14 +644,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Varus Cuore Sapporo Kita/ Annex",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Tonden 8-jo 9-3-7, Kita-ku, Sapporo, Hokkaido",
     "ownership": 100.0,
     "market_valuation": 24651000,
@@ -647,14 +671,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Elysion Gakuenmae",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Nakatomigaoka 1-1994-6, Nara-shi, Nara",
     "ownership": 100.0,
     "market_valuation": 13280000,
@@ -673,14 +698,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Elysion Mamigaoka/ Mamigaoka Annex",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Umami-minami 4-1-19, Koryocho, Kitakatsuragi-gun, Nara",
     "ownership": 100.0,
     "market_valuation": 18094000,
@@ -699,14 +725,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Orchard Amanohashidate",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Aza Mannen Koaza Akaiwa 1060-1, Miyazu, Kyoto",
     "ownership": 100.0,
     "market_valuation": 7354000,
@@ -725,14 +752,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 142
+    "source_page": 142,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Orchard Kaichi North",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Kaichi 2-3-50, Matsumoto, Nagano",
     "ownership": 100.0,
     "market_valuation": 11205000,
@@ -751,14 +779,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Orchard Kaichi West",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "Kaichi 2-3-50, Matsumoto, Nagano",
     "ownership": 100.0,
     "market_valuation": 3893000,
@@ -777,14 +806,15 @@
     "lease_expiry_date": "2043-04-24",
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Medical Rehabilitation Home Bon Séjour Komaki",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "3-chōme-1 Shiroyama, Komaki, Aichi 485-0812, Japan",
     "ownership": 100.0,
     "market_valuation": 13363000,
@@ -803,14 +833,15 @@
     "lease_expiry_date": "2027-05-21",
     "tenure_raw": "Freehold, 20+5 years lease",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Healthcare"
   },
   {
     "symbol": "AW9U.SI",
     "financial_year": 2025,
     "property_name": "Loyal Residence Ayase",
     "country": "Japan",
-    "category": "Healthcare",
+    "category": null,
     "address": "4695-1, 7-chōme, Fukaya, Ayase city, Kanagawa",
     "ownership": 100.0,
     "market_valuation": 9628000,
@@ -829,6 +860,7 @@
     "lease_expiry_date": "2043-09-30",
     "tenure_raw": "Freehold, 30 years lease",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "category_raw": "Healthcare"
   }
 ]

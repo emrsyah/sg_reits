@@ -78,7 +78,13 @@ create table sgx_reit_property (
   symbol              text references sgx_reit_profile(symbol),  -- src: AR
   financial_year         smallint,   -- src: AR
   country             text,       -- src: AR
-  category            text,       -- src: AR
+  category            text,       -- src: AR — canonical 6 (Evelyn, Jun 17 2026):
+                                  -- Industrial & Logistics | Office | Retail | Data Centers
+                                  -- | Specialized | Diversified (Commercial). raw asset
+                                  -- types reclassify via PROPERTY_CATEGORY_ALIASES, e.g.
+                                  -- Flatted Factories/Stack-up → Industrial & Logistics;
+                                  -- Life Sciences/Hi-Tech/Business Space → Specialized
+  category_raw        text,       -- src: AR — verbatim disclosed asset type (audit trail)
   property_name       text,       -- src: AR
   address             text,       -- src: AR
   ownership           numeric,    -- src: AR — % stake (kept per meeting)
@@ -93,7 +99,7 @@ create table sgx_reit_property (
   occupancy_rate      numeric,    -- src: AR
   trade_mix           jsonb,      -- src: AR — property-level set, sparse (few trusts
                                   -- disclose it); REIT-level mix lives in its own table;
-                                  -- keys use the same canonical 19-value category list
+                                  -- keys use the same canonical 15-value category list
   major_tenant        text,       -- src: AR
   gla                 numeric,    -- src: AR
   nla                 numeric,    -- src: AR
@@ -104,6 +110,10 @@ create table sgx_reit_property (
   tenure_raw          text,       -- src: AR — verbatim disclosure (audit trail)
   status              text default 'active',  -- src: AR — active | divested |
                                               -- held_for_sale
+  flags               jsonb,      -- src: AR — caveats to verify (Jun 17 meeting):
+                                  -- [{type, scope, note}], e.g. same_property_diff_lease,
+                                  -- divested_partial_data, full_consolidation_partial_ownership
+                                  -- (100% financials on a <100% owned asset)
   source_page         int,        -- provenance
   unique (symbol, property_name, financial_year)
 );
@@ -135,12 +145,14 @@ create table sgx_reit_performance (
                                       -- if identical, drop and fetch instead
   net_property_income      numeric,   -- src: AR — as reported
   net_distributable_income numeric,   -- src: AR — REIT-specific add (meeting)
-  dpu                      numeric,   -- src: AR — cents
-  distribution_record      jsonb,     -- src: AR — [{period, dpu, ex_date, pay_date}]
-                                      -- REIT-specific add (meeting)
+  dpu                      numeric,   -- src: AR — full-year, cents
+  distribution_record      jsonb,     -- src: AR — [{period, dpu, ex_date, pay_date}];
+                                      -- captures the half-year (H1/H2) DPU split case
   number_of_unitholders    int,       -- src: AR
   currency                 text,      -- src: AR
   date                     date,      -- src: AR — FY-end date (manual-input convention)
+  flags                    jsonb,     -- src: AR — caveats to verify, [{type, scope, note}],
+                                      -- e.g. dpu_half_year_split (Jun 17 meeting)
   source_url               text,      -- provenance (manual-input convention)
   source_page              int,       -- provenance
   primary key (symbol, financial_year)
@@ -156,10 +168,13 @@ create table sgx_reit_top_tenant (
   symbol         text references sgx_reit_profile(symbol),  -- src: AR
   financial_year    smallint,    -- src: AR
   rank           smallint,    -- src: AR
-  tenant_name    text,        -- src: AR — null when anonymised (rank + % still data)
-  trade_sector   text,        -- src: AR — same canonical 19-value list as
-                              -- sgx_reit_trade_mix.category (one taxonomy everywhere)
-  gri_percentage numeric,     -- src: AR
+  client_name    text,        -- src: AR — tenant name; null when anonymised (was
+                              -- tenant_name; renamed to match prod client_name)
+  industry       text,        -- src: AR — same canonical 15-value list as
+                              -- sgx_reit_trade_mix.category (was trade_sector; renamed
+                              -- to match prod 'industry'); one taxonomy everywhere
+  revenue_pct    numeric,     -- src: AR — plain number e.g. 5.0 (was gri_percentage;
+                              -- prod stores 0.05 — convert at the manual_input transform)
   pct_basis      text,        -- src: AR — gri | gri_excl_gto | gross_revenue |
                               -- rental_income | headline_rent | cash_rental_income |
                               -- nla | outlet_sales
@@ -175,37 +190,31 @@ derive this by aggregating property-level data — the disclosed percentages may
 based on valuation, rental revenue, tenant count, NLA, etc., so a property roll-up is
 not comparable. (The old `is_derived` flag is removed.)
 
-**Category enum** — Eve's baseline 14, plus 5 additions earned by a sweep of all 22
-parsed reports (each addition is >5% of at least one trust's mix and has no clean home
-in the baseline). The disclosed label is kept verbatim in `category_raw`; the
-extraction pipeline maps it to the canonical `category` via an alias dictionary.
+**Category enum (15 values — Evelyn, Jun 17 2026).** Replaces the earlier 19-value list;
+five categories were consolidated. The disclosed label is kept verbatim in `category_raw`;
+the extraction pipeline maps it to the canonical `category` via the alias dictionary
+(`TRADE_ALIASES` in `schema/models.py`). Same taxonomy is used by `top_tenant.industry`.
 
 ```sql
 create table sgx_reit_trade_mix (
   symbol         text references sgx_reit_profile(symbol),  -- src: AR
   financial_year smallint,  -- src: AR
   category       text check (category in (
-                   -- Eve's baseline 14
                    'Food & Beverages',
-                   'Banking, Insurance & Financial Services',
-                   'Beauty & Health',
+                   'Financial & Professional Services',
+                   'Healthcare & Wellness',
                    'Fashion & Accessories',
                    'Hospitality & Leisure',
-                   'Real Estate & Property Services',
+                   'Infrastructure, Real Estate & Property Services',
                    'IT & Telecommunications',
                    'Other Office Trades',
                    'Other Retail Trades',
+                   'Other Industrial Trades',
                    'Logistics & Supply Chain Management',
                    'Manufacturing',
                    'Government Related',
-                   'Mining & Resources',
-                   'Departmental Store/Supermarket',
-                   -- additions (22-report evidence)
-                   'Healthcare, Pharmaceuticals & Life Sciences',
-                   'Professional Services',
-                   'Construction & Engineering',
-                   'Energy & Utilities',
-                   'Other Industrial Trades'
+                   'Energy, Mining & Resources',
+                   'Departmental Store/Supermarket'
                  )),       -- src: AR — mapped to canonical via alias dictionary
   category_raw   text,     -- src: AR — verbatim disclosed label (audit trail; allows
                            -- remapping without re-extraction)
@@ -217,17 +226,19 @@ create table sgx_reit_trade_mix (
 );
 ```
 
-Why each addition (evidence from the parsed reports):
+Consolidation from the old 19-value list (now part of the alias dictionary):
 
-| Addition | Evidence | Why baseline can't hold it |
-|---|---|---|
-| Healthcare, Pharmaceuticals & Life Sciences | First REIT ~89% healthcare; KORE 'Medical and Healthcare' 8.5%; Suntec 'Pharmaceutical and Healthcare'; CLINT 'Healthcare & Pharmaceutical'; biomedical sciences (CLAR/CLCT science parks) | 'Beauty & Health' is a *retail* trade (salons, pharmacies) — hospital/pharma tenants are a different thing |
-| Professional Services | KORE 22.6%; Manulife 'Legal' 15.3%; Suntec 'Consultancy/Services' 14.5%; Stoneweg 'Professional - Scientific' 9.4%; Keppel 'Legal' + 'Accounting and consultancy' | dominant sector in US/office trusts; burying 15–23% weights in 'Other Office Trades' destroys the signal |
-| Construction & Engineering | Centurion ~79% (worker-accommodation tenants); CLAR 'Engineering' ~12%; CLCT 4.8%; MLT 'Materials, Construction & Engineering'; Stoneweg 'Construction' | no baseline category covers it at all |
-| Energy & Utilities | Keppel 'Energy, natural resources, shipping and marine' 7.7%; Suntec 'Energy and Natural Resources'; Stoneweg 'Utility' | 'Mining & Resources' is extraction, not power/utilities; reports merge them under energy |
-| Other Industrial Trades | MLT/DHLT/CLAR long tail: 3PL, chemicals, automobiles, document storage, commodities, e-commerce | baseline only has Office and Retail catch-alls — industrial/logistics trusts have nowhere to put their tail |
+| Old labels | → Canonical (15) |
+|---|---|
+| Banking, Insurance & Financial Services · Professional Services | Financial & Professional Services |
+| Beauty & Health · Healthcare, Pharmaceuticals & Life Sciences | Healthcare & Wellness |
+| Real Estate & Property Services · Construction & Engineering | Infrastructure, Real Estate & Property Services |
+| Mining & Resources · Energy & Utilities | Energy, Mining & Resources |
 
-Mapping notes for the alias dictionary (synonyms, NOT new categories):
+> Note: "Beauty & Health" → Healthcare & Wellness by default (retail beauty tenants can be
+> remapped to Other Retail Trades via `category_raw` if needed).
+
+Further alias mappings (synonyms, NOT new categories):
 'TMT' / 'TAMI' / 'Information & Communications Technology' → IT & Telecommunications;
 'F&B' / 'Food & Beverage' → Food & Beverages; 'Supermarket & Grocers' / 'Grocery &
 Wholesale' → Departmental Store/Supermarket; 'Public Administration' / 'Government
@@ -242,26 +253,64 @@ type/geography, not trade sectors; data-centre trusts (KDC, Digital Core) disclo
 customer types (hyperscaler/colocation). Those are different facts, not a trade mix —
 the CLAS pilot extraction proved this by emitting contract types as 'categories'.
 
-## 6. sgx_reit_financial  *(renamed from `income_component`)*
+## 6. sgx_reit_financial  *(renamed from `income_component`; restructured Jun 17 2026)*
 
-Raw audited revenue/expense/adjustment note lines — the financial breakdown that feeds
-the standardized formulas (standardized NPI, GRI-only revenue, cost ratio) computed in
-the API layer.
+**One row per (symbol, financial_year). The sector-agnostic financial-statement core — 1:1 with
+the three financial-statement jsonb blobs of prod `sgx_manual_input`** (`income_stmt_metrics`,
+`balance_sheet_metrics`, `cash_flow_metrics`). We extract every figure ourselves from the AR's
+audited statements. Per the Jun 17 meeting, extraction lands in the **SGX REITs DB** (source of
+truth); Gerald later pushes REITs-DB → `sgx_manual_input`, so a blob-for-blob match makes that a
+copy, not a remap — and positions this table to **generalise to non-REIT SGX companies** (a bank/
+airline carries different keys inside the same blobs; the models allow extra keys).
+
+**NOT here** — the REIT *enrichment* lives in the other tables: `industry_breakdown` is composed
+from `top_tenant`/`trade_mix`/`property`; `net_property_income`(named NPI), `net_distributable_
+income`, `dpu`, `distribution_record`, `portfolio_value` are `sgx_reit_performance`'s job.
+`sankey_component` is **derivable** from the income-statement breakdowns, so it isn't stored.
+
+A REIT's audited statement doesn't literally print `cost_of_revenue / gross_income /
+operating_income / ebit / ebitda`; prod **standardizes** them (property expenses →
+`cost_of_revenue`, NPI → `gross_income`, …) — we apply the same mapping. The verbatim audited
+Statement-of-Total-Return lines are preserved in `line_items` (our extension, NOT in prod) as the
+reconciliation anchor (Σrevenue − Σexpense + Σadjustment(signed) = `income_stmt_metrics.net_income`).
+
+> Note: the `references sgx_reit_profile(symbol)` FK is narrow for a would-be all-SGX table — if
+> this generalises beyond REITs, re-point it at the generic company symbol.
 
 ```sql
 create table sgx_reit_financial (
-  symbol      text references sgx_reit_profile(symbol),  -- src: AR
+  symbol         text references sgx_reit_profile(symbol),  -- src: AR
   financial_year smallint,  -- src: AR
-  statement   text check (statement in ('revenue','expense','adjustment')),  -- src: AR
-  component   text,      -- src: AR — canonical key (base_rental, turnover_rent,
-                         -- recoveries, property_tax, utilities, staff, loss_allowance...)
-  amount      numeric,   -- src: AR — audited note line amount
-  currency    text,      -- src: AR
-  label_raw   text,      -- src: AR — exact audited note line (audit trail)
-  source_page int,       -- provenance
-  primary key (symbol, financial_year, statement, component)
+  currency       text,      -- src: AR
+
+  -- 1:1 with prod's three financial-statement blobs (prod's exact keys) — src: AR
+  income_stmt_metrics   jsonb,  -- total_revenue, cost_of_revenue, gross_income(=NPI),
+                                -- operating_income/expense, ebit, ebitda, pretax_income,
+                                -- income_taxes, net_income, non_operating_income_or_loss,
+                                -- interest_expense_non_operating, diluted_shares_outstanding,
+                                -- net_property_sales, funds_from_operation, unitholders,
+                                -- perpetual_security_holders, minorities,
+                                -- revenue_breakdown/operating_expense_breakdown [{class,amount,category}]
+  balance_sheet_metrics jsonb,  -- total_asset, total_equity, total_liabilities,
+                                -- working_capital, total_(non_)current_asset/liabilities
+  cash_flow_metrics     jsonb,  -- operating/investing/financing_cash_flow, net_cash_flow,
+                                -- free_cash_flow, capital_expenditure
+  employee_breakdown    jsonb,  -- permanent/contract/others/total_employee; usually NULL for
+                                -- REITs (externally managed) — the one sgx_manual_input blob
+                                -- with no other home, kept here for 1:1 coverage
+
+  -- OUR extension (audit trail; not in prod, not pushed) — src: AR
+  line_items            jsonb,  -- [{statement(revenue|expense|adjustment), component,
+                                --   amount (adjustments SIGNED), label_raw, source_page}]
+
+  source_page    int,       -- provenance
+  primary key (symbol, financial_year)
 );
 ```
+
+The standardized-formula consumers (standardized NPI, GRI-only revenue, cost ratio) read the
+scalars / breakdowns directly; the API layer can still reconstruct the fine breakdown from
+`line_items` and synthesize a `sankey_component` for the cockpit.
 
 ## mv_sgx_reit
 
@@ -300,13 +349,17 @@ create index idx_reit_property_fy        on sgx_reit_property (financial_year);
 create index idx_reit_performance_fy on sgx_reit_performance (financial_year);
 
 -- top tenant: 'where is DBS/Amazon a tenant' style lookups
-create index idx_reit_top_tenant_name on sgx_reit_top_tenant (tenant_name);
+create index idx_reit_top_tenant_name on sgx_reit_top_tenant (client_name);
 
 -- trade mix: category screens across REITs
 create index idx_reit_trade_mix_category on sgx_reit_trade_mix (category, financial_year);
 
--- financial: component screens across REITs ('utilities cost everywhere')
-create index idx_reit_financial_component on sgx_reit_financial (component, financial_year);
+-- financial: there is NO `component` column — the audited line components live inside the
+-- `line_items` jsonb. For component screens across REITs ('utilities cost everywhere'), GIN-
+-- index the jsonb and query via a view; OR, if it becomes a real feature, materialize a
+-- long-format child table sgx_reit_financial_line(symbol, financial_year, statement, component,
+-- amount, label_raw, source_page) and index `component` there.
+create index idx_reit_financial_line_items on sgx_reit_financial using gin (line_items);
 
 -- profile: sub-sector filter (small table, but the most common WHERE clause)
 create index idx_reit_profile_sub_sector on sgx_reit_profile (sub_sector);
@@ -367,8 +420,8 @@ REIT data — this is the ground truth to compare the ~10 extraction runs agains
 
 | `sgx_manual_input` (jsonb path) | Cross-checks against | Notes |
 |---|---|---|
-| `industry_breakdown.top_10_gri%_customers` (industry, client_name, revenue_pct) | `sgx_reit_top_tenant` | their `revenue_pct` is a fraction (0.05), ours `gri_percentage` — pick one unit and stick to it |
-| `industry_breakdown.gross_rental_income_by_sectors` ({category: fraction}) | `sgx_reit_trade_mix` | their categories = Eve's 14-value list |
+| `industry_breakdown.top_10_gri%_customers` (industry, client_name, revenue_pct) | `sgx_reit_top_tenant` | now ALIGNED: our fields are `industry`/`client_name`/`revenue_pct`. Theirs is a fraction (0.05), ours plain (5.0) — convert in Gerald's transform |
+| `industry_breakdown.gross_rental_income_by_sectors` ({category: fraction}) | `sgx_reit_trade_mix` | canonical 15-value taxonomy (Jun17) |
 | `industry_breakdown.property_portfolio_top_20` (name, country, category, valuation, gross_income, occupancy_rate, ownership_pct) | `sgx_reit_property` | top-20 only; full portfolio is our table's superset |
 | `industry_breakdown.property_counts_by_country` | derivable from `sgx_reit_property` | count/sum per (country, category) |
 | `sankey_component.links` + `income_stmt_metrics.revenue_breakdown` / `operating_expense_breakdown` | `sgx_reit_financial` | their categories ('Gross rental', 'Car park', 'Management fees'...) map to our canonical `component` keys |

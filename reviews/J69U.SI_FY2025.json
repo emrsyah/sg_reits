@@ -1,0 +1,170 @@
+{
+  "symbol": "J69U.SI",
+  "financial_year": 2025,
+  "page_offset": 0,
+  "items": {
+    "profile:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T11:57:51"
+    },
+    "performance:0": {
+      "verdict": "false",
+      "updated": "2026-06-17T12:01:00",
+      "note": "dpu is separated by 1h and 2h which first half of the year vs second half of the year, but extraction got the total, also need to decide what data should be"
+    },
+    "properties:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:15:00"
+    },
+    "properties:1": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T12:20:25"
+    },
+    "properties:2": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T12:20:21",
+      "note": "this have issue that the gla and gross revenue is one with the north wing"
+    },
+    "properties:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:19:44"
+    },
+    "properties:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:22:20"
+    },
+    "properties:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:22:24"
+    },
+    "properties:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:23:06"
+    },
+    "properties:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:23:09"
+    },
+    "properties:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:27:20",
+      "note": "no gla because same thing like the north and south wing, this properties gfa  is combined with the tiong bahru plaza"
+    },
+    "properties:9": {
+      "note": "divestment",
+      "updated": "2026-06-17T12:29:33",
+      "verdict": "correct"
+    },
+    "properties:10": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T12:32:29",
+      "note": "qw have npi and gross revenue in 66, but foot note said it based on 100% basis, which from the data itself ownership only 50% so is this why it was null?"
+    },
+    "properties:11": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T12:33:13",
+      "note": "same issue like NEX"
+    },
+    "top_tenants:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:02"
+    },
+    "top_tenants:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:17"
+    },
+    "top_tenants:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:23"
+    },
+    "top_tenants:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:25"
+    },
+    "top_tenants:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:28"
+    },
+    "top_tenants:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:34"
+    },
+    "top_tenants:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:36"
+    },
+    "top_tenants:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:41"
+    },
+    "top_tenants:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:46"
+    },
+    "top_tenants:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:49"
+    },
+    "trade_mix:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:55"
+    },
+    "trade_mix:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:34:57"
+    },
+    "trade_mix:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:05"
+    },
+    "trade_mix:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:12"
+    },
+    "trade_mix:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:23"
+    },
+    "trade_mix:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:29"
+    },
+    "trade_mix:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:31"
+    },
+    "trade_mix:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:34"
+    },
+    "trade_mix:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:40"
+    },
+    "trade_mix:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:44"
+    },
+    "trade_mix:10": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:46"
+    },
+    "trade_mix:11": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:49"
+    },
+    "trade_mix:12": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:52"
+    },
+    "trade_mix:13": {
+      "verdict": "correct",
+      "updated": "2026-06-17T12:35:54"
+    }
+  },
+  "updated": "2026-06-17T12:35:54",
+  "section_notes": {
+    "performance": "what are the currency? is this SGD or dollar? it said SGD but need to verify",
+    "properties": "use gfa for gla, check if this correct, FY using 30 september as the end; we have top 10 tenants and trade mix as well for each property, this is very useful but now extraction not got that yet;"
+  }
+}

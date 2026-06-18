@@ -23,8 +23,19 @@ import re
 import sys
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[4]
+sys.path.insert(0, str(ROOT / "schema"))
+try:
+    import models  # schema/models.py — canonical enums
+    TRADE_CATEGORIES = set(models.TRADE_CATEGORIES)
+    PROPERTY_CATEGORIES = set(models.PROPERTY_CATEGORIES)
+except ImportError:
+    TRADE_CATEGORIES = PROPERTY_CATEGORIES = None  # enum checks skipped if unavailable
+
+# financial.json is a single object (1:1 income_stmt_metrics) since Jun17; pre-Jun17
+# outputs used income_components.json (a list of note-lines) — both are tolerated here.
 FILES = ["profile", "performance", "properties", "property_transactions",
-         "top_tenants", "trade_mix", "income_components", "_notes"]
+         "top_tenants", "trade_mix", "financial", "_notes"]
 PCT_TABLES = {"top_tenants": "pct_basis", "trade_mix": "pct_basis"}
 MONEY_MIN = 1_000_000          # trust-level GR/NPI below this => probably $'000 left unscaled
 
@@ -33,7 +44,6 @@ ENUMS = {  # (file, column): allowed values; None always allowed
     ("properties", "value_basis"): {"consolidated", "joint_venture_100pct",
                                     "effective_interest"},
     ("property_transactions", "transaction_type"): {"acquisition", "divestment"},
-    ("income_components", "statement"): {"revenue", "expense", "adjustment"},
     ("profile", "income_model"): {"conventional", "master_lease", "mcmgi",
                                   "management_contract", "entrusted_management",
                                   "fri", "mixed"},
@@ -72,7 +82,21 @@ def main() -> None:
     if len(sys.argv) != 2:
         sys.exit(__doc__)
     base = Path(sys.argv[1])
-    data = {name: load(base, name) for name in FILES}
+    # legacy compat: if a pre-Jun17 dir has income_components.json but no financial.json,
+    # fold those note-lines into a synthetic financial object so the checks still run.
+    legacy_fin = None
+    if not (base / "financial.json").exists() and (base / "income_components.json").exists():
+        try:
+            legacy_fin = json.loads((base / "income_components.json").read_text("utf-8"))
+            warns.append("using legacy income_components.json (no financial.json) — "
+                         "re-extract to the 1:1 income_stmt_metrics shape")
+        except json.JSONDecodeError:
+            legacy_fin = None
+    data = {name: load(base, name) for name in FILES if name != "financial"}
+    if legacy_fin is not None:
+        data["financial"] = [{"line_items": legacy_fin}]
+    else:
+        data["financial"] = load(base, "financial")
     if any(v is None for v in data.values()):
         report()
 
@@ -88,19 +112,25 @@ def main() -> None:
 
     # 2. provenance
     for name in FILES:
-        if name in ("_notes", "profile"):
+        if name in ("_notes", "profile", "financial"):
             continue
         missing = sum(1 for r in data[name] if isinstance(r, dict) and not has_page(r))
         if missing:
             fails.append(f"{name}: {missing} record(s) without source_page")
+    # financial: the object itself carries source_page, but each line_item should too
+    fin0 = data["financial"][0] if data["financial"] else {}
+    li_missing = sum(1 for r in (fin0.get("line_items") or [])
+                     if isinstance(r, dict) and not has_page(r))
+    if li_missing:
+        fails.append(f"financial.line_items: {li_missing} line(s) without source_page")
 
     # 3. basis on percentages
     for name, col in PCT_TABLES.items():
         for r in data[name]:
-            if r.get("pct") is not None or r.get("gri_percentage") is not None:
+            if r.get("pct") is not None or r.get("revenue_pct") is not None:
                 if not r.get(col):
                     fails.append(f"{name}: record missing {col} "
-                                 f"({r.get('tenant_name') or r.get('category')})")
+                                 f"({r.get('client_name') or r.get('category')})")
         unknown = {str(r.get(col)).strip() for r in data[name]
                    if r.get(col) and str(r.get(col)).strip().lower()
                    not in KNOWN_PCT_BASIS}
@@ -109,12 +139,12 @@ def main() -> None:
             warns.append(f"{name}: pct_basis '{b}' ({n} rows) not in the known "
                          f"enum — map the footnote wording or extend the enum")
     no_pct = [r.get("rank") for r in data["top_tenants"]
-              if r.get("rank") is not None and r.get("gri_percentage") is None]
+              if r.get("rank") is not None and r.get("revenue_pct") is None]
     if no_pct:
-        warns.append(f"top_tenants: gri_percentage null on {len(no_pct)} row(s) "
+        warns.append(f"top_tenants: revenue_pct null on {len(no_pct)} row(s) "
                      f"(ranks {no_pct[:5]}{'...' if len(no_pct) > 5 else ''}) — if "
                      f"the trust ranks by another basis (e.g. NPI) the value still "
-                     f"goes in gri_percentage with pct_basis set; never invent a key")
+                     f"goes in revenue_pct with pct_basis set; never invent a key")
 
     # 7. enum discipline — verbatim wording belongs in *_raw, not enum columns
     for (name, col), allowed in ENUMS.items():
@@ -123,11 +153,28 @@ def main() -> None:
             if v is None:
                 continue
             if str(v).strip().lower() not in allowed:
-                who = (r.get("property_name") or r.get("component")
+                who = (r.get("property_name") or r.get("client_name")
                        or r.get("symbol") or "?")
                 fails.append(f"{name}.{col}='{v}' ({who}) not in enum "
                              f"{sorted(allowed)} — put the report's wording in the "
                              f"*_raw / note field, keep the enum value here")
+
+    # 7b. category taxonomies (case-SENSITIVE — canonical labels are exact). Verbatim
+    # disclosed labels belong in *_raw; `category`/`industry` must be a canonical value.
+    if TRADE_CATEGORIES is not None:
+        for name, col in (("trade_mix", "category"), ("top_tenants", "industry")):
+            for r in data[name]:
+                v = r.get(col)
+                if v and v not in TRADE_CATEGORIES:
+                    fails.append(f"{name}.{col}='{v}' not in the canonical 15-value "
+                                 f"trade taxonomy — map via TRADE_ALIASES; keep the "
+                                 f"disclosed label in category_raw")
+        for r in data["properties"]:
+            v = r.get("category")
+            if v and v not in PROPERTY_CATEGORIES:
+                fails.append(f"properties.category='{v}' ({r.get('property_name')}) not "
+                             f"in the canonical 6 {sorted(PROPERTY_CATEGORIES)} — map via "
+                             f"PROPERTY_CATEGORY_ALIASES; disclosed type -> category_raw")
     bad_status = [r.get("property_name") for r in data["properties"]
                   if not any(str(r.get("status") or "active").strip().lower()
                              .startswith(e)
@@ -188,16 +235,20 @@ def main() -> None:
     if small:
         warns.append(f"properties with valuation < {MONEY_MIN:,} (unit check): {small[:5]}")
 
+    # financial is now a single object (1:1 income_stmt_metrics) with our line_items[]
+    # audit trail. (load() wraps the object in a 1-element list.)
+    fin_obj = data["financial"][0] if data["financial"] else {}
+    lines = fin_obj.get("line_items") or []
+
     # 4b. financial completeness — the audited Statement of Total Return ALWAYS has
     # trust-level lines below NPI (management fees + finance costs, and usually a tax
-    # line). If income_components has none of these, only the property revenue/opex
-    # notes were captured => the statement is incomplete (the systemic under-capture).
-    fin = data["income_components"]
-    if fin:
-        comps = [str(r.get("component", "")).lower() for r in fin]
+    # line). If line_items has none of these, only the property revenue/opex notes were
+    # captured => the statement is incomplete (the systemic under-capture).
+    if lines:
+        comps = [str(r.get("component", "")).lower() for r in lines]
         has_finance = any("finance" in c for c in comps)
         has_mgmt = any(("management_fee" in c) or ("manager_fee" in c) for c in comps)
-        has_adj = any(r.get("statement") == "adjustment" for r in fin)
+        has_adj = any(r.get("statement") == "adjustment" for r in lines)
         missing = []
         if not has_finance:
             missing.append("finance_costs")
@@ -205,37 +256,104 @@ def main() -> None:
             missing.append("management_fee")
         if not has_adj:
             missing.append("adjustment lines (fair-value/JV/tax)")
-        if missing and not declared("income_components"):
+        if missing and not declared("financial", "income_components", "line_items"):
             warns.append(
-                f"income_components likely INCOMPLETE ({len(fin)} lines): missing "
+                f"financial.line_items likely INCOMPLETE ({len(lines)} lines): missing "
                 f"{', '.join(missing)}. Capture the FULL Statement of Total Return "
                 f"(all lines below NPI), not just the revenue/opex notes.")
+        # line_items statement enum (moved here from ENUMS — it's nested now)
+        for r in lines:
+            s = r.get("statement")
+            if s is not None and str(s).strip().lower() not in {"revenue", "expense",
+                                                                "adjustment"}:
+                fails.append(f"financial.line_items statement='{s}' not in "
+                             f"revenue|expense|adjustment ({r.get('component')})")
 
-    # 4b'. revenue tie-out: Σ(income_components statement=revenue) must equal
-    # performance.gross_revenue. A mismatch means a below-NPI income line (finance/
-    # interest/other income) was mis-bucketed as `revenue` — the recurring statement-
-    # mis-classification bug found by forensic audits in 8 of the first 10 reports
-    # (HMN, AW9U, BTOU, AU8U, C38U, AJBU, J69U, M44U).
-    # Tolerance is a small ABSOLUTE figure (display rounding between two audited figures
-    # is tens of $k at most). An earlier 0.5%-relative tolerance was too loose and MISSED
-    # J69U (gap 624k) and M44U (gap 2,648k) — a real mis-bucket is a whole line item, so
-    # any gap above rounding noise must FAIL and be investigated against the source.
-    if fin and perf:
-        gr = perf.get("gross_revenue")
-        rev_lines = [r for r in fin if r.get("statement") == "revenue"]
+    # 4b'. revenue tie-outs. (i) financial.total_revenue must equal
+    # performance.gross_revenue (two audited top-lines). (ii) Σ(line_items revenue) must
+    # also equal that figure — a mismatch means a below-NPI income line (finance/interest/
+    # other income) was mis-bucketed as `revenue`, the recurring mis-classification bug
+    # forensic audits found in 8 of the first 10 reports. Tolerance is a small ABSOLUTE
+    # figure (rounding between two audited figures is tens of $k); a 0.5%-relative
+    # tolerance was too loose and MISSED J69U (624k) / M44U (2,648k).
+    gr = (perf or {}).get("gross_revenue")
+    ism = fin_obj.get("income_stmt_metrics") or {}
+    tr = ism.get("total_revenue")
+    if gr and tr and abs(tr - gr) > 50_000:
+        fails.append(
+            f"RECON REVENUE financial.income_stmt_metrics.total_revenue={tr:,} != "
+            f"performance.gross_revenue={gr:,} (gap {tr - gr:,}) — both are the audited "
+            f"top line and must tie; reconcile against the source.")
+    if lines and (gr or tr):
+        anchor = gr or tr
+        rev_lines = [r for r in lines if r.get("statement") == "revenue"]
         rev_sum = sum(r.get("amount") or 0 for r in rev_lines)
-        if gr and rev_sum and abs(rev_sum - gr) > 50_000:
-            extra = rev_sum - gr
+        if anchor and rev_sum and abs(rev_sum - anchor) > 50_000:
+            extra = rev_sum - anchor
             suspects = [r.get("component") for r in rev_lines
                         if any(k in str(r.get("component", "")).lower()
                                for k in ("finance", "interest", "other_income",
                                          "dividend", "fair_value", "fx"))]
             fails.append(
-                f"RECON REVENUE Σ(income_components revenue)={rev_sum:,} != "
-                f"performance.gross_revenue={gr:,} (gap {extra:,}). A below-NPI income "
-                f"line is likely mis-bucketed as statement='revenue'"
+                f"RECON REVENUE Σ(line_items revenue)={rev_sum:,} != gross_revenue/"
+                f"total_revenue={anchor:,} (gap {extra:,}). A below-NPI income line is "
+                f"likely mis-bucketed as statement='revenue'"
                 + (f"; suspects: {', '.join(map(str, suspects))}" if suspects else "")
                 + " — it should be statement='adjustment'.")
+
+    # 4b''. breakdown reconciliation — mirrors prod's make_sankey validation
+    # (idx_manual_input_extraction): Σ revenue_breakdown ≈ total_revenue and
+    # Σ operating_expense_breakdown ≈ operating_expense, within 2%. A gap means a
+    # breakdown line was dropped or mis-signed (breakdown amounts are POSITIVE magnitudes).
+    for bd_key, tot_key in (("revenue_breakdown", "total_revenue"),
+                            ("operating_expense_breakdown", "operating_expense")):
+        bd = ism.get(bd_key) or []
+        tot = ism.get(tot_key)
+        if bd and isinstance(tot, (int, float)) and tot:
+            s = sum(i.get("amount") or 0 for i in bd)
+            if abs(s / tot - 1) > 0.02:
+                warns.append(
+                    f"financial.income_stmt_metrics: Σ{bd_key}={s:,.0f} vs {tot_key}="
+                    f"{tot:,.0f} ({abs(s/tot-1):.1%} > 2%) — a breakdown line is missing "
+                    f"or mis-signed (amounts must be positive magnitudes, like prod).")
+
+    # 4b'''. full Statement-of-Total-Return reconciliation (the line_items are the audit
+    # trail that rescues the lossy standardization): Σrevenue − Σexpense + Σadjustment(signed)
+    # MUST equal income_stmt_metrics.net_income, to ~50k.
+    if lines and ism.get("net_income") is not None:
+        srev = sum(r.get("amount") or 0 for r in lines if r.get("statement") == "revenue")
+        sexp = sum(r.get("amount") or 0 for r in lines if r.get("statement") == "expense")
+        sadj = sum(r.get("amount") or 0 for r in lines if r.get("statement") == "adjustment")
+        recon = srev - sexp + sadj
+        ni = ism["net_income"]
+        if abs(recon - ni) > 50_000:
+            fails.append(
+                f"RECON STR Σrevenue−Σexpense+Σadjustment={recon:,} != "
+                f"income_stmt_metrics.net_income={ni:,} (gap {recon-ni:,}) — a line is "
+                f"missing/mis-signed, or net_income is wrong.")
+
+    # 4b''''. cross-consistency: the same audited figure must agree across tables (both are
+    # group-level; performance carries the named REIT KPI, financial the standardized bucket).
+    for perf_key, ism_key, label in (
+            ("gross_revenue", "total_revenue", "gross revenue"),
+            ("net_property_income", "gross_income", "NPI")):
+        pv = (perf or {}).get(perf_key)
+        iv = ism.get(ism_key)
+        if isinstance(pv, (int, float)) and isinstance(iv, (int, float)) and \
+                abs(pv - iv) > 50_000:
+            fails.append(
+                f"RECON XTAB {label}: performance.{perf_key}={pv:,} != "
+                f"financial.income_stmt_metrics.{ism_key}={iv:,} (gap {pv-iv:,}) — same "
+                f"audited figure must agree across tables; investigate the source.")
+
+    # 4b'''''. FFO must not be aliased to net_income (a known-wrong value for SG REITs).
+    ffo = ism.get("funds_from_operation")
+    if ffo is not None and ism.get("net_income") is not None \
+            and abs(ffo - ism["net_income"]) <= 50_000:
+        warns.append(
+            "financial: funds_from_operation == net_income — SG REITs don't disclose FFO; "
+            "net_income carries non-cash fair-value swings FFO removes. Set it null (the "
+            "SG metric is performance.net_distributable_income) or compute true FFO.")
 
     # 4c. trade_mix completeness — a trade-mix breakdown should sum to ~100% of its
     # basis. A sum well below 100 means rows were dropped (split/long table). An empty

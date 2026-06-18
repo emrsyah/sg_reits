@@ -40,11 +40,18 @@
         cursor:text;transform-origin:0 0}
   .textLayer span::selection{background:rgba(91,157,255,.45)}
   .textLayer span.hl{background:rgba(244,183,64,.55);border-radius:2px}
+  .textLayer span.selkeep{background:rgba(91,157,255,.4);border-radius:2px}
   .zbtn{background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:6px;
         padding:5px 9px;cursor:pointer;font-size:13px;line-height:1}
   #pageno{width:50px;text-align:center}
   #psearch{background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:6px;
         padding:5px 8px;font-size:12px;width:140px}
+  #selpop{position:fixed;z-index:50;background:var(--panel);border:1px solid var(--line);border-radius:8px;
+        padding:6px;display:flex;gap:6px;align-items:center;box-shadow:0 4px 16px rgba(0,0,0,.55)}
+  #selcomment{background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:6px;
+        padding:4px 8px;font-size:12px;width:190px}
+  #selpop .zbtn{padding:4px 9px;font-size:12px}
+  #selcopy{background:var(--accent);color:#08101f;border-color:var(--accent);font-weight:700}
   #right{width:44%;overflow:auto;padding:10px 12px 60px}
   .sec{margin:14px 0 4px;position:sticky;top:0;background:var(--bg);padding:6px 0;
        color:var(--accent);font-weight:700;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
@@ -104,6 +111,29 @@
   .notesref summary{cursor:pointer;color:var(--dim);font-weight:600}
   .notesref pre{white-space:pre-wrap;font-size:11px;color:#aeb6c4;max-height:260px;overflow:auto}
   .hint{color:var(--dim);font-size:11px}
+  #statswrap{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.6);display:none;
+        align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto}
+  #statswrap.show{display:flex}
+  .statsbox{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+        width:min(760px,100%);box-shadow:0 10px 40px rgba(0,0,0,.6)}
+  .statshead{display:flex;align-items:center;gap:10px;padding:12px 16px;border-bottom:1px solid var(--line)}
+  .statshead h2{margin:0;font-size:14px;font-weight:700}
+  .statshead .x{margin-left:auto;background:var(--panel2);border:1px solid var(--line);color:var(--txt);
+        border-radius:6px;padding:4px 10px;cursor:pointer;font-size:14px}
+  .statsbody{padding:14px 16px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:14px}
+  .stat{background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:10px 12px}
+  .stat .n{font-size:22px;font-weight:700}
+  .stat .l{font-size:11px;color:var(--dim);text-transform:uppercase;letter-spacing:.05em}
+  .stat.ok .n{color:var(--ok)} .stat.bad .n{color:var(--bad)} .stat.maybe .n{color:var(--maybe)}
+  .stat .pc{font-size:11px;color:var(--dim);margin-left:5px}
+  .stbar{height:10px;background:var(--panel2);border-radius:5px;overflow:hidden;display:flex;margin-bottom:16px}
+  .stbar i{display:block;height:100%}
+  table.pr{width:100%;border-collapse:collapse;font-size:12px}
+  table.pr th,table.pr td{text-align:right;padding:5px 8px;border-bottom:1px solid var(--line)}
+  table.pr th:first-child,table.pr td:first-child{text-align:left}
+  table.pr th{color:var(--dim);font-size:10px;text-transform:uppercase;letter-spacing:.05em;font-weight:700}
+  table.pr td.ok{color:var(--ok)} table.pr td.bad{color:var(--bad)} table.pr td.maybe{color:var(--maybe)}
 </style>
 </head>
 <body>
@@ -124,6 +154,7 @@
   <button id="pnext" class="zbtn" title="next match">›</button>
   <span class="hint" id="pmatch"></span>
   <div class="progress" id="prog"></div>
+  <button id="statsbtn" class="zbtn" title="overall stats across all reports">∑ overall</button>
   <div class="grow"></div>
   <div class="filters" id="filters">
     <button data-f="all" class="active">all</button>
@@ -132,6 +163,20 @@
     <button data-f="unsure">unsure</button>
   </div>
 </header>
+<div id="selpop" hidden>
+  <input id="selcomment" type="text" placeholder="comment (optional)…">
+  <button id="selcopy" class="zbtn" title="copy page + text + comment">copy</button>
+  <button id="selcopytxt" class="zbtn" title="copy selected text only">text</button>
+</div>
+<div id="statswrap">
+  <div class="statsbox">
+    <div class="statshead">
+      <h2>Overall stats · all reports</h2>
+      <button class="x" id="statsclose" title="close">✕</button>
+    </div>
+    <div class="statsbody" id="statsbody"><p class="hint">Loading…</p></div>
+  </div>
+</div>
 <main>
   <div id="left"><div id="pdf"></div></div>
   <div id="right"><p class="hint">Loading…</p></div>
@@ -172,7 +217,53 @@ async function init(){
   };
   $('#pnext').onclick = ()=>gotoMatch(SEARCH_IDX+1);
   $('#pprev').onclick = ()=>gotoMatch(SEARCH_IDX-1);
+  $('#selcopy').onclick = ()=>copySel(true);
+  $('#selcopytxt').onclick = ()=>copySel(false);
+  document.addEventListener('mouseup', e=>{
+    if($('#selpop').contains(e.target)) return;       // clicks inside the popup don't dismiss it
+    setTimeout(updateSelPopup, 0);                    // let the selection settle first
+  });
+  $('#statsbtn').onclick = openStats;
+  $('#statsclose').onclick = ()=>$('#statswrap').classList.remove('show');
+  $('#statswrap').onclick = e=>{ if(e.target.id==='statswrap') e.target.classList.remove('show'); };
+  document.addEventListener('keydown', e=>{ if(e.key==='Escape') $('#statswrap').classList.remove('show'); });
   if(reports.length) loadReport(reports[0].dir);
+}
+
+async function openStats(){
+  $('#statswrap').classList.add('show');
+  const body=$('#statsbody');
+  body.innerHTML='<p class="hint">Loading…</p>';
+  let data;
+  try{ data=await (await fetch('/api/stats')).json(); }
+  catch(e){ body.innerHTML='<p class="hint">Could not load stats.</p>'; return; }
+  const o=data.overall;
+  const pct=x=>o.total? (100*x/o.total).toFixed(1):'0.0';
+  const bw=x=>o.total? (100*x/o.total):0;
+  let html=`<div class="cards">
+    <div class="stat"><div class="n">${o.reports}</div><div class="l">reports</div></div>
+    <div class="stat"><div class="n">${o.reports_done}<span class="pc">/${o.reports}</span></div><div class="l">fully reviewed</div></div>
+    <div class="stat"><div class="n">${o.total}</div><div class="l">records</div></div>
+    <div class="stat"><div class="n">${o.reviewed}<span class="pc">${pct(o.reviewed)}%</span></div><div class="l">reviewed</div></div>
+    <div class="stat ok"><div class="n">${o.correct}<span class="pc">${pct(o.correct)}%</span></div><div class="l">✓ correct</div></div>
+    <div class="stat bad"><div class="n">${o.false}<span class="pc">${pct(o.false)}%</span></div><div class="l">✗ false</div></div>
+    <div class="stat maybe"><div class="n">${o.unsure}<span class="pc">${pct(o.unsure)}%</span></div><div class="l">? unsure</div></div>
+  </div>
+  <div class="stbar">
+    <i style="width:${bw(o.correct)}%;background:var(--ok)"></i>
+    <i style="width:${bw(o.false)}%;background:var(--bad)"></i>
+    <i style="width:${bw(o.unsure)}%;background:var(--maybe)"></i>
+  </div>`;
+  const rows=data.per_report.map(r=>{
+    const c=r.counts;
+    return `<tr><td>${escapeHtml(r.symbol)} FY${r.financial_year}</td>
+      <td>${c.total}</td><td>${c.reviewed}</td>
+      <td class="ok">${c.correct}</td><td class="bad">${c.false}</td><td class="maybe">${c.unsure}</td></tr>`;
+  }).join('');
+  html+=`<table class="pr"><thead><tr>
+      <th>report</th><th>records</th><th>reviewed</th><th>✓</th><th>✗</th><th>?</th>
+    </tr></thead><tbody>${rows}</tbody></table>`;
+  body.innerHTML=html;
 }
 
 async function loadReport(dir){
@@ -213,7 +304,7 @@ async function openPdf(dir){
     box.querySelectorAll('.pdfpage').forEach(p=>PDF_IO.observe(p));
     $('#pagecount').textContent='/ '+doc.numPages;
     $('#pageno').max=doc.numPages; $('#pageno').value=1;
-    box.onscroll=updateCurrentPage;
+    box.onscroll=()=>{ updateCurrentPage(); $('#selpop').hidden=true; clearSelMark(); };
     SEARCH_MATCHES=[]; SEARCH_IDX=-1; SEARCH_Q=''; $('#pmatch').textContent='';
     buildIndex(doc, myToken);              // index page text in the background for search
   }catch(err){
@@ -270,6 +361,52 @@ function highlightPage(page, tries){
 
 function clearHighlights(){
   $('#pdf').querySelectorAll('.textLayer span.hl').forEach(s=>s.classList.remove('hl'));
+}
+
+// ---- selection annotation: select PDF text -> popup -> copy snippet (page + text + comment) ----
+let SEL_TEXT='', SEL_PAGE=null;
+
+function clearSelMark(){
+  $('#pdf').querySelectorAll('.textLayer span.selkeep').forEach(s=>s.classList.remove('selkeep'));
+}
+function markSelection(range, pageEl){          // persist the highlight after focus leaves the PDF
+  clearSelMark();
+  pageEl.querySelectorAll('.textLayer span').forEach(s=>{
+    if(range.intersectsNode(s)) s.classList.add('selkeep');
+  });
+}
+
+function updateSelPopup(){
+  const pop=$('#selpop'), sel=window.getSelection();
+  const text=sel ? sel.toString().trim() : '';
+  if(!text){ pop.hidden=true; clearSelMark(); return; }
+  let node=sel.anchorNode;
+  const el=node ? (node.nodeType===1?node:node.parentElement) : null;
+  const pageEl=el && el.closest ? el.closest('.pdfpage') : null;
+  if(!pageEl){ pop.hidden=true; clearSelMark(); return; }   // selection isn't inside the PDF
+  SEL_TEXT=text.replace(/\s+/g,' ');
+  SEL_PAGE=+pageEl.dataset.page;
+  const range=sel.getRangeAt(0);
+  markSelection(range, pageEl);
+  const rect=range.getBoundingClientRect();
+  pop.style.left=Math.min(window.innerWidth-280, Math.max(8, rect.left))+'px';
+  pop.style.top=Math.max(8, rect.top-50)+'px';
+  pop.hidden=false;
+}
+
+function copySel(full){
+  const c=$('#selcomment').value.trim();
+  const snippet = full ? (`[p.${SEL_PAGE}] "${SEL_TEXT}"` + (c?` — ${c}`:'')) : SEL_TEXT;
+  const done=()=>{ const b=full?$('#selcopy'):$('#selcopytxt'); const o=b.textContent;
+                   b.textContent='copied!'; setTimeout(()=>{b.textContent=o;},1000);
+                   $('#selpop').hidden=true; $('#selcomment').value='';
+                   clearSelMark(); window.getSelection().removeAllRanges(); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(snippet).then(done, done);
+  }else{                                              // fallback for non-secure contexts
+    const ta=document.createElement('textarea'); ta.value=snippet;
+    document.body.appendChild(ta); ta.select(); document.execCommand('copy'); ta.remove(); done();
+  }
 }
 
 function updateCurrentPage(){
@@ -372,7 +509,7 @@ function render(notes){
           + `<pre>${escapeHtml(JSON.stringify(notes,null,2))}</pre></details>`;
   }
   if(infList.length) html+=`<p class="hint">⚠ ${infList.length} inferred/derived field-rule(s) — shown amber below (computed, not disclosed).</p>`;
-  const order=["profile","performance","properties","top_tenants","trade_mix","income_components","property_transactions"];
+  const order=["profile","performance","financial","financial_lines","properties","top_tenants","trade_mix","income_components","property_transactions"];
   for(const sec of order){
     const recs=(bySection[sec]||[]).filter(r=>passesFilter(r.id));
     if(!recs.length) continue;

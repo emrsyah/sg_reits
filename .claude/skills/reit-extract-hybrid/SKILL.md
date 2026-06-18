@@ -74,7 +74,7 @@ verify-don't-trust cross-checks), `/compress` (shrink narrative context for the 
 
 Use it as the **completeness map**: for each schema table, open `schema_pages_v2.json` and
 read EVERY candidate page (start at `top`/`top_audited_000`, then down the ranked list) before
-deciding what's there — don't stop at the first table (that's how income_components lost its
+deciding what's there — don't stop at the first table (that's how financial.line_items lost its
 below-NPI lines).
 
 How to read it (ROUTING, not data — never extract numbers from the map):
@@ -155,8 +155,10 @@ NLA 25/25 vs the pure-LLM agent.)
 ### Step 4 — Assemble
 Combine the merged per-section records into the 8 intermediate files in
 `extracted/<SYMBOL>.SI_FY<YYYY>/` (profile, performance, properties, top_tenants, trade_mix,
-income_components, property_transactions, _notes), using `schema/models.py` field names
-(`financial_year`, `.SI` symbol, absolute money, `source_page` on every record).
+financial, property_transactions, _notes), using `schema/models.py` field names
+(`financial_year`, `.SI` symbol, absolute money, `source_page` on every record). NOTE:
+financial.json is a SINGLE object (1:1 income_stmt_metrics) with a `line_items[]` audit
+trail — NOT a list of note-lines. top_tenant fields are client_name/industry/revenue_pct.
 
 ### Step 5 — Gate (never skip)
 ```bash
@@ -226,7 +228,7 @@ extracted/<SYMBOL>.SI_FY<YYYY>/                        FINAL 8-file output (gate
 - **Every inferred/derived value is flagged in `_notes.inferred[]`** (occupancy applied from a
   portfolio figure, a category assigned from a name, a value computed as total×pct) — disclosed
   values are never confused with computed ones (REFERENCE §0 #7).
-- Both gates green (incl. no "income_components likely INCOMPLETE" warn); `status.json` reflects
+- Both gates green (incl. no "financial.line_items likely INCOMPLETE" warn); `status.json` reflects
   reality; `track.py` shows the AR resolved.
 - Money absolute (<1,000,000 trust-level ⇒ unscaled); every record has `source_page`.
 

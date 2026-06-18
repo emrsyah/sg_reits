@@ -4,7 +4,7 @@
     "financial_year": 2025,
     "property_name": "DPL Sapporo Higashi Kariki",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1-1, Higashikariki 13-jo 3-chome, Higashi-ku, Sapporo-shi, Hokkaido, Japan",
     "ownership": 100.0,
     "market_valuation": 112298000,
@@ -31,14 +31,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 13,700 million) per property card p28; Tier C audited S$ from Statement of Portfolio p166",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 568 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 801 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 801 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Sendai Port",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "15-13, Minato 4-chome, Miyagino-ku, Sendai-shi, Miyagi, Japan",
     "ownership": 100.0,
     "market_valuation": 110658000,
@@ -65,14 +66,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 13,500 million) per property card p29",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 246 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 436 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 436 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Koriyama",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "8-1, Aza-Sotogawara, Koriyama-shi Fukushima, Japan",
     "ownership": 100.0,
     "market_valuation": 59018000,
@@ -99,14 +101,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 7,200 million) per property card p30",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 236 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 323 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 323 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Nagano Suzaka S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "34, Gokan, Suzaka-shi, Nagano, Japan",
     "ownership": 100.0,
     "market_valuation": 22296000,
@@ -132,14 +135,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 2,720 million) per property card p31",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 128 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Maebashi S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1-10 Owatari-machi 1-chome, Maebashi-shi, Gunma, Japan",
     "ownership": 100.0,
     "market_valuation": 30329000,
@@ -165,14 +169,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 3,700 million) per property card p32",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 165 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Kuki S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "6201-3 Shobuchosanga, Kuki-shi, Saitama, Japan",
     "ownership": 100.0,
     "market_valuation": 7689000,
@@ -198,14 +203,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 938 million) per property card p33",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 178 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Ibaraki Yuki",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1-24, Shin-Yahata, Yuki, Ibaraki, Japan",
     "ownership": 100.0,
     "market_valuation": 27460000,
@@ -231,14 +237,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 3,350 million) per property card p34",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 146 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - solely leased to Mitsubishi Shokuhin (single-tenant; confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - solely leased to Mitsubishi Shokuhin (single-tenant; confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Gunma Fujioka",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "669-1, Mori-Shinden, Fujioka-shi, Gunma, Japan",
     "ownership": 100.0,
     "market_valuation": 42870000,
@@ -265,14 +272,15 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 187 million x 1,000,000)",
     "_npi_note": "Partial-year (acquired 24 Mar 2025, ~9 months contribution)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Misato S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1-28, Inter-Minami 2-chome, Misato-shi, Saitama, Japan",
     "ownership": 100.0,
     "market_valuation": 17459000,
@@ -298,14 +306,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 2,130 million) per property card p36",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 241 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Iruma S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "224-1, Sayamagahara, Iruma-shi, Saitama, Japan",
     "ownership": 100.0,
     "market_valuation": 40657000,
@@ -331,14 +340,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 4,960 million) per property card p37",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 185 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Kawasaki Yako",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "2-3, 3-chome, Yako, Kawasaki-ku, Kawasaki-shi, Kanagawa, Japan",
     "ownership": 100.0,
     "market_valuation": 172135000,
@@ -365,14 +375,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 21,000 million) per property card p38",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 1,248 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 1,768 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 1,768 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Shinfuji",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1652-11, Atsuhara, Fuji-shi, Shizuoka, Japan",
     "ownership": 100.0,
     "market_valuation": 30329000,
@@ -399,14 +410,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 3,700 million) per property card p39",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 290 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 402 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 402 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Kakegawa S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1315-2, Minamisaigo, Kakegawa-shi, Shizuoka, Japan",
     "ownership": 100.0,
     "market_valuation": 37296000,
@@ -432,14 +444,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 4,550 million) per property card p40",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 209 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Okayama Hayashima",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "3500, Hayashima, Hayashima-cho, Tsukubo-gun, Okayama, Japan",
     "ownership": 100.0,
     "market_valuation": 37296000,
@@ -466,14 +479,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 4,550 million) per property card p41",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 305 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 382 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 382 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Okayama Hayashima 2",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "4466-1, Hayashima, Hayashima-cho, Tsukubogun, Okayama, Japan",
     "ownership": 100.0,
     "market_valuation": 21476000,
@@ -499,14 +513,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 2,620 million) per property card p42",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 170 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - solely occupied by Nippon Express (single-tenant confidentiality per note 3 p26 applied)"
+    "_gross_rev_note": "Not disclosed - solely occupied by Nippon Express (single-tenant confidentiality per note 3 p26 applied)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "DPL Iwakuni 1 & 2",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "1528-2, 1815-3, Naganojiri, Nagano, Iwakuni, Yamaguchi, Japan",
     "ownership": 100.0,
     "market_valuation": 20820000,
@@ -533,14 +548,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 2,540 million) per property card p43",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 123 million x 1,000,000)",
-    "_gross_rev_unit": "JPY absolute (JPY 155 million x 1,000,000)"
+    "_gross_rev_unit": "JPY absolute (JPY 155 million x 1,000,000)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Matsuyama S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "74-10, 375-16, 386-6, Wakamiya, Minaminoda, Toon, Ehime, Japan",
     "ownership": 100.0,
     "market_valuation": 7959000,
@@ -566,14 +582,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 971 million) per property card p44",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 54 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Fukuoka Tobara S",
     "country": "Japan",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "602-6, Oaza Tobaru, Kasuyacho, Kasuya-gun, Fukuoka, Japan",
     "ownership": 100.0,
     "market_valuation": 11476000,
@@ -599,14 +616,15 @@
     "alt_basis": "Independent valuation in JPY (JPY 1,400 million) per property card p45",
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 110 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)"
+    "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
+    "category_raw": "Industrial"
   },
   {
     "symbol": "DHLU.SI",
     "financial_year": 2025,
     "property_name": "D Project Tan Duc 2",
     "country": "Vietnam",
-    "category": "Industrial",
+    "category": "Industrial & Logistics",
     "address": "Lot 6, Street No. 15A, Tan Duc Industrial Park, Duc Hoa Commune, Tay Ninh Province, Vietnam",
     "ownership": 100.0,
     "market_valuation": 25636000,
@@ -632,6 +650,7 @@
     "alt_basis": "Independent valuation in VND (VND 524,200 million = VND 524.2 billion = VND 524,200,000,000 absolute) per property card p46",
     "_nla_unit": "sqm",
     "_npi_unit": "VND absolute (VND 46,886 million x 1,000,000)",
-    "_gross_rev_note": "Not disclosed - single-tenant property (cold storage). Vietnam segment GR = S$2,447k per Note 24 p193."
+    "_gross_rev_note": "Not disclosed - single-tenant property (cold storage). Vietnam segment GR = S$2,447k per Note 24 p193.",
+    "category_raw": "Industrial"
   }
 ]
