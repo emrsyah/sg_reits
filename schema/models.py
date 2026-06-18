@@ -153,6 +153,9 @@ class Property(BaseModel):
     lease_expiry_date: Optional[str] = Field(None, description="YYYY-MM-DD when disclosed")
     tenure_raw: Optional[str] = Field(None, description="verbatim tenure disclosure")
     status: PropertyStatus = "active"
+    divestment_price: Optional[float] = Field(
+        None, description="sale price / proceeds when status=divested and disclosed "
+        "(absolute units); null otherwise")
     flags: list[Flag] = Field(
         default_factory=list,
         description="caveats to verify, e.g. same_property_diff_lease, divested_partial_data, "

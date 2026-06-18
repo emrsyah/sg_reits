@@ -26,6 +26,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "30+30 years",
     "status": "active",
+    "divestment_price": null,
     "flags": [],
     "source_page": 130
   },
@@ -56,6 +57,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "30+30 years",
     "status": "active",
+    "divestment_price": null,
     "flags": [],
     "source_page": 130
   },
@@ -86,6 +88,7 @@
     "lease_expiry_date": null,
     "tenure_raw": "30 years",
     "status": "active",
+    "divestment_price": null,
     "flags": [],
     "source_page": 130
   }

@@ -114,7 +114,9 @@ create table sgx_reit_property (
   lease_expiry_date   date,       -- src: AR — when disclosed
   tenure_raw          text,       -- src: AR — verbatim disclosure (audit trail)
   status              text default 'active',  -- src: AR — active | divested |
-                                              -- held_for_sale
+                                              -- held_for_sale (the divestment indicator)
+  divestment_price    numeric,    -- src: AR — sale price/proceeds when status=divested
+                                  -- and disclosed (absolute); null otherwise
   flags               jsonb,      -- src: AR — caveats to verify (Jun 17 meeting):
                                   -- [{type, scope, note}], e.g. same_property_diff_lease,
                                   -- divested_partial_data, full_consolidation_partial_ownership
