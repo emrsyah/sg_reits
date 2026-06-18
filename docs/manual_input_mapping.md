@@ -32,12 +32,31 @@ One `sgx_manual_input` row per `(symbol, financial_year)` is built from
 | `sankey_component` (jsonb) | `financial.income_stmt_metrics` | **derive** (see §3) |
 | `industry_breakdown.top_10_gri%_customers` | `top_tenant` | `[{industry, client_name, revenue_pct÷100}]` |
 | `industry_breakdown.gross_rental_income_by_sectors` | `trade_mix` | `{category: pct÷100}` |
-| `industry_breakdown.property_portfolio_top_20` | `property` | top-20 by `gross_revenue`; fields name/country/category/valuation/gross_income/occupancy_rate |
-| `industry_breakdown.property_counts_by_country` | `property` | `{country: {category: [count, Σgross_income, Σvaluation]}}` |
+| `industry_breakdown.property_portfolio_top_20` | `property` | top-20 by `gross_revenue`; **rename our columns → prod names** (see note below) |
+| `industry_breakdown.property_counts_by_country` | `property` | `{country: {category: [count, Σgross_revenue, Σmarket_valuation]}}` |
 | `source_url` | `performance.source_url` | copy |
 | `date` | `performance.date` | copy (FY-end) |
 | `employee_breakdown` | `financial.employee_breakdown` | copy (usually `null` for REITs; prod nulls it too) |
 | `updated_on` | — | load timestamp |
+
+**Projection field renames (do these in the transform, NOT in our source columns):**
+
+| `property_portfolio_top_20` field (prod) | our `property` column |
+|---|---|
+| `name` | `property_name` |
+| `valuation` | `market_valuation` |
+| `gross_income` | `gross_revenue` |
+| `country`, `category`, `occupancy_rate` | same names (no rename) |
+
+Plus the unit conversions: `top_tenant.revenue_pct ÷ 100` (we store 5.0, prod 0.05) and
+`trade_mix.pct ÷ 100`.
+
+*Why rename here, not in the source:* (1) our `gross_income` already means **NPI** inside
+`financial.income_stmt_metrics`, so renaming `property.gross_revenue → gross_income` would make
+one name mean two things across the DB; (2) `market_valuation` deliberately encodes "audited-FS
+value, not agreed price" (the §2 valuation rule); (3) `property` is the full per-asset registry,
+not just this 6-field summary. So the source keeps clear, unambiguous names and the projection
+does the three trivial renames — Gerald's transform is still effectively a copy.
 
 ## 2. The three buckets
 
