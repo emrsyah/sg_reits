@@ -178,6 +178,21 @@ class Performance(BaseModel):
         None, description="per-period distributions when split (e.g. H1/H2): "
         "[{period, dpu, ex_date, pay_date}] — captures the half-year DPU case")
     number_of_unitholders: Optional[int] = None
+    # --- as-disclosed comparison KPIs (added 2026-06-18) — capture verbatim, null if not disclosed ---
+    aggregate_leverage: Optional[float] = Field(
+        None, description="aggregate leverage / gearing ratio, percent plain number e.g. 38.5")
+    interest_coverage_ratio: Optional[float] = Field(
+        None, description="interest coverage ratio, x (times) e.g. 3.2")
+    cost_of_debt: Optional[float] = Field(
+        None, description="weighted average all-in cost of debt, percent plain number e.g. 3.1")
+    weighted_avg_debt_maturity: Optional[float] = Field(
+        None, description="weighted average debt maturity / tenor, years e.g. 3.4")
+    nav_per_unit: Optional[float] = Field(
+        None, description="net asset value per unit, in the trust's currency e.g. 1.23")
+    wale: Optional[float] = Field(
+        None, description="weighted average lease expiry, years")
+    portfolio_occupancy: Optional[float] = Field(
+        None, description="committed/portfolio occupancy, percent plain number e.g. 96.5")
     currency: Optional[str] = None
     date: Optional[str] = Field(None, description="FY-end date YYYY-MM-DD")
     flags: list[Flag] = Field(

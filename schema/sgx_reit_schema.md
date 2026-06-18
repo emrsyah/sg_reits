@@ -156,6 +156,14 @@ create table sgx_reit_performance (
   distribution_record      jsonb,     -- src: AR — [{period, dpu, ex_date, pay_date}];
                                       -- captures the half-year (H1/H2) DPU split case
   number_of_unitholders    int,       -- src: AR
+  -- as-disclosed comparison KPIs (added 2026-06-18) — capture verbatim, null if not disclosed
+  aggregate_leverage       numeric,   -- src: AR — gearing / aggregate leverage, % plain number
+  interest_coverage_ratio  numeric,   -- src: AR — ICR, x (times)
+  cost_of_debt             numeric,   -- src: AR — weighted avg all-in cost of debt, % plain number
+  weighted_avg_debt_maturity numeric, -- src: AR — weighted avg debt maturity/tenor, years
+  nav_per_unit             numeric,   -- src: AR — NAV per unit, trust currency
+  wale                     numeric,   -- src: AR — weighted average lease expiry, years
+  portfolio_occupancy      numeric,   -- src: AR — committed/portfolio occupancy, % plain number
   currency                 text,      -- src: AR
   date                     date,      -- src: AR — FY-end date (manual-input convention)
   flags                    jsonb,     -- src: AR — caveats to verify, [{type, scope, note}],

@@ -97,6 +97,7 @@ Pages are FY2025 examples; use `locate.py` for the actual pages in any report. T
 | `performance.*` | "Financial Highlights" / "5-Year Summary" (front) + audited statements | portfolio_value = headline incl. proportionate JV |
 | `performance.number_of_unitholders` | "Statistics of Unitholdings" (back) | dated POST year-end (e.g. late Feb/Mar 2026) |
 | `performance.dpu` + distribution_record | "Distribution Statement" + DPU table | US trust may show DI/unit while actual DPU = 0 (halted) |
+| `performance` KPIs (aggregate_leverage, interest_coverage_ratio, cost_of_debt, weighted_avg_debt_maturity, nav_per_unit, wale, portfolio_occupancy) | "Financial Highlights" / "Capital Management" / "Key Figures" (front) | as-disclosed verbatim; % as plain number, ICR as x, maturity/WALE as years; null if not disclosed |
 | `top_tenant.*` | "Top 10 Tenants/Clients" | retail/office rich; DC anonymised; hospitality trivial |
 | `trade_mix.*` | "Trade Mix" / "Trade Sector by GRI" / "Portfolio Information by Industry" | DC = client trade sector / "by contract type"; hospitality OFTEN none portfolio-wide but VERIFY — Ascott discloses a corporate-account industry mix (capture it, scoped `pct_basis`). Most industries map to the canonical taxonomy |
 | `financial.line_items` (revenue) | **Note "Gross Revenue"** | reconciliation anchor = total |
@@ -129,7 +130,12 @@ roles: reit_manager | property_manager | trustee | sponsor | operator | master_l
 **performance.json** (single object) — keys: symbol, financial_year, portfolio_value,
 properties_location, gross_revenue, net_property_income, net_distributable_income, dpu
 (cents), distribution_record `[{period, dpu, ex_date, pay_date}]`, number_of_unitholders,
-currency, date (FY-end YYYY-MM-DD), source_page.
+**as-disclosed comparison KPIs** (added 2026-06-18 — capture verbatim from Financial Highlights /
+capital-management section, null if not disclosed): `aggregate_leverage` (gearing, % plain number
+e.g. 38.5), `interest_coverage_ratio` (ICR, x), `cost_of_debt` (weighted-avg all-in, % plain
+number), `weighted_avg_debt_maturity` (years), `nav_per_unit` (trust currency), `wale` (weighted
+average lease expiry, years), `portfolio_occupancy` (committed/portfolio, % plain number) —
+then currency, date (FY-end YYYY-MM-DD), source_page.
 
 **properties.json** (list) — symbol, financial_year, property_name, country, category,
 category_raw, address, ownership (%), market_valuation (absolute, Tier C), valuation_date,
