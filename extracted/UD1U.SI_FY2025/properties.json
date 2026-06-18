@@ -13,7 +13,6 @@
     "net_property_income": null,
     "gross_revenue": 100000,
     "occupancy_rate": 0.0,
-    "major_tenant": null,
     "gla": 79097,
     "nla": null,
     "land_tenure": "Freehold",
@@ -26,7 +25,8 @@
     "alt_value": 195800000,
     "alt_basis": "Tier A marketing summary matches Tier C here (€195.8m)",
     "source_page": 179,
-    "note": "Berlin Campus undergoing repositioning (Project RE(O)); occupancy 0% as DRV lease expired 31 Dec 2024. GRI €0.1m from property card p.45. GLA from p.45 (79,097 sqm). Per-property NPI not disclosed. Market_valuation from audited Statement of Portfolio p.179 (EUR'000 x1000). Tier A marketing value (p.40) also €195.8m - consistent."
+    "note": "Berlin Campus undergoing repositioning (Project RE(O)); occupancy 0% as DRV lease expired 31 Dec 2024. GRI €0.1m from property card p.45. GLA from p.45 (79,097 sqm). Per-property NPI not disclosed. Market_valuation from audited Statement of Portfolio p.179 (EUR'000 x1000). Tier A marketing value (p.40) also €195.8m - consistent.",
+    "major_tenants": []
   },
   {
     "symbol": "UD1U.SI",
@@ -42,7 +42,6 @@
     "net_property_income": null,
     "gross_revenue": 6900000,
     "occupancy_rate": 100.0,
-    "major_tenant": "GMG, a wholly-owned subsidiary of Deutsche Telekom",
     "gla": 32736,
     "nla": null,
     "land_tenure": "Freehold",
@@ -55,7 +54,14 @@
     "alt_value": 110200000,
     "alt_basis": "Tier A marketing (p.40) €110.2m matches Tier C",
     "source_page": 179,
-    "note": "GRI €6.9m from property card p.47. GLA 32,736 sqm from p.47. WALE 3.3 years, 1 lease. Per-property NPI not disclosed (Germany segment NPI €10,753k p.193)."
+    "note": "GRI €6.9m from property card p.47. GLA 32,736 sqm from p.47. WALE 3.3 years, 1 lease. Per-property NPI not disclosed (Germany segment NPI €10,753k p.193).",
+    "major_tenants": [
+      {
+        "name": "GMG, a wholly-owned subsidiary of Deutsche Telekom",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -71,7 +77,6 @@
     "net_property_income": null,
     "gross_revenue": 1900000,
     "occupancy_rate": 41.3,
-    "major_tenant": "Land of Hessen (federal tenant), Prostep",
     "gla": 30371,
     "nla": null,
     "land_tenure": "Freehold",
@@ -84,7 +89,14 @@
     "alt_value": 51800000,
     "alt_basis": "Tier A marketing (p.40) €51.8m matches Tier C",
     "source_page": 179,
-    "note": "GRI €1.9m from property card p.49. GLA 30,371 sqm from p.49. WALE 11.2 years. Occupancy 41.3% as at 31 Dec 2025. 5 leases. Post-period: 10-yr federal tenant lease signed 1Q2026 for ~4,900 sqm."
+    "note": "GRI €1.9m from property card p.49. GLA 30,371 sqm from p.49. WALE 11.2 years. Occupancy 41.3% as at 31 Dec 2025. 5 leases. Post-period: 10-yr federal tenant lease signed 1Q2026 for ~4,900 sqm.",
+    "major_tenants": [
+      {
+        "name": "Land of Hessen (federal tenant), Prostep",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -100,7 +112,6 @@
     "net_property_income": null,
     "gross_revenue": 3700000,
     "occupancy_rate": 82.3,
-    "major_tenant": "Landschaftsverband Westfalen-Lippe (LWL)",
     "gla": 27487,
     "nla": null,
     "land_tenure": "Freehold",
@@ -113,7 +124,14 @@
     "alt_value": 53800000,
     "alt_basis": "Tier A marketing (p.40) €53.8m matches Tier C",
     "source_page": 179,
-    "note": "GRI €3.7m from property card p.51. GLA 27,487 sqm from p.51. WALE 4.8 years. 7 leases. Per-property NPI not disclosed."
+    "note": "GRI €3.7m from property card p.51. GLA 27,487 sqm from p.51. WALE 4.8 years. 7 leases. Per-property NPI not disclosed.",
+    "major_tenants": [
+      {
+        "name": "Landschaftsverband Westfalen-Lippe (LWL)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -129,7 +147,6 @@
     "net_property_income": null,
     "gross_revenue": 5200000,
     "occupancy_rate": 96.9,
-    "major_tenant": "Allianz, ST Microelectronics, Ebase, Yamaichi",
     "gla": 31412,
     "nla": null,
     "land_tenure": "Freehold",
@@ -142,7 +159,14 @@
     "alt_value": 80900000,
     "alt_basis": "Tier C 2024 value was €80,900k; 2025 valuation reflects fair value loss of ~€22.2m",
     "source_page": 179,
-    "note": "GRI €5.2m from property card p.53. GLA 31,412 sqm from p.53. WALE 3.6 years. 6 leases. Significant fair value decline in 2025 from €80.9m to €58.7m (weak Munich leasing market). Per-property NPI not disclosed."
+    "note": "GRI €5.2m from property card p.53. GLA 31,412 sqm from p.53. WALE 3.6 years. 6 leases. Significant fair value decline in 2025 from €80.9m to €58.7m (weak Munich leasing market). Per-property NPI not disclosed.",
+    "major_tenants": [
+      {
+        "name": "Allianz, ST Microelectronics, Ebase, Yamaichi",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -158,7 +182,6 @@
     "net_property_income": null,
     "gross_revenue": 1600000,
     "occupancy_rate": 61.4,
-    "major_tenant": "Gesif, Plaza Salud24",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -171,7 +194,14 @@
     "alt_value": 23300000,
     "alt_basis": "Tier A (p.40) €23.3m matches Tier C",
     "source_page": 179,
-    "note": "GRI €1.6m from property card p.57. GLA not disclosed per-property in cards; combined Delta Nova IV+VI total lettable area 25,112 sqm (from p.57 chart). WALE 5.8 years, 11 leases. Per-property NPI not disclosed (Spain segment NPI €5,816k p.193)."
+    "note": "GRI €1.6m from property card p.57. GLA not disclosed per-property in cards; combined Delta Nova IV+VI total lettable area 25,112 sqm (from p.57 chart). WALE 5.8 years, 11 leases. Per-property NPI not disclosed (Spain segment NPI €5,816k p.193).",
+    "major_tenants": [
+      {
+        "name": "Gesif, Plaza Salud24",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -187,7 +217,6 @@
     "net_property_income": null,
     "gross_revenue": 1600000,
     "occupancy_rate": 88.4,
-    "major_tenant": "Almaraz, Clece, S2 Grupo",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -200,7 +229,14 @@
     "alt_value": 34600000,
     "alt_basis": "Tier A (p.40) €34.6m matches Tier C",
     "source_page": 179,
-    "note": "GRI €1.6m from property card p.57. Combined Delta Nova IV+VI GLA 25,112 sqm (p.57); individual split not disclosed. WALE 5.8 years, 12 leases. Per-property NPI not disclosed."
+    "note": "GRI €1.6m from property card p.57. Combined Delta Nova IV+VI GLA 25,112 sqm (p.57); individual split not disclosed. WALE 5.8 years, 12 leases. Per-property NPI not disclosed.",
+    "major_tenants": [
+      {
+        "name": "Almaraz, Clece, S2 Grupo",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -216,7 +252,6 @@
     "net_property_income": null,
     "gross_revenue": 2500000,
     "occupancy_rate": 76.6,
-    "major_tenant": "DXC Technology, Oxygen Data Center, Uriach",
     "gla": 26134,
     "nla": null,
     "land_tenure": "Freehold",
@@ -229,7 +264,14 @@
     "alt_value": 44600000,
     "alt_basis": "Tier A (p.40) €44.6m matches Tier C",
     "source_page": 179,
-    "note": "GRI €2.5m from property card p.59. GLA 26,134 sqm from p.59. Also includes ~6,500 sqm Tier III data centre space. WALE 10.0 years, 8 leases. Per-property NPI not disclosed."
+    "note": "GRI €2.5m from property card p.59. GLA 26,134 sqm from p.59. Also includes ~6,500 sqm Tier III data centre space. WALE 10.0 years, 8 leases. Per-property NPI not disclosed.",
+    "major_tenants": [
+      {
+        "name": "DXC Technology, Oxygen Data Center, Uriach",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -245,7 +287,6 @@
     "net_property_income": null,
     "gross_revenue": 1800000,
     "occupancy_rate": 91.3,
-    "major_tenant": "OCA, Cargill, Markem Imaje, IBM",
     "gla": 15511,
     "nla": null,
     "land_tenure": "Freehold",
@@ -258,7 +299,14 @@
     "alt_value": 24600000,
     "alt_basis": "Tier A (p.40) €24.6m matches Tier C",
     "source_page": 179,
-    "note": "GRI €1.8m from property card p.61. GLA 15,511 sqm from p.61. WALE 7.9 years, 9 leases. 7-year lease signed 2025 for 3,550 sqm. Per-property NPI not disclosed."
+    "note": "GRI €1.8m from property card p.61. GLA 15,511 sqm from p.61. WALE 7.9 years, 9 leases. 7-year lease signed 2025 for 3,550 sqm. Per-property NPI not disclosed.",
+    "major_tenants": [
+      {
+        "name": "OCA, Cargill, Markem Imaje, IBM",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -274,7 +322,6 @@
     "net_property_income": null,
     "gross_revenue": 197000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -285,7 +332,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred — see _notes.inferred). GRI EUR 197k from individual property card (p.64). Values in EUR '000 on card."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred — see _notes.inferred). GRI EUR 197k from individual property card (p.64). Values in EUR '000 on card.",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -301,7 +355,6 @@
     "net_property_income": null,
     "gross_revenue": 350000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -312,7 +365,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 350k (p.64)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 350k (p.64).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -328,7 +388,6 @@
     "net_property_income": null,
     "gross_revenue": 326000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -339,7 +398,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 326k (p.65)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 326k (p.65).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -355,7 +421,6 @@
     "net_property_income": null,
     "gross_revenue": 267000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -366,7 +431,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 267k (p.65)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 267k (p.65).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -382,7 +454,6 @@
     "net_property_income": null,
     "gross_revenue": 378000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -393,7 +464,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 378k (p.66)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 378k (p.66).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -409,7 +487,6 @@
     "net_property_income": null,
     "gross_revenue": 687000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -420,7 +497,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 687k (p.66)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 687k (p.66).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -436,7 +520,6 @@
     "net_property_income": null,
     "gross_revenue": 470000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -447,7 +530,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 470k (p.67)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 470k (p.67).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -463,7 +553,6 @@
     "net_property_income": null,
     "gross_revenue": 282000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -474,7 +563,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 282k (p.67)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 282k (p.67).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -490,7 +586,6 @@
     "net_property_income": null,
     "gross_revenue": 794000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -501,7 +596,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 794k (p.68)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 794k (p.68).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -517,7 +619,6 @@
     "net_property_income": null,
     "gross_revenue": 191000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -528,7 +629,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 179,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 191k (p.68)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 191k (p.68).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -544,7 +652,6 @@
     "net_property_income": null,
     "gross_revenue": 186000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -555,7 +662,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 186k (p.69)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 186k (p.69).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -571,7 +685,6 @@
     "net_property_income": null,
     "gross_revenue": 259000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -582,7 +695,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 259k (p.69)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 259k (p.69).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -598,7 +718,6 @@
     "net_property_income": null,
     "gross_revenue": 294000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -609,7 +728,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 294k (p.70)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 294k (p.70).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -625,7 +751,6 @@
     "net_property_income": null,
     "gross_revenue": 476000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -636,7 +761,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 476k (p.70)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 476k (p.70).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -652,7 +784,6 @@
     "net_property_income": null,
     "gross_revenue": 347000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -663,7 +794,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 347k (p.71)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 347k (p.71).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -679,7 +817,6 @@
     "net_property_income": null,
     "gross_revenue": 323000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -690,7 +827,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 323k (p.71)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 323k (p.71).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -706,7 +850,6 @@
     "net_property_income": null,
     "gross_revenue": 307000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -717,7 +860,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 307k (p.72)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 307k (p.72).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -733,7 +883,6 @@
     "net_property_income": null,
     "gross_revenue": 330000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -744,7 +893,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 330k (p.72)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 330k (p.72).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -760,7 +916,6 @@
     "net_property_income": null,
     "gross_revenue": 459000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -771,7 +926,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €459k from property card p.73. Card GRI EUR 459k (p.73)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €459k from property card p.73. Card GRI EUR 459k (p.73).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -787,7 +949,6 @@
     "net_property_income": null,
     "gross_revenue": 665000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -798,7 +959,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €665k from property card p.73. Card GRI EUR 665k (p.73)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €665k from property card p.73. Card GRI EUR 665k (p.73).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -814,7 +982,6 @@
     "net_property_income": null,
     "gross_revenue": 136000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -825,7 +992,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 136k (p.74)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 136k (p.74).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -841,7 +1015,6 @@
     "net_property_income": null,
     "gross_revenue": 190000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -852,7 +1025,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 190k (p.74)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 190k (p.74).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -868,7 +1048,6 @@
     "net_property_income": null,
     "gross_revenue": 255000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -879,7 +1058,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 255k (p.75)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 255k (p.75).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -895,7 +1081,6 @@
     "net_property_income": null,
     "gross_revenue": 233000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -906,7 +1091,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 233k (p.75)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 233k (p.75).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -922,7 +1114,6 @@
     "net_property_income": null,
     "gross_revenue": 265000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -933,7 +1124,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €265k from property card p.76. Card GRI EUR 265k (p.76)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €265k from property card p.76. Card GRI EUR 265k (p.76).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -949,7 +1147,6 @@
     "net_property_income": null,
     "gross_revenue": 253000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -960,7 +1157,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €253k from property card p.76. Card GRI EUR 253k (p.76)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €253k from property card p.76. Card GRI EUR 253k (p.76).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -976,7 +1180,6 @@
     "net_property_income": null,
     "gross_revenue": 321000,
     "occupancy_rate": 100.0,
-    "major_tenant": "Decathlon",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -987,7 +1190,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €321k from property card p.77. Card GRI EUR 321k (p.77)."
+    "note": "Decathlon portfolio occupancy 100% applied per-property (inferred). GRI €321k from property card p.77. Card GRI EUR 321k (p.77).",
+    "major_tenants": [
+      {
+        "name": "Decathlon",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1003,7 +1213,6 @@
     "net_property_income": null,
     "gross_revenue": 656000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1014,7 +1223,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 8.5 years remaining. Carrying value includes right-of-use asset. Lease_expiry_date computed from remaining term 8.5 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 656k (p.86)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 8.5 years remaining. Carrying value includes right-of-use asset. Lease_expiry_date computed from remaining term 8.5 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 656k (p.86).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1030,7 +1246,6 @@
     "net_property_income": null,
     "gross_revenue": 577000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1041,7 +1256,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 577k (p.82)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 577k (p.82).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1057,7 +1279,6 @@
     "net_property_income": null,
     "gross_revenue": 565000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1068,7 +1289,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 565k (p.84)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 565k (p.84).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1084,7 +1312,6 @@
     "net_property_income": null,
     "gross_revenue": 478000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1095,7 +1322,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 478k (p.85)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 478k (p.85).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1111,7 +1345,6 @@
     "net_property_income": null,
     "gross_revenue": 472000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1122,7 +1355,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 472k (p.88)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 472k (p.88).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1138,7 +1378,6 @@
     "net_property_income": null,
     "gross_revenue": 445000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1149,7 +1388,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 17.0 years remaining. Carrying value includes right-of-use asset. Lease_expiry_date computed from remaining term 17.0 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 445k (p.84)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 17.0 years remaining. Carrying value includes right-of-use asset. Lease_expiry_date computed from remaining term 17.0 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 445k (p.84).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1165,7 +1411,6 @@
     "net_property_income": null,
     "gross_revenue": 430000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1176,7 +1421,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 180,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 430k (p.80)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 430k (p.80).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1192,7 +1444,6 @@
     "net_property_income": null,
     "gross_revenue": 438000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1203,7 +1454,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 438k (p.87)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 438k (p.87).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1219,7 +1477,6 @@
     "net_property_income": null,
     "gross_revenue": 426000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1230,7 +1487,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 426k (p.81)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 426k (p.81).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1246,7 +1510,6 @@
     "net_property_income": null,
     "gross_revenue": 439000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1257,7 +1520,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 26.1 years remaining. Lease_expiry_date computed from remaining term 26.1 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 439k (p.87)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 26.1 years remaining. Lease_expiry_date computed from remaining term 26.1 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 439k (p.87).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1273,7 +1543,6 @@
     "net_property_income": null,
     "gross_revenue": 402000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1284,7 +1553,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 402k (p.86)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 402k (p.86).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1300,7 +1576,6 @@
     "net_property_income": null,
     "gross_revenue": 390000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1311,7 +1586,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 390k (p.85)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 390k (p.85).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1327,7 +1609,6 @@
     "net_property_income": null,
     "gross_revenue": 367000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1338,7 +1619,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 367k (p.81)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 367k (p.81).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1354,7 +1642,6 @@
     "net_property_income": null,
     "gross_revenue": 326000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1365,7 +1652,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 326k (p.83)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 326k (p.83).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1381,7 +1675,6 @@
     "net_property_income": null,
     "gross_revenue": 321000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1392,7 +1685,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 321k (p.83)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 321k (p.83).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1408,7 +1708,6 @@
     "net_property_income": null,
     "gross_revenue": 263000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1419,7 +1718,14 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 263k (p.82)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Card GRI EUR 263k (p.82).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "UD1U.SI",
@@ -1435,7 +1741,6 @@
     "net_property_income": null,
     "gross_revenue": 192000,
     "occupancy_rate": 100.0,
-    "major_tenant": "B&M",
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1446,6 +1751,13 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 181,
-    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 29.9 years remaining. Lease_expiry_date computed from remaining term 29.9 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 192k (p.80)."
+    "note": "B&M portfolio occupancy 100% applied per-property (inferred). Leasehold with 29.9 years remaining. Lease_expiry_date computed from remaining term 29.9 years as at 31 Dec 2025 (approximate; exact date not disclosed). Card GRI EUR 192k (p.80).",
+    "major_tenants": [
+      {
+        "name": "B&M",
+        "industry": null,
+        "pct": null
+      }
+    ]
   }
 ]

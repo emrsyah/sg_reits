@@ -16,7 +16,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 60348,
     "land_tenure": "Freehold",
@@ -32,7 +31,8 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 568 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 801 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": []
   },
   {
     "symbol": "DHLU.SI",
@@ -51,7 +51,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 31.9,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 63117,
     "land_tenure": "Freehold",
@@ -67,7 +66,8 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 246 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 436 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": []
   },
   {
     "symbol": "DHLU.SI",
@@ -86,7 +86,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 74.6,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 34157,
     "land_tenure": "Freehold",
@@ -102,7 +101,8 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 236 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 323 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": []
   },
   {
     "symbol": "DHLU.SI",
@@ -120,7 +120,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Itochu Shokuhin Co., Ltd.",
     "gla": null,
     "nla": 9810,
     "land_tenure": "Freehold",
@@ -136,7 +135,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 128 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Itochu Shokuhin Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -154,7 +160,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Mitsubishi Shokuhin Co., Ltd.",
     "gla": null,
     "nla": 14736,
     "land_tenure": "Freehold",
@@ -170,7 +175,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 165 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Mitsubishi Shokuhin Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -188,7 +200,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Chuo Bussan",
     "gla": null,
     "nla": 18257,
     "land_tenure": "Leasehold",
@@ -204,7 +215,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 178 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Chuo Bussan",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -222,7 +240,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Mitsubishi Shokuhin Co., Ltd.",
     "gla": null,
     "nla": 13421,
     "land_tenure": "Freehold",
@@ -238,7 +255,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 146 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - solely leased to Mitsubishi Shokuhin (single-tenant; confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Mitsubishi Shokuhin Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -256,7 +280,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Japanese group company of one of the largest multinational consumer goods corporations globally",
     "gla": null,
     "nla": 22514,
     "land_tenure": "Freehold",
@@ -273,7 +296,14 @@
     "_npi_unit": "JPY absolute (JPY 187 million x 1,000,000)",
     "_npi_note": "Partial-year (acquired 24 Mar 2025, ~9 months contribution)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Japanese group company of one of the largest multinational consumer goods corporations globally",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -291,7 +321,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Suntory Logistics Ltd.",
     "gla": null,
     "nla": 14877,
     "land_tenure": "Leasehold",
@@ -307,7 +336,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 241 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Suntory Logistics Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -325,7 +361,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Tokyo Logi Factory Co., Ltd.",
     "gla": null,
     "nla": 14582,
     "land_tenure": "Freehold",
@@ -341,7 +376,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 185 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Tokyo Logi Factory Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -360,7 +402,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 90.0,
     "trade_mix": null,
-    "major_tenant": "Mitsubishi Shokuhin Co., Ltd.",
     "gla": null,
     "nla": 93159,
     "land_tenure": "Leasehold",
@@ -376,7 +417,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 1,248 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 1,768 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Mitsubishi Shokuhin Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -395,7 +443,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "CREATE SD Co., Ltd. / NOK Corporation",
     "gla": null,
     "nla": 27537,
     "land_tenure": "Leasehold",
@@ -411,7 +458,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 290 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 402 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "CREATE SD Co., Ltd. / NOK Corporation",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -429,7 +483,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "TSE-listed 3PL operator (undisclosed name)",
     "gla": null,
     "nla": 22523,
     "land_tenure": "Freehold",
@@ -445,7 +498,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 209 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "TSE-listed 3PL operator (undisclosed name)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -464,7 +524,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "EDION Corporation / K.R.S Corporation",
     "gla": null,
     "nla": 23541,
     "land_tenure": "Leasehold",
@@ -480,7 +539,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 305 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 382 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "EDION Corporation / K.R.S Corporation",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -498,7 +564,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Nippon Express Co., Ltd.",
     "gla": null,
     "nla": 16750,
     "land_tenure": "Leasehold",
@@ -514,7 +579,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 170 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - solely occupied by Nippon Express (single-tenant confidentiality per note 3 p26 applied)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Nippon Express Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -533,7 +605,6 @@
     "gross_revenue_currency": "JPY",
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Nippon Express Co., Ltd. (anchor; 5 tenants total)",
     "gla": null,
     "nla": 15461,
     "land_tenure": "Freehold",
@@ -549,7 +620,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 123 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 155 million x 1,000,000)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Nippon Express Co., Ltd. (anchor; 5 tenants total)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -567,7 +645,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Nippon Access Inc.",
     "gla": null,
     "nla": 5347,
     "land_tenure": "Freehold",
@@ -583,7 +660,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 54 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Nippon Access Inc.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -601,7 +685,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Sonoda Rikuun Co., Ltd.",
     "gla": null,
     "nla": 10508,
     "land_tenure": "Leasehold",
@@ -617,7 +700,14 @@
     "_nla_unit": "sqm",
     "_npi_unit": "JPY absolute (JPY 110 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (confidentiality per note 3 p26)",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Sonoda Rikuun Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "DHLU.SI",
@@ -635,7 +725,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Meito Vietnam (Japanese 3PL specialising in frozen/chilled food, TSE-listed group company)",
     "gla": null,
     "nla": 18465,
     "land_tenure": "Leasehold",
@@ -651,6 +740,13 @@
     "_nla_unit": "sqm",
     "_npi_unit": "VND absolute (VND 46,886 million x 1,000,000)",
     "_gross_rev_note": "Not disclosed - single-tenant property (cold storage). Vietnam segment GR = S$2,447k per Note 24 p193.",
-    "category_raw": "Industrial"
+    "category_raw": "Industrial",
+    "major_tenants": [
+      {
+        "name": "Meito Vietnam (Japanese 3PL specialising in frozen/chilled food, TSE-listed group company)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   }
 ]

@@ -14,7 +14,6 @@
     "gross_revenue": 53772000.0,
     "occupancy_rate": 99.1,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -25,7 +24,8 @@
     "status": "active",
     "source_page": 100,
     "_rmb_valuation_000": 3741000,
-    "_rmb_valuation_note": "RMB'000 from audited Portfolio Statement page 100; S$ converted at closing rate"
+    "_rmb_valuation_note": "RMB'000 from audited Portfolio Statement page 100; S$ converted at closing rate",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -42,7 +42,6 @@
     "gross_revenue": 42723000.0,
     "occupancy_rate": 99.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -52,7 +51,8 @@
     "tenure_raw": "Land use right 40 years; remaining 20 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 3410000
+    "_rmb_valuation_000": 3410000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -69,7 +69,6 @@
     "gross_revenue": 34671000.0,
     "occupancy_rate": 96.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -79,7 +78,8 @@
     "tenure_raw": "Land use right 38-48 years; remaining 18-28 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 2822000
+    "_rmb_valuation_000": 2822000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -96,7 +96,6 @@
     "gross_revenue": 18376000.0,
     "occupancy_rate": 96.9,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -106,7 +105,8 @@
     "tenure_raw": "Land use right 40-50 years; remaining 19-29 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 1780000
+    "_rmb_valuation_000": 1780000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -123,7 +123,6 @@
     "gross_revenue": 31715000.0,
     "occupancy_rate": 98.8,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -133,7 +132,8 @@
     "tenure_raw": "Land use right 40 years; remaining 20 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 1789000
+    "_rmb_valuation_000": 1789000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -150,7 +150,6 @@
     "gross_revenue": 7778000.0,
     "occupancy_rate": 88.4,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -160,7 +159,8 @@
     "tenure_raw": "Land use right 40 years; remaining 22 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 1303000
+    "_rmb_valuation_000": 1303000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -177,7 +177,6 @@
     "gross_revenue": 17225000.0,
     "occupancy_rate": 99.5,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -187,7 +186,8 @@
     "tenure_raw": "Land use right 40 years; remaining 24 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 1030000
+    "_rmb_valuation_000": 1030000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -204,7 +204,6 @@
     "gross_revenue": 5722000.0,
     "occupancy_rate": 96.6,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -214,7 +213,8 @@
     "tenure_raw": "Land use right 40 years; remaining 17 years as at valuation date",
     "status": "active",
     "source_page": 100,
-    "_rmb_valuation_000": 369000
+    "_rmb_valuation_000": 369000,
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -231,7 +231,6 @@
     "gross_revenue": 40748000.0,
     "occupancy_rate": 95.3,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -244,7 +243,8 @@
     "_rmb_valuation_000": 2340000,
     "_value_basis": "consolidated_100pct",
     "_note": "CLCT holds 51% interest; Portfolio Statement valuation on 100% basis",
-    "category_raw": "Business Park"
+    "category_raw": "Business Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -261,7 +261,6 @@
     "gross_revenue": 9859000.0,
     "occupancy_rate": 73.6,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -274,7 +273,8 @@
     "_rmb_valuation_000": 805000,
     "_value_basis": "consolidated_100pct",
     "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
-    "category_raw": "Business Park"
+    "category_raw": "Business Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -291,7 +291,6 @@
     "gross_revenue": 11551000.0,
     "occupancy_rate": 74.9,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -304,7 +303,8 @@
     "_rmb_valuation_000": 1017000,
     "_value_basis": "consolidated_100pct",
     "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
-    "category_raw": "Business Park"
+    "category_raw": "Business Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -321,7 +321,6 @@
     "gross_revenue": 10831000.0,
     "occupancy_rate": 85.2,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -332,7 +331,8 @@
     "status": "active",
     "source_page": 101,
     "_rmb_valuation_000": 871000,
-    "category_raw": "Business Park"
+    "category_raw": "Business Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -349,7 +349,6 @@
     "gross_revenue": 5403000.0,
     "occupancy_rate": 86.7,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -362,7 +361,8 @@
     "_rmb_valuation_000": 334000,
     "_value_basis": "consolidated_100pct",
     "_note": "CLCT holds 80% interest; Portfolio Statement valuation on 100% basis",
-    "category_raw": "Business Park"
+    "category_raw": "Business Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -379,7 +379,6 @@
     "gross_revenue": 1228000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -390,7 +389,8 @@
     "status": "active",
     "source_page": 102,
     "_rmb_valuation_000": 438000,
-    "category_raw": "Logistics Park"
+    "category_raw": "Logistics Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -407,7 +407,6 @@
     "gross_revenue": 2478000.0,
     "occupancy_rate": 92.3,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -418,7 +417,8 @@
     "status": "active",
     "source_page": 102,
     "_rmb_valuation_000": 323000,
-    "category_raw": "Logistics Park"
+    "category_raw": "Logistics Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -435,7 +435,6 @@
     "gross_revenue": 3086000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -446,7 +445,8 @@
     "status": "active",
     "source_page": 102,
     "_rmb_valuation_000": 326000,
-    "category_raw": "Logistics Park"
+    "category_raw": "Logistics Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -463,7 +463,6 @@
     "gross_revenue": 2527000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -474,7 +473,8 @@
     "status": "active",
     "source_page": 102,
     "_rmb_valuation_000": 283000,
-    "category_raw": "Logistics Park"
+    "category_raw": "Logistics Park",
+    "major_tenants": []
   },
   {
     "symbol": "AU8U.SI",
@@ -491,7 +491,6 @@
     "gross_revenue": 4027000.0,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -502,6 +501,7 @@
     "status": "divested",
     "source_page": 102,
     "_rmb_valuation_000": null,
-    "_note": "Divested on 31 Oct 2025 at RMB 813.8m sale price; not in active Portfolio Statement as at 31 Dec 2025; partial-year P&L included (1 Jan to 31 Oct 2025)"
+    "_note": "Divested on 31 Oct 2025 at RMB 813.8m sale price; not in active Portfolio Statement as at 31 Dec 2025; partial-year P&L included (1 Jan to 31 Oct 2025)",
+    "major_tenants": []
   }
 ]

@@ -14,7 +14,6 @@
     "gross_revenue": 97704000,
     "occupancy_rate": 92.3,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 629167,
     "nla": 419782,
     "land_tenure": "Leasehold",
@@ -24,7 +23,8 @@
     "tenure_raw": "99-year leasehold from 30 October 1995",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -41,7 +41,6 @@
     "gross_revenue": 85573000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 850378,
     "nla": 531529,
     "land_tenure": "Leasehold",
@@ -51,7 +50,8 @@
     "tenure_raw": "99-year leasehold from 1 April 1990",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -68,7 +68,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -78,7 +77,8 @@
     "tenure_raw": "99-year leasehold from 19 March 2015",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -95,7 +95,6 @@
     "gross_revenue": 54990000,
     "occupancy_rate": 99.8,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 391551,
     "nla": 278059,
     "land_tenure": "Leasehold",
@@ -105,7 +104,8 @@
     "tenure_raw": "99-year leasehold from 1 April 1990",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -122,7 +122,6 @@
     "gross_revenue": 44502000,
     "occupancy_rate": 99.2,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 519202,
     "nla": 214505,
     "land_tenure": "Leasehold",
@@ -132,7 +131,8 @@
     "tenure_raw": "99-year leasehold from 1 September 1991",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -149,7 +149,6 @@
     "gross_revenue": 35886000,
     "occupancy_rate": 91.8,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 327226,
     "nla": 211278,
     "land_tenure": "Leasehold",
@@ -159,7 +158,8 @@
     "tenure_raw": "99-year leasehold from 1 September 1992",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -176,7 +176,6 @@
     "gross_revenue": 27124000,
     "occupancy_rate": 73.5,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 232782,
     "nla": 165765,
     "land_tenure": "Leasehold",
@@ -186,7 +185,8 @@
     "tenure_raw": "99-year leasehold from 1 May 1994",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -203,7 +203,6 @@
     "gross_revenue": 31635000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 240371,
     "nla": 150352,
     "land_tenure": "Leasehold",
@@ -213,7 +212,8 @@
     "tenure_raw": "99-year leasehold from 1 May 1993",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -230,7 +230,6 @@
     "gross_revenue": 12147000,
     "occupancy_rate": 94.6,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 171136,
     "land_tenure": "Leasehold",
@@ -240,7 +239,8 @@
     "tenure_raw": "99-year leasehold from 1 September 1991",
     "status": "active",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -257,7 +257,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -267,7 +266,8 @@
     "tenure_raw": "99-year leasehold from 1 April 1990",
     "status": "divested",
     "value_basis": "consolidated",
-    "source_page": 149
+    "source_page": 149,
+    "major_tenants": []
   },
   {
     "symbol": "J69U.SI",
@@ -284,7 +284,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "FairPrice Xtra, Isetan, Food Junction, H&M, Courts, Popular Bookstore and Shaw Theatres",
     "gla": 960450,
     "nla": 634631,
     "land_tenure": "Leasehold",
@@ -294,7 +293,14 @@
     "tenure_raw": "99-year leasehold commencing 26 June 2008",
     "status": "active",
     "value_basis": "joint_venture_100pct",
-    "source_page": 70
+    "source_page": 70,
+    "major_tenants": [
+      {
+        "name": "FairPrice Xtra, Isetan, Food Junction, H&M, Courts, Popular Bookstore and Shaw Theatres",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "J69U.SI",
@@ -311,7 +317,6 @@
     "gross_revenue": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 560234,
     "nla": 390445,
     "land_tenure": "Leasehold",
@@ -321,6 +326,7 @@
     "tenure_raw": "99-year leasehold commencing 18 May 2011",
     "status": "active",
     "value_basis": "joint_venture_100pct",
-    "source_page": 68
+    "source_page": 68,
+    "major_tenants": []
   }
 ]

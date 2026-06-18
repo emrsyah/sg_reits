@@ -96,13 +96,18 @@ create table sgx_reit_property (
   currency            text,       -- src: AR
   net_property_income numeric,    -- src: AR — as-disclosed only, never computed
   gross_revenue       numeric,    -- src: AR
+  gri_pct             numeric,    -- src: AR — property's share of portfolio GRI/rental income
+                                  -- (% plain number), when disclosed as a percentage not absolute
   occupancy_rate      numeric,    -- src: AR
   trade_mix           jsonb,      -- src: AR — property-level set, sparse (few trusts
                                   -- disclose it); REIT-level mix lives in its own table;
                                   -- keys use the same canonical 15-value category list
-  major_tenant        text,       -- src: AR
-  gla                 numeric,    -- src: AR
-  nla                 numeric,    -- src: AR
+  major_tenants       jsonb,      -- src: AR — [{name, industry?, pct?}]; a property often
+                                  -- has several major/top tenants (was major_tenant text)
+  gla                 numeric,    -- src: AR — gross LETTABLE area (NOT gross floor area)
+  nla                 numeric,    -- src: AR — net lettable area
+  gfa                 numeric,    -- src: AR — gross FLOOR area (built area, not lettable);
+                                  -- many cards disclose GFA — keep separate from gla/nla
   land_tenure         text,       -- src: AR — Freehold | Leasehold
   effective_date      date,       -- src: AR — land-lease start
   lease_term_years    numeric,    -- src: AR — parsed from '64/99' → 99

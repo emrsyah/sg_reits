@@ -99,6 +99,16 @@ class Profile(BaseModel):
     source_page: Optional[int] = None
 
 
+class PropertyTenant(BaseModel):
+    """One tenant in a property's major/top-tenant list (Property.major_tenants).
+    A property often discloses several major tenants (and sometimes a per-property top-N)."""
+    name: str = Field(description="tenant name as printed")
+    industry: Optional[str] = Field(
+        None, description="canonical 15-value trade sector, when classifiable")
+    pct: Optional[float] = Field(
+        None, description="this tenant's share of the property's GRI/income, % plain number")
+
+
 class Property(BaseModel):
     """sgx_reit_property — one per (symbol, property, financial_year)."""
     symbol: str = Field(description="SGX ticker with .SI suffix")
@@ -120,12 +130,22 @@ class Property(BaseModel):
     currency: Optional[str] = None
     net_property_income: Optional[float] = Field(None, description="as-disclosed only")
     gross_revenue: Optional[float] = None
+    gri_pct: Optional[float] = Field(
+        None, description="this property's share of portfolio GRI / rental income, % plain "
+        "number — when the report discloses the contribution as a percentage (not an absolute)")
     occupancy_rate: Optional[float] = Field(None, description="percent, plain number")
     trade_mix: Optional[dict[str, float]] = Field(
         None, description="per-property trade mix {category: pct}, when disclosed")
-    major_tenant: Optional[str] = None
-    gla: Optional[float] = Field(None, description="gross lettable area")
-    nla: Optional[float] = Field(None, description="net lettable area")
+    major_tenants: list[PropertyTenant] = Field(
+        default_factory=list,
+        description="major/top tenants for this property (often several); was major_tenant text")
+    gla: Optional[float] = Field(
+        None, description="gross lettable area — the LETTABLE area; do NOT fill from gross "
+        "FLOOR area (that is gfa). Distinct from nla (net lettable).")
+    nla: Optional[float] = Field(None, description="net lettable area (distinct from gla/gfa)")
+    gfa: Optional[float] = Field(
+        None, description="gross floor area — the built floor area (NOT lettable area); keep "
+        "separate from gla/nla. Many cards disclose GFA, not GLA.")
     land_tenure: Optional[LandTenure] = Field(
         None, description="Freehold or Leasehold ONLY; verbatim wording -> tenure_raw")
     effective_date: Optional[str] = Field(None, description="land-lease start YYYY-MM-DD")

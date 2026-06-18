@@ -14,7 +14,6 @@
     "gross_revenue": 1300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Precious Homes Pte. Ltd.",
     "gla": 3593.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -24,7 +23,14 @@
     "tenure_raw": "30 years leasehold from 2002",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Precious Homes Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -41,7 +47,6 @@
     "gross_revenue": 1300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Precious Homes Bukit Panjang Pte. Ltd.",
     "gla": 3563.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -51,7 +56,14 @@
     "tenure_raw": "30 years leasehold from 2003",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Precious Homes Bukit Panjang Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -68,7 +80,6 @@
     "gross_revenue": 1900000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "The Lentor Residence Pte. Ltd.",
     "gla": 4005.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -78,7 +89,14 @@
     "tenure_raw": "99 years leasehold from 1938",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "The Lentor Residence Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -95,7 +113,6 @@
     "gross_revenue": 13700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 32696.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -105,7 +122,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 137,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -122,7 +146,6 @@
     "gross_revenue": 7200000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 20268.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -132,7 +155,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 137,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -149,7 +179,6 @@
     "gross_revenue": 10500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 37933.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -159,7 +188,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 137,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -176,7 +212,6 @@
     "gross_revenue": 5200000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT East Jakarta Medika (subsidiary of PT Siloam International Hospitals Tbk)",
     "gla": 13256.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -186,7 +221,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+0.5 years master lease",
     "status": "active",
     "source_page": 137,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT East Jakarta Medika (subsidiary of PT Siloam International Hospitals Tbk)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -203,7 +245,6 @@
     "gross_revenue": 6900000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk (hospital), PT Lippo Karawaci Tbk (hotel)",
     "gla": 36051.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -213,7 +254,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years; hospital expiry 31 Dec 2035, hotel expiry 29 Nov 2027",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk (hospital), PT Lippo Karawaci Tbk (hotel)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -230,7 +278,6 @@
     "gross_revenue": 5500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 15686.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -240,7 +287,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -257,7 +311,6 @@
     "gross_revenue": 5300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 20958.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -267,7 +320,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -284,7 +344,6 @@
     "gross_revenue": 3500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
     "gla": 18605.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -294,7 +353,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -311,7 +377,6 @@
     "gross_revenue": 2000000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Berlian Cahaya Indah (subsidiary of Siloam), PT Metropolis Propertindo Utama",
     "gla": 9595.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -321,7 +386,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 139,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Berlian Cahaya Indah (subsidiary of Siloam), PT Metropolis Propertindo Utama",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -338,7 +410,6 @@
     "gross_revenue": 3200000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Rumah Sakit Siloam Hospitals Sumsel (subsidiary of Siloam), PT Metropolis Propertindo Utama",
     "gla": 15336.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -348,7 +419,14 @@
     "tenure_raw": "Strata Title on Build, Operate and Transfer (BOT) scheme, BOT expiry 24 Jan 2041, 15+15 years master lease",
     "status": "active",
     "source_page": 139,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Rumah Sakit Siloam Hospitals Sumsel (subsidiary of Siloam), PT Metropolis Propertindo Utama",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -365,7 +443,6 @@
     "gross_revenue": 5500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Krisolis Jaya Mandiri (subsidiary of Siloam), PT Metropolis Propertindo Utama",
     "gla": 55368.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -375,7 +452,14 @@
     "tenure_raw": "BOT scheme with expiry on 21 May 2041; hospital lease 15+15 years to 31 Dec 2035, mall lease to 13 Dec 2030",
     "status": "active",
     "source_page": 139,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Krisolis Jaya Mandiri (subsidiary of Siloam), PT Metropolis Propertindo Utama",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -392,7 +476,6 @@
     "gross_revenue": 900000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Lintas Buana Jaya (subsidiary of Siloam), PT Lippo Karawaci Tbk",
     "gla": 7604.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -402,7 +485,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 139,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Lintas Buana Jaya (subsidiary of Siloam), PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -419,7 +509,6 @@
     "gross_revenue": 2500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Bina Bahtera Sejati (subsidiary of Siloam), PT Andromeda Sakti (subsidiary of Lippo Karawaci)",
     "gla": 21934.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -429,7 +518,14 @@
     "tenure_raw": "BOT scheme with expiry on 15 June 2044; hospital lease SHBB to 31 Dec 2035, mall lease LPB to 9 Oct 2032",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Bina Bahtera Sejati (subsidiary of Siloam), PT Andromeda Sakti (subsidiary of Lippo Karawaci)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -446,7 +542,6 @@
     "gross_revenue": 1700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "PT Taruna Perkasa Megah (subsidiary of Siloam), PT Lippo Karawaci Tbk",
     "gla": 12474.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -456,7 +551,14 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 15+15 years master lease",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "PT Taruna Perkasa Megah (subsidiary of Siloam), PT Lippo Karawaci Tbk",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -473,7 +575,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 17926.0,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -483,7 +584,8 @@
     "tenure_raw": "Hak Guna Bangunan (HGB), 1+1 year; divested December 2025",
     "status": "divested",
     "source_page": 140,
-    "category_raw": "Hospitality"
+    "category_raw": "Hospitality",
+    "major_tenants": []
   },
   {
     "symbol": "AW9U.SI",
@@ -500,7 +602,6 @@
     "gross_revenue": 600000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 8747.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -510,7 +611,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 141,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -527,7 +635,6 @@
     "gross_revenue": 400000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 4362.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -537,7 +644,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 141,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -554,7 +668,6 @@
     "gross_revenue": 900000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 9782.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -564,7 +677,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 141,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -581,7 +701,6 @@
     "gross_revenue": 2900000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 20756.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -591,7 +710,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 141,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -608,7 +734,6 @@
     "gross_revenue": 500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 2808.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -618,7 +743,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 141,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -635,7 +767,6 @@
     "gross_revenue": 2100000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 13301.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -645,7 +776,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -662,7 +800,6 @@
     "gross_revenue": 1300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Hikari Heights Varus Co., Ltd.",
     "gla": 7637.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -672,7 +809,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Hikari Heights Varus Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -689,7 +833,6 @@
     "gross_revenue": 700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "BEC Co., Ltd.",
     "gla": 3790.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -699,7 +842,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "BEC Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -716,7 +866,6 @@
     "gross_revenue": 1200000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "BEC Co., Ltd.",
     "gla": 10259.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -726,7 +875,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "BEC Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -743,7 +899,6 @@
     "gross_revenue": 500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Orchard Care Co., Ltd.",
     "gla": 2927.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -753,7 +908,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Orchard Care Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -770,7 +932,6 @@
     "gross_revenue": 700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Orchard Care Co., Ltd.",
     "gla": 5058.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -780,7 +941,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 143,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Orchard Care Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -797,7 +965,6 @@
     "gross_revenue": 300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Orchard Care Co., Ltd.",
     "gla": 1561.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -807,7 +974,14 @@
     "tenure_raw": "Freehold, 30+5 years lease",
     "status": "active",
     "source_page": 143,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Orchard Care Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -824,7 +998,6 @@
     "gross_revenue": 800000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Benesse Style Care Co., Ltd.",
     "gla": 8858.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -834,7 +1007,14 @@
     "tenure_raw": "Freehold, 20+5 years lease",
     "status": "active",
     "source_page": 143,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Benesse Style Care Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "AW9U.SI",
@@ -851,7 +1031,6 @@
     "gross_revenue": 500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Social Welfare Research Institute Co., Ltd.",
     "gla": 3387.0,
     "nla": null,
     "land_tenure": "Freehold",
@@ -861,6 +1040,13 @@
     "tenure_raw": "Freehold, 30 years lease",
     "status": "active",
     "source_page": 143,
-    "category_raw": "Healthcare"
+    "category_raw": "Healthcare",
+    "major_tenants": [
+      {
+        "name": "Social Welfare Research Institute Co., Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   }
 ]

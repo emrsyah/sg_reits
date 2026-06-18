@@ -141,7 +141,7 @@ matches by **normalised name** (handles audited-full-name vs card-abbreviation),
 anomaly check.
 
 **3f. `other_source` LLM lane (properties).** The property fields that live in per-property
-cards (occupancy_rate, gla, nla, net_property_income, gross_revenue, major_tenant) are too
+cards (occupancy_rate, gla, nla, net_property_income, gross_revenue, major_tenants) are too
 irregular to parse deterministically across 40 trusts → one batched LLM pass reads the card
 pages and returns `{property_name: {field: value}}`. Save as `llm_other_source.json`, then:
 ```bash

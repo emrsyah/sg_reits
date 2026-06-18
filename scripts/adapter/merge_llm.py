@@ -6,7 +6,7 @@ Steps 5-6 of the hybrid plan. Takes the deterministic records and an LLM-filled 
 once per LLM lane:
   - needs_llm   fields (judgement/combine: ownership, value_basis, component, ...)
   - other_source fields (live elsewhere, e.g. per-property cards: occupancy, gla, nla,
-    net_property_income, gross_revenue, major_tenant)
+    net_property_income, gross_revenue, major_tenants)
 
 Pass --decision to choose which set this map fills (default: both). Matching is by
 NORMALISED name (audited statements use full legal names, cards/marketing use

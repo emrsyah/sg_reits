@@ -14,7 +14,6 @@
     "gross_revenue": 16500000,
     "occupancy_rate": 53.3,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 109721,
     "land_tenure": "Leasehold",
@@ -24,7 +23,8 @@
     "tenure_raw": "Leasehold (Expiring 30 September 2055)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -41,7 +41,6 @@
     "gross_revenue": 18000000,
     "occupancy_rate": 98.2,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 38480,
     "land_tenure": "Leasehold",
@@ -51,7 +50,8 @@
     "tenure_raw": "Leasehold (Expiring 31 July 2051)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -68,7 +68,6 @@
     "gross_revenue": 37000000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 49433,
     "land_tenure": "Leasehold",
@@ -78,7 +77,8 @@
     "tenure_raw": "Leasehold (Expiring 31 January 2052)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -95,7 +95,6 @@
     "gross_revenue": 52500000,
     "occupancy_rate": 94.5,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 83698,
     "land_tenure": "Leasehold",
@@ -105,7 +104,8 @@
     "tenure_raw": "Leasehold (Expiring 30 June 2050)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -122,7 +122,6 @@
     "gross_revenue": 52500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 93936,
     "land_tenure": "Leasehold",
@@ -132,7 +131,8 @@
     "tenure_raw": "Leasehold (Expiring 31 August 2050, including a further term of nine years)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -149,7 +149,6 @@
     "gross_revenue": 58000000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 77024,
     "land_tenure": "Leasehold",
@@ -159,7 +158,8 @@
     "tenure_raw": "Leasehold (Expiring 15 July 2050, including a further term of 10 years)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -176,7 +176,6 @@
     "gross_revenue": 49700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 78214,
     "land_tenure": "Leasehold",
@@ -186,7 +185,8 @@
     "tenure_raw": "Leasehold (Expiring 15 July 2050, including a further term of 10 years)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -203,7 +203,6 @@
     "gross_revenue": 26700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 213815,
     "land_tenure": "Leasehold",
@@ -213,7 +212,8 @@
     "tenure_raw": "Leasehold (Expiring 31 July 2044)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -230,7 +230,6 @@
     "gross_revenue": 2900000,
     "occupancy_rate": 80.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 90955,
     "land_tenure": "Freehold",
@@ -240,7 +239,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -257,7 +257,6 @@
     "gross_revenue": 11300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 221689,
     "land_tenure": "Leasehold",
@@ -267,7 +266,8 @@
     "tenure_raw": "Leasehold (Expiring 17 January 2067)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -284,7 +284,6 @@
     "gross_revenue": 11300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 218615,
     "land_tenure": "Leasehold",
@@ -294,7 +293,8 @@
     "tenure_raw": "Leasehold (Expiring 17 January 2067)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -311,7 +311,6 @@
     "gross_revenue": 500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 221847,
     "land_tenure": "Leasehold",
@@ -321,7 +320,8 @@
     "tenure_raw": "Leasehold (Expiring 17 January 2067)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -338,7 +338,6 @@
     "gross_revenue": 6300000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 187257,
     "land_tenure": "Freehold",
@@ -348,7 +347,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -365,7 +365,6 @@
     "gross_revenue": 4600000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 73325,
     "land_tenure": "Freehold",
@@ -375,7 +374,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -392,7 +392,6 @@
     "gross_revenue": 1400000,
     "occupancy_rate": 40.2,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 48193,
     "land_tenure": "Freehold",
@@ -402,7 +401,8 @@
     "tenure_raw": "Freehold",
     "status": "held_for_sale",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -419,7 +419,6 @@
     "gross_revenue": 10000000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 97043,
     "land_tenure": "Freehold",
@@ -429,7 +428,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -446,7 +446,6 @@
     "gross_revenue": 23200000,
     "occupancy_rate": 96.5,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 66124,
     "land_tenure": "Leasehold",
@@ -456,7 +455,8 @@
     "tenure_raw": "Leasehold (Expiring 31 December 2998)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -473,7 +473,6 @@
     "gross_revenue": 13700000,
     "occupancy_rate": 98.1,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 28484,
     "land_tenure": "Leasehold",
@@ -483,7 +482,8 @@
     "tenure_raw": "Leasehold (Expiring 31 December 2997)",
     "status": "active",
     "source_page": 111,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -500,7 +500,6 @@
     "gross_revenue": 4500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 165389,
     "land_tenure": "Freehold",
@@ -510,7 +509,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -527,7 +527,6 @@
     "gross_revenue": 10700000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 118403,
     "land_tenure": "Freehold",
@@ -537,7 +536,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -554,7 +554,6 @@
     "gross_revenue": 3500000,
     "occupancy_rate": 95.1,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 141698,
     "land_tenure": "Freehold",
@@ -564,7 +563,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -581,7 +581,6 @@
     "gross_revenue": 3500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 98577,
     "land_tenure": "Freehold",
@@ -591,7 +590,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -608,7 +608,6 @@
     "gross_revenue": 5500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 79439,
     "land_tenure": "Freehold",
@@ -618,7 +617,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -635,7 +635,6 @@
     "gross_revenue": 5200000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 24972,
     "land_tenure": "Leasehold",
@@ -645,7 +644,8 @@
     "tenure_raw": "Leasehold (Expiring 28 September 2183)",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -662,7 +662,6 @@
     "gross_revenue": 4500000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": 94867,
     "land_tenure": "Freehold",
@@ -672,7 +671,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   },
   {
     "symbol": "AJBU.SI",
@@ -689,7 +689,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -699,6 +698,7 @@
     "tenure_raw": "Freehold",
     "status": "divested",
     "source_page": 110,
-    "category_raw": "Data Centre"
+    "category_raw": "Data Centre",
+    "major_tenants": []
   }
 ]

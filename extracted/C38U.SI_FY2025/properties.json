@@ -14,7 +14,6 @@
     "gross_revenue": 82800000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Golden Village Multiplex Pte Ltd",
     "gla": 507300.0,
     "nla": 356000.0,
     "land_tenure": "Leasehold",
@@ -23,7 +22,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 66 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Golden Village Multiplex Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -40,7 +46,6 @@
     "gross_revenue": 84900000.0,
     "occupancy_rate": 99.1,
     "trade_mix": null,
-    "major_tenant": "BHG (Singapore) Pte. Ltd.",
     "gla": 577000.0,
     "nla": 392800.0,
     "land_tenure": "Leasehold",
@@ -49,7 +54,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 64 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "BHG (Singapore) Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -66,7 +78,6 @@
     "gross_revenue": 77800000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "major_tenant": "BreadTalk Group Pte Ltd",
     "gla": 593900.0,
     "nla": 410000.0,
     "land_tenure": "Leasehold",
@@ -75,7 +86,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 85 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "BreadTalk Group Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -92,7 +110,6 @@
     "gross_revenue": 58900000.0,
     "occupancy_rate": 99.7,
     "trade_mix": null,
-    "major_tenant": "Hanbaobao Pte. Ltd.",
     "gla": 334300.0,
     "nla": 222900.0,
     "land_tenure": "Leasehold",
@@ -101,7 +118,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 85 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Hanbaobao Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -118,7 +142,6 @@
     "gross_revenue": 62800000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "Best Denki (Singapore) Pte. Ltd.",
     "gla": 451600.0,
     "nla": 305100.0,
     "land_tenure": "Leasehold",
@@ -127,7 +150,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 65 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Best Denki (Singapore) Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -144,7 +174,6 @@
     "gross_revenue": 95500000.0,
     "occupancy_rate": 98.8,
     "trade_mix": null,
-    "major_tenant": "Best Denki (Singapore) Pte. Ltd.",
     "gla": 1426500.0,
     "nla": 956200.0,
     "land_tenure": "Leasehold",
@@ -153,7 +182,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 60 years / 23 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Best Denki (Singapore) Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -170,7 +206,6 @@
     "gross_revenue": 47200000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "BreadTalk Group Pte Ltd",
     "gla": 333300.0,
     "nla": 227200.0,
     "land_tenure": "Leasehold",
@@ -179,7 +214,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 67 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "BreadTalk Group Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -196,7 +238,6 @@
     "gross_revenue": 32200000.0,
     "occupancy_rate": 97.6,
     "trade_mix": null,
-    "major_tenant": "Huone Singapore Pte. Ltd.",
     "gla": 366600.0,
     "nla": 289000.0,
     "land_tenure": "Leasehold",
@@ -205,7 +246,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 63 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Huone Singapore Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -222,7 +270,6 @@
     "gross_revenue": null,
     "occupancy_rate": 99.9,
     "trade_mix": null,
-    "major_tenant": "Golden Village Multiplex Pte Ltd",
     "gla": 319800.0,
     "nla": 214400.0,
     "land_tenure": "Leasehold",
@@ -231,7 +278,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 60 years / 40 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Golden Village Multiplex Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -248,7 +302,6 @@
     "gross_revenue": 104300000.0,
     "occupancy_rate": 95.3,
     "trade_mix": null,
-    "major_tenant": "KPMG Services Pte. Ltd.",
     "gla": 916900.0,
     "nla": 773700.0,
     "land_tenure": "Leasehold",
@@ -257,7 +310,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 81 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "KPMG Services Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -274,7 +334,6 @@
     "gross_revenue": 72700000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "major_tenant": "JPMorgan Chase Bank, N.A.",
     "gla": 818500.0,
     "nla": 673800.0,
     "land_tenure": "Leasehold",
@@ -283,7 +342,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 55 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "JPMorgan Chase Bank, N.A.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -300,7 +366,6 @@
     "gross_revenue": 97900000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "major_tenant": "Lloyd's of London (Asia) Pte. Ltd.",
     "gla": 882700.0,
     "nla": 695600.0,
     "land_tenure": "Leasehold",
@@ -309,7 +374,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 47 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Lloyd's of London (Asia) Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -326,7 +398,6 @@
     "gross_revenue": 71100000.0,
     "occupancy_rate": 95.7,
     "trade_mix": null,
-    "major_tenant": "Ice Data Services Singapore Pte. Ltd.",
     "gla": 655200.0,
     "nla": 495200.0,
     "land_tenure": "Leasehold",
@@ -335,7 +406,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 999 years / 799 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Ice Data Services Singapore Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -352,7 +430,6 @@
     "gross_revenue": 79800000.0,
     "occupancy_rate": 95.2,
     "trade_mix": null,
-    "major_tenant": "CapitaLand Investment Limited",
     "gla": 1027200.0,
     "nla": 734000.0,
     "land_tenure": "Leasehold",
@@ -361,7 +438,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 69 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "CapitaLand Investment Limited",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -378,7 +462,6 @@
     "gross_revenue": 74800000.0,
     "occupancy_rate": 98.7,
     "trade_mix": null,
-    "major_tenant": "Allianz Group",
     "gla": 613600.0,
     "nla": 518900.0,
     "land_tenure": "Leasehold",
@@ -387,7 +470,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 41 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Allianz Group",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -404,7 +494,6 @@
     "gross_revenue": 251800000.0,
     "occupancy_rate": 98.4,
     "trade_mix": null,
-    "major_tenant": "Accenture Pte. Ltd.",
     "gla": 3449800.0,
     "nla": 788100.0,
     "land_tenure": "Leasehold",
@@ -414,7 +503,14 @@
     "tenure_raw": "Leasehold / 99 years / 53 years",
     "status": "active",
     "source_page": 109,
-    "category_raw": "Integrated Developments"
+    "category_raw": "Integrated Developments",
+    "major_tenants": [
+      {
+        "name": "Accenture Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -431,7 +527,6 @@
     "gross_revenue": 93200000.0,
     "occupancy_rate": 98.6,
     "trade_mix": null,
-    "major_tenant": "Cold Storage Singapore (1983) Pte Ltd",
     "gla": 757200.0,
     "nla": 485500.0,
     "land_tenure": "Freehold",
@@ -441,7 +536,14 @@
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
     "source_page": 109,
-    "category_raw": "Integrated Developments"
+    "category_raw": "Integrated Developments",
+    "major_tenants": [
+      {
+        "name": "Cold Storage Singapore (1983) Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -458,7 +560,6 @@
     "gross_revenue": 68400000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "major_tenant": "Adidas Singapore Pte Ltd",
     "gla": 767300.0,
     "nla": 532200.0,
     "land_tenure": "Leasehold",
@@ -468,7 +569,14 @@
     "tenure_raw": "Leasehold / 99 years / 53 years",
     "status": "active",
     "source_page": 109,
-    "category_raw": "Integrated Developments"
+    "category_raw": "Integrated Developments",
+    "major_tenants": [
+      {
+        "name": "Adidas Singapore Pte Ltd",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -485,7 +593,6 @@
     "gross_revenue": 50500000.0,
     "occupancy_rate": 98.2,
     "trade_mix": null,
-    "major_tenant": "Best Denki (Singapore) Pte. Ltd.",
     "gla": 576600.0,
     "nla": 385600.0,
     "land_tenure": "Leasehold",
@@ -495,7 +602,14 @@
     "tenure_raw": "Leasehold / 99 years / 82 years",
     "status": "active",
     "source_page": 109,
-    "category_raw": "Integrated Developments"
+    "category_raw": "Integrated Developments",
+    "major_tenants": [
+      {
+        "name": "Best Denki (Singapore) Pte. Ltd.",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -512,7 +626,6 @@
     "gross_revenue": 15000000.0,
     "occupancy_rate": 85.3,
     "trade_mix": null,
-    "major_tenant": "Arthur J. Gallagher & Co (Aus) Limited",
     "gla": null,
     "nla": 291200.0,
     "land_tenure": "Freehold",
@@ -521,7 +634,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Arthur J. Gallagher & Co (Aus) Limited",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -538,7 +658,6 @@
     "gross_revenue": 15800000.0,
     "occupancy_rate": 94.2,
     "trade_mix": null,
-    "major_tenant": "Government Property NSW",
     "gla": null,
     "nla": 245700.0,
     "land_tenure": "Leasehold",
@@ -547,7 +666,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 111 – 125 years / 91 years",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Government Property NSW",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -564,7 +690,6 @@
     "gross_revenue": 22300000.0,
     "occupancy_rate": 92.8,
     "trade_mix": null,
-    "major_tenant": "Allianz Australia Services Pty Limited",
     "gla": null,
     "nla": 499200.0,
     "land_tenure": "Freehold",
@@ -574,7 +699,14 @@
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
     "source_page": 109,
-    "category_raw": "Integrated Developments"
+    "category_raw": "Integrated Developments",
+    "major_tenants": [
+      {
+        "name": "Allianz Australia Services Pty Limited",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -591,7 +723,6 @@
     "gross_revenue": 6800000.0,
     "occupancy_rate": 97.7,
     "trade_mix": null,
-    "major_tenant": "Europaischen Zentralbank (ECB)",
     "gla": null,
     "nla": 442100.0,
     "land_tenure": "Freehold",
@@ -600,7 +731,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Europaischen Zentralbank (ECB)",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -617,7 +755,6 @@
     "gross_revenue": 22100000.0,
     "occupancy_rate": 87.4,
     "trade_mix": null,
-    "major_tenant": "Dell GmbH",
     "gla": null,
     "nla": 654600.0,
     "land_tenure": "Freehold",
@@ -626,7 +763,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Freehold / NA / NA",
     "status": "active",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "Dell GmbH",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -643,7 +787,6 @@
     "gross_revenue": null,
     "occupancy_rate": 99.9,
     "trade_mix": null,
-    "major_tenant": "National Library Board",
     "gla": 247500.0,
     "nla": 164500.0,
     "land_tenure": "Leasehold",
@@ -652,7 +795,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "Leasehold / 99 years / 68 years",
     "status": "held_for_sale",
-    "source_page": 109
+    "source_page": 109,
+    "major_tenants": [
+      {
+        "name": "National Library Board",
+        "industry": null,
+        "pct": null
+      }
+    ]
   },
   {
     "symbol": "C38U.SI",
@@ -669,7 +819,6 @@
     "gross_revenue": 130800000.0,
     "occupancy_rate": 98.0,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": 945400.0,
     "nla": 624200.0,
     "land_tenure": null,
@@ -679,6 +828,7 @@
     "tenure_raw": null,
     "status": "active",
     "value_basis": "joint_venture_100pct",
-    "source_page": 39
+    "source_page": 39,
+    "major_tenants": []
   }
 ]

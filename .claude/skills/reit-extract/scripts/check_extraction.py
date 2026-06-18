@@ -198,7 +198,7 @@ def main() -> None:
                    or re.search(r"\d+\s*years", raw, re.IGNORECASE))):
             no_expiry.append(r.get("property_name"))
         if str(r.get("status") or "active").lower().startswith("active") \
-                and r.get("gla") is None and r.get("nla") is None:
+                and r.get("gla") is None and r.get("nla") is None and r.get("gfa") is None:
             no_area.append(r.get("property_name"))
     if no_expiry:
         if declared("lease_expiry", "expiry"):
@@ -216,10 +216,11 @@ def main() -> None:
                          f"declared structural in _notes (e.g. hospitality trusts "
                          f"disclose unit counts, not floor area)")
         else:
-            warns.append(f"{len(no_area)} active propert(ies) with both gla and "
-                         f"nla null (e.g. {no_area[:3]}) — area is ~95-100% "
-                         f"disclosed unless sector-structural; if structural, "
-                         f"declare gla/nla in columns_never_fillable")
+            warns.append(f"{len(no_area)} active propert(ies) with gla, nla AND gfa all "
+                         f"null (e.g. {no_area[:3]}) — some area metric is ~95-100% "
+                         f"disclosed unless sector-structural (use gfa for gross FLOOR "
+                         f"area, gla for gross LETTABLE); if structural, declare in "
+                         f"columns_never_fillable")
 
     # 4. unit sanity (trust level)
     perf = data["performance"][0] if data["performance"] else {}

@@ -14,7 +14,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -25,7 +24,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -42,7 +42,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -53,7 +52,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -70,7 +70,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -81,7 +80,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -98,7 +98,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -109,7 +108,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -126,7 +126,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -137,7 +136,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -154,7 +154,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -165,7 +164,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -182,7 +182,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -193,7 +192,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -210,7 +210,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -221,7 +220,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 127,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -238,7 +238,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -249,7 +248,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -266,7 +266,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -277,7 +276,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -294,7 +294,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -305,7 +304,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -322,7 +322,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -333,7 +332,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -350,7 +350,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -361,7 +360,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -378,7 +378,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -389,7 +388,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 128,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -406,7 +406,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -417,7 +416,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -434,7 +434,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -445,7 +444,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -462,7 +462,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -473,7 +472,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -490,7 +490,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -501,7 +500,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -518,7 +518,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -529,7 +528,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -546,7 +546,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -557,7 +556,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 129,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -574,7 +574,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -585,7 +584,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -602,7 +602,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -613,7 +612,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -630,7 +630,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -641,7 +640,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -658,7 +658,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -669,7 +668,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -686,7 +686,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -697,7 +696,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -714,7 +714,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -725,7 +724,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 130,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -742,7 +742,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -753,7 +752,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -770,7 +770,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -781,7 +780,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -798,7 +798,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -809,7 +808,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -826,7 +826,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -837,7 +836,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -854,7 +854,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -865,7 +864,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -882,7 +882,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -893,7 +892,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -910,7 +910,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -921,7 +920,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -938,7 +938,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -949,7 +948,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 131,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -966,7 +966,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -977,7 +976,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 132,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -994,7 +994,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1005,7 +1004,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 132,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1022,7 +1022,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1033,7 +1032,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 132,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1050,7 +1050,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1061,7 +1060,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 132,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1078,7 +1078,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1089,7 +1088,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1106,7 +1106,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1117,7 +1116,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1134,7 +1134,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1145,7 +1144,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1162,7 +1162,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1173,7 +1172,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1190,7 +1190,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1201,7 +1200,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1218,7 +1218,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1229,7 +1228,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1246,7 +1246,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1257,7 +1256,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 133,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1274,7 +1274,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1285,7 +1284,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1302,7 +1302,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1313,7 +1312,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1330,7 +1330,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1341,7 +1340,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1358,7 +1358,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1369,7 +1368,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1386,7 +1386,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1397,7 +1396,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1414,7 +1414,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1425,7 +1424,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1442,7 +1442,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1453,7 +1452,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 134,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1470,7 +1470,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1481,7 +1480,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1498,7 +1498,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1509,7 +1508,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1526,7 +1526,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1537,7 +1536,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1554,7 +1554,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1565,7 +1564,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1582,7 +1582,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1593,7 +1592,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1610,7 +1610,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1621,7 +1620,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1638,7 +1638,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1649,7 +1648,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1666,7 +1666,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1677,7 +1676,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 135,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1694,7 +1694,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1705,7 +1704,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 136,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1722,7 +1722,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1733,7 +1732,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 136,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1750,7 +1750,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1761,7 +1760,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 136,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1778,7 +1778,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1789,7 +1788,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 136,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1806,7 +1806,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1817,7 +1816,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 136,
-    "category_raw": "Rental Housing"
+    "category_raw": "Rental Housing",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1834,7 +1834,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1845,7 +1844,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1862,7 +1862,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1873,7 +1872,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1890,7 +1890,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -1901,7 +1900,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1918,7 +1918,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1929,7 +1928,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1946,7 +1946,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1957,7 +1956,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -1974,7 +1974,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -1985,7 +1984,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2002,7 +2002,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2013,7 +2012,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 137,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2030,7 +2030,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2041,7 +2040,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2058,7 +2058,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2069,7 +2068,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2086,7 +2086,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2097,7 +2096,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2114,7 +2114,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2125,7 +2124,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2142,7 +2142,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2153,7 +2152,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2170,7 +2170,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2181,7 +2180,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2198,7 +2198,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2209,7 +2208,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 138,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2226,7 +2226,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2237,7 +2236,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2254,7 +2254,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2265,7 +2264,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2282,7 +2282,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2293,7 +2292,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2310,7 +2310,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2321,7 +2320,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2338,7 +2338,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2349,7 +2348,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2366,7 +2366,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2377,7 +2376,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2394,7 +2394,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2405,7 +2404,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 139,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2422,7 +2422,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2433,7 +2432,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 140,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2450,7 +2450,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2461,7 +2460,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 140,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2478,7 +2478,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2489,7 +2488,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 140,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2506,7 +2506,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2517,7 +2516,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 140,
-    "category_raw": "Student Accommodation"
+    "category_raw": "Student Accommodation",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2534,7 +2534,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2545,7 +2544,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 141,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2562,7 +2562,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2573,7 +2572,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 141,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2590,7 +2590,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2601,7 +2600,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 141,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2618,7 +2618,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2629,7 +2628,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 141,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2646,7 +2646,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Leasehold",
@@ -2657,7 +2656,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 141,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2674,7 +2674,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2685,7 +2684,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 142,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2702,7 +2702,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2713,7 +2712,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 142,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2730,7 +2730,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2741,7 +2740,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 142,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2758,7 +2758,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2769,7 +2768,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 143,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2786,7 +2786,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2797,7 +2796,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 143,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2814,7 +2814,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2825,7 +2824,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 143,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2842,7 +2842,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2853,7 +2852,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 143,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2870,7 +2870,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2881,7 +2880,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 143,
-    "category_raw": "Hotel"
+    "category_raw": "Hotel",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2898,7 +2898,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": "Freehold",
@@ -2909,7 +2908,8 @@
     "status": "divested",
     "value_basis": null,
     "source_page": 132,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   },
   {
     "symbol": "HMN.SI",
@@ -2926,7 +2926,6 @@
     "gross_revenue": null,
     "occupancy_rate": null,
     "trade_mix": null,
-    "major_tenant": null,
     "gla": null,
     "nla": null,
     "land_tenure": null,
@@ -2937,6 +2936,7 @@
     "status": "divested",
     "value_basis": null,
     "source_page": 10,
-    "category_raw": "Serviced Residence"
+    "category_raw": "Serviced Residence",
+    "major_tenants": []
   }
 ]

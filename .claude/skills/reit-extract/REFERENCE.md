@@ -93,7 +93,7 @@ Pages are FY2025 examples; use `locate.py` for the actual pages in any report. T
 | `property.gla / nla` | per-property cards | hospitality uses units/keys → declare structural |
 | `property.gross_revenue` | financial-review by-property table + cards | watch "Other Assets" aggregation (CICT) |
 | `property.net_property_income` | **often only segment-level** | per-property NPI absent in CICT/AJBU/HMN; in BTOU bar charts |
-| `property.major_tenant` | per-property cards ("top 3 tenants") | |
+| `property.major_tenants` | per-property cards ("top 3 tenants") | |
 | `performance.*` | "Financial Highlights" / "5-Year Summary" (front) + audited statements | portfolio_value = headline incl. proportionate JV |
 | `performance.number_of_unitholders` | "Statistics of Unitholdings" (back) | dated POST year-end (e.g. late Feb/Mar 2026) |
 | `performance.dpu` + distribution_record | "Distribution Statement" + DPU table | US trust may show DI/unit while actual DPU = 0 (halted) |
@@ -132,12 +132,17 @@ properties_location, gross_revenue, net_property_income, net_distributable_incom
 currency, date (FY-end YYYY-MM-DD), source_page.
 
 **properties.json** (list) — symbol, financial_year, property_name, country, category,
-address, ownership (%), market_valuation (absolute, Tier C), valuation_date, currency,
-net_property_income, gross_revenue, occupancy_rate, trade_mix `{cat: pct}` (sparse),
-major_tenant, gla, nla, land_tenure (enum), effective_date, lease_term_years,
-lease_expiry_date, tenure_raw, status (active|divested|held_for_sale), source_page.
-Audit-trail extras (not in the schema, kept for QC): `value_basis`, `alt_value`,
-`alt_basis`.
+category_raw, address, ownership (%), market_valuation (absolute, Tier C), valuation_date,
+currency, net_property_income, gross_revenue, **gri_pct** (property's % share of portfolio
+GRI/rental income, when disclosed as a percentage not an absolute), occupancy_rate,
+trade_mix `{cat: pct}` (sparse), **major_tenants** `[{name, industry?, pct?}]` (a property
+often has several — capture all, not just one), **gla / nla / gfa** (THREE DISTINCT areas —
+`gla`=gross LETTABLE, `nla`=net LETTABLE, `gfa`=gross FLOOR/built; many cards disclose GFA —
+put it in `gfa`, do NOT mislabel it `gla`), land_tenure (enum), effective_date (land-lease
+START, from the property overview — NOT the acquisition date in the portfolio statement),
+lease_term_years, lease_expiry_date (may be derived from "remaining term of lease" — flag in
+`_notes.inferred[]`), tenure_raw, status (active|divested|held_for_sale), flags, source_page.
+Audit-trail extras (not in the schema, kept for QC): `value_basis`, `alt_value`, `alt_basis`.
 
 **top_tenants.json** (list) — symbol, financial_year, rank, client_name (null/verbatim
 descriptor if anonymised), industry (canonical 15, §3), revenue_pct (plain number, e.g. 5.0),
