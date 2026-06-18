@@ -47,7 +47,7 @@ These hold for every SGX REIT — they are accounting/SGX structure, not observa
    ```
    (Use `scope` for a whole-field rule, or `rows`/`property_name` for specific records.) Examples
    that MUST be flagged: occupancy=100% applied from a portfolio figure; a top-tenant
-   `trade_sector` assigned from the company name when the table has no sector column; a value
+   `industry` assigned from the company name when the table has no sector column; a value
    computed as `total × pct`. If you can't justify the inference, leave the field null.
 
 8. **A failed check is a SIGNAL TO INVESTIGATE, never a license to make numbers balance.**
@@ -99,9 +99,9 @@ Pages are FY2025 examples; use `locate.py` for the actual pages in any report. T
 | `performance.dpu` + distribution_record | "Distribution Statement" + DPU table | US trust may show DI/unit while actual DPU = 0 (halted) |
 | `top_tenant.*` | "Top 10 Tenants/Clients" | retail/office rich; DC anonymised; hospitality trivial |
 | `trade_mix.*` | "Trade Mix" / "Trade Sector by GRI" / "Portfolio Information by Industry" | DC = client trade sector / "by contract type"; hospitality OFTEN none portfolio-wide but VERIFY — Ascott discloses a corporate-account industry mix (capture it, scoped `pct_basis`). Most industries map to the canonical taxonomy |
-| `income_components` (revenue) | **Note "Gross Revenue"** | reconciliation anchor = total |
-| `income_components` (expense) | **Note "Property Operating Expenses" / "Direct Expenses"** | $'000 |
-| Statement of Total Return | audited P&L | NPI = gross revenue − property opex |
+| `financial.line_items` (revenue) | **Note "Gross Revenue"** | reconciliation anchor = total |
+| `financial.line_items` (expense) | **Note "Property Operating Expenses" / "Direct Expenses"** | $'000 |
+| Statement of Total Return | audited P&L → `financial` scalars + line_items | NPI = gross revenue − property opex |
 
 **The universal anchors present in ALL four (and ~all SGX REITs):** audited Portfolio
 Statement, Statement of Total Return / Comprehensive Income, Gross Revenue note, Property
@@ -139,15 +139,80 @@ lease_expiry_date, tenure_raw, status (active|divested|held_for_sale), source_pa
 Audit-trail extras (not in the schema, kept for QC): `value_basis`, `alt_value`,
 `alt_basis`.
 
-**top_tenants.json** (list) — symbol, financial_year, rank, tenant_name (null/verbatim
-descriptor if anonymised), trade_sector, gri_percentage, pct_basis, source_page.
+**top_tenants.json** (list) — symbol, financial_year, rank, client_name (null/verbatim
+descriptor if anonymised), industry (canonical 15, §3), revenue_pct (plain number, e.g. 5.0),
+pct_basis, source_page. *(Renamed Jun17 to match prod: client_name / industry / revenue_pct.)*
 
-**trade_mix.json** (list) — symbol, financial_year, category (canonical, §3), category_raw
+**trade_mix.json** (list) — symbol, financial_year, category (canonical 15, §3), category_raw
 (verbatim), pct, pct_basis, source_page.
 
-**income_components.json** (list → sgx_reit_financial) — symbol, financial_year, statement
-(revenue|expense|adjustment), component (canonical key), amount (absolute), currency,
-label_raw (exact note line), source_page.
+**financial.json** (single object → sgx_reit_financial) — **the sector-agnostic financial-
+statement core, 1:1 with prod's three jsonb blobs.** Keys: symbol, financial_year, currency,
+source_page, plus three nested blobs (standardize like prod):
+- `income_stmt_metrics` { total_revenue (= gross revenue, tie-out anchor), cost_of_revenue
+  (= property opex), gross_income (= NPI), operating_income, operating_expense, ebit, ebitda,
+  pretax_income, income_taxes, net_income (= total return after tax),
+  non_operating_income_or_loss, interest_expense_non_operating (finance costs),
+  diluted_shares_outstanding, net_property_sales, funds_from_operation, unitholders,
+  perpetual_security_holders, minorities, revenue_breakdown/operating_expense_breakdown
+  `[{class, amount, category}]` }
+- `balance_sheet_metrics` { total_asset, total_equity, total_liabilities, working_capital,
+  total_(non_)current_asset/liabilities } — from the audited Statement of Financial Position
+- `cash_flow_metrics` { operating_cash_flow, investing_cash_flow, financing_cash_flow,
+  net_cash_flow, free_cash_flow, capital_expenditure } — from the audited Cash Flow Statement
+- `employee_breakdown` { total_employee, permanent_employee, contract_employee,
+  others_employee } — usually **null** for REITs (externally managed); capture manager headcount
+  if disclosed. The one sgx_manual_input blob with no other home → kept here for 1:1 coverage.
+- `line_items` `[{statement(revenue|expense|adjustment), component, amount (adjustments
+  SIGNED), label_raw, source_page}]` — OUR extension: the full Statement-of-Total-Return audit
+  trail / reconciliation anchor (Σrevenue − Σexpense + Σadjustment = income_stmt_metrics.net_income).
+
+NOT here: net_property_income / dpu / NDI / distribution_record (those are performance).
+
+**Standardization formulas (REIT Statement of Total Return → `income_stmt_metrics`).**
+A REIT statement doesn't print ebit/ebitda/operating_income — derive them so they MATCH prod
+(verified to the dollar against prod's M44U row, all 14 buckets):
+- `total_revenue` = gross revenue
+- `cost_of_revenue` = property operating expenses (POSITIVE)
+- `gross_income` = net property income (NPI)
+- `operating_expense` = Σ trust expenses below NPI **before finance** (manager/base+perf fees +
+  trustee + other trust expenses; POSITIVE)
+- `operating_income` = `gross_income − operating_expense`
+- `interest_expense_non_operating` = borrowing/finance costs **− interest income** (NET; POSITIVE)
+- `pretax_income` = "profit/total return before tax" (as printed)
+- `income_taxes` = tax (POSITIVE)
+- `non_operating_income_or_loss` = `pretax_income − operating_income` (SIGNED; this is the net of
+  finance income/costs, fair-value changes, JV share, divestment gains — everything between
+  operating profit and pre-tax)
+- `net_income` = `pretax_income − income_taxes` (= "total return for the year")
+- `ebit` = `net_income + income_taxes + interest_expense_non_operating`
+- `ebitda` = `ebit + depreciation & amortisation` (≈ ebit for fair-value REITs — no P&L D&A;
+  add real D&A for cost-model trusts)
+- `funds_from_operation` = **NULL** for SG REITs. They do NOT disclose US-style FFO; the SG-native
+  metric is "distributable income" (already captured as `performance.net_distributable_income`).
+  **Do NOT alias FFO to net_income** — net income includes the non-cash fair-value swings FFO
+  exists to remove (M44U net_income carries −67.6m property FV + −26.9m derivative FV), so
+  FFO=net_income is a known-WRONG value. Leave null + list it as derived/absent.
+
+**Mark derived fields.** Inside `income_stmt_metrics`, add `"_derived": ["operating_income",
+"ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]` — the fields
+COMPUTED by the formulas above (vs read off the statement). This honours §0.7 (never let an
+inference look disclosed) for the standardized blob; the auditor uses it to separate claims from
+computations.
+- `net_property_sales` = disclosed divestment gain/loss (0 if none); `unitholders` /
+  `perpetual_security_holders` / `minorities` = the "attributable to" lines (prod stores
+  perpetual & minorities SIGNED)
+- `diluted_shares_outstanding` = **weighted-average** units (the DPU denominator), not issued units
+- self-check: `Σrevenue_breakdown ≈ total_revenue`, `Σoperating_expense_breakdown ≈ operating_expense`
+
+**Sign convention (match prod `idx_manual_input_extraction`):** in `income_stmt_metrics`, the
+**expense-type scalars are stored as POSITIVE magnitudes** — `cost_of_revenue`,
+`operating_expense`, `income_taxes`, `interest_expense_non_operating` (prod negates the source,
+so a S$(101,733) opex becomes 101,733). `non_operating_income_or_loss` and `net_property_sales`
+stay **signed**. `revenue_breakdown`/`operating_expense_breakdown` `amount`s are positive
+magnitudes, and must reconcile: Σrevenue_breakdown ≈ total_revenue, Σoperating_expense_breakdown
+≈ operating_expense (within 2% — gate-checked). `line_items` keep their own SIGNED-adjustment
+rule (separate from the scalars; they're the audit trail, not pushed to prod).
 
 **property_transactions.json** (list, parked) — capture acquisitions/divestments for the
 audit trail; not loaded.
@@ -167,28 +232,39 @@ reported_total_npi, ...}`.
 (and tell the user) rather than inventing a key. DC/US trusts → `rental_income` /
 `cash_rental_income`; CICT → `gri` (excl GTO → `gri_excl_gto`).
 
-**trade_mix.category** — canonical 19-value taxonomy (from `schema/sgx_reit_schema.md` §5).
-Keep the disclosed label verbatim in `category_raw`; map to canonical via:
+**trade_mix.category / top_tenant.industry** — canonical **15-value** taxonomy (Evelyn,
+Jun17; `schema/sgx_reit_schema.md` §5; same list both fields). Keep the disclosed label
+verbatim in `category_raw`; map to canonical via:
 
-- TMT / TAMI / Information & Communications Technology / "Information" → **IT &
-  Telecommunications**
+- Finance / Insurance / Banking + Legal / Consultancy / Professional - Scientific /
+  Accounting → **Financial & Professional Services**
+- Medical / Pharmaceutical / Healthcare & Life Sciences + Beauty / salons → **Healthcare &
+  Wellness**
+- Real Estate / Property Services + Engineering / Construction → **Infrastructure, Real
+  Estate & Property Services**
+- Energy / Natural Resources / Utility / Marine + Mining → **Energy, Mining & Resources**
+- TMT / TAMI / Information & Communications Technology → **IT & Telecommunications**
 - F&B / Food & Beverage → **Food & Beverages**
 - Supermarket & Grocers / Grocery & Wholesale → **Departmental Store/Supermarket**
-- Public Administration / Government agency / "Government" → **Government Related**
-- 3PL / Transportation - Storage / Transportation and Warehousing → **Logistics & Supply
-  Chain Management**
-- Legal / Consultancy / Business Consultancy / Professional - Scientific / Accounting →
-  **Professional Services**
-- Medical / Pharmaceutical / Healthcare & Life Sciences → **Healthcare, Pharmaceuticals &
-  Life Sciences**
-- Energy / Natural Resources / Utility / Marine → **Energy & Utilities**
-- Engineering / Construction → **Construction & Engineering**
-- Finance / Insurance / Banking → **Banking, Insurance & Financial Services**
-- retail sub-trades (Jewellery & Watches, Sports, Homeware, Education, Leisure &
-  Entertainment, Digital & Appliance, Multi-Concepts…) → **Other Retail Trades** unless a
-  baseline category fits
-- office long tail with no home → **Other Office Trades**; industrial/logistics long tail
+- Public Administration / Government agency → **Government Related**
+- 3PL / Transportation - Storage / Warehousing → **Logistics & Supply Chain Management**
+- retail sub-trades (Jewellery, Sports, Homeware, Education, Leisure…) → **Other Retail
+  Trades**; office long tail → **Other Office Trades**; industrial/logistics long tail
   (chemicals, automobiles, document storage, e-commerce) → **Other Industrial Trades**
+
+(Alias dictionary in code: `models.TRADE_ALIASES`. The old 19-value list is folded into the
+15 — Banking+Professional, Beauty+Healthcare/Pharma, RealEstate+Construction, Mining+Energy.)
+
+**property.category** — canonical **6** (Evelyn, Jun17): Industrial & Logistics | Office |
+Retail | Data Centers | Specialized | Diversified (Commercial). Disclosed asset type →
+`category_raw`; map to canonical via `models.PROPERTY_CATEGORY_ALIASES` (Flatted Factories /
+Stack-up Buildings → Industrial & Logistics; Life Sciences / Hi-Tech Buildings / **Business
+Space** → Specialized).
+
+**flags** (Property + Performance) — `[{type, scope, note}]`. Don't force a universal rule
+for odd cases; flag them for human verification: `dpu_half_year_split`,
+`same_property_diff_lease`, `divested_partial_data`, `full_consolidation_partial_ownership`
+(100% gross_revenue/NPI on a <100%-owned asset).
 
 **land_tenure**: Freehold | Leasehold only. Verbatim → `tenure_raw`. Mappings:
 US "fee simple" / "freehold" → **Freehold**; Indonesia **HGB** ("Hak Guna Bangunan",
@@ -274,7 +350,7 @@ Folded in from the healthcare (First REIT) and industrial (MLT) runs — apply e
 
 **Keppel DC / data centre (AJBU)**
 - Clients fully anonymised everywhere ("Fortune Global 500 Company (Hyperscaler)"); top
-  client 42.1% of rental income. Put the verbatim descriptor in `tenant_name`.
+  client 42.1% of rental income. Put the verbatim descriptor in `client_name`.
 - Two parallel "mixes": client trade sector (Internet Enterprise 69.3% …) and contract
   type (Colocation/Single-Tenant/Shell-and-Core). Use the trade-sector one for trade_mix
   (pct_basis = rental_income); contract type → data_with_no_home.

@@ -12,8 +12,8 @@ It maps the 8-file extraction intermediate onto the 6 schema models:
   performance.json        -> Performance    (single object)
   properties.json         -> Property       (list)
   top_tenants.json        -> TopTenant      (list)
-  trade_mix.json          -> TradeMix       (list)
-  income_components.json  -> FinancialLine  (list)
+  trade_mix.json          -> TradeMix          (list)
+  financial.json          -> FinancialStatement (single object; 1:1 income_stmt_metrics)
 property_transactions.json and _notes.json are intermediate-only (no schema table) and
 are skipped. Extra fields in the intermediate (value_basis, alt_value, ...) are ignored
 by Pydantic - this validates the schema-bound fields without rejecting the audit trail.
@@ -42,7 +42,7 @@ FILE_MODEL = {
     "properties.json":        (models.Property,      True),
     "top_tenants.json":       (models.TopTenant,     True),
     "trade_mix.json":         (models.TradeMix,      True),
-    "income_components.json": (models.FinancialLine, True),
+    "financial.json":         (models.FinancialStatement, False),
 }
 
 
@@ -52,6 +52,10 @@ def main() -> None:
     base = Path(sys.argv[1])
     if not base.is_dir():
         sys.exit(f"not a directory: {base}")
+
+    if (base / "income_components.json").exists() and not (base / "financial.json").exists():
+        print("WARN  income_components.json present but no financial.json — pre-Jun17 "
+              "output; re-extract/migrate to the 1:1 income_stmt_metrics shape")
 
     total_ok = total_err = 0
     for fname, (model, is_list) in FILE_MODEL.items():
@@ -77,8 +81,8 @@ def main() -> None:
                 ok += 1
             except ValidationError as e:
                 err += 1
-                who = (rec.get("property_name") or rec.get("tenant_name")
-                       or rec.get("category") or rec.get("component")
+                who = (rec.get("property_name") or rec.get("client_name")
+                       or rec.get("category") or rec.get("industry")
                        or rec.get("symbol") or f"index {i}")
                 for line in e.errors():
                     loc = ".".join(str(x) for x in line["loc"])

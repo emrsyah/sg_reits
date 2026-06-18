@@ -37,10 +37,14 @@ Read **only** these two inputs: the parsed markdown (source of truth) and the sh
    financials), go to that page and confirm the value, label, currency, and ×1000 scaling are
    actually there. A page that doesn't support its value is a discrepancy.
 3. **Re-derive every reconciliation from scratch** (don't trust `_notes.reconciliation`):
-   - Statement of Total Return: Σrevenue − Σexpense + Σ(signed adjustments) **= "total return
-     for the year"**, to the dollar. Name any missing line.
-   - Σ(income_components where statement=`revenue`) **must equal** `performance.gross_revenue`
-     (the HMN bug: finance_income/other_income mis-bucketed as revenue broke this tie-out).
+   - Statement of Total Return (now `financial.line_items`): Σrevenue − Σexpense + Σ(signed
+     adjustments) **= "total return for the year" = `financial.income_stmt_metrics.net_income`**,
+     to the dollar. Name any missing line.
+   - `financial.income_stmt_metrics.total_revenue` **must equal** `performance.gross_revenue`,
+     and so must Σ(`financial.line_items` where statement=`revenue`) (the HMN bug: finance_income/
+     other_income mis-bucketed as revenue broke this tie-out). Spot-check the 1:1 blob scalars:
+     income_stmt_metrics.gross_income = NPI, cost_of_revenue = property opex; and that
+     balance_sheet_metrics / cash_flow_metrics tie to the audited SoFP / Cash Flow Statement.
    - Gross revenue note Σ; Direct expenses note Σ; gross profit/NPI; distributable income +
      DPU + pay dates; Σ(properties.market_valuation) → audited portfolio total; trade_mix → 100%
      per `pct_basis`; top_tenants ranks/Σ.
