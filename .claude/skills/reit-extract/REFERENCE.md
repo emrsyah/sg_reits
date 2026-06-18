@@ -133,8 +133,8 @@ currency, date (FY-end YYYY-MM-DD), source_page.
 
 **properties.json** (list) — symbol, financial_year, property_name, country, category,
 category_raw, address, ownership (%), market_valuation (absolute, Tier C), valuation_date,
-currency, net_property_income, gross_revenue, **gri_pct** (property's % share of portfolio
-GRI/rental income, when disclosed as a percentage not an absolute), occupancy_rate,
+currency, net_property_income, gross_revenue, **npi_pct** (property's % share of portfolio
+NPI, when disclosed as a percentage not an absolute), occupancy_rate,
 trade_mix `{cat: pct}` (sparse), **major_tenants** `[{name, industry?, pct?}]` (a property
 often has several — capture all, not just one), **gla / nla / gfa** (THREE DISTINCT areas —
 `gla`=gross LETTABLE, `nla`=net LETTABLE, `gfa`=gross FLOOR/built; many cards disclose GFA —

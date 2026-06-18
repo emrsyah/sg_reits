@@ -96,8 +96,8 @@ create table sgx_reit_property (
   currency            text,       -- src: AR
   net_property_income numeric,    -- src: AR — as-disclosed only, never computed
   gross_revenue       numeric,    -- src: AR
-  gri_pct             numeric,    -- src: AR — property's share of portfolio GRI/rental income
-                                  -- (% plain number), when disclosed as a percentage not absolute
+  npi_pct             numeric,    -- src: AR — property's share of portfolio NPI (% plain
+                                  -- number), when disclosed as a percentage not an absolute
   occupancy_rate      numeric,    -- src: AR
   trade_mix           jsonb,      -- src: AR — property-level set, sparse (few trusts
                                   -- disclose it); REIT-level mix lives in its own table;

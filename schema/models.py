@@ -130,8 +130,8 @@ class Property(BaseModel):
     currency: Optional[str] = None
     net_property_income: Optional[float] = Field(None, description="as-disclosed only")
     gross_revenue: Optional[float] = None
-    gri_pct: Optional[float] = Field(
-        None, description="this property's share of portfolio GRI / rental income, % plain "
+    npi_pct: Optional[float] = Field(
+        None, description="this property's share of portfolio net property income (NPI), % plain "
         "number — when the report discloses the contribution as a percentage (not an absolute)")
     occupancy_rate: Optional[float] = Field(None, description="percent, plain number")
     trade_mix: Optional[dict[str, float]] = Field(
