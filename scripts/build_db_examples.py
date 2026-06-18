@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "schema"))
 import models  # noqa: E402
 
-OUT = ROOT / "docs" / "db_examples"
+OUT = ROOT / "docs" / "reits_db_handoff"
 N_LIST = 3  # representative rows for list-shaped tables
 
 # file -> (model, table, is_list)

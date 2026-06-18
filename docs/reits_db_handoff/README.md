@@ -1,8 +1,14 @@
-# sgx_reit_* DB row examples (for Gerald)
+# SGX REITs DB — handoff (for Gerald)
 
-Clean, **DB-shaped** example rows for the 6 `sgx_reit_*` tables — what extraction actually
-pushes into the REITs DB. Generated from **M44U (Mapletree Logistics Trust) FY2025**, which is
-validated to match prod's `sgx_manual_input` financials to the dollar.
+Everything needed to consume the **REITs DB** (our 6 `sgx_reit_*` tables, the source of truth)
+and project it into `sgx_manual_input`. Self-contained — this folder is the spec:
+
+- **`sgx_reit_*.json`** — one clean, **DB-shaped** example row per table (table below).
+- **[`manual_input_mapping.md`](manual_input_mapping.md)** — the full REITs DB → `sgx_manual_input`
+  projection (copy / derive / compose, field by field).
+
+Examples are generated from **M44U (Mapletree Logistics Trust) FY2025**, validated to match prod's
+`sgx_manual_input` financials to the dollar. Full per-report data lives in `extracted/<SYM>.SI_FY<YYYY>/`.
 
 Regenerate for any report: `python scripts/build_db_examples.py M44U.SI_FY2025`
 (validates each record against `schema/models.py`, so only real schema fields appear — extraction
@@ -42,10 +48,10 @@ audit-trail extras are dropped).
   `Σrevenue − Σexpense + Σadjustment = net_income`). **Not** part of `income_stmt_metrics` — keep
   or drop as you like; it's the audit trail.
 - `sankey_component` is **not** stored — derive it from `income_stmt_metrics` (see
-  `docs/manual_input_mapping.md` §3).
+  `manual_input_mapping.md` §3).
 
 ## How these project into `sgx_manual_input`
-See **`docs/manual_input_mapping.md`** — the 3 financial blobs copy 1:1; `sankey_component`
+See **`manual_input_mapping.md`** — the 3 financial blobs copy 1:1; `sankey_component`
 derives from `financial`; `industry_breakdown` is composed from `top_tenant` + `property` +
 `trade_mix` (with `property_name→name`, `market_valuation→valuation`, `gross_revenue→gross_income`
 renames + the `÷100` conversions done in your transform, not in our source columns).
