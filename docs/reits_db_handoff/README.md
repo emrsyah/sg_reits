@@ -1,4 +1,4 @@
-# SGX REITs DB — handoff (for Gerald)
+# SGX REITs DB — handoff
 
 Everything needed to consume the **REITs DB** (our 6 `sgx_reit_*` tables, the source of truth)
 and project it into `sgx_manual_input`. Self-contained — this folder is the spec:
@@ -25,7 +25,7 @@ audit-trail extras are dropped).
 
 (List tables show a few representative rows; full data is in `extracted/M44U.SI_FY2025/`.)
 
-## Conventions (important for your transform)
+## Conventions (important for the projection)
 - **Money is ABSOLUTE units** — the audited `S$'000` figures × 1000 (e.g. `total_revenue` =
   727,026,000, not 727,026).
 - **Percentages are plain numbers** — `revenue_pct` = 5.0, `occupancy_rate` = 97.0, `pct` = 19.0
@@ -54,4 +54,4 @@ audit-trail extras are dropped).
 See **`manual_input_mapping.md`** — the 3 financial blobs copy 1:1; `sankey_component`
 derives from `financial`; `industry_breakdown` is composed from `top_tenant` + `property` +
 `trade_mix` (with `property_name→name`, `market_valuation→valuation`, `gross_revenue→gross_income`
-renames + the `÷100` conversions done in your transform, not in our source columns).
+renames + the `÷100` conversions done in the projection transform, not in our source columns).

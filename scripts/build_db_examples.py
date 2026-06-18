@@ -1,10 +1,10 @@
 """build_db_examples.py — emit clean, DB-shaped example rows for the 6 sgx_reit_* tables.
 
-For Gerald: "JSON examples for each of the 6 tables that reflect what will actually be
+Purpose: emit "JSON examples for each of the 6 tables that reflect what will actually be
 pushed into the DB." Loads an extracted report, validates each record against
 schema/models.py (so ONLY real schema fields survive — intermediate audit-trail extras
 like value_basis/alt_value are dropped), and writes one file per table to
-docs/db_examples/. List tables get a few representative rows; dict tables get the row.
+docs/reits_db_handoff/. List tables get a few representative rows; dict tables get the row.
 
 Usage: python scripts/build_db_examples.py [SYMBOL.SI_FYYYYY]   (default: M44U.SI_FY2025)
 """

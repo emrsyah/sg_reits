@@ -1,7 +1,7 @@
 # REITs DB → `sgx_manual_input` mapping
 
 How the SGX REITs extraction (our 6-table DB) relates to prod's `sgx_manual_input`.
-For Emir + Gerald. Companion to `schema/sgx_reit_schema.md` (the REIT schema) and
+Companion to `schema/sgx_reit_schema.md` (the REIT schema) and
 `ref_sgx_manual_input_extraction/idx_manual_input_extraction.py` (prod's existing Excel→
 `sgx_manual_input` builder).
 
@@ -9,14 +9,14 @@ For Emir + Gerald. Companion to `schema/sgx_reit_schema.md` (the REIT schema) an
 
 1. **REITs DB** = our **6 tables** (`sgx_reit_profile / property / performance / top_tenant /
    trade_mix / financial`). **Extraction writes here directly.** Source of truth, full granularity.
-2. **`sgx_manual_input`** = prod table. **We do NOT push into it directly.** Gerald **derives /
+2. **`sgx_manual_input`** = prod table. **We do NOT push into it directly.** The manual-input pipeline **derives /
    projects** it FROM the REITs DB later.
 
 So `financial` does not need to "be" `sgx_manual_input`. A `sgx_manual_input` row is assembled
 from **several** of our tables; `financial` supplies only the financial-statement portion.
 
 > Flow (Jun 17 meeting): Annual Report → extraction → **REITs DB** → manual verification →
-> (Gerald's transform) → `sgx_manual_input` / downstream.
+> (the projection transform) → `sgx_manual_input` / downstream.
 
 ## 1. `sgx_manual_input` row ← REITs DB (the projection)
 
@@ -56,7 +56,7 @@ Plus the unit conversions: `top_tenant.revenue_pct ÷ 100` (we store 5.0, prod 0
 one name mean two things across the DB; (2) `market_valuation` deliberately encodes "audited-FS
 value, not agreed price" (the §2 valuation rule); (3) `property` is the full per-asset registry,
 not just this 6-field summary. So the source keeps clear, unambiguous names and the projection
-does the three trivial renames — Gerald's transform is still effectively a copy.
+does the three trivial renames — the projection transform is still effectively a copy.
 
 ## 2. The three buckets
 
@@ -98,9 +98,9 @@ Prod builds it from `income_stmt_metrics` (`make_sankey_component` in the colab)
 - `revenue_pct` unit: we store plain (5.0); prod stores a fraction (0.05) → `÷100` in the
   transform (the only unit conversion, and it's on `top_tenant`).
 
-## 5. Resolved direction (Evelyn, Jun 2026)
+## 5. Resolved direction (Jun 2026)
 
-- **No hidden REIT schema to mirror — we define it.** Evelyn confirmed: data not already in
+- **No hidden REIT schema to mirror — we define it.** Confirmed: data not already in
   `sgx_manual_input` (the REIT keys `funds_from_operation` / `net_property_sales` / `unitholders` /
   `perpetual_security_holders`, the REIT-shaped `industry_breakdown`) **was never collected before** —
   our batch is the first. So `idx_manual_input_extraction.py` having no REIT branch is expected, and
