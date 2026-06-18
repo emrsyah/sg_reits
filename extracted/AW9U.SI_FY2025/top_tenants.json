@@ -1,123 +1,13 @@
 [
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 1,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "PT Siloam International Hospitals Tbk and subsidiaries",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 44.3
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 2,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "PT Lippo Karawaci Tbk and subsidiary",
-    "industry": "Infrastructure, Real Estate & Property Services",
-    "industry_raw": "Real Estate & Property Services",
-    "revenue_pct": 30.7
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 3,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Hikari Heights Varus Co., Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 9.3
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 4,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "PT Metropolis Propertindo Utama and subsidiary",
-    "industry": "Infrastructure, Real Estate & Property Services",
-    "industry_raw": "Real Estate & Property Services",
-    "revenue_pct": 5.7
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 5,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "BEC Co., Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 2.1
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 6,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "The Lentor Residence Pte. Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 2.1
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 7,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Orchard Care Co., Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 1.5
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 8,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Precious Homes Pte. Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 1.4
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 9,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Precious Homes Bukit Panjang Pte. Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 1.4
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 10,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Benesse Style Care Co., Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 0.9
-  },
-  {
-    "symbol": "AW9U.SI",
-    "financial_year": 2025,
-    "rank": 11,
-    "pct_basis": "rental_income",
-    "source_page": 5,
-    "client_name": "Social Welfare Research Institute Co., Ltd.",
-    "industry": "Healthcare & Wellness",
-    "industry_raw": "Healthcare, Pharmaceuticals & Life Sciences",
-    "revenue_pct": 0.6
-  }
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 1, "client_name": "PT Siloam International Hospitals Tbk and subsidiaries (\"Siloam\")", "industry": "Healthcare & Wellness", "revenue_pct": 44.3, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 2, "client_name": "PT Lippo Karawaci Tbk and subsidiary", "industry": "Infrastructure, Real Estate & Property Services", "revenue_pct": 30.7, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 3, "client_name": "Hikari Heights Varus Co., Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 9.3, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 4, "client_name": "PT Metropolis Propertindo Utama and subsidiary", "industry": "Infrastructure, Real Estate & Property Services", "revenue_pct": 5.7, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 5, "client_name": "BEC Co., Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 2.1, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 6, "client_name": "The Lentor Residence Pte. Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 2.1, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 7, "client_name": "Orchard Care Co., Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 1.5, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 8, "client_name": "Precious Homes Pte. Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 1.4, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 9, "client_name": "Precious Homes Bukit Panjang Pte. Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 1.4, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 10, "client_name": "Benesse Style Care Co., Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 0.9, "pct_basis": "rental_income", "source_page": 5},
+  {"symbol": "AW9U.SI", "financial_year": 2025, "rank": 11, "client_name": "Social Welfare Research Institute Co., Ltd.", "industry": "Healthcare & Wellness", "revenue_pct": 0.6, "pct_basis": "rental_income", "source_page": 5}
 ]

@@ -2,67 +2,11 @@
   "symbol": "AW9U.SI",
   "sub_sector": "Healthcare",
   "management": [
-    {
-      "role": "reit_manager",
-      "company_name": "First REIT Management Limited"
-    },
-    {
-      "role": "trustee",
-      "company_name": "Perpetual (Asia) Limited"
-    },
-    {
-      "role": "sponsor",
-      "company_name": "OUE Limited"
-    },
-    {
-      "role": "sponsor",
-      "company_name": "OUE Healthcare Limited"
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "PT Siloam International Hospitals Tbk"
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "PT Lippo Karawaci Tbk"
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Hikari Heights Varus Co., Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "PT Metropolis Propertindo Utama"
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "BEC Co., Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "The Lentor Residence Pte. Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Orchard Care Co., Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Precious Homes Pte. Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Precious Homes Bukit Panjang Pte. Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Benesse Style Care Co., Ltd."
-    },
-    {
-      "role": "master_lessee",
-      "company_name": "Social Welfare Research Institute Co., Ltd."
-    }
+    {"role": "reit_manager", "company_name": "First REIT Management Limited"},
+    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
+    {"role": "sponsor", "company_name": "OUE Healthcare Limited"},
+    {"role": "sponsor", "company_name": "OUE Limited"}
   ],
-  "income_model": "master_lease",
+  "income_model": "mixed",
   "source_page": 19
 }

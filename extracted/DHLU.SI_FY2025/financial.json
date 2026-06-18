@@ -4,204 +4,79 @@
   "currency": "SGD",
   "income_stmt_metrics": {
     "total_revenue": 57794000,
+    "cost_of_revenue": 13595000,
     "gross_income": 44199000,
-    "cost_of_revenue": null,
-    "operating_income": null,
-    "operating_expense": null,
-    "ebit": null,
-    "ebitda": null,
-    "pretax_income": null,
-    "income_taxes": null,
-    "net_income": null,
-    "non_operating_income_or_loss": null,
-    "interest_expense_non_operating": null,
-    "diluted_shares_outstanding": null,
-    "net_property_sales": null,
+    "operating_income": 40001000,
+    "operating_expense": 4198000,
+    "ebit": 50627000,
+    "ebitda": 50627000,
+    "pretax_income": 41727000,
+    "income_taxes": 6073000,
+    "net_income": 35654000,
+    "non_operating_income_or_loss": 1726000,
+    "interest_expense_non_operating": 8900000,
+    "diluted_shares_outstanding": 699446000,
+    "net_property_sales": 0,
     "funds_from_operation": null,
-    "unitholders": null,
-    "perpetual_security_holders": null,
+    "unitholders": 34881000,
+    "perpetual_security_holders": 773000,
     "minorities": null,
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
     "revenue_breakdown": [
-      {
-        "category": "rental_income",
-        "amount": 51252000,
-        "class": null
-      },
-      {
-        "category": "recoverable_and_other_income",
-        "amount": 6542000,
-        "class": null
-      }
+      {"category": "Rental income", "amount": 51252000, "class": "Product/Service Sales"},
+      {"category": "Recoverable and other income", "amount": 6542000, "class": "Other income"}
     ],
     "operating_expense_breakdown": [
-      {
-        "category": "property_taxes",
-        "amount": -5276000,
-        "class": null
-      },
-      {
-        "category": "utilities_expenses",
-        "amount": -3674000,
-        "class": null
-      },
-      {
-        "category": "property_management_fees",
-        "amount": -1201000,
-        "class": null
-      },
-      {
-        "category": "building_management_expenses",
-        "amount": -2005000,
-        "class": null
-      },
-      {
-        "category": "other_operating_expenses",
-        "amount": -1439000,
-        "class": null
-      },
-      {
-        "category": "managers_management_fees",
-        "amount": -2075000,
-        "class": null
-      },
-      {
-        "category": "japan_asset_management_fees",
-        "amount": -1067000,
-        "class": null
-      },
-      {
-        "category": "trustees_fee",
-        "amount": -283000,
-        "class": null
-      },
-      {
-        "category": "trust_expenses",
-        "amount": -773000,
-        "class": null
-      },
-      {
-        "category": "finance_expenses",
-        "amount": -9216000,
-        "class": null
-      }
+      {"category": "Manager's management fees", "amount": 2075000, "class": "General & Admin"},
+      {"category": "Japan asset management fees", "amount": 1067000, "class": "General & Admin"},
+      {"category": "Trustee's fee", "amount": 283000, "class": "General & Admin"},
+      {"category": "Trust expenses", "amount": 773000, "class": "Other expenses"}
     ]
   },
-  "balance_sheet_metrics": null,
-  "cash_flow_metrics": null,
+  "balance_sheet_metrics": {
+    "total_asset": 1060353000,
+    "total_equity": 493050000,
+    "total_liabilities": 567303000,
+    "working_capital": -36607000,
+    "total_current_asset": 75802000,
+    "total_non_current_asset": 984551000,
+    "total_current_liabilities": 112409000,
+    "total_non_current_liabilities": 454894000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 38767000,
+    "investing_cash_flow": -35957000,
+    "financing_cash_flow": -10672000,
+    "net_cash_flow": -7862000,
+    "free_cash_flow": 38656000,
+    "capital_expenditure": 111000
+  },
+  "employee_breakdown": null,
   "line_items": [
-    {
-      "statement": "revenue",
-      "component": "rental_income",
-      "amount": 51252000,
-      "label_raw": "Rental income",
-      "source_page": 191
-    },
-    {
-      "statement": "revenue",
-      "component": "recoverable_and_other_income",
-      "amount": 6542000,
-      "label_raw": "Recoverable and other income",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "property_taxes",
-      "amount": -5276000,
-      "label_raw": "Property taxes",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "utilities_expenses",
-      "amount": -3674000,
-      "label_raw": "Utilities expenses",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "property_management_fees",
-      "amount": -1201000,
-      "label_raw": "Property management fees and expenses",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "building_management_expenses",
-      "amount": -2005000,
-      "label_raw": "Building management expenses",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "other_operating_expenses",
-      "amount": -1439000,
-      "label_raw": "Other operating expenses",
-      "source_page": 191
-    },
-    {
-      "statement": "expense",
-      "component": "managers_management_fees",
-      "amount": -2075000,
-      "label_raw": "Manager's management fees",
-      "source_page": 162
-    },
-    {
-      "statement": "expense",
-      "component": "japan_asset_management_fees",
-      "amount": -1067000,
-      "label_raw": "Japan asset management fees",
-      "source_page": 162
-    },
-    {
-      "statement": "expense",
-      "component": "trustees_fee",
-      "amount": -283000,
-      "label_raw": "Trustee's fee",
-      "source_page": 162
-    },
-    {
-      "statement": "expense",
-      "component": "trust_expenses",
-      "amount": -773000,
-      "label_raw": "Trust expenses",
-      "source_page": 162
-    },
-    {
-      "statement": "expense",
-      "component": "finance_expenses",
-      "amount": -9216000,
-      "label_raw": "Finance expenses",
-      "source_page": 162
-    },
-    {
-      "statement": "adjustment",
-      "component": "other_income",
-      "amount": 884000,
-      "label_raw": "Other income",
-      "source_page": 162
-    },
-    {
-      "statement": "adjustment",
-      "component": "fair_value_change_investment_properties",
-      "amount": 10232000,
-      "label_raw": "Fair value change in investment properties",
-      "source_page": 162
-    },
-    {
-      "statement": "adjustment",
-      "component": "fair_value_change_derivatives",
-      "amount": -174000,
-      "label_raw": "Fair value change in derivatives",
-      "source_page": 162
-    },
-    {
-      "statement": "adjustment",
-      "component": "tax_expenses",
-      "amount": -6073000,
-      "label_raw": "Tax expenses",
-      "source_page": 162
-    }
+    {"statement": "revenue", "component": "rental_income", "amount": 51252000, "label_raw": "Rental income", "source_page": 190},
+    {"statement": "revenue", "component": "recoverable_and_other_income", "amount": 6542000, "label_raw": "Recoverable and other income", "source_page": 190},
+    {"statement": "expense", "component": "property_taxes", "amount": 5276000, "label_raw": "Property taxes", "source_page": 191},
+    {"statement": "expense", "component": "utilities_expenses", "amount": 3674000, "label_raw": "Utilities expenses", "source_page": 191},
+    {"statement": "expense", "component": "property_management_fees", "amount": 1201000, "label_raw": "Property management fees and expenses", "source_page": 191},
+    {"statement": "expense", "component": "building_management_expenses", "amount": 2005000, "label_raw": "Building management expenses", "source_page": 191},
+    {"statement": "expense", "component": "other_operating_expenses", "amount": 1439000, "label_raw": "Other operating expenses", "source_page": 191},
+    {"statement": "expense", "component": "managers_management_fees", "amount": 2075000, "label_raw": "Manager's management fees", "source_page": 162},
+    {"statement": "expense", "component": "japan_asset_management_fees", "amount": 1067000, "label_raw": "Japan asset management fees", "source_page": 162},
+    {"statement": "expense", "component": "trustees_fee", "amount": 283000, "label_raw": "Trustee's fee", "source_page": 162},
+    {"statement": "expense", "component": "trust_expenses", "amount": 773000, "label_raw": "Trust expenses", "source_page": 162},
+    {"statement": "expense", "component": "finance_expenses", "amount": 9216000, "label_raw": "Finance expenses", "source_page": 162},
+    {"statement": "adjustment", "component": "other_income", "amount": 884000, "label_raw": "Other income", "source_page": 162},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 10232000, "label_raw": "Fair value change in investment properties", "source_page": 162},
+    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -174000, "label_raw": "Fair value change in derivatives", "source_page": 162},
+    {"statement": "adjustment", "component": "tax_expenses", "amount": -6073000, "label_raw": "Tax expenses", "source_page": 162}
   ],
   "source_page": 162,
-  "_migration": "from income_components.json (Jun17 schema); standardized buckets + balance_sheet/cash_flow pending re-extraction"
+  "_notes": {
+    "reconciliation": "line_items (expenses stored POSITIVE, adjustments SIGNED): Srevenue(57,794) - Sexpense(5,276+3,674+1,201+2,005+1,439+2,075+1,067+283+773+9,216=27,009) + Sadjustment(884+10,232-174-6,073=4,869) = 57,794 - 27,009 + 4,869 = 35,654 = net_income (Total return for the year). PASS.",
+    "interest_expense_non_operating": "Finance expenses 9,216 (note 21, p192) net of interest income 316 (per cash flow p165) = 8,900.",
+    "operating_expense": "Below-NPI trust expenses before finance: Manager's fees 2,075 + Japan AM fees 1,067 + Trustee 283 + Trust expenses 773 = 4,198.",
+    "ebitda": "= ebit; fair-value-model REIT, no P&L depreciation/amortisation of properties.",
+    "funds_from_operation": "Not disclosed; DHLT reports income available for distribution S$30,378k -> performance.net_distributable_income.",
+    "source_pages": "PDF page numbers: Statement of Comprehensive Income p162; Gross Revenue note 18 p190; Property Operating Expenses note 19 p191; Trust expenses note 20 p191; Finance expenses note 21 p192; Tax note 22 p192; Statement of Financial Position p161; Cash Flows p165; EPU weighted-avg units note 23 p192."
+  }
 }

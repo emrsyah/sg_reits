@@ -6,15 +6,36 @@
   "gross_revenue": 113914000.0,
   "net_property_income": 53178000.0,
   "net_distributable_income": 25542000.0,
-  "dpu": 1.44,
+  "dpu": 0.0,
   "distribution_record": [],
   "number_of_unitholders": 7655,
+  "aggregate_leverage": 58.4,
+  "interest_coverage_ratio": 1.7,
+  "cost_of_debt": 4.58,
+  "weighted_avg_debt_maturity": 2.3,
+  "nav_per_unit": 0.19,
+  "wale": 4.5,
+  "portfolio_occupancy": 67.7,
   "currency": "USD",
   "date": "2025-12-31",
   "source_page": 8,
+  "flags": [
+    {
+      "type": "dpu_distribution_halted",
+      "scope": "dpu",
+      "note": "Actual DPU = 0 (US cents); distributions to Unitholders halted since 2023 pursuant to the Recapitalisation Plan, MRA and MRA Concessions (Distribution Statement p104 shows DPU '-'). The headline 1.44 US cents on p8 is Income Available for Distribution per Unit (DI/unit), NOT a paid DPU; captured via net_distributable_income (US$25.542m). dpu set to 0 per disclosed reality."
+    },
+    {
+      "type": "portfolio_value_basis",
+      "scope": "portfolio_value",
+      "note": "Captured on the audited basis (Statement of Portfolio p107): investment properties US$815,700k + asset held for sale Figueroa US$85,703k = US$901,403k. Marketing headline (p27) is US$913.8m (Figueroa at US$98.1m full valuation rather than US$85.703m held-for-sale net consideration). FLAGGED: basis choice uncertain — audited Tier C used."
+    }
+  ],
   "_notes": {
-    "dpu_note": "Actual DPU distributed = 0. Distributions halted since 2023 pursuant to MRA and MRA Concessions. 1.44 US cents is the 'DI per Unit' (income available for distribution divided by units in issue) as disclosed on page 8 - stored as dpu per instructions.",
-    "portfolio_value_note": "US$913.8m is the headline Tier A valuation (page 27). Audited Tier C total = investment properties US$815,700k + held-for-sale Figueroa US$85,703k = US$901,403k. Used audited sum for this field.",
-    "number_of_unitholders_note": "Statistics of Unitholdings as at 16 March 2026 (page 93)"
+    "cost_of_debt_note": "4.58% excludes the Sponsor-lender loan exit premium; including it WACD would be ~5.25% for FY2025 (p8 footnote 5). Captured the headline 4.58%.",
+    "nav_per_unit_note": "Net asset value per Unit US$0.19 attributable to Unitholders (Statement of Financial Position p102 / Note 14).",
+    "wale_note": "Portfolio WALE by NLA = 4.5 years (p8). Top-10 tenant WALE by GRI = 4.4 years (p27).",
+    "portfolio_occupancy_note": "Portfolio occupancy 67.7% (committed leases, p8).",
+    "number_of_unitholders_note": "Statistics of Unitholdings as at 16 March 2026 (p93)."
   }
 }

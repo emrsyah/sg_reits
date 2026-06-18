@@ -19,6 +19,11 @@
       "role": "sponsor",
       "company_name": "The Ascott Limited",
       "_role_note": "Sponsor of CLAS (p16/p194: 'The Ascott Limited, in turn, is the sponsor of CLAS'); CapitaLand Investment Limited is its parent, not the sponsor"
+    },
+    {
+      "role": "operator",
+      "company_name": "The Ascott Limited",
+      "_role_note": "Sponsor-operator manages many CLAS properties under Ascott/Citadines/lyf/Quest/Somerset/The Crest Collection brands (p146); third-party operators Accor, IHG, Marriott also operate some assets"
     }
   ],
   "income_model": "mixed",

@@ -1,4 +1,14 @@
 {
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "NEX, Waterway Point (JV-held)",
+      "value": "2,141,000,000 / 1,331,000,000 (100% basis)",
+      "basis": "JVs are equity-accounted; the audited Group Portfolio Statement carries them only as a combined Investment-in-JV book value of $1,042,638k (not split per property). These per-property figures are the 100%-basis appraised values from the property cards, NOT Tier C carrying values. Flagged via value_basis='joint_venture_100pct'.",
+      "source_page": 68
+    }
+  ],
   "columns_never_fillable": [
     {
       "column": "properties.net_property_income",

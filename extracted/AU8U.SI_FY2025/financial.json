@@ -4,345 +4,78 @@
   "currency": "SGD",
   "income_stmt_metrics": {
     "total_revenue": 303720000.0,
+    "cost_of_revenue": 102825000.0,
     "gross_income": 200895000.0,
-    "cost_of_revenue": null,
-    "operating_income": null,
-    "operating_expense": null,
-    "ebit": null,
-    "ebitda": null,
-    "pretax_income": null,
-    "income_taxes": null,
-    "net_income": null,
-    "non_operating_income_or_loss": null,
-    "interest_expense_non_operating": null,
-    "diluted_shares_outstanding": null,
-    "net_property_sales": null,
+    "operating_income": 180804000.0,
+    "operating_expense": 20091000.0,
+    "ebit": 119169000.0,
+    "ebitda": 119781000.0,
+    "pretax_income": 60580000.0,
+    "income_taxes": 55007000.0,
+    "net_income": 5573000.0,
+    "non_operating_income_or_loss": -120224000.0,
+    "interest_expense_non_operating": 58589000.0,
+    "diluted_shares_outstanding": 1751413000.0,
+    "net_property_sales": -11988000.0,
     "funds_from_operation": null,
-    "unitholders": null,
-    "perpetual_security_holders": null,
-    "minorities": null,
+    "unitholders": -9938000.0,
+    "perpetual_security_holders": 4453000.0,
+    "minorities": 11058000.0,
+    "_derived": ["operating_income", "operating_expense", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating", "cost_of_revenue", "gross_income"],
     "revenue_breakdown": [
-      {
-        "category": "base_rental",
-        "amount": 276794000.0,
-        "class": null
-      },
-      {
-        "category": "other_income",
-        "amount": 26926000.0,
-        "class": null
-      }
+      {"category": "Gross rental income", "amount": 276794000.0, "class": "Product/Service Sales"},
+      {"category": "Other income", "amount": 26926000.0, "class": "Other income"}
     ],
     "operating_expense_breakdown": [
-      {
-        "category": "property_tax",
-        "amount": 27577000.0,
-        "class": null
-      },
-      {
-        "category": "business_tax",
-        "amount": 1598000.0,
-        "class": null
-      },
-      {
-        "category": "property_management_fees",
-        "amount": 18220000.0,
-        "class": null
-      },
-      {
-        "category": "utilities",
-        "amount": 10576000.0,
-        "class": null
-      },
-      {
-        "category": "advertising_promotion",
-        "amount": 8458000.0,
-        "class": null
-      },
-      {
-        "category": "maintenance",
-        "amount": 20874000.0,
-        "class": null
-      },
-      {
-        "category": "staff_costs",
-        "amount": 12471000.0,
-        "class": null
-      },
-      {
-        "category": "depreciation",
-        "amount": 569000.0,
-        "class": null
-      },
-      {
-        "category": "impairment_receivables",
-        "amount": 914000.0,
-        "class": null
-      },
-      {
-        "category": "amortisation",
-        "amount": 43000.0,
-        "class": null
-      },
-      {
-        "category": "plant_equipment_writeoff",
-        "amount": 172000.0,
-        "class": null
-      },
-      {
-        "category": "other_expenses",
-        "amount": 1353000.0,
-        "class": null
-      },
-      {
-        "category": "management_fee_base",
-        "amount": 10300000.0,
-        "class": null
-      },
-      {
-        "category": "management_fee_performance",
-        "amount": 7313000.0,
-        "class": null
-      },
-      {
-        "category": "trustee_fees",
-        "amount": 619000.0,
-        "class": null
-      },
-      {
-        "category": "audit_fees",
-        "amount": 640000.0,
-        "class": null
-      },
-      {
-        "category": "valuation_fees",
-        "amount": 99000.0,
-        "class": null
-      },
-      {
-        "category": "professional_fees",
-        "amount": 287000.0,
-        "class": null
-      },
-      {
-        "category": "other_trust_expenses",
-        "amount": 833000.0,
-        "class": null
-      },
-      {
-        "category": "finance_costs",
-        "amount": 60076000.0,
-        "class": null
-      }
+      {"category": "Manager's management fees - base fee", "amount": 10300000.0, "class": "General & Admin"},
+      {"category": "Manager's management fees - performance fee", "amount": 7313000.0, "class": "General & Admin"},
+      {"category": "Trustee's fees", "amount": 619000.0, "class": "General & Admin"},
+      {"category": "Audit fees", "amount": 640000.0, "class": "General & Admin"},
+      {"category": "Valuation fees", "amount": 99000.0, "class": "General & Admin"},
+      {"category": "Professional fees", "amount": 287000.0, "class": "General & Admin"},
+      {"category": "Other operating expenses - others", "amount": 833000.0, "class": "Other expenses"}
     ]
   },
-  "balance_sheet_metrics": null,
-  "cash_flow_metrics": null,
+  "balance_sheet_metrics": {
+    "total_asset": 4484769000.0,
+    "total_equity": 2227705000.0,
+    "total_liabilities": 2257064000.0,
+    "working_capital": -10363000.0,
+    "total_current_asset": 254080000.0,
+    "total_non_current_asset": 4230689000.0,
+    "total_current_liabilities": 264443000.0,
+    "total_non_current_liabilities": 1992621000.0
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 152729000.0,
+    "investing_cash_flow": 95740000.0,
+    "financing_cash_flow": -236504000.0,
+    "net_cash_flow": 11965000.0,
+    "free_cash_flow": 136110000.0,
+    "capital_expenditure": -16619000.0
+  },
+  "employee_breakdown": null,
   "line_items": [
-    {
-      "statement": "revenue",
-      "component": "base_rental",
-      "amount": 276794000.0,
-      "label_raw": "Gross rental income",
-      "source_page": 95
-    },
-    {
-      "statement": "revenue",
-      "component": "other_income",
-      "amount": 26926000.0,
-      "label_raw": "Other income",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "property_tax",
-      "amount": 27577000.0,
-      "label_raw": "Property related tax",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "business_tax",
-      "amount": 1598000.0,
-      "label_raw": "Business tax",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "property_management_fees",
-      "amount": 18220000.0,
-      "label_raw": "Property management fees and reimbursables",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "utilities",
-      "amount": 10576000.0,
-      "label_raw": "Utilities",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "advertising_promotion",
-      "amount": 8458000.0,
-      "label_raw": "Advertising and promotion",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "maintenance",
-      "amount": 20874000.0,
-      "label_raw": "Maintenance",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "staff_costs",
-      "amount": 12471000.0,
-      "label_raw": "Staff costs",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "depreciation",
-      "amount": 569000.0,
-      "label_raw": "Depreciation of plant and equipment",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "impairment_receivables",
-      "amount": 914000.0,
-      "label_raw": "Impairment losses on trade receivables, net",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "amortisation",
-      "amount": 43000.0,
-      "label_raw": "Amortisation of deferred expenditure included in other receivables",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "plant_equipment_writeoff",
-      "amount": 172000.0,
-      "label_raw": "Plant and equipment written off",
-      "source_page": 148
-    },
-    {
-      "statement": "expense",
-      "component": "other_expenses",
-      "amount": 1353000.0,
-      "label_raw": "Others",
-      "source_page": 148
-    },
-    {
-      "statement": "adjustment",
-      "component": "finance_income",
-      "amount": 1487000.0,
-      "label_raw": "Finance income",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "fx_gain_realised",
-      "amount": 2055000.0,
-      "label_raw": "Foreign exchange gain – realised",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "management_fee_base",
-      "amount": 10300000.0,
-      "label_raw": "Manager's management fees – base fee",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "management_fee_performance",
-      "amount": 7313000.0,
-      "label_raw": "Manager's management fees – performance fee",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "trustee_fees",
-      "amount": 619000.0,
-      "label_raw": "Trustee's fees",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "audit_fees",
-      "amount": 640000.0,
-      "label_raw": "Audit fees",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "valuation_fees",
-      "amount": 99000.0,
-      "label_raw": "Valuation fees",
-      "source_page": 95
-    },
-    {
-      "statement": "expense",
-      "component": "professional_fees",
-      "amount": 287000.0,
-      "label_raw": "Professional fees",
-      "source_page": 149
-    },
-    {
-      "statement": "expense",
-      "component": "other_trust_expenses",
-      "amount": 833000.0,
-      "label_raw": "Other operating expenses – others",
-      "source_page": 149
-    },
-    {
-      "statement": "expense",
-      "component": "finance_costs",
-      "amount": 60076000.0,
-      "label_raw": "Finance costs",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "loss_on_disposal",
-      "amount": -11988000.0,
-      "label_raw": "Loss on disposal of subsidiaries",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "fair_value_investment_properties",
-      "amount": -50507000.0,
-      "label_raw": "Change in fair value of investment properties",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "fair_value_derivatives",
-      "amount": -1122000.0,
-      "label_raw": "Change in fair value of financial derivatives",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "fx_loss_unrealised",
-      "amount": -73000.0,
-      "label_raw": "Foreign exchange loss – unrealised",
-      "source_page": 95
-    },
-    {
-      "statement": "adjustment",
-      "component": "taxation",
-      "amount": -55007000.0,
-      "label_raw": "Taxation",
-      "source_page": 95
-    }
+    {"statement": "revenue", "component": "base_rental", "amount": 276794000.0, "label_raw": "Gross rental income", "source_page": 95},
+    {"statement": "revenue", "component": "other_income", "amount": 26926000.0, "label_raw": "Other income", "source_page": 95},
+    {"statement": "expense", "component": "property_tax", "amount": 27577000.0, "label_raw": "Property related tax", "source_page": 95},
+    {"statement": "expense", "component": "business_tax", "amount": 1598000.0, "label_raw": "Business tax", "source_page": 95},
+    {"statement": "expense", "component": "property_management_fees", "amount": 18220000.0, "label_raw": "Property management fees and reimbursables", "source_page": 95},
+    {"statement": "expense", "component": "other_property_operating_expenses", "amount": 55430000.0, "label_raw": "Other property operating expenses (Note 19)", "source_page": 95},
+    {"statement": "expense", "component": "management_fee_base", "amount": 10300000.0, "label_raw": "Manager's management fees - base fee", "source_page": 95},
+    {"statement": "expense", "component": "management_fee_performance", "amount": 7313000.0, "label_raw": "Manager's management fees - performance fee", "source_page": 95},
+    {"statement": "expense", "component": "trustee_fees", "amount": 619000.0, "label_raw": "Trustee's fees", "source_page": 95},
+    {"statement": "expense", "component": "audit_fees", "amount": 640000.0, "label_raw": "Audit fees", "source_page": 95},
+    {"statement": "expense", "component": "valuation_fees", "amount": 99000.0, "label_raw": "Valuation fees", "source_page": 95},
+    {"statement": "expense", "component": "other_operating_expenses", "amount": 1120000.0, "label_raw": "Other operating (expenses)/income (Note 21)", "source_page": 95},
+    {"statement": "expense", "component": "finance_costs", "amount": 60076000.0, "label_raw": "Finance costs", "source_page": 95},
+    {"statement": "adjustment", "component": "fx_gain_realised", "amount": 2055000.0, "label_raw": "Foreign exchange gain - realised", "source_page": 95},
+    {"statement": "adjustment", "component": "finance_income", "amount": 1487000.0, "label_raw": "Finance income", "source_page": 95},
+    {"statement": "adjustment", "component": "loss_on_disposal", "amount": -11988000.0, "label_raw": "(Loss)/gain on disposal of subsidiaries", "source_page": 95},
+    {"statement": "adjustment", "component": "fair_value_investment_properties", "amount": -50507000.0, "label_raw": "Change in fair value of investment properties", "source_page": 95},
+    {"statement": "adjustment", "component": "fair_value_derivatives", "amount": -1122000.0, "label_raw": "Change in fair value of financial derivatives", "source_page": 95},
+    {"statement": "adjustment", "component": "fx_loss_unrealised", "amount": -73000.0, "label_raw": "Foreign exchange loss - unrealised", "source_page": 95},
+    {"statement": "adjustment", "component": "taxation", "amount": -55007000.0, "label_raw": "Taxation", "source_page": 95}
   ],
-  "source_page": 95,
-  "_migration": "from income_components.json (Jun17 schema); standardized buckets + balance_sheet/cash_flow pending re-extraction"
+  "source_page": 95
 }

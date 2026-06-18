@@ -73,27 +73,6 @@
       "label": "NCI subsidiaries: KDCS3 LLP (10%), KDCS4 LLP (1%), KDCS5 LLP (1%), KDCRT2 TMK (1.53% of Tokyo DC 3)",
       "source_page": 143,
       "note": "Non-controlling interests as at year-end. KDC SGP 3 and 4 NCI were acquired post-year-end (12 Feb 2026)."
-    },
-    {
-      "label": "Gross Floor Area (sq ft) — some properties only",
-      "data": {
-        "Keppel DC Singapore 1": 225945,
-        "Keppel DC Singapore 2": 106726,
-        "Keppel DC Singapore 3": 133878,
-        "Keppel DC Singapore 4": 181734,
-        "Keppel DC Singapore 5": 208096,
-        "Keppel DC Singapore 7": 186608,
-        "Keppel DC Singapore 8": 290041,
-        "DC1": null,
-        "Gore Hill DC": 127283,
-        "Tokyo DC 3": 195216,
-        "Basis Bay DC": 88600,
-        "Keppel DC Dublin 1": 125044,
-        "Keppel DC Dublin 2": 76747,
-        "GV7 DC": 34850
-      },
-      "source_page": "40-44",
-      "note": "GFA disclosed inconsistently across properties. Not used as gla."
     }
   ],
   "parsing_traps": [

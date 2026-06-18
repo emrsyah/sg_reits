@@ -3,7 +3,17 @@
 Single source of truth for pipeline state per annual report. Stages:
 **Parsed** → **Extracted** → **Guardchecked** (deterministic gates) → **Audited** (forensic LLM, correctness vs source).
 
-Last updated: 2026-06-15.
+Last updated: 2026-06-18.
+
+> **FY2025 scale run in progress** (chunks of 8). Schema gained 7 as-disclosed comparison KPIs
+> on `performance` (aggregate_leverage, interest_coverage_ratio, cost_of_debt,
+> weighted_avg_debt_maturity, nav_per_unit, wale, portfolio_occupancy) — commit before batch 1.
+> **Batch 1 (2026-06-18): the 9 already-parsed trusts re-extracted fresh** (discovery-first,
+> reit-extract-hybrid, one agent per AR) — done: AJBU, AU8U, AW9U, BTOU, C38U, DHLU, HMN, J69U
+> (M44U was already the pilot). All 8 PASS both gates (0 fail). KPIs captured where disclosed;
+> 3 nulls are genuine non-disclosures (AW9U/AJBU debt-maturity-in-years, HMN WALE = MAS waiver).
+> J69U sponsor (Frasers Property) now present; AJBU sponsor=Keppel. Income mis-bucketing caught
+> + fixed in every report where present. Still TODO this batch: UD1U (parsed, not yet re-done).
 
 ## Legend
 

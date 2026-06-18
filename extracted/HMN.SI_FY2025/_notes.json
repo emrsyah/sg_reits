@@ -77,6 +77,14 @@
   "inferred": [
     {
       "table": "properties",
+      "field": "category",
+      "scope": "all 105 property rows",
+      "value": "Specialized",
+      "basis": "Hospitality/lodging assets (serviced residences, hotels, rental housing, student accommodation) do not map to any of the canonical 6 property categories (Industrial & Logistics | Office | Retail | Data Centers | Specialized | Diversified (Commercial)). Mapped to 'Specialized' (the catch-all for non-conventional asset classes, consistent with PROPERTY_CATEGORY_ALIASES treating Business Space/Hi-Tech/Life Sciences as Specialized). The verbatim lodging type is preserved in category_raw (Serviced Residence | Hotel | Rental Housing | Student Accommodation).",
+      "source_page": 7
+    },
+    {
+      "table": "properties",
       "field": "market_valuation",
       "scope": "5 BT Group freehold PPE hotels (Pullman/Mercure Brisbane, Pullman/Mercure Melbourne, Pullman Sydney Hyde Park, Sydney Central Hotel, Temple Bar Dublin)",
       "value": null,

@@ -14,7 +14,7 @@
     "gross_revenue": 82800000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 507300.0,
+    "gla": null,
     "nla": 356000.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -29,7 +29,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 507300.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -46,7 +51,7 @@
     "gross_revenue": 84900000.0,
     "occupancy_rate": 99.1,
     "trade_mix": null,
-    "gla": 577000.0,
+    "gla": null,
     "nla": 392800.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -61,7 +66,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 577000.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -78,7 +88,7 @@
     "gross_revenue": 77800000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "gla": 593900.0,
+    "gla": null,
     "nla": 410000.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -93,7 +103,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 593900.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -110,7 +125,7 @@
     "gross_revenue": 58900000.0,
     "occupancy_rate": 99.7,
     "trade_mix": null,
-    "gla": 334300.0,
+    "gla": null,
     "nla": 222900.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -125,7 +140,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 334300.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -142,7 +162,7 @@
     "gross_revenue": 62800000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 451600.0,
+    "gla": null,
     "nla": 305100.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -157,7 +177,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 451600.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -174,7 +199,7 @@
     "gross_revenue": 95500000.0,
     "occupancy_rate": 98.8,
     "trade_mix": null,
-    "gla": 1426500.0,
+    "gla": null,
     "nla": 956200.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -189,7 +214,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 1426500.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -206,7 +236,7 @@
     "gross_revenue": 47200000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 333300.0,
+    "gla": null,
     "nla": 227200.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -221,7 +251,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 333300.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -238,7 +273,7 @@
     "gross_revenue": 32200000.0,
     "occupancy_rate": 97.6,
     "trade_mix": null,
-    "gla": 366600.0,
+    "gla": null,
     "nla": 289000.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -253,7 +288,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 366600.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -270,7 +310,7 @@
     "gross_revenue": null,
     "occupancy_rate": 99.9,
     "trade_mix": null,
-    "gla": 319800.0,
+    "gla": null,
     "nla": 214400.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -285,7 +325,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 319800.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -302,7 +347,7 @@
     "gross_revenue": 104300000.0,
     "occupancy_rate": 95.3,
     "trade_mix": null,
-    "gla": 916900.0,
+    "gla": null,
     "nla": 773700.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -317,7 +362,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 916900.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -334,7 +384,7 @@
     "gross_revenue": 72700000.0,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 818500.0,
+    "gla": null,
     "nla": 673800.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -349,7 +399,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 818500.0,
+    "flags": [
+      {
+        "type": "gross_revenue_basis",
+        "scope": "gross_revenue",
+        "note": "Card discloses S$72.7m on 100% full-year basis (incl. SR up to 30 May 2025 divestment; 45%-then-100% interest). Financial Review (p25) shows S$37.7m consolidated contribution from 26 Aug 2025 acquisition. Captured the property-card disclosed figure (72.7m)."
+      }
+    ],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -366,7 +427,7 @@
     "gross_revenue": 97900000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "gla": 882700.0,
+    "gla": null,
     "nla": 695600.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -381,7 +442,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 882700.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -398,7 +464,7 @@
     "gross_revenue": 71100000.0,
     "occupancy_rate": 95.7,
     "trade_mix": null,
-    "gla": 655200.0,
+    "gla": null,
     "nla": 495200.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -413,7 +479,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 655200.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -430,7 +501,7 @@
     "gross_revenue": 79800000.0,
     "occupancy_rate": 95.2,
     "trade_mix": null,
-    "gla": 1027200.0,
+    "gla": null,
     "nla": 734000.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -445,7 +516,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 1027200.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -462,7 +538,7 @@
     "gross_revenue": 74800000.0,
     "occupancy_rate": 98.7,
     "trade_mix": null,
-    "gla": 613600.0,
+    "gla": null,
     "nla": 518900.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -477,14 +553,25 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 613600.0,
+    "flags": [
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation/gross_revenue",
+        "note": "CICT owns 70%; Portfolio Statement + financial review report at 100% basis."
+      }
+    ],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "Raffles City Singapore",
     "country": "Singapore",
-    "category": null,
+    "category": "Diversified (Commercial)",
     "address": "250 and 252 North Bridge Road, 2 Stamford Road and 80 Bras Basah Road",
     "ownership": 100.0,
     "market_valuation": 3434000000.0,
@@ -494,7 +581,7 @@
     "gross_revenue": 251800000.0,
     "occupancy_rate": 98.4,
     "trade_mix": null,
-    "gla": 3449800.0,
+    "gla": null,
     "nla": 788100.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -510,14 +597,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 3449800.0,
+    "flags": [],
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "Plaza Singapura",
     "country": "Singapore",
-    "category": null,
+    "category": "Diversified (Commercial)",
     "address": "68 Orchard Road",
     "ownership": 100.0,
     "market_valuation": 1443256000.0,
@@ -527,7 +618,7 @@
     "gross_revenue": 93200000.0,
     "occupancy_rate": 98.6,
     "trade_mix": null,
-    "gla": 757200.0,
+    "gla": null,
     "nla": 485500.0,
     "land_tenure": "Freehold",
     "effective_date": null,
@@ -543,14 +634,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 757200.0,
+    "flags": [],
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "Funan",
     "country": "Singapore",
-    "category": null,
+    "category": "Diversified (Commercial)",
     "address": "107 & 109 North Bridge Road",
     "ownership": 100.0,
     "market_valuation": 852000000.0,
@@ -560,7 +655,7 @@
     "gross_revenue": 68400000.0,
     "occupancy_rate": 97.8,
     "trade_mix": null,
-    "gla": 767300.0,
+    "gla": null,
     "nla": 532200.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -576,14 +671,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 767300.0,
+    "flags": [],
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "The Atrium@Orchard",
     "country": "Singapore",
-    "category": null,
+    "category": "Diversified (Commercial)",
     "address": "60A & 60B Orchard Road",
     "ownership": 100.0,
     "market_valuation": 789000000.0,
@@ -593,7 +692,7 @@
     "gross_revenue": 50500000.0,
     "occupancy_rate": 98.2,
     "trade_mix": null,
-    "gla": 576600.0,
+    "gla": null,
     "nla": 385600.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -609,7 +708,11 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 576600.0,
+    "flags": [],
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -641,7 +744,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": null,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -673,14 +781,19 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": null,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
     "financial_year": 2025,
     "property_name": "101–103 Miller Street and Greenwood Plaza",
     "country": "Australia",
-    "category": null,
+    "category": "Diversified (Commercial)",
     "address": "101–103 Miller Street & 36 Blue Street",
     "ownership": 50.0,
     "market_valuation": 271054000.0,
@@ -706,7 +819,17 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": null,
+    "flags": [
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation",
+        "note": "CICT owns 50% via Monopoly Trust (tenants-in-common); Portfolio Statement carries at 100%."
+      }
+    ],
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -738,7 +861,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": null,
+    "flags": [
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation",
+        "note": "CICT owns 94.9%; Portfolio Statement carries at 100% consolidated."
+      }
+    ],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -770,7 +904,18 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": null,
+    "flags": [
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation",
+        "note": "CICT owns 94.9%; Portfolio Statement carries at 100% consolidated."
+      }
+    ],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -787,7 +932,7 @@
     "gross_revenue": null,
     "occupancy_rate": 99.9,
     "trade_mix": null,
-    "gla": 247500.0,
+    "gla": null,
     "nla": 164500.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -802,7 +947,12 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "gfa": 247500.0,
+    "flags": [],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   },
   {
     "symbol": "C38U.SI",
@@ -819,7 +969,7 @@
     "gross_revenue": 130800000.0,
     "occupancy_rate": 98.0,
     "trade_mix": null,
-    "gla": 945400.0,
+    "gla": null,
     "nla": 624200.0,
     "land_tenure": null,
     "effective_date": null,
@@ -829,6 +979,17 @@
     "status": "active",
     "value_basis": "joint_venture_100pct",
     "source_page": 39,
-    "major_tenants": []
+    "major_tenants": [],
+    "gfa": 945400.0,
+    "flags": [
+      {
+        "type": "equity_accounted_jv",
+        "scope": "market_valuation",
+        "note": "50% equity-accounted JV; NOT in audited Portfolio Statement. market_valuation null; Tier-A proportionate value S$1,855.2m (p23). GR/area from per-property card."
+      }
+    ],
+    "category_raw": null,
+    "npi_pct": null,
+    "divestment_price": null
   }
 ]

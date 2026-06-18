@@ -22,6 +22,13 @@
     }
   ],
   "number_of_unitholders": 71313,
+  "aggregate_leverage": 37.7,
+  "interest_coverage_ratio": 3.0,
+  "cost_of_debt": 2.9,
+  "weighted_avg_debt_maturity": 3.4,
+  "nav_per_unit": 1.17,
+  "wale": null,
+  "portfolio_occupancy": 80.0,
   "currency": "SGD",
   "date": "2025-12-31",
   "source_page": 8,
@@ -32,6 +39,8 @@
     "ndi_source": "Page 116 Distribution Statement: Income available for distribution = SGD 256,708k",
     "dpu_source": "Page 8/116: 6.10 cents total = 2.526 + 3.576",
     "unitholders_source": "Page 291 Statistics of Stapled Securityholdings as at 26 February 2026: 71,313 total holders",
-    "distribution_rate_note": "DPS in annual report rounded to 6.10 cents; exact = 6.102 cents per page 20"
+    "distribution_rate_note": "DPS in annual report rounded to 6.10 cents; exact = 6.102 cents per page 20",
+    "kpi_sources": "p8 5-Year Summary + p21 Capital Management Key Financial Indicators: Aggregate Leverage 37.7%, ICR 3.0x, Effective Interest Rate (cost of debt) 2.9%, Weighted Average Debt to Maturity 3.4 years, NAV per Stapled Security S$1.17; p23/p27 Portfolio Occupancy 80% (FY2025).",
+    "wale_null_reason": "No single portfolio WALE disclosed. CLAS obtained a MAS waiver (Property Funds Appendix 11.1(c)(iv)/(v)) from disclosing weighted average lease expiry for properties under management contracts (the bulk of the portfolio). Only narrow-scope figures disclosed: master leases (28 properties) WALE ~11 years by valuation (p25); MCMGI weighted average remaining term ~14 years (p25). Not a portfolio-wide WALE, so left null per §0.6."
   }
 }

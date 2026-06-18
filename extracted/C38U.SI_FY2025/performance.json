@@ -28,6 +28,13 @@
     }
   ],
   "number_of_unitholders": 91421,
+  "aggregate_leverage": 38.6,
+  "interest_coverage_ratio": 3.7,
+  "cost_of_debt": 3.2,
+  "weighted_avg_debt_maturity": 4.0,
+  "nav_per_unit": 2.14,
+  "wale": 3.0,
+  "portfolio_occupancy": 96.9,
   "currency": "SGD",
   "date": "2025-12-31",
   "source_page": 5

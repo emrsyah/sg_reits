@@ -2,39 +2,29 @@
   "symbol": "AW9U.SI",
   "financial_year": 2025,
   "portfolio_value": 1022619000,
-  "properties_location": "Singapore, Indonesia, Japan",
+  "properties_location": "Indonesia; Japan; Singapore",
   "gross_revenue": 100531000,
   "net_property_income": 97340000,
   "net_distributable_income": 45800000,
   "dpu": 2.17,
   "distribution_record": [
-    {
-      "period": "1Q2025 (1 Jan 2025 – 31 Mar 2025)",
-      "dpu": 0.58,
-      "ex_date": null,
-      "pay_date": "2025-06-26"
-    },
-    {
-      "period": "2Q2025 (1 Apr 2025 – 30 Jun 2025)",
-      "dpu": 0.55,
-      "ex_date": null,
-      "pay_date": "2025-09-25"
-    },
-    {
-      "period": "3Q2025 (1 Jul 2025 – 30 Sep 2025)",
-      "dpu": 0.52,
-      "ex_date": null,
-      "pay_date": "2025-12-18"
-    },
-    {
-      "period": "4Q2025 (1 Oct 2025 – 31 Dec 2025)",
-      "dpu": 0.52,
-      "ex_date": null,
-      "pay_date": "2026-03-30"
-    }
+    {"period": "Q1 2025 (1 Jan - 31 Mar 2025)", "dpu": 0.58, "ex_date": null, "pay_date": null},
+    {"period": "Q2 2025 (1 Apr - 30 Jun 2025)", "dpu": 0.55, "ex_date": null, "pay_date": null},
+    {"period": "Q3 2025 (1 Jul - 30 Sep 2025)", "dpu": 0.52, "ex_date": null, "pay_date": null},
+    {"period": "Q4 2025 (1 Oct - 31 Dec 2025)", "dpu": 0.52, "ex_date": null, "pay_date": null}
   ],
   "number_of_unitholders": 12773,
+  "aggregate_leverage": 42.1,
+  "interest_coverage_ratio": 3.7,
+  "cost_of_debt": 4.5,
+  "weighted_avg_debt_maturity": null,
+  "nav_per_unit": 0.2497,
+  "wale": 10.0,
+  "portfolio_occupancy": 100.0,
   "currency": "SGD",
   "date": "2025-12-31",
-  "source_page": 6
+  "flags": [
+    {"type": "dpu_quarterly_split", "scope": "distribution_record", "note": "FY2025 DPU 2.17 cents declared across 4 quarters (0.58 + 0.55 + 0.52 + 0.52). Q4 2025 DPU declared but paid in 2026; ex/pay dates not disclosed in AR. Note 24 (p176) shows distributions PAID in FY2025 which relate to Q4 2024 through Q3 2025."}
+  ],
+  "source_page": 7
 }

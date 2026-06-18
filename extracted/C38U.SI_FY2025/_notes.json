@@ -52,7 +52,19 @@
     },
     {
       "item": "Gross revenue for Bugis+ and Bukit Panjang Plaza",
-      "note": "Aggregate 'Other Assets' category in the Financial Review table (page 25) consolidates Bugis+ and Bukit Panjang Plaza. Individual revenues unavailable from the financial review. GR set to null for both."
+      "note": "Aggregate 'Other Assets' category in the Financial Review (p25) and the Bugis+ card (p48) consolidates Bugis+ and Bukit Panjang Plaza (combined S$65.7m). Individual revenues not disclosed; GR set to null for both."
+    },
+    {
+      "item": "Per-property area metric is GFA + NLA (not GLA)",
+      "note": "Every property card discloses 'GFA (sq ft)' and 'NLA (sq ft)'. GFA captured in the gfa field, NLA in nla. gla left null (gross LETTABLE area is not disclosed). Earlier migration had mislabelled GFA as gla; corrected this run."
+    },
+    {
+      "item": "CapitaSpring gross_revenue basis (judgment call)",
+      "note": "Property card (p52) discloses GR S$72.7m on a 100% full-year basis (incl. serviced-residence revenue up to its 30 May 2025 divestment; CICT held 45% then 100% from 26 Aug 2025). The segment Financial Review (p25) shows S$37.7m, the consolidated contribution from the 26 Aug 2025 acquisition only. Captured the property-card disclosed figure (72.7m) with a flag."
+    },
+    {
+      "item": "Segment-level Gross Revenue / NPI (p26)",
+      "note": "Retail GR 607.8m / NPI 439.0m; Office GR 525.3m / NPI 396.8m; Integrated Development GR 486.1m / NPI 353.9m (S$ million). Per-property NPI not disclosed."
     }
   ],
   "parsing_traps": [
