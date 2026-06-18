@@ -5,7 +5,7 @@
   "items": {
     "profile:0": {
       "note": "sponsor gatau dari mana",
-      "updated": "2026-06-14T13:10:35",
+      "updated": "2026-06-15T12:18:34",
       "verdict": "unsure"
     },
     "performance:0": {
@@ -57,9 +57,79 @@
       "note": "gla is not extracted (gross floor area)",
       "updated": "2026-06-15T09:20:45",
       "verdict": "correct"
+    },
+    "properties:9": {
+      "note": "gla is not extracted (gross floor area)",
+      "updated": "2026-06-15T12:00:41",
+      "verdict": "correct"
+    },
+    "properties:10": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:17"
+    },
+    "properties:11": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:19"
+    },
+    "properties:12": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:22"
+    },
+    "properties:13": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:24"
+    },
+    "properties:14": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:26"
+    },
+    "properties:15": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:28"
+    },
+    "properties:16": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:32"
+    },
+    "properties:17": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:33"
+    },
+    "properties:18": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:35"
+    },
+    "properties:19": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:37"
+    },
+    "properties:20": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:40"
+    },
+    "properties:21": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:43"
+    },
+    "properties:22": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:46"
+    },
+    "properties:23": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:48"
+    },
+    "properties:24": {
+      "verdict": "correct",
+      "updated": "2026-06-17T09:53:50"
+    },
+    "properties:25": {
+      "note": "divestment, so thats why a lot of null values, check page 113",
+      "updated": "2026-06-17T09:54:47",
+      "verdict": "correct"
     }
   },
-  "updated": "2026-06-15T09:37:24",
+  "updated": "2026-06-17T09:54:47",
   "section_notes": {
     "properties": "gla is not extracted (gross floor area)"
   }

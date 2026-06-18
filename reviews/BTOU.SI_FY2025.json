@@ -1,0 +1,145 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "page_offset": 0,
+  "items": {
+    "profile:0": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T09:55:50",
+      "note": "not verbatim, but idk if this could be infered?"
+    },
+    "performance:0": {
+      "verdict": "false",
+      "updated": "2026-06-17T10:10:00",
+      "note": "false = portofolio_value comes from, no 901,403,000 verbatim?"
+    },
+    "properties:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:03:44"
+    },
+    "properties:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:04:16"
+    },
+    "properties:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:06:22"
+    },
+    "properties:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:06:44"
+    },
+    "properties:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:07:17"
+    },
+    "properties:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:07:35"
+    },
+    "properties:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:07:57"
+    },
+    "properties:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:32"
+    },
+    "properties:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:34"
+    },
+    "top_tenants:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:40"
+    },
+    "top_tenants:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:42"
+    },
+    "top_tenants:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:45"
+    },
+    "top_tenants:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:47"
+    },
+    "top_tenants:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:50"
+    },
+    "top_tenants:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:52"
+    },
+    "top_tenants:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:11:56"
+    },
+    "top_tenants:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:00"
+    },
+    "top_tenants:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:03"
+    },
+    "top_tenants:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:05"
+    },
+    "trade_mix:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:09"
+    },
+    "trade_mix:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:24"
+    },
+    "trade_mix:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:26"
+    },
+    "trade_mix:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:29"
+    },
+    "trade_mix:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:32"
+    },
+    "trade_mix:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:37"
+    },
+    "trade_mix:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:39"
+    },
+    "trade_mix:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:41"
+    },
+    "trade_mix:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:51"
+    },
+    "trade_mix:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:12:53"
+    },
+    "property_transactions:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:13:02"
+    },
+    "property_transactions:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:13:03"
+    }
+  },
+  "updated": "2026-06-17T10:13:03",
+  "section_notes": {
+    "properties": "need to check where ownership data come from?; we have acquistion date in property detail, should it be use in effective date?  i think we need change major tenant with  jsonb; plaza and peachtree sold 163.6 Million (page 12)"
+  }
+}

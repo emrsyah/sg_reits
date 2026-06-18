@@ -1,0 +1,208 @@
+{
+  "symbol": "C38U.SI",
+  "financial_year": 2025,
+  "page_offset": 0,
+  "items": {
+    "profile:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:15:01"
+    },
+    "performance:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:15:41"
+    },
+    "properties:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:22:32"
+    },
+    "properties:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:24:10"
+    },
+    "properties:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:24:59"
+    },
+    "properties:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:25:05"
+    },
+    "properties:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:25:08"
+    },
+    "properties:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:25:10"
+    },
+    "properties:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:27:13"
+    },
+    "properties:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:27:17"
+    },
+    "properties:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:39"
+    },
+    "properties:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:41"
+    },
+    "properties:10": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:45"
+    },
+    "properties:11": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:49"
+    },
+    "properties:12": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:53"
+    },
+    "properties:13": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:56"
+    },
+    "properties:14": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:28:58"
+    },
+    "properties:15": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:29:00"
+    },
+    "properties:16": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:30:03",
+      "note": "Plaza Singapura and The Atrium @ Orchard are classified as an integrated develop"
+    },
+    "properties:17": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:32:08"
+    },
+    "properties:18": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:33:11"
+    },
+    "properties:19": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:33:15"
+    },
+    "properties:20": {
+      "note": "gla not found beacuse property detail not have gfa; why have no gfa?",
+      "updated": "2026-06-17T10:34:32",
+      "verdict": "correct"
+    },
+    "properties:21": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:34:38",
+      "note": "gla not found beacuse property detail not have gfa; why have no gfa?"
+    },
+    "properties:22": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:34:40"
+    },
+    "properties:23": {
+      "note": "gla not found beacuse property detail not have gfa; why have no gfa?",
+      "updated": "2026-06-17T10:34:51"
+    },
+    "properties:24": {
+      "edits": {
+        "gross_revenue": "65.7"
+      },
+      "updated": "2026-06-17T10:36:47",
+      "note": "it have gross revenue, but is this null because divestment?",
+      "verdict": "unsure"
+    },
+    "properties:25": {
+      "verdict": "unsure",
+      "updated": "2026-06-17T10:41:06",
+      "note": "ion orchard completed acquisition 50% interest in 30 oct 2024; what about this kind of cases?; we have market valuation, etc but a lot got nulled out, what the reason?"
+    },
+    "top_tenants:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:43:42"
+    },
+    "top_tenants:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:43:45"
+    },
+    "top_tenants:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:43:49"
+    },
+    "top_tenants:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:43:52"
+    },
+    "top_tenants:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:43:58"
+    },
+    "top_tenants:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:44:00"
+    },
+    "top_tenants:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:44:04"
+    },
+    "top_tenants:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:44:10"
+    },
+    "top_tenants:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:44:12"
+    },
+    "top_tenants:9": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:44:13"
+    },
+    "trade_mix:0": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:45:21"
+    },
+    "trade_mix:1": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:33"
+    },
+    "trade_mix:2": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:35"
+    },
+    "trade_mix:3": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:36"
+    },
+    "trade_mix:4": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:38"
+    },
+    "trade_mix:5": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:40"
+    },
+    "trade_mix:6": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:42"
+    },
+    "trade_mix:7": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:44"
+    },
+    "trade_mix:8": {
+      "verdict": "correct",
+      "updated": "2026-06-17T10:46:47"
+    }
+  },
+  "updated": "2026-06-17T10:46:47",
+  "section_notes": {
+    "properties": "lease expiry date can be derived from remaining term of lease in page 116 or from property detail page (we have land tenure text), same thing with effective date; gross revenue is on page 32; page detail around page 51+; currently gla is from gfa, is this correct?; need to check where ownership comes from?; major tenant often more than one but only catched one; trade_mix also available in property detail page",
+    "trade_mix": "this based on CICT's proportionate interests (note 1), is this meaning GRI because in current value we use pct_basis gri, need checking "
+  }
+}
