@@ -1,0 +1,19 @@
+{
+  "stem": "31_TS0U.SI_OUE-REIT_FY2025",
+  "symbol": "TS0U.SI",
+  "financial_year": 2025,
+  "sub_sector": "Diversified",
+  "template_family": "OUE",
+  "parsed": {"markdown": "parsed_reports_datalab/31_TS0U.SI_OUE-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "adapterable": false, "note": "Corporate Information (p180) + property mgmt note 1(b) (p123) + value-drivers (p13). Manager OUE REIT Management; Trustee DBS Trustee; Sponsor OUE Limited; 2 property managers; 2 hotel master lessees (OUE Limited, OUE Airport Hotel); operators Hilton + IHG. income_model=mixed."},
+    "performance": {"status": "done", "method": "llm_only", "adapterable": false, "note": "Capital Management indicators (p41), Financial Review (p32), Portfolio Review (p33-36), Distribution Statement (p108), Statistics of Unitholdings (p177). All 7 KPIs disclosed; portfolio_occupancy = SG office portfolio 95.4% (flagged; no portfolio-wide figure, hotels master-leased)."},
+    "properties": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 6, "note": "Property cards p14-15 (hospitality stacked-card layout -> llm_only). Valuations reconciled to audited Note 4 (p134): 5 consolidated = S$5,082.0m exact. OUE Bayfront = 50% equity-accounted JV (joint_venture_100pct); One Raffles Place = full consolidation at 67.95% effective (NCI 16.67% at OUB Centre).", "cross_check": {"vs": "audited Note 4 independent valuation", "match": "5,082.0m exact", "gaps": ["OUE Bayfront excluded from consolidated stmt (equity-accounted JV) - expected"]}},
+    "top_tenants": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 10, "note": "Top 10 by monthly portfolio GRI (p34); pct_basis=gri. Top 2 are the hotel master lessees."},
+    "trade_mix": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 14, "note": "Tenant Trade Sectors by GRI (p34), sums to 100.0; pct_basis=gri. Hospitality 35.7% largest."},
+    "financial": {"status": "done", "method": "llm_only", "adapterable": false, "note": "Statement of Total Return (p107, Group column) + Note 17 revenue (p149) + Note 18 opex (p150) + SFP (p105) + Cash Flow (p120). Full STR captured incl. all below-NPI lines. line_items reconcile to net_income 36,603k exact."}
+  },
+  "final_dir": "extracted/TS0U.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

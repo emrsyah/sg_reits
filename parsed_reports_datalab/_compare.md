@@ -6,5 +6,5 @@ emits HTML `<td>` tables — both are structured (unlike LiteParse's flattening)
 
 | Doc | Parser | Pages | Chars | Pipe rows | HTML cells | Cost | Seconds |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 14_MXNU.SI_Elite-UK-REIT_FY2025 | **datalab:balanced** | 192 | 671,308 | 1,512 | 0 | 77c | 56.4 |
-| 14_MXNU.SI_Elite-UK-REIT_FY2025 | agentic | 192 | 689,444 | 0 | 7,052 | — | (cloud) |
+| 23_K71U.SI_Keppel-REIT_FY2025 | **datalab:balanced** | 228 | 872,722 | 2,997 | 0 | 92.0c | 42.0 |
+| 23_K71U.SI_Keppel-REIT_FY2025 | agentic | 228 | 1,002,831 | 0 | 12,410 | — | (cloud) |

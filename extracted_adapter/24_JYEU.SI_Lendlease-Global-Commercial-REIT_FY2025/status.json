@@ -1,0 +1,19 @@
+{
+  "stem": "24_JYEU.SI_Lendlease-Global-Commercial-REIT_FY2025",
+  "symbol": "JYEU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Diversified",
+  "template_family": "Lendlease",
+  "parsed": {"markdown": "parsed_reports_datalab/24_JYEU.SI_Lendlease-Global-Commercial-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 1, "note": "Manager + Property Manager = Lendlease Global Commercial Trust Management Pte. Ltd.; Trustee DBS Trustee Limited; Sponsor Lendlease Corporation Limited. Trust Structure p20 + Corporate Information p21 + glossary p104."},
+    "performance": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 1, "note": "All 7 KPIs from Performance Highlights/Capital Management p5: gearing 42.6%, ICR 1.6x, cost of debt 3.46%, debt maturity 2.6y, NAV 0.75, WALE 7.2y, occupancy 92.1%. DPU 3.60c (1.80 + 1.8013). Unitholders 15,384 (p179)."},
+    "properties": {"status": "done", "method": "llm_only", "adapterable": true, "rows": 5, "cross_check": {"vs": "Portfolio Statement total + Financial Review per-property GR/NPI", "match": "valuation Σ=3,761,376k vs audited 3,763,336k (incl IPUD ROU 1,960k); GR/NPI sums tie within rounding", "gaps": ["Parkway Parade is a 10% equity-accounted associate, not a Portfolio Statement row — excluded by design"]}, "note": "Portfolio Statement p116/117 (Tier C '000); cards pp28,31,32 for NLA/GFA/occupancy; Financial Review p34 for per-property GR/NPI."},
+    "top_tenants": {"status": "done", "method": "llm_only", "adapterable": true, "rows": 10, "note": "Top 10 Tenants By GRI, p26. pct_basis=gri."},
+    "trade_mix": {"status": "done", "method": "llm_only", "adapterable": true, "rows": 10, "cross_check": {"vs": "sum to 100%", "match": "Σ=100.0", "gaps": []}, "note": "Portfolio Trade Sector Breakdown By GRI, p26. pct_basis=gri. (Per-property donut charts pp29,31 not used for portfolio level.)"},
+    "financial": {"status": "done", "method": "llm_only", "adapterable": true, "rows": 1, "cross_check": {"vs": "Statement of Total Return p113", "match": "Σrev 206,542 - Σexp 145,202 + Σadj 9,410 = 70,750 = net_income", "gaps": []}, "note": "Income stmt p113; GR note 19 + opex note 20 p156; fees notes 21/22 p157; finance costs note 23 p157; balance sheet p112; cash flow pp120-121; EPU note 25 p158 (WA units 2,414,538k). interest_income + dividend_income bucketed as adjustment (below NPI)."}
+  },
+  "final_dir": "extracted/JYEU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

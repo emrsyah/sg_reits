@@ -1,0 +1,224 @@
+# Page map v2 (classify) — 23_K71U.SI_Keppel-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p15  · audited('000): p199
+- [1.00] p15 — no schema-relevant data
+- [1.00] p11 — no schema-relevant data
+- [1.00] p16 — no schema-relevant data
+- [1.00] p219 — no schema-relevant data
+- [1.00] p228 — no schema-relevant data
+- [1.00] p113 — no schema-relevant data
+- [1.00] p181 — no schema-relevant data
+- [1.00] p5 — no schema-relevant data
+- [0.99] p207 — no schema-relevant data
+- [0.99] p182 — no schema-relevant data
+- [0.99] p220 — no schema-relevant data
+- [0.99] p206 — no schema-relevant data
+- [0.98] p186 — no schema-relevant data
+- [0.98] p222 — no schema-relevant data
+- [0.97] p224 — no schema-relevant data
+- [0.97] p12 — This page presents the Board Composition Dashboard for Keppel REIT, detailing tenure distribution (1 director <3 years, 
+- [0.97] p183 — no schema-relevant data
+- [0.97] p197 — no schema-relevant data
+- [0.96] p13 — no schema-relevant data
+- [0.96 OCR] p95 — no schema-relevant data
+- [0.95] p227 — no schema-relevant data
+- [0.94 OCR] ['000] p199 — no schema-relevant data
+- [0.93] p202 — no schema-relevant data
+- [0.92] ['000] p192 — no schema-relevant data
+- [0.92] p226 — no schema-relevant data
+- [0.91] ['000] p144 — This page presents the **Investments in Subsidiaries** table, detailing the Trust's holdings of unquoted equity at cost 
+- [0.90] p185 — no schema-relevant data
+- [0.90] p208 — no schema-relevant data
+- [0.90] p14 — no schema-relevant data
+- [0.90] p114 — no schema-relevant data
+- [0.86 OCR] p188 — no schema-relevant data
+- [0.86 OCR] p212 — no schema-relevant data
+- [0.85] ['000] p190 — no schema-relevant data
+- [0.83] p221 — no schema-relevant data
+- [0.83 OCR] p39 — no schema-relevant data
+- [0.82] p198 — no schema-relevant data
+- [0.81] ['000] p214 — This page presents a table of Interested Person Transactions for Keppel REIT for the financial year ended 31 December 20
+- [0.80 OCR] p189 — no schema-relevant data
+- [0.80] p209 — no schema-relevant data
+- [0.77 OCR] p96 — no schema-relevant data
+- [0.75] ['000] p191 — no schema-relevant data
+- [0.73] p200 — no schema-relevant data
+- [0.65] p187 — no schema-relevant data
+- [0.59] p19 — no schema-relevant data
+- [0.57 OCR] p116 — no schema-relevant data
+- [0.56] p92 — no schema-relevant data
+- [0.56] p184 — no schema-relevant data
+- [0.54] ['000] p130 — no schema-relevant data
+- [0.54] p145 — no schema-relevant data
+- [0.53 OCR] ['000] p193 — no schema-relevant data
+- [0.50] p195 — no schema-relevant data
+- [0.48] p91 — no schema-relevant data
+- [0.47 OCR] p223 — no schema-relevant data
+- [0.44 OCR] ['000] p211 — no schema-relevant data
+- [0.44 OCR] p196 — no schema-relevant data
+- [0.38 OCR] p201 — no schema-relevant data
+- [0.38 OCR] p213 — no schema-relevant data
+- [0.36 OCR] p2 — no schema-relevant data
+- [0.24 OCR] p61 — no schema-relevant data
+- [0.18 OCR] ['000] p98 — This page presents a Human Capital section for Keppel REIT (SGD'000 not applicable to this text) containing tables on tr
+- [0.18] ['000] p158 — This page presents the **Units in issue** table for the SGX REIT Group and Trust, reporting unit counts and amounts in S
+- [0.17 OCR] p112 — This page indexes the SGX REIT annual report structure, listing key financial statements including the audited Portfolio
+- [0.16 OCR] p69 — no schema-relevant data
+
+## performance  — top: p4  · audited('000): p217
+- [1.00] [million] p4 — This page presents Keppel REIT's Key Highlights with a focus on its audited Portfolio Statement showing 96.7% committed 
+- [1.00] [million] p215 — This page presents the Unit Price Performance of Keppel REIT for 2025, featuring a Monthly Trading Performance chart and
+- [1.00] ['000] p217 — This page presents the Statistics of Unitholdings for Keppel REIT as of 27 February 2026, featuring a Distribution of Un
+- [1.00] p18 — no schema-relevant data
+- [0.99] p216 — This page presents the **Comparative Yields (%)** as at 31 December 2025, detailing asset performance including Keppel R
+- [0.99] ['000] p7 — This page presents the Financial Highlights for Keppel REIT's annual report, featuring a main table detailing 2025 and 2
+- [0.97] ['000] p218 — This page presents the **UNITHOLDINGS OF THE DIRECTORS OF THE MANAGER** and **SUBSTANTIAL UNITHOLDERS** of Keppel REIT a
+- [0.97] [million] p17 — no schema-relevant data
+- [0.79] ['000] p158 — This page presents the **Units in issue** table for the SGX REIT Group and Trust, reporting unit counts and amounts in S
+- [0.78] ['000] p156 — The page presents a detailed Interest Rate Table of Trust Borrowings for Keppel REIT MTN Pte. Ltd., reporting current an
+- [0.77] [million] p65 — This page presents a Debt Maturity Profile table showing the aggregate leverage of 47.9% and total gross borrowings of S
+- [0.71] p38 — no schema-relevant data
+- [0.70] [million] p9 — no schema-relevant data
+- [0.69] [million] p10 — This page presents a timeline diagram detailing Keppel REIT's portfolio evolution from 2006 to December 2025, highlighti
+- [0.65] ['000] p66 — The page presents a **KEY STATISTICS** table detailing Keppel REIT's aggregate leverage (47.9%), interest coverage ratio
+- [0.64] [million] p3 — no schema-relevant data
+- [0.60] ['000] p118 — This page presents the **Balance Sheets** for the SGX REIT as at 31 December 2025 and 2024, reporting GROUP and TRUST fi
+- [0.58] ['000] p41 — This page features the **Asset Distribution by Value (%)** and **Asset Distribution by NLA (%)** tables for Keppel REIT 
+- [0.54] [million] p23 — This page presents an Independent Market Review for Singapore, featuring a main table and chart detailing Net Lettable A
+- [0.50] ['000] p62 — This page presents a DISTRIBUTABLE INCOME BY HALF YEAR table (in SGD'000) alongside narrative details on Keppel REIT's d
+- [0.46] ['000] p32 — This page features the **PERTH CBD RENT AND VACANCY** table detailing prime gross effective rents and vacancy rates from
+- [0.40] ['000] p8 — This page presents the Half-Yearly Results financial table for SGX REIT, reporting distribution to unitholders and prope
+- [0.37] ['000] p166 — This page presents the Statement of Total Return (Profit or Loss) showing Group profit attributable to Unitholders of SG
+- [0.37] ['000] p40 — The page presents the Property Portfolio Statistics table for Keppel REIT as at 31 December 2025, reporting a net lettab
+- [0.35] ['000] p28 — This page presents market analysis for the Sydney CBD and Macquarie Park office sectors, featuring two primary data arti
+- [0.33 OCR] [million] p22 — This page contains the "SINGAPORE ISLANDWIDE FUTURE OFFICE SUPPLY (2026-2028)" table reporting Net Lettable Area in mill
+- [0.32] p42 — This page presents the **Occupancy by Committed NLA (%)** table and chart for Keppel REIT's portfolio as at 31 December 
+- [0.30 OCR] [million] p34 — no schema-relevant data
+- [0.29] ['000] p165 — This page presents the Income Tax Expense reconciliation and Earnings Per Unit (EPS) calculations for SGX REIT, reportin
+- [0.27 OCR] p1 — no schema-relevant data
+- [0.27 OCR] ['000] p29 — This page presents the Independent Market Review for Australia, featuring a Macquarie Park Demand and Supply table track
+- [0.26] ['000] p121 — This page presents the **Distribution Statement** for SGX REIT, detailing income available for distribution to Unitholde
+- [0.25 OCR] ['000] p37 — no schema-relevant data
+- [0.24] ['000] p170 — This page details the Group's capital management framework, reporting gross borrowings of SGD'000 million and an aggrega
+- [0.21 OCR] ['000] p21 — This page presents an independent market review of Singapore's economy and office sector, featuring a main table detaili
+- [0.21 OCR] ['000] p88 — This page details Keppel REIT's water and waste management performance, featuring a Water Withdrawal table showing 2023–
+- [0.16] ['000] p25 — This page presents an Independent Market Review of Singapore CBD Core (Grade A) Office, featuring two tables tracking Ca
+- [0.16] ['000] p155 — This page presents the Borrowings table for SGX REIT, detailing current and non-current debt obligations including bank 
+- [0.16] ['000] p126 — This page presents the **Statement of Total Return** (attributable to unitholders) for the reporting year ended 31 Decem
+
+## properties  — top: p123
+- [1.00] ['000] p123 — This page presents the audited Portfolio Statement (property valuations) as of 31 December 2025, detailing carrying valu
+- [1.00] ['000] p124 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's investment properties as of 31 D
+- [1.00] [million] p44 — This page presents the "Property Portfolio At a Glance" for Singapore, detailing four core assets (Ocean Financial Centr
+- [1.00] ['000] p45 — This page presents an Australia Property Portfolio table detailing five specific assets, including their locations, owne
+- [1.00] ['000] p46 — This page displays a table detailing the acquisition details, ownership interests, and financial highlights for five spe
+- [1.00] ['000] p122 — This page presents the audited Portfolio Statement as at 31 December 2025, detailing carrying values in SGD'000 for inve
+- [0.96] [million] p6 — This page presents Keppel REIT's audited portfolio statement, highlighting a total valuation of approximately $11.7 bill
+- [0.95] ['000] p64 — This page presents the **Attributable NPI by Property (%)** table and a **Statement of Portfolio (property valuations)**
+- [0.87] ['000] p179 — This page presents the SGX REIT portfolio reporting by geographical area for the financial year ended 31 December 2025, 
+- [0.83] ['000] p177 — This page presents the Audited Portfolio Statement for SGX REIT, detailing property income and net property income by in
+- [0.83] ['000] p25 — This page presents an Independent Market Review of Singapore CBD Core (Grade A) Office, featuring two tables tracking Ca
+- [0.68] ['000] p24 — no schema-relevant data
+- [0.64] ['000] p143 — This page presents the audited Portfolio Statement (property valuations) for Keppel REIT, detailing fair value movements
+- [0.61] ['000] p40 — The page presents the Property Portfolio Statistics table for Keppel REIT as at 31 December 2025, reporting a net lettab
+- [0.30] ['000] p62 — This page presents a DISTRIBUTABLE INCOME BY HALF YEAR table (in SGD'000) alongside narrative details on Keppel REIT's d
+- [0.24] ['000] p28 — This page presents market analysis for the Sydney CBD and Macquarie Park office sectors, featuring two primary data arti
+- [0.17] [million] p10 — This page presents a timeline diagram detailing Keppel REIT's portfolio evolution from 2006 to December 2025, highlighti
+
+## top_tenants  — top: p55
+- [0.57] ['000] p55 — The page features a **Statement of Portfolio (property valuations)** for the Top Ryde City Shopping Centre, detailing it
+- [0.51] p43 — This page presents the Top-N tenants table and tenant mix analysis for Keppel REIT's property portfolio as of 31 Decembe
+- [0.23] ['000] p57 — This page presents the Victoria Police Centre, a 40-storey Grade A office tower in Melbourne's CBD fully leased to the M
+
+## trade_mix  — top: p56
+- [0.96] ['000] p56 — This page features a photograph of the 8 Exhibition Street building and presents a **TENANT BUSINESS SECTOR ANALYSIS BY 
+- [0.93] ['000] p58 — This page features a main tenant business sector analysis donut chart and table showing Government agencies comprise 99.
+- [0.92] ['000] p54 — This page presents a property profile and asset-level analytics for Pinnacle Office Park, featuring a Tenant Business Se
+- [0.88] ['000] p52 — This page presents the 8 Chifley Square property profile and key tenant metrics as of 31 December 2025, featuring a Tena
+- [0.86] ['000] p47 — This page details the Ocean Financial Centre property portfolio in Singapore, featuring a tenant business sector analysi
+- [0.85] p60 — This page presents the Property Portfolio Japan for KR Ginza II, featuring a table detailing the tenant business sector 
+- [0.83] ['000] p48 — This page presents the Marina Bay Financial Centre, an integrated development of three Grade A office towers and a mall,
+- [0.83] ['000] p49 — This page details the property portfolio and asset specifics for One Raffles Quay, including its 1.3 million sf Grade A 
+- [0.83] ['000] p51 — This page presents a property profile for 255 George Street in Sydney, featuring an audited portfolio statement of its p
+- [0.82] ['000] p59 — This page details the South Korea portfolio of T Tower, a 28-storey Grade A building in Seoul's CBD, and presents a **Te
+- [0.82] ['000] p53 — This page details the property portfolio and lease profile for 2 Blue Street in Australia, reporting figures as percenta
+- [0.81] ['000] p50 — This page details the Keppel Bay Tower, a Grade A commercial property with 386,000 sf of space located in Singapore's Ha
+- [0.72] ['000] p57 — This page presents the Victoria Police Centre, a 40-storey Grade A office tower in Melbourne's CBD fully leased to the M
+- [0.51] ['000] p33 — no schema-relevant data
+- [0.47] p42 — This page presents the **Occupancy by Committed NLA (%)** table and chart for Keppel REIT's portfolio as at 31 December 
+- [0.45] p43 — This page presents the Top-N tenants table and tenant mix analysis for Keppel REIT's property portfolio as of 31 Decembe
+- [0.44 OCR] [million] p34 — no schema-relevant data
+- [0.42 OCR] [million] p22 — This page contains the "SINGAPORE ISLANDWIDE FUTURE OFFICE SUPPLY (2026-2028)" table reporting Net Lettable Area in mill
+- [0.36] ['000] p32 — This page features the **PERTH CBD RENT AND VACANCY** table detailing prime gross effective rents and vacancy rates from
+- [0.35] ['000] p55 — The page features a **Statement of Portfolio (property valuations)** for the Top Ryde City Shopping Centre, detailing it
+- [0.27 OCR] ['000] p21 — This page presents an independent market review of Singapore's economy and office sector, featuring a main table detaili
+- [0.22] ['000] p24 — no schema-relevant data
+- [0.16] ['000] p28 — This page presents market analysis for the Sydney CBD and Macquarie Park office sectors, featuring two primary data arti
+
+## financial  — top: p120
+- [1.00] ['000] p120 — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2025, rep
+- [1.00] ['000] p157 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 details Notes to the Financial Sta
+- [1.00] ['000] p178 — This page presents a reconciliation table of profit before net change in fair value of investment properties for the SGX
+- [1.00] p138 — no schema-relevant data
+- [1.00] ['000] p153 — This page contains the Derivative Financial Instruments table for both GROUP and TRUST units as of 31 December 2025, det
+- [1.00] ['000] p161 — This page presents the Hedging reserve table within the Reserves section of the SGX REIT annual report for the financial
+- [0.99] p139 — no schema-relevant data
+- [0.99] ['000] p149 — This page contains the audited Trade and Other Receivables table for the Group and Trust, reporting values in SGD'000 fo
+- [0.99] p137 — no schema-relevant data
+- [0.99] ['000] p119 — This page presents the Consolidated Statement of Profit or Loss for the financial year ended 31 December 2025, reporting
+- [0.99] ['000] p163 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes to the Financial Statements, 
+- [0.99] p133 — This page contains the Summary of Material Accounting Policies for the financial year ended 31 December 2025, detailing 
+- [0.99] ['000] p164 — This page of the SGX REIT annual report presents four key financial tables and notes for the year ended 31 December 2025
+- [0.99] ['000] p151 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing derivative financial in
+- [0.99] ['000] p171 — This page contains the "Fair Value of Assets and Liabilities" table detailing the analysis of assets and liabilities mea
+- [0.98] ['000] p147 — This page presents the **Summarised Balance Sheet** and **Summarised Statement of Comprehensive Income** for ORQPL, BFDL
+- [0.98] ['000] p174 — This page details the fair value adjustments for financial assets at fair value through profit or loss related to rental
+- [0.98] ['000] p175 — This page presents the fair value classification of financial assets and liabilities for the SGX REIT group as of 31 Dec
+- [0.98] ['000] p150 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's Cash and Bank Balances, Fixed De
+- [0.98] ['000] p128 — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the financial year ended 31 December 2025, 
+- [0.98] ['000] p63 — This page presents the Financial Review for Keppel REIT, featuring a comprehensive table of financial highlights reporti
+- [0.98] ['000] p162 — This page presents the **Statement of Hedging Activities** for interest rate and foreign exchange risk, detailing fair v
+- [0.97] ['000] p129 — This page presents the Consolidated Statement of Cash Flows reconciling liabilities from financing activities and includ
+- [0.97] ['000] p146 — This page presents the Audited Portfolio Statement (property valuations) for investments in associates and joint venture
+- [0.97] ['000] p172 — This page presents the audited Portfolio Statement for Level 2 fair value measurements of financial assets and liabiliti
+- [0.97] ['000] p152 — This page details the Group's and Trust's hedging instruments used for cash flow hedges against foreign exchange and int
+- [0.96] ['000] p154 — no schema-relevant data
+- [0.96] p135 — no schema-relevant data
+- [0.96] ['000] p160 — This page presents the Non-Controlling Interests table detailing ownership percentages and carrying amounts for Ocean Pr
+- [0.94] p142 — no schema-relevant data
+- [0.94] ['000] p148 — This page presents a table of amounts owing by subsidiaries (non-trade) to the Trust, reporting figures in $'000 for bot
+- [0.92] ['000] p127 — This page presents the **Statements of Movements in Unitholders' Funds** for the financial year ended 31 December 2025, 
+- [0.92] p141 — no schema-relevant data
+- [0.92] ['000] p125 — This page presents the **Statements of Movements in Unitholders' Funds** for the financial year ended 31 December 2025, 
+- [0.91] ['000] p180 — This page presents the audited Portfolio Statement (property valuations) through a table of future minimum rental receiv
+- [0.90] ['000] p131 — no schema-relevant data
+- [0.88] ['000] p173 — This page details Level 3 fair value measurements for investment properties as of 31 December 2025 and 2024, presenting 
+- [0.85] ['000] p176 — This page presents the Trust's Statement of Financial Position (Balance Sheet) with financial assets and liabilities rep
+- [0.82] ['000] p155 — This page presents the Borrowings table for SGX REIT, detailing current and non-current debt obligations including bank 
+- [0.80] ['000] p126 — This page presents the **Statement of Total Return** (attributable to unitholders) for the reporting year ended 31 Decem
+- [0.79 OCR] ['000] p159 — no schema-relevant data
+- [0.72] ['000] p121 — This page presents the **Distribution Statement** for SGX REIT, detailing income available for distribution to Unitholde
+- [0.71 OCR] p117 — no schema-relevant data
+- [0.70] ['000] p165 — This page presents the Income Tax Expense reconciliation and Earnings Per Unit (EPS) calculations for SGX REIT, reportin
+- [0.70 OCR] ['000] p115 — This page presents the Independent Auditor's Report to the Unitholders of Keppel REIT for the financial year ended 31 De
+- [0.68 OCR] p140 — no schema-relevant data
+- [0.66] ['000] p170 — This page details the Group's capital management framework, reporting gross borrowings of SGD'000 million and an aggrega
+- [0.64] ['000] p167 — no schema-relevant data
+- [0.62] p132 — no schema-relevant data
+- [0.61] ['000] p166 — This page presents the Statement of Total Return (Profit or Loss) showing Group profit attributable to Unitholders of SG
+- [0.58] ['000] p8 — This page presents the Half-Yearly Results financial table for SGX REIT, reporting distribution to unitholders and prope
+- [0.55] p136 — no schema-relevant data
+- [0.53 OCR] ['000] p168 — This page presents a table summarizing the Group's and Trust's financial liabilities by maturity profile at the reportin
+- [0.49] p134 — no schema-relevant data
+- [0.42] ['000] p130 — no schema-relevant data
+- [0.36] ['000] p118 — This page presents the **Balance Sheets** for the SGX REIT as at 31 December 2025 and 2024, reporting GROUP and TRUST fi
+- [0.34] ['000] p143 — This page presents the audited Portfolio Statement (property valuations) for Keppel REIT, detailing fair value movements
+- [0.33] p145 — no schema-relevant data
+- [0.31 OCR] ['000] p169 — no schema-relevant data
+- [0.24] ['000] p66 — The page presents a **KEY STATISTICS** table detailing Keppel REIT's aggregate leverage (47.9%), interest coverage ratio
+- [0.24 OCR] p116 — no schema-relevant data
+- [0.20] ['000] p156 — The page presents a detailed Interest Rate Table of Trust Borrowings for Keppel REIT MTN Pte. Ltd., reporting current an
+- [0.15] [million] p65 — This page presents a Debt Maturity Profile table showing the aggregate leverage of 47.9% and total gross borrowings of S

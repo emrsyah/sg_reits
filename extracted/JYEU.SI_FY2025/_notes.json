@@ -1,0 +1,41 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.gla", "reason": "Report discloses Net Lettable Area (NLA), not GLA, per property; GFA disclosed only for the development site."},
+    {"column": "properties.npi_pct", "reason": "Per-property NPI disclosed as absolute S$ (Financial Review p34), not as a percentage of portfolio NPI."},
+    {"column": "properties.trade_mix", "reason": "Per-property trade mix disclosed only for 313@somerset and Jem as donut charts (pp29,31); not captured per-property into the {category:pct} field — portfolio-level trade_mix used instead."}
+  ],
+  "data_with_no_home": [
+    "WALE by GRI = 4.9 years (portfolio); WALE by NLA = 7.2 years used as performance.wale (p25).",
+    "Retail occupancy 99.5% / office occupancy 86.6% (p25); committed portfolio occupancy 92.1% used.",
+    "Units issued at FY-end = 2,446,669,290 (p112); weighted-average units = 2,414,538,000 used as diluted_shares_outstanding (EPU note, p158).",
+    "EUR valuation of Sky Complex = EUR 277.4 million at FX 1.498 (30 Jun 2025); SGD audited carrying value 415,476,000 used (p116/117).",
+    "Total operating expense ratio (incl. all fees) = 3.7% of net assets (p34).",
+    "Tenant sales FY2025 = S$784.2 million; shopper traffic 67.2 million (p26).",
+    "Perpetual securities: issued S$120m, redeemed S$200m during FY2025; closing balance S$319,537k (p115).",
+    "Investment in associates (Parkway Parade via PPP 10%) carrying value S$4,130k (note 7, p112)."
+  ],
+  "parsing_traps": [
+    "FY-end is 30 June (non-December fiscal year). financial_year=2025 = year ended 30 Jun 2025.",
+    "Performance Highlights (p5) and marketing cards quote $m; audited '000 figures from the Statement of Total Return (p113) and Portfolio Statement (p116/117) used.",
+    "Sky Complex tenant 'Sky Italia' is a broadcaster (Comcast affiliate) — disclosed trade label 'Broadcasting'; mapped to IT & Telecommunications.",
+    "Parkway Parade is held via a 10% interest in PPP (equity-accounted associate) and is NOT a row in the audited Portfolio Statement; its absence from the Σ valuation reconciliation is correct, not a miss.",
+    "page numbering: source_page values use the parsed markdown <!-- PAGE N --> index, which is offset ~+2 vs the printed page numbers in the back-of-report sections."
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 206500000,
+    "reported_total_gross_revenue": 206542000,
+    "sum_property_npi": 148800000,
+    "reported_total_npi": 148756000,
+    "note_gr_npi": "Per-property GR/NPI from Financial Review (p34) are in S$ million (rounded to 0.1m): Jem 129.8/94.1, 313@somerset 58.7/40.8, Sky Complex 18.0/13.9. Sums (206.5m GR, 148.8m NPI) tie to audited totals within rounding.",
+    "sum_portfolio_statement_valuation": 3763376000,
+    "reported_portfolio_statement_total": 3763336000,
+    "note_valuation": "Portfolio Statement carrying values ('000 x1000): 313@somerset 1,042,000 + Jem 2,299,000 + Sky Complex 415,476 + dev site 4,900 = 3,761,376; plus IPUD right-of-use asset 1,960 = audited total 3,763,336. The 4 captured rows sum to 3,761,376 + dev site already included; appraised value headline = 3,763,300 (p5). Parkway Parade (10% associate) excluded by design.",
+    "line_items_check": "Sum(revenue 210,473) - Sum(expense 145,202) + Sum(adjustment signed 5,479) = 70,750 (thousands) = income_stmt_metrics.net_income. Verified.",
+    "trade_mix_sum_pct": 100.0
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "Jem", "value": "2109-09-26", "basis": "from disclosed tenure '99-year leasehold commencing 27 September 2010 till 26 September 2109' (card p28)", "source_page": 28},
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "313@somerset", "value": "2105-11-20", "basis": "from disclosed tenure '99-year leasehold commencing 21 November 2006 until 20 November 2105' (card p31)", "source_page": 31},
+    {"table": "properties", "field": "category", "scope": "Jem", "value": "Diversified (Commercial)", "basis": "Jem is a combined retail + office (MND) asset; mapped to Diversified (Commercial) as it spans two physical classes", "source_page": 28}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed in absolute terms; only portfolio NPI (US$80,656k) and per-property gross-revenue/valuation % shares are given (page 18). FY2025 NPI was reported only at portfolio level."},
+    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue disclosed only as % share of portfolio gross revenue (page 18 donut), not as an absolute figure. Portfolio total = US$150,165k."},
+    {"column": "properties.gla", "reason": "Only Net Lettable Area (NLA, sf) is disclosed per property in the At-A-Glance cards (pages 21-22); GLA not separately given."},
+    {"column": "properties.gfa", "reason": "Gross floor area not disclosed; US office discloses NLA in square feet."},
+    {"column": "properties.lease_term_years / effective_date / lease_expiry_date", "reason": "All properties are freehold (fee simple); no land-lease term/expiry exists."}
+  ],
+  "data_with_no_home": [
+    "Per-property gross revenue % share (page 18): Plaza 17.0, Bellevue Tech 8.4, Westpark 14.9, Great Hills 3.3, Westech 360 4.1, Westmoor 10.0, 105 Edgeview 4.5, Bridge Crossing 4.0, 1800 West Loop South 7.2, Bellaire Park 5.6, One Twenty Five 9.8, Maitland 8.6, Iron Point 2.6.",
+    "Portfolio by valuation % (page 18): Plaza 21.7, Bellevue Tech 10.8, Westpark 17.3, Great Hills 3.5, Westech 4.0, Westmoor 7.3, 105 Edgeview 3.8, Bridge Crossing 3.3, 1800 West Loop 5.5, Bellaire 3.9, One Twenty Five 8.6, Maitland 7.4, Iron Point 2.9.",
+    "Adjusted NPI (excl. non-cash straight-line rent/lease incentives/leasing commission amortisation) FY2025 = US$83,652k (page 4 chart) vs audited NPI US$80,656k.",
+    "Number of tenants per property and portfolio total of 395 distinct tenants (page 21-22).",
+    "Total Unitholder return 2025 = 14.6%; closing unit price US$0.235 (31 Dec 2025).",
+    "Income available for distribution US$43,032k; US$40,421k retained, US$2,611k distributed to Unitholders.",
+    "Gross borrowings US$612,720k; 100% unsecured. Investment properties (SFP) US$1,325,370k = portfolio statement total (no IFRS-16 ROU gap)."
+  ],
+  "parsing_traps": [
+    "Financial Highlights (page 6) and audited Statement of Comprehensive Income (page 86) agree: gross revenue 150,165 / NPI 80,656. The page-4 'Adjusted NPI' 83,652 is a non-GAAP figure (excludes non-cash items) - NOT used.",
+    "Net income is a LOSS (-US$4,075k) driven by -US$40,458k investment-property fair-value loss and -US$9,449k derivative fair-value change. income_taxes is a tax CREDIT (+US$1,764k), stored SIGNED as -1,764,000 in income_stmt_metrics.",
+    "DPU 0.25 US cents covers 2H 2025 ONLY (distributions resumed early after suspension from 2H 2023 to 1H 2025 under the Recapitalisation Plan). This is the full-year disclosed DPU.",
+    "WALE 3.8 years is by CRI for the portfolio (page 20 text); the 3.3-year figure in the Top-10 table is the top-10-tenant WALE, not portfolio WALE.",
+    "Weighted average debt maturity 1.5 years (page 41), down from 2.4 years; US$155.0m of loans mature in 2026 (going-concern note, page 92)."
+  ],
+  "inferred": [
+    {"table": "trade_mix", "field": "category", "scope": "Professional Services + Finance and Insurance rows", "value": "Financial & Professional Services", "basis": "Both verbatim raw labels map to the single canonical 'Financial & Professional Services' bucket; kept as two rows with distinct category_raw to preserve the disclosed split (22.6% + 15.0%).", "source_page": 18},
+    {"table": "top_tenants", "field": "industry", "scope": "rank 7 Highridge Medical", "value": "IT & Telecommunications", "basis": "Disclosed sector in the Top-10 table is 'TAMI' (verbatim), mapped to canonical IT & Telecommunications, despite the company being medical - kept as disclosed.", "source_page": 20}
+  ],
+  "reconciliation": {
+    "sum_property_valuation": 1325370000.0,
+    "reported_total_investment_properties": 1325370000.0,
+    "valuation_reconciles": true,
+    "sum_line_items_check": "Σrevenue(150,165) - Σexpense(107,475) + Σadjustment(-46,765) = -4,075k = net_income",
+    "total_revenue_vs_performance_gross_revenue": "150,165k == 150,165k",
+    "gross_income_vs_performance_npi": "80,656k == 80,656k",
+    "trade_mix_sum_pct": 100.0,
+    "property_count": 13,
+    "reported_property_count": 13
+  }
+}

@@ -1,0 +1,183 @@
+[
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "VivoCity",
+    "country": "Singapore", "category": "Retail", "category_raw": "Retail",
+    "address": "1 HarbourFront Walk Singapore", "ownership": 100.0,
+    "market_valuation": 3855000000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 242194000.0, "occupancy_rate": 95.9,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 71 years remaining",
+    "status": "active", "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Mapletree Business City I (MBC I)",
+    "country": "Singapore", "category": "Specialized", "category_raw": "Business Park / Office",
+    "address": "10, 20, 30 Pasir Panjang Road Singapore", "ownership": 100.0,
+    "market_valuation": 2350000000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 131600000.0, "occupancy_rate": 91.0,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 71 years remaining",
+    "status": "active", "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "mTower",
+    "country": "Singapore", "category": "Office", "category_raw": "Office",
+    "address": "460 Alexandra Road Singapore", "ownership": 100.0,
+    "market_valuation": 794000000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 50172000.0, "occupancy_rate": 97.1,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 71 years remaining",
+    "status": "active",
+    "flags": [{"type": "partial_property", "scope": "property_name", "note": "mTower excludes 17th-21st, 33rd and 39th storeys"}],
+    "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Mapletree Anson",
+    "country": "Singapore", "category": "Office", "category_raw": "Office",
+    "address": "60 Anson Road Singapore", "ownership": 100.0,
+    "market_valuation": null, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 12185000.0, "occupancy_rate": null,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 81 years remaining",
+    "status": "divested", "divestment_price": 775000000.0,
+    "flags": [{"type": "divested_partial_data", "scope": "all", "note": "Divested 31 July 2024 for cash consideration of S$775.0m; gross revenue 1 Apr 2024-31 Jul 2024 only (S$12,185k); no valuation at FY-end"}],
+    "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Bank of America HarbourFront (BOAHF)",
+    "country": "Singapore", "category": "Office", "category_raw": "Office",
+    "address": "2 HarbourFront Place Singapore", "ownership": 100.0,
+    "market_valuation": 350000000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 20621000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 71 years remaining",
+    "status": "active", "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Mapletree Business City II (MBC II)",
+    "country": "Singapore", "category": "Specialized", "category_raw": "Business Park / Office",
+    "address": "Part 20, 40, 50, 60, 70, 80 Pasir Panjang Road Singapore", "ownership": 100.0,
+    "market_valuation": 1664000000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 98288000.0, "occupancy_rate": 90.6,
+    "land_tenure": "Leasehold", "lease_term_years": 99.0, "tenure_raw": "Leasehold / 99 years / 71 years remaining (held under Mapletree Business City LLP)",
+    "status": "active", "source_page": 116
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Festival Walk",
+    "country": "Hong Kong SAR", "category": "Retail", "category_raw": "Retail / Office",
+    "address": "No. 80 Tat Chee Avenue, Kowloon Tong, Hong Kong SAR", "ownership": 100.0,
+    "market_valuation": 4086421000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 199754000.0, "occupancy_rate": 96.7,
+    "land_tenure": "Leasehold", "lease_term_years": 54.0, "tenure_raw": "Leasehold / 54 years / 22 years remaining",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Gateway Plaza",
+    "country": "China", "category": "Office", "category_raw": "Office",
+    "address": "No. 18 Xiaguangli, East 3rd Ring Road North, Chaoyang District, Beijing, China", "ownership": 100.0,
+    "market_valuation": 1065081000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 62695000.0, "occupancy_rate": 86.1,
+    "land_tenure": "Leasehold", "lease_term_years": 50.0, "tenure_raw": "Leasehold / 50 years / 28 years remaining (China land use right)",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Sandhill Plaza",
+    "country": "China", "category": "Specialized", "category_raw": "Business Park",
+    "address": "Blocks 1 to 5 and 7 to 9, No. 2290 Zuchongzhi Road, Pudong New District, Shanghai, China", "ownership": 100.0,
+    "market_valuation": 400234000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 20381000.0, "occupancy_rate": 80.8,
+    "land_tenure": "Leasehold", "lease_term_years": 50.0, "tenure_raw": "Leasehold / 50 years / 35 years remaining (China land use right)",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "IXINAL Monzen-nakacho Building (MON)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "5-4, Fukuzumi 2-chome, Koto-ku, Tokyo, Japan", "ownership": 100.0,
+    "market_valuation": 78998000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 4081000.0, "occupancy_rate": 84.6,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Higashi-nihonbashi 1-chome Building (HNB)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "4-6, Higashi-Nihonbashi 1-chome, Chuo-ku, Tokyo, Japan", "ownership": 100.0,
+    "market_valuation": 23808000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 1217000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "TS Ikebukuro Building (TSI)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "63-4, Higashi-Ikebukuro 2-chome, Toshima-ku, Tokyo, Japan", "ownership": 100.0,
+    "market_valuation": 51313000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 2424000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "ABAS Shin-Yokohama Building (ASY)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "6-1, Shin-Yokohama 2-chome, Yokohama City, Kanagawa, Japan", "ownership": 100.0,
+    "market_valuation": 28678000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 1646000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Makuhari Bay Tower (MBT)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "8, Nakase 1-chome, Mihama-ku, Chiba-shi, Chiba, Japan", "ownership": 100.0,
+    "market_valuation": 137075000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 7274000.0, "occupancy_rate": 26.5,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [{"type": "occupancy_drop", "scope": "occupancy_rate", "note": "Converted to multi-tenanted building after 30 June 2024; occupancy fell to 26.5% as at 31 Mar 2025"}],
+    "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Fujitsu Makuhari Building (FJM)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "9-3, Nakase 1-chome, Mihama-ku, Chiba-shi, Chiba, Japan", "ownership": 100.0,
+    "market_valuation": 103708000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 10119000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [{"type": "single_tenant_non_renewal", "scope": "all", "note": "Single tenant gave notice of non-renewal upon lease expiry 31 March 2026; interim valuation taken 30 Sep 2024"}],
+    "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Omori Prime Building (OPB)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "21-12, Minami-oi 6-chome, Shinagawa-ku, Tokyo, Japan", "ownership": 100.0,
+    "market_valuation": 69439000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 3283000.0, "occupancy_rate": 95.2,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 118
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "mBAY POINT Makuhari (MBP)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "6, Nakase 1-chome, Mihama-ku, Chiba-shi, Chiba, Japan", "ownership": 100.0,
+    "market_valuation": 299401000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 25747000.0, "occupancy_rate": 72.9,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 120
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "Hewlett-Packard Japan Headquarters Building (HPB)",
+    "country": "Japan", "category": "Office", "category_raw": "Office",
+    "address": "2-1, Ojima 2-chome, Koto-ku, Tokyo, Japan", "ownership": 100.0,
+    "market_valuation": 371546000.0, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": 15160000.0, "occupancy_rate": 100.0,
+    "land_tenure": "Freehold", "lease_term_years": null, "tenure_raw": "Freehold",
+    "status": "active", "source_page": 120
+  },
+  {
+    "symbol": "N2IU.SI", "financial_year": 2025, "property_name": "The Pinnacle Gangnam",
+    "country": "South Korea", "category": "Office", "category_raw": "Office",
+    "address": "Gangnam, Seoul, South Korea", "ownership": 50.0,
+    "market_valuation": null, "valuation_date": "2025-03-31", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": null,
+    "land_tenure": null, "lease_term_years": null, "tenure_raw": null,
+    "status": "active",
+    "flags": [{"type": "equity_accounted_jv", "scope": "all", "note": "Held via 50% effective interest as a joint venture; equity-accounted (Investment in a joint venture S$110,874k book value), NOT a row in the audited Portfolio Statement. MPACT shares profit after tax based on its 50% effective interest. Gross revenue/NPI/valuation not disclosed in the Portfolio Statement."}],
+    "source_page": 22
+  }
+]

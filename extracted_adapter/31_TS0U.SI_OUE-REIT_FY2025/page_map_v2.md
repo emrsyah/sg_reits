@@ -1,0 +1,193 @@
+# Page map v2 (classify) — 31_TS0U.SI_OUE-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p5  · audited('000): p175
+- [1.00] p5 — no schema-relevant data
+- [1.00] p30 — no schema-relevant data
+- [1.00] p180 — no schema-relevant data
+- [1.00] [million] p4 — no schema-relevant data
+- [1.00] p78 — no schema-relevant data
+- [1.00] p100 — no schema-relevant data
+- [1.00] p31 — no schema-relevant data
+- [0.97] p101 — no schema-relevant data
+- [0.97] ['000] p175 — no schema-relevant data
+- [0.97] p85 — no schema-relevant data
+- [0.96] p26 — no schema-relevant data
+- [0.95] p28 — no schema-relevant data
+- [0.94] p88 — no schema-relevant data
+- [0.93] p29 — no schema-relevant data
+- [0.91] p83 — no schema-relevant data
+- [0.89] ['000] p89 — This page details the remuneration framework for executive directors and key executives of the Manager, specifically hig
+- [0.87] ['000] p80 — This page presents a corporate governance overview of OUE REIT, including the Board's fiduciary duties, Code of Business
+- [0.85] p82 — no schema-relevant data
+- [0.85] p67 — no schema-relevant data
+- [0.83] ['000] p97 — no schema-relevant data
+- [0.83] p182 — no schema-relevant data
+- [0.82] ['000] p176 — This page details Interested Person and Interested Party Transactions for OUE REIT during FY 2025, presenting a table of
+- [0.78] p96 — no schema-relevant data
+- [0.76] p86 — no schema-relevant data
+- [0.75] p92 — no schema-relevant data
+- [0.75] p103 — no schema-relevant data
+- [0.74] p123 — no schema-relevant data
+- [0.73 OCR] ['000] p74 — no schema-relevant data
+- [0.71] p87 — no schema-relevant data
+- [0.70 OCR] p13 — no schema-relevant data
+- [0.70] p98 — no schema-relevant data
+- [0.70 OCR] ['000] p66 — no schema-relevant data
+- [0.65] [million] p79 — no schema-relevant data
+- [0.65] p27 — no schema-relevant data
+- [0.62] p84 — This page details the OUE REIT Board's diversity metrics, skillsets, and experience composition as of 31 December 2025. 
+- [0.59] p81 — no schema-relevant data
+- [0.59] p71 — no schema-relevant data
+- [0.54] ['000] p122 — This page presents general notes to the financial statements for OUE Real Estate Investment Trust (SGD'000) year ended 3
+- [0.50] ['000] p90 — no schema-relevant data
+- [0.38 OCR] p94 — This page details the Audit and Risk Committee's (ARC) governance duties regarding internal and external audit independe
+- [0.29 OCR] p2 — This page contains the Glossary of terms and a Table of Contents listing the SGX REIT annual report's structure. No sche
+- [0.29] ['000] p95 — no schema-relevant data
+- [0.19 OCR] p104 — no schema-relevant data
+- [0.16 OCR] p51 — no schema-relevant data
+- [0.15] p3 — no schema-relevant data
+
+## performance  — top: p177
+- [1.00] ['000] p177 — This page presents the **Statistics of Unitholdings** for SGX REIT as of 2 March 2026, detailing a total of 5,524,616,95
+- [1.00] p178 — This page presents the Substantial Unitholders' Interests as at 2 March 2026, detailing Clifford Development Pte. Ltd. (
+- [1.00] [million] p68 — This page presents the Unit Price Performance and Trading Volume metrics for QUE REIT, featuring a table of 2025 annual 
+- [0.99] [million] p17 — This page of the OUE REIT 2025 annual report provides a narrative overview of financial performance and strategic capita
+- [0.99] p179 — no schema-relevant data
+- [0.99] [million] p7 — This page presents financial highlights for the SGX REIT, featuring four main tables and charts reporting Revenue (S$ mi
+- [0.98] ['000] p153 — This page presents the **Earnings per Unit (Diluted)** calculation for the SGX REIT reporting unit, detailing total retu
+- [0.97] ['000] p108 — This page presents the Distribution Statements for SGX REIT, detailing the Group and Trust amounts available for distrib
+- [0.96] [million] p38 — This page presents the **Hospitality Segment** portfolio review for FY 2025, reporting revenue of S$99.7 million and NPI
+- [0.94] p8 — no schema-relevant data
+- [0.93] p19 — no schema-relevant data
+- [0.90] [million] p41 — This page presents OUE REIT's Prudent Capital Structure and Debt Maturity Profile as at 31 December 2025, featuring a **
+- [0.87] ['000] p106 — This page presents the Statements of Financial Position for SGX REIT as at 31 December 2025, reporting Group and Trust u
+- [0.85] ['000] p64 — This page presents independent market reviews for Singapore's hotel sector, featuring two primary data artifacts: a tabl
+- [0.84] ['000] p57 — This page presents three market analysis charts sourced from CBRE Singapore for 4Q 2025: Core CBD Office Supply and Dema
+- [0.83] ['000] p36 — This page presents the Portfolio Review for OUE REIT's Singapore office and retail assets, featuring a table of Singapor
+- [0.72] ['000] p149 — This page presents the **Net asset value per Unit** table for both the Group and Trust alongside a detailed **Statement 
+- [0.71] ['000] p113 — This page presents the Statement of Total Return for SGX REIT, detailing the net increase in net assets attributable to 
+- [0.70] ['000] p32 — This page presents OUE REIT's FY 2025 financial highlights, featuring a main table of key metrics reported in SGD'000 th
+- [0.63] [million] p40 — This page details OUE REIT's capital management strategy and funding structure as of 31 December 2025, featuring a Debt 
+- [0.60] p3 — no schema-relevant data
+- [0.57] ['000] p9 — This page presents SGX REIT annual report highlights including the main Asset Value By Property table, which details pro
+- [0.53 OCR] ['000] p20 — no schema-relevant data
+- [0.41] [million] p61 — The page presents the **Orchard Road Supply and Demand table** (and a corresponding chart) detailing Net Lettable Area, 
+- [0.30] [million] p63 — This page presents SG$ psf pm rental values for Prime Orchard Road and Prime Other City/City Fringe, alongside Grade A (
+- [0.29] ['000] p112 — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 December 2025, reporting net 
+- [0.26] [million] p35 — This page presents the Commercial Segment Lease Expiry Profile table, detailing the percentage of Gross Rental Income (G
+- [0.18 OCR] ['000] p56 — no schema-relevant data
+- [0.18] [million] p33 — This page presents the audited Portfolio Statement and trade/tenant mix for QUE REIT as of 31 December 2025, reporting t
+- [0.17 OCR] p1 — no schema-relevant data
+- [0.16] ['000] p111 — This page presents the **Statement of Changes in Equity** for SGX REIT, reporting net assets attributable to owners and 
+- [0.16 OCR] p2 — This page contains the Glossary of terms and a Table of Contents listing the SGX REIT annual report's structure. No sche
+
+## properties  — top: p14  · audited('000): p116
+- [1.00] [million] p14 — This page presents the "PROPERTIES AT A GLANCE" table detailing the OUE Bayfront, One Raffles Place, and OUE Downtown Of
+- [1.00] [million] p15 — This page of the SGX REIT annual report presents a portfolio summary featuring Mandarin Gallery, Hilton Singapore Orchar
+- [1.00] p114 — This page presents the audited Portfolio Statement detailing SGX REIT's property valuations as of 31 December 2025, spec
+- [1.00] ['000] p116 — This page presents the audited Portfolio Statement listing three investment properties (Crowne Plaza Changi Airport, Hil
+- [0.99] ['000] p134 — This page of the SGX REIT annual report (Year ended 31 December 2025) presents an audited Portfolio Statement detailing 
+- [0.99] ['000] p118 — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2025, detailing investment pro
+- [0.98] ['000] p119 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing carrying values and per
+- [0.98] [million] p50 — This page presents a portfolio overview for Hilton Singapore Orchard, featuring a table of key financial and asset metri
+- [0.97] [million] p52 — This page presents a portfolio overview for the Crowne Plaza Changi Airport asset, featuring a table of financial highli
+- [0.96] ['000] p117 — This page presents the Audited Portfolio Statement (property valuations) for SGX REIT as at 31/12/2025, detailing carryi
+- [0.79] ['000] p115 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing carrying values and per
+- [0.56] [million] p63 — This page presents SG$ psf pm rental values for Prime Orchard Road and Prime Other City/City Fringe, alongside Grade A (
+- [0.35] ['000] p9 — This page presents SGX REIT annual report highlights including the main Asset Value By Property table, which details pro
+- [0.33 OCR] p47 — no schema-relevant data
+- [0.31] p42 — This page presents the portfolio overview for OUE Bayfront, a landmark commercial development divested to OUE Allianz Ba
+- [0.28] ['000] p135 — This page presents the Group's valuation techniques and significant unobservable inputs for investment properties, detai
+- [0.23] p102 — This page presents the Independent Auditors' Report on OUE Real Estate Investment Trust's financial statements for the y
+- [0.23] [million] p33 — This page presents the audited Portfolio Statement and trade/tenant mix for QUE REIT as of 31 December 2025, reporting t
+- [0.20 OCR] p49 — no schema-relevant data
+- [0.18] ['000] p44 — This page presents the Portfolio Overview for One Raffles Place, featuring a table of key metrics including FY 2025 Reve
+
+## top_tenants  — top: p34
+- [0.60] p34 — This page of the SGX REIT annual report presents the Tenant Trade Sectors by Gross Rental Income and Top 10 Tenants tabl
+
+## trade_mix  — top: p48  · audited('000): p44
+- [0.93] [million] p48 — This page presents the Portfolio Overview for Mandarin Gallery, featuring a table detailing key metrics including FY 202
+- [0.88] p39 — This page presents the Hospitality Portfolio Customer Profile by Geography and Type, displaying a pie chart and correspo
+- [0.85] p46 — This page presents the portfolio overview for QUE Downtown Office, a Grade A property in Singapore's business district, 
+- [0.81] ['000] p44 — This page presents the Portfolio Overview for One Raffles Place, featuring a table of key metrics including FY 2025 Reve
+- [0.66] p42 — This page presents the portfolio overview for OUE Bayfront, a landmark commercial development divested to OUE Allianz Ba
+- [0.54] [million] p33 — This page presents the audited Portfolio Statement and trade/tenant mix for QUE REIT as of 31 December 2025, reporting t
+- [0.54 OCR] p49 — no schema-relevant data
+- [0.43] [million] p35 — This page presents the Commercial Segment Lease Expiry Profile table, detailing the percentage of Gross Rental Income (G
+- [0.36] p34 — This page of the SGX REIT annual report presents the Tenant Trade Sectors by Gross Rental Income and Top 10 Tenants tabl
+- [0.32] [million] p61 — The page presents the **Orchard Road Supply and Demand table** (and a corresponding chart) detailing Net Lettable Area, 
+- [0.21 OCR] [million] p55 — This page presents an overview of the office market, featuring a table and chart detailing projected island-wide future 
+- [0.20 OCR] ['000] p60 — This page presents an independent market review from CBRE Singapore detailing future retail supply projections for 2026–
+- [0.20] ['000] p115 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing carrying values and per
+- [0.17 OCR] ['000] p58 — no schema-relevant data
+
+## financial  — top: p146
+- [1.00] ['000] p146 — This page presents the audited Trade and other payables statement (Group and Trust) for the year ended 31 December 2025,
+- [1.00] ['000] p150 — This page presents the audited financial notes for SGX REIT covering property operating expenses, manager's management f
+- [1.00] ['000] p151 — This page presents SGX REIT financial tables for the Group and Trust reporting units, detailing net finance costs, total
+- [1.00] ['000] p109 — This page presents the SG$'000 Distribution adjustments and Amount to be distributed to Unitholders tables for the Group
+- [0.99] ['000] p154 — This page presents the audited Portfolio Statement (property valuations) and operating segment data for SGX REIT's repor
+- [0.99] ['000] p164 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing hedge accounting 
+- [0.99] ['000] p145 — no schema-relevant data
+- [0.99] ['000] p170 — This page presents the Accounting classifications and fair values for financial instruments, specifically detailing carr
+- [0.99] ['000] p107 — This page presents the Group and Trust Statements of Total Return for the year ended 31 December 2025, reporting revenue
+- [0.99] ['000] p121 — This page presents the Group's Statement of Cash Flows for the years ended 31 December 2025 and 2024, reporting a net (d
+- [0.99] ['000] p138 — This page presents the audited Portfolio Statement for OUE Allianz Bayfront LLP (a joint venture) and a table of Financi
+- [0.99] ['000] p140 — no schema-relevant data
+- [0.99] ['000] p168 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a financial instruments table in SG
+- [0.99] p132 — This page contains the accounting policies for finance income, costs, and income tax within the Notes to the Financial S
+- [0.99] ['000] p142 — This page presents the **Loans and borrowings** table for the SGX REIT Group and Trust, detailing nominal interest rates
+- [0.99] ['000] p144 — This page presents the reconciliation of movements of liabilities to cash flows arising from financing activities for SG
+- [0.99] ['000] p141 — This page presents the allowance movement for trade receivables and details loans to a subsidiary, with no audited Portf
+- [0.99] ['000] p173 — This page details lease accounting for SGX REIT under FRS 116, presenting amounts recognized in the Statement of Total R
+- [0.99] ['000] p155 — This page presents the Geographical information and reportable segment details for Singapore and China, led by a table r
+- [0.99] ['000] p167 — This page presents the fair value hierarchy for financial assets and liabilities, displaying carrying amounts in SGD'000
+- [0.98] ['000] p147 — This page presents a table detailing the movements in deferred tax liabilities for investment properties, plant and equi
+- [0.98] ['000] p169 — This page of the SGX REIT annual report presents a table titled "Accounting classifications and fair values (cont'd)" de
+- [0.98] ['000] p139 — no schema-relevant data
+- [0.98] ['000] p128 — This page of the SGX REIT annual report contains accounting policy notes regarding financial instruments, specifically d
+- [0.97] ['000] p163 — This page contains a table detailing the amounts at the reporting date relating to items designated as hedged items for 
+- [0.97] p131 — This page details accounting policies for convertible perpetual preferred units, revenue recognition methods (rental, se
+- [0.96] ['000] p165 — This page presents the reconciliation of Group and Trust hedging reserves arising from cash flow hedges for 2025 and 202
+- [0.96] ['000] p162 — This page presents the Group and Trust interest rate swap instruments used for cash flow hedge accounting as of 31 Decem
+- [0.95] p130 — This page contains no schema-relevant data, as it presents only accounting policy notes regarding cash flow hedges, asse
+- [0.95] ['000] p152 — This page contains a reconciliation of the effective tax rate and earnings per unit calculations for the Group and Trust
+- [0.94] ['000] p120 — This page presents the **Consolidated Statement of Cash Flows** for SGX REIT for the year ended 31 December 2025, report
+- [0.94] ['000] p158 — This page presents the Group's remaining contractual maturities of financial liabilities, including estimated interest p
+- [0.94] ['000] p174 — This page presents the Related Party Transactions table (Section 28) detailing fees and expenditures between the Group/T
+- [0.94] ['000] p110 — This page presents the **Statements of Movements in Unitholders' Funds** for SGX REIT (SGD'000) for the year ended 31 De
+- [0.93] ['000] p137 — This page presents financial data for subsidiaries and joint ventures, featuring a Statement of Portfolio (property valu
+- [0.93] ['000] p133 — This page presents a table of Investment properties (Group and Trust) for the years 2025 and 2024, reporting figures in 
+- [0.91] ['000] p143 — no schema-relevant data
+- [0.91] ['000] p124 — no schema-relevant data
+- [0.91] p129 — no schema-relevant data
+- [0.90] ['000] p166 — This page presents the Group's and Trust's foreign currency exposure table reporting cash equivalents in USD, RMB, and S
+- [0.89] ['000] p172 — This page of the SGX REIT annual report contains a sensitivity analysis table for Interest Coverage Ratio (ICR) and a co
+- [0.89] p125 — no schema-relevant data
+- [0.89] p171 — This page details the valuation techniques for financial instruments measured at fair value and those not measured at fa
+- [0.83] p127 — no schema-relevant data
+- [0.83] ['000] p111 — This page presents the **Statement of Changes in Equity** for SGX REIT, reporting net assets attributable to owners and 
+- [0.82] ['000] p136 — This page details the movement in the allowance for impairment loss on investments in subsidiaries and lists their princ
+- [0.81] ['000] p148 — This page details the issuance of Units in issue and to be issued, reporting 5,524,617 total units (comprising 5,519,345
+- [0.78] ['000] p160 — This page of the SGX REIT annual report for the year ended 31 December 2025 details market risk management, specifically
+- [0.77] p126 — This page outlines the Group's accounting policies for subsidiaries, joint ventures, and investment properties within th
+- [0.69] ['000] p112 — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 December 2025, reporting net 
+- [0.67] ['000] p105 — This page presents the **Statements of Financial Position** for the SGX REIT Group and Trust as at 31 December 2025, rep
+- [0.61] ['000] p95 — no schema-relevant data
+- [0.60] ['000] p161 — This page presents a sensitivity analysis table detailing the impact of a 50 basis point change in interest rates on tot
+- [0.59] ['000] p135 — This page presents the Group's valuation techniques and significant unobservable inputs for investment properties, detai
+- [0.58] ['000] p157 — no schema-relevant data
+- [0.55 OCR] p156 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a qualitative description of the Gr
+- [0.52 OCR] ['000] p159 — This page presents the Trust's Liquidity Risk table detailing the Group's and Trust's non-derivative financial liabiliti
+- [0.42] ['000] p122 — This page presents general notes to the financial statements for OUE Real Estate Investment Trust (SGD'000) year ended 3
+- [0.40] p99 — This page contains the table of contents for the SGX REIT annual report, listing 10 financial statements and notes acros
+- [0.30] p102 — This page presents the Independent Auditors' Report on OUE Real Estate Investment Trust's financial statements for the y
+- [0.29] ['000] p32 — This page presents OUE REIT's FY 2025 financial highlights, featuring a main table of key metrics reported in SGD'000 th
+- [0.27] ['000] p149 — This page presents the **Net asset value per Unit** table for both the Group and Trust alongside a detailed **Statement 
+- [0.26] ['000] p113 — This page presents the Statement of Total Return for SGX REIT, detailing the net increase in net assets attributable to 
+- [0.24] p123 — no schema-relevant data
+- [0.18] [million] p35 — This page presents the Commercial Segment Lease Expiry Profile table, detailing the percentage of Gross Rental Income (G

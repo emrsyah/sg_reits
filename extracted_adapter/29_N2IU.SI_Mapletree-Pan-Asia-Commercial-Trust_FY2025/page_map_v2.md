@@ -1,0 +1,223 @@
+# Page map v2 (classify) — 29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p22  · audited('000): p77
+- [1.00] p22 — This page details the MPACT trust structure through a diagram and text, explicitly naming Manager MPACT Management Ltd.,
+- [1.00] p187 — no schema-relevant data
+- [1.00] p23 — no schema-relevant data
+- [1.00] p24 — no schema-relevant data
+- [1.00] p29 — no schema-relevant data
+- [1.00] p188 — no schema-relevant data
+- [1.00] p31 — no schema-relevant data
+- [1.00] p70 — no schema-relevant data
+- [1.00] p71 — no schema-relevant data
+- [1.00] p30 — no schema-relevant data
+- [1.00] p100 — no schema-relevant data
+- [1.00] p28 — no schema-relevant data
+- [0.99] p27 — no schema-relevant data
+- [0.99] ['000] p77 — no schema-relevant data
+- [0.99] p25 — no schema-relevant data
+- [0.99] p26 — no schema-relevant data
+- [0.99] p78 — no schema-relevant data
+- [0.98] p81 — no schema-relevant data
+- [0.98] p79 — no schema-relevant data
+- [0.98] ['000] p76 — no schema-relevant data
+- [0.98] p73 — no schema-relevant data
+- [0.98] [million] p2 — no schema-relevant data
+- [0.96] p72 — no schema-relevant data
+- [0.95] p75 — no schema-relevant data
+- [0.95 OCR] ['000] p86 — no schema-relevant data
+- [0.94] p84 — no schema-relevant data
+- [0.94 OCR] p95 — no schema-relevant data
+- [0.94] ['000] p82 — This page details the Directors' Remuneration policy and FY24/25 fee framework for the Manager in SGD, presenting a tabl
+- [0.94] ['000] p98 — This page details the Investor Relations activities and Financial Results and Distributions Calendar for SGX REIT MPACT 
+- [0.93 OCR] ['000] p89 — no schema-relevant data
+- [0.93] p101 — no schema-relevant data
+- [0.88] ['000] p87 — no schema-relevant data
+- [0.85] p80 — no schema-relevant data
+- [0.84] ['000] p151 — This page presents the audited Portfolio Statement (subsidiary valuations) listing significant subsidiaries of Mapletree
+- [0.83] p88 — no schema-relevant data
+- [0.83] p90 — no schema-relevant data
+- [0.83] p91 — no schema-relevant data
+- [0.83] p104 — no schema-relevant data
+- [0.72 OCR] p83 — no schema-relevant data
+- [0.59] p74 — no schema-relevant data
+- [0.59 OCR] p94 — no schema-relevant data
+- [0.59 OCR] p32 — no schema-relevant data
+- [0.59] ['000] p85 — no schema-relevant data
+- [0.59] p14 — This page contains the Letter to Unitholders from the Chairman and CEO of MPACT, detailing strategic divestments, debt r
+- [0.57] ['000] p122 — no schema-relevant data
+- [0.55] p92 — no schema-relevant data
+- [0.53 OCR] p97 — no schema-relevant data
+- [0.52] p105 — no schema-relevant data
+- [0.38] ['000] p184 — This page details Manager's Management Fees Paid and Payable in Units for the financial year ended 31 March 2025, presen
+- [0.33] ['000] p160 — This page contains the Units in Issue table for SGX REIT MPACT, reporting unit counts in '000s alongside notes on non-ca
+- [0.32 OCR] p19 — no schema-relevant data
+- [0.23] ['000] p183 — This page details Interested Person Transactions for the financial year ended 31 March 2025, reporting aggregate values 
+- [0.21 OCR] p106 — no schema-relevant data
+- [0.18] p124 — no schema-relevant data
+- [0.15] p182 — no schema-relevant data
+
+## performance  — top: p185
+- [1.00] ['000] p185 — This page presents the Statistics of Unitholdings for SGX REIT as at 30 May 2025, reporting issued and fully paid units 
+- [1.00] [million] p5 — This page presents the Long-Term Total Returns (173.4%) and Selected Balance Sheet Details for SGX REIT, reporting figur
+- [1.00] [million] p6 — This page presents performance highlights for Mapletree Anson's Singapore portfolio, featuring a table of financial metr
+- [1.00] [million] p40 — This page presents MPACT's Unit Price Performance and Trading Performance for FY24/25, featuring a monthly table of trad
+- [1.00] ['000] p186 — This page presents the **Substantial Unitholdings as at 30 May 2025** for SGX REIT, detailing direct and deemed interest
+- [0.99] [million] p4 — This page presents the SGX REIT Financial Highlights in S$ million, featuring four main tables detailing Gross Revenue (
+- [0.99] [million] p21 — no schema-relevant data
+- [0.99] ['000] p110 — This page presents the Distribution Statements for the SGX REIT Group and MPACT for the financial year ended 31 March 20
+- [0.92] [million] p10 — This page presents the SGX REIT's audited Portfolio Statement, highlighting a diversified portfolio of 17 commercial ass
+- [0.91] [million] p38 — This page presents a Debt Maturity Profile and Debt Mix analysis for the SGX REIT, featuring tables detailing Gross Debt
+- [0.87] ['000] p141 — This page presents the audited Portfolio Statement for earnings per unit (EPU) and cash balances, reporting figures in S
+- [0.80] ['000] p121 — This page presents a financial summary table for the SGX REIT reporting unit in SGD'000, detailing Gross Revenue of $9,3
+- [0.80] ['000] p109 — This page presents the Statements of Financial Position for SGX REIT as at 31 March 2025 and 2024, reporting assets, lia
+- [0.79] ['000] p52 — This page details VivoCity's operational performance for FY24/25, featuring a table of Breakdown of Shopper Traffic by Q
+- [0.78] [million] p15 — This page details the FY24/25 financial performance of Mapletree Asia Capital Trust (MPACT), reporting a total return of
+- [0.78] [million] p37 — This page presents the Key Financial Metrics and Indicators table detailing MPACT's capital management status as at 31 M
+- [0.67 OCR] ['000] p7 — no schema-relevant data
+- [0.67] [million] p35 — This page presents the DPU breakdown table for FY24/25 and a Net Assets Attributable to Unitholders statement (in S$ mil
+- [0.66] ['000] p60 — This page presents a **Shopper Traffic** table for FY23/24 (30.0 million) and FY24/25 (31.7 million), alongside a **Tena
+- [0.61] ['000] p20 — no schema-relevant data
+- [0.60] ['000] p43 — This page details MPACT's FY24/25 lease renewals and relettings, reporting 386 committed leases totaling over 2.0 millio
+- [0.56 OCR] [million] p39 — This page presents financial highlights on MPACT's debt composition and hedging strategies, featuring a table showing S$
+- [0.53 OCR] ['000] p16 — no schema-relevant data
+- [0.52] [million] p18 — no schema-relevant data
+- [0.51] ['000] p117 — This page presents a table detailing gross revenue (reported in $'000), occupancy rates (%), and property valuations ($'
+- [0.43] [million] p50 — This page presents a **gross revenue** and **property-expense note** for the VivoCity property, reporting S$242.2 millio
+- [0.42] [million] p42 — This page presents the Operations Review for MPACT, featuring a **Contribution to Gross Revenue** table (S$ million) and
+- [0.26] [million] p41 — This Operations Review page details Singapore's portfolio performance and the completed divestment of Mapletree Anson, r
+- [0.22] [million] p34 — This page presents the **Statement of Total Return** (Profit or Loss) and financial highlights for SGX REIT MPACT, repor
+- [0.21 OCR] p1 — no schema-relevant data
+- [0.20] ['000] p160 — This page contains the Units in Issue table for SGX REIT MPACT, reporting unit counts in '000s alongside notes on non-ca
+- [0.20] [million] p54 — This page presents the audited Portfolio Statement for Mapletree Business City (MBC) in Singapore, explicitly naming gro
+- [0.18] [million] p58 — This page presents a Property Details table for the Festival Walk asset in Hong Kong, reporting Gross Revenue of HKD 1,1
+- [0.17 OCR] p67 — no schema-relevant data
+- [0.17] ['000] p173 — This page presents the Financial Risk Management section detailing capital risk limits and compliance, featuring a table
+
+## properties  — top: p48  · audited('000): p47
+- [1.00] [million] p48 — This page presents a detailed property-level table titled "Properties at a Glance" for the Japan portfolio, listing four
+- [1.00] p118 — This page presents the audited Portfolio Statement for MNACT Group as of 31 March 2025, listing nine investment properti
+- [1.00] [million] p46 — This page presents the **Properties at a Glance** table detailing asset metrics for four Singapore properties (VivoCity,
+- [1.00] ['000] p47 — no schema-relevant data
+- [1.00] p116 — This page presents the **audited Portfolio Statement** for SGX REIT as of 31 March 2025, detailing investment properties
+- [1.00] [million] p120 — This page presents the **Audited Portfolio Statement** detailing investment properties held under MNACT Group as at 31 M
+- [1.00] ['000] p36 — This page presents the audited Portfolio Statement (property valuations) for MPACT as of 31 March 2025, reporting total 
+- [0.99] p11 — no schema-relevant data
+- [0.98] p49 — This page presents a portfolio statement of the REIT's assets, displaying a table that lists five properties (Higashi-ni
+- [0.91] [million] p62 — This page presents a GROSS REVENUE table for China properties showing RMB 447.9M (S$83.1M) and NET PROPERTY INCOME of RM
+- [0.89] ['000] p119 — This page presents a table detailing gross revenue, occupancy rates, and property valuations (at valuation) for the SGX 
+- [0.89] ['000] p56 — This page of the SGX REIT annual report presents property details for Singapore, featuring a **gross revenue** table sho
+- [0.84] [million] p17 — This page presents a narrative analysis of overseas property performance and states that MPACT's portfolio valuation was
+- [0.81] [million] p58 — This page presents a Property Details table for the Festival Walk asset in Hong Kong, reporting Gross Revenue of HKD 1,1
+- [0.78] [million] p54 — This page presents the audited Portfolio Statement for Mapletree Business City (MBC) in Singapore, explicitly naming gro
+- [0.70] [million] p41 — This Operations Review page details Singapore's portfolio performance and the completed divestment of Mapletree Anson, r
+- [0.64] ['000] p179 — This page presents the SGX REIT segment reporting table detailing total assets, liabilities, and additions to investment
+- [0.56] [million] p50 — This page presents a **gross revenue** and **property-expense note** for the VivoCity property, reporting S$242.2 millio
+- [0.47] ['000] p181 — This page of the SGX REIT annual report for the financial year ended 31 March 2025 contains a Segment Reporting table (S
+- [0.45] ['000] p117 — This page presents a table detailing gross revenue (reported in $'000), occupancy rates (%), and property valuations ($'
+- [0.44 OCR] p12 — no schema-relevant data
+- [0.42] ['000] p148 — no schema-relevant data
+- [0.37] [million] p42 — This page presents the Operations Review for MPACT, featuring a **Contribution to Gross Revenue** table (S$ million) and
+- [0.31] p147 — This page details the fair value hierarchy and valuation techniques for investment properties classified as Level 3, inc
+- [0.22] [million] p65 — This page details the financial and operational performance of The Pinnacle Gangnam in South Korea, presenting Gross Rev
+- [0.20] p103 — This page contains the Independent Auditor's Report and Key Audit Matters table for Mapletree Pan Asia Commercial Trust,
+- [0.16] ['000] p109 — This page presents the Statements of Financial Position for SGX REIT as at 31 March 2025 and 2024, reporting assets, lia
+
+## top_tenants  — top: p45
+- [0.60] p45 — This page presents the Top Ten Tenants by GRI and Trade Mix by GRI tables for Mapletree Global REIT (SGX) as of 31 March
+
+## trade_mix  — top: p63  · audited('000): p51
+- [0.99] p63 — This page details the above-market occupancy performance and asset management strategies for Gateway Plaza in Beijing an
+- [0.96] [million] p57 — This page presents the Lease Expiry Profile by GRI, detailing lease expirations and counts for FY25/26 through FY29/30 &
+- [0.95] p59 — This page presents the Lease Expiry Profile and Trade Mix by GRI for Festival Walk, detailing lease percentages across f
+- [0.94] ['000] p51 — This page details VivoCity's FY24/25 active transformation initiatives, including Basement 2 upgrades and a Level 1 taxi
+- [0.94] [million] p55 — This page features a **Lease Expiry Profile by GRI** table detailing lease percentages and counts from FY25/26 to FY29/3
+- [0.91] [million] p64 — This page presents the Japan property portfolio details, featuring a Gross Revenue table showing JPY 8,086.3M (S$71.0M) 
+- [0.76] [million] p65 — This page details the financial and operational performance of The Pinnacle Gangnam in South Korea, presenting Gross Rev
+- [0.66] p44 — This page presents a **Lease Expiry Profile as a % of Monthly GRI** table detailing forecasted lease expiries for Retail
+- [0.63] ['000] p8 — This page outlines MPACT's strategy, vision, mission, and competitive advantages through a breakdown of Assets under Man
+- [0.36] p45 — This page presents the Top Ten Tenants by GRI and Trade Mix by GRI tables for Mapletree Global REIT (SGX) as of 31 March
+- [0.32] ['000] p43 — This page details MPACT's FY24/25 lease renewals and relettings, reporting 386 committed leases totaling over 2.0 millio
+- [0.15] [million] p42 — This page presents the Operations Review for MPACT, featuring a **Contribution to Gross Revenue** table (S$ million) and
+- [0.15 OCR] ['000] p16 — no schema-relevant data
+
+## financial  — top: p139
+- [1.00] ['000] p139 — This page of the SGX REIT annual report for the financial year ended 31 March 2025 presents Notes 7 and 8 regarding the 
+- [1.00] ['000] p140 — This page contains audited financial notes for the income tax section of SGX REIT's annual report for the year ended 31 
+- [1.00] ['000] p108 — This page presents the Group's Statement of Comprehensive Income for the financial year ended 31 March 2025, reporting t
+- [1.00] ['000] p138 — This page presents the audited Finance Expenses and Other Trust Expenses for the Group and MPACT, reporting figures in S
+- [1.00] ['000] p159 — This page contains the Notes to the Financial Statements for SGX REIT covering the financial year ended 31 March 2025, f
+- [1.00] ['000] p162 — no schema-relevant data
+- [1.00] p126 — no schema-relevant data
+- [1.00] p133 — no schema-relevant data
+- [1.00] ['000] p156 — no schema-relevant data
+- [0.99] ['000] p137 — This page presents the audited Gross Revenue and Property Operating Expenses tables for SGX REIT Group and MPACT for the
+- [0.99] ['000] p144 — no schema-relevant data
+- [0.99] ['000] p153 — This page presents Note 19, a table of Trade and Other Payables for SGX REIT Group and MPACT as of 31 March 2025, detail
+- [0.99] ['000] p158 — This page presents the audited Portfolio Statement for borrowings and loans from a subsidiary, detailing carrying amount
+- [0.99] p134 — This page of the SGX REIT annual report for the year ended 31 March 2025 details accounting policies for derivative fina
+- [0.99] ['000] p143 — This page presents the audited Portfolio Statement for derivative financial instruments as of 31 March 2025 and 31 March
+- [0.99] ['000] p145 — The page presents the audited Portfolio Statement for derivative financial instruments as of 31 March 2025 and 31 March 
+- [0.99] ['000] p157 — no schema-relevant data
+- [0.99] ['000] p107 — This page presents the Statements of Profit or Loss for the financial year ended 31 March 2025, reporting Group and MPAC
+- [0.99] ['000] p180 — This page presents the SGX REIT's segment reporting table for the financial year ended 31 March 2024, detailing gross re
+- [0.99] p135 — no schema-relevant data
+- [0.99] p125 — no schema-relevant data
+- [0.99] ['000] p178 — This page presents the **Segment Reporting** table for SGX REIT's reportable segments as of 31 March 2025, detailing gro
+- [0.99] ['000] p113 — This page of the SGX REIT annual report for the year ended 31 March 2025 presents a Consolidated Statement of Cash Flows
+- [0.99] ['000] p142 — This page presents Notes 11 and 12 of the SGX REIT annual report for the year ended 31 March 2025, detailing the audited
+- [0.99] ['000] p150 — This page presents the audited Portfolio Statement (property valuations) for Plant and Equipment and Investments in Subs
+- [0.99] p131 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains accounting policy notes regarding non-
+- [0.98] p127 — This page contains notes on material accounting policy information regarding income taxes for the financial year ended 3
+- [0.98] ['000] p112 — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 March 2025, reporting cash f
+- [0.98] ['000] p149 — This page presents a table of undiscounted lease payments to be received after the balance sheet date for the Group and 
+- [0.97] ['000] p154 — This page presents the audited Borrowings and Loans from a Subsidiary statement for MPACT Group, detailing current and n
+- [0.97] ['000] p152 — This page presents the Group's investment in a joint venture (IGIS Qualified Investment Type Private Placement Real Esta
+- [0.97] ['000] p111 — This page presents the Group's and MPACT's Distribution Statements for the financial year ended 31 March 2025, reporting
+- [0.96] ['000] p155 — no schema-relevant data
+- [0.96] ['000] p176 — This page details significant related party transactions for the SGX REIT Group, listing management fees (including Japa
+- [0.96] p132 — This page contains notes to the financial statements detailing accounting policies for plant and equipment, investments 
+- [0.96] ['000] p146 — This page presents the Notes to the Financial Statements for SGX REIT's MPACT reporting unit (SGD'000), detailing Deriva
+- [0.96] ['000] p175 — This page presents a table of Fair Value Measurements for Level 2 derivative financial instruments (interest rate swaps,
+- [0.96] ['000] p115 — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 
+- [0.94] p130 — no schema-relevant data
+- [0.93] ['000] p177 — This page presents Financial Ratios and Segment Reporting notes for the SGX REIT group, including a table of ratios such
+- [0.93] p123 — no schema-relevant data
+- [0.91] ['000] p114 — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 
+- [0.90] ['000] p161 — no schema-relevant data
+- [0.85] p136 — no schema-relevant data
+- [0.84] ['000] p163 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains Notes to the Financial Statements rega
+- [0.80] p124 — no schema-relevant data
+- [0.77] [million] p34 — This page presents the **Statement of Total Return** (Profit or Loss) and financial highlights for SGX REIT MPACT, repor
+- [0.75] ['000] p164 — no schema-relevant data
+- [0.74] ['000] p165 — This page of the SGX REIT annual report for the financial year ended 31 March 2025 presents a sensitivity analysis table
+- [0.74] p129 — no schema-relevant data
+- [0.72] ['000] p183 — This page details Interested Person Transactions for the financial year ended 31 March 2025, reporting aggregate values 
+- [0.71] p174 — This page contains a sensitivity analysis table showing the Group's Adjusted ICR under 10% EBITDA decrease and 100 basis
+- [0.67] p147 — This page details the fair value hierarchy and valuation techniques for investment properties classified as Level 3, inc
+- [0.64] ['000] p166 — This page presents the Group's currency exposure to financial assets and liabilities as of 31 March 2025, reporting all 
+- [0.62] ['000] p99 — This page of the SGX REIT annual report lists a table of contents for financial statements, including audited Portfolio 
+- [0.61] p182 — no schema-relevant data
+- [0.61] ['000] p167 — This page presents the Group's Net Currency Exposure table detailing financial assets and liabilities denominated in SGD
+- [0.58] ['000] p173 — This page presents the Financial Risk Management section detailing capital risk limits and compliance, featuring a table
+- [0.56 OCR] ['000] p169 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains a table detailing the ageing of trade 
+- [0.55] ['000] p184 — This page details Manager's Management Fees Paid and Payable in Units for the financial year ended 31 March 2025, presen
+- [0.55] p128 — no schema-relevant data
+- [0.53] ['000] p148 — no schema-relevant data
+- [0.53] p103 — This page contains the Independent Auditor's Report and Key Audit Matters table for Mapletree Pan Asia Commercial Trust,
+- [0.53] ['000] p168 — no schema-relevant data
+- [0.49 OCR] ['000] p172 — This page presents a table analyzing the Group's and MPACT's derivative financial liabilities for liquidity risk, catego
+- [0.47] ['000] p181 — This page of the SGX REIT annual report for the financial year ended 31 March 2025 contains a Segment Reporting table (S
+- [0.42] ['000] p160 — This page contains the Units in Issue table for SGX REIT MPACT, reporting unit counts in '000s alongside notes on non-ca
+- [0.40 OCR] ['000] p170 — This page presents the movement in allowance for expected credit losses of trade receivables and provides notes on cash 
+- [0.39] ['000] p122 — no schema-relevant data
+- [0.34] ['000] p179 — This page presents the SGX REIT segment reporting table detailing total assets, liabilities, and additions to investment
+- [0.34 OCR] ['000] p171 — This page presents the Liquidity risk table (non-derivative financial liabilities) for the Group and MPACT as at 31 Marc
+- [0.32] [million] p35 — This page presents the DPU breakdown table for FY24/25 and a Net Assets Attributable to Unitholders statement (in S$ mil
+- [0.24 OCR] p106 — no schema-relevant data
+- [0.20] [million] p15 — This page details the FY24/25 financial performance of Mapletree Asia Capital Trust (MPACT), reporting a total return of
+- [0.17] [million] p37 — This page presents the Key Financial Metrics and Indicators table detailing MPACT's capital management status as at 31 M
+- [0.16] ['000] p121 — This page presents a financial summary table for the SGX REIT reporting unit in SGD'000, detailing Gross Revenue of $9,3

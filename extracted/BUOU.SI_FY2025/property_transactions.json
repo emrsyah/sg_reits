@@ -1,0 +1,39 @@
+[
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2025,
+    "type": "acquisition",
+    "property_name": "2 Tuas South Link 1",
+    "country": "Singapore",
+    "date": "2024-11-05",
+    "price": 140300000,
+    "currency": "SGD",
+    "appraised_value": 143800000,
+    "source_page": 37
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2025,
+    "type": "divestment",
+    "property_name": "357 Collins Street",
+    "country": "Australia",
+    "date": "2025-09-30",
+    "price": 192100000,
+    "currency": "AUD",
+    "appraised_value": 191000000,
+    "source_page": 37
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2025,
+    "type": "partial_divestment",
+    "property_name": "28 German properties (minority interest sale)",
+    "country": "Germany",
+    "date": "2024-11-28",
+    "price": 33400000,
+    "currency": "SGD",
+    "appraised_value": null,
+    "note": "Sale of shares to existing minority shareholders, reducing effective interest in German properties by 3.2%-5.0%; consideration EUR23.2m (~S$33.4m).",
+    "source_page": 36
+  }
+]

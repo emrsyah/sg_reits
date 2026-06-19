@@ -1,0 +1,39 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "MPACT discloses NPI only at Group level, not per property. The Portfolio Statement gives per-property gross revenue, occupancy and valuation but no per-property NPI."},
+    {"column": "properties.gla / nla / gfa", "reason": "Areas (GLA/NLA/GFA) are not disclosed per property in the audited Portfolio Statement; the Properties-at-a-Glance cards give NLA narratively only for some assets — not a clean per-property field across the portfolio."},
+    {"column": "properties.major_tenants", "reason": "Per-property tenant lists are not tabulated; only a portfolio-level Top Ten Tenants by GRI is disclosed (captured in top_tenants)."}
+  ],
+  "data_with_no_home": [
+    "The Pinnacle Gangnam (South Korea): held via 50% effective interest as a joint venture; equity-accounted at Investment in a joint venture S$110,874k. NOT in the Portfolio Statement. MPACT shares profit after tax based on 50% effective interest; FY24/25 share of JV profit S$8,852k. 29 tenants.",
+    "Number of leases (portfolio): 959 tenants across the portfolio; 1,173 total leases (lease expiry profile bars).",
+    "Solar energy generated: 4,547 MWh renewable energy.",
+    "Proportion of fixed rate debt: 79.9% as at 31 Mar 2025.",
+    "Gross debt outstanding S$6,139.9m (incl. NCI share and proportionate JV gross debt).",
+    "Turnover (GTO) rental for the year: Group S$14,494k; MPACT S$11,191k.",
+    "Staff costs S$30,705k relate to Festival Walk employees + reimbursements to Property Managers; the trust/MPACT is otherwise externally managed (no payroll)."
+  ],
+  "parsing_traps": [
+    "Portfolio Statement uses a FACING-PAGE POSITIONAL SPLIT: property-name/tenure/location table on pages 116/118/120, and the value table (gross revenue / occupancy / valuation, blank first column) on the facing pages 117/119/121. Rows are aligned by position only. Routed properties to llm_only (positional pairing read directly from the markdown). Verified row-by-row against the audited sub-totals.",
+    "Statement of Profit or Loss prints both Group and MPACT (trust-only) columns side by side. Canonical = Group (consolidated) column. MPACT-only column (e.g. gross revenue 456,772; includes S$814.2m impairment of investment in subsidiary) is NOT used.",
+    "income_taxes is a tax CREDIT of S$6,113k in FY24/25 (negative expense): stored SIGNED negative in income_stmt_metrics; in line_items the adjustment is +6,113k (credit increases total return)."
+  ],
+  "reconciliation": {
+    "sum_property_valuation": 15728702000.0,
+    "reported_total_investment_properties": 15728702000.0,
+    "valuation_note": "Σ of 18 Portfolio-Statement property valuations = S$15,728,702k = audited Group Investment properties line (SFP Note 14). The Pinnacle Gangnam (50% JV) is equity-accounted and correctly excluded from the Portfolio Statement total.",
+    "sum_property_gross_revenue": 908841000.0,
+    "reported_total_gross_revenue": 908841000.0,
+    "gross_revenue_note": "Σ of 19 per-property gross revenue rows (incl. divested Mapletree Anson S$12,185k partial-year) = S$908,841k = Group gross revenue. (The Pinnacle Gangnam JV revenue is not consolidated.)",
+    "sum_property_npi": null,
+    "reported_total_npi": 683537000.0,
+    "npi_note": "Per-property NPI not disclosed; Group NPI S$683,537k captured in performance/financial.",
+    "line_items_check": "Sigma_revenue (910,902) - Sigma_expense (496,032) + Sigma_adjustment_signed (172,431) = 587,301 = net_income (profit after tax) PASS",
+    "trade_mix_sum": "Sum of 20 trade-mix categories = 100.0% by GRI"
+  },
+  "inferred": [
+    {"table": "properties", "field": "category", "scope": "MBC I, MBC II, Sandhill Plaza", "value": "Specialized", "basis": "Mapletree Business City and Sandhill Plaza are business-park assets; mapped to Specialized per PROPERTY_CATEGORY_ALIASES (Business Space). category_raw preserves the disclosed Business Park / Office type.", "source_page": 116},
+    {"table": "properties", "field": "ownership", "scope": "all consolidated properties", "value": 100.0, "basis": "MPACT consolidates all 18 Portfolio-Statement properties at 100%; no stake footnotes indicating partial ownership. The Pinnacle Gangnam is the only partially-owned asset (50%, equity-accounted).", "source_page": 116},
+    {"table": "properties", "field": "lease_term_years/land_tenure", "scope": "Festival Walk, China assets", "value": "as printed", "basis": "Festival Walk 54-yr leasehold; Gateway Plaza / Sandhill Plaza China land-use rights mapped to Leasehold per land_tenure rules.", "source_page": 118}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "symbol": "CMOU.SI",
+  "sub_sector": "Office",
+  "management": [
+    {"role": "reit_manager", "company_name": "KORE US REIT Management Pte. Ltd."},
+    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
+    {"role": "sponsor", "company_name": "Keppel Ltd."},
+    {"role": "sponsor", "company_name": "KORE Pacific Advisors Pte. Ltd."},
+    {"role": "operator", "company_name": "Pacific Oak Capital Advisors LLC"}
+  ],
+  "income_model": "conventional",
+  "source_page": 14
+}

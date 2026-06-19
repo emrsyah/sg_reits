@@ -1,0 +1,82 @@
+{
+  "symbol": "JYEU.SI",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "source_page": 113,
+  "income_stmt_metrics": {
+    "total_revenue": 206542000,
+    "cost_of_revenue": 57786000,
+    "gross_income": 148756000,
+    "operating_income": 127493000,
+    "operating_expense": 21263000,
+    "ebit": 136018000,
+    "ebitda": 136018000,
+    "pretax_income": 70750000,
+    "income_taxes": 0,
+    "net_income": 70750000,
+    "non_operating_income_or_loss": -56743000,
+    "interest_expense_non_operating": 65268000,
+    "diluted_shares_outstanding": 2414538000,
+    "net_property_sales": 0,
+    "funds_from_operation": null,
+    "unitholders": 52412000,
+    "perpetual_security_holders": 18475000,
+    "minorities": -137000,
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
+    "revenue_breakdown": [
+      {"category": "Rental income", "amount": 190506000, "class": "Product/Service Sales"},
+      {"category": "Turnover rent", "amount": 4469000, "class": "Product/Service Sales"},
+      {"category": "Other property income", "amount": 11567000, "class": "Other income"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "Manager's base fee", "amount": 10426000, "class": "General & Admin"},
+      {"category": "Manager's performance fee", "amount": 7538000, "class": "General & Admin"},
+      {"category": "Other management fee", "amount": 764000, "class": "General & Admin"},
+      {"category": "Trustee's fee", "amount": 430000, "class": "General & Admin"},
+      {"category": "Other trust expenses", "amount": 2105000, "class": "Other expenses"}
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 3906209000,
+    "total_equity": 2147984000,
+    "total_liabilities": 1758225000,
+    "working_capital": -330472000,
+    "total_current_asset": 49234000,
+    "total_non_current_asset": 3856975000,
+    "total_current_liabilities": 379706000,
+    "total_non_current_liabilities": 1378519000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 162645000,
+    "investing_cash_flow": -11164000,
+    "financing_cash_flow": -145015000,
+    "net_cash_flow": 6466000,
+    "free_cash_flow": 147401000,
+    "capital_expenditure": -15244000
+  },
+  "employee_breakdown": {
+    "total_employee": null,
+    "permanent_employee": null,
+    "contract_employee": null,
+    "others_employee": null
+  },
+  "line_items": [
+    {"statement": "revenue", "component": "gross_revenue", "amount": 206542000, "label_raw": "Gross revenue", "source_page": 113},
+    {"statement": "adjustment", "component": "interest_income", "amount": 885000, "label_raw": "Interest income (finance income)", "source_page": 157},
+    {"statement": "adjustment", "component": "dividend_income", "amount": 3046000, "label_raw": "Dividend income", "source_page": 113},
+    {"statement": "expense", "component": "property_operating_expenses", "amount": 57786000, "label_raw": "Property operating expenses", "source_page": 113},
+    {"statement": "expense", "component": "management_fee_base", "amount": 10426000, "label_raw": "Manager's base fee", "source_page": 113},
+    {"statement": "expense", "component": "management_fee_performance", "amount": 7538000, "label_raw": "Manager's performance fee", "source_page": 113},
+    {"statement": "expense", "component": "other_management_fee", "amount": 764000, "label_raw": "Other management fee", "source_page": 113},
+    {"statement": "expense", "component": "trustee_fee", "amount": 430000, "label_raw": "Trustee's fee", "source_page": 113},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 2105000, "label_raw": "Other trust expenses", "source_page": 113},
+    {"statement": "expense", "component": "finance_costs", "amount": 66153000, "label_raw": "Total finance expenses (interest expense on bank borrowings + financing fees)", "source_page": 157},
+    {"statement": "adjustment", "component": "net_foreign_exchange", "amount": -12662000, "label_raw": "Net foreign exchange (loss)/gain", "source_page": 113},
+    {"statement": "adjustment", "component": "fair_value_investment_properties", "amount": 46831000, "label_raw": "Net change in fair value of investment properties and investment property under development", "source_page": 113},
+    {"statement": "adjustment", "component": "fair_value_equity_instrument", "amount": 141000, "label_raw": "Net change in fair value of equity instrument", "source_page": 113},
+    {"statement": "adjustment", "component": "impairment_associates", "amount": -93000, "label_raw": "Impairment of investment in associates", "source_page": 113},
+    {"statement": "adjustment", "component": "share_of_associates", "amount": -296000, "label_raw": "Share of (loss)/profit of associates", "source_page": 113},
+    {"statement": "adjustment", "component": "fair_value_derivatives", "amount": -28442000, "label_raw": "Net change in fair value of derivative financial instruments", "source_page": 113},
+    {"statement": "adjustment", "component": "income_tax", "amount": 0, "label_raw": "Tax expense", "source_page": 113}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "N2IU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 15960000000.0,
+  "properties_location": "Singapore; Hong Kong SAR; China; Japan; South Korea",
+  "gross_revenue": 908841000.0,
+  "net_property_income": 683537000.0,
+  "net_distributable_income": 423022000.0,
+  "dpu": 8.02,
+  "distribution_record": [
+    {"period": "1 Jan 2024 - 31 Mar 2024", "dpu": 2.29, "ex_date": null, "pay_date": null},
+    {"period": "1 Apr 2024 - 30 Jun 2024", "dpu": 2.09, "ex_date": null, "pay_date": null},
+    {"period": "1 Jul 2024 - 30 Sep 2024", "dpu": 1.98, "ex_date": null, "pay_date": null},
+    {"period": "1 Oct 2024 - 31 Dec 2024", "dpu": 2.00, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 32419,
+  "aggregate_leverage": 37.7,
+  "interest_coverage_ratio": 2.8,
+  "cost_of_debt": 3.51,
+  "weighted_avg_debt_maturity": 3.3,
+  "nav_per_unit": 1.78,
+  "wale": 2.2,
+  "portfolio_occupancy": 89.6,
+  "currency": "SGD",
+  "date": "2025-03-31",
+  "flags": [
+    {"type": "dpu_period_basis", "scope": "distribution_record", "note": "FY24/25 DPU 8.02 cents declared as four quarterly distributions covering 1 Jan 2024-31 Mar 2024 (paid in FY24/25) plus the three FY24/25 quarters to 31 Dec 2024; ex/pay dates not tabulated in the report. Sum of the four listed period DPUs = 8.36 cents reflects the calendar-quarter declaration timing, not the FY24/25 8.02-cent headline."}
+  ],
+  "source_page": 5
+}

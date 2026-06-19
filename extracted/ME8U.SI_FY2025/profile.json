@@ -1,0 +1,14 @@
+{
+  "symbol": "ME8U.SI",
+  "sub_sector": "Diversified",
+  "management": [
+    {"role": "reit_manager", "company_name": "Mapletree Industrial Trust Management Ltd."},
+    {"role": "trustee", "company_name": "DBS Trustee Limited"},
+    {"role": "sponsor", "company_name": "Mapletree Investments Pte Ltd"},
+    {"role": "property_manager", "company_name": "Mapletree Facilities Services Pte. Ltd."},
+    {"role": "property_manager", "company_name": "Mapletree US Management LLC"},
+    {"role": "property_manager", "company_name": "Mapletree Management Services Japan Kabushiki Kaisha"}
+  ],
+  "income_model": "conventional",
+  "source_page": 20
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "Q5T.SI",
+  "financial_year": 2025,
+  "portfolio_value": 2560000000.0,
+  "properties_location": "Singapore (12 properties); Japan (1 hotel)",
+  "gross_revenue": 111400000.0,
+  "net_property_income": 96581000.0,
+  "net_distributable_income": 67874000.0,
+  "dpu": 3.70,
+  "distribution_record": [
+    {"period": "1 July 2024 to 31 December 2024", "dpu": 2.08, "ex_date": null, "pay_date": null},
+    {"period": "1 January 2025 to 30 June 2025", "dpu": 1.78, "ex_date": null, "pay_date": null},
+    {"period": "1 July 2025 to 19 August 2025", "dpu": 0.47, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 11422,
+  "aggregate_leverage": 33.0,
+  "interest_coverage_ratio": 3.6,
+  "cost_of_debt": 3.1,
+  "weighted_avg_debt_maturity": 3.6,
+  "nav_per_unit": 0.8755,
+  "wale": null,
+  "portfolio_occupancy": null,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "kpi_not_disclosed", "scope": "wale", "note": "No portfolio-wide WALE disclosed. Hotels and serviced residences are held under long master leases (sponsor-related master lessees); only the Commercial Premises WALE of 1.34 years (p44) is disclosed, which is a sub-portfolio metric, not the trust WALE."},
+    {"type": "kpi_not_disclosed", "scope": "portfolio_occupancy", "note": "No single committed-portfolio occupancy disclosed. Hospitality occupancy is reported per segment: Singapore hotels 81.3%, serviced residences 81.5% (p42-43); Commercial Premises 91.1% (p10/p44)."},
+    {"type": "dpu_other_gains", "scope": "dpu", "note": "FY2025 DPU 3.70 cents includes 0.39 cents distribution of other gains (final capital distribution from divestment of Central Square in Mar 2022); Core Distribution per stapled security 3.31 cents (p10)."}
+  ],
+  "source_page": 4
+}

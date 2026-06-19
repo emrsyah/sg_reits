@@ -1,0 +1,26 @@
+{
+  "symbol": "JYEU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 3763300000,
+  "properties_location": "Singapore, Italy",
+  "gross_revenue": 206542000,
+  "net_property_income": 148756000,
+  "net_distributable_income": 87600000,
+  "dpu": 3.60,
+  "distribution_record": [
+    {"period": "1H FY2025 (1 Jul 2024 - 31 Dec 2024)", "dpu": 1.80, "ex_date": null, "pay_date": null},
+    {"period": "2H FY2025 (1 Jan 2025 - 30 Jun 2025)", "dpu": 1.8013, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 15384,
+  "aggregate_leverage": 42.6,
+  "interest_coverage_ratio": 1.6,
+  "cost_of_debt": 3.46,
+  "weighted_avg_debt_maturity": 2.6,
+  "nav_per_unit": 0.75,
+  "wale": 7.2,
+  "portfolio_occupancy": 92.1,
+  "currency": "SGD",
+  "date": "2025-06-30",
+  "flags": [],
+  "source_page": 5
+}

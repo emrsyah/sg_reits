@@ -1,0 +1,257 @@
+# Page map v2 (classify) — 16_Q5T.SI_Far-East-Hospitality-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p7  · audited('000): p17
+- [1.00] p7 — This page displays the organizational chart of Far East Hospitality Trust, detailing its structure with FAR EAST H-REIT 
+- [1.00] p19 — no schema-relevant data
+- [1.00] ['000] p17 — no schema-relevant data
+- [1.00] p18 — no schema-relevant data
+- [1.00] p161 — no schema-relevant data
+- [1.00] ['000] p239 — This page is a Notice of the 14th Annual General Meeting for Far East Hospitality Trust (SGD'000 reporting unit implied 
+- [1.00] p249 — This page is a Proxy Form for the 14th Annual General Meeting of Far East Hospitality Trust, scheduled for Monday, 20 Ap
+- [1.00] p250 — no schema-relevant data
+- [1.00] p6 — no schema-relevant data
+- [1.00] p131 — no schema-relevant data
+- [1.00] p137 — no schema-relevant data
+- [1.00] p89 — no schema-relevant data
+- [0.99] p13 — no schema-relevant data
+- [0.99] ['000] p16 — no schema-relevant data
+- [0.99] p126 — no schema-relevant data
+- [0.99] p130 — no schema-relevant data
+- [0.99] p227 — no schema-relevant data
+- [0.99] p243 — no schema-relevant data
+- [0.99] p14 — no schema-relevant data
+- [0.99] p15 — no schema-relevant data
+- [0.99] p99 — no schema-relevant data
+- [0.99] p92 — no schema-relevant data
+- [0.98] p123 — no schema-relevant data
+- [0.98] p102 — no schema-relevant data
+- [0.98] p138 — no schema-relevant data
+- [0.97] p127 — no schema-relevant data
+- [0.97] p140 — no schema-relevant data
+- [0.97] p134 — no schema-relevant data
+- [0.97 OCR] p56 — no schema-relevant data
+- [0.97] p101 — no schema-relevant data
+- [0.97] ['000] p111 — no schema-relevant data
+- [0.96] p55 — no schema-relevant data
+- [0.96] p139 — no schema-relevant data
+- [0.95] p119 — no schema-relevant data
+- [0.95] p241 — no schema-relevant data
+- [0.95] p124 — no schema-relevant data
+- [0.95] p240 — no schema-relevant data
+- [0.95] p95 — no schema-relevant data
+- [0.93] p100 — no schema-relevant data
+- [0.92] p9 — no schema-relevant data
+- [0.92] p219 — no schema-relevant data
+- [0.92] p135 — no schema-relevant data
+- [0.92] p245 — no schema-relevant data
+- [0.92] p132 — no schema-relevant data
+- [0.91] p77 — no schema-relevant data
+- [0.91] p90 — no schema-relevant data
+- [0.91] p133 — no schema-relevant data
+- [0.91] p246 — no schema-relevant data
+- [0.90 OCR] p142 — no schema-relevant data
+- [0.88] ['000] p107 — This page details the remuneration disclosure for Far East H-Trust's financial year ended 31 December 2025, featuring a 
+- [0.87] p141 — no schema-relevant data
+- [0.87] p96 — no schema-relevant data
+- [0.85] ['000] p106 — no schema-relevant data
+- [0.85] p247 — no schema-relevant data
+- [0.85] p120 — no schema-relevant data
+- [0.84] p146 — no schema-relevant data
+- [0.83] p110 — no schema-relevant data
+- [0.83 OCR] p121 — no schema-relevant data
+- [0.83] p31 — no schema-relevant data
+- [0.83 OCR] [million] p11 — no schema-relevant data
+- [0.82] p93 — no schema-relevant data
+- [0.82] p104 — no schema-relevant data
+- [0.82] p115 — no schema-relevant data
+- [0.80 OCR] p109 — no schema-relevant data
+- [0.79] ['000] p112 — This page of the SGX REIT annual report for Far East H-REIT presents a table detailing Interested Person Transactions in
+- [0.79] p145 — no schema-relevant data
+- [0.78] p97 — no schema-relevant data
+- [0.78 OCR] p98 — no schema-relevant data
+- [0.75] p57 — no schema-relevant data
+- [0.75] p118 — no schema-relevant data
+- [0.75] p244 — no schema-relevant data
+- [0.74] ['000] p128 — no schema-relevant data
+- [0.73] ['000] p113 — no schema-relevant data
+- [0.73] p218 — This page contains the Directors' Statement for FEO Hospitality Trust Management Pte. Ltd. for the financial year ended 
+- [0.70] p122 — no schema-relevant data
+- [0.65] p91 — no schema-relevant data
+- [0.65] ['000] p53 — no schema-relevant data
+- [0.65 OCR] p32 — no schema-relevant data
+- [0.62] p117 — This page details Far East H-Trust's Corporate Governance policies regarding whistleblowing and the independent reviews 
+- [0.62] p105 — no schema-relevant data
+- [0.59 OCR] p79 — no schema-relevant data
+- [0.59] p116 — no schema-relevant data
+- [0.56] p94 — no schema-relevant data
+- [0.56] p129 — no schema-relevant data
+- [0.55] p8 — no schema-relevant data
+- [0.55] p242 — no schema-relevant data
+- [0.54 OCR] p222 — no schema-relevant data
+- [0.53] ['000] p108 — no schema-relevant data
+- [0.53] p48 — no schema-relevant data
+- [0.51] [million] p125 — no schema-relevant data
+- [0.50] p114 — no schema-relevant data
+- [0.50] p148 — no schema-relevant data
+- [0.50] p12 — no schema-relevant data
+- [0.46 OCR] p147 — no schema-relevant data
+- [0.44 OCR] p86 — no schema-relevant data
+- [0.38] p3 — no schema-relevant data
+- [0.38 OCR] p47 — no schema-relevant data
+- [0.37] ['000] p193 — This page presents the Subsidiaries table detailing Far East H-REIT Group and Far East H-BT Group entities with their in
+- [0.35 OCR] p103 — no schema-relevant data
+- [0.32 OCR] p87 — This page details the SGX REIT's three-line defence risk management framework, outlining roles across Board Oversight, I
+- [0.28 OCR] [million] p40 — no schema-relevant data
+- [0.27] p238 — no schema-relevant data
+- [0.25 OCR] p220 — This page contains the Independent Auditor's Report for FEO Hospitality Trust Management Pte. Ltd. covering the financia
+- [0.23] ['000] p188 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Stapled Securitie
+- [0.22] p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT
+- [0.22 OCR] p221 — no schema-relevant data
+- [0.21 OCR] p233 — This page contains no schema-relevant data.
+- [0.20 OCR] p72 — no schema-relevant data
+- [0.18] ['000] p136 — This page lists the table of contents for Far East Hospitality Trust's financial statements, explicitly naming the State
+- [0.18] p237 — This page presents the Statistics of Stapled Security Holdings as at 24 February 2026, detailing total issued securities
+- [0.18 OCR] [million] p5 — This page presents sustainability highlights for Far East H-Trust, featuring key metrics such as a 2.5% year-on-year gro
+- [0.16 OCR] p251 — no schema-relevant data
+- [0.15 OCR] p84 — no schema-relevant data
+
+## performance  — top: p4  · audited('000): p235
+- [1.00] [million] p4 — This page presents SGX REIT financial highlights for the reporting unit in S$ million, featuring a main table of Distrib
+- [1.00] [million] p61 — This page presents the Financial Highlights for Far East H-Trust FY 2025, featuring four main tables displaying Gross Re
+- [1.00] [million] p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hot
+- [0.99] ['000] p235 — This page presents statistics on Stapled Security holdings for Far East H-REIT and Far East H-BT as of 24 February 2026,
+- [0.99] [million] p49 — This page features a **Far East H-Trust Stapled Security Price Vs. Major Indices** table detailing monthly performance d
+- [0.98] ['000] p236 — This page presents the statistics of stapled security holdings as at 24 February 2026, featuring tables detailing direct
+- [0.96] [million] p10 — This page presents financial highlights for Far East H-Trust's FY 2025, including a table of Gross Revenue at S$111.4 mi
+- [0.95] [million] p38 — no schema-relevant data
+- [0.90] ['000] p152 — This page presents the **Distribution Statement** for the SGX Stapled Group, reporting income available for distribution
+- [0.90] [million] p46 — This page presents Far East H-Trust's capital management strategy, including total borrowings of S$774.8 million as at 3
+- [0.85] [million] p44 — no schema-relevant data
+- [0.81] p237 — This page presents the Statistics of Stapled Security Holdings as at 24 February 2026, detailing total issued securities
+- [0.79] ['000] p149 — This page presents the **Statements of Financial Position** for Far East H-REIT Group, Stapled Group, and Far East H-BT 
+- [0.77] p42 — This page presents a Performance Review of Far East H-Trust's hotel portfolio for FY 2025, featuring text-based data on 
+- [0.72] p238 — no schema-relevant data
+- [0.48 OCR] ['000] p41 — This page presents a summary of hotel transaction activity in Nagoya's investment market, featuring the main artifact "H
+- [0.37 OCR] [million] p33 — no schema-relevant data
+- [0.33] ['000] p188 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Stapled Securitie
+- [0.33] ['000] p155 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the Far East H-REIT Group and Far E
+- [0.32] p48 — no schema-relevant data
+- [0.27 OCR] ['000] p37 — The page presents a market overview of Singapore's serviced residence (SR) sector, noting that total supply reached appr
+- [0.21] ['000] p156 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 Decembe
+- [0.18] ['000] p189 — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a Net Asset Valu
+
+## properties  — top: p24  · audited('000): p30
+- [1.00] [million] p24 — This page presents detailed property-level metrics for Oasia Hotel Downtown and Oasia Hotel Novena, including gross reve
+- [1.00] [million] p25 — This page presents property-level data for two assets, Rendezvous Hotel Singapore and Orchard Rendezvous Hotel, featurin
+- [1.00] [million] p26 — This page presents property-specific tables for The Quincy Hotel and Vibe Hotel Singapore Orchard, detailing metrics suc
+- [1.00] [million] p27 — This page presents property-level details for Village Hotel Albert Court and Village Hotel Bugis, including their gross 
+- [1.00] [million] p28 — This page presents a portfolio overview featuring the Village Hotel Changi and Village Residence Hougang, with their res
+- [1.00] ['000] p30 — This page presents the audited Portfolio Statement for Four Points by Sheraton Nagoya Chubu International Airport, detai
+- [1.00] [million] p29 — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence 
+- [1.00] ['000] p157 — This page presents the Audited Portfolio Statement for Far East H-REIT Group as at 31 December 2025, detailing investmen
+- [1.00] ['000] p158 — This page presents the Audited Portfolio Statement for Far East H-REIT Group as of 31 December 2025, detailing carrying 
+- [0.96] p23 — This page presents the **audited Portfolio Statement** detailing SGX REIT's asset valuations of S$ 2.56 billion as of th
+- [0.94] ['000] p36 — This page presents a table detailing Hotel Transactions in Singapore from 2019 to 2025, listing property names, room cou
+- [0.64 OCR] p50 — no schema-relevant data
+- [0.62 OCR] p251 — no schema-relevant data
+- [0.49] ['000] p179 — This page presents the audited Portfolio Statement for investment properties, detailing fair value movements and carryin
+- [0.47] ['000] p39 — This page presents a table titled "Serviced Residence Transactions in Singapore (2019 – 2025)" listing property acquisit
+- [0.40] ['000] p224 — This page presents the Statement of Financial Position as at 31 December 2025, reporting current assets of $100 and net 
+- [0.38] p22 — This page of the SGX REIT annual report presents descriptive text and a photograph of Adina Serviced Apartments Singapor
+- [0.36 OCR] p20 — no schema-relevant data
+
+## top_tenants  — top: p45
+- [0.37] p45 — This page presents a Lease Maturity Profile and Top 10 Commercial Premises Tenants table as at 31 December 2025, alongsi
+
+## trade_mix  — top: p43
+- [0.95] p43 — This page presents the "REVIEW OF SERVICED RESIDENCE PERFORMANCE" and "REVIEW OF HOTEL PERFORMANCE" for SGX REIT, featur
+- [0.61] p45 — This page presents a Lease Maturity Profile and Top 10 Commercial Premises Tenants table as at 31 December 2025, alongsi
+- [0.22] p42 — This page presents a Performance Review of Far East H-Trust's hotel portfolio for FY 2025, featuring text-based data on 
+
+## financial  — top: p191
+- [1.00] ['000] p191 — This page presents the Income Tax Expense reconciliation for the SGX REIT Stapled Group, Far East H-REIT Group, and Far 
+- [1.00] ['000] p151 — This page presents the Statement of Comprehensive Income for Far East H-BT Group for the financial year ended 31 Decembe
+- [1.00] ['000] p223 — This page presents the **Statement of Profit or Loss and Other Comprehensive Income** for the financial year ended 31 De
+- [1.00] ['000] p232 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 5, 6, and 7 detailing Income 
+- [1.00] p172 — no schema-relevant data
+- [1.00] p230 — no schema-relevant data
+- [1.00] p171 — no schema-relevant data
+- [0.99] p175 — no schema-relevant data
+- [0.99] ['000] p212 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a Segment Reporting table in SGD'00
+- [0.99] ['000] p182 — This page presents the audited Portfolio Statement for FIPL (a joint venture), detailing its 2025 and 2024 total assets 
+- [0.99] ['000] p190 — This page of the Far East H-REIT annual report for the year ended 31 December 2025 presents Notes 15 (Other Trust Expens
+- [0.99] ['000] p211 — This page presents the Segment Reporting table for SGX REIT, detailing gross revenue, segment net property income, and t
+- [0.99] ['000] p184 — This page of the Far East H-REIT Group annual report for the year ended 31 December 2025 contains a table titled **8. DE
+- [0.99] ['000] p206 — This page of the SGX REIT annual report presents the Fair Value Hierarchy table (Note 22) detailing financial instrument
+- [0.99] ['000] p150 — This page presents the Statements of Total Return for Far East H-REIT Group and the Stapled Group Statement of Profit or
+- [0.99] ['000] p185 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents financial liabilities carried at am
+- [0.99] ['000] p187 — This page presents a reconciliation table of liabilities for Far East H-REIT Group and the Stapled Group's financing act
+- [0.99] p169 — no schema-relevant data
+- [0.99] p173 — no schema-relevant data
+- [0.98] ['000] p207 — This page presents the Fair Value of Assets and Liabilities (cont'd) table for Far East H-REIT Group, detailing financia
+- [0.98] ['000] p160 — This page presents the **Statements of Cash Flows** for the Stapled Group, Far East H-REIT Group, and Far East H-BT Grou
+- [0.97] ['000] p214 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted b
+- [0.97] ['000] p215 — This page details the Stapled Group's first overseas acquisition of a hotel in Japan on 25 April 2025, accounting for it
+- [0.97] p168 — no schema-relevant data
+- [0.96] ['000] p186 — This page details the REIT's trade and other liabilities alongside a comprehensive Statement of Borrowings (current and 
+- [0.96] ['000] p231 — This page contains no schema-relevant data, as it only includes narrative notes on accounting policies, estimates, and a
+- [0.96] ['000] p213 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents segment reporting details
+- [0.96] ['000] p159 — This page presents the **Statements of Cash Flows** for Stapled Group, Far East H-REIT Group, and Far East H-BT Group fo
+- [0.95] p167 — This page contains text-only accounting policies for investment properties and property, plant, and equipment within the
+- [0.95] ['000] p183 — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) 
+- [0.95] ['000] p163 — no schema-relevant data
+- [0.95] ['000] p154 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 Decembe
+- [0.94] p166 — no schema-relevant data
+- [0.94] ['000] p192 — This page presents financial highlights including the movement in deferred tax liabilities for both the Stapled Group an
+- [0.94] ['000] p164 — This page of the SGX REIT annual report contains notes to the financial statements for the year ended 31 December 2025, 
+- [0.94] ['000] p153 — This page presents a table of Net distribution adjustments for the Stapled Group ($'000) for the financial year ended 31
+- [0.93] p174 — no schema-relevant data
+- [0.93] ['000] p216 — This page contains the Audited Portfolio Statement for acquisitions, detailing identifiable assets acquired and liabilit
+- [0.93] p228 — no schema-relevant data
+- [0.92] p217 — This page lists the table of contents for the FEO Hospitality Trust Management Pte. Ltd. Trustee-Manager's financial sta
+- [0.92] p162 — no schema-relevant data
+- [0.92] ['000] p208 — This page details Level 2 and Level 3 fair value measurements for Far East H-REIT Group assets (Singapore and Japan) usi
+- [0.92] p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as aud
+- [0.92] ['000] p209 — This page of the SGX REIT annual report contains a Level 3 fair value measurement table for investment properties (hotel
+- [0.91] ['000] p194 — This page contains a Related Party Transactions table (in SGD'000) detailing management fees, trustee fees, shared servi
+- [0.91] p229 — no schema-relevant data
+- [0.88] p170 — no schema-relevant data
+- [0.86 OCR] ['000] p198 — This page presents financial risk management data for the Far East H-BT Group, specifically detailing credit risk exposu
+- [0.86] p225 — no schema-relevant data
+- [0.86] p177 — no schema-relevant data
+- [0.84] p178 — This page contains no schema-relevant data.
+- [0.84] ['000] p180 — This page presents the audited Portfolio Statement (property valuations) in Note 4, detailing the property, plant and eq
+- [0.82] p234 — no schema-relevant data
+- [0.82] ['000] p203 — This page presents a table detailing net investment hedges for foreign currency risk exposures at 31 December 2025, spec
+- [0.81] ['000] p181 — This page details the Far East H-REIT Group's unrecognised profits and cumulative loss of its joint venture, Fontaine In
+- [0.80] ['000] p165 — no schema-relevant data
+- [0.79] ['000] p189 — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a Net Asset Valu
+- [0.77] [million] p144 — This page contains the Independent Auditor's Report, which identifies the valuation of investment properties as a Key Au
+- [0.76 OCR] ['000] p197 — This page presents the Stapled Group and Far East H-REIT Group credit risk exposure tables for the financial year ended 
+- [0.74] ['000] p156 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 Decembe
+- [0.74] ['000] p226 — This page presents the Statement of Cash Flows for the financial year ended 31 December 2025, reporting a net cash flow 
+- [0.67 OCR] p196 — no schema-relevant data
+- [0.61] ['000] p155 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the Far East H-REIT Group and Far E
+- [0.54] ['000] p193 — This page presents the Subsidiaries table detailing Far East H-REIT Group and Far East H-BT Group entities with their in
+- [0.54 OCR] p195 — no schema-relevant data
+- [0.54 OCR] ['000] p200 — This page presents a Liquidity Risk disclosure table detailing the maturity profile of financial liabilities for Stapled
+- [0.53 OCR] ['000] p205 — This page presents a sensitivity analysis for currency risk under Financial Risk Management, detailing the impact of a 1
+- [0.49] ['000] p136 — This page lists the table of contents for Far East Hospitality Trust's financial statements, explicitly naming the State
+- [0.49 OCR] ['000] p204 — This page contains a Sensitivity analysis for currency risk table detailing the Stapled Group and Far East H-REIT Group'
+- [0.49] p176 — no schema-relevant data
+- [0.49] ['000] p179 — This page presents the audited Portfolio Statement for investment properties, detailing fair value movements and carryin
+- [0.43] ['000] p188 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Stapled Securitie
+- [0.40] p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT
+- [0.39 OCR] p233 — This page contains no schema-relevant data.
+- [0.31] ['000] p224 — This page presents the Statement of Financial Position as at 31 December 2025, reporting current assets of $100 and net 
+- [0.29 OCR] p222 — no schema-relevant data
+- [0.28 OCR] p220 — This page contains the Independent Auditor's Report for FEO Hospitality Trust Management Pte. Ltd. covering the financia
+- [0.27 OCR] ['000] p199 — This page contains no schema-relevant data.
+- [0.24 OCR] ['000] p201 — This page presents a Liquidity risk table detailing trade and other liabilities, derivative financial liabilities, renta
+- [0.22 OCR] p147 — no schema-relevant data
+- [0.21] ['000] p128 — no schema-relevant data
+- [0.19 OCR] p221 — no schema-relevant data
+- [0.16] p129 — no schema-relevant data

@@ -1,0 +1,35 @@
+[
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2025,
+    "type": "acquisition",
+    "property_name": "Salesforce Tower (180 George Street, Sydney)",
+    "country": "Australia",
+    "interest_acquired": 19.9,
+    "consideration": 175046000,
+    "currency": "SGD",
+    "consideration_local": 195538000,
+    "currency_local": "AUD",
+    "announcement_date": "2026-02-24",
+    "completion_date": "2026-03",
+    "status": "subsequent_event",
+    "note": "Acquisition of 19.9% interest in Salesforce Tower, a freehold 55-storey prime commercial tower in Circular Quay, Sydney, via 19.9% of units in three Lendlease target trusts and 22.0% of shares in the target trustee. Announced 24 Feb 2026, completed Mar 2026. Subsequent event (post FY2025 year-end); marks start of Phase 3 value-creation journey.",
+    "source_page": 175
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "type": "divestment",
+    "property_name": "Lippo Plaza Shanghai (via Lippo Realty (Shanghai) Limited)",
+    "country": "China",
+    "interest_divested": 100.0,
+    "divestment_price": 357382000,
+    "currency": "SGD",
+    "consideration_local": 1916925000,
+    "currency_local": "RMB",
+    "completion_date": "2024-12-27",
+    "status": "divested",
+    "note": "Divested in FY2024 (completed 27 Dec 2024) for RMB 1,916,925,000 (~S$357,382,000); loss on disposal of subsidiary S$26.4m recognised in FY2024. Recorded here for audit-trail context: its absence is the main driver of OUE REIT's FY2025 YoY revenue/NPI declines (like-for-like rev/NPI excl. Lippo Plaza grew +0.1%/+1.6%).",
+    "source_page": 120
+  }
+]

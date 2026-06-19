@@ -1,0 +1,196 @@
+# Page map — 16_Q5T.SI_Far-East-Hospitality-Trust_FY2025
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p7 — This page displays the organizational chart of Far East Hospitality Trust, detailing its structure with FAR EAST H-REIT and FAR EAST H-BT stapled toge
+    - p87 — This page details the SGX REIT's three-line defence risk management framework, outlining roles across Board Oversight, Independent Assurance, Manageme
+    - p164 — This page of the SGX REIT annual report contains notes to the financial statements for the year ended 31 December 2025, detailing the Trustee-Manager'
+    - p217 — This page lists the table of contents for the FEO Hospitality Trust Management Pte. Ltd. Trustee-Manager's financial statements, including the Directo
+- **also mentions:**
+    - p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hotel performance metrics (ADR, R
+    - p112 ['000] — This page of the SGX REIT annual report for Far East H-REIT presents a table detailing Interested Person Transactions in SGD'000, listing aggregate va
+    - p153 ['000] — This page presents a table of Net distribution adjustments for the Stapled Group ($'000) for the financial year ended 31 December 2025, detailing spec
+    - p156 ['000] — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 December 2025, reporting total net as
+    - p160 ['000] — This page presents the **Statements of Cash Flows** for the Stapled Group, Far East H-REIT Group, and Far East H-BT Group for the financial year ended
+    - p185 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents financial liabilities carried at amortised cost in SGD'000, detai
+    - p188 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Stapled Securities/Units in issue and to be iss
+    - p189 ['000] — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a Net Asset Value per Stapled Security table (
+    - p193 ['000] — This page presents the Subsidiaries table detailing Far East H-REIT Group and Far East H-BT Group entities with their incorporation countries and equi
+    - p194 ['000] — This page contains a Related Party Transactions table (in SGD'000) detailing management fees, trustee fees, shared service fees, and reimbursement exp
+    - p202 — This page of the SGX REIT annual report contains no financial tables or artifacts; it presents only narrative text describing the Managers' currency r
+    - p211 ['000] — This page presents the Segment Reporting table for SGX REIT, detailing gross revenue, segment net property income, and total return before and after t
+    - p214 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted but not recognised (in SGD'000)
+    - p216 ['000] — This page contains the Audited Portfolio Statement for acquisitions, detailing identifiable assets acquired and liabilities assumed at fair value tota
+    - p239 ['000] — This page is a Notice of the 14th Annual General Meeting for Far East Hospitality Trust (SGD'000 reporting unit implied by context but not explicitly 
+
+## performance
+- **MAIN (lead):**
+    - p4 [million] — This page presents SGX REIT financial highlights for the reporting unit in S$ million, featuring a main table of Distribution to Stapled Securityholde
+    - p10 [million] — This page presents financial highlights for Far East H-Trust's FY 2025, including a table of Gross Revenue at S$111.4 million, Net Property Income at 
+    - p22 — This page of the SGX REIT annual report presents descriptive text and a photograph of Adina Serviced Apartments Singapore Orchard, detailing that Far 
+    - p23 [million] — This page presents the **audited Portfolio Statement** detailing SGX REIT's asset valuations of S$ 2.56 billion as of the reporting period, broken dow
+    - p24 [million] — This page presents detailed property-level metrics for Oasia Hotel Downtown and Oasia Hotel Novena, including gross revenue of S$11.9 million and S$11
+    - p29 [million] — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence Robertson Quay, including thei
+    - p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hotel performance metrics (ADR, R
+    - p61 [million] — This page presents the Financial Highlights for Far East H-Trust FY 2025, featuring four main tables displaying Gross Revenue, Net Property Income, Di
+    - p81 — This page presents a GRI Standards disclosure matrix mapping reporting requirements to specific SGX REIT pages and sections, covering General Disclosu
+    - p82 — This page of the SGX REIT Sustainability Report contains a GRI Standards table detailing disclosure titles and references for Material Topics 4 throug
+    - p136 ['000] — This page lists the table of contents for Far East Hospitality Trust's financial statements, explicitly naming the Statement of Total Return (covering
+    - p152 ['000] — This page presents the **Distribution Statement** for the SGX Stapled Group, reporting income available for distribution and cumulative amounts distri
+    - p183 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for Far East H-REIT Group, SGX
+    - p192 ['000] — This page presents financial highlights including the movement in deferred tax liabilities for both the Stapled Group and Far East H-REIT Group, along
+    - p200 ['000] — This page presents a Liquidity Risk disclosure table detailing the maturity profile of financial liabilities for Stapled Group, Far East H-REIT Group,
+    - p213 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents segment reporting details on geographical information i
+- **also mentions:**
+    - p149 ['000] — This page presents the **Statements of Financial Position** for Far East H-REIT Group, Stapled Group, and Far East H-BT Group as at 31 December 2025 a
+    - p187 ['000] — This page presents a reconciliation table of liabilities for Far East H-REIT Group and the Stapled Group's financing activities, detailing borrowing b
+    - p189 ['000] — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, featuring a Net Asset Value per Stapled Security table (
+    - p202 — This page of the SGX REIT annual report contains no financial tables or artifacts; it presents only narrative text describing the Managers' currency r
+    - p204 ['000] — This page contains a Sensitivity analysis for currency risk table detailing the Stapled Group and Far East H-REIT Group's foreign currency exposures i
+    - p214 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted but not recognised (in SGD'000)
+
+## properties
+- **MAIN (lead):**
+    - p5 ['000] — This page presents sustainability highlights for Far East H-Trust, featuring key metrics such as a 2.5% year-on-year growth in gross revenue (SGD'000)
+    - p22 — This page of the SGX REIT annual report presents descriptive text and a photograph of Adina Serviced Apartments Singapore Orchard, detailing that Far 
+    - p23 [million] — This page presents the **audited Portfolio Statement** detailing SGX REIT's asset valuations of S$ 2.56 billion as of the reporting period, broken dow
+    - p24 [million] — This page presents detailed property-level metrics for Oasia Hotel Downtown and Oasia Hotel Novena, including gross revenue of S$11.9 million and S$11
+    - p27 [million] — This page presents property-level details for Village Hotel Albert Court and Village Hotel Bugis, including their gross floor areas, retail NLA, remai
+    - p28 [million] — This page presents a portfolio overview featuring the Village Hotel Changi and Village Residence Hougang, with their respective key metrics displayed 
+    - p29 [million] — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence Robertson Quay, including thei
+    - p30 ['000] — This page presents the audited Portfolio Statement for Four Points by Sheraton Nagoya Chubu International Airport, detailing property metrics includin
+    - p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hotel performance metrics (ADR, R
+    - p64 ['000] — This page presents the Sustainability Report for Far East H-Trust, featuring tables and charts detailing Energy Consumption (kWh in millions), Energy 
+    - p81 — This page presents a GRI Standards disclosure matrix mapping reporting requirements to specific SGX REIT pages and sections, covering General Disclosu
+    - p82 — This page of the SGX REIT Sustainability Report contains a GRI Standards table detailing disclosure titles and references for Material Topics 4 throug
+    - p136 ['000] — This page lists the table of contents for Far East Hospitality Trust's financial statements, explicitly naming the Statement of Total Return (covering
+    - p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT Group, Far East H-BT Group, a
+    - p151 ['000] — This page presents the Statement of Comprehensive Income for Far East H-BT Group for the financial year ended 31 December 2025, reporting a loss of $6
+    - p157 ['000] — This page presents the Audited Portfolio Statement for Far East H-REIT Group as at 31 December 2025, detailing investment properties in Singapore and 
+    - p158 ['000] — This page presents the Audited Portfolio Statement for Far East H-REIT Group as of 31 December 2025, detailing carrying values and percentages for 12 
+    - p167 — This page contains text-only accounting policies for investment properties and property, plant, and equipment within the SGX REIT notes to the financi
+    - p179 ['000] — This page presents the audited Portfolio Statement for investment properties, detailing fair value movements and carrying amounts for the Stapled Grou
+    - p180 ['000] — This page presents the audited Portfolio Statement (property valuations) in Note 4, detailing the property, plant and equipment for the Stapled Group 
+    - p181 ['000] — This page details the Far East H-REIT Group's unrecognised profits and cumulative loss of its joint venture, Fontaine Investment Pte. Ltd. ("FIPL"), w
+    - p182 ['000] — This page presents the audited Portfolio Statement for FIPL (a joint venture), detailing its 2025 and 2024 total assets of SGD'000, net liabilities of
+    - p183 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for Far East H-REIT Group, SGX
+    - p202 — This page of the SGX REIT annual report contains no financial tables or artifacts; it presents only narrative text describing the Managers' currency r
+    - p204 ['000] — This page contains a Sensitivity analysis for currency risk table detailing the Stapled Group and Far East H-REIT Group's foreign currency exposures i
+    - p208 ['000] — This page details Level 2 and Level 3 fair value measurements for Far East H-REIT Group assets (Singapore and Japan) using the audited Portfolio State
+    - p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited portfolio statements, pro
+    - p214 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted but not recognised (in SGD'000)
+    - p216 ['000] — This page contains the Audited Portfolio Statement for acquisitions, detailing identifiable assets acquired and liabilities assumed at fair value tota
+- **also mentions:**
+    - p42 — This page presents a Performance Review of Far East H-Trust's hotel portfolio for FY 2025, featuring text-based data on occupancy (81.3%), average dai
+    - p117 — This page details Far East H-Trust's Corporate Governance policies regarding whistleblowing and the independent reviews conducted by the ASRC on its f
+    - p144 [million] — This page contains the Independent Auditor's Report, which identifies the valuation of investment properties as a Key Audit Matter due to their magnit
+    - p150 ['000] — This page presents the Statements of Total Return for Far East H-REIT Group and the Stapled Group Statement of Profit or Loss for Far East H-BT Group,
+    - p153 ['000] — This page presents a table of Net distribution adjustments for the Stapled Group ($'000) for the financial year ended 31 December 2025, detailing spec
+    - p188 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table detailing Stapled Securities/Units in issue and to be iss
+    - p206 ['000] — This page of the SGX REIT annual report presents the Fair Value Hierarchy table (Note 22) detailing financial instruments and investment properties me
+    - p207 ['000] — This page presents the Fair Value of Assets and Liabilities (cont'd) table for Far East H-REIT Group, detailing financial assets/liabilities (interest
+    - p209 ['000] — This page of the SGX REIT annual report contains a Level 3 fair value measurement table for investment properties (hotels, retail, office, and service
+    - p211 ['000] — This page presents the Segment Reporting table for SGX REIT, detailing gross revenue, segment net property income, and total return before and after t
+
+## top_tenants
+- **MAIN (lead):**
+    - p24 [million] — This page presents detailed property-level metrics for Oasia Hotel Downtown and Oasia Hotel Novena, including gross revenue of S$11.9 million and S$11
+    - p28 [million] — This page presents a portfolio overview featuring the Village Hotel Changi and Village Residence Hougang, with their respective key metrics displayed 
+    - p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hotel performance metrics (ADR, R
+    - p183 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for Far East H-REIT Group, SGX
+    - p198 ['000] — This page presents financial risk management data for the Far East H-BT Group, specifically detailing credit risk exposure through a table of trade re
+    - p214 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted but not recognised (in SGD'000)
+    - p235 — This page presents statistics on Stapled Security holdings for Far East H-REIT and Far East H-BT as of 24 February 2026, featuring the **Top-N tenants
+- **also mentions:**
+    - p5 ['000] — This page presents sustainability highlights for Far East H-Trust, featuring key metrics such as a 2.5% year-on-year growth in gross revenue (SGD'000)
+    - p7 — This page displays the organizational chart of Far East Hospitality Trust, detailing its structure with FAR EAST H-REIT and FAR EAST H-BT stapled toge
+    - p22 — This page of the SGX REIT annual report presents descriptive text and a photograph of Adina Serviced Apartments Singapore Orchard, detailing that Far 
+    - p23 [million] — This page presents the **audited Portfolio Statement** detailing SGX REIT's asset valuations of S$ 2.56 billion as of the reporting period, broken dow
+    - p25 [million] — This page presents property-level data for two assets, Rendezvous Hotel Singapore and Orchard Rendezvous Hotel, featuring a table with key metrics inc
+    - p26 [million] — This page presents property-specific tables for The Quincy Hotel and Vibe Hotel Singapore Orchard, detailing metrics such as guest room counts, gross 
+    - p27 [million] — This page presents property-level details for Village Hotel Albert Court and Village Hotel Bugis, including their gross floor areas, retail NLA, remai
+    - p29 [million] — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence Robertson Quay, including thei
+    - p30 ['000] — This page presents the audited Portfolio Statement for Four Points by Sheraton Nagoya Chubu International Airport, detailing property metrics includin
+    - p59 — This page presents a table mapping Far East H-Trust's commitment to eight selected United Nations Sustainable Development Goals (UN SDGs), detailing t
+    - p64 ['000] — This page presents the Sustainability Report for Far East H-Trust, featuring tables and charts detailing Energy Consumption (kWh in millions), Energy 
+    - p81 — This page presents a GRI Standards disclosure matrix mapping reporting requirements to specific SGX REIT pages and sections, covering General Disclosu
+    - p82 — This page of the SGX REIT Sustainability Report contains a GRI Standards table detailing disclosure titles and references for Material Topics 4 throug
+    - p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT Group, Far East H-BT Group, a
+    - p151 ['000] — This page presents the Statement of Comprehensive Income for Far East H-BT Group for the financial year ended 31 December 2025, reporting a loss of $6
+    - p167 — This page contains text-only accounting policies for investment properties and property, plant, and equipment within the SGX REIT notes to the financi
+    - p200 ['000] — This page presents a Liquidity Risk disclosure table detailing the maturity profile of financial liabilities for Stapled Group, Far East H-REIT Group,
+    - p202 — This page of the SGX REIT annual report contains no financial tables or artifacts; it presents only narrative text describing the Managers' currency r
+    - p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited portfolio statements, pro
+    - p217 — This page lists the table of contents for the FEO Hospitality Trust Management Pte. Ltd. Trustee-Manager's financial statements, including the Directo
+
+## trade_mix
+- **MAIN (lead):**
+    - p5 ['000] — This page presents sustainability highlights for Far East H-Trust, featuring key metrics such as a 2.5% year-on-year growth in gross revenue (SGD'000)
+    - p29 [million] — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence Robertson Quay, including thei
+    - p42 — This page presents a Performance Review of Far East H-Trust's hotel portfolio for FY 2025, featuring text-based data on occupancy (81.3%), average dai
+    - p45 — This page presents a Lease Maturity Profile and Top 10 Commercial Premises Tenants table as at 31 December 2025, alongside a Trade Sector Mix of Tenan
+    - p64 ['000] — This page presents the Sustainability Report for Far East H-Trust, featuring tables and charts detailing Energy Consumption (kWh in millions), Energy 
+    - p81 — This page presents a GRI Standards disclosure matrix mapping reporting requirements to specific SGX REIT pages and sections, covering General Disclosu
+    - p82 — This page of the SGX REIT Sustainability Report contains a GRI Standards table detailing disclosure titles and references for Material Topics 4 throug
+    - p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT Group, Far East H-BT Group, a
+    - p167 — This page contains text-only accounting policies for investment properties and property, plant, and equipment within the SGX REIT notes to the financi
+    - p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited portfolio statements, pro
+- **also mentions:**
+    - p10 [million] — This page presents financial highlights for Far East H-Trust's FY 2025, including a table of Gross Revenue at S$111.4 million, Net Property Income at 
+    - p43 — This page presents the "REVIEW OF SERVICED RESIDENCE PERFORMANCE" and "REVIEW OF HOTEL PERFORMANCE" for SGX REIT, featuring two tables detailing reven
+    - p183 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for Far East H-REIT Group, SGX
+    - p185 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents financial liabilities carried at amortised cost in SGD'000, detai
+    - p186 ['000] — This page details the REIT's trade and other liabilities alongside a comprehensive Statement of Borrowings (current and non-current) presented in SGD'
+    - p198 ['000] — This page presents financial risk management data for the Far East H-BT Group, specifically detailing credit risk exposure through a table of trade re
+    - p200 ['000] — This page presents a Liquidity Risk disclosure table detailing the maturity profile of financial liabilities for Stapled Group, Far East H-REIT Group,
+    - p201 ['000] — This page presents a Liquidity risk table detailing trade and other liabilities, derivative financial liabilities, rental deposits, and borrowings for
+    - p211 ['000] — This page presents the Segment Reporting table for SGX REIT, detailing gross revenue, segment net property income, and total return before and after t
+    - p212 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a Segment Reporting table in SGD'000 detailing business segment p
+    - p213 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents segment reporting details on geographical information i
+
+## financial
+- **MAIN (lead):**
+    - p24 [million] — This page presents detailed property-level metrics for Oasia Hotel Downtown and Oasia Hotel Novena, including gross revenue of S$11.9 million and S$11
+    - p29 [million] — This page presents portfolio data for two properties, Adina Serviced Apartments Singapore Orchard and Village Residence Robertson Quay, including thei
+    - p35 — This page presents a "Demand and Performance" summary for 2025 featuring a bar-and-line chart and a table displaying hotel performance metrics (ADR, R
+    - p136 ['000] — This page lists the table of contents for Far East Hospitality Trust's financial statements, explicitly naming the Statement of Total Return (covering
+    - p143 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Far East H-REIT Group, Far East H-BT Group, a
+    - p150 ['000] — This page presents the Statements of Total Return for Far East H-REIT Group and the Stapled Group Statement of Profit or Loss for Far East H-BT Group,
+    - p151 ['000] — This page presents the Statement of Comprehensive Income for Far East H-BT Group for the financial year ended 31 December 2025, reporting a loss of $6
+    - p152 ['000] — This page presents the **Distribution Statement** for the SGX Stapled Group, reporting income available for distribution and cumulative amounts distri
+    - p154 ['000] — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 December 2025, reporting changes in u
+    - p182 ['000] — This page presents the audited Portfolio Statement for FIPL (a joint venture), detailing its 2025 and 2024 total assets of SGD'000, net liabilities of
+    - p183 ['000] — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss) for Far East H-REIT Group, SGX
+    - p202 — This page of the SGX REIT annual report contains no financial tables or artifacts; it presents only narrative text describing the Managers' currency r
+    - p203 ['000] — This page presents a table detailing net investment hedges for foreign currency risk exposures at 31 December 2025, specifically listing borrowings he
+    - p205 ['000] — This page presents a sensitivity analysis for currency risk under Financial Risk Management, detailing the impact of a 10% strengthening or weakening 
+    - p210 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no schema-relevant data such as audited portfolio statements, pro
+    - p214 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a table of commitments contracted but not recognised (in SGD'000)
+    - p217 — This page lists the table of contents for the FEO Hospitality Trust Management Pte. Ltd. Trustee-Manager's financial statements, including the Directo
+    - p220 — This page contains the Independent Auditor's Report for FEO Hospitality Trust Management Pte. Ltd. covering the financial year ended 31 December 2025,
+    - p223 ['000] — This page presents the **Statement of Profit or Loss and Other Comprehensive Income** for the financial year ended 31 December 2025, reporting a loss 
+    - p224 ['000] — This page presents the Statement of Financial Position as at 31 December 2025, reporting current assets of $100 and net current liabilities of $(72,90
+    - p226 ['000] — This page presents the Statement of Cash Flows for the financial year ended 31 December 2025, reporting a net cash flow used in operating activities o
+- **also mentions:**
+    - p4 [million] — This page presents SGX REIT financial highlights for the reporting unit in S$ million, featuring a main table of Distribution to Stapled Securityholde
+    - p5 ['000] — This page presents sustainability highlights for Far East H-Trust, featuring key metrics such as a 2.5% year-on-year growth in gross revenue (SGD'000)
+    - p10 [million] — This page presents financial highlights for Far East H-Trust's FY 2025, including a table of Gross Revenue at S$111.4 million, Net Property Income at 
+    - p25 [million] — This page presents property-level data for two assets, Rendezvous Hotel Singapore and Orchard Rendezvous Hotel, featuring a table with key metrics inc
+    - p26 [million] — This page presents property-specific tables for The Quincy Hotel and Vibe Hotel Singapore Orchard, detailing metrics such as guest room counts, gross 
+    - p27 [million] — This page presents property-level details for Village Hotel Albert Court and Village Hotel Bugis, including their gross floor areas, retail NLA, remai
+    - p28 [million] — This page presents a portfolio overview featuring the Village Hotel Changi and Village Residence Hougang, with their respective key metrics displayed 
+    - p30 ['000] — This page presents the audited Portfolio Statement for Four Points by Sheraton Nagoya Chubu International Airport, detailing property metrics includin
+    - p60 [million] — This page presents the SGX REIT's sustainability report journey and FY 2025 highlights, featuring a timeline of ESG initiatives from 2017 to 2025 and 
+    - p61 [million] — This page presents the Financial Highlights for Far East H-Trust FY 2025, featuring four main tables displaying Gross Revenue, Net Property Income, Di
+    - p112 ['000] — This page of the SGX REIT annual report for Far East H-REIT presents a table detailing Interested Person Transactions in SGD'000, listing aggregate va
+    - p156 ['000] — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 December 2025, reporting total net as
+    - p160 ['000] — This page presents the **Statements of Cash Flows** for the Stapled Group, Far East H-REIT Group, and Far East H-BT Group for the financial year ended
+    - p191 ['000] — This page presents the Income Tax Expense reconciliation for the SGX REIT Stapled Group, Far East H-REIT Group, and Far East H-BT Group for the year e
+    - p194 ['000] — This page contains a Related Party Transactions table (in SGD'000) detailing management fees, trustee fees, shared service fees, and reimbursement exp
+    - p211 ['000] — This page presents the Segment Reporting table for SGX REIT, detailing gross revenue, segment net property income, and total return before and after t
+    - p212 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a Segment Reporting table in SGD'000 detailing business segment p
+    - p213 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents segment reporting details on geographical information i
+    - p232 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 5, 6, and 7 detailing Income Tax Expense reconciliation, Ot

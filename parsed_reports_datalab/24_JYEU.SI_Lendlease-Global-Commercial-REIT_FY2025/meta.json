@@ -1,0 +1,14 @@
+{
+  "file": "24_JYEU.SI_Lendlease-Global-Commercial-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 184,
+  "pages_written": 184,
+  "seconds": 52.9,
+  "parse_quality_score": null,
+  "runtime": 45.18567633628845,
+  "cost_breakdown": {
+    "final_cost_cents": 74.0
+  },
+  "checkpoint_id": "checkpoint_WIgqCwRU_vR5x91Zuq-xTd_fslQhwPCamfF1-eIpL8I",
+  "page_range": null
+}

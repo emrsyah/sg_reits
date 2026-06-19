@@ -1,0 +1,14 @@
+{
+  "file": "29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 188,
+  "pages_written": 188,
+  "seconds": 34.0,
+  "parse_quality_score": null,
+  "runtime": 27.527076721191406,
+  "cost_breakdown": {
+    "final_cost_cents": 76.0
+  },
+  "checkpoint_id": "checkpoint_QvUXUKuPKRuQSR0CqQ5fVJmnjAwX_V2Yp9Qw_YeM-cI",
+  "page_range": null
+}

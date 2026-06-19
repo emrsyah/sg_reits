@@ -1,0 +1,45 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "Per-property NPI is not disclosed. The audited segment note (Note 24) reports NPI only at segment level (Commercial S$130,375k; Hospitality S$89,204k), and the portfolio review gives per-property revenue and revenue-contribution % but no per-property NPI."},
+    {"column": "properties.gla", "reason": "Commercial assets disclose NLA (lettable), not GLA; hotels disclose GFA + room keys, not lettable area. No gross lettable area is disclosed per property."},
+    {"column": "properties.occupancy_rate (hotels)", "reason": "Hilton Singapore Orchard and Crowne Plaza Changi Airport are master-leased and reported by RevPAR (S$260 and S$246 respectively), not committed occupancy %."},
+    {"column": "properties.nla (hotels)", "reason": "Hotel size is disclosed as room keys (Hilton 1,080; Crowne Plaza 575) and GFA, not net lettable area."}
+  ],
+  "data_with_no_home": [
+    "Hotel room keys: Hilton Singapore Orchard 1,080 rooms; Crowne Plaza Changi Airport 575 rooms; portfolio total 1,655 upper-upscale hotel rooms (page 15).",
+    "FY2025 hospitality RevPAR: Hilton Singapore Orchard S$260; Crowne Plaza Changi Airport S$246; Hospitality segment S$255 (page 38).",
+    "Capital management indicators (page 41): total debt S$2,168m (incl. proportionate share of OUB Centre and OUE Allianz Bayfront loans); fixed-rate debt 79.2%; unsecured debt 83.0%; unencumbered assets 87.0%; green financing 83.0%; bank loans 53.9% / MTN 46.1%; issuer rating BBB- (S&P).",
+    "Segment NPI (Note 24): Commercial S$130,375k, Hospitality S$89,204k (total S$219,579k). Geographical: all FY2025 revenue Singapore (China nil after Lippo Plaza divestment).",
+    "Sponsor OUE Limited holds c.48.6% of OUE REIT (page 13); per Statistics of Unitholdings, OUE Limited direct holding 1,081,414,227 units = 19.57% (page 177), remainder via nominee accounts.",
+    "Weighted average number of units: basic 5,508,095k; diluted 5,832,137k; units in issue and to be issued 5,524,617k (pages 106, 153).",
+    "Convertible Perpetual Preferred Units (CPPU) holder's funds S$212,309k; amount reserved for distribution to CPPU holder S$2,200k (pages 106, 108)."
+  ],
+  "parsing_traps": [
+    "OCR consistently renders 'OUE' as 'QUE' in several headings/body text (e.g. 'QUE REIT', 'QUE Eastern Pte. Ltd.', 'QUE Downtown Office', 'OUÉ LIMITED'). Corrected to OUE in extraction.",
+    "SGX code printed as 'TSOU' (letter O) on page 180; the actual ticker is TS0U (zero).",
+    "Property cards present marketing valuations in S$ millions; market_valuation taken from the audited Note 4 (Investment properties) total reconciliation — the 5 consolidated property card values (1,930.0 + 930.0 + 438.0 + 1,273.0 + 511.0 = 5,082.0m) tie exactly to the audited 'Fair value of investment properties (based on independent valuation)' of S$5,082,000k on page 134.",
+    "Note A 'Distribution adjustments' (page 109) is the distribution reconciliation, NOT the Statement of Total Return; line_items were taken from the audited Statement of Total Return (page 107) only, to avoid double-counting.",
+    "Page numbering: classify schema_pages_v2.json md_page indices run ~1 ahead of the markdown <!-- PAGE N --> markers; line_items source_page values use the markdown PAGE numbers (Statement of Total Return = PAGE 107; Revenue note = PAGE 149; Opex note = PAGE 150)."
+  ],
+  "reconciliation": {
+    "income_total_revenue": 273611000,
+    "performance_gross_revenue": 273611000,
+    "income_gross_income_npi": 219579000,
+    "performance_net_property_income": 219579000,
+    "line_items_revenue_minus_expense_plus_signed_adjustments": 36603000,
+    "income_net_income_total_return": 36603000,
+    "line_items_reconciliation_check": "273,611 - 73,520 + (-163,488) = 36,603 (PASS)",
+    "sum_consolidated_property_valuation": 5082000000,
+    "audited_independent_valuation_total": 5082000000,
+    "valuation_reconciliation_note": "Sum of the 5 fully-consolidated property valuations = S$5,082.0m, ties to audited independent valuation (page 134). Carrying amount S$5,105,632k = 5,082,000 + lease liability 22,612 + lease prepayment 1,020. OUE Bayfront (S$1,422.0m at 100%) is a 50% equity-accounted JV, excluded from the consolidated investment-properties statement (Investment in joint venture S$334,941k).",
+    "trade_mix_sum_pct": 100.0,
+    "headline_portfolio_value_proportionate": 5793000000
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "rows": ["OUE Downtown Office", "Mandarin Gallery", "Hilton Singapore Orchard", "Crowne Plaza Changi Airport", "OUE Bayfront"], "basis": "Computed as land-lease start date + lease term (e.g. 99-year lease from 1 Jul 1957 -> 2056-06-30; 66-year lease from 9 Jun 2017 -> 2083-06-08). Not disclosed as an explicit expiry date in the report.", "source_page": 14},
+    {"table": "properties", "field": "lease_expiry_date", "rows": ["One Raffles Place"], "value": "2082-05-25", "basis": "ORP has multiple component leases (Tower 1 and ~75% of retail podium: 841-year lease from 1 Nov 1985; Tower 2 and balance: 99-year lease from 26 May 1983). Per the multi-lease rule the EARLIER expiry is used: Tower 2's 99-year lease from 26 May 1983 -> 2082-05-25. lease_term_years (841) reflects the dominant/longest component; full wording in tenure_raw.", "source_page": 14},
+    {"table": "properties", "field": "ownership", "rows": ["One Raffles Place"], "value": 67.95, "basis": "Effective interest 67.95% disclosed (page 35 footnote 5); = 83.33% (OUE REIT in OUB Centre) x 81.54% (OUB Centre in ORP). Carried at 100% in the consolidated FS with 16.67% NCI at OUB Centre level.", "source_page": 35},
+    {"table": "financial", "field": "income_stmt_metrics.ebitda", "scope": "single field", "value": 116633000, "basis": "Derived: ebit (116,582) + depreciation of plant & equipment 51 (from cash flow / segment note). Fair-value REIT with no material P&L D&A.", "source_page": 120},
+    {"table": "performance", "field": "portfolio_occupancy", "value": 95.4, "basis": "Disclosed Singapore office portfolio committed occupancy as at 31 Dec 2025 (page 36). No single portfolio-wide committed-occupancy figure is disclosed (hotels master-leased, reported by RevPAR). Flagged in performance.flags.", "source_page": 36}
+  ]
+}

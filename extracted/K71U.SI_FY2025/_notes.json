@@ -1,0 +1,41 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue is not disclosed. The cards disclose only 'FY2025 Attributable NPI' per property; property income is disclosed only at Group level (Note 20, S$274,478k)."},
+    {"column": "properties.gla / properties.gfa", "reason": "Only Net Lettable Area (NLA, attributable) is disclosed per property; no GLA or GFA breakdown."},
+    {"column": "top_tenant.revenue_pct on a single basis", "reason": "Top-10 table discloses both % of committed monthly gross rent and % of committed NLA; revenue_pct captured = committed monthly gross rent."}
+  ],
+  "data_with_no_home": [
+    "Tenant Business Sector Analysis BY COMMITTED NLA (%) (p43) — a parallel mix to the gross-rent trade_mix captured; not stored to avoid double-counting.",
+    "Top 10 tenants WALE 8.1 years; portfolio WALE 4.4 years (p41/42).",
+    "Weighted average term to maturity (WATM) of borrowings 2.4 years (40.4% leverage / 2.8 years WATM pro-forma after Jan-2026 Preferential Offering) (p65/66).",
+    "Percentage of borrowings on fixed rates: 53% (62% pro-forma) (p4).",
+    "Percentage of assets unencumbered 66% (p66).",
+    "Total gross borrowings incl. KR share of JV/associate external borrowings: S$5,667,960k; excl. JV: S$3,761.7m (p7/p65).",
+    "Value of deposited property S$11,844,532k (p7).",
+    "FX rates used on cards: A$1 = S$0.8493; KRW 1,000 = S$0.8830; JPY 100 = S$0.8303 (p45).",
+    "Number of tenants in portfolio: 694; rental reversion +11.5%; tenant retention 74.1% (p40/41).",
+    "Issued units at 27 Feb 2026: 4,955,086,896; weighted-average units (DPU denominator): 3,903,899,000 (p217/p165)."
+  ],
+  "parsing_traps": [
+    "Portfolio Statement (p122) carrying-value column lists only the 8 directly-held investment properties (Σ = S$5,573,016k = audited 'Investment properties, at valuation'). The 5 JV/associate properties (One Raffles Quay, MBFC Towers 1&2+Mall, MBFC Tower 3, 8 Chifley Square, David Malcolm Justice Centre) appear in that statement with NO carrying value — they are equity-accounted via the single 'Investments in associates and joint ventures' line (S$4,220,248k). Their appraised values are on p123 at Keppel REIT's interest.",
+    "p123 valuation table presents ALL properties at Keppel REIT's INTEREST (e.g. OFC at S$2,301,120k = 79.9%), totalling S$11,657,085k. The audited carrying values on p122 for OFC/T Tower/KR Ginza II are on a 100% basis. market_valuation for the 8 directly-held properties uses the Tier-C p122 carrying value (100% where carried at 100%); the 5 JV properties use the p123 KR-interest valuation.",
+    "8 Exhibition Street = 50% interest in the office building + 100% interest in the three adjacent retail units (one combined row).",
+    "MBFC card (p44) combines Towers 1,2,3 + Link Mall (1,460,852 sf NLA, S$112.3m NPI); the Portfolio Statement splits MBFC into two JV lines (Towers 1&2+Mall via BFC Development LLP at 1/3, and Tower 3 via Central Boulevard Development at 2/3), so per-tower NLA/NPI are not separable. Combined NLA/NPI assigned to neither tower row; NPI null on both JV MBFC rows."
+  ],
+  "reconciliation": {
+    "sum_property_npi": 381300000,
+    "reported_total_npi": 381400000,
+    "npi_basis_note": "Per-property net_property_income is disclosed on an ATTRIBUTABLE (Keppel REIT's interest) basis. Σ of all 14 properties' attributable NPI = S$381.3m, matching the disclosed 'Keppel REIT's attributable NPI for 2025 was $381.4 million' / 'Attributable NPI by Property' total (p64). This is NOT comparable to the consolidated Group NPI of S$215,905k (which consolidates OFC/T Tower/KR Ginza II at 100% and EXCLUDES equity-accounted JV property NPI). The gate's default comparator (Group NPI) therefore legitimately differs by basis — full_consolidation_partial_ownership + equity-accounted JVs.",
+    "reported_group_npi_consolidated": 215905000,
+    "reported_total_gross_revenue": 274478000,
+    "sum_directly_held_property_carrying_value": 5573016000,
+    "audited_portfolio_statement_investment_properties_at_valuation": 5573016000,
+    "p123_valuation_total_all_properties_at_KR_interest": 11657085000,
+    "sum_property_attributable_npi_cards": "Direct + JV per-property attributable NPI from cards (incl. MBFC combined S$112.3m) ≈ S$340.0m, vs Group NPI S$215.9m + Share of JV results S$124.6m = S$340.5m. Difference is rental support and rounding; per-property NPI figures are on KR attributable interest.",
+    "financial_line_items_check": "Σrevenue (274,478) − Σexpense (58,573) + Σadjustment_signed (288,130) = 504,035 = net_income (Profit for the year). NPI 215,905 = total_revenue − cost_of_revenue. total_revenue 274,478 = performance.gross_revenue. gross_income 215,905 = performance.net_property_income."
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "scope": "leasehold properties", "value": "from card 'Title' expiry dates", "basis": "Lease expiry dates taken verbatim from the per-property 'Title' field on the At-a-Glance cards (p44-46); remaining-term years are from the Portfolio Statement (p122).", "source_page": 44},
+    {"table": "properties", "field": "category", "scope": "Top Ryde City Shopping Centre", "value": "Retail", "basis": "Classified Retail (a retail mall) per p40 narrative; all other assets are Office. category_raw 'Commercial' as printed in the Portfolio Statement.", "source_page": 40}
+  ]
+}

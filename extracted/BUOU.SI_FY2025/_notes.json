@@ -1,0 +1,83 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "net_property_income (per property)",
+      "reason": "NPI disclosed only at geography/asset-class segment level (p27), not per property."
+    },
+    {
+      "column": "gla / gfa (per property)",
+      "reason": "Property profile discloses 'Lettable Area (sqm)' only -> mapped to nla; gross lettable (gla) and gross floor (gfa) not separately disclosed per property."
+    },
+    {
+      "column": "npi_pct (per property)",
+      "reason": "Not disclosed; only segment NPI% (geography/asset class) given."
+    }
+  ],
+  "data_with_no_home": [
+    "Revenue/NPI by geography & asset class (donut charts p27): Revenue by geography Australia 48.3% Europe 26.1% Singapore 11.4% UK 14.2%; NPI by geography Australia 46.2% Europe 30.9% Singapore 9.7% UK 13.2%.",
+    "Portfolio value by asset type (p32): Logistics & Industrial 75.1%, Business Park 20.2%, Office 4.7%.",
+    "Portfolio land tenure by value (p33): Freehold 73.0%, >75-year leasehold 20.7%, Other leasehold 6.3%.",
+    "Total borrowings S$2,513.3m; 70.4% hedged to fixed rates; debt by currency EUR 50.0% / SGD 30.0% / GBP 12.0% / AUD 8.0% (p29).",
+    "WALB 4.5 years; 83.1% of leases CPI-linked/fixed escalations (p35). 315 tenants across 5 countries (p33). Total lettable area 2.8m sqm (p31/38).",
+    "Top 10 L&I tenants = 22.1% of GRI (WALE 4.5y); Top 10 Commercial tenants = 12.1% of GRI (WALE 9.5y); overall top 10 = 26.3% of portfolio GRI (p33).",
+    "Credit rating: Fitch BBB+ stable (p27)."
+  ],
+  "parsing_traps": [
+    "Multi-currency portfolio (AUD/EUR/GBP/SGD): the Property Profile prints valuations in the SGD-consolidated $m column (matches audited Portfolio Statement carrying amounts to the dollar). 357 Collins divestment price is in AUD (A$192.1m). Closing FX used for valuation, average FX for income.",
+    "Audited Portfolio Statement (p127-134) uses property ADDRESSES; Property Profile (p50-57) uses property NUMBERS + addresses. Matched by sequence/address; some leasehold carrying amounts include right-of-use assets (footnote c) so audited '000 > profile $m for Melbourne Airport, Wetherill Park, Port Kembla, Nuremberg etc. Canonical market_valuation = audited carrying amount (incl. ROU).",
+    "Central Park (Perth): 50% effective interest but fully consolidated at 100% (S$319,097k) - full_consolidation_partial_ownership flag set."
+  ],
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "all 113 active rows",
+      "value": "audited carrying amount '000 x1000",
+      "basis": "From audited Portfolio Statement (p127-134); matched to Property Profile rows by address/sequence. Sum reconciles exactly to audited total S$6,993,898,000.",
+      "source_page": 127
+    },
+    {
+      "table": "properties",
+      "field": "nla",
+      "scope": "all rows",
+      "value": "'Lettable Area (sqm)' from Property Profile",
+      "basis": "Disclosed as generic lettable area; assigned to nla (net lettable). Unit = sqm.",
+      "source_page": 52
+    },
+    {
+      "table": "trade_mix",
+      "field": "pct",
+      "scope": "all rows",
+      "value": "L&I% + Commercial%",
+      "basis": "Portfolio tenant sector breakdown by GRI (p34) disclosed split by L&I and Commercial; summed to portfolio-level pct per sector.",
+      "source_page": 34
+    },
+    {
+      "table": "performance",
+      "field": "distribution_record H2 dpu",
+      "value": 2.95,
+      "basis": "FY2025 DPU 5.95c minus H1 paid 3.00c (p120); H2 declared post year-end.",
+      "source_page": 120
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date / lease_term_years",
+      "scope": "leasehold rows",
+      "value": "parsed from tenure_raw",
+      "basis": "Derived from verbatim 'N-year leasehold expiring on <date>' wording in Portfolio Statement / Property Profile; earliest date used for dual-expiry (Port Kembla).",
+      "source_page": 127
+    }
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation": 6993898000,
+    "audited_portfolio_total": 6993898000,
+    "reported_total_gross_revenue": 471486000,
+    "sum_line_items_revenue": 471486000,
+    "financial_total_return": 212401000,
+    "line_items_recon (rev-exp+adj)": 212401000,
+    "trade_mix_sum_pct": 100.0,
+    "note": "line_items reconcile to net_income exactly. trade_mix sums to ~99.4% (disclosed sector breakdown; small residual = undisclosed 'other').",
+    "sum_property_gross_revenue": 457500000,
+    "gross_revenue_gap_note": "Σ per-property gross_revenue 457.5m vs reported total 471.486m (-2.97%). Gap = (i) Central Park GR shown at 100% on a 50%-owned asset but eliminations differ; (ii) 357 Collins Street partial-year revenue (divested Sep 2025) is in the consolidated total but the property is absent from the FY2025 Property Profile listing; (iii) recoverable outgoings/straight-lining timing. As-disclosed per-property figures kept; not forced to balance."
+  }
+}

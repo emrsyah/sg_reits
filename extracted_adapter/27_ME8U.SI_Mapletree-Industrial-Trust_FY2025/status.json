@@ -1,0 +1,27 @@
+{
+  "stem": "27_ME8U.SI_Mapletree-Industrial-Trust_FY2025",
+  "symbol": "ME8U.SI",
+  "financial_year": 2025,
+  "sub_sector": "Diversified",
+  "template_family": "Mapletree",
+  "parsed": {"markdown": "parsed_reports_datalab/27_ME8U.SI_Mapletree-Industrial-Trust_FY2025/full.md", "html_pages": "n/a (llm_only)", "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 1,
+      "note": "Sponsor Mapletree Investments Pte Ltd; Manager Mapletree Industrial Trust Management Ltd.; Trustee DBS Trustee Limited; 3 property managers (SG/US/Japan). Source p20 trust structure + p146 + p211."},
+    "performance": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 1,
+      "note": "All 7 KPIs disclosed (p11/p33/p36). portfolio_value=AUM incl JV 9,144.3m. unitholders 44,969 (p205). FY-end 31 Mar."},
+    "properties": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 100,
+      "cross_check": {"vs": "audited Portfolio Statement p132-145 subtotals + FV-net-of-lease p167", "match": "EXACT: Σ consolidated valuation 7,975,962,000; Σ consolidated gross_revenue 711,833,000", "gaps": ["13 MRODCT JV (40-50%) DCs equity-accounted, added from overview p44-47 at 100% US$, value_basis=joint_venture_100pct; Tanglin Halt divested (no value)"]},
+      "note": "FACING-PAGE POSITIONAL SPLIT layout (description even pages / values odd pages, blank label col) -> llm_only."},
+    "top_tenants": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 10,
+      "note": "Top-10 by GRI (p33), no trade-sector column; DC clients anonymised (verbatim descriptor as client_name); industry inferred from name (flagged)."},
+    "trade_mix": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 5,
+      "note": "5 top-level trade sectors by GRI (p34) summing to 100%; leaf sub-sectors not captured to avoid double-count."},
+    "financial": {"status": "llm_only", "method": "llm_only", "adapterable": false, "rows": 1,
+      "cross_check": {"vs": "Statement of Profit or Loss p122 + notes p161/164 + SFP p124 + cash flow p127-128", "match": "line_items reconcile to net_income 345,441,000; total_revenue=gross_revenue=711,833,000; gross_income=NPI=531,460,000", "gaps": []},
+      "note": "Group consolidated column. ebit/ebitda/operating_income/non_operating/interest_expense_non_operating derived (_derived). income_taxes positive 29,631. JV share +30,655 as adjustment."}
+  },
+  "final_dir": "extracted/ME8U.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

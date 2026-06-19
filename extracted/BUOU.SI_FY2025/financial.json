@@ -1,0 +1,241 @@
+{
+  "symbol": "BUOU.SI",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "source_page": 119,
+  "income_stmt_metrics": {
+    "total_revenue": 471486000,
+    "cost_of_revenue": 131760000,
+    "gross_income": 339726000,
+    "operating_income": 295154000,
+    "operating_expense": 44572000,
+    "ebit": 330333000,
+    "ebitda": 330333000,
+    "pretax_income": 248414000,
+    "income_taxes": 36013000,
+    "net_income": 212401000,
+    "non_operating_income_or_loss": -46740000,
+    "interest_expense_non_operating": 81919000,
+    "diluted_shares_outstanding": 3768187000,
+    "net_property_sales": 180000,
+    "funds_from_operation": null,
+    "unitholders": 205073000,
+    "perpetual_security_holders": null,
+    "minorities": 7328000,
+    "revenue_breakdown": [
+      {
+        "category": "Rental income",
+        "amount": 383348000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Recoverable outgoings",
+        "amount": 87523000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other revenue",
+        "amount": 615000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Managers' management fees",
+        "amount": 36579000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustees' fees",
+        "amount": 877000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trust expenses",
+        "amount": 7116000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "operating_income",
+      "operating_expense",
+      "ebit",
+      "ebitda",
+      "non_operating_income_or_loss",
+      "interest_expense_non_operating"
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 7340358000,
+    "total_equity": 4268384000,
+    "total_liabilities": 3071974000,
+    "working_capital": -263165000,
+    "total_current_asset": 345484000,
+    "total_non_current_asset": 6994874000,
+    "total_current_liabilities": 608649000,
+    "total_non_current_liabilities": 2463325000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 302264000,
+    "investing_cash_flow": -35944000,
+    "financing_cash_flow": -104227000,
+    "net_cash_flow": 162093000,
+    "free_cash_flow": null,
+    "capital_expenditure": -50577000
+  },
+  "employee_breakdown": {
+    "total_employee": null,
+    "permanent_employee": null,
+    "contract_employee": null,
+    "others_employee": null
+  },
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "rental_income",
+      "amount": 383348000,
+      "label_raw": "Rental income",
+      "source_page": 159
+    },
+    {
+      "statement": "revenue",
+      "component": "recoverable_outgoings",
+      "amount": 87523000,
+      "label_raw": "Recoverable outgoings",
+      "source_page": 159
+    },
+    {
+      "statement": "revenue",
+      "component": "other_revenue",
+      "amount": 615000,
+      "label_raw": "Other revenue",
+      "source_page": 159
+    },
+    {
+      "statement": "expense",
+      "component": "property_tax",
+      "amount": 37392000,
+      "label_raw": "Land and property tax",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_fee",
+      "amount": 15565000,
+      "label_raw": "Property management fees",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "property_maintenance",
+      "amount": 44146000,
+      "label_raw": "Property maintenance and related expenses",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "property_professional_fees",
+      "amount": 1578000,
+      "label_raw": "Property related professional fees",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "doubtful_receivables",
+      "amount": 426000,
+      "label_raw": "Provision/(reversal) of doubtful receivables",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "statutory_expenses",
+      "amount": 11150000,
+      "label_raw": "Statutory expenses",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "other_property_expenses",
+      "amount": 21503000,
+      "label_raw": "Other property expenses",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 27687000,
+      "label_raw": "Base fee",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_performance",
+      "amount": 8892000,
+      "label_raw": "Performance fee",
+      "source_page": 160
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 877000,
+      "label_raw": "Trustees' fees",
+      "source_page": 119
+    },
+    {
+      "statement": "expense",
+      "component": "trust_expenses",
+      "amount": 7116000,
+      "label_raw": "Trust expenses",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "exchange_gain",
+      "amount": 191000,
+      "label_raw": "Exchange gains (net)",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 1081000,
+      "label_raw": "Finance income",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_costs",
+      "amount": -83000000,
+      "label_raw": "Finance costs",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -2077000,
+      "label_raw": "Net change in fair value of derivatives",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": 36885000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "divestment_gain",
+      "amount": 180000,
+      "label_raw": "Gain on divestment of investment properties",
+      "source_page": 119
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax",
+      "amount": -36013000,
+      "label_raw": "Tax expense",
+      "source_page": 119
+    }
+  ]
+}

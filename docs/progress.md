@@ -3,7 +3,7 @@
 Single source of truth for pipeline state per annual report. Stages:
 **Parsed** → **Extracted** → **Guardchecked** (deterministic gates) → **Audited** (forensic LLM, correctness vs source).
 
-Last updated: 2026-06-18.
+Last updated: 2026-06-19.
 
 > **FY2025 scale run in progress** (chunks of 8). Schema gained 7 as-disclosed comparison KPIs
 > on `performance` (aggregate_leverage, interest_coverage_ratio, cost_of_debt,
@@ -19,8 +19,22 @@ Last updated: 2026-06-18.
 > DCRU (Digital Core), MXNU (Elite UK, 148 props), J91U (ESR-LOGOS). All 8 PASS both gates (0 fail).
 > 7 KPIs captured where disclosed (CY6U/AJBU/AW9U debt-maturity/WALE-as-chart → null). Income
 > bucketing clean; valuations reconcile to audited. MXNU/J91U needed a Datalab re-parse (key quota).
-> UD1U Sofidy PM added. **Done: 17/30 FY2025 (batch-1 8 + M44U pilot + batch-2 8). Remaining 13
-> (all need parse): Q5T, BUOU, CMOU, K71U, JYEU, ME8U, N2IU, TS0U, OXMU, P40U, SET, T82U, ODBU.**
+> UD1U Sofidy PM added.
+> **Batch 3 (2026-06-19): 8 newly parsed trusts** — Q5T (Far East Hospitality, stapled),
+> BUOU (Frasers L&C, AU/EU/UK multi-ccy, FY-end 30 Sep), CMOU (KORE US REIT, USD, distribution
+> resumed 2H25 after the recap halt — net LOSS, tax credit), K71U (Keppel REIT, 5 JV/assoc props),
+> JYEU (Lendlease, FY-end 30 Jun, Parkway Parade 10% associate), ME8U (Mapletree Industrial,
+> 100 props incl. 13 US-DC MRODCT JV, FY-end 31 Mar), N2IU (MPACT, 5-currency, FY-end 31 Mar),
+> TS0U (OUE REIT, office/retail/hospitality, OUE Bayfront 50% JV + ORP 67.95% full-consol).
+> All 8 PASS both gates (0 fail). No Datalab quota wall this batch (all 8 parsed first try).
+> 56/56 KPIs verified to source by a 3-agent cross-check; Q5T WALE + portfolio_occupancy are
+> genuine nulls (hospitality master-leased; only per-segment occupancy disclosed) — flagged.
+> Income mis-bucketing caught + fixed where present (JYEU, CMOU, TS0U finance/interest income →
+> adjustment). JV/equity-accounted properties excluded from the consolidated Portfolio Statement
+> Σ by design and layered back at the disclosed basis; all consolidated valuation totals tie.
+> **Done: 25/30 FY2025 (batch-1 8 + M44U pilot + batch-2 8 + batch-3 8). Remaining 5
+> (all need parse): OXMU (Prime US), P40U (Starhill Global), SET (Stoneweg Europe Stapled),
+> T82U (Suntec), ODBU (United Hampshire US).**
 
 ## Legend
 

@@ -1,0 +1,250 @@
+# Page map v2 (classify) — 19_BUOU.SI_Frasers-Logistics-and-Commercial-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p19  · audited('000): p97
+- [1.00] p19 — no schema-relevant data
+- [1.00] p24 — no schema-relevant data
+- [1.00] p221 — no schema-relevant data
+- [1.00] p6 — no schema-relevant data
+- [1.00] p70 — no schema-relevant data
+- [1.00] p5 — no schema-relevant data
+- [1.00] p25 — no schema-relevant data
+- [1.00] p71 — no schema-relevant data
+- [1.00] p113 — no schema-relevant data
+- [0.99] p69 — no schema-relevant data
+- [0.99] p22 — no schema-relevant data
+- [0.99] p73 — no schema-relevant data
+- [0.99] p222 — no schema-relevant data
+- [0.98] p216 — This page presents the List of significant subsidiaries (cont'd) for SGX REIT, detailing indirect subsidiaries of FLCT I
+- [0.98] p72 — no schema-relevant data
+- [0.98] p80 — no schema-relevant data
+- [0.97] p77 — no schema-relevant data
+- [0.97] p86 — no schema-relevant data
+- [0.97] p215 — This page contains the List of significant subsidiaries (cont'd) for SGX REIT, detailing indirect subsidiaries under FLT
+- [0.96] p20 — no schema-relevant data
+- [0.96] p76 — no schema-relevant data
+- [0.96] p102 — no schema-relevant data
+- [0.95] p89 — no schema-relevant data
+- [0.95] p212 — This page presents the audited List of Significant Subsidiaries table, detailing 41 entities (including FLT Australia Pt
+- [0.95] p214 — This page contains the List of significant subsidiaries (cont'd), specifically detailing indirect subsidiaries under FLT
+- [0.94] [million] p16 — no schema-relevant data
+- [0.94] ['000] p97 — The page presents the Remuneration of CEO and Key Executives (excluding CEO) for FY2025 in a table detailing salary, cas
+- [0.94] p114 — no schema-relevant data
+- [0.93] ['000] p213 — This page contains the audited Portfolio Statement (property valuations) listing significant indirect subsidiaries of FL
+- [0.93] p78 — no schema-relevant data
+- [0.92] p21 — no schema-relevant data
+- [0.91] p93 — no schema-relevant data
+- [0.91] ['000] p96 — This page presents the REIT Manager's Board fee structure and a table detailing the total remuneration (Director's fees)
+- [0.90] p92 — no schema-relevant data
+- [0.90] p104 — no schema-relevant data
+- [0.89] p101 — no schema-relevant data
+- [0.89] p103 — no schema-relevant data
+- [0.88 OCR] p58 — no schema-relevant data
+- [0.87] p100 — no schema-relevant data
+- [0.87] p84 — no schema-relevant data
+- [0.87] p91 — no schema-relevant data
+- [0.86] p117 — no schema-relevant data
+- [0.83] p82 — This page presents the Corporate Governance report featuring a Board Composition table detailing Age Group, Independence
+- [0.83] ['000] p98 — This page of the SGX REIT annual report contains no schema-relevant data such as audited Portfolio Statements, Profit or
+- [0.83] p4 — This page contains a glossary defining acronyms and terms such as 3PL, ABS, DPU, EBITDA, and FRS. No schema-relevant dat
+- [0.82] p74 — no schema-relevant data
+- [0.82] p83 — no schema-relevant data
+- [0.82] p85 — no schema-relevant data
+- [0.80] p81 — no schema-relevant data
+- [0.79] p94 — no schema-relevant data
+- [0.77 OCR] p15 — no schema-relevant data
+- [0.77] ['000] p136 — This page contains Note 1 of the financial statements for Fraser's Logistics & Commercial Trust, detailing the trust's s
+- [0.74] p116 — This page contains the Independent Auditors' Report for Fraser's Logistics & Commercial Trust, detailing the auditors' e
+- [0.73] ['000] p88 — no schema-relevant data
+- [0.70 OCR] p63 — no schema-relevant data
+- [0.70] p95 — no schema-relevant data
+- [0.68 OCR] p87 — no schema-relevant data
+- [0.68] p107 — no schema-relevant data
+- [0.68] p118 — no schema-relevant data
+- [0.65] p12 — no schema-relevant data
+- [0.63 OCR] p3 — no schema-relevant data
+- [0.62 OCR] p109 — no schema-relevant data
+- [0.61] p108 — This page presents a table detailing the fees payable to the REIT manager, including Base Fee (up to 0.4% per annum of d
+- [0.53 OCR] p1 — no schema-relevant data
+- [0.50 OCR] p79 — no schema-relevant data
+- [0.50 OCR] p110 — no schema-relevant data
+- [0.44] ['000] p220 — The page presents an Interested Persons Transactions table reporting aggregate values for FY25 in SGD'000, detailing tra
+- [0.44 OCR] [million] p14 — no schema-relevant data
+- [0.43] ['000] p219 — This page presents a table detailing Interested Person Transactions for the FY25 financial year, reporting values in S$'
+- [0.41 OCR] p99 — no schema-relevant data
+- [0.37] ['000] p140 — no schema-relevant data
+- [0.29 OCR] p115 — This page presents the Independent Auditors' Report for Frasers Logistics & Commercial Trust, confirming an unqualified 
+- [0.20 OCR] p2 — no schema-relevant data
+- [0.18 OCR] p75 — no schema-relevant data
+- [0.18 OCR] [million] p18 — no schema-relevant data
+- [0.17 OCR] p67 — no schema-relevant data
+- [0.17 OCR] p23 — no schema-relevant data
+- [0.16 OCR] p105 — no schema-relevant data
+
+## performance  — top: p217
+- [1.00] ['000] p217 — This page presents the Unitholders' statistics for SGX REIT as of 25 November 2025, featuring a table detailing the dist
+- [1.00] [million] p8 — This page presents financial highlights for the reporting unit in SGD million, detailing FY2021–FY2025 Revenue ($469.3m 
+- [1.00] p62 — This page presents the FLCT unit price performance and comparative returns through a table detailing 1-, 3-, 5-year, and
+- [1.00] [million] p9 — This page presents the Selected balance sheet data and Key financial indicators for SGX REIT, reporting figures in SGD'0
+- [1.00] [million] p61 — This page presents FLCT's monthly trading performance from October 2024 to September 2025, reporting Average Daily Trade
+- [0.99] [million] p60 — This page presents the FY2025 unit price performance of FLCT, reporting a period high of S$1.17, a low of S$0.78, and a 
+- [0.99] p218 — This page presents the **Substantial Unitholders** table and the **Unitholdings of directors of the Manager**, reporting
+- [0.99] p59 — This page presents the FLCT FY2025 investor relations calendar, including scheduled events and dates for FY2026, alongsi
+- [0.98] [million] p13 — This page presents the Chairman's Letter for Frasers Logistics & Commercial Trust (FLCT) covering FY2025, reporting \$47
+- [0.95] [million] p28 — The page presents the **Capital Management** section featuring a table of Key Financial Indicators reporting Total gross
+- [0.94] [million] p11 — This page presents a strategic overview of FLCT's value creation strategy through its main table titled "OUR COMPETITIVE
+- [0.91] ['000] p120 — This page presents the Distribution Statement for SGX REIT for the year ended 30 September 2025, reporting distributable
+- [0.91] ['000] p178 — This page presents Note 21 (Units in issue and to be issued) detailing the creation of new Units for management fees and
+- [0.76] ['000] p121 — This page presents the **Statements of financial position** for the SGX REIT as at 30 September 2025, reporting Group an
+- [0.67] [million] p29 — This page presents the FLCT's debt maturity profile, hedging strategies for foreign exchange and interest rate risks, an
+- [0.67] [million] p31 — This page presents a high-level portfolio summary for the SGX REIT, displaying key financial and operational metrics inc
+- [0.61] [million] p27 — This page presents financial highlights including a healthy balance sheet with aggregate leverage of 35.7% as at 30 Sept
+- [0.53] p17 — no schema-relevant data
+- [0.48 OCR] [million] p18 — no schema-relevant data
+- [0.45] p35 — This page presents the Portfolio lease expiry profile table (as at 30 September 2025) detailing monthly lease expiration
+- [0.45] [million] p38 — This page presents the Portfolio overview with a 3D map and key metrics (113 properties, $6.9 billion value, 2.8 million
+- [0.37] ['000] p162 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains a table detailing audit and non-au
+- [0.29] ['000] p123 — This page presents the Statements of movements in unitholders' funds for SGX REIT for the year ended 30 September 2025, 
+- [0.29] ['000] p7 — The page presents a multinational portfolio summary with key metrics including 113 properties, $6.9 billion portfolio va
+- [0.20] ['000] p179 — This page contains the audited Portfolio Statement for SGX REIT, specifically presenting the Distributions paid to Unith
+- [0.19] [million] p36 — no schema-relevant data
+- [0.17] ['000] p163 — This page presents the Earnings per Unit calculation table and a Statement of Portfolio (property valuations) for SGX RE
+- [0.16] ['000] p26 — This page presents the **Statement of Total Return** for FY2025 and FY2024, reporting revenue of $471.5 million, net pro
+- [0.16 OCR] [million] p14 — no schema-relevant data
+- [0.16] ['000] p124 — This page presents the Statements of movements in unitholders' funds for the SGX REIT Trust for the year ended 30 Septem
+
+## properties  — top: p52
+- [1.00] ['000] p52 — This page presents a detailed Property profile table for the SGX'000 reporting unit, listing 9 logistics and industrial 
+- [1.00] ['000] p56 — This page presents the audited Portfolio Statement detailing Singapore and United Kingdom logistics and industrial prope
+- [1.00] ['000] p127 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's completed investment properties 
+- [1.00] ['000] p128 — This page contains an audited Portfolio Statement detailing the carrying amounts and tenure details of industrial proper
+- [1.00] ['000] p129 — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT as at 30 September 2025, detai
+- [1.00] ['000] p130 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, listing c
+- [1.00] ['000] p131 — This page presents the audited Portfolio Statement for SGX REIT as at 30 September 2025, detailing property valuations a
+- [1.00] ['000] p132 — This page presents the audited Portfolio Statement for SGX REIT as of 30 September 2025, detailing property valuations b
+- [1.00] ['000] p133 — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT as of 30 September 2025, detai
+- [1.00] ['000] p51 — This page presents the audited Portfolio Statement (property valuations) for the SGX'000 reporting unit, detailing indiv
+- [1.00] ['000] p53 — This page presents the audited Portfolio Statement detailing property valuations, occupancy rates, and gross revenue for
+- [1.00] p54 — This page presents a Property Profile table detailing the valuation, occupancy, and gross revenue data for 16 logistics 
+- [1.00] p55 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's Logistics and Industrial Propert
+- [1.00] ['000] p134 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 30 September 2025, detailing
+- [1.00] ['000] p135 — This page presents the audited Portfolio Statement for the SGX REIT Group as of 30 September 2025, detailing carrying am
+- [1.00] ['000] p57 — This page presents the audited Portfolio Statement for Business Park and Logistics and Industrial Property assets, detai
+- [1.00] [million] p48 — This page presents a Portfolio Overview table detailing the valuation and percentage of the FLCT portfolio by location, 
+- [0.99] [million] p46 — The page presents a Portfolio overview table for FLCT's Singapore unit detailing 2 properties (Alexandra Technopark and 
+- [0.99] [million] p47 — This page presents the audited Portfolio Statement for FLCT's UK operations, detailing a valuation of SGD'000 701.9 mill
+- [0.99] [million] p37 — no schema-relevant data
+- [0.99] ['000] p50 — This page presents a property profile table for Australia's Logistics and Industrial assets, detailing individual sites 
+- [0.99] [million] p42 — This page presents the portfolio overview for FLCT's Brisbane REIT location, featuring a table detailing 12 Logistics & 
+- [0.99] ['000] p43 — This page details the audited Portfolio Statement for FLCT's Western Australian and Australian Capital Territory assets,
+- [0.99] [million] p44 — This page presents the audited Portfolio Statement for Germany, detailing a portfolio of 33 Logistics & Industrial prope
+- [0.99] [million] p49 — This page presents a portfolio statement for FLCT's Logistics & Industrial assets in The Netherlands, detailing 7 proper
+- [0.99] [million] p40 — This page presents a portfolio overview of FLCT's Melbourne REIT, detailing 33 properties (32 Logistics & Industrial and
+- [0.98] ['000] p41 — This page presents the audited Portfolio Statement for the Sydney reporting unit, detailing 16 properties with a total l
+- [0.93] [million] p39 — This page presents a portfolio summary for the Australian market featuring a main table titled 'No. of Properties' listi
+- [0.91] ['000] p165 — This page contains an audited Portfolio Statement detailing the property valuers for Australia, Singapore, and the Unite
+- [0.89] ['000] p164 — This page presents the audited Portfolio Statement (property valuations) for investment properties under development and
+- [0.59] p166 — This page contains the "Valuation techniques and significant unobservable inputs" table detailing fair value measurement
+- [0.51] [million] p36 — no schema-relevant data
+- [0.39] [million] p38 — This page presents the Portfolio overview with a 3D map and key metrics (113 properties, $6.9 billion value, 2.8 million
+- [0.28] [million] p31 — This page presents a high-level portfolio summary for the SGX REIT, displaying key financial and operational metrics inc
+
+## top_tenants  — top: p33
+- [0.80] ['000] p33 — This page presents a Top-N tenants table detailing the 10 largest L&I tenants by Gross Rental Income (GRI) and their wei
+- [0.58] p34 — This page presents the Top 10 Commercial Tenants of FLCT by GRI, detailing tenant names, countries, business types, reve
+
+## trade_mix  — top: p32  · audited('000): p7
+- [0.80] p32 — This page of the FLCT annual report presents operational highlights including a portfolio valued at $6.9 billion as of 3
+- [0.61] ['000] p7 — The page presents a multinational portfolio summary with key metrics including 113 properties, $6.9 billion portfolio va
+- [0.51] p35 — This page presents the Portfolio lease expiry profile table (as at 30 September 2025) detailing monthly lease expiration
+- [0.40] p34 — This page presents the Top 10 Commercial Tenants of FLCT by GRI, detailing tenant names, countries, business types, reve
+- [0.19] p17 — no schema-relevant data
+- [0.18] ['000] p33 — This page presents a Top-N tenants table detailing the 10 largest L&I tenants by Gross Rental Income (GRI) and their wei
+
+## financial  — top: p161
+- [1.00] ['000] p161 — This page presents the Tax Expense note for SGX REIT, detailing current and deferred tax components (including a S$39.0 
+- [1.00] p145 — no schema-relevant data
+- [1.00] ['000] p175 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains a table titled "Loans and borrowin
+- [1.00] ['000] p180 — This page presents Note 24 on leases as lessor, detailing rental income of S$383,348,000 for the year ended 30 September
+- [1.00] ['000] p205 — This page contains the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing
+- [1.00] p144 — no schema-relevant data
+- [1.00] ['000] p160 — This page presents SGX REIT Notes to the financial statements for the year ended 30 September 2025, featuring three tabl
+- [1.00] ['000] p176 — This page presents a continuation of the audited Deferred Tax Liabilities note detailing deductible temporary difference
+- [1.00] ['000] p201 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 September 2025, detailing
+- [1.00] ['000] p203 — This page presents the audited Portfolio Statement for fair values of financial instruments as of 30 September 2024, det
+- [1.00] ['000] p204 — This page contains the audited Portfolio Statement (property valuations) section of the SGX REIT annual report for the y
+- [1.00] ['000] p206 — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return / Profit or Loss 
+- [1.00] ['000] p207 — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT, specifically detailing fair v
+- [1.00] ['000] p208 — This page contains a table titled "Fair values of financial instruments (cont'd)" presenting the carrying amounts and fa
+- [1.00] ['000] p202 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's financial instruments as of 30 S
+- [0.99] ['000] p169 — This page contains the Notes to the financial statements detailing impairment assessments and loan arrangements for subs
+- [0.99] ['000] p182 — This page presents the Operating Segments table for SGX REIT, reporting 2025 and 2024 revenue, expenses, net property in
+- [0.99] ['000] p170 — This page presents a table of derivative assets/(liabilities) (cont'd) detailing the nominal amounts in S$'000 for inter
+- [0.99] ['000] p174 — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return / Profit or Loss 
+- [0.99] ['000] p177 — This page presents the audited Portfolio Statement for FLT Europe B.V. and its subsidiaries, reporting revenue of S$'000
+- [0.99] p147 — no schema-relevant data
+- [0.99] p209 — This page presents a table detailing the valuation techniques used for Level 2 fair values of financial instruments, dis
+- [0.99] p151 — This page contains the accounting policies for foreign currencies and investment properties, including fair value measur
+- [0.99] ['000] p171 — This page presents the audited Portfolio Statement for SGX REIT's Cash and cash equivalents (Note 15) and Trade and othe
+- [0.99] ['000] p173 — This page presents the audited Loans and Borrowings table for SGX REIT, detailing current and non-current bank loans, le
+- [0.99] ['000] p172 — This page presents the audited Trade and other payables table for the Group and Trust as of 30 September 2025, reporting
+- [0.99] p154 — no schema-relevant data
+- [0.99] p155 — no schema-relevant data
+- [0.99] p146 — no schema-relevant data
+- [0.98] p142 — This page contains the "Material accounting policies (cont'd)" section of the SGX REIT annual report for the year ended 
+- [0.98] ['000] p181 — This page presents Notes 25 through 27 to the financial statements for the year ended 30 September 2025, reporting signi
+- [0.98] p152 — no schema-relevant data
+- [0.98] ['000] p168 — This page of the SGX REIT annual report for the year ended 30 September 2025 presents Note 11 (Plant and equipment) deta
+- [0.98] p149 — no schema-relevant data
+- [0.98] ['000] p190 — This page contains a table detailing cash flow hedge accounting for the SGX REIT Trust, specifically listing financial i
+- [0.98] p137 — no schema-relevant data
+- [0.98] ['000] p141 — no schema-relevant data
+- [0.98] ['000] p125 — This page presents the **Statement of cash flows** for SGX REIT for the year ended 30 September 2025, reporting all figu
+- [0.98] p143 — no schema-relevant data
+- [0.98] ['000] p159 — This page presents the **Statement of Revenue** for SGX REIT, reporting Group rental income at S$'000 (383,348 in 2025 a
+- [0.97] ['000] p193 — This page presents a reconciliation table of hedging reserves by risk category (interest rate and foreign exchange) for 
+- [0.97] ['000] p119 — This page presents the **Statement of Total Return** for SGX REIT for the year ended 30 September 2025, reporting financ
+- [0.97] ['000] p126 — This page presents the Statement of Cash Flows for SGX REIT for the year ended 30 September 2025, detailing significant 
+- [0.97] ['000] p211 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains a table summarizing identifiable a
+- [0.96] ['000] p192 — This page presents a table detailing the carrying amounts, financial statement line items, and changes in value for cash
+- [0.96] ['000] p189 — This page contains a table detailing the Group's cash flow hedge instruments used to manage foreign currency and interes
+- [0.96] p150 — no schema-relevant data
+- [0.95] ['000] p191 — This page presents a detailed table under Financial risk management (hedge accounting) listing contractual notional amou
+- [0.95] p158 — no schema-relevant data
+- [0.94] p157 — no schema-relevant data
+- [0.93] ['000] p210 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains a table of Financial ratios (Expen
+- [0.92] p153 — no schema-relevant data
+- [0.92] ['000] p195 — This page presents a table detailing the expected credit loss assessment for individual tenants and trade receivables ex
+- [0.90] ['000] p122 — This page presents the **Statements of movements in unitholders' funds** for SGX REIT for the year ended 30 September 20
+- [0.84] p139 — no schema-relevant data
+- [0.84] p148 — no schema-relevant data
+- [0.83] [million] p138 — no schema-relevant data
+- [0.83] ['000] p26 — This page presents the **Statement of Total Return** for FY2025 and FY2024, reporting revenue of $471.5 million, net pro
+- [0.82] ['000] p124 — This page presents the Statements of movements in unitholders' funds for the SGX REIT Trust for the year ended 30 Septem
+- [0.81] p167 — no schema-relevant data
+- [0.81] p156 — no schema-relevant data
+- [0.79] ['000] p179 — This page contains the audited Portfolio Statement for SGX REIT, specifically presenting the Distributions paid to Unith
+- [0.77] ['000] p188 — This page presents the cash flow sensitivity analysis for variable rate instruments under financial risk management, det
+- [0.76] p112 — This page lists the contents of the Financial Statements section, explicitly naming the Statement of Total Return (page 
+- [0.75] ['000] p163 — This page presents the Earnings per Unit calculation table and a Statement of Portfolio (property valuations) for SGX RE
+- [0.70] ['000] p186 — no schema-relevant data
+- [0.70] ['000] p194 — This page presents a table detailing the Group's exposure to credit risk for net trade receivables by operating segment 
+- [0.69] ['000] p123 — This page presents the Statements of movements in unitholders' funds for SGX REIT for the year ended 30 September 2025, 
+- [0.62] ['000] p162 — This page of the SGX REIT annual report for the year ended 30 September 2025 contains a table detailing audit and non-au
+- [0.61] ['000] p140 — no schema-relevant data
+- [0.58] ['000] p184 — This page presents a table detailing the Group's foreign currency risk exposure in Singapore dollar equivalent for AUD, 
+- [0.55] ['000] p219 — This page presents a table detailing Interested Person Transactions for the FY25 financial year, reporting values in S$'
+- [0.53] ['000] p197 — This page presents the Group's liquidity risk table (S$'000) detailing carrying amounts and contractual cash flows withi
+- [0.50] ['000] p220 — The page presents an Interested Persons Transactions table reporting aggregate values for FY25 in SGD'000, detailing tra
+- [0.49] ['000] p187 — no schema-relevant data
+- [0.49] ['000] p200 — no schema-relevant data
+- [0.49] ['000] p199 — This page presents a Liquidity Risk table detailing the carrying amounts and contractual cash flows of non-derivative fi
+- [0.46 OCR] ['000] p198 — This page presents the Liquidity risk (cont'd) table from the SGX REIT annual report for the year ended 30 September 202
+- [0.37] p108 — This page presents a table detailing the fees payable to the REIT manager, including Base Fee (up to 0.4% per annum of d
+- [0.28] p166 — This page contains the "Valuation techniques and significant unobservable inputs" table detailing fair value measurement
+- [0.25] [million] p27 — This page presents financial highlights including a healthy balance sheet with aggregate leverage of 35.7% as at 30 Sept
+- [0.19] ['000] p136 — This page contains Note 1 of the financial statements for Fraser's Logistics & Commercial Trust, detailing the trust's s
+- [0.17] [million] p29 — This page presents the FLCT's debt maturity profile, hedging strategies for foreign exchange and interest rate risks, an
+- [0.16 OCR] p115 — This page presents the Independent Auditors' Report for Frasers Logistics & Commercial Trust, confirming an unqualified 

@@ -1,0 +1,37 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; NPI given only at segment level (Data Centres NA/Asia, Hi-Tech, Business Park, Flatted Factories, Stack-up, Light Industrial) as % of Group NPI (p79)."},
+    {"column": "properties.gla / nla / gfa", "reason": "The audited Portfolio Statement (canonical valuation source, p132-145) discloses no area metric. NLA/GFA are disclosed only in the marketing Property Portfolio Overview (p44-59, in sq ft, mixed US$/JPY/SGD); not merged here to keep valuation provenance from the audited statement."},
+    {"column": "properties.major_tenants", "reason": "Not disclosed per property; only portfolio-level Top 10 tenants (p33)."}
+  ],
+  "data_with_no_home": [
+    "Aggregate leverage incl. proportionate JV: aggregate debt S$3,721.7m (p11 fn10).",
+    "Segment NPI/gross-revenue contribution % (p79): DC(NA) 34.7% GR/33.1% NPI; DC(Asia) 7.0%/8.7%; Hi-Tech 20.8%/20.5%; Business Park 6.5%/5.6%; Flatted Factories 23.3%/23.9%; Stack-up 0.5%/0.4%.",
+    "MRODCT JV (50%) summarised FS (p174-175): JV gross revenue S$61,672k; JV net assets S$1,047,485k; Group share S$523,743k; cash distribution declared by JV S$27,493k.",
+    "AUM by geography (p11): Singapore 47.6%, North America 45.6%, Japan 6.8%.",
+    "Tenant base (p33): 2,232 tenants, 3,349 leases; top 10 = 29.5% of monthly GRI.",
+    "WALE by portfolio (p33): North American 6.3yr, Singapore 2.7yr, Japan 14.5yr, Overall 4.4yr.",
+    "Occupancy by portfolio (p36): Singapore 93.2%, North American 89.3%, Japan 100.0%, Overall 92.1%.",
+    "Average rental rate (p36): Singapore S$2.27 psf/mth; North America US$2.47 psf/mth."
+  ],
+  "parsing_traps": [
+    "Portfolio Statement (p132-145) is a FACING-PAGE POSITIONAL SPLIT: description columns (name/tenure/location) on even pages, value columns (gross revenue/occupancy/valuation, '000) on the next odd page with a BLANK label column aligned by row position. The deterministic HTML adapter cannot positionally-join these -> properties extracted llm_only by pairing description+value pages.",
+    "Non-December FY-end: 31 March. financial_year=2025 = year ended 31 Mar 2025 (FY24/25). All records stamped 2025-03-31.",
+    "US DC JV (MRODCT, 50%) is EQUITY-ACCOUNTED: a single 'Investment in a joint venture' line (S$523,743k) in the consolidated FS, NOT in the audited Portfolio Statement. The 13 MRODCT properties are added from the Property Portfolio Overview (p44-47) at 100%-basis US$ valuation, ownership 40-50%, value_basis=equity_accounted_jv. Their absence from the consolidated Portfolio Statement Σ is correct, not a miss.",
+    "Multi-currency: US DCs reported in US$ on overview cards but consolidated to SGD in the audited statement; Japan DCs in JPY on cards. Canonical = SGD consolidated (audited Portfolio Statement)."
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue_consolidated": 711833000,
+    "reported_total_gross_revenue": 711833000,
+    "sum_consolidated_market_valuation": 7975962000,
+    "reported_fair_value_net_of_future_lease_payments": 7975962000,
+    "carrying_amount_investment_properties": 8080101000,
+    "note": "Consolidated property gross_revenue Σ ties EXACTLY to Group gross revenue S$711,833k. Consolidated valuation Σ ties EXACTLY to 'Fair value of investment properties (net of future lease payments)' S$7,975,962k (p167); the carrying amount S$8,080,101k additionally includes lease-liability ROU S$102,748k + ARO S$1,391k. 13 MRODCT JV properties excluded from both Σ (equity-accounted).",
+    "income_line_items_reconcile": "Sum(revenue 711,833 - expense 180,373 + signed adjustments -186,019) = 345,441 = net_income (total return for the year). Pretax 375,072 - tax 29,631 = 345,441.",
+    "property_count": "100 total = 86 consolidated valued + 1 divested (Tanglin Halt, no value) + 13 MRODCT JV (equity-accounted, US$)."
+  },
+  "inferred": [
+    {"table": "top_tenants", "field": "industry", "scope": "all 10 rows", "value": "assigned from tenant name / business descriptor", "basis": "Top-10 table (p33) has no trade-sector column; industry mapped from the company name or anonymised descriptor (e.g. 'Global Colocation Provider' -> IT & Telecommunications; Vanderbilt University Medical Center -> Healthcare & Wellness).", "source_page": 33},
+    {"table": "performance", "field": "distribution_record[3].dpu", "scope": "4Q FY24/25", "value": 3.36, "basis": "Derived as full-year DPU 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41). 4Q is declared after FY-end.", "source_page": 125}
+  ]
+}

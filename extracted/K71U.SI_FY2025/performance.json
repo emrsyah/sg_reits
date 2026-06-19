@@ -1,0 +1,32 @@
+{
+  "symbol": "K71U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 11657085000,
+  "properties_location": "Singapore, Australia, South Korea, Japan",
+  "gross_revenue": 274478000,
+  "net_property_income": 215905000,
+  "net_distributable_income": 320277000,
+  "dpu": 5.23,
+  "distribution_record": [
+    {"period": "1/7/2024 to 31/12/2024", "dpu": null, "ex_date": null, "pay_date": null},
+    {"period": "1/1/2025 to 30/6/2025", "dpu": 2.72, "ex_date": null, "pay_date": null},
+    {"period": "1/7/2025 to 16/10/2025", "dpu": 1.63, "ex_date": null, "pay_date": null},
+    {"period": "1H 2025", "dpu": 2.72, "ex_date": null, "pay_date": null},
+    {"period": "2H 2025", "dpu": 2.51, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 75437,
+  "aggregate_leverage": 47.9,
+  "interest_coverage_ratio": 2.6,
+  "cost_of_debt": 3.41,
+  "weighted_avg_debt_maturity": 2.4,
+  "nav_per_unit": 1.28,
+  "wale": 4.4,
+  "portfolio_occupancy": 96.7,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_half_year_split", "scope": "dpu", "note": "Full-year DPU 5.23 cents = 2.72c (1H) + 2.51c (2H), per p7 footnote 7. The distribution-statement period splits differ (2.72c for 1/1-30/6/2025 and 1.63c for 1/7-16/10/2025) due to the October private placement changing the unit base."},
+    {"type": "net_distributable_income_basis", "scope": "net_distributable_income", "note": "320,277k = Income available for distribution to Unitholders (p121). Declared Distribution to Unitholders headline = 212,406k (p7), which includes the $20m Anniversary Distribution capital gains top-up."}
+  ],
+  "source_page": 7
+}

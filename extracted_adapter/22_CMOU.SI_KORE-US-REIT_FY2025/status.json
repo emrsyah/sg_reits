@@ -1,0 +1,19 @@
+{
+  "stem": "22_CMOU.SI_KORE-US-REIT_FY2025",
+  "symbol": "CMOU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Office",
+  "template_family": "Keppel/KORE US",
+  "parsed": {"markdown": "parsed_reports_datalab/22_CMOU.SI_KORE-US-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "rows": 1, "note": "Sponsors Keppel + KORE Pacific Advisors; trustee Perpetual (Asia); US asset manager Pacific Oak Capital Advisors LLC. Pages 13,14,154."},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "All 7 KPIs disclosed. DPU 0.25 US cents (2H 2025 only; halt resumed). Pages 4,6,20,41,152."},
+    "properties":  {"status": "done", "method": "llm_only", "rows": 13, "cross_check": {"vs": "Consolidated Portfolio Statement p91 total 1,325,370k", "match": "13/13, Σ=1,325,370k exact"}, "note": "Valuations from audited portfolio statement (p91); NLA/occupancy/tenants from At-A-Glance cards (p21-22). Per-property NPI/GR not disclosed (structural)."},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "Top 10 by CRI, p20. pct_basis=cash_rental_income."},
+    "trade_mix":   {"status": "done", "method": "llm_only", "rows": 5, "note": "Portfolio trade sector by CRI, p18. Sums 100%."},
+    "financial":   {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Statement of Comprehensive Income p86", "match": "Σline_items = -4,075k net loss; total_revenue=gross_revenue; gross_income=NPI"}, "note": "Net LOSS driven by -40,458k IP FV + -9,449k derivative FV. Tax credit signed negative. Finance income bucketed as adjustment."}
+  },
+  "final_dir": "extracted/CMOU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

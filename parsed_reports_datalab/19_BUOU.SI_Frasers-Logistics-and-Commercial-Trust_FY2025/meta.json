@@ -1,0 +1,14 @@
+{
+  "file": "19_BUOU.SI_Frasers-Logistics-and-Commercial-Trust_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 222,
+  "pages_written": 222,
+  "seconds": 47.1,
+  "parse_quality_score": null,
+  "runtime": 38.99877643585205,
+  "cost_breakdown": {
+    "final_cost_cents": 89.0
+  },
+  "checkpoint_id": "checkpoint_RImqwidnVcqa8dzKUObJq_bPLThenPOa4e2nmQZJ_V8",
+  "page_range": null
+}

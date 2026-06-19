@@ -1,0 +1,16 @@
+{
+  "symbol": "Q5T.SI",
+  "sub_sector": "Hospitality",
+  "management": [
+    {"role": "reit_manager", "company_name": "FEO Hospitality Asset Management Pte. Ltd."},
+    {"role": "trustee", "company_name": "DBS Trustee Limited"},
+    {"role": "trustee", "company_name": "FEO Hospitality Trust Management Pte. Ltd."},
+    {"role": "property_manager", "company_name": "Jones Lang LaSalle Property Consultants Pte. Ltd."},
+    {"role": "operator", "company_name": "Far East Hospitality Management (S) Pte. Ltd."},
+    {"role": "operator", "company_name": "Marriott International, Inc."},
+    {"role": "master_lessee", "company_name": "CENTRAIR Hotel Systems, Ltd."},
+    {"role": "sponsor", "company_name": "Far East Organization"}
+  ],
+  "income_model": "master_lease",
+  "source_page": 7
+}

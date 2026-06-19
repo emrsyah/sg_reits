@@ -1,0 +1,12 @@
+[
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 1, "client_name": "MND (Ministry of National Development)", "industry": "Government Related", "revenue_pct": 12.5, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 2, "client_name": "Sky Italia", "industry": "IT & Telecommunications", "revenue_pct": 10.3, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 3, "client_name": "Fairprice Xtra", "industry": "Departmental Store/Supermarket", "revenue_pct": 3.0, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 4, "client_name": "IKEA", "industry": "Other Retail Trades", "revenue_pct": 2.4, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 5, "client_name": "Don Don Donki", "industry": "Departmental Store/Supermarket", "revenue_pct": 2.0, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 6, "client_name": "Uniqlo", "industry": "Fashion & Accessories", "revenue_pct": 1.8, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 7, "client_name": "Food Republic", "industry": "Food & Beverages", "revenue_pct": 1.7, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 8, "client_name": "Kopitiam Food Hall", "industry": "Food & Beverages", "revenue_pct": 1.5, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 9, "client_name": "H&M", "industry": "Fashion & Accessories", "revenue_pct": 1.5, "pct_basis": "gri", "source_page": 26},
+  {"symbol": "JYEU.SI", "financial_year": 2025, "rank": 10, "client_name": "Marche", "industry": "Food & Beverages", "revenue_pct": 1.3, "pct_basis": "gri", "source_page": 26}
+]
