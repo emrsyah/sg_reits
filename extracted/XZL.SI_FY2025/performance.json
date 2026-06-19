@@ -1,0 +1,29 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2025,
+  "portfolio_value": 714900000,
+  "properties_location": "United States (32 hotels across 17 states)",
+  "gross_revenue": 158625000,
+  "net_property_income": 37094000,
+  "net_distributable_income": 5476000,
+  "dpu": 0.850,
+  "distribution_record": [
+    {"period": "1H FY2025 (Jan-Jun 2025)", "dpu": 0.432, "ex_date": null, "pay_date": "2025-09-26"},
+    {"period": "2H FY2025 (Jul-Dec 2025)", "dpu": 0.418, "ex_date": null, "pay_date": "2026-03-30"}
+  ],
+  "number_of_unitholders": 3041,
+  "aggregate_leverage": 42.8,
+  "interest_coverage_ratio": 1.6,
+  "cost_of_debt": 6.4,
+  "weighted_avg_debt_maturity": 1.2,
+  "nav_per_unit": 0.69,
+  "wale": 3.95,
+  "portfolio_occupancy": 69.4,
+  "currency": "USD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_half_year_split", "scope": "dpu", "note": "Half-yearly distribution; full-year DPS (after retention) 0.850 US cents (before retention 0.944). H2 2025 0.418 US cents approved 26 Feb 2026, paid 30 Mar 2026; H1 paid 26 Sep 2025. H1 DPS derived as 0.850 - 0.418 = 0.432 (after-retention split not separately disclosed)."},
+    {"type": "occupancy_basis", "scope": "portfolio_occupancy", "note": "69.4% is portfolio average hotel occupancy (RevPAR-based operating metric), not committed lease occupancy. ADR US$137, RevPAR US$95."}
+  ],
+  "source_page": 26
+}

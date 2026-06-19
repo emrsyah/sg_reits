@@ -1,0 +1,14 @@
+{
+  "file": "03_M1GU.SI_Alpha-Integrated-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 172,
+  "pages_written": 172,
+  "seconds": 42.4,
+  "parse_quality_score": null,
+  "runtime": 32.32362246513367,
+  "cost_breakdown": {
+    "final_cost_cents": 69.0
+  },
+  "checkpoint_id": "checkpoint_Jjw9kBVC1_YvnmCEGtya-EzwwgOsEpm3R8HjExXBgzA",
+  "page_range": null
+}

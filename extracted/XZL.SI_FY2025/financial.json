@@ -1,0 +1,75 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2025,
+  "currency": "USD",
+  "source_page": 98,
+  "income_stmt_metrics": {
+    "total_revenue": 158625000,
+    "cost_of_revenue": 121531000,
+    "gross_income": 37094000,
+    "operating_income": 2827000,
+    "operating_expense": 34267000,
+    "ebit": -6243000,
+    "ebitda": 25287000,
+    "pretax_income": -27226000,
+    "income_taxes": -167000,
+    "net_income": -27059000,
+    "non_operating_income_or_loss": -30053000,
+    "interest_expense_non_operating": 20983000,
+    "diluted_shares_outstanding": 580103000,
+    "net_property_sales": 0,
+    "funds_from_operation": null,
+    "unitholders": -27059000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {"category": "Room revenue", "amount": 148901000, "class": "Product/Service Sales"},
+      {"category": "Other operating revenue", "amount": 9724000, "class": "Product/Service Sales"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "REIT Manager and Trustee-Manager's management fees", "amount": 608000, "class": "General & Admin"},
+      {"category": "Trustee-Manager's trustee fee", "amount": 120000, "class": "General & Admin"},
+      {"category": "REIT Trustee's fee", "amount": 115000, "class": "General & Admin"},
+      {"category": "Other trust expenses", "amount": 1894000, "class": "Other expenses"},
+      {"category": "Depreciation and amortisation", "amount": 31530000, "class": "Depreciation & Amortisation"}
+    ],
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating", "cost_of_revenue"]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 758516000,
+    "total_equity": 402227000,
+    "total_liabilities": 356289000,
+    "working_capital": -181272000,
+    "total_current_asset": 30687000,
+    "total_non_current_asset": 727829000,
+    "total_current_liabilities": 211959000,
+    "total_non_current_liabilities": 144330000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 32785000,
+    "investing_cash_flow": -12387000,
+    "financing_cash_flow": -28036000,
+    "net_cash_flow": -7638000,
+    "free_cash_flow": 13974000,
+    "capital_expenditure": -18811000
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "room_revenue", "amount": 148901000, "label_raw": "Room revenue", "source_page": 142},
+    {"statement": "revenue", "component": "other_operating_revenue", "amount": 9724000, "label_raw": "Other operating revenue", "source_page": 142},
+    {"statement": "expense", "component": "property_operating_expenses", "amount": 105259000, "label_raw": "Operating expenses", "source_page": 98},
+    {"statement": "expense", "component": "hotel_management_fee", "amount": 4757000, "label_raw": "Hotel management fee", "source_page": 98},
+    {"statement": "expense", "component": "property_tax", "amount": 6838000, "label_raw": "Property taxes", "source_page": 98},
+    {"statement": "expense", "component": "insurance", "amount": 3206000, "label_raw": "Insurance", "source_page": 98},
+    {"statement": "expense", "component": "rental_and_other_expenses", "amount": 1471000, "label_raw": "Rental and other expenses", "source_page": 98},
+    {"statement": "expense", "component": "depreciation_and_amortisation", "amount": 31530000, "label_raw": "Depreciation and amortisation", "source_page": 98},
+    {"statement": "expense", "component": "management_fee_base", "amount": 608000, "label_raw": "REIT Manager and Trustee-Manager's management fees", "source_page": 98},
+    {"statement": "expense", "component": "trustee_manager_fee", "amount": 120000, "label_raw": "Trustee-Manager's trustee fee", "source_page": 98},
+    {"statement": "expense", "component": "trustee_fee", "amount": 115000, "label_raw": "REIT Trustee's fee", "source_page": 98},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 1894000, "label_raw": "Other trust expenses", "source_page": 98},
+    {"statement": "adjustment", "component": "net_finance_costs", "amount": -20983000, "label_raw": "Net finance (costs)/income", "source_page": 98},
+    {"statement": "adjustment", "component": "fair_value_change_assets_held_for_sale", "amount": -656000, "label_raw": "Net change in fair value of assets held for sale", "source_page": 98},
+    {"statement": "adjustment", "component": "impairment_loss_ppe", "amount": -8414000, "label_raw": "Impairment loss of property, plant and equipment", "source_page": 98},
+    {"statement": "adjustment", "component": "income_tax", "amount": 167000, "label_raw": "Taxation (credit)", "source_page": 98}
+  ]
+}

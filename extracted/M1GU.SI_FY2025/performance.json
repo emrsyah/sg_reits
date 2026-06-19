@@ -1,0 +1,29 @@
+{
+  "symbol": "M1GU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 948900000,
+  "properties_location": "Singapore",
+  "gross_revenue": 120076000,
+  "net_property_income": 67722000,
+  "net_distributable_income": 39709000,
+  "dpu": 3.53,
+  "distribution_record": [
+    {"period": "1H 2025", "dpu": 1.70, "ex_date": null, "pay_date": null},
+    {"period": "2H 2025", "dpu": 1.83, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 6254,
+  "aggregate_leverage": 35.8,
+  "interest_coverage_ratio": 3.6,
+  "cost_of_debt": 4.36,
+  "weighted_avg_debt_maturity": 2.0,
+  "nav_per_unit": 0.53,
+  "wale": 2.5,
+  "portfolio_occupancy": 90.3,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_half_year_split", "scope": "distribution_record", "note": "Declared DPU 3.53 cents = 1H 1.70 + 2H 1.83 cents (p20/p118). Adjusted DPU before capital allowances was 3.90 cents (1H 1.87 + 2H 2.03)."},
+    {"type": "name_change_in_year", "scope": "symbol", "note": "Trust renamed from Sabana Industrial REIT to Alpha Integrated REIT on 23 Oct 2025; manager internalised (first internalised SG REIT). Ticker M1GU (formerly M1GU/Sabana)."}
+  ],
+  "source_page": 45
+}

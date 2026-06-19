@@ -1,0 +1,42 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.gla", "reason": "Hospitality trust — size metric is keys/rooms/units/beds, not lettable area. GLA/NLA structurally absent. Per-property GFA disclosed in prose on the property cards (not a clean table); not coerced into gla."},
+    {"column": "properties.nla", "reason": "Same as gla — hospitality uses keys, not lettable area."},
+    {"column": "properties.occupancy_rate", "reason": "Per-property occupancy not disclosed. Operating performance (AOR/ADR/RevPAR) disclosed only at regional portfolio level (e.g. Singapore Hotels AOR 79.0%, RevPAR S$182), not per property."}
+  ],
+  "data_with_no_home": [
+    "No. of keys/units/beds per property (p7): Orchard Hotel 656, Grand Copthorne Waterfront 573, M Hotel 415, Copthorne King's 311, Studio M 360, W Singapore 240, Grand Millennium Auckland 453, Mercure Perth 239, Ibis Perth 192, Angsana Velavaru 113, The Halcyon 38, MyStays Asakusabashi 139, MyStays Kamata 116, Hilton Cambridge 198, The Lowry 165, voco Manchester 189, Hotel Indigo Exeter 104, The Castings (BTR) 352, Benson Yard (PBSA) 404, Pullman Munich 337, Hotel Cerretani Firenze 86. Claymore Connect = retail mall (N.A.).",
+    "Singapore Hotels operating performance FY2025 (p30): AOR 79.0%, ADR S$230, RevPAR S$182.",
+    "Number of tenants by category (p26): Hotel 9, Living Assets 630, Retail and Office 40 (total 679 external-lease tenants).",
+    "Debt: gearing 37.7%, fixed 56.0% / float 44.0%, currency split SGD 57.5%/GBP 17.0%/EUR 16.8%/USD 4.5%/JPY 4.2% (p11).",
+    "Perpetual securities: S$150.0m issued in FY2025 (4.00% initial rate on a further S$100m issued 20 Feb 2026); FY2025 perpetual distribution S$669k.",
+    "WALE by lease type (p27): hotel leases 5.6yr, retail/office 2.0yr, living assets 0.5yr.",
+    "Stapled Security Registrar: Boardroom Corporate & Advisory Services Pte. Ltd."
+  ],
+  "parsing_traps": [
+    "STAPLED TRUST: financials report HBT Group / H-REIT Group / Stapled Group in 3 columns — Stapled Group column is canonical (used throughout).",
+    "Statement of Total Return places Depreciation (S$25,299k) BELOW NPI (cost-model PPE hotels), so it is included in operating_expense, not property opex. NPI line (129,694) reconciles to revenue (267,566) minus property expenses (137,872).",
+    "Portfolio Statement splits properties into Investment Properties (14, Σ 2,479,867k) and Property, Plant & Equipment (9 hotels + 'Other plant and equipment', PPE Σ 873,081k). market_valuation taken from the audited Stapled Group Portfolio Statement '000 (p213-215). PPE hotels (W Hotel, Perth, Halcyon, Japan, Hilton Cambridge, Lowry, Indigo Exeter) carried as PPE, flagged ppe_classified_hotel.",
+    "Same property carried at DIFFERENT value in H-REIT Group vs Stapled Group (e.g. W Hotel: H-REIT IP 402,971 vs Stapled PPE 409,123; Ibis/Mercure/Halcyon differ). Stapled Group figures used.",
+    "Per-property GR/NPI from 'Performance by Country and Property' (p28-29): 'Properties with Leases' use Gross Rental Revenue; 'Managed Properties' use Gross Hotel Revenue. Both feed gross_revenue; totals reconcile to 267,566 / 129,694."
+  ],
+  "inferred": [
+    {"table": "top_tenants", "field": "industry", "scope": "all 10 rows", "value": "Hospitality & Leisure", "basis": "Top-10 table (p26) has no trade-sector column; all listed tenants are hotel master-lessees/operators, so industry assigned as Hospitality & Leisure from entity nature.", "source_page": 26},
+    {"table": "performance", "field": "portfolio_value", "scope": "headline", "value": 3400000000.0, "basis": "Chairman's statement (p12) 'total portfolio value grew 0.8% yoy to S$3.4 billion'. Sum of audited IP+PPE carrying values = S$3,352,948k; the S$3.4bn is the rounded headline.", "source_page": 12},
+    {"table": "properties", "field": "lease_expiry_date", "scope": "leasehold rows", "value": "derived", "basis": "Computed as effective_date + lease_term_years where term + start disclosed (e.g. Copthorne King's 1968+99=2067). Remaining-term-of-lease figures cross-checked.", "source_page": 213}
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 267566000.0,
+    "reported_total_gross_revenue": 267566000.0,
+    "sum_property_npi": 129694000.0,
+    "reported_total_npi": 129694000.0,
+    "sum_property_market_valuation": 3351894000.0,
+    "reported_portfolio_statement_total": 3352948000.0,
+    "valuation_reconciliation_note": "Σ of 23 named properties = 3,351,894k; Stapled Group Portfolio Statement IP+PPE total = 3,352,948k. Difference S$1,054k = 'Other plant and equipment' line (not a property, excluded).",
+    "line_items_recon": "Σrevenue (267,566 + 5,814) − Σexpense (137,872+12,944+479+1,609+424+228+25,299+6,251+70,873+10,268) + Σadjustment (-8,132 -28,478) = -29,477 = net_income (Total return for the year, Stapled Group). Tie-out holds."
+  },
+  "structural_absences": {
+    "number_of_unitholders": "DISCLOSED — 25,348 holders as at 6 March 2026 (p308 Statistics of Stapled Security Holdings).",
+    "fiscal_year_end": "31 December (December FY-end); financial_year=2025."
+  }
+}

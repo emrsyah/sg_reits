@@ -1,0 +1,14 @@
+{
+  "file": "34_CRPU.SI_Sasseur-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 212,
+  "pages_written": 212,
+  "seconds": 43.2,
+  "parse_quality_score": null,
+  "runtime": 34.16978454589844,
+  "cost_breakdown": {
+    "final_cost_cents": 85.0
+  },
+  "checkpoint_id": "checkpoint_jodDLGkhBsznzu6kbyRbBbre5zTBvPVglVJfGsGELoE",
+  "page_range": null
+}

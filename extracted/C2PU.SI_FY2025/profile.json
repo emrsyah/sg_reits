@@ -1,0 +1,12 @@
+{
+  "symbol": "C2PU.SI",
+  "sub_sector": "Healthcare",
+  "management": [
+    {"role": "reit_manager", "company_name": "Parkway Trust Management Limited"},
+    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
+    {"role": "master_lessee", "company_name": "Parkway Hospitals Singapore Pte. Ltd."},
+    {"role": "operator", "company_name": "DomusVi Group"}
+  ],
+  "income_model": "master_lease",
+  "source_page": 3
+}

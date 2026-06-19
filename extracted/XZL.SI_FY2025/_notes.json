@@ -1,0 +1,51 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2025,
+  "columns_never_fillable": [
+    {"column": "properties.gla / nla / gfa", "reason": "Hospitality trust: size metric is rooms/keys, not lettable/floor area. Each hotel reports number of rooms (kept in properties._rooms), not GLA/NLA/GFA."},
+    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed. NPI is only at Stapled-Group level (US$37.1m). Operating segment note (p146+) reports a single segment."},
+    {"column": "trade_mix (portfolio-wide industry/trade mix)", "reason": "Single-sector hospitality trust; no portfolio-wide trade/industry mix is disclosed. The only 'by industry' table (p9, Master Lease Agreements) lists ACRO-BT's three internal tenant entities, all 100% 'Hospitality'. Captured as top_tenants (internal master lessees), not as a genuine trade_mix."},
+    {"column": "financial.funds_from_operation", "reason": "No FFO/AFFO disclosed. Trust reports Distributable Income (US$5.5m available / US$4.9m after retention -> performance.net_distributable_income). FFO left null per invariant 6."}
+  ],
+  "data_with_no_home": [
+    "Portfolio: 32 upscale select-service hotels, 4,188 rooms, 17 U.S. states. Per-hotel room counts in properties._rooms.",
+    "Operational metrics FY2025: portfolio occupancy 69.4%, ADR US$137, RevPAR US$95 (p26/p43).",
+    "Net Gearing 41.0%; Proportion of Fixed Debt 50.5% (p26).",
+    "Gross Operating Profit US$53.4m (p26/p98); GOP margin 33.6%.",
+    "Total operating expenses (property + trust, excl. finance) US$155,798k = 38.7% of net assets (p176) -> matches line_items Σexpense.",
+    "EPS (basic & diluted) (4.66) US cents; weighted avg Stapled Securities 580,103k (p145).",
+    "Term loans US$324.5m unchanged YoY; secured term loan US$198.5m due Sep 2026 (going-concern note p107).",
+    "Interest rate swaps: US$164.0m hedged, termination 29 Sep 2027 (p141).",
+    "Hotel Manager fee = 3% of total operating revenue; REIT Manager base fee 10% of distributable income + 25% performance fee on DPS growth (p106/p174).",
+    "20 largest stapled securityholders (nominee-dominated) and substantial holders (Acrophyte Limited 18.99%, Tang family) on p171-172."
+  ],
+  "parsing_traps": [
+    "STAPLED trust: 3-column statements (ACRO-REIT Group / ACRO-BT Group / Stapled Group). Stapled Group is canonical throughout. ACRO-REIT 'Rental revenue' US$38,464k is internal master-lease rent (eliminated on consolidation) -> NOT the trust's gross revenue. Gross revenue = Stapled Group US$158,625k (room + other operating revenue).",
+    "Currency is USD throughout (US trust, formerly ARA US Hospitality Trust). FY-end 31 December 2025.",
+    "COST-MODEL hotels: hotels are held as PPE (ACRO-BT, revalued via OCI with real P&L depreciation) and as investment properties (ACRO-REIT, fair-valued). The Statement of Comprehensive Income carries real D&A US$31,530k (unusual for SG REITs) -> included in operating_expense; ebitda = ebit + D&A.",
+    "income_taxes is a CREDIT US$167k (negative tax expense). Stored as -167,000 in income_stmt_metrics.income_taxes and as +167,000 SIGNED adjustment in line_items (so Sigma adjustment ties).",
+    "Taxation line in the P&L is shown as a positive +167 (credit added back); pretax loss (27,226) -> net loss after tax (27,059)."
+  ],
+  "reconciliation": {
+    "line_items_check": "Sum(revenue) 158,625 - Sum(expense) 155,798 + Sum(adjustment signed) -29,886 = -27,059 (000s) = net_income. TIES.",
+    "total_revenue_vs_performance_gross_revenue": "158,625,000 == performance.gross_revenue. MATCH.",
+    "npi": "gross_income 37,094,000 == performance.net_property_income. MATCH.",
+    "sum_property_valuation": 714900000,
+    "reported_portfolio_value": 714900000,
+    "sum_property_gross_revenue": 156800000,
+    "reported_total_gross_revenue": 158625000,
+    "gross_revenue_gap_note": "Portfolio-List per-hotel revenue sums to US$156.8m vs Stapled-Group US$158.6m. Gap ~US$1.8m = partial-year revenue of the in-year-divested Hyatt Place Detroit Auburn Hills (sold Sep 2025, absent from the 32-hotel list) plus marketing-table rounding."
+  },
+  "inferred": [
+    {"table": "properties", "field": "market_valuation", "scope": "all 32 rows", "value": "Portfolio List millions x 1,000,000", "basis": "No audited per-property Portfolio Statement in '000 exists for this trust (hotels held as aggregate PPE at ACRO-BT US$716,039k and aggregate investment properties at ACRO-REIT US$670,655k). Per-property valuation disclosed only in the Portfolio List (US$ mil, p14-17), as at 31 Dec 2025, valued by HVS. Sum = US$714.9m = headline portfolio value. Used millions table x1e6.", "source_page": 14},
+    {"table": "properties", "field": "gross_revenue", "scope": "all 32 rows", "value": "Portfolio List Revenue (US$ mil) x 1,000,000", "basis": "Per-hotel revenue disclosed only in the Portfolio List (millions); not in audited statements.", "source_page": 14},
+    {"table": "performance", "field": "distribution_record[0].dpu", "value": 0.432, "basis": "1H FY2025 after-retention DPS derived as full-year 0.850 - H2 0.418; H1/H2 after-retention split not separately disclosed.", "source_page": 99},
+    {"table": "performance", "field": "wale", "value": 3.95, "basis": "WALE 3.95 years is for the INTERNAL master lease agreements between ACRO-REIT and ACRO-BT (p9), not external tenant leases.", "source_page": 9}
+  ],
+  "judgment_calls": [
+    "Stapled Group column chosen as canonical for all financials (stapled REIT+BT trust).",
+    "category mapped to canonical 'Specialized' (hotels; no 'Hospitality' in the canonical-6 property taxonomy); category_raw = 'Upscale select-service hotel'.",
+    "income_model = management_contract (hotels run under hotel management agreements; internal master lease ACRO-REIT<->ACRO-BT).",
+    "ownership = 100% for all hotels (all PropCo/subsidiaries are 100% effective interest per Note 28)."
+  ]
+}

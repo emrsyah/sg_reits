@@ -1,0 +1,19 @@
+{
+  "stem": "01_XZL.SI_Acrophyte-Hospitality-Trust_FY2025",
+  "symbol": "XZL.SI",
+  "financial_year": 2025,
+  "sub_sector": "Hospitality",
+  "template_family": "ARA US Hospitality (stapled REIT+BT, US hotels, USD, cost-model PPE)",
+  "parsed": {"markdown": "parsed_reports_datalab/01_XZL.SI_Acrophyte-Hospitality-Trust_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "adapterable": false, "rows": 1, "note": "Stapled trust: REIT Manager + Trustee-Manager + REIT Trustee (DBS) + Sponsor (Tang Organization) + Hotel Manager (ARA US Hospitality Mgmt) + internal master lessees. Merged from About Us (p5), Trust Structure (p7), General Info (p106), Corporate Directory (p177)."},
+    "performance": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 1, "note": "Stapled Group canonical. 7 KPIs all disclosed (p26). Half-yearly distribution. NDI from Distributable Income statement (p99)."},
+    "properties":  {"status": "done", "method": "llm_only", "adapterable": false, "rows": 32, "cross_check": {"vs": "portfolio value US$714.9m", "match": "sum valuation = 714.9m exact", "gaps": ["per-hotel revenue sums 156.8m vs 158.6m -> in-year divested hotel"]}, "note": "Per-property valuation/revenue/occupancy only in Portfolio List (millions, p14-17); no audited per-property '000 statement. Clean grid but read from markdown directly."},
+    "top_tenants": {"status": "done", "method": "llm_only", "adapterable": false, "rows": 3, "note": "Master Lease Agreements table (p9) = 3 internal ACRO-BT tenant entities, all Hospitality."},
+    "trade_mix":   {"status": "done", "method": "llm_only", "adapterable": false, "rows": 0, "note": "Structural absence: single-sector hospitality; only 'by industry' table is the internal master-lease (all Hospitality), captured as top_tenants."},
+    "financial":   {"status": "done", "method": "llm_only", "adapterable": false, "rows": 1, "note": "Stapled Group Statement of Comprehensive Income (p98) + SFP (p97) + Cash Flow (p104-105) + notes 17/18/19/20 (p142-145). Cost-model trust with real D&A 31,530k. line_items reconcile to net_income -27,059k."}
+  },
+  "final_dir": "extracted/XZL.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

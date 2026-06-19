@@ -1,0 +1,19 @@
+{
+  "stem": "10_J85.SI_CDL-Hospitality-Trusts_FY2025",
+  "symbol": "J85.SI",
+  "financial_year": 2025,
+  "sub_sector": "Hospitality",
+  "template_family": "CDLHT (M&C, stapled H-REIT + HBT)",
+  "parsed": {"markdown": "parsed_reports_datalab/10_J85.SI_CDL-Hospitality-Trusts_FY2025/full.md", "html_pages": "not used (markdown clean)", "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Trust Structure p6 + General note 1 p219 + Corporate glossary p312 + Auditors' report p197", "match": "managers/trustee/sponsor confirmed across 3 sources", "gaps": []}, "note": "Stapled: H-REIT Manager M&C REIT Management; HBT Trustee-Manager M&C Business Trust Management; H-REIT Trustee DBS Trustee; Sponsor M&C (Millennium & Copthorne); operators/master-lessees merged."},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Financial Highlights p9-10, Distribution Statement p209, Statistics of Holdings p308", "match": "all KPIs + DPU + unitholders confirmed", "gaps": ["portfolio_occupancy not disclosed portfolio-wide"]}},
+    "properties": {"status": "done", "method": "llm_only", "rows": 23, "cross_check": {"vs": "Stapled Group Portfolio Statement p213-215 + Performance by Country/Property p28-29 + property cards p7", "match": "Σ GR=267,566 / Σ NPI=129,694 reconcile exactly; valuation Σ vs portfolio total diff=1,054k (Other plant & equipment, excluded)", "gaps": ["occupancy per-property not disclosed", "gla/nla structural (keys metric)"]}, "note": "Stapled Group canonical; IP block (14) + PPE hotels block (9) merged; ppe_classified_hotel flags."},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "cross_check": {"vs": "Top 10 Tenants by GRI p26", "match": "verbatim", "gaps": ["industry inferred Hospitality & Leisure (no sector column)"]}},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 3, "cross_check": {"vs": "Composition of GRI by category p26", "match": "Hotel 79.9 + Living Assets 12.0 + Retail/Office 8.1 = 100.0", "gaps": []}},
+    "financial": {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Statement of Total Return p201, SFP p200, Cash Flows p217-218, notes 17-24", "match": "line_items recon = net_income -29,477; total_revenue = performance.gross_revenue = 267,566", "gaps": []}, "note": "Stapled Group column; depreciation below NPI (cost-model PPE); cost_of_revenue_breakdown carried as extra key."}
+  },
+  "final_dir": "extracted/J85.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

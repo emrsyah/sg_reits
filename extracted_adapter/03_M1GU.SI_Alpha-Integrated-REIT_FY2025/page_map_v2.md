@@ -1,0 +1,176 @@
+# Page map v2 (classify) — 03_M1GU.SI_Alpha-Integrated-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p9  · audited('000): p103
+- [1.00] p9 — no schema-relevant data
+- [1.00] p14 — no schema-relevant data
+- [1.00] p170 — This page contains the corporate information for Alpha Integrated REIT, including trustee details, external and internal
+- [1.00] p110 — no schema-relevant data
+- [1.00] p85 — no schema-relevant data
+- [1.00] p15 — no schema-relevant data
+- [0.99] p13 — no schema-relevant data
+- [0.98] p12 — no schema-relevant data
+- [0.97] p102 — no schema-relevant data
+- [0.97] p48 — no schema-relevant data
+- [0.97] p111 — no schema-relevant data
+- [0.97] p10 — no schema-relevant data
+- [0.97] p11 — no schema-relevant data
+- [0.97] p89 — no schema-relevant data
+- [0.96 OCR] p2 — no schema-relevant data
+- [0.96] ['000] p103 — no schema-relevant data
+- [0.94 OCR] p51 — no schema-relevant data
+- [0.94] p96 — no schema-relevant data
+- [0.92] p93 — no schema-relevant data
+- [0.92] p92 — no schema-relevant data
+- [0.89 OCR] p59 — no schema-relevant data
+- [0.88] p101 — no schema-relevant data
+- [0.86] p91 — no schema-relevant data
+- [0.85] p88 — no schema-relevant data
+- [0.84] ['000] p97 — This page presents the remuneration tables for the Chief Executive Officer (Ms. Karen Lee Kiah Ling) and key management 
+- [0.80] p44 — no schema-relevant data
+- [0.78] p87 — no schema-relevant data
+- [0.72 OCR] p65 — no schema-relevant data
+- [0.72] ['000] p126 — no schema-relevant data
+- [0.70 OCR] p90 — no schema-relevant data
+- [0.70] p114 — no schema-relevant data
+- [0.67] [million] p113 — This page presents the Independent Auditors' Report to Alpha Integrated REIT Unitholders, confirming that investment pro
+- [0.67] p172 — no schema-relevant data
+- [0.65] p104 — no schema-relevant data
+- [0.62] p86 — This page details the Board of Directors and Board Committee composition for SGX REIT as at 31 December 2025, listing si
+- [0.62 OCR] ['000] p95 — no schema-relevant data
+- [0.56] ['000] p100 — no schema-relevant data
+- [0.53] p6 — no schema-relevant data
+- [0.40 OCR] p79 — no schema-relevant data
+- [0.38] ['000] p166 — This page details the SGX-ST and Property Funds Appendix-related Interested Party Transactions (RPTs) for Alpha Integrat
+- [0.38 OCR] p78 — no schema-relevant data
+- [0.38 OCR] p106 — no schema-relevant data
+- [0.38 OCR] p108 — no schema-relevant data
+- [0.35 OCR] p98 — no schema-relevant data
+- [0.35 OCR] p64 — This page presents the Manager's employee demographics as of 31 December 2025, detailing a total workforce of 10 full-ti
+- [0.30] p3 — This page is the cover of the Alpha Integrated REIT annual report titled 'POWERING GROWTH, FROM WITHIN', which includes 
+- [0.27 OCR] p63 — no schema-relevant data
+- [0.26 OCR] p77 — no schema-relevant data
+- [0.24] p105 — This page details the fee provisions under the Trust Deed for an AI-REIT operating under an internalised management stru
+- [0.22 OCR] p99 — no schema-relevant data
+- [0.21 OCR] p169 — no schema-relevant data
+- [0.19] ['000] p142 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents key unobservable inputs and fair va
+- [0.19] ['000] p8 — no schema-relevant data
+- [0.19 OCR] [million] p39 — This page presents Exhibit 3-10 detailing selected major private warehouse completions in 2025 and Exhibit 3-11 outlinin
+- [0.18] p1 — no schema-relevant data
+
+## performance  — top: p45
+- [1.00] ['000] p45 — This page presents Financial Highlights for SGX REIT, featuring four key tables detailing Gross Revenue ($'000), Net Pro
+- [1.00] p47 — This page presents financial performance data for Alpha Integrated REIT, led by a table detailing the price performance 
+- [1.00] ['000] p167 — This page presents the STATISTICS OF UNITHOLDINGS for Alpha Integrated REIT as at 02 March 2026, featuring a DISTRIBUTIO
+- [1.00] ['000] p46 — This page presents the 3-year unit price performance, return on investment metrics, and monthly trading statistics for t
+- [1.00] ['000] p168 — This page presents the **Statistics of Unitholdings** for Alpha Integrated REIT as at 02 March 2026, detailing direct an
+- [1.00] [million] p21 — This page presents the NET ASSET VALUE PER UNIT and KEY DEBT FUNDING INDICATORS for SGX REIT as at 31 December 2025, rep
+- [1.00] ['000] p118 — This page presents the Group and Trust distribution statements for SGX REIT as at 31 December 2025, reporting total dist
+- [0.98] [million] p22 — This page presents the Manager's Review for FY 2025, featuring a KEY PORTFOLIO STATISTICS table reporting SG$ million an
+- [0.98] ['000] p4 — This page presents the SGX'000 financial highlights for AI-REIT's FY 2025, featuring a rental reversion of +11.8%, a ret
+- [0.98] [million] p7 — This page presents the CEO's letter highlighting AI-REIT's FY 2025 financial performance, specifically noting a Full Yea
+- [0.97] ['000] p20 — This page presents the Manager's Review for FY 2025, featuring a **Financial Performance** table reporting gross revenue
+- [0.94] p5 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents key capital management metrics, spe
+- [0.86] ['000] p149 — This page presents a table titled "Units in Issue" reporting the number of Group and Trust units at the beginning and en
+- [0.84] ['000] p115 — This page presents the Statements of Financial Position for SGX REIT Group and Trust as at 31 December 2025, reporting t
+- [0.82] ['000] p119 — This page presents the Statements of Movements in Unitholders' Funds for the SGX REIT Group and Trust as at 31 December 
+- [0.59] ['000] p38 — This page presents a market overview of Singapore's private warehouse sector, featuring **EXHIBIT 3-9: Net New Supply, N
+- [0.59 OCR] ['000] p31 — This page presents the economic outlook for 2026 and Singapore's maritime sector performance, featuring **EXHIBIT 1-7: T
+- [0.51] p24 — This page of the Alpha Integrated REIT annual report for FY 2025 features a "Portfolio Lease Expiry Profile" table detai
+- [0.46 OCR] p36 — This page presents market rent and price indices for JTC factory space as of Q4 2025, featuring **EXHIBIT 3-6: JTC Renta
+- [0.41 OCR] ['000] p40 — This page presents market analysis data including a table of potential private warehouse space supply from 2026 to 2029 
+- [0.40] ['000] p8 — no schema-relevant data
+- [0.40] [million] p41 — This page presents **EXHIBIT 3-14: Average Unit Price of Private Warehouse Space**, a table reporting strata warehouse p
+- [0.39 OCR] p28 — This page presents an independent market review by Knight Frank Singapore, featuring **EXHIBIT 1-3: SINGAPORE INDEX OF I
+- [0.36 OCR] ['000] p34 — This page presents market data on private factory space through **EXHIBIT 3-2**, a table and chart detailing net new sup
+- [0.33 OCR] [million] p42 — no schema-relevant data
+- [0.18] ['000] p157 — This page presents the **Tax Expense** and **Earnings Per Unit (EPS)** tables for the SGX REIT Group and Trust, reportin
+
+## properties  — top: p19  · audited('000): p120
+- [1.00] [million] p19 — This page presents a Statement of Portfolio (property valuations) for the reporting unit in SGD'000, detailing individua
+- [1.00] p122 — This page presents the **Consolidated Portfolio Statement** as at 31 December 2025, detailing eight specific property as
+- [1.00] ['000] p120 — This page presents the **Consolidated Portfolio Statement** as at 31 December 2025, detailing SGX REIT's property portfo
+- [1.00] ['000] p124 — This page presents the **Consolidated Portfolio Statement** (property valuations) as at 31 December 2025, reporting a ca
+- [0.99] p18 — This page presents a Property Highlights table detailing the composition of the audited Portfolio Statement across High-
+- [0.98] ['000] p121 — The page presents a table detailing the Committed occupancy rate and Carrying amount of properties as at 31 December 202
+- [0.97] ['000] p123 — This page presents a Statement of Portfolio (property valuations) detailing the carrying amounts and committed occupancy
+- [0.96] p17 — no schema-relevant data
+- [0.95] ['000] p26 — This page presents the Manager's Review for FY 2025, featuring an Asset Enhancement section detailing plans to add space
+- [0.84] p16 — This page presents the **audited Portfolio Statement** via a map displaying 18 industrial properties across Singapore's 
+- [0.58] [million] p37 — The page presents Exhibit 3-8, a table titled "SELECTED MAJOR PRIVATE FACTORY INVESTMENT SALES IN 2025" listing individu
+- [0.52 OCR] ['000] p34 — This page presents market data on private factory space through **EXHIBIT 3-2**, a table and chart detailing net new sup
+- [0.45] [million] p41 — This page presents **EXHIBIT 3-14: Average Unit Price of Private Warehouse Space**, a table reporting strata warehouse p
+- [0.35 OCR] [million] p39 — This page presents Exhibit 3-10 detailing selected major private warehouse completions in 2025 and Exhibit 3-11 outlinin
+- [0.29] ['000] p35 — The page presents EXHIBIT 3-4: POTENTIAL SUPPLY OF PRIVATE FACTORY SPACE, a table detailing the projected Gross Floor Ar
+- [0.20] ['000] p140 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing Investment Proper
+
+## top_tenants  — top: p25
+- [0.40] p25 — This page presents a Trade Sector Analysis and Top-N Tenants table for Alpha Integrated REIT as of 31 December 2025, det
+
+## trade_mix  — top: p23  · audited('000): p29
+- [0.99] [million] p23 — This page presents the Asset Type breakdown by NLA, Valuation, and Gross Revenue for Alpha Integrated REIT's portfolio a
+- [0.94] [million] p30 — This page features Exhibit 1-5, a table detailing the Total Manufacturing Foreign Affluent Investment (FAI) by industry 
+- [0.81] ['000] p29 — This page details Singapore's Fixed Asset Investments (FAI) in manufacturing, featuring **EXHIBIT 1-4: TOTAL MANUFACTURI
+- [0.63] ['000] p33 — no schema-relevant data
+- [0.60] p43 — no schema-relevant data
+- [0.58] p25 — This page presents a Trade Sector Analysis and Top-N Tenants table for Alpha Integrated REIT as of 31 December 2025, det
+- [0.42] ['000] p35 — The page presents EXHIBIT 3-4: POTENTIAL SUPPLY OF PRIVATE FACTORY SPACE, a table detailing the projected Gross Floor Ar
+- [0.40] p24 — This page of the Alpha Integrated REIT annual report for FY 2025 features a "Portfolio Lease Expiry Profile" table detai
+- [0.29 OCR] [million] p42 — no schema-relevant data
+- [0.25 OCR] p36 — This page presents market rent and price indices for JTC factory space as of Q4 2025, featuring **EXHIBIT 3-6: JTC Renta
+- [0.24 OCR] p171 — no schema-relevant data
+- [0.22] ['000] p38 — This page presents a market overview of Singapore's private warehouse sector, featuring **EXHIBIT 3-9: Net New Supply, N
+- [0.19 OCR] [million] p39 — This page presents Exhibit 3-10 detailing selected major private warehouse completions in 2025 and Exhibit 3-11 outlinin
+- [0.15 OCR] ['000] p40 — This page presents market analysis data including a table of potential private warehouse space supply from 2026 to 2029 
+
+## financial  — top: p156
+- [1.00] ['000] p156 — This page presents the **Finance Income and Costs** table (Note 16) and **Other Trust Expenses** table (Note 17) for SGX
+- [1.00] ['000] p148 — This page contains the audited Reconciliation of movements of liabilities to cash flows arising from financing activitie
+- [1.00] ['000] p158 — This page presents the "Accounting classifications and fair values" table detailing the carrying amounts and fair values
+- [0.99] ['000] p145 — This page presents the Group and Trust financial data for Trade and Other Payables (Section 10) and Borrowings (Section 
+- [0.99] ['000] p159 — This page presents the accounting classifications and fair values of financial instruments for both Group and Trust enti
+- [0.99] ['000] p144 — This page presents the Notes to the Financial Statements for the year ended 31 December 2025, featuring a Trade and Othe
+- [0.99] p137 — no schema-relevant data
+- [0.99] ['000] p160 — This page presents the Accounting classifications and fair values of financial instruments for SGX REIT (SGD'000), detai
+- [0.99] ['000] p162 — This page presents the Group's Operating Segments table detailing geographical performance by property type (High-tech i
+- [0.99] ['000] p163 — This page presents the audited Portfolio Statement (property valuations) via a table of lease liabilities included in th
+- [0.99] ['000] p143 — This page presents the Fixed Assets schedule for Office Equipment (reported in SGD'000) and a Derivative Financial Instr
+- [0.99] ['000] p161 — This page presents the Group's Operating Segment information, detailing four reportable segments (High-tech industrial, 
+- [0.98] p138 — This page contains tax accounting policy notes regarding the deferral of taxation, including current and deferred tax tr
+- [0.98] [million] p147 — This page details the Group's borrowings and repayment schedules as of 31 December 2024 and 2025, specifically listing o
+- [0.98] p134 — no schema-relevant data
+- [0.96] p139 — no schema-relevant data
+- [0.96] p131 — no schema-relevant data
+- [0.96] ['000] p116 — This page presents the **Statement of Total Return** for the SGX REIT Group and Trust as at 31 December 2025, reporting 
+- [0.96] p130 — no schema-relevant data
+- [0.95] ['000] p125 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 December 2025, reporting net cash from
+- [0.95] ['000] p164 — This page presents a maturity analysis of lease receivables totaling $236,836k for the Group and Trust in 2025 under Not
+- [0.95] p133 — no schema-relevant data
+- [0.94] p165 — no schema-relevant data
+- [0.93 OCR] p135 — no schema-relevant data
+- [0.93] ['000] p146 — This page details the covenants and terms of outstanding borrowings for SGX REIT, presenting a table of face values and 
+- [0.93] p136 — no schema-relevant data
+- [0.92] p127 — no schema-relevant data
+- [0.92] ['000] p155 — This page contains a cash flow sensitivity analysis for variable rate instruments showing the impact of a 50 basis point
+- [0.91] p129 — no schema-relevant data
+- [0.88] ['000] p117 — This page presents the Distribution Statements for SGX REIT as at 31 December 2025, reporting Group and Trust amounts in
+- [0.85] p132 — no schema-relevant data
+- [0.81] ['000] p157 — This page presents the **Tax Expense** and **Earnings Per Unit (EPS)** tables for the SGX REIT Group and Trust, reportin
+- [0.77] ['000] p140 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing Investment Proper
+- [0.76] ['000] p142 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents key unobservable inputs and fair va
+- [0.74] p141 — This page details the fair value measurement of investment properties as at 31 December 2025, confirming they are valued
+- [0.73] p105 — This page details the fee provisions under the Trust Deed for an AI-REIT operating under an internalised management stru
+- [0.71] p109 — This page contains a table of contents for the SGX REIT annual report listing key financial statements including Stateme
+- [0.64] ['000] p154 — This page details the Group's interest rate risk management strategy, liquidity maturity analysis, and market exposure f
+- [0.64 OCR] p152 — no schema-relevant data
+- [0.63] [million] p128 — no schema-relevant data
+- [0.61] ['000] p151 — This page details the Group's credit risk management and provides a table of trade receivable ageing showing gross carry
+- [0.59 OCR] p112 — This page contains the Independent Auditors' Report for Alpha Integrated Real Estate Investment Trust, which expresses a
+- [0.56] ['000] p166 — This page details the SGX-ST and Property Funds Appendix-related Interested Party Transactions (RPTs) for Alpha Integrat
+- [0.55] ['000] p153 — This page presents the contractual undiscounted cash flows of financial liabilities for both the Group and Trust, catego
+- [0.52] ['000] p150 — This page contains the "13. FINANCIAL RISK MANAGEMENT" note detailing capital management policies, risk frameworks, and 
+- [0.27] p104 — no schema-relevant data
+- [0.27] ['000] p126 — no schema-relevant data
+- [0.17] [million] p113 — This page presents the Independent Auditors' Report to Alpha Integrated REIT Unitholders, confirming that investment pro

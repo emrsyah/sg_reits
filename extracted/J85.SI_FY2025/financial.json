@@ -1,0 +1,83 @@
+{
+  "symbol": "J85.SI",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "source_page": 201,
+  "income_stmt_metrics": {
+    "total_revenue": 267566000.0,
+    "cost_of_revenue": 137872000.0,
+    "gross_income": 129694000.0,
+    "operating_expense": 47234000.0,
+    "operating_income": 82460000.0,
+    "ebit": 45850000.0,
+    "ebitda": 71149000.0,
+    "pretax_income": -19209000.0,
+    "income_taxes": 10268000.0,
+    "net_income": -29477000.0,
+    "non_operating_income_or_loss": -101669000.0,
+    "interest_expense_non_operating": 65059000.0,
+    "diluted_shares_outstanding": 1278497000.0,
+    "net_property_sales": 0.0,
+    "funds_from_operation": null,
+    "unitholders": -29490000.0,
+    "perpetual_security_holders": 669000.0,
+    "minorities": -656000.0,
+    "revenue_breakdown": [
+      {"category": "Hotel revenue", "amount": 144708000.0, "class": "Product/Service Sales"},
+      {"category": "Rental income - Fixed rent", "amount": 77177000.0, "class": "Product/Service Sales"},
+      {"category": "Rental income - Variable rent", "amount": 45681000.0, "class": "Product/Service Sales"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "H-REIT Manager's management fee", "amount": 12944000.0, "class": "General & Admin"},
+      {"category": "HBT Trustee-Manager's management fee", "amount": 1609000.0, "class": "General & Admin"},
+      {"category": "H-REIT Trustee's fee", "amount": 479000.0, "class": "General & Admin"},
+      {"category": "HBT Trustee-Manager's trustee fee", "amount": 424000.0, "class": "General & Admin"},
+      {"category": "Valuation fee", "amount": 228000.0, "class": "General & Admin"},
+      {"category": "Depreciation", "amount": 25299000.0, "class": "Other expenses"},
+      {"category": "Other expenses", "amount": 6251000.0, "class": "Other expenses"}
+    ],
+    "cost_of_revenue_breakdown": [
+      {"category": "Operations and maintenance expenses", "amount": 34812000.0, "class": "Other expenses"},
+      {"category": "Employee benefit expenses", "amount": 50464000.0, "class": "Salaries & Benefits"},
+      {"category": "Rental expenses", "amount": 130000.0, "class": "Other expenses"},
+      {"category": "Property tax", "amount": 10615000.0, "class": "Other expenses"},
+      {"category": "Other property expenses", "amount": 41851000.0, "class": "Other expenses"}
+    ],
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 3483583000.0,
+    "total_equity": 1948036000.0,
+    "total_liabilities": 1535547000.0,
+    "working_capital": -146310000.0,
+    "total_current_asset": 119531000.0,
+    "total_non_current_asset": 3364052000.0,
+    "total_current_liabilities": 265841000.0,
+    "total_non_current_liabilities": 1269706000.0
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 114302000.0,
+    "investing_cash_flow": -41141000.0,
+    "financing_cash_flow": -66107000.0,
+    "net_cash_flow": 7054000.0,
+    "free_cash_flow": null,
+    "capital_expenditure": -42572000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "gross_revenue", "amount": 267566000.0, "label_raw": "Revenue (Note 17): Hotel revenue 144,708 + Fixed rent 77,177 + Variable rent 45,681)", "source_page": 201},
+    {"statement": "expense", "component": "property_operating_expense", "amount": 137872000.0, "label_raw": "Property expenses (operations & maintenance, employee benefits, rental, property tax, other property expenses)", "source_page": 201},
+    {"statement": "expense", "component": "management_fee_reit", "amount": 12944000.0, "label_raw": "H-REIT Manager's management fee", "source_page": 201},
+    {"statement": "expense", "component": "trustee_fee_reit", "amount": 479000.0, "label_raw": "H-REIT Trustee's fee", "source_page": 201},
+    {"statement": "expense", "component": "management_fee_bt", "amount": 1609000.0, "label_raw": "HBT Trustee-Manager's management fee", "source_page": 201},
+    {"statement": "expense", "component": "trustee_fee_bt", "amount": 424000.0, "label_raw": "HBT Trustee-Manager's trustee fee", "source_page": 201},
+    {"statement": "expense", "component": "valuation_fee", "amount": 228000.0, "label_raw": "Valuation fee", "source_page": 201},
+    {"statement": "expense", "component": "depreciation", "amount": 25299000.0, "label_raw": "Depreciation", "source_page": 201},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 6251000.0, "label_raw": "Other expenses", "source_page": 201},
+    {"statement": "adjustment", "component": "finance_income", "amount": 5814000.0, "label_raw": "Finance income", "source_page": 201},
+    {"statement": "expense", "component": "finance_costs", "amount": 70873000.0, "label_raw": "Finance costs", "source_page": 201},
+    {"statement": "adjustment", "component": "revaluation_deficit_ppe", "amount": -8132000.0, "label_raw": "(Revaluation deficit)/Reversal of revaluation deficit on property, plant and equipment", "source_page": 201},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -28478000.0, "label_raw": "Net fair value gain/(loss) on investment properties", "source_page": 201},
+    {"statement": "adjustment", "component": "income_tax", "amount": -10268000.0, "label_raw": "Tax expense", "source_page": 201}
+  ]
+}

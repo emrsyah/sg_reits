@@ -1,0 +1,19 @@
+{
+  "stem": "03_M1GU.SI_Alpha-Integrated-REIT_FY2025",
+  "symbol": "M1GU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Industrial",
+  "template_family": "Sabana/Alpha (internalised)",
+  "parsed": {"markdown": "parsed_reports_datalab/03_M1GU.SI_Alpha-Integrated-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "rows": 1, "note": "Internalised manager (first SG internalised REIT); trustee HSBC; property mgmt = function of REIT manager. Former name Sabana Industrial REIT.", "cross_check": {"vs": "p9/p105/p126/p170", "match": "full"}},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "Financial Highlights p45 + Manager's Review p20-24 + Distribution p118 + Statistics p167. DPU half-year split flagged.", "cross_check": {"vs": "p20/p45/p118/p167", "match": "full"}},
+    "properties": {"status": "done", "method": "llm_only", "rows": 18, "note": "Audited Consolidated Portfolio Statement p120-123 (valuation $'000, tenure, location) merged with Property Highlights p18-19 (GFA, occupancy, rental income). Per-property NPI + GLA/NLA structurally absent.", "cross_check": {"vs": "p120-123 + p18-19", "match": "Σ valuation 948,900k = portfolio total OK"}},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "Top-10 by GRI p25; no per-tenant sector column -> industry null.", "cross_check": {"vs": "p25", "match": "full"}},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 14, "note": "Trade Sectors by GRI p25 (NOT the asset-type donut p23). Σ=100%.", "cross_check": {"vs": "p25", "match": "Σ=100.0%"}},
+    "financial": {"status": "done", "method": "llm_only", "rows": 1, "note": "Statement of Total Return p116 + balance sheet p115 + cash flow p125 + notes 14-18 (p155-157). Full STR captured; finance_income as adjustment. Recon ties to 63,975k.", "cross_check": {"vs": "p116/p115/p125/p155-157", "match": "line_items Σrev-Σexp+Σadj=net_income OK"}}
+  },
+  "final_dir": "extracted/M1GU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

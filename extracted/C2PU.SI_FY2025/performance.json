@@ -1,0 +1,28 @@
+{
+  "symbol": "C2PU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 2570000000.0,
+  "properties_location": "Singapore, Japan, France",
+  "gross_revenue": 156294000.0,
+  "net_property_income": 147484000.0,
+  "net_distributable_income": 99781000.0,
+  "dpu": 15.29,
+  "distribution_record": [
+    {"period": "1 January 2025 to 30 June 2025", "dpu": 7.65, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 14064,
+  "aggregate_leverage": 33.4,
+  "interest_coverage_ratio": 8.6,
+  "cost_of_debt": 1.59,
+  "weighted_avg_debt_maturity": 3.0,
+  "nav_per_unit": 2.56,
+  "wale": 14.49,
+  "portfolio_occupancy": 100.0,
+  "currency": "SGD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_basis", "scope": "dpu", "note": "Full-year DPU 15.29 cents in respect of FY2025; distribution_record lists only the 1H2025 distribution (7.65 cents) actually paid during the year (Distribution Statement p147); 2H2025 distribution declared post year-end."},
+    {"type": "kpi_basis", "scope": "weighted_avg_debt_maturity", "note": "3.0 years as at 31 Dec 2025 (Key Metrics p33); extended to approx 4.1 years post-refinancing completed Feb 2026."}
+  ],
+  "source_page": 32
+}

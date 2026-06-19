@@ -1,0 +1,46 @@
+{
+  "trust_overview": {
+    "former_name": "Sabana Industrial REIT",
+    "name_change_date": "2025-10-23",
+    "note": "First internalised SGX REIT. Sabana Real Estate Investment Management Pte. Ltd. acted as manager until 23 Oct 2025 7pm, replaced by the internalised Alpha Integrated REIT Management Pte. Ltd. (owned by Unitholders). No external sponsor or external property manager post-internalisation. Fee arrangements unchanged. Source p126, p7, p170.",
+    "fiscal_year_end": "31 December"
+  },
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; only portfolio-level NPI (p20) and segment-level operating segments (p161-162: High-tech industrial / Warehouse & logistics / General industrial / Chemical warehouse & logistics). Property-level only discloses gross/rental revenue (p19)."},
+    {"column": "properties.gla / properties.nla", "reason": "Per-property GLA/NLA not disclosed in cards; only per-property GFA (sqm, p19). Portfolio-level NLA is disclosed (326,700 sqm, p22) but not split per property."},
+    {"column": "top_tenants.industry", "reason": "Top-10 tenant table (p25) has no trade-sector column per tenant; not assigned to avoid unsupported inference. Portfolio trade-sector mix is captured separately in trade_mix.json."}
+  ],
+  "data_with_no_home": [
+    "Portfolio NLA 326,700 sqm; GFA 386,227 sqm (p22)",
+    "Total number of tenants: 184 across 14 trade sectors (p22, p25)",
+    "Rental reversion FY2025 +11.8%; retention rate 71.8% (p4, p22)",
+    "WALE 3.4 years for new/renewed leases; 2.5 years portfolio (by effective GRI); weighted average unexpired land lease term 25.3 years by GFA (p24)",
+    "Asset type mix by NLA / valuation / gross revenue (p23): High-tech 38.2/63.4/70.3, Warehouse & Logistics 36.6/21.4/18.4, General Industrial 14.3/8.9/5.9, Chemical W&L 11.0/6.2/5.4",
+    "Lease type mix: Multi-tenant 92.0% by GR / 93.2% by valuation; Single-lease 8.0% / 6.8% (p23)",
+    "Total borrowings S$350.0m; debt headroom S$140.5m; 55.7% fixed; 100% unencumbered (p21)",
+    "Adjusted income available for distribution S$43.83m (adjusted DPU 3.90 cents); total declared distribution S$39.715m (p20)",
+    "Investment properties total carrying S$1,025,615k = Fair value 948,900k + Right-of-use assets 76,715k (Portfolio Statement, p123)"
+  ],
+  "parsing_traps": [
+    "p23 'Breakdown of Asset Types' is an asset-type mix (High-tech/Warehouse/General/Chemical), NOT a tenant trade-mix. The true trade_mix is the 'Trade Sectors by Gross Rental Income' table on p25.",
+    "p19 property valuations are in $ million (marketing); audited carrying values used for market_valuation come from the Consolidated Portfolio Statement $'000 (p120-123).",
+    "Portfolio Statement (p120-123) and Property Highlights (p18-19) list the 18 properties in different orders; matched by address/name. 'Toh Tuck Logispark' (marketing) = '2 Toh Tuck Link' (audited).",
+    "30 & 32 Tuas Avenue 8 shows Property Rental Income NIL for FY2025 (master tenant newly secured in-year); occupancy 100% committed.",
+    "Statistics of Unitholdings dated 02 Mar 2026 (post FY-end) — expected; number_of_unitholders = 6,254."
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation": 948900000,
+    "reported_total_market_valuation": 948900000,
+    "sum_property_gross_revenue": 79100000,
+    "reported_total_gross_revenue": 79065000,
+    "reported_property_rental_income": 79065000,
+    "note_property_revenue": "Per-property figures on p19 are 'Property Rental Income' (rounded to $0.1m), summing to S$79.1m, reconciling to Note 14 Property rental income S$79.065m — NOT to total gross revenue S$120.076m (which adds S$41.011m other operating income, mainly utilities/service recoveries, not split per property).",
+    "reported_total_npi": 67722000,
+    "line_items_recon": "Sum revenue (120,195) - sum expense (81,076) + sum adjustment signed (24,856) = 63,975 = net_income (total return after tax). OK.",
+    "total_return_after_tax": 63975000
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "scope": "all rows", "value": "month-end of disclosed land lease expiry month", "basis": "Property Highlights (p18) discloses land lease expiry as month/year (e.g. 'November 2055'); converted to YYYY-MM-DD month-end. Leasehold term (years incl. options) and remaining term from audited Portfolio Statement (p120-123).", "source_page": 18},
+    {"table": "properties", "field": "category", "scope": "High-tech industrial rows", "value": "Specialized", "basis": "Disclosed asset type 'High-tech industrial' mapped to canonical 'Specialized' per PROPERTY_CATEGORY_ALIASES (Hi-Tech Buildings -> Specialized).", "source_page": 120}
+  ]
+}

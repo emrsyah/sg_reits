@@ -3,7 +3,7 @@
 Single source of truth for pipeline state per annual report. Stages:
 **Parsed** → **Extracted** → **Guardchecked** (deterministic gates) → **Audited** (forensic LLM, correctness vs source).
 
-Last updated: 2026-06-19 (batch 4 — all 30 FY2025 extracted).
+Last updated: 2026-06-19 (batch 5 — 36/39 FY2025 extracted).
 
 > **FY2025 scale run in progress** (chunks of 8). Schema gained 7 as-disclosed comparison KPIs
 > on `performance` (aggregate_leverage, interest_coverage_ratio, cost_of_debt,
@@ -44,7 +44,29 @@ Last updated: 2026-06-19 (batch 4 — all 30 FY2025 extracted).
 > confirmed all 5 with ZERO discrepancies: 35/35 KPIs verified to source, income mis-bucketing
 > fixed where present (all US/EUR finance/interest income → adjustment), all consolidated
 > valuation totals tie to the audited Portfolio Statement.
-> **Done: 30/30 FY2025 — SCALE RUN COMPLETE. Remaining: 0.**
+> **Batch 5 (2026-06-19): 6 newly-sourced trusts** (manifest had marked these NOT_PUBLISHED;
+> user manually sourced the FY2025 ARs). All 6 newly parsed (Datalab, no quota wall) + discovered
+> + extracted (one agent per AR): XZL (Acrophyte Hospitality, ex-ARA US Hospitality, US hotels USD,
+> STAPLED, cost-model PPE hotels w/ real P&L D&A → ebitda≠ebit, no audited per-property '000 stmt
+> so per-property valuation from marketing list ×1e6 flagged inferred), M1GU (Alpha Integrated REIT
+> = ex-Sabana Industrial, renamed 23 Oct 2025, FIRST internalised SG REIT → no external sponsor/PM,
+> 18 props, sub_sector discovered = Industrial), BMOU (BHG Retail, China malls, dual-currency
+> RMB'000+S$'000 Portfolio Statement [SGD canonical, RMB in audit field], Beijing Wanliu 60%-owned
+> consolidated-100% w/ NCI), J85 (CDL Hospitality, 324pp STAPLED, SG+8 countries, cost-model PPE
+> hotels, Stapled Group canonical, valuation Σ ties [diff = Other P&E], portfolio_occupancy genuine
+> null = only regional AOR disclosed), C2PU (Parkway Life, Healthcare SG/Japan/France, 74 props via
+> facing-page positional split, multi-ccy SGD/JPY/EUR, master-leased CPI-linked, per-property 100%
+> occupancy flagged inferred, in-year Malaysia divestment, asset-value trade_mix basis), CRPU
+> (Sasseur, China outlet malls RMB, EMA net-lease income model = fixed + variable: NPI=gross_revenue
+> [no property-opex line], dual-currency Portfolio Statement). All 6 PASS both gates (0 fail).
+> Deterministic recon + 3-agent LLM cross-check: 42/42 KPIs verified to source, income mis-bucketing
+> clean (all below-NPI finance/interest/fx income → adjustment), all consolidated valuation totals
+> tie to the audited Portfolio Statement. ONE fix applied: BMOU two small Hefei malls' npi_pct were
+> swapped (cosmetic derived field) — corrected. J85 portfolio_occupancy + several FFO = genuine
+> nulls (trusts disclose Distributable Income, not FFO).
+> **Done: 36/39 FY2025. Remaining: 3 with NO published FY2025 AR — Landmark (D5IU), NTT DC (NTDU),
+> UI Boustead (UIBU) — see manifest NOT_PUBLISHED. (UIBU: only the parent Boustead Singapore Ltd AR
+> exists, not the REIT — left in annual_reports_pdf_manual/, NOT extracted.)**
 
 ## Legend
 

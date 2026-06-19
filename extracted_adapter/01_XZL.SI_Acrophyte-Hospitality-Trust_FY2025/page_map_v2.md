@@ -1,0 +1,202 @@
+# Page map v2 (classify) — 01_XZL.SI_Acrophyte-Hospitality-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p5  · audited('000): p88
+- [1.00] [million] p5 — no schema-relevant data
+- [1.00] p7 — no schema-relevant data
+- [1.00] p39 — no schema-relevant data
+- [1.00] p177 — This page presents the Corporate Directory for ACRO-REIT, detailing the REIT Manager (Acrophyte Hospitality Trust Manage
+- [1.00] p6 — no schema-relevant data
+- [1.00] p38 — no schema-relevant data
+- [1.00] p40 — no schema-relevant data
+- [1.00] p49 — no schema-relevant data
+- [1.00] p50 — no schema-relevant data
+- [1.00] p76 — no schema-relevant data
+- [1.00] p82 — no schema-relevant data
+- [1.00] p86 — This page contains the Report of the Trustee for Acrophyte Hospitality Property Trust, confirming that DBS Trustee Limit
+- [0.99] p78 — no schema-relevant data
+- [0.99] ['000] p88 — This page of the Acrophyte Hospitality Management Trust annual report for the year ended 31 December 2025 presents direc
+- [0.99] p51 — no schema-relevant data
+- [0.99] p11 — no schema-relevant data
+- [0.99] ['000] p36 — no schema-relevant data
+- [0.99] p95 — no schema-relevant data
+- [0.98] p87 — no schema-relevant data
+- [0.97] p77 — no schema-relevant data
+- [0.97] p58 — no schema-relevant data
+- [0.97] p56 — no schema-relevant data
+- [0.97] p37 — no schema-relevant data
+- [0.97] p73 — no schema-relevant data
+- [0.96] p55 — no schema-relevant data
+- [0.95] p89 — no schema-relevant data
+- [0.95] p90 — no schema-relevant data
+- [0.95] ['000] p173 — This page details Interested Person Transactions for the financial year ended 31 December 2025, presenting a table of ag
+- [0.95] p30 — no schema-relevant data
+- [0.93] p79 — no schema-relevant data
+- [0.92] p52 — no schema-relevant data
+- [0.92] p59 — no schema-relevant data
+- [0.91] p57 — no schema-relevant data
+- [0.91] p72 — no schema-relevant data
+- [0.87] [million] p170 — This page details the Group's significant subsidiaries, subsequent events including a property sale and an approved dist
+- [0.87] ['000] p74 — no schema-relevant data
+- [0.87] ['000] p75 — no schema-relevant data
+- [0.83] p66 — no schema-relevant data
+- [0.82] p69 — no schema-relevant data
+- [0.82] p61 — no schema-relevant data
+- [0.78] ['000] p81 — This page details the Statement of Policies and Practices for Acrophyte Hospitality Management Trust (ACRO-HT), specific
+- [0.78] p54 — no schema-relevant data
+- [0.73] p106 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents general information regar
+- [0.73 OCR] p45 — no schema-relevant data
+- [0.70 OCR] ['000] p63 — This page of the SGX REIT annual report for ACRO-HT contains a Level and Mix of Remuneration table detailing the total c
+- [0.70] p80 — This page details the Trustee-Manager's policies for governing Interested Person Transactions and compliance with Listin
+- [0.65] p67 — no schema-relevant data
+- [0.61 OCR] p91 — no schema-relevant data
+- [0.60 OCR] p4 — 
+- [0.59] ['000] p62 — no schema-relevant data
+- [0.56] p70 — no schema-relevant data
+- [0.51] p175 — no schema-relevant data
+- [0.50] p53 — no schema-relevant data
+- [0.50] p65 — no schema-relevant data
+- [0.46 OCR] p31 — no schema-relevant data
+- [0.44 OCR] p68 — no schema-relevant data
+- [0.37 OCR] p3 — no schema-relevant data
+- [0.36 OCR] p178 — no schema-relevant data
+- [0.34 OCR] p2 — no schema-relevant data
+- [0.33] ['000] p94 — This page contains the Independent Auditor's Report highlighting the key audit matter regarding the valuation of propert
+- [0.32 OCR] p64 — no schema-relevant data
+- [0.27 OCR] p1 — no schema-relevant data
+- [0.24 OCR] p34 — no schema-relevant data
+- [0.24 OCR] p48 — no schema-relevant data
+- [0.20 OCR] p96 — This page contains the Independent Auditor's Report for Acrophyte Hospitality Trust, detailing the auditors' responsibil
+- [0.20] p174 — no schema-relevant data
+- [0.15] p108 — no schema-relevant data
+
+## performance  — top: p28  · audited('000): p171
+- [1.00] [million] p28 — This page presents a Financial Summary featuring six bar charts and corresponding tables tracking key performance metric
+- [1.00] [million] p29 — This page presents the SGX REIT's Financial Summary in US$ million, featuring a main table of key performance metrics in
+- [1.00] [million] p26 — This page presents an FY2025 performance snapshot featuring a Capital Management table reporting Revenue of US$158.6 mil
+- [0.99] [million] p32 — no schema-relevant data
+- [0.99] ['000] p171 — This page presents statistics of stapled security holdings for ACRO-REIT and ACRO-BT as at 16 March 2026, featuring a ta
+- [0.99 OCR] p41 — This page contains a decorative header titled "PERFORMANCE REVIEW" with no main table, schema-relevant data, or financia
+- [0.99] p47 — This page presents the Relative Performance Indices for FY2025, featuring a line chart and table comparing ACRO-HT's per
+- [0.96] [million] p27 — This page presents a performance snapshot detailing portfolio optimization, brand-mandated renovations, and valuation me
+- [0.96] ['000] p172 — This page contains the "Statistics of Stapled Security Holdings" table listing Substantial Stapled Securityholders' inte
+- [0.95] p46 — This page of the SGX REIT annual report contains a Financial Calendar for the year ended 31 December 2025 listing key an
+- [0.70] p42 — no schema-relevant data
+- [0.64] ['000] p97 — The page presents the Statements of Financial Position for ACRO-REIT Group, ACRO-BT Group, and the Stapled Group as at 3
+- [0.61] ['000] p99 — This page presents the Statement of Distributable Income for the Stapled Group for the financial year ended 31 December 
+- [0.52] [million] p43 — This page presents the U.S. Hotel Investment Volume and Average Deal Size table for 2015–2025, alongside a Portfolio Val
+- [0.48] [million] p44 — no schema-relevant data
+- [0.47] [million] p33 — no schema-relevant data
+- [0.31] [million] p10 — This page presents a high-level overview of the SGX REIT's US hotel portfolio as at 31 December 2025, featuring key metr
+
+## properties  — top: p16  · audited('000): p23
+- [1.00] [million] p16 — This page presents the audited Portfolio Statement (property valuations) for the Hyatt Portfolio as at 31 December 2025,
+- [1.00] [million] p14 — This page presents the **Portfolio List as at 31 December 2025**, detailing eight Hyatt House hotel properties across Ma
+- [1.00] p15 — This page presents the **Portfolio List as at 31 December 2025**, detailing 8 Hyatt properties across the US with column
+- [1.00] [million] p17 — This page presents the **audited Portfolio Statement** for ACRO-HT's hotel portfolio as at 31 December 2025, detailing p
+- [0.96] [million] p22 — no schema-relevant data
+- [0.94] ['000] p23 — This page displays a portfolio gallery of six Hyatt Place properties with location descriptions and images, including a 
+- [0.93] p13 — no schema-relevant data
+- [0.92] ['000] p20 — no schema-relevant data
+- [0.85 OCR] p19 — no schema-relevant data
+- [0.81] ['000] p21 — no schema-relevant data
+- [0.78] p12 — This page presents the DIVERSIFIED PORTFOLIO as at 31 December 2025, featuring a map of hotel locations in the Western U
+- [0.78] ['000] p24 — no schema-relevant data
+- [0.71] [million] p25 — no schema-relevant data
+- [0.59] [million] p10 — This page presents a high-level overview of the SGX REIT's US hotel portfolio as at 31 December 2025, featuring key metr
+- [0.46] [million] p43 — This page presents the U.S. Hotel Investment Volume and Average Deal Size table for 2015–2025, alongside a Portfolio Val
+- [0.37] ['000] p129 — This page presents the audited Property, Plant and Equipment table (carrying amounts at cost and accumulated depreciatio
+- [0.29 OCR] p3 — no schema-relevant data
+- [0.26] ['000] p126 — This page presents the "Notes to the Financial Statements" for the year ended 31 December 2025, specifically detailing f
+
+## top_tenants  — top: p9
+- [0.40] p9 — This page details the Hotel Segment attributes, chain scale classification, and Master Lease Agreements for ACRO-HT asse
+
+## trade_mix  — top: p8
+- [0.64] [million] p8 — no schema-relevant data
+- [0.57] p9 — This page details the Hotel Segment attributes, chain scale classification, and Master Lease Agreements for ACRO-HT asse
+
+## financial  — top: p131
+- [1.00] ['000] p131 — The page presents the Notes to the Financial Statements for the year ended 31 December 2025, detailing loans to/from rel
+- [1.00] ['000] p132 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents Note 8 on Deferred Tax As
+- [1.00] ['000] p144 — This page presents the Net (Loss)/Income Before Tax and Taxation notes for the ACRO-REIT Group, ACRO-BT Group, and Stapl
+- [1.00] ['000] p145 — This page presents the Taxation reconciliation of effective tax rates and Earnings per Stapled Security (EPS) for the AC
+- [0.99] ['000] p98 — This page presents the **Statements of Comprehensive Income** for the financial year ended 31 December 2025, reporting r
+- [0.99] p124 — no schema-relevant data
+- [0.99] ['000] p136 — This page presents the "Reconciliation of movements of liabilities to cash flows arising from financing activities" for 
+- [0.99] ['000] p140 — This page presents the reconciliation of movements in liabilities to cash flows arising from financing activities for th
+- [0.99] ['000] p141 — This page contains the audited Derivative Financial Assets/(Liabilities) and Trade and Other Payables tables for the ACR
+- [0.99] ['000] p146 — This page presents the Operating Segments table for SGX REIT's financial year ended 31 December 2025, reporting performa
+- [0.99] ['000] p167 — This page presents a table detailing amounts recognised in profit or loss and statement of cash flows for lease liabilit
+- [0.99] p123 — no schema-relevant data
+- [0.99] ['000] p143 — This page of the SGX REIT annual report presents **Revenue** and **Net Finance (Costs)/Income** for the financial year e
+- [0.99] ['000] p137 — This page presents the reconciliation of movements in liabilities to cash flows arising from financing activities for th
+- [0.99] ['000] p147 — This page presents the Operating Segments for SGX REIT, specifically detailing reportable segment performance by Hyatt, 
+- [0.99] ['000] p169 — This page presents the **Related Party Transactions** table for the Stapled Group, ACRO-REIT Group, and ACRO-BT Group fo
+- [0.99] ['000] p134 — no schema-relevant data
+- [0.99] ['000] p166 — This page presents the Right-of-use assets table for leases as lessee, detailing US$'000 balances for Land and buildings
+- [0.99] ['000] p102 — This page presents the Statements of Movements in Stapled Securityholders' Funds for the financial year ended 31 Decembe
+- [0.99] ['000] p139 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents a reconciliation table in
+- [0.99] ['000] p100 — This page presents the Statements of Movements in Stapled Securityholders' Funds for ACRO-REIT Group for the financial y
+- [0.99] ['000] p168 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains Notes to Financial Statements focus
+- [0.98] ['000] p133 — This page presents the Notes to the Financial Statements for the year ended 31 December 2025, featuring a table of Cash 
+- [0.98] ['000] p138 — This page presents the reconciliation of movements in liabilities arising from financing activities for the financial ye
+- [0.98] ['000] p103 — This page presents the **Statements of Movements in Stapled Securityholders' Funds** for the financial year ended 31 Dec
+- [0.98] p112 — no schema-relevant data
+- [0.98] p119 — no schema-relevant data
+- [0.98] p114 — This page contains no schema-relevant data.
+- [0.98] ['000] p135 — This page presents the debt repayment schedule and terms of outstanding loans and borrowings for the ACRO-REIT Group, AC
+- [0.98] ['000] p162 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents a table detailing ACRO-BT
+- [0.97] ['000] p160 — This page presents the **Accounting classifications and fair values** table for the ACRO-REIT Group as of 31 December 20
+- [0.97] ['000] p130 — This page contains the Notes to the Financial Statements for the year ended 31 December 2025, detailing the valuation te
+- [0.97] ['000] p161 — This page presents a table detailing the fair values of financial liabilities not measured at fair value for the ACRO-RE
+- [0.97] ['000] p164 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table titled "Fair values (contin
+- [0.96] ['000] p104 — This page presents the Cash Flow Statements for the ACRO-REIT Group, ACRO-BT Group, and Stapled Group for the financial 
+- [0.96] ['000] p127 — This page presents the audited Portfolio Statement (property valuations) for ACRO-BT Group, detailing the accumulated de
+- [0.96] p115 — no schema-relevant data
+- [0.96] p113 — no schema-relevant data
+- [0.96] p117 — no schema-relevant data
+- [0.95] ['000] p105 — This page presents the **Cash Flow Statements** for the ACRO-REIT Group, ACRO-BT Group, and Stapled Group for the financ
+- [0.95] ['000] p163 — This page presents the **Accounting classifications and fair values** table for the Stapled Group as of 31 December 2025
+- [0.94] ['000] p159 — This page presents the ACRO-REIT Group's fair value hierarchy table for financial assets and liabilities as of 31 Decemb
+- [0.92] p109 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents accounting policy notes r
+- [0.92] ['000] p158 — This page presents the ACRO-REIT Group's financial risk management disclosures for cash flow hedges, specifically detail
+- [0.90] ['000] p107 — no schema-relevant data
+- [0.89] ['000] p128 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains the audited Portfolio Sta
+- [0.89] ['000] p125 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents the Investment Properties table (No
+- [0.89] ['000] p151 — no schema-relevant data
+- [0.88] p116 — no schema-relevant data
+- [0.87] ['000] p176 — This page presents a table detailing the percentage of total operating expenses to net assets for ACRO-HT, reporting fig
+- [0.86] p110 — no schema-relevant data
+- [0.85] ['000] p142 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents a table detailing Stapled
+- [0.84] p165 — This page of the SGX REIT annual report contains no schema-relevant data, as it exclusively details financial risk manag
+- [0.81] p111 — no schema-relevant data
+- [0.79] p120 — This page contains the Accounting Policies section (Notes 3.8 and 3.9) detailing the treatment of non-current assets hel
+- [0.78] p174 — no schema-relevant data
+- [0.75] ['000] p101 — This page presents the Statements of Movements in Stapled Securityholders' Funds for ACRO-BT Group for the financial yea
+- [0.74] p118 — no schema-relevant data
+- [0.70] ['000] p126 — This page presents the "Notes to the Financial Statements" for the year ended 31 December 2025, specifically detailing f
+- [0.64] p121 — no schema-relevant data
+- [0.61] p108 — no schema-relevant data
+- [0.60] ['000] p129 — This page presents the audited Property, Plant and Equipment table (carrying amounts at cost and accumulated depreciatio
+- [0.59] ['000] p157 — This page presents the "Cash flow sensitivity analysis for variable rate instruments" within the Financial Risk Manageme
+- [0.58] ['000] p150 — no schema-relevant data
+- [0.53] p122 — no schema-relevant data
+- [0.50] ['000] p93 — no schema-relevant data
+- [0.49 OCR] ['000] p149 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents notes on financial risk m
+- [0.48] [million] p44 — no schema-relevant data
+- [0.48] ['000] p94 — This page contains the Independent Auditor's Report highlighting the key audit matter regarding the valuation of propert
+- [0.46 OCR] ['000] p156 — This page presents the exposure to interest rate risk for the ACRO-REIT Group, ACRO-BT Group, and Stapled Group as of 31
+- [0.45] p175 — no schema-relevant data
+- [0.43 OCR] p92 — This page presents the Independent Auditor's Report on the consolidated financial statements of Acrophyte Hospitality Pr
+- [0.42 OCR] p96 — This page contains the Independent Auditor's Report for Acrophyte Hospitality Trust, detailing the auditors' responsibil
+- [0.40 OCR] ['000] p154 — This page presents the Liquidity Risk disclosure for the ACRO-REIT Group, specifically detailing an Exposure to Liquidit
+- [0.40 OCR] p155 — no schema-relevant data
+- [0.37] ['000] p99 — This page presents the Statement of Distributable Income for the Stapled Group for the financial year ended 31 December 
+- [0.29 OCR] ['000] p153 — This page presents a liquidity risk table detailing the exposure to cash outflows for ACRO-REIT Group and ACRO-BT Group,
+- [0.27] ['000] p97 — The page presents the Statements of Financial Position for ACRO-REIT Group, ACRO-BT Group, and the Stapled Group as at 3
+- [0.24] p106 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents general information regar
+- [0.20] p80 — This page details the Trustee-Manager's policies for governing Interested Person Transactions and compliance with Listin
+- [0.20 OCR] ['000] p152 — This page presents a table detailing the exposure to liquidity risk by showing the remaining contractual maturities of f

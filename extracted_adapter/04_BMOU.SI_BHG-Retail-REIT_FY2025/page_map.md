@@ -1,0 +1,211 @@
+# Page map — 04_BMOU.SI_BHG-Retail-REIT_FY2025
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p18 — This page presents the organisational structure of BHG Retail Trust, identifying the Board of Directors as the top entity overseeing The Manager (BHG 
+    - p33 — This page presents the Directors' independence status for FY 2025, detailing whether each Director (Gan Chee Yen, George Quek, Ong Tze Guan, Peng Ge, 
+    - p96 [million] — This page presents the REIT's FY 2025 sustainability performance through a table titled "Emissions and Energy-related Performance," reporting Scope 1 
+    - p118 — This page contains the Table of Contents for the Financial Statements, listing key artifacts including the Statement by the Manager (page 118), Statem
+    - p189 ['000] — This page contains foreign currency risk disclosures under Capital and Financial Risk Management, detailing the Group's exposure primarily to RMB thro
+    - p207 — This page contains the corporate directory for BHG Retail REIT, listing contact details and roles for the Trustee (DBS Trustee Limited), Auditor (KPMG
+- **also mentions:**
+    - p31 — This page details the Board's Diversity Criteria and Manager succession planning efforts, explicitly naming Mr Gan Chee Yen as Chairman, Mr Ong Tze Gu
+    - p92 — This page presents a material topics table from the SGX REIT's Sustainability Report for FY 2025, outlining eight key themes including Economic Perfor
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p196 ['000] — This page presents the Interested Persons Transactions table for the financial year ended 31 December 2025, reporting transaction values in S$'000 for
+    - p198 — This page presents the **Statistics of Unitholdings** for BHG Retail REIT as at 11 March 2026, detailing a **Substantial Unitholders' Interest** table
+
+## performance
+- **MAIN (lead):**
+    - p7 [million] — This page presents the FY 2025 Results Announcement with key financial highlights including gross revenue of S\$55.1 million and net property income o
+    - p58 ['000] — This page presents the Gross Revenue section of the SGX REIT's financial review, featuring a Top-N tenants/customers table detailing property-wise rev
+    - p61 [million] — This page presents a Capital Management section featuring a Key Financial Indicators table reporting gearing at 41.6%, an interest cover ratio of 1.7 
+    - p63 — This page presents the **Lease Expiry Profile (%)** table and charts for SGX REIT as at 31 December 2025, detailing weighted average lease expiries of
+    - p65 ['000] — This page presents a table of property details for the SGX'000 reporting unit, listing four malls (Hefei Mengchenglu, Hefei Changjiangxilu, Xining Hua
+    - p67 [million] — This page presents an Independent Valuation of RMB2,507.0 million (100%) and RMB1,504.2 million (60%), alongside key portfolio metrics including 52,51
+    - p69 ['000] — This page presents the Independent Valuation and portfolio metrics for SGD'000, including a Net Lettable Area of 38,106 sqm, 279 tenants, and a commit
+    - p71 ['000] — This page presents the Independent Valuation and Portfolio metrics for SGX REIT, featuring a table detailing the FY 2025 Gross Revenue (S$3.0 million)
+    - p85 — This page outlines BHG Retail REIT's sustainability strategy, detailing material ESG risks (economic, social, environmental) and corresponding respons
+    - p93 [million] — The page features a **Table** titled "Economic Performance in FY 2025" reporting revenues of S$55.1 million, distributed value of S$26.1 million, and 
+    - p115 — This page contains the GRI (Global Reporting Initiative) disclosures for SGX Practice Note 7F SR Guide compliance, specifically covering general discl
+    - p118 — This page contains the Table of Contents for the Financial Statements, listing key artifacts including the Statement by the Manager (page 118), Statem
+    - p121 — This page contains the Independent Auditors' Report on the financial statements of BHG Retail REIT for the year ended 31 December 2025, issued in acco
+    - p126 ['000] — This page presents the Statements of Financial Position for SGX REIT as at 31 December 2025 and 2024, reporting Group and REIT total assets of S\$'000
+    - p127 ['000] — This page presents the **Statements of Total Return** for SGX REIT for the year ended 31 December 2025, reporting Group and REIT financial highlights 
+    - p128 ['000] — This page presents the Distribution Statements for SGX REIT, detailing the amount available for distribution to Unitholders at the beginning and end o
+    - p130 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group and REIT, reporting financial data in S$'000 for the year ended 31 
+    - p132 ['000] — This page presents the Statement of Cash Flows for the Group year ended 31 December 2025, reporting cash flows from operating activities (net cash gen
+    - p152 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains textual accounting policies regarding taxation, earnings per unit
+    - p171 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 17 to 19, detailing Total Unitholders' Distribution mechani
+    - p197 — This page presents the Statistics of Unitholdings for BHG Retail REIT as at 11 March 2026, featuring a Distribution of Unitholdings table and a Top-N 
+    - p198 — This page presents the **Statistics of Unitholdings** for BHG Retail REIT as at 11 March 2026, detailing a **Substantial Unitholders' Interest** table
+    - p199 — This page contains the Notice of Annual General Meeting (AGM) for BHG Retail REIT scheduled for 28 April 2026, listing agenda items including adoption
+    - p205 — This page contains a Proxy Form for the BHG Retail REIT Annual General Meeting scheduled for 28 April 2026, which includes a table of Ordinary Resolut
+- **also mentions:**
+    - p5 [million] — This page presents the SGX REIT's Key Highlights table for the year ended 31 December 2025, reporting gross revenue of S$55.1 million, net property in
+    - p14 ['000] — This page of the Beijing Huallian Commercial Trust 2025 financial report letter details a distribution of SGD'000 (1.5 million) and a DPU of 0.0029 SG
+    - p57 ['000] — This page presents the **Top-N tenants/customers table** for SGX REIT, listing the top 10 tenants by % Gross Rental Income contributing a total of 18.
+    - p60 [million] — This page presents the DPU table for FY 2025 and FY 2024 in Singapore cents, alongside an audited Portfolio Statement of property valuations (Beijing 
+    - p75 [million] — This page presents the independent valuation and key metrics for the Dalian Jinsanjiao property, including a gross revenue of S$1.5 million and net pr
+    - p80 [million] — This page features a UNIT PRICE PERFORMANCE table and chart detailing BHG Retail REIT's 2025 trading activity, reporting closing prices in S\$ and tot
+    - p131 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2025, detailing leasehold properties across Be
+    - p168 ['000] — This page contains the audited Portfolio Statement (property valuations) and Statement of Total Return/Profit or Loss (comprehensive income), presenti
+    - p174 ['000] — This page presents Notes 23 and 24 from the SGX REIT annual report for the year ended 31 December 2025, detailing significant related party transactio
+    - p179 ['000] — This page contains the Geographical segments and Major tenant notes for SGX REIT's 2025 operating segments, followed by a maturity analysis table of u
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p184 ['000] — This page presents the "Interest rate risk (cont'd)" section under Capital and Financial Risk Management, detailing notional amounts for interest rate
+    - p196 ['000] — This page presents the Interested Persons Transactions table for the financial year ended 31 December 2025, reporting transaction values in S$'000 for
+
+## properties
+- **MAIN (lead):**
+    - p4 — This page presents a Property Portfolio overview featuring six strategically located assets in China (Xining Huayuan, Beijing Wanliu, Dalian Jinsanjia
+    - p14 ['000] — This page of the Beijing Huallian Commercial Trust 2025 financial report letter details a distribution of SGD'000 (1.5 million) and a DPU of 0.0029 SG
+    - p60 [million] — This page presents the DPU table for FY 2025 and FY 2024 in Singapore cents, alongside an audited Portfolio Statement of property valuations (Beijing 
+    - p62 — This page presents BHG Retail REIT's portfolio overview, featuring key metrics such as 2025 gross revenue of S$55.1m, net property income of S$29.0m, 
+    - p64 ['000] — The page presents a Portfolio Overview table detailing key metrics for the Beijing Wanliu and Chengdu Konggang shopping centers, including their addre
+    - p65 ['000] — This page presents a table of property details for the SGX'000 reporting unit, listing four malls (Hefei Mengchenglu, Hefei Changjiangxilu, Xining Hua
+    - p73 ['000] — This page presents an Independent Valuation summary with a Key Portfolio Overview table displaying RMB481.0 million in valuation, 24,765 sqm net letta
+    - p85 — This page outlines BHG Retail REIT's sustainability strategy, detailing material ESG risks (economic, social, environmental) and corresponding respons
+    - p93 [million] — The page features a **Table** titled "Economic Performance in FY 2025" reporting revenues of S$55.1 million, distributed value of S$26.1 million, and 
+    - p99 — This page details the BHG Retail REIT's employee training initiatives for FY 2025, reporting a total of 467 hours across all staff with averages of 52
+    - p115 — This page contains the GRI (Global Reporting Initiative) disclosures for SGX Practice Note 7F SR Guide compliance, specifically covering general discl
+    - p118 — This page contains the Table of Contents for the Financial Statements, listing key artifacts including the Statement by the Manager (page 118), Statem
+    - p126 ['000] — This page presents the Statements of Financial Position for SGX REIT as at 31 December 2025 and 2024, reporting Group and REIT total assets of S\$'000
+    - p131 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2025, detailing leasehold properties across Be
+    - p147 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains notes to the financial statements detailing accounting policies o
+    - p151 — This page contains accounting policy notes regarding leases and taxation for the year ended 31 December 2025, specifically detailing how right-of-use 
+    - p152 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains textual accounting policies regarding taxation, earnings per unit
+    - p162 ['000] — This page contains the audited Portfolio Statement and Statement of Total Return for SGX REIT, detailing financial derivatives and loans/borrowings as
+    - p164 ['000] — This page presents the Audited Portfolio Statement (Loans and Borrowings) for the year ended 31 December 2025, detailing Group and REIT face values an
+    - p168 ['000] — This page contains the audited Portfolio Statement (property valuations) and Statement of Total Return/Profit or Loss (comprehensive income), presenti
+    - p171 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 17 to 19, detailing Total Unitholders' Distribution mechani
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p193 ['000] — This page contains the accounting classifications and fair values table (S$'000) detailing financial assets and liabilities measured at fair value, in
+    - p199 — This page contains the Notice of Annual General Meeting (AGM) for BHG Retail REIT scheduled for 28 April 2026, listing agenda items including adoption
+    - p205 — This page contains a Proxy Form for the BHG Retail REIT Annual General Meeting scheduled for 28 April 2026, which includes a table of Ordinary Resolut
+    - p207 — This page contains the corporate directory for BHG Retail REIT, listing contact details and roles for the Trustee (DBS Trustee Limited), Auditor (KPMG
+- **also mentions:**
+    - p5 [million] — This page presents the SGX REIT's Key Highlights table for the year ended 31 December 2025, reporting gross revenue of S$55.1 million, net property in
+    - p6 [million] — This page summarizes key events and metrics for BHG Retail REIT in February through July 2025, including the FY 2024 Results Announcement showing gros
+    - p7 [million] — This page presents the FY 2025 Results Announcement with key financial highlights including gross revenue of S\$55.1 million and net property income o
+    - p52 ['000] — The page presents a table titled **Committed Occupancy Rate** (As at 31 December) for BHG Retail REIT's multi-tenanted and master-leased properties, r
+    - p67 [million] — This page presents an Independent Valuation of RMB2,507.0 million (100%) and RMB1,504.2 million (60%), alongside key portfolio metrics including 52,51
+    - p69 ['000] — This page presents the Independent Valuation and portfolio metrics for SGD'000, including a Net Lettable Area of 38,106 sqm, 279 tenants, and a commit
+    - p71 ['000] — This page presents the Independent Valuation and Portfolio metrics for SGX REIT, featuring a table detailing the FY 2025 Gross Revenue (S$3.0 million)
+    - p74 ['000] — This page presents property highlights for the Xining Huayuan retail hub, featuring an independent valuation of RMB251.0 million, net lettable area of
+    - p75 [million] — This page presents the independent valuation and key metrics for the Dalian Jinsanjiao property, including a gross revenue of S$1.5 million and net pr
+    - p129 ['000] — This page presents the audited Distribution adjustments table for the SGX REIT Group and REIT units, detailing specific line items such as amortisatio
+    - p144 — This page details the accounting policies for investment properties and plant and equipment within the SGX REIT's Notes to the Financial Statements, s
+    - p153 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table reporting Investment Properties at fair value in S$'000, 
+    - p154 — This page presents the fair value measurement disclosures for investment properties, specifically detailing Level 3 unobservable inputs such as discou
+    - p157 ['000] — This page presents Note 7 (Deferred Tax Assets/(Liabilities)) detailing the movement in deferred tax balances for SGX REIT during the year ended 31 De
+
+## top_tenants
+- **MAIN (lead):**
+    - p14 ['000] — This page of the Beijing Huallian Commercial Trust 2025 financial report letter details a distribution of SGD'000 (1.5 million) and a DPU of 0.0029 SG
+    - p57 ['000] — This page presents the **Top-N tenants/customers table** for SGX REIT, listing the top 10 tenants by % Gross Rental Income contributing a total of 18.
+    - p58 ['000] — This page presents the Gross Revenue section of the SGX REIT's financial review, featuring a Top-N tenants/customers table detailing property-wise rev
+    - p62 — This page presents BHG Retail REIT's portfolio overview, featuring key metrics such as 2025 gross revenue of S$55.1m, net property income of S$29.0m, 
+    - p93 [million] — The page features a **Table** titled "Economic Performance in FY 2025" reporting revenues of S$55.1 million, distributed value of S$26.1 million, and 
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p197 — This page presents the Statistics of Unitholdings for BHG Retail REIT as at 11 March 2026, featuring a Distribution of Unitholdings table and a Top-N 
+- **also mentions:**
+    - p63 — This page presents the **Lease Expiry Profile (%)** table and charts for SGX REIT as at 31 December 2025, detailing weighted average lease expiries of
+    - p65 ['000] — This page presents a table of property details for the SGX'000 reporting unit, listing four malls (Hefei Mengchenglu, Hefei Changjiangxilu, Xining Hua
+    - p67 [million] — This page presents an Independent Valuation of RMB2,507.0 million (100%) and RMB1,504.2 million (60%), alongside key portfolio metrics including 52,51
+    - p69 ['000] — This page presents the Independent Valuation and portfolio metrics for SGD'000, including a Net Lettable Area of 38,106 sqm, 279 tenants, and a commit
+    - p71 ['000] — This page presents the Independent Valuation and Portfolio metrics for SGX REIT, featuring a table detailing the FY 2025 Gross Revenue (S$3.0 million)
+    - p73 ['000] — This page presents an Independent Valuation summary with a Key Portfolio Overview table displaying RMB481.0 million in valuation, 24,765 sqm net letta
+    - p85 — This page outlines BHG Retail REIT's sustainability strategy, detailing material ESG risks (economic, social, environmental) and corresponding respons
+    - p92 — This page presents a material topics table from the SGX REIT's Sustainability Report for FY 2025, outlining eight key themes including Economic Perfor
+    - p113 — This page presents the GRI Content Index for BHG Retail REIT's sustainability report covering the period from 1 January 2025 to 31 December 2025, refe
+    - p114 — This page contains an SGX Practice Note 7F SR Guide index table detailing GRI 2 General Disclosures for the 2021 reporting year, with remarks indicati
+    - p115 — This page contains the GRI (Global Reporting Initiative) disclosures for SGX Practice Note 7F SR Guide compliance, specifically covering general discl
+    - p116 — This page presents a GRI disclosure index mapping specific sustainability metrics—covering anti-corruption, energy consumption and intensity, water us
+    - p147 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains notes to the financial statements detailing accounting policies o
+    - p152 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains textual accounting policies regarding taxation, earnings per unit
+    - p171 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 17 to 19, detailing Total Unitholders' Distribution mechani
+    - p176 ['000] — This page presents the Operating Segments table for SGX REIT, detailing reportable segment performance by location (Beijing Wanliu, Chengdu Konggang, 
+    - p179 ['000] — This page contains the Geographical segments and Major tenant notes for SGX REIT's 2025 operating segments, followed by a maturity analysis table of u
+    - p193 ['000] — This page contains the accounting classifications and fair values table (S$'000) detailing financial assets and liabilities measured at fair value, in
+    - p205 — This page contains a Proxy Form for the BHG Retail REIT Annual General Meeting scheduled for 28 April 2026, which includes a table of Ordinary Resolut
+    - p207 — This page contains the corporate directory for BHG Retail REIT, listing contact details and roles for the Trustee (DBS Trustee Limited), Auditor (KPMG
+
+## trade_mix
+- **MAIN (lead):**
+    - p14 ['000] — This page of the Beijing Huallian Commercial Trust 2025 financial report letter details a distribution of SGD'000 (1.5 million) and a DPU of 0.0029 SG
+    - p57 ['000] — This page presents the **Top-N tenants/customers table** for SGX REIT, listing the top 10 tenants by % Gross Rental Income contributing a total of 18.
+    - p63 — This page presents the **Lease Expiry Profile (%)** table and charts for SGX REIT as at 31 December 2025, detailing weighted average lease expiries of
+    - p67 [million] — This page presents an Independent Valuation of RMB2,507.0 million (100%) and RMB1,504.2 million (60%), alongside key portfolio metrics including 52,51
+    - p69 ['000] — This page presents the Independent Valuation and portfolio metrics for SGD'000, including a Net Lettable Area of 38,106 sqm, 279 tenants, and a commit
+    - p71 ['000] — This page presents the Independent Valuation and Portfolio metrics for SGX REIT, featuring a table detailing the FY 2025 Gross Revenue (S$3.0 million)
+    - p73 ['000] — This page presents an Independent Valuation summary with a Key Portfolio Overview table displaying RMB481.0 million in valuation, 24,765 sqm net letta
+    - p92 — This page presents a material topics table from the SGX REIT's Sustainability Report for FY 2025, outlining eight key themes including Economic Perfor
+    - p115 — This page contains the GRI (Global Reporting Initiative) disclosures for SGX Practice Note 7F SR Guide compliance, specifically covering general discl
+    - p147 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains notes to the financial statements detailing accounting policies o
+    - p152 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains textual accounting policies regarding taxation, earnings per unit
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p207 — This page contains the corporate directory for BHG Retail REIT, listing contact details and roles for the Trustee (DBS Trustee Limited), Auditor (KPMG
+- **also mentions:**
+    - p153 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table reporting Investment Properties at fair value in S$'000, 
+    - p156 ['000] — This page presents the Notes to the Financial Statements detailing Interests in Subsidiaries for SGX REIT, including a table of non-trade amounts due 
+    - p158 ['000] — This page contains financial data for SGX REIT's year ended 31 December 2025, specifically presenting a table of Deferred Tax Assets/(Liabilities) and
+    - p159 ['000] — This page contains the Notes to the Financial Statements regarding Trade and Other Receivables, including a table detailing the maximum exposure to cr
+    - p160 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table titled "Expected credit loss assessment" detailing gross 
+    - p161 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes to the Financial Statements in SGD'000, specifically detail
+    - p167 ['000] — This page presents the audited Trade and Other Payables table for both the Group and REIT, alongside a Statement of Lease Liability detailing current 
+    - p176 ['000] — This page presents the Operating Segments table for SGX REIT, detailing reportable segment performance by location (Beijing Wanliu, Chengdu Konggang, 
+    - p177 ['000] — This page presents the Operating Segments (continued) table for SGX REIT, detailing 2024 external revenues, gross revenue, segment net property income
+    - p178 ['000] — This page presents the Reconciliations of reportable segment revenue, total return, assets and liabilities and other material items for SGX REIT's yea
+    - p182 ['000] — This page contains a Liquidity risk table detailing the Group's and REIT's contractual undiscounted cash flows for financial liabilities, categorized 
+    - p189 ['000] — This page contains foreign currency risk disclosures under Capital and Financial Risk Management, detailing the Group's exposure primarily to RMB thro
+    - p191 ['000] — This page presents the accounting classifications and fair values of financial assets and liabilities for the SGX REIT group as of 31 December 2025, r
+    - p192 ['000] — This page presents the "Accounting classifications and fair values" table under Capital and Financial Risk Management, detailing financial assets at a
+    - p193 ['000] — This page contains the accounting classifications and fair values table (S$'000) detailing financial assets and liabilities measured at fair value, in
+    - p194 ['000] — This page presents a table detailing the accounting classifications and fair values of financial assets and liabilities as of 31 December 2024, report
+
+## financial
+- **MAIN (lead):**
+    - p14 ['000] — This page of the Beijing Huallian Commercial Trust 2025 financial report letter details a distribution of SGD'000 (1.5 million) and a DPU of 0.0029 SG
+    - p118 — This page contains the Table of Contents for the Financial Statements, listing key artifacts including the Statement by the Manager (page 118), Statem
+    - p121 — This page contains the Independent Auditors' Report on the financial statements of BHG Retail REIT for the year ended 31 December 2025, issued in acco
+    - p128 ['000] — This page presents the Distribution Statements for SGX REIT, detailing the amount available for distribution to Unitholders at the beginning and end o
+    - p132 ['000] — This page presents the Statement of Cash Flows for the Group year ended 31 December 2025, reporting cash flows from operating activities (net cash gen
+    - p142 — This page details SGX REIT's accounting policies for financial instruments, specifically covering derecognition criteria, offsetting rules, and hedge 
+    - p144 — This page details the accounting policies for investment properties and plant and equipment within the SGX REIT's Notes to the Financial Statements, s
+    - p147 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains notes to the financial statements detailing accounting policies o
+    - p151 — This page contains accounting policy notes regarding leases and taxation for the year ended 31 December 2025, specifically detailing how right-of-use 
+    - p153 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table reporting Investment Properties at fair value in S$'000, 
+    - p162 ['000] — This page contains the audited Portfolio Statement and Statement of Total Return for SGX REIT, detailing financial derivatives and loans/borrowings as
+    - p168 ['000] — This page contains the audited Portfolio Statement (property valuations) and Statement of Total Return/Profit or Loss (comprehensive income), presenti
+    - p172 ['000] — This page presents the **Statement of Total Return** for finance income and costs, detailing interest expenses on loans, borrowings, and lease liabili
+    - p183 [million] — This page contains the "Capital and Financial Risk Management" section of the SGX REIT annual report for the year ended 31 December 2025, detailing li
+    - p184 ['000] — This page presents the "Interest rate risk (cont'd)" section under Capital and Financial Risk Management, detailing notional amounts for interest rate
+    - p188 ['000] — This page contains the "Capital and Financial Risk Management (Cont'd)" notes detailing offsetting financial assets and liabilities, specifically pres
+- **also mentions:**
+    - p5 [million] — This page presents the SGX REIT's Key Highlights table for the year ended 31 December 2025, reporting gross revenue of S$55.1 million, net property in
+    - p6 [million] — This page summarizes key events and metrics for BHG Retail REIT in February through July 2025, including the FY 2024 Results Announcement showing gros
+    - p7 [million] — This page presents the FY 2025 Results Announcement with key financial highlights including gross revenue of S\$55.1 million and net property income o
+    - p58 ['000] — This page presents the Gross Revenue section of the SGX REIT's financial review, featuring a Top-N tenants/customers table detailing property-wise rev
+    - p59 ['000] — This page presents the Net Property Income table for SGD'000, reporting RMB 159,617 and S$29,030 for FY 2025 compared to RMB 176,742 and S$32,843 in F
+    - p62 — This page presents BHG Retail REIT's portfolio overview, featuring key metrics such as 2025 gross revenue of S$55.1m, net property income of S$29.0m, 
+    - p64 ['000] — The page presents a Portfolio Overview table detailing key metrics for the Beijing Wanliu and Chengdu Konggang shopping centers, including their addre
+    - p67 [million] — This page presents an Independent Valuation of RMB2,507.0 million (100%) and RMB1,504.2 million (60%), alongside key portfolio metrics including 52,51
+    - p69 ['000] — This page presents the Independent Valuation and portfolio metrics for SGD'000, including a Net Lettable Area of 38,106 sqm, 279 tenants, and a commit
+    - p71 ['000] — This page presents the Independent Valuation and Portfolio metrics for SGX REIT, featuring a table detailing the FY 2025 Gross Revenue (S$3.0 million)
+    - p73 ['000] — This page presents an Independent Valuation summary with a Key Portfolio Overview table displaying RMB481.0 million in valuation, 24,765 sqm net letta
+    - p74 ['000] — This page presents property highlights for the Xining Huayuan retail hub, featuring an independent valuation of RMB251.0 million, net lettable area of
+    - p75 [million] — This page presents the independent valuation and key metrics for the Dalian Jinsanjiao property, including a gross revenue of S$1.5 million and net pr
+    - p127 ['000] — This page presents the **Statements of Total Return** for SGX REIT for the year ended 31 December 2025, reporting Group and REIT financial highlights 
+    - p129 ['000] — This page presents the audited Distribution adjustments table for the SGX REIT Group and REIT units, detailing specific line items such as amortisatio
+    - p152 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 contains textual accounting policies regarding taxation, earnings per unit
+    - p169 ['000] — This page presents the audited financial summary for a material non-controlling interest subsidiary, specifically detailing its net assets, revenue of
+    - p171 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Notes 17 to 19, detailing Total Unitholders' Distribution mechani
+    - p173 ['000] — This page presents the Earnings Per Unit (basic and diluted) for the SGX REIT year ended 31 December 2025, reporting a total loss of S$'000 1,818 agai
+    - p176 ['000] — This page presents the Operating Segments table for SGX REIT, detailing reportable segment performance by location (Beijing Wanliu, Chengdu Konggang, 
+    - p177 ['000] — This page presents the Operating Segments (continued) table for SGX REIT, detailing 2024 external revenues, gross revenue, segment net property income
+    - p178 ['000] — This page presents the Reconciliations of reportable segment revenue, total return, assets and liabilities and other material items for SGX REIT's yea
+    - p196 ['000] — This page presents the Interested Persons Transactions table for the financial year ended 31 December 2025, reporting transaction values in S$'000 for

@@ -1,0 +1,66 @@
+{
+  "symbol": "CRPU.SI",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "source_page": 155,
+  "income_stmt_metrics": {
+    "total_revenue": 120978000,
+    "cost_of_revenue": 0,
+    "gross_income": 120978000,
+    "operating_income": 110489000,
+    "operating_expense": 10489000,
+    "ebit": 101898000,
+    "ebitda": 101898000,
+    "pretax_income": 78448000,
+    "income_taxes": 15192000,
+    "net_income": 63256000,
+    "non_operating_income_or_loss": -32041000,
+    "interest_expense_non_operating": 23450000,
+    "diluted_shares_outstanding": 1255875000,
+    "net_property_sales": 0,
+    "funds_from_operation": null,
+    "unitholders": 63256000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {"category": "EMA rental income", "amount": 120978000, "class": "Product/Service Sales"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "REIT Manager's management fees", "amount": 8815000, "class": "General & Admin"},
+      {"category": "Trustee's fees", "amount": 312000, "class": "General & Admin"},
+      {"category": "Other trust expenses, net", "amount": 1362000, "class": "Other expenses"}
+    ],
+    "_derived": ["operating_income", "operating_expense", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating", "cost_of_revenue", "gross_income"]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 1740948000,
+    "total_equity": 1005210000,
+    "total_liabilities": 735738000,
+    "working_capital": 17643000,
+    "total_current_asset": 204318000,
+    "total_non_current_asset": 1536630000,
+    "total_current_liabilities": 186675000,
+    "total_non_current_liabilities": 549063000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 106505000,
+    "investing_cash_flow": -1094000,
+    "financing_cash_flow": -88256000,
+    "net_cash_flow": 17155000,
+    "free_cash_flow": 105411000,
+    "capital_expenditure": -1094000
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "ema_rental_income", "amount": 120978000, "label_raw": "EMA rental income", "source_page": 155},
+    {"statement": "adjustment", "component": "finance_income", "amount": 138000, "label_raw": "Finance income", "source_page": 155},
+    {"statement": "expense", "component": "management_fee", "amount": 8815000, "label_raw": "REIT Manager's management fees", "source_page": 155},
+    {"statement": "expense", "component": "trustee_fee", "amount": 312000, "label_raw": "Trustee's fees", "source_page": 155},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 1362000, "label_raw": "Other trust expenses, net", "source_page": 155},
+    {"statement": "expense", "component": "finance_costs", "amount": 23588000, "label_raw": "Finance costs", "source_page": 155},
+    {"statement": "adjustment", "component": "foreign_exchange_differences", "amount": -221000, "label_raw": "Exchange differences", "source_page": 155},
+    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -523000, "label_raw": "Change in fair value of financial derivatives", "source_page": 155},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -7847000, "label_raw": "Change in fair value of investment properties", "source_page": 155},
+    {"statement": "adjustment", "component": "income_taxes", "amount": -15192000, "label_raw": "Tax expense", "source_page": 155}
+  ]
+}

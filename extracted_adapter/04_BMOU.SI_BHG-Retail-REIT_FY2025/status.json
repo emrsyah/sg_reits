@@ -1,0 +1,19 @@
+{
+  "stem": "04_BMOU.SI_BHG-Retail-REIT_FY2025",
+  "symbol": "BMOU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Retail",
+  "template_family": "BHG (China retail, dual-currency RMB/SGD)",
+  "parsed": {"markdown": "parsed_reports_datalab/04_BMOU.SI_BHG-Retail-REIT_FY2025/full.md", "html_pages": "n/a (small clean tables read from markdown)", "checkpoint_id": null},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "rows": 1, "note": "Management merged from Trust Structure (p17), Corporate Directory (p207), corporate profile (p3), related-party note 23 (p173). Sponsor + manager + trustee + property manager."},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Key Highlights p5, Financial Review p58-60, Key Financial Indicators p61, Statistics p197", "match": "all KPIs disclosed"}, "note": "All 7 KPIs disclosed. DPU half-year split flagged."},
+    "properties":  {"status": "done", "method": "llm_only", "rows": 6, "cross_check": {"vs": "Portfolio Statement p131 + financial-review p58-59 + cards p64-65", "match": "Sum valuation = 859,162k exact; sum GR = 55,106k exact; sum NPI = 29,030k exact", "gaps": []}, "note": "Dual-currency portfolio statement; Beijing Wanliu 60% consolidated 100% (NCI flag)."},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "cross_check": {"vs": "Top Ten Tenants p57", "match": "Top-10 sum 18.3% as disclosed"}},
+    "trade_mix":   {"status": "done", "method": "llm_only", "rows": 6, "cross_check": {"vs": "GRI by trade sector p63", "match": "sums to 100.0%"}},
+    "financial":   {"status": "done", "method": "llm_only", "rows": 16, "cross_check": {"vs": "Statement of Total Return p127, SFP p126, Cash Flow p132-133, notes 18-21", "match": "line_items recon = net_income 1,509k; total_revenue == performance.gross_revenue"}, "note": "Whole STR captured incl. all below-NPI lines."}
+  },
+  "final_dir": "extracted/BMOU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

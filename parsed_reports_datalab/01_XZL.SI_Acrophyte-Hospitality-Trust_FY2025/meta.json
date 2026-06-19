@@ -1,0 +1,14 @@
+{
+  "file": "01_XZL.SI_Acrophyte-Hospitality-Trust_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 178,
+  "pages_written": 178,
+  "seconds": 28.6,
+  "parse_quality_score": null,
+  "runtime": 20.715046167373657,
+  "cost_breakdown": {
+    "final_cost_cents": 72.0
+  },
+  "checkpoint_id": "checkpoint_rIoVT8N5zwRSPAghRZS_2GB0Fomd9prtTnf9IHYyR4A",
+  "page_range": null
+}
