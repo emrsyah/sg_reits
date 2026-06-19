@@ -3,7 +3,7 @@
 Single source of truth for pipeline state per annual report. Stages:
 **Parsed** → **Extracted** → **Guardchecked** (deterministic gates) → **Audited** (forensic LLM, correctness vs source).
 
-Last updated: 2026-06-19.
+Last updated: 2026-06-19 (batch 4 — all 30 FY2025 extracted).
 
 > **FY2025 scale run in progress** (chunks of 8). Schema gained 7 as-disclosed comparison KPIs
 > on `performance` (aggregate_leverage, interest_coverage_ratio, cost_of_debt,
@@ -32,9 +32,19 @@ Last updated: 2026-06-19.
 > Income mis-bucketing caught + fixed where present (JYEU, CMOU, TS0U finance/interest income →
 > adjustment). JV/equity-accounted properties excluded from the consolidated Portfolio Statement
 > Σ by design and layered back at the disclosed basis; all consolidated valuation totals tie.
-> **Done: 25/30 FY2025 (batch-1 8 + M44U pilot + batch-2 8 + batch-3 8). Remaining 5
-> (all need parse): OXMU (Prime US), P40U (Starhill Global), SET (Stoneweg Europe Stapled),
-> T82U (Suntec), ODBU (United Hampshire US).**
+> **Batch 4 (2026-06-19): the final 5 newly parsed trusts** — OXMU (Prime US REIT, USD office,
+> FFO null = discloses Distributable Income not FFO), P40U (Starhill Global, FY-end 30 Jun,
+> Wisma Atria 68.81% + Ngee Ann City 27.23% strata full-consol), SET (Stoneweg Europe Stapled,
+> EUR pan-European, SERT/Stapled column canonical, 104 property rows via positional-zip, AiOnX
+> data-centre stake as a BT financial asset not a property), T82U (Suntec, JV-heavy: ORQ/MBFC/
+> Southgate/Nova equity-accounted + excluded from consolidated Σ by design, WADM/WALE genuine
+> nulls — only office/retail-split figures disclosed), ODBU (United Hampshire US, USD grocery-
+> anchored + self-storage, FFO null = Distributable Income). All 5 PASS both gates (0 fail).
+> No Datalab quota wall (all 5 parsed first try). Deterministic recon + 3-agent LLM cross-check
+> confirmed all 5 with ZERO discrepancies: 35/35 KPIs verified to source, income mis-bucketing
+> fixed where present (all US/EUR finance/interest income → adjustment), all consolidated
+> valuation totals tie to the audited Portfolio Statement.
+> **Done: 30/30 FY2025 — SCALE RUN COMPLETE. Remaining: 0.**
 
 ## Legend
 

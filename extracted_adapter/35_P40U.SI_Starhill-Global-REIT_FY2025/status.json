@@ -1,0 +1,19 @@
+{
+  "stem": "35_P40U.SI_Starhill-Global-REIT_FY2025",
+  "symbol": "P40U.SI",
+  "financial_year": 2025,
+  "sub_sector": "Retail",
+  "template_family": "YTL/Starhill",
+  "parsed": {"markdown": "parsed_reports_datalab/35_P40U.SI_Starhill-Global-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "rows": 6, "note": "Trust Structure p22 + Corporate Directory p196 + glossary p195. Manager/trustee/property mgr/sponsor(YTL Corp)/master-lessees(Toshin,Katagreen)."},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "Key Highlights p5 + Financial Summary p17 + Capital Management p68 (KPIs) + Statistics of Unitholdings p191. FY-end 30 Jun 2025."},
+    "properties":  {"status": "done", "method": "llm_only", "rows": 9, "cross_check": {"vs": "audited Portfolio Statement p141", "match": "Σ valuation 2,754,630k = fair-value total", "gaps": ["per-property NPI/GR/GLA structural"]}, "note": "Markdown grid p141; Wisma Atria 68.81% & Ngee Ann 27.23% strata interests -> full_consolidation_partial_ownership flags."},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "Top 10 by GRI p31 (NOT segment note p178). Industries inferred ranks 5-10."},
+    "trade_mix":   {"status": "done", "method": "llm_only", "rows": 10, "note": "Portfolio Trade Mix By GRI p31, sums to 100.0%."},
+    "financial":   {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Statement of Total Return p138 + Balance Sheet p137 + Cash Flow p142", "match": "line_items recon ties to net_income 112,691k", "gaps": []}, "note": "Full STR captured; interest income bucketed adjustment; ebit/ebitda/operating_income/non_operating/interest_exp derived."}
+  },
+  "final_dir": "extracted/P40U.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

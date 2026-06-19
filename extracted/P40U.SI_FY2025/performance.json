@@ -1,0 +1,31 @@
+{
+  "symbol": "P40U.SI",
+  "financial_year": 2025,
+  "portfolio_value": 2755754000.0,
+  "properties_location": "Singapore; Australia; Malaysia; Japan; China",
+  "gross_revenue": 192097000.0,
+  "net_property_income": 150176000.0,
+  "net_distributable_income": 87800000.0,
+  "dpu": 3.65,
+  "distribution_record": [
+    {"period": "1 January to 30 June 2024", "dpu": 1.85, "ex_date": null, "pay_date": null},
+    {"period": "1 July to 31 December 2024", "dpu": 1.80, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 15094,
+  "aggregate_leverage": 36.0,
+  "interest_coverage_ratio": 2.9,
+  "cost_of_debt": 3.67,
+  "weighted_avg_debt_maturity": 3.1,
+  "nav_per_unit": 0.71,
+  "wale": 7.1,
+  "portfolio_occupancy": 94.6,
+  "currency": "SGD",
+  "date": "2025-06-30",
+  "flags": [
+    {"type": "distribution_record_basis", "scope": "distribution_record",
+     "note": "Distributions PAID during FY2024/25 were for prior half-years (2H FY23/24 paid 1.85c and 1H FY24/25 paid 1.80c per the Distribution Statement p139). Full-year DPU declared for FY2024/25 = 3.65 cents."},
+    {"type": "wale_basis", "scope": "wale",
+     "note": "Portfolio WALE 7.1 years by NLA (7.5 years by GRI) based on lease commencement dates; including leases commencing after 30 Jun 2025, WALE extends to 7.5 years by GRI (Toshin master lease commenced Jun 2025)."}
+  ],
+  "source_page": 5
+}

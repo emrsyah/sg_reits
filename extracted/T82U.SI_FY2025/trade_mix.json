@@ -1,0 +1,236 @@
+[
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Financial & Professional Services",
+    "category_raw": "Banking, Insurance and Financial Services",
+    "pct": 25.0,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Technology, Media and Telecommunications",
+    "pct": 24.9,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Financial & Professional Services",
+    "category_raw": "Consultancy / Services",
+    "pct": 14.5,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate and Property Services",
+    "pct": 9.0,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Energy and Natural Resources",
+    "pct": 5.3,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Office Trades",
+    "category_raw": "Trading and Investments",
+    "pct": 4.6,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing",
+    "pct": 3.9,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Government Related",
+    "category_raw": "Government and Government-Linked Offices",
+    "pct": 3.3,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "Shipping and Freight Forwarding",
+    "pct": 3.3,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Financial & Professional Services",
+    "category_raw": "Legal",
+    "pct": 2.0,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Pharmaceutical and Healthcare",
+    "pct": 1.7,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Hospitality / Leisure",
+    "pct": 0.4,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 2.1,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Food & Beverages",
+    "category_raw": "Food and Beverage",
+    "pct": 45.0,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Fashion & Accessories",
+    "category_raw": "Fashion and Accessories",
+    "pct": 9.9,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Leisure and Entertainment",
+    "pct": 7.1,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Kids, Gifts and Hobbies",
+    "pct": 5.5,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Sports and Lifestyle",
+    "pct": 4.0,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Departmental Store/Supermarket",
+    "category_raw": "Supermarket",
+    "pct": 3.6,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Beauty and Personal Care",
+    "pct": 3.3,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Jewellery, Watches and Optical",
+    "pct": 2.9,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Electronics and Telecommunications",
+    "pct": 2.9,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Fitness",
+    "pct": 2.8,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Home and Furnishings",
+    "pct": 2.5,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Education",
+    "pct": 2.3,
+    "pct_basis": "gri",
+    "source_page": 25
+  },
+  {
+    "symbol": "T82U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Services",
+    "pct": 8.2,
+    "pct_basis": "gri",
+    "source_page": 25
+  }
+]

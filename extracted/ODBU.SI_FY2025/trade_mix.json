@@ -1,0 +1,14 @@
+[
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Departmental Store/Supermarket", "category_raw": "Grocery & Wholesale", "pct": 36.1, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Consumer Goods", "pct": 14.2, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Food & Beverages", "category_raw": "Food & Beverage", "pct": 9.0, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Consumer Services", "pct": 8.7, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Discounter/Outlet", "pct": 8.2, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Infrastructure, Real Estate & Property Services", "category_raw": "Self-Storage", "pct": 7.1, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Healthcare & Wellness", "category_raw": "Fitness", "pct": 6.1, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Home Improvement", "pct": 5.7, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Financial & Professional Services", "category_raw": "Financial Services", "pct": 2.4, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Others", "pct": 1.1, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Auto Supply", "pct": 0.7, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "category": "Healthcare & Wellness", "category_raw": "Dental Services", "pct": 0.7, "pct_basis": "gri", "source_page": 37}
+]

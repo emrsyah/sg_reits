@@ -1,0 +1,31 @@
+{
+  "symbol": "OXMU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 1399600000,
+  "properties_location": "United States",
+  "gross_revenue": 133304000,
+  "net_property_income": 69252000,
+  "net_distributable_income": 28726000,
+  "dpu": 0.61,
+  "distribution_record": [
+    {"period": "1 Jan 2025 - 30 Jun 2025", "dpu": 0.12, "ex_date": null, "pay_date": null},
+    {"period": "1 Jul 2025 - 5 Oct 2025 (advanced distribution)", "dpu": 0.24, "ex_date": null, "pay_date": "2025-11-14"},
+    {"period": "6 Oct 2025 - 31 Dec 2025", "dpu": 0.25, "ex_date": null, "pay_date": "2026-03-31"}
+  ],
+  "number_of_unitholders": 4419,
+  "aggregate_leverage": 45.0,
+  "interest_coverage_ratio": 1.7,
+  "cost_of_debt": 5.37,
+  "weighted_avg_debt_maturity": 1.8,
+  "nav_per_unit": 0.53,
+  "wale": 5.6,
+  "portfolio_occupancy": 82.7,
+  "currency": "USD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "cost_of_debt_basis", "scope": "cost_of_debt", "note": "weighted average interest rate on loans and borrowings 5.37% (excl. amortisation of debt-related transaction costs), Note 9 p162; no separate all-in cost-of-debt headline disclosed"},
+    {"type": "wadm_basis", "scope": "weighted_avg_debt_maturity", "note": "1.8 years based on fully extended terms, Financial Highlights p5"},
+    {"type": "number_of_unitholders_dated", "scope": "number_of_unitholders", "note": "4,419 unitholders as at 13 Mar 2026 (Statistics of Unitholdings, post FY-end)"}
+  ],
+  "source_page": 5
+}

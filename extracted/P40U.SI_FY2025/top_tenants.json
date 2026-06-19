@@ -1,0 +1,12 @@
+[
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 1, "client_name": "Toshin Development Singapore Pte. Ltd.", "industry": null, "revenue_pct": 23.8, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 2, "client_name": "YTL Group (Katagreen Development Sdn. Bhd., YTL Singapore Pte. Ltd., YTL Starhill Global REIT Management Limited and YTL Starhill Global Property Management Pte. Ltd.)", "industry": null, "revenue_pct": 15.6, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 3, "client_name": "Myer Pty Ltd", "industry": null, "revenue_pct": 7.1, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 4, "client_name": "David Jones Pty Limited", "industry": null, "revenue_pct": 4.6, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 5, "client_name": "Food Republic Pte. Ltd.", "industry": "Food & Beverages", "revenue_pct": 2.5, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 6, "client_name": "Burberry (Singapore) Distribution Company Pte Ltd", "industry": "Fashion & Accessories", "revenue_pct": 1.9, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 7, "client_name": "Tory Burch Singapore Pte. Ltd.", "industry": "Fashion & Accessories", "revenue_pct": 1.5, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 8, "client_name": "Uniqlo Australia Pty Ltd", "industry": "Fashion & Accessories", "revenue_pct": 1.4, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 9, "client_name": "Emperor Watch & Jewellery (Singapore) Pte. Ltd.", "industry": "Other Retail Trades", "revenue_pct": 1.4, "pct_basis": "gri", "source_page": 31},
+  {"symbol": "P40U.SI", "financial_year": 2025, "rank": 10, "client_name": "Charles & Keith Group", "industry": "Fashion & Accessories", "revenue_pct": 1.2, "pct_basis": "gri", "source_page": 31}
+]

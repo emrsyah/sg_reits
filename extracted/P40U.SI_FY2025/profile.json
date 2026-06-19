@@ -1,0 +1,14 @@
+{
+  "symbol": "P40U.SI",
+  "sub_sector": "Retail",
+  "management": [
+    {"role": "reit_manager", "company_name": "YTL Starhill Global REIT Management Limited"},
+    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
+    {"role": "property_manager", "company_name": "YTL Starhill Global Property Management Pte. Ltd."},
+    {"role": "sponsor", "company_name": "YTL Corporation Berhad"},
+    {"role": "master_lessee", "company_name": "Toshin Development Singapore Pte. Ltd."},
+    {"role": "master_lessee", "company_name": "Katagreen Development Sdn. Bhd."}
+  ],
+  "income_model": "mixed",
+  "source_page": 22
+}

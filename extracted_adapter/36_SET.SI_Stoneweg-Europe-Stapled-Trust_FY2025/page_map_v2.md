@@ -1,0 +1,430 @@
+# Page map v2 (classify) — 36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p18  · audited('000): p157
+- [1.00] p18 — This page displays an organizational chart and accompanying text detailing the corporate structure of Stoneweg Europe St
+- [1.00] p19 — no schema-relevant data
+- [1.00] p30 — no schema-relevant data
+- [1.00] p31 — no schema-relevant data
+- [1.00] p262 — This page contains the Corporate Information Board of Directors, listing roles such as Chairman, CEO, and Committee memb
+- [1.00] p32 — no schema-relevant data
+- [1.00] p33 — no schema-relevant data
+- [1.00] p106 — no schema-relevant data
+- [1.00] p155 — no schema-relevant data
+- [1.00] p163 — no schema-relevant data
+- [1.00] p186 — no schema-relevant data
+- [0.99] p147 — no schema-relevant data
+- [0.99] p260 — no schema-relevant data
+- [0.99] p261 — This page presents a non-exhaustive glossary of terms and their first mentions for the SGX REIT Stoneweg Europe Stapled 
+- [0.99] p149 — no schema-relevant data
+- [0.99] p114 — no schema-relevant data
+- [0.99] ['000] p157 — This page of the Stoneweg European Business Trust annual report for the period ended 31 December 2025 contains a Directo
+- [0.99] p153 — no schema-relevant data
+- [0.98] p152 — no schema-relevant data
+- [0.98] p148 — no schema-relevant data
+- [0.98] p122 — no schema-relevant data
+- [0.98] ['000] p16 — no schema-relevant data
+- [0.98] [million] p4 — no schema-relevant data
+- [0.98] p28 — no schema-relevant data
+- [0.98] p136 — no schema-relevant data
+- [0.98] p158 — no schema-relevant data
+- [0.97] p25 — no schema-relevant data
+- [0.97] p22 — no schema-relevant data
+- [0.97] p110 — no schema-relevant data
+- [0.96] p116 — no schema-relevant data
+- [0.96] p237 — This page contains a table titled "CONTROLLED ENTITIES" listing the group structure and equity holding percentages for s
+- [0.95] p112 — no schema-relevant data
+- [0.95] p142 — no schema-relevant data
+- [0.95] p120 — no schema-relevant data
+- [0.94] p27 — no schema-relevant data
+- [0.94] p115 — no schema-relevant data
+- [0.93] ['000] p124 — no schema-relevant data
+- [0.93] p156 — no schema-relevant data
+- [0.93] p26 — no schema-relevant data
+- [0.92] p24 — no schema-relevant data
+- [0.92] p150 — no schema-relevant data
+- [0.90] p108 — no schema-relevant data
+- [0.89] ['000] p141 — no schema-relevant data
+- [0.89] ['000] p238 — This page presents a table listing the equity holding and ownership interest percentages of SGX REIT's audited Portfolio
+- [0.88] p107 — no schema-relevant data
+- [0.88] p126 — no schema-relevant data
+- [0.88] ['000] p61 — no schema-relevant data
+- [0.87] [million] p10 — no schema-relevant data
+- [0.87 OCR] p133 — no schema-relevant data
+- [0.85] ['000] p140 — no schema-relevant data
+- [0.84 OCR] p154 — This page contains the table of contents for Stoneweg European Real Estate Investment Trust's annual report, listing key
+- [0.83] p132 — no schema-relevant data
+- [0.83 OCR] p123 — no schema-relevant data
+- [0.83] ['000] p130 — no schema-relevant data
+- [0.82] p118 — no schema-relevant data
+- [0.81] p6 — no schema-relevant data
+- [0.81] p164 — no schema-relevant data
+- [0.80] p138 — no schema-relevant data
+- [0.80 OCR] p56 — no schema-relevant data
+- [0.78] p113 — no schema-relevant data
+- [0.78 OCR] p7 — no schema-relevant data
+- [0.77] p159 — no schema-relevant data
+- [0.76] ['000] p128 — no schema-relevant data
+- [0.76] [million] p9 — This page features a Debt Maturity Profile table detailing secured, unsecured, and bond obligations in € million alongsi
+- [0.76] p119 — no schema-relevant data
+- [0.76] p144 — no schema-relevant data
+- [0.74] p12 — no schema-relevant data
+- [0.73 OCR] p60 — no schema-relevant data
+- [0.71 OCR] p62 — This page presents Investor Relations content including Awards and Recognition, Index Inclusion, Securityholder Register
+- [0.71] p246 — no schema-relevant data
+- [0.70 OCR] ['000] p129 — no schema-relevant data
+- [0.69] p239 — no schema-relevant data
+- [0.68] p109 — no schema-relevant data
+- [0.68] ['000] p139 — no schema-relevant data
+- [0.68 OCR] [million] p50 — no schema-relevant data
+- [0.67] [million] p42 — no schema-relevant data
+- [0.67] ['000] p256 — no schema-relevant data
+- [0.65] p160 — no schema-relevant data
+- [0.64] p259 — no schema-relevant data
+- [0.62 OCR] p404 — no schema-relevant data
+- [0.61] ['000] p254 — This page contains a table titled "PERCENTAGE OF TOTAL OPERATING EXPENSES TO NET ASSETS" reporting SERT's total operatin
+- [0.59] p143 — no schema-relevant data
+- [0.59] ['000] p253 — This page details transactions with interested persons and parties, presenting a table listing aggregate values (in €'00
+- [0.56 OCR] p265 — no schema-relevant data
+- [0.56] p23 — no schema-relevant data
+- [0.53] ['000] p134 — no schema-relevant data
+- [0.53] ['000] p223 — This page contains the Notes to the financial statements for Stoneweg Europe Stapled REIT (SERT) for the year ended 31 D
+- [0.53 OCR] p135 — no schema-relevant data
+- [0.50 OCR] p3 — no schema-relevant data
+- [0.50] p111 — no schema-relevant data
+- [0.48] p1 — This page displays the cover of the Stoneweg Europe Stapled Trust Annual Report 2025, featuring a promotional image of a
+- [0.45 OCR] p165 — no schema-relevant data
+- [0.44 OCR] p117 — no schema-relevant data
+- [0.44 OCR] p14 — no schema-relevant data
+- [0.43] p263 — no schema-relevant data
+- [0.41 OCR] p121 — no schema-relevant data
+- [0.38 OCR] p13 — no schema-relevant data
+- [0.35] [million] p20 — This page details SERT's (Stoneweg European REIT) milestones from 2025 to 2026, highlighting a portfolio value of €2,155
+- [0.35 OCR] p146 — no schema-relevant data
+- [0.35 OCR] p125 — no schema-relevant data
+- [0.32 OCR] p96 — no schema-relevant data
+- [0.29] [million] p41 — This page details SERT's capital management initiatives as of 31 December 2025, featuring a table titled "Other Capital 
+- [0.24 OCR] p63 — This page of the SGX REIT annual report contains the FY 2025 Investor Relations Calendar highlighting key dates such as 
+- [0.23 OCR] [million] p49 — no schema-relevant data
+- [0.22 OCR] p145 — no schema-relevant data
+- [0.21] p137 — no schema-relevant data
+- [0.19 OCR] p2 — 
+- [0.16 OCR] p15 — no schema-relevant data
+- [0.16 OCR] ['000] p59 — This page presents a Social/Stakeholders table detailing 2025 employee training hours, volunteer hours, market engagemen
+
+## performance  — top: p5  · audited('000): p40
+- [1.00] [million] p5 — This page presents the FY 2025 financial highlights for Stoneweg European REIT, led by a main table displaying key finan
+- [1.00] ['000] p40 — This page presents the **Financial Position** table for SGX REIT as at 31 Dec 2025, reporting gross asset value of €'000
+- [0.99] ['000] p64 — This page presents Trading Statistics and Total Securityholder Return data for the €-denominated SET.SI, featuring a mai
+- [0.99] ['000] p257 — This page presents the **Distribution of Stapled Securities**, **Location of Stapled Securityholders**, and a **Top-N Te
+- [0.99] ['000] p65 — This page presents Trading Statistics and Total Securityholder Return data for the SERT (\$-Denominated) SEB.SI listed i
+- [0.98] ['000] p8 — This page features a CEO interview with Simon Garing detailing Stoneweg Europe Stapled Trust's (SERT) FY 2025 performanc
+- [0.97] ['000] p258 — no schema-relevant data
+- [0.97] [million] p127 — no schema-relevant data
+- [0.96] ['000] p35 — This page presents the Executive Summary for FY 2025, featuring a table detailing financial highlights including Gross R
+- [0.92] [million] p282 — This page presents the Prime & Average Office Rents and Stock & Vacancy data for Amsterdam, The Hague, and Rotterdam, fe
+- [0.89] ['000] p255 — This page presents the "Statistics of securityholdings" with a main table titled "Substantial Stapled Securityholders as
+- [0.83] ['000] p203 — This page presents the audited Distributions table (DPU/financial highlights) for SERT and Stoneweg European REIT Group,
+- [0.83] [million] p373 — This page presents the audited Portfolio Statement for logistics zones in Barcelona and Madrid, detailing vacancy rates 
+- [0.77] ['000] p284 — The page presents an Office Deliveries table (2016–2026) and an Office Take Up table (2017–2025) detailing sq m completi
+- [0.77] ['000] p288 — no schema-relevant data
+- [0.74] ['000] p169 — This page presents the **Distribution statement** for SERT, reporting €'000 figures for income available for distributio
+- [0.72] p318 — The page presents the Data Centre Vacancy Rate for the Italian Market from 2006 to 2026, showing a decline from 48% in 2
+- [0.72] ['000] p302 — This page presents a Logistics Take Up table and chart detailing square meters for Greater Paris and National markets fr
+- [0.71] p290 — This page presents a table titled "Logistics Prime Yields (%)" detailing yield trends for Schiphol, Venlo, and Rotterdam
+- [0.71] p285 — This page presents an analysis of Office Prime Yields for Amsterdam, Rotterdam, and The Hague from 2016 to 2025, featuri
+- [0.71] p34 — This page presents the Manager's Report highlighting a €2.2 billion resilient European commercial portfolio, predominant
+- [0.71] p297 — This page presents a table titled "Office Prime Yields across France (%)" displaying annual yield data from 2016 to 2025
+- [0.70] p46 — This page presents a Manager's Report for the Logistics / Light Industrial sector, featuring a detailed Lease Expiry Pro
+- [0.66] ['000] p300 — This page presents a table of Prime Warehouse Rents (€ sq m / p.a.) for Greater Paris, Lille Region, Lyon Region, and Ma
+- [0.65] ['000] p296 — This page presents a table titled "Office Take Up: Île-de-France (sq m)" displaying annual take-up figures from 2016 to 
+- [0.65] p271 — no schema-relevant data
+- [0.65] p137 — no schema-relevant data
+- [0.65] ['000] p289 — This page presents a "Logistics Take Up: National (sq m)" table detailing annual national logistics take-up from 2016 to
+- [0.61] [million] p41 — This page details SERT's capital management initiatives as of 31 December 2025, featuring a table titled "Other Capital 
+- [0.61] ['000] p294 — This page presents a Rent table tracking Prime, Grade A, and Grade B rents (€ sq m / p.a.) for Paris CBD and La Défense 
+- [0.60] p398 — This page presents the Buyer and Seller Types (%) for Switzerland Real Estate Investment via a stacked bar chart and cor
+- [0.60] ['000] p314 — This page presents market analysis data on logistics real estate, featuring a table of "Logistics Take Up: Key Markets b
+- [0.58] p268 — no schema-relevant data
+- [0.57] ['000] p295 — This page presents market analysis data on office vacancy rates and new supply deliveries in Île-de-France and Paris CBD
+- [0.57] p395 — This page presents the Denmark Real Estate Investment Buyer and Seller Types (%) tables covering 2016 to 2025, detailing
+- [0.56] p375 — This page presents a table titled "Logistics Prime Yields: Barcelona & Madrid (%)" displaying annual yield data for 2016
+- [0.56] p379 — This page presents the Data Centre Vacancy Rate table for the Spanish Market from 2006 to 2026 (in %) and the Data Centr
+- [0.55] ['000] p345 — no schema-relevant data
+- [0.55 OCR] ['000] p399 — This page presents the Spain Real Estate Investment Buyer and Seller Types (%) tables covering 2016 to 2025, detailing p
+- [0.54 OCR] p397 — This page presents a Top-N buyer and seller type table for United Kingdom Real Estate Investment, detailing the percenta
+- [0.51] ['000] p334 — no schema-relevant data
+- [0.51] ['000] p168 — This page presents the audited Balance sheets for Stoneweg European REIT Group, Stoneweg European BT Group, and SERT as 
+- [0.50] p355 — This page presents a table and chart titled "Industrial Prime Yields (%)" detailing yield trends across three UK regions
+- [0.50] ['000] p309 — This page presents market analysis for Milan and Rome via two tables: the "Office Take Up: Milan & Rome (sq m)" table tr
+- [0.49] ['000] p326 — This page presents a **Logistics & Light Industrial Take Up: National** table detailing German market absorption from 20
+- [0.48] ['000] p301 — no schema-relevant data
+- [0.47] ['000] p312 — The page presents the **Total Italian logistics Stock and Vacancy, 2025 (sq m)** table showing Estimated Vacant stock at
+- [0.44] p396 — This page presents the **Czech Republic Real Estate Investment: Buyer Types (%)** and **Seller Types (%)** tables for 20
+- [0.43] [million] p287 — This page presents market data for Prime Logistics Rents and National Logistics Stock levels across the Netherlands from
+- [0.42] ['000] p45 — This page presents the Lease Management section of the SGX REIT annual report, featuring a table detailing quarterly lea
+- [0.41] ['000] p372 — This page presents the **Stock & Vacancy** section of the SGX REIT annual report, featuring two primary tables detailing
+- [0.40] [million] p20 — This page details SERT's (Stoneweg European REIT) milestones from 2025 to 2026, highlighting a portfolio value of €2,155
+- [0.38] ['000] p47 — This page details the SGX REIT Office sector's performance as at 31 December 2025, reporting SGD'000 occupancy of 87.2% 
+- [0.36] p393 — This page presents two tables detailing the percentage distribution of buyer and seller types for Italy Real Estate Inve
+- [0.35] ['000] p313 — no schema-relevant data
+- [0.34] [million] p332 — This page presents market analysis for Danish industrial real estate, featuring a table of Gross Industrial Rents (DKK s
+- [0.34] ['000] p352 — no schema-relevant data
+- [0.34 OCR] [million] p11 — no schema-relevant data
+- [0.32] ['000] p256 — no schema-relevant data
+- [0.32] p400 — This page presents the "Ireland Real Estate Investment: Buyer Types (%)" and "Ireland Real Estate Investment: Seller Typ
+- [0.31] ['000] p308 — no schema-relevant data
+- [0.30] [million] p38 — no schema-relevant data
+- [0.30] p367 — This page presents an **Industrial Supply Rates (%)** table and chart detailing supply rates for Zürich, Geneva, Bern, a
+- [0.29] [million] p346 — This page presents a table titled "Industrial Take Up: National (sq m)" detailing gross and net industrial take up growt
+- [0.27 OCR] p292 — This page presents the French commercial real estate market introduction for 2025, featuring a stacked bar chart of inve
+- [0.27] [million] p324 — no schema-relevant data
+- [0.27] p386 — This page presents a table and chart detailing the Data Centre Vacancy Rate in the Irish Market from 2006 to 2026, along
+- [0.26] ['000] p391 — This page of the SGX REIT annual report presents tables titled "Netherlands Real Estate Investment: Buyer Types (%)" and
+- [0.25 OCR] ['000] p344 — no schema-relevant data
+- [0.25] p392 — This page presents data on buyer and seller types for France Real Estate Investment from 2016 to 2025 via two stacked ba
+- [0.24] ['000] p170 — This page presents the Statements of movements in stapled securityholders' funds and perpetual securities holders' funds
+- [0.24] p306 — This page presents an overview of the Italian office sector market and a table titled "Prime and Secondary Office Rents:
+- [0.22 OCR] [million] p374 — This page presents the Logistics Development Pipeline for 2026 in Barcelona and Madrid, detailing total space (Madrid: 6
+- [0.22 OCR] p2 — 
+- [0.22] [million] p342 — This page introduces the Czech commercial real estate market with a main table titled "Czech Republic Real Estate Invest
+- [0.21] ['000] p350 — This page presents an occupational market overview for the UK industrial/logistics sector, featuring a detailed table ti
+- [0.21] ['000] p354 — This page presents the **Top-N tenants/customers table** (labeled as "Industrial & Logistics Take Up: Key Markets") deta
+- [0.19] p283 — This page presents the Proportion of Grade A Office Stock and Office Grade A Vacancy Rate for Amsterdam, Rotterdam, and 
+- [0.19 OCR] p370 — This page presents market analysis and investment volume data for Spain's commercial real estate sector in 2025, featuri
+- [0.18] p343 — no schema-relevant data
+- [0.18] p263 — no schema-relevant data
+- [0.17 OCR] p330 — no schema-relevant data
+- [0.17] p394 — This page presents a table titled "Germany Real Estate Investment: Buyer Types (%)" and another titled "Germany Real Est
+- [0.17] [million] p322 — The main artifact on this page is the "Germany Real Estate Investment: Volumes" table, which details total investment vo
+- [0.17] p349 — This page presents the UK Commercial Real Estate Market Introduction, featuring a stacked bar chart titled "UK Real Esta
+- [0.16] ['000] p202 — This page contains the Notes to the financial statements regarding divestments of investment properties and a table titl
+
+## properties  — top: p68
+- [1.00] ['000] p68 — This page presents a detailed profile of the Haagse Poort property, featuring a **Statement of Portfolio (property valua
+- [1.00] ['000] p74 — This page presents the audited Portfolio Statement for the Nervesa21 property in Milan, Italy, detailing its €61.1 milli
+- [1.00] ['000] p75 — This page presents the audited Property Valuation and Statement of Portfolio for Veemarkt in Amsterdam, reporting a valu
+- [1.00] ['000] p76 — This page presents a detailed property valuation and occupancy report for the Moeder Teresaan 100/200 office building in
+- [1.00] ['000] p77 — This page features the audited Portfolio Statement (property valuations) for Parsdorfer Weg 10 in Kirchheim, Germany, re
+- [1.00] ['000] p69 — This page presents the audited Portfolio Statement for Parc des Docks, reporting a property valuation of €172.1 million 
+- [1.00] ['000] p70 — This page presents the audited Portfolio Statement for Central Plaza in Rotterdam, detailing a property valuation of €13
+- [1.00] ['000] p71 — This page presents a Property Valuation and occupancy snapshot for the Business Garden office building in Poznań, Poland
+- [1.00] ['000] p72 — This page presents the audited Property Valuation and Occupancy details for the Bastion property in 's-Hertogenbosch, in
+- [1.00] ['000] p73 — This page presents a Property Valuation and Occupancy summary for the CLOM (Centro Logistico Orlando Marconi) industrial
+- [1.00] p79 — no schema-relevant data
+- [1.00] ['000] p81 — This page presents an audited Portfolio Statement of property valuations as at 31 December 2025 (€'000), detailing gross
+- [1.00] ['000] p85 — This page presents a table of audited portfolio statements (property valuations) as at 31 December 2025, reporting gross
+- [1.00] p87 — no schema-relevant data
+- [1.00] ['000] p89 — This page presents the audited Portfolio Statement (property valuations) as at 31 December 2025, listing 14 properties w
+- [1.00] p91 — no schema-relevant data
+- [1.00] ['000] p93 — This page presents an audited Portfolio Statement for the reporting unit €'000, detailing 15 properties with their valua
+- [1.00] ['000] p99 — This page presents an audited Portfolio Statement detailing property valuations as at 31 December 2025 (€'000) for the S
+- [1.00] ['000] p101 — This page presents a table titled "Audited Portfolio Statement" for the Logistics / Light Industrial segment, reporting 
+- [1.00] ['000] p103 — This page presents an audited Portfolio Statement (property valuations) for the SGX REIT's Logistics/Light Industrial se
+- [1.00] ['000] p104 — This page presents a table of nine Finland office assets acquired on 28 December 2018, detailing their addresses and pur
+- [1.00] ['000] p105 — This page presents a table titled "Valuation as at 31 December 2025 (€'000)" which details the audited Portfolio Stateme
+- [1.00] ['000] p175 — This page contains the audited Statement of Portfolio detailing property valuations as at 31 December 2025, presenting c
+- [1.00] ['000] p177 — This page contains the audited Portfolio Statement for Stoneweg European REIT Group and SERT as of 31 December 2025, det
+- [1.00] ['000] p181 — This page presents the audited Portfolio Statement (property valuations) as of 31 December 2025, detailing land tenure c
+- [1.00] ['000] p183 — This page presents the **Statement of Portfolio** for Stoneweg European REIT Group and SERT as at 31 December 2025, deta
+- [1.00] ['000] p95 — This page presents the audited Portfolio Statement for the Office asset class as of 31 December 2025, detailing four pro
+- [1.00] p97 — no schema-relevant data
+- [1.00] p174 — This page contains the **Statement of Portfolio (property valuations)** as at 31 December 2025, listing assets by geogra
+- [1.00] p176 — This page presents the **Statement of Portfolio** for SGX REIT as at 31 December 2025, detailing its audited property ho
+- [1.00] p178 — This page presents the audited Portfolio Statement as of 31 December 2025, detailing assets by geography (Italy), proper
+- [1.00] ['000] p179 — This page presents the audited Portfolio Statement (property valuations) for Stoneweg European REIT Group and SERT as of
+- [1.00] p180 — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2025, detailing assets located
+- [1.00] ['000] p185 — This page presents the audited Portfolio Statement for Stoneweg European REIT Group and SERT as of 31 December 2025, det
+- [1.00] ['000] p189 — This page presents a textual asset class breakdown (not a table) detailing SERT's portfolio valuations, property counts,
+- [1.00] p182 — This page contains the **Statement of Portfolio** as at 31 December 2025, listing properties by geography (Denmark and C
+- [1.00] p184 — This page presents the Statement of Portfolio detailing investment properties by geography and type, including acquisiti
+- [0.99] ['000] p94 — This page presents a table detailing four office assets in Poland, including their addresses, acquisition dates, and pur
+- [0.99] ['000] p98 — This page presents a table of Denmark assets listing 12 logistics and light industrial properties with their addresses, 
+- [0.99] ['000] p84 — This page presents a table titled "04 France assets" listing 19 properties across Logistics/Light Industrial and Office 
+- [0.99] ['000] p92 — This page lists 14 Germany assets classified as Logistics / Light Industrial with their addresses, acquisition dates, an
+- [0.99] p83 — no schema-relevant data
+- [0.99] [million] p43 — This page details the completed divestments of the SGX REIT's portfolio in FY 2025, presenting a table listing six asset
+- [0.98] ['000] p100 — This page details the acquisition of seven industrial park assets in the Czech Republic, presenting a table listing thei
+- [0.98] p66 — no schema-relevant data
+- [0.96] p82 — no schema-relevant data
+- [0.94] ['000] p208 — This page contains the audited Portfolio Statement (property valuations) for SERT's investment properties as of 31 Decem
+- [0.94] ['000] p39 — This page presents an audited Portfolio Statement detailing the valuation of SERT's European property portfolio as at 31
+- [0.94] ['000] p102 — This page presents a table titled "United Kingdom assets" listing three logistics/light industrial properties (Thorn Lig
+- [0.94] ['000] p17 — no schema-relevant data
+- [0.91] ['000] p88 — This page presents a table of Italy assets detailing 14 properties across Logistics/Light Industrial, Office, and Others
+- [0.90] ['000] p209 — This page presents the audited Portfolio Statement detailing SERT and Stoneweg European REIT Group's independent valuati
+- [0.87] ['000] p80 — This page details the acquisition dates and purchase prices (in €'000) for fourteen logistics, light industrial, and off
+- [0.84] p78 — no schema-relevant data
+- [0.81] ['000] p194 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's segment assets by geography and 
+- [0.74] p86 — no schema-relevant data
+- [0.69] ['000] p193 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's segment assets as of 31 December
+- [0.49] ['000] p240 — This page presents the audited Portfolio Statement (asset valuations) for assets held for sale, specifically detailing S
+- [0.47 OCR] p90 — no schema-relevant data
+- [0.46] ['000] p190 — This page presents the audited Portfolio Statement (property valuations) for Poland, Finland, and Italy with details on 
+- [0.30] [million] p332 — This page presents market analysis for Danish industrial real estate, featuring a table of Gross Industrial Rents (DKK s
+- [0.29] ['000] p312 — The page presents the **Total Italian logistics Stock and Vacancy, 2025 (sq m)** table showing Estimated Vacant stock at
+- [0.26] ['000] p188 — no schema-relevant data
+- [0.25 OCR] p96 — no schema-relevant data
+- [0.22] ['000] p294 — This page presents a Rent table tracking Prime, Grade A, and Grade B rents (€ sq m / p.a.) for Paris CBD and La Défense 
+- [0.22] [million] p67 — This page presents the audited Portfolio Statement detailing SERT's €2.2 billion portfolio of 96 properties across nine 
+- [0.21] [million] p162 — This page contains the Independent Auditor's Report detailing Key Audit Matters, specifically focusing on the Fair Valua
+
+## top_tenants  — top: p339  · audited('000): p387
+- [0.75] p339 — This page presents a market analysis of the Danish data centre sector featuring tables on future supply (2026–2028) and 
+- [0.60] ['000] p387 — This page presents market analysis data for the Irish Data Centre sector, featuring a table titled "Data Centre Operator
+- [0.30] ['000] p48 — This page of the SGX REIT Manager's Report presents a Top-N tenants/customers table detailing the top 10 tenant-customer
+- [0.28] p360 — no schema-relevant data
+- [0.25] p380 — no schema-relevant data
+
+## trade_mix  — top: p353
+- [0.94] ['000] p353 — no schema-relevant data
+- [0.93] [million] p44 — This page presents the Manager's report for SERT REIT, featuring two donut charts and corresponding tables detailing the
+- [0.83] p319 — no schema-relevant data
+- [0.76] [million] p67 — This page presents the audited Portfolio Statement detailing SERT's €2.2 billion portfolio of 96 properties across nine 
+- [0.74] ['000] p37 — This page presents the audited Portfolio Statement (property valuations) via a table comparing FY 2025 gross revenue and
+- [0.73] p273 — no schema-relevant data
+- [0.72] ['000] p383 — no schema-relevant data
+- [0.72 OCR] p280 — The page presents a market introduction for the Dutch real estate sector in 2025, featuring a stacked bar chart and tabl
+- [0.70] p311 — no schema-relevant data
+- [0.64] p343 — no schema-relevant data
+- [0.63] ['000] p48 — This page of the SGX REIT Manager's Report presents a Top-N tenants/customers table detailing the top 10 tenant-customer
+- [0.63 OCR] p403 — no schema-relevant data
+- [0.62] [million] p346 — This page presents a table titled "Industrial Take Up: National (sq m)" detailing gross and net industrial take up growt
+- [0.59] [million] p371 — no schema-relevant data
+- [0.59] [million] p342 — This page introduces the Czech commercial real estate market with a main table titled "Czech Republic Real Estate Invest
+- [0.58] ['000] p308 — no schema-relevant data
+- [0.56] p317 — This page presents a map and a table detailing the geographical distribution and supply capacity of data centres in the 
+- [0.54] ['000] p391 — This page of the SGX REIT annual report presents tables titled "Netherlands Real Estate Investment: Buyer Types (%)" and
+- [0.53] p360 — no schema-relevant data
+- [0.52] p380 — no schema-relevant data
+- [0.52] p394 — This page presents a table titled "Germany Real Estate Investment: Buyer Types (%)" and another titled "Germany Real Est
+- [0.51] ['000] p350 — This page presents an occupational market overview for the UK industrial/logistics sector, featuring a detailed table ti
+- [0.51] p349 — This page presents the UK Commercial Real Estate Market Introduction, featuring a stacked bar chart titled "UK Real Esta
+- [0.51] [million] p324 — no schema-relevant data
+- [0.49] ['000] p352 — no schema-relevant data
+- [0.48] ['000] p47 — This page details the SGX REIT Office sector's performance as at 31 December 2025, reporting SGD'000 occupancy of 87.2% 
+- [0.47] ['000] p45 — This page presents the Lease Management section of the SGX REIT annual report, featuring a table detailing quarterly lea
+- [0.47] p392 — This page presents data on buyer and seller types for France Real Estate Investment from 2016 to 2025 via two stacked ba
+- [0.46] ['000] p331 — no schema-relevant data
+- [0.45] [million] p322 — The main artifact on this page is the "Germany Real Estate Investment: Volumes" table, which details total investment vo
+- [0.45] p306 — This page presents an overview of the Italian office sector market and a table titled "Prime and Secondary Office Rents:
+- [0.45] ['000] p351 — no schema-relevant data
+- [0.44] p367 — This page presents an **Industrial Supply Rates (%)** table and chart detailing supply rates for Zürich, Geneva, Bern, a
+- [0.43] p364 — This page presents the Commercial Real Estate Market Introduction for Switzerland, featuring a main Stacked bar chart ti
+- [0.42 OCR] p330 — no schema-relevant data
+- [0.41 OCR] [million] p374 — This page presents the Logistics Development Pipeline for 2026 in Barcelona and Madrid, detailing total space (Madrid: 6
+- [0.41] p283 — This page presents the Proportion of Grade A Office Stock and Office Grade A Vacancy Rate for Amsterdam, Rotterdam, and 
+- [0.39] p386 — This page presents a table and chart detailing the Data Centre Vacancy Rate in the Irish Market from 2006 to 2026, along
+- [0.39 OCR] p365 — no schema-relevant data
+- [0.39] [million] p38 — no schema-relevant data
+- [0.39] ['000] p354 — This page presents the **Top-N tenants/customers table** (labeled as "Industrial & Logistics Take Up: Key Markets") deta
+- [0.37] ['000] p301 — no schema-relevant data
+- [0.37 OCR] [million] p305 — The page presents an Italy Real Estate Investment: Volumes table (in €) and a stacked bar chart detailing 2025 market ac
+- [0.36] p400 — This page presents the "Ireland Real Estate Investment: Buyer Types (%)" and "Ireland Real Estate Investment: Seller Typ
+- [0.36] p393 — This page presents two tables detailing the percentage distribution of buyer and seller types for Italy Real Estate Inve
+- [0.35 OCR] ['000] p366 — This page presents the Industrial Rents (€ sq m / p.a.) and Industrial Stock (sq m) tables for Zürich, Geneva, Bern, and
+- [0.35] p268 — no schema-relevant data
+- [0.34] p396 — This page presents the **Czech Republic Real Estate Investment: Buyer Types (%)** and **Seller Types (%)** tables for 20
+- [0.34 OCR] p390 — no schema-relevant data
+- [0.34] ['000] p326 — This page presents a **Logistics & Light Industrial Take Up: National** table detailing German market absorption from 20
+- [0.31 OCR] p370 — This page presents market analysis and investment volume data for Spain's commercial real estate sector in 2025, featuri
+- [0.31] ['000] p313 — no schema-relevant data
+- [0.31 OCR] [million] p51 — no schema-relevant data
+- [0.29] ['000] p345 — no schema-relevant data
+- [0.27] ['000] p309 — This page presents market analysis for Milan and Rome via two tables: the "Office Take Up: Milan & Rome (sq m)" table tr
+- [0.26] p375 — This page presents a table titled "Logistics Prime Yields: Barcelona & Madrid (%)" displaying annual yield data for 2016
+- [0.24 OCR] p292 — This page presents the French commercial real estate market introduction for 2025, featuring a stacked bar chart of inve
+- [0.24] p355 — This page presents a table and chart titled "Industrial Prime Yields (%)" detailing yield trends across three UK regions
+- [0.23] ['000] p302 — This page presents a Logistics Take Up table and chart detailing square meters for Greater Paris and National markets fr
+- [0.23] p34 — This page presents the Manager's Report highlighting a €2.2 billion resilient European commercial portfolio, predominant
+- [0.22 OCR] p264 — no schema-relevant data
+- [0.21] ['000] p289 — This page presents a "Logistics Take Up: National (sq m)" table detailing annual national logistics take-up from 2016 to
+- [0.20] p379 — This page presents the Data Centre Vacancy Rate table for the Spanish Market from 2006 to 2026 (in %) and the Data Centr
+- [0.20] p46 — This page presents a Manager's Report for the Logistics / Light Industrial sector, featuring a detailed Lease Expiry Pro
+- [0.20] [million] p287 — This page presents market data for Prime Logistics Rents and National Logistics Stock levels across the Netherlands from
+- [0.19] ['000] p387 — This page presents market analysis data for the Irish Data Centre sector, featuring a table titled "Data Centre Operator
+- [0.19] ['000] p296 — This page presents a table titled "Office Take Up: Île-de-France (sq m)" displaying annual take-up figures from 2016 to 
+- [0.18] p395 — This page presents the Denmark Real Estate Investment Buyer and Seller Types (%) tables covering 2016 to 2025, detailing
+- [0.18] p318 — The page presents the Data Centre Vacancy Rate for the Italian Market from 2006 to 2026, showing a decline from 48% in 2
+- [0.18 OCR] p397 — This page presents a Top-N buyer and seller type table for United Kingdom Real Estate Investment, detailing the percenta
+- [0.17 OCR] p359 — no schema-relevant data
+- [0.17] p398 — This page presents the Buyer and Seller Types (%) for Switzerland Real Estate Investment via a stacked bar chart and cor
+- [0.17] ['000] p372 — This page presents the **Stock & Vacancy** section of the SGX REIT annual report, featuring two primary tables detailing
+- [0.17] ['000] p334 — no schema-relevant data
+- [0.15 OCR] ['000] p344 — no schema-relevant data
+
+## financial  — top: p195
+- [1.00] ['000] p195 — This page presents the **Gross Revenue** note for SGX REIT SERT, detailing a breakdown of €'000 revenue from operating l
+- [1.00] ['000] p204 — This page presents the Income Tax note for SERT (SGX REIT), detailing the reconciliation of income tax expense and analy
+- [1.00] ['000] p206 — This page presents the audited Deferred Tax Assets and Liabilities for SERT and Stoneweg European REIT Group for the yea
+- [1.00] p207 — no schema-relevant data
+- [1.00] ['000] p219 — This page presents Stoneweg European REIT Group's Net Finance Costs table (€'000) for the year ended 31 December 2025, d
+- [1.00] ['000] p167 — This page presents the Statements of Comprehensive Income for Stoneweg European REIT Group, Stoneweg European BT Group, 
+- [1.00] ['000] p205 — This page presents a numerical reconciliation between income tax expense and total return before tax for the Stoneweg Eu
+- [1.00] ['000] p199 — This page details the calculation methods and recognition of development management, project management, and leasing fee
+- [1.00] ['000] p236 — This page presents notes on valuation techniques for Level 3 fair values and liabilities not measured at fair value, inc
+- [1.00] ['000] p241 — This page contains Note 18 to the financial statements detailing SERT's other receivables and payables for the year ende
+- [0.99] ['000] p214 — no schema-relevant data
+- [0.99] ['000] p221 — This page details SERT's derivative financial instruments, presenting notional principal amounts and expiry profiles for
+- [0.99] ['000] p191 — This page presents the audited Portfolio Statement for SERT 2025, detailing segment results by Geography (e.g., The Neth
+- [0.99] ['000] p192 — This page presents the Segment Profit table for SERT's year ended 31 December 2025, reporting gross revenue, property op
+- [0.99] ['000] p198 — This page details acquisition and divestment fee policies for Stoneweg European REIT Group, Stoneweg European BT Group, 
+- [0.99] ['000] p200 — This page contains the Notes to the Financial Statements for Stoneweg European REIT Group (SERT) covering the year ended
+- [0.99] ['000] p201 — This page presents the audited financial note on (Loss)/Gain on Divestments for the SERT and Stoneweg European REIT Grou
+- [0.99] ['000] p212 — This page of the SERT and Stoneweg European REIT Group annual report for the year ended 31 December 2025 presents a tabl
+- [0.99] ['000] p234 — This page of the SGX REIT annual report for Stoneweg European REIT Group and Stoneweg European BT Group details fair val
+- [0.99] p226 — no schema-relevant data
+- [0.99] ['000] p247 — no schema-relevant data
+- [0.99] ['000] p166 — This page presents the Statements of Total Return for Stoneweg European REIT Group and BT Group (and SERT) for the year 
+- [0.99] ['000] p213 — no schema-relevant data
+- [0.99] ['000] p197 — This page presents notes to the financial statements detailing REIT Manager's fees, BT Trustee-Manager's fees, and Prope
+- [0.98] p251 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains no audited Portfolio Statement, Sta
+- [0.98] ['000] p216 — This page contains a Borrowing details table reporting total facilities and utilised amounts in €'000 for the year ended
+- [0.98] ['000] p217 — This page details the company's debt financing structure, including a €174 million secured Haagse Poort loan, a €85 mill
+- [0.98] ['000] p235 — This page presents a fair value hierarchy table for SERT (€'000) detailing Level 1, Level 2, and Level 3 financial asset
+- [0.98] ['000] p243 — This page contains the Notes to the financial statements for the year ended 31 December 2025, specifically detailing Oth
+- [0.97] ['000] p196 — This page contains the audited Portfolio Statement of fees for the Trustee and Manager, reporting amounts in €'000. It d
+- [0.97] ['000] p218 — no schema-relevant data
+- [0.97] p250 — no schema-relevant data
+- [0.96] [million] p36 — no schema-relevant data
+- [0.96] ['000] p215 — This page presents the Borrowings note within the Finance and Capital Structure section of the SGX REIT annual report, d
+- [0.95] p187 — no schema-relevant data
+- [0.95] ['000] p242 — This page presents the audited Trade and other payables balance sheet table for Stoneweg European REIT Group, SERT, and 
+- [0.95] ['000] p245 — This page presents the **Notes to the financial statements** for the year ended 31 December 2025, featuring a table deta
+- [0.94] ['000] p171 — This page contains the **Statement of Cash Flows** for Stoneweg European REIT Group, BT Group, and SERT covering the yea
+- [0.94] ['000] p220 — This page details SERT and Stoneweg European REIT Group's derivative financial instruments, presenting a table of €'000 
+- [0.94] [million] p249 — no schema-relevant data
+- [0.92] ['000] p224 — no schema-relevant data
+- [0.91] [million] p211 — no schema-relevant data
+- [0.90] ['000] p172 — This page presents the **Statement of cash flows** for Stoneweg European REIT Group and related entities for the year en
+- [0.90] ['000] p173 — This page presents the **Statement of cash flows** for Stoneweg European REIT Group, Stoneweg European BT Group, and SER
+- [0.90] ['000] p248 — This page of the SGX REIT annual report contains Notes 22, 23, and 24 detailing unrecognised expenditure commitments (€'
+- [0.89] ['000] p210 — no schema-relevant data
+- [0.89] ['000] p231 — This page contains a market risk disclosure table detailing SERT's interest rate exposure in €'000 for the year ended 31
+- [0.86] p252 — no schema-relevant data
+- [0.85] ['000] p151 — This page details the SEBT Trust Deed's fee structure, including trustee and management fees (base, performance, acquisi
+- [0.85] ['000] p244 — This page presents the Net Debt reconciliation tables for Stoneweg European REIT Group and Stoneweg European BT Group, d
+- [0.85] ['000] p222 — This page presents Note 13 on Stapled Securityholders' Funds, detailing the year-end contributions and movements in Ston
+- [0.85] ['000] p230 — This page of the SGX REIT annual report for SERT and Stoneweg European REIT Group presents a detailed breakdown of finan
+- [0.84] ['000] p228 — This page contains a table titled "Audited Portfolio Statement" presenting the ageing of trade receivables for SERT and 
+- [0.81] ['000] p202 — This page contains the Notes to the financial statements regarding divestments of investment properties and a table titl
+- [0.81] ['000] p229 — This page presents a table of financial liabilities for Stoneweg European BT Group, detailing undiscounted contractual c
+- [0.69] ['000] p188 — no schema-relevant data
+- [0.66] ['000] p233 — This page presents the Sensitivity analysis – foreign exchange risk for Stoneweg European REIT Group, SERT, and Stoneweg
+- [0.66] ['000] p170 — This page presents the Statements of movements in stapled securityholders' funds and perpetual securities holders' funds
+- [0.57] [million] p162 — This page contains the Independent Auditor's Report detailing Key Audit Matters, specifically focusing on the Fair Valua
+- [0.57] ['000] p225 — This page presents the Financial Risk Management note detailing SERT's risk management strategy, treasury policies, and 
+- [0.52] ['000] p190 — This page presents the audited Portfolio Statement (property valuations) for Poland, Finland, and Italy with details on 
+- [0.49] ['000] p240 — This page presents the audited Portfolio Statement (asset valuations) for assets held for sale, specifically detailing S
+- [0.37 OCR] p161 — This page presents the Independent Auditor's Report confirming that the audited financial statements for Stoneweg Europe
+- [0.36 OCR] ['000] p232 — This page presents the Foreign Exchange Risk section of the SGX REIT annual report for the year ended 31 December 2025, 
+- [0.36] ['000] p253 — This page details transactions with interested persons and parties, presenting a table listing aggregate values (in €'00
+- [0.35] ['000] p168 — This page presents the audited Balance sheets for Stoneweg European REIT Group, Stoneweg European BT Group, and SERT as 
+- [0.32] ['000] p223 — This page contains the Notes to the financial statements for Stoneweg Europe Stapled REIT (SERT) for the year ended 31 D
+- [0.25] ['000] p254 — This page contains a table titled "PERCENTAGE OF TOTAL OPERATING EXPENSES TO NET ASSETS" reporting SERT's total operatin
+- [0.24] ['000] p169 — This page presents the **Distribution statement** for SERT, reporting €'000 figures for income available for distributio
+- [0.23] p246 — no schema-relevant data
+- [0.22] ['000] p193 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's segment assets as of 31 December
+- [0.20 OCR] p227 — no schema-relevant data

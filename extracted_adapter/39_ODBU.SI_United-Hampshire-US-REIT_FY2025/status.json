@@ -1,0 +1,19 @@
+{
+  "stem": "39_ODBU.SI_United-Hampshire-US-REIT_FY2025",
+  "symbol": "ODBU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Retail",
+  "template_family": "UnitedHampshire",
+  "parsed": {"markdown": "parsed_reports_datalab/39_ODBU.SI_United-Hampshire-US-REIT_FY2025/full.md", "html_pages": null, "checkpoint_id": null},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "rows": 7, "note": "Trust Structure p19 + Corporate Info p219 + Sponsors p20. US trust, USD. sponsors UOB Global Capital + Hampshire; manager UH US REIT Mgmt; trustee Perpetual (Asia); property mgr Hampshire/MCB; self-storage operator Extra Space"},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "Highlights p4-5, capital mgmt p33, FY2025 summary p30, unitholders p213. 7 KPIs all disclosed. No FFO disclosed - uses Distributable Income"},
+    "properties": {"status": "done", "method": "llm_only", "adapterable": true, "rows": 22, "cross_check": {"vs": "audited Portfolio Statement total 'at valuation' 774,250k", "match": "Sum of 22 = 774,250k EXACT", "gaps": []}, "note": "Portfolio Statement p167 (valuation/tenure) + cards p40-62 (NLA/occupancy/tenants/ownership). Per-property GR/NPI structurally absent (segment-level only). Wallkill 97%, Lawnside 99%, Parkway 90% NCI - full_consolidation_partial_ownership flagged"},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "p37 Top 10 Tenants by GRI Dec 2025; total 50.6%"},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 12, "note": "p37 Trade Sector Mix by GRI Dec 2025; sums to 100%"},
+    "financial": {"status": "done", "method": "llm_only", "rows": 1, "note": "Statement of Comprehensive Income p160 + SFP p159 + cash flow p165 + notes 18-22 p197-199. line_items recon = 20,858k net income EXACT. No FFO"}
+  },
+  "final_dir": "extracted/ODBU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-06-19"
+}

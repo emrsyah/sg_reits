@@ -1,0 +1,12 @@
+[
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 1, "client_name": "Nationale Nederlanden Nederland B.V.", "industry": null, "revenue_pct": 3.9, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 2, "client_name": "Essent Nederland B.V.", "industry": null, "revenue_pct": 2.3, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 3, "client_name": "AGENZIA DEL DEMANIO", "industry": null, "revenue_pct": 2.3, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 4, "client_name": "Kamer van Koophandel", "industry": null, "revenue_pct": 2.2, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 5, "client_name": "Holland Casino N.V.", "industry": null, "revenue_pct": 2.0, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 6, "client_name": "Thorn Lighting Limited", "industry": null, "revenue_pct": 2.0, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 7, "client_name": "Motorola Solutions Systems Polska Sp. z o.o.", "industry": null, "revenue_pct": 1.8, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 8, "client_name": "Uitvoeringsinstituut werknemersverzekeringen, Hoofdkantoor UWV", "industry": null, "revenue_pct": 1.7, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 9, "client_name": "Felss Group", "industry": null, "revenue_pct": 1.6, "pct_basis": "headline_rent", "source_page": 48},
+  {"symbol": "SET.SI", "financial_year": 2025, "rank": 10, "client_name": "Coolblue B.V.", "industry": null, "revenue_pct": 1.6, "pct_basis": "headline_rent", "source_page": 48}
+]

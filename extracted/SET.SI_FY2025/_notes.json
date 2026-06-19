@@ -1,0 +1,46 @@
+{
+  "columns_never_fillable": [
+    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed; only segment-level (country x asset-class) gross revenue / property opex / segment profit in Note 1 (Operating Segment Information, p191). Recorded segment figures in _notes.reconciliation."},
+    {"column": "property.gross_revenue", "reason": "Per-property gross revenue not disclosed; only segment-level (p191)."},
+    {"column": "property.occupancy_rate", "reason": "Disclosed only at portfolio level (92.6%) and asset-class level (Logistics 87.2%, Office 100%, Others 100%); not per property."},
+    {"column": "property.gla / nla / gfa", "reason": "Lettable/floor area not disclosed per property in the audited Statement of Portfolio. Portfolio area cited narratively (~300,000 sqm re-leased) only."},
+    {"column": "property.major_tenants", "reason": "Per-property tenant lists not disclosed; only portfolio top-10 (p48)."}
+  ],
+  "data_with_no_home": [
+    "Stapled structure: Stoneweg European REIT (constituted 28 Apr 2017, listed 30 Nov 2017) + Stoneweg European BT (constituted 21 May 2025); stapled security commenced trading 16 Jun 2025. Three-column statements (REIT Group / BT Group / SERT=Stapled Group). SERT (Stapled Group) used as canonical throughout.",
+    "Investment in financial asset (AiOnX data-centre fund) held via the Business Trust at fair value €70,536k (€50m cost + €20,536k FV uplift); change in FV €20,536k flows into SERT total return. Equity/fair-value accounted, NOT a row in the consolidated Portfolio Statement. SERT ~6.6% stake; Dublin site held 39.8%.",
+    "Portfolio by country (p44): NL 28%, France 22%, Italy 17%, Germany 10%, Poland 7%, Denmark 7%, Czech 4%, Slovakia 3%, UK 2%, Finland 2%. By asset class: Logistics/light industrial 54.1%, Data centre 5.2%, Office 38.7%, Others 2.0%.",
+    "Weighted average all-in interest rate 3.86% p.a. at year end (3.90% average for FY2025). Weighted avg debt maturity 5.6 years; no debt maturities until 2030. Debt 94% fixed/hedged.",
+    "WALE 4.9 years (top-10 tenant WALE 7.1 yrs; WALB 4.0 yrs). 780 tenant-customers, ~1,000 leases, no single tenant >4% of rent; top-10 = 21.4% of headline rent.",
+    "Property & portfolio management fee €15,718k (0.67% of deposited property), shown WITHIN property operating expense in the Statement of Total Return (not a separate trust-expense line).",
+    "Perpetual securities holders' funds €64,204k (SGD-denominated perpetuals); distribution €2,325k.",
+    "Market capitalisation €907.7m; gross borrowings €1,003.0m; total facilities €1,217.4m (utilised €1,003.0m)."
+  ],
+  "parsing_traps": [
+    "Statement of Portfolio (p174-185) is a FACING-PAGE POSITIONAL SPLIT: property name/location/acquisition-date on left pages (174,176,178,180,182,184) and land-tenure/remaining-term/carrying-amount on right pages (175,177,179,181,183,185), with NO label column on the value table — rows aligned by position. Adapter cannot positional-join, so properties were built with a positional-zip script, VERIFIED by reconciling each country x asset-class subtotal to the segment note (p188-190) exactly and the grand total to €2,152,528k.",
+    "REIT column and SERT (Stapled Group) column are identical for the Portfolio Statement and Statement of Total Return because all investment properties sit in the REIT Group; the BT Group holds only the AiOnX financial asset. SERT column used as canonical.",
+    "DPS for FY2025 = 13.390 Euro cents (declared); distributions PAID during the year = 13.609 cents (2H2024 7.056 + 1H2025 6.553). Distribution statement on SERT basis only.",
+    "Italy 'Others' includes Starhotels Grand Milan (480-room hotel) and a leisure/cinema complex - classified by the trust under 'Others', mapped to category Specialized."
+  ],
+  "reconciliation": {
+    "sum_property_valuation_active": 2152528000,
+    "audited_portfolio_at_fair_value": 2152528000,
+    "other_adjustments": 5370000,
+    "investment_properties_balance_sheet": 2157898000,
+    "reported_total_gross_revenue": 214617000,
+    "income_stmt_total_revenue": 214617000,
+    "reported_total_npi": 134361000,
+    "income_stmt_gross_income": 134361000,
+    "line_items_recon": "Sum(revenue) - Sum(expense) + Sum(adjustment signed) = 214,617 - 139,697 + 4,114 = 79,034 = net_income (total return) [EUR '000]",
+    "segment_npi_by_class": {"Logistics_Light_Industrial": 71181000, "Office": 58965000, "Others": 4215000, "total": 134361000},
+    "segment_gross_revenue_by_country_class_page": 191,
+    "property_count": "104 rows in Statement of Portfolio (95 active = 96 marketing portfolio less Via della Fortezza divested Mar 2025; 8 divested-in-year incl 5 Slovakia + Maxima + Cassiopea + Arkonska; 1 held-for-sale = Purotie 1 at EUR 2,495k)"
+  },
+  "inferred": [
+    {"table": "properties", "field": "ownership", "scope": "all rows", "value": 100.0, "basis": "All investment properties held 100% by Stoneweg European REIT Group (structure chart p18: 100% chain through SG/Lux SPVs). Not stated per property but structurally 100%.", "source_page": 18},
+    {"table": "properties", "field": "category", "scope": "Italy 'Others' rows", "value": "Specialized", "basis": "Trust 'Others' segment (hotel + leisure/cinema + govt-leased asset) mapped to canonical Specialized.", "source_page": 190},
+    {"table": "trade_mix", "field": "category", "scope": "'Others' and 'Administrative' raw labels", "value": "Other Office Trades", "basis": "Catch-all raw labels with no clean canonical fit mapped to Other Office Trades.", "source_page": 48},
+    {"table": "properties", "field": "lease_expiry_date", "scope": "single-value leasehold rows (Folkstoneweg, Central Plaza, De Ruyterkade 5, Parc Louvresses)", "value": "computed", "basis": "Derived as 2025-12-31 + disclosed remaining-term-years; the Statement of Portfolio discloses remaining term in years, not an expiry date. Veemarkt left null (range 13.0-17.0, no single value). Central Plaza set to 2088-07-31 per footnote (1).", "source_page": 175},
+    {"table": "financial", "field": "income_stmt_metrics._derived", "scope": "operating_income/ebit/ebitda/non_operating_income_or_loss/interest_expense_non_operating", "value": "computed", "basis": "Derived per reit-extract REFERENCE §2 standardization formulas from the audited Statement of Total Return (not literal REIT lines).", "source_page": 166}
+  ]
+}

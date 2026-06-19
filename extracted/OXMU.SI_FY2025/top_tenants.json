@@ -1,0 +1,12 @@
+[
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 1, "client_name": "Charter Communications", "industry": "IT & Telecommunications", "revenue_pct": 10.5, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 2, "client_name": "Dexcom", "industry": "Healthcare & Wellness", "revenue_pct": 6.1, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 3, "client_name": "Holland & Hart", "industry": "Financial & Professional Services", "revenue_pct": 4.1, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 4, "client_name": "Wells Fargo", "industry": "Financial & Professional Services", "revenue_pct": 4.1, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 5, "client_name": "Matheson Tri-Gas", "industry": "Energy, Mining & Resources", "revenue_pct": 4.1, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 6, "client_name": "Arnall Golden Gregory", "industry": "Financial & Professional Services", "revenue_pct": 3.9, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 7, "client_name": "Goldman Sachs", "industry": "Financial & Professional Services", "revenue_pct": 3.0, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 8, "client_name": "Fairfield Residential", "industry": "Infrastructure, Real Estate & Property Services", "revenue_pct": 2.6, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 9, "client_name": "Teleflex", "industry": "Healthcare & Wellness", "revenue_pct": 2.1, "pct_basis": "cash_rental_income", "source_page": 21},
+  {"symbol": "OXMU.SI", "financial_year": 2025, "rank": 10, "client_name": "State of California", "industry": "Government Related", "revenue_pct": 1.9, "pct_basis": "cash_rental_income", "source_page": 21}
+]

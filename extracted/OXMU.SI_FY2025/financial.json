@@ -1,0 +1,75 @@
+{
+  "symbol": "OXMU.SI",
+  "financial_year": 2025,
+  "currency": "USD",
+  "source_page": 135,
+  "income_stmt_metrics": {
+    "total_revenue": 133304000,
+    "cost_of_revenue": 64052000,
+    "gross_income": 69252000,
+    "operating_income": 62157000,
+    "operating_expense": 7095000,
+    "ebit": 61744000,
+    "ebitda": 61744000,
+    "pretax_income": 20535000,
+    "income_taxes": 204000,
+    "net_income": 20331000,
+    "non_operating_income_or_loss": -41622000,
+    "interest_expense_non_operating": 41209000,
+    "diluted_shares_outstanding": 1339055000,
+    "net_property_sales": 0,
+    "funds_from_operation": null,
+    "unitholders": 20331000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
+    "revenue_breakdown": [
+      {"category": "Rental income", "amount": 104146000, "class": "Product/Service Sales"},
+      {"category": "Recoveries income", "amount": 20148000, "class": "Product/Service Sales"},
+      {"category": "Other operating income", "amount": 9010000, "class": "Other income"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "Manager's base fee", "amount": 3329000, "class": "General & Admin"},
+      {"category": "Manager's performance fee", "amount": 1239000, "class": "General & Admin"},
+      {"category": "Trustee's fee", "amount": 182000, "class": "General & Admin"},
+      {"category": "Other trust expenses", "amount": 2345000, "class": "Other expenses"}
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 1439735000,
+    "total_equity": 754883000,
+    "total_liabilities": 684852000,
+    "working_capital": -68136000,
+    "total_current_asset": 40135000,
+    "total_non_current_asset": 1399600000,
+    "total_current_liabilities": 108271000,
+    "total_non_current_liabilities": 576581000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 63478000,
+    "investing_cash_flow": -37353000,
+    "financing_cash_flow": -22602000,
+    "net_cash_flow": 3523000,
+    "free_cash_flow": 25996000,
+    "capital_expenditure": 37482000
+  },
+  "employee_breakdown": {
+    "total_employee": null,
+    "permanent_employee": null,
+    "contract_employee": null,
+    "others_employee": null
+  },
+  "line_items": [
+    {"statement": "revenue", "component": "gross_revenue", "amount": 133304000, "label_raw": "Gross revenue", "source_page": 135},
+    {"statement": "expense", "component": "property_operating_expenses", "amount": 64052000, "label_raw": "Property operating expenses", "source_page": 135},
+    {"statement": "expense", "component": "management_fee_base", "amount": 3329000, "label_raw": "Manager's base fee", "source_page": 135},
+    {"statement": "expense", "component": "management_fee_performance", "amount": 1239000, "label_raw": "Manager's performance fee", "source_page": 135},
+    {"statement": "expense", "component": "trustee_fee", "amount": 182000, "label_raw": "Trustee's fee", "source_page": 135},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 2345000, "label_raw": "Other trust expenses", "source_page": 135},
+    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -7855000, "label_raw": "Net fair value change in derivatives", "source_page": 135},
+    {"statement": "expense", "component": "finance_costs", "amount": 41338000, "label_raw": "Finance expenses", "source_page": 135},
+    {"statement": "adjustment", "component": "finance_income", "amount": 129000, "label_raw": "Finance income", "source_page": 135},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 7442000, "label_raw": "Net fair value change in investment properties", "source_page": 135},
+    {"statement": "adjustment", "component": "income_tax", "amount": -204000, "label_raw": "Tax expense", "source_page": 135}
+  ]
+}

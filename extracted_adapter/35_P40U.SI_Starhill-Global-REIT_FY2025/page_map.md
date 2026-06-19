@@ -1,0 +1,201 @@
+# Page map — 35_P40U.SI_Starhill-Global-REIT_FY2025
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p125 — This page details the fee structure payable to the Manager of Starhill Global REIT, outlining a Base Fee of 0.5% per annum on the Value of Trust Prope
+    - p173 ['000] — This page presents the Gross Revenue and Property Operating Expenses for the SGX REIT, reporting figures in $'000 with 2025 at $192,097 (total revenue
+    - p189 ['000] — This page details SGX REIT's (SGD'000) commitments and contingencies, including a \$3.9 million capital commitment and significant related party trans
+    - p192 — This page presents the Statistics of Unitholders for SGX Global REIT, featuring a table detailing substantial unholdings and deemed interests as of 26
+- **also mentions:**
+    - p31 — This page presents the Top 10 Tenants table showing SGREIT's major tenants as of 30 June 2025, with Toshin Development Singapore Pte. Ltd. contributin
+    - p131 — This page lists the contents of the Financial Statements section, including the Balance Sheets, Statement of Total Return, Distribution Statement, and
+    - p193 ['000] — The page presents the **Interested Person Transactions** table for Starhill Global REIT, reporting aggregate values in S$'000. It details various tran
+
+## performance
+- **MAIN (lead):**
+    - p5 [million] — This page presents SG$ million financial highlights for the SGX REIT reporting unit, featuring a main table of key metrics including S$192.1 Million g
+    - p10 ['000] — This page presents the SGX'000 reporting unit's financial highlights including a Gearing Ratio of 36.0%, Interest Coverage Ratio of 2.9x, and Weighted
+    - p16 [million] — This page presents SGREIT's five-year financial highlights for FY 2024/25, featuring tables on gross revenue ($S\$ million), net property income ($S\$
+    - p17 [million] — This page presents the Statement of Total Return and Distribution for the Year alongside a Balance Sheet as at 30 June 2025, reporting key financial h
+    - p18 ['000] — This page presents Starhill Global REIT's trading performance and total return data for the period from 1 July 2024 to 30 June 2025, featuring a table
+    - p19 ['000] — This page of the Starhill Global REIT annual report for FY 2024/25 (SGD'000) serves as a Letter to Unitholders, presenting DPU financial highlights wi
+    - p31 — This page presents the Top 10 Tenants table showing SGREIT's major tenants as of 30 June 2025, with Toshin Development Singapore Pte. Ltd. contributin
+    - p39 ['000] — This page presents SGX'000-level lease expiry profiles and occupancy rates (100% for Retail/Office as at 30 June 2025) alongside trade mix data, inclu
+    - p41 [million] — This page presents operational performance metrics for Wisma Atria, led by a table of monthly Shopper Traffic (million) from July to June across FY 24
+    - p45 — This page presents the Lease Expiry Profile by GRI, Retail Trade Mix (with Myer as the anchor tenant at 64.5%), Top 5 Tenants based on GRI, and Total 
+    - p63 ['000] — This page presents the **Statement of Total Return** for SGX REIT, reporting FY 2024/25 and FY 2023/24 financial highlights in S$'000. Key metrics inc
+    - p65 ['000] — This page presents financial highlights for the SGX REIT reporting unit in SGD'000, detailing a Total DPU of 3.65 cents and an income to be distribute
+    - p66 [million] — This page presents financial highlights including a trade mix table of gross revenue and net property income by property for FY 24/25 and FY 23/24, as
+    - p82 — This page presents SGX REIT's ESG Targets and Performance table, detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-
+    - p125 — This page details the fee structure payable to the Manager of Starhill Global REIT, outlining a Base Fee of 0.5% per annum on the Value of Trust Prope
+    - p131 — This page lists the contents of the Financial Statements section, including the Balance Sheets, Statement of Total Return, Distribution Statement, and
+    - p138 ['000] — This page presents the **Statement of Total Return** for the SGX REIT group, reporting financial highlights in SGD'000 for the year ended 30 June 2025
+    - p139 ['000] — This page presents the Distribution Statement for the year ended 30 June 2025, reporting Group income available for distribution of SGD'000 and distri
+    - p140 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group and Trust, reporting financial highlights such as unitholders' fund
+    - p142 ['000] — This page presents the Consolidated Cash Flow Statement for the year ended 30 June 2025, reporting cash flows from operating activities ($125,626), in
+    - p169 ['000] — This page presents the **maturities analysis** of the Group and Trust's financial liabilities, detailing undiscounted contractual cash flows for non-d
+    - p189 ['000] — This page details SGX REIT's (SGD'000) commitments and contingencies, including a \$3.9 million capital commitment and significant related party trans
+    - p191 — This page presents the **Statistics of Unitholders** for SGX REIT, detailing the total issued and fully paid units (2,298,847,903), market capitalisat
+    - p192 — This page presents the Statistics of Unitholders for SGX Global REIT, featuring a table detailing substantial unholdings and deemed interests as of 26
+    - p195 — This page contains a glossary defining SGX REIT-related terms, property assets (Perth Properties, Singapore Properties including Ngee Ann City and Wis
+- **also mentions:**
+    - p6 [million] — This page presents key corporate events for FY 2024/25, including reported distributions (DPU) of 1.85 cents for 2H FY 2023/24 and 3.63 cents for the 
+    - p11 — This page presents a Quality Tenant Profile with key portfolio metrics including 94.6% occupancy, a long weighted average lease expiry of 7.6 years (7
+    - p62 [million] — This page presents an Independent Market Overview of the Klang Valley retail sector, featuring Chart 11 on annual supply and vacancy trends from 2020 
+    - p68 [million] — This page presents the Capital Management section featuring a Debt Gearing and Other Highlights table reporting total debt of S$1,024m (S$ million) as
+    - p137 ['000] — This page presents the Group and Trust Balance Sheets as at 30 June 2025, reporting all figures in SGD'000 with total assets of SGD 2,846,186 for the 
+    - p150 — This page details accounting policies for offsetting, cash equivalents, and derivative financial instruments within the SGX REIT's notes to the financ
+    - p171 [million] — This page presents the Audited Portfolio Statement for Unitholders' Funds and Perpetual Securities Holders' Funds, reporting net assets attributable t
+    - p181 ['000] — This page contains a sensitivity analysis table showing the impact of a 10% strengthening or weakening of the Singapore dollar against Australian doll
+    - p182 ['000] — This page details the Group's interest rate risk management strategy and hedge accounting for cash flow hedges, presenting a table of hedging instrume
+    - p183 ['000] — This page presents a sensitivity analysis table showing the impact of a 1% change in interest rates on Unitholders' funds and Total Return for the Gro
+
+## properties
+- **MAIN (lead):**
+    - p2 — This page of the Starhill Global REIT annual report serves as an overview introducing the entity's strategy, mission, values, portfolio composition ac
+    - p6 [million] — This page presents key corporate events for FY 2024/25, including reported distributions (DPU) of 1.85 cents for 2H FY 2023/24 and 3.63 cents for the 
+    - p28 [million] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 June 2025, detailing nine properties with their locatio
+    - p31 — This page presents the Top 10 Tenants table showing SGREIT's major tenants as of 30 June 2025, with Toshin Development Singapore Pte. Ltd. contributin
+    - p34 [million] — This page presents a **Statement of Portfolio (property valuations)** titled "Property Portfolio Summary," detailing the valuation of six property cat
+    - p40 — This page presents a narrative description of the Wisma Atria Property, including its physical attributes, tenant mix details (noting Burberry and The
+    - p51 [million] — This page presents the Lot 10 Property details with a market valuation of S$139.1 million (as at 30 June 2025) and a total net lettable area of 254,16
+    - p62 [million] — This page presents an Independent Market Overview of the Klang Valley retail sector, featuring Chart 11 on annual supply and vacancy trends from 2020 
+    - p82 — This page presents SGX REIT's ESG Targets and Performance table, detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-
+    - p83 — This page presents the "Sustainability Matters" table detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-long-term (
+    - p104 — This page presents the GRI Content Index, detailing ESG disclosure requirements and their corresponding page locations across categories such as Occup
+    - p117 ['000] — This page presents the audited Portfolio Statement of Directors' fees for FY 2024/25 in SGD'000 and includes a table detailing the CEO's remuneration 
+    - p125 — This page details the fee structure payable to the Manager of Starhill Global REIT, outlining a Base Fee of 0.5% per annum on the Value of Trust Prope
+    - p127 — This page contains the table detailing the additional information on the endorsement of appointments for three Directors of Starhill Global REIT, incl
+    - p131 — This page lists the contents of the Financial Statements section, including the Balance Sheets, Statement of Total Return, Distribution Statement, and
+    - p134 ['000] — This page contains the Independent Auditors' Report on the financial statements of Starhill Global Real Estate Investment Trust as at 30 June 2025, ex
+    - p141 ['000] — This page presents the **Investment Properties Portfolio Statement** as at 30 June 2025, listing ten properties with their tenure, lease terms, locati
+    - p148 — This page contains policy notes on foreign currency translation, hedge accounting for net investments in foreign operations, and fair value measuremen
+    - p157 ['000] — This page presents the **Statement of Portfolio (property valuations)** for the SGX REIT Group and Trust, reporting investment property balances at fa
+    - p158 ['000] — This page presents a Level 3 fair value hierarchy note detailing investment property valuations using unobservable inputs like capitalisation rates an
+    - p159 ['000] — This page presents the Audited Portfolio Statement (Trust) showing Equity investments at cost of $626,841 and Loans to subsidiaries of $132,695 for 20
+    - p163 ['000] — This page presents two financial tables: the audited Portfolio Statement for Cash and Cash Equivalents (Group $'000) showing balances of 84,458 ($'000
+    - p171 [million] — This page presents the Audited Portfolio Statement for Unitholders' Funds and Perpetual Securities Holders' Funds, reporting net assets attributable t
+    - p175 ['000] — This page presents the Earnings Per Unit table for 2025 and 2024 in SGD'000 alongside detailed notes on unit calculations, followed by a textual descr
+    - p177 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing gross revenue and property expenses by geographic reg
+    - p183 ['000] — This page presents a sensitivity analysis table showing the impact of a 1% change in interest rates on Unitholders' funds and Total Return for the Gro
+    - p189 ['000] — This page details SGX REIT's (SGD'000) commitments and contingencies, including a \$3.9 million capital commitment and significant related party trans
+    - p195 — This page contains a glossary defining SGX REIT-related terms, property assets (Perth Properties, Singapore Properties including Ngee Ann City and Wis
+- **also mentions:**
+    - p5 [million] — This page presents SG$ million financial highlights for the SGX REIT reporting unit, featuring a main table of key metrics including S$192.1 Million g
+    - p11 — This page presents a Quality Tenant Profile with key portfolio metrics including 94.6% occupancy, a long weighted average lease expiry of 7.6 years (7
+    - p16 [million] — This page presents SGREIT's five-year financial highlights for FY 2024/25, featuring tables on gross revenue ($S\$ million), net property income ($S\$
+    - p17 [million] — This page presents the Statement of Total Return and Distribution for the Year alongside a Balance Sheet as at 30 June 2025, reporting key financial h
+    - p29 [million] — This page presents a Valuation and Revenue table for the SGX REIT's portfolio as of 30 June 2025, reporting asset values in S$ million alongside occup
+    - p30 — This page presents SGX REIT's property portfolio summary, featuring tables detailing Gross Revenue by Country and Segment for FY 2024/25 (reported in 
+    - p32 ['000] — This page features the main artifact, a "Property Portfolio Summary" displaying weighted average lease term expiry data via bar charts and tables for 
+    - p35 ['000] — This page presents a Property Portfolio Summary featuring an image and text detailing the tenure profile and asset valuation of Starhill Global REIT a
+    - p38 [million] — This page presents a property profile for Ngee Ann City, including its market valuation of SGD 1,160.0 Million (as at 30 June 2025), leasehold tenure 
+    - p39 ['000] — This page presents SGX'000-level lease expiry profiles and occupancy rates (100% for Retail/Office as at 30 June 2025) alongside trade mix data, inclu
+    - p41 [million] — This page presents operational performance metrics for Wisma Atria, led by a table of monthly Shopper Traffic (million) from July to June across FY 24
+    - p45 — This page presents the Lease Expiry Profile by GRI, Retail Trade Mix (with Myer as the anchor tenant at 64.5%), Top 5 Tenants based on GRI, and Total 
+    - p46 [million] — This page details the David Jones Building asset, including its freehold tenure, S$104.7 million market valuation, and 99.3% committed occupancy as at
+    - p50 [million] — This page details the Starhill property, an integrated development with 162 luxury rooms and a total net lettable area of 333,289 sq ft as at 30 June 
+    - p52 [million] — This page presents a property profile for SGREIT's Japan and China portfolio, specifically detailing the Ebisu Fort commercial building in Tokyo and t
+    - p64 [million] — This page presents the Financial Performance review for SGX REIT, detailing Group revenue of S$192.1 million and Net Property Income (NPI) of S$150.2 
+    - p120 ['000] — This page details the Corporate Governance responsibilities of the Audit Committee (AC) regarding auditor nomination, internal audit oversight by Delo
+    - p137 ['000] — This page presents the Group and Trust Balance Sheets as at 30 June 2025, reporting all figures in SGD'000 with total assets of SGD 2,846,186 for the 
+    - p139 ['000] — This page presents the Distribution Statement for the year ended 30 June 2025, reporting Group income available for distribution of SGD'000 and distri
+    - p164 ['000] — This page presents the Group's and Trust's Deferred Tax Liabilities and Borrowings tables, reporting values in $'000. The main artifact details invest
+    - p180 ['000] — This page presents a table detailing the Group's and Trust's foreign currency exposures in SGD'000 for 2025 and 2024, covering cash equivalents, recei
+
+## top_tenants
+- **MAIN (lead):**
+    - p29 [million] — This page presents a Valuation and Revenue table for the SGX REIT's portfolio as of 30 June 2025, reporting asset values in S$ million alongside occup
+    - p31 — This page presents the Top 10 Tenants table showing SGREIT's major tenants as of 30 June 2025, with Toshin Development Singapore Pte. Ltd. contributin
+    - p39 ['000] — This page presents SGX'000-level lease expiry profiles and occupancy rates (100% for Retail/Office as at 30 June 2025) alongside trade mix data, inclu
+    - p45 — This page presents the Lease Expiry Profile by GRI, Retail Trade Mix (with Myer as the anchor tenant at 64.5%), Top 5 Tenants based on GRI, and Total 
+    - p46 [million] — This page details the David Jones Building asset, including its freehold tenure, S$104.7 million market valuation, and 99.3% committed occupancy as at
+    - p47 [million] — This page details the asset-level profile of Plaza Arcade, an Australia Properties retail building with a market valuation of S$35.7 million and 19 te
+    - p175 ['000] — This page presents the Earnings Per Unit table for 2025 and 2024 in SGD'000 alongside detailed notes on unit calculations, followed by a textual descr
+    - p179 ['000] — This page presents the Group's and Trust's maximum exposure to credit risk by financial asset type (derivative instruments, trade receivables, cash) i
+    - p189 ['000] — This page details SGX REIT's (SGD'000) commitments and contingencies, including a \$3.9 million capital commitment and significant related party trans
+- **also mentions:**
+    - p2 — This page of the Starhill Global REIT annual report serves as an overview introducing the entity's strategy, mission, values, portfolio composition ac
+    - p6 [million] — This page presents key corporate events for FY 2024/25, including reported distributions (DPU) of 1.85 cents for 2H FY 2023/24 and 3.63 cents for the 
+    - p11 — This page presents a Quality Tenant Profile with key portfolio metrics including 94.6% occupancy, a long weighted average lease expiry of 7.6 years (7
+    - p14 [million] — This page details Starhill Global REIT's geographical portfolio across six Asia-Pacific cities with nine properties, featuring a table by asset value 
+    - p28 [million] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 June 2025, detailing nine properties with their locatio
+    - p30 — This page presents SGX REIT's property portfolio summary, featuring tables detailing Gross Revenue by Country and Segment for FY 2024/25 (reported in 
+    - p38 [million] — This page presents a property profile for Ngee Ann City, including its market valuation of SGD 1,160.0 Million (as at 30 June 2025), leasehold tenure 
+    - p40 — This page presents a narrative description of the Wisma Atria Property, including its physical attributes, tenant mix details (noting Burberry and The
+    - p41 [million] — This page presents operational performance metrics for Wisma Atria, led by a table of monthly Shopper Traffic (million) from July to June across FY 24
+    - p51 [million] — This page presents the Lot 10 Property details with a market valuation of S$139.1 million (as at 30 June 2025) and a total net lettable area of 254,16
+    - p62 [million] — This page presents an Independent Market Overview of the Klang Valley retail sector, featuring Chart 11 on annual supply and vacancy trends from 2020 
+    - p82 — This page presents SGX REIT's ESG Targets and Performance table, detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-
+    - p83 — This page presents the "Sustainability Matters" table detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-long-term (
+    - p103 — This page details SGREIT's GRI reporting on material topics including anti-corruption, energy, water, emissions, and employment, with specific disclos
+    - p104 — This page presents the GRI Content Index, detailing ESG disclosure requirements and their corresponding page locations across categories such as Occup
+    - p105 — This page presents a SASB Index table reporting Real Estate sustainability metrics for SGX REIT's five properties, classified under the Shopping Centr
+    - p125 — This page details the fee structure payable to the Manager of Starhill Global REIT, outlining a Base Fee of 0.5% per annum on the Value of Trust Prope
+    - p195 — This page contains a glossary defining SGX REIT-related terms, property assets (Perth Properties, Singapore Properties including Ngee Ann City and Wis
+
+## trade_mix
+- **MAIN (lead):**
+    - p2 — This page of the Starhill Global REIT annual report serves as an overview introducing the entity's strategy, mission, values, portfolio composition ac
+    - p6 [million] — This page presents key corporate events for FY 2024/25, including reported distributions (DPU) of 1.85 cents for 2H FY 2023/24 and 3.63 cents for the 
+    - p28 [million] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 30 June 2025, detailing nine properties with their locatio
+    - p29 [million] — This page presents a Valuation and Revenue table for the SGX REIT's portfolio as of 30 June 2025, reporting asset values in S$ million alongside occup
+    - p31 — This page presents the Top 10 Tenants table showing SGREIT's major tenants as of 30 June 2025, with Toshin Development Singapore Pte. Ltd. contributin
+    - p38 [million] — This page presents a property profile for Ngee Ann City, including its market valuation of SGD 1,160.0 Million (as at 30 June 2025), leasehold tenure 
+    - p39 ['000] — This page presents SGX'000-level lease expiry profiles and occupancy rates (100% for Retail/Office as at 30 June 2025) alongside trade mix data, inclu
+    - p40 — This page presents a narrative description of the Wisma Atria Property, including its physical attributes, tenant mix details (noting Burberry and The
+    - p41 [million] — This page presents operational performance metrics for Wisma Atria, led by a table of monthly Shopper Traffic (million) from July to June across FY 24
+    - p45 — This page presents the Lease Expiry Profile by GRI, Retail Trade Mix (with Myer as the anchor tenant at 64.5%), Top 5 Tenants based on GRI, and Total 
+    - p46 [million] — This page details the David Jones Building asset, including its freehold tenure, S$104.7 million market valuation, and 99.3% committed occupancy as at
+    - p47 [million] — This page details the asset-level profile of Plaza Arcade, an Australia Properties retail building with a market valuation of S$35.7 million and 19 te
+    - p51 [million] — This page presents the Lot 10 Property details with a market valuation of S$139.1 million (as at 30 June 2025) and a total net lettable area of 254,16
+    - p66 [million] — This page presents financial highlights including a trade mix table of gross revenue and net property income by property for FY 24/25 and FY 23/24, as
+    - p83 — This page presents the "Sustainability Matters" table detailing FY 2024/25 targets and status alongside short-term (by 2030) and medium-to-long-term (
+    - p125 — This page details the fee structure payable to the Manager of Starhill Global REIT, outlining a Base Fee of 0.5% per annum on the Value of Trust Prope
+- **also mentions:**
+    - p11 — This page presents a Quality Tenant Profile with key portfolio metrics including 94.6% occupancy, a long weighted average lease expiry of 7.6 years (7
+    - p30 — This page presents SGX REIT's property portfolio summary, featuring tables detailing Gross Revenue by Country and Segment for FY 2024/25 (reported in 
+    - p35 ['000] — This page presents a Property Portfolio Summary featuring an image and text detailing the tenure profile and asset valuation of Starhill Global REIT a
+    - p161 ['000] — This page presents the Group's and Trust's Trade and Other Receivables statement for 30 June 2025, reporting current assets of $4,774 million ($3,887 
+    - p162 ['000] — This page presents a table of the ageing of trade receivables and a table detailing the movement in the allowance for impairment losses for both the G
+    - p163 ['000] — This page presents two financial tables: the audited Portfolio Statement for Cash and Cash Equivalents (Group $'000) showing balances of 84,458 ($'000
+    - p168 ['000] — This page presents a table detailing the contractual maturities of financial liabilities and derivative instruments for SGX REIT, categorized by carry
+    - p175 ['000] — This page presents the Earnings Per Unit table for 2025 and 2024 in SGD'000 alongside detailed notes on unit calculations, followed by a textual descr
+    - p179 ['000] — This page presents the Group's and Trust's maximum exposure to credit risk by financial asset type (derivative instruments, trade receivables, cash) i
+    - p186 ['000] — This page contains a table detailing the carrying amounts and fair values of financial assets and liabilities measured at fair value for the Group as 
+    - p188 ['000] — This page presents the Notes to the Financial Statements detailing the carrying amounts and fair values of financial assets and liabilities for the Tr
+
+## financial
+- **MAIN (lead):**
+    - p6 [million] — This page presents key corporate events for FY 2024/25, including reported distributions (DPU) of 1.85 cents for 2H FY 2023/24 and 3.63 cents for the 
+    - p17 [million] — This page presents the Statement of Total Return and Distribution for the Year alongside a Balance Sheet as at 30 June 2025, reporting key financial h
+    - p63 ['000] — This page presents the **Statement of Total Return** for SGX REIT, reporting FY 2024/25 and FY 2023/24 financial highlights in S$'000. Key metrics inc
+    - p131 — This page lists the contents of the Financial Statements section, including the Balance Sheets, Statement of Total Return, Distribution Statement, and
+    - p134 ['000] — This page contains the Independent Auditors' Report on the financial statements of Starhill Global Real Estate Investment Trust as at 30 June 2025, ex
+    - p138 ['000] — This page presents the **Statement of Total Return** for the SGX REIT group, reporting financial highlights in SGD'000 for the year ended 30 June 2025
+    - p139 ['000] — This page presents the Distribution Statement for the year ended 30 June 2025, reporting Group income available for distribution of SGD'000 and distri
+    - p150 — This page details accounting policies for offsetting, cash equivalents, and derivative financial instruments within the SGX REIT's notes to the financ
+    - p170 ['000] — This page details lease arrangements under FRS 116, presenting amounts recognised in the statement of total return for 2025 and 2024 (in $'000) includ
+    - p187 ['000] — This page presents the **Statement of Financial Position** (Balance Sheet) for SGX REIT, detailing carrying amounts and fair value hierarchies (Level 
+- **also mentions:**
+    - p5 [million] — This page presents SG$ million financial highlights for the SGX REIT reporting unit, featuring a main table of key metrics including S$192.1 Million g
+    - p14 [million] — This page details Starhill Global REIT's geographical portfolio across six Asia-Pacific cities with nine properties, featuring a table by asset value 
+    - p15 [million] — This page presents a top-N assets table for the SGX REIT's Malaysia, Japan, and China portfolio segments as of 30 June 2025, listing key properties li
+    - p16 [million] — This page presents SGREIT's five-year financial highlights for FY 2024/25, featuring tables on gross revenue ($S\$ million), net property income ($S\$
+    - p19 ['000] — This page of the Starhill Global REIT annual report for FY 2024/25 (SGD'000) serves as a Letter to Unitholders, presenting DPU financial highlights wi
+    - p30 — This page presents SGX REIT's property portfolio summary, featuring tables detailing Gross Revenue by Country and Segment for FY 2024/25 (reported in 
+    - p38 [million] — This page presents a property profile for Ngee Ann City, including its market valuation of SGD 1,160.0 Million (as at 30 June 2025), leasehold tenure 
+    - p45 — This page presents the Lease Expiry Profile by GRI, Retail Trade Mix (with Myer as the anchor tenant at 64.5%), Top 5 Tenants based on GRI, and Total 
+    - p47 [million] — This page details the asset-level profile of Plaza Arcade, an Australia Properties retail building with a market valuation of S$35.7 million and 19 te
+    - p64 [million] — This page presents the Financial Performance review for SGX REIT, detailing Group revenue of S$192.1 million and Net Property Income (NPI) of S$150.2 
+    - p66 [million] — This page presents financial highlights including a trade mix table of gross revenue and net property income by property for FY 24/25 and FY 23/24, as
+    - p140 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group and Trust, reporting financial highlights such as unitholders' fund
+    - p172 ['000] — This page contains the **Units in Issue** table for SGX'000, detailing the number of units outstanding at 1 July and 30 June 2025, including issuances
+    - p173 ['000] — This page presents the Gross Revenue and Property Operating Expenses for the SGX REIT, reporting figures in $'000 with 2025 at $192,097 (total revenue
+    - p174 ['000] — This page presents the audited financial notes for SGX REIT, specifically detailing Trust Expenses ($5,891 and $3,955 in 2025 and 2024 respectively), 
+    - p175 ['000] — This page presents the Earnings Per Unit table for 2025 and 2024 in SGD'000 alongside detailed notes on unit calculations, followed by a textual descr
+    - p176 ['000] — This page presents the Notes to the Financial Statements for Ngee Ann City Property (Singapore) and Wisma Atria Property (Singapore), reporting Group 
+    - p177 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing gross revenue and property expenses by geographic reg

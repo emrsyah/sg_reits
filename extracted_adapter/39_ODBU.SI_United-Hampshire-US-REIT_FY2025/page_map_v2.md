@@ -1,0 +1,217 @@
+# Page map v2 (classify) — 39_ODBU.SI_United-Hampshire-US-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p19  · audited('000): p132
+- [1.00] p19 — no schema-relevant data
+- [1.00] [million] p20 — no schema-relevant data
+- [1.00] p26 — no schema-relevant data
+- [1.00] p219 — no schema-relevant data
+- [1.00] p27 — no schema-relevant data
+- [1.00] p28 — no schema-relevant data
+- [1.00] [million] p3 — This page presents the Corporate Profile of United Hampshire US REIT (UHREIT), detailing its portfolio composition as of
+- [1.00] [million] p64 — no schema-relevant data
+- [1.00] p153 — no schema-relevant data
+- [0.99] p115 — no schema-relevant data
+- [0.99] p125 — no schema-relevant data
+- [0.99] p121 — no schema-relevant data
+- [0.98] p116 — no schema-relevant data
+- [0.98] p157 — no schema-relevant data
+- [0.97] p130 — no schema-relevant data
+- [0.97] p126 — no schema-relevant data
+- [0.97] p14 — no schema-relevant data
+- [0.96] p23 — no schema-relevant data
+- [0.96] p22 — no schema-relevant data
+- [0.96] ['000] p132 — no schema-relevant data
+- [0.95] p118 — no schema-relevant data
+- [0.95] p123 — no schema-relevant data
+- [0.95] p128 — no schema-relevant data
+- [0.93] ['000] p134 — This page presents the KEY MANAGEMENT PERSONNEL table detailing CEO Mr Gerard Yuen's FY2025 remuneration breakdown in S$
+- [0.92] ['000] p141 — no schema-relevant data
+- [0.91] p146 — no schema-relevant data
+- [0.90] p24 — no schema-relevant data
+- [0.90] p154 — no schema-relevant data
+- [0.88] ['000] p133 — no schema-relevant data
+- [0.88] p143 — no schema-relevant data
+- [0.88] ['000] p144 — no schema-relevant data
+- [0.87] p127 — no schema-relevant data
+- [0.83] p120 — no schema-relevant data
+- [0.83] p122 — no schema-relevant data
+- [0.83] p148 — no schema-relevant data
+- [0.83] p117 — no schema-relevant data
+- [0.82] ['000] p213 — This page presents the Interested Person Transactions table for SGX REIT UHREIT, detailing aggregate values in US$'000 f
+- [0.82] p135 — no schema-relevant data
+- [0.82] p136 — no schema-relevant data
+- [0.80] p25 — no schema-relevant data
+- [0.80 OCR] ['000] p142 — no schema-relevant data
+- [0.79] p150 — no schema-relevant data
+- [0.78] p129 — no schema-relevant data
+- [0.78] p145 — no schema-relevant data
+- [0.76] p147 — no schema-relevant data
+- [0.75] p149 — no schema-relevant data
+- [0.70 OCR] p124 — no schema-relevant data
+- [0.68 OCR] p2 — no schema-relevant data
+- [0.68] p131 — no schema-relevant data
+- [0.68] p220 — no schema-relevant data
+- [0.65] p119 — no schema-relevant data
+- [0.64 OCR] p12 — no schema-relevant data
+- [0.56] p187 — This page presents the Audited Portfolio Statement (property valuations) for United Hampshire US REIT, detailing its sig
+- [0.56] p110 — no schema-relevant data
+- [0.50] p151 — This page details the methodologies and justifications for various fees payable to the Manager under UHREIT's Trust Deed
+- [0.44 OCR] p112 — no schema-relevant data
+- [0.44 OCR] ['000] p109 — no schema-relevant data
+- [0.41] p168 — no schema-relevant data
+- [0.35 OCR] [million] p17 — no schema-relevant data
+- [0.28 OCR] p1 — no schema-relevant data
+- [0.27] [million] p39 — This page presents a Self-Storage Operations Review featuring a table detailing the occupancy percentages for Carteret S
+- [0.26] [million] p34 — This page presents the Adjusted Debt Maturity Profile (US$ million) in a table and bar chart, detailing Fixed Rate Mortg
+- [0.22 OCR] p140 — no schema-relevant data
+
+## performance  — top: p5  · audited('000): p214
+- [1.00] [million] p5 — This page presents the 2025 Financial Highlights of SGX REIT, featuring a table with key metrics including Distributable
+- [1.00] ['000] p214 — This page presents unitholding statistics for United Hampshire US Real Estate Investment Trust, featuring a Distribution
+- [1.00] ['000] p215 — This page presents the Top-N tenants/customers table titled "TWENTY LARGEST UNITHOLDERS," listing the largest unitholder
+- [1.00] [million] p4 — This page presents the 2025 financial highlights for SGX REIT, featuring key metrics in US$ million including Gross Reve
+- [1.00] [million] p114 — This page presents the Unit Price Performance table and chart for United Hampshire US REIT, displaying FY2025 trading da
+- [1.00] ['000] p216 — This page presents the **Interests of Substantial Unitholders** table, detailing direct and deemed interests in 605,463,
+- [1.00] ['000] p217 — This page contains the Unitholding Statistics for United Hampshire US Real Estate Investment Trust, specifically detaili
+- [0.99] p29 — This page presents a financial review highlighting UHREIT's 8.1% year-on-year growth in Distribution Per Unit (DPU) and 
+- [0.98] ['000] p196 — The page presents the Trust's NAV and NTA per Unit table for 2025 and 2024, reporting Group Net Assets of US$'000 alongs
+- [0.98] [million] p15 — This page serves as a Message to Unitholders and highlights key financial performance for UHREIT's FY2025, explicitly st
+- [0.98] ['000] p161 — This page presents the Distribution Statement for SGX REIT for the financial year ended 31 December 2025, reporting US$'
+- [0.96] ['000] p16 — no schema-relevant data
+- [0.94] [million] p33 — This page presents Key Financial Indicators and a sensitivity analysis table for UHREIT's Interest Coverage Ratio (ICR) 
+- [0.91] p6 — no schema-relevant data
+- [0.87] [million] p103 — This page presents UHREIT's Economic sustainability pillar, featuring performance highlights for Distributable Income (↑
+- [0.86] ['000] p159 — This page presents the Group and Trust Statements of Financial Position as of 31 December 2025, reporting total assets o
+- [0.75] ['000] p9 — This page details the Manager's strategic portfolio management approach, highlighting a 3.8% increase in portfolio valua
+- [0.71] ['000] p195 — This page presents the **Units in Issue and to be Issued** table for SGX REIT's financial year ended 31 December 2025, d
+- [0.59] ['000] p162 — This page presents the **Statements of Changes in Unitholders' Funds** for the financial year ended 31 December 2025, re
+- [0.57] ['000] p163 — This page presents the **Statements of Changes in Unitholders' Funds** for the financial year ended 31 December 2024, re
+- [0.52] ['000] p164 — This page presents the Statements of Changes in Unitholders' Funds for SGX REIT for the financial years ended 31 Decembe
+- [0.47] ['000] p18 — no schema-relevant data
+- [0.34 OCR] [million] p66 — This page of the SGX REIT annual report contains sustainability and climate reporting data, including environmental metr
+- [0.34] [million] p211 — This page contains the Financial Ratios table showing Group expense-to-net assets ratios and portfolio turnover rate for
+- [0.29] [million] p32 — This page presents the Financial Review and Capital Management section, featuring a table detailing the year-on-year cha
+- [0.24] ['000] p30 — This page presents the Consolidated Statement of Comprehensive Income and Distribution Statement for SGD'000, detailing 
+- [0.21] ['000] p200 — This page contains the Audited Portfolio Statement via Table 23 showing Net income and weighted average Units for 2025/2
+
+## properties  — top: p35
+- [1.00] ['000] p35 — This page presents the audited Portfolio Statement (property valuations) for UHREIT, listing 20 Grocery & Necessity and 
+- [1.00] ['000] p42 — This page contains property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – La Fitness, 
+- [1.00] ['000] p167 — This page presents the audited Portfolio Statement as at 31 December 2025, detailing fair value and percentage of total 
+- [1.00] ['000] p40 — This page presents a Property Portfolio table listing 22 properties with their locations, Net Leasable Areas (NLA) as of
+- [1.00] [million] p41 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 31 Dec 2025, detailing Fair 
+- [0.99] [million] p54 — no schema-relevant data
+- [0.99] [million] p62 — no schema-relevant data
+- [0.99] [million] p43 — no schema-relevant data
+- [0.99] [million] p61 — This page presents a Property Summary for the Wallingford Fair Shopping Center, acquired on 14 January 2026, featuring a
+- [0.98] [million] p47 — This page presents a Property Summary for the Wallington ShopRite grocery store, featuring a single-table artifact detai
+- [0.78] p21 — This page details the portfolio composition of 22 properties across eight US states, broken down by category (Grocery & 
+- [0.69] [million] p46 — This page presents a detailed property summary and lease analysis for Hudson Valley Plaza, featuring a Property Summary 
+- [0.67] [million] p44 — This page details the Price Chopper Plaza property, including its location, freehold tenure, $84,295 sq ft NLA, and a tr
+- [0.66] [million] p53 — This page presents a detailed profile of the Parkway Crossing property, including its location in Parkville, Maryland; l
+- [0.64] [million] p48 — This page details the Property Summary for Piscataway Plaza, a Grocery & Necessity asset located in New Jersey with a pr
+- [0.61] [million] p56 — This page details the Lynncroft Center retail property, presenting a Property Summary table with key metrics including 3
+- [0.61] [million] p59 — This page presents the Upland Square property summary, including its location details (180 Upland Square Drive, Pottstow
+- [0.60] [million] p45 — This page presents the audited Portfolio Statement for the Wallkill Price Chopper property, detailing its location, tenu
+- [0.60] ['000] p185 — This page contains a table titled "Investment properties and investment property held for divestment as at 31 December" 
+- [0.58] [million] p49 — This page presents a Property Summary for Towne Crossing, an SGX REIT portfolio asset located in Burlington Township, Ne
+- [0.58] [million] p39 — This page presents a Self-Storage Operations Review featuring a table detailing the occupancy percentages for Carteret S
+- [0.58] ['000] p51 — This page presents the Property Summary and key metrics for the St. Lucie West asset, including a table detailing locati
+- [0.52] [million] p60 — This page presents the Dover Marketplace retail center's property summary, including a table with key metrics such as lo
+- [0.51] [million] p55 — This page details the Fairhaven Plaza property with a table providing key metrics including location, NLA (81,085 sq ft)
+- [0.49] ['000] p58 — This page presents a property summary for Penrose Plaza, a Grocery & Necessity asset in Philadelphia valued at US$58 mil
+- [0.47 OCR] p152 — This page of the SGX REIT annual report contains a table of contents for the Financial Statements section, listing items
+- [0.46] [million] p52 — This page details the Arundel Plaza property, presenting a Property Summary table with key metrics including location, 2
+- [0.42] [million] p50 — This page presents a Property Summary for Lawnside Commons, detailing its location, tenure, valuation of US$37.3 million
+- [0.35 OCR] p38 — no schema-relevant data
+- [0.31] [million] p57 — This page details the Colonial Square property, a dominant Grocery & Necessity asset in Virginia with US$28.6 million va
+- [0.20] ['000] p184 — This page presents the **Notes to the Financial Statements** for SGX REIT's investment properties and those held for div
+- [0.19] [million] p36 — This page presents a Committed Occupancy By NLA (%) table for 20 Grocery & Necessity properties as at 31 December 2025 a
+- [0.18] p187 — This page presents the Audited Portfolio Statement (property valuations) for United Hampshire US REIT, detailing its sig
+
+## top_tenants  — top: p37
+- [0.34] p37 — This page presents the **Trade Sector Mix** table (by GRI⁶) and a **Top 10 Tenants** table detailing leading anchors acr
+
+## trade_mix  — top: p10  · audited('000): p58
+- [0.91] p10 — no schema-relevant data
+- [0.88] [million] p31 — This page presents SG$ million gross revenue, property expenses, and net property income figures for FY2025 alongside tr
+- [0.77] [million] p36 — This page presents a Committed Occupancy By NLA (%) table for 20 Grocery & Necessity properties as at 31 December 2025 a
+- [0.66] [million] p57 — This page details the Colonial Square property, a dominant Grocery & Necessity asset in Virginia with US$28.6 million va
+- [0.63] p37 — This page presents the **Trade Sector Mix** table (by GRI⁶) and a **Top 10 Tenants** table detailing leading anchors acr
+- [0.54] [million] p50 — This page presents a Property Summary for Lawnside Commons, detailing its location, tenure, valuation of US$37.3 million
+- [0.52 OCR] p8 — no schema-relevant data
+- [0.52] [million] p52 — This page details the Arundel Plaza property, presenting a Property Summary table with key metrics including location, 2
+- [0.49] ['000] p58 — This page presents a property summary for Penrose Plaza, a Grocery & Necessity asset in Philadelphia valued at US$58 mil
+- [0.46] [million] p60 — This page presents the Dover Marketplace retail center's property summary, including a table with key metrics such as lo
+- [0.45] [million] p55 — This page details the Fairhaven Plaza property with a table providing key metrics including location, NLA (81,085 sq ft)
+- [0.40] [million] p49 — This page presents a Property Summary for Towne Crossing, an SGX REIT portfolio asset located in Burlington Township, Ne
+- [0.40] ['000] p51 — This page presents the Property Summary and key metrics for the St. Lucie West asset, including a table detailing locati
+- [0.37] [million] p56 — This page details the Lynncroft Center retail property, presenting a Property Summary table with key metrics including 3
+- [0.37] [million] p59 — This page presents the Upland Square property summary, including its location details (180 Upland Square Drive, Pottstow
+- [0.37] [million] p45 — This page presents the audited Portfolio Statement for the Wallkill Price Chopper property, detailing its location, tenu
+- [0.34] [million] p48 — This page details the Property Summary for Piscataway Plaza, a Grocery & Necessity asset located in New Jersey with a pr
+- [0.31] [million] p44 — This page details the Price Chopper Plaza property, including its location, freehold tenure, $84,295 sq ft NLA, and a tr
+- [0.31] [million] p53 — This page presents a detailed profile of the Parkway Crossing property, including its location in Parkville, Maryland; l
+- [0.29] [million] p46 — This page presents a detailed property summary and lease analysis for Hudson Valley Plaza, featuring a Property Summary 
+- [0.20] p21 — This page details the portfolio composition of 22 properties across eight US states, broken down by category (Grocery & 
+
+## financial  — top: p198
+- [1.00] ['000] p198 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains Notes to the Financial St
+- [1.00] ['000] p199 — This page contains the audited Income Tax Expense table and reconciliation for the Group, reporting financial year 2025 
+- [1.00] p180 — no schema-relevant data
+- [1.00] ['000] p188 — This page contains the Notes to the Financial Statements for SGX REIT covering the financial year ended 31 December 2025
+- [1.00] ['000] p197 — This page presents the Gross Revenue and Property Expenses tables for the Group (reported in US$'000) alongside notes de
+- [1.00] p179 — no schema-relevant data
+- [1.00] ['000] p160 — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2025, rep
+- [0.99] ['000] p210 — This page presents the **Reconciliation of Liabilities Arising from Financing Activities** for the financial year ended 
+- [0.99] ['000] p192 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains financial notes on derivative instr
+- [0.99] p177 — no schema-relevant data
+- [0.99] ['000] p191 — no schema-relevant data
+- [0.99] ['000] p183 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains a table and notes detaili
+- [0.99] p174 — no schema-relevant data
+- [0.99] p178 — no schema-relevant data
+- [0.99] ['000] p201 — This page presents the Group's Segmental Reporting for the financial year ended 31 December 2025, detailing performance 
+- [0.99] ['000] p171 — no schema-relevant data
+- [0.98] p172 — no schema-relevant data
+- [0.98] ['000] p193 — This page presents the summarised financial information of significant entities with non-controlling interests (MCBUH La
+- [0.98] ['000] p194 — This page presents a table titled "Non-controlling interests (cont'd)" summarizing the financial position, comprehensive
+- [0.98] ['000] p202 — This page presents Notes to the Financial Statements for the year ended 31 December 2025, detailing capital commitments 
+- [0.97] ['000] p189 — no schema-relevant data
+- [0.96] p173 — no schema-relevant data
+- [0.96] ['000] p208 — This page presents the Notes to the Financial Statements for the financial year ended 31 December 2025, specifically det
+- [0.96] ['000] p165 — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the financial year ended 31 December 2025, 
+- [0.96] [million] p190 — no schema-relevant data
+- [0.95] p176 — no schema-relevant data
+- [0.94] ['000] p182 — This page presents the Notes to the Financial Statements for the year ended 31 December 2025, detailing critical account
+- [0.92] [million] p166 — no schema-relevant data
+- [0.90] ['000] p169 — no schema-relevant data
+- [0.90] ['000] p209 — This page contains the **Related Parties** note detailing transactions between the Group and related entities, specifica
+- [0.89] ['000] p206 — This page contains the Group's liquidity risk management disclosures and a detailed contractual maturities table for fin
+- [0.89] ['000] p170 — no schema-relevant data
+- [0.88] ['000] p181 — no schema-relevant data
+- [0.86] ['000] p203 — This page contains the "Financial Instruments, Financial Risks and Capital Management" note with a table detailing the G
+- [0.85] ['000] p186 — This page contains the fair value hierarchy notes and valuation techniques for investment properties, specifically detai
+- [0.84] p175 — no schema-relevant data
+- [0.79] ['000] p184 — This page presents the **Notes to the Financial Statements** for SGX REIT's investment properties and those held for div
+- [0.75] ['000] p30 — This page presents the Consolidated Statement of Comprehensive Income and Distribution Statement for SGD'000, detailing 
+- [0.74] ['000] p200 — This page contains the Audited Portfolio Statement via Table 23 showing Net income and weighted average Units for 2025/2
+- [0.72] ['000] p205 — This page contains the **audited Portfolio Statement** regarding financial instruments and credit risk management, speci
+- [0.70] [million] p32 — This page presents the Financial Review and Capital Management section, featuring a table detailing the year-on-year cha
+- [0.70] ['000] p204 — no schema-relevant data
+- [0.69] p212 — no schema-relevant data
+- [0.63] [million] p211 — This page contains the Financial Ratios table showing Group expense-to-net assets ratios and portfolio turnover rate for
+- [0.62 OCR] ['000] p207 — This page contains a Liquidity risk management table presenting Trust non-derivative financial liabilities (trade and ot
+- [0.61] ['000] p156 — This page contains the Independent Auditor's Report detailing the key audit matter regarding Fair Valuation and Disclosu
+- [0.53] p168 — no schema-relevant data
+- [0.48] [million] p34 — This page presents the Adjusted Debt Maturity Profile (US$ million) in a table and bar chart, detailing Fixed Rate Mortg
+- [0.46] ['000] p164 — This page presents the Statements of Changes in Unitholders' Funds for SGX REIT for the financial years ended 31 Decembe
+- [0.44] p151 — This page details the methodologies and justifications for various fees payable to the Manager under UHREIT's Trust Deed
+- [0.36] ['000] p185 — This page contains a table titled "Investment properties and investment property held for divestment as at 31 December" 
+- [0.36] ['000] p162 — This page presents the **Statements of Changes in Unitholders' Funds** for the financial year ended 31 December 2025, re
+- [0.35] ['000] p163 — This page presents the **Statements of Changes in Unitholders' Funds** for the financial year ended 31 December 2024, re
+- [0.33 OCR] p158 — no schema-relevant data
+- [0.29 OCR] p155 — This page contains the Independent Auditor's Report confirming that United Hampshire US Real Estate Investment Trust's f
+- [0.23] p187 — This page presents the Audited Portfolio Statement (property valuations) for United Hampshire US REIT, detailing its sig

@@ -1,0 +1,5 @@
+[
+  {"symbol": "ODBU.SI", "financial_year": 2025, "property_name": "Dover Marketplace", "transaction_type": "acquisition", "transaction_date": "2025-08-01", "price": 17046000.0, "currency": "USD", "note": "Third Pennsylvania asset; grocery-anchored (Giant/Ahold Delhaize), 9 tenants. Cash outflow for acquisition US$17,046k per cash flow statement.", "source_page": 167},
+  {"symbol": "ODBU.SI", "financial_year": 2025, "property_name": "Albany Supermarket", "transaction_type": "divestment", "transaction_date": "2025-01-17", "price": null, "currency": "USD", "note": "Classified as investment property held for divestment at 31 Dec 2024 (carrying value US$23,800k); divestment completed 17 January 2025. Net cash from divestment US$23,116k.", "source_page": 167},
+  {"symbol": "ODBU.SI", "financial_year": 2026, "property_name": "Wallingford Fair Shopping Center", "transaction_type": "acquisition", "transaction_date": "2026-01-14", "price": null, "currency": "USD", "note": "Maiden entry into Connecticut; completed AFTER FY2025 year-end (subsequent event). Anchored by ShopRite; tenants include Petco and Extra Space Storage self-storage.", "source_page": 38}
+]

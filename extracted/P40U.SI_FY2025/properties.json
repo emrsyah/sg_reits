@@ -1,0 +1,182 @@
+[
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Ngee Ann City Property",
+    "country": "Singapore", "category": "Retail", "category_raw": "Retail/Office",
+    "address": "391/391B Orchard Road, Singapore 238874",
+    "ownership": 27.23,
+    "market_valuation": 1160000000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null, "major_tenants": [{"name": "Toshin Development Singapore Pte. Ltd.", "industry": null, "pct": 23.8}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Leasehold", "effective_date": null, "lease_term_years": 69.0,
+    "lease_expiry_date": "2072-03-31",
+    "tenure_raw": "Leasehold estate of 69 years expiring on 31 March 2072; remaining term 47 years",
+    "status": "active",
+    "flags": [
+      {"type": "full_consolidation_partial_ownership", "scope": "ownership/market_valuation",
+       "note": "Trust holds a 27.23% strata title interest in the total share value of Ngee Ann City; the Ngee Ann City Property is carried at its full attributed valuation S$1,160,000k in the audited Portfolio Statement (p141). Occupancy disclosed 100.0% retail / 100.0% office."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Wisma Atria Property",
+    "country": "Singapore", "category": "Retail", "category_raw": "Retail/Office",
+    "address": "435 Orchard Road, Singapore 238877",
+    "ownership": 68.81,
+    "market_valuation": 784400000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null,
+    "major_tenants": [{"name": "Food Republic Pte. Ltd.", "industry": "Food & Beverages", "pct": 2.5}],
+    "gla": null, "nla": 206755.0, "gfa": null,
+    "land_tenure": "Leasehold", "effective_date": null, "lease_term_years": 99.0,
+    "lease_expiry_date": "2061-03-31",
+    "tenure_raw": "Leasehold estate of 99 years expiring on 31 March 2061; remaining term 36 years",
+    "status": "active",
+    "flags": [
+      {"type": "full_consolidation_partial_ownership", "scope": "ownership/market_valuation",
+       "note": "Trust holds 244 strata lots = 68.81% (2024: 74.23%) strata title interest in the total share of Wisma Atria; 13 office strata units (carrying value S$31.9m) were divested in FY2025. Property carried at full attributed valuation S$784,400k (p141). Occupancy disclosed 100.0% retail / 100.0% office. NLA 206,755 sq ft (126,412 retail + 80,343 office, p41)."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Myer Centre Adelaide",
+    "country": "Australia", "category": "Retail", "category_raw": "Retail/Office",
+    "address": "14-38 Rundle Mall, Adelaide, Australia",
+    "ownership": 100.0,
+    "market_valuation": 191498000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 90.8,
+    "trade_mix": null,
+    "major_tenants": [{"name": "Myer Pty Ltd", "industry": null, "pct": 7.1}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Freehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": null, "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {"type": "occupancy_split", "scope": "occupancy_rate",
+       "note": "Committed occupancy disclosed 90.8% retail / 29.6% office (p141); occupancy_rate stores the retail figure. Lower office occupancy noted as driver of portfolio occupancy decline."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "David Jones Building",
+    "country": "Australia", "category": "Retail", "category_raw": "Retail",
+    "address": "622-648 Hay Street Mall, Perth, Australia",
+    "ownership": 100.0,
+    "market_valuation": 104699000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 99.3,
+    "trade_mix": null,
+    "major_tenants": [{"name": "David Jones Pty Limited", "industry": null, "pct": 4.6}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Freehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": null, "tenure_raw": "Freehold",
+    "status": "active", "flags": [], "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Plaza Arcade",
+    "country": "Australia", "category": "Retail", "category_raw": "Retail",
+    "address": "650 Hay Street Mall and 185-191 Murray Street Mall, Perth, Australia",
+    "ownership": 100.0,
+    "market_valuation": 35719000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 95.8,
+    "trade_mix": null,
+    "major_tenants": [{"name": "Uniqlo Australia Pty Ltd", "industry": null, "pct": null}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Freehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": null, "tenure_raw": "Freehold",
+    "status": "active", "flags": [], "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "The Starhill",
+    "country": "Malaysia", "category": "Retail", "category_raw": "Retail/Hotel",
+    "address": "181 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+    "ownership": 100.0,
+    "market_valuation": 281743000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null,
+    "major_tenants": [{"name": "Katagreen Development Sdn. Bhd.", "industry": null, "pct": null}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Freehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": null, "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {"type": "valuation_currency", "scope": "market_valuation",
+       "note": "Valued by Knight Frank Malaysia; RM translated at RM3.31:S$1.00. Master-leased to Katagreen (part of the Malaysia Properties master tenancy)."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Lot 10 Property",
+    "country": "Malaysia", "category": "Retail", "category_raw": "Retail/Office",
+    "address": "50 Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+    "ownership": 100.0,
+    "market_valuation": 139058000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null,
+    "major_tenants": [{"name": "Katagreen Development Sdn. Bhd.", "industry": null, "pct": null}],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Leasehold", "effective_date": null, "lease_term_years": 99.0,
+    "lease_expiry_date": "2076-07-29",
+    "tenure_raw": "Leasehold estate of 99 years expiring on 29 July 2076; remaining term 51 years",
+    "status": "active",
+    "flags": [
+      {"type": "valuation_currency", "scope": "market_valuation",
+       "note": "RM translated at RM3.31:S$1.00. Master-leased to Katagreen (Malaysia Properties)."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "Ebisu Fort",
+    "country": "Japan", "category": "Retail", "category_raw": "Retail/Office",
+    "address": "1-24-2 Ebisu-Minami, Shibuya-ku, Tokyo, Japan",
+    "ownership": 100.0,
+    "market_valuation": 35288000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null, "major_tenants": [],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Freehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": null, "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {"type": "valuation_currency", "scope": "market_valuation",
+       "note": "Valued by Daiwa Real Estate Appraisal; JPY translated at JPY113.07:S$1.00."}
+    ],
+    "source_page": 141
+  },
+  {
+    "symbol": "P40U.SI", "financial_year": 2025,
+    "property_name": "China Property",
+    "country": "China", "category": "Retail", "category_raw": "Retail",
+    "address": "19, 4th Section, Renminnan Road, Chengdu, Sichuan, China",
+    "ownership": 100.0,
+    "market_valuation": 22225000.0, "valuation_date": "2025-06-30", "currency": "SGD",
+    "net_property_income": null, "gross_revenue": null, "npi_pct": null,
+    "occupancy_rate": 100.0,
+    "trade_mix": null, "major_tenants": [],
+    "gla": null, "nla": null, "gfa": null,
+    "land_tenure": "Leasehold", "effective_date": null, "lease_term_years": null,
+    "lease_expiry_date": "2035-12-27",
+    "tenure_raw": "Leasehold estate (China land use right) expiring on 27 December 2035; remaining term 10 years",
+    "status": "active",
+    "flags": [
+      {"type": "valuation_currency", "scope": "market_valuation",
+       "note": "Valued by JLL; RMB translated at RMB5.62:S$1.00."}
+    ],
+    "source_page": 141
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "file": "35_P40U.SI_Starhill-Global-REIT_FY2025.pdf",
+  "parser": "datalab:balanced",
+  "pages": 200,
+  "pages_written": 200,
+  "seconds": 52.7,
+  "parse_quality_score": null,
+  "runtime": 44.26626920700073,
+  "cost_breakdown": {
+    "list_cost_cents": 80,
+    "final_cost_cents": 80,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_QnF_O2-EJYvq1fIh4sSWERCiQ9mUgddMU-xnPJyog4w",
+  "page_range": null
+}

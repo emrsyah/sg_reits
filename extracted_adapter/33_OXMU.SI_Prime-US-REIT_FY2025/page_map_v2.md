@@ -1,0 +1,167 @@
+# Page map v2 (classify) — 33_OXMU.SI_Prime-US-REIT_FY2025
+
+_Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
+_Routing only; confirm the page & extract from it, not from here._
+
+## profile  — top: p10  · audited('000): p60
+- [1.00] p10 — no schema-relevant data
+- [1.00] p14 — no schema-relevant data
+- [1.00] p188 — no schema-relevant data
+- [1.00] p3 — no schema-relevant data
+- [1.00] p192 — no schema-relevant data
+- [1.00] p128 — no schema-relevant data
+- [0.99] p12 — no schema-relevant data
+- [0.99] p55 — no schema-relevant data
+- [0.98] p61 — no schema-relevant data
+- [0.98] p11 — no schema-relevant data
+- [0.97 OCR] p85 — no schema-relevant data
+- [0.97] p129 — no schema-relevant data
+- [0.95] p13 — no schema-relevant data
+- [0.95] p59 — no schema-relevant data
+- [0.94] p58 — no schema-relevant data
+- [0.92] p65 — no schema-relevant data
+- [0.92] p77 — no schema-relevant data
+- [0.91] p142 — no schema-relevant data
+- [0.90] p9 — no schema-relevant data
+- [0.89] ['000] p60 — The page presents the Board's assessment of Director independence for FY2025 via a table listing five directors (Mr Rich
+- [0.88] ['000] p6 — no schema-relevant data
+- [0.88 OCR] p121 — no schema-relevant data
+- [0.87] p63 — no schema-relevant data
+- [0.85] ['000] p68 — no schema-relevant data
+- [0.83] p56 — no schema-relevant data
+- [0.83] p88 — no schema-relevant data
+- [0.83] ['000] p70 — no schema-relevant data
+- [0.82] p64 — no schema-relevant data
+- [0.81] p50 — no schema-relevant data
+- [0.78] p79 — no schema-relevant data
+- [0.78] p62 — no schema-relevant data
+- [0.78] ['000] p69 — This page of the SGX REIT annual report presents a table detailing Directors' remuneration received from PRIME for FY202
+- [0.74] ['000] p7 — no schema-relevant data
+- [0.73] p74 — no schema-relevant data
+- [0.72] p132 — no schema-relevant data
+- [0.70] p75 — no schema-relevant data
+- [0.70] p66 — no schema-relevant data
+- [0.67] ['000] p185 — This page presents a table detailing the aggregate value of all Interested Person Transactions (IPT) for PRIME in FY2025
+- [0.65 OCR] p2 — This page is the Table of Contents for the SGX REIT annual report, listing sections from Corporate Profile to Additional
+- [0.63 OCR] p80 — no schema-relevant data
+- [0.56] ['000] p158 — This page presents the **Investment in Subsidiaries** table and related notes for Prime US REIT, detailing the trust's e
+- [0.56] p57 — no schema-relevant data
+- [0.56 OCR] p73 — no schema-relevant data
+- [0.50 OCR] p67 — no schema-relevant data
+- [0.44 OCR] p78 — no schema-relevant data
+- [0.44 OCR] p76 — no schema-relevant data
+- [0.37] p159 — This page presents the "Investment in Subsidiaries (cont'd)" table listing indirect subsidiaries of SGX REIT for the fin
+- [0.36 OCR] p133 — no schema-relevant data
+- [0.32 OCR] p52 — no schema-relevant data
+- [0.29 OCR] p72 — no schema-relevant data
+- [0.23 OCR] p1 — no schema-relevant data
+- [0.21] ['000] p163 — This page presents the **Units in Issue and To Be Issued** table for the SGX REIT's financial year ended 31 December 202
+- [0.18 OCR] p71 — no schema-relevant data
+
+## performance  — top: p5
+- [1.00] ['000] p5 — This page presents the SGX REIT's FY2025 DPU (US cents) of 0.61 alongside financial highlights showing Total Assets at U
+- [1.00] ['000] p186 — This page presents the statistics of unitholdings for PRIME as at 13 March 2026, featuring a table detailing the distrib
+- [1.00] ['000] p187 — This page presents the **Substantial Unitholders' Unitholdings** table as recorded in the Register on 13 March 2026, det
+- [1.00] [million] p8 — This page of the SGX REIT annual report for PRIME features a narrative summary with no audited Portfolio Statement, fina
+- [0.99] p81 — This page presents the Investor Relations Review for PRIME REIT as at 31 December 2025, featuring a donut chart and tabl
+- [0.98] [million] p82 — This page of the SGX REIT annual report for PRIME contains a Top-N tenants/customers table in the form of Monthly Tradin
+- [0.95] ['000] p17 — This page presents the Financial Review of SGX REIT PRIME, featuring a Debt Maturity Profile table showing US$67m maturi
+- [0.94] ['000] p137 — This page presents the Statements of Changes in Unitholders' Funds for the financial year ended 31 December 2025, detail
+- [0.93] ['000] p138 — This page presents the Statements of Changes in Unitholders' Funds for SGX REIT for the financial year ended 31 December
+- [0.92] ['000] p134 — This page presents the Statements of Financial Position for the Group and Trust as at 31 December 2025, reporting total 
+- [0.79] ['000] p136 — This page presents the **Consolidated Distribution Statement** for SGX REIT for the financial year ended 31 December 202
+- [0.74] ['000] p36 — This page presents an Independent Market Review of the U.S. Office sector as at 31 December 2025, featuring a table deta
+- [0.72] ['000] p163 — This page presents the **Units in Issue and To Be Issued** table for the SGX REIT's financial year ended 31 December 202
+- [0.72] ['000] p167 — This page presents the Earnings Per Unit table (US$'000) and a significant related party transaction note disclosing a m
+- [0.61] ['000] p37 — This page presents an independent market review as at 31 December 2025 for the SGX REIT's portfolio across twelve US loc
+- [0.58] p18 — This page of the SGX REIT annual report contains no audited Portfolio Statement, financial highlights (DPU), tenant mix 
+- [0.40 OCR] p104 — This page presents a Water Consumption table (2022–2025) reporting total water usage in ML and intensity in m³/sqft for 
+- [0.29 OCR] p108 — no schema-relevant data
+- [0.29] ['000] p15 — This page presents the Financial Review of SGX REIT, featuring a detailed Statement of Total Return (Profit or Loss) and
+- [0.27] ['000] p19 — This page presents a Portfolio Review for PRIME, featuring tables detailing Cash Rental Income by Primary Market and Car
+- [0.27 OCR] p106 — This page details PRIME's waste management performance for FY2025, featuring a table titled "Comparison of Waste Generat
+- [0.26 OCR] ['000] p46 — no schema-relevant data
+- [0.24] ['000] p7 — no schema-relevant data
+- [0.23 OCR] p1 — no schema-relevant data
+- [0.19] ['000] p164 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing Net Asset Value p
+- [0.18] ['000] p4 — This page presents the SGX REIT's high-quality portfolio of 13 prime U.S. office properties with a total net lettable ar
+
+## properties  — top: p26  · audited('000): p141
+- [1.00] [million] p26 — This page presents the **Properties Profile** table as of 31 December 2025, detailing five office assets in San Diego, D
+- [1.00] [million] p27 — This page presents the **Properties Profile as at 31 December 2025** for an SGX REIT, detailing four specific properties
+- [1.00] ['000] p141 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing fair values and net ass
+- [1.00] ['000] p157 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's investment properties as of 31 D
+- [1.00] [million] p25 — This page presents the Properties Profile as at 31 December 2025, featuring a table that details five office properties 
+- [1.00] [million] p28 — This page presents the property profile for SGX REIT's assets as at 31 December 2025, featuring a main table of key metr
+- [1.00] p29 — no schema-relevant data
+- [1.00] p31 — This page presents the properties profile for CrossPoint in Philadelphia and The 101 in St. Louis as of December 31, 202
+- [1.00] p32 — This page presents a Properties Profile as at 31 December 2025, featuring two main tables for Promenade I & II (San Anto
+- [1.00] p33 — This page presents the Property Profile for SGX REIT's assets as of 31 December 2025, featuring detailed tables with occ
+- [1.00] p30 — This page profiles two real estate assets, Sorrento Towers in San Diego and Tower 909 in Dallas, presenting their key me
+- [1.00] p34 — This page displays the properties profile for Reston Square as of 31 December 2025, featuring a table with occupancy (67
+- [0.91] p24 — no schema-relevant data
+- [0.85] p20 — This page presents the **Audited Portfolio Statement (property valuations)** detailing individual property occupancy rat
+- [0.81] ['000] p4 — This page presents the SGX REIT's high-quality portfolio of 13 prime U.S. office properties with a total net lettable ar
+- [0.64] ['000] p19 — This page presents a Portfolio Review for PRIME, featuring tables detailing Cash Rental Income by Primary Market and Car
+- [0.37] p159 — This page presents the "Investment in Subsidiaries (cont'd)" table listing indirect subsidiaries of SGX REIT for the fin
+- [0.37] ['000] p156 — This page presents the Consolidated Statement of Financial Position and Consolidated Statement of Comprehensive Income f
+- [0.18 OCR] ['000] p127 — This page contains the Table of Contents for the SGX'000 reporting unit, listing key financial artifacts including the C
+
+## top_tenants  — top: p22
+- [1.00] ['000] p22 — This page presents the Top 10 Tenants table for PRIME's portfolio as of 31 December 2025, detailing that these tenants c
+- [0.91] ['000] p23 — This page presents a portfolio review of two properties, Teleflex (Crosspoint) and State of California (Park Tower), det
+- [0.52] p21 — This page presents the **CRI by Trade Sector** table detailing PRIME US REIT's portfolio composition as of 31 December 2
+
+## trade_mix  — top: p21
+- [0.46] p21 — This page presents the **CRI by Trade Sector** table detailing PRIME US REIT's portfolio composition as of 31 December 2
+
+## financial  — top: p165
+- [1.00] ['000] p165 — This page details SG$'000 property operating expenses (including taxes, utilities, repairs, and management fees totaling
+- [1.00] ['000] p166 — This page presents the Tax Expense notes for the SGX REIT Group, reporting current tax expense and a reconciliation of e
+- [1.00] p150 — This page contains accounting policy notes regarding revenue recognition, finance expenses, and tax treatment (current a
+- [1.00] ['000] p176 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents a table detailing the fai
+- [0.99] ['000] p160 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents Note 8 (Trade and Other Payables Am
+- [0.99] ['000] p162 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 presents Note 9 on Loans and Borro
+- [0.99] ['000] p177 — This page presents the **Fair Value of Assets and Liabilities** table, detailing carrying amounts and fair value levels 
+- [0.99] ['000] p178 — This page presents a table titled "Fair Value of Assets and Liabilities (cont'd)" detailing the carrying amounts and fai
+- [0.99] p147 — This page contains the accounting policy notes for financial instruments (non-derivative assets and liabilities) without
+- [0.99] ['000] p174 — This page presents the Fair Value Hierarchy table from Note 22 of the SGX REIT annual report for the year ended 31 Decem
+- [0.99] ['000] p175 — This page presents a partial Fair Value of Assets and Liabilities table (Section 22(b)) detailing the carrying amounts a
+- [0.99] ['000] p180 — This page of the SGX REIT annual report for the year ended 31 December 2025 presents a partial audited Portfolio Stateme
+- [0.99] p151 — no schema-relevant data
+- [0.99] ['000] p161 — no schema-relevant data
+- [0.99] ['000] p135 — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2025, rep
+- [0.99] ['000] p154 — This page presents the Audited Portfolio Statement for Trade and Other Receivables, detailing Group and Trust balances i
+- [0.99] p149 — no schema-relevant data
+- [0.98] ['000] p179 — This page presents the audited Portfolio Statement (property valuations) within the Notes to the Financial Statements fo
+- [0.97] ['000] p155 — no schema-relevant data
+- [0.97] ['000] p182 — This page presents Level 3 fair value measurement disclosures for investment properties, detailing valuation techniques 
+- [0.96] p148 — no schema-relevant data
+- [0.96] p181 — This page details Level 3 fair value measurements for investment properties, explaining the valuation techniques (direct
+- [0.96] ['000] p140 — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 December 2025, reporting Gro
+- [0.96] ['000] p139 — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the financial year ended 31 December 2025, 
+- [0.94] p145 — no schema-relevant data
+- [0.94] ['000] p144 — no schema-relevant data
+- [0.91] ['000] p184 — This page presents the Notes to the Financial Statements for SGX REIT's year ended 31 December 2025, featuring a table o
+- [0.89] p183 — no schema-relevant data
+- [0.89] p146 — no schema-relevant data
+- [0.89] [million] p16 — This page of the SGX REIT annual report presents financial highlights including Gross Revenue, Net Property Income, and 
+- [0.88] ['000] p143 — no schema-relevant data
+- [0.86] ['000] p153 — This page of the SGX REIT annual report for the financial year ended 31 December 2025 contains accounting policy notes r
+- [0.76] ['000] p164 — This page of the SGX REIT annual report for the year ended 31 December 2025 contains a table detailing Net Asset Value p
+- [0.71 OCR] ['000] p171 — This page presents the Group's and Trust's contractual maturities of financial liabilities, including estimated interest
+- [0.70] ['000] p15 — This page presents the Financial Review of SGX REIT, featuring a detailed Statement of Total Return (Profit or Loss) and
+- [0.66] p152 — no schema-relevant data
+- [0.64 OCR] p173 — no schema-relevant data
+- [0.61] ['000] p156 — This page presents the Consolidated Statement of Financial Position and Consolidated Statement of Comprehensive Income f
+- [0.61] p168 — This page presents the Group's Financial Ratios, specifically detailing the ratio of expenses to weighted average net as
+- [0.61 OCR] ['000] p169 — no schema-relevant data
+- [0.57] p131 — This page contains the Independent Auditor's Report section covering Key Audit Matters and Other Information for Prime U
+- [0.55 OCR] ['000] p172 — This page contains the Liquidity risk table (cont'd) presenting Group and Trust financial liabilities with carrying amou
+- [0.34] ['000] p158 — This page presents the **Investment in Subsidiaries** table and related notes for Prime US REIT, detailing the trust's e
+- [0.28] ['000] p185 — This page presents a table detailing the aggregate value of all Interested Person Transactions (IPT) for PRIME in FY2025
+- [0.26] ['000] p167 — This page presents the Earnings Per Unit table (US$'000) and a significant related party transaction note disclosing a m
+- [0.25 OCR] p133 — no schema-relevant data
+- [0.20] p159 — This page presents the "Investment in Subsidiaries (cont'd)" table listing indirect subsidiaries of SGX REIT for the fin
+- [0.20 OCR] p130 — This page contains the Independent Auditor's Report for Prime US REIT (the Trust) and its subsidiaries (the Group) for t
+- [0.20] ['000] p136 — This page presents the **Consolidated Distribution Statement** for SGX REIT for the financial year ended 31 December 202

@@ -1,0 +1,31 @@
+{
+  "symbol": "ODBU.SI",
+  "financial_year": 2025,
+  "portfolio_value": 774300000.0,
+  "properties_location": "United States",
+  "gross_revenue": 71978000.0,
+  "net_property_income": 48951000.0,
+  "net_distributable_income": 26932000.0,
+  "dpu": 4.39,
+  "distribution_record": [
+    {"period": "1 July 2024 to 31 December 2024", "dpu": 2.05, "ex_date": null, "pay_date": null},
+    {"period": "1 January 2025 to 30 June 2025", "dpu": 2.09, "ex_date": null, "pay_date": null},
+    {"period": "1 July 2025 to 31 December 2025", "dpu": 2.30, "ex_date": null, "pay_date": null}
+  ],
+  "number_of_unitholders": 1858,
+  "aggregate_leverage": 38.6,
+  "interest_coverage_ratio": 2.4,
+  "cost_of_debt": 5.01,
+  "weighted_avg_debt_maturity": 3.4,
+  "nav_per_unit": 0.73,
+  "wale": 7.7,
+  "portfolio_occupancy": 97.7,
+  "currency": "USD",
+  "date": "2025-12-31",
+  "flags": [
+    {"type": "dpu_basis_note", "scope": "dpu", "note": "FY2025 total DPU 4.39 US cents. distribution_record periods are the amounts actually PAID during FY2025 (2H2024 2.05c + 1H2025 2.09c) plus the 2H2025 declared DPU of 2.30c; the FY2025 full-year DPU of 4.39c = 1H2025 2.09c + 2H2025 2.30c."},
+    {"type": "kpi_scope", "scope": "wale/portfolio_occupancy", "note": "WALE 7.7yr and committed occupancy 97.7% are disclosed for the Grocery & Necessity segment by GRI (Dec 2025). Self-Storage occupancy 85.9%/91.2%."},
+    {"type": "kpi_scope", "scope": "cost_of_debt", "note": "5.01% = trailing-12-month weighted avg interest rate excl upfront debt transaction costs and revolving credit facility. Full FY weighted avg interest rate incl all = 5.46%."}
+  ],
+  "source_page": 5
+}

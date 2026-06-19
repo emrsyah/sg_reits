@@ -1,0 +1,40 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "Per-property NPI is not disclosed. Note 24 Segmental Reporting only reports two operating segments (Grocery & Necessity, Self-Storage) with segment profit, not per-property NPI."},
+    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue is not disclosed; only segment-level and portfolio total (US$71,978k)."},
+    {"column": "properties.gla", "reason": "Cards disclose NLA (net lettable area in sq ft), not GLA. Self-Storage assets also disclosed by NLA, not units/keys."},
+    {"column": "properties.gfa", "reason": "Gross floor area not disclosed; only NLA."},
+    {"column": "performance.funds_from_operation / financial.income_stmt_metrics.funds_from_operation", "reason": "UHREIT (US trust) does NOT disclose FFO or AFFO in this report. It reports Distributable Income (US$26.9m) and DPU; no funds-from-operation statement is presented. Captured Distributable Income as performance.net_distributable_income."}
+  ],
+  "data_with_no_home": [
+    "Total NLA self-storage portfolio ~0.2m sq ft (page 39)",
+    "Self-Storage average net rental rate US$25.9 psf FY2025 (vs US$25.6 FY2024)",
+    "Total tenants portfolio = 239 (page 37)",
+    "Weighted average interest rate full FY incl all = 5.46%; fixed/hedged rate debt = 76.2%",
+    "Total gross loans and borrowings US$311.4m; undrawn facilities US$141.0m",
+    "Grocery & Necessity tenant retention 90% since IPO",
+    "FY2025 EPU 3.46 US cents (page 200); weighted avg units 597,414k",
+    "Manager headcount + US Asset Manager staff assigned to UHREIT = 13 (sustainability report scope, page 65)",
+    "Net income before tax/FV/divestment = US$25,349k (subtotal line, page 160)"
+  ],
+  "parsing_traps": [
+    "Portfolio Statement (page 167) total 'Investment properties, at valuation' US$774,250k EXCLUDES the US$19,838k ROU asset (Wallington ground lease). Σ of 22 property fair values = 774,250k (verified). The SFP 'Investment properties' line US$794,088k = valuation + ROU asset; market_valuation uses the 774,250k valuation figure.",
+    "Albany Supermarket was held for divestment at FY2024 (US$23,800k) and divested 17 Jan 2025 — absent from FY2025 portfolio. NOT a current-year property.",
+    "Self-storage 'Number of Tenants' shown as N.M. (not meaningful) in cards — occupancy is unit-based."
+  ],
+  "reconciliation": {
+    "sum_property_valuation_000": 774250,
+    "reported_portfolio_valuation_at_valuation_000": 774250,
+    "valuation_match": true,
+    "sum_property_gross_revenue": null,
+    "reported_total_gross_revenue": 71978000,
+    "sum_property_npi": null,
+    "reported_total_npi": 48951000,
+    "line_items_check": "Sum(revenue 71,978) - Sum(expense 47,183) + Sum(adjustment signed -3,937) = 20,858k = net_income (total return after tax). PASS.",
+    "note": "Per-property GR/NPI not disclosed (segment-level only), so property sums are null by structural absence, not omission."
+  },
+  "inferred": [
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "Wallington ShopRite", "value": "2040-06-24", "basis": "ground lease expiry stated in Portfolio Statement footnote (2); tenant has two ten-year renewal options through 24 June 2060", "source_page": 167},
+    {"table": "top_tenants", "field": "industry", "scope": "all rows", "value": "canonical 15-value taxonomy", "basis": "Trade sector assigned from disclosed 'Trade Sector' column (Grocery and Wholesale, Fitness, Home Improvement, Consumer Goods) mapped to canonical taxonomy", "source_page": 37}
+  ]
+}
