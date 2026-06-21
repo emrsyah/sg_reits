@@ -1,0 +1,225 @@
+-- Cockpit v2 schema — sgx_reit_* (data) + review/inventory tables.
+-- Mirrors schema/models.py. Nested/list fields -> jsonb. Idempotent (safe to re-run).
+-- Apply: python scripts/db/apply_schema.py   (uses SUPABASE_CONNECTION_STRING)
+
+-- ---------------------------------------------------------------------------
+-- DATA TABLES (load target for extracted/; the jun17 "REITs DB = source of truth")
+-- ---------------------------------------------------------------------------
+
+create table if not exists sgx_reit_profile (
+  symbol        text primary key,
+  sub_sector    text,
+  management    jsonb not null default '[]',     -- [{role, company_name}]
+  income_model  text,
+  source_page   int
+);
+
+create table if not exists sgx_reit_performance (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  portfolio_value numeric,
+  properties_location text,
+  gross_revenue numeric,
+  net_property_income numeric,
+  net_distributable_income numeric,
+  dpu numeric,
+  distribution_record jsonb,                      -- [{period, dpu, ex_date, pay_date}]
+  number_of_unitholders int,
+  aggregate_leverage numeric,
+  interest_coverage_ratio numeric,
+  cost_of_debt numeric,
+  weighted_avg_debt_maturity numeric,
+  nav_per_unit numeric,
+  wale numeric,
+  portfolio_occupancy numeric,
+  currency text,
+  date date,
+  flags jsonb not null default '[]',
+  source_page int,
+  unique (symbol, financial_year)
+);
+
+create table if not exists sgx_reit_property (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  property_name text not null,
+  country text,
+  category text,
+  category_raw text,
+  address text,
+  ownership numeric,
+  market_valuation numeric,
+  valuation_date date,
+  currency text,                                  -- presentation currency (as-reported; prod -> SGD)
+  original_currency text,                         -- AUDIT TRAIL: local/transacting ccy when reported separately (e.g. RMB)
+  original_value numeric,                         -- AUDIT TRAIL: market_valuation in original_currency
+  net_property_income numeric,
+  gross_revenue numeric,
+  npi_pct numeric,
+  occupancy_rate numeric,
+  trade_mix jsonb,                                -- {category: pct}
+  major_tenants jsonb not null default '[]',      -- [{name, industry, pct}]
+  gla numeric, nla numeric, gfa numeric,
+  area_unit text,                                 -- AUDIT TRAIL: 'sqft'|'sqm' of gla/nla/gfa as reported (prod -> sqft)
+  land_tenure text,
+  effective_date date,
+  lease_term_years numeric,
+  lease_expiry_date date,
+  tenure_raw text,
+  status text not null default 'active',
+  divestment_price numeric,
+  flags jsonb not null default '[]',
+  source_page int,
+  unique (symbol, financial_year, property_name)
+);
+-- migrations (idempotent — create table above won't alter an existing table)
+alter table sgx_reit_property add column if not exists original_currency text;
+alter table sgx_reit_property add column if not exists original_value numeric;
+alter table sgx_reit_property add column if not exists area_unit text;
+
+create table if not exists sgx_reit_top_tenant (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  rank int not null,
+  client_name text,
+  industry text,
+  revenue_pct numeric,
+  pct_basis text,
+  source_page int,
+  unique (symbol, financial_year, rank)
+);
+
+create table if not exists sgx_reit_trade_mix (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  category text not null,
+  category_raw text,
+  pct numeric,
+  pct_basis text,
+  source_page int
+);
+
+create table if not exists sgx_reit_financial (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  currency text,
+  income_stmt_metrics jsonb,
+  balance_sheet_metrics jsonb,
+  cash_flow_metrics jsonb,
+  employee_breakdown jsonb,
+  line_items jsonb not null default '[]',         -- [{statement, component, amount, label_raw, source_page}]
+  source_page int,
+  unique (symbol, financial_year)
+);
+
+-- property_transactions.json -> own table (CONFIRMED 2026-06-19). Core cols + raw passthrough.
+create table if not exists sgx_reit_property_transaction (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  transaction_type text,                          -- divestment | acquisition | ...
+  property_name text,
+  description text,
+  carrying_value numeric,
+  net_proceeds numeric,
+  gain_on_divestment numeric,
+  purchase_price numeric,
+  currency text,
+  source_page int,
+  raw jsonb not null default '{}'                 -- full original object (forward-compatible fields)
+);
+
+-- _notes.json -> own table (CONFIRMED 2026-06-19). One jsonb blob per (symbol, FY).
+create table if not exists sgx_reit_notes (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  notes jsonb not null default '{}',              -- {columns_never_fillable, data_with_no_home, parsing_traps, inferred, reconciliation, ...}
+  unique (symbol, financial_year)
+);
+
+-- ---------------------------------------------------------------------------
+-- INVENTORY + REVIEW TABLES (replace reviews/<stem>.json; one report = one cockpit unit)
+-- ---------------------------------------------------------------------------
+
+create table if not exists reit_report (
+  id uuid primary key default gen_random_uuid(),
+  symbol text not null,
+  financial_year int not null,
+  pdf_r2_key text,                                -- object key in the R2 bucket
+  page_offset int not null default 0,             -- printed -> physical PDF page drift
+  unique (symbol, financial_year)
+);
+
+create table if not exists reit_record_verdict (
+  id uuid primary key default gen_random_uuid(),
+  report_id uuid not null references reit_report(id) on delete cascade,
+  table_name text not null,                       -- 'sgx_reit_property' | 'sgx_reit_performance' | ...
+  record_pk text not null,                        -- the row id (or symbol for profile)
+  verdict text check (verdict in ('correct','false','unsure')),
+  note text,
+  reviewer uuid references auth.users(id),
+  updated_at timestamptz not null default now(),
+  unique (report_id, table_name, record_pk, reviewer)
+);
+
+create table if not exists reit_field_edit (
+  id uuid primary key default gen_random_uuid(),
+  report_id uuid not null references reit_report(id) on delete cascade,
+  table_name text not null,
+  record_pk text not null,
+  field_name text not null,
+  suggested_value jsonb,                          -- the proposed correction; source tables untouched
+  reviewer uuid references auth.users(id),
+  updated_at timestamptz not null default now(),
+  unique (report_id, table_name, record_pk, field_name, reviewer)
+);
+
+-- helpful indexes for the cockpit's per-(symbol,FY) reads
+create index if not exists idx_property_sy on sgx_reit_property (symbol, financial_year);
+create index if not exists idx_perf_sy     on sgx_reit_performance (symbol, financial_year);
+create index if not exists idx_toptenant_sy on sgx_reit_top_tenant (symbol, financial_year);
+create index if not exists idx_trademix_sy on sgx_reit_trade_mix (symbol, financial_year);
+create index if not exists idx_fin_sy      on sgx_reit_financial (symbol, financial_year);
+create index if not exists idx_txn_sy      on sgx_reit_property_transaction (symbol, financial_year);
+create index if not exists idx_verdict_report on reit_record_verdict (report_id);
+create index if not exists idx_edit_report    on reit_field_edit (report_id);
+
+-- ---------------------------------------------------------------------------
+-- RLS — data read-only to authed reviewers; verdict/edit writable only by their author.
+-- (service key bypasses RLS, so the loader is unaffected.)
+-- ---------------------------------------------------------------------------
+do $$
+declare t text;
+begin
+  foreach t in array array[
+    'sgx_reit_profile','sgx_reit_performance','sgx_reit_property','sgx_reit_top_tenant',
+    'sgx_reit_trade_mix','sgx_reit_financial','sgx_reit_property_transaction','sgx_reit_notes',
+    'reit_report'
+  ] loop
+    execute format('alter table %I enable row level security', t);
+    execute format('drop policy if exists %I on %I', t||'_read', t);
+    execute format($f$create policy %I on %I for select to authenticated using (true)$f$,
+                   t||'_read', t);
+  end loop;
+end $$;
+
+alter table reit_record_verdict enable row level security;
+alter table reit_field_edit     enable row level security;
+
+drop policy if exists verdict_read  on reit_record_verdict;
+drop policy if exists verdict_write on reit_record_verdict;
+drop policy if exists edit_read     on reit_field_edit;
+drop policy if exists edit_write    on reit_field_edit;
+
+create policy verdict_read on reit_record_verdict for select to authenticated using (true);
+create policy verdict_write on reit_record_verdict for all to authenticated
+  using (reviewer = auth.uid()) with check (reviewer = auth.uid());
+create policy edit_read on reit_field_edit for select to authenticated using (true);
+create policy edit_write on reit_field_edit for all to authenticated
+  using (reviewer = auth.uid()) with check (reviewer = auth.uid());

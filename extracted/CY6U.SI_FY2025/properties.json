@@ -33,7 +33,8 @@
         "note": "Audited Portfolio Statement carrying value is 100% consolidated; CLINT holds 93% (7.2% held by Karnataka Industrial Area Development Board). Floor area 6.0m sq ft owned by CLINT. Includes MTB7/MTB8 under development (92.8% interest). gross_revenue in INR '000 (INR 6,318m), npi_pct from NPI donut."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -69,7 +70,8 @@
         "note": "100% consolidated carrying value; CLINT holds 89% (11.0% held by Tamil Nadu Industrial Development Corporation). gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -142,7 +144,8 @@
         "note": "Includes Orion Building under redevelopment (completion Dec 2028, GFA 995,000 sq ft). gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -178,7 +181,8 @@
         "note": "Report classifies as Freehold though held on renewable 33/99-year leasehold terms; gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -323,7 +327,8 @@
         "note": "gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -359,7 +364,8 @@
         "note": "Acquired Mar 2024. Occupancy 57%. gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -395,7 +401,8 @@
         "note": "gross_revenue in INR '000."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -431,7 +438,8 @@
         "note": "Renamed Ascent FTWZ (formerly Arshiya Panvel Warehouses). Occupancy not disclosed (excluded from portfolio occupancy). gross_revenue in INR '000."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -539,7 +547,8 @@
         "note": "Under development, on hold. Gross capacity 45.0 MW, IT Load 28.0 MW. CLINT holds 92.8% (card says 93%). No separate revenue line."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -575,7 +584,8 @@
         "note": "Under development (completion Sep 2026). Gross capacity 53.0 MW, IT Load 34.0 MW. Classified as held for sale at 31 Dec 2025 (SPA/JVA for 20.2% stake divestment; completed 27 Feb 2026, post-divestment stake 79.8%). Carrying value still in audited Portfolio Statement."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -611,7 +621,8 @@
         "note": "Under development (completion Jun 2026). Gross capacity 42.0 MW, IT Load 27.0 MW. Held for sale at 31 Dec 2025 (20.2% stake divestment, completed 27 Feb 2026)."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "area_unit": "sqft"
   },
   {
     "symbol": "CY6U.SI",
@@ -647,6 +658,7 @@
         "note": "Tower 1 partially handed over Jul 2025 (committed capacity 100%); Tower 2 under development (completion Dec 2026). Gross capacity 105.0 MW, IT Load 70.7 MW. Held for sale at 31 Dec 2025 (20.2% stake divestment, completed 27 Feb 2026). lease_expiry_date = earliest sub-plot (Jul 2062). gross_revenue INR 404m '000."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "area_unit": "sqft"
   }
 ]

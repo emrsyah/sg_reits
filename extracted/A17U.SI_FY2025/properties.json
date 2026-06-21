@@ -19,7 +19,8 @@
     "gfa": 25511,
     "nla": 21072,
     "gross_revenue": 15700000,
-    "occupancy_rate": 87.6
+    "occupancy_rate": 87.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -41,7 +42,8 @@
     "gfa": 68835,
     "nla": 60926,
     "gross_revenue": 59300000,
-    "occupancy_rate": 87.9
+    "occupancy_rate": 87.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -63,7 +65,8 @@
     "gfa": 42290,
     "nla": 42290,
     "gross_revenue": 12000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -85,7 +88,8 @@
     "gfa": 40880,
     "nla": 40880,
     "gross_revenue": 19000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -107,7 +111,8 @@
     "gfa": 9382,
     "nla": 9079,
     "gross_revenue": 3200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -129,7 +134,8 @@
     "gfa": 29185,
     "nla": 22557,
     "gross_revenue": 2800000,
-    "occupancy_rate": 23.0
+    "occupancy_rate": 23.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -151,7 +157,8 @@
     "gfa": 61720,
     "nla": 48995,
     "gross_revenue": 8800000,
-    "occupancy_rate": 36.8
+    "occupancy_rate": 36.8,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -173,7 +180,8 @@
     "gfa": 28361,
     "nla": 21995,
     "gross_revenue": 9800000,
-    "occupancy_rate": 82.7
+    "occupancy_rate": 82.7,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -195,7 +203,8 @@
     "gfa": 18123,
     "nla": 14299,
     "gross_revenue": 2700000,
-    "occupancy_rate": 37.3
+    "occupancy_rate": 37.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -217,7 +226,8 @@
     "gfa": 11578,
     "nla": 9185,
     "gross_revenue": 5100000,
-    "occupancy_rate": 74.1
+    "occupancy_rate": 74.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -239,7 +249,8 @@
     "gfa": 19448,
     "nla": 16401,
     "gross_revenue": 5100000,
-    "occupancy_rate": 58.2
+    "occupancy_rate": 58.2,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -261,7 +272,8 @@
     "gfa": 74660,
     "nla": 63362,
     "gross_revenue": 25500000,
-    "occupancy_rate": 83.2
+    "occupancy_rate": 83.2,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -283,7 +295,8 @@
     "gfa": 45823,
     "nla": 38172,
     "gross_revenue": 17500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -305,7 +318,8 @@
     "gfa": 19225,
     "nla": 15137,
     "gross_revenue": 4200000,
-    "occupancy_rate": 51.1
+    "occupancy_rate": 51.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -327,7 +341,8 @@
     "gfa": 71158,
     "nla": 61864,
     "gross_revenue": 41200000,
-    "occupancy_rate": 99.5
+    "occupancy_rate": 99.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -349,7 +364,8 @@
     "gfa": 15160,
     "nla": 10900,
     "gross_revenue": 3400000,
-    "occupancy_rate": 65.1
+    "occupancy_rate": 65.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -371,7 +387,8 @@
     "gfa": 13436,
     "nla": 10155,
     "gross_revenue": 5200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -393,7 +410,8 @@
     "gfa": 78871,
     "nla": 78871,
     "gross_revenue": 35600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -415,7 +433,8 @@
     "gfa": 25534,
     "nla": 22488,
     "gross_revenue": 7600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -437,7 +456,8 @@
     "gfa": 29155,
     "nla": 20733,
     "gross_revenue": 11400000,
-    "occupancy_rate": 89.9
+    "occupancy_rate": 89.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -459,7 +479,8 @@
     "gfa": 28602,
     "nla": 20712,
     "gross_revenue": 10700000,
-    "occupancy_rate": 75.5
+    "occupancy_rate": 75.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -481,7 +502,8 @@
     "gfa": 11613,
     "nla": 11613,
     "gross_revenue": 6300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -503,7 +525,8 @@
     "gfa": 36931,
     "nla": 28603,
     "gross_revenue": 29000000,
-    "occupancy_rate": 99.9
+    "occupancy_rate": 99.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -525,7 +548,8 @@
     "gfa": 46150,
     "nla": 37532,
     "gross_revenue": 33200000,
-    "occupancy_rate": 92.0
+    "occupancy_rate": 92.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -547,7 +571,8 @@
     "gfa": 26892,
     "nla": 19046,
     "gross_revenue": 6100000,
-    "occupancy_rate": 60.3
+    "occupancy_rate": 60.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -569,7 +594,8 @@
     "gfa": 25622,
     "nla": 18333,
     "gross_revenue": 9700000,
-    "occupancy_rate": 75.4
+    "occupancy_rate": 75.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -591,7 +617,8 @@
     "gfa": 49868,
     "nla": 37004,
     "gross_revenue": 16600000,
-    "occupancy_rate": 78.6
+    "occupancy_rate": 78.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -613,7 +640,8 @@
     "gfa": 30632,
     "nla": 22442,
     "gross_revenue": 17600000,
-    "occupancy_rate": 94.1
+    "occupancy_rate": 94.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -635,7 +663,8 @@
     "gfa": 20190,
     "nla": 17064,
     "gross_revenue": 13300000,
-    "occupancy_rate": 84.9
+    "occupancy_rate": 84.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -657,7 +686,8 @@
     "gfa": 49832,
     "nla": 36294,
     "gross_revenue": 17300000,
-    "occupancy_rate": 95.4
+    "occupancy_rate": 95.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -679,7 +709,8 @@
     "gfa": 36529,
     "nla": 28089,
     "gross_revenue": 11900000,
-    "occupancy_rate": 89.3
+    "occupancy_rate": 89.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -701,7 +732,8 @@
     "gfa": 27278,
     "nla": 27278,
     "gross_revenue": 11000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -723,7 +755,8 @@
     "gfa": 56107,
     "nla": 40339,
     "gross_revenue": 14300000,
-    "occupancy_rate": 80.1
+    "occupancy_rate": 80.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -745,7 +778,8 @@
     "gfa": 19638,
     "nla": 13560,
     "gross_revenue": 5800000,
-    "occupancy_rate": 98.1
+    "occupancy_rate": 98.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -767,7 +801,8 @@
     "gfa": 25718,
     "nla": 19573,
     "gross_revenue": 7200000,
-    "occupancy_rate": 91.6
+    "occupancy_rate": 91.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -789,7 +824,8 @@
     "gfa": 51103,
     "nla": 38616,
     "gross_revenue": 19800000,
-    "occupancy_rate": 96.3
+    "occupancy_rate": 96.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -811,7 +847,8 @@
     "gfa": 7158,
     "nla": 6071,
     "gross_revenue": 2500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -851,7 +888,8 @@
     "gfa": 29626,
     "nla": 26239,
     "gross_revenue": 13800000,
-    "occupancy_rate": 84.5
+    "occupancy_rate": 84.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -873,7 +911,8 @@
     "gfa": 26300,
     "nla": 20939,
     "gross_revenue": 2900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -895,7 +934,8 @@
     "gfa": 9797,
     "nla": 8671,
     "gross_revenue": 200000,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -917,7 +957,8 @@
     "gfa": 74988,
     "nla": 56357,
     "gross_revenue": 16800000,
-    "occupancy_rate": 73.4
+    "occupancy_rate": 73.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -957,7 +998,8 @@
     "gfa": 43435,
     "nla": 35568,
     "gross_revenue": 19800000,
-    "occupancy_rate": 91.9
+    "occupancy_rate": 91.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -979,7 +1021,8 @@
     "gfa": 18970,
     "nla": 18970,
     "gross_revenue": 7300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1019,7 +1062,8 @@
     "gfa": 85021,
     "nla": 59524,
     "gross_revenue": 15500000,
-    "occupancy_rate": 98.4
+    "occupancy_rate": 98.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1041,7 +1085,8 @@
     "gfa": 115162,
     "nla": 83200,
     "gross_revenue": 21300000,
-    "occupancy_rate": 97.4
+    "occupancy_rate": 97.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1063,7 +1108,8 @@
     "gfa": 17676,
     "nla": 15068,
     "gross_revenue": 3300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1085,7 +1131,8 @@
     "gfa": 19887,
     "nla": 16593,
     "gross_revenue": 3200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1107,7 +1154,8 @@
     "gfa": 13699,
     "nla": 12803,
     "gross_revenue": 5400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1129,7 +1177,8 @@
     "gfa": 12930,
     "nla": 11359,
     "gross_revenue": 3100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1151,7 +1200,8 @@
     "gfa": 8931,
     "nla": 8931,
     "gross_revenue": 900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1173,7 +1223,8 @@
     "gfa": 12358,
     "nla": 10071,
     "gross_revenue": 3700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1195,7 +1246,8 @@
     "gfa": 14929,
     "nla": 11723,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1217,7 +1269,8 @@
     "gfa": 14767,
     "nla": 11044,
     "gross_revenue": 3900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1239,7 +1292,8 @@
     "gfa": 18086,
     "nla": 14551,
     "gross_revenue": 3500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1261,7 +1315,8 @@
     "gfa": 6505,
     "nla": 6430,
     "gross_revenue": 900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1283,7 +1338,8 @@
     "gfa": 12011,
     "nla": 10178,
     "gross_revenue": 3800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1305,7 +1361,8 @@
     "gfa": 17857,
     "nla": 16744,
     "gross_revenue": 4200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1327,7 +1384,8 @@
     "gfa": 7772,
     "nla": 7771,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1349,7 +1407,8 @@
     "gfa": 12978,
     "nla": 10631,
     "gross_revenue": 2900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1371,7 +1430,8 @@
     "gfa": 23467,
     "nla": 17619,
     "gross_revenue": 7100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1393,7 +1453,8 @@
     "gfa": 18422,
     "nla": 16056,
     "gross_revenue": 7800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1415,7 +1476,8 @@
     "gfa": 3014,
     "nla": 2959,
     "gross_revenue": 500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1437,7 +1499,8 @@
     "gfa": 2919,
     "nla": 2919,
     "gross_revenue": 600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1459,7 +1522,8 @@
     "gfa": 43362,
     "nla": 44439,
     "gross_revenue": 12300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1481,7 +1545,8 @@
     "gfa": 23826,
     "nla": 17638,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1503,7 +1568,8 @@
     "gfa": 86692,
     "nla": 70422,
     "gross_revenue": 50100000,
-    "occupancy_rate": 91.1
+    "occupancy_rate": 91.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1525,7 +1591,8 @@
     "gfa": 17097,
     "nla": 13877,
     "gross_revenue": 7200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1547,7 +1614,8 @@
     "gfa": 37980,
     "nla": 28995,
     "gross_revenue": 13000000,
-    "occupancy_rate": 99.2
+    "occupancy_rate": 99.2,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1568,7 +1636,8 @@
     "source_page": 120,
     "gfa": 56879,
     "nla": 60487,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1589,7 +1658,8 @@
     "source_page": 120,
     "gfa": 36308,
     "nla": 36308,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1611,7 +1681,8 @@
     "gfa": 40026,
     "nla": 24610,
     "gross_revenue": 5700000,
-    "occupancy_rate": 5.1
+    "occupancy_rate": 5.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1633,7 +1704,8 @@
     "gfa": 35456,
     "nla": 35456,
     "gross_revenue": 11700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1655,7 +1727,8 @@
     "gfa": 33745,
     "nla": 32885,
     "gross_revenue": 10900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1677,7 +1750,8 @@
     "gfa": 20307,
     "nla": 6968,
     "gross_revenue": 29800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1699,7 +1773,8 @@
     "gfa": 44449,
     "nla": 40990,
     "gross_revenue": 9800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1721,7 +1796,8 @@
     "gfa": 39078,
     "nla": 30177,
     "gross_revenue": 6700000,
-    "occupancy_rate": 94.3
+    "occupancy_rate": 94.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1743,7 +1819,8 @@
     "gfa": 54741,
     "nla": 43915,
     "gross_revenue": 12200000,
-    "occupancy_rate": 98.7
+    "occupancy_rate": 98.7,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1765,7 +1842,8 @@
     "gfa": 18885,
     "nla": 15611,
     "gross_revenue": 3200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1787,7 +1865,8 @@
     "gfa": 160939,
     "nla": 151893,
     "gross_revenue": 28500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1809,7 +1888,8 @@
     "gfa": 24313,
     "nla": 21315,
     "gross_revenue": 5000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1831,7 +1911,8 @@
     "gfa": 5338,
     "nla": 5085,
     "gross_revenue": 700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1853,7 +1934,8 @@
     "gfa": 18619,
     "nla": 15764,
     "gross_revenue": 3800000,
-    "occupancy_rate": 96.1
+    "occupancy_rate": 96.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1893,7 +1975,8 @@
     "gfa": 18708,
     "nla": 13315,
     "gross_revenue": 3900000,
-    "occupancy_rate": 96.8
+    "occupancy_rate": 96.8,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1933,7 +2016,8 @@
     "gfa": 25768,
     "nla": 23706,
     "gross_revenue": 6800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -1981,7 +2065,8 @@
     "gfa": 13381,
     "nla": 11441,
     "gross_revenue": 3800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2003,7 +2088,8 @@
     "gfa": 31961,
     "nla": 28974,
     "gross_revenue": 4500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2025,7 +2111,8 @@
     "gfa": 91392,
     "nla": 80498,
     "gross_revenue": 31800000,
-    "occupancy_rate": 99.3
+    "occupancy_rate": 99.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2047,7 +2134,8 @@
     "gfa": 12756,
     "nla": 11003,
     "gross_revenue": 3000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2069,7 +2157,8 @@
     "gfa": 26277,
     "nla": 26277,
     "gross_revenue": 6700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2091,7 +2180,8 @@
     "gfa": 28410,
     "nla": 28410,
     "gross_revenue": 8000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2113,7 +2203,8 @@
     "gfa": 42219,
     "nla": 42178,
     "gross_revenue": 9600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2135,7 +2226,8 @@
     "gfa": 50919,
     "nla": 46998,
     "gross_revenue": 1700000,
-    "occupancy_rate": 64.8
+    "occupancy_rate": 64.8,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2157,7 +2249,8 @@
     "gfa": 60008,
     "nla": 55731,
     "gross_revenue": 17600000,
-    "occupancy_rate": 99.6
+    "occupancy_rate": 99.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2178,7 +2271,8 @@
     "source_page": 121,
     "gfa": 70326,
     "nla": 67731,
-    "occupancy_rate": 99.6
+    "occupancy_rate": 99.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2202,7 +2296,8 @@
     "gfa": 13304,
     "nla": 13304,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2226,7 +2321,8 @@
     "gfa": 25256,
     "nla": 25256,
     "gross_revenue": 3800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2250,7 +2346,8 @@
     "gfa": 21703,
     "nla": 21703,
     "gross_revenue": 3800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2274,7 +2371,8 @@
     "gfa": 51709,
     "nla": 51709,
     "gross_revenue": 9200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2298,7 +2396,8 @@
     "gfa": 10732,
     "nla": 10732,
     "gross_revenue": 2900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2322,7 +2421,8 @@
     "gfa": 19918,
     "nla": 19918,
     "gross_revenue": 1600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2346,7 +2446,8 @@
     "gfa": 23205,
     "nla": 23205,
     "gross_revenue": 3600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2370,7 +2471,8 @@
     "gfa": 21143,
     "nla": 21143,
     "gross_revenue": 2400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2394,7 +2496,8 @@
     "gfa": 13513,
     "nla": 13513,
     "gross_revenue": 2600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2418,7 +2521,8 @@
     "gfa": 38579,
     "nla": 38579,
     "gross_revenue": 1500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2442,7 +2546,8 @@
     "gfa": 13114,
     "nla": 13114,
     "gross_revenue": 1700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2466,7 +2571,8 @@
     "gfa": 44036,
     "nla": 44036,
     "gross_revenue": 4700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2490,7 +2596,8 @@
     "gfa": 28037,
     "nla": 28037,
     "gross_revenue": 2700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2514,7 +2621,8 @@
     "gfa": 28224,
     "nla": 28224,
     "gross_revenue": 2500000,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2538,7 +2646,8 @@
     "gfa": 32167,
     "nla": 32167,
     "gross_revenue": 3100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2562,7 +2671,8 @@
     "gfa": 17513,
     "nla": 17513,
     "gross_revenue": 1700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2586,7 +2696,8 @@
     "gfa": 14103,
     "nla": 14103,
     "gross_revenue": 800000,
-    "occupancy_rate": 56.3
+    "occupancy_rate": 56.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2610,7 +2721,8 @@
     "gfa": 24158,
     "nla": 24158,
     "gross_revenue": 2700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2634,7 +2746,8 @@
     "gfa": 44540,
     "nla": 44540,
     "gross_revenue": 3600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2658,7 +2771,8 @@
     "gfa": 23252,
     "nla": 23252,
     "gross_revenue": 2400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2682,7 +2796,8 @@
     "gfa": 18040,
     "nla": 18040,
     "gross_revenue": 2100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2706,7 +2821,8 @@
     "gfa": 31035,
     "nla": 31035,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2748,7 +2864,8 @@
     "gfa": 14592,
     "nla": 14592,
     "gross_revenue": 1500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2772,7 +2889,8 @@
     "gfa": 17907,
     "nla": 17907,
     "gross_revenue": 1000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2796,7 +2914,8 @@
     "gfa": 8139,
     "nla": 8139,
     "gross_revenue": 2100000,
-    "occupancy_rate": 84.3
+    "occupancy_rate": 84.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2820,7 +2939,8 @@
     "gfa": 38711,
     "nla": 38711,
     "gross_revenue": 3800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2844,7 +2964,8 @@
     "gfa": 20895,
     "nla": 20895,
     "gross_revenue": 2900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2868,7 +2989,8 @@
     "gfa": 22402,
     "nla": 22402,
     "gross_revenue": 9900000,
-    "occupancy_rate": 92.3
+    "occupancy_rate": 92.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2892,7 +3014,8 @@
     "gfa": 38596,
     "nla": 38596,
     "gross_revenue": 16800000,
-    "occupancy_rate": 95.3
+    "occupancy_rate": 95.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2916,7 +3039,8 @@
     "gfa": 19269,
     "nla": 19269,
     "gross_revenue": 9900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2940,7 +3064,8 @@
     "gfa": 12959,
     "nla": 12959,
     "gross_revenue": 6200000,
-    "occupancy_rate": 88.7
+    "occupancy_rate": 88.7,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2964,7 +3089,8 @@
     "gfa": 11839,
     "nla": 11839,
     "gross_revenue": 3800000,
-    "occupancy_rate": 74.9
+    "occupancy_rate": 74.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -2988,7 +3114,8 @@
     "gfa": 17646,
     "nla": 17646,
     "gross_revenue": 6200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3012,7 +3139,8 @@
     "gfa": 13016,
     "nla": 13016,
     "gross_revenue": 1700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3036,7 +3164,8 @@
     "gfa": 47298,
     "nla": 47298,
     "gross_revenue": 2500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3060,7 +3189,8 @@
     "gfa": 2785,
     "nla": 2785,
     "gross_revenue": 200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3102,7 +3232,8 @@
     "gfa": 7880,
     "nla": 7880,
     "gross_revenue": 1000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3126,7 +3257,8 @@
     "gfa": 8388,
     "nla": 8388,
     "gross_revenue": 800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3150,7 +3282,8 @@
     "gfa": 35104,
     "nla": 35104,
     "gross_revenue": 3100000,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3174,7 +3307,8 @@
     "gfa": 8432,
     "nla": 8432,
     "gross_revenue": 700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3198,7 +3332,8 @@
     "gfa": 20611,
     "nla": 20611,
     "gross_revenue": 2400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3222,7 +3357,8 @@
     "gfa": 7803,
     "nla": 7601,
     "gross_revenue": 1500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3246,7 +3382,8 @@
     "gfa": 12025,
     "nla": 12025,
     "gross_revenue": 1500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3270,7 +3407,8 @@
     "gfa": 15994,
     "nla": 15994,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3294,7 +3432,8 @@
     "gfa": 25701,
     "nla": 25701,
     "gross_revenue": 1900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3318,7 +3457,8 @@
     "gfa": 24929,
     "nla": 24929,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3342,7 +3482,8 @@
     "gfa": 28917,
     "nla": 26074,
     "gross_revenue": 2400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3366,7 +3507,8 @@
     "gfa": 1233,
     "nla": 1233,
     "gross_revenue": 200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3390,7 +3532,8 @@
     "gfa": 21499,
     "nla": 21499,
     "gross_revenue": 3000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3414,7 +3557,8 @@
     "gfa": 6265,
     "nla": 6265,
     "gross_revenue": 600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3438,7 +3582,8 @@
     "gfa": 5037,
     "nla": 5037,
     "gross_revenue": 500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3462,7 +3607,8 @@
     "gfa": 5045,
     "nla": 5045,
     "gross_revenue": 500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3486,7 +3632,8 @@
     "gfa": 21243,
     "nla": 21243,
     "gross_revenue": 2700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3510,7 +3657,8 @@
     "gfa": 12282,
     "nla": 12282,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3534,7 +3682,8 @@
     "gfa": 19552,
     "nla": 19552,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3558,7 +3707,8 @@
     "gfa": 4774,
     "nla": 4774,
     "gross_revenue": 700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3582,7 +3732,8 @@
     "gfa": 6146,
     "nla": 6146,
     "gross_revenue": 800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3606,7 +3757,8 @@
     "gfa": 8759,
     "nla": 8759,
     "gross_revenue": 1100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3630,7 +3782,8 @@
     "gfa": 5618,
     "nla": 5618,
     "gross_revenue": 700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3654,7 +3807,8 @@
     "gfa": 9887,
     "nla": 9887,
     "gross_revenue": 1200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3678,7 +3832,8 @@
     "gfa": 1598,
     "nla": 1598,
     "gross_revenue": 200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3702,7 +3857,8 @@
     "gfa": 971,
     "nla": 971,
     "gross_revenue": 100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3726,7 +3882,8 @@
     "gfa": 891,
     "nla": 891,
     "gross_revenue": 100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3750,7 +3907,8 @@
     "gfa": 891,
     "nla": 891,
     "gross_revenue": 200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3774,7 +3932,8 @@
     "gfa": 2335,
     "nla": 2335,
     "gross_revenue": 300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3798,7 +3957,8 @@
     "gfa": 3064,
     "nla": 3064,
     "gross_revenue": 400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3822,7 +3982,8 @@
     "gfa": 23454,
     "nla": 23454,
     "gross_revenue": 1400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3846,7 +4007,8 @@
     "gfa": 14065,
     "nla": 14065,
     "gross_revenue": 1900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3870,7 +4032,8 @@
     "gfa": 18341,
     "nla": 18341,
     "gross_revenue": 1200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3894,7 +4057,8 @@
     "gfa": 11549,
     "nla": 11549,
     "gross_revenue": 1000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3918,7 +4082,8 @@
     "gfa": 12868,
     "nla": 5132,
     "gross_revenue": 26300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3942,7 +4107,8 @@
     "gfa": 4921,
     "nla": 1953,
     "gross_revenue": 11000000,
-    "occupancy_rate": 68.0
+    "occupancy_rate": 68.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3966,7 +4132,8 @@
     "gfa": 10720,
     "nla": 6981,
     "gross_revenue": 45200000,
-    "occupancy_rate": 67.1
+    "occupancy_rate": 67.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -3990,7 +4157,8 @@
     "gfa": 4871,
     "nla": 3532,
     "gross_revenue": 7500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4014,7 +4182,8 @@
     "gfa": 11069,
     "nla": 6182,
     "gross_revenue": 7100000,
-    "occupancy_rate": 75.1
+    "occupancy_rate": 75.1,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4038,7 +4207,8 @@
     "gfa": 5254,
     "nla": 5254,
     "gross_revenue": 2000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4062,7 +4232,8 @@
     "gfa": 5683,
     "nla": 5683,
     "gross_revenue": 7000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4086,7 +4257,8 @@
     "gfa": 10406,
     "nla": 9714,
     "gross_revenue": 6500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4110,7 +4282,8 @@
     "gfa": 2136,
     "nla": 1982,
     "gross_revenue": 0,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4134,7 +4307,8 @@
     "gfa": 5838,
     "nla": 5573,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4158,7 +4332,8 @@
     "gfa": 6114,
     "nla": 6114,
     "gross_revenue": 2800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4182,7 +4357,8 @@
     "gfa": 16051,
     "nla": 16051,
     "gross_revenue": 6600000,
-    "occupancy_rate": 64.4
+    "occupancy_rate": 64.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4206,7 +4382,8 @@
     "gfa": 29543,
     "nla": 29543,
     "gross_revenue": 15100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4230,7 +4407,8 @@
     "gfa": 6500,
     "nla": 6500,
     "gross_revenue": 3700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4254,7 +4432,8 @@
     "gfa": 4497,
     "nla": 4497,
     "gross_revenue": 2200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4278,7 +4457,8 @@
     "gfa": 16553,
     "nla": 16553,
     "gross_revenue": 6600000,
-    "occupancy_rate": 64.5
+    "occupancy_rate": 64.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4302,7 +4482,8 @@
     "gfa": 6391,
     "nla": 6391,
     "gross_revenue": 3300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4326,7 +4507,8 @@
     "gfa": 9536,
     "nla": 9508,
     "gross_revenue": 5500000,
-    "occupancy_rate": 85.2
+    "occupancy_rate": 85.2,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4350,7 +4532,8 @@
     "gfa": 13935,
     "nla": 13935,
     "gross_revenue": 21900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4374,7 +4557,8 @@
     "gfa": 27437,
     "nla": 27437,
     "gross_revenue": 37200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4398,7 +4582,8 @@
     "gfa": 30555,
     "nla": 29478,
     "gross_revenue": 8700000,
-    "occupancy_rate": 63.4
+    "occupancy_rate": 63.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4422,7 +4607,8 @@
     "gfa": 19356,
     "nla": 18865,
     "gross_revenue": 6800000,
-    "occupancy_rate": 87.4
+    "occupancy_rate": 87.4,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4446,7 +4632,8 @@
     "gfa": 19940,
     "nla": 19238,
     "gross_revenue": 1800000,
-    "occupancy_rate": 30.6
+    "occupancy_rate": 30.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4470,7 +4657,8 @@
     "gfa": 23959,
     "nla": 22863,
     "gross_revenue": 8000000,
-    "occupancy_rate": 94.5
+    "occupancy_rate": 94.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4494,7 +4682,8 @@
     "gfa": 18569,
     "nla": 16918,
     "gross_revenue": 1100000,
-    "occupancy_rate": 18.7
+    "occupancy_rate": 18.7,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4518,7 +4707,8 @@
     "gfa": 15899,
     "nla": 15899,
     "gross_revenue": 3000000,
-    "occupancy_rate": 55.5
+    "occupancy_rate": 55.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4542,7 +4732,8 @@
     "gfa": 6479,
     "nla": 6479,
     "gross_revenue": 2000000,
-    "occupancy_rate": 84.3
+    "occupancy_rate": 84.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4566,7 +4757,8 @@
     "gfa": 7190,
     "nla": 7190,
     "gross_revenue": 2200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4590,7 +4782,8 @@
     "gfa": 8795,
     "nla": 8733,
     "gross_revenue": 2000000,
-    "occupancy_rate": 72.5
+    "occupancy_rate": 72.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4614,7 +4807,8 @@
     "gfa": 11762,
     "nla": 11762,
     "gross_revenue": 3300000,
-    "occupancy_rate": 88.8
+    "occupancy_rate": 88.8,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4638,7 +4832,8 @@
     "gfa": 5030,
     "nla": 5030,
     "gross_revenue": 1800000,
-    "occupancy_rate": 93.9
+    "occupancy_rate": 93.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4662,7 +4857,8 @@
     "gfa": 1837,
     "nla": 1837,
     "gross_revenue": 600000,
-    "occupancy_rate": 88.6
+    "occupancy_rate": 88.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4686,7 +4882,8 @@
     "gfa": 4997,
     "nla": 4997,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4710,7 +4907,8 @@
     "gfa": 6085,
     "nla": 6085,
     "gross_revenue": 2000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4734,7 +4932,8 @@
     "gfa": 5822,
     "nla": 4463,
     "gross_revenue": 1500000,
-    "occupancy_rate": 80.5
+    "occupancy_rate": 80.5,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4758,7 +4957,8 @@
     "gfa": 7025,
     "nla": 6916,
     "gross_revenue": 1900000,
-    "occupancy_rate": 59.9
+    "occupancy_rate": 59.9,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4782,7 +4982,8 @@
     "gfa": 3805,
     "nla": 3805,
     "gross_revenue": 500000,
-    "occupancy_rate": 31.2
+    "occupancy_rate": 31.2,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4806,7 +5007,8 @@
     "gfa": 4382,
     "nla": 4382,
     "gross_revenue": 0,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4866,7 +5068,8 @@
     "gfa": 8754,
     "nla": 8754,
     "gross_revenue": 9200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4890,7 +5093,8 @@
     "gfa": 16259,
     "nla": 16259,
     "gross_revenue": 1300000,
-    "occupancy_rate": 16.3
+    "occupancy_rate": 16.3,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4914,7 +5118,8 @@
     "gfa": 32337,
     "nla": 32337,
     "gross_revenue": 3700000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4938,7 +5143,8 @@
     "gfa": 6800,
     "nla": 6800,
     "gross_revenue": 500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4962,7 +5168,8 @@
     "gfa": 15946,
     "nla": 15946,
     "gross_revenue": 1300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -4986,7 +5193,8 @@
     "gfa": 11066,
     "nla": 11066,
     "gross_revenue": 1300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5010,7 +5218,8 @@
     "gfa": 23826,
     "nla": 23826,
     "gross_revenue": 2200000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5034,7 +5243,8 @@
     "gfa": 28935,
     "nla": 28935,
     "gross_revenue": 1500000,
-    "occupancy_rate": 48.6
+    "occupancy_rate": 48.6,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5058,7 +5268,8 @@
     "gfa": 11100,
     "nla": 11100,
     "gross_revenue": 1000000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5082,7 +5293,8 @@
     "gfa": 22125,
     "nla": 22125,
     "gross_revenue": 1900000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5106,7 +5318,8 @@
     "gfa": 18580,
     "nla": 18580,
     "gross_revenue": 800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5130,7 +5343,8 @@
     "gfa": 13961,
     "nla": 13961,
     "gross_revenue": 1600000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5154,7 +5368,8 @@
     "gfa": 9385,
     "nla": 9385,
     "gross_revenue": 1100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5178,7 +5393,8 @@
     "gfa": 4116,
     "nla": 4116,
     "gross_revenue": 0,
-    "occupancy_rate": 0.0
+    "occupancy_rate": 0.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5202,7 +5418,8 @@
     "gfa": 10966,
     "nla": 10966,
     "gross_revenue": 1400000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5226,7 +5443,8 @@
     "gfa": 34398,
     "nla": 34398,
     "gross_revenue": 3300000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5250,7 +5468,8 @@
     "gfa": 4020,
     "nla": 4020,
     "gross_revenue": 500000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5274,7 +5493,8 @@
     "gfa": 15615,
     "nla": 15615,
     "gross_revenue": 1800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5298,7 +5518,8 @@
     "gfa": 53844,
     "nla": 53844,
     "gross_revenue": 4800000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   },
   {
     "symbol": "A17U.SI",
@@ -5322,6 +5543,7 @@
     "gfa": 91012,
     "nla": 91012,
     "gross_revenue": 12100000,
-    "occupancy_rate": 100.0
+    "occupancy_rate": 100.0,
+    "area_unit": "sqm"
   }
 ]

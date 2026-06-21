@@ -64,6 +64,7 @@ PROPERTY_CATEGORY_ALIASES = {
 
 LandTenure = Literal["Freehold", "Leasehold"]
 PropertyStatus = Literal["active", "divested", "held_for_sale"]
+AreaUnit = Literal["sqft", "sqm"]
 Statement = Literal["revenue", "expense", "adjustment"]
 
 
@@ -127,7 +128,16 @@ class Property(BaseModel):
         None, description="carrying value from the audited financial statements / "
         "portfolio statement, absolute units (NOT $'000)")
     valuation_date: Optional[str] = Field(None, description="FS valuation date YYYY-MM-DD")
-    currency: Optional[str] = None
+    currency: Optional[str] = Field(
+        None, description="presentation currency of market_valuation (as the audited statement "
+        "reports it). PROOFREAD layer = as-reported; prod normalizes to SGD at load.")
+    original_currency: Optional[str] = Field(
+        None, description="AUDIT TRAIL — the asset's local/transacting currency when the report "
+        "discloses the figure in a currency other than the presentation one (e.g. RMB for a "
+        "China mall reported in SGD). null when the report gives only one currency.")
+    original_value: Optional[float] = Field(
+        None, description="AUDIT TRAIL — market_valuation in original_currency, absolute units. "
+        "Do NOT convert/derive; only when the report prints the local-currency figure.")
     net_property_income: Optional[float] = Field(None, description="as-disclosed only")
     gross_revenue: Optional[float] = None
     npi_pct: Optional[float] = Field(
@@ -146,6 +156,10 @@ class Property(BaseModel):
     gfa: Optional[float] = Field(
         None, description="gross floor area — the built floor area (NOT lettable area); keep "
         "separate from gla/nla. Many cards disclose GFA, not GLA.")
+    area_unit: Optional[AreaUnit] = Field(
+        None, description="AUDIT TRAIL — unit of gla/nla/gfa as the report discloses it "
+        "('sqft' or 'sqm'). Store the as-reported unit; do NOT convert. Required whenever any "
+        "of gla/nla/gfa is set. Prod normalizes all areas to sqft at load (sqm x 10.7639).")
     land_tenure: Optional[LandTenure] = Field(
         None, description="Freehold or Leasehold ONLY; verbatim wording -> tenure_raw")
     effective_date: Optional[str] = Field(None, description="land-lease start YYYY-MM-DD")

@@ -15,13 +15,40 @@
     "gross_revenue": null,
     "npi_pct": null,
     "occupancy_rate": 100.0,
-    "trade_mix": {"Fashion (Domestic)": 47.0, "Sports": 20.0, "International Brands": 16.0, "Children's Wear": 9.0, "Shoes & Leather": 4.0, "Others": 4.0},
+    "trade_mix": {
+      "Fashion (Domestic)": 47.0,
+      "Sports": 20.0,
+      "International Brands": 16.0,
+      "Children's Wear": 9.0,
+      "Shoes & Leather": 4.0,
+      "Others": 4.0
+    },
     "major_tenants": [
-      {"name": "Nike", "industry": null, "pct": null},
-      {"name": "Bosideng", "industry": null, "pct": null},
-      {"name": "POLOWalk", "industry": null, "pct": null},
-      {"name": "Adidas", "industry": null, "pct": null},
-      {"name": "FILA", "industry": null, "pct": null}
+      {
+        "name": "Nike",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Bosideng",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "POLOWalk",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Adidas",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "FILA",
+        "industry": null,
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": 50885.0,
@@ -35,8 +62,10 @@
     "flags": [],
     "source_page": 159,
     "value_basis": "consolidated",
-    "_rmb_valuation_000": 3270000,
-    "_ema_rental_income_rmb_million": 312.8
+    "_ema_rental_income_rmb_million": 312.8,
+    "original_currency": "RMB",
+    "original_value": 3270000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "CRPU.SI",
@@ -54,13 +83,40 @@
     "gross_revenue": null,
     "npi_pct": null,
     "occupancy_rate": 99.4,
-    "trade_mix": {"Fashion (Domestic)": 46.0, "Sports": 30.0, "Children's Wear": 9.0, "International Brands": 8.0, "Food & Beverage": 2.0, "Others": 5.0},
+    "trade_mix": {
+      "Fashion (Domestic)": 46.0,
+      "Sports": 30.0,
+      "Children's Wear": 9.0,
+      "International Brands": 8.0,
+      "Food & Beverage": 2.0,
+      "Others": 5.0
+    },
     "major_tenants": [
-      {"name": "POLOWalk", "industry": null, "pct": null},
-      {"name": "Anta", "industry": null, "pct": null},
-      {"name": "Lining", "industry": null, "pct": null},
-      {"name": "QIAODAN", "industry": null, "pct": null},
-      {"name": "Bosideng", "industry": null, "pct": null}
+      {
+        "name": "POLOWalk",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Anta",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Lining",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "QIAODAN",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Bosideng",
+        "industry": null,
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": 44706.0,
@@ -74,8 +130,10 @@
     "flags": [],
     "source_page": 159,
     "value_basis": "consolidated",
-    "_rmb_valuation_000": 761000,
-    "_ema_rental_income_rmb_million": 60.7
+    "_ema_rental_income_rmb_million": 60.7,
+    "original_currency": "RMB",
+    "original_value": 761000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "CRPU.SI",
@@ -93,13 +151,40 @@
     "gross_revenue": null,
     "npi_pct": null,
     "occupancy_rate": 98.2,
-    "trade_mix": {"Fashion (Domestic)": 48.0, "International Brands": 16.0, "Sports": 14.0, "Food & Beverage": 7.0, "Shoes & Leather": 4.0, "Others": 11.0},
+    "trade_mix": {
+      "Fashion (Domestic)": 48.0,
+      "International Brands": 16.0,
+      "Sports": 14.0,
+      "Food & Beverage": 7.0,
+      "Shoes & Leather": 4.0,
+      "Others": 11.0
+    },
     "major_tenants": [
-      {"name": "POLOWalk", "industry": null, "pct": null},
-      {"name": "Hazzys", "industry": null, "pct": null},
-      {"name": "Bosideng", "industry": null, "pct": null},
-      {"name": "Peacebird", "industry": null, "pct": null},
-      {"name": "Coach", "industry": null, "pct": null}
+      {
+        "name": "POLOWalk",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Hazzys",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Bosideng",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Peacebird",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Coach",
+        "industry": null,
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": 144583.0,
@@ -113,8 +198,10 @@
     "flags": [],
     "source_page": 159,
     "value_basis": "consolidated",
-    "_rmb_valuation_000": 2774000,
-    "_ema_rental_income_rmb_million": 189.4
+    "_ema_rental_income_rmb_million": 189.4,
+    "original_currency": "RMB",
+    "original_value": 2774000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "CRPU.SI",
@@ -132,13 +219,40 @@
     "gross_revenue": null,
     "npi_pct": null,
     "occupancy_rate": 98.4,
-    "trade_mix": {"Fashion (Domestic)": 41.0, "Sports": 26.0, "International Brands": 14.0, "Children's Wear": 8.0, "Shoes & Leather": 3.0, "Others": 8.0},
+    "trade_mix": {
+      "Fashion (Domestic)": 41.0,
+      "Sports": 26.0,
+      "International Brands": 14.0,
+      "Children's Wear": 8.0,
+      "Shoes & Leather": 3.0,
+      "Others": 8.0
+    },
     "major_tenants": [
-      {"name": "Lining", "industry": null, "pct": null},
-      {"name": "Anta", "industry": null, "pct": null},
-      {"name": "POLOWalk", "industry": null, "pct": null},
-      {"name": "Bosideng", "industry": null, "pct": null},
-      {"name": "+39 Space", "industry": null, "pct": null}
+      {
+        "name": "Lining",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Anta",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "POLOWalk",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "Bosideng",
+        "industry": null,
+        "pct": null
+      },
+      {
+        "name": "+39 Space",
+        "industry": null,
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": 70067.0,
@@ -152,7 +266,9 @@
     "flags": [],
     "source_page": 159,
     "value_basis": "consolidated",
-    "_rmb_valuation_000": 1558000,
-    "_ema_rental_income_rmb_million": 119.4
+    "_ema_rental_income_rmb_million": 119.4,
+    "original_currency": "RMB",
+    "original_value": 1558000000,
+    "area_unit": "sqm"
   }
 ]

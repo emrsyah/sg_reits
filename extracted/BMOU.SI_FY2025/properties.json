@@ -31,8 +31,10 @@
         "note": "Trust owns 60.0% but the asset is consolidated at 100% in the audited Portfolio Statement and financial-review tables; figures shown are 100% basis. RMB valuation 2,507,000'000."
       }
     ],
-    "_rmb_valuation_000": 2507000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 2507000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BMOU.SI",
@@ -59,8 +61,10 @@
     "lease_expiry_date": "2047-05-23",
     "tenure_raw": "Term of lease 32 years; remaining term 21 years (51 years remaining for underground car parking use); land use right expiring 23 May 2047 (23 May 2077 for car park)",
     "status": "active",
-    "_rmb_valuation_000": 720000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 720000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BMOU.SI",
@@ -87,8 +91,10 @@
     "lease_expiry_date": "2044-08-31",
     "tenure_raw": "Term of lease 30 years; remaining term 19 years; land use right expiring 31 Aug 2044",
     "status": "active",
-    "_rmb_valuation_000": 589000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 589000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BMOU.SI",
@@ -115,8 +121,10 @@
     "lease_expiry_date": "2043-04-30",
     "tenure_raw": "Term of lease 30 years; remaining term 17 years; land use right expiring 30 April 2043",
     "status": "active",
-    "_rmb_valuation_000": 481000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 481000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BMOU.SI",
@@ -156,8 +164,10 @@
         "note": "Master-leased to Beijing Hualian Life Supermarket Co., Ltd."
       }
     ],
-    "_rmb_valuation_000": 251000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 251000000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BMOU.SI",
@@ -197,7 +207,9 @@
         "note": "Master-leased to Beijing Hualian Life Supermarket Co., Ltd."
       }
     ],
-    "_rmb_valuation_000": 146000,
-    "source_page": 131
+    "source_page": 131,
+    "original_currency": "RMB",
+    "original_value": 146000000,
+    "area_unit": "sqm"
   }
 ]

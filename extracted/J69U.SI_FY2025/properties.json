@@ -24,7 +24,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -51,7 +52,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -105,7 +107,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -132,7 +135,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -159,7 +163,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -186,7 +191,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -213,7 +219,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -240,7 +247,8 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -300,7 +308,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqft"
   },
   {
     "symbol": "J69U.SI",
@@ -327,6 +336,7 @@
     "status": "active",
     "value_basis": "joint_venture_100pct",
     "source_page": 68,
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   }
 ]

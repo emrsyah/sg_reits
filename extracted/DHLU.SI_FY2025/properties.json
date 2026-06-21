@@ -32,7 +32,8 @@
     "_npi_unit": "JPY absolute (JPY 568 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 801 million x 1,000,000)",
     "category_raw": "Industrial",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -67,7 +68,8 @@
     "_npi_unit": "JPY absolute (JPY 246 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 436 million x 1,000,000)",
     "category_raw": "Industrial",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -102,7 +104,8 @@
     "_npi_unit": "JPY absolute (JPY 236 million x 1,000,000)",
     "_gross_rev_unit": "JPY absolute (JPY 323 million x 1,000,000)",
     "category_raw": "Industrial",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -142,7 +145,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -182,7 +186,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -222,7 +227,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -262,7 +268,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -303,7 +310,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -343,7 +351,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -383,7 +392,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -424,7 +434,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -465,7 +476,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -505,7 +517,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -546,7 +559,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -586,7 +600,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -627,7 +642,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -667,7 +683,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -707,7 +724,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "DHLU.SI",
@@ -747,6 +765,7 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   }
 ]

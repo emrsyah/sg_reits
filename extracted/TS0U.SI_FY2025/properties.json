@@ -27,10 +27,15 @@
     "tenure_raw": "One Raffles Place Tower 1: 841-year lease from 1 Nov 1985; One Raffles Place Tower 2: 99-year lease from 26 May 1983; One Raffles Place Shopping Mall: ~75% of retail podium NLA on 99-year lease from 1 Nov 1985, balance 25% on 841-year lease from 1 Nov 1985",
     "status": "active",
     "flags": [
-      {"type": "full_consolidation_partial_ownership", "scope": "market_valuation,gross_revenue", "note": "Held via OUB Centre Limited (83.33%-owned by OUE REIT), which owns 81.54% beneficial interest in One Raffles Place (67.95% effective interest to OUE REIT). Fully consolidated in the audited financial statements at 100% with a 16.67% NCI at OUB Centre level. Valuation S$1,930.0m and revenue S$90.4m are stated on OUB Centre's 81.54% interest basis per the property card."}
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation,gross_revenue",
+        "note": "Held via OUB Centre Limited (83.33%-owned by OUE REIT), which owns 81.54% beneficial interest in One Raffles Place (67.95% effective interest to OUE REIT). Fully consolidated in the audited financial statements at 100% with a 16.67% NCI at OUB Centre level. Valuation S$1,930.0m and revenue S$90.4m are stated on OUB Centre's 81.54% interest basis per the property card."
+      }
     ],
     "value_basis": "effective_interest",
-    "source_page": 14
+    "source_page": 14,
+    "area_unit": "sqm"
   },
   {
     "symbol": "TS0U.SI",
@@ -61,7 +66,8 @@
     "status": "active",
     "flags": [],
     "value_basis": "consolidated",
-    "source_page": 14
+    "source_page": 14,
+    "area_unit": "sqm"
   },
   {
     "symbol": "TS0U.SI",
@@ -92,7 +98,8 @@
     "status": "active",
     "flags": [],
     "value_basis": "consolidated",
-    "source_page": 15
+    "source_page": 15,
+    "area_unit": "sqm"
   },
   {
     "symbol": "TS0U.SI",
@@ -112,7 +119,11 @@
     "occupancy_rate": null,
     "trade_mix": null,
     "major_tenants": [
-      {"name": "OUE Limited", "industry": "Hospitality & Leisure", "pct": null}
+      {
+        "name": "OUE Limited",
+        "industry": "Hospitality & Leisure",
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": null,
@@ -124,10 +135,15 @@
     "tenure_raw": "99-year lease from 1 Jul 1957",
     "status": "active",
     "flags": [
-      {"type": "hospitality_master_lease", "scope": "occupancy_rate,gross_revenue", "note": "1,080-room hotel, Hilton's flagship in Asia Pacific. Master-leased to a related party (OUE Limited) under a 15-year master lease from 25 Jul 2013 with one 15-year renewal option; rent = fixed/minimum component plus variable component (% of revenue). FY2025 RevPAR S$260. Occupancy not disclosed as a committed-occupancy %; gross_revenue S$71.2m is the property-level revenue per the card."}
+      {
+        "type": "hospitality_master_lease",
+        "scope": "occupancy_rate,gross_revenue",
+        "note": "1,080-room hotel, Hilton's flagship in Asia Pacific. Master-leased to a related party (OUE Limited) under a 15-year master lease from 25 Jul 2013 with one 15-year renewal option; rent = fixed/minimum component plus variable component (% of revenue). FY2025 RevPAR S$260. Occupancy not disclosed as a committed-occupancy %; gross_revenue S$71.2m is the property-level revenue per the card."
+      }
     ],
     "value_basis": "consolidated",
-    "source_page": 15
+    "source_page": 15,
+    "area_unit": "sqm"
   },
   {
     "symbol": "TS0U.SI",
@@ -147,7 +163,11 @@
     "occupancy_rate": null,
     "trade_mix": null,
     "major_tenants": [
-      {"name": "OUE Airport Hotel Pte. Ltd.", "industry": "Hospitality & Leisure", "pct": null}
+      {
+        "name": "OUE Airport Hotel Pte. Ltd.",
+        "industry": "Hospitality & Leisure",
+        "pct": null
+      }
     ],
     "gla": null,
     "nla": null,
@@ -159,10 +179,15 @@
     "tenure_raw": "66-year lease from 9 Jun 2017",
     "status": "active",
     "flags": [
-      {"type": "hospitality_master_lease", "scope": "occupancy_rate,gross_revenue", "note": "575-room hotel managed by InterContinental Hotels Group, connected to Changi Airport Terminal 3. Master-leased to a related party (OUE Airport Hotel Pte. Ltd.) until 27 May 2028 with two 5-year renewal options; rent = fixed/minimum plus variable component. FY2025 RevPAR S$246. Occupancy not disclosed as a committed-occupancy %; gross_revenue S$28.5m is the property-level revenue per the card."}
+      {
+        "type": "hospitality_master_lease",
+        "scope": "occupancy_rate,gross_revenue",
+        "note": "575-room hotel managed by InterContinental Hotels Group, connected to Changi Airport Terminal 3. Master-leased to a related party (OUE Airport Hotel Pte. Ltd.) until 27 May 2028 with two 5-year renewal options; rent = fixed/minimum plus variable component. FY2025 RevPAR S$246. Occupancy not disclosed as a committed-occupancy %; gross_revenue S$28.5m is the property-level revenue per the card."
+      }
     ],
     "value_basis": "consolidated",
-    "source_page": 15
+    "source_page": 15,
+    "area_unit": "sqm"
   },
   {
     "symbol": "TS0U.SI",
@@ -192,9 +217,14 @@
     "tenure_raw": "OUE Bayfront and OUE Tower: 99-year lease from 12 Nov 2007; OUE Link: 15-year lease from 19 Nov 2024; Underpass: 99-year lease from 7 Jan 2002",
     "status": "active",
     "flags": [
-      {"type": "equity_accounted_jv", "scope": "market_valuation,gross_revenue", "note": "Held as a 50% interest via the joint venture OUE Allianz Bayfront LLP; equity-accounted (Investment in joint venture S$334,941k in the SFP), so OUE Bayfront is NOT a line in the consolidated investment-properties statement (the S$5,082.0m audited consolidated valuation excludes it). Valuation S$1,422.0m and revenue S$67.9m are stated on the JV's 100% interest basis per the property card."}
+      {
+        "type": "equity_accounted_jv",
+        "scope": "market_valuation,gross_revenue",
+        "note": "Held as a 50% interest via the joint venture OUE Allianz Bayfront LLP; equity-accounted (Investment in joint venture S$334,941k in the SFP), so OUE Bayfront is NOT a line in the consolidated investment-properties statement (the S$5,082.0m audited consolidated valuation excludes it). Valuation S$1,422.0m and revenue S$67.9m are stated on the JV's 100% interest basis per the property card."
+      }
     ],
     "value_basis": "joint_venture_100pct",
-    "source_page": 14
+    "source_page": 14,
+    "area_unit": "sqm"
   }
 ]

@@ -17,8 +17,16 @@
     "occupancy_rate": 99.9,
     "trade_mix": null,
     "major_tenants": [
-      {"name": "Ministry of National Development (MND)", "industry": "Government Related", "pct": 12.5},
-      {"name": "FairPrice Xtra", "industry": "Departmental Store/Supermarket", "pct": 3.0}
+      {
+        "name": "Ministry of National Development (MND)",
+        "industry": "Government Related",
+        "pct": 12.5
+      },
+      {
+        "name": "FairPrice Xtra",
+        "industry": "Departmental Store/Supermarket",
+        "pct": 3.0
+      }
     ],
     "gla": null,
     "nla": 893092,
@@ -32,7 +40,8 @@
     "flags": [],
     "source_page": 116,
     "value_basis": "consolidated",
-    "_nla_unit": "sq ft"
+    "_nla_unit": "sq ft",
+    "area_unit": "sqft"
   },
   {
     "symbol": "JYEU.SI",
@@ -52,7 +61,11 @@
     "occupancy_rate": 98.8,
     "trade_mix": null,
     "major_tenants": [
-      {"name": "Food Republic", "industry": "Food & Beverages", "pct": 1.7}
+      {
+        "name": "Food Republic",
+        "industry": "Food & Beverages",
+        "pct": 1.7
+      }
     ],
     "gla": null,
     "nla": 288956,
@@ -66,7 +79,8 @@
     "flags": [],
     "source_page": 116,
     "value_basis": "consolidated",
-    "_nla_unit": "sq ft"
+    "_nla_unit": "sq ft",
+    "area_unit": "sqft"
   },
   {
     "symbol": "JYEU.SI",
@@ -86,7 +100,11 @@
     "occupancy_rate": 81.6,
     "trade_mix": null,
     "major_tenants": [
-      {"name": "Sky Italia S.r.l.", "industry": "IT & Telecommunications", "pct": 10.3}
+      {
+        "name": "Sky Italia S.r.l.",
+        "industry": "IT & Telecommunications",
+        "pct": 10.3
+      }
     ],
     "gla": null,
     "nla": 78873,
@@ -102,7 +120,8 @@
     "value_basis": "consolidated",
     "alt_value": 277400000,
     "alt_basis": "EUR 277.4 million (FX 1.498 as at 30 Jun 2025); SGD equivalent ~415.5 million",
-    "_nla_unit": "sq m"
+    "_nla_unit": "sq m",
+    "area_unit": "sqm"
   },
   {
     "symbol": "JYEU.SI",
@@ -132,11 +151,16 @@
     "tenure_raw": "12 years 364 days (includes options to renew land leases); remaining term 8.4 years",
     "status": "active",
     "flags": [
-      {"type": "under_development", "scope": "property", "note": "Investment property under development; carrying value S$4,900k (Tier C). Expected completion 2H 2026; no FY2025 revenue/NPI."}
+      {
+        "type": "under_development",
+        "scope": "property",
+        "note": "Investment property under development; carrying value S$4,900k (Tier C). Expected completion 2H 2026; no FY2025 revenue/NPI."
+      }
     ],
     "source_page": 116,
     "value_basis": "consolidated",
-    "_gfa_unit": "sq ft"
+    "_gfa_unit": "sq ft",
+    "area_unit": "sqft"
   },
   {
     "symbol": "JYEU.SI",
@@ -166,7 +190,11 @@
     "tenure_raw": null,
     "status": "active",
     "flags": [
-      {"type": "equity_accounted_jv", "scope": "property", "note": "Held via a 10.0% interest in Parkway Parade Partnership Pte. Ltd. (PPP), which holds an indirect 100% interest in 291 strata lots (77.09% of total share value) of Parkway Parade. Equity-accounted associate; not a row in the audited Portfolio Statement. Investment in associates carrying value S$4,130k (note 7). Per-property valuation not disclosed."}
+      {
+        "type": "equity_accounted_jv",
+        "scope": "property",
+        "note": "Held via a 10.0% interest in Parkway Parade Partnership Pte. Ltd. (PPP), which holds an indirect 100% interest in 291 strata lots (77.09% of total share value) of Parkway Parade. Equity-accounted associate; not a row in the audited Portfolio Statement. Investment in associates carrying value S$4,130k (note 7). Per-property valuation not disclosed."
+      }
     ],
     "source_page": 20,
     "value_basis": "effective_interest",

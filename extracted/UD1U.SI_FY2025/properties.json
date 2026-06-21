@@ -26,7 +26,8 @@
     "alt_basis": "Tier A marketing summary matches Tier C here (€195.8m)",
     "source_page": 179,
     "note": "Berlin Campus undergoing repositioning (Project RE(O)); occupancy 0% as DRV lease expired 31 Dec 2024. GRI €0.1m from property card p.45. GLA from p.45 (79,097 sqm). Per-property NPI not disclosed. Market_valuation from audited Statement of Portfolio p.179 (EUR'000 x1000). Tier A marketing value (p.40) also €195.8m - consistent.",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -61,7 +62,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -96,7 +98,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -131,7 +134,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -166,7 +170,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -271,7 +276,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",
@@ -306,7 +312,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "area_unit": "sqm"
   },
   {
     "symbol": "UD1U.SI",

@@ -27,7 +27,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -57,7 +58,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -87,7 +89,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -117,7 +120,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -147,7 +151,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -177,7 +182,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -207,7 +213,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -237,7 +244,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -267,7 +275,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -297,7 +306,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -327,7 +337,8 @@
     "tenure_raw": "99-year tenure from 24 June 1987; remaining 60.5 years as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -357,7 +368,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -387,7 +399,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -417,7 +430,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -447,7 +461,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -477,7 +492,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -507,7 +523,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -537,7 +554,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -567,7 +585,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -597,7 +616,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -627,7 +647,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -657,7 +678,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -687,7 +709,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 38
+    "source_page": 38,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -717,7 +740,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -747,7 +771,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -777,7 +802,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -807,7 +833,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -843,7 +870,8 @@
         "note": "partially occupied; asset management review - per-property occupancy not separately disclosed; left null"
       }
     ],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -873,7 +901,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -903,7 +932,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -933,7 +963,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -963,7 +994,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -993,7 +1025,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1023,7 +1056,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1059,7 +1093,8 @@
         "note": "vacant - being converted to PBSA - per-property occupancy not separately disclosed; left null"
       }
     ],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1089,7 +1124,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1119,7 +1155,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1149,7 +1186,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1179,7 +1217,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1209,7 +1248,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1239,7 +1279,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1269,7 +1310,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1299,7 +1341,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1329,7 +1372,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1359,7 +1403,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1389,7 +1434,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1419,7 +1465,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1449,7 +1496,8 @@
     "tenure_raw": "heritable interest (equivalent to freehold in Scotland)",
     "status": "active",
     "flags": [],
-    "source_page": 41
+    "source_page": 41,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1479,7 +1527,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1509,7 +1558,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1539,7 +1589,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1569,7 +1620,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1599,7 +1651,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1629,7 +1682,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1659,7 +1713,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1689,7 +1744,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1719,7 +1775,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1749,7 +1806,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1779,7 +1837,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1809,7 +1868,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1839,7 +1899,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 43
+    "source_page": 43,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1869,7 +1930,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1899,7 +1961,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1929,7 +1992,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1959,7 +2023,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -1989,7 +2054,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2019,7 +2085,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2049,7 +2116,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2079,7 +2147,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2109,7 +2178,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2139,7 +2209,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 45
+    "source_page": 45,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2169,7 +2240,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2199,7 +2271,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2229,7 +2302,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2259,7 +2333,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2289,7 +2364,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2319,7 +2395,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2349,7 +2426,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2379,7 +2457,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2409,7 +2488,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2439,7 +2519,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2469,7 +2550,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 47
+    "source_page": 47,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2499,7 +2581,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2529,7 +2612,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2559,7 +2643,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2589,7 +2674,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2619,7 +2705,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2649,7 +2736,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2679,7 +2767,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2709,7 +2798,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2739,7 +2829,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2769,7 +2860,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2799,7 +2891,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2829,7 +2922,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2859,7 +2953,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2889,7 +2984,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2919,7 +3015,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2949,7 +3046,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 49
+    "source_page": 49,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -2979,7 +3077,8 @@
     "tenure_raw": "250-year tenure from 20 May 2005; remaining 229.4 years as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3009,7 +3108,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3045,7 +3145,8 @@
         "note": "vacant - redevelopment to PBSA - per-property occupancy not separately disclosed; left null"
       }
     ],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3075,7 +3176,8 @@
     "tenure_raw": "virtual freehold tenure of 999 years from March 2005; remaining 978 years 3 months as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3105,7 +3207,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3135,7 +3238,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3165,7 +3269,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3195,7 +3300,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3225,7 +3331,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3255,7 +3362,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3285,7 +3393,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3315,7 +3424,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3345,7 +3455,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3375,7 +3486,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3405,7 +3517,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3435,7 +3548,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3465,7 +3579,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3495,7 +3610,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3525,7 +3641,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3555,7 +3672,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 51
+    "source_page": 51,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3585,7 +3703,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3615,7 +3734,8 @@
     "tenure_raw": "999-year tenure from 17 June 2004; remaining 977.5 years as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3645,7 +3765,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3681,7 +3802,8 @@
         "note": "20% vacancy (occupancy ~80%) - per-property occupancy not separately disclosed; left null"
       }
     ],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3711,7 +3833,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3741,7 +3864,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3771,7 +3895,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3801,7 +3926,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3831,7 +3957,8 @@
     "tenure_raw": "99-year tenure from 10 August 1978; remaining 51.6 years as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 53
+    "source_page": 53,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3861,7 +3988,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3891,7 +4019,8 @@
     "tenure_raw": "150-year tenure from 17 March 1995; remaining 119.2 years as at 31 Dec 2025",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3921,7 +4050,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3951,7 +4081,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -3981,7 +4112,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4011,7 +4143,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4041,7 +4174,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4071,7 +4205,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4101,7 +4236,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4131,7 +4267,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 55
+    "source_page": 55,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4161,7 +4298,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4191,7 +4329,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4221,7 +4360,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4251,7 +4391,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4281,7 +4422,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4311,7 +4453,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4341,7 +4484,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4371,7 +4515,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4401,7 +4546,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4431,7 +4577,8 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   },
   {
     "symbol": "MXNU.SI",
@@ -4461,6 +4608,7 @@
     "tenure_raw": "freehold",
     "status": "active",
     "flags": [],
-    "source_page": 57
+    "source_page": 57,
+    "area_unit": "sqft"
   }
 ]

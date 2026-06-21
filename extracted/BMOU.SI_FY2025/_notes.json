@@ -1,4 +1,7 @@
 {
+  "fx_rates": [
+    {"pair": "RMB/SGD", "closing": null, "average": null, "source_page": 131, "note": "No explicit RMB/SGD exchange rate is printed in the report. The Portfolio Statement (page 131) and financial-review tables (gross revenue page 58, valuation page 60) disclose paired RMB'000 / S$'000 figures, and FS note 3.2 (page 139-140) states only the translation METHOD (closing rate at reporting date for assets/liabilities; transaction-date rate for income). No numeric closing or average rate is disclosed, so both are left null per the audit-trail / convert-nothing rule. Implied (NOT disclosed) ratios for reference only: valuation 4,694,000/859,162 ~= RMB6.8285/S$1 closing; revenue 302,992/55,106 ~= RMB5.4983/S$1 average."}
+  ],
   "columns_never_fillable": [
     {"column": "properties.gla", "reason": "Cards disclose Gross Floor Area (GFA) and Net Lettable Area (NLA) only; no separate gross-lettable-area (GLA) figure is disclosed. GFA->gfa, NLA->nla; gla left null per GLA!=GFA invariant."},
     {"column": "properties.major_tenants (multi-tenanted malls)", "reason": "Per-property top tenants are not broken out per mall; only a portfolio Top-10 tenant list (page 57) and a portfolio trade-mix (page 63) are disclosed. The two master-leased malls (Xining, Dalian) have a single named master lessee, captured."},

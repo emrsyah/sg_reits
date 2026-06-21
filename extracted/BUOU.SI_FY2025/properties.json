@@ -36,7 +36,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 28062,
     "_audit_valuation_profile_m": 51.6,
-    "_audit_carrying_000": 51619
+    "_audit_carrying_000": 51619,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -75,7 +76,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 22106,
     "_audit_valuation_profile_m": 39.7,
-    "_audit_carrying_000": 39674
+    "_audit_carrying_000": 39674,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -114,7 +116,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 17606,
     "_audit_valuation_profile_m": 30.3,
-    "_audit_carrying_000": 30289
+    "_audit_carrying_000": 30289,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -153,7 +156,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 12729,
     "_audit_valuation_profile_m": 28.1,
-    "_audit_carrying_000": 28156
+    "_audit_carrying_000": 28156,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -192,7 +196,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 10425,
     "_audit_valuation_profile_m": 18.3,
-    "_audit_carrying_000": 18344
+    "_audit_carrying_000": 18344,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -236,7 +241,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 30004,
     "_audit_valuation_profile_m": 56.3,
-    "_audit_carrying_000": 56311
+    "_audit_carrying_000": 56311,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -280,7 +286,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 27272,
     "_audit_valuation_profile_m": 53.8,
-    "_audit_carrying_000": 53752
+    "_audit_carrying_000": 53752,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -319,7 +326,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 25163,
     "_audit_valuation_profile_m": 46.1,
-    "_audit_carrying_000": 46073
+    "_audit_carrying_000": 46073,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -358,7 +366,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 15095,
     "_audit_valuation_profile_m": 32.6,
-    "_audit_carrying_000": 32635
+    "_audit_carrying_000": 32635,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -402,7 +411,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 13495,
     "_audit_valuation_profile_m": 29.0,
-    "_audit_carrying_000": 29009
+    "_audit_carrying_000": 29009,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -441,7 +451,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 21660,
     "_audit_valuation_profile_m": 44.4,
-    "_audit_carrying_000": 44366
+    "_audit_carrying_000": 44366,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -480,7 +491,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 21854,
     "_audit_valuation_profile_m": 40.9,
-    "_audit_carrying_000": 40954
+    "_audit_carrying_000": 40954,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -519,7 +531,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 21271,
     "_audit_valuation_profile_m": 42.7,
-    "_audit_carrying_000": 42660
+    "_audit_carrying_000": 42660,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -568,7 +581,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 25762,
     "_audit_valuation_profile_m": 55.4,
-    "_audit_carrying_000": 55458
+    "_audit_carrying_000": 55458,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -607,7 +621,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 7175,
     "_audit_valuation_profile_m": 28.6,
-    "_audit_carrying_000": 28582
+    "_audit_carrying_000": 28582,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -646,7 +661,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 14263,
     "_audit_valuation_profile_m": 31.6,
-    "_audit_carrying_000": 31568
+    "_audit_carrying_000": 31568,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -685,7 +701,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 24732,
     "_audit_valuation_profile_m": 41.0,
-    "_audit_carrying_000": 40954
+    "_audit_carrying_000": 40954,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -724,7 +741,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 74546,
     "_audit_valuation_profile_m": 116.0,
-    "_audit_carrying_000": 116035
+    "_audit_carrying_000": 116035,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -773,7 +791,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 38335,
     "_audit_valuation_profile_m": 72.5,
-    "_audit_carrying_000": 72522
+    "_audit_carrying_000": 72522,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -817,7 +836,8 @@
     "source_page": 50,
     "_audit_lettable_area_sqm": 26153,
     "_audit_valuation_profile_m": 46.5,
-    "_audit_carrying_000": 46499
+    "_audit_carrying_000": 46499,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -856,7 +876,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 14636,
     "_audit_valuation_profile_m": 24.9,
-    "_audit_carrying_000": 24956
+    "_audit_carrying_000": 24956,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -895,7 +916,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 23088,
     "_audit_valuation_profile_m": 38.2,
-    "_audit_carrying_000": 38181
+    "_audit_carrying_000": 38181,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -939,7 +961,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 9489,
     "_audit_valuation_profile_m": 18.8,
-    "_audit_carrying_000": 18770
+    "_audit_carrying_000": 18770,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -978,7 +1001,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 7314,
     "_audit_valuation_profile_m": 13.7,
-    "_audit_carrying_000": 13651
+    "_audit_carrying_000": 13651,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1017,7 +1041,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 8286,
     "_audit_valuation_profile_m": 14.9,
-    "_audit_carrying_000": 14931
+    "_audit_carrying_000": 14931,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1061,7 +1086,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 21493,
     "_audit_valuation_profile_m": 41.8,
-    "_audit_carrying_000": 41807
+    "_audit_carrying_000": 41807,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1100,7 +1126,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 46231,
     "_audit_valuation_profile_m": 25.3,
-    "_audit_carrying_000": 41246
+    "_audit_carrying_000": 41246,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1139,7 +1166,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 18599,
     "_audit_valuation_profile_m": 13.0,
-    "_audit_carrying_000": 22481
+    "_audit_carrying_000": 22481,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1183,7 +1211,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 9869,
     "_audit_valuation_profile_m": 6.2,
-    "_audit_carrying_000": 14206
+    "_audit_carrying_000": 14206,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1227,7 +1256,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 15544,
     "_audit_valuation_profile_m": 10.5,
-    "_audit_carrying_000": 15744
+    "_audit_carrying_000": 15744,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1266,7 +1296,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 12086,
     "_audit_valuation_profile_m": 7.3,
-    "_audit_carrying_000": 15721
+    "_audit_carrying_000": 15721,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1310,7 +1341,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 3085,
     "_audit_valuation_profile_m": 2.6,
-    "_audit_carrying_000": 4625
+    "_audit_carrying_000": 4625,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1354,7 +1386,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 40566,
     "_audit_valuation_profile_m": 121.1,
-    "_audit_carrying_000": 121154
+    "_audit_carrying_000": 121154,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1393,7 +1426,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 41401,
     "_audit_valuation_profile_m": 123.3,
-    "_audit_carrying_000": 123287
+    "_audit_carrying_000": 123287,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1432,7 +1466,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 23112,
     "_audit_valuation_profile_m": 62.3,
-    "_audit_carrying_000": 62284
+    "_audit_carrying_000": 62284,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1471,7 +1506,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 16074,
     "_audit_valuation_profile_m": 51.2,
-    "_audit_carrying_000": 51192
+    "_audit_carrying_000": 51192,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1510,7 +1546,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 32839,
     "_audit_valuation_profile_m": 108.4,
-    "_audit_carrying_000": 108356
+    "_audit_carrying_000": 108356,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1554,7 +1591,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 22511,
     "_audit_valuation_profile_m": 79.9,
-    "_audit_carrying_000": 79860
+    "_audit_carrying_000": 79860,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1593,7 +1631,8 @@
     "source_page": 51,
     "_audit_lettable_area_sqm": 19218,
     "_audit_valuation_profile_m": 61.7,
-    "_audit_carrying_000": 61686
+    "_audit_carrying_000": 61686,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1632,7 +1671,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 18848,
     "_audit_valuation_profile_m": 78.9,
-    "_audit_carrying_000": 102011
+    "_audit_carrying_000": 102011,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1676,7 +1716,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 14333,
     "_audit_valuation_profile_m": 33.5,
-    "_audit_carrying_000": 44471
+    "_audit_carrying_000": 44471,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1720,7 +1761,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 20078,
     "_audit_valuation_profile_m": 53.1,
-    "_audit_carrying_000": 70207
+    "_audit_carrying_000": 70207,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1759,7 +1801,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 12319,
     "_audit_valuation_profile_m": 39.2,
-    "_audit_carrying_000": 39247
+    "_audit_carrying_000": 39247,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1798,7 +1841,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 10772,
     "_audit_valuation_profile_m": 38.4,
-    "_audit_carrying_000": 38394
+    "_audit_carrying_000": 38394,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1837,7 +1881,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 7065,
     "_audit_valuation_profile_m": 20.2,
-    "_audit_carrying_000": 20264
+    "_audit_carrying_000": 20264,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1876,7 +1921,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 10708,
     "_audit_valuation_profile_m": 33.7,
-    "_audit_carrying_000": 33701
+    "_audit_carrying_000": 33701,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1920,7 +1966,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 16648,
     "_audit_valuation_profile_m": 62.3,
-    "_audit_carrying_000": 62284
+    "_audit_carrying_000": 62284,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -1964,7 +2011,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 90661,
     "_audit_valuation_profile_m": 21.4,
-    "_audit_carrying_000": 26710
+    "_audit_carrying_000": 26710,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2003,7 +2051,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 15186,
     "_audit_valuation_profile_m": 22.2,
-    "_audit_carrying_000": 30203
+    "_audit_carrying_000": 30203,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2042,7 +2091,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 15052,
     "_audit_valuation_profile_m": 28.6,
-    "_audit_carrying_000": 28582
+    "_audit_carrying_000": 28582,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2081,7 +2131,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 13250,
     "_audit_valuation_profile_m": 23.5,
-    "_audit_carrying_000": 22183
+    "_audit_carrying_000": 22183,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2120,7 +2171,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 14916,
     "_audit_valuation_profile_m": 30.2,
-    "_audit_carrying_000": 23463
+    "_audit_carrying_000": 23463,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2159,7 +2211,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 9797,
     "_audit_valuation_profile_m": 19.2,
-    "_audit_carrying_000": 19197
+    "_audit_carrying_000": 19197,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2203,7 +2256,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 19487,
     "_audit_valuation_profile_m": 39.4,
-    "_audit_carrying_000": 39418
+    "_audit_carrying_000": 39418,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2247,7 +2301,8 @@
     "source_page": 52,
     "_audit_lettable_area_sqm": 15456,
     "_audit_valuation_profile_m": 31.9,
-    "_audit_carrying_000": 31910
+    "_audit_carrying_000": 31910,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2286,7 +2341,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 20518,
     "_audit_valuation_profile_m": 42.3,
-    "_audit_carrying_000": 42233
+    "_audit_carrying_000": 42233,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2325,7 +2381,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 30618,
     "_audit_valuation_profile_m": 57.6,
-    "_audit_carrying_000": 57591
+    "_audit_carrying_000": 57591,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2364,7 +2421,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 23218,
     "_audit_valuation_profile_m": 43.9,
-    "_audit_carrying_000": 43940
+    "_audit_carrying_000": 43940,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2403,7 +2461,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 21531,
     "_audit_valuation_profile_m": 42.1,
-    "_audit_carrying_000": 42063
+    "_audit_carrying_000": 42063,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2442,7 +2501,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 30779,
     "_audit_valuation_profile_m": 62.1,
-    "_audit_carrying_000": 62113
+    "_audit_carrying_000": 62113,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2486,7 +2546,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 20143,
     "_audit_valuation_profile_m": 8.6,
-    "_audit_carrying_000": 8617
+    "_audit_carrying_000": 8617,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2551,7 +2612,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 66047,
     "_audit_valuation_profile_m": 319.1,
-    "_audit_carrying_000": 319097
+    "_audit_carrying_000": 319097,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2590,7 +2652,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 40259,
     "_audit_valuation_profile_m": 209.0,
-    "_audit_carrying_000": 209034
+    "_audit_carrying_000": 209034,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2639,7 +2702,8 @@
     "source_page": 53,
     "_audit_lettable_area_sqm": 7311,
     "_audit_valuation_profile_m": 31.7,
-    "_audit_carrying_000": 31739
+    "_audit_carrying_000": 31739,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2678,7 +2742,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 15589,
     "_audit_valuation_profile_m": 22.7,
-    "_audit_carrying_000": 22704
+    "_audit_carrying_000": 22704,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2717,7 +2782,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 11491,
     "_audit_valuation_profile_m": 24.5,
-    "_audit_carrying_000": 24520
+    "_audit_carrying_000": 24520,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2756,7 +2822,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 11545,
     "_audit_valuation_profile_m": 96.3,
-    "_audit_carrying_000": 96265
+    "_audit_carrying_000": 96265,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2795,7 +2862,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 17795,
     "_audit_valuation_profile_m": 25.7,
-    "_audit_carrying_000": 25731
+    "_audit_carrying_000": 25731,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2834,7 +2902,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 11537,
     "_audit_valuation_profile_m": 22.1,
-    "_audit_carrying_000": 22099
+    "_audit_carrying_000": 22099,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2873,7 +2942,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 72558,
     "_audit_valuation_profile_m": 126.4,
-    "_audit_carrying_000": 126386
+    "_audit_carrying_000": 126386,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2922,7 +2992,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 44221,
     "_audit_valuation_profile_m": 99.1,
-    "_audit_carrying_000": 129831
+    "_audit_carrying_000": 129831,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -2961,7 +3032,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 14193,
     "_audit_valuation_profile_m": 28.9,
-    "_audit_carrying_000": 28910
+    "_audit_carrying_000": 28910,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3000,7 +3072,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 9389,
     "_audit_valuation_profile_m": 16.3,
-    "_audit_carrying_000": 16347
+    "_audit_carrying_000": 16347,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3039,7 +3112,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 11534,
     "_audit_valuation_profile_m": 59.0,
-    "_audit_carrying_000": 59030
+    "_audit_carrying_000": 59030,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3078,7 +3152,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 13014,
     "_audit_valuation_profile_m": 53.3,
-    "_audit_carrying_000": 53279
+    "_audit_carrying_000": 53279,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3117,7 +3192,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 55007,
     "_audit_valuation_profile_m": 83.7,
-    "_audit_carrying_000": 83702
+    "_audit_carrying_000": 83702,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3161,7 +3237,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 43756,
     "_audit_valuation_profile_m": 91.9,
-    "_audit_carrying_000": 91876
+    "_audit_carrying_000": 91876,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3200,7 +3277,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 24525,
     "_audit_valuation_profile_m": 53.0,
-    "_audit_carrying_000": 52991
+    "_audit_carrying_000": 52991,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3239,7 +3317,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 21104,
     "_audit_valuation_profile_m": 54.2,
-    "_audit_carrying_000": 54187
+    "_audit_carrying_000": 54187,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3278,7 +3357,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 12304,
     "_audit_valuation_profile_m": 24.2,
-    "_audit_carrying_000": 24218
+    "_audit_carrying_000": 24218,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3317,7 +3397,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 44501,
     "_audit_valuation_profile_m": 74.2,
-    "_audit_carrying_000": 74166
+    "_audit_carrying_000": 74166,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3356,7 +3437,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 38932,
     "_audit_valuation_profile_m": 122.6,
-    "_audit_carrying_000": 122602
+    "_audit_carrying_000": 122602,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3395,7 +3477,8 @@
     "source_page": 54,
     "_audit_lettable_area_sqm": 13125,
     "_audit_valuation_profile_m": 62.1,
-    "_audit_carrying_000": 62058
+    "_audit_carrying_000": 62058,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3434,7 +3517,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 20579,
     "_audit_valuation_profile_m": 47.5,
-    "_audit_carrying_000": 47527
+    "_audit_carrying_000": 47527,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3473,7 +3557,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 23291,
     "_audit_valuation_profile_m": 56.0,
-    "_audit_carrying_000": 56003
+    "_audit_carrying_000": 56003,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3512,7 +3597,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 13148,
     "_audit_valuation_profile_m": 82.8,
-    "_audit_carrying_000": 82794
+    "_audit_carrying_000": 82794,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3556,7 +3642,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 29815,
     "_audit_valuation_profile_m": 76.3,
-    "_audit_carrying_000": 76285
+    "_audit_carrying_000": 76285,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3595,7 +3682,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 31957,
     "_audit_valuation_profile_m": 53.7,
-    "_audit_carrying_000": 53733
+    "_audit_carrying_000": 53733,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3634,7 +3722,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 16831,
     "_audit_valuation_profile_m": 24.1,
-    "_audit_carrying_000": 24066
+    "_audit_carrying_000": 24066,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3673,7 +3762,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 13352,
     "_audit_valuation_profile_m": 17.6,
-    "_audit_carrying_000": 17558
+    "_audit_carrying_000": 17558,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3712,7 +3802,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 12960,
     "_audit_valuation_profile_m": 20.9,
-    "_audit_carrying_000": 20888
+    "_audit_carrying_000": 20888,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3756,7 +3847,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 37737,
     "_audit_valuation_profile_m": 86.6,
-    "_audit_carrying_000": 86578
+    "_audit_carrying_000": 86578,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3800,7 +3892,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 19404,
     "_audit_valuation_profile_m": 38.7,
-    "_audit_carrying_000": 38748
+    "_audit_carrying_000": 38748,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3839,7 +3932,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 22336,
     "_audit_valuation_profile_m": 44.0,
-    "_audit_carrying_000": 44046
+    "_audit_carrying_000": 44046,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3878,7 +3972,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 13142,
     "_audit_valuation_profile_m": 64.8,
-    "_audit_carrying_000": 64782
+    "_audit_carrying_000": 64782,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3917,7 +4012,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 9298,
     "_audit_valuation_profile_m": 13.5,
-    "_audit_carrying_000": 13471
+    "_audit_carrying_000": 13471,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -3956,7 +4052,8 @@
     "source_page": 55,
     "_audit_lettable_area_sqm": 21765,
     "_audit_valuation_profile_m": 30.9,
-    "_audit_carrying_000": 30877
+    "_audit_carrying_000": 30877,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4000,7 +4097,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 95696,
     "_audit_valuation_profile_m": 711.0,
-    "_audit_carrying_000": 711000
+    "_audit_carrying_000": 711000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4044,7 +4142,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 56203,
     "_audit_valuation_profile_m": 145.0,
-    "_audit_carrying_000": 145000
+    "_audit_carrying_000": 145000,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4098,7 +4197,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 19534,
     "_audit_valuation_profile_m": 72.3,
-    "_audit_carrying_000": 72320
+    "_audit_carrying_000": 72320,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4147,7 +4247,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 11074,
     "_audit_valuation_profile_m": 42.0,
-    "_audit_carrying_000": 41970
+    "_audit_carrying_000": 41970,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4186,7 +4287,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 16734,
     "_audit_valuation_profile_m": 34.9,
-    "_audit_carrying_000": 34946
+    "_audit_carrying_000": 34946,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4225,7 +4327,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 61984,
     "_audit_valuation_profile_m": 119.0,
-    "_audit_carrying_000": 118930
+    "_audit_carrying_000": 118930,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4279,7 +4382,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 42183,
     "_audit_valuation_profile_m": 150.5,
-    "_audit_carrying_000": 150459
+    "_audit_carrying_000": 150459,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4328,7 +4432,8 @@
     "source_page": 56,
     "_audit_lettable_area_sqm": 17823,
     "_audit_valuation_profile_m": 62.1,
-    "_audit_carrying_000": 62088
+    "_audit_carrying_000": 62088,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4387,7 +4492,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 51139,
     "_audit_valuation_profile_m": 221.1,
-    "_audit_carrying_000": 221123
+    "_audit_carrying_000": 221123,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4426,7 +4532,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 31013,
     "_audit_valuation_profile_m": 48.1,
-    "_audit_carrying_000": 48132
+    "_audit_carrying_000": 48132,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4465,7 +4572,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 51703,
     "_audit_valuation_profile_m": 72.1,
-    "_audit_carrying_000": 72123
+    "_audit_carrying_000": 72123,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4504,7 +4612,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 15263,
     "_audit_valuation_profile_m": 35.0,
-    "_audit_carrying_000": 34888
+    "_audit_carrying_000": 34888,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4543,7 +4652,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 84806,
     "_audit_valuation_profile_m": 117.3,
-    "_audit_carrying_000": 117304
+    "_audit_carrying_000": 117304,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4582,7 +4692,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 32642,
     "_audit_valuation_profile_m": 57.3,
-    "_audit_carrying_000": 57365
+    "_audit_carrying_000": 57365,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4621,7 +4732,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 18121,
     "_audit_valuation_profile_m": 27.0,
-    "_audit_carrying_000": 27018
+    "_audit_carrying_000": 27018,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4660,7 +4772,8 @@
     "source_page": 57,
     "_audit_lettable_area_sqm": 12940,
     "_audit_valuation_profile_m": 22.7,
-    "_audit_carrying_000": 22704
+    "_audit_carrying_000": 22704,
+    "area_unit": "sqm"
   },
   {
     "symbol": "BUOU.SI",
@@ -4697,6 +4810,7 @@
         "note": "Divested Sep 2025 for A$192.1m; absent from FY2025 Portfolio Statement (carrying amount nil); partial-year P&L in consolidated total. Divestment price recorded in AUD."
       }
     ],
-    "source_page": 134
+    "source_page": 134,
+    "area_unit": "sqm"
   }
 ]

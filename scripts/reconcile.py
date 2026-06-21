@@ -7,10 +7,11 @@ OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 
 # Reports that genuinely DO NOT exist (entity not listed / FY not yet published) -> expected-absent
 NOT_EXIST = {
-    (1, 2025), (3, 2025), (4, 2025), (10, 2025), (25, 2025), (32, 2025), (34, 2025),  # FY2025 not yet published
+    (25, 2025),                                                                        # Landmark FY2025 not sourced yet (obtainable)
     (11, 2023), (11, 2024),                                                            # Centurion not listed
     (30, 2023), (30, 2024), (30, 2025),                                                # NTT DC not listed / AR not out
-    (38, 2023), (38, 2024), (38, 2025),                                                # UI Boustead not listed
+    (38, 2023), (38, 2024), (38, 2025),                                                # UI Boustead not listed as a REIT
+    # NOTE: (1,3,4,10,32,34 @2025) were manually sourced 2026-06-19 and now DOWNLOADED — removed from NOT_EXIST.
 }
 # Reports that exist but we could not obtain a direct PDF for
 KNOWN_GAP = {(29, 2023): "MPACT FY2022/23 AR PDF removed in IR site migration; SGX hash not indexed"}

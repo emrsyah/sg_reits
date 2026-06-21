@@ -25,7 +25,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -53,7 +54,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -81,7 +83,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -109,7 +112,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -137,7 +141,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -165,7 +170,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -193,7 +199,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -220,7 +227,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -248,7 +256,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -275,7 +284,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -302,7 +312,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -329,7 +340,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -356,7 +368,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -384,7 +397,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -412,7 +426,8 @@
     "status": "held_for_sale",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -439,7 +454,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -467,7 +483,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -495,7 +512,8 @@
     "status": "active",
     "source_page": 111,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -522,7 +540,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -549,7 +568,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -576,7 +596,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -603,7 +624,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -630,7 +652,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -658,7 +681,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",
@@ -685,7 +709,8 @@
     "status": "active",
     "source_page": 110,
     "category_raw": "Data Centre",
-    "major_tenants": []
+    "major_tenants": [],
+    "area_unit": "sqft"
   },
   {
     "symbol": "AJBU.SI",

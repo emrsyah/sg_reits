@@ -34,7 +34,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -71,7 +72,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -108,7 +110,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -145,7 +148,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -182,7 +186,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -219,7 +224,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -256,7 +262,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -293,7 +300,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -330,7 +338,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -367,7 +376,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -410,7 +420,8 @@
     ],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -447,7 +458,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -484,7 +496,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -521,7 +534,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -564,7 +578,8 @@
     ],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -601,7 +616,8 @@
     "gfa": 3449800.0,
     "flags": [],
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -638,7 +654,8 @@
     "gfa": 757200.0,
     "flags": [],
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -675,7 +692,8 @@
     "gfa": 767300.0,
     "flags": [],
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -712,7 +730,8 @@
     "gfa": 576600.0,
     "flags": [],
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -749,7 +768,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -786,7 +806,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -829,7 +850,8 @@
       }
     ],
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -872,7 +894,8 @@
     ],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -915,7 +938,8 @@
     ],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -952,7 +976,8 @@
     "flags": [],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "C38U.SI",
@@ -990,6 +1015,7 @@
     ],
     "category_raw": null,
     "npi_pct": null,
-    "divestment_price": null
+    "divestment_price": null,
+    "area_unit": "sqft"
   }
 ]
