@@ -1,30 +1,140 @@
 {
   "symbol": "AU8U.SI",
   "financial_year": 2025,
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1751413000.0,
+      "basis": "Note 24 EPU basic: 'Weighted average number of issued and issuable Units at end of the year' 1,751,413 ('000); page 150, absolute = x1000",
+      "source_page": 150
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1751413000.0,
+      "basis": "Note 24 diluted EPU table: weighted average issued+issuable Units 1,751,413 ('000) for 2025 (diluted = basic for 2025; they diverge only in the 2024 comparative). Stored diluted figure verified correct, not basic-mislabeled.",
+      "source_page": 150
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Consolidated Distribution Statement (page 96): 'Income for the year available for distribution' 78,226 + 'Distribution top-up' 5,700 = 83,900 (DPU basis). Distribution adjustments (Note A) are non-cash add-backs; no separate cash-fee-deducted 'adjusted distributable income' line. DPU method 1.",
+      "source_page": 96
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 83900000.0,
+      "basis": "AUDIT: stored 83,900 = 'Income for the year available for distribution' 78,226 + top-up 5,700, the DPU 4.82 numerator; NOT 'Distributions to Unitholders during the year' 88,743. Correct as-is.",
+      "source_page": 96
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 83900000.0,
+      "basis": "Consolidated Distribution Statement (page 96, PAGE marker p in markdown), S$'000 -> absolute. CLCT distributes ~100% of distributable income: FY2025 DPU 4.82c = 2.49c (1H2025) + 2.33c (2H2025) x ~1,740m units ties to the for-the-year distributable amount = 'Income for the year available for distribution' 78,226 + 'Distribution top-up' 5,700 = 83,926 (~S$83.9m headline). The 'Distributions to Unitholders during the year' total 88,743 is a cash roll-forward (1H2025 43,325 + the 2H-2024 final 45,418 paid in FY25; the 2H2025 2.33c declared was paid March 2026) and is NOT the for-the-year figure. retained = 83,900 - 83,900 = 0.",
+      "source_page": 96
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 83900000.0)",
+      "source_page": 7
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "property.gla", "reason": "Property cards disclose GFA and NLA (for retail/business parks) but never 'GLA' as a distinct lettable metric; gla left null, gfa/nla captured instead."},
-    {"column": "property.net_property_income / gross_revenue (in SGD)", "reason": "Per-property NPI is disclosed ONLY in RMB million on the property cards (no per-property gross revenue, no per-property SGD figure). To avoid mixing currencies in a record whose currency=SGD (valuation basis), per-property NPI is kept in the audit field _npi_rmb_million and net_property_income/gross_revenue left null. Portfolio-level SGD NPI/revenue is in performance.json and financial.json."},
-    {"column": "property.major_tenants", "reason": "Top-10 tenants disclosed at portfolio level only (top_tenants.json); per-property major tenants are not tabulated (only narrative brand mentions)."},
-    {"column": "logistics_park.nla", "reason": "Logistics park cards disclose GFA only (no NLA field); gfa captured, nla null for the 4 logistics parks."}
+    {
+      "column": "property.gla",
+      "reason": "Property cards disclose GFA and NLA (for retail/business parks) but never 'GLA' as a distinct lettable metric; gla left null, gfa/nla captured instead."
+    },
+    {
+      "column": "property.net_property_income / gross_revenue (in SGD)",
+      "reason": "Per-property NPI is disclosed ONLY in RMB million on the property cards (no per-property gross revenue, no per-property SGD figure). To avoid mixing currencies in a record whose currency=SGD (valuation basis), per-property NPI is kept in the audit field _npi_rmb_million and net_property_income/gross_revenue left null. Portfolio-level SGD NPI/revenue is in performance.json and financial.json."
+    },
+    {
+      "column": "property.major_tenants",
+      "reason": "Top-10 tenants disclosed at portfolio level only (top_tenants.json); per-property major tenants are not tabulated (only narrative brand mentions)."
+    },
+    {
+      "column": "logistics_park.nla",
+      "reason": "Logistics park cards disclose GFA only (no NLA field); gfa captured, nla null for the 4 logistics parks."
+    }
   ],
   "data_with_no_home": [
-    {"item": "Per-property Net Property Income (RMB million, 100% basis, from property cards pp.42-55)", "values": "Xizhimen 204.7; Rock Square 164.2; Wangjing 129.3; Grand Canyon 61.2; Xuefu 119.6; Xinnan 18.2; Nuohemule 54.7; Aidemengdun 11.0; Ascendas Xinsu 165.7; SHZSTPP I 34.2; SHZSTPP II 36.1; Innovation Towers 38.1; Innovation Hub 20.4; Shanghai Fengxian 2.9; Chengdu Shuangliu 8.8; Wuhan Yangluo 11.5; Kunshan Bacheng 10.6", "source_page": "42-55"},
-    {"item": "Per-property valuation (RMB '000, audited Portfolio Statement)", "values": "Stored per property in _rmb_valuation_000; portfolio total RMB22,981,000k = S$4,204,374k", "source_page": "100-102"},
-    {"item": "FX rates", "values": "Average rate FY2025 S$1 = RMB5.499 (p.33); implied closing rate from Portfolio Statement RMB22,981,000k / S$4,204,374k = ~RMB5.466/S$. 72% of distributable income hedged to SGD; RMB-denominated debt raised to 60% (79% incl. forward hedges).", "source_page": "33, 30, 102"},
-    {"item": "WALE detail", "values": "Portfolio WALE 2.1 years by GRI, 2.6 years by NLA (performance.wale = 2.1, by GRI)", "source_page": 33},
-    {"item": "Operating segments (3 segments)", "values": "Retail Malls: GR S$216,009k, NPI S$141,236k; Business Parks: GR S$78,392k, NPI S$53,526k; Logistics Parks: GR S$9,319k, NPI S$6,133k. Segment totals: GR S$303,720k, NPI S$200,895k.", "source_page": 153},
-    {"item": "Strategic investment in CapitaLand Commercial C-REIT (CLCR)", "values": "Equity investment at fair value S$23,875k (Note 7); CapitaMall Yuhuating divested into CLCR establishment.", "source_page": 94},
-    {"item": "Perpetual securities", "values": "S$150m 3.95% subordinated perpetuals issued Sep 2025; S$100m redeemed Oct 2025; balance S$149,788k.", "source_page": 99},
-    {"item": "NCI ownership", "values": "Ascendas Xinsu 51% CLCT / 49% NCI; SHZSTPP Phase I & II 80%/20%; Ascendas Innovation Hub 80%/20%; all others 100%.", "source_page": "32, 94"},
-    {"item": "Distribution top-up", "values": "S$5,700k top-up (~Yuhuating distribution income Apr-Dec 2025), drawn from past divestment gains, funded through debt.", "source_page": 96}
+    {
+      "item": "Per-property Net Property Income (RMB million, 100% basis, from property cards pp.42-55)",
+      "values": "Xizhimen 204.7; Rock Square 164.2; Wangjing 129.3; Grand Canyon 61.2; Xuefu 119.6; Xinnan 18.2; Nuohemule 54.7; Aidemengdun 11.0; Ascendas Xinsu 165.7; SHZSTPP I 34.2; SHZSTPP II 36.1; Innovation Towers 38.1; Innovation Hub 20.4; Shanghai Fengxian 2.9; Chengdu Shuangliu 8.8; Wuhan Yangluo 11.5; Kunshan Bacheng 10.6",
+      "source_page": "42-55"
+    },
+    {
+      "item": "Per-property valuation (RMB '000, audited Portfolio Statement)",
+      "values": "Stored per property in _rmb_valuation_000; portfolio total RMB22,981,000k = S$4,204,374k",
+      "source_page": "100-102"
+    },
+    {
+      "item": "FX rates",
+      "values": "Average rate FY2025 S$1 = RMB5.499 (p.33); implied closing rate from Portfolio Statement RMB22,981,000k / S$4,204,374k = ~RMB5.466/S$. 72% of distributable income hedged to SGD; RMB-denominated debt raised to 60% (79% incl. forward hedges).",
+      "source_page": "33, 30, 102"
+    },
+    {
+      "item": "WALE detail",
+      "values": "Portfolio WALE 2.1 years by GRI, 2.6 years by NLA (performance.wale = 2.1, by GRI)",
+      "source_page": 33
+    },
+    {
+      "item": "Operating segments (3 segments)",
+      "values": "Retail Malls: GR S$216,009k, NPI S$141,236k; Business Parks: GR S$78,392k, NPI S$53,526k; Logistics Parks: GR S$9,319k, NPI S$6,133k. Segment totals: GR S$303,720k, NPI S$200,895k.",
+      "source_page": 153
+    },
+    {
+      "item": "Strategic investment in CapitaLand Commercial C-REIT (CLCR)",
+      "values": "Equity investment at fair value S$23,875k (Note 7); CapitaMall Yuhuating divested into CLCR establishment.",
+      "source_page": 94
+    },
+    {
+      "item": "Perpetual securities",
+      "values": "S$150m 3.95% subordinated perpetuals issued Sep 2025; S$100m redeemed Oct 2025; balance S$149,788k.",
+      "source_page": 99
+    },
+    {
+      "item": "NCI ownership",
+      "values": "Ascendas Xinsu 51% CLCT / 49% NCI; SHZSTPP Phase I & II 80%/20%; Ascendas Innovation Hub 80%/20%; all others 100%.",
+      "source_page": "32, 94"
+    },
+    {
+      "item": "Distribution top-up",
+      "values": "S$5,700k top-up (~Yuhuating distribution income Apr-Dec 2025), drawn from past divestment gains, funded through debt.",
+      "source_page": 96
+    }
   ],
   "parsing_traps": [
-    {"trap": "Consolidated financials reported in SGD, portfolio in dual currency", "detail": "CLCT's consolidated financial statements are presented in S$ (the reporting currency), NOT RMB. Underlying assets/income are RMB; Financial Highlights show both RMB and S$ for revenue/NPI. The Portfolio Statement (pp.100-102) prints both RMB'000 and S$'000 columns side-by-side for the SAME valuation. market_valuation captured in S$ (Tier C audited). Per-property NPI cards are in RMB million."},
-    {"trap": "'Net income' line on Statement of Total Return is a sub-total, not the year's result", "detail": "p95 prints 'Net income' S$124,270k AFTER trust expenses/finance but BEFORE disposal loss, fair-value changes and tax. income_stmt_metrics.net_income = 'Total return for the year after taxation' = S$5,573k. Do not use the S$124,270k line."},
-    {"trap": "Income mis-bucketing check (AU8U known offender)", "detail": "Below-NPI income items correctly classified as adjustments in line_items: finance income (+1,487), realised FX gain (+2,055). Finance costs (60,076) is an expense; loss on disposal, FV changes, unrealised FX, taxation are SIGNED adjustments. NONE mislabelled as revenue. revenue = gross rental income + other income only (303,720)."},
-    {"trap": "CapitaMall Yuhuating divested mid-year", "detail": "Divested 31 Oct 2025; absent from 2025 Portfolio Statement (market_valuation=null, status=divested). Partial-year GR/NPI in totals. 2024 comparative RMB785,000k / S$145,618k."},
-    {"trap": "Trade mix scoped within asset class but as % of total portfolio GRI", "detail": "p31 lists trade sectors grouped under Retail (sum 69.3%), Business Parks (27.0%) and Logistics Parks (3.7%); each line is % of TOTAL portfolio GRI, so all 26 rows sum to ~100%. Captured all rows; E-Commerce appears under both BP (1.9%) and Logistics (1.3%) — disambiguated in category_raw."},
-    {"trap": "Multi-parcel land use rights", "detail": "Several malls (Xizhimen, Grand Canyon, Wangjing) have land use right + above-ground building right with different expiry dates; lease_expiry_date set to the later (building right) expiry, full detail in tenure_raw. lease_term_years = lower bound of disclosed range."}
+    {
+      "trap": "Consolidated financials reported in SGD, portfolio in dual currency",
+      "detail": "CLCT's consolidated financial statements are presented in S$ (the reporting currency), NOT RMB. Underlying assets/income are RMB; Financial Highlights show both RMB and S$ for revenue/NPI. The Portfolio Statement (pp.100-102) prints both RMB'000 and S$'000 columns side-by-side for the SAME valuation. market_valuation captured in S$ (Tier C audited). Per-property NPI cards are in RMB million."
+    },
+    {
+      "trap": "'Net income' line on Statement of Total Return is a sub-total, not the year's result",
+      "detail": "p95 prints 'Net income' S$124,270k AFTER trust expenses/finance but BEFORE disposal loss, fair-value changes and tax. income_stmt_metrics.net_income = 'Total return for the year after taxation' = S$5,573k. Do not use the S$124,270k line."
+    },
+    {
+      "trap": "Income mis-bucketing check (AU8U known offender)",
+      "detail": "Below-NPI income items correctly classified as adjustments in line_items: finance income (+1,487), realised FX gain (+2,055). Finance costs (60,076) is an expense; loss on disposal, FV changes, unrealised FX, taxation are SIGNED adjustments. NONE mislabelled as revenue. revenue = gross rental income + other income only (303,720)."
+    },
+    {
+      "trap": "CapitaMall Yuhuating divested mid-year",
+      "detail": "Divested 31 Oct 2025; absent from 2025 Portfolio Statement (market_valuation=null, status=divested). Partial-year GR/NPI in totals. 2024 comparative RMB785,000k / S$145,618k."
+    },
+    {
+      "trap": "Trade mix scoped within asset class but as % of total portfolio GRI",
+      "detail": "p31 lists trade sectors grouped under Retail (sum 69.3%), Business Parks (27.0%) and Logistics Parks (3.7%); each line is % of TOTAL portfolio GRI, so all 26 rows sum to ~100%. Captured all rows; E-Commerce appears under both BP (1.9%) and Logistics (1.3%) — disambiguated in category_raw."
+    },
+    {
+      "trap": "Multi-parcel land use rights",
+      "detail": "Several malls (Xizhimen, Grand Canyon, Wangjing) have land use right + above-ground building right with different expiry dates; lease_expiry_date set to the later (building right) expiry, full detail in tenure_raw. lease_term_years = lower bound of disclosed range."
+    }
   ],
   "reconciliation": {
     "portfolio_statement_currency": "SGD",

@@ -48,7 +48,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 1838600000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -93,7 +95,9 @@
     "flags": [],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 657200000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -144,7 +148,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 201300000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -179,7 +185,9 @@
     "flags": [],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 350100000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -224,7 +232,9 @@
     "flags": [],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 289900000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -275,7 +285,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 316200000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -326,7 +338,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 321000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -377,7 +391,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 334800000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -428,7 +444,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 292000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -479,7 +497,9 @@
     ],
     "value_basis": "consolidated",
     "source_page": 122,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 84400000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -530,7 +550,9 @@
     ],
     "value_basis": "effective_interest",
     "source_page": 123,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 941500000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -580,7 +602,9 @@
       }
     ],
     "value_basis": "effective_interest",
-    "source_page": 123
+    "source_page": 123,
+    "purchase_price": 1426800000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -614,7 +638,9 @@
       }
     ],
     "value_basis": "effective_interest",
-    "source_page": 123
+    "source_page": 123,
+    "purchase_price": 2701000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -665,7 +691,9 @@
     ],
     "value_basis": "effective_interest",
     "source_page": 123,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 197800000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "K71U.SI",
@@ -706,6 +734,8 @@
     ],
     "value_basis": "effective_interest",
     "source_page": 123,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 208100000,
+    "purchase_price_currency": "SGD"
   }
 ]

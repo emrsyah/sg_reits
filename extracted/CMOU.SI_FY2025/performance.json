@@ -6,13 +6,20 @@
   "gross_revenue": 150165000.0,
   "net_property_income": 80656000.0,
   "net_distributable_income": 43032000.0,
+  "distribution_paid": 2611000.0,
+  "adjusted_distributable_income": null,
   "dpu": 0.25,
   "distribution_record": [
-    {"period": "2H 2025 (1 Jul - 31 Dec 2025)", "dpu": 0.25, "ex_date": null, "pay_date": null}
+    {
+      "period": "2H 2025 (1 Jul - 31 Dec 2025)",
+      "dpu": 0.25,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 5974,
   "aggregate_leverage": 44.1,
-  "interest_coverage_ratio": 2.50,
+  "interest_coverage_ratio": 2.5,
   "cost_of_debt": 4.66,
   "weighted_avg_debt_maturity": 1.5,
   "nav_per_unit": 0.68,
@@ -21,7 +28,12 @@
   "currency": "USD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_distribution_resumption", "scope": "dpu", "note": "Distributions were suspended from 2H 2023 through 1H 2025 under the Recapitalisation Plan announced 15 Feb 2024. KORE resumed distributions early, declaring DPU of 0.25 US cents for 2H 2025 only (1 Jul-31 Dec 2025); US$2,611k distributed to Unitholders, ~11.3% of 2H 2025 income available for distribution. Full-year DPU disclosed = 0.25 US cents (2H only). Announced 3 Feb 2026."}
+    {
+      "type": "dpu_distribution_resumption",
+      "scope": "dpu",
+      "note": "Distributions were suspended from 2H 2023 through 1H 2025 under the Recapitalisation Plan announced 15 Feb 2024. KORE resumed distributions early, declaring DPU of 0.25 US cents for 2H 2025 only (1 Jul-31 Dec 2025); US$2,611k distributed to Unitholders, ~11.3% of 2H 2025 income available for distribution. Full-year DPU disclosed = 0.25 US cents (2H only). Announced 3 Feb 2026."
+    }
   ],
-  "source_page": 6
+  "source_page": 6,
+  "distribution_basis": "disclosed_after_retention"
 }

@@ -6,6 +6,8 @@
   "gross_revenue": 303720000.0,
   "net_property_income": 200895000.0,
   "net_distributable_income": 83900000.0,
+  "distribution_paid": null,
+  "adjusted_distributable_income": null,
   "dpu": 4.82,
   "distribution_record": [
     {
@@ -31,5 +33,6 @@
   "portfolio_occupancy": 91.7,
   "currency": "SGD",
   "date": "2025-12-31",
-  "source_page": 7
+  "source_page": 7,
+  "distribution_basis": "full_payout_no_retention_line"
 }

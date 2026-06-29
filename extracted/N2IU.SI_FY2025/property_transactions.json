@@ -1,10 +1,20 @@
 [
   {
-    "symbol": "N2IU.SI", "financial_year": 2025, "type": "divestment",
-    "property_name": "Mapletree Anson", "country": "Singapore",
-    "transaction_date": "2024-07-31", "price": 775000000.0, "currency": "SGD",
+    "symbol": "N2IU.SI",
+    "financial_year": 2025,
+    "type": "divestment",
+    "property_name": "Mapletree Anson",
+    "country": "Singapore",
+    "transaction_date": "2024-07-31",
+    "price": 775000000.0,
+    "currency": "SGD",
+    "counterparty": "GES Tradewinds Pte. Ltd. (unrelated third party)",
+    "counterparty_source_page": 41,
     "gain_on_divestment": 4006000.0,
-    "note": "Divested to an external party on 31 July 2024 for cash consideration of S$775.0 million; net gain on divestment S$4,006k recognised. Proceeds net of transaction costs S$762,448k (cash flow statement).",
-    "source_page": 120
+    "note": "Divested to unrelated third party GES Tradewinds Pte. Ltd. on 31 July 2024 for cash consideration of S$775.0 million; net gain on divestment S$4,006k recognised. Proceeds net of transaction costs S$762,448k (cash flow statement). Buyer named on p41; FS Note 14 (p~) refers only to 'an external party'.",
+    "source_page": 120,
+    "valuation": 765000000,
+    "net_proceeds": 762448000,
+    "sale_consideration": 775000000
   }
 ]

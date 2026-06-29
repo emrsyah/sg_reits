@@ -1,8 +1,17 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.gross_revenue / net_property_income (JV properties)", "reason": "One Raffles Quay, MBFC Properties, Southgate Complex and Nova Properties are equity-accounted joint ventures. The report discloses only their 'Net Income Contribution' to Suntec REIT (share of profit excl. FV + JV loan interest income) - a below-NPI figure - not property-level gross revenue / NPI. Recorded in each property's flag, left null for NPI/GR."},
-    {"column": "properties.gla / gfa", "reason": "Cards disclose Net Lettable Area (NLA) only, not GLA or GFA; NLA captured in nla."},
-    {"column": "properties.major_tenants", "reason": "Top tenants are disclosed at portfolio level (office/retail top-10, p26), not as per-property major-tenant lists with % - left empty per-property; portfolio top-20 captured in top_tenants.json."}
+    {
+      "column": "properties.gross_revenue / net_property_income (JV properties)",
+      "reason": "One Raffles Quay, MBFC Properties, Southgate Complex and Nova Properties are equity-accounted joint ventures. The report discloses only their 'Net Income Contribution' to Suntec REIT (share of profit excl. FV + JV loan interest income) - a below-NPI figure - not property-level gross revenue / NPI. Recorded in each property's flag, left null for NPI/GR."
+    },
+    {
+      "column": "properties.gla / gfa",
+      "reason": "Cards disclose Net Lettable Area (NLA) only, not GLA or GFA; NLA captured in nla."
+    },
+    {
+      "column": "properties.major_tenants",
+      "reason": "Top tenants are disclosed at portfolio level (office/retail top-10, p26), not as per-property major-tenant lists with % - left empty per-property; portfolio top-20 captured in top_tenants.json."
+    }
   ],
   "data_with_no_home": [
     "Suntec City combined card (p28): Market Valuation $5,986.7m (incl. 66.3% Suntec Singapore $497.9m), Gross Revenue $356.4m, NPI $229.4m, 657 tenants, NLA 2,119,747 sq ft.",
@@ -35,10 +44,79 @@
     "revenue_breakdown_sum": 471606000,
     "operating_expense_breakdown_sum": 68604000
   },
-  "inferred": [
-    {"table": "properties", "field": "category", "scope": "JV properties (One Raffles Quay, MBFC, Southgate, Nova)", "value": "Office", "basis": "predominantly Grade A office (MBFC/Southgate/Nova also have ancillary retail/MBLM); mapped to Office as dominant use", "source_page": 24},
-    {"table": "properties", "field": "lease_term_years", "scope": "Suntec City Mall / Office Towers / Suntec Singapore", "value": 99.0, "basis": "tenure 'Leasehold 99 years from 1989'; effective_date set to 1989-01-01 from the start year (exact day not disclosed)", "source_page": 113},
-    {"table": "properties", "field": "category", "scope": "Suntec Singapore", "value": "Specialized", "basis": "convention & exhibition centre - not a standard retail/office category; mapped to Specialized", "source_page": 34},
-    {"table": "performance", "field": "portfolio_occupancy", "value": 94.8, "basis": "no single blended portfolio occupancy disclosed; office overall committed occupancy used (retail 98.2% noted in flag)", "source_page": 10}
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2939876000,
+      "basis": "EPU note 27 basic table: weighted-avg Units outstanding 2,939,848 + to be issued for asset mgmt fees in units 28 = 2,939,876 ('000) = 2,939,876,000 (the basic EPU denominator).",
+      "source_page": 164
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2949940000,
+      "basis": "EPU note 27 diluted table 'Weighted average number of Units used in calculation of diluted earnings per Unit' = 2,949,940 ('000) = 2,949,940,000 (basic 2,939,876 + 10,064 asset mgmt fees in units). Stored value already the diluted figure; correct.",
+      "source_page": 164
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "DPU method 1: single distributable-income figure; asset management fees payable in Units added back as non-cash adjustment. Distribution Statement (p109) current-year distributable income (Trust taxable income col) = 207,280 ('000); no separate cash-fees-deducted adjusted line. Set null.",
+      "source_page": 109
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 207300000,
+      "basis": "AUDIT: matches headline 'Distributable Income' FY2025 = S$207.3m (p12; Distribution Statement current-year distributable income = 207,280 '000 excl. 45,928 b/f), the DPU numerator. NOT 'Distributions to Unitholders' paid 191,186. Already correct.",
+      "source_page": 12
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": null,
+      "basis": "No single for-the-year declared distribution figure is disclosed. Quarterly distributor; Distribution Statement (p109) 'Distributions to Unitholders' total 191,186 ('000) is CASH-BASIS: 4Q2024 final (1.570c, 46,063k) + Q1 (1.563c, 45,918k) + Q2 (1.592c, 46,835k) + Q3 (1.778c, 52,370k) FY2025. The 4Q2025 distribution (2.102c, per Note 37 / DPU footnote *) is declared after the 31 Dec 2025 year-end and is NOT in this statement (no $ amount disclosed). The 'Amount available for distribution' 253,208 includes the 45,928 b/f carryforward, so it is not a clean for-the-year line. Suntec distributes ~100% (DPU 7.035c x ~2,945m units ~= distributable income 207,300k), but no disclosed for-the-year 'amount to be distributed' figure exists to cite. Set null to avoid mixing periods / inferring the undisclosed Q4 amount.",
+      "source_page": 109
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "JV properties (One Raffles Quay, MBFC, Southgate, Nova)",
+      "value": "Office",
+      "basis": "predominantly Grade A office (MBFC/Southgate/Nova also have ancillary retail/MBLM); mapped to Office as dominant use",
+      "source_page": 24
+    },
+    {
+      "table": "properties",
+      "field": "lease_term_years",
+      "scope": "Suntec City Mall / Office Towers / Suntec Singapore",
+      "value": 99.0,
+      "basis": "tenure 'Leasehold 99 years from 1989'; effective_date set to 1989-01-01 from the start year (exact day not disclosed)",
+      "source_page": 113
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "Suntec Singapore",
+      "value": "Specialized",
+      "basis": "convention & exhibition centre - not a standard retail/office category; mapped to Specialized",
+      "source_page": 34
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_occupancy",
+      "value": 94.8,
+      "basis": "no single blended portfolio occupancy disclosed; office overall committed occupancy used (retail 98.2% noted in flag)",
+      "source_page": 10
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "not_disclosed_rollforward_only",
+      "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
+      "source_page": 10
+    }
   ]
 }

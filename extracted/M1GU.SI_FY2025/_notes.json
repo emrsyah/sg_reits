@@ -6,9 +6,18 @@
     "fiscal_year_end": "31 December"
   },
   "columns_never_fillable": [
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; only portfolio-level NPI (p20) and segment-level operating segments (p161-162: High-tech industrial / Warehouse & logistics / General industrial / Chemical warehouse & logistics). Property-level only discloses gross/rental revenue (p19)."},
-    {"column": "properties.gla / properties.nla", "reason": "Per-property GLA/NLA not disclosed in cards; only per-property GFA (sqm, p19). Portfolio-level NLA is disclosed (326,700 sqm, p22) but not split per property."},
-    {"column": "top_tenants.industry", "reason": "Top-10 tenant table (p25) has no trade-sector column per tenant; not assigned to avoid unsupported inference. Portfolio trade-sector mix is captured separately in trade_mix.json."}
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed; only portfolio-level NPI (p20) and segment-level operating segments (p161-162: High-tech industrial / Warehouse & logistics / General industrial / Chemical warehouse & logistics). Property-level only discloses gross/rental revenue (p19)."
+    },
+    {
+      "column": "properties.gla / properties.nla",
+      "reason": "Per-property GLA/NLA not disclosed in cards; only per-property GFA (sqm, p19). Portfolio-level NLA is disclosed (326,700 sqm, p22) but not split per property."
+    },
+    {
+      "column": "top_tenants.industry",
+      "reason": "Top-10 tenant table (p25) has no trade-sector column per tenant; not assigned to avoid unsupported inference. Portfolio trade-sector mix is captured separately in trade_mix.json."
+    }
   ],
   "data_with_no_home": [
     "Portfolio NLA 326,700 sqm; GFA 386,227 sqm (p22)",
@@ -39,8 +48,66 @@
     "line_items_recon": "Sum revenue (120,195) - sum expense (81,076) + sum adjustment signed (24,856) = 63,975 = net_income (total return after tax). OK.",
     "total_return_after_tax": 63975000
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1125055000,
+      "basis": "Note 19 Earnings per Unit, p157 (Group): 'Weighted average number of Units at end of year' = 1,125,055 ('000) = 1,125,055,000 absolute. Diluted same as basic (no dilutive instruments).",
+      "source_page": 157
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1125055000,
+      "basis": "Note 19 p157: diluted EPU same as basic, no dilutive financial instruments in issue. Verified correct.",
+      "source_page": 157
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 39709000,
+      "basis": "Distribution Statement p117 (Group): 'Income available for distribution to Unitholders for the period after tax' = 39,709 ('000). DPU numerator (3.53c). Not the 36,227k distributions during the year. Verified correct.",
+      "source_page": 117
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Set null. The 'Adjusted income available for distribution' S$43.8m / adjusted DPU 3.90c (MD&A p20/p23) is a non-statutory metric adding back the capital-allowance claim, NOT a separate cash-fee-deducted DI line. Distribution Statement (p117) has a single distributable-income figure (mgmt fees not deducted in cash creating a second figure); method-1 style.",
+      "source_page": 117
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 39709000,
+      "basis": "'Income available for distribution to Unitholders for the period after tax' = 39,709 ('000 -> abs); 'Amount retained for working capital' = nil for FY2025 (note 2: full distributable income released, no earnings retained); retained check 39,709-39,709=0 OK",
+      "source_page": 117
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 39709000)",
+      "source_page": 45
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "scope": "all rows", "value": "month-end of disclosed land lease expiry month", "basis": "Property Highlights (p18) discloses land lease expiry as month/year (e.g. 'November 2055'); converted to YYYY-MM-DD month-end. Leasehold term (years incl. options) and remaining term from audited Portfolio Statement (p120-123).", "source_page": 18},
-    {"table": "properties", "field": "category", "scope": "High-tech industrial rows", "value": "Specialized", "basis": "Disclosed asset type 'High-tech industrial' mapped to canonical 'Specialized' per PROPERTY_CATEGORY_ALIASES (Hi-Tech Buildings -> Specialized).", "source_page": 120}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "all rows",
+      "value": "month-end of disclosed land lease expiry month",
+      "basis": "Property Highlights (p18) discloses land lease expiry as month/year (e.g. 'November 2055'); converted to YYYY-MM-DD month-end. Leasehold term (years incl. options) and remaining term from audited Portfolio Statement (p120-123).",
+      "source_page": 18
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "High-tech industrial rows",
+      "value": "Specialized",
+      "basis": "Disclosed asset type 'High-tech industrial' mapped to canonical 'Specialized' per PROPERTY_CATEGORY_ALIASES (Hi-Tech Buildings -> Specialized).",
+      "source_page": 120
+    }
   ]
 }

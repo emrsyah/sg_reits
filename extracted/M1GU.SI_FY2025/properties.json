@@ -23,7 +23,9 @@
     "tenure_raw": "Leasehold term 45 years (incl. options); remaining lease term 30 years; land lease expiry November 2055",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 305900000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -49,7 +51,9 @@
     "tenure_raw": "Leasehold term 53 years (incl. options); remaining lease term 33 years; land lease expiry January 2059",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 70300000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -75,7 +79,9 @@
     "tenure_raw": "Leasehold term 99 years (incl. options); remaining lease term 35 years; land lease expiry December 2060",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 34500000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -101,7 +107,9 @@
     "tenure_raw": "Leasehold term 51 years (incl. options); remaining lease term 21 years; land lease expiry April 2047",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 28000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -127,7 +135,9 @@
     "tenure_raw": "Leasehold term 50 years (incl. options); remaining lease term 31 years; land lease expiry September 2056",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 61000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -153,7 +163,9 @@
     "tenure_raw": "Leasehold term 59 years (incl. options); remaining lease term 34 years; land lease expiry April 2060",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 67200000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -179,7 +191,9 @@
     "tenure_raw": "Leasehold term 61 years (incl. options); remaining lease term 23 years; land lease expiry February 2049",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 78900000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -205,7 +219,9 @@
     "tenure_raw": "Leasehold term 33 years (incl. options); remaining lease term 13 years; land lease expiry September 2038",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 34100000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -231,7 +247,9 @@
     "tenure_raw": "Leasehold term 30 years (incl. options); remaining lease term 7 years; land lease expiry August 2032",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 60000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -257,7 +275,9 @@
     "tenure_raw": "Leasehold term 60 years (incl. options); remaining lease term 29 years; land lease expiry December 2054",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 42500000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -283,7 +303,9 @@
     "tenure_raw": "Leasehold term 48 years (incl. options); remaining lease term 28 years; land lease expiry December 2053",
     "status": "active",
     "source_page": 120,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 32000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -309,7 +331,9 @@
     "tenure_raw": "Leasehold term 60 years (incl. options); remaining lease term 22 years; land lease expiry July 2047",
     "status": "active",
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 40300000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -342,7 +366,9 @@
       }
     ],
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 40100000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -368,7 +394,9 @@
     "tenure_raw": "Leasehold term 57 years (incl. options); remaining lease term 26 years; land lease expiry September 2051",
     "status": "active",
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 54200000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -394,7 +422,9 @@
     "tenure_raw": "Leasehold term 60 years (incl. options); remaining lease term 16 years; land lease expiry August 2041",
     "status": "active",
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 24500000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -427,7 +457,9 @@
       }
     ],
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 24000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -453,7 +485,9 @@
     "tenure_raw": "Leasehold term 60 years (incl. options); remaining lease term 26 years; land lease expiry December 2051",
     "status": "active",
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 32000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "M1GU.SI",
@@ -479,6 +513,8 @@
     "tenure_raw": "Leasehold term 60 years (incl. options); remaining lease term 28 years; land lease expiry February 2054",
     "status": "active",
     "source_page": 122,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 20300000,
+    "purchase_price_currency": "SGD"
   }
 ]

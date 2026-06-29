@@ -3,3 +3,6 @@
 *.premigration.bak
 pilot_backup/
 .env
+
+# DB snapshots (large; not version-controlled)
+backup/

@@ -6,6 +6,8 @@
   "gross_revenue": 113914000.0,
   "net_property_income": 53178000.0,
   "net_distributable_income": 25542000.0,
+  "distribution_paid": 0,
+  "adjusted_distributable_income": null,
   "dpu": 0.0,
   "distribution_record": [],
   "number_of_unitholders": 7655,
@@ -37,5 +39,6 @@
     "wale_note": "Portfolio WALE by NLA = 4.5 years (p8). Top-10 tenant WALE by GRI = 4.4 years (p27).",
     "portfolio_occupancy_note": "Portfolio occupancy 67.7% (committed leases, p8).",
     "number_of_unitholders_note": "Statistics of Unitholdings as at 16 March 2026 (p93)."
-  }
+  },
+  "distribution_basis": "suspended"
 }

@@ -1,29 +1,93 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.gla", "reason": "Healthcare assets (hospitals, nursing homes) sized by floor area / beds; no gross lettable area disclosed per property in the audited Portfolio Statement or cards."},
-    {"column": "properties.nla", "reason": "No net lettable area disclosed; size metrics are floor area (sq m) and number of beds (SG cards) / not disclosed (Japan, France)."},
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; only portfolio-level NPI (S$147,484k) is reported. Property expenses borne by lessees under triple-net / master leases."},
-    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue NOT disclosed in a portfolio-wide reconcilable form. Only the 3 Singapore hospital cards (p40) disclose a per-property gross revenue figure; the 60 Japan + 11 France nursing homes disclose none. To avoid a misleading partial column-sum, SG per-property gross revenue is recorded in data_with_no_home rather than the properties.gross_revenue field."}
+    {
+      "column": "properties.gla",
+      "reason": "Healthcare assets (hospitals, nursing homes) sized by floor area / beds; no gross lettable area disclosed per property in the audited Portfolio Statement or cards."
+    },
+    {
+      "column": "properties.nla",
+      "reason": "No net lettable area disclosed; size metrics are floor area (sq m) and number of beds (SG cards) / not disclosed (Japan, France)."
+    },
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed; only portfolio-level NPI (S$147,484k) is reported. Property expenses borne by lessees under triple-net / master leases."
+    },
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Per-property gross revenue NOT disclosed in a portfolio-wide reconcilable form. Only the 3 Singapore hospital cards (p40) disclose a per-property gross revenue figure; the 60 Japan + 11 France nursing homes disclose none. To avoid a misleading partial column-sum, SG per-property gross revenue is recorded in data_with_no_home rather than the properties.gross_revenue field."
+    }
   ],
   "data_with_no_home": [
-    {"item": "Gross revenue 2025 (SG hospitals, per-property)", "value": "Mount Elizabeth S$46.28m, Gleneagles S$28.48m, Parkway East S$4.96m", "source_page": 40},
-    {"item": "Number of beds (SG hospitals)", "value": "Mount Elizabeth 278, Gleneagles 221, Parkway East 119", "source_page": 40},
-    {"item": "Floor area sq m (SG hospitals)", "value": "Mount Elizabeth 58,139; Gleneagles 49,003; Parkway East 10,994", "source_page": 40},
-    {"item": "Downside protection (by gross revenue)", "value": "90.0%", "source_page": 38},
-    {"item": "Portfolio mix by region (by asset value)", "value": "Singapore 67.8%, Japan 25.3%, France 6.9%", "source_page": 39},
-    {"item": "Japan WALE", "value": "10.48 years", "source_page": 39},
-    {"item": "Singapore master lease", "value": "Renewal term 20.4 years, 23 Aug 2022 to 31 Dec 2042, option to extend 10 years", "source_page": 39},
-    {"item": "Hedged interest rate exposure", "value": "approx 93%", "source_page": 36},
-    {"item": "Effective all-in cost of debt", "value": "1.59% (one of lowest among S-REITs)", "source_page": 33},
-    {"item": "ICR sensitivity", "value": "7.7x if EBITDA -10%; 5.3x if +100bps weighted avg rate", "source_page": 36}
+    {
+      "item": "Gross revenue 2025 (SG hospitals, per-property)",
+      "value": "Mount Elizabeth S$46.28m, Gleneagles S$28.48m, Parkway East S$4.96m",
+      "source_page": 40
+    },
+    {
+      "item": "Number of beds (SG hospitals)",
+      "value": "Mount Elizabeth 278, Gleneagles 221, Parkway East 119",
+      "source_page": 40
+    },
+    {
+      "item": "Floor area sq m (SG hospitals)",
+      "value": "Mount Elizabeth 58,139; Gleneagles 49,003; Parkway East 10,994",
+      "source_page": 40
+    },
+    {
+      "item": "Downside protection (by gross revenue)",
+      "value": "90.0%",
+      "source_page": 38
+    },
+    {
+      "item": "Portfolio mix by region (by asset value)",
+      "value": "Singapore 67.8%, Japan 25.3%, France 6.9%",
+      "source_page": 39
+    },
+    {
+      "item": "Japan WALE",
+      "value": "10.48 years",
+      "source_page": 39
+    },
+    {
+      "item": "Singapore master lease",
+      "value": "Renewal term 20.4 years, 23 Aug 2022 to 31 Dec 2042, option to extend 10 years",
+      "source_page": 39
+    },
+    {
+      "item": "Hedged interest rate exposure",
+      "value": "approx 93%",
+      "source_page": 36
+    },
+    {
+      "item": "Effective all-in cost of debt",
+      "value": "1.59% (one of lowest among S-REITs)",
+      "source_page": 33
+    },
+    {
+      "item": "ICR sensitivity",
+      "value": "7.7x if EBITDA -10%; 5.3x if +100bps weighted avg rate",
+      "source_page": 36
+    }
   ],
   "parsing_traps": [
-    {"trap": "Portfolio Statement is a facing-page positional split: description (name/tenure/term) on left pages (150,152,154,156,158,160,162,164); valuation (location/use/$'000) on right pages (151,153,155,157,159,161,163,165) with no label column. Extracted llm_only by pairing rows positionally; verified subtotals carry forward correctly (cumulative running total per page-pair)."},
-    {"trap": "market_valuation uses the audited Portfolio Statement '000 (×1000); the SFP Investment-properties line (S$2,573,340k Group) is INFLATED vs the Portfolio Statement total (S$2,571,286k) by S$2,054k of ROU/lease-liability adjustments. Used the Portfolio Statement 'Total investment properties, at valuation' figure per invariant §0.2."},
-    {"trap": "Trust-column STR (gross revenue 112,026) includes S$10,443k dividend income from subsidiaries; used GROUP STR (156,294) for financial + performance per consolidated basis."},
-    {"trap": "trade_mix pct_basis='asset_value': PLife discloses no GRI/rental trade-sector mix; the only portfolio breakdown is by asset value (Hospitals & Medical Centres 67.8% / Nursing Homes 32.2%, p39). 'asset_value' is not in KNOWN_PCT_BASIS — it is the genuinely disclosed basis (candidate enum extension)."},
-    {"trap": "Orange no Sato (Japan) leasehold 99 years, 95 remaining, but no lease start date disclosed in the Portfolio Statement -> lease_expiry_date left null (not derivable without fabrication). All other Japan/France assets are Freehold."},
-    {"trap": "Group Home Hakusho valuation S$898k is the genuine disclosed carrying value (a very small group home, p159), not a unit error."}
+    {
+      "trap": "Portfolio Statement is a facing-page positional split: description (name/tenure/term) on left pages (150,152,154,156,158,160,162,164); valuation (location/use/$'000) on right pages (151,153,155,157,159,161,163,165) with no label column. Extracted llm_only by pairing rows positionally; verified subtotals carry forward correctly (cumulative running total per page-pair)."
+    },
+    {
+      "trap": "market_valuation uses the audited Portfolio Statement '000 (×1000); the SFP Investment-properties line (S$2,573,340k Group) is INFLATED vs the Portfolio Statement total (S$2,571,286k) by S$2,054k of ROU/lease-liability adjustments. Used the Portfolio Statement 'Total investment properties, at valuation' figure per invariant §0.2."
+    },
+    {
+      "trap": "Trust-column STR (gross revenue 112,026) includes S$10,443k dividend income from subsidiaries; used GROUP STR (156,294) for financial + performance per consolidated basis."
+    },
+    {
+      "trap": "trade_mix pct_basis='asset_value': PLife discloses no GRI/rental trade-sector mix; the only portfolio breakdown is by asset value (Hospitals & Medical Centres 67.8% / Nursing Homes 32.2%, p39). 'asset_value' is not in KNOWN_PCT_BASIS — it is the genuinely disclosed basis (candidate enum extension)."
+    },
+    {
+      "trap": "Orange no Sato (Japan) leasehold 99 years, 95 remaining, but no lease start date disclosed in the Portfolio Statement -> lease_expiry_date left null (not derivable without fabrication). All other Japan/France assets are Freehold."
+    },
+    {
+      "trap": "Group Home Hakusho valuation S$898k is the genuine disclosed carrying value (a very small group home, p159), not a unit error."
+    }
   ],
   "reconciliation": {
     "sum_property_market_valuation_000": 2571286,
@@ -34,10 +98,80 @@
     "line_items_recon": "Sum revenue (156,294) - sum expense (45,030) + sum signed adjustments (41,526) = 152,790 = net_income (total return for the year)",
     "gross_revenue_tie": "financial.total_revenue 156,294,000 == performance.gross_revenue 156,294,000"
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 652449000.0,
+      "basis": "Note 20 Earnings per unit: 'Weighted average number of units (basic)' = 652,449 ('000); multiplied to absolute units.",
+      "source_page": 208
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 652653000.0,
+      "basis": "Note 20: 'Weighted average number of units used in calculation of diluted EPU' = 652,653 ('000). Verified DILUTED figure (basic 652,449 + 204 effect of mgmt fees in units). Already correct.",
+      "source_page": 208
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement (p147) discloses a single 'Income for the year available for distribution to Unitholders' = 99,781 ('000). Mgmt fees settled in units are added back as non-cash distribution adjustment (Note A); no separate cash-deducted adjusted distributable income. Set null (DPU method 1).",
+      "source_page": 147
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 99781000.0,
+      "basis": "AUDIT: matches 'Income for the year available for distribution to Unitholders' = 99,781 ('000), the DPU numerator (p147), NOT 'Distributions to Unitholders during the year' 65,436. Correct as stored; no change.",
+      "source_page": 147
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 99765260.0,
+      "basis": "Distribution Statement p147: no separate after-retention 'amount to be distributed for the year' dollar line exists; the 'Distributions to Unitholders during the year' subtotal (65,436) mixes prior-year cash. For-year declared distribution = DPU 15.29c (relates to distributions in respect of FY2025) x 'Number of units entitled to distribution' 652,487 ('000) = 0.1529 x 652,487,000 = 99,765,260. net_distributable_income 99,781,000 is 'Income for the year available for distribution' (already after the disclosed S$3,000k capex retention, line 'Amount retained for capital expenditure'). Retained check: 99,781,000 - 99,765,260 = 15,740 (rounding from the 15.29c DPU rounding); effectively ~100% payout of post-capex-retention income. The standing S$3.0m/yr capex retention is upstream of net_distributable_income.",
+      "source_page": 147
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 99765260.0)",
+      "source_page": 32
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "occupancy_rate", "scope": "all Japan and France active rows", "value": 100.0, "basis": "Portfolio-level committed occupancy disclosed as 100% (Singapore, France) and 97.7% (Japan portfolio) on p39; per-property committed occupancy cards (p40-58) report 100% for nearly all properties. Applied 100% per Japan/France property where the card was not individually inspected; not disclosed per asset in the audited Portfolio Statement.", "source_page": 39},
-    {"table": "properties", "field": "category", "scope": "all rows", "value": "Specialized", "basis": "Healthcare assets (hospitals, nursing homes, care facilities) mapped to canonical 'Specialized' category; category_raw preserves verbatim existing-use label.", "source_page": 151},
-    {"table": "performance", "field": "portfolio_occupancy", "value": 100.0, "basis": "No single portfolio occupancy figure disclosed; Singapore and France 100% committed, Japan 97.7% committed. Headline 100% committed occupancy applied; see inferred occupancy_rate note.", "source_page": 39},
-    {"table": "performance", "field": "portfolio_value", "value": 2570000000.0, "basis": "Headline marketing figure 'approximately S$2.57 billion' (p2, p32); audited Portfolio Statement total is S$2,571,286k.", "source_page": 32}
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "all Japan and France active rows",
+      "value": 100.0,
+      "basis": "Portfolio-level committed occupancy disclosed as 100% (Singapore, France) and 97.7% (Japan portfolio) on p39; per-property committed occupancy cards (p40-58) report 100% for nearly all properties. Applied 100% per Japan/France property where the card was not individually inspected; not disclosed per asset in the audited Portfolio Statement.",
+      "source_page": 39
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "all rows",
+      "value": "Specialized",
+      "basis": "Healthcare assets (hospitals, nursing homes, care facilities) mapped to canonical 'Specialized' category; category_raw preserves verbatim existing-use label.",
+      "source_page": 151
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_occupancy",
+      "value": 100.0,
+      "basis": "No single portfolio occupancy figure disclosed; Singapore and France 100% committed, Japan 97.7% committed. Headline 100% committed occupancy applied; see inferred occupancy_rate note.",
+      "source_page": 39
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_value",
+      "value": 2570000000.0,
+      "basis": "Headline marketing figure 'approximately S$2.57 billion' (p2, p32); audited Portfolio Statement total is S$2,571,286k.",
+      "source_page": 32
+    }
   ]
 }

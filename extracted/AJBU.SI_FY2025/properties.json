@@ -26,7 +26,11 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 262800000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$262.8m (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AJBU.SI",
@@ -55,7 +59,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 162000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$162.0m (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AJBU.SI",
@@ -84,7 +92,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 202500000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$202.5m (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AJBU.SI",
@@ -113,7 +125,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 384900000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$384.9m (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AJBU.SI",
@@ -142,7 +158,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 295100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$295.1m (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AJBU.SI",
@@ -171,7 +191,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 708000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$708.0m (p41). Reflects increase to 100% ownership and includes S$350.0m 10-yr land-tenure lease-extension consideration shared with KDC SGP 8; excluding the extension, consideration would be S$540.0m",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AJBU.SI",
@@ -200,7 +224,11 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 672000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$672.0m (p41). Reflects increase to 100% ownership and includes share of S$350.0m 10-yr land-tenure lease-extension consideration; excluding the extension, consideration would be S$560.0m",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AJBU.SI",
@@ -228,7 +256,11 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 200200000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$200.2m (p41)",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AJBU.SI",
@@ -257,7 +289,13 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 210900000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 190000000.0,
+    "purchase_price_local_currency": "AUD",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$210.9m / AUD 190.0m (p41)",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AJBU.SI",
@@ -285,7 +323,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 136400000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 635900000.0,
+    "purchase_price_local_currency": "CNY",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$136.4m / CNY 635.9m (p41)",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AJBU.SI",
@@ -313,7 +357,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 141300000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 690300000.0,
+    "purchase_price_local_currency": "CNY",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$141.3m / CNY 690.3m (p42)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AJBU.SI",
@@ -341,7 +391,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 13100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 64200000.0,
+    "purchase_price_local_currency": "CNY",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$13.1m / CNY 64.2m (p42). Purchase price is for the building shell only",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AJBU.SI",
@@ -369,7 +425,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 194200000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 23042000000.0,
+    "purchase_price_local_currency": "JPY",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$194.2m / JPY 23042.0m (p42)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AJBU.SI",
@@ -398,7 +460,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 683000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 80843900000.0,
+    "purchase_price_local_currency": "JPY",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$683.0m / JPY 80843.9m (p42)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AJBU.SI",
@@ -427,7 +495,13 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 42900000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 112400000.0,
+    "purchase_price_local_currency": "MYR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$42.9m / MYR 112.4m (p42). Held for sale (divestment announced 2 Jan 2025; completion expected 1Q 2026)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AJBU.SI",
@@ -455,7 +529,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 130000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 84000000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$130.0m / EUR 84.0m (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AJBU.SI",
@@ -484,7 +564,13 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 102800000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 63200000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$102.8m / EUR 63.2m (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AJBU.SI",
@@ -513,7 +599,13 @@
     "source_page": 111,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 111100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 70700000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$111.1m / EUR 70.7m (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AJBU.SI",
@@ -541,7 +633,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 61900000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 40200000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$61.9m / EUR 40.2m (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AJBU.SI",
@@ -569,7 +667,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 131600000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 80900000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$131.6m / EUR 80.9m (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AJBU.SI",
@@ -597,7 +701,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 48100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 30000000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$48.1m / EUR 30.0m (p44)",
+    "purchase_price_source_page": 44
   },
   {
     "symbol": "AJBU.SI",
@@ -625,7 +735,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 59100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 37200000.0,
+    "purchase_price_local_currency": "EUR",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$59.1m / EUR 37.2m (p44)",
+    "purchase_price_source_page": 44
   },
   {
     "symbol": "AJBU.SI",
@@ -653,7 +769,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 58100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 34000000.0,
+    "purchase_price_local_currency": "GBP",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$58.1m / GBP 34.0m (p44)",
+    "purchase_price_source_page": 44
   },
   {
     "symbol": "AJBU.SI",
@@ -682,7 +804,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 77000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 37500000.0,
+    "purchase_price_local_currency": "GBP",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$77.0m / GBP 37.5m (p44)",
+    "purchase_price_source_page": 44
   },
   {
     "symbol": "AJBU.SI",
@@ -710,7 +838,13 @@
     "source_page": 110,
     "category_raw": "Data Centre",
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 103800000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_local": 57000000.0,
+    "purchase_price_local_currency": "GBP",
+    "purchase_price_note": "Portfolio Review 'At A Glance' card 'Purchase Price (million)': S$103.8m / GBP 57.0m (p44)",
+    "purchase_price_source_page": 44
   },
   {
     "symbol": "AJBU.SI",

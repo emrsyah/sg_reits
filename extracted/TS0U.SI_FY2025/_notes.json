@@ -1,9 +1,21 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.net_property_income", "reason": "Per-property NPI is not disclosed. The audited segment note (Note 24) reports NPI only at segment level (Commercial S$130,375k; Hospitality S$89,204k), and the portfolio review gives per-property revenue and revenue-contribution % but no per-property NPI."},
-    {"column": "properties.gla", "reason": "Commercial assets disclose NLA (lettable), not GLA; hotels disclose GFA + room keys, not lettable area. No gross lettable area is disclosed per property."},
-    {"column": "properties.occupancy_rate (hotels)", "reason": "Hilton Singapore Orchard and Crowne Plaza Changi Airport are master-leased and reported by RevPAR (S$260 and S$246 respectively), not committed occupancy %."},
-    {"column": "properties.nla (hotels)", "reason": "Hotel size is disclosed as room keys (Hilton 1,080; Crowne Plaza 575) and GFA, not net lettable area."}
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI is not disclosed. The audited segment note (Note 24) reports NPI only at segment level (Commercial S$130,375k; Hospitality S$89,204k), and the portfolio review gives per-property revenue and revenue-contribution % but no per-property NPI."
+    },
+    {
+      "column": "properties.gla",
+      "reason": "Commercial assets disclose NLA (lettable), not GLA; hotels disclose GFA + room keys, not lettable area. No gross lettable area is disclosed per property."
+    },
+    {
+      "column": "properties.occupancy_rate (hotels)",
+      "reason": "Hilton Singapore Orchard and Crowne Plaza Changi Airport are master-leased and reported by RevPAR (S$260 and S$246 respectively), not committed occupancy %."
+    },
+    {
+      "column": "properties.nla (hotels)",
+      "reason": "Hotel size is disclosed as room keys (Hilton 1,080; Crowne Plaza 575) and GFA, not net lettable area."
+    }
   ],
   "data_with_no_home": [
     "Hotel room keys: Hilton Singapore Orchard 1,080 rooms; Crowne Plaza Changi Airport 575 rooms; portfolio total 1,655 upper-upscale hotel rooms (page 15).",
@@ -35,11 +47,98 @@
     "trade_mix_sum_pct": 100.0,
     "headline_portfolio_value_proportionate": 5793000000
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 5508095000,
+      "basis": "EPU note 23(i) 'Weighted average number of Units during the year' = 5,508,095 ('000) = 5,508,095,000.",
+      "source_page": 152
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 5832137000,
+      "basis": "EPU note 23(ii) 'Weighted average number of Units (diluted)' = 5,832,137 ('000) = 5,832,137,000 (basic 5,508,095 + mgr fees in units 16,522 + CPPU conversion 307,520). Stored value already the diluted figure; correct.",
+      "source_page": 153
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "DPU method 1: 'Amount available for distribution for the year' = 123,752 and 'Amount to be distributed to Unitholders' = 123,752 ('000) are equal in FY2025 (capital-release adjustment was a FY2024 item); fees payable in units. No separate cash-fees-deducted adjusted figure. Set null.",
+      "source_page": 108
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 123752000,
+      "basis": "AUDIT: matches 'Amount available for distribution for the year' = 123,752 ('000), the DPU numerator. NOT a distributions-paid line. Already correct.",
+      "source_page": 108
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 123752000,
+      "basis": "'Amount to be distributed to Unitholders (Note B)' in Distribution Statement (Year ended 31 Dec 2025), p108: FY2025 = 123,752 ('000), equal to 'Amount available for distribution for the year' 123,752 (no 'Amount released' in FY2025; the S$5.0m capital-distribution release was a FY2024 item). 100% payout: retained = 123,752 - 123,752 = 0 (the S$5.0m working-capital retention and S$2.2m CPPU reserve are deducted BEFORE arriving at the 123,752 distributable figure). Distinct from the cash 'Distributions to Unitholders' 116,184 which mixes 2H2024 + 1H2025. ('000 -> absolute x1000)",
+      "source_page": 108
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 41
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "rows": ["OUE Downtown Office", "Mandarin Gallery", "Hilton Singapore Orchard", "Crowne Plaza Changi Airport", "OUE Bayfront"], "basis": "Computed as land-lease start date + lease term (e.g. 99-year lease from 1 Jul 1957 -> 2056-06-30; 66-year lease from 9 Jun 2017 -> 2083-06-08). Not disclosed as an explicit expiry date in the report.", "source_page": 14},
-    {"table": "properties", "field": "lease_expiry_date", "rows": ["One Raffles Place"], "value": "2082-05-25", "basis": "ORP has multiple component leases (Tower 1 and ~75% of retail podium: 841-year lease from 1 Nov 1985; Tower 2 and balance: 99-year lease from 26 May 1983). Per the multi-lease rule the EARLIER expiry is used: Tower 2's 99-year lease from 26 May 1983 -> 2082-05-25. lease_term_years (841) reflects the dominant/longest component; full wording in tenure_raw.", "source_page": 14},
-    {"table": "properties", "field": "ownership", "rows": ["One Raffles Place"], "value": 67.95, "basis": "Effective interest 67.95% disclosed (page 35 footnote 5); = 83.33% (OUE REIT in OUB Centre) x 81.54% (OUB Centre in ORP). Carried at 100% in the consolidated FS with 16.67% NCI at OUB Centre level.", "source_page": 35},
-    {"table": "financial", "field": "income_stmt_metrics.ebitda", "scope": "single field", "value": 116633000, "basis": "Derived: ebit (116,582) + depreciation of plant & equipment 51 (from cash flow / segment note). Fair-value REIT with no material P&L D&A.", "source_page": 120},
-    {"table": "performance", "field": "portfolio_occupancy", "value": 95.4, "basis": "Disclosed Singapore office portfolio committed occupancy as at 31 Dec 2025 (page 36). No single portfolio-wide committed-occupancy figure is disclosed (hotels master-leased, reported by RevPAR). Flagged in performance.flags.", "source_page": 36}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "rows": [
+        "OUE Downtown Office",
+        "Mandarin Gallery",
+        "Hilton Singapore Orchard",
+        "Crowne Plaza Changi Airport",
+        "OUE Bayfront"
+      ],
+      "basis": "Computed as land-lease start date + lease term (e.g. 99-year lease from 1 Jul 1957 -> 2056-06-30; 66-year lease from 9 Jun 2017 -> 2083-06-08). Not disclosed as an explicit expiry date in the report.",
+      "source_page": 14
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "rows": [
+        "One Raffles Place"
+      ],
+      "value": "2082-05-25",
+      "basis": "ORP has multiple component leases (Tower 1 and ~75% of retail podium: 841-year lease from 1 Nov 1985; Tower 2 and balance: 99-year lease from 26 May 1983). Per the multi-lease rule the EARLIER expiry is used: Tower 2's 99-year lease from 26 May 1983 -> 2082-05-25. lease_term_years (841) reflects the dominant/longest component; full wording in tenure_raw.",
+      "source_page": 14
+    },
+    {
+      "table": "properties",
+      "field": "ownership",
+      "rows": [
+        "One Raffles Place"
+      ],
+      "value": 67.95,
+      "basis": "Effective interest 67.95% disclosed (page 35 footnote 5); = 83.33% (OUE REIT in OUB Centre) x 81.54% (OUB Centre in ORP). Carried at 100% in the consolidated FS with 16.67% NCI at OUB Centre level.",
+      "source_page": 35
+    },
+    {
+      "table": "financial",
+      "field": "income_stmt_metrics.ebitda",
+      "scope": "single field",
+      "value": 116633000,
+      "basis": "Derived: ebit (116,582) + depreciation of plant & equipment 51 (from cash flow / segment note). Fair-value REIT with no material P&L D&A.",
+      "source_page": 120
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_occupancy",
+      "value": 95.4,
+      "basis": "Disclosed Singapore office portfolio committed occupancy as at 31 Dec 2025 (page 36). No single portfolio-wide committed-occupancy figure is disclosed (hotels master-leased, reported by RevPAR). Flagged in performance.flags.",
+      "source_page": 36
+    }
   ]
 }

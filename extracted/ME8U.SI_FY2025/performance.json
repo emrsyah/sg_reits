@@ -6,12 +6,34 @@
   "gross_revenue": 711833000,
   "net_property_income": 531460000,
   "net_distributable_income": 388110000,
+  "distribution_paid": 385979000,
+  "adjusted_distributable_income": null,
   "dpu": 13.57,
   "distribution_record": [
-    {"period": "01 Apr 2024 to 30 Jun 2024", "dpu": 3.43, "ex_date": null, "pay_date": null},
-    {"period": "01 Jul 2024 to 30 Sep 2024", "dpu": 3.37, "ex_date": null, "pay_date": null},
-    {"period": "01 Oct 2024 to 31 Dec 2024", "dpu": 3.41, "ex_date": null, "pay_date": null},
-    {"period": "01 Jan 2025 to 31 Mar 2025", "dpu": 3.36, "ex_date": null, "pay_date": null}
+    {
+      "period": "01 Apr 2024 to 30 Jun 2024",
+      "dpu": 3.43,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01 Jul 2024 to 30 Sep 2024",
+      "dpu": 3.37,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01 Oct 2024 to 31 Dec 2024",
+      "dpu": 3.41,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01 Jan 2025 to 31 Mar 2025",
+      "dpu": 3.36,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 44969,
   "aggregate_leverage": 40.1,
@@ -24,7 +46,12 @@
   "currency": "SGD",
   "date": "2025-03-31",
   "flags": [
-    {"type": "dpu_4q_estimated", "scope": "distribution_record[3]", "note": "4Q FY24/25 DPU of 3.36 cents derived from full-year 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41); 4Q is declared after FY-end. Full-year DPU 13.57 is as-disclosed."}
+    {
+      "type": "dpu_4q_estimated",
+      "scope": "distribution_record[3]",
+      "note": "4Q FY24/25 DPU of 3.36 cents derived from full-year 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41); 4Q is declared after FY-end. Full-year DPU 13.57 is as-disclosed."
+    }
   ],
-  "source_page": 11
+  "source_page": 11,
+  "distribution_basis": "disclosed_after_retention"
 }

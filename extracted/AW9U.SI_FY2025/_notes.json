@@ -1,18 +1,102 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2111058000,
+      "basis": "EPU Note 23 basic: 'Denominator: Weighted average number of units outstanding during the year' 2,111,058 ('000); disclosed in '000, x1000 to absolute.",
+      "source_page": 176
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2124278000,
+      "basis": "EPU Note 23 dilutive: 'Weighted average number of units outstanding during the year' (diluted) 2,124,278 ('000); adjusted for units issued/to be issued as fee/divestment-fee payment. Diluted figure verified correct (basic is 2,111,058).",
+      "source_page": 176
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Statements of Distribution (p128) Note A adds back Manager's management fees settled in units (4,180) as non-cash; single distributable figure only -> method 1, null.",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 45800000,
+      "basis": "AUDIT: 45,800,000 = disclosed 'Distributable Amount' S$45.8m FY2025 (p7/MD&A), = current-year distributable income (amount available 57,964 less opening carryover 12,113 = 45,851, rounded). This is the distributable-income/DPU basis, NOT distributions paid (46,936). Correct, no change.",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 45800000,
+      "basis": "FOR-THE-YEAR declared distribution, NOT the cash 'Total distribution paid to unitholders' 46,936 ('000) on the Statements of Distribution (p128) which mixes the Q4-2024 final + Q1-Q3-2025 paid in FY2025 (Note 24, p176). First REIT distributes substantially all current-year distributable income; FY2025 DPU 2.17c (4 quarters: 0.58+0.55+0.52+0.52) x ~2,111,058k wtd-avg units = ~45,810k, matching the disclosed S$45.8m current-year Distributable Amount. No explicit 'amount to be distributed for the year' line is given, so distribution_paid = the disclosed for-year distributable amount fully distributed. Retained check: net_distributable_income 45,800 - 45,800 = ~0 ('000), consistent with ~100% payout. '000 x1000 to absolute.",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 45800000)",
+      "source_page": 7
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "properties.gla", "reason": "Healthcare REIT — all assets are hospitals/nursing homes. Neither the Portfolio Statement (pp.136-145) nor the property cards (pp.29-43) disclose gross lettable area. Size metric is Gross Floor Area (m2) plus beds/rooms. GFA captured in gfa."},
-    {"column": "properties.nla", "reason": "Net lettable area not disclosed anywhere; master-lease healthcare assets are leased whole-building, not per-unit. Confirmed across all property pages."},
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed. Statement of Total Return discloses only Group NPI (S$97,340,000, p127); segment note (p179) is geographical (SG/Indonesia/Japan), not per-property. Property cards give marketing 'rental income' only, not NPI."},
-    {"column": "properties.trade_mix", "reason": "Per-property trade mix not disclosed — master-lease structure with one/two master lessees per property."}
+    {
+      "column": "properties.gla",
+      "reason": "Healthcare REIT — all assets are hospitals/nursing homes. Neither the Portfolio Statement (pp.136-145) nor the property cards (pp.29-43) disclose gross lettable area. Size metric is Gross Floor Area (m2) plus beds/rooms. GFA captured in gfa."
+    },
+    {
+      "column": "properties.nla",
+      "reason": "Net lettable area not disclosed anywhere; master-lease healthcare assets are leased whole-building, not per-unit. Confirmed across all property pages."
+    },
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed. Statement of Total Return discloses only Group NPI (S$97,340,000, p127); segment note (p179) is geographical (SG/Indonesia/Japan), not per-property. Property cards give marketing 'rental income' only, not NPI."
+    },
+    {
+      "column": "properties.trade_mix",
+      "reason": "Per-property trade mix not disclosed — master-lease structure with one/two master lessees per property."
+    }
   ],
   "data_with_no_home": [
-    {"description": "Maximum beds/rooms per property (healthcare capacity metric)", "note": "Disclosed on property cards (pp.29-43). GFA/area is recorded; bed/room counts have no schema home. Examples: Lippo Village 308 beds, MRCCC 334 beds, Kupang 416 beds; Japan nursing homes 29-281 rooms each.", "source_pages": "29-43"},
-    {"description": "FX rates", "note": "Japan: average SGD 1 = JPY 112 (income), closing SGD 1 = JPY 120 (valuation). Indonesia: average SGD 1 = IDR 12,346 (income), closing SGD 1 = IDR 12,987 (valuation).", "source_pages": "29-43"},
-    {"description": "Rental income breakdown by geography", "note": "Indonesia 82.5% (S$82.9m), Japan 13.3% (S$13.4m), Singapore 4.2% (S$4.2m).", "source_pages": "6, 179"},
-    {"description": "Capital management ratios beyond schema KPIs", "note": "% debt fixed/hedged 46.1%; % debt social finance instruments 78.7%; weighted-avg debt maturity not stated in years (S$300m term loan extended to May 2027; perpetuals S$33.3m redeemed Jan 2026).", "source_pages": "7, 12"},
-    {"description": "Perpetual securities", "note": "S$33,282,000 outstanding; FY2025 distribution attributable to perpetual holders S$1,656,000. Redeemed in full January 2026.", "source_pages": "127, 171"},
-    {"description": "Strategic Review", "note": "Ongoing as at 31 Dec 2025 following Siloam LOI to acquire the Indonesia hospital portfolio.", "source_pages": "11"},
-    {"description": "MPU rental arrears", "note": "PT Metropolis Propertindo Utama outstanding rental ~IDR 89.25bn (~S$6,873,000) as at 31 Dec 2025.", "source_pages": "44"}
+    {
+      "description": "Maximum beds/rooms per property (healthcare capacity metric)",
+      "note": "Disclosed on property cards (pp.29-43). GFA/area is recorded; bed/room counts have no schema home. Examples: Lippo Village 308 beds, MRCCC 334 beds, Kupang 416 beds; Japan nursing homes 29-281 rooms each.",
+      "source_pages": "29-43"
+    },
+    {
+      "description": "FX rates",
+      "note": "Japan: average SGD 1 = JPY 112 (income), closing SGD 1 = JPY 120 (valuation). Indonesia: average SGD 1 = IDR 12,346 (income), closing SGD 1 = IDR 12,987 (valuation).",
+      "source_pages": "29-43"
+    },
+    {
+      "description": "Rental income breakdown by geography",
+      "note": "Indonesia 82.5% (S$82.9m), Japan 13.3% (S$13.4m), Singapore 4.2% (S$4.2m).",
+      "source_pages": "6, 179"
+    },
+    {
+      "description": "Capital management ratios beyond schema KPIs",
+      "note": "% debt fixed/hedged 46.1%; % debt social finance instruments 78.7%; weighted-avg debt maturity not stated in years (S$300m term loan extended to May 2027; perpetuals S$33.3m redeemed Jan 2026).",
+      "source_pages": "7, 12"
+    },
+    {
+      "description": "Perpetual securities",
+      "note": "S$33,282,000 outstanding; FY2025 distribution attributable to perpetual holders S$1,656,000. Redeemed in full January 2026.",
+      "source_pages": "127, 171"
+    },
+    {
+      "description": "Strategic Review",
+      "note": "Ongoing as at 31 Dec 2025 following Siloam LOI to acquire the Indonesia hospital portfolio.",
+      "source_pages": "11"
+    },
+    {
+      "description": "MPU rental arrears",
+      "note": "PT Metropolis Propertindo Utama outstanding rental ~IDR 89.25bn (~S$6,873,000) as at 31 Dec 2025.",
+      "source_pages": "44"
+    }
   ],
   "parsing_traps": [
     "Statement of Total Return (p127) 'Rental and other income' S$100,531k is the gross_revenue anchor; includes S$3,926k variable rent and S$7,446k straight-lining adjustment (Note 16, p173). Note 16 rental-income line is S$100,526k + S$5k dividend income from share trading = S$100,531k.",
@@ -40,11 +124,53 @@
     "top_tenant_sum": 100.0
   },
   "inferred": [
-    {"table": "properties", "field": "occupancy_rate", "scope": "all 31 active properties", "value": 100.0, "basis": "Portfolio described as full committed occupancy / 'full occupancy' (master-lease structure, pp.11,389); per-property occupancy not separately disclosed.", "source_page": 11},
-    {"table": "properties", "field": "lease_term_years", "scope": "all rows", "value": "derived", "basis": "Derived from disclosed lease-term wording (e.g. '15+15 years', '30+5 years') in Portfolio Statement / property cards — first base term recorded.", "source_page": 136},
-    {"table": "properties", "field": "lease_expiry_date", "scope": "Indonesia master-leased hospitals", "value": "2035-12-31", "basis": "Restructured MLA expiry 31 December 2035 disclosed on cards (pp.37-43) and p44; combined assets use the earlier of the two component expiries.", "source_page": 44},
-    {"table": "properties", "field": "effective_date", "scope": "Singapore properties", "value": "land-lease start", "basis": "Land-lease commencement year from card tenure wording (e.g. '30 years leasehold from 22 Apr 2002').", "source_page": 35},
-    {"table": "top_tenants", "field": "industry", "scope": "all 11 rows", "value": "assigned", "basis": "p5 top-tenant table has no trade-sector column; industry assigned from tenant identity (hospital/nursing operators -> Healthcare & Wellness; PT Lippo Karawaci / PT Metropolis Propertindo Utama property master lessees -> Infrastructure, Real Estate & Property Services).", "source_page": 5},
-    {"table": "financial", "field": "free_cash_flow", "scope": "cash_flow_metrics", "value": 60929000, "basis": "Computed as operating_cash_flow 64,675 - capital_expenditure 3,746; capex = capital expenditures to investment properties (p133).", "source_page": 133}
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "all 31 active properties",
+      "value": 100.0,
+      "basis": "Portfolio described as full committed occupancy / 'full occupancy' (master-lease structure, pp.11,389); per-property occupancy not separately disclosed.",
+      "source_page": 11
+    },
+    {
+      "table": "properties",
+      "field": "lease_term_years",
+      "scope": "all rows",
+      "value": "derived",
+      "basis": "Derived from disclosed lease-term wording (e.g. '15+15 years', '30+5 years') in Portfolio Statement / property cards — first base term recorded.",
+      "source_page": 136
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "Indonesia master-leased hospitals",
+      "value": "2035-12-31",
+      "basis": "Restructured MLA expiry 31 December 2035 disclosed on cards (pp.37-43) and p44; combined assets use the earlier of the two component expiries.",
+      "source_page": 44
+    },
+    {
+      "table": "properties",
+      "field": "effective_date",
+      "scope": "Singapore properties",
+      "value": "land-lease start",
+      "basis": "Land-lease commencement year from card tenure wording (e.g. '30 years leasehold from 22 Apr 2002').",
+      "source_page": 35
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all 11 rows",
+      "value": "assigned",
+      "basis": "p5 top-tenant table has no trade-sector column; industry assigned from tenant identity (hospital/nursing operators -> Healthcare & Wellness; PT Lippo Karawaci / PT Metropolis Propertindo Utama property master lessees -> Infrastructure, Real Estate & Property Services).",
+      "source_page": 5
+    },
+    {
+      "table": "financial",
+      "field": "free_cash_flow",
+      "scope": "cash_flow_metrics",
+      "value": 60929000,
+      "basis": "Computed as operating_cash_flow 64,675 - capital_expenditure 3,746; capex = capital expenditures to investment properties (p133).",
+      "source_page": 133
+    }
   ]
 }

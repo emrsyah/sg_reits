@@ -1,12 +1,30 @@
 {
   "fx_rates": [
-    {"pair": "RMB/SGD", "closing": null, "average": null, "source_page": 131, "note": "No explicit RMB/SGD exchange rate is printed in the report. The Portfolio Statement (page 131) and financial-review tables (gross revenue page 58, valuation page 60) disclose paired RMB'000 / S$'000 figures, and FS note 3.2 (page 139-140) states only the translation METHOD (closing rate at reporting date for assets/liabilities; transaction-date rate for income). No numeric closing or average rate is disclosed, so both are left null per the audit-trail / convert-nothing rule. Implied (NOT disclosed) ratios for reference only: valuation 4,694,000/859,162 ~= RMB6.8285/S$1 closing; revenue 302,992/55,106 ~= RMB5.4983/S$1 average."}
+    {
+      "pair": "RMB/SGD",
+      "closing": null,
+      "average": null,
+      "source_page": 131,
+      "note": "No explicit RMB/SGD exchange rate is printed in the report. The Portfolio Statement (page 131) and financial-review tables (gross revenue page 58, valuation page 60) disclose paired RMB'000 / S$'000 figures, and FS note 3.2 (page 139-140) states only the translation METHOD (closing rate at reporting date for assets/liabilities; transaction-date rate for income). No numeric closing or average rate is disclosed, so both are left null per the audit-trail / convert-nothing rule. Implied (NOT disclosed) ratios for reference only: valuation 4,694,000/859,162 ~= RMB6.8285/S$1 closing; revenue 302,992/55,106 ~= RMB5.4983/S$1 average."
+    }
   ],
   "columns_never_fillable": [
-    {"column": "properties.gla", "reason": "Cards disclose Gross Floor Area (GFA) and Net Lettable Area (NLA) only; no separate gross-lettable-area (GLA) figure is disclosed. GFA->gfa, NLA->nla; gla left null per GLA!=GFA invariant."},
-    {"column": "properties.major_tenants (multi-tenanted malls)", "reason": "Per-property top tenants are not broken out per mall; only a portfolio Top-10 tenant list (page 57) and a portfolio trade-mix (page 63) are disclosed. The two master-leased malls (Xining, Dalian) have a single named master lessee, captured."},
-    {"column": "financial.income_stmt_metrics.funds_from_operation", "reason": "No FFO/AFFO disclosed; the trust reports income available for distribution (S$1.638m) instead -> performance.net_distributable_income."},
-    {"column": "financial.income_stmt_metrics.perpetual_security_holders", "reason": "No perpetual securities in the capital structure."}
+    {
+      "column": "properties.gla",
+      "reason": "Cards disclose Gross Floor Area (GFA) and Net Lettable Area (NLA) only; no separate gross-lettable-area (GLA) figure is disclosed. GFA->gfa, NLA->nla; gla left null per GLA!=GFA invariant."
+    },
+    {
+      "column": "properties.major_tenants (multi-tenanted malls)",
+      "reason": "Per-property top tenants are not broken out per mall; only a portfolio Top-10 tenant list (page 57) and a portfolio trade-mix (page 63) are disclosed. The two master-leased malls (Xining, Dalian) have a single named master lessee, captured."
+    },
+    {
+      "column": "financial.income_stmt_metrics.funds_from_operation",
+      "reason": "No FFO/AFFO disclosed; the trust reports income available for distribution (S$1.638m) instead -> performance.net_distributable_income."
+    },
+    {
+      "column": "financial.income_stmt_metrics.perpetual_security_holders",
+      "reason": "No perpetual securities in the capital structure."
+    }
   ],
   "data_with_no_home": [
     "Independent valuation headline (page 5/62): RMB 4,694.0 million (100%); RMB 3,691.2 million on 60% interest of Beijing Wanliu. SGD consolidated audited valuation = S$859,162,000 (Portfolio Statement, page 131).",
@@ -38,8 +56,66 @@
     "line_items_recon": "Sum(revenue) 55,106 - Sum(expense) 28,194 + Sum(adjustment, signed) -25,403 = 1,509 = net_income (Total return for the year after taxation). PASS.",
     "total_revenue_vs_performance": "financial.total_revenue 55,106,000 == performance.gross_revenue 55,106,000. PASS."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 519603000,
+      "basis": "Note 22 Earnings per Unit, p173 (Group): weighted average number of Units 'at beginning and end of the year' = 519,603 ('000) = 519,603,000 absolute. Basic and diluted equal.",
+      "source_page": 173
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 519603000,
+      "basis": "Note 22 p173: diluted EPU based on same weighted-avg units 519,603 ('000) (no dilutive instruments). Verified correct.",
+      "source_page": 173
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 1638000,
+      "basis": "Distribution Statement p128 (Group): 'Income for the year available for distribution to Unitholders' = 1,638 ('000). Distributable-income line, not 1,474k to-be-distributed (after retention) nor 2,442k distributions paid. Verified correct.",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Set null. Distribution Statement (p128) has a single distributable-income figure (1,638k); the 1,474k 'to be distributed' line is a working-capital retention, not a separate cash-fee-deducted adjusted DI (method 1).",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 1474000,
+      "basis": "'Income for the year to be distributed to Unitholders' = 1,474 = income for year 1,638 less amount retained (164) (S$'000 -> abs); retained check 1,638-1,474=164 OK",
+      "source_page": 128
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 5
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "scope": "all 6 rows", "value": "from cards 'Term of Land Use (Expiring on)'", "basis": "Land-use-right expiry dates read from the per-property cards (pages 64-65); consistent with Portfolio-Statement remaining-term years.", "source_page": 64},
-    {"table": "performance", "field": "portfolio_value", "scope": "portfolio_value", "value": 859162000, "basis": "Used the SGD consolidated audited valuation (Portfolio Statement) as portfolio_value; the marketing headline is RMB 4,694.0m (100%).", "source_page": 131}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "all 6 rows",
+      "value": "from cards 'Term of Land Use (Expiring on)'",
+      "basis": "Land-use-right expiry dates read from the per-property cards (pages 64-65); consistent with Portfolio-Statement remaining-term years.",
+      "source_page": 64
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_value",
+      "scope": "portfolio_value",
+      "value": 859162000,
+      "basis": "Used the SGD consolidated audited valuation (Portfolio Statement) as portfolio_value; the marketing headline is RMB 4,694.0m (100%).",
+      "source_page": 131
+    }
   ]
 }

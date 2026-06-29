@@ -1,8 +1,61 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 3903899000,
+      "basis": "EPU note (p165) basic: 'Weighted average number of Units in issue during the year' 3,903,899 ('000); disclosed in '000, x1000 to absolute.",
+      "source_page": 165
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 3903899000,
+      "basis": "EPU note (p165) diluted: 'Weighted average number of Units in issue during the year (diluted)' 3,903,899 ('000) for 2025 (= basic; convertible bonds antidilutive, footnote 1; the 3,830,595 figure is 2024 diluted). Verified correct.",
+      "source_page": 165
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement (p121) Note A adds back Manager's management fees paid/payable in Units (43,542) non-cash; single 'Income available for distribution to Unitholders' 320,277 only -> method 1, null.",
+      "source_page": 121
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 320277000,
+      "basis": "AUDIT: matches 'Income available for distribution to Unitholders' 320,277 ('000) (DPU numerator), NOT 'Total Unitholders' distribution' paid 276,593 nor headline 'Distribution to Unitholders' 212,406. Correct, no change.",
+      "source_page": 121
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 212406000,
+      "basis": "FOR-THE-YEAR declared 'Distribution to Unitholders' 212,406 ('000) — the subtotal line on the Distribution Statement (p121) AND Selected Financials line353 AND MD&A 'FY2025 Distribution to Unitholders including Anniversary Distribution was $212.4 million, DPU 5.23 cents'. Ties to DPU 5.23c (2.72c 1H + 2.51c 2H) and includes the $20m Anniversary capital-gains top-up. NOT the rolling cash 'Total Unitholders' distribution' 276,593 (which mixes 2H-2024 final 107,633 + 1H-2025 105,549 + partial 1Jul-16Oct-2025 63,411 to the Oct private-placement cut-off). RETAINED CHECK: net_distributable_income 320,277 - 212,406 = 107,879 ('000) carried forward (income available is broader than the DPU-based declared amount; KR distributes 100% of taxable income only, p3793) — large but a known income-vs-declared timing/scope gap, not a wrong-line error. '000 x1000 to absolute.",
+      "source_page": 121
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 7
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue is not disclosed. The cards disclose only 'FY2025 Attributable NPI' per property; property income is disclosed only at Group level (Note 20, S$274,478k)."},
-    {"column": "properties.gla / properties.gfa", "reason": "Only Net Lettable Area (NLA, attributable) is disclosed per property; no GLA or GFA breakdown."},
-    {"column": "top_tenant.revenue_pct on a single basis", "reason": "Top-10 table discloses both % of committed monthly gross rent and % of committed NLA; revenue_pct captured = committed monthly gross rent."}
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Per-property gross revenue is not disclosed. The cards disclose only 'FY2025 Attributable NPI' per property; property income is disclosed only at Group level (Note 20, S$274,478k)."
+    },
+    {
+      "column": "properties.gla / properties.gfa",
+      "reason": "Only Net Lettable Area (NLA, attributable) is disclosed per property; no GLA or GFA breakdown."
+    },
+    {
+      "column": "top_tenant.revenue_pct on a single basis",
+      "reason": "Top-10 table discloses both % of committed monthly gross rent and % of committed NLA; revenue_pct captured = committed monthly gross rent."
+    }
   ],
   "data_with_no_home": [
     "Tenant Business Sector Analysis BY COMMITTED NLA (%) (p43) — a parallel mix to the gross-rent trade_mix captured; not stored to avoid double-counting.",
@@ -35,7 +88,21 @@
     "financial_line_items_check": "Σrevenue (274,478) − Σexpense (58,573) + Σadjustment_signed (288,130) = 504,035 = net_income (Profit for the year). NPI 215,905 = total_revenue − cost_of_revenue. total_revenue 274,478 = performance.gross_revenue. gross_income 215,905 = performance.net_property_income."
   },
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "scope": "leasehold properties", "value": "from card 'Title' expiry dates", "basis": "Lease expiry dates taken verbatim from the per-property 'Title' field on the At-a-Glance cards (p44-46); remaining-term years are from the Portfolio Statement (p122).", "source_page": 44},
-    {"table": "properties", "field": "category", "scope": "Top Ryde City Shopping Centre", "value": "Retail", "basis": "Classified Retail (a retail mall) per p40 narrative; all other assets are Office. category_raw 'Commercial' as printed in the Portfolio Statement.", "source_page": 40}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "leasehold properties",
+      "value": "from card 'Title' expiry dates",
+      "basis": "Lease expiry dates taken verbatim from the per-property 'Title' field on the At-a-Glance cards (p44-46); remaining-term years are from the Portfolio Statement (p122).",
+      "source_page": 44
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "Top Ryde City Shopping Centre",
+      "value": "Retail",
+      "basis": "Classified Retail (a retail mall) per p40 narrative; all other assets are Office. category_raw 'Commercial' as printed in the Portfolio Statement.",
+      "source_page": 40
+    }
   ]
 }

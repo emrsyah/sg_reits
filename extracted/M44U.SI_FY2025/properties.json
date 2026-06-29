@@ -17,7 +17,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 48000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -37,7 +40,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 15700000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -57,7 +63,10 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 19600000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -77,7 +86,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 12500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -97,7 +109,11 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 145200000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64,
+    "purchase_price_note": "includes costs of asset enhancement / redevelopment (per portfolio statement footnote)"
   },
   {
     "symbol": "M44U.SI",
@@ -117,7 +133,10 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 15600000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -137,7 +156,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 11400000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -157,7 +179,10 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 35000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -177,7 +202,10 @@
     "tenure_raw": "29/30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 18100000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -197,7 +225,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 20400000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -217,7 +248,11 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 108300000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64,
+    "purchase_price_note": "includes costs of asset enhancement / redevelopment (per portfolio statement footnote)"
   },
   {
     "symbol": "M44U.SI",
@@ -237,7 +272,10 @@
     "tenure_raw": "60 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 19000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -257,7 +295,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 26500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 64
   },
   {
     "symbol": "M44U.SI",
@@ -277,7 +318,10 @@
     "tenure_raw": "73 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 91000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -297,7 +341,10 @@
     "tenure_raw": "28+30 years/30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 12200000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -317,7 +364,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 9100000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -337,7 +387,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 45000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -357,7 +410,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 17300000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -377,7 +433,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 17000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -397,7 +456,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 15600000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -417,7 +479,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 13000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -437,7 +502,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 13000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -457,7 +525,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 168000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -477,7 +548,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 25400000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -497,7 +571,10 @@
     "tenure_raw": "60 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 18000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -517,7 +594,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 6900000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -537,7 +617,11 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 130,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 127300000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66,
+    "purchase_price_note": "includes costs of asset enhancement / redevelopment (per portfolio statement footnote)"
   },
   {
     "symbol": "M44U.SI",
@@ -557,7 +641,10 @@
     "tenure_raw": "30+12 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 26500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -577,7 +664,10 @@
     "tenure_raw": "30+15 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 48000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -597,7 +687,10 @@
     "tenure_raw": "20 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 7600000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -617,7 +710,10 @@
     "tenure_raw": "29 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 43000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -637,7 +733,10 @@
     "tenure_raw": "25+30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 34500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -657,7 +756,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 53000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -677,7 +779,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 55000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -697,7 +802,10 @@
     "tenure_raw": "30/30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 16800000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -717,7 +825,10 @@
     "tenure_raw": "30+28 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 13800000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -737,7 +848,10 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 24500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -757,7 +871,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 36600000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -777,7 +894,10 @@
     "tenure_raw": "30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 117000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -797,7 +917,10 @@
     "tenure_raw": "30+10 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 179000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -817,7 +940,10 @@
     "tenure_raw": "30+24 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 244000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -837,7 +963,10 @@
     "tenure_raw": "30+21 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 115000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -857,7 +986,10 @@
     "tenure_raw": "30+14 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 75000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -877,7 +1009,10 @@
     "tenure_raw": "30+30 years",
     "status": "active",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 24500000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 67
   },
   {
     "symbol": "M44U.SI",
@@ -897,7 +1032,10 @@
     "tenure_raw": "60 years",
     "status": "held_for_sale",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 11000000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -917,7 +1055,10 @@
     "tenure_raw": "60 years",
     "status": "held_for_sale",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 5800000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 66
   },
   {
     "symbol": "M44U.SI",
@@ -937,7 +1078,10 @@
     "tenure_raw": "30+13 years",
     "status": "held_for_sale",
     "source_page": 132,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 16200000,
+    "purchase_price_currency": "SGD",
+    "purchase_price_source_page": 65
   },
   {
     "symbol": "M44U.SI",
@@ -1057,7 +1201,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 253000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1077,7 +1224,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 24300000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1097,7 +1247,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 27800000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1117,7 +1270,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 17700000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1137,7 +1293,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 15200000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1157,7 +1316,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 28100000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1177,7 +1339,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 27900000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1197,7 +1362,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 18000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 68
   },
   {
     "symbol": "M44U.SI",
@@ -1217,7 +1385,10 @@
     "tenure_raw": "300 years",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 68200000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1237,7 +1408,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 105000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1257,7 +1431,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 18400000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1277,7 +1454,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 114000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1297,7 +1477,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 42800000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1317,7 +1500,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 134,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 125700000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 69
   },
   {
     "symbol": "M44U.SI",
@@ -1337,7 +1523,11 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 365300000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70,
+    "purchase_price_note": "includes costs of asset enhancement / redevelopment (per portfolio statement footnote)"
   },
   {
     "symbol": "M44U.SI",
@@ -1357,7 +1547,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 241300000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1377,7 +1570,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 100000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1397,7 +1593,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 55000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1417,7 +1616,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 116000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1437,7 +1639,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 205600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1457,7 +1662,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 197200000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1477,7 +1685,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 373800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1497,7 +1708,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 521800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1517,7 +1731,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 136,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 216800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1537,7 +1754,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 123600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1557,7 +1777,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 350000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 70
   },
   {
     "symbol": "M44U.SI",
@@ -1577,7 +1800,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 290300000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1597,7 +1823,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 453800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1617,7 +1846,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 277100000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1637,7 +1869,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 180100000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1657,7 +1892,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 241800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1677,7 +1915,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 138,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 464100000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1697,7 +1938,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 112200000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1717,7 +1961,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 147000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1737,7 +1984,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 413100000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1757,7 +2007,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 371900000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1777,7 +2030,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 492400000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1797,7 +2053,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 242600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "M44U.SI",
@@ -1817,7 +2076,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 226000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1837,7 +2099,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 432600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1857,7 +2122,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 265300000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1877,7 +2145,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 140,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 212000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1897,7 +2168,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 204200000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1917,7 +2191,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 331900000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1937,7 +2214,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 235000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1957,7 +2237,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 155600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1977,7 +2260,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 167000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 72
   },
   {
     "symbol": "M44U.SI",
@@ -1997,7 +2283,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 166100000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2017,7 +2306,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 328600000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2037,7 +2329,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 915500000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2057,7 +2352,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 142,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 288500000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2077,7 +2375,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 144,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 235800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2097,7 +2398,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 144,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 320700000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2117,7 +2421,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 144,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 280000000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2137,7 +2444,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 144,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 468800000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2157,7 +2467,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 144,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 218200000,
+    "purchase_price_currency": "RMB",
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "M44U.SI",
@@ -2197,7 +2510,10 @@
     "tenure_raw": "149 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 206000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2217,7 +2533,10 @@
     "tenure_raw": "60 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 341000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2237,7 +2556,10 @@
     "tenure_raw": "58 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 935200000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2257,7 +2579,10 @@
     "tenure_raw": "55 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1037000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2277,7 +2602,10 @@
     "tenure_raw": "60 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 113000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2297,7 +2625,10 @@
     "tenure_raw": "54 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 210000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2317,7 +2648,10 @@
     "tenure_raw": "56 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 780000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2337,7 +2671,10 @@
     "tenure_raw": "149 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 66000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2357,7 +2694,10 @@
     "tenure_raw": "50 years",
     "status": "active",
     "source_page": 146,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 4800000000,
+    "purchase_price_currency": "HKD",
+    "purchase_price_source_page": 74
   },
   {
     "symbol": "M44U.SI",
@@ -2377,7 +2717,10 @@
     "tenure_raw": "95 years",
     "status": "active",
     "source_page": 148,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 4050000000,
+    "purchase_price_currency": "INR",
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "M44U.SI",
@@ -2397,7 +2740,10 @@
     "tenure_raw": "95 years",
     "status": "active",
     "source_page": 148,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 500000000,
+    "purchase_price_currency": "INR",
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "M44U.SI",
@@ -2417,7 +2763,10 @@
     "tenure_raw": "42 years",
     "status": "active",
     "source_page": 148,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 900000000,
+    "purchase_price_currency": "INR",
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "M44U.SI",
@@ -2437,7 +2786,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1274600000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2457,7 +2809,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 8809000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2477,7 +2832,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 3719400000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2497,7 +2855,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 6900000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2517,7 +2878,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 4360000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2537,7 +2901,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1490000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2557,7 +2924,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 753600000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2577,7 +2947,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 4800000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2597,7 +2970,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 7300000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2617,7 +2993,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1460000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2637,7 +3016,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1050000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2657,7 +3039,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 150,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 3500000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 76
   },
   {
     "symbol": "M44U.SI",
@@ -2677,7 +3062,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 1830000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2697,7 +3085,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 22200000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2717,7 +3108,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 6370000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2737,7 +3131,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 35000000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2757,7 +3154,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 7135000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2777,7 +3177,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 16315000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2797,7 +3200,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 8460000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2817,7 +3223,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 7050000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2837,7 +3246,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 12800000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2857,7 +3269,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 152,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 14240000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "M44U.SI",
@@ -2937,7 +3352,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 45000000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -2957,7 +3375,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 19900000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -2977,7 +3398,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 9500000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -2997,7 +3421,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 35200000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -3017,7 +3444,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 160000000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -3037,7 +3467,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 826000000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 78
   },
   {
     "symbol": "M44U.SI",
@@ -3057,7 +3490,10 @@
     "tenure_raw": "40 years",
     "status": "active",
     "source_page": 154,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 404800000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "M44U.SI",
@@ -3077,7 +3513,10 @@
     "tenure_raw": "99 years",
     "status": "active",
     "source_page": 156,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 65600000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "M44U.SI",
@@ -3097,7 +3536,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 156,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 558800000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "M44U.SI",
@@ -3117,7 +3559,10 @@
     "tenure_raw": "99 years",
     "status": "held_for_sale",
     "source_page": 156,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 17200000,
+    "purchase_price_currency": "MYR",
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "M44U.SI",
@@ -3297,7 +3742,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 11650000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3317,7 +3765,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 32000000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3337,7 +3788,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 22000000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3357,7 +3811,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 75580000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3377,7 +3834,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 33500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3397,7 +3857,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 30000000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3417,7 +3880,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 22500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3437,7 +3903,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 28750000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3457,7 +3926,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 25500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3477,7 +3949,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 160,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 21400000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3497,7 +3972,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 17500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3517,7 +3995,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 37850000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3537,7 +4018,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 35000000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3557,7 +4041,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 114500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3577,7 +4064,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 59900000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 80
   },
   {
     "symbol": "M44U.SI",
@@ -3597,7 +4087,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 50700000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3617,7 +4110,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 28200000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3637,7 +4133,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 26700000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3657,7 +4156,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 135000000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3677,7 +4179,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 88500000000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3697,7 +4202,10 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 162,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 144802500000,
+    "purchase_price_currency": "KRW",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "M44U.SI",
@@ -3717,7 +4225,10 @@
     "tenure_raw": "42 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 133299200000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3737,7 +4248,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 336975000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3757,7 +4271,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 339546000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3777,7 +4294,10 @@
     "tenure_raw": "36 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 725090000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3797,7 +4317,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 375642300000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3817,7 +4340,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 463183000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 82
   },
   {
     "symbol": "M44U.SI",
@@ -3837,7 +4363,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 164,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 514716300000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "M44U.SI",
@@ -3857,7 +4386,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 166,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 708789300000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "M44U.SI",
@@ -3877,7 +4409,10 @@
     "tenure_raw": "48 years",
     "status": "active",
     "source_page": 166,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 870426400000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "M44U.SI",
@@ -3897,7 +4432,10 @@
     "tenure_raw": "47 years",
     "status": "active",
     "source_page": 166,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 578909600000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "M44U.SI",
@@ -3917,7 +4455,10 @@
     "tenure_raw": "49 years",
     "status": "active",
     "source_page": 166,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 629741000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "M44U.SI",
@@ -3937,6 +4478,9 @@
     "tenure_raw": "47 years",
     "status": "active",
     "source_page": 166,
-    "category_raw": "Logistics"
+    "category_raw": "Logistics",
+    "purchase_price": 624782000000,
+    "purchase_price_currency": "VND",
+    "purchase_price_source_page": 83
   }
 ]

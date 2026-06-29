@@ -1,7 +1,57 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 4519151000,
+      "basis": "EPU note (Note 24, basic earnings per Unit), 'Weighted average number of Units' total 4,519,151 ('000) = outstanding 4,519,150 + 1 to be issued for management fee; disclosed in '000, x1000 to absolute.",
+      "source_page": 178
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 4519151000,
+      "basis": "EPU note (b) 'diluted earnings per Unit was equivalent to the basic earnings per Unit' as at 31 Dec 2025 — no separate diluted figure; diluted = basic 4,519,151 ('000). Verified correct.",
+      "source_page": 178
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Consolidated Distribution Statement (p116) adds back management/acquisition/divestment fees paid/payable in Units (non-cash); single distributable-income figure (678,268) only -> method 1, null.",
+      "source_page": 116
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 678268000,
+      "basis": "AUDIT: matches 'Total amount available for distribution to Unitholders for the year' 678,268 ('000) on the Consolidated Distribution Statement (DPU numerator), NOT distributions paid. Correct, no change.",
+      "source_page": 116
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 669086000,
+      "basis": "Consolidated Distribution Statement (Group, 2025 col): sum of the three FY2025 distributions declared/deducted = (45,971)+(285,110)+(338,005) = 669,086 ('000), x1000 to absolute. Ties to DPU 0.998c+6.479c+7.681c. Retained check: net_distributable_income 678,268 - 669,086 = 9,182 ('000) carried forward (Total amount available at end 347,558 vs begin 338,376, delta +9,182). Positive and small — consistent.",
+      "source_page": 116
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 20
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed. NPI is reported only at the segment level (Business Space & Life Sciences / Industrial & Data Centres / Logistics) in the segment note. Per-property cards disclose gross revenue + occupancy + GFA + NLA but NOT NPI."},
-    {"column": "property.npi_pct", "reason": "Not disclosed per property; portfolio statement gives '% of net assets attributable to unitholders' (a valuation share, not an NPI share)."}
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI not disclosed. NPI is reported only at the segment level (Business Space & Life Sciences / Industrial & Data Centres / Logistics) in the segment note. Per-property cards disclose gross revenue + occupancy + GFA + NLA but NOT NPI."
+    },
+    {
+      "column": "property.npi_pct",
+      "reason": "Not disclosed per property; portfolio statement gives '% of net assets attributable to unitholders' (a valuation share, not an NPI share)."
+    }
   ],
   "data_with_no_home": [
     "Total assets S$19,794m; Total borrowings S$7,563m (excl FRS116); Net Debt/EBITDA 8.3x; Fixed-rate debt 75.4% of total debt; WALE by geography: SG 3.4y, US 4.6y, AU 3.7y, UK/Europe 5.0y.",
@@ -18,9 +68,28 @@
     "Property count: cover says 222 investment properties (excl. 6 under development); Manager's Review says 226; portfolio statement says 228 valued (incl IPUD). Property rows extracted = the individually-listed rows in the audited Portfolio Statement with a 2025 carrying amount."
   ],
   "inferred": [
-    {"table": "trade_mix", "field": "category", "scope": "raw labels mapped to canonical 15", "basis": "Customer industry diversification chart (by monthly rental income) labels mapped to canonical taxonomy; e.g. Data Centres/e-Commerce/Chemical/Agriculture -> Other Industrial Trades, Engineering/Real Estate -> Infrastructure RE & Property Services, Biomedical Sciences -> Healthcare & Wellness, Electronics/Textile -> Manufacturing, Media -> IT & Telecommunications. category_raw keeps verbatim labels.", "source_page": 37},
-    {"table": "top_tenants", "field": "industry", "scope": "all rows", "basis": "Top-10 customer table has no trade-sector column; industry assigned from the company name/known business (e.g. SEA Group -> IT & Telecommunications, DHL -> Logistics, DBS/Citibank/Stripe -> Financial & Professional Services).", "source_page": 38},
-    {"table": "performance", "field": "wale", "scope": "wale", "value": 3.7, "basis": "Portfolio WALE 3.7 years (by gross rental) disclosed verbatim p.2024 line / region overviews.", "source_page": 36}
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "raw labels mapped to canonical 15",
+      "basis": "Customer industry diversification chart (by monthly rental income) labels mapped to canonical taxonomy; e.g. Data Centres/e-Commerce/Chemical/Agriculture -> Other Industrial Trades, Engineering/Real Estate -> Infrastructure RE & Property Services, Biomedical Sciences -> Healthcare & Wellness, Electronics/Textile -> Manufacturing, Media -> IT & Telecommunications. category_raw keeps verbatim labels.",
+      "source_page": 37
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all rows",
+      "basis": "Top-10 customer table has no trade-sector column; industry assigned from the company name/known business (e.g. SEA Group -> IT & Telecommunications, DHL -> Logistics, DBS/Citibank/Stripe -> Financial & Professional Services).",
+      "source_page": 38
+    },
+    {
+      "table": "performance",
+      "field": "wale",
+      "scope": "wale",
+      "value": 3.7,
+      "basis": "Portfolio WALE 3.7 years (by gross rental) disclosed verbatim p.2024 line / region overviews.",
+      "source_page": 36
+    }
   ],
   "reconciliation": {
     "reported_total_gross_revenue": 1538574000,

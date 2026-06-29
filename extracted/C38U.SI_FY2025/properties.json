@@ -35,7 +35,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 409000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -73,7 +75,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 605800000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -187,7 +191,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 295000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -225,7 +231,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 247400000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -263,7 +271,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 243800000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -301,7 +311,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 268000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -339,7 +351,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 295000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -497,7 +511,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 675200000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -535,7 +551,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 793900000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -617,7 +635,9 @@
     "flags": [],
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 2166000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -655,7 +675,9 @@
     "flags": [],
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 710000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -693,7 +715,9 @@
     "flags": [],
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 191000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -731,7 +755,9 @@
     "flags": [],
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 839800000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -851,7 +877,9 @@
     ],
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 422000000.0,
+    "purchase_price_currency": "AUD"
   },
   {
     "symbol": "C38U.SI",
@@ -977,7 +1005,9 @@
     "category_raw": null,
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 161300000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",

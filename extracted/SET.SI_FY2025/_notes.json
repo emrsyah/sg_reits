@@ -1,10 +1,25 @@
 {
   "columns_never_fillable": [
-    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed; only segment-level (country x asset-class) gross revenue / property opex / segment profit in Note 1 (Operating Segment Information, p191). Recorded segment figures in _notes.reconciliation."},
-    {"column": "property.gross_revenue", "reason": "Per-property gross revenue not disclosed; only segment-level (p191)."},
-    {"column": "property.occupancy_rate", "reason": "Disclosed only at portfolio level (92.6%) and asset-class level (Logistics 87.2%, Office 100%, Others 100%); not per property."},
-    {"column": "property.gla / nla / gfa", "reason": "Lettable/floor area not disclosed per property in the audited Statement of Portfolio. Portfolio area cited narratively (~300,000 sqm re-leased) only."},
-    {"column": "property.major_tenants", "reason": "Per-property tenant lists not disclosed; only portfolio top-10 (p48)."}
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI not disclosed; only segment-level (country x asset-class) gross revenue / property opex / segment profit in Note 1 (Operating Segment Information, p191). Recorded segment figures in _notes.reconciliation."
+    },
+    {
+      "column": "property.gross_revenue",
+      "reason": "Per-property gross revenue not disclosed; only segment-level (p191)."
+    },
+    {
+      "column": "property.occupancy_rate",
+      "reason": "Disclosed only at portfolio level (92.6%) and asset-class level (Logistics 87.2%, Office 100%, Others 100%); not per property."
+    },
+    {
+      "column": "property.gla / nla / gfa",
+      "reason": "Lettable/floor area not disclosed per property in the audited Statement of Portfolio. Portfolio area cited narratively (~300,000 sqm re-leased) only."
+    },
+    {
+      "column": "property.major_tenants",
+      "reason": "Per-property tenant lists not disclosed; only portfolio top-10 (p48)."
+    }
   ],
   "data_with_no_home": [
     "Stapled structure: Stoneweg European REIT (constituted 28 Apr 2017, listed 30 Nov 2017) + Stoneweg European BT (constituted 21 May 2025); stapled security commenced trading 16 Jun 2025. Three-column statements (REIT Group / BT Group / SERT=Stapled Group). SERT (Stapled Group) used as canonical throughout.",
@@ -32,15 +47,92 @@
     "reported_total_npi": 134361000,
     "income_stmt_gross_income": 134361000,
     "line_items_recon": "Sum(revenue) - Sum(expense) + Sum(adjustment signed) = 214,617 - 139,697 + 4,114 = 79,034 = net_income (total return) [EUR '000]",
-    "segment_npi_by_class": {"Logistics_Light_Industrial": 71181000, "Office": 58965000, "Others": 4215000, "total": 134361000},
+    "segment_npi_by_class": {
+      "Logistics_Light_Industrial": 71181000,
+      "Office": 58965000,
+      "Others": 4215000,
+      "total": 134361000
+    },
     "segment_gross_revenue_by_country_class_page": 191,
     "property_count": "104 rows in Statement of Portfolio (95 active = 96 marketing portfolio less Via della Fortezza divested Mar 2025; 8 divested-in-year incl 5 Slovakia + Maxima + Cassiopea + Arkonska; 1 held-for-sale = Purotie 1 at EUR 2,495k)"
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 560947000,
+      "basis": "Note 6 Earnings per Stapled Security, p202: 'Weighted average number of Stapled Securities ('000)' = 560,947 ('000) = 560,947,000 absolute. Basic and diluted EPS equal (no dilutive instruments).",
+      "source_page": 202
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 560947000,
+      "basis": "Note 6 p202: diluted EPS same as basic, no dilutive instruments in issue; weighted-avg stapled securities = 560,947 ('000). Verified correct.",
+      "source_page": 202
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 74787000,
+      "basis": "Distribution Statement p169: 'Income available for distribution to Stapled Securityholders' FY2025 = 74,787 ('000). This is the distributable-income line, not 76,431k distributions declared. Note A adjustments are non-cash add-backs (method 1). Verified correct.",
+      "source_page": 169
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 74787000,
+      "basis": "'Income available for distribution to Stapled Securityholders' = 74,787 (EUR'000 -> abs); no retention, full for-year amount (DPS 13.390c for year); cash 'Distributions declared during year' 76,431 mixes prior-year so not used; retained check 74,787-74,787=0 OK",
+      "source_page": 169
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 74787000)",
+      "source_page": 5
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "ownership", "scope": "all rows", "value": 100.0, "basis": "All investment properties held 100% by Stoneweg European REIT Group (structure chart p18: 100% chain through SG/Lux SPVs). Not stated per property but structurally 100%.", "source_page": 18},
-    {"table": "properties", "field": "category", "scope": "Italy 'Others' rows", "value": "Specialized", "basis": "Trust 'Others' segment (hotel + leisure/cinema + govt-leased asset) mapped to canonical Specialized.", "source_page": 190},
-    {"table": "trade_mix", "field": "category", "scope": "'Others' and 'Administrative' raw labels", "value": "Other Office Trades", "basis": "Catch-all raw labels with no clean canonical fit mapped to Other Office Trades.", "source_page": 48},
-    {"table": "properties", "field": "lease_expiry_date", "scope": "single-value leasehold rows (Folkstoneweg, Central Plaza, De Ruyterkade 5, Parc Louvresses)", "value": "computed", "basis": "Derived as 2025-12-31 + disclosed remaining-term-years; the Statement of Portfolio discloses remaining term in years, not an expiry date. Veemarkt left null (range 13.0-17.0, no single value). Central Plaza set to 2088-07-31 per footnote (1).", "source_page": 175},
-    {"table": "financial", "field": "income_stmt_metrics._derived", "scope": "operating_income/ebit/ebitda/non_operating_income_or_loss/interest_expense_non_operating", "value": "computed", "basis": "Derived per reit-extract REFERENCE §2 standardization formulas from the audited Statement of Total Return (not literal REIT lines).", "source_page": 166}
+    {
+      "table": "properties",
+      "field": "ownership",
+      "scope": "all rows",
+      "value": 100.0,
+      "basis": "All investment properties held 100% by Stoneweg European REIT Group (structure chart p18: 100% chain through SG/Lux SPVs). Not stated per property but structurally 100%.",
+      "source_page": 18
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "Italy 'Others' rows",
+      "value": "Specialized",
+      "basis": "Trust 'Others' segment (hotel + leisure/cinema + govt-leased asset) mapped to canonical Specialized.",
+      "source_page": 190
+    },
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "'Others' and 'Administrative' raw labels",
+      "value": "Other Office Trades",
+      "basis": "Catch-all raw labels with no clean canonical fit mapped to Other Office Trades.",
+      "source_page": 48
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "single-value leasehold rows (Folkstoneweg, Central Plaza, De Ruyterkade 5, Parc Louvresses)",
+      "value": "computed",
+      "basis": "Derived as 2025-12-31 + disclosed remaining-term-years; the Statement of Portfolio discloses remaining term in years, not an expiry date. Veemarkt left null (range 13.0-17.0, no single value). Central Plaza set to 2088-07-31 per footnote (1).",
+      "source_page": 175
+    },
+    {
+      "table": "financial",
+      "field": "income_stmt_metrics._derived",
+      "scope": "operating_income/ebit/ebitda/non_operating_income_or_loss/interest_expense_non_operating",
+      "value": "computed",
+      "basis": "Derived per reit-extract REFERENCE §2 standardization formulas from the audited Statement of Total Return (not literal REIT lines).",
+      "source_page": 166
+    }
   ]
 }

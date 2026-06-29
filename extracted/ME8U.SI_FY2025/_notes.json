@@ -1,8 +1,17 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; NPI given only at segment level (Data Centres NA/Asia, Hi-Tech, Business Park, Flatted Factories, Stack-up, Light Industrial) as % of Group NPI (p79)."},
-    {"column": "properties.gla / nla / gfa", "reason": "The audited Portfolio Statement (canonical valuation source, p132-145) discloses no area metric. NLA/GFA are disclosed only in the marketing Property Portfolio Overview (p44-59, in sq ft, mixed US$/JPY/SGD); not merged here to keep valuation provenance from the audited statement."},
-    {"column": "properties.major_tenants", "reason": "Not disclosed per property; only portfolio-level Top 10 tenants (p33)."}
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed; NPI given only at segment level (Data Centres NA/Asia, Hi-Tech, Business Park, Flatted Factories, Stack-up, Light Industrial) as % of Group NPI (p79)."
+    },
+    {
+      "column": "properties.gla / nla / gfa",
+      "reason": "The audited Portfolio Statement (canonical valuation source, p132-145) discloses no area metric. NLA/GFA are disclosed only in the marketing Property Portfolio Overview (p44-59, in sq ft, mixed US$/JPY/SGD); not merged here to keep valuation provenance from the audited statement."
+    },
+    {
+      "column": "properties.major_tenants",
+      "reason": "Not disclosed per property; only portfolio-level Top 10 tenants (p33)."
+    }
   ],
   "data_with_no_home": [
     "Aggregate leverage incl. proportionate JV: aggregate debt S$3,721.7m (p11 fn10).",
@@ -30,8 +39,66 @@
     "income_line_items_reconcile": "Sum(revenue 711,833 - expense 180,373 + signed adjustments -186,019) = 345,441 = net_income (total return for the year). Pretax 375,072 - tax 29,631 = 345,441.",
     "property_count": "100 total = 86 consolidated valued + 1 divested (Tanglin Halt, no value) + 13 MRODCT JV (equity-accounted, US$)."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2841387000,
+      "basis": "EPU note 11 'Weighted average number of units outstanding during the year' = 2,841,387 ('000), absolute = 2,841,387,000; basic and diluted EPU stated identical (no dilutive instruments).",
+      "source_page": 164
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2841387000,
+      "basis": "Same EPU note 11: 'Diluted earnings per unit is the same as the basic earnings per unit as there were no dilutive instruments in issue', so diluted weighted-avg units = basic = 2,841,387,000. Stored value already correct.",
+      "source_page": 164
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "DPU method 1: manager's fees settled in units and added back as non-cash adjustment; Distribution Statement (p125) discloses a single 'Amount available for distribution' 388,110 ('000). No separate cash-fees-deducted adjusted figure. Set null.",
+      "source_page": 125
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 388110000,
+      "basis": "AUDIT: matches Distribution Statement 'Amount available for distribution' = 388,110 ('000), the DPU numerator (NOT 'Distribution to Unitholders' 385,979). Already correct, no change.",
+      "source_page": 125
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 385979000,
+      "basis": "'Distribution to Unitholders' line in Financial Review summary, p79: 385,979 ('000) for FY24/25 = the for-the-year declared distribution (incl. distribution of divestment gains 13,354). Distinct from 'Amount available for distribution - to Unitholders' 388,110 (=net_distributable_income). Retained = 388,110 - 385,979 = 2,131 ('000), small & positive (check passes). Ties to DPU 13.57c x ~2,841.4m units. ('000 -> absolute x1000)",
+      "source_page": 79
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 11
+    }
+  ],
   "inferred": [
-    {"table": "top_tenants", "field": "industry", "scope": "all 10 rows", "value": "assigned from tenant name / business descriptor", "basis": "Top-10 table (p33) has no trade-sector column; industry mapped from the company name or anonymised descriptor (e.g. 'Global Colocation Provider' -> IT & Telecommunications; Vanderbilt University Medical Center -> Healthcare & Wellness).", "source_page": 33},
-    {"table": "performance", "field": "distribution_record[3].dpu", "scope": "4Q FY24/25", "value": 3.36, "basis": "Derived as full-year DPU 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41). 4Q is declared after FY-end.", "source_page": 125}
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all 10 rows",
+      "value": "assigned from tenant name / business descriptor",
+      "basis": "Top-10 table (p33) has no trade-sector column; industry mapped from the company name or anonymised descriptor (e.g. 'Global Colocation Provider' -> IT & Telecommunications; Vanderbilt University Medical Center -> Healthcare & Wellness).",
+      "source_page": 33
+    },
+    {
+      "table": "performance",
+      "field": "distribution_record[3].dpu",
+      "scope": "4Q FY24/25",
+      "value": 3.36,
+      "basis": "Derived as full-year DPU 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41). 4Q is declared after FY-end.",
+      "source_page": 125
+    }
   ]
 }

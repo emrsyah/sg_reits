@@ -6,26 +6,45 @@
   "gross_revenue": 38305000,
   "net_property_income": 34623000,
   "net_distributable_income": 19303000,
+  "distribution_paid": 18338000,
+  "adjusted_distributable_income": null,
   "dpu": 3.03,
   "distribution_record": [
-    {"period": "1H FY2025", "dpu": 1.54, "ex_date": null, "pay_date": null},
-    {"period": "2H FY2025", "dpu": 1.49, "ex_date": null, "pay_date": null}
+    {
+      "period": "1H FY2025",
+      "dpu": 1.54,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "2H FY2025",
+      "dpu": 1.49,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 3530,
   "aggregate_leverage": 42.8,
   "interest_coverage_ratio": 2.6,
   "cost_of_debt": 4.7,
   "weighted_avg_debt_maturity": 1.8,
-  "nav_per_unit": 0.40,
+  "nav_per_unit": 0.4,
   "wale": 7.2,
   "portfolio_occupancy": 98.6,
   "currency": "GBP",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_half_year_split", "scope": "distribution_record",
-     "note": "1H FY2025 DPU = 1.54 pence (disclosed); 2H derived as 3.03 - 1.54 = 1.49 pence"},
-    {"type": "wale_pro_forma", "scope": "wale",
-     "note": "WALE 7.2 years is pro forma post DWP lease regears (signed Feb 2026); audited remaining lease term at reporting date was 2.4 years (Note 4)"}
+    {
+      "type": "dpu_half_year_split",
+      "scope": "distribution_record",
+      "note": "1H FY2025 DPU = 1.54 pence (disclosed); 2H derived as 3.03 - 1.54 = 1.49 pence"
+    },
+    {
+      "type": "wale_pro_forma",
+      "scope": "wale",
+      "note": "WALE 7.2 years is pro forma post DWP lease regears (signed Feb 2026); audited remaining lease term at reporting date was 2.4 years (Note 4)"
+    }
   ],
-  "source_page": 6
+  "source_page": 6,
+  "distribution_basis": "disclosed_after_retention"
 }

@@ -23,6 +23,58 @@ def d(v):  # date sanitizer: keep only valid YYYY-MM-DD, else None
 def J(v):  # jsonb wrapper (None stays NULL)
     return Json(v) if v is not None else None
 
+# --- property-transaction alias resolution (table formalized 2026-06-23; mirrors
+#     schema/models.py PropertyTransaction). raw keeps the ORIGINAL object; the typed
+#     columns are resolved here from the 50+ legacy ad-hoc key names. ---
+def _first(r, *aliases):
+    for k in aliases:
+        v = r.get(k)
+        if v not in (None, "", [], {}):
+            return v
+    return None
+
+def _num(v):
+    if isinstance(v, (int, float)):
+        return v
+    if isinstance(v, str):
+        s = v.replace(",", "").replace("$", "").strip()
+        try:
+            return float(s)
+        except ValueError:
+            return None
+    return None
+
+def txn_row(symbol, fy, r):
+    ttype = _first(r, "transaction_type", "type")
+    if isinstance(ttype, str):
+        ttype = ttype.strip().lower()
+    acq, div = ttype == "acquisition", ttype == "divestment"
+    purchase = _num(_first(r, "purchase_price", "acquisition_price", "purchase_consideration",
+                           "transaction_price")) if acq else None
+    proceeds = _num(_first(r, "net_proceeds", "sale_consideration", "sale_price",
+                           "divestment_price", "net_consideration_usd")) if div else None
+    amb = _num(_first(r, "consideration", "consideration_sgd", "price", "amount"))  # type-ambiguous
+    if amb is not None:
+        if acq and purchase is None:   purchase = amb
+        elif div and proceeds is None: proceeds = amb
+    return (
+        symbol, fy, ttype, r.get("property_name"),
+        d(_first(r, "transaction_date", "date", "completion_date", "completed_date",
+                 "agreement_date", "announced_date", "announcement_date")),
+        _first(r, "description", "notes", "note", "detail"),
+        _num(_first(r, "carrying_value", "carrying_value_pre")),
+        proceeds,
+        _num(_first(r, "gain_on_divestment", "gain", "gain_on_disposal", "gain_loss",
+                    "divestment_gain", "net_gain")),
+        purchase,
+        _num(_first(r, "valuation", "appraised_value", "agreed_value",
+                    "valuation_at_acquisition", "gross_valuation_usd")),
+        _first(r, "counterparty", "buyer", "purchaser", "seller", "vendor"),
+        _first(r, "status"),
+        _first(r, "currency", "consideration_currency", "valuation_currency", "currency_local"),
+        r.get("source_page"), J(r),
+    )
+
 def load_json(dirpath, name):
     p = pathlib.Path(dirpath) / name
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
@@ -62,7 +114,8 @@ def load_one(cur, dirpath):
     pf = pf[0] if isinstance(pf, list) else pf
     if pf:
         cols = ["portfolio_value","properties_location","gross_revenue","net_property_income",
-                "net_distributable_income","dpu","number_of_unitholders","aggregate_leverage",
+                "net_distributable_income","adjusted_distributable_income","distribution_paid","distribution_basis","dpu",
+                "number_of_unitholders","aggregate_leverage",
                 "interest_coverage_ratio","cost_of_debt","weighted_avg_debt_maturity","nav_per_unit",
                 "wale","portfolio_occupancy","currency","source_page"]
         cur.execute(f"""insert into sgx_reit_performance
@@ -111,6 +164,9 @@ def load_one(cur, dirpath):
     n_prop = reload_list("sgx_reit_property", "properties.json",
         lambda r: (symbol, fy, r.get("property_name"), r.get("country"), r.get("category"),
             r.get("category_raw"), r.get("address"), r.get("ownership"), r.get("market_valuation"),
+            r.get("purchase_price"),
+            ((r.get("purchase_price_currency") or r.get("currency"))
+             if r.get("purchase_price") is not None else None),  # untagged cost = presentation ccy
             d(r.get("valuation_date")), r.get("currency"), r.get("original_currency"),
             r.get("original_value"), r.get("net_property_income"),
             r.get("gross_revenue"), r.get("npi_pct"), r.get("occupancy_rate"), J(r.get("trade_mix")),
@@ -119,7 +175,7 @@ def load_one(cur, dirpath):
             d(r.get("lease_expiry_date")), r.get("tenure_raw"), r.get("status") or "active",
             r.get("divestment_price"), J(r.get("flags") or []), r.get("source_page")),
         ["symbol","financial_year","property_name","country","category","category_raw","address",
-         "ownership","market_valuation","valuation_date","currency","original_currency","original_value",
+         "ownership","market_valuation","purchase_price","purchase_price_currency","valuation_date","currency","original_currency","original_value",
          "net_property_income","gross_revenue","npi_pct","occupancy_rate","trade_mix","major_tenants",
          "gla","nla","gfa","area_unit","land_tenure","effective_date","lease_term_years",
          "lease_expiry_date","tenure_raw","status","divestment_price","flags","source_page"])
@@ -135,11 +191,10 @@ def load_one(cur, dirpath):
         ["symbol","financial_year","category","category_raw","pct","pct_basis","source_page"])
 
     n_txn = reload_list("sgx_reit_property_transaction", "property_transactions.json",
-        lambda r: (symbol, fy, r.get("transaction_type"), r.get("property_name"), r.get("description"),
-            r.get("carrying_value"), r.get("net_proceeds"), r.get("gain_on_divestment"),
-            r.get("purchase_price"), r.get("currency"), r.get("source_page"), J(r)),
-        ["symbol","financial_year","transaction_type","property_name","description","carrying_value",
-         "net_proceeds","gain_on_divestment","purchase_price","currency","source_page","raw"])
+        lambda r: txn_row(symbol, fy, r),
+        ["symbol","financial_year","transaction_type","property_name","transaction_date",
+         "description","carrying_value","net_proceeds","gain_on_divestment","purchase_price",
+         "valuation","counterparty","status","currency","source_page","raw"])
 
     print(f"  {symbol} FY{fy}: properties={n_prop} top_tenants={n_tt} trade_mix={n_tm} txn={n_txn}")
 

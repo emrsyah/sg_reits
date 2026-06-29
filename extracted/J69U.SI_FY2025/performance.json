@@ -5,7 +5,9 @@
   "properties_location": "Singapore",
   "gross_revenue": 389603000,
   "net_property_income": 277980000,
-  "net_distributable_income": 233166000,
+  "net_distributable_income": 233180000,
+  "distribution_paid": 233166000,
+  "adjusted_distributable_income": null,
   "dpu": 12.113,
   "distribution_record": [
     {
@@ -54,5 +56,6 @@
       "note": "98.1% = Retail Portfolio committed occupancy, excludes Hougang Mall (ongoing AEI). Source p.7."
     }
   ],
-  "source_page": 39
+  "source_page": 39,
+  "distribution_basis": "disclosed_after_retention"
 }

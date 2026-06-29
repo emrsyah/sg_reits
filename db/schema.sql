@@ -23,6 +23,9 @@ create table if not exists sgx_reit_performance (
   gross_revenue numeric,
   net_property_income numeric,
   net_distributable_income numeric,
+  adjusted_distributable_income numeric,          -- distributable income AFTER fee adjustment (DPU method 2); null under method 1 (fees in units). Added 2026-06-22
+  distribution_paid numeric,                      -- amount distributed/declared to unitholders for the year; net_distributable_income - distribution_paid = capital retained. NULL when no for-year line disclosed (see distribution_basis). Added 2026-06-23
+  distribution_basis text,                        -- self-describing tag for distribution_paid: disclosed_after_retention | suspended | full_payout_no_retention_line | not_disclosed_rollforward_only. Added 2026-06-23
   dpu numeric,
   distribution_record jsonb,                      -- [{period, dpu, ex_date, pay_date}]
   number_of_unitholders int,
@@ -39,6 +42,10 @@ create table if not exists sgx_reit_performance (
   source_page int,
   unique (symbol, financial_year)
 );
+-- migrations (idempotent — create table above won't alter an existing table)
+alter table sgx_reit_performance add column if not exists adjusted_distributable_income numeric;
+alter table sgx_reit_performance add column if not exists distribution_paid numeric;
+alter table sgx_reit_performance add column if not exists distribution_basis text;
 
 create table if not exists sgx_reit_property (
   id uuid primary key default gen_random_uuid(),
@@ -51,6 +58,8 @@ create table if not exists sgx_reit_property (
   address text,
   ownership numeric,
   market_valuation numeric,
+  purchase_price numeric,                         -- ORIGINAL acquisition cost as-disclosed; enables (market_valuation - purchase_price)/purchase_price. Added 2026-06-23
+  purchase_price_currency text,                   -- currency of purchase_price (foreign assets often disclosed in local ccy; compare vs original_value). Added 2026-06-23
   valuation_date date,
   currency text,                                  -- presentation currency (as-reported; prod -> SGD)
   original_currency text,                         -- AUDIT TRAIL: local/transacting ccy when reported separately (e.g. RMB)
@@ -77,6 +86,8 @@ create table if not exists sgx_reit_property (
 -- migrations (idempotent — create table above won't alter an existing table)
 alter table sgx_reit_property add column if not exists original_currency text;
 alter table sgx_reit_property add column if not exists original_value numeric;
+alter table sgx_reit_property add column if not exists purchase_price numeric;
+alter table sgx_reit_property add column if not exists purchase_price_currency text;
 alter table sgx_reit_property add column if not exists area_unit text;
 
 create table if not exists sgx_reit_top_tenant (
@@ -108,7 +119,7 @@ create table if not exists sgx_reit_financial (
   symbol text not null,
   financial_year int not null,
   currency text,
-  income_stmt_metrics jsonb,
+  income_stmt_metrics jsonb,                      -- incl. diluted_shares_outstanding + weighted_avg_shares_basic (DPU two-method cross-check; added 2026-06-22)
   balance_sheet_metrics jsonb,
   cash_flow_metrics jsonb,
   employee_breakdown jsonb,
@@ -122,17 +133,26 @@ create table if not exists sgx_reit_property_transaction (
   id uuid primary key default gen_random_uuid(),
   symbol text not null,
   financial_year int not null,
-  transaction_type text,                          -- divestment | acquisition | ...
+  transaction_type text,                          -- divestment | acquisition (alias: type)
   property_name text,
+  transaction_date date,                          -- completion/effective date (aliases: date/completion_date/...). Added 2026-06-23
   description text,
   carrying_value numeric,
-  net_proceeds numeric,
+  net_proceeds numeric,                           -- divestment consideration received (aliases: sale_consideration/consideration/...)
   gain_on_divestment numeric,
-  purchase_price numeric,
+  purchase_price numeric,                          -- acquisition consideration paid (aliases: price/consideration/amount)
+  valuation numeric,                               -- independent appraised value at the deal (Phase-B). Added 2026-06-23
+  counterparty text,                               -- buyer/seller (Phase-B). Added 2026-06-23
+  status text,                                     -- completed | pending | subsequent_event. Added 2026-06-23
   currency text,
   source_page int,
-  raw jsonb not null default '{}'                 -- full original object (forward-compatible fields)
+  raw jsonb not null default '{}'                 -- full ORIGINAL object (audit trail; loader resolves aliases into the typed cols above)
 );
+-- migrations (idempotent)
+alter table sgx_reit_property_transaction add column if not exists transaction_date date;
+alter table sgx_reit_property_transaction add column if not exists valuation numeric;
+alter table sgx_reit_property_transaction add column if not exists counterparty text;
+alter table sgx_reit_property_transaction add column if not exists status text;
 
 -- _notes.json -> own table (CONFIRMED 2026-06-19). One jsonb blob per (symbol, FY).
 create table if not exists sgx_reit_notes (

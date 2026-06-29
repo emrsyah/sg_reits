@@ -1,9 +1,21 @@
 {
   "columns_never_fillable": [
-    {"column": "property.net_property_income", "reason": "Per-property NPI is NOT disclosed. Note 24 (p178) states the Group's operations are reported as a single geographical segment ('no geographical segmental analysis is separately presented'). Only portfolio-level NPI S$150.2m is given."},
-    {"column": "property.gross_revenue", "reason": "Per-property gross revenue not disclosed; only portfolio total S$192.1m and a Retail/Office split by gross revenue (80.1%/19.9%, Wisma Atria card p41)."},
-    {"column": "property.gla / gfa", "reason": "GLA/GFA not disclosed per property. Only Wisma Atria NLA (206,755 sq ft = 126,412 retail + 80,343 office) disclosed (p41)."},
-    {"column": "property.nla (8 of 9 properties)", "reason": "Per-property NLA disclosed only for Wisma Atria Property; not tabulated for the other 8 properties."}
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI is NOT disclosed. Note 24 (p178) states the Group's operations are reported as a single geographical segment ('no geographical segmental analysis is separately presented'). Only portfolio-level NPI S$150.2m is given."
+    },
+    {
+      "column": "property.gross_revenue",
+      "reason": "Per-property gross revenue not disclosed; only portfolio total S$192.1m and a Retail/Office split by gross revenue (80.1%/19.9%, Wisma Atria card p41)."
+    },
+    {
+      "column": "property.gla / gfa",
+      "reason": "GLA/GFA not disclosed per property. Only Wisma Atria NLA (206,755 sq ft = 126,412 retail + 80,343 office) disclosed (p41)."
+    },
+    {
+      "column": "property.nla (8 of 9 properties)",
+      "reason": "Per-property NLA disclosed only for Wisma Atria Property; not tabulated for the other 8 properties."
+    }
   ],
   "data_with_no_home": [
     "Total Assets 5-year series and NAV/unit S$0.71 (p16/p17).",
@@ -22,13 +34,91 @@
     "WALE: 7.1 yrs by NLA / 7.5 yrs by GRI (committed leases by commencement date). performance.wale stores 7.1 (by NLA)."
   ],
   "inferred": [
-    {"table": "properties", "field": "category", "scope": "all 9 rows", "value": "Retail", "basis": "Existing-use column in the audited Portfolio Statement (p141) is Retail/Office (or Retail/Hotel for The Starhill); the portfolio is predominantly retail (Retail 80.1% of gross revenue). Mapped to canonical 'Retail'.", "source_page": 141},
-    {"table": "properties", "field": "occupancy_rate", "scope": "Ngee Ann City, Wisma Atria (mixed retail/office)", "value": 100.0, "basis": "Portfolio Statement discloses 100.0/100.0 (retail/office); occupancy_rate stores the single committed figure (both 100.0).", "source_page": 141},
-    {"table": "properties", "field": "occupancy_rate", "scope": "Myer Centre Adelaide", "value": 90.8, "basis": "Disclosed 90.8% retail / 29.6% office (p141); occupancy_rate stores retail figure, office noted in flag.", "source_page": 141},
-    {"table": "top_tenants", "field": "industry", "scope": "ranks 5-10", "value": null, "basis": "Top-10 table (p31) has no trade-sector column; industries for retail tenants (Food Republic->F&B, Burberry/Tory Burch/Uniqlo/Charles & Keith->Fashion, Emperor->jewellery) assigned from company name/known brand. Ranks 1-4 (master/anchor tenants) left null.", "source_page": 31},
-    {"table": "trade_mix", "field": "category", "scope": "all rows", "value": null, "basis": "Disclosed categories (Master Leases & Anchor Leases, Office, Health & Beauty, etc.) mapped to canonical 15 via category_raw; 'Master Leases & Anchor Leases' and 'Office' have no exact canonical retail/office leaf so mapped to Other Retail/Other Office Trades.", "source_page": 31},
-    {"table": "financial", "field": "diluted_shares_outstanding", "scope": "blob", "value": 2286366731, "basis": "Weighted-average units in issue used for diluted EPU (note 23, p175).", "source_page": 175},
-    {"table": "financial", "field": "cash_flow_metrics.free_cash_flow", "scope": "blob", "value": 115067000, "basis": "Derived = operating cash flow 125,626k − capex 10,559k.", "source_page": 142}
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "all 9 rows",
+      "value": "Retail",
+      "basis": "Existing-use column in the audited Portfolio Statement (p141) is Retail/Office (or Retail/Hotel for The Starhill); the portfolio is predominantly retail (Retail 80.1% of gross revenue). Mapped to canonical 'Retail'.",
+      "source_page": 141
+    },
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "Ngee Ann City, Wisma Atria (mixed retail/office)",
+      "value": 100.0,
+      "basis": "Portfolio Statement discloses 100.0/100.0 (retail/office); occupancy_rate stores the single committed figure (both 100.0).",
+      "source_page": 141
+    },
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "scope": "Myer Centre Adelaide",
+      "value": 90.8,
+      "basis": "Disclosed 90.8% retail / 29.6% office (p141); occupancy_rate stores retail figure, office noted in flag.",
+      "source_page": 141
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "ranks 5-10",
+      "value": null,
+      "basis": "Top-10 table (p31) has no trade-sector column; industries for retail tenants (Food Republic->F&B, Burberry/Tory Burch/Uniqlo/Charles & Keith->Fashion, Emperor->jewellery) assigned from company name/known brand. Ranks 1-4 (master/anchor tenants) left null.",
+      "source_page": 31
+    },
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "all rows",
+      "value": null,
+      "basis": "Disclosed categories (Master Leases & Anchor Leases, Office, Health & Beauty, etc.) mapped to canonical 15 via category_raw; 'Master Leases & Anchor Leases' and 'Office' have no exact canonical retail/office leaf so mapped to Other Retail/Other Office Trades.",
+      "source_page": 31
+    },
+    {
+      "table": "financial",
+      "field": "cash_flow_metrics.free_cash_flow",
+      "scope": "blob",
+      "value": 115067000,
+      "basis": "Derived = operating cash flow 125,626k − capex 10,559k.",
+      "source_page": 142
+    }
+  ],
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2286370857.0,
+      "basis": "Note 23 EPU footnote (2), p175: weighted average number of units of 2,286,370,857 used for basic EPU (units in issue 2,286,366,731 + units issuable for unpaid base mgmt fees). Absolute units.",
+      "source_page": 175
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2287872795.0,
+      "basis": "Note 23 EPU footnote (3), p175: diluted weighted avg = units in issue 2,286,366,731 + 1,506,064 potential dilutive units for unpaid base mgmt fees = 2,287,872,795. Corrected from prior 2,286,366,731 which was only the units-in-issue base, not the full diluted figure. Absolute units.",
+      "source_page": 175
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 87820000.0,
+      "basis": "MD&A distribution table p62: 'Income available for distribution' for FY24/25 = 87,820 ('000) = DPU numerator basis (after perpetual deduction). Corrected from rounded 87,800,000. This is distributable income for the year, not the 83,785k 'Income to be distributed to Unitholders' (after 4.0m retention).",
+      "source_page": 62
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 83785000,
+      "basis": "'Income to be distributed to Unitholders' = 83,785 ('000 -> abs); 'Income available for distribution' = 87,820; ~S$4.0m retained for working capital (note 1); retained check 87,820-83,785=4,035 OK",
+      "source_page": 63
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 5
+    }
   ],
   "reconciliation": {
     "sum_property_valuation": 2754630000.0,

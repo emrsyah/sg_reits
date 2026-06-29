@@ -34,7 +34,11 @@
     "status": "active",
     "flags": [],
     "source_page": 35,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 11800000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$11.8 million (p35)",
+    "purchase_price_source_page": 35
   },
   {
     "symbol": "AW9U.SI",
@@ -71,7 +75,11 @@
     "status": "active",
     "flags": [],
     "source_page": 35,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 11500000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$11.5 million (p35)",
+    "purchase_price_source_page": 35
   },
   {
     "symbol": "AW9U.SI",
@@ -108,7 +116,11 @@
     "status": "active",
     "flags": [],
     "source_page": 36,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 12800000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$12.8 million (p36)",
+    "purchase_price_source_page": 36
   },
   {
     "symbol": "AW9U.SI",
@@ -150,7 +162,11 @@
     "status": "active",
     "flags": [],
     "source_page": 43,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 94300000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$94.3 million (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AW9U.SI",
@@ -192,7 +208,11 @@
     "status": "active",
     "flags": [],
     "source_page": 43,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 50600000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$50.6 million (p43)",
+    "purchase_price_source_page": 43
   },
   {
     "symbol": "AW9U.SI",
@@ -234,7 +254,11 @@
     "status": "active",
     "flags": [],
     "source_page": 42,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 170500000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$170.5 million (p42)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AW9U.SI",
@@ -277,7 +301,11 @@
       }
     ],
     "source_page": 42,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 35000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$35.0 million (p42)",
+    "purchase_price_source_page": 42
   },
   {
     "symbol": "AW9U.SI",
@@ -325,7 +353,11 @@
       }
     ],
     "source_page": 41,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 83600000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$83.6 million (p41)",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AW9U.SI",
@@ -367,7 +399,11 @@
     "status": "active",
     "flags": [],
     "source_page": 41,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 59300000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$59.3 million (p41)",
+    "purchase_price_source_page": 41
   },
   {
     "symbol": "AW9U.SI",
@@ -409,7 +445,11 @@
     "status": "active",
     "flags": [],
     "source_page": 40,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 97300000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$97.3 million (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AW9U.SI",
@@ -451,7 +491,11 @@
     "status": "active",
     "flags": [],
     "source_page": 40,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 93100000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$93.1 million (p40)",
+    "purchase_price_source_page": 40
   },
   {
     "symbol": "AW9U.SI",
@@ -493,7 +537,11 @@
     "status": "active",
     "flags": [],
     "source_page": 39,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 31000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$31.0 million (p39)",
+    "purchase_price_source_page": 39
   },
   {
     "symbol": "AW9U.SI",
@@ -535,7 +583,11 @@
     "status": "active",
     "flags": [],
     "source_page": 39,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 39200000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$39.2 million (p39)",
+    "purchase_price_source_page": 39
   },
   {
     "symbol": "AW9U.SI",
@@ -588,7 +640,11 @@
       }
     ],
     "source_page": 38,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 75000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$75.0 million (p38)",
+    "purchase_price_source_page": 38
   },
   {
     "symbol": "AW9U.SI",
@@ -630,7 +686,11 @@
     "status": "active",
     "flags": [],
     "source_page": 38,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 20000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$20.0 million (p38)",
+    "purchase_price_source_page": 38
   },
   {
     "symbol": "AW9U.SI",
@@ -683,7 +743,11 @@
       }
     ],
     "source_page": 37,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 28500000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$28.5 million (p37)",
+    "purchase_price_source_page": 37
   },
   {
     "symbol": "AW9U.SI",
@@ -725,7 +789,11 @@
     "status": "active",
     "flags": [],
     "source_page": 37,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 27000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_price_note": "Property overview card 'Purchase Price': S$27.0 million (p37)",
+    "purchase_price_source_page": 37
   },
   {
     "symbol": "AW9U.SI",
@@ -762,7 +830,11 @@
     "status": "active",
     "flags": [],
     "source_page": 141,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 839000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 839 million (p28)",
+    "purchase_price_source_page": 28
   },
   {
     "symbol": "AW9U.SI",
@@ -799,7 +871,11 @@
     "status": "active",
     "flags": [],
     "source_page": 141,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 641000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 641 million (p28)",
+    "purchase_price_source_page": 28
   },
   {
     "symbol": "AW9U.SI",
@@ -836,7 +912,11 @@
     "status": "active",
     "flags": [],
     "source_page": 29,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1574000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,574 million (p29)",
+    "purchase_price_source_page": 29
   },
   {
     "symbol": "AW9U.SI",
@@ -873,7 +953,11 @@
     "status": "active",
     "flags": [],
     "source_page": 29,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 6209000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 6,209 million (p29)",
+    "purchase_price_source_page": 29
   },
   {
     "symbol": "AW9U.SI",
@@ -910,7 +994,11 @@
     "status": "active",
     "flags": [],
     "source_page": 30,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1007000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,007 million (p30)",
+    "purchase_price_source_page": 30
   },
   {
     "symbol": "AW9U.SI",
@@ -947,7 +1035,11 @@
     "status": "active",
     "flags": [],
     "source_page": 30,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 4475000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 4,475 million (p30)",
+    "purchase_price_source_page": 30
   },
   {
     "symbol": "AW9U.SI",
@@ -984,7 +1076,11 @@
     "status": "active",
     "flags": [],
     "source_page": 31,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 2847000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 2,847 million (p31)",
+    "purchase_price_source_page": 31
   },
   {
     "symbol": "AW9U.SI",
@@ -1021,7 +1117,11 @@
     "status": "active",
     "flags": [],
     "source_page": 31,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1610000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,610 million (p31)",
+    "purchase_price_source_page": 31
   },
   {
     "symbol": "AW9U.SI",
@@ -1058,7 +1158,11 @@
     "status": "active",
     "flags": [],
     "source_page": 32,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 2370000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 2,370 million (p32)",
+    "purchase_price_source_page": 32
   },
   {
     "symbol": "AW9U.SI",
@@ -1095,7 +1199,11 @@
     "status": "active",
     "flags": [],
     "source_page": 32,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 933000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 933 million (p32)",
+    "purchase_price_source_page": 32
   },
   {
     "symbol": "AW9U.SI",
@@ -1132,7 +1240,11 @@
     "status": "active",
     "flags": [],
     "source_page": 33,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1303000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,303 million (p33)",
+    "purchase_price_source_page": 33
   },
   {
     "symbol": "AW9U.SI",
@@ -1169,7 +1281,11 @@
     "status": "active",
     "flags": [],
     "source_page": 33,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 405000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 405 million (p33)",
+    "purchase_price_source_page": 33
   },
   {
     "symbol": "AW9U.SI",
@@ -1206,7 +1322,11 @@
     "status": "active",
     "flags": [],
     "source_page": 34,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1450000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,450 million (p34)",
+    "purchase_price_source_page": 34
   },
   {
     "symbol": "AW9U.SI",
@@ -1243,7 +1363,11 @@
     "status": "active",
     "flags": [],
     "source_page": 34,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1130000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_price_note": "Property overview card 'Purchase Price': JPY 1,130 million (p34)",
+    "purchase_price_source_page": 34
   },
   {
     "symbol": "AW9U.SI",

@@ -34,7 +34,9 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 2507000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 1838600000,
+    "purchase_price_currency": "CNY"
   },
   {
     "symbol": "BMOU.SI",
@@ -64,7 +66,9 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 720000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 602100000,
+    "purchase_price_currency": "CNY"
   },
   {
     "symbol": "BMOU.SI",
@@ -94,7 +98,9 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 589000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 563500000,
+    "purchase_price_currency": "CNY"
   },
   {
     "symbol": "BMOU.SI",
@@ -124,7 +130,9 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 481000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 334000000,
+    "purchase_price_currency": "CNY"
   },
   {
     "symbol": "BMOU.SI",
@@ -167,7 +175,9 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 251000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 254400000,
+    "purchase_price_currency": "CNY"
   },
   {
     "symbol": "BMOU.SI",
@@ -210,6 +220,8 @@
     "source_page": 131,
     "original_currency": "RMB",
     "original_value": 146000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_price": 135700000,
+    "purchase_price_currency": "CNY"
   }
 ]

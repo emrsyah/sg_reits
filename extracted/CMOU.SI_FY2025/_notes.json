@@ -1,10 +1,69 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1044450254.0,
+      "basis": "EPU note (p110) 'Weighted average number of Units' 1,044,450 ('000); diluted EPU stated equivalent to basic (no dilutive instruments), so basic = diluted. Value held to existing precise unit count 1,044,450,254 (note discloses 1,044,450 in '000).",
+      "source_page": 110
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1044450254.0,
+      "basis": "EPU note (p110): 'Diluted earnings per Unit is equivalent to the basic' — no separate diluted figure; diluted = basic. Verified correct.",
+      "source_page": 110
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Consolidated Distribution Statement (p87): Manager's base fee payable in cash or Units (added back when in Units); single 'Income available for distribution to Unitholders' 43,032 only -> method 1, null. (Page-4 'Adjusted NPI' 83,652 is an NPI non-GAAP measure, not distributable income.)",
+      "source_page": 87
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 43032000.0,
+      "basis": "AUDIT: matches 'Income available for distribution to Unitholders' 43,032 ('000) (DPU numerator), NOT 'Distribution to Unitholders' 2,611 (paid, after retention). Correct, no change.",
+      "source_page": 87
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 2611000.0,
+      "basis": "Consolidated Distribution Statement (p87): 'Income available for distribution to Unitholders at the end of the year' = 2,611 ('000) = the after-retention amount to be distributed; matches 'Distribution to Unitholders' 2,611 in Selected Financials (line379) and MD&A 'amount distributable to Unitholders was US$2.6 million'. FY2025 = distributions resumed for 2H-2025 only (DPU 0.25 US cents, ~11.3% of 2H income). RETAINED CHECK: net_distributable_income 43,032 - 2,611 = 40,421 ('000) retained by Manager for capex/tenant improvements (disclosed verbatim p2695 'remaining ~US$40.4m retained') — large but explicitly disclosed, not a wrong-line error. '000 x1000 to absolute.",
+      "source_page": 87
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 6
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed in absolute terms; only portfolio NPI (US$80,656k) and per-property gross-revenue/valuation % shares are given (page 18). FY2025 NPI was reported only at portfolio level."},
-    {"column": "properties.gross_revenue", "reason": "Per-property gross revenue disclosed only as % share of portfolio gross revenue (page 18 donut), not as an absolute figure. Portfolio total = US$150,165k."},
-    {"column": "properties.gla", "reason": "Only Net Lettable Area (NLA, sf) is disclosed per property in the At-A-Glance cards (pages 21-22); GLA not separately given."},
-    {"column": "properties.gfa", "reason": "Gross floor area not disclosed; US office discloses NLA in square feet."},
-    {"column": "properties.lease_term_years / effective_date / lease_expiry_date", "reason": "All properties are freehold (fee simple); no land-lease term/expiry exists."}
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed in absolute terms; only portfolio NPI (US$80,656k) and per-property gross-revenue/valuation % shares are given (page 18). FY2025 NPI was reported only at portfolio level."
+    },
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Per-property gross revenue disclosed only as % share of portfolio gross revenue (page 18 donut), not as an absolute figure. Portfolio total = US$150,165k."
+    },
+    {
+      "column": "properties.gla",
+      "reason": "Only Net Lettable Area (NLA, sf) is disclosed per property in the At-A-Glance cards (pages 21-22); GLA not separately given."
+    },
+    {
+      "column": "properties.gfa",
+      "reason": "Gross floor area not disclosed; US office discloses NLA in square feet."
+    },
+    {
+      "column": "properties.lease_term_years / effective_date / lease_expiry_date",
+      "reason": "All properties are freehold (fee simple); no land-lease term/expiry exists."
+    }
   ],
   "data_with_no_home": [
     "Per-property gross revenue % share (page 18): Plaza 17.0, Bellevue Tech 8.4, Westpark 14.9, Great Hills 3.3, Westech 360 4.1, Westmoor 10.0, 105 Edgeview 4.5, Bridge Crossing 4.0, 1800 West Loop South 7.2, Bellaire Park 5.6, One Twenty Five 9.8, Maitland 8.6, Iron Point 2.6.",
@@ -23,8 +82,22 @@
     "Weighted average debt maturity 1.5 years (page 41), down from 2.4 years; US$155.0m of loans mature in 2026 (going-concern note, page 92)."
   ],
   "inferred": [
-    {"table": "trade_mix", "field": "category", "scope": "Professional Services + Finance and Insurance rows", "value": "Financial & Professional Services", "basis": "Both verbatim raw labels map to the single canonical 'Financial & Professional Services' bucket; kept as two rows with distinct category_raw to preserve the disclosed split (22.6% + 15.0%).", "source_page": 18},
-    {"table": "top_tenants", "field": "industry", "scope": "rank 7 Highridge Medical", "value": "IT & Telecommunications", "basis": "Disclosed sector in the Top-10 table is 'TAMI' (verbatim), mapped to canonical IT & Telecommunications, despite the company being medical - kept as disclosed.", "source_page": 20}
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "Professional Services + Finance and Insurance rows",
+      "value": "Financial & Professional Services",
+      "basis": "Both verbatim raw labels map to the single canonical 'Financial & Professional Services' bucket; kept as two rows with distinct category_raw to preserve the disclosed split (22.6% + 15.0%).",
+      "source_page": 18
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "rank 7 Highridge Medical",
+      "value": "IT & Telecommunications",
+      "basis": "Disclosed sector in the Top-10 table is 'TAMI' (verbatim), mapped to canonical IT & Telecommunications, despite the company being medical - kept as disclosed.",
+      "source_page": 20
+    }
   ],
   "reconciliation": {
     "sum_property_valuation": 1325370000.0,

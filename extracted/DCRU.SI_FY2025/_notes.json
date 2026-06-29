@@ -1,9 +1,21 @@
 {
   "columns_never_fillable": [
-    {"column": "property.net_property_income", "reason": "Per-property NPI is not disclosed anywhere; the AR discloses only portfolio-level NPI (US$88.7m) and per-asset gross revenue (p30 chart). Structural absence."},
-    {"column": "property.gla / property.gfa", "reason": "Data-centre size metric is Net Rentable Square Feet (captured in nla) and Customer IT Load (kW). No gross lettable or gross floor area disclosed."},
-    {"column": "property.gross_revenue (Osaka 2 & 3)", "reason": "Equity-accounted associates (20% interest); no consolidated revenue line — excluded from the per-asset gross-revenue chart (p30)."},
-    {"column": "performance.cost_of_debt distinct from interest_coverage_ratio basis", "reason": "n/a — both disclosed."}
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI is not disclosed anywhere; the AR discloses only portfolio-level NPI (US$88.7m) and per-asset gross revenue (p30 chart). Structural absence."
+    },
+    {
+      "column": "property.gla / property.gfa",
+      "reason": "Data-centre size metric is Net Rentable Square Feet (captured in nla) and Customer IT Load (kW). No gross lettable or gross floor area disclosed."
+    },
+    {
+      "column": "property.gross_revenue (Osaka 2 & 3)",
+      "reason": "Equity-accounted associates (20% interest); no consolidated revenue line — excluded from the per-asset gross-revenue chart (p30)."
+    },
+    {
+      "column": "performance.cost_of_debt distinct from interest_coverage_ratio basis",
+      "reason": "n/a — both disclosed."
+    }
   ],
   "data_with_no_home": [
     "Customer IT Load (kW) per property (p43-53): Hastings 12,510; Linton Hall 9,720; Devin Shafron n/a; Lafayette 5,400; Space Park n/a; Nash 2,430; Winona 1,494; Gough 6,089; Frankfurt 22,100; Osaka2 5,100; Osaka3 3,980.",
@@ -36,12 +48,91 @@
     "line_items_reconciliation": "Sigma revenue (176,152) - Sigma expense (87,413+29,394+8,275+2,477+216+3,835+15,119=146,729) + Sigma signed adjustments (777-686+18,866-3,687+28+22,042=37,340) = 66,763 = net_income (profit after tax). TIES.",
     "performance_cross_consistency": "performance.gross_revenue 176,152 == financial.total_revenue; performance.net_property_income 88,739 == financial.gross_income. Consistent."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1304111000,
+      "basis": "EPU note 20, Basic EPU: 'Weighted average number of units at end of the financial year' = 1,304,111 '000 -> 1,304,111,000 absolute",
+      "source_page": 199
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1341032000,
+      "basis": "EPU note 20, Diluted EPU: 'Weighted average number of units' = 1,341,032 '000 -> 1,341,032,000. Corrected from 1,304,111,000 which was the basic figure mislabeled.",
+      "source_page": 199
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Method 1: Manager's base & performance fees paid/payable in Units and added back as distribution adjustments (Distribution Statement, p156). Single 'Amount available for distribution' figure -> null.",
+      "source_page": 156
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 46779000,
+      "basis": "'Distribution to Unitholders during the year/period' = (46,779) US$'000 (Distribution Statement, p156, '000->absolute), being DPU 3.60 US cents for period 1 Jul 2024-30 Jun 2025. Distinct from 'Amount available for distribution' 46,846 (net_distributable_income). Retained = 46,846 - 46,779 = 67 US$'000 (small, positive); roll-forward opening 23,405 -> closing 23,472. Note: distribution line is on a Jul-Jun cycle, the only distribution figure disclosed; effectively 100% payout.",
+      "source_page": 156
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 14
+    }
+  ],
   "inferred": [
-    {"table": "performance", "field": "nav_per_unit", "scope": "single value", "value": 0.80, "basis": "NAV per Unit attributable to Unitholders, disclosed verbatim (p14, p153)", "source_page": 14},
-    {"table": "top_tenants", "field": "industry", "scope": "all rows", "value": "IT & Telecommunications", "basis": "All top-10 data-centre customers (Hyperscale CSP / Social Media / Colocation-IT SP / Other tech) mapped to canonical IT & Telecommunications; report discloses 'Trade Sector' descriptors not the canonical taxonomy.", "source_page": 37},
-    {"table": "trade_mix", "field": "category", "scope": "all rows", "value": "IT & Telecommunications", "basis": "Trade-sector buckets (Hyperscale CSP / Social Media-Other / Colocation-IT SP) all map to canonical IT & Telecommunications; verbatim labels kept in category_raw.", "source_page": 36},
-    {"table": "performance", "field": "portfolio_occupancy", "scope": "single value", "value": 97.0, "basis": "Headline '97% Healthy Portfolio Occupancy' (in-service portfolio), p13.", "source_page": 13},
-    {"table": "financial", "field": "balance_sheet_metrics.working_capital", "scope": "single value", "value": 1268000, "basis": "Derived = total_current_assets 62,621 - total_current_liabilities 61,353.", "source_page": 153},
-    {"table": "financial", "field": "cash_flow_metrics.free_cash_flow", "scope": "single value", "value": 53033000, "basis": "Derived = operating_cash_flow 93,656 + capex (-40,623).", "source_page": 161}
+    {
+      "table": "performance",
+      "field": "nav_per_unit",
+      "scope": "single value",
+      "value": 0.8,
+      "basis": "NAV per Unit attributable to Unitholders, disclosed verbatim (p14, p153)",
+      "source_page": 14
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all rows",
+      "value": "IT & Telecommunications",
+      "basis": "All top-10 data-centre customers (Hyperscale CSP / Social Media / Colocation-IT SP / Other tech) mapped to canonical IT & Telecommunications; report discloses 'Trade Sector' descriptors not the canonical taxonomy.",
+      "source_page": 37
+    },
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "all rows",
+      "value": "IT & Telecommunications",
+      "basis": "Trade-sector buckets (Hyperscale CSP / Social Media-Other / Colocation-IT SP) all map to canonical IT & Telecommunications; verbatim labels kept in category_raw.",
+      "source_page": 36
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_occupancy",
+      "scope": "single value",
+      "value": 97.0,
+      "basis": "Headline '97% Healthy Portfolio Occupancy' (in-service portfolio), p13.",
+      "source_page": 13
+    },
+    {
+      "table": "financial",
+      "field": "balance_sheet_metrics.working_capital",
+      "scope": "single value",
+      "value": 1268000,
+      "basis": "Derived = total_current_assets 62,621 - total_current_liabilities 61,353.",
+      "source_page": 153
+    },
+    {
+      "table": "financial",
+      "field": "cash_flow_metrics.free_cash_flow",
+      "scope": "single value",
+      "value": 53033000,
+      "basis": "Derived = operating_cash_flow 93,656 + capex (-40,623).",
+      "source_page": 161
+    }
   ]
 }

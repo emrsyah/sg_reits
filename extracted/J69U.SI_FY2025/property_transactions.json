@@ -8,8 +8,11 @@
     "consideration": 1133000000,
     "currency": "SGD",
     "completion_date": "2025-05-26",
-    "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Total acquisition outlay approximately $393.2 million including transaction costs and completion adjustments. Agreed property value $1,133.0 million.",
-    "source_page": 8
+    "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Total acquisition outlay approximately $393.2 million including transaction costs and completion adjustments. Agreed property value $1,133.0 million. Agreed property value $1,133.0m equals the average of two independent valuations: $1,146.0m (Colliers) and $1,120.0m (Savills) as at 31 Dec 2024 (p20). Acquisition funded via April 2025 EFR. Seller/vendor is the Sponsor group (Frasers Property Limited; interested-person transaction).",
+    "source_page": 8,
+    "counterparty": "Frasers Property Limited (Sponsor) — via acquisition of 100% of North Gem Trust and its trustee-manager",
+    "valuation": 1133000000,
+    "purchase_price": 1133000000
   },
   {
     "symbol": "J69U.SI",
@@ -20,7 +23,11 @@
     "consideration": 34500000,
     "currency": "SGD",
     "completion_date": "2025-09-23",
-    "notes": "Divested to Lion (Singapore) Pte. Limited, a wholly-owned subsidiary of Frasers Property Limited. Net gain on divestment of $128,000.",
-    "source_page": 9
+    "notes": "Divested to Lion (Singapore) Pte. Limited, a wholly-owned subsidiary of Frasers Property Limited. Net gain on divestment of $128,000. Consideration $34.5m negotiated on a willing-buyer/willing-seller basis, being the average of two independent valuations of $34.0m and $35.0m as at 31 May 2025 (p138/FS Note p199). FY-end carrying value $34.0m. Net gain on divestment $128,000 (FS p199).",
+    "source_page": 9,
+    "counterparty": "Lion (Singapore) Pte. Limited (wholly-owned subsidiary of Frasers Property Limited)",
+    "sale_consideration": 34500000,
+    "gain_on_divestment": 128000,
+    "valuation": 34500000
   }
 ]

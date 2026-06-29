@@ -2,10 +2,22 @@
   "symbol": "XZL.SI",
   "financial_year": 2025,
   "columns_never_fillable": [
-    {"column": "properties.gla / nla / gfa", "reason": "Hospitality trust: size metric is rooms/keys, not lettable/floor area. Each hotel reports number of rooms (kept in properties._rooms), not GLA/NLA/GFA."},
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed. NPI is only at Stapled-Group level (US$37.1m). Operating segment note (p146+) reports a single segment."},
-    {"column": "trade_mix (portfolio-wide industry/trade mix)", "reason": "Single-sector hospitality trust; no portfolio-wide trade/industry mix is disclosed. The only 'by industry' table (p9, Master Lease Agreements) lists ACRO-BT's three internal tenant entities, all 100% 'Hospitality'. Captured as top_tenants (internal master lessees), not as a genuine trade_mix."},
-    {"column": "financial.funds_from_operation", "reason": "No FFO/AFFO disclosed. Trust reports Distributable Income (US$5.5m available / US$4.9m after retention -> performance.net_distributable_income). FFO left null per invariant 6."}
+    {
+      "column": "properties.gla / nla / gfa",
+      "reason": "Hospitality trust: size metric is rooms/keys, not lettable/floor area. Each hotel reports number of rooms (kept in properties._rooms), not GLA/NLA/GFA."
+    },
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed. NPI is only at Stapled-Group level (US$37.1m). Operating segment note (p146+) reports a single segment."
+    },
+    {
+      "column": "trade_mix (portfolio-wide industry/trade mix)",
+      "reason": "Single-sector hospitality trust; no portfolio-wide trade/industry mix is disclosed. The only 'by industry' table (p9, Master Lease Agreements) lists ACRO-BT's three internal tenant entities, all 100% 'Hospitality'. Captured as top_tenants (internal master lessees), not as a genuine trade_mix."
+    },
+    {
+      "column": "financial.funds_from_operation",
+      "reason": "No FFO/AFFO disclosed. Trust reports Distributable Income (US$5.5m available / US$4.9m after retention -> performance.net_distributable_income). FFO left null per invariant 6."
+    }
   ],
   "data_with_no_home": [
     "Portfolio: 32 upscale select-service hotels, 4,188 rooms, 17 U.S. states. Per-hotel room counts in properties._rooms.",
@@ -36,11 +48,81 @@
     "reported_total_gross_revenue": 158625000,
     "gross_revenue_gap_note": "Portfolio-List per-hotel revenue sums to US$156.8m vs Stapled-Group US$158.6m. Gap ~US$1.8m = partial-year revenue of the in-year-divested Hyatt Place Detroit Auburn Hills (sold Sep 2025, absent from the 32-hotel list) plus marketing-table rounding."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 580103000,
+      "basis": "Note 21 Earnings per Stapled Security, p145: weighted average number of Stapled Securities used for basic and diluted EPS = 580,103 ('000) = 580,103,000 absolute (single figure for both basic and diluted).",
+      "source_page": 145
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 580103000,
+      "basis": "Note 21 p145: same weighted-avg used for basic and diluted EPS (no dilutive instruments); 580,103 ('000). Verified correct.",
+      "source_page": 145
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 5476000,
+      "basis": "Statement of Distributable Income p99 (Stapled Group): 'Amount available for distribution' FY2025 = 5,476 ('000). Distributable-income line (DPS before retention 0.944c), not the 4,928k after-retention distribution amount. Verified correct.",
+      "source_page": 99
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Set null. Statement of Distributable Income (p99) shows a single distributable-income figure (5,476k); the 4,928k 'after retention' line is a working-capital retention, not a separate cash-fee-deducted adjusted DI. No method-2 second figure.",
+      "source_page": 99
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 4928000,
+      "basis": "'Amount available for distribution' = 5,476 less 'Amount retained for general corporate and working capital' (548) = 4,928 to be distributed (US$'000 -> abs); ~US$4.9m FY2025 per narrative; retained check 5,476-4,928=548 OK",
+      "source_page": 99
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 26
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "market_valuation", "scope": "all 32 rows", "value": "Portfolio List millions x 1,000,000", "basis": "No audited per-property Portfolio Statement in '000 exists for this trust (hotels held as aggregate PPE at ACRO-BT US$716,039k and aggregate investment properties at ACRO-REIT US$670,655k). Per-property valuation disclosed only in the Portfolio List (US$ mil, p14-17), as at 31 Dec 2025, valued by HVS. Sum = US$714.9m = headline portfolio value. Used millions table x1e6.", "source_page": 14},
-    {"table": "properties", "field": "gross_revenue", "scope": "all 32 rows", "value": "Portfolio List Revenue (US$ mil) x 1,000,000", "basis": "Per-hotel revenue disclosed only in the Portfolio List (millions); not in audited statements.", "source_page": 14},
-    {"table": "performance", "field": "distribution_record[0].dpu", "value": 0.432, "basis": "1H FY2025 after-retention DPS derived as full-year 0.850 - H2 0.418; H1/H2 after-retention split not separately disclosed.", "source_page": 99},
-    {"table": "performance", "field": "wale", "value": 3.95, "basis": "WALE 3.95 years is for the INTERNAL master lease agreements between ACRO-REIT and ACRO-BT (p9), not external tenant leases.", "source_page": 9}
+    {
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "all 32 rows",
+      "value": "Portfolio List millions x 1,000,000",
+      "basis": "No audited per-property Portfolio Statement in '000 exists for this trust (hotels held as aggregate PPE at ACRO-BT US$716,039k and aggregate investment properties at ACRO-REIT US$670,655k). Per-property valuation disclosed only in the Portfolio List (US$ mil, p14-17), as at 31 Dec 2025, valued by HVS. Sum = US$714.9m = headline portfolio value. Used millions table x1e6.",
+      "source_page": 14
+    },
+    {
+      "table": "properties",
+      "field": "gross_revenue",
+      "scope": "all 32 rows",
+      "value": "Portfolio List Revenue (US$ mil) x 1,000,000",
+      "basis": "Per-hotel revenue disclosed only in the Portfolio List (millions); not in audited statements.",
+      "source_page": 14
+    },
+    {
+      "table": "performance",
+      "field": "distribution_record[0].dpu",
+      "value": 0.432,
+      "basis": "1H FY2025 after-retention DPS derived as full-year 0.850 - H2 0.418; H1/H2 after-retention split not separately disclosed.",
+      "source_page": 99
+    },
+    {
+      "table": "performance",
+      "field": "wale",
+      "value": 3.95,
+      "basis": "WALE 3.95 years is for the INTERNAL master lease agreements between ACRO-REIT and ACRO-BT (p9), not external tenant leases.",
+      "source_page": 9
+    }
   ],
   "judgment_calls": [
     "Stapled Group column chosen as canonical for all financials (stapled REIT+BT trust).",

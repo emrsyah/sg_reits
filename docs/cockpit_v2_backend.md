@@ -8,13 +8,13 @@ Single reference for the data backend behind the new Next.js review cockpit. Bui
 ## What's live
 | Layer | State |
 |---|---|
-| **Supabase Postgres** | 11 tables (`db/schema.sql`), RLS enabled. Loaded all 36 FY2025 reports. |
-| **Cloudflare R2** bucket `reits-ar` | 36 annual-report PDFs; object key = PDF filename, matches `reit_report.pdf_r2_key`. |
+| **Supabase Postgres** | 11 tables (`db/schema.sql`), RLS enabled. Loaded all 37 FY2025 reports. |
+| **Cloudflare R2** bucket `reits-ar` | 37 annual-report PDFs; object key = PDF filename, matches `reit_report.pdf_r2_key`. |
 
 Row counts after load (verify anytime — see Runbook):
-`profile 36 · performance 36 · property 1624 · top_tenant 374 · trade_mix 359 · financial 36 ·
-property_transaction 93 · notes 36 · reit_report 36` (all reports have a `pdf_r2_key`).
-_(Batch 5 added 6: XZL, M1GU, BMOU, J85, C2PU, CRPU — Jun 19 2026.)_
+`profile 37 · performance 37 · property 1653 · top_tenant 384 · trade_mix 367 · financial 37 ·
+property_transaction 93 · notes 37 · reit_report 37` (all reports have a `pdf_r2_key`).
+_(Batch 5 added 6: XZL, M1GU, BMOU, J85, C2PU, CRPU — Jun 19 2026. Landmark D5IU added Jun 22 2026.)_
 
 > **Loader gotcha:** `load_supabase.py` takes dir **names** (`XZL.SI_FY2025`), not paths —
 > it prepends `extracted/` internally. Passing `extracted/XZL.SI_FY2025` silently loads only

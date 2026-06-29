@@ -6,10 +6,22 @@
   "gross_revenue": 214617000,
   "net_property_income": 134361000,
   "net_distributable_income": 74787000,
-  "dpu": 13.390,
+  "distribution_paid": null,
+  "adjusted_distributable_income": null,
+  "dpu": 13.39,
   "distribution_record": [
-    {"period": "1 Jul 2024 to 31 Dec 2024 (paid in FY2025)", "dpu": 7.056, "ex_date": null, "pay_date": null},
-    {"period": "1 Jan 2025 to 30 Jun 2025", "dpu": 6.553, "ex_date": null, "pay_date": null}
+    {
+      "period": "1 Jul 2024 to 31 Dec 2024 (paid in FY2025)",
+      "dpu": 7.056,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jan 2025 to 30 Jun 2025",
+      "dpu": 6.553,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 4429,
   "aggregate_leverage": 42.4,
@@ -22,9 +34,22 @@
   "currency": "EUR",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_basis", "scope": "dpu", "note": "DPS 13.390 Euro cents for FY2025 (Distribution per Stapled Security). Distribution paid during the year totalled 13.609 cents (7.056 for 2H2024 + 6.553 for 1H2025); FY2025 declared DPS is 13.390 cents."},
-    {"type": "icr_basis", "scope": "interest_coverage_ratio", "note": "ICR 3.1x per EMTN definition (trust headline); 2.6x per CIS Code (Financial Highlights p5)."},
-    {"type": "leverage_basis", "scope": "aggregate_leverage", "note": "Aggregate leverage 42.4% (MAS basis); net gearing per EMTN definition was 38.0%."}
+    {
+      "type": "dpu_basis",
+      "scope": "dpu",
+      "note": "DPS 13.390 Euro cents for FY2025 (Distribution per Stapled Security). Distribution paid during the year totalled 13.609 cents (7.056 for 2H2024 + 6.553 for 1H2025); FY2025 declared DPS is 13.390 cents."
+    },
+    {
+      "type": "icr_basis",
+      "scope": "interest_coverage_ratio",
+      "note": "ICR 3.1x per EMTN definition (trust headline); 2.6x per CIS Code (Financial Highlights p5)."
+    },
+    {
+      "type": "leverage_basis",
+      "scope": "aggregate_leverage",
+      "note": "Aggregate leverage 42.4% (MAS basis); net gearing per EMTN definition was 38.0%."
+    }
   ],
-  "source_page": 5
+  "source_page": 5,
+  "distribution_basis": "full_payout_no_retention_line"
 }

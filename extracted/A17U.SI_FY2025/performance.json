@@ -6,11 +6,28 @@
   "gross_revenue": 1538574000,
   "net_property_income": 1067560000,
   "net_distributable_income": 678268000,
+  "distribution_paid": 669086000,
+  "adjusted_distributable_income": null,
   "dpu": 15.005,
   "distribution_record": [
-    {"period": "01/07/2024 to 31/12/2024", "dpu": 7.681, "ex_date": null, "pay_date": null},
-    {"period": "01/01/2025 to 05/06/2025", "dpu": 6.479, "ex_date": null, "pay_date": null},
-    {"period": "06/06/2025 to 30/06/2025", "dpu": 0.998, "ex_date": null, "pay_date": null}
+    {
+      "period": "01/07/2024 to 31/12/2024",
+      "dpu": 7.681,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01/01/2025 to 05/06/2025",
+      "dpu": 6.479,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "06/06/2025 to 30/06/2025",
+      "dpu": 0.998,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 37372,
   "aggregate_leverage": 39.0,
@@ -23,8 +40,17 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_period_split", "scope": "distribution_record", "note": "FY2025 DPU 15.005 cents declared across periods straddling the Jun 2025 equity fund raising; the 01/01/2025-05/06/2025 (6.479c) and 06/06/2025-30/06/2025 (0.998c) splits plus H2 FY2024 catch-up (7.681c, paid in FY2025) are from the Consolidated Distribution Statement. ex/pay dates not in this statement."},
-    {"type": "nav_per_unit_basis", "scope": "nav_per_unit", "note": "2.29 = NAV per unit attributable to unitholders from Statement of Financial Position. Capital-management section quotes S$2.21 'after adjusting for the amount to be distributed'."}
+    {
+      "type": "dpu_period_split",
+      "scope": "distribution_record",
+      "note": "FY2025 DPU 15.005 cents declared across periods straddling the Jun 2025 equity fund raising; the 01/01/2025-05/06/2025 (6.479c) and 06/06/2025-30/06/2025 (0.998c) splits plus H2 FY2024 catch-up (7.681c, paid in FY2025) are from the Consolidated Distribution Statement. ex/pay dates not in this statement."
+    },
+    {
+      "type": "nav_per_unit_basis",
+      "scope": "nav_per_unit",
+      "note": "2.29 = NAV per unit attributable to unitholders from Statement of Financial Position. Capital-management section quotes S$2.21 'after adjusting for the amount to be distributed'."
+    }
   ],
-  "source_page": 20
+  "source_page": 20,
+  "distribution_basis": "disclosed_after_retention"
 }

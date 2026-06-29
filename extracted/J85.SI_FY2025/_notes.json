@@ -1,8 +1,17 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.gla", "reason": "Hospitality trust — size metric is keys/rooms/units/beds, not lettable area. GLA/NLA structurally absent. Per-property GFA disclosed in prose on the property cards (not a clean table); not coerced into gla."},
-    {"column": "properties.nla", "reason": "Same as gla — hospitality uses keys, not lettable area."},
-    {"column": "properties.occupancy_rate", "reason": "Per-property occupancy not disclosed. Operating performance (AOR/ADR/RevPAR) disclosed only at regional portfolio level (e.g. Singapore Hotels AOR 79.0%, RevPAR S$182), not per property."}
+    {
+      "column": "properties.gla",
+      "reason": "Hospitality trust — size metric is keys/rooms/units/beds, not lettable area. GLA/NLA structurally absent. Per-property GFA disclosed in prose on the property cards (not a clean table); not coerced into gla."
+    },
+    {
+      "column": "properties.nla",
+      "reason": "Same as gla — hospitality uses keys, not lettable area."
+    },
+    {
+      "column": "properties.occupancy_rate",
+      "reason": "Per-property occupancy not disclosed. Operating performance (AOR/ADR/RevPAR) disclosed only at regional portfolio level (e.g. Singapore Hotels AOR 79.0%, RevPAR S$182), not per property."
+    }
   ],
   "data_with_no_home": [
     "No. of keys/units/beds per property (p7): Orchard Hotel 656, Grand Copthorne Waterfront 573, M Hotel 415, Copthorne King's 311, Studio M 360, W Singapore 240, Grand Millennium Auckland 453, Mercure Perth 239, Ibis Perth 192, Angsana Velavaru 113, The Halcyon 38, MyStays Asakusabashi 139, MyStays Kamata 116, Hilton Cambridge 198, The Lowry 165, voco Manchester 189, Hotel Indigo Exeter 104, The Castings (BTR) 352, Benson Yard (PBSA) 404, Pullman Munich 337, Hotel Cerretani Firenze 86. Claymore Connect = retail mall (N.A.).",
@@ -21,9 +30,30 @@
     "Per-property GR/NPI from 'Performance by Country and Property' (p28-29): 'Properties with Leases' use Gross Rental Revenue; 'Managed Properties' use Gross Hotel Revenue. Both feed gross_revenue; totals reconcile to 267,566 / 129,694."
   ],
   "inferred": [
-    {"table": "top_tenants", "field": "industry", "scope": "all 10 rows", "value": "Hospitality & Leisure", "basis": "Top-10 table (p26) has no trade-sector column; all listed tenants are hotel master-lessees/operators, so industry assigned as Hospitality & Leisure from entity nature.", "source_page": 26},
-    {"table": "performance", "field": "portfolio_value", "scope": "headline", "value": 3400000000.0, "basis": "Chairman's statement (p12) 'total portfolio value grew 0.8% yoy to S$3.4 billion'. Sum of audited IP+PPE carrying values = S$3,352,948k; the S$3.4bn is the rounded headline.", "source_page": 12},
-    {"table": "properties", "field": "lease_expiry_date", "scope": "leasehold rows", "value": "derived", "basis": "Computed as effective_date + lease_term_years where term + start disclosed (e.g. Copthorne King's 1968+99=2067). Remaining-term-of-lease figures cross-checked.", "source_page": 213}
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all 10 rows",
+      "value": "Hospitality & Leisure",
+      "basis": "Top-10 table (p26) has no trade-sector column; all listed tenants are hotel master-lessees/operators, so industry assigned as Hospitality & Leisure from entity nature.",
+      "source_page": 26
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_value",
+      "scope": "headline",
+      "value": 3400000000.0,
+      "basis": "Chairman's statement (p12) 'total portfolio value grew 0.8% yoy to S$3.4 billion'. Sum of audited IP+PPE carrying values = S$3,352,948k; the S$3.4bn is the rounded headline.",
+      "source_page": 12
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "leasehold rows",
+      "value": "derived",
+      "basis": "Computed as effective_date + lease_term_years where term + start disclosed (e.g. Copthorne King's 1968+99=2067). Remaining-term-of-lease figures cross-checked.",
+      "source_page": 213
+    }
   ],
   "reconciliation": {
     "sum_property_gross_revenue": 267566000.0,
@@ -38,5 +68,63 @@
   "structural_absences": {
     "number_of_unitholders": "DISCLOSED — 25,348 holders as at 6 March 2026 (p308 Statistics of Stapled Security Holdings).",
     "fiscal_year_end": "31 December (December FY-end); financial_year=2025."
-  }
+  },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1267509000.0,
+      "basis": "Note 23 Earnings per Stapled Security: weighted average number of Stapled Securities used in arriving at BASIC EPS = 1,267,509 ('000) (1,267,499 outstanding + 10 to be issued for mgmt fees); multiplied to absolute units.",
+      "source_page": 272
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1278497000.0,
+      "basis": "Note 23: weighted average number of Stapled Securities used in arriving at DILUTED EPS = 1,278,497 ('000) (basic 1,267,509 + 10,988 effect of mgmt fees paid/payable in securities). Verified DILUTED figure. Already correct.",
+      "source_page": 272
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement of the Stapled Group (p209): single 'Amount available for distribution' = 95,187 ('000) gross. Mgmt fees in securities are within net tax adjustments / non-cash; no separate cash-deducted adjusted distributable income line. Set null (DPU method 1).",
+      "source_page": 209
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 60933000.0,
+      "basis": "AUDIT: 60,933 ('000) = 'Total distribution (after retention for working capital)', the FY2025 DPU numerator (DPS 4.80c), per Financial Highlights Statement of Total Return (p9). NOT 'Distribution to holders... during the year' 60,492 (which mixes prior-year periods). Correct as stored; no change.",
+      "source_page": 9
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 60933000.0,
+      "basis": "For-the-year declared distribution = 60,933 ('000) → absolute 60,933,000, equal to net_distributable_income because that figure is itself the 'Total distribution after retention for working capital' (the disclosed 5,694 working-capital retention is already deducted upstream in the Distribution Statement build-up, p207: 56,944 − 5,694 retained + 9,683 capital distribution = 60,933). Ties to FY2025 DPS 4.80c = 1H 1.98c (paid, 25,117) + 2H 2.82c (declared post year-end as a subsequent event, Note 32; its standalone dollar amount is NOT separately disclosed). The '(60,492)' line in the Distribution Statement mixes prior-year periods and is NOT used. Retained check: net_distributable_income 60,933,000 − distribution_paid 60,933,000 = 0 (100% of the after-working-capital-retention distributable income declared). Figures in '000, multiplied to absolute.",
+      "source_page": 207
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 60933000.0)",
+      "source_page": 10
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 66627000,
+      "basis": "Financial Highlights (p9): 'Total distribution (before retention for working capital)' = 66,627. CORRECTED 2026-06-23 from 60,933 (which was the AFTER-retention figure). Standardized so distributable income is BEFORE retention (the DPU numerator); retention is then the derived metric.",
+      "source_page": 9
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 60933000,
+      "basis": "Financial Highlights (p9): 'Total distribution (after retention for working capital)' = 60,933 (DPS 4.80c). Retention = 66,627 - 60,933 = 5,694, ties exactly to Distribution Statement 'Less: Amount retained for working capital (5,694)' (p207). basis reclassified full_payout_no_retention_line -> disclosed_after_retention.",
+      "source_page": 9
+    }
+  ]
 }

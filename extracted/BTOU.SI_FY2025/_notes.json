@@ -1,6 +1,50 @@
 {
   "symbol": "BTOU.SI",
   "financial_year": 2025,
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1835124000.0,
+      "basis": "Note 20 EPU: weighted average No. of Units 1,835,124 ('000); page 140, absolute = x1000",
+      "source_page": 140
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1835124000.0,
+      "basis": "Note 20 states 'Diluted EPU is the same as the basic EPU as there are no dilutive instruments' — diluted = basic 1,835,124 ('000); page 140",
+      "source_page": 140
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement (page 104): single 'Income available for distribution to Unitholders for the year' 25,542; distribution adjustments are non-tax-deductible/non-cash. DPU method 1, no separate adjusted figure. (Distributions also halted.)",
+      "source_page": 104
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 25542000.0,
+      "basis": "AUDIT: stored value matches 'Income available for distribution to Unitholders for the year' 25,542 ('000), the DI numerator. Correct as-is.",
+      "source_page": 104
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 0,
+      "basis": "Distribution Statement (page 104), US$'000. Distributions HALTED since 2023 under the Recapitalisation Plan/MRA: 'Distribution amount to Unitholders at the end of the year' = - (nil) and 'DPU' = - (nil), explicitly shown. No 'distributions during the year' deduction line; the entire DI is retained (amount available rolls 112,608 + 25,542 = 138,150). distribution_paid = 0 (explicit nil). retained = 25,542 - 0 = 25,542 ('000).",
+      "source_page": 104
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "suspended",
+      "basis": "Phase-1 tag 2026-06-23: distributions suspended this year; distribution_paid = 0.",
+      "source_page": 8
+    }
+  ],
   "columns_never_fillable": [
     {
       "column": "property.gla",
@@ -102,9 +146,31 @@
     },
     "hybrid_pipeline_decisions": {
       "properties_deterministic_rows": 7,
-      "properties_deterministic_fields": ["symbol", "financial_year", "property_name", "land_tenure", "occupancy_rate", "market_valuation", "valuation_date", "country", "currency", "source_page"],
-      "properties_needs_llm_fields": ["value_basis", "ownership", "status (Figueroa cleanup)"],
-      "properties_other_source_fields": ["nla", "gross_revenue", "net_property_income", "major_tenant", "address", "category"],
+      "properties_deterministic_fields": [
+        "symbol",
+        "financial_year",
+        "property_name",
+        "land_tenure",
+        "occupancy_rate",
+        "market_valuation",
+        "valuation_date",
+        "country",
+        "currency",
+        "source_page"
+      ],
+      "properties_needs_llm_fields": [
+        "value_basis",
+        "ownership",
+        "status (Figueroa cleanup)"
+      ],
+      "properties_other_source_fields": [
+        "nla",
+        "gross_revenue",
+        "net_property_income",
+        "major_tenant",
+        "address",
+        "category"
+      ],
       "top_tenants_method": "hybrid - markdown table p27 parsed directly (10 rows x 3 fields)",
       "trade_mix_method": "hybrid - markdown donut table p26 parsed directly (10 rows); needs_llm: canonical category mapping",
       "financial_method": "hybrid - Note 15/16 tables p138 parsed directly (4 revenue + 6 expense rows); needs_llm: component canonical key",

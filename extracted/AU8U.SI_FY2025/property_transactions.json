@@ -8,7 +8,14 @@
     "completion_date": "2025-10-31",
     "sale_price_rmb_m": 813.8,
     "counterparty": "Changsha 2023 Consulting & Management Co., Ltd. (indirect wholly owned subsidiary of CapitaLand Mall Asia Limited)",
-    "note": "Loss on disposal mainly due to realisation of FX differences upon divestment; partial premium over Dec 2024 valuation of RMB785m. SPV holding the property sold. Partial-year P&L (1 Jan to 31 Oct 2025): Gross revenue S$4.0m, NPI S$2.5m included in FY2025 totals.",
+    "valuation": 785000000,
+    "valuation_currency": "RMB",
+    "valuation_basis": "Appraised value RMB785.0m as at 31 December 2024 (portfolio valuation table p28); divested at RMB813.8m, a premium to valuation",
+    "net_proceeds": 131644000,
+    "net_proceeds_currency": "SGD",
+    "gain_on_divestment": -11988000,
+    "gain_on_divestment_currency": "SGD",
+    "note": "Loss on disposal mainly due to realisation of FX differences upon divestment; partial premium over Dec 2024 valuation of RMB785m. SPV holding the property sold. Partial-year P&L (1 Jan to 31 Oct 2025): Gross revenue S$4.0m, NPI S$2.5m included in FY2025 totals. Net cash inflow on divestment of subsidiary S$131,644k (cash flow Note B, p103-104); loss on disposal of subsidiaries S$(11,988)k (statement of total return, p95).",
     "source_page": 95
   }
 ]

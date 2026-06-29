@@ -1,0 +1,12 @@
+{
+  "symbol": "D5IU.SI",
+  "sub_sector": "Retail",
+  "management": [
+    {"role": "reit_manager", "company_name": "Landmark REIT Management Ltd."},
+    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
+    {"role": "property_manager", "company_name": "PT Lippo Malls Indonesia"},
+    {"role": "sponsor", "company_name": "PT Lippo Karawaci Tbk"}
+  ],
+  "income_model": "conventional",
+  "source_page": 21
+}

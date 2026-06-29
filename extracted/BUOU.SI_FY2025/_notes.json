@@ -27,6 +27,50 @@
     "Audited Portfolio Statement (p127-134) uses property ADDRESSES; Property Profile (p50-57) uses property NUMBERS + addresses. Matched by sequence/address; some leasehold carrying amounts include right-of-use assets (footnote c) so audited '000 > profile $m for Melbourne Airport, Wetherill Park, Port Kembla, Nuremberg etc. Canonical market_valuation = audited carrying amount (incl. ROU).",
     "Central Park (Perth): 50% effective interest but fully consolidated at 100% (S$319,097k) - full_consolidation_partial_ownership flag set."
   ],
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 3768187000,
+      "basis": "EPU note 9 basic table 'Weighted average number of Units' = 3,768,187 ('000) = 3,768,187,000.",
+      "source_page": 162
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 3790771000,
+      "basis": "CORRECTED: stored value 3,768,187,000 was the BASIC weighted-avg mislabeled. EPU note 9 diluted table 'Weighted average number of Units (diluted)' = 3,790,771 ('000) = 3,790,771,000 (basic 3,768,187 + effect of mgmt fees in units 22,338 + divestment fees in units 246). Changed to diluted figure.",
+      "source_page": 163
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "DPU method 1: single 'Distributable income' = 224,654 ('000) in Consolidated Distribution Statement (p120) = income available for distribution 194,479 + capital distribution 30,175; manager fees payable in units. No separate cash-fees-deducted adjusted figure. Set null.",
+      "source_page": 120
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 224654000,
+      "basis": "AUDIT: matches 'Distributable income for the year' = 224,654 ('000), the DPU numerator (also headline Distributable Income $224.7m p11). NOT the 'Distributions to Unitholders' paid line. Already correct.",
+      "source_page": 120
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": null,
+      "basis": "No single for-the-year declared distribution figure disclosed. Semi-annual REIT (FY-end 30 Sep); Consolidated Distribution Statement (p120) 'Distributions to Unitholders' total 237,992 ('000) is CASH-BASIS: 2H FY2024 final (3.32c, 1 Apr-30 Sep 2024, 124,905k, paid Dec 2024) + 1H FY2025 interim (3.00c, 1 Oct 2024-31 Mar 2025, 113,087k). The 2H FY2025 distribution (2.95c) is declared after the 30 Sep 2025 year-end and not in this statement. FLCT distributes ~100% (DPU 5.95c x ~3,768m units ~= distributable income 224,654k; retained ~nil), but no for-the-year 'amount to be distributed' line exists to cite. Set null to avoid mixing periods.",
+      "source_page": 120
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "not_disclosed_rollforward_only",
+      "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
+      "source_page": 28
+    }
+  ],
   "inferred": [
     {
       "table": "properties",

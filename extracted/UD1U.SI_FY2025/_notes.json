@@ -1,6 +1,50 @@
 {
   "symbol": "UD1U.SI",
   "financial_year": 2025,
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1344838000,
+      "basis": "Note 5.2 EPU: 'Weighted average number of Units' 1,344,838 ('000); page 202, absolute = x1000",
+      "source_page": 202
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1344838000,
+      "basis": "EPU note states 'basic ... is the same as the diluted ... as there were no dilutive instruments issued during the year' — diluted = basic 1,344,838 ('000); page 202",
+      "source_page": 202
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Consolidated Statement of Distribution (page 176): single 'Amount available for distribution' 16,291; total distribution adjustments are non-cash. DPU method 1, no separate cash-fee-deducted adjusted figure.",
+      "source_page": 176
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 16291000,
+      "basis": "AUDIT CORRECTION: was 14,662 (the distributions-paid line 'Total Unitholders distribution' = 9,549 + 5,113, also labelled 'Income to be distributed' in DPU Note 5.4). Corrected to 'Amount available for distribution' 16,291 ('000), the distributable-income-for-the-year line in the Consolidated Statement of Distribution; differs from amount paid by 1,629 retained for working capital.",
+      "source_page": 176
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 14662000,
+      "basis": "Consolidated Statement of Distribution (page 176), EUR '000 -> absolute. 'Total Unitholders' distribution' = 9,549 (0.71c, 1H2025) + 5,113 (0.38c, 2H2025) = 14,662 ('000), the for-the-year declared distribution (= 'Income to be distributed to Unitholders' per DPU Note 5.4, ties to DPU 1.09c x 1,344,838k units). retained = 16,291 ('Amount available for distribution') - 14,662 = 1,629, matching the explicit 'Amount retained for working capital' 1,629 ('000) line. Clean check.",
+      "source_page": 176
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 176
+    }
+  ],
   "columns_never_fillable": [
     {
       "column": "properties.net_property_income",

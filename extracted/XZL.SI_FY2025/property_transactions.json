@@ -1,5 +1,46 @@
 [
-  {"symbol": "XZL.SI", "financial_year": 2025, "type": "divestment", "property_name": "Hyatt Place Detroit Auburn Hills", "country": "United States", "price": 6650000, "currency": "USD", "agreement_date": "2025-06-04", "completion_date": "2025-09-10", "source_page": 11, "note": "Divested in FY2025; absent from the 32-hotel year-end portfolio. Partial-year P&L included in Stapled Group total."},
-  {"symbol": "XZL.SI", "financial_year": 2025, "type": "divestment", "property_name": "Hyatt Place Detroit Livonia", "country": "United States", "price": 10000000, "currency": "USD", "agreement_date": "2025-12-08", "completion_date": "2026-03-11", "source_page": 22, "note": "Subsequent event; held at 31 Dec 2025, sale completed post year-end. Independent valuation US$10.3m as of 31 Jul 2025."},
-  {"symbol": "XZL.SI", "financial_year": 2025, "type": "divestment_terminated", "property_name": "Hyatt Place Memphis Primacy Parkway", "country": "United States", "price": 7750000, "currency": "USD", "agreement_date": "2025-12-16", "completion_date": null, "source_page": 18, "note": "Conditional sale agreement US$7.75m; terminated by buyer (announced 16 March 2026). Remains in portfolio."}
+  {
+    "symbol": "XZL.SI",
+    "financial_year": 2025,
+    "type": "divestment",
+    "property_name": "Hyatt Place Detroit Auburn Hills",
+    "country": "United States",
+    "price": 6650000,
+    "currency": "USD",
+    "agreement_date": "2025-06-04",
+    "completion_date": "2025-09-10",
+    "source_page": 11,
+    "note": "Divested in FY2025; absent from the 32-hotel year-end portfolio. Partial-year P&L included in Stapled Group total.",
+    "counterparty": "AHM Hospitality LLC"
+  },
+  {
+    "symbol": "XZL.SI",
+    "financial_year": 2025,
+    "type": "divestment",
+    "property_name": "Hyatt Place Detroit Livonia",
+    "country": "United States",
+    "price": 10000000,
+    "currency": "USD",
+    "agreement_date": "2025-12-08",
+    "completion_date": "2026-03-11",
+    "source_page": 22,
+    "note": "Subsequent event; held at 31 Dec 2025, sale completed post year-end. Independent valuation US$10.3m as of 31 Jul 2025.",
+    "counterparty": "NJA Management Group LLC",
+    "valuation": 10300000
+  },
+  {
+    "symbol": "XZL.SI",
+    "financial_year": 2025,
+    "type": "divestment_terminated",
+    "property_name": "Hyatt Place Memphis Primacy Parkway",
+    "country": "United States",
+    "price": 7750000,
+    "currency": "USD",
+    "agreement_date": "2025-12-16",
+    "completion_date": null,
+    "source_page": 18,
+    "note": "Conditional sale agreement US$7.75m; terminated by buyer (announced 16 March 2026). Remains in portfolio. Independent valuation US$7.7m as at 31 Dec 2025 per year-end portfolio table (PAGE 22). Deal-specific valuation referred to the 10 Dec 2025 divestment announcement (not in AR). No per-deal gain/loss or net proceeds disclosed.",
+    "counterparty": "Shivam Patel",
+    "valuation": 7700000
+  }
 ]

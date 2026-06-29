@@ -121,5 +121,49 @@
     "gross_revenue_gap_note": "Per-property gross revenues are 'Attributable Gross Revenue' from At A Glance cards (REIT's share only, SGD millions rounded to 1 d.p.). Sum of 25 active/held-for-sale properties = S$433.5m vs total reported S$441.4m. Gap of ~S$7.9m (~1.8%) is attributable to: (1) Kelsterbach DC partial-year gross revenue Jan-Mar 2025 (divested 24 Mar 2025, not shown in any card since no longer active); (2) rounding to nearest S$0.1m across 25 card disclosures. This is a structural limitation of the card-based per-property gross revenue disclosure.",
     "trade_mix_sum": 100.0,
     "trade_mix_reconciles": true
-  }
+  },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2286766000,
+      "basis": "Note 27 EPU (Basic and diluted): 'Weighted average number of Units during the year' = 2,286,766 '000 -> 2,286,766,000 absolute",
+      "source_page": 144
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2286766000,
+      "basis": "Note 27 discloses a single 'Basic and diluted' EPU; diluted weighted-avg = basic = 2,286,766,000 (no dilutive instruments). Verified correct.",
+      "source_page": 144
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 268051000,
+      "basis": "Distributable income for the year = 268,051 S$'000 (Distribution Statement 'Total amount available for distribution for the year', Note; financial review p20 line 'Distributable income' 268,051). Verified = distributable-income-for-year line, not opening-inclusive 'Amount available for distribution' 332,893 nor distributions paid 133,531. Already correct.",
+      "source_page": 109
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Method 1: Management fees paid and/or payable in units added back as a non-cash adjustment (Distribution Statement Note A, p110). Single distributable-income figure; no separate cash-fee-deducted adjusted line -> null.",
+      "source_page": 110
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 268051000,
+      "basis": "100% payout: 'Total amount available for distribution for the year' = 268,051 S$'000 (DPU note 27b, p144, '000->absolute) is the for-the-year declared distribution = DPU 10.381c x 2,286,766k units. Equals net_distributable_income (no further retention; figure is already after setting aside $18.5m capex + $6.0m land-premium reserves). Retained = 268,051 - 268,051 = 0. The Distribution Statement (p109) is a cumulative roll-forward (opening 64,842 + for-year 268,051 = 332,893 'Amount available'; less cash 'Distributions to Unitholders' 133,531 = closing 199,362) - cash distributions paid (133,531, mixes prior-year final) deliberately NOT used.",
+      "source_page": 144
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "not_disclosed_rollforward_only",
+      "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
+      "source_page": 8
+    }
+  ]
 }

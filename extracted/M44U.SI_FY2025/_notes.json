@@ -1,31 +1,141 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 5034448000,
+      "basis": "EPU note: 'Weighted average number of units outstanding during the year' 5,034,448 ('000); page 190, absolute = x1000",
+      "source_page": 190
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 5034448000,
+      "basis": "EPU note states 'Diluted earnings per unit is the same as the basic earnings per unit as there are no dilutive instruments' — diluted = basic 5,034,448 ('000); page 190",
+      "source_page": 190
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement (page 124) shows single 'Amount available for distribution' 406,397; non-tax adjustments are non-cash add-backs (Note A). DPU method 1, no separate adjusted figure.",
+      "source_page": 124
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 406397000,
+      "basis": "AUDIT: stored value matches 'Amount available for distribution' 406,397 ('000), the DPU numerator, NOT 'Total Unitholders distribution' 417,743. Correct as-is.",
+      "source_page": 124
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 406397000,
+      "basis": "Distribution Statement (page 124, PAGE marker 125), S$'000 -> absolute. MLT distributes ~100% of distributable income with no retention: 'Amount available for distribution' = 406,397 ('000) and DPU 8.053c x ~5,015m units ties to this for-the-year declared distribution. The statement is a cash-roll-forward ('Total Unitholders distribution (incl capital return)' 417,743 mixes the Jan-Mar 2024 final 110,417 paid in FY25 and excludes the Jan-Mar 2025 4Q 1.955c declared but unpaid at year-end), so the paid line is NOT the for-the-year figure. retained = 406,397 - 406,397 = 0.",
+      "source_page": 124
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 406397000)",
+      "source_page": 6
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "net_property_income", "reason": "Per-property NPI not disclosed in the Portfolio Statement; only available at country-segment level in Note 29 (segment reporting)."},
-    {"column": "gla", "reason": "Gross lettable area not disclosed in the audited Portfolio Statement for this report; the report references NLA only at aggregate level, not per property."},
-    {"column": "nla", "reason": "Net lettable area not disclosed on a per-property basis in the Portfolio Statement."},
-    {"column": "major_tenant", "reason": "Not disclosed per property in the audited Portfolio Statement; only top-10 portfolio-level customers are named."},
-    {"column": "trade_mix (per-property)", "reason": "Trade mix is disclosed at portfolio level only, not per property."},
-    {"column": "effective_date", "reason": "Land lease commencement date not consistently disclosed; only date of legal completion and term available."},
-    {"column": "lease_expiry_date", "reason": "Lease expiry dates not individually disclosed in the Portfolio Statement markdown; computed from completion date + term where feasible but not reliably derivable for all properties."}
+    {
+      "column": "net_property_income",
+      "reason": "Per-property NPI not disclosed in the Portfolio Statement; only available at country-segment level in Note 29 (segment reporting)."
+    },
+    {
+      "column": "gla",
+      "reason": "Gross lettable area not disclosed in the audited Portfolio Statement for this report; the report references NLA only at aggregate level, not per property."
+    },
+    {
+      "column": "nla",
+      "reason": "Net lettable area not disclosed on a per-property basis in the Portfolio Statement."
+    },
+    {
+      "column": "major_tenant",
+      "reason": "Not disclosed per property in the audited Portfolio Statement; only top-10 portfolio-level customers are named."
+    },
+    {
+      "column": "trade_mix (per-property)",
+      "reason": "Trade mix is disclosed at portfolio level only, not per property."
+    },
+    {
+      "column": "effective_date",
+      "reason": "Land lease commencement date not consistently disclosed; only date of legal completion and term available."
+    },
+    {
+      "column": "lease_expiry_date",
+      "reason": "Lease expiry dates not individually disclosed in the Portfolio Statement markdown; computed from completion date + term where feasible but not reliably derivable for all properties."
+    }
   ],
   "data_with_no_home": [
-    {"item": "5A Joo Koon Circle gross_revenue=null, occupancy=null", "note": "Property was under redevelopment (completed May 2025, after FY-end). Footnote (i) page 132. Valuation S$188m reflects completed redeveloped asset capitalised in FY2025."},
-    {"item": "3A Jalan Terusan gross_revenue=null, occupancy=null", "note": "Property showed zero revenue in FY2025 (S$0 vs S$850k prior year in value table row — occupancy blank). Status active but may have been transitioning."},
-    {"item": "Subang 3 and Subang 4 gross_revenue=null, occupancy=null", "note": "Revenue shown as dashes in the value table (both rows); likely transitioning per footnote (r) about potential amalgamation with Subang land parcels."},
-    {"item": "Subang land parcels gross_revenue=null, occupancy=null", "note": "Land parcels, no income-producing use recorded in FY2025."},
-    {"item": "Portfolio-level NPI by country (Note 29)", "note": "SG:173,031k HK:97,802k CN:117,649k JP:115,614k KR:52,284k AU:58,147k MY:46,820k VN:31,630k IN:9,316k (approx; FY2025 Group segment). Total NPI per P&L = S$625,293k."},
-    {"item": "FX rates disclosed in annual report", "note": "Closing rates used for valuation conversion; average rates used for revenue/income conversion. All Portfolio Statement values already presented in SGD (converted by the trust)."},
-    {"item": "Held-for-sale: 1 Genting Lane, 8 Tuas View Square, 31 Penjuru Lane", "note": "Agreed values S$12.3m, S$11.18m, S$7.8m per footnote (n) page 173. These are classified as investment properties held for sale — market_valuation set null as they appear in Note 15 (held for sale) not the main Portfolio Statement valuation column."},
-    {"item": "Held-for-sale: Subang 2", "note": "Agreed value approx S$9.482m per footnote (s) page 173. market_valuation set null."},
-    {"item": "Redevelopment note for 5A Joo Koon Circle", "note": "Formerly known as 51 Benoi Road. Redeveloped to 6-storey ramp-up facility at S$205m cost. 46% pre-leased at year-end. Valuation S$188m vs prior year S$55.1m reflects WIP capitalisation."}
+    {
+      "item": "5A Joo Koon Circle gross_revenue=null, occupancy=null",
+      "note": "Property was under redevelopment (completed May 2025, after FY-end). Footnote (i) page 132. Valuation S$188m reflects completed redeveloped asset capitalised in FY2025."
+    },
+    {
+      "item": "3A Jalan Terusan gross_revenue=null, occupancy=null",
+      "note": "Property showed zero revenue in FY2025 (S$0 vs S$850k prior year in value table row — occupancy blank). Status active but may have been transitioning."
+    },
+    {
+      "item": "Subang 3 and Subang 4 gross_revenue=null, occupancy=null",
+      "note": "Revenue shown as dashes in the value table (both rows); likely transitioning per footnote (r) about potential amalgamation with Subang land parcels."
+    },
+    {
+      "item": "Subang land parcels gross_revenue=null, occupancy=null",
+      "note": "Land parcels, no income-producing use recorded in FY2025."
+    },
+    {
+      "item": "Portfolio-level NPI by country (Note 29)",
+      "note": "SG:173,031k HK:97,802k CN:117,649k JP:115,614k KR:52,284k AU:58,147k MY:46,820k VN:31,630k IN:9,316k (approx; FY2025 Group segment). Total NPI per P&L = S$625,293k."
+    },
+    {
+      "item": "FX rates disclosed in annual report",
+      "note": "Closing rates used for valuation conversion; average rates used for revenue/income conversion. All Portfolio Statement values already presented in SGD (converted by the trust)."
+    },
+    {
+      "item": "Held-for-sale: 1 Genting Lane, 8 Tuas View Square, 31 Penjuru Lane",
+      "note": "Agreed values S$12.3m, S$11.18m, S$7.8m per footnote (n) page 173. These are classified as investment properties held for sale — market_valuation set null as they appear in Note 15 (held for sale) not the main Portfolio Statement valuation column."
+    },
+    {
+      "item": "Held-for-sale: Subang 2",
+      "note": "Agreed value approx S$9.482m per footnote (s) page 173. market_valuation set null."
+    },
+    {
+      "item": "Redevelopment note for 5A Joo Koon Circle",
+      "note": "Formerly known as 51 Benoi Road. Redeveloped to 6-storey ramp-up facility at S$205m cost. 46% pre-leased at year-end. Valuation S$188m vs prior year S$55.1m reflects WIP capitalisation."
+    }
   ],
   "parsing_traps": [
-    {"trap": "Facing-page positional split", "detail": "The Portfolio Statement uses alternating pages: odd pages (130,132,134...) contain description/tenure/location columns; even pages (131,133,135...) contain value columns with NO label column. This is the defined facing-page positional split in REFERENCE.md §2 — the deterministic adapter cannot handle it. Properties were extracted via LLM by reading paired pages. Confirmed: value table first column is blank for every data row."},
-    {"trap": "Multi-currency in Portfolio Statement", "detail": "Despite MLT operating in 9 currencies (SGD, AUD, CNY, HKD, INR, JPY, MYR, KRW, VND), the Portfolio Statement presents ALL values in S$'000 (SGD), converted at closing rates. currency field set to SGD for all properties."},
-    {"trap": "5A Joo Koon Circle valuation anomaly", "detail": "Valuation jumped from S$55.1m (FY2024) to S$188m (FY2025) due to redevelopment completion. Not a data error."},
-    {"trap": "Divested properties still appear in Portfolio Statement with partial-year revenue", "detail": "Properties divested during FY2025 (marked (o)) appear as rows in the Portfolio Statement with partial-year revenue figures and no closing valuation. Correctly marked status=divested."},
-    {"trap": "Group vs MLT entity", "detail": "Pages 130-167 = Group (consolidating all subsidiaries). Pages 168-171 = MLT entity (Singapore properties only). Extraction uses Group statement — the authoritative consolidated view."},
-    {"trap": "Australia valuations in AUD originally", "detail": "The report discloses Australian property valuations via independent valuers in AUD (Knight Frank), but the Portfolio Statement presents converted SGD values. The S$ values used here are from the audited statement."}
+    {
+      "trap": "Facing-page positional split",
+      "detail": "The Portfolio Statement uses alternating pages: odd pages (130,132,134...) contain description/tenure/location columns; even pages (131,133,135...) contain value columns with NO label column. This is the defined facing-page positional split in REFERENCE.md §2 — the deterministic adapter cannot handle it. Properties were extracted via LLM by reading paired pages. Confirmed: value table first column is blank for every data row."
+    },
+    {
+      "trap": "Multi-currency in Portfolio Statement",
+      "detail": "Despite MLT operating in 9 currencies (SGD, AUD, CNY, HKD, INR, JPY, MYR, KRW, VND), the Portfolio Statement presents ALL values in S$'000 (SGD), converted at closing rates. currency field set to SGD for all properties."
+    },
+    {
+      "trap": "5A Joo Koon Circle valuation anomaly",
+      "detail": "Valuation jumped from S$55.1m (FY2024) to S$188m (FY2025) due to redevelopment completion. Not a data error."
+    },
+    {
+      "trap": "Divested properties still appear in Portfolio Statement with partial-year revenue",
+      "detail": "Properties divested during FY2025 (marked (o)) appear as rows in the Portfolio Statement with partial-year revenue figures and no closing valuation. Correctly marked status=divested."
+    },
+    {
+      "trap": "Group vs MLT entity",
+      "detail": "Pages 130-167 = Group (consolidating all subsidiaries). Pages 168-171 = MLT entity (Singapore properties only). Extraction uses Group statement — the authoritative consolidated view."
+    },
+    {
+      "trap": "Australia valuations in AUD originally",
+      "detail": "The report discloses Australian property valuations via independent valuers in AUD (Knight Frank), but the Portfolio Statement presents converted SGD values. The S$ values used here are from the audited statement."
+    }
   ],
   "reconciliation": {
     "sum_property_market_valuation_active": "Computed from active properties with non-null market_valuation",

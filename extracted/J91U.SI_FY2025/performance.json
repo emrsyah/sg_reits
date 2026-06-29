@@ -6,9 +6,16 @@
   "gross_revenue": 445984000,
   "net_property_income": 328679000,
   "net_distributable_income": 176076000,
+  "distribution_paid": null,
+  "adjusted_distributable_income": null,
   "dpu": 21.914,
   "distribution_record": [
-    {"period": "1H2025 (1/1/2025-30/6/2025)", "dpu": 11.239, "ex_date": null, "pay_date": "2025-09-12"}
+    {
+      "period": "1H2025 (1/1/2025-30/6/2025)",
+      "dpu": 11.239,
+      "ex_date": null,
+      "pay_date": "2025-09-12"
+    }
   ],
   "number_of_unitholders": null,
   "aggregate_leverage": 43.4,
@@ -21,7 +28,17 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_half_year_split", "scope": "distribution_record", "note": "DPU is paid semi-annually; total FY2025 DPU 21.914 cents. 1H2025 distribution of 11.239 cents/Unit paid 12 Sep 2025; 2H2025 distribution declared and paid in FY2026. Comparatives restated for 10:1 unit consolidation completed 5 May 2025."}
+    {
+      "type": "dpu_half_year_split",
+      "scope": "distribution_record",
+      "note": "DPU is paid semi-annually; total FY2025 DPU 21.914 cents. 1H2025 distribution of 11.239 cents/Unit paid 12 Sep 2025; 2H2025 distribution declared and paid in FY2026. Comparatives restated for 10:1 unit consolidation completed 5 May 2025."
+    },
+    {
+      "type": "diluted_shares_corrected",
+      "scope": "financial.diluted_shares_outstanding",
+      "note": "Corrected 803,730,000 -> 803,415,000. Note 25 EPU: basic weighted-avg = 803,415 '000; 'Diluted EPU is the same as basic EPU as there were no dilutive instruments'. Prior 803,730,000 matched neither the basic weighted-avg nor units in issue (805,035 '000). p201."
+    }
   ],
-  "source_page": 22
+  "source_page": 22,
+  "distribution_basis": "full_payout_no_retention_line"
 }

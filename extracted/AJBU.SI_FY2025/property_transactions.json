@@ -6,11 +6,17 @@
     "property_name": "Kelsterbach Data Centre",
     "country": "Germany",
     "completion_date": "2025-03-24",
-    "transaction_price": null,
+    "counterparty": "Fortinet GmbH",
+    "transaction_price": 70600000,
+    "transaction_price_local": 50000000,
+    "transaction_price_local_currency": "EUR",
+    "valuation": 39000000,
+    "valuation_currency": "EUR",
+    "valuation_basis": "31 December 2024 valuation EUR 39.0m by Savills (UK) Limited (independent valuer); sale at EUR 50.0m = 28.2% premium, direct comparison + DCF, willing-buyer/willing-seller",
     "carrying_value_pre": 55041000,
     "gain_loss": 10825000,
     "currency": "SGD",
-    "notes": "Divested on 24 March 2025. Net proceeds used to repay bank borrowings. Gain on divestment S$10.825m per Statement of Profit or Loss.",
+    "notes": "Divested 24 Mar 2025 to Fortinet GmbH for EUR 50.0m (~S$70.6m consideration per FS), a 28.2% premium to its 31 Dec 2024 value of EUR 39.0m. Net proceeds used to repay bank borrowings. Gain on divestment S$10.825m per Statement of Profit or Loss.",
     "source_page": 108
   }
 ]

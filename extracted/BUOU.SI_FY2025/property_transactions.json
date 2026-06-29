@@ -9,7 +9,11 @@
     "price": 140300000,
     "currency": "SGD",
     "appraised_value": 143800000,
-    "source_page": 37
+    "source_page": 37,
+    "valuation": 143800000,
+    "purchase_price": 140300000,
+    "counterparty": "Diamond Land Pte. Ltd.",
+    "note": "Maiden Singapore L&I entry. Purchased from Diamond Land Pte. Ltd. (seller, Property Highlights narrative). Appraised value S$143.8m by Knight Frank on acquisition; purchase price S$140.3m."
   },
   {
     "symbol": "BUOU.SI",
@@ -21,7 +25,13 @@
     "price": 192100000,
     "currency": "AUD",
     "appraised_value": 191000000,
-    "source_page": 37
+    "source_page": 37,
+    "valuation": 191000000,
+    "counterparty": "Three Five Seven Collins Street Pty Ltd (as trustee for Three Five Seven Collins Street Trust)",
+    "sale_consideration": 192100000,
+    "gain_on_divestment": 180000,
+    "gain_currency": "SGD",
+    "note": "Exit from Melbourne CBD office. Sold A$192.1m, 0.6% above A$191.0m independent valuation (Savills, 1 Jun 2025). Only investment-property divestment in FY2025, so the S$180,000 'Gain on divestment of investment property' in the Statement of Total Return (group accounts, S$'000) is attributable to this deal. Per-deal net proceeds not separately disclosed."
   },
   {
     "symbol": "BUOU.SI",
@@ -30,10 +40,12 @@
     "property_name": "28 German properties (minority interest sale)",
     "country": "Germany",
     "date": "2024-11-28",
-    "price": 33400000,
+    "price": 33414000,
     "currency": "SGD",
     "appraised_value": null,
-    "note": "Sale of shares to existing minority shareholders, reducing effective interest in German properties by 3.2%-5.0%; consideration EUR23.2m (~S$33.4m).",
-    "source_page": 36
+    "note": "Sale of shares to existing minority shareholders of the property-holding companies, reducing effective interest in each German property to 89.9% (a 3.2%-5.0% reduction); consideration EUR23.2m = S$33,414,000 exactly (Note 6955 / equity statement). This is an NCI/ownership-interest sale recognised in equity (S$0.746m difference to Unitholders), NOT a P&L property divestment - no per-deal gain_on_divestment and no separate property appraised value are disclosed (both confirmed absent).",
+    "source_page": 36,
+    "counterparty": "Fraser's Property Investments (Europe) B.V., FPI Netherlands B.V. and Stichting Coeval (existing minority shareholders)",
+    "sale_consideration": 33414000
   }
 ]

@@ -127,6 +127,18 @@ class Property(BaseModel):
     market_valuation: Optional[float] = Field(
         None, description="carrying value from the audited financial statements / "
         "portfolio statement, absolute units (NOT $'000)")
+    purchase_price: Optional[float] = Field(
+        None, description="ORIGINAL acquisition cost of the property (what the REIT paid when it "
+        "bought it), absolute units, as-disclosed — capture ONLY when the report prints it (often "
+        "in the portfolio statement 'at cost' column, the investment-property note, or an "
+        "acquisition footnote); null otherwise. Enables comparable capital-gain computation on our "
+        "end: (market_valuation - purchase_price) / purchase_price. Added 2026-06-23. Do NOT "
+        "derive or assume; never use the current valuation as a proxy for cost.")
+    purchase_price_currency: Optional[str] = Field(
+        None, description="currency the purchase_price is disclosed in. CRITICAL for the gain "
+        "ratio: many portfolio tables print foreign assets' cost in LOCAL currency (RMB/AUD/JPY) "
+        "while market_valuation is the SGD-presented figure — so compare cost against original_value "
+        "(local) when this differs from `currency`, not against the SGD valuation. Added 2026-06-23.")
     valuation_date: Optional[str] = Field(None, description="FS valuation date YYYY-MM-DD")
     currency: Optional[str] = Field(
         None, description="presentation currency of market_valuation (as the audited statement "
@@ -187,6 +199,30 @@ class Performance(BaseModel):
     gross_revenue: Optional[float] = None
     net_property_income: Optional[float] = None
     net_distributable_income: Optional[float] = None
+    adjusted_distributable_income: Optional[float] = Field(
+        None, description="distributable income AFTER the fee adjustment (e.g. fees deducted "
+        "rather than taken in units); null when the report shows only one distributable-income "
+        "figure (i.e. fees were settled in units → DPU method 1). Paired with "
+        "income_stmt_metrics.weighted_avg_shares_basic/diluted to reproduce DPU two ways and "
+        "compare against the colleagues' manually-keyed figures (data-accuracy indicator).")
+    distribution_paid: Optional[float] = Field(
+        None, description="amount actually distributed/declared to unitholders for the year "
+        "('Distributions to Unitholders' / 'Amount to be distributed' line), as opposed to "
+        "net_distributable_income (the distributable-income figure). The difference "
+        "net_distributable_income - distribution_paid = capital retained for the year. Added "
+        "2026-06-23 as the colleagues' 5th DPU-cross-check particular. NULL when the report "
+        "discloses no for-the-year distribution line (see distribution_basis).")
+    distribution_basis: Optional[str] = Field(
+        None, description="how distribution_paid was derived / why it is null — makes each value "
+        "self-describing for the retention cross-check. One of: 'disclosed_after_retention' "
+        "(report prints a for-the-year amount-to-be-distributed line; distribution_paid is that "
+        "figure and net_distributable_income - distribution_paid = the disclosed retention); "
+        "'suspended' (distributions halted this year; distribution_paid = 0); "
+        "'full_payout_no_retention_line' (~100% payout but no distinct for-year distributed line "
+        "is disclosed, only a value equal to NDI or computed from DPU*units; distribution_paid "
+        "left NULL to avoid asserting a fabricated retained=0); 'not_disclosed_rollforward_only' "
+        "(statement is a running cash balance contaminated by carry-forward / period timing, no "
+        "for-the-year line; distribution_paid NULL). Added 2026-06-23.")
     dpu: Optional[float] = Field(None, description="full-year distribution per unit, cents")
     distribution_record: Optional[list[dict]] = Field(
         None, description="per-period distributions when split (e.g. H1/H2): "
@@ -294,7 +330,13 @@ class IncomeStmtMetrics(BaseModel):
     non_operating_income_or_loss: Optional[float] = Field(None, description="SIGNED")
     interest_expense_non_operating: Optional[float] = Field(
         None, description="finance costs; POSITIVE magnitude (like prod)")
-    diluted_shares_outstanding: Optional[float] = None
+    diluted_shares_outstanding: Optional[float] = Field(
+        None, description="weighted average number of ordinary units/shares in issue — DILUTED")
+    weighted_avg_shares_basic: Optional[float] = Field(
+        None, description="weighted average number of ordinary units/shares in issue — BASIC. "
+        "Tell-tale: when basic == diluted, fees were settled in units (DPU method 1) and "
+        "performance.adjusted_distributable_income is null. Added 2026-06-22 for the DPU "
+        "two-method cross-check vs the colleagues' manually-gathered figures.")
     # REIT keys prod keeps inside this blob
     net_property_sales: Optional[float] = Field(None, description="divestment gain/loss; 0 if none")
     funds_from_operation: Optional[float] = Field(
@@ -372,6 +414,48 @@ class FinancialStatement(BaseModel):
         "other home — kept here for 1:1 coverage")
     # our extension (not pushed to income_stmt_metrics)
     line_items: list[FinancialNoteLine] = Field(default_factory=list)
+    source_page: Optional[int] = None
+
+
+class PropertyTransaction(BaseModel):
+    """A single acquisition or divestment disclosed in the AR (one row of
+    sgx_reit_property_transaction). Formalized 2026-06-23 — previously this table was
+    intermediate-only with no contract, so agents used 50+ ad-hoc key names and the typed
+    columns came up null. Canonical keys below; the loader also resolves the legacy aliases
+    (in parentheses) and preserves the full original object in the `raw` jsonb.
+
+    Powers: yearly purchase/divested list, REIT portfolio timeline, and (with property cost)
+    capital-gain analysis. country is intentionally NOT a column here — join it from
+    sgx_reit_property by property_name (kept in raw for divested/subsequent-event cases)."""
+    transaction_type: Optional[str] = Field(
+        None, description="'acquisition' | 'divestment'. Aliases: type.")
+    property_name: Optional[str] = None
+    transaction_date: Optional[str] = Field(
+        None, description="completion/effective date of the deal, YYYY-MM-DD. Aliases: date, "
+        "completion_date, completed_date, agreement_date, announced_date, announcement_date.")
+    purchase_price: Optional[float] = Field(
+        None, description="ACQUISITION consideration paid. Aliases (when type=acquisition): "
+        "price, acquisition_price, purchase_consideration, transaction_price, consideration, "
+        "consideration_sgd, amount. Often not disclosed per-deal (~20%).")
+    net_proceeds: Optional[float] = Field(
+        None, description="DIVESTMENT consideration received. Aliases (when type=divestment): "
+        "sale_consideration, sale_price, divestment_price, consideration, consideration_sgd, "
+        "net_consideration_usd, amount. Often not disclosed per-deal (~30%).")
+    carrying_value: Optional[float] = Field(
+        None, description="book value just before divestment (basis for gain). Alias: carrying_value_pre.")
+    gain_on_divestment: Optional[float] = Field(
+        None, description="realized gain = net_proceeds - carrying_value (gain vs BOOK, not vs "
+        "original cost). Aliases: gain, gain_on_disposal, gain_loss, divestment_gain, net_gain.")
+    valuation: Optional[float] = Field(
+        None, description="independent appraised value at the deal (benchmark vs the transacted "
+        "price; distinct from net_proceeds/purchase_price). Phase-B column. Aliases: appraised_value, "
+        "agreed_value, valuation_at_acquisition, gross_valuation_usd.")
+    counterparty: Optional[str] = Field(
+        None, description="buyer (divestment) or seller (acquisition). Phase-B column. "
+        "Aliases: buyer, purchaser, seller, vendor.")
+    status: Optional[str] = Field(
+        None, description="e.g. completed | pending | subsequent_event (declared after year-end).")
+    currency: Optional[str] = Field(None, description="reporting currency of the monetary fields.")
     source_page: Optional[int] = None
 
 

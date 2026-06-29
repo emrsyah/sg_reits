@@ -8,8 +8,12 @@
     "completion_date": "2025-04-25",
     "consideration": 6000000000.0,
     "consideration_currency": "JPY",
+    "purchase_price": 6000000000.0,
     "counterparty": "Godo Kaisha Pothos (unrelated third party)",
-    "note": "First overseas acquisition. Purchase price JPY 6,000 million (=approx S$56.5m acquisition of investment property per cash flow). Valuation as at 31 Dec 2025 JPY 7,790 million. Funded by term loans (JPY 5.9bn), RCF (JPY 364.9m) and a 4-year TMK bond (JPY 0.5bn).",
+    "valuation": 7790000000.0,
+    "valuation_currency": "JPY",
+    "valuation_basis": "Independent valuation by CBRE K.K. as at 31 December 2025, JPY 7,790 million, discounted cash flow method (Note 4); year-end valuation, distinct from the JPY 6,000m purchase price",
+    "note": "First overseas acquisition; acquired the trust beneficial interest of FPN from Godo Kaisha Pothos, an unrelated third party. Purchase price JPY 6,000 million (~S$56.5m acquisition of investment property per cash flow; H-REIT Group adjusted purchase consideration S$10,511k at Stapled level reclassified to PPE). Funded by term loans (JPY 5.9bn), RCF (JPY 364.9m) and a 4-year TMK bond (JPY 0.5bn).",
     "source_page": 31
   }
 ]

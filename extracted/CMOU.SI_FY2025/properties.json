@@ -40,7 +40,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 240000000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -83,7 +85,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 131200000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -126,7 +130,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 169400000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -169,7 +175,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 33100000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -212,7 +220,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 41800000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -255,7 +265,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 117100000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -298,7 +310,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 59100000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -336,7 +350,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 46000000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -379,7 +395,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 78600000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -422,7 +440,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 46300000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -465,7 +485,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 101500000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -508,7 +530,9 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 88700000,
+    "purchase_price_currency": "USD"
   },
   {
     "symbol": "CMOU.SI",
@@ -551,6 +575,8 @@
     "status": "active",
     "flags": [],
     "source_page": 91,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 36700000,
+    "purchase_price_currency": "USD"
   }
 ]

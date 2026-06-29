@@ -5,7 +5,9 @@
   "properties_location": "Germany, Spain, France",
   "gross_revenue": 50434000,
   "net_property_income": 32824000,
-  "net_distributable_income": 14662000,
+  "net_distributable_income": 16291000,
+  "distribution_paid": 14662000,
+  "adjusted_distributable_income": null,
   "dpu": 1.09,
   "distribution_record": [
     {
@@ -32,9 +34,23 @@
   "currency": "EUR",
   "date": "2025-12-31",
   "flags": [
-    {"type": "wale_excludes_property", "scope": "wale", "note": "WALE 5.6yr excludes Berlin Campus which is undergoing repositioning (0yr occupancy). For new leases entered in FY2025 the WALE is 6.2yr."},
-    {"type": "occupancy_excludes_property", "scope": "portfolio_occupancy", "note": "Portfolio occupancy 89.4% excludes Berlin Campus (undergoing repositioning, 0% occupied)."}
+    {
+      "type": "wale_excludes_property",
+      "scope": "wale",
+      "note": "WALE 5.6yr excludes Berlin Campus which is undergoing repositioning (0yr occupancy). For new leases entered in FY2025 the WALE is 6.2yr."
+    },
+    {
+      "type": "occupancy_excludes_property",
+      "scope": "portfolio_occupancy",
+      "note": "Portfolio occupancy 89.4% excludes Berlin Campus (undergoing repositioning, 0% occupied)."
+    },
+    {
+      "type": "net_distributable_income_corrected",
+      "scope": "net_distributable_income",
+      "note": "AUDIT CORRECTION: was 14,662 (Total Unitholders' distribution / 'Income to be distributed', the amount actually paid out) -> 16,291 ('Amount available for distribution', the distributable-income-for-the-year line in the Consolidated Statement of Distribution, p176). The two differ by 1,629 retained for working capital. NB: IREIT's DPU 1.09 is computed on 14,662 (Note 5.4), i.e. net of the retention; net_distributable_income now holds the pre-retention distributable income per the field's defined semantics."
+    }
   ],
   "source_page": 176,
-  "note": "portfolio_value=€798.1m (independent valuation total; p.40 marketing + audited note 2.3 p.188 = €798,140k). NPI/gross_revenue from audited Statement of Total Return p.175. net_distributable_income = income to be distributed to Unitholders €14.662m (p.176/p.22); amount available for distribution was €16.291m. KPIs from Key Financial Indicators (p.24 Capital Management) and Key Figures (p.6-7). cost_of_debt = weighted average interest rate 2.8% p.a. wale/portfolio_occupancy exclude Berlin Campus per footnote. nav_per_unit €0.34 (p.24 / SFP p.174). number_of_unitholders as at 12 March 2026 (Statistics of Unitholdings p.223). DPU EUR cents, semi-annual; pay dates from Financial Calendar p.33."
+  "note": "portfolio_value=€798.1m (independent valuation total; p.40 marketing + audited note 2.3 p.188 = €798,140k). NPI/gross_revenue from audited Statement of Total Return p.175. net_distributable_income = income to be distributed to Unitholders €14.662m (p.176/p.22); amount available for distribution was €16.291m. KPIs from Key Financial Indicators (p.24 Capital Management) and Key Figures (p.6-7). cost_of_debt = weighted average interest rate 2.8% p.a. wale/portfolio_occupancy exclude Berlin Campus per footnote. nav_per_unit €0.34 (p.24 / SFP p.174). number_of_unitholders as at 12 March 2026 (Statistics of Unitholdings p.223). DPU EUR cents, semi-annual; pay dates from Financial Calendar p.33.",
+  "distribution_basis": "disclosed_after_retention"
 }

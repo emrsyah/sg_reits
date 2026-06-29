@@ -3,7 +3,6 @@
   "financial_year": 2025,
   "extraction_method": "discovery-first (reit-extract skill, mapdriven pass)",
   "audited_fs_pages": "114-144, 191, 213",
-
   "reconciliation": {
     "gross_revenue": {
       "statement_of_total_return_p114": 837584000,
@@ -68,12 +67,11 @@
       "1h2025": 2.526,
       "2h2025": 3.576,
       "sum": 6.102,
-      "disclosed_total_rounded": 6.10,
+      "disclosed_total_rounded": 6.1,
       "match": true,
       "note": "6.102c rounds to 6.10c as reported on p8"
     }
   },
-
   "inferred": [
     {
       "table": "properties",
@@ -100,7 +98,6 @@
       "source_page": 127
     }
   ],
-
   "columns_never_fillable": [
     {
       "field": "properties.gla",
@@ -131,7 +128,6 @@
       "reason": "Report does not state a single total property count in audited financials. Portfolio Listing (historical cost, p54-59) shows ~120+ entries but includes rental housing units that may be counted individually. Stapled Group uses 'approximately 103 properties' as a marketing figure."
     }
   ],
-
   "data_with_no_home": [
     {
       "item": "Portfolio occupancy rate",
@@ -206,7 +202,6 @@
       "note": "Orthogonal dimension to the industry mix; would require a second trade_mix table with different pct_basis"
     }
   ],
-
   "parsing_traps": [
     {
       "trap": "Portfolio Listing vs Portfolio Statement",
@@ -244,7 +239,6 @@
       "pages_affected": "131"
     }
   ],
-
   "structural_notes": [
     "Stapled trust (REIT + BT): All financials extracted from Stapled Group column throughout.",
     "income_model = mixed: Properties operated under master lease, MCMGI, and management contracts concurrently.",
@@ -254,5 +248,42 @@
     "The Robertson House Singapore: Despite being a BT Group PPE asset (leasehold land and buildings), it has an audited $'000 value (337,950 $'000) and is included in properties.json with tenure_raw noting the PPE classification.",
     "5 BT PPE freehold properties (Pullman Brisbane/Melbourne/Sydney, Sydney Central, Temple Bar Dublin): market_valuation set to null because only % of Stapled Securityholders' funds is disclosed at property level. The aggregate 550,748 $'000 is noted in data_with_no_home.",
     "Properties in properties.json: 103 active + 2 divested = 105 total records. This represents full Tier C coverage of audited Portfolio Statement pages 127-143."
+  ],
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 3817484000,
+      "basis": "Note 30 (Earnings per Stapled Security), p219: 'Weighted average number of Stapled Securities outstanding during the year' = 3,817,484 ('000) → absolute 3,817,484,000 units. Includes effect of acquisition fees, divestment fees, and management fees paid in Stapled Securities during the year.",
+      "source_page": 219
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 3844271000,
+      "basis": "Note 30 (Earnings per Stapled Security), p219: 'Weighted average number of Stapled Securities outstanding (diluted) during the year' = 3,844,271 ('000) → absolute 3,844,271,000. CORRECTED from prior extraction which incorrectly stored the basic figure (3,817,484,000) in this field. The pre-existing _notes.json diluted_shares_note already documented both values correctly but the financial.json field was wrong.",
+      "source_page": 219
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement p116: only ONE distributable income figure disclosed ('Income available for distribution to Stapled Securityholders for the year' = S$256,708k = net_distributable_income). Managers' management fees paid/payable in Stapled Securities (S$28,199k per Note A) are added BACK as a distribution adjustment. No separate adjusted figure after fees deducted in cash. Set to null (single DI figure).",
+      "source_page": 116
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 233508000.0,
+      "basis": "Distribution Statement p116 + narrative p160/p1109: for-the-year total distribution = 'Income available for distribution to Stapled Securityholders for the year' 256,708 ('000) less 'Amount retained for asset enhancement initiatives and/or for general corporate and working capital purposes' 23,200 ('000) = 233,508 ('000) → absolute 233,508,000. Confirmed by narrative 'Total distribution was S$233.5 million, after retaining S$23.2 million' and the 5-Year Summary 'Total Distribution 233.5'. DPU 6.10c relates to FY2025. NOT the '(231,247)' line, which mixes prior-year cash. Retained check: 256,708,000 − 233,508,000 = 23,200,000 = the disclosed retention. Figures in '000, multiplied to absolute.",
+      "source_page": 116
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 8
+    }
   ]
 }

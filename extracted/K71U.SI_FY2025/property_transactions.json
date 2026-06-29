@@ -1,4 +1,33 @@
 [
-  {"symbol": "K71U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "Top Ryde City Shopping Centre", "interest_acquired": 75.0, "date": "2025-12-19", "consideration": 334800000, "consideration_local": "A$393.8 million", "currency": "SGD", "source_page": 40},
-  {"symbol": "K71U.SI", "financial_year": 2025, "type": "acquisition", "property_name": "Marina Bay Financial Centre Tower 3 (additional one-third interest)", "interest_acquired": 33.33, "date": "2025-12-31", "consideration": 1453000000, "consideration_local": "S$1,453.0 million agreed property value", "currency": "SGD", "note": "Raised aggregate interest in MBFC Tower 3 to two-third; equity-accounted JV via Central Boulevard Development Pte. Ltd.", "source_page": 40}
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2025,
+    "type": "acquisition",
+    "property_name": "Top Ryde City Shopping Centre",
+    "interest_acquired": 75.0,
+    "date": "2025-12-19",
+    "consideration": 334800000,
+    "consideration_local": "A$393.8 million",
+    "currency": "SGD",
+    "source_page": 40,
+    "valuation": 337600000,
+    "purchase_price": 334800000,
+    "counterparty": "Bevillesta Pty Limited as trustee for the John Beville (Bankstown) Trust",
+    "counterparty_source_page": 62
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2025,
+    "type": "acquisition",
+    "property_name": "Marina Bay Financial Centre Tower 3 (additional one-third interest)",
+    "interest_acquired": 33.33,
+    "date": "2025-12-31",
+    "consideration": 1453000000,
+    "consideration_local": "S$1,453.0 million agreed property value",
+    "currency": "SGD",
+    "note": "Raised aggregate interest in MBFC Tower 3 to two-third; equity-accounted JV via Central Boulevard Development Pte. Ltd. Vendor: Sageland Private Limited (p62). $1,453.0m is the agreed property value basis; no separate independent valuation distinct from the agreed property value was disclosed.",
+    "source_page": 40,
+    "counterparty": "Sageland Private Limited",
+    "counterparty_source_page": 62
+  }
 ]

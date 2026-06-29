@@ -236,6 +236,57 @@ def main() -> None:
     if small:
         warns.append(f"properties with valuation < {MONEY_MIN:,} (unit check): {small[:5]}")
 
+    # 4a2. distribution_paid / distribution_basis discipline + DPU reconciliation.
+    # distribution_paid must be a real disclosed for-the-year figure or null (never a
+    # fabricated retained=0). distribution_basis self-describes each value; the basis
+    # and the value must agree, and the implied retention / DPU must be sane.
+    DIST_BASES = {"disclosed_after_retention", "suspended",
+                  "full_payout_no_retention_line", "not_disclosed_rollforward_only"}
+    fin = data["financial"][0] if (data.get("financial") and
+          isinstance(data["financial"], list)) else (data.get("financial") or {})
+    basis = perf.get("distribution_basis")
+    dpaid = perf.get("distribution_paid")
+    ndi = perf.get("net_distributable_income")
+    if perf:
+        if basis is None:
+            warns.append("performance.distribution_basis is null — tag it "
+                         f"(one of {sorted(DIST_BASES)})")
+        elif basis not in DIST_BASES:
+            fails.append(f"performance.distribution_basis='{basis}' not in {sorted(DIST_BASES)}")
+        # basis <-> value agreement
+        if basis == "disclosed_after_retention" and dpaid is None:
+            fails.append("distribution_basis=disclosed_after_retention but distribution_paid is null")
+        if basis in ("full_payout_no_retention_line", "not_disclosed_rollforward_only") \
+                and dpaid is not None:
+            fails.append(f"distribution_basis={basis} but distribution_paid={dpaid} is not null "
+                         "(no for-year line was disclosed — must be null, not a fabricated value)")
+        if basis == "suspended" and dpaid not in (0, 0.0, None):
+            fails.append(f"distribution_basis=suspended but distribution_paid={dpaid} (expected 0)")
+        # value + retention sanity
+        if isinstance(dpaid, (int, float)):
+            if dpaid < 0:
+                fails.append(f"performance.distribution_paid={dpaid:,} is negative (impossible)")
+            if isinstance(ndi, (int, float)) and ndi > 0:
+                retained = ndi - dpaid
+                if retained < -0.005 * ndi:   # distribution_paid materially > NDI
+                    warns.append(f"distribution_paid={dpaid:,} > net_distributable_income="
+                                 f"{ndi:,} (negative retention {retained:,}) — legitimate only "
+                                 "if a capital/other-gains distribution tops up income; confirm")
+                elif retained > ndi:           # cannot retain more than was available
+                    fails.append(f"implied retention {retained:,} > net_distributable_income "
+                                 f"{ndi:,} (distribution_paid={dpaid:,} too low / wrong line)")
+        # 4a3. DPU reconciliation — reproduce the published DPU from the captured figures.
+        # numerator = distribution_paid where disclosed, else NDI; denom = basic weighted avg.
+        wab = (fin.get("income_stmt_metrics") or {}).get("weighted_avg_shares_basic") \
+            if isinstance(fin.get("income_stmt_metrics"), dict) else None
+        dpu = perf.get("dpu")
+        numer = dpaid if isinstance(dpaid, (int, float)) else ndi
+        if all(isinstance(x, (int, float)) and x > 0 for x in (numer, wab, dpu)):
+            dpu_calc = numer / wab * 100.0   # cents per unit
+            if abs(dpu_calc - dpu) > 0.10 * dpu:   # >10% off: capital comps / entitled-vs-wtd-avg can explain a bit
+                warns.append(f"DPU recon: published dpu={dpu}c vs {numer:,}/{wab:,}*100="
+                             f"{dpu_calc:.3f}c (>10% gap) — verify numerator/units")
+
     # 4b. KPI completeness — the 7 as-disclosed capital-management KPIs are widely
     # disclosed by SGX REITs; a null one is often a silent MISS (e.g. AJBU debt tenor
     # 3.3yr was on the same Capital Management page as the captured leverage/ICR but

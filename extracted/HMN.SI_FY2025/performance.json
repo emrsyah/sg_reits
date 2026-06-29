@@ -6,7 +6,9 @@
   "gross_revenue": 837584000.0,
   "net_property_income": 385301000.0,
   "net_distributable_income": 256708000.0,
-  "dpu": 6.10,
+  "distribution_paid": 233508000.0,
+  "adjusted_distributable_income": null,
+  "dpu": 6.1,
   "distribution_record": [
     {
       "period": "1 January 2025 to 30 June 2025",
@@ -42,5 +44,6 @@
     "distribution_rate_note": "DPS in annual report rounded to 6.10 cents; exact = 6.102 cents per page 20",
     "kpi_sources": "p8 5-Year Summary + p21 Capital Management Key Financial Indicators: Aggregate Leverage 37.7%, ICR 3.0x, Effective Interest Rate (cost of debt) 2.9%, Weighted Average Debt to Maturity 3.4 years, NAV per Stapled Security S$1.17; p23/p27 Portfolio Occupancy 80% (FY2025).",
     "wale_null_reason": "No single portfolio WALE disclosed. CLAS obtained a MAS waiver (Property Funds Appendix 11.1(c)(iv)/(v)) from disclosing weighted average lease expiry for properties under management contracts (the bulk of the portfolio). Only narrow-scope figures disclosed: master leases (28 properties) WALE ~11 years by valuation (p25); MCMGI weighted average remaining term ~14 years (p25). Not a portfolio-wide WALE, so left null per §0.6."
-  }
+  },
+  "distribution_basis": "disclosed_after_retention"
 }

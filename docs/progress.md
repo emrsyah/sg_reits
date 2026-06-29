@@ -3,7 +3,7 @@
 Single source of truth for pipeline state per annual report. Stages:
 **Parsed** → **Extracted** → **Guardchecked** (deterministic gates) → **Audited** (forensic LLM, correctness vs source).
 
-Last updated: 2026-06-19 (batch 5 — 36/39 FY2025 extracted).
+Last updated: 2026-06-22 (Landmark D5IU added — 37/39 FY2025 extracted).
 
 > **FY2025 scale run in progress** (chunks of 8). Schema gained 7 as-disclosed comparison KPIs
 > on `performance` (aggregate_leverage, interest_coverage_ratio, cost_of_debt,
@@ -64,9 +64,18 @@ Last updated: 2026-06-19 (batch 5 — 36/39 FY2025 extracted).
 > tie to the audited Portfolio Statement. ONE fix applied: BMOU two small Hefei malls' npi_pct were
 > swapped (cosmetic derived field) — corrected. J85 portfolio_occupancy + several FFO = genuine
 > nulls (trusts disclose Distributable Income, not FFO).
-> **Done: 36/39 FY2025. Remaining: 3 with NO published FY2025 AR — Landmark (D5IU), NTT DC (NTDU),
-> UI Boustead (UIBU) — see manifest NOT_PUBLISHED. (UIBU: only the parent Boustead Singapore Ltd AR
-> exists, not the REIT — left in annual_reports_pdf_manual/, NOT extracted.)**
+> **Landmark (2026-06-22): D5IU.SI Landmark REIT FY2025** — user manually sourced the AR (was
+> marked NOT_PUBLISHED). Parsed (Datalab balanced, 169pp, 68c), discovered, extracted (one agent,
+> all 6 sections `llm_only` — Statement of Portfolio is a split-page positional layout, pp.86–91).
+> Sub-sector = Retail (29 Indonesian malls). PASS both gates (0 fail). Σproperty valuation =
+> S$1,421,628,000 EXACT vs audited total; gross_revenue S$205,009,000; STR Σrev−Σexp+Σadj = net
+> income S$31,993,000; trade_mix 100%. Income mis-bucketing caught + fixed (interest income
+> S$348k → adjustment, STR p.80). Audit-trail: original_currency=IDR + original_value + area_unit=sqm
+> on all 29 props; fx_rates Rp/S$ closing 13,068.57 / avg 12,595.60 (p.33). DPU/NDI = 0
+> (distributions suspended since FY2023). Loaded to Supabase + R2.
+> **Done: 37/39 FY2025. Remaining: 2 with NO published FY2025 AR — NTT DC (NTDU), UI Boustead (UIBU)
+> — see manifest NOT_PUBLISHED. (UIBU: only the parent Boustead Singapore Ltd AR exists, not the
+> REIT — left in annual_reports_pdf_manual/, NOT extracted.)**
 
 ## Legend
 

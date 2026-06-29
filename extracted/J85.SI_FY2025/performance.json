@@ -5,26 +5,51 @@
   "properties_location": "Singapore, New Zealand, Australia, Maldives, Japan, United Kingdom, Germany, Italy",
   "gross_revenue": 267566000.0,
   "net_property_income": 129694000.0,
-  "net_distributable_income": 60933000.0,
-  "dpu": 4.80,
+  "net_distributable_income": 66627000.0,
+  "distribution_paid": 60933000.0,
+  "adjusted_distributable_income": null,
+  "dpu": 4.8,
   "distribution_record": [
-    {"period": "1/1/2025 to 30/6/2025", "dpu": 1.98, "ex_date": null, "pay_date": null},
-    {"period": "1/7/2025 to 31/12/2025", "dpu": 2.82, "ex_date": null, "pay_date": null}
+    {
+      "period": "1/1/2025 to 30/6/2025",
+      "dpu": 1.98,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1/7/2025 to 31/12/2025",
+      "dpu": 2.82,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 25348,
   "aggregate_leverage": 37.7,
   "interest_coverage_ratio": 2.32,
   "cost_of_debt": 3.0,
   "weighted_avg_debt_maturity": 2.6,
-  "nav_per_unit": 1.40,
+  "nav_per_unit": 1.4,
   "wale": 5.6,
   "portfolio_occupancy": null,
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "dpu_half_year_split", "scope": "dpu", "note": "FY2025 DPS 4.80 cents = 1H 1.98c (1/1-30/6/2025) + 2H 2.82c (1/7-31/12/2025, declared post year-end per Subsequent Events note 32). After retention for working capital."},
-    {"type": "kpi_not_disclosed", "scope": "portfolio_occupancy", "note": "No single portfolio-wide committed occupancy disclosed; AOR given per region (Singapore Hotels AOR 79.0%). WALE disclosed per lease type (hotel 5.6yr, retail/office 2.0yr, living assets 0.5yr); hotel WALE used."},
-    {"type": "icr_basis", "scope": "interest_coverage_ratio", "note": "2.32x is for H-REIT Group per MAS CIS Code (trailing 12m EBITDA / interest+borrowing fees+hybrid distributions)."}
+    {
+      "type": "dpu_half_year_split",
+      "scope": "dpu",
+      "note": "FY2025 DPS 4.80 cents = 1H 1.98c (1/1-30/6/2025) + 2H 2.82c (1/7-31/12/2025, declared post year-end per Subsequent Events note 32). After retention for working capital."
+    },
+    {
+      "type": "kpi_not_disclosed",
+      "scope": "portfolio_occupancy",
+      "note": "No single portfolio-wide committed occupancy disclosed; AOR given per region (Singapore Hotels AOR 79.0%). WALE disclosed per lease type (hotel 5.6yr, retail/office 2.0yr, living assets 0.5yr); hotel WALE used."
+    },
+    {
+      "type": "icr_basis",
+      "scope": "interest_coverage_ratio",
+      "note": "2.32x is for H-REIT Group per MAS CIS Code (trailing 12m EBITDA / interest+borrowing fees+hybrid distributions)."
+    }
   ],
-  "source_page": 10
+  "source_page": 10,
+  "distribution_basis": "disclosed_after_retention"
 }

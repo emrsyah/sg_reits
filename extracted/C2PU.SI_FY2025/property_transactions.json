@@ -1,3 +1,20 @@
 [
-  {"symbol": "C2PU.SI", "financial_year": 2025, "transaction_type": "divestment", "property_name": "MOB Specialist Clinics, Kuala Lumpur (Malaysia Portfolio)", "country": "Malaysia", "counterparty": "Pantai Medical Centre Sdn. Bhd.", "price": 6100000.0, "price_raw": "RM20.1 million (approximately S$6.1 million)", "agreement_date": "2025-04-21", "completion_date": "2025-08-12", "gain_on_disposal": 123000.0, "source_page": 166}
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2025,
+    "transaction_type": "divestment",
+    "property_name": "MOB Specialist Clinics, Kuala Lumpur (Malaysia Portfolio)",
+    "country": "Malaysia",
+    "counterparty": "Pantai Medical Centre Sdn. Bhd.",
+    "price": 6100000.0,
+    "price_raw": "RM20.1 million (approximately S$6.1 million)",
+    "agreement_date": "2025-04-21",
+    "completion_date": "2025-08-12",
+    "gain_on_disposal": 123000.0,
+    "net_proceeds": 5986000.0,
+    "net_proceeds_raw": "Net proceeds from disposal of investment property (including divestment related costs) S$5,986k per consolidated statement of cash flows (p168)",
+    "source_page": 166,
+    "valuation": 5800000.0,
+    "valuation_raw": "average of latest valuations RM19.2 million (approximately S$5.8 million)"
+  }
 ]

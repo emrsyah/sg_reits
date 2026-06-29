@@ -124,5 +124,49 @@
     "income_components_expense_sum": 111623000,
     "income_components_expense_matches_total_return": true,
     "npi_check": "389,603k - 111,623k = 277,980k (matches Statement of Total Return)"
-  }
+  },
+  "data_provenance": [
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 233180000,
+      "basis": "Distribution Statement p147: 'Distributable income for the financial year' = S$233,180k. CORRECTED 2026-06-23 from 233,166,000, which was the 'Distributions to Unitholders' line (the amount declared/paid, footnote (2)), NOT the distributable-income figure. The distributable-income line is the DPU numerator the colleagues' manual cross-check expects.",
+      "source_page": 147
+    },
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1915296000,
+      "basis": "Note 22(i) (Earnings Per Unit), p188: 'Weighted average number of Units in issue ('000)' = 1,915,296 → absolute 1,915,296,000 units.",
+      "source_page": 188
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1922488000,
+      "basis": "Note 22(ii) (Earnings Per Unit), p188: 'Weighted average number of Units in issue (diluted) ('000)' = 1,922,488 → absolute 1,922,488,000. Correct weighted-average diluted figure; pre-existing value confirmed correct. Effect of units issued for asset management fees = 7,192k.",
+      "source_page": 188
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement p147: only ONE distributable income figure disclosed ('Distributable income for the financial year' = S$233,180k = net_distributable_income). Asset management fees paid/payable in Units (S$19,411k per Note A) are added BACK as non-cash adjustment. No separate adjusted figure after fees deducted in cash. Set to null (single DI figure).",
+      "source_page": 147
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 233166000,
+      "basis": "Distribution Statement p147: 'Distributions to Unitholders' for the financial year = 233,166 ('000) (footnote (2), ties to DPU 12.113c) → absolute 233,166,000. Distinct from 'Distributable income for the financial year' (233,180 = net_distributable_income) and from the 'Distributions to Unitholders during the year' subtotal 221,237 (mixes prior-year cash). Retained check: 233,180,000 − 233,166,000 = 14,000 (small, positive — consistent). Figures in '000, multiplied to absolute.",
+      "source_page": 147
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 39
+    }
+  ]
 }

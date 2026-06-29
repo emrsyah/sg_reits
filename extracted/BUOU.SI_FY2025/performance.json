@@ -6,6 +6,8 @@
   "gross_revenue": 471486000,
   "net_property_income": 339726000,
   "net_distributable_income": 224654000,
+  "distribution_paid": null,
+  "adjusted_distributable_income": null,
   "dpu": 5.95,
   "distribution_record": [
     {
@@ -38,5 +40,6 @@
       "note": "FY2025 DPU 5.95c = H1 3.00c (paid) + H2 2.95c (declared post year-end). H2 ex/pay dates not in this report."
     }
   ],
-  "source_page": 28
+  "source_page": 28,
+  "distribution_basis": "not_disclosed_rollforward_only"
 }

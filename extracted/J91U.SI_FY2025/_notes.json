@@ -1,26 +1,95 @@
 {
   "columns_never_fillable": [
-    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed; NPI disclosed only at country-segment level (Singapore/Australia/Japan) in Note 33 Segment Reporting (p223)"},
-    {"column": "property.gross_revenue", "reason": "Per-property gross revenue not disclosed; only country-segment level (Note 33, p223)"},
-    {"column": "property.gla / property.nla / property.gfa", "reason": "Per-property area not disclosed in the audited Portfolio Statement nor in property cards (no per-property cards in this AR); only portfolio totals given (GFA ~2.4m sqm, NLA ~2.2m sqm, p50). GFA captured only for the two divested assets where disclosed in the transactions table (p47)"},
-    {"column": "property.major_tenants", "reason": "Per-property tenant lists not disclosed; only portfolio-level Top 10 Tenants (p52)"},
-    {"column": "property.npi_pct", "reason": "Per-property NPI contribution % not disclosed"},
-    {"column": "performance.number_of_unitholders", "reason": "Statistics of Unitholdings / number of unitholders table not present in the parsed annual report (likely in a separate AGM/statistics document)"},
-    {"column": "property.effective_date", "reason": "Land-lease start date not disclosed per property; only term and remaining term given in the Portfolio Statement"}
+    {
+      "column": "property.net_property_income",
+      "reason": "Per-property NPI not disclosed; NPI disclosed only at country-segment level (Singapore/Australia/Japan) in Note 33 Segment Reporting (p223)"
+    },
+    {
+      "column": "property.gross_revenue",
+      "reason": "Per-property gross revenue not disclosed; only country-segment level (Note 33, p223)"
+    },
+    {
+      "column": "property.gla / property.nla / property.gfa",
+      "reason": "Per-property area not disclosed in the audited Portfolio Statement nor in property cards (no per-property cards in this AR); only portfolio totals given (GFA ~2.4m sqm, NLA ~2.2m sqm, p50). GFA captured only for the two divested assets where disclosed in the transactions table (p47)"
+    },
+    {
+      "column": "property.major_tenants",
+      "reason": "Per-property tenant lists not disclosed; only portfolio-level Top 10 Tenants (p52)"
+    },
+    {
+      "column": "property.npi_pct",
+      "reason": "Per-property NPI contribution % not disclosed"
+    },
+    {
+      "column": "performance.number_of_unitholders",
+      "reason": "Statistics of Unitholdings / number of unitholders table not present in the parsed annual report (likely in a separate AGM/statistics document)"
+    },
+    {
+      "column": "property.effective_date",
+      "reason": "Land-lease start date not disclosed per property; only term and remaining term given in the Portfolio Statement"
+    }
   ],
   "data_with_no_home": [
-    {"item": "Asset class mix by GRI", "value": "Logistics 47.6%, High-Specifications Industrial 24.0%, General Industrial 14.7%, Business Park 13.7%", "source_page": 51},
-    {"item": "Asset class mix by valuation", "value": "Logistics 59.6%, High-Specifications Industrial 15.6%, General Industrial 12.8%, Business Park 12.0%", "source_page": 51},
-    {"item": "Single- vs Multi-tenanted (by GRI)", "value": "MTB 69.7% / STB 30.3%", "source_page": 51},
-    {"item": "Number of tenants", "value": "382", "source_page": 52},
-    {"item": "Top 10 tenants concentration", "value": "33.5% by GRI; 34.6% by NLA", "source_page": 52},
-    {"item": "AUM", "value": "S$5.2 billion (incl. JV + property funds)", "source_page": 22},
-    {"item": "Portfolio valuation (marketing, incl. 48 Pandan Rd JV at share excluded; AMK/Tuas at 100%)", "value": "S$4,858.6 million", "source_page": 49},
-    {"item": "Net Economy exposure", "value": "71.6% by GRI, 75.2% by valuation", "source_page": 51},
-    {"item": "Rental reversion FY2025", "value": "+11.7%", "source_page": 54},
-    {"item": "Weighted avg land lease expiry", "value": "43.6 years by valuation", "source_page": 53},
-    {"item": "Fixed-rate hedged proportion", "value": "68.4% of borrowings", "source_page": 56},
-    {"item": "Fitch credit rating", "value": "BBB / Stable", "source_page": 8}
+    {
+      "item": "Asset class mix by GRI",
+      "value": "Logistics 47.6%, High-Specifications Industrial 24.0%, General Industrial 14.7%, Business Park 13.7%",
+      "source_page": 51
+    },
+    {
+      "item": "Asset class mix by valuation",
+      "value": "Logistics 59.6%, High-Specifications Industrial 15.6%, General Industrial 12.8%, Business Park 12.0%",
+      "source_page": 51
+    },
+    {
+      "item": "Single- vs Multi-tenanted (by GRI)",
+      "value": "MTB 69.7% / STB 30.3%",
+      "source_page": 51
+    },
+    {
+      "item": "Number of tenants",
+      "value": "382",
+      "source_page": 52
+    },
+    {
+      "item": "Top 10 tenants concentration",
+      "value": "33.5% by GRI; 34.6% by NLA",
+      "source_page": 52
+    },
+    {
+      "item": "AUM",
+      "value": "S$5.2 billion (incl. JV + property funds)",
+      "source_page": 22
+    },
+    {
+      "item": "Portfolio valuation (marketing, incl. 48 Pandan Rd JV at share excluded; AMK/Tuas at 100%)",
+      "value": "S$4,858.6 million",
+      "source_page": 49
+    },
+    {
+      "item": "Net Economy exposure",
+      "value": "71.6% by GRI, 75.2% by valuation",
+      "source_page": 51
+    },
+    {
+      "item": "Rental reversion FY2025",
+      "value": "+11.7%",
+      "source_page": 54
+    },
+    {
+      "item": "Weighted avg land lease expiry",
+      "value": "43.6 years by valuation",
+      "source_page": 53
+    },
+    {
+      "item": "Fixed-rate hedged proportion",
+      "value": "68.4% of borrowings",
+      "source_page": 56
+    },
+    {
+      "item": "Fitch credit rating",
+      "value": "BBB / Stable",
+      "source_page": 8
+    }
   ],
   "parsing_traps": [
     "Datalab split each Portfolio Statement spread across two physical pages: odd-numbered pages carry property NAMES + tenure/term/remaining/location; the immediately preceding/following even page carries occupancy + valuation '000 + % of NAV (same row order). Pairing: p132->p133 (Business Park), p134->p135 (High-Spec), p136->p137 (SG Logistics), p138->p139 & p140->p141 & p142->p143 & p144->p145 (General Industrial, carried-forward subtotals), p146->p147 & p148->p149 & p150->p151 (Australia + Japan).",
@@ -40,9 +109,67 @@
     "trade_mix_sum": "Sum of 15 trade sectors = 100.0% by GRI",
     "property_count": "73 portfolio-statement rows captured (71 active + 2 divested). Report headline = 70 properties; difference because some rows are combined-lot single properties and the headline count excludes the 2 in-year divestments and counts the 48 Pandan Rd JV separately."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 803415000,
+      "basis": "Note 25(a) EPU: weighted average number of Units = 803,415 '000 -> 803,415,000 absolute (post 10:1 consolidation)",
+      "source_page": 201
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 803415000,
+      "basis": "Note 25(b): 'Diluted EPU is the same as basic EPU as there were no dilutive instruments in issue' -> diluted = basic 803,415,000. Corrected from 803,730,000 (which matched neither the weighted-avg basic nor units in issue 805,035 '000).",
+      "source_page": 201
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Method 1: Management & Property Manager fees paid/payable in Units, added back as distribution adjustments (Note A, Distribution Statement p129). Single 'Amount available for distribution to Unitholders' = 176,076; no separate cash-fee-deducted adjusted figure -> null.",
+      "source_page": 129
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 176076000,
+      "basis": "100% payout, no retention: 'Total amount available for distribution' = 176,076 S$'000 (taxable 148,828 + tax-exempt 9,843 + capital 17,405; Distribution Statement p129, '000->absolute) is fully declared for FY2025 = DPU 21.914c x ~803.4m units. The statement has NO retention line and NO 'amount to be distributed' line; it instead rolls forward (less 'Distributions' 90,145 cash paid in-year -> closing reserve 85,931), so distribution_paid = net_distributable_income = 176,076. Retained for the year = 0. Note B 'Total distributions during the financial year' 167,921 is cash physically paid (mixes prior-year finals) - deliberately NOT used per the for-the-year-declared rule.",
+      "source_page": 129
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 176076000)",
+      "source_page": 22
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_term_years", "scope": "rows with combined leases (e.g. 30+30)", "value": "sum of the two terms", "basis": "Portfolio Statement prints land tenure as '30+30' etc.; lease_term_years recorded as the total term, full verbatim kept in tenure_raw", "source_page": 136},
-    {"table": "financial", "field": "diluted_shares_outstanding", "scope": "weighted average units", "value": 803730000, "basis": "derived from total return attributable to Unitholders 5,602k / basic EPU 0.697 cents (p128/p201); weighted-average units in issue", "source_page": 201},
-    {"table": "performance", "field": "net_distributable_income", "scope": "value", "value": 176076000, "basis": "Total amount available for distribution S$176.1m (Distribution Statement total, p129/p55)", "source_page": 129}
+    {
+      "table": "properties",
+      "field": "lease_term_years",
+      "scope": "rows with combined leases (e.g. 30+30)",
+      "value": "sum of the two terms",
+      "basis": "Portfolio Statement prints land tenure as '30+30' etc.; lease_term_years recorded as the total term, full verbatim kept in tenure_raw",
+      "source_page": 136
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "scope": "weighted average units",
+      "value": 803730000,
+      "basis": "derived from total return attributable to Unitholders 5,602k / basic EPU 0.697 cents (p128/p201); weighted-average units in issue",
+      "source_page": 201
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "scope": "value",
+      "value": 176076000,
+      "basis": "Total amount available for distribution S$176.1m (Distribution Statement total, p129/p55)",
+      "source_page": 129
+    }
   ]
 }

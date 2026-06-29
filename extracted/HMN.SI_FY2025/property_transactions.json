@@ -10,8 +10,12 @@
     "currency": "SGD",
     "consideration_local": 420000000,
     "currency_local": "CNY",
-    "note": "Divested 15 April 2025 for RMB420.0 million (S$77.4 million equivalent). Profit from divestment contributed to the S$99,038 $'000 total divestment profit on Statement of Total Return (p114).",
-    "source_page": 10
+    "note": "Divested 15 April 2025 for RMB420.0 million (S$77.4 million equivalent). Profit from divestment contributed to the S$99,038 $'000 total divestment profit on Statement of Total Return (p114). FS Note (p216) discloses agreed property value of S$75.5m and net divestment consideration of S$64.5m; the RMB420.0m / S$77.4m figure is the headline deal value from the Investments/Divestments highlight (p10). Property contributed S$1,131k profit after tax from 1 Jan 2025 to disposal date. Buyer named in held-for-sale FS note (p196): SPA dated 22 Oct 2024 with Tianjin Yuchuang Consulting Co. Ltd (unrelated third party) to divest wholly-owned subsidiary Tianjin Consco Property Development Co., Ltd which holds the property.",
+    "source_page": 10,
+    "valuation": 75500000,
+    "net_proceeds": 64500000,
+    "counterparty": "Tianjin Yuchuang Consulting Co. Ltd",
+    "counterparty_source_page": 196
   },
   {
     "symbol": "HMN.SI",
@@ -24,8 +28,9 @@
     "currency": "SGD",
     "consideration_local": 25000000000,
     "currency_local": "JPY",
-    "note": "Divested 2 October 2025 for JPY25.0 billion (S$222.7 million equivalent). FY2024 audited value was 108,647 $'000; divested at significant premium to book. Profit contributed to S$99,038 $'000 divestment gain (p114).",
-    "source_page": 10
+    "note": "Divested 2 October 2025 for JPY25.0 billion (S$222.7 million equivalent). FY2024 audited value was 108,647 $'000; divested at significant premium to book. Profit contributed to S$99,038 $'000 divestment gain (p114). FS Note (p217) discloses net divestment consideration of S$210.3m (vs headline JPY25.0bn / S$222.7m on p10). Property contributed S$4,556k profit after tax from 1 Jan 2025 to disposal date. Buyer not named in report.",
+    "source_page": 10,
+    "net_proceeds": 210300000
   },
   {
     "symbol": "HMN.SI",

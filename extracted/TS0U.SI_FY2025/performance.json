@@ -6,10 +6,22 @@
   "gross_revenue": 273611000,
   "net_property_income": 219579000,
   "net_distributable_income": 123752000,
+  "distribution_paid": 123752000,
+  "adjusted_distributable_income": null,
   "dpu": 2.23,
   "distribution_record": [
-    {"period": "1/7/2024 to 31/12/2024", "dpu": 1.13, "ex_date": null, "pay_date": null},
-    {"period": "1/1/2025 to 30/06/2025", "dpu": 0.98, "ex_date": null, "pay_date": null}
+    {
+      "period": "1/7/2024 to 31/12/2024",
+      "dpu": 1.13,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1/1/2025 to 30/06/2025",
+      "dpu": 0.98,
+      "ex_date": null,
+      "pay_date": null
+    }
   ],
   "number_of_unitholders": 28418,
   "aggregate_leverage": 38.5,
@@ -22,9 +34,22 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
-    {"type": "portfolio_occupancy_basis", "scope": "portfolio_occupancy", "note": "95.4% is the disclosed Singapore office portfolio committed occupancy as at 31 Dec 2025 (page 36). A single portfolio-wide committed occupancy is not disclosed: the two hotels (Hilton Singapore Orchard, Crowne Plaza Changi Airport) are master-leased and reported by RevPAR, not occupancy. Per-property committed occupancy is in properties.json."},
-    {"type": "dpu_period_split", "scope": "dpu", "note": "FY2025 DPU 2.23 cents is the full-year figure (sum of 1.13c paid for 2H2024 distribution and 0.98c for 1H2025 paid in-year plus accrued; the report's Distribution Statement shows the two distributions actually paid during the year). FY2024 DPU of 2.06c was disclosed including a S$5.0m capital-distribution release; core/like-for-like FY2025 DPU grew 13.8% YoY, headline DPU +8.3% YoY."},
-    {"type": "portfolio_value_basis", "scope": "portfolio_value", "note": "S$5,793.0m = headline portfolio value by proportionate interest (independent valuation as at 31 Dec 2025), including OUB Centre Limited's 81.54% interest in One Raffles Place and OUE REIT's 50% interest in OUE Bayfront (page 33). Marketing AUM headline rounds to S$5.8bn. The audited consolidated investment-properties valuation (5 fully-consolidated assets, excl. the equity-accounted OUE Bayfront JV) is S$5,082.0m."}
+    {
+      "type": "portfolio_occupancy_basis",
+      "scope": "portfolio_occupancy",
+      "note": "95.4% is the disclosed Singapore office portfolio committed occupancy as at 31 Dec 2025 (page 36). A single portfolio-wide committed occupancy is not disclosed: the two hotels (Hilton Singapore Orchard, Crowne Plaza Changi Airport) are master-leased and reported by RevPAR, not occupancy. Per-property committed occupancy is in properties.json."
+    },
+    {
+      "type": "dpu_period_split",
+      "scope": "dpu",
+      "note": "FY2025 DPU 2.23 cents is the full-year figure (sum of 1.13c paid for 2H2024 distribution and 0.98c for 1H2025 paid in-year plus accrued; the report's Distribution Statement shows the two distributions actually paid during the year). FY2024 DPU of 2.06c was disclosed including a S$5.0m capital-distribution release; core/like-for-like FY2025 DPU grew 13.8% YoY, headline DPU +8.3% YoY."
+    },
+    {
+      "type": "portfolio_value_basis",
+      "scope": "portfolio_value",
+      "note": "S$5,793.0m = headline portfolio value by proportionate interest (independent valuation as at 31 Dec 2025), including OUB Centre Limited's 81.54% interest in One Raffles Place and OUE REIT's 50% interest in OUE Bayfront (page 33). Marketing AUM headline rounds to S$5.8bn. The audited consolidated investment-properties valuation (5 fully-consolidated assets, excl. the equity-accounted OUE Bayfront JV) is S$5,082.0m."
+    }
   ],
-  "source_page": 41
+  "source_page": 41,
+  "distribution_basis": "disclosed_after_retention"
 }

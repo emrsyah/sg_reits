@@ -1,12 +1,33 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.gla / properties.nla", "reason": "CLINT discloses 'Floor area owned by CLINT' (built/owned area in million sq ft) per card — captured in gfa. Data centres disclose Built-up Area + MW capacity (no lettable-area metric). No gross/net LETTABLE area is disclosed per property."},
-    {"column": "properties.net_property_income (absolute)", "reason": "Per-property NPI is disclosed only as INR-million and as a % contribution (NPI donut, p26), not as an absolute SGD figure. Captured the % in npi_pct; absolute left null."},
-    {"column": "properties.gross_revenue", "reason": "Per-property total property income is disclosed only in INR-million (financial review, p25), not in the SGD schema unit. Stored as % (npi_pct) and INR figures in data_with_no_home; absolute SGD per-property revenue not disclosed, so kept null to avoid a fabricated cross-currency conversion."},
-    {"column": "properties.major_tenants", "reason": "Tenants are disclosed only at portfolio level (Top 10 Tenants table, p41); no per-property tenant breakdown is given."},
-    {"column": "performance.wale", "reason": "No single weighted-average-lease-expiry (years) figure disclosed; only a lease-expiry profile by rental revenue and city (p40)."},
-    {"column": "performance.weighted_avg_debt_maturity", "reason": "No weighted-average debt maturity (years) disclosed; only a debt-maturity profile bar chart by fiscal year (p31)."},
-    {"column": "financial.employee_breakdown", "reason": "Externally managed business trust; no trust-level employees. Trustee-Manager headcount not disclosed in the report."}
+    {
+      "column": "properties.gla / properties.nla",
+      "reason": "CLINT discloses 'Floor area owned by CLINT' (built/owned area in million sq ft) per card — captured in gfa. Data centres disclose Built-up Area + MW capacity (no lettable-area metric). No gross/net LETTABLE area is disclosed per property."
+    },
+    {
+      "column": "properties.net_property_income (absolute)",
+      "reason": "Per-property NPI is disclosed only as INR-million and as a % contribution (NPI donut, p26), not as an absolute SGD figure. Captured the % in npi_pct; absolute left null."
+    },
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Per-property total property income is disclosed only in INR-million (financial review, p25), not in the SGD schema unit. Stored as % (npi_pct) and INR figures in data_with_no_home; absolute SGD per-property revenue not disclosed, so kept null to avoid a fabricated cross-currency conversion."
+    },
+    {
+      "column": "properties.major_tenants",
+      "reason": "Tenants are disclosed only at portfolio level (Top 10 Tenants table, p41); no per-property tenant breakdown is given."
+    },
+    {
+      "column": "performance.wale",
+      "reason": "No single weighted-average-lease-expiry (years) figure disclosed; only a lease-expiry profile by rental revenue and city (p40)."
+    },
+    {
+      "column": "performance.weighted_avg_debt_maturity",
+      "reason": "No weighted-average debt maturity (years) disclosed; only a debt-maturity profile bar chart by fiscal year (p31)."
+    },
+    {
+      "column": "financial.employee_breakdown",
+      "reason": "Externally managed business trust; no trust-level employees. Trustee-Manager headcount not disclosed in the report."
+    }
   ],
   "data_with_no_home": [
     "Data centre capacity: DC Navi Mumbai 105.0 MW gross / 70.7 MW IT Load; DC ITPH 42.0 MW / 27.0 MW; DC Chennai 53.0 MW / 34.0 MW; DC ITPB 45.0 MW / 28.0 MW (on hold).",
@@ -42,12 +63,106 @@
     "property_count": 18,
     "note": "Portfolio Statement sum of 18 property rows + the held-for-sale/other-assets reconciling lines = S$3,786.072m investment-property total. Per-property revenue/NPI percentages each sum to 100% across the 16-line financial-review tables (which include divested CyberVale/CyberPearl + Pollax)."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1343882000.0,
+      "basis": "EPU note 9: 'Weighted average number of units outstanding during the year' = 1,343,882 '000 -> 1,343,882,000 absolute",
+      "source_page": 127
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1343882000.0,
+      "basis": "EPU note 9 states 'Diluted earnings per unit are the same as the basic earnings per unit as there are no dilutive instruments in issue.' No separate diluted figure disclosed; diluted = basic 1,343,882,000.",
+      "source_page": 127
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 118853000.0,
+      "basis": "Distribution Statement 'Income available for distribution' = 118,853 S$'000 (verified = DPU distributable-income line, NOT the post-10%-retention 'Income to be distributed' 106,968). Already correct.",
+      "source_page": 102
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Trustee-Manager elected 50% of base/performance fees in units (added back, non-cash) and 50% in cash. Single 'Income available for distribution' figure; no separate cash-deducted adjusted distributable-income line -> null.",
+      "source_page": 102
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 106968000.0,
+      "basis": "'Income to be distributed' = 106,968 S$'000 (Distribution Statement, PDF p100, '000->absolute), after explicit '10% retention' (11,885). Distinct from 'Income available for distribution' 118,853 (net_distributable_income). Retained = 118,853 - 106,968 = 11,885 = exactly 10% per distribution policy (>=90% payout). Ties to DPU 7.87c.",
+      "source_page": 100
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 30
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "rows": ["Building Q1, Aurum Q Parc", "Building Q2, Aurum Q Parc"], "value": "2048-06-30", "basis": "Card states land 'Till June 2048' for combined Q1&Q2; applied to both split rows.", "source_page": 47},
-    {"table": "properties", "field": "lease_expiry_date", "property_name": "International Tech Park Pune, Hinjawadi (ITPP-H)", "value": "2103-02-28", "basis": "Card states 'Till February 2103'; consistent with 95-year term / 78 years remaining.", "source_page": 47},
-    {"table": "properties", "field": "lease_expiry_date", "rows": ["Industrial Facility 1, Mahindra World City", "Industrial Facility 2 and 3, Mahindra World City"], "value": "2117-09-30", "basis": "Combined IF card states 'Till September 2117' (initial term 96 yrs 8 mths); applied to both split rows.", "source_page": 48},
-    {"table": "properties", "field": "lease_expiry_date", "property_name": "CapitaLand Data Centre Navi Mumbai", "value": "2062-07-01", "basis": "Multiple tenures; earliest sub-plot expiry (Jul 2062) per REFERENCE land_tenure rule for combined/multi-lease rows.", "source_page": 50},
-    {"table": "properties", "field": "ownership", "rows": ["International Tech Park Bangalore (ITPB)", "CapitaLand Data Centre ITPB"], "value": 93.0, "basis": "Card states 93% (7.2% KIADB); Portfolio Statement footnote says 92.8% for MTB7/8 and DC ITPB. Used card's 93%; footnote 92.8% noted in flags.", "source_page": 44},
-    {"table": "financial", "field": "income_stmt_metrics.capital_expenditure", "value": -192585000.0, "basis": "Sum of purchase of plant & equipment (-4,455) + additions to IPUC/IP (-188,130); cash flow statement p107.", "source_page": 107}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "rows": [
+        "Building Q1, Aurum Q Parc",
+        "Building Q2, Aurum Q Parc"
+      ],
+      "value": "2048-06-30",
+      "basis": "Card states land 'Till June 2048' for combined Q1&Q2; applied to both split rows.",
+      "source_page": 47
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "property_name": "International Tech Park Pune, Hinjawadi (ITPP-H)",
+      "value": "2103-02-28",
+      "basis": "Card states 'Till February 2103'; consistent with 95-year term / 78 years remaining.",
+      "source_page": 47
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "rows": [
+        "Industrial Facility 1, Mahindra World City",
+        "Industrial Facility 2 and 3, Mahindra World City"
+      ],
+      "value": "2117-09-30",
+      "basis": "Combined IF card states 'Till September 2117' (initial term 96 yrs 8 mths); applied to both split rows.",
+      "source_page": 48
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "property_name": "CapitaLand Data Centre Navi Mumbai",
+      "value": "2062-07-01",
+      "basis": "Multiple tenures; earliest sub-plot expiry (Jul 2062) per REFERENCE land_tenure rule for combined/multi-lease rows.",
+      "source_page": 50
+    },
+    {
+      "table": "properties",
+      "field": "ownership",
+      "rows": [
+        "International Tech Park Bangalore (ITPB)",
+        "CapitaLand Data Centre ITPB"
+      ],
+      "value": 93.0,
+      "basis": "Card states 93% (7.2% KIADB); Portfolio Statement footnote says 92.8% for MTB7/8 and DC ITPB. Used card's 93%; footnote 92.8% noted in flags.",
+      "source_page": 44
+    },
+    {
+      "table": "financial",
+      "field": "income_stmt_metrics.capital_expenditure",
+      "value": -192585000.0,
+      "basis": "Sum of purchase of plant & equipment (-4,455) + additions to IPUC/IP (-188,130); cash flow statement p107.",
+      "source_page": 107
+    }
   ]
 }

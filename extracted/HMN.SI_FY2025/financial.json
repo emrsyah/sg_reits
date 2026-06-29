@@ -16,7 +16,8 @@
     "net_income": 332623000.0,
     "non_operating_income_or_loss": 116419000.0,
     "interest_expense_non_operating": 101019000.0,
-    "diluted_shares_outstanding": 3817484000.0,
+    "weighted_avg_shares_basic": 3817484000.0,
+    "diluted_shares_outstanding": 3844271000.0,
     "net_property_sales": 99038000.0,
     "funds_from_operation": null,
     "unitholders": 310407000.0,
@@ -27,8 +28,7 @@
       "ebit",
       "ebitda",
       "non_operating_income_or_loss",
-      "interest_expense_non_operating",
-      "diluted_shares_outstanding"
+      "interest_expense_non_operating"
     ],
     "revenue_breakdown": [
       {"category": "Gross rental income", "amount": 653809000.0, "class": "Product/Service Sales"},
@@ -95,7 +95,7 @@
     "interest_expense_non_operating_note": "= finance costs 107484 - finance income 6465 = 101019 (NET, positive magnitude per prod sign convention).",
     "operating_expense_note": "Trust-level expenses below NPI before finance: 37404+1004+5847+3773+9314 = 57342. Depreciation of L&B (21023) and FX gain are non-operating (in non_operating_income_or_loss = pretax - operating_income).",
     "capex_note": "capital_expenditure = capex on investment properties & AHS (26405) + capex on IPUD (33274) + purchase of PPE (48839) = 108518 cash outflow (negative).",
-    "diluted_shares_note": "Basic weighted-average stapled securities = 3,817,484,000 (note 30 p219); diluted weighted-avg = 3,844,271,000. unitholders = total return attributable to Stapled Securityholders 310,407 (327,614 stapled+perpetual less 17,207 perpetual, note 30 p219); perpetual_security_holders 17,207; minorities (NCI) 5,009; sum = 332,623 = net_income.",
+    "diluted_shares_note": "Basic weighted-average stapled securities = 3,817,484,000 (note 30 p219); diluted weighted-avg = 3,844,271,000 (note 30 p219). CORRECTED: prior extraction stored basic (3,817,484,000) in diluted_shares_outstanding field; now corrected to 3,844,271,000. weighted_avg_shares_basic field added with 3,817,484,000. unitholders = total return attributable to Stapled Securityholders 310,407 (327,614 stapled+perpetual less 17,207 perpetual, note 30 p219); perpetual_security_holders 17,207; minorities (NCI) 5,009; sum = 332,623 = net_income.",
     "ffo_null_reason": "No FFO/AFFO disclosed. CLAS reports income available for distribution (256,708k in performance.net_distributable_income). Not set = net_income (includes +135.7m IP fair value, +99m divestment gain, -30.2m derivative FV that FFO excludes).",
     "ebitda_note": "ebitda = ebit 545397 + depreciation 21023 = 566420."
   }

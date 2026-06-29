@@ -32,7 +32,9 @@
         "note": "Master-leased to Parkway Hospitals Singapore Pte. Ltd.; triple-net lease to 31 Dec 2042. Remaining land lease term 49 years per Portfolio Statement p150."
       }
     ],
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 524430000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C2PU.SI",
@@ -67,7 +69,9 @@
         "note": "Master-leased to Parkway Hospitals Singapore Pte. Ltd.; triple-net lease to 31 Dec 2042. Remaining land lease term 57 years per Portfolio Statement p150."
       }
     ],
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 216000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C2PU.SI",
@@ -102,7 +106,9 @@
         "note": "Master-leased to Parkway Hospitals Singapore Pte. Ltd.; triple-net lease to 31 Dec 2042. Remaining land lease term 57 years per Portfolio Statement p150."
       }
     ],
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 34190000,
+    "purchase_price_currency": "SGD"
   },
   {
     "property_name": "Bon Sejour Yokohama Shin-Yamashita",
@@ -123,7 +129,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1394000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Etoile Akashi (formerly known as More Habitation Akashi)",
@@ -144,7 +152,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1456000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Etoile Suma Rikyu (formerly known as More Habitation Suma Rikyu)",
@@ -165,7 +175,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 844000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Senior Chonaikai Makuhari Kan",
@@ -186,7 +198,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1403000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Smiling Home Medis Musashi Urawa",
@@ -207,7 +221,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 612000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Smiling Home Medis Koshigaya Gamo",
@@ -228,7 +244,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1289000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sompo no Ie Nakasyo",
@@ -249,7 +267,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 555000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Maison des Centenaire Ishizugawa",
@@ -270,7 +290,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 671000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Maison des Centenaire Haruki",
@@ -291,7 +313,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 485000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Hapine Fukuoka Noke",
@@ -312,7 +336,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 723000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Fiore Senior Residence Hirakata",
@@ -333,7 +359,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 420000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Iyashi no Takatsuki Kan",
@@ -354,7 +382,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1107000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Obatake Ichibankan",
@@ -375,7 +405,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 660000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Sakurakan",
@@ -396,7 +428,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 725000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Nogatakan",
@@ -417,7 +451,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 631000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Shinmojikan",
@@ -438,7 +474,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 848000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Obatake Nibankan",
@@ -459,7 +497,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 276000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Fukufukukan",
@@ -480,7 +520,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 564000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "As Heim Nakaurawa",
@@ -501,7 +543,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 812000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Hanadama no Ie Nakahara",
@@ -522,7 +566,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 628000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Higashikagurakan",
@@ -543,7 +589,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 866000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Happy Life Toyonaka",
@@ -564,7 +612,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 445000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Etoile Kobe (formerly known as More Habitation Kobe Kitano)",
@@ -585,7 +635,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1310000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Seaside Toba",
@@ -606,7 +658,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1380000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Niihamakan",
@@ -627,7 +681,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1300000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Mekari Nibankan",
@@ -648,7 +704,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 310000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Kiyotakan",
@@ -669,7 +727,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 860000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sawayaka Minatokan",
@@ -690,7 +750,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 650000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Maison des Centenaire Hannan",
@@ -711,7 +773,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1600000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Maison des Centenaire Ohhama",
@@ -732,7 +796,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 600000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sunhill Miyako",
@@ -753,7 +819,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 800000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Habitation Jyosui",
@@ -774,7 +842,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 3535000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Ocean View Shonan Arasaki",
@@ -795,7 +865,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1700000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Habitation Hakata I, II and III",
@@ -816,7 +888,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 3705000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Excellent Tenpaku Garden Hills",
@@ -837,7 +911,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1645000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Liverari Shiroishi Hana Ichigo-kan",
@@ -858,7 +934,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 298000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Liverari Shiroishi Hana Nigo-kan",
@@ -879,7 +957,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 152000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sunny Spot Misono",
@@ -900,7 +980,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 177000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Silver Heights Hitsujigaoka (Ichibankan and Nibankan)",
@@ -921,7 +1003,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1100000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Live In Wakaba",
@@ -942,7 +1026,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1766000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Habitation Hakusho",
@@ -963,7 +1049,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1607000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Group Home Hakusho",
@@ -984,7 +1072,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 105000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Kikuya Warakuen",
@@ -1005,7 +1095,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 781000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Sanko",
@@ -1026,7 +1118,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 500000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Konosu Nursing Home Kyoseien",
@@ -1047,7 +1141,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1500000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Haru no Sato",
@@ -1068,7 +1164,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1200000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Hodaka no Niwa",
@@ -1089,7 +1187,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1300000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Orange no Sato",
@@ -1111,7 +1211,9 @@
     "major_tenants": [],
     "flags": [],
     "source_page": 153,
-    "lease_term_years": 99.0
+    "lease_term_years": 99.0,
+    "purchase_price": 1200000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Habitation Kamagaya",
@@ -1132,7 +1234,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1650000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Will-Mark Kashiihama",
@@ -1153,7 +1257,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 3000000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Crea Adachi",
@@ -1174,7 +1280,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1100000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Habitation Kisarazu Ichibankan",
@@ -1195,7 +1303,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 3200000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Blue Rise Nopporo",
@@ -1216,7 +1326,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 699000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Blue Terrace Kagura",
@@ -1237,7 +1349,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1180000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Blue Terrace Taisetsu",
@@ -1258,7 +1372,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 679000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Assisted Living Edogawa",
@@ -1279,7 +1395,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1700000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "Assisted Living Toke",
@@ -1300,7 +1418,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 1180000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "HIBISU Shirokita Koendori",
@@ -1321,7 +1441,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 832000000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "HIBISU Suita",
@@ -1342,7 +1464,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 934400000,
+    "purchase_price_currency": "JPY"
   },
   {
     "property_name": "HIBISU Higashi Sumiyoshi",
@@ -1363,7 +1487,9 @@
     "occupancy_rate": 100.0,
     "major_tenants": [],
     "flags": [],
-    "source_page": 153
+    "source_page": 153,
+    "purchase_price": 2446200000,
+    "purchase_price_currency": "JPY"
   },
   {
     "symbol": "C2PU.SI",
@@ -1390,7 +1516,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 14960000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1417,7 +1545,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 17530000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1444,7 +1574,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 15710000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1471,7 +1603,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 12830000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1498,7 +1632,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 5940000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1525,7 +1661,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 5660000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1552,7 +1690,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 7970000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1579,7 +1719,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 8600000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1606,7 +1748,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 6230000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1633,7 +1777,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 8090000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",
@@ -1660,7 +1806,9 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 163
+    "source_page": 163,
+    "purchase_price": 7710000,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C2PU.SI",

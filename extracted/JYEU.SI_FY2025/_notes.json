@@ -1,8 +1,17 @@
 {
   "columns_never_fillable": [
-    {"column": "properties.gla", "reason": "Report discloses Net Lettable Area (NLA), not GLA, per property; GFA disclosed only for the development site."},
-    {"column": "properties.npi_pct", "reason": "Per-property NPI disclosed as absolute S$ (Financial Review p34), not as a percentage of portfolio NPI."},
-    {"column": "properties.trade_mix", "reason": "Per-property trade mix disclosed only for 313@somerset and Jem as donut charts (pp29,31); not captured per-property into the {category:pct} field — portfolio-level trade_mix used instead."}
+    {
+      "column": "properties.gla",
+      "reason": "Report discloses Net Lettable Area (NLA), not GLA, per property; GFA disclosed only for the development site."
+    },
+    {
+      "column": "properties.npi_pct",
+      "reason": "Per-property NPI disclosed as absolute S$ (Financial Review p34), not as a percentage of portfolio NPI."
+    },
+    {
+      "column": "properties.trade_mix",
+      "reason": "Per-property trade mix disclosed only for 313@somerset and Jem as donut charts (pp29,31); not captured per-property into the {category:pct} field — portfolio-level trade_mix used instead."
+    }
   ],
   "data_with_no_home": [
     "WALE by GRI = 4.9 years (portfolio); WALE by NLA = 7.2 years used as performance.wale (p25).",
@@ -33,9 +42,74 @@
     "line_items_check": "Sum(revenue 210,473) - Sum(expense 145,202) + Sum(adjustment signed 5,479) = 70,750 (thousands) = income_stmt_metrics.net_income. Verified.",
     "trade_mix_sum_pct": 100.0
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 2414538000,
+      "basis": "EPU note 25 'Weighted average number of units during the financial year' = 2,414,538 ('000) = 2,414,538,000. Basic and diluted disclosed together.",
+      "source_page": 158
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 2414538000,
+      "basis": "Same EPU note 25: 'Diluted earnings per unit is the same as basic earnings per unit as there is no potential dilutive units', diluted weighted-avg = basic = 2,414,538,000. Already correct.",
+      "source_page": 158
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "DPU method 1: single 'Amount available for distribution to Unitholders' in Consolidated Distribution Statement (p114); fees settled in units added back via Net tax and other adjustments. No separate cash-fees-deducted adjusted figure. Set null.",
+      "source_page": 114
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 87600000,
+      "basis": "AUDIT: matches disclosed headline 'Distributable income' FY2025 = S$87.6m (current-year distributable income = profit 52,412 + net tax/other adj 35,153 = 87,565 ≈ 87.6m), the DPU numerator. NOT 'Distribution to Unitholders during the year' 85,556. Already correct.",
+      "source_page": 5
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": null,
+      "basis": "No single for-the-year declared distribution figure is disclosed. Semi-annual REIT; Consolidated Distribution Statement (p114) is CASH-BASIS only: 'Distribution to Unitholders during the year' 85,556 ('000) mixes 2H FY2024 final (1.770c, 42,066k) + 1H FY2025 (1.795c, 43,490k). The 2H FY2025 distribution (1.8013c) is declared after 30 Jun 2025 year-end and is not in this statement. LREIT distributes ~100% (DPU 3.60c x ~2,446.7m units ~= net_distributable_income 87,600k, retained ~nil), but no disclosed for-the-year 'amount to be distributed' line exists to cite. Set null to avoid mixing periods.",
+      "source_page": 114
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "not_disclosed_rollforward_only",
+      "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
+      "source_page": 5
+    }
+  ],
   "inferred": [
-    {"table": "properties", "field": "lease_expiry_date", "property_name": "Jem", "value": "2109-09-26", "basis": "from disclosed tenure '99-year leasehold commencing 27 September 2010 till 26 September 2109' (card p28)", "source_page": 28},
-    {"table": "properties", "field": "lease_expiry_date", "property_name": "313@somerset", "value": "2105-11-20", "basis": "from disclosed tenure '99-year leasehold commencing 21 November 2006 until 20 November 2105' (card p31)", "source_page": 31},
-    {"table": "properties", "field": "category", "scope": "Jem", "value": "Diversified (Commercial)", "basis": "Jem is a combined retail + office (MND) asset; mapped to Diversified (Commercial) as it spans two physical classes", "source_page": 28}
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "property_name": "Jem",
+      "value": "2109-09-26",
+      "basis": "from disclosed tenure '99-year leasehold commencing 27 September 2010 till 26 September 2109' (card p28)",
+      "source_page": 28
+    },
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "property_name": "313@somerset",
+      "value": "2105-11-20",
+      "basis": "from disclosed tenure '99-year leasehold commencing 21 November 2006 until 20 November 2105' (card p31)",
+      "source_page": 31
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "Jem",
+      "value": "Diversified (Commercial)",
+      "basis": "Jem is a combined retail + office (MND) asset; mapped to Diversified (Commercial) as it spans two physical classes",
+      "source_page": 28
+    }
   ]
 }

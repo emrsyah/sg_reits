@@ -25,7 +25,9 @@
     "value_basis": "consolidated",
     "source_page": 149,
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 606200000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "J69U.SI",
@@ -53,7 +55,9 @@
     "value_basis": "consolidated",
     "source_page": 149,
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 413900000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "J69U.SI",
@@ -80,7 +84,9 @@
     "status": "active",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "purchase_price": 1133000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "J69U.SI",
@@ -108,7 +114,9 @@
     "value_basis": "consolidated",
     "source_page": 149,
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 762000000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "J69U.SI",
@@ -309,7 +317,9 @@
         "pct": null
       }
     ],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 1050900000,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "J69U.SI",
@@ -337,6 +347,8 @@
     "value_basis": "joint_venture_100pct",
     "source_page": 68,
     "major_tenants": [],
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 651300000,
+    "purchase_price_currency": "SGD"
   }
 ]

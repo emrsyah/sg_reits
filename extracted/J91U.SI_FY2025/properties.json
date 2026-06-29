@@ -16,7 +16,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 31 years)",
     "status": "active",
-    "source_page": 133
+    "source_page": 133,
+    "purchase_price": 30400000,
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "J91U.SI",
@@ -34,7 +36,9 @@
     "land_tenure": "Leasehold",
     "tenure_raw": "Leasehold 60/43 (remaining 5/5 years)",
     "status": "active",
-    "source_page": 133
+    "source_page": 133,
+    "purchase_price": 322200000,
+    "purchase_price_source_page": 71
   },
   {
     "symbol": "J91U.SI",
@@ -105,7 +109,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$45.0m, expected 2Q2026"
       }
     ],
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 25000000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -124,7 +130,9 @@
     "lease_term_years": 99,
     "tenure_raw": "Leasehold 99 (remaining 31 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 32000000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -143,7 +151,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 25 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 39800000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -162,7 +172,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 100500000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -181,7 +193,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 24 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 39000000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -200,7 +214,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 47500000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -219,7 +235,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 27 years)",
     "status": "active",
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 63600000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -245,7 +263,9 @@
         "note": "Valuation stated on 100% basis; ESR-REIT holds 80% interest"
       }
     ],
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 360200000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -271,7 +291,9 @@
         "note": "Valuation stated on 100% basis; ESR-REIT holds 51% interest. Includes co-located logistics warehouses (20A) classified under Logistics for asset-class disclosure"
       }
     ],
-    "source_page": 135
+    "source_page": 135,
+    "purchase_price": 840000000,
+    "purchase_price_source_page": 73
   },
   {
     "symbol": "J91U.SI",
@@ -319,7 +341,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 29 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 7300000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -338,7 +362,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 60 (remaining 7 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 23200000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -364,7 +390,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$68.0m, expected 2Q2026"
       }
     ],
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 96000000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -383,7 +411,9 @@
     "lease_term_years": 30,
     "tenure_raw": "Leasehold 30 (remaining 16 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 95800000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -409,7 +439,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$113.5m, expected 3Q2026"
       }
     ],
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 112000000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -428,7 +460,9 @@
     "lease_term_years": 30,
     "tenure_raw": "Leasehold 30 (remaining 11 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 54000000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -447,7 +481,9 @@
     "lease_term_years": 29,
     "tenure_raw": "Leasehold 29 (remaining 10 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 260400000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -473,7 +509,9 @@
         "note": "2 Fishery Port Road decommissioned, planned redevelopment into cold storage/food processing; occupancy disclosed as '–' in portfolio statement"
       }
     ],
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 126700000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -492,7 +530,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 39 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 83800000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -511,7 +551,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 40 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 93300000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -530,7 +572,9 @@
     "lease_term_years": 46,
     "tenure_raw": "Leasehold 30+16 (remaining 27 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 11100000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -549,7 +593,9 @@
     "lease_term_years": 30,
     "tenure_raw": "Leasehold 30 (remaining 8 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 27400000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -568,7 +614,9 @@
     "lease_term_years": 30,
     "tenure_raw": "Leasehold 30 (remaining 18 years)",
     "status": "active",
-    "source_page": 137
+    "source_page": 137,
+    "purchase_price": 152000000,
+    "purchase_price_source_page": 79
   },
   {
     "symbol": "J91U.SI",
@@ -587,7 +635,9 @@
     "lease_term_years": 32,
     "tenure_raw": "Leasehold 10+22 (remaining 13 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 41000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -606,7 +656,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 26 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 10000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -625,7 +677,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 26 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 12000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -644,7 +698,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 25 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 10300000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -692,7 +748,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 28 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 8700000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -718,7 +776,9 @@
         "note": "Combined row with two leases (remaining 35/40 years); earlier expiry used"
       }
     ],
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 22100000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -737,7 +797,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 33 years)",
     "status": "active",
-    "source_page": 139
+    "source_page": 139,
+    "purchase_price": 5600000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -756,7 +818,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 29 years)",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 5800000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -775,7 +839,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 21000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -801,7 +867,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$3.5m, expected 2Q2026"
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 6400000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -820,7 +888,9 @@
     "lease_term_years": 29.5,
     "tenure_raw": "Leasehold 29.5 (remaining 12 years)",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 14500000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -839,7 +909,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 13000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -858,7 +930,9 @@
     "lease_term_years": 58,
     "tenure_raw": "Leasehold 30+28 (remaining 41 years)",
     "status": "active",
-    "source_page": 141
+    "source_page": 141,
+    "purchase_price": 15300000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -877,7 +951,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 17300000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -903,7 +979,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$15.1m, expected 2Q2026"
       }
     ],
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 13500000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -929,7 +1007,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$16.7m, expected 2Q2026"
       }
     ],
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 43000000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -948,7 +1028,9 @@
     "lease_term_years": 27,
     "tenure_raw": "Leasehold 27 (remaining 15 years)",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 19100000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -967,7 +1049,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 30+30 (remaining 33 years)",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 15000000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -986,7 +1070,9 @@
     "lease_term_years": 46,
     "tenure_raw": "Leasehold 30+16 (remaining 28 years)",
     "status": "active",
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 106100000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -1012,7 +1098,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$34.1m, expected 2Q2026"
       }
     ],
-    "source_page": 143
+    "source_page": 143,
+    "purchase_price": 31100000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -1037,7 +1125,9 @@
         "note": "Combined row with two leases"
       }
     ],
-    "source_page": 145
+    "source_page": 145,
+    "purchase_price": 32600000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -1063,7 +1153,9 @@
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$42.2m, expected 2Q2026"
       }
     ],
-    "source_page": 145
+    "source_page": 145,
+    "purchase_price": 30800000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -1081,7 +1173,9 @@
     "land_tenure": "Leasehold",
     "tenure_raw": "Leasehold 30+30/21+30 (remaining 30 years)",
     "status": "active",
-    "source_page": 145
+    "source_page": 145,
+    "purchase_price": 83900000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -1107,7 +1201,9 @@
         "note": "Ongoing AEI to convert to High-Specifications Industrial, expected completion 1H2026"
       }
     ],
-    "source_page": 145
+    "source_page": 145,
+    "purchase_price": 32900000,
+    "purchase_price_source_page": 77
   },
   {
     "symbol": "J91U.SI",
@@ -1126,7 +1222,9 @@
     "lease_term_years": 60,
     "tenure_raw": "Leasehold 60 (remaining 3 years)",
     "status": "active",
-    "source_page": 145
+    "source_page": 145,
+    "purchase_price": 60000000,
+    "purchase_price_source_page": 75
   },
   {
     "symbol": "J91U.SI",
@@ -1144,7 +1242,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 66500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1162,7 +1263,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 39500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1180,7 +1284,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 35100000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1198,7 +1305,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 11800000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1216,7 +1326,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 17300000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1234,7 +1347,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 35500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1252,7 +1368,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 147
+    "source_page": 147,
+    "purchase_price": 45500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1270,7 +1389,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 21300000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1288,7 +1410,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 14500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1306,7 +1431,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 25500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1324,7 +1452,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 31500000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1342,7 +1473,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 20000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "J91U.SI",
@@ -1360,7 +1494,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 16800000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1378,7 +1515,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 149
+    "source_page": 149,
+    "purchase_price": 19600000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 81
   },
   {
     "symbol": "J91U.SI",
@@ -1397,7 +1537,10 @@
     "lease_term_years": 43,
     "tenure_raw": "Leasehold 43 (remaining 37 years)",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 68900000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "J91U.SI",
@@ -1416,7 +1559,10 @@
     "lease_term_years": 46,
     "tenure_raw": "Leasehold 46 (remaining 34 years)",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 58700000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "J91U.SI",
@@ -1435,7 +1581,10 @@
     "lease_term_years": 40,
     "tenure_raw": "Leasehold 40 (remaining 34 years)",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 33400000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "J91U.SI",
@@ -1454,7 +1603,10 @@
     "lease_term_years": 55,
     "tenure_raw": "Leasehold 55 (remaining 34 years)",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 103000000,
+    "purchase_price_currency": "AUD",
+    "purchase_price_source_page": 83
   },
   {
     "symbol": "J91U.SI",
@@ -1472,7 +1624,10 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 17800000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 85
   },
   {
     "symbol": "J91U.SI",
@@ -1490,6 +1645,9 @@
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
-    "source_page": 151
+    "source_page": 151,
+    "purchase_price": 38000000000,
+    "purchase_price_currency": "JPY",
+    "purchase_price_source_page": 85
   }
 ]

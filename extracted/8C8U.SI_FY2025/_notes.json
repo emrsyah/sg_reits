@@ -1,13 +1,34 @@
 {
   "financial_period": "STUB / IPO-period report. FP 2025 = financial period from 12 August 2025 (Date of Constitution) to 31 December 2025. The audited P&L covers this partial period; actual property income only from 25 September 2025 (Listing Date) to 31 December 2025. There is no prior-year comparative — comparisons in the report are vs the pro-rated IPO Prospectus forecast. financial_year stamped as 2025 (FY-end 31 Dec 2025).",
   "columns_never_fillable": [
-    {"column": "properties.gla / properties.nla", "reason": "Accommodation REIT (PBWA/PBSA): size metric is number of beds, not lettable area. No GLA/NLA disclosed anywhere. Land Area (sq m) is captured in gfa as a built/site-area proxy (it is a land area, not lettable area)."},
-    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed. NPI is given only at segment level (Worker 27,797 / Student 8,280 S$'000, Note 30) and by geography %. Per-property disclosure stops at gross rental income."},
-    {"column": "properties.major_tenants", "reason": "No per-property tenant lists disclosed. Only a portfolio-wide top-10 tenants table (PBWA corporate tenants) exists; PBSA assets are leased to individual students."},
-    {"column": "properties.lease_expiry_date", "reason": "Portfolio Statement gives 'remaining term of lease' (years) not an expiry date; not computed to avoid a fabricated date. effective_date + lease_term_years captured where disclosed."},
-    {"column": "performance.portfolio_occupancy", "reason": "No single blended portfolio occupancy disclosed; reported by segment (PBWA 97.6%, PBSA 99.1%)."},
-    {"column": "financial.employee_breakdown", "reason": "Externally managed REIT; no trust-level employee headcount disclosed. Property opex includes 'reimbursable staff costs' S$3,633k but no headcount."},
-    {"column": "financial.funds_from_operation", "reason": "No FFO/AFFO disclosed. Trust reports 'Amount available/to be distributed to Unitholders' (S$29,995k / S$29,953k) — captured in performance.net_distributable_income. Not equated to net_income."}
+    {
+      "column": "properties.gla / properties.nla",
+      "reason": "Accommodation REIT (PBWA/PBSA): size metric is number of beds, not lettable area. No GLA/NLA disclosed anywhere. Land Area (sq m) is captured in gfa as a built/site-area proxy (it is a land area, not lettable area)."
+    },
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed. NPI is given only at segment level (Worker 27,797 / Student 8,280 S$'000, Note 30) and by geography %. Per-property disclosure stops at gross rental income."
+    },
+    {
+      "column": "properties.major_tenants",
+      "reason": "No per-property tenant lists disclosed. Only a portfolio-wide top-10 tenants table (PBWA corporate tenants) exists; PBSA assets are leased to individual students."
+    },
+    {
+      "column": "properties.lease_expiry_date",
+      "reason": "Portfolio Statement gives 'remaining term of lease' (years) not an expiry date; not computed to avoid a fabricated date. effective_date + lease_term_years captured where disclosed."
+    },
+    {
+      "column": "performance.portfolio_occupancy",
+      "reason": "No single blended portfolio occupancy disclosed; reported by segment (PBWA 97.6%, PBSA 99.1%)."
+    },
+    {
+      "column": "financial.employee_breakdown",
+      "reason": "Externally managed REIT; no trust-level employee headcount disclosed. Property opex includes 'reimbursable staff costs' S$3,633k but no headcount."
+    },
+    {
+      "column": "financial.funds_from_operation",
+      "reason": "No FFO/AFFO disclosed. Trust reports 'Amount available/to be distributed to Unitholders' (S$29,995k / S$29,953k) — captured in performance.net_distributable_income. Not equated to net_income."
+    }
   ],
   "data_with_no_home": [
     "Operational beds: 25,154 portfolio total (excl TEC 664, Mandai new block 3,696, EPIISOD 732). Per-property beds (p14-15): Toh Guan 8,430, Mandai 6,290, Woodlands 4,100, Juniper 1,912, Ubi 1,650; UK: MSV 982, MSV South 362, Grafton 145, Weston Court 140, Princess St 126, Cathedral 383, Archer 177, Hotwells 157; AU East End Adelaide 300.",
@@ -48,11 +69,90 @@
     "str_reconciliation": "Σrevenue (50,742) − Σexpense (28,709) + Σadjustment_signed (-12,338) = 9,695 = net_income = Profit for the period. TIES.",
     "trade_mix_note": "Trade_mix is PBWA-Singapore tenant sectors by GRI only (Construction 79 + Marine Shipyard 9 + Engineering 6 + Others 6 = 100%). PBSA (UK/AU, ~26% of revenue) has NO trade-sector mix — students are individuals, disclosed by nationality/study-level instead. So trade_mix is scoped to the PBWA segment, not portfolio-wide."
   },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1719331000,
+      "basis": "EPU note 12: 'Weighted average number of Units in issue' = 1,719,331,000 (basic, absolute units as disclosed)",
+      "source_page": 62
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1720302427,
+      "basis": "EPU note 12: 'Weighted average number of Units in issue and to be issued' (diluted) = 1,720,302,427 — verified correct (diluted, not basic mislabeled)",
+      "source_page": 62
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 29995000,
+      "basis": "Distribution Statement 'Amount available for distribution to Unitholders' = 29,995 S$'000 (DPU numerator). Corrected from 29,953 which was the 'Amount to be distributed to Unitholders' (distributions line).",
+      "source_page": 52
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Method 1: Manager's base/performance fees paid in Units and added back as non-cash adjustment (Note A, p52). Single distributable-income figure only; no separate cash-deducted adjusted figure -> null.",
+      "source_page": 52
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 29953000,
+      "basis": "'Amount to be distributed to Unitholders' = 29,953 S$'000 (DPU Statement / Financial Highlights, p27, '000->absolute). Distinct from 'Amount available for distribution' 29,995 (net_distributable_income). Retained = 29,995 - 29,953 = 42 S$'000 (small, positive) -> ties to DPU 1.739c x units. Distribution policy 100% but rounded-down DPU leaves S$42k retained.",
+      "source_page": 27
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "disclosed_after_retention",
+      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
+      "source_page": 27
+    }
+  ],
   "inferred": [
-    {"table": "trade_mix", "field": "category", "scope": "all rows", "value": "canonical mapping", "basis": "Construction & Engineering -> Infrastructure, Real Estate & Property Services; Marine Shipyard -> Manufacturing; Others -> Other Industrial Trades. Verbatim labels kept in category_raw.", "source_page": 18},
-    {"table": "top_tenants", "field": "industry", "scope": "all rows", "value": "canonical mapping", "basis": "sector column on p18 (Construction/Engineering -> Infrastructure RE & Property Services; Marine Shipyard -> Manufacturing) mapped to canonical 15.", "source_page": 18},
-    {"table": "properties", "field": "gfa", "scope": "all rows", "value": "Land Area (sq m)", "basis": "Disclosed 'Land Area (sq m)' put in gfa as a site/built-area proxy; it is NOT lettable area (gla/nla structurally absent — bed-count REIT).", "source_page": 14},
-    {"table": "properties", "field": "effective_date / lease_term_years", "scope": "leasehold rows", "value": "from tenure_raw", "basis": "Parsed from Portfolio Statement 'Term of lease' wording (e.g. '60 years from 1 December 1997').", "source_page": 56},
-    {"table": "profile", "field": "income_model", "scope": "trust", "value": "conventional", "basis": "FP 2025 portfolio operates on direct per-bed accommodation rental (operating leases), not master leases. NOTE: EPIISOD Macquarie Park (acquired Jan 2026, post-period) is under a 2-year master lease with CPPL/Sponsor — hence master_lessee CPPL listed in management for forward context, but it does not affect FP 2025 income_model.", "source_page": 17}
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "all rows",
+      "value": "canonical mapping",
+      "basis": "Construction & Engineering -> Infrastructure, Real Estate & Property Services; Marine Shipyard -> Manufacturing; Others -> Other Industrial Trades. Verbatim labels kept in category_raw.",
+      "source_page": 18
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all rows",
+      "value": "canonical mapping",
+      "basis": "sector column on p18 (Construction/Engineering -> Infrastructure RE & Property Services; Marine Shipyard -> Manufacturing) mapped to canonical 15.",
+      "source_page": 18
+    },
+    {
+      "table": "properties",
+      "field": "gfa",
+      "scope": "all rows",
+      "value": "Land Area (sq m)",
+      "basis": "Disclosed 'Land Area (sq m)' put in gfa as a site/built-area proxy; it is NOT lettable area (gla/nla structurally absent — bed-count REIT).",
+      "source_page": 14
+    },
+    {
+      "table": "properties",
+      "field": "effective_date / lease_term_years",
+      "scope": "leasehold rows",
+      "value": "from tenure_raw",
+      "basis": "Parsed from Portfolio Statement 'Term of lease' wording (e.g. '60 years from 1 December 1997').",
+      "source_page": 56
+    },
+    {
+      "table": "profile",
+      "field": "income_model",
+      "scope": "trust",
+      "value": "conventional",
+      "basis": "FP 2025 portfolio operates on direct per-bed accommodation rental (operating leases), not master leases. NOTE: EPIISOD Macquarie Park (acquired Jan 2026, post-period) is under a 2-year master lease with CPPL/Sponsor — hence master_lessee CPPL listed in management for forward context, but it does not affect FP 2025 income_model.",
+      "source_page": 17
+    }
   ]
 }

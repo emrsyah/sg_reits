@@ -1,8 +1,61 @@
 {
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 5260796000.0,
+      "basis": "Note 9 Earnings per Unit: 'Weighted average number of units outstanding during the financial year' 5,260,796 ('000); 'Basic and diluted EPU' identical (no dilutive instruments). Disclosed in '000, x1000 to absolute.",
+      "source_page": 141
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 5260796000.0,
+      "basis": "Note 9: 'Diluted earnings per unit is the same as the basic' — no separate diluted figure; diluted = basic 5,260,796 ('000). Verified correct.",
+      "source_page": 141
+    },
+    {
+      "table": "performance",
+      "field": "adjusted_distributable_income",
+      "value": null,
+      "basis": "Distribution Statement (p110) adds back Manager's management fees paid/payable in units (18,001) non-cash; single 'Amount available for distribution for the year' 423,022 only -> method 1, null.",
+      "source_page": 110
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 423022000.0,
+      "basis": "AUDIT: matches 'Amount available for distribution for the year' 423,022 ('000) (DPU numerator), NOT distributions paid 439,609. Correct, no change.",
+      "source_page": 110
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 423022000.0,
+      "basis": "FOR-THE-YEAR declared distribution = 'Amount available for distribution for the year' 423,022 ('000), which the MD&A (p657/p1552) states resulted in the full-year DPU of 8.02 cents — i.e. MPACT distributed substantially all of the year's available amount (DPU computed directly on 423.0m). NOT the rolling cash 'Total Unitholders' distribution' 439,609 ('000) on the Distribution Statement (p110), which is the four distributions DEDUCTED during FY24/25: the prior calendar Q4 1Jan-31Mar-2024 (2.29c, 120,293) + Q1 (2.09c) + Q2 (1.98c) + Q3 (2.00c) to 31Dec2024 — cash-paid timing, summing to 8.36c not the 8.02c headline. RETAINED CHECK: net_distributable_income 423,022 - 423,022 = 0 ('000), consistent with ~100% payout. '000 x1000 to absolute.",
+      "source_page": 110
+    },
+    {
+      "table": "performance",
+      "field": "distribution_basis",
+      "value": "full_payout_no_retention_line",
+      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 423022000.0)",
+      "source_page": 5
+    }
+  ],
   "columns_never_fillable": [
-    {"column": "properties.net_property_income", "reason": "MPACT discloses NPI only at Group level, not per property. The Portfolio Statement gives per-property gross revenue, occupancy and valuation but no per-property NPI."},
-    {"column": "properties.gla / nla / gfa", "reason": "Areas (GLA/NLA/GFA) are not disclosed per property in the audited Portfolio Statement; the Properties-at-a-Glance cards give NLA narratively only for some assets — not a clean per-property field across the portfolio."},
-    {"column": "properties.major_tenants", "reason": "Per-property tenant lists are not tabulated; only a portfolio-level Top Ten Tenants by GRI is disclosed (captured in top_tenants)."}
+    {
+      "column": "properties.net_property_income",
+      "reason": "MPACT discloses NPI only at Group level, not per property. The Portfolio Statement gives per-property gross revenue, occupancy and valuation but no per-property NPI."
+    },
+    {
+      "column": "properties.gla / nla / gfa",
+      "reason": "Areas (GLA/NLA/GFA) are not disclosed per property in the audited Portfolio Statement; the Properties-at-a-Glance cards give NLA narratively only for some assets — not a clean per-property field across the portfolio."
+    },
+    {
+      "column": "properties.major_tenants",
+      "reason": "Per-property tenant lists are not tabulated; only a portfolio-level Top Ten Tenants by GRI is disclosed (captured in top_tenants)."
+    }
   ],
   "data_with_no_home": [
     "The Pinnacle Gangnam (South Korea): held via 50% effective interest as a joint venture; equity-accounted at Investment in a joint venture S$110,874k. NOT in the Portfolio Statement. MPACT shares profit after tax based on 50% effective interest; FY24/25 share of JV profit S$8,852k. 29 tenants.",
@@ -32,8 +85,29 @@
     "trade_mix_sum": "Sum of 20 trade-mix categories = 100.0% by GRI"
   },
   "inferred": [
-    {"table": "properties", "field": "category", "scope": "MBC I, MBC II, Sandhill Plaza", "value": "Specialized", "basis": "Mapletree Business City and Sandhill Plaza are business-park assets; mapped to Specialized per PROPERTY_CATEGORY_ALIASES (Business Space). category_raw preserves the disclosed Business Park / Office type.", "source_page": 116},
-    {"table": "properties", "field": "ownership", "scope": "all consolidated properties", "value": 100.0, "basis": "MPACT consolidates all 18 Portfolio-Statement properties at 100%; no stake footnotes indicating partial ownership. The Pinnacle Gangnam is the only partially-owned asset (50%, equity-accounted).", "source_page": 116},
-    {"table": "properties", "field": "lease_term_years/land_tenure", "scope": "Festival Walk, China assets", "value": "as printed", "basis": "Festival Walk 54-yr leasehold; Gateway Plaza / Sandhill Plaza China land-use rights mapped to Leasehold per land_tenure rules.", "source_page": 118}
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "MBC I, MBC II, Sandhill Plaza",
+      "value": "Specialized",
+      "basis": "Mapletree Business City and Sandhill Plaza are business-park assets; mapped to Specialized per PROPERTY_CATEGORY_ALIASES (Business Space). category_raw preserves the disclosed Business Park / Office type.",
+      "source_page": 116
+    },
+    {
+      "table": "properties",
+      "field": "ownership",
+      "scope": "all consolidated properties",
+      "value": 100.0,
+      "basis": "MPACT consolidates all 18 Portfolio-Statement properties at 100%; no stake footnotes indicating partial ownership. The Pinnacle Gangnam is the only partially-owned asset (50%, equity-accounted).",
+      "source_page": 116
+    },
+    {
+      "table": "properties",
+      "field": "lease_term_years/land_tenure",
+      "scope": "Festival Walk, China assets",
+      "value": "as printed",
+      "basis": "Festival Walk 54-yr leasehold; Gateway Plaza / Sandhill Plaza China land-use rights mapped to Leasehold per land_tenure rules.",
+      "source_page": 118
+    }
   ]
 }
