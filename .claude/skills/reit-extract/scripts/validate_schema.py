@@ -14,9 +14,11 @@ It maps the 8-file extraction intermediate onto the 6 schema models:
   top_tenants.json        -> TopTenant      (list)
   trade_mix.json          -> TradeMix          (list)
   financial.json          -> FinancialStatement (single object; 1:1 income_stmt_metrics)
-property_transactions.json and _notes.json are intermediate-only (no schema table) and
-are skipped. Extra fields in the intermediate (value_basis, alt_value, ...) are ignored
-by Pydantic - this validates the schema-bound fields without rejecting the audit trail.
+  property_transactions.json -> PropertyTransaction (list; formalized 2026-06-23)
+_notes.json is intermediate-only (no schema table) and is skipped. Extra fields in the
+intermediate (value_basis, alt_value, the legacy txn aliases price/sale_consideration/...,
+purchase_price_currency companions, ...) are ignored by Pydantic - this validates the
+schema-bound fields without rejecting the audit trail.
 
 Exit code 1 if any record fails validation.
 """
@@ -43,6 +45,7 @@ FILE_MODEL = {
     "top_tenants.json":       (models.TopTenant,     True),
     "trade_mix.json":         (models.TradeMix,      True),
     "financial.json":         (models.FinancialStatement, False),
+    "property_transactions.json": (models.PropertyTransaction, True),
 }
 
 

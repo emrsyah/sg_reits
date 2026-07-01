@@ -428,7 +428,12 @@ class PropertyTransaction(BaseModel):
     capital-gain analysis. country is intentionally NOT a column here — join it from
     sgx_reit_property by property_name (kept in raw for divested/subsequent-event cases)."""
     transaction_type: Optional[str] = Field(
-        None, description="'acquisition' | 'divestment'. Aliases: type.")
+        None, description="'acquisition' | 'divestment' | 'announced_divestment' | "
+        "'partial_divestment' | 'divestment_terminated'. Aliases: type.")
+    status: Optional[str] = Field(
+        None, description="lifecycle: completed | announced | terminated. The loader derives this "
+        "from transaction_type (announced_/terminated) or an explicit status "
+        "(pending/subsequent_event -> announced) so realized-gain views can filter cleanly.")
     property_name: Optional[str] = None
     transaction_date: Optional[str] = Field(
         None, description="completion/effective date of the deal, YYYY-MM-DD. Aliases: date, "
@@ -437,25 +442,44 @@ class PropertyTransaction(BaseModel):
         None, description="ACQUISITION consideration paid. Aliases (when type=acquisition): "
         "price, acquisition_price, purchase_consideration, transaction_price, consideration, "
         "consideration_sgd, amount. Often not disclosed per-deal (~20%).")
-    net_proceeds: Optional[float] = Field(
-        None, description="DIVESTMENT consideration received. Aliases (when type=divestment): "
-        "sale_consideration, sale_price, divestment_price, consideration, consideration_sgd, "
-        "net_consideration_usd, amount. Often not disclosed per-deal (~30%).")
+    gross_sale_price: Optional[float] = Field(
+        None, description="DIVESTMENT gross sale price / consideration (transaction costs NOT "
+        "deducted). Aliases (when type=divestment): sale_price, sale_consideration, price, "
+        "consideration, divestment_price, consideration_sgd, amount. Phase-1 split (2026-07-01): "
+        "kept DISTINCT from net_sale_proceeds because 10 divestments disclose both.")
+    net_sale_proceeds: Optional[float] = Field(
+        None, description="DIVESTMENT proceeds NET of transaction costs. Aliases: net_proceeds, "
+        "net_consideration_usd. The AR rarely discloses per-deal costs, so this is populated on "
+        "only ~13 rows; gross_sale_price is the common case.")
     carrying_value: Optional[float] = Field(
         None, description="book value just before divestment (basis for gain). Alias: carrying_value_pre.")
     gain_on_divestment: Optional[float] = Field(
-        None, description="realized gain = net_proceeds - carrying_value (gain vs BOOK, not vs "
-        "original cost). Aliases: gain, gain_on_disposal, gain_loss, divestment_gain, net_gain.")
+        None, description="realized gain = (net_sale_proceeds or gross_sale_price) - carrying_value "
+        "(gain vs BOOK, not vs original cost). Aliases: gain, gain_on_disposal, gain_loss, "
+        "divestment_gain, net_gain.")
     valuation: Optional[float] = Field(
         None, description="independent appraised value at the deal (benchmark vs the transacted "
-        "price; distinct from net_proceeds/purchase_price). Phase-B column. Aliases: appraised_value, "
+        "price; distinct from the sale/purchase figures). Phase-B column. Aliases: appraised_value, "
         "agreed_value, valuation_at_acquisition, gross_valuation_usd.")
+    interest_pct: Optional[float] = Field(
+        None, description="% ownership interest acquired/divested for partial or NCI deals. "
+        "Aliases: interest_acquired_pct, interest_acquired, interest_divested.")
+    # per-figure currency (Phase-1 2026-07-01): 14 rows mix >=2 currencies across figures.
+    # Each defaults to the row `currency` when the AR didn't tag the figure separately.
+    purchase_price_currency: Optional[str] = None
+    gross_sale_price_currency: Optional[str] = Field(None, description="Aliases: sale_price_currency, consideration_currency.")
+    net_sale_proceeds_currency: Optional[str] = Field(None, description="Alias: net_proceeds_currency.")
+    carrying_value_currency: Optional[str] = None
+    gain_currency: Optional[str] = Field(None, description="Alias: gain_on_divestment_currency.")
+    valuation_currency: Optional[str] = None
+    # per-figure provenance text, promoted from raw (carrying_value_basis populated on 62/95 rows).
+    carrying_value_basis: Optional[str] = None
+    gain_on_divestment_basis: Optional[str] = None
+    net_proceeds_basis: Optional[str] = None
     counterparty: Optional[str] = Field(
         None, description="buyer (divestment) or seller (acquisition). Phase-B column. "
         "Aliases: buyer, purchaser, seller, vendor.")
-    status: Optional[str] = Field(
-        None, description="e.g. completed | pending | subsequent_event (declared after year-end).")
-    currency: Optional[str] = Field(None, description="reporting currency of the monetary fields.")
+    currency: Optional[str] = Field(None, description="row-level presentation currency; default for untagged per-figure currencies.")
     source_page: Optional[int] = None
 
 

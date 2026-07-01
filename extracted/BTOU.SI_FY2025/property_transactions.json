@@ -10,6 +10,8 @@
     "gross_valuation_usd": 43700000.0,
     "buyer": "500 Plaza Ground Lessor LLC",
     "currency": "USD",
+    "carrying_value": 43700000.0,
+    "carrying_value_basis": "Note 6: classified as asset held for sale at 31 Dec 2024 at 'carrying amount of US$43.7 million' (reclassification (43,700)). Verified 2026-06-30.",
     "source_page": 25
   },
   {
@@ -23,6 +25,8 @@
     "gross_valuation_usd": 133400000.0,
     "buyer": "SSC VII INVESTOR, LLC",
     "currency": "USD",
+    "carrying_value": 125366000.0,
+    "carrying_value_basis": "Note 6 investment-property movement: 'Disposal of investment properties (125,366)' for 2025; Plaza had already exited via held-for-sale in 2024, so this disposal line is Peachtree's carrying amount. Verified 2026-06-30.",
     "source_page": 25
   }
 ]

@@ -7,6 +7,10 @@
       "reason": "Hospitality trust: size metric is rooms/keys, not lettable/floor area. Each hotel reports number of rooms (kept in properties._rooms), not GLA/NLA/GFA."
     },
     {
+      "column": "properties.purchase_price",
+      "reason": "No per-property purchase price / acquisition cost disclosed. Hotels carried at fair value (HVS valuation, 31 Dec 2025). The Portfolio List (p14-17) discloses only per-hotel valuation and revenue, with no cost column. PPE Note 5 (p126-128) and investment-properties Note 4 (p125) disclose only AGGREGATE cost/valuation roll-forwards at ACRO-BT/ACRO-REIT/Stapled-Group level (e.g. ACRO-BT land & buildings, FF&E 'at cost'), never a per-property original cost. No acquisition-history table for the existing portfolio."
+    },
+    {
       "column": "properties.net_property_income",
       "reason": "Per-property NPI not disclosed. NPI is only at Stapled-Group level (US$37.1m). Operating segment note (p146+) reports a single segment."
     },

@@ -5,6 +5,10 @@
       "reason": "One Raffles Quay, MBFC Properties, Southgate Complex and Nova Properties are equity-accounted joint ventures. The report discloses only their 'Net Income Contribution' to Suntec REIT (share of profit excl. FV + JV loan interest income) - a below-NPI figure - not property-level gross revenue / NPI. Recorded in each property's flag, left null for NPI/GR."
     },
     {
+      "column": "properties.purchase_price",
+      "reason": "Suntec City Mall, Suntec City Office Towers and Suntec Singapore Convention & Exhibition Centre have no per-property purchase price disclosed. The Suntec City property card (p28) reports only a single BLENDED Purchase Price of $2,305.3 million covering all three (note 3: includes the 66.3% interest in Suntec Singapore and the Suntec City Office strata units); the audited Portfolio Statement (p113) and investment-properties note (Note 6) disclose carrying value only, not cost. Blended price must not be split per-property, so left null for these three. All other properties carry their individually-disclosed card Purchase Price (cards p33-p50)."
+    },
+    {
       "column": "properties.gla / gfa",
       "reason": "Cards disclose Net Lettable Area (NLA) only, not GLA or GFA; NLA captured in nla."
     },

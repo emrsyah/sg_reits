@@ -55,6 +55,10 @@
     {
       "column": "properties.major_tenants",
       "reason": "Per-property tenant lists are not tabulated; only a portfolio-level Top Ten Tenants by GRI is disclosed (captured in top_tenants)."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "VivoCity has no disclosed purchase/acquisition price: it was MPACT's founding IPO asset. Both the property card (Purchase Price row, p47/p2223) and the audited Portfolio Statement (Acquisition date, p116) state 'N.A.', with footnote 'Not applicable as VivoCity was owned by MPACT prior to Listing Date' (p2242, p5701). All other 17 active properties have disclosed purchase prices; VivoCity is the sole exception."
     }
   ],
   "data_with_no_home": [

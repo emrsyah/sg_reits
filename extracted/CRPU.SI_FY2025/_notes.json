@@ -11,6 +11,10 @@
     {
       "column": "properties.gla",
       "reason": "Cards disclose Gross Floor Area (GFA) and Net Lettable Area (NLA), not a separate 'gross lettable area' (GLA). GFA -> gfa, NLA -> nla; gla left null to avoid coercion."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "No per-property purchase price / acquisition cost / original cost is disclosed for the 4 IPO outlet malls. The Statement of Portfolio (page 159) has only Valuation columns (RMB'000 and S$'000 for FY2025/FY2024) — no cost/acquisition-price column. Note 4 Investment Properties (page 172) presents only a fair-value movement schedule (opening carrying amount + capex + FV change + FX) with an aggregate carrying amount of S$1,536,271,000, not a per-property historical cost. FY2025 had no acquisitions/divestments (no acquisition fee paid, page 162). Properties are held at fair value under RAP 7, so original IPO cost is not surfaced per asset."
     }
   ],
   "data_with_no_home": [

@@ -93,6 +93,8 @@
     "source_page": 129,
     "sale_consideration": 23000000,
     "valuation": 22000000,
+    "carrying_value": 22000000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): 31 Dec 2024 comparative column of the Investment Properties Portfolio Statement (p120); 2025 column shows '–' (derecognised). Aggregate validated vs Note 4 'Disposal of investment properties (465,218)' (p156). Recovered 2026-06-30.",
     "counterparty": "Tekscend Photomask Singapore Pte. Ltd.",
     "currency": "SGD",
     "deal_source_page": 32
@@ -107,6 +109,8 @@
     "source_page": 129,
     "sale_consideration": 30000000,
     "valuation": 29500000,
+    "carrying_value": 29500000,
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p120). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 31 Ubi Sub-Trust",
     "currency": "SGD",
     "deal_source_page": 32
@@ -121,6 +125,8 @@
     "source_page": 129,
     "sale_consideration": 84500000,
     "valuation": 79700000,
+    "carrying_value": 79700000,
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p120). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 10 Toh Guan Sub-Trust",
     "currency": "SGD",
     "deal_source_page": 32
@@ -135,6 +141,8 @@
     "source_page": 129,
     "sale_consideration": 51500000,
     "valuation": 47500000,
+    "carrying_value": 47500000,
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p121). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 9 Changi Sub-Trust",
     "currency": "SGD",
     "deal_source_page": 32
@@ -149,6 +157,8 @@
     "source_page": 129,
     "sale_consideration": 140000000,
     "valuation": 132600000,
+    "carrying_value": 132600000,
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p121). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 19 & 21 Pandan Sub-Trust",
     "currency": "SGD",
     "deal_source_page": 32
@@ -163,6 +173,9 @@
     "source_page": 130,
     "sale_consideration": 90000000,
     "valuation": 82200000,
+    "carrying_value": 80643000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p123): S$80,643k (orig A$93,000k). Recovered 2026-06-30.",
     "counterparty": "CDIT No 6 Pty Ltd ATF Cadence Direct Industrial Trust No 6 Sub Trust",
     "currency": "SGD",
     "deal_source_page": 32
@@ -177,6 +190,9 @@
     "source_page": 130,
     "sale_consideration": 52500000,
     "valuation": 46600000,
+    "carrying_value": 48273000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p124): S$48,273k (orig GBP 28,500k). Recovered 2026-06-30.",
     "counterparty": "Howden Joinery Limited",
     "currency": "SGD",
     "deal_source_page": 32
@@ -191,6 +207,9 @@
     "source_page": 130,
     "sale_consideration": 26500000,
     "valuation": 18300000,
+    "carrying_value": 18251000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p127): S$18,251k (orig USD 13,600k). Recovered 2026-06-30.",
     "counterparty": "Tualatin Hills Park & Recreation District",
     "currency": "SGD",
     "deal_source_page": 32
@@ -205,6 +224,9 @@
     "source_page": 130,
     "sale_consideration": 8500000,
     "valuation": 7700000,
+    "carrying_value": 7381000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p127): S$7,381k (orig USD 5,500k). Recovered 2026-06-30.",
     "counterparty": "Madrona SW Nimbus LLC",
     "currency": "SGD",
     "deal_source_page": 32

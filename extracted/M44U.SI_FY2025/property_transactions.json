@@ -12,6 +12,8 @@
     "valuation_currency": "SGD",
     "sale_price": 10500000,
     "sale_price_currency": "SGD",
+    "carrying_value": 9500000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p124). Recovered 2026-06-30. On-book carrying; differs from the divestment-table 'valuation' field.",
     "valuation_date": "2024-01-01",
     "valuer": "Jones Lang LaSalle Property Consultants Pte. Ltd.",
     "counterparty": "Koh Khang Hin Pte. Ltd.",
@@ -30,6 +32,8 @@
     "valuation_currency": "SGD",
     "sale_price": 13800000,
     "sale_price_currency": "SGD",
+    "carrying_value": 10300000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p124). Recovered 2026-06-30.",
     "valuation_date": "2023-12-15",
     "valuer": "Jones Lang LaSalle Property Consultants Pte. Ltd.",
     "counterparty": "Topzone E&C Pte. Ltd.",
@@ -42,8 +46,13 @@
     "property_name": "Kenyon",
     "country": "Singapore",
     "completion_date": "2023-09-08",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24) named in FY2025; figures recovered from FY2024 AR.",
+    "source_page": 173,
+    "sale_price": 27800000,
+    "sale_price_currency": "SGD",
+    "carrying_value": 23700000,
+    "carrying_value_basis": "FY2024 AR: sale price S$27.8m (Divestments table p48); carrying = 31/03/2023 portfolio valuation S$23,700k (p124 ftnt n). Recovered 2026-06-30. NOTE: prior-year (FY23/24) divestment — review whether it belongs as an FY2025 row.",
+    "counterparty": "Kenyon Pte Ltd (= property 8 Loyang Crescent; labelled by buyer name in FY2025)"
   },
   {
     "symbol": "M44U.SI",
@@ -52,8 +61,12 @@
     "property_name": "Pioneer Districentre",
     "country": "Singapore",
     "completion_date": "2023-12-08",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24) named in FY2025; figures recovered from FY2024 AR.",
+    "source_page": 173,
+    "sale_price": 11100000,
+    "sale_price_currency": "SGD",
+    "carrying_value": 9600000,
+    "carrying_value_basis": "FY2024 AR: sale price S$11.1m (Divestments table p48); carrying = 31/03/2023 portfolio valuation S$9,600k (p124 ftnt o). Recovered 2026-06-30. NOTE: prior-year (FY23/24) divestment."
   },
   {
     "symbol": "M44U.SI",
@@ -62,8 +75,12 @@
     "property_name": "73 Tuas South Avenue 1",
     "country": "Singapore",
     "completion_date": "2024-02-19",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24) named in FY2025; figures recovered from FY2024 AR.",
+    "source_page": 173,
+    "sale_price": 16800000,
+    "sale_price_currency": "SGD",
+    "carrying_value": 15200000,
+    "carrying_value_basis": "FY2024 AR: sale price S$16.8m (Divestments table p48); carrying = 31/03/2023 portfolio valuation S$15,200k (p124 ftnt p). Recovered 2026-06-30. NOTE: prior-year (FY23/24) divestment."
   },
   {
     "symbol": "M44U.SI",
@@ -74,6 +91,10 @@
     "completion_date": "2024-11-15",
     "notes": "Divested per footnote (o) page 173; sale price, valuation, buyer & valuer from FY24/25 Divestments table (page 48). SGD and local-currency figures both as-disclosed.",
     "source_page": 173,
+    "carrying_value": 13084000,
+    "gain_on_divestment": 515000,
+    "net_proceeds": 12877000,
+    "txn_basis": "Subsidiary disposal (Note 11, p191/193): explicitly 'carrying value of S$13,084,000'; 'Gain on divestment of subsidiary, net of divestment costs 515'; 'Net cash inflow on disposal 12,877'. Verified 2026-06-30.",
     "valuation": 13000000,
     "valuation_currency": "SGD",
     "sale_price": 13100000,
@@ -99,6 +120,8 @@
     "valuation_currency": "SGD",
     "sale_price": 21200000,
     "sale_price_currency": "SGD",
+    "carrying_value": 20014000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p144). Recovered 2026-06-30. FX caveat: SGD carrying at balance-date FX vs SGD sale at deal-date FX.",
     "valuation_local": 2220000000,
     "sale_price_local": 2425000000,
     "local_currency": "JPY",
@@ -120,6 +143,8 @@
     "valuation_currency": "SGD",
     "sale_price": 16000000,
     "sale_price_currency": "SGD",
+    "carrying_value": 15326000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p146). Recovered 2026-06-30. FX caveat.",
     "valuation_local": 1700000000,
     "sale_price_local": 1825000000,
     "local_currency": "JPY",
@@ -135,8 +160,14 @@
     "property_name": "Moriya Centre",
     "country": "Japan",
     "completion_date": "2023-09-26",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24) named in FY2025; figures recovered from FY2024 AR.",
+    "source_page": 173,
+    "sale_price": 92200000,
+    "sale_price_currency": "SGD",
+    "sale_price_local": 10030000000,
+    "local_currency": "JPY",
+    "carrying_value": 89776000,
+    "carrying_value_basis": "FY2024 AR: sale price JPY10,030m (S$92.2m, Divestments table p48); carrying = 31/03/2023 portfolio valuation S$89,776k (p146 ftnt t). Recovered 2026-06-30. NOTE: prior-year (FY23/24) divestment; FX caveat."
   },
   {
     "symbol": "M44U.SI",
@@ -151,6 +182,8 @@
     "valuation_currency": "SGD",
     "sale_price": 7500000,
     "sale_price_currency": "SGD",
+    "carrying_value": 6755000,
+    "carrying_value_basis": "Prior-FY carrying (fair-value model): FY2024 AR last individual valuation 31/03/2023 col (p152 ftnt v) — already held-for-sale at 31/03/2024 (combined only). One balance-date older. Recovered 2026-06-30. FX caveat.",
     "valuation_local": 22500000,
     "sale_price_local": 26100000,
     "local_currency": "MYR",
@@ -172,6 +205,8 @@
     "valuation_currency": "SGD",
     "sale_price": 38500000,
     "sale_price_currency": "SGD",
+    "carrying_value": 34973000,
+    "carrying_value_basis": "Prior-FY carrying (fair-value model): FY2024 AR last individual valuation 31/03/2023 col (p152 ftnt v) — already held-for-sale at 31/03/2024. One balance-date older. Recovered 2026-06-30. FX caveat.",
     "valuation_local": 116500000,
     "sale_price_local": 125100000,
     "local_currency": "MYR",
@@ -193,6 +228,8 @@
     "valuation_currency": "SGD",
     "sale_price": 13200000,
     "sale_price_currency": "SGD",
+    "carrying_value": 11937000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p150). Recovered 2026-06-30. FX caveat.",
     "valuation_local": 42000000,
     "sale_price_local": 43200000,
     "local_currency": "MYR",
@@ -214,6 +251,8 @@
     "valuation_currency": "SGD",
     "sale_price": 13000000,
     "sale_price_currency": "SGD",
+    "carrying_value": 11795000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p148). Recovered 2026-06-30. FX caveat.",
     "valuation_local": 41500000,
     "sale_price_local": 42300000,
     "local_currency": "MYR",
@@ -235,6 +274,8 @@
     "valuation_currency": "SGD",
     "sale_price": 21600000,
     "sale_price_currency": "SGD",
+    "carrying_value": 15916000,
+    "carrying_value_basis": "Prior-FY-end carrying (fair-value model): FY2024 AR portfolio statement 31/03/2024 valuation (p148). Recovered 2026-06-30. FX caveat.",
     "valuation_local": 56000000,
     "sale_price_local": 72000000,
     "local_currency": "MYR",
@@ -250,8 +291,10 @@
     "property_name": "Chee Wah",
     "country": "Malaysia",
     "completion_date": "2023-07-10",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24); sold as a PAIR with Subang 1 to Sigma Warehousing for a combined MYR50.2m (S$14.5m); per-property sale NOT separable.",
+    "source_page": 173,
+    "carrying_value": 6618000,
+    "carrying_value_basis": "Last individual disclosure: FY2023 AR portfolio 31/03/2022 valuation S$6,618k (p190); at 31/03/2023 only combined held-for-sale S$14,956k for the Chee Wah + Subang 1 pair. Recovered 2026-06-30. Per-property sale/gain NOT_RECOVERABLE (combined pair). NOTE: prior-year divestment; carrying one balance-date older."
   },
   {
     "symbol": "M44U.SI",
@@ -260,8 +303,10 @@
     "property_name": "Subang 1",
     "country": "Malaysia",
     "completion_date": "2023-07-13",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24); sold as a PAIR with Chee Wah to Sigma Warehousing for a combined MYR50.2m (S$14.5m); per-property sale NOT separable.",
+    "source_page": 173,
+    "carrying_value": 9265000,
+    "carrying_value_basis": "Last individual disclosure: FY2023 AR portfolio 31/03/2022 valuation S$9,265k (p190); at 31/03/2023 only combined held-for-sale S$14,956k for the Chee Wah + Subang 1 pair. Recovered 2026-06-30. Per-property sale/gain NOT_RECOVERABLE (combined pair). NOTE: prior-year divestment; carrying one balance-date older."
   },
   {
     "symbol": "M44U.SI",
@@ -270,7 +315,13 @@
     "property_name": "Century",
     "country": "Malaysia",
     "completion_date": "2023-11-06",
-    "notes": "Divested per footnote (o) page 173",
-    "source_page": 173
+    "notes": "Divested per footnote (o) page 173. PRIOR-YEAR deal (FY23/24) named in FY2025; figures recovered from FY2024 AR.",
+    "source_page": 173,
+    "sale_price": 17200000,
+    "sale_price_currency": "SGD",
+    "sale_price_local": 60000000,
+    "local_currency": "MYR",
+    "carrying_value": 15610000,
+    "carrying_value_basis": "FY2024 AR: sale price MYR60.0m (S$17.2m, Divestments table p48); carrying = 31/03/2023 portfolio valuation S$15,610k (p152 ftnt w). Recovered 2026-06-30. NOTE: prior-year (FY23/24) divestment; FX caveat."
   }
 ]

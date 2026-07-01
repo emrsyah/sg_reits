@@ -16,6 +16,10 @@
     {
       "column": "trade_mix (per-property)",
       "reason": "Per-property trade mix not disclosed; only portfolio-level trade mix by GRI is disclosed."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "Partial disclosure only. 15 legacy properties disclose a single 'Purchase Price in <year>' row in their property-card 'Property Information' tables (pages ~40-56); these are captured. The remaining 11 active/JV properties do NOT disclose a comparable single per-property purchase price: Bedok Mall, Asia Square Tower 2, CapitaSpring, CapitaGreen, CapitaSky, 100 Arthur Street, 66 Goulburn Street, Gallileo, Main Airport Center and ION Orchard have no purchase-price/acquisition-cost row in their cards or in the Portfolio Statement (p109); Westgate discloses only a staged/blended acquisition (footnotes p47: greenfield development site land acquired 2011 at S$969.0m, of which S$758.3m retail; balance 70% of Infinity Mall Trust acquired 1 Nov 2018 at agreed property value S$1,128.0m / 70% interest S$789.6m) — no clean single purchase price. No convert/split/invent per invariants; left null."
     }
   ],
   "data_with_no_home": [

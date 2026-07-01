@@ -11,6 +11,10 @@
     {
       "column": "properties.major_tenants",
       "reason": "Not disclosed per property; only portfolio-level Top 10 tenants (p33)."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "3 active properties remain null because the disclosed 'Purchase Price' column in the Property Portfolio Overview Detailed Property Information tables shows an explicit '-' (dash) for them, i.e. no original purchase price is disclosed: Mapletree Sunview 1 (Data Centre table, p47, dash alongside valuation S$74,600k); 30A Kallang Place (Hi-Tech Buildings table, p49, dash alongside valuation S$96,400k); K&S Corporate Headquarters (Hi-Tech Buildings table, p49, dash alongside valuation S$72,800k). These are legacy IPO/original-portfolio and development-derived assets with no separately disclosed acquisition cost; the audited Portfolio Statement (p132-145) has no purchase-price column at all. Not fillable without inventing/inferring a cost."
     }
   ],
   "data_with_no_home": [

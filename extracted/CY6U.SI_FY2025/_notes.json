@@ -17,6 +17,10 @@
       "reason": "Tenants are disclosed only at portfolio level (Top 10 Tenants table, p41); no per-property tenant breakdown is given."
     },
     {
+      "column": "properties.purchase_price",
+      "reason": "Per-property 'Purchase price' is disclosed on the property cards (p44-50) for the existing portfolio and captured for 13 rows. NOT disclosed for 3 active/divested rows: (1) CapitaLand Data Centre ITPB — card shows 'Purchase price: –' (p50, footnote 22: development on hold; DC sits on land within ITPB already counted in the ITPB card); (2) CyberVale and (3) CyberPearl — divested 29 Sep 2025, no property cards; only a COMBINED divestment consideration INR 11.0b / S$161.7m is given (a sale price, not an acquisition cost), so no per-property purchase price exists to record."
+    },
+    {
       "column": "performance.wale",
       "reason": "No single weighted-average-lease-expiry (years) figure disclosed; only a lease-expiry profile by rental revenue and city (p40)."
     },

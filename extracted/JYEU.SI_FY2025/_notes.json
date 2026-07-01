@@ -11,6 +11,10 @@
     {
       "column": "properties.trade_mix",
       "reason": "Per-property trade mix disclosed only for 313@somerset and Jem as donut charts (pp29,31); not captured per-property into the {category:pct} field — portfolio-level trade_mix used instead."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "Purchase price disclosed only for the three core operating assets in the Property Summary key-statistics cards: Jem S$2,079.0m (p28), 313@somerset S$1,003.0m (p31), Sky Complex €262.5m (p32, cost in EUR — stored with purchase_price_currency=EUR, not converted). NOT disclosed for the Multifunctional Event Space development site (only site/GFA and carrying value given, no acquisition/purchase price) nor for Parkway Parade (10% equity-accounted associate via PPP, no per-property purchase price; only investment-in-associates carrying value S$4,130k, note 7 p112). Those two remain null."
     }
   ],
   "data_with_no_home": [

@@ -27,7 +27,11 @@
     "source_page": 9,
     "counterparty": "Lion (Singapore) Pte. Limited (wholly-owned subsidiary of Frasers Property Limited)",
     "sale_consideration": 34500000,
+    "net_proceeds": 34128000,
+    "net_proceeds_basis": "Derived net-of-cost proceeds = carrying_value 34,000,000 + disclosed net gain 128,000 (FS p199); reconciles the $128k 'net gain on divestment' against the $34.5m gross consideration (implied costs ~$372k). Gross sale price 34,500,000 kept in sale_consideration. Added 2026-07-01.",
     "gain_on_divestment": 128000,
-    "valuation": 34500000
+    "valuation": 34500000,
+    "carrying_value": 34000000,
+    "carrying_value_basis": "Investment-property movement note: 'Disposal (34,000)'; FY-end carrying value $34.0m (p199). Verified 2026-06-30."
   }
 ]

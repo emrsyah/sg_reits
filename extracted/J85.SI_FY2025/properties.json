@@ -363,9 +363,16 @@
         "type": "segment_aggregated_npi",
         "scope": "net_property_income",
         "note": "Retail units reported within Hotel Indigo Exeter combined GR S$9,395k / NPI S$1,540k (managed property, p28); not split between hotel and retail units."
+      },
+      {
+        "type": "purchase_price_note",
+        "scope": "purchase_price",
+        "note": "Standalone cash consideration for the two Retail Units disclosed separately in Note 29 Acquisitions (p299): £4.0 million (S$6.9m; consideration transferred S$6,833k in the acquisition cash-flow table). Distinct from the blended £19.4m Purchase Price shown for Hotel Indigo Exeter (hotel + 2 retail units) in the property particulars (p86/213)."
       }
     ],
-    "source_page": 213
+    "source_page": 213,
+    "purchase_price": 4000000,
+    "purchase_price_currency": "GBP"
   },
   {
     "symbol": "J85.SI",
@@ -628,7 +635,7 @@
       {
         "type": "purchase_price_note",
         "scope": "purchase_price",
-        "note": "Purchase price of GBP19.4m covers the hotel and two retail units combined (p214 note 1); not split. The separate 'Hotel Indigo Exeter (retail units)' record has no standalone disclosed cost."
+        "note": "Purchase price of GBP19.4m covers the hotel and two retail units combined (p214 note 1); not split. The separate 'Hotel Indigo Exeter (retail units)' record carries its own standalone disclosed cash consideration of GBP4.0m per Note 29 Acquisitions (p299)."
       }
     ],
     "source_page": 214,

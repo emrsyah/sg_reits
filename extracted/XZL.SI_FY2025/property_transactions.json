@@ -10,6 +10,10 @@
     "agreement_date": "2025-06-04",
     "completion_date": "2025-09-10",
     "source_page": 11,
+    "carrying_value": 6208000,
+    "carrying_value_basis": "Note 11 assets-held-for-sale roll-forward: 'Sale completed during the financial year (6,208)' (Stapled Group; 5,980 ACRO-REIT). Sole FY2025 completed sale. Verified 2026-06-30.",
+    "gain_on_divestment": -127000,
+    "gain_on_divestment_basis": "Net loss on disposition of PP&E US$(127)k (ACRO-BT Group level; '-' at Stapled level due to consolidation). Verified 2026-06-30.",
     "note": "Divested in FY2025; absent from the 32-hotel year-end portfolio. Partial-year P&L included in Stapled Group total.",
     "counterparty": "AHM Hospitality LLC"
   },
@@ -26,7 +30,9 @@
     "source_page": 22,
     "note": "Subsequent event; held at 31 Dec 2025, sale completed post year-end. Independent valuation US$10.3m as of 31 Jul 2025.",
     "counterparty": "NJA Management Group LLC",
-    "valuation": 10300000
+    "valuation": 10300000,
+    "carrying_value": 10300000,
+    "carrying_value_basis": "Year-end carrying = fair value: held at 31 Dec 2025 (1 of 32 hotels stated at fair value; portfolio list p16, 'Valuation as at 31 December 2025' US$10.3m). Sale completed FY2026 (11 Mar 2026), so no FY2025 gain recognised. Recovered 2026-06-30."
   },
   {
     "symbol": "XZL.SI",

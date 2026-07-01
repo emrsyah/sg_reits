@@ -27,6 +27,10 @@
     {
       "column": "property.effective_date",
       "reason": "Land-lease start date not disclosed per property; only term and remaining term given in the Portfolio Statement"
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "Two active Business Park rows ('6/8 Changi Business Park Avenue 1' and '2/4 Changi Business Park Avenue 1') cannot be filled individually: the property-particulars purchase-price table (p71) discloses only ONE blended acquisition cost of S$531.0m for the combined 'ESR BizPark @ Changi' asset (6 & 8 Changi Business Park Avenue 1 (Business Park) + 2 & 4 Changi Business Park Avenue 1 (Hotel), acquired 15 October 2018 as a single combined row, blended valuation 422.8 / occupancy 61.6%). No per-property split is disclosed; NEVER split a blended price."
     }
   ],
   "data_with_no_home": [

@@ -69,6 +69,13 @@
       "value": "not_disclosed_rollforward_only",
       "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
       "source_page": 28
+    },
+    {
+      "table": "properties",
+      "field": "market_valuation",
+      "value": "audited FS carrying value (incl. right-of-use asset for leasehold)",
+      "basis": "RECONCILIATION (verified 2026-06-23, NOT an error): market_valuation uses the AUDITED Portfolio Statement carrying value (p~5113). For leasehold properties footnoted (c)='Includes right-of-use asset' (p5322), this carrying value EXCEEDS the independent property valuation shown in the front-of-book 'Property profile' table (PAGE 50-57). E.g. 1 Burilda Close, Wetherill Park: FS carrying 102,011 vs profile valuation A$/S$78.9m. Systematic across all (c) leasehold assets (Wetherill Park, Melbourne Airport, Port Kembla, ...); all FREEHOLD assets reconcile exactly between the two tables. Stored value is correct per schema definition (audited carrying value); the gap is the ROU leasehold-land component, not an extraction error.",
+      "source_page": 5322
     }
   ],
   "inferred": [

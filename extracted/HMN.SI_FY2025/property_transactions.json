@@ -14,6 +14,10 @@
     "source_page": 10,
     "valuation": 75500000,
     "net_proceeds": 64500000,
+    "carrying_value": 51316000,
+    "carrying_value_basis": "Note 14 assets-held-for-sale: Somerset Olympic Tower Tianjin investment property 51,316 (disposal-group total 66,531) at 31 Dec 2024 (p196). Verified 2026-06-30.",
+    "gain_on_divestment": 17027000,
+    "gain_on_divestment_basis": "Note 28: 'Gain/(loss) on divestment of assets held for sale 17,027'; sole held-for-sale divestment in 2025 (p217). Verified 2026-06-30.",
     "counterparty": "Tianjin Yuchuang Consulting Co. Ltd",
     "counterparty_source_page": 196
   },
@@ -30,7 +34,11 @@
     "currency_local": "JPY",
     "note": "Divested 2 October 2025 for JPY25.0 billion (S$222.7 million equivalent). FY2024 audited value was 108,647 $'000; divested at significant premium to book. Profit contributed to S$99,038 $'000 divestment gain (p114). FS Note (p217) discloses net divestment consideration of S$210.3m (vs headline JPY25.0bn / S$222.7m on p10). Property contributed S$4,556k profit after tax from 1 Jan 2025 to disposal date. Buyer not named in report.",
     "source_page": 10,
-    "net_proceeds": 210300000
+    "net_proceeds": 210300000,
+    "gain_on_divestment": 82011000,
+    "gain_on_divestment_basis": "Note 28: 'Gain on disposal of investment properties 82,011'; sole investment-property divestment in 2025 (p217). Verified 2026-06-30.",
+    "carrying_value": 128289000,
+    "carrying_value_basis": "DERIVED: net_proceeds 210,300 - gain 82,011 = 128,289 (no standalone per-property carrying line disclosed). Verified 2026-06-30."
   },
   {
     "symbol": "HMN.SI",

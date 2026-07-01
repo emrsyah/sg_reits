@@ -85,6 +85,15 @@
       "source_page": 14
     }
   ],
+  "data_provenance_properties": [
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "scope": "all 11 active properties",
+      "basis": "Per-property 'Purchase Consideration based on ownership interest (US$ million)' from the portfolio-detail cards (p43-53), recorded in absolute USD (x1,000,000). BASIS NOTE: these purchase-consideration figures are at OWNERSHIP SHARE (same basis as property.alt_value / card valuation), whereas property.market_valuation is stored at 100% CONSOLIDATED value (Note 6, p182). Values: Hastings 286.2 (p43); Linton Hall 234.9 (p44); Devin Shafron 45.1 (p45); Lafayette 166.5 (p46); Space Park 101.7 (p47); Nash 64.0 (p48); Winona 52.0 (p49); Gough 183.0 (p50); Frankfurt 350.0 @65% (p51); Osaka 2 103.0 @20% (p52); Osaka 3 86.7 @20% (p53). Currency US$ = presentation currency; no purchase_price_currency needed.",
+      "source_page": "43-53"
+    }
+  ],
   "inferred": [
     {
       "table": "performance",

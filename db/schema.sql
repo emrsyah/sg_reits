@@ -133,26 +133,58 @@ create table if not exists sgx_reit_property_transaction (
   id uuid primary key default gen_random_uuid(),
   symbol text not null,
   financial_year int not null,
-  transaction_type text,                          -- divestment | acquisition (alias: type)
+  transaction_type text,                          -- divestment | acquisition | announced_divestment | partial_divestment | divestment_terminated (alias: type)
+  status text,                                     -- lifecycle: completed | announced | terminated (derived from transaction_type/explicit status). Repurposed 2026-07-01
   property_name text,
   transaction_date date,                          -- completion/effective date (aliases: date/completion_date/...). Added 2026-06-23
   description text,
-  carrying_value numeric,
-  net_proceeds numeric,                           -- divestment consideration received (aliases: sale_consideration/consideration/...)
+  -- money (Phase-1 un-conflation 2026-07-01): gross sale price and net-of-cost proceeds are
+  -- now DISTINCT columns (10 divestments disclose both; the old single net_proceeds dropped one).
+  purchase_price numeric,                          -- ACQUISITION consideration paid (aliases: price/consideration/amount)
+  gross_sale_price numeric,                        -- DIVESTMENT gross sale price / consideration, costs NOT deducted (aliases: sale_price/sale_consideration/price/consideration)
+  net_sale_proceeds numeric,                       -- DIVESTMENT proceeds net of transaction costs (aliases: net_proceeds/net_consideration_usd)
+  carrying_value numeric,                          -- book value just before divestment (basis for gain)
   gain_on_divestment numeric,
-  purchase_price numeric,                          -- acquisition consideration paid (aliases: price/consideration/amount)
   valuation numeric,                               -- independent appraised value at the deal (Phase-B). Added 2026-06-23
+  interest_pct numeric,                            -- % interest acquired/divested for partial/NCI deals. Added 2026-07-01
+  -- per-figure currency (Phase-1 2026-07-01): 14 rows mix >=2 currencies across figures
+  -- (357 Collins: AUD proceeds + SGD carrying). Each money figure carries its own currency;
+  -- falls back to the row `currency` when the AR didn't tag the figure separately.
+  purchase_price_currency text,
+  gross_sale_price_currency text,
+  net_sale_proceeds_currency text,
+  carrying_value_currency text,
+  gain_currency text,
+  valuation_currency text,
+  -- per-figure provenance text (Phase-1 2026-07-01): promoted from raw (carrying_value_basis on 62/95 rows)
+  carrying_value_basis text,
+  gain_on_divestment_basis text,
+  net_proceeds_basis text,
   counterparty text,                               -- buyer/seller (Phase-B). Added 2026-06-23
-  status text,                                     -- completed | pending | subsequent_event. Added 2026-06-23
-  currency text,
+  currency text,                                   -- row-level presentation currency (default for untagged figures)
   source_page int,
-  raw jsonb not null default '{}'                 -- full ORIGINAL object (audit trail; loader resolves aliases into the typed cols above)
+  raw jsonb not null default '{}'                 -- full ORIGINAL object (audit trail; loader resolves aliases into the typed cols above; *_local values kept here)
 );
 -- migrations (idempotent)
 alter table sgx_reit_property_transaction add column if not exists transaction_date date;
 alter table sgx_reit_property_transaction add column if not exists valuation numeric;
 alter table sgx_reit_property_transaction add column if not exists counterparty text;
 alter table sgx_reit_property_transaction add column if not exists status text;
+-- Phase-1 un-conflation (2026-07-01): split gross vs net, per-figure currency, promote basis fields
+alter table sgx_reit_property_transaction add column if not exists gross_sale_price numeric;
+alter table sgx_reit_property_transaction add column if not exists net_sale_proceeds numeric;
+alter table sgx_reit_property_transaction add column if not exists interest_pct numeric;
+alter table sgx_reit_property_transaction add column if not exists purchase_price_currency text;
+alter table sgx_reit_property_transaction add column if not exists gross_sale_price_currency text;
+alter table sgx_reit_property_transaction add column if not exists net_sale_proceeds_currency text;
+alter table sgx_reit_property_transaction add column if not exists carrying_value_currency text;
+alter table sgx_reit_property_transaction add column if not exists gain_currency text;
+alter table sgx_reit_property_transaction add column if not exists valuation_currency text;
+alter table sgx_reit_property_transaction add column if not exists carrying_value_basis text;
+alter table sgx_reit_property_transaction add column if not exists gain_on_divestment_basis text;
+alter table sgx_reit_property_transaction add column if not exists net_proceeds_basis text;
+-- old single money-in column superseded by gross_sale_price + net_sale_proceeds
+alter table sgx_reit_property_transaction drop column if exists net_proceeds;
 
 -- _notes.json -> own table (CONFIRMED 2026-06-19). One jsonb blob per (symbol, FY).
 create table if not exists sgx_reit_notes (

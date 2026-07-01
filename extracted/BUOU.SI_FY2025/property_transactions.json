@@ -31,6 +31,9 @@
     "sale_consideration": 192100000,
     "gain_on_divestment": 180000,
     "gain_currency": "SGD",
+    "carrying_value": 162052000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Note 10 investment-property movement: 'Disposal of investment properties (162,052)' (group accounts, SGD'000); 357 Collins was the only FY2025 IP divestment. Verified 2026-06-30.",
     "note": "Exit from Melbourne CBD office. Sold A$192.1m, 0.6% above A$191.0m independent valuation (Savills, 1 Jun 2025). Only investment-property divestment in FY2025, so the S$180,000 'Gain on divestment of investment property' in the Statement of Total Return (group accounts, S$'000) is attributable to this deal. Per-deal net proceeds not separately disclosed."
   },
   {

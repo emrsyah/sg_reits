@@ -44,34 +44,82 @@ def _num(v):
             return None
     return None
 
+def _pct(v):
+    """Parse a percent value -> float in percentage points (e.g. '20.2%' -> 20.2)."""
+    if isinstance(v, (int, float)):
+        return float(v)
+    if isinstance(v, str):
+        return _num(v.replace("%", ""))
+    return None
+
+def _derive_status(ttype_l, explicit):
+    """Lifecycle status (completed | announced | terminated) from the deal type / explicit status."""
+    if "terminated" in ttype_l:
+        return "terminated"
+    if "announced" in ttype_l:
+        return "announced"
+    if isinstance(explicit, str):
+        e = explicit.strip().lower()
+        if e in ("announced", "pending", "pending_completion", "subsequent_event"):
+            return "announced"
+        if e == "terminated":
+            return "terminated"
+        if e in ("completed", "divested", "done"):
+            return "completed"
+    return "completed"
+
 def txn_row(symbol, fy, r):
     ttype = _first(r, "transaction_type", "type")
     if isinstance(ttype, str):
         ttype = ttype.strip().lower()
-    acq, div = ttype == "acquisition", ttype == "divestment"
+    ttype_l = ttype or ""
+    # match divestment variants (announced_divestment / partial_divestment / ...), but a
+    # *terminated* deal never completed -> no proceeds resolved for it.
+    terminated = "terminated" in ttype_l
+    acq = ttype_l == "acquisition"
+    div = ("divestment" in ttype_l) and not terminated
+
+    # --- money: Phase-1 un-conflation (2026-07-01) ---
+    # gross sale price and net-of-cost proceeds are DISTINCT columns (10 divestments disclose both).
     purchase = _num(_first(r, "purchase_price", "acquisition_price", "purchase_consideration",
                            "transaction_price")) if acq else None
-    proceeds = _num(_first(r, "net_proceeds", "sale_consideration", "sale_price",
-                           "divestment_price", "net_consideration_usd")) if div else None
+    gross = _num(_first(r, "sale_price", "sale_consideration", "divestment_price")) if div else None
+    net = _num(_first(r, "net_proceeds", "net_consideration_usd")) if div else None
     amb = _num(_first(r, "consideration", "consideration_sgd", "price", "amount"))  # type-ambiguous
     if amb is not None:
         if acq and purchase is None:   purchase = amb
-        elif div and proceeds is None: proceeds = amb
+        elif div and gross is None:    gross = amb   # bare consideration/price = gross sale price
+    row_ccy = _first(r, "currency", "currency_local")
+
+    def ccy(*aliases):  # per-figure currency, falling back to the row presentation currency
+        return _first(r, *aliases) or row_ccy
+
     return (
-        symbol, fy, ttype, r.get("property_name"),
+        symbol, fy, ttype, _derive_status(ttype_l, _first(r, "status")),
+        r.get("property_name"),
         d(_first(r, "transaction_date", "date", "completion_date", "completed_date",
                  "agreement_date", "announced_date", "announcement_date")),
         _first(r, "description", "notes", "note", "detail"),
+        purchase, gross, net,
         _num(_first(r, "carrying_value", "carrying_value_pre")),
-        proceeds,
         _num(_first(r, "gain_on_divestment", "gain", "gain_on_disposal", "gain_loss",
                     "divestment_gain", "net_gain")),
-        purchase,
         _num(_first(r, "valuation", "appraised_value", "agreed_value",
                     "valuation_at_acquisition", "gross_valuation_usd")),
+        _pct(_first(r, "interest_acquired_pct", "interest_acquired", "interest_divested")),
+        # per-figure currency
+        ccy("purchase_price_currency", "consideration_currency") if acq else _first(r, "purchase_price_currency"),
+        ccy("sale_price_currency", "consideration_currency") if div else _first(r, "sale_price_currency"),
+        ccy("net_proceeds_currency") if net is not None else _first(r, "net_proceeds_currency"),
+        ccy("carrying_value_currency") if _num(_first(r, "carrying_value", "carrying_value_pre")) is not None else _first(r, "carrying_value_currency"),
+        ccy("gain_currency", "gain_on_divestment_currency") if _first(r, "gain_on_divestment", "gain") is not None else _first(r, "gain_currency", "gain_on_divestment_currency"),
+        ccy("valuation_currency") if _first(r, "valuation", "appraised_value") is not None else _first(r, "valuation_currency"),
+        # per-figure provenance text
+        _first(r, "carrying_value_basis"),
+        _first(r, "gain_on_divestment_basis"),
+        _first(r, "net_proceeds_basis"),
         _first(r, "counterparty", "buyer", "purchaser", "seller", "vendor"),
-        _first(r, "status"),
-        _first(r, "currency", "consideration_currency", "valuation_currency", "currency_local"),
+        row_ccy,
         r.get("source_page"), J(r),
     )
 
@@ -192,9 +240,13 @@ def load_one(cur, dirpath):
 
     n_txn = reload_list("sgx_reit_property_transaction", "property_transactions.json",
         lambda r: txn_row(symbol, fy, r),
-        ["symbol","financial_year","transaction_type","property_name","transaction_date",
-         "description","carrying_value","net_proceeds","gain_on_divestment","purchase_price",
-         "valuation","counterparty","status","currency","source_page","raw"])
+        ["symbol","financial_year","transaction_type","status","property_name","transaction_date",
+         "description","purchase_price","gross_sale_price","net_sale_proceeds","carrying_value",
+         "gain_on_divestment","valuation","interest_pct",
+         "purchase_price_currency","gross_sale_price_currency","net_sale_proceeds_currency",
+         "carrying_value_currency","gain_currency","valuation_currency",
+         "carrying_value_basis","gain_on_divestment_basis","net_proceeds_basis",
+         "counterparty","currency","source_page","raw"])
 
     print(f"  {symbol} FY{fy}: properties={n_prop} top_tenants={n_tt} trade_mix={n_tm} txn={n_txn}")
 

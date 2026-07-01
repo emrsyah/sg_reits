@@ -10,6 +10,8 @@
     "currency": "EUR",
     "net_proceeds": 24500000,
     "gain_on_divestment": -224000,
+    "carrying_value": 24724000,
+    "carrying_value_basis": "DERIVED: proceeds 24,500 + loss 224 = 24,724 (net assets/liabilities held for sale disposed as a package; no standalone property carrying line). Verified 2026-06-30.",
     "source_page": 178,
     "note": "Il·lumina was divested on 31 January 2024 for €24.5 million. The sale was agreed (conditional SPA) on 22 December 2023 with an unrelated third party (not named). This is a FY2024 transaction but listed here for audit trail since it appears in the FY2025 cash flow statement comparative period (p.178). Cash flow (FY2024 comparative) discloses 'Proceeds from disposal of assets/liabilities held for sale' €24,500k and 'Loss on disposal of assets/liabilities held for sale' €224k, both attributable to Il·lumina (the only held-for-sale asset). No FY2025 acquisitions or divestments occurred. Counterparty name and a separate independent deal valuation are not disclosed."
   }

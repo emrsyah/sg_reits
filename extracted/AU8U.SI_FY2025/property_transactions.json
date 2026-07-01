@@ -15,6 +15,10 @@
     "net_proceeds_currency": "SGD",
     "gain_on_divestment": -11988000,
     "gain_on_divestment_currency": "SGD",
+    "carrying_value": 144879000,
+    "carrying_value_currency": "SGD",
+    "carrying_value_basis": "Investment-properties line in subsidiary-disposal cash-flow Note B (p104). Subsidiary disposal: the S$(11,988)k loss (incl. realised FX) was struck against net assets disposed S$142,300k, not this IP carrying value. Verified 2026-06-30.",
+    "currency": "SGD",
     "note": "Loss on disposal mainly due to realisation of FX differences upon divestment; partial premium over Dec 2024 valuation of RMB785m. SPV holding the property sold. Partial-year P&L (1 Jan to 31 Oct 2025): Gross revenue S$4.0m, NPI S$2.5m included in FY2025 totals. Net cash inflow on divestment of subsidiary S$131,644k (cash flow Note B, p103-104); loss on disposal of subsidiaries S$(11,988)k (statement of total return, p95).",
     "source_page": 95
   }

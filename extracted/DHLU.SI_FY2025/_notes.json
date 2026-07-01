@@ -47,6 +47,10 @@
   ],
   "columns_never_fillable": [
     {
+      "column": "properties.purchase_price",
+      "reason": "No per-property purchase price / acquisition cost / original cost is disclosed for the standing portfolio. Property cards (pp28-46) and the Statement of Portfolio (p166) show only independent valuations, not cost. The only per-property acquisition price disclosed is for the FY2025 acquisition DPL Gunma Fujioka (purchase consideration JPY 3,990.0m, Operational Review + 'Acquisition Price vs Valuation' table p51) — now filled (purchase_price=3990000000 JPY). For D Project Tan Duc 2, only an S$23.3m cash consideration for the SPV (DHLMV) is disclosed (Note p193), with an allocated investment-property fair value on acquisition of S$27,022k (Note 9) — a blended/allocated fair value, not a clean property purchase price, so left null. The remaining 17 properties (listed portfolio since 2021 IPO and earlier acquisitions) have no disclosed cost anywhere in the AR."
+    },
+    {
       "column": "properties.gla",
       "reason": "DHLU is a logistics/industrial REIT; reports NLA (net lettable area in sqm) only. GLA is not disclosed for any property. All 19 properties use NLA as the area metric."
     },

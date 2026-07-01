@@ -6,6 +6,8 @@
     "detail": "Divestment of two strata units in Suntec City Office completed in FY2025; $15.4m of strata units divested at an average price 19.6% above book value to Nava Bharat (Singapore) Pte. Limited. Net proceeds from divestment of investment properties $30,554k; profit from divestments $4,798k (Group).",
     "amount": 15400000,
     "counterparty": "Nava Bharat (Singapore) Pte. Limited",
+    "carrying_value": 13126000,
+    "carrying_value_basis": "Note 6: 'investment property with a carrying value of $13,126,000 relating to the proposed divestment of one strata unit of Suntec City Office was reclassified to held for sale' (the $15.4m Nava Bharat unit). Per-unit gain not split (aggregate profit S$4,798k across two units). Verified 2026-06-30.",
     "valuation": 13100000,
     "valuation_currency": "SGD",
     "valuation_basis": "Per 31 December 2024 independent valuation report (rate of lettable floor area $/sqm x NLA of the divested strata unit; income capitalisation, DCF, direct comparison methods); $15.4m sale = 19.6% above book value (footnote 2, p9)",
