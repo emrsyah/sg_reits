@@ -101,7 +101,6 @@ erDiagram
     jsonb    major_tenants
     text     land_tenure
     text     status
-    numeric  divestment_price
     jsonb    flags
     int      source_page
   }
@@ -149,8 +148,8 @@ erDiagram
 
 > `sgx_reit_property` shows the key columns; it also carries `ownership`, `address`,
 > `valuation_date`, `currency`, `gla`, `nla`, `gfa`, `effective_date`, `lease_term_years`,
-> `lease_expiry_date`, `tenure_raw`, `trade_mix`. (`status` = active/divested/held_for_sale is the
-> divestment indicator; `divestment_price` holds the sale value when disclosed.) (`symbol` is part of the composite PK and the FK to `sgx_reit_profile.symbol`
+> `lease_expiry_date`, `tenure_raw`. (`status` = active/divested/held_for_sale is the
+> lifecycle indicator; sale/proceeds figures live in `sgx_reit_property_transaction`.) (`symbol` is part of the composite PK and the FK to `sgx_reit_profile.symbol`
 > — the FK links are the relationship lines above.)
 
 ## Conventions (important for the projection)

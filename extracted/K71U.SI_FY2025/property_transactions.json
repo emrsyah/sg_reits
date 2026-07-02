@@ -13,7 +13,9 @@
     "valuation": 337600000,
     "purchase_price": 334800000,
     "counterparty": "Bevillesta Pty Limited as trustee for the John Beville (Bankstown) Trust",
-    "counterparty_source_page": 62
+    "counterparty_source_page": 62,
+    "description": "Acquisition of a 75% effective interest in Top Ryde City Shopping Centre, a well-established freehold regional shopping centre in the City of Ryde, Sydney, Australia, for A$393.8 million from Bevillesta Pty Limited as trustee for the John Beville (Bankstown) Trust; completed 19 December 2025, marking Keppel REIT's first pure-play retail asset and strategic diversification into the retail segment.",
+    "description_source_page": 62
   },
   {
     "symbol": "K71U.SI",
@@ -28,6 +30,8 @@
     "note": "Raised aggregate interest in MBFC Tower 3 to two-third; equity-accounted JV via Central Boulevard Development Pte. Ltd. Vendor: Sageland Private Limited (p62). $1,453.0m is the agreed property value basis; no separate independent valuation distinct from the agreed property value was disclosed.",
     "source_page": 40,
     "counterparty": "Sageland Private Limited",
-    "counterparty_source_page": 62
+    "counterparty_source_page": 62,
+    "description": "Acquisition of an additional one-third interest in Marina Bay Financial Centre Tower 3, a premium Grade A office tower in the heart of Singapore's Central Business District, at an agreed property value of S$1,453.0 million, from Sageland Private Limited; completed 31 December 2025, raising Keppel REIT's aggregate interest in the asset to two-third.",
+    "description_source_page": 62
   }
 ]

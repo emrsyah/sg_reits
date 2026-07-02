@@ -13,6 +13,7 @@
     "currency": "SGD",
     "net_property_income": 75700000,
     "gross_revenue": null,
+    "npi_pct": 19.9,
     "occupancy_rate": 96.0,
     "major_tenants": [
       {
@@ -49,6 +50,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 1838600000,
     "purchase_price_currency": "SGD"
   },
@@ -66,6 +68,7 @@
     "currency": "SGD",
     "net_property_income": 27800000,
     "gross_revenue": null,
+    "npi_pct": 7.3,
     "occupancy_rate": 93.8,
     "major_tenants": [
       {
@@ -96,6 +99,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 657200000,
     "purchase_price_currency": "SGD"
   },
@@ -113,6 +117,7 @@
     "currency": "SGD",
     "net_property_income": 9900000,
     "gross_revenue": null,
+    "npi_pct": 2.6,
     "occupancy_rate": 98.0,
     "major_tenants": [
       {
@@ -149,6 +154,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 201300000,
     "purchase_price_currency": "SGD"
   },
@@ -166,6 +172,7 @@
     "currency": "SGD",
     "net_property_income": 23700000,
     "gross_revenue": null,
+    "npi_pct": 6.2,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -186,6 +193,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 350100000,
     "purchase_price_currency": "SGD"
   },
@@ -203,6 +211,7 @@
     "currency": "SGD",
     "net_property_income": 11900000,
     "gross_revenue": null,
+    "npi_pct": 3.2,
     "occupancy_rate": 92.0,
     "major_tenants": [
       {
@@ -233,6 +242,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 289900000,
     "purchase_price_currency": "SGD"
   },
@@ -250,6 +260,7 @@
     "currency": "SGD",
     "net_property_income": 14100000,
     "gross_revenue": null,
+    "npi_pct": 3.7,
     "occupancy_rate": 92.1,
     "major_tenants": [
       {
@@ -286,6 +297,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 316200000,
     "purchase_price_currency": "SGD"
   },
@@ -303,6 +315,7 @@
     "currency": "SGD",
     "net_property_income": 21100000,
     "gross_revenue": null,
+    "npi_pct": 5.5,
     "occupancy_rate": 97.1,
     "major_tenants": [
       {
@@ -339,6 +352,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 321000000,
     "purchase_price_currency": "SGD"
   },
@@ -356,6 +370,7 @@
     "currency": "SGD",
     "net_property_income": 700000,
     "gross_revenue": null,
+    "npi_pct": 0.2,
     "occupancy_rate": 96.1,
     "major_tenants": [
       {
@@ -392,6 +407,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 334800000,
     "purchase_price_currency": "SGD"
   },
@@ -409,6 +425,7 @@
     "currency": "SGD",
     "net_property_income": 12100000,
     "gross_revenue": null,
+    "npi_pct": 3.2,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -445,6 +462,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 292000000,
     "purchase_price_currency": "SGD"
   },
@@ -462,6 +480,7 @@
     "currency": "SGD",
     "net_property_income": 2000000,
     "gross_revenue": null,
+    "npi_pct": 0.5,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -498,6 +517,7 @@
     "value_basis": "consolidated",
     "source_page": 122,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 84400000,
     "purchase_price_currency": "SGD"
   },
@@ -515,6 +535,7 @@
     "currency": "SGD",
     "net_property_income": 46300000,
     "gross_revenue": null,
+    "npi_pct": 12.1,
     "occupancy_rate": 97.1,
     "major_tenants": [
       {
@@ -551,6 +572,7 @@
     "value_basis": "effective_interest",
     "source_page": 123,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 941500000,
     "purchase_price_currency": "SGD"
   },
@@ -656,6 +678,7 @@
     "currency": "SGD",
     "net_property_income": 9200000,
     "gross_revenue": null,
+    "npi_pct": 2.4,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -692,6 +715,7 @@
     "value_basis": "effective_interest",
     "source_page": 123,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 197800000,
     "purchase_price_currency": "SGD"
   },
@@ -709,6 +733,7 @@
     "currency": "SGD",
     "net_property_income": 14500000,
     "gross_revenue": null,
+    "npi_pct": 3.8,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -735,6 +760,7 @@
     "value_basis": "effective_interest",
     "source_page": 123,
     "area_unit": "sqft",
+    "_recovery_note": "npi_pct from ATTRIBUTABLE NPI BY PROPERTY (%) table, Financial Review p64; recovered 2026-07-02",
     "purchase_price": 208100000,
     "purchase_price_currency": "SGD"
   }

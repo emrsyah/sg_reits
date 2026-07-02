@@ -30,7 +30,7 @@
   "weighted_avg_debt_maturity": 2.6,
   "nav_per_unit": 1.4,
   "wale": 5.6,
-  "portfolio_occupancy": null,
+  "portfolio_occupancy": 77.4,
   "currency": "SGD",
   "date": "2025-12-31",
   "flags": [
@@ -42,7 +42,7 @@
     {
       "type": "kpi_not_disclosed",
       "scope": "portfolio_occupancy",
-      "note": "No single portfolio-wide committed occupancy disclosed; AOR given per region (Singapore Hotels AOR 79.0%). WALE disclosed per lease type (hotel 5.6yr, retail/office 2.0yr, living assets 0.5yr); hotel WALE used."
+      "note": "No portfolio-wide committed occupancy in the Financial Review; AOR given per region there (Singapore Hotels AOR 79.0%). However, a portfolio-level blended 'Average occupancy rate, by property sector' of 77.40% IS disclosed in the SASB Activity Metrics table (Sustainability Report, p.148, code IF-RE-000.D) covering all 19 properties as a single portfolio figure — used to fill portfolio_occupancy. WALE disclosed per lease type (hotel 5.6yr, retail/office 2.0yr, living assets 0.5yr); hotel WALE used."
     },
     {
       "type": "icr_basis",

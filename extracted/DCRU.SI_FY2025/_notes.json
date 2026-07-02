@@ -1,16 +1,12 @@
 {
   "columns_never_fillable": [
     {
-      "column": "property.net_property_income",
-      "reason": "Per-property NPI is not disclosed anywhere; the AR discloses only portfolio-level NPI (US$88.7m) and per-asset gross revenue (p30 chart). Structural absence."
+      "column": "property.net_property_income (10 of 11 US/Canada/Osaka properties)",
+      "reason": "Per-property NPI not individually disclosed. Note 26 Operating Segment (p213) only breaks NPI down to 3 geographic segments (North America US$52,364k = 8 pooled properties; EMEA US$36,375k = Frankfurt, the sole EMEA asset, uniquely attributable & filled; APAC = nil, Osaka JVs are equity-accounted so excluded from segment NPI). North America cannot be split further (8 properties pooled) -> left null for those 8 plus Toronto/Gough (also North America segment). Osaka 2/3 NPI also not disclosed (equity-accounted associates; Note 8 gives associate-level 'profit excluding FV change' not NPI). Re-verified 2026-07-02, Note 26 p213-214."
     },
     {
       "column": "property.gla / property.gfa",
       "reason": "Data-centre size metric is Net Rentable Square Feet (captured in nla) and Customer IT Load (kW). No gross lettable or gross floor area disclosed."
-    },
-    {
-      "column": "property.gross_revenue (Osaka 2 & 3)",
-      "reason": "Equity-accounted associates (20% interest); no consolidated revenue line — excluded from the per-asset gross-revenue chart (p30)."
     },
     {
       "column": "performance.cost_of_debt distinct from interest_coverage_ratio basis",
@@ -28,6 +24,7 @@
     "Per-property card valuations are at ownership share (US$m); stored in property.alt_value. Note 6 carrying values (used as market_valuation) are at 100% consolidated value."
   ],
   "parsing_traps": [
+    "Digital Osaka 2/3 gross_revenue recovered 2026-07-02 from Note 8 Associates 'summarised financial information' table (p187): 'Revenue for the year' = US$57,754k (Osaka 2) / US$29,848k (Osaka 3). CAUTION: this is the associate ENTITY's 100% revenue, not the Group's 20% ownership share (unlike every other property row, which is at ownership share) — no 20%-share revenue is separately disclosed, so it was not derived/converted; flagged 'different_basis_than_siblings' on both rows. Do not sum this into portfolio-level gross_revenue reconciliations without adjusting for basis.",
     "Audited Portfolio Statement (Note 6, p182) carries 9 CONSOLIDATED assets at 100% value (e.g. Hastings 427,000) while the per-property cards (p43-53) show ownership-share valuations (Hastings 384.3 @90%). market_valuation uses the audited Note 6 (Tier C) per §0 invariant 2.",
     "200 North Nash Street & 3015 Winona Avenue reclassified from investment properties to PPE on 31 Dec 2025 (Note 6b); their carrying values sit in the PPE block (65,000 / 54,000) not the investment-property block.",
     "Digital Osaka 2 & 3 are 20% equity-accounted associates (Note 8, US$174.5m total) — NOT in the consolidated Portfolio Statement and NOT in consolidated gross revenue; their valuations are taken from the property cards at share.",

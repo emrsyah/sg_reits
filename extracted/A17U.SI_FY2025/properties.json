@@ -2111,7 +2111,7 @@
     "category": "Industrial & Logistics",
     "category_raw": "Logistics",
     "address": "2 Clementi Loop",
-    "market_valuation": null,
+    "market_valuation": 24600000,
     "currency": "SGD",
     "valuation_date": "2025-12-31",
     "land_tenure": "Leasehold",
@@ -2125,6 +2125,11 @@
         "type": "transferred_to_development",
         "scope": "status",
         "note": "De-commissioned for redevelopment; reclassified as investment property under development as at 31 Dec 2025 (footnote viii). 2025 carrying amount blank in the IP statement because it sits in IPUD, NOT divested."
+      },
+      {
+        "type": "valuation_source_note",
+        "scope": "market_valuation",
+        "note": "market_valuation recovered from Note 5 'Investment Properties Under Development' (p157), NOT the Portfolio Statement (p121, which shows '-' for 2025 since the asset moved to IPUD). Value = $24,600,000 IPUD carrying amount as at 31 Dec 2025; Note 5 text states IPUD fair value assessment basis is disclosed in Note 29(c)."
       }
     ],
     "gross_revenue": 2900000,

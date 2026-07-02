@@ -6,7 +6,7 @@
   "gross_revenue": 71978000.0,
   "net_property_income": 48951000.0,
   "net_distributable_income": 26932000.0,
-  "distribution_paid": null,
+  "distribution_paid": 24563000.0,
   "adjusted_distributable_income": null,
   "dpu": 4.39,
   "distribution_record": [
@@ -54,6 +54,10 @@
       "type": "kpi_scope",
       "scope": "cost_of_debt",
       "note": "5.01% = trailing-12-month weighted avg interest rate excl upfront debt transaction costs and revolving credit facility. Full FY weighted avg interest rate incl all = 5.46%."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed): 2H2024 tranche US$12,088k (paid FY2025) + 1H2025 tranche US$12,475k = Total distribution to Unitholders US$24,563k. Distribution Statement, p161."
     }
   ],
   "source_page": 5,

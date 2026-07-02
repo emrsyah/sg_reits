@@ -6,11 +6,15 @@
     },
     {
       "column": "properties.nla",
-      "reason": "Same as gla — hospitality uses keys, not lettable area."
+      "reason": "CORRECTED 2026-07-02: hotels genuinely have no NLA (keys/rooms, not lettable area) — checked Property Details pages 57-97 for all 20 hotel/resort rows, only Land Area / Gross Floor Area disclosed. Non-hotel components DO disclose NLA and are filled: Claymore Connect (retail mall) 7,187 sq m p71, The Castings (BTR) 20,370 sq m p91. Benson Yard (PBSA, p93) and Hotel Indigo Exeter retail units (p88-89) disclose no NLA figure (beds count / 'two retail units' only) — remain null."
+    },
+    {
+      "column": "properties.gfa",
+      "reason": "CORRECTED 2026-07-02: 10 hotel/BTR/PBSA rows disclose GFA in the Property Details pages (filled in an earlier pass). Re-checked the remaining 13 null rows against Property Details pages 70-97 (Claymore Connect p71, Pullman Munich p95, Hotel Cerretani p97, Grand Millennium Auckland p75, Angsana Velavaru p77, voco Manchester p87, Hotel Indigo Exeter [both hotel p89 and retail units p88-89], Halcyon p79, MyStays Asakusabashi & Kamata p81, Hilton Cambridge p83, Lowry Hotel p85) — none disclose GFA, only Land Area (sq m). Claymore Connect's building is physically combined with Orchard Hotel, whose GFA already includes it (see Orchard Hotel _recovery_note). Left null; not fillable from this source."
     },
     {
       "column": "properties.occupancy_rate",
-      "reason": "Per-property occupancy not disclosed. Operating performance (AOR/ADR/RevPAR) disclosed only at regional portfolio level (e.g. Singapore Hotels AOR 79.0%, RevPAR S$182), not per property."
+      "reason": "CORRECTED 2026-07-02: per-property 'Average occupancy rate' (or, for retail/leasing assets, 'Committed occupancy rate') IS disclosed on each property's 'FY 2025 KEY FINANCIALS' block in the Property Details pages (pp59-97) — a prior pass missed this and incorrectly marked it structurally absent. Filled for 20 of 21 previously-null rows: Orchard Hotel 76.9% (p59), Grand Copthorne 84.3% (p61), M Hotel 86.9% (p63), Copthorne King's 75.5% (p65), Studio M 74.8% (p67), W Singapore-Sentosa Cove 69.6% (p69), Claymore Connect 97.7% committed occupancy (p71), Mercure Perth 83.1% / Ibis Perth 78.8% (p73), Grand Millennium Auckland 66.4% (p75), Angsana Velavaru 76.2% (p77), Halcyon 28.4% (p79), MyStays Asakusabashi 92.2% / MyStays Kamata 94.5% (p81), Hilton Cambridge 73.6% (p83), Lowry Hotel 77.5% (p85), voco Manchester 83.9% (p87), Hotel Indigo Exeter 84.5% (p89, combined hotel+retail-unit figure), Pullman Munich 73.0% (p95), Hotel Cerretani 68.1% (p97). Only 'Hotel Indigo Exeter (retail units)' remains null — the retail units' occupancy is not separately disclosed (only combined with the hotel, p89)."
     }
   ],
   "data_with_no_home": [
@@ -125,6 +129,22 @@
       "value": 60933000,
       "basis": "Financial Highlights (p9): 'Total distribution (after retention for working capital)' = 60,933 (DPS 4.80c). Retention = 66,627 - 60,933 = 5,694, ties exactly to Distribution Statement 'Less: Amount retained for working capital (5,694)' (p207). basis reclassified full_payout_no_retention_line -> disclosed_after_retention.",
       "source_page": 9
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "column": "occupancy_rate",
+      "key": "Hotel Indigo Exeter (retail units)",
+      "status": "confirmed_absent",
+      "reason": "The two retail units at Hotel Indigo Exeter are tenanted-out commercial units within a hotel asset that is reported as a hospitality property. The report discloses only a hotel-level 'Average occupancy rate: 84.5%' (p89, FY2025 Key Financials), explicitly a hotel-room occupancy stat, combined with the retail contribution folded into the same GR/NPI line (p28 footnote 4: 'Includes contribution from retail units leased to tenants'). No separate leased/committed occupancy % is printed anywhere for the retail-units component specifically; the report states only that 'the two retail units are currently tenanted out and the existing leases will continue until 2033' (p89) with no percentage figure. Genuine structural absence, not a miss.",
+      "pages_read": [
+        89,
+        88,
+        28,
+        7
+      ],
+      "quote": "\"Average occupancy rate: 84.5%\" (p89, hotel-level, not retail-unit-specific); \"The two retail units are currently tenanted out and the existing leases will continue until 2033...\" (p89, no % given)"
     }
   ]
 }

@@ -572,14 +572,15 @@
     "gfa": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 48,
     "lease_expiry_date": "2073-07-31",
     "tenure_raw": "Leasehold expiring July 2073, remaining lease term 48 years",
     "status": "active",
     "flags": [],
     "source_page": 16,
     "_rooms": 127,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "_recovery_note": "lease_term_years from Portfolio List footnote 3, p14 (Leasehold expiring July 2073, remaining lease term 48 years); recovered 2026-07-02"
   },
   {
     "symbol": "XZL.SI",
@@ -860,14 +861,15 @@
     "gfa": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 46,
     "lease_expiry_date": "2071-07-31",
     "tenure_raw": "Leasehold expiring July 2071, remaining lease term 46 years",
     "status": "active",
     "flags": [],
     "source_page": 17,
     "_rooms": 159,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "_recovery_note": "lease_term_years from Portfolio List footnote 4, p14 (Leasehold expiring July 2071, remaining lease term 46 years); recovered 2026-07-02"
   },
   {
     "symbol": "XZL.SI",
@@ -1007,6 +1009,8 @@
     "address": "Colorado Springs, Colorado, United States",
     "ownership": 100.0,
     "market_valuation": 32600000,
+    "purchase_price": 29000000,
+    "purchase_price_currency": "USD",
     "valuation_date": "2025-12-31",
     "currency": "USD",
     "net_property_income": null,

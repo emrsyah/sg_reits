@@ -43,6 +43,43 @@
       "source_page": 5
     }
   ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "VivoCity",
+      "status": "confirmed_absent",
+      "reason": "Re-verified prior conclusion (columns_never_fillable below). Portfolio Statement (p116, full.md L5608): Acquisition date column = 'N.A.²'. Footnote 2 (p116/full.md L5701 and duplicate at p2242/L2242): 'Not applicable as VivoCity was owned by MPACT prior to Listing Date.' VivoCity is MPACT's IPO-seed asset; no acquisition/purchase transaction, hence no purchase price disclosed anywhere in the report. purchase_price key added to the record as null (was previously absent entirely, not just null-valued); purchase_price_currency also null.",
+      "pages_read": [116]
+    }
+  ],
+  "null_recovery_round8_2026_07_03": [
+    {
+      "table.column": "property_transactions.valuation & property_transactions.carrying_value",
+      "key": "Mapletree Anson (divestment, deal 2024-07-31)",
+      "verdict": "CONFIRMED-EQUAL as printed — genuine coincidence, NOT a conflation. No change to either field.",
+      "valuation_765m": "765,000,000 SGD = independent valuation of Mapletree Anson as at 31 March 2024 by CBRE Pte. Ltd. Printed p13 ('...secured a S$10.0 million gain over the property's independent valuation of S$765.0 million...'), p41 ('The divestment consideration of S$775.0 million exceeded the property's independent valuation of S$765.0 million as at 31 March 2024 by S$10.0 million'), and Portfolio Statement p117 (Mapletree Anson row: 'At valuation as at 31/03/2024' = 765,000 $'000; FY2025 column shows '—' because divested).",
+      "carrying_value_765m": "765,000,000 SGD = carrying amount removed on disposal per Note 14 INVESTMENT PROPERTIES movement schedule, p146: 'Divestment of an investment property | (765,000) | – | (765,000) | –' (identical (765,000) $'000 in both Group and MPACT columns).",
+      "why_genuine_not_conflation": "Under the IAS 40 fair-value model, an investment property's carrying amount IS its most recent fair value. Mapletree Anson's last valuation before the 31 Jul 2024 disposal was S$765.0m as at 31 Mar 2024; no revaluation was booked in the stub period, so the carrying amount removed on disposal (765,000) legitimately equals the independent valuation (765,000). These are TWO independent disclosures (Note 14 movement vs. valuation narrative/Portfolio Statement) that print the same number — not one column copied into another. Consideration S$775.0m > valuation/carrying S$765.0m by S$10.0m (accounting gain over valuation); net gain on divestment after costs = S$4,006k (p146).",
+      "pages_opened": "p13 (l667-669), p41 (l1895-1897), p117 (l5620-5632), p146 (l6730-6776)"
+    },
+    {
+      "flag": "stale/imprecise page cite (value correct, provenance note off)",
+      "detail": "property_transactions.source_page = 120 and carrying_value_basis cites '(p120)' for the 'Divestment of an investment property (765,000)' movement line, but that line is physically on <!-- PAGE 146 --> (Note 14 (a) movement schedule). Physical page 120 is the Portfolio Statement (continued). Value 765,000,000 is correct; only the page cite is imprecise. Left the data value untouched; main agent may re-cite to p146 (movement) / p117 (valuation)."
+    },
+    {
+      "flag": "no net>=gross violation in txn",
+      "detail": "net_proceeds 762,448,000 < gross consideration 775,000,000 (net-of-costs S$762,448k per cash-flow stmt). gain_on_divestment 4,006,000 matches 'net gain on divestment of $4,006,000' (p146, l6772). All internally consistent as printed; nothing derived."
+    },
+    {
+      "flag": "systemic (invariant 7) — foreign market_valuation stored in SGD",
+      "detail": "All foreign properties store market_valuation in SGD (converted): Festival Walk 4,086,421,000 SGD, Gateway Plaza 1,065,081,000 SGD, Sandhill Plaza 400,234,000 SGD, all Japan props (JPY assets) and The Pinnacle Gangnam 231,300,000 SGD. This is source-faithful for the CONSOLIDATED Portfolio Statement (which prints 'At valuation' in $'000 SGD), so currency tag SGD == figure ccy — NOT a conflation. Noted for awareness only; not touched."
+    },
+    {
+      "flag": "systemic (invariant 7b) — RMB vs CNY currency tag",
+      "detail": "Gateway Plaza and Sandhill Plaza store purchase_price_currency = 'CNY' (6,353,000,000 and 2,427,000,000 respectively), while the report narrative uses 'renminbi (\"RMB\")'. RMB/CNY normalization is main-agent scope per invariant 7(b) — flagged only, not changed. purchase_price magnitudes are genuine local-currency (not SGD-converted); currency tag matches figure ccy for HKD/CNY/JPY/KRW purchase prices."
+    }
+  ],
   "columns_never_fillable": [
     {
       "column": "properties.net_property_income",

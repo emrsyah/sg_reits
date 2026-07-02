@@ -43,6 +43,10 @@ TRADE_ALIASES = {
     "Construction & Engineering": "Infrastructure, Real Estate & Property Services",
     "Mining & Resources": "Energy, Mining & Resources",
     "Energy & Utilities": "Energy, Mining & Resources",
+    # 2026-07-01 Phase-3 Tier-0: deterministic fixes for observed mis-maps
+    "Fashion & Accessories": "Fashion & Accessories",           # was mis-mapped to Other Retail Trades (J69U)
+    "Leisure & Entertainment": "Hospitality & Leisure",         # was mis-mapped to Other Retail Trades (J69U)
+    "Self-Storage": "Infrastructure, Real Estate & Property Services",  # unify (J91U had Logistics, ODBU had this)
 }
 
 # canonical 6-value property asset-category taxonomy (Evelyn, Jun 17 2026; schema §2).
@@ -146,18 +150,24 @@ class Property(BaseModel):
     original_currency: Optional[str] = Field(
         None, description="AUDIT TRAIL — the asset's local/transacting currency when the report "
         "discloses the figure in a currency other than the presentation one (e.g. RMB for a "
-        "China mall reported in SGD). null when the report gives only one currency.")
+        "China mall reported in SGD). null when the report gives only one currency. "
+        "Alias: local_currency (A17U).")
     original_value: Optional[float] = Field(
         None, description="AUDIT TRAIL — market_valuation in original_currency, absolute units. "
-        "Do NOT convert/derive; only when the report prints the local-currency figure.")
+        "Do NOT convert/derive; only when the report prints the local-currency figure. "
+        "Alias: local_currency_value (A17U).")
     net_property_income: Optional[float] = Field(None, description="as-disclosed only")
+    net_property_income_currency: Optional[str] = Field(
+        None, description="per-figure currency of net_property_income; some REITs (e.g. DHLU) report "
+        "NPI in the asset's local ccy (JPY) while `currency` is the SGD presentation ccy of "
+        "market_valuation. Defaults to `currency` on load when untagged.")
     gross_revenue: Optional[float] = None
+    gross_revenue_currency: Optional[str] = Field(
+        None, description="per-figure currency of gross_revenue (see net_property_income_currency).")
     npi_pct: Optional[float] = Field(
         None, description="this property's share of portfolio net property income (NPI), % plain "
         "number — when the report discloses the contribution as a percentage (not an absolute)")
     occupancy_rate: Optional[float] = Field(None, description="percent, plain number")
-    trade_mix: Optional[dict[str, float]] = Field(
-        None, description="per-property trade mix {category: pct}, when disclosed")
     major_tenants: list[PropertyTenant] = Field(
         default_factory=list,
         description="major/top tenants for this property (often several); was major_tenant text")
@@ -179,9 +189,6 @@ class Property(BaseModel):
     lease_expiry_date: Optional[str] = Field(None, description="YYYY-MM-DD when disclosed")
     tenure_raw: Optional[str] = Field(None, description="verbatim tenure disclosure")
     status: PropertyStatus = "active"
-    divestment_price: Optional[float] = Field(
-        None, description="sale price / proceeds when status=divested and disclosed "
-        "(absolute units); null otherwise")
     flags: list[Flag] = Field(
         default_factory=list,
         description="caveats to verify, e.g. same_property_diff_lease, divested_partial_data, "

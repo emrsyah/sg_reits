@@ -3,7 +3,8 @@
   "columns_never_fillable": [
     {
       "column": "net_property_income",
-      "reason": "Per-property NPI not disclosed by CICT; only segment-level (Retail/Office/Integrated Developments) NPI is available in the report. Structural absence for this trust."
+      "reason": "Per-property NPI not disclosed by CICT; only segment-level (Retail/Office/Integrated Developments) NPI is available in the report. Structural absence for this trust. RE-VERIFIED round-4 (2026-07-02, MAXIMUM SUSPICION pass): checked all 25 individual property cards (p37-63, 'Property Information' + 'As at 31 December' tables — each discloses only Valuation, GFA, NLA, Number of Tenants, Committed Occupancy, Gross Revenue; NO NPI row on any card), the portfolio 5-year NPI chart (p8/p1640, total only), the 3-segment FY24/FY25 chart (p1689-1702: Retail/Office/Integrated Development NPI only), and Note 31 Operating Segments (p184-186, audited FS note — explicitly defines the Group's only 3 reportable segments as Retail/Office/Integrated Developments; 'Segment net property income' given at 3-segment granularity only, both FY2025 and FY2024 comparatives). No per-property or per-asset NPI table exists anywhere in the source. Prior claim CONFIRMED correct, not a skipped-table miss.",
+      "pages_checked": [8, 37, 39, 40, 109, 1640, 1689, 1702, 184, 185, 186]
     },
     {
       "column": "effective_date",
@@ -18,14 +19,19 @@
       "reason": "Per-property trade mix not disclosed; only portfolio-level trade mix by GRI is disclosed."
     },
     {
+      "column": "gfa (overseas properties)",
+      "reason": "GFA (sq ft) is disclosed in the individual property-card tables for all 20 Singapore properties (e.g. p2327/2407/.../4202), but the property cards for the 5 overseas assets (100 Arthur Street p3865, 66 Goulburn Street, 101-103 Miller Street and Greenwood Plaza, Gallileo p3640, Main Airport Center) disclose only NLA (sq ft), not GFA. Checked Portfolio Statement (p109, no GFA column) and each overseas property card 'As at 31 December' summary table plus 'Property Information' table — no GFA figure present for any of the 5. Structural absence for overseas assets in this report; left null.",
+      "pages_checked": [109, 3861, 3865, 3640, 3773, 3774, 5773, 5774, 5776, 5779, 5780]
+    },
+    {
       "column": "properties.purchase_price",
-      "reason": "Partial disclosure only. 15 legacy properties disclose a single 'Purchase Price in <year>' row in their property-card 'Property Information' tables (pages ~40-56); these are captured. The remaining 11 active/JV properties do NOT disclose a comparable single per-property purchase price: Bedok Mall, Asia Square Tower 2, CapitaSpring, CapitaGreen, CapitaSky, 100 Arthur Street, 66 Goulburn Street, Gallileo, Main Airport Center and ION Orchard have no purchase-price/acquisition-cost row in their cards or in the Portfolio Statement (p109); Westgate discloses only a staged/blended acquisition (footnotes p47: greenfield development site land acquired 2011 at S$969.0m, of which S$758.3m retail; balance 70% of Infinity Mall Trust acquired 1 Nov 2018 at agreed property value S$1,128.0m / 70% interest S$789.6m) — no clean single purchase price. No convert/split/invent per invariants; left null."
+      "reason": "Round-5 (2026-07-02) re-check: property cards also disclose 'Agreed Property Value in <year>' rows, functionally equivalent acquisition-cost disclosures for injected/negotiated (vs open-market 'Purchase Price') deals. Recovered for Bedok Mall (S$780.0m, p39), Asia Square Tower 2 (S$2,094.0m, p50), CapitaGreen (S$1,600.5m, p51), CapitaSky (S$1,260.0m 100% basis, p54), 100 Arthur Street (A$372.0m incl. A$7.0m rental guarantee deducted from consideration, p59), 66 Goulburn Street (A$300.0m, p58), Gallileo (EUR356.0m, p56), Main Airport Center (EUR265.0m, p57), ION Orchard (S$3,697.0m 100% basis, 'Agreed Property Value in 2024', p43). Two properties remain genuinely unfillable: (1) Westgate — only a staged/blended acquisition disclosed (footnotes p47: greenfield land acquired 2011 at S$969.0m of which S$758.3m retail/30% interest S$227.5m; balance 70% of Infinity Mall Trust acquired 1 Nov 2018 at agreed property value S$1,128.0m/70% interest S$789.6m) — no clean single purchase price, left null. (2) CapitaSpring — card (p52) discloses only a 'Project Development Estimate' of S$1,820.0m (a development-cost estimate including the divested SR Component, not an acquisition/purchase price for the current 100%-owned Commercial Component acquired in stages 45%→100% on 26 Aug 2025); no purchase price disclosed, left null. No convert/split/invent per invariants."
     }
   ],
   "data_with_no_home": [
     {
       "item": "ION Orchard tenure details",
-      "note": "ION Orchard is an equity-accounted JV (50% held since Oct 2024). Not in the audited Portfolio Statement so market_valuation and land_tenure are null. Tier-A proportionate value: S$1,855.2m (50% basis). Source: Portfolio Valuation table, page 23."
+      "note": "ION Orchard is an equity-accounted JV (50% held since Oct 2024). Not in the audited Portfolio Statement (p109) so land_tenure is captured from the property card instead. Round-5 (2026-07-02): market_valuation recovered from the property card (p43) 'Valuation' row = S$3,710.4m (100% basis, FY2025), for consistency with the 100%-basis convention used for the Portfolio Statement's other partial-interest assets (CapitaSky 70%, Gallileo/MAC 94.9%, 101-103 Miller 50%). Tier-A proportionate value (50% basis) is S$1,855.2m — source: Portfolio Valuation table, page 23. address ('2 Orchard Turn') and purchase_price (S$3,697.0m, 'Agreed Property Value in 2024', 100% basis) also recovered from the p43 card."
     },
     {
       "item": "CapitaSpring acquisition details",
@@ -113,6 +119,24 @@
     "expense_note_sum_components": 429425000.0,
     "expense_reconciliation": "PASS: 141,300 + 65,525 + 51,429 + 32,231 + 35,018 + 94,768 + 584 + 513 + 326 + 7,731 = 429,425 $'000"
   },
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "Westgate",
+      "status": "confirmed_absent",
+      "reason": "Corroborates round-5 finding, additional verification this round. Property card footnotes 4-5 (p47/full.md L2990-2992) print only STAGED agreed property values: 'The integrated development site (land) was acquired in 2011 at S$969.0 million, of which S$758.3 million pertained to the retail component (30% interest at S$227.5 million).' and 'The acquisition of the balance 70% of the units in Infinity Mall Trust which holds Westgate was completed on 1 November 2018, at an agreed property value of S$1,128.0 million, on a completed basis (70% interest at S$789.6 million).' No single clean acquisition/purchase price for the property as a whole is disclosed. Per invariant #3 (never derive), the two stages (S$227.5m 2011 + S$789.6m 2018) are NOT summed. purchase_price left null; added key (was previously absent from the record) with purchase_price_currency also null.",
+      "pages_read": [47]
+    },
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "CapitaSpring",
+      "status": "confirmed_absent",
+      "reason": "New this round: located Note 32 'Acquisition of Subsidiaries and Joint Ventures' (p187-188, full.md L8901-8937), which quantifies the 26 Aug 2025 completion of 'the acquisition of GOT from Glory Office Pte. Ltd. ... and MEA Commercial Holdings Pte. Ltd. ... to acquire their respective 45% and 10% interests in GOT' (Glory Office Trust holds the Commercial Component of CapitaSpring) — 'Total purchase consideration, including acquisitions costs' = S$478,700k for that 55% balance-interest acquisition (this is a 55%-stake consideration, not a 100%-property acquisition cost; CICT's prior 45% was held as a JV, not purchased in this transaction). This corroborates, rather than overrides, the round-5 conclusion (property card p52 'Project Development Estimate' S$1,820.0m is a development-cost estimate, not a purchase price, and also not usable). No clean single 100%-basis purchase/acquisition price for the property exists in the report — genuinely staged/JV-blended per spec guidance. purchase_price left null (key added, was previously absent); purchase_price_currency also null. NOT summed/derived per invariant #3.",
+      "pages_read": [23, 52, 187, 188]
+    }
+  ],
   "data_provenance": [
     {
       "table": "financial",

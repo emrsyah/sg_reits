@@ -47,6 +47,16 @@
   ],
   "columns_never_fillable": [
     {
+      "column": "property.category_raw (Plaza, Peachtree)",
+      "reason": "Divested Feb/May 2025; no property card in FY2025 AR (only active + held-for-sale properties get cards on pages 30-36). No Class A/B/Trophy label found anywhere for these two assets in the FY2025 report.",
+      "pages_checked": [14, 15]
+    },
+    {
+      "column": "top_tenant.industry (round-2 re-check)",
+      "reason": "Re-confirmed: Top 10 Tenants by GRI table (page 27) has only rank/name/%GRI, no sector column. Portfolio Trade Sector by GRI donut chart (page 26) is aggregate-only (11 named sectors with %, not tied to individual tenants). 2025 Leasing Trade Sector chart (page 26) is also aggregate/leases-signed basis, not tenant-level. No tenant-level sector disclosure exists anywhere in the source; inferring sector from tenant name (e.g. 'US Treasury'->Public Administration) would be invention, not extraction, so left null per spec.",
+      "pages_checked": [26, 27]
+    },
+    {
       "column": "property.gla",
       "reason": "Report discloses NLA only for US office properties; GLA not disclosed in any table or card"
     },
@@ -70,7 +80,7 @@
   "data_with_no_home": [
     {
       "item": "DI per Unit = 1.44 US cents vs actual DPU = 0",
-      "detail": "FY2025 income available for distribution is US$25.5m (1.44 US cents per unit) but no distributions were paid. Stored dpu=1.44 as disclosed DI/unit per instructions. Distribution halt explicit on pages 8 and 23.",
+      "detail": "FY2025 income available for distribution is US$25.5m (1.44 US cents per unit) but no distributions were paid. Stored dpu=0 (distributions halted); the 1.44 US cents is DI-per-unit, a distinct metric (belongs in a di_per_unit field, not dpu). Distribution halt explicit on pages 8 and 23.",
       "source_page": 8
     },
     {
@@ -177,5 +187,49 @@
       "profile_method": "llm_only - scattered across corporate info p151 + trust structure",
       "performance_method": "llm_only - scattered across p8, p22, p23, p93"
     }
+  },
+  "null_recovery_round8_2026_07_03": {
+    "agent": "r8-BTOU",
+    "layer": "PROOFREAD (as-reported, no conversion; US REIT reports natively in USD)",
+    "fills": [
+      {
+        "table.column": "property_transactions.gross_sale_price",
+        "key": "Plaza (divestment)",
+        "value": 51800000.0,
+        "currency": "USD",
+        "page": 126,
+        "snippet": "the Manager announced the divestment of Plaza on 20 February 2025 for US$51.8 million less seller credits",
+        "corroboration": "p50 Independent Market Report sale table: '500 Plaza Dr | New Jersey | 445,060 | $51,750,000' (seller Manulife US REIT). FS Note 6 headline US$51.8m used as authoritative gross consideration."
+      },
+      {
+        "table.column": "property_transactions.gross_sale_price",
+        "key": "Peachtree (divestment)",
+        "value": 133800000.0,
+        "currency": "USD",
+        "page": 126,
+        "snippet": "the divestment of Peachtree for US$133.8 million less seller credits Peachtree on 27 May 2025 (U.S. time)",
+        "corroboration": "p50 Independent Market Report sale table: '1100 Peachtree St NE | Atlanta | 553,778 | $133,800,000' (seller Manulife US REIT) exact match."
+      }
+    ],
+    "confirmed_equal_or_absent": [
+      {
+        "field": "property_transactions Plaza carrying_value == valuation (gross_valuation_usd) == 43,700,000",
+        "finding": "GENUINE equality, NOT a copy defect. Plaza was reclassified to asset held for sale at 31 Dec 2024 at its carrying amount US$43.7m, which equals its independent valuation US$43.7m (Cushman & Wakefield, 31 Dec 2024). A held-for-sale asset is carried at its valuation, so the two figures coincide as printed.",
+        "pages_read": [25, 107, 126],
+        "quote": "p126 'the property was classified as asset held for sale ... at the carrying amount of US$43.7 million'; p107 balance sheet 'Asset held for sale - Plaza ... 43,700'; p25 footnote 3 'valued the property at US$43.7 million as at 31 December 2024'"
+      },
+      {
+        "field": "property_transactions Peachtree net/valuation/carrying/gross all distinct",
+        "finding": "No conflation. net US$121.0m, valuation US$133.4m (28 Apr 2025), carrying US$125.366m, gross US$133.8m are four distinct correct figures.",
+        "pages_read": [25, 126],
+        "quote": "p25 'Peachtree | Atlanta, Georgia | 121 | 133.4'; Note 6 'Disposal of investment properties (125,366)'; p126 'US$133.8 million less seller credits'"
+      }
+    ],
+    "flags": [
+      "GROSS>VALUATION (not a defect): Plaza gross sale US$51.8m EXCEEDS its US$43.7m valuation (sold above 31 Dec 2024 appraisal); Peachtree gross US$133.8m vs valuation US$133.4m (~US$0.4m above). As reported, genuine.",
+      "Precision note: Plaza gross stored as US$51.8m per audited FS Note 6 (p126). The p50 third-party market table shows US$51,750,000 and lists buyer 'Signature Acquisitions' vs FS buyer '500 Plaza Ground Lessor LLC'. Kept FS figure and FS buyer as authoritative; did not overwrite with the broker-table exact figure.",
+      "properties.json: Plaza and Peachtree (status 'divested') have valuation_date '2025-12-31' set while market_valuation is null. Per invariant 6 a divested property's valuation_date is arguably by-design null too. Left unchanged (not a money conflation, not a source-cited error) - flagging for main agent.",
+      "No currency conflation in this report: MUST reports natively in USD; every txn/property money field and currency tag is USD, no SGD conversion present."
+    ]
   }
 }

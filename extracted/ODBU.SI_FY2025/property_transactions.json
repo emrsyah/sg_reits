@@ -1,5 +1,44 @@
 [
-  {"symbol": "ODBU.SI", "financial_year": 2025, "property_name": "Dover Marketplace", "transaction_type": "acquisition", "transaction_date": "2025-08-01", "price": 17046000.0, "purchase_consideration": 16400000.0, "valuation": 17200000.0, "currency": "USD", "note": "Third Pennsylvania asset; grocery-anchored (Giant/Ahold Delhaize), 9 tenants. Purchase consideration ~US$16.4m (~4.8% discount to independent valuation of US$17.2m by Newmark V&A, p10/p41). Cash outflow for acquisition US$17,046k per cash flow statement (incl. acquisition costs). Seller not named.", "source_page": 167},
-  {"symbol": "ODBU.SI", "financial_year": 2025, "property_name": "Albany Supermarket", "transaction_type": "divestment", "transaction_date": "2025-01-17", "price": null, "sale_consideration": 23800000.0, "valuation": 23800000.0, "net_proceeds": 23116000.0, "gain_on_divestment": -684000.0, "carrying_value": 23800000.0, "carrying_value_basis": "Balance-sheet held-for-divestment line: carrying value US$23,800k at 31 Dec 2024 (p166); reconciles proceeds 23,116 - carrying 23,800 = -684 loss. Verified 2026-06-30.", "currency": "USD", "note": "Classified as investment property held for divestment at 31 Dec 2024 (carrying value US$23,800k); divestment completed 17 January 2025 for a consideration of US$23.8m, which is also the fair value at 31 Dec 2024 per independent valuation by CBRE, Inc. (p166). Net cash from divestment US$23,116k. Buyer not named. Only investment-property divestment in FY2025, so the (Loss)/gain on divestment of investment properties of US$(684)k in the Statement of Total Return (a loss = net proceeds 23,116 less carrying value 23,800) is attributable to this deal.", "source_page": 167},
-  {"symbol": "ODBU.SI", "financial_year": 2026, "property_name": "Wallingford Fair Shopping Center", "transaction_type": "acquisition", "transaction_date": "2026-01-14", "price": 21400000.0, "currency": "USD", "note": "Maiden entry into Connecticut; completed AFTER FY2025 year-end (subsequent event, Note p183). Cash consideration US$21.4m via UH US Wallingford Fair 2025 LLC. Anchored by ShopRite; tenants include Petco and Extra Space Storage self-storage. Seller not named.", "source_page": 38}
+ {
+  "symbol": "ODBU.SI",
+  "financial_year": 2025,
+  "property_name": "Dover Marketplace",
+  "transaction_type": "acquisition",
+  "transaction_date": "2025-08-01",
+  "price": 17046000.0,
+  "purchase_consideration": 16400000.0,
+  "valuation": 17200000.0,
+  "currency": "USD",
+  "note": "Third Pennsylvania asset; grocery-anchored (Giant/Ahold Delhaize), 9 tenants. Purchase consideration ~US$16.4m (~4.8% discount to independent valuation of US$17.2m by Newmark V&A, p10/p41). Cash outflow for acquisition US$17,046k per cash flow statement (incl. acquisition costs). Seller not named.",
+  "source_page": 167
+ },
+ {
+  "symbol": "ODBU.SI",
+  "financial_year": 2025,
+  "property_name": "Albany Supermarket",
+  "transaction_type": "divestment",
+  "transaction_date": "2025-01-17",
+  "price": null,
+  "sale_consideration": 23800000.0,
+  "valuation": 23800000.0,
+  "net_proceeds": 23116000.0,
+  "gain_on_divestment": -684000.0,
+  "carrying_value": 23800000.0,
+  "carrying_value_basis": "Balance-sheet held-for-divestment line: carrying value US$23,800k at 31 Dec 2024 (p166); reconciles proceeds 23,116 - carrying 23,800 = -684 loss. Verified 2026-06-30.",
+  "currency": "USD",
+  "note": "Classified as investment property held for divestment at 31 Dec 2024 (carrying value US$23,800k); divestment completed 17 January 2025 for a consideration of US$23.8m, which is also the fair value at 31 Dec 2024 per independent valuation by CBRE, Inc. (p166). Net cash from divestment US$23,116k. Buyer not named. Only investment-property divestment in FY2025, so the (Loss)/gain on divestment of investment properties of US$(684)k in the Statement of Total Return (a loss = net proceeds 23,116 less carrying value 23,800) is attributable to this deal.",
+  "source_page": 167
+ },
+ {
+  "symbol": "ODBU.SI",
+  "financial_year": 2026,
+  "property_name": "Wallingford Fair Shopping Center",
+  "transaction_type": "acquisition",
+  "transaction_date": "2026-01-14",
+  "price": 21400000.0,
+  "currency": "USD",
+  "note": "Maiden entry into Connecticut; completed AFTER FY2025 year-end (subsequent event, Note p183). Cash consideration US$21.4m via UH US Wallingford Fair 2025 LLC. Anchored by ShopRite; tenants include Petco and Extra Space Storage self-storage. Seller not named. Independent valuation US$23.3m by CBRE Valuation & Advisory Services as at 25 Nov 2025 (p61); price US$21.4m consideration was 8.2% below this valuation (p9).",
+  "source_page": 38,
+  "valuation": 23300000.0
+ }
 ]

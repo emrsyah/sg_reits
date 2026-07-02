@@ -19,6 +19,14 @@
     {
       "column": "top_tenants.tenant_name",
       "reason": "All clients are anonymised — only verbatim descriptors provided (e.g. 'Fortune Global 500 Company (Hyperscaler)'). Captured verbatim per schema field instruction."
+    },
+    {
+      "column": "properties.gfa",
+      "reason": "Null-recovery round 2 (2026-07-02): re-checked 'At A Glance' property cards (pp.40-44) — GFA row shows an explicit em-dash '–' for DC1, Guangdong DC 1/2/3, Tokyo DC 1, maincubes DC, Milan DC, Almere DC, Amsterdam DC, Eindhoven Campus, Cardiff DC and London DC, i.e. GFA is affirmatively NOT disclosed for these 12 properties (not a parsing gap). Checked Portfolio Statement (pp.110-111, only carries land tenure/lease term/carrying value, no area fields), Note 4(i) Investment Properties (pp.6316+, no area breakdown), and the ESG intensity footnotes (p.3587/3664, portfolio-total GFA only, in sq m, no per-property split). Kelsterbach DC (divested, no 'At A Glance' card at all in FY2025) also has no GFA source. No fill possible for any of the 12 — left null. GLA field intentionally left null portfolio-wide per existing note above (Attributable Lettable Area used for nla instead)."
+    },
+    {
+      "column": "properties.lease_term_years / properties.lease_expiry_date",
+      "reason": "Null-recovery round 2 (2026-07-02): re-checked Portfolio Statement 'Land tenure' / 'Term of lease' / 'Remaining term of lease' columns (pp.110-111) against the 11 rows with null lease_term_years/lease_expiry_date (Gore Hill DC, Tokyo DC 1, Tokyo DC 3, maincubes DC, Basis Bay DC, Milan DC, Almere DC, Amsterdam DC, Eindhoven Campus, London DC, Kelsterbach DC). All 11 are confirmed 'Freehold' in both the Portfolio Statement and the 'At A Glance' Title field — no land lease exists, so lease_term_years/lease_expiry_date correctly remain null (freehold has no lease term by definition). No further fill possible."
     }
   ],
   "data_with_no_home": [

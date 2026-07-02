@@ -6,7 +6,7 @@
   "gross_revenue": 206542000,
   "net_property_income": 148756000,
   "net_distributable_income": 87600000,
-  "distribution_paid": null,
+  "distribution_paid": 85556000,
   "adjusted_distributable_income": null,
   "dpu": 3.6,
   "distribution_record": [
@@ -33,7 +33,12 @@
   "portfolio_occupancy": 92.1,
   "currency": "SGD",
   "date": "2025-06-30",
-  "flags": [],
+  "flags": [
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed): S$85,556k = 1.770 cents/unit (1 Jan-30 Jun 2024 period, paid in FY2025) + 1.795 cents/unit (1 Jul-31 Dec 2024 period, paid in FY2025), Consolidated Distribution Statement p114"
+    }
+  ],
   "source_page": 5,
   "distribution_basis": "not_disclosed_rollforward_only"
 }

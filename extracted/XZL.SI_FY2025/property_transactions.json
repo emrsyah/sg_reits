@@ -31,8 +31,8 @@
     "note": "Subsequent event; held at 31 Dec 2025, sale completed post year-end. Independent valuation US$10.3m as of 31 Jul 2025.",
     "counterparty": "NJA Management Group LLC",
     "valuation": 10300000,
-    "carrying_value": 10300000,
-    "carrying_value_basis": "Year-end carrying = fair value: held at 31 Dec 2025 (1 of 32 hotels stated at fair value; portfolio list p16, 'Valuation as at 31 December 2025' US$10.3m). Sale completed FY2026 (11 Mar 2026), so no FY2025 gain recognised. Recovered 2026-06-30."
+    "carrying_value": null,
+    "carrying_value_basis": "Not separately disclosed as a carrying value. Note 11 (PAGE 133) shows held-for-sale year-end balance = 0 -> Livonia was NOT reclassified to held for sale at 31 Dec 2025; its carrying amount sits in aggregate PPE/investment properties, no per-property figure printed. Round8 (2026-07-03) removed carrying_value=10,300,000, which had been derived from the independent valuation US$10.3m (Note 29 PAGE 170; portfolio list valuation PAGE 16) -- carrying==valuation was a conflation, not a printed carrying value."
   },
   {
     "symbol": "XZL.SI",

@@ -5,8 +5,12 @@
     "property_name": "Wisma Atria Property (Office) strata units",
     "description": "13 office strata units in Wisma Atria Property (carrying value S$31.9m) divested to unrelated third parties during FY2024/25, reducing the Group's strata title interest in total share value of Wisma Atria to 68.81% (from 74.23%).",
     "carrying_value": 31900000.0,
+    "gross_sale_price": 41000000.0,
+    "gross_sale_price_basis": "'sales consideration of approximately S$41 million' p32; approximate headline figure, distinct from net_proceeds S$40,898,000 (after directly attributable costs). Recovered round7 2026-07-03.",
     "net_proceeds": 40898000.0,
     "gain_on_divestment": 9044000.0,
+    "valuation": 32000000.0,
+    "valuation_basis": "'the valuation of approximately S$32 million as at 30 June 2024 by CBRE Pte. Ltd. (income capitalisation method + DCF)' — p32 footnote (8); approximate, deal-specific valuation of the 13 divested strata units (distinct from book carrying value S$31.9m). Recovered round7 2026-07-03.",
     "currency": "SGD",
     "source_page": 141
   }

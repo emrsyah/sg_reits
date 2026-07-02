@@ -1,0 +1,10 @@
+37 | 30 Tampines Industrial Avenue 3 | occ=undefined | nla=undefined | gfa=undefined | page=120 | status=divested | country=Singapore
+42 | 31 Ubi Road 1 | occ=undefined | nla=undefined | gfa=undefined | page=120 | status=divested | country=Singapore
+45 | 10 Toh Guan Road | occ=undefined | nla=undefined | gfa=undefined | page=120 | status=divested | country=Singapore
+85 | 9 Changi South Street 3 | occ=undefined | nla=undefined | gfa=undefined | page=121 | status=divested | country=Singapore
+87 | 19 & 21 Pandan Avenue | occ=undefined | nla=undefined | gfa=undefined | page=121 | status=divested | country=Singapore
+89 | Logis Hub @ Clementi | occ=undefined | nla=undefined | gfa=undefined | page=121 | status=active | country=Singapore
+122 | 95 Gilmore Road | occ=undefined | nla=undefined | gfa=undefined | page=123 | status=divested | country=Australia
+137 | Astmoor Road | occ=undefined | nla=undefined | gfa=undefined | page=124 | status=divested | country=United Kingdom
+210 | Parkside | occ=undefined | nla=undefined | gfa=undefined | page=127 | status=divested | country=United States
+211 | 8700–8770 Nimbus | occ=undefined | nla=undefined | gfa=undefined | page=127 | status=divested | country=United States

@@ -11,7 +11,8 @@
     "valuation": 465500000,
     "counterparty": "Perpetual (Asia) Limited (in its capacity as trustee of CapitaLand Data Centre Trust)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of 9 Tai Seng Drive, a Singapore data centre, for S$455.2m (vs S$465.5m acquisition valuation) from Perpetual (Asia) Limited as trustee of CapitaLand Data Centre Trust; completed 11 Aug 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -25,7 +26,8 @@
     "valuation": 263500000,
     "counterparty": "Science Park Property Trustee Pte. Ltd. (in its capacity as trustee of Science Park Property Trust 1)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of 5 Science Park Drive, Singapore, for S$245.0m (inclusive of S$30.0m deferred consideration payable 13 Nov 2026; vs S$263.5m acquisition valuation) from Science Park Property Trustee Pte. Ltd. as trustee of Science Park Property Trust 1; completed 6 Aug 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -39,7 +41,8 @@
     "valuation": 178000000,
     "counterparty": "DBS Trustee Limited (in its capacity as Trustee of Supreme REIT)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of Tuas Connection, Singapore, for S$166.9m (vs S$178.0m acquisition valuation) from DBS Trustee Limited as trustee of Supreme REIT; completed 30 Dec 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -53,7 +56,8 @@
     "valuation": 209000000,
     "counterparty": "DBS Trustee Limited (in its capacity as Trustee of Supreme REIT)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of 9 Kallang Sector, Singapore, for S$206.0m (vs S$209.0m acquisition valuation) from DBS Trustee Limited as trustee of Supreme REIT; completed 30 Dec 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -67,7 +71,8 @@
     "valuation": 202000000,
     "counterparty": "DBS Trustee Limited (in its capacity as Trustee of Supreme REIT)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of 2 Pioneer Sector 1, Singapore, for S$192.9m (vs S$202.0m acquisition valuation) from DBS Trustee Limited as trustee of Supreme REIT; completed 30 Dec 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -81,7 +86,8 @@
     "valuation": 156800000,
     "counterparty": "Exel Inc d/b/a DHL Supply Chain (USA)",
     "currency": "SGD",
-    "deal_source_page": 23
+    "deal_source_page": 23,
+    "description": "Acquisition of DHL Indianapolis Logistics Center, Indianapolis US, for S$150.3m (vs S$156.8m acquisition valuation) from Exel Inc d/b/a DHL Supply Chain (USA); completed 15 Jan 2025 at 100% occupancy."
   },
   {
     "symbol": "A17U.SI",
@@ -97,7 +103,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (fair-value model): 31 Dec 2024 comparative column of the Investment Properties Portfolio Statement (p120); 2025 column shows '–' (derecognised). Aggregate validated vs Note 4 'Disposal of investment properties (465,218)' (p156). Recovered 2026-06-30.",
     "counterparty": "Tekscend Photomask Singapore Pte. Ltd.",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 30 Tampines Industrial Avenue 3, Singapore, for a sale consideration of S$23.0m (vs S$22.0m independent valuation, a premium) to Tekscend Photomask Singapore Pte. Ltd.; completed 16 Oct 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -113,7 +120,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p120). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 31 Ubi Sub-Trust",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 31 Ubi Road 1, Singapore, for a sale consideration of S$30.0m (vs S$29.5m independent valuation) to Intertrust (Singapore) Ltd. as trustee of 31 Ubi Sub-Trust; completed 17 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -129,7 +137,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p120). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 10 Toh Guan Sub-Trust",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 10 Toh Guan Road, Singapore, for a sale consideration of S$84.5m (vs S$79.7m independent valuation) to Intertrust (Singapore) Ltd. as trustee of 10 Toh Guan Sub-Trust; completed 17 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -145,7 +154,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p121). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 9 Changi Sub-Trust",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 9 Changi South Street 3, Singapore, for a sale consideration of S$51.5m (vs S$47.5m independent valuation) to Intertrust (Singapore) Ltd. as trustee of 9 Changi Sub-Trust; completed 17 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -161,7 +171,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p121). Recovered 2026-06-30.",
     "counterparty": "Intertrust (Singapore) Ltd. in its capacity as trustee of 19 & 21 Pandan Sub-Trust",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 19 & 21 Pandan Avenue, Singapore, for a sale consideration of S$140.0m (vs S$132.6m independent valuation) to Intertrust (Singapore) Ltd. as trustee of 19 & 21 Pandan Sub-Trust; completed 17 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -178,7 +189,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p123): S$80,643k (orig A$93,000k). Recovered 2026-06-30.",
     "counterparty": "CDIT No 6 Pty Ltd ATF Cadence Direct Industrial Trust No 6 Sub Trust",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 95 Gilmore Road, Queensland, Australia, for a sale consideration of S$90.0m (vs S$82.2m independent valuation) to CDIT No 6 Pty Ltd ATF Cadence Direct Industrial Trust No 6 Sub Trust; completed 10 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -195,7 +207,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p124): S$48,273k (orig GBP 28,500k). Recovered 2026-06-30.",
     "counterparty": "Howden Joinery Limited",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of Astmoor Road, North West England, UK, for a sale consideration of S$52.5m (vs S$46.6m independent valuation) to Howden Joinery Limited; completed 7 Nov 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -212,7 +225,8 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p127): S$18,251k (orig USD 13,600k). Recovered 2026-06-30.",
     "counterparty": "Tualatin Hills Park & Recreation District",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of Parkside, Portland, US, for a sale consideration of S$26.5m (vs S$18.3m independent valuation) to Tualatin Hills Park & Recreation District; completed 26 Jun 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   },
   {
     "symbol": "A17U.SI",
@@ -229,6 +243,7 @@
     "carrying_value_basis": "Prior-FY-end carrying (31 Dec 2024 comparative column, p127): S$7,381k (orig USD 5,500k). Recovered 2026-06-30.",
     "counterparty": "Madrona SW Nimbus LLC",
     "currency": "SGD",
-    "deal_source_page": 32
+    "deal_source_page": 32,
+    "description": "Divestment of 8700-8770 Nimbus, Portland, US, for a sale consideration of S$8.5m (vs S$7.7m independent valuation) to Madrona SW Nimbus LLC; completed 30 Dec 2025, part of CLAR's FY2025 capital recycling of nine properties totalling S$506.5m."
   }
 ]

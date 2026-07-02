@@ -12,9 +12,9 @@
     "purchase_price": 640000000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 54400000.0,
+    "gross_revenue": 66500000.0,
+    "npi_pct": 36.22,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [
@@ -25,7 +25,7 @@
       }
     ],
     "gla": null,
-    "nla": null,
+    "nla": 394579.0,
     "gfa": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -40,7 +40,8 @@
         "note": "Trust holds a 27.23% strata title interest in the total share value of Ngee Ann City; the Ngee Ann City Property is carried at its full attributed valuation S$1,160,000k in the audited Portfolio Statement (p141). Occupancy disclosed 100.0% retail / 100.0% office."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 255,021 + Office 139,558 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -55,9 +56,9 @@
     "purchase_price": 663000000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 41000000.0,
+    "gross_revenue": 53500000.0,
+    "npi_pct": 27.3,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [
@@ -84,7 +85,8 @@
       }
     ],
     "source_page": 141,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -99,9 +101,9 @@
     "purchase_price": 303100000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 15600000.0,
+    "gross_revenue": 27400000.0,
+    "npi_pct": 10.39,
     "occupancy_rate": 90.8,
     "trade_mix": null,
     "major_tenants": [
@@ -112,7 +114,7 @@
       }
     ],
     "gla": null,
-    "nla": null,
+    "nla": 626107.0,
     "gfa": null,
     "land_tenure": "Freehold",
     "effective_date": null,
@@ -127,7 +129,8 @@
         "note": "Committed occupancy disclosed 90.8% retail / 29.6% office (p141); occupancy_rate stores the retail figure. Lower office occupancy noted as driver of portfolio occupancy decline."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 528,148 + Office 97,959 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -142,9 +145,9 @@
     "purchase_price": 145700000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 8400000.0,
+    "gross_revenue": 10200000.0,
+    "npi_pct": 5.59,
     "occupancy_rate": 99.3,
     "trade_mix": null,
     "major_tenants": [
@@ -154,7 +157,7 @@
         "pct": 4.6
       }
     ],
-    "gla": null,
+    "gla": 259098.0,
     "nla": null,
     "gfa": null,
     "land_tenure": "Freehold",
@@ -164,7 +167,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -179,9 +183,9 @@
     "purchase_price": 61000000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 1300000.0,
+    "gross_revenue": 2500000.0,
+    "npi_pct": 0.87,
     "occupancy_rate": 95.8,
     "trade_mix": null,
     "major_tenants": [
@@ -191,7 +195,7 @@
         "pct": null
       }
     ],
-    "gla": null,
+    "gla": 36933.0,
     "nla": null,
     "gfa": null,
     "land_tenure": "Freehold",
@@ -201,7 +205,8 @@
     "tenure_raw": "Freehold",
     "status": "active",
     "flags": [],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -216,9 +221,9 @@
     "purchase_price": 271300000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 17700000.0,
+    "gross_revenue": 18200000.0,
+    "npi_pct": 11.78,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [
@@ -229,7 +234,7 @@
       }
     ],
     "gla": null,
-    "nla": null,
+    "nla": 333289.0,
     "gfa": null,
     "land_tenure": "Freehold",
     "effective_date": null,
@@ -244,7 +249,8 @@
         "note": "Valued by Knight Frank Malaysia; RM translated at RM3.31:S$1.00. Master-leased to Katagreen (part of the Malaysia Properties master tenancy)."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -259,9 +265,9 @@
     "purchase_price": 173000000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 10200000.0,
+    "gross_revenue": 10600000.0,
+    "npi_pct": 6.79,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [
@@ -272,7 +278,7 @@
       }
     ],
     "gla": null,
-    "nla": null,
+    "nla": 254163.0,
     "gfa": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
@@ -287,7 +293,8 @@
         "note": "RM translated at RM3.31:S$1.00. Master-leased to Katagreen (Malaysia Properties)."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -302,14 +309,14 @@
     "purchase_price": 71300000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 1300000.0,
+    "gross_revenue": 1600000.0,
+    "npi_pct": 0.87,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [],
     "gla": null,
-    "nla": null,
+    "nla": 18816.0,
     "gfa": null,
     "land_tenure": "Freehold",
     "effective_date": null,
@@ -324,7 +331,8 @@
         "note": "Valued by Daiwa Real Estate Appraisal; JPY translated at JPY113.07:S$1.00."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   },
   {
     "symbol": "P40U.SI",
@@ -339,18 +347,18 @@
     "purchase_price": 70600000.0,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 400000.0,
+    "gross_revenue": 1600000.0,
+    "npi_pct": 0.27,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "major_tenants": [],
     "gla": null,
     "nla": null,
-    "gfa": null,
+    "gfa": 100854.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 40.0,
     "lease_expiry_date": "2035-12-27",
     "tenure_raw": "Leasehold estate (China land use right) expiring on 27 December 2035; remaining term 10 years",
     "status": "active",
@@ -361,6 +369,7 @@
         "note": "Valued by JLL; RMB translated at RMB5.62:S$1.00."
       }
     ],
-    "source_page": 141
+    "source_page": 141,
+    "_recovery_note": "NPI/Revenue FY24/25, GFA, lease_term_years (40-year leasehold) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
   }
 ]

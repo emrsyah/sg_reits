@@ -6,7 +6,7 @@
   "gross_revenue": 908841000.0,
   "net_property_income": 683537000.0,
   "net_distributable_income": 423022000.0,
-  "distribution_paid": null,
+  "distribution_paid": 439609000.0,
   "adjusted_distributable_income": null,
   "dpu": 8.02,
   "distribution_record": [
@@ -50,6 +50,10 @@
       "type": "dpu_period_basis",
       "scope": "distribution_record",
       "note": "FY24/25 DPU 8.02 cents declared as four quarterly distributions covering 1 Jan 2024-31 Mar 2024 (paid in FY24/25) plus the three FY24/25 quarters to 31 Dec 2024; ex/pay dates not tabulated in the report. Sum of the four listed period DPUs = 8.36 cents reflects the calendar-quarter declaration timing, not the FY24/25 8.02-cent headline."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "distribution_paid = S$439,609k cash 'Distributions to Unitholders' during the year, Statement of Movements in Unitholders' Funds (Group), FY2025; period-mixed (cash-paid-in-year basis per user decision, not aligned 1:1 to FY24/25 declared DPU periods); p114"
     }
   ],
   "source_page": 5,

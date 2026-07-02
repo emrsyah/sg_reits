@@ -299,9 +299,9 @@
     "purchase_price": 350000000,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
+    "net_property_income": 36375000,
     "gross_revenue": 70700000,
-    "npi_pct": null,
+    "npi_pct": 41.0,
     "occupancy_rate": 99.4,
     "nla": 292205,
     "land_tenure": "Freehold",
@@ -318,7 +318,9 @@
     "alt_value": 465700000,
     "alt_basis": "card valuation at 65% share (p51)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "_recovery_note": "net_property_income = Total segment net property income, EMEA (Frankfurt sole EMEA asset), Note 26 Operating Segment p213, US$'000; recovered 2026-07-02",
+    "_derived": "npi_pct = property net_property_income (36,375) / portfolio net_property_income (88,739, Financial Highlights p14 / income statement), both on consolidated 100% basis excluding equity-accounted Osaka JVs = 41.0%; recovered 2026-07-02"
   },
   {
     "symbol": "DCRU.SI",
@@ -334,7 +336,8 @@
     "valuation_date": "2025-12-31",
     "currency": "USD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 57754000,
+    "gross_revenue_currency": "USD",
     "npi_pct": null,
     "occupancy_rate": 98.3,
     "nla": 48289,
@@ -345,14 +348,20 @@
       {
         "type": "equity_accounted_jv",
         "scope": "market_valuation",
-        "note": "20% interest held via associate (equity-accounted, Note 8); NOT in the consolidated Portfolio Statement (Note 6). market_valuation = card valuation at 20% ownership share; gross_revenue not disclosed (equity-accounted, no consolidated revenue line)."
+        "note": "20% interest held via associate (equity-accounted, Note 8); NOT in the consolidated Portfolio Statement (Note 6). market_valuation = card valuation at 20% ownership share; consolidated (Group-level) gross_revenue not disclosed for this asset."
+      },
+      {
+        "type": "different_basis_than_siblings",
+        "scope": "gross_revenue",
+        "note": "gross_revenue = Digital Osaka 2 TMK 'Revenue for the year' at 100% (associate entity level), Note 8 Associates, p187 — NOT at the Group's 20% ownership share (unlike sibling consolidated properties whose gross_revenue is at ownership share). No 20%-share revenue figure is separately disclosed; not derived/converted per no-invention rule."
       }
     ],
     "value_basis": "effective_interest",
     "alt_value": null,
     "alt_basis": null,
     "source_page": 52,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 2 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02"
   },
   {
     "symbol": "DCRU.SI",
@@ -368,7 +377,8 @@
     "valuation_date": "2025-12-31",
     "currency": "USD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 29848000,
+    "gross_revenue_currency": "USD",
     "npi_pct": null,
     "occupancy_rate": 100.0,
     "nla": 38707,
@@ -379,13 +389,19 @@
       {
         "type": "equity_accounted_jv",
         "scope": "market_valuation",
-        "note": "Acquired Mar 2025, 20% interest via associate (equity-accounted, Note 8); NOT in consolidated Portfolio Statement (Note 6). market_valuation = card valuation at 20% share; gross_revenue not disclosed."
+        "note": "Acquired Mar 2025, 20% interest via associate (equity-accounted, Note 8); NOT in consolidated Portfolio Statement (Note 6). market_valuation = card valuation at 20% share; consolidated (Group-level) gross_revenue not disclosed for this asset."
+      },
+      {
+        "type": "different_basis_than_siblings",
+        "scope": "gross_revenue",
+        "note": "gross_revenue = Digital Osaka 3 TMK 'Revenue for the year' at 100% (associate entity level), Note 8 Associates, p187 — NOT at the Group's 20% ownership share (unlike sibling consolidated properties whose gross_revenue is at ownership share). No 20%-share revenue figure is separately disclosed; not derived/converted per no-invention rule."
       }
     ],
     "value_basis": "effective_interest",
     "alt_value": null,
     "alt_basis": null,
     "source_page": 53,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 3 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02"
   }
 ]

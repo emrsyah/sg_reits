@@ -5,12 +5,13 @@
       "reason": "Report discloses GFA and NLA; GLA not labeled. GFA in gfa field, NLA in nla field."
     },
     {
-      "column": "properties.ownership",
-      "reason": "Only flagged as <50% by GFA for 7 properties. Exact % not disclosed."
-    },
-    {
       "column": "properties.major_tenants",
       "reason": "Top tenants disclosed at portfolio level only (page 28), not per-property."
+    },
+    {
+      "column": "properties.net_property_income (Grand Palladium only)",
+      "reason": "Financial Overview per-property table (p32) shows dash '-' for Grand Palladium's Gross Revenue and NPI in both FY2025 and FY2024 columns — mall was undergoing refurbishment with 0% occupancy per notes, so no revenue/NPI generated. Not a missing extraction; genuinely nil/undisclosed as a figure. Left null.",
+      "source_page": 32
     }
   ],
   "data_with_no_home": [
@@ -89,6 +90,22 @@
     }
   ],
   "data_provenance": [
+    {
+      "table": "properties",
+      "field": "ownership",
+      "scope": "28 of 29 properties",
+      "value": 100.0,
+      "basis": "Note 36 'Listing of Subsidiaries': 'All the subsidiaries are wholly owned.' Each property's owning subsidiary is individually named with 'Owner of <property>' in the principal-activities column, confirming 100% ownership per property (not an assumption).",
+      "source_page": 150
+    },
+    {
+      "table": "properties",
+      "field": "ownership",
+      "scope": "Lippo Plaza Jogja",
+      "value": 68.3,
+      "basis": "Note 17 'Investments in Joint Operation': PT Yogya Central Terpadu (Owner of Lippo Plaza Jogja and Siloam Hospital Yogyakarta), 'Proportion of ownership interest held by the Group' = 68.3% (2025 and 2024). Class B Shares (68.3% of share capital) entitle holder to all rights/obligations relating to Lippo Plaza Jogja specifically.",
+      "source_page": 120
+    },
     {
       "table": "financial",
       "field": "weighted_avg_shares_basic",

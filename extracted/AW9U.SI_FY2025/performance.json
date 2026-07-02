@@ -6,7 +6,7 @@
   "gross_revenue": 100531000,
   "net_property_income": 97340000,
   "net_distributable_income": 45800000,
-  "distribution_paid": null,
+  "distribution_paid": 46936000,
   "adjusted_distributable_income": null,
   "dpu": 2.17,
   "distribution_record": [
@@ -55,6 +55,10 @@
       "type": "kpi_not_disclosed",
       "scope": "weighted_avg_debt_maturity",
       "note": "No portfolio weighted average debt maturity / tenor in years is disclosed in the AR — only individual loan maturity dates and a S$300m facility extended to May 2027. Left null per §0.6 (not structurally claimable as a single figure)."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed); S$46,936k Total distribution paid to unitholders, Note 24 p128"
     }
   ],
   "source_page": 7,

@@ -6,11 +6,13 @@
     },
     {
       "column": "properties.nla",
-      "reason": "No net lettable area disclosed; size metrics are floor area (sq m) and number of beds (SG cards) / not disclosed (Japan, France)."
+      "reason": "No net lettable area disclosed; size metrics are floor area (sq m) and number of beds (SG cards) / not disclosed (Japan, France). R4 EXHAUSTIVE RE-CHECK (2026-07-02) confirmed genuine absence: all 74 property cards ('Our Portfolio', pp.40-60) disclose only Land Area (sq m) and Floor Area (sq m) -- no 'Net Lettable Area' / 'NLA' column anywhere. Portfolio Statement (pp.150-165) discloses only Location/Existing use/Valuation -- no area column at all. Financial Review (pp.32-37), Portfolio Highlights (pp.38-39), and Operating Segments note 25 (pp.232-233) disclose no area figures whatsoever. No per-property or per-segment NLA exists in this report; total structural absence, not a skipped table.",
+      "pages_checked_r4": "36-39, 40-60 (all 74 property cards), 150-165 (Portfolio Statement), 232-234 (Note 25 Operating Segments)"
     },
     {
       "column": "properties.net_property_income",
-      "reason": "Per-property NPI not disclosed; only portfolio-level NPI (S$147,484k) is reported. Property expenses borne by lessees under triple-net / master leases."
+      "reason": "Per-property NPI not disclosed; only portfolio-level NPI (S$147,484k) is reported. Property expenses borne by lessees under triple-net / master leases. R4 EXHAUSTIVE RE-CHECK (2026-07-02) confirmed genuine absence: property cards (pp.40-60) disclose only Gross Revenue (2025/2024) per property, no NPI/expense line. Portfolio Statement (pp.150-165) discloses no income data at all (valuation only). Note 25 Operating Segments (pp.232-233) discloses NPI only decomposed 2-ways by ASSET TYPE (Hospitals & Medical Centres S$97,437k / Nursing Homes S$50,047k = total S$147,484k) -- this is a segment total, not per-property, and does NOT decompose further anywhere in the report. Financial Review (pp.32-37) gives portfolio-level NPI only. Confirmed total-only; no skipped per-property NPI table exists.",
+      "pages_checked_r4": "32-37, 40-60 (all 74 property cards), 150-165 (Portfolio Statement), 232-234 (Note 25 Operating Segments, asset-type 2-way split only)"
     },
     {
       "column": "properties.gross_revenue",
@@ -83,7 +85,7 @@
       "trap": "trade_mix pct_basis='asset_value': PLife discloses no GRI/rental trade-sector mix; the only portfolio breakdown is by asset value (Hospitals & Medical Centres 67.8% / Nursing Homes 32.2%, p39). 'asset_value' is not in KNOWN_PCT_BASIS — it is the genuinely disclosed basis (candidate enum extension)."
     },
     {
-      "trap": "Orange no Sato (Japan) leasehold 99 years, 95 remaining, but no lease start date disclosed in the Portfolio Statement -> lease_expiry_date left null (not derivable without fabrication). All other Japan/France assets are Freehold."
+      "trap": "Orange no Sato (Japan) leasehold 99 years, 95 remaining; Portfolio Statement (p160) alone gives no start date, but the property card (Our Portfolio, p49) discloses 'Leasehold with 99 years from 1 November 2019' -> effective_date/lease_expiry_date (2019-11-01/2118-11-01) recovered 2026-07-02 from p.49. All other 61 Japan + 10 France assets are genuinely Freehold per both the Portfolio Statement land-tenure table (pp150-165) and property cards (pp40-60): lease_term_years/lease_expiry_date correctly left null for those 71 rows (freehold-by-nature, not missing data)."
     },
     {
       "trap": "Group Home Hakusho valuation S$898k is the genuine disclosed carrying value (a very small group home, p159), not a unit error."

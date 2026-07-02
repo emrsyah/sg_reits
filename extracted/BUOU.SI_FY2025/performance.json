@@ -6,7 +6,7 @@
   "gross_revenue": 471486000,
   "net_property_income": 339726000,
   "net_distributable_income": 224654000,
-  "distribution_paid": null,
+  "distribution_paid": 237992000,
   "adjusted_distributable_income": null,
   "dpu": 5.95,
   "distribution_record": [
@@ -38,6 +38,10 @@
       "type": "dpu_half_year_split",
       "scope": "distribution_record",
       "note": "FY2025 DPU 5.95c = H1 3.00c (paid) + H2 2.95c (declared post year-end). H2 ex/pay dates not in this report."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed: 3.32c for 1 Apr-30 Sep 2024 period + 3.00c for 1 Oct 2024-31 Mar 2025 period); S$237,992k p120/122/125"
     }
   ],
   "source_page": 28,

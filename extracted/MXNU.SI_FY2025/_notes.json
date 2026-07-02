@@ -19,6 +19,14 @@
     {
       "column": "financial.funds_from_operation",
       "reason": "No US-style FFO disclosed; trust reports Distributable Income (GBP 19,303k -> performance.net_distributable_income)."
+    },
+    {
+      "column": "top_tenant.industry",
+      "reason": "Rank-7 tenant 'Commercial tenant (1)' has no more granular trade sector than the report's own bucket label 'Commercial (1)' (Tenant Engagement table, PAGE 27: Government (6) 99.2%, Others (5) 0.8% split into Commercial (1) 0.3%, Healthcare (1) 0.3%, Retail (3) 0.2%). Tenant identity/trade is not named individually anywhere else in the report -> left null."
+    },
+    {
+      "column": "property.gross_revenue",
+      "reason": "9 smallest properties (Castlestead House Montrose, High Street Dingwall, Waggon Road Leven, Bayfield Road Portree [p41]; Crown Buildings Abertillery, Dock Street Porthcawl, Maengwyn Street Machynlleth [p51]; Mulberry House Goole [p55]; Norham House Berwick Upon Tweed [p57]) show '#' in the 'Annualised Gross Rental Income' column, footnoted 'Amount under £50,000'. No precise figure is disclosed, so left null rather than inventing a value within the <£50k band."
     }
   ],
   "data_with_no_home": [
@@ -135,7 +143,7 @@
       "field": "occupancy_rate",
       "scope": "active rows with no per-region exception",
       "value": 100.0,
-      "basis": "Region footnotes state 'occupancy rate for all properties in <region> is 100%' (per-region, not per-property); applied per property. Vacant/partial assets (Lindsay House Dundee, Ladywell House Edinburgh, Cambria House/Newport Road Cardiff, The Forum Stevenage) left null and flagged.",
+      "basis": "Region footnotes state 'occupancy rate for all properties in <region> is 100%' (per-region, not per-property); applied per property. Lindsay House Dundee and Ladywell House Edinburgh remain null (partial/vacant with no per-property % disclosed). Cambria House/Newport Road Cardiff recovered as 0.0 (p51 footnote: 'vacant') and The Forum Stevenage recovered as 80.0 (p53 footnote: 'vacancy rate of 20%') in the second null-recovery round.",
       "source_page": 41
     },
     {
@@ -153,6 +161,104 @@
       "value": "Office",
       "basis": "Portfolio is UK Government-let commercial office/operational assets (DWP JobCentre Plus etc.); per-property asset type not individually labelled.",
       "source_page": 6
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "column": "occupancy_rate",
+      "key": "Ladywell House, Edinburgh",
+      "status": "confirmed_absent",
+      "reason": "Scotland portfolio table (p41) footnote 1 states occupancy is 100% for all Scotland properties 'excluding Lindsay House, Dundee and Ladywell House, Edinburgh'; footnote 3 (marker on the Ladywell House row) states only qualitatively 'Ladywell House, Edinburgh is partially occupied and undergoing asset management review.' No numeric occupancy % is printed for this property anywhere in the report — per invariant 3, a qualitative 'partially occupied' descriptor is not a literal percentage and must not be inferred/derived (e.g. as 50%). Left null with qualitative note retained (this matches the existing flag already on the property record).",
+      "pages_read": [
+        41
+      ],
+      "quote": "\"1 The occupancy rate for all properties in Scotland is 100%, excluding Lindsay House, Dundee and Ladywell House, Edinburgh.\" / \"3 Ladywell House, Edinburgh is partially occupied and undergoing asset management review.\" (p41)"
+    },
+    {
+      "table": "properties",
+      "column": "occupancy_rate",
+      "key": "Lindsay House, Dundee",
+      "status": "confirmed_absent",
+      "reason": "Same Scotland portfolio table (p41) footnote 1 excludes Lindsay House, Dundee from the blanket 100% occupancy statement; footnote 4 (marker on the Lindsay House row) states only 'Lindsay House, Dundee is a vacant property being converted into a purpose-built student accommodation asset.' 'Vacant' is a qualitative status description, not a printed numeric occupancy %, and per invariant 3 must not be converted to an inferred 0.0 value. Left null with qualitative note retained (matches existing flag already on the property record).",
+      "pages_read": [
+        41
+      ],
+      "quote": "\"1 The occupancy rate for all properties in Scotland is 100%, excluding Lindsay House, Dundee and Ladywell House, Edinburgh.\" / \"4 Lindsay House, Dundee is a vacant property being converted into a purpose-built student accommodation asset.\" (p41)"
+    }
+  ],
+  "null_recovery_round8_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "column": "valuation, carrying_value",
+      "key": "Crown Buildings, Caerphilly (divestment, Trivallis Ltd, completed 3 Mar 2025)",
+      "status": "confirmed_equal",
+      "reason": "Worklist flag valuation==carrying_value==600,000 verified GENUINE, not conflation. valuation 600000 = Divestments table 'Valuation (£'m)' 0.6 (p26), footnoted (fn 7) as an independent CBRE valuation AS AT 31 December 2024. carrying_value 600000 = 31 Dec 2024 fair-value carrying. Under the fair-value model an investment property's carrying value equals its independent valuation at the SAME date, so carrying==valuation at 31 Dec 2024 is expected, not a copy defect. In-report cross-check: Note 4 movement (p148) 'Divestments during the year (1,100)' for 2025 = Crown 0.6 + Victoria 0.5 = 1.1 (Hilden & St Paul's exited via the 2024 held-for-sale reclassification, not this line). No correction. NOTE: per-property carrying 0.6 is not printed individually in FY2025; the 0.6 value itself was recovered by a prior round from the FY2024 AR (Wales p50).",
+      "pages_read": [26, 148],
+      "quote": "\"| 1 | Crown Buildings, Caerphilly | ... | Trivallis Ltd | 0.7 | 0.6 (fn 7) | 3 Mar 25 |\" (p26); \"7 Based on an independent valuation conducted by CBRE Limited as at 31 December 2024.\" (p26); \"Divestments during the year | (1,100)\" (p148)"
+    },
+    {
+      "table": "property_transactions",
+      "column": "valuation, carrying_value",
+      "key": "Victoria Road, Kirkcaldy (divestment, Alex Penman, completed 29 Jul 2025)",
+      "status": "confirmed_equal",
+      "reason": "Worklist flag valuation==carrying_value==500,000 verified GENUINE, not conflation. valuation 500000 = Divestments table 'Valuation (£'m)' 0.5 (p26), footnoted (fn 7) as an independent CBRE valuation AS AT 31 December 2024. carrying_value 500000 = 31 Dec 2024 fair-value carrying; under the fair-value model it equals the same-date valuation, so the equality is expected. In-report cross-check: Note 4 movement (p148) 'Divestments during the year (1,100)' = Crown 0.6 + Victoria 0.5 = 1.1. Sale price 0.3 (below carrying) is stored separately and correct. No correction. NOTE: the 0.5 carrying was recovered by a prior round from the FY2024 AR (Scotland p41); not printed per-property in FY2025.",
+      "pages_read": [26, 148],
+      "quote": "\"| 4 | Victoria Road, Kirkcaldy | ... | Alex Penman | 0.3 | 0.5 (fn 7) | 29 Jul 25 |\" (p26); \"Divestments during the year | (1,100)\" (p148)"
+    },
+    {
+      "table": "property_transactions",
+      "column": "carrying_value",
+      "key": "Hilden House, Warrington (divestment, Caro Developments Ltd, completed 14 May 2025)",
+      "status": "flag",
+      "reason": "carrying_value 3,300,000 EQUALS the sale price 3,300,000 AND is a DERIVED figure per the existing carrying_value_basis: 4,650 (combined held-for-sale reclassification at 31 Dec 2024) minus 1,350 (St Paul's, itself from FY2024 AR). This violates invariant 3 (NEVER DERIVE) and the FY2025 report prints ONLY the combined 4,650 (p148 movement '(4,650)' 2024 col; p149 note), never a per-property Hilden carrying. Left UNCHANGED (no source-cited per-property replacement exists in THIS report). MAIN AGENT to decide: verify Hilden's 31 Dec 2024 per-property carrying against the FY2024 AR (North West region) directly, or set carrying_value null per invariant 3. valuation 3,100,000 and price 3,300,000 are correct per Divestments table p26 (fn 8, CBRE as at 30 June 2024).",
+      "pages_read": [26, 148, 149],
+      "quote": "\"Reclassification to assets held for sale | – | (4,650)\" (p149, 2024 col); \"the carrying amount of the two properties are presented as assets held for sale as at 31 December 2024 ... completed on 14 May 2025 and 18 July 2025\" (p149); \"| 2 | Hilden House, Warrington | ... | 3.3 | 3.1 (fn 8) | 14 May 25 |\" (p26)"
+    },
+    {
+      "table": "property_transactions",
+      "column": "carrying_value",
+      "key": "St Paul's House, Chippenham (divestment, Abode & Co Holdings Limited, completed 18 Jul 2025)",
+      "status": "flag",
+      "reason": "No conflation: carrying_value 1,350,000 is distinct from valuation 1,400,000 and price 1,600,000. But it is sourced cross-report from the FY2024 AR (South West p46 '1.35'), not from the FY2025 report, which prints only the combined 4,650 held-for-sale (Hilden + St Paul's) with no per-property split. valuation 1.4 (fn 8, CBRE 30 Jun 2024) and price 1.6 correct per Divestments table p26. Left UNCHANGED; flagged only for the cross-report sourcing decision.",
+      "pages_read": [26, 149],
+      "quote": "\"| 3 | St Paul's House | ... | 1.6 | 1.4 (fn 8) | 18 Jul 25 |\" (p26); \"8 Based on an independent valuation conducted by CBRE Limited as at 30 June 2024.\" (p26)"
+    },
+    {
+      "table": "property_transactions",
+      "column": "price, purchase_price, valuation, cost_recognised",
+      "key": "Custom House, Felixstowe; Merlin House, Carmarthen; Priory Court, Dover (acquisition from Elite Phoenix Limited, completed 20 Jun 2025)",
+      "status": "confirmed_correct",
+      "reason": "Audited, no conflation. price 9,200,000 = purchase_price 9,200,000 = Acquisitions table total 'Purchase Price 9.2' (p25). valuation 10,700,000 = Acquisitions table total 'Valuation 10.7' (p25, fn 6 = Colliers as at 31 Dec 2025). cost_recognised 9,644,000 = Note 4 movement 'Acquisition during the year 9,644' (p148). price==purchase_price is the same concept (consideration) and correct. By-design nulls (carrying_value, gross_sale_price) correctly absent on this acquisition row.",
+      "pages_read": [25, 148],
+      "quote": "\"| Total | | | | | 9.2 | 10.7 | |\" (p25); \"6 Based on independent valuation by Colliers ... as at 31 December 2025.\" (p25); \"Acquisition during the year | 9,644 | –\" (p148)"
+    },
+    {
+      "table": "property_transactions",
+      "column": "combined_divestment_figures",
+      "key": "All 4 FY2025 divestments (Crown, Hilden, St Paul's, Victoria)",
+      "status": "confirmed_correct",
+      "reason": "The notes' combined figures are verifiable in THIS report and correctly left unsplit per property: net divestment proceeds 5,670 (cash-flow statement, p136) and net loss on divestment 80 (statement of comprehensive income p134; also business review p23). No per-row net>=gross defect (per-row gross/net fields are not stored in property_transactions.json).",
+      "pages_read": [23, 134, 136],
+      "quote": "\"Proceeds from divestment of investment properties, net | 5,670 | 1,221\" (p136); \"(Loss)/Gain on divestment of investment properties | (80) | 321\" (p134 / p23)"
+    },
+    {
+      "table": "properties",
+      "column": "market_valuation vs purchase_price",
+      "key": "17 properties where market_valuation == purchase_price (e.g. Speke Road Liverpool 700000; Lee-Moran House Burnley 2200000)",
+      "status": "confirmed_correct",
+      "reason": "Scanned other property money fields for conflation. The 17 market_valuation==purchase_price matches are GENUINE, not copy defects: the Portfolio Profiles regional tables print BOTH a 'Valuation as at 31 Dec 2025 (£'m)' column and a 'Purchase Price (£'m)' column, and for these small properties the two rounded £'m values coincide (Speke Road: Valuation 0.7 / Purchase Price 0.7; Lee-Moran House: 2.2 / 2.2). Both columns literally printed. No change.",
+      "pages_read": [38],
+      "quote": "North West table header 'Valuation as at 31 Dec 2025 (£'m) | ... | Purchase Price (£'m)'; \"| 22 | Speke Road, Liverpool | ... | 0.7 | 0.1 | 0.1 | 0.7 | 8,317 |\" and \"| 13 | Lee-Moran House, Burnley | ... | 2.2 | 0.2 | 0.2 | 2.2 | 17,886 |\" (p38)"
+    },
+    {
+      "table": "ALL",
+      "column": "currency",
+      "key": "MXNU.SI portfolio-wide currency/unit scan",
+      "status": "flag_none",
+      "reason": "No currency conflation. Elite UK REIT reports entirely in GBP (£'m in profiles, £'000 in financial statements); every txn/property money field is GBP with currency tag 'GBP' (148 properties, 5 txns, 1 performance all GBP). No RMB/CNY tags, no SGD-converted values in local columns, no currency-tag != figure-ccy mismatch. MINOR data-quality flag (not conflation): 23 properties carry purchase_price provenance 'pNone' / purchase_price_source_page null (the source is the Portfolio Profiles regional tables, e.g. North West p38) — stale prior-round provenance, values themselves are fine.",
+      "pages_read": [25, 26, 38, 148],
+      "quote": "profiles denominated '(£'m)' (p38); Divestments/Acquisitions '(£'m)' (p25, p26); Note 4 '£'000' (p148)"
     }
   ]
 }

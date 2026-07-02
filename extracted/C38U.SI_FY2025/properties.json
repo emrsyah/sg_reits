@@ -32,7 +32,7 @@
     ],
     "gfa": 507300.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -72,7 +72,7 @@
     ],
     "gfa": 577000.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -112,10 +112,12 @@
     ],
     "gfa": 593900.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": null,
+    "purchase_price_currency": null
   },
   {
     "symbol": "C38U.SI",
@@ -150,10 +152,12 @@
     ],
     "gfa": 334300.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 780000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -188,7 +192,7 @@
     ],
     "gfa": 451600.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -228,7 +232,7 @@
     ],
     "gfa": 1426500.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -268,7 +272,7 @@
     ],
     "gfa": 333300.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -308,7 +312,7 @@
     ],
     "gfa": 366600.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -348,7 +352,7 @@
     ],
     "gfa": 319800.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -388,10 +392,12 @@
     ],
     "gfa": 916900.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 2094000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -432,10 +438,12 @@
         "note": "Card discloses S$72.7m on 100% full-year basis (incl. SR up to 30 May 2025 divestment; 45%-then-100% interest). Financial Review (p25) shows S$37.7m consolidated contribution from 26 Aug 2025 acquisition. Captured the property-card disclosed figure (72.7m)."
       }
     ],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": null,
+    "purchase_price_currency": null
   },
   {
     "symbol": "C38U.SI",
@@ -470,10 +478,12 @@
     ],
     "gfa": 882700.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 1600500000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -508,7 +518,7 @@
     ],
     "gfa": 655200.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -548,7 +558,7 @@
     ],
     "gfa": 1027200.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -594,10 +604,12 @@
         "note": "CICT owns 70%; Portfolio Statement + financial review report at 100% basis."
       }
     ],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 1260000000.0,
+    "purchase_price_currency": "SGD"
   },
   {
     "symbol": "C38U.SI",
@@ -792,10 +804,12 @@
     ],
     "gfa": null,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 372000000.0,
+    "purchase_price_currency": "AUD"
   },
   {
     "symbol": "C38U.SI",
@@ -817,7 +831,7 @@
     "land_tenure": "Leasehold",
     "effective_date": null,
     "lease_term_years": 125.0,
-    "lease_expiry_date": null,
+    "lease_expiry_date": "2116-08-16",
     "tenure_raw": "Leasehold / 111 – 125 years / 91 years",
     "status": "active",
     "source_page": 109,
@@ -830,10 +844,13 @@
     ],
     "gfa": null,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 300000000.0,
+    "purchase_price_currency": "AUD",
+    "_recovery_note": "lease_expiry_date from property card: \"Leasehold expiring 16 August 2116\" (p58); recovered 2026-07-02"
   },
   {
     "symbol": "C38U.SI",
@@ -920,10 +937,12 @@
         "note": "CICT owns 94.9%; Portfolio Statement carries at 100% consolidated."
       }
     ],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 356000000.0,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C38U.SI",
@@ -964,10 +983,12 @@
         "note": "CICT owns 94.9%; Portfolio Statement carries at 100% consolidated."
       }
     ],
-    "category_raw": null,
+    "category_raw": "Office",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 265000000.0,
+    "purchase_price_currency": "EUR"
   },
   {
     "symbol": "C38U.SI",
@@ -1002,7 +1023,7 @@
     ],
     "gfa": 247500.0,
     "flags": [],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
     "area_unit": "sqft",
@@ -1015,9 +1036,9 @@
     "property_name": "ION Orchard",
     "country": "Singapore",
     "category": "Retail",
-    "address": null,
+    "address": "2 Orchard Turn",
     "ownership": 50.0,
-    "market_valuation": null,
+    "market_valuation": 3710400000.0,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
@@ -1026,9 +1047,9 @@
     "trade_mix": null,
     "gla": null,
     "nla": 624200.0,
-    "land_tenure": null,
-    "effective_date": null,
-    "lease_term_years": null,
+    "land_tenure": "Leasehold",
+    "effective_date": "2006-03-13",
+    "lease_term_years": 99.0,
     "lease_expiry_date": null,
     "tenure_raw": null,
     "status": "active",
@@ -1043,9 +1064,12 @@
         "note": "50% equity-accounted JV; NOT in audited Portfolio Statement. market_valuation null; Tier-A proportionate value S$1,855.2m (p23). GR/area from per-property card."
       }
     ],
-    "category_raw": null,
+    "category_raw": "Retail",
     "npi_pct": null,
     "divestment_price": null,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_price": 3697000000.0,
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "land_tenure/lease_term_years/effective_date from property card: \"Leasehold tenure of 99 years with effect from 13 March 2006\" (p43); recovered 2026-07-02; address/market_valuation/category_raw/purchase_price recovered 2026-07-02 from property card (p43): Address \"2 Orchard Turn\", Valuation 100% basis S$3,710.4m, Agreed Property Value in 2024 S$3,697.0m (100%); category_raw inferred Retail from Suburban/Downtown mall grouping (p35) as no explicit sector label appears on the JV card"
   }
 ]

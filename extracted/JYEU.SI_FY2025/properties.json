@@ -175,7 +175,7 @@
     "category_raw": "Commercial (retail)",
     "address": "80 Marine Parade Road, Singapore 449269",
     "ownership": 10.0,
-    "market_valuation": null,
+    "market_valuation": 86090000,
     "valuation_date": "2025-06-30",
     "currency": "SGD",
     "net_property_income": null,
@@ -197,12 +197,12 @@
       {
         "type": "equity_accounted_jv",
         "scope": "property",
-        "note": "Held via a 10.0% interest in Parkway Parade Partnership Pte. Ltd. (PPP), which holds an indirect 100% interest in 291 strata lots (77.09% of total share value) of Parkway Parade. Equity-accounted associate; not a row in the audited Portfolio Statement. Investment in associates carrying value S$4,130k (note 7). Per-property valuation not disclosed."
+        "note": "Held via a 10.0% interest in Parkway Parade Partnership Pte. Ltd. (PPP), which holds an indirect 100% interest in 291 strata lots (77.09% of total share value) of Parkway Parade. Held as an 'Equity instrument at fair value' (Note 9, p145) at S$86,090k (= market_valuation) — NOT an equity-accounted associate. Per-property property-level valuation not disclosed. [Round-7 correction: the earlier S$4,130k 'investment in associates' (Note 7) figure belongs to unrelated Jem-fund associates ARIF3/LLJV/TEJV, not Parkway Parade — removed from alt_value.]"
       }
     ],
     "source_page": 20,
     "value_basis": "effective_interest",
-    "alt_value": 4130000,
-    "alt_basis": "Investment in associates carrying value (note 7, p112), reflects 10% economic interest in PPP — not the property's appraised value"
+    "alt_value": null,
+    "alt_basis": null
   }
 ]

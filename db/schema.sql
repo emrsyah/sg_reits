@@ -5,6 +5,7 @@
 -- ---------------------------------------------------------------------------
 -- DATA TABLES (load target for extracted/; the jun17 "REITs DB = source of truth")
 -- ---------------------------------------------------------------------------
+create extension if not exists vector;
 
 create table if not exists sgx_reit_profile (
   symbol        text primary key,
@@ -65,10 +66,11 @@ create table if not exists sgx_reit_property (
   original_currency text,                         -- AUDIT TRAIL: local/transacting ccy when reported separately (e.g. RMB)
   original_value numeric,                         -- AUDIT TRAIL: market_valuation in original_currency
   net_property_income numeric,
+  net_property_income_currency text,              -- per-figure ccy (Phase-3 Tier-0): DHLU etc. report NPI in asset-local ccy (JPY) while `currency`=SGD presentation. Default = row currency.
   gross_revenue numeric,
+  gross_revenue_currency text,                    -- per-figure ccy (Phase-3 Tier-0); default = row currency
   npi_pct numeric,
   occupancy_rate numeric,
-  trade_mix jsonb,                                -- {category: pct}
   major_tenants jsonb not null default '[]',      -- [{name, industry, pct}]
   gla numeric, nla numeric, gfa numeric,
   area_unit text,                                 -- AUDIT TRAIL: 'sqft'|'sqm' of gla/nla/gfa as reported (prod -> sqft)
@@ -78,7 +80,6 @@ create table if not exists sgx_reit_property (
   lease_expiry_date date,
   tenure_raw text,
   status text not null default 'active',
-  divestment_price numeric,
   flags jsonb not null default '[]',
   source_page int,
   unique (symbol, financial_year, property_name)
@@ -89,6 +90,11 @@ alter table sgx_reit_property add column if not exists original_value numeric;
 alter table sgx_reit_property add column if not exists purchase_price numeric;
 alter table sgx_reit_property add column if not exists purchase_price_currency text;
 alter table sgx_reit_property add column if not exists area_unit text;
+-- Phase-3 Tier-0 (2026-07-01): per-figure currency for NPI/gross_revenue (fixes DHLU JPY-vs-SGD mislabel)
+alter table sgx_reit_property add column if not exists net_property_income_currency text;
+alter table sgx_reit_property add column if not exists gross_revenue_currency text;
+alter table sgx_reit_property drop column if exists trade_mix;
+alter table sgx_reit_property drop column if exists divestment_price;
 
 create table if not exists sgx_reit_top_tenant (
   id uuid primary key default gen_random_uuid(),
@@ -208,6 +214,40 @@ create table if not exists reit_report (
   unique (symbol, financial_year)
 );
 
+-- page-aware embeddings over parsed_reports_datalab/<report>/full.md.
+-- Chunk rows are deterministic/idempotent by chunk_hash; embeddings can be filled later.
+create table if not exists sgx_reit_doc_chunk (
+  id uuid primary key default gen_random_uuid(),
+  report_id uuid references reit_report(id) on delete cascade,
+  symbol text not null,
+  financial_year int not null,
+  report_dir text not null,
+  source_path text not null,
+  chunk_index int not null,
+  page_start int not null,
+  page_end int not null,
+  char_start int not null,
+  char_end int not null,
+  heading_path text[] not null default '{}',
+  chunk_text text not null,
+  token_count int not null,
+  chunk_hash text not null,
+  embedding_model text not null default 'voyage-4-large',
+  embedding_dimension int not null default 1024,
+  embedding vector(1024),
+  embedding_tokens int,
+  embedded_at timestamptz,
+  created_at timestamptz not null default now(),
+  updated_at timestamptz not null default now(),
+  unique (chunk_hash),
+  unique (report_dir, chunk_index)
+);
+alter table sgx_reit_doc_chunk add column if not exists report_id uuid references reit_report(id) on delete cascade;
+alter table sgx_reit_doc_chunk add column if not exists heading_path text[] not null default '{}';
+alter table sgx_reit_doc_chunk add column if not exists embedding vector(1024);
+alter table sgx_reit_doc_chunk add column if not exists embedding_tokens int;
+alter table sgx_reit_doc_chunk add column if not exists embedded_at timestamptz;
+
 create table if not exists reit_record_verdict (
   id uuid primary key default gen_random_uuid(),
   report_id uuid not null references reit_report(id) on delete cascade,
@@ -241,6 +281,50 @@ create index if not exists idx_fin_sy      on sgx_reit_financial (symbol, financ
 create index if not exists idx_txn_sy      on sgx_reit_property_transaction (symbol, financial_year);
 create index if not exists idx_verdict_report on reit_record_verdict (report_id);
 create index if not exists idx_edit_report    on reit_field_edit (report_id);
+create index if not exists idx_doc_chunk_sy on sgx_reit_doc_chunk (symbol, financial_year);
+create index if not exists idx_doc_chunk_report_page on sgx_reit_doc_chunk (report_dir, page_start, page_end);
+create index if not exists idx_doc_chunk_unembedded on sgx_reit_doc_chunk (embedding_model, embedding_dimension, id) where embedding is null;
+create index if not exists idx_doc_chunk_embedding_hnsw on sgx_reit_doc_chunk using hnsw (embedding vector_cosine_ops) where embedding is not null;
+
+create or replace function match_sgx_reit_doc_chunks(
+  query_embedding vector(1024),
+  match_count int default 10,
+  filter_symbol text default null,
+  filter_financial_year int default null
+)
+returns table (
+  id uuid,
+  symbol text,
+  financial_year int,
+  report_dir text,
+  page_start int,
+  page_end int,
+  chunk_index int,
+  heading_path text[],
+  chunk_text text,
+  similarity double precision
+)
+language sql
+stable
+as $$
+  select
+    c.id,
+    c.symbol,
+    c.financial_year,
+    c.report_dir,
+    c.page_start,
+    c.page_end,
+    c.chunk_index,
+    c.heading_path,
+    c.chunk_text,
+    1 - (c.embedding <=> query_embedding) as similarity
+  from sgx_reit_doc_chunk c
+  where c.embedding is not null
+    and (filter_symbol is null or c.symbol = filter_symbol)
+    and (filter_financial_year is null or c.financial_year = filter_financial_year)
+  order by c.embedding <=> query_embedding
+  limit match_count
+$$;
 
 -- ---------------------------------------------------------------------------
 -- RLS — data read-only to authed reviewers; verdict/edit writable only by their author.
@@ -252,6 +336,7 @@ begin
   foreach t in array array[
     'sgx_reit_profile','sgx_reit_performance','sgx_reit_property','sgx_reit_top_tenant',
     'sgx_reit_trade_mix','sgx_reit_financial','sgx_reit_property_transaction','sgx_reit_notes',
+    'sgx_reit_doc_chunk',
     'reit_report'
   ] loop
     execute format('alter table %I enable row level security', t);

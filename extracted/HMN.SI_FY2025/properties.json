@@ -12,7 +12,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 7277000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -26,7 +26,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -41,7 +43,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 20368000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -55,7 +57,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -70,7 +74,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5430000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -84,7 +88,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -99,7 +105,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1820000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -113,7 +119,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -128,7 +136,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2251000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -142,7 +150,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -157,7 +167,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2918000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -171,7 +181,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -186,7 +198,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2126000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -200,7 +212,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -215,7 +229,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 3092000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -229,7 +243,9 @@
     "value_basis": "consolidated",
     "source_page": 127,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (AUD'000) p29; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -244,7 +260,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 6425000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -258,7 +274,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p42; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -273,7 +291,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5780000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -287,7 +305,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p42; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -302,7 +322,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 10647000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -316,7 +336,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "RMB",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (RMB'000) p43; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -331,7 +353,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 10133000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -345,7 +367,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "RMB",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (RMB'000) p43; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -360,7 +384,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 33524000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -374,7 +398,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "RMB",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (RMB'000) p43; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -389,7 +415,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 24975000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -403,7 +429,9 @@
     "value_basis": "consolidated",
     "source_page": 128,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "RMB",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (RMB'000) p43; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -418,7 +446,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 528000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -432,7 +460,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -447,7 +477,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 534000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -461,7 +491,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -476,7 +508,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 3481000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -490,7 +522,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -505,7 +539,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1157000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -519,7 +553,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -534,7 +570,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1453000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -548,7 +584,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -563,7 +601,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2413000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -577,7 +615,9 @@
     "value_basis": "consolidated",
     "source_page": 129,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -592,7 +632,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1124000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -606,7 +646,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -621,7 +663,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 824000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -635,7 +677,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -650,7 +694,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2738000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -664,7 +708,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -679,7 +725,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1650000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -693,7 +739,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -708,7 +756,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2155000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -722,7 +770,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -737,7 +787,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 4082000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -751,7 +801,9 @@
     "value_basis": "consolidated",
     "source_page": 130,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p32; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -766,7 +818,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1708000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -780,7 +832,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p44; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -795,7 +849,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2541000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -809,7 +863,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p44; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -824,7 +880,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1004000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -838,7 +894,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p44; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -853,7 +911,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 2122000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -867,7 +925,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p44; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -882,7 +942,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 3808000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -896,7 +956,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p44; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -911,7 +973,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 118676000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -925,7 +987,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "IDR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (IDR'million) p45; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -940,7 +1004,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 96114000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -954,7 +1018,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "IDR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (IDR'million) p45; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -969,7 +1035,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 68427000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -983,7 +1049,9 @@
     "value_basis": "consolidated",
     "source_page": 131,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "IDR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (IDR'million) p45; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -998,7 +1066,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 564685000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1012,7 +1080,9 @@
     "value_basis": "consolidated",
     "source_page": 132,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1027,7 +1097,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1472430000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1041,7 +1111,9 @@
     "value_basis": "consolidated",
     "source_page": 132,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1056,7 +1128,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1199945000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1070,7 +1142,9 @@
     "value_basis": "consolidated",
     "source_page": 132,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1085,7 +1159,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1758249000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1099,7 +1173,9 @@
     "value_basis": "consolidated",
     "source_page": 132,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1114,7 +1190,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 263659000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1128,7 +1204,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1143,7 +1221,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 104467000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1157,7 +1235,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1172,7 +1252,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 110546000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1186,7 +1266,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1201,7 +1283,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 145028000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1215,7 +1297,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1230,7 +1314,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 129596000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1244,7 +1328,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1259,7 +1345,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 86016000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1273,7 +1359,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1288,7 +1376,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 101644000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1302,7 +1390,9 @@
     "value_basis": "consolidated",
     "source_page": 133,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1317,7 +1407,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 90202000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1331,7 +1421,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1346,7 +1438,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 58884000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1360,7 +1452,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1375,7 +1469,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 205175000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1389,7 +1483,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1404,7 +1500,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 45036000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1418,7 +1514,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1433,7 +1531,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 34837000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1447,7 +1545,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1462,7 +1562,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 26611000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1476,7 +1576,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1491,7 +1593,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 157115000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1505,7 +1607,9 @@
     "value_basis": "consolidated",
     "source_page": 134,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1520,7 +1624,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 48679000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1534,7 +1638,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1549,7 +1655,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 23546000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1563,7 +1669,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1578,7 +1686,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 15981000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1592,7 +1700,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1607,7 +1717,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 187606000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1621,7 +1731,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1636,7 +1748,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 169654000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1650,7 +1762,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1665,7 +1779,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 69944000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1679,7 +1793,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1694,7 +1810,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 90679000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1708,7 +1824,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1723,7 +1841,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 83725000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1737,7 +1855,9 @@
     "value_basis": "consolidated",
     "source_page": 135,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1752,7 +1872,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 99425000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1766,7 +1886,9 @@
     "value_basis": "consolidated",
     "source_page": 136,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1781,7 +1903,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 49374000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1795,7 +1917,9 @@
     "value_basis": "consolidated",
     "source_page": 136,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1810,7 +1934,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 102529000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1824,7 +1948,9 @@
     "value_basis": "consolidated",
     "source_page": 136,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1839,7 +1965,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 17949000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1853,7 +1979,9 @@
     "value_basis": "consolidated",
     "source_page": 136,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1868,7 +1996,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 393043000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1882,7 +2010,9 @@
     "value_basis": "consolidated",
     "source_page": 136,
     "category_raw": "Rental Housing",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p35; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1897,7 +2027,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 14991000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1911,7 +2041,9 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "MYR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (MYR'000) p47; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1926,7 +2058,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 758269000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1940,7 +2072,9 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "PHP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (PHP'000) p48; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1955,7 +2089,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 115618000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1969,7 +2103,9 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "PHP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (PHP'000) p48; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -1984,7 +2120,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 27130000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -1998,7 +2134,8 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (SGD'000) p37; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2013,7 +2150,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 12974000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2027,7 +2164,8 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (SGD'000) p37; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2042,7 +2180,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 11357000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2056,7 +2194,8 @@
     "value_basis": "consolidated",
     "source_page": 137,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (SGD'000) p37; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2100,7 +2239,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 25321000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2114,7 +2253,8 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (SGD'000) p37; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2129,7 +2269,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 7647000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2143,7 +2283,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (EUR'000) p50; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2158,7 +2300,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 6183000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2172,7 +2314,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "GBP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (GBP'000) p39; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2187,7 +2331,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 12505000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2201,7 +2345,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "GBP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (GBP'000) p39; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2216,7 +2362,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5437000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2230,7 +2376,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "GBP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (GBP'000) p39; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2245,7 +2393,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 13788000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2259,7 +2407,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "GBP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (GBP'000) p39; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2274,7 +2424,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 18487000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2288,7 +2438,9 @@
     "value_basis": "consolidated",
     "source_page": 138,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "GBP",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (GBP'000) p39; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2303,7 +2455,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 37170000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2317,7 +2469,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2332,7 +2486,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 38532000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2346,7 +2500,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2361,7 +2517,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 19293000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2375,7 +2531,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2390,7 +2548,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 3489000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2404,7 +2562,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2419,7 +2579,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5766000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2433,7 +2593,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2448,7 +2610,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 4366000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2462,7 +2624,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2477,7 +2641,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 7286000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2491,7 +2655,9 @@
     "value_basis": "consolidated",
     "source_page": 139,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2506,7 +2672,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 7633000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2520,7 +2686,9 @@
     "value_basis": "consolidated",
     "source_page": 140,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2535,7 +2703,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 9440000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2549,7 +2717,9 @@
     "value_basis": "consolidated",
     "source_page": 140,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2564,7 +2734,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 4970000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2578,7 +2748,9 @@
     "value_basis": "consolidated",
     "source_page": 140,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2593,7 +2765,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5344000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2607,7 +2779,9 @@
     "value_basis": "consolidated",
     "source_page": 140,
     "category_raw": "Student Accommodation",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "USD",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (USD'000) p41; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2622,7 +2796,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 52157000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2636,7 +2810,9 @@
     "value_basis": "consolidated",
     "source_page": 141,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "VND",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (VND'million) p51; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2651,7 +2827,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 151202000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2665,7 +2841,9 @@
     "value_basis": "consolidated",
     "source_page": 141,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "VND",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (VND'million) p51; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2680,7 +2858,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 259210000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2694,7 +2872,9 @@
     "value_basis": "consolidated",
     "source_page": 141,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "VND",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (VND'million) p51; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2709,7 +2889,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 149076000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2723,7 +2903,9 @@
     "value_basis": "consolidated",
     "source_page": 141,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "VND",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (VND'million) p51; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2738,7 +2920,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 90015000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2752,7 +2934,9 @@
     "value_basis": "consolidated",
     "source_page": 141,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "VND",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (VND'million) p51; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2767,7 +2951,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1366154000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2781,7 +2965,9 @@
     "value_basis": "consolidated",
     "source_page": 142,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2796,7 +2982,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 5150000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2810,7 +2996,9 @@
     "value_basis": "consolidated",
     "source_page": 142,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "KRW",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (KRW'million) p49; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2825,7 +3013,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 6144000000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2839,7 +3027,9 @@
     "value_basis": "consolidated",
     "source_page": 142,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "KRW",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (KRW'million) p49; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2854,7 +3044,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 42004000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2868,7 +3058,9 @@
     "value_basis": "consolidated",
     "source_page": 143,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (AUD'000) p30; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2883,7 +3075,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 31840000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2897,7 +3089,9 @@
     "value_basis": "consolidated",
     "source_page": 143,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (AUD'000) p30; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2912,7 +3106,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 28241000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2926,7 +3120,9 @@
     "value_basis": "consolidated",
     "source_page": 143,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (AUD'000) p30; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2941,7 +3137,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 27193000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2955,7 +3151,9 @@
     "value_basis": "consolidated",
     "source_page": 143,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "AUD",
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (AUD'000) p30; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -2965,12 +3163,12 @@
     "category": "Specialized",
     "address": "13-17 Fleet St, Temple Bar, Dublin 2, D02 WD51",
     "ownership": 100.0,
-    "market_valuation": null,
+    "market_valuation": 117351000,
     "purchase_price": 103700000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 13825000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -2984,7 +3182,9 @@
     "value_basis": "consolidated",
     "source_page": 143,
     "category_raw": "Hotel",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "EUR",
+    "_recovery_note": "gross_revenue from Operations Review Hotel Revenue table (EUR'000) p46; recovered 2026-07-02; market_valuation from PPE note p178 - carrying value pledged as bank security (Note 16), SGD'000, fair-value-revalued class"
   },
   {
     "symbol": "HMN.SI",
@@ -2998,7 +3198,7 @@
     "valuation_date": null,
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 1164822000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -3012,7 +3212,9 @@
     "value_basis": null,
     "source_page": 132,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "JPY",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (JPY'000) p34; recovered 2026-07-02"
   },
   {
     "symbol": "HMN.SI",
@@ -3026,7 +3228,7 @@
     "valuation_date": null,
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 9392000,
     "occupancy_rate": null,
     "trade_mix": null,
     "gla": null,
@@ -3040,6 +3242,8 @@
     "value_basis": null,
     "source_page": 10,
     "category_raw": "Serviced Residence",
-    "major_tenants": []
+    "major_tenants": [],
+    "gross_revenue_currency": "RMB",
+    "_recovery_note": "gross_revenue from Operations Review Gross Rental Income table (RMB'000) p43; recovered 2026-07-02"
   }
 ]

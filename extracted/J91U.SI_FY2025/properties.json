@@ -12,13 +12,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2100000,
+    "nla": 6434,
+    "gfa": 6434,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2056-07-31",
     "tenure_raw": "Leasehold 30+30 (remaining 31 years)",
     "status": "active",
     "source_page": 133,
     "purchase_price": 30400000,
-    "purchase_price_source_page": 71
+    "purchase_price_source_page": 71,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.70-71 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -33,12 +39,25 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 70,
+    "gross_revenue": 34200000,
+    "nla": 104820,
+    "gfa": 141976,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
+    "lease_expiry_date": "2031-02-28",
     "tenure_raw": "Leasehold 60/43 (remaining 5/5 years)",
     "status": "active",
+    "flags": [
+      {
+        "type": "same_property_diff_lease",
+        "scope": "lease_expiry_date",
+        "note": "Combined row with two leases (31 Mar 2031 / 28 Feb 2031); earlier expiry used"
+      }
+    ],
     "source_page": 133,
     "purchase_price": 322200000,
-    "purchase_price_source_page": 71
+    "purchase_price_source_page": 71,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.70-71 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -55,9 +74,11 @@
     "occupancy_rate": 74,
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2068-01-31",
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
-    "source_page": 133
+    "source_page": 133,
+    "_recovery_note": "lease_expiry_date from Property Particulars pp.70-71; GFA/NLA/gross_revenue SKIPPED (combined w/ 2/4 Changi Business Park Ave1 in one source row, cannot allocate split); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -74,6 +95,7 @@
     "occupancy_rate": 16,
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2068-01-31",
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
     "flags": [
@@ -83,7 +105,8 @@
         "note": "Hotel Strata Lot at 2 Changi Business Park Avenue 1 (ESR BizPark @ Changi) announced for divestment 30 Jan 2026 at S$101.0m; held by Viva Trust sub-trust"
       }
     ],
-    "source_page": 133
+    "source_page": 133,
+    "_recovery_note": "lease_expiry_date from Property Particulars pp.70-71; GFA/NLA/gross_revenue SKIPPED (combined w/ 6/8 Changi Business Park Ave1 in one source row, cannot allocate split); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -94,12 +117,17 @@
     "category_raw": "High-Specifications Industrial",
     "address": "21/23 Ubi Road 1 Singapore 408724/408725",
     "ownership": 100,
-    "market_valuation": 41700000,
+    "market_valuation": 42500000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 94,
+    "gross_revenue": 4200000,
+    "nla": 13778,
+    "gfa": 18838,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2057-01-31",
     "tenure_raw": "Leasehold 30+30 (remaining 31 years)",
     "status": "active",
     "flags": [
@@ -107,11 +135,16 @@
         "type": "announced_divestment",
         "scope": "status",
         "note": "In announced 8-asset divestment portfolio (15 Dec 2025), sale S$45.0m, expected 2Q2026"
+      },
+      {
+        "type": "valuation_corrected",
+        "note": "Corrected 2026-07-02: market_valuation 41,700,000 -> 42,500,000. Source valuation table p73 (col 'Valuation as at 31 December 2025'): the 21 & 23 Ubi Road 1 row (purchase 25.0, rental 4.2, occ 94.1) = S$42.5m. Prior 41.7 was mis-read from an adjacent property row. Corroborated by Announced Divestments table p2074 + footnote 10 (independent valuation S$42.5m as at 30 Nov 2025)."
       }
     ],
     "source_page": 135,
     "purchase_price": 25000000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -126,13 +159,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 61,
+    "gross_revenue": 1500000,
+    "nla": 6851,
+    "gfa": 9060,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 99,
+    "lease_expiry_date": "2056-12-31",
     "tenure_raw": "Leasehold 99 (remaining 31 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 32000000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -147,13 +186,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 92,
+    "gross_revenue": 3500000,
+    "nla": 15508,
+    "gfa": 16754,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2050-10-15",
     "tenure_raw": "Leasehold 30+30 (remaining 25 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 39800000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -168,13 +213,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 50,
+    "gross_revenue": 3500000,
+    "nla": 19187,
+    "gfa": 22798,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2067-07-03",
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 100500000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -189,13 +240,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 56,
+    "gross_revenue": 2900000,
+    "nla": 17378,
+    "gfa": 20238,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2049-11-30",
     "tenure_raw": "Leasehold 30+30 (remaining 24 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 39000000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -210,13 +267,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 95,
+    "gross_revenue": 3900000,
+    "nla": 9521,
+    "gfa": 11200,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2067-09-10",
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 47500000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -231,13 +294,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 4100000,
+    "nla": 18623,
+    "gfa": 18623,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2053-01-31",
     "tenure_raw": "Leasehold 30+30 (remaining 27 years)",
     "status": "active",
     "source_page": 135,
     "purchase_price": 63600000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -252,8 +321,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 84,
+    "gross_revenue": 32200000,
+    "nla": 99476,
+    "gfa": 124693,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 62,
+    "lease_expiry_date": "2057-01-29",
     "tenure_raw": "Leasehold 32+30 (remaining 31 years)",
     "status": "active",
     "flags": [
@@ -265,7 +339,8 @@
     ],
     "source_page": 135,
     "purchase_price": 360200000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -280,8 +355,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 98,
+    "gross_revenue": 55400000,
+    "nla": 247063,
+    "gfa": 251190,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2068-06-21",
     "tenure_raw": "Leasehold 30+30 (remaining 42 years)",
     "status": "active",
     "flags": [
@@ -293,7 +373,8 @@
     ],
     "source_page": 135,
     "purchase_price": 840000000,
-    "purchase_price_source_page": 73
+    "purchase_price_source_page": 73,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.72-73 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -337,13 +418,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 900000,
+    "nla": 6782,
+    "gfa": 6782,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2054-10-15",
     "tenure_raw": "Leasehold 30+30 (remaining 29 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 7300000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -358,13 +445,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 21,
+    "gross_revenue": 1300000,
+    "nla": 27873,
+    "gfa": 29995,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2033-02-15",
     "tenure_raw": "Leasehold 60 (remaining 7 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 23200000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -379,8 +472,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 95,
+    "gross_revenue": 8200000,
+    "nla": 67647,
+    "gfa": 75904,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 42,
+    "lease_expiry_date": "2037-02-28",
     "tenure_raw": "Leasehold 30+12 (remaining 11 years)",
     "status": "active",
     "flags": [
@@ -392,7 +490,8 @@
     ],
     "source_page": 137,
     "purchase_price": 96000000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -407,13 +506,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 9700000,
+    "nla": 42085,
+    "gfa": 42308,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2041-12-15",
     "tenure_raw": "Leasehold 30 (remaining 16 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 95800000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -428,8 +533,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 80,
+    "gross_revenue": 9100000,
+    "nla": 48505,
+    "gfa": 48652,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 44,
+    "lease_expiry_date": "2050-04-30",
     "tenure_raw": "Leasehold 30+14 (remaining 24 years)",
     "status": "active",
     "flags": [
@@ -441,7 +551,8 @@
     ],
     "source_page": 137,
     "purchase_price": 112000000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -456,13 +567,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 3200000,
+    "nla": 26115,
+    "gfa": 26115,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2037-02-15",
     "tenure_raw": "Leasehold 30 (remaining 11 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 54000000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -477,13 +594,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 95,
+    "gross_revenue": 34400000,
+    "nla": 204427,
+    "gfa": 213297,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 29,
+    "lease_expiry_date": "2035-08-18",
     "tenure_raw": "Leasehold 29 (remaining 10 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 260400000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -500,6 +623,7 @@
     "occupancy_rate": null,
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2065-12-19",
     "tenure_raw": "Leasehold 30+30 (remaining 40 years)",
     "status": "active",
     "flags": [
@@ -511,7 +635,8 @@
     ],
     "source_page": 137,
     "purchase_price": 126700000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "lease_expiry_date from Property Particulars pp.78-79; GFA/NLA/gross_revenue N.A. in source (decommissioned) -> left null; recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -526,13 +651,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 6300000,
+    "nla": 40873,
+    "gfa": 40873,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2065-05-31",
     "tenure_raw": "Leasehold 30+30 (remaining 39 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 83800000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -547,13 +678,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 92,
+    "gross_revenue": 7500000,
+    "nla": 32255,
+    "gfa": 33850,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2065-08-15",
     "tenure_raw": "Leasehold 30+30 (remaining 40 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 93300000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -568,13 +705,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1000000,
+    "nla": 6277,
+    "gfa": 6277,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 46,
+    "lease_expiry_date": "2053-01-31",
     "tenure_raw": "Leasehold 30+16 (remaining 27 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 11100000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -589,13 +732,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 4400000,
+    "nla": 25420,
+    "gfa": 26420,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2033-09-30",
     "tenure_raw": "Leasehold 30 (remaining 8 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 27400000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -610,13 +759,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 15800000,
+    "nla": 86223,
+    "gfa": 91905,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2044-06-15",
     "tenure_raw": "Leasehold 30 (remaining 18 years)",
     "status": "active",
     "source_page": 137,
     "purchase_price": 152000000,
-    "purchase_price_source_page": 79
+    "purchase_price_source_page": 79,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.78-79 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -631,13 +786,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2000000,
+    "nla": 10193,
+    "gfa": 12986,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 32,
+    "lease_expiry_date": "2039-05-31",
     "tenure_raw": "Leasehold 10+22 (remaining 13 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 41000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -652,13 +813,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 96,
+    "gross_revenue": 1500000,
+    "nla": 6841,
+    "gfa": 8571,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2052-04-30",
     "tenure_raw": "Leasehold 30+30 (remaining 26 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 10000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -673,13 +840,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 94,
+    "gross_revenue": 1900000,
+    "nla": 8577,
+    "gfa": 10597,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2051-11-30",
     "tenure_raw": "Leasehold 30+30 (remaining 26 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 12000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -694,13 +867,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1600000,
+    "nla": 7350,
+    "gfa": 9413,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2050-09-30",
     "tenure_raw": "Leasehold 30+30 (remaining 25 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 10300000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -744,13 +923,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 800000,
+    "nla": 7022,
+    "gfa": 7022,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2054-03-31",
     "tenure_raw": "Leasehold 30+30 (remaining 28 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 8700000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -765,8 +950,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1500000,
+    "nla": 11694,
+    "gfa": 12046,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2061-02-28",
     "tenure_raw": "Leasehold 30+30/30+30 (remaining 35/40 years)",
     "status": "active",
     "flags": [
@@ -778,7 +968,8 @@
     ],
     "source_page": 139,
     "purchase_price": 22100000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -793,13 +984,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 900000,
+    "nla": 6650,
+    "gfa": 6650,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2058-07-15",
     "tenure_raw": "Leasehold 30+30 (remaining 33 years)",
     "status": "active",
     "source_page": 139,
     "purchase_price": 5600000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -814,13 +1011,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1000000,
+    "nla": 5541,
+    "gfa": 5541,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2055-02-28",
     "tenure_raw": "Leasehold 30+30 (remaining 29 years)",
     "status": "active",
     "source_page": 141,
     "purchase_price": 5800000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -835,13 +1038,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 73,
+    "gross_revenue": 1900000,
+    "nla": 10880,
+    "gfa": 12937,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2056-06-15",
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
     "source_page": 141,
     "purchase_price": 21000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -856,8 +1065,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 600000,
+    "nla": 4150,
+    "gfa": 4150,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2035-03-15",
     "tenure_raw": "Leasehold 30 (remaining 9 years)",
     "status": "active",
     "flags": [
@@ -869,7 +1083,8 @@
     ],
     "source_page": 141,
     "purchase_price": 6400000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -884,13 +1099,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 69,
+    "gross_revenue": 1000000,
+    "nla": 8213,
+    "gfa": 9185,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 29.5,
+    "lease_expiry_date": "2037-09-30",
     "tenure_raw": "Leasehold 29.5 (remaining 12 years)",
     "status": "active",
     "source_page": 141,
     "purchase_price": 14500000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -905,13 +1126,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1800000,
+    "nla": 12250,
+    "gfa": 12250,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2055-10-15",
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
     "source_page": 141,
     "purchase_price": 13000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -926,13 +1153,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "nla": 7061,
+    "gfa": 7080,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 58,
+    "lease_expiry_date": "2067-01-31",
     "tenure_raw": "Leasehold 30+28 (remaining 41 years)",
     "status": "active",
     "source_page": 141,
     "purchase_price": 15300000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -947,13 +1180,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 500000,
+    "nla": 8977,
+    "gfa": 8977,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2055-10-15",
     "tenure_raw": "Leasehold 30+30 (remaining 30 years)",
     "status": "active",
     "source_page": 143,
     "purchase_price": 17300000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -968,8 +1207,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1900000,
+    "nla": 11412,
+    "gfa": 11412,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 30,
+    "lease_expiry_date": "2038-01-31",
     "tenure_raw": "Leasehold 30 (remaining 12 years)",
     "status": "active",
     "flags": [
@@ -981,7 +1225,8 @@
     ],
     "source_page": 143,
     "purchase_price": 13500000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -996,8 +1241,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 3200000,
+    "nla": 21366,
+    "gfa": 22777,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 28,
+    "lease_expiry_date": "2035-03-24",
     "tenure_raw": "Leasehold 28 (remaining 9 years)",
     "status": "active",
     "flags": [
@@ -1009,7 +1259,8 @@
     ],
     "source_page": 143,
     "purchase_price": 43000000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1024,13 +1275,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 35,
+    "gross_revenue": 1200000,
+    "nla": 7451,
+    "gfa": 7892,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 27,
+    "lease_expiry_date": "2040-09-29",
     "tenure_raw": "Leasehold 27 (remaining 15 years)",
     "status": "active",
     "source_page": 143,
     "purchase_price": 19100000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1045,13 +1302,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 3500000,
+    "nla": 29449,
+    "gfa": 29449,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2059-04-30",
     "tenure_raw": "Leasehold 30+30 (remaining 33 years)",
     "status": "active",
     "source_page": 143,
     "purchase_price": 15000000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1066,13 +1329,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 80,
+    "gross_revenue": 7900000,
+    "nla": 72511,
+    "gfa": 72569,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 46,
+    "lease_expiry_date": "2054-03-31",
     "tenure_raw": "Leasehold 30+16 (remaining 28 years)",
     "status": "active",
     "source_page": 143,
     "purchase_price": 106100000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1087,8 +1356,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 89,
+    "gross_revenue": 2700000,
+    "nla": 20064,
+    "gfa": 23043,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 58,
+    "lease_expiry_date": "2055-02-15",
     "tenure_raw": "Leasehold 30+28 (remaining 29 years)",
     "status": "active",
     "flags": [
@@ -1100,7 +1374,8 @@
     ],
     "source_page": 143,
     "purchase_price": 31100000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1115,19 +1390,25 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2000000,
+    "nla": 18601,
+    "gfa": 20874,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
+    "lease_expiry_date": "2053-11-30",
     "tenure_raw": "Leasehold 29+30/30+30 (remaining 28/28 years)",
     "status": "active",
     "flags": [
       {
         "type": "same_property_diff_lease",
         "scope": "tenure_raw",
-        "note": "Combined row with two leases"
+        "note": "Combined row with two leases (30 Nov 2053 / 31 May 2054); earlier expiry used"
       }
     ],
     "source_page": 145,
     "purchase_price": 32600000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1142,8 +1423,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 3500000,
+    "nla": 22039,
+    "gfa": 22039,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2054-12-15",
     "tenure_raw": "Leasehold 30+30 (remaining 29 years)",
     "status": "active",
     "flags": [
@@ -1155,7 +1441,8 @@
     ],
     "source_page": 145,
     "purchase_price": 30800000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1170,12 +1457,18 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 7600000,
+    "nla": 20319,
+    "gfa": 23510,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
+    "lease_expiry_date": "2055-08-31",
     "tenure_raw": "Leasehold 30+30/21+30 (remaining 30 years)",
     "status": "active",
     "source_page": 145,
     "purchase_price": 83900000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1190,8 +1483,13 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 500000,
+    "nla": 1509,
+    "gfa": 7903,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2067-04-30",
     "tenure_raw": "Leasehold 30+30 (remaining 41 years)",
     "status": "active",
     "flags": [
@@ -1203,7 +1501,8 @@
     ],
     "source_page": 145,
     "purchase_price": 32900000,
-    "purchase_price_source_page": 77
+    "purchase_price_source_page": 77,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.76-77 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1218,13 +1517,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 75,
+    "gross_revenue": 7200000,
+    "nla": 32209,
+    "gfa": 38888,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 60,
+    "lease_expiry_date": "2029-05-15",
     "tenure_raw": "Leasehold 60 (remaining 3 years)",
     "status": "active",
     "source_page": 145,
     "purchase_price": 60000000,
-    "purchase_price_source_page": 75
+    "purchase_price_source_page": 75,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.74-75 (S$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1239,13 +1544,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 4400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 24220,
+    "gfa": 24220,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 66500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1260,13 +1571,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2700000,
+    "gross_revenue_currency": "AUD",
+    "nla": 21279,
+    "gfa": 21279,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 39500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1281,13 +1598,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2000000,
+    "gross_revenue_currency": "AUD",
+    "nla": 13363,
+    "gfa": 13363,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 35100000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1302,13 +1625,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1000000,
+    "gross_revenue_currency": "AUD",
+    "nla": 6246,
+    "gfa": 6246,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 11800000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1323,13 +1652,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 900000,
+    "gross_revenue_currency": "AUD",
+    "nla": 10441,
+    "gfa": 10441,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 17300000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1344,13 +1679,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2900000,
+    "gross_revenue_currency": "AUD",
+    "nla": 22608,
+    "gfa": 22608,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 35500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1365,13 +1706,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2500000,
+    "gross_revenue_currency": "AUD",
+    "nla": 32318,
+    "gfa": 32318,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 147,
     "purchase_price": 45500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1386,13 +1733,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 11074,
+    "gfa": 11074,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 21300000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1407,13 +1760,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 8781,
+    "gfa": 8781,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 14500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1428,13 +1787,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1900000,
+    "gross_revenue_currency": "AUD",
+    "nla": 16324,
+    "gfa": 16324,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 25500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1449,13 +1814,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 2600000,
+    "gross_revenue_currency": "AUD",
+    "nla": 20124,
+    "gfa": 20124,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 31500000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1470,13 +1841,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 5709,
+    "gfa": 5709,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 20000000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 83
+    "purchase_price_source_page": 83,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.82-83 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1491,13 +1868,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 7412,
+    "gfa": 7412,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 16800000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1512,13 +1895,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 1400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 7704,
+    "gfa": 7704,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 149,
     "purchase_price": 19600000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 81
+    "purchase_price_source_page": 81,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.80-81 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1533,14 +1922,21 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 6400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 12307,
+    "gfa": 12307,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 43,
+    "lease_expiry_date": "2062-11-19",
     "tenure_raw": "Leasehold 43 (remaining 37 years)",
     "status": "active",
     "source_page": 151,
     "purchase_price": 68900000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 83
+    "purchase_price_source_page": 83,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.82-83 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1555,14 +1951,21 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 9100000,
+    "gross_revenue_currency": "AUD",
+    "nla": 27157,
+    "gfa": 27157,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 46,
+    "lease_expiry_date": "2059-06-30",
     "tenure_raw": "Leasehold 46 (remaining 34 years)",
     "status": "active",
     "source_page": 151,
     "purchase_price": 58700000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 83
+    "purchase_price_source_page": 83,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.82-83 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1577,14 +1980,21 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 5000000,
+    "gross_revenue_currency": "AUD",
+    "nla": 51086,
+    "gfa": 51086,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 40,
+    "lease_expiry_date": "2059-06-30",
     "tenure_raw": "Leasehold 40 (remaining 34 years)",
     "status": "active",
     "source_page": 151,
     "purchase_price": 33400000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 83
+    "purchase_price_source_page": 83,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.82-83 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1599,14 +2009,21 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 15400000,
+    "gross_revenue_currency": "AUD",
+    "nla": 127354,
+    "gfa": 127354,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 55,
+    "lease_expiry_date": "2059-06-30",
     "tenure_raw": "Leasehold 55 (remaining 34 years)",
     "status": "active",
     "source_page": 151,
     "purchase_price": 103000000,
     "purchase_price_currency": "AUD",
-    "purchase_price_source_page": 83
+    "purchase_price_source_page": 83,
+    "_recovery_note": "GFA/NLA/gross_revenue/lease_expiry_date from Property Particulars pp.82-83 (A$m); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1621,13 +2038,19 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 100,
+    "gross_revenue": 887200000,
+    "gross_revenue_currency": "JPY",
+    "nla": 81371,
+    "gfa": 85424,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 151,
     "purchase_price": 17800000000,
     "purchase_price_currency": "JPY",
-    "purchase_price_source_page": 85
+    "purchase_price_source_page": 85,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.84-85 (JPY million); recovered 2026-07-02"
   },
   {
     "symbol": "J91U.SI",
@@ -1642,12 +2065,18 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "occupancy_rate": 85,
+    "gross_revenue": 1558800000,
+    "gross_revenue_currency": "JPY",
+    "nla": 134863,
+    "gfa": 155332,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 151,
     "purchase_price": 38000000000,
     "purchase_price_currency": "JPY",
-    "purchase_price_source_page": 85
+    "purchase_price_source_page": 85,
+    "_recovery_note": "GFA/NLA/gross_revenue from Property Particulars pp.84-85 (JPY million); recovered 2026-07-02"
   }
 ]

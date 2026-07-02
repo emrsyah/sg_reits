@@ -11,9 +11,9 @@
     "market_valuation": 287520000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 17400000.0,
+    "gross_revenue": 25500000.0,
+    "npi_pct": 21.56,
     "occupancy_rate": 76.7,
     "major_tenants": [
       {
@@ -42,7 +42,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 240000000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -56,9 +57,9 @@
     "market_valuation": 142900000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 6000000.0,
+    "gross_revenue": 12600000.0,
+    "npi_pct": 7.43,
     "occupancy_rate": 94.3,
     "major_tenants": [
       {
@@ -87,7 +88,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 131200000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -101,9 +103,9 @@
     "market_valuation": 229400000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 15000000.0,
+    "gross_revenue": 22300000.0,
+    "npi_pct": 18.59,
     "occupancy_rate": 90.9,
     "major_tenants": [
       {
@@ -132,7 +134,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 169400000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -146,9 +149,9 @@
     "market_valuation": 46390000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 2700000.0,
+    "gross_revenue": 5000000.0,
+    "npi_pct": 3.35,
     "occupancy_rate": 85.8,
     "major_tenants": [
       {
@@ -177,7 +180,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 33100000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -191,9 +195,9 @@
     "market_valuation": 52730000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 3100000.0,
+    "gross_revenue": 6100000.0,
+    "npi_pct": 3.84,
     "occupancy_rate": 86.5,
     "major_tenants": [
       {
@@ -222,7 +226,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 41800000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -236,9 +241,9 @@
     "market_valuation": 96400000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 5800000.0,
+    "gross_revenue": 15100000.0,
+    "npi_pct": 7.19,
     "occupancy_rate": 81.0,
     "major_tenants": [
       {
@@ -267,7 +272,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 117100000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -281,9 +287,9 @@
     "market_valuation": 50860000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 3700000.0,
+    "gross_revenue": 6800000.0,
+    "npi_pct": 4.58,
     "occupancy_rate": 88.9,
     "major_tenants": [
       {
@@ -312,7 +318,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 59100000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -326,9 +333,9 @@
     "market_valuation": 43300000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 4000000.0,
+    "gross_revenue": 6100000.0,
+    "npi_pct": 4.96,
     "occupancy_rate": 100.0,
     "major_tenants": [
       {
@@ -352,7 +359,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 46000000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -366,9 +374,9 @@
     "market_valuation": 73180000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 4700000.0,
+    "gross_revenue": 10800000.0,
+    "npi_pct": 5.82,
     "occupancy_rate": 82.0,
     "major_tenants": [
       {
@@ -397,7 +405,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 78600000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -411,9 +420,9 @@
     "market_valuation": 51640000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 3100000.0,
+    "gross_revenue": 8400000.0,
+    "npi_pct": 3.84,
     "occupancy_rate": 81.7,
     "major_tenants": [
       {
@@ -442,7 +451,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 46300000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -456,9 +466,9 @@
     "market_valuation": 114350000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 7800000.0,
+    "gross_revenue": 14800000.0,
+    "npi_pct": 9.67,
     "occupancy_rate": 96.9,
     "major_tenants": [
       {
@@ -487,7 +497,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 101500000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -501,9 +512,9 @@
     "market_valuation": 98200000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 6200000.0,
+    "gross_revenue": 12900000.0,
+    "npi_pct": 7.68,
     "occupancy_rate": 91.4,
     "major_tenants": [
       {
@@ -532,7 +543,8 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 88700000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   },
   {
     "symbol": "CMOU.SI",
@@ -546,9 +558,9 @@
     "market_valuation": 38500000.0,
     "valuation_date": "2025-12-31",
     "currency": "USD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 1200000.0,
+    "gross_revenue": 3800000.0,
+    "npi_pct": 1.49,
     "occupancy_rate": 80.4,
     "major_tenants": [
       {
@@ -577,6 +589,7 @@
     "source_page": 91,
     "area_unit": "sqft",
     "purchase_price": 36700000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "NPI/GR from Gross Revenue by Asset (p37) and NPI Contribution by Asset (p38) tables, US$m; npi_pct derived vs portfolio NPI US$80.7m; recovered 2026-07-02"
   }
 ]

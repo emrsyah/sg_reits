@@ -3526,7 +3526,7 @@
     "net_property_income": null,
     "gross_revenue": 0,
     "npi_pct": null,
-    "occupancy_rate": null,
+    "occupancy_rate": 0.0,
     "trade_mix": null,
     "major_tenants": [],
     "gla": null,
@@ -3542,7 +3542,7 @@
       {
         "type": "partial_occupancy",
         "scope": "occupancy_rate",
-        "note": "vacant - redevelopment to PBSA - per-property occupancy not separately disclosed; left null"
+        "note": "vacant - redevelopment to PBSA; occupancy_rate=0 recovered from p51 footnote 4 'Newport Road, Cardiff is vacant'"
       }
     ],
     "source_page": 51,
@@ -4267,7 +4267,7 @@
     "net_property_income": null,
     "gross_revenue": 300000,
     "npi_pct": null,
-    "occupancy_rate": null,
+    "occupancy_rate": 80.0,
     "trade_mix": null,
     "major_tenants": [],
     "gla": null,
@@ -4283,7 +4283,7 @@
       {
         "type": "partial_occupancy",
         "scope": "occupancy_rate",
-        "note": "20% vacancy (occupancy ~80%) - per-property occupancy not separately disclosed; left null"
+        "note": "occupancy_rate=80.0 recovered from p53 footnote 1: 'vacancy rate of 20%' for The Forum Stevenage"
       }
     ],
     "source_page": 53,

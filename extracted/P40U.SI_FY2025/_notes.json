@@ -13,8 +13,20 @@
       "reason": "GLA/GFA not disclosed per property. Only Wisma Atria NLA (206,755 sq ft = 126,412 retail + 80,343 office) disclosed (p41)."
     },
     {
-      "column": "property.nla (8 of 9 properties)",
-      "reason": "Per-property NLA disclosed only for Wisma Atria Property; not tabulated for the other 8 properties."
+      "column": "property.nla — David Jones Building, Plaza Arcade",
+      "reason": "Null-recovery round 2 (2026-07-02): Property Highlights table (p28) discloses these two Australia assets' area explicitly labelled '(GLA)' — 259,098 (GLA) for David Jones Building, 36,933 (GLA) for Plaza Arcade (full.md lines 1860-1861). Operations Review text also says David Jones occupies '95.1% of the total gross lettable area' (p3045/full.md). No NLA figure is disclosed anywhere in the report for these two properties. Correctly stored in `gla`, left `nla` null per spec (do not move GLA into NLA)."
+    },
+    {
+      "column": "property.nla — China Property",
+      "reason": "Null-recovery round 2 (2026-07-02): Portfolio Statement (p141, full.md line 7365) and Property Highlights (p28, line 1865) disclose only GFA (100,854 sq ft) for the China Property. No GLA or NLA figure disclosed anywhere for this asset."
+    },
+    {
+      "column": "property_transaction.transaction_date",
+      "reason": "Null-recovery round 5 (2026-07-02): Wisma Atria Property (Office) strata-unit divestment is described only as occurring 'during FY 2024/25' / 'during the current period' (Operations Review p11 line 597; Note on investment properties p141, full.md line 7388: '13 strata units in Wisma Atria Property (Office)... were divested during the current period to unrelated third parties'; also p7/p9 MD&A). No specific completion/announcement date (day/month) is disclosed anywhere in the report for the 13-unit divestment (only the outstanding single-unit option-to-purchase at year end, p7921, is dated relative to 30 June 2025). Checked: Operations Review (p11), Property Highlights (p28), MD&A (p62-68), Note on investment properties (p141), subsequent events. Left null."
+    },
+    {
+      "column": "property_transaction.counterparty",
+      "reason": "Null-recovery round 5 (2026-07-02): Note on investment properties (p141, full.md line 7388) states the 13 strata units were divested 'to unrelated third parties' (plural, unnamed) — no buyer name disclosed. Checked Operations Review (p11), Note 13/investment properties (p141), announcements referenced in MD&A. Left null."
     }
   ],
   "data_with_no_home": [
@@ -64,6 +76,14 @@
       "scope": "ranks 5-10",
       "value": null,
       "basis": "Top-10 table (p31) has no trade-sector column; industries for retail tenants (Food Republic->F&B, Burberry/Tory Burch/Uniqlo/Charles & Keith->Fashion, Emperor->jewellery) assigned from company name/known brand. Ranks 1-4 (master/anchor tenants) left null.",
+      "source_page": 31
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "ranks 1-4 (SUPERSEDED 2026-07-02)",
+      "value": "Other Retail Trades",
+      "basis": "Null-recovery round 5 (2026-07-02): Toshin Development Singapore Pte. Ltd. (master tenant, Ngee Ann City), YTL Group/Katagreen Development (master tenant, Malaysia Properties), Myer Pty Ltd (anchor tenant, Myer Centre Adelaide) and David Jones Pty Limited (anchor tenant, David Jones Building) are all classified under the Portfolio Trade Mix By GRI table's 'Master Leases & Anchor Leases' bucket (52.6% of GRI, p31, full.md line 1978 area), which trade_mix.json already maps to canonical category 'Other Retail Trades'. Sum check: 23.8+15.6+7.1+4.6=51.1%, close to the 52.6% Master/Anchor bucket (residual likely other minor master/anchor tenants outside top-10). No finer trade-sector breakdown (e.g. 'Department Store') is disclosed for these 4 tenants anywhere in the report.",
       "source_page": 31
     },
     {
@@ -118,6 +138,33 @@
       "value": "disclosed_after_retention",
       "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
       "source_page": 5
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "gross_sale_price",
+      "key": "Wisma Atria Property (Office) strata units",
+      "action": "FILLED",
+      "value": 41000000.0,
+      "basis": "'divested for sales consideration of approximately S$41 million' (Operations Review, p32). Distinct as-printed figure from net_proceeds S$40,898,000 (after directly attributable costs, p141) — not derived, both independently disclosed.",
+      "source_page": 32
+    },
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Wisma Atria Property (Office) strata units",
+      "action": "CONFIRMED ABSENT",
+      "reason": "No independent valuation specific to the 13 divested strata units is disclosed. Only a portfolio-wide/whole-property valuation exists (Wisma Atria overall valued by CBRE at 68.81% post-divestment interest, p141 footnote (5)); no deal-specific valuation for the divested units. Checked p32 (Operations Review), p141 (portfolio statement + footnotes 5/13), p7255/7388/7439/7921 (notes referencing the divestment).",
+      "source_page": 141
+    },
+    {
+      "table": "property_transactions",
+      "field": "transaction_date",
+      "key": "Wisma Atria Property (Office) strata units",
+      "action": "CONFIRMED ABSENT (reconfirmed)",
+      "reason": "Reconfirms round-5 finding: only 'during FY 2024/25' / 'during the current period' disclosed for the 13-unit divestment; no specific date. RAG search for completion/announcement date returned no additional page.",
+      "source_page": 11
     }
   ],
   "reconciliation": {

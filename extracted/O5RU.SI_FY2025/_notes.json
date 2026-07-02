@@ -52,6 +52,11 @@
   ],
   "columns_never_fillable": [
     {
+      "column": "property_transaction.counterparty",
+      "reason": "3 Toh Tuck Link divestment (announced 10 Dec 2024, S$24.388m) is consistently described only as sold to 'a third-party buyer' / 'an unrelated third party' across all mentions (Chairman's statement, portfolio notes, investment properties note); no counterparty name is ever disclosed in the report.",
+      "pages_checked": [4, 5, 9, 37, 39, 143, 162, 165, 166, 167]
+    },
+    {
       "column": "property.net_property_income",
       "reason": "Per-property NPI is not disclosed; the Statement of Total Return discloses NPI only at portfolio level (S$133.742m). Property cards disclose Gross Rental Income per property, not NPI."
     },
@@ -133,6 +138,50 @@
       "value": null,
       "basis": "lease_term_years taken from the audited Portfolio Statement 'Term of land lease' (incl. options to renew); lease_expiry_date taken from the property cards' 'Land Lease Expiry' column",
       "source_page": 162
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "3 Toh Tuck Link",
+      "action": "CONFIRMED ABSENT",
+      "reason": "No independent valuation distinct from the agreed sale price is disclosed or exists. Note 4 (p192, Fair value hierarchy) explicitly states: 'The investment property held for sale is stated at fair value based on the agreed sale price with a third-party buyer and has been categorised as Level 2 fair value hierarchy' — i.e. it is EXCLUDED from the Level 3 independent-valuer process used for the rest of the portfolio precisely because its fair value = the S$24.388m sale price. By-design absence, not a miss.",
+      "source_page": 192
+    }
+  ],
+  "null_recovery_round8_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "3 Toh Tuck Link (held-for-sale divestment)",
+      "action": "CONFIRMED ABSENT (re-verified round 8; corroborates round 7)",
+      "reason": "No independent professional valuation distinct from the agreed sale price is printed anywhere. On reclassification to held-for-sale the asset is written to fair value = agreed sale price S$24.388m (Level 2 fair value hierarchy), explicitly EXCLUDED from the Level 3 independent-valuer process applied to the rest of the portfolio. Pages read verbatim this round: p53 (portfolio table 'Valuation as at 31 Mar 2025' column shows 24.4, footnote 2 'stated at fair value based on the agreed sale price with a third-party buyer'), p164 (Portfolio Statement footnotes 2 & 4), p165 (Portfolio Statement carrying value 24,388 in $'000), p192 (Note 4 Level 2: 'Fair value of investment property held for sale (based on agreed sale price) 24,388'). The only 'valuation' reference is the narrative '32.5% premium over valuation' (p13/p17/p18) which gives NO absolute figure; deriving 24.388/1.325 is prohibited (invariant 3). valuation left NULL — no fill possible.",
+      "source_pages": [13, 53, 164, 165, 192]
+    },
+    {
+      "table": "property_transactions",
+      "field": "carrying_value vs price (gross)",
+      "key": "3 Toh Tuck Link",
+      "action": "CONFIRMED EQUAL AS PRINTED (no correction)",
+      "reason": "carrying_value == price == 24,388,000 SGD is a REAL as-reported coincidence, NOT a conflation defect. On reclassification to investment property held for sale (31 Mar 2025) the asset was written to fair value = the agreed sale price S$24.388m; the Portfolio Statement (p165, row shows 24,388 $'000) and Note 4 Level 2 (p192, 'Fair value of investment property held for sale (based on agreed sale price) 24,388') both carry it at 24,388. Sale price, fair value and carrying value are the same figure by the accounting treatment. Left unchanged.",
+      "source_pages": [164, 165, 192]
+    },
+    {
+      "table": "properties",
+      "field": "purchase_price / market_valuation currency (FLAG ONLY — systemic, invariant 7a)",
+      "key": "Woolworths HQ / Optus Centre / Boardriders Asia Pacific HQ (Australia)",
+      "action": "FLAG ONLY (not touched)",
+      "reason": "purchase_price and market_valuation for the three Australian properties are stored in SGD (purchase_price_currency=SGD, currency=SGD), i.e. converted, whereas the report also prints the LOCAL AUD figures: Woolworths purchase A$463m (p85 narrative) / valuation AUD384.0m=$323.6m (p164 fn5); Optus valuation AUD610.0m=$514.0m, 49% share=S$251.9m (p164 fn/p192-201 note); Boardriders valuation AUD51.0m=$43.0m (p164 fn6), purchase A$38.5m@0.9524=S$36.6m (p55 fn). The stored SGD figures faithfully match the report's own SGD portfolio-table / Portfolio-Statement carrying values (Woolworths 323,558; Boardriders 42,973 p165), so they are faithful-as-SGD but NOT local-currency-preserving per invariant 4. Left for main agent per invariant 7(a); flagged, not changed.",
+      "source_pages": [54, 55, 164, 165, 192]
+    },
+    {
+      "table": "properties",
+      "field": "market_valuation coincidence (FLAG — verified NOT a defect)",
+      "key": "Woolworths HQ",
+      "action": "FLAG — checked, no change",
+      "reason": "market_valuation 323,558,000 equals the 'aggregate market value of mortgaged investment properties (Group 2025) = 323,558' printed on p192 (Note 4 Security). This is NOT a conflation: as at 31 Mar 2025 Woolworths HQ is the only Group property pledged as security, so the mortgaged-properties aggregate == Woolworths HQ's own Portfolio-Statement carrying value (323,558 $'000, p165). Same figure, same asset. No change.",
+      "source_pages": [165, 192]
     }
   ],
   "reconciliation": {

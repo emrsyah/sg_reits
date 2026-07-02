@@ -23,7 +23,7 @@ _(Batch 5 added 6: XZL, M1GU, BMOU, J85, C2PU, CRPU — Jun 19 2026. Landmark D5
 ## Tables
 **Data** (one report = one `(symbol, financial_year)`): `sgx_reit_profile` (PK `symbol`),
 `sgx_reit_performance`, `sgx_reit_property`, `sgx_reit_top_tenant`, `sgx_reit_trade_mix`,
-`sgx_reit_financial`, `sgx_reit_property_transaction`, `sgx_reit_notes`. Nested/list fields are
+`sgx_reit_financial`, `sgx_reit_property_transaction`, `sgx_reit_notes`, `sgx_reit_doc_chunk`. Nested/list fields are
 `jsonb` (management, flags, distribution_record, major_tenants, trade_mix, the three financial
 blobs, line_items, notes, txn raw).
 **Inventory + review**: `reit_report` (`pdf_r2_key`, `page_offset`), `reit_record_verdict`,
@@ -62,10 +62,14 @@ load transform. We do **not** FX-convert or unit-convert in this layer.
 | `scripts/db/apply_schema.py` | apply/refresh `db/schema.sql` (safe to re-run) |
 | `scripts/db/load_supabase.py [DIR…]` | upsert `extracted/<SYM>.SI_FY<YYYY>/` → Postgres; no args = all dirs. Singletons upsert; list tables delete-then-insert per `(symbol,FY)` |
 | `scripts/db/upload_r2.py [--all-pdfs]` | upload PDFs referenced by `reit_report` (or every `annual_reports/*.pdf`) to R2 via REST; HEAD-skips existing |
+| `scripts/db/build_doc_chunks.py [--load]` | build page-aware `parsed_reports_datalab/*/full.md` chunks and upsert metadata/text into `sgx_reit_doc_chunk`; default is dry-run |
+| `scripts/db/embed_doc_chunks.py [--limit N]` | embed missing `sgx_reit_doc_chunk.embedding` rows with Voyage `voyage-4-large`; resumable |
+| `scripts/db/search_doc_chunks.py "query"` | embed a query with Voyage and search `sgx_reit_doc_chunk`, printing report/page citations |
 
 ## Credentials (`.env`)
 Already present: `SUPABASE_CONNECTION_STRING`, `SUPABASE_PUBLISHABLE_KEY`, `SUPABASE_SECRET_KEY`,
 `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN`.
+- Add `VOYAGE_API_KEY` before running `embed_doc_chunks.py`.
 - The **account API token** uploads to R2 (used by `upload_r2.py`) but **cannot presign**.
 - The **FE** needs an **R2 API Token** (Cloudflare → R2 → *Manage R2 API Tokens*, Object
   Read/Write on `reits-ar`) → `R2_ACCESS_KEY_ID` / `R2_SECRET_ACCESS_KEY` for presigned GET URLs.
@@ -92,6 +96,18 @@ for t in ["sgx_reit_profile","sgx_reit_performance","sgx_reit_property","sgx_rei
           "sgx_reit_notes","reit_report"]:
     c.execute(f"select count(*) from {t}"); print(t, c.fetchone()[0])
 PY
+
+# build page-aware markdown chunks for vector search
+python scripts/db/build_doc_chunks.py --dry-run
+python scripts/db/build_doc_chunks.py --load
+
+# embed in resumable batches (start with a small limit if desired)
+python scripts/db/embed_doc_chunks.py --dry-run
+python scripts/db/embed_doc_chunks.py --limit 500
+python scripts/db/embed_doc_chunks.py
+
+# smoke-test vector retrieval
+python scripts/db/search_doc_chunks.py "portfolio occupancy" --limit 5
 ```
 The FE reads live from Postgres + R2, so reloading data needs **no FE redeploy**.
 

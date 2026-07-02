@@ -47,6 +47,16 @@
   ],
   "columns_never_fillable": [
     {
+      "column": "property_transactions.counterparty",
+      "reason": "Il·lumina divestment (p.178, p.6841): 'IREIT entered into a conditional promissory private sales and purchase agreement with an unrelated third party to divest Il·lumina.' Counterparty explicitly described as unnamed ('unrelated third party'). No name disclosed anywhere in the report. Checked pp.6-9, 178, 6841 (cash flow note A).",
+      "source_page": 178
+    },
+    {
+      "column": "properties.lease_term_years / properties.lease_expiry_date",
+      "reason": "Re-verified against Statement of Portfolio (pp.179-181, source md lines 6855-6948): 49 of 53 properties are Freehold with land tenure table explicitly showing 'n/a' for Remaining Term of Leasehold. Only 4 properties are Leasehold (Noyelles-Godault, Maizières-lès-Metz, Fayet, Blois) — all already filled with remaining-term-derived expiry dates. No additional leasehold properties or per-property ground-lease expiry dates disclosed anywhere else in the report (checked property cards pp.45-88 and Note 2.3 p.188).",
+      "source_page": 179
+    },
+    {
       "column": "properties.net_property_income",
       "reason": "Per-property NPI is not disclosed in this report. Only segment-level NPI is disclosed: Germany EUR 10,753k, Spain EUR 5,816k, France EUR 16,255k (p.193). No per-property NPI breakdown provided in any section."
     },
@@ -173,6 +183,57 @@
       "trap": "GRI percentage footnote basis",
       "description": "Per-property GRI percentages on the property cards (e.g. Bonn 16.5%) appear to exclude Berlin Campus from the denominator (Berlin had near-zero GRI in 2025). Total GRI excl. Berlin ≈ EUR 41.6m vs stated total EUR 50.4m. The footnote on p.41 (GRI chart) does not explicitly state this. Absolute GRI amounts from the cards (EUR millions) used as authoritative.",
       "resolution": "Used absolute GRI amounts (EUR millions) from property cards. Percentage figures noted as potentially excluding Berlin from denominator."
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Il·lumina",
+      "action": "CONFIRMED ABSENT",
+      "reason": "No independent/agreed valuation figure for Il·lumina is disclosed anywhere in the FY2025 AR. The only figures printed are 'sale consideration of EUR 24.5 million' and 'Loss on disposal of assets/liabilities held for sale' EUR 224k (cash flow statement note A, p.178, full.md line 6841, FY2024-comparative column). No separate valuation line exists.",
+      "source_page": 178
+    },
+    {
+      "table": "property_transactions",
+      "field": "carrying_value",
+      "key": "Il·lumina",
+      "action": "FLAG (pre-existing, not touched this round)",
+      "reason": "carrying_value=24,724,000 in property_transactions.json is explicitly marked 'DERIVED: proceeds 24,500 + loss 224 = 24,724' in its own carrying_value_basis note. This is a computed figure, not a literally-printed one, and violates round-7 invariant 3 (never derive one txn figure from another). Flagging to main agent per spec instruction to flag rather than silently edit a non-null value; left as-is this round since it predates round 7 and the AR provides no standalone carrying-value line to replace it with (net assets/liabilities held for sale were disposed as a package, no standalone Il·lumina carrying line — see existing note).",
+      "source_page": 178
+    }
+  ],
+  "null_recovery_round8_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "carrying_value",
+      "key": "Il·lumina",
+      "action": "CORRECTED 24724000 -> null",
+      "reason": "Round-8 CORRECTNESS resolution of the round-7 FLAG. Independently verified that 24,724,000 is a DERIVED figure (proceeds 24,500 + loss 224), NOT printed in the report: (1) grep of full.md found zero occurrences of '24,724' or '24724'; (2) RAG 'Il·lumina ... carrying value / valuation / held for sale' returned only the Statement of Portfolio (pp.179-181), Note 2.3 (pp.188-189) and cash flow (p.178) — none carry an Il·lumina carrying-value line; (3) Il·lumina is absent from the Statement of Portfolio because it was divested 31 Jan 2024 (not held at 31 Dec 2024 or 2025). The FY2025 AR prints only cash-flow figures on p.178: 'Proceeds from disposal of assets/liabilities held for sale' EUR 24,500k and 'Loss on disposal of assets/liabilities held for sale' EUR 224k (Note A p.178 confirms EUR 24.5m sale consideration). Per invariant 3 (never derive; if only sale price is printed, leave carrying/valuation null), carrying_value nulled. Pages opened: 178 (cash flow + Note A), 179-181/188-189 via RAG snippets.",
+      "source_page": 178
+    },
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Il·lumina",
+      "action": "CONFIRMED ABSENT (re-verified)",
+      "reason": "No independent/agreed valuation figure for Il·lumina is disclosed anywhere in the FY2025 AR. Re-verified round-8 via RAG + read of p.178: only 'sale consideration of EUR 24.5 million' (Note A p.178) and cash-flow proceeds EUR 24,500k / loss EUR 224k are printed. No valuation field is stored (correctly null). Pages opened: 178.",
+      "source_page": 178
+    },
+    {
+      "table": "property_transactions",
+      "field": "consideration/net_proceeds",
+      "key": "Il·lumina",
+      "action": "CONFIRMED EQUAL AS PRINTED (net==gross)",
+      "reason": "consideration=net_proceeds=24,500,000 is correct as-printed, not a conflation. The report prints the SAME figure for both concepts on p.178: 'sale consideration of EUR 24.5 million' (Note A) and 'Proceeds from disposal of assets/liabilities held for sale' EUR 24,500k (cash flow, FY2024-comparative column). No separate transaction-cost line is disclosed, so net proceeds equal the gross sale consideration. gain_on_divestment=-224,000 matches 'Loss on disposal ... 224' (p.178). Left unchanged. Pages opened: 178.",
+      "source_page": 178
+    },
+    {
+      "table": "properties",
+      "field": "money+currency conflation scan",
+      "key": "ALL 53 property rows",
+      "action": "SCANNED - no defects",
+      "reason": "Scanned every properties.json row for the wave-8 conflation classes. (a) market_valuation != purchase_price in every row (no copied-field equality). (b) No carrying_value field exists in properties.json, so no valuation==carrying conflation possible. (c) All figures are EUR and reporting currency is EUR (functional currency), so no SGD-converted figure sits in a local column; purchase_price is genuine EUR, NOT a systemic SGD-conversion case (invariant 7a does not apply here). (d) currency='EUR' and purchase_price_currency='EUR' match the figure currency on all rows; no RMB/CNY tags present (invariant 7b n/a). Only one txn row exists (Il·lumina), so no cross-txn conflation. No changes made."
     }
   ],
   "reconciliation": {

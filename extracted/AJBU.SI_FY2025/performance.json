@@ -39,6 +39,12 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "source_page": 8,
-  "distribution_paid": null,
-  "distribution_basis": "not_disclosed_rollforward_only"
+  "distribution_paid": 133531000,
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "flags": [
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed); S$133,531k (0.819cts 28/11/24-31/12/24 tranche paid in FY2025 + 5.133cts 1/1/25-30/6/25 + 4.209cts 1/1/25-30/6/25 true-up) from audited Distribution Statement p114"
+    }
+  ]
 }

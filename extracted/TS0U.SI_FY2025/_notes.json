@@ -1,5 +1,82 @@
 {
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Salesforce Tower (180 George Street, Sydney) - acquisition",
+      "reason": "CONFIRMED ABSENT. Note 30 Subsequent events (p175) discloses only the deal consideration (A$195,538,000 / S$175,046,000); no separate independent/agreed valuation figure is printed for the 19.9% interest anywhere in the report. Checked Note 30 (p175), CEO interview (p22), Chairman's Letter (p18), and full-text search for 'Salesforce' (5 hits, none give a valuation distinct from consideration).",
+      "pages_read": [175, 22, 18, 853]
+    },
+    {
+      "table": "property_transactions",
+      "field": "transaction_date",
+      "key": "Salesforce Tower (180 George Street, Sydney) - acquisition",
+      "reason": "CONFIRMED ABSENT at day-level (see also prior-wave note in columns_never_fillable). Only 'in March 2026' is stated for completion (p18/p22/CFO Q&A p853); the exact completion date is not disclosed in this FY2025 report. announcement_date (2026-02-24, p175) is the only day-precision date available for this deal and is already captured.",
+      "pages_read": [175, 18, 22]
+    },
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Lippo Plaza Shanghai (via Lippo Realty (Shanghai) Limited) - divestment",
+      "reason": "CONFIRMED ABSENT. Note 8(B)/Cash Flow Note (B) Disposal of a subsidiary (p121, 'PAGE 121' in full.md) discloses sale consideration (RMB 1,916,925,000 / ~S$357,382,000, already captured as divestment_price/consideration_local) and the investment-property carrying value (S$311,136k, already captured as carrying_value) but NO separate independent valuation figure distinct from sale price/carrying value. This is a FY2024-completed divestment reported only in comparative/subsequent-event context in the FY2025 AR; no valuer name or valuation amount is given for Lippo Plaza anywhere in this report (checked pages 118-122 and full-text 'Lippo' search, 15 hits, none reference a valuation).",
+      "pages_read": [120, 121, 122]
+    },
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "key": "Hilton Singapore Orchard",
+      "reason": "CONFIRMED ABSENT (leased-occupancy sense). Portfolio Overview page 50 lists FY2025 Revenue, Valuation, Purchase Consideration (2019), FY2025 RevPAR, Gross Floor Area, and Master Lease Details — no committed/physical occupancy % for the hotel is printed (master-leased to OUE Limited on a variable-rent structure; only RevPAR S$260 disclosed as the operating-performance metric). Confirms/extends the prior-wave note already in columns_never_fillable.",
+      "pages_read": [50]
+    },
+    {
+      "table": "properties",
+      "field": "occupancy_rate",
+      "key": "Crowne Plaza Changi Airport",
+      "reason": "CONFIRMED ABSENT (leased-occupancy sense). Portfolio Overview page 52 lists FY2025 Revenue, Valuation, Purchase Consideration (2019), FY2025 RevPAR (S$246), Gross Floor Area, and Master Lease Details (leased to QUE Airport Hotel Pte. Ltd.) — no committed/physical occupancy % is printed for the hotel.",
+      "pages_read": [52]
+    }
+  ],
+  "null_recovery_round8_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Salesforce Tower (180 George Street, Sydney) - acquisition",
+      "status": "CONFIRMED ABSENT (re-verified round8)",
+      "reason": "Report prints only the deal consideration, no separate independent/agreed valuation for the 19.9% interest. Note 30 Subsequent events (PAGE 175): 'On 24 February 2026, the Group entered into a share and unit sale agreement to acquire a 19.9% interest in Salesforce Tower for a consideration of A$195,538,000 (equivalent to $175,046,000)'. Grep-scanned all 'Salesforce' mentions (Chairman letter, CEO interview PAGE 22, Chinese summary, Note 30 PAGE 175) — none disclose a valuation figure distinct from the consideration. Left null.",
+      "pages_read": [175, 22]
+    },
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Lippo Plaza Shanghai (via Lippo Realty (Shanghai) Limited) - divestment",
+      "status": "CONFIRMED ABSENT (re-verified round8)",
+      "reason": "Cash Flow Note (B) Disposal of a subsidiary (PAGE 121) discloses total sales consideration RMB 1,916,925,000 (equivalent to approximately $357,382,000) and the Investment property carrying value $311,136k in the effect-of-disposal table, but NO separate independent valuation figure distinct from sale price/carrying value. Grep-scanned all 'Lippo' mentions (revenue-impact commentary, disposal note PAGE 121, unrelated Lippo corporate-holding entities in Statistics of Unitholdings) — no valuer name or valuation amount for Lippo Plaza anywhere. Left null.",
+      "pages_read": [121, 122]
+    },
+    {
+      "table": "property_transactions",
+      "field": "conflation_scan",
+      "key": "all txn + property money/currency fields",
+      "status": "NO DEFECTS FOUND",
+      "reason": "Lippo divestment row: net_proceeds 299,460 < gross sale_consideration/divestment_price 357,382 (no net>=gross defect); carrying_value 311,136 ties to 'Investment property 311,136' in the disposal-of-subsidiary effect table PAGE 121; gain_on_divestment -26,427 = 'Loss on disposal of a subsidiary (26,427)' PAGE 121; all as printed, no valuation==carrying copy (valuation is null). divestment_price (357,382,000) == sale_consideration (357,382,000) is a benign duplicate of the SAME concept (gross SGD consideration as printed), NOT a wrong-concept conflation. properties.json: all 6 rows Singapore/SGD, market_valuation differs from purchase_price in every row, purchase_price_currency 'SGD' matches figure currency — no conflation, no currency-tag mismatch.",
+      "pages_read": [121, 175]
+    },
+    {
+      "table": "property_transactions",
+      "field": "FLAG_currency_observations",
+      "key": "systemic (main-agent decision, NOT changed)",
+      "reason": "(1) Lippo Plaza currency_local='RMB' matches the report's own wording ('RMB 1,916,925,000', PAGE 121); RMB-vs-CNY tag normalization is systemic per invariant 7(b) — flagged only, not changed. (2) Salesforce consideration=175,046,000 SGD and Lippo divestment_price/sale_consideration=357,382,000 SGD are the report's OWN printed '(equivalent to $...)' figures, NOT extractor conversions — so the invariant 7(a) 'converted-to-SGD' concern does NOT apply here; foreign local values are retained in consideration_local with correct currency_local tags (AUD / RMB)."
+    }
+  ],
   "columns_never_fillable": [
+    {
+      "column": "property_transaction.transaction_date (Salesforce Tower acquisition)",
+      "reason": "Exact completion day not disclosed. Note 30 Subsequent events (p175) only gives the SALE-AGREEMENT date '24 February 2026' (already captured as announcement_date); completion is stated only as 'in March 2026' / 'successfully completed the acquisition ... in March 2026' (CEO Q&A, p18, and CFO interview, p22) — no day-level completion date anywhere in the report. Left completion_date as '2026-03' (month precision); transaction_date derived field will remain null since no full YYYY-MM-DD is disclosed."
+    },
+    {
+      "column": "property_transaction.counterparty (Lippo Plaza Shanghai divestment, FY2024)",
+      "reason": "Buyer/purchaser is never named. Note 8(B) Disposal of a subsidiary (p120) states only 'the Group announced the divestment of 100% issued and paid-up capital of Lippo Realty (Shanghai) Limited ... for a total sales consideration of RMB 1,916,925,000 ... sale was completed on 27 December 2024' with no counterparty identified. Also checked Chairman's Letter (p18) and portfolio-review mentions (pages with 'divested in December 2024' footnotes) — none name a buyer. Searched for 'purchaser'/'acquirer'/'third party' across the full report — no hits referencing this deal."
+    },
     {
       "column": "properties.net_property_income",
       "reason": "Per-property NPI is not disclosed. The audited segment note (Note 24) reports NPI only at segment level (Commercial S$130,375k; Hospitality S$89,204k), and the portfolio review gives per-property revenue and revenue-contribution % but no per-property NPI."

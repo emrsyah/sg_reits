@@ -21,7 +21,7 @@
     "major_tenants": [],
     "gla": null,
     "nla": 65309.3,
-    "gfa": null,
+    "gfa": 119654.0,
     "land_tenure": "Leasehold",
     "effective_date": "1985-11-01",
     "lease_term_years": 841.0,
@@ -37,7 +37,8 @@
     ],
     "value_basis": "effective_interest",
     "source_page": 14,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "GFA from Portfolio Overview p44 (119,654 sq m); recovered 2026-07-02"
   },
   {
     "symbol": "TS0U.SI",
@@ -61,7 +62,7 @@
     "major_tenants": [],
     "gla": null,
     "nla": 49116.9,
-    "gfa": null,
+    "gfa": 69922.0,
     "land_tenure": "Leasehold",
     "effective_date": "1967-07-19",
     "lease_term_years": 99.0,
@@ -71,7 +72,8 @@
     "flags": [],
     "value_basis": "consolidated",
     "source_page": 14,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "GFA from Portfolio Overview p46 (69,922 sq m); recovered 2026-07-02"
   },
   {
     "symbol": "TS0U.SI",
@@ -95,7 +97,7 @@
     "major_tenants": [],
     "gla": null,
     "nla": 11732.0,
-    "gfa": null,
+    "gfa": 18240.0,
     "land_tenure": "Leasehold",
     "effective_date": "1957-07-01",
     "lease_term_years": 99.0,
@@ -105,7 +107,8 @@
     "flags": [],
     "value_basis": "consolidated",
     "source_page": 15,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "GFA from Portfolio Overview p48 (18,240 sq m); recovered 2026-07-02"
   },
   {
     "symbol": "TS0U.SI",
@@ -221,7 +224,7 @@
     "major_tenants": [],
     "gla": null,
     "nla": 39357.2,
-    "gfa": null,
+    "gfa": 46626.0,
     "land_tenure": "Leasehold",
     "effective_date": "2007-11-12",
     "lease_term_years": 99.0,
@@ -237,6 +240,7 @@
     ],
     "value_basis": "joint_venture_100pct",
     "source_page": 14,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "GFA from Portfolio Overview p42 (46,626 sq m); recovered 2026-07-02"
   }
 ]

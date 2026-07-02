@@ -7,6 +7,8 @@
     "country": "China",
     "completion_date": "2025-10-31",
     "sale_price_rmb_m": 813.8,
+    "gross_sale_price": 813800000,
+    "gross_sale_price_currency": "RMB",
     "counterparty": "Changsha 2023 Consulting & Management Co., Ltd. (indirect wholly owned subsidiary of CapitaLand Mall Asia Limited)",
     "valuation": 785000000,
     "valuation_currency": "RMB",

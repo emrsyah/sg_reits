@@ -6,7 +6,7 @@
   "gross_revenue": 471606000,
   "net_property_income": 316792000,
   "net_distributable_income": 207300000,
-  "distribution_paid": null,
+  "distribution_paid": 191186000,
   "adjusted_distributable_income": null,
   "dpu": 7.035,
   "distribution_record": [
@@ -71,6 +71,10 @@
       "type": "dpu_quarterly",
       "scope": "distribution_record",
       "note": "Distributions declared quarterly. FY2025 DPU of 7.035 cents comprises Q1 1.563 + Q2 1.592 + Q3 1.778 + Q4 2.102 (Q4 declared post year-end, Note 37). The (191,186) paid in the year spans Q4-2024 1.570 through Q3-2025."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed): sum of quarterly cash distributions actually paid in FY2025 (1.570 Q4-2024 + 1.563 Q1-2025 + 1.592 Q2-2025 + 1.778 Q3-2025 cents/unit) = S$191,186k; Distribution Statements, p109"
     }
   ],
   "source_page": 10,

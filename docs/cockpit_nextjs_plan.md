@@ -72,10 +72,10 @@ create table sgx_reit_property (
   country text, category text, category_raw text, address text, ownership numeric,
   market_valuation numeric, valuation_date date, currency text,
   net_property_income numeric, gross_revenue numeric, npi_pct numeric, occupancy_rate numeric,
-  trade_mix jsonb, major_tenants jsonb default '[]',
+  major_tenants jsonb default '[]',
   gla numeric, nla numeric, gfa numeric,
   land_tenure text, effective_date date, lease_term_years numeric, lease_expiry_date date,
-  tenure_raw text, status text default 'active', divestment_price numeric,
+  tenure_raw text, status text default 'active',
   flags jsonb default '[]', source_page int,
   unique (symbol, financial_year, property_name)
 );

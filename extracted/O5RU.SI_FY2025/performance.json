@@ -6,7 +6,7 @@
   "gross_revenue": 186626000,
   "net_property_income": 133742000,
   "net_distributable_income": 78159000,
-  "distribution_paid": null,
+  "distribution_paid": 76714000,
   "adjusted_distributable_income": null,
   "dpu": 9.6,
   "distribution_record": [
@@ -50,6 +50,10 @@
       "type": "dpu_distribution_record_lag",
       "scope": "distribution_record",
       "note": "Distribution Statement (p159) lists distributions PAID during FY2025, which span Q4 FY2024 (2.370c) through Q3 FY2025; the Q4 FY2025 distribution (paid post year-end) is not in the in-year paid list. Full-year DPU declared = 9.600c."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed): S$76,714k, Distribution Statement 'Distributions to Unitholders during the year' p159. MD&A also cites S$78,154k as the for-the-year (declared) distribution, Financial Review p32 — distribution_paid uses the audited cash-paid-during-year basis, not the for-year figure."
     }
   ],
   "source_page": 7,

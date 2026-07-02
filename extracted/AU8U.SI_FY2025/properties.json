@@ -13,8 +13,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 37214000.0,
+    "gross_revenue": 53772000.0,
+    "npi_pct": 18.5241,
     "occupancy_rate": 99.1,
     "gfa": 83075.0,
     "nla": 50424.0,
@@ -27,9 +28,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 3741000,
     "_npi_rmb_million": 204.7,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 3741000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -45,8 +49,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 29849000.0,
+    "gross_revenue": 42723000.0,
+    "npi_pct": 14.858,
     "occupancy_rate": 99.0,
     "gfa": 88279.0,
     "nla": 53077.0,
@@ -59,9 +64,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 3410000,
     "_npi_rmb_million": 164.2,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 3410000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -77,8 +85,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 23508000.0,
+    "gross_revenue": 34671000.0,
+    "npi_pct": 11.7016,
     "occupancy_rate": 96.0,
     "gfa": 83768.0,
     "nla": 41611.0,
@@ -91,9 +100,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 2822000,
     "_npi_rmb_million": 129.3,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 2822000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -109,8 +121,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 11127000.0,
+    "gross_revenue": 18376000.0,
+    "npi_pct": 5.5387,
     "occupancy_rate": 96.9,
     "gfa": 92918.0,
     "nla": 40672.0,
@@ -123,9 +136,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 1780000,
     "_npi_rmb_million": 61.2,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 1780000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -141,8 +157,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 21751000.0,
+    "gross_revenue": 31715000.0,
+    "npi_pct": 10.827,
     "occupancy_rate": 98.8,
     "gfa": 123811.0,
     "nla": 63218.0,
@@ -155,9 +172,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 1789000,
     "_npi_rmb_million": 119.6,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 1789000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -173,8 +193,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 3317000.0,
+    "gross_revenue": 7778000.0,
+    "npi_pct": 1.6511,
     "occupancy_rate": 88.4,
     "gfa": 91816.0,
     "nla": 36854.0,
@@ -187,9 +208,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 102,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 1303000,
     "_npi_rmb_million": 18.2,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 1303000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -205,8 +229,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 9947000.0,
+    "gross_revenue": 17225000.0,
+    "npi_pct": 4.9513,
     "occupancy_rate": 99.5,
     "gfa": 100047.0,
     "nla": 44404.0,
@@ -219,9 +244,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 1030000,
     "_npi_rmb_million": 54.7,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 1030000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -237,8 +265,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 1992000.0,
+    "gross_revenue": 5722000.0,
+    "npi_pct": 0.9916,
     "occupancy_rate": 96.6,
     "gfa": 49040.0,
     "nla": 28130.0,
@@ -251,9 +280,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 100,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 369000,
     "_npi_rmb_million": 11.0,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 369000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -269,8 +301,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 30127000.0,
+    "gross_revenue": 40748000.0,
+    "npi_pct": 14.9964,
     "occupancy_rate": 95.3,
     "gfa": 373334.0,
     "nla": 348804.0,
@@ -283,6 +316,7 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 101,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27 (100% basis); recovered 2026-07-02",
     "flags": [
       {
         "type": "full_consolidation_partial_ownership",
@@ -292,7 +326,9 @@
     ],
     "_rmb_valuation_000": 2340000,
     "_npi_rmb_million": 165.7,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 2340000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -308,8 +344,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 6211000.0,
+    "gross_revenue": 9859000.0,
+    "npi_pct": 3.0917,
     "occupancy_rate": 73.6,
     "gfa": 101811.0,
     "nla": 101450.0,
@@ -322,6 +359,7 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 101,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27 (100% basis); recovered 2026-07-02",
     "flags": [
       {
         "type": "full_consolidation_partial_ownership",
@@ -331,7 +369,9 @@
     ],
     "_rmb_valuation_000": 805000,
     "_npi_rmb_million": 34.2,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 805000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -347,8 +387,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 6556000.0,
+    "gross_revenue": 11551000.0,
+    "npi_pct": 3.2634,
     "occupancy_rate": 74.9,
     "gfa": 130261.0,
     "nla": 130161.0,
@@ -361,6 +402,7 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 101,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27 (100% basis); recovered 2026-07-02",
     "flags": [
       {
         "type": "full_consolidation_partial_ownership",
@@ -370,7 +412,9 @@
     ],
     "_rmb_valuation_000": 1017000,
     "_npi_rmb_million": 36.1,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 1017000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -386,8 +430,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 6928000.0,
+    "gross_revenue": 10831000.0,
+    "npi_pct": 3.4486,
     "occupancy_rate": 85.2,
     "gfa": 118495.0,
     "nla": 95654.0,
@@ -400,9 +445,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 101,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27 (100% basis); recovered 2026-07-02",
     "_rmb_valuation_000": 871000,
     "_npi_rmb_million": 38.1,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 871000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -418,8 +466,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 3704000.0,
+    "gross_revenue": 5403000.0,
+    "npi_pct": 1.8437,
     "occupancy_rate": 86.7,
     "gfa": 40547.0,
     "nla": 36288.0,
@@ -432,6 +481,7 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 101,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27 (100% basis); recovered 2026-07-02",
     "flags": [
       {
         "type": "full_consolidation_partial_ownership",
@@ -441,7 +491,9 @@
     ],
     "_rmb_valuation_000": 334000,
     "_npi_rmb_million": 20.4,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 334000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -457,8 +509,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 526000.0,
+    "gross_revenue": 1228000.0,
+    "npi_pct": 0.2618,
     "occupancy_rate": 100.0,
     "gfa": 62785.0,
     "nla": null,
@@ -471,9 +524,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 102,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 438000,
     "_npi_rmb_million": 2.9,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 438000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -489,8 +545,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 1593000.0,
+    "gross_revenue": 2478000.0,
+    "npi_pct": 0.793,
     "occupancy_rate": 92.3,
     "gfa": 71556.0,
     "nla": null,
@@ -503,9 +560,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 102,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 323000,
     "_npi_rmb_million": 8.8,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 323000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -521,8 +581,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 2085000.0,
+    "gross_revenue": 3086000.0,
+    "npi_pct": 1.0379,
     "occupancy_rate": 100.0,
     "gfa": 86973.0,
     "nla": null,
@@ -535,9 +596,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 102,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 326000,
     "_npi_rmb_million": 11.5,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 326000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -553,8 +617,9 @@
     "purchase_price_currency": "RMB",
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 1929000.0,
+    "gross_revenue": 2527000.0,
+    "npi_pct": 0.9602,
     "occupancy_rate": 100.0,
     "gfa": 43945.0,
     "nla": null,
@@ -567,9 +632,12 @@
     "status": "active",
     "major_tenants": [],
     "source_page": 102,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "_rmb_valuation_000": 283000,
     "_npi_rmb_million": 10.6,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "original_value": 283000000,
+    "original_currency": "RMB"
   },
   {
     "symbol": "AU8U.SI",
@@ -583,8 +651,9 @@
     "market_valuation": null,
     "valuation_date": null,
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 2531000.0,
+    "gross_revenue": 4027000.0,
+    "npi_pct": 1.2599,
     "occupancy_rate": null,
     "gfa": 75431.0,
     "nla": null,
@@ -596,6 +665,7 @@
     "tenure_raw": "Land use right term 40 years; remaining 19 years (per 2024 comparative)",
     "status": "divested",
     "divestment_price": null,
+    "_recovery_note": "NPI/Gross Revenue FY2025 S$'000 (partial-year, 1 Jan-31 Oct 2025) from Gross Revenue by Property / Net Property Income by Property tables, Financial Review p26-27; recovered 2026-07-02",
     "flags": [
       {
         "type": "divested_partial_data",

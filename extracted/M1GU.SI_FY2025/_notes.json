@@ -92,6 +92,9 @@
       "source_page": 45
     }
   ],
+  "null_recovery_round7_2026_07_03": {
+    "properties.nla": "CONFIRMED ABSENT for all 18 active properties. Portfolio statement (Property Highlights table, p19) prints only 'GFA (sqm)' per property, e.g. '151 Lorong Chuan | 80,467 sqm GFA'. Report defines both terms separately (p22: 'Gross Floor Area (\"GFA\")' and 'Net Lettable Area (\"NLA\")') and discloses NLA only as a PORTFOLIO TOTAL (326,700 sqm, p22 table 'Net Lettable Area (\"NLA\") (sqm) | 326,700 | 326,700'), never split per property. Structural absence, not a miss -- consistent with prior note already in columns_never_fillable. No fill made; nla left null for all 18 rows (New Tech Park, 8 Commonwealth Lane, Frontech Centre, 1 Tuas Avenue 4, BTC Centre, 508 Chai Chee Lane, 33/33A & 35 Penjuru Lane, 18 Gul Drive, Penjuru Logistics Hub, Freight Links Express Logisticentre, 26 Loyang Drive, 3A Joo Koon Circle, 2 Toh Tuck Link, 10 Changi South Street 2, 123 Genting Lane, 30 & 32 Tuas Avenue 8, 39 Ubi Road 1, 21 Joo Koon Crescent)."
+  },
   "inferred": [
     {
       "table": "properties",

@@ -16,7 +16,9 @@
     "completion_date": "2025-03-24",
     "status": "completed",
     "source_page": 47,
-    "counterparty": "Chempark Logistics (Pte) Ltd"
+    "counterparty": "Chempark Logistics (Pte) Ltd",
+    "transaction_date": "2025-03-24",
+    "description": "Divestment of a logistics asset in Singapore (site area 6,313.2 sqm, GFA 10,601 sqm; part two-storey/part single-storey warehouse with mezzanine and four levels of ancillary office), 100% owned by ESR-REIT, sold to Chempark Logistics (Pte) Ltd for S$6.8m (3.5% above valuation), completed 24 March 2025 (p47)."
   },
   {
     "symbol": "J91U.SI",
@@ -35,7 +37,9 @@
     "completion_date": "2025-03-28",
     "status": "completed",
     "source_page": 47,
-    "counterparty": "Anderco Pte Ltd"
+    "counterparty": "Anderco Pte Ltd",
+    "transaction_date": "2025-03-28",
+    "description": "Divestment of a general industrial asset in Singapore (site area 12,431.6 sqm, GFA 6,312 sqm; four-storey light industrial building), 100% owned by ESR-REIT, sold to Anderco Pte Ltd for S$9.9m (1.5% above valuation), completed 28 March 2025 (p47)."
   },
   {
     "symbol": "J91U.SI",
@@ -54,7 +58,9 @@
     "completion_date": "Expected 1Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Coliwoo Project Ace Pte Ltd"
+    "counterparty": "Coliwoo Project Ace Pte Ltd",
+    "transaction_date": "2026-01-30",
+    "description": "Announced divestment of the Hotel strata lot of a Business Park asset in Singapore (strata lot area 18,406.0 sqm), 100% owned by Viva Trust (a sub-trust of ESR-REIT), to Coliwoo Project Ace Pte Ltd for S$101.0m; announced 30 January 2026, expected completion 1Q2026; retaining the business park, retail and convention centre components (p48, p492, p694)."
   },
   {
     "symbol": "J91U.SI",
@@ -73,7 +79,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 86/88IR Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 86/88IR Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a general industrial asset in Singapore (site area 15,908.1 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 86/88IR Trust) for S$42.2m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2069)."
   },
   {
     "symbol": "J91U.SI",
@@ -92,7 +100,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 120PR Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 120PR Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a general industrial asset in Singapore (site area 16,597.9 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 120PR Trust) for S$34.1m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2070)."
   },
   {
     "symbol": "J91U.SI",
@@ -111,7 +121,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 13JT Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 13JT Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a general industrial asset in Singapore (site area 30,234.9 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 13JT Trust) for S$16.7m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2071)."
   },
   {
     "symbol": "J91U.SI",
@@ -130,7 +142,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 60TSS1 Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 60TSS1 Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a general industrial asset in Singapore (site area 3,990.3 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 60TSS1 Trust) for S$3.5m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2072)."
   },
   {
     "symbol": "J91U.SI",
@@ -149,7 +163,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 43TVC Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 43TVC Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a general industrial asset in Singapore (site area 13,138.3 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 43TVC Trust) for S$15.1m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2073)."
   },
   {
     "symbol": "J91U.SI",
@@ -168,7 +184,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 21/23UR1 Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 21/23UR1 Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a high-specifications industrial asset in Singapore (site area 7,538.5 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 21/23UR1 Trust) for S$45.0m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2074)."
   },
   {
     "symbol": "J91U.SI",
@@ -187,7 +205,9 @@
     "completion_date": "Expected 2Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 24JPR Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 24JPR Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a logistics asset in Singapore (site area 30,262.2 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 24JPR Trust) for S$68.0m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 2Q2026 (p48, p2045-2075)."
   },
   {
     "symbol": "J91U.SI",
@@ -206,6 +226,8 @@
     "completion_date": "Expected 3Q2026",
     "status": "announced",
     "source_page": 48,
-    "counterparty": "Perpetual (Asia) Limited (Trustee of 46ATP Trust)"
+    "counterparty": "Perpetual (Asia) Limited (Trustee of 46ATP Trust)",
+    "transaction_date": "2025-12-15",
+    "description": "Announced divestment of a logistics asset in Singapore (site area 22,388.5 sqm), 100% owned by ESR-REIT, to Perpetual (Asia) Limited (Trustee of 46ATP Trust) for S$113.5m, part of the 8-asset non-core industrial portfolio divestment announced 15 December 2025 (aggregate S$338.1m, 2.0% premium to valuation); expected completion 3Q2026 (p48, p2045-2076)."
   }
 ]

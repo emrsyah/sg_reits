@@ -6,7 +6,7 @@
   "gross_revenue": 445984000,
   "net_property_income": 328679000,
   "net_distributable_income": 176076000,
-  "distribution_paid": null,
+  "distribution_paid": 176076000,
   "adjusted_distributable_income": null,
   "dpu": 21.914,
   "distribution_record": [
@@ -17,7 +17,7 @@
       "pay_date": "2025-09-12"
     }
   ],
-  "number_of_unitholders": null,
+  "number_of_unitholders": 22375,
   "aggregate_leverage": 43.4,
   "interest_coverage_ratio": 2.5,
   "cost_of_debt": 3.35,
@@ -37,6 +37,10 @@
       "type": "diluted_shares_corrected",
       "scope": "financial.diluted_shares_outstanding",
       "note": "Corrected 803,730,000 -> 803,415,000. Note 25 EPU: basic weighted-avg = 803,415 '000; 'Diluted EPU is the same as basic EPU as there were no dilutive instruments'. Prior 803,730,000 matched neither the basic weighted-avg nor units in issue (805,035 '000). p201."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed); S$176,076k 'Amount available for distribution to Unitholders' p129"
     }
   ],
   "source_page": 22,

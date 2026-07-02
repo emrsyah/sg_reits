@@ -59,6 +59,10 @@
     {
       "column": "properties.trade_mix",
       "reason": "Per-property trade mix not disclosed — master-lease structure with one/two master lessees per property."
+    },
+    {
+      "column": "performance.weighted_avg_debt_maturity",
+      "reason": "No 'weighted average debt maturity' KPI (years) is disclosed anywhere in the report. Financial Ratios table (p7) lists Interest Coverage, Aggregate Leverage, %Debt Fixed/Hedged, %Debt Social Finance Instruments only — no maturity KPI. Capital management note (Note 29, p191-192) discloses ICR/leverage/debt-to-adjusted-capital but no average maturity. Note 11 Borrowings (p168-169) gives only per-facility maturity years (Guaranteed bonds 2027, Social term loan A 2026, Social term loan B 2026, Secured TMK bonds B/Term loan C 2030) with no aggregated weighted-average figure — computing one from face values would be a derived/invented metric, not disclosed, so left null per rule 2. Checked pp.7, 11-12, 168-169, 191-192."
     }
   ],
   "data_with_no_home": [
@@ -122,6 +126,80 @@
     "valuation_check": "Sum of all property carrying values (30 active with value + IAHCC nil) = S$1,022,619,000 = disclosed Portfolio total (p135, p143). PASS.",
     "trade_mix_sum": 100.0,
     "top_tenant_sum": 100.0
+  },
+  "null_recovery_round7_2026_07_03": {
+    "confirmed_absent": [
+      {
+        "table": "property_transactions",
+        "field": "valuation",
+        "key": "Imperial Aryaduta Hotel & Country Club (divestment)",
+        "reason": "No independent/agreed 'valuation' figure distinct from sale consideration/carrying value is disclosed for this deal. Note 30 Disposal of a subsidiary (p197) gives only: total sales consideration net of tax S$22,440,000; carrying amount of net assets disposed S$25,627,000 (investment properties S$25,743,000); loss on disposal S$7,535,000. Statement of Portfolio (p140) shows FY2024 carrying value S$27,723,000, FY2025 '-' (nil, divested pre-FY-end). Unlike active properties, which carry an 'Appraised Value' figure on their Property Overview card (see Siloam Sriwijaya/Purwakarta example p39, Siloam Manado/Makassar p41), Imperial Aryaduta has no such card in FY2025 (divested, dropped from the property-overview section) and no appraised/agreed value is quoted anywhere else in the AR.",
+        "pages_read": [197, 140, 200, 161, 163]
+      },
+      {
+        "table": "properties",
+        "field": "nla",
+        "key": "all 31 active properties",
+        "reason": "Structural absence, re-confirmed. Statements of Portfolio Group table (pp.136-145) column header is only 'Gross floor area in square metres' -- no NLA column exists. Every per-property overview card (pp.28-43) discloses only 'Gross Floor Area' (plus 'Land Area' for some Indonesia assets); never a net-lettable-area line. Master-lease healthcare structure (whole-building hospital/nursing-home leases to a single/dual operator) means NLA per se is not a metric the report tracks. GFA correctly retained in the gfa field; nla left null per spec (do not copy GFA into nla).",
+        "pages_read": [136, 138, 139, 140, 141, 142, 143, 145, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
+      }
+    ],
+    "flags_for_main_agent": [
+      {
+        "note": "property_transactions.json for Imperial Aryaduta records consideration=22,440,000 (SGD, net of tax, per Note 30 p197). The Interested Person Transactions table (p200) discloses a DIFFERENT figure for the same deal: 'Sales consideration for the divestment of 100% issued and paid-up share capital of PT Karya Sentra Sejahtera ... S$25,908,000' -- likely gross sale consideration before tax/adjustments. Not a simple derivation of the 22,440,000 net figure (25,908 - 1,105 tax != 22,440 exactly once other Note-30 adjustments are included). Did not edit -- outside my assigned worklist (only txn.valuation) and non-null value; flagging for main agent to consider adding a distinct gross_sale_price field with p200 citation.",
+        "source_page": 200
+      }
+    ]
+  },
+  "null_recovery_round8_2026_07_03": {
+    "corrections": [
+      {
+        "table": "property_transactions",
+        "field": "consideration",
+        "key": "Imperial Aryaduta Hotel & Country Club (divestment)",
+        "old": 22440000,
+        "new": 25908000,
+        "currency": "SGD",
+        "source_page": 200,
+        "quote": "PT Abadi Jaya Sakti and PT Tigamitra Ekamulia - Sales consideration for the divestment of 100% issued and paid-up share capital of PT Karya Sentra Sejahtera ... S$25,908,000",
+        "why_wrong": "CONFLATION: the extractor stored the NET-of-tax figure (S$22,440,000, Note 30 p197 'total sales consideration (net of tax)' = 'Net cash flow on disposal of a subsidiary') in the gross consideration column, making consideration==net_proceeds. The report prints the TRUE gross sales consideration for the divestment separately in the Interested Person Transactions table (p200) = S$25,908,000. Read literally as printed; not derived. net_proceeds correctly retains the net S$22,440,000 (Note 30 p197). consideration_basis and notes updated to cite p200 (gross) and p197 (net)."
+      }
+    ],
+    "fills": [
+      {
+        "table": "properties",
+        "field": "divestment_price",
+        "key": "Imperial Aryaduta Hotel & Country Club",
+        "value": 25908000,
+        "currency": "SGD",
+        "source_page": 200,
+        "quote": "Sales consideration for the divestment of 100% issued and paid-up share capital of PT Karya Sentra Sejahtera ... S$25,908,000",
+        "note": "Filled from Interested Person Transactions table (p200) = gross sales consideration for the divestment. Round7 flag note claimed 'divestment_price not separately disclosed'; that was stale/incorrect and has been superseded. Added divestment_price_currency=SGD and divestment_price_source_page=200; the property flag note was rewritten to distinguish gross S$25,908,000 (p200) from net S$22,440,000 (p197)."
+      }
+    ],
+    "confirmed_absent": [
+      {
+        "table": "property_transactions",
+        "field": "valuation",
+        "key": "Imperial Aryaduta Hotel & Country Club (divestment)",
+        "reason": "No independent/agreed deal valuation is printed in the annual report. Note 30 Disposal of a subsidiary (p197) discloses only consideration net of tax S$22,440,000, carrying amount of net assets disposed S$25,627,000, and loss on disposal S$7,535,000. The IPT table (p200) discloses only the sales consideration S$25,908,000. Statement of Portfolio (p140) shows FY2025 carrying value '-' (nil, disposed) and FY2024 S$27,723,000. No external-valuer appraisal figure for the divested asset appears anywhere; divested assets are dropped from the property-overview/appraised-value cards. Left null.",
+        "pages_read": [197, 200, 140, 161, 163, 123]
+      }
+    ],
+    "flags_for_main_agent": [
+      {
+        "note": "RESOLVED round7 flag: round7 flagged that IPT p200 (S$25,908,000, gross) differs from consideration=22,440,000 (net) and suggested adding a distinct gross field. Round8 has corrected property_transactions.consideration to the gross S$25,908,000 (p200), keeping net_proceeds=22,440,000 (net of tax, Note 30 p197). No separate schema field was added; consideration now holds gross, net_proceeds holds net.",
+        "source_page": 200
+      },
+      {
+        "note": "SYSTEMIC currency-convention inconsistency (invariant 7a, NOT changed): the 17 Indonesia properties store purchase_price in SGD (purchase_price_currency=SGD, e.g. Siloam Hospitals Lippo Village pp=94,300,000 SGD) whereas the 14 Japan properties store purchase_price in local JPY (purchase_price_currency=JPY, e.g. Hikari Heights Varus Kotoni pp=6,209,000,000 JPY). Indonesia purchase prices appear converted-to-SGD rather than stored in local IDR. Left untouched per invariant 7a for main-agent decision.",
+        "source_page": 140
+      },
+      {
+        "note": "Imperial Aryaduta property record (properties.json, status=divested): market_valuation=0 and valuation_date='2025-12-31'. Per invariant 6, market_valuation/valuation_date on a DIVESTED property are BY-DESIGN null; the Statement of Portfolio p140 prints '-' (dash) for FY2025 carrying value, not 0. market_valuation should arguably be null rather than 0, and valuation_date null (no FY2025 valuation - asset disposed 4 Dec 2025). Not changed (property-table judgment call outside the txn worklist); flagging for main agent.",
+        "source_page": 140
+      }
+    ]
   },
   "inferred": [
     {

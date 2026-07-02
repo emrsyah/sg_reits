@@ -1,17 +1,137 @@
 [
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Logistics & Supply Chain Management", "category_raw": "Logistics & Warehouse", "pct": 43.9, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Manufacturing", "category_raw": "Manufacturing", "pct": 15.9, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "Electronics", "pct": 8.6, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Info-Comm & Technology", "pct": 7.3, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "General & Precision Engineering", "pct": 7.2, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Lifestyle", "pct": 3.3, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Data Centre", "pct": 2.3, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Retail", "pct": 2.3, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Food & Beverages", "category_raw": "Food & Beverage", "pct": 2.2, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "Others", "pct": 1.9, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Infrastructure, Real Estate & Property Services", "category_raw": "Construction", "pct": 1.8, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "Research & Development", "pct": 1.1, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Healthcare & Wellness", "category_raw": "Healthcare", "pct": 0.9, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Childcare & Education", "pct": 0.8, "pct_basis": "gri", "source_page": 52},
-  {"symbol": "J91U.SI", "financial_year": 2025, "category": "Logistics & Supply Chain Management", "category_raw": "Self-Storage", "pct": 0.5, "pct_basis": "gri", "source_page": 52}
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "Logistics & Warehouse",
+    "pct": 43.9,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing",
+    "pct": 15.9,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Electronics",
+    "pct": 8.6,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Info-Comm & Technology",
+    "pct": 7.3,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "General & Precision Engineering",
+    "pct": 7.2,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Lifestyle",
+    "pct": 3.3,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "IT & Telecommunications",
+    "category_raw": "Data Centre",
+    "pct": 2.3,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 2.3,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverage",
+    "pct": 2.2,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Others",
+    "pct": 1.9,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Construction",
+    "pct": 1.8,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Industrial Trades",
+    "category_raw": "Research & Development",
+    "pct": 1.1,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Healthcare",
+    "pct": 0.9,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Other Retail Trades",
+    "category_raw": "Childcare & Education",
+    "pct": 0.8,
+    "pct_basis": "gri",
+    "source_page": 52
+  },
+  {
+    "symbol": "J91U.SI",
+    "financial_year": 2025,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Self-Storage",
+    "pct": 0.5,
+    "pct_basis": "gri",
+    "source_page": 52
+  }
 ]

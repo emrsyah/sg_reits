@@ -6,8 +6,8 @@
   "gross_revenue": 120076000,
   "net_property_income": 67722000,
   "net_distributable_income": 39709000,
-  "distribution_paid": null,
-  "adjusted_distributable_income": null,
+  "distribution_paid": 39715000,
+  "adjusted_distributable_income": 43830000,
   "dpu": 3.53,
   "distribution_record": [
     {
@@ -43,6 +43,10 @@
       "type": "name_change_in_year",
       "scope": "symbol",
       "note": "Trust renamed from Sabana Industrial REIT to Alpha Integrated REIT on 23 Oct 2025; manager internalised (first internalised SG REIT). Ticker M1GU (formerly M1GU/Sabana)."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "Declared-for-FY basis, nil retention: Total Declared Distribution Amount $39,715k (Manager's Review p20), 100% payout of Declared DPU 3.53 cents; Distribution Statement (p117-118) corroborates — Income available for distribution after tax $39,709k, Amount retained for working capital = nil (footnote 2, p118). Recovered 2026-07-02."
     }
   ],
   "source_page": 45,

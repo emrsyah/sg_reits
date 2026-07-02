@@ -6,7 +6,7 @@
   "gross_revenue": 214617000,
   "net_property_income": 134361000,
   "net_distributable_income": 74787000,
-  "distribution_paid": null,
+  "distribution_paid": 76431000.0,
   "adjusted_distributable_income": null,
   "dpu": 13.39,
   "distribution_record": [
@@ -48,6 +48,10 @@
       "type": "leverage_basis",
       "scope": "aggregate_leverage",
       "note": "Aggregate leverage 42.4% (MAS basis); net gearing per EMTN definition was 38.0%."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "Cash 'Distributions declared to Stapled Securityholders during the year' (period-mixed: 7.056 cents for 1 Jul-31 Dec 2024 + 6.553 cents for 1 Jan-30 Jun 2025); €76,431k p169"
     }
   ],
   "source_page": 5,

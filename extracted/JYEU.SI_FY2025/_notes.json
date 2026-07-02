@@ -15,6 +15,44 @@
     {
       "column": "properties.purchase_price",
       "reason": "Purchase price disclosed only for the three core operating assets in the Property Summary key-statistics cards: Jem S$2,079.0m (p28), 313@somerset S$1,003.0m (p31), Sky Complex €262.5m (p32, cost in EUR — stored with purchase_price_currency=EUR, not converted). NOT disclosed for the Multifunctional Event Space development site (only site/GFA and carrying value given, no acquisition/purchase price) nor for Parkway Parade (10% equity-accounted associate via PPP, no per-property purchase price; only investment-in-associates carrying value S$4,130k, note 7 p112). Those two remain null."
+    },
+    {
+      "column": "properties.occupancy_rate / net_property_income / nla",
+      "reason": "Null-recovery round 2 (2026-07-02): checked Property Summary key-stats cards (pp28-33), Portfolio Statement (p116), Financial Review per-asset table (p34), and dedicated property write-up pages for the two remaining null properties. (1) 'Development site adjacent to 313@somerset' (Multifunctional Event Space, p33/1851-1863): under construction, completion 2H2026; no key-stats card (unlike operating assets); Portfolio Statement row shows 'N.A.' for tenure/WALE fields (p5081 excerpt); no occupancy/NLA/NPI disclosed — confirmed not-yet-operating, genuinely undisclosed. (2) 'Parkway Parade' (10.0% interest in PPP, p33/2065-2089): write-up page has no key-stats box at all (only narrative + fair value of investment S$86.1m, note p2156); equity-accounted associate, not a Portfolio Statement line item; no per-property occupancy/NPI/NLA disclosed anywhere in the report. Left null for both properties across all three columns."
+    }
+  ],
+  "null_recovery_round2_r5": [
+    {
+      "column": "properties.market_valuation",
+      "property_name": "Parkway Parade",
+      "filled": 86090000,
+      "basis": "Note 9 'EQUITY INSTRUMENT AT FAIR VALUE' (p145): 'Equity instrument – at FVTPL' = S$86,090k at 30 Jun 2025, and 'Equity instrument at fair value relates to LREIT's 10.0% stake in PPP.' Corroborated by Financial Review narrative (p35): 'The fair value of Lendlease REIT's investment in Parkway Parade Partnership Pte Ltd remained at S$86.1 million as at 30 June 2025 and represents approximately 2.2% of the total assets.' This is the REIT's 10% equity-interest fair value, not a 100% property appraisal (PPP/Parkway Parade itself is not separately appraised/disclosed in this AR) — value_basis remains 'effective_interest'.",
+      "source_page": 145
+    },
+    {
+      "column": "properties.purchase_price",
+      "property_name": "Parkway Parade",
+      "filled": null,
+      "reason": "No acquisition/purchase price for the 10% PPP interest disclosed anywhere in the report (checked property write-up p33-34, note 9 p145, note 25 unitholders' funds movement, financial review p20/34). Left null."
+    },
+    {
+      "column": "properties.purchase_price",
+      "property_name": "Development site adjacent to 313@somerset",
+      "filled": null,
+      "reason": "No purchase/acquisition price disclosed for the development site (in-house/organic development on adjacent state land, not an outright acquisition); property card (p31) lists only site area, GFA, % interest — no purchase price field. Left null."
+    },
+    {
+      "column": "properties.land_tenure",
+      "property_name": "Parkway Parade",
+      "filled": null,
+      "reason": "Parkway Parade is not a row in the audited Portfolio Statement (p116-118) and its property write-up page (p33) has no KEY STATISTICS box (unlike the other 4 properties which each show TITLE/TENURE); equity-accounted 10% interest via PPP, tenure of the underlying strata lots not disclosed in this report. Left null."
+    }
+  ],
+  "discrepancy_not_changed": [
+    {
+      "field": "properties.alt_value / alt_basis (Parkway Parade row)",
+      "existing_value": "alt_value 4,130,000 citing 'Investment in associates carrying value (note 7, p112)'",
+      "issue": "Note 7 'INVESTMENT IN ASSOCIATES' (p143-144, S$4,130k) relates to LREIT's interests in Lendlease Asian Retail Investment Fund 3 (ARIF3, 37.8%), LL JV Ltd (25.0%) and Triple Eight JV Ltd (25.0%) — these are NOT Parkway Parade/PPP. PPP is instead carried as 'EQUITY INSTRUMENT AT FAIR VALUE' under note 9 (p145, S$86,090k). The existing alt_value/alt_basis on the Parkway Parade row therefore cites the wrong note/figure. Not overwritten per spec (field is non-null) — flagging as a discrepancy for correction in a future pass; the correct figure (S$86,090k) has instead been used to fill market_valuation this round, which was null."
     }
   ],
   "data_with_no_home": [

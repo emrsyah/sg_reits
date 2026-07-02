@@ -45,6 +45,10 @@
       "source_page": 7
     }
   ],
+  "null_recovery_round7_2026_07_03": {
+    "properties.nla": "CONFIRMED ABSENT for the 4 logistics-park properties (Shanghai Fengxian Logistics Park, Chengdu Shuangliu Logistics Park, Wuhan Yangluo Logistics Park, Kunshan Bacheng Logistics Park). RAG-located each property card 'Property Information' box (pp.54-56 area) which prints only 'GFA (sq m)' -- e.g. Chengdu Shuangliu: 'GFA (sq m) | 71,556' -- with no NLA row. The only NLA-labelled figure present is 'By Committed NLA(%)' under Trade Sector (e.g. '100' for Logistics & Warehouse), which is a trade-sector-mix PERCENTAGE, not an area value -- not a substitute fill. Consistent with prior columns_never_fillable note. No fill made; nla left null for all 4 rows.",
+    "pages_read": [54, 55, 56, 102]
+  },
   "columns_never_fillable": [
     {
       "column": "property.gla",

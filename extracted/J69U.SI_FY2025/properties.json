@@ -5,6 +5,7 @@
     "property_name": "Causeway Point",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "1 Woodlands Square",
     "ownership": 100.0,
     "market_valuation": 1354000000,
@@ -15,6 +16,7 @@
     "occupancy_rate": 92.3,
     "trade_mix": null,
     "gla": 629167,
+    "gfa": 629167,
     "nla": 419782,
     "land_tenure": "Leasehold",
     "effective_date": "1995-10-30",
@@ -27,7 +29,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 606200000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 25.16,
+    "_recovery_note": "GFA from Portfolio overview p68 (629,167 sf); recovered 2026-07-02; npi_pct = 69,931/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -35,6 +39,7 @@
     "property_name": "Northpoint City North Wing",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "930 Yishun Avenue 2",
     "ownership": 100.0,
     "market_valuation": 800000000,
@@ -45,6 +50,7 @@
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "gla": 850378,
+    "gfa": 850378,
     "nla": 531529,
     "land_tenure": "Leasehold",
     "effective_date": "1990-04-01",
@@ -57,7 +63,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 413900000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 22.4,
+    "_recovery_note": "GFA from Portfolio overview p68 (850,378 sf; combined North+South Wing, colspan-disclosed jointly, applied to North Wing only); recovered 2026-07-02; npi_pct = 62,264/277,980 portfolio NPI (Financial review table p34) — NOTE: the existing net_property_income (62,264k) and gross_revenue (85,573k) on THIS row are actually the COMBINED 'Northpoint City' total (North Wing + South Wing + Yishun 10 Retail Podium) per source footnote 1 on p34, not North-Wing-only figures; flagged as discrepancy, not corrected; recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -65,6 +73,7 @@
     "property_name": "Northpoint City South Wing",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "1 Northpoint Drive",
     "ownership": 100.0,
     "market_valuation": 1133000000,
@@ -72,7 +81,7 @@
     "currency": "SGD",
     "net_property_income": null,
     "gross_revenue": null,
-    "occupancy_rate": null,
+    "occupancy_rate": 100.0,
     "trade_mix": null,
     "gla": null,
     "nla": null,
@@ -86,7 +95,8 @@
     "source_page": 149,
     "major_tenants": [],
     "purchase_price": 1133000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "Committed occupancy from Portfolio overview p68 (100.0%, disclosed combined for North+South Wing). NPI/gross_revenue/GFA/NLA NOT filled: disclosed only on a combined North+South Wing basis (p68), not separable per-wing; recovered 2026-07-02. Re-checked p34 Financial review table (Gross Revenue/NPI by property) — confirms NPI is disclosed only as a single 'Northpoint City' line (includes North Wing + South Wing + Yishun 10 Retail Podium, footnote 1); no standalone South Wing NPI anywhere in source. npi_pct also NOT computed (no standalone NPI numerator). Left null; verified 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -94,6 +104,7 @@
     "property_name": "Tampines 1",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "10 Tampines Central 1",
     "ownership": 100.0,
     "market_valuation": 817000000,
@@ -104,6 +115,7 @@
     "occupancy_rate": 99.8,
     "trade_mix": null,
     "gla": 391551,
+    "gfa": 391551,
     "nla": 278059,
     "land_tenure": "Leasehold",
     "effective_date": "1990-04-01",
@@ -116,7 +128,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 762000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 14.01,
+    "_recovery_note": "GFA from Portfolio overview p68 (391,551 sf); recovered 2026-07-02; npi_pct = 38,932/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -124,6 +138,7 @@
     "property_name": "Tiong Bahru Plaza",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "302 Tiong Bahru Road",
     "ownership": 100.0,
     "market_valuation": 665000000,
@@ -134,6 +149,7 @@
     "occupancy_rate": 99.2,
     "trade_mix": null,
     "gla": 519202,
+    "gfa": 519202,
     "nla": 214505,
     "land_tenure": "Leasehold",
     "effective_date": "1991-09-01",
@@ -146,7 +162,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 654000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 11.99,
+    "_recovery_note": "GFA from Portfolio overview p68 (519,202 sf); recovered 2026-07-02; npi_pct = 33,335/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -154,6 +172,7 @@
     "property_name": "Century Square",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "2 Tampines Central 5",
     "ownership": 100.0,
     "market_valuation": 563000000,
@@ -164,6 +183,7 @@
     "occupancy_rate": 91.8,
     "trade_mix": null,
     "gla": 327226,
+    "gfa": 327226,
     "nla": 211278,
     "land_tenure": "Leasehold",
     "effective_date": "1992-09-01",
@@ -176,7 +196,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 574000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 9.38,
+    "_recovery_note": "GFA from Portfolio overview p68 (327,226 sf); recovered 2026-07-02; npi_pct = 26,075/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -184,6 +206,7 @@
     "property_name": "Hougang Mall",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "90 Hougang Avenue 10",
     "ownership": 100.0,
     "market_valuation": 467000000,
@@ -194,6 +217,7 @@
     "occupancy_rate": 73.5,
     "trade_mix": null,
     "gla": 232782,
+    "gfa": 232782,
     "nla": 165765,
     "land_tenure": "Leasehold",
     "effective_date": "1994-05-01",
@@ -206,7 +230,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 432000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 6.16,
+    "_recovery_note": "GFA from Portfolio overview p68 (232,782 sf); recovered 2026-07-02; npi_pct = 17,118/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -214,6 +240,7 @@
     "property_name": "White Sands",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "1 Pasir Ris Central Street 3",
     "ownership": 100.0,
     "market_valuation": 431000000,
@@ -224,6 +251,7 @@
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "gla": 240371,
+    "gfa": 240371,
     "nla": 150352,
     "land_tenure": "Leasehold",
     "effective_date": "1993-05-01",
@@ -236,7 +264,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 428000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 7.81,
+    "_recovery_note": "GFA from Portfolio overview p68 (240,371 sf); recovered 2026-07-02; npi_pct = 21,715/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -244,6 +274,7 @@
     "property_name": "Central Plaza",
     "country": "Singapore",
     "category": "Office",
+    "category_raw": "Office building",
     "address": "298 Tiong Bahru Road",
     "ownership": 100.0,
     "market_valuation": 219000000,
@@ -266,7 +297,9 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 215000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "npi_pct": 3.01,
+    "_recovery_note": "npi_pct = 8,358/277,980 portfolio NPI (Financial review table p34); GFA left null — checked Portfolio overview p68-69, Portfolio Statement p149 area table, and Property particulars p68/69/149 — only NLA (171,136 sf) is disclosed for Central Plaza (office), no GFA figure found in source; recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -274,6 +307,7 @@
     "property_name": "Yishun 10 Retail Podium",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Commercial",
     "address": "51 Yishun Central 1",
     "ownership": 100.0,
     "market_valuation": null,
@@ -301,16 +335,18 @@
     "property_name": "NEX",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "23 Serangoon Central, Singapore 556083",
     "ownership": 50.0,
     "market_valuation": 2141000000,
     "valuation_date": "2025-09-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 102252000,
+    "gross_revenue": 133701000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "gla": 960450,
+    "gfa": 960450,
     "nla": 634631,
     "land_tenure": "Leasehold",
     "effective_date": "2008-06-26",
@@ -329,7 +365,8 @@
     ],
     "area_unit": "sqft",
     "purchase_price": 1050900000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "NPI ($102,252k), gross revenue ($133,701k) and GFA (960,450 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02"
   },
   {
     "symbol": "J69U.SI",
@@ -337,16 +374,18 @@
     "property_name": "Waterway Point",
     "country": "Singapore",
     "category": "Retail",
+    "category_raw": "Shopping mall",
     "address": "83 Punggol Central, Singapore 828761",
     "ownership": 50.0,
     "market_valuation": 1331000000,
     "valuation_date": "2025-09-30",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
+    "net_property_income": 64484000,
+    "gross_revenue": 86183000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
     "gla": 560234,
+    "gfa": 560234,
     "nla": 390445,
     "land_tenure": "Leasehold",
     "effective_date": "2011-05-18",
@@ -359,6 +398,7 @@
     "major_tenants": [],
     "area_unit": "sqft",
     "purchase_price": 651300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "NPI ($64,484k), gross revenue ($86,183k) and GFA (560,234 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02"
   }
 ]

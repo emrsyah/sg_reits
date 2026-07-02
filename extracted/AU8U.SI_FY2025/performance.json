@@ -6,7 +6,7 @@
   "gross_revenue": 303720000.0,
   "net_property_income": 200895000.0,
   "net_distributable_income": 83900000.0,
-  "distribution_paid": null,
+  "distribution_paid": 88743000.0,
   "adjusted_distributable_income": null,
   "dpu": 4.82,
   "distribution_record": [
@@ -34,5 +34,11 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "source_page": 7,
-  "distribution_basis": "full_payout_no_retention_line"
+  "distribution_basis": "full_payout_no_retention_line",
+  "flags": [
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed: 2.49 cents for 1H2025 + 2.64 cents for 2H2024); S$88,743k p96"
+    }
+  ]
 }

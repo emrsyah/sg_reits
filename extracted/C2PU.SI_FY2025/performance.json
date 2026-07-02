@@ -6,7 +6,7 @@
   "gross_revenue": 156294000.0,
   "net_property_income": 147484000.0,
   "net_distributable_income": 99781000.0,
-  "distribution_paid": null,
+  "distribution_paid": 65436000.0,
   "adjusted_distributable_income": null,
   "dpu": 15.29,
   "distribution_record": [
@@ -37,6 +37,10 @@
       "type": "kpi_basis",
       "scope": "weighted_avg_debt_maturity",
       "note": "3.0 years as at 31 Dec 2025 (Key Metrics p33); extended to approx 4.1 years post-refinancing completed Feb 2026."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "cash distributed during FY (period-mixed): includes 2.38 cents for 1 Nov-31 Dec 2024 (S$15,526k) plus 7.65 cents for 1 Jan-30 Jun 2025 (S$49,910k) = S$65,436k; Distribution Statement p147"
     }
   ],
   "source_page": 32,

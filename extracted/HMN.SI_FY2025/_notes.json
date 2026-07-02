@@ -84,9 +84,9 @@
     {
       "table": "properties",
       "field": "market_valuation",
-      "scope": "5 BT Group freehold PPE hotels (Pullman/Mercure Brisbane, Pullman/Mercure Melbourne, Pullman Sydney Hyde Park, Sydney Central Hotel, Temple Bar Dublin)",
+      "scope": "4 remaining BT Group freehold PPE hotels (Pullman/Mercure Brisbane, Pullman/Mercure Melbourne, Pullman Sydney Hyde Park, Sydney Central Hotel)",
       "value": null,
-      "basis": "Portfolio Statement p143 discloses only the aggregate 550,748 $'000 for all 5 plus each property's % of Stapled Securityholders' funds (2.1/1.6/3.0/3.0/2.6%). Individual $'000 NOT disclosed; left null (structurally absent at Tier C). Aggregate noted in data_with_no_home.",
+      "basis": "Portfolio Statement p143 discloses only the aggregate 550,748 $'000 for all 5 (was 5, now 4 after Temple Bar Dublin recovery) plus each property's % of Stapled Securityholders' funds (2.1/1.6/3.0/3.0/2.6%). Individual $'000 NOT disclosed for these 4; left null (structurally absent at Tier C). Aggregate noted in data_with_no_home. RECOVERY 2026-07-02: Temple Bar Hotel Dublin's individual carrying value (117,351 $'000, SGD, as at 31 Dec 2025) WAS found — disclosed in PPE Note (p178) as the pledged-asset amount securing a bank facility (Note 16): 'Temple Bar Hotel Dublin by The Unlimited Collection, with a carrying value of $117,351,000 (2024: $112,252,000), is pledged as security to the bank.' This is a fair-value carrying amount (land & buildings revalued to fair value per p177-178) so it was filled into properties.json market_valuation. The other 4 BT hotels are not individually pledged/disclosed anywhere else checked (Portfolio Statement p143, Portfolio Listing p54-59 historical cost only, PPE note pp.170-178) — genuinely null.",
       "source_page": 143
     },
     {
@@ -99,6 +99,12 @@
     }
   ],
   "columns_never_fillable": [
+    {
+      "field": "properties.lease_term_years",
+      "scope": "79 Freehold-tagged properties (across Australia, Belgium, France, Germany, Japan) + Somerset Olympic Tower Tianjin (divested, China)",
+      "reason": "Second-pass verification (2026-07-02): checked Portfolio Statement pp.127-143 in full — every property tagged land_tenure=Freehold there is explicitly stated 'Freehold, Not applicable, Not applicable' in the Tenure of Land / Term of Lease / Remaining Term of Lease columns; no leasehold term is being missed. All 24 genuinely Leasehold properties already carry lease_term_years from the prior pass. Somerset Olympic Tower Tianjin was divested 15 Apr 2025 (p10, p7820) and does not appear in the year-end (31 Dec 2025) Portfolio Statement, so no FY2025 tenure/term-of-lease row exists for it; narrative text (p2264) confirms it was one of CLAS' 'leasehold serviced residences' in China but gives no specific term/years-remaining figure, so lease_term_years and land_tenure are left null (not upgraded to 'Leasehold' without a citable term).",
+      "pages_checked": "127-143 (Portfolio Statement), 10, 2264, 7820"
+    },
     {
       "field": "properties.gla",
       "reason": "Hospitality sub-sector: area metric for serviced residences and hotels is units/keys, not GLA/NLA. This is a structural absence for the entire property portfolio — not a data gap."
@@ -126,6 +132,11 @@
     {
       "field": "performance.number_of_properties",
       "reason": "Report does not state a single total property count in audited financials. Portfolio Listing (historical cost, p54-59) shows ~120+ entries but includes rental housing units that may be counted individually. Stapled Group uses 'approximately 103 properties' as a marketing figure."
+    },
+    {
+      "field": "performance.wale",
+      "reason": "No portfolio-wide WALE is disclosed. p1415 states CLAS obtained an MAS waiver from Property Funds Appendix paras 11.1(c)(iv)-(v) specifically exempting it from disclosing lease maturity profile / weighted average lease expiry for properties under management contracts (28 of 103 properties). Only two partial, non-equivalent figures exist: (1) p1391 'The weighted average remaining tenure (by valuation) of CLAS' 28 master leases is approximately 11 years' — scoped to master-lease properties only, not the full portfolio; (2) p1397 'The weighted average remaining term of CLAS' MCMGI is around 14 years' — scoped to the 12 MCMGI properties only. Neither is a portfolio WALE and mixing them would misrepresent a figure the report deliberately does not disclose (per the MAS waiver). Left null; second-pass re-verification 2026-07-02.",
+      "pages_checked": "1391, 1397, 1415-1419 (source line numbers in full.md; report pages ~25-26)"
     }
   ],
   "data_with_no_home": [
@@ -246,9 +257,90 @@
     "portfolio_value in performance.json (7,900,000,000) is the disclosed headline Stapled Group portfolio valuation ('S$7.9 billion', p21), per REFERENCE.md §1 convention (portfolio_value = the report's headline figure). The audited Tier-C property totals (7,637,513 $'000 excl. / 7,975,463 $'000 incl. Robertson House leasehold PPE) are recorded as cross-references in reconciliation.portfolio_value_note.",
     "Somerset Liang Court Property Singapore is classified as active despite being under development; it holds a year-end audited valuation of 315,400 $'000.",
     "The Robertson House Singapore: Despite being a BT Group PPE asset (leasehold land and buildings), it has an audited $'000 value (337,950 $'000) and is included in properties.json with tenure_raw noting the PPE classification.",
-    "5 BT PPE freehold properties (Pullman Brisbane/Melbourne/Sydney, Sydney Central, Temple Bar Dublin): market_valuation set to null because only % of Stapled Securityholders' funds is disclosed at property level. The aggregate 550,748 $'000 is noted in data_with_no_home.",
+    "5 BT PPE freehold properties (Pullman Brisbane/Melbourne/Sydney, Sydney Central, Temple Bar Dublin): market_valuation set to null because only % of Stapled Securityholders' funds is disclosed at property level in the Portfolio Statement. The aggregate 550,748 $'000 is noted in data_with_no_home. RECOVERY 2026-07-02: Temple Bar Hotel Dublin's individual value (117,351 $'000) was recovered from a separate PPE pledged-asset disclosure (p178) and filled; the other 4 remain null.",
     "Properties in properties.json: 103 active + 2 divested = 105 total records. This represents full Tier C coverage of audited Portfolio Statement pages 127-143."
   ],
+  "null_recovery_round7_2026_07_03": {
+    "scope": "property_transactions.json only (Japan hotel/rental-housing deals)",
+    "fills": [
+      {
+        "field": "txn.valuation",
+        "deal": "ibis Styles Tokyo Ginza (acquisition)",
+        "value": 136000000,
+        "currency": "SGD",
+        "source_page": 56,
+        "quote": "Portfolio Listing table, 'Agreed Property Value at Acquisition (S$'million)' row 'ibis Styles Tokyo Ginza' = 136.0"
+      },
+      {
+        "field": "txn.valuation",
+        "deal": "Chisun Budget Kanazawa Ekimae (acquisition)",
+        "value": 42500000,
+        "currency": "SGD",
+        "source_page": 56,
+        "quote": "Portfolio Listing table, 'Agreed Property Value at Acquisition (S$'million)' row 'Chisun Budget Kanazawa Ekimae' = 42.5"
+      },
+      {
+        "field": "txn.valuation",
+        "deal": "Pre de Cort Nishikyogoku (acquisition)",
+        "value": 13700000,
+        "currency": "SGD",
+        "source_page": 57,
+        "quote": "Portfolio Listing table, 'Agreed Property Value at Acquisition (S$'million)' row 'Pre de Cort Nishikyogoku' = 13.7"
+      },
+      {
+        "field": "txn.valuation",
+        "deal": "Splendide Namba West (acquisition)",
+        "value": 10600000,
+        "currency": "SGD",
+        "source_page": 57,
+        "quote": "Portfolio Listing table, 'Agreed Property Value at Acquisition (S$'million)' row 'Splendide Namba West' = 10.6"
+      },
+      {
+        "field": "txn.valuation",
+        "deal": "Pregio Esaka South (acquisition)",
+        "value": 9900000,
+        "currency": "SGD",
+        "source_page": 57,
+        "quote": "Portfolio Listing table, 'Agreed Property Value at Acquisition (S$'million)' row 'Pregio Esaka South' = 9.9"
+      },
+      {
+        "field": "txn.valuation",
+        "deal": "Citadines Central Shinjuku Tokyo (divestment)",
+        "value": 108647000,
+        "currency": "SGD",
+        "source_page": 132,
+        "quote": "Portfolio Statement 'At Valuation' Stapled Group 2024 column, Citadines Central Shinjuku Tokyo = 108,647; footnote (3): 'The sale price of JPY25.0 billion was agreed on a willing buyer willing seller basis, and represented 100% above the property valuation as at 31 December 2024. The valuation was based on the income approach ... and the cost approach.'"
+      }
+    ],
+    "confirmed_absent": [
+      {
+        "field": "txn.consideration (purchase_price)",
+        "deal": "Chisun Budget Kanazawa Ekimae (acquisition)",
+        "reason": "p11 'Investments Completed in FY 2025' table shows a single BLENDED JPY21.0bn (S$178.5m) price spanning rows 1-2 (ibis Styles Tokyo Ginza + this property); this property's own Purchase Price/NOI Yield/Acquisition Date cells are blank on p11. No per-property split found in Portfolio Statement (p132, valuation only) or Portfolio Listing (p56, agreed value at acquisition, not purchase price). Genuinely not separately disclosed.",
+        "pages_checked": "11, 132, 56"
+      },
+      {
+        "field": "txn.consideration (purchase_price)",
+        "deal": "Splendide Namba West (acquisition)",
+        "reason": "p11 table gives only a BLENDED JPY4.0bn (S$34.2m) price spanning the three rental-housing acquisitions (Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South); this property's row on p11 is blank. No per-property split found elsewhere.",
+        "pages_checked": "11, 135, 136, 57"
+      },
+      {
+        "field": "txn.consideration (purchase_price)",
+        "deal": "Pregio Esaka South (acquisition)",
+        "reason": "Same blended-price situation as Splendide Namba West; row blank on p11, no per-property split found.",
+        "pages_checked": "11, 135, 57"
+      },
+      {
+        "field": "txn.carrying_value / txn.gross_sale_price",
+        "deal": "all 5 Japan acquisition rows (ibis Styles Tokyo Ginza, Chisun Budget Kanazawa Ekimae, Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South)",
+        "reason": "By-design null per spec invariant 6: carrying_value and gross_sale_price are divestment concepts and do not apply to acquisition rows. Confirmed, not filled.",
+        "pages_checked": "n/a — schema design"
+      }
+    ],
+    "flags": [],
+    "pages_opened": [10, 11, 56, 57, 58, 132, 135, 136, 196, 197, 217]
+  },
   "data_provenance": [
     {
       "table": "financial",

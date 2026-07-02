@@ -808,7 +808,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 600000,
     "npi_pct": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
@@ -834,7 +834,8 @@
     "purchase_price": 839000000.0,
     "purchase_price_currency": "JPY",
     "purchase_price_note": "Property overview card 'Purchase Price': JPY 839 million (p28)",
-    "purchase_price_source_page": 28
+    "purchase_price_source_page": 28,
+    "_recovery_note": "gross_revenue from Property Overview card 'FY2025 Rental Income': S$0.6 million (p28); recovered 2026-07-02"
   },
   {
     "symbol": "AW9U.SI",
@@ -849,7 +850,7 @@
     "valuation_date": "2025-12-31",
     "currency": "SGD",
     "net_property_income": null,
-    "gross_revenue": null,
+    "gross_revenue": 400000,
     "npi_pct": null,
     "occupancy_rate": 100.0,
     "trade_mix": null,
@@ -875,7 +876,8 @@
     "purchase_price": 641000000.0,
     "purchase_price_currency": "JPY",
     "purchase_price_note": "Property overview card 'Purchase Price': JPY 641 million (p28)",
-    "purchase_price_source_page": 28
+    "purchase_price_source_page": 28,
+    "_recovery_note": "gross_revenue from Property Overview card 'FY2025 Rental Income': S$0.4 million (p28); recovered 2026-07-02"
   },
   {
     "symbol": "AW9U.SI",
@@ -1396,12 +1398,14 @@
     "lease_expiry_date": null,
     "tenure_raw": "HGB; 1+1 year lease, nil remaining — disposed December 2025",
     "status": "divested",
-    "divestment_price": null,
+    "divestment_price": 25908000,
+    "divestment_price_currency": "SGD",
+    "divestment_price_source_page": 200,
     "flags": [
       {
         "type": "divested_partial_data",
         "scope": "property",
-        "note": "Imperial Aryaduta Hotel & Country Club divested December 2025; carrying value nil in Portfolio Statement (FY2024: S$27,723,000). Loss on disposal of subsidiary S$7,535,000 recognised. Sale proceeds net of cash S$22,440,000 (cash flow); divestment_price not separately disclosed."
+        "note": "Imperial Aryaduta Hotel & Country Club divested 4 December 2025; carrying value shown as '-' (nil) in Portfolio Statement p140 (FY2024: S$27,723,000). Gross sales consideration for the divestment S$25,908,000 (Interested Person Transactions table, p200); net-of-tax proceeds / net cash flow on disposal S$22,440,000 (Note 30, p197). Loss on disposal of subsidiary S$7,535,000 recognised (incl. S$5,193,000 FX reserve realisation)."
       }
     ],
     "source_page": 140,

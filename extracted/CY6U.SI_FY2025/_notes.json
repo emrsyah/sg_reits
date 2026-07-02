@@ -67,6 +67,12 @@
     "property_count": 18,
     "note": "Portfolio Statement sum of 18 property rows + the held-for-sale/other-assets reconciling lines = S$3,786.072m investment-property total. Per-property revenue/NPI percentages each sum to 100% across the 16-line financial-review tables (which include divested CyberVale/CyberPearl + Pollax)."
   },
+  "reverification_2026_07_02": [
+    {
+      "columns": "properties.purchase_price (CyberVale, CyberPearl, CapitaLand DC ITPB, CapitaLand DC ITPH), performance.wale, performance.weighted_avg_debt_maturity, property_transaction.counterparty (CyberPearl/CyberVale divestment)",
+      "result": "RE-CONFIRMED absent (round-2 spec re-check). DC ITPH card explicitly shows 'Purchase price | –' (p49, full.md ~L2909); DC ITPB card shows 'Purchase price | –' (p50, ~L2952). CyberVale/CyberPearl have no property cards post-divestment and no acquisition-cost figure anywhere in the report (only combined divestment consideration INR 11.0b / S$161.7m, Note 25a p146). No single WALE or weighted-avg-debt-maturity number found anywhere (only a lease-expiry-by-revenue table p40 and a Debt Maturity Profile bar CHART p31/L2058-2075, no extractable years figure). Counterparty for the CyberPearl/CyberVale divestment is not named anywhere in the AR (Note 25a, p146-147) — only the second, later DC-stake divestment names its counterparty (CIDCF). All left null; no changes made."
+    }
+  ],
   "data_provenance": [
     {
       "table": "financial",
@@ -168,5 +174,66 @@
       "basis": "Sum of purchase of plant & equipment (-4,455) + additions to IPUC/IP (-188,130); cash flow statement p107.",
       "source_page": 107
     }
-  ]
+  ],
+  "null_recovery_round8_2026_07_03": {
+    "layer": "PROOFREAD (as-reported, no conversion, no derivation)",
+    "pages_opened": [15, 28, 29, 34, 35, 146, 147],
+    "worklist_outcome": "No FILLS and no CORRECTIONS. All three target nulls confirmed genuinely absent (hardened). The report discloses only a premium-to-independent-valuation for both deals and never prints the valuation figure itself; deriving it (e.g. 161.7/1.03 or 99.7/1.137) is prohibited by the no-derive invariant.",
+    "hardened_absent": [
+      {
+        "table": "property_transactions",
+        "column": "valuation",
+        "key": "CyberPearl, Hyderabad and CyberVale, Chennai (divestment)",
+        "decision": "left null (confirmed absent)",
+        "reason": "No independent valuation figure is printed for the deal. Capital Recycling (p34) states the sale 'was executed at a 3% premium to their independent valuations' — a premium is disclosed, the valuation amount is not, and deriving it is prohibited. The Valuation of Properties table (p28) shows CyberVale and CyberPearl FY2025 valuation as '-' (footnote 3: 'Divested on 29 September 2025'). Note 25a (p146) prints only carrying amounts (IP 138,890), net assets of disposal group (155,841), gain (4,081) and net sales consideration (159,922) — no appraised valuation.",
+        "pages_read": [28, 34, 146, 147]
+      },
+      {
+        "table": "property_transactions",
+        "column": "valuation",
+        "key": "20.2% stake in three data centre developments (DC Chennai, DC ITPH, DC Navi Mumbai) (divestment)",
+        "decision": "left null (confirmed absent)",
+        "reason": "No independent valuation figure printed. Note 25b (p147): 'The investment properties and investment properties under construction are valued based on the agreed property value with the buyer' (an agreed-with-buyer value, not an independent appraisal). Capital Recycling (p34): 'The partial divestment was executed at a 13.7% premium to their independent valuation' — premium disclosed, valuation amount not; deriving prohibited. The p28 table gives 100% property valuations in INR million (DC Chennai 7,464; DC ITPH 12,310; DC Navi Mumbai 32,198) but those are FY2025 year-end 100% valuations, not the 20.2%-stake deal valuation, and summing/pro-rating would be a prohibited derivation.",
+        "pages_read": [28, 34, 147]
+      },
+      {
+        "table": "property_transactions",
+        "column": "carrying_value",
+        "key": "20.2% stake in three data centre developments (DC Chennai, DC ITPH, DC Navi Mumbai) (divestment)",
+        "decision": "left null (confirmed absent)",
+        "reason": "No carrying value for the 20.2% divested stake is printed. Note 25b (p147) prints only the FULL (100%) disposal-group at fair value: Investment properties under construction 649,592 + Investment properties 88,930 = 738,522; net assets of disposal group 463,350. The deal is a 20.2% stake (consideration S$99.7m) completed 27 Feb 2026 (next FY) — no gain, and thus no carrying-value basis, is recognised in FY2025. Pro-rating 20.2% x the 100% figure is a prohibited derivation, and recording the 100% figure against a 20.2% consideration would be a conflation. Per no-derive invariant: only the sale price is printed, so it is kept and carrying/valuation left null.",
+        "pages_read": [147]
+      }
+    ],
+    "confirmed_correct_nonchanged": [
+      {
+        "table": "property_transactions",
+        "key": "CyberPearl, Hyderabad and CyberVale, Chennai",
+        "note": "consideration/gross S$161.7m = 'enterprise value of INR 11,031 million (approximately S$161.7 million)' (p34); net_proceeds S$159.922m = 'Net sales consideration after divestment expenses' (Note 25a p146); gain S$4.081m and carrying_value S$138.890m ('Investment properties under construction and investment properties (Notes 18 and 19)' at 29 Sep 2025, p146) all verified as printed. gain is struck against net assets of disposal group (155,841), not IP carrying value — already documented; not an identity defect."
+      },
+      {
+        "table": "property_transactions",
+        "key": "20.2% stake in three data centre developments",
+        "note": "consideration/gross S$99.7m = 'valued at approximately INR 7,021 million (S$99.7 million)' (p34) / 'total consideration of INR 7.0 B (~S$99.7 M)' (Significant Events p15). Verified as printed."
+      }
+    ],
+    "flags": [
+      {
+        "type": "net_ge_gross_as_printed",
+        "table": "properties",
+        "key": "CyberVale",
+        "detail": "net_property_income (INR 416m, p26) EXCEEDS gross_revenue (INR 373m, p25). Confirmed AS-REPORTED in the source financial-review tables — a genuine reported quirk for a divested asset (partial-year figures with expense reversals), NOT a conflation defect. Left unchanged."
+      },
+      {
+        "type": "stale_note_unit_label",
+        "table": "properties",
+        "detail": "gross_revenue / net_property_income are stored in FULL INR units (e.g. ITPB gross_revenue 6,318,000,000 = INR 6,318m) with currency tag INR, which is correct. But several _recovery_note strings label them 'INR million (unscaled)' and parsing_traps says \"INR '000 (x1,000,000 from INR million)\" — those labels are internally inconsistent with the stored full-unit magnitude. Values look right; the note wording is stale. Flag for main agent, not changed."
+      },
+      {
+        "type": "systemic_purchase_price_sgd (DO-NOT-TOUCH item a)",
+        "table": "properties",
+        "detail": "purchase_price stored in SGD for all Indian properties. Here it is source-printed (property cards print both 'INR x,xxx m (S$yyy.y m)') and purchase_price_local (INR) + currency tags are preserved, so it is source-faithful rather than a silent conversion. Noted per spec; not changed."
+      }
+    ]
+  }
 }

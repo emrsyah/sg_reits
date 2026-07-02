@@ -1,6 +1,7 @@
 [
   {"symbol": "MXNU.SI", "financial_year": 2025, "type": "acquisition",
    "description": "Three freehold/virtual-freehold government-leased properties acquired from Elite Phoenix Limited via Elite Dram Limited",
+   "property_name": "Custom House, Felixstowe; Merlin House, Carmarthen; Priory Court, Dover",
    "counterparty": "Elite Phoenix Limited (related corporation of the Manager)",
    "price": 9200000, "currency": "GBP", "purchase_price": 9200000,
    "cost_recognised": 9644000, "valuation": 10700000, "date": "2025-06-01",

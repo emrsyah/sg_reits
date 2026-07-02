@@ -15,7 +15,12 @@
     },
     {
       "column": "properties.lease_expiry_date",
-      "reason": "Portfolio Statement gives 'remaining term of lease' (years) not an expiry date; not computed to avoid a fabricated date. effective_date + lease_term_years captured where disclosed."
+      "reason": "UPDATED 2026-07-02: for the 8 leasehold properties, Portfolio Statement (p56) discloses BOTH effective_date (lease commencement) AND lease_term_years explicitly (e.g. 'Leasehold estate of 60 years (from 1 December 1997)'), so lease_expiry_date = effective_date + lease_term_years is derived from two disclosed source facts (not fabricated); cross-checked against the disclosed 'X years remaining' as at 31 Dec 2025 for consistency where available. The 6 Freehold UK/AU properties (Dwell MSV, MSV South, Grafton, Princess Street, Archer House, East End Adelaide) have no lease and remain null. Source p56."
+    },
+    {
+      "column": "property_transactions.counterparty (EPIISOD Macquarie Park acquisition)",
+      "reason": "Subsequent-event acquisition (completed 13 Jan 2026, A$345.0m). Report refers only to 'the Purchaser', 'EPIISOD Macquarie Park Master Tenant', and CPPL/Sponsor as guarantors of the master lease -- no named vendor/seller entity is disclosed anywhere in the FY2025 AR (checked pp1,14,16,27-30,64,74, Subsequent Events note). Left null.",
+      "pages_checked": [1, 14, 16, 27, 28, 29, 30, 64, 74]
     },
     {
       "column": "performance.portfolio_occupancy",
@@ -113,6 +118,63 @@
       "source_page": 27
     }
   ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "IPO Portfolio (14 assets: 5 PBWA SG + 8 PBSA UK + 1 PBSA AU)",
+      "status": "confirmed_absent",
+      "reason": "No single aggregate deal-level independent valuation figure is printed for the IPO Portfolio as a transaction. The AR only discloses (a) the acquisition value/consideration S$1,862,609k (Note 19a, p65, already captured as txn.price) and (b) PER-PROPERTY 'Valuation as at 31 December 2025' in the marketing table (p14-15, local ccy) and Portfolio Statement carrying amounts (p56, S$'000) -- both are FY-END valuations, not a valuation AT LISTING/acquisition, and are per-asset not an aggregate deal figure. Summing the per-property figures across 3 currencies (SGD/GBP/AUD) to produce a single txn-level number would require an FX conversion not printed for this purpose -- prohibited by invariant 4/3. Checked pp14-15 (marketing property tables), p27 (Financial Review valuation summary, S$1.88bn = FY-end not at-listing), p56 (Portfolio Statement), p65-66 (Note 19 Investment Properties movement/Level-3 recon). No listing-date/acquisition-date independent valuation distinct from purchase price is disclosed anywhere in the FY2025 AR.",
+      "pages_checked": [14, 15, 27, 56, 65, 66]
+    },
+    {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "EPIISOD Macquarie Park (Sydney, PBSA, 732 beds)",
+      "status": "confirmed_absent",
+      "reason": "Subsequent-event acquisition (completed 13 Jan 2026, post FY2025 year-end). Note 32 'Events Occurring After Reporting Date' (p74) states only the purchase consideration ('completed the acquisition ... for A$345.0 million ... fully financed through committed debt facilities') -- no independent valuation figure is disclosed for this deal in the FY2025 AR (it falls outside the FY2025 audited portfolio/valuation exercise). Quote: 'On 13 January 2026, the Group completed the acquisition of the 732-bed EPIISOD Macquarie Park, a PBSA asset located in Australia, for A$345.0 million.' (p74). Also checked pp1, 16, 27-30 (no valuation mentioned outside the purchase price).",
+      "pages_checked": [1, 16, 27, 28, 29, 30, 74]
+    },
+    {
+      "table": "properties",
+      "field": "nla",
+      "key": "all 14 active properties",
+      "status": "confirmed_absent",
+      "reason": "RE-CONFIRMED (already noted under columns_never_fillable). Both the marketing 'Property Information as at 31 December 2025' tables (p14 SG, p15 UK/AU) and the audited Portfolio Statement (p56) disclose only 'No. of Beds' and 'Land Area (sq m)' per property -- no net/gross lettable area column exists anywhere in the report. Accommodation (PBWA/PBSA) assets are sized by bed count, not NLA -- genuine structural absence, not a miss. Quote (p14 header row): 'No. of Beds | Land Area (sq m) | Valuation as at 31 December 2025 (\\'000) | Purchase Price (\\'000) | Gross Rental Income for FP 2025 (\\'000) | Average Occupancy Rate FP 2025' -- no NLA column.",
+      "pages_checked": [14, 15, 56]
+    }
+  ],
+  "null_recovery_round8_2026_07_03": {
+    "scope": "Re-verification of the two property_transactions.valuation nulls (worklist wave 8) + full correctness/currency sweep of property_transactions.json and properties.json. Pages actually opened this round (verbatim in full.md): 14, 15, 17, 27, 54, 56, 65, 66, 74, 75. Result: NO fills applied, NO corrections applied. Both txn valuations re-confirmed genuinely absent as at-acquisition figures; no conflation defect found. Corroborates null_recovery_round7.",
+    "fills": [],
+    "corrections": [],
+    "confirmed_absent": [
+      {
+        "table": "property_transactions",
+        "field": "valuation",
+        "key": "IPO Portfolio (14 assets: 5 PBWA SG + 8 PBSA UK + 1 PBSA AU)",
+        "status": "confirmed_absent_left_null",
+        "reason": "No at-acquisition (Listing Date 25 Sep 2025) independent portfolio valuation is printed distinct from the agreed price. The AR discloses only (a) the agreed acquisition value/consideration S$1,862,609k = txn.price [p54 Consolidated Statement of Cash Flows (B): 'Agreed purchase consideration for investment properties | Acquisition of the properties | 1,862,609'; p65 Note 19a: 'Acquisition value of the IPO Portfolio | 1,862,609'], and (b) a YEAR-END (31 Dec 2025) aggregate independent valuation = carrying amount S$1,884,420k [p56 Portfolio Statement 'Total | 1,884,420'; p65 Note 19a 'End of financial period | 1,884,420']. (b) is a different concept/date -- post-acquisition fair value including net fair value change (11,383) and currency translation differences (763) over the 25 Sep-31 Dec period -- NOT a deal-date appraisal, and per worklist does not qualify as valuation-at-acquisition. Deriving a deal-date number by de-composing (b) would violate invariant 3. Left null; year-end alternative recorded under flags.",
+        "pages_opened": [54, 65, 56, 27, 14, 15]
+      },
+      {
+        "table": "property_transactions",
+        "field": "valuation",
+        "key": "EPIISOD Macquarie Park (Sydney, PBSA, 732 beds)",
+        "status": "confirmed_absent_left_null",
+        "reason": "Subsequent-event acquisition (completed 13 Jan 2026, after FY2025 year-end). The AR states ONLY the acquisition cost/consideration A$345.0m, never an independent valuation, and explicitly excludes EPIISOD from the FY2025 valuation exercise. Quotes: p74 Note 32 'On 13 January 2026, the Group completed the acquisition of the 732-bed EPIISOD Macquarie Park, a PBSA asset located in Australia, for A$345.0 million.'; p17 'The acquisition cost of A$345.0 million is financed 100% by the available committed loan facilities'; p17 fn1 'Valuation as at 31 December 2025 excludes EPIISOD Macquarie Park (732 beds)'; p27 'In January 2026, CAREIT completed the acquisition of the 732-bed EPIISOD Macquarie Park ... for A$345.0 million.' No valuation figure disclosed anywhere. Left null.",
+        "pages_opened": [17, 74, 27, 15]
+      }
+    ],
+    "correctness_sweep": {
+      "property_transactions": "2 rows, both acquisitions (IPO Portfolio SGD; EPIISOD AUD). No divestments -> zero net>=gross exposure. valuation/carrying_value/gross_sale_price/net_sale_proceeds all null -> no valuation==carrying_value or gross==valuation copy-conflation possible. price currency tags correct: IPO=SGD matches 'S$1,862,609' (p65); EPIISOD=AUD matches 'A$345.0 million' (p74). No defect; no correction.",
+      "properties": "14 rows. market_valuation != purchase_price on EVERY row (e.g. Toh Guan 459,000 vs 448,150; Mandai 544,000 vs 500,000; Woodlands 182,000 vs 183,100; Juniper 103,000 vs 109,000; Ubi 110,000 vs 108,000) -> no copy-conflation. SG rows: both figures SGD (p14 marketing table + p56 Portfolio Statement). UK/AU rows: purchase_price stored in LOCAL ccy (GBP/AUD, p15 marketing table at IPO-Prospectus FX) with correct purchase_price_currency; market_valuation stored in SGD (audited Portfolio Statement p56 carrying amount) with currency=SGD -- each figure individually source-faithful and correctly tagged. This report does NOT exhibit invariant-7a (purchase_price is local, not converted-to-SGD). No RMB/CNY present (invariant-7b n/a). No defect; no correction."
+    },
+    "flags": [
+      "IPO Portfolio txn.valuation ALTERNATIVE (main-agent decision, not applied): if the schema prefers the reporting-date rather than deal-date appraisal, the aggregate YEAR-END independent valuation S$1,884,420k [p56 Portfolio Statement 'Total | 1,884,420'; p65 Note 19a 'End of financial period | 1,884,420'; p56 'The carrying amounts of the investment properties were based on independent valuations as at 31 December 2025'] IS printed, IS independent (Knight Frank Pte Ltd / Knight Frank LLP / Savills Valuations Pty Ltd), and IS distinct from price 1,862,609. Left null because worklist asks specifically for valuation-AT-ACQUISITION (25 Sep 2025), which the AR does not print. Flagging so main agent may populate valuation=1884420000 (SGD) if the reporting-date interpretation is wanted.",
+      "SYSTEMIC currency-basis inconsistency within foreign property rows (not corrected): for the 8 UK + 1 AU rows, market_valuation is in SGD (portfolio-statement carrying amount, p56) while purchase_price is in local GBP/AUD (p15). A downstream (market_valuation - purchase_price) gain calc is therefore apples-to-oranges. The local-ccy valuations (p15: e.g. GBP 106,490k Dwell MSV; A$63,250k Dwell East End Adelaide) are captured only in prose inside each row's flag; schema columns original_currency/original_value (intended audit trail for market_valuation in local ccy) are unpopulated. Not a fill/correction target this wave; flagged for consistency review."
+    ]
+  },
   "inferred": [
     {
       "table": "trade_mix",
@@ -140,10 +202,10 @@
     },
     {
       "table": "properties",
-      "field": "effective_date / lease_term_years",
+      "field": "effective_date / lease_term_years / lease_expiry_date",
       "scope": "leasehold rows",
-      "value": "from tenure_raw",
-      "basis": "Parsed from Portfolio Statement 'Term of lease' wording (e.g. '60 years from 1 December 1997').",
+      "value": "from tenure_raw; lease_expiry_date derived = effective_date + lease_term_years",
+      "basis": "Parsed from Portfolio Statement 'Term of lease' wording (e.g. '60 years from 1 December 1997'). lease_expiry_date computed from the two disclosed components (not a fabricated date), cross-checked against disclosed remaining-term where stated.",
       "source_page": 56
     },
     {

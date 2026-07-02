@@ -41,6 +41,14 @@
       "value": "disclosed_after_retention",
       "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
       "source_page": 20
+    },
+    {
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "Logis Hub @ Clementi",
+      "value": 24600000,
+      "basis": "Null-recovery 2026-07-02: Portfolio Statement (p121) shows '-' for the 2025 carrying amount because the property was de-commissioned/reclassified to Investment Property Under Development (footnote viii). Recovered instead from Note 5 'Investment Properties Under Development' (p157) IPUD carrying amount table: 'Logis Hub @ Clementi | 2 Clementi Loop, Singapore | 24,600' ('000 SGD). Note text states IPUD fair-value assessment basis is disclosed in Note 29(c), i.e. this is a fair-value carrying amount, consistent in nature with market_valuation for active portfolio-statement rows, though sourced from a different note due to the mid-year reclassification.",
+      "source_page": 157
     }
   ],
   "columns_never_fillable": [
@@ -51,6 +59,53 @@
     {
       "column": "property.npi_pct",
       "reason": "Not disclosed per property; portfolio statement gives '% of net assets attributable to unitholders' (a valuation share, not an NPI share)."
+    },
+    {
+      "column": "property.ownership",
+      "reason": "No per-property ownership/interest % column exists in the Investment Properties Portfolio Statement (columns: Description, Acquisition date, Tenure, Term of lease, Lease expiry, Remaining term, Location, Carrying amount, % of net assets). All 228 listed properties are consolidated (wholly-owned or majority-controlled subsidiaries); ownership % is simply not tabulated for them. Contrast: equity-accounted JV '1, 1A and 1B Science Park Drive (34% stake)' IS narratively disclosed with an interest %, but that JV property is correctly EXCLUDED from properties.json entirely (not consolidated, no carrying-amount row in the Portfolio Statement) — confirming ownership % is only surfaced in prose for JVs, never tabulated for the 228 portfolio-statement rows. Left null for all 232 rows; not an assumption of 100%.",
+      "pages_checked": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        1464,
+        1636
+      ]
+    },
+    {
+      "column": "properties[Logis Hub @ Clementi].occupancy_rate/nla/gfa",
+      "reason": "Logis Hub @ Clementi (2 Clementi Loop, Singapore) was de-commissioned for redevelopment in Nov 2025 and reclassified from investment property to investment property UNDER DEVELOPMENT (Note 5, p.157) as at 31 Dec 2025 — carrying amount $24.6m under IPUD, no operating NLA/GFA/occupancy disclosed anywhere (portfolio statement footnote (viii), p.121, shows only carrying-amount dashes). Genuinely not disclosed, not an extraction miss.",
+      "pages_checked": [
+        121,
+        157
+      ]
+    },
+    {
+      "column": "properties[status=divested].occupancy_rate/nla/gfa (9 rows: 30 Tampines Industrial Avenue 3, 31 Ubi Road 1, 10 Toh Guan Road, 9 Changi South Street 3, 19 & 21 Pandan Avenue, 95 Gilmore Road, Astmoor Road, Parkside, 8700-8770 Nimbus)",
+      "reason": "All 9 were divested during FY2025 (16 Oct-17 Dec 2025 for the SG properties; footnote (ii)-(iv) etc., p.120-121, 123-127) and are explicitly EXCLUDED from the operating/occupancy commentary per the report's own footnote ('Excludes ... which were divested on ...', p.120 marker 2000). No post-divestment occupancy/NLA/GFA is disclosed for FY2025 for these properties — genuinely not reported, not an extraction gap.",
+      "pages_checked": [
+        120,
+        121,
+        123,
+        124,
+        127
+      ]
+    },
+    {
+      "column": "properties[status=divested].market_valuation (same 9 rows: 30 Tampines Industrial Avenue 3, 31 Ubi Road 1, 10 Toh Guan Road, 9 Changi South Street 3, 19 & 21 Pandan Avenue, 95 Gilmore Road, Astmoor Road, Parkside, 8700-8770 Nimbus)",
+      "reason": "Null-recovery 2026-07-02 confirmed genuinely absent: the Portfolio Statement's 2025 carrying-amount column shows '-' for each (the row is derecognised on divestment; the 2024 comparative column carries the pre-divestment figure, already captured elsewhere as carrying_value in property_transactions.json). No FY2025-dated market/appraised valuation is disclosed for a property no longer held at year end. Distinguish from Logis Hub @ Clementi (also '-' in the Portfolio Statement, but NOT divested — reclassified to IPUD, whose carrying amount WAS recoverable from Note 5, p.157, and has been filled).",
+      "pages_checked": [
+        120,
+        121,
+        123,
+        124,
+        127
+      ]
     }
   ],
   "data_with_no_home": [
@@ -106,5 +161,87 @@
     "sum_property_gross_revenue": 1494500000,
     "sum_property_npi": null,
     "note": "Per-property gross revenue, GFA, NLA and occupancy ARE disclosed in the per-property review cards (markers 47-73) and captured (gross_revenue 220/223, gfa/nla/occupancy 222/223). Per-property NPI is NOT disclosed (segment-level only). Sum of per-property gross_revenue 1,494,500,000 vs audited gross revenue 1,538,574,000 (~97.1%): gap = 3 end-FY2025 acquisitions with no card revenue + card scope (gross rental + car park + other) not fully tying to the audited total-return line."
+  },
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "column": "occupancy_rate",
+      "key": "Logis Hub @ Clementi (address: 2 Clementi Loop)",
+      "status": "confirmed_absent",
+      "reason": "Property decommissioned/under redevelopment (moved to Investment Properties Under Development per footnote viii, p157) — the Singapore Logistics Properties portfolio occupancy table on p55 prints '-' for both GFA/NLA and Occupancy Rate columns for '2 Clementi Loop', consistent with the asset being off the stabilised portfolio stat for FY2025. No numeric occupancy % is printed anywhere for this asset.",
+      "pages_read": [
+        55,
+        34,
+        121,
+        157
+      ],
+      "quote": "| - | - | 2 Clementi Loop | 2.9 | - |  (p55, Logistics Properties Singapore table)"
+    }
+  ],
+  "null_recovery_round8_2026_07_03": {
+    "scope": "CORRECTNESS sweep of all 15 A17U property_transactions (6 acquisitions, 9 divestments). No nulls in worklist; no fills required. Focus: 5 SGD divestments flagged for valuation==carrying_value conflation, plus broad money+currency conflation scan.",
+    "correctness_confirmed_equal": [
+      {
+        "table": "property_transactions",
+        "columns": "valuation == carrying_value",
+        "key": "30 Tampines Industrial Avenue 3 (divestment)",
+        "status": "confirmed_equal_as_printed",
+        "value": 22000000,
+        "reason": "Not a conflation defect. valuation (22.0) sourced from the 'Completed Divestments in FY 2025' table (p32, footnote 2 = independent valuation dated 30 Jun 2025 by Edmund Tie). carrying_value (22,000 in S$'000) sourced independently from the 31 Dec 2024 comparative column of the Investment Properties Portfolio Statement (p120). Two distinct disclosures print the same number.",
+        "pages_read": [32, 120],
+        "quote_valuation": "| 30 Tampines Industrial Avenue 3 | Singapore | 23.0 | 22.0 <sup>2</sup> | Tekscend Photomask Singapore Pte. Ltd. | 16 Oct 2025 | (p32)",
+        "quote_carrying": "| 30 Tampines Industrial Avenue 3 <sup>(ii)</sup> | 15 Nov 2005 | ... | – | 22,000 | – | 0.22 | (p120, 2024 column)"
+      },
+      {
+        "table": "property_transactions",
+        "columns": "valuation == carrying_value",
+        "key": "31 Ubi Road 1 (divestment)",
+        "status": "confirmed_equal_as_printed",
+        "value": 29500000,
+        "reason": "Not a conflation defect. valuation (29.5) from p32 divestment table (footnote 5, valuation dated 1 Jul 2025 by Edmund Tie). carrying_value (29,500 S$'000) from 31 Dec 2024 Portfolio Statement column (p120). Independent sources, same number.",
+        "pages_read": [32, 120],
+        "quote_valuation": "| 31 Ubi Road 1 |  | 30.0 | 29.5 <sup>5</sup> | Intertrust (Singapore) Ltd. in its capacity as trustee of 31 Ubi Sub-Trust |  | (p32)",
+        "quote_carrying": "| 31 Ubi Road 1 <sup>(iv)</sup> | 21 Feb 2006 | ... | – | 29,500 | – | 0.29 | (p120, 2024 column)"
+      },
+      {
+        "table": "property_transactions",
+        "columns": "valuation == carrying_value",
+        "key": "10 Toh Guan Road (divestment)",
+        "status": "confirmed_equal_as_printed",
+        "value": 79700000,
+        "reason": "Not a conflation defect. valuation (79.7) from p32 divestment table (footnote 5, dated 1 Jul 2025 by Edmund Tie). carrying_value (79,700 S$'000) from 31 Dec 2024 Portfolio Statement column (p120). Independent sources, same number.",
+        "pages_read": [32, 120],
+        "quote_valuation": "| 10 Toh Guan Road | Singapore | 84.5 | 79.7 <sup>5</sup> | Intertrust (Singapore) Ltd. in its capacity as trustee of 10 Toh Guan Sub-Trust | 17 Dec 2025 | (p32)",
+        "quote_carrying": "| 10 Toh Guan Road <sup>(iv)</sup> | 5 Mar 2004 | ... | – | 79,700 | – | 0.79 | (p120, 2024 column)"
+      },
+      {
+        "table": "property_transactions",
+        "columns": "valuation == carrying_value",
+        "key": "9 Changi South Street 3 (divestment)",
+        "status": "confirmed_equal_as_printed",
+        "value": 47500000,
+        "reason": "Not a conflation defect. valuation (47.5) from p32 divestment table (footnote 6, dated 1 Jul 2025 by Cushman & Wakefield). carrying_value (47,500 S$'000) from 31 Dec 2024 Portfolio Statement column (p121). Independent sources, same number.",
+        "pages_read": [32, 121],
+        "quote_valuation": "| 9 Changi South Street 3 |  | 51.5 | 47.5 <sup>6</sup> | Intertrust (Singapore) Ltd. in its capacity as trustee of 9 Changi Sub-Trust |  | (p32)",
+        "quote_carrying": "| 9 Changi South Street 3 <sup>(iv)</sup> | 28 Dec 2004 | ... | – | 47,500 | – | 0.48 | (p121, 2024 column)"
+      },
+      {
+        "table": "property_transactions",
+        "columns": "valuation == carrying_value",
+        "key": "19 & 21 Pandan Avenue (divestment)",
+        "status": "confirmed_equal_as_printed",
+        "value": 132600000,
+        "reason": "Not a conflation defect. valuation (132.6) from p32 divestment table (footnote 6, dated 1 Jul 2025 by Cushman & Wakefield). carrying_value (132,600 S$'000) from 31 Dec 2024 Portfolio Statement column (p121). Independent sources, same number.",
+        "pages_read": [32, 121],
+        "quote_valuation": "| 19 & 21 Pandan Avenue |  | 140.0 | 132.6 <sup>6</sup> | Intertrust (Singapore) Ltd. in its capacity as trustee of 19 & 21 Pandan Sub-Trust |  | (p32)",
+        "quote_carrying": "| 19 & 21 Pandan Avenue <sup>(iv)</sup> | 23 Sep 2005 & 1 Feb 2008 | ... | – | 132,600 | – | 1.32 | (p121, 2024 column)"
+      }
+    ],
+    "cross_check_no_blanket_copy": "The 4 FOREIGN divestments prove the SGD equalities are genuine, not a valuation->carrying copy: 95 Gilmore valuation 82.2 vs carrying 80,643 (p32 vs p123); Astmoor 46.6 vs 48,273 (p32 vs p124); Parkside 18.3 vs 18,251 (p32 vs p127); 8700-8770 Nimbus 7.7 vs 7,381 (p32 vs p127). Had the extractor blanket-copied one field into the other, these would be equal too — they are not.",
+    "audit_all_15_txns": "Acquisitions verified vs 'Completed Acquisitions in FY 2025' table (p23): 9 Tai Seng Drive 455.2/465.5; 5 Science Park Drive 245.0/263.5; Tuas Connection 166.9/178.0; 9 Kallang Sector 206.0/209.0; 2 Pioneer Sector 1 192.9/202.0; DHL Indianapolis 150.3/156.8 — all match p23. Divestment sale_consideration + valuation all match p32 table; carrying_value all match Portfolio Statement 2024 column (p120/121/123/124/127). No net_sale_proceeds/gross_sale_price/gain_on_divestment fields exist in this file, so net>=gross conflation class is N/A. No corrections made.",
+    "flags": [
+      "FOREIGN divestment carrying_value stored as the S$ figure (report's PRIMARY Portfolio Statement column, which is denominated in S$'000 with local currency in brackets) with carrying_value_currency='SGD': 95 Gilmore 80,643 (A$93,000); Astmoor 48,273 (GBP28,500); Parkside 18,251 (USD13,600); 8700-8770 Nimbus 7,381 (USD5,500). This is AS-REPORTED (SGD is the primary printed carrying amount; local captured in carrying_value_basis). Consistent across all 4 foreign rows. NOT changed — noting for main-agent awareness re invariant 4 local-value convention.",
+      "DHL Indianapolis Logistics Center (US) acquisition: purchase_price 150.3 and valuation 156.8 stored as SGD (currency='SGD'). The 'Completed Acquisitions' table (p23) is denominated in S$ million and prints NO USD figure for the deal, so SGD is AS-REPORTED (not extractor-converted). Portfolio Statement (p128) shows the asset's 2025 carrying as 154,530 SGD (USD119,000). Per invariant 7a this is a foreign property with SGD purchase_price, but no local deal value exists in the source to store. Decision-pending — flag only, not changed."
+    ]
   }
 }

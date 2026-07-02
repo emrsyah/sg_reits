@@ -127,6 +127,14 @@
   },
   "data_provenance": [
     {
+      "table": "properties",
+      "field": "category_raw",
+      "scope": "Yishun 10 Retail Podium",
+      "value": "Commercial",
+      "basis": "Yishun 10 Retail Podium was divested 23 Sep 2025 and has no dedicated property-card page (unlike the other 11 properties, which each have a 'Description:' field on their property-profile page e.g. 'Shopping mall comprising N storeys...'). Its only raw asset-type label in the source is the Portfolio Statement 'Existing Use' column = 'Commercial'.",
+      "source_page": 149
+    },
+    {
       "table": "performance",
       "field": "net_distributable_income",
       "value": 233180000,
@@ -168,5 +176,87 @@
       "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
       "source_page": 39
     }
-  ]
+  ],
+  "null_recovery_round8_2026_07_03": {
+    "correctness_task": {
+      "table": "property_transactions",
+      "field": "valuation",
+      "key": "Yishun 10 Retail Podium (divestment)",
+      "old": 34500000,
+      "new": null,
+      "physical_page": 37,
+      "quote": "Yishun 10 Retail Podium comprises ten strata units at Yishun 10 Cinema Complex and was divested to Lion (Singapore) Pte. Limited. for a total consideration of $34.5 million which was negotiated on a willing-buyer and willing-seller basis after taking into account the average of two independent valuations of $34.0 million and $35.0 million as at 31 May 2025.",
+      "rationale": "CONFLATION defect. The report never prints a single valuation of $34.5m. It prints TWO independent valuations ($34.0m and $35.0m as at 31 May 2025, p37 footnote 2) and the negotiated CONSIDERATION of $34.5m, which equals their average (34.0+35.0)/2 = 34.5. The extractor stored the consideration/derived-average in the valuation field, producing the flagged gross==valuation==34,500,000 equality. Per invariant #3 (never derive; if only sale price is printed, fill it and LEAVE valuation null), valuation is set to null. Gross sale price $34.5m is retained in sale_consideration (source-printed, p37 & p170). Pages opened: p37 (appraised-value table + footnote 2), p146 (Statements of Total Return), p151 (cash flow), p170 (FS Note 4 Investment properties)."
+    },
+    "confirmed_as_printed": [
+      {
+        "table": "property_transactions",
+        "field": "sale_consideration/consideration",
+        "key": "Yishun 10 Retail Podium",
+        "value": 34500000,
+        "physical_page": 170,
+        "quote": "On 23 September 2025, the Trust divested Y10 for a consideration of $34,500,000 to Lion (Singapore) Pte. Limited, a wholly-owned subsidiary of FPL, with a net gain on divestment of $128,000."
+      },
+      {
+        "table": "property_transactions",
+        "field": "carrying_value",
+        "key": "Yishun 10 Retail Podium",
+        "value": 34000000,
+        "physical_page": 170,
+        "quote": "Disposal (34,000)  [FS Note 4 Investment properties movement, Group & Trust]"
+      },
+      {
+        "table": "property_transactions",
+        "field": "gain_on_divestment",
+        "key": "Yishun 10 Retail Podium",
+        "value": 128000,
+        "physical_page": 146,
+        "quote": "Gain on divestment of investment property and investment in joint venture | 128 | 11,272 (Statements of Total Return, FY2025 = 128 [$'000])"
+      },
+      {
+        "table": "property_transactions",
+        "field": "valuation==purchase_price (acquisition)",
+        "key": "Northpoint City South Wing (acquisition)",
+        "value": 1133000000,
+        "physical_page": 37,
+        "reason": "CONFIRMED-EQUAL as printed (NOT a defect). valuation==purchase_price==consideration==1,133,000,000 is legitimate: $1,133.0m is the FY2025 appraised value printed in the appraised-value table (p37: 'Northpoint City South Wing | 1,133.0 | -') and the portfolio-statement carrying value (p149/p150: '1,133,000'). The property was acquired at its agreed value ($1,133.0m = average of Colliers $1,146.0m and Savills $1,120.0m per p20) and carried at that same appraised value at FY-end, so the equality is a real coincidence, not a copied field. Left unchanged.",
+        "quote": "Northpoint City South Wing 1 | 1,133.0 | - (appraised-value table, p37)"
+      }
+    ],
+    "flags": [
+      {
+        "severity": "correction-recommended",
+        "table": "property_transactions",
+        "field": "net_proceeds / net_proceeds_basis",
+        "key": "Yishun 10 Retail Podium",
+        "stored_value": 34128000,
+        "source_printed_value": 34500000,
+        "physical_page": 151,
+        "quote": "Net proceeds from divestment of investment property and investment in joint venture | 34,500 | 319,230 (Statement of cash flows, FY2025 = 34,500 [$'000]; FY2025 has no JV divestment, so the whole 34,500 is Y10).",
+        "issue": "net_proceeds=34,128,000 is a DERIVED figure (its own basis note admits: carrying_value 34,000,000 + net gain 128,000). This violates invariant #3 (never derive identity-linked txn figures) AND contradicts the source, which literally labels 'Net proceeds from divestment' = $34,500,000 (p151). The divestment fee was settled in Units (73,806 new Units issued 1 Oct 2025, p219), i.e. a non-cash cost, so cash net proceeds equal the $34.5m gross consideration. NOT changed here because net_proceeds is outside the assigned worklist field (scan-only -> FLAG). Recommend main agent set net_proceeds=34,500,000 (source-printed p151) and drop the derived net_proceeds_basis."
+      },
+      {
+        "severity": "stale-cite",
+        "field": "carrying_value_basis / net_proceeds_basis / sale_consideration note 'p138/FS Note p199' / 'p199'",
+        "key": "Yishun 10 Retail Podium",
+        "issue": "Prior-round basis notes cite 'FS p199' and 'p138' for the disposal/gain, but these are the report's PRINTED folio numbers, not the physical <!-- PAGE N --> markers. The FS Note 4 disposal ('Disposal (34,000)') and the divestment sentence sit at physical PAGE 170; the gain ($128) at physical PAGE 146; net proceeds ($34,500) at physical PAGE 151. Figures themselves verified correct; only the page-number convention in the old notes is off."
+      },
+      {
+        "severity": "pre-existing-known",
+        "table": "properties",
+        "field": "net_property_income / gross_revenue",
+        "key": "Northpoint City North Wing",
+        "issue": "Existing _recovery_note already flags that NPI (62,264k) and gross_revenue (85,573k) on the North Wing row are the COMBINED 'Northpoint City' total (North Wing + South Wing + Yishun 10) per p34 footnote 1, not North-Wing-only. Not a currency/conflation class; re-confirmed still present, left unchanged for main agent."
+      },
+      {
+        "severity": "design-choice-observed",
+        "table": "property_transactions",
+        "field": "consideration (acquisition)",
+        "key": "Northpoint City South Wing (acquisition)",
+        "issue": "consideration=1,133,000,000 is the AGREED PROPERTY VALUE, whereas the total cash acquisition outlay was ~$393.2m (p33) since FCT acquired 100% of North Gem Trust (net of assumed debt/adjustments). This is a modeling choice already documented in the row's notes, not a conflation defect; flagged only for awareness."
+      }
+    ],
+    "currency_scan": "All FCT properties and both transactions are Singapore-domiciled and SGD-denominated. No foreign-currency figures, no converted-in-local-column cases, and no currency-tag-vs-figure-ccy mismatches exist in this report. purchase_price_currency=SGD on every property row is consistent. RMB/CNY normalization and SGD-conversion invariants (#7) are not applicable to J69U.",
+    "pages_opened": [9, 33, 37, 146, 149, 150, 151, 170, 219]
+  }
 }

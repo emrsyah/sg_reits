@@ -11,9 +11,9 @@
     "market_valuation": 600694000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 55512000,
+    "gross_revenue": 55512000,
+    "npi_pct": 45.89,
     "occupancy_rate": 100.0,
     "trade_mix": {
       "Fashion (Domestic)": 47.0,
@@ -55,7 +55,7 @@
     "gfa": 73373.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 21,
     "lease_expiry_date": "2047-12-31",
     "tenure_raw": "Leasehold; remaining term 21 years; land use right expiry 2047",
     "status": "active",
@@ -65,7 +65,8 @@
     "_ema_rental_income_rmb_million": 312.8,
     "original_currency": "RMB",
     "original_value": 3270000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "net_property_income/gross_revenue = EMA rental income (NPI ≡ EMA rental income under EMA model), npi_pct derived vs portfolio total S$120,978k, from Note 23 Operating Segments p194 (S$'000, scaled to full units); lease_term_years from Statement of Portfolio p159; recovered 2026-07-02"
   },
   {
     "symbol": "CRPU.SI",
@@ -79,9 +80,9 @@
     "market_valuation": 139795000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 10754000,
+    "gross_revenue": 10754000,
+    "npi_pct": 8.89,
     "occupancy_rate": 99.4,
     "trade_mix": {
       "Fashion (Domestic)": 46.0,
@@ -123,7 +124,7 @@
     "gfa": 68791.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 26,
     "lease_expiry_date": "2051-12-31",
     "tenure_raw": "Leasehold; remaining term 26 years; land use right expiry 2051",
     "status": "active",
@@ -133,7 +134,8 @@
     "_ema_rental_income_rmb_million": 60.7,
     "original_currency": "RMB",
     "original_value": 761000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "net_property_income/gross_revenue = EMA rental income (NPI ≡ EMA rental income under EMA model), npi_pct derived vs portfolio total S$120,978k, from Note 23 Operating Segments p194 (S$'000, scaled to full units); lease_term_years from Statement of Portfolio p159; recovered 2026-07-02"
   },
   {
     "symbol": "CRPU.SI",
@@ -147,9 +149,9 @@
     "market_valuation": 509580000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 33570000,
+    "gross_revenue": 33570000,
+    "npi_pct": 27.75,
     "occupancy_rate": 98.2,
     "trade_mix": {
       "Fashion (Domestic)": 48.0,
@@ -191,7 +193,7 @@
     "gfa": 147316.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 28,
     "lease_expiry_date": "2053-12-31",
     "tenure_raw": "Leasehold; remaining term 28 years; land use right expiry 2053",
     "status": "active",
@@ -201,7 +203,8 @@
     "_ema_rental_income_rmb_million": 189.4,
     "original_currency": "RMB",
     "original_value": 2774000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "net_property_income/gross_revenue = EMA rental income (NPI ≡ EMA rental income under EMA model), npi_pct derived vs portfolio total S$120,978k, from Note 23 Operating Segments p194 (S$'000, scaled to full units); lease_term_years from Statement of Portfolio p159; recovered 2026-07-02"
   },
   {
     "symbol": "CRPU.SI",
@@ -215,9 +218,9 @@
     "market_valuation": 286202000,
     "valuation_date": "2025-12-31",
     "currency": "SGD",
-    "net_property_income": null,
-    "gross_revenue": null,
-    "npi_pct": null,
+    "net_property_income": 21142000,
+    "gross_revenue": 21142000,
+    "npi_pct": 17.48,
     "occupancy_rate": 98.4,
     "trade_mix": {
       "Fashion (Domestic)": 41.0,
@@ -259,7 +262,7 @@
     "gfa": 88257.0,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": null,
+    "lease_term_years": 28,
     "lease_expiry_date": "2054-12-31",
     "tenure_raw": "Leasehold; remaining term 28 years; land use right expiry 2054",
     "status": "active",
@@ -269,6 +272,7 @@
     "_ema_rental_income_rmb_million": 119.4,
     "original_currency": "RMB",
     "original_value": 1558000000,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "_recovery_note": "net_property_income/gross_revenue = EMA rental income (NPI ≡ EMA rental income under EMA model), npi_pct derived vs portfolio total S$120,978k, from Note 23 Operating Segments p194 (S$'000, scaled to full units); lease_term_years from Statement of Portfolio p159; recovered 2026-07-02"
   }
 ]

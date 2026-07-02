@@ -83,13 +83,19 @@ def txn_row(symbol, fy, r):
     # gross sale price and net-of-cost proceeds are DISTINCT columns (10 divestments disclose both).
     purchase = _num(_first(r, "purchase_price", "acquisition_price", "purchase_consideration",
                            "transaction_price")) if acq else None
-    gross = _num(_first(r, "sale_price", "sale_consideration", "divestment_price")) if div else None
+    gross = _num(_first(r, "gross_sale_price", "sale_price", "sale_consideration", "divestment_price")) if div else None
     net = _num(_first(r, "net_proceeds", "net_consideration_usd")) if div else None
     amb = _num(_first(r, "consideration", "consideration_sgd", "price", "amount"))  # type-ambiguous
     if amb is not None:
         if acq and purchase is None:   purchase = amb
         elif div and gross is None:    gross = amb   # bare consideration/price = gross sale price
-    row_ccy = _first(r, "currency", "currency_local")
+    # Presentation currency of the transaction figures. Phase-3 Tier-0 fix: when no explicit
+    # row `currency`, derive it from any stated per-figure transaction currency (all SGD for M44U)
+    # rather than from `local_currency`/`currency_local`, which is the ASSET's local ccy (RMB/JPY/MYR)
+    # belonging to the *_local amounts — not the currency the deal figures are booked in.
+    row_ccy = _first(r, "currency", "sale_price_currency", "gross_sale_price_currency",
+                     "net_proceeds_currency", "purchase_price_currency", "valuation_currency",
+                     "carrying_value_currency", "currency_local")
 
     def ccy(*aliases):  # per-figure currency, falling back to the row presentation currency
         return _first(r, *aliases) or row_ccy
@@ -109,7 +115,7 @@ def txn_row(symbol, fy, r):
         _pct(_first(r, "interest_acquired_pct", "interest_acquired", "interest_divested")),
         # per-figure currency
         ccy("purchase_price_currency", "consideration_currency") if acq else _first(r, "purchase_price_currency"),
-        ccy("sale_price_currency", "consideration_currency") if div else _first(r, "sale_price_currency"),
+        ccy("gross_sale_price_currency", "sale_price_currency", "consideration_currency") if div else _first(r, "gross_sale_price_currency", "sale_price_currency"),
         ccy("net_proceeds_currency") if net is not None else _first(r, "net_proceeds_currency"),
         ccy("carrying_value_currency") if _num(_first(r, "carrying_value", "carrying_value_pre")) is not None else _first(r, "carrying_value_currency"),
         ccy("gain_currency", "gain_on_divestment_currency") if _first(r, "gain_on_divestment", "gain") is not None else _first(r, "gain_currency", "gain_on_divestment_currency"),
@@ -215,18 +221,28 @@ def load_one(cur, dirpath):
             r.get("purchase_price"),
             ((r.get("purchase_price_currency") or r.get("currency"))
              if r.get("purchase_price") is not None else None),  # untagged cost = presentation ccy
-            d(r.get("valuation_date")), r.get("currency"), r.get("original_currency"),
-            r.get("original_value"), r.get("net_property_income"),
-            r.get("gross_revenue"), r.get("npi_pct"), r.get("occupancy_rate"), J(r.get("trade_mix")),
+            d(r.get("valuation_date")), r.get("currency"),
+            # local/original-currency valuation: A17U uses local_currency/local_currency_value (was not loading)
+            (r.get("original_currency") or r.get("local_currency")),
+            (r.get("original_value") if r.get("original_value") is not None else r.get("local_currency_value")),
+            r.get("net_property_income"),
+            # per-figure currency (Phase-3 Tier-0): DHLU etc. report NPI/GR in the asset's local ccy
+            # while the row `currency` is the presentation ccy of market_valuation.
+            ((r.get("net_property_income_currency") or r.get("currency"))
+             if r.get("net_property_income") is not None else None),
+            r.get("gross_revenue"),
+            ((r.get("gross_revenue_currency") or r.get("currency"))
+             if r.get("gross_revenue") is not None else None),
+            r.get("npi_pct"), r.get("occupancy_rate"),
             J(r.get("major_tenants") or []), r.get("gla"), r.get("nla"), r.get("gfa"), r.get("area_unit"),
             r.get("land_tenure"), d(r.get("effective_date")), r.get("lease_term_years"),
             d(r.get("lease_expiry_date")), r.get("tenure_raw"), r.get("status") or "active",
-            r.get("divestment_price"), J(r.get("flags") or []), r.get("source_page")),
+            J(r.get("flags") or []), r.get("source_page")),
         ["symbol","financial_year","property_name","country","category","category_raw","address",
          "ownership","market_valuation","purchase_price","purchase_price_currency","valuation_date","currency","original_currency","original_value",
-         "net_property_income","gross_revenue","npi_pct","occupancy_rate","trade_mix","major_tenants",
+         "net_property_income","net_property_income_currency","gross_revenue","gross_revenue_currency","npi_pct","occupancy_rate","major_tenants",
          "gla","nla","gfa","area_unit","land_tenure","effective_date","lease_term_years",
-         "lease_expiry_date","tenure_raw","status","divestment_price","flags","source_page"])
+         "lease_expiry_date","tenure_raw","status","flags","source_page"])
 
     n_tt = reload_list("sgx_reit_top_tenant", "top_tenants.json",
         lambda r: (symbol, fy, r.get("rank"), r.get("client_name"), r.get("industry"),

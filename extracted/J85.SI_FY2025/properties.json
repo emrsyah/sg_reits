@@ -13,7 +13,9 @@
     "currency": "SGD",
     "net_property_income": 19733000.0,
     "gross_revenue": 21321000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 76.9,
+    "gfa": 49940.9,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 75.0,
     "effective_date": "2006-07-19",
@@ -22,7 +24,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 330100000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA (including Claymore Connect, combined disclosure) from Property Details p59; occupancy_rate (Average occupancy rate) from FY2025 Key Financials p59; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -38,16 +41,26 @@
     "currency": "SGD",
     "net_property_income": 6460000.0,
     "gross_revenue": 8388000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 97.7,
+    "nla": 7187,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 75.0,
     "effective_date": "2006-07-19",
     "lease_expiry_date": "2081-07-19",
     "tenure_raw": "Freehold (H-REIT's interest restricted to remaining 75-year lease term from 19 July 2006); 56 years remaining",
     "status": "active",
+    "flags": [
+      {
+        "type": "occupancy_metric_note",
+        "scope": "occupancy_rate",
+        "note": "Value is 'Committed occupancy rate as at 31 December 2025' (leasing metric), not a physical/average occupancy rate — p71."
+      }
+    ],
     "source_page": 213,
     "purchase_price": 34500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "NLA (including Galleria) from Property Details p71; occupancy_rate (Committed occupancy rate) from FY2025 Key Financials p71; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -63,7 +76,9 @@
     "currency": "SGD",
     "net_property_income": 19123000.0,
     "gross_revenue": 20733000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 84.3,
+    "gfa": 63496.0,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 75.0,
     "effective_date": "2006-07-19",
@@ -72,7 +87,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 234100000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA (including adjoining Waterfront Plaza, combined disclosure) from Property Details p61; occupancy_rate (Average occupancy rate) from FY2025 Key Financials p61; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -88,7 +104,9 @@
     "currency": "SGD",
     "net_property_income": 11864000.0,
     "gross_revenue": 12911000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 86.9,
+    "gfa": 32379.3,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 75.0,
     "effective_date": "2006-07-19",
@@ -97,7 +115,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 161500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA from Property Details p63; occupancy_rate (Average occupancy rate) from FY2025 Key Financials p63; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -113,7 +132,9 @@
     "currency": "SGD",
     "net_property_income": 6131000.0,
     "gross_revenue": 6700000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 75.5,
+    "gfa": 17598.3,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 99.0,
     "effective_date": "1968-02-01",
@@ -122,7 +143,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 86100000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA from Property Details p65; occupancy_rate (Average occupancy rate) from FY2025 Key Financials p65; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -138,7 +160,9 @@
     "currency": "SGD",
     "net_property_income": 7364000.0,
     "gross_revenue": 7879000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 74.8,
+    "gfa": 8258.9,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 99.0,
     "effective_date": "2007-02-26",
@@ -147,7 +171,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 154000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA from Property Details p67; occupancy_rate (Average occupancy rate) from FY2025 Key Financials p67; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -163,7 +188,9 @@
     "currency": "SGD",
     "net_property_income": 6303000.0,
     "gross_revenue": 49087000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 69.6,
+    "gfa": 25374.3,
+    "area_unit": "sqm",
     "land_tenure": "Leasehold",
     "lease_term_years": 99.0,
     "effective_date": "2006-10-31",
@@ -179,7 +206,8 @@
     ],
     "source_page": 214,
     "purchase_price": 324000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "_recovery_note": "GFA from Property Details p69; occupancy_rate (Average occupancy rate) from FY2025 Key Financials/HOTEL MANAGEMENT AGREEMENT DETAILS section p69; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -195,7 +223,7 @@
     "currency": "SGD",
     "net_property_income": 7321000.0,
     "gross_revenue": 9392000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 73.0,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -208,7 +236,8 @@
         "scope": "purchase_price",
         "note": "Purchase price based on 94.5% effective interest; valuation based on 100% interest (p22 note 6)."
       }
-    ]
+    ],
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p95; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -224,7 +253,7 @@
     "currency": "SGD",
     "net_property_income": 3294000.0,
     "gross_revenue": 3571000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 68.1,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -237,7 +266,8 @@
         "scope": "purchase_price",
         "note": "Purchase price based on 95.0% effective interest; valuation based on 100% interest (p22 note 7)."
       }
-    ]
+    ],
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p97; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -253,13 +283,14 @@
     "currency": "SGD",
     "net_property_income": 4074000.0,
     "gross_revenue": 4074000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 66.4,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 213,
     "purchase_price": 113000000,
-    "purchase_price_currency": "NZD"
+    "purchase_price_currency": "NZD",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p75; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -275,7 +306,7 @@
     "currency": "SGD",
     "net_property_income": 7486000.0,
     "gross_revenue": 7850000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 76.2,
     "land_tenure": "Leasehold",
     "lease_term_years": 99.0,
     "effective_date": "1997-08-26",
@@ -284,7 +315,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 71000000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p77; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -300,7 +332,7 @@
     "currency": "SGD",
     "net_property_income": 4665000.0,
     "gross_revenue": 4665000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 83.9,
     "land_tenure": "Leasehold",
     "lease_term_years": 197.0,
     "effective_date": "2021-05-07",
@@ -309,7 +341,8 @@
     "status": "active",
     "source_page": 213,
     "purchase_price": 22800000,
-    "purchase_price_currency": "GBP"
+    "purchase_price_currency": "GBP",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p87; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -325,7 +358,10 @@
     "currency": "SGD",
     "net_property_income": 4652000.0,
     "gross_revenue": 8547000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 90.3,
+    "gfa": 28577,
+    "nla": 20370,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -338,7 +374,8 @@
         "scope": "purchase_price",
         "note": "Figure is the total capitalised development cost (p23 note 4), shown in the Purchase Price column."
       }
-    ]
+    ],
+    "_recovery_note": "GFA (~28,577 sq m Gross Internal Area) and occupancy_rate (Physical occupancy rate) from Property Details p91; NLA (20,370 sq m residential net internal area) from p91 narrative; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -388,13 +425,16 @@
     "currency": "SGD",
     "net_property_income": 3529000.0,
     "gross_revenue": 6182000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 90.4,
+    "gfa": 11553,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
     "source_page": 213,
     "purchase_price": 37300000,
-    "purchase_price_currency": "GBP"
+    "purchase_price_currency": "GBP",
+    "_recovery_note": "GFA (~11,553 sq m Gross Internal Area) and occupancy_rate (Average occupancy rate for FY 2025) from Property Details p93; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -410,7 +450,9 @@
     "currency": "SGD",
     "net_property_income": 2812000.0,
     "gross_revenue": 10657000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 78.8,
+    "gfa": 9650,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -423,7 +465,8 @@
     ],
     "source_page": 214,
     "purchase_price": 21600000,
-    "purchase_price_currency": "AUD"
+    "purchase_price_currency": "AUD",
+    "_recovery_note": "GFA from Property Details p73; occupancy_rate (Average occupancy rate) from FY2025 Key Financials table p73; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -439,7 +482,9 @@
     "currency": "SGD",
     "net_property_income": 2860000.0,
     "gross_revenue": 13830000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 83.1,
+    "gfa": 22419,
+    "area_unit": "sqm",
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -452,7 +497,8 @@
     ],
     "source_page": 214,
     "purchase_price": 36200000,
-    "purchase_price_currency": "AUD"
+    "purchase_price_currency": "AUD",
+    "_recovery_note": "GFA from Property Details p73; occupancy_rate (Average occupancy rate) from FY2025 Key Financials table p73; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -468,7 +514,7 @@
     "currency": "SGD",
     "net_property_income": -3641000.0,
     "gross_revenue": 9275000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 28.4,
     "land_tenure": "Leasehold",
     "lease_term_years": 99.0,
     "effective_date": "2006-06-15",
@@ -484,7 +530,8 @@
     ],
     "source_page": 214,
     "purchase_price": 59600000,
-    "purchase_price_currency": "USD"
+    "purchase_price_currency": "USD",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p79; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -500,7 +547,7 @@
     "currency": "SGD",
     "net_property_income": 3002000.0,
     "gross_revenue": 5849000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 92.2,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -513,7 +560,8 @@
     ],
     "source_page": 214,
     "purchase_price": 3200000000,
-    "purchase_price_currency": "JPY"
+    "purchase_price_currency": "JPY",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials table p81; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -529,7 +577,7 @@
     "currency": "SGD",
     "net_property_income": 1805000.0,
     "gross_revenue": 3828000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 94.5,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -542,7 +590,8 @@
     ],
     "source_page": 214,
     "purchase_price": 2600000000,
-    "purchase_price_currency": "JPY"
+    "purchase_price_currency": "JPY",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials table p81; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -558,7 +607,7 @@
     "currency": "SGD",
     "net_property_income": 5965000.0,
     "gross_revenue": 20377000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 73.6,
     "land_tenure": "Leasehold",
     "lease_term_years": 125.0,
     "effective_date": "1990-12-25",
@@ -574,7 +623,8 @@
     ],
     "source_page": 214,
     "purchase_price": 61500000,
-    "purchase_price_currency": "GBP"
+    "purchase_price_currency": "GBP",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p83; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -590,7 +640,7 @@
     "currency": "SGD",
     "net_property_income": 3352000.0,
     "gross_revenue": 23055000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 77.5,
     "land_tenure": "Leasehold",
     "lease_term_years": 150.0,
     "effective_date": "1997-03-18",
@@ -606,7 +656,8 @@
     ],
     "source_page": 214,
     "purchase_price": 52500000,
-    "purchase_price_currency": "GBP"
+    "purchase_price_currency": "GBP",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p85; recovered 2026-07-02"
   },
   {
     "symbol": "J85.SI",
@@ -622,7 +673,7 @@
     "currency": "SGD",
     "net_property_income": 1540000.0,
     "gross_revenue": 9395000.0,
-    "occupancy_rate": null,
+    "occupancy_rate": 84.5,
     "land_tenure": "Freehold",
     "tenure_raw": "Freehold",
     "status": "active",
@@ -640,6 +691,7 @@
     ],
     "source_page": 214,
     "purchase_price": 19400000,
-    "purchase_price_currency": "GBP"
+    "purchase_price_currency": "GBP",
+    "_recovery_note": "occupancy_rate (Average occupancy rate) from FY2025 Key Financials p89 (combined hotel + retail-unit figure per note above); recovered 2026-07-02"
   }
 ]

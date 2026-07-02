@@ -1,12 +1,24 @@
 {
   "columns_never_fillable": [
     {
+      "column": "property_transactions.counterparty (Tokyo Property acquisition)",
+      "reason": "No seller/vendor name is disclosed for the Tokyo Property acquisition (29 Oct 2024, freehold, 1-7 & 2-1 Nagayama 2-chome, Tama-shi, Tokyo). Checked Annual Report Highlights (p11-12, 'Completed the acquisition of a freehold property in Tokyo, Japan (the \"Tokyo Property\") for a purchase consideration of JPY14.5 billion'), Portfolio Statement note 62 (p1735, 2780), and Financial Review discussion of the Japan Portfolio/Tokyo Acquisition (p5083, 5158-5226, 10342) -- none name the counterparty. Left null; checked pages 11-12, 79 (financial review), 132-145 (portfolio statement note 62), 121-127 (investing activities note)."
+    },
+    {
       "column": "properties.net_property_income",
       "reason": "Per-property NPI not disclosed; NPI given only at segment level (Data Centres NA/Asia, Hi-Tech, Business Park, Flatted Factories, Stack-up, Light Industrial) as % of Group NPI (p79)."
     },
     {
-      "column": "properties.gla / nla / gfa",
-      "reason": "The audited Portfolio Statement (canonical valuation source, p132-145) discloses no area metric. NLA/GFA are disclosed only in the marketing Property Portfolio Overview (p44-59, in sq ft, mixed US$/JPY/SGD); not merged here to keep valuation provenance from the audited statement."
+      "column": "properties.gla",
+      "reason": "GLA is not a metric MIT discloses at all (only GFA and NLA appear in the Property Portfolio Overview, p44-59); the audited Portfolio Statement (p132-145) has no area metric either."
+    },
+    {
+      "column": "properties.gfa (56 US Data Centre properties, p44-46)",
+      "reason": "US Data Centre 'Detailed Property Information' table (p44-46) discloses only NLA (sq ft) per asset, not GFA -- no GFA column exists in that table (compare SG tables at p54-58 which do have both GFA and NLA columns). Confirmed genuinely not disclosed, not a parsing miss. Left null for all North America properties incl. the 13 MRODCT JV assets and Osaka/Tokyo (Japan) properties."
+    },
+    {
+      "column": "properties.gfa / nla (Tanglin Halt)",
+      "reason": "Tanglin Halt Cluster was divested 27 March 2024 (before FY24/25, p7883/fn7); no FY24/25 area figures are disclosed for a divested asset. status=divested already set; left gfa/nla null."
     },
     {
       "column": "properties.major_tenants",
@@ -85,6 +97,35 @@
       "value": "disclosed_after_retention",
       "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
       "source_page": 11
+    }
+  ],
+  "null_recovery_round7_2026_07_03": [
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "Mapletree Sunview 1",
+      "status": "confirmed_absent",
+      "reason": "Re-verified: Data Centres Singapore/Japan Detailed Property Information table row for Mapletree Sunview 1 (GFA 241,796 | NLA 241,796 | Purchase Price '-' | Valuation 31/03/2024 74,600 | Valuation 31/03/2025 74,600 | Gross Revenue 4,899 | Occ 100.0) prints an explicit dash in the Purchase Price S$'000 column -- genuine non-disclosure, not a parsing gap.",
+      "page": 47,
+      "quote": "| 241,796 | 241,796 | - | 74,600 | 74,600 | 4,899 | 100.0 |"
+    },
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "30A Kallang Place",
+      "status": "confirmed_absent",
+      "reason": "Re-verified: Hi-Tech Buildings Detailed Property Information table (p49) row 3 '30A Kallang Place' shows Purchase Price S$'000 = '-' even though the same table discloses purchase prices for 6 of the 8 Hi-Tech Buildings cluster assets (e.g. 1&1A Depot Close 44,000; 18 Tai Seng 268,300). This is a legacy asset from the original 01/07/2008 IPO portfolio with no separately disclosed acquisition cost -- genuine absence, matches sibling K&S row pattern (both '-').",
+      "page": 49,
+      "quote": "| 3. | 30A Kallang Place | 01/07/2008 | 33 years | 16 years | 30A Kallang Place Singapore | 336,527 | 277,928 | - | 98,500 | 96,400 | 13,975 | 99.5 |"
+    },
+    {
+      "table": "properties",
+      "field": "purchase_price",
+      "key": "K&S Corporate Headquarters",
+      "status": "confirmed_absent",
+      "reason": "Re-verified: Hi-Tech Buildings Detailed Property Information table (p49) row 4 'K&S Corporate Headquarters' shows Purchase Price S$'000 = '-'. Acquisition Date is footnoted 4 = 'Refers to the temporary occupation permit date' (04/10/2013), consistent with this being a build-to-suit / development-derived asset for which MIT never paid an external acquisition purchase price (it was constructed by the trust, not bought) -- genuine absence, not a parsing gap.",
+      "page": 49,
+      "quote": "| 4. | K&S Corporate Headquarters | 04/10/2013 <sup>4</sup> | 30+28.5 years | 45 years | 23A Serangoon North Avenue 5 Singapore | 332,224 | 286,690 | - | 72,800 | 72,800 | 9,973 | 99.5 |"
     }
   ],
   "inferred": [

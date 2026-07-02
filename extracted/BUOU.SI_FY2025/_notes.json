@@ -1,16 +1,28 @@
 {
   "columns_never_fillable": [
     {
+      "column": "lease_term_years / lease_expiry_date (freehold rows, 88 of 113)",
+      "reason": "2nd-round null-recovery audit (Jul 2026): cross-checked every 'Leasehold'-tagged property in Property Profile (p50-57) and audited Portfolio Statement (p127-134, incl. footnote (c) ROU rows) against properties.json. All 25 leasehold rows already had lease_term_years/lease_expiry_date correctly filled from prior extraction (matches source verbatim, e.g. Melbourne Airport 31yr/2047, Wetherill Park 89-90yr/2106-07, Port Kembla 33yr/2049, Crestmead/Yatala/Banyo/Inala/Heathwood/Rocklea/Carole Park/Berrinba 99yr/2115, Perth Airport 17yr/2033, Caroline Chisholm 81yr/2101, Nuremberg 63yr/2080, Hamburg 55yr/2078, Tuas South Link 1 30yr/2046, Alexandra Technopark 88yr/2108). The remaining 88 null rows are all confirmed Freehold (73.0% of portfolio by value per p33 donut chart) - AU freehold assets, all Germany/UK/Netherlands assets - and genuinely have no lease term to disclose. No fills made; nothing left recoverable.",
+      "pages_checked": "50-57 (Property Profile), 127-134 (audited Portfolio Statement), 5080-5286 (Note 12 investment properties detail), 33 (land tenure donut chart)"
+    },
+    {
       "column": "net_property_income (per property)",
-      "reason": "NPI disclosed only at geography/asset-class segment level (p27), not per property."
+      "reason": "ROUND-4 RE-VERIFIED (Jul 2026, exhaustive re-check per r4-spec distrust protocol): read Property Profile p50-63 (Occupancy/Lettable Area/Title/Completion Date/Valuation/Purchase Price/Tenants/Gross Revenue FY2025 columns only -- confirmed NO NPI column on any of the ~12 property-profile table instances), audited Portfolio Statement p127-134+ (Location/Acquisition date/Tenure/Carrying amount/% net assets columns only -- no NPI), and Note 27 Operating Segments p181-182 (7 reportable segments: L&I-Australia/Singapore/Europe/UK, Commercial-Australia/Singapore/UK; segment revenue 471,486 and segment NPI 339,726 disclosed at this 7-way geography x asset-class level ONLY, explicitly stated 'Performance is measured based on segment net property income'). No per-property NPI decomposition exists anywhere in the report (checked Business Review p10-38, Financial Review, all Note 27 tables). Genuine total/segment-only absence -- prior note's finding CONFIRMED, not superseded.",
+      "pages_checked": "50-63 (Property Profile all property-class tables), 127-134 (audited Portfolio Statement), 181-182 (Note 27 Operating Segments, both FY2025 and FY2024 tables), 10-38 (Business/Financial Review)"
     },
     {
       "column": "gla / gfa (per property)",
-      "reason": "Property profile discloses 'Lettable Area (sqm)' only -> mapped to nla; gross lettable (gla) and gross floor (gfa) not separately disclosed per property."
+      "reason": "ROUND-4 RE-VERIFIED (Jul 2026): searched full.md for 'Gross Floor Area'/'GFA'/'gross floor area' -- the ONLY occurrence of GFA in the entire report is the glossary definition (p9: 'GFA | Gross Floor Area') and one unrelated footnote ('By GFA' re: a different KPI, p~15) -- GFA is never populated with an actual per-property or portfolio figure anywhere. Property Profile (p50-63, all ~12 table instances across L&I/Office/Business Park categories) discloses only 'Lettable Area (sqm)' -> already mapped to nla. Audited Portfolio Statement (p127-134) has no area column at all (carrying amount/tenure/% net assets only). Total portfolio lettable area (2.8m sqm, p31/38) is the only aggregate area figure; no GFA aggregate or per-property figure exists to decompose. Genuine absence -- prior note's finding CONFIRMED, not superseded.",
+      "pages_checked": "50-63 (Property Profile, all property tables), 127-134 (audited Portfolio Statement), 9 (glossary), 31, 38 (portfolio lettable area totals)"
     },
     {
       "column": "npi_pct (per property)",
       "reason": "Not disclosed; only segment NPI% (geography/asset class) given."
+    },
+    {
+      "column": "top_tenant.client_name (rank 13, Commercial segment rank 3)",
+      "reason": "Round-2 null recovery (Jul 2026): checked Top 10 Tenants tables p1686-1714 (full.md). Commercial-segment table (p1711-1714 / report p34) explicitly lists this row's tenant name as 'Undisclosed' (country Singapore, trade 3PL/Distribution, 0.9% of GRI, WALE 5.9y) -- the source itself withholds the tenant's identity, not a missed extraction. Left null; genuine source-disclosed absence, not fillable.",
+      "pages_checked": "34 (Top Tenants by GRI, Commercial segment table)"
     }
   ],
   "data_with_no_home": [
@@ -130,5 +142,35 @@
     "note": "line_items reconcile to net_income exactly. trade_mix sums to ~99.4% (disclosed sector breakdown; small residual = undisclosed 'other').",
     "sum_property_gross_revenue": 457500000,
     "gross_revenue_gap_note": "Σ per-property gross_revenue 457.5m vs reported total 471.486m (-2.97%). Gap = (i) Central Park GR shown at 100% on a 50%-owned asset but eliminations differ; (ii) 357 Collins Street partial-year revenue (divested Sep 2025) is in the consolidated total but the property is absent from the FY2025 Property Profile listing; (iii) recoverable outgoings/straight-lining timing. As-disclosed per-property figures kept; not forced to balance."
+  }
+  ,
+  "null_recovery_round8_2026_07_03": {
+    "worklist_target": "property_transactions: '28 German properties (minority interest sale)' (partial_divestment) - carrying_value AND valuation(appraised_value) NULL; net_sale_proceeds/sale_consideration = 33,414,000.",
+    "outcome": "No FILL possible. Both carrying_value and the transaction/stake valuation are genuinely NOT printed for this deal; filling either would require prohibited derivation (invariant 3). Rows left null and HARDENED with page cites.",
+    "pages_opened": [36, 37, 122, 123, 177],
+    "carrying_value": {
+      "decision": "left null - CONFIRMED ABSENT",
+      "reason": "This is an IFRS-10 equity transaction (sale of shares to existing minority shareholders, no loss of control), not a property/asset divestment. The report prints only: (a) the sale consideration S$33,414,000; (b) the equity split of that transaction (Attributable to Unitholders (746), Non-controlling interests 33,414, Total 32,668) in the Statement of Movements in Unitholders' Funds; (c) NCI net-assets summary (net assets attributable to NCI S$93,799k at 30 Sep 2025). NO distinct 'carrying value of the minority interest transferred' figure is disclosed. Deriving it from the (746)/33,414 equity movement is prohibited (invariant 3).",
+      "cites": {
+        "p177_Note20": "'On 28 November 2024, FLCT's wholly-owned subsidiaries completed the sale of shares to the existing minority shareholders of the property holding companies of 28 German properties, reducing its effective interest in each of the German properties to 89.9% for sale consideration of S$33,414,000.'",
+        "p122_SOCE": "'Divestment of ownership interests to non-controlling interests | (746) | 33,414 | 32,668' (Attributable to Unitholders / NCI / Total, S$'000)."
+      }
+    },
+    "valuation_appraised_value": {
+      "decision": "left null - CONFIRMED ABSENT (no stake/transaction valuation printed)",
+      "reason": "No independent valuation of the ~3.2%-5.0% minority stake is disclosed. The only valuations printed on p36 are portfolio-level property valuations of the whole 28 German properties (First Valuation EUR1,037.8m ~ S$1,570.8m by Colliers/BNPP; Manager valuation EUR1,002.1m ~ S$1,516.8m). These are property-portfolio valuations, not the transacted-stake valuation; attributing them to the stake requires derivation (invariant 3), so appraised_value stays null.",
+      "cite_p36": "'The total aggregate purchase consideration paid of EUR23.2 million (approximately $33.4 million) took into account the valuations of the properties held by such companies as at 30 September 2024. The valuations of the properties commissioned by the REIT Trustee (\"First Valuation\") amounted to EUR1,037.8 million (approximately $1,570.8 million) ... The valuations of the properties commissioned by the REIT Manager amounted to EUR1,002.1 million (approximately $1,516.8 million) ...'"
+    },
+    "consideration_currency_note": "sale_consideration/price stored as 33,414,000 SGD is SOURCE-FAITHFUL, not a conversion defect: the report's own primary disclosure is 'S$33,414,000' (p177 Note 20) and the equity statement/related-party note report it in S$'000 (p122). EUR23.2m is only the report's parenthetical 'approximately' figure. No change; invariant 7(a) not triggered here.",
+    "conflation_scan": {
+      "txn '2 Tuas South Link 1' (acquisition)": "clean - p37 prints Appraised Value on Acquisition $143.8m (Knight Frank) and Purchase Price $140.3m. valuation==appraised_value (143.8m) is the same concept (independent appraised value), NOT a carrying-copy defect. All SGD.",
+      "txn '357 Collins Street' (divestment)": "clean - p37 prints Appraised Value on Divestment A$191.0m (Savills) and Divestment Consideration A$192.1m. valuation(191.0m AUD) != carrying_value(162,052k SGD, Note 10). Mixed currency (AUD price/valuation vs SGD carrying/gain) is source-faithful and explicitly tagged; no conflation.",
+      "properties.json": "No market_valuation==purchase_price copies and no currency-tag!=figure mismatches found across 114 rows.",
+      "performance.json": "REIT-level metrics only; no gross/net/valuation-vs-carrying conflation classes apply."
+    },
+    "flags_for_main_agent": [
+      "SYSTEMIC (invariant 7a, DO NOT TOUCH - flag only): all 114 properties carry currency=SGD and purchase_price_currency=SGD, including 112 foreign properties (Australia 65, Germany 33, UK 7, Netherlands 7). Consistent with the report's SGD-consolidated portfolio presentation already documented under parsing_traps; German purchase prices e.g. 23,600,000 / 25,900,000 are stored in SGD. Left untouched.",
+      "INFO (no action): portfolio-level German valuations EUR1,037.8m (First) and EUR1,002.1m (Manager) exist on p36 but are not attributable to the minority-stake transaction; captured here rather than forced into the txn valuation field."
+    ]
   }
 }
