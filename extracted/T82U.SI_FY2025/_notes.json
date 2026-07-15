@@ -19,12 +19,21 @@
     {
       "column": "properties.occupancy_rate / properties.nla (Suntec Singapore Convention & Exhibition Centre)",
       "reason": "2nd-round null-recovery check (2026-07-02): Suntec Singapore has no standalone 'Property Statistics' card (unlike every other property, p33-p50) - it is folded into the combined Suntec City card (p28: NLA 2,119,747 sq ft = Office 1,203,737 + Retail 916,010 exactly, i.e. Suntec Singapore's own NLA is NOT included in that sum; Committed Occupancy 99.7% on that card is a blended Mall+Office figure). The audited Portfolio Statement (p113-114) and its Trust-level twin explicitly show Committed Occupancy Rate = 'n/m' (not meaningful) for the 1 Raffles Boulevard / Suntec Singapore row, both FY2025 and FY2024 - a deliberate non-disclosure, not an extraction miss. No NLA figure for Suntec Singapore alone is given anywhere (only 'more than one million sq ft of versatile floor space... including approximately 144,000 sq ft of retail space', p115 - not a precise convention-space NLA). Left null.",
-      "pages_checked": [28, 34, 113, 114, 115]
+      "pages_checked": [
+        28,
+        34,
+        113,
+        114,
+        115
+      ]
     },
     {
       "column": "properties.net_property_income (One Raffles Quay, MBFC Properties, Southgate Complex, Nova Properties)",
       "reason": "2nd-round null-recovery check (2026-07-02): confirmed via Operating Segments note (Note 28, p166-167) that the reportable-segment revenue/property-expenses/NPI table covers ONLY the 9 consolidated properties (Suntec Singapore, Suntec City Mall/Office, 177 Pacific Highway, 21 Harris Street, 55 Currie Street, Olderfleet, The Minster Building), summing to segment NPI $316,792k which reconciles to consolidated NPI. The 4 equity-accounted JVs are entirely OUTSIDE this segment table - their combined result appears only as one line 'Share of profit of joint ventures $128,264k' in the reconciliation to total return (p167), with no per-property or even per-JV revenue/NPI split disclosed anywhere in the FS. Matches existing property-level flags citing each JV's below-NPI 'Net income contribution'. Left null (already null; no change needed).",
-      "pages_checked": [166, 167]
+      "pages_checked": [
+        166,
+        167
+      ]
     }
   ],
   "null_recovery_round7_2026_07_03": [
@@ -34,7 +43,12 @@
       "key": "Suntec City Office (strata units) divestment",
       "status": "confirmed_absent",
       "reason": "No calendar transaction/completion date is printed anywhere in the AR. Manager's Report (p22, footnote 1): 'The transaction in respect of the sale of the strata unit amounting to $15.4 million... was entered into and completed in FY 2025' - only FY-level, no date. Note 6 Investment Properties (p141): 'As at 31 December 2025, Suntec REIT had completed the divestment of two (2024: six) strata units in Suntec City Office' - a balance-sheet-date confirmation, not a transaction date. RAG search for 'Nava Bharat', 'strata unit', 'completion date' across the corpus surfaced no more specific date. Left null.",
-      "pages_checked": [22, 113, 114, 141]
+      "pages_checked": [
+        22,
+        113,
+        114,
+        141
+      ]
     },
     {
       "table": "properties",
@@ -42,7 +56,16 @@
       "key": "Suntec City Mall / Suntec City Office Towers / Suntec Singapore Convention & Exhibition Centre",
       "status": "confirmed_absent (re-verified)",
       "reason": "Re-verified round 7: Portfolio Statement (p113-115) and Note 6 Investment Properties (p141) disclose carrying value/valuation only, never cost. RAG search for 'acquisition cost IPO injected assets 2004' turned up only the About Suntec REIT listing-date blurb (p2, 'Listed on 9 December 2004...') and the property cards - no per-property or combined acquisition price for these three IPO-seed assets anywhere in this AR. Consistent with prior columns_never_fillable note (blended $2,305.3m Suntec City card figure, p28, which is NOT per-property and was correctly not split). Left null.",
-      "pages_checked": [2, 22, 28, 113, 114, 115, 118, 141]
+      "pages_checked": [
+        2,
+        22,
+        28,
+        113,
+        114,
+        115,
+        118,
+        141
+      ]
     },
     {
       "table": "properties",
@@ -50,7 +73,12 @@
       "key": "Suntec Singapore Convention & Exhibition Centre",
       "status": "confirmed_absent (re-verified)",
       "reason": "Re-verified round 7: Portfolio Statement (p113-114) explicitly prints 'n/m' (not meaningful) for Committed Occupancy Rate on the 1 Raffles Boulevard / Suntec Singapore row, both FY2025 and FY2024 - a deliberate by-design non-disclosure (convention centre, not a leased-occupancy asset). Property Details page (p34-35) reports event/attendance metrics instead: 'more than 1,100 events, a 15% increase year-on-year' - RevPAR/attendance-style stats, not a leased-occupancy %. Left null.",
-      "pages_checked": [34, 35, 113, 114]
+      "pages_checked": [
+        34,
+        35,
+        113,
+        114
+      ]
     }
   ],
   "data_with_no_home": [
@@ -158,5 +186,6 @@
       "basis": "Phase-1 harmonization 2026-06-23: distribution statement is a running cash balance contaminated by prior-year carry-forward and period timing; no clean for-the-year distributed line exists. distribution_paid set NULL (honest gap).",
       "source_page": 10
     }
-  ]
+  ],
+  "currency_scheme_wave9_2026_07_03": "Wave 9 currency scheme: Suntec City Office Towers strata-units divestment (p22) has NO single transaction_date as-reported — '$15.4m of strata units ... were divested at an average [price]' is an averaged multi-unit sale over FY2025, not a single completion. transaction_date left null (structural)."
 }

@@ -75,8 +75,19 @@
     {
       "type": "distribution_paid_basis",
       "note": "cash distributed during FY (period-mixed): sum of quarterly cash distributions actually paid in FY2025 (1.570 Q4-2024 + 1.563 Q1-2025 + 1.592 Q2-2025 + 1.778 Q3-2025 cents/unit) = S$191,186k; Distribution Statements, p109"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 20000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Group Distribution Statement, p109 (FY ended 31 Dec 2025). A=opening 45,928k; B(for-year, before retention)=207,280k DERIVED = Taxable income 40,717k + Tax exempt dividend income (Note B) 166,563k [Trust column shows Taxable income 207,280k directly]; the disclosed 'Amount available for distribution to Unitholders' line = 253,208k is the CUMULATIVE that folds in the 45,928k opening carry (the trap"
     }
   ],
   "source_page": 10,
-  "distribution_basis": "not_disclosed_rollforward_only"
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "number_of_shareholder_units": 2945448000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 45928000,
+  "distribution_cash_paid": 191186000,
+  "distributable_income_closing": 62022000,
+  "units_to_be_issued": 10092000
 }

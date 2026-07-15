@@ -41,7 +41,9 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 255,021 + Office 139,558 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 255,021 + Office 139,558 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": null,
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -86,7 +88,8 @@
     ],
     "source_page": 141,
     "area_unit": "sqft",
-    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": null
   },
   {
     "symbol": "P40U.SI",
@@ -130,7 +133,9 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 528,148 + Office 97,959 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, NLA (Retail 528,148 + Office 97,959 sq ft) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2015-05-18",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -168,7 +173,9 @@
     "status": "active",
     "flags": [],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2010-01-20",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -206,7 +213,9 @@
     "status": "active",
     "flags": [],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25 from Property Highlights p28-29; GLA (source labels this column GLA, not NLA, for this property) p28; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2013-03-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -250,7 +259,9 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2010-06-28",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -294,7 +305,9 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2010-06-28",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -332,7 +345,9 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, NLA from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2007-05-30",
+    "area_unit": "sqft"
   },
   {
     "symbol": "P40U.SI",
@@ -370,6 +385,8 @@
       }
     ],
     "source_page": 141,
-    "_recovery_note": "NPI/Revenue FY24/25, GFA, lease_term_years (40-year leasehold) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02"
+    "_recovery_note": "NPI/Revenue FY24/25, GFA, lease_term_years (40-year leasehold) from Property Highlights p28-29; npi_pct = NPI / portfolio NPI 150.2m x 100; recovered 2026-07-02",
+    "purchase_date": "2007-08-28",
+    "area_unit": "sqft"
   }
 ]

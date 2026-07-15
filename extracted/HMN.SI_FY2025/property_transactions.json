@@ -17,9 +17,18 @@
     "carrying_value": 51316000,
     "carrying_value_basis": "Note 14 assets-held-for-sale: Somerset Olympic Tower Tianjin investment property 51,316 (disposal-group total 66,531) at 31 Dec 2024 (p196). Verified 2026-06-30.",
     "gain_on_divestment": 17027000,
-    "gain_on_divestment_basis": "Note 28: 'Gain/(loss) on divestment of assets held for sale 17,027'; sole held-for-sale divestment in 2025 (p217). Verified 2026-06-30.",
+    "gain_on_divestment_basis": "Note 28: 'Gain/(loss) on divestment of assets held for sale 17,027'; sole held-for-sale divestment in 2025 (p217). Verified 2026-06-30. | AS-DISCLOSED premium ~c.50% over book value. Divestments Completed in FY2025 table (p10) shows 'c.50%' premium column; footnote 1 (p10): premium based on the property's book value as at 31 December 2023 (divestment entered into in 2024). FS Note 14 (p196): 'The consideration is approximately 50% above the property's carrying value.' Not derived. (Separately, gain_on_divestment 17,027 = Note 28 p217.)",
     "counterparty": "Tianjin Yuchuang Consulting Co. Ltd",
-    "counterparty_source_page": 196
+    "counterparty_source_page": 196,
+    "deal_id": "hmn.si:somerset_olympic_tower_tianjin:divestment:2025",
+    "announced_date": "2024-10-22",
+    "completed_date": "2025-04-15",
+    "gain_loss_pct": 50.0,
+    "gain_basis": "vs_book_value",
+    "source_type": "annual_report",
+    "sale_price": 77400000,
+    "net_sale_proceeds": 64500000,
+    "announcement_refs": null
   },
   {
     "symbol": "HMN.SI",
@@ -38,12 +47,21 @@
     "valuation_basis": "Portfolio Statement (p132), 'At Valuation' Stapled Group 2024 column for Citadines Central Shinjuku Tokyo = $108,647 thousand. Footnote (3) p132: 'The sale price of JPY25.0 billion was agreed on a willing buyer willing seller basis, and represented 100% above the property valuation as at 31 December 2024. The valuation was based on the income approach ... and the cost approach.' This is the independent valuation referenced by the deal footnote, not derived. Recovered null_recovery_round7_2026_07_03.",
     "net_proceeds": 210300000,
     "gain_on_divestment": 82011000,
-    "gain_on_divestment_basis": "Note 28: 'Gain on disposal of investment properties 82,011'; sole investment-property divestment in 2025 (p217). Verified 2026-06-30.",
+    "gain_on_divestment_basis": "Note 28: 'Gain on disposal of investment properties 82,011'; sole investment-property divestment in 2025 (p217). Verified 2026-06-30. | AS-DISCLOSED premium ~c.100%. Portfolio Statement footnote (3) p132: 'The sale price of JPY25.0 billion... represented 100% above the property valuation as at 31 December 2024.' Divestments Completed table (p10) shows 'c.100%' premium; footnote 1 (p10): for this property premium is based on book value as at 30 June 2025. Not derived. (Separately, gain_on_divestment 82,011 = Note 28 p217 'Gain on disposal of investment properties'.)",
     "carrying_value": 128289000,
     "carrying_value_basis": "DERIVED: net_proceeds 210,300 - gain 82,011 = 128,289 (no standalone per-property carrying line disclosed). Verified 2026-06-30.",
     "counterparty": "ML Estate Co., Ltd.",
     "counterparty_source_page": 132,
-    "_recovery_note": "Portfolio Statement footnote (3) p132: 'divested to an unrelated third party, ML Estate Co., Ltd. which would warehouse the property for CapitaLand Japan Kabushiki Kaisha, a related party.' Recovered 2026-07-02."
+    "_recovery_note": "Portfolio Statement footnote (3) p132: 'divested to an unrelated third party, ML Estate Co., Ltd. which would warehouse the property for CapitaLand Japan Kabushiki Kaisha, a related party.' Recovered 2026-07-02.",
+    "deal_id": "hmn.si:citadines_central_shinjuku_tokyo:divestment:2025",
+    "completed_date": "2025-10-02",
+    "gain_loss_pct": 100.0,
+    "gain_basis": "vs_book_value",
+    "valuation_date": "2024-12-31",
+    "source_type": "annual_report",
+    "sale_price": 222700000,
+    "net_sale_proceeds": 210300000,
+    "announcement_refs": null
   },
   {
     "symbol": "HMN.SI",
@@ -63,7 +81,16 @@
     "counterparty_source_page": 132,
     "_recovery_note": "Portfolio Statement footnote (4) p132: 'acquired Ibis Styles Tokyo Ginza from GKK Godo Kaisha, an unrelated third party.' Recovered 2026-07-02.",
     "valuation": 136000000,
-    "valuation_basis": "Portfolio Listing (p56): 'Agreed Property Value at Acquisition (S$'million)' for ibis Styles Tokyo Ginza = 136.0. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03."
+    "valuation_basis": "Portfolio Listing (p56): 'Agreed Property Value at Acquisition (S$'million)' for ibis Styles Tokyo Ginza = 136.0. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03.",
+    "deal_id": "hmn.si:ibis_styles_tokyo_ginza:acquisition:2025",
+    "completed_date": "2025-01-31",
+    "gain_basis": null,
+    "valuation_date": "2025-01-31",
+    "source_type": "annual_report",
+    "sale_price": 178500000,
+    "carrying_value": 145345000,
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Acquisition - no per-property purchase price disclosed (JPY21.0 billion / S$178.5m headline on p11 is a BLENDED price covering ibis Styles Tokyo Ginza + Chisun Budget Kanazawa Ekimae jointly), so no deal premium/discount computable. Portfolio Statement 'At Valuation' 145,345 (31 Dec 2025) vs Agreed Property Value at Acquisition 136.0m reflects post-acquisition revaluation, not a deal gain. Not derived/plugged."
   },
   {
     "symbol": "HMN.SI",
@@ -83,7 +110,15 @@
     "_recovery_note": "Portfolio Statement footnote (2) p132: 'acquired Chisun Budget Kanazawa Ekimae from GKK Godo Kaisha, an unrelated third party.' Recovered 2026-07-02.",
     "valuation": 42500000,
     "valuation_basis": "Portfolio Listing (p56): 'Agreed Property Value at Acquisition (S$'million)' for Chisun Budget Kanazawa Ekimae = 42.5. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03.",
-    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 'Investments Completed in FY 2025' table gives only a BLENDED JPY21.0bn (S$178.5m) price covering ibis Styles Tokyo Ginza + Chisun Budget Kanazawa Ekimae jointly (row 2 for this property has blank Purchase Price/NOI Yield/Acquisition Date cells on p11, merged with row 1). No per-property split found elsewhere (Portfolio Statement p132 gives only 'At Valuation' 47,106, no acquisition-cost column; Portfolio Listing p56 gives Agreed Property Value, not purchase price). Confirmed genuinely absent null_recovery_round7_2026_07_03."
+    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 'Investments Completed in FY 2025' table gives only a BLENDED JPY21.0bn (S$178.5m) price covering ibis Styles Tokyo Ginza + Chisun Budget Kanazawa Ekimae jointly (row 2 for this property has blank Purchase Price/NOI Yield/Acquisition Date cells on p11, merged with row 1). No per-property split found elsewhere (Portfolio Statement p132 gives only 'At Valuation' 47,106, no acquisition-cost column; Portfolio Listing p56 gives Agreed Property Value, not purchase price). Confirmed genuinely absent null_recovery_round7_2026_07_03.",
+    "deal_id": "hmn.si:chisun_budget_kanazawa_ekimae:acquisition:2025",
+    "completed_date": "2025-01-31",
+    "gain_basis": null,
+    "valuation_date": "2025-01-31",
+    "source_type": "annual_report",
+    "carrying_value": 47106000,
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Acquisition - no per-property purchase price disclosed (part of blended JPY21.0 billion / S$178.5m covering ibis Styles Tokyo Ginza + Chisun Budget Kanazawa Ekimae; this property's Purchase Price/NOI/Date cells on p11 are blank). No deal premium/discount computable. Not derived/plugged."
   },
   {
     "symbol": "HMN.SI",
@@ -103,7 +138,16 @@
     "counterparty_source_page": 135,
     "_recovery_note": "Portfolio Statement footnote (5) p135/136: 'acquired Pre de Cort Nishikyogoku, Pregio Esaka South and Splendide Namba West from HSJPN2 TMK, an unrelated third party.' Recovered 2026-07-02.",
     "valuation": 13700000,
-    "valuation_basis": "Portfolio Listing (p57): 'Agreed Property Value at Acquisition (S$'million)' for Pre de Cort Nishikyogoku = 13.7. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03."
+    "valuation_basis": "Portfolio Listing (p57): 'Agreed Property Value at Acquisition (S$'million)' for Pre de Cort Nishikyogoku = 13.7. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03.",
+    "deal_id": "hmn.si:pre_de_cort_nishikyogoku:acquisition:2025",
+    "completed_date": "2025-08-27",
+    "gain_basis": null,
+    "valuation_date": "2025-08-27",
+    "source_type": "annual_report",
+    "sale_price": 34200000,
+    "carrying_value": 14872000,
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Acquisition - no per-property purchase price disclosed (JPY4.0 billion / S$34.2m headline on p11 is a BLENDED price covering the three rental-housing acquisitions: Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South). No deal premium/discount computable. Not derived/plugged."
   },
   {
     "symbol": "HMN.SI",
@@ -123,7 +167,15 @@
     "_recovery_note": "Portfolio Statement footnote (5) p136: 'acquired Pre de Cort Nishikyogoku, Pregio Esaka South and Splendide Namba West from HSJPN2 TMK, an unrelated third party.' Recovered 2026-07-02.",
     "valuation": 10600000,
     "valuation_basis": "Portfolio Listing (p57): 'Agreed Property Value at Acquisition (S$'million)' for Splendide Namba West = 10.6. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03.",
-    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 table gives only a BLENDED JPY4.0bn (S$34.2m) price covering the three rental-housing acquisitions (Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South) jointly; this row's Purchase Price/NOI Yield/Acquisition Date cells on p11 are blank, merged with row for Pre de Cort Nishikyogoku. No per-property split found elsewhere. Confirmed genuinely absent null_recovery_round7_2026_07_03."
+    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 table gives only a BLENDED JPY4.0bn (S$34.2m) price covering the three rental-housing acquisitions (Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South) jointly; this row's Purchase Price/NOI Yield/Acquisition Date cells on p11 are blank, merged with row for Pre de Cort Nishikyogoku. No per-property split found elsewhere. Confirmed genuinely absent null_recovery_round7_2026_07_03.",
+    "deal_id": "hmn.si:splendide_namba_west:acquisition:2025",
+    "completed_date": "2025-08-27",
+    "gain_basis": null,
+    "valuation_date": "2025-08-27",
+    "source_type": "annual_report",
+    "carrying_value": 11427000,
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Acquisition - no per-property purchase price disclosed (part of blended JPY4.0 billion / S$34.2m covering the three rental-housing acquisitions; this property's price cells on p11 are blank). No deal premium/discount computable. Not derived/plugged."
   },
   {
     "symbol": "HMN.SI",
@@ -143,6 +195,14 @@
     "_recovery_note": "Portfolio Statement footnote (5) p135: 'acquired Pre de Cort Nishikyogoku, Pregio Esaka South and Splendide Namba West from HSJPN2 TMK, an unrelated third party.' Recovered 2026-07-02.",
     "valuation": 9900000,
     "valuation_basis": "Portfolio Listing (p57): 'Agreed Property Value at Acquisition (S$'million)' for Pregio Esaka South = 9.9. Column expressed in SGD across all properties in this table (sibling convention). Recovered null_recovery_round7_2026_07_03.",
-    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 table gives only a BLENDED JPY4.0bn (S$34.2m) price covering the three rental-housing acquisitions (Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South) jointly; this row's Purchase Price/NOI Yield/Acquisition Date cells on p11 are blank, merged with row for Pre de Cort Nishikyogoku. No per-property split found elsewhere. Confirmed genuinely absent null_recovery_round7_2026_07_03."
+    "consideration_confirmed_absent_basis": "consideration (purchase_price) intentionally left null: p11 table gives only a BLENDED JPY4.0bn (S$34.2m) price covering the three rental-housing acquisitions (Pre de Cort Nishikyogoku, Splendide Namba West, Pregio Esaka South) jointly; this row's Purchase Price/NOI Yield/Acquisition Date cells on p11 are blank, merged with row for Pre de Cort Nishikyogoku. No per-property split found elsewhere. Confirmed genuinely absent null_recovery_round7_2026_07_03.",
+    "deal_id": "hmn.si:pregio_esaka_south:acquisition:2025",
+    "completed_date": "2025-08-27",
+    "gain_basis": null,
+    "valuation_date": "2025-08-27",
+    "source_type": "annual_report",
+    "carrying_value": 10923000,
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Acquisition - no per-property purchase price disclosed (part of blended JPY4.0 billion / S$34.2m covering the three rental-housing acquisitions; this property's price cells on p11 are blank). No deal premium/discount computable. Not derived/plugged."
   }
 ]

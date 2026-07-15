@@ -42,7 +42,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -72,7 +73,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -102,7 +104,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -147,7 +150,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -177,7 +181,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -207,7 +212,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -237,7 +243,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -267,7 +274,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -297,7 +305,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -328,7 +337,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -368,7 +378,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -405,7 +416,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -447,7 +459,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -477,7 +490,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -510,7 +524,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -550,7 +565,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -589,7 +605,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-11-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -628,7 +645,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-11-24"
   },
   {
     "symbol": "ODBU.SI",
@@ -673,7 +691,8 @@
     ],
     "flags": [],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2022-07-28"
   },
   {
     "symbol": "ODBU.SI",
@@ -715,7 +734,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2025-08-01"
   },
   {
     "symbol": "ODBU.SI",
@@ -747,7 +767,8 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   },
   {
     "symbol": "ODBU.SI",
@@ -779,6 +800,7 @@
       }
     ],
     "source_page": 167,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2020-03-12"
   }
 ]

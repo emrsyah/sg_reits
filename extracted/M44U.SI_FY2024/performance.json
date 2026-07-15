@@ -1,0 +1,60 @@
+{
+  "symbol": "M44U.SI",
+  "financial_year": 2024,
+  "portfolio_value": 13183234000,
+  "properties_location": "Singapore, Australia, China, Hong Kong SAR, India, Japan, Malaysia, South Korea, Vietnam",
+  "gross_revenue": 733889000,
+  "net_property_income": 634944000,
+  "net_distributable_income": 447149000,
+  "distribution_paid": 445935000,
+  "adjusted_distributable_income": null,
+  "distribution_basis": "full_payout_no_retention_line",
+  "dpu": 9.003,
+  "distribution_record": [
+    {
+      "period": "1 Apr 2023 to 30 Jun 2023",
+      "dpu": 2.271,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jul 2023 to 30 Sep 2023",
+      "dpu": 2.268,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Oct 2023 to 31 Dec 2023",
+      "dpu": 2.253,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jan 2024 to 31 Mar 2024",
+      "dpu": 2.211,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 31888,
+  "number_of_shareholder_units": 4993959000,
+  "aggregate_leverage": 38.9,
+  "interest_coverage_ratio": 3.1,
+  "cost_of_debt": 2.5,
+  "weighted_avg_debt_maturity": 3.8,
+  "nav_per_unit": 1.38,
+  "wale": 3.0,
+  "portfolio_occupancy": 96.0,
+  "dpu_period_months": 12,
+  "currency": "SGD",
+  "date": "2024-03-31",
+  "source_page": 6,
+  "flags": [
+    "FYE 31 Mar 2024 (FY23/24). portfolio_value=13,200,000,000 = AUM headline S$13.2b (audited Group IP=13,140,348,000). interest_coverage_ratio=3.1 = capital-mgmt-note basis (note 'ICR 2.9 (2024: 3.1)'; consistent with FY2025 note-basis); MAS-definition trailing-12m ICR headline was 3.7x. NDI=447,149 (amount available for distribution for the year, before retention); distribution_paid=445,935 = 'Total Unitholders' distribution (incl capital return)' Note B (period-mixed cash); retention delta=1,214. distribution_record omitted: rollforward tranches straddle prior-year stubs (not clean FY2024 quarters). wale 3.0y by NLA.",
+    "round2 fix: distribution_record populated from p36 by-fiscal-quarter DPU table (2.271/2.268/2.253/2.211=9.003); prior 'omitted' reason refuted. Per-quarter ex/pay dates not tabulated.",
+    "round2 fix: portfolio_value=13,183,234,000 = Portfolio Review headline total (p35), = Sigma properties.market_valuation 13,088,234,000 + right-of-use leasehold land 95,000,000 (audited consolidated investment properties Note 14 = 13,140,348,000). Was 13,200,000,000 (rounded AUM headline). _notes carries 13,183,234,000."
+  ],
+  "distributable_income_opening": 110000000,
+  "distribution_cash_paid": 445935000,
+  "distributable_income_closing": 111214000
+}

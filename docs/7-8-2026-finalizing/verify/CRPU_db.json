@@ -1,0 +1,34 @@
+[
+ {
+  "property_name": "Sasseur (Chongqing Bishan) Outlet",
+  "market_valuation": 139795000.0,
+  "currency": "SGD",
+  "original_value": 761000000.0,
+  "original_currency": "CNY",
+  "source_page": 159
+ },
+ {
+  "property_name": "Sasseur (Chongqing Liangjiang) Outlet",
+  "market_valuation": 600694000.0,
+  "currency": "SGD",
+  "original_value": 3270000000.0,
+  "original_currency": "CNY",
+  "source_page": 159
+ },
+ {
+  "property_name": "Sasseur (Hefei) Outlet",
+  "market_valuation": 509580000.0,
+  "currency": "SGD",
+  "original_value": 2774000000.0,
+  "original_currency": "CNY",
+  "source_page": 159
+ },
+ {
+  "property_name": "Sasseur (Kunming) Outlet",
+  "market_valuation": 286202000.0,
+  "currency": "SGD",
+  "original_value": 1558000000.0,
+  "original_currency": "CNY",
+  "source_page": 159
+ }
+]

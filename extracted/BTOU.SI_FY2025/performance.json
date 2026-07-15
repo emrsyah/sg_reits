@@ -40,5 +40,11 @@
     "portfolio_occupancy_note": "Portfolio occupancy 67.7% (committed leases, p8).",
     "number_of_unitholders_note": "Statistics of Unitholdings as at 16 March 2026 (p93)."
   },
-  "distribution_basis": "suspended"
+  "distribution_basis": "suspended",
+  "number_of_shareholder_units": 1776565000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 112608000,
+  "distribution_cash_paid": 0,
+  "distributable_income_closing": 138150000,
+  "units_to_be_issued": 58559000
 }

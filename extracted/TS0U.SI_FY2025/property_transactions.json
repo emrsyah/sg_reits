@@ -15,7 +15,15 @@
     "completion_date": "2026-03",
     "status": "subsequent_event",
     "note": "Acquisition of 19.9% interest in Salesforce Tower, a freehold 55-storey prime commercial tower in Circular Quay, Sydney, via 19.9% of units in three Lendlease target trusts and 22.0% of shares in the target trustee. Announced 24 Feb 2026, completed Mar 2026. Subsequent event (post FY2025 year-end); marks start of Phase 3 value-creation journey.",
-    "source_page": 175
+    "source_page": 175,
+    "deal_id": "ts0u.si:salesforce_tower_180_george_street_sydney:acquisition:2026",
+    "announced_date": "2026-02-24",
+    "gain_basis": null,
+    "source_type": "annual_report",
+    "transaction_type": "acquisition",
+    "transaction_date": "2026-02-24",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Not applicable - acquisition; no gain/loss, premium%, or independent valuation disclosed in AR. Consideration A$195,538,000 (equivalent S$175,046,000) for 19.9% interest."
   },
   {
     "symbol": "TS0U.SI",
@@ -36,6 +44,18 @@
     "completion_date": "2024-12-27",
     "status": "divested",
     "note": "Divested in FY2024 (completed 27 Dec 2024) for RMB 1,916,925,000 (~S$357,382,000); loss on disposal of subsidiary S$26.4m recognised in FY2024. Recorded here for audit-trail context: its absence is the main driver of OUE REIT's FY2025 YoY revenue/NPI declines (like-for-like rev/NPI excl. Lippo Plaza grew +0.1%/+1.6%).",
-    "source_page": 120
+    "source_page": 120,
+    "deal_id": "ts0u.si:lippo_plaza_shanghai:divestment:2024",
+    "announced_date": "2024-12-20",
+    "completed_date": "2024-12-27",
+    "gain_loss_pct": -8.49,
+    "gain_basis": "vs_book_value",
+    "source_type": "annual_report",
+    "sale_price": 357382000,
+    "net_sale_proceeds": 299460000,
+    "transaction_type": "divestment",
+    "transaction_date": "2024-12-27",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "vs_book_value (derived, FLAGGED): disclosed loss on disposal of subsidiary -S$26,427k / investment-property carrying value S$311,136k = -8.49%. Caveat: per Cash Flow Note B the S$26.4m loss was actually struck against net assets disposed S$325,242k incl. S$54,614k FCTR recycling and S$32,323k disposal tax, NOT against the property carrying value. Sale consideration S$357,382k was ~14.86% above property carrying value ((357,382-311,136)/311,136). Using net_sale_proceeds S$299,460k vs carrying value gives -3.75%. No independent property valuation disclosed in AR -> valuation null."
   }
 ]

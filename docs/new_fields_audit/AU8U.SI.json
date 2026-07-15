@@ -1,0 +1,29 @@
+{
+  "symbol": "AU8U.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 1740902808, "page": 143, "note": "Total issued Units as at end of year 1,740,902,808, Note 16(a) p143"},
+    "dpu_period_months": {"value": 12, "page": 13, "note": "FY2025 full year DPU 4.82 S cents, period Jan-Dec 2025, Manager's report p13"}
+  },
+  "properties": [
+    {"property_name": "CapitaMall Xizhimen", "purchase_date": "Phase 1: 05 February 2008; Phase 2: 29 September 2008", "page": 42, "note": "Acquisition Date (completion of SPV acquisition), Portfolio Details p42 (two phases)"},
+    {"property_name": "Rock Square", "purchase_date": "51% stake: 31 January 2018; 49% stake: 30 December 2020", "page": 43, "note": "Acquisition Date, Portfolio Details p43 (two stakes)"},
+    {"property_name": "CapitaMall Wangjing", "purchase_date": "2006-12-01", "page": 44, "note": "Acquisition Date 01 December 2006, Portfolio Details p44"},
+    {"property_name": "CapitaMall Grand Canyon", "purchase_date": "2013-12-30", "page": 46, "note": "Acquisition Date 30 December 2013, Portfolio Details p46"},
+    {"property_name": "CapitaMall Xuefu", "purchase_date": "2019-08-30", "page": 45, "note": "Acquisition Date 30 August 2019, Portfolio Details p45"},
+    {"property_name": "CapitaMall Xinnan", "purchase_date": "2016-09-30", "page": 47, "note": "Acquisition Date 30 September 2016, Portfolio Details p47"},
+    {"property_name": "CapitaMall Nuohemule", "purchase_date": "2019-12-26", "page": 48, "note": "Acquisition Date 26 December 2019 (direct asset acquisition), Portfolio Details p48"},
+    {"property_name": "CapitaMall Aidemengdun", "purchase_date": "2019-08-30", "page": 49, "note": "Acquisition Date 30 August 2019, Portfolio Details p49"},
+    {"property_name": "Ascendas Xinsu Portfolio", "purchase_date": "2021-01-04", "page": 50, "note": "Acquisition Date 04 January 2021, Portfolio Details p50"},
+    {"property_name": "Singapore-Hangzhou Science & Technology Park (Phase I)", "purchase_date": "2021-06-18", "page": 51, "note": "Acquisition Date 18 June 2021, Portfolio Details p51"},
+    {"property_name": "Singapore-Hangzhou Science & Technology Park (Phase II)", "purchase_date": "2021-06-18", "page": 52, "note": "Acquisition Date 18 June 2021, Portfolio Details p52"},
+    {"property_name": "Ascendas Innovation Towers", "purchase_date": "2021-02-10", "page": 53, "note": "Acquisition Date 10 February 2021, Portfolio Details p53"},
+    {"property_name": "Ascendas Innovation Hub", "purchase_date": "2021-02-26", "page": 54, "note": "Acquisition Date 26 February 2021, Portfolio Details p54"},
+    {"property_name": "Shanghai Fengxian Logistics Park", "purchase_date": "2021-11-10", "page": 55, "note": "Acquisition Date 10 November 2021, Portfolio Details p55"},
+    {"property_name": "Chengdu Shuangliu Logistics Park", "purchase_date": "2021-11-10", "page": 56, "note": "Acquisition Date 10 November 2021, Portfolio Details p56"},
+    {"property_name": "Wuhan Yangluo Logistics Park", "purchase_date": "2021-11-10", "page": 55, "note": "Acquisition Date 10 November 2021, Portfolio Details p55"},
+    {"property_name": "Kunshan Bacheng Logistics Park", "purchase_date": "2021-11-10", "page": 56, "note": "Acquisition Date 10 November 2021, Portfolio Details p56"},
+    {"property_name": "CapitaMall Yuhuating", "purchase_date": null, "page": null, "note": "held indirectly via 5% interest in CLCR; AR discloses only Year of Opening 2005 (p57), no acquisition date"}
+  ],
+  "summary": {"n_properties": 18, "purchase_date_filled": 17, "purchase_date_null": 1}
+}

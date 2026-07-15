@@ -1,0 +1,1416 @@
+{
+  "symbol": "A17U.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 4611952000,
+      "page": 175,
+      "note": "Note 17 Units in Issue and to be Issued: Units issued at end of the financial year 4,611,952 ('000); cross-checks Statement of Financial Position 'Units in issue (000) 4,611,952'"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 41,
+      "note": "full FY 1 Jan 2025 to 31 Dec 2025; DPU 15.005 cents stated 'for the period from 1 January 2025 to 31 December 2025'"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "Nexus @one-north",
+      "purchase_date": "4 Sep 2013",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Galaxis",
+      "purchase_date": "30 Jun 2021",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Grab Headquarters",
+      "purchase_date": "30 Jul 2021",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Shugart",
+      "purchase_date": "25 May 2023",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techquest",
+      "purchase_date": "5 Oct 2005",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Acer Building",
+      "purchase_date": "19 Mar 2008",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "31 International Business Park",
+      "purchase_date": "26 Jun 2008",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Nordic European Centre",
+      "purchase_date": "8 Jul 2011",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "17 Changi Business Park Central 1",
+      "purchase_date": "19 Nov 2002",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1 Changi Business Park Avenue 1",
+      "purchase_date": "30 Oct 2003",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Hansapoint",
+      "purchase_date": "22 Jan 2008",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1, 3 & 5 Changi Business Park Crescent",
+      "purchase_date": "16 Feb 2009, 25 Sep 2009 & 31 Dec 2010",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column (multiple acquisition dates disclosed; stored verbatim)"
+    },
+    {
+      "property_name": "DBS Asia Hub",
+      "purchase_date": "31 Mar 2010 & 15 April 2015",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column (multiple acquisition dates disclosed; stored verbatim)"
+    },
+    {
+      "property_name": "3 Changi Business Park Vista",
+      "purchase_date": "8 Dec 2011",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "ONE@Changi City",
+      "purchase_date": "1 Mar 2016",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cintech I",
+      "purchase_date": "29 Mar 2012",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cintech II",
+      "purchase_date": "29 Mar 2012",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "12, 14 & 16 Science Park Drive",
+      "purchase_date": "16 Feb 2017",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5 Science Park Drive",
+      "purchase_date": "6 Aug 2025",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Alpha",
+      "purchase_date": "19 Nov 2002",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Capricorn",
+      "purchase_date": "19 Nov 2002",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "FM Global Centre",
+      "purchase_date": "11 Dec 2019",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Neuros & Immunos",
+      "purchase_date": "31 Mar 2011",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Nucleos",
+      "purchase_date": "11 Dec 2019",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Rutherford & Oasis",
+      "purchase_date": "26 Mar 2008",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cintech III & IV",
+      "purchase_date": "29 Mar 2012",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Aries, Sparkle & Gemini",
+      "purchase_date": "19 Nov 2002",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Galen",
+      "purchase_date": "25 Mar 2013",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Kendall",
+      "purchase_date": "30 Mar 2015",
+      "page": 119,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techlink",
+      "purchase_date": "19 Nov 2002",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Siemens Centre",
+      "purchase_date": "12 Mar 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Infineon Building",
+      "purchase_date": "1 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techpoint",
+      "purchase_date": "1 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "KA Centre",
+      "purchase_date": "2 Mar 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Pacific Tech Centre",
+      "purchase_date": "1 Jul 2025",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techview",
+      "purchase_date": "5 Oct 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1 Jalan Kilang",
+      "purchase_date": "27 Oct 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "30 Tampines Industrial Avenue 3",
+      "purchase_date": "15 Nov 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "138 Depot Road",
+      "purchase_date": "15 Mar 2006",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "2 Changi South Lane",
+      "purchase_date": "1 Feb 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Serangoon North Avenue 5",
+      "purchase_date": "25 Mar 2008",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Corporation Place",
+      "purchase_date": "8 Dec 2011",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "31 Ubi Road 1",
+      "purchase_date": "21 Feb 2006",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "80 Bendemeer Road",
+      "purchase_date": "30 Jun 2014",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Schneider Electric Building",
+      "purchase_date": "27 Feb 2006",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "10 Toh Guan Road",
+      "purchase_date": "5 Mar 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techplace I",
+      "purchase_date": "19 Nov 2002",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Techplace II",
+      "purchase_date": "19 Nov 2002",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "OSIM Headquarters",
+      "purchase_date": "20 Jun 2003",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "12 Woodlands Loop",
+      "purchase_date": "29 Jul 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "247 Alexandra Road",
+      "purchase_date": "1 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5 Tai Seng Drive",
+      "purchase_date": "1 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "35 Tampines Street 92",
+      "purchase_date": "1 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "53 Serangoon North Avenue 4",
+      "purchase_date": "27 Dec 2004",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "3 Tai Seng Drive",
+      "purchase_date": "1 Apr 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "52 Serangoon North Avenue 4",
+      "purchase_date": "4 Apr 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Tampines Biz-Hub",
+      "purchase_date": "5 Oct 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "455A Jalan Ahmad Ibrahim",
+      "purchase_date": "5 Oct 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "37A Tampines Street 92",
+      "purchase_date": "1 Dec 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Hamilton Sundstrand Building",
+      "purchase_date": "9 Dec 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "21 Changi North Rise",
+      "purchase_date": "3 Jan 2006 & 20 Mar 2008",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column (multiple acquisition dates disclosed; stored verbatim)"
+    },
+    {
+      "property_name": "Ubi Biz-Hub",
+      "purchase_date": "27 Mar 2006",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "2 Senoko South Road",
+      "purchase_date": "8 Jan 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "18 Woodlands Loop",
+      "purchase_date": "1 Feb 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Woodlands Terrace",
+      "purchase_date": "1 Feb 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "11 Woodlands Terrace",
+      "purchase_date": "1 Feb 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "FoodAxis @ Senoko",
+      "purchase_date": "15 May 2007",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "31 Joo Koon Circle",
+      "purchase_date": "30 Mar 2010",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Aperia",
+      "purchase_date": "8 Aug 2014",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "UBIX",
+      "purchase_date": "1 Apr 2005 & 16 May 2005",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column (multiple acquisition dates disclosed; stored verbatim)"
+    },
+    {
+      "property_name": "622 Lorong 1 Toa Payoh",
+      "purchase_date": "11 Jan 2023",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Tuas Connection",
+      "purchase_date": "30 Dec 2025",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Kallang Sector",
+      "purchase_date": "30 Dec 2025",
+      "page": 120,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5 Tampines Central 6",
+      "purchase_date": "02 Mar 2005",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Kim Chuan Telecommunications Complex",
+      "purchase_date": "02 Mar 2005",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "38A Kim Chuan Road",
+      "purchase_date": "11 Dec 2009",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Tai Seng Drive",
+      "purchase_date": "11 Aug 2025",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "20 Tuas Avenue 1",
+      "purchase_date": "19 Feb 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "LogisTech",
+      "purchase_date": "4 Mar 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Changi Logistics Centre",
+      "purchase_date": "9 Mar 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "4 Changi South Lane",
+      "purchase_date": "31 May 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "40 Penjuru Lane",
+      "purchase_date": "21 Jul 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Xilin Districentre A & B",
+      "purchase_date": "2 Dec 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "20 Tuas Avenue 6",
+      "purchase_date": "2 Dec 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Xilin Districentre D",
+      "purchase_date": "9 Dec 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Changi South Street 3",
+      "purchase_date": "28 Dec 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Xilin Districentre C",
+      "purchase_date": "5 May 2005",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "19 & 21 Pandan Avenue",
+      "purchase_date": "23 Sep 2005 & 1 Feb 2008",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column (multiple acquisition dates disclosed; stored verbatim)"
+    },
+    {
+      "property_name": "1 Changi South Lane",
+      "purchase_date": "5 Oct 2005",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Logis Hub @ Clementi",
+      "purchase_date": "5 Oct 2005",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "21 Changi South Avenue 2",
+      "purchase_date": "19 Mar 2008",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15 Changi North Way",
+      "purchase_date": "29 Jul 2008",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Pioneer Hub",
+      "purchase_date": "12 Aug 2008",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "71 Alps Avenue",
+      "purchase_date": "2 Sep 2009",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "90 Alps Avenue",
+      "purchase_date": "20 Jan 2012",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Courts Megastore",
+      "purchase_date": "30 Nov 2006",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Giant Hypermart",
+      "purchase_date": "6 Feb 2007",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5 Toh Guan Road East",
+      "purchase_date": "28 Dec 2004",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1 Buroh Lane",
+      "purchase_date": "2 Feb 2023",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "2 Pioneer Sector 1",
+      "purchase_date": "30 Dec 2025",
+      "page": 121,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "484–490 Great Western Highway",
+      "purchase_date": "23 Oct 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "494–500 Great Western Highway",
+      "purchase_date": "23 Oct 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1A & 1B Raffles Glade",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "7 Grevillea Street",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5 Eucalyptus Place",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "16 Kangaroo Avenue",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1–15 Kellet Close",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "94 Lenore Drive",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1 Distribution Place",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "6–20 Clunies Ross Street",
+      "purchase_date": "22 Feb 2016",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "7 Kiora Crescent",
+      "purchase_date": "24 Feb 2022",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "676–698 Kororoit Creek Road",
+      "purchase_date": "23 Oct 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "700–718 Kororoit Creek Road",
+      "purchase_date": "23 Oct 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "14–28 Ordish Road",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "35–61 South Park Drive",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "2–16 Aylesbury Drive",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "81–89 Drake Boulevard",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9 Andretti Court",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "31 Permas Way",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "162 Australis Drive",
+      "purchase_date": "18 Nov 2015",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "52 Fox Drive",
+      "purchase_date": "3 April 2017",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "169–177 Australis Drive",
+      "purchase_date": "4 June 2018",
+      "page": 122,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "95 Gilmore Road",
+      "purchase_date": "23 Oct 2015",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "99 Radius Drive",
+      "purchase_date": "18 Nov 2015",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1–7 Wayne Goss Drive",
+      "purchase_date": "07 Sep 2018",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cargo Business Park",
+      "purchase_date": "17 Sep 2018",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "500 Green Road",
+      "purchase_date": "11 Feb 2022",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "35 Baile Road",
+      "purchase_date": "23 Oct 2015",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "197–201 Coward Street",
+      "purchase_date": "9 Sep 2016",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1–5 Thomas Holt Drive",
+      "purchase_date": "13 Jan 2021",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "MQX4",
+      "purchase_date": "17 Oct 2023",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "100 Wickham Street",
+      "purchase_date": "25 Sep 2017",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "108 Wickham Street",
+      "purchase_date": "22 Dec 2017",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "254 Wellington Road",
+      "purchase_date": "11 Sep 2020",
+      "page": 123,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Market Garden Road",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Common Road",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Units 1–5, Export Drive",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Astmoor Road",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Transpennine 200",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Leacroft Road",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Hawleys Lane",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8 Leacroft Road",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Howard House",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Units 1–2, Tower Lane",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Lodge Road",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Eastern Avenue",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Vernon Road",
+      "purchase_date": "16 Aug 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "1 Sun Street",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Triangle",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 103, Stonebridge Cross Business Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 302, Stonebridge Cross Business Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 124,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 401, Stonebridge Cross Business Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 402, Stonebridge Cross Business Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 404, Stonebridge Cross Business Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 1, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 2, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 3, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 4, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 5, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 8, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 13, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 14, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 16, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 17, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 18, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 19, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 20, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 21, Wellesbourne Distribution Park",
+      "purchase_date": "4 Oct 2018",
+      "page": 125,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "12 Park Farm Road",
+      "purchase_date": "16 Aug 2018",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Units 1a, 1b, 2 & 3, Upwell Street",
+      "purchase_date": "16 Aug 2018",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Unit 3, Brookfields Way",
+      "purchase_date": "16 Aug 2018",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Lowfields Way",
+      "purchase_date": "4 Oct 2018",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Croydon",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cressex Business Park",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Chess Building",
+      "purchase_date": "17 Aug 2023",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Reynolds House",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Paul van Vlissingenstraat",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Gyroscoopweg",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Cateringweg",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Montigny-le-Bretonneux",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Saclay",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Bievres",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Chemin de L'Epinglier",
+      "purchase_date": "17 Mar 2021",
+      "page": 126,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5005 & 5010 Wateridge",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "10020 Pacific Mesa Boulevard",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15051 Avenue of Science",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15073 Avenue of Science",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15231, 15253 & 15333 Avenue of Science",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15378 Avenue of Science",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "15435 & 15445 Innovation Drive",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "505 Brannan Street",
+      "purchase_date": "21 Nov 2020",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "510 Townsend Street",
+      "purchase_date": "21 Nov 2020",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "5200 East & West Paramount Parkway",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Perimeter One",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Perimeter Two",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Perimeter Three",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Perimeter Four",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Heartwood",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "The Commons",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Greenbrier Court",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Ridgeview",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Waterside",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8300 Creekside",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8305 Creekside",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8405 Nimbus",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8500 Creekside",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Creekside 5",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Creekside 6",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9205 Gemini",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "9405 Gemini",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Parkside",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "8700–8770 Nimbus",
+      "purchase_date": "11 Dec 2019",
+      "page": 127,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "6055 Lusk Boulevard",
+      "purchase_date": "11 Dec 2019",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Crossroads Distribution Center",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Lackman Business Center 1–3",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Lackman Business Center 4",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Continental Can",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "North Topping",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Warren",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Quebec",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Saline",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Levee",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Airworld 1",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "Airworld 2",
+      "purchase_date": "5 Nov 2021",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "540–570 Congress Circle South",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "490 Windy Point Drive",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "472–482 Thomas Drive",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "13144 South Pulaski Road",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "3950 Sussex Avenue",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "2500 South 25th Avenue",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "501 South Steward Road",
+      "purchase_date": "10 Jun 2022",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    },
+    {
+      "property_name": "DHL Indianapolis Logistics Center",
+      "purchase_date": "15 Jan 2025",
+      "page": 128,
+      "note": "Investment Properties Portfolio Statement, Acquisition date column"
+    }
+  ],
+  "summary": {
+    "n_properties": 232,
+    "purchase_date_filled": 232,
+    "purchase_date_null": 0,
+    "date_format_note": "purchase_date stored verbatim as-disclosed from the audited Investment Properties Portfolio Statement 'Acquisition date' column (pp.119-128); 5 assets disclose multiple acquisition dates and are kept verbatim; no conversion/derivation applied"
+  }
+}

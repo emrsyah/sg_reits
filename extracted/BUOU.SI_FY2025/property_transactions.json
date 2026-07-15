@@ -13,7 +13,17 @@
     "valuation": 143800000,
     "purchase_price": 140300000,
     "counterparty": "Diamond Land Pte. Ltd.",
-    "note": "Maiden Singapore L&I entry. Purchased from Diamond Land Pte. Ltd. (seller, Property Highlights narrative). Appraised value S$143.8m by Knight Frank on acquisition; purchase price S$140.3m."
+    "note": "Maiden Singapore L&I entry. Purchased from Diamond Land Pte. Ltd. (seller, Property Highlights narrative). Appraised value S$143.8m by Knight Frank on acquisition; purchase price S$140.3m.",
+    "deal_id": "buou.si:2_tuas_south_link_1:acquisition:2024",
+    "completed_date": "2024-11-05",
+    "gain_loss_pct": -2.43,
+    "gain_basis": "vs_valuation",
+    "source_type": "annual_report",
+    "sale_price": 140300000,
+    "transaction_type": "acquisition",
+    "transaction_date": "2024-11-05",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "DERIVED vs_valuation (acquisition discount): (purchase price S$140.3m - appraised value S$143.8m) / S$143.8m = -2.43%. Not disclosed as a %. Appraised value on acquisition by Knight Frank Pte Ltd (capitalisation, DCF and direct comparison methods). Portfolio Statement valuation as at 30 Sep 2025 = S$145.0m (would be +3.35% vs purchase price if used instead)."
   },
   {
     "symbol": "BUOU.SI",
@@ -34,7 +44,20 @@
     "carrying_value": 162052000,
     "carrying_value_currency": "SGD",
     "carrying_value_basis": "Note 10 investment-property movement: 'Disposal of investment properties (162,052)' (group accounts, SGD'000); 357 Collins was the only FY2025 IP divestment. Verified 2026-06-30.",
-    "note": "Exit from Melbourne CBD office. Sold A$192.1m, 0.6% above A$191.0m independent valuation (Savills, 1 Jun 2025). Only investment-property divestment in FY2025, so the S$180,000 'Gain on divestment of investment property' in the Statement of Total Return (group accounts, S$'000) is attributable to this deal. Per-deal net proceeds not separately disclosed."
+    "note": "Exit from Melbourne CBD office. Sold A$192.1m, 0.6% above A$191.0m independent valuation (Savills, 1 Jun 2025). Only investment-property divestment in FY2025, so the S$180,000 'Gain on divestment of investment property' in the Statement of Total Return (group accounts, S$'000) is attributable to this deal. Per-deal net proceeds not separately disclosed.",
+    "deal_id": "buou.si:357_collins_street:divestment:2025",
+    "announced_date": "2025-05-07",
+    "completed_date": "2025-09-30",
+    "gain_loss_pct": 0.58,
+    "gain_basis": "vs_book_value",
+    "valuation_date": "2025-06-01",
+    "source_type": "annual_report",
+    "sale_price": 192100000,
+    "net_sale_proceeds": 160725000,
+    "transaction_type": "divestment",
+    "transaction_date": "2025-09-30",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "DERIVED vs_valuation from audited Divestment table (p37): (consideration A$192.1m - appraised A$191.0m) / A$191.0m = +0.58%. Consistent with the disclosed ~0.6% premium (Letter to Unitholders, p13). Independent valuation by Savills Valuations Pty Ltd (capitalisation and DCF methods), as at 1 Jun 2025 (~S$160.4m). vs_book_value alt: gain_on_divestment S$180k on carrying value S$162,052k = +0.11% (P&L-recognised gain, group SGD accounts)."
   },
   {
     "symbol": "BUOU.SI",
@@ -49,6 +72,17 @@
     "note": "Sale of shares to existing minority shareholders of the property-holding companies, reducing effective interest in each German property to 89.9% (a 3.2%-5.0% reduction); consideration EUR23.2m = S$33,414,000 exactly (Note 6955 / equity statement). This is an NCI/ownership-interest sale recognised in equity (S$0.746m difference to Unitholders), NOT a P&L property divestment - no per-deal gain_on_divestment and no separate property appraised value are disclosed (both confirmed absent).",
     "source_page": 36,
     "counterparty": "Fraser's Property Investments (Europe) B.V., FPI Netherlands B.V. and Stichting Coeval (existing minority shareholders)",
-    "sale_consideration": 33414000
+    "sale_consideration": 33414000,
+    "deal_id": "buou.si:28_german_properties:partial_divestment:2024",
+    "completed_date": "2024-11-28",
+    "gain_basis": null,
+    "valuation_date": "2024-09-30",
+    "source_type": "annual_report",
+    "sale_price": 33414000,
+    "net_sale_proceeds": 32994000,
+    "transaction_type": "partial_divestment",
+    "transaction_date": "2024-11-28",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "N/A - NCI/ownership-interest sale recognised in equity (Statement of Movements in Unitholders' Funds: 'Divestment of ownership interests to non-controlling interests | (746) | 33,414'), NOT a P&L property divestment. No per-deal gain on divestment and no separate deal-level appraised value disclosed (both confirmed absent). Consideration EUR23.2m = S$33,414,000 took into account property valuations as at 30 Sep 2024 (aggregate First Valuation EUR1,037.8m ~= S$1,570.8m for the 28 properties, by Colliers International Valuation GmbH) - an aggregate portfolio valuation, not a deal-level figure."
   }
 ]

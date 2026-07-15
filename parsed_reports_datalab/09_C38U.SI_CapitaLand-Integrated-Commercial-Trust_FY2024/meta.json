@@ -1,0 +1,14 @@
+{
+  "file": "09_C38U.SI_CapitaLand-Integrated-Commercial-Trust_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 193,
+  "pages_written": 193,
+  "seconds": 59.0,
+  "parse_quality_score": null,
+  "runtime": 48.19677734375,
+  "cost_breakdown": {
+    "final_cost_cents": 78.0
+  },
+  "checkpoint_id": "checkpoint_lRrFbouah6btqaFcVVU0cOUKLbS0klx49g_jx9B2szA",
+  "page_range": null
+}

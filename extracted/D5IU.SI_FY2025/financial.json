@@ -9,32 +9,71 @@
     "gross_income": 120910000,
     "operating_expense": 11490000,
     "operating_income": 109420000,
-    "interest_expense_non_operating": 55672000,
+    "interest_expense_non_operating": 56020000.0,
     "pretax_income": 62351000,
     "income_taxes": 30358000,
     "net_income": 31993000,
     "non_operating_income_or_loss": -47069000,
-    "ebit": 117023000,
-    "ebitda": 117023000,
+    "ebit": 109420000.0,
+    "ebitda": 143782000.0,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 57404000.0,
     "diluted_shares_outstanding": 7696809979,
     "weighted_avg_shares_basic": 7696809979,
     "unitholders": 31993000,
-    "perpetual_security_holders": 0,
+    "perpetual_security_holders": -0.0,
     "minorities": null,
-    "_derived": ["operating_income", "operating_expense", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_expense",
+      "operating_income"
+    ],
     "revenue_breakdown": [
-      {"category": "Rental revenue", "amount": 110853000, "class": "Product/Service Sales"},
-      {"category": "Car park revenue", "amount": 12591000, "class": "Product/Service Sales"},
-      {"category": "Service charge and utilities recovery", "amount": 80271000, "class": "Product/Service Sales"},
-      {"category": "Other rental income", "amount": 1294000, "class": "Product/Service Sales"}
+      {
+        "category": "Rental revenue",
+        "amount": 110853000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Car park revenue",
+        "amount": 12591000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Service charge and utilities recovery",
+        "amount": 80271000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other rental income",
+        "amount": 1294000,
+        "class": "Product/Service Sales"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's management fees (base + performance + authorised inv.)", "amount": 8687000, "class": "General & Admin"},
-      {"category": "Trustee's fees", "amount": 391000, "class": "General & Admin"},
-      {"category": "Other expenses", "amount": 2412000, "class": "General & Admin"}
-    ]
+      {
+        "category": "Manager's management fees (base + performance + authorised inv.)",
+        "amount": 8687000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 391000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other expenses",
+        "amount": 2412000,
+        "class": "General & Admin"
+      }
+    ],
+    "depreciation": 25411000
   },
   "balance_sheet_metrics": {
     "total_asset": 1490901000,
@@ -51,8 +90,8 @@
     "investing_cash_flow": -20004000,
     "financing_cash_flow": -78837000,
     "net_cash_flow": -1310000,
-    "free_cash_flow": null,
-    "capital_expenditure": 19368000
+    "free_cash_flow": 78163000.0,
+    "capital_expenditure": 19368000.0
   },
   "employee_breakdown": null,
   "line_items": [

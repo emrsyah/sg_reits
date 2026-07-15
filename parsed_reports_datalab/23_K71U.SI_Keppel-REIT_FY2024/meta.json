@@ -1,0 +1,16 @@
+{
+  "file": "23_K71U.SI_Keppel-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 220,
+  "pages_written": 220,
+  "seconds": 56.1,
+  "parse_quality_score": null,
+  "runtime": 44.11199140548706,
+  "cost_breakdown": {
+    "list_cost_cents": 88,
+    "final_cost_cents": 88,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_VlxnM8wCaMtS4BmGhFknLqfQbSA-laA8vDur8T0Jjfs",
+  "page_range": null
+}

@@ -1,0 +1,46 @@
+{
+  "symbol": "AU8U.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": 46601000,
+    "distributable_income_opening_verbatim": "Amount available for distribution to Unitholders at beginning of the year | 46,601",
+    "distributable_income_opening_source_page": 96,
+    "net_distributable_income": 83926000,
+    "net_distributable_income_verbatim": "Income for the year available for distribution to Unitholders 78,226 + Distribution top-up 5,700 = 83,926 (equivalently 'Amount available for distribution to Unitholders' 130,527 less opening 46,601). NOTE: the cumulative 'Amount available for distribution to Unitholders' 130,527 (the trap) was NOT used as B.",
+    "net_distributable_income_source_page": 96,
+    "distribution_cash_paid": 88743000,
+    "distribution_cash_paid_verbatim": "Distributions to Unitholders during the year: 2.49 cents 1 Jan-30 Jun 2025 (43,325) + 2.64 cents 1 Jul-31 Dec 2024 (45,418) = (88,743)",
+    "distribution_cash_paid_source_page": 96,
+    "distributable_income_closing": 41784000,
+    "distributable_income_closing_verbatim": "Amount available for distributions to Unitholders at end of the year | 41,784",
+    "distributable_income_closing_source_page": 96,
+    "distribution_paid_declared": null,
+    "distribution_paid_declared_verbatim": "FY2025 DPU 4.82 cents (1H2025 2.49 cents = 43,325k paid in-year; 2H2025 2.33 cents declared 5 Feb 2026, p171). No verbatim full-year declared S$ total disclosed in the audited Distribution Statement, so left null per as-disclosed rule (not computed).",
+    "guard_A_plus_B_minus_P": 41784000,
+    "guard_ok": true,
+    "notes": "Consolidated Distribution Statement, year ended 31 Dec 2025, page 96 (Note A adjustments detail p97). Guard exact: A 46,601 + B 83,926 - P 88,743 = E 41,784 (diff 0). B combines the two disclosed for-year additions (income for the year available 78,226 + one-off distribution top-up 5,700 drawn from past divestment gains, funded through debt; footnote (1) p96); both are as-disclosed lines, no imputation. Existing performance.json net_distributable_income 83,900,000 (~DPU-4.82 basis / highlights) is superseded here by the audited-statement 83,926,000. No retention line disclosed (full payout). P is cash paid during FY (period-mixed: 1H2025 tranche + 2H2024 tranche crossing fiscal years), distinct from declared-for-year."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "CapitaMall Yuhuating",
+      "transaction_type": "divestment",
+      "gain_loss_pct": 3.67,
+      "gain_basis": "vs_valuation (DERIVED, flagged): (RMB813.8m sale price - RMB785.0m valuation as at 31 Dec 2024) / RMB785.0m = +3.67%. Sale price from divestment narrative p37 (RMB813.8m); valuation from Consolidated Portfolio Statement (RMB785,000k as at 31 Dec 2024, p102). Audited Distribution Statement note (p97) confirms 'premium over the valuation as at 31 December 2024'. NOT used vs_book_value (SGD carrying vs RMB sale = mixed-currency / FX-distorted). The accounting loss on disposal of subsidiaries S$(11,988)k reflects realisation of FX differences on divestment, not the economic premium.",
+      "valuation_date": "2024-12-31",
+      "announced_date": null,
+      "completed_date": "2025-10-31",
+      "sale_price": 813800000,
+      "valuation": 785000000,
+      "carrying_value": 144879000,
+      "gain_on_divestment": -11988000,
+      "net_sale_proceeds": 131644000,
+      "counterparty": "Changsha 2023 Consulting & Management Co., Ltd. (through Changsha Kaiting Consulting & Management Co., Ltd.), each an indirect wholly owned subsidiary of CapitaLand Mall Asia Limited (asset seeded into CapitaLand Commercial C-REIT / CLCR)",
+      "deal_id": "au8u:capitamall_yuhuating:divestment:2025",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 104,
+      "verbatim": "Net cash inflow on the divestment of subsidiary (p104): Investment properties 144,879; Net identifiable assets and liabilities divested 142,300; (Loss)/gain on disposal of subsidiaries (11,988); Transaction costs 4,950; Non-cash adjustments 4,530; Sale consideration 139,792; Net cash inflow 131,644 ($'000). 'The divestment was completed on 31 October 2025 at a sale price of RMB813.8 million' (p37). Valuation RMB785,000k / S$145,618k as at 31 Dec 2024 (Consolidated Portfolio Statement, divested asset row, p102). Loss on disposal S$(11,988)k in Consolidated Statement of Total Return (p95). Sale price/valuation in RMB; carrying_value, gain_on_divestment, net_sale_proceeds in SGD. announced_date not disclosed as such in audited statements (EGM approval 29 Jul 2025; CLCR listed 29 Sep 2025 - front section only). All key figures & net cash present in AR; in-FY completion; not NCI-level - no announcement_gap."
+    }
+  ]
+}

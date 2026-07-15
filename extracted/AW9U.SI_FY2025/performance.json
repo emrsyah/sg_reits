@@ -59,8 +59,19 @@
     {
       "type": "distribution_paid_basis",
       "note": "cash distributed during FY (period-mixed); S$46,936k Total distribution paid to unitholders, Note 24 p128"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by -51000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Distribution Statement (STATEMENTS OF DISTRIBUTION), Year ended 31 December 2025, Group column, p128. Guard: A(12,113,000)+B(45,851,000)-P(46,936,000)=11,028,000 == E(11,028,000), diff 0 (<=1000 tol). B is the for-year subtotal (Total return after tax 28,982 + tax adjustments 16,869), NOT the cumulative 'Amount available for distribution' line 57,964 which folds in the opening 12,113. No retention"
     }
   ],
   "source_page": 7,
-  "distribution_basis": "full_payout_no_retention_line"
+  "distribution_basis": "full_payout_no_retention_line",
+  "number_of_shareholder_units": 2110969000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 12113000,
+  "distribution_cash_paid": 46936000,
+  "distributable_income_closing": 11028000,
+  "units_to_be_issued": 13307357
 }

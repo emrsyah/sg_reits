@@ -9,32 +9,71 @@
     "gross_income": 36077000,
     "operating_income": 25858000,
     "operating_expense": 10219000,
-    "ebit": 14533000,
-    "ebitda": 14533000,
+    "ebit": 25858000.0,
+    "ebitda": 25993000.0,
     "pretax_income": 10694000,
     "income_taxes": 999000,
     "net_income": 9695000,
     "non_operating_income_or_loss": -15164000,
-    "interest_expense_non_operating": 3839000,
+    "interest_expense_non_operating": 3916000.0,
     "weighted_avg_shares_basic": 1719331000,
     "diluted_shares_outstanding": 1720302427,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 21078000.0,
     "unitholders": 9695000,
     "perpetual_security_holders": null,
     "minorities": null,
     "revenue_breakdown": [
-      {"category": "Rental income from investment properties", "amount": 48922000, "class": "Product/Service Sales"},
-      {"category": "Other revenue from accommodation business", "amount": 1729000, "class": "Other income"}
+      {
+        "category": "Rental income from investment properties",
+        "amount": 48922000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other revenue from accommodation business",
+        "amount": 1729000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's base fee", "amount": 3000000, "class": "General & Admin"},
-      {"category": "Manager's performance fee", "amount": 481000, "class": "General & Admin"},
-      {"category": "Listing fees", "amount": 5319000, "class": "Other expenses"},
-      {"category": "Trustee's fees", "amount": 66000, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 1353000, "class": "Other expenses"}
+      {
+        "category": "Manager's base fee",
+        "amount": 3000000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Manager's performance fee",
+        "amount": 481000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Listing fees",
+        "amount": 5319000,
+        "class": "Other expenses"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 66000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 1353000,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "operating_expense", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_expense",
+      "operating_income"
+    ],
+    "depreciation": 11383000
   },
   "balance_sheet_metrics": {
     "total_asset": 2000061000,
@@ -51,24 +90,108 @@
     "investing_cash_flow": -636582000,
     "financing_cash_flow": 681828000,
     "net_cash_flow": 78512000,
-    "free_cash_flow": null,
-    "capital_expenditure": 1023000
+    "free_cash_flow": -603372000.0,
+    "capital_expenditure": 636638000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "gross_revenue", "amount": 50651000, "label_raw": "Gross revenue", "source_page": 51},
-    {"statement": "expense", "component": "property_operating_expenses", "amount": 14574000, "label_raw": "Property operating expenses", "source_page": 51},
-    {"statement": "adjustment", "component": "interest_income", "amount": 77000, "label_raw": "Interest income", "source_page": 51},
-    {"statement": "adjustment", "component": "other_income", "amount": 14000, "label_raw": "Other income", "source_page": 51},
-    {"statement": "adjustment", "component": "other_losses", "amount": -86000, "label_raw": "Other losses (impairment of trade & other receivables)", "source_page": 51},
-    {"statement": "expense", "component": "management_fee_base", "amount": 3000000, "label_raw": "Manager's management fees - Base fees", "source_page": 51},
-    {"statement": "expense", "component": "management_fee_performance", "amount": 481000, "label_raw": "Manager's management fees - Performance fees", "source_page": 51},
-    {"statement": "expense", "component": "listing_fees", "amount": 5319000, "label_raw": "Listing fees", "source_page": 51},
-    {"statement": "expense", "component": "trustee_fee", "amount": 66000, "label_raw": "Trustee's fees", "source_page": 51},
-    {"statement": "expense", "component": "finance_costs", "amount": 3916000, "label_raw": "Borrowing costs", "source_page": 51},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 1353000, "label_raw": "Other trust expenses", "source_page": 51},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -11383000, "label_raw": "Net change in fair value of investment properties", "source_page": 51},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": 130000, "label_raw": "Net change in fair value of derivatives", "source_page": 51},
-    {"statement": "adjustment", "component": "tax_expense", "amount": -999000, "label_raw": "Tax expenses", "source_page": 51}
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 50651000,
+      "label_raw": "Gross revenue",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 14574000,
+      "label_raw": "Property operating expenses",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "interest_income",
+      "amount": 77000,
+      "label_raw": "Interest income",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_income",
+      "amount": 14000,
+      "label_raw": "Other income",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_losses",
+      "amount": -86000,
+      "label_raw": "Other losses (impairment of trade & other receivables)",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 3000000,
+      "label_raw": "Manager's management fees - Base fees",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_performance",
+      "amount": 481000,
+      "label_raw": "Manager's management fees - Performance fees",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "listing_fees",
+      "amount": 5319000,
+      "label_raw": "Listing fees",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 66000,
+      "label_raw": "Trustee's fees",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 3916000,
+      "label_raw": "Borrowing costs",
+      "source_page": 51
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 1353000,
+      "label_raw": "Other trust expenses",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -11383000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": 130000,
+      "label_raw": "Net change in fair value of derivatives",
+      "source_page": 51
+    },
+    {
+      "statement": "adjustment",
+      "component": "tax_expense",
+      "amount": -999000,
+      "label_raw": "Tax expenses",
+      "source_page": 51
+    }
   ]
 }

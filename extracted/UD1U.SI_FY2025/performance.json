@@ -52,5 +52,8 @@
   ],
   "source_page": 176,
   "note": "portfolio_value=€798.1m (independent valuation total; p.40 marketing + audited note 2.3 p.188 = €798,140k). NPI/gross_revenue from audited Statement of Total Return p.175. net_distributable_income = income to be distributed to Unitholders €14.662m (p.176/p.22); amount available for distribution was €16.291m. KPIs from Key Financial Indicators (p.24 Capital Management) and Key Figures (p.6-7). cost_of_debt = weighted average interest rate 2.8% p.a. wale/portfolio_occupancy exclude Berlin Campus per footnote. nav_per_unit €0.34 (p.24 / SFP p.174). number_of_unitholders as at 12 March 2026 (Statistics of Unitholdings p.223). DPU EUR cents, semi-annual; pay dates from Financial Calendar p.33.",
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1344838000,
+  "dpu_period_months": 12,
+  "distribution_cash_paid": 14662000
 }

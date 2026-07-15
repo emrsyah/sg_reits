@@ -30,7 +30,9 @@
     "source_page": 133,
     "purchase_price": 10500000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -63,7 +65,9 @@
     "source_page": 133,
     "purchase_price": 71000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -96,7 +100,9 @@
     "source_page": 133,
     "purchase_price": 138000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -129,7 +135,9 @@
     "source_page": 133,
     "purchase_price": 16000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -162,7 +170,9 @@
     "source_page": 133,
     "purchase_price": 285000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -195,7 +205,9 @@
     "source_page": 133,
     "purchase_price": 51100000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -228,7 +240,9 @@
     "source_page": 133,
     "purchase_price": 51000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -261,7 +275,9 @@
     "source_page": 133,
     "purchase_price": 110000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -294,7 +310,9 @@
     "source_page": 133,
     "purchase_price": 11000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -327,7 +345,9 @@
     "source_page": 133,
     "purchase_price": 27000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -360,7 +380,9 @@
     "source_page": 133,
     "purchase_price": 17000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -393,7 +415,9 @@
     "source_page": 133,
     "purchase_price": 52000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -426,7 +450,9 @@
     "source_page": 133,
     "purchase_price": 23200000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -459,7 +485,9 @@
     "source_page": 133,
     "purchase_price": 25900000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -492,7 +520,9 @@
     "source_page": 133,
     "purchase_price": 55000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -525,7 +555,9 @@
     "source_page": 133,
     "purchase_price": 51000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -558,7 +590,9 @@
     "source_page": 133,
     "purchase_price": 52000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -591,7 +625,9 @@
     "source_page": 133,
     "purchase_price": 46000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -624,7 +660,9 @@
     "source_page": 133,
     "purchase_price": 26000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -657,7 +695,9 @@
     "source_page": 133,
     "purchase_price": 70000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -690,7 +730,9 @@
     "source_page": 133,
     "purchase_price": 20500000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -723,7 +765,9 @@
     "source_page": 133,
     "purchase_price": 110400000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -756,7 +800,9 @@
     "source_page": 133,
     "purchase_price": 18000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -789,7 +835,9 @@
     "source_page": 133,
     "purchase_price": 22000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -822,7 +870,9 @@
     "source_page": 133,
     "purchase_price": 7200000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -855,7 +905,9 @@
     "source_page": 133,
     "purchase_price": 32000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -888,7 +940,9 @@
     "source_page": 133,
     "purchase_price": 9000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -921,7 +975,9 @@
     "source_page": 133,
     "purchase_price": 38000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -954,7 +1010,9 @@
     "source_page": 133,
     "purchase_price": 64000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -987,7 +1045,9 @@
     "source_page": 133,
     "purchase_price": 27000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1020,7 +1080,9 @@
     "source_page": 133,
     "purchase_price": 13000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1053,7 +1115,9 @@
     "source_page": 133,
     "purchase_price": 26000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1086,7 +1150,9 @@
     "source_page": 133,
     "purchase_price": 24000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1119,7 +1185,9 @@
     "source_page": 133,
     "purchase_price": 11000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1152,7 +1220,9 @@
     "source_page": 133,
     "purchase_price": 26000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1185,7 +1255,9 @@
     "source_page": 133,
     "purchase_price": 169200000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1218,7 +1290,9 @@
     "source_page": 133,
     "purchase_price": 220908000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-03-12",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1251,7 +1325,9 @@
     "source_page": 133,
     "purchase_price": 13000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1284,7 +1360,9 @@
     "source_page": 133,
     "purchase_price": 25900000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1317,7 +1395,9 @@
     "source_page": 133,
     "purchase_price": 45000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1350,7 +1430,9 @@
     "source_page": 133,
     "purchase_price": 27000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1383,7 +1465,9 @@
     "source_page": 133,
     "purchase_price": 97200000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2021-07-22",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1416,7 +1500,9 @@
     "source_page": 133,
     "purchase_price": 49800000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-09-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1449,7 +1535,9 @@
     "source_page": 137,
     "purchase_price": 68000000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2018-06-27",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1482,7 +1570,9 @@
     "source_page": 137,
     "purchase_price": 13700000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2010-10-21",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1513,7 +1603,9 @@
     "status": "active",
     "flags": [],
     "source_page": 137,
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2018-07-13",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1546,7 +1638,9 @@
     "source_page": 139,
     "purchase_price": 95000000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2010-10-21",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1579,7 +1673,9 @@
     "source_page": 139,
     "purchase_price": 52000000000,
     "purchase_price_currency": "JPY",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2023-09-28",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1612,7 +1708,9 @@
     "source_page": 139,
     "purchase_price": 14500000000,
     "purchase_price_currency": "JPY",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Data Centres - Singapore/Japan), Property Portfolio Overview p47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2024-10-29",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1645,7 +1743,9 @@
     "source_page": 139,
     "purchase_price": 44000000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1678,7 +1778,9 @@
     "source_page": 139,
     "purchase_price": 268300000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2019-02-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1709,7 +1811,9 @@
     "status": "active",
     "flags": [],
     "source_page": 139,
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1740,7 +1844,9 @@
     "status": "active",
     "flags": [],
     "source_page": 139,
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2013-10-04",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1773,7 +1879,9 @@
     "source_page": 139,
     "purchase_price": 46100000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1806,7 +1914,9 @@
     "source_page": 139,
     "purchase_price": 129900000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1839,7 +1949,9 @@
     "source_page": 139,
     "purchase_price": 43400000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1872,7 +1984,9 @@
     "source_page": 139,
     "purchase_price": 39400000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Hi-Tech Buildings), Property Portfolio Overview p49 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1905,7 +2019,9 @@
     "source_page": 141,
     "purchase_price": 98500000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1938,7 +2054,9 @@
     "source_page": 141,
     "purchase_price": 213900000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -1971,7 +2089,9 @@
     "source_page": 141,
     "purchase_price": 91000000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "GFA/NLA from Detailed Property Information (Business Park Buildings), Property Portfolio Overview p51 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2003,7 +2123,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 133300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2011-08-26",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2035,7 +2157,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 18200000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2067,7 +2191,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 22200000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2099,7 +2225,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 147600000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2131,7 +2259,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 23200000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2011-08-26",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2163,7 +2293,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 44500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2011-08-26",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2195,7 +2327,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 74000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2011-08-26",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2227,7 +2361,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 50000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2259,7 +2395,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 44300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2291,7 +2429,9 @@
     "flags": [],
     "source_page": 141,
     "purchase_price": 30900000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2323,7 +2463,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 60300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2355,7 +2497,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 125300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2011-08-26",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2387,7 +2531,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 49300000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2419,7 +2565,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 71900000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2451,7 +2599,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 29000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2483,7 +2633,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 16800000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2515,7 +2667,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 41500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2547,7 +2701,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 37500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2579,7 +2735,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 14500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2611,7 +2769,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 45800000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2643,7 +2803,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 13700000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2675,7 +2837,9 @@
     "flags": [],
     "source_page": 143,
     "purchase_price": 16400000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2705,7 +2869,8 @@
     "tenure_raw": "56 years",
     "status": "divested",
     "flags": [],
-    "source_page": 143
+    "source_page": 143,
+    "purchase_date": "2008-07-01"
   },
   {
     "symbol": "ME8U.SI",
@@ -2737,7 +2902,9 @@
     "flags": [],
     "source_page": 145,
     "purchase_price": 265000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2008-07-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2769,7 +2936,9 @@
     "flags": [],
     "source_page": 145,
     "purchase_price": 12000000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2014-05-28",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2801,7 +2970,9 @@
     "flags": [],
     "source_page": 145,
     "purchase_price": 21900000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2010-10-21",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2833,7 +3004,9 @@
     "flags": [],
     "source_page": 145,
     "purchase_price": 23500000,
-    "purchase_price_currency": "SGD"
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2010-10-21",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2877,7 +3050,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 46190000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2917,7 +3092,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 48130000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2957,7 +3134,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 97420000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -2997,7 +3176,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 92480000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3037,7 +3218,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 54070000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3077,7 +3260,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 29000000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3117,7 +3302,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 11670000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3157,7 +3344,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 56790000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3197,7 +3386,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 52820000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3237,7 +3428,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 418200000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2019-11-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3277,7 +3470,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 462100000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2019-11-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3317,7 +3512,9 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 132900000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2019-11-01",
+    "area_unit": "sqft"
   },
   {
     "symbol": "ME8U.SI",
@@ -3357,6 +3554,8 @@
     "value_basis": "joint_venture_100pct",
     "purchase_price": 68720000,
     "purchase_price_currency": "USD",
-    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02"
+    "_recovery_note": "NLA from Detailed Property Information (Data Centres - North America), Property Portfolio Overview p44-47 (unit sq ft); recovered 2026-07-02",
+    "purchase_date": "2020-01-14",
+    "area_unit": "sqft"
   }
 ]

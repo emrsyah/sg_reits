@@ -1,12 +1,20 @@
 {
   "symbol": "BMOU.SI",
   "sub_sector": "Retail",
-  "management": [
-    {"role": "reit_manager", "company_name": "BHG Retail Trust Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "sponsor", "company_name": "Beijing Hualian Department Store Co., Ltd."},
-    {"role": "property_manager", "company_name": "BHG Mall (Singapore) Property Management Pte Ltd"}
-  ],
+  "management": {
+    "reit_manager": [
+      "BHG Retail Trust Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Beijing Hualian Department Store Co., Ltd."
+    ],
+    "property_manager": [
+      "BHG Mall (Singapore) Property Management Pte Ltd"
+    ]
+  },
   "income_model": "mixed",
   "source_page": 207
 }

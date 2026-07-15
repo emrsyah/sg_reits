@@ -15,7 +15,17 @@
     "counterparty": "Bevillesta Pty Limited as trustee for the John Beville (Bankstown) Trust",
     "counterparty_source_page": 62,
     "description": "Acquisition of a 75% effective interest in Top Ryde City Shopping Centre, a well-established freehold regional shopping centre in the City of Ryde, Sydney, Australia, for A$393.8 million from Bevillesta Pty Limited as trustee for the John Beville (Bankstown) Trust; completed 19 December 2025, marking Keppel REIT's first pure-play retail asset and strategic diversification into the retail segment.",
-    "description_source_page": 62
+    "description_source_page": 62,
+    "deal_id": "k71u:top_ryde_city_shopping_centre:acquisition:2025",
+    "completed_date": "2025-12-19",
+    "gain_basis": null,
+    "valuation_date": "2025-12-31",
+    "source_type": "annual_report",
+    "carrying_value": 327405000,
+    "transaction_type": "acquisition",
+    "transaction_date": "2025-12-19",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Not applicable - this is an ACQUISITION, not a divestment; no gain/loss on divestment arises. For reference only (not a gain): 75% purchase price S$334.8m vs independent valuation S$337.597m as-at 31 Dec 2025 => acquired ~0.83% below valuation. Left null to avoid plugging an acquisition discount into a divestment-gain field."
   },
   {
     "symbol": "K71U.SI",
@@ -32,6 +42,14 @@
     "counterparty": "Sageland Private Limited",
     "counterparty_source_page": 62,
     "description": "Acquisition of an additional one-third interest in Marina Bay Financial Centre Tower 3, a premium Grade A office tower in the heart of Singapore's Central Business District, at an agreed property value of S$1,453.0 million, from Sageland Private Limited; completed 31 December 2025, raising Keppel REIT's aggregate interest in the asset to two-third.",
-    "description_source_page": 62
+    "description_source_page": 62,
+    "deal_id": "k71u:marina_bay_financial_centre_tower_3:acquisition:2025",
+    "completed_date": "2025-12-31",
+    "gain_basis": null,
+    "source_type": "annual_report",
+    "transaction_type": "acquisition",
+    "transaction_date": "2025-12-31",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Not applicable - ACQUISITION, not a divestment. Acquired at an agreed property value of S$1,453.0m; no separate independent valuation of the acquired one-third stake was disclosed. The only as-at 31 Dec 2025 independent valuation for MBFC Tower 3 (S$2,934.7m, Colliers) is for the aggregate two-third interest held after the deal, not attributable to the acquired one-third, so no gain% can be derived without plugging."
   }
 ]

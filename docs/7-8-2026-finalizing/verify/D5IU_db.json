@@ -1,0 +1,234 @@
+[
+ {
+  "property_name": "Bandung Indah Plaza",
+  "market_valuation": 17077000.0,
+  "currency": "SGD",
+  "original_value": 223200000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Cibubur Junction",
+  "market_valuation": 35199000.0,
+  "currency": "SGD",
+  "original_value": 460000000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Depok Town Square",
+  "market_valuation": 11605000.0,
+  "currency": "SGD",
+  "original_value": 151700000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Gajah Mada Plaza",
+  "market_valuation": 72486000.0,
+  "currency": "SGD",
+  "original_value": 947200000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Grand Palladium",
+  "market_valuation": 4542000.0,
+  "currency": "SGD",
+  "original_value": 59400000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Istana Plaza",
+  "market_valuation": 10848000.0,
+  "currency": "SGD",
+  "original_value": 141700000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Java Supermall",
+  "market_valuation": 10718000.0,
+  "currency": "SGD",
+  "original_value": 140100000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Kediri Town Square",
+  "market_valuation": 30963000.0,
+  "currency": "SGD",
+  "original_value": 404600000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Lippo Mall Cikarang",
+  "market_valuation": 71546000.0,
+  "currency": "SGD",
+  "original_value": 935000000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Lippo Mall Kemang",
+  "market_valuation": 175483000.0,
+  "currency": "SGD",
+  "original_value": 2293300000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Lippo Mall Kuta",
+  "market_valuation": 18747000.0,
+  "currency": "SGD",
+  "original_value": 245000000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Lippo Mall Nusantara",
+  "market_valuation": 69786000.0,
+  "currency": "SGD",
+  "original_value": 912000000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Lippo Mall Puri",
+  "market_valuation": 332414000.0,
+  "currency": "SGD",
+  "original_value": 4344200000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Lippo Plaza Batu",
+  "market_valuation": 21149000.0,
+  "currency": "SGD",
+  "original_value": 276400000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Lippo Plaza Ekalokasari Bogor",
+  "market_valuation": 7870000.0,
+  "currency": "SGD",
+  "original_value": 102800000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Lippo Plaza Jogja",
+  "market_valuation": 15916000.0,
+  "currency": "SGD",
+  "original_value": 208000000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Lippo Plaza Kendari",
+  "market_valuation": 19590000.0,
+  "currency": "SGD",
+  "original_value": 256000000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Lippo Plaza Kramat Jati",
+  "market_valuation": 45748000.0,
+  "currency": "SGD",
+  "original_value": 597800000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Malang Town Square",
+  "market_valuation": 16742000.0,
+  "currency": "SGD",
+  "original_value": 218800000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Mall WTC Matahari",
+  "market_valuation": 4871000.0,
+  "currency": "SGD",
+  "original_value": 63700000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Metropolis Town Square",
+  "market_valuation": 5881000.0,
+  "currency": "SGD",
+  "original_value": 76900000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Palembang Icon",
+  "market_valuation": 69021000.0,
+  "currency": "SGD",
+  "original_value": 902000000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Palembang Square",
+  "market_valuation": 52033000.0,
+  "currency": "SGD",
+  "original_value": 680000000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ },
+ {
+  "property_name": "Palembang Square Extension",
+  "market_valuation": 19895000.0,
+  "currency": "SGD",
+  "original_value": 260000000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Plaza Madiun",
+  "market_valuation": 19004000.0,
+  "currency": "SGD",
+  "original_value": 248400000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Plaza Medan Fair",
+  "market_valuation": 20997000.0,
+  "currency": "SGD",
+  "original_value": 274400000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Pluit Village",
+  "market_valuation": 8434000.0,
+  "currency": "SGD",
+  "original_value": 110200000000.0,
+  "original_currency": "IDR",
+  "source_page": 91
+ },
+ {
+  "property_name": "Sun Plaza",
+  "market_valuation": 224355000.0,
+  "currency": "SGD",
+  "original_value": 2932000000000.0,
+  "original_currency": "IDR",
+  "source_page": 87
+ },
+ {
+  "property_name": "Tamini Square",
+  "market_valuation": 8708000.0,
+  "currency": "SGD",
+  "original_value": 113800000000.0,
+  "original_currency": "IDR",
+  "source_page": 89
+ }
+]

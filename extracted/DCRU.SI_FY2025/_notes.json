@@ -21,7 +21,8 @@
     "Total customers = 121 (p37); fixed-rate debt 85% (p13); EMTN programme US$750m; no debt maturities until Dec 2027.",
     "Portfolio at 100% share: appraisal US$3.0bn, 1.8m sq ft; at ownership share US$1.8bn, 1.2m sq ft (p34).",
     "WALE per property (years, p43-53): Hastings 7.4; Linton Hall 10.0; Devin Shafron 0.3; Lafayette 4.1; Space Park 8.7; Nash 1.1; Winona 3.1; Gough 3.6; Frankfurt 4.4; Osaka2 2.7; Osaka3 6.9.",
-    "Per-property card valuations are at ownership share (US$m); stored in property.alt_value. Note 6 carrying values (used as market_valuation) are at 100% consolidated value."
+    "Per-property card valuations are at ownership share (US$m); stored in property.alt_value. Note 6 carrying values (used as market_valuation) are at 100% consolidated value.",
+    "market_valuation for the 2 Osaka JVs (Digital Osaka 2 = 113,300,000; Digital Osaka 3 = 90,000,000 USD) is on the trust's OWNERSHIP-adjusted (20%) basis, NOT the 100% property basis that the 9 consolidated properties use (FS Note 6 p182). The AR discloses NO 100% year-end valuation for the Osaka JVs (equity-accounted associates, excluded from Note 6); only Digital Osaka 3 has a 100% acquisition value (JPY 65,390m @ 15 Mar 2025, p18). Left at ownership-basis as-disclosed; 100% not fillable. (2026-07-08 review)"
   ],
   "parsing_traps": [
     "Digital Osaka 2/3 gross_revenue recovered 2026-07-02 from Note 8 Associates 'summarised financial information' table (p187): 'Revenue for the year' = US$57,754k (Osaka 2) / US$29,848k (Osaka 3). CAUTION: this is the associate ENTITY's 100% revenue, not the Group's 20% ownership share (unlike every other property row, which is at ownership share) — no 20%-share revenue is separately disclosed, so it was not derived/converted; flagged 'different_basis_than_siblings' on both rows. Do not sum this into portfolio-level gross_revenue reconciliations without adjusting for basis.",
@@ -139,6 +140,7 @@
       "value": 53033000,
       "basis": "Derived = operating_cash_flow 93,656 + capex (-40,623).",
       "source_page": 161
-    }
+    },
+    "purchase_date for the 6 original US/Canada IPO assets = trust Listing Date 2021-12-06 (no per-property acquisition date disclosed for IPO-era assets). Later acquisitions carry verbatim dates (LA pair 2024-10-01, Frankfurt 2024-12-05, Digital Osaka 3 2025-03-26). Digital Osaka 2 left null."
   ]
 }

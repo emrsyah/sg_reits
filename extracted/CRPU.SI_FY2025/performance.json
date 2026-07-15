@@ -5,7 +5,7 @@
   "properties_location": "China (Chongqing, Hefei, Kunming)",
   "gross_revenue": 120978000,
   "net_property_income": 120978000,
-  "net_distributable_income": 77219000,
+  "net_distributable_income": 85666000,
   "distribution_paid": 77208000,
   "adjusted_distributable_income": null,
   "dpu": 6.138,
@@ -43,8 +43,22 @@
       "type": "npi_equals_gross_revenue",
       "scope": "net_property_income",
       "note": "EMA model: all property operating expenses borne by the Entrusted Manager; the audited Statement of Total Return has no property-opex line, so NPI = EMA rental income = gross revenue. Portfolio occupancy is Q4 2025 average; WALE 1.0yr by GR (1.9yr by NLA). cost_of_debt is weighted-average cost of borrowings 4.4%."
+    },
+    "net_distributable_income corrected 2026-07-08: was 77,219,000 (cumulative 'Amount available for distribution' = FY-after-retention 77,209 + opening carry-forward 10, Distribution Statement p154); fixed to FY-generated after-retention 77,209,000 (headline $77.2m, DPU 6.138c). Opening balance was only $10k so impact tiny.",
+    "before-retention normalization 2026-07-08: NDI set to FY income available BEFORE the 8,457 working-capital retention = 85,666,000 (63,256 total return + 22,410 adjustments, p154). Supersedes the interim 77,209,000 (after-retention). Cumulative-pool 77,219,000 was the original error.",
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 8457000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Source: audited Consolidated Distribution Statement, marker <!-- PAGE 156 --> (printed folio 154), FYE 31 Dec 2025. B = before-retention FY subtotal 85,666,000 (= Total return 63,256 + Distribution adjustments 22,410; excludes the 10 opening carry, per spec) NOT the cumulative 'Amount available for distribution to Unitholders' 77,219 trap. Guard A+B-P = 8,468,000 vs E = 11,000: breaks by exactly 8"
     }
   ],
   "source_page": 5,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1264707000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 10000,
+  "distribution_cash_paid": 77208000,
+  "distributable_income_closing": 11000,
+  "units_to_be_issued": 4505000,
+  "distribution_pool_other_movements": -8457000
 }

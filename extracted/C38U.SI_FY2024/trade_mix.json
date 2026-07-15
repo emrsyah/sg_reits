@@ -1,0 +1,83 @@
+[
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverages",
+    "pct": 17.9,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Banking, Insurance & Financial Services",
+    "pct": 17.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Fashion & Accessories",
+    "category_raw": "Fashion & Accessories",
+    "pct": 8.4,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Beauty & Health",
+    "pct": 7.5,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Hospitality & Leisure",
+    "pct": 5.1,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate & Property Services",
+    "pct": 4.0,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT & Telecommunications",
+    "pct": 3.9,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Other Retail Trades",
+    "pct": 23.2,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Other Office Trades",
+    "pct": 12.2,
+    "pct_basis": "gri",
+    "source_page": 32
+  }
+]

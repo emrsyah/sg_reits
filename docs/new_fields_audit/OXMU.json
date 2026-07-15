@@ -1,0 +1,24 @@
+{
+  "symbol": "OXMU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 1437458000, "page": 163, "note": "Note 11 Units in Issue and to be Issued: As at 31 December 2025 = 1,437,458 ('000); exact 1,437,458,171 per Statistics of Unitholdings (13 Mar 2026)"},
+    "dpu_period_months": {"value": 12, "page": 5, "note": "full FY 1 Jan-31 Dec 2025"}
+  },
+  "properties": [
+    {"property_name": "171 17th Street", "purchase_date": "2019-07-19", "page": 25, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "222 Main", "purchase_date": "2019-07-19", "page": 25, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "CrossPoint", "purchase_date": "2019-07-19", "page": 26, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Park Tower", "purchase_date": "2020-02-24", "page": 25, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Promenade I & II", "purchase_date": "2019-07-19", "page": 26, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Reston Square", "purchase_date": "2019-07-19", "page": 27, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Sorrento Towers", "purchase_date": "2021-07-23", "page": 26, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "The 101", "purchase_date": "2019-07-19", "page": 26, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Tower 909", "purchase_date": "2019-07-19", "page": 26, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Tower I at Emeryville", "purchase_date": "2019-07-19", "page": 27, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Village Center Station I", "purchase_date": "2019-07-19", "page": 27, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Village Center Station II", "purchase_date": "2019-07-19", "page": 25, "note": "Properties Profile acquisition-date row"},
+    {"property_name": "Waterfront at Washingtonian", "purchase_date": "2019-07-19", "page": 27, "note": "Properties Profile acquisition-date row"}
+  ],
+  "summary": {"n_properties": 13, "purchase_date_filled": 13, "purchase_date_null": 0}
+}

@@ -1,0 +1,137 @@
+{
+  "symbol": "DHLU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 700739000,
+      "page": 190,
+      "note": "Note 16: Total Units issued and to be issued at end of year = 700,739 thousand"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 53,
+      "note": "full FY ended 31 Dec 2025 (DPU 4.33 cents), Financial Review p53"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "DPL Sapporo Higashi Kariki",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Sendai Port",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Koriyama",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Nagano Suzaka S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Maebashi S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Kuki S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Ibaraki Yuki",
+      "purchase_date": "2024-03-15",
+      "page": 190,
+      "note": "Note 16: acquisition fee for acquisition of DPL Ibaraki Yuki on 15 March 2024"
+    },
+    {
+      "property_name": "DPL Gunma Fujioka",
+      "purchase_date": "2025-03-24",
+      "page": 51,
+      "note": "Operational Review: 'On 24 March 2025, DHLT completed the acquisition of DPL Gunma Fujioka'"
+    },
+    {
+      "property_name": "D Project Misato S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Iruma S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Kawasaki Yako",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Shinfuji",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Kakegawa S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Okayama Hayashima",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Okayama Hayashima 2",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "DPL Iwakuni 1 & 2",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Matsuyama S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Fukuoka Tobara S",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; property card shows building COMPLETION DATE (not acquisition); IPO portfolio listed 26 Nov 2021 but not enumerated per-property"
+    },
+    {
+      "property_name": "D Project Tan Duc 2",
+      "purchase_date": "2024-07-05",
+      "page": 190,
+      "note": "Note 16: acquisition of D Project Tan Duc 2 on 5 July 2024 (also FS note)"
+    }
+  ],
+  "summary": {
+    "n_properties": 19,
+    "purchase_date_filled": 3,
+    "purchase_date_null": 16
+  }
+}

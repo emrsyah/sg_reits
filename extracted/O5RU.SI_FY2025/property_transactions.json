@@ -1,3 +1,28 @@
 [
-  {"symbol":"O5RU.SI","financial_year":2025,"type":"divestment","property_name":"3 Toh Tuck Link","status":"pending_completion","price":24388000,"currency":"SGD","carrying_value":24388000,"carrying_value_basis":"Reclassified to investment property held for sale at sale price S$24.388m (net of S$0.618m lease liability, gross S$25.006m) at 31 Mar 2025; gain not recognised (completion post year-end). Verified 2026-06-30.","announced_date":"2024-12-10","note":"Proposed divestment announced 10 Dec 2024 at S$24.388m; reclassified to investment property held for sale as at 31 Mar 2025 (completion after year-end).","source_page":164}
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "type": "divestment",
+    "property_name": "3 Toh Tuck Link",
+    "status": "pending_completion",
+    "price": 24388000,
+    "currency": "SGD",
+    "carrying_value": 24388000,
+    "carrying_value_basis": "Reclassified to investment property held for sale at sale price S$24.388m (net of S$0.618m lease liability, gross S$25.006m) at 31 Mar 2025; gain not recognised (completion post year-end). Verified 2026-06-30.",
+    "announced_date": "2024-12-10",
+    "note": "Proposed divestment announced 10 Dec 2024 at S$24.388m; reclassified to investment property held for sale as at 31 Mar 2025 (completion after year-end).",
+    "source_page": 164,
+    "deal_id": "o5ru:3_toh_tuck_link:divestment:2025",
+    "gain_loss_pct": 32.5,
+    "gain_basis": "vs_book_value",
+    "valuation_date": "2025-03-31",
+    "source_type": "annual_report",
+    "sale_price": 24388000,
+    "valuation": 24388000,
+    "counterparty": "third-party buyer (unnamed)",
+    "transaction_type": "divestment",
+    "transaction_date": "2024-12-10",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "Disclosed premium of 32.5% above valuation, but ONLY in AR narrative (Chairman & CEO Statement p16 'a price 32.5% above valuation'; Board/strategy section p17 'at a 32.5% premium') - NOT in the audited portfolio statement or FS notes. Audited FS (Portfolio Statement footnote 4 p162; Note 4 p191) state 3 Toh Tuck Link at fair value = agreed sale price S$24.388m; carrying value = sale price, so vs_book_value gain = 0% and no gain is recognised (completion post-FYE). No independent valuation is disclosed in the audited statements to derive against; the 32.5% premium implies a pre-reclassification valuation of ~S$18.4m. FLAGGED: premium is commentary-sourced, not audited-statement-derived."
+  }
 ]

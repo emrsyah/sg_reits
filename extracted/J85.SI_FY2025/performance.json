@@ -5,7 +5,7 @@
   "properties_location": "Singapore, New Zealand, Australia, Maldives, Japan, United Kingdom, Germany, Italy",
   "gross_revenue": 267566000.0,
   "net_property_income": 129694000.0,
-  "net_distributable_income": 66627000.0,
+  "net_distributable_income": 56944000,
   "distribution_paid": 60933000.0,
   "adjusted_distributable_income": null,
   "dpu": 4.8,
@@ -48,8 +48,25 @@
       "type": "icr_basis",
       "scope": "interest_coverage_ratio",
       "note": "2.32x is for H-REIT Group per MAS CIS Code (trailing 12m EBITDA / interest+borrowing fees+hybrid distributions)."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by -3989000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Guard A + B - P = 34,254 + 56,944 - 60,492 = 30,706 (k) vs E = 34,695 (k); gap = +3,989 (k). NOT a misread. The gap is exactly the net of two additional DISCLOSED reconciliation lines that sit between the for-year subtotal (B=56,944) and the cumulative 'Amount available for distribution': 'Less: Amount retained for working capital (5,694)' and 'Add: Capital distribution 9,683', netting to +3,989. "
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distribution_pool_other_movements",
+      "note": "distribution_pool_other_movements = +3,989k = net of two disclosed Distribution Statement lines (p207): 'Less: Amount retained for working capital' -5,694 + 'Add: Capital distribution' +9,683. Guard A 34,254 + B 56,944 + 3,989 - P 60,492 = E 34,695. Added 2026-07-14."
     }
   ],
   "source_page": 10,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1270770000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 34254000,
+  "distribution_cash_paid": 60492000,
+  "distributable_income_closing": 34695000,
+  "units_to_be_issued": 7727000,
+  "distribution_pool_other_movements": 3989000
 }

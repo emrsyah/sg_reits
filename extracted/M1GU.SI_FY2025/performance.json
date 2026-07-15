@@ -47,8 +47,19 @@
     {
       "type": "distribution_paid_basis",
       "note": "Declared-for-FY basis, nil retention: Total Declared Distribution Amount $39,715k (Manager's Review p20), 100% payout of Declared DPU 3.53 cents; Distribution Statement (p117-118) corroborates — Income available for distribution after tax $39,709k, Amount retained for working capital = nil (footnote 2, p118). Recovered 2026-07-02."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 1546000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Group column, Distribution Statements p117-118 (audited). A/B/P/E all disclosed. Guard A+B-P = 18,683 + 39,709 - 36,227 = 22,165k vs disclosed closing E = 20,619k; diff = 1,546k EXACTLY equals the disclosed 'Amount retained for working capital' line (1,546) that reduces the opening carry (18,683 -> 17,137 after retention, p117). This is a genuine AS-DISCLOSED reconciling item, NOT a misread: using"
     }
   ],
   "source_page": 45,
-  "distribution_basis": "full_payout_no_retention_line"
+  "distribution_basis": "full_payout_no_retention_line",
+  "number_of_shareholder_units": 1125055242,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 18683000,
+  "distribution_cash_paid": 36227000,
+  "distributable_income_closing": 20619000,
+  "distribution_pool_other_movements": -1546000
 }

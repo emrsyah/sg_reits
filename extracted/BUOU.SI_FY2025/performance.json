@@ -45,5 +45,11 @@
     }
   ],
   "source_page": 28,
-  "distribution_basis": "not_disclosed_rollforward_only"
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "number_of_shareholder_units": 3790771000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 124747000,
+  "distribution_cash_paid": 237992000,
+  "distributable_income_closing": 111409000,
+  "units_to_be_issued": 12578000
 }

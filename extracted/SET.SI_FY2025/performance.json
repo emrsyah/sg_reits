@@ -55,5 +55,11 @@
     }
   ],
   "source_page": 5,
-  "distribution_basis": "full_payout_no_retention_line"
+  "distribution_basis": "full_payout_no_retention_line",
+  "number_of_shareholder_units": 556884000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 39886000,
+  "distribution_cash_paid": 76431000,
+  "distributable_income_closing": 38242000,
+  "units_to_be_issued": 0
 }

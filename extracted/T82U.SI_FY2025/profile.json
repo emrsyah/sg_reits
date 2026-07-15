@@ -1,13 +1,23 @@
 {
   "symbol": "T82U.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "reit_manager", "company_name": "ESR Trust Management (Suntec) Limited"},
-    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
-    {"role": "property_manager", "company_name": "ESR Real Estate Services Management Pte. Ltd."},
-    {"role": "operator", "company_name": "Suntec Singapore International Convention and Exhibition Services Pte Ltd"},
-    {"role": "sponsor", "company_name": "ESR Group Limited"}
-  ],
+  "management": {
+    "reit_manager": [
+      "ESR Trust Management (Suntec) Limited"
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "property_manager": [
+      "ESR Real Estate Services Management Pte. Ltd."
+    ],
+    "operator": [
+      "Suntec Singapore International Convention and Exhibition Services Pte Ltd"
+    ],
+    "sponsor": [
+      "ESR Group Limited"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 198
 }

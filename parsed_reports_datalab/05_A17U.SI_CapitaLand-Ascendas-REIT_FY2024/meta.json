@@ -1,0 +1,14 @@
+{
+  "file": "05_A17U.SI_CapitaLand-Ascendas-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 208,
+  "pages_written": 208,
+  "seconds": 60.9,
+  "parse_quality_score": null,
+  "runtime": 51.38527989387512,
+  "cost_breakdown": {
+    "final_cost_cents": 84.0
+  },
+  "checkpoint_id": "checkpoint_sxTPhhRPufDc90KgTLdMzsQ3ecUYEur9HMxtO_wf3_8",
+  "page_range": null
+}

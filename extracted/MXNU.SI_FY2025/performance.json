@@ -43,8 +43,19 @@
       "type": "wale_pro_forma",
       "scope": "wale",
       "note": "WALE 7.2 years is pro forma post DWP lease regears (signed Feb 2026); audited remaining lease term at reporting date was 2.4 years (Note 4)"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 965000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. A + B - P = 8,936,000 + 19,303,000 - 17,933,000 = 10,306,000; E = 9,341,000. Simplified identity exceeds E by exactly 965,000, which equals the separately disclosed 'Less: Amount retained for general corporate and working capital (Retention)' line of (965). The FULL audited identity A + B - Retention - P = E holds to the penny: 8,936 + 19,303 - 965 - 17,933 = 9,341. Within the statement's native G"
     }
   ],
   "source_page": 6,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 610286000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 8936000,
+  "distribution_cash_paid": 17933000,
+  "distributable_income_closing": 9341000,
+  "distribution_pool_other_movements": -965000
 }

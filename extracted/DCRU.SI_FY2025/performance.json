@@ -51,5 +51,11 @@
     }
   ],
   "source_page": 14,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1341032000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 23405000,
+  "distribution_cash_paid": 46779000,
+  "distributable_income_closing": 23472000,
+  "units_to_be_issued": 37022000
 }

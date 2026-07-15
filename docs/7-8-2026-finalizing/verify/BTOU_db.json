@@ -1,0 +1,74 @@
+[
+ {
+  "property_name": "Centerpointe",
+  "effective_date": null,
+  "purchase_date": "2019-05-10",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 30
+ },
+ {
+  "property_name": "Diablo",
+  "effective_date": null,
+  "purchase_date": "2021-12-20",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 31
+ },
+ {
+  "property_name": "Exchange",
+  "effective_date": null,
+  "purchase_date": "2017-10-31",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 32
+ },
+ {
+  "property_name": "Figueroa",
+  "effective_date": null,
+  "purchase_date": "2016-05-19",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 33
+ },
+ {
+  "property_name": "Michelson",
+  "effective_date": null,
+  "purchase_date": "2016-05-19",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 34
+ },
+ {
+  "property_name": "Peachtree",
+  "effective_date": null,
+  "purchase_date": null,
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 107
+ },
+ {
+  "property_name": "Penn",
+  "effective_date": null,
+  "purchase_date": "2018-06-22",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 35
+ },
+ {
+  "property_name": "Phipps",
+  "effective_date": null,
+  "purchase_date": "2018-06-22",
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 36
+ },
+ {
+  "property_name": "Plaza",
+  "effective_date": null,
+  "purchase_date": null,
+  "lease_expiry_date": null,
+  "land_tenure": "Freehold",
+  "source_page": 107
+ }
+]

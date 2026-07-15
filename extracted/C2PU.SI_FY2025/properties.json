@@ -37,7 +37,9 @@
     "purchase_price_currency": "SGD",
     "gross_revenue": 46280000.0,
     "gfa": 58139.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2007",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -77,7 +79,9 @@
     "purchase_price_currency": "SGD",
     "gross_revenue": 28480000.0,
     "gfa": 49003.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2007",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -117,7 +121,9 @@
     "purchase_price_currency": "SGD",
     "gross_revenue": 4960000.0,
     "gfa": 10994.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2007",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Bon Sejour Yokohama Shin-Yamashita",
@@ -144,7 +150,9 @@
     "gross_revenue": 100850000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3273.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Etoile Akashi (formerly known as More Habitation Akashi)",
@@ -171,7 +179,9 @@
     "gross_revenue": 113400000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 6562.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Etoile Suma Rikyu (formerly known as More Habitation Suma Rikyu)",
@@ -198,7 +208,9 @@
     "gross_revenue": 67260000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4539.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Senior Chonaikai Makuhari Kan",
@@ -225,7 +237,9 @@
     "gross_revenue": 101500000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4361.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Smiling Home Medis Musashi Urawa",
@@ -252,7 +266,9 @@
     "gross_revenue": 44820000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1603.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Smiling Home Medis Koshigaya Gamo",
@@ -279,7 +295,9 @@
     "gross_revenue": 91260000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3834.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2008",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sompo no Ie Nakasyo",
@@ -306,7 +324,9 @@
     "gross_revenue": 48600000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3231.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Maison des Centenaire Ishizugawa",
@@ -333,7 +353,9 @@
     "gross_revenue": 60720000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2129.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Maison des Centenaire Haruki",
@@ -360,7 +382,9 @@
     "gross_revenue": 47120000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1263.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Hapine Fukuoka Noke",
@@ -387,7 +411,9 @@
     "gross_revenue": 58000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2912.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Fiore Senior Residence Hirakata",
@@ -414,7 +440,9 @@
     "gross_revenue": 33600000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1155.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Iyashi no Takatsuki Kan",
@@ -441,7 +469,9 @@
     "gross_revenue": 101040000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3956.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2009",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Obatake Ichibankan",
@@ -468,7 +498,9 @@
     "gross_revenue": 57000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3491.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Sakurakan",
@@ -495,7 +527,9 @@
     "gross_revenue": 70000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5044.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Nogatakan",
@@ -522,7 +556,9 @@
     "gross_revenue": 57000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3147.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Shinmojikan",
@@ -549,7 +585,9 @@
     "gross_revenue": 75000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5094.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Obatake Nibankan",
@@ -576,7 +614,9 @@
     "gross_revenue": 27950000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1538.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Fukufukukan",
@@ -603,7 +643,9 @@
     "gross_revenue": 50000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3074.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2011",
+    "area_unit": "sqm"
   },
   {
     "property_name": "As Heim Nakaurawa",
@@ -630,7 +672,9 @@
     "gross_revenue": 60000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2712.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Hanadama no Ie Nakahara",
@@ -657,7 +701,9 @@
     "gross_revenue": 52800000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1847.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2010",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Higashikagurakan",
@@ -684,7 +730,9 @@
     "gross_revenue": 81090000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5467.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2012",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Happy Life Toyonaka",
@@ -711,7 +759,9 @@
     "gross_revenue": 35280000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1254.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Etoile Kobe (formerly known as More Habitation Kobe Kitano)",
@@ -738,7 +788,9 @@
     "gross_revenue": 99600000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3964.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Seaside Toba",
@@ -765,7 +817,9 @@
     "gross_revenue": 110400000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 7360.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Niihamakan",
@@ -792,7 +846,9 @@
     "gross_revenue": 104280000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 7382.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Mekari Nibankan",
@@ -819,7 +875,9 @@
     "gross_revenue": 24800000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2133.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Kiyotakan",
@@ -846,7 +904,9 @@
     "gross_revenue": 72060000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5661.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sawayaka Minatokan",
@@ -873,7 +933,9 @@
     "gross_revenue": 52000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2246.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2013",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Maison des Centenaire Hannan",
@@ -900,7 +962,9 @@
     "gross_revenue": 125560000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4331.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2014",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Maison des Centenaire Ohhama",
@@ -927,7 +991,9 @@
     "gross_revenue": 49000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1717.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2014",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sunhill Miyako",
@@ -954,7 +1020,9 @@
     "gross_revenue": 67000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4299.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2014",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Habitation Jyosui",
@@ -981,7 +1049,9 @@
     "gross_revenue": 245000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 6076.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2014",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Ocean View Shonan Arasaki",
@@ -1008,7 +1078,9 @@
     "gross_revenue": 132990000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5304.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Habitation Hakata I, II and III",
@@ -1035,7 +1107,9 @@
     "gross_revenue": 276000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 21415.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Excellent Tenpaku Garden Hills",
@@ -1062,7 +1136,9 @@
     "gross_revenue": 108000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4000.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Liverari Shiroishi Hana Ichigo-kan",
@@ -1089,7 +1165,9 @@
     "gross_revenue": 24000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1051.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Liverari Shiroishi Hana Nigo-kan",
@@ -1116,7 +1194,9 @@
     "gross_revenue": 12000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 747.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sunny Spot Misono",
@@ -1143,7 +1223,9 @@
     "gross_revenue": 14400000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 724.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2015",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Silver Heights Hitsujigaoka (Ichibankan and Nibankan)",
@@ -1170,7 +1252,9 @@
     "gross_revenue": 88770000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 9013.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2016",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Live In Wakaba",
@@ -1197,7 +1281,9 @@
     "gross_revenue": 129600000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5431.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2017",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Habitation Hakusho",
@@ -1224,7 +1310,9 @@
     "gross_revenue": 119680000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 6959.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2017",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Group Home Hakusho",
@@ -1251,7 +1339,9 @@
     "gross_revenue": 8000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 416.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2017",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Kikuya Warakuen",
@@ -1278,7 +1368,9 @@
     "gross_revenue": 5780000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3641.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2017",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Sanko",
@@ -1305,7 +1397,9 @@
     "gross_revenue": 3220000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2018.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2017",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Konosu Nursing Home Kyoseien",
@@ -1332,7 +1426,9 @@
     "gross_revenue": 112000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5634.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2018",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Haru no Sato",
@@ -1359,7 +1455,9 @@
     "gross_revenue": 91800000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3568.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2019",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Hodaka no Niwa",
@@ -1386,7 +1484,9 @@
     "gross_revenue": 100750000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 6117.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2019",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Orange no Sato",
@@ -1416,7 +1516,9 @@
     "gross_revenue": 87600000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 4005.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02; effective_date+lease_expiry_date from property card 'Leasehold with 99 years from 1 November 2019' p.49; expiry derived from disclosed start+term (same convention as SG hospitals)"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02; effective_date+lease_expiry_date from property card 'Leasehold with 99 years from 1 November 2019' p.49; expiry derived from disclosed start+term (same convention as SG hospitals)",
+    "purchase_date": "2019",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Habitation Kamagaya",
@@ -1443,7 +1545,9 @@
     "gross_revenue": 115500000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 5118.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2020",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Will-Mark Kashiihama",
@@ -1470,7 +1574,9 @@
     "gross_revenue": 195000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 14169.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2021",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Crea Adachi",
@@ -1497,7 +1603,9 @@
     "gross_revenue": 71500000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2499.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2021",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Habitation Kisarazu Ichibankan",
@@ -1524,7 +1632,9 @@
     "gross_revenue": 197200000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 7065.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2021",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Blue Rise Nopporo",
@@ -1551,7 +1661,9 @@
     "gross_revenue": 51910000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2663.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2022",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Blue Terrace Kagura",
@@ -1578,7 +1690,9 @@
     "gross_revenue": 79200000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3788.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2022",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Blue Terrace Taisetsu",
@@ -1605,7 +1719,9 @@
     "gross_revenue": 49960000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2608.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2022",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Assisted Living Edogawa",
@@ -1632,7 +1748,9 @@
     "gross_revenue": 92880000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2977.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2022",
+    "area_unit": "sqm"
   },
   {
     "property_name": "Assisted Living Toke",
@@ -1659,7 +1777,9 @@
     "gross_revenue": 72000000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 2824.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2022",
+    "area_unit": "sqm"
   },
   {
     "property_name": "HIBISU Shirokita Koendori",
@@ -1686,7 +1806,9 @@
     "gross_revenue": 43680000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1447.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2023",
+    "area_unit": "sqm"
   },
   {
     "property_name": "HIBISU Suita",
@@ -1713,7 +1835,9 @@
     "gross_revenue": 49060000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 1534.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2023",
+    "area_unit": "sqm"
   },
   {
     "property_name": "HIBISU Higashi Sumiyoshi",
@@ -1740,7 +1864,9 @@
     "gross_revenue": 127200000.0,
     "gross_revenue_currency": "JPY",
     "gfa": 3857.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1773,7 +1899,9 @@
     "gross_revenue": 830000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 5942.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1806,7 +1934,9 @@
     "gross_revenue": 1060000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 4111.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1839,7 +1969,9 @@
     "gross_revenue": 930000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 4380.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1872,7 +2004,9 @@
     "gross_revenue": 960000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3795.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1905,7 +2039,9 @@
     "gross_revenue": 410000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3063.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1938,7 +2074,9 @@
     "gross_revenue": 430000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 2981.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -1971,7 +2109,9 @@
     "gross_revenue": 590000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3952.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -2004,7 +2144,9 @@
     "gross_revenue": 570000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3789.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -2037,7 +2179,9 @@
     "gross_revenue": 430000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3886.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -2070,7 +2214,9 @@
     "gross_revenue": 580000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 2803.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -2103,7 +2249,9 @@
     "gross_revenue": 570000.0,
     "gross_revenue_currency": "EUR",
     "gfa": 3931.0,
-    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02"
+    "_recovery_note": "GR/GFA from property cards (Our Portfolio), pp.40,42-56,58-60; recovered 2026-07-02",
+    "purchase_date": "2024",
+    "area_unit": "sqm"
   },
   {
     "symbol": "C2PU.SI",
@@ -2128,6 +2276,7 @@
         "note": "Entire Malaysia Portfolio divested; SPA 21 Apr 2025, completed 12 Aug 2025 for RM20.1m (approx S$6.1m). Carrying value nil at 31 Dec 2025 (was S$5,860k at 31 Dec 2024)."
       }
     ],
-    "source_page": 165
+    "source_page": 165,
+    "purchase_date": null
   }
 ]

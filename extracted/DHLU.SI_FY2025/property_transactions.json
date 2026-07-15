@@ -13,6 +13,17 @@
     "valuation_at_acquisition": 5210000000,
     "valuation_currency": "JPY",
     "notes": "Acquired via DH-CRUX Japan TMK. Freehold logistics property in Fujioka-shi, Gunma (Greater Tokyo). Purchase consideration JPY 3,990m = 23.4% discount to independent valuation of JPY 5,210m at acquisition (Jan 2025 valuation). Financed by borrowings and internal cash. Valuation at 31 Dec 2025 grew to JPY 5,230m (31.1% above acquisition price). JPY 3,990m loan drawn to finance acquisition.",
-    "source_page": 51
+    "source_page": 51,
+    "deal_id": "dhlu:dpl_gunma_fujioka:acquisition:2025",
+    "completed_date": "2025-03-24",
+    "gain_loss_pct": 23.4,
+    "gain_basis": "vs_valuation",
+    "valuation_date": "2025-01-31",
+    "source_type": "annual_report",
+    "valuation": 5210000000,
+    "counterparty": "Mitsubishi HC Capital Estate Plus Inc. (unrelated third party)",
+    "transaction_date": "2025-03-24",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "DISCLOSED acquisition discount (not derived): purchase consideration JPY3,990.0m represented a discount of 23.4% to the independent valuation of JPY5,210.0m. Independent valuation conducted as at 31 January 2025 using the income approach (DCF method). Value further created: valuation as at 31 Dec 2025 of JPY5,230m was 31.1% higher than the purchase consideration (p52). Sign convention: this is an acquisition-side discount to valuation (favourable), not a divestment gain."
   }
 ]

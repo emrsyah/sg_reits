@@ -62,5 +62,10 @@
     "wale": "2.8 years by NLA — 'Weighted Average Lease Expiry (by NLA)', KPI dashboard parsed p5 (line 233). By-revenue basis (~2.7) not stated on this page; only the by-NLA figure is disclosed here.",
     "cost_of_debt": "2.7% — 'Average Cost of Debt' as reported, p7 5-yr financial highlights (line 487) and p40 capital-management table (line 2395); narrative 'stable average cost of debt at 2.7%' (line 1176). NOTE: lead suggested 3.57% from Note 18 p198, but that 3.57% (line 7819) is the weighted-average interest rate on intercompany LOANS TO SUBSIDIARIES, a different metric — not used.",
     "portfolio_occupancy": "96.2% — Portfolio Occupancy, KPI dashboard parsed p5 (line 225); corroborated narrative 'overall portfolio occupancy remained healthy at 96.2%' (line 1152)"
-  }
+  },
+  "number_of_shareholder_units": 5066733000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 111214000,
+  "distribution_cash_paid": 417743000,
+  "distributable_income_closing": 99868000
 }

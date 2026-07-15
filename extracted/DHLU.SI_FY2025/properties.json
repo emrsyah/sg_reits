@@ -36,7 +36,8 @@
     "_gross_rev_unit": "JPY absolute (JPY 801 million x 1,000,000)",
     "category_raw": "Industrial",
     "major_tenants": [],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -75,7 +76,8 @@
     "_gross_rev_unit": "JPY absolute (JPY 436 million x 1,000,000)",
     "category_raw": "Industrial",
     "major_tenants": [],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -114,7 +116,8 @@
     "_gross_rev_unit": "JPY absolute (JPY 323 million x 1,000,000)",
     "category_raw": "Industrial",
     "major_tenants": [],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -158,7 +161,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -202,7 +206,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -246,7 +251,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -290,7 +296,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2024-03-15"
   },
   {
     "symbol": "DHLU.SI",
@@ -335,7 +342,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2025-03-24"
   },
   {
     "symbol": "DHLU.SI",
@@ -379,7 +387,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -423,7 +432,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -468,7 +478,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -513,7 +524,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -557,7 +569,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -602,7 +615,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -646,7 +660,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -691,7 +706,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2022-12-08"
   },
   {
     "symbol": "DHLU.SI",
@@ -735,7 +751,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2022-12-08"
   },
   {
     "symbol": "DHLU.SI",
@@ -779,7 +796,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-26"
   },
   {
     "symbol": "DHLU.SI",
@@ -823,6 +841,7 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2024-07-05"
   }
 ]

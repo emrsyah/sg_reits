@@ -137,6 +137,24 @@ number), `weighted_avg_debt_maturity` (years), `nav_per_unit` (trust currency), 
 average lease expiry, years), `portfolio_occupancy` (committed/portfolio, % plain number) —
 then currency, date (FY-end YYYY-MM-DD), source_page.
 
+**Distribution rollforward (performance)** — read the audited **Distribution Statement** ONLY
+(never Financial Highlights / manager's commentary / press release / `sgx_manual_input` / chartbook),
+one page-cited line per field, verbatim:
+- `net_distributable_income` (rollforward line **B**) — income generated & available FOR THE YEAR,
+  BEFORE retention (the for-year subtotal). NOT the cumulative 'income available' line (folds in the
+  opening carry-forward — the classic trap), NOT after-retention, NOT the end balance.
+- `distributable_income_opening` (**A**) — 'income available for distribution ... at the BEGINNING
+  of the year'.
+- `distribution_cash_paid` (**P**) — 'Total Unitholders' distribution' actually PAID during the year
+  (incl. capital-gains top-ups; the period tranches, which cross fiscal years). DISTINCT from
+  `distribution_paid` (the amount DECLARED for this year / DPU basis) — capture both when disclosed.
+- `distributable_income_closing` (**E**) — 'income available for distribution ... at the END of the
+  year'.
+GUARD: when A/B/P/E are all disclosed, `A + B - P == E` (tolerance ~1k); cross-year `E(year N) ==
+A(year N+1)`. A broken guard = a mis-read line (usually the cumulative 'available' line grabbed as
+B) -> fix at the source, never plug. The cumulative 'available' (= A + B) is display-derived, NOT
+stored.
+
 **properties.json** (list) — symbol, financial_year, property_name, country, category,
 category_raw, address, ownership (%), market_valuation (absolute, Tier C), valuation_date,
 currency, net_property_income, gross_revenue, **npi_pct** (property's % share of portfolio
@@ -227,8 +245,27 @@ magnitudes, and must reconcile: Σrevenue_breakdown ≈ total_revenue, Σoperati
 ≈ operating_expense (within 2% — gate-checked). `line_items` keep their own SIGNED-adjustment
 rule (separate from the scalars; they're the audit trail, not pushed to prod).
 
-**property_transactions.json** (list, parked) — capture acquisitions/divestments for the
-audit trail; not loaded.
+**property_transactions.json** (list -> sgx_reit_property_transaction) — per-deal acquisitions &
+divestments. **AR-first**: read the audited report (Portfolio Statement footnotes + the
+Acquisitions/Divestments summary table + FS notes); the SGX "Asset Acquisitions and Disposals"
+regulatory announcement is a TOP-UP for fields the AR leaves null, deals after the fiscal year, and
+disclosed net cash — it NEVER overwrites a disclosed AR figure (conflict = keep AR + flag).
+Keys: symbol, financial_year, transaction_type (acquisition | divestment | announced_divestment |
+partial_divestment | divestment_terminated), status (completed | announced | terminated),
+property_name, `deal_id` (stable per-deal key; anchor on the SGX plan-announcement ref/URL, else slug
+`{symbol}:{normalized_property}:{type}:{effective_year}`), `transaction_date` (primary effective
+date), `announced_date`, `completed_date`, `purchase_price` (acquisition), `sale_price` (divestment
+consideration AS DISCLOSED — do NOT label 'gross' unless the report says before-costs),
+`net_sale_proceeds` (ONLY when a distinct net-of-cost figure is disclosed, e.g. "net sales
+consideration after divestment expenses"; else null — NEVER derive), `carrying_value` (book value
+pre-sale), `gain_on_divestment` (abs) + `gain_loss_pct` + `gain_basis`, `valuation` +
+`valuation_date`, `interest_pct`, `counterparty` (buyer/seller; the disclosed descriptor when
+unnamed, e.g. "Non-interested third-party purchaser"), per-figure `*_currency` + `*_basis`,
+`currency`, `source_type` (annual_report default | sgx_announcement | both), `announcement_refs`
+`[{stage: 'plan'|'completion', date, url, ref, sub_title}]`, `source_page`.
+GAIN: prefer the disclosed gain / gain%; else derive and flag via `gain_basis` — `vs_book_value` =
+`(net_sale_proceeds or sale_price) - carrying_value`; `vs_valuation` = `sale_price - valuation`
+(the "premium over valuation"). Record any derivation in the matching `*_basis` text; never plug.
 
 **_notes.json** (object) — columns_never_fillable `[{column, reason}]`, data_with_no_home
 `[...]` (≤12), parsing_traps `[...]`, reconciliation

@@ -1,0 +1,911 @@
+{
+  "symbol": "MXNU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 610286000,
+      "page": 133,
+      "note": "Number of Units in issue at 31 Dec 2025 = 610,286'000 (Statement of Financial Position p133, Note 14)"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 5,
+      "note": "FY2025 = year ended 31 Dec 2025 (full year); DPU 3.03 pence"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "Peel Park, Blackpool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Chantry House, Chester",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Tomlinson House, Blackpool Norcross Lane",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Great Western House, Birkenhead",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Mitre House, Lancaster",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Blackburn Road, Burnley",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Heron House, Stockport",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Wilmslow Road, Manchester",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St Martin's House, Bootle",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Duchy House, Preston",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Units 1-2 Dallas Court, Salford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Palatine House, Preston",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Lee-Moran House, Burnley",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Beech House, Hyde",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Brunswick House, Birkenhead",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Roydale House, Leigh",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Silver Street, Bury",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Springfield House, Liverpool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hougoumont House, Liverpool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Great Moor Street, Bolton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Premier House, Liverpool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Speke Road, Liverpool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Roskell House, Fleetwood",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Glasgow Benefits Centre, Glasgow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Parklands, Falkirk",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Coustonholm Road, Glasgow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Wallacetoun House, Ayr",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Ladywell House, Edinburgh",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Building, Kilmarnock",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bowling Green Street, Bellshill",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Flemington House, Motherwell",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Heron House, Falkirk",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Claverhouse Industrial Park, Dundee",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "New Reiver House, Galashiels",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Lindsay House, Dundee",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Atlas Road, Glasgow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Pollokshaws Road, Glasgow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Trinity Road, Elgin",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Irish Street, Dumfries",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Whitburn Road, Bathgate",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Discovery House, Stornoway",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "South Muirhead Road, Glasgow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hall Street, Campbeltown",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St John Street, Stranraer",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Castlestead House, Montrose",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "High Street, Dingwall",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Waggon Road, Leven",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bayfield Road, Portree",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Nutwood House, Canterbury",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St Cross House, Southampton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown House, Chatham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Priory Court, Dover",
+      "purchase_date": "2025-06-20",
+      "page": 25,
+      "note": "FY2025 Acquisitions table: Completion Date 20 Jun 25 (p25)"
+    },
+    {
+      "property_name": "Broadlands House, Newport",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Palting House, Folkestone",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Building, Banbury",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Medwyn House, Lewes",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown House, Worthing",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Gloucester House, Bognor Regis",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "South Western House, Aldershot",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "East Street, Epsom",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Tonbridge",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown House, Romford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Broadway House, Ealing",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Peckham High Street",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Oates House, Stratford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Raydean House, Barnet",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Collyer Court, Peckham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "High Road, Ilford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Kilner House, Canning Town",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Finchley Lane, Hendon",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Medina Road, Finsbury Park",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Spring Gardens House, Swindon",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Brendon House, Taunton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Lodge House, Bristol",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Regent House, Weston Super Mare",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Summerlock House, Salisbury",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hanover House, Bridgwater",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Cyppa Court, Chippenham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Cotswold House, Torquay",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Monks Park Avenue, Bristol",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Queens House, Plymouth",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Kent Street, Bristol",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Holborn House, Derby",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bristol Road South, Birmingham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Temple House, Wolverhampton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Upper Huntbach Street, Stoke-On-Trent",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Lothersdale House, Wellingborough",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St Katherine's House, Northampton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown House, Grantham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Scotland House, Stourbridge",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Beecroft Road, Cannock",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "High Street, Bilston",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "George Street, Corby",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Saxon Mill Lane, Tamworth",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Ilkeston",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Tannery House, Alfreton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Washwood Heath Road, Birmingham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Acacia Walk, Nottingham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Parc Menai, Bangor",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Bridgend",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Cambria House, Cardiff",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Merlin House, Carmarthen",
+      "purchase_date": "2025-06-20",
+      "page": 25,
+      "note": "FY2025 Acquisitions table: Completion Date 20 Jun 25 (p25)"
+    },
+    {
+      "property_name": "Charles Street, Newport",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "High Street, Swansea",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Afon House, Newtown",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Windsor Road, Neath",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Cleddau Bridge Business Park, Pembroke Dock",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Aberdare",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Quay Street, Haverfordwest",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Thistle House, Tonypandy",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Oldway House, Swansea",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "High Street, Rhyl",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Station Road, Port Talbot",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hannah Street, Porth",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bridge Street, Llangefni",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Abertillery",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Dock Street, Porthcawl",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Maengwyn Street, Machynlleth",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Beaufort House, Harlow",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Great Oaks House, Basildon",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Custom House, Felixstowe",
+      "purchase_date": "2025-06-20",
+      "page": 25,
+      "note": "FY2025 Acquisitions table: Completion Date 20 Jun 25 (p25)"
+    },
+    {
+      "property_name": "The Forum, Stevenage",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Colchester",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Wyvern House, Bedford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St Andrew's House, Bury St Edmunds",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Rishton House, Lowestoft",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Blackburn House, Norwich",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Phoenix House, Bradford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Castle House, Huddersfield",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Chantry House, Rotherham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bradmarsh Business Park,<br>Rotherham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Centurion House, Castleford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Bridge House, Castleford",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Mexborough",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Elder House, Northallerton",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Low Hall, Pontefract",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Mulberry House, Goole",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St Andrew's House, Hexham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Ward Jackson House, Hartlepool",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hadrian House, Eston",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Broadway House, Houghton Le Spring",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Reiverdale House, Ashington",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Hatfield House, Peterlee",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Portland House, Redcar",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Crown Buildings, Chester Le Street",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Theatre Buildings, Billingham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "St John's Square, Seaham",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    },
+    {
+      "property_name": "Norham House, Berwick Upon Tweed",
+      "purchase_date": null,
+      "page": null,
+      "note": "acquisition date not disclosed in AR (only FY2025 acquisitions carry a completion date; bulk portfolio held since/before IPO, no per-property acquisition-date column in the AR)"
+    }
+  ],
+  "summary": {
+    "n_properties": 148,
+    "purchase_date_filled": 3,
+    "purchase_date_null": 145
+  }
+}

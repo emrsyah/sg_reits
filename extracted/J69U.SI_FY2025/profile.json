@@ -1,24 +1,20 @@
 {
   "symbol": "J69U.SI",
   "sub_sector": "Retail",
-  "management": [
-    {
-      "role": "reit_manager",
-      "company_name": "Frasers Centrepoint Asset Management Ltd."
-    },
-    {
-      "role": "trustee",
-      "company_name": "HSBC Institutional Trust Services (Singapore) Limited"
-    },
-    {
-      "role": "property_manager",
-      "company_name": "Frasers Property Retail Management Pte. Ltd."
-    },
-    {
-      "role": "sponsor",
-      "company_name": "Frasers Property Limited"
-    }
-  ],
+  "management": {
+    "reit_manager": [
+      "Frasers Centrepoint Asset Management Ltd."
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "property_manager": [
+      "Frasers Property Retail Management Pte. Ltd."
+    ],
+    "sponsor": [
+      "Frasers Property Limited"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 5
 }

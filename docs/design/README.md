@@ -26,6 +26,12 @@ SEA financial-data platform). It is Supertype's wedge to penetrate the Singapore
 - **The seam (non-negotiable):** our deep data is **FY2025 annual, refreshes ~yearly**; live
   yield/P-B/FX come from sectors.app's live layer. A persistent, **per-field dated LIVE-vs-ANNUAL
   seam** keeps year-old fundamentals from reading as live.
+- **Build priority — REITs DB first.** The entire MVP is buildable from our `sgx_reit_*` extraction
+  **alone**: the safety verdict, refinancing, distribution, portfolio/tenant decomposition, and
+  provenance all run on `[REIT-DB]` data. The prod tables (`sgx_daily_data`, `sgx_news`,
+  `sgx_filings`, `sgx_financials_annual`, `sgx_short_sell`) are **enrichment, mostly deferred** — the
+  only MVP prod touch is live price (to derive yield/P-B), and even that is optional for v1. Prod
+  data **never overwrites** a page-cited number. Details: [`07`](07_data_contract_ui.md) §1, §5.
 
 ## Personas
 
@@ -42,10 +48,14 @@ SEA financial-data platform). It is Supertype's wedge to penetrate the Singapore
 
 | File | What it is |
 |---|---|
+| [`00_frontend_agent_guide.md`](00_frontend_agent_guide.md) | **Start here if you're the frontend agent.** A reading guide: what to read in what order, the non-negotiable rules, where to start building, what's blocked, and what NOT to build. |
 | [`01_research.md`](01_research.md) | The research process + findings (sectors.app DNA, what S-REIT investors track, the competitive field, our differentiator, the business angle) + sources, and the data we actually hold. |
 | [`02_design_thinking.md`](02_design_thinking.md) | How the design-thinking run was structured — the 5-phase multi-agent workflow, the personas, the ideation lenses, the data-grounding/verification step. Reproducible. |
 | [`03_design_brief.md`](03_design_brief.md) | **The core deliverable** — personas, positioning verdict, prioritized JTBD, full information architecture, signature differentiators, UX principles, explicit cuts, open questions. |
 | [`04_landing_page.md`](04_landing_page.md) | The `/` landing page design (market-overview + routing hub) — not covered in the brief; designed separately. |
+| [`06_ia_and_navigation.md`](06_ia_and_navigation.md) | IA object model, global + in-page navigation, menu structures, the interaction-pattern catalogue, wayfinding, responsive behaviour, and per-persona journeys. |
+| [`07_data_contract_ui.md`](07_data_contract_ui.md) | **Engineering-facing.** Binds every UI module to exact `sgx_reit_*` fields + prod tables (`sgx_news`/`sgx_filings`/`sgx_financials_annual`/`sgx_short_sell`/`sgx_daily_data`); source taxonomy + authority rule, provenance contract, units, derived-value compute locations. |
+| [`08_verdict_methodology.md`](08_verdict_methodology.md) | The Distribution-Safety Verdict algorithm (inputs, thresholds, banding, suppression, output contract) — **PROPOSAL pending analyst sign-off.** |
 | [`05_decisions_and_open_questions.md`](05_decisions_and_open_questions.md) | Locked decisions, the data-roadmap items (features we cut because the data doesn't exist yet), the blocking open questions, and the recommended next step. |
 
 ## Related, outside this folder

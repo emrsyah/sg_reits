@@ -8,42 +8,86 @@
     "gross_income": 277980000,
     "operating_income": 233374000,
     "operating_expense": 44606000,
-    "ebit": 285014000,
-    "ebitda": 285014000,
+    "ebit": 233374000.0,
+    "ebitda": 296797000.0,
     "pretax_income": 199475000,
     "income_taxes": -387000,
     "net_income": 199862000,
     "non_operating_income_or_loss": -33899000,
-    "interest_expense_non_operating": 85539000,
+    "interest_expense_non_operating": 86163000.0,
     "weighted_avg_shares_basic": 1915296000,
     "diluted_shares_outstanding": 1922488000,
     "net_property_sales": 128000,
-    "funds_from_operation": null,
+    "funds_from_operation": 210893000.0,
     "unitholders": 199862000,
-    "perpetual_security_holders": 0,
-    "minorities": 0,
+    "perpetual_security_holders": -0.0,
+    "minorities": -0.0,
     "_derived": [
-      "operating_income",
-      "operating_expense",
+      "capital_expenditure",
+      "depreciation",
       "ebit",
       "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
       "non_operating_income_or_loss",
-      "interest_expense_non_operating"
+      "operating_expense",
+      "operating_income"
     ],
     "revenue_breakdown": [
-      {"category": "Gross rental income", "amount": 351360000, "class": "Product/Service Sales"},
-      {"category": "Gross turnover rental income", "amount": 15779000, "class": "Product/Service Sales"},
-      {"category": "Car park income", "amount": 7880000, "class": "Other income"},
-      {"category": "Others", "amount": 14584000, "class": "Other income"}
+      {
+        "category": "Gross rental income",
+        "amount": 351360000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Gross turnover rental income",
+        "amount": 15779000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Car park income",
+        "amount": 7880000,
+        "class": "Other income"
+      },
+      {
+        "category": "Others",
+        "amount": 14584000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Asset management fees", "amount": 41187000, "class": "General & Admin"},
-      {"category": "Valuation fees", "amount": 148000, "class": "General & Admin"},
-      {"category": "Trustee's fees", "amount": 1132000, "class": "General & Admin"},
-      {"category": "Audit fees", "amount": 312000, "class": "General & Admin"},
-      {"category": "Professional fees", "amount": 1058000, "class": "General & Admin"},
-      {"category": "Other charges", "amount": 769000, "class": "Other expenses"}
-    ]
+      {
+        "category": "Asset management fees",
+        "amount": 41187000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Valuation fees",
+        "amount": 148000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 1132000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Audit fees",
+        "amount": 312000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Professional fees",
+        "amount": 1058000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other charges",
+        "amount": 769000,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": 11159000
   },
   "balance_sheet_metrics": {
     "total_asset": 7612232000,
@@ -60,39 +104,207 @@
     "investing_cash_flow": -260310000,
     "financing_cash_flow": 84351000,
     "net_cash_flow": 80719000,
-    "free_cash_flow": 223645000,
-    "capital_expenditure": -33033000
+    "free_cash_flow": 223645000.0,
+    "capital_expenditure": 33033000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "gross_rental_income", "amount": 351360000, "label_raw": "Gross rental income", "source_page": 186},
-    {"statement": "revenue", "component": "gross_turnover_rental_income", "amount": 15779000, "label_raw": "Gross turnover rental income", "source_page": 186},
-    {"statement": "revenue", "component": "car_park_income", "amount": 7880000, "label_raw": "Car park income", "source_page": 186},
-    {"statement": "revenue", "component": "other_property_income", "amount": 14584000, "label_raw": "Others", "source_page": 186},
-    {"statement": "expense", "component": "property_tax", "amount": 33736000, "label_raw": "Property tax", "source_page": 186},
-    {"statement": "expense", "component": "maintenance_and_utilities", "amount": 35490000, "label_raw": "Maintenance and utilities", "source_page": 186},
-    {"statement": "expense", "component": "property_management_fees", "amount": 14903000, "label_raw": "Property management fees", "source_page": 186},
-    {"statement": "expense", "component": "property_management_reimbursements", "amount": 15495000, "label_raw": "Property management reimbursements", "source_page": 186},
-    {"statement": "expense", "component": "marketing", "amount": 6306000, "label_raw": "Marketing", "source_page": 186},
-    {"statement": "expense", "component": "net_allowance_for_doubtful_receivables", "amount": 1864000, "label_raw": "Net allowance for doubtful receivables", "source_page": 186},
-    {"statement": "expense", "component": "bad_debts_written_off", "amount": 1000, "label_raw": "Bad debts written off", "source_page": 186},
-    {"statement": "expense", "component": "bad_debts_recovered", "amount": -3000, "label_raw": "Bad debts recovered", "source_page": 186},
-    {"statement": "expense", "component": "depreciation_of_fixed_assets", "amount": 29000, "label_raw": "Depreciation of fixed assets", "source_page": 186},
-    {"statement": "expense", "component": "fixed_assets_written_off", "amount": 10000, "label_raw": "Fixed assets written off", "source_page": 186},
-    {"statement": "expense", "component": "other_property_expenses", "amount": 3792000, "label_raw": "Others", "source_page": 186},
-    {"statement": "expense", "component": "finance_costs", "amount": 86163000, "label_raw": "Finance costs", "source_page": 146},
-    {"statement": "expense", "component": "asset_management_fees", "amount": 41187000, "label_raw": "Asset management fees", "source_page": 146},
-    {"statement": "expense", "component": "valuation_fees", "amount": 148000, "label_raw": "Valuation fees", "source_page": 146},
-    {"statement": "expense", "component": "trustee_fees", "amount": 1132000, "label_raw": "Trustee's fees", "source_page": 146},
-    {"statement": "expense", "component": "audit_fees", "amount": 312000, "label_raw": "Audit fees", "source_page": 146},
-    {"statement": "expense", "component": "professional_fees", "amount": 1058000, "label_raw": "Professional fees", "source_page": 146},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 769000, "label_raw": "Other charges", "source_page": 146},
-    {"statement": "adjustment", "component": "finance_income", "amount": 624000, "label_raw": "Finance income", "source_page": 146},
-    {"statement": "adjustment", "component": "share_of_results_of_joint_ventures", "amount": 62645000, "label_raw": "Share of results of joint ventures", "source_page": 146},
-    {"statement": "adjustment", "component": "gain_on_divestment", "amount": 128000, "label_raw": "Gain on divestment of investment property and investment in joint venture", "source_page": 146},
-    {"statement": "adjustment", "component": "net_change_in_fair_value_of_investment_properties", "amount": -11130000, "label_raw": "Net change in fair value of investment properties", "source_page": 146},
-    {"statement": "adjustment", "component": "net_foreign_exchange_loss", "amount": -3000, "label_raw": "Net foreign exchange loss", "source_page": 146},
-    {"statement": "adjustment", "component": "taxation", "amount": 387000, "label_raw": "Taxation (net credit)", "source_page": 146}
+    {
+      "statement": "revenue",
+      "component": "gross_rental_income",
+      "amount": 351360000,
+      "label_raw": "Gross rental income",
+      "source_page": 186
+    },
+    {
+      "statement": "revenue",
+      "component": "gross_turnover_rental_income",
+      "amount": 15779000,
+      "label_raw": "Gross turnover rental income",
+      "source_page": 186
+    },
+    {
+      "statement": "revenue",
+      "component": "car_park_income",
+      "amount": 7880000,
+      "label_raw": "Car park income",
+      "source_page": 186
+    },
+    {
+      "statement": "revenue",
+      "component": "other_property_income",
+      "amount": 14584000,
+      "label_raw": "Others",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "property_tax",
+      "amount": 33736000,
+      "label_raw": "Property tax",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "maintenance_and_utilities",
+      "amount": 35490000,
+      "label_raw": "Maintenance and utilities",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_fees",
+      "amount": 14903000,
+      "label_raw": "Property management fees",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_reimbursements",
+      "amount": 15495000,
+      "label_raw": "Property management reimbursements",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "marketing",
+      "amount": 6306000,
+      "label_raw": "Marketing",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "net_allowance_for_doubtful_receivables",
+      "amount": 1864000,
+      "label_raw": "Net allowance for doubtful receivables",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "bad_debts_written_off",
+      "amount": 1000,
+      "label_raw": "Bad debts written off",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "bad_debts_recovered",
+      "amount": -3000,
+      "label_raw": "Bad debts recovered",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "depreciation_of_fixed_assets",
+      "amount": 29000,
+      "label_raw": "Depreciation of fixed assets",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "fixed_assets_written_off",
+      "amount": 10000,
+      "label_raw": "Fixed assets written off",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "other_property_expenses",
+      "amount": 3792000,
+      "label_raw": "Others",
+      "source_page": 186
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 86163000,
+      "label_raw": "Finance costs",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "asset_management_fees",
+      "amount": 41187000,
+      "label_raw": "Asset management fees",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "valuation_fees",
+      "amount": 148000,
+      "label_raw": "Valuation fees",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fees",
+      "amount": 1132000,
+      "label_raw": "Trustee's fees",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "audit_fees",
+      "amount": 312000,
+      "label_raw": "Audit fees",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "professional_fees",
+      "amount": 1058000,
+      "label_raw": "Professional fees",
+      "source_page": 146
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 769000,
+      "label_raw": "Other charges",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 624000,
+      "label_raw": "Finance income",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_results_of_joint_ventures",
+      "amount": 62645000,
+      "label_raw": "Share of results of joint ventures",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "gain_on_divestment",
+      "amount": 128000,
+      "label_raw": "Gain on divestment of investment property and investment in joint venture",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "net_change_in_fair_value_of_investment_properties",
+      "amount": -11130000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "net_foreign_exchange_loss",
+      "amount": -3000,
+      "label_raw": "Net foreign exchange loss",
+      "source_page": 146
+    },
+    {
+      "statement": "adjustment",
+      "component": "taxation",
+      "amount": 387000,
+      "label_raw": "Taxation (net credit)",
+      "source_page": 146
+    }
   ],
   "source_page": 146
 }

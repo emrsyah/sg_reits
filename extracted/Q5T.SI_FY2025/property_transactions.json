@@ -14,6 +14,16 @@
     "valuation_currency": "JPY",
     "valuation_basis": "Independent valuation by CBRE K.K. as at 31 December 2025, JPY 7,790 million, discounted cash flow method (Note 4); year-end valuation, distinct from the JPY 6,000m purchase price",
     "note": "First overseas acquisition; acquired the trust beneficial interest of FPN from Godo Kaisha Pothos, an unrelated third party. Purchase price JPY 6,000 million (~S$56.5m acquisition of investment property per cash flow; H-REIT Group adjusted purchase consideration S$10,511k at Stapled level reclassified to PPE). Funded by term loans (JPY 5.9bn), RCF (JPY 364.9m) and a 4-year TMK bond (JPY 0.5bn).",
-    "source_page": 31
+    "source_page": 31,
+    "deal_id": "q5t:four_points_by_sheraton_nagoya_chubu_international_airport:acquisition:2025",
+    "announced_date": "2025-02-20",
+    "completed_date": "2025-04-25",
+    "gain_loss_pct": -22.98,
+    "gain_basis": "vs_valuation",
+    "valuation_date": "2025-12-31",
+    "source_type": "annual_report",
+    "transaction_date": "2025-04-25",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "vs_valuation (DERIVED, acquisition discount): purchase price JPY 6,000m vs independent valuation JPY 7,790m as at 31 Dec 2025 (CBRE, discounted cash flow method); (6,000-7,790)/7,790 = -22.98%. Negative = acquired ~23% below year-end independent valuation (favourable to buyer). No premium/discount % disclosed verbatim in AR; derived from disclosed purchase price and valuation. Gain concepts (gain_on_divestment/net proceeds) are N/A for an acquisition."
   }
 ]

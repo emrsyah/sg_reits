@@ -1,0 +1,200 @@
+[
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "3PL/Distribution",
+    "pct": 28.4,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "3PL/Distribution",
+    "pct": 0.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Consumer & Retail Products",
+    "pct": 18.3,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Consumer & Retail Products",
+    "pct": 1.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing",
+    "pct": 6.7,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT Products & Services",
+    "pct": 6.0,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Automotives Manufacturing",
+    "pct": 5.5,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Automotives Manufacturing",
+    "pct": 0.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "Government/Government-linked",
+    "pct": 5.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Engineering",
+    "pct": 1.4,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Engineering",
+    "pct": 2.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Insurance & Financial Services",
+    "pct": 3.4,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Mining/Resources",
+    "pct": 2.6,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Consultancy/Business Solutions",
+    "pct": 2.1,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Medical/Pharmaceuticals",
+    "pct": 1.9,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Multimedia & Telecommunications",
+    "pct": 1.7,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Electronics",
+    "pct": 0.5,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Electronics",
+    "pct": 1.1,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Flexible Workspace",
+    "pct": 1.0,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverage",
+    "pct": 0.8,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Others",
+    "pct": 3.6,
+    "pct_basis": "gri_logistics_industrial",
+    "source_page": 36
+  },
+  {
+    "symbol": "BUOU.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Others",
+    "pct": 4.5,
+    "pct_basis": "gri_commercial",
+    "source_page": 36
+  }
+]

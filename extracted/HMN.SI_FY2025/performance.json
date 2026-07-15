@@ -45,5 +45,18 @@
     "kpi_sources": "p8 5-Year Summary + p21 Capital Management Key Financial Indicators: Aggregate Leverage 37.7%, ICR 3.0x, Effective Interest Rate (cost of debt) 2.9%, Weighted Average Debt to Maturity 3.4 years, NAV per Stapled Security S$1.17; p23/p27 Portfolio Occupancy 80% (FY2025).",
     "wale_null_reason": "No single portfolio WALE disclosed. CLAS obtained a MAS waiver (Property Funds Appendix 11.1(c)(iv)/(v)) from disclosing weighted average lease expiry for properties under management contracts (the bulk of the portfolio). Only narrow-scope figures disclosed: master leases (28 properties) WALE ~11 years by valuation (p25); MCMGI weighted average remaining term ~14 years (p25). Not a portfolio-wide WALE, so left null per §0.6."
   },
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 3831131000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 134789000,
+  "distribution_cash_paid": 231247000,
+  "distributable_income_closing": 137050000,
+  "flags": [
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 23200000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Source: audited Distribution Statement of CapitaLand Ascott Trust (Stapled Group, 2025 column), p116. A (opening carry) = 134,789; B (for-year income) = 256,708; P (cash distributions paid during the year) = 231,247 [= 3.550c 2H2024 tranche 134,764 + 2.526c 1H2025 tranche 96,483, tranches crossing fiscal years]; E (closing carry) = 137,050. B is the genuine for-year subtotal (327,614 total return "
+    }
+  ],
+  "distribution_pool_other_movements": -23200000
 }

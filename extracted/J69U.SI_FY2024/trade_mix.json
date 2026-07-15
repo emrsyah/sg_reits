@@ -1,0 +1,128 @@
+[
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverage",
+    "pct": 37.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Beauty & Healthcare",
+    "pct": 15.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Fashion & Accessories",
+    "category_raw": "Fashion & Accessories",
+    "pct": 11.0,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Sundry & Services",
+    "pct": 8.1,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Departmental Store/Supermarket",
+    "category_raw": "Supermarket & Grocers",
+    "pct": 6.3,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Homeware & Furnishing",
+    "pct": 3.2,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Information & Technology",
+    "pct": 2.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Leisure & Entertainment",
+    "pct": 2.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Jewellery & Watches",
+    "pct": 2.6,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Electrical & Electronics",
+    "pct": 2.3,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Department Store",
+    "pct": 2.2,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Books, Music, Arts & Craft, Hobbies",
+    "pct": 2.1,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Education",
+    "pct": 1.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  },
+  {
+    "symbol": "J69U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Sports Apparel & Equipment",
+    "pct": 1.8,
+    "pct_basis": "gri",
+    "source_page": 32
+  }
+]

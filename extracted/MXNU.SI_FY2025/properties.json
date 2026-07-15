@@ -32,7 +32,8 @@
     "purchase_price": 28200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 28.2m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -67,7 +68,8 @@
     "purchase_price": 5300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 5.3m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -102,7 +104,8 @@
     "purchase_price": 10500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 10.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -137,7 +140,8 @@
     "purchase_price": 9100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 9.1m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -172,7 +176,8 @@
     "purchase_price": 4700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.7m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -207,7 +212,8 @@
     "purchase_price": 6000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.0m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -242,7 +248,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -277,7 +284,8 @@
     "purchase_price": 2500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -312,7 +320,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -347,7 +356,8 @@
     "purchase_price": 4200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.2m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -382,7 +392,8 @@
     "purchase_price": 1500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -417,7 +428,8 @@
     "purchase_price": 3500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -452,7 +464,8 @@
     "purchase_price": 2200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.2m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -487,7 +500,8 @@
     "purchase_price": 2500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -522,7 +536,8 @@
     "purchase_price": 2100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.1m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -557,7 +572,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -592,7 +608,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -627,7 +644,8 @@
     "purchase_price": 1100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.1m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -662,7 +680,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -697,7 +716,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -732,7 +752,8 @@
     "purchase_price": 800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.8m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -767,7 +788,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -802,7 +824,8 @@
     "purchase_price": 500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.5m (pNone); matched by name",
-    "purchase_price_source_page": null
+    "purchase_price_source_page": null,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -837,7 +860,8 @@
     "purchase_price": 31800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 31.8m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -872,7 +896,8 @@
     "purchase_price": 7400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 7.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -907,7 +932,8 @@
     "purchase_price": 3600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.6m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -942,7 +968,8 @@
     "purchase_price": 3000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.0m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -983,7 +1010,8 @@
     "purchase_price": 7400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 7.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1018,7 +1046,8 @@
     "purchase_price": 3400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1053,7 +1082,8 @@
     "purchase_price": 2800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.8m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1088,7 +1118,8 @@
     "purchase_price": 2800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.8m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1123,7 +1154,8 @@
     "purchase_price": 2600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.6m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1158,7 +1190,8 @@
     "purchase_price": 3400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1193,7 +1226,8 @@
     "purchase_price": 2800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.8m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1234,7 +1268,8 @@
     "purchase_price": 4700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.7m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1269,7 +1304,8 @@
     "purchase_price": 4500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.5m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1304,7 +1340,8 @@
     "purchase_price": 2000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.0m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1339,7 +1376,8 @@
     "purchase_price": 1500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.5m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1374,7 +1412,8 @@
     "purchase_price": 1400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1409,7 +1448,8 @@
     "purchase_price": 2800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.8m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1444,7 +1484,8 @@
     "purchase_price": 1100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.1m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1479,7 +1520,8 @@
     "purchase_price": 900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.9m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1514,7 +1556,8 @@
     "purchase_price": 600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.6m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1549,7 +1592,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1584,7 +1628,8 @@
     "purchase_price": 400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.4m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1619,7 +1664,8 @@
     "purchase_price": 300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.3m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1654,7 +1700,8 @@
     "purchase_price": 300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.3m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1689,7 +1736,8 @@
     "purchase_price": 300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.3m (p41); matched by name",
-    "purchase_price_source_page": 41
+    "purchase_price_source_page": 41,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1724,7 +1772,8 @@
     "purchase_price": 9600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 9.6m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1759,7 +1808,8 @@
     "purchase_price": 5500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 5.5m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1794,7 +1844,8 @@
     "purchase_price": 6700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.7m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1829,7 +1880,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": "2025-06-20"
   },
   {
     "symbol": "MXNU.SI",
@@ -1864,7 +1916,8 @@
     "purchase_price": 8400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 8.4m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1899,7 +1952,8 @@
     "purchase_price": 4800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.8m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1934,7 +1988,8 @@
     "purchase_price": 4100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.1m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -1969,7 +2024,8 @@
     "purchase_price": 6000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.0m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2004,7 +2060,8 @@
     "purchase_price": 6100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.1m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2039,7 +2096,8 @@
     "purchase_price": 3000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.0m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2074,7 +2132,8 @@
     "purchase_price": 2200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.2m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2109,7 +2168,8 @@
     "purchase_price": 2600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.6m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2144,7 +2204,8 @@
     "purchase_price": 3000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.0m (p43); matched by name",
-    "purchase_price_source_page": 43
+    "purchase_price_source_page": 43,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2179,7 +2240,8 @@
     "purchase_price": 12200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 12.2m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2214,7 +2276,8 @@
     "purchase_price": 10900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 10.9m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2249,7 +2312,8 @@
     "purchase_price": 9600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 9.6m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2284,7 +2348,8 @@
     "purchase_price": 8600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 8.6m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2319,7 +2384,8 @@
     "purchase_price": 8300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 8.3m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2354,7 +2420,8 @@
     "purchase_price": 8400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 8.4m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2389,7 +2456,8 @@
     "purchase_price": 5800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 5.8m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2424,7 +2492,8 @@
     "purchase_price": 6300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.3m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2459,7 +2528,8 @@
     "purchase_price": 5600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 5.6m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2494,7 +2564,8 @@
     "purchase_price": 6400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.4m (p45); matched by name",
-    "purchase_price_source_page": 45
+    "purchase_price_source_page": 45,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2529,7 +2600,8 @@
     "purchase_price": 7800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 7.8m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2564,7 +2636,8 @@
     "purchase_price": 5600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 5.6m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2599,7 +2672,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2634,7 +2708,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2669,7 +2744,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2704,7 +2780,8 @@
     "purchase_price": 2100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.1m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2739,7 +2816,8 @@
     "purchase_price": 2100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.1m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2774,7 +2852,8 @@
     "purchase_price": 3300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.3m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2809,7 +2888,8 @@
     "purchase_price": 2200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.2m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2844,7 +2924,8 @@
     "purchase_price": 1400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.4m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2879,7 +2960,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (p47); matched by name",
-    "purchase_price_source_page": 47
+    "purchase_price_source_page": 47,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2914,7 +2996,8 @@
     "purchase_price": 6400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.4m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2949,7 +3032,8 @@
     "purchase_price": 4300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.3m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -2984,7 +3068,8 @@
     "purchase_price": 3000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.0m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3019,7 +3104,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3054,7 +3140,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3089,7 +3176,8 @@
     "purchase_price": 2100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.1m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3124,7 +3212,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3159,7 +3248,8 @@
     "purchase_price": 1800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.8m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3194,7 +3284,8 @@
     "purchase_price": 1800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.8m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3229,7 +3320,8 @@
     "purchase_price": 1700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.7m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3264,7 +3356,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3299,7 +3392,8 @@
     "purchase_price": 1400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.4m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3334,7 +3428,8 @@
     "purchase_price": 1400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.4m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3369,7 +3464,8 @@
     "purchase_price": 1200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.2m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3404,7 +3500,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3439,7 +3536,8 @@
     "purchase_price": 800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.8m (p49); matched by name",
-    "purchase_price_source_page": 49
+    "purchase_price_source_page": 49,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3474,7 +3572,8 @@
     "purchase_price": 4000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.0m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3509,7 +3608,8 @@
     "purchase_price": 4300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.3m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3550,7 +3650,8 @@
     "purchase_price": 4900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.9m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3585,7 +3686,8 @@
     "purchase_price": 1800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.8m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": "2025-06-20"
   },
   {
     "symbol": "MXNU.SI",
@@ -3620,7 +3722,8 @@
     "purchase_price": 2200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.2m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3655,7 +3758,8 @@
     "purchase_price": 2200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.2m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3690,7 +3794,8 @@
     "purchase_price": 1700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.7m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3725,7 +3830,8 @@
     "purchase_price": 1500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.5m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3760,7 +3866,8 @@
     "purchase_price": 1400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.4m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3795,7 +3902,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3830,7 +3938,8 @@
     "purchase_price": 800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.8m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3865,7 +3974,8 @@
     "purchase_price": 1200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.2m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3900,7 +4010,8 @@
     "purchase_price": 1300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.3m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3935,7 +4046,8 @@
     "purchase_price": 900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.9m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -3970,7 +4082,8 @@
     "purchase_price": 800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.8m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4005,7 +4118,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4040,7 +4154,8 @@
     "purchase_price": 800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.8m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4075,7 +4190,8 @@
     "purchase_price": 400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.4m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4110,7 +4226,8 @@
     "purchase_price": 300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.3m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4145,7 +4262,8 @@
     "purchase_price": 200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.2m (p51); matched by name",
-    "purchase_price_source_page": 51
+    "purchase_price_source_page": 51,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4180,7 +4298,8 @@
     "purchase_price": 6400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 6.4m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4215,7 +4334,8 @@
     "purchase_price": 9000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 9.0m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4250,7 +4370,8 @@
     "purchase_price": 3400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.4m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": "2025-06-20"
   },
   {
     "symbol": "MXNU.SI",
@@ -4291,7 +4412,8 @@
     "purchase_price": 4800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.8m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4326,7 +4448,8 @@
     "purchase_price": 3800000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.8m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4361,7 +4484,8 @@
     "purchase_price": 3200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.2m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4396,7 +4520,8 @@
     "purchase_price": 3300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.3m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4431,7 +4556,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4466,7 +4592,8 @@
     "purchase_price": 1500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.5m (p53); matched by name",
-    "purchase_price_source_page": 53
+    "purchase_price_source_page": 53,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4501,7 +4628,8 @@
     "purchase_price": 4500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 4.5m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4536,7 +4664,8 @@
     "purchase_price": 2700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.7m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4571,7 +4700,8 @@
     "purchase_price": 1600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.6m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4606,7 +4736,8 @@
     "purchase_price": 1200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.2m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4641,7 +4772,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4676,7 +4808,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4711,7 +4844,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4746,7 +4880,8 @@
     "purchase_price": 1000000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.0m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4781,7 +4916,8 @@
     "purchase_price": 900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.9m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4816,7 +4952,8 @@
     "purchase_price": 400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.4m (p55); matched by name",
-    "purchase_price_source_page": 55
+    "purchase_price_source_page": 55,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4851,7 +4988,8 @@
     "purchase_price": 3100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 3.1m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4886,7 +5024,8 @@
     "purchase_price": 2300000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 2.3m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4921,7 +5060,8 @@
     "purchase_price": 1500000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.5m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4956,7 +5096,8 @@
     "purchase_price": 1600000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.6m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -4991,7 +5132,8 @@
     "purchase_price": 1200000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.2m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5026,7 +5168,8 @@
     "purchase_price": 1100000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 1.1m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5061,7 +5204,8 @@
     "purchase_price": 900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.9m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5096,7 +5240,8 @@
     "purchase_price": 900000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.9m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5131,7 +5276,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5166,7 +5312,8 @@
     "purchase_price": 700000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.7m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   },
   {
     "symbol": "MXNU.SI",
@@ -5201,6 +5348,7 @@
     "purchase_price": 400000.0,
     "purchase_price_currency": "GBP",
     "purchase_price_note": "Portfolio Profiles regional table 'Purchase Price' column: GBP 0.4m (p57); matched by name",
-    "purchase_price_source_page": 57
+    "purchase_price_source_page": 57,
+    "purchase_date": null
   }
 ]

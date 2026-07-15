@@ -82,22 +82,18 @@ class Flag(BaseModel):
     note: Optional[str] = Field(None, description="human-readable explanation")
 
 
-class ManagerEntity(BaseModel):
-    role: Literal["reit_manager", "property_manager", "trustee", "sponsor",
-                  "operator", "master_lessee"] = Field(description="the entity's role")
-    company_name: str = Field(description="the company/entity name as printed")
-
-
 class Profile(BaseModel):
     """sgx_reit_profile — one per trust. REIT-specific columns only."""
     symbol: str = Field(description="SGX ticker with .SI suffix, e.g. C38U.SI")
     sub_sector: Optional[str] = Field(
         None, description="REIT sub-sector: one of Retail | Office | Industrial | "
         "Hospitality | Healthcare | Data Centre | Diversified")
-    management: list[ManagerEntity] = Field(
-        default_factory=list,
-        description="manager entities and their roles (reit_manager, trustee, "
-        "property_manager, sponsor, operator, master_lessee)")
+    management: dict[str, list[str]] = Field(
+        default_factory=dict,
+        description="role -> list of company names. Value is ALWAYS a list (duplicate roles "
+        "preserved), e.g. {'reit_manager': [...], 'trustee': [...], 'sponsor': [...], "
+        "'property_manager': [...], 'operator': [...], 'master_lessee': [...]}. Valid roles: "
+        "reit_manager, property_manager, trustee, sponsor, operator, master_lessee.")
     income_model: Optional[str] = Field(
         None, description="conventional | master_lease | mcmgi | management_contract "
         "| entrusted_management | fri | mixed (working metadata; not loaded to DB)")
@@ -143,6 +139,13 @@ class Property(BaseModel):
         "ratio: many portfolio tables print foreign assets' cost in LOCAL currency (RMB/AUD/JPY) "
         "while market_valuation is the SGD-presented figure — so compare cost against original_value "
         "(local) when this differs from `currency`, not against the SGD valuation. Added 2026-06-23.")
+    purchase_date: Optional[str] = Field(
+        None, description="date the property was acquired by the trust, AS-DISCLOSED string. Accepts a "
+        "full date 'YYYY-MM-DD' OR a bare year 'YYYY' when that is all the report gives (common for "
+        "older assets) — store the year verbatim, do NOT fabricate a day/month. Sourced from "
+        "'acquisition date'/'date of acquisition'/'completion date'/'date of purchase' in the "
+        "portfolio statement or property overview; ALSO accept an 'acquisition_date' key. Do NOT "
+        "derive from valuation_date; null if not disclosed. Added 2026-07-06.")
     valuation_date: Optional[str] = Field(None, description="FS valuation date YYYY-MM-DD")
     currency: Optional[str] = Field(
         None, description="presentation currency of market_valuation (as the audited statement "
@@ -156,6 +159,17 @@ class Property(BaseModel):
         None, description="AUDIT TRAIL — market_valuation in original_currency, absolute units. "
         "Do NOT convert/derive; only when the report prints the local-currency figure. "
         "Alias: local_currency_value (A17U).")
+    market_valuation_currency: Optional[str] = Field(
+        None, description="per-figure currency of market_valuation (Wave 9). Populated on load = "
+        "original_currency (foreign rows) else currency; makes market_valuation carry an explicit "
+        "tag like the other three monetary figures. Do NOT convert.")
+    purchase_price_local: Optional[float] = Field(
+        None, description="AUDIT TRAIL (Wave 9) — as-reported LOCAL acquisition cost when the report "
+        "ALSO prints it in the asset's local ccy (e.g. CY6U India cost in INR), absolute units. "
+        "purchase_price stays the presentation-ccy figure; this is the local sibling for date-keyed "
+        "FX. Do NOT convert/derive; only when the report prints the local figure.")
+    purchase_price_local_currency: Optional[str] = Field(
+        None, description="currency of purchase_price_local (e.g. INR).")
     net_property_income: Optional[float] = Field(None, description="as-disclosed only")
     net_property_income_currency: Optional[str] = Field(
         None, description="per-figure currency of net_property_income; some REITs (e.g. DHLU) report "
@@ -184,10 +198,19 @@ class Property(BaseModel):
         "of gla/nla/gfa is set. Prod normalizes all areas to sqft at load (sqm x 10.7639).")
     land_tenure: Optional[LandTenure] = Field(
         None, description="Freehold or Leasehold ONLY; verbatim wording -> tenure_raw")
-    effective_date: Optional[str] = Field(None, description="land-lease start YYYY-MM-DD")
-    lease_term_years: Optional[float] = Field(None, description="land-lease term, e.g. 99")
-    lease_expiry_date: Optional[str] = Field(None, description="YYYY-MM-DD when disclosed")
+    effective_date: Optional[str] = Field(None, description="lease commencement date, AS-DISCLOSED "
+        "string: full 'YYYY-MM-DD' OR bare year 'YYYY'. Disclosed-only — do NOT derive/impute.")
+    lease_term_years: Optional[float] = Field(None, description="ACTUAL base head-lease term X, e.g. 99. "
+        "NEVER the remaining term. If the AR discloses ONLY a remaining term, leave null + explain in "
+        "lease_terms_flags. If the AR discloses an options-inclusive total (X+Y) with X separable, store "
+        "X; if X is NOT separable, keep the disclosed (options-inclusive) figure + explain in "
+        "lease_terms_flags.")
+    lease_expiry_date: Optional[str] = Field(None, description="lease expiry, AS-DISCLOSED string: "
+        "full 'YYYY-MM-DD' OR bare year 'YYYY' when only the year is knowable.")
     tenure_raw: Optional[str] = Field(None, description="verbatim tenure disclosure")
+    lease_terms_flags: Optional[str] = Field(None, description="free-text note explaining a lease-term "
+        "caveat, e.g. 'term is options-inclusive; base not separately disclosed' or 'AR discloses only "
+        "remaining term'. Null when no issue. (Persisted column — flags[] is not prod-facing.)")
     status: PropertyStatus = "active"
     flags: list[Flag] = Field(
         default_factory=list,
@@ -205,7 +228,31 @@ class Performance(BaseModel):
     properties_location: Optional[str] = None
     gross_revenue: Optional[float] = None
     net_property_income: Optional[float] = None
-    net_distributable_income: Optional[float] = None
+    net_distributable_income: Optional[float] = Field(None, description="the FY 'income/amount "
+        "available for distribution to Unitholders for the year' — BEFORE any voluntary "
+        "working-capital retention (the manager's gross distributable income, the comparable "
+        "metric). NOT the cumulative 'amount available' (which folds in the prior-year opening "
+        "carry-forward — a common extraction error), NOT the after-retention amount, NOT the "
+        "end-of-year balance. Convention locked 2026-07-08 (before-retention). Whether/how much "
+        "retention applies is recorded in distribution_basis; the exact retention arithmetic depends "
+        "on the distribution_paid definition (still being finalized) — do NOT assume a fixed identity.")
+    distributable_income_opening: Optional[float] = Field(
+        None, description="DISTRIBUTION ROLLFORWARD line A — 'income available for distribution to "
+        "Unitholders at the BEGINNING of the year' (prior-year retained carry-forward brought in). "
+        "Read VERBATIM from the audited Distribution Statement; null if that line is not disclosed. "
+        "Added 2026-07-09.")
+    distribution_cash_paid: Optional[float] = Field(
+        None, description="DISTRIBUTION ROLLFORWARD line P — cash ACTUALLY PAID OUT during the year "
+        "('Total Unitholders' distribution', incl. capital-gains top-ups; sums the period tranches "
+        "paid, which span fiscal years). DISTINCT from distribution_paid (the amount DECLARED for "
+        "THIS year / DPU basis) — do not conflate. Read verbatim from the Distribution Statement; "
+        "null if not disclosed. Added 2026-07-09.")
+    distributable_income_closing: Optional[float] = Field(
+        None, description="DISTRIBUTION ROLLFORWARD line E — 'income available for distribution to "
+        "Unitholders at the END of the year' (retained to next year). Read verbatim; null if not "
+        "disclosed. GUARD (when A/B/P/E all disclosed): distributable_income_opening + "
+        "net_distributable_income - distribution_cash_paid == distributable_income_closing. The "
+        "cumulative 'available' line (= A + B) is display-derived, NOT stored. Added 2026-07-09.")
     adjusted_distributable_income: Optional[float] = Field(
         None, description="distributable income AFTER the fee adjustment (e.g. fees deducted "
         "rather than taken in units); null when the report shows only one distributable-income "
@@ -235,6 +282,33 @@ class Performance(BaseModel):
         None, description="per-period distributions when split (e.g. H1/H2): "
         "[{period, dpu, ex_date, pay_date}] — captures the half-year DPU case")
     number_of_unitholders: Optional[int] = None
+    number_of_shareholder_units: Optional[float] = Field(
+        None, description="total units in issue at period end (closing units outstanding), absolute "
+        "count — the trust-level unit base, distinct from number_of_unitholders (headcount of holders) "
+        "and from income_stmt_metrics.weighted_avg_shares_basic/diluted (period averages for EPU/DPU). "
+        "Sourced verbatim from the Statement of Movements in Unitholders' Funds / units-in-issue note. "
+        "Do NOT reverse-calc from distribution_paid/DPU. Added 2026-07-06.")
+    units_to_be_issued: Optional[float] = Field(
+        None, description="units NOT YET issued but committed at period end — Manager's "
+        "management/acquisition/divestment fees payable in Units (declared, awaiting issuance), "
+        "absolute count. Sourced verbatim from the 'Units to be issued' line of the units-in-issue "
+        "note / Statement of Movements in Unitholders' Funds. Sums with number_of_shareholder_units "
+        "to give total issued+issuable units (the diluted-DPU unit base). Do NOT fold into "
+        "number_of_shareholder_units (which is issued-only, at period end). Added 2026-07-13.")
+    distribution_pool_other_movements: Optional[float] = Field(
+        None, description="SIGNED $ — printed Distribution-Statement pool additions(+)/deductions(-) "
+        "that sit BETWEEN the for-year available line (net_distributable_income, B) and the "
+        "distribution-paid rows. Examples: a 'Distribution of gains from divestment' addition "
+        "(ME8U FY24/25 +13,354k), a capex/working-capital retention deduction (C2PU FY2024 -3,000k). "
+        "NULL when the statement shows no such line (most REITs). Read verbatim; sum is signed. "
+        "Extends the rollforward guard to A + B + distribution_pool_other_movements - "
+        "distribution_cash_paid == distributable_income_closing, and lets the sgx_manual_input "
+        "distributable_income projection reproduce the colleague's figure exactly. Added 2026-07-14.")
+    dpu_period_months: Optional[float] = Field(
+        None, description="number of months the DPU covers. 12 for a normal full-year DPU; <12 for a "
+        "stub/partial-year DPU (e.g. an IPO first-period like 8C8U's ~3.4 months, or a post-suspension "
+        "resumption like CMOU's 2H-only 6 months). Records the disclosed distribution period; do NOT "
+        "annualize/scale the DPU value itself. Added 2026-07-06.")
     # --- as-disclosed comparison KPIs (added 2026-06-18) — capture verbatim, null if not disclosed ---
     aggregate_leverage: Optional[float] = Field(
         None, description="aggregate leverage / gearing ratio, percent plain number e.g. 38.5")
@@ -442,39 +516,62 @@ class PropertyTransaction(BaseModel):
         "from transaction_type (announced_/terminated) or an explicit status "
         "(pending/subsequent_event -> announced) so realized-gain views can filter cleanly.")
     property_name: Optional[str] = None
+    deal_id: Optional[str] = Field(
+        None, description="stable per-deal identity — the join key that merges a plan announcement "
+        "with its completion and dedups an announcement against the AR row for the same deal. Anchor "
+        "on the SGX plan-announcement reference/URL when present; else a deterministic slug "
+        "{symbol}:{normalized_property_name}:{transaction_type}:{effective_year}. Added 2026-07-09.")
     transaction_date: Optional[str] = Field(
-        None, description="completion/effective date of the deal, YYYY-MM-DD. Aliases: date, "
-        "completion_date, completed_date, agreement_date, announced_date, announcement_date.")
+        None, description="PRIMARY effective date of the deal, YYYY-MM-DD (= completed_date if "
+        "completed, else announced_date). Aliases: date, completion_date, completed_date, "
+        "agreement_date, announced_date, announcement_date.")
+    announced_date: Optional[str] = Field(
+        None, description="date of the PLAN/proposed announcement (YYYY-MM-DD). Added 2026-07-09.")
+    completed_date: Optional[str] = Field(
+        None, description="date completion was announced/effective (YYYY-MM-DD). Added 2026-07-09.")
     purchase_price: Optional[float] = Field(
         None, description="ACQUISITION consideration paid. Aliases (when type=acquisition): "
         "price, acquisition_price, purchase_consideration, transaction_price, consideration, "
         "consideration_sgd, amount. Often not disclosed per-deal (~20%).")
-    gross_sale_price: Optional[float] = Field(
-        None, description="DIVESTMENT gross sale price / consideration (transaction costs NOT "
-        "deducted). Aliases (when type=divestment): sale_price, sale_consideration, price, "
-        "consideration, divestment_price, consideration_sgd, amount. Phase-1 split (2026-07-01): "
-        "kept DISTINCT from net_sale_proceeds because 10 divestments disclose both.")
+    sale_price: Optional[float] = Field(
+        None, description="DIVESTMENT sale consideration AS DISCLOSED (renamed from gross_sale_price "
+        "2026-07-09). The headline transacted price; do NOT assert 'gross / before costs' unless the "
+        "report says so. When a report separately discloses BOTH a gross price and a net figure, "
+        "sale_price holds the gross and net_sale_proceeds the net. Aliases: gross_sale_price, "
+        "sale_consideration, price, consideration, divestment_price, consideration_sgd, amount.")
     net_sale_proceeds: Optional[float] = Field(
-        None, description="DIVESTMENT proceeds NET of transaction costs. Aliases: net_proceeds, "
-        "net_consideration_usd. The AR rarely discloses per-deal costs, so this is populated on "
-        "only ~13 rows; gross_sale_price is the common case.")
+        None, description="DIVESTMENT proceeds NET of transaction costs — populated ONLY when the "
+        "report discloses a distinct net-of-cost figure (e.g. 'net sales consideration after "
+        "divestment expenses'); else NULL — do NOT derive from gain/carrying. Aliases: net_proceeds, "
+        "net_consideration_usd.")
     carrying_value: Optional[float] = Field(
         None, description="book value just before divestment (basis for gain). Alias: carrying_value_pre.")
     gain_on_divestment: Optional[float] = Field(
         None, description="realized gain = (net_sale_proceeds or gross_sale_price) - carrying_value "
         "(gain vs BOOK, not vs original cost). Aliases: gain, gain_on_disposal, gain_loss, "
         "divestment_gain, net_gain.")
+    gain_loss_pct: Optional[float] = Field(
+        None, description="realized gain/(loss) as a signed %; pairs with gain_basis. Disclosed "
+        "(e.g. 'X% premium over valuation') or derived from the figures. Added 2026-07-09.")
+    gain_basis: Optional[str] = Field(
+        None, description="what gain_on_divestment / gain_loss_pct is measured against: "
+        "'vs_book_value' ((net_sale_proceeds or sale_price) - carrying_value; the accounting gain) | "
+        "'vs_valuation' (sale_price - valuation; the 'premium over valuation') | 'vs_cost' (vs "
+        "original purchase cost). Keeps the book gain and the valuation premium from being conflated. "
+        "Added 2026-07-09.")
     valuation: Optional[float] = Field(
         None, description="independent appraised value at the deal (benchmark vs the transacted "
         "price; distinct from the sale/purchase figures). Phase-B column. Aliases: appraised_value, "
         "agreed_value, valuation_at_acquisition, gross_valuation_usd.")
+    valuation_date: Optional[str] = Field(
+        None, description="the 'as at' date of the cited valuation (YYYY-MM-DD). Added 2026-07-09.")
     interest_pct: Optional[float] = Field(
         None, description="% ownership interest acquired/divested for partial or NCI deals. "
         "Aliases: interest_acquired_pct, interest_acquired, interest_divested.")
     # per-figure currency (Phase-1 2026-07-01): 14 rows mix >=2 currencies across figures.
     # Each defaults to the row `currency` when the AR didn't tag the figure separately.
     purchase_price_currency: Optional[str] = None
-    gross_sale_price_currency: Optional[str] = Field(None, description="Aliases: sale_price_currency, consideration_currency.")
+    sale_price_currency: Optional[str] = Field(None, description="Aliases: gross_sale_price_currency, consideration_currency.")
     net_sale_proceeds_currency: Optional[str] = Field(None, description="Alias: net_proceeds_currency.")
     carrying_value_currency: Optional[str] = None
     gain_currency: Optional[str] = Field(None, description="Alias: gain_on_divestment_currency.")
@@ -488,6 +585,13 @@ class PropertyTransaction(BaseModel):
         "Aliases: buyer, purchaser, seller, vendor.")
     currency: Optional[str] = Field(None, description="row-level presentation currency; default for untagged per-figure currencies.")
     source_page: Optional[int] = None
+    source_type: Optional[str] = Field(
+        "annual_report", description="'annual_report' (default) | 'sgx_announcement' | 'both' — where "
+        "the row's figures came from. AR-first: the announcement supplements AR-null fields, "
+        "no-AR-row deals, and net-cash; it never overwrites a disclosed AR figure. Added 2026-07-09.")
+    announcement_refs: Optional[list[dict]] = Field(
+        None, description="SGX 'Asset Acquisitions and Disposals' provenance, one entry per "
+        "announcement: [{stage: 'plan'|'completion', date, url, ref, sub_title}]. Added 2026-07-09.")
 
 
 class REITExtraction(BaseModel):

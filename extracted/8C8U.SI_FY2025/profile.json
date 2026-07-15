@@ -1,15 +1,25 @@
 {
   "symbol": "8C8U.SI",
   "sub_sector": "Specialized",
-  "management": [
-    {"role": "reit_manager", "company_name": "Centurion Asset Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "sponsor", "company_name": "Centurion Corporation Limited"},
-    {"role": "property_manager", "company_name": "Westlite Dormitory Management Pte. Ltd."},
-    {"role": "property_manager", "company_name": "Centurion Student Services (UK) Ltd"},
-    {"role": "property_manager", "company_name": "Centurion Australia Management Pty Ltd"},
-    {"role": "master_lessee", "company_name": "Centurion Properties Pte. Ltd."}
-  ],
+  "management": {
+    "reit_manager": [
+      "Centurion Asset Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "Centurion Corporation Limited"
+    ],
+    "property_manager": [
+      "Westlite Dormitory Management Pte. Ltd.",
+      "Centurion Student Services (UK) Ltd",
+      "Centurion Australia Management Pty Ltd"
+    ],
+    "master_lessee": [
+      "Centurion Properties Pte. Ltd."
+    ]
+  },
   "income_model": "conventional",
   "source_page": 8
 }

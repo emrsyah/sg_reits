@@ -30,7 +30,8 @@
     "source_page": 179,
     "note": "Berlin Campus undergoing repositioning (Project RE(O)); occupancy 0% as DRV lease expired 31 Dec 2024. GRI €0.1m from property card p.45. GLA from p.45 (79,097 sqm). Per-property NPI not disclosed. Market_valuation from audited Statement of Portfolio p.179 (EUR'000 x1000). Tier A marketing value (p.40) also €195.8m - consistent.",
     "major_tenants": [],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -69,7 +70,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -108,7 +110,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -147,7 +150,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -186,7 +190,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -224,7 +229,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -262,7 +268,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -301,7 +308,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": null
   },
   {
     "symbol": "UD1U.SI",
@@ -340,7 +348,8 @@
         "pct": null
       }
     ],
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -376,7 +385,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -412,7 +422,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -448,7 +459,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -484,7 +496,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -520,7 +533,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -556,7 +570,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -592,7 +607,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -628,7 +644,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -664,7 +681,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -700,7 +718,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -736,7 +755,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -772,7 +792,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -808,7 +829,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -844,7 +866,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -880,7 +903,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -916,7 +940,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -952,7 +977,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -988,7 +1014,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1024,7 +1051,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1060,7 +1088,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1096,7 +1125,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1132,7 +1162,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1168,7 +1199,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1204,7 +1236,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1240,7 +1273,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1276,7 +1310,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1312,7 +1347,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2021"
   },
   {
     "symbol": "UD1U.SI",
@@ -1335,7 +1371,7 @@
     "nla": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": 8.5,
+    "lease_term_years": null,
     "lease_expiry_date": "2034-06-01",
     "tenure_raw": "Leasehold; 8.5 years remaining as at 31 Dec 2025 (9.5 years as at 31 Dec 2024)",
     "status": "active",
@@ -1348,7 +1384,9 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023",
+    "lease_terms_flags": "AR discloses only the REMAINING leasehold term (8.5y as at FY2025), not the actual head-lease term; lease_term_years nulled."
   },
   {
     "symbol": "UD1U.SI",
@@ -1384,7 +1422,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1420,7 +1459,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1456,7 +1496,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1492,7 +1533,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1515,7 +1557,7 @@
     "nla": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": 17.0,
+    "lease_term_years": null,
     "lease_expiry_date": "2042-12-01",
     "tenure_raw": "Leasehold; 17.0 years remaining as at 31 Dec 2025 (18.0 years as at 31 Dec 2024)",
     "status": "active",
@@ -1528,7 +1570,9 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023",
+    "lease_terms_flags": "AR discloses only the REMAINING leasehold term (17.0y as at FY2025), not the actual head-lease term; lease_term_years nulled."
   },
   {
     "symbol": "UD1U.SI",
@@ -1564,7 +1608,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1600,7 +1645,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1636,7 +1682,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1659,7 +1706,7 @@
     "nla": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": 26.1,
+    "lease_term_years": null,
     "lease_expiry_date": "2052-01-01",
     "tenure_raw": "Leasehold; 26.1 years remaining as at 31 Dec 2025 (27.1 years as at 31 Dec 2024)",
     "status": "active",
@@ -1672,7 +1719,9 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023",
+    "lease_terms_flags": "AR discloses only the REMAINING leasehold term (26.1y as at FY2025), not the actual head-lease term; lease_term_years nulled."
   },
   {
     "symbol": "UD1U.SI",
@@ -1708,7 +1757,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1744,7 +1794,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1780,7 +1831,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1816,7 +1868,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1852,7 +1905,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1888,7 +1942,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023"
   },
   {
     "symbol": "UD1U.SI",
@@ -1911,7 +1966,7 @@
     "nla": null,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": 29.9,
+    "lease_term_years": null,
     "lease_expiry_date": "2055-11-01",
     "tenure_raw": "Leasehold; 29.9 years remaining as at 31 Dec 2025 (30.9 years as at 31 Dec 2024)",
     "status": "active",
@@ -1924,6 +1979,8 @@
         "industry": null,
         "pct": null
       }
-    ]
+    ],
+    "purchase_date": "2023",
+    "lease_terms_flags": "AR discloses only the REMAINING leasehold term (29.9y as at FY2025), not the actual head-lease term; lease_term_years nulled."
   }
 ]

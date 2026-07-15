@@ -1,0 +1,43 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 580103000, "page": 142, "note": "Note 15 Stapled Securities in Issue and to be Issued: 580,103 ('000) issued and to be issued at 31 December 2025 (Stapled Group); also balance sheet"},
+    "dpu_period_months": {"value": 12, "page": 26, "note": "full FY 1 Jan-31 Dec 2025 (1H + 2H DPS)"}
+  },
+  "properties": [
+    {"property_name": "Hyatt House Boston Burlington", "purchase_date": "2019", "page": 10, "note": "part of initial 38-property IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase); year-of-acquisition disclosed at portfolio level, no per-property date"},
+    {"property_name": "Hyatt House Branchburg", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Fishkill", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Morristown", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Parsippany-East", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Parsippany Whippany", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Raleigh Durham Airport", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Richmond Short Pump", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt House Sterling Dulles Airport North", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Albuquerque Airport", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Atlanta Alpharetta Windward Parkway", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Atlanta Norcross Peachtree", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Boise Towne Square", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Charlotte Airport Billy Graham Parkway", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Cincinnati Airport Florence", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Denver Airport", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Detroit Livonia", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Lakeland Center", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Louisville East", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Memphis Primacy Parkway", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Mystic", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Nashville Brentwood", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Nashville Opryland", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Omaha Downtown Old Market", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Richmond Arboretum", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Sacramento Rancho Cordova", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Secaucus Meadowlands", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "Hyatt Place Tampa Busch Garden", "purchase_date": "2019", "page": 10, "note": "initial IPO portfolio held by ACRO-HT at IPO (prospectus 2 May 2019, deemed purchase)"},
+    {"property_name": "AC by Marriott Raleigh North Hills", "purchase_date": "2020-01-17", "page": 17, "note": "Portfolio List footnote 5: acquired on 17 January 2020 for US$43.0m"},
+    {"property_name": "Courtyard by Marriott San Antonio Six Flags at The RIM", "purchase_date": "2020-01-17", "page": 17, "note": "Portfolio List footnote 5: acquired on 17 January 2020 for US$21.8m"},
+    {"property_name": "Residence Inn San Antonio Six Flags at The RIM", "purchase_date": "2020-01-17", "page": 17, "note": "Portfolio List footnote 5: acquired on 17 January 2020 for US$19.3m"},
+    {"property_name": "Home2 Suites by Hilton Colorado Springs South", "purchase_date": "2023-04-18", "page": 17, "note": "Portfolio List footnote 6: acquired on 18 April 2023 for US$29.0m"}
+  ],
+  "summary": {"n_properties": 32, "purchase_date_filled": 32, "purchase_date_null": 0}
+}

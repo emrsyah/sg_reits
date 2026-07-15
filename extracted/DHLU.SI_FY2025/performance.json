@@ -46,5 +46,11 @@
   ],
   "source_page": 205,
   "note": "portfolio_value S$835.2m = headline independent-valuation figure (p7). Audited Statement of Portfolio total = S$835,157k (p166). number_of_unitholders 4,865 as at 12 March 2026 (Statistics of Unitholdings p205). net_distributable_income S$30,378k from Distribution Statement p163. KPIs from Capital Management summary p54 (aggregate_leverage 40.2%, ICR 5.5x, WADM 2.9 yrs, weighted avg borrowing cost 2.04% all-in) and audited Note 25 p194 (leverage 40.2%, ICR 5.5x); NAV per Unit S$0.65 (Group) p161/p54; WALE 6.6 yrs by GRI p7; portfolio_occupancy 87.8% overall p50 (Japan 87.3%, Vietnam 100%).",
-  "distribution_basis": "not_disclosed_rollforward_only"
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "number_of_shareholder_units": 700739000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 16547000,
+  "distribution_cash_paid": 32032000,
+  "distributable_income_closing": 14893000,
+  "units_to_be_issued": 405000
 }

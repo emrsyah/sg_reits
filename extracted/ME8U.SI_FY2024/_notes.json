@@ -1,0 +1,125 @@
+{
+  "symbol": "ME8U.SI",
+  "financial_year": 2024,
+  "scope": "Only properties.json, property_transactions.json, and FY2024 extraction notes.",
+  "row_counts": {
+    "properties_total": 99,
+    "properties_active": 98,
+    "properties_divested": 1,
+    "property_transactions": 2,
+    "mrodct_jv_rows_with_null_market_valuation": 13
+  },
+  "valuation_reconciliation": {
+    "audited_source": "Portfolio Statement pages 126-139; $'000 values rescaled x1000.",
+    "sum_market_valuation_properties_json": 7743797000,
+    "expected_fair_value": 7743797000,
+    "difference": 0,
+    "subtotals_absolute_sgd": {
+      "Data Centres North America and Asia": 3731697000,
+      "Hi-Tech Buildings": 1514100000,
+      "Business Park Buildings": 533100000,
+      "Flatted Factories": 1392700000,
+      "Stack-up/Ramp-up Buildings": 519000000,
+      "Light Industrial Buildings": 53200000
+    },
+    "note_15_cross_check": "Note 15 page 162 states fair value of investment properties (net of future lease payments) S$7,743.797m; carrying amount S$7,847.851m after lease liabilities and ARO asset."
+  },
+  "null_recovery_review": {
+    "reviewer": "REIT Null-Recovery sweep, FY2024",
+    "anchor_pages_checked": [
+      "Property Portfolio Overview pp44-59 (per-property NLA/GFA/purchase price/valuation/gross revenue/occupancy/term of lease)",
+      "Audited Portfolio Statement pp126-139 (land tenure, gross revenue, occupancy, valuation per property/cluster)",
+      "Financial Review pp74-78 (segment gross-revenue and NPI charts)",
+      "Note 32 Segment information pp197-199 (segment-level gross revenue and NPI)",
+      "Note 3 Gross revenue and Note 4 Property operating expenses p148 (Group/MIT totals only)"
+    ],
+    "fields_fully_captured_where_disclosed": [
+      "gross_revenue (all 99 rows filled from overview/Portfolio Statement)",
+      "occupancy_rate (all 99 filled)",
+      "nla (98 filled; only divested Tanglin Halt null - shown '-')",
+      "gfa (43 filled: 38 Singapore clusters + 5 Asia data centres; NA data centres carry no GFA column)",
+      "purchase_price (96 filled; 3 disclosed as '-')",
+      "lease_term_years (45 filled = all leasehold rows; 54 Freehold rows carry no term)",
+      "market_valuation (85 filled from audited Portfolio Statement)"
+    ],
+    "recovered_this_pass": "none - no disclosed value was found wrongly left null. Per-property gross_revenue was already complete; per-property NPI is not disclosed for this trust (segment-level only).",
+    "npi_absence_note": "Per-property/cluster net_property_income and npi_pct are NOT disclosed. NPI appears only at the 7 operating-segment level in Note 32 (p197: Data Centres Asia 32,244; Data Centres North America 184,769; Hi-Tech Buildings 105,145; Business Park Buildings 29,612; Flatted Factories 127,307; Stack-up/Ramp-up Buildings 40,049; Light Industrial Buildings 1,917; total 521,043 $'000) and as segment shares in the financial-review charts (pp77-78). The property overview (pp44-59) and audited Portfolio Statement (pp126-139) carry a gross-revenue column but NO NPI column. NPI is not per-property-computable either: Note 4 property operating expenses are disclosed only as Group/MIT totals, never per property.",
+    "data_quality_confirmations": [
+      "2005 East Technology Circle lease_term_years=85 is correct per audited Portfolio Statement p129 (Term of lease 85 years / Remaining term 58 years); the overview p44 '58 years' is the REMAINING term, not the full term.",
+      "purchase_price null for 30A Kallang Place and K&S Corporate Headquarters (Hi-Tech, overview p49 '-') and Mapletree Sunview 1 (Asia data centre, overview p47 '-') - disclosed as '-'.",
+      "Tanglin Halt (divested 27 Mar 2024) has nla/gfa/area_unit/market_valuation null - overview p55 and Portfolio Statement show '-' for the FY2024 columns."
+    ]
+  },
+  "jv_income_recovery": {
+    "reviewer": "REIT JV-Income Recovery, FY2024",
+    "jv_name": "Mapletree Rosewood Data Centre Trust (MRODCT), 50:50 joint venture with Mapletree Investments Pte Ltd; equity-accounted (equity method, Note 21 p168 / accounting policy Note 2.5-2.6).",
+    "jv_rows": "13 North American data centres held via MRODCT (10 powered-shell at MIT effective 50%; 3 fully-fitted hyperscale at MIT effective 40% = 50% x MRODCT's 80% interest, Digital Realty holds the other 20% per overview footnote 4 p46). These are the 13 rows with null market_valuation and null net_property_income.",
+    "per_property_npi_disclosed": false,
+    "per_property_npi_decision": "All 13 MRODCT rows left net_property_income = null. The audited segment note (Note 32, p197) is a CONSOLIDATED statement in which the JV enters ONLY as a single equity-method line 'Share of joint venture's results' (-8,713 $'000, itself inclusive of a ~60,103 $'000 net fair-value loss on investment properties) plus 'Investments in joint venture' 540,329 $'000 in segment assets - it does NOT disclose the JV's net property income and never per property. The per-property portfolio-overview tables (pp44-47) disclose a per-property Gross Revenue for FY23/24 column but NO net-property-income column. No per-property attributable NPI is disclosed anywhere, so no split can be captured without fabrication.",
+    "combined_jv_figures_note_21": {
+      "source_page": 168,
+      "basis": "MRODCT entity level = 100% of the joint venture (NOT MIT's 50% proportionate share; NOT per-property). Summarised statement of comprehensive income, Note 21 'Investment in a joint venture'. Figures in $'000.",
+      "gross_revenue_000": 66148,
+      "property_operating_expenses_000": -23744,
+      "implied_net_property_income_000": 42404,
+      "implied_npi_caveat": "42,404 = 66,148 gross revenue less 23,744 property operating expenses. The report does NOT print an explicit 'Net property income' line for the JV, and does NOT disclose MIT's 50% proportionate share of it - do not derive/allocate to rows.",
+      "other_disclosed_metrics_000": {
+        "interest_expense": -19932,
+        "share_of_joint_ventures_results": 9263,
+        "net_fair_value_loss_of_investment_properties": -30294,
+        "profit_before_income_tax": 1441,
+        "loss_for_the_financial_year": -17425,
+        "dividends_declared_received_from_joint_venture": 31843
+      },
+      "prior_year_fy2023_000": {"gross_revenue": 66928, "property_operating_expenses": -23886, "implied_net_property_income": 43042}
+    },
+    "gross_revenue_basis_caveat": "Existing per-property gross_revenue for the 13 JV rows was captured from the portfolio-overview tables (pp45,47), whose Gross-Revenue column is footnoted 'Based on MIT's 50% interest ... through MRODCT'. Their sum (95,117 $'000) reconciles to the North-America DC portfolio subtotal 347,232 = consolidated DC-NA segment gross revenue 252,115 (Note 32 p197) + 95,117. However this 95,117 does NOT reconcile to Note 21's 100%-entity JV gross revenue of 66,148 $'000 (MIT's 50% share of that would be ~33k), so the overview 'Gross Revenue' basis for the JV rows is internally inconsistent with the audited JV note. gross_revenue values left UNCHANGED (a genuine per-property gross line exists) and flagged here for the reviewer; NPI intentionally NOT derived from either basis.",
+    "no_regression": "No consolidated (wholly-owned) row touched. No market_valuation, name, tenure, gross_revenue, or occupancy changed. properties.json unchanged by this pass - per-property attributable NPI is genuinely undisclosed; the only disclosed JV income metric is the combined 100%-entity figure above."
+  },
+  "columns_never_fillable": [
+    {
+      "column": "net_property_income",
+      "evidence": "No per-property/cluster NPI disclosed. NPI given only at 7-segment level (Note 32 p197; financial-review segment charts pp77-78). Property overview pp44-59 and audited Portfolio Statement pp126-139 have a gross-revenue column but no NPI column. Not computable per property: property operating expenses (Note 4 p148) are Group/MIT totals only."
+    },
+    {
+      "column": "npi_pct",
+      "evidence": "Per-property NPI contribution % not disclosed; only segment-level NPI shares exist (financial review pp77-78). Pages checked: overview pp44-59, Portfolio Statement pp126-139, Note 32 p197."
+    },
+    {
+      "column": "gla",
+      "evidence": "Report discloses NLA and (Singapore/Asia) GFA, never a distinct gross lettable area. Pages checked: overview pp44-59, Portfolio Statement pp126-139."
+    },
+    {
+      "column": "gfa",
+      "evidence": "Captured for all 38 Singapore clusters and 5 Asia data centres (overview pp46-59). Genuinely absent for the 56 North America data centres - NA overview tables (pp45,47) and audited Portfolio Statement carry an NLA column only, no GFA - and for divested Tanglin Halt (overview p55 shows '-')."
+    },
+    {
+      "column": "effective_date",
+      "evidence": "Land-lease commencement date not disclosed. Report gives acquisition date + term of lease + remaining term (overview pp44-59, Portfolio Statement pp126-139), not the lease-start date."
+    },
+    {
+      "column": "lease_expiry_date",
+      "evidence": "No explicit expiry dates disclosed; only 'Remaining term of lease' (overview pp44-59, Portfolio Statement pp126-139). Not derived."
+    },
+    {
+      "column": "major_tenants",
+      "evidence": "Top-five tenants are segment-level disclosures (e.g. pp51,57,59), not exhaustive per-property major-tenant lists."
+    }
+  ],
+  "parsing_traps": [
+    "Market valuation uses audited Portfolio Statement Tier-C values, not S$8.8022b marketing portfolio valuation including JV/right-of-use assets.",
+    "13 current MRODCT JV North American data centres are included in the 99 overview row grain but have null market_valuation because individual audited Tier-C values are absent.",
+    "Tanglin Halt is included as status=divested; FY2024 valuation column is dash.",
+    "19675 West Ten Mile Road appears only as a prior-year divestment in audited Portfolio Statement and is excluded.",
+    "Osaka JPY52.3b overview valuation assumes all fit-out phases; audited Tier-C value is S$377.737m."
+  ],
+  "unresolved_gaps": [
+    "No unresolved valuation reconciliation gap; null JV market_valuation rows are source-driven."
+  ],
+  "source_files": [
+    "parsed_reports_datalab/27_ME8U.SI_Mapletree-Industrial-Trust_FY2024/full.md",
+    "agent://ExploreME8UFY2024",
+    "extracted/ME8U.SI_FY2025/properties.json (field-shape only)",
+    "extracted/ME8U.SI_FY2025/property_transactions.json (field-shape only)"
+  ]
+}

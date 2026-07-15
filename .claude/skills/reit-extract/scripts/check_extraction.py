@@ -43,7 +43,10 @@ ENUMS = {  # (file, column): allowed values; None always allowed
     ("properties", "land_tenure"): {"freehold", "leasehold"},
     ("properties", "value_basis"): {"consolidated", "joint_venture_100pct",
                                     "effective_interest"},
-    ("property_transactions", "transaction_type"): {"acquisition", "divestment"},
+    ("property_transactions", "transaction_type"): {"acquisition", "divestment",
+        "announced_divestment", "partial_divestment", "divestment_terminated"},
+    ("property_transactions", "gain_basis"): {"vs_book_value", "vs_valuation", "vs_cost"},
+    ("property_transactions", "source_type"): {"annual_report", "sgx_announcement", "both"},
     ("profile", "income_model"): {"conventional", "master_lease", "mcmgi",
                                   "management_contract", "entrusted_management",
                                   "fri", "mixed"},
@@ -158,6 +161,39 @@ def main() -> None:
                 fails.append(f"{name}.{col}='{v}' ({who}) not in enum "
                              f"{sorted(allowed)} — put the report's wording in the "
                              f"*_raw / note field, keep the enum value here")
+
+    # 7a. property_transactions gain consistency — the gain must match its basis, and
+    # net_sale_proceeds must be a DISCLOSED net figure (not derived). Catches mislabeled
+    # gains and a "gross" price that is really a net figure.
+    for r in data["property_transactions"]:
+        who = r.get("property_name") or r.get("deal_id") or "?"
+        gain = r.get("gain_on_divestment")
+        gpct = r.get("gain_loss_pct")
+        basis = r.get("gain_basis")
+        sale = r.get("sale_price")
+        if sale is None and r.get("gross_sale_price") is not None:
+            sale = r.get("gross_sale_price")   # legacy alias
+        net = r.get("net_sale_proceeds")
+        carry = r.get("carrying_value")
+        val = r.get("valuation")
+        if (gain is not None or gpct is not None) and basis is None:
+            warns.append(f"property_transactions ({who}): gain disclosed but gain_basis is null "
+                         "— tag vs_book_value / vs_valuation / vs_cost so it isn't conflated")
+        proceeds = net if isinstance(net, (int, float)) else sale
+        if isinstance(gain, (int, float)) and basis == "vs_book_value" \
+           and isinstance(proceeds, (int, float)) and isinstance(carry, (int, float)):
+            exp = proceeds - carry
+            if abs(exp - gain) > max(1000.0, 0.02 * abs(gain or 1)):
+                warns.append(f"property_transactions ({who}): gain_on_divestment={gain:,} but "
+                             f"(proceeds {proceeds:,} - carrying {carry:,})={exp:,} (vs_book_value) "
+                             "— reconcile against the source")
+        if isinstance(gain, (int, float)) and basis == "vs_valuation" \
+           and isinstance(sale, (int, float)) and isinstance(val, (int, float)):
+            exp = sale - val
+            if abs(exp - gain) > max(1000.0, 0.02 * abs(gain or 1)):
+                warns.append(f"property_transactions ({who}): gain_on_divestment={gain:,} but "
+                             f"(sale {sale:,} - valuation {val:,})={exp:,} (vs_valuation) "
+                             "— reconcile against the source")
 
     # 7b. category taxonomies (case-SENSITIVE — canonical labels are exact). Verbatim
     # disclosed labels belong in *_raw; `category`/`industry` must be a canonical value.
@@ -287,6 +323,35 @@ def main() -> None:
                 warns.append(f"DPU recon: published dpu={dpu}c vs {numer:,}/{wab:,}*100="
                              f"{dpu_calc:.3f}c (>10% gap) — verify numerator/units")
 
+        # 4a4. distribution ROLLFORWARD guard: A + B - P == E when all disclosed.
+        # A=distributable_income_opening, B=net_distributable_income, P=distribution_cash_paid,
+        # E=distributable_income_closing. A broken tie usually means the cumulative 'income
+        # available' line (= A + B) was grabbed as B (the classic carry-forward trap).
+        opening = perf.get("distributable_income_opening")
+        cash_paid = perf.get("distribution_cash_paid")
+        closing = perf.get("distributable_income_closing")
+        if isinstance(cash_paid, (int, float)) and cash_paid < 0:
+            fails.append(f"distribution_cash_paid={cash_paid:,} is negative (impossible)")
+        if all(isinstance(x, (int, float)) for x in (opening, ndi, cash_paid, closing)):
+            lhs = opening + ndi - cash_paid
+            tol = max(1000.0, 0.001 * abs(closing or 1))
+            has_basis_flag = any(
+                isinstance(f, dict) and f.get("type") == "distribution_rollforward_basis"
+                for f in (perf.get("flags") or []))
+            if abs(lhs - closing) > tol:
+                msg = (f"distribution rollforward: opening {opening:,} + NDI {ndi:,} "
+                       f"- cash_paid {cash_paid:,} = {lhs:,} != closing {closing:,} "
+                       f"(gap {lhs - closing:,})")
+                if has_basis_flag:
+                    warns.append(msg + " — reconciled by a DISCLOSED line (retention / capital "
+                                 "or gains distribution / rounding) per distribution_rollforward_basis "
+                                 "flag; VERIFY the flag names the actual disclosed reconciling line")
+                else:
+                    fails.append(msg + " — check the Distribution Statement lines (often the "
+                                 "cumulative 'available' line grabbed as NDI); if a disclosed "
+                                 "retention/capital line reconciles it, add a "
+                                 "distribution_rollforward_basis flag")
+
     # 4b. KPI completeness — the 7 as-disclosed capital-management KPIs are widely
     # disclosed by SGX REITs; a null one is often a silent MISS (e.g. AJBU debt tenor
     # 3.3yr was on the same Capital Management page as the captured leverage/ICR but
@@ -297,7 +362,8 @@ def main() -> None:
                   "weighted_avg_debt_maturity", "nav_per_unit", "wale",
                   "portfolio_occupancy")
     import json as _json
-    mention_hay = (" ".join(str(f.get("scope", "")) + " " + str(f.get("note", ""))
+    mention_hay = (" ".join((str(f.get("scope", "")) + " " + str(f.get("note", "")))
+                            if isinstance(f, dict) else str(f)
                             for f in (perf.get("flags") or []))
                    + " " + _json.dumps(notes, ensure_ascii=False)
                    + " " + _json.dumps(perf.get("_notes") or {}, ensure_ascii=False)).lower()
@@ -458,6 +524,7 @@ def main() -> None:
     # declared in _notes.inferred[] so they aren't mistaken for disclosed data.
     notes = data["_notes"][0] if data["_notes"] else {}
     inferred = notes.get("inferred", []) or []
+    inferred = [i for i in inferred if isinstance(i, dict)]
     inferred_fields = {(str(i.get("table", "")), str(i.get("field", ""))) for i in inferred}
     for i in inferred:
         if not (i.get("table") and i.get("field") and i.get("basis")):

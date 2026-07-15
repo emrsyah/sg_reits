@@ -1,0 +1,890 @@
+[
+ {
+  "property_name": "Acacia Walk, Nottingham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Afon House, Newtown",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Atlas Road, Glasgow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Bayfield Road, Portree",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Beaufort House, Harlow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Beech House, Hyde",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Beecroft Road, Cannock",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Blackburn House, Norwich",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Blackburn Road, Burnley",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Bowling Green Street, Bellshill",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Bradmarsh Business Park,<br>Rotherham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Brendon House, Taunton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Bridge House, Castleford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Bridge Street, Llangefni",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Bristol Road South, Birmingham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Broadlands House, Newport",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Broadway House, Ealing",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Broadway House, Houghton Le Spring",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Brunswick House, Birkenhead",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Cambria House, Cardiff",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Castle House, Huddersfield",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Castlestead House, Montrose",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Centurion House, Castleford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Chantry House, Chester",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Chantry House, Rotherham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Charles Street, Newport",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Claverhouse Industrial Park, Dundee",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Cleddau Bridge Business Park, Pembroke Dock",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Collyer Court, Peckham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Cotswold House, Torquay",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Coustonholm Road, Glasgow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Crown Building, Banbury",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Crown Building, Kilmarnock",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Crown Buildings, Aberdare",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Crown Buildings, Abertillery",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Crown Buildings, Bridgend",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Crown Buildings, Chester Le Street",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Crown Buildings, Colchester",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Crown Buildings, Ilkeston",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Crown Buildings, Mexborough",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Crown Buildings, Tonbridge",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Crown House, Chatham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Crown House, Grantham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Crown House, Romford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Crown House, Worthing",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Custom House, Felixstowe",
+  "current_purchase_date": "2025-06-20",
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Cyppa Court, Chippenham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Discovery House, Stornoway",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Dock Street, Porthcawl",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Duchy House, Preston",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "East Street, Epsom",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Elder House, Northallerton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Finchley Lane, Hendon",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Flemington House, Motherwell",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "George Street, Corby",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Glasgow Benefits Centre, Glasgow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Gloucester House, Bognor Regis",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Great Moor Street, Bolton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Great Oaks House, Basildon",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Great Western House, Birkenhead",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Hadrian House, Eston",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Hall Street, Campbeltown",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Hannah Street, Porth",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Hanover House, Bridgwater",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Hatfield House, Peterlee",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Heron House, Falkirk",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Heron House, Stockport",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "High Road, Ilford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "High Street, Bilston",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "High Street, Dingwall",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "High Street, Rhyl",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "High Street, Swansea",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Holborn House, Derby",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Hougoumont House, Liverpool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Irish Street, Dumfries",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Kent Street, Bristol",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Kilner House, Canning Town",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Ladywell House, Edinburgh",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Lee-Moran House, Burnley",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Lindsay House, Dundee",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Lodge House, Bristol",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Lothersdale House, Wellingborough",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Low Hall, Pontefract",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Maengwyn Street, Machynlleth",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Medina Road, Finsbury Park",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Medwyn House, Lewes",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Merlin House, Carmarthen",
+  "current_purchase_date": "2025-06-20",
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Mitre House, Lancaster",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Monks Park Avenue, Bristol",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Mulberry House, Goole",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "New Reiver House, Galashiels",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Norham House, Berwick Upon Tweed",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Nutwood House, Canterbury",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Oates House, Stratford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Oldway House, Swansea",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Palatine House, Preston",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Palting House, Folkestone",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Parc Menai, Bangor",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Parklands, Falkirk",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Peckham High Street",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Peel Park, Blackpool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Phoenix House, Bradford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 55
+ },
+ {
+  "property_name": "Pollokshaws Road, Glasgow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Portland House, Redcar",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Premier House, Liverpool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Priory Court, Dover",
+  "current_purchase_date": "2025-06-20",
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Quay Street, Haverfordwest",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Queens House, Plymouth",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Raydean House, Barnet",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 45
+ },
+ {
+  "property_name": "Regent House, Weston Super Mare",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Reiverdale House, Ashington",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Rishton House, Lowestoft",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Roskell House, Fleetwood",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Roydale House, Leigh",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Saxon Mill Lane, Tamworth",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Scotland House, Stourbridge",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Silver Street, Bury",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "South Muirhead Road, Glasgow",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "South Western House, Aldershot",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "Speke Road, Liverpool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Spring Gardens House, Swindon",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Springfield House, Liverpool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "St Andrew's House, Bury St Edmunds",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "St Andrew's House, Hexham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "St Cross House, Southampton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 43
+ },
+ {
+  "property_name": "St John Street, Stranraer",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "St John's Square, Seaham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "St Katherine's House, Northampton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "St Martin's House, Bootle",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Station Road, Port Talbot",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Summerlock House, Salisbury",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 47
+ },
+ {
+  "property_name": "Tannery House, Alfreton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Temple House, Wolverhampton",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "The Forum, Stevenage",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ },
+ {
+  "property_name": "Theatre Buildings, Billingham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Thistle House, Tonypandy",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Tomlinson House, Blackpool Norcross Lane",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Trinity Road, Elgin",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Units 1-2 Dallas Court, Salford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Upper Huntbach Street, Stoke-On-Trent",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Waggon Road, Leven",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Wallacetoun House, Ayr",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Ward Jackson House, Hartlepool",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 57
+ },
+ {
+  "property_name": "Washwood Heath Road, Birmingham",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 49
+ },
+ {
+  "property_name": "Whitburn Road, Bathgate",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 41
+ },
+ {
+  "property_name": "Wilmslow Road, Manchester",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 38
+ },
+ {
+  "property_name": "Windsor Road, Neath",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 51
+ },
+ {
+  "property_name": "Wyvern House, Bedford",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 53
+ }
+]

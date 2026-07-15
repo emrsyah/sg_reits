@@ -1,12 +1,20 @@
 {
   "symbol": "JYEU.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "reit_manager", "company_name": "Lendlease Global Commercial Trust Management Pte. Ltd."},
-    {"role": "property_manager", "company_name": "Lendlease Global Commercial Trust Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "sponsor", "company_name": "Lendlease Corporation Limited"}
-  ],
+  "management": {
+    "reit_manager": [
+      "Lendlease Global Commercial Trust Management Pte. Ltd."
+    ],
+    "property_manager": [
+      "Lendlease Global Commercial Trust Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Lendlease Corporation Limited"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 20
 }

@@ -1,0 +1,60 @@
+{
+  "symbol": "N2IU.SI",
+  "financial_year": 2024,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 154745000,
+      "verbatim_line": "Amount available for distribution to Unitholders at beginning of financial year | 154,745 (Group, 2024, $'000)",
+      "source_page": 148
+    },
+    "net_distributable_income": {
+      "value": 468569000,
+      "verbatim_line": "Amount available for distribution for the year | 468,569 (Group, 2024, $'000)",
+      "source_page": 148,
+      "note": "For-the-year subtotal (Profit after tax 577,940 + Note A adjustment (109,371) = 468,569). This is the for-year income before retention, NOT the cumulative available line and NOT the end balance. Confirms existing performance.json net_distributable_income."
+    },
+    "distribution_cash_paid": {
+      "value": 465202000,
+      "verbatim_line": "Total Unitholders' distribution (including capital distribution) (Note B) | (465,202) (Group, 2024, $'000)",
+      "source_page": 148,
+      "note": "Cash distributions actually paid during FY23/24, on a lagged basis: covers 2.25c (1 Jan-31 Mar 2023, 117,885), 2.18c (1 Apr-30 Jun 2023, 114,305), 2.24c (1 Jul-30 Sep 2023, 117,517) and 2.20c (1 Oct-31 Dec 2023, 115,495). The 4Q FY23/24 tranche (2.29c) was declared after balance-sheet date and paid in the next year."
+    },
+    "distributable_income_closing": {
+      "value": 158112000,
+      "verbatim_line": "Amount available for distribution to Unitholders at end of financial year | 158,112 (Group, 2024, $'000)",
+      "source_page": 148
+    },
+    "distribution_paid_declared": {
+      "value": null,
+      "verbatim_line": null,
+      "source_page": 148,
+      "note": "No single 'declared-for-year' dollar total is presented in the audited Distribution Statement. Declared-for-year DPU is 8.91 Singapore cents (= 2.18c + 2.24c + 2.20c + 2.29c for the four FY23/24 quarters); the statement discloses distributions only on a cash-paid (lagged) basis (P = 465,202). The 4Q tranche (2.29c, 1 Jan-31 Mar 2024) was declared after the balance-sheet date and is not a distinct dollar line here, so a declared-for-year total cannot be read as-disclosed without deriving. Nulled per AS-DISCLOSED rule."
+    },
+    "guard_A_plus_B_minus_P": 158112000,
+    "guard_ok": true,
+    "notes": "Group column of the audited DISTRIBUTION STATEMENTS, 'For the financial year ended 31 March 2024', page 148 (marker <!-- PAGE 148 -->). Guard: A(154,745) + B(468,569) - P(465,202) = 158,112 == E(158,112), exact match (delta 0). Retention delta B-P = 3,367 (full-payout minus small capital retention). MPACT (Trust-only) column also disclosed (A=153,566, B=489,417, P=465,202, E=177,781) but Group figures used to match performance.json."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "Mapletree Anson",
+      "transaction_type": "announced_divestment",
+      "gain_loss_pct": 1.31,
+      "gain_basis": "Disclosed gain of S$10.0 million over Mapletree Anson's latest independent valuation of S$765.0m (as at 31 Mar 2024, by CBRE Pte. Ltd.). Derived pct on vs_valuation basis = (775.0 - 765.0)/765.0 = 1.31%. AR also discloses a premium of S$95.0m to its acquisition price. Letter to Unitholders p16 (audited valuation confirmed in Portfolio Statement p155).",
+      "valuation_date": "2024-03-31",
+      "announced_date": "2024-05-30",
+      "completed_date": null,
+      "sale_price": 775000000,
+      "valuation": 765000000,
+      "carrying_value": 765000000,
+      "gain_on_divestment": 10000000,
+      "net_sale_proceeds": 762000000,
+      "counterparty": null,
+      "deal_id": "n2iu.si:mapletree_anson:announced_divestment:2024",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 16,
+      "verbatim": "Finalised at a divestment consideration of S$775.0 million, this divestment secures a gain of S$10.0 million over Mapletree Anson's latest independent valuation and a premium of S$95.0 million to its acquisition price. (p16). 'Slated for completion in July 2024, the net divestment proceeds of approximately S$762 million ... will be allocated towards debt reduction.' (p16). On 30 May 2024, MPACTM announced the divestment of Mapletree Anson, a non-core office asset in Singapore (p3). Audited Portfolio Statement carrying value 'At valuation as at 31/03/2024' = 765,000 ($'000) (p155)."
+    }
+  ]
+}

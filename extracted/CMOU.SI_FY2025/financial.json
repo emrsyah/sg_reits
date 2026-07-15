@@ -9,31 +9,65 @@
     "gross_income": 80656000.0,
     "operating_income": 71752000.0,
     "operating_expense": 8904000.0,
-    "ebit": 21845000.0,
-    "ebitda": 21845000.0,
+    "ebit": 71752000.0,
+    "ebitda": 63681000.0,
     "pretax_income": -5839000.0,
     "income_taxes": -1764000.0,
     "net_income": -4075000.0,
     "non_operating_income_or_loss": -77591000.0,
-    "interest_expense_non_operating": 27684000.0,
+    "interest_expense_non_operating": 29062000.0,
     "diluted_shares_outstanding": 1044450254.0,
     "weighted_avg_shares_basic": 1044450254.0,
     "net_property_sales": 0.0,
-    "funds_from_operation": null,
+    "funds_from_operation": 36383000.0,
     "unitholders": -4075000.0,
     "perpetual_security_holders": null,
     "minorities": null,
     "revenue_breakdown": [
-      {"category": "Rental income", "amount": 103208000.0, "class": "Product/Service Sales"},
-      {"category": "Recoveries income", "amount": 42040000.0, "class": "Other income"},
-      {"category": "Other operating income", "amount": 4917000.0, "class": "Other income"}
+      {
+        "category": "Rental income",
+        "amount": 103208000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Recoveries income",
+        "amount": 42040000.0,
+        "class": "Other income"
+      },
+      {
+        "category": "Other operating income",
+        "amount": 4917000.0,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's base fees", "amount": 4781000.0, "class": "General & Admin"},
-      {"category": "Trustee's fee", "amount": 180000.0, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 3943000.0, "class": "Other expenses"}
+      {
+        "category": "Manager's base fees",
+        "amount": 4781000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 180000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 3943000.0,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 40458000
   },
   "balance_sheet_metrics": {
     "total_asset": 1389738000.0,
@@ -51,19 +85,79 @@
     "financing_cash_flow": -20883000.0,
     "net_cash_flow": 12093000.0,
     "free_cash_flow": 31598000.0,
-    "capital_expenditure": -45333000.0
+    "capital_expenditure": 45333000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "gross_revenue", "amount": 150165000.0, "label_raw": "Gross revenue", "source_page": 86},
-    {"statement": "adjustment", "component": "finance_income", "amount": 1378000.0, "label_raw": "Finance income", "source_page": 86},
-    {"statement": "expense", "component": "property_operating_expenses", "amount": 69509000.0, "label_raw": "Property expenses", "source_page": 86},
-    {"statement": "expense", "component": "finance_costs", "amount": 29062000.0, "label_raw": "Finance expenses", "source_page": 86},
-    {"statement": "expense", "component": "management_fee_base", "amount": 4781000.0, "label_raw": "Manager's base fees", "source_page": 86},
-    {"statement": "expense", "component": "trustee_fee", "amount": 180000.0, "label_raw": "Trustee's fee", "source_page": 86},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 3943000.0, "label_raw": "Other trust expenses", "source_page": 86},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -9449000.0, "label_raw": "Fair value change in derivatives", "source_page": 86},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -40458000.0, "label_raw": "Net change in fair value of investment properties", "source_page": 86},
-    {"statement": "adjustment", "component": "income_taxes", "amount": 1764000.0, "label_raw": "Tax credit", "source_page": 86}
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 150165000.0,
+      "label_raw": "Gross revenue",
+      "source_page": 86
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 1378000.0,
+      "label_raw": "Finance income",
+      "source_page": 86
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 69509000.0,
+      "label_raw": "Property expenses",
+      "source_page": 86
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 29062000.0,
+      "label_raw": "Finance expenses",
+      "source_page": 86
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 4781000.0,
+      "label_raw": "Manager's base fees",
+      "source_page": 86
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 180000.0,
+      "label_raw": "Trustee's fee",
+      "source_page": 86
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 3943000.0,
+      "label_raw": "Other trust expenses",
+      "source_page": 86
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -9449000.0,
+      "label_raw": "Fair value change in derivatives",
+      "source_page": 86
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -40458000.0,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 86
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_taxes",
+      "amount": 1764000.0,
+      "label_raw": "Tax credit",
+      "source_page": 86
+    }
   ]
 }

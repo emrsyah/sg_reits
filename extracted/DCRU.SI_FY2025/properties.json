@@ -31,7 +31,8 @@
     "alt_value": 384300000,
     "alt_basis": "card valuation at 90% ownership share (p43)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -70,7 +71,8 @@
     "alt_value": 230400000,
     "alt_basis": "card valuation at 90% share (p44)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -104,7 +106,8 @@
     "alt_value": 57300000,
     "alt_basis": "card valuation at 90% share (p45)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -138,7 +141,8 @@
     "alt_value": 157500000,
     "alt_basis": "card valuation at 90% share (p46)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -172,7 +176,8 @@
     "alt_value": 90900000,
     "alt_basis": "card valuation at 90% share (p47)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -211,7 +216,8 @@
     "alt_value": 58500000,
     "alt_basis": "card valuation at 90% share (p48)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2024-10-01"
   },
   {
     "symbol": "DCRU.SI",
@@ -250,7 +256,8 @@
     "alt_value": 48600000,
     "alt_basis": "card valuation at 90% share (p49)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2024-10-01"
   },
   {
     "symbol": "DCRU.SI",
@@ -284,7 +291,8 @@
     "alt_value": 131100000,
     "alt_basis": "card valuation at 90% share (p50)",
     "source_page": 182,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-12-06"
   },
   {
     "symbol": "DCRU.SI",
@@ -320,7 +328,8 @@
     "source_page": 182,
     "area_unit": "sqft",
     "_recovery_note": "net_property_income = Total segment net property income, EMEA (Frankfurt sole EMEA asset), Note 26 Operating Segment p213, US$'000; recovered 2026-07-02",
-    "_derived": "npi_pct = property net_property_income (36,375) / portfolio net_property_income (88,739, Financial Highlights p14 / income statement), both on consolidated 100% basis excluding equity-accounted Osaka JVs = 41.0%; recovered 2026-07-02"
+    "_derived": "npi_pct = property net_property_income (36,375) / portfolio net_property_income (88,739, Financial Highlights p14 / income statement), both on consolidated 100% basis excluding equity-accounted Osaka JVs = 41.0%; recovered 2026-07-02",
+    "purchase_date": "2024-12-05"
   },
   {
     "symbol": "DCRU.SI",
@@ -361,7 +370,8 @@
     "alt_basis": null,
     "source_page": 52,
     "area_unit": "sqft",
-    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 2 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02"
+    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 2 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02",
+    "purchase_date": null
   },
   {
     "symbol": "DCRU.SI",
@@ -402,6 +412,7 @@
     "alt_basis": null,
     "source_page": 53,
     "area_unit": "sqft",
-    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 3 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02"
+    "_recovery_note": "gross_revenue = 'Revenue for the year' for Digital Osaka 3 TMK, Note 8 Associates summarised financial information table, p187, US$'000; recovered 2026-07-02",
+    "purchase_date": "2025-03-26"
   }
 ]

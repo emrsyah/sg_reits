@@ -1,0 +1,223 @@
+{
+  "symbol": "T82U.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_stmt_metrics": {
+    "total_revenue": 463556000,
+    "cost_of_revenue": 153130000,
+    "gross_income": 310759000,
+    "operating_income": 241646000,
+    "operating_expense": 69113000,
+    "ebit": 241646000.0,
+    "ebitda": 345597000.0,
+    "pretax_income": 137779000,
+    "income_taxes": 1625000,
+    "net_income": 136154000,
+    "non_operating_income_or_loss": -103867000,
+    "interest_expense_non_operating": 177213000.0,
+    "weighted_avg_shares_basic": 2915714000,
+    "diluted_shares_outstanding": 2928194000,
+    "net_property_sales": 14992000,
+    "funds_from_operation": 151767000.0,
+    "unitholders": 112765000,
+    "perpetual_security_holders": -14013000.0,
+    "minorities": -9376000.0,
+    "revenue_breakdown": [],
+    "operating_expense_breakdown": [
+      {
+        "category": "Asset management fees - base fee",
+        "amount": 41100000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Asset management fees - performance fee",
+        "amount": 20242000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Professional fees",
+        "amount": 2034000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 2027000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Audit fees",
+        "amount": 1026000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Valuation fees",
+        "amount": 243000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other expenses",
+        "amount": 2441000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 30605000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 10951124000,
+    "total_equity": 6485647000,
+    "total_liabilities": 4465477000,
+    "total_current_asset": 275143000,
+    "total_non_current_asset": 10675981000,
+    "total_current_liabilities": 627271000,
+    "total_non_current_liabilities": 3838206000,
+    "working_capital": -352128000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 254630000,
+    "investing_cash_flow": 174731000,
+    "financing_cash_flow": -414262000,
+    "net_cash_flow": 15099000,
+    "free_cash_flow": 243430000.0,
+    "capital_expenditure": 11200000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 463556000,
+      "label_raw": "Gross revenue",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "property_expenses",
+      "amount": 153130000,
+      "label_raw": "Property expenses",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "impairment_reversal_trade_receivables",
+      "amount": 333000,
+      "label_raw": "Net reversal of impairment on trade receivables",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_income",
+      "amount": 1165000,
+      "label_raw": "Other income",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_jv_results",
+      "amount": 80498000,
+      "label_raw": "Share of profit of joint ventures",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 19261000,
+      "label_raw": "Finance income",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 177213000,
+      "label_raw": "Finance costs",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "asset_management_fee_base",
+      "amount": 41100000,
+      "label_raw": "Asset management fees - base fee",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "asset_management_fee_performance",
+      "amount": 20242000,
+      "label_raw": "Asset management fees - performance fee",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "professional_fees",
+      "amount": 2034000,
+      "label_raw": "Professional fees",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fees",
+      "amount": 2027000,
+      "label_raw": "Trustee's fees",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "audit_fees",
+      "amount": 1026000,
+      "label_raw": "Audit fees",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "valuation_fees",
+      "amount": 243000,
+      "label_raw": "Valuation fees",
+      "source_page": 108
+    },
+    {
+      "statement": "expense",
+      "component": "other_expenses",
+      "amount": 2441000,
+      "label_raw": "Other expenses",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "fv_derivatives",
+      "amount": -12576000,
+      "label_raw": "Net change in fair value of financial derivatives",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "fv_investment_properties",
+      "amount": -29994000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "gain_on_divestment",
+      "amount": 14992000,
+      "label_raw": "Net gain from divestment of investment properties",
+      "source_page": 108
+    },
+    {
+      "statement": "adjustment",
+      "component": "taxation",
+      "amount": -1625000,
+      "label_raw": "Tax expense",
+      "source_page": 108
+    }
+  ],
+  "source_page": 108
+}

@@ -1,0 +1,14 @@
+{
+  "file": "32_C2PU.SI_Parkway-Life-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 110,
+  "pages_written": 110,
+  "seconds": 54.5,
+  "parse_quality_score": null,
+  "runtime": 42.074689626693726,
+  "cost_breakdown": {
+    "final_cost_cents": 44.0
+  },
+  "checkpoint_id": "checkpoint_ghbosjAuz_585hk0uSSl_kFJ8E05yPuh6ph6p-H8f5M",
+  "page_range": null
+}

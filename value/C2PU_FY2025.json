@@ -1,0 +1,57 @@
+{
+  "symbol": "C2PU.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 15562000,
+      "verbatim_line": "Amount available for distribution to Unitholders at beginning of the year | 15,562 (Group 2025, $'000)",
+      "source_page": 147
+    },
+    "net_distributable_income": {
+      "value": 99781000,
+      "verbatim_line": "Income for the year available for distribution to Unitholders | B | 99,781 (Group 2025, $'000)",
+      "source_page": 147
+    },
+    "distribution_cash_paid": {
+      "value": 65436000,
+      "verbatim_line": "Distributions to Unitholders during the year: - 2.38 cents (1 Nov-31 Dec 2024) 15,526 + 7.65 cents (1 Jan-30 Jun 2025) 49,910 = 65,436 (Group 2025, $'000)",
+      "source_page": 147
+    },
+    "distributable_income_closing": {
+      "value": 49871000,
+      "verbatim_line": "Amount available for distribution to Unitholders at end of the year | 49,871 (Group 2025, $'000)",
+      "source_page": 147
+    },
+    "distribution_paid_declared": {
+      "value": null,
+      "verbatim_line": "Distribution per unit (cents) | 15.29 (in respect of FY2025) (Distribution Statement p147)",
+      "source_page": 147
+    },
+    "guard_A_plus_B_minus_P": 49907000,
+    "guard_ok": false,
+    "notes": "All four A/B/P/E lines disclosed verbatim on the audited Consolidated Distribution Statement, PAGE 147 (Group column), with Notes A & B on PAGE 148. B=99,781k is the for-the-year subtotal 'Income for the year available for distribution' (line B), NOT the cumulative trap line 'Amount available for distribution to Unitholders' 115,343k (= opening 15,562 + B 99,781, folds in opening carry) and NOT the after-payment end balance. B re-read fresh and confirmed = existing performance.json net_distributable_income (99,781,000). P=65,436k is cash actually PAID during FY2025, period-mixed: 2.38c ($15,526k) for 1 Nov-31 Dec 2024 tranche + 7.65c ($49,910k) for 1H2025 tranche; distinct from declared-for-year. GUARD: A+B-P = 15,562+99,781-65,436 = 49,907k vs E 49,871k => residual +36k. Residual is NOT a misread/plug: it equals EXACTLY the disclosed 'Rounding adjustment (36)' line on the same statement (full statement reconciliation: opening 15,562 + B 99,781 = available 115,343 - distributions 65,436 - rounding 36 = end 49,871). guard_ok set false because |A+B-P - E| = 36,000 exceeds the ~1000 raw tolerance, but this is fully explained by the disclosed rounding line and all lines verified correct at source. distribution_paid_declared value nulled: FY2025 declared basis is DPU 15.29 cents (7.65c 1H2025 + 7.64c 2H2025), but 2H2025 tranche was declared post year-end and no single full-year declared-cash figure appears in the audited Distribution Statement (only cash paid during the year, P=65,436k, is shown)."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "MOB Specialist Clinics, Kuala Lumpur (Malaysia Portfolio)",
+      "transaction_type": "divestment",
+      "gain_loss_pct": 2.1,
+      "gain_basis": "DERIVED vs_book_value: gain_on_divestment $123k / carrying_value $5,863k = 2.10% (equivalently net_sale_proceeds 5,986k - carrying 5,863k = 123k, /5,863k). Audited: gain on disposal $123k (Statement of Total Return p147; Note A distribution adjustments p148; cash flow p168) and carrying value $5,863k 'Disposal of investment property (5,863)' (Note 4 Investment Properties p189). No gain % disclosed in the audited statements. Manager commentary (NON-AUDITED, p10/p14 - not used as source of truth) cites 25.6% premium over original purchase price and 4.6% above the average of latest valuations (RM19.2m/S$5.8m); the audited Portfolio Statement shows this property as N.A. (already divested) p166, so no audited valuation basis exists.",
+      "valuation_date": null,
+      "announced_date": "2025-04-21",
+      "completed_date": "2025-08-12",
+      "sale_price": 6100000,
+      "valuation": 5800000,
+      "carrying_value": 5863000,
+      "gain_on_divestment": 123000,
+      "net_sale_proceeds": 5986000,
+      "counterparty": "Pantai Medical Centre Sdn. Bhd.",
+      "deal_id": "c2pu:mob_specialist_clinics_kuala_lumpur:divestment:2025",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 189,
+      "verbatim": "On 21 April 2025, the Group entered into a sale and purchase agreement with Pantai Medical Centre Sdn. Bhd., a wholly-owned subsidiary of IHH Healthcare Berhad ... to sell the strata units and lots at MOB Specialist Clinics in Kuala Lumpur, Malaysia, for a sale consideration of RM20.1 million (approximately $6.1 million). The disposal of investment property was completed on 12 August 2025, and a net gain on disposal (net of disposal costs and before tax) of approximately $0.1 million was recognised during the financial year. (FS Note 4, p189). sale_price/valuation raw: 'RM20.1 million (approximately S$6.1 million)' vs 'average of latest valuations RM19.2 million (approximately S$5.8 million)'. carrying_value $5,863k = 'Disposal of investment property (5,863)' in Note 4 investment property movement (p189) - disclosed, not derived. net_sale_proceeds $5,986k = 'Net proceeds from disposal of investment property (including divestment related costs) 5,986' (Consolidated Statement of Cash Flows p168)."
+    }
+  ]
+}

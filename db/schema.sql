@@ -47,6 +47,10 @@ create table if not exists sgx_reit_performance (
 alter table sgx_reit_performance add column if not exists adjusted_distributable_income numeric;
 alter table sgx_reit_performance add column if not exists distribution_paid numeric;
 alter table sgx_reit_performance add column if not exists distribution_basis text;
+-- New-fields wave (2026-07-06): closing units in issue (trust-level, distinct from number_of_unitholders headcount)
+alter table sgx_reit_performance add column if not exists number_of_shareholder_units numeric;
+-- New-fields wave (2026-07-06): DPU coverage in months (12 = full year; <12 flags a stub/partial-year DPU, e.g. 8C8U IPO stub, CMOU post-suspension 2H-only)
+alter table sgx_reit_performance add column if not exists dpu_period_months numeric;
 
 create table if not exists sgx_reit_property (
   id uuid primary key default gen_random_uuid(),
@@ -63,8 +67,11 @@ create table if not exists sgx_reit_property (
   purchase_price_currency text,                   -- currency of purchase_price (foreign assets often disclosed in local ccy; compare vs original_value). Added 2026-06-23
   valuation_date date,
   currency text,                                  -- presentation currency (as-reported; prod -> SGD)
-  original_currency text,                         -- AUDIT TRAIL: local/transacting ccy when reported separately (e.g. RMB)
+  original_currency text,                         -- AUDIT TRAIL: local/transacting ccy when reported separately (e.g. RMB -> normalized CNY)
   original_value numeric,                         -- AUDIT TRAIL: market_valuation in original_currency
+  market_valuation_currency text,                 -- per-figure ccy of market_valuation (Wave 9): = original_currency (foreign) else currency. Explicit tag matching the other 3 figures.
+  purchase_price_local numeric,                   -- AUDIT TRAIL (Wave 9): as-reported LOCAL acquisition cost when the report also prints it (e.g. CY6U INR); purchase_price stays presentation ccy
+  purchase_price_local_currency text,             -- currency of purchase_price_local
   net_property_income numeric,
   net_property_income_currency text,              -- per-figure ccy (Phase-3 Tier-0): DHLU etc. report NPI in asset-local ccy (JPY) while `currency`=SGD presentation. Default = row currency.
   gross_revenue numeric,
@@ -93,8 +100,16 @@ alter table sgx_reit_property add column if not exists area_unit text;
 -- Phase-3 Tier-0 (2026-07-01): per-figure currency for NPI/gross_revenue (fixes DHLU JPY-vs-SGD mislabel)
 alter table sgx_reit_property add column if not exists net_property_income_currency text;
 alter table sgx_reit_property add column if not exists gross_revenue_currency text;
+-- Wave 9 (2026-07-03): explicit market_valuation currency tag + as-reported local acquisition cost pair
+alter table sgx_reit_property add column if not exists market_valuation_currency text;
+alter table sgx_reit_property add column if not exists purchase_price_local numeric;
+alter table sgx_reit_property add column if not exists purchase_price_local_currency text;
 alter table sgx_reit_property drop column if exists trade_mix;
 alter table sgx_reit_property drop column if exists divestment_price;
+-- New-fields wave (2026-07-06): property acquisition/purchase date, stored as TEXT to accept year-only disclosures ("2011") alongside full dates ("2023-02-02"); as-disclosed, never fabricated
+alter table sgx_reit_property add column if not exists purchase_date text;
+-- if a prior run created it as date (same session), widen to text (idempotent, column is empty)
+alter table sgx_reit_property alter column purchase_date type text using purchase_date::text;
 
 create table if not exists sgx_reit_top_tenant (
   id uuid primary key default gen_random_uuid(),
@@ -147,7 +162,7 @@ create table if not exists sgx_reit_property_transaction (
   -- money (Phase-1 un-conflation 2026-07-01): gross sale price and net-of-cost proceeds are
   -- now DISTINCT columns (10 divestments disclose both; the old single net_proceeds dropped one).
   purchase_price numeric,                          -- ACQUISITION consideration paid (aliases: price/consideration/amount)
-  gross_sale_price numeric,                        -- DIVESTMENT gross sale price / consideration, costs NOT deducted (aliases: sale_price/sale_consideration/price/consideration)
+  sale_price numeric,                              -- DIVESTMENT sale consideration AS DISCLOSED (renamed from gross_sale_price 2026-07-09; aliases: gross_sale_price/sale_consideration/price/consideration)
   net_sale_proceeds numeric,                       -- DIVESTMENT proceeds net of transaction costs (aliases: net_proceeds/net_consideration_usd)
   carrying_value numeric,                          -- book value just before divestment (basis for gain)
   gain_on_divestment numeric,
@@ -157,7 +172,7 @@ create table if not exists sgx_reit_property_transaction (
   -- (357 Collins: AUD proceeds + SGD carrying). Each money figure carries its own currency;
   -- falls back to the row `currency` when the AR didn't tag the figure separately.
   purchase_price_currency text,
-  gross_sale_price_currency text,
+  sale_price_currency text,
   net_sale_proceeds_currency text,
   carrying_value_currency text,
   gain_currency text,
@@ -191,6 +206,33 @@ alter table sgx_reit_property_transaction add column if not exists gain_on_dives
 alter table sgx_reit_property_transaction add column if not exists net_proceeds_basis text;
 -- old single money-in column superseded by gross_sale_price + net_sale_proceeds
 alter table sgx_reit_property_transaction drop column if exists net_proceeds;
+
+-- Distribution rollforward (2026-07-09): as-disclosed Distribution Statement lines
+--   A=opening, B=net_distributable_income (existing), P=cash_paid, E=closing. Guard: A+B-P=E.
+alter table sgx_reit_performance add column if not exists distributable_income_opening numeric;
+alter table sgx_reit_performance add column if not exists distribution_cash_paid numeric;
+alter table sgx_reit_performance add column if not exists distributable_income_closing numeric;
+
+-- Property-txn schema pass (2026-07-09): AR-first + SGX announcement top-up.
+-- Rename gross_sale_price -> sale_price (data-preserving, idempotent); drop transaction_cost idea.
+do $$ begin
+  if exists (select 1 from information_schema.columns where table_name='sgx_reit_property_transaction' and column_name='gross_sale_price')
+     and not exists (select 1 from information_schema.columns where table_name='sgx_reit_property_transaction' and column_name='sale_price')
+  then alter table sgx_reit_property_transaction rename column gross_sale_price to sale_price; end if;
+  if exists (select 1 from information_schema.columns where table_name='sgx_reit_property_transaction' and column_name='gross_sale_price_currency')
+     and not exists (select 1 from information_schema.columns where table_name='sgx_reit_property_transaction' and column_name='sale_price_currency')
+  then alter table sgx_reit_property_transaction rename column gross_sale_price_currency to sale_price_currency; end if;
+end $$;
+alter table sgx_reit_property_transaction add column if not exists sale_price numeric;
+alter table sgx_reit_property_transaction add column if not exists sale_price_currency text;
+alter table sgx_reit_property_transaction add column if not exists deal_id text;
+alter table sgx_reit_property_transaction add column if not exists announced_date text;
+alter table sgx_reit_property_transaction add column if not exists completed_date text;
+alter table sgx_reit_property_transaction add column if not exists gain_loss_pct numeric;
+alter table sgx_reit_property_transaction add column if not exists gain_basis text;
+alter table sgx_reit_property_transaction add column if not exists valuation_date text;
+alter table sgx_reit_property_transaction add column if not exists source_type text default 'annual_report';
+alter table sgx_reit_property_transaction add column if not exists announcement_refs jsonb;
 
 -- _notes.json -> own table (CONFIRMED 2026-06-19). One jsonb blob per (symbol, FY).
 create table if not exists sgx_reit_notes (

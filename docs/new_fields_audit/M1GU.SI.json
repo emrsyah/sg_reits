@@ -1,0 +1,131 @@
+{
+  "symbol": "M1GU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 1125055242,
+      "page": 20,
+      "note": "Units in issue 1,125,055,242 at 31 Dec 2025 (Manager's Review p20); no Units issued in FY2025; audited Note 12/SFP p115 = 1,125,055'000"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 20,
+      "note": "FY2025 = 1 Jan-31 Dec 2025 (full year); declared DPU 3.53 cents (p20)"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "New Tech Park",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "8 Commonwealth Lane",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "Frontech Centre",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "1 Tuas Avenue 4",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "BTC Centre",
+      "purchase_date": "2012-10-01",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "508 Chai Chee Lane",
+      "purchase_date": "2013-09-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "33, 33A & 35 Penjuru Lane",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "18 Gul Drive",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "Penjuru Logistics Hub",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "Freight Links Express Logisticentre",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "26 Loyang Drive",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "3A Joo Koon Circle",
+      "purchase_date": "2011-11-22",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "2 Toh Tuck Link",
+      "purchase_date": "2011-11-22",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "10 Changi South Street 2",
+      "purchase_date": "2014-12-15",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "123 Genting Lane",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "30 & 32 Tuas Avenue 8",
+      "purchase_date": "2010-11-26",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "39 Ubi Road 1",
+      "purchase_date": "2011-12-07",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    },
+    {
+      "property_name": "21 Joo Koon Crescent",
+      "purchase_date": "2011-11-22",
+      "page": 18,
+      "note": "Property Highlights: 'Acquisition Date / Completion Date' column p18"
+    }
+  ],
+  "summary": {
+    "n_properties": 18,
+    "purchase_date_filled": 18,
+    "purchase_date_null": 0
+  }
+}

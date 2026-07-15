@@ -9,32 +9,70 @@
     "gross_income": 133742000,
     "operating_income": 115264000,
     "operating_expense": 18478000,
-    "ebit": 86184000,
-    "ebitda": 86184000,
+    "ebit": 115264000.0,
+    "ebitda": 98825000.0,
     "pretax_income": 49067000,
     "income_taxes": -4387000,
     "net_income": 53454000,
     "non_operating_income_or_loss": -66197000,
-    "interest_expense_non_operating": 37117000,
+    "interest_expense_non_operating": 37455000.0,
     "weighted_avg_shares_basic": 812259000,
     "diluted_shares_outstanding": 812343000,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 65757000.0,
     "unitholders": 32729000,
-    "perpetual_security_holders": 20725000,
-    "minorities": 0,
+    "perpetual_security_holders": -20725000.0,
+    "minorities": -0.0,
     "revenue_breakdown": [
-      {"category": "Property rental income", "amount": 137895000, "class": "Product/Service Sales"},
-      {"category": "Service charge, land rent and property tax", "amount": 25964000, "class": "Product/Service Sales"},
-      {"category": "Other property expenses recoverable from tenants and other property income", "amount": 19690000, "class": "Other income"},
-      {"category": "Sale of electricity and renewable energy certificates", "amount": 3077000, "class": "Other income"}
+      {
+        "category": "Property rental income",
+        "amount": 137895000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Service charge, land rent and property tax",
+        "amount": 25964000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other property expenses recoverable from tenants and other property income",
+        "amount": 19690000,
+        "class": "Other income"
+      },
+      {
+        "category": "Sale of electricity and renewable energy certificates",
+        "amount": 3077000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's management fees", "amount": 11031000, "class": "General & Admin"},
-      {"category": "Manager's performance fees", "amount": 2172000, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 5275000, "class": "Other expenses"}
+      {
+        "category": "Manager's management fees",
+        "amount": 11031000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Manager's performance fees",
+        "amount": 2172000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 5275000,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 12303000
   },
   "balance_sheet_metrics": {
     "total_asset": 2290620000,
@@ -51,26 +89,122 @@
     "investing_cash_flow": -18147000,
     "financing_cash_flow": -111508000,
     "net_cash_flow": -3132000,
-    "free_cash_flow": 101098000,
-    "capital_expenditure": -25425000
+    "free_cash_flow": 101098000.0,
+    "capital_expenditure": 25425000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "property_rental_income", "amount": 137895000, "label_raw": "Property rental income", "source_page": 209},
-    {"statement": "revenue", "component": "service_charge_land_rent_property_tax", "amount": 25964000, "label_raw": "Service charge, land rent and property tax", "source_page": 209},
-    {"statement": "revenue", "component": "other_property_income", "amount": 19690000, "label_raw": "Other property expenses recoverable from tenants and other property income", "source_page": 209},
-    {"statement": "revenue", "component": "sale_of_electricity_recs", "amount": 3077000, "label_raw": "Sale of electricity and renewable energy certificates", "source_page": 209},
-    {"statement": "expense", "component": "property_operating_expenses", "amount": 52884000, "label_raw": "Property operating expenses", "source_page": 158},
-    {"statement": "expense", "component": "finance_costs_borrowing", "amount": 37455000, "label_raw": "Borrowing costs", "source_page": 158},
-    {"statement": "expense", "component": "management_fee_base", "amount": 11031000, "label_raw": "Manager's management fees", "source_page": 158},
-    {"statement": "expense", "component": "management_fee_performance", "amount": 2172000, "label_raw": "Manager's performance fees", "source_page": 158},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 5275000, "label_raw": "Other trust expenses", "source_page": 158},
-    {"statement": "adjustment", "component": "net_foreign_exchange_gain", "amount": 331000, "label_raw": "Net foreign exchange gain", "source_page": 158},
-    {"statement": "adjustment", "component": "interest_and_other_income", "amount": 338000, "label_raw": "Interest and other income", "source_page": 158},
-    {"statement": "adjustment", "component": "other_non_operating_income_insurance", "amount": 1753000, "label_raw": "Other non-operating income - insurance claims", "source_page": 158},
-    {"statement": "adjustment", "component": "share_of_jv_losses", "amount": -18213000, "label_raw": "Share of losses of joint venture (net of tax)", "source_page": 158},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -11531000, "label_raw": "Net change in fair value of investment properties", "source_page": 158},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -1420000, "label_raw": "Net change in fair value of derivative financial instruments", "source_page": 158},
-    {"statement": "adjustment", "component": "income_tax_credit", "amount": 4387000, "label_raw": "Income tax credit", "source_page": 158}
+    {
+      "statement": "revenue",
+      "component": "property_rental_income",
+      "amount": 137895000,
+      "label_raw": "Property rental income",
+      "source_page": 209
+    },
+    {
+      "statement": "revenue",
+      "component": "service_charge_land_rent_property_tax",
+      "amount": 25964000,
+      "label_raw": "Service charge, land rent and property tax",
+      "source_page": 209
+    },
+    {
+      "statement": "revenue",
+      "component": "other_property_income",
+      "amount": 19690000,
+      "label_raw": "Other property expenses recoverable from tenants and other property income",
+      "source_page": 209
+    },
+    {
+      "statement": "revenue",
+      "component": "sale_of_electricity_recs",
+      "amount": 3077000,
+      "label_raw": "Sale of electricity and renewable energy certificates",
+      "source_page": 209
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 52884000,
+      "label_raw": "Property operating expenses",
+      "source_page": 158
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs_borrowing",
+      "amount": 37455000,
+      "label_raw": "Borrowing costs",
+      "source_page": 158
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 11031000,
+      "label_raw": "Manager's management fees",
+      "source_page": 158
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_performance",
+      "amount": 2172000,
+      "label_raw": "Manager's performance fees",
+      "source_page": 158
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 5275000,
+      "label_raw": "Other trust expenses",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "net_foreign_exchange_gain",
+      "amount": 331000,
+      "label_raw": "Net foreign exchange gain",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "interest_and_other_income",
+      "amount": 338000,
+      "label_raw": "Interest and other income",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_non_operating_income_insurance",
+      "amount": 1753000,
+      "label_raw": "Other non-operating income - insurance claims",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_jv_losses",
+      "amount": -18213000,
+      "label_raw": "Share of losses of joint venture (net of tax)",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -11531000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -1420000,
+      "label_raw": "Net change in fair value of derivative financial instruments",
+      "source_page": 158
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax_credit",
+      "amount": 4387000,
+      "label_raw": "Income tax credit",
+      "source_page": 158
+    }
   ]
 }

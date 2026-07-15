@@ -176,5 +176,6 @@
     "reported_total_npi": 150176000.0,
     "sum_property_npi": null,
     "line_items_recon": "Σrevenue(192,097k) − Σexpense(104,122k) + Σadjustment_signed(24,716k) = 112,691k = net_income (total return after tax, p138). Interest income (1,840k) is bucketed as 'adjustment' (below-NPI finance income), so Σrevenue line_items = total_revenue 192,097k = performance.gross_revenue; gross_income 150,176k = performance.net_property_income."
-  }
+  },
+  "currency_scheme_wave9_2026_07_03": "Wave 9 currency scheme: Wisma Atria (Office) 13 strata-units divestment (p141) has NO single transaction_date as-reported — footnote (13) states the units 'were divested during the current period to unrelated third parties' (a multi-unit sale spread across FY2024/25, not a single completion). transaction_date left null (structural)."
 }

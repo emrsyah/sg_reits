@@ -36,75 +36,80 @@ After rounds 2–5, **every remaining high-null column has been source-verified*
 
 ---
 
-## Stage A — full fill/null by column (live 2026-07-02)
+## Stage A — full fill/null by column (live 2026-07-03, post-Wave-10)
+
+_`real` = genuinely-fillable missing values (source prints it but DB is null). After Wave 10, **every table's real residual is 0** — all remaining nulls are structural (row-condition), by-design conditional, source-confirmed absent, or live in a dedicated table. `(+_currency)`/`(+_basis)` rows share the base column's count. New columns since the 2026-07-02 snapshot are tagged **[W9]** (Wave-9 currency scheme)._
 
 ### profile — 37 rows
-| column | fill | null % |
-|---|---|---|
-| symbol / sub_sector / management / income_model / source_page | 37/37 | 0% |
+| column | fill | null % | real |
+|---|---|---|---|
+| symbol / sub_sector / management / income_model / source_page | 37/37 | 0% | 0 |
 
 ### performance — 37 rows
-| column | fill | null % |
-|---|---|---|
-| portfolio_value, gross_revenue, net_property_income, net_distributable_income, dpu | 37/37 | 0% |
-| distribution_record, distribution_paid, distribution_basis | 37/37 | 0% |
-| aggregate_leverage, interest_coverage_ratio, cost_of_debt, nav_per_unit | 37/37 | 0% |
-| number_of_unitholders | 37/37 | 0% (J91U recovered wave 6) |
-| portfolio_occupancy | 35/37 | 5% |
-| weighted_avg_debt_maturity | 34/37 | 8% |
-| wale | 33/37 | 11% |
-| adjusted_distributable_income | 1/37 | 97% ⚠️ (drop candidate) |
+| column | fill | null % | real | note |
+|---|---|---|---|---|
+| portfolio_value, gross_revenue, net_property_income, net_distributable_income, dpu | 37/37 | 0% | 0 | |
+| distribution_record, distribution_paid, distribution_basis | 37/37 | 0% | 0 | |
+| aggregate_leverage, interest_coverage_ratio, cost_of_debt, nav_per_unit | 37/37 | 0% | 0 | |
+| number_of_unitholders, currency, date, properties_location, flags, source_page | 37/37 | 0% | 0 | |
+| portfolio_occupancy | 35/37 | 5% | 0 | segment-only (Q5T hotels/SR, 8C8U PBWA/PBSA — no blend) |
+| weighted_avg_debt_maturity | 34/37 | 8% | 0 | AW9U/T82U/CY6U = debt-maturity **chart only**, no scalar years |
+| wale | 33/37 | 11% | 0 | HMN/Q5T/T82U/CY6U = hotel-subset/segment-only, no portfolio blend |
+| adjusted_distributable_income | 1/37 | 97% | 0 | method-2-only; 1 real (M1GU) → **drop candidate** |
 
 ### financial — 37 rows
-| column | fill | null % |
-|---|---|---|
-| income_stmt / balance_sheet / cash_flow / line_items | 37/37 | 0% |
-| employee_breakdown | 8/37 | 78% ⚠️ (externally-managed = structural) |
+| column | fill | null % | real | note |
+|---|---|---|---|---|
+| income_stmt_metrics / balance_sheet_metrics / cash_flow_metrics / line_items | 37/37 | 0% | 0 | `balance_sheet_metrics` canonical **8-key** schema 37/37 complete (ME8U's 6 extra keys are optional, not nulls); `income_stmt_metrics.funds_from_operation` sub-key null 37/37 = FFO (US convention) not reported by SGX REITs |
+| employee_breakdown | 8/37 | 78% | 0 | externally-managed REITs = structural |
 
 ### property — 1,653 rows
-| column | fill | null % |
-|---|---|---|
-| property_name, country, category, address, currency, status, land_tenure, tenure_raw | ~1653/1653 | 0% |
-| category_raw | 1651/1653 | 0% |
-| valuation_date | 1633/1653 | 1% |
-| market_valuation | 1600/1653 | 3% (M44U held-for-sale ×4 recovered wave 6; residual = divested/off-book) |
-| purchase_price (+_currency) | 1551/1653 | 6% |
-| gross_revenue (+_currency) | 1532/1653 | 7% |
-| occupancy_rate | 1468/1653 | 11% |
-| ownership | 1418/1653 | 14% |
-| nla | 1210/1653 | 27% ⚠️ |
-| area_unit | 1117/1653 | 32% ⚠️ |
-| gfa | 616/1653 | 63% ⚠️ (NLA-only REITs) |
-| lease_term_years | 630/1653 | 62% ⚠️ (freehold) |
-| lease_expiry_date | 447/1653 | 73% ⚠️ (freehold) |
-| net_property_income (+_currency) | 192/1653 | 88% ⚠️ (segment-only) |
-| original_currency / original_value | 184/1653 | 89% ⚠️ (audit-trail) |
-| npi_pct | 96/1653 | 94% ⚠️ (segment-only) |
-| effective_date | 60/1653 | 96% ⚠️ |
-| gla | 18/1653 | 99% ⚠️ (superseded by nla/gfa) |
-| major_tenants | — | stored as empty array; data → top_tenant table |
+| column | fill | null % | real | note |
+|---|---|---|---|---|
+| property_name, country, category, address, currency, status, source_page, flags, major_tenants | 1653/1653 | 0% | 0 | `major_tenants` = empty array; data → top_tenant table |
+| category_raw | 1651/1653 | 0.1% | 0 | BTOU Plaza/Peachtree (divested US offices) |
+| land_tenure / tenure_raw | 1651/1653 | 0.1% | 0 | HMN Somerset (divested) + JYEU Parkway (JV interest); **N2IU Pinnacle Gangnam filled W10** |
+| valuation_date | 1633/1653 | 1.2% | 0 | divested |
+| market_valuation (+_currency **[W9]**) | 1600/1653 | 3.2% | 0 | divested 49 + HMN 4 "Not applicable" |
+| purchase_price (+_currency) | 1551/1653 | 6.2% | 0 | whole-symbol no historic cost / prior-yr / IPO-seed |
+| gross_revenue (+_currency) | 1532/1653 | 7.3% | 0 | whole-symbol segment-only |
+| occupancy_rate | 1468/1653 | 11.2% | 0 | hotels report RevPAR |
+| ownership | 1420/1653 | 14.1% | 0 | A17U 232 = whole-symbol (no per-property %); +2 HMN filled W11 |
+| nla | 1210/1653 | 26.8% | 0 | hotels (keys) / GFA-REITs whole-symbol |
+| area_unit | 1117/1653 | 32.4% | 0 | only set where an area exists |
+| lease_term_years | 630/1653 | 61.9% | 0 | freehold + date-only (D5IU) + perpetual (SET) |
+| gfa | 619/1653 | 62.6% | 0 | NLA-only REITs; +3 filled W11 (HMN×2, N2IU FJM); **8C8U 14 gfa values are mislabeled Land Area — DQ, unfixed** |
+| lease_expiry_date | 447/1653 | 73.0% | 0 | freehold + leasehold disclose **term** not date (deriving forbidden) |
+| net_property_income (+_currency) | 192/1653 | 88.4% | 0 | segment-only |
+| original_currency / original_value | 184/1653 | 88.9% | 0 | foreign-only audit-trail pair |
+| npi_pct | 96/1653 | 94.2% | 0 | segment-only |
+| effective_date | 60/1653 | 96.4% | 0 | land-lease start rarely per-property |
+| purchase_price_local (+_currency) **[W9]** | 29/1653 | 98.2% | 0 | foreign local-cost pair only (AJBU 17, CY6U 12) |
+| gla | 18/1653 | 98.9% | 0 | superseded by nla/gfa |
 
 ### property_transaction — 95 rows
-| column | fill | null % |
-|---|---|---|
-| property_name, transaction_type, transaction_date, status | ~95/95 | 0–3% |
-| description | 93/95 | 2% |
-| currency | 93/95 | 2% |
-| counterparty | 79/95 | 17% (unnamed "third party") |
-| valuation | 74/95 | 22% ⚠️ (by-deal; J69U Yishun-10 nulled wave 8 = consideration≠valuation) |
-| carrying_value (+_currency/_basis) | 64/95 | 33% ⚠️ (UD1U/XZL-Livonia derived-copies nulled wave 8) |
-| gross_sale_price (+_currency) | 66/95 | 31% ⚠️ (divestment-only; BTOU Plaza+Peachtree recovered wave 8; AW9U corrected net→gross) |
-| gain_on_divestment (+_currency/_basis) | 14–28/95 | 71–85% ⚠️ (divestment-only) |
-| purchase_price (+_currency) | 23–26/95 | 73–76% ⚠️ (acquisition-only) |
-| net_sale_proceeds (+_currency/_basis) | 3–16/95 | 83–97% ⚠️ (rarely split out) |
-| interest_pct | 5/95 | 95% ⚠️ (partial/NCI deals only) |
+| column | fill | null % | real | note |
+|---|---|---|---|---|
+| property_name, transaction_type, status, currency, source_page, raw | 95/95 | 0% | 0 | |
+| description | 93/95 | 2.1% | 0 | |
+| transaction_date | 93/95 | 2.1% | 0 | P40U/T82U averaged "during period" strata |
+| counterparty | 79/95 | 16.8% | 0 | unnamed "third party" |
+| valuation (+_currency) | 74/95 | 22.1% | 0 | by-deal; not always an independent valuation |
+| gross_sale_price (+_currency) | 66/95 | 30.5% | 0 | acquisition-null + prior-yr/blended |
+| carrying_value (+_currency) | 64/95 | 32.6% | 0 | acquisition-null + not-separately-disclosed |
+| carrying_value_basis | 62/95 | 34.7% | 0 | provenance, mirrors carrying_value |
+| gain_on_divestment (+_currency) | 28/95 | 70.5% | 0 | divestment-only, aggregate-FS-line only |
+| purchase_price (+_currency) | 23/95 | 75.8% | 0 | acquisition-only |
+| net_sale_proceeds (+_currency) | 15/95 | 84.2% | 0 | rarely split out per-txn |
+| gain_on_divestment_basis | 14/95 | 85.3% | 0 | provenance |
+| interest_pct | 5/95 | 94.7% | 0 | partial/NCI deals only |
+| net_proceeds_basis | 3/95 | 96.8% | 0 | provenance |
 
 ### top_tenant — 384 rows
-| column | fill | null % |
-|---|---|---|
-| rank, revenue_pct, pct_basis, source_page | ~384/384 | 0% |
-| client_name | 383/384 | 0% (BUOU rank 13 = source "Undisclosed") |
-| industry | 348/384 | 9% (SET/M1GU/BTOU — no per-tenant sector; see trade_mix) |
+| column | fill | null % | real | note |
+|---|---|---|---|---|
+| rank, client_name, revenue_pct, pct_basis, source_page | 383–384/384 | 0–0.3% | 0 | `client_name` now 384/384 (BUOU rank 13 recovered); revenue_pct 1 source-blank |
+| industry | 348/384 | 9.4% | 0 | SET/M1GU/BTOU — no per-tenant sector column (see trade_mix) |
 
 ### trade_mix — 367 rows · notes — 37 rows
 All columns 0% null.
@@ -141,6 +146,54 @@ Live DB re-census first (matched Wave-7 numbers exactly — Wave 7 fully landed,
 - **Hardened confirmed-absent (do NOT re-hunt):** 8C8U IPO Portfolio + EPIISOD `valuation` (only agreed acquisition price printed; the year-end aggregate S$1,884,420k is a different concept/date, not a deal valuation — left null per never-derive), K71U MBFC T3 (agreed-price-only; the 1,453m already loads as `purchase_price` via the consideration alias), SET AiOnX (FVTPL fund NAV, not a property valuation), TS0U Salesforce Tower + Lippo Plaza (consideration-only), CY6U CyberPearl/CyberVale + 20.2% DC stake (premium-%-only, agreed-value, deal completes next FY), BUOU 28-German (IFRS-10 equity transaction — no property carrying/valuation of the minority stake), M44U 7 prior-year divestment rows (blank valuation both balance dates).
 - **Flags for follow-up (not changed):** (a) **Systemic currency scheme** — `purchase_price` stored converted-to-SGD for foreign properties on A17U/AJBU/BUOU/HMN/CY6U/K71U/O5RU/P40U/T82U/8C8U (hundreds of rows) while others store local + `_local`; and RMB(27)-vs-CNY(8) tag inconsistency. Both belong to the open `docs/currency_scheme.md` decision — NOT touched. (b) Several divested/terminated properties still carry a `valuation_date` (and XZL Memphis-terminated a printed price/valuation) where invariant-6 argues for null — minor cleanup, left. (c) J69U `net_sale_proceeds` 34,128k is derived vs printed 34,500k (p151) — flagged, left.
 
+
+## Wave 9 (2026-07-03) — currency scheme (as-reported basis + value + date)
+Full detail in `docs/currency_scheme.md` §"Wave 9 results". Re-census overturned the handoff premise: currency tags were **already ~100% present** (property: 0 missing on all 4 figures; txn: only 7). So Wave 9 = a **non-destructive structural migration (Option B, user-locked)** + ~5 source-cited row fixes, NOT a fill wave. `performance`/`financial` (single presentation ccy + `date`) untouched. Resolves the Wave-8 flag (a).
+- **Schema:** +`sgx_reit_property.market_valuation_currency`, `.purchase_price_local`, `.purchase_price_local_currency` (no column dropped; audited SGD + presentation values all retained). `db/schema.sql` + `schema/models.py` updated.
+- **Loader (`load_supabase.py`):** (1) `_ccy()` normalizes `RMB → CNY` on write (values unchanged; JSON stays as-reported); (2) fixed per-figure currency-tag guard bug (tag now keys off the resolved value, not a narrower re-lookup) → auto-tagged AJBU/AW9U/C2PU gain=SGD + BTOU Plaza/Peachtree valuation=USD; (3) `_first_date()` takes the first *valid* date alias so a malformed early alias no longer shadows a valid later one; (4) `market_valuation_currency` = local (foreign) else presentation, + surfaces the `purchase_price_local` pair.
+- **Verified landed (37 dirs reloaded, live re-query):** RMB **92→0** (all CNY); `market_valuation_currency` **1600/1600**; `purchase_price_local` **29** (AJBU 17 AUD/CNY, CY6U 12 INR — exact source match, `purchase_price` stays presentation SGD); txn currency-tag gaps **7→0**; TS0U Salesforce Tower `transaction_date`=**2026-02-24** (agreement, p175); M44U Chee Wah/Subang `carrying_value_currency`=**SGD** (basis p190). Row counts intact (property 1653, txn 95).
+- **Source-cited structural nulls left null** (`_notes.json` key `currency_scheme_wave9_2026_07_03`): P40U Wisma Atria (Office) strata + T82U Suntec City Office strata — both averaged/multi-unit divestments "during the period" with no single as-reported completion date (the only 2 txn rows with money but no date; correct as null).
+
+## Wave 10 (2026-07-03) — DB-first null re-check + structural-null enumeration
+Live per-column null census across all 8 relational tables, then each heavy-null (≥30%) column classified **structural (row-condition ⇒ null by design)** vs **real residual (value SHOULD exist)**. Verdict: after Waves 1–9 the DB is **essentially complete**; the real residual was ~15 candidate cells, of which **14 verified genuine-absent** (most already hardened with source-cited `_basis`/`_recovery_note`/`_notes`) and **1 fillable**.
+
+### Structural null rules — enumerated & source-verified (these DISSOLVE; do NOT re-hunt)
+- **`lease_expiry_date` (73% null, 1206):** Freehold 969 (no expiry) + **all 234 leasehold disclose tenure as a TERM** ("30+30 years", "99 years / 66 yrs remaining", MXNU/T82U "N-year from <date>"). Only D5IU prints explicit expiry dates (already filled). An expiry date would require deriving `completion + term` → **invariant-3 forbidden** ⇒ structural.
+- **`lease_term_years` (62% null, 1023):** Freehold 968 + D5IU 29 (prints expiry date, not term) + SET perpetual/usufruct ⇒ structural.
+- **`market_valuation` (53 null):** divested 49 + **HMN 4 active hotels** whose Portfolio Statement (p143) prints "At Valuation = *Not applicable*" (owned via the Ascott BT stapled group; the 2.1/1.9 figures are % of securityholders' funds, not $) ⇒ genuine-absent, not a value.
+- **`valuation_date` (20 null):** all divested ⇒ structural.
+- **`ownership` (235 null):** A17U 232 = whole-symbol (no per-property % disclosed) ⇒ structural.
+- **`nla`/`occupancy_rate` (443/185):** HMN 105 (hotels report keys/RevPAR), data-centre/hotel REITs whole-symbol ⇒ structural.
+- **`gross_revenue`/`purchase_price` (121/102):** ODBU/K71U/DHLU whole-symbol segment-only revenue; XZL 31 whole-symbol (no historic cost); M44U 17 prior-year rows ⇒ structural/hardened.
+- **`net_property_income`/`npi_pct`/`gla`/`original_*`/`purchase_price_local`/`employee_breakdown`/`adjusted_distributable_income`:** segment-only / NLA-REITs / foreign-only pairs / externally-managed / method-2-only ⇒ structural (confirmed prior waves).
+- **txn `net_sale_proceeds` (80)/`gain_on_divestment` (67):** not disclosed per-transaction by most REITs; `*_terminated` deals carry no final figures ⇒ structural.
+- **`financial.balance_sheet_metrics` "missing" keys (units_in_issue, investment_properties, nav_per_unit … present 1/37):** the canonical **8-key** BS schema is 37/37 complete; ME8U alone captured 6 optional extras ⇒ **per-report metric-bag variance, not a null**.
+- **`financial.funds_from_operation` (key present 37/37, value null 37/37):** FFO is a US-REIT convention SGX REITs do not report ⇒ genuine-absent.
+
+### Real residual — adversarially verified vs `full.md` (14 genuine-absent, all source-cited)
+- **txn (already hardened, notes re-confirmed correct):** M44U Chee Wah/Subang 1 `gross_sale_price` — prior-year (FY2023) divestments listed only as a dates table p173, no restated price. UD1U Il·lumina `carrying_value` — Round-8 note: prior 24,724k was derived (proceeds+loss), not printed (grep/RAG/portfolio-stmt confirm absent). XZL Detroit Livonia `carrying_value` — Round-8 note: not separately disclosed, held-for-sale=0 p133, prior 10.3M was valuation conflation. HMN Chisun Kanazawa/Splendide Namba/Pregio Esaka `purchase_price` — each "**not separately priced**" (part of a blended JPY acquisition, p11); valuations shown are Portfolio-Statement carrying, not price.
+- **property tenure:** JYEU **Parkway Parade** `land_tenure` — genuine-absent (10% equity-accounted JV interest, reported only at fair value S$86.1M; no tenure token co-occurs with "Parkway" anywhere in the report). HMN Somerset Olympic Tower Tianjin — divested (structural).
+- **performance (all segment-only or chart-only ⇒ genuine-absent):** `weighted_avg_debt_maturity` AW9U/T82U/CY6U — only a Debt-Maturity-Profile **bar chart**, no scalar-years text (blending = derivation). `wale` T82U (office 3.80 / retail 2.42 yrs, no blend), CY6U (no scalar, lease-expiry chart only), Q5T (1.34 yrs = commercial-premises subset; hotel master-lease trust), HMN (11 yrs = 28 master-leases subset; management-contract hotels have no lease). `portfolio_occupancy` Q5T (hotels 81.3% / SR 81.5% segment-only), 8C8U (PBWA 97.6% / PBSA 99.1% segment-only) — no reported blend.
+
+### Filled (1) — verified, reloaded, DB-confirmed
+- **N2IU The Pinnacle Gangnam `land_tenure`/`tenure_raw` = "Freehold"** — Properties-at-a-Glance factbox p47 (Title cell = Freehold, acquisition 21 Jul 2022). The prior round-2 `_recovery_note` had *already identified* "Freehold" (and correctly left `lease_expiry_date` null) but forgot to set the tenure fields — a genuine extraction miss. `land_tenure` NULL 3→2 (remaining 2 both documented genuine-absent above). QC PASS; row counts intact (property 1653, txn 95).
+
+**Lever status:** null-recovery declared **exhausted** — remaining heavy nulls are structural or source-confirmed absent; the txn `_basis`/`note` and property `_recovery_note` fields already document the genuine-absent cases (Wave 10 re-verified a sample and found the prior hardening correct).
+
+## Wave 11 (2026-07-03) — property high-null adversarial re-verify (NPI, lease, gfa/gla, ownership)
+Targeted, suspicious re-audit of the 4 requested property columns. **Loader-miss ruled out first** (corpus-wide): scanned every `properties.json` for keys the rigid property builder (`r.get`, no aliases) never reads — **no synonym key** for `ownership`/`gfa`/`gla`/lease anywhere; the only unread NPI-ish keys (`_npi_rmb_million` AU8U, `_npi_unit` DHLU, `_ema_rental_income_rmb_million` CRPU) are **unit annotations coexisting with a populated canonical `net_property_income`** — not misses. Then fanned out **9 report-auditors over all 37 reports**; main agent verified every proposed fill against the cited `full.md` page before reload.
+- **Filled + reloaded + DB-confirmed (5 values, 2 reports):**
+  - HMN Somerset Liang Court `gfa`=**13,000 sqm** (p180 "gross floor area of about 13,000 square metres … under development"); HMN Somerset Olympic Tower Tianjin `gfa`=**32,900 sqm** + `ownership`=**100%** (p196 "The Stapled Group owns a 100% interest … gross floor area of about 32,900 square metres"); HMN Citadines Central Shinjuku `ownership`=**100%** (p182 Note 8, Pearl Residence TMK 100% effective interest); N2IU Fujitsu Makuhari (FJM) `gfa`=**657,549 sqft** (p48 ftnt 5 "lettable area is based on a gross floor area of 657,549 square feet"). → `gfa` null 1037→1034, `ownership` null 235→233. Row count intact (1653).
+- **net_property_income — 0 fills, GENUINE-ABSENT confirmed for all 21 zero-coverage REITs** (the biggest suspicion). Every one discloses NPI **only at business/geographic SEGMENT level** (A17U 3-segment Note 30; M44U market-segment Note 29; AJBU/CY6U asset-type; UD1U/DCRU/SET/O5RU/ODBU/OXMU/MXNU/J91U geography; HMN/Q5T/XZL/TS0U/C38U/C2PU/8C8U/BUOU/ME8U segment/portfolio). Per-property tables print **Gross Revenue, not NPI**. Partial-coverage gaps (N2IU MBC-I/II combined + Anson divested; K71U MBFC combined-JV; CY6U 3 under-development; J85/J69U footnote-combined; D5IU Grand Palladium dashes) all source-confirmed non-split/absent. NPI is **not a recoverable lever** — deriving from segment÷count is forbidden.
+- **lease_expiry_date / lease_term_years — 0 fills, GENUINE-ABSENT.** Every leasehold-null-expiry row discloses tenure as **term (± commencement / remaining term)**, never an explicit expiry DATE (M44U/ME8U/C38U/T82U/MXNU/SET/Q5T); deriving expiry = forbidden. Null-term rows are dual/split-lease (M44U 3, J91U 3) or date-only disclosure (D5IU, DHLU, ODBU) where no single numeric term is printed.
+- **gfa/gla — 0 further fills beyond the 3 above, GENUINE-ABSENT.** Overwhelmingly NLA/lettable-area-only portfolios (BUOU/MXNU/UD1U/O5RU/ODBU/OXMU/K71U/DHLU/SET/CMOU/DCRU); AJBU Keppel-DC prints GFA as "–" for the 13 nulls; A17U/ME8U/AU8U/C2PU nulls are divested/decommissioned assets absent from the operational GFA tables. Never copied NLA into gfa.
+- **ownership — 0 fills beyond the 2 above, GENUINE-ABSENT.** A17U (232) has **no per-property ownership % column** at all (only subsidiary-level 100% in FS Note 8; a 34% JV sits off the property list) — correctly **not assumed 100%**.
+- **Data-quality findings (flagged, NOT changed — need a decision/schema call):**
+  - **8C8U `gfa` is mislabeled Land Area.** The p14 "Property Information" table has columns …No. of Beds | **Land Area (sq m)** | Valuation… and **no GFA column**; the 14 `gfa` values (e.g. Westlite Toh Guan 11,685) are the Land-Area figure. Recommend either null them or add a `land_area` column and move them. Left as-is pending decision.
+  - Identity labels corrected in agent notes (no data impact — symbols already correct): BUOU = Frasers Logistics & Commercial Trust (not Daiwa House), AJBU = Keppel DC REIT, CY6U = CapitaLand India Trust, **D5IU = Landmark REIT (ex-Lippo Malls Indonesia Retail Trust), not Digital Core**.
+  - DCRU Wilhelm-Fay-Strasse NPI = the EMEA segment figure (EMEA = Frankfurt-only, so effectively per-property); left unchanged. JYEU Sky Complex "gross area 78,873 sqm" is called NLA in prose → left null (borderline, not copied).
+
+**Lever status (updated):** per-property **NPI and lease-expiry/term are exhausted** — comprehensively source-confirmed segment-only / term-based across all 37 reports, not recoverable without forbidden derivation. gfa/ownership residuals are divested/undisclosed. Only open item is the 8C8U gfa=Land-Area DQ correction (awaiting decision).
 
 ## Recovery history (see memory `phase3-audit-tier0`)
 Rounds 2–5 (2026-07-02) recovered: D5IU ownership (29), J69U npi_pct (8), ME8U nla+gfa (26 props), J85 occupancy (20), M44U nla (174), category_raw (93 across 4 REITs), txn descriptions (28) & dates (10), purchase_price (28), scattered valuations/counterparties. All applied to Supabase + gated PASS.

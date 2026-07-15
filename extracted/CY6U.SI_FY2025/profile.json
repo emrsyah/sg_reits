@@ -1,13 +1,21 @@
 {
   "symbol": "CY6U.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "trustee", "company_name": "CapitaLand India Trust Management Pte. Ltd."},
-    {"role": "reit_manager", "company_name": "CapitaLand India Trust Management Pte. Ltd."},
-    {"role": "sponsor", "company_name": "CapitaLand Investment Limited"},
-    {"role": "property_manager", "company_name": "CapitaLand Services (India) Private Limited"},
-    {"role": "property_manager", "company_name": "CapitaLand Data Centre Services Private Limited"}
-  ],
+  "management": {
+    "trustee": [
+      "CapitaLand India Trust Management Pte. Ltd."
+    ],
+    "reit_manager": [
+      "CapitaLand India Trust Management Pte. Ltd."
+    ],
+    "sponsor": [
+      "CapitaLand Investment Limited"
+    ],
+    "property_manager": [
+      "CapitaLand Services (India) Private Limited",
+      "CapitaLand Data Centre Services Private Limited"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 10
 }

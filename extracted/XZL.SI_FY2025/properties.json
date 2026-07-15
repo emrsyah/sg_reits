@@ -29,7 +29,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 150,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -61,7 +62,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 139,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -93,7 +95,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 135,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -125,7 +128,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 132,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -157,7 +161,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 140,
-    "_year_last_renovation": 2015
+    "_year_last_renovation": 2015,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -189,7 +194,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 135,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -221,7 +227,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 141,
-    "_year_last_renovation": 2017
+    "_year_last_renovation": 2017,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -253,7 +260,8 @@
     "flags": [],
     "source_page": 14,
     "_rooms": 134,
-    "_year_last_renovation": 2023
+    "_year_last_renovation": 2023,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -285,7 +293,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 162,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -317,7 +326,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 127,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -349,7 +359,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 127,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -381,7 +392,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 126,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -413,7 +425,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 127,
-    "_year_last_renovation": 2015
+    "_year_last_renovation": 2015,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -445,7 +458,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 127,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -477,7 +491,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 126,
-    "_year_last_renovation": 2017
+    "_year_last_renovation": 2017,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -509,7 +524,8 @@
     "flags": [],
     "source_page": 15,
     "_rooms": 126,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -547,7 +563,8 @@
     ],
     "source_page": 16,
     "_rooms": 127,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -580,7 +597,9 @@
     "source_page": 16,
     "_rooms": 127,
     "_year_last_renovation": 2024,
-    "_recovery_note": "lease_term_years from Portfolio List footnote 3, p14 (Leasehold expiring July 2073, remaining lease term 48 years); recovered 2026-07-02"
+    "_recovery_note": "lease_term_years from Portfolio List footnote 3, p14 (Leasehold expiring July 2073, remaining lease term 48 years); recovered 2026-07-02",
+    "purchase_date": "2019",
+    "lease_terms_flags": "Term on all-options-exercised basis (AR p17 fn); base head-lease term not disclosed."
   },
   {
     "symbol": "XZL.SI",
@@ -612,7 +631,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 121,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -644,7 +664,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 126,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -676,7 +697,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 79,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -708,7 +730,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 124,
-    "_year_last_renovation": 2015
+    "_year_last_renovation": 2015,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -740,7 +763,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 123,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -772,7 +796,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 159,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -804,7 +829,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 127,
-    "_year_last_renovation": 2016
+    "_year_last_renovation": 2016,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -836,7 +862,8 @@
     "flags": [],
     "source_page": 16,
     "_rooms": 127,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -869,7 +896,9 @@
     "source_page": 17,
     "_rooms": 159,
     "_year_last_renovation": 2024,
-    "_recovery_note": "lease_term_years from Portfolio List footnote 4, p14 (Leasehold expiring July 2071, remaining lease term 46 years); recovered 2026-07-02"
+    "_recovery_note": "lease_term_years from Portfolio List footnote 4, p14 (Leasehold expiring July 2071, remaining lease term 46 years); recovered 2026-07-02",
+    "purchase_date": "2019",
+    "lease_terms_flags": "Term on all-options-exercised basis (AR p17 fn); base head-lease term not disclosed."
   },
   {
     "symbol": "XZL.SI",
@@ -901,7 +930,8 @@
     "flags": [],
     "source_page": 17,
     "_rooms": 126,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "purchase_date": "2019"
   },
   {
     "symbol": "XZL.SI",
@@ -933,7 +963,8 @@
     "flags": [],
     "source_page": 17,
     "_rooms": 135,
-    "_year_last_renovation": 2024
+    "_year_last_renovation": 2024,
+    "purchase_date": "2020-01-17"
   },
   {
     "symbol": "XZL.SI",
@@ -965,7 +996,8 @@
     "flags": [],
     "source_page": 17,
     "_rooms": 124,
-    "_year_last_renovation": 2025
+    "_year_last_renovation": 2025,
+    "purchase_date": "2020-01-17"
   },
   {
     "symbol": "XZL.SI",
@@ -997,7 +1029,8 @@
     "flags": [],
     "source_page": 17,
     "_rooms": 131,
-    "_year_last_renovation": 2025
+    "_year_last_renovation": 2025,
+    "purchase_date": "2020-01-17"
   },
   {
     "symbol": "XZL.SI",
@@ -1031,6 +1064,7 @@
     "flags": [],
     "source_page": 17,
     "_rooms": 119,
-    "_year_last_renovation": null
+    "_year_last_renovation": null,
+    "purchase_date": "2023-04-18"
   }
 ]

@@ -1,0 +1,225 @@
+{
+  "symbol": "J69U.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_stmt_metrics": {
+    "total_revenue": 351733000,
+    "cost_of_revenue": 98347000,
+    "gross_income": 253386000,
+    "operating_income": 212742000,
+    "operating_expense": 40644000,
+    "ebit": 212742000.0,
+    "ebitda": 266000000.0,
+    "pretax_income": 196464000,
+    "income_taxes": -1082000,
+    "net_income": 197546000,
+    "non_operating_income_or_loss": -16278000,
+    "interest_expense_non_operating": 84168000.0,
+    "weighted_avg_shares_basic": 1775918000,
+    "diluted_shares_outstanding": 1784493000,
+    "net_property_sales": 11272000,
+    "funds_from_operation": 171642000.0,
+    "unitholders": 197546000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {
+        "category": "Gross rental income",
+        "amount": 316427000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Gross turnover rental income",
+        "amount": 15725000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Carpark income",
+        "amount": 7166000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Others",
+        "amount": 12415000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Asset management fees",
+        "amount": 36901000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Valuation fees",
+        "amount": 147000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 1045000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Audit fees",
+        "amount": 280000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Professional fees",
+        "amount": 1517000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other charges",
+        "amount": 754000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": -14632000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 6378871000,
+    "total_equity": 4160666000,
+    "total_liabilities": 2218205000,
+    "total_current_asset": 36494000,
+    "total_non_current_asset": 6342377000,
+    "total_current_liabilities": 428741000,
+    "total_non_current_liabilities": 1789464000,
+    "working_capital": -392247000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 215667000,
+    "investing_cash_flow": 45193000,
+    "financing_cash_flow": -266255000,
+    "net_cash_flow": -5395000,
+    "free_cash_flow": 174037000.0,
+    "capital_expenditure": 41630000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 351733000,
+      "label_raw": "Gross revenue",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "property_expenses",
+      "amount": 98347000,
+      "label_raw": "Property expenses",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 464000,
+      "label_raw": "Finance income",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 84168000,
+      "label_raw": "Finance costs",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "asset_management_fees",
+      "amount": 36901000,
+      "label_raw": "Asset management fees",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "valuation_fees",
+      "amount": 147000,
+      "label_raw": "Valuation fees",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fees",
+      "amount": 1045000,
+      "label_raw": "Trustee's fees",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "audit_fees",
+      "amount": 280000,
+      "label_raw": "Audit fees",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "professional_fees",
+      "amount": 1517000,
+      "label_raw": "Professional fees",
+      "source_page": 181
+    },
+    {
+      "statement": "expense",
+      "component": "other_charges",
+      "amount": 754000,
+      "label_raw": "Other charges",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_jv_results",
+      "amount": 66224000,
+      "label_raw": "Share of results of joint ventures",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "gain_on_divestment_ip_jv",
+      "amount": 11272000,
+      "label_raw": "Gain on divestment of investment property and investment in joint venture",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "loss_on_divestment_associate",
+      "amount": -24644000,
+      "label_raw": "Loss on divestment of investment in associate",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "fv_investment_properties",
+      "amount": 14661000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "net_fx_loss",
+      "amount": -87000,
+      "label_raw": "Net foreign exchange loss",
+      "source_page": 181
+    },
+    {
+      "statement": "adjustment",
+      "component": "taxation",
+      "amount": 1082000,
+      "label_raw": "Taxation (credit)",
+      "source_page": 181
+    }
+  ],
+  "source_page": 181
+}

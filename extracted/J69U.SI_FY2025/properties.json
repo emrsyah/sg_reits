@@ -15,7 +15,7 @@
     "gross_revenue": 97704000,
     "occupancy_rate": 92.3,
     "trade_mix": null,
-    "gla": 629167,
+    "gla": null,
     "gfa": 629167,
     "nla": 419782,
     "land_tenure": "Leasehold",
@@ -31,7 +31,8 @@
     "purchase_price": 606200000,
     "purchase_price_currency": "SGD",
     "npi_pct": 25.16,
-    "_recovery_note": "GFA from Portfolio overview p68 (629,167 sf); recovered 2026-07-02; npi_pct = 69,931/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (629,167 sf); recovered 2026-07-02; npi_pct = 69,931/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2006"
   },
   {
     "symbol": "J69U.SI",
@@ -49,7 +50,7 @@
     "gross_revenue": 85573000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 850378,
+    "gla": null,
     "gfa": 850378,
     "nla": 531529,
     "land_tenure": "Leasehold",
@@ -65,7 +66,8 @@
     "purchase_price": 413900000,
     "purchase_price_currency": "SGD",
     "npi_pct": 22.4,
-    "_recovery_note": "GFA from Portfolio overview p68 (850,378 sf; combined North+South Wing, colspan-disclosed jointly, applied to North Wing only); recovered 2026-07-02; npi_pct = 62,264/277,980 portfolio NPI (Financial review table p34) — NOTE: the existing net_property_income (62,264k) and gross_revenue (85,573k) on THIS row are actually the COMBINED 'Northpoint City' total (North Wing + South Wing + Yishun 10 Retail Podium) per source footnote 1 on p34, not North-Wing-only figures; flagged as discrepancy, not corrected; recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (850,378 sf; combined North+South Wing, colspan-disclosed jointly, applied to North Wing only); recovered 2026-07-02; npi_pct = 62,264/277,980 portfolio NPI (Financial review table p34) — NOTE: the existing net_property_income (62,264k) and gross_revenue (85,573k) on THIS row are actually the COMBINED 'Northpoint City' total (North Wing + South Wing + Yishun 10 Retail Podium) per source footnote 1 on p34, not North-Wing-only figures; flagged as discrepancy, not corrected; recovered 2026-07-02",
+    "purchase_date": "2006"
   },
   {
     "symbol": "J69U.SI",
@@ -96,7 +98,8 @@
     "major_tenants": [],
     "purchase_price": 1133000000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "Committed occupancy from Portfolio overview p68 (100.0%, disclosed combined for North+South Wing). NPI/gross_revenue/GFA/NLA NOT filled: disclosed only on a combined North+South Wing basis (p68), not separable per-wing; recovered 2026-07-02. Re-checked p34 Financial review table (Gross Revenue/NPI by property) — confirms NPI is disclosed only as a single 'Northpoint City' line (includes North Wing + South Wing + Yishun 10 Retail Podium, footnote 1); no standalone South Wing NPI anywhere in source. npi_pct also NOT computed (no standalone NPI numerator). Left null; verified 2026-07-02"
+    "_recovery_note": "Committed occupancy from Portfolio overview p68 (100.0%, disclosed combined for North+South Wing). NPI/gross_revenue/GFA/NLA NOT filled: disclosed only on a combined North+South Wing basis (p68), not separable per-wing; recovered 2026-07-02. Re-checked p34 Financial review table (Gross Revenue/NPI by property) — confirms NPI is disclosed only as a single 'Northpoint City' line (includes North Wing + South Wing + Yishun 10 Retail Podium, footnote 1); no standalone South Wing NPI anywhere in source. npi_pct also NOT computed (no standalone NPI numerator). Left null; verified 2026-07-02",
+    "purchase_date": "2025"
   },
   {
     "symbol": "J69U.SI",
@@ -114,7 +117,7 @@
     "gross_revenue": 54990000,
     "occupancy_rate": 99.8,
     "trade_mix": null,
-    "gla": 391551,
+    "gla": null,
     "gfa": 391551,
     "nla": 278059,
     "land_tenure": "Leasehold",
@@ -130,7 +133,8 @@
     "purchase_price": 762000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 14.01,
-    "_recovery_note": "GFA from Portfolio overview p68 (391,551 sf); recovered 2026-07-02; npi_pct = 38,932/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (391,551 sf); recovered 2026-07-02; npi_pct = 38,932/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -148,7 +152,7 @@
     "gross_revenue": 44502000,
     "occupancy_rate": 99.2,
     "trade_mix": null,
-    "gla": 519202,
+    "gla": null,
     "gfa": 519202,
     "nla": 214505,
     "land_tenure": "Leasehold",
@@ -164,7 +168,8 @@
     "purchase_price": 654000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 11.99,
-    "_recovery_note": "GFA from Portfolio overview p68 (519,202 sf); recovered 2026-07-02; npi_pct = 33,335/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (519,202 sf); recovered 2026-07-02; npi_pct = 33,335/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -182,7 +187,7 @@
     "gross_revenue": 35886000,
     "occupancy_rate": 91.8,
     "trade_mix": null,
-    "gla": 327226,
+    "gla": null,
     "gfa": 327226,
     "nla": 211278,
     "land_tenure": "Leasehold",
@@ -198,7 +203,8 @@
     "purchase_price": 574000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 9.38,
-    "_recovery_note": "GFA from Portfolio overview p68 (327,226 sf); recovered 2026-07-02; npi_pct = 26,075/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (327,226 sf); recovered 2026-07-02; npi_pct = 26,075/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -216,7 +222,7 @@
     "gross_revenue": 27124000,
     "occupancy_rate": 73.5,
     "trade_mix": null,
-    "gla": 232782,
+    "gla": null,
     "gfa": 232782,
     "nla": 165765,
     "land_tenure": "Leasehold",
@@ -232,7 +238,8 @@
     "purchase_price": 432000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 6.16,
-    "_recovery_note": "GFA from Portfolio overview p68 (232,782 sf); recovered 2026-07-02; npi_pct = 17,118/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (232,782 sf); recovered 2026-07-02; npi_pct = 17,118/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -250,7 +257,7 @@
     "gross_revenue": 31635000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 240371,
+    "gla": null,
     "gfa": 240371,
     "nla": 150352,
     "land_tenure": "Leasehold",
@@ -266,7 +273,8 @@
     "purchase_price": 428000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 7.81,
-    "_recovery_note": "GFA from Portfolio overview p68 (240,371 sf); recovered 2026-07-02; npi_pct = 21,715/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02"
+    "_recovery_note": "GFA from Portfolio overview p68 (240,371 sf); recovered 2026-07-02; npi_pct = 21,715/277,980 portfolio NPI (Financial review table p34); recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -299,7 +307,8 @@
     "purchase_price": 215000000,
     "purchase_price_currency": "SGD",
     "npi_pct": 3.01,
-    "_recovery_note": "npi_pct = 8,358/277,980 portfolio NPI (Financial review table p34); GFA left null — checked Portfolio overview p68-69, Portfolio Statement p149 area table, and Property particulars p68/69/149 — only NLA (171,136 sf) is disclosed for Central Plaza (office), no GFA figure found in source; recovered 2026-07-02"
+    "_recovery_note": "npi_pct = 8,358/277,980 portfolio NPI (Financial review table p34); GFA left null — checked Portfolio overview p68-69, Portfolio Statement p149 area table, and Property particulars p68/69/149 — only NLA (171,136 sf) is disclosed for Central Plaza (office), no GFA figure found in source; recovered 2026-07-02",
+    "purchase_date": "2020"
   },
   {
     "symbol": "J69U.SI",
@@ -327,7 +336,8 @@
     "status": "divested",
     "value_basis": "consolidated",
     "source_page": 149,
-    "major_tenants": []
+    "major_tenants": [],
+    "purchase_date": null
   },
   {
     "symbol": "J69U.SI",
@@ -345,7 +355,7 @@
     "gross_revenue": 133701000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 960450,
+    "gla": null,
     "gfa": 960450,
     "nla": 634631,
     "land_tenure": "Leasehold",
@@ -366,7 +376,8 @@
     "area_unit": "sqft",
     "purchase_price": 1050900000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "NPI ($102,252k), gross revenue ($133,701k) and GFA (960,450 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02"
+    "_recovery_note": "NPI ($102,252k), gross revenue ($133,701k) and GFA (960,450 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02",
+    "purchase_date": "2023-02-06"
   },
   {
     "symbol": "J69U.SI",
@@ -384,7 +395,7 @@
     "gross_revenue": 86183000,
     "occupancy_rate": 100.0,
     "trade_mix": null,
-    "gla": 560234,
+    "gla": null,
     "gfa": 560234,
     "nla": 390445,
     "land_tenure": "Leasehold",
@@ -399,6 +410,7 @@
     "area_unit": "sqft",
     "purchase_price": 651300000,
     "purchase_price_currency": "SGD",
-    "_recovery_note": "NPI ($64,484k), gross revenue ($86,183k) and GFA (560,234 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02"
+    "_recovery_note": "NPI ($64,484k), gross revenue ($86,183k) and GFA (560,234 sf) from Portfolio overview p68-69 (SGD, 100.0% JV basis per footnote 13); npi_pct NOT computed — portfolio net_property_income ($277.98m, performance.json) is a consolidated-basis figure that structurally excludes equity-accounted JVs (NEX, Waterway Point), so no same-basis denominator is disclosed; recovered 2026-07-02",
+    "purchase_date": "2019-07-11"
   }
 ]

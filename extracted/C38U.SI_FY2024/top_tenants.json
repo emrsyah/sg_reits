@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 1,
+    "client_name": "RC Hotels (Pte) Ltd",
+    "industry": "Hospitality & Leisure",
+    "revenue_pct": 4.9,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Hotel"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 2,
+    "client_name": "GIC Private Limited",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.7,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Financial Services"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 3,
+    "client_name": "Temasek Holdings",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Financial Services"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 4,
+    "client_name": "NTUC Enterprise Co-Operative Ltd",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Supermarket/Beauty & Health/Food & Beverages/Education/Warehouse"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 5,
+    "client_name": "The Work Project Group",
+    "industry": "Infrastructure, Real Estate & Property Services",
+    "revenue_pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Real Estate & Property Services"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 6,
+    "client_name": "Cold Storage Singapore (1983) Pte Ltd",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 1.3,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Supermarket/Beauty & Health/Warehouse"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 7,
+    "client_name": "BreadTalk Group Pte Ltd",
+    "industry": "Food & Beverages",
+    "revenue_pct": 1.2,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Food & Beverages"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 8,
+    "client_name": "UNIQLO (Singapore) Pte. Ltd.",
+    "industry": "Fashion & Accessories",
+    "revenue_pct": 1.0,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Fashion & Accessories"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 9,
+    "client_name": "KPMG Services Pte. Ltd.",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.0,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Business Consultancy"
+  },
+  {
+    "symbol": "C38U.SI",
+    "financial_year": 2024,
+    "rank": 10,
+    "client_name": "Mizuho Group",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.0,
+    "pct_basis": "gri",
+    "source_page": 31,
+    "industry_raw": "Financial Services"
+  }
+]

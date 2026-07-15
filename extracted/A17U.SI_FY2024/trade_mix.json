@@ -1,0 +1,209 @@
+[
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Engineering",
+    "pct": 11.8,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "Logistics & Supply Chain Management",
+    "pct": 11.8,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Biomedical Sciences",
+    "pct": 10.3,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Data Centres",
+    "pct": 10.2,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Information & Communications Technology",
+    "pct": 8.8,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Electronics",
+    "pct": 8.6,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Financial Services",
+    "pct": 6.1,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "Government",
+    "pct": 5.8,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "Distributors & Trading Company",
+    "pct": 4.7,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverages",
+    "pct": 4.0,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 3.8,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "e-Commerce",
+    "pct": 3.6,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Media",
+    "pct": 2.6,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Chemical",
+    "pct": 2.2,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Professional Services",
+    "pct": 2.1,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Education",
+    "pct": 0.9,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Natural Resources/Energy/Utilities",
+    "pct": 0.9,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Textile & Garments",
+    "pct": 0.7,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate",
+    "pct": 0.5,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "FMCG",
+    "pct": 0.2,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "IO/NGOs/NPOs",
+    "pct": 0.2,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Hospitality & Leisure",
+    "pct": 0.1,
+    "pct_basis": "gri",
+    "source_page": 33
+  },
+  {
+    "symbol": "A17U.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Agriculture",
+    "pct": 0.1,
+    "pct_basis": "gri",
+    "source_page": 33
+  }
+]

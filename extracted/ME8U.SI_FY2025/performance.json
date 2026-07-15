@@ -50,8 +50,19 @@
       "type": "dpu_4q_estimated",
       "scope": "distribution_record[3]",
       "note": "4Q FY24/25 DPU of 3.36 cents derived from full-year 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41); 4Q is declared after FY-end. Full-year DPU 13.57 is as-disclosed."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by -13354000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Guard A+B-P = 101,328 + 388,110 - 385,455 = 103,983 (thousands) != E 117,337; gap = exactly 13,354. This is NOT a misread. The Distribution Statement (p125) credits an additional separate for-year line 'Distribution of gains from divestment' of 13,354 (capital-gains top-up, incl. Tanglin Halt Cluster net divestment gain) to the distributable pool. Full audited identity holds exactly: A + B + 13,35"
     }
   ],
   "source_page": 11,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 2850935273,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 101328000,
+  "distribution_cash_paid": 385455000,
+  "distributable_income_closing": 117337000,
+  "distribution_pool_other_movements": 13354000
 }

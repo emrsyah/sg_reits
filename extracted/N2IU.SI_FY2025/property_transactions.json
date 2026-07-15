@@ -17,6 +17,17 @@
     "carrying_value": 765000000,
     "carrying_value_basis": "Investment-property movement note: 'Divestment of an investment property (765,000)' = carrying amount removed on disposal (p120). Verified 2026-06-30.",
     "net_proceeds": 762448000,
-    "sale_consideration": 775000000
+    "sale_consideration": 775000000,
+    "deal_id": "n2iu:mapletree_anson:divestment:2024",
+    "completed_date": "2024-07-31",
+    "gain_loss_pct": 1.31,
+    "gain_basis": "vs_valuation",
+    "valuation_date": "2024-03-31",
+    "source_type": "annual_report",
+    "sale_price": 775000000,
+    "net_sale_proceeds": 762448000,
+    "transaction_type": "divestment",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "vs_valuation (derived from disclosed premium amount and valuation, both AR-stated): divestment consideration S$775.0m exceeded independent valuation of S$765.0m (as at 31 Mar 2024, CBRE Pte. Ltd., income-capitalisation + DCF) by S$10.0m; gain_loss_pct = 10/765 = 1.31%. Also disclosed: S$95.0m over original purchase price S$680.0m (=14.0%). Accounting net gain on divestment S$4,006k over carrying amount S$765,000k (vs_book_value = 0.52%). Primary metric reported = premium vs valuation."
   }
 ]

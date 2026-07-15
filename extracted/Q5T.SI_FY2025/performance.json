@@ -5,7 +5,7 @@
   "properties_location": "Singapore (12 properties); Japan (1 hotel)",
   "gross_revenue": 111400000.0,
   "net_property_income": 96581000.0,
-  "net_distributable_income": 67874000.0,
+  "net_distributable_income": 75802000,
   "distribution_paid": 75300000.0,
   "adjusted_distributable_income": null,
   "dpu": 3.7,
@@ -57,5 +57,11 @@
     }
   ],
   "source_page": 4,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 2051142000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 48803000,
+  "distribution_cash_paid": 87474000,
+  "distributable_income_closing": 37131000,
+  "units_to_be_issued": 5043000
 }

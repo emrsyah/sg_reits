@@ -43,7 +43,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -89,7 +90,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -129,7 +131,8 @@
         "note": "Divested 29 Sep 2025 (with CyberPearl); combined consideration S$161.7m (INR 11.0b) for both. 2025 carrying value nil. Partial-year revenue INR 373m / NPI INR 416m still in consolidated total. divestment_price is the COMBINED CyberVale+CyberPearl figure (not split in report)."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -175,7 +178,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -221,7 +225,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -261,7 +266,8 @@
         "note": "Divested 29 Sep 2025 with CyberVale; combined consideration S$161.7m recorded against CyberVale row (not split). 2025 carrying value nil. Partial-year revenue INR 539m / NPI INR 265m in consolidated total."
       }
     ],
-    "source_page": 175
+    "source_page": 175,
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -306,7 +312,8 @@
         "note": "Property card combines Building Q1 and Q2 (1.5m sq ft, occupancy 96% combined); audited Portfolio Statement splits them. Occupancy 91% is Q1-specific from p40 occupancy table. gfa not split. gross_revenue in INR '000."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -346,7 +353,8 @@
         "note": "Acquired Jul 2024. Occupancy 100% (Q2-specific, p40). gross_revenue in INR '000."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "purchase_date": "2024"
   },
   {
     "symbol": "CY6U.SI",
@@ -392,7 +400,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -438,7 +447,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2024"
   },
   {
     "symbol": "CY6U.SI",
@@ -484,7 +494,8 @@
       }
     ],
     "source_page": 175,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2023"
   },
   {
     "symbol": "CY6U.SI",
@@ -530,7 +541,8 @@
       }
     ],
     "source_page": 176,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -575,7 +587,8 @@
         "note": "Card combines IF1, IF2 & IF3 (0.8m sq ft, 100% occupancy combined); audited statement splits IF1 from IF2&3. gross_revenue in INR '000."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -615,7 +628,8 @@
         "note": "gross_revenue in INR '000 (INR 170m)."
       }
     ],
-    "source_page": 176
+    "source_page": 176,
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -652,7 +666,8 @@
       }
     ],
     "source_page": 176,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -695,7 +710,8 @@
       }
     ],
     "source_page": 176,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -732,7 +748,8 @@
       }
     ],
     "source_page": 176,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "CY6U.SI",
@@ -778,6 +795,8 @@
       }
     ],
     "source_page": 176,
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021",
+    "lease_terms_flags": "Stored value 95 is the renewal length (multiple tenures, renewable a further 95y); base term not disclosed."
   }
 ]

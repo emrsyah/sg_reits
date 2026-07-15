@@ -42,7 +42,8 @@
     "source_page": 116,
     "value_basis": "consolidated",
     "_nla_unit": "sq ft",
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2021-08-04"
   },
   {
     "symbol": "JYEU.SI",
@@ -82,7 +83,8 @@
     "source_page": 116,
     "value_basis": "consolidated",
     "_nla_unit": "sq ft",
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": "2019-10-02"
   },
   {
     "symbol": "JYEU.SI",
@@ -125,7 +127,8 @@
     "alt_value": 277400000,
     "alt_basis": "EUR 277.4 million (FX 1.498 as at 30 Jun 2025); SGD equivalent ~415.5 million",
     "_nla_unit": "sq m",
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2019-10-02"
   },
   {
     "symbol": "JYEU.SI",
@@ -150,7 +153,7 @@
     "gfa": 86500,
     "land_tenure": "Leasehold",
     "effective_date": null,
-    "lease_term_years": 12.997,
+    "lease_term_years": 3,
     "lease_expiry_date": null,
     "tenure_raw": "12 years 364 days (includes options to renew land leases); remaining term 8.4 years",
     "status": "active",
@@ -164,7 +167,8 @@
     "source_page": 116,
     "value_basis": "consolidated",
     "_gfa_unit": "sq ft",
-    "area_unit": "sqft"
+    "area_unit": "sqft",
+    "purchase_date": null
   },
   {
     "symbol": "JYEU.SI",
@@ -203,6 +207,7 @@
     "source_page": 20,
     "value_basis": "effective_interest",
     "alt_value": null,
-    "alt_basis": null
+    "alt_basis": null,
+    "purchase_date": null
   }
 ]

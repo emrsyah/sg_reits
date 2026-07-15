@@ -1,0 +1,20 @@
+{
+  "symbol": "C2PU.SI",
+  "sub_sector": "Healthcare",
+  "income_model": "master_lease",
+  "source_page": 109,
+  "management": {
+    "reit_manager": [
+      "Parkway Trust Management Limited"
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "sponsor": [
+      "Parkway Holdings Limited"
+    ],
+    "master_lessee": [
+      "Parkway Hospitals Singapore Pte. Ltd."
+    ]
+  }
+}

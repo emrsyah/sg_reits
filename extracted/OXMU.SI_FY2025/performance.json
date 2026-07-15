@@ -54,8 +54,19 @@
       "type": "number_of_unitholders_dated",
       "scope": "number_of_unitholders",
       "note": "4,419 unitholders as at 13 Mar 2026 (Statistics of Unitholdings, post FY-end)"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 20423000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Guard A+B-P (1,621,000 + 28,726,000 - 6,149,000 = 24,198,000) does NOT equal E (3,775,000). The residual of exactly 20,423,000 is the 'Amount retained' line disclosed between B and the after-retention subtotal, i.e. the Consolidated Distribution Statement (p136) deducts retained income before arriving at the closing available balance: 1,621 + 28,726 - 20,423(retained) - 6,149(distributions) = 3,77"
     }
   ],
   "source_page": 5,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1437458000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 1621000,
+  "distribution_cash_paid": 6149000,
+  "distributable_income_closing": 3775000,
+  "distribution_pool_other_movements": -20423000
 }

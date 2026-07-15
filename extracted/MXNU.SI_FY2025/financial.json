@@ -9,30 +9,60 @@
     "gross_income": 34623000,
     "operating_income": 30212000,
     "operating_expense": 4411000,
-    "ebit": 29944000,
-    "ebitda": 29944000,
+    "ebit": 30212000.0,
+    "ebitda": 30285000.0,
     "pretax_income": 15994000,
     "income_taxes": 2125000,
     "net_income": 13869000,
     "non_operating_income_or_loss": -14218000,
-    "interest_expense_non_operating": 13950000,
+    "interest_expense_non_operating": 14103000.0,
     "weighted_avg_shares_basic": 603241000,
     "diluted_shares_outstanding": 603241000,
     "net_property_sales": -80000,
-    "funds_from_operation": null,
+    "funds_from_operation": 14137000.0,
     "unitholders": 13869000,
     "perpetual_security_holders": null,
     "minorities": null,
     "revenue_breakdown": [
-      {"category": "Revenue (rental income, straight-line)", "amount": 36590000, "class": "Product/Service Sales"},
-      {"category": "Other property income (dilapidation, lease surrender, other)", "amount": 1715000, "class": "Other income"}
+      {
+        "category": "Revenue (rental income, straight-line)",
+        "amount": 36590000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other property income (dilapidation, lease surrender, other)",
+        "amount": 1715000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's base management fees", "amount": 1988000, "class": "General & Admin"},
-      {"category": "Trustee's fee", "amount": 106000, "class": "General & Admin"},
-      {"category": "Other trust expenses (incl. audit, valuation, performance fee)", "amount": 2317000, "class": "Other expenses"}
+      {
+        "category": "Manager's base management fees",
+        "amount": 1988000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 106000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses (incl. audit, valuation, performance fee)",
+        "amount": 2317000,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 188000
   },
   "balance_sheet_metrics": {
     "total_asset": 444005000,
@@ -49,21 +79,87 @@
     "investing_cash_flow": -3974000,
     "financing_cash_flow": -23317000,
     "net_cash_flow": 9399000,
-    "free_cash_flow": null,
-    "capital_expenditure": -9644000
+    "free_cash_flow": 27046000.0,
+    "capital_expenditure": 9644000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "base_rental", "amount": 36590000, "label_raw": "Revenue (Note 17)", "source_page": 134},
-    {"statement": "revenue", "component": "other_property_income", "amount": 1715000, "label_raw": "Other property income (Note 18)", "source_page": 134},
-    {"statement": "expense", "component": "property_operating_expenses", "amount": 3682000, "label_raw": "Property operating expenses (Note 19)", "source_page": 134},
-    {"statement": "expense", "component": "management_fee_base", "amount": 1988000, "label_raw": "Manager's base management fees", "source_page": 134},
-    {"statement": "expense", "component": "trustee_fee", "amount": 106000, "label_raw": "Trustee's fee", "source_page": 134},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 2317000, "label_raw": "Other trust expenses (Note 20)", "source_page": 134},
-    {"statement": "adjustment", "component": "finance_income", "amount": 153000, "label_raw": "Finance income (Note 21)", "source_page": 134},
-    {"statement": "adjustment", "component": "finance_costs", "amount": -14103000, "label_raw": "Finance costs (Note 21)", "source_page": 134},
-    {"statement": "adjustment", "component": "divestment_gain_loss", "amount": -80000, "label_raw": "(Loss)/Gain on divestment of investment properties", "source_page": 134},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -188000, "label_raw": "Net change in fair value of investment properties (Note 4)", "source_page": 134},
-    {"statement": "expense", "component": "income_tax", "amount": 2125000, "label_raw": "Tax expense (Note 22)", "source_page": 134}
+    {
+      "statement": "revenue",
+      "component": "base_rental",
+      "amount": 36590000,
+      "label_raw": "Revenue (Note 17)",
+      "source_page": 134
+    },
+    {
+      "statement": "revenue",
+      "component": "other_property_income",
+      "amount": 1715000,
+      "label_raw": "Other property income (Note 18)",
+      "source_page": 134
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 3682000,
+      "label_raw": "Property operating expenses (Note 19)",
+      "source_page": 134
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 1988000,
+      "label_raw": "Manager's base management fees",
+      "source_page": 134
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 106000,
+      "label_raw": "Trustee's fee",
+      "source_page": 134
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 2317000,
+      "label_raw": "Other trust expenses (Note 20)",
+      "source_page": 134
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 153000,
+      "label_raw": "Finance income (Note 21)",
+      "source_page": 134
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_costs",
+      "amount": -14103000,
+      "label_raw": "Finance costs (Note 21)",
+      "source_page": 134
+    },
+    {
+      "statement": "adjustment",
+      "component": "divestment_gain_loss",
+      "amount": -80000,
+      "label_raw": "(Loss)/Gain on divestment of investment properties",
+      "source_page": 134
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -188000,
+      "label_raw": "Net change in fair value of investment properties (Note 4)",
+      "source_page": 134
+    },
+    {
+      "statement": "expense",
+      "component": "income_tax",
+      "amount": 2125000,
+      "label_raw": "Tax expense (Note 22)",
+      "source_page": 134
+    }
   ]
 }

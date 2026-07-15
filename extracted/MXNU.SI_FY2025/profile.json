@@ -1,12 +1,18 @@
 {
   "symbol": "MXNU.SI",
   "sub_sector": "Office",
-  "management": [
-    {"role": "reit_manager", "company_name": "Elite UK REIT Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "sponsor", "company_name": "Ho Lee Group Pte. Ltd."},
-    {"role": "sponsor", "company_name": "Elite Partners Holdings Pte. Ltd."}
-  ],
+  "management": {
+    "reit_manager": [
+      "Elite UK REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "Ho Lee Group Pte. Ltd.",
+      "Elite Partners Holdings Pte. Ltd."
+    ]
+  },
   "income_model": "conventional",
   "source_page": 15
 }

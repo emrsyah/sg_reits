@@ -1,0 +1,20 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 1776565000, "page": 136, "note": "Units in Issue note: 'Units in issue' 1,776,565 ('000) at 31 Dec 2025; same figure as 'Number of Units in issue at the end of the year' in Distribution Statement p104"},
+    "dpu_period_months": {"value": 12, "page": 104, "note": "full FY Jan-Dec 2025; DPU nil (distributions suspended since 2023 under Recapitalisation Plan) but fiscal-year period is 12 months"}
+  },
+  "properties": [
+    {"property_name": "Michelson", "purchase_date": "2016-05-19", "page": 34, "note": "Portfolio Overview fact box: Acquisition Date 19 May 2016"},
+    {"property_name": "Exchange", "purchase_date": "2017-10-31", "page": 32, "note": "Portfolio Overview fact box: Acquisition Date 31 October 2017"},
+    {"property_name": "Penn", "purchase_date": "2018-06-22", "page": 35, "note": "Portfolio Overview fact box: Acquisition Date 22 June 2018"},
+    {"property_name": "Phipps", "purchase_date": "2018-06-22", "page": 36, "note": "Portfolio Overview fact box: Acquisition Date 22 June 2018"},
+    {"property_name": "Centerpointe", "purchase_date": "2019-05-10", "page": 30, "note": "Portfolio Overview fact box: Acquisition Date 10 May 2019"},
+    {"property_name": "Diablo", "purchase_date": "2021-12-20", "page": 31, "note": "Portfolio Overview fact box: Acquisition Date 20 December 2021"},
+    {"property_name": "Figueroa", "purchase_date": "2016-05-19", "page": 33, "note": "Portfolio Overview fact box: Acquisition Date 19 May 2016"},
+    {"property_name": "Plaza", "purchase_date": null, "page": null, "note": "divested during FY2025 (completed 25 Feb 2025); no acquisition-date disclosure remaining in AR"},
+    {"property_name": "Peachtree", "purchase_date": null, "page": null, "note": "divested during FY2025 (completed 27 May 2025); no acquisition-date disclosure remaining in AR"}
+  ],
+  "summary": {"n_properties": 9, "purchase_date_filled": 7, "purchase_date_null": 2}
+}

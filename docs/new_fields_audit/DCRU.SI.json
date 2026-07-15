@@ -1,0 +1,89 @@
+{
+  "symbol": "DCRU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 1341032000,
+      "page": 194,
+      "note": "Note 14: Issued and issuable units at 31 December 2025 = 1,341,032 thousand"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 14,
+      "note": "full FY ended 31 Dec 2025 (DPU 3.60 US cents), Financial Highlights p14"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "44520 Hastings Drive",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "8217 Linton Hall Road",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "43831 Devin Shafron Drive",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "3011 Lafayette Street",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "1500 Space Park Drive",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "200 North Nash Street",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "3015 Winona Avenue",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "371 Gough Road",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "Wilhelm-Fay-Straße 15 and 24",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "Digital Osaka 2",
+      "purchase_date": null,
+      "page": null,
+      "note": "per-property acquisition date not disclosed; Trust Listing Date 6 Dec 2021 (IPO portfolio) not enumerated per-property; Digital Osaka 2 acquisition date not disclosed"
+    },
+    {
+      "property_name": "Digital Osaka 3",
+      "purchase_date": "2025-03-26",
+      "page": 188,
+      "note": "FS note: 20% interest in Digital Osaka 3 TMK completed 26 Mar 2025; operating-review footnote p32 states completion 25 Mar 2025 (announced 26 Mar)"
+    }
+  ],
+  "summary": {
+    "n_properties": 11,
+    "purchase_date_filled": 1,
+    "purchase_date_null": 10
+  }
+}

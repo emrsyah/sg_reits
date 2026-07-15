@@ -32,8 +32,17 @@
       "type": "dpu_distribution_resumption",
       "scope": "dpu",
       "note": "Distributions were suspended from 2H 2023 through 1H 2025 under the Recapitalisation Plan announced 15 Feb 2024. KORE resumed distributions early, declaring DPU of 0.25 US cents for 2H 2025 only (1 Jul-31 Dec 2025); US$2,611k distributed to Unitholders, ~11.3% of 2H 2025 income available for distribution. Full-year DPU disclosed = 0.25 US cents (2H only). Announced 3 Feb 2026."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distribution_cash_paid",
+      "note": "CORRECTED 2026-07-14. Audited Distribution Statement (p87): opening 0 + income available 43,032 - 'Distribution withheld for FY2025' 40,421 = income available at end 2,611. NO distribution-paid line: distributions were SUSPENDED 2H2023-1H2025 and the resumed 2H2025 distribution (DPU 0.25 US cents = 2,611) is DECLARED for FY2025 but paid in 1H2026 (footnote 1). So distribution_cash_paid (cash actually paid OUT during FY2025) = 0; the 40,421 withheld is a Manager retention (capex/TI, p38) -> distribution_pool_other_movements = -40,421,000. distribution_paid (declared) stays 2,611 (DPU basis). Guard A + B + pool - P = 0 + 43,032 - 40,421 - 0 = 2,611 = E."
     }
   ],
   "source_page": 6,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "distributable_income_opening": 0,
+  "distribution_cash_paid": 0,
+  "distributable_income_closing": 2611000,
+  "distribution_pool_other_movements": -40421000
 }

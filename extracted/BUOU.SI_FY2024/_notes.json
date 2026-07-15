@@ -1,0 +1,77 @@
+{
+  "symbol": "BUOU.SI",
+  "financial_year": 2024,
+  "scope": "properties.json and property_transactions.json only",
+  "rebuild": "properties.json was fully rebuilt from the audited Portfolio Statement (Datalab PAGE markers 210-218; carrying-amount columns are S$'000). The prior extraction is superseded: it had joined operating metrics AND rotated the audited market_valuation column by row position, which scrambled identity/metrics across several blocks while still summing to the correct totals. This rebuild sources every property's identity, market_valuation, tenure, acquisition date and country from the audited Portfolio Statement, then joins operating metrics (occupancy_rate, nla, gross_revenue, major_tenants) from the operating 'Property Profile' highlights table by matching audited valuation + tenure + lease-expiry, NOT by row order.",
+  "sources": {
+    "parsed_markdown": "parsed_reports_datalab/19_BUOU.SI_Frasers-Logistics-and-Commercial-Trust_FY2024/full.md",
+    "audited_portfolio_statement": "Datalab pages 210-218 (printed pages 208-216); carrying amount 2024 S$'000 rescaled x1000 to absolute SGD for market_valuation on every property, including foreign assets (the audited statement presents all carrying amounts in SGD).",
+    "operating_property_profile": "Datalab pages 56-63 (printed 54-61): occupancy, lettable area (sqm), title, completion date, valuation $m, purchase price $m, tenants, gross revenue FY2024 $m for 112 completed properties.",
+    "development_highlights": "Datalab page 39: Maastricht IPUD net lettable area 12,960 sqm, tenant Maastricht Logistics Service, local value EUR 15.4m, occupancy N.A.",
+    "transaction_sources": "Note 32 acquisition of assets (page 293/295 area); subsequent events note (page 295); related-party note."
+  },
+  "join_methodology": [
+    "market_valuation, land_tenure, tenure_raw, lease_term_years, lease_expiry_date, purchase_date (acquisition date) and country come from the audited Portfolio Statement (Tier C) — authoritative for identity and valuation.",
+    "occupancy_rate, nla (sqm, area_unit=sqm), gross_revenue (x1,000,000), major_tenants and purchase_price (x1,000,000) come from the operating Property Profile table, joined to each audited property by normalized property name where the operating row prints a name (95 of 112 rows).",
+    "The 17 operating rows printed as number-only in the parsed markdown (rows 40-56: Wetherill Park, Seven Hills, Winston Hills, Port Kembla, Brisbane Southern) were matched to the remaining audited properties by tenure type + audited valuation ($m) and, for right-of-use (footnote c) leaseholds where operating $m excludes the ROU asset, by lease-expiry date. Every match was verified: operating valuation $m equals audited carrying amount /1000 for all non-ROU rows.",
+    "Central Park is footnote (d) 50% effective interest; ownership=50, market_valuation is the audited consolidated carrying amount (324,488k), flagged full_consolidation_partial_ownership.",
+    "Footnote (c) leaseholds (Melbourne Airport, Wetherill Park, Port Kembla, Koperstraße Nuremberg) carry ROU assets in the audited carrying amount, so their audited market_valuation exceeds the operating Property Profile valuation; flagged carrying_amount_includes_rou."
+  ],
+  "corrections_vs_prior_extraction": [
+    "Restored 103-131 Wayne Goss Drive, Berrinba (Freehold, mv 37,757k, acquired 5 Sep 2018) as its own row; NLA 19,487 sqm, 100% occ, GR 2.1m, tenant Eastcoast Freight/Paccar Australia. Prior run dropped it and mislabeled its audited valuation as a duplicate '286 Queensport Road'.",
+    "Restored 29-51 Wayne Goss Drive, Berrinba (Freehold, mv 30,828k, acquired 20 Aug 2019) as its own row; NLA 15,456 sqm, 100% occ, GR 2.0m, tenant Avery Dennison/PFM. Prior run dropped it and mislabeled its audited valuation as a duplicate '350 Earnshaw Road'.",
+    "286 Queensport Road, North Murarrie now appears exactly once: leasehold (99-year, exp 19 Jun 2115), mv 42,377k, NLA 21,531 sqm, tenant CEVA Logistics (Australia), GR 2.8m.",
+    "350 Earnshaw Road, Banyo now appears exactly once: leasehold (99-year, exp 19 Jun 2115), mv 65,297k, NLA 30,779 sqm, tenant H.J. Heinz Co. Australia, GR 3.9m.",
+    "Re-joined the entire Brisbane Southern block that the prior run had shifted by one/two rows: 99 Shettleston St (Orora, NLA 15,186), 30 Flint St (B-Dynamic, NLA 15,052), 55-59 Boundary Rd (N/A tenant, 0% occ, NLA 13,250), 51 Stradbroke St (B&R Enclosures, NLA 14,916), 10 Siltstone Pl (TCK Alliance, NLA 9,797), 57-71 Platinum St (Stramit, NLA 20,518).",
+    "Rebuilt the audited market_valuation for the commercial and Germany-boundary rows, which the prior run had rotated: e.g. Central Park 83,565k -> 324,488k; Alexandra Technopark 32,410k -> 700,000k; Farnborough 324,488k -> 231,952k; 357 Collins 88,287k -> 169,684k; Caroline Chisholm 65,535k -> 210,551k. Also corrected the associated purchase_date for commercial rows (e.g. Central Park 2018-05-25 -> 2020-04-15)."
+  ],
+  "reconciliation": {
+    "property_rows": 113,
+    "unique_property_names": 113,
+    "completed_property_rows": 112,
+    "completed_market_valuation_sum": 6906337000,
+    "audited_completed_investment_properties_total": 6906337000,
+    "completed_variance": 0,
+    "ipud_rows": 1,
+    "ipud_market_valuation_sum": 22036000,
+    "completed_plus_ipud_market_valuation_sum": 6928373000,
+    "audited_completed_plus_ipud_total": 6928373000,
+    "completed_plus_ipud_variance": 0,
+    "note": "Ellesmere Port (UK) was reclassified from IPUD to completed investment property during FY2024 (footnote e; audited 2024 carrying 116,878k), so it is a completed row, not an IPUD row. Maastricht (Engelandlaan 15) is the sole IPUD row."
+  },
+  "columns_never_fillable": [
+    {"column": "net_property_income", "evidence": "VERIFIED structural-absent in null-recovery pass (2026-07-07). NPI is disclosed ONLY in aggregate/segment form: (a) Financial Review Statement of Total Return, printed page 28 / Datalab line 1469-1473, total NPI S$321,974k; (b) audited Note 27 Operating Segments, printed page ~265-267 / Datalab line 11686-11696, which gives Reportable segment NPI across 6 segments (Logistics&Industrial Australia 110,675 / Europe 95,317 / UK 11,634; Commercial Australia 42,933 / Singapore 34,312 / UK 27,103 = 321,974 $'000) by geography x asset-class, NOT per property. The operating Property Profile (printed pages 54-61 / Datalab pages 56-63) discloses per-property Gross Revenue but has NO NPI/property-expense column. No per-property income note exists anywhere in the report. Per-property NPI cannot be recovered without imputation, so left null."},
+    {"column": "npi_pct", "evidence": "No per-property NPI contribution percentages disclosed anywhere."},
+    {"column": "gla", "evidence": "Only net lettable area (sqm) is disclosed; no gross lettable area."},
+    {"column": "gfa", "evidence": "No gross floor area disclosed per property."}
+  ],
+  "nulls_left": [
+    "Engelandlaan 15, Maastricht Airport (IPUD): occupancy_rate null (disclosed as N.A. in the development highlights) and gross_revenue null (no FY2024 revenue disclosed for a property under development). NLA 12,960 sqm, tenant Maastricht Logistics Service and local value EUR 15.4m taken from the development highlights table (page 39).",
+    "net_property_income, npi_pct, gla, gfa null on all rows (structural, see columns_never_fillable)."
+  ],
+  "null_recovery_pass_2026_07_07": {
+    "scope": "Second pass to recover disclosed-but-null fields. Verified against source (parsed full.md).",
+    "npi_verification": "Confirmed per-property net_property_income is NOT disclosed (only Financial Review page 28 total and Note 27 Operating Segments 6-segment breakdown, Datalab line ~11686). Left null on all 113 rows; see columns_never_fillable.",
+    "local_currency_recovered": [
+      "Ellesmere, Cheshire (UK): original_currency=GBP, original_value=68,000,000 from the Developments table (Datalab page 39, 'Valuation as at 30 September 2024' = GBP 68.0 million). market_valuation stays the SGD audited carrying (116,878k).",
+      "Central Park, Perth: original_currency=AUD, original_value=365,300,000 from the Developments table (Datalab page 39, 'A$365.3 million based on 50.0% interest'). market_valuation stays the SGD audited carrying for the same 50% interest (324,488k).",
+      "Engelandlaan 15, Maastricht (IPUD): original_currency=EUR, original_value=15,400,000 (already captured in the rebuild from the same page-39 table)."
+    ],
+    "confirmed_absent_after_page_check": "net_property_income, npi_pct (no per-property NPI or contribution %; segment-only, pages 28 + Note 27), gla, gfa (only net lettable area disclosed in Property Profile). Freehold rows correctly have null lease_expiry_date/lease_term_years/effective_date (freehold has no lease term). Maastricht IPUD occupancy_rate (disclosed N.A.), gross_revenue and purchase_price genuinely undisclosed (under development at FY end).",
+    "transactions": "No recoverable disclosed nulls: Maastricht acquisition discloses no discrete purchase consideration (only S$22.036m carrying); 2 Tuas South Link 1 subsequent-event discloses only the S$140.3m price (no independent valuation)."
+  },
+  "parsing_traps": [
+    "Prior extraction row-position joining rotated both the operating metrics and the audited market_valuation column, producing 2 duplicate property_names (286 Queensport Road, 350 Earnshaw Road) and dropping the two Wayne Goss Drive assets while still summing to the correct completed/IPUD totals (because values were permuted, not lost).",
+    "Operating Property Profile rows 40-56 are printed number-only (no property name) in the parsed markdown; matched by tenure + valuation + lease-expiry, never by position.",
+    "Footnote (c) ROU leaseholds: audited carrying amount includes the right-of-use asset and exceeds the operating Property Profile valuation (e.g. Koperstraße Nuremberg audited 119,794k vs operating $90.4m; Wetherill Park and Melbourne Airport similar). market_valuation uses the audited carrying amount.",
+    "Some number-only Brisbane multi-tenant cells were parsed without <br> separators (e.g. 'Eastcoast Freight Paccar Australia', 'Avery Dennison Materials PFM'); kept verbatim as a single major_tenants entry rather than fabricating tenant boundaries.",
+    "German/Dutch name spelling differs slightly between the audited statement and the operating table (e.g. Saalloffer vs Saalhofer Straße; Eiselauer vs Eiselaer Weg); property_name uses the audited Portfolio Statement spelling verbatim."
+  ],
+  "transactions_reconciliation": {
+    "rows": 4,
+    "completed_current_year_rows": 2,
+    "subsequent_announced_rows": 2,
+    "verified": "Tx1 German 89.9% asset acquisition (Note 32: cash paid S$174.390m, investment properties S$188.293m, 27 Mar 2024). Tx2 Maastricht forward-funded acquisition entered FY2024 (17 Nov 2023, S$22.036m carrying). Tx3 subsequent event: 2 Tuas South Link 1 SPA 17 Oct 2024 at S$140.3m, completed 5 Nov 2024. Tx4 subsequent event: 5 Nov 2024 SPAs to reduce effective interest in 28 German properties to 89.9% (10.1% divested) for EUR 23.3m ~ S$33.3m.",
+    "divestments_completed_in_fy2024": "None: Statement of Total Return reports nil gain on divestment of investment properties for FY2024."
+  }
+}

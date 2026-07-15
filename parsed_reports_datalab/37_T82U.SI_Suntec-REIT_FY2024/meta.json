@@ -1,0 +1,14 @@
+{
+  "file": "37_T82U.SI_Suntec-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 195,
+  "pages_written": 195,
+  "seconds": 65.7,
+  "parse_quality_score": null,
+  "runtime": 54.25025177001953,
+  "cost_breakdown": {
+    "final_cost_cents": 78.0
+  },
+  "checkpoint_id": "checkpoint_dTzBc5A1qLFKUkHcaBOfGGz1dxAA12PiScdCB1SCIXI",
+  "page_range": null
+}

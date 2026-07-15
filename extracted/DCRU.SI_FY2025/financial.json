@@ -9,33 +9,75 @@
     "gross_income": 88739000,
     "operating_income": 73936000,
     "operating_expense": 14803000,
-    "ebit": 110499000,
-    "ebitda": 110499000,
+    "ebit": 73936000.0,
+    "ebitda": 89234000.0,
     "pretax_income": 81882000,
     "income_taxes": 15119000,
     "net_income": 66763000,
     "non_operating_income_or_loss": 7946000,
-    "interest_expense_non_operating": 28617000,
+    "interest_expense_non_operating": 29394000.0,
     "weighted_avg_shares_basic": 1304111000,
     "diluted_shares_outstanding": 1341032000,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 44721000.0,
     "unitholders": 47698000,
     "perpetual_security_holders": null,
-    "minorities": 19065000,
+    "minorities": -19065000.0,
     "revenue_breakdown": [
-      {"category": "Rental income", "amount": 110312000, "class": "Product/Service Sales"},
-      {"category": "Colocation solutions revenue", "amount": 9538000, "class": "Product/Service Sales"},
-      {"category": "Utilities reimbursements", "amount": 36611000, "class": "Other income"},
-      {"category": "Other recovery and operating income", "amount": 19691000, "class": "Other income"}
+      {
+        "category": "Rental income",
+        "amount": 110312000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Colocation solutions revenue",
+        "amount": 9538000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Utilities reimbursements",
+        "amount": 36611000,
+        "class": "Other income"
+      },
+      {
+        "category": "Other recovery and operating income",
+        "amount": 19691000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's base fee", "amount": 8275000, "class": "General & Admin"},
-      {"category": "Manager's performance fee", "amount": 2477000, "class": "General & Admin"},
-      {"category": "Trustee's fee", "amount": 216000, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 3835000, "class": "Other expenses"}
+      {
+        "category": "Manager's base fee",
+        "amount": 8275000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Manager's performance fee",
+        "amount": 2477000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 216000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 3835000,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": -22042000
   },
   "balance_sheet_metrics": {
     "total_asset": 2245399000,
@@ -52,24 +94,108 @@
     "investing_cash_flow": -104342000,
     "financing_cash_flow": -2881000,
     "net_cash_flow": -13567000,
-    "free_cash_flow": 53033000,
-    "capital_expenditure": -40623000
+    "free_cash_flow": 53033000.0,
+    "capital_expenditure": 40623000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "gross_revenue", "amount": 176152000, "label_raw": "Gross revenue", "source_page": 155},
-    {"statement": "expense", "component": "property_operating_expenses", "amount": 87413000, "label_raw": "Property operating expenses", "source_page": 155},
-    {"statement": "adjustment", "component": "finance_income", "amount": 777000, "label_raw": "Finance income", "source_page": 155},
-    {"statement": "expense", "component": "finance_costs", "amount": 29394000, "label_raw": "Finance costs", "source_page": 155},
-    {"statement": "expense", "component": "management_fee_base", "amount": 8275000, "label_raw": "Manager's base fee", "source_page": 155},
-    {"statement": "expense", "component": "management_fee_performance", "amount": 2477000, "label_raw": "Manager's performance fee", "source_page": 155},
-    {"statement": "expense", "component": "trustee_fee", "amount": 216000, "label_raw": "Trustee's fee", "source_page": 155},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 3835000, "label_raw": "Other trust expenses", "source_page": 155},
-    {"statement": "adjustment", "component": "unrealised_foreign_exchange", "amount": -686000, "label_raw": "Unrealised foreign exchange", "source_page": 155},
-    {"statement": "adjustment", "component": "share_of_result_of_associates", "amount": 18866000, "label_raw": "Share of result of associates", "source_page": 155},
-    {"statement": "adjustment", "component": "remeasurement_loss_shareholder_loan", "amount": -3687000, "label_raw": "Remeasurement loss of shareholder loan discount", "source_page": 155},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": 28000, "label_raw": "Fair value change in derivatives", "source_page": 155},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 22042000, "label_raw": "Net change in fair value of investment properties", "source_page": 155},
-    {"statement": "expense", "component": "tax_expense", "amount": 15119000, "label_raw": "Tax expense", "source_page": 155}
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 176152000,
+      "label_raw": "Gross revenue",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 87413000,
+      "label_raw": "Property operating expenses",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 777000,
+      "label_raw": "Finance income",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 29394000,
+      "label_raw": "Finance costs",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 8275000,
+      "label_raw": "Manager's base fee",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_performance",
+      "amount": 2477000,
+      "label_raw": "Manager's performance fee",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 216000,
+      "label_raw": "Trustee's fee",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 3835000,
+      "label_raw": "Other trust expenses",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "unrealised_foreign_exchange",
+      "amount": -686000,
+      "label_raw": "Unrealised foreign exchange",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_result_of_associates",
+      "amount": 18866000,
+      "label_raw": "Share of result of associates",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "remeasurement_loss_shareholder_loan",
+      "amount": -3687000,
+      "label_raw": "Remeasurement loss of shareholder loan discount",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": 28000,
+      "label_raw": "Fair value change in derivatives",
+      "source_page": 155
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": 22042000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 155
+    },
+    {
+      "statement": "expense",
+      "component": "tax_expense",
+      "amount": 15119000,
+      "label_raw": "Tax expense",
+      "source_page": 155
+    }
   ]
 }

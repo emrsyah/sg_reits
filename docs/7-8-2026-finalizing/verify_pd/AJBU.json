@@ -1,0 +1,158 @@
+[
+ {
+  "property_name": "Almere Data Centre",
+  "current_purchase_date": null,
+  "country": "Netherlands",
+  "source_page": 110
+ },
+ {
+  "property_name": "Amsterdam Data Centre",
+  "current_purchase_date": null,
+  "country": "Netherlands",
+  "source_page": 110
+ },
+ {
+  "property_name": "Basis Bay Data Centre",
+  "current_purchase_date": null,
+  "country": "Malaysia",
+  "source_page": 111
+ },
+ {
+  "property_name": "Cardiff Data Centre",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 110
+ },
+ {
+  "property_name": "DC1",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 110
+ },
+ {
+  "property_name": "Eindhoven Campus",
+  "current_purchase_date": null,
+  "country": "Netherlands",
+  "source_page": 110
+ },
+ {
+  "property_name": "Gore Hill Data Centre",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 111
+ },
+ {
+  "property_name": "Guangdong Data Centre 1",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 110
+ },
+ {
+  "property_name": "Guangdong Data Centre 2",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 110
+ },
+ {
+  "property_name": "Guangdong Data Centre 3",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 110
+ },
+ {
+  "property_name": "GV7 Data Centre",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 110
+ },
+ {
+  "property_name": "Kelsterbach Data Centre",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 110
+ },
+ {
+  "property_name": "Keppel DC Dublin 1",
+  "current_purchase_date": null,
+  "country": "Ireland",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Dublin 2",
+  "current_purchase_date": null,
+  "country": "Ireland",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 1",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 110
+ },
+ {
+  "property_name": "Keppel DC Singapore 2",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 3",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 4",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 5",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 7",
+  "current_purchase_date": "December 2024",
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "Keppel DC Singapore 8",
+  "current_purchase_date": "December 2024",
+  "country": "Singapore",
+  "source_page": 111
+ },
+ {
+  "property_name": "London Data Centre",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 110
+ },
+ {
+  "property_name": "maincubes Data Centre",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 110
+ },
+ {
+  "property_name": "Milan Data Centre",
+  "current_purchase_date": null,
+  "country": "Italy",
+  "source_page": 110
+ },
+ {
+  "property_name": "Tokyo Data Centre 1",
+  "current_purchase_date": "2024",
+  "country": "Japan",
+  "source_page": 110
+ },
+ {
+  "property_name": "Tokyo Data Centre 3",
+  "current_purchase_date": "2025-11-19",
+  "country": "Japan",
+  "source_page": 110
+ }
+]

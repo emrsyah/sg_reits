@@ -41,6 +41,12 @@
       "value": "disclosed_after_retention",
       "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
       "source_page": 7
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 212406000,
+      "basis": "CORRECTION 2026-07-08: originally 320,277,000 = cumulative 'Income available for distribution to Unitholders' (opening carry-forward 107,871 + FY-generated 212,406, Distribution Statement p121). Corrected to the FY2025-generated distributable income 212,406,000 (mgr commentary '$212.4m, DPU 5.23c'). NOTE: distribution_paid=212,406,000 is also suspect (transposed FY-gen figure; disclosed distributions incl capital gains = 276,593) — deferred to distribution_paid semantics review."
     }
   ],
   "columns_never_fillable": [
@@ -94,7 +100,14 @@
       "scope": "Marina Bay Financial Centre Tower 3 (additional one-third interest) acquisition",
       "status": "confirmed_absent_by_design",
       "reason": "Searched circular/MD&A narrative (p40, p62-63) and Property Portfolio At-a-Glance card (p44) and Portfolio Statement (p123): the deal is disclosed only at an 'agreed property value' of S$1,453.0 million (p40, p62); no SEPARATE independent-valuer figure for the incremental one-third stake at deal date is printed. The only independent valuation figure for MBFC Tower 3 is the FY-end (31 Dec 2025) portfolio-statement valuation of the full two-third interest, S$2,934,700k by Colliers International (p123) — that is a year-end fair-value figure for the combined post-deal stake, not a deal-specific independent valuation of the acquired one-third tranche, so it is NOT used to fill txn.valuation (would conflate two distinct concepts). Existing row note in property_transactions.json already correctly states this; hardened/confirmed this wave, no change made.",
-      "pages_read": [40, 44, 62, 63, 64, 123]
+      "pages_read": [
+        40,
+        44,
+        62,
+        63,
+        64,
+        123
+      ]
     }
   ],
   "null_recovery_round8_2026_07_03": [
@@ -108,7 +121,14 @@
       "quote_p40": "In December 2025, Keppel REIT announced the acquisition of an additional one-third interest in Marina Bay Financial Centre (MBFC) Tower 3 ... at an agreed property value of $1,453.0 million.",
       "quote_p44_fn10": "Based on purchase price of S$1,248.0 million as at 16 December 2014 and S$1,453.0 million as at 31 December 2025.",
       "quote_p62": "On 31 December 2025, Keppel REIT also acquired an additional one-third interest in Marina Bay Financial Centre Tower 3 ... from Sageland Private Limited.",
-      "pages_read": [40, 44, 62, 64, 123, 124]
+      "pages_read": [
+        40,
+        44,
+        62,
+        64,
+        123,
+        124
+      ]
     },
     {
       "table": "property_transactions",
@@ -116,7 +136,12 @@
       "scope": "Top Ryde City Shopping Centre acquisition - conflation sweep",
       "status": "confirmed_not_conflated",
       "reason": "valuation S$337,600,000 equals the independent p123 valuation S$337,597k (Cushman & Wakefield (Valuations) Pty Ltd, 31 Dec 2025; rounded to S$337.6m at p64) and is DISTINCT from consideration/purchase_price S$334,800,000. valuation != price, so no valuation-copied-into-price conflation. consideration == purchase_price (both S$334.8m) is legitimate for an acquisition (both fields hold the single deal price), not a defect.",
-      "pages_read": [40, 62, 64, 123]
+      "pages_read": [
+        40,
+        62,
+        64,
+        123
+      ]
     },
     {
       "table": "property_transactions",
@@ -125,7 +150,10 @@
       "status": "flag_only_do_not_touch",
       "reason": "The AR reports this deal PRIMARILY in AUD: 'for A$393.8 million' (p40, p62). The row stores consideration=purchase_price=334,800,000 with currency='SGD' -- a converted-to-SGD figure for a foreign (AUD) property, and the currency tag (SGD) does not match the deal's transaction currency (AUD). This is the systemic converted-to-SGD class (#7a) reserved for the main agent; consideration_local='A$393.8 million' preserves the as-reported AUD. Not modified.",
       "quote_p62": "On 19 December 2025, Keppel REIT acquired a 75% effective interest in Top Ryde City Shopping Centre ... for A$393.8 million from Bevillesta Pty Limited ...",
-      "pages_read": [40, 62]
+      "pages_read": [
+        40,
+        62
+      ]
     },
     {
       "table": "properties",
@@ -133,7 +161,12 @@
       "scope": "All foreign properties (8 Exhibition St, Victoria Police Centre, Pinnacle Office Park, 2 Blue St, 255 George St, Top Ryde, 8 Chifley Sq, David Malcolm Justice Centre = AUD; T Tower = KRW; KR Ginza II = JPY)",
       "status": "flag_only_do_not_touch",
       "reason": "Every foreign property stores purchase_price with purchase_price_currency='SGD' though the original acquisition currency is AUD/KRW/JPY -- systemic converted-to-SGD class (#7a) reserved for the main agent. NOTE: market_valuation in SGD for foreign properties is NOT a defect -- the AR Portfolio Statement (p122/123) reports ALL property valuations in SGD (converted at 31-Dec FX per p64 footnotes A$1=S$0.8493, KRW1000=S$0.8830, JPY100=S$0.8303), so market_valuation SGD is as-reported.",
-      "pages_read": [64, 122, 123, 124]
+      "pages_read": [
+        64,
+        122,
+        123,
+        124
+      ]
     },
     {
       "table": "property_transactions",
@@ -141,7 +174,10 @@
       "scope": "Marina Bay Financial Centre Tower 3 (additional one-third interest) - schema-consistency FLAG",
       "status": "flag_for_main_agent",
       "reason": "The MBFC T3 txn row has NO purchase_price key, whereas its sibling Top Ryde row carries purchase_price. The MBFC deal price is stored as consideration=1,453,000,000 (SGD). p44 footnote 10 explicitly calls S$1,453.0m the 'purchase price ... as at 31 December 2025', so if the canonical acquisition-price field is purchase_price (not consideration), the main agent may set purchase_price=1,453,000,000 SGD (p40/p44 cite). Left unchanged to avoid duplicating the price under an uncertain canonical field name -- flagged rather than silently added.",
-      "pages_read": [40, 44]
+      "pages_read": [
+        40,
+        44
+      ]
     }
   ],
   "inferred": [

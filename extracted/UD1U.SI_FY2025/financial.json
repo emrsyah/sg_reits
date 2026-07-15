@@ -8,33 +8,76 @@
     "gross_income": 32824000,
     "operating_income": 26885000,
     "operating_expense": 5939000,
-    "ebit": -61337000,
-    "ebitda": -61337000,
+    "ebit": 26885000.0,
+    "ebitda": 21165000.0,
     "pretax_income": -69002000,
     "income_taxes": -5802000,
     "net_income": -63200000,
     "non_operating_income_or_loss": -95887000,
-    "interest_expense_non_operating": 7665000,
+    "interest_expense_non_operating": 8197000.0,
     "weighted_avg_shares_basic": 1344838000,
     "diluted_shares_outstanding": 1344838000,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 18770000.0,
     "unitholders": -63200000,
     "perpetual_security_holders": null,
     "minorities": null,
-    "_derived": ["operating_income", "operating_expense", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_expense",
+      "operating_income"
+    ],
     "revenue_breakdown": [
-      {"category": "Rental income", "amount": 39119000, "class": "Product/Service Sales"},
-      {"category": "Service charge income", "amount": 8412000, "class": "Product/Service Sales"},
-      {"category": "Carpark income", "amount": 2626000, "class": "Product/Service Sales"},
-      {"category": "Other income", "amount": 277000, "class": "Other income"}
+      {
+        "category": "Rental income",
+        "amount": 39119000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Service charge income",
+        "amount": 8412000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Carpark income",
+        "amount": 2626000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other income",
+        "amount": 277000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Management fees - Base fee", "amount": 1810000, "class": "General & Admin"},
-      {"category": "Trustee's fees", "amount": 196000, "class": "General & Admin"},
-      {"category": "Administrative costs", "amount": 1706000, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 2227000, "class": "Other expenses"}
-    ]
+      {
+        "category": "Management fees - Base fee",
+        "amount": 1810000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 196000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Administrative costs",
+        "amount": 1706000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 2227000,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": 81970000
   },
   "balance_sheet_metrics": {
     "total_asset": 926306000,
@@ -51,32 +94,158 @@
     "investing_cash_flow": -18111000,
     "financing_cash_flow": 20431000,
     "net_cash_flow": 17486000,
-    "free_cash_flow": -3747000,
-    "capital_expenditure": -18913000
+    "free_cash_flow": -3747000.0,
+    "capital_expenditure": 18913000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "rental_income", "amount": 39119000, "label_raw": "Rental income", "source_page": 196},
-    {"statement": "revenue", "component": "service_charge_income", "amount": 8412000, "label_raw": "Service charge income", "source_page": 196},
-    {"statement": "revenue", "component": "carpark_income", "amount": 2626000, "label_raw": "Carpark income", "source_page": 196},
-    {"statement": "revenue", "component": "other_income", "amount": 277000, "label_raw": "Other income", "source_page": 196},
-    {"statement": "expense", "component": "property_management_expenses", "amount": 949000, "label_raw": "Property management expenses", "source_page": 196},
-    {"statement": "expense", "component": "repair_and_maintenance", "amount": 8207000, "label_raw": "Repair and maintenance expenses", "source_page": 196},
-    {"statement": "expense", "component": "utilities", "amount": 3434000, "label_raw": "Utilities expenses", "source_page": 196},
-    {"statement": "expense", "component": "property_tax", "amount": 3231000, "label_raw": "Property tax expenses", "source_page": 196},
-    {"statement": "expense", "component": "other_property_operating_expenses", "amount": 1789000, "label_raw": "Other expenses (property operating)", "source_page": 196},
-    {"statement": "expense", "component": "finance_costs", "amount": 8197000, "label_raw": "Finance costs", "source_page": 175},
-    {"statement": "expense", "component": "management_fee_base", "amount": 1810000, "label_raw": "Management fees - Base fee", "source_page": 175},
-    {"statement": "expense", "component": "management_fee_performance", "amount": 0, "label_raw": "Management fees - Performance fee (nil in FY2025)", "source_page": 175},
-    {"statement": "expense", "component": "trustee_fees", "amount": 196000, "label_raw": "Trustee's fees", "source_page": 175},
-    {"statement": "expense", "component": "administrative_costs", "amount": 1706000, "label_raw": "Administrative costs", "source_page": 175},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 2227000, "label_raw": "Other trust expenses", "source_page": 175},
-    {"statement": "adjustment", "component": "finance_income", "amount": 532000, "label_raw": "Finance income", "source_page": 175},
-    {"statement": "adjustment", "component": "foreign_exchange_gain", "amount": 2290000, "label_raw": "Foreign exchange gain", "source_page": 175},
-    {"statement": "adjustment", "component": "divestment_fee_and_related_costs", "amount": 0, "label_raw": "Divestment fee and related costs (nil in FY2025)", "source_page": 175},
-    {"statement": "adjustment", "component": "change_in_fair_value_financial_derivatives", "amount": -8542000, "label_raw": "Change in fair value of financial derivatives", "source_page": 175},
-    {"statement": "adjustment", "component": "change_in_fair_value_investment_properties", "amount": -81970000, "label_raw": "Change in fair value of investment properties", "source_page": 175},
-    {"statement": "adjustment", "component": "income_tax_benefit", "amount": 5802000, "label_raw": "Income tax benefit/(expense)", "source_page": 175}
+    {
+      "statement": "revenue",
+      "component": "rental_income",
+      "amount": 39119000,
+      "label_raw": "Rental income",
+      "source_page": 196
+    },
+    {
+      "statement": "revenue",
+      "component": "service_charge_income",
+      "amount": 8412000,
+      "label_raw": "Service charge income",
+      "source_page": 196
+    },
+    {
+      "statement": "revenue",
+      "component": "carpark_income",
+      "amount": 2626000,
+      "label_raw": "Carpark income",
+      "source_page": 196
+    },
+    {
+      "statement": "revenue",
+      "component": "other_income",
+      "amount": 277000,
+      "label_raw": "Other income",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_expenses",
+      "amount": 949000,
+      "label_raw": "Property management expenses",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "repair_and_maintenance",
+      "amount": 8207000,
+      "label_raw": "Repair and maintenance expenses",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "utilities",
+      "amount": 3434000,
+      "label_raw": "Utilities expenses",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "property_tax",
+      "amount": 3231000,
+      "label_raw": "Property tax expenses",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "other_property_operating_expenses",
+      "amount": 1789000,
+      "label_raw": "Other expenses (property operating)",
+      "source_page": 196
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 8197000,
+      "label_raw": "Finance costs",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 1810000,
+      "label_raw": "Management fees - Base fee",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_performance",
+      "amount": 0,
+      "label_raw": "Management fees - Performance fee (nil in FY2025)",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fees",
+      "amount": 196000,
+      "label_raw": "Trustee's fees",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "administrative_costs",
+      "amount": 1706000,
+      "label_raw": "Administrative costs",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 2227000,
+      "label_raw": "Other trust expenses",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 532000,
+      "label_raw": "Finance income",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "foreign_exchange_gain",
+      "amount": 2290000,
+      "label_raw": "Foreign exchange gain",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "divestment_fee_and_related_costs",
+      "amount": 0,
+      "label_raw": "Divestment fee and related costs (nil in FY2025)",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_in_fair_value_financial_derivatives",
+      "amount": -8542000,
+      "label_raw": "Change in fair value of financial derivatives",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_in_fair_value_investment_properties",
+      "amount": -81970000,
+      "label_raw": "Change in fair value of investment properties",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax_benefit",
+      "amount": 5802000,
+      "label_raw": "Income tax benefit/(expense)",
+      "source_page": 175
+    }
   ],
   "source_page": 175,
   "_reconciliation_note": "Sum(revenue 50,434) - Sum(expense 31,746) + Sum(adjustment -81,888) = -63,200 (EUR'000) = net_income, ties to 'Total (loss)/return for the year attributable to Unitholders' p.175. income_taxes stored as -5,802 (it is a tax BENEFIT, not expense). FFO null (not disclosed; report uses distributable income, see performance.net_distributable_income). working_capital = total_current_asset - total_current_liabilities. free_cash_flow = operating_cash_flow - capex (15,166 - 18,913). Finance income (+532) bucketed as signed adjustment so Sum(revenue line_items) ties exactly to gross_revenue; finance costs/trust fees as expense; FV changes/FX/tax as signed adjustments. Revenue line_items = gross revenue only."

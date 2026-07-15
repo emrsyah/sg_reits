@@ -105,7 +105,8 @@
       "value": "canonical 15-value taxonomy",
       "basis": "Trade sector assigned from disclosed 'Trade Sector' column (Grocery and Wholesale, Fitness, Home Improvement, Consumer Goods) mapped to canonical taxonomy",
       "source_page": 37
-    }
+    },
+    "purchase_date for the 18 IPO initial-portfolio properties = trust Listing Date 2020-03-12; the AR discloses no per-property acquisition date for these (only a portfolio-acquisition-at-listing). Later acquisitions carry their verbatim dates (Colonial Square 2021-11-12, Penrose 2021-11-24, Upland 2022-07-28, Dover 2025-08-01)."
   ],
   "null_recovery_round8_2026_07_03": {
     "scope": "CORRECTNESS sweep of all 3 property_transactions rows; light money/currency conflation scan of properties.json + property_transactions.json. Layer=PROOFREAD, as-reported, no conversion. Pages actually opened: 16, 35, 159, 165, 167, 168, 184.",

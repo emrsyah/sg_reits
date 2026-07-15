@@ -1,0 +1,47 @@
+{
+  "symbol": "A17U.SI",
+  "financial_year": 2024,
+  "portfolio_value": 16758446000,
+  "properties_location": "Singapore, Australia, United States, United Kingdom/Europe",
+  "gross_revenue": 1523046000,
+  "net_property_income": 1049925000,
+  "net_distributable_income": 668833000,
+  "distribution_paid": null,
+  "adjusted_distributable_income": null,
+  "distribution_basis": "full_payout_no_retention_line",
+  "dpu": 15.205,
+  "distribution_record": [
+    {
+      "period": "01/01/2024 to 30/06/2024",
+      "dpu": 7.524,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01/07/2024 to 31/12/2024",
+      "dpu": 7.681,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 36513,
+  "number_of_shareholder_units": 4400309000,
+  "aggregate_leverage": 37.7,
+  "interest_coverage_ratio": 3.6,
+  "cost_of_debt": 3.7,
+  "weighted_avg_debt_maturity": 3.5,
+  "nav_per_unit": 2.27,
+  "wale": 3.7,
+  "portfolio_occupancy": 92.8,
+  "dpu_period_months": 12,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "source_page": 20,
+  "flags": [
+    "portfolio_value=16,758,446 = audited investment properties (excl S$268,734 IP-under-development), matching headline 'total portfolio value S$16.8 billion'. nav_per_unit=2.27 balance-sheet NAV attributable to Unitholders (p108); adjusted NAV S$2.20 (p21). NDI=668,833 = total amount available for distribution to Unitholders for the year (p110), no retention line disclosed (full payout). distribution_record H2 (7.681c, 01/07/24-31/12/24) declared/paid after FYE (per FY2025 statement); H1 7.524c disclosed in FY2024 statement. number_of_unitholders 36,513 as at 4 Mar 2025."
+  ],
+  "distributable_income_opening": 327300000,
+  "distribution_cash_paid": 657757000,
+  "distributable_income_closing": 338376000,
+  "units_to_be_issued": 797000
+}

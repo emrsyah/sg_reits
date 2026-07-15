@@ -1,32 +1,22 @@
 {
   "symbol": "BUOU.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {
-      "role": "reit_manager",
-      "company_name": "Frasers Logistics & Commercial Asset Management Pte. Ltd."
-    },
-    {
-      "role": "trustee",
-      "company_name": "Perpetual (Asia) Limited"
-    },
-    {
-      "role": "sponsor",
-      "company_name": "Frasers Property Limited"
-    },
-    {
-      "role": "trustee",
-      "company_name": "British and Malayan Trustees Limited"
-    },
-    {
-      "role": "property_manager",
-      "company_name": "Frasers Property Commercial Management Pte Ltd"
-    },
-    {
-      "role": "property_manager",
-      "company_name": "FPE Advisory B.V."
-    }
-  ],
+  "management": {
+    "reit_manager": [
+      "Frasers Logistics & Commercial Asset Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited",
+      "British and Malayan Trustees Limited"
+    ],
+    "sponsor": [
+      "Frasers Property Limited"
+    ],
+    "property_manager": [
+      "Frasers Property Commercial Management Pte Ltd",
+      "FPE Advisory B.V."
+    ]
+  },
   "income_model": "conventional",
   "source_page": 19
 }

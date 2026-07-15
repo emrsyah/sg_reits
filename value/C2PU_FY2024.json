@@ -1,0 +1,79 @@
+{
+  "symbol": "C2PU.SI",
+  "financial_year": 2024,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 45264000,
+      "verbatim_line": "Amount available for distribution to Unitholders at beginning of the year | 45,264 (Group 2024, $'000)",
+      "source_page": 64
+    },
+    "net_distributable_income": {
+      "value": 94419000,
+      "verbatim_line": "DERIVED (before-retention for-year subtotal) = Total return for the year 95,041 + Distribution adjustments (624) + Rollover adjustment 2 = 94,419 ($'000, Group 2024).",
+      "source_page": 64,
+      "derived_flag": true
+    },
+    "distribution_cash_paid": {
+      "value": 121121000,
+      "verbatim_line": "Distributions to Unitholders during the year: - 7.48c (1 Jul 2023-31 Dec 2023) 45,254; - 7.54c (1 Jan 2024-30 Jun 2024) 45,617; - 5.00c advanced (1 Jul 2024-31 Oct 2024) 30,250 => subtotal 121,121 ($'000, Group 2024).",
+      "source_page": 64
+    },
+    "distributable_income_closing": {
+      "value": 15562000,
+      "verbatim_line": "Amount available for distribution to Unitholders at end of the year | 15,562 (Group 2024, $'000)",
+      "source_page": 64
+    },
+    "distribution_paid_declared": {
+      "value": 91419000,
+      "verbatim_line": "Income for the year available for distribution to Unitholders | B | 91,419; Note B 'Total Unitholders' distributions' 91,419 (from operations 71,146 + from Unitholders' contributions 20,273). DPU 14.92 cents basis for FY2024. This is AFTER the 3,000 capex retention.",
+      "source_page": 65
+    },
+    "guard_A_plus_B_minus_P": 18562000,
+    "guard_ok": false,
+    "notes": "Guard A(45,264)+B(94,419)-P(121,121)=18,562 vs E=15,562 -> off by exactly 3,000 ($'000). NOT a mis-read: B is the before-retention for-year subtotal per task spec (total return 95,041 - distribution adjustments 624 + rollover 2 = 94,419; this is a derived component, not a single printed line). The printed identity that closes uses the AFTER-retention 'Income for the year available for distribution' = 91,419: 45,264 + 91,419 - 121,121 = 15,562 (exact). The 3,000 gap = the disclosed 'Amount retained for capital expenditure' line (S$3.0m/yr retained since FY12 per AR footnote). No number plugged; the cumulative-trap line 'Amount available for distribution to Unitholders' = 136,683 was deliberately NOT used as B. P=121,121 is cash paid during the year (mixes the FY2023 final 7.48c tranche 45,254 and excludes the FY2024 final 2.38c not yet paid), distinct from the DPU-14.92c declared-for-year (income for the year available 91,419). Distribution Statement on printed pp.125-126 (PDF markers PAGE 64 main statement / PAGE 65 Notes A & B)."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "HIBISU Higashi Sumiyoshi",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": 9.06,
+      "gain_basis": "DERIVED acquisition-side discount-to-valuation (favorable), NOT a divestment gain: (appraised value JPY2,690.0m - purchase price JPY2,446.2m)/JPY2,690.0m = 9.06%. Computed in JPY to avoid FX-date distortion; appraised value by Enrix Co., Ltd as at 31 Dec 2024 (audited property card p.27 + portfolio-statement footnote (4)). Consistent with AR-stated 'Acquired at 9.1% below valuation'. SGD comparison distorted (purchase ~S$20.7-22.1m at acquisition FX vs carrying S$23.268m at 31-Dec FX).",
+      "valuation_date": "2024-12-31",
+      "announced_date": null,
+      "completed_date": "2024-08-07",
+      "sale_price": null,
+      "valuation": 23300000,
+      "carrying_value": 23268000,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Acquired via Tokumei Kumiai (silent partnership) structure; existing master lease taken over from vendor/lessee K.K. FDS; tenant/operator K.K. BISCUSS",
+      "deal_id": "c2pu:hibisu_higashi_sumiyoshi:acquisition:2024",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 74,
+      "verbatim": "Portfolio Statement footnote (4): 'On 30 July 2024, the Group entered into a Tokumei Kumiai agreement as an investor in relation to the acquisition of a nursing home located in Japan for a purchase price of JPY2,446.2 million (approximately $22.1 million). The acquisition of the property was completed on 7 August 2024. The appraised value of the property as at 31 December 2024 was determined by Enrix Co., Ltd using discounted cash flow method.' Portfolio Statement row (p.72): HIBISU Higashi Sumiyoshi carrying value 23,268 ($'000). Property card (p.27): Purchase Price JPY2,446.20m (S$20.74m); Appraised Value (as at 31 Dec 2024) JPY2,690.00m (S$23.30m); Appraiser Enrix Co., Ltd."
+    },
+    {
+      "i": 1,
+      "property_name": "France portfolio of 11 nursing homes",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": 3.68,
+      "gain_basis": "DERIVED acquisition-side uplift-to-valuation (favorable), NOT a divestment gain and NOT disclosed as a %: (portfolio-statement valuation S$163,107k - audited FS-note purchase price S$157,100k)/S$163,107k = 3.68%. Both audited FS figures but FX-date mismatch flagged (purchase EUR111.2m at acquisition FX = S$157.1m per footnote; valuation at 31-Dec-2024 FX). Alt purchase S$159.9m (Financial Review, acquisition FX) => 1.97%.",
+      "valuation_date": "2024-12-31",
+      "announced_date": "2024-10-22",
+      "completed_date": "2024-12-20",
+      "sale_price": null,
+      "valuation": 163107000,
+      "carrying_value": 163107000,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Sale-and-leaseback from Pan-European operator DomusVi Group; 11 properties leased to special-purpose-vehicle lessees under DomusVi Group on 12-year leases",
+      "deal_id": "c2pu:france_portfolio_of_11_nursing_homes:acquisition:2024",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 74,
+      "verbatim": "Portfolio Statement footnote (5): 'On 22 October 2024, the Group entered into a promise of sale and a contract for transfer of shares to acquire eleven nursing homes in France for a purchase price of EUR111.2 million (approximately $157.1 million). The acquisition of the properties was completed on 20 December 2024. The appraised value of the properties as at 31 December 2024 was determined by Cushman & Wakefield Valuation France using the income capitalisation and discounted cash flow methods.' Portfolio Statement France subtotal (p.73): 163,107 ($'000). Exact purchase price EUR111,241,178 (footnote). EFR/private placement of ~S$180.0m announced 22 Oct 2024 to fund the acquisition (S$159.9m applied)."
+    }
+  ]
+}

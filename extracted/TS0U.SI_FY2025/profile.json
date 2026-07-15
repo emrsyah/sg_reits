@@ -1,17 +1,29 @@
 {
   "symbol": "TS0U.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "reit_manager", "company_name": "OUE REIT Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "sponsor", "company_name": "OUE Limited"},
-    {"role": "property_manager", "company_name": "OUE Commercial Property Management Pte. Ltd."},
-    {"role": "property_manager", "company_name": "OUE Property Management Pte. Ltd."},
-    {"role": "master_lessee", "company_name": "OUE Limited"},
-    {"role": "master_lessee", "company_name": "OUE Airport Hotel Pte. Ltd."},
-    {"role": "operator", "company_name": "Hilton (Hilton Singapore Orchard)"},
-    {"role": "operator", "company_name": "InterContinental Hotels Group (Crowne Plaza Changi Airport)"}
-  ],
+  "management": {
+    "reit_manager": [
+      "OUE REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "OUE Limited"
+    ],
+    "property_manager": [
+      "OUE Commercial Property Management Pte. Ltd.",
+      "OUE Property Management Pte. Ltd."
+    ],
+    "master_lessee": [
+      "OUE Limited",
+      "OUE Airport Hotel Pte. Ltd."
+    ],
+    "operator": [
+      "Hilton (Hilton Singapore Orchard)",
+      "InterContinental Hotels Group (Crowne Plaza Changi Airport)"
+    ]
+  },
   "income_model": "mixed",
   "source_page": 180
 }

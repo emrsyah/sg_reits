@@ -5,7 +5,7 @@
   "properties_location": "Singapore, Australia, Germany",
   "gross_revenue": 1619174000.0,
   "net_property_income": 1189700000.0,
-  "net_distributable_income": 860900000.0,
+  "net_distributable_income": 869957000,
   "distribution_paid": 860874000.0,
   "adjusted_distributable_income": null,
   "dpu": 11.58,
@@ -40,5 +40,20 @@
   "currency": "SGD",
   "date": "2025-12-31",
   "source_page": 5,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 7611318000,
+  "dpu_period_months": 12,
+  "flags": [
+    "before-retention normalization 2026-07-08: net_distributable_income set to the FY 'income available for distribution' BEFORE working-capital retention = 869,957,000 (p107 subtotal). Prior 860,900,000 was after the 9,083 retention. Convention: NDI = before-retention income available; retention disclosed (see distribution_basis).",
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 9083000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. A(249,796) + B(869,957) - P(750,125) = 369,628 (S$'000); E = 360,545. Break of exactly 9,083 = the disclosed 'Amount retained for general corporate and working capital purposes (Note B)' line, which is separate from P (cash paid). Full reconciliation: A + B - P - retention(9,083) = E (369,628 - 9,083 = 360,545) exactly. guard_ok=false is a legitimate structural break due to the retention line, NOT"
+    }
+  ],
+  "distributable_income_opening": 249796000,
+  "distribution_cash_paid": 750125000,
+  "distributable_income_closing": 360545000,
+  "units_to_be_issued": 14120000,
+  "distribution_pool_other_movements": -9083000
 }

@@ -8,31 +8,65 @@
     "gross_income": 44199000,
     "operating_income": 40001000,
     "operating_expense": 4198000,
-    "ebit": 50627000,
-    "ebitda": 50627000,
+    "ebit": 40001000.0,
+    "ebitda": 40711000.0,
     "pretax_income": 41727000,
     "income_taxes": 6073000,
     "net_income": 35654000,
     "non_operating_income_or_loss": 1726000,
-    "interest_expense_non_operating": 8900000,
+    "interest_expense_non_operating": 9216000.0,
     "weighted_avg_shares_basic": 699446000,
     "diluted_shares_outstanding": 699446000,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 25422000.0,
     "unitholders": 34881000,
-    "perpetual_security_holders": 773000,
+    "perpetual_security_holders": -773000.0,
     "minorities": null,
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
     "revenue_breakdown": [
-      {"category": "Rental income", "amount": 51252000, "class": "Product/Service Sales"},
-      {"category": "Recoverable and other income", "amount": 6542000, "class": "Other income"}
+      {
+        "category": "Rental income",
+        "amount": 51252000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Recoverable and other income",
+        "amount": 6542000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Manager's management fees", "amount": 2075000, "class": "General & Admin"},
-      {"category": "Japan asset management fees", "amount": 1067000, "class": "General & Admin"},
-      {"category": "Trustee's fee", "amount": 283000, "class": "General & Admin"},
-      {"category": "Trust expenses", "amount": 773000, "class": "Other expenses"}
-    ]
+      {
+        "category": "Manager's management fees",
+        "amount": 2075000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Japan asset management fees",
+        "amount": 1067000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 283000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trust expenses",
+        "amount": 773000,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": -10232000
   },
   "balance_sheet_metrics": {
     "total_asset": 1060353000,
@@ -49,27 +83,123 @@
     "investing_cash_flow": -35957000,
     "financing_cash_flow": -10672000,
     "net_cash_flow": -7862000,
-    "free_cash_flow": 38656000,
-    "capital_expenditure": 111000
+    "free_cash_flow": 3707000.0,
+    "capital_expenditure": 35060000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "rental_income", "amount": 51252000, "label_raw": "Rental income", "source_page": 190},
-    {"statement": "revenue", "component": "recoverable_and_other_income", "amount": 6542000, "label_raw": "Recoverable and other income", "source_page": 190},
-    {"statement": "expense", "component": "property_taxes", "amount": 5276000, "label_raw": "Property taxes", "source_page": 191},
-    {"statement": "expense", "component": "utilities_expenses", "amount": 3674000, "label_raw": "Utilities expenses", "source_page": 191},
-    {"statement": "expense", "component": "property_management_fees", "amount": 1201000, "label_raw": "Property management fees and expenses", "source_page": 191},
-    {"statement": "expense", "component": "building_management_expenses", "amount": 2005000, "label_raw": "Building management expenses", "source_page": 191},
-    {"statement": "expense", "component": "other_operating_expenses", "amount": 1439000, "label_raw": "Other operating expenses", "source_page": 191},
-    {"statement": "expense", "component": "managers_management_fees", "amount": 2075000, "label_raw": "Manager's management fees", "source_page": 162},
-    {"statement": "expense", "component": "japan_asset_management_fees", "amount": 1067000, "label_raw": "Japan asset management fees", "source_page": 162},
-    {"statement": "expense", "component": "trustees_fee", "amount": 283000, "label_raw": "Trustee's fee", "source_page": 162},
-    {"statement": "expense", "component": "trust_expenses", "amount": 773000, "label_raw": "Trust expenses", "source_page": 162},
-    {"statement": "expense", "component": "finance_expenses", "amount": 9216000, "label_raw": "Finance expenses", "source_page": 162},
-    {"statement": "adjustment", "component": "other_income", "amount": 884000, "label_raw": "Other income", "source_page": 162},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 10232000, "label_raw": "Fair value change in investment properties", "source_page": 162},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -174000, "label_raw": "Fair value change in derivatives", "source_page": 162},
-    {"statement": "adjustment", "component": "tax_expenses", "amount": -6073000, "label_raw": "Tax expenses", "source_page": 162}
+    {
+      "statement": "revenue",
+      "component": "rental_income",
+      "amount": 51252000,
+      "label_raw": "Rental income",
+      "source_page": 190
+    },
+    {
+      "statement": "revenue",
+      "component": "recoverable_and_other_income",
+      "amount": 6542000,
+      "label_raw": "Recoverable and other income",
+      "source_page": 190
+    },
+    {
+      "statement": "expense",
+      "component": "property_taxes",
+      "amount": 5276000,
+      "label_raw": "Property taxes",
+      "source_page": 191
+    },
+    {
+      "statement": "expense",
+      "component": "utilities_expenses",
+      "amount": 3674000,
+      "label_raw": "Utilities expenses",
+      "source_page": 191
+    },
+    {
+      "statement": "expense",
+      "component": "property_management_fees",
+      "amount": 1201000,
+      "label_raw": "Property management fees and expenses",
+      "source_page": 191
+    },
+    {
+      "statement": "expense",
+      "component": "building_management_expenses",
+      "amount": 2005000,
+      "label_raw": "Building management expenses",
+      "source_page": 191
+    },
+    {
+      "statement": "expense",
+      "component": "other_operating_expenses",
+      "amount": 1439000,
+      "label_raw": "Other operating expenses",
+      "source_page": 191
+    },
+    {
+      "statement": "expense",
+      "component": "managers_management_fees",
+      "amount": 2075000,
+      "label_raw": "Manager's management fees",
+      "source_page": 162
+    },
+    {
+      "statement": "expense",
+      "component": "japan_asset_management_fees",
+      "amount": 1067000,
+      "label_raw": "Japan asset management fees",
+      "source_page": 162
+    },
+    {
+      "statement": "expense",
+      "component": "trustees_fee",
+      "amount": 283000,
+      "label_raw": "Trustee's fee",
+      "source_page": 162
+    },
+    {
+      "statement": "expense",
+      "component": "trust_expenses",
+      "amount": 773000,
+      "label_raw": "Trust expenses",
+      "source_page": 162
+    },
+    {
+      "statement": "expense",
+      "component": "finance_expenses",
+      "amount": 9216000,
+      "label_raw": "Finance expenses",
+      "source_page": 162
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_income",
+      "amount": 884000,
+      "label_raw": "Other income",
+      "source_page": 162
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": 10232000,
+      "label_raw": "Fair value change in investment properties",
+      "source_page": 162
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -174000,
+      "label_raw": "Fair value change in derivatives",
+      "source_page": 162
+    },
+    {
+      "statement": "adjustment",
+      "component": "tax_expenses",
+      "amount": -6073000,
+      "label_raw": "Tax expenses",
+      "source_page": 162
+    }
   ],
   "source_page": 162,
   "_notes": {

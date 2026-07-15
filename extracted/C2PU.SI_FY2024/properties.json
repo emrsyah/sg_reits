@@ -1,0 +1,3398 @@
+[
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "The Mount Elizabeth Hospital Property",
+    "country": "Singapore",
+    "category": "Specialized",
+    "category_raw": "Hospital and medical centre",
+    "address": "3 Mount Elizabeth, Singapore 228510",
+    "ownership": 100.0,
+    "market_valuation": 942000000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Parkway Hospitals Singapore Pte Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Leasehold",
+    "lease_term_years": 67.0,
+    "effective_date": "2007-08-23",
+    "lease_expiry_date": "2074-08-22",
+    "tenure_raw": "Leasehold of 67 years from 23 August 2007",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.39; not actual physical occupancy."
+      },
+      {
+        "type": "master_lease",
+        "scope": "property",
+        "note": "Leased to Parkway Hospitals Singapore Pte. Ltd. under renewed master lease agreements from 23 Aug 2022 to 31 Dec 2042 with a 10-year extension option; p.145 footnote."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 524429999.99999994,
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2007",
+    "gross_revenue": 44420000.0,
+    "gross_revenue_currency": "SGD",
+    "gfa": 58139.0,
+    "area_unit": "sqm",
+    "card_appraised_value_raw": "S\\$942.00 million",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "The Gleneagles Hospital Property",
+    "country": "Singapore",
+    "category": "Specialized",
+    "category_raw": "Hospital and medical centre",
+    "address": "6 Napier Road, Singapore 258499; and 6A Napier Road, Singapore 258500",
+    "ownership": 100.0,
+    "market_valuation": 548000000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Parkway Hospitals Singapore Pte Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Leasehold",
+    "lease_term_years": 75.0,
+    "effective_date": "2007-08-23",
+    "lease_expiry_date": "2082-08-22",
+    "tenure_raw": "Leasehold of 75 years from 23 August 2007",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.39; not actual physical occupancy."
+      },
+      {
+        "type": "master_lease",
+        "scope": "property",
+        "note": "Leased to Parkway Hospitals Singapore Pte. Ltd. under renewed master lease agreements from 23 Aug 2022 to 31 Dec 2042 with a 10-year extension option; p.145 footnote."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 216000000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2007",
+    "gross_revenue": 28130000.0,
+    "gross_revenue_currency": "SGD",
+    "gfa": 49003.0,
+    "area_unit": "sqm",
+    "card_appraised_value_raw": "S\\$548.00 million",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "The Parkway East Hospital Property",
+    "country": "Singapore",
+    "category": "Specialized",
+    "category_raw": "Hospital and medical centre",
+    "address": "319 Joo Chiat Place, Singapore 427989; and 321 Joo Chiat Place, Singapore 427990",
+    "ownership": 100.0,
+    "market_valuation": 113000000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Parkway Hospitals Singapore Pte Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Leasehold",
+    "lease_term_years": 75.0,
+    "effective_date": "2007-08-23",
+    "lease_expiry_date": "2082-08-22",
+    "tenure_raw": "Leasehold of 75 years from 23 August 2007",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.39; not actual physical occupancy."
+      },
+      {
+        "type": "master_lease",
+        "scope": "property",
+        "note": "Leased to Parkway Hospitals Singapore Pte. Ltd. under renewed master lease agreements from 23 Aug 2022 to 31 Dec 2042 with a 10-year extension option; p.145 footnote."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 34190000.0,
+    "purchase_price_currency": "SGD",
+    "purchase_date": "2007",
+    "gross_revenue": 4840000.0,
+    "gross_revenue_currency": "SGD",
+    "gfa": 10994.0,
+    "area_unit": "sqm",
+    "card_appraised_value_raw": "S\\$113.00 million",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Bon Sejour Yokohama Shin-Yamashita",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-12-55 Shin Yamashita, Naka-Ku, Yokohama City, Kanagawa Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 15224000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Benesse Style Care Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 1394000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 100850000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3273.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1760000000.0,
+    "card_appraised_value_raw": "¥1,760.00 million (S\\$15.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "More Habitation Akashi",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "486, Yagi, Okubo-cho, Akashi City, Hyogo Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 15916000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. AlphaBetta",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 1456000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 113400000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 6562.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1840000000.0,
+    "card_appraised_value_raw": "¥1,840.00 million (S\\$15.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "More Habitation Suma Rikyu",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1-5-23, Chimori-cho, Suma-ku, Kobe City, Hyogo Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 9342000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. AlphaBetta",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 844000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 67260000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4539.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1080000000.0,
+    "card_appraised_value_raw": "¥1,080.00 million (S\\$9.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Senior Chonaikai Makuhari Kan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5-370-4, Makuhari-cho, Hanamigawa-ku, Chiba City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 16348000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Riei Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 129,
+    "purchase_price": 1403000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 101500000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4361.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1890000000.0,
+    "card_appraised_value_raw": "¥1,890.00 million (S\\$16.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Smiling Home Medis Musashi Urawa",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5-5-6, Shikatebukuro, Minami-ku, Saitama City, Saitama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 7361000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Green Life Higashi Nihon",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 612000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 44820000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1603.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 851000000.0,
+    "card_appraised_value_raw": "¥851.00 million (S\\$7.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Smiling Home Medis Koshigaya Gamo",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-2-5, Gamonishimachi, Koshigaya City, Saitama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 14446000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Green Life Higashi Nihon",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 1289000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2008",
+    "gross_revenue": 91260000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3834.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1670000000.0,
+    "card_appraised_value_raw": "¥1,670.00 million (S\\$14.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sompo no le Nakasyo",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "923-1 Aza Miyata, Hirata, Kurashiki City, Okayama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6323000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Sompo Care Inc.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      },
+      {
+        "name": "Shakai Fukushi Houjin Keiyu-Kai",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 555000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 48600000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3231.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 731000000.0,
+    "card_appraised_value_raw": "¥731.00 million (S\\$6.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Maison des Centenaire Ishizugawa",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-1-9, Hamadera Ishizuchonishi, Nishi-Ku,Sakai City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8373000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Miyako Kenkokai Medical Corporation",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 671000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 61200000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2129.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 968000000.0,
+    "card_appraised_value_raw": "¥968.00 million (S\\$8.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Maison des Centenaire Haruki",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "12-20, Haruki-Miyakawacho, Kishiwada City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6167000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Miyako Kenkokai Medical Corporation",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 485000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 47120000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1263.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 713000000.0,
+    "card_appraised_value_raw": "¥713.00 million (S\\$6.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Hapine Fukuoka Noke",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "4-35-9, Noke, Sawara-ku, Fukuoka City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8347000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Green Life Co. Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.41; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 723000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 58000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2912.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 965000000.0,
+    "card_appraised_value_raw": "¥965.00 million (S\\$8.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Fiore Senior Residence Hirakata",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "4-10, Higashikori-Shinmachi, Hirakata City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 4818000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Vivac",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 420000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 33600000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1155.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 557000000.0,
+    "card_appraised_value_raw": "¥557.00 million (S\\$4.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Iyashi no Takatsuki Kan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "3-19, Haccho-Nishimachi, Takatsuki City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 14964000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Riei Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 1107000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2009",
+    "gross_revenue": 101040000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3956.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1730000000.0,
+    "card_appraised_value_raw": "¥1,730.00 million (S\\$15.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Obatake Ichibankan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "3-3-51 Obatake, Kokura-kita-ku, Kita-kyushu City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 7517000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.41; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 660000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 57000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3491.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 869000000.0,
+    "card_appraised_value_raw": "¥869.00 million (S\\$7.50 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Sakurakan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "126-2 Nakadomari, Nishi-nagano, Kakunodate-machi, Senboku City, Akita Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8313000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 725000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 70000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5044.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 961000000.0,
+    "card_appraised_value_raw": "¥961.00 million (S\\$8.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Nogatakan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "442-1 Yamabe-Oaza, Nogata City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 7223000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 131,
+    "purchase_price": 631000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 57000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3147.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 835000000.0,
+    "card_appraised_value_raw": "¥835.00 million (S\\$7.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Shinmojikan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1543-1 Oaza Hata, Moji-ku, Kita-kyushu City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 9601000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.41; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 848000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 75000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5094.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1110000000.0,
+    "card_appraised_value_raw": "¥1,110.00 million (S\\$9.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Obatake Nibankan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Short stay/Day care home",
+    "address": "1-6-26 Obatake, Kokura-kita-ku, Kita-kyushu City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 3607000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.41; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 276000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 27950000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1538.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 417000000.0,
+    "card_appraised_value_raw": "¥417.00 million (S\\$3.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Fukufukukan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1-24-4 Fukuyanagi, Tobata-ku, Kita-kyushu City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6315000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 564000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2011",
+    "gross_revenue": 50000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3074.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 730000000.0,
+    "card_appraised_value_raw": "¥730.00 million (S\\$6.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "As Heim Nakaurawa",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-21-9 Nishibori, Sakura-ku, Saitama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 9775000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "As Partners Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 812000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 60000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2712.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1130000000.0,
+    "card_appraised_value_raw": "¥1,130.00 million (S\\$9.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Hanadama no Ie Nakahara",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5-14-25 Shimo Kotanaka Nakahara-ku, Kawasaki, Kanagawa Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8045000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Japan Amenity Life Association",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 628000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2010",
+    "gross_revenue": 52800000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1847.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 930000000.0,
+    "card_appraised_value_raw": "¥930.00 million (S\\$8.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Higashikagurakan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-351-4 Kitaichijo Higashi, Higashikagura-cho Kamikawa-gun, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 9082000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 866000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2012",
+    "gross_revenue": 81090000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5467.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1050000000.0,
+    "card_appraised_value_raw": "¥1,050.00 million (S\\$9.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Happy Life Toyonaka",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "15-14, Kozushima 2-chome, Toyonaka City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 4827000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Nihon Kaigo Iryo Center",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 445000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 35280000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1254.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 558000000.0,
+    "card_appraised_value_raw": "¥558.00 million (S\\$4.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "More Habitation Kobe Kitano",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "13-7, Kanocho 2-chome, Chuo-ku, Kobe City, Hyogo Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 14359000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. AlphaBetta",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 1310000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 99600000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3964.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1660000000.0,
+    "card_appraised_value_raw": "¥1,660.00 million (S\\$14.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Seaside Toba",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "300-73 Aza Hamabe, Ohamacho Toba City, Mie Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 13926000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 133,
+    "purchase_price": 1380000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 110400000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 7360.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1610000000.0,
+    "card_appraised_value_raw": "¥1,610.00 million (S\\$13.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Niihamakan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "Otsu 11-77, Higashida 3-chome, Niihama City, Ehime Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 13148000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 1300000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 104280000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 7382.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1520000000.0,
+    "card_appraised_value_raw": "¥1,520.00 million (S\\$13.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Mekari Nibankan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2720-2, Okubo 1-chome, Mojiku, Kitakyushushi City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 3097000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 310000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 24800000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2133.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 358000000.0,
+    "card_appraised_value_raw": "¥358.00 million (S\\$3.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Kiyotakan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "16-7, Kiyota 3-chome, Yahatahigashi-ku, Kitakyushushi, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 9082000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 860000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 72060000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5661.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1050000000.0,
+    "card_appraised_value_raw": "¥1,050.00 million (S\\$9.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sawayaka Minatokan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5155-3 Jyusanbancho, Furumachidori, Chuo-ku, Niigata City, Niigata Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6678000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Sawayaka Club",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 650000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2013",
+    "gross_revenue": 52000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2246.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 772000000.0,
+    "card_appraised_value_raw": "¥772.00 million (S\\$6.70 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Maison des Centenaire Hannan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "8-423-29 Momonokidai, Hannan City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 16867000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Miyako Enterprise Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 1600000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2014",
+    "gross_revenue": 125560000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4331.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1950000000.0,
+    "card_appraised_value_raw": "¥1,950.00 million (S\\$16.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Maison des Centenaire Ohhama",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "3-11-18 Ohhama Kitamachi Sakai-Ku, Sakai City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6929000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Miyako Enterprise Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 600000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2014",
+    "gross_revenue": 49000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1717.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 801000000.0,
+    "card_appraised_value_raw": "¥801.00 million (S\\$6.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sunhill Miyako",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Extended stay lodging facility",
+    "address": "8-423-30 Momonokidai, Hannan City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8339000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Miyako Enterprise Co., Ltd",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 800000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2014",
+    "gross_revenue": 67000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4299.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 964000000.0,
+    "card_appraised_value_raw": "¥964.00 million (S\\$8.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Habitation Jyosui",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "4-1-26 Yakuin, Chuo-ku Fukuoka City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 31745000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Habitation",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 3535000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2014",
+    "gross_revenue": 245000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 6076.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 3670000000.0,
+    "card_appraised_value_raw": "¥3,670.00 million (S\\$31.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Ocean View Shonan Arasaki",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5-25-1 Nagai, Yokosuka City, Kanagawa Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 18425000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Japan Amenity Life Association",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 1700000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 132990000.00000001,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5304.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 2130000000.0,
+    "card_appraised_value_raw": "¥2,130.00 million (S\\$18.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Habitation Hakata I, II and III",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "23-10 Kanenokuma 3-chome Hakata-ku, Fukuoka City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 36243000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Habitation",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 3705000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 276000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 21415.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 4190000000.0,
+    "card_appraised_value_raw": "¥4,190.00 million (S\\$36.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Excellent Tenpaku Garden Hills",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "141-3 Tsuchihara 2-chome, Tenpaku-ku, Nagoya City, Aichi Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 16003000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Kokanomori",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 135,
+    "purchase_price": 1645000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 108000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4000.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1850000000.0,
+    "card_appraised_value_raw": "¥1,850.00 million (S\\$16.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Liverari Shiroishi Hana Ichigo-kan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1-18 Kitago 3jyo, Shiraishi-ku, Sapporo City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 3218000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Living Platform Care",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "purchase_price": 298000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 24000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1051.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 372000000.0,
+    "card_appraised_value_raw": "¥372.00 million (S\\$3.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Liverari Shiroishi Hana Nigo-kan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5-10 Kitago 2jyo 5-chome, Shiraishi-ku, Sapporo City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 1618000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Living Platform Care",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "purchase_price": 152000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 12000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 747.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 187000000.0,
+    "card_appraised_value_raw": "¥187.00 million (S\\$1.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sunny Spot Misono",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Group home with care service",
+    "address": "4-24 Misono 7jyo 3-chome, Toyohira-ku, Sapporo City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 1851000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Challenge Platform",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "purchase_price": 177000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2015",
+    "gross_revenue": 14400000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 724.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 214000000.0,
+    "card_appraised_value_raw": "¥214.00 million (S\\$1.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Silver Heights Hitsujigaoka (Ichibankan and Nibankan)",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "6-1 Fukuzumi, 3jyo 3-chome, Toyohira-ku, Sapporo City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11418000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Silver Heights Sapporo",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "purchase_price": 1100000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2016",
+    "gross_revenue": 88770000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 9013.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1320000000.0,
+    "card_appraised_value_raw": "¥1,320.00 million (S\\$11.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Live In Wakaba (formerly known as Habitation Wakaba)",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1763-12 Oguramachi Wakabaku, Chiba City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 19722000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "major_tenants": [
+      {
+        "name": "K.K. Taijyu",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed. Live In Wakaba card p.53 matched to audited row carrying former-name parenthetical.",
+    "occupancy_rate": 100.0,
+    "gross_revenue": 129600000.0,
+    "gross_revenue_currency": "JPY",
+    "purchase_price": 1766000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2017",
+    "gfa": 5431.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 2280000000.0,
+    "card_appraised_value_raw": "¥2,280.00 million (S$19.70 million)"
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Habitation Hakusho",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "301 Hijikai, Yachimata City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 14705000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Hakusho",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 137,
+    "purchase_price": 1607000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2017",
+    "gross_revenue": 119680000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 6959.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1700000000.0,
+    "card_appraised_value_raw": "¥1,700.00 million (S\\$14.70 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Group Home Hakusho",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Group home with care service",
+    "address": "1345-16 Toyoma, Yachimata City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 943000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Hakusho",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 105000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2017",
+    "gross_revenue": 8000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 416.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 109000000.0,
+    "card_appraised_value_raw": "¥109.00 million (S\\$0.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Kikuya Warakuen",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "1404-10 Nishitoyoi, Oaza, Kudamatsu City, Yamaguchi Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6998000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. M.C.S.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 781000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2017",
+    "gross_revenue": 60640000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3641.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 809000000.0,
+    "card_appraised_value_raw": "¥809.00 million (S\\$7.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Sanko",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "4-16-16 Mizuhomachi, Kudamatsu City, Yamaguchi Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 4498000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. M.C.S.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 500000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2017",
+    "gross_revenue": 38640000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2018.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 520000000.0,
+    "card_appraised_value_raw": "¥520.00 million (S\\$4.50 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Konosu Nursing Home Kyoseien",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing rehabilitation facility",
+    "address": "3409-1 Shimoya, Konosu, Saitama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 15397000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Iryouhoujin Shadan Kouaikai",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 1500000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2018",
+    "gross_revenue": 112000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5634.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1780000000.0,
+    "card_appraised_value_raw": "¥1,780.00 million (S\\$15.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Haru no Sato",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing rehabilitation facility",
+    "address": "1-2-23 Hajima, Shunan, Yamaguchi Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11591000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Medical Corporation Shojin-kai",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.44; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 1200000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2019",
+    "gross_revenue": 91800000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3568.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1340000000.0,
+    "card_appraised_value_raw": "¥1,340.00 million (S\\$11.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Hodaka no Niwa",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing rehabilitation facility",
+    "address": "205 Hitoegane, Okuhida Onsengo, Takayama, Gifu Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11937000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Medical Corporation Kenko Chouju-kai",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 1300000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2019",
+    "gross_revenue": 100750000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 6117.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1380000000.0,
+    "card_appraised_value_raw": "¥1,380.00 million (S\\$11.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Orange no Sato",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing rehabilitation facility",
+    "address": "522 Yoshiwara, Aridagawa-machi, Arida, Wakayama Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 10207000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Medical Corporation Kenko Chouju-kai",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Leasehold",
+    "lease_term_years": 99.0,
+    "effective_date": "2019-11-01",
+    "lease_expiry_date": "2118-10-31",
+    "tenure_raw": "Leasehold with 99 years from 1 November 2019",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 140,
+    "purchase_price": 1200000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2019",
+    "gross_revenue": 87600000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 4005.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1180000000.0,
+    "card_appraised_value_raw": "¥1,180.00 million (S\\$10.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Habitation Kamagaya",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "12-1 Shin-Kamagaya 4-Chome, Kamagaya City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 16262000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Fuyo Shoji K.K.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 1650000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2020",
+    "gross_revenue": 115500000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 5118.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1880000000.0,
+    "card_appraised_value_raw": "¥1,880.00 million (S\\$16.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Will-Mark Kashiihama",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "2-1 Kashiihama 3-chome, Fukuoka City, Fukuoka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 27680000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Habitation",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.42; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 3000000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2021",
+    "gross_revenue": 195000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 14169.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 3200000000.0,
+    "card_appraised_value_raw": "¥3,200.00 million (S\\$27.70 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Crea Adachi",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "19-10 Iriya 2-chome Adachi City, Tokyo Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11937000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Genki na Kaigo",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.51; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 1100000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2021",
+    "gross_revenue": 71500000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2499.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1380000000.0,
+    "card_appraised_value_raw": "¥1,380.00 million (S\\$11.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Habitation Kisarazu Ichibankan",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "11-1, Kaneda Higashi 4-chome, Kisarazu City, Chiba, Japan",
+    "ownership": 100.0,
+    "market_valuation": 31486000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Fuyo Shoji K.K.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 3200000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2021",
+    "gross_revenue": 197200000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 7065.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 3640000000.0,
+    "card_appraised_value_raw": "¥3,640.00 million (S\\$31.50 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Blue Rise Nopporo",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "39-1 Suehirocho, Nopporo, Ebetsu City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6963000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Blue Care",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 699000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2022",
+    "gross_revenue": 51910000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2663.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 805000000.0,
+    "card_appraised_value_raw": "¥805.00 million (S\\$7.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Blue Terrace Kagura",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "9-2-27 Kagura 2jyo, Asahikawa City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11245000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Blue Care",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 1180000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2022",
+    "gross_revenue": 79200000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3788.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1300000000.0,
+    "card_appraised_value_raw": "¥1,300.00 million (S\\$11.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Blue Terrace Taisetsu",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "506-16 Taisetsudori 7-chome, Asahikawa City, Hokkaido Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 6600000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. Blue Care",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.55; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 679000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2022",
+    "gross_revenue": 49960000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2608.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 763000000.0,
+    "card_appraised_value_raw": "¥763.00 million (S\\$6.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Assisted Living Edogawa",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "3-27-17 Nishi-Ichinoe, Edogawa-ku, Tokyo Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 16262000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Zen Wellness Co., Ltd.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 1700000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2022",
+    "gross_revenue": 92880000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2977.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1880000000.0,
+    "card_appraised_value_raw": "¥1,880.00 million (S\\$16.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Assisted Living Toke",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "299-4 Tokecho, Midori-ku, Chiba City, Chiba Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 11072000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "Zen Wellness Co., Ltd.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.53; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 1180000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2022",
+    "gross_revenue": 72000000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 2824.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1280000000.0,
+    "card_appraised_value_raw": "¥1,280.00 million (S\\$11.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "HIBISU Shirokita Koendori",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "4-30-18 Akagawa, Asahi-ku, Osaka City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8079000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. BISCUSS",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.47; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 832000000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2023",
+    "gross_revenue": 43680000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1447.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 934000000.0,
+    "card_appraised_value_raw": "¥934.00 million (S\\$8.10 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "HIBISU Suita",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "9-19 Higashiomitabi-cho, Suita City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 8996000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. BISCUSS",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 934400000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2023",
+    "gross_revenue": 49060000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 1534.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 1040000000.0,
+    "card_appraised_value_raw": "¥1,040.00 million (S\\$9.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "HIBISU Higashi Sumiyoshi",
+    "country": "Japan",
+    "category": "Specialized",
+    "category_raw": "Nursing home with care service",
+    "address": "5 Chome, 11-3 Sunjiyata, Higashisumiyoshi Ward, Osaka City, Osaka Prefecture, Japan",
+    "ownership": 100.0,
+    "market_valuation": 23268000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "K.K. BISCUSS",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.49; not actual physical occupancy."
+      },
+      {
+        "type": "fy2024_acquisition",
+        "scope": "property",
+        "note": "Completed 7 Aug 2024; gross revenue 2024 is post-acquisition contribution per card footnote."
+      }
+    ],
+    "source_page": 142,
+    "purchase_price": 2446200000.0,
+    "purchase_price_currency": "JPY",
+    "purchase_date": "2024",
+    "gross_revenue": 29750000.0,
+    "gross_revenue_currency": "JPY",
+    "gfa": 3857.0,
+    "area_unit": "sqm",
+    "original_currency": "JPY",
+    "original_value": 2690000000.0,
+    "card_appraised_value_raw": "¥2,690.00 million (S\\$23.30 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence La Boétie & Résidence Montaigne",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home with senior home apartments",
+    "address": "39-41 avenue de la Croix, Le Taillan-Médoc - 33320 France",
+    "ownership": 100.0,
+    "market_valuation": 21757000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 14960000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 30000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 5942.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 15390000.0,
+    "card_appraised_value_raw": "€15.39 million (S\\$21.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence du Pyla-sur-Mer",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "7 allée de la Chapelle, La Teste-de-Buch - 33115 France",
+    "ownership": 100.0,
+    "market_valuation": 25758000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 17530000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 30000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 4111.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 18220000.0,
+    "card_appraised_value_raw": "€18.22 million (S\\$25.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence du Champ de Courses",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "80 avenue du Casino, La Tour-de-Salvagny - 69890 France",
+    "ownership": 100.0,
+    "market_valuation": 23043000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.56; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 15710000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 30000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 4380.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 16300000.0,
+    "card_appraised_value_raw": "€16.30 million (S\\$23.00 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence La Barillière",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "57 rue de l'Oppidum, Saint-Dèsir - 14100 France",
+    "ownership": 100.0,
+    "market_valuation": 18767000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 12830000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 30000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3795.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 13270000.0,
+    "card_appraised_value_raw": "€13.27 million (S\\$18.80 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Les Jardins de Creney",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "3 rue de l'Aulne, Creney-près-Troyes - 10150 France",
+    "ownership": 100.0,
+    "market_valuation": 8673000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.56; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 5940000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 10000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3063.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 6130000.0,
+    "card_appraised_value_raw": "€6.13 million (S\\$8.70 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence d'Automne",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "11 avenue du Docteur Schweitzer, Champs-sur-Yonne - 89290 France",
+    "ownership": 100.0,
+    "market_valuation": 8447000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.56; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 5660000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 10000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 2981.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 5970000.0,
+    "card_appraised_value_raw": "€5.97 million (S\\$8.40 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Le Clos Rousset",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "Chemin Rousset, Saint-Marcel-lès-Valence - 26320 France",
+    "ownership": 100.0,
+    "market_valuation": 11713000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 7970000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 20000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3952.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 8279999.999999999,
+    "card_appraised_value_raw": "€8.28 million (S\\$11.70 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Les Jardins de Saintonge",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "1 rue des Brunettes, Saint-Genis-de-Saintonge - 17240 France",
+    "ownership": 100.0,
+    "market_valuation": 12631000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 8600000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 20000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3789.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 8930000.0,
+    "card_appraised_value_raw": "€8.93 million (S\\$12.60 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Résidence Ducale",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "7 rue des Aliziers, Villers-Semeuse - 08000 France",
+    "ownership": 100.0,
+    "market_valuation": 9168000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.56; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 6230000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 10000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3886.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 6480000.0,
+    "card_appraised_value_raw": "€6.48 million (S\\$9.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "Les Cinq Sens",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "Carière dis Amourous, Garons - 30128 France",
+    "ownership": 100.0,
+    "market_valuation": 11911000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 8090000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 20000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 2803.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 8420000.0,
+    "card_appraised_value_raw": "€8.42 million (S\\$11.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "La Demeure du Bois Ardent",
+    "country": "France",
+    "category": "Specialized",
+    "category_raw": "Nursing home",
+    "address": "780 rue de l'Exode, Saint-Lô - 50000 France",
+    "ownership": 100.0,
+    "market_valuation": 11239000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 100.0,
+    "major_tenants": [
+      {
+        "name": "DomusVi",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 100% from Our Portfolio card p.58; not actual physical occupancy."
+      },
+      {
+        "type": "sale_and_leaseback_master_lease",
+        "scope": "property",
+        "note": "France portfolio leased to DomusVi special purpose vehicles under 12-year leases with indexed rent escalations; acquisition completed 20 Dec 2024."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 7710000.0,
+    "purchase_price_currency": "EUR",
+    "purchase_date": "2024",
+    "gross_revenue": 20000.0,
+    "gross_revenue_currency": "EUR",
+    "gfa": 3931.0,
+    "area_unit": "sqm",
+    "original_currency": "EUR",
+    "original_value": 7950000.0,
+    "card_appraised_value_raw": "€7.95 million (S\\$11.20 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "property_name": "MOB Specialist Clinics, Kuala Lumpur",
+    "country": "Malaysia",
+    "category": "Specialized",
+    "category_raw": "Medical Centre",
+    "address": "282, Jalan Ampang 50450 Kuala Lumpur, Malaysia",
+    "ownership": 100.0,
+    "market_valuation": 5860000.0,
+    "valuation_date": "2024-12-31",
+    "currency": "SGD",
+    "market_valuation_currency": "SGD",
+    "occupancy_rate": 31.0,
+    "major_tenants": [
+      {
+        "name": "Excel Event Networks Sdn. Bhd.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      },
+      {
+        "name": "Gleneagles Hospital Kuala Lumpur (A Branch of Pantai Medical Centre Sdn. Bhd.)",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      },
+      {
+        "name": "KL Stroke & Neuro Clinic Sdn. Bhd.",
+        "industry": "Healthcare & Wellness",
+        "pct": null
+      }
+    ],
+    "land_tenure": "Freehold",
+    "tenure_raw": "Freehold",
+    "status": "active",
+    "flags": [
+      {
+        "type": "committed_occupancy",
+        "scope": "property",
+        "note": "Committed occupancy 31% from Our Portfolio card p.40; not actual physical occupancy."
+      }
+    ],
+    "source_page": 143,
+    "purchase_price": 16000000.0,
+    "purchase_price_currency": "MYR",
+    "purchase_date": "2012",
+    "gross_revenue": 660000.0,
+    "gross_revenue_currency": "MYR",
+    "gfa": 2444.0,
+    "area_unit": "sqm",
+    "original_currency": "MYR",
+    "original_value": 19330000.0,
+    "card_appraised_value_raw": "RM19.33 million (S\\$5.90 million)",
+    "_recovery_note": "market_valuation from audited Portfolio Statement pp.129-143 ($'000 scaled x1000); operating/card metrics from Our Portfolio pp.39-59 when disclosed."
+  }
+]

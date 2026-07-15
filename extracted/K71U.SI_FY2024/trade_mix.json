@@ -1,0 +1,101 @@
+[
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Banking, insurance and financial services",
+    "pct": 34.9,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "TMT",
+    "pct": 14.0,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "Government agency",
+    "pct": 13.3,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Energy, natural resources, shipping and marine",
+    "pct": 7.6,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing and distribution",
+    "pct": 7.1,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Legal",
+    "pct": 7.0,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real estate and property services",
+    "pct": 6.5,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Accounting and consultancy services",
+    "pct": 4.9,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail and F&B",
+    "pct": 1.9,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Services",
+    "pct": 1.9,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  },
+  {
+    "symbol": "K71U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 0.9,
+    "pct_basis": "committed_gross_rent",
+    "source_page": 42
+  }
+]

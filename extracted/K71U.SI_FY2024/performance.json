@@ -1,0 +1,48 @@
+{
+  "symbol": "K71U.SI",
+  "financial_year": 2024,
+  "portfolio_value": 9531621000,
+  "properties_location": "Singapore, Australia, South Korea, Japan",
+  "gross_revenue": 261580000,
+  "net_property_income": 201913000,
+  "net_distributable_income": 214547000,
+  "distribution_paid": 214547000,
+  "adjusted_distributable_income": null,
+  "distribution_basis": "full_payout_no_retention_line",
+  "dpu": 5.6,
+  "distribution_record": [
+    {
+      "period": "1/1/2024 to 30/6/2024",
+      "dpu": 2.8,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1/7/2024 to 31/12/2024",
+      "dpu": 2.8,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 79404,
+  "number_of_shareholder_units": 3844046000,
+  "aggregate_leverage": 41.2,
+  "interest_coverage_ratio": 2.5,
+  "cost_of_debt": 3.4,
+  "weighted_avg_debt_maturity": 2.5,
+  "nav_per_unit": 1.27,
+  "wale": 4.7,
+  "portfolio_occupancy": 97.9,
+  "dpu_period_months": 12,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "source_page": 7,
+  "flags": [
+    "FYE 31 Dec 2024. Office, heavy JV/associate structure: 'Property income' 261,580 (Group revenue); associates (2,727,140) & JVs (393,996) equity-accounted, share-of-results in adjustments (86,268 assoc + 23,735 JV). gross_revenue=property income 261,580. portfolio_value=9,643,422,000 = value of deposited properties (headline ~$9.5b). NDI=214,547 = FY-generated distributable income ('$214.5m', DPU 5.60c; Distribution Statement subtotal excl opening 109,932); mirrors FY2025 corrected FY-generated basis. distribution_paid=214,547 = NDI (Note B 'Total Unitholders' distribution incl capital gains' = 216,608; distribution_paid semantics pending review, same as FY2025). Includes $20m Anniversary (capital gains) Distribution. nav_per_unit 1.27 (adjusted 1.24). wale 4.7y portfolio (top-10 9.0y). weighted_avg_debt_maturity not captured (all-in rate 3.4%). number_of_unitholders 79,404 as at 27 Feb 2025.",
+    "round2 fix: portfolio_value set to audited portfolio-statement total 9,531,621,000 (was 9,643,422,000, a rounded headline/AUM/deposited-property figure); now consistent with _notes reconciliation and Sigma properties.market_valuation.",
+    "round2 fix: weighted_avg_debt_maturity=2.5 years (weighted average term to maturity, p56/p57) — was a false null. distribution_basis -> full_payout_no_retention_line (distribution_paid=NDI=214,547, zero net retention; in-year cash 216,608 is a different concept)."
+  ],
+  "distributable_income_opening": 109932000,
+  "distribution_cash_paid": 216608000,
+  "distributable_income_closing": 107871000
+}

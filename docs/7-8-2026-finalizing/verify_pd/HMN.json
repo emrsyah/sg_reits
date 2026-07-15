@@ -1,0 +1,632 @@
+[
+ {
+  "property_name": "Actus Hakata V-Tower",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Alpha Square Kita 15 jo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Ascott Jakarta",
+  "current_purchase_date": null,
+  "country": "Indonesia",
+  "source_page": 131
+ },
+ {
+  "property_name": "Ascott Kuningan Jakarta",
+  "current_purchase_date": null,
+  "country": "Indonesia",
+  "source_page": 131
+ },
+ {
+  "property_name": "Ascott Makati",
+  "current_purchase_date": null,
+  "country": "Philippines",
+  "source_page": 137
+ },
+ {
+  "property_name": "Ascott Orchard Singapore",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 137
+ },
+ {
+  "property_name": "Big Palace Kita 14 jo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Big Palace Minami 5 jo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Chisun Budget Kanazawa Ekimae",
+  "current_purchase_date": "2025-01",
+  "country": "Japan",
+  "source_page": 132
+ },
+ {
+  "property_name": "Citadines Antigone Montpellier",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines Arnulfpark Munich",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 131
+ },
+ {
+  "property_name": "Citadines Austerlitz Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines Barbican London",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 138
+ },
+ {
+  "property_name": "Citadines Central Shinjuku Tokyo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 132
+ },
+ {
+  "property_name": "Citadines City Centre Frankfurt",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 131
+ },
+ {
+  "property_name": "Citadines Connect Sydney Airport",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Citadines Holborn - Covent Garden London",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 138
+ },
+ {
+  "property_name": "Citadines Kurfurstendamm Berlin",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 131
+ },
+ {
+  "property_name": "Citadines Les Halles Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines Maine Montparnasse Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines Michel Hamburg",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 131
+ },
+ {
+  "property_name": "Citadines Montmartre Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines on Bourke Melbourne",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Citadines Place d'Italie Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 129
+ },
+ {
+  "property_name": "Citadines Presqu'ile Lyon",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "Citadines Ramblas Barcelona",
+  "current_purchase_date": null,
+  "country": "Spain",
+  "source_page": 138
+ },
+ {
+  "property_name": "Citadines Republique Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "Citadines Sainte-Catherine Brussels",
+  "current_purchase_date": null,
+  "country": "Belgium",
+  "source_page": 128
+ },
+ {
+  "property_name": "Citadines Shinjuku Tokyo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 132
+ },
+ {
+  "property_name": "Citadines South Kensington London",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 138
+ },
+ {
+  "property_name": "Citadines St Georges Terrace Perth",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Citadines Toison d'Or Brussels",
+  "current_purchase_date": null,
+  "country": "Belgium",
+  "source_page": 128
+ },
+ {
+  "property_name": "Citadines Tour Eiffel Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "Citadines Trafalgar Square London",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 138
+ },
+ {
+  "property_name": "Citadines Trocadero Paris",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "Citadines Xinghai Suzhou",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 128
+ },
+ {
+  "property_name": "Citadines Zhuankou Wuhan",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 128
+ },
+ {
+  "property_name": "City Court Kita 1 jo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Element New York Times Square West",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Eslead College Gate Kindaimae",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Eslead Residence Bentencho Grande",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 133
+ },
+ {
+  "property_name": "Eslead Residence Osaka Fukushima East",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "Eslead Residence Umeda Grande",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "Granfore Hakata Waterfront",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "Gravis Court Kakomachi",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "Gravis Court Kokutaiji",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "Gravis Court Nishiharaekimae",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "House Saison Shijo-Dori",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 134
+ },
+ {
+  "property_name": "ibis Ambassador Seoul Insadong",
+  "current_purchase_date": null,
+  "country": "South Korea",
+  "source_page": 142
+ },
+ {
+  "property_name": "ibis Styles Tokyo Ginza",
+  "current_purchase_date": "2025-01",
+  "country": "Japan",
+  "source_page": 132
+ },
+ {
+  "property_name": "La Clef Louvre Paris by The Crest Collection",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "La Clef Tour Eiffel Paris by The Crest Collection",
+  "current_purchase_date": null,
+  "country": "France",
+  "source_page": 130
+ },
+ {
+  "property_name": "lyf Funan Singapore",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 137
+ },
+ {
+  "property_name": "lyf one-north Singapore",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 137
+ },
+ {
+  "property_name": "Marunouchi Central Heights",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "Paloma Kent",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Paloma Raleigh",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Paloma University City",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Paloma West Midtown",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Pre de Cort Nishikyogoku",
+  "current_purchase_date": "2025-08",
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "Pregio Esaka South",
+  "current_purchase_date": "2025-08",
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "Pullman and Mercure Brisbane King George Square",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 143
+ },
+ {
+  "property_name": "Pullman and Mercure Melbourne Albert Park",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 143
+ },
+ {
+  "property_name": "Pullman Sydney Hyde Park",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 143
+ },
+ {
+  "property_name": "Quest Campbelltown",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Quest Cannon Hill",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Quest Macquarie Park",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Quest Mascot",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Quest Sydney Olympic Park",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 127
+ },
+ {
+  "property_name": "Roppongi Residences Tokyo",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "S-Residence Fukushima Luxe",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "S-Residence Gakuenzaka",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "S-Residence Hommachi Marks",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "S-Residence Midoribashi Serio",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 135
+ },
+ {
+  "property_name": "S-Residence Namba Viale",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 136
+ },
+ {
+  "property_name": "S-Residence Shukugawa",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 136
+ },
+ {
+  "property_name": "S-Residence Tanimachi 9 chome",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 136
+ },
+ {
+  "property_name": "Seven07",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 140
+ },
+ {
+  "property_name": "Sheraton Tribeca New York Hotel",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Somerset Central TD Hai Phong City",
+  "current_purchase_date": null,
+  "country": "Vietnam",
+  "source_page": 141
+ },
+ {
+  "property_name": "Somerset Chancellor Court Ho Chi Minh City",
+  "current_purchase_date": null,
+  "country": "Vietnam",
+  "source_page": 141
+ },
+ {
+  "property_name": "Somerset Grand Central Dalian",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 128
+ },
+ {
+  "property_name": "Somerset Grand Citra Jakarta",
+  "current_purchase_date": null,
+  "country": "Indonesia",
+  "source_page": 131
+ },
+ {
+  "property_name": "Somerset Grand Hanoi",
+  "current_purchase_date": null,
+  "country": "Vietnam",
+  "source_page": 141
+ },
+ {
+  "property_name": "Somerset Heping Shenyang",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 128
+ },
+ {
+  "property_name": "Somerset Ho Chi Minh City",
+  "current_purchase_date": null,
+  "country": "Vietnam",
+  "source_page": 141
+ },
+ {
+  "property_name": "Somerset Hoa Binh Hanoi",
+  "current_purchase_date": null,
+  "country": "Vietnam",
+  "source_page": 141
+ },
+ {
+  "property_name": "Somerset Kuala Lumpur",
+  "current_purchase_date": null,
+  "country": "Malaysia",
+  "source_page": 137
+ },
+ {
+  "property_name": "Somerset Liang Court Property Singapore",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 137
+ },
+ {
+  "property_name": "Somerset Millennium Makati",
+  "current_purchase_date": null,
+  "country": "Philippines",
+  "source_page": 137
+ },
+ {
+  "property_name": "Somerset Olympic Tower Tianjin",
+  "current_purchase_date": null,
+  "country": "China",
+  "source_page": 10
+ },
+ {
+  "property_name": "Sotetsu Grand Fresa Osaka-Namba",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 142
+ },
+ {
+  "property_name": "Sotetsu Grand Fresa Tokyo-Bay Ariake",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 132
+ },
+ {
+  "property_name": "Sotetsu Hotels The Splaisir Seoul Dongdaemun",
+  "current_purchase_date": null,
+  "country": "South Korea",
+  "source_page": 142
+ },
+ {
+  "property_name": "Splendide Namba West",
+  "current_purchase_date": "2025-08",
+  "country": "Japan",
+  "source_page": 136
+ },
+ {
+  "property_name": "Standard at Columbia",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 140
+ },
+ {
+  "property_name": "Sydney Central Hotel",
+  "current_purchase_date": null,
+  "country": "Australia",
+  "source_page": 143
+ },
+ {
+  "property_name": "Temple Bar Hotel Dublin by The Unlimited Collection",
+  "current_purchase_date": null,
+  "country": "Ireland",
+  "source_page": 143
+ },
+ {
+  "property_name": "Teriha Ocean Stage",
+  "current_purchase_date": null,
+  "country": "Japan",
+  "source_page": 136
+ },
+ {
+  "property_name": "The Cavendish London",
+  "current_purchase_date": null,
+  "country": "United Kingdom",
+  "source_page": 138
+ },
+ {
+  "property_name": "The Madison Hamburg",
+  "current_purchase_date": null,
+  "country": "Germany",
+  "source_page": 131
+ },
+ {
+  "property_name": "The Robertson House by The Crest Collection",
+  "current_purchase_date": null,
+  "country": "Singapore",
+  "source_page": 138
+ },
+ {
+  "property_name": "Uncommon Wilmington",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 140
+ },
+ {
+  "property_name": "voco Times Square South",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 139
+ },
+ {
+  "property_name": "Wildwood Lubbock",
+  "current_purchase_date": null,
+  "country": "USA",
+  "source_page": 140
+ }
+]

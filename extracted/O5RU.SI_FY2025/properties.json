@@ -23,7 +23,9 @@
     "tenure_raw": "35 years (incl. options to renew); land lease expiry 15 Jan 2041",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -49,7 +51,9 @@
     "tenure_raw": "45 years (incl. options to renew); land lease expiry 15 Oct 2049",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2010-10-15",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -75,7 +79,9 @@
     "tenure_raw": "92 years and 8 months (incl. options to renew); land lease expiry 31 May 2068",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -101,7 +107,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 8 Jan 2055",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2011-02-21",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -134,7 +142,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2020-10-09",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -160,7 +170,9 @@
     "tenure_raw": "52 years (incl. options to renew); land lease expiry 31 May 2059",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2009-11-30",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -186,7 +198,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 31 Dec 2055",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2010-01-11",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -219,7 +233,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -252,7 +268,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2016-11-16",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -285,7 +303,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2010-01-11",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -318,7 +338,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-12-17",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -344,7 +366,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 30 Jun 2043",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2008-01-21",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -370,7 +394,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 15 May 2055",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2010-01-11",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -396,7 +422,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 30 Jun 2055",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -422,7 +450,9 @@
     "tenure_raw": "59 years and 1.5 months (incl. options to renew); land lease expiry 13 Nov 2051",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -448,7 +478,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 30 Jun 2054",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2008-03-10",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -474,7 +506,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 31 Mar 2055",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-12-17",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -500,7 +534,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 15 Jun 2056",
     "status": "active",
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -533,7 +569,9 @@
       }
     ],
     "source_page": 163,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2008-03-31",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -559,7 +597,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 31 Aug 2052",
     "status": "active",
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2008-01-21",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -592,7 +632,9 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -625,7 +667,9 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -658,7 +702,9 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2007-04-19",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -684,7 +730,9 @@
     "tenure_raw": "60 years (incl. options to renew); land lease expiry 30 Jun 2055",
     "status": "active",
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2008-01-30",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   },
   {
     "symbol": "O5RU.SI",
@@ -715,7 +763,8 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2021-11-15"
   },
   {
     "symbol": "O5RU.SI",
@@ -746,7 +795,8 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2019-07-15"
   },
   {
     "symbol": "O5RU.SI",
@@ -782,7 +832,8 @@
       }
     ],
     "source_page": 56,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2014-02-07"
   },
   {
     "symbol": "O5RU.SI",
@@ -816,6 +867,8 @@
       }
     ],
     "source_page": 165,
-    "area_unit": "sqm"
+    "area_unit": "sqm",
+    "purchase_date": "2010-01-11",
+    "lease_terms_flags": "Term is options-inclusive (AR p162 fn: 'Includes the period covered by the relevant options to renew'); base head-lease term not separately disclosed."
   }
 ]

@@ -1,0 +1,59 @@
+{
+  "symbol": "TS0U.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {
+      "value": 5524617000,
+      "page": 106,
+      "note": "Units in issue and to be issued at 31 Dec 2025 = 5,524,617'000 (Statement of Financial Position p106, Note 15)"
+    },
+    "dpu_period_months": {
+      "value": 12,
+      "page": 17,
+      "note": "FY2025 = 1 Jan-31 Dec 2025 (full year); DPU 2.23 Singapore cents"
+    }
+  },
+  "properties": [
+    {
+      "property_name": "One Raffles Place",
+      "purchase_date": "2015",
+      "page": 44,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2015' (year only disclosed)"
+    },
+    {
+      "property_name": "OUE Downtown Office",
+      "purchase_date": "2018",
+      "page": 46,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2018' (year only disclosed)"
+    },
+    {
+      "property_name": "Mandarin Gallery",
+      "purchase_date": "2019",
+      "page": 48,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2019' (acquired via OUE H-Trust merger; year only)"
+    },
+    {
+      "property_name": "Hilton Singapore Orchard",
+      "purchase_date": "2019",
+      "page": 49,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2019' (year only disclosed)"
+    },
+    {
+      "property_name": "Crowne Plaza Changi Airport",
+      "purchase_date": "2019",
+      "page": 52,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2019' (year only disclosed)"
+    },
+    {
+      "property_name": "OUE Bayfront",
+      "purchase_date": "2014",
+      "page": 42,
+      "note": "Portfolio Overview: 'Purchase Consideration in 2014' (year only disclosed)"
+    }
+  ],
+  "summary": {
+    "n_properties": 6,
+    "purchase_date_filled": 6,
+    "purchase_date_null": 0
+  }
+}

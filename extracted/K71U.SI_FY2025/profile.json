@@ -1,21 +1,29 @@
 {
   "symbol": "K71U.SI",
   "sub_sector": "Office",
-  "management": [
-    {"role": "reit_manager", "company_name": "Keppel REIT Management Limited"},
-    {"role": "trustee", "company_name": "HSBC Institutional Trust Services (Singapore) Limited"},
-    {"role": "sponsor", "company_name": "Keppel Ltd."},
-    {"role": "property_manager", "company_name": "Keppel Real Estate Services Pte. Ltd."},
-    {"role": "property_manager", "company_name": "Raffles Quay Asset Management Pte. Ltd."},
-    {"role": "property_manager", "company_name": "Mirvac Real Estate Pty Limited"},
-    {"role": "property_manager", "company_name": "Jones Lang LaSalle (NSW) Pty Limited"},
-    {"role": "property_manager", "company_name": "MA Real Estate Services Pty Ltd"},
-    {"role": "property_manager", "company_name": "GPT Property Management Pty Limited"},
-    {"role": "property_manager", "company_name": "Jones Lang LaSalle (VIC) Pty Ltd"},
-    {"role": "property_manager", "company_name": "Knight Frank Australia Pty Ltd"},
-    {"role": "property_manager", "company_name": "CBRE Korea Co., Ltd."},
-    {"role": "property_manager", "company_name": "Sun Frontier Fudousan Co., Ltd."}
-  ],
+  "management": {
+    "reit_manager": [
+      "Keppel REIT Management Limited"
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "sponsor": [
+      "Keppel Ltd."
+    ],
+    "property_manager": [
+      "Keppel Real Estate Services Pte. Ltd.",
+      "Raffles Quay Asset Management Pte. Ltd.",
+      "Mirvac Real Estate Pty Limited",
+      "Jones Lang LaSalle (NSW) Pty Limited",
+      "MA Real Estate Services Pty Ltd",
+      "GPT Property Management Pty Limited",
+      "Jones Lang LaSalle (VIC) Pty Ltd",
+      "Knight Frank Australia Pty Ltd",
+      "CBRE Korea Co., Ltd.",
+      "Sun Frontier Fudousan Co., Ltd."
+    ]
+  },
   "income_model": "conventional",
   "source_page": 11
 }

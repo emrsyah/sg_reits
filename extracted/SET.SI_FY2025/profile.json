@@ -1,13 +1,21 @@
 {
   "symbol": "SET.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "reit_manager", "company_name": "Stoneweg EREIT Management Pte. Ltd."},
-    {"role": "reit_manager", "company_name": "Stoneweg EBT Management Pte. Ltd. (BT Trustee-Manager)"},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "property_manager", "company_name": "Stoneweg EU Limited"},
-    {"role": "sponsor", "company_name": "SWI Group"}
-  ],
+  "management": {
+    "reit_manager": [
+      "Stoneweg EREIT Management Pte. Ltd.",
+      "Stoneweg EBT Management Pte. Ltd. (BT Trustee-Manager)"
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "property_manager": [
+      "Stoneweg EU Limited"
+    ],
+    "sponsor": [
+      "SWI Group"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 262
 }

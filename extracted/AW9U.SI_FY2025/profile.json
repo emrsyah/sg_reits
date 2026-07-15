@@ -1,12 +1,18 @@
 {
   "symbol": "AW9U.SI",
   "sub_sector": "Healthcare",
-  "management": [
-    {"role": "reit_manager", "company_name": "First REIT Management Limited"},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "sponsor", "company_name": "OUE Healthcare Limited"},
-    {"role": "sponsor", "company_name": "OUE Limited"}
-  ],
+  "management": {
+    "reit_manager": [
+      "First REIT Management Limited"
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "OUE Healthcare Limited",
+      "OUE Limited"
+    ]
+  },
   "income_model": "mixed",
   "source_page": 19
 }

@@ -1,31 +1,21 @@
 {
   "symbol": "HMN.SI",
   "sub_sector": "Hospitality",
-  "management": [
-    {
-      "role": "reit_manager",
-      "company_name": "CapitaLand Ascott Trust Management Limited"
-    },
-    {
-      "role": "trustee",
-      "company_name": "DBS Trustee Limited"
-    },
-    {
-      "role": "trustee",
-      "company_name": "CapitaLand Ascott Business Trust Management Pte. Ltd.",
-      "_role_note": "trustee-manager of CapitaLand Ascott Business Trust (BT component of stapled trust)"
-    },
-    {
-      "role": "sponsor",
-      "company_name": "The Ascott Limited",
-      "_role_note": "Sponsor of CLAS (p16/p194: 'The Ascott Limited, in turn, is the sponsor of CLAS'); CapitaLand Investment Limited is its parent, not the sponsor"
-    },
-    {
-      "role": "operator",
-      "company_name": "The Ascott Limited",
-      "_role_note": "Sponsor-operator manages many CLAS properties under Ascott/Citadines/lyf/Quest/Somerset/The Crest Collection brands (p146); third-party operators Accor, IHG, Marriott also operate some assets"
-    }
-  ],
+  "management": {
+    "reit_manager": [
+      "CapitaLand Ascott Trust Management Limited"
+    ],
+    "trustee": [
+      "DBS Trustee Limited",
+      "CapitaLand Ascott Business Trust Management Pte. Ltd."
+    ],
+    "sponsor": [
+      "The Ascott Limited"
+    ],
+    "operator": [
+      "The Ascott Limited"
+    ]
+  },
   "income_model": "mixed",
   "source_page": 296
 }

@@ -9,41 +9,85 @@
     "gross_income": 385301000.0,
     "operating_expense": 57342000.0,
     "operating_income": 327959000.0,
-    "ebit": 545397000.0,
-    "ebitda": 566420000.0,
+    "ebit": 327959000.0,
+    "ebitda": 453608000.0,
     "pretax_income": 444378000.0,
     "income_taxes": 111755000.0,
     "net_income": 332623000.0,
     "non_operating_income_or_loss": 116419000.0,
-    "interest_expense_non_operating": 101019000.0,
+    "interest_expense_non_operating": 107484000.0,
     "weighted_avg_shares_basic": 3817484000.0,
     "diluted_shares_outstanding": 3844271000.0,
     "net_property_sales": 99038000.0,
-    "funds_from_operation": null,
+    "funds_from_operation": 135331000.0,
     "unitholders": 310407000.0,
-    "perpetual_security_holders": 17207000.0,
-    "minorities": 5009000.0,
+    "perpetual_security_holders": -17207000.0,
+    "minorities": -5009000.0,
     "_derived": [
-      "operating_income",
+      "capital_expenditure",
+      "depreciation",
       "ebit",
       "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
       "non_operating_income_or_loss",
-      "interest_expense_non_operating"
+      "operating_income"
     ],
     "revenue_breakdown": [
-      {"category": "Gross rental income", "amount": 653809000.0, "class": "Product/Service Sales"},
-      {"category": "Hospitality income", "amount": 23129000.0, "class": "Product/Service Sales"},
-      {"category": "Hotel revenue", "amount": 154672000.0, "class": "Product/Service Sales"},
-      {"category": "Amortisation of deferred income", "amount": 425000.0, "class": "Other income"},
-      {"category": "Car park income", "amount": 5549000.0, "class": "Other income"}
+      {
+        "category": "Gross rental income",
+        "amount": 653809000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Hospitality income",
+        "amount": 23129000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Hotel revenue",
+        "amount": 154672000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Amortisation of deferred income",
+        "amount": 425000.0,
+        "class": "Other income"
+      },
+      {
+        "category": "Car park income",
+        "amount": 5549000.0,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Managers' management fees", "amount": 37404000.0, "class": "General & Admin"},
-      {"category": "Trustee's fee", "amount": 1004000.0, "class": "General & Admin"},
-      {"category": "Professional fees", "amount": 5847000.0, "class": "General & Admin"},
-      {"category": "Audit fees", "amount": 3773000.0, "class": "General & Admin"},
-      {"category": "Other operating expenses", "amount": 9314000.0, "class": "Other expenses"}
-    ]
+      {
+        "category": "Managers' management fees",
+        "amount": 37404000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 1004000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Professional fees",
+        "amount": 5847000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Audit fees",
+        "amount": 3773000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other operating expenses",
+        "amount": 9314000.0,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": -98254000
   },
   "balance_sheet_metrics": {
     "total_asset": 8947353000.0,
@@ -60,8 +104,8 @@
     "investing_cash_flow": -65887000.0,
     "financing_cash_flow": -310683000.0,
     "net_cash_flow": -21018000.0,
-    "free_cash_flow": null,
-    "capital_expenditure": -108518000.0
+    "free_cash_flow": 80958000.0,
+    "capital_expenditure": 274594000.0
   },
   "employee_breakdown": {
     "total_employee": null,
@@ -70,24 +114,132 @@
     "others_employee": null
   },
   "line_items": [
-    {"statement": "revenue", "component": "gross_revenue", "amount": 837584000.0, "label_raw": "Gross revenue", "source_page": 114},
-    {"statement": "expense", "component": "direct_expenses", "amount": 452283000.0, "label_raw": "Direct expenses", "source_page": 114},
-    {"statement": "expense", "component": "depreciation_land_buildings_pm", "amount": 21023000.0, "label_raw": "Depreciation of land and buildings, plant and machinery", "source_page": 114},
-    {"statement": "expense", "component": "finance_costs", "amount": 107484000.0, "label_raw": "Finance costs", "source_page": 114},
-    {"statement": "expense", "component": "management_fee", "amount": 37404000.0, "label_raw": "Managers' management fees", "source_page": 114},
-    {"statement": "expense", "component": "trustee_fee", "amount": 1004000.0, "label_raw": "Trustee's fee", "source_page": 114},
-    {"statement": "expense", "component": "professional_fees", "amount": 5847000.0, "label_raw": "Professional fees", "source_page": 114},
-    {"statement": "expense", "component": "audit_fees", "amount": 3773000.0, "label_raw": "Audit fees", "source_page": 114},
-    {"statement": "expense", "component": "other_operating_expenses", "amount": 9314000.0, "label_raw": "Other operating expenses", "source_page": 114},
-    {"statement": "adjustment", "component": "finance_income", "amount": 6465000.0, "label_raw": "Finance income", "source_page": 114},
-    {"statement": "adjustment", "component": "other_income", "amount": 1581000.0, "label_raw": "Other income", "source_page": 114},
-    {"statement": "adjustment", "component": "foreign_exchange_gain", "amount": 39688000.0, "label_raw": "Foreign exchange gain/(loss)", "source_page": 114},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 135726000.0, "label_raw": "Net change in fair value of investment properties and investment properties under development", "source_page": 114},
-    {"statement": "adjustment", "component": "revaluation_deficit_land_buildings", "amount": -7257000.0, "label_raw": "Revaluation deficit on land and buildings", "source_page": 114},
-    {"statement": "adjustment", "component": "fair_value_change_financial_derivatives", "amount": -30213000.0, "label_raw": "Net change in fair value of financial derivatives", "source_page": 114},
-    {"statement": "adjustment", "component": "profit_from_divestments", "amount": 99038000.0, "label_raw": "Profit/(loss) from divestments", "source_page": 114},
-    {"statement": "adjustment", "component": "investment_properties_written_off", "amount": -102000.0, "label_raw": "Investment properties written off", "source_page": 114},
-    {"statement": "adjustment", "component": "income_tax_expense", "amount": -111755000.0, "label_raw": "Income tax expense", "source_page": 114}
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 837584000.0,
+      "label_raw": "Gross revenue",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "direct_expenses",
+      "amount": 452283000.0,
+      "label_raw": "Direct expenses",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "depreciation_land_buildings_pm",
+      "amount": 21023000.0,
+      "label_raw": "Depreciation of land and buildings, plant and machinery",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 107484000.0,
+      "label_raw": "Finance costs",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee",
+      "amount": 37404000.0,
+      "label_raw": "Managers' management fees",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 1004000.0,
+      "label_raw": "Trustee's fee",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "professional_fees",
+      "amount": 5847000.0,
+      "label_raw": "Professional fees",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "audit_fees",
+      "amount": 3773000.0,
+      "label_raw": "Audit fees",
+      "source_page": 114
+    },
+    {
+      "statement": "expense",
+      "component": "other_operating_expenses",
+      "amount": 9314000.0,
+      "label_raw": "Other operating expenses",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 6465000.0,
+      "label_raw": "Finance income",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "other_income",
+      "amount": 1581000.0,
+      "label_raw": "Other income",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "foreign_exchange_gain",
+      "amount": 39688000.0,
+      "label_raw": "Foreign exchange gain/(loss)",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": 135726000.0,
+      "label_raw": "Net change in fair value of investment properties and investment properties under development",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "revaluation_deficit_land_buildings",
+      "amount": -7257000.0,
+      "label_raw": "Revaluation deficit on land and buildings",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_financial_derivatives",
+      "amount": -30213000.0,
+      "label_raw": "Net change in fair value of financial derivatives",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "profit_from_divestments",
+      "amount": 99038000.0,
+      "label_raw": "Profit/(loss) from divestments",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "investment_properties_written_off",
+      "amount": -102000.0,
+      "label_raw": "Investment properties written off",
+      "source_page": 114
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax_expense",
+      "amount": -111755000.0,
+      "label_raw": "Income tax expense",
+      "source_page": 114
+    }
   ],
   "_notes": {
     "basis": "Stapled Group columns (per section 3b stapled-trust rule). Statement of Total Return p114; Gross Revenue note 22 p213; Direct Expenses note 23 p213; Finance Income/Costs note 24 p214; Statement of Financial Position p112-113; Statement of Cash Flows p144-148.",

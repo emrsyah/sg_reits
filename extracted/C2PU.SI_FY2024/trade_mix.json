@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Hospitals and Medical Centres",
+    "pct": 65.3,
+    "pct_basis": "asset_value",
+    "source_page": 20
+  },
+  {
+    "symbol": "C2PU.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Nursing Homes",
+    "pct": 34.7,
+    "pct_basis": "asset_value",
+    "source_page": 20
+  }
+]

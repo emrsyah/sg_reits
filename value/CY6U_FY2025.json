@@ -1,0 +1,78 @@
+{
+  "symbol": "CY6U.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": null,
+      "verbatim_line": null,
+      "source_page": 102
+    },
+    "net_distributable_income": {
+      "value": 118853000,
+      "verbatim_line": "Income available for distribution | 118,853",
+      "source_page": 102
+    },
+    "distribution_cash_paid": {
+      "value": 96927000,
+      "verbatim_line": "Distribution paid: Exempt distribution of 3.20 cents per unit paid on 27 February 2025 = 43,182; Exempt distribution of 3.97 cents per unit paid on 18 September 2025 = 53,745; total = 96,927 (Note 10)",
+      "source_page": 127
+    },
+    "distributable_income_closing": {
+      "value": null,
+      "verbatim_line": null,
+      "source_page": 102
+    },
+    "distribution_paid_declared": {
+      "value": 106968000,
+      "verbatim_line": "Income to be distributed | 106,968 (Income to be distributed per unit (cents) | 7.87)",
+      "source_page": 102
+    },
+    "guard_A_plus_B_minus_P": null,
+    "guard_ok": null,
+    "notes": "CapitaLand India Trust is a registered Singapore business trust. Its audited Distribution Statement (p102, FYE 31 Dec 2025) is a for-the-year statement with NO opening/closing distributable-income carry lines. It builds from 'Ordinary profit before tax' 105,918 + 'Distribution adjustments' 12,935 to a for-year 'Income available for distribution' 118,853 (= B, before retention), then '10% retention' (11,885) to 'Income to be distributed' 106,968 (declared for FY2025, DPU 7.87c). A (opening) and E (closing) are genuinely not disclosed in the Distribution Statement -> null; the A+B-P==E guard is therefore not applicable (guard_A_plus_B_minus_P and guard_ok left null). B verified fresh against the Distribution Statement subtotal (not cumulative: there is no opening carry to fold in). P = actual cash distribution PAID during FY2025 per Note 10 (p127): 3.20c paid 27 Feb 2025 (43,182, H2 FY2024 tranche) + 3.97c paid 18 Sep 2025 (53,745, H1 FY2025 tranche) = 96,927; corroborated by Consolidated Statement of Cash Flows 'Distribution paid to Unitholders (96,927)' (p104) and Statement of Changes in Unitholders' Funds 'Distribution to Unitholders (96,927)' (p103). P (96,927 paid) is distinct from declared-for-year (106,968); the H2 FY2025 tranche of 3.90c / S$53.1m was approved 30 Jan 2026, payable in FY2026, and is not reflected in these statements."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "CyberPearl, Hyderabad and CyberVale, Chennai",
+      "transaction_type": "divestment",
+      "gain_loss_pct": 3.0,
+      "gain_basis": "Disclosed premium: sale executed at a 3% premium to their independent valuations (p35). Not derived. Enterprise value INR 11,031m (~S$161.7m). No specific independent valuation figure disclosed for the deal, so valuation left null.",
+      "valuation_date": null,
+      "announced_date": "2025-09-25",
+      "completed_date": "2025-09-29",
+      "sale_price": 161700000,
+      "valuation": null,
+      "carrying_value": 138890000,
+      "gain_on_divestment": 4081000,
+      "net_sale_proceeds": 159922000,
+      "counterparty": null,
+      "deal_id": "cy6u.si:cyberpearl_hyderabad_and_cybervale_chennai:divestment:2025",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 146,
+      "verbatim": "Note 25(a), p146: 'Investment properties under construction and investment properties ... 138,890 (29 September 2025)'; 'Net assets of disposal group 155,841'; 'Gain on divestment 4,081'; 'Net sales consideration after divestment expenses 159,922'; 'Net cash inflow 158,553'. p35: 'divested at an enterprise value of INR 11,031 million (approximately S$161.7 million). The sale was executed at a 3% premium to their independent valuations'. Completed 29 September 2025; announced 25 September 2025. Full subsidiary divestment (CITPPL); buyer not named in AR."
+    },
+    {
+      "i": 1,
+      "property_name": "20.2% stake in three data centre developments (DC Chennai, DC ITPH, DC Navi Mumbai)",
+      "transaction_type": "divestment",
+      "gain_loss_pct": 13.7,
+      "gain_basis": "Disclosed premium: partial divestment executed at a 13.7% premium to their independent valuation (p35). Not derived. Valued at agreed property value with buyer (INR 7,021m / ~S$99.7m for the 20.2% stake); no separate independent appraisal figure disclosed, so valuation left null. NCI-level (20.2%) partial divestment; figures indicative and subject to adjustment (announcement dated 31 Dec 2025).",
+      "valuation_date": null,
+      "announced_date": "2025-12-31",
+      "completed_date": "2026-02-27",
+      "sale_price": 99700000,
+      "valuation": null,
+      "carrying_value": null,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "CapitaLand India Data Centre Fund Pte. Ltd. (CIDCF)",
+      "deal_id": "cy6u.si:20_2pct_stake_three_data_centre_developments:divestment:2026",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 147,
+      "verbatim": "Note 25(b), p147: 'On 30 December 2025, CLINT, through APFI, has entered into securities purchase and subscription agreements to divest 20.2% of its interest in each of the three wholly owned Indian subsidiaries namely ITPH DC, DSRPL and MVDC to CapitaLand India Data Centre Fund Pte. Ltd (CIDCF)'; disposal group (100%) net assets 463,350 (IPUC 649,592 + IP 88,930). p35: 'divested a 20.2% stake in its data centre portfolio to the CapitaLand India Data Centre Fund (CIDCF). This transaction, valued at approximately INR 7,021 million (S$99.7 million), involves three major data centres under development in Navi Mumbai, Hyderabad and Chennai. The partial divestment was executed at a 13.7% premium to their independent valuation.' Announced (proposed) 31 December 2025; completed 27 February 2026 (after FYE). Carrying value of the 20.2% stake, gain and net proceeds not disclosed in AR (equity transaction with NCI, completed post-FYE)."
+    }
+  ]
+}

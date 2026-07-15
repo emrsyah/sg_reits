@@ -5,7 +5,7 @@
   "properties_location": "Singapore, Australia, South Korea, Japan",
   "gross_revenue": 274478000,
   "net_property_income": 215905000,
-  "net_distributable_income": 320277000,
+  "net_distributable_income": 212406000,
   "distribution_paid": 212406000,
   "adjusted_distributable_income": null,
   "dpu": 5.23,
@@ -61,8 +61,14 @@
       "type": "net_distributable_income_basis",
       "scope": "net_distributable_income",
       "note": "320,277k = Income available for distribution to Unitholders (p121). Declared Distribution to Unitholders headline = 212,406k (p7), which includes the $20m Anniversary Distribution capital gains top-up."
-    }
+    },
+    "net_distributable_income corrected 2026-07-08: was 320,277,000 (cumulative 'Income available for distribution' = opening 107,871 + FY-generated 212,406); fixed to the FY2025-generated distributable income 212,406,000 (Distribution Statement p121; mgr commentary '$212.4m, DPU 5.23c'). distribution_paid=212,406,000 also suspect (transposed FY-gen figure; actual disclosed distributions incl capital gains = 276,593) — pending distribution_paid semantics review."
   ],
   "source_page": 7,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 4013867000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 107871000,
+  "distribution_cash_paid": 276593000,
+  "distributable_income_closing": 43684000
 }

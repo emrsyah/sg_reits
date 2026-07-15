@@ -9,29 +9,55 @@
     "gross_income": 328679000,
     "operating_income": 298727000,
     "operating_expense": 29952000,
-    "ebit": 146467000,
-    "ebitda": 146467000,
+    "ebit": 298727000.0,
+    "ebitda": 271564000.0,
     "pretax_income": 61548000,
     "income_taxes": 7818000,
     "net_income": 53730000,
     "non_operating_income_or_loss": -237179000,
-    "interest_expense_non_operating": 84919000,
+    "interest_expense_non_operating": 84919000.0,
     "weighted_avg_shares_basic": 803415000,
     "diluted_shares_outstanding": 803415000,
     "net_property_sales": 0,
-    "funds_from_operation": null,
+    "funds_from_operation": 178827000.0,
     "unitholders": 5602000,
-    "perpetual_security_holders": 26055000,
-    "minorities": 22073000,
+    "perpetual_security_holders": -26055000.0,
+    "minorities": -22073000.0,
     "revenue_breakdown": [
-      {"category": "Property rental income", "amount": 408103000, "class": "Product/Service Sales"},
-      {"category": "Other income", "amount": 37881000, "class": "Other income"}
+      {
+        "category": "Property rental income",
+        "amount": 408103000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other income",
+        "amount": 37881000,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "Management fees (base, cash + Units)", "amount": 22791000, "class": "General & Admin"},
-      {"category": "Trust expenses", "amount": 7161000, "class": "Other expenses"}
+      {
+        "category": "Management fees (base, cash + Units)",
+        "amount": 22791000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trust expenses",
+        "amount": 7161000,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 125097000
   },
   "balance_sheet_metrics": {
     "total_asset": 5864836000,
@@ -48,24 +74,108 @@
     "investing_cash_flow": -27214000,
     "financing_cash_flow": -289839000,
     "net_cash_flow": -22892000,
-    "free_cash_flow": 248056000,
-    "capital_expenditure": 46105000
+    "free_cash_flow": 248056000.0,
+    "capital_expenditure": 46105000.0
   },
   "employee_breakdown": null,
   "line_items": [
-    {"statement": "revenue", "component": "gross_revenue", "amount": 445984000, "label_raw": "Gross revenue", "source_page": 128},
-    {"statement": "expense", "component": "property_expenses", "amount": 117305000, "label_raw": "Property expenses", "source_page": 128},
-    {"statement": "adjustment", "component": "income_from_investments_fvtpl", "amount": 7074000, "label_raw": "Income from investments at FVTPL", "source_page": 128},
-    {"statement": "expense", "component": "management_fee_base", "amount": 22791000, "label_raw": "Management fees", "source_page": 128},
-    {"statement": "expense", "component": "trust_expenses", "amount": 7161000, "label_raw": "Trust expenses", "source_page": 128},
-    {"statement": "expense", "component": "borrowing_costs_net", "amount": 84919000, "label_raw": "Borrowing costs, net", "source_page": 128},
-    {"statement": "expense", "component": "finance_costs_lease_liabilities_leasehold_land", "amount": 33760000, "label_raw": "Finance costs on lease liabilities for leasehold land", "source_page": 128},
-    {"statement": "adjustment", "component": "foreign_exchange_gain", "amount": 300000, "label_raw": "Foreign exchange gain", "source_page": 128},
-    {"statement": "adjustment", "component": "change_fv_investments_fvtpl", "amount": -3065000, "label_raw": "Change in fair value of investments at FVTPL", "source_page": 128},
-    {"statement": "adjustment", "component": "change_fv_financial_derivatives", "amount": -10055000, "label_raw": "Change in fair value of financial derivatives", "source_page": 128},
-    {"statement": "adjustment", "component": "change_fv_investment_properties", "amount": -125097000, "label_raw": "Change in fair value of investment properties", "source_page": 128},
-    {"statement": "adjustment", "component": "change_fv_rou_leasehold_land", "amount": 9342000, "label_raw": "Change in fair value of right-of-use of leasehold land", "source_page": 128},
-    {"statement": "adjustment", "component": "share_of_results_of_joint_venture", "amount": 3001000, "label_raw": "Share of results of joint venture", "source_page": 128},
-    {"statement": "expense", "component": "income_tax_expense", "amount": 7818000, "label_raw": "Income tax expense", "source_page": 128}
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 445984000,
+      "label_raw": "Gross revenue",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "property_expenses",
+      "amount": 117305000,
+      "label_raw": "Property expenses",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_from_investments_fvtpl",
+      "amount": 7074000,
+      "label_raw": "Income from investments at FVTPL",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 22791000,
+      "label_raw": "Management fees",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "trust_expenses",
+      "amount": 7161000,
+      "label_raw": "Trust expenses",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "borrowing_costs_net",
+      "amount": 84919000,
+      "label_raw": "Borrowing costs, net",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs_lease_liabilities_leasehold_land",
+      "amount": 33760000,
+      "label_raw": "Finance costs on lease liabilities for leasehold land",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "foreign_exchange_gain",
+      "amount": 300000,
+      "label_raw": "Foreign exchange gain",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_fv_investments_fvtpl",
+      "amount": -3065000,
+      "label_raw": "Change in fair value of investments at FVTPL",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_fv_financial_derivatives",
+      "amount": -10055000,
+      "label_raw": "Change in fair value of financial derivatives",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_fv_investment_properties",
+      "amount": -125097000,
+      "label_raw": "Change in fair value of investment properties",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "change_fv_rou_leasehold_land",
+      "amount": 9342000,
+      "label_raw": "Change in fair value of right-of-use of leasehold land",
+      "source_page": 128
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_results_of_joint_venture",
+      "amount": 3001000,
+      "label_raw": "Share of results of joint venture",
+      "source_page": 128
+    },
+    {
+      "statement": "expense",
+      "component": "income_tax_expense",
+      "amount": 7818000,
+      "label_raw": "Income tax expense",
+      "source_page": 128
+    }
   ]
 }

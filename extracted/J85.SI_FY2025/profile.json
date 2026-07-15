@@ -1,24 +1,34 @@
 {
   "symbol": "J85.SI",
   "sub_sector": "Hospitality",
-  "management": [
-    {"role": "reit_manager", "company_name": "M&C REIT Management Limited"},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "reit_manager", "company_name": "M&C Business Trust Management Limited"},
-    {"role": "sponsor", "company_name": "Millennium & Copthorne Hotels Limited (M&C)"},
-    {"role": "master_lessee", "company_name": "CDL Hospitality Business Trust (HBT Group)"},
-    {"role": "master_lessee", "company_name": "Republic Hotels & Resorts Limited (Sponsor group)"},
-    {"role": "operator", "company_name": "Marriott International group"},
-    {"role": "operator", "company_name": "AccorHotels group"},
-    {"role": "operator", "company_name": "Banyan Tree Holdings Limited group"},
-    {"role": "operator", "company_name": "Aparia Hotel Advisors group"},
-    {"role": "operator", "company_name": "MyStays Hotel group"},
-    {"role": "operator", "company_name": "Hilton Worldwide group"},
-    {"role": "operator", "company_name": "Michels & Taylor (London) Limited"},
-    {"role": "operator", "company_name": "Native Residential Limited"},
-    {"role": "operator", "company_name": "Fresh Property Group Limited"},
-    {"role": "operator", "company_name": "EVENT Hotels group"}
-  ],
+  "management": {
+    "reit_manager": [
+      "M&C REIT Management Limited",
+      "M&C Business Trust Management Limited"
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Millennium & Copthorne Hotels Limited (M&C)"
+    ],
+    "master_lessee": [
+      "CDL Hospitality Business Trust (HBT Group)",
+      "Republic Hotels & Resorts Limited (Sponsor group)"
+    ],
+    "operator": [
+      "Marriott International group",
+      "AccorHotels group",
+      "Banyan Tree Holdings Limited group",
+      "Aparia Hotel Advisors group",
+      "MyStays Hotel group",
+      "Hilton Worldwide group",
+      "Michels & Taylor (London) Limited",
+      "Native Residential Limited",
+      "Fresh Property Group Limited",
+      "EVENT Hotels group"
+    ]
+  },
   "income_model": "fri",
   "source_page": 6
 }

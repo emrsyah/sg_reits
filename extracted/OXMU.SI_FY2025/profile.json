@@ -1,12 +1,20 @@
 {
   "symbol": "OXMU.SI",
   "sub_sector": "Office",
-  "management": [
-    {"role": "reit_manager", "company_name": "Prime US REIT Management Pte. Ltd."},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "sponsor", "company_name": "KBS Asia Partners Pte. Ltd."},
-    {"role": "property_manager", "company_name": "KBS Realty Advisors, LLC"}
-  ],
+  "management": {
+    "reit_manager": [
+      "Prime US REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "KBS Asia Partners Pte. Ltd."
+    ],
+    "property_manager": [
+      "KBS Realty Advisors, LLC"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 142
 }

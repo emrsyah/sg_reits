@@ -1,16 +1,24 @@
 {
   "symbol": "UD1U.SI",
   "sub_sector": "Diversified",
-  "management": [
-    {"role": "reit_manager", "company_name": "IREIT Global Group Pte. Ltd."},
-    {"role": "trustee", "company_name": "DBS Trustee Limited"},
-    {"role": "sponsor", "company_name": "Tikehau Capital"},
-    {"role": "sponsor", "company_name": "City Developments Limited"},
-    {"role": "property_manager", "company_name": "MVGM Property Management Deutschland GmbH"},
-    {"role": "property_manager", "company_name": "CBRE Real Estate, S.A."},
-    {"role": "property_manager", "company_name": "CBRE Property Management"},
-    {"role": "property_manager", "company_name": "Sofidy Real Estate Fund Management Company"}
-  ],
+  "management": {
+    "reit_manager": [
+      "IREIT Global Group Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Tikehau Capital",
+      "City Developments Limited"
+    ],
+    "property_manager": [
+      "MVGM Property Management Deutschland GmbH",
+      "CBRE Real Estate, S.A.",
+      "CBRE Property Management",
+      "Sofidy Real Estate Fund Management Company"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 235
 }

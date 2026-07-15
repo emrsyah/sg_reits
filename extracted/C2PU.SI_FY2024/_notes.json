@@ -1,0 +1,75 @@
+{
+  "symbol": "C2PU.SI",
+  "financial_year": 2024,
+  "scope": "properties.json and property_transactions.json only for C2PU.SI FY2024",
+  "source": "parsed_reports_datalab/32_C2PU.SI_Parkway-Life-REIT_FY2024/full.md",
+  "reconciliation": {
+    "property_count": 75,
+    "expected_property_count": 75,
+    "valuation_total_sgd": 2462695000.0,
+    "expected_valuation_total_sgd": 2462695000.0,
+    "by_country": {
+      "France": 163107000.0,
+      "Japan": 690728000.0,
+      "Malaysia": 5860000.0,
+      "Singapore": 1603000000.0
+    },
+    "audited_basis": "Portfolio Statement / Description of property pp.128-143, columns headed 2024 $'000, scaled by x1000 to absolute SGD.",
+    "ties_to": "Note 4 fair value of investment properties based on valuation S$2,462.695m; not carrying amount including lease liabilities (S$2,464.764m). Verified: every property_name matches a Portfolio Statement row, every market_valuation equals the audited $'000 x1000, and the 75-row sum equals the audited total 2,462,695,000 exactly (no regression)."
+  },
+  "transactions": {
+    "count": 2,
+    "modeling": "Two rows: one completed Japan property acquisition (HIBISU Higashi Sumiyoshi) and one completed France 11-property portfolio acquisition. France not split into 11 transaction rows because disclosure is primarily portfolio-level; per-property asset rows are in properties.json. No recoverable nulls in property_transactions.json."
+  },
+  "null_recovery_sweep": {
+    "date": "2026-07-07",
+    "by": "REIT Null-Recovery pass (QA under-capture remediation)",
+    "outcome": "No new values recoverable. All disclosed per-property fields were already captured by the first pass; every remaining null is a genuine non-disclosure confirmed against its real anchor pages (see columns_never_fillable). properties.json values unchanged; valuation total unchanged at 2,462,695,000 SGD.",
+    "fields_confirmed_already_complete": {
+      "gross_revenue": "75/75 filled, per-figure currency captured (SGD x3, JPY x60, EUR x11, MYR x1) from the 'Gross Revenue (2024)' row of the Our Portfolio property cards pp.21-31. Scaling verified: S$44.42m->44,420,000 SGD (Mt E); Y58.00m->58,000,000 JPY (Hapine Fukuoka Noke); RM0.66m->660,000 MYR (MOB); EUR0.03m->30,000 EUR (Res. La Boetie & Montaigne). All 11 France card GR values re-mapped to the correct property and confirmed.",
+      "occupancy_rate": "75/75 filled = committed occupancy from cards (100% for all except MOB Specialist Clinics 31%).",
+      "gfa": "75/75 filled from the 'Floor Area (sq m)' card row (Parkway East uses gross floor area; the two other SG hospitals use strata area owned), area_unit=sqm.",
+      "purchase_price / purchase_date": "75/75 filled from the 'Purchase Price' + 'Year of Purchase' card rows (local ccy value where the card leads with the foreign figure).",
+      "land_tenure": "75/75 filled; 4 Leasehold (3 SG hospitals + Orange no Sato Japan) and 71 Freehold per Portfolio Statement 'Tenure of land' column.",
+      "lease_term_years / effective_date / lease_expiry_date": "Filled for all 4 Leasehold properties (Mt E 67y; Gleneagles 75y; Parkway East 75y; Orange no Sato 99y from 1 Nov 2019 -> expiry 2118-10-31). See columns_never_fillable for the 71 Freehold rows.",
+      "major_tenants": "75/75 populated with the master lessee/operator from the 'Name of Lessee(s)' card row (e.g. Parkway Hospitals Singapore for SG; per-operator for Japan; DomusVi SPVs for France)."
+    }
+  },
+  "columns_never_fillable": [
+    {
+      "column": "net_property_income",
+      "value": null,
+      "evidence": "Per-property NPI is NOT disclosed anywhere in the AR. Anchor pages checked: (a) Note 26 OPERATING SEGMENTS pp.105-106 discloses Gross revenue and Net property income only for TWO reportable segments - 'Hospitals and Medical Centres' (GR 101,864 / NPI 98,011) and 'Nursing Homes' (GR 43,404 / NPI 38,586), totalling 145,268 / 136,597 - never by property; (b) Note 26 geographical information p.106 splits only Revenue (not NPI) by country (SG 101,583; Japan 43,032; France 372; Malaysia 281); (c) Note 15 GROSS REVENUE p.92 and Note 16 PROPERTY EXPENSES p.92 are Group/Trust totals only; (d) Portfolio Statement pp.128-143 has no income columns (only tenure, lease term, location, use, valuation, % of net assets); (e) Our Portfolio property cards pp.21-31 disclose Gross Revenue + Committed Occupancy but NO property-level NPI or property expenses; (f) Financial Review p.20 gives group NPI S$136.6m only. NPI cannot be computed per property because property expenses (Note 16, $8,671k) are not broken out per property. Genuinely absent."
+    },
+    {
+      "column": "npi_pct",
+      "value": null,
+      "evidence": "No per-property share of portfolio NPI is disclosed. The only per-property percentage in the AR is 'Percentage of net assets' in the Portfolio Statement pp.128-143, which is a VALUATION weight (market value / net assets), not an NPI contribution. Note 26 p.106 gives a geographical Revenue split but no per-property or per-geography NPI percentage. Genuinely absent."
+    },
+    {
+      "column": "gla / nla",
+      "value": null,
+      "evidence": "Lettable area (GLA/NLA) is not disclosed. Property cards pp.21-31 and Portfolio Statement pp.128-143 disclose only 'Floor Area (sq m)' (captured as gfa) and, for Japan/France, 'Land Area (sq m)' (not a schema field). SG footnote p.20 confirms the area figure is gross floor area / strata area owned, not lettable area. Genuinely absent."
+    },
+    {
+      "column": "lease_term_years / lease_expiry_date / effective_date (71 Freehold rows)",
+      "value": null,
+      "evidence": "The Portfolio Statement 'Tenure of land / Term of lease (years) / Remaining term of lease (years)' columns pp.128-143 show 'N.A.' for all 60 Japan (except Orange no Sato), all 11 France, and the 1 Malaysia property - they are Freehold, so there is no land-lease term/expiry to disclose. Values correctly left null for these 71 rows; the 4 Leasehold rows are filled."
+    },
+    {
+      "column": "major_tenants[].pct",
+      "value": null,
+      "evidence": "Cards list lessee/operator names but do not disclose per-property tenant revenue percentages. The p.19 'Top 10 tenants by % of gross revenue' table is REIT-level (e.g. Parkway Hospitals 59.2%), not per-property. Genuinely absent."
+    }
+  ],
+  "parsing_traps": [
+    "Audited market_valuation uses Portfolio Statement $'000 values, not rounded card S$ million appraised values.",
+    "France FY2024 gross revenue in cards is only from 20-31 Dec 2024 (card footnote 5), not annualised; captured as-disclosed in EUR (values EUR0.01-0.03m -> 10,000-30,000).",
+    "MOB Specialist Clinics remains active at 31 Dec 2024; FY2025 disposal is out of scope.",
+    "Sompo/Hanadama OCR uses no/le variants in source; property names follow audited Portfolio Statement labels.",
+    "Orange no Sato is the ONLY Japan Leasehold property (Portfolio Statement: term 99 / remaining 96 years); all other Japan/France/Malaysia rows are Freehold (N.A.).",
+    "Per-property NPI is genuinely undisclosed (segment note collapses to 2 segments); do NOT impute from segment or geography figures."
+  ],
+  "inferred": [],
+  "unresolved_gaps": []
+}

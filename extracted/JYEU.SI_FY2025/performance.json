@@ -37,8 +37,19 @@
     {
       "type": "distribution_paid_basis",
       "note": "cash distributed during FY (period-mixed): S$85,556k = 1.770 cents/unit (1 Jan-30 Jun 2024 period, paid in FY2025) + 1.795 cents/unit (1 Jul-31 Dec 2024 period, paid in FY2025), Consolidated Distribution Statement p114"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 35000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Source: audited Consolidated Distribution Statement, year ended 30 June 2025, p114 (marker PAGE 114). Guard exact: 42,075 + 87,565 - 85,556 = 44,084 = E (S$'000). B taken as for-year subtotal (Profit after tax + Net tax adjustments), NOT the cumulative 'Amount available for distribution' 129,640 (trap). distribution_paid_declared combines two audited-disclosed figures (Distribution Statement 1H + "
     }
   ],
   "source_page": 5,
-  "distribution_basis": "not_disclosed_rollforward_only"
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "number_of_shareholder_units": 2446669000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 42075000,
+  "distribution_cash_paid": 85556000,
+  "distributable_income_closing": 44084000,
+  "units_to_be_issued": 30892000
 }

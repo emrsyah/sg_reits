@@ -1,0 +1,30 @@
+{
+  "symbol": "N2IU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 5267580000, "page": 160, "note": "'Units at end of financial year' 5,267,580 '000, Note 22(a) Units in Issue p160"},
+    "dpu_period_months": {"value": 12, "page": 110, "note": "full FY ended 31 Mar 2025, full-year DPU 8.02 cents; Distribution Statements p110"}
+  },
+  "properties": [
+    {"property_name": "VivoCity", "purchase_date": null, "page": 116, "note": "Portfolio Statement acquisition date = N.A (footnote 2: owned by MPACT prior to Listing Date; no acquisition date disclosed)"},
+    {"property_name": "Mapletree Business City I (MBC I)", "purchase_date": "2016-08-25", "page": 116, "note": "Portfolio Statement acquisition-date column"},
+    {"property_name": "mTower", "purchase_date": "2011-04-27", "page": 116, "note": "Portfolio Statement acquisition-date column"},
+    {"property_name": "Mapletree Anson", "purchase_date": "2013-02-04", "page": 116, "note": "Portfolio Statement acquisition-date column (divested 31 Jul 2024, still shown with comparative)"},
+    {"property_name": "Bank of America HarbourFront (BOAHF)", "purchase_date": "2011-04-27", "page": 116, "note": "Portfolio Statement acquisition-date column"},
+    {"property_name": "Mapletree Business City II (MBC II)", "purchase_date": "2019-11-01", "page": 116, "note": "Portfolio Statement acquisition-date column"},
+    {"property_name": "Festival Walk", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Gateway Plaza", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Sandhill Plaza", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "IXINAL Monzen-nakacho Building (MON)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Higashi-nihonbashi 1-chome Building (HNB)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "TS Ikebukuro Building (TSI)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "ABAS Shin-Yokohama Building (ASY)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Makuhari Bay Tower (MBT)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Fujitsu Makuhari Building (FJM)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Omori Prime Building (OPB)", "purchase_date": "2022-07-21", "page": 118, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "mBAY POINT Makuhari (MBP)", "purchase_date": "2022-07-21", "page": 120, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "Hewlett-Packard Japan Headquarters Building (HPB)", "purchase_date": "2022-07-21", "page": 120, "note": "Portfolio Statement acquisition-date column (MNACT merger completion)"},
+    {"property_name": "The Pinnacle Gangnam", "purchase_date": "2022-07-21", "page": 47, "note": "50% JV (equity-accounted, not in Portfolio Statement); Date of Acquisition per property fact box p47 (MNACT merger completion)"}
+  ],
+  "summary": {"n_properties": 19, "purchase_date_filled": 18, "purchase_date_null": 1}
+}

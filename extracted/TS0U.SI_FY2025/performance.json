@@ -5,7 +5,7 @@
   "properties_location": "Singapore",
   "gross_revenue": 273611000,
   "net_property_income": 219579000,
-  "net_distributable_income": 123752000,
+  "net_distributable_income": 128752000,
   "distribution_paid": 123752000,
   "adjusted_distributable_income": null,
   "dpu": 2.23,
@@ -48,8 +48,21 @@
       "type": "portfolio_value_basis",
       "scope": "portfolio_value",
       "note": "S$5,793.0m = headline portfolio value by proportionate interest (independent valuation as at 31 Dec 2025), including OUB Centre Limited's 81.54% interest in One Raffles Place and OUE REIT's 50% interest in OUE Bayfront (page 33). Marketing AUM headline rounds to S$5.8bn. The audited consolidated investment-properties valuation (5 fully-consolidated assets, excl. the equity-accounted OUE Bayfront JV) is S$5,082.0m."
+    },
+    "before-retention normalization 2026-07-08: NDI set to FY income available BEFORE the 5,000 working-capital retention = 128,752,000 (28,451 total return − 2,200 CPPU + 102,501 adjustments, p106). Prior 123,752,000 was after the 5,000 retention.",
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 5000000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Audited Distribution Statement (Group column, year ended 31 Dec 2025), page 108 marker. A=66,262 + B=123,752 - P=116,184 = E=73,830 exactly; guard closes. B is the disclosed FOR-YEAR subtotal 'Amount available for distribution for the year' = 'Amount to be distributed to Unitholders (Note B)' = 123,752. This for-year subtotal is AFTER a S$5.0m working-capital retention (28,451 total return - 2,200"
     }
   ],
   "source_page": 41,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 5524617000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 66262000,
+  "distribution_cash_paid": 116184000,
+  "distributable_income_closing": 73830000,
+  "units_to_be_issued": 5272000,
+  "distribution_pool_other_movements": -5000000
 }

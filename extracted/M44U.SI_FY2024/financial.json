@@ -1,0 +1,163 @@
+{
+  "symbol": "M44U.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_stmt_metrics": {
+    "total_revenue": 733889000,
+    "cost_of_revenue": 98945000,
+    "gross_income": 634944000,
+    "operating_income": 513943000,
+    "operating_expense": 121001000,
+    "ebit": 513943000.0,
+    "ebitda": 537549000.0,
+    "pretax_income": 393135000,
+    "income_taxes": 63107000,
+    "net_income": 330028000,
+    "non_operating_income_or_loss": -120808000,
+    "interest_expense_non_operating": 145905000.0,
+    "weighted_avg_shares_basic": 4958115000,
+    "diluted_shares_outstanding": 4958115000,
+    "net_property_sales": 0,
+    "funds_from_operation": 328537000.0,
+    "unitholders": 303135000,
+    "perpetual_security_holders": -24340000.0,
+    "minorities": -2553000.0,
+    "revenue_breakdown": [
+      {
+        "category": "Rental income",
+        "amount": 626466000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Service charges",
+        "amount": 96499000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other operating income",
+        "amount": 10924000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Manager's management fees",
+        "amount": 91166000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 1831000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 28004000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": -1491000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 13812335000,
+    "total_equity": 7484432000,
+    "total_liabilities": 6327903000,
+    "total_current_asset": 478897000,
+    "total_non_current_asset": 13333438000,
+    "total_current_liabilities": 621114000,
+    "total_non_current_liabilities": 5706789000,
+    "working_capital": -142217000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 573488000,
+    "investing_cash_flow": -844254000,
+    "financing_cash_flow": 280615000,
+    "net_cash_flow": 9849000,
+    "free_cash_flow": -454106000.0,
+    "capital_expenditure": 1027594000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 733889000,
+      "label_raw": "Gross revenue",
+      "source_page": 113
+    },
+    {
+      "statement": "expense",
+      "component": "property_expenses",
+      "amount": 98945000,
+      "label_raw": "Property expenses",
+      "source_page": 113
+    },
+    {
+      "statement": "adjustment",
+      "component": "interest_income",
+      "amount": 2935000,
+      "label_raw": "Interest income",
+      "source_page": 113
+    },
+    {
+      "statement": "expense",
+      "component": "management_fees",
+      "amount": 91166000,
+      "label_raw": "Manager's management fees",
+      "source_page": 113
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fees",
+      "amount": 1831000,
+      "label_raw": "Trustee's fees",
+      "source_page": 113
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 28004000,
+      "label_raw": "Other trust expenses",
+      "source_page": 113
+    },
+    {
+      "statement": "expense",
+      "component": "borrowing_costs",
+      "amount": 145905000,
+      "label_raw": "Borrowing costs",
+      "source_page": 113
+    },
+    {
+      "statement": "adjustment",
+      "component": "fv_derivatives",
+      "amount": 20671000,
+      "label_raw": "Net change in fair value of financial derivatives",
+      "source_page": 113
+    },
+    {
+      "statement": "adjustment",
+      "component": "net_movement_value_ip",
+      "amount": 1491000,
+      "label_raw": "Net movement in the value of investment properties",
+      "source_page": 113
+    },
+    {
+      "statement": "adjustment",
+      "component": "taxation",
+      "amount": -63107000,
+      "label_raw": "Income tax expense",
+      "source_page": 113
+    }
+  ],
+  "source_page": 113
+}

@@ -1,0 +1,61 @@
+{
+  "symbol": "Q5T.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 48803000,
+      "verbatim_line": "Amount available for distribution to Stapled Securityholders at the beginning of the year | 48,803",
+      "source_page": 152
+    },
+    "net_distributable_income": {
+      "value": 75802000,
+      "verbatim_line": "Income available for distribution for the current year | 67,874 ; Distribution of other gains | 7,928",
+      "source_page": 152,
+      "derived": true,
+      "note": "For-year amount added to the distributable pool BEFORE opening carry = current-year income available (67,874) + distribution of other gains (7,928) = 75,802. Equals disclosed cumulative 'Amount available for distribution to Stapled Securityholders' 124,605 minus opening 48,803. The cumulative 124,605 line is the trap (folds in opening carry) and is NOT used as B. Existing performance.json net_distributable_income (67,874) is the Core taxable+tax-exempt income line only; the rollforward B must include the 7,928 other-gains release for the A+B-P=E identity to close."
+    },
+    "distribution_cash_paid": {
+      "value": 87474000,
+      "verbatim_line": "Distribution 2.08c 1 Jul 2024-31 Dec 2024 (41,943) + 1.78c 1 Jan 2025-30 Jun 2025 (36,020) + 0.47c 1 Jul 2025-19 Aug 2025 (9,511) = (87,474)",
+      "source_page": 152,
+      "note": "Total distributions actually PAID during FY2025 across three tranches crossing fiscal years (2H2024 paid in 2025, 1H2025, and advance 1 Jul-19 Aug 2025). This is cash paid, distinct from the FY2025 declared/DPU basis."
+    },
+    "distributable_income_closing": {
+      "value": 37131000,
+      "verbatim_line": "Amount available for distribution to Stapled Securityholders at end of the year | 37,131",
+      "source_page": 152
+    },
+    "distribution_paid_declared": {
+      "value": null,
+      "verbatim_line": "Distribution per Stapled Security (cents) | 3.70",
+      "source_page": 152,
+      "note": "No single absolute FY2025-declared distribution amount is disclosed as a line in the audited Distribution Statement; only DPU 3.70 cents is stated. The statement lists cash tranches paid (total 87,474) rather than a declared-for-year figure, so declared amount is left null (AR-only, not imputed)."
+    },
+    "guard_A_plus_B_minus_P": 37131000,
+    "guard_ok": true,
+    "notes": "Audited Distribution Statement of the Stapled Group, FY ended 31 December 2025 (page 152). A=48,803 (opening) + B=75,802 (current-year income 67,874 + other gains 7,928) - P=87,474 (total tranches paid) = 37,131 = E (closing). Guard closes exactly (0 diff). Amounts in $'000 in source, stored here as raw SGD integers. Income available for distribution of the Stapled Group is contributed solely by Far East H-REIT Group (page 153)."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "Four Points by Sheraton Nagoya, Chubu International Airport",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": -22.98,
+      "gain_basis": "vs_valuation (DERIVED, acquisition discount): purchase price JPY 6,000m vs independent valuation JPY 7,790m as at 31 Dec 2025 (CBRE, discounted cash flow method); (6,000-7,790)/7,790 = -22.98%. Negative = acquired ~23% below year-end independent valuation (favourable to buyer). No premium/discount % disclosed verbatim in AR; derived from disclosed purchase price and valuation. Gain concepts (gain_on_divestment/net proceeds) are N/A for an acquisition.",
+      "valuation_date": "2025-12-31",
+      "announced_date": "2025-02-20",
+      "completed_date": "2025-04-25",
+      "sale_price": null,
+      "valuation": 7790000000,
+      "carrying_value": null,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Godo Kaisha Pothos, an unrelated third party",
+      "deal_id": "q5t:four_points_by_sheraton_nagoya_chubu_international_airport:acquisition:2025",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 157,
+      "verbatim": "Acquisition (not a divestment): sale_price null; purchase price JPY 6,000 million (page 31 property page: 'Purchase price (¥ million): 6,000'; page 31 'Valuation as at 31 Dec 2025 (¥ million): 7,790'). Portfolio Statement footnote (page 157): 'On 25 April 2025, the Far East H-REIT acquired Four Points by Sheraton Nagoya, Chubu International Airport from Godo Kaisha Pothos, an unrelated third party. The valuation was based on a discounted cash flow method.' Completed 25 April 2025 (pages 30/113/157); SPA signed 20 February 2025 (page 31: 'following the signing of the sale and purchase agreement on 20 February 2025'); acquisition analyst briefing 21 Feb 2025 (page ~57 IR calendar). Currency JPY. Year-end SGD carrying amount at Stapled Group reclassified to PPE $59,211k / at H-REIT Group investment property $63,968k (page 157) — carrying_value left null as it is not a pre-sale carrying figure (acquisition). Funded by JPY 5.9bn term loans, JPY 364.9m RCF and JPY 0.5bn 4-year TMK bond (Nagoya Falcon TMK, 99.4% owned). All key acquisition figures disclosed in AR; announcement_gap false."
+    }
+  ]
+}

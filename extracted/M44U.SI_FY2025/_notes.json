@@ -303,54 +303,116 @@
     {
       "type": "CONFIRMED_ABSENT",
       "table": "property_transactions",
-      "columns": ["valuation"],
-      "properties": ["Kenyon", "Pioneer Districentre", "73 Tuas South Avenue 1"],
+      "columns": [
+        "valuation"
+      ],
+      "properties": [
+        "Kenyon",
+        "Pioneer Districentre",
+        "73 Tuas South Avenue 1"
+      ],
       "finding": "valuation left NULL — genuinely absent from the FY2025 AR (not a miss). All 3 Singapore assets were divested in FY23/24 (Kenyon 8 Sep 2023, Pioneer 8 Dec 2023, 73 Tuas 19 Feb 2024, per footnote (o) completion-date table p173). In the FY2025 Singapore Portfolio Statement (listing p170, valuation grid p171) each row prints an em-dash in BOTH 'Valuation at 31/03/2025' AND 'Valuation at 31/03/2024': Kenyon '| — | 258 | — | — | — | — | — | — | — |', Pioneer '| — | 1,064 | — | — | — | — | — | — | — |', 73 Tuas '| — | 679 | — | — | — | — | — | — | — |' (p171). The report's only divestment-figures table 'Divestments in FY24/25' (p48, cols Property/Country/Sale Price/Valuation/Completion Date) lists exclusively current-year deals and omits all three. No independent valuation printed anywhere. Existing sale_price/carrying_value on these rows were recovered from the FY2024 AR in a prior round (cross-report) — left untouched.",
-      "pages_read": [48, 170, 171, 173]
+      "pages_read": [
+        48,
+        170,
+        171,
+        173
+      ]
     },
     {
       "type": "CONFIRMED_ABSENT",
       "table": "property_transactions",
-      "columns": ["valuation"],
-      "properties": ["Moriya Centre"],
+      "columns": [
+        "valuation"
+      ],
+      "properties": [
+        "Moriya Centre"
+      ],
       "finding": "valuation left NULL — absent from FY2025 AR. Moriya Centre (Japan) divested 26 Sep 2023 (FY23/24, footnote (o) p173). Japan Portfolio Statement grid p153 last row (Moriya) prints '| — | 2,095 | — | — | — | — | — | — | — |' — em-dash for BOTH 'Valuation at 31/03/2025' and 'Valuation at 31/03/2024'. Not in the p48 Divestments-in-FY24/25 table. sale_price (S$92.2m / JPY10,030m) and carrying_value (S$89,776k) pre-existed from FY2024 AR — untouched.",
-      "pages_read": [48, 152, 153, 173]
+      "pages_read": [
+        48,
+        152,
+        153,
+        173
+      ]
     },
     {
       "type": "CONFIRMED_ABSENT",
       "table": "property_transactions",
-      "columns": ["valuation"],
-      "properties": ["Century"],
+      "columns": [
+        "valuation"
+      ],
+      "properties": [
+        "Century"
+      ],
       "finding": "valuation left NULL — absent from FY2025 AR. Century (Malaysia) divested 6 Nov 2023 (FY23/24, footnote (o) p173). Malaysia Portfolio Statement grid p159 (Century row) prints '| — | 720 | — | — | — | — | — | — | — |' — no valuation at either 31/03/2025 or 31/03/2024. The front-book Malaysia table 'Valuation as at 31 Mar 2025 (MYR million)' (p78-79) lists only the 10 current assets (Pancuran, Subang 3/4, G-Force, Shah Alam park/hub, Tanjung Pelepas, Subang land parcels, Jubli Shah Alam, Subang 2) — Century absent. Not in p48 table. sale_price (S$17.2m / MYR60.0m) pre-existed from FY2024 AR — untouched.",
-      "pages_read": [48, 78, 79, 158, 159, 173]
+      "pages_read": [
+        48,
+        78,
+        79,
+        158,
+        159,
+        173
+      ]
     },
     {
       "type": "CONFIRMED_ABSENT",
       "table": "property_transactions",
-      "columns": ["valuation", "sale_price (gross_sale_price)"],
-      "properties": ["Chee Wah", "Subang 1"],
+      "columns": [
+        "valuation",
+        "sale_price (gross_sale_price)"
+      ],
+      "properties": [
+        "Chee Wah",
+        "Subang 1"
+      ],
       "finding": "BOTH valuation AND sale_price left NULL — absent from FY2025 AR. Chee Wah (10 Jul 2023) and Subang 1 (13 Jul 2023) divested in FY23/24 (footnote (o) p173) as a combined pair; no per-property sale price disclosed. Malaysia Portfolio Statement grid p159: Chee Wah '| — | 103 | — | — | — | — | — | — | — |', Subang 1 '| — | 43 | — | — | — | — | — | — | — |' — em-dash valuation at both balance dates. Neither appears in the p48 Divestments-in-FY24/25 table nor the p78-79 front-book Malaysia table. grep of full.md for 'Sigma' / '50.2' / '14.5 million' (the combined-pair sale figure recorded in the row note) returns ZERO hits — that figure is NOT in the FY2025 report (came from FY2024 AR / SGX announcement in a prior round). carrying_value (S$6,618k Chee Wah / S$9,265k Subang 1) pre-existed — untouched. Per-property sale/gain NOT_RECOVERABLE (combined pair).",
-      "pages_read": [48, 78, 79, 158, 159, 173]
+      "pages_read": [
+        48,
+        78,
+        79,
+        158,
+        159,
+        173
+      ]
     },
     {
       "type": "CONFIRMED_EQUAL",
       "table": "property_transactions",
-      "columns": ["valuation", "carrying_value"],
-      "properties": ["30 Tuas South Avenue 8", "119 Neythal Road"],
+      "columns": [
+        "valuation",
+        "carrying_value"
+      ],
+      "properties": [
+        "30 Tuas South Avenue 8",
+        "119 Neythal Road"
+      ],
       "finding": "valuation==carrying_value is a REAL coincidence, NOT a conflation. The p48 'Divestments in FY24/25' table prints the Valuation column independently: '30 Tuas South Avenue 8 | Singapore | S$10.5 million | S$9.5 million' and '119 Neythal Road | Singapore | S$13.8 million | S$10.3 million'. The Singapore Portfolio Statement p171 independently prints 'Valuation at 31/03/2024' = 9,500 (30 Tuas row '| — | 527 | ... | — | 9,500 | ...') and 10,300 (119 Neythal row '| 268 | 484 | ... | — | 10,300 | ...'). Under the fair-value model the 31/03/2024 book carrying equals the near-deal independent valuation, so both fields legitimately print 9,500 / 10,300. Confirmed equal as printed — left as-is.",
-      "pages_read": [48, 171]
+      "pages_read": [
+        48,
+        171
+      ]
     },
     {
       "type": "FLAG",
       "scope": "systemic_currency_do_not_touch",
       "finding": "(1) property_transactions 'Mapletree Xi'an Logistics Park' uses local_currency='RMB' (valuation_local 70,000,000 / sale_price_local 70,500,000) — matches p48 source wording 'RMB70.5 million / RMB70.0 million'; properties.json also tags 42 China rows purchase_price_currency='RMB'. Source uses 'RMB' throughout; RMB-vs-CNY normalization deferred per spec — NOT changed. (2) properties.json 'currency'='SGD' for all 197 rows is source-faithful: market_valuation is taken from Portfolio Statement columns headed 'Valuation at 31/03/2025 S$000' (already SGD in source), not a conversion defect. (3) purchase_price is correctly stored in LOCAL currency for foreign properties (RMB/JPY/KRW/AUD/VND/MYR/HKD/INR per purchase_price_currency); the systemic 'purchase_price converted-to-SGD' issue does NOT occur in this file.",
-      "pages_read": [48, 78, 79, 171]
+      "pages_read": [
+        48,
+        78,
+        79,
+        171
+      ]
     },
     {
       "type": "FLAG",
       "scope": "prior_year_cross_report_rows",
       "finding": "The 7 divestment rows Kenyon, Pioneer Districentre, 73 Tuas South Avenue 1, Moriya Centre, Century, Chee Wah, Subang 1 are FY23/24 completions that the FY2025 AR mentions only as historical context: front-book portfolio-rejuvenation narrative p34 ('three properties in Singapore: 8 Loyang Crescent, Pioneer Districentre and 73 Tuas South Avenue 1 ...; one property in Japan: Moriya Centre ...; three properties in Malaysia: Chee Wah, Subang 1 and Century ...') and footnote (o) completion-date table p173. Their sale_price/carrying_value were populated from the FY2024 AR in earlier rounds — none of these figures are printed in the FY2025 report. Consistent with the pre-existing carrying_value_basis note 'review whether it belongs as an FY2025 row'. No conflation defect found; flagged for row-membership review only.",
-      "pages_read": [34, 173]
+      "pages_read": [
+        34,
+        173
+      ]
     }
-  ]
+  ],
+  "currency_scheme_wave9_2026_07_03": "Wave 9 currency scheme: Chee Wah + Subang 1 divestment carrying_value tagged carrying_value_currency=SGD (carrying_value_basis quotes 'S$6,618k'/'S$9,265k' at 31/03/2022, FY2023 AR p190; FY2025 AR footnote (o) p173). Deal reported combined MYR50.2m (S$14.5m); per-property sale/gain NOT separable so gross/gain remain null."
 }

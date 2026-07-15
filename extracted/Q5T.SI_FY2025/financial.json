@@ -9,39 +9,97 @@
     "gross_income": 96581000.0,
     "operating_income": 83238000.0,
     "operating_expense": 13343000.0,
-    "ebit": 52978000.0,
-    "ebitda": 54263000.0,
+    "ebit": 83238000.0,
+    "ebitda": 82911000.0,
     "pretax_income": 30415000.0,
     "income_taxes": 779000.0,
     "net_income": 29636000.0,
     "non_operating_income_or_loss": -52823000.0,
-    "interest_expense_non_operating": 22563000.0,
+    "interest_expense_non_operating": 23840000.0,
     "diluted_shares_outstanding": 2034762000.0,
     "weighted_avg_shares_basic": 2029719000.0,
     "net_property_sales": 0.0,
-    "funds_from_operation": null,
+    "funds_from_operation": 58292000.0,
     "unitholders": 29620000.0,
     "perpetual_security_holders": null,
     "minorities": -16000.0,
     "revenue_breakdown": [
-      {"category": "Master lease rental", "amount": 86138000.0, "class": "Product/Service Sales"},
-      {"category": "Retail and office revenue", "amount": 18313000.0, "class": "Product/Service Sales"},
-      {"category": "Hotel revenue", "amount": 6786000.0, "class": "Product/Service Sales"},
-      {"category": "Carpark and other income", "amount": 163000.0, "class": "Other income"}
+      {
+        "category": "Master lease rental",
+        "amount": 86138000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Retail and office revenue",
+        "amount": 18313000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Hotel revenue",
+        "amount": 6786000.0,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Carpark and other income",
+        "amount": 163000.0,
+        "class": "Other income"
+      }
     ],
     "operating_expense_breakdown": [
-      {"category": "REIT Manager's fees", "amount": 10541000.0, "class": "General & Admin"},
-      {"category": "Trustee's fees", "amount": 322000.0, "class": "General & Admin"},
-      {"category": "Other trust expenses", "amount": 1195000.0, "class": "General & Admin"},
-      {"category": "Depreciation", "amount": 1285000.0, "class": "Other expenses"}
+      {
+        "category": "REIT Manager's fees",
+        "amount": 10541000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 322000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 1195000.0,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Depreciation",
+        "amount": 1285000.0,
+        "class": "Other expenses"
+      }
     ],
     "cost_of_revenue_breakdown": [
-      {"category": "Property tax", "amount": 7035000.0, "class": "Other expenses"},
-      {"category": "Operations and maintenance expenses", "amount": 4273000.0, "class": "Other expenses"},
-      {"category": "Employee benefits expense", "amount": 1733000.0, "class": "Salaries & Benefits"},
-      {"category": "Other property expenses", "amount": 1778000.0, "class": "Other expenses"}
+      {
+        "category": "Property tax",
+        "amount": 7035000.0,
+        "class": "Other expenses"
+      },
+      {
+        "category": "Operations and maintenance expenses",
+        "amount": 4273000.0,
+        "class": "Other expenses"
+      },
+      {
+        "category": "Employee benefits expense",
+        "amount": 1733000.0,
+        "class": "Salaries & Benefits"
+      },
+      {
+        "category": "Other property expenses",
+        "amount": 1778000.0,
+        "class": "Other expenses"
+      }
     ],
-    "_derived": ["operating_income", "ebit", "ebitda", "non_operating_income_or_loss", "interest_expense_non_operating"]
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 28656000
   },
   "balance_sheet_metrics": {
     "total_asset": 2611272000.0,
@@ -59,7 +117,7 @@
     "financing_cash_flow": -41500000.0,
     "net_cash_flow": -12968000.0,
     "free_cash_flow": 81810000.0,
-    "capital_expenditure": -4810000.0
+    "capital_expenditure": 4810000.0
   },
   "employee_breakdown": {
     "total_employee": null,
@@ -68,23 +126,131 @@
     "others_employee": null
   },
   "line_items": [
-    {"statement": "revenue", "component": "master_lease_rental", "amount": 86138000.0, "label_raw": "Master lease rental", "source_page": 150},
-    {"statement": "revenue", "component": "retail_office_revenue", "amount": 18313000.0, "label_raw": "Retail and office revenue", "source_page": 150},
-    {"statement": "revenue", "component": "hotel_revenue", "amount": 6786000.0, "label_raw": "Hotel revenue", "source_page": 150},
-    {"statement": "revenue", "component": "carpark_other_income", "amount": 163000.0, "label_raw": "Carpark and other income", "source_page": 150},
-    {"statement": "expense", "component": "property_tax", "amount": 7035000.0, "label_raw": "Property tax", "source_page": 150},
-    {"statement": "expense", "component": "operations_maintenance", "amount": 4273000.0, "label_raw": "Operations and maintenance expenses", "source_page": 150},
-    {"statement": "expense", "component": "employee_benefits", "amount": 1733000.0, "label_raw": "Employee benefits expense", "source_page": 150},
-    {"statement": "expense", "component": "other_property_expenses", "amount": 1778000.0, "label_raw": "Other property expenses", "source_page": 150},
-    {"statement": "expense", "component": "management_fee_base_performance", "amount": 10541000.0, "label_raw": "REIT Manager's fees (base 7,480 + performance 3,061)", "source_page": 150},
-    {"statement": "expense", "component": "trustee_fee", "amount": 322000.0, "label_raw": "Trustee's fees", "source_page": 150},
-    {"statement": "expense", "component": "other_trust_expenses", "amount": 1195000.0, "label_raw": "Other trust expenses", "source_page": 150},
-    {"statement": "expense", "component": "depreciation", "amount": 1285000.0, "label_raw": "Depreciation", "source_page": 150},
-    {"statement": "expense", "component": "finance_costs", "amount": 23840000.0, "label_raw": "Finance expenses", "source_page": 150},
-    {"statement": "adjustment", "component": "interest_and_other_income", "amount": 1277000.0, "label_raw": "Interest and other income", "source_page": 150},
-    {"statement": "adjustment", "component": "foreign_exchange_gain", "amount": 6382000.0, "label_raw": "Foreign exchange gain/(loss)", "source_page": 150},
-    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -9271000.0, "label_raw": "Fair value change in derivative financial instruments", "source_page": 150},
-    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": -27371000.0, "label_raw": "Fair value change in investment properties", "source_page": 150},
-    {"statement": "adjustment", "component": "income_tax_expense", "amount": -779000.0, "label_raw": "Income tax expense", "source_page": 150}
+    {
+      "statement": "revenue",
+      "component": "master_lease_rental",
+      "amount": 86138000.0,
+      "label_raw": "Master lease rental",
+      "source_page": 150
+    },
+    {
+      "statement": "revenue",
+      "component": "retail_office_revenue",
+      "amount": 18313000.0,
+      "label_raw": "Retail and office revenue",
+      "source_page": 150
+    },
+    {
+      "statement": "revenue",
+      "component": "hotel_revenue",
+      "amount": 6786000.0,
+      "label_raw": "Hotel revenue",
+      "source_page": 150
+    },
+    {
+      "statement": "revenue",
+      "component": "carpark_other_income",
+      "amount": 163000.0,
+      "label_raw": "Carpark and other income",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "property_tax",
+      "amount": 7035000.0,
+      "label_raw": "Property tax",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "operations_maintenance",
+      "amount": 4273000.0,
+      "label_raw": "Operations and maintenance expenses",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "employee_benefits",
+      "amount": 1733000.0,
+      "label_raw": "Employee benefits expense",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "other_property_expenses",
+      "amount": 1778000.0,
+      "label_raw": "Other property expenses",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base_performance",
+      "amount": 10541000.0,
+      "label_raw": "REIT Manager's fees (base 7,480 + performance 3,061)",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 322000.0,
+      "label_raw": "Trustee's fees",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 1195000.0,
+      "label_raw": "Other trust expenses",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "depreciation",
+      "amount": 1285000.0,
+      "label_raw": "Depreciation",
+      "source_page": 150
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 23840000.0,
+      "label_raw": "Finance expenses",
+      "source_page": 150
+    },
+    {
+      "statement": "adjustment",
+      "component": "interest_and_other_income",
+      "amount": 1277000.0,
+      "label_raw": "Interest and other income",
+      "source_page": 150
+    },
+    {
+      "statement": "adjustment",
+      "component": "foreign_exchange_gain",
+      "amount": 6382000.0,
+      "label_raw": "Foreign exchange gain/(loss)",
+      "source_page": 150
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -9271000.0,
+      "label_raw": "Fair value change in derivative financial instruments",
+      "source_page": 150
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -27371000.0,
+      "label_raw": "Fair value change in investment properties",
+      "source_page": 150
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax_expense",
+      "amount": -779000.0,
+      "label_raw": "Income tax expense",
+      "source_page": 150
+    }
   ]
 }

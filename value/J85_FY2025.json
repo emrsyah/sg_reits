@@ -1,0 +1,38 @@
+{
+  "symbol": "J85.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 34254000,
+      "verbatim_line": "Amount available for distribution to holders of Stapled Securities at the beginning of the year | 34,254",
+      "source_page": 209
+    },
+    "net_distributable_income": {
+      "value": 56944000,
+      "verbatim_line": "Total return of H-REIT 21,589; Less: Total return attributable to perpetual securities holders (669); Loss of HBT (13,678); Net tax adjustments (Note A) 49,702 | subtotal 56,944",
+      "source_page": 209,
+      "note": "For-year income subtotal BEFORE 'Less: Amount retained for working capital (5,694)' and BEFORE 'Add: Capital distribution 9,683'. NOT the cumulative 'Amount available for distribution' line of 95,187 (that folds in the 34,254 opening carry - the trap: 34,254 + 56,944 - 5,694 + 9,683 = 95,187). Existing performance.json net_distributable_income=66,627,000 does NOT reconcile to any Distribution Statement line and appears to be from a non-audited source; the audited for-year subtotal is 56,944."
+    },
+    "distribution_cash_paid": {
+      "value": 60492000,
+      "verbatim_line": "Distribution of 2.81 cents ... for 1/7/2024 to 31/12/2024 (35,375); Distribution of 1.98 cents ... for 1/1/2025 to 30/06/2025 (25,117) | total (60,492)",
+      "source_page": 209,
+      "note": "Total distributions actually PAID during FY2025 = 35,375 (2H2024 tranche) + 25,117 (1H2025 tranche) = 60,492. Distinct from declared-for-FY2025."
+    },
+    "distributable_income_closing": {
+      "value": 34695000,
+      "verbatim_line": "Amount available for distribution to holders of Stapled Securities at the end of the year | 34,695",
+      "source_page": 209
+    },
+    "distribution_paid_declared": {
+      "value": null,
+      "verbatim_line": "Distribution per Stapled Security (DPS) (cents) 4.80; Note (1): The DPS relates to the distributions in respect of the relevant financial year. The distribution for the second half of the financial year will be made subsequent to the financial year end.; Subsequent events (Note 32): the HBT Trustee-Manager and the H-REIT Manager declared a distribution of 2.82 cents per Stapled Security to Stapled Securityholders in respect of the period from 1 July 2025 to 31 December 2025.",
+      "source_page": 209,
+      "note": "Declared-for-FY2025 DPS basis = 4.80 cents (1.98c 1H2025 + 2.82c 2H2025). 1H2025 declared amount 25,117 is disclosed in the Distribution Statement, but the 2H2025 (2.82c) tranche was declared subsequent to year end and its dollar amount is NOT quantified in the audited statements (only DPS given). A full declared-for-year dollar figure is therefore not AS-DISCLOSED; nulled per as-disclosed-only rule."
+    },
+    "guard_A_plus_B_minus_P": 30706000,
+    "guard_ok": false,
+    "notes": "Guard A + B - P = 34,254 + 56,944 - 60,492 = 30,706 (k) vs E = 34,695 (k); gap = +3,989 (k). NOT a misread. The gap is exactly the net of two additional DISCLOSED reconciliation lines that sit between the for-year subtotal (B=56,944) and the cumulative 'Amount available for distribution': 'Less: Amount retained for working capital (5,694)' and 'Add: Capital distribution 9,683', netting to +3,989. Full disclosed identity holds: A(34,254) + B(56,944) - retention(5,694) + capital_distribution(9,683) - P(60,492) = E(34,695). Simple A+B-P=E fails only because B is deliberately the pre-retention for-year subtotal as specified. Values in raw SGD ($'000 x 1000). Source: audited DISTRIBUTION STATEMENT OF THE STAPLED GROUP, year ended 31 December 2025, PAGE 209 marker."
+  },
+  "txns": []
+}

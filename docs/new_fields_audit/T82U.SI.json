@@ -1,0 +1,23 @@
+{
+  "symbol": "T82U.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 2945448000, "page": 159, "note": "Units in issue at 31 December 2025 2,945,448 '000, Note 18 p159"},
+    "dpu_period_months": {"value": 12, "page": 15, "note": "full year FY2025 DPU 7.035 cents, period 1 Jan to 31 Dec 2025, Unit Performance note p15"}
+  },
+  "properties": [
+    {"property_name": "Suntec City Mall", "purchase_date": null, "page": null, "note": "portfolio statement p113 & property stats have no acquisition-date; AR does not disclose"},
+    {"property_name": "Suntec City Office Towers", "purchase_date": null, "page": null, "note": "no acquisition date disclosed in AR"},
+    {"property_name": "Suntec Singapore Convention & Exhibition Centre", "purchase_date": null, "page": null, "note": "no acquisition date disclosed in AR"},
+    {"property_name": "177 Pacific Highway", "purchase_date": null, "page": null, "note": "property stats give purchase price only, no acquisition date"},
+    {"property_name": "21 Harris Street", "purchase_date": null, "page": null, "note": "property stats give purchase price only, no acquisition date"},
+    {"property_name": "55 Currie Street", "purchase_date": null, "page": null, "note": "property stats give purchase price only, no acquisition date (p49)"},
+    {"property_name": "Olderfleet, 477 Collins Street", "purchase_date": null, "page": null, "note": "no acquisition date disclosed in AR"},
+    {"property_name": "The Minster Building", "purchase_date": null, "page": null, "note": "property stats give purchase price only, refurbishment completed 2018 not acquisition (p52)"},
+    {"property_name": "One Raffles Quay", "purchase_date": null, "page": null, "note": "JV property; no acquisition date disclosed in AR"},
+    {"property_name": "MBFC Properties", "purchase_date": null, "page": null, "note": "JV property; no acquisition date disclosed in AR"},
+    {"property_name": "Southgate Complex", "purchase_date": null, "page": null, "note": "JV property; no acquisition date disclosed in AR"},
+    {"property_name": "Nova Properties", "purchase_date": null, "page": null, "note": "JV property; purchase price only, buildings completed 2016/2017 not acquisition (p50)"}
+  ],
+  "summary": {"n_properties": 12, "purchase_date_filled": 0, "purchase_date_null": 12}
+}

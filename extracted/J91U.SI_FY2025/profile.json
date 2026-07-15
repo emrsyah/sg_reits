@@ -1,14 +1,22 @@
 {
   "symbol": "J91U.SI",
   "sub_sector": "Industrial",
-  "management": [
-    {"role": "sponsor", "company_name": "ESR Group Limited"},
-    {"role": "reit_manager", "company_name": "ESR-REIT Management (S) Limited"},
-    {"role": "trustee", "company_name": "Perpetual (Asia) Limited"},
-    {"role": "property_manager", "company_name": "ESR Property Services Pte. Ltd."},
-    {"role": "property_manager", "company_name": "LOGOS REIT Property Management Pty Ltd"},
-    {"role": "property_manager", "company_name": "ESR Ltd"}
-  ],
+  "management": {
+    "sponsor": [
+      "ESR Group Limited"
+    ],
+    "reit_manager": [
+      "ESR-REIT Management (S) Limited"
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "property_manager": [
+      "ESR Property Services Pte. Ltd.",
+      "LOGOS REIT Property Management Pty Ltd",
+      "ESR Ltd"
+    ]
+  },
   "income_model": "conventional",
   "source_page": 10
 }

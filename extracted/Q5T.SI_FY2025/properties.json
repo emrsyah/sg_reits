@@ -32,7 +32,8 @@
     "purchase_price": 225000000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 225.0 (p24)",
-    "purchase_price_source_page": 24
+    "purchase_price_source_page": 24,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -67,7 +68,8 @@
     "purchase_price": 318200000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 318.2 (p24)",
-    "purchase_price_source_page": 24
+    "purchase_price_source_page": 24,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -103,7 +105,8 @@
     "purchase_price": 264300000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 264.3 (p25)",
-    "purchase_price_source_page": 25
+    "purchase_price_source_page": 25,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -139,7 +142,8 @@
     "purchase_price": 412500000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 412.5 (p25)",
-    "purchase_price_source_page": 25
+    "purchase_price_source_page": 25,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -174,7 +178,8 @@
     "purchase_price": 82300000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 82.3 (p26)",
-    "purchase_price_source_page": 26
+    "purchase_price_source_page": 26,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -210,7 +215,8 @@
     "purchase_price": 186700000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 186.7 (p26)",
-    "purchase_price_source_page": 26
+    "purchase_price_source_page": 26,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -246,7 +252,8 @@
     "purchase_price": 120700000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 120.7 (p27)",
-    "purchase_price_source_page": 27
+    "purchase_price_source_page": 27,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -282,7 +289,8 @@
     "purchase_price": 218400000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 218.4 (p27)",
-    "purchase_price_source_page": 27
+    "purchase_price_source_page": 27,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -318,7 +326,8 @@
     "purchase_price": 238500000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 238.5 (p28)",
-    "purchase_price_source_page": 28
+    "purchase_price_source_page": 28,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -353,7 +362,8 @@
     "purchase_price": 64700000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 64.7 (p28)",
-    "purchase_price_source_page": 28
+    "purchase_price_source_page": 28,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -389,7 +399,8 @@
     "purchase_price": 113200000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 113.2 (p29)",
-    "purchase_price_source_page": 29
+    "purchase_price_source_page": 29,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -425,7 +436,8 @@
     "purchase_price": 166400000.0,
     "purchase_price_currency": "SGD",
     "purchase_price_note": "Property card 'Purchase price (S$ million)': 166.4 (p29)",
-    "purchase_price_source_page": 29
+    "purchase_price_source_page": 29,
+    "purchase_date": null
   },
   {
     "symbol": "Q5T.SI",
@@ -465,6 +477,7 @@
     "purchase_price": 6000000000.0,
     "purchase_price_currency": "JPY",
     "purchase_price_note": "Property card 'Purchase price (¥ million)': 6000.0 (p30)",
-    "purchase_price_source_page": 30
+    "purchase_price_source_page": 30,
+    "purchase_date": "2025-04-25"
   }
 ]

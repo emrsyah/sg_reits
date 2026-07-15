@@ -46,5 +46,10 @@
       "type": "distribution_paid_basis",
       "note": "cash distributed during FY (period-mixed); S$133,531k (0.819cts 28/11/24-31/12/24 tranche paid in FY2025 + 5.133cts 1/1/25-30/6/25 + 4.209cts 1/1/25-30/6/25 true-up) from audited Distribution Statement p114"
     }
-  ]
+  ],
+  "number_of_shareholder_units": 2440733452,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 64842000,
+  "distribution_cash_paid": 133531000,
+  "distributable_income_closing": 199362000
 }

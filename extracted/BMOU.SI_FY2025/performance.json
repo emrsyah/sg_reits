@@ -43,8 +43,24 @@
       "type": "wale_dual_basis",
       "scope": "wale",
       "note": "WALE 2.2 years by gross rental income (primary, stored); 4.2 years by NLA also disclosed (page 62)."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by 164000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. All four A/B/P/E values read verbatim from the audited consolidated Distribution Statement (Group column), page 128. B (net_distributable_income = 1,638) is the genuine for-the-year subtotal ('Income for the year available for distribution'), computed in-statement as Total loss for the year attributable to Unitholders (1,818) + Distribution adjustments (Note A) 3,456; it does NOT fold in the openi"
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distribution_pool_other_movements",
+      "note": "distribution_pool_other_movements = -164k = disclosed 'Amount retained' line (p128, operational expenses/working capital). Guard A 1,377 + B 1,638 - 164 - P 2,442 = E 409. Added 2026-07-14."
     }
   ],
   "source_page": 5,
-  "distribution_basis": "disclosed_after_retention"
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 519603000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 1377000,
+  "distribution_cash_paid": 2442000,
+  "distributable_income_closing": 409000,
+  "distribution_pool_other_movements": -164000
 }

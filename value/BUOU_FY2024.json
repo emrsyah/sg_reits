@@ -1,0 +1,120 @@
+{
+  "symbol": "BUOU.SI",
+  "financial_year": 2024,
+  "rollforward": {
+    "distributable_income_opening": {
+      "value": 131812000,
+      "verbatim_line": "Amount available for distribution to Unitholders at beginning of the year | 131,812 | 140,459",
+      "source_page": 203
+    },
+    "net_distributable_income": {
+      "value": 255515000,
+      "verbatim_line": "Distributable income for the year | 255,515 | 262,339 (also stated above as 'Distributable income' 255,515 = Income available for distribution 210,337 + Capital distribution 45,178)",
+      "source_page": 203
+    },
+    "distribution_cash_paid": {
+      "value": 262580000,
+      "verbatim_line": "Distributions to Unitholders: Distribution of 3.52c (1 Apr 2023-30 Sep 2023) (131,808); Distribution of 3.48c (1 Oct 2023-31 Mar 2024) (130,772) |  | (262,580) | (270,986)",
+      "source_page": 203
+    },
+    "distributable_income_closing": {
+      "value": 124747000,
+      "verbatim_line": "Amount available for distribution to Unitholders at end of the year | 124,747 | 131,812",
+      "source_page": 203
+    },
+    "distribution_paid_declared": {
+      "value": 255515000,
+      "verbatim_line": "Distributable income | 255,515 | 262,339 ; Distribution per Unit (DPU) 6.80 cents (DPU-basis amount declared in respect of FY2024)",
+      "source_page": 203
+    },
+    "guard_A_plus_B_minus_P": 124747000,
+    "guard_ok": true,
+    "notes": "Audited consolidated DISTRIBUTION STATEMENT for the year ended 30 September 2024 (AR page 203). A=opening 131,812; B=for-year subtotal 'Distributable income for the year' 255,515 (=income available 210,337 + capital distribution 45,178); this is the for-year line added to opening in the rollforward, NOT the cumulative 'Amount available for distribution to Unitholders' 387,327 (the trap) and NOT the pre-capital 'Income available for distribution' 210,337. P=total distributions actually paid during the year 262,580 (period-mixed: 3.52c H2-FY2023 tranche 131,808 + 3.48c H1-FY2024 tranche 130,772; H2-FY2024 3.32c declared 6 Nov 2024, paid post-FYE, excluded). E=closing 124,747. Guard A+B-P = 131,812+255,515-262,580 = 124,747 = E exactly (tol 0). declared (DPU-basis 'Distributable income' 255,515, distinct from cash paid P 262,580). Note: existing performance.json net_distributable_income=210,337 is the pre-capital-distribution 'Income available' line; the rollforward for-year value is 255,515 and is required for the guard to close."
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "89.9% equity interests in four German logistics and industrial properties",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": null,
+      "gain_basis": "Acquisition (not a divestment); no premium/discount to an independent valuation disclosed. Four L&I properties acquired from Sponsor at agreed property purchase price of EUR 129.5m; investment properties recognised at fair value S$188.293m (Note 32). Consideration/cash paid S$174.390m is an 89.9% asset-deal figure (equity S$61.888m + shareholders' loan S$112.502m) and is NOT comparable to the 100% property value, so no gain% derived.",
+      "valuation_date": "2024-03-27",
+      "announced_date": null,
+      "completed_date": "2024-03-27",
+      "sale_price": 174390000,
+      "valuation": 188293000,
+      "carrying_value": 199467000,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Fraser's Property Investments (Europe) BV and FPE Investments RE11 B.V. (Sponsor group)",
+      "deal_id": "buou:89_9_equity_interests_in_four_german_logistics_and_industrial_properties:acquisition:2024",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 295,
+      "verbatim": "Note 32 (p295): 'In 2024, the Group acquired 89.9% equity interests in four property holding companies which held interests in four logistics and industrial properties located in Germany... accounted for as acquisition of assets. Investment properties 188,293; Cash paid 174,390; Acquisition costs 1,820; Net cash outflow 174,787.' Portfolio Statement (p214) lists four assets dated 27 March 2024 with carrying values as at 30 Sep 2024: Billbrookdeich 167 Hamburg 89,431; Werner-Von-Siemens-Strasse 44 Saarwellingen 12,592; Hans-Fleissner Strasse 46-48 Egelsbach 68,969; Thomas-Dachser-Strasse 3 Ueberherrn 28,475 (sum 199,467). Manager report: 'acquired from our Sponsor, their interests in four German L&I properties, at an agreed property purchase price of EUR 129.5 million'."
+    },
+    {
+      "i": 1,
+      "property_name": "Engelandlaan 15, Maastricht Airport",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": null,
+      "gain_basis": "Acquisition of forward-funded freehold logistics development; no discrete purchase consideration and no premium/discount disclosed in the AR. Not applicable / not derivable.",
+      "valuation_date": "2024-09-30",
+      "announced_date": null,
+      "completed_date": null,
+      "sale_price": null,
+      "valuation": 22036000,
+      "carrying_value": 22036000,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": null,
+      "deal_id": "buou:engelandlaan_15_maastricht_airport:acquisition:2023",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 218,
+      "verbatim": "Portfolio Statement 'investment properties under development' (p218): 'Engelandlaan 15, Maastricht Airport | 17 November 2023 | Freehold | 22,036 | - | 0.5 | -'. Independent valuation as at 30 September 2024 EUR 15.4 million (feature p38, approx S$22.036m carrying amount). Operational review: 'The forward funded development was completed and lease commenced in October 2024' (no exact completion day disclosed); 'Ongoing as at 30 September 2024'. No purchase consideration disclosed in the AR."
+    },
+    {
+      "i": 2,
+      "property_name": "2 Tuas South Link 1",
+      "transaction_type": "announced_acquisition",
+      "gain_loss_pct": null,
+      "gain_basis": "Announced/completed post-FYE acquisition; no valuation, carrying value or gain% disclosed in the AR. Not applicable.",
+      "valuation_date": null,
+      "announced_date": "2024-10-17",
+      "completed_date": "2024-11-05",
+      "sale_price": 140300000,
+      "valuation": null,
+      "carrying_value": null,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "an unrelated third party of the Group",
+      "deal_id": "buou:2_tuas_south_link_1:announced_acquisition:2024",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 295,
+      "verbatim": "Note 33 Subsequent Events (p295): 'On 17 October 2024, FLCT Singapore 1 Trust, a wholly-owned subsidiary of the Group entered into a sale and purchase agreement with an unrelated third party of the Group to acquire a leasehold logistic property at 2 Tuas South Link 1 at a purchase price of S$140.3 million. The acquisition was completed on 5 November 2024.'"
+    },
+    {
+      "i": 3,
+      "property_name": "28 German properties (minority interest sale)",
+      "transaction_type": "announced_divestment",
+      "gain_loss_pct": null,
+      "gain_basis": "Minority (NCI-level) interest sale reducing effective interest from 100% to 89.9% in each of 28 German properties; no per-property carrying value, no gain on divestment and no net proceeds disclosed in the AR. Cannot derive gain% (no comparable base disclosed). Do NOT plug.",
+      "valuation_date": null,
+      "announced_date": "2024-11-05",
+      "completed_date": "2024-11-28",
+      "sale_price": 33300000,
+      "valuation": null,
+      "carrying_value": null,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "the existing minority shareholders of the property holding companies",
+      "deal_id": "buou:28_german_properties_minority_interest_sale:announced_divestment:2024",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 295,
+      "verbatim": "Note 33 Subsequent Events (p295): 'On 5 November 2024, FLCT's wholly-owned subsidiaries entered into share purchase agreements with the existing minority shareholders of the property holding companies of 28 of its German properties to reduce its effective interest in each of the German properties to 89.9% for sale consideration of EUR 23.3 million (approximately S$33.3 million).' Portfolio Statement footnote (p25): 'On 28 November 2024, effective interest in 28 of FLCT's German properties has each been reduced to 89.9%' (effective/completion date)."
+    }
+  ]
+}

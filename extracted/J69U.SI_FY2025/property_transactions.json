@@ -5,14 +5,25 @@
     "transaction_type": "acquisition",
     "property_name": "Northpoint City South Wing",
     "country": "Singapore",
-    "consideration": 1133000000,
+    "consideration": 380660000,
     "currency": "SGD",
     "completion_date": "2025-05-26",
     "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Total acquisition outlay approximately $393.2 million including transaction costs and completion adjustments. Agreed property value $1,133.0 million. Agreed property value $1,133.0m equals the average of two independent valuations: $1,146.0m (Colliers) and $1,120.0m (Savills) as at 31 Dec 2024 (p20). Acquisition funded via April 2025 EFR. Seller/vendor is the Sponsor group (Frasers Property Limited; interested-person transaction).",
     "source_page": 8,
     "counterparty": "Frasers Property Limited (Sponsor) — via acquisition of 100% of North Gem Trust and its trustee-manager",
     "valuation": 1133000000,
-    "purchase_price": 1133000000
+    "purchase_price": 380660000,
+    "interest_pct": 100,
+    "purchase_price_basis": "Note 7 'the purchase consideration' S$380.660m (equity paid for 100% units of North Gem Trust + trustee-manager shares). Total acquisition outlay S$393.238m (incl. acquisition fee S$11.330m + transaction costs). Gross investment property value recognised S$1,174.816m (= equity consideration + assumed borrowings S$781.851m; the analog to the SGX chartbook's ~S$1,172.9m). Agreed property value S$1,133.0m is the VALUATION field (avg Colliers S$1,146m + Savills S$1,120m). Corrected 2026-07-09: previously the agreed value S$1,133.0m was mis-stored as purchase_price; realigned to the ION Orchard convention (purchase_price=audited equity consideration, valuation=agreed property value).",
+    "deal_id": "j69u:northpoint_city_south_wing:acquisition:2025",
+    "announced_date": "2025-03-25",
+    "completed_date": "2025-05-26",
+    "gain_basis": null,
+    "valuation_date": "2024-12-31",
+    "source_type": "annual_report",
+    "transaction_date": "2025-05-26",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "n/a - acquisition (purchase); no gain/loss on divestment applies. Agreed property value $1,133.0m = average of independent valuations Colliers $1,146.0m + Savills $1,120.0m as at 31 Dec 2024. Audited equity consideration $380.660m; total acquisition outlay ~$393.2m (incl. transaction costs + completion adjustments); gross investment-property value recognised on acquisition of subsidiaries $1,174,816k (FS Note 4)."
   },
   {
     "symbol": "J69U.SI",
@@ -30,8 +41,18 @@
     "net_proceeds": 34128000,
     "net_proceeds_basis": "Derived net-of-cost proceeds = carrying_value 34,000,000 + disclosed net gain 128,000 (FS p199); reconciles the $128k 'net gain on divestment' against the $34.5m gross consideration (implied costs ~$372k). Gross sale price 34,500,000 kept in sale_consideration. Added 2026-07-01.",
     "gain_on_divestment": 128000,
-    "valuation": null,
+    "valuation": 34500000,
     "carrying_value": 34000000,
-    "carrying_value_basis": "Investment-property movement note: 'Disposal (34,000)'; FY-end carrying value $34.0m (p199). Verified 2026-06-30."
+    "carrying_value_basis": "Investment-property movement note: 'Disposal (34,000)'; FY-end carrying value $34.0m (p199). Verified 2026-06-30.",
+    "deal_id": "j69u:yishun_10_retail_podium:divestment:2025",
+    "completed_date": "2025-09-23",
+    "gain_loss_pct": 1.47,
+    "gain_basis": "vs_book_value",
+    "valuation_date": "2025-05-31",
+    "source_type": "annual_report",
+    "sale_price": 34500000,
+    "transaction_date": "2025-09-23",
+    "announcement_refs": null,
+    "gain_on_divestment_basis": "DERIVED vs_book_value = (sale_price 34,500,000 - carrying_value 34,000,000)/34,000,000 = 1.47% (net_sale_proceeds not disclosed, so sale_price used per formula). No premium%/gain% disclosed in AR. For reference the disclosed net gain on divestment $128,000 (FS Note 4, net of transaction costs) = 0.38% of carrying value. FLAGGED as derived."
   }
 ]

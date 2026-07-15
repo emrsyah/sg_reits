@@ -1,0 +1,33 @@
+{
+  "symbol": "ODBU.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 606440000, "page": 195, "note": "Note 16: Total Units issued and to be issued as at end of FY = 606,440 ('000); Units issued only = 605,464 ('000). Balance sheet uses 606,440 ('000)"},
+    "dpu_period_months": {"value": 12, "page": 5, "note": "full FY 1 Jan-31 Dec 2025 (1H2025 2.09c + 2H2025 2.30c)"}
+  },
+  "properties": [
+    {"property_name": "Hudson Valley Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Albany - Gas Station", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Towne Crossing", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Lynncroft Center", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Garden City Square - BJ's Wholesale Club", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Garden City Square - LA Fitness", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Price Chopper Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Piscataway Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Fairhaven Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Wallington ShopRite", "purchase_date": null, "page": null, "note": "no acquisition date disclosed; only ground-lease commencement 30 May 2013 (not an acquisition date)"},
+    {"property_name": "Parkway Crossing", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Wallkill Price Chopper", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "St. Lucie West", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "BJ's Quincy", "purchase_date": null, "page": null, "note": "no acquisition date disclosed; property built 2009 / leased since 2010 (not acquisition dates)"},
+    {"property_name": "Arundel Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Lawnside Commons", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Colonial Square", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR (SPV name year is not a disclosed acquisition date)"},
+    {"property_name": "Penrose Plaza", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR (SPV name year is not a disclosed acquisition date)"},
+    {"property_name": "Upland Square", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR (SPV name year is not a disclosed acquisition date)"},
+    {"property_name": "Dover Marketplace", "purchase_date": "2025-08-01", "page": 167, "note": "Portfolio Statement footnote (3): Dover Marketplace was acquired on 1 August 2025; also stated pp35, 47"},
+    {"property_name": "Carteret Self-Storage", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"},
+    {"property_name": "Millburn Self-Storage", "purchase_date": null, "page": null, "note": "no acquisition/purchase date disclosed in AR"}
+  ],
+  "summary": {"n_properties": 22, "purchase_date_filled": 1, "purchase_date_null": 21}
+}

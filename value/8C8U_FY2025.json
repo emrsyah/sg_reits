@@ -1,0 +1,66 @@
+{
+  "symbol": "8C8U.SI",
+  "financial_year": 2025,
+  "rollforward": {
+    "distributable_income_opening": 0,
+    "net_distributable_income": 29995000,
+    "distribution_cash_paid": 0,
+    "distributable_income_closing": null,
+    "distribution_paid_declared": null,
+    "guard_A_plus_B_minus_P": 29995000,
+    "guard_ok": null,
+    "notes": "Source: audited DISTRIBUTION STATEMENT, p52 (financial period 12 Aug 2025 (date of constitution) to 31 Dec 2025). The statement lists only: opening line (blank) -> Profit after tax 9,695 -> Adjustment for non-tax items (A) 20,300 -> 'Amount available for distribution to Unitholders' 29,995 -> closing line (blank). (A) opening 'Amount available for distribution to Unitholders at beginning of the financial period' is DISCLOSED-AS-BLANK; set 0 by construction as CAREIT was constituted 12 Aug 2025 with no prior period (flagged, not plugged; opening carry is definitionally nil). (B) net_distributable_income = 29,995k = the for-period subtotal 'Amount available for distribution to Unitholders' (9,695 + 20,300), NOT a cumulative line (there is no opening carry) and NOT after-retention; confirmed vs existing extract. (P) distribution_cash_paid set 0: the Distribution Statement has NO distribution-paid/'to be distributed' line; the Statement of Movements in Unitholders' Funds (p55) shows full retention of the 9,695 profit and zero distribution outflow; Note 32 Events after reporting date (p74) states the FP2025 distribution of 1.739 cents/unit was only DECLARED on 23 Feb 2026 (after year-end), so cash paid during the period is nil (flagged, cross-verified, not plugged). (E) closing 'Amount available for distribution to Unitholders at end of the financial period' is DISCLOSED-AS-BLANK; nulled (would economically equal the undistributed 29,995k, but no numeric value is stated -> NOT plugged). distribution_paid_declared nulled: audited Note 32 (p74) discloses DPU 1.739 cents declared 23 Feb 2026 for FP2025 but no S$ amount; the S$29,953k 'Amount to be distributed to Unitholders' figure appears only in Financial Highlights (excluded per AR-audited-only rule). GUARD: A+B-P = 0+29,995-0 = 29,995k, which matches the economically-implied closing; guard_ok=null because E is not numerically disclosed in the audited statement, so the A+B-P==E identity is unverifiable (not broken -> no mis-read to fix).",
+    "verbatim_lines": {
+      "opening": "Amount available for distribution to Unitholders at beginning of the financial period | (blank) [Distribution Statement, p52]",
+      "net_distributable_income": "Amount available for distribution to Unitholders | 29,995 [Distribution Statement, p52; = Profit after tax 9,695 + Adjustment (A) 20,300]",
+      "distribution_cash_paid": "No distribution-paid line in the Distribution Statement; Statement of Movements in Unitholders' Funds (p55) shows full retention (retained earnings 9,695, no distribution outflow); Note 32 (p74): 'On 23 February 2026, the Manager declared a distribution of 1.739 cents per Unit for FP 2025.'",
+      "closing": "Amount available for distribution to Unitholders at end of the financial period | (blank) [Distribution Statement, p52]",
+      "declared": "Note 32 (p74): 'On 23 February 2026, the Manager declared a distribution of 1.739 cents per Unit for FP 2025.' (no S$ amount in audited statements)"
+    },
+    "source_page": 52
+  },
+  "txns": [
+    {
+      "i": 0,
+      "property_name": "IPO Portfolio (14 assets: 5 PBWA SG + 8 PBSA UK + 1 PBSA AU)",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": null,
+      "gain_basis": "Acquisition (IPO Portfolio acquired at listing on 25 Sep 2025), not a divestment -> no transaction gain/loss. Note 19(a) (p65): acquisition value of IPO Portfolio S$1,862,609k + acquisition costs S$32,934k; end-of-period carrying/valuation S$1,884,420k. The period difference is a net fair-value change (loss S$11,383k) plus capex S$1,023k and FX (S$763k), NOT a transaction gain -> gain_loss_pct not computed (would conflate fair-value movement with a divestment premium).",
+      "valuation_date": "2025-12-31",
+      "announced_date": null,
+      "completed_date": "2025-09-25",
+      "sale_price": null,
+      "valuation": 1884420000,
+      "carrying_value": 1884420000,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Sponsor-related vendor entities: Centurion Dormitories Pte. Ltd.; Lian Beng-Centurion (Mandai) Pte. Ltd.; Centurion Dormitories Holdings Pte. Ltd.; Lien Properties Pte. Ltd.; Centurion Corporation Limited and Lian Beng Group Pte. Ltd. (SG); Centurion General Partners (I) Pte. Ltd. as GP of Centurion UK S.A. Fund LP (UK); Centurion Investments (JS A) Ltd and Centurion Overseas Investments (II) Pte. Ltd. (AU)",
+      "deal_id": "8c8u:ipo_portfolio:acquisition:2025",
+      "source_type": "annual_report",
+      "announcement_gap": false,
+      "source_page": 65,
+      "verbatim": "Note 19(a) Investment properties (p65): 'Acquisition value of the IPO Portfolio | 1,862,609' ... 'Acquisition costs | 32,934' ... 'End of financial period | 1,884,420'. Portfolio Statement (p56): total investment properties 1,884,420; 'The carrying amounts of the investment properties were based on independent valuations as at 31 December 2025' (Knight Frank Pte Ltd, Savills Valuations Pty Ltd, Knight Frank LLP). Cash-flow note (B) (p56): 'Acquisition of the properties | 1,862,609; Add: Acquisition costs | 32,934'."
+    },
+    {
+      "i": 1,
+      "property_name": "EPIISOD Macquarie Park (Sydney, PBSA, 732 beds)",
+      "transaction_type": "acquisition",
+      "gain_loss_pct": null,
+      "gain_basis": "Subsequent-event acquisition (completed 13 Jan 2026, after FP2025 year-end); not a divestment and not in the FY2025 portfolio/financials -> no gain/loss. Per p1: 'Unless otherwise disclosed, the disclosures in this Annual Report do not include details of EPIISOD Macquarie Park, as the acquisition was completed in January 2026.'",
+      "valuation_date": null,
+      "announced_date": null,
+      "completed_date": "2026-01-13",
+      "sale_price": null,
+      "valuation": null,
+      "carrying_value": null,
+      "gain_on_divestment": null,
+      "net_sale_proceeds": null,
+      "counterparty": "Vendor not named in the audited AR; master lease in place with Centurion Properties Pte. Ltd. ('CPPL') and the Sponsor (Centurion Corporation Limited) as master tenant / corporate guarantors until 31 Dec 2027 (fixed rental A$14.1m for FY2026).",
+      "deal_id": "8c8u:epiisod_macquarie_park:acquisition:2026",
+      "source_type": "annual_report",
+      "announcement_gap": true,
+      "source_page": 74,
+      "verbatim": "Note 32 Events occurring after reporting date (p74): 'On 13 January 2026, the Group completed the acquisition of the 732-bed EPIISOD Macquarie Park, a PBSA asset located in Australia, for A$345.0 million. The acquisition was fully financed through committed debt facilities.' Note 15 (p63): 'Includes the acquisition costs paid to acquire EPIISOD Macquarie Park of S$16,301,000. The acquisition of the property was completed on 13 January 2026.' announcement_gap=true: after-FYE, only A$ acquisition cost disclosed (no independent valuation, no S$ net cash / carrying value in FY2025 financials) -> MAIN to top up from SGX announcement."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "symbol": "CY6U.SI",
+  "financial_year": 2025,
+  "performance": {
+    "number_of_shareholder_units": {"value": 1355589000, "page": 148, "note": "Note 26 Units in issue: 'Balance at end of financial year' 1,355,589 thousand units at 31 Dec 2025 (x1000)"},
+    "dpu_period_months": {"value": 12, "page": 6, "note": "full FY Jan-Dec 2025; DPU 7.87 Singapore cents for FY2025"}
+  },
+  "properties": [
+    {"property_name": "International Tech Park Bangalore (ITPB)", "purchase_date": null, "page": null, "note": "no acquisition date disclosed for the property; AR only footnotes Bridge+ Bangalore (a building within ITPB) acquired Aug 2024"},
+    {"property_name": "International Tech Park Chennai (ITPC)", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "CyberVale", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR (divested September 2025)"},
+    {"property_name": "International Tech Park Hyderabad (ITPH)", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "aVance, HITEC City, Hyderabad", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "CyberPearl", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR (divested September 2025)"},
+    {"property_name": "Building Q1, Aurum Q Parc", "purchase_date": null, "page": null, "note": "acquisition date not disclosed (only Building Q2 acquisition date given; Q1 already income-producing in FY2024)"},
+    {"property_name": "Building Q2, Aurum Q Parc", "purchase_date": "2024", "page": 24, "note": "narrative: acquisition of Building Q2 completed in July 2024 (year-only stored; month July 2024 disclosed)"},
+    {"property_name": "aVance I, Pune", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "aVance II, Pune", "purchase_date": "2024", "page": 24, "note": "narrative: acquisition of aVance II, Pune completed in March 2024 (year-only stored; month March 2024 disclosed)"},
+    {"property_name": "International Tech Park Pune, Hinjawadi (ITPP-H)", "purchase_date": "2023", "page": 152, "note": "related-party note: in 2023 APFI (CLINT subsidiary) acquired 100% equity interest in ITPP-H from AID VII (78.53%) and MIDC (21.47%)"},
+    {"property_name": "Logistics Park", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "Industrial Facility 1, Mahindra World City", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "Industrial Facility 2 and 3, Mahindra World City", "purchase_date": null, "page": null, "note": "acquisition date not disclosed in AR"},
+    {"property_name": "CapitaLand Data Centre ITPB", "purchase_date": null, "page": null, "note": "acquisition date not disclosed (greenfield DC development on hold)"},
+    {"property_name": "CapitaLand Data Centre Chennai", "purchase_date": null, "page": null, "note": "acquisition date not disclosed (greenfield DC under development; land-acquisition date not stated)"},
+    {"property_name": "CapitaLand Data Centre ITPH", "purchase_date": null, "page": null, "note": "acquisition date not disclosed (greenfield DC under development)"},
+    {"property_name": "CapitaLand Data Centre Navi Mumbai", "purchase_date": "2021", "page": 36, "note": "DC timeline: in 2021 CLINT acquired land for the first data centre greenfield development in Navi Mumbai (year-only)"}
+  ],
+  "summary": {"n_properties": 18, "purchase_date_filled": 4, "purchase_date_null": 14}
+}
