@@ -10,16 +10,16 @@
     "operating_income": 522050000,
     "operating_expense": 103243000,
     "ebit": 522050000.0,
-    "ebitda": 498266000.0,
+    "ebitda": 418175000.0,
     "pretax_income": 273761000,
     "income_taxes": 64865000,
     "net_income": 208896000,
     "non_operating_income_or_loss": -248289000,
-    "interest_expense_non_operating": 156893000.0,
+    "interest_expense_non_operating": 145905000.0,
     "weighted_avg_shares_basic": 5034448000,
     "diluted_shares_outstanding": 5034448000,
     "net_property_sales": 0,
-    "funds_from_operation": 276508000.0,
+    "funds_from_operation": 207405000.0,
     "unitholders": 183540000,
     "perpetual_security_holders": -24231000.0,
     "minorities": -1125000.0,
@@ -67,7 +67,7 @@
       "non_operating_income_or_loss",
       "operating_income"
     ],
-    "depreciation": 67612000
+    "depreciation": -1491000
   },
   "balance_sheet_metrics": {
     "total_asset": 13892867000,
@@ -84,8 +84,8 @@
     "investing_cash_flow": -243692000,
     "financing_cash_flow": -286737000,
     "net_cash_flow": 5600000,
-    "free_cash_flow": 125507000.0,
-    "capital_expenditure": 410522000.0
+    "free_cash_flow": -491565000.0,
+    "capital_expenditure": 1027594000.0
   },
   "employee_breakdown": null,
   "line_items": [
