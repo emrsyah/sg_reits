@@ -23,15 +23,24 @@ currency logic** (FX already applied in the final-table build). This supersedes 
 `SGX REIT upsert.ipynb` (which typed financials + `distribution_metrics` from
 `v2 - SGX - FY20xx - REIT.xlsx` and pulled only property/top_tenant/trade_mix from the DB).
 
-**STATUS (2026-07-14):** `sgx_manual_input` is NOT yet written by us (still fed by the colleague's
-notebook) and is intentionally left untouched for now. DONE so far, in RAW + FINAL only:
-(1) `units_to_be_issued` + `distribution_pool_other_movements` backfills (section 8);
-(2) Evelyn's meeting conventions applied to `sgx_reit_financial` income_stmt_metrics /
-cash_flow_metrics (EBIT=NOI; depreciation = C/F P&amp;E dep + net FV change of IP; EBITDA = pretax +
-interest + depreciation; interest = finance costs; FFO = net_income + depreciation -
-net_property_sales; CAPEX = sum of IP investing outflows, positive; minorities/perps negative) —
-see `manual_vs_ours_parity.md` section 5. REMAINING: build the `*_final -> sgx_manual_input`
-projection itself (this doc), when approved to write `sgx_manual_input`; define annualized DPU (Muhammad).
+**STATUS (2026-07-28):** the pure-OURS projection is now IMPLEMENTED as
+`scripts/db/build_manual_input_from_final.py` (DRY by default; `--verify` diffs vs prod;
+`--write` upserts prod `sgx_manual_input`). It supersedes the Excel-hybrid
+`prod_upsert_manual_input.py` / `SGX REIT upsert.ipynb`. Not yet run with `--write` — prod
+`sgx_manual_input` is still the colleague's Excel-fed rows until approved.
+Verified (`--verify`) on all 10 prod pilot REITs: **structure matches** (our income_stmt is a
+superset — we always emit `basic_shares_outstanding`, which some prod rows omit; industry_breakdown
+always carries the full 5 subkeys); **as-declared values match**; only the convention-derived
+`ebit`/`ebitda`/`funds_from_operation`/`interest_expense_non_operating` differ from the old Excel
+figures (Evelyn-locked conventions — intended, ours is authoritative).
+DONE in RAW + FINAL: (1) `units_to_be_issued` + `distribution_pool_other_movements` backfills (§8);
+(2) Evelyn conventions on `sgx_reit_financial` (EBIT=NOI; depreciation = C/F P&amp;E dep + net FV change
+of IP; EBITDA = pretax + interest + depreciation; interest = finance costs; FFO = net_income +
+depreciation - net_property_sales; CAPEX = IP investing outflows, positive; minorities/perps
+negative); (3) FX (incl. VND) applied in `build_final`; (4) `properties_location` normalization moved
+into `build_final`. KNOWN GAP: M44U/ME8U/N2IU **FY2025** (Mar-2026) rows have `funds_from_operation =
+null` in `financial_final` — re-run `_apply_conventions` (atoms exist) before promoting them.
+REMAINING: run the projection `--write` when approved; define annualized DPU (Muhammad).
 
 ## 1. The projection: `sgx_manual_input` &lt;- `sgx_reit_*_final`
 
@@ -44,7 +53,7 @@ One row per `(symbol, financial_year)`, built from `financial_final + top_tenant
 | `financial_year`                                    | `performance_final.date`                | **DERIVE via FY rule** (see 4) — do NOT copy our `financial_year`                                       |
 | `date`                                              | `performance_final.date`                | copy (FY-end)                                                                                           |
 | `source_url`                                        | `performance_final.source_url`          | copy (per-year AR PDF link; backfilled from R2 `reit_report.pdf_r2_key`, 47/47)                          |
-| `income_stmt_metrics`                               | `financial_final.income_stmt_metrics`   | copy 1:1 (already SGD; `basic_shares_outstanding` already renamed, `_derived` already dropped in final) |
+| `income_stmt_metrics`                               | `financial_final.income_stmt_metrics`   | copy (already SGD; `basic_shares_outstanding` already renamed, `_derived` already dropped in final) **but DROP `depreciation`** — it's an ours-only derived key that `final` carries and `sgx_manual_input` does not have (21-key set below) |
 | `balance_sheet_metrics`                             | `financial_final.balance_sheet_metrics` | copy 1:1 (SGD)                                                                                          |
 | `cash_flow_metrics`                                 | `financial_final.cash_flow_metrics`     | copy 1:1 (SGD)                                                                                          |
 | `employee_breakdown`                                | `financial_final.employee_breakdown`    | copy (usually null)                                                                                     |
