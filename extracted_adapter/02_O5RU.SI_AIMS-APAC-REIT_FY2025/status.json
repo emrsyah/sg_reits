@@ -1,0 +1,21 @@
+{
+  "stem": "02_O5RU.SI_AIMS-APAC-REIT_FY2025",
+  "symbol": "O5RU.SI",
+  "financial_year": 2025,
+  "sub_sector": "Industrial",
+  "template_family": "AIMS APAC",
+  "parsed": {"markdown": "parsed_reports_datalab/02_O5RU.SI_AIMS-APAC-REIT_FY2025/full.md"},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "rows": 1},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1},
+    "properties":  {"status": "done", "method": "llm_only", "rows": 28, "note": "read directly from per-property Property Portfolio tables pp.57-61 (millions); 25 SG + 3 AU; Optus #27 = 49% JV; #21 held_for_sale"},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10},
+    "trade_mix":   {"status": "done", "method": "llm_only", "rows": 9},
+    "financial":   {"status": "done", "method": "llm_only", "rows": 1, "note": "audited STR p174, SFP p173, CF p187, distribution p175; full STR captured; reconciles to net_income 131,196"},
+    "property_transactions": {"status": "done", "method": "llm_only", "rows": 3}
+  },
+  "final_dir": "extracted/O5RU.SI_FY2025",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "period_end": "2026-03-31",
+  "updated": "2026-07-28"
+}

@@ -47,6 +47,8 @@ CANON = {
     "Denmark": ["Denmark"],
     "Czech Republic": ["Czech Republic", "Czechia"],
     "Finland": ["Finland"],
+    "Slovakia": ["Slovakia", "Slovak Republic"],
+    "Switzerland": ["Switzerland"],
 }
 
 # spelling -> canonical, and a longest-first alternation for scanning

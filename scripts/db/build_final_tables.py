@@ -5,6 +5,8 @@ import os, json, math, sys
 import psycopg2
 from psycopg2.extras import Json, execute_values
 from dotenv import load_dotenv
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from normalize_locations import normalize_locations  # canonical country cleanup for properties_location
 load_dotenv('.env')
 
 DRY_RUN = ('--write' not in sys.argv)
@@ -99,7 +101,7 @@ for r in cur.fetchall():
     (sym,fy,date,src,ccy,ploc,nuh,nsu,utbi,drec,dpm,lev,icr,cod,wadm,wale,occ,dpu,nav,
      pv,gr,npi,ndi,adi,dp,dio,dcp,dic,pool)=r
     def cv(v): return to_sgd(v, ccy, date, f'perf.{sym}')
-    prows.append((sym,fy,date,src,ploc,nuh,
+    prows.append((sym,fy,date,src,normalize_locations(ploc),nuh,
       float(nsu) if nsu is not None else None,
       float(utbi) if utbi is not None else None,
       Json(drec) if drec is not None else None,

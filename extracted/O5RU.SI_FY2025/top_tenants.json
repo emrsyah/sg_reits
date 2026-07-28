@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 1,
+    "client_name": "Woolworths Ltd.",
+    "industry": "Departmental Store/Supermarket",
+    "revenue_pct": 12.4,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 2,
+    "client_name": "Optus Administration Pty Limited",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 9.5,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 3,
+    "client_name": "Illumina Singapore Pte. Ltd.",
+    "industry": "Healthcare & Wellness",
+    "revenue_pct": 6.6,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 4,
+    "client_name": "KWE-Kintetsu World Express (S) Pte. Ltd.",
+    "industry": "Logistics & Supply Chain Management",
+    "revenue_pct": 6.1,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 5,
+    "client_name": "Schenker Singapore (S) Pte. Ltd.",
+    "industry": "Logistics & Supply Chain Management",
+    "revenue_pct": 3.7,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 6,
+    "client_name": "Beyonics International Pte. Ltd.",
+    "industry": "Manufacturing",
+    "revenue_pct": 3.3,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 7,
+    "client_name": "ResMed Asia Pte. Ltd.",
+    "industry": "Healthcare & Wellness",
+    "revenue_pct": 2.7,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 8,
+    "client_name": "Racks Central Pte. Ltd.",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.0,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 9,
+    "client_name": "Blue Water Shipping Singapore Pte. Ltd.",
+    "industry": "Logistics & Supply Chain Management",
+    "revenue_pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 43
+  },
+  {
+    "symbol": "O5RU.SI",
+    "financial_year": 2025,
+    "rank": 10,
+    "client_name": "Boardriders Inc",
+    "industry": "Fashion & Accessories",
+    "revenue_pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 43
+  }
+]

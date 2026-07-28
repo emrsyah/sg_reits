@@ -60,6 +60,8 @@ ATOM = {
  ("TS0U.SI",2024):(61,153570,116711,25829), ("UD1U.SI",2024):(0,19375,7412,2443),
  # XZL: hotels held as PPE; PPE revaluation (-11,925k) treated as IP-FV analogue -> fv=11925 (decision 2026-07-28)
  ("XZL.SI",2024):(29215,11925,22832,20462),
+ # O5RU AIMS APAC declared FY2025 (period-end 31 Mar 2026), added 2026-07-28
+ ("O5RU.SI",2025):(905,-36636,32897,72709),
 }
 
 def n(v):

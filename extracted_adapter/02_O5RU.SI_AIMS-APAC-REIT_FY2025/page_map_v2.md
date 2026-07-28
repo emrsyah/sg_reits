@@ -3,211 +3,254 @@
 _Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
 _Routing only; confirm the page & extract from it, not from here._
 
-## profile  — top: p21  · audited('000): p136
-- [1.00] p21 — This page presents a flowchart illustrating the Trust Structure of AIMS APAC REIT, detailing the relationships between U
-- [1.00] p26 — no schema-relevant data
-- [1.00] p29 — no schema-relevant data
+## profile  — top: p23  · audited('000): p125
+- [1.00] p23 — This page displays the AIMS AA REIT Trust Structure flowchart and text detailing the organizational hierarchy between Un
 - [1.00] p28 — no schema-relevant data
-- [1.00] p125 — no schema-relevant data
-- [1.00] p237 — no schema-relevant data
-- [1.00] p27 — no schema-relevant data
-- [1.00] p3 — no schema-relevant data
-- [0.99] p152 — This page contains the Report of the Trustee for AIMS APAC REIT, confirming that HSBC Institutional Trust Services (Sing
-- [0.99] p126 — no schema-relevant data
-- [0.99] p129 — no schema-relevant data
-- [0.98] p22 — no schema-relevant data
-- [0.98] p25 — no schema-relevant data
-- [0.98] p23 — no schema-relevant data
-- [0.96] ['000] p136 — no schema-relevant data
-- [0.96] p132 — no schema-relevant data
-- [0.95] p128 — no schema-relevant data
-- [0.95] p133 — no schema-relevant data
-- [0.95] ['000] p149 — no schema-relevant data
-- [0.94] p24 — no schema-relevant data
-- [0.94] ['000] p195 — This page presents the Subsidiaries table listing 10 entities with their incorporation countries, principal activities, 
-- [0.93 OCR] p92 — no schema-relevant data
-- [0.93] p127 — no schema-relevant data
-- [0.93] p131 — no schema-relevant data
-- [0.93] p153 — no schema-relevant data
-- [0.92] p148 — no schema-relevant data
-- [0.90] p146 — no schema-relevant data
-- [0.85] p171 — no schema-relevant data
-- [0.85] p145 — no schema-relevant data
-- [0.83] p155 — no schema-relevant data
-- [0.82] p130 — no schema-relevant data
-- [0.80] ['000] p143 — no schema-relevant data
-- [0.80 OCR] [million] p11 — no schema-relevant data
-- [0.78] p147 — no schema-relevant data
-- [0.75] p150 — no schema-relevant data
-- [0.72] ['000] p234 — This page presents the table of Interested Person/Interested Party Transactions, detailing aggregate values in S$'000 fo
-- [0.68] p144 — no schema-relevant data
-- [0.65] p74 — no schema-relevant data
-- [0.65 OCR] ['000] p137 — no schema-relevant data
-- [0.65] p135 — no schema-relevant data
-- [0.62] p208 — no schema-relevant data
-- [0.62 OCR] p15 — no schema-relevant data
-- [0.55] p156 — no schema-relevant data
-- [0.53] p134 — no schema-relevant data
-- [0.50] p2 — no schema-relevant data
-- [0.49] ['000] p113 — This page presents the SGX REIT's FY2024 to FY2025 CSR targets and achievements alongside a Profile of Our Workforce tab
-- [0.32] ['000] p212 — This page presents the Group's commitments and significant related party transactions, explicitly detailing manager fees
-- [0.27 OCR] [million] p100 — no schema-relevant data
-- [0.24] ['000] p173 — no schema-relevant data
-- [0.23] ['000] p207 — This page presents the audited Portfolio Statement detailing units in issue and to be issued for the AIMS APAC REIT, wit
-- [0.22 OCR] p141 — no schema-relevant data
-- [0.16 OCR] p8 — no schema-relevant data
+- [1.00] p31 — no schema-relevant data
+- [1.00] p30 — no schema-relevant data
+- [1.00 OCR] ['000] p125 — no schema-relevant data
+- [1.00] p139 — no schema-relevant data
+- [1.00] p259 — no schema-relevant data
+- [1.00] p3 — [summary error 504]
+- [1.00 OCR] p21 — no schema-relevant data
+- [1.00] p29 — no schema-relevant data
+- [1.00 OCR] p152 — no schema-relevant data
+- [1.00] p167 — This page contains the Trustee's Report for AIMS APAC REIT, signed by HSBC Institutional Trust Services (Singapore) Limi
+- [0.99 OCR] p22 — no schema-relevant data
+- [0.99 OCR] p126 — no schema-relevant data
+- [0.99 OCR] p129 — no schema-relevant data
+- [0.99] p140 — no schema-relevant data
+- [0.98] p143 — no schema-relevant data
+- [0.98] p146 — no schema-relevant data
+- [0.97] p25 — no schema-relevant data
+- [0.97] p142 — no schema-relevant data
+- [0.97] p27 — no schema-relevant data
+- [0.97] p24 — no schema-relevant data
+- [0.96 OCR] p128 — no schema-relevant data
+- [0.96 OCR] p153 — no schema-relevant data
+- [0.96 OCR] p132 — no schema-relevant data
+- [0.94] p141 — no schema-relevant data
+- [0.94] p145 — no schema-relevant data
+- [0.94] p168 — This page contains the Statement by the Manager for AIMS APAC REIT Management Limited, confirming that the financial sta
+- [0.93] p144 — no schema-relevant data
+- [0.93] p147 — no schema-relevant data
+- [0.93] p163 — no schema-relevant data
+- [0.93] ['000] p164 — no schema-relevant data
+- [0.93] ['000] p150 — This page details the Director's fees and remuneration for the CEO and Key Management Personnel (KMP) paid by the Manage
+- [0.93 OCR] p136 — no schema-relevant data
+- [0.92 OCR] p127 — no schema-relevant data
+- [0.92 OCR] [million] p92 — no schema-relevant data
+- [0.91 OCR] p130 — no schema-relevant data
+- [0.91] p165 — This page outlines the corporate governance structure and fee methodology for AA REIT, specifically detailing the Manage
+- [0.90] p26 — no schema-relevant data
+- [0.88] p95 — no schema-relevant data
+- [0.88 OCR] [million] p155 — no schema-relevant data
+- [0.87] ['000] p214 — This page presents the Subsidiaries table listing 10 entities with their incorporation countries, principal activities, 
+- [0.87 OCR] p131 — no schema-relevant data
+- [0.87 OCR] p133 — no schema-relevant data
+- [0.84] p171 — no schema-relevant data
+- [0.83] ['000] p158 — no schema-relevant data
+- [0.83] p161 — no schema-relevant data
+- [0.82] [million] p10 — no schema-relevant data
+- [0.82] p172 — no schema-relevant data
+- [0.81 OCR] [million] p11 — no schema-relevant data
+- [0.80] p51 — no schema-relevant data
+- [0.77] p189 — no schema-relevant data
+- [0.77 OCR] ['000] p135 — no schema-relevant data
+- [0.76] ['000] p255 — This page details the SGX-ST and Property Funds Appendix-compliant interested person/interested party transactions for A
+- [0.76] p148 — no schema-relevant data
+- [0.76] p159 — no schema-relevant data
+- [0.68 OCR] p137 — no schema-relevant data
+- [0.68] p149 — no schema-relevant data
+- [0.65 OCR] p134 — no schema-relevant data
+- [0.65 OCR] p15 — no schema-relevant data
+- [0.59] p160 — no schema-relevant data
+- [0.59 OCR] p113 — no schema-relevant data
+- [0.56] p157 — This page details the Role of the ARCC Chairperson and summarizes the independent reviews conducted by the Asset Review 
+- [0.56 OCR] p156 — no schema-relevant data
+- [0.56] p162 — no schema-relevant data
+- [0.37 OCR] p2 — [summary error 504]
+- [0.34] p190 — no schema-relevant data
+- [0.28 OCR] [million] p100 — no schema-relevant data
+- [0.25 OCR] p48 — no schema-relevant data
+- [0.24] ['000] p226 — This page details the issuance of Units to the Manager and Property Manager as partial fee payments for periods ending i
+- [0.22] ['000] p230 — This page details the Group's commitments for capital expenditure and electricity system installations, alongside a tabl
+- [0.16 OCR] p1 — [summary error 504]
 
-## performance  — top: p5  · audited('000): p232
-- [1.00] [million] p5 — This page presents the FY2025 key financial and operational highlights for AA REIT, featuring a "Resilient Financial Per
-- [1.00] [million] p6 — This page presents the Financial Highlights for SGX REIT, displaying tables and charts for Gross Revenue, Net Property I
-- [1.00] [million] p47 — This page presents the AA REIT Unit Price Performance and Total Unitholder Return tables, reporting unit price metrics (
-- [1.00] ['000] p232 — This page presents the **Statistics of Unitholdings** for AIMS APAC REIT as at 28 May 2025, reporting issued and fully p
-- [1.00] p233 — This page presents the Substantial Unitholders and Directors' Unitholdings as at 28 May 2025, detailing direct, deemed, 
-- [1.00] ['000] p46 — This page presents the **Unit Price Performance** and **Monthly Trading Performance** of AA REIT for FY2025, featuring a
-- [1.00] ['000] p7 — This page presents the DPU and financial highlights for SGX REIT, displaying Gross Revenue, Net Property Income, and Dis
-- [0.99] p38 — no schema-relevant data
-- [0.99] ['000] p159 — This page presents the Distribution Statements for SGX REIT (SGD'000) covering the year ended 31 March 2025, detailing t
-- [0.99] ['000] p34 — This page presents the DISTRIBUTIONS TO UNITHOLDERS, TOTAL ASSETS AND NET ASSET VALUE ("NAV") PER UNIT, and CASH FLOWS f
-- [0.98] p48 — This page of the AA REIT annual report details the company's Investor Relations activities, including its policy, disclo
-- [0.96] [million] p36 — This page presents the **Aggregate Leverage Ratio** table for AA REIT covering FY 2021 to 2025, reporting Total Assets a
-- [0.88] [million] p35 — This page presents the Capital Management section featuring two tables: a Key Financial Metrics table reporting Gross bo
-- [0.87] ['000] p69 — This page features three key market data artifacts for JTC multiple-user factory space: Exhibit 5-8 detailing Net Demand
-- [0.86] [million] p12 — no schema-relevant data
-- [0.82] ['000] p157 — This page presents the Statements of Financial Position for SGX REIT as at 31 March 2025, reporting Group and Trust bala
-- [0.82] ['000] p71 — This page presents Exhibit 6-3, a dual-axis chart and table detailing the net demand and occupancy rates of business par
-- [0.78] [million] p10 — no schema-relevant data
-- [0.78] ['000] p211 — This page presents the Audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss),
-- [0.71] ['000] p207 — This page presents the audited Portfolio Statement detailing units in issue and to be issued for the AIMS APAC REIT, wit
-- [0.63] ['000] p73 — This page features Exhibit 7-3, a table and chart detailing net demand and occupancy rates for warehouse space from 2014
-- [0.46] p231 — This page contains the Financial Ratios table (Expenses to weighted average net assets and Portfolio turnover rate) for 
-- [0.41 OCR] p17 — no schema-relevant data
-- [0.36] p41 — This page details the Manager's lease activity and rental performance for FY2025, featuring a table titled "Rental Rever
-- [0.28] ['000] p167 — This page presents a table of audited Portfolio Statement property valuations for the SGX REIT, reporting carrying value
-- [0.27 OCR] p1 — no schema-relevant data
-- [0.25] [million] p37 — The page presents a **Debt Maturity Profile** table (S$ million) detailing AA REIT's debt expiring from FY 2026 to 2030,
-- [0.24] ['000] p32 — This page presents the Consolidated Statement of Total Return for SGX REIT, reporting FY2025 and FY2024 financial highli
-- [0.24] ['000] p81 — This page details the future supply pipeline and rental performance of Macquarie Park, featuring Exhibit 12 (Development
-- [0.23 OCR] [million] p100 — no schema-relevant data
-- [0.21] ['000] p67 — no schema-relevant data
-- [0.16] [million] p206 — no schema-relevant data
-- [0.16 OCR] ['000] p85 — This page details investment activity and market yields for the SGX REIT's North shore portfolio, led by Exhibit 23: Ave
+## performance  — top: p6  · audited('000): p253
+- [1.00] [million] p6 — [summary error 504]
+- [1.00] ['000] p253 — This page presents the Statistics of Unitholdings for AIMS APAC REIT as at 26 May 2026, featuring a Distribution of Unit
+- [1.00 OCR] ['000] p233 — This page of the SGX REIT annual report for the year ended 31 March 2026 presents a table detailing the ageing of trade 
+- [1.00] p254 — This page presents the **Statistics of Unitholdings** for AIMS APAC REIT as at 26 May 2026, featuring a table of **Subst
+- [1.00] [million] p5 — [summary error 504]
+- [1.00 OCR] [million] p47 — no schema-relevant data
+- [1.00] [million] p49 — This page presents AA REIT's unit price performance and monthly trading metrics for FY2026, featuring a table of monthly
+- [1.00] [million] p50 — This page presents the AA REIT Unit Price Performance and Total Unitholder Return tables, reporting data in S$ with unit
+- [1.00 OCR] p232 — no schema-relevant data
+- [1.00] ['000] p7 — [summary error 504]
+- [1.00] ['000] p42 — This page presents key portfolio highlights for AA REIT as at 31 March 2026, featuring a main artifact displaying 28 pro
+- [0.99] ['000] p37 — This page presents the **Total Assets and Net Asset Value (NAV) per Unit** table reporting figures in **S$'000**, detail
+- [0.99] [million] p40 — This page presents AA REIT's capital management data, led by a table and chart detailing the Aggregate Leverage Ratio (2
+- [0.96] p52 — no schema-relevant data
+- [0.95] [million] p38 — This page presents the **KEY FINANCIAL METRICS** table (Gross borrowings, Total Assets, Aggregate Leverage ratio, Weight
+- [0.93] ['000] p175 — This page presents the **DISTRIBUTION STATEMENTS** table for the SGX REIT, reporting distribution amounts in **$'000** f
+- [0.92] [million] p12 — This page features an interview with Russell Ng, CEO of AA REIT, discussing FY2026 performance including revenue of S$19
+- [0.79] ['000] p229 — This page presents the Earnings Per Unit (EPU) for the SGX REIT, reporting basic and diluted figures of 13.20 Singapore 
+- [0.77] ['000] p173 — This page presents the Statements of Financial Position for SGX REIT as at 31 March 2026, reporting Group and Trust tota
+- [0.71] ['000] p71 — This page presents market analysis data for JTC multiple-user factory space, featuring Exhibit 5-8 detailing net demand 
+- [0.66] ['000] p225 — This page details the issuance of Units to the Manager for payment of management and performance fees, presenting a tabl
+- [0.56] [million] p17 — no schema-relevant data
+- [0.50] ['000] p77 — This page presents Exhibit 7-3, a dual-axis chart detailing the net demand and occupancy of private warehouse space in S
+- [0.47 OCR] p48 — no schema-relevant data
+- [0.45] ['000] p89 — no schema-relevant data
+- [0.44 OCR] ['000] p73 — This page presents Exhibit 6-1, a table and chart detailing the Net New and Potential Supply of business park space in S
+- [0.43] [million] p39 — no schema-relevant data
+- [0.38] ['000] p69 — no schema-relevant data
+- [0.34 OCR] [million] p41 — no schema-relevant data
+- [0.31] ['000] p36 — This page details the financial review of AA REIT, featuring a table on net changes in fair value of derivative financia
+- [0.31] [million] p252 — This page presents Financial Ratios (SGD'000) for the year ended 31 March 2026, detailing expense ratios and portfolio t
+- [0.29 OCR] p1 — [summary error 504]
+- [0.29 OCR] ['000] p231 — This page details the Group's financial risk management policies and capital structure as of 31 March 2026, reporting ag
+- [0.27] ['000] p74 — This page presents market research on Singapore's business park segment, featuring **Exhibit 6-2: Notable upcoming compl
+- [0.25 OCR] [million] p100 — no schema-relevant data
+- [0.24] ['000] p34 — This page presents the **Statement of Total Return and Distribution** for SGX REIT, reporting FY2026 and FY2025 figures 
+- [0.19 OCR] p113 — no schema-relevant data
+- [0.16] ['000] p185 — This page presents a portion of the audited Portfolio Statement (property valuations) for the SGX REIT, displaying carry
 
-## properties  — top: p53  · audited('000): p163
-- [1.00] [million] p53 — This page presents the audited Portfolio Statement (property valuations) for Singapore properties as of 31 March 2025, l
-- [1.00] [million] p55 — This page presents the audited Portfolio Statement detailing 10 Singapore and 1 Australian properties with acquisition d
-- [1.00] [million] p56 — This page presents the Audited Portfolio Statement for the SGX REIT's Business Park segment, detailing property valuatio
-- [1.00] p162 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 March 2025, detailing 18 
-- [1.00] [million] p164 — This page presents the audited Portfolio Statement for SGX REIT as at 31 March 2025, detailing investment properties in 
-- [1.00] [million] p166 — This page presents the audited Portfolio Statement as at 31 March 2025, detailing investment properties and a joint vent
-- [1.00] p52 — no schema-relevant data
-- [1.00] [million] p57 — This page presents a single-property Statement of Portfolio for the Northtech building in Singapore, detailing its acqui
-- [1.00] ['000] p163 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing occupancy rates and car
-- [1.00] ['000] p168 — This page presents the **audited Portfolio Statement (property valuations)** for SGX REIT as at 31 March 2025, detailing
-- [0.99] ['000] p43 — This page presents the Audited Portfolio Statement as of 31 March 2025, detailing a total property valuation of S$2,126.
-- [0.99] p54 — no schema-relevant data
-- [0.98] p86 — This page presents Exhibit 26, a table detailing Australia Property Market Research investment sales transactions from 2
-- [0.96] p51 — no schema-relevant data
-- [0.93] p50 — This page displays the **Singapore Property Portfolio** map and list of 25 quality properties as at 31 March 2025, categ
-- [0.92] ['000] p165 — This page presents the audited Portfolio Statement of property valuations, detailing 2024 and 2025 data for occupancy ra
-- [0.90] ['000] p65 — This page presents a table detailing private investment sales of Keppel Data Centres REIT's portfolio, listing building 
-- [0.67] ['000] p167 — This page presents a table of audited Portfolio Statement property valuations for the SGX REIT, reporting carrying value
-- [0.65] ['000] p192 — This page details the fair value hierarchy and security status of investment properties for the SGX REIT group as at 31 
-- [0.62] ['000] p89 — The page presents Exhibit 28, a table detailing industrial sale transactions in the Gold Coast region including property
-- [0.44] p4 — This page presents the main portfolio overview for AA REIT, featuring a table detailing the asset split by region (Austr
-- [0.31] ['000] p81 — This page details the future supply pipeline and rental performance of Macquarie Park, featuring Exhibit 12 (Development
+## properties  — top: p57  · audited('000): p178
+- [1.00] [million] p57 — This page presents the audited Portfolio Statement for Singapore properties as of 31 March 2026, detailing ten assets wi
+- [1.00] [million] p59 — This page presents the audited Portfolio Statement listing 19 properties under Singapore and Australia with acquisition 
+- [1.00] ['000] p178 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 March 2026, detailing twe
+- [1.00] p180 — This page presents the audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing 13 investment properties 
+- [1.00] [million] p182 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 March 2026, detailing Gro
+- [1.00 OCR] p53 — no schema-relevant data
+- [1.00] [million] p60 — This page presents the audited Portfolio Statement for the SGX REIT's property valuations as of 31 March 2026, detailing
+- [1.00] [million] p184 — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing investment properties and joint ventur
+- [1.00] p56 — This page displays the LOGISTICS & WAREHOUSE property portfolio in SINGAPORE, listing ten specific addresses including 2
+- [1.00] p58 — no schema-relevant data
+- [1.00] [million] p61 — This page presents the audited Portfolio Statement for Hi-Tech's Singapore unit, detailing a single property at 25 North
+- [1.00 OCR] p166 — no schema-relevant data
+- [0.99] ['000] p179 — This page presents a Statement of Portfolio (property valuations) for the SGX REIT, detailing 2025 and 2026 data in SGD'
+- [0.99] ['000] p186 — This page presents the audited Portfolio Statement for SGX REIT as at 31 March 2026, reporting Trust Unitholders' funds 
+- [0.99 OCR] ['000] p65 — no schema-relevant data
+- [0.99] ['000] p46 — This page presents the Audited Portfolio Statement (property valuations) for AA REIT as at 31 March 2026, reporting a to
+- [0.98] p91 — This page presents Exhibit 20, a table detailing Investment Sales Transactions for the period 2024-2025, listing propert
+- [0.97] ['000] p181 — This page presents the audited Portfolio Statement displaying 2025 and 2026 occupancy rates alongside carrying values in
+- [0.94 OCR] ['000] p86 — no schema-relevant data
+- [0.92] p55 — no schema-relevant data
+- [0.89] ['000] p211 — This page details the fair value hierarchy and valuation techniques for investment properties as of 31 March 2026, prese
+- [0.88] ['000] p183 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, displaying carrying values in SGD
+- [0.88] ['000] p54 — This page displays the SGX'000 Singapore Property Portfolio map and a list of 25 quality properties categorized by secto
+- [0.76] p94 — no schema-relevant data
+- [0.49] ['000] p185 — This page presents a portion of the audited Portfolio Statement (property valuations) for the SGX REIT, displaying carry
+- [0.47] ['000] p210 — This page presents the Investment Properties table and Security table for the SGX REIT, reporting Group values in $'000 
+- [0.46] ['000] p78 — This page presents Exhibit 7-5, a table detailing selected major warehouse investment sale transactions from 2025 to Q1 
+- [0.28 OCR] p81 — no schema-relevant data
 
-## top_tenants  — top: p80
-- [0.36] ['000] p80 — This page presents Exhibit 10, a table detailing past year lease transactions in the Australia property market research 
-- [0.30] p39 — This page presents the "Top 10 Tenants by GRI" table detailing AA REIT's leading customers, their respective trade secto
+## top_tenants  — top: p43
+- [0.49] p43 — This page details AA REIT's active asset management activities in FY2026, including two Australian Economic Investment I
+- [0.36 OCR] p80 — no schema-relevant data
 
-## trade_mix  — top: p79
-- [1.00] ['000] p79 — no schema-relevant data
-- [1.00] p40 — This page presents the AA REIT Portfolio Review, featuring a **Tenant Trade by FY2025 GRI** table that details industry 
-- [0.99] p42 — This page presents the **audited Portfolio Statement (property valuations)** via a table detailing FY2026 to FY2030 leas
-- [0.98] ['000] p83 — no schema-relevant data
-- [0.94] [million] p64 — This page presents an overview of the Singapore industrial property market featuring a table detailing total industrial 
-- [0.93] p19 — no schema-relevant data
-- [0.64] p39 — This page presents the "Top 10 Tenants by GRI" table detailing AA REIT's leading customers, their respective trade secto
-- [0.56 OCR] ['000] p72 — This page presents market research on Singapore's private warehouse segment, featuring Exhibit 7-1 which details the net
-- [0.55 OCR] ['000] p18 — no schema-relevant data
-- [0.53] p41 — This page details the Manager's lease activity and rental performance for FY2025, featuring a table titled "Rental Rever
-- [0.51 OCR] ['000] p66 — This page presents market research on Singapore's private single-user factory segment, led by **Exhibit 5-1: Net new and
-- [0.50] p4 — This page presents the main portfolio overview for AA REIT, featuring a table detailing the asset split by region (Austr
-- [0.47] ['000] p60 — This page presents Singapore's industrial production data through a table and chart titled "Singapore Index of Industria
-- [0.45] ['000] p67 — no schema-relevant data
-- [0.33 OCR] ['000] p70 — This page presents market research on Singapore's factory and business park sectors, featuring Exhibit 6-1 (a table of N
-- [0.27 OCR] ['000] p82 — This page presents market research on the Australia property market, specifically focusing on Macquarie Park, with **Exh
-- [0.25] ['000] p80 — This page presents Exhibit 10, a table detailing past year lease transactions in the Australia property market research 
-- [0.22 OCR] ['000] p61 — This page presents sector analysis and outlooks for Singapore's logistics industry, featuring a table of total container
-- [0.18 OCR] ['000] p85 — This page details investment activity and market yields for the SGX REIT's North shore portfolio, led by Exhibit 23: Ave
-- [0.17 OCR] p45 — no schema-relevant data
-- [0.17 OCR] ['000] p84 — This page presents market research on the Bella Vista office sector, detailing a vacancy rate of 3.7% and average prime 
+## trade_mix  — top: p88  · audited('000): p84
+- [1.00] p88 — no schema-relevant data
+- [1.00] ['000] p84 — no schema-relevant data
+- [0.99 OCR] p79 — no schema-relevant data
+- [0.98 OCR] ['000] p83 — no schema-relevant data
+- [0.97] p44 — This page presents a portfolio review featuring the main artifact "Tenant Trade by FY2026 GRI" table, which details indu
+- [0.94] p45 — This page presents a table detailing the weighted average rental reversion for Singapore assets across property segments
+- [0.91] ['000] p67 — This page presents **Exhibit 4-1**, a table detailing Singapore's total industrial stock of over 585.6 million sq ft as 
+- [0.89] p4 — [summary error 504]
+- [0.68] [million] p19 — no schema-relevant data
+- [0.51 OCR] [million] p72 — The page presents Exhibit 5-11, a table of selected major factory investment sale transactions from 2025 to Q1 2026, det
+- [0.50 OCR] [million] p41 — no schema-relevant data
+- [0.49 OCR] [million] p18 — no schema-relevant data
+- [0.48 OCR] p66 — no schema-relevant data
+- [0.44] p43 — This page details AA REIT's active asset management activities in FY2026, including two Australian Economic Investment I
+- [0.41 OCR] p80 — no schema-relevant data
+- [0.35] ['000] p74 — This page presents market research on Singapore's business park segment, featuring **Exhibit 6-2: Notable upcoming compl
+- [0.33 OCR] ['000] p70 — no schema-relevant data
+- [0.30 OCR] ['000] p73 — This page presents Exhibit 6-1, a table and chart detailing the Net New and Potential Supply of business park space in S
+- [0.26] ['000] p69 — no schema-relevant data
+- [0.24 OCR] p81 — no schema-relevant data
+- [0.24 OCR] ['000] p64 — no schema-relevant data
+- [0.23 OCR] [million] p82 — no schema-relevant data
+- [0.18 OCR] ['000] p85 — This page presents Exhibit 9, a table of past year lease transactions detailing address, tenant names (including Edward 
+- [0.17] ['000] p89 — no schema-relevant data
 
-## financial  — top: p160
-- [1.00] ['000] p160 — This page contains the "Net effect of tax adjustments" table (Note A) and "Other adjustments" text (Note B) for the SGX 
-- [1.00] ['000] p209 — This page of the SGX REIT annual report for the year ended 31 March 2025 presents gross revenue and property operating e
-- [1.00] ['000] p210 — This page presents the audited Portfolio Statement for Other Trust Expenses and Income Tax (Credit)/Expense, reporting G
-- [1.00] ['000] p203 — This page presents the reconciliation of changes in liabilities arising from financing activities for the SGX REIT group
-- [1.00] ['000] p204 — This page presents financial tables for Deferred Tax Liabilities (Note 13) and Leases (Note 14), reporting all figures i
-- [1.00] ['000] p229 — This page presents the **Information about reportable segments** table for SGX REIT, detailing revenue, expenses, and to
-- [0.99] p187 — no schema-relevant data
-- [0.99] ['000] p198 — This page presents a table of Derivative Financial Instruments (interest rate swaps and currency forward contracts) for 
-- [0.99] ['000] p205 — This page details the Group's lease accounting under FRS 116, presenting a maturity analysis of lease receivables totali
-- [0.99] ['000] p199 — This page presents the reconciliation of hedging reserve components resulting from cash flow hedge accounting for curren
-- [0.99] ['000] p200 — This page presents the audited financial notes for Trade and Other Payables (Note 11) totaling $72,864,000 for the Group
-- [0.99] p188 — This page details the accounting policies for income tax expense under the Notes to the Financial Statements, specifying
-- [0.99] [million] p235 — This page contains a textual disclosure of AA REIT's operating expenses and taxation for the year ended 31 March 2025, r
-- [0.98] [million] p33 — This page details the financial components of the Profit or Loss, specifically highlighting Net Property Income of S$133
-- [0.98] ['000] p230 — This page presents the **Segment Reporting (continued)** table for the SGX REIT, detailing revenue, expenses, and total 
-- [0.98] ['000] p194 — This page presents Notes 5 and 6 detailing the Group's Plant and Equipment (specifically rooftop solar installations at 
-- [0.98] p177 — This page contains accounting policy notes regarding the consolidation of joint ventures, elimination of intra-group tra
-- [0.98] ['000] p178 — This page of the SGX REIT annual report for the year ended 31 March 2025 details the accounting policies for foreign ope
-- [0.97] p179 — This page details the accounting policies for plant and equipment, including recognition, measurement, subsequent costs,
-- [0.97] [million] p201 — This page presents detailed notes on interest-bearing borrowings for the year ended 31 March 2025, specifically outlinin
-- [0.97] ['000] p158 — This page presents the **Statement of Total Return** for SGX REIT for the year ended 31 March 2025, reporting Group and 
-- [0.97] ['000] p197 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains no schema-relevant data, as it details
-- [0.97] p181 — no schema-relevant data
-- [0.97] ['000] p225 — This page presents the Classification and fair value of financial instruments table for the Group as of 31 March 2024, r
-- [0.96] ['000] p224 — This page presents the "Classification and fair value of financial instruments" table for the Group as of 31 March 2025,
-- [0.96] ['000] p227 — This page of the SGX REIT annual report for the year ended 31 March 2025 presents a table titled "Classification and fai
-- [0.96] ['000] p169 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2025, reporting SG$'000 values f
-- [0.96] p189 — no schema-relevant data
-- [0.96] ['000] p202 — This page presents a detailed table of interest-bearing borrowings for the SGX REIT Group and Trust as of 31 March 2025,
-- [0.95] ['000] p226 — This page of the SGX REIT annual report for the year ended 31 March 2025 presents a table detailing the classification a
-- [0.95] p182 — This page details the Group's accounting policies for financial instruments, specifically covering derecognition criteri
-- [0.94] p176 — no schema-relevant data
-- [0.94] ['000] p196 — This page details the Macquarie Park Trust (MPT) joint venture, presenting an audited Portfolio Statement showing 2025 a
-- [0.94] ['000] p170 — This page presents the Significant non-cash transactions section of the Consolidated Statement of Cash Flows for SGX REI
-- [0.93] p186 — no schema-relevant data
-- [0.91] p180 — no schema-relevant data
-- [0.90] p183 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains no schema-relevant data, as it exclusi
-- [0.89] p175 — This page contains no schema-relevant data.
-- [0.87] ['000] p161 — This page presents the Statements of Movements in Unitholders' Funds and Perpetual Securities holders' funds for the yea
-- [0.85] ['000] p191 — This page details the Group's and Trust's investment property balances as of 31 March 2025 (reported in $'000), includin
-- [0.84] p172 — no schema-relevant data
-- [0.84] ['000] p174 — no schema-relevant data
-- [0.82] [million] p206 — no schema-relevant data
-- [0.81 OCR] p228 — no schema-relevant data
-- [0.81] p190 — no schema-relevant data
-- [0.81] ['000] p217 — This page of the SGX REIT annual report for the year ended 31 March 2025 presents a liquidity risk table detailing carry
-- [0.76] p185 — This page of the SGX REIT annual report for the year ended 31 March 2025 contains accounting policy notes regarding impa
-- [0.75] ['000] p173 — no schema-relevant data
-- [0.75] ['000] p32 — This page presents the Consolidated Statement of Total Return for SGX REIT, reporting FY2025 and FY2024 financial highli
-- [0.74 OCR] ['000] p219 — This page contains a Liquidity Risk table detailing the contractual cash flows of SGX REIT's Trust as of 31 March 2025, 
-- [0.74] ['000] p193 — This page contains the Level 3 fair value measurement disclosures and significant unobservable inputs for investment pro
-- [0.74] ['000] p223 — This page presents a sensitivity analysis table detailing the impact of Australian dollar strengthening and weakening on
-- [0.67] ['000] p212 — This page presents the Group's commitments and significant related party transactions, explicitly detailing manager fees
-- [0.58] p184 — no schema-relevant data
-- [0.58] ['000] p216 — This page presents a Liquidity Risk table detailing the Group's expected contractual undiscounted cash inflows and outfl
-- [0.58] ['000] p221 — This page presents the Group's and Trust's interest rate risk exposure through nominal financial instrument amounts and 
-- [0.55] ['000] p218 — This page presents a Liquidity Risk table detailing the Trust's carrying amounts and contractual cash flows for non-deri
-- [0.54] [million] p37 — The page presents a **Debt Maturity Profile** table (S$ million) detailing AA REIT's debt expiring from FY 2026 to 2030,
-- [0.52] p231 — This page contains the Financial Ratios table (Expenses to weighted average net assets and Portfolio turnover rate) for 
-- [0.52] p154 — This page contains the Independent Auditors' Report opinion confirming that AIMS APAC REIT's financial statements as at 
-- [0.50 OCR] ['000] p213 — This page presents the Financial Risk Management notes for the SGX REIT year ended 31 March 2025, featuring a sensitivit
-- [0.48 OCR] p151 — no schema-relevant data
-- [0.34 OCR] ['000] p215 — This page contains the Financial Risk Management notes detailing credit risk exposure through an ageing table of trade r
-- [0.33] p208 — no schema-relevant data
-- [0.31] ['000] p192 — This page details the fair value hierarchy and security status of investment properties for the SGX REIT group as at 31 
-- [0.26] ['000] p234 — This page presents the table of Interested Person/Interested Party Transactions, detailing aggregate values in S$'000 fo
-- [0.20] ['000] p211 — This page presents the Audited Portfolio Statement (property valuations) and Statement of Total Return (profit or loss),
+## financial  — top: p176
+- [1.00] ['000] p176 — This page presents the audited Portfolio Statement (property valuations) via Note A, detailing the net effect of tax adj
+- [1.00] ['000] p222 — This page of the SGX REIT annual report for the year ended 31 March 2026 presents Note 13 Deferred Tax Liabilities and N
+- [1.00] ['000] p227 — This page presents SGX REIT Notes 19 through 21, detailing Property Operating Expenses (totaling $49,316k and $52,884k f
+- [1.00] ['000] p228 — This page presents Notes 22 and 23 detailing Group and Trust Other Trust Expenses and Income Tax Expense/(Credit) for th
+- [1.00] ['000] p250 — This page presents the **Segment Reporting** table for SGX REIT's year ended 31 March 2026, detailing gross revenue ($19
+- [0.99] [million] p35 — no schema-relevant data
+- [0.99] p206 — no schema-relevant data
+- [0.99] [million] p256 — no schema-relevant data
+- [0.99] ['000] p216 — This page presents the audited Trade and Other Receivables (Note 8) and Derivative Financial Instruments (Note 9) tables
+- [0.99] ['000] p217 — This page presents the audited Portfolio Statement for Derivative Financial Instruments and Cash and Cash Equivalents, d
+- [0.99] ['000] p223 — This page details the Group's lease accounting policies and presents a maturity analysis of lease receivables for both t
+- [0.99 OCR] ['000] p169 — This page presents the Independent Auditors' Report confirming that AIMS APAC REIT's consolidated financial statements a
+- [0.99] ['000] p221 — This page presents the reconciliation of changes in liabilities arising from financing activities for the SGX REIT group
+- [0.99] ['000] p213 — This page presents the audited Plant and Equipment statement showing Group and Trust net book values of $16,457 million 
+- [0.99] ['000] p197 — This page details the accounting policies for investment properties held for sale and plant and equipment, specifying th
+- [0.99] ['000] p218 — This page presents the audited Portfolio Statement (property valuations) and Statement of Total Return (Profit or Loss /
+- [0.99] p205 — This page contains the accounting policies for leases, unitholders' funds, revenue recognition (including rental income,
+- [0.98] ['000] p248 — This page presents a table detailing the classification and fair value of financial instruments for the Trust as of 31 M
+- [0.98] ['000] p245 — This page presents the Classification and fair value of financial instruments table for the Group as of 31 March 2026, r
+- [0.98] ['000] p251 — This page presents the **Information about reportable segments (cont'd)** table, reporting SG$'000 revenue, expenses, fa
+- [0.98] ['000] p191 — no schema-relevant data
+- [0.98] [million] p219 — no schema-relevant data
+- [0.98] ['000] p220 — This page presents the "Terms and debt repayment schedule" table for Interest-Bearing Borrowings as of 31 March 2026, de
+- [0.98] p194 — This page contains the accounting policies for the SGX REIT group, specifically detailing the basis of consolidation and
+- [0.98] ['000] p174 — This page presents the Statements of Total Return for the year ended 31 March 2026, detailing gross revenue, property op
+- [0.98] ['000] p247 — This page contains a table detailing the classification and fair value of financial instruments for the Trust as of 31 M
+- [0.97 OCR] p32 — no schema-relevant data
+- [0.97] p199 — no schema-relevant data
+- [0.97] ['000] p246 — This page presents a table titled "Classification and fair value of financial instruments (cont'd)" detailing the Group'
+- [0.97] p196 — This page contains accounting policy notes regarding foreign currency translation and investment property valuation meth
+- [0.97] ['000] p187 — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2026, reporting SG$'000 figures 
+- [0.97] p201 — This page details the accounting policies for derivative financial instruments and impairment of non-derivative financia
+- [0.97] p209 — no schema-relevant data
+- [0.96] p207 — no schema-relevant data
+- [0.96] p200 — This page of the SGX REIT annual report for the year ended 31 March 2026 contains accounting policies regarding financia
+- [0.96] [million] p192 — no schema-relevant data
+- [0.96] ['000] p224 — no schema-relevant data
+- [0.96] p195 — no schema-relevant data
+- [0.95] ['000] p243 — This page presents the Hedge Accounting table detailing interest rate swaps used to hedge floating rate borrowings for t
+- [0.95] p208 — no schema-relevant data
+- [0.95] ['000] p242 — This page presents the Hedge Accounting table detailing hedging instruments used by the Group and Trust for years ended 
+- [0.94 OCR] p33 — no schema-relevant data
+- [0.94] p203 — no schema-relevant data
+- [0.93] ['000] p215 — This page presents the audited Portfolio Statement for Macquarie Park Trust (MPT), a joint venture in Australia, detaili
+- [0.92] ['000] p198 — This page contains the "3.6 Financial instruments" accounting policy section from the SGX'000 reporting unit, detailing 
+- [0.91] ['000] p188 — This page contains a Consolidated Statement of Cash Flows for the year ended 31 March 2026, featuring significant non-ca
+- [0.90] ['000] p244 — This page presents the reconciliation of the hedging reserve, net of tax, resulting from cash flow hedge accounting for 
+- [0.88] ['000] p193 — This page contains the "Notes to the Financial Statements" for the year ended 31 March 2026, specifically covering the b
+- [0.86] p212 — This page details Level 3 fair value measurement techniques and significant unobservable inputs used in valuations, incl
+- [0.84] ['000] p177 — This page presents the Statements of Movements in Unitholders' Funds and Perpetual Securities holders' funds for SGX REI
+- [0.81] p204 — no schema-relevant data
+- [0.78] ['000] p239 — This page presents the SGX REIT Group and Trust's interest rate risk exposure and sensitivity analysis for the year ende
+- [0.77] ['000] p230 — This page details the Group's commitments for capital expenditure and electricity system installations, alongside a tabl
+- [0.74] ['000] p34 — This page presents the **Statement of Total Return and Distribution** for SGX REIT, reporting FY2026 and FY2025 figures 
+- [0.74] ['000] p236 — This page presents the Trust's liquidity risk assessment for the year ended 31 March 2026, specifically detailing contra
+- [0.74] ['000] p226 — This page details the issuance of Units to the Manager and Property Manager as partial fee payments for periods ending i
+- [0.70 OCR] ['000] p231 — This page details the Group's financial risk management policies and capital structure as of 31 March 2026, reporting ag
+- [0.67] p170 — This page presents the Independent Auditors' Report on the Valuation of investment properties for AIMS APAC REIT as at 3
+- [0.67 OCR] p154 — no schema-relevant data
+- [0.66] ['000] p36 — This page details the financial review of AA REIT, featuring a table on net changes in fair value of derivative financia
+- [0.65] [million] p252 — This page presents Financial Ratios (SGD'000) for the year ended 31 March 2026, detailing expense ratios and portfolio t
+- [0.64] p190 — no schema-relevant data
+- [0.64] ['000] p234 — This page presents the Group's liquidity risk disclosure for the year ended 31 March 2026, detailing expected contractua
+- [0.64] ['000] p237 — This page presents a Liquidity Risk table detailing the Trust's contractual cash flows for non-derivative financial liab
+- [0.64] ['000] p241 — This page presents a sensitivity analysis table detailing the Group and Trust impact on total return and Unitholders' fu
+- [0.58] p202 — no schema-relevant data
+- [0.58] ['000] p235 — This page presents a Group Liquidity Risk table detailing contractual cash flows for non-derivative financial liabilitie
+- [0.55] [million] p39 — no schema-relevant data
+- [0.49] p249 — This page of the SGX REIT annual report for the year ended 31 March 2026 contains no schema-relevant data.
+- [0.48 OCR] ['000] p151 — no schema-relevant data
+- [0.47] ['000] p210 — This page presents the Investment Properties table and Security table for the SGX REIT, reporting Group values in $'000 
+- [0.34] ['000] p185 — This page presents a portion of the audited Portfolio Statement (property valuations) for the SGX REIT, displaying carry
+- [0.27] ['000] p225 — This page details the issuance of Units to the Manager for payment of management and performance fees, presenting a tabl
+- [0.22] ['000] p255 — This page details the SGX-ST and Property Funds Appendix-compliant interested person/interested party transactions for A
+- [0.18] ['000] p229 — This page presents the Earnings Per Unit (EPU) for the SGX REIT, reporting basic and diluted figures of 13.20 Singapore 
+- [0.17] p189 — no schema-relevant data
