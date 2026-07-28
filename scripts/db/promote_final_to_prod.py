@@ -228,6 +228,20 @@ def aggregate_trade_mix(rows):
     return list(agg.values())
 
 
+def disambiguate_txn(rows):
+    """Prod sgx_reit_property_transaction PK = (symbol, financial_year, transaction_type,
+    property_name). A property can legitimately have >1 transaction of the same type in a year
+    (e.g. DCRU's Frankfurt Facility staged acquisition: Apr +24.9% then Dec +15.1%). Append a
+    " (2)", " (3)"... suffix to property_name on the 2nd+ collision so all rows survive the PK."""
+    seen = {}
+    for r in rows:
+        k = (r.get("symbol"), r.get("financial_year"), r.get("transaction_type"), r.get("property_name"))
+        seen[k] = seen.get(k, 0) + 1
+        if seen[k] > 1 and r.get("property_name"):
+            r["property_name"] = f"{r['property_name']} ({seen[k]})"
+    return rows
+
+
 def main():
     args = parse_args()
     load_dotenv(".env")
@@ -253,6 +267,8 @@ def main():
         prod_rows = [transform_row(r, prod_types) for r in rows]
         if prod_table == "sgx_reit_trade_mix":
             prod_rows = aggregate_trade_mix(prod_rows)
+        if prod_table == "sgx_reit_property_transaction":
+            prod_rows = disambiguate_txn(prod_rows)
 
         # group by scope for delete-then-insert
         scopes = {}
