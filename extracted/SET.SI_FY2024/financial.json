@@ -1,0 +1,182 @@
+{
+ "symbol": "SET.SI",
+ "financial_year": 2024,
+ "currency": "EUR",
+ "source_page": 145,
+ "income_stmt_metrics": {
+  "total_revenue": 212919000,
+  "cost_of_revenue": 81774000,
+  "gross_income": 131145000,
+  "operating_income": 119465000,
+  "operating_expense": 11680000,
+  "ebit": 119465000.0,
+  "ebitda": 124644000.0,
+  "pretax_income": 55707000,
+  "income_taxes": 20226000,
+  "net_income": 35481000,
+  "non_operating_income_or_loss": -63758000,
+  "interest_expense_non_operating": 41260000.0,
+  "weighted_avg_shares_basic": 562392000,
+  "diluted_shares_outstanding": 562392000,
+  "net_property_sales": 599000,
+  "funds_from_operation": 62559000.0,
+  "unitholders": 33153000,
+  "perpetual_security_holders": -2328000,
+  "minorities": null,
+  "depreciation": 27677000,
+  "_derived": [
+   "operating_income",
+   "ebit",
+   "ebitda",
+   "non_operating_income_or_loss",
+   "interest_expense_non_operating",
+   "depreciation",
+   "funds_from_operation",
+   "capital_expenditure"
+  ],
+  "revenue_breakdown": [
+   {
+    "category": "Logistics / Light Industrial",
+    "amount": 101999000,
+    "class": "Product/Service Sales"
+   },
+   {
+    "category": "Office",
+    "amount": 104791000,
+    "class": "Product/Service Sales"
+   },
+   {
+    "category": "'Others'",
+    "amount": 6129000,
+    "class": "Product/Service Sales"
+   }
+  ],
+  "operating_expense_breakdown": [
+   {
+    "category": "Manager's fees",
+    "amount": 5431000,
+    "class": "General & Admin"
+   },
+   {
+    "category": "Trustee fees",
+    "amount": 270000,
+    "class": "General & Admin"
+   },
+   {
+    "category": "Other trust expenses",
+    "amount": 5979000,
+    "class": "Other expenses"
+   }
+  ]
+ },
+ "balance_sheet_metrics": {
+  "total_asset": 2322159000,
+  "total_equity": 1205022000,
+  "total_liabilities": 1117137000,
+  "working_capital": -449945000,
+  "total_current_asset": 77485000,
+  "total_non_current_asset": 2244674000,
+  "total_current_liabilities": 527430000,
+  "total_non_current_liabilities": 589707000
+ },
+ "cash_flow_metrics": {
+  "operating_cash_flow": 70740000,
+  "investing_cash_flow": -18254000,
+  "financing_cash_flow": -87745000,
+  "net_cash_flow": -35259000,
+  "free_cash_flow": 27141000.0,
+  "capital_expenditure": 43599000.0
+ },
+ "employee_breakdown": {
+  "total_employee": null,
+  "permanent_employee": null,
+  "contract_employee": null,
+  "others_employee": null
+ },
+ "line_items": [
+  {
+   "statement": "revenue",
+   "component": "gross_revenue",
+   "amount": 212919000,
+   "label_raw": "Gross revenue",
+   "source_page": 145
+  },
+  {
+   "statement": "expense",
+   "component": "property_operating_expense",
+   "amount": 81774000,
+   "label_raw": "Property operating expense",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "other_income",
+   "amount": 107000,
+   "label_raw": "Other income",
+   "source_page": 145
+  },
+  {
+   "statement": "expense",
+   "component": "finance_costs_net",
+   "amount": 35996000,
+   "label_raw": "Net finance costs",
+   "source_page": 145
+  },
+  {
+   "statement": "expense",
+   "component": "management_fee",
+   "amount": 5431000,
+   "label_raw": "Manager's fees",
+   "source_page": 145
+  },
+  {
+   "statement": "expense",
+   "component": "trustee_fee",
+   "amount": 270000,
+   "label_raw": "Trustee fees",
+   "source_page": 145
+  },
+  {
+   "statement": "expense",
+   "component": "other_trust_expenses",
+   "amount": 5979000,
+   "label_raw": "Other trust expenses",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "net_foreign_exchange_gain",
+   "amount": 1932000,
+   "label_raw": "Net foreign exchange gain",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "gain_on_divestments",
+   "amount": 599000,
+   "label_raw": "Gain/(loss) on divestments",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "fair_value_change_investment_properties",
+   "amount": -27677000,
+   "label_raw": "Fair value loss – investment properties",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "fair_value_change_derivatives",
+   "amount": -2723000,
+   "label_raw": "Fair value loss – derivative financial instruments",
+   "source_page": 145
+  },
+  {
+   "statement": "adjustment",
+   "component": "income_tax_expense",
+   "amount": -20226000,
+   "label_raw": "Income tax expense",
+   "source_page": 145
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+  "symbol": "TS0U.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "source_page": 107,
+  "income_stmt_metrics": {
+    "total_revenue": 295521000,
+    "cost_of_revenue": 61486000,
+    "gross_income": 234035000,
+    "operating_expense": 18482000,
+    "operating_income": 215553000,
+    "ebit": 215553000,
+    "depreciation": 153631000,
+    "ebitda": 223326000,
+    "pretax_income": -47016000,
+    "income_taxes": 11892000,
+    "net_income": -58908000,
+    "non_operating_income_or_loss": -262569000,
+    "interest_expense_non_operating": 116711000,
+    "diluted_shares_outstanding": 5500064000,
+    "net_property_sales": 0,
+    "funds_from_operation": 94723000,
+    "unitholders": -70521000,
+    "perpetual_security_holders": -2200000,
+    "minorities": -9413000,
+    "revenue_breakdown": [
+      {
+        "class": "Rental income",
+        "amount": 268828000,
+        "category": "rental"
+      },
+      {
+        "class": "Service fee income",
+        "amount": 20255000,
+        "category": "service_charge"
+      },
+      {
+        "class": "Carpark income",
+        "amount": 1767000,
+        "category": "carpark"
+      },
+      {
+        "class": "Others",
+        "amount": 4671000,
+        "category": "other"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "class": "Manager's management fees",
+        "amount": 16084000,
+        "category": "management_fee"
+      },
+      {
+        "class": "Trustee's fee",
+        "amount": 971000,
+        "category": "trustee_fee"
+      },
+      {
+        "class": "Other expenses",
+        "amount": 1427000,
+        "category": "other_trust_expenses"
+      }
+    ],
+    "_derived": [
+      "operating_income",
+      "ebit",
+      "ebitda",
+      "depreciation",
+      "non_operating_income_or_loss",
+      "interest_expense_non_operating",
+      "funds_from_operation"
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 5939901000,
+    "total_equity": 3657254000,
+    "total_liabilities": 2282647000,
+    "total_current_asset": 387284000,
+    "total_non_current_asset": 5552617000,
+    "total_current_liabilities": 227176000,
+    "total_non_current_liabilities": 2055471000,
+    "working_capital": 160108000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 198162000,
+    "investing_cash_flow": 285462000,
+    "financing_cash_flow": -175688000,
+    "net_cash_flow": 307936000,
+    "free_cash_flow": 172333000,
+    "capital_expenditure": 25829000,
+    "_derived": [
+      "free_cash_flow"
+    ]
+  },
+  "employee_breakdown": {
+    "total_employee": null,
+    "permanent_employee": null,
+    "contract_employee": null,
+    "others_employee": null
+  },
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 295521000,
+      "label_raw": "Revenue",
+      "source_page": 107
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 61486000,
+      "label_raw": "Property operating expenses",
+      "source_page": 107
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee",
+      "amount": 16084000,
+      "label_raw": "Manager's management fees",
+      "source_page": 107
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 971000,
+      "label_raw": "Trustee's fee",
+      "source_page": 107
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 1427000,
+      "label_raw": "Other expenses",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 3655000,
+      "label_raw": "Finance income",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_costs",
+      "amount": -116711000,
+      "label_raw": "Finance cost",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "share_of_jv_results",
+      "amount": 30484000,
+      "label_raw": "Share of results from joint venture",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -153570000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "loss_on_disposal_of_subsidiary",
+      "amount": -26427000,
+      "label_raw": "Loss on disposal of a subsidiary",
+      "source_page": 107
+    },
+    {
+      "statement": "adjustment",
+      "component": "tax_expense",
+      "amount": -11892000,
+      "label_raw": "Tax expense",
+      "source_page": 107
+    }
+  ]
+}

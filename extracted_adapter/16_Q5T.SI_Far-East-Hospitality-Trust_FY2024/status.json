@@ -1,0 +1,19 @@
+{
+  "stem": "16_Q5T.SI_Far-East-Hospitality-Trust_FY2024",
+  "symbol": "Q5T.SI",
+  "financial_year": 2024,
+  "sub_sector": "Hospitality",
+  "template_family": "Far East / stapled hospitality",
+  "parsed": {"markdown": "parsed_reports_datalab/16_Q5T.SI_Far-East-Hospitality-Trust_FY2024/full.md"},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only"},
+    "performance": {"status": "done", "method": "llm_only"},
+    "properties":  {"status": "done", "method": "llm_only", "rows": 12, "cross_check": {"vs": "portfolio statement total 2,515,500k", "match": "sum of 12 = 2,515,500k"}},
+    "top_tenants": {"status": "skipped", "note": "structural absence — master-lease hospitality"},
+    "trade_mix":   {"status": "skipped", "note": "structural absence — hospitality"},
+    "financial":   {"status": "done", "method": "llm_only", "note": "clean single-layout audited statements; STR/BS/CF read directly from full.md"}
+  },
+  "final_dir": "extracted/Q5T.SI_FY2024",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-07-28"
+}

@@ -1,0 +1,76 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "property.net_property_income",
+      "reason": "PRIME operates as a single geographical/business segment (US office); no segment note and no per-property NPI is disclosed. Only portfolio-level NPI of US$75.975m is disclosed (Statement of Comprehensive Income, p139)."
+    },
+    {
+      "column": "property.gla / property.gfa",
+      "reason": "Property profile cards disclose Net Lettable Area (NLA) only; GLA/GFA not disclosed."
+    },
+    {
+      "column": "property.lease_term_years / lease_expiry_date",
+      "reason": "All 13 properties are Freehold (fee simple) US office; no land-lease term/expiry exists."
+    },
+    {
+      "column": "financial.employee_breakdown",
+      "reason": "Externally managed REIT; the Trust has no employees of its own. Manager headcount not disclosed."
+    }
+  ],
+  "data_with_no_home": [
+    "Aggregate leverage reduced from 48.4% to 46.7% during FY2024 following the One Town Center divestment (Letter to Unitholders p6).",
+    "Debt hedged/fixed 67% to mid-2026 and beyond; debt headroom US$92.5m to 50% gearing; undrawn facilities US$76.1m (p5).",
+    "Weighted average interest rate 5.1% (5.11% incl. amortisation, Note 9 p166); interest coverage 2.0x (p... financial review).",
+    "Portfolio: 13 Class A freehold US office properties, 4.2m sq ft NLA, 215 tenants across 23 sectors, 80.0% leased occupancy, WALE 4.4 years by NLA (p5, p19-20).",
+    "Completed new financing of US$550m in FY2024; total units in issue 1,308,259,171 as at 14 Mar 2025 (bonus issue 1:10 completed 28 Mar 2024).",
+    "Price-to-book 0.31x based on closing unit price US$0.171 on 31 Dec 2024 (p5)."
+  ],
+  "parsing_traps": [
+    "US office REIT in a stressed year: net INCOME of US$8.049m (positive) despite a US$15.063m fair-value WRITEDOWN of investment properties plus a US$2.627m loss on disposal of One Town Center; the swing from FY2023's US$115.837m net LOSS is driven by the far smaller FY2024 revaluation loss (FY2023 IP FV loss was US$161.206m).",
+    "Two valuation sources agree: Consolidated Portfolio Statement (p145) and Investment Properties Note 6 give identical per-property '000 figures totalling US$1,352,070k; market_valuation sourced from p145.",
+    "Portfolio Statement lists 14 rows but One Town Center (divested 10 Jul 2024) carries fair value '-'; only 13 active properties. One Town Center captured in property_transactions.json (status=completed divestment).",
+    "DPU 0.29 US cents is the full-year FY2024 figure (Distribution Statement p140), comprising H1 0.18c + H2 0.11c (H2 announced 19 Feb 2025, paid 28 Mar 2025).",
+    "distribution_paid = 3,938 ('000) = disclosed after-retention 'amount to be distributed'; cash 'Distributions to Unitholders' during the year = 5,328 ('000) mixes prior-period distributions and is recorded as distribution_cash_paid.",
+    "cost_of_revenue currency: all figures native USD '000 -> absolute x1000; NO conversion applied (presentation currency of audited statements is US$, confirmed from every statement header)."
+  ],
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1308259000,
+      "basis": "EPU Note 18 'Weighted average number of Units' = 1,308,259 ('000), taking into account the 1:10 bonus issue on 28 Mar 2024.",
+      "source_page": 168
+    },
+    {
+      "table": "financial",
+      "field": "diluted_shares_outstanding",
+      "value": 1308259000,
+      "basis": "Basic and diluted EPU are equal (0.62 US cents); no dilutive instruments in issue, so diluted weighted-avg = basic = 1,308,259,000.",
+      "source_page": 139
+    },
+    {
+      "table": "financial",
+      "field": "income_stmt_metrics.net_property_sales",
+      "value": -2627000,
+      "basis": "Loss on disposal of investment property (One Town Center) US$2.627m, direct IP disposal (p139). SIGNED negative.",
+      "source_page": 139
+    },
+    {
+      "table": "financial",
+      "field": "atoms",
+      "value": "dep_pe=0; fv_cf_signed=+15063000; finance_costs=36035000; capex_sum=38197000",
+      "basis": "Cash-flow atoms ('000 x1000): P&E depreciation 0 (pure-IP REIT, no depreciation line); Net FV change of IP +15,063 (C/F operating add-back, p143); gross finance costs 36,035 (Note 15 p166, NOT netted of finance income); IP capex payment 38,197 (C/F investing, p143). Derived: depreciation=15,063,000; ebit=NOI=69,316,000; ebitda=59,268,000; ffo=25,739,000; capex=38,197,000.",
+      "source_page": 143
+    }
+  ],
+  "reconciliation": {
+    "sum_property_market_valuation": 1352070000,
+    "reported_total_investment_properties": 1352070000,
+    "sum_property_gross_revenue": 134900000,
+    "reported_total_gross_revenue": 140963000,
+    "sum_property_npi": null,
+    "reported_total_npi": 75975000,
+    "line_items_recon": "Sum(revenue 140,963k) - Sum(expense 107,682k: opex 64,988 + base fee 4,242 + trustee 182 + other trust 2,235 + finance costs 36,035) + Sum(adjustment signed -25,232k: FV deriv -8,091 + finance income +670 + FV IP -15,063 + loss on disposal -2,627 + tax -121) = 8,049k = net_income (Total return for the year).",
+    "note": "Per-property gross revenue from profile cards (p23-25) rounded to US$0.1m; the 13 active properties sum to ~134.9m; adding One Town Center's partial-year US$4.3m (divested Jul 2024, disclosed p... financial review) ties toward audited US$141.0m. Per-property NPI structurally not disclosed (single segment)."
+  }
+}

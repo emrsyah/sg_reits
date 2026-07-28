@@ -1,0 +1,155 @@
+{
+  "symbol": "CY6U.SI",
+  "financial_year": 2024,
+  "currency_found": "SGD for the audited financial statements (Consolidated Income Statement, Balance Sheet, Cash Flows all in S$'000). CapitaLand India Trust's functional currency is INR but presentation/reporting currency is SGD; distributions are in SGD. Per-property valuations & purchase prices in the Portfolio section are disclosed in BOTH INR (Rs million, primary) and SGD.",
+  "currency_by_table": {
+    "financial": "SGD (audited statements)",
+    "performance": "SGD",
+    "properties": "market_valuation & purchase_price stored in SGD (presentation ccy, matches audited FS and portfolio total S$3,705.5m); original_value/original_currency = INR local figure (audit trail); purchase_price_local/_currency = INR.",
+    "property_transactions": "SGD row currency; INR figures preserved in raw/valuation_currency."
+  },
+  "cash_flow_atoms": {
+    "dep_pe": 2239000,
+    "fv_cf_signed": -331791000,
+    "finance_costs": 90305000,
+    "capex_sum": 237046000,
+    "basis": "All from Consolidated Statement of Cash Flows (pages 141-142), S$'000 x1000. dep_pe = 'Depreciation of plant and equipment and right-of-use assets' 2,239. fv_cf_signed = 'Fair value gain on investment properties and IPUC' (331,791) as deducted in operating CF = -331,791. finance_costs = gross finance-costs note (page 135) 90,305. capex_sum = IP-related investing outflows: additions to IPUC & IP 198,613 + advance payment on IP/IPUC/P&E 356 + net cash outflow from acquisition of subsidiaries 33,393 + purchase of plant & equipment 4,684 = 237,046 (July-2026 rule: includes acquisitions). Excludes intangibles 12,766 and long-term receivables."
+  },
+  "derived_financial": {
+    "ebit": 174915000,
+    "ebit_basis": "= operating_income (NOI convention, §6)",
+    "depreciation": -329552000,
+    "depreciation_basis": "dep_pe(2,239) + fv_cf_signed(-331,791); negative because FY2024 recognised a large non-cash IP fair-value GAIN",
+    "ebitda": 218117000,
+    "ebitda_basis": "pretax(457,364)+interest(90,305)+depreciation(-329,552)",
+    "funds_from_operation": 128478000,
+    "ffo_basis": "net_income(458,030)+depreciation(-329,552)-net_property_sales(0); FFO below net income in a revaluation-gain year (correct)",
+    "capital_expenditure": 237046000,
+    "free_cash_flow": -65990000
+  },
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "income_taxes",
+      "value": -666000,
+      "basis": "FY2024 was a tax BENEFIT of S$666k ('Income tax benefit (expenses)' +666 on the Income Statement, page 135). Stored NEGATIVE so net_income = pretax_income - income_taxes = 457,364 - (-666) = 458,030.",
+      "source_page": 135
+    },
+    {
+      "table": "financial",
+      "field": "minorities",
+      "value": -19255000,
+      "basis": "Non-controlling interests share of net profit 19,255 ('000); NEGATIVE per convention (deduction to reach unitholders 438,775).",
+      "source_page": 135
+    },
+    {
+      "table": "financial",
+      "field": "perpetual_security_holders",
+      "value": null,
+      "basis": "Business trust with no perpetual securities in issue.",
+      "source_page": 135
+    },
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1336241000,
+      "basis": "EPU note 9: 'Weighted average number of units outstanding during the year' 1,336,241 ('000); basic and diluted EPU both 32.84 cents so diluted = basic.",
+      "source_page": 151
+    },
+    {
+      "table": "financial",
+      "field": "net_property_sales",
+      "value": 0,
+      "basis": "No investment-property disposals completed in FY2024. CyberVale & CyberPearl classified held-for-sale at 31 Dec 2024 but not yet sold; the S$331.8m fair-value gain is a revaluation, not a sale.",
+      "source_page": 135
+    },
+    {
+      "table": "performance",
+      "field": "portfolio_value",
+      "value": 3705500000,
+      "basis": "Portfolio valued at Rs232.5 billion = S$3,705.5 million as at 31 Dec 2024 (Savills), page 23-24.",
+      "source_page": 24
+    },
+    {
+      "table": "performance",
+      "field": "aggregate_leverage",
+      "value": 38.5,
+      "basis": "Gearing ratio 38.5% per Financial Review/capital management (page 22, 24). FS note (page 116) rounds to 39%.",
+      "source_page": 24
+    },
+    {
+      "table": "performance",
+      "field": "interest_coverage_ratio",
+      "value": 2.6,
+      "basis": "Interest coverage ratio (Adjusted EBITDA/Interest expenses) 2.6 times, page 22.",
+      "source_page": 22
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 101492000,
+      "basis": "'Income available for distribution' S$101,492k (Distribution Statement, page 137). 10% retained -> 'Income to be distributed' S$91,343k = distribution_paid.",
+      "source_page": 137
+    },
+    {
+      "table": "performance",
+      "field": "weighted_avg_debt_maturity",
+      "value": null,
+      "basis": "Weighted average debt maturity not disclosed as a single headline figure in the FY2024 report; debt maturity profile shown only as a bar chart. Left null.",
+      "source_page": 22
+    }
+  ],
+  "reconciliation": [
+    "line_items: Sum(revenue 277,881) - Sum(expense 193,271) + Sum(adjustment signed 373,420) = 458,030 = net_income (Net profit after tax). PASS.",
+    "total_revenue 277,881k = performance.gross_revenue = Total property income. PASS.",
+    "gross_income 205,608k = Net property income. PASS.",
+    "Properties: Sum of 16 per-property INR valuations = Rs232,465m = portfolio total (page 24). Sum of SGD valuations = S$3,705.6m ~ S$3,705.5m portfolio total. PASS.",
+    "operating_expense 30,693 = Trustee-Manager's fees 24,101 + Other operating expenses 6,592; operating_income 174,915 = NPI 205,608 - 30,693."
+  ],
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "land_tenure",
+      "basis": "aVance Hyderabad, aVance I Pune and Logistics Park marked Freehold per the disclosed 'Land tenure: Freehold' field, though footnotes state they sit on long-dated (33/99/30-yr) renewable leaseholds treated as freehold."
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "basis": "industry mapped from the report's 'Tenant Core Business' sector labels to the canonical 15 taxonomy; verbatim label kept in industry_raw. Not disclosed per named tenant."
+    },
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "basis": "'Tenant Core Business (by rental revenue)' sector labels mapped to canonical 15 taxonomy; verbatim in category_raw. Electronics/Semiconductor & Automobile both -> Manufacturing; Design/Gaming/Media & Others -> Other Office Trades."
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "basis": "IT Parks -> Office; Data Centre developments -> Data Centers; Industrial Facility & Logistics Park -> Industrial & Logistics."
+    }
+  ],
+  "anomalies": [
+    "Four CapitaLand DC properties are investment properties under development (IPUC) at 31 Dec 2024 - carried at valuation with no/low income; status kept 'active' (no 'under_construction' enum) with a flag note.",
+    "CyberVale and CyberPearl classified as Assets held for sale at 31 Dec 2024 (status=held_for_sale); still generating income for FY2024.",
+    "aVance II, Pune committed occupancy 46% (recently acquired Mar 2024, ramping up).",
+    "Per-property NPI/gross_revenue NOT split in SGD in the audited FS (disclosed by property only in INR millions in the Financial Review); left null per as-disclosed rule.",
+    "trade_mix and top_tenants basis = base rent / rental revenue (not GRI/NPI)."
+  ],
+  "columns_never_fillable": [
+    "properties.net_property_income",
+    "properties.gross_revenue",
+    "properties.nla",
+    "properties.wale",
+    "performance.wale"
+  ],
+  "data_with_no_home": [
+    "Geographical diversification by rental revenue (USA 43%, India 36%, France 7%, Singapore 2%, Others 12%) - no schema table for tenant geography (page 33).",
+    "Committed development/forward-purchase pipeline (aVance Business Hub 2, Gardencity, Ebisu, Casa Grande-OneHub Chennai) - future acquisitions, not FY2024 transactions (page 30-32).",
+    "Data-centre IT load capacity (MW) per DC property - no schema field for power capacity."
+  ],
+  "parsing_traps": [
+    "Per-property valuation summary (page 24) splits Building Q1 (4,661) and Q2 (7,702), and IF1 (2,427) and IF2/IF3 (1,939), which the portfolio cards (page 42) present combined (Building Q1+Q2 = 12,363; IF 1,2,3 = 4,366). Used the combined card rows; both reconcile to portfolio total Rs232,465m.",
+    "Property income/NPI per-property tables (page 21-22) are in INR millions; the audited Income Statement (page 135) is in S$'000 - do not mix.",
+    "Income Statement 'Income tax benefit (expenses)' is a POSITIVE benefit (+666) in FY2024, not an expense."
+  ]
+}

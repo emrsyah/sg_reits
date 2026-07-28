@@ -1,0 +1,21 @@
+{
+  "stem": "12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2024",
+  "symbol": "DHLU.SI",
+  "financial_year": 2024,
+  "sub_sector": "Industrial",
+  "template_family": "DaiwaHouse",
+  "parsed": {"markdown": "parsed_reports_datalab/12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2024/full.md"},
+  "sections": {
+    "financial": {"status": "done", "method": "llm_only", "note": "Audited FS in SGD (S$'000). STR reconciles 57,100-25,233+2,838=34,705. Atoms: dep_pe=0, fv_cf=-8,483, finance=6,630, capex=47,365 (thousands)."},
+    "performance": {"status": "done", "method": "llm_only", "note": "KPIs p54; DPU 4.79; distribution_paid nulled (rollforward-only basis)."},
+    "profile": {"status": "done", "method": "llm_only"},
+    "properties": {"status": "done", "method": "llm_only", "rows": 18, "note": "18 properties (17 Japan JPY + 1 Vietnam VND). market_valuation SGD from Statement of Portfolio p150 (sum 835,902k reconciles). Per-property NPI/GR native JPY/VND. Japan NPI sum 4,838 JPY m verified."},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "by NPI (footnote 6). Top10=66.2%."},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 4, "note": "by GRI. Sum 99.9%."},
+    "property_transactions": {"status": "done", "method": "llm_only", "rows": 2, "note": "DPL Ibaraki Yuki (Mar 2024), D Project Tan Duc 2 (Jul 2024)."}
+  },
+  "final_dir": "extracted/DHLU.SI_FY2024",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "notes": "Task brief assumed JPY presentation; source is SGD for audited FS. Extracted per source (invariant: read, don't assume). Portfolio operations JPY/VND native. Method llm_only throughout: adapted from validated FY2025 DHLU extraction structure, every figure re-sourced from FY2024 AR.",
+  "updated": "2026-07-27"
+}

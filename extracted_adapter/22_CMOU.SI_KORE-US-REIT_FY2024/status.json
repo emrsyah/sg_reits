@@ -1,0 +1,21 @@
+{
+  "stem": "22_CMOU.SI_KORE-US-REIT_FY2024",
+  "symbol": "CMOU.SI",
+  "financial_year": 2024,
+  "sub_sector": "Office",
+  "template_family": "Keppel/KORE",
+  "parsed": {"markdown": "parsed_reports_datalab/22_CMOU.SI_KORE-US-REIT_FY2024/full.md"},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "note": "single US office trust; mgr Keppel Pacific Oak US REIT Management Pte. Ltd."},
+    "performance": {"status": "done", "method": "llm_only", "note": "FY2024 distributions suspended full year; DPU nil"},
+    "properties": {"status": "done", "method": "llm_only", "rows": 13, "note": "13 US office assets; audited Portfolio Statement '000 valuations; per-property GR from GR-by-asset card; NPI-by-asset not disclosed -> null"},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "Top 10 by CRI p37"},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 5, "note": "trade sector by CRI p36"},
+    "financial": {"status": "done", "method": "llm_only", "note": "full STR captured; STR recon ties to net_income -6,894k"},
+    "property_transactions": {"status": "done", "method": "llm_only", "rows": 0, "note": "no acquisitions/disposals in FY2024"}
+  },
+  "final_dir": "extracted/CMOU.SI_FY2024",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "atoms_000": {"dep_pe": 0, "fv_cf_signed": 46663, "finance_costs": 27571, "capex_sum": 53630},
+  "updated": "2026-07-27"
+}

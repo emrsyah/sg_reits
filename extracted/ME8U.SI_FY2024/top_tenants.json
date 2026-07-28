@@ -1,112 +1,12 @@
 [
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 1,
-    "client_name": "HP Singapore (Private) Limited",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Hi-Tech Buildings",
-    "revenue_pct": 6.0,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 2,
-    "client_name": "Established Data Centre Operator",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 3.6,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 3,
-    "client_name": "AT&T Inc.",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 3.1,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 4,
-    "client_name": "Global Social Media Company",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 2.9,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 5,
-    "client_name": "Global Colocation Provider",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 2.8,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 6,
-    "client_name": "Evoque Data Center Solutions",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 2.5,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 7,
-    "client_name": "The Bank of America Corporation",
-    "industry": "Financial & Professional Services",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 2.4,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 8,
-    "client_name": "Equinix Singapore Pte. Ltd.",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 2.3,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 9,
-    "client_name": "STT Tai Seng Pte. Ltd.",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 1.8,
-    "pct_basis": "gri",
-    "source_page": 33
-  },
-  {
-    "symbol": "ME8U.SI",
-    "financial_year": 2024,
-    "rank": 10,
-    "client_name": "Lumen Technologies, Inc.",
-    "industry": "IT & Telecommunications",
-    "industry_raw": "Data Centres",
-    "revenue_pct": 1.7,
-    "pct_basis": "gri",
-    "source_page": 33
-  }
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 1, "client_name": "HP Singapore (Private) Limited", "industry": "IT & Telecommunications", "revenue_pct": 6.0, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 2, "client_name": "Global Colocation Provider", "industry": "IT & Telecommunications", "revenue_pct": 5.0, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 3, "client_name": "Established Data Centre Operator", "industry": "IT & Telecommunications", "revenue_pct": 3.7, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 4, "client_name": "Global Social Media Company", "industry": "IT & Telecommunications", "revenue_pct": 2.9, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 5, "client_name": "AT&T Inc.", "industry": "IT & Telecommunications", "revenue_pct": 2.4, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 6, "client_name": "The Bank of America Corporation", "industry": "Financial & Professional Services", "revenue_pct": 2.4, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 7, "client_name": "Equinix Singapore Pte. Ltd.", "industry": "IT & Telecommunications", "revenue_pct": 2.3, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 8, "client_name": "STT Tai Seng Pte. Ltd.", "industry": "IT & Telecommunications", "revenue_pct": 1.8, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 9, "client_name": "Lumen Technologies, Inc.", "industry": "IT & Telecommunications", "revenue_pct": 1.6, "pct_basis": "gri", "source_page": 33},
+  {"symbol": "ME8U.SI", "financial_year": 2025, "rank": 10, "client_name": "Vanderbilt University Medical Center", "industry": "Healthcare & Wellness", "revenue_pct": 1.4, "pct_basis": "gri", "source_page": 33}
 ]

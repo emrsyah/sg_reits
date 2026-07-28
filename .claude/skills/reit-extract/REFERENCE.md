@@ -207,16 +207,18 @@ A REIT statement doesn't print ebit/ebitda/operating_income — derive them so t
 - `operating_expense` = Σ trust expenses below NPI **before finance** (manager/base+perf fees +
   trustee + other trust expenses; POSITIVE)
 - `operating_income` = `gross_income − operating_expense`
-- `interest_expense_non_operating` = borrowing/finance costs **− interest income** (NET; POSITIVE)
+- `interest_expense_non_operating` = **gross** borrowing/finance costs (do NOT net off interest income; POSITIVE). [Updated 2026-07-28: this was previously "net of interest income" — the LOCKED convention is GROSS, matching reit-extract-hybrid §6 and `scripts/db/_apply_conventions.py`, which everything reconciles to.]
 - `pretax_income` = "profit/total return before tax" (as printed)
 - `income_taxes` = tax (POSITIVE)
 - `non_operating_income_or_loss` = `pretax_income − operating_income` (SIGNED; this is the net of
   finance income/costs, fair-value changes, JV share, divestment gains — everything between
   operating profit and pre-tax)
 - `net_income` = `pretax_income − income_taxes` (= "total return for the year")
-- `ebit` = `net_income + income_taxes + interest_expense_non_operating`
-- `ebitda` = `ebit + depreciation & amortisation` (≈ ebit for fair-value REITs — no P&L D&A;
-  add real D&A for cost-model trusts)
+- `ebit` / `ebitda` — **SUPERSEDED**: these are NOT extracted or computed here. The LOCKED
+  definitions live in reit-extract-hybrid §6 and are applied downstream by
+  `scripts/db/_apply_conventions.py` from the 4 atoms (ebit = NOI; depreciation = P&E dep + net FV
+  change of IP; ebitda = pretax + gross interest + depreciation). The older
+  `ebit = net_income + income_taxes + interest` hint below is retained only for history.
 - `funds_from_operation` = **discover it from THIS report** — capture the disclosed FFO/AFFO if the
   trust reports one. Many SG REITs report "distributable income" (→ `performance.net_distributable_
   income`) instead of US-style FFO; when no FFO is disclosed, leave it **null** (do not assume

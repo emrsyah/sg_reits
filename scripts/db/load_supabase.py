@@ -160,12 +160,31 @@ def pdf_key_for(symbol, fy):
     hits = glob.glob(str(ROOT / "annual_reports" / f"*_{sym}.SI_*_FY{fy}.pdf"))
     return os.path.basename(hits[0]) if hits else None
 
+def declared_fy(date_str):
+    """Declared fiscal year from statement date: Jan-Jun end -> year-1, else year.
+    (Mapletree-style: a Mar/Jun-2025 year-end is FY2024.)"""
+    y, mth = int(date_str[:4]), int(date_str[5:7])
+    return y - 1 if mth <= 6 else y
+
 def load_one(cur, dirpath):
     name = os.path.basename(dirpath.rstrip("/\\"))
     m = re.match(r"^([A-Z0-9]+\.SI)_FY(\d{4})$", name)
     if not m:
         print(f"  SKIP (bad dir name): {name}"); return
-    symbol, fy = m.group(1), int(m.group(2))
+    symbol, folder_fy = m.group(1), int(m.group(2))
+    # financial_year is authoritative from the report DATE, not the folder label.
+    # Guard against a mislabeled folder silently re-introducing the date.year bug.
+    _pf = load_json(dirpath, "performance.json")
+    _pf = _pf[0] if isinstance(_pf, list) else _pf
+    _date = (_pf or {}).get("date")
+    if _date:
+        fy = declared_fy(_date)
+        if fy != folder_fy:
+            print(f"  REFUSE {name}: folder says FY{folder_fy} but date {_date} "
+                  f"=> declared FY{fy}. Rename the folder to {symbol}_FY{fy}."); return
+    else:
+        fy = folder_fy
+        print(f"  WARN {name}: no performance.json date; trusting folder FY{folder_fy}.")
 
     # ---- reit_report (inventory) ----
     cur.execute("""insert into reit_report (symbol, financial_year, pdf_r2_key)

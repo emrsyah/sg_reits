@@ -1,0 +1,67 @@
+{
+  "symbol": "CRPU.SI",
+  "financial_year": 2024,
+  "portfolio_value": 1582290000,
+  "properties_location": "China (Chongqing, Hefei, Kunming)",
+  "gross_revenue": 123726000,
+  "net_property_income": 123726000,
+  "net_distributable_income": 83297000,
+  "distribution_paid": 75911000,
+  "adjusted_distributable_income": null,
+  "dpu": 6.082,
+  "distribution_record": [
+    {
+      "period": "1 Jan 2024 - 30 Jun 2024",
+      "dpu": 3.153,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jul 2024 - 31 Dec 2024",
+      "dpu": 2.929,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 6375,
+  "aggregate_leverage": 24.8,
+  "interest_coverage_ratio": 4.6,
+  "cost_of_debt": 5.3,
+  "weighted_avg_debt_maturity": 2.5,
+  "nav_per_unit": 0.83,
+  "wale": 1.0,
+  "portfolio_occupancy": 98.9,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "flags": [
+    {
+      "type": "dpu_half_year_split",
+      "scope": "distribution_record",
+      "note": "DPU disclosed as two half-year distributions: 3.153c (1H) + 2.929c (2H) = 6.082c full year"
+    },
+    {
+      "type": "npi_equals_gross_revenue",
+      "scope": "net_property_income",
+      "note": "EMA model: all property operating expenses borne by the Entrusted Manager; the audited Statement of Total Return has no property-opex line, so NPI = EMA rental income = gross revenue. Portfolio occupancy 98.9% is 4Q 2024 average. WALE 1.0yr by GR (2.01yr by NLA). cost_of_debt is weighted-average cost of borrowings 5.3%; WADM 2.5 years; ~87% of borrowings hedged/fixed."
+    },
+    {
+      "type": "distribution_basis",
+      "scope": "net_distributable_income",
+      "note": "net_distributable_income = income available for distribution BEFORE retention = 83,297 ('000) = total return 56,058 + distribution adjustments 27,239 (Consolidated Distribution Statement p160). ~7,385 retained for onshore RMB loan amortisation + capex; after retention amount available for distribution = 75,921; total distribution to Unitholders for the year (2 half-year distributions) = 75,911 = distribution_paid."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distributable_income_closing",
+      "note": "Rollforward guard (opening 9 + NDI 83,297 - cash_paid 75,911 = 7,395 vs closing 10) differs by ~7,385 ('000): this is the DISCLOSED 'Less: Amount retained' line = 7,385 in the audited Consolidated Distribution Statement (p160, FYE 31 Dec 2024) — income retained to fund principal amortisation of onshore RMB loans and capital expenditure. NDI is the BEFORE-retention subtotal 83,297 (= total return 56,058 + distribution adjustments 27,239), NOT the after-retention 'Amount available for distribution' 75,921. distribution_pool_other_movements = -7,385 captures the retention. Values as-disclosed; small residual is rounding."
+    }
+  ],
+  "source_page": 5,
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 1255516000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 9000,
+  "distribution_cash_paid": 75911000,
+  "distributable_income_closing": 10000,
+  "units_to_be_issued": 4744000,
+  "distribution_pool_other_movements": -7385000
+}

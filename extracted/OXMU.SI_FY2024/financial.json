@@ -1,0 +1,175 @@
+{
+  "symbol": "OXMU.SI",
+  "financial_year": 2024,
+  "currency": "USD",
+  "source_page": 139,
+  "income_stmt_metrics": {
+    "total_revenue": 140963000,
+    "cost_of_revenue": 64988000,
+    "gross_income": 75975000,
+    "operating_income": 69316000,
+    "operating_expense": 6659000,
+    "ebit": 69316000.0,
+    "ebitda": 59268000.0,
+    "pretax_income": 8170000,
+    "income_taxes": 121000,
+    "net_income": 8049000,
+    "non_operating_income_or_loss": -61146000,
+    "interest_expense_non_operating": 36035000.0,
+    "weighted_avg_shares_basic": 1308259000,
+    "diluted_shares_outstanding": 1308259000,
+    "net_property_sales": -2627000,
+    "funds_from_operation": 25739000.0,
+    "unitholders": 8049000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "revenue_breakdown": [
+      {
+        "category": "Rental income",
+        "amount": 110093000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Recoveries income",
+        "amount": 22277000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other operating income",
+        "amount": 8593000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Manager's base fee",
+        "amount": 4242000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 182000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 2235000,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": 15063000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 1394692000,
+    "total_equity": 716376000,
+    "total_liabilities": 678316000,
+    "working_capital": 3489000,
+    "total_current_asset": 39584000,
+    "total_non_current_asset": 1355108000,
+    "total_current_liabilities": 36095000,
+    "total_non_current_liabilities": 642221000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 72191000,
+    "investing_cash_flow": 37846000,
+    "financing_cash_flow": -94306000,
+    "net_cash_flow": 15731000,
+    "free_cash_flow": 33994000.0,
+    "capital_expenditure": 38197000.0
+  },
+  "employee_breakdown": {
+    "total_employee": null,
+    "permanent_employee": null,
+    "contract_employee": null,
+    "others_employee": null
+  },
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 140963000,
+      "label_raw": "Gross revenue",
+      "source_page": 139
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 64988000,
+      "label_raw": "Property operating expenses",
+      "source_page": 139
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 4242000,
+      "label_raw": "Manager's base fee",
+      "source_page": 139
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 182000,
+      "label_raw": "Trustee's fee",
+      "source_page": 139
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 2235000,
+      "label_raw": "Other trust expenses",
+      "source_page": 139
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -8091000,
+      "label_raw": "Net fair value change in derivatives",
+      "source_page": 139
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 36035000,
+      "label_raw": "Finance expenses",
+      "source_page": 139
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 670000,
+      "label_raw": "Finance income",
+      "source_page": 139
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -15063000,
+      "label_raw": "Net fair value change in investment properties",
+      "source_page": 139
+    },
+    {
+      "statement": "adjustment",
+      "component": "loss_on_disposal_investment_property",
+      "amount": -2627000,
+      "label_raw": "Loss on disposal of investment property",
+      "source_page": 139
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_tax",
+      "amount": -121000,
+      "label_raw": "Tax expense",
+      "source_page": 139
+    }
+  ]
+}

@@ -3,100 +3,100 @@
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 1,
-    "pct_basis": "gross_revenue",
-    "source_page": 49,
     "client_name": "Equinix",
-    "industry": "IT & Telecommunications",
-    "revenue_pct": 3.7
+    "industry": null,
+    "revenue_pct": 3.7,
+    "pct_basis": "gross_revenue",
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 2,
-    "pct_basis": "gross_revenue",
-    "source_page": 49,
     "client_name": "CWT",
-    "industry": "Logistics & Supply Chain Management",
-    "revenue_pct": 3.4
+    "industry": null,
+    "revenue_pct": 3.5,
+    "pct_basis": "gross_revenue",
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 3,
-    "pct_basis": "gross_revenue",
-    "source_page": 49,
     "client_name": "Coles Group",
-    "industry": "Food & Beverages",
-    "revenue_pct": 3.1
+    "industry": null,
+    "revenue_pct": 2.1,
+    "pct_basis": "gross_revenue",
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 4,
+    "client_name": "HKTV",
+    "industry": null,
+    "revenue_pct": 1.8,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "S.F. Express",
-    "industry": "Logistics & Supply Chain Management",
-    "revenue_pct": 2.0
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 5,
+    "client_name": "S.F. Express",
+    "industry": null,
+    "revenue_pct": 1.7,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "HKTV",
-    "industry": "Other Retail Trades",
-    "revenue_pct": 1.8
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 6,
+    "client_name": "Coupang Inc.",
+    "industry": null,
+    "revenue_pct": 1.5,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "YCH Group",
-    "industry": "Logistics & Supply Chain Management",
-    "revenue_pct": 1.6
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 7,
+    "client_name": "Bidvest Group",
+    "industry": null,
+    "revenue_pct": 1.5,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "Coupang Inc.",
-    "industry": "Other Retail Trades",
-    "revenue_pct": 1.6
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 8,
+    "client_name": "YCH Group",
+    "industry": null,
+    "revenue_pct": 1.4,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "Woolworths",
-    "industry": "Departmental Store/Supermarket",
-    "revenue_pct": 1.5
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 9,
-    "pct_basis": "gross_revenue",
-    "source_page": 49,
     "client_name": "Cainiao",
-    "industry": "Logistics & Supply Chain Management",
-    "revenue_pct": 1.5
+    "industry": null,
+    "revenue_pct": 1.3,
+    "pct_basis": "gross_revenue",
+    "source_page": 52
   },
   {
     "symbol": "M44U.SI",
     "financial_year": 2025,
     "rank": 10,
+    "client_name": "GXO Logistics",
+    "industry": null,
+    "revenue_pct": 1.2,
     "pct_basis": "gross_revenue",
-    "source_page": 49,
-    "client_name": "Bidvest Group",
-    "industry": "Logistics & Supply Chain Management",
-    "revenue_pct": 1.5
+    "source_page": 52
   }
 ]

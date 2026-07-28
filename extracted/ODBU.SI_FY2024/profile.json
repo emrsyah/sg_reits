@@ -1,0 +1,25 @@
+{
+  "symbol": "ODBU.SI",
+  "sub_sector": "Retail",
+  "management": {
+    "reit_manager": [
+      "United Hampshire US REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "UOB Global Capital LLC",
+      "The Hampshire Companies, LLC"
+    ],
+    "property_manager": [
+      "The Hampshire Companies, LLC",
+      "MCB Property Management, LLC"
+    ],
+    "operator": [
+      "Extra Space Storage Inc."
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 19
+}

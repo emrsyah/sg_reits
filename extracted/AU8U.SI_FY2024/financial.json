@@ -1,0 +1,78 @@
+{
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_stmt_metrics": {
+    "total_revenue": 341529000.0,
+    "cost_of_revenue": 114952000.0,
+    "gross_income": 226577000.0,
+    "operating_income": 206151000.0,
+    "operating_expense": 20426000.0,
+    "ebit": 206151000.0,
+    "ebitda": 217992000.0,
+    "pretax_income": 62184000.0,
+    "income_taxes": 66121000.0,
+    "net_income": -3937000.0,
+    "non_operating_income_or_loss": -143967000.0,
+    "interest_expense_non_operating": 65369000.0,
+    "weighted_avg_shares_basic": 1704795000.0,
+    "diluted_shares_outstanding": 1724354000.0,
+    "net_property_sales": 0.0,
+    "funds_from_operation": 86502000.0,
+    "unitholders": -18066000.0,
+    "perpetual_security_holders": -3384000.0,
+    "minorities": -10745000.0,
+    "depreciation": 90439000.0,
+    "revenue_breakdown": [
+      {"category": "Gross rental income", "amount": 309935000.0, "class": "Product/Service Sales"},
+      {"category": "Other income", "amount": 31594000.0, "class": "Other income"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "Manager's management fees", "amount": 19164000.0, "class": "General & Admin"},
+      {"category": "Trustee's fees", "amount": 645000.0, "class": "General & Admin"},
+      {"category": "Audit fees", "amount": 635000.0, "class": "General & Admin"},
+      {"category": "Valuation fees", "amount": 98000.0, "class": "General & Admin"}
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 4722834000.0,
+    "total_equity": 2309734000.0,
+    "total_liabilities": 2413100000.0,
+    "working_capital": -90666000.0,
+    "total_current_asset": 269594000.0,
+    "total_non_current_asset": 4453240000.0,
+    "total_current_liabilities": 360260000.0,
+    "total_non_current_liabilities": 2052840000.0
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 175795000.0,
+    "investing_cash_flow": 85154000.0,
+    "financing_cash_flow": -275846000.0,
+    "net_cash_flow": -14897000.0,
+    "free_cash_flow": 158950000.0,
+    "capital_expenditure": 16845000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "base_rental", "amount": 309935000.0, "label_raw": "Gross rental income", "source_page": 91},
+    {"statement": "revenue", "component": "other_income", "amount": 31594000.0, "label_raw": "Other income", "source_page": 91},
+    {"statement": "expense", "component": "property_tax", "amount": 30272000.0, "label_raw": "Property related tax", "source_page": 91},
+    {"statement": "expense", "component": "business_tax", "amount": 1976000.0, "label_raw": "Business tax", "source_page": 91},
+    {"statement": "expense", "component": "property_management_fees", "amount": 21424000.0, "label_raw": "Property management fees and reimbursables", "source_page": 91},
+    {"statement": "expense", "component": "other_property_operating_expenses", "amount": 61280000.0, "label_raw": "Other property operating expenses (Note 19)", "source_page": 91},
+    {"statement": "expense", "component": "management_fee", "amount": 19164000.0, "label_raw": "Manager's management fees (base fee ~S$10.9m + performance fee ~S$8.3m, Note 20)", "source_page": 91},
+    {"statement": "expense", "component": "trustee_fees", "amount": 645000.0, "label_raw": "Trustee's fees", "source_page": 91},
+    {"statement": "expense", "component": "audit_fees", "amount": 635000.0, "label_raw": "Audit fees", "source_page": 91},
+    {"statement": "expense", "component": "valuation_fees", "amount": 98000.0, "label_raw": "Valuation fees", "source_page": 91},
+    {"statement": "expense", "component": "finance_costs", "amount": 65369000.0, "label_raw": "Finance costs (Note 22, gross)", "source_page": 91},
+    {"statement": "adjustment", "component": "other_operating_income", "amount": 116000.0, "label_raw": "Other operating income/(expenses) (Note 21)", "source_page": 91},
+    {"statement": "adjustment", "component": "fx_gain_realised", "amount": 1003000.0, "label_raw": "Foreign exchange gain - realised", "source_page": 91},
+    {"statement": "adjustment", "component": "finance_income", "amount": 3430000.0, "label_raw": "Finance income", "source_page": 91},
+    {"statement": "adjustment", "component": "gain_disposal_subsidiary", "amount": 7309000.0, "label_raw": "Gain on disposal of subsidiary (CapitaMall Shuangjing)", "source_page": 91},
+    {"statement": "adjustment", "component": "fair_value_investment_properties", "amount": -89733000.0, "label_raw": "Change in fair value of investment properties", "source_page": 91},
+    {"statement": "adjustment", "component": "fair_value_derivatives", "amount": -403000.0, "label_raw": "Change in fair value of financial derivatives", "source_page": 91},
+    {"statement": "adjustment", "component": "fx_loss_unrealised", "amount": -204000.0, "label_raw": "Foreign exchange loss - unrealised", "source_page": 91},
+    {"statement": "adjustment", "component": "taxation", "amount": -66121000.0, "label_raw": "Taxation", "source_page": 91}
+  ],
+  "source_page": 91
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "TAMI",
+    "pct": 41.3,
+    "pct_basis": "cash_rental_income",
+    "source_page": 36
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Professional Services",
+    "pct": 21.7,
+    "pct_basis": "cash_rental_income",
+    "source_page": 36
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Finance and Insurance",
+    "pct": 15.9,
+    "pct_basis": "cash_rental_income",
+    "source_page": 36
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Medical and Healthcare",
+    "pct": 9.2,
+    "pct_basis": "cash_rental_income",
+    "source_page": 36
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 11.9,
+    "pct_basis": "cash_rental_income",
+    "source_page": 36
+  }
+]

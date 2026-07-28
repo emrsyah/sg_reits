@@ -1,0 +1,12 @@
+{
+  "symbol": "MXNU.SI",
+  "sub_sector": "Office",
+  "management": {
+    "reit_manager": ["Elite UK REIT Management Pte. Ltd."],
+    "trustee": ["Perpetual (Asia) Limited"],
+    "property_manager": ["Jones Lang LaSalle Limited", "Elite Real Estate Services UK Limited"],
+    "sponsor": ["Elite Partners Holdings Pte. Ltd.", "Ho Lee Group Pte. Ltd.", "Sunway RE Capital Pte. Ltd."]
+  },
+  "income_model": "conventional",
+  "source_page": 33
+}

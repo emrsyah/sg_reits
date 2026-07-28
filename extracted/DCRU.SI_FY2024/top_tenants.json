@@ -1,0 +1,12 @@
+[
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 1, "client_name": "Fortune 50 Software Company", "industry": "IT & Telecommunications", "revenue_pct": 35.6, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 2, "client_name": "Fortune 25 Tech Company", "industry": "IT & Telecommunications", "revenue_pct": 13.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 3, "client_name": "Social Media Platform", "industry": "IT & Telecommunications", "revenue_pct": 12.2, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 4, "client_name": "Global Technology Solutions Provider", "industry": "IT & Telecommunications", "revenue_pct": 6.6, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 5, "client_name": "Global Colocation Data Centre Provider", "industry": "IT & Telecommunications", "revenue_pct": 4.2, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 6, "client_name": "Global Cloud and Software Service Provider", "industry": "IT & Telecommunications", "revenue_pct": 3.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 7, "client_name": "Next-Generation AI Computing Developer", "industry": "IT & Telecommunications", "revenue_pct": 3.8, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 8, "client_name": "Global Cloud Provider", "industry": "IT & Telecommunications", "revenue_pct": 3.7, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 9, "client_name": "Listed Software Developer", "industry": "IT & Telecommunications", "revenue_pct": 2.6, "pct_basis": "rental_income", "source_page": 37},
+  {"symbol": "DCRU.SI", "financial_year": 2024, "rank": 10, "client_name": "Global Content Delivery Network", "industry": "IT & Telecommunications", "revenue_pct": 2.1, "pct_basis": "rental_income", "source_page": 37}
+]

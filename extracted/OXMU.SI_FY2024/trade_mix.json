@@ -1,0 +1,12 @@
+[
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Financial & Professional Services", "category_raw": "Finance", "pct": 18.3, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "IT & Telecommunications", "category_raw": "Communications and Information", "pct": 14.0, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Financial & Professional Services", "category_raw": "Legal Services", "pct": 13.9, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Healthcare & Wellness", "category_raw": "Medical, Biotech and Health Care", "pct": 13.5, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Infrastructure, Real Estate & Property Services", "category_raw": "Real Estate Services", "pct": 6.9, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Financial & Professional Services", "category_raw": "Professional & Technical Services", "pct": 4.5, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Energy, Mining & Resources", "category_raw": "Oil and Gas", "pct": 4.5, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Government Related", "category_raw": "Government", "pct": 3.7, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Financial & Professional Services", "category_raw": "Management Consulting Services", "pct": 2.9, "pct_basis": "cash_rental_income", "source_page": 20},
+  {"symbol": "OXMU.SI", "financial_year": 2024, "category": "Other Office Trades", "category_raw": "Others", "pct": 17.8, "pct_basis": "cash_rental_income", "source_page": 20}
+]

@@ -1,0 +1,18 @@
+{
+ "stem":"25_D5IU.SI_Landmark-REIT_FY2024","symbol":"D5IU.SI","financial_year":2024,
+ "sub_sector":"Retail","template_family":"LMIR/Landmark",
+ "parsed":{"markdown":"parsed_reports_datalab/25_D5IU.SI_Landmark-REIT_FY2024/full.md"},
+ "sections":{
+  "profile":{"status":"done","method":"llm_only","rows":1},
+  "performance":{"status":"done","method":"llm_only","rows":1},
+  "properties":{"status":"done","method":"hybrid","rows":29,
+    "cross_check":{"vs":"Statement of Portfolio total p93","match":"valuation EXACT 1,562,006k; GR/NPI within rounding"}},
+  "top_tenants":{"status":"done","method":"llm_only","rows":10,"note":"Top 10 by GRI p28"},
+  "trade_mix":{"status":"done","method":"llm_only","rows":8,"note":"by gross revenue p28; sum 100.0"},
+  "financial":{"status":"done","method":"llm_only","rows":1,
+    "cross_check":{"vs":"Statement of Total Return p82","match":"Srev-Sexp+Sadj = -36,379 = net_income PASS"}},
+  "property_transactions":{"status":"done","method":"n/a","rows":0,"note":"no acquisitions/divestments in FY2024"}},
+ "final_dir":"extracted/D5IU.SI_FY2024",
+ "gates":{"schema":"PASS","check":"PASS"},
+ "updated":"2026-07-27"
+}

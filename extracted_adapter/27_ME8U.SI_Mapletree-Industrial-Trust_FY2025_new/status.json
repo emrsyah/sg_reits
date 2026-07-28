@@ -1,0 +1,32 @@
+{
+  "stem": "27_ME8U.SI_Mapletree-Industrial-Trust_FY2025_new",
+  "symbol": "ME8U.SI",
+  "financial_year": 2025,
+  "fy_end": "2026-03-31",
+  "sub_sector": "Diversified",
+  "output_dir": "extracted/ME8U.SI_FY2025",
+  "state": "complete",
+  "method": "deterministic (standalone scripts: build.py parses audited Portfolio Statement + operational overview tables; assemble.py writes the 8 files with audited financials). eval kernel was shared with sibling agent -> used script files.",
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only (read Trust Structure p18 + Corporate Profile p2)", "source_pages": [2, 18]},
+    "performance": {"status": "done", "method": "llm_only (Key Information p11, Distribution Statement p125, DPU p32, Statistics of Unitholdings p196)", "source_pages": [11, 125, 32, 196]},
+    "financial": {"status": "done", "method": "audited Statement of Total Return p122 + notes 3/4/5/7/8/9/10/14/18 + BS p124 + CF p127-128", "source_pages": [122, 124, 127, 158, 159, 160, 161]},
+    "properties": {"status": "done", "rows": 99, "consolidated": 86, "jv_equity_accounted": 13,
+      "method": "deterministic parse of audited Portfolio Statement (p132-143, two-page spread) for consolidated Tier-C SGD; operational overview (p52-61) for NLA/GFA + the 13 JV data-centre rows (USD, 100% basis)",
+      "cross_check": "Sigma valuation = 7,183,873k = disclosed FV total (exact); Sigma gross revenue = 672,991k = Group gross revenue (exact); per-section subtotals all tie exactly."},
+    "top_tenants": {"status": "done", "rows": 10, "method": "Top 10 Tenants by GRI p41", "source_pages": [41]},
+    "trade_mix": {"status": "done", "rows": 8, "method": "Tenant Diversification by trade sector (GRI) p42; 'Other Trade Sectors' expanded to 4 sub-sectors for clean canonical mapping; sums 100.0%", "source_pages": [42]},
+    "property_transactions": {"status": "done", "rows": 2, "method": "Note 14 divestments p162 (2775 Northwoods; The Strategy/Synergy/Woodlands Central)", "source_pages": [162]},
+    "_notes": {"status": "done"}
+  },
+  "gates": {
+    "validate_schema": "PASS (122 valid, 0 invalid)",
+    "check_extraction": "PASS (0 fail, 1 warn, 2 info)",
+    "sanity_scan": "clean - no flags (ME8U.SI_FY2025)"
+  },
+  "notes": [
+    "JV MRODCT (13 US data centres, 50% MIT, equity-accounted) is absent from the consolidated Portfolio Statement; layered back as 13 property rows using the operational-overview USD valuation (flagged joint_venture_100pct), plus aggregate JV disclosure in _notes.",
+    "gross_revenue reconciliation is RECON VIA NOTES: 4 properties divested in-year keep partial-year revenue in the Group total (2.34% gap), documented in _notes.reconciliation.",
+    "Below-NPI income (interest income, other income) correctly bucketed as statement='adjustment' (confirmed on audited Statement of Total Return p122)."
+  ]
+}

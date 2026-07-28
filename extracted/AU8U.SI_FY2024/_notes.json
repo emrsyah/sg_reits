@@ -1,0 +1,54 @@
+{
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "currency_note": "Task requested native currency. CLCT's audited consolidated financial statements (statement of total return, balance sheet, cash flows, distribution statement) are PRESENTED in Singapore dollars (S$'000) - see statement headers p90-99 (\"2024 $'000\"). Native/as-reported currency for financial.json and performance.json is therefore SGD, not RMB. RMB figures exist only as a secondary dual-currency column in the Portfolio Statement (valuation) and Financial Review (GR/NPI) property tables; these are preserved as audit fields on properties (_rmb_valuation_000, _gross_revenue_rmb_000, _npi_rmb_000). No FX conversion was performed by the extractor.",
+  "cash_flow_atoms": {
+    "dep_pe_000": 706,
+    "fv_cf_signed_000": 89733,
+    "finance_costs_000": 65369,
+    "capex_sum_000": 16845,
+    "basis": "dep_pe = 'Depreciation and amortisation' in C/F operating activities (p99). fv_cf_signed = 'Change in fair value of investment properties' add-back in C/F operating (p99, +89,733). finance_costs = gross Finance costs total, Note 22 (p145, S$65,369k, NOT net of finance income). capex_sum = 'Capital expenditure on investment properties' in C/F investing (p99, S$16,845k); no IP acquisitions in FY2024."
+  },
+  "derived_metrics": {
+    "ebit": "= operating_income (NOI) = 206,151k",
+    "depreciation": "= dep_pe 706 + fv_cf_signed 89,733 = 90,439k",
+    "ebitda": "= pretax 62,184 + interest 65,369 + depreciation 90,439 = 217,992k",
+    "funds_from_operation": "= net_income (-3,937) + depreciation 90,439 - net_property_sales 0 = 86,502k",
+    "capital_expenditure": "= capex_sum 16,845k (positive)"
+  },
+  "data_provenance": [
+    {"table": "financial", "field": "weighted_avg_shares_basic", "value": 1704795000.0, "basis": "Note 24 basic EPU: 'Weighted average number of issued and issuable Units at end of the year' 1,704,795 ('000), p147", "source_page": 147},
+    {"table": "financial", "field": "diluted_shares_outstanding", "value": 1724354000.0, "basis": "Note 24 diluted EPU: 'Weighted average number of issued and issuable Units at end of the year' 1,724,354 ('000), p147", "source_page": 147},
+    {"table": "financial", "field": "net_property_sales", "value": 0.0, "basis": "No direct investment-property disposal in FY2024. The CapitaMall Shuangjing exit was structured as a disposal of SUBSIDIARY; its S$7,309k gain is EXCLUDED per LOCKED scope rule and kept in line_items as a signed adjustment (gain_disposal_subsidiary).", "source_page": 91},
+    {"table": "financial", "field": "operating_expense", "value": 20426000.0, "basis": "= gross_income 226,577 - operating_income 206,151. Trust-level recurring expenses: Manager's fees 19,164 + Trustee 645 + Audit 635 + Valuation 98 = 20,542, net of Other operating income 116 = 20,426. breakdown lists the 4 positive expense lines (20,542; reconciles within 0.6%).", "source_page": 91},
+    {"table": "financial", "field": "net_cash_flow", "value": -14897000.0, "basis": "'Net (decrease)/increase in cash and cash equivalents' subtotal BEFORE the 'Effect of foreign exchange rate changes on cash balances' (-1,098) line, per LOCKED rule. p99.", "source_page": 99}
+  ],
+  "inferred": [
+    {"table": "properties", "field": "tenure_raw", "basis": "Composed from Consolidated Portfolio Statement term/remaining columns (as at 31 Dec 2024) + land use right expiry from per-property cards."},
+    {"table": "properties", "field": "npi_pct", "basis": "COMPUTED = per-property NPI / total NPI 226,577k x 100. Not a disclosed figure."},
+    {"table": "properties", "field": "gfa/nla/purchase_price/address/category", "basis": "Static attributes carried from the same properties in the FY2025 sibling extraction (identical assets); valuation, GR, NPI, occupancy are FY2024 as-disclosed."},
+    {"table": "trade_mix", "field": "category", "basis": "Canonical mapping of the disclosed segment-leaf trade sectors (p29) to the 15-value taxonomy; percentages are of TOTAL portfolio GRI (three segment columns sum to 100%)."}
+  ],
+  "data_with_no_home": [],
+  "parsing_traps": [
+    "Consolidated FS are in S$'000 (presentation currency), NOT RMB - despite CLCT being a China REIT. RMB appears only as a dual column in Portfolio Statement & Financial Review property tables.",
+    "Distribution rollforward uses 'Distributions to Unitholders during the year' S$101,967k (semi-annual paid amounts), not the cash-flow 'Distribution to Unitholders' S$89,477k line."
+  ],
+  "reconciliation": [
+    {"check": "Sigma-revenue - Sigma-expense + Sigma-adjustment(signed)", "result": "341,529 - 200,863 + (-144,603) = -3,937 = net_income (Total return for the year after taxation). PASS"},
+    {"check": "total_revenue == performance.gross_revenue", "result": "341,529k == 341,529k. PASS"},
+    {"check": "financial.gross_income == performance.net_property_income", "result": "226,577k == 226,577k. PASS"},
+    {"check": "Sigma property valuation (SGD'000) == Investment properties at valuation", "result": "4,443,931k == 4,443,931k (18 active properties). PASS"},
+    {"check": "trade_mix sums to 100%", "result": "100.0%. PASS"}
+  ],
+  "columns_never_fillable": [
+    {"column": "property.gla", "reason": "Property cards disclose GFA and NLA (retail/business parks) but never a distinct 'GLA'."},
+    {"column": "property.nla (logistics parks)", "reason": "The 4 logistics-park cards print only 'GFA (sq m)', no NLA row."},
+    {"column": "property.major_tenants", "reason": "Per-property major-tenant lists not tabulated in this AR; top tenants disclosed only at portfolio level."}
+  ],
+  "anomalies": [
+    "CapitaMall Shuangjing: divested subsidiary (completed 23 Jan 2024). Absent from FY2024 Portfolio Statement; retained as a status=divested property row with partial-year GR S$87k / NPI S$(4)k and a property_transactions record.",
+    "CapitaMall Qibao: ceased operations Mar 2023, fully out of FY2024 (excluded from portfolio); not carried as a property row.",
+    "Business parks (SG-HZ Phase I 74.6%, Ascendas Innovation Towers 71.8%) and logistics park Shanghai Fengxian (NPI negative S$-1,016k) reflect lower occupancy/rents disclosed in the Financial Review - as-reported, not errors."
+  ]
+}

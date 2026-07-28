@@ -1,0 +1,102 @@
+[
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 1,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "BHG Group of Companies",
+  "industry": "Departmental Store/Supermarket",
+  "revenue_pct": 1.7
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 2,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "JD.com Group of Companies",
+  "industry": "Other Industrial Trades",
+  "revenue_pct": 1.6
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 3,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Bosideng International Holdings Limited",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 1.1
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 4,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Bestseller Group of Companies",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 0.9
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 5,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Hangzhou Yuelong",
+  "industry": "Infrastructure, Real Estate & Property Services",
+  "revenue_pct": 0.9
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 6,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Zhejiang Hebenye Enterprise Management Co., Ltd",
+  "industry": "Infrastructure, Real Estate & Property Services",
+  "revenue_pct": 0.7
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 7,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Guangdong Yongwang Tee Mall Commerce",
+  "industry": "Departmental Store/Supermarket",
+  "revenue_pct": 0.7
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 8,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Yun Feng Logistics",
+  "industry": "Logistics & Supply Chain Management",
+  "revenue_pct": 0.7
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 9,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Ping An Insurance Company",
+  "industry": "Financial & Professional Services",
+  "revenue_pct": 0.5
+ },
+ {
+  "symbol": "AU8U.SI",
+  "financial_year": 2024,
+  "rank": 10,
+  "pct_basis": "gri",
+  "source_page": 30,
+  "client_name": "Fast Retailing Co., Ltd.",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 0.5
+ }
+]

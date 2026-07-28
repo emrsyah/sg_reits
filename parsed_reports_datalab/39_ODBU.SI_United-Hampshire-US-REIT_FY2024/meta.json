@@ -1,0 +1,14 @@
+{
+  "file": "39_ODBU.SI_United-Hampshire-US-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 204,
+  "pages_written": 204,
+  "seconds": 48.4,
+  "parse_quality_score": null,
+  "runtime": 40.88423943519592,
+  "cost_breakdown": {
+    "final_cost_cents": 82.0
+  },
+  "checkpoint_id": "checkpoint_uavejc-yOXpZaMipifXZQehtWapHu5RTOxuNh1wEnC0",
+  "page_range": null
+}

@@ -1,0 +1,14 @@
+{
+  "file": "21_AJBU.SI_Keppel-DC-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 204,
+  "pages_written": 204,
+  "seconds": 56.9,
+  "parse_quality_score": null,
+  "runtime": 49.45897626876831,
+  "cost_breakdown": {
+    "final_cost_cents": 62.0
+  },
+  "checkpoint_id": "checkpoint_E32Iq0UbvArS0XpqF_YwgRQB8gyD3pd_E7ParX7bor8",
+  "page_range": null
+}

@@ -1,0 +1,8316 @@
+
+
+<!-- PAGE 1 -->
+
+# Resilience
+
+**In Every Step**
+
+Annual Report 2024
+
+![Decorative bamboo leaves in the bottom right corner](666e09182d4cd268646ea700ea60dcdf_img.jpg)![A large graphic of a staircase made of rectangular blocks, transitioning from yellow at the top to green at the bottom, symbolizing growth and resilience.](1ef1ef0bf9af6c6996401964cf280f2d_img.jpg)
+
+<!-- PAGE 2 -->
+
+![Decorative graphic of stylized yellow and blue leaves in the top left corner.](2173c0102e23a5ff29d90d4353fc0339_img.jpg)
+
+A decorative graphic in the top left corner of the page, featuring several stylized, elongated leaves. The leaves are primarily yellow with blue and green accents, giving them a textured, artistic appearance. They are arranged in a fan-like pattern, pointing towards the top right.
+
+Decorative graphic of stylized yellow and blue leaves in the top left corner.
+
+# Contents
+
+|  |  |
+|-|-|
+| At a Glance | 02 |
+| Financial Highlights | 03 |
+| Significant Events 2024 | 06 |
+| Letter to Unitholders | 08 |
+| Board of Directors | 11 |
+| Key Management | 16 |
+| Trust Structure | 17 |
+| Independent Market Review | 18 |
+| Our Network | 22 |
+| Property Overview | 24 |
+| Investor Relations | 42 |
+| Sustainability Report | 45 |
+| Corporate Governance Report | 86 |
+| Financial Statements | 115 |
+| Interested Person Transactions | 204 |
+| Statistics of Unitholdings | 205 |
+| Corporate Information |  |
+
+<!-- PAGE 3 -->
+
+![Decorative graphic of stylized leaves in yellow, green, and blue tones, arranged in a branching pattern across the top of the page.](1df14e8a75f3f3fcf750749dbbd2c3f1_img.jpg)
+
+Decorative graphic of stylized leaves in yellow, green, and blue tones, arranged in a branching pattern across the top of the page.
+
+# Corporate Profile
+
+First Real Estate Investment Trust ("**First REIT**" or the "**Trust**"), is a healthcare real estate investment trust focused on investing in diverse yield-accretive healthcare and healthcare-related real estate assets within and outside of Asia. First REIT is managed by First REIT Management Limited (the "**Manager**"), which is headquartered in Singapore. The Manager is 60% directly held by OUE Limited ("**OUE**"), and 40% directly held by OUE Healthcare Limited ("**OUEH**"), who together are its Sponsors and hold a combined stake in First REIT of 45.17% as at 31 December 2024.
+
+The Trust has a portfolio of 32 properties across Asia, with a total asset value of S\$1.12 billion as at 31 December 2024. These include 15 properties in Indonesia comprising 11 hospitals,
+
+2 integrated hospitals & malls, 1 integrated hospital & hotel, and 1 hotel & country club; 3 nursing homes in Singapore; and 14 nursing homes in Japan. The Trust's healthcare properties in Indonesia are operated by PT Siloam International Hospitals Tbk ("**Siloam**") while healthcare properties in Singapore and Japan are operated by well-established third-party operators.
+
+The Trust has a right-of-first-refusal ("**ROFR**") from OUEH and opportunities to tap on its growing healthcare network across Pan-Asia. In addition, First REIT also has a ROFR to a pipeline of hospitals from PT Lippo Karawaci Tbk ("**Lippo Karawaci**"), a shareholder of Siloam.
+
+<!-- PAGE 4 -->
+
+## At A Glance
+
+### A Diversified Healthcare Portfolio of 32 Properties
+
+![Icon representing asset size, showing a building and a dollar sign.](ddfe517a5ad9c77c89a57a5e780b24ca_img.jpg)
+
+Icon representing asset size, showing a building and a dollar sign.
+
+Asset Size  
+**\$S\$1.12** billion
+
+![Icon representing total GFA of properties, showing a stack of papers.](b615ff07e8a0f467f0a6f4783c4463eb_img.jpg)
+
+Icon representing total GFA of properties, showing a stack of papers.
+
+Total GFA of Properties  
+**450,085** m<sup>2</sup>
+
+![Icon representing total number of tenants, showing a group of people.](d0baec9a9191662196c3f3be304ee01c_img.jpg)
+
+Icon representing total number of tenants, showing a group of people.
+
+Total No. of Tenants  
+**11**
+
+![Icon representing maximum number of beds and rooms, showing a house and a key.](ab5392ddbf4af970d4ef7bff2e4df925_img.jpg)
+
+Icon representing maximum number of beds and rooms, showing a house and a key.
+
+Maximum No. of  
+Beds and Rooms  
+**6,531**
+
+![Icon representing total committed occupancy rate of tenants, showing a thumbs up and a building.](29d638143e0fbfb368ab967dac226c2a_img.jpg)
+
+Icon representing total committed occupancy rate of tenants, showing a thumbs up and a building.
+
+Total Committed  
+Occupancy Rate of Tenants  
+**100%**
+
+![Icon representing weighted average lease expiry, showing a document and a checkmark.](8d5dd461d53a81859a9ae0d04d9bbaec_img.jpg)
+
+Icon representing weighted average lease expiry, showing a document and a checkmark.
+
+Weighted Average  
+Lease Expiry ("WALE") <sup>(1)</sup>  
+**10.6 years**
+
+![Map of Southeast Asia and Japan showing the geographical distribution of the portfolio. Callouts indicate: Japan (14 nursing homes), Singapore (3 nursing homes), and Indonesia (11 hospitals, 2 integrated hospitals & malls, 1 integrated hospital & hotel, 1 hotel & country club).](4dd8d88230d428bc0cb93152bb714af2_img.jpg)
+
+**Japan**  
+14 nursing homes
+
+**Singapore**  
+3 nursing homes
+
+**Indonesia**  
+11 hospitals  
+2 integrated hospitals & malls  
+1 integrated hospital & hotel  
+1 hotel & country club
+
+Map of Southeast Asia and Japan showing the geographical distribution of the portfolio. Callouts indicate: Japan (14 nursing homes), Singapore (3 nursing homes), and Indonesia (11 hospitals, 2 integrated hospitals & malls, 1 integrated hospital & hotel, 1 hotel & country club).
+
+### Consistently Delivered Positive Total Returns <sup>(2)</sup>
+
+![Bar chart showing Total Returns for 6-month, 1 year, and 3 years periods.](2e24de1b1a3df92537debdd0e71f0e3f_img.jpg)
+
+| Period | Total Return |
+|-|-|
+| 6-month | 9.1% |
+| 1 year | 5.8% |
+| 3 years | 11.4% |
+
+Bar chart showing Total Returns for 6-month, 1 year, and 3 years periods.
+
+(1) By Gross Floor Area
+
+(2) Source: Bloomberg, as at 31 December 2024
+
+<!-- PAGE 5 -->
+
+## Financial Highlights
+
+### Healthy Lease Expiry Profile, % of Portfolio
+
+![Bar chart showing Healthy Lease Expiry Profile, % of Portfolio for FY2025, FY2026, FY2027, FY2028, and FY2029 and beyond. The chart compares two metrics: By GFA (dark green) and By Rental Income (yellow).](7a3561af571faf036baa93f5f4b1bdb9_img.jpg)
+
+| Fiscal Year | By GFA (%) | By Rental Income (%) |
+|-|-|-|
+| FY2025 | 6.9% | 6.7% |
+| FY2026 | 0.0% | 0.0% |
+| FY2027 | 9.9% | 9.4% |
+| FY2028 | 0.0% | 0.0% |
+| FY2029 and beyond | 83.2% | 83.9% |
+
+Bar chart showing Healthy Lease Expiry Profile, % of Portfolio for FY2025, FY2026, FY2027, FY2028, and FY2029 and beyond. The chart compares two metrics: By GFA (dark green) and By Rental Income (yellow).
+
+### Rental Income <sup>(1)</sup> by Tenant Mix and Trade Sector Mix (%)
+
+| Tenants | % of Rental Income |  |
+|-|-|-|
+|  | FY2024 | FY2023 |
+| 1) PT Siloam International Hospitals Tbk and subsidiaries <sup>(2)</sup> ("Siloam") | <b>41.1%</b> | 38.7% |
+| 2) PT Lippo Karawaci Tbk and subsidiaries <sup>(3)</sup> | <b>33.5%</b> | 34.9% |
+| 3) Hikari Heights Varus Co., Ltd. | <b>9.4%</b> | 10.3% |
+| 4) PT Metropolis Propertindo Utama and subsidiaries <sup>(4)</sup> | <b>6.0%</b> | 5.8% |
+| 5) BEC Co., Ltd. <sup>(5)</sup> | <b>2.1%</b> | 2.3% |
+| 6) The Lentor Residence Pte. Ltd. | <b>2.0%</b> | 2.0% |
+| 7) Orchard Care Co., Ltd. | <b>1.6%</b> | 1.7% |
+| 8) Precious Homes Pte. Ltd. | <b>1.4%</b> | 1.3% |
+| 9) Precious Homes Bukit Panjang Pte. Ltd. | <b>1.4%</b> | 1.3% |
+| 10) Benesse Style Care Co., Ltd. | <b>0.9%</b> | 1.0% |
+| 11) Social Welfare Research Institute Co., Ltd. | <b>0.6%</b> | 0.6% |
+|  | <b>100%</b> | 100% |
+
+| Tenants | FY2024 | FY2023 |
+|-|-|-|
+| 1) Healthcare | <b>89.2%</b> | 89.6% |
+| 2) Hospitality | <b>5.7%</b> | 5.5% |
+| 3) Retail | <b>5.1%</b> | 4.9% |
+|  | <b>100%</b> | 100% |
+
+(1) Without recognition of FRS 116 rental straight-lining adjustments.
+
+(2) The subsidiaries of PT Siloam International Hospitals Tbk include PT East Jakarta Medika, PT Bina Bahtera Sejati, PT Lintas Buana Jaya, PT Taruna Perkasa Megah, PT Krisolis Jaya Mandiri, PT Rumah Sakit Siloam Hospitals Sumsel and PT Berlian Cahaya Indah.
+
+(3) The subsidiaries of PT Lippo Karawaci Tbk include PT Andromeda Sakti.
+
+(4) The subsidiaries of PT Metropolis Propertindo Utama include PT Bumi Sarana Sejahtera.
+
+(5) Formerly known as Safety Life Co., Ltd.
+
+<!-- PAGE 6 -->
+
+## Financial Highlights
+
+### Rental and Other Income (S\$'million)
+
+CAGR Since FY2022 <sup>(1)</sup>: -4.2%
+
+![Bar chart showing Rental and Other Income from FY2020 to FY2024. The values are: FY2020: 79.6, FY2021: 102.3, FY2022: 111.3, FY2023: 108.6, FY2024: 102.2.](46f43cb4ffd47565e7c0ca306d461435_img.jpg)
+
+| Fiscal Year | Rental and Other Income (S\$'million) |
+|-|-|
+| FY2020 | 79.6 |
+| FY2021 | 102.3 |
+| FY2022 | 111.3 |
+| FY2023 | 108.6 |
+| FY2024 | 102.2 |
+
+Bar chart showing Rental and Other Income from FY2020 to FY2024. The values are: FY2020: 79.6, FY2021: 102.3, FY2022: 111.3, FY2023: 108.6, FY2024: 102.2.
+
+### Rental and Other Income Geographical Mix
+
+![Donut chart showing the Geographical Mix of Rental and Other Income for FY2024. The mix is: Indonesia 82.8% or S$84.6 million, Japan 13.1% or S$13.4 million, and Singapore 4.1% or S$4.2 million.](0ad3f61f997eb05afb341fc46024bf2b_img.jpg)
+
+| Geography | Percentage | Amount (S\$'million) | FY2023 Comparison |
+|-|-|-|-|
+| Indonesia | 82.8% | S\$84.6 million | (FY2023: 82.4% or S\$89.5 million) |
+| Japan | 13.1% | S\$13.4 million | (FY2023: 13.7% or S\$14.9 million) |
+| Singapore | 4.1% | S\$4.2 million | (FY2023: 3.9% or S\$4.2 million) |
+
+Donut chart showing the Geographical Mix of Rental and Other Income for FY2024. The mix is: Indonesia 82.8% or S\$84.6 million, Japan 13.1% or S\$13.4 million, and Singapore 4.1% or S\$4.2 million.
+
+### Distributions Per Unit
+
+| (S\$' million) | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|-|-|-|-|-|-|
+| Net Property and Other Income | 77.5 | 100.2 | 108.6 | 105.3 | <b>98.5</b> |
+| Distributable Amount | 33.4 | 42.1 | 52.4 | 51.4 | <b>49.3</b> |
+| Distribution per Unit (Singapore cents) | 4.15 | 2.61 | 2.64 | 2.48 | <b>2.36</b> |
+
+### Earnings Per Unit
+
+|  | FY2020 <sup>(2)</sup> | FY2021 | FY2022 | FY2023 | FY2024 |
+|-|-|-|-|-|-|
+| Earnings Per Unit (Singapore cents) | (41.78)¢ | 4.00¢ | 1.56¢ | 2.98¢ | <b>1.68¢</b> |
+| Number of Units in issue ('000) | 807,206 | 1,613,029 | 2,058,581 | 2,076,925 | <b>2,094,447</b> |
+| Weighted Average number of Units ('000) | 851,724 | 1,499,382 | 1,981,551 | 2,067,938 | <b>2,086,175</b> |
+
+(1) Restructured master lease agreements in Indonesia took effect since 1 January 2021
+
+(2) With the completion of the issuance of rights units on 24 February 2021, prior year comparatives for earnings per unit were restated through retrospective application of a bonus factor to the average weighted number of units. The bonus factor is derived from the division of fair value per unit immediately before the exercise of rights by the theoretical ex-rights fair value.
+
+<!-- PAGE 7 -->
+
+### Assets-Under-Management (S\$'million)
+
+CAGR Since FY2022 <sup>(1)</sup>: -1.2%
+
+![Bar chart showing Assets-Under-Management from FY2020 to FY2024. The values are: FY2020: 939.7, FY2021: 962.4, FY2022: 1,145.3, FY2023: 1,139.5, FY2024: 1,118.0.](c0843c6d138705289960d9f53a6e72a1_img.jpg)
+
+| Fiscal Year | Assets-Under-Management (S\$'million) |
+|-|-|
+| FY2020 | 939.7 |
+| FY2021 | 962.4 |
+| FY2022 | 1,145.3 |
+| FY2023 | 1,139.5 |
+| FY2024 | 1,118.0 |
+
+Bar chart showing Assets-Under-Management from FY2020 to FY2024. The values are: FY2020: 939.7, FY2021: 962.4, FY2022: 1,145.3, FY2023: 1,139.5, FY2024: 1,118.0.
+
+### Assets-Under-Management Breakdown by Geography
+
+![Donut chart showing the breakdown of Assets-Under-Management by geography for FY2024. The breakdown is: Indonesia 75.1% or S$839.9 million, Japan 22.2% or S$247.7 million, and Singapore 2.7% or S$30.4 million.](c64e9e9f3b0b828a5f6ac70441877764_img.jpg)
+
+| Geography | Percentage | Value (S\$'million) | FY2023 Percentage | FY2023 Value (S\$'million) |
+|-|-|-|-|-|
+| Indonesia | 75.1% | S\$839.9 million | 74.5% | S\$849.1 million |
+| Japan | 22.2% | S\$247.7 million | 22.7% | S\$258.7 million |
+| Singapore | 2.7% | S\$30.4 million | 2.8% | S\$31.7 million |
+
+Donut chart showing the breakdown of Assets-Under-Management by geography for FY2024. The breakdown is: Indonesia 75.1% or S\$839.9 million, Japan 22.2% or S\$247.7 million, and Singapore 2.7% or S\$30.4 million.
+
+### Balance Sheet
+
+| In S\$'000 | As at 31 December 2024 | As at 31 December 2023 |
+|-|-|-|
+| Total Assets | 1,160,501 | 1,187,331 |
+| Total Liabilities | 528,229 | 527,165 |
+| Total Borrowings <sup>(2)</sup> | 459,601 | 458,925 |
+| Unitholders' Funds | 598,990 | 626,884 |
+| Net Assets Value Attributable to Unitholders Per Unit (Singapore cents) | 28.60¢ | 30.18¢ |
+
+### Financial Ratios
+
+|  | As at 31 December 2024 | As at 31 December 2023 |
+|-|-|-|
+| Interest Coverage | 3.6 times | 3.9 times |
+| Aggregate Leverage | 39.6% <sup>(3)</sup> | 38.7% <sup>(3)</sup> |
+| % Debt, Fixed Rates or Hedged | 56.9% | 87.2% |
+| % Debt, Social Finance Instruments | 77.3% | 76.1% |
+| Derivative Financial Instruments as Percentage of Net Assets Attributable to Unitholders (%) <sup>(4)</sup> | 0.01% | 0.04% |
+
+(1) Restructured master lease agreements in Indonesia took effect since 1 January 2021
+
+(2) Before transaction costs
+
+(3) The Manager is of the view that the higher aggregate leverage as at 31 December 2024 will not have a material impact on the risk profile of First REIT as it is still within a manageable range below the MAS regulated aggregate leverage limit of 50%. The MAS had imposed for S-REITs to have a new minimum interest coverage ratio ("ICR") of 1.5 times and a single aggregate leverage limit of 50%, effective from 28 November 2024.
+
+(4) Derivative financial instruments refer to the interest rate swaps and forward exchange contracts. (2023: interest rate swaps, interest rate caps and forward exchange contracts.) Please see note 9 on page 164 for more information.
+
+<!-- PAGE 8 -->
+
+## Significant Events
+
+![Timeline of Significant Events from January to June.](2ee59e629035d641140e55f4d215b0d7_img.jpg)
+
+A horizontal timeline with six months (JAN to JUN) represented by colored blocks. Vertical lines extend from these blocks to event details. The timeline is decorated with a bamboo stalk illustration on the left and a horizontal bar with a leaf on the right.
+
+| Month | Event | Date |
+|-|-|-|
+| JAN |  |  |
+| FEB | FY2023 results announcement: Declared 4Q2023 DPU of 0.62 Singapore cent | 20 <sup>th</sup> |
+| MAR | Corporate Social Responsibility event: Organised Chinese New Year celebration for the elderly at Precious Homes @ Bukit Panjang | 23 <sup>rd</sup> |
+| APR | Analysts' site visit to Jakarta, Indonesia | 18 <sup>th</sup> to 19 <sup>th</sup> |
+| MAY | Presentation to Lim & Tan Securities | 2 <sup>nd</sup> |
+| MAY | Convened 15 <sup>th</sup> Annual General Meeting at Hilton Singapore Orchard | 22 <sup>nd</sup> |
+| MAY | 1Q2024 business update announcement: Declared DPU of 0.60 Singapore cent | 24 <sup>th</sup> |
+| JUN | World Ageing Festival 2024 Panel Discussion | 9 <sup>th</sup> |
+| JUN | Participated in INVEST Fair 2024 in Kuala Lumpur, Malaysia | 22 <sup>nd</sup> to 23 <sup>rd</sup> |
+
+Timeline of Significant Events from January to June.
+
+<!-- PAGE 9 -->
+
+![A timeline diagram showing key events from July to December. The timeline is represented by a series of colored blocks (JUL, AUG, SEP, OCT, NOV, DEC) with vertical lines extending to event details. The events are: JUL 26th (1H2024 business update announcement), AUG 20th (Presentation to Phillip Securities), SEP 9th (Corporate Social Responsibility event at The Lantor Residence) and 11th (Corporate Social Responsibility event at Precious Homes @ Bukit Merah), OCT 30th (9M2024 business update announcement), NOV 5th (SIAS-SGX Corporate Connect presentation) and 6th (The Edge Singapore Centurion Club Awards 2024), and DEC 19th to 20th (Non-deal roadshow in Tokyo, Japan) and 27th (Renewed master lease for Imperial Aryaduta Hotel & Country Club).](ebff22fb5dd6f50a90e44dca0f82f285_img.jpg)
+
+**26<sup>th</sup>**  
+1H2024  
+business update  
+announcement:  
+Declared DPU of  
+0.60 Singapore  
+cent, presentation  
+via SGX and  
+REITAS webinar
+
+**20<sup>th</sup>**  
+Presentation to  
+Phillip Securities
+
+**9<sup>th</sup>**  
+Corporate Social  
+Responsibility  
+event: Organised  
+lantern decorating  
+workshop for the  
+elderly at The  
+Lantor Residence
+
+**11<sup>th</sup>**  
+Corporate Social  
+Responsibility  
+event: Organised  
+lantern decorating  
+workshop for the  
+elderly at Precious  
+Homes @ Bukit  
+Merah
+
+**30<sup>th</sup>**  
+9M2024  
+business update  
+announcement:  
+Declared DPU of  
+0.58 Singapore  
+cent
+
+**5<sup>th</sup>**  
+SIAS-SGX  
+Corporate  
+Connect  
+presentation
+
+**6<sup>th</sup>**  
+The Edge  
+Singapore  
+Centurion Club  
+Awards 2024
+
+**19<sup>th</sup> to 20<sup>th</sup>**  
+Non-deal  
+roadshow in  
+Tokyo, Japan
+
+**27<sup>th</sup>**  
+Renewed master  
+lease for Imperial  
+Aryaduta Hotel &  
+Country Club for  
+one year
+
+**JUL**
+
+**AUG**
+
+**SEP**
+
+**OCT**
+
+**NOV**
+
+**DEC**
+
+A timeline diagram showing key events from July to December. The timeline is represented by a series of colored blocks (JUL, AUG, SEP, OCT, NOV, DEC) with vertical lines extending to event details. The events are: JUL 26th (1H2024 business update announcement), AUG 20th (Presentation to Phillip Securities), SEP 9th (Corporate Social Responsibility event at The Lantor Residence) and 11th (Corporate Social Responsibility event at Precious Homes @ Bukit Merah), OCT 30th (9M2024 business update announcement), NOV 5th (SIAS-SGX Corporate Connect presentation) and 6th (The Edge Singapore Centurion Club Awards 2024), and DEC 19th to 20th (Non-deal roadshow in Tokyo, Japan) and 27th (Renewed master lease for Imperial Aryaduta Hotel & Country Club).
+
+<!-- PAGE 10 -->
+
+# Letter to Unitholders
+
+![Decorative horizontal line with a stylized arrow pointing right.](625e10f48104ba2b06b2220a9b224712_img.jpg)
+
+A decorative horizontal line composed of several rectangular segments in a light yellow color. At the right end of the line, there is a stylized arrow pointing to the right, also in yellow.
+
+Decorative horizontal line with a stylized arrow pointing right.
+
+![Two men in suits standing in a modern office hallway.](349ca0a6a9c2e2651a4deeeaf8be6da1_img.jpg)
+
+A full-length photograph of two men standing in a modern office hallway. The man on the left is bald, wearing glasses, a dark suit, a light blue shirt, and a purple tie. He has his hands clasped in front of him. The man on the right has short dark hair, wears glasses, a dark suit, a light blue shirt, and a grey tie. He has his left hand in his pocket. The hallway has large glass windows on the right side, reflecting the interior and exterior. The floor is polished and reflects the men.
+
+Two men in suits standing in a modern office hallway.
+
+**MR CHRISTOPHER JAMES WILLIAMS**
+
+Chairman and Non-Independent  
+Non-Executive Director
+
+**MR TAN KOK MIAN VICTOR**
+
+Chief Executive Officer and  
+Executive Director
+
+<!-- PAGE 11 -->
+
+### Decorative horizontal bar with green and blue segments and a stylized bird icon. “ **First REIT remained focused on delivering sustainable distributions and maintaining the stability of our high-quality healthcare portfolio.** ”
+
+## DEAR UNITHOLDERS
+
+As we reflect on the performance of First REIT in FY2024, we acknowledge the challenges posed by ongoing macroeconomic volatilities and the resulting opportunities which shaped our journey during the year. Amidst continued market uncertainties and evolving industry dynamics, First REIT remained focused on delivering sustainable distributions and maintaining the stability of our high-quality healthcare portfolio.
+
+First REIT's healthcare and healthcare-related portfolio continued to demonstrate healthy underlying performance and operational strengths in FY2024. Sustainable lease structures, effective capital management and 100% committed occupancy rates were the Trust's core drivers during this year of market volatility.
+
+First REIT's ability to generate stable income from our geographically diversified portfolio was testament to our sustainable and strong leasing performance. In FY2024, First REIT continued to capitalise on underlying organic growth from its portfolio of 32 strategically located healthcare and healthcare-related assets. For First REIT's Indonesian assets, 10 hospitals registered a built-in increment of rental income of 4.5% in local currency terms while Siloam Hospitals Kebon Jeruk, Siloam Hospitals Purwakarta and Siloam Sriwijaya achieved a performance-based rent that is 8.0% of each hospital's gross operating revenue in local currency terms in the preceding financial year. In Singapore, First REIT's 3 nursing homes registered a rental growth of 2.0% in Singapore Dollar terms while rental income from the 14 nursing homes located in Japan remained stable in local currency terms.
+
+As at 31 December 2024, our properties enjoy 100% committed occupancy with a weighted-average lease expiry of 10.6 years, more than four-fifths of our portfolio have a lease expiry of over 5 years. Appraised valuation of our portfolio remained resilient at S\$1.12 billion as at year end. Although the valuations of the properties in Indonesia and Japan increased by 1.5% and 0.1% respectively in local
+
+currency terms, these gains were offset by the depreciation of the Japanese Yen and Indonesian Rupiah against the Singapore Dollar. As a result, the total portfolio value declined by 1.9% from FY2023.
+
+Rental and Other Income for Indonesia and Singapore properties increased by 4.7% and 2.0% respectively in local currency terms while Rental and Other Income for our Japan properties remained stable. Despite our best efforts, the depreciation of the Japanese Yen and Indonesian Rupiah against the Singapore Dollar had directly impacted First REIT's financial results in FY2024. Rental and Other Income declined 5.9% year-on-year to S\$102.2 million in FY2024 and Net Property and Other Income fell 6.5% year-on-year to S\$98.5 million over the same period. Consequently, Distributable Amount declined by 4.1% year-on-year to S\$49.3 million in FY2024 and full year Distribution Per Unit of 2.36 Singapore cents in FY2024 was 4.8% lower than FY2023.
+
+With 29 properties out of the Trust's 32 properties located outside of Singapore, managing foreign currency volatility was crucial for us. First REIT's borrowings comprise onshore and offshore loans denominated in Singapore Dollar and the Japanese Yen. To mitigate currency risk, the Trust has entered into non-deliverable forward contracts and call spreads during the year to hedge net cashflow from Indonesia and Japan.
+
+Anchored by our proactive capital management approach and strategy, we ensured a resilient capital structure with strong liquidity. First REIT's overall financial position remained healthy in FY2024, with a gearing ratio of 39.6% and interest coverage ratio, including distribution to perpetual securities holder, of 3.6 times as at 31 December 2024. Due to expiry of our hedges in the last quarter of FY2024, the proportion of debt on fixed or hedged rates stands at 56.9% as compared to 87.2% in prior year. This provides greater balance sheet flexibility depending on the evolving interest rate cycle and expectations. In addition, due to an early refinancing of a Japanese Yen denominated Tokutei Mokuteki Kaisha bond in FY2023, there are no refinancing requirements until May 2026.
+
+<!-- PAGE 12 -->
+
+# Letter to Unitholders
+
+![Decorative yellow bar with a stylized arrow pointing right.](ec0158057f8ccaf74edba16682ec5444_img.jpg)
+
+Decorative yellow bar with a stylized arrow pointing right.
+
+## SUSTAINABILITY CONSIDERATIONS
+
+As part of First REIT's commitment to drive positive long-term impact for the environment and our stakeholders, the Board consistently integrates sustainability considerations into our strategic roadmap and business decisions. As owners of social real estate assets, First REIT is also uniquely positioned to lead sustainable initiatives that generate economic value, while maintaining a strong commitment to cultivating a culture of continuous improvement, accountability, and data-driven decision-making. In FY2024, the Manager committed to over S\$1.3 million in capital expenditure to enhance energy efficiency across 8 hospitals in Indonesia and 6 nursing homes in Japan. The implementation of these technologies is expected to not only improve energy performance but also contribute to the health, safety, and welfare of the occupants at these properties.
+
+## OUTLOOK
+
+Based on the International Monetary Fund's World Economic Outlook Update<sup>(1)</sup>, the global economy is expected to hold steady despite economic divergence in major economies. Global growth is projected at 3.3% in 2025 and 2026, poised to represent one of the weaker medium-term outlooks in decades. Accordingly, the risk of renewed inflationary pressures may prompt central banks to raise policy rates and intensify monetary policy divergence. The prospect of a higher-for-longer rate environment also carries the risk of intensifying fiscal, financial, and external vulnerabilities. In light of these potential challenges, First REIT recognises the critical importance of diligent interest rate and foreign currency management. We will continue to prioritise these areas as we navigate the complexities of the global economic landscape.
+
+## STRATEGIC REVIEW
+
+We had earlier on 13 January 2025 announced the receipt of a preliminary non-binding letter of intent ("LOI") from PT Siloam International Hospitals Tbk to acquire First REIT's portfolio of hospital assets in Indonesia. The Board has decided to undertake a Strategic Review to assess the LOI and explore all strategic options for First REIT.
+
+Through the Strategic Review, the Board is committed to undertaking a rigorous process to consider all options relating to the business of First REIT, which may include but are not limited to, exploration of joint ventures, strategic partnerships, asset acquisitions and/or asset divestments, with a view to delivering sustainable long-term value for our Unitholders.
+
+## APPRECIATION
+
+We would like to take this opportunity to express our sincere appreciation to our fellow Board members and our sponsor group, for their counsel and guidance across the years. To our business partners, bankers, and tenants, we extend our heartfelt gratitude for our successful partnerships. To our management and staff, we acknowledge your dedication and commitment in driving our objectives forward. To our valued Unitholders, we are grateful for your continued support and confidence in First REIT as we strive to deliver sustainable long-term value. Together, we will continue to chart a course of sustainable growth for the benefit of all Unitholders.
+
+### Mr Christopher James Williams
+
+Chairman and Non-Independent Non-Executive Director
+
+### Mr Tan Kok Mian Victor
+
+Chief Executive Officer and Executive Director
+
+First REIT Management Limited
+
+As Manager of First REIT
+
+(1) Source: World Economic Outlook Update, January 2025
+
+<!-- PAGE 13 -->
+
+# Board of Directors
+
+![Portrait of Mr. Christopher James Williams, Chairman and Non-Independent Non-Executive Director.](5f8af0cfcf796986f40e70571bb950f5_img.jpg)
+
+A portrait of Mr. Christopher James Williams, an older man with glasses, wearing a dark suit, white shirt, and purple tie. He is smiling slightly and looking towards the camera.
+
+Portrait of Mr. Christopher James Williams, Chairman and Non-Independent Non-Executive Director.
+
+*From left to right:*
+
+**Mr Christopher James Williams**  
+Chairman and Non-Independent  
+Non-Executive Director
+
+**Mr Tan Kok Mian Victor**  
+Chief Executive Officer and  
+Executive Director
+
+**Mr Chan Pengee Adrian**  
+Lead Independent Director
+
+**Mr Ferris Charles Bye**  
+Independent Director
+
+**Mr Tan Chuan Lye**  
+Independent Director
+
+**Mr Martin Lechner**  
+Independent Director
+
+**Ms Minny Riady**  
+Non-Independent Non-Executive  
+Director
+
+![Portrait of Mr. Tan Kok Mian Victor, Chief Executive Officer and Executive Director.](832a3f95cc4469630aca33d36af8602c_img.jpg)
+
+A portrait of Mr. Tan Kok Mian Victor, a man with glasses, wearing a dark suit, white shirt, and grey tie. He is smiling and looking towards the camera.
+
+Portrait of Mr. Tan Kok Mian Victor, Chief Executive Officer and Executive Director.
+
+![Portrait of Mr. Chan Pengee Adrian, Lead Independent Director.](643a03f80557fbb424bbda84a71d67e8_img.jpg)
+
+A portrait of Mr. Chan Pengee Adrian, a man with short dark hair, wearing a dark suit, white shirt, and pink tie. He is smiling and looking towards the camera.
+
+Portrait of Mr. Chan Pengee Adrian, Lead Independent Director.
+
+![Portrait of Mr. Martin Lechner, Independent Director.](08e28a86c71221f509c8f3a828e89af2_img.jpg)
+
+A portrait of Mr. Martin Lechner, a man with grey hair, wearing a dark suit, white shirt, and red tie. He is smiling and looking towards the camera.
+
+Portrait of Mr. Martin Lechner, Independent Director.
+
+![Portrait of Mr. Ferris Charles Bye, Independent Director.](7252177c6edb66ce69242cc4a8a9d157_img.jpg)
+
+A portrait of Mr. Ferris Charles Bye, a man with glasses, wearing a dark suit, white shirt, and orange tie. He is smiling and looking towards the camera.
+
+Portrait of Mr. Ferris Charles Bye, Independent Director.
+
+![Portrait of Mr. Tan Chuan Lye, Independent Director.](148e42a70f7b9fcc3db671c0a2a021a1_img.jpg)
+
+A portrait of Mr. Tan Chuan Lye, a man with short dark hair, wearing a dark suit, white shirt, and blue tie. He is smiling and looking towards the camera.
+
+Portrait of Mr. Tan Chuan Lye, Independent Director.
+
+![Portrait of Ms. Minny Riady, Non-Independent Non-Executive Director.](b6eb6de2eec0bcedfced4208ba3862f2_img.jpg)
+
+A portrait of Ms. Minny Riady, a woman with short dark hair, wearing a dark blazer. She is smiling and looking towards the camera.
+
+Portrait of Ms. Minny Riady, Non-Independent Non-Executive Director.
+
+<!-- PAGE 14 -->
+
+## Board of Directors
+
+### MR CHRISTOPHER JAMES WILLIAMS, 66
+
+Chairman and Non-Independent Non-Executive Director
+
+#### Date of first appointment as a Director:
+
+26 October 2018
+
+#### Length of service as a Director (as at 31 December 2024):
+
+6 years 2 months
+
+#### Board Committee(s) served on:
+
+Nil
+
+#### Academic & Professional Qualification(s):
+
+- Bachelor of Arts (Honours) in International Relations and Economics, the University of Reading, United Kingdom
+- Solicitor, England and Wales
+- Solicitor, Hong Kong
+
+#### Present Directorships (as at 1 January 2025):
+
+*Listed companies*
+
+Nil
+
+*Other principal directorships*
+
+Nil
+
+#### Major Appointments (other than directorships):
+
+- Founding Partner, Howse Williams
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+- OUE REIT Management Pte. Ltd. (the manager of OUE Real Estate Investment Trust)
+- OUE Hospitality Trust Management Pte. Ltd. (in liquidation pursuant to a member's voluntary winding up since 23 June 2023)
+- OUE Hospitality REIT Management Pte. Ltd. (dissolved through a member's voluntary winding up)
+- OUE Limited
+- OUB Centre Limited
+
+#### Others:
+
+Nil
+
+### MR TAN KOK MIAN VICTOR, 58
+
+Chief Executive Officer and Executive Director
+
+#### Date of first appointment as a Director:
+
+19 May 2017
+
+#### Length of service as a Director (as at 31 December 2024):
+
+7 years 7 months
+
+#### Board Committee(s) served on:
+
+Nil
+
+#### Academic & Professional Qualification(s):
+
+- Chartered Accountant, The Institute of Singapore Chartered Accountants
+- Fellow Member, The Association of Chartered Certified Accountants
+
+#### Present Directorships (as at 1 January 2025):
+
+*Listed companies*
+
+Nil
+
+*Other principal directorships*
+
+Nil
+
+#### Major Appointments (other than directorships):
+
+Nil
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+Nil
+
+#### Others:
+
+Nil
+
+<!-- PAGE 15 -->
+
+### MR CHAN PENGEE ADRIAN, 61
+
+Lead Independent Director
+
+#### Date of first appointment as a Director:
+
+26 October 2018
+
+#### Length of service as a Director (as at 31 December 2024):
+
+6 years 2 months
+
+#### Board Committee(s) served on:
+
+- Nominating and Remuneration Committee (Chairman)
+- Audit and Risk Committee (Member)
+
+#### Academic & Professional Qualification(s):
+
+- Bachelor of Laws (Honours), National University of Singapore
+- Advocate and Solicitor, Singapore
+
+#### Present Directorships (as at 1 January 2025):
+
+#### Listed companies
+
+- Hong Fok Corporation Limited
+- Food Empire Holdings Limited
+- Keppel Infrastructure Fund Management Pte. Ltd.  
+(the trustee-manager of Keppel Infrastructure Trust)
+- TeleChoice International Limited
+
+#### Other principal directorships
+
+- Shared Services For Charities Limited
+- aLife Ltd.
+
+#### Major Appointments (other than directorships):
+
+- Senior Partner (Head of Corporate), Lee & Lee
+- Vice-Chairman, Singapore Institute of Directors
+- Member, Legal Service Commission
+- Member, Singapore Management University's Enterprise Board
+- Honorary Secretary, Association of Small & Medium Enterprises
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+- Yoma Strategic Holdings Ltd.
+- AEM Holdings Ltd.
+- Capitaland Ascendas REIT Management Limited (f.k.a. Ascendas Funds Management (S) Limited (the manager of Ascendas REIT))
+- Azalea Asset Management Pte. Ltd.
+- Best World International Limited
+
+#### Others:
+
+- Board Member, Accounting and Corporate Regulatory Authority (from 1 April 2014 to 31 March 2021)
+
+### MR FERRIS CHARLES BYE, 71
+
+Independent Director
+
+#### Date of first appointment as a Director:
+
+26 October 2018
+
+#### Length of service as a Director (as at 31 December 2024):
+
+6 years 2 months
+
+#### Board Committee(s) served on:
+
+- Audit and Risk Committee (Chairman)
+
+#### Academic & Professional Qualification(s):
+
+- Chartered Accountant, Institute of Chartered Accountants for England and Wales
+
+#### Present Directorships (as at 1 January 2025):
+
+#### Listed companies
+
+Nil
+
+#### Other principal directorships
+
+Nil
+
+#### Major Appointments (other than directorships):
+
+- Responsible Officer, Redbridge Global Strategies Limited
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+Nil
+
+#### Others:
+
+- Managing Director, Newport Private Equity Asia LLC (from 2000 to 2014)
+- Member, General Committee of Hong Kong Country Club (from 2010 to 2018)
+
+<!-- PAGE 16 -->
+
+## Board of Directors
+
+### MR TAN CHUAN LYE, 68
+
+Independent Director
+
+#### Date of first appointment as a Director:
+
+5 April 2017
+
+#### Length of service as a Director (as at 31 December 2024):
+
+7 years 9 months
+
+#### Board Committee(s) served on:
+
+- Audit and Risk Committee (Member)
+- Nominating and Remuneration Committee (Member)
+
+#### Academic & Professional Qualification(s):
+
+- Master of Business Administration, Henley Management College/University of Brunel London
+- Non-Practising Fellow Member, The Institute of Singapore Chartered Accountants
+- Member, Singapore Institute of Directors
+- Fellow Member, The Association of Chartered Certified Accountants (UK)
+
+#### Present Directorships (as at 1 January 2025):
+
+#### Listed companies
+
+- Heeton Holdings Limited
+- Kingsmen Creative Limited
+
+#### Other principal directorships
+
+- Sompso Insurance Singapore Pte. Ltd.
+- Synapxe Pte. Ltd.
+- Berjaya Sompso Insurance Berhad
+- Science Centre Board
+- Meranti Power Pte. Ltd.
+
+#### Major Appointments (other than directorships):
+
+- Member, Asia Advisory Board, EFG Bank, AG
+- Member of Audit & Risk Committee, MOH Holdings Pte Ltd.
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+- Singapore Repertory Theatre
+- Isetan (Singapore) Limited
+- All Saints Home
+- Member of Audit Committee, A\*Star
+
+#### Others:
+
+- Partner, KPMG Advisory LLP (from April 2008 to September 2015)
+- Adjunct Associate Professor, NUS Business School, National University of Singapore (from January 2016 to June 2024)
+
+### MR MARTIN LECHNER, 56
+
+Independent Director
+
+#### Date of first appointment as a Director:
+
+8 January 2018
+
+#### Length of service as a Director (as at 31 December 2024):
+
+7 years
+
+#### Board Committee(s) served on:
+
+- Audit and Risk Committee (Member)
+
+#### Academic & Professional Qualification(s):
+
+- Master Diploma in Business Administration, University of Passau, Germany
+- Executive Master of Business Administration (Spot Program), INSEAD, France
+
+#### Present Directorships (as at 1 January 2025):
+
+#### Listed companies
+
+Nil
+
+#### Other principal directorships
+
+- Corecam Pte. Ltd.
+- Select Alternative Investments Pte. Ltd.
+- Corecam Holding Pte. Ltd.
+
+#### Major Appointments (other than directorships):
+
+- Founding Partner and Chief Investment Officer, Corecam AG, Corecam Pte. Ltd., Select Alternative Investments Pte. Ltd.
+
+#### Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):
+
+- Hydroinformatics Institute Pte. Ltd.
+
+#### Others:
+
+- Founding Partner and Chairman, Proprietary Partners AG (from 2002 to 2009)
+
+<!-- PAGE 17 -->
+
+### Decorative horizontal bar with green and yellow segments and a small green leaf icon on the right.MS MINNY RIADY, 63
+
+Non-Independent Non-Executive Director
+
+---
+
+#### **Date of first appointment as a Director:**
+
+10 April 2019
+
+#### **Length of service as a Director (as at 31 December 2024):**
+
+5 years 9 months
+
+#### **Board Committee(s) served on:**
+
+- Nominating and Remuneration Committee (Member)
+
+#### **Academic & Professional Qualification(s):**
+
+- Bachelor of Business Administration, Fu Jen Catholic University, Taiwan
+
+#### **Present Directorships (as at 1 January 2025):**
+
+*Listed companies*
+
+Nil
+
+*Other principal directorships*
+
+Nil
+
+#### **Major Appointments (other than directorships):**
+
+- Board Member, Pelita Harapan Foundation for Education
+
+#### **Past Principal Directorships held over the preceding 5 years (from 1 January 2020 to 31 December 2024):**
+
+- Lippo Realty (Shanghai) Limited
+
+#### **Others:**
+
+Nil
+
+<!-- PAGE 18 -->
+
+# Key Management
+
+![Portrait of Ms Ng Chwee Ngor, Valerie](2150ae7f14a2e4ad1866ac0c8ec685ad_img.jpg)
+
+A portrait of Ms Ng Chwee Ngor, Valerie, a woman with dark hair, wearing a black top, against a light yellow background.
+
+Portrait of Ms Ng Chwee Ngor, Valerie
+
+**MS NG CHWEE NGOR, VALERIE**
+
+Chief Financial Officer
+
+Ms Ng Chwee Ngor, Valerie joined the Manager in September 2008 as Senior Finance Manager and was responsible for financial matters associated to First REIT and the Manager. She was the Financial Controller since January 2014 and was subsequently appointed as Chief Financial Officer in February 2018, overseeing the financial reporting, taxation, capital management, treasury and risk management functions.
+
+Prior to joining the Manager, Ms Ng held numerous positions at Parkway Holdings Limited between 2001 and 2008. She first joined them as Assistant Group Accountant and was subsequently promoted to Finance Manager. She assisted the Financial Controller in the preparation of the consolidated accounts for Parkway Group and was responsible for the preparation of the financial accounts and treasury functions of the holding company and subsidiaries.
+
+Prior to joining Parkway Holdings Limited, she assumed the position of Group Accountant at Osprey Maritime Limited between 1996 and 2000. Ms Ng supported the financial controllers for financial reporting of the Group and was responsible for the financial matters of the subsidiaries.
+
+Ms Ng graduated with professional qualifications from the Association of Chartered Certified Accountants ("ACCA"). She is a Chartered Accountant of the Institute of Singapore Chartered Accountants and a fellow member of ACCA.
+
+![Portrait of Mr Chan Seng Leong, Jacky](af841c24c27b4dca9d1e533629f107be_img.jpg)
+
+A portrait of Mr Chan Seng Leong, Jacky, a man with glasses, wearing a dark suit and a blue tie, against a light blue background.
+
+Portrait of Mr Chan Seng Leong, Jacky
+
+**MR CHAN SENG LEONG, JACKY**
+
+Senior Vice President, Asset & Investment Management
+
+Mr Chan Seng Leong, Jacky, oversees the Manager's Asset & Investment Management team. Being a member of the Singapore Institute of Surveyors and Valuers as well as a Licensed Appraiser (Lands & Buildings), Mr Chan possess extensive real estate and property experience in Singapore, Hong Kong, the People's Republic of China, and other cities where First REIT has investments.
+
+Between 1993 and 1998, his work responsibilities involved, among others, property valuations, property sales and marketing, property consulting, real estate research and feasibility studies. In 1998, he joined Chesterton International Property Consultants Pte Ltd as Assistant Manager (Valuations) and was subsequently promoted in rank and file to Executive Director (Valuations & Investment Advisory) where he performed valuations totalling more than S\$1 billion worth of real estate in Singapore and regionally, and had advised in real estate transactions worth more than S\$600 million in total. His scope of responsibilities then included managing and advising real estate transactions, providing real estate market advisory and real estate financial advice, as well as managing key clients' accounts for strategic real estate services.
+
+Prior to joining the Manager, Mr Chan was with Ascendas-MGM Funds Management Ltd since early 2005 as the Investment Manager for Ascendas Real Estate Investment Trust. As Investment Manager, he was involved in spearheading multimillion dollar real estate acquisitions, structuring property investment and development deals (such as sale and leaseback, built-to suit and partial headlease), conducting property due diligence, as well as the planning and implementation of leasing and asset enhancement strategies to improve efficiency.
+
+Mr Chan graduated from the National University of Singapore in 1993 with a Bachelor of Science (Real Estate) (2nd Class Upper Honours) degree and subsequently in 1999 with a Master of Science (Real Estate) degree. In 2002, he obtained a Master in Business Administration degree from the University of Western Australia, Graduate School of Management, Perth, majoring in finance, and was awarded the Director's Letter for scoring full distinctions in the course.
+
+<!-- PAGE 19 -->
+
+## Trust Structure
+
+![Diagram of the First REIT Trust Structure showing the flow of units, distributions, fees, and income between Unitholders, the Trust, the Trustee, the Manager, and various property entities.](7f25db95ce3916c0e09803b861a2f7bc_img.jpg)
+
+The diagram illustrates the trust structure of First REIT, showing the relationships and flows between various entities:
+
+- UNITHOLDERS** (top) are connected to the central **FIRST REIT** box. A dashed blue arrow labeled "Holding of Units" points from Unitholders to the Trust, and a dashed yellow arrow labeled "Distributions" points from the Trust to Unitholders.
+- The central **FIRST REIT** box is labeled "ASIA'S PREMIER HEALTHCARE TRUST".
+- PERPETUAL (ASIA) LIMITED (THE "TRUSTEE")** (left) has a dashed blue arrow labeled "Acts on behalf of Unitholders" pointing to the Trust, and a dashed yellow arrow labeled "Trustee's Fees" pointing from the Trust to the Trustee.
+- FIRST REIT MANAGEMENT LIMITED (THE "MANAGER")** (right) has a dashed blue arrow labeled "Management Services" pointing to the Trust, and a dashed yellow arrow labeled "Management Fees" pointing from the Trust to the Manager.
+- ONSHORE SPCS <sup>(1)</sup>** (bottom left) has a dashed blue arrow labeled "Ownership of ordinary and redeemable preference shares" pointing from the Trust to the SPCS, and a dashed yellow arrow labeled "Dividends and redemption proceeds" pointing from the SPCS to the Trust.
+- SINGAPORE PROPERTIES** (bottom right) has a dashed blue arrow labeled "Ownership of the properties" pointing from the Trust to the Properties, and a dashed yellow arrow labeled "Rental Income" pointing from the Properties to the Trust.
+- OFFSHORE SPCS <sup>(2)</sup>** (bottom center) has a dashed blue arrow labeled "Ownership of ordinary shares, shareholders' loans, perpetual loans and redeemable bonds" pointing from the Trust to the SPCS, and a dashed yellow arrow labeled "Dividends, interests, principal repayments of shareholders' loans, perpetual loans and redemption of bonds" pointing from the SPCS to the Trust.
+- OVERSEAS PROPERTIES** (bottom) has a dashed blue arrow labeled "Ownership of the properties" pointing from the Trust to the Properties, and a dashed yellow arrow labeled "Rental Income" pointing from the Properties to the Trust.
+
+Diagram of the First REIT Trust Structure showing the flow of units, distributions, fees, and income between Unitholders, the Trust, the Trustee, the Manager, and various property entities.
+
+(1) Onshore SPCs refer to Singapore Special Purpose Companies
+
+(2) Offshore SPCs refer to Overseas Special Purpose Companies
+
+<!-- PAGE 20 -->
+
+## Independent Market Review
+
+### Japan
+
+According to the annual report "Ageing Society 2024" released by the Cabinet Office of Japan, out of Japan's total population of 124.3 million (data as of 1 October 2023), 36.2 million senior aged 65 and over account for 29.1% of the total population. Additionally, the ageing of the population is expected to accelerate even further, with the report estimating that by 2070, one in every 2.6 persons will be over 65 years old, and one in every 4.0 persons will be over 75 years old. As of January 2025, the total population of Japan is estimated to be 123.5 million, including 36.2 million people aged 65 and over, representing 29.3% of the total population.
+
+As the population continues to age, the Ministry of Health, Labour and Welfare estimates that the number of healthcare workers required will increase from the 2.1 million recorded in 2019 to 2.8 million by 2040.
+
+#### RECENT DEVELOPMENTS
+
+The implementation of Community-Based Integrated Care Systems is becoming increasingly widespread, as it aims to provide comprehensive support to older adults in their own communities. The government is actively promoting the establishment of these systems, which integrate medical care, nursing care, preventive services, housing, and livelihood support.
+
+Increasingly, nursing homes in Japan are adopting new technologies to improve care quality and efficiency. This includes the use of artificial intelligence and robotics to assist with tasks such as lifting and moving patients, monitoring
+
+health conditions, and even providing companionship, which helps ease the demand for healthcare workers.
+
+There has been a notable shift towards home healthcare services to accommodate the preferences of many older adults who wish to age in place. This trend has led to the growth of businesses offering home healthcare services and products. In response to the demand for more comfortable and familiar living spaces for seniors, some nursing care companies are collaborating with housing developers to create nursing homes that provide a more homelike environment.
+
+#### OUTLOOK
+
+Despite the government's initiatives to improve working conditions in healthcare, the shortage of healthcare workers remains a significant challenge, particularly in rural areas. The current operating environment is also difficult due to rising costs associated with inflation, which may impact the services provided by nursing homes. As a result, there could be an increased reliance on foreign healthcare workers, as well as on artificial intelligence and robotics, to alleviate this shortage.
+
+Healthcare spending is projected to continue increasing as a proportion of the country's Gross Domestic Product, given current demographic trends. This trend could put pressure on the government and lead to policy changes that might have unforeseen consequences for the nursing home industry.
+
+#### Demographic Trends by Age in Japan (1950 to 2070)
+
+![A combined bar and line chart showing demographic trends in Japan from 1950 to 2070. The left Y-axis represents 'Million people' (0 to 140), and the right Y-axis represents 'Ageing Rate' (0% to 45%). The X-axis shows years from 1950 to 2070. The chart is divided into historical data (1950-2020) and a forecast period (2020-2070). The bars represent four age groups: 0-14 years old (yellow), 15-64 years old (dark teal), 65-74 years old (light green), and 75 years old or older (orange). A blue line represents the 'Ageing Rate (65 years old or older)'. Key data points for the ageing rate are highlighted: 14.17% in 2023, 29.1% in 2025, 16.15% in 2030, and 38.7% in 2070. The total population is projected to decline from approximately 124.3 million in 2023 to around 120 million by 2070, while the ageing rate is projected to rise from 29.1% to 38.7%.](39508ce039bf1bbfaa219081c60e1d7e_img.jpg)
+
+| Year | 0-14 years old (Million) | 15-64 years old (Million) | 65-74 years old (Million) | 75 years old or older (Million) | Ageing Rate (65+ years old or older) (%) |
+|-|-|-|-|-|-|
+| 1950 | ~10 | ~65 | ~5 | ~1 | ~5.5 |
+| 1955 | ~10 | ~65 | ~5 | ~1 | ~6.5 |
+| 1960 | ~10 | ~65 | ~5 | ~1 | ~7.5 |
+| 1965 | ~10 | ~65 | ~5 | ~1 | ~8.5 |
+| 1970 | ~10 | ~65 | ~5 | ~1 | ~9.5 |
+| 1975 | ~10 | ~65 | ~5 | ~1 | ~10.5 |
+| 1980 | ~10 | ~65 | ~5 | ~1 | ~11.5 |
+| 1985 | ~10 | ~65 | ~5 | ~1 | ~12.5 |
+| 1990 | ~10 | ~65 | ~5 | ~1 | ~13.5 |
+| 1995 | ~10 | ~65 | ~5 | ~1 | ~14.5 |
+| 2000 | ~10 | ~65 | ~5 | ~1 | ~15.5 |
+| 2005 | ~10 | ~65 | ~5 | ~1 | ~16.5 |
+| 2010 | ~10 | ~65 | ~5 | ~1 | ~17.5 |
+| 2015 | ~10 | ~65 | ~5 | ~1 | ~18.5 |
+| 2020 | ~10 | ~65 | ~5 | ~1 | ~19.5 |
+| 2023 | ~10 | ~65 | ~5 | ~1 | 29.1 |
+| 2025 | ~10 | ~65 | ~5 | ~1 | 29.1 |
+| 2030 | ~10 | ~65 | ~5 | ~1 | 16.15 |
+| 2035 | ~10 | ~65 | ~5 | ~1 | ~17.5 |
+| 2040 | ~10 | ~65 | ~5 | ~1 | ~18.5 |
+| 2045 | ~10 | ~65 | ~5 | ~1 | ~19.5 |
+| 2050 | ~10 | ~65 | ~5 | ~1 | ~20.5 |
+| 2055 | ~10 | ~65 | ~5 | ~1 | ~21.5 |
+| 2060 | ~10 | ~65 | ~5 | ~1 | ~22.5 |
+| 2065 | ~10 | ~65 | ~5 | ~1 | ~23.5 |
+| 2070 | ~10 | ~65 | ~5 | ~1 | 38.7 |
+
+A combined bar and line chart showing demographic trends in Japan from 1950 to 2070. The left Y-axis represents 'Million people' (0 to 140), and the right Y-axis represents 'Ageing Rate' (0% to 45%). The X-axis shows years from 1950 to 2070. The chart is divided into historical data (1950-2020) and a forecast period (2020-2070). The bars represent four age groups: 0-14 years old (yellow), 15-64 years old (dark teal), 65-74 years old (light green), and 75 years old or older (orange). A blue line represents the 'Ageing Rate (65 years old or older)'. Key data points for the ageing rate are highlighted: 14.17% in 2023, 29.1% in 2025, 16.15% in 2030, and 38.7% in 2070. The total population is projected to decline from approximately 124.3 million in 2023 to around 120 million by 2070, while the ageing rate is projected to rise from 29.1% to 38.7%.
+
+Source: CBRE Japan, Cabinet Office "Annual Report on the Ageing Society"
+
+<!-- PAGE 21 -->
+
+#### Singapore
+
+#### Resident Population by Age Distribution
+
+![Stacked bar chart showing Resident Population by Age Distribution in Singapore from 2019 to 2024. The chart displays the proportion of residents (%) for three age groups: 0-14 (yellow), 15-64 (teal), and 65 and over (light green). Total population values are shown above each bar.](2a77eb32ef4c4d8a5c1758a53a908336_img.jpg)
+
+| Year | Total Population (mil) | 0-14 (%) | 15-64 (%) | 65 and over (%) |
+|-|-|-|-|-|
+| 2019 | 4.03 | 14.7% | 70.9% | 14.4% |
+| 2020 | 4.04 | 14.5% | 70.3% | 15.2% |
+| 2021 | 3.99 | 14.5% | 69.5% | 16.0% |
+| 2022 | 4.07 | 14.3% | 69.1% | 16.6% |
+| 2023 | 4.15 | 14.0% | 68.7% | 17.3% |
+| 2024 | 4.18 | 13.8% | 68.2% | 18.0% |
+
+Stacked bar chart showing Resident Population by Age Distribution in Singapore from 2019 to 2024. The chart displays the proportion of residents (%) for three age groups: 0-14 (yellow), 15-64 (teal), and 65 and over (light green). Total population values are shown above each bar.
+
+Source: CBRE Singapore, SingStats
+
+Singapore is one of the fastest-ageing nations in the world. Those aged 65 and above formed 18.0% of Singapore's resident population and 19.9% of the citizen population as at end June 2024, up from 13.7% and 15.2% in 2018 respectively. This is projected to rise to 24.1% for citizen population by 2030 according to National Population and Talent Division.
+
+As Singapore's population ages, there is an increasing need to strengthen the healthcare system to meet increasing demand from an ageing population. This is especially so given that the Old Age Support Ratio in Singapore has decreased steadily from 10.5 in 1990 to 3.5 in 2024 due to rising life expectancy and falling birth rates.
+
+#### RECENT DEVELOPMENTS
+
+Singapore's ageing population is increasing demand for varying senior care needs, particularly assisted living, where one receives assistance with daily activities but seek to maintain their independence. These individuals do not qualify for nursing home care, which typically serves only those who are physically or mentally impaired and have exhausted other options. To address this gap, community or assisted living facilities have emerged in recent years, offering professional support for basic daily activities and fostering social interaction among seniors.
+
+Understanding the challenges faced in the healthcare sector, the government has actively piloted assisted living models like the Community Care Apartment which pairs senior-friendly housing with care services that can serve seniors' care needs. There are also communal spaces on each floor where seniors can mingle with one another and participate in programmes.
+
+In order to strengthen support for frailer seniors who face mobility issues, the enhanced Home Personal Care ("HPC+") service has been rolled out as a pilot at 11 sites since March 2023 to support seniors with their daily
+
+activities. The new HPC+ will include a 24/7 technology-enabled monitoring and response element to detect falls and incidents. Findings from the pilot study have been positive, with HPC+ being able to support the demand for higher intensity and frequency of care among seniors.
+
+There is also an increasing market for health technology observed in the Singapore market. Nursing homes are also adopting delivery robots and smart glasses to streamline operations and improve patient care. The key drivers fuelling the deployment of technology for seniors include Singapore's ageing population, the increasing financial power of seniors, and the rapid rise of new technology in the sector. Although most technologies designed for seniors have to be imported from overseas, which can be expensive, industry observers note that these innovations are saving caregivers' time, and enabling nurses to provide better medical services.
+
+#### OUTLOOK
+
+As Singapore's population ages and the Old Age Support Ratio is projected to decline, demand for healthcare services, particularly for chronic diseases and long-term care, is anticipated to boost growth in the sector, especially for nursing homes. This is reflected in government policies aimed at increasing the number of healthcare facilities, including a targeted ramp-up in the number of nursing home beds and facilities by 2030, driving the increased developments of nursing homes.
+
+The integration of technology into the healthcare sector has also been prevalent, including the use of telemedicine and digital health solutions. Other upcoming technologies may include artificial intelligence and robotics.
+
+In the coming years, Singapore's healthcare sector is poised to experience substantial growth, primarily attributed to consistent and strong government support. Through ongoing strategic initiatives, Singapore is actively establishing itself as an appealing healthcare hub.
+
+<!-- PAGE 22 -->
+
+## Independent Market Review
+
+### Indonesia
+
+#### Indonesia's Population by Age Distribution (2019-2023)
+
+![Horizontal stacked bar chart showing Indonesia's population by age distribution from 2019 to 2023. The chart shows population growth across all age groups, with the most significant increases in the 0-4 and 10-14 age groups.](7f687094e6abe34a9cf491942b296d9a_img.jpg)
+
+| Age Group | 2019 | 2020 | 2021 | 2022 | 2023 |
+|-|-|-|-|-|-|
+| 70 - 74 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 60 - 64 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 50 - 54 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 40 - 44 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 30 - 44 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 30 - 34 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 20 - 24 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 10 - 14 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+| 0 - 4 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 | ~10,000,000 |
+
+Horizontal stacked bar chart showing Indonesia's population by age distribution from 2019 to 2023. The chart shows population growth across all age groups, with the most significant increases in the 0-4 and 10-14 age groups.
+
+Source: National Statistic Bureau, PT LEADS Property Services, CBRE
+
+Indonesia has a large population, estimated at 281.6 million people in 2024, making it one of the most populous countries in the world. The country has registered a positive population growth trend, with a growth rate of 1.1% from 2020 to 2024, which is higher than global trends amid declining fertility rates, particularly in more developed countries.
+
+In terms of age distribution, the productive age group (ages 15 to 64) has shown a stable increase over the years, eventually making up 69% of the total population in 2023. The high proportion of the productive age group may be associated with higher disposable income, which can be spent on expenses such as preventive healthcare and high-quality medical care from private hospitals.
+
+According to the National Statistic Bureau, locally known as BPS, Indonesia is also experiencing an ageing population. The percentage of the elderly population has increased by nearly 4% over the past decade, reaching approximately 12% in 2024. It is projected that by 2045, the elderly population will account for 20.3% of Indonesia's total population. Population ageing is often accompanied by a rising demand for long-term care and health management, as this demographic tends to be more vulnerable to degenerative diseases.
+
+The healthcare sector has emerged as one of the key focus sectors for the Indonesian government, particularly in its efforts to improve accessibility and quality of healthcare services. Over the past decade, the government has consistently committed to allocating more than 5% of the state budget to the health sector.
+
+#### RECENT DEVELOPMENTS
+
+The Indonesian healthcare industry presents a vast commercial opportunity for healthcare players due to the country's large population; however, it remains underdeveloped in most markets primarily due to structural challenges in both the system and infrastructure. For years, a lack of trust has undermined the industry, leading patients to opt for medical treatment in neighbouring countries such as Singapore, Malaysia, or Australia.
+
+To address the structural challenges faced by Indonesia's healthcare sector, the government introduced a new set of hospital regulations under the Omnibus Law in 2021 (GR 47/2021). The new regulation aims to provide the public with better access to health services and improve job provision in the industry by facilitating healthcare business operations. Additionally, the introduction of the Positive Investment List allows for 100% foreign direct investment in hospitals under relaxed regulations, improving the regulatory landscape.
+
+As Indonesia progresses toward its vision of Universal Health Care, BPJS Kesehatan ("BPJS-K") plans to expand the coverage of Jaminan Kesehatan Nasional – Kartu Indonesia Sehat ("JKN-KIS") to reach up to 98% of the population by 2024. JKN-KIS is Indonesia's National Health Insurance programme, with a key focus on improving healthcare accessibility from prevention and screening to consultation, particularly for lower-income residents.
+
+The Indonesian government continues to prioritise free healthcare and health screening programmes, especially for
+
+<!-- PAGE 23 -->
+
+#### Total Government Healthcare Expenditure (2019-2025P)
+
+![Two charts showing government healthcare expenditure and growth rate from 2019 to 2025P.](e9f324c9d7f5305a55cb156855e95b95_img.jpg)
+
+The figure consists of two charts. The top chart is a bar and line graph showing National Health Expenditure (Rp Trillion) and National Expenditure (Rp Trillion) as bars, and the National Health Expenditure Ratio (%) as a line. The bottom chart is a bar and line graph showing National Health Expenditure (Rp Trillion) as bars and the Growth Rate (%) as a line.
+
+| Year | National Health Expenditure (Rp Trillion) | National Expenditure (Rp Trillion) | National Health Expenditure Ratio (%) | Growth Rate (%) |
+|-|-|-|-|-|
+| 2019 | 113.6 | 2,304.3 | 4.9% | 4.2% |
+| 2020 | 172.3 | 2,595.5 | 6.6% | 51.6% |
+| 2021 | 291.4 | 2,750.2 | 10.6% | 69.2% |
+| 2022 | 176.71 | 3,106.4 | 5.7% | -39.4% |
+| 2023 | 78.71 | 3,061.0 | 5.8% | 1.1% |
+| 2024 | 86.4 | 3,325.1 | 5.6% | 4.3% |
+| 2025P | 218.5 | 3,621.3 | 6.0% | 17.2% |
+
+Two charts showing government healthcare expenditure and growth rate from 2019 to 2025P.
+
+beneficiaries of premium assistance. This initiative aims for early disease detection to control morbidity as the country faces an increasing prevalence of non-communicable diseases.
+
+#### OUTLOOK
+
+As the regulatory landscape becomes more accommodating following the Omnibus Law in 2021, contributions from the private sector, along with foreign healthcare investment and assistance, are expected to become more prevalent. This shift will help rebuild trust within the system and gradually mitigate income loss due to medical tourism.
+
+With the right policies, infrastructure, and investments, the healthcare sector has strong potential to meet the needs of a nation with an expanding population, a growing middle class demanding private healthcare, an ageing population, and a low hospital bed-to-population ratio.
+
+<!-- PAGE 24 -->
+
+## Our Network
+
+### Japan
+
+Japan properties are high-quality freehold nursing homes well-placed across Japan, 100% master-leased to independent, well-established and experienced local nursing home operators.
+
+- 1 Hikari Heights Varus Ishiyama
+- 2 Hikari Heights Varus Tsukisamu-Koen
+- 3 Hikari Heights Varus Fujino
+- 4 Hikari Heights Varus Kotoni
+- 5 Hikari Heights Varus Makomanai-Koen
+- 6 Varus Cuore Yamanote
+- 7 Varus Cuore Sapporo-Kita & Annex
+- 8 Elysion Gakuenmae
+- 9 Elysion Mamigaoka & Annex
+- 10 Orchard Amanohashidate
+- 11 Orchard Kaichi North
+- 12 Orchard Kaichi West
+- 13 Loyal Residence Ayase
+- 14 Medical Rehabilitation Home Bon Séjour Komaki
+
+![Map of Japan showing the locations of 14 nursing home properties marked with numbered circles. The map highlights the main islands of Honshu, Shikoku, and Kyushu.](06ccd604e7eac77c7a5a323b6a913f15_img.jpg)
+
+**VALUATION <sup>(1)</sup>**  
+**S\$247.7**  
+million
+
+**GROSS FLOOR AREA <sup>(2)</sup>**  
+**103,234**  
+square metres
+
+**MAXIMUM NO. OF ROOMS <sup>(3)</sup>**  
+**1,655**  
+rooms
+
+Map of Japan showing the locations of 14 nursing home properties marked with numbered circles. The map highlights the main islands of Honshu, Shikoku, and Kyushu.
+
+![Map of Singapore showing the locations of 3 nursing home properties marked with numbered circles. The map highlights the island of Singapore.](b6bd6d8ee5821226bc79251ca5937e07_img.jpg)
+
+Map of Singapore showing the locations of 3 nursing home properties marked with numbered circles. The map highlights the island of Singapore.
+
+### Singapore
+
+Singapore properties are well-run nursing homes staffed by well-qualified, dedicated and experienced healthcare professionals.
+
+- 1 Precious Homes @ Bukit Merah
+- 2 Precious Homes @ Bukit Panjang
+- 3 The Lentor Residence
+
+**VALUATION**  
+**S\$30.4**  
+million
+
+**GROSS FLOOR AREA**  
+**11,161**  
+square metres
+
+**MAXIMUM NO. OF BEDS <sup>(3)</sup>**  
+**704**  
+beds
+
+(1) The variance in the valuation of Japan properties versus the summation of valuation of the Japan properties on pages 24 to 30 is due to rounding.
+
+(2) The variance in this gross floor area for Japan properties versus the summation of gross floor areas for the Japan properties on pages 24 to 30 is due to rounding.
+
+(3) As at 31 December 2024
+
+<!-- PAGE 25 -->
+
+### Indonesia
+
+Indonesia hospitals are strategically located within large catchment areas of potential patients and each hospital has a “Centre of Excellence” or area of specialty.
+
+![Map of Indonesia showing the locations of 15 hospitals marked with numbered circles (1-15).](5500ab73cf84ccc0055eecf28889b4db_img.jpg)
+
+Map of Indonesia showing the locations of 15 hospitals marked with numbered circles (1-15).
+
+**VALUATION <sup>(1)</sup>**  
+**\$839.9**  
+million
+
+**GROSS FLOOR AREA**  
+**335,690**  
+square metres
+
+**MAXIMUM NO. OF BEDS / ROOMS <sup>(1)</sup>**  
+**4,172**  
+beds and rooms
+
+- |  |  |  |
+|-|-|-|
+| <b>1</b> Siloam Hospitals Yogyakarta | <b>7</b> Siloam Hospitals Bali | <b>12</b> Siloam Hospitals Lippo Cikarang |
+| <b>2</b> Siloam Hospitals Baubau & Lippo Plaza Baubau | <b>8</b> Siloam Hospitals TB Simatupang | <b>13</b> Siloam Hospitals Lippo Village |
+| <b>3</b> Siloam Hospitals Labuan Bajo | <b>9</b> Siloam Hospitals Manado & Hotel Aryaduta Manado | <b>14</b> Siloam Hospitals Kebon Jeruk |
+| <b>4</b> Siloam Hospitals Kupang & Lippo Plaza Kupang | <b>10</b> Siloam Hospitals Makassar | <b>15</b> Imperial Aryaduta Hotel & Country Club (“IAHCC”) |
+| <b>5</b> Siloam Sriwijaya | <b>11</b> Mochtar Riady Comprehensive Cancer Centre |  |
+| <b>6</b> Siloam Hospitals Purwakarta |  |  |
+
+The appointed valuers include KJPP Willson dan Rekan in association with Knight Frank (“Knight Frank”), KJPP Rengganis, Hamid & Rekan in strategic alliance with CBRE (“CBRE”), Cushman & Wakefield VHS Pte. Ltd. in conjunction with KJPP Firman, Suryantoro, Sugeng, Suzy, Hartomo & Rekan (“C&W”), Jones Lang LaSalle Property Consultants Pte Ltd. (“JLL”), Cushman & Wakefield K.K. (“C&W KK”), CBRE K.K. (“CBRE KK”), and Colliers International K.K. (“Colliers KK”).
+
+The discounted cash flow methodology was used to derive the valuation for properties in Japan and Indonesia (excluding IAHCC). The direct comparison methodology was used to derive the valuation for IAHCC. A combination of the discounted cash flow and the direct capitalisation methodologies was used to derive the valuation for properties in Singapore.
+
+(1) As at 31 December 2024; The variance in the valuation of Indonesia properties versus the summation of valuation of the Indonesia properties on pages 33 to 40 is due to rounding.
+
+<!-- PAGE 26 -->
+
+## Property Overview
+
+Japan
+
+![Exterior view of Hikari Heights Varus Ishiyama, a multi-story white building with a modern design, surrounded by trees and a clear blue sky.](0ccbf2e1f1d9d0aae8865d824a1fc322_img.jpg)
+
+Exterior view of Hikari Heights Varus Ishiyama, a multi-story white building with a modern design, surrounded by trees and a clear blue sky.
+
+Japan
+
+### HIKARI HEIGHTS VARUS ISHIYAMA
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 4,413 square metres |
+| Purchase Price | JPY 839 million |
+| Land Title | Freehold |
+| Maximum Rooms | 117 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+Gross Floor Area
+
+**8,747**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.6**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 853**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$7.5**  
+million
+
+Japan
+
+### HIKARI HEIGHTS VARUS TSUKISAMU-KOEN
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,249 square metres |
+| Purchase Price | JPY 641 million |
+| Land Title | Freehold |
+| Maximum Rooms | 58 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+![Exterior view of Hikari Heights Varus Tsukisamu-Koen, a multi-story building with a modern design, featuring balconies and a clear blue sky.](303c5bd98c98a5eef78a0ba4106d98e7_img.jpg)
+
+Exterior view of Hikari Heights Varus Tsukisamu-Koen, a multi-story building with a modern design, featuring balconies and a clear blue sky.
+
+Gross Floor Area
+
+**4,362**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.4**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 689**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$6.1**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+<!-- PAGE 27 -->
+
+![Exterior view of Hikari Heights Varus Fujino, a multi-story residential building with a modern design and a covered entrance area.](397d7c5f170e27a78f44fd8a5b0a234b_img.jpg)
+
+Exterior view of Hikari Heights Varus Fujino, a multi-story residential building with a modern design and a covered entrance area.
+
+Japan
+
+### HIKARI HEIGHTS VARUS FUJINO
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 7,230 square metres |
+| Purchase Price | JPY 1,574 million |
+| Land Title | Freehold |
+| Maximum Rooms | 139 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+Gross Floor Area
+
+**9,782**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.9**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,680**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$14.8**  
+million
+
+Japan
+
+### HIKARI HEIGHTS VARUS KOTONI
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 11,033 square metres |
+| Purchase Price | JPY 6,209 million |
+| Land Title | Freehold |
+| Maximum Rooms | 281 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+![Exterior view of Hikari Heights Varus Kotoni, a multi-story residential building with a modern design and a covered entrance area.](6b3fd30e164b29ec51643f436533ec41_img.jpg)
+
+Exterior view of Hikari Heights Varus Kotoni, a multi-story residential building with a modern design and a covered entrance area.
+
+Gross Floor Area
+
+**20,756**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$2.9**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 6,680**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$58.8**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+<!-- PAGE 28 -->
+
+## Property Overview
+
+![Japan flag graphic](b8e33e88baf855d3881d2f32fb17b60a_img.jpg)
+
+Japan flag graphic
+
+![Exterior view of Hikari Heights Varus Makomanai-Koen, a multi-story apartment building with a modern design and a covered entrance.](ac4da3ce8896f1f13e0706723ea0470d_img.jpg)
+
+Exterior view of Hikari Heights Varus Makomanai-Koen, a multi-story apartment building with a modern design and a covered entrance.
+
+![Location pin icon](4aa9c7965776f4f4b8eba638b2c53369_img.jpg)
+
+Location pin icon
+
+Japan
+
+### HIKARI HEIGHTS VARUS MAKOMANAI-KOEN
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 6,653 square metres |
+| Purchase Price | JPY 4,475 million |
+| Land Title | Freehold |
+| Maximum Rooms | 161 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+Gross Floor Area
+
+**13,301**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$2.1**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 4,830**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$42.5**  
+million
+
+![Location pin icon](efeae6ab3ef85c5e9e26d2755374830b_img.jpg)
+
+Location pin icon
+
+Japan
+
+#### VARUS CUORE YAMANOTE
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 1,668 square metres |
+| Purchase Price | JPY 1,007 million |
+| Land Title | Freehold |
+| Maximum Rooms | 59 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+![Exterior view of Varus Cuore Yamanote, a multi-story apartment building with a modern design and a covered entrance.](665bfe98219ca614f66b9e21612d1820_img.jpg)
+
+Exterior view of Varus Cuore Yamanote, a multi-story apartment building with a modern design and a covered entrance.
+
+Gross Floor Area
+
+**2,808**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.5**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,130**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$9.9**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+<!-- PAGE 29 -->
+
+![Exterior view of the Varus Cuore Sapporo-Kita & Annex building, a multi-story structure with a modern facade, surrounded by snow.](6a73c2b5fcbc3ec5ab9cc694467a9da6_img.jpg)
+
+Exterior view of the Varus Cuore Sapporo-Kita & Annex building, a multi-story structure with a modern facade, surrounded by snow.
+
+Japan
+
+#### VARUS CUORE SAPPORO-KITA & ANNEX
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 5,269 square metres |
+| Purchase Price | JPY 2,847 million |
+| Land Title | Freehold |
+| Maximum Rooms | 216 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Hikari Heights Varus Co., Ltd. |
+| Appointed Valuer | Colliers KK |
+
+Gross Floor Area
+
+**7,637**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.3**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 2,990**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$26.3**  
+million
+
+Japan
+
+### ELYSION GAKUENMAE
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 1,898 square metres |
+| Purchase Price | JPY 1,610 million |
+| Land Title | Freehold |
+| Maximum Rooms | 92 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | BEC Co., Ltd. <sup>(3)</sup> |
+| Appointed Valuer | CBRE KK |
+
+![Exterior view of the Elysion Gakuenmae building, a multi-story structure with a modern facade, surrounded by a white fence.](f4e1b865a3826c98329882287ad948da_img.jpg)
+
+Exterior view of the Elysion Gakuenmae building, a multi-story structure with a modern facade, surrounded by a white fence.
+
+Gross Floor Area
+
+**3,790**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.7**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,610**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$14.2**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+(3) Formerly known as Safety Life Co., Ltd.
+
+<!-- PAGE 30 -->
+
+## Property Overview
+
+![Japan flag icon](b99bfa6a26ede115d00d81059ee4ce6b_img.jpg)
+
+Japan flag icon
+
+Japan
+
+![Exterior view of ELYSION MAMIGAOKA & ANNEX building](a11a74eff5bf35900dc491470141e2e9_img.jpg)
+
+Exterior view of ELYSION MAMIGAOKA & ANNEX building
+
+![Japan location pin icon](6d725ca4169920a6fb14e9c251a09102_img.jpg)
+
+Japan location pin icon
+
+Japan
+
+### ELYSION MAMIGAOKA & ANNEX
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 6,997 square metres |
+| Purchase Price | JPY 2,370 million |
+| Land Title | Freehold |
+| Maximum Rooms | 160 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | BEC Co., Ltd. <sup>(3)</sup> |
+| Appointed Valuer | CBRE KK |
+
+Gross Floor Area
+
+**10,259**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.2**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 2,200**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$19.4**  
+million
+
+![Japan location pin icon](2e8db9844a19f26ba509fc3a29941950_img.jpg)
+
+Japan location pin icon
+
+Japan
+
+### ORCHARD AMANOHASHIDATE
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,694 square metres |
+| Purchase Price | JPY 933 million |
+| Land Title | Freehold |
+| Maximum Rooms | 60 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Orchard Care Co., Ltd. |
+| Appointed Valuer | C&W KK |
+
+![Exterior view of ORCHARD AMANOHASHIDATE building](430ad0749adee568eb72e1b0be05d7c1_img.jpg)
+
+Exterior view of ORCHARD AMANOHASHIDATE building
+
+Gross Floor Area
+
+**2,927**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.5**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 888**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$7.8**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+(3) Formerly known as Safety Life Co., Ltd.
+
+<!-- PAGE 31 -->
+
+![Exterior view of Orchard Kaichi North, a multi-story building with a modern facade and large windows.](008b6e24fa6aef654a11223efed035dd_img.jpg)
+
+Exterior view of Orchard Kaichi North, a multi-story building with a modern facade and large windows.
+
+Japan
+
+#### ORCHARD KAICHI NORTH
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,833 square metres |
+| Purchase Price | JPY 1,303 million |
+| Land Title | Freehold |
+| Maximum Rooms | 79 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Orchard Care Co., Ltd. |
+| Appointed Valuer | C&W KK |
+
+Gross Floor Area
+
+**5,058**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.7**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,360**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$12.0**  
+million
+
+Japan
+
+#### ORCHARD KAICHI WEST
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 797 square metres |
+| Purchase Price | JPY 405 million |
+| Land Title | Freehold |
+| Maximum Rooms | 29 |
+| Lease Term | 30 + 5 years |
+| Lease Expiry Date | 24 April 2043 |
+| Tenant | Orchard Care Co., Ltd. |
+| Appointed Valuer | C&W KK |
+
+![Exterior view of Orchard Kaichi West, a multi-story building with a modern facade and large windows, situated in an urban area with mountains in the background.](25e07065fdf3b65e60e7622a22b0ce6d_img.jpg)
+
+Exterior view of Orchard Kaichi West, a multi-story building with a modern facade and large windows, situated in an urban area with mountains in the background.
+
+Gross Floor Area
+
+**1,561**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.3**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 469**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$4.1**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+<!-- PAGE 32 -->
+
+## Property Overview
+
+![Japan icon](a5781e6cd2b5189286866604dfad6f5d_img.jpg)
+
+Japan icon
+
+![Exterior view of Loyal Residence Ayase, a multi-story building with arched windows and balconies.](1d2cfd9625ccddd870b9c4e0dafccc8e_img.jpg)
+
+Exterior view of Loyal Residence Ayase, a multi-story building with arched windows and balconies.
+
+![Japan icon](9f2adaab3270db19291080703424a71c_img.jpg)
+
+Japan icon
+
+#### LOYAL RESIDENCE AYASE
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,803 square metres |
+| Purchase Price | JPY 1,130 million |
+| Land Title | Freehold |
+| Maximum Rooms | 80 |
+| Lease Term | 30 years |
+| Lease Expiry Date | 30 September 2043 |
+| Tenant | Social Welfare Research Institute Co., Ltd. |
+| Appointed Valuer | C&W KK |
+
+Gross Floor Area
+
+**3,387**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.5**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,160**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$10.2**  
+million
+
+![Japan icon](ea8826b441fa2b53e0d2a1ef4dde387e_img.jpg)
+
+Japan icon
+
+#### MEDICAL REHABILITATION HOME BON SÉJOUR KOMAKI
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 8,230 square metres |
+| Purchase Price | JPY 1,450 million |
+| Land Title | Freehold |
+| Maximum Rooms | 124 |
+| Lease Term | 20 + 5 years |
+| Lease Expiry Date | 21 May 2027 |
+| Tenant | Benesse Style Care Co., Ltd. |
+| Appointed Valuer | C&W KK |
+
+![Exterior view of Medical Rehabilitation Home Bon Séjour Komaki, a multi-story building with many windows.](ce997d20e7211bcd13061371b57d9676_img.jpg)
+
+Exterior view of Medical Rehabilitation Home Bon Séjour Komaki, a multi-story building with many windows.
+
+Gross Floor Area
+
+**8,858**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.8**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**JPY 1,610**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$14.2**  
+million
+
+(1) Converted to SGD based on the average exchange rate of SGD 1 = JPY 112
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = JPY 114
+
+<!-- PAGE 33 -->
+
+### Singapore
+
+![Exterior view of Precious Homes @ Bukit Merah, a modern multi-story building with a glass facade and greenery.](40647355b8fe9eeaadd5a58444dfe51d_img.jpg)
+
+Exterior view of Precious Homes @ Bukit Merah, a modern multi-story building with a glass facade and greenery.
+
+Singapore
+
+### PRECIOUS HOMES @ BUKIT MERAH
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 1,984 square metres |
+| Purchase Price | S\$11.8 million |
+| Land Title | 30 years leasehold from 22 Apr 2002 |
+| Remaining Land Title Tenure <sup>(2)</sup> | 7.3 years |
+| Maximum Beds | 248 |
+| Lease Term | 10 years |
+| Lease Expiry Date | 10 April 2027 |
+| Tenant | Precious Homes Pte. Ltd. |
+| Appointed Valuer | JLL |
+
+Gross Floor Area
+
+**3,593**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.3**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$7.5**  
+million
+
+Singapore
+
+### PRECIOUS HOMES @ BUKIT PANJANG
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,000 square metres |
+| Purchase Price | S\$11.5 million |
+| Land Title | 30 years leasehold from 14 May 2003 |
+| Remaining Land Title Tenure <sup>(2)</sup> | 8.4 years |
+| Maximum Beds | 248 |
+| Lease Term | 10 years |
+| Lease Expiry Date | 10 April 2027 |
+| Tenant | Precious Homes Bukit Panjang Pte. Ltd. |
+| Appointed Valuer | JLL |
+
+![Exterior view of Precious Homes @ Bukit Panjang, a modern multi-story building with a glass facade and greenery.](f7dfad3cc77e45d57991405785f5a411_img.jpg)
+
+Exterior view of Precious Homes @ Bukit Panjang, a modern multi-story building with a glass facade and greenery.
+
+Gross Floor Area
+
+**3,563**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.2**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$8.1**  
+million
+
+<sup>(1)</sup> Without FRS 116 Adjustment on rental straight-lining; As at 31 December 2024
+
+<sup>(2)</sup> As at 31 December 2024
+
+<!-- PAGE 34 -->
+
+## Property Overview
+
+Singapore
+
+![Exterior view of The Lentor Residence, a modern multi-story building with a green facade and balconies, surrounded by lush greenery and trees.](eadd8abb2c85161842bcd823881cbe5f_img.jpg)
+
+Exterior view of The Lentor Residence, a modern multi-story building with a green facade and balconies, surrounded by lush greenery and trees.
+
+Singapore
+
+#### THE LENTOR RESIDENCE
+
+| Property Type | Nursing Home |
+|-|-|
+| Land Area | 2,486 square metres |
+| Purchase Price | S\$12.8 million |
+| Land Title | 99 years leasehold from 20 August 1938 |
+| Remaining Land Title Tenure <sup>(2)</sup> | 12.6 years |
+| Maximum Beds | 208 |
+| Lease Term | 10 years with option to renew for 10 years |
+| Lease Expiry Date | 7 June 2027 |
+| Tenant | The Lentor Residence Pte. Ltd. |
+| Appointed Valuer | JLL |
+
+Gross Floor Area  
+**4,005**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>  
+**S\$1.9**  
+million
+
+Appraised Value <sup>(2)</sup>  
+**S\$14.8**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; As at 31 December 2024
+
+(2) As at 31 December 2024
+
+<!-- PAGE 35 -->
+
+![Exterior view of the SILOAM HOSPITALS YOGYAKARTA building, a modern multi-story structure with a glass facade and a prominent entrance.](cff94fda4719415b20d835d30d2bef5a_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS YOGYAKARTA building, a modern multi-story structure with a glass facade and a prominent entrance.
+
+Indonesia
+
+### SILOAM HOSPITALS YOGYAKARTA
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Neuroscience and Cardiology |
+| Land Area | 13,715 square metres |
+| Purchase Price | S\$27.0 million |
+| Land Title | HGB |
+| Maximum Beds | 249 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Taruna Perkasa Megah <sup>(3)</sup> , PT Lippo Karawaci Tbk |
+| Appointed Valuer | Knight Frank |
+
+Gross Floor Area
+
+**12,474**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.7**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 233.8**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$19.6**  
+million
+
+Indonesia
+
+### SILOAM HOSPITALS BAUBAU ("SHBB") & LIPPO PLAZA BAUBAU ("LPB")
+
+| Property Type | Hospital & Retail Mall |
+|-|-|
+| Centre of Excellence | Emergency & Trauma |
+| Land Area | 21,874 square metres |
+| Purchase Price | S\$28.5 million |
+| Land Title | BOT scheme with expiry on 15 June 2044 |
+| Maximum Beds | 140 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | SHBB: 31 December 2035<br>LPB: 9 October 2032 |
+| Tenant | SHBB: PT Bina Bahtera Sejati <sup>(3)</sup> , PT Lippo Karawaci Tbk<br>LPB: PT Andromeda Sakti <sup>(4)</sup> |
+| Appointed Valuer | C&W |
+
+![Exterior view of the SILOAM HOSPITALS BAUBAU (](cf4bd56131ef36be9ba5f430200dd27a_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS BAUBAU (
+
+Gross Floor Area
+
+**21,934**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$2.5**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**SHBB**  
+S\$11.2 million  
+IDR 132.8 billion
+
+**LPB**  
+S\$12.7 million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$23.9**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+(3) A subsidiary of PT Siloam International Hospitals Tbk
+
+(4) A subsidiary of PT Lippo Karawaci Tbk
+
+<!-- PAGE 36 -->
+
+### Property Overview
+
+Indonesia
+
+![Exterior view of the SILOAM HOSPITALS LABUAN BAJO building, a modern multi-story structure with a prominent 'Siloam' sign on the roof.](02f9c911b69504d90bd20e0bc61c4bbb_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS LABUAN BAJO building, a modern multi-story structure with a prominent 'Siloam' sign on the roof.
+
+Indonesia
+
+### SILOAM HOSPITALS LABUAN BAJO
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Emergency Medicine, Internal Medicine and Neuroscience |
+| Land Area | 2,837 square metres |
+| Purchase Price | S\$20.0 million |
+| Land Title | HGB |
+| Maximum Beds | 124 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Lintas Buana Jaya <sup>(3)</sup> , PT Lippo Karawaci Tbk |
+| Appointed Valuer | C&W |
+
+Gross Floor Area
+
+**7,604**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$0.9**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 125.5**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$10.5**  
+million
+
+Indonesia
+
+### SILOAM HOSPITALS KUPANG ("SHKP") & LIPPO PLAZA KUPANG ("LPK")
+
+| Property Type | Hospital & Retail Mall |
+|-|-|
+| Centre of Excellence | Emergency & Trauma, Obstetrics, Gynaecology and Paediatrics |
+| Land Area | 66,060 square metres |
+| Purchase Price | S\$75.0 million |
+| Land Title | BOT scheme with expiry on 21 May 2041 |
+| Remaining Land Tenure <sup>(4)</sup> | 16.4 years |
+| Maximum Beds | 416 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | SHKP: 31 December 2035<br>LPK: 13 December 2030 |
+| Tenant | SHKP: PT Krisolis Jaya Mandiri <sup>(3)</sup> , PT Metropolis Propertindo Utama<br>LPK: PT Bumi Sarana Sejahtera <sup>(5)</sup> |
+| Appointed Valuer | C&W |
+
+![Exterior view of the SILOAM HOSPITALS KUPANG building, a large multi-story structure with a prominent 'Siloam' sign on the roof.](34a50a9fd02a5af67bc0f4b63dbd4fd8_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS KUPANG building, a large multi-story structure with a prominent 'Siloam' sign on the roof.
+
+Gross Floor Area
+
+**55,368**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$5.5**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**SHKP**  
+**S\$18.7 million**  
+**IDR 223.1 billion**
+
+**LPK**  
+**S\$31.1 million**
+
+Appraised Value <sup>(2)</sup>
+
+**S\$49.8**  
+million<sup>(5)</sup>
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+(3) A subsidiary of PT Siloam International Hospitals Tbk
+
+(4) As at 31 December 2024
+
+(5) A subsidiary of PT Metropolis Propertindo Utama
+
+<!-- PAGE 37 -->
+
+![Exterior view of RS Siloam Sriwijaya hospital building, a modern multi-story structure with a glass facade and a blue sign on top.](19fd552435a80d0ffda518b710d16908_img.jpg)
+
+Exterior view of RS Siloam Sriwijaya hospital building, a modern multi-story structure with a glass facade and a blue sign on top.
+
+Indonesia
+
+#### SILOAM SRIWIJAYA
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Emergency & Trauma, Gastroenterology |
+| Purchase Price | S\$39.2 million |
+| Land Title | Strata Title on BOT scheme with expiry on 24 Jan 2041 |
+| Remaining Land Title Tenure <sup>(4)</sup> | 16.1 years |
+| Maximum Beds | 357 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Rumah Sakit Siloam Hospitals Sumsel <sup>(3)</sup> , PT Metropolis Propertindo Utama C&W |
+| Appointed Valuer |  |
+
+Strata Floor Area
+
+**15,336**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$2.9**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 262.1**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$22.0**  
+million
+
+Indonesia
+
+### SILOAM HOSPITALS PURWAKARTA
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Emergency & Trauma |
+| Land Area | 7,990 square metres |
+| Purchase Price | S\$31.0 million |
+| Land Title | HGB |
+| Maximum Beds | 255 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Berlian Cahaya Indah <sup>(3)</sup> , PT Metropolis Propertindo Utama |
+| Appointed Valuer | Knight Frank |
+
+![Exterior view of Siloam Hospitals Purwakarta building, a large white structure with a blue sign and green accents.](94b29382cae475b008a608597ea9b8af_img.jpg)
+
+Exterior view of Siloam Hospitals Purwakarta building, a large white structure with a blue sign and green accents.
+
+Gross Floor Area
+
+**9,595**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.9**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 269.1**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$22.6**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+(3) A subsidiary of PT Siloam International Hospitals Tbk
+
+(4) As at 31 December 2024
+
+<!-- PAGE 38 -->
+
+### Property Overview
+
+![Indonesia flag graphic](6358c7a33847eab5f30f9de43cd97e02_img.jpg)
+
+Indonesia flag graphic
+
+![Exterior view of Siloam Hospitals Bali building](419237decd8294588ca7ca2aa84b0e75_img.jpg)
+
+Exterior view of Siloam Hospitals Bali building
+
+### Image: Indonesia location pin icon Indonesia SILOAM HOSPITALS BALI
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Cardiology, Emergency & Trauma, Orthopaedics |
+| Land Area | 9,025 square metres |
+| Purchase Price | S\$97.3 million |
+| Land Title | HGB |
+| Maximum Beds | 281 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+|  |  |  |  |
+|-|-|-|-|
+| <div>Gross Floor Area</div> <div>20,958</div> <div>square metres</div> | <div>FY2024 Rental Income <sup>(1)</sup></div> <div>S\$5.3</div> <div>million</div> | <div>Appraised Value <sup>(2)</sup></div> <div>IDR 764.8</div> <div>billion</div> | <div>Appraised Value <sup>(2)</sup></div> <div>S\$64.2</div> <div>million</div> |
+|-|-|-|-|
+
+### Image: Indonesia location pin icon Indonesia SILOAM HOSPITALS TB SIMATUPANG
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Cardiology, Emergency & Trauma, Neuroscience, Oncology |
+| Land Area | 2,489 square metres |
+| Purchase Price | S\$93.1 million |
+| Land Title | HGB |
+| Maximum Beds | 269 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+![Exterior view of Siloam Hospitals TB Simatupang building](911a4f4b97be8e1dcf81e58b080dc0e2_img.jpg)
+
+Exterior view of Siloam Hospitals TB Simatupang building
+
+|  |  |  |  |
+|-|-|-|-|
+| <div>Gross Floor Area</div> <div>18,605</div> <div>square metres</div> | <div>FY2024 Rental Income <sup>(1)</sup></div> <div>S\$3.5</div> <div>million</div> | <div>Appraised Value <sup>(2)</sup></div> <div>IDR 509.5</div> <div>billion</div> | <div>Appraised Value <sup>(2)</sup></div> <div>S\$42.8</div> <div>million</div> |
+|-|-|-|-|
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+<!-- PAGE 39 -->
+
+![Exterior view of the SILOAM HOSPITALS MANADO building, a modern multi-story structure with a grid-like facade.](3fec67008a13a4bccaf6914c862b2e42_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS MANADO building, a modern multi-story structure with a grid-like facade.
+
+Indonesia
+
+### SILOAM HOSPITALS MANADO ("SHMD") & HOTEL ARYADUTA MANADO ("HAMD")
+
+| Property Type | Hospital & Hotel |
+|-|-|
+| Centre of Excellence | Emergency & Trauma |
+| Land Area | 5,518 square metres |
+| Purchase Price | S\$83.6 million |
+| Land Title | HGB |
+| Maximum Beds | 238 |
+| Maximum Rooms | 199 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | SHMD: 31 December 2035<br>HAMD: 29 November 2027 |
+| Tenant | SHMD: PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk<br>HAMD: PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+Gross Floor Area
+
+**36,051**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$6.8**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**SHMD**  
+**S\$40.2 million**  
+**IDR 478.2 billion**
+
+**HAMD**  
+**S\$39.2 million**
+
+Appraised Value <sup>(2)</sup>
+
+**S\$79.4**  
+million
+
+Indonesia
+
+#### SILOAM HOSPITALS MAKASSAR
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Cardiology, Emergency & Trauma, Endocrinology |
+| Land Area | 3,963 square metres |
+| Purchase Price | S\$59.3 million |
+| Land Title | HGB |
+| Maximum Beds | 362 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 15 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+![Exterior view of the SILOAM HOSPITALS MAKASSAR building, a modern multi-story structure with a grid-like facade.](39c092f3c45aba0ba8a5132d87757dd7_img.jpg)
+
+Exterior view of the SILOAM HOSPITALS MAKASSAR building, a modern multi-story structure with a grid-like facade.
+
+Gross Floor Area
+
+**15,686**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$5.6**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 792.4**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$66.6**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+<!-- PAGE 40 -->
+
+### Property Overview
+
+![Indonesia flag graphic](936b3e95dfcb46dbc0aafc0d71e13469_img.jpg)
+
+Indonesia flag graphic
+
+![Aerial view of the Mochtar Riady Comprehensive Cancer Centre building in Jakarta, Indonesia.](03763bef815e5798c260c96b45ac059f_img.jpg)
+
+Aerial view of the Mochtar Riady Comprehensive Cancer Centre building in Jakarta, Indonesia.
+
+![Indonesia location pin icon](c8f2f0357b99e801b1b0bb5faecf0787_img.jpg)
+
+Indonesia location pin icon
+
+#### MOCHTAR RIADY COMPREHENSIVE CANCER CENTRE
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Emergency & Trauma, Gastroenterology, Oncology |
+| Land Area | 4,145 square metres |
+| Purchase Price | S\$170.5 million |
+| Land Title | HGB |
+| Maximum Beds | 334 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+Gross Floor Area
+
+**37,933**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$10.6**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 1,521.5**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$127.8**  
+million
+
+![Indonesia location pin icon](7128ba6483e653167605bde401ca4fcc_img.jpg)
+
+Indonesia location pin icon
+
+### SILOAM HOSPITALS LIPPO CIKARANG
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Emergency & Trauma, Internal Medicine, Urology |
+| Land Area | 9,900 square metres |
+| Purchase Price | S\$35.0 million |
+| Land Title | HGB |
+| Maximum Beds | 164 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 30 December 2025 |
+| Tenant | PT East Jakarta Medika <sup>(3)</sup> |
+| Appointed Valuer | CBRE |
+
+![Aerial view of the Siloam Hospitals Lippo Cikarang building in Cikarang, Indonesia.](99ca4838fede3eb0125ef97cb022912e_img.jpg)
+
+Aerial view of the Siloam Hospitals Lippo Cikarang building in Cikarang, Indonesia.
+
+Gross Floor Area
+
+**13,256**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$4.4**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**S\$50.1**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+(3) A subsidiary of PT Siloam International Hospitals Tbk
+
+<!-- PAGE 41 -->
+
+![Exterior view of Siloam Hospitals Lippo Village, a large multi-story building with a green roof and red facade, surrounded by lush greenery.](341079d4915d42960b8d76078f20aa7d_img.jpg)
+
+Exterior view of Siloam Hospitals Lippo Village, a large multi-story building with a green roof and red facade, surrounded by lush greenery.
+
+Indonesia
+
+### SILOAM HOSPITALS LIPPO VILLAGE
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Cardiology, Emergency & Trauma, Neuroscienc, Orthopaedics |
+| Land Area | 17,442 square metres |
+| Purchase Price | S\$94.3 million |
+| Land Title | HGB |
+| Maximum Beds | 308 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 31 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | CBRE |
+
+Gross Floor Area
+
+**32,696**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$13.7**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 1,934.4**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$162.5**  
+million
+
+Indonesia
+
+### SILOAM HOSPITALS KEBON JERUK
+
+| Property Type | Hospital |
+|-|-|
+| Centre of Excellence | Cardiology, Emergency & Trauma, Orthopaedics, Urology |
+| Land Area | 11,420 square metres |
+| Purchase Price | S\$50.6 million |
+| Land Title | HGB |
+| Maximum Beds | 285 |
+| Lease Term | 15 years with option to renew for 15 years |
+| Lease Expiry Date | 15 December 2035 |
+| Tenant | PT Siloam International Hospitals Tbk, PT Lippo Karawaci Tbk |
+| Appointed Valuer | Knight Frank |
+
+![Exterior view of Siloam Hospitals Kebon Jeruk, a modern multi-story building with a white facade and a large sign on the roof, surrounded by greenery and a parking lot.](df54f4e2d9d1bd3021ae90c2a011a99e_img.jpg)
+
+Exterior view of Siloam Hospitals Kebon Jeruk, a modern multi-story building with a white facade and a large sign on the roof, surrounded by greenery and a parking lot.
+
+Gross Floor Area
+
+**20,268**  
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$7.1**  
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 837.4**  
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$70.3**  
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765
+
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+<!-- PAGE 42 -->
+
+### Property Overview
+
+![Indonesia flag graphic](156f69727798ad3823fa3a908c455101_img.jpg)
+
+Indonesia flag graphic
+
+![Exterior view of the Imperial Aryaduta Hotel & Country Club building, a multi-story structure with a prominent entrance canopy.](4ab0be532558484d774d4efef9c94a56_img.jpg)
+
+Exterior view of the Imperial Aryaduta Hotel & Country Club building, a multi-story structure with a prominent entrance canopy.
+
+Indonesia
+
+#### IMPERIAL ARYADUTA HOTEL & COUNTRY CLUB
+
+| Property Type | Hotel & Country Club |
+|-|-|
+| Land Area | 54,410 square metres |
+| Purchase Price | S\$21.2 million |
+| Land Title | HGB |
+| Maximum Rooms | 191 |
+| Lease Term | 1 year |
+| Lease Expiry Date | 31 December 2025 |
+| Tenant | PT Lippo Karawaci Tbk |
+| Appointed Valuer | Knight Frank |
+
+Gross Floor Area
+
+**17,926**
+
+square metres
+
+FY2024 Rental Income <sup>(1)</sup>
+
+**S\$1.8**
+
+million
+
+Appraised Value <sup>(2)</sup>
+
+**IDR 330.0**
+
+billion
+
+Appraised Value <sup>(2)</sup>
+
+**S\$27.7**
+
+million
+
+(1) Without FRS 116 Adjustment on rental straight-lining; Converted to SGD based on the average exchange rate of SGD 1 = IDR 11,765  
+(2) As at 31 December 2024; Converted to SGD based on the end of period exchange rate of SGD 1 = IDR 11,905
+
+<!-- PAGE 43 -->
+
+### UPDATE ON LEASES IN INDONESIA
+
+### LPKR MLA Restructuring
+
+Since 1 January 2021, the restructured master lease agreements ("**MLAs**") for the 11 hospitals that First REIT leased to PT Lippo Karawaci Tbk ("**LPKR**") or LPKR and certain subsidiaries of PT Siloam International Hospitals Tbk ("**Siloam**") (the "**Affected Properties**") have taken effect.
+
+On 11 March 2021, the Manager announced that in respect of Siloam Hospitals Lippo Village, Siloam Hospitals Kebon Jeruk, Siloam Hospitals Surabaya<sup>(1)</sup>, Mochtar Riady Comprehensive Cancer Centre, Siloam Hospitals Makassar, Siloam Hospitals Manado & Hotel Aryaduta Manado, Siloam Hospitals TB Simatupang and Siloam Hospitals Bali, each of the relevant wholly-owned subsidiaries of First REIT, as a master lessor under the relevant MLA, had on 10 March 2021 entered into a supplemental MLA with Lippo Karawaci. On 30 March 2021, the Manager made a similar announcement in respect of Siloam Hospitals Labuan Bajo, Siloam Hospitals Baubau and Siloam Hospitals Yogyakarta.
+
+The lease expiry under each of the restructured MLAs for the 11 Affected Properties is 31 December 2035, subject to an option to renew for a further 15-year renewal term upon the mutual agreement of both the relevant master lessor and the relevant master lessee in respect of the relevant Affected Property. The remaining tenure of each of the restructured MLAs for the Affected Properties as at 1 January 2024 is 12 years, subject to the option to renew.
+
+There were no drawdowns on the bank guarantees in respect of the Affected Properties, and there were no material delays in the receipt of the rental payments by the master lessees of the Affected Properties in FY2024. The financial institutions providing the bank guarantees for the restructured MLAs for the Affected Properties are PT Bank CIMB Niaga Tbk<sup>(2)</sup> and PT Bank Rakyat Indonesia (Persero) Tbk<sup>(3)</sup>.
+
+#### MPU MLA Restructuring
+
+Since 1 January 2021, the restructured master lease agreements ("**MLAs**") for the hospitals that First REIT has leased to PT Metropolis Propertindo Utama ("**PT MPU**") — Siloam Sriwijaya, Siloam Hospitals Purwakarta and Siloam Hospitals Kupang — have taken effect.
+
+The rents under the PT Metropolis Propertindo Utama ("**PT MPU**") master lease agreements are payable quarterly in advance. As at 31 December 2024, the rental outstanding from PT MPU is approximately IDR 54,815,254,000 (equivalent to approximately S\$4,604,000), of which IDR 20,103,195,000 (equivalent to approximately S\$1,688,000) and IDR 34,712,059,000 (equivalent to approximately S\$2,916,000) relate to mall and hospital properties respectively.
+
+The security deposit guaranteed by the joint tenant of IDR 50,532,034,000 (equivalent to approximately S\$4,245,000) can be applied to cover PT MPU's outstanding rental for hospital properties. The loss allowance for the trade receivable net of collateral as at 31 December 2024 and 31 December 2023 are insignificant.
+
+The Manager will continue to engage closely with PT MPU on the repayment of the rental in arrears and the obligation to provide rental deposit in accordance with master lease agreement.
+
+(1) On 27 September 2022, the divestment of Siloam Hospitals Surabaya was completed.
+
+(2) The ratings for PT Bank CIMB Niaga Tbk can be found here: [https://investor.cimbniaga.co.id/credit\\_rating.html](https://investor.cimbniaga.co.id/credit_rating.html)
+
+(3) The ratings for PT Bank Rakyat Indonesia (Persero) Tbk can be found here: <https://www.ir-bri.com/ratings.html>
+
+<!-- PAGE 44 -->
+
+# Investor Relations
+
+The Manager of First REIT is committed to regular, timely and transparent communication with the investment community. The Manager also proactively engages with both institutional and retail investors through multiple platforms and communication channels, to ensure that stakeholders are provided with accurate information about the Trust.
+
+The Manager's investor relations approach is guided by an Investor Relations Policy, which can be accessed on First REIT's corporate website. Guided by the principles of transparency, timeliness and accuracy, the Manager ensures that all latest developments are disclosed to its stakeholders in an accurate and comprehensive manner. All material information, including financial results, business updates, announcements, press releases, presentation slides and other relevant disclosures are issued through SGXNet and are posted in a timely manner on the corporate website.
+
+**Unitholders by Type <sup>(1)</sup>**
+
+![Donut chart showing Unitholders by Type for FY2024. The chart is divided into three segments: Sponsor Group (45.17%, dark blue), Institutional (5.21%, medium blue), and Retail (49.62%, light blue).](ebd9fdefdb8b316d7bc166aa3ed924a3_img.jpg)
+
+| Unitholder Type | Percentage |
+|-|-|
+| Sponsor Group | 45.17% |
+| Institutional | 5.21% |
+| Retail | 49.62% |
+
+Donut chart showing Unitholders by Type for FY2024. The chart is divided into three segments: Sponsor Group (45.17%, dark blue), Institutional (5.21%, medium blue), and Retail (49.62%, light blue).
+
+## ANNUAL GENERAL MEETING
+
+At the Annual General Meetings ("**AGM**") or Extraordinary General Meetings ("**EGM**"), the Board of Directors and management updates unitholders on First REIT's financial performance and operations, and unitholders are also provided with a platform to have their questions addressed. For a calendar of First REIT's investor relations activities in FY2024, please refer to the Annual Report pages 6 to 7.
+
+First REIT's 15<sup>th</sup> AGM was convened and held at Hilton Singapore Orchard on 22 April 2024. Ahead of the AGM, unitholders were invited to submit substantial and relevant questions and the Manager's responses to the substantial and relevant questions were published on both SGXNet and First REIT's corporate website. A live "Q&A" segment during the AGM also provided unitholders an opportunity to speak with the Board of Directors and management. The detailed minutes of the 15<sup>th</sup> AGM and related information were also made available on First REIT's corporate website.
+
+## PROACTIVE ENGAGEMENT
+
+In FY2024, the Manager connected with institutional investors over one-on-one or small group meetings, at conferences and overseas non-deal roadshows. The Manager engaged with retail investors at various investor events and through webinars that are jointly organised with retail brokerages and with organisations such as Securities Investors Association (Singapore) ("**SIAS**") and REIT Association of Singapore ("**REITAS**").
+
+We recognise the importance of independent research and analysis that provides investors with valuable insights of our business performance. During the year, First REIT is covered by analysts from DBS Group Research, Lim & Tan Securities, OCBC Investment Research, Maybank, and Phillip Capital.
+
+Every year, equity research and fixed income analysts are invited to First REIT's quarterly and half-yearly results briefings, where analysts can discuss the Trust's performance with the Manager. First REIT also periodically organises site visits for analysts to visit First REIT's properties overseas. In March 2024, the Manager organised a site visit to Jakarta, allowing analysts to visit First REIT's Indonesian properties in person to gain a deeper understanding of its operations.
+
+Unitholders and investors who wish to receive First REIT's SGXNet announcements can subscribe to the email notification service on First REIT's website. For investor queries, the investment community may also contact the Manager's Investor Relations team via the following:
+
+Ms Melissa Ng  
+Investor Relations and Communications
+
+Email: [ir@first-reit.com](mailto:ir@first-reit.com)  
+Telephone: (65) 6435 0168  
+Corporate Website: <https://www.first-reit.com>  
+Corporate LinkedIn Page: <https://www.linkedin.com/company/first-reit>
+
+<sup>(1)</sup> As at 31 December 2024
+
+<!-- PAGE 45 -->
+
+## 2024 Trading Performance
+
+![Line chart showing Unit Closing Price per month for 2024. The price starts at 0.26 in Jan, dips to 0.25 in Feb, rises to 0.26 in Mar, then fluctuates between 0.24 and 0.265, peaking at 0.28 in Sep and ending at 0.255 in Dec.](f2c40bfbb63eaf7fd84888bdbf1a0a51_img.jpg)
+
+**Unit Closing Price**
+
+| Month | Unit Closing Price |
+|-|-|
+| Jan | 0.26 |
+| Feb | 0.25 |
+| Mar | 0.26 |
+| Apr | 0.245 |
+| May | 0.24 |
+| Jun | 0.245 |
+| Jul | 0.255 |
+| Aug | 0.26 |
+| Sep | 0.28 |
+| Oct | 0.265 |
+| Nov | 0.255 |
+| Dec | 0.255 |
+
+— Unit Closing Price per month
+
+Line chart showing Unit Closing Price per month for 2024. The price starts at 0.26 in Jan, dips to 0.25 in Feb, rises to 0.26 in Mar, then fluctuates between 0.24 and 0.265, peaking at 0.28 in Sep and ending at 0.255 in Dec.
+
+![Bar chart showing Total Volume per month for FY2024. The volume starts at 24.68 in Jan, dips to 18.81 in Feb, rises to 26.39 in Mar, then fluctuates between 15.64 and 33.52, peaking in Sep and ending at 15.64 in Dec.](68ec8ddd77b91c6e59d90ca84ad64f11_img.jpg)
+
+**Trading Volume for FY2024**
+
+(Units in million)
+
+| Month | Total Volume (million) |
+|-|-|
+| Jan | 24.68 |
+| Feb | 18.81 |
+| Mar | 26.39 |
+| Apr | 27.7 |
+| May | 23.1 |
+| Jun | 17.83 |
+| Jul | 28.21 |
+| Aug | 29.13 |
+| Sep | 33.52 |
+| Oct | 27.92 |
+| Nov | 23.73 |
+| Dec | 15.64 |
+
+■ Total Volume per month
+
+Bar chart showing Total Volume per month for FY2024. The volume starts at 24.68 in Jan, dips to 18.81 in Feb, rises to 26.39 in Mar, then fluctuates between 15.64 and 33.52, peaking in Sep and ending at 15.64 in Dec.
+
+Source: Bloomberg
+
+### Relative Total Return Performance for FY2024
+
+![Line chart comparing the relative total return performance of First REIT, FTSE ST REIT Index, and Straits Times Index for FY2024. The Straits Times Index shows the highest return at +23.5%, followed by First REIT at +5.8%, and the FTSE ST REIT Index at -6.2%.](3a310163273edcf70c19269a06d0cdf2_img.jpg)
+
+| Month | First REIT | FTSE ST REIT Index | Straits Times Index |
+|-|-|-|-|
+| Jan | 100 | 100 | 100 |
+| Feb | 98 | 95 | 97 |
+| Mar | 97 | 92 | 97 |
+| Apr | 100 | 95 | 100 |
+| May | 98 | 91 | 103 |
+| Jun | 97 | 92 | 106 |
+| Jul | 97 | 90 | 106 |
+| Aug | 102 | 96 | 108 |
+| Sep | 107 | 101 | 111 |
+| Oct | 115 | 105 | 115 |
+| Nov | 110 | 98 | 114 |
+| Dec | 107 | 96 | 123.5 |
+
+— First REIT    — FTSE ST REIT Index    — Straits Times Index
+
+Line chart comparing the relative total return performance of First REIT, FTSE ST REIT Index, and Straits Times Index for FY2024. The Straits Times Index shows the highest return at +23.5%, followed by First REIT at +5.8%, and the FTSE ST REIT Index at -6.2%.
+
+Source: Bloomberg
+
+<!-- PAGE 46 -->
+
+# Investor Relations
+
+![Decorative yellow bar with a stylized arrow pointing right.](b73e15bd8ab2756cf10f9344fe551227_img.jpg)
+
+Decorative yellow bar with a stylized arrow pointing right.
+
+## UNIT PRICE PERFORMANCE
+
+| Overview | FY2024 | FY2023 |
+|-|-|-|
+| Opening Price (S\$) | <b>0.265</b> | 0.265 |
+| Closing Price (S\$) | <b>0.255</b> | 0.265 |
+| High Close (S\$) | <b>0.280</b> | 0.285 |
+| Low Close (S\$) | <b>0.240</b> | 0.215 |
+| Total Volume (million units) | <b>296.7</b> | 349.9 |
+| Average Daily Traded Volume (million units) | <b>1.177</b> | 1.405 |
+| Market Capitalisation (S\$ million) | <b>534.1</b> | 550.4 |
+| Total distributions declared (Singapore Cents) | <b>2.36</b> | 2.48 |
+| Distribution yield <sup>(1)</sup> | <b>9.3%</b> | 9.4% |
+| Total unitholder return | <b>5.8%</b> | 12.5% |
+
+Source: Bloomberg
+
+## FINANCIAL CALENDAR
+
+| Event | FY2024 | FY2025 (Tentative)* |
+|-|-|-|
+| First Quarter Business Update Announcement | 24 April 2024 | April 2025 |
+| Payment of Distribution to Unitholders | 21 June 2024 | June 2025 |
+| First Half Financial Results Announcement | 26 July 2024 | July 2025 |
+| Payment of Distribution to Unitholders | 25 September 2024 | September 2025 |
+| Nine-month Business Update Announcement | 30 October 2024 | October 2025 |
+| Payment of Distribution to Unitholders | 20 December 2024 | December 2025 |
+| Full Year Financial Results Announcement | 11 February 2025 | February 2026 |
+| Payment of Distribution to Unitholders | 28 March 2025 | March 2026 |
+| Annual General Meeting | 29 April 2025 | April 2026 |
+
+\*Dates are indicative and subject to change.
+
+(1) Computed as at 31 December
+
+<!-- PAGE 47 -->
+
+![Decorative horizontal bar with a stylized arrow pointing right.](0f773d79711925d407a9b75173fcff26_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+# Contents
+
+|  |  |  |
+|-|-|-|
+| Board Statement | <img alt="Progress bar" data-bbox="1187 1003 1414 1016" src="7f5a41302d760768ca32b5fc46babe9e_img.jpg"/> | 46 |
+| About First REIT | <img alt="Progress bar" data-bbox="1187 1059 1414 1072" src="c41c9baa3e684de302347549d0fe6c76_img.jpg"/> | 46 |
+| About this Report | <img alt="Progress bar" data-bbox="1187 1115 1414 1128" src="cbd76d109f64adb5fbe8f88436016913_img.jpg"/> | 46 |
+| FY2024 Highlights | <img alt="Progress bar" data-bbox="1187 1171 1414 1184" src="95c1892284749610bb0a4a4803acdf00_img.jpg"/> | 48 |
+| First REIT's Sustainability Approach | <img alt="Progress bar" data-bbox="1187 1227 1414 1240" src="757e71a7240891e057d20c4972c450f0_img.jpg"/> | 49 |
+| Stewarding the Environment | <img alt="Progress bar" data-bbox="1187 1283 1414 1296" src="c09ea2f75f119285b227cb7c287235c7_img.jpg"/> | 55 |
+| Strengthening Social Fabric | <img alt="Progress bar" data-bbox="1187 1339 1414 1352" src="51d581f656d83d8e1bcedb7e55423bed_img.jpg"/> | 57 |
+| Building Trust | <img alt="Progress bar" data-bbox="1187 1395 1414 1408" src="85c84707dbc50a700272ba5256123e62_img.jpg"/> | 60 |
+| First REIT's Climate-related Risk | <img alt="Progress bar" data-bbox="1187 1451 1414 1464" src="1323ca9a89f0b16f97ac243702d8f12b_img.jpg"/> | 62 |
+| Social Finance Reporting | <img alt="Progress bar" data-bbox="1187 1507 1414 1520" src="bbb7b38a599d12df8e88f7161c1bcada_img.jpg"/> | 71 |
+| GRI Content Index | <img alt="Progress bar" data-bbox="1187 1563 1414 1576" src="df2755694f3c2ef7f38187ed7d08b09a_img.jpg"/> | 77 |
+| SASB Index | <img alt="Progress bar" data-bbox="1187 1619 1414 1632" src="f3d131ffb5a52fadfc0b57a4367f5cba_img.jpg"/> | 84 |
+
+![Decorative illustration of bamboo stalks and leaves in the bottom left corner.](396b969fe671a6ae5f086506b9c29718_img.jpg)
+
+Decorative illustration of bamboo stalks and leaves in the bottom left corner.
+
+<!-- PAGE 48 -->
+
+# Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right.](d952d1b71abf550d8d9740581f6e7e02_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right.
+
+## BOARD STATEMENT
+
+The Board of Directors ("**Board**") of First REIT Management Limited (the "**Manager**"), the Manager of First Real Estate Investment Trust ("**First REIT**" or the "**Trust**"), is pleased to present First REIT's 8<sup>th</sup> annual sustainability report for the financial year ended 31 December 2024 ("**FY2024**").
+
+The Board is committed to integrating sustainability considerations into First REIT's strategic roadmap and business decisions. The Board maintains effective oversight over sustainability-related matters, ensuring the relevance and efficacy of First REIT's environmental, social and governance ("**ESG**") strategy to the rapidly evolving sustainability landscape. Together, these efforts seek to ensure that impacts on the economy, environment and people are considered when making financing or investment decisions.
+
+The Board recognises the importance of identifying material opportunities and risks from ESG factors and is actively involved in the development of First REIT's sustainability roadmap. First REIT conducts annual reviews of its material topics to ensure that they remain relevant to the business. This ongoing assessment helps identify emerging issues and adapt the Trust's sustainability strategy to the evolving needs and expectations of its stakeholders.
+
+As owners of social real estate assets, First REIT is in a unique position to pursue sustainable endeavours while creating economic value, while staying true to our commitment to build a culture of continuous improvement, accountability, and data-driven decision-making.
+
+Looking forward, as Singapore moves towards a mandatory regulatory regime, First REIT will progressively align with the International Financial Reporting Standards ("**IFRS**") S1 and S2 standards and will continually seek to build and advance its sustainability framework and capabilities.
+
+## ABOUT FIRST REIT
+
+First REIT is a healthcare real estate investment trust that invests in a variety of yield-enhancing healthcare and healthcare-related properties in Asia. The Manager of First REIT is headquartered in Singapore and is 60% directly held by OUE Limited ("**OUE**") and 40% directly held by OUE Healthcare Limited ("**OUEH**"). Collectively, they serve as the Sponsors of First REIT, owning a combined total of 45.17% of its units as of 31 December 2024.
+
+The Trust's portfolio consists of 32 properties across Asia, with a total asset value of S\$1.12 billion as of 31 December 2024. The portfolio features 15 properties in Indonesia, including 11 hospitals, 2 integrated hospitals and malls, 1 integrated hospital and hotel, and 1 hotel and country club. Additionally, it encompasses 3 nursing homes in Singapore and 14 nursing homes in Japan, showcasing a robust presence in key healthcare markets. In Indonesia, the Trust's healthcare properties are managed by PT Siloam International Hospitals Tbk ("**Siloam**"), a related party of the Manager of First REIT. Nursing homes in Singapore and Japan are operated by independent and experienced third-party operators.
+
+The Trust has right-of-first-refusal ("**ROFR**") from OUEH and opportunities to tap on its growing healthcare network across Pan-Asia. In addition, First REIT also has a ROFR to a pipeline of hospitals from PT Lippo Karawaci Tbk ("**Lippo Karawaci**"), a shareholder of Siloam.
+
+## ABOUT THIS REPORT
+
+First REIT is the first healthcare REIT listed on the Singapore Exchange ("**SGX**"), having made its debut on 11 December 2006. In compliance with the Listing Manual of the Singapore Exchange Securities Trading Limited ("**SGX-ST**"), First REIT has prepared this report in line with the relevant sustainability reporting requirements (Rules 711A and 711B). This marks First REIT's 8<sup>th</sup> annual sustainability report, covering the period from 1 January 2024 to 31 December 2024.
+
+This report has been prepared in accordance with the Global Reporting Initiative ("**GRI**") 2021 standards, a widely recognised international reporting framework. Adopted by more than 10,000 organisations across 100 countries, the GRI standards serve as a suitable foundation for First REIT's sustainability reporting by providing a comprehensive set of standards covering a broad range of sustainability topics that are highly relevant to First REIT's operations and its stakeholders. Additionally, First REIT also includes climate-related disclosures in line with the recommendations of the Task Force on Climate-related Financial Disclosures ("**TCFD**"). In response to the mandatory climate reporting requirements introduced in Singapore by Singapore Exchange Regulation ("**SGX RegCo**"), First REIT has incorporated pertinent disclosures from the IFRS S2 climate-related disclosures and Sustainability Accounting Standards Board ("**SASB**") standards, and it aims to achieve full alignment with these standards<sup>(1)</sup> to enhance its transparency and accountability in its disclosures. First REIT also aligns with the
+
+(1) Starting from the financial year 2025, SGX RegCo will mandate that all issuers report climate-related disclosures aligned with the IFRS Sustainability Disclosure Standards published by the International Sustainability Standards Board ("**ISSB**").
+
+<!-- PAGE 49 -->
+
+Guidelines on Environmental Risk Management for Asset Managers issued by the Monetary Authority of Singapore (“MAS”). The incorporation of these reporting frameworks and guidelines ensure alignment with reporting best practices and allows First REIT to meet the expectations of its valued stakeholders.
+
+First REIT’s properties are master leased to 11 well-established operators. As a result, the Manager does not maintain operational control over its properties in Indonesia, Japan and Singapore. While the Manager lacks operational control, it strives to have a positive impact through regular engagement with the operators. The Manager recognises the importance of performing due diligence on its assets and their environmental impact, while monitoring and tracking the sustainability performance of its properties.
+
+The data and information presented in this report highlight the significant environmental performance of the Trust’s healthcare and healthcare-related properties in Indonesia and Singapore. The Manager is also collaborating with its operators in Japan on sustainability initiatives and aims to include disclosures on environmental performance in Japan in future reports.
+
+This report does not include the environmental performance of non-healthcare properties, as they are regarded as non-core to the Trust’s operations and objectives. By concentrating solely on healthcare-related assets, the report seeks to present a more comprehensive view of the Trust’s dedication to sustainability within its core investment sector. For the complete list of First
+
+REIT’s properties, please refer to Annual Report 2024 pages 24 to 40.
+
+This Sustainability Report highlights the social impact of the properties in its portfolio, in alignment with First REIT’s Social Finance Framework (“SFF”) published in March 2022 and updated in December 2022. It also addresses relevant human resource topics for the Manager, underscoring the connection between social responsibility and effective management in the Trust’s sustainability initiatives.
+
+First REIT’s sustainability reports are subjected to an internal review to enhance its clarity, consistency, and adherence to established standards and will consider external assurance in the future. First REIT has also obtained a limited assurance report from its internal auditor Baker Tilly Consultancy (Singapore) Pte. Ltd. for the allocation of its social bond.
+
+Restatements of data or information from First REIT’s past Sustainability Reports are highlighted in the ESG Data Summary on page 74.
+
+Any feedback on this report and First REIT’s sustainability performance is appreciated. If you have questions regarding this Sustainability Report or First REIT’s sustainability practices, please reach out to:
+
+**Sustainability Team**  
+**Email: [sustainability@first-reit.com](mailto:sustainability@first-reit.com)**
+
+![A stylized illustration representing sustainability and ESG themes. It features a large globe with a leafy branch and a flower. In the foreground, there are several icons: a dollar sign, a lightbulb, a hand holding a lightning bolt, a factory with a smokestack, a circular arrow with a checkmark, and a calculator. Small human figures are interacting with these elements, symbolizing the integration of environmental, social, and governance factors into business operations.](0ba96c8121e21d5b3cdd48e3e19546fd_img.jpg)
+
+A stylized illustration representing sustainability and ESG themes. It features a large globe with a leafy branch and a flower. In the foreground, there are several icons: a dollar sign, a lightbulb, a hand holding a lightning bolt, a factory with a smokestack, a circular arrow with a checkmark, and a calculator. Small human figures are interacting with these elements, symbolizing the integration of environmental, social, and governance factors into business operations.
+
+<!-- PAGE 50 -->
+
+# Sustainability Report
+
+## FY2024 HIGHLIGHTS
+
+![Icon representing financial performance with a bar chart and a line graph.](01712d1aeaf42b2237e90a7cb423fe99_img.jpg)
+
+Icon representing financial performance with a bar chart and a line graph.
+
+## FINANCIAL PERFORMANCE
+
+![Icon representing rental and other income with a money bag and dollar signs.](48e4a08eda427e3eca16c3cb8ef68e61_img.jpg)
+
+Icon representing rental and other income with a money bag and dollar signs.
+
+Rental &  
+Other Income  
+**S\$ 102.2**  
+million
+
+![Icon representing net property and other income with a house and a dollar sign.](46a3aaaa16c32e851710b0223cd1c656_img.jpg)
+
+Icon representing net property and other income with a house and a dollar sign.
+
+Net Property &  
+Other Income  
+**S\$ 98.5**  
+million
+
+![Icon representing distribution per unit with a hand holding a dollar sign.](33edb527bae42a1b04818001d817a1cd_img.jpg)
+
+Icon representing distribution per unit with a hand holding a dollar sign.
+
+Distribution  
+per unit  
+**2.36**  
+Singapore cents
+
+![Icon representing investment properties with a bar chart and a pie chart.](b3c8bd07a8830cf2bca908f531b1da3d_img.jpg)
+
+Icon representing investment properties with a bar chart and a pie chart.
+
+Investment  
+Properties  
+**S\$ 1.12**  
+billion
+
+![Icon representing social performance with a group of people and a hand holding a heart.](b403403ebb9eb4f423be5b277f6c9348_img.jpg)
+
+Icon representing social performance with a group of people and a hand holding a heart.
+
+### SOCIAL
+
+#### Employee Attraction & Retention
+
+![Icon representing employee attraction and retention with a person and a checkmark.](f34e95f89ce11323d777bd7f8eff352a_img.jpg)
+
+Icon representing employee attraction and retention with a person and a checkmark.
+
+- 91.3% employee retention rate
+- 8.7% employee turnover rate
+- Approximately 26% of the employees have been with the Manager for more than 10 years
+- Average tenure of employees: 6.8 years
+
+#### Diversity, Inclusion & Non-Discrimination
+
+![Icon representing diversity, inclusion, and non-discrimination with a group of people.](bd78bd33f339f6f8a2872ac42576ff5c_img.jpg)
+
+Icon representing diversity, inclusion, and non-discrimination with a group of people.
+
+- 77.8% of middle management are women
+- 50% of senior management are women
+- No cases of discrimination
+
+#### Training & Development
+
+![Icon representing training and development with a person and a bar chart.](056a968278b91c6e20693e71252d275b_img.jpg)
+
+Icon representing training and development with a person and a bar chart.
+
+- Average hours of training per employee: 25 hours
+
+#### Health & Safety
+
+![Icon representing health and safety with a hand holding a cross.](a1625cdebf28a0de0c6f84eaec0a9973_img.jpg)
+
+Icon representing health and safety with a hand holding a cross.
+
+- No cases of workplace injuries & ill-health
+
+#### Community Support
+
+![Icon representing community support with a group of people.](1599a5b1e5e7dcd753ebbb582fba912f_img.jpg)
+
+Icon representing community support with a group of people.
+
+- Community involvement projects:
+ - » Chinese New Year Get-Together at Precious Homes @ Bukit Panjang
+ - » Lantern Decorating Workshop at 2 nursing homes namely Precious Homes @ Bukit Merah and The Lentor Residence
+ - » Donation of over 150 boxes of mooncakes to elderly beneficiaries at the 3 nursing homes
+
+![Icon representing environment with a globe and a leaf.](39c2a0c3cf2d391e8e9c05414b27bd3b_img.jpg)
+
+Icon representing environment with a globe and a leaf.
+
+### ENVIRONMENT
+
+Committed energy-efficient  
+CAPEX in FY2024
+
+**Over S\$1.3** million
+
+![Icon representing governance with a classical building facade.](dc2a0023cdc5056ec94efb4ca1088788_img.jpg)
+
+Icon representing governance with a classical building facade.
+
+### GOVERNANCE
+
+### Zero Cases of
+
+- Regulatory breaches and non-compliance
+- Data security breaches
+- Corruption and fraud
+
+<!-- PAGE 51 -->
+
+## FIRST REIT'S SUSTAINABILITY APPROACH
+
+At First REIT, the Board believes that a strong governance structure is essential for ensuring strategic oversight and effective management of the sustainability impacts arising from its operations. The Board maintains strategic oversight over its sustainability strategy and approach and delegates the responsibility of managing sustainability-related matters to the Sustainability Team.
+
+Established in 2017, the Sustainability Team includes representatives from the Asset Management, Compliance, Finance, and Investor Relations teams. The Chief Executive Officer ("CEO") chairs the Sustainability Team and is responsible for the overall strategic direction, sustainability-related initiatives and reports.
+
+In addition to the Sustainability Team, First REIT has formed a Social Finance Working Group ("SFWG"), that is in charge of
+
+conducting regular reviews on the Social Finance Framework, evaluating potential acquisitions by validating assets against the Social Finance Framework, producing annual social bond reports for investors and monitoring trends in sustainable capital markets.
+
+Headed by the Head of Asset & Investment Management, its Environmental and Social Management System ("ESMS") team oversees the environmental and social performance of First REIT properties that benefit from the guarantee provided by the Credit Guarantee and Investment Facility ("CGIF"), a trust fund of the Asian Development Bank. To support this initiative, the team delivers an annual report to CGIF on the status of ESMS implementation.
+
+Collectively, the 3 teams each manage distinct responsibilities while contributing to the overarching objectives of First REIT's business and sustainability strategy.
+
+### SUSTAINABILITY GOVERNANCE STRUCTURE
+
+![Sustainability Governance Structure Diagram](78e846f2858d131dc5a4dcbabcca1e4d_img.jpg)
+
+The diagram illustrates the Sustainability Governance Structure, showing a hierarchy from the Board of Directors down to three functional teams, which then report to a cross-functional team at the bottom.
+
+```
+
+graph TD
+    Board[BOARD OF DIRECTORS] --> SFWG[Social Finance Working Group]
+    Board --> ST[Sustainability Team]
+    Board --> ESMS[Environmental and Social Management System Team]
+    SFWG --> CrossTeam[A cross functional team comprising representatives from Asset Management, Finance, Investor Relations, and Compliance departments]
+    ST --> CrossTeam
+    ESMS --> CrossTeam
+  
+```
+
+**BOARD OF DIRECTORS**
+
+- Provides strategic oversight on sustainability-related matters, including an annual review of the relevance material factors and monitoring the progress against goals and targets set for the Trust's material factors
+- Reviews and issues final approval on Sustainability Report, SFF and ESMS
+- Delegates the management of sustainability-related matters to the Sustainability Team
+
+**Social Finance Working Group**  
+*Chaired by the Chief Financial Officer*
+
+- Regularly review the SFF
+- Reviews, selects and validates an asset or eligible portfolio based on the SFF, when evaluating assets for acquisitions
+- Conducts social finance reporting on an annual basis
+- Monitors developments in sustainable finance and the capital markets
+
+**Sustainability Team**  
+*Chaired by the Chief Executive Officer*
+
+- Formulates overall strategic direction, conducts materiality assessment, determines goals to be set, monitors progress against goals, and manages sustainability reporting
+- Updates the Board on sustainability-related matters regularly, at least on a semi-annual basis
+- Supports the Board in maintaining effective oversight of the Environmental Risk Management ("EnRM") implementation and disclosures
+
+**Environmental and Social Management System Team**  
+*Chaired by the Head of Asset & Investment Management*
+
+- Monitors the environmental and social performance of First REIT's properties that utilise the guarantee by CGIF
+- Reports to CGIF on the status of the implementation of the Environmental and Social Management System
+
+A cross functional team comprising representatives from Asset Management, Finance, Investor Relations, and Compliance departments
+
+Sustainability Governance Structure Diagram
+
+Additional information about corporate governance at First REIT and the sustainability training that the Board has participated in are reflected in First REIT Annual Report 2024 pages 58 to 60.
+
+<!-- PAGE 52 -->
+
+# Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right at the end.](c002a785d5d05bd7f69d54a01401fd86_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right at the end.
+
+## STAKEHOLDER ENGAGEMENT
+
+The Sustainability Team interacts with both internal and external stakeholders through a variety of channels and methods to assess how First REIT's business activities affect them. They prioritise interactions with those directly affected, enabling the Manager to gain insights that enhance the relevance of First REIT's sustainability strategy to ensure the delivery of intended outcomes.
+
+| Stakeholders | Relevant ESG Topics | Engagement Channels and Methods | Commitments to Sustainability |
+|-|-|-|-|
+| <b>Employees</b> | <ul style="list-style-type: none"> <li>• Remuneration and benefits</li> <li>• Fair and competitive employment practices</li> <li>• Work-life balance</li> <li>• Employee safety, welfare, training and development opportunities</li> </ul> | <u>Annually</u> <ul style="list-style-type: none"> <li>• Employee feedback sessions</li> <li>• Dialogue sessions with senior management</li> <li>• Performance appraisals</li> <li>• Employee engagement surveys</li> </ul> <u>Ad-hoc basis</u> <ul style="list-style-type: none"> <li>• Informal and formal staff communications</li> <li>• Employee training sessions</li> <li>• Recreational and team bonding sessions</li> </ul> | <ul style="list-style-type: none"> <li>• Develop a high-performance work culture that embraces diversity and teamwork</li> <li>• Create a conducive work environment for all employees</li> <li>• Promote cohesive work culture</li> <li>• Provide fair and equal opportunities for all employees</li> <li>• Offer career development opportunities</li> <li>• Improve job satisfaction and reward performance</li> <li>• Employee wellness</li> </ul> |
+| <b>Investors, Unitholders, Analysts and Media</b> | <ul style="list-style-type: none"> <li>• Updates on financial and business performance</li> <li>• Corporate actions and Mergers &amp; Acquisitions</li> <li>• Industry developments and market outlook</li> <li>• Business strategy and outlook (return on investments, growth rate, risk management)</li> <li>• Corporate governance and regulatory compliance</li> <li>• Performance and reporting standards</li> <li>• Major events that may potentially impact assets located in Indonesia, Japan and Singapore (natural disasters, government regulations)</li> </ul> | <u>Annually</u> <ul style="list-style-type: none"> <li>• Annual/extraordinary general meetings</li> <li>• Annual reports, Sustainability reports</li> </ul> <u>Bi-yearly/ Quarterly</u> <ul style="list-style-type: none"> <li>• Financial results announcements for half year and full year</li> <li>• Business update announcements for first quarter and third quarter</li> <li>• Quarterly briefings</li> </ul> <u>Ad-hoc/ Perpetual</u> <ul style="list-style-type: none"> <li>• SGXNet announcements, media releases and interviews</li> <li>• Corporate website updates</li> <li>• Social media updates</li> <li>• Roadshows, events and meetings</li> </ul> | <ul style="list-style-type: none"> <li>• Timely and transparent disclosure of accurate and relevant information to stakeholders</li> <li>• Sustainable long-term returns on investment</li> <li>• Business continuity plans in place</li> </ul> |
+
+<!-- PAGE 53 -->
+
+| Stakeholders | Relevant ESG Topics | Engagement Channels and Methods | Commitments to Sustainability |
+|-|-|-|-|
+| <b>Operators</b> | <ul style="list-style-type: none"> <li>Reliable and efficient infrastructure</li> <li>Prompt response to feedback</li> </ul> | <u>Annually</u> <ul style="list-style-type: none"> <li>Key operators' meetings and feedback sessions</li> </ul> <u>Quarterly</u> <ul style="list-style-type: none"> <li>Asset management reports</li> </ul> <u>Ad-hoc/ Perpetual</u> <ul style="list-style-type: none"> <li>Satisfaction surveys</li> <li>Value added initiatives by leveraging technology</li> </ul> | <ul style="list-style-type: none"> <li>Maximise resource efficiency and enhance operational efficiency</li> <li>Ensure safety and security at properties with appropriate amenities</li> </ul> |
+| <b>Trustee</b> | <ul style="list-style-type: none"> <li>Operational efficiency</li> </ul> | <u>Quarterly</u> <ul style="list-style-type: none"> <li>Reports</li> </ul> | <ul style="list-style-type: none"> <li>Regulatory compliance</li> <li>Risk management practices</li> </ul> |
+| <b>Third-Party Service Providers</b> | <ul style="list-style-type: none"> <li>Environmental compliance</li> <li>Standard operating procedures, guidelines and rules for compliance</li> <li>Occupational health and work safety practices</li> <li>Safe-distancing and pandemic prevention measures</li> </ul> | <u>Annually</u> <ul style="list-style-type: none"> <li>Property audits</li> <li>Project-basis</li> <li>Service provider evaluation</li> <li>Regular meetings</li> </ul> | <ul style="list-style-type: none"> <li>Compliance to terms in contracts</li> <li>Fair and reasonable business practices</li> </ul> |
+| <b>Community Members</b> | <ul style="list-style-type: none"> <li>Impact of operations to the wider community and environment</li> </ul> | <u>Annually</u> <ul style="list-style-type: none"> <li>Corporate social responsibility events</li> <li>Annual general meetings</li> <li>Corporate website</li> </ul> | <ul style="list-style-type: none"> <li>Support and contribute to the well-being of communities in our areas of business</li> </ul> |
+
+### MATERIALITY
+
+Managed by the Sustainability Team, First REIT's materiality assessment process builds on the topics identified in its first formal materiality assessment in FY2017 and an internal materiality review in FY2024. An annual review of the material topics was conducted to ensure continued relevance to its business. The review process aligns to the guidance set out by the GRI 2021 standards, following these steps:
+
+- Identify: A comprehensive list of issues was generated through a desktop review of peer practices.
+- Prioritise: Based on internal assessments of importance and external feedback from key stakeholders, a shortlist of issues most relevant to both stakeholders and the business was created.
+- Validate: Senior management reviewed and validated the identified material topics.
+
+Based on the 2024 materiality review, all existing material topics were deemed to remain highly relevant to the Trust and hence remained consistent with FY2023. To further assess the relative importance of First REIT's material topics, a survey was conducted with stakeholders asked to rank each material topic in terms of its impact on First REIT's stakeholders, and impact on First REIT's business. The results of the survey are then plotted on a materiality matrix, which is presented in page 52.
+
+The hierarchy and significance of certain issues have evolved within the context of First REIT's operations, where Health and Safety and Energy Management have emerged as increasingly important priorities. This shift is aligned with its commitment to enhancing stakeholder well-being and improving energy efficiency across its properties.
+
+<!-- PAGE 54 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](bc0363f46427865273bebd3bbe4dad53_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+Through an internal workshop, the Sustainability team and senior management validated the proposed material topics, and the Board provided the final approval on the material topics for FY2024.
+
+First REIT aims to better integrate its sustainability strategy to changing industry standards and stakeholder expectations with its operational objectives, ensuring a positive impact on both its communities and the environment. To align with evolving business priorities, the Manager will conduct another formal materiality assessment exercise when there are significant changes to its key stakeholders and business operations.
+
+The following materiality matrix shows the material topics in FY2024 compared to FY2023, and the impact of each material topic to its stakeholders.
+
+### MATERIALITY MATRIX FY2024
+
+![Materiality Matrix FY2024. A scatter plot with 'IMPACT TO STAKEHOLDERS' on the y-axis and 'IMPACT TO FIRST REIT' on the x-axis. The legend indicates: Environmental (black), Social (light gray), Governance and Economic (dark gray), Business Conduct and Compliance (medium gray), and Financial Performance (dark gray). Material topics plotted include Energy Management, Diversity and Inclusion, Health and Safety, Training and Development, and Community Support.](6dcf3c6357538aad08b1cee84fb05985_img.jpg)
+
+Legend:
+
+- Environmental
+- Social
+- Governance and Economic
+- Business Conduct and Compliance
+- Financial Performance
+
+Material Topics:
+
+- Energy Management
+- Diversity and Inclusion
+- Health and Safety
+- Training and Development
+- Community Support
+
+Materiality Matrix FY2024. A scatter plot with 'IMPACT TO STAKEHOLDERS' on the y-axis and 'IMPACT TO FIRST REIT' on the x-axis. The legend indicates: Environmental (black), Social (light gray), Governance and Economic (dark gray), Business Conduct and Compliance (medium gray), and Financial Performance (dark gray). Material topics plotted include Energy Management, Diversity and Inclusion, Health and Safety, Training and Development, and Community Support.
+
+#### MATERIALITY MATRIX FY2023
+
+![Materiality Matrix FY2023. A scatter plot with 'IMPACT TO STAKEHOLDERS' on the y-axis and 'IMPACT TO FIRST REIT' on the x-axis. The legend indicates: Environmental (black), Social (light gray), Governance and Economic (dark gray), Financial Performance (dark gray), Business Conduct and Compliance (medium gray), and Community Support (light gray). Material topics plotted include Energy Management, Health and Safety, Diversity and Inclusion, Training and Development, Financial Performance, Business Conduct and Compliance, and Community Support.](468ad549a121ee06a5aa05e6915b7c39_img.jpg)
+
+Legend:
+
+- Environmental
+- Social
+- Governance and Economic
+- Financial Performance
+- Business Conduct and Compliance
+- Community Support
+
+Material Topics:
+
+- Energy Management
+- Health and Safety
+- Diversity and Inclusion
+- Training and Development
+- Financial Performance
+- Business Conduct and Compliance
+- Community Support
+
+Materiality Matrix FY2023. A scatter plot with 'IMPACT TO STAKEHOLDERS' on the y-axis and 'IMPACT TO FIRST REIT' on the x-axis. The legend indicates: Environmental (black), Social (light gray), Governance and Economic (dark gray), Financial Performance (dark gray), Business Conduct and Compliance (medium gray), and Community Support (light gray). Material topics plotted include Energy Management, Health and Safety, Diversity and Inclusion, Training and Development, Financial Performance, Business Conduct and Compliance, and Community Support.
+
+<!-- PAGE 55 -->
+
+First REIT aligns to the United Nations Sustainable Development Goals (“UN SDGs”), demonstrating its commitment to global sustainability efforts and ensures that its initiatives contribute to addressing pressing social and environmental challenges. The Manager aims to enhance its accountability and strengthen its ability to create positive impacts that resonate with its stakeholders and the wider community.
+
+#### Targets and Aspirations
+
+First REIT tracks the progress and effectiveness of its sustainability efforts based on a set of targets pertaining to its material ESG topics. The full list of targets First REIT has committed to is presented below in page 54, along with the FY2024 performance against each target. As the regulatory and business environment surrounding First REIT evolves, the Trust endeavours to periodically review and update these targets. This ensures that the existing targets remain achievable and consistent with its sustainability strategy. First REIT will progressively implement qualitative and quantitative targets for its material goals to demonstrate measurable progress and accountability in its sustainability practices.
+
+![Illustration of sustainable technology and human interaction.](9e3dccfc3a1dfa5759408d1269137ed0_img.jpg)
+
+A stylized illustration in a muted color palette (greys, greens, and blues) depicting a sustainable technology theme. On the left, a person sits cross-legged on a large, boxy machine with a laptop, with a large leaf resting on top. In the center, a person stands interacting with a tall, vertical machine that features a screen displaying a line graph and various control buttons. To the right, another person is shown working on a large leaf, with a smaller machine featuring a circular gauge and a waveform display nearby. The background consists of soft, rounded shapes and scattered leaves, suggesting a natural environment integrated with technology.
+
+Illustration of sustainable technology and human interaction.
+
+<!-- PAGE 56 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.](6450d1043578af5919949d716e3349b1_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.
+
+| Material Topics | GRI | Alignment to UN SDGs | Targets (i.e., short-term, medium-term, long-term) | 2024 Performance against targets |
+|-|-|-|-|-|
+| <b>Energy Management</b> | <b>GRI 302:</b><br>Energy 2016<br><b>GRI 305:</b><br>Emissions 2016 | <img alt="SDG 7: Affordable and Clean Energy" data-bbox="635 398 719 477" src="3892af7d2117c1aa87013cb7fa200ace_img.jpg"/> <img alt="SDG 13: Climate Action" data-bbox="727 398 812 477" src="047c037774c050a0286b855957b2b5a7_img.jpg"/> | Complete rollout of committed CAPEX | In 2024, First REIT allocated over S\$1.3 million in CAPEX for energy efficiency initiatives |
+| <b>Diversity &amp; Inclusion</b> | <b>GRI 405:</b><br>Diversity & Equal Opportunity<br><b>GRI 406:</b><br>Non-Discrimination 2016 | <img alt="SDG 5: Gender Equality" data-bbox="635 607 719 685" src="a1c48ddc1fe868d6005ceed1e033f9a5_img.jpg"/> | Ensure that all hires are based on merit | In 2024, First REIT reported no incidents of discrimination |
+| <b>Training &amp; Development</b> | <b>GRI 401:</b><br>Employment 2016<br><b>GRI 404:</b><br>Training & Education 2016 | <img alt="SDG 5: Gender Equality" data-bbox="635 824 719 902" src="7580dd5ee88927f0910dcb3c660ca1fb_img.jpg"/> <img alt="SDG 8: Decent Work and Economic Growth" data-bbox="727 824 812 902" src="5e1f9522aa746fb4cc24949b8282ee31_img.jpg"/> | Achieve an average of 25 hours of training for employees | First REIT's employees averaged 25 hours of training |
+| <b>Health &amp; Safety</b> | <b>GRI 403:</b><br>Occupational Health & Safety 2018 | <img alt="SDG 3: Good Health and Well-being" data-bbox="635 1003 719 1081" src="8734c23cf5ab8ef0b5d7816fdf4f6e71_img.jpg"/> | Continue to provide a safe, healthy and productive workplace | First REIT reported no incidents of work-related ill health, high-consequence injuries and fatalities, or non-compliance with health standards |
+| <b>Community Support</b> | <b>GRI 413:</b> Local Communities 2016 | <img alt="SDG 1: No Poverty" data-bbox="635 1205 719 1283" src="74e0b5902bf5e6841f534a2efb906df5_img.jpg"/> <img alt="SDG 3: Good Health and Well-being" data-bbox="727 1205 812 1283" src="00d515cc43df71a37360befd69b4899e_img.jpg"/> | Continue to organise at least 2 community involvement projects | First REIT organised 2 community involvement projects in 2024 |
+| <b>Business Conduct &amp; Compliance</b> | <b>GRI 2 General Disclosures</b><br>(2-16, 2-25, 2-26, 2-27)<br><b>GRI 205:</b><br>Anti-Corruption 2016<br><b>GRI 416:</b><br>Customer Health & Safety 2016<br><b>GRI 418:</b><br>Customer Privacy 2016 | <img alt="SDG 16: Peace, Justice and Strong Institutions" data-bbox="635 1328 719 1406" src="ae1eda737e84c98c2c455ace95ae857c_img.jpg"/> | Continue to have zero cases of regulatory breaches and non-compliance, data security breaches, corruption and fraud | First REIT reported zero cases of regulatory breaches and non-compliance, data security breaches, corruption and fraud |
+| <b>Financial Performance</b> | <b>GRI 201:</b><br>Economic Performance 2016<br><b>GRI 203:</b><br>Indirect Economic Performance 2016 | <img alt="SDG 9: Industry, Innovation and Infrastructure" data-bbox="635 1709 719 1787" src="ff3b0ab95d8c96f04cad4c50aa80d594_img.jpg"/> <img alt="SDG 12: Responsible Consumption and Production" data-bbox="727 1709 812 1787" src="a4e2021ea7973273d1ac9dd6740d4eb3_img.jpg"/> | Deliver stable and sustainable cash distributions to Unitholders | First REIT's financial performance is disclosed throughout the Annual Report |
+
+<!-- PAGE 57 -->
+
+### STEWARDING THE ENVIRONMENT
+
+### ENERGY MANAGEMENT
+
+#### Potential Impacts, Risks and Opportunities
+
+As a real estate investment trust, First REIT contributes to global greenhouse gas emissions, primarily through energy consumption within its office and owned properties. These contribute to climate change, leading to a range of potential impacts on the Trust's operations and financial performance.
+
+As climate change intensifies, First REIT may face increased operational costs due to higher energy consumption for cooling and heating. Additionally, extreme weather events can lead to physical damage to properties, resulting in significant repair and replacement costs.
+
+To mitigate these risks, First REIT can capitalise on the growing demand for durable, energy-efficient and resource-efficient assets by investing in green technologies and certifications. By addressing climate change risks and seizing emerging opportunities, the Trust can ensure its long-term sustainability and value creation for its stakeholders.
+
+#### Main Approach
+
+By reducing energy consumption and implementing efficient practices, First REIT can decrease operational costs and improve its bottom line. While First REIT's properties are leased to related parties or third parties under master lease agreements, which limits its operational control, the Manager strives to create positive impact through ongoing engagement.
+
+This includes close collaboration with its operators to promote environmental friendly initiatives within the managed healthcare assets. Additionally, First REIT conducts regular on-site inspections and interviews with operators to monitor the environmental performance of the facilities.
+
+The Manager and the Trust are dedicated to improving the energy efficiency of the properties and actively encourages its operators to adopt environmental friendly equipment or information technology to enhance energy and resource savings. In FY2024, First REIT allocated over S\$1.3 million in capital expenditures for this purpose.
+
+#### Performance against Targets
+
+First REIT's energy and emissions come predominantly from the Indonesian properties in its portfolio, which comprise approximately 75% of its gross floor area. Portfolio emissions from First REIT's properties fall under Scope 3 Category 13: Downstream Leased Assets as First REIT has no operational control over these properties. Emissions from First REIT's Japanese assets are not included due to data unavailability. First REIT will continue to engage with its operators in Japan to provide full disclosure in the future.
+
+Energy consumption by First REIT's Indonesian properties saw a minute increase in FY2024, at 69.4 GWh. Energy is consumed primarily by air-conditioning, which is used to provide thermal comfort for patients and staff, as well as to preserve key medical supplies and equipment. The hospital operator for the Indonesian properties, Siloam, has in place an Environmental Management Policy to reduce building energy usage, as well as a vendor assessment to incorporate sustainability considerations for targeted suppliers.
+
+First REIT has been tracking its Scope 2 emissions since FY2023, covering its electricity consumption at its corporate office. Scope 2 emissions for FY2024 amount to 2,501.6 kg-CO<sup>2</sup>, a decrease from FY2023 by 4.6%. Energy consumption also fell by 3.5% to 6,071.8 kWh, translating to an energy intensity of 24.2 kWh/m<sup>2</sup>. First REIT does not have direct Scope 1 emissions as its reporting boundary only comprises its corporate office in Singapore.
+
+![Illustration of two people examining a large lightbulb with a magnifying glass and a clipboard, symbolizing energy efficiency and environmental stewardship.](26de0f7b811048defb0abe5b225bc978_img.jpg)
+
+An illustration depicting two stylized human figures, a man and a woman, interacting with a large, glowing lightbulb. The man on the left holds a clipboard, while the woman on the right uses a magnifying glass to inspect the lightbulb. The lightbulb itself is integrated with a circular atomic symbol, representing energy and science. The entire scene is set against a light gray background with some foliage at the base.
+
+Illustration of two people examining a large lightbulb with a magnifying glass and a clipboard, symbolizing energy efficiency and environmental stewardship.
+
+<!-- PAGE 58 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](1edf00a8a0ad2faa21bedfd66e9323d7_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+| Markets | Metrics | FY2022 | FY2023 | FY2024 |
+|-|-|-|-|-|
+| <b>Indonesia healthcare properties (Scope 3)</b> | Total Energy Consumption (GWh) | 63.6 | 68.9 | 69.4 |
+|  | Energy Intensity (kWh/m <sup>2</sup> ) | 190.7 | 206.0 | 206.7 |
+|  | Emissions (t-CO <sub>2</sub> ) <sup>(1)</sup> | 55,313.9 | 59,911.5 | 52,856.1 |
+| <b>Singapore healthcare properties (Scope 3)</b> | Total Energy Consumption (GWh) | 1.6 | 1.6 | 1.6 |
+|  | Energy Intensity (kWh/m <sup>2</sup> ) | 144.5 | 144.6 | 145.2 |
+|  | Emissions (t-CO <sub>2</sub> ) <sup>(2)</sup> | 672.1 | 672.5 | 667.9 |
+
+The following table outlines the key initiatives that have been implemented across these properties in FY2024.
+
+| Properties |  | CAPEX Improvements |
+|-|-|-|
+| 1 | Siloam Hospitals Bali | Installation of energy efficient air conditioner and air handling units |
+| 2 | Siloam Hospitals Purwakarta | Installation of energy efficient vacuum machine, sound systems, air conditioner, wastewater treatment plant pumps and reverse osmosis pump |
+| 3 | Hotel Aryaduta Manado | Installation of energy efficient electrical cubicle panel |
+| 4 | Siloam Hospitals Lippo Cikarang | Installation of energy efficient HVAC system |
+| 5 | Mochtar Riady Comprehensive Cancer Centre | Installation of energy efficient chiller and uninterruptible power supply |
+| 6 | Siloam Hospitals Baubau | Replacement of pumps and spare parts in sewage treatment plant for better management of wastewater and environmental impact |
+| 7 | Siloam Sriwijaya | Overhaul of generator set with reduced exhaust gas emissions |
+| 8 | Siloam Hospitals Manado | Installation of energy efficient HVAC system<br>Replacement of 2 lifts with energy saving and environmental friendly features |
+| 9 | Orchard Amanohashidate | Replacement of water heater's compressor |
+| 10 | Orchard Kaichi North | Replacement of emergency lighting systems |
+| 11 | Orchard Kaichi West | Replacement of emergency lighting systems |
+| 12 | Orchard Kaichi North & Orchard Kaichi West | Replacement of guiding light |
+| 13 | ElySION Mamigaoka & Annex | Replacement of emergency lighting systems |
+
+(1) Emission factor used by Siloam Hospitals is based on Kementerian Energi dan Sumber Daya Mineral's Emission Factor.
+
+(2) Emission factor used for Singapore properties is based on Energy Market Authority Electricity Grid Emission Factor.
+
+<!-- PAGE 59 -->
+
+### STRENGTHENING SOCIAL FABRIC
+
+### DIVERSITY AND INCLUSION
+
+#### Potential Impacts, Risks and Opportunities
+
+The Manager recognises that in order to continue delivering value to stakeholders and unitholders, its practices have to start from within by fostering a workplace that is diverse, inclusive and built around the principle of merit. A failure to build such a workplace will risk the ability of the Manager to continue to execute on its financial and sustainability objectives, which may pose broader financial and legal risks.
+
+#### Main Approach
+
+First REIT emphasises diversity and inclusion as fundamental principles in the workplace. First REIT also strives to uphold human rights in its relationships with employees and in the communities where it operates and maintains a zero-tolerance policy over any form of discrimination or harassment. The Manager's commitment to diversity seeks to ensure that equal opportunities are afforded to all, and that forms of discrimination based on age, gender, ethnicity or culture have no place in a diverse and inclusive workplace. As part of this commitment, the Manager has an ongoing target to ensure that all hires are based on merit.
+
+The Manager takes reference from guidelines by the Tripartite Alliance for Fair & Progressive Employment Practices ("TAFEP") in its practices and is committed to building a workplace environment where all are treated with fairness and respect. Its commitments are governed by a set of policies, including the following:
+
+- Code of Business Conduct and Ethics
+- Occupational Health and Safety
+- Employment Conditions
+
+For any instances of harassment or discrimination, the Manager has in place a set of procedures to ensure that grievances are seriously and decisively attended to. Any form of discrimination, harassment or violence can be reported to senior management, Group Ethical Officer and/or the HR Department, and the Manager is committed to taking the reasonable actions to investigate all incidents that are reported.
+
+While staff employed by the Manager are not covered by collective bargaining agreements, the Manager respects the right of workers to freedom of association and to be part of trade unions guided by the Industrial Relations Act. This creates an avenue for employees to seek redress if cases of industrial disputes arise, and enables the fair and collective representation of employee interests.
+
+#### Performance against Targets
+
+The Manager tracks the composition of its workforce to ensure that the principles of diversity and inclusion are adhered to. As of December 2024, the Manager employs 23 full-time, permanent employees, and has no part-time or non-guaranteed hours employees. 69.6% of the workforce comprises women, including 77.8% in middle management and 50% in senior management. In terms of age, 21.7% of the workforce are under 30, 47.8% are between 30 and 50, and 26.1% are above 50. Staff retention rate for FY2024 remained high at 91.3%, while 26.1% of employees have been employed for over 10 years.
+
+First REIT commits to all hires being selected based on merit as a way to uphold equal opportunity in its recruitment processes. In 2024, First REIT received no reports of unfair discrimination.
+
+#### PERCENTAGE OF INDIVIDUALS BY EMPLOYEE CATEGORY AND GENDER
+
+| EMPLOYEE CATEGORY | NUMBER & PERCENTAGE OF EMPLOYEES |  |
+|-|-|-|
+| Senior Management | Male<br>2<br>50% | Female<br>2<br>50% |
+|  |  |  |
+| Middle Management | Male<br>2<br>22.2% | Female<br>7<br>77.8% |
+|  |  |  |
+| Executives and Non-Executives | Male<br>3<br>30% | Female<br>7<br>70% |
+|  |  |  |
+
+#### NEW EMPLOYEE HIRES DURING FY2024
+
+![Two pie charts showing new employee hires during FY2024. The first chart shows age distribution: 20% Under 30 years old, 40% 30-50 years old, and 40% Above 50 years old. The second chart shows gender distribution: 100% Female.](8a1c74aab4ece1fd7d75b98673562d49_img.jpg)
+
+The figure consists of two pie charts. The first chart, titled 'NEW EMPLOYEE HIRES DURING FY2024', shows the age distribution of new hires: 20% Under 30 years old (light grey), 40% 30-50 years old (dark grey), and 40% Above 50 years old (medium grey). The second chart shows the gender distribution: 100% Female (dark grey).
+
+| Category | Count | Percentage |
+|-|-|-|
+| Under 30 years old | 1 | 20% |
+| 30-50 years old | 2 | 40% |
+| Above 50 years old | 2 | 40% |
+
+| Category | Count | Percentage |
+|-|-|-|
+| Female | 5 | 100% |
+
+Two pie charts showing new employee hires during FY2024. The first chart shows age distribution: 20% Under 30 years old, 40% 30-50 years old, and 40% Above 50 years old. The second chart shows gender distribution: 100% Female.
+
+<!-- PAGE 60 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](bbb32d9fa28b019f23c2b706424ed78e_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+#### EMPLOYEE TURNOVER DURING FY2024
+
+![Two donut charts showing employee turnover during FY2024. The first chart shows 30-50 years old with 2 out of 2 employees (100%) turnover. The second chart shows Female with 2 out of 2 employees (100%) turnover.](98ea5e21d919b389f3ce8b17ef4e65f6_img.jpg)
+
+| Category | Count | Percentage |
+|-|-|-|
+| 30-50 years old | 2 | 100% |
+| Female | 2 | 100% |
+
+Two donut charts showing employee turnover during FY2024. The first chart shows 30-50 years old with 2 out of 2 employees (100%) turnover. The second chart shows Female with 2 out of 2 employees (100%) turnover.
+
+### TRAINING AND DEVELOPMENT
+
+#### Potential Impacts, Risks and Opportunities
+
+First REIT believes that effective management of the Trust is underpinned by a workforce that is strong, talented and progressive. This is complemented by a supportive working environment that is able to attract and retain talented individuals over the long-term. A commitment to strong training and development opportunities is a key part of maximising the human capital in its workforce, which would be critical in ensuring that First REIT can respond to the ever-changing needs of its stakeholders and evolving market conditions.
+
+#### Main Approach
+
+First REIT aims to empower its employees by providing opportunities to acquire knowledge and skills, improve work performance and enhance each individual's contributions to its broader business goals. First REIT's training programmes for staff comprises, amongst others, on-the-job training, one-on-one training, internal and external workshops, coaching, mentoring and self-directed learning.
+
+As part of First REIT's commitment to sustainability, external consultants were engaged during the year for capacity building workshops on sustainability, covering topics such as sustainability reporting, greenhouse gas accounting, impact reporting and IFRS adoption. A separate session was conducted as part of the OUE Group Directors and Management training covering trade relations and the investment climate in the region. These curated training topics ensure that employees maintain up-to-date skills, knowledge, and competencies in a rapidly evolving business environment.
+
+#### Performance against Targets
+
+In FY2024, employees participated in an average of 25 hours of training per employee.<sup>(1)</sup> The Manager also regularly engages with employees to gather feedback on career development needs and conducts annual appraisals with employees to track career progression.
+
+To ensure the strong career development of employees, First REIT also conducted performance appraisals for 100% of staff.
+
+#### AVERAGE HOURS OF TRAINING IN FY2024 BY GENDER <sup>(2)</sup>
+
+![Horizontal bar chart showing average hours of training in FY2024 by gender. Male: 26 hours, Female: 24 hours.](8da77288f0799a6c6ad53c1fb9c86776_img.jpg)
+
+| Gender | Average Hours of Training |
+|-|-|
+| Male | 26 |
+| Female | 24 |
+
+Horizontal bar chart showing average hours of training in FY2024 by gender. Male: 26 hours, Female: 24 hours.
+
+##### AVERAGE HOURS OF TRAINING IN FY2024 BY EMPLOYMENT CATEGORY
+
+![Horizontal bar chart showing average hours of training in FY2024 by employment category. Senior Management: 33 hours, Middle Management: 22 hours, Executives and Non-Executives: 21 hours.](71537d7d7b3d9f02c1c5537658f37755_img.jpg)
+
+| Employment Category | Average Hours of Training |
+|-|-|
+| Senior Management | 33 |
+| Middle Management | 22 |
+| Executives and Non-Executives | 21 |
+
+Horizontal bar chart showing average hours of training in FY2024 by employment category. Senior Management: 33 hours, Middle Management: 22 hours, Executives and Non-Executives: 21 hours.
+
+(1) Figure does not include one non-office staff employed by First REIT
+
+(2) For FY2023, First REIT has restated the following numbers for average hours of training undertaken by its employees, by category:
+
+- 36 hours of training for male employees and 20.2 hours for female employees
+- 50.9 hours of training for Senior Management, 13.1 hours for Middle Management, and 24.3 hours for Executives and Non-Executives
+
+<!-- PAGE 61 -->
+
+### HEALTH AND SAFETY
+
+#### Potential Impacts, Risks and Opportunities
+
+As a healthcare-focused Trust, First REIT recognises that its assets make significant contributions in ensuring that the healthcare needs of local communities are met. This starts from health and safety at the sites of operation itself, for all staff and occupants at First REIT's assets. The strong financial performance of First REIT is closely interconnected with the health and well-being of its stakeholders.
+
+#### Main Approach
+
+First REIT strives to be an active and responsible asset owner, working with operators to prioritise the health, safety and well-being of its stakeholders. First REIT also actively keeps track of the continually evolving healthcare needs, ensuring that its assets continue to generate value by responding to the needs of its stakeholders.
+
+First REIT's commitments to health and safety also extend to its workplace. The Manager is committed to ensuring that the workplace remains safe, healthy and productive, and complies with applicable health and safety laws and regulations. This involves policies and procedures which govern working hours, overtime, rest days, leave entitlements and medical benefits which safeguard the health and well-being of employees.
+
+The Manager has set out a Health and Safety Policy aligned with the Workplace Health and Safety Act ("WHS") legislated by the Ministry of Manpower. The Manager also encourages practices which promote a positive work-life balance for employees, such as leaving the office early on scheduled days so that employees can spend quality time with their families. Any potential risks to workplace health and safety are taken seriously by the Manager, and efforts are made to ensure that any such risks are decisively remediated.
+
+#### Performance against Targets
+
+In FY2024, First REIT's employees worked a total of 47,944 man-hours, and recorded no incidents that resulted in high-consequence injuries or fatalities. Similarly, no incidents of workplace-related ill-health was recorded.
+
+Across First REIT's healthcare assets, the respective operators hold the responsibility for ensuring that risks to occupational health and safety are minimised. In Indonesia, Siloam has a comprehensive Environmental Policy that prioritises the safety of workers, patients and facility users. In Singapore and Japan, operators adhere to local laws and regulations to ensure workers' safety. All operators have policies in place that aim to provide products and services rendered to patients or members
+
+of the public with the best possible quality. We are pleased to report that there were no incidents of non-compliance with regulations and/or voluntary codes concerning the health and safety impacts of products and services in FY2024.
+
+### COMMUNITY SUPPORT
+
+#### Potential Impacts, Risks and Opportunities
+
+Hospitals and nursing homes play a crucial role in supporting local communities through the services they provide. First REIT acknowledges that with this crucial role comes the responsibility to contribute to the well-being of the communities where its assets are located. Community support activities help to maintain a presence on the ground to ensure a deeper impact on the people where First REIT's assets serve.
+
+#### Main Approach
+
+First REIT seeks, through its portfolio of hospitals and nursing homes, to provide affordable and accessible healthcare services particularly for vulnerable groups in the community. The Manager tracks the impacts of these services as part of its social impact reporting, which can be found in the Annual Report on pages 72 to 73.
+
+#### Performance against Targets
+
+First REIT exemplifies the commitment of supporting its communities by regularly organising engagement events for the individuals residing within its assets. This is in line with its target to conduct at least 2 community involvement projects every year.
+
+During 2024, First REIT undertook community involvement projects within its 3 nursing homes located in Singapore. Guided by the theme of 'Service starts from within,' these initiatives aimed to foster stronger relationships with internal stakeholders and tenants.
+
+During Chinese New Year, First REIT organised a singing get-together at Precious Homes @ Bukit Panjang, delighting the nursing home residents with plenty of good cheer. During the Mid-Autumn festival, First REIT partnered with an external vendor for a lantern-decorating workshop at The Lantor Residence and Precious Homes @ Bukit Merah. In addition to donation of mooncakes to its local nursing homes, employees spent a joyful day with residents decorating their own lanterns which served as a heartfelt reminder of the deep connections shared with the elderlies and the bonds that brought us together during the festive season.
+
+<!-- PAGE 62 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](e559cb8d15d95b7f4c5761d295051cc0_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+### BUILDING TRUST
+
+### BUSINESS CONDUCT AND COMPLIANCE
+
+#### Potential Impacts, Risks and Opportunities
+
+Business continuity is underpinned by regulatory compliance. As a REIT listed on the SGX-ST, the obligation to comply with regulatory requirements is a prerequisite for its ability to continue its operations. This includes the Listing Rules of the SGX-ST, the Code on Collective Investment Schemes issued by MAS, tax rulings issued by the Inland Revenue Authority of Singapore, as well as all other applicable regulations in the markets where First REIT has a presence. The failure to comply with standards of business conduct and regulatory requirements poses significant legal, financial and reputational risks for First REIT.
+
+#### Main Approach
+
+First REIT is committed to acting with responsibility, integrity and respect for society in everything that it does. In doing so, First REIT strives to be seen as a quality healthcare REIT, a trusted business partner, a desirable employer and a responsible corporate citizen.
+
+The Manager adopts the OUE Code of Business Conduct and Ethics, embodying the commitment to conduct business in accordance with all applicable laws, rules and regulations and the highest ethical standards. The Manager also observes principles, guidelines, and recommendations of the Code of Corporate Governance 2018. The reputational, operational and financial risks that may arise from non-compliance are substantial, meaning that business trust that has been built up over many years is easy to squander without the correct procedures and practices in place. With these policies in place, employees are imbued with the ability to make the right decisions and ask the right questions when confronted with challenging business situations, in line with the expected standards of business conduct and to uphold proper accountability within the Manager.
+
+The Board manages matters pertaining to regulatory compliance, and First REIT strives to ensure that the composition of the Board comprises business leaders and professionals with the relevant qualifications and competencies to adequately tackle issues of this nature. Directors are provided with access to professional advice and training to carry out their director duties, and are regularly briefed on updates to regulations, policies and accounting standards that affect First REIT or have an important bearing on the Manager's or Directors' disclosure obligations during board meetings.
+
+All employees are required to sign off on First REIT's business conduct and compliance policies to demonstrate awareness and knowledge of sound business practices.
+
+First REIT engages third-party auditors to perform audits on financials and internal controls on an annual basis, ensuring compliance with applicable laws and regulations. The Manager is acutely aware of the risk of data breaches, which is an issue with significant financial implications and a material threat to the trust and reputation built up with key stakeholders. The Manager has established a Personal Data Protection Policy aligned with the Personal Data Protection Act ("PDPA") 2012, which all employees comply with.
+
+The Manager has a Whistle Blowing policy and procedure in place providing a channel for any wrong-doing or grievance to be reported. Employees can raise concerns through mail or a dedicated email address which is directly linked to the Group Ethical Officer. An anonymous hotline is available for employees to report possible improprieties, misconduct or wrongdoing relating to the Trust, the Manager or its officers in matters of financial reporting or other matters in confidence and good faith.
+
+The Manager also has in place a grievance mechanism for employees to raise concerns and seek redress as part of the commitment to maintaining a safe and inclusive work environment. Procedures are made known to all employees through the Employee Handbook, and employees are encouraged to report any harassment or inappropriate behaviour that occurs. Whistle blowing reports and grievances are kept confidential and protection from forms of retaliation against whistleblowers are strictly enforced.
+
+#### Performance against Targets
+
+First REIT reported zero cases of regulatory breaches or non-compliance resulting in significant fines and non-monetary sanctions, zero cases of data security breaches, as well as zero confirmed cases of corruption. First REIT also recorded no grievances cases in FY2024.
+
+<!-- PAGE 63 -->
+
+| Policies | Description of policies |
+|-|-|
+| <p>Conflict of Interest</p> <img alt="Icon of a head with a lightning bolt, symbolizing conflict or a warning." data-bbox="172 427 271 528" src="a83b5d50b3b9c79d6564af4b6e4415e6_img.jpg"/> | <ul style="list-style-type: none"> <li>Sets out the conditions and procedures governing employees' use of corporate opportunities and the use of confidential information for personal gain</li> <li>The Manager will not manage any other real estate investment trust that invests in the same types of properties as First REIT</li> <li>All staff will be employed by the Manager</li> <li>All resolutions in writing of the directors in relation to matters concerning First REIT must be approved by a majority of the board, including at least one independent director</li> </ul> |
+| <p>Personal Data Protection Policy</p> <img alt="Icon of a briefcase with a checkmark, symbolizing data protection or compliance." data-bbox="172 712 271 813" src="68deb11be2ef25ce0a853bce6cd08451_img.jpg"/> | <ul style="list-style-type: none"> <li>PDPA protects the rights of individuals over their personal data, including rights of access and correction, and the need for organisations to collect, use or disclose personal information for a legitimate and reasonable purpose</li> <li>The Manager's Personal Data Protection Policy is aligned with PDPA including procedures for the collection of personal data, a do-not-call register and the distribution of a Personal Data Protection Policy handbook</li> </ul> |
+| <p>Whistle Blowing Policy</p> <img alt="Icon of a person at a desk with a speech bubble, symbolizing reporting or communication." data-bbox="172 936 271 1037" src="cb48b65e780fa7a8563a3afa3e4c1a5e_img.jpg"/> | <ul style="list-style-type: none"> <li>Mechanisms and procedures are in place for employees to report incidents of fraud, corruption, dishonest practices or other matters relating to First REIT or the Manager, and for independent investigation of report and appropriate follow-up actions (the <b>"Concerns"</b>)</li> <li>All Concerns are kept confidential in the event of a report</li> </ul> |
+| <p>Anti-Money Laundering Manual</p> <img alt="Icon of a hand putting money into a box, symbolizing financial transactions or laundering." data-bbox="172 1160 271 1261" src="f6b08d0d7d9135e776fc725baacf7277_img.jpg"/> | <ul style="list-style-type: none"> <li>Provides the principles, procedures and guidelines for deterring and dealing with incidents of money laundering and other types of suspicious financial activity</li> </ul> |
+| <p>Anti-Bribery/Anti-Corruption Policy</p> <img alt="Icon of a hand holding a stack of money, symbolizing bribery or corruption." data-bbox="172 1373 271 1473" src="b9a24e7bf46a3be22e1456fbf0fe7b9e_img.jpg"/> | <ul style="list-style-type: none"> <li>Provides guidelines on the acceptance and acknowledgement of gifts from business partners to employees</li> </ul> |
+| <p>Information Dealing Policy</p> <img alt="Icon of a hand holding a smartphone with a dollar sign, symbolizing financial information or trading." data-bbox="172 1597 271 1697" src="f43287baeb07ae0f195714ffe59b70ab_img.jpg"/> | <ul style="list-style-type: none"> <li>Sets out guidelines and rules on activities like insider trading which involve dealings in the securities of First REIT</li> </ul> |
+| <p>Related Party Transactions Policy</p> <img alt="Icon of a hand holding a document with arrows, symbolizing transactions or flow." data-bbox="172 1821 271 1921" src="b7156887031cb706f9742d7368485bd4_img.jpg"/> | <ul style="list-style-type: none"> <li>Establishes procedures to ensure that all related party transactions are undertaken on normal commercial terms and not prejudicial to the interests of First REIT and unitholders</li> </ul> |
+
+<!-- PAGE 64 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](8e7f7b57b2b087bea39bac584f91d580_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+### FINANCIAL PERFORMANCE
+
+#### Potential Impacts, Risks and Opportunities
+
+First REIT believes that the generation of sound economic and social value is strongly linked with financial performance. The overall financial performance of the Trust is communicated throughout the Annual Report, as well as in periodic reports, providing the necessary financial information for different stakeholders.
+
+#### Main Approach
+
+By maintaining a high-quality portfolio of healthcare real estate assets and growing the portfolio through yield accretive acquisitions and asset enhancement initiatives, First REIT generates sustainable economic benefits to its stakeholders. This provides for the maximisation of net asset value ("**NAV**") and distribution to its unitholders.
+
+This fundamental objective is exemplified in its target to deliver stable and sustainable cash distributions to its unitholders. First REIT continues to ensure that this target can be achieved each year, and financial metrics for tracking its performance can be found throughout the Annual Report.
+
+Healthy financial performance of healthcare assets also generates broader economic spillover benefits in its communities. This includes providing jobs and salaries, tax payments which help to support public infrastructure, revenues for its suppliers and support for the local economy.
+
+### FIRST REIT'S CLIMATE-RELATED RISKS
+
+First REIT has been identifying and disclosing its climate-related risks since FY2021, and does so by following the recommendations of the TCFD. In particular, First REIT assesses its climate-related risks according to the 4 pillars of the TCFD recommendations – Governance, Strategy, Risk Management and Metrics and Targets. In addition to its climate risk disclosures, the TCFD framework also enables First REIT to align with the guidelines on Environmental Risk Management for Asset Managers as set out by MAS.
+
+As the TCFD recommendations makes way for the IFRS S1 and S2 standards, First REIT will progressively look to align and expand on its disclosures to meet the requirements outlined by IFRS, as endorsed by ACRA-SGX. First REIT's responses to the 4 pillars of TCFD are set out below.
+
+![Illustration showing a globe with a plant growing on it, surrounded by stacks of coins and dollar signs, symbolizing sustainable growth and financial performance.](8c87fc8e30ed17fce444e09279bb1da3_img.jpg)
+
+Illustration showing a globe with a plant growing on it, surrounded by stacks of coins and dollar signs, symbolizing sustainable growth and financial performance.
+
+<!-- PAGE 65 -->
+
+| TCFD Pillar | TCFD Component | First REIT's Response |
+|-|-|-|
+| <b>Governance</b> | The Board's oversight of climate-related risks and opportunities. | <p>The Board is responsible for maintaining effective oversight over the implementation of EnRM and disclosures of climate-related risks, supported by First REIT's Sustainability Team.</p> <p>Responsibilities of the Board include:</p> <ul style="list-style-type: none"> <li>• Approving the EnRM framework, environmental policies to manage the REIT's climate and environmental risks</li> <li>• Setting clear roles and responsibilities of the Board and senior management covering personnel and functions, also to live up to First REIT's fiduciary role and its moral and legal obligations in relation to its unitholders</li> <li>• Integrating environmental risks into the investment management framework and due diligence procedures for portfolio management</li> <li>• Ensuring directors have adequate understanding of environmental risk, and senior management is equipped to deal with environmental risks</li> <li>• Validating and approving the assessment of First REIT's material ESG topics annually and overseeing progress against targets</li> </ul> <p>At board meetings held at least 4 times every year, the Board is updated with issues pertaining to environmental risk. Urgent environmental matters that require immediate attention are flagged to the Board directly for discussion to ensure a timely response.</p> |
+|  | Management's role in assessing and managing climate-related risks and opportunities. | <p>First REIT's management provides guidance to the Sustainability Team in developing and implementing the EnRM framework and policies.</p> <p>Responsibilities of management include:</p> <ul style="list-style-type: none"> <li>• Regularly reviewing the effectiveness of the EnRM framework, policies, tools, metrics and scenario analysis</li> <li>• Establishing an internal escalation process for managing and addressing environmental risks</li> <li>• Ensuring that adequate resources and capabilities are available for managing risks</li> <li>• Updating the Board on material environmental risks in a timely manner</li> </ul> <p>The Sustainability Team identifies its potential environmental and climate risks from engagement with operators of the Trust's hospitals and healthcare facilities, and works with tenants, property and asset managers to track and monitor these risks.</p> <p>First REIT is working to streamline and consolidate its existing policies and practices into an overarching ESG policy.</p> <p>With the introduction of First REIT's SFF, the SFWG was established to ensure that selection processes of First REIT's healthcare assets comply with the SFF. An ESMS team monitors the social impacts of First REIT properties that utilise the guarantee by CGIF. Together, the SFWG and ESMS teams work closely to manage the eligible portfolio of assets to ensure that social indicator levels are met. The SFF is reviewed on an annual basis to keep relevance to First REIT's business context. The teams manage social impact reporting to lenders, bond investors and CGIF, and monitors best practices for disclosures in sustainable capital markets. For more information on First REIT's social impact reporting, please refer to pages 71 to 73 of the Annual Report 2024.</p> <p>The Sustainability Team, SFWG and ESMS teams keep management regularly up to date on climate-related risks, and meet at least once a year. More information on First REIT's sustainability governance structure can be found on page 49 of the Annual Report 2024.</p> |
+
+<!-- PAGE 66 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](217bf78901e36d5f71fcf0b5dd7aea2e_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+| TCFD Pillar | TCFD Component | First REIT's Response |
+|-|-|-|
+| <b>Strategy</b> | <p>The climate-related risks and opportunities First REIT has identified over the short, medium, and long-term.</p> <p>The impact of climate-related risks and opportunities on First REIT's businesses, strategy, and financial planning.</p> <p>The resilience of First REIT's strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.</p> | <p>First REIT conducted its first climate risk assessment in FY2021 in line with TCFD and EnRM guidelines. This was substantiated in FY2022 with a qualitative climate scenario analysis, identifying short, medium and long-term risks and opportunities with a material financial impact on First REIT. First REIT selected 2 scenarios, a 2°C pathway and a 4°C pathway from the Network for Greening the Financial System ("<b>NGFS</b>") to comprehensively stress test the resilience of First REIT's portfolio of assets. These risks are taken into consideration for First REIT's potential acquisitions and divestments, accounting for possible impacts to First REIT's business strategy that may arise from climate change.</p> <p>First REIT determines its short-term to be 1-2 years, in line with existing business and financial planning cycles. The medium-term is 3-5 years, aligned with Singapore's national climate change targets. The long-term spans 10-30 years, in line with Paris Agreement targets.</p> <p>First REIT also determined that physical risks from extreme weather events are concentrated in Indonesia and Japan, which comprises the majority of its portfolio.</p> <p>First REIT reviews and updates the findings of this climate scenario analysis on an annual basis to ensure that it continues to be relevant to First REIT's businesses. The Manager has identified potential financial indicators relevant to First REIT's climate risks and opportunities, and moving forward will start to incorporate the additional climate-related disclosures set out in IFRS S2. First REIT plans to explore potential impacts of climate risks and opportunities across its value chain, as well as anticipated changes to First REIT's business model, transition plans and financial performance. For more information on the climate scenario analysis conducted by First REIT, see pages 66 to 70 of the Annual Report 2024.</p> <p>The Manager has identified several environmental issues and incorporated them into the due diligence process for asset enhancement and new acquisitions, including:</p> <ul style="list-style-type: none"> <li>• Pollution and the focus on aerosol and its impact on climate change</li> <li>• Energy efficiency through lighting solutions</li> <li>• Energy supply and mapping of renewable sources</li> <li>• GHG emissions including refrigerants</li> <li>• Hazardous waste management</li> <li>• Water supply and wastewater</li> </ul> <p>First REIT keeps updated on ongoing developments in the sustainability landscape and adopts a flexible approach to managing climate-related risks. To build competency, the Manager engages external consultants to conduct training on sustainability and sustainable finance on an annual basis.</p> <p>The Manager also engages an external consultant annually to assess the coverage of risks in the Enterprise Risk Management ("<b>ERM</b>") framework and registry, including risk centers and ratings. These engagements allow First REIT to build up its long-term resilience to climate risks, and identify and develop effective risk mitigation strategies.</p> |
+
+<!-- PAGE 67 -->
+
+| TCFD Pillar | TCFD Component | First REIT's Response |
+|-|-|-|
+| <b>Risk Management</b> | First REIT's processes for identifying and assessing climate-related risks. | The Manager has established an EnRM framework which has been approved by the Board, outlining the top-tier risks and events related to First REIT in terms of their vulnerabilities, impacts and likelihood. The Sustainability Team supports the Board in maintaining oversight of EnRM implementation and disclosures. |
+|  | First REIT's processes for managing climate-related risks. | To identify and assess First REIT's climate-related risks, an external consultant was engaged to conduct a climate scenario analysis in line with TCFD recommendations. Physical and transition risks were segregated into their respective risk drivers, and relevant financial impact indicators were identified for each risk driver. These impact indicators were used to assess the likelihood and magnitude of these risks. Climate risks were then grouped into high, medium and low impact and prioritised accordingly. |
+|  | How First REIT's processes for identifying, assessing, and managing climate-related risks are integrated into risk management. | As part of this exercise, it has been established that the Trust is exposed to extreme weather events in Indonesia and Japan, where the majority of First REIT's assets are located. Physical risks that may materialise include property damage and interruptions to the energy supply arising from natural disasters such as earthquakes and typhoons. Transition risks may materialise from the increased sustainability and climate-related reporting requirements. The full list of First REIT's climate-related risks, including estimated impacts, can be found in pages 62 to 70 of the Annual Report 2024. |
+|  |  | <p>ESG risks are included as part of First REIT's ERM framework, with risk ratings derived from a combination of the residual risk impact and residual risk likelihood. First REIT manages each risk topic by identifying the relevant internal risk owner and keeping up to date with relevant risk event updates and trends. Mitigation measures are identified and mitigation effectiveness subject to internal assessment.</p> <p>The main ESG risks included in First REIT's ERM are physical climate risks, as well as sustainability and climate-related reporting requirements.</p> <p>Mitigation measures include the following:</p> <ul style="list-style-type: none"> <li>• Annual review and renewal of insurance policies</li> <li>• Purchased insurance policies which covers fire events, general liability, and loss of rental income</li> <li>• Review of quarterly reports prepared by the lessees on all emergency drills and training performed</li> <li>• Periodic building audits performed by professionals to ensure that the building is able to withstand physical environmental risks</li> <li>• Internal review on sustainability reporting process</li> <li>• Engagement with stakeholder groups on issues of concern</li> <li>• Access to source document (e.g. utilities bills) for data validation</li> <li>• Engage external consultant to create awareness on ESG framework and reporting requirements</li> </ul> |
+
+<!-- PAGE 68 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](d091b5e790d0a8989de686e48854c200_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+| TCFD Pillar | TCFD Component | First REIT's Response |
+|-|-|-|
+| <b>Metrics and Targets</b> | <p>The metrics used by First REIT to assess climate-related risks and opportunities is in line with its strategy and risk management process.</p> <p>First REIT's Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas emissions, and the related risks.</p> <p>The targets used by First REIT to manage climate-related risks and opportunities and the performance against targets.</p> | <p>First REIT monitors the energy consumption of its office and assets as the key metric for assessing climate-related risks. The Manager reported Scope 2 emissions of 2,501.6 kg-CO<sub>2</sub> in FY2024, which are generated from office electricity consumption, together with emissions from its leased assets which are accounted under Scope 3. These leased emissions comprise the energy consumption for hospitals in Indonesia and nursing homes in Singapore. First REIT has no Scope 1 emissions.</p> <p>In FY2024, First REIT completed the rollout of its committed capital expenditure of over S\$1.3 million, to improve energy efficiency across its properties.</p> <p>First REIT has no planned use of renewable energy certificates ("RECs"), internal carbon pricing or carbon offsets, but will consider these as part of First REIT's decarbonisation roadmap going forward.</p> <p>More information on energy management can be found in page 55 of the Annual Report.</p> |
+
+As part of First REIT's climate risk assessment, a climate scenario analysis has been conducted to assess the resilience of First REIT and its portfolio against financial impacts that may arise from climate-related risks across Singapore, Indonesia and Japan. The Manager has identified 2 climate scenarios representing a 2°C pathway and a 4°C pathway to stress test the resilience of First REIT's assets against physical climate risks, involving the impacts from climate-related events like extreme weather, as well as transition risks arising from climate transition actions.
+
+First REIT takes reference from publicly available climate scenarios provided by NGFS, a 2°C pathway with greater transition risks arising from the accelerated transition to a low-carbon economy, and a 4°C pathway representing a business-as-usual scenario with no additional mitigation efforts being pursued globally, leading to a greater incidence of physical climate risks. The 2 climate scenarios chosen by First REIT, as well as the anticipated financial impacts arising from these risks, are detailed as follows.
+
+#### 4°C SCENARIO: BUSINESS-AS-USUAL
+
+The 4°C Scenario models a pathway where no additional mitigation efforts are pursued beyond those already in place today. As a result, global temperature rise continues unabated, and the world experiences more frequent, severe and unpredictable weather and climatic conditions. Both acute and chronic weather conditions arise, including tropical storms, heatwaves, rising sea levels and droughts, and they happen with increasing volatility.
+
+![Illustration of a business meeting with people standing around a large screen displaying charts and a globe.](76f09325a61a95da44adf53d3c04f424_img.jpg)
+
+Illustration of a business meeting with people standing around a large screen displaying charts and a globe.
+
+<!-- PAGE 69 -->
+
+The majority of these risks are projected to materialise over a longer-term horizon, ranging from at least 10 to 30 years. Expected impacts and drivers of these risks are as follows:
+
+#### ESTIMATED RISK LEVEL
+
+| Category | Physical Risks | Markets | Impact Level | Financial Impact Indicators |
+|-|-|-|-|-|
+| <b>Acute</b> | <u>Tropical cyclones/ typhoons</u><br><br>According to a study under the 4°C Scenario, the frequency of these storms is expected to increase due to ocean warming.<br><br>They are more likely to cause damage in coastal regions than inland regions due to their proximity to the water body. | Indonesia | Medium | Expenditures |
+|  |  | Japan | Medium |  |
+|  |  | Singapore | Low |  |
+| <b>Acute</b> | <u>Flash floods/ floods</u><br><br>For the 4°C Scenario, more than half of Indonesia's assets are extremely vulnerable to coastal flood risks. This causes infrastructure deterioration resulting in decreased accessibility of patients. | Indonesia | Medium | Revenue, Asset & Liabilities |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+| <b>Chronic</b> | <u>Rising global temperature and heatwaves</u><br><br>A 4°C increase in global mean temperature is likely to bring about the onset of frequent heatwaves, leading to deterioration of infrastructure across assets exposed to severe weather conditions and increase in maintenance cost.<br><br>Indonesia in particular, is positioned as one of the most vulnerable countries to extreme heatwaves. | Indonesia | High | Expenditures |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+| <b>Chronic</b> | <u>Rising sea levels</u><br><br>Under the 4°C Scenario, more than half of Indonesia's assets are extremely vulnerable to coastal flood risks. While Singapore is also a coastal city, the coastal flood risk is low due to the active measures put in place by the government as well as its operators. | Indonesia | Medium | Asset & Liabilities |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+
+<!-- PAGE 70 -->
+
+# Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](07084c9c570a88714025135af11324a0_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+### 2°C SCENARIO: LOW-CARBON TRANSITION
+
+The 2°C Scenario projects greater efforts to transition to a low-carbon economy, entailing successful efforts globally to keep temperature warming below the critical 2°C threshold by the end of the century. While this scenario may succeed in reducing physical climate risks compared as with a 4°C Scenario, greater efforts are required which entail significant overhaul of policies, technology, infrastructure and markets. As a result, transition risks may arise emanating from more stringent policies, liquidity risks, reputational and legal challenges, and greater market and stakeholder expectations on climate change. The time horizons for transition risks range from short to medium-term, and risks will be especially pronounced if societal changes are imposed and implemented abruptly, giving businesses inadequate time to adapt accordingly.
+
+The list of anticipated transition risks faced by First REIT is as follows:
+
+#### ESTIMATED RISK LEVEL
+
+| Category | Physical Risks | Markets | Impact Level | Financial Impact Indicators |
+|-|-|-|-|-|
+| Policy and Legal | <u>Carbon Tax</u><br><br>Implementation of carbon tax enacts a financial cost on GHG emissions. | Indonesia | Low | Assets & Liabilities |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+|  | <u>Litigation &amp; compliance risk</u><br><br>More stringent criteria of regulatory framework for green buildings in Indonesia and Japan pushes the need for compliance resulting in increased financial costs.<br><br>In Singapore, buildings would require compliance before the Temporary Occupation Permit ("TOP") clearance is given. | Indonesia | High | Expenditures |
+|  |  | Japan | High |  |
+|  |  | Singapore | Low |  |
+|  | <u>Government policies/ regulations</u><br><br>With greater push for low-carbon economy, adoption of voluntary green building frameworks or energy-efficient technologies results in budgeting for capital expenditure. | Indonesia | Low | Expenditures |
+|  |  | Japan | Medium |  |
+|  |  | Singapore | Low |  |
+
+<!-- PAGE 71 -->
+
+| Category | Physical Risks | Markets | Impact Level | Financial Impact Indicators |
+|-|-|-|-|-|
+| Reputation | <u>Shift in consumer preferences.</u><br><br>ESG-educated patients demand a facility that not only serves their healthcare needs but also has sustainable practices in place. | Indonesia | Medium | Revenue |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Medium |  |
+|  | <u>Increased stakeholder concern.</u><br><br>With the push for green hospitals, the lack of progression towards sustainable practices may influence the decision of potential investors. | Indonesia | Medium | Capital & Financing |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+| Technology | <u>Net-zero operations.</u><br><br>To transition to a low-carbon economy, the following measures would have to be taken: <ul style="list-style-type: none"> <li>• Implementing responsible waste management practices</li> <li>• Increasing the rate of recycling</li> <li>• Widely adopting renewable energy sources</li> </ul> | Indonesia | Low | Assets & Liabilities |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+|  | <u>Cost of transition to lower-emission technologies.</u><br><br>To meet low-emission goals, the implementation of new, low-emission technologies will gradually replace outdated systems. | Indonesia | Low | Expenditures |
+|  |  | Japan | Low |  |
+|  |  | Singapore | Low |  |
+
+<!-- PAGE 72 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](a5d51e317448b2a944e3dc28dcc6c4b7_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+### OPPORTUNITIES
+
+First REIT recognises that with risk comes opportunities, and hence the ongoing global effort to respond to the risks of climate change also poses opportunities for First REIT to respond and adapt in ways that opens up new business opportunities and social and economic impacts. Some of the opportunities First REIT has identified are as follows:
+
+#### ESTIMATED RISK LEVEL
+
+| Category | Physical Risks | Markets | Impact Level | Financial Impact Indicators |
+|-|-|-|-|-|
+| <b>Resource Efficiency</b> | <u>Resource efficiency</u><br><br>Retrofitting with the aim of improving operational efficiency increases First REIT's assets value over time. | Indonesia | High | Revenue, Capital & Financing |
+|  |  | Japan | High |  |
+|  |  | Singapore | High |  |
+| <b>Energy Source</b> | <u>Energy source</u><br><br>According to the International Renewable Energy Agency, energy production and use accounts for about two-thirds of global GHG emissions.<br><br>To be in line with the Paris Agreement of keeping global warming to no more than 1.5°C, emissions need to be reduced by 45% by 2030 and reach net zero by 2050.<br><br>Low carbon energy will work towards this goal and mitigate the effects of climate change.<br><br>Investments in renewable energy are expected to continue to grow, and the use of low emissions energy sources could strengthen First REIT's attractiveness to potential investors. | Indonesia | High | Expenditures, Capital & Financing |
+|  |  | Japan | Medium |  |
+|  |  | Singapore | High |  |
+| <b>Markets</b> | <u>Access to new opportunities</u><br><br>In mitigating climate risks, opportunities will open for collaboration or partnerships with local government and relevant authorities.<br><br>New opportunities can also be captured through underwriting or financing green bonds and infrastructure. | Indonesia | Medium | Revenue, Capital & Financing |
+|  |  | Japan | High |  |
+|  |  | Singapore | High |  |
+| <b>Resilience</b> | <u>Resilience planning</u><br><br>With long leases in place and key infrastructure in serving the healthcare needs of the community, resilience planning geared towards efficiency improvement would increase market valuation of its assets where investors are increasingly expected to see climate risks evaluated. | Indonesia | High | Revenue, Capital & Financing |
+|  |  | Japan | Medium |  |
+|  |  | Singapore | Medium |  |
+
+<!-- PAGE 73 -->
+
+### SOCIAL FINANCE REPORTING
+
+First REIT is committed to the significance of sustainable finance, and makes use of social finance instruments to channel investments towards projects with demonstrable social benefits aligned with UN Sustainable Development Goals. First REIT established a Social Finance Framework in March 2022 to serve as the foundation on which new modes of financing are tied towards projects with social goals. This framework allows First REIT to attain capital through loans and bonds that are tied to the attainment of social outcomes in line with UN SDG 3: Good Health and Well Being.
+
+First REIT's Social Finance Framework incorporates the 4 core components as outlined by the Social Bond Principles (2021) published by the International Capital Markets Association ("**ICMA**") and the Social Loan Principles (2021) published by the Loan Market Association ("**LMA**"). The 4 core components are:
+
+- Use of proceeds
+- Process for project evaluation and selection
+- Management of proceeds
+- Reporting
+
+The net proceeds of First REIT's social finance instruments are used exclusively for financing or refinancing eligible social assets ("**Eligible Assets**") together forming the "**Eligible Portfolio**". These include hospitals offering essential healthcare services to the general population that have an average number of hospital beds per 1,000 people below the regional average; and/or nursing homes with a target elderly population (defined as aged 65 and above and in need of nursing care) is higher than the global average; or any other class of healthcare properties that have a direct social impact on its target population where target population is defined as people in need of medical care and support within a reasonable distance from the specific healthcare property. Any asset which involves activities or production making use of exploitative forms of forced labour, child labour, or the production of or trade in alcoholic beverages excluding beer or wine will not qualify as an Eligible Asset.
+
+#### Allocation Reporting
+
+First REIT issued Singapore's first-ever healthcare social bond in April 2023 as part of its Social Finance Framework, raising S\$100 million in aggregate principal at 3.25%. The social bond is guaranteed by the Credit Guarantee and Investment Facility, a trust fund of the Asian Development Bank. 100% of the proceeds from the social bond are directed towards supporting better healthcare provision in Indonesia.
+
+#### Impact Reporting
+
+As part of its commitments outlined in the Social Finance Framework, First REIT publishes an annual account of the social impact generated by First REIT's hospitals and nursing homes. The social impact that First REIT contributes in bringing quality and affordable healthcare to the public is documented in the following pages.
+
+![Illustration of people building a city skyline with large leaves in the background.](0254ad6cef336c5495a4264f178f9d02_img.jpg)
+
+A stylized illustration showing four people working on a city skyline. One person is on a tall ladder painting a building, another is on the ground painting a base, and two others are also on the ground. Large, stylized leaves are in the background, and the scene is set against a light, hazy background.
+
+Illustration of people building a city skyline with large leaves in the background.
+
+<!-- PAGE 74 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.](2ee5c15604dce579e4f931d4566ce708_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.
+
+| No. | Hospitals in Indonesia (FY2024) | Province | Provincial Population (millions) | No. of operational beds | Outpatient Volume ('000) | % Provincial Population | BPJS Outpatient Volume ('000) | % Provincial Population | Inpatient Volume ('000) | % Provincial Population | BPJS Inpatient Volume ('000) | % Provincial Population |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| 1 | Siloam Hospitals Kupang | East Nusa Tenggara | 5.66 | 105 | 154.93 | 2.74 | 146.29 | 2.59 | 11.76 | 0.21 | 10.85 | 0.19% |
+| 2 | Siloam Hospitals Makassar | South Sulawesi | 9.46 | 100 | 205.70 | 2.17 | 98.22 | 1.04 | 22.40 | 0.24 | 13.09 | 0.14% |
+| 3 | Siloam Sriwijaya | South Sumatra | 8.84 | 100 | 290.22 | 3.28 | 71.91 | 0.81 | 14.70 | 0.17 | 4.37 | 0.05% |
+| 4 | Mochtar Riady Comprehensive Cancer Centre | DKI Jakarta | 11.34 | 215 | 177.43 | 1.56 | 45.71 | 0.40 | 14.19 | 0.13 | 5.11 | 0.05% |
+| 5 | Siloam Hospitals Lippo Village | Banten | 12.63 | 300 | 263.19 | 2.08 | 0.75 | 0.01 | 18.44 | 0.15 | 1.13 | 0.01% |
+| 6 | Siloam Hospitals Kebon Jeruk | DKI Jakarta | 11.34 | 239 | 189.85 | 1.67 | No BPJS License | 1.11 | 12.79 | No BPJS License | No BPJS License |  |
+| 7 | Siloam Hospitals Bali | Bali | 4.43 | 100 | 151.51 | 3.42 | 59.87 | 1.35 | 9.70 | 0.22 | 4.03 | 0.09 |
+| 8 | Siloam Hospitals TB Simatupang | DKI Jakarta | 11.34 | 203 | 116.09 | 1.02 | No BPJS License | 0.06 | 6.30 | No BPJS License | No BPJS License |  |
+| 9 | Siloam Hospitals Yogyakarta | Central Java | 38.28 | 104 | 126.70 | 0.33 | 83.81 | 0.22 | 6.52 | 0.02 | 4.16 | 0.01 |
+| 10 | Siloam Hospitals Manado | North Sulawesi | 2.70 | 102 | 101.83 | 3.77 | 73.43 | 2.72 | 11.24 | 0.42 | 8.24 | 0.30 |
+| 11 | Siloam Hospitals Purwakarta | West Java | 50.49 | 200 | 196.33 | 0.39 | 124.88 | 0.25 | 24.43 | 0.05 | 19.85 | 0.04 |
+| 12 | Siloam Hospitals Lippo Cikarang | West Java | 50.49 | 209 | 154.40 | 0.31 | 35.96 | 0.07 | 8.01 | 0.02 | 1.75 | 0.00 |
+| 13 | Siloam Hospitals Baubau | South East Sulawesi | 2.75 | 100 | 47.65 | 1.73 | 43.48 | 1.58 | 7.96 | 0.29 | 7.02 | 0.26 |
+| 14 | Siloam Hospitals Labuan Bajo | East Nusa Tenggara | 5.66 | 103 | 49.91 | 0.88 | 43.52 | 0.77 | 6.81 | 0.12 | 5.72 | 0.10 |
+| <b>Total</b> |  |  | <b>225.40</b> | <b>2,180</b> | <b>2,225.74</b> |  | <b>827.82</b> |  | <b>175.24</b> |  | <b>85.33</b> |  |
+
+(1) The summation variance for this table is due to rounding.
+
+<!-- PAGE 75 -->
+
+| No. | Nursing Homes in Japan (FY2024) | Prefecture | City | City Population | No. of operational rooms | % City Population |
+|-|-|-|-|-|-|-|
+| 1 | Hikari Heights Varus Ishiyama | Hokkaido | Sapporo | 1,965,823 | 117 | 0.006% |
+| 2 | Hikari Heights Varus Tsukisamu Koen | Hokkaido | Sapporo |  | 58 | 0.003% |
+| 3 | Hikari Heights Varus Fujino | Hokkaido | Sapporo |  | 139 | 0.007% |
+| 4 | Hikari Heights Varus Kottoni | Hokkaido | Sapporo |  | 281 | 0.014% |
+| 5 | Hikari Heights Varus Makomanai Koen | Hokkaido | Sapporo |  | 161 | 0.008% |
+| 6 | Varus Cuore Yamanote | Hokkaido | Sapporo |  | 59 | 0.003% |
+| 7 | Varus Cuore Sapporo-Kita & Annex | Hokkaido | Sapporo |  | 216 | 0.011% |
+| 8 | Elyson Gakuenmae | Nara-ken | Nara-shi | 346,994 | 92 | 0.027% |
+| 9 | Elyson Mamigaoka & Annex | Nara-ken | Katsuragi-shi | 37,792 | 160 | 0.423% |
+| 10 | Orchard Amanohashidate | Kyoto-fu | Miyazu-shi | 15,927 | 60 | 0.377% |
+| 11 | Orchard Kaichi North | Nagano-ken | Matsumoto-shi | 233,868 | 79 | 0.034% |
+| 12 | Orchard Kaichi West | Nagano-ken | Matsumoto-shi |  | 29 | 0.012% |
+| 13 | Medical Rehabilitation Home Bon Sejour Komaki | Aichi-ken | Komaki | 148,906 | 124 | 0.083% |
+| 14 | Loyal Residence Ayase | Kanagawa-ken | Ayase | 82,781 | 80 | 0.097% |
+| <b>Total</b> |  |  |  |  | <b>1,655</b> |  |
+
+City Population Source:  
+<https://www.city.matsumoto.nagano.jp/>  
+<https://www.city.katsuragi.nara.jp/index.html>  
+<https://www.city.miyazu.kyoto.jp/>  
+<https://www.city.sapporo.jp/index.html>
+
+<https://www.city.ayase.kanagawa.jp/index.html>  
+<https://www.city.komaki.aichi.jp/index.html>  
+<https://www.pref.nara.jp/>
+
+| No. | Nursing Homes in Singapore (FY2024) | Population | No. of operational beds | % City Population |
+|-|-|-|-|-|
+| 1 | The Lentor Residence | 6,036,860 | 208 | 0.003% |
+| 2 | Precious Homes @ Bukit Merah |  | 248 | 0.004% |
+| 3 | Precious Homes @ Bukit Panjang |  | 248 | 0.004% |
+| <b>Total</b> |  |  | <b>704</b> | <b>0.012%</b> |
+
+Population Source: <https://tablebuilder.singstat.gov.sg/table/TS/M810001>
+
+<!-- PAGE 76 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](15faea1eb0f5fbd0d54291a786091afc_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+## APPENDIX: ESG DATA SUMMARY
+
+|  |  | Units | 2023 | 2024 |
+|-|-|-|-|-|
+| <b>Direct (Scope 1) Greenhouse Gas Emissions</b> | Scope 1 GHG Emissions | kg-CO <sup>2</sup> | NA | NA |
+| <b>Indirect (Scope 2) Greenhouse Gas Emissions</b> | Scope 2 GHG Emissions |  | 2,622.7 | 2,501.6 |
+| <b>Other Indirect (Scope 3) Greenhouse Gas Emissions</b> | Cat 13 – downstream leased assets, Indonesia properties | t-CO <sup>2</sup> | 59,911.5 | 52,856.1 |
+|  | Cat 13 – downstream leased assets, Singapore properties |  | 672.5 | 667.9 |
+| <b>Energy Consumption</b> | Total Energy Consumption – Headquarter | kWh | 6,292.4 | 6,071.8 |
+|  | Total Energy Consumption – Indonesia properties | GWh | 68.9 | 69.4 |
+|  | Total Energy Consumption – Singapore properties |  | 1.6 | 1.6 |
+|  | Energy Intensity – Headquarter | kWh/m <sup>2</sup> | 25.1 | 24.2 |
+|  | Energy Intensity – Indonesia properties |  | 206.0 | 206.7 |
+|  | Energy Intensity – Singapore properties |  | 144.6 | 145.2 |
+| <b>Diversity</b> | Senior Management – Male | # | 2 | 2 |
+|  | Senior Management – Female |  | 2 | 2 |
+|  | Senior Management – Total |  | 4 | 4 |
+|  | Middle Management – Male |  | 2 | 2 |
+|  | Middle Management – Female |  | 6 | 7 |
+|  | Middle Management – Total |  | 8 | 9 |
+|  | Executives and Non-Executives – Male |  | 3 | 3 |
+|  | Executives and Non-Executives – Female |  | 5 | 7 |
+|  | Executives and Non-Executives – Total |  | 8 | 10 |
+|  | Incidents of discrimination |  | 0 | 0 |
+
+<!-- PAGE 77 -->
+
+|  |  | Units | 2023 | 2024 |
+|-|-|-|-|-|
+| <b>New employee hires</b> | Under 30 | # | 1 | 2 |
+|  |  | % <sup>(1)</sup> | 33 | 40 |
+|  | 30-50 years old | # | 2 | 2 |
+|  |  | % | 67 | 40 |
+|  | Above 50 years old | # | 0 | 1 |
+|  |  | % | 0 | 20 |
+|  | Male | # | 1 | 0 |
+|  |  | % | 33 | 0 |
+|  | Female | # | 2 | 5 |
+|  |  | % | 67 | 100 |
+| <b>Employee turnover</b> | Under 30 | # | 0 | 0 |
+|  |  | % <sup>(2)</sup> | 0 | 0 |
+|  | 30-50 years old | # | 2 | 2 |
+|  |  | % | 100 | 100 |
+|  | Male | # | 2 | 0 |
+|  |  | % | 100 | 0 |
+|  | Female | # | 0 | 2 |
+|  |  | % | 0 | 100 |
+| <b>Annual performance appraisal</b> | Percentage of employees receiving regular performance and career development reviews | % | 100 | 100 |
+
+(1) Denominator: out of all new employee hires
+
+(2) Denominator: out of total employees who left the organisation
+
+<!-- PAGE 78 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](cad9f65638b7c839304d8939cb11e6d2_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+|  |  | Units | 2023 | 2024 |
+|-|-|-|-|-|
+| <b>Average hours of training <sup>(3)</sup></b> | Male | hours | 36 | 26 |
+|  | Female |  | 20 | 24 |
+|  | Senior Management |  | 50 | 33 |
+|  | Middle Management |  | 13 | 22 |
+|  | Executives and Non-Executives |  | 24 | 21 |
+|  | Total |  | 25 | 25 |
+| <b>Health and Safety</b> | Number of man-hours worked | # | 42,367 | 47,944 |
+|  | Incidents resulting in high-consequence injuries or fatalities |  | 0 | 0 |
+|  | Incidents of work-related ill-health |  | 0 | 0 |
+|  | Incidents of non-compliance with regulations and/or voluntary codes concerning the health and safety impacts of products and services |  | 0 | 0 |
+| <b>Business Conduct and Compliance</b> | Cases of regulatory breaches or non-compliance resulting in significant fines and non-monetary sanctions | # | 0 | 0 |
+|  | Cases of data security breaches |  | 0 | 0 |
+|  | Confirmed cases of corruption and fraud |  | 0 | 0 |
+|  | Number of grievance cases received |  | 0 | 0 |
+
+(3) Average training hour data is restated from figures presented in SR2023, following verifications conducted during internal review.
+
+<!-- PAGE 79 -->
+
+## GRI CONTENT INDEX
+
+|  |  |
+|-|-|
+| <b>Statement of use</b> | First Real Estate Investment Trust has reported in accordance with the GRI Standards for the period 1 January 2024 to 31 December 2024. |
+| <b>GRI 1 used</b> | GRI 1: Foundation 2021 |
+| <b>Applicable GRI Sector Standard(s)</b> | None |
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| General Disclosures |  |  |  |  |  |
+| GRI 2: General Disclosures 2021 | 2-1 Organizational details | SR – About First REIT, page 46 |  |  |  |
+|  | 2-2 Entities included in the organization’s sustainability reporting | SR – About This Report, page 46 |  |  |  |
+|  | 2-3 Reporting period, frequency and contact point | SR – About This Report, pages 46 to 47 |  |  |  |
+|  | 2-4 Restatements of information | SR - ESG Data Summary, page 76 |  |  |  |
+|  | 2-5 External assurance | SR – About This Report, page 47 |  |  |  |
+|  | 2-6 Activities, value chain and other business relationships | AR – Corporate Profile, page 1<br>AR – At A Glance, page 2<br>AR – Letter to Unitholders, pages 8 to 10<br>AR – Trust Structure, page 17<br>AR – Investor Relations, pages 42 to 44 |  |  |  |
+|  | 2-7 Employees | SR – Strengthening Social Fabric > Main Approach to Diversity and Inclusion, page 57 |  |  |  |
+|  | 2-8 Workers who are not employees |  | a, b, c | N/A | Due to the nature of their business, First REIT does not employ workers who are not employees. |
+
+<!-- PAGE 80 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](48bd33b4281a86fca8d1147e46a766e6_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| General Disclosures |  |  |  |  |  |
+| GRI 2: General Disclosures 2021 | 2-9 Governance structure and composition | SR – First REIT’s Sustainability Approach, page 49<br>AR - Corporate Governance Section, page 90 |  |  |  |
+|  | 2-10 Nomination and selection of the highest governance body | AR – Corporate Governance Section, pages 94 to 95 |  |  |  |
+|  | 2-11 Chair of the highest governance body | AR – Corporate Governance Section, page 93 |  |  |  |
+|  | 2-12 Role of the highest governance body in overseeing the management of impacts | SR – First REIT’s Sustainability Approach, page 49 |  |  |  |
+|  | 2-13 Delegation of responsibility for managing impacts | SR – First REIT’s Sustainability Approach, page 49 |  |  |  |
+|  | 2-14 Role of the highest governance body in sustainability reporting | SR – First REIT’s Sustainability Approach, page 49 |  |  |  |
+|  | 2-15 Conflicts of interest | AR – Corporate Governance Section, page 110 |  |  |  |
+|  | 2-16 Communication of critical concerns | SR – Building Trust > Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+|  | 2-17 Collective knowledge of the highest governance body | AR – Corporate Governance Section, page 90 |  |  |  |
+|  | 2-18 Evaluation of the performance of the highest governance body | The evaluation of First REIT’s highest governance body does not include management of the organisation’s ESG impacts. |  |  |  |
+
+<!-- PAGE 81 -->
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| General Disclosures |  |  |  |  |  |
+| GRI 2: General Disclosures 2021 | 2-19 Remuneration policies | AR – Corporate Governance Section, page 98<br><br>First REIT’s remuneration policy is presently not linked to sustainability. |  |  |  |
+|  | 2-20 Process to determine remuneration | AR – Corporate Governance Section, page 98 |  |  |  |
+|  | 2-21 Annual total compensation ratio |  | a, b, c | Confidentiality constraints | Please see Annual Report 2024 pages 98 to 101. |
+|  | 2-22 Statement on sustainable development strategy | Board Statement, page 46 |  |  |  |
+|  | 2-23 Policy commitments | Disclosed throughout Sustainability Report 2024 |  |  |  |
+|  | 2-24 Embedding policy commitments | Disclosed throughout Sustainability Report 2024 |  |  |  |
+|  | 2-25 Processes to remediate negative impacts | SR – Building Trust > Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+|  | 2-26 Mechanisms for seeking advice and raising concerns | SR – Building Trust > Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+|  | 2-27 Compliance with laws and regulations | SR – Building Trust > Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+
+<!-- PAGE 82 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](d38282441e4548aa72ba677520ad9d77_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| General Disclosures |  |  |  |  |  |
+| GRI 2: General Disclosures 2021 | 2-28 Membership associations | REIT Association of Singapore, Securities Investors Association (Singapore), SG List Cos |  |  |  |
+|  | 2-29 Approach to stakeholder engagement | SR – First REIT’s Sustainability Approach > Stakeholder Engagement, page 50 |  |  |  |
+|  | 2-30 Collective bargaining agreements | None of our employees have joined a trade union |  |  |  |
+| Material topics |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-1 Process to determine material topics | SR – First REIT’s Sustainability Approach > Materiality, page 51 |  |  |  |
+|  | 3-2 List of material topics | SR – First REIT’s Sustainability Approach > Materiality, page 52 |  |  |  |
+| Financial performance |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Financial Performance, page 62 |  |  |  |
+| GRI 201: Economic | 201-1 Direct economic value generated and distributed | SR – FY2024 Highlights, page 48 |  |  |  |
+| GRI 201: Economic Performance 2016 | 201-2 Financial implications and other risks and opportunities due to climate change | SR – TCFD and Scenario Analysis, page 66 |  |  |  |
+| GRI 203: Indirect Economic Performance 2016 | 203-1 Infrastructure investments and services supported | SR – Social Finance Reporting, page 71 |  |  |  |
+
+<!-- PAGE 83 -->
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| Business Conduct and Compliance |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Building Trust> Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+| GRI 205: Anti-corruption 2016 | 205-1 Operations assessed for risks related to corruption | SR – Building Trust> Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+|  | 205-3 Confirmed incidents of corruption and actions taken | SR – Building Trust> Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+| GRI 418: Customer Privacy 2016 | 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data | SR – Building Trust> Main Approach to Business Conduct and Compliance, page 60 |  |  |  |
+| Energy Management |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Stewarding the Environment > Main Approach, page 55 |  |  |  |
+| GRI 302: Energy 2016 | 302-2 Energy consumption outside the organization | SR – Stewarding the Environment > Performance against Targets, page 55 |  |  |  |
+|  | 302-3 Energy intensity | SR – Stewarding the Environment > Performance against Targets, page 55 |  |  |  |
+| GRI 305: Emissions 2016 | 305-1 Direct (Scope 1) GHG emissions | SR – Stewarding the Environment > Performance against Targets, page 55 |  |  |  |
+|  | 305-2 Energy indirect (Scope 2) GHG emissions | SR – Stewarding the Environment > Performance against Targets, page 55 |  |  |  |
+|  | 305-3 Other indirect (Scope 3) GHG emissions | SR – Stewarding the Environment > Performance against Targets, page 55 |  |  |  |
+
+<!-- PAGE 84 -->
+
+###### Sustainability Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](8212253dda29ea0f382e879cda1715a1_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| Diversity and Inclusion |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Strengthening Social Fabric > Main Approach to Diversity and Inclusion, page 57 |  |  |  |
+| GRI 401: Employment 2016 | 401-1 New employee hires and employee turnover | SR – Strengthening Social Fabric > Main Approach to Diversity and Inclusion > New Employee Hires during FY2024, pages 57 to 58 |  |  |  |
+| GRI 405: Diversity and Equal Opportunity 2016 | 405-1 Diversity of governance bodies and employees | SR – Strengthening Social Fabric > Main Approach to Diversity and Inclusion, page 57 |  |  |  |
+| GRI 406: Non-discrimination 2016 | 406-1 Incidents of discrimination and corrective actions taken | SR – Strengthening Social Fabric > Main Approach to Diversity and Inclusion, page 57 |  |  |  |
+| Training and Development |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Strengthening Social Fabric > Main Approach to Training & Development, page 58 |  |  |  |
+| GRI 404: Training and Education 2016 | 404-1 Average hours of training per year per employee | SR – Strengthening Social Fabric > Main Approach to Training & Development, page 58 |  |  |  |
+|  | 404-2 Programs for upgrading employee skills and transition assistance programs | SR – Strengthening Social Fabric > Main Approach to Training & Development, page 58 |  |  |  |
+|  | 404-3 Percentage of employees receiving regular performance and career development reviews | SR – Strengthening Social Fabric > Main Approach to Training & Development, page 58 |  |  |  |
+
+<!-- PAGE 85 -->
+
+| GRI STANDARD/<br>OTHER SOURCE | DISCLOSURE | LOCATION | OMISSION |  |  |
+|-|-|-|-|-|-|
+|  |  |  | REQUIREMENT(S)<br>OMITTED | REASON | EXPLANATION |
+| Health and Safety |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+| GRI 403: Occupational Health and Safety 2018 | 403-1 Occupational health and safety management system | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+|  | 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+|  | 403-9 Work-related injuries | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+|  | 403-10 Work-related ill health | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+| GRI 416: Customer Health and Safety 2016 | 416-2 Incidents of non-compliance concerning the health and safety impacts of products and services | SR – Strengthening Social Fabric > Main Approach to Health & Safety, page 59 |  |  |  |
+| Community Support |  |  |  |  |  |
+| GRI 3: Material Topics 2021 | 3-3 Management of material topics | SR – Strengthening Social Fabric > Main Approach to Community Support, page 59 |  |  |  |
+| GRI 413: Local Communities 2016 | 413-1 Operations with local community engagement, impact assessments, and development programs | SR – Strengthening Social Fabric > Main Approach to Community Support, page 59 |  |  |  |
+
+<!-- PAGE 86 -->
+
+###### Sustainability Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.](d261c34ab67ef2c320a5b6a75ceed2c5_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing right at the end.
+
+## SASB INDEX
+
+| Category | Code | Disclosure Topic | Location |
+|-|-|-|-|
+| <b>Energy Management</b> | IF-RE-130a.1 | Energy consumption data coverage as a percentage of total floor area, by property sector | 73.1%<br><br>Energy consumption data covers the electricity consumption of First REIT's corporate office and healthcare properties (excluding those in Japan). |
+|  | IF-RE-130a.2 | 1) Total energy consumed by portfolio area with data coverage, (2) percentage grid electricity and (3) percentage renewable, by property sector | SR – Stewarding the Environment > Performance against Targets, page 55<br><br>First REIT's corporate office and portfolio of healthcare properties, located in Indonesia, Japan, and Singapore, obtain electricity from the grid. They do not utilise renewable energy sources. |
+|  | IF-RE-130a.3 | Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property sector | SR – Stewarding the Environment > Performance against Targets, page 55 |
+|  | IF-RE-130a.4 | Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property sector | First REIT's portfolio does not currently have established energy ratings or ENERGY STAR certifications. |
+|  | IF-RE-130a.5 | Description of how building energy management considerations are integrated into property investment analysis and operational strategy | SR – Stewarding the Environment > Performance against Targets, page 55<br><br>SR – TCFD and Scenario Analysis, page 62 |
+| <b>Water Management</b> | IF-RE-140a.1 | Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property sector | Not applicable. As operational control of water management resides with the operators under master lease agreements, First REIT has determined "Water and Effluents" to be non-material for reporting. |
+|  | IF-RE-140a.2 | (1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property sector |  |
+|  | IF-RE-140a.3 | Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property sector |  |
+|  | IF-RE-140a.4 | Description of water management risks and discussion of strategies and practices to mitigate those risks |  |
+
+<!-- PAGE 87 -->
+
+| Category | Code | Disclosure Topic | Location |
+|-|-|-|-|
+| <b>Management of Tenant Sustainability Impacts</b> | IF-RE-410a.1 | (1) Percentage of new leases that contain a cost recovery clause for resource efficiency- related capital improvements and (2) associated leased floor area, by property sector | Not applicable. |
+|  | IF-RE-410a.2 | Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property sector | Not applicable. |
+|  | IF-RE-410a.3 | Discussion of approach to measuring, incentivising and improving sustainability impacts of tenants | SR – Stewarding the Environment > Main Approach to Energy Management, page 55 |
+| <b>Climate Change Adaptation</b> | IF-RE-450a.1 | Area of properties located in 100-year flood zones, by property sector | SR – TCFD and Scenario Analysis, page 67<br><br>First REIT monitors the resilience of its assets against physical climate risks, particularly in Indonesia, where over half of its assets face flood risks under a 4°C warming scenario. |
+|  | IF-RE-450a.2 | Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks | SR – TCFD and Scenario Analysis, page 66 |
+| <b>Activity Metric</b> | IF-RE-000.A | Number of assets, by property sector | 32 |
+|  | IF-RE-000.B | Leasable floor area, by property sector | 450,085 sqm |
+|  | IF-RE-000.C | Percentage of indirectly managed assets, by property sector | 100% |
+|  | IF-RE-000.D | Average occupancy rate, by property sector | 100% |
+
+![A stylized illustration featuring a globe, a computer monitor displaying a bar chart, a pie chart, a pencil, a pen, and a stack of books, symbolizing global business and sustainability reporting.](d4adfc6e910fa1c0c08db2ba4da84754_img.jpg)
+
+A stylized illustration featuring a globe, a computer monitor displaying a bar chart, a pie chart, a pencil, a pen, and a stack of books, symbolizing global business and sustainability reporting.
+
+<!-- PAGE 88 -->
+
+# Corporate Governance Report
+
+First Real Estate Investment Trust ("**First REIT**"), constituted as a real estate investment trust, is externally managed by First REIT Management Limited (in its capacity as manager of First REIT) (the "**Manager**") and accordingly, has no personnel of its own. The Manager has the responsibility of managing the business conducted by First REIT and is dedicated to maintaining high standards of corporate governance.
+
+This report sets out the Manager's corporate governance practices for the financial year ended 31 December 2024 ("**FY2024**"). The Manager is pleased to report that it has complied with the Code of Corporate Governance 2018 issued by the Monetary Authority of Singapore (the "**MAS**", and the Code of Corporate Governance 2018 issued by the MAS, the "**Code**") in all material respects and to the extent that there are any deviations from the Code, the Manager will provide explanations for such deviation and details of the alternative practices which have been adopted by First REIT which are consistent with the relevant principle of the Code.
+
+## THE MANAGER OF FIRST REIT
+
+The Manager has general powers of management over the assets of First REIT. The Manager's main responsibility is to manage the assets and liabilities of First REIT in the best interests of unitholders of First REIT (the "**Unitholders**").
+
+The primary role of the Manager is to set the strategic direction of First REIT. This includes making recommendations to Perpetual (Asia) Limited, in its capacity as trustee of First REIT (the "**Trustee**"), on any acquisition, divestment or enhancement of assets of First REIT. The research, analysis and evaluation required for the above purposes are co-ordinated and carried out by the Manager. The Manager is also responsible for the risk management of First REIT.
+
+Other functions and responsibilities of the Manager include:
+
+- (i) using its best endeavours to carry on and conduct its business in a proper and efficient manner and to conduct all transactions with, or on behalf of First REIT, at arm's length and on normal commercial terms;
+- (ii) preparing property plans on a regular basis which may contain proposals and forecasts on net income, capital expenditure, sales and valuations, explanation of major variances to approved budgets, written commentary on key issues and any other relevant assumptions. The purpose of these plans is to explain the performance of First REIT's properties;
+- (iii) ensuring compliance with applicable requirements, laws and regulations, such as those set out in the listing manual of Singapore Exchange Securities Trading Limited (the "**SGX-ST**", and the listing manual of the SGX-ST, the "**Listing Manual**"), the Code on Collective Investment Schemes (the "**CIS Code**") issued by the MAS (including Appendix 6 of the CIS Code (the "**Property Funds Appendix**")), the Capital Markets Services Licence ("**CMS Licence**") for real estate investment trust ("**REIT**") management issued by the MAS, the Securities and Futures Act 2001 ("**SFA**"), the Securities and Futures (Licensing and Conduct of Business) Regulations (the "**SFLCB Regulations**"), the Code, the Singapore Financial Reporting Standards and any tax ruling and all relevant contracts, as well as ensuring that the Manager's obligations under the trust deed constituting First REIT dated 19 October 2006 (as amended, supplemented or varied) (the "**Trust Deed**") are properly carried out; and
+- (iv) attending to all regular communication with Unitholders.
+
+<!-- PAGE 89 -->
+
+![Decorative graphic element consisting of a series of horizontal bars with a stylized arrow pointing right.](1c400e230f5afea700dd359f589c1697_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars with a stylized arrow pointing right.
+
+The Manager has been granted a CMS Licence by the MAS and its officers are authorised representatives under the SFA. The Manager appoints experienced and well-qualified management personnel to handle the day-to-day operations of the Manager.
+
+The Manager was appointed in accordance with the terms of the Trust Deed. The Trust Deed outlines certain circumstances under which the Manager can be removed, including by notice in writing given by the Trustee upon the occurrence of certain events, or by resolution passed by a simple majority of Unitholders present and voting at a meeting of Unitholders duly convened and held in accordance with the provisions of the Trust Deed. The Trust Deed will also be available for inspection at the registered office of the Manager during normal business hours<sup>1</sup> for so long as First REIT continues to be in existence.
+
+The Manager is 40% directly held by OUE Healthcare Limited ("**OUEH**") and 60% directly held by OUE Limited ("**OUE**"). The Manager's association with OUEH and OUE allows First REIT to be able to leverage on them to entrench its network and affiliations in the Asia Pacific region to pursue new avenues of growth and collaborations in the future.
+
+The global financial markets in 2024 have been characterized by volatility, partly due to interest rate cuts by the US Federal Reserve. The Board, in close collaboration with Management, has remained focused on optimising capital structure and maintained a disciplined approach to capital management. In order to manage currency risks, First REIT also entered into non-deliverable forward contracts and call spreads during 2024, to hedge net cashflow from Indonesia and Japan. The Manager, with strategic guidance from the Board, is committed to delivering sustainable long-term value to unitholders.
+
+## **BOARD MATTERS**
+
+### **Principle 1 : Board's Conduct of its Affairs**
+
+The board of directors of the Manager (the "**Directors**", and the board of Directors, the "**Board**") is entrusted with the responsibility of overall management of the Manager. The Board is responsible for the overall corporate governance of the Manager, including establishing goals for the management team of the Manager ("**Management**") and monitoring the achievement of these goals. The Manager is headed by an effective Board, which is collectively responsible and works with Management for the strategic business direction, risk management and the long-term success of First REIT. All Board members participate in matters relating to corporate governance, business operations and risk management, financial performance and sustainability issues. All Directors are fiduciaries who act objectively in the best interests of First REIT, and hold Management accountable for performance.
+
+Directors (whether individually or as a group) have separate and independent access to Management and the company secretary of the Manager (the "**Company Secretary**"), at the Manager's expense. The Company Secretary and/or his nominee attends all Board and Board Committee (as defined herein) meetings. The appointment and removal of the Company Secretary is a decision of the Board as a whole. In addition, the Directors, either individually or as a group, in furtherance of their duties, may seek and obtain independent professional advice (where necessary), at the Manager's expense.
+
+The Manager has adopted guidelines, details of which are also set out in this report, for Related Party Transactions (as defined herein) and dealing with conflicts of interests. Where a Director is conflicted in a matter, he or she will recuse himself or herself from the deliberations and abstain from voting on the matter.
+
+The Board is supported by the Audit and Risk Committee ("**ARC**") and Nominating and Remuneration Committee ("**NRC**", and together with the ARC, the "**Board Committees**") in discharging its responsibilities. The composition of the Board Committees is set out on pages 94 and 103 and the Corporate Information page of this Annual Report. The Board has delegated specific responsibilities to these Board Committees and their duties are described in this report. The compositions, duties, authorities and accountabilities of each Board Committee are set out in their respective written terms of reference. While these Board Committees have the authority to examine particular issues in their respective areas, the Board Committees report to the Board with their decisions and/or recommendations as the ultimate responsibility on all matters lies with the entire Board.
+
+---
+
+<sup>1</sup> Prior appointment with the Manager is required.
+
+<!-- PAGE 90 -->
+
+###### Corporate Governance Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](13167dabf1b789d860061e607fa23acb_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+#### Code of Conduct and Oversight of Management
+
+The Manager has adopted internal guidelines whereby certain key matters are specifically reserved for the Board's approval, such as business strategy and planning, acquisitions and disposal of properties, material financial commitments, loan facilities, distribution to Unitholders and maintaining a framework of prudent and effective controls, including a system of internal controls and an enterprise risk management ("**ERM**") framework. The Manager has also adopted a framework of delegated authorisation, as set out in its Limits of Authority ("**LOA**"). The LOA sets out the procedures and levels of authorisation required for specified transactions. It also sets out approval limits for operating and capital expenditure. The LOA also contains a schedule of matters specifically reserved for the Board's approval, which includes approval of annual business plans, operating budgets, statutory accounts, declaration of distribution per unit, and material transactions, namely, major acquisitions, joint ventures, strategic alliances, investment proposals, establishment of banking facilities and corporate restructuring. Matters specifically reserved for the Board's approval are clearly communicated to Management in writing.
+
+The Manager has adopted the OUE group's Code of Business Conduct and Ethics to set the appropriate tone from the top and document the desired organisational culture in order to ensure all employees are cognisant of the standards expected and to ensure proper accountability within the Manager.
+
+The Code of Business Conduct and Ethics embodies the Manager's commitment to conduct its businesses in accordance with all applicable laws, rules, regulations and the highest ethical standards and provides a communicable and understandable framework for all Directors and the employees of the Manager to observe the principles of honesty, integrity, responsibility and accountability at all levels of the organisation and in their relationships with customers, suppliers and amongst employees of the Manager, including situations where there are potential conflict of interests. The Code of Business Conduct and Ethics also stipulates the procedures for employees of the Manager to report incidents of existing or potential violation of the Code of Business Conduct and Ethics and provides protection for employees of the Manager who made such disclosures.
+
+All employees of the Manager are required to read and acknowledge the Code of Business Conduct and Ethics upon the commencement of his or her appointment or employment and on annual basis thereafter.
+
+#### Board Meetings and Activities
+
+The Board and Board Committees meet regularly to review the Manager's key activities. Board meetings are held quarterly (or more often if necessary) to discuss and review the strategies and policies of First REIT, including any significant acquisitions and disposals, the annual budget, the financial performance of First REIT against previously approved budget, and to approve the release of the quarterly business updates and the half-year and full-year results. The Board also reviews the risks to the assets of First REIT and acts judiciously upon any comments from the auditors of First REIT. During the financial year under review, the Board had 4 meetings.
+
+#### Provision of Information to the Board and Board's Access to Independent Professional Advice
+
+Management provides the Board with complete and adequate information in a timely manner, including board papers, budget, forecasts and management accounts, and on an ongoing basis. As a general rule, board papers are sent to Board members at least 7 days before the Board or Board Committee meeting in order to give Directors ample time to prepare for the meetings, make informed decisions and discharge their duties and responsibilities. This will enable them to attend and actively participate in discussions by perusing the contents of the reports and papers to be presented during the Board and Board Committee meetings, and provide an opportunity for relevant questions and discussions. Proposals on certain corporate undertakings are likewise provided to the Directors prior to the Board meetings set for this purpose. The Management is also required to furnish any additional information, when so requested by the Board, as and when the need arises. In line with the Manager's sustainability efforts and efforts for technological advancement, the Directors access and read Board and Board Committees papers using electronic devices to reduce paper waste. The Board reviews management reports and feasibility studies on individual development projects prior to approving major transactions. When necessary, additional Board meetings are held to address significant transactions or issues. The Constitution of the Manager provides for Board meetings to be held by way of telephone conference and video conference. If required, time is set aside for discussions amongst the non-executive and/or independent members of the Board without the presence of Management, in line with the provisions of the Code. The Board and Board Committees may also make decisions by way of circulating resolutions.
+
+<!-- PAGE 91 -->
+
+![Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.](3cafed55aa3e96e1fa3f979e715f881b_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.
+
+Newly appointed Directors are briefed by Management on the industry, business activities and strategic directions of First REIT and all relevant provisions that they need to comply with as well as their various duties as an executive, non-executive or independent director, where applicable, and induction, development, orientation and training programmes as well as site visits are organised for new Directors to ensure that they are familiar with the Manager's business and governance practices. Site visits to properties located overseas are organised to familiarise Directors with First REIT's properties and to facilitate better understanding of the assets' operations. Under Rule 210(5)(a) of the Listing Manual, a newly-appointed Director who has no prior experience as a director of an issuer listed on the SGX-ST will also be required to undergo mandatory training in the roles and responsibilities of a director of a listed issuer as prescribed by the SGX-ST, unless the NRC is of the view that training is not required because he or she has other relevant experience.
+
+No new Directors were appointed in FY2024.
+
+Directors are encouraged to participate in industry conferences, seminars and training programmes. Such training includes training sponsored by the SGX-ST, the Accounting and Corporate Regulatory Authority, Singapore Institute of Directors ("SID"), REIT Association of Singapore ("REITAS"), and Singapore Business Federation. The Directors may also receive further relevant training of their choice in connection with their duties as directors and the development and maintenance of their skills and knowledge, at the Manager's expense. The Directors have had opportunities for continuing education in a number of areas including directors' duties, corporate governance, financial reporting, insider trading, the Companies Act, the CIS Code and the Listing Manual, real estate-related matters and other areas such as sustainability to enhance their performance as Board and Board Committee members.
+
+On an ongoing basis, Directors are also briefed on any changes to regulations, policies and accounting standards that affects First REIT or have an important bearing on the Manager's or Directors' disclosure obligations during Board meetings. They are also given unrestricted access to professionals for consultation as and when they deem necessary at the Manager's expense. Periodically, the Directors are provided with bespoke briefings by professional legal and financial advisors on the latest developments and trends in the respective areas in which the Directors are required to discharge their duties. For FY2024, these briefings covered topics relating to environmental, social and governance developments including the upcoming International Sustainability Standards Board (ISSB) reporting requirements and the convergence of financial and sustainability reporting, and updates on geo-political and macroeconomic developments.
+
+The NRC makes recommendations to the Board on relevant matters relating to the review of training and professional development programs for the Board.
+
+The number of Board, ARC, NRC and general meetings held in FY2024 and the attendance by each of the Directors at these meetings are set out below:
+
+| Name of Director | Board Meetings | Audit and Risk<br>Committee Meetings | Nominating and<br>Remuneration<br>Committee Meetings | General Meetings |
+|-|-|-|-|-|
+|  | No. of meetings held<br>in FY2024: 4 | No. of meetings held<br>in FY2024: 4 | No. of meetings held<br>in FY2024: 1 | No. of meetings held<br>in FY2024: 1 |
+|  | Attended | Attended | Attended | Attended <sup>(1)</sup> |
+| Mr Christopher James Williams | 4 | NA | NA | 1 |
+| Mr Tan Kok Mian Victor | 4 | NA | NA | 1 |
+| Mr Chan Pengee Adrian | 4 | 4 | 1 | 1 |
+| Mr Ferris Charles Bye | 4 | 4 | NA | 1 |
+| Mr Tan Chuan Lye | 4 | 4 | 1 | 1 |
+| Mr Martin Lechner | 4 | 4 | NA | 1 |
+| Ms Minny Riady | 4 | NA | 1 | 1 |
+
+Note:
+
+(1) Annual general meeting was convened and held on 22 April 2024 at Hilton Singapore Orchard (333 Orchard Road, Singapore 238867), Grand Ballroom, Level 6, Orchard Wing.
+
+<!-- PAGE 92 -->
+
+###### Corporate Governance Report
+
+### Principle 2 : Board Composition and Guidance
+
+The Board presently comprises seven Directors, of whom four are independent Directors of the Manager ("**Independent Directors**"). Accordingly, more than half of the Board is made up of Independent Directors.
+
+The composition of the Board as at the date of this report are as follows:
+
+|  |  |
+|-|-|
+| Mr Christopher James Williams (Chairman) | (Non-Independent Non-Executive Director) |
+| Mr Tan Kok Mian Victor | (Chief Executive Officer (" <b>CEO</b> ") and Executive Director) |
+| Mr Chan Pengee Adrian | (Lead Independent Director) |
+| Mr Ferris Charles Bye | (Independent Director) |
+| Mr Tan Chuan Lye | (Independent Director) |
+| Mr Martin Lechner | (Independent Director) |
+| Ms Minny Riady | (Non-Independent Non-Executive Director) |
+
+As the current Chairman of the Board, Mr Christopher James Williams, is a Non-Independent Non-Executive Director, Mr Chan Pengee Adrian has been appointed as Lead Independent Director. The Lead Independent Director provides leadership in situations where the Chairman of the Board is conflicted and is available to Unitholders where they have concerns and for which contact through the normal channels of communication with the Chairman of the Board or Management has failed to resolve or is inappropriate or inadequate. As the Lead Independent Director, Mr Chan Pengee Adrian holds and leads meetings with the other Independent and/or Non-Executive Directors without the presence of the Management regularly and provides feedback to the Chairman of the Board after such meetings as appropriate. Mr Chan Pengee Adrian is also the Chairman of the NRC.
+
+No alternate Director had been appointed to the Board during FY2024.
+
+The composition of the Board (including selection of candidates for new appointments as part of the Board's renewal process) is determined using the following provisions:
+
+- the Chairman of the Board can be an Independent Director or a Non-Independent Director, provided that where the Chairman of the Board is a Non-Independent Director, a Lead Independent Director will also be appointed in line with the Code;
+- Independent Directors make up one-third of the Board, or if the Chairman of the Board is not independent, a majority of the Board; and
+- Non-Executive Directors make up a majority of the Board.
+
+#### Board Size, Composition and Diversity Policy
+
+The Board is of the view that its current composition comprises persons who as a group, provide the necessary core competencies and that the current Board size is appropriate, to facilitate effective decision making, robust deliberations and discussions and effective oversight over Management. The Board will continue to review its composition periodically, taking into account the need for progressive renewal of the Board, to ensure that the Board and the Board Committees have the appropriate size and comprise directors who as a group provide the appropriate balance and mix of skills, knowledge, experience, and other aspects of diversity such as gender and age, so as to avoid groupthink and foster constructive debate.
+
+The Manager recognises and embraces the importance and benefits of having a diverse Board to enhance the quality of the Board's performance, and in supporting First REIT's strategic objectives and sustainable development. The Board has implemented a board diversity policy (the "**Board Diversity Policy**") which takes into account relevant measurable objectives such as skills, experience and knowledge, gender, age, length of service, ethnicity and other relevant factors. It is paramount that the Manager continues to maintain the appropriate balance and mix of skills, knowledge and experience on the Board to support the needs and long-term sustainability of First REIT's businesses.
+
+<!-- PAGE 93 -->
+
+##### Diversity Targets, Plans, Timelines and Progress
+
+The Manager’s diversity targets, plans and timelines for achieving the targets and progress towards achieving the targets are set out as follows:
+
+##### Diversity Target, Plans and Timelines
+
+##### Gender
+
+At the recommendation of the NRC and in recognition of the merits of gender diversity, the Board has committed to (a) a target of at least 25% female Directors on the Board, which would allow for significant female representation on the Board; and (b) ensuring that female candidates are included for consideration when identifying suitable candidates for new appointments to the Board.
+
+The Board will strive to achieve the stated gender diversity target in the course of the progressive renewal of the Board by the end of 2030.
+
+The Manager believes that achieving the optimum gender representation on the Board would benefit the Manager by providing different perspectives. The push for greater gender diversity would also broaden the Manager’s talent pool and improve its critical thinking and problem-solving capabilities.
+
+##### Skillsets / Experience
+
+To ensure that the Directors as a group possess the core skillsets/ experience in the areas of real estate, healthcare, finance (including tax, accounting and audit), fund management, capital markets, business management, law, corporate governance and international experience, which are identified by the Board as critical for the Board to carry out its oversight of the business affairs, and to exercise effective stewardship and corporate governance of First REIT.
+
+The Manager believes that the diversity in the range of views and perspectives and the breadth of experience of the Directors would enhance the deliberations of the Board and facilitate the effective oversight of Management.
+
+##### Progress towards achieving targets
+
+**In Progress** - 1 out of 7 Directors (i.e. 14.3% of the Board) is female.
+
+![Donut chart showing gender distribution of the Board. The chart is divided into two segments: a small grey segment representing 1 Female Director (14.3%) and a larger dark grey segment representing 6 Male Directors (85.7%). The center of the donut chart contains the text 'Total: 7'.](a176fccc8d2f82d51ff0bd34ffa7aadc_img.jpg)
+
+**Gender**
+
+| Gender | Count | Percentage |
+|-|-|-|
+| Female Director | 1 | 14.3% |
+| Male Directors | 6 | 85.7% |
+| <b>Total</b> | <b>7</b> | <b>100%</b> |
+
+Donut chart showing gender distribution of the Board. The chart is divided into two segments: a small grey segment representing 1 Female Director (14.3%) and a larger dark grey segment representing 6 Male Directors (85.7%). The center of the donut chart contains the text 'Total: 7'.
+
+**Achieved** - The current Board comprises Directors who are corporate and business leaders and professionals with varied backgrounds, expertise and experience and possess the core skillsets/experience identified by the Board.
+
+![Horizontal bar chart showing the percentage of Directors with specific skillsets/experience. The bars are dark grey. The categories and percentages are: Real Estate (42.9%), Healthcare (28.6%), Finance (including tax, accounting and audit) (42.9%), Fund Management (42.9%), Capital Markets (57.1%), Business Management (100%), Law (28.6%), Corporate Governance (57.1%), and International Experience (100%).](5da9b66fdc5804979f63394c898950f1_img.jpg)
+
+**Skillsets/Experience**
+
+| Skillset/Experience | Percentage |
+|-|-|
+| Real Estate | 42.9% |
+| Healthcare | 28.6% |
+| Finance (including tax, accounting and audit) | 42.9% |
+| Fund Management | 42.9% |
+| Capital Markets | 57.1% |
+| Business Management | 100% |
+| Law | 28.6% |
+| Corporate Governance | 57.1% |
+| International Experience | 100% |
+
+Horizontal bar chart showing the percentage of Directors with specific skillsets/experience. The bars are dark grey. The categories and percentages are: Real Estate (42.9%), Healthcare (28.6%), Finance (including tax, accounting and audit) (42.9%), Fund Management (42.9%), Capital Markets (57.1%), Business Management (100%), Law (28.6%), Corporate Governance (57.1%), and International Experience (100%).
+
+Collectively, they have core competencies spanning the relevant areas of First REIT’s businesses and operations across the healthcare and healthcare-related real estate sectors.
+
+<!-- PAGE 94 -->
+
+###### Corporate Governance Report
+
+Apart from gender and skillsets/experience, the Board composition in terms of age group, independence, tenure and nationality as at 31 December 2024 is as follows:
+
+#### Other Board Diversity Metrics
+
+![Donut chart showing Board Independence: 4 Independent (light grey), 3 Non-Independent (dark grey). Total: 7. Donut chart showing Age Group: 4 in 56-64 range (light grey), 3 aged 65 and above (dark grey). Total: 7. Donut chart showing Length of Tenure: 1 with 5 to 6 years (light grey), 6 with >6 years (dark grey). Total: 7. Donut chart showing Nationality: 3 Singaporeans (light grey), 4 Non-Singaporeans (dark grey). Total: 7.](be2d9105109f6a87907ab68cb88548d9_img.jpg)
+
+**Board Independence**
+
+Total: 7
+
+● Independent: 4    ● Non-Independent: 3
+
+**Age Group**
+
+Total: 7
+
+● 56 - 64: 4    ● 65 and above: 3
+
+**Length of Tenure**
+
+Total: 7
+
+● 5 to 6 years: 1    ● >6 years: 6
+
+**Nationality**
+
+Total: 7
+
+● Singaporeans: 3    ● Non-Singaporeans: 4
+
+Donut chart showing Board Independence: 4 Independent (light grey), 3 Non-Independent (dark grey). Total: 7. Donut chart showing Age Group: 4 in 56-64 range (light grey), 3 aged 65 and above (dark grey). Total: 7. Donut chart showing Length of Tenure: 1 with 5 to 6 years (light grey), 6 with >6 years (dark grey). Total: 7. Donut chart showing Nationality: 3 Singaporeans (light grey), 4 Non-Singaporeans (dark grey). Total: 7.
+
+In relation to age, the Manager believes that age diversity would avoid the risk of groupthink and provide a wide range of viewpoints for more robust decision-making for the strategic future of First REIT. In relation to independence, the Manager believes that independent directors on the Board would benefit the Manager by promoting the exercise of objective independent judgement and by fostering constructive debate. In relation to tenure, the ongoing Board renewal process results in a Board with staggered tenure for the independent Directors. This provides continuity and stability for the conduct of Board matters while also ensuring the ability to have different perspectives and insights to meet the changing business environment of First REIT. In relation to nationality, as First REIT has properties across the region and it may pursue opportunities overseas, the Board’s diversity in its geographical background and experience has provided the Manager with international experience and insights, as well as in-depth understanding of First REIT’s investments and businesses in such countries.
+
+The NRC remains committed to implementing the Board Diversity Policy and any progress made towards the implementation of the board diversity policy will be reported to the Board on an annual basis and disclosed in future annual reports, as appropriate. The Board, taking into account the views of the NRC, considers that the current Board comprises persons with diverse business experiences and backgrounds who as a group, possess an appropriate balance and diversity necessary to manage and contribute effectively to the Manager and First REIT, as contemplated by the board diversity policy.
+
+Under the Code, for First REIT, an “independent” director is one who is independent in conduct, character and judgement, and has no relationship with the Manager, its related corporations, its substantial shareholders, or its officers or substantial Unitholders
+
+<!-- PAGE 95 -->
+
+![Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.](3954ab0a2b0bec93da69c4998c3fc200_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.
+
+that could interfere, or be reasonably perceived to interfere, with the exercise of the director's independent business judgement in the best interests of First REIT. In addition, under the Listing Manual and the SFLCB Regulations, an independent director is one who (i) is independent from any management and business relationship with the Manager and First REIT, (ii) is independent from any substantial shareholder of the Manager and any substantial Unitholder, (iii) is not a substantial shareholder of the Manager or a substantial Unitholder, (iv) has not served on the Board for a continuous period of nine years or longer and (v) is not employed or has been employed by the Manager or First REIT or any of their related corporations in the current or any of the past three financial years and does not have an immediate family member who is employed or has been employed by the Manager or First REIT or any of their related corporations in the current or any of the past three financial years and whose remuneration is or was determined by the Board. Based on a review of the relationships between the Directors, the Manager and First REIT in accordance with the requirements of the Code, the Listing Manual and the SFLCB Regulations, the Board considers Mr Chan Pengee Adrian, Mr Ferris Charles Bye, Mr Tan Chuan Lye and Mr Martin Lechner to be independent. Further details on the review of the Director's independence is found on page 96 of this Annual Report.
+
+The Non-Executive and Independent Directors contribute to the Board by monitoring and reviewing Management's performance. For the financial year under review, the Non-Executive, Independent and Non-Independent Directors have constructively challenged Management's proposals and decisions and reviewed Management's performance. They have unrestricted access to Management for any information that they may require to discharge their oversight function effectively. As Non-Executive Independent Directors constitute a majority of the Board, objectivity on Board's deliberations is assured.
+
+### **Principle 3 : Chairman and Chief Executive Officer**
+
+The positions of Chairman of the Board and CEO are held by separate individuals in order to maintain effective segregation of duties. The separation of responsibilities between the Chairman of the Board and CEO ensures an appropriate balance of power, increased accountability and greater capacity of the Board for independent decision making. The Board has established and set out in writing in the terms of reference in relation to the Chairman of the Board, CEO and Lead Independent Director, the division of responsibilities between the Chairman of the Board and the CEO. Mr Christopher James Williams is a Non-Independent Non-Executive Director and Chairman of the Board while the CEO, Mr Tan Kok Mian Victor, is an Executive Director. The Chairman of the Board and CEO are not related to each other. The Chairman of the Board is also not part of Management.
+
+There is a clear segregation of responsibilities between the leadership of the Board and Management, and no one individual has unfettered powers of decision making.
+
+As Chairman of the Board, Mr Christopher James Williams also promotes and leads the Manager in its commitment to achieve and maintain high standards of corporate governance. He bears primary responsibility for the workings of the Board, by ensuring effectiveness in all aspects of its role including setting the agenda for Board meetings with input from Management, ensuring sufficient allocation of time for thorough discussion of key agenda items at Board meetings, promoting an open environment within the Boardroom for constructive debate, encouraging the non-executive Directors to speak freely and contribute effectively, and exercising control over the quality, quantity and timeliness of information flow between the Board and Management. At Annual General Meetings ("**AGMs**") and other Unitholders' meetings, he plays a pivotal role in fostering constructive dialogue between Unitholders, the Board and Management.
+
+The CEO has full executive responsibilities over the business directions and operational decisions concerning the management of First REIT. He works closely with the Board to implement the policies set by the Board to realise the Manager's vision. The CEO provides leadership and guidance to Management in order to meet the strategic and operational objectives of First REIT. He develops and manages good relationships with the stakeholders, such as Unitholders, the regulators and the investment community.
+
+<!-- PAGE 96 -->
+
+###### Corporate Governance Report
+
+![Decorative horizontal bar with a stylized arrow pointing right.](e3a643cd846de9aea87f9111e89d2a58_img.jpg)
+
+Decorative horizontal bar with a stylized arrow pointing right.
+
+### Principle 4 : Board Membership
+
+The NRC comprises three members, a majority of whom (including the Chairman of the NRC) are Independent Directors and all of whom are Non-Executive Directors.
+
+The members of the NRC as at the date of this report are as follows:
+
+|  |  |
+|-|-|
+| Mr Chan Pengee Adrian (Chairman of the NRC) | (Lead Independent Director) |
+| Mr Tan Chuan Lye | (Independent Director) |
+| Ms Minny Riady | (Non-Independent Non-Executive Director) |
+
+During the financial year under review, the NRC had 1 meeting.
+
+The NRC is guided by its terms of reference which has been updated to be in line with the Code. The NRC's responsibilities include but are not limited to:
+
+- making recommendations to the Board on the appointment and re-appointment of Directors (including alternate directors, if applicable), the composition and size of the Board taking into consideration the Board Diversity Policy and the balance between Executive and Non-Executive Directors and between Independent and Non-Independent Directors appointed to the Board;
+- reviewing and making plans for succession of Directors, in particular, the appointment and/or replacement of the Chairman of the Board, the CEO and the key management personnel;
+- determining annually, and as and when required, the independence of a Director;
+- making recommendations to the Board on the process and objective performance criteria for assessing the performance and effectiveness of the Board as a whole, the Board Committees and the contribution of each Director to the effectiveness of the Board;
+- reviewing the training and professional development of the Board and to ensure that new directors are aware of their duties and obligations as directors of the Manager;
+- ensuring that the Manager is transparent in its remuneration policies, level and mix of remuneration, the procedure for setting remuneration and the relationships between remuneration, performance and value creation;
+- reviewing and recommending to the Board the specific remuneration packages for each Director as well as for the key management personnel;
+- recommending to the Board a framework of remuneration covering all aspects of remuneration including but not limited to Directors' fees, salaries, allowances, bonuses, options, unit-based incentives and awards and benefits-in-kind for each member of the Board and key management personnel; and
+- reviewing the Manager's obligations to ensure that contracts of service of CEO and key management personnel contain fair and reasonable termination clauses which are not overly generous.
+
+#### Process for Appointment of New Directors
+
+The Board has a formal and transparent process for the appointment and re-appointment of directors, taking into account the need for progressive renewal of the Board. In its selection, appointment and re-appointment process, the Board, through the NRC, will consider core competencies such as accounting, business acumen, familiarity with regulatory requirements and knowledge of risk management, audit and internal controls, as well as other aspects of diversity such as gender and age.
+
+Renewal or replacement of Board members does not necessarily reflect their contributions to date but may be driven by the need to position and shape the Board in line with the evolving needs of First REIT and the Manager. The Board believes that orderly succession and renewal is achieved as a result of careful planning, where the appropriate composition of the Board is under continuous review.
+
+<!-- PAGE 97 -->
+
+![Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.](cbc71401d9076257aa5f61c84fdcefea_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.
+
+As part of the search and nomination process for new Directors, the NRC will identify the relevant or desired skills, experience and other attributes that potential candidates should possess and may engage independent search companies if necessary, as well as leverage on business and other contacts. The NRC also takes into consideration whether a candidate had previously served on the board of companies with adverse track records or a history of irregularities, the MAS's fit and proper criteria for such appointment, and assesses whether a candidate's resignation from the board of any such company would cast any doubt on his or her ability to act as a Director of the Manager. Shortlisted candidates would be required to furnish their curriculum vitae containing information on their academic/professional qualification, work experience, employment history and experience (if any) as directors of listed companies. In addition, as part of the regulatory requirements, the MAS must approve any change of CEO or the appointment of any Director. Directors of the Manager are not subject to periodic retirement by rotation.
+
+Additionally, in the recruitment of Directors, the NRC is mindful of the importance of ensuring that the Board is well balanced and diverse. The details of the board diversity policy adopted by the NRC are set out above under "Principle 2: Board Composition and Guidance".
+
+The selection and nomination process involves the following:
+
+- (a) in carrying out its review, the NRC will take into account that the Board composition should reflect balance and diversity in matters such as skill representation and experience, tenure, management experience, gender, age, ethnicity and other relevant factors;
+- (b) the NRC will identify suitable candidates for appointment to the Board having regard to the skills required and the skills represented on the Board, and will consider the candidate's track record, experience and capabilities or such other factors including age and gender, as may be determined by the NRC to be relevant and which would contribute to the Board's collective skill set;
+- (c) external consultants may be used from time to time to access a wide base of potential non-executive Directors. Those considered will be assessed against a range of criteria, including the nominee's track record, background, experience, professional skills, financial literacy, core competencies and personal qualities. The NRC and the Board will also consider whether a candidate's skills and experience will complement the existing Board and whether the candidate has sufficient time available to commit to his responsibilities as a Director; and
+- (d) the NRC will make recommendations to the Board on candidates it considers appropriate for appointment.
+
+Where Directors step down from the Board, cessation announcements providing detailed reason(s) for the cessation are released on SGXNet in compliance with the requirements of the Listing Manual.
+
+#### Directors' Time Commitment
+
+In determining whether a Director has been adequately carrying out his/her duties as a director of the Manager, the NRC takes into account the assessments of the individual Director's effectiveness and his/her actual conduct on the Board. Further, the NRC believes that setting a maximum limit on the number of directorships a Director can hold is arbitrary, given that time requirements for each board may vary, and thus should not be prescriptive. Instead, a qualitative and holistic approach is taken. The number of directorships each Director holds should be considered on a case-by-case basis, as a person's available time and attention may be affected by many different factors, such as his/her individual capacity, whether he/she is in full-time employment, the nature of his/her other responsibilities and his/her near term plan regarding some of the other appointments. A Director with multiple directorships is expected to ensure that he/she can devote sufficient time and attention to the affairs of the Manager. Notwithstanding that the Directors have multiple listed company board representations and/or other principal commitments, the NRC has assessed each individual Director on his/her continuous contribution and commitment to the role and considered factors including but not limited to such Director's attendance at all the Board meetings in FY2024. The Board and NRC are satisfied that all Directors have discharged their duties adequately for FY2024.
+
+<!-- PAGE 98 -->
+
+###### Corporate Governance Report
+
+#### Review of Directors' Independence
+
+The independence of each Independent Director is reviewed annually by the NRC based on the criteria as set out in the Code, the Listing Manual and the SFLCB Regulations. The Independent Directors are required to declare their independence annually and disclose to the Board any relationships or appointments which would impair their independence. The following further sets out the assessment of each Director's independence against the requirements under the SFLCB Regulations:
+
+| Name of Director | (i) had been independent from the management of the Manager and First REIT during FY2024 | (ii) had been independent from any business relationship with the Manager and First REIT during FY2024 | (iii) had been independent from every substantial shareholder of the Manager and every substantial Unitholder of First REIT during FY2024 | (iv) had not been a substantial shareholder of the Manager or a substantial Unitholder of First REIT during FY2024 | (v) has not served as a director of the Manager for a continuous period of 9 years or longer as at the last day of FY2024 |
+|-|-|-|-|-|-|
+| Mr Christopher James Williams <sup>(1)</sup> | ✓ | - | - | ✓ | ✓ |
+| Mr Tan Kok Mian Victor <sup>(2)</sup> | - | ✓ | - | ✓ | ✓ |
+| Mr Chan Pengee Adrian <sup>(3)</sup> | ✓ | - | ✓ | ✓ | ✓ |
+| Mr Ferris Charles Bye | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mr Tan Chuan Lye | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Mr Martin Lechner | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Ms Minny Riady <sup>(4)</sup> | ✓ | - | - | ✓ | ✓ |
+
+##### Note(s):
+
+- (1) Mr Christopher James Williams was a director of OUE, which is a substantial shareholder of the Manager and a substantial Unitholder until he stepped down with effect from 1 April 2024. As such, during FY2024, pursuant to the SFLCB Regulations, Mr Williams is deemed (i) to have a business relationship with the Manager and First REIT; and (ii) to be connected to a substantial shareholder of the Manager and a substantial Unitholder. The Board is satisfied that, as at 31 December 2024, Mr Williams was able to act in the best interests of all the Unitholders as a whole. As at 31 December 2024, Mr Williams was able to act in the best interests of all the Unitholders as a whole.
+- (2) Mr Tan Kok Mian Victor is currently the CEO and Executive Director of the Manager. The Manager is a subsidiary of OUE. As such, during FY2024, pursuant to the SFLCB Regulations, Mr Tan is deemed (i) to have a management relationship with the Manager and First REIT; and (ii) to be connected to a substantial shareholder of the Manager and a substantial Unitholder. The Board is satisfied that, as at 31 December 2024, Mr Tan was able to act in the best interests of all the Unitholders as a whole. As at 31 December 2024, Mr Tan was able to act in the best interests of all the Unitholders as a whole.
+- (3) Mr Chan Pengee Adrian is Head of the Corporate Department and senior partner of Lee & Lee which is one of the Singapore law firms providing legal services to OUE group. OUE group wholly-owns the Manager. As such, during FY2024, pursuant to the SFLCB Regulations, Mr Chan is deemed to have a business relationship with the Manager. Nonetheless, the Board has in its review taken into consideration:
+ - Mr Chan having declared that he does not hold a substantial partnership interest (less than 10%) in Lee & Lee and the legal fees which Lee & Lee receives from OUE group are insubstantial in relation to Lee & Lee's overall revenue.
+ - Mr Chan does not personally represent First REIT in relation to any legal work by Lee & Lee for First REIT.
+ - Mr Chan is not involved in the selection and appointment of legal counsels for First REIT.
+
+Based on the above, the Board, having taken into account the views of the NRC, is of the view that Lee & Lee's business relationship with OUE group should not interfere with Mr Chan's ability to exercise independent judgment and Mr Chan should be treated as an Independent Director. The Board is satisfied that, as at 31 December 2024, Mr Chan was able to act in the best interests of all the Unitholders as a whole. As at 31 December 2024, Mr Chan was able to act in the best interests of all the Unitholders as a whole.
+
+<!-- PAGE 99 -->
+
+![Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.](d8c24fdf54047af0387c412d4d00eaf7_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.
+
+- (4) Ms Minny Riady is the sister of Mr James Tjahaja Riady and Dr Stephen Riady who are substantial shareholders of the Manager and substantial Unitholders. As such, during FY2024, pursuant to the SFLCB Regulations, Ms Riady is deemed to be connected to a substantial shareholder of the Manager and a substantial Unitholder. The Board is satisfied that, as at 31 December 2024, Ms Riady was able to act in the best interests of all the Unitholders as a whole. As at 31 December 2024, Ms Riady was able to act in the best interests of all the Unitholders as a whole.
+
+The NRC is satisfied that there are no relationships or circumstances identified in the Code, the Listing Manual and the SFLCB Regulations which affect or would likely affect the independent judgment of the Independent Directors and their ability to act in the best interests of all Unitholders as a whole.
+
+### **Principle 5 : Board Performance**
+
+The Manager believes that Board performance is ultimately reflected in the long-term performance of First REIT. The Board has in place a formal process for evaluating the performance of the individual director, Board and Board Committees annually.
+
+The NRC assesses the effectiveness of the Board as a whole and its Board committees and the contribution by the Chairman and each Director to the effectiveness of the Board. However, the NRC has the discretion to engage external consultants to conduct the evaluation, if it deems necessary. For FY2024, the evaluation was conducted internally. In respect of the Board and Board Committees evaluation, a collective assessment is conducted annually by means of a questionnaire individually completed by each Director. The evaluation categories covered in the questionnaire include Board composition and competency, Board information, Board process, Board accountability, performance benchmarking, Management communications, standard of conduct, risk management and internal controls. The results of this assessment are collated by the Company Secretary and discussed by the NRC and shared with the Board. Based on feedback from the Directors in the questionnaire, recommendations are implemented to further enhance the effectiveness of the Board, where appropriate. The Board believes that the collective performance of the Board and that of individual Board members are reflected in the proper guidance, diligence oversight and leadership which the Board provides to Management as well as the long-term performance of First REIT. The Board is also able to assess the Board Committees through their regular reports to the Board on their activities. Pursuant to the Board evaluation process, the Board is satisfied that it has achieved its performance objectives for FY2024.
+
+Individual Director self-assessment is also conducted to provide performance feedback which can help individuals to evaluate their own skills and performance as directors and motivate them to be more effective contributors. The evaluation categories covered in the individual assessment include independence and integrity, preparedness, participation, commitment and competence. The Board is cognisant that individual director evaluations are an important complement to the evaluation of a board's overall performance and the results of the Individual Director self-assessment are also compiled by the Company Secretary and discussed by the NRC and shared with the Board.
+
+Based on the NRC's assessment and review, the Board and its Board Committees operate effectively and each Director has given sufficient time and attention to the affairs of First REIT and has been able to discharge his or her duties as a Director effectively.
+
+No external facilitator was used in the evaluation process for the financial year under review.
+
+<!-- PAGE 100 -->
+
+###### Corporate Governance Report
+
+## REMUNERATION MATTERS
+
+### Principle 6 : Procedures for Developing Remuneration Policies
+
+### Principle 7 : Level and Mix of Remuneration
+
+### Principle 8 : Disclosure on Remuneration
+
+The Manager, not First REIT, remunerates all Directors and employees of the Manager. The remuneration of the Directors in the form of directors' fees is paid wholly in cash and the remuneration of the Management in the form of salaries, annual bonuses and allowances is also paid wholly in cash. There is no non-monetary remuneration in the form of stock options or Units paid to the Directors or the Management for FY2024.
+
+The NRC supports the Board in the remuneration matters of the Manager in accordance with the NRC's written terms of reference which has been updated in line with the Code. The NRC sets the remuneration framework of the Manager, taking into account industry practices, responsibilities and contributions and other conditions within the industry in relation to the remuneration, (i) to ensure that the compensation offered by the Manager are competitive and will attract, retain and motivate Directors and key management personnel, namely the CEO, and (ii) for Directors to be good stewards of the Manager and First REIT, and for key management personnel with the required experience and expertise to run the Manager successfully for the long term. In developing and reviewing the remuneration framework for Directors and the key management personnel of the Manager, the NRC would take into consideration the Manager's existing remuneration policy and other conditions within the REIT management industry, such as the remuneration policies of comparable REIT managers. In this respect, a significant and appropriate proportion of the remuneration of executive directors and key management personnels is structured to link rewards to corporate and individual performance. The remuneration policy of the Manager is structured to attract and retain highly qualified persons, and the Manager's overall goal is to ensure value creation and the long-term sustainability and success of the Manager and First REIT, taking into account the strategic objectives of First REIT. In relation to the remuneration policy, the Board determines value creation to be the amount of value-add contributed by the individual, including but not limited to deal introduction to First REIT, cost-savings ideas and novel initiatives which have the potential of increasing the performance of First REIT and it is measured based on the monetary benefit/cost-savings which First REIT receives as a result of the value-add contributed by the individual Director and a key management personnel. The NRC considers all aspects of remuneration, including termination terms, to ensure they are fair.
+
+To further attract and retain highly qualified persons, the Manager established the succession planning framework as a strategy for identifying and developing future leaders for critical roles. This helps the Manager to prepare for contingencies by closing the gap of a departure and grooming high potential persons for advancement.
+
+The framework comprises the following three steps which allows the Manager to systematically manage the process and reduce any risk of gaps:
+
+- a) identify the critical roles, recognize capabilities of the critical roles and select the talent pool;
+- b) develop and implement succession and knowledge transfer plans; and
+- c) evaluate effectiveness.
+
+#### Remuneration of Non-Executive Directors
+
+The remuneration for each Non-Executive Director takes into account the relevant Director's contribution and responsibilities, including effort, attendance and time spent at Board and Board Committee meetings and the industry practices and norms on remuneration including guidelines set out in the Statement of Good Practice issued by the SID. The current remuneration framework for the Non-Executive Directors remains unchanged from that of the previous financial year.
+
+<!-- PAGE 101 -->
+
+![Decorative arrow graphic pointing right.](26093323280930c2453613a0c191a529_img.jpg)
+
+Decorative arrow graphic pointing right.
+
+The following are the components of the fee structure for Non-Executive Directors for FY2024:
+
+- 1) base fee for membership of the Board;
+- 2) fee for chairing the Board;
+- 3) fee for acting as Lead Independent Director;
+- 4) base fee for membership of the Board Committee; and
+- 5) fee for chairing the respective Board Committees.
+
+#### Disclosure of remuneration of the Directors for FY2024
+
+The remuneration of each Director (including the Executive Director and CEO) payable for FY2024 is set out below:
+
+| Name of Director | Base/<br>Fixed Salary | Variable or<br>Performance-<br>related<br>Bonuses | Directors'<br>Fees <sup>(1)</sup> | Others | Total<br>Remuneration |
+|-|-|-|-|-|-|
+|  | % | % | % | % | S\$ |
+| Mr Christopher James Williams | - | - | 100 | - | 100,000 <sup>(2)</sup> |
+| Mr Tan Kok Mian Victor | 74 | 26 | - | - | 525,000 <sup>(3)</sup> |
+| Mr Chan Pengee Adrian | - | - | 100 | - | 126,250 <sup>(4)</sup> |
+| Mr Tan Chuan Lye | - | - | 100 | - | 81,250 <sup>(5)</sup> |
+| Mr Martin Lechner | - | - | 100 | - | 68,750 <sup>(6)</sup> |
+| Mr Ferris Charles Bye | - | - | 100 | - | 106,250 <sup>(7)</sup> |
+| Ms Minny Riady | - | - | 100 | - | 62,500 <sup>(8)</sup> |
+
+##### Notes:
+
+- (1) The framework for determining the Directors' Fees in FY2024 is as follows: (i) S\$50,000 for acting as the Chairman of the Board; (ii) S\$50,000 for acting as a member of the Board; (iii) S\$20,000 for acting as the Lead Independent Director; (iv) S\$37,500 for acting as the Chairman of the ARC; (v) S\$18,750 for acting as a member of the ARC; (vi) S\$25,000 for acting as the Chairman of the NRC; and (vii) S\$12,500 for acting as a member of the NRC.
+- (2) The fees payable to Mr Christopher James Williams comprise (i) S\$50,000 for acting as the Chairman of the Board and (ii) S\$50,000 being member of the Board.
+- (3) No director fee was payable to Mr Tan Kok Mian Victor in respect of his position as Executive Director in FY2024.
+- (4) The fees payable to Mr Chan Pengee Adrian comprise (i) S\$50,000 for acting as a member of the Board, (ii) S\$20,000 for acting as the Lead Independent Director, (iii) S\$18,750 for acting as a member of the ARC, (iv) S\$12,500 for acting as a member of the NRC and (v) S\$25,000 for acting as the Chairman of the NRC.
+- (5) The fees payable to Mr Tan Chuan Lye comprise: (i) S\$50,000 for acting as a member of the Board, (ii) S\$18,750 for acting as a member of the ARC and (iii) S\$12,500 for acting as a member of the NRC.
+- (6) The fees payable to Mr Martin Lechner comprise: (i) S\$50,000 for acting as a member of the Board and (ii) S\$18,750 for acting as a member of the ARC.
+- (7) The fees payable to Mr Ferris Charles Bye comprise: (i) S\$37,500 for acting as the Chairman of the ARC, (ii) S\$18,750 for acting as a member of the ARC and (iii) S\$50,000 for acting as a member of the Board.
+- (8) The fees payable to Ms Minny Riady comprise: (i) S\$50,000 for acting as a member of the Board and (ii) S\$12,500 for acting as a member of the NRC.
+
+The NRC had recommended to the Board a total amount of S\$545,000 as Directors' fees for FY2024, to be paid in arrears. This recommendation had been endorsed by the Board and will be tabled for approval at the Manager's forthcoming general meeting for shareholders' approval.
+
+<!-- PAGE 102 -->
+
+###### Corporate Governance Report
+
+#### Remuneration of Executive Director/CEO – Key Management Personnel
+
+The Manager advocates a performance-based remuneration package for the CEO. The CEO has a service agreement with the Manager and his remuneration and terms of appointment were negotiated and recommended by the NRC and is endorsed by the Board. The remuneration of the CEO comprises a fixed salary and a performance bonus which is tied to individual performance, the performance of First REIT and the Manager, as well as achieving sustainable returns for the Unitholders and other stakeholders. The CEO's performance bonus and remuneration increment are based on an annual appraisal exercise. The annual appraisal takes into consideration the contribution of the CEO towards the long-term strategic goals of First REIT and the Manager, including key factors such as:
+
+- 1) unit price performance and distribution per unit yield;
+- 2) containment of corporate and operation costs;
+- 3) effective capital management, including competitive cost of funds and fund raising fees;
+- 4) efforts to improve and maximise profit of the Manager and First REIT;
+- 5) effectiveness and productivity of acquisitions from the sponsor and third parties; and
+- 6) quality of risk management and control on an ongoing basis.
+
+The key factor based on the efforts to improve and align profit of the Manager and First REIT is in the long-term interests of First REIT and the Unitholders. The Manager is of the view that there is no misalignment of interest or conflict of interests with First REIT and its Unitholders.
+
+For the avoidance of doubt, the CEO, Mr Tan Kok Mian Victor, was not involved in the decision of the Board on his own remuneration.
+
+The remuneration of the CEO for FY2024 can be found in the "Disclosure of remuneration of the Directors for FY2024" section on page 99 of this Annual Report.
+
+The Code and the Notice to All Holders of a Capital Markets Services Licence for Real Estate Investment Trust Management (issued pursuant to Section 101 of the SFA) require (i) the disclosure of the remuneration of each individual Director and the CEO on a named basis, (ii) the disclosure of the remuneration of at least the top five key management personnel/top five executive officers (who are neither Directors nor the CEO), on a named basis, in bands of S\$250,000, and (iii) in aggregate the total remuneration paid to the top five key management personnel (who are not Directors or the CEO). In the event of non-disclosure, the Manager is required to provide reasons for such non-disclosure and state and explain how its practices are consistent with the aim and philosophy of the relevant Principle under the Code. After much deliberation, the Board is of the view that disclosure of the remuneration of the the top five key management personnel and/or executive officers (who are neither Directors nor the CEO) on a named basis, whether in exact quantum or in bands of S\$250,000, and the total remuneration paid to the top five key management personnel (who are not Directors or the CEO) will not be in the best interests of the Manager, First REIT or its Unitholders. In arriving at its decision, the Board had taken into consideration, inter alia, the commercial sensitivity and confidential nature of remuneration matters, the competitive nature of the REIT management industry, the competitive business environment which First REIT operates in, the importance of ensuring stability and continuity of business operations with a competent and experienced management team in place and the negative impact which such disclosure may have on the Manager in attracting and retaining talent for the Manager (at the Management levels) on a long-term basis. Given the competitive business environment which First REIT operates in, the Manager faces significant competition for talent in the REIT management sector, and it is not disclosing the remuneration of the top five key executive officers and/or management personnel (who are neither Directors nor the CEO), so as to minimise potential staff movement and undue disruption to its Management which would be prejudicial to the interest of the Unitholders. Further, such non-disclosure of remuneration does not affect the Manager's level of transparency on its remuneration policies, level and mix of remuneration, the procedure for setting remuneration and the relationships between remuneration, performance and value creation as such information have been disclosed in detail in the preceding paragraphs. Accordingly, the Board is of the view that the partial deviation from Provision 8.1 of the Code, i.e. the non-disclosure of the remuneration, whether in exact quantum or in bands of S\$250,000, of the top five key management personnel and/or executive officers (who are neither Directors nor the CEO), and the total remuneration paid to the top five key management personnel (who are not Directors or the CEO), is consistent with the intent of Principle 8 of the Code as a whole. For the above reasons, Unitholders' interests are not prejudiced by this partial deviation.
+
+<!-- PAGE 103 -->
+
+![Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.](060c8e342a5dc4633ed01c32ecb7e866_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.
+
+#### Remuneration of Key Executive Officers
+
+The remuneration of key executive officers comprise a fixed salary and a performance bonus.
+
+The Manager currently does not have in place long-term or short-term incentive schemes for executive Directors and key management personnel. While the Manager does not currently have in place a long-term component in the remuneration of its executive Directors and executive officers, it has incorporated the following key performance indicators ("**KPIs**") for the purpose of determining the executive Directors' and executive officers' remuneration: (i) strengthening of the balance sheet and improvements to the credit profile of First REIT; (ii) improvements to the financial performance of First REIT; (iii) investment management; (iv) benchmarking against other REITs; (v) investor outreach; (vi) enterprise risk management; and (vii) Environmental Social and Corporate Governance considerations. In measuring the performance of these KPIs, the Manager refers to factors such as the distribution per unit and total unitholder returns, which serve to align the interests of the executive Directors, executive officers and the Unitholders.
+
+The remuneration of key executive officers (excluding the CEO) is also based on the annual appraisal of each individual's performance and his/her contribution towards the long-term strategic goals of First REIT and the Manager. In particular, the performance bonus is linked to the performance of First REIT and the Manager. It is assessed based on the improvement in the net property income, distributable amount and distribution per unit of First REIT ("**Unit**") over the preceding year and as such, it is aligned with the interests of Unitholders.
+
+There is no existing service agreement entered into by the Directors or key management personnel with the Manager that provides for termination, retirement or post-employment benefits. During FY2024, the Manager has also not set aside nor accrued any amounts to provide for pension, retirement or similar benefits for the Directors and key management personnel.
+
+The Manager does not have any employee share or unit scheme and does not remunerate directors and key management personnel in the form of shares or interests in the sponsor or its related entities or any other entities.
+
+No Director or key management personnel is involved in the deliberation and decision in respect of his own individual fees/remuneration.
+
+No remuneration consultants were engaged in FY2024. The NRC may seek expert advice from remuneration consultants on remuneration matters, as and when necessary.
+
+#### Remuneration of Employees
+
+There were no employees of the Manager and its subsidiaries who were substantial shareholders of the Manager, substantial Unitholders or immediate family members of a Director, the CEO, a substantial shareholder of the Manager or a substantial Unitholder and whose remuneration exceeded S\$100,000 in FY2024. "Immediate family member" refers to the spouse, child, adopted child, step-child, sibling or parent.
+
+## **ACCOUNTABILITY AND AUDIT**
+
+### **Principle 9 : Risk Management and Internal Controls**
+
+#### Risk Management
+
+Effective risk management is a fundamental part of First REIT's business strategy. Recognising and managing risk is central to the business and to protecting Unitholders' interests. The Manager has in place an ERM framework and policies which have been approved by the Board that provide a structured approach to identifying and managing the material risks that would arise in the course of managing First REIT. The ERM framework and policies are monitored and reviewed by the Board and major developments or significant revisions to the ERM framework or policies will be submitted to the Board for approval. The ARC, together with the Manager, assists the Board to oversee, review and update the ERM framework to ensure its adequacy and effectiveness on the business, with internal controls in place to manage risks including but not limited to finance, operations, compliance and information technology. An independent consultant has been engaged to review the ERM framework, the identified risks and the controls annually. Material risks at both the Manager and First REIT are managed through this ERM framework.
+
+<!-- PAGE 104 -->
+
+###### Corporate Governance Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](240d66bb698171f40d1acd5b0c098e4f_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+The Board reviews the financial performance of the Manager and First REIT against a previously approved budget. The Board will also review the business risks of First REIT, examine liability management and will act upon any comments from the auditors of First REIT. In assessing business risks, the Board considers the economic environment and risks relevant to the healthcare industry. The Board reviews management reports and feasibility studies on individual development projects prior to approving major transactions. Management meets regularly to review the operations of the Manager and First REIT and discuss any disclosure issues.
+
+The Board is also responsible for presenting a balanced and understandable assessment of First REIT's performance, position and prospects to its Unitholders, the public and the regulators, including interim and other price-sensitive or trade-sensitive public reports and reports regulators (if required). The Management is accountable to the Board and provides the Board with quarterly business updates as well as half-year and full-year results, which are then reviewed and approved by the Board for release to the SGX-ST. Financial results and other price-sensitive or trade-sensitive information, annual reports and material corporate developments are disclosed via SGXNet.
+
+To keep Unitholders informed of material developments, the Manager releases updates by way of press releases and voluntary business updates, where applicable. The aim of such an engagement is to provide Unitholders with prompt disclosure of relevant information, to enable them to have a better understanding of First REIT's businesses and performance.
+
+A risk register with specific internal controls in place is maintained by the Manager to track, monitor, manage and/or mitigate risks faced by First REIT in the areas of strategic, operational, financial, compliance, information technology and sustainability. The risk register is reviewed by the Manager, the ARC and the Board quarterly and updated on a periodic basis.
+
+#### Internal Controls
+
+The Board recognises the importance of maintaining a sound system of internal controls to safeguard the interests of Unitholders and the assets of First REIT. Internal auditors and external auditors conduct audits that involve evaluating the adequacy and effectiveness of the material internal control systems of First REIT. The Board also notes that the system of internal controls is designed to manage rather than to eliminate risk of failure to achieve business objectives, as no system of internal controls will preclude all errors and irregularities. The Board believes that the present system of internal controls provides reasonable and adequate safeguard, and is effective against material financial misstatements or losses. The Board performs regular reviews to ensure that the system of internal controls continues to be reasonable, adequate and effective.
+
+Non-compliance and internal control weaknesses are noted by the internal auditors and their recommendations will be reported to the ARC. To date, there has been no identified non-compliance or internal control weakness of a material nature.
+
+For the financial year under review, the CEO and the Chief Financial Officer (the "**CFO**") of the Manager had provided assurance to the Board that the financial records of First REIT have been properly maintained and the financial statements give a true and fair view of the operations and finances of First REIT. The CEO and other key management personnel who are responsible had provided assurance to the Board that the risk management and internal control systems in place within First REIT were adequate and effective as at 31 December 2024 in addressing the material risks, including material financial, operational, compliance, information technology and sustainability risks which the Manager considers relevant and material to the operations of First REIT and its subsidiaries (the "**Group**"). The adequacy and effectiveness of the system of risk management and internal controls are reviewed at least annually by Management, the ARC and Board, taking into account the best practices and guidance in Risk Governance for Listed Boards issued by the Corporate Governance Council and the Listing Manual.
+
+The Board notes that the ERM framework and internal controls established by the Manager provide reasonable, but not absolute, assurance that First REIT will not be significantly affected by any event that can be reasonably foreseen as it strives to achieve its business objectives. However, the Board also notes that no system of risk management and internal controls can provide absolute assurance in this regard, or absolute assurance against poor judgment in decision making, human error, fraud, other irregularities and losses.
+
+<!-- PAGE 105 -->
+
+![Decorative graphic element consisting of a series of horizontal bars with a stylized arrow pointing right.](dec0c3c0f6c8b40f09964de5e01cd6d5_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars with a stylized arrow pointing right.
+
+For FY2024, based on the system of risk management and internal controls established and maintained by the Manager, work performed by the internal auditors and external auditors, information furnished by Management and observations made, the Board with the concurrence of the ARC, is of the view that the present risk management systems and internal controls are adequate and effective in addressing financial, operational, compliance, information technology and sustainability risks. For FY2024, the Board and the ARC have not identified any material weaknesses in the Manager's internal controls and risk management systems. The Manager has complied with Rule 1207(10) of the Listing Manual.
+
+The Manager has in place an ERM framework to assist in evaluating and monitoring changes to business operations that may result in significant risk exposure to First REIT.
+
+The ERM framework requires key functions and business units to report risk-related matters to the Board and Management on a regular basis. Timely reporting of high risks also provides reference points and guidance for the Board and Management to assess the adequacy and effectiveness of controls in place to manage these risks. For example, many organisations have observed an increase in propensity of wrongdoing in the current economic climate. Management, as part of the ERM framework, maintains vigilance over the relevant internal controls through mechanisms such as regular reviews and self-assessment of controls. With this, prompt decision making was undertaken to adjust operations to meet ongoing changes to the business environment due to regulatory advisory changes. The framework also provided enhanced clarity on potential financial challenges, which in turn allowed Management to monitor and react proactively to any potential incoming concerns.
+
+Through a regular risk review and monitoring process, Management and the Board are also better able to continuously engage and assure stakeholder groups that their interests remain a top priority for the Manager. Pertinent information is shared with stakeholders and Unitholders in a timely manner as appropriate through various platforms including press releases, investor presentations and analyst reports.
+
+The current ERM approach has also facilitated a balanced consideration between risk and strategy and allowed the Board and Management to deliberate on First REIT's risk appetite, and to be nimble and able to re-purpose some of First REIT's business operations to capitalise on growth opportunities. Having an effective ERM function drives quick decision-making to not only focus on value protection but to also look for areas for enhanced value creation.
+
+### **Principle 10 : Audit and Risk Committee**
+
+The ARC comprises the following four members, all of whom (including the Chairman of the ARC) are Non-Executive and Independent Directors. As at the date of this report, the members are as follows:
+
+|  |  |
+|-|-|
+| Mr Ferris Charles Bye (Chairman of the ARC) | (Independent Director) |
+| Mr Chan Pengee Adrian | (Lead Independent Director) |
+| Mr Tan Chuan Lye | (Independent Director) |
+| Mr Martin Lechner | (Independent Director) |
+
+The members of the ARC are appropriately qualified to discharge their responsibilities and have recent and relevant accounting and related financial management experience and expertise. None of the ARC members were previous partners or directors of the Manager's and First REIT's current auditing firm, KPMG LLP, in the past three financial years and none of the ARC members hold any financial interest in KPMG LLP.
+
+The role of the ARC is to monitor and evaluate the effectiveness of the Manager's internal controls. The ARC reviews the quality and reliability of information prepared for inclusion in financial reports, and is responsible for the nomination of external auditors and reviewing the adequacy of external audits in respect of cost, scope and performance. The ARC also assesses changes in accounting standards and accounting issues that may impact First REIT. The ARC has also been tasked by the Board to include risk management within its oversight role. This includes the review of material risks identified by the Manager with respect to the business operations of the Manager, First REIT and the assets of First REIT.
+
+<!-- PAGE 106 -->
+
+###### Corporate Governance Report
+
+The ARC is guided by its terms of reference which is in line with the Code and endorsed by the Board. The terms of reference was last updated in February 2025 to incorporate climate-related and sustainability risk. Under the terms of reference, the ARC's principal duties include but are not limited to:
+
+- reviewing and approving Related Party Transactions including ensuring compliance with the provisions of the Listing Manual relating to "interested person transactions" (as defined therein) and the provisions of the Property Funds Appendix relating to "interested party transactions" (as defined therein) (both such types of transactions constituting "**Related Party Transactions**");
+- reviewing external and internal audit reports to ensure that where deficiencies in internal controls have been identified, appropriate and prompt remedial action is taken by Management, including ensuring that the guidelines and procedures established to monitor Related Party Transactions have been complied with;
+- reviewing the assurance from the CEO and the CFO on the financial records and financial statements of First REIT;
+- ensuring that the internal audit function is effective, adequately resourced, independent of the activities it audits, and has appropriate standing within the Manager;
+- reviewing the adequacy, effectiveness, independence, scope and results of the external audit and internal audit functions;
+- reviewing the nature and extent of the significant risk which the Manager and First REIT is willing to take in achieving the strategic objectives and value creation for First REIT and to oversee the Manager's risk management framework and policies;
+- monitoring the procedures in place to ensure compliance with applicable legislation, such as the Listing Manual and the CIS Code, including the Property Funds Appendix;
+- reviewing, on an annual basis, the independence and objectivity of the external auditors, and the nature and extent of non-audit services performed by the external auditors;
+- making recommendations to the Board on the proposals to Unitholders on the appointment, re-appointment and removal of external auditors, including approving their remuneration and terms of engagement;
+- reviewing, at least annually, the adequacy and effectiveness of risk management and internal control systems including financial, operational, compliance and information technology controls and risk management systems;
+- reviewing the significant financial reporting issues and judgements so as to ensure the integrity of the financial statements and the audit report, as well as any announcements relating to the financial results of First REIT;
+- reviewing the Manager's policies and arrangements for concerns about possible improprieties in financial reporting or other matters to be safely raised, independently investigated and appropriately followed up on;
+- investigating any matters within the ARC's terms of reference, whenever it deems necessary;
+- reporting to the Board on material matters, findings and recommendations;
+- oversight and monitoring of the whistle blowing policy (the "**Whistle Blowing Policy**"), including reviewing the policy and arrangements for concerns about possible improprieties in financial reporting or other matters to be safely raised, independently investigated and appropriately followed up on and to ensure that the Manager publicly discloses, and clearly communicates to employees of the Manager, the existence of a whistle-blowing policy and the procedures for raising such concerns; and
+- in respect of environmental, social and governance ("**ESG**") matters, (i) ensuring that First REIT has in place an effective governance structure for ESG matters; (ii) reviewing at least annually the processes for identifying, assessing, and managing climate and ESG-related risks and opportunities, or where relevant, when a significant event or change in circumstances occurs; (iii) reviewing and considering proposed changes from the Management on First REIT's related and sustainability strategies, if any, to ensure that they are relevant to evolving local and global sustainability trends and developments, and make recommendations to the Board, where relevant; (iv) considering the proposals and recommendations from the Management on climate and ESG-related policies, targets and practices, and make recommendations to the Board, where relevant; (v) monitoring First REIT's performance against previously disclosed targets in relation to identified material ESG topics, climate and sustainability-related risks and opportunities; and (vi) reviewing First REIT's sustainability reporting, climate and sustainability-related disclosures, and provide oversight on the Company's compliance with applicable climate and sustainability-related legal and regulatory requirements.
+
+<!-- PAGE 107 -->
+
+![Decorative arrow graphic pointing right.](453a39e72ce044d3c1e5ffd58c9368e7_img.jpg)
+
+Decorative arrow graphic pointing right.
+
+The ARC meets at least 4 times a year, has full access to and co-operation from Management and enjoys full discretion to invite any Director and executive officer of the Manager to attend its meetings. The ARC has full access to reasonable resources to enable it to discharge its functions properly. The ARC is kept abreast of changes to the financial reporting standards and regulatory updates, through briefings by professionals during the quarterly meetings, or as and when appropriate.
+
+The ARC meets with the internal and external auditors, without the presence of Management, at least once a year.
+
+Attendance at the ARC meetings in FY2024 is set out on page 89 of this Annual Report.
+
+In FY2024, the ARC:
+
+- (i) held 4 meetings during the year;
+- (ii) reviewed and approved the Internal and External Audit Plans, including the nature and scope of work before commencement of these audits;
+- (iii) reviewed and approved the Enterprise Risk Assessment Report;
+- (iv) met with the internal and external auditors without the presence of Management, to discuss their findings as set out in their respective reports to the ARC. Both the internal and external auditors had confirmed that no restrictions were placed on the scope of audits;
+- (v) reviewed and recommended to the Board, the half and full-year financial statements and audit report;
+- (vi) reviewed all services provided by the external auditors and were satisfied that the provision of such services did not affect their independence. The external auditors had also affirmed their independence in their report to the ARC;
+- (vii) reviewed Related Party Transactions on a quarterly basis;
+- (viii) reviewed and determined the adequacy and effectiveness of the risk management and internal control systems, including financial, operational, compliance and information technology controls and made the requisite recommendations to the Board; and
+- (ix) received the Manager's compliance report for FY2024.
+
+#### External Audit
+
+In the review of the financial statements for FY2024, the ARC had discussed with Management the accounting principles that were applied and the ARC's judgment of matters that might have impacted the financial statements. The following significant matters were discussed with Management and the external auditors and reviewed by the ARC:
+
+| Key Audit Matters | How the ARC reviewed these matters and what decisions were made |
+|-|-|
+| Valuation of investment properties | <p>The ARC had considered the methodologies and key assumptions applied by the external valuers in arriving at the valuation of the investment properties.</p> <p>The ARC had reviewed and discussed with Management on the reasonableness of the key assumptions and judgements used in the valuation models, namely future rentals, income growth, discount rates and terminal rates.</p> <p>The ARC was satisfied that the accounting policies and treatments are appropriate and in line with the Singapore Financial Reporting Standards and Recommended Accounting Practice 7 "Reporting Framework for Investment Funds", issued by the Institute of Singapore Chartered Accountants,</p> <p>The valuation of investment properties was an area of focus for the external auditors. The external auditors had included this item as key audit matter in their audit report for FY2024. Please refer to page 117 to 118 of this Annual Report.</p> |
+
+<!-- PAGE 108 -->
+
+###### Corporate Governance Report
+
+The ARC has considered the performance of the external auditors, and the nature of non-audit services provided by the external auditors together with the fees paid for such services. The aggregate amount of fees paid/payable to external auditors is S\$1,034,000 of which S\$827,000 pertains to audit services and S\$207,000 pertains to non-audit services. The details of the remuneration of the auditors of the Trust are as follows:
+
+|  | S\$'000 |
+|-|-|
+| <b>Audit services</b> |  |
+| - Auditors of the Trust and other firms affiliated with KPMG International Limited | 687 |
+| - Other auditors | 140 |
+| <b>Non-audit services</b> |  |
+| - Auditors of the Trust and other firms affiliated with KPMG International Limited | 25 |
+| - Other auditors | 182 |
+
+The ARC is satisfied that the independence and objectivity of the external auditors have not been impaired by the provision of such services.
+
+In the course of carrying out their duties, the external auditors will highlight any material internal control weaknesses which have come to their attention in carrying out their normal audit, which is designed primarily to enable them to express their opinion on the financial statements. Such material internal control weaknesses noted during their audit, and recommendations, if any, by the external auditors are reported to the ARC.
+
+KPMG LLP together with member firms of KPMG LLP, audited First REIT and its subsidiaries for the purpose of First REIT group financial statements. Member firms of KPMG LLP and RSM International audited the foreign subsidiaries for local statutory financial statement purposes. First REIT is in compliance with Rules 712 and 715 of the Listing Manual read with Rule 716 of the Listing Manual in relation to the appointment of its auditing firm. Accordingly, the ARC has recommended to the Board the nomination of the external auditors, Messrs KPMG LLP, for re-appointment at the forthcoming AGM to be held on 29 April 2025.
+
+#### Internal Audit
+
+The Manager has put in place a system of internal controls of procedures and processes to safeguard First REIT's assets, Unitholders' interest as well as to manage risks.
+
+The internal audit function in respect of First REIT and the Manager has been outsourced to OUE Internal Audit Department ('**OUE IA**'), under the direct supervision of the ARC. The head of OUE IA reports directly to the ARC Chairman and administratively to the Deputy CEO of OUE. The appointment and removal of OUE IA as the service provider for the internal audit function requires the approval of the ARC. OUE IA has unfettered access to all documents, records, properties and personnel in the Manager, including unrestricted access to the ARC, the Board and the Management. It is responsible for assisting the ARC in reviewing and evaluating the adequacy and effectiveness of the Manager's system of internal controls to address financial, operational, compliance and information technology risks for First REIT. It also audits the operations, regulatory compliance and risk management processes of the Manager. The scope of the internal audit reviews is carried out in accordance with the yearly plans prepared by OUE IA and approved by the ARC. All audit findings are communicated to the ARC as well as the Management. OUE IA is a corporate member of the IIA, Singapore, which is an affiliate of the IIA with its headquarters in the United States of America. OUE IA subscribes to, and is guided by, the International Standards for the Professional Practice of Internal Auditing ("**Standards**") developed by IIA and has incorporated these Standards into its audit practices. OUE IA also abides by the framework as described in its Internal Audit Charter, which provides the blueprint for how internal audit activities are conducted. The Internal Audit Charter is approved by the ARC, at least on an annual basis. The ARC also reviewed the independence and performance of the internal audit function and was satisfied that the internal auditor was independent, adequately resourced, staffed with persons with the relevant qualifications and experience and effective in performing its functions, and had appropriate standing within the Manager.
+
+<!-- PAGE 109 -->
+
+![Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.](0451d70a81c75270ad65a4c0f1d1c765_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.
+
+## UNITHOLDER RIGHTS AND ENGAGEMENT
+
+### Principle 11 : Unitholders Rights and Conduct of General Meetings
+
+### Principle 12 : Engagement with Unitholders
+
+### Principle 13 : Engagement with Stakeholders
+
+The Manager is committed to maintaining a culture of timely disclosure and transparent communication with Unitholders and the investment community.
+
+The Manager treats all Unitholders fairly and equitably in order to enable them to exercise their Unitholders' rights and have the opportunity to communicate their views on matters affecting First REIT. The Manager's investor relations policy is to promote regular, effective and fair communication through timely and full disclosure of all material information relating to First REIT by way of public releases or announcements through the SGX-ST via SGXNet at first instance, and on First REIT's website at [www.first-reit.com](http://www.first-reit.com). Information on First REIT, including the Manager's investor relations policy, is available on its website. Unitholders are encouraged to communicate their views on matters pertaining to First REIT and can email their questions to [ir@first-reit.com](mailto:ir@first-reit.com) or contact the Manager at +65 6435 0168, details of which are listed on First REIT's website.
+
+In line with the Manager's investor relations policy, the Manager actively engages in dialogue with Unitholders and regularly holds briefings for other stakeholders such as analysts, investors and media representatives, which generally coincide with the release of First REIT's half-yearly results announcements or business update briefings for the first and third quarters. The CEO and senior Management are present at these briefings to review First REIT's most recent performance, discuss the business outlook for First REIT, and answer questions. The Manager assesses feedback from Unitholders and stakeholders and implements suggestions where feasible. The Manager believes that engaging Unitholders and stakeholders is important for the success of First REIT. First REIT has identified its stakeholders based on their impact on First REIT's business and those with a vested interest in First REIT's operations. First REIT's stakeholders include investors, operators and the local community. Through various engagement initiatives, First REIT was able to strengthen its relationships with its stakeholders and gather valuable feedback. Please refer to the Investor Relations section on page 42 and the Sustainability Report section on pages 50 to 51 of this Annual Report for further information on stakeholder engagement initiatives.
+
+In addition, Unitholders are given opportunities to communicate their views and to raise pertinent questions to the Directors and to participate effectively in and vote at Unitholders' meetings.
+
+The Manager commits to disclosing material price and trade-sensitive information to the public on a prompt and inclusive basis, and providing First REIT's stakeholders with the latest, most relevant information they require to make informed decisions about the value of First REIT and its long-term prospects. Material information relating to First REIT's financial performance, business and strategic developments is published on SGXNet first, followed by First REIT's website.
+
+As required by the Listing Manual, the Manager discloses the names of First REIT's substantial Unitholders and a breakdown of their direct and deemed interests (including how such interests are held or derived) in First REIT's annual report every year. The Manager also disseminates, via SGXNet, the notifications it receives from its substantial Unitholders, in accordance with the provisions of the SFA.
+
+A dedicated investor relations section on First REIT's website enables access for its Unitholders and the investment community to pertinent information about First REIT such as annual reports, financial results and the latest corporate presentations.
+
+#### Conduct of AGMs
+
+The AGM was convened and held in a wholly physical format on 22 April 2024.
+
+The forthcoming AGM ("**AGM 2025**") will also be held in a wholly physical format on 29 April 2025 and Unitholders (themselves or through duly appointed proxies) will be able to vote and ask questions in person at AGM 2025.
+
+<!-- PAGE 110 -->
+
+###### Corporate Governance ReportDecorative graphic consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+Unitholders will be informed of Unitholders' meetings and the rules governing such meetings through notices of meetings sent to all Unitholders and/or notices published in the newspapers. The Manager ensures that Unitholders are able to participate effectively in and vote at the general meetings. Unitholders are accorded the opportunity to raise relevant questions on First REIT's business activities, financial performance and other business related matters and to communicate their views at the general meetings, and are briefed by independent scrutineers on the rules and voting procedures at the beginning of general meetings.
+
+The Manager tables separate resolutions at general meetings of Unitholders on each substantially separate issue unless the issues are interdependent and linked so as to form one significant proposal. Where the resolutions are "bundled", the Manager will explain the reasons and material implications in the notice of the general meeting. The resolutions approved in the meeting will be announced on or after the day the general meeting is held. Save as disclosed on page 89 of this Annual Report, all Directors attend the general meetings, and the external auditors are also present at general meetings, to address Unitholders' queries.
+
+Unitholders are encouraged to participate in the question and answer sessions, whereby minutes of the proceedings are subsequently prepared and will include any substantial queries and comments raised by Unitholders in relation to the agenda of the general meeting and the accompanying responses from the Board and Management.
+
+Provision 11.5 of the Code states that the company should publish minutes of general meetings on its corporate website as soon as practicable. The Company Secretary prepares minutes of Unitholders' meetings, which incorporate substantial and relevant comments or queries from Unitholders and responses from the Board and Management. Beginning from the 2020 AGM, these minutes have been published on SGXNet and made available on First REIT's website.
+
+Registered Unitholders who are unable to attend general meetings can each appoint up to two proxies to attend, participate and vote in general meetings on his/her behalf. Corporations providing nominee and custodial services can each appoint more than two proxies to attend, participate and vote in general meetings on behalf of Unitholders who hold Units through such corporations.
+
+All resolutions at general meetings are voted on by way of poll. This allows all Unitholders present or represented at the meetings to vote on a one-Unit-one-vote basis. As encouraged by SGX-ST and in support of the greater transparency of voting in general meetings and good corporate governance, the Manager has employed electronic polling since the AGM held in April 2019. At each general meeting, Unitholders are briefed on the voting procedures and the results of all votes cast for or against each resolution with the respective percentages are announced at the meeting and on the SGXNet after the meeting. All polls are conducted in the presence of independent scrutineers. The outcome of the general meeting is also promptly announced on SGXNet after each general meeting.
+
+The Trust Deed does not allow a Unitholder to vote in absentia at general meetings but allows any Unitholder to appoint proxies during his/her absence to attend and vote on his/her behalf at the general meetings. Unitholders are still given the opportunity to exercise their rights to attend and vote at general meetings through their proxies. Further, Unitholders such as nominee companies which provide custodial services for securities are not constrained by the two proxy limitation and are able to appoint more than two proxies to attend, speak and vote at general meetings. This will enable indirect investors, including CPF investors, to be appointed as proxies to participate at general meetings. The Manager is accordingly of the view that despite this deviation from Provision 11.4 of the Code, its practice is still consistent with the intent of Principle 11 as a whole.
+
+The Manager takes an inclusive approach by considering and balancing the needs and interests of key stakeholders, as part of its overall responsibility to safeguard the best interests of First REIT. The Manager considers emerging and existing sustainability-related trends to enable the Manager to identify and manage any potential, current, or impending business risks that need to be managed, and/or to take advantage of any opportunities they may provide. The Manager has established processes to identify and engage with material stakeholder groups and effectively manage its relationships with them. These stakeholder groups are vital to the Manager, as their actions either impact First REIT's business or First REIT's business impacts their actions. They include First REIT's employees, Unitholders, tenants, operators, regulators, the Trustee, and third-party service providers. The Manager's various teams interact with these stakeholders on a regular basis and the Manager maintains a corporate website to facilitate communication and engagement with stakeholders. The Sustainability Report from pages 51 to 52 in this Annual Report
+
+<!-- PAGE 111 -->
+
+![Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.](623fb00703a1d577f05c3ee267088ede_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles with a white arrow pointing right.
+
+describes First REIT's approach in identifying its material stakeholders, as well as addressing stakeholders' concerns and methods of engagement. The Sustainability Report outlines the key focus areas in relation to the management of stakeholder relationships for FY2024.
+
+First REIT aims to provide sustainable distribution payout. First REIT's distribution policy is to distribute at least 90% of its taxable income, whereas the tax-exempt income and capitalised receipts with the actual level of distribution to be determined at the Manager's discretion. The capital receipts comprise amounts received by the Trust from redemption of redeemable preference shares and shareholder loans repayment in the Singapore subsidiaries. Distributions are generally paid within 35 market days after the relevant record date. Please refer to page 177 of this Annual Report for more details on the distribution policy and page 124 of this Annual Report for First REIT's "Statements of Distribution" for FY2024.
+
+## ADDITIONAL INFORMATION
+
+### Dealing in First REIT Units
+
+The Manager has adopted a formal policy on handling of confidential information and dealing in securities (the "**Information Dealing Policy**") which applies the best practice recommendations issued by SGX-ST. The Information Dealing Policy sets out the implications of insider trading and guidance on dealings in the securities of First REIT as well as certain entities listed on the SGX-ST in which OUE has an effective interest in (collectively, the "**Restricted Securities**"). It applies to and has been distributed to, inter alia, the Directors and employees of the Manager.
+
+Pursuant to Rule 1207(19)(c) of the Listing Manual, the Manager and its officers should not deal in First REIT's securities during the period commencing two weeks before the announcement of First REIT's financial statements for each of the first three quarters of its financial year and one month before the announcement of First REIT's full year financial statements (if First REIT announces its quarterly financial statements), or one month before the announcement of First REIT's half year and full year financial statements (if First REIT does not announce its quarterly financial statements).
+
+The Directors and the employees of the Manager are reminded by way of emails that they and their connected persons are prohibited from dealing in the Units during the following periods:
+
+- two weeks before the announcement of First REIT's interim business updates for the first and third quarters of its financial year;
+- one month before the announcement of First REIT's half year and full-year results and (where applicable) property valuations; or
+- at any time while in possession of price sensitive information.
+
+The Directors and the employees of the Manager are prohibited from communicating price-sensitive or trade-sensitive information to any person. In addition, the Manager also discourages the Directors and employees of the Manager from dealing in the Units on short-term considerations. Pursuant to the Information Dealing Policy, Directors and employees of the Manager are required to give a pre-trading notification and declaration (that, amongst others, he or she is not in possession of any information that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of the Restricted Securities ("**inside information**") to their Head of Department and/or the Legal Department (as the case may be) before any dealing in the Restricted Securities. Details of the transaction that had been notified prior to being undertaken must also be provided in writing within two business days after the trade. A transaction which was notified but not undertaken must also be reported as such. All Directors and employees of the Manager must verify that confidential information is shared only to those persons who have a legitimate reason to have access to such information. The Information Dealing Policy sets out the procedures and safeguards which Directors and employees of the Manager should adopt to limit the risk of a leak of confidential information, including but not limited to signing of non-disclosure agreements, implementing Chinese walls, controlling access to documents containing confidential information, "clean-desk" policy, adoption of code names for transactions and maintenance of a list of persons who are privy to material inside information that has not been publicly announced.
+
+<!-- PAGE 112 -->
+
+###### Corporate Governance Report
+
+![Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.](b79638030ae2d4136198002c9c4ffb8e_img.jpg)
+
+Decorative graphic element consisting of a series of horizontal bars of varying lengths, with a stylized arrow pointing upwards and to the right.
+
+In relation to the retention of documents, the Manager has in place a Data Retention Policy which specified the retention periods, procedures for the proper retention and destruction of documents which no longer serve any legal or business purposes.
+
+The Manager has complied with Rule 1207(19) of the Listing Manual.
+
+### **Dealing with Conflict of Interest**
+
+The Manager has instituted the following procedures to deal with potential conflicts of interest issues, which the Manager may encounter, in managing First REIT:
+
+- the Manager will not manage any other real estate investment trust which invests in the same type of properties as First REIT;
+- all executive officers will be employed by the Manager;
+- all resolutions in writing of the Directors in relation to matters concerning First REIT must be approved by a majority of the Directors, including at least one Independent Director;
+- at least half of the Board shall comprise Independent Directors; and
+- in respect of matters in which the sponsor and/or its subsidiaries have an interest, direct or indirect, any nominees appointed by the sponsor and/or its subsidiaries to the Board to represent its/their interest will abstain from participating in any discussion or voting. In such matters, the quorum must comprise a majority of Independent Directors and must exclude the nominee Directors of the sponsor and/or its subsidiaries.
+
+It is also provided in the Trust Deed that if the Manager is required to decide whether or not to take any action against any person in relation to any breach of any agreement entered into by the Trustee for and on behalf of First REIT with a related party of the Manager, the Manager shall be obliged to consult a reputable law firm (acceptable to the Trustee) which shall provide legal advice on the matter. If the said law firm is of the opinion that the Trustee has a prima facie case against the party allegedly in breach under such agreement, the Manager shall be obliged to take appropriate action in relation to such agreement. The Directors will have a duty to ensure that the Manager so complies. Notwithstanding the foregoing, the Manager shall inform the Trustee as soon as it becomes aware of any breach of any agreement entered into by the Trustee for and on behalf of First REIT with a related party of the Manager and the Trustee may take any action it deems necessary to protect the rights of Unitholders and/or which is in the interest of Unitholders. Any decision by the Manager not to take action against a related party of the Manager shall not constitute a waiver of the Trustee's right to take such action as it deems fit against such related party.
+
+#### **Anti-Bribery/Anti-Corruption Policy**
+
+The Manager has procedures in place to comply with applicable anti-bribery laws and regulations. Under the Code of Business Conduct and Ethics, employees are not to accept, offer, promise, or pay anything of value to another person with the intention to obtain or retain business, to improperly influence an official action or to secure an unfair business advantage, whether directly or through a third party.
+
+### **Protection of Creditors' Rights**
+
+To protect creditors' rights, the Manager will ensure compliance with relevant laws and regulations, including the Property Funds Appendix. The Manager conducts First REIT's business in a proper and efficient manner and ensure that the total borrowings and deferred payments of First REIT does not exceed the leverage ratio limit as per Property Funds Appendix. When the Manager takes out loans, the Manager uses its best endeavours to ensure that the interest rates of the loans are competitive. Interest rate risk is managed on an ongoing basis through regular reviews of the optimal mix of fixed and floating rate borrowings.
+
+<!-- PAGE 113 -->
+
+![Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.](35e9186453ebed7cfc697de4c1f2eb4b_img.jpg)
+
+Decorative graphic element consisting of a series of black rectangles and a stylized arrow pointing right.
+
+### Whistle Blowing Policy
+
+The Manager has in place a whistle blowing policy whereby employees of the Manager and any other persons may, in confidence, raise concerns about possible improprieties in matters of financial reporting or other matters as well as any breach of the Manager's Code of Business Conduct and Ethics, without fear of reprisals in any form. The ARC has the responsibility of overseeing this policy which is administered with the assistance of the head of the OUE IA. Under these procedures, arrangements are in place for independent investigation of such matters raised and for appropriate follow-up action to be taken. The whistle-blowing policy is publicly disclosed on the Manager's website and clearly communicated to the Manager's employees to encourage the reporting of any behaviour or action that might constitute impropriety in financial reporting or other matters. The Manager is committed to ensuring that whistle-blowers will be protected against any detrimental or unfair treatment, and shall use reasonable best efforts to ensure that the confidentiality and anonymity of the complainants is protected.
+
+The ARC is empowered to conduct or authorise investigations into any activity within its terms of reference and obtain independent professional advice as it deems necessary. The ARC has full access to and cooperation from Management and full discretion to invite any Director or executive officer to attend its meetings, and has adequate resources to enable it to discharge its functions properly.
+
+### Interested Person Transaction
+
+The Manager has established procedures to review and monitor interested person transactions are conducted on normal commercial terms and not prejudicial to the interests of First REIT and the Unitholders. As a general rule, the Manager must demonstrate to the ARC that any such transaction satisfies the foregoing criteria, which may entail obtaining (where practicable) quotations from parties unrelated to the Manager, or obtaining one or more valuations from independent professional valuers (in accordance with the Property Funds Appendix).
+
+In addition, the following procedures will be undertaken:
+
+- transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding S\$100,000.00 in value but below 3.0% of the value of First REIT's net tangible assets will be subject to review by the ARC at regular intervals;
+- transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding 3.0% but below 5.0% of the value of First REIT's net tangible assets will be subject to review and prior approval of the ARC. Such approval shall only be given if the transactions are on normal commercial terms and are consistent with similar types of transactions made by the Trustee with third parties which are unrelated to the Manager; and
+- transactions (either individually or as part of a series or if aggregated with other transactions involving the same related party during the same financial year) equal to or exceeding 5.0% of the value of First REIT's net tangible assets will be subject to review and approval prior to such transactions being entered into, on the basis described in the preceding paragraph, by the ARC which may, as it deems fit, request advice on the transactions from independent sources or advisers, including obtaining valuations from independent professional valuers. Further, under the Listing Manual and the Property Funds Appendix, such transactions would have to be approved by Unitholders at a meeting of Unitholders.
+
+Where matters concerning First REIT relate to transactions entered into or to be entered into by the Trustee for and on behalf of First REIT with a related party of the Manager or First REIT, the Trustee is required to consider the terms of such transactions to satisfy itself that such transactions are conducted on normal commercial terms and are not prejudicial to the interests of First REIT and the Unitholders, and are in accordance with all applicable requirements of the Property Funds Appendix and/or the Listing Manual relating to the transaction in question. If the Trustee is to sign any contract with a related party of the Manager or First REIT, the Trustee will review the contract to ensure that it complies with the requirements relating to interested person transactions in the Property Funds Appendix (as may be amended from time to time) as well as such other guidelines as may from time to time be prescribed by the MAS or the SGX-ST to apply to real estate investment trusts.
+
+<!-- PAGE 114 -->
+
+###### Corporate Governance ReportDecorative horizontal bar with a stylized arrow pointing right
+
+#### **Role of the Audit and Risk Committee for Interested Person Transactions**
+
+All interested person transactions will be subject to periodic review by ARC to ensure compliance with the Manager's internal control procedures and with the relevant provisions of the Property Funds Appendix and/or the Listing Manual. The review includes the examination of the nature of the transactions and its supporting documents or such other data deemed necessary by the ARC.
+
+The Manager incorporates into its internal audit plan a review of all interested person transactions entered into by First REIT. The ARC reviews the internal audit reports to ascertain that the guidelines and procedures established to monitor interested person transactions have been complied with. In addition, the Trustee also has the right to review such audit reports to ascertain that the Property Funds Appendix has been complied with.
+
+If a member of the ARC has an interest in a transaction, he is required to abstain from participating in the review and approval process in relation to that transaction.
+
+The Manager maintains a register to record all interested person transactions which are entered into by First REIT. Any interested person transactions requiring disclosure are disclosed in the announcements and/or the annual report of First REIT.
+
+### **Material Contracts**
+
+Save as disclosed (i) in the Interested Person Transactions section of this Annual Report and (ii) on SGXNet (if any), no material contracts to which First REIT or any of its subsidiaries is a party and which involve the interests of the CEO, any director or controlling Unitholder subsisted at the end of FY2024, or have been entered into since the end of the previous financial year.
+
+<!-- PAGE 115 -->
+
+![Decorative arrow graphic pointing right.](d79937b8c0f49ddff9d4c76d9eed4658_img.jpg)
+
+Decorative arrow graphic pointing right.
+
+## ADDITIONAL INFORMATION
+
+### Manager's Management Fees
+
+Pursuant to clauses 14.1.1 and 14.1.2 of the Trust Deed, the Manager is entitled to (i) a base fee of 0.4% per annum of the value of all the assets for the time being of First REIT or deemed to be held by First REIT ("**Deposited Property**"), and (ii) an annual performance fee of 5.0% per annum of the Net Property Income (as defined in the Trust Deed) (which is to be calculated before accounting for this additional fee in that financial year) of First REIT or (as the case may be) the Net Property Income of the relevant Special Purpose Vehicles (as defined in the Trust Deed) for each financial year.
+
+Pursuant to clauses 14.1.1 and 14.1.2 of the Trust Deed, the management fees will be paid in the form of cash and/or Units (as the Manager may elect). The management fees payable in Units will be issued at the volume weighted average price for a Unit for all trades on the SGX-ST in the ordinary course of trading on the SGX-ST for the period of 10 Business Days (as defined in the Trust Deed) immediately preceding the relevant Business Day.
+
+Pursuant to clause 14.1.4 of the Trust Deed, the Manager's management fees are payable quarterly in arrears.
+
+For FY2024, the breakdown of the management fees paid was as follows:
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024<br>S\$'000 | 2023<br>S\$'000 | 2024<br>S\$'000 | 2023<br>S\$'000 |
+| Base fees | 3,729 | 3,713 | 3,686 | 3,670 |
+| Performance fees | 4,961 | 5,266 | 4,961 | 5,266 |
+|  | 8,690 | 8,979 | 8,647 | 8,936 |
+
+With effect from 1 January 2016, under the Property Funds Appendix, crystallisation of the annual performance fee has been revised to be no more frequent than once a year. Accordingly, from 1 January 2016 onwards, the Manager's performance fee is payable quarterly after completion of the audited financial statements for the relevant financial year in arrears.
+
+Pursuant to clause 14.2 of the Trust Deed, the Manager is also entitled to receive an acquisition fee at the rate of 1.0% of the acquisition price and a divestment fee of 0.5% of the sale price, on all acquisitions or disposals of properties respectively. There is an asset management fee paid/payable to the asset management company in Japan of 0.4% per annum of the value of the asset-under-management in Japan.
+
+The Manager's management fee was derived after deducting the asset management fee charged by the Japan asset management company.
+
+#### Justification of Fees Payable to the Manager
+
+##### 1. Base fee
+
+The Manager receives a base fee of 0.4% per annum of the value of the Deposited Property, representing the remuneration to the Manager for executing its core responsibility. The base fee compensates the Manager for the costs incurred in managing First REIT, which includes day-to-day operational costs, compliance costs and costs incurred in managing and monitoring First REIT's portfolio. The base fee is calculated at a fixed percentage of asset value as the scope of the Manager's duties is commensurate with the size of First REIT's asset portfolio.
+
+Since First REIT's listing on 11 December 2006, the Manager has taken active steps to keep First REIT's portfolio relevant and adaptable to the changing economic and environmental landscapes.
+
+As at 31 December 2024, First REIT's existing portfolio comprises thirty two properties, including fifteen properties located in Indonesia, fourteen properties located in Japan and three properties located in Singapore and has a combined gross floor area of approximately 450,085 square metres and a valuation of S\$1.12 billion.
+
+<!-- PAGE 116 -->
+
+###### Corporate Governance Report
+
+##### 2. *Performance fee*
+
+The Manager receives an annual performance fee of 5.0% per annum on the Net Property Income of First REIT or (as the case may be) the Net Property Income of the relevant Special Purpose Vehicles (as defined in the Trust Deed) for each financial year.
+
+The performance fee, which is based on Net Property Income, aligns the interests of the Manager with Unitholders as the Manager is motivated and incentivised to achieve income stability by ensuring the long-term sustainability of the assets through proactive asset management strategies and asset enhancement initiatives. Therefore, to achieve sustainability in First REIT's Net Property Income, the Manager is dis-incentivised from taking on excessive short-term risks, and will strive to manage First REIT in a balanced manner.
+
+##### 3. *Acquisition and divestment fees*
+
+In line with the Manager's key objective of managing First REIT for the benefit of Unitholders, the Manager regularly reviews First REIT's portfolio of properties and considers the acquisition and/or recycling of assets, where appropriate, to optimise First REIT's portfolio. This involves a thorough review of the exposures, risks and returns as well as the overall value-add of acquisitions or divestments to First REIT's existing portfolio and future growth expectations.
+
+In undertaking a proposed acquisition, the Manager is expected to spend time and effort in conducting due diligence, structuring the acquisition, negotiating transaction documentation with the vendor, liaising with the valuers and working with the professional advisers and regulatory authorities to seek the necessary approvals from the regulators and/or Unitholders (where required). Similarly, in undertaking a proposed divestment, the Manager is expected to spend time and effort in negotiating with the prospective purchaser, structuring the divestment, liaising with the valuers and working with the professional advisers and regulatory authorities to seek the necessary approvals from regulators and/or the Unitholders (where required).
+
+The Manager receives an acquisition fee of 1.0% on the acquisition price upon the completion of an acquisition, and a divestment fee of 0.5% on the sale price upon the completion of a divestment. The acquisition fee is higher than the divestment fee because there is additional work required to be undertaken in terms of sourcing, evaluating and conducting due diligence for an acquisition, as compared to a divestment.
+
+The acquisition fees and divestment fees seek to motivate and compensate the Manager for the time, cost and effort spent (in the case of an acquisition) in sourcing, evaluating and executing potential opportunities to acquire new properties to further grow First REIT's asset portfolio or, (in the case of a divestment) in rebalancing and unlocking the underlying value of the existing properties. The Manager provides these services over and above the provision of ongoing management services with the aim of enhancing long-term returns, income sustainability and achieving the investment objectives of First REIT.
+
+As required by the Property Funds Appendix, where acquisition fees or divestment fees are to be paid to the Manager for the acquisition of assets from, or divestment of assets to, an interested party, the acquisition fees or divestment fees are to be paid in the form of Units issued at the prevailing market price and which should not be sold for a period of one year from the date of issuance. This additional requirement for interested party acquisitions and divestments further aligns the Manager's interests with Unitholders.
+
+<!-- PAGE 117 -->
+
+## Report of the Trustee
+
+Perpetual (Asia) Limited (the “Trustee”) is under a duty to take into custody and hold the assets of First Real Estate Investment Trust (the “Trust”) and its subsidiaries (the “Group”) in trust for the holders (“Unitholders”) of units in the Trust (the “Units”). In accordance with the Securities and Futures Act 2001 of Singapore, its subsidiary legislation and the Code on Collective Investment Schemes (collectively referred to as the “laws and regulations”), the Trustee shall monitor the activities of First REIT Management Limited (the “Manager”) for compliance with the limitations imposed on the investment and borrowing powers as set out in the trust deed dated 19 October 2006 (subsequently amended by First Supplemental Deed dated 6 September 2007, Second Supplemental Deed dated 19 April 2010, Third Supplemental Deed dated 26 April 2011, Fourth Supplemental Deed dated 1 April 2013, First Amending and Restating Deed dated 23 March 2016, Supplemental Deed of Retirement and Appointment of Trustee dated 1 November 2017, Fifth Supplemental Deed dated 22 May 2018, Sixth Supplemental Deed dated 30 April 2019, Seventh Supplemental Deed dated 7 April 2020 and Eighth Supplemental Deed dated 25 February 2022) (the “Trust Deed”) between the Manager and the Trustee in each annual financial reporting year and report thereon to unitholders in an annual report.
+
+To the best knowledge of the Trustee, the Manager has, in all material respects, managed the Trust during the financial reporting year covered by these financial statements, set out on pages 115 to 203, in accordance with the limitations imposed on the investment and borrowing powers set out in the Trust Deed.
+
+For and on behalf of the Trustee,  
+Perpetual (Asia) Limited
+
+---
+
+**Ms. Sin Li Choo**
+
+*Director*
+
+26 March 2025
+
+<!-- PAGE 118 -->
+
+### Statement by the Manager
+
+In the opinion of the directors of First REIT Management Limited (the “Manager”), the manager of First Real Estate Investment Trust (the “Trust”), the accompanying financial statements of the Trust and its subsidiaries (the “Group”) set out on pages 115 to 203 comprising the statements of financial position, statements of total return, statements of distribution, statements of movements in unitholders’ funds, statements of portfolio of the Group and the Trust, the consolidated statement of cash flows of the Group and notes to the financial statements, are drawn up so as to present fairly, in all material respects, the financial position and portfolio of the Group and of the Trust as at 31 December 2024, the total return, distributions, movements in unitholders’ funds of the Group and the Trust and cash flows of the Group for the year ended 31 December 2024, in accordance with the recommendations of Statement of Recommended Accounting Practice 7 “*Reporting Framework for Investment Funds*” issued by the Institute of Singapore Chartered Accountants and the provisions of the trust deed dated 19 October 2006 (subsequently amended by First Supplemental Deed dated 6 September 2007, Second Supplemental Deed dated 19 April 2010, Third Supplemental Deed dated 26 April 2011, Fourth Supplemental Deed dated 1 April 2013, First Amending and Restating Deed dated 23 March 2016, Supplemental Deed of Retirement and Appointment of Trustee dated 1 November 2017, Fifth Supplemental Deed dated 22 May 2018, Sixth Supplemental Deed dated 30 April 2019, Seventh Supplemental Deed dated 7 April 2020 and Eighth Supplemental Deed dated 25 February 2022). At the date of this statement, there are reasonable grounds to believe that the Group and the Trust will be able to meet their financial obligations as and when they materialise.
+
+For and on behalf of the Manager,  
+First REIT Management Limited
+
+---
+
+**Mr. Tan Kok Mian Victor**  
+*Executive Director and Chief Executive Officer*
+
+26 March 2025
+
+<!-- PAGE 119 -->
+
+# Independent Auditors' Report
+
+Unitholders of First Real Estate Investment Trust
+
+(Constituted in the Republic of Singapore pursuant to the trust deed dated 19 October 2006 (subsequently amended by First Supplemental Deed dated 6 September 2007, Second Supplemental Deed dated 19 April 2010, Third Supplemental Deed dated 26 April 2011, Fourth Supplemental Deed dated 1 April 2013, First Amending and Restating Deed dated 23 March 2016, Supplemental Deed of Retirement and Appointment of Trustee dated 1 November 2017, Fifth Supplemental Deed dated 22 May 2018, Sixth Supplemental Deed dated 30 April 2019, Seventh Supplemental Deed dated 7 April 2020 and Eighth Supplemental Deed dated 25 February 2022))
+
+### Report on the audit of the financial statements
+
+#### Opinion
+
+We have audited the financial statements of First Real Estate Investment Trust (the "Trust") and its subsidiaries (the "Group"), which comprise the statements of financial position and statements of portfolio of the Group and of the Trust as at 31 December 2024, and the statements of total return, statements of distribution, and statements of movements in unitholders' funds of the Group and the Trust and consolidated statement of cash flows of the Group for the year then ended, and notes to the financial statements, including material accounting policy information, set out on pages 115 to 203.
+
+In our opinion, the accompanying consolidated financial statements of the Group and the statements of financial position, statements of portfolio, statements of total return, statements of distribution and statements of movements in unitholders' funds of the Trust present fairly, in all material respects, the financial position and the portfolio holdings of the Group and of the Trust as at 31 December 2024 and the total return, distribution, and movements in unitholders' funds of the Group and of the Trust and cash flows of the Group for the year ended on that date in accordance with the recommendations of Statement of Recommended Accounting Practice 7 *Reporting Framework for Investment Funds* ("RAP 7") issued by the Institute of Singapore Chartered Accountants.
+
+#### Basis for opinion
+
+We conducted our audit in accordance with Singapore Standards on Auditing ("SSAs"). Our responsibilities under those standards are further described in the 'Auditors' responsibilities for the audit of the financial statements' section of our report. We are independent of the Group in accordance with the Accounting and Corporate Regulatory Authority *Code of Professional Conduct and Ethics for Public Accountants and Accounting Entities* ("ACRA Code") together with the ethical requirements that are relevant to our audit of the financial statements in Singapore, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the ACRA Code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+#### Key audit matters
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in the audit of the financial statements of the current year. These matters were addressed in the context of the audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+#### Valuation of investment properties
+
+(Refer to note 4 to the financial statements)
+
+#### Risks
+
+The Group has a portfolio of investment properties located in Singapore, Indonesia, and Japan with a carrying value of \$1,118.0 million (2023: \$1,139.5 million) as at 31 December 2024. Investment properties represent the most significant asset item on the consolidated statements of financial position. The Group's accounting policy is to state the investment properties at their fair values, which are based on independent external valuations.
+
+The valuation process involves significant judgement in determining the appropriate valuation method to be used and estimating the underlying assumptions to be applied. The valuations are sensitive to key assumptions applied and a change in key assumptions could have a significant impact to the valuations.
+
+<!-- PAGE 120 -->
+
+###### Independent Auditors' Report
+
+#### *Our response*
+
+We evaluated the competency and objectivity of the external valuers and made enquiries with the valuers to understand their valuation methods, the assumptions and basis applied.
+
+We considered the valuation methods used, which comprise the discounted cash flow and direct comparison methods, against those generally applied for similar property types. We also involved our internal valuation specialists in the assessment of valuation methods used and certain key assumptions of properties in Indonesia and Japan.
+
+We tested the reasonableness of the projected cash flows used in the valuations to supporting leases and externally available industrial and economic data available as at 31 December 2024. We also assessed the discount rates, terminal capitalisation rates, and price per square metre against historical rates and available industry data as at 31 December 2024, taking into consideration comparability and market factors. Where the rates were outside our expected range, we undertook further procedures to understand the effect of additional factors and, where necessary, held discussions with the valuers.
+
+We also considered adequacy of disclosures in the financial statements in respect of estimation uncertainty and judgement applied.
+
+#### *Our findings*
+
+The valuers are members of generally-recognised professional bodies for real estate valuers and have considered their own independence in carrying out their work.
+
+The valuation methods used by the valuers are consistent with generally accepted market practices. The key assumptions used in the valuations were generally within the range of available industry data. Where the assumptions were outside the expected range, the additional factors considered by the valuers were noted to be consistent with other corroborative evidence.
+
+We also found the disclosures in the financial statements to be appropriate in their description of judgement inherent in key assumptions used in the valuations, including the inter-relationship between key unobservable inputs and their fair values.
+
+#### **Other information**
+
+First REIT Management Limited, the manager of the Trust (the "Manager"), is responsible for the other information contained in the annual report. Other information is defined as all information in the annual report other than the financial statements and our auditors' report thereon.
+
+We have obtained all other information prior to the date of this auditors' report.
+
+Our opinion on the financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+#### **Responsibilities of Manager for the financial statements**
+
+The Manager is responsible for the preparation and fair presentation of these financial statements in accordance with the recommendations of RAP 7 issued by the Institute of Singapore Chartered Accountants, and for such internal control as the Manager determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Manager is responsible for assessing the Group's ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Manager either intends to terminate the Group or to cease operations of the Group, or has no realistic alternative but to do so.
+
+The Manager's responsibilities include overseeing the Group's financial reporting process.
+
+<!-- PAGE 121 -->
+
+###### Independent Auditors' Report
+
+### **Auditors' responsibilities for the audit of the financial statements**
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditors' report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SSAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with SSAs, we exercise professional judgement and maintain professional scepticism throughout the audit. We also:
+
+- Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal controls.
+- Obtain an understanding of internal controls relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group's internal controls.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by the Manager.
+- Conclude on the appropriateness of the Manager's use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group's ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors' report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditors' report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- Plan and perform the group audit to obtain sufficient appropriate audit evidence regarding the financial information of the entities or business units within the group as a basis for forming an opinion on the group financial statements. We are responsible for the direction, supervision and review of the audit work performed for purposes of the group audit. We remain solely responsible for our audit opinion.
+
+<!-- PAGE 122 -->
+
+# Independent Auditors' Report
+
+We communicate with the Manager regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal controls that we identify during our audit.
+
+We also provide the Manager with a statement that we have complied with relevant ethical requirements regarding independence, and communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with the Manager, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditors' report unless the law or regulations preclude public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+
+The engagement partner on the audit resulting in this independent auditors' report is Tan Kar Yee, Linda.
+
+#### **KPMG LLP**
+
+*Public Accountants and  
+Chartered Accountants*
+
+#### **Singapore**
+
+26 March 2025
+
+<!-- PAGE 123 -->
+
+## Statements of Financial Position
+
+As at 31 December 2024
+
+|  |  | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  | Note | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Assets</b> |  |  |  |  |  |
+| <b>Non-current assets</b> |  |  |  |  |  |
+| Plant and equipment |  | 64 | 1 | – | – |
+| Investment properties | 4 | 1,118,008 | 1,139,468 | 30,400 | 31,700 |
+| Investments in subsidiaries | 5 | – | – | 746,614 | 766,703 |
+| Loan to subsidiaries | 6 | – | – | 12,639 | 21,705 |
+|  |  | 1,118,072 | 1,139,469 | 789,653 | 820,108 |
+| <b>Current assets</b> |  |  |  |  |  |
+| Loan to subsidiaries | 6 | – | – | 4,190 | 4,190 |
+| Trade and other receivables | 7 | 6,724 | 6,249 | 17,850 | 11,688 |
+| Other assets | 8 | 771 | 787 | 406 | 402 |
+| Derivative financial instruments | 9 | 260 | 560 | 260 | 560 |
+| Cash and cash equivalents | 10 | 34,674 | 40,266 | 11,796 | 16,837 |
+|  |  | 42,429 | 47,862 | 34,502 | 33,677 |
+| <b>Total assets</b> |  | 1,160,501 | 1,187,331 | 824,155 | 853,785 |
+| <b>Liabilities</b> |  |  |  |  |  |
+| <b>Non-current liabilities</b> |  |  |  |  |  |
+| Deferred tax liabilities | 11 | 49,369 | 49,732 | – | – |
+| Borrowings | 12 | 452,602 | 448,926 | 336,394 | 326,926 |
+| Loan from subsidiaries | 6 | – | – | – | 5,161 |
+| Other liabilities | 13 | 8,069 | 10,557 | 2,121 | 2,079 |
+| Derivative financial instruments | 9 | – | 259 | – | 259 |
+|  |  | 510,040 | 509,474 | 338,515 | 334,425 |
+| <b>Current liabilities</b> |  |  |  |  |  |
+| Borrowings | 12 | 880 | 920 | – | – |
+| Other liabilities | 13 | 3,246 | 3,113 | 104 | 113 |
+| Loan from subsidiaries | 6 | – | – | 32,861 | 25,512 |
+| Derivative financial instruments | 9 | 192 | 27 | 192 | 27 |
+| Trade and other payables | 14 | 12,641 | 12,402 | 47,966 | 47,878 |
+| Income tax payable |  | 1,230 | 1,229 | 7 | 5 |
+|  |  | 18,189 | 17,691 | 81,130 | 73,535 |
+| <b>Total liabilities</b> |  | 528,229 | 527,165 | 419,645 | 407,960 |
+| Represented by: |  |  |  |  |  |
+| <b>Net assets attributable to unitholders</b> |  | 598,990 | 626,884 | 371,228 | 412,543 |
+| Perpetual securities | 15 | 33,282 | 33,282 | 33,282 | 33,282 |
+| <b>Total net assets</b> |  | 632,272 | 660,166 | 404,510 | 445,825 |
+| <b>Units in issue ('000)</b> | 16 | 2,094,447 | 2,076,925 | 2,094,447 | 2,076,925 |
+| <b>Net asset value per unit in cents attributable to unitholders</b> | 16 | 28.60 | 30.18 | 17.72 | 19.86 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 124 -->
+
+### Statements of Total Return
+
+Year ended 31 December 2024
+
+|  |  | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  | Note | 2024 | 2023 | 2024 | 2023 |
+|  |  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Rental and other income</b> | 17 | 102,211 | 108,568 | 30,115 | 38,278 |
+| Property operating expenses | 18 | (3,758) | (3,234) | (226) | (225) |
+| <b>Net property and other income</b> |  | 98,453 | 105,334 | 29,889 | 38,053 |
+| Finance income | 19 | 362 | 507 | 1,241 | 1,714 |
+| Manager's management fees | 20 | (8,690) | (8,979) | (8,647) | (8,936) |
+| Asset management fees |  | (1,006) | (1,105) | – | – |
+| Trustee fees |  | (355) | (361) | (355) | (361) |
+| Finance costs | 19 | (22,773) | (22,698) | (20,662) | (20,429) |
+| Other expenses | 21 | (1,553) | (1,470) | (1,516) | (1,386) |
+| <b>Net income/(loss)</b> |  | 64,438 | 71,228 | (50) | 8,655 |
+| Net fair value (losses)/gains on investment properties | 4 | (9,578) | 10,834 | (1,300) | (906) |
+| Reversal of impairment losses on investments in subsidiaries | 5 | – | – | 7,012 | 24,656 |
+| Net fair value gains/(losses) of derivative financial instruments |  | 440 | (477) | 440 | (477) |
+| Net foreign exchange losses |  | (4,724) | (3,369) | (181) | (296) |
+| <b>Total return for the year before income tax</b> | 22 | 50,576 | 78,216 | 5,921 | 31,632 |
+| Income tax expenses | 23 | (13,822) | (14,877) | – | – |
+| <b>Total return for the year after income tax</b> |  | 36,754 | 63,339 | 5,921 | 31,632 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 125 -->
+
+### Statements of Total Return
+
+Year ended 31 December 2024
+
+|  |  | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  | Note | 2024 | 2023 | 2024 | 2023 |
+|  |  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Other comprehensive income:</b> |  |  |  |  |  |
+| <b>Items that may be reclassified subsequently to profit or loss:</b> |  |  |  |  |  |
+| Foreign operations: |  |  |  |  |  |
+| - Currency translation differences |  | (17,412) | (19,531) | – | – |
+| <b>Total comprehensive return for the year</b> |  | <b>19,342</b> | <b>43,808</b> | <b>5,921</b> | <b>31,632</b> |
+| <b>Total return attributable to:</b> |  |  |  |  |  |
+| Unitholders of the Trust |  | 35,093 | 61,683 | 4,260 | 29,976 |
+| Perpetual securities holders |  | 1,661 | 1,656 | 1,661 | 1,656 |
+|  |  | <b>36,754</b> | <b>63,339</b> | <b>5,921</b> | <b>31,632</b> |
+| <b>Total comprehensive return attributable to:</b> |  |  |  |  |  |
+| Unitholders of the Trust |  | 17,681 | 42,152 | 4,260 | 29,976 |
+| Perpetual securities holders |  | 1,661 | 1,656 | 1,661 | 1,656 |
+|  |  | <b>19,342</b> | <b>43,808</b> | <b>5,921</b> | <b>31,632</b> |
+| <b>Earnings per unit in cents</b> |  |  |  |  |  |
+| Basic and diluted | 24 | <b>1.68</b> | <b>2.98</b> |  |  |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 126 -->
+
+## Statements of Distribution
+
+Year ended 31 December 2024
+
+|  | Note | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  |  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Amount available for distribution to unitholders at beginning of the year</b> |  | 12,906 | 13,593 | 12,906 | 13,593 |
+| Total return for the year after income tax |  | 36,754 | 63,339 | 5,921 | 31,632 |
+| Adjustments for tax purposes (Note A) |  | 12,562 | (11,890) | 43,395 | 19,817 |
+| <b>Amount available for distribution to unitholders</b> |  | 62,222 | 65,042 | 62,222 | 65,042 |
+| Total distribution paid to unitholders | 25 | (50,109) | (52,136) | (50,109) | (52,136) |
+| <b>Amount available for distribution to unitholders at end of the year</b> |  | 12,113 | 12,906 | 12,113 | 12,906 |
+| <b>Distribution per unit (cents)</b> |  | 2.36 | 2.48 | 2.36 | 2.48 |
+
+Note A - Adjustments for tax purposes:
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| Manager's management fees settled in units | 4,291 | 4,468 | 4,291 | 4,468 |
+| Change in fair values on investment properties, net of deferred tax | 10,984 | (8,263) | 1,300 | 906 |
+| Adjustment on rental straight-lining | (10,227) | (15,189) | 176 | 86 |
+| Net fair value (gains)/losses of derivative financial instruments | (440) | 477 | (440) | 477 |
+| Reversal of impairment losses on investments in subsidiaries | – | – | (7,012) | (24,656) |
+| Capital repayment from subsidiaries: | – | – | 36,065 | 26,960 |
+| - Redemption of preference shares | – | – | 27,101 | 22,137 |
+| - Repayment of shareholder loans | – | – | 8,964 | 4,823 |
+| Amount reserved for distribution to perpetual securities holders | (1,661) | (1,656) | (1,661) | (1,656) |
+| Net settlement gains on currency hedging | 646 | 4 | 646 | 4 |
+| Foreign exchange adjustment losses | 3,140 | 2,598 | 104 | 274 |
+| Adjustments of dividend income from subsidiaries | – | – | 9,364 | 13,566 |
+| Other non-tax deductible items and adjustments | 5,829 | 5,671 | 562 | (612) |
+|  | 12,562 | (11,890) | 43,395 | 19,817 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 127 -->
+
+### Statements of Movements in Unitholders' Funds
+
+Year ended 31 December 2024
+
+| Group | Note | Unitholders' funds |  |  | Subtotal | Perpetual securities | Total |
+|-|-|-|-|-|-|-|-|
+|  |  | Issued equity<br>\$'000 | Retained earnings<br>\$'000 | Foreign exchange reserve<br>\$'000 |  |  |  |
+| <b>Operations</b> |  |  |  |  |  |  |  |
+| <b>At 1 January 2024</b> |  | 565,086 | 160,605 | (98,807) | 626,884 | 33,282 | 660,166 |
+| Total return for the year |  | – | 36,754 | – | 36,754 | – | 36,754 |
+| Less: Amount reserved for distribution to perpetual securities holders |  | – | (1,661) | – | (1,661) | 1,661 | – |
+| <b>Net increase in net assets resulting from operations</b> |  | – | 35,093 | – | 35,093 | 1,661 | 36,754 |
+| <b>Foreign exchange reserve</b> |  |  |  |  |  |  |  |
+| Foreign operations: |  |  |  |  |  |  |  |
+| - Currency translation differences |  | – | – | (17,412) | (17,412) | – | (17,412) |
+| <b>Total comprehensive return/(loss)</b> |  | – | 35,093 | (17,412) | 17,681 | 1,661 | 19,342 |
+| <b>Transactions with unitholders and perpetual securities holders</b> |  |  |  |  |  |  |  |
+| Manager's management fees settled in units |  | 4,534 | – | – | 4,534 | – | 4,534 |
+| Change in net assets resulting from creation of units |  | 4,534 | – | – | 4,534 | – | 4,534 |
+| Distributions to unitholders | 25 | (33,627) | (16,482) | – | (50,109) | – | (50,109) |
+| Distributions to perpetual securities holders |  | – | – | – | – | (1,661) | (1,661) |
+| <b>Net decrease in net assets resulting from transactions with unitholders and perpetual securities holders</b> |  | (29,093) | (16,482) | – | (45,575) | (1,661) | (47,236) |
+| <b>At 31 December 2024</b> |  | 535,993 | 179,216 | (116,219) | 598,990 | 33,282 | 632,272 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 128 -->
+
+## Statements of Movements in Unitholders' Funds
+
+Year ended 31 December 2024
+
+| Group | Note | Unitholders' funds |  |  | Perpetual securities | Total |
+|-|-|-|-|-|-|-|
+|  |  | Issued equity<br>\$'000 | Retained earnings<br>\$'000 | Foreign exchange reserve<br>\$'000 |  |  |
+|  |  |  |  | Subtotal<br>\$'000 | \$'000 | \$'000 |
+| <b>Operations</b> |  |  |  |  |  |  |
+| <b>At 1 January 2023</b> |  | 586,783 | 124,573 | (79,276) | 33,282 | 665,362 |
+| Total return for the year |  | – | 63,339 | – | – | 63,339 |
+| Less: Amount reserved for distribution to perpetual securities holders |  | – | (1,656) | – | 1,656 | – |
+| <b>Net increase in net assets resulting from operations</b> |  | – | 61,683 | – | 1,656 | 63,339 |
+| <b>Foreign exchange reserve</b> |  |  |  |  |  |  |
+| Foreign operations: |  |  |  |  |  |  |
+| - Currency translation differences |  | – | – | (19,531) | – | (19,531) |
+| <b>Total comprehensive return/(loss)</b> |  | – | 61,683 | (19,531) | 1,656 | 43,808 |
+| <b>Transactions with unitholders and perpetual securities holders</b> |  |  |  |  |  |  |
+| Manager's management fees settled in units |  | 4,788 | – | – | – | 4,788 |
+| Change in net assets resulting from creation of units |  | 4,788 | – | – | – | 4,788 |
+| Distributions to unitholders | 25 | (26,485) | (25,651) | – | – | (52,136) |
+| Distributions to perpetual securities holders |  | – | – | – | (1,656) | (1,656) |
+| <b>Net decrease in net assets resulting from transactions with unitholders and perpetual securities holders</b> |  | (21,697) | (25,651) | – | (1,656) | (49,004) |
+| <b>At 31 December 2023</b> |  | 565,086 | 160,605 | (98,807) | 33,282 | 660,166 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 129 -->
+
+## Statements of Movements in Unitholders' Funds
+
+Year ended 31 December 2024
+
+|  | Note | Unitholders' funds |  | Perpetual securities | Total |
+|-|-|-|-|-|-|
+|  |  | Issued equity<br>\$'000 | Accumulated losses<br>\$'000 |  |  |
+|  |  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Trust</b> |  |  |  |  |  |
+| <b>Operations</b> |  |  |  |  |  |
+| <b>At 1 January 2024</b> |  | 565,086 | (152,543) | 33,282 | 445,825 |
+| Total return for the year |  | – | 5,921 | – | 5,921 |
+| Less: Amount reserved for distribution to perpetual securities holders |  | – | (1,661) | 1,661 | – |
+| <b>Net increase in net assets resulting from operations/</b> |  |  |  |  |  |
+| <b>Total comprehensive return</b> |  | – | 4,260 | 1,661 | 5,921 |
+| <b>Transactions with unitholders and perpetual securities holders</b> |  |  |  |  |  |
+| Manager's management fees settled in units |  | 4,534 | – | – | 4,534 |
+| Change in net assets resulting from creation of units |  | 4,534 | – | – | 4,534 |
+| Distributions to unitholders | 25 | (33,627) | (16,482) | – | (50,109) |
+| Distributions to perpetual securities holders |  | – | – | (1,661) | (1,661) |
+| <b>Net decrease in net assets resulting from transactions with unitholders and perpetual securities holders</b> |  | (29,093) | (16,482) | (1,661) | (47,236) |
+| <b>At 31 December 2024</b> |  | 535,993 | (164,765) | 33,282 | 404,510 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 130 -->
+
+## Statements of Movements in Unitholders' Funds
+
+Year ended 31 December 2024
+
+| Note | Unitholders' funds |  |  | Perpetual securities | Total |
+|-|-|-|-|-|-|
+|  | Issued equity<br>\$'000 | Accumulated losses<br>\$'000 | Subtotal<br>\$'000 | \$'000 | \$'000 |
+| <b>Trust</b> |  |  |  |  |  |
+| <b>Operations</b> |  |  |  |  |  |
+| <b>At 1 January 2023</b> | 586,783 | (156,868) | 429,915 | 33,282 | 463,197 |
+| Total return for the year | – | 31,632 | 31,632 | – | 31,632 |
+| Less: Amount reserved for distribution to perpetual securities holders | – | (1,656) | (1,656) | 1,656 | – |
+| <b>Net increase in net assets resulting from operations/<br/>Total comprehensive return</b> | – | 29,976 | 29,976 | 1,656 | 31,632 |
+| <b>Transactions with unitholders and perpetual securities holders</b> |  |  |  |  |  |
+| Manager's management fees settled in units | 4,788 | – | 4,788 | – | 4,788 |
+| Change in net assets resulting from creation of units | 4,788 | – | 4,788 | – | 4,788 |
+| Distributions to unitholders | 25 (26,485) | (25,651) | (52,136) | – | (52,136) |
+| Distributions to perpetual securities holders | – | – | – | (1,656) | (1,656) |
+| <b>Net decrease in net assets resulting from transactions with unitholders and perpetual securities holders</b> | (21,697) | (25,651) | (47,348) | (1,656) | (49,004) |
+| <b>At 31 December 2023</b> | 565,086 | (152,543) | 412,543 | 33,282 | 445,825 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 131 -->
+
+## Consolidated Statement of Cash Flows
+
+Year ended 31 December 2024
+
+|  |  | Group |  |
+|-|-|-|-|
+|  | Note | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Cash flows from operating activities</b> |  |  |  |
+| Total return for the year after income tax |  | 36,754 | 63,339 |
+| Adjustments for: |  |  |  |
+| Finance income | 19 | (362) | (507) |
+| Interest expense | 19 | 18,242 | 18,023 |
+| Amortisation of transaction costs | 19 | 4,531 | 4,675 |
+| Depreciation expense | 21 | 12 | 13 |
+| Unrealised foreign exchange losses |  | 3,140 | 2,598 |
+| Losses on disposal of quoted shares | 21 | 6 | 7 |
+| Adjustment on rental straight-lining | 4 | (10,227) | (15,189) |
+| Net fair value losses/(gains) on investment properties | 4 | 9,578 | (10,834) |
+| Net fair value (gains)/losses of derivative financial instruments |  | (440) | 477 |
+| Manager's management fees settled in units |  | 4,291 | 4,468 |
+| Income tax expenses | 23 | 13,822 | 14,877 |
+|  |  | <hr/> 79,347 | <hr/> 81,947 |
+| Changes in: |  |  |  |
+| - Trade and other receivables |  | 903 | (6,678) |
+| - Other assets |  | 335 | 86 |
+| - Trade and other payables |  | (316) | 7,067 |
+| - Other liabilities |  | (2,104) | (339) |
+|  |  | <hr/> 78,165 | <hr/> 82,083 |
+| Cash generated from operations |  | <hr/> 78,165 | <hr/> 82,083 |
+| Income taxes paid |  | (12,392) | (12,128) |
+|  |  | <hr/> (12,392) | <hr/> (12,128) |
+| <b>Net cash flows from operating activities</b> |  | <hr/> 65,773 | <hr/> 69,955 |
+| <b>Cash flows from investing activities</b> |  |  |  |
+| Capital expenditure to investment properties | 4 | (5,859) | (4,923) |
+| Purchase of fixed assets |  | (75) | – |
+| Interest received |  | 501 | 307 |
+| Investments in quoted shares |  | (441) | (117) |
+| Proceeds from disposals of quoted shares |  | 435 | 110 |
+|  |  | <hr/> 435 | <hr/> 110 |
+| <b>Net cash flows used in investing activities</b> |  | <hr/> (5,439) | <hr/> (4,623) |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 132 -->
+
+## Consolidated Statement of Cash Flows
+
+Year ended 31 December 2024
+
+|  |  | Group |  |
+|-|-|-|-|
+|  | Note | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Cash flows from financing activities</b> |  |  |  |
+| Distribution to unitholders |  | (50,109) | (52,136) |
+| Distribution to perpetual securities holders |  | (1,661) | (1,656) |
+| Proceeds from borrowings | 12 | 7,000 | 122,000 |
+| Repayment of borrowings | 12 | (885) | (115,857) |
+| Payment of transaction costs related to borrowings | 12 | (1,669) | (3,778) |
+| Interest paid | 12 | (18,240) | (17,837) |
+| Proceeds from settlement of derivative financial instruments |  | 646 | 4 |
+| <b>Net cash flows used in financing activities</b> |  | <b>(64,918)</b> | <b>(69,260)</b> |
+| <b>Net decrease in cash and cash equivalents</b> |  | <b>(4,584)</b> | <b>(3,928)</b> |
+| Cash and cash equivalents at beginning of the year |  | 40,266 | 46,103 |
+| Effect of exchange rate fluctuations on cash and cash equivalents held |  | (1,008) | (1,909) |
+| <b>Cash and cash equivalents at 31 December</b> | 10 | <b>34,674</b> | <b>40,266</b> |
+
+#### Significant non-cash transactions:
+
+During the year, there were the following significant non-cash transactions:
+
+- For the period from 1 January 2024 to 31 December 2024, 7,186,626 Units, amounting to approximately \$1,830,000 were issued to the Manager as satisfaction of the base management fee paid to the Manager. The performance management fees for the period from 1 January 2024 to 31 December 2024, 9,717,016 Units amounting to approximately \$2,461,000 will be issued to the Manager in financial year 2025 based on 10 days volume weighted average price as at 31 December 2024.
+- For the period from 1 January 2023 to 31 December 2023, 7,439,255 Units, amounting to approximately \$1,835,000 were issued to the Manager as satisfaction of the base management fee paid to the Manager. The performance management fees for the period from 1 January 2023 to 31 December 2023, 10,096,541 Units amounting to approximately \$2,633,000 will be issued to the Manager in financial year 2024 based on 10 days volume weighted average price as at 31 December 2023.
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 133 -->
+
+## Statements of Portfolio
+
+As at 31 December 2024
+
+|  | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|
+| <b>Group</b> |  |  |  |  |
+| Investment properties in Singapore | 30,400 | 5.08 | 31,700 | 5.06 |
+| Investment properties in Indonesia | 839,898 | 140.22 | 849,055 | 135.44 |
+| Investment properties in Japan | 247,710 | 41.35 | 258,713 | 41.27 |
+| Portfolio of investment properties at valuation – total | 1,118,008 | 186.65 | 1,139,468 | 181.77 |
+| Other net liabilities | (485,736) | (81.09) | (479,302) | (76.46) |
+| Net assets attributable to holders | 632,272 | 105.56 | 660,166 | 105.31 |
+| Perpetual securities holders | (33,282) | (5.56) | (33,282) | (5.31) |
+| Net assets attributable to unitholders | 598,990 | 100.00 | 626,884 | 100.00 |
+| <b>Trust</b> |  |  |  |  |
+| Investment properties in Singapore | 30,400 | 8.19 | 31,700 | 7.68 |
+| Portfolio of investment properties at valuation – total | 30,400 | 8.19 | 31,700 | 7.68 |
+| Investments in subsidiaries | 746,614 | 201.12 | 766,703 | 185.85 |
+| Other net liabilities | (372,504) | (100.34) | (352,578) | (85.46) |
+| Net assets attributable to holders | 404,510 | 108.97 | 445,825 | 108.07 |
+| Perpetual securities holders | (33,282) | (8.97) | (33,282) | (8.07) |
+| Net assets attributable to unitholders | 371,228 | 100.00 | 412,543 | 100.00 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 134 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b><u>Singapore</u></b> |  |  |  |  |  |
+| Precious Homes @ Bukit Merah<br>6 Lengkok Bahru, Singapore 159051<br>11 April 2007, Nursing Home<br>30 years leasehold from 2002<br>10+10 years/ 2.3 years | 3,593 | 7,500 | 1.25 | 8,100 | 1.30 |
+| Precious Homes @ Bukit Panjang<br>21 Senja Road, Singapore 677736<br>11 April 2007, Nursing Home<br>30 years leasehold from 2003<br>10+10 years/ 2.3 years | 3,563 | 8,100 | 1.36 | 8,600 | 1.37 |
+| The Lentor Residence<br>51 Lentor Avenue, Singapore 786876<br>8 June 2007, Nursing Home<br>99 years leasehold from 1938<br>10+10+10 years/ 12.4 years | 4,005 | 14,800 | 2.47 | 15,000 | 2.39 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 135 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b>Indonesia</b> |  |  |  |  |  |
+| Siloam Hospitals Lippo Village<br>Jalan Siloam No. 6 Lippo Karawaci 1600,<br>Tangerang, Banten, Indonesia<br>11 December 2006, Hospital<br>Hak Guna Bangunan ("HGB")<br>15+15 years/ 26 years | 32,696 | 162,487 | 27.13 | 167,889 | 26.78 |
+| Siloam Hospitals Kebon Jeruk<br>Jalan Raya Perjuangan Kav. 8 Kebon Jeruk,<br>West Jakarta 11530, Indonesia<br>11 December 2006, Hospital<br>HGB<br>15+15 years/ 26 years | 20,268 | 70,345 | 11.74 | 70,863 | 11.30 |
+| Imperial Aryaduta Hotel & Country Club<br>Jalan Boulevard Jendral Sudirman, Kav. 401,<br>Lippo Village 1300, Tangerang, Banten,<br>Indonesia<br>11 December 2006, Hotel & Country Club<br>HGB<br>1+1 years/ 1 year | 17,926 | 27,723 | 4.63 | 28,567 | 4.56 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 136 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b>Indonesia (cont'd)</b> |  |  |  |  |  |
+| Mochtar Riady Comprehensive Cancer<br>Centre<br>Jalan Garnisun Dalam No. 2-3, Semanggi,<br>Central Jakarta 12930, Indonesia<br>30 December 2010, Hospital<br>HGB<br>15+15 years/ 26 years | 37,933 | 127,803 | 21.34 | 128,576 | 20.51 |
+| Siloam Hospitals Lippo Cikarang<br>Jalan Mohammad Husni Thamrin Kav. 105,<br>Lippo Cikarang, Bekasi, Indonesia 17550<br>31 December 2010, Hospital<br>HGB<br>15+15 years/ 16 years | 13,256 | 50,065 | 8.36 | 53,100 | 8.47 |
+| Siloam Hospitals Manado &<br>Hotel Aryaduta Manado<br>Jalan Sam Ratulangi No. 22,<br>Komplek Boulevard Center and<br>Jalan Piere Tendean No. 1,<br>Manado, North Sulawesi Indonesia 95111 | 36,051 | 79,365 | 13.25 | 78,237 | 12.48 |
+| Siloam Hospitals Manado<br>30 November 2012, Hospital<br>HGB<br>15+15 years/ 26 years |  |  |  |  |  |
+| Hotel Aryaduta Manado<br>30 November 2012, Hotel<br>HGB<br>15+15 years/ 18 years |  |  |  |  |  |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 137 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b><u>Indonesia (cont'd)</u></b> |  |  |  |  |  |
+| Siloam Hospitals Makassar<br>Jalan Metro Tanjung Bunga Kav<br>3-5, Makassar City, South Sulawesi,<br>Indonesia<br>30 November 2012, Hospital<br>HGB<br>15+15 years/ 26 years | 15,686 | 66,563 | 11.11 | 68,340 | 10.90 |
+| Siloam Hospitals Bali<br>Jalan Sunset Road No. 818, Kuta, Badung,<br>Bali, Indonesia<br>13 May 2013, Hospital<br>HGB<br>15+15 years/ 26 years | 20,958 | 64,245 | 10.72 | 64,280 | 10.25 |
+| Siloam Hospitals TB Simatupang<br>Jalan Letjend. TB Simatupang,<br>Jalan R.A. Kartini No. 8, Cilandak,<br>South Jakarta, Indonesia<br>22 May 2013, Hospital<br>HGB<br>15+15 years/ 26 years | 18,605 | 42,802 | 7.15 | 42,720 | 6.82 |
+| Siloam Hospitals Purwakarta<br>Jalan Raya Bungursari No. 1, Purwakarta,<br>West Java, Indonesia<br>28 May 2014, Hospital<br>HGB<br>15+15 years/ 26 years | 9,595 | 22,601 | 3.77 | 22,210 | 3.54 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 138 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b><u>Indonesia (cont'd)</u></b> |  |  |  |  |  |
+| Siloam Sriwijaya<br>Jalan POM IX, Komplek Palembang Square,<br>Palembang, South Sumatra, Indonesia<br>29 December 2014, Hospital<br>Strata Title on Build, Operate and Transfer<br>("BOT") scheme<br>15+15 years/ 26 years | 15,336 | 22,015 | 3.68 | 21,561 | 3.44 |
+| Siloam Hospitals Kupang &<br>Lippo Plaza Kupang<br>Jalan Veteran, No. 4, Arena Pameran<br>Fatululi, Kupang,<br>East Nusa Tenggara, Indonesia | 55,368 | 49,843 | 8.32 | 49,742 | 7.94 |
+| Siloam Hospitals Kupang<br>14 December 2015, Hospital<br>BOT scheme<br>15+15 years/ 26 years |  |  |  |  |  |
+| Lippo Plaza Kupang<br>14 December 2015, Mall<br>BOT scheme<br>15+15 years/ 21 years |  |  |  |  |  |
+| Siloam Hospitals Labuan Bajo<br>Jalan Gabriel Gampur, Labuan Bajo,<br>East Nusa Tenggara, Indonesia<br>30 December 2016, Hospital<br>HGB<br>15+15 years/ 26 years | 7,604 | 10,542 | 1.76 | 9,966 | 1.59 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 139 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| <b>Indonesia (cont'd)</b> |  |  |  |  |  |
+| Siloam Hospitals Baubau &<br>Lippo Plaza Baubau<br>Jalan Sultan Hasanuddin No. 50, 52,<br>54 and 58, and Jalan Jambu Mente No. 3<br>Bau Bau, Sulawesi<br>Tenggara, Indonesia | 21,934 | 23,858 | 3.98 | 23,542 | 3.76 |
+| Siloam Hospitals Baubau<br>10 October 2017, Hospital<br>BOT scheme<br>15+15 years/ 26 years |  |  |  |  |  |
+| Lippo Plaza Baubau<br>10 October 2017, Mall<br>BOT Scheme<br>15+15 years/ 23 years |  |  |  |  |  |
+| Siloam Hospitals Yogyakarta<br>Jalan Laksda Adi Sucipto<br>No. 32-34 Yogyakarta, Indonesia<br>22 December 2017, Hospital<br>HGB<br>15+15 years/ 26 years | 12,474 | 19,641 | 3.28 | 19,462 | 3.10 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 140 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  |
+|-|-|-|-|-|-|
+|  |  | Carrying<br>value as at |  | Carrying<br>value as at |  |
+|  |  | 31/12/2024 | 31/12/2024 | 31/12/2023 | 31/12/2023 |
+|  |  | \$'000 | % | \$'000 | % |
+| <b>Japan</b> |  |  |  |  |  |
+| Hikari Heights Varus Ishiyama<br>Ishiyama 1-jo 3-3-33<br>Minami-ku, Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 8,747 | 7,506 | 1.25 | 7,195 | 1.14 |
+| Hikari Heights Varus Tsukisamu Koen<br>Misono 9-jo 8-5-1, Toyohira-ku<br>Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 4,362 | 6,063 | 1.01 | 6,311 | 1.01 |
+| Hikari Heights Varus Fujino<br>Fujino 3-jo 11-10-11, Minami-ku<br>Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 9,782 | 14,784 | 2.47 | 15,456 | 2.47 |
+| Hikari Heights Varus Kotoni<br>Nijuyonken 4-jo 1-3-1, Nishi-ku,<br>Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 20,756 | 58,784 | 9.81 | 60,996 | 9.73 |
+| Varus Cuore Yamanote<br>Yamanote 6-jo 2-1-1, Nishi-ku<br>Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 2,808 | 9,944 | 1.66 | 10,488 | 1.67 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 141 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  |
+|-|-|-|-|-|-|
+|  |  | Carrying<br>value as at |  | Carrying<br>value as at |  |
+|  |  | 31/12/2024 | 31/12/2024 | 31/12/2023 | 31/12/2023 |
+|  |  | \$'000 | % | \$'000 | % |
+| <b>Japan (cont'd)</b> |  |  |  |  |  |
+| Hikari Heights Varus Makomanai Koen<br>Makomanai Midoricho 1-1-1<br>Minami-ku, Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 13,301 | 42,504 | 7.10 | 44,344 | 7.07 |
+| Varus Cuore Sapporo Kita/ Annex<br>Tonden 8-jo 9-3-7, Kita-ku<br>Sapporo, Hokkaido<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 7,637 | 26,312 | 4.39 | 27,508 | 4.39 |
+| Elysion Gakuenmae<br>Nakatomigaoka 1-1994-6,<br>Nara-shi, Nara<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 3,790 | 14,168 | 2.37 | 15,272 | 2.44 |
+| Elysion Mamigaoka/<br>Mamigaoka Annex<br>Umami-minami 4-1-18, Koryocho<br>Kitakatsuragi-gun, Nara<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 10,259 | 19,360 | 3.23 | 20,884 | 3.33 |
+| Orchard Amanohashidate<br>Aza Mannen Koaza Akaiwa 1060-1,<br>Miyazu, Kyoto<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 2,927 | 7,814 | 1.30 | 8,206 | 1.31 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 142 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+### Group
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease <sup>(a)</sup> /<br>Remaining term of lease <sup>(b)</sup> | Gross<br>floor area<br>in square<br>metres | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at |  |
+|-|-|-|-|-|-|
+|  |  | Carrying<br>value as at |  | Carrying<br>value as at |  |
+|  |  | 31/12/2024 | 31/12/2024 | 31/12/2023 | 31/12/2023 |
+|  |  | \$'000 | % | \$'000 | % |
+| Japan (cont'd) |  |  |  |  |  |
+| Orchard Kaichi North<br>Kaichi 2-3-50, Matsumoto, Nagano<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 5,058 | 11,968 | 2.00 | 12,420 | 1.98 |
+| Orchard Kaichi West<br>Kaichi 2-3-50, Matsumoto, Nagano<br>01 March 2022, Nursing Home<br>Freehold<br>30+5 years/ 23.3 years | 1,561 | 4,127 | 0.69 | 4,333 | 0.69 |
+| Medical Rehabilitation Home Bon<br>Séjour Komaki<br>3-chōme-1 Shiroyama, Komaki,<br>Aichi 485-0812, Japan<br>27 September 2022, Nursing Home<br>Freehold<br>20+5 years/ 7.4 years | 8,858 | 14,168 | 2.37 | 14,720 | 2.35 |
+| Loyal Residence Ayase<br>4695-1, 7- chōme, Fukaya,<br>Ayase city, Kanagawa<br>29 September 2022, Nursing Home<br>Freehold<br>30 years/ 18.7 years | 3,387 | 10,208 | 1.70 | 10,580 | 1.69 |
+| Portfolio of investment properties held by the<br>Group at valuation – Total |  | 1,118,008 | 186.65 | 1,139,468 | 181.77 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 143 -->
+
+## Statements of Portfolio
+
+As at 31 December 2024
+
+Notes:
+
+- (a): This refers to the entire tenure of the master lease terms on the basis that the underlying HGB Titles of each of the properties can be extended and renewed, except for Siloam Sriwijaya which is held on a strata title basis under a Build, Operate and Transfer (“BOT”) scheme, and Siloam Hospitals Kupang & Lippo Plaza Kupang and Siloam Hospitals Baubau & Lippo Plaza Baubau which are under BOT schemes.
+- (b): This refers to the remaining tenure of the master lease terms as at 31 December 2024 on the basis that the underlying HGB Titles of each of the properties can be extended and renewed, except for Siloam Sriwijaya which is held on a strata title basis under BOT scheme, and Siloam Hospitals Kupang & Lippo Plaza Kupang and Siloam Hospitals Baubau & Lippo Plaza Baubau which are under BOT schemes.
+
+The types of property titles held by the Group are as follows:
+
+#### **(i) Hak Guna Bangunan (“HGB”) Title**
+
+This title gives the right to construct and own buildings on a plot of land. The right is transferable and may be encumbered. Technically, HGB is a leasehold title which the State retains “ownership”. For practical purposes, there is little difference from a freehold title. HGB title is granted for an initial period of up to 30 years and is extendable for a subsequent 20-year period and another 30-year period. Upon the expiration of such extensions, new HGB title may be granted on the same land. The cost of extension is determined based on a certain formula as stipulated by the National Land Office (Badan Pertanahan Nasional) in Indonesia.
+
+#### **(ii) Build, Operate and Transfer Scheme (“BOT Scheme”)**
+
+This scheme is a structure in Indonesia for the construction of commercial buildings where Indonesia government owns the relevant land (“BOT land”). Under the BOT scheme, the Indonesia government which owns BOT land (“BOT grantor”) agrees to grant certain rights over the BOT land to another party (“BOT grantee”).
+
+The BOT grantee can develop the site, subject to the relevant approvals and then operate the buildings constructed on the BOT land for a particular period of time as stipulated in the BOT agreement, including obtaining Strata title certificates on the BOT land. A BOT scheme is granted for an initial period of 20 to 30 years and is extendable upon agreement of both the grantor and grantee. Upon expiration of the term of the BOT agreement, the BOT grantee must return the land, together with any buildings and fixtures on top of the land, without either party providing any form of compensation to the other.
+
+#### **(iii) Strata Title**
+
+This title gives the party who holds the property the ownership of common areas, common property and common land proportionately with other Strata title owners.
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 144 -->
+
+### Statements of Portfolio
+
+As at 31 December 2024
+
+#### By Geographical Area
+
+## Trust
+
+| Description of property /<br>Location / Acquisition date /<br>Type of property / Land title type /<br>Term of lease /<br>Remaining term of lease | Gross<br>floor area<br>in square<br>metres | Carrying<br>value as at<br>31/12/2024<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2024<br>% | Carrying<br>value as at<br>31/12/2023<br>\$'000 | Percentage<br>of net assets<br>attributable to<br>unitholders<br>as at<br>31/12/2023<br>% |
+|-|-|-|-|-|-|
+| Singapore |  |  |  |  |  |
+| Precious Homes @ Bukit Merah<br>6 Lengkok Bahru, Singapore 159051<br>11 April 2007, Nursing Home<br>30 years leasehold from 2002<br>10+10 years/ 2.3 years | 3,593 | 7,500 | 2.02 | 8,100 | 1.96 |
+| Precious Homes @ Bukit Panjang<br>21 Senja Road, Singapore 677736<br>11 April 2007, Nursing Home<br>30 years leasehold from 2003<br>10+10 years/ 2.3 years | 3,563 | 8,100 | 2.18 | 8,600 | 2.08 |
+| The Lentor Residence<br>51 Lentor Avenue, Singapore 786876<br>8 June 2007, Nursing Home<br>99 years leasehold from 1938<br>10+10+10 years/ 12.4 years | 4,005 | 14,800 | 3.99 | 15,000 | 3.64 |
+| Portfolio of investment properties held<br>by the Trust at valuation – Total |  | 30,400 | 8.19 | 31,700 | 7.68 |
+
+The accompanying notes form an integral part of these financial statements.
+
+<!-- PAGE 145 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+These notes form an integral part of the financial statements.
+
+The financial statements were authorised for issue by the Manager on 26 March 2025.
+
+### 1 GENERAL
+
+First Real Estate Investment Trust (the “Trust”) is a Singapore-domiciled unit trust constituted pursuant to the trust deed dated 19 October 2006 (subsequently amended by First Supplemental Deed dated 6 September 2007, Second Supplemental Deed dated 19 April 2010, Third Supplemental Deed dated 26 April 2011, Fourth Supplemental Deed dated 1 April 2013, First Amending and Restating Deed dated 23 March 2016, Supplemental Deed of Retirement and Appointment of Trustee dated 1 November 2017, Fifth Supplemental Deed dated 22 May 2018, Sixth Supplemental Deed dated 30 April 2019, Seventh Supplemental Deed dated 7 April 2020 and Eighth Supplemental Deed dated 25 February 2022) (the “Trust Deed”) between First REIT Management Limited (the “Manager”) and Perpetual (Asia) Limited (the “Trustee”), governed by the laws of Singapore.
+
+The Trust is listed on the Singapore Exchange Securities Trading Limited (“SGX-ST”).
+
+The principal activity of the Trust and its subsidiaries is to invest in a portfolio of income producing real estate properties, which are primarily used for healthcare and healthcare related purposes. The primary objective is to deliver regular and stable distributions to unitholders and to achieve long-term growth in the net asset value per unit.
+
+The consolidated financial statements relate to the Trust and its subsidiaries (together referred to as the “Group” and individually as “Group entities”).
+
+The Group is regarded as a subsidiary of OUE Healthcare Limited (“OUEH”) for financial reporting purposes. Accordingly, the ultimate holding company of the Trust is Lippo ASM Asia Property Limited, a company incorporated in the Cayman Islands.
+
+The registered office of the Manager is 333 Orchard Road, #33-02 Hilton Singapore Orchard, Singapore 238867.
+
+The Trust has entered into several service agreements in relation to the management of the Trust. The fee structures of these services are as follows:
+
+#### Manager’s fees
+
+Under the Trust Deed, the Manager is entitled to management fees comprising the base fee and performance fee as follows:
+
+- (i) A base fee of 0.4% (2023: 0.4%) per annum of the value of the Deposited Property. The Manager’s management fee was derived after deducting the asset management fee charged by the Japan asset management company for managing the Japan properties. Any increase in the rate of the base fee above the permitted limit or any change in the structure of the base fee shall be approved by an extraordinary resolution of a meeting of unitholders. The Manager may opt to receive the base fee in the form of units and/or cash.
+
+<!-- PAGE 146 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 1 GENERAL (CONT'D)
+
+#### Manager's fees (cont'd)
+
+- (ii) A performance fee fixed at 5.0% (2023: 5.0%) per annum of the Group's Net Property Income ("NPI") or the NPI of the relevant Special Purpose Companies ("SPCs") for each year. NPI in relation to a real estate in the form of land, whether directly held by the Trustee or indirectly held by the Trustee through a SPC, and in relation to any year or part thereof, means its property income less property operating expenses for such real estate for that year or part thereof. The Manager may opt to receive the performance fee in the form of units and/or cash. Based on the First Amending and Restating Deed dated 23 March 2016, the performance fees for the financial year is computed based on audited accounts relating to the relevant SPCs.
+- (iii) Manager's acquisition fee determined at 1.0% (2023: 1.0%) of the value or consideration as defined in the Trust Deed for any real estate or other investments (subject to there being no double-counting).
+- (iv) A divestment fee at 0.5% (2023: 0.5%) of the value or consideration as defined in the Trust Deed for any real estate or other investments (subject to there being no double-counting).
+
+#### Trustee fees
+
+Under the Trust Deed, the Trustee is entitled to an annual fee not exceeding 0.1% (2023: 0.1%) of the value of the Deposited Property (as defined in the Trust Deed).
+
+The actual fee payable will be determined between the Manager and the Trustee from time to time. The Trustee's fee is subject to review every three years.
+
+### 2 BASIS OF PREPARATION
+
+#### 2.1 Statement of compliance
+
+The financial statements have been prepared in accordance with the recommendations of the Statement of Recommended Accounting Practice 7 "*Reporting Framework for Investment Funds*" ("RAP 7") issued by the Institute of Singapore Chartered Accountants and the applicable requirements of the Code on Collective Investment Schemes (the "CIS Code") issued by the Monetary Authority of Singapore ("MAS") and the provisions of the Trust Deed. RAP 7 requires the accounting policies to generally comply with the recognition and measurement principles relating to recognition and measurement of Singapore Financial Reporting Standards ("FRS") issued by the Singapore Accounting Standards Council.
+
+The changes to material accounting policies are described in note 2.5.
+
+#### 2.2 Basis of measurement
+
+The financial statements have been prepared on the historical cost basis except as otherwise described in the notes below.
+
+<!-- PAGE 147 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 2 BASIS OF PREPARATION (CONT'D)
+
+#### 2.3 Functional and presentation currency
+
+These financial statements are presented in Singapore dollars ("SGD"), which is the Trust's functional currency. All financial information presented in Singapore dollars have been rounded to the nearest thousand, unless otherwise stated.
+
+#### 2.4 Use of estimates and judgment
+
+The preparation of the financial statements in conformity with RAP 7 requires the Manager to make judgments, estimates and assumptions about the future, including climate-related risks and opportunities, that affect the application of the Group's accounting policies and the reported amounts of assets, liabilities, income and expenses. Actual results may differ from these estimates.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis and are consistent with the Group's risk management and climate-related commitments where appropriate. Revisions to accounting estimates are recognised prospectively.
+
+Information about assumptions and estimation uncertainties that have a significant risk of resulting in a material adjustment to the carrying amounts of assets and liabilities within the next financial year are included in the following notes:
+
+- Note 4 – Determination of fair value of investment properties
+- Note 5 – Determination of recoverable amounts of investment in subsidiaries
+
+#### Measurement of fair values
+
+A number of the Group's accounting policies and disclosures require the measurement of fair values, for both financial and non-financial assets, and financial and non-financial liabilities.
+
+The Manager has an established control framework with respect to the measurement of fair values. This includes a valuation team that has overall responsibility for all significant fair value measurements, including Level 3 fair values, and reports directly to the Chief Financial Officer.
+
+The valuation team regularly reviews significant unobservable inputs and valuation adjustments. If third party information, such as property valuations, broker quotes or pricing services, is used to measure fair values, then the valuation team assesses the evidence obtained from the third parties to support the conclusion that these valuations meet the requirements of FRS, including the level in the fair value hierarchy in the valuations should be classified.
+
+When measuring the fair value of an asset or a liability, the Group uses observable market data as far as possible. Fair values are categorised into different levels in a fair value hierarchy based on the inputs used in the valuation techniques as follows:
+
+Level 1: quoted prices (unadjusted) in active markets for identical assets or liabilities.
+
+Level 2: inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+
+Level 3: inputs for the asset or liability that are not based on observable market data (unobservable inputs).
+
+<!-- PAGE 148 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 2 BASIS OF PREPARATION (CONT'D)
+
+#### 2.4 Use of estimates and judgment (cont'd)
+
+##### Measurement of fair values (cont'd)
+
+If the inputs used to measure the fair value of an asset or a liability fall into different levels of the fair value hierarchy, then the fair value measurement is categorised in its entirety in the same level of the fair value hierarchy as the lowest level input that is significant to the entire measurement (with Level 3 being the lowest).
+
+The Group recognises transfers between levels of the fair value hierarchy as of the end of the reporting period during which the change has occurred.
+
+Further information about the assumptions made in measuring fair values is included in note 4 – investment properties.
+
+#### 2.5 Changes in material accounting policies
+
+#### New accounting standards and amendments
+
+The Group has applied the amendments to FRSs for the first time for the annual period beginning on 1 January 2024:
+
+- Amendments to FRS 1 *Classification of Liabilities as Current or Non-current and Amendments to FRS 1 Non-current Liabilities with Covenants*
+- Amendment to FRS 116 *Lease Liability in a Sale and Leaseback*
+- Amendments to FRS 7 and FRS 107 *Supplier Finance Arrangements*
+
+The application of these amendments to accounting standards and interpretation does not have a material effect on financial statements.
+
+### 3 MATERIAL ACCOUNTING POLICIES
+
+The accounting policies set out below have been applied consistently to all periods presented in these financial statements.
+
+#### 3.1 Financial instruments
+
+##### (i) Recognition and initial measurement
+
+###### Non-derivative financial assets and financial liabilities
+
+Trade receivables are initially recognised when they are originated. All other financial assets and financial liabilities are initially recognised when the Group becomes a party to the contractual provisions of the instrument.
+
+<!-- PAGE 149 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.1 Financial instruments (cont'd)
+
+##### (i) Recognition and initial measurement (cont'd)
+
+###### **Non-derivative financial assets and financial liabilities (cont'd)**
+
+A financial asset (unless it is a trade receivable without a significant financing component) or financial liability is initially measured at fair value plus or minus, for an item not at fair value through profit or loss ("FVTPL"), transaction costs that are directly attributable to its acquisition or issue. A trade receivable without a significant financing component is initially measured at the transaction price. However, if the Group has an unconditional right to an amount that differs from the transaction price (e.g. due to Group's refund policy), the trade receivable will be initially measured at the amount of that unconditional right.
+
+##### (ii) Classification, subsequent measurement and gains and losses
+
+###### **Non-derivative financial assets**
+
+On initial recognition, a financial asset is classified as measured at amortised cost or FVTPL.
+
+Financial assets are not reclassified subsequent to their initial recognition unless the Group changes its business model for managing financial assets, in which case all affected financial assets are reclassified on the first day of the first reporting period following the change in the business model.
+
+###### **Financial assets at amortised cost**
+
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at FVTPL:
+
+- it is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+- its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest ("SPPI") on the principal amount outstanding.
+
+These assets are subsequently measured at amortised cost using the effective interest method. The amortised cost is reduced by impairment losses. Interest income, foreign exchange gains and losses and impairment are recognised in profit or loss. Any gain or loss on derecognition is recognised in profit or loss.
+
+###### **Financial assets at FVTPL**
+
+All financial assets not classified as measured at amortised cost or fair value through other comprehensive income ("FVOCI") are measured at FVTPL. On initial recognition, the Group may irrevocably designate a financial asset that otherwise meets the requirements to be measured at amortised cost or at FVOCI as at FVTPL if doing so eliminates or significantly reduces an accounting mismatch that would otherwise arise.
+
+These assets are subsequently measured at fair value. Net gains and losses, including any interest or dividend income, are recognised in profit or loss.
+
+<!-- PAGE 150 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.1 Financial instruments (cont'd)
+
+##### (ii) Classification, subsequent measurement and gains and losses (cont'd)
+
+###### **Financial assets: Business model assessment**
+
+The Group makes an assessment of the objective of the business model in which a financial asset is held at a portfolio level because this best reflects the way the business is managed and information is provided to the Manager.
+
+Transfers of financial assets to third parties in transactions that do not qualify for derecognition are not considered sales for this purpose, consistent with the Group's continuing recognition of the assets.
+
+###### **Non-derivative financial assets: Assessment whether contractual cash flows are solely payments of principal and interest**
+
+In assessing whether the contractual cash flows are solely payments of principal and interest, the Group considers the contractual terms of the instrument. This includes assessing whether the financial asset contains a contractual term that could change the timing or amount of contractual cash flows such that it would not meet this condition. In making this assessment, the Group considers:
+
+- contingent events that would change the amount or timing of cash flows;
+- terms that may adjust the contractual coupon rate, including variable rate features;
+- prepayment and extension features; and
+- terms that limit the Group's claim to cash flows from specified assets (e.g. non-recourse features).
+
+A prepayment feature is consistent with the solely payments of principal and interest criterion if the prepayment amount substantially represents unpaid amounts of principal and interest on the principal amount outstanding, which may include reasonable compensation for early termination of the contract. Additionally, for a financial asset acquired at a significant discount or premium to its contractual par amount, a feature that permits or requires prepayment at an amount that substantially represents the contractual par amount plus accrued (but unpaid) contractual interest (which may also include reasonable compensation for early termination) is treated as consistent with this criterion if the fair value of the prepayment feature is insignificant on initial recognition.
+
+The Group had no financial assets held outside trading business models that failed the SPPI assessment.
+
+###### **Non-derivative financial liabilities: Classification, subsequent measurement and gains and losses**
+
+Financial liabilities are classified as measured at amortised cost.
+
+Financial liabilities are initially measured at fair value less directly attributable transaction costs. They are subsequently measured at amortised cost under the effective interest method. Interest expense and foreign exchange gains and losses are recognised in profit or loss.
+
+<!-- PAGE 151 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.1 Financial instruments (cont'd)
+
+##### (iii) Derecognition
+
+###### Financial assets
+
+The Group derecognises a financial asset when:
+
+- the contractual rights to the cash flows from the financial asset expire; or
+- it transfers the rights to receive the contractual cash flows in a transaction in which either
+ - substantially all of the risks and rewards of ownership of the financial asset are transferred; or
+ - the Group neither transfers nor retains substantially all of the risks and rewards of ownership and it does not retain control of the financial asset.
+
+Transferred assets are not derecognised when the Group enters into transactions whereby it transfers assets recognised in its statements of financial position, but retains either all or substantially all of the risks and rewards of the transferred assets. In these cases, the transferred assets are not derecognised.
+
+###### Financial liabilities
+
+The Group derecognises a financial liability when its contractual obligations are discharged or cancelled, or expire. The Group also derecognises a financial liability when its terms are modified and the cash flows of the modified liability are substantially different, in which case a new financial liability based on the modified terms is recognised at fair value.
+
+On derecognition of a financial liability, the difference between the carrying amount extinguished and the consideration paid (including any non-cash assets transferred or liabilities assumed) is recognised in profit or loss.
+
+##### (iv) Offsetting
+
+Financial asset and financial liabilities are offset and net amount presented in the statements of financial position when, and only when, the Group currently has a legally enforceable right to set off the amounts and it intends either to settle them on a net basis or to realise the asset and settle the liability simultaneously.
+
+##### (v) Cash and cash equivalents
+
+Cash and cash equivalents comprise cash balances and short-term deposits with maturities of three months or less from the date of acquisition that are subject to an insignificant risk of changes in their fair value, and are used by the Group in the management of its short-term commitments.
+
+##### (vi) Derivative financial instruments
+
+The Group holds derivative financial instruments to hedge its foreign currency and interest rate risk exposures. Embedded derivatives are separated from the host contract and accounted for separately if the host contract is not a financial asset and certain criteria are met.
+
+Derivatives are initially measured at fair value. Subsequent to initial recognition, derivatives are measured at fair value, and changes therein are generally recognised in profit or loss.
+
+<!-- PAGE 152 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.2 Segment reporting
+
+An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, including revenues and expenses that relate to transactions with any of the Group's other components. All operating segments' operating results are reviewed regularly by the Board of the Directors of the Manager to make decisions about resources to be allocated to the segment and assess its performance, and for which discrete financial information is available.
+
+Segment results that are reported to the Board of the Directors of the Manager include items directly attributable to a segment as well as those that can be allocated on a reasonable basis.
+
+#### 3.3 Basis of consolidation
+
+##### (i) Business combinations
+
+The Group accounts for business combinations under the acquisition method when the acquired set of activities and assets meets the definition of a business and control is transferred to the Group (see note 3.3 (iii)). In determining whether a particular set of activities and assets is a business, the Group assesses whether the set of assets and activities acquired includes, at a minimum, an input and substantive process and whether the acquired set has the ability to produce outputs.
+
+The Group has an option to apply a 'concentration test' that permits a simplified assessment of whether an acquired set of activities and assets is not a business. The optional concentration test is met if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar identifiable assets.
+
+The consideration transferred in the acquisition is generally measured at fair value, as are the identifiable net assets acquired. Any goodwill that arises is tested annually for impairment (see note 3.7 (ii)). Any gain on a bargain purchase is recognised in profit or loss immediately. Transaction costs are expensed as incurred, except if related to the issue of debt or equity securities (see note 3.1).
+
+The consideration transferred does not include amounts related to the settlement of pre-existing relationships. Such amounts are generally recognised in profit or loss.
+
+Any contingent consideration payable is recognised at fair value at the date of acquisition. If an obligation to pay contingent consideration that meets the definition of a financial instrument is classified as equity, it is not remeasured and settlement is accounted for within equity. Otherwise, other contingent consideration is remeasured at fair value at each reporting date and subsequent changes to the fair value of the contingent consideration are recognised in profit or loss.
+
+Changes in the Group's interest in a subsidiary that do not result in a loss of control are accounted for as equity transactions.
+
+##### (ii) Property acquisition and business combination
+
+Where a property is acquired, via corporate acquisitions or otherwise, the Manager consider whether the acquisition represents an acquisition of a business or an acquisition of an asset. The Group accounts for an acquisition as business combination when an integrated set of activities is acquired, in addition to the property.
+
+In determining whether an integrated set of activities is acquired, the Manager consider whether significant processes are acquired (e.g. strategic management and operations processes, etc.). Where significant processes are acquired, the acquisition is considered an acquisition of business.
+
+When acquisition of an asset or a group of assets does not constitute a business combination, it is accounted as property acquisition. In such cases, the individual identifiable assets acquired and liabilities assumed are recognised. The acquisition cost shall be allocated to the individual identifiable assets and liabilities on the basis of their relative fair values at the date of acquisition. Such a transaction does not give rise to goodwill and deferred tax.
+
+<!-- PAGE 153 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.3 Basis of consolidation (cont'd)
+
+##### (iii) Subsidiaries
+
+Subsidiaries are entities controlled by the Group. The Group controls an entity when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity. The financial statements of subsidiaries are included in the consolidated financial statements from the date that control commences until the date that control ceases.
+
+The accounting policies of subsidiaries have been changed when necessary to align them with the policies adopted by the Group.
+
+##### (iv) Loss of control
+
+When the Group loses control over a subsidiary, it derecognises the assets and liabilities of the subsidiary, and any related non-controlling interest ("NCI") and other components of equity. Any resulting gain or loss is recognised in profit or loss. Any interest retained in the former subsidiary is measured at fair value when control is lost.
+
+##### (v) Joint operations
+
+A joint operation is an arrangement in which the Group has joint control whereby the Group has rights to the assets, and obligations for the liabilities, relating to an arrangement. The Group accounts for each of its assets, liabilities and transactions, including its share of those held or incurred jointly, in relation to the joint operation.
+
+##### (vi) Transactions eliminated on consolidation
+
+Intra-group balances and transactions, and any unrealised income and expenses (except for foreign currency transaction gains or losses) arising from intra-group transactions, are eliminated in preparing the consolidated financial statements. Unrealised gains arising from transactions with equity-accounted investees are eliminated against the investment to the extent of the Group's interest in the investee. Unrealised losses are eliminated in the same way as unrealised gains, but only to the extent that there is no evidence of impairment.
+
+##### (vii) Subsidiaries in the separate financial statements
+
+Investments in subsidiaries are stated in the Trust's statement of financial position at cost less accumulated impairment losses.
+
+#### 3.4 Investment properties
+
+Investment properties are measured at cost on initial recognition and subsequently at fair value with any change therein recognised in profit or loss.
+
+The cost of a purchased property comprises its purchase price and any directly attributable expenditure, including transaction costs. Fair value is determined in accordance with the Trust Deed, which requires the investment properties to be valued by independent registered valuers at least once a year, in accordance with the CIS Code issued by the MAS.
+
+Any gain or loss on disposal of an investment property (calculated as the difference between the net proceeds from disposal and the carrying amount of the item) is recognised in profit or loss.
+
+The investment properties are subject to continued maintenance and regularly revalued on the basis set out above. For income tax purpose, the Group may claim capital allowance on assets that qualify as plant and machinery under the Income Tax Act.
+
+<!-- PAGE 154 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.5 Unitholders' funds
+
+Unitholders' funds are classified as equity.
+
+Issue costs relate to expenses incurred in connection with the issue of units. The expenses are deducted directly against unitholders' funds.
+
+#### 3.6 Leases
+
+At inception of a contract, the Group assesses whether a contract is, or contains, a lease. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration.
+
+##### **As a lessor**
+
+At inception or on modification of a contract that contains a lease component, the Group allocates the consideration in the contract to each lease component on the basis of their relative stand-alone prices.
+
+When the Group acts as a lessor, it determines at lease inception whether each lease is a finance lease or an operating lease.
+
+To classify each lease, the Group makes an overall assessment of whether the lease transfers substantially all of the risks and rewards incidental to ownership of the underlying asset. If this is the case, then the lease is a finance lease; if not, then it is an operating lease. As part of this assessment, the Group considers certain indicators such as whether the lease is for the major part of the economic life of the asset.
+
+The Group recognises lease payments received from investment property under operating leases as income on a straight-line basis over the lease term as part of 'revenue'.
+
+#### 3.7 Impairment
+
+##### **(i) Non-derivative financial assets**
+
+The Group recognises loss allowances for expected credit losses ("ECLs") on financial assets measured at amortised cost.
+
+Loss allowances of the Group are measured on either of the following bases:
+
+- 12-month ECLs: these are ECLs that result from default events that are possible within the 12 months after the reporting date (or for a shorter period if the expected life of the instrument is less than 12 months); or
+- Lifetime ECLs: these are ECLs that result from all possible default events over the expected life of a financial instrument or contract asset.
+
+###### ***Simplified approach***
+
+The Group applies the simplified approach to provide for ECLs for all trade receivables. The simplified approach requires the loss allowance to be measured at an amount equal to lifetime ECLs.
+
+<!-- PAGE 155 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.7 Impairment (cont'd)
+
+##### (i) Non-derivative financial assets (cont'd)
+
+###### **General approach**
+
+The Group applies the general approach to provide for ECLs on all other financial instruments. Under the general approach, the loss allowance is measured at an amount equal to 12-month ECLs at initial recognition.
+
+At each reporting date, the Group assesses whether the credit risk of a financial instrument has increased significantly since initial recognition. When credit risk has increased significantly since initial recognition, loss allowance is measured at an amount equal to lifetime ECLs.
+
+When determining whether the credit risk of a financial asset has increased significantly since initial recognition and when estimating ECLs, the Group considers reasonable and supportable information that is relevant and available without undue cost or effort. This includes both quantitative and qualitative information and analysis, based on the Group's historical experience and informed credit assessment and includes forward-looking information.
+
+If credit risk has not increased significantly since initial recognition or if the credit quality of the financial instruments improves such that there is no longer a significant increase in credit risk since initial recognition, loss allowance is measured at an amount equal to 12-month ECLs.
+
+The Group considers a financial asset to be in default when:
+
+- the debtor is unlikely to pay its credit obligations to Group in full, without recourse by the Group to actions such as realising security (if any is held); or
+- the financial asset is more than 90 days past due.
+
+The maximum period considered when estimating ECLs is the maximum contractual period over which the Group is exposed to credit risk.
+
+###### **Measurement of ECLs**
+
+ECLs are probability-weighted estimates of credit losses. Credit losses are measured at the present value of all cash shortfalls (i.e. the difference between the cash flows due to the entity in accordance with the contract and the cash flows that the Group expects to receive). ECLs are discounted at the effective interest rate of the financial asset.
+
+###### **Credit-impaired financial assets**
+
+At each reporting date, the Group assesses whether financial assets carried at amortised cost are credit-impaired. A financial asset is 'credit-impaired' when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred.
+
+<!-- PAGE 156 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.7 Impairment (cont'd)
+
+##### (i) Non-derivative financial assets (cont'd)
+
+###### ***Credit-impaired financial assets (cont'd)***
+
+Evidence that a financial asset is credit-impaired includes the following observable data:
+
+- significant financial difficulty of the debtor;
+- a breach of contract such as a default or being more than 90 days past due;
+- the restructuring of a loan or advance by the Group on terms that the Group would not consider otherwise;
+- it is probable that the debtor will enter bankruptcy or other financial reorganisation; or
+- the disappearance of an active market for a security because of financial difficulties.
+
+###### ***Presentation of allowance for ECLs in the statements of financial position***
+
+Loss allowances for financial assets measured at amortised cost are deducted from the gross carrying amount of these assets.
+
+###### ***Write-off***
+
+The gross carrying amount of a financial asset is written off (either partially or in full) to the extent that there is no realistic prospect of recovery. This is generally the case when the Group determines that the debtor does not have assets or sources of income that could generate sufficient cash flows to repay the amounts subject to the write-off. However, financial assets that are written off could still be subject to enforcement activities in order to comply with the Group's procedures for recovery of amounts due.
+
+##### (ii) Non-financial assets
+
+The carrying amounts of the Group's non-financial assets, other than investment properties, are reviewed at each reporting date to determine whether there is any indication of impairment. If any such indication exists, then the asset's recoverable amount is estimated. An impairment loss is recognised if the carrying amount of an asset or its related cash-generating unit ("CGU") exceeds its estimated recoverable amount.
+
+The recoverable amount of an asset or CGU is the greater of its value in use and its fair value less costs of disposal. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset or CGU. For the purpose of impairment testing, assets that cannot be tested individually are grouped together into the smallest group of assets that generates cash inflows from continuing use that are largely independent of the cash inflows of other assets or CGUs.
+
+Impairment losses are recognised in profit or loss. Impairment losses recognised in respect of CGUs are allocated first to reduce the carrying amount of any goodwill allocated to the CGU (group of CGUs), and then to reduce the carrying amounts of the other assets in the group of CGUs on a *pro rata* basis.
+
+An impairment loss recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if there has been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset's carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+
+<!-- PAGE 157 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.8 Rental and dividend income
+
+##### (i) Rental income from operating leases
+
+Rental income receivable under operating leases is recognised as 'revenue' on a straight-line basis over the term of the lease, except where an alternative basis is more representative of the pattern of benefits to be derived from the leased assets. Lease incentives granted are recognised as an integral part of the total rental to be received.
+
+##### (ii) Dividend income
+
+Dividend income is recognised in profit or loss on the date that the Group's right to receive payment is established.
+
+#### 3.9 Finance costs
+
+The Group's finance costs include:
+
+- interest expense; and
+- amortisation of transaction cost.
+
+Interest expense is recognised under the effective interest method.
+
+The 'effective interest rate' is the rate that exactly discounts estimated future cash payments or receipts through the expected life of the financial instrument to:
+
+- the gross carrying amount of the financial asset; or
+- the amortised cost of the financial liability.
+
+In calculating interest expense, the effective interest rate is applied to the gross carrying amount of the asset (when the asset is not credit-impaired) or to the amortised cost of the liability.
+
+Borrowing costs that are not directly attributable to the acquisition, construction or production of a qualifying asset are recognised in profit or loss using the effective interest method.
+
+#### 3.10 Tax
+
+Tax expense comprises current and deferred tax. Current tax and deferred tax are recognised in statements of total return except to the extent that it relates to a business combination, or items recognised in unitholders' fund.
+
+The Group has determined that interest and penalties related to income taxes, including uncertain tax treatments, do not meet the definition of income taxes, and therefore accounted for them under FRS 37 *Provisions, Contingent Liabilities and Contingent Assets*.
+
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year, measured using tax rates enacted or substantively enacted at the reporting date, and any adjustment to tax payable in respect of previous years. The amount of current tax payable or receivable is the best estimate of the tax amount expected to be paid or received that reflects uncertainty related to income taxes, if any. Current tax also includes any tax arising from dividends.
+
+Current tax assets and liabilities are offset only if certain criteria are met.
+
+<!-- PAGE 158 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.10 Tax (cont'd)
+
+Deferred tax is recognised in respect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognised for:
+
+- temporary differences on the initial recognition of assets or liabilities in a transaction that
+ - is not a business combination and
+ - at the time of the transaction (i) affects neither accounting nor taxable profit or loss and (ii) does not give rise to equal taxable and deductible temporary differences; and
+- temporary differences related to investments in subsidiaries to the extent that the Group is able to control the timing of the reversal of the temporary differences and it is probable that they will not reverse in the foreseeable future.
+
+The measurement of deferred taxes reflects the tax consequences that would follow the manner in which the Group expects, at the reporting date, to recover or settle the carrying amount of its assets and liabilities. For investment properties that are measured at fair value, the carrying amount of the investment properties is presumed to be recovered through sale, and the Group has not rebutted this presumption.
+
+Deferred tax assets and liabilities are offset if certain criteria are met.
+
+Deferred tax assets are recognised for unused tax losses, unused tax credits and deductible temporary differences to the extent that it is probable that future taxable profits will be available against which they can be used. Future taxable profits are determined based on the reversal of relevant taxable temporary differences. If the amount of taxable temporary differences is insufficient to recognise a deferred tax asset in full, then future taxable profits, adjusted for reversals of existing temporary differences, are considered, based on the business plans for individual subsidiaries in the Group. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realised; such reductions are reversed when the probability of future taxable profits improves.
+
+The Inland Revenue Authority of Singapore ("IRAS") has issued a tax ruling ("Tax Transparency Ruling") to the Trust in respect of the Singapore income tax treatment of certain taxable income from its Singapore properties.
+
+##### ***Tax Transparency Ruling***
+
+Pursuant to the Tax Transparency Ruling, the tax transparency treatment has been granted to the Trust in respect of certain taxable income ("Specified Taxable Income"). Subject to meeting the terms and conditions of the Tax Transparency Ruling, which includes a distribution of at least 90% of the Specified Taxable Income of the Trust, the Trust is not subject to tax on the Specified Taxable Income distributed to the Unitholders in the same year in which the Specified Taxable Income is derived. Instead, the Trustee and the Manager would undertake to deduct income tax at the prevailing corporate tax rate (currently at 17%) from distributions made to Unitholders out of such Specified Taxable Income, except:
+
+- where the beneficial owners are Qualifying Unitholders, the Trustee and the Manager will make the distributions to such Unitholders without deducting income tax;
+- where the beneficial owners are Qualifying Non-resident Non-individual Unitholders, the Trustee and the Manager will deduct Singapore income tax at the reduced rate of 10% for distributions made up to 31 December 2025, unless the concession is extended; or
+- where the beneficial owners are Qualifying Non-resident Funds, the Trustee and the Manager will deduct Singapore income tax at the reduced rate of 10% for distributions made during the period from 1 July 2019 to 31 December 2025, unless the concession is extended.
+
+<!-- PAGE 159 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.10 Tax (cont'd)
+
+A “Qualifying Unitholder” is a Unitholder who is:
+
+- an individual;
+- a company incorporated and resident in Singapore;
+- a Singapore branch of a company incorporated outside Singapore;
+- a body of persons incorporated or registered in Singapore, including:
+ - (i) a charity registered under the Charities Act 1994 or established by any written law;
+ - (ii) a town council;
+ - (iii) a statutory board;
+ - (iv) a co-operative society registered under the Co-operative Societies Act 1979;
+ - (v) a trade union registered under the Trade Unions Act 1940;
+ - (vi) an institution, authority, person or fund specified in the First Schedule to the Income Tax Act 1947; or
+ - (vii) a platform work association registered under Part 3 of the Platform Workers Act 2024.
+- an international organisation that is exempt from tax on such distributions by reason of an order made under the International Organisations (Immunities and Privileges) Act 1948; or
+- a real estate investment trust exchange-traded fund which has been accorded the tax transparency treatment.
+
+A Qualifying Non-resident Non-Individual Unitholder is a person other than an individual who is not resident in Singapore for income tax purposes and who:
+
+- does not have any permanent establishment in Singapore; or
+- carries on any operation through a permanent establishment in Singapore, where the funds used by that person to acquire the units in the Trust are not obtained from that operation.
+
+A Qualifying Non-resident Fund is a non-resident fund that qualifies for tax exemption under section 13D, 13U or 13V of the Income Tax Act 1947 and who:
+
+- does not have any permanent establishment in Singapore (other than a fund manager in Singapore); or
+- carries on any operation through a permanent establishment in Singapore (other than a fund manager in Singapore), where the funds used by that qualifying fund to acquire the units in the Trust are not obtained from that operation.
+
+The Tax Transparency Ruling does not apply to income other than Specified Taxable Income and gains or profits from the disposal of any investments such as immovable properties and shares that are determined by the IRAS to be revenue gains chargeable to tax as well as Specified Taxable Income derived by the Trust but not distributed to the Unitholders in the same year in which the Specified Taxable Income is derived. Where the tax transparency treatment does not apply to any gains, profits or income, such gains, profits or income will be subject to tax at the level of Trustee. Distributions made out of the after-tax gains, profits or income will not be subject to any deduction of tax at source nor further tax in the hands of Unitholders. Where the disposal gains are regarded as capital in nature and not regarded as income chargeable to tax under section 10(1)(g) of the Income Tax Act 1947, they will not be subject to tax at the level of Trustee and the Trustee and the Manager may distribute the disposal gains without tax being deducted at source.
+
+Any distributions made by the Trust to Unitholders out of income which is tax-exempt for Singapore income tax purposes as well as income which has been subject to Singapore income tax at the level of the Trustee would not be subject to Singapore income tax in the hands of all Unitholders.
+
+<!-- PAGE 160 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 3 MATERIAL ACCOUNTING POLICIES (CONT'D)
+
+#### 3.11 New accounting standards and interpretations not adopted
+
+A number of new accounting standards, interpretations and amendments to standards are effective for annual periods beginning after 1 January 2024 and earlier application is permitted. However, the Group has not early adopted the new or amended standards and interpretations in preparing these financial statements.
+
+##### (i) FRS 118 *Presentation and Disclosure in Financial Statements*
+
+FRS 118 will replace FRS 1 *Presentation of Financial Statements* and applies for annual reporting periods beginning on or after 1 January 2027. The new standard introduces the following key new requirements.
+
+- Entities are required to classify all income and expenses into five categories in the statements of profit or loss, namely the operating, investing, financing, discontinued operations and income tax categories. Entities are also required to present a newly defined operating profit subtotal. Entities' net profit will not change.
+- Management-defined performance measures ("MPMs") are disclosed in a single note in the financial statements.
+- Enhanced guidance is provided on how to group information in the financial statements.
+
+In addition, all entities are required to use the operating profit subtotal as the starting point for the statement of cash flows when presenting operating cash flows under the indirect method. The Group is still in the process of assessing the impact of the new standard, particularly with respect to the structure of the Group's statements of total return, the statement of cash flows and the additional disclosures required for MPMs. The Group is also assessing the impact on how information is grouped in the financial statements, including for items currently labelled as other.
+
+##### (ii) Other accounting standards
+
+The following amendments to FRSs are not expected to have a significant impact on the Group's consolidated financial statements.
+
+- Amendments to FRS 21: *Lack of Exchangeability*
+- *Classification and Measurement of Financial Instruments (Amendments to FRS 109 and FRS 107)*
+- *Annual Improvements to FRSs—Volume 11*
+- FRS 119: *Subsidiaries without Public Accountability: Disclosures*
+
+The application of these new FRSs, interpretations and amendments to FRSs are not expected to have a significant impact on the financial statements of the Group and the Trust.
+
+<!-- PAGE 161 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 4 INVESTMENT PROPERTIES
+
+|  | Note | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  |  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| At 1 January |  | 1,139,468 | 1,145,343 | 31,700 | 32,500 |
+| Capital expenditures |  | 5,859 | 4,923 | 176 | 192 |
+| Adjustment on rental straight-lining | 17 | 10,227 | 15,189 | (176) | (86) |
+| <b>(Losses)/Gains for the year</b> |  |  |  |  |  |
+| Net fair value (losses)/gains recognised in profit or loss |  | (9,578) | 10,834 | (1,300) | (906) |
+| <b>Losses recognised in other comprehensive income</b> |  |  |  |  |  |
+| Effects of movements in exchange rates |  | (27,968) | (36,821) | – | – |
+| At 31 December |  | 1,118,008 | 1,139,468 | 30,400 | 31,700 |
+
+As at 31 December 2024, investment properties of the Group with carrying amounts of \$822,934,000 (2023: \$832,726,000) were pledged as security for related borrowings (see note 12).
+
+#### Measurement of fair value
+
+##### (i) Fair value hierarchy
+
+The fair value of investment properties were determined by external valuers, having appropriate recognised professional qualifications and recent experience in the location and category of property being valued. External valuers appraise the fair value of the Group's investment property portfolio every year.
+
+The fair values are based on open market values, being the estimated amount for which a property could be exchanged on the date of the valuation between a willing buyer and a willing seller in an arm's length transaction wherein the parties had each acted knowledgeably and without compulsion. In determining the fair value as at the reporting date, the external valuers have adopted a combination of valuation methods, comprising discounted cash flow and direct comparison methods. The valuation methods involve certain estimates including those relating to market-corroborated discount rate, terminal capitalisation rate, and price per square metre. The specific risks inherent in each of the properties are taken into consideration in arriving at the valuations.
+
+The fair value measurement of all of the investment properties has been categorised as a Level 3 fair value based on the inputs to the valuation techniques used (see note 2.4).
+
+##### (ii) Valuation techniques and significant unobservable inputs
+
+In 2024 and 2023, the valuations were undertaken by the following independent professional valuers:
+
+| Location of properties | Property Valuer(s) |
+|-|-|
+| Singapore | Jones Lang LaSalle Property Consultants Pte. Ltd. |
+| Indonesia | Kantor Jasa Penilai Publik ("KJPP") Willson dan Rekan in association with Knight Frank, KJPP Rengganis, Hamid & Rekan in strategic alliance with CBRE, Cushman & Wakefield VHS Pte. Ltd. in conjunction with KJPP Firman, Suryantoro, Sugeng, Suzy, Hartomo & Rekan |
+| Japan | Cushman & Wakefield K.K., Colliers International Japan K.K., CBRE K.K. |
+
+<!-- PAGE 162 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 4 INVESTMENT PROPERTIES (CONT'D)
+
+#### Measurement of fair value (cont'd)
+
+##### (ii) Valuation techniques and significant unobservable inputs (cont'd)
+
+The following table shows the valuation techniques used in measuring the fair value of investment properties, as well as the significant unobservable inputs used.
+
+| Valuation techniques | Significant unobservable inputs |  |  | Inter-relationship between key unobservable inputs and fair value measurement |
+|-|-|-|-|-|
+|  | Singapore | Indonesia | Japan |  |
+| <b>Discounted cash flow method:</b> The discounted cash flow method involves the estimation and projection of an income stream over a period and discounting the income stream with an internal rate of return consistent with current market requirements to arrive at the market value. | Discount rate: 8.75%<br>(2023: 8.75%) | Discount rate:<br>Restructured properties <sup>2</sup> :<br>12.34% to 13.00%<br>(2023: 12.30% to 13.80%) | Discount rate:<br>4.00% to 4.70%<br>(2023: 4.00% to 4.70%) | The higher the discount rate, the lower the fair value. |
+|  |  | Non-restructured properties <sup>3</sup> :<br>9.00% to 12.34%<br>(2023: 9.00% to 9.25%) |  |  |
+|  | Terminal capitalisation rate <sup>1</sup> : Not applicable<br>(2023: Not applicable) | Terminal capitalisation rate <sup>4</sup> :<br>Restructured properties <sup>2</sup> :<br>9.25% to 10.66%<br>(2023: 8.53% to 10.60%) | Terminal capitalisation rate:<br>4.30% to 5.00%<br>(2023: 4.30% to 5.00%) |  |
+|  |  | Non-restructured properties <sup>3</sup> :<br>9.50%<br>(2023: 9.16% to 9.21%) |  |  |
+| <b>Direct comparison method:</b> The direct comparison method involves the analysis of comparable sales of similar properties and adjusting the sales price to those reflective of the investment properties under development. | Not applicable<br>(2023: Not applicable) | Price per square metre ("psm"):<br>\$510 (2023: \$525) | Not applicable | The estimated fair value would increase (decrease) if price psm was higher (lower). |
+
+<!-- PAGE 163 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 4 INVESTMENT PROPERTIES (CONT'D)
+
+#### Measurement of fair value (cont'd)
+
+##### (ii) Valuation techniques and significant unobservable inputs (cont'd)
+
+- 1 The direct discounting analysis is applied in 2024 and 2023 with the cashflow period projected until the end of the leasehold term of respective properties. No terminal capitalisation rate was applied for all properties located in Singapore as the land together with buildings are expected to be returned to the government upon the expiration of the term of the leasehold land.
+- 2 The restructured Indonesia properties comprise Siloam Hospitals Lippo Village, Siloam Hospitals Kebon Jeruk, Mochtar Riady Comprehensive Cancer Centre, Siloam Hospitals Manado (excluding Hotel Aryaduta Manado), Siloam Hospitals Makassar, Siloam Hospitals Bali, Siloam Hospitals TB Simatupang, Siloam Hospitals Purwakarta, Siloam Sriwijaya, Siloam Hospitals Kupang (excluding Lippo Plaza Kupang), Siloam Hospitals Labuan Bajo, Siloam Hospitals Baubau (excluding Lippo Plaza Baubau) and Siloam Hospitals Yogyakarta.
+- 3 The non-restructured Indonesia properties comprise Imperial Aryaduta Hotel & Country Club, Siloam Hospitals Lippo Cikarang, Hotel Aryaduta Manado (excluding Siloam Hospitals Manado), Lippo Plaza Kupang (excluding Siloam Hospitals Kupang) and Lippo Plaza Baubau (excluding Siloam Hospitals Baubau).
+- 4 No terminal capitalisation rate was used for the valuation of Siloam Sriwijaya, Siloam Hospitals Kupang & Lippo Plaza Kupang and Siloam Hospitals Baubau & Lippo Plaza Baubau whose respective agreements with the provincial governments only allow for a fixed lease period each. Therefore, direct discounting analysis is applied.
+
+### 5 INVESTMENTS IN SUBSIDIARIES
+
+|  | Trust |  |
+|-|-|-|
+|  | 2024 | 2023 |
+|  | \$'000 | \$'000 |
+| Unquoted equity shares at cost | 583,859 | 583,859 |
+| Redeemable preference shares at cost | 225,376 | 252,477 |
+| Allowance for impairment losses | (62,621) | (69,633) |
+| Total at cost | 746,614 | 766,703 |
+| Movements during the year: |  |  |
+| At 1 January | 766,703 | 764,149 |
+| Incorporation of subsidiaries | – | 35 |
+| Redemption of redeemable preference shares by subsidiaries | (27,101) | (22,137) |
+| Reversal for impairment losses | 7,012 | 24,656 |
+| At 31 December | 746,614 | 766,703 |
+
+The redeemable preference shares are redeemable at the option of the Singapore subsidiaries.
+
+Details of the subsidiaries are included in note 31.
+
+<!-- PAGE 164 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 5 INVESTMENTS IN SUBSIDIARIES (CONT'D)
+
+#### Allowance for impairment loss on investments in subsidiaries
+
+At each reporting date, the Trust carries out impairment assessment of its investments in subsidiaries to assess whether there is any indication of impairment. The Trust evaluates, amongst other factors, the future profitability of the subsidiaries, including factors such as industry performance, operational and financing cash flows. The recoverable amount of the investments could change significantly as a result of the changes in market conditions and the assumptions used in determining the recoverable amount. The recoverable amounts were estimated based on the net assets value of the subsidiaries which comprised predominantly investment properties measured at fair value determined by external valuers and categorised as Level 3 on the fair value hierarchy.
+
+Based on the assessment, the Trust recognised a net reversal for impairment loss of \$7,012,000 (2023: a net reversal for impairment loss of \$24,656,000) on its investment in subsidiaries, following an increase (2023: an increase) in the recoverable amount of the subsidiaries.
+
+The estimated total recoverable amounts of the investments in subsidiaries on which impairment losses were reversed or impaired during the year were \$298,984,000 as at 31 December 2024 (2023: \$420,197,000).
+
+### 6 LOAN TO SUBSIDIARIES AND LOAN FROM SUBSIDIARIES
+
+|  | Trust |  |
+|-|-|-|
+|  | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Loan to subsidiaries</b> |  |  |
+| Non-current | 12,639 | 21,705 |
+| Current | 4,190 | 4,190 |
+| Total | 16,829 | 25,895 |
+| <b>Loan from subsidiaries</b> |  |  |
+| Non-current | – | 5,161 |
+| Current | 32,861 | 25,512 |
+| Total | 32,861 | 30,673 |
+
+The loans to subsidiaries are unsecured. Included in the loans to subsidiaries is an amount of \$11,303,000 (2023: \$18,967,000) which bears interest at 5.56% (2023: 5.56%) per annum and is repayable by quarterly instalments over 20 years from 30 December 2010. The remaining loan to a subsidiary of \$5,526,000 (2023: \$6,928,000) bears interest at 1.00% (2023: 1.00%) per annum and is repayable on 14 July 2026.
+
+The current portions of the loan from subsidiaries are unsecured and repayable on demand. These balances are interest-free and repayable on demand except for an amount of \$4,937,000 (2023: \$5,161,000) which bears interest at 1.40% (2023: 1.40%) per annum and is repayable on 29 May 2025.
+
+<!-- PAGE 165 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 7 TRADE AND OTHER RECEIVABLES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Trade receivables: |  |  |  |  |
+| - Third parties <sup>(a)</sup> | 4,604 | 4,224 | – | 224 |
+| - Related parties | 1,668 | 1,433 | 8 | 8 |
+|  | 6,272 | 5,657 | 8 | 232 |
+| Other receivables: |  |  |  |  |
+| - Third parties | 452 | 592 | 372 | 482 |
+| - Subsidiaries | – | – | 17,470 | 10,974 |
+|  | 452 | 592 | 17,842 | 11,456 |
+| Total trade and other receivables | 6,724 | 6,249 | 17,850 | 11,688 |
+
+<sup>(a)</sup> The rents under the PT Metropolis Propertindo Utama (“PT MPU”) master lease agreements are payable quarterly in advance. As at 31 December 2024, the rental outstanding from PT MPU is approximately Indonesian Rupiah (“IDR”) 54,815,254,000 (equivalent to approximately \$4,604,000), of which IDR20,103,195,000 (equivalent to approximately \$1,688,000) and IDR34,712,059,000 (equivalent to approximately \$2,916,000) relate to mall and hospitals properties respectively. The security deposit guaranteed by the joint tenant of IDR50,532,034,000 (equivalent to approximately \$4,245,000) can be applied to cover PT MPU's outstanding rental for hospital properties.
+
+The Manager will continue to engage closely with PT MPU on the repayment of the rental in arrears and the obligation to provide rental deposit in accordance with master lease agreement. The loss allowance for the trade receivable net of collateral as at 31 December 2024 and 31 December 2023 are insignificant.
+
+Other receivables from third parties are mainly net GST receivables from the tax authorities.
+
+The non-trade receivables from subsidiaries are unsecured, interest-free and repayable on demand.
+
+The Group and the Trust's exposure to market risk, credit risk and impairment loss for trade and other receivables, are disclosed in note 30.
+
+### 8 OTHER ASSETS
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Prepayments | 571 | 606 | 406 | 402 |
+| Prepaid other taxes | 200 | 181 | – | – |
+|  | 771 | 787 | 406 | 402 |
+
+<!-- PAGE 166 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 9 DERIVATIVE FINANCIAL INSTRUMENTS
+
+|  | Notional amounts |  | Group and Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Derivative assets</b> |  |  |  |  |
+| <b>Current</b> |  |  |  |  |
+| Interest rate caps | – | 90,000 | – | 411 |
+| Forward exchange contracts | 6,000 | 17,000 | 260 | 149 |
+|  | 6,000 | 107,000 | 260 | 560 |
+| <b>Derivative liabilities</b> |  |  |  |  |
+| <b>Non-current</b> |  |  |  |  |
+| Interest rate swaps | – | 42,500 | – | 259 |
+| <b>Current</b> |  |  |  |  |
+| Interest rate swaps | 42,500 | 42,500 | 192 | 13 |
+| Forward exchange contracts | – | 4,000 | – | 14 |
+|  | 42,500 | 46,500 | 192 | 27 |
+
+The Group uses interest rate swaps and interest rate caps to manage the interest rate risk exposures arising from the bank loans with floating rates. The fair values of the derivatives are measured based on the quote from financial institutions (Level 2). Similar contractors are traded in an active market and the quotes reflect the actual transactions in similar instruments.
+
+The Group entered into forward exchange contracts to manage the foreign currency exposures arising from future IDR and Japanese Yen-denominated (“JPY”) cash flows.
+
+### 10 CASH AND CASH EQUIVALENTS
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Cash at banks | 25,354 | 26,446 | 2,476 | 3,017 |
+| Time deposits with financial institutions | 9,320 | 13,820 | 9,320 | 13,820 |
+|  | 34,674 | 40,266 | 11,796 | 16,837 |
+
+<!-- PAGE 167 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 10 CASH AND CASH EQUIVALENTS (CONT'D)
+
+Bank balances of \$10,548,000 (2023: \$10,401,000) serve as negative pledges to secure the Group's borrowings from banks (see notes 12 (c) and 12 (d)). This amount is included as part of cash and cash equivalents as the utilisation of these bank balances is not restricted.
+
+Bank balances of \$9,320,000 (2023: \$12,820,000) are included as part of time deposits with banks to meet the requirement of the borrowings of the Group and the Trust (see notes 12 (a) and 12 (b)). This amount is included as part of cash and cash equivalents as the utilisation of these bank balances is not restricted.
+
+### 11 DEFERRED TAX LIABILITIES
+
+Deferred tax liabilities are attributable to the following:
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Investment properties | 18,581 | 18,855 | — | — |
+| Unremitted income from Japan subsidiaries | 30,788 | 30,877 | — | — |
+|  | 49,369 | 49,732 | — | — |
+
+Movement in deferred tax liabilities of the Group during the year are as follows:
+
+|  | Note | Investment properties<br>\$'000 | Unremitted income<br>from Japan subsidiaries<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|
+| At 1 January 2024 |  | 18,855 | 30,877 | 49,732 |
+| Recognised in profit or loss | 23 | 137 | 1,269 | 1,406 |
+| Effect of movements in exchange rates |  | (411) | (1,358) | (1,769) |
+| At 31 December 2024 |  | 18,581 | 30,788 | 49,369 |
+| At 1 January 2023 |  | 18,338 | 32,417 | 50,755 |
+| Recognised in profit or loss | 23 | 773 | 1,798 | 2,571 |
+| Effect of movements in exchange rates |  | (256) | (3,338) | (3,594) |
+| At 31 December 2023 |  | 18,855 | 30,877 | 49,732 |
+
+<!-- PAGE 168 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 12 BORROWINGS
+
+|  | Note | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  |  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| Social guaranteed bonds | (a) | 100,000 | 100,000 | 100,000 | 100,000 |
+| Social term loan A | (b) | 240,713 | 233,713 | 240,713 | 233,713 |
+| Social term loan B | (c) | 14,608 | 15,272 | – | – |
+| Secured TMK bonds B and Term loan C | (d) | 104,280 | 109,940 | – | – |
+| Less: Unamortised transaction costs |  | (6,119) | (9,079) | (4,319) | (6,787) |
+| Total borrowings |  | 453,482 | 449,846 | 336,394 | 326,926 |
+| Non-current |  | 452,602 | 448,926 | 336,394 | 326,926 |
+| Current |  | 880 | 920 | – | – |
+| Total borrowings |  | 453,482 | 449,846 | 336,394 | 326,926 |
+
+The Group and the Trust's exposure to liquidity and market risks are disclosed in note 30.
+
+The borrowings comprise the following:
+
+#### (a) Social guaranteed bonds
+
+On 7 April 2022, \$100 million social guaranteed bonds at a coupon rate of 3.25% due in April 2027 were issued by the Trust to refinance \$100 million syndicated secured loan which matured in May 2022. The social guaranteed bonds amounting to \$100 million are unconditionally and irrevocably guaranteed by Credit Guarantee and Investment Facility, a trust fund of the Asian Development Bank. The interest of the bonds is payable half-yearly in arrears. The bonds are listed on the Singapore Exchange Securities Trading Limited.
+
+#### (b) Social term loan A
+
+On 25 November 2022, the Trustee entered into a facility agreement with two of the existing lenders, Oversea-Chinese Banking Corporation Limited ("OCBC") and CIMB Bank Berhad ("CIMB") in respect of a \$300 million social term loan and revolving credit facilities agreement (the "Facilities") to refinance \$260 million of syndicated secured loan which matured on 1 March 2023. As at 31 December 2024, the Trust drew down social term loan A amounting to \$241 million (2023: \$234 million) under this Facilities which is repayable in May 2026. Social term loan A carries floating rates and is repriced at intervals of 3 months or less.
+
+<!-- PAGE 169 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 12 BORROWINGS (CONT'D)
+
+#### (c) Social term loan B
+
+On 29 September 2022, the Trust's indirect subsidiary, First REIT Japan Two GK, secured a JPY1.66 billion (equivalent to approximately \$14.6 million) non-recourse social loan from Shinsei Trust Bank Limited which is due on 27 September 2026. The proceeds from social term loan B were utilised to partially fund the acquisition of two nursing homes, Loyal Residence Ayase and Medical Rehabilitation Home Bon Sejour Komaki, located in Japan in 2022.
+
+#### (d) Secured TMK bonds B and Term Loan C
+
+On 23 June 2023, OUELH Japan First TMK, a subsidiary of the Group, issued a 7-year bond amounting to JPY2 billion (equivalent to approximately \$17.6 million) to Kiraboshi Bank Ltd and obtained a term loan of JPY10 billion (equivalent to approximately \$88.0 million) ("Term Loan C") from Kiraboshi Bank Ltd. The outstanding balances for the secured TMK bond B and Term loan C as at 31 December 2024 amount to JPY2 billion and JPY9.85 billion (equivalent to approximately \$17.6 million and \$86.7 million) respectively. Both facilities will be due in June 2030.
+
+The Trust has entered into interest rate swaps and interest rate caps arrangements to manage the interest rate risk exposure arising from the bank loans with floating rates (note 9).
+
+The carrying amount of the current and non-current borrowings, which are at variable interest rates, approximate their fair values at reporting date.
+
+#### Terms and debt repayment schedule
+
+Terms and conditions of outstanding borrowings are as follows:
+
+|  | Currency | Nominal<br>interest rate | Year of<br>maturity | Face<br>value<br>\$'000 | Carrying<br>amount<br>\$'000 |
+|-|-|-|-|-|-|
+| <b>2024</b> |  |  |  |  |  |
+| <b>Group</b> |  |  |  |  |  |
+| Social guaranteed bonds | SGD | 3.25% | 2027 | 100,000 | 97,762 |
+| Social term loan A | SGD | 5.27% to 5.97% | 2026 | 240,713 | 238,632 |
+| Social term loan B | JPY | 1.31% | 2026 | 14,608 | 14,486 |
+| Secured TMK bonds B and Term loan C | JPY | 1.50% | 2030 | 104,280 | 102,602 |
+|  |  |  |  | <u>459,601</u> | <u>453,482</u> |
+| <b>Trust</b> |  |  |  |  |  |
+| Social guaranteed bonds | SGD | 3.25% | 2027 | 100,000 | 97,762 |
+| Social term loan A | SGD | 5.27% to 5.97% | 2026 | 240,713 | 238,632 |
+|  |  |  |  | <u>340,713</u> | <u>336,394</u> |
+
+<!-- PAGE 170 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 12 BORROWINGS (CONT'D)
+
+#### Terms and debt repayment schedule (cont'd)
+
+|  | Currency | Nominal<br>interest rate | Year of<br>maturity | Face<br>value<br>\$'000 | Carrying<br>amount<br>\$'000 |
+|-|-|-|-|-|-|
+| <b>2023</b> |  |  |  |  |  |
+| <b>Group</b> |  |  |  |  |  |
+| Social guaranteed bonds | SGD | 3.25% | 2027 | 100,000 | 96,778 |
+| Social term loan A | SGD | 5.12% - 6.02% | 2026 | 233,713 | 230,148 |
+| Social term loan B | JPY | 1.00% - 1.31% | 2026 | 15,272 | 15,071 |
+| Secured TMK bonds B and Term loan C | JPY | 1.50% | 2030 | 109,940 | 107,849 |
+|  |  |  |  | <u>458,925</u> | <u>449,846</u> |
+| <b>Trust</b> |  |  |  |  |  |
+| Social guaranteed bonds | SGD | 3.25% | 2027 | 100,000 | 96,778 |
+| Social term loan A | SGD | 5.12% - 6.02% | 2026 | 233,713 | 230,148 |
+|  |  |  |  | <u>333,713</u> | <u>326,926</u> |
+
+The social term loan A and social guaranteed bonds agreements provide amongst other matters for the following:
+
+- 1) Legal mortgage over the properties in Singapore and Indonesia of the Group except for Imperial Aryaduta Hotel and Country Club and Siloam Hospitals Yogyakarta.
+- 2) Assignment to the banks of all of the Group's rights, titles, interests and benefits under any leases, tenancies, sales proceeds and cash flows in respect of the Indonesia properties and the Singapore properties except for Imperial Aryaduta Hotel and Country Club and Siloam Hospitals Yogyakarta.
+- 3) Assignment to the banks of all of the Group's rights, titles and interests under the insurance policies in respect of the Indonesia properties and the Singapore properties, with the bank named as a "loss payee" except for Imperial Aryaduta Hotel and Country Club and Siloam Hospitals Yogyakarta.
+- 4) A debenture containing first fixed and floating charges over all assets and undertakings of the Trust's Singapore subsidiaries and subsidiaries of Trust's Singapore subsidiaries except for IAHCC Investment Pte. Ltd., Surabaya Hospitals Investment Pte. Ltd., Kalmore Investments Pte. Ltd., Icon1 Holdings Pte. Ltd., OUELH Japan Medical Facilities Pte. Ltd., OUELH Japan Medical Assets Pte. Ltd., First REIT Japan Holdings One Pte. Ltd., and First REIT Japan Holdings Two Pte. Ltd.
+- 5) Charge of all of the Trust's shares in the Singapore subsidiaries and subsidiaries of Trust's Singapore subsidiaries except for IAHCC Investment Pte. Ltd., Surabaya Hospitals Investment Pte. Ltd., Kalmore Investments Pte. Ltd., Icon1 Holdings Pte. Ltd., OUELH Japan Medical Facilities Pte. Ltd., OUELH Japan Medical Assets Pte. Ltd., First REIT Japan Holdings One Pte. Ltd., and First REIT Japan Holdings Two Pte. Ltd..
+- 6) Charge of all of the Singapore subsidiaries' shares in the Indonesia subsidiaries except for PT Karya Sentra Sejahtera and the Joint-operation company, PT Yogya Central Terpadu.
+- 7) A debenture by the Group covering first fixed and floating charges over all assets and undertakings in respect of the Singapore properties.
+- 8) QUE Limited's interest held in the Trust directly and indirectly is at least at 20%.
+
+<!-- PAGE 171 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 12 BORROWINGS (CONT'D)
+
+#### Terms and debt repayment schedule (cont'd)
+
+- 9) OUEH's interest held in the Trust directly and indirectly is at least at 20%.
+- 10) OUE Limited's interest held in First REIT Management Limited directly and indirectly is at least at 51%.
+- 11) Compliance with all financial covenants.
+
+The secured social term loan B agreement provides amongst other matters for the following:
+
+- 1) Negative pledge against the total assets of the Trust's indirect subsidiary, First REIT Japan Two GK, which mainly comprises investment properties in Japan and cash and cash equivalents.
+- 2) A corporate guarantee from the Trust.
+
+The secured TMK bonds B and Term loan C agreement provides amongst other matters for the following:
+
+- 1) Negative pledge against the total assets of the Trust's indirect subsidiary, OUEH Japan First TMK, which mainly comprises investment properties in Japan and cash and cash equivalents.
+- 2) A corporate guarantee from the Trust.
+
+<!-- PAGE 172 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 12 BORROWINGS (CONT'D)
+
+#### Reconciliation of movements of liabilities to cash flows arising from financing activities
+
+|  | Liabilities |  | Total<br>\$'000 |
+|-|-|-|-|
+|  | Borrowings<br>\$'000 | Interest payable<br>(note 14)<br>\$'000 |  |
+| <b>Group</b> |  |  |  |
+| Balance at 1 January 2024 | 449,846 | 2,040 | 451,886 |
+| <b>Changes from financing cash flows</b> |  |  |  |
+| Proceeds from borrowings | 7,000 | – | 7,000 |
+| Repayment of borrowings | (885) | – | (885) |
+| Payment of transaction costs related to borrowings | (1,669) | – | (1,669) |
+| Interest paid | – | (18,240) | (18,240) |
+| <b>Total changes from financing cash flows</b> | 4,446 | (18,240) | (13,794) |
+| <b>The effect of changes in foreign exchange rates</b> | (5,341) | – | (5,341) |
+| <b>Liability-related</b> |  |  |  |
+| Amortisation of transaction costs | 4,531 | – | 4,531 |
+| Interest expense | – | 18,242 | 18,242 |
+| <b>Total liability-related other changes</b> | 4,531 | 18,242 | 22,773 |
+| <b>Balance at 31 December 2024</b> | 453,482 | 2,042 | 455,524 |
+| Balance at 1 January 2023 | 451,066 | 1,854 | 452,920 |
+| <b>Changes from financing cash flows</b> |  |  |  |
+| Proceeds from borrowings | 122,000 | – | 122,000 |
+| Repayment of borrowings | (115,857) | – | (115,857) |
+| Payment of transaction costs related to borrowings | (3,778) | – | (3,778) |
+| Interest paid | – | (17,837) | (17,837) |
+| <b>Total changes from financing cash flows</b> | 2,365 | (17,837) | (15,472) |
+| <b>The effect of changes in foreign exchange rates</b> | (8,260) | – | (8,260) |
+| <b>Liability-related</b> |  |  |  |
+| Amortisation of transaction costs | 4,675 | – | 4,675 |
+| Interest expense | – | 18,023 | 18,023 |
+| <b>Total liability-related other changes</b> | 4,675 | 18,023 | 22,698 |
+| <b>Balance at 31 December 2023</b> | 449,846 | 2,040 | 451,886 |
+
+<!-- PAGE 173 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 13 OTHER LIABILITIES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Rental income received in advance from tenants | 3,246 | 3,113 | 104 | 113 |
+| Security deposits | 8,069 | 10,557 | 2,121 | 2,079 |
+|  | 11,315 | 13,670 | 2,225 | 2,192 |
+| Non-current | 8,069 | 10,557 | 2,121 | 2,079 |
+| Current | 3,246 | 3,113 | 104 | 113 |
+|  | 11,315 | 13,670 | 2,225 | 2,192 |
+
+### 14 TRADE AND OTHER PAYABLES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Trade payables: |  |  |  |  |
+| - Third parties | 36 | 48 | 36 | 48 |
+| - Related parties | 7,264 | 7,809 | 7,206 | 7,712 |
+|  | 7,300 | 7,857 | 7,242 | 7,760 |
+| Other payables: |  |  |  |  |
+| - Third parties | 3,277 | 2,483 | 695 | 770 |
+| - Subsidiaries | – | – | 38,012 | 37,339 |
+| - Related party | 22 | 22 | – | – |
+|  | 3,299 | 2,505 | 38,707 | 38,109 |
+| Interest payable | 2,042 | 2,040 | 2,017 | 2,009 |
+| Total trade and other payables | 12,641 | 12,402 | 47,966 | 47,878 |
+
+The other payables to subsidiaries and a related party relate to advances which are non-trade in nature, unsecured, interest-free and repayable on demand. The Group and the Trust's exposure to market risk and liquidity risk are disclosed in note 30.
+
+<!-- PAGE 174 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 15 PERPETUAL SECURITIES
+
+In 2016, the Trust issued \$60 million of subordinated perpetual securities at a fixed rate of 5.68% per annum, with the first distribution rate reset on 8 July 2021 and subsequent resets occurring every five years thereafter. The perpetual securities have no fixed redemption date and redemption is at the option of the Trust in accordance with the terms and conditions of the securities. The distribution will be payable semi-annually at the discretion of the Trust and will be non-cumulative. The distribution rate applicable to the perpetual securities in respect of the period from the first reset date (being 8 July 2021) to the immediately following reset date (being 8 July 2026) shall be 4.9817%, being the prevailing five-year swap offer rate of 1.0567% per annum with respect to the relevant reset date plus the initial spread of 3.925%, in accordance with the terms and conditions of the perpetual securities. An amount of \$1,661,000 and \$1,656,000 were reserved for distribution to perpetual securities holders for each of the reporting years ended 31 December 2024 and 31 December 2023 respectively.
+
+In terms of distribution payments or in the event of winding-up of the Trust:
+
+- These perpetual securities rank *pari passu* with holders of preferred units (if any) and rank ahead of the unitholders of Trust but junior to the claims of all present and future creditors of the Trust; and
+- The Trust shall not declare or pay any distributions to the unitholders, or make redemption, unless the Trust declares or pays any distributions to the perpetual securities holders.
+
+These perpetual securities are classified as equity. The Manager has taken the view that as there is no contractual obligation to repay the principal or to pay any distributions, the perpetual securities do not meet the definition for classification as a financial liability under FRS 32 *Financial Instruments: Disclosure and Presentation*. The perpetual securities are presented within equity, and the distributions are treated as dividends.
+
+As at 31 December 2024, \$33,282,000 (2023: \$33,282,000) presented in the statements of financial position represents the carrying value of the remaining perpetual securities and the total return attributable to the perpetual securities holders from the last distribution date.
+
+### 16 UNITS IN ISSUE AND NET ASSETS VALUE ATTRIBUTABLE TO UNITHOLDERS
+
+|  | Note | Group and Trust |  |
+|-|-|-|-|
+|  |  | 2024<br>'000 | 2023<br>'000 |
+| At 1 January |  | 2,076,925 | 2,058,581 |
+| Issuance of new units as settlement of the Manager's management fees | (a) | 17,522 | 18,344 |
+| At 31 December |  | 2,094,447 | 2,076,925 |
+
+- (a) In 2024, a total of 17,522,113 (2023: 18,343,811) new units at an issue price range from \$0.2419 to \$0.2768 (2023: \$0.2204 to \$0.2985) per unit were issued in respect of the settlement for the management fees to the Manager of \$4,534,000 (2023: \$4,788,000).
+
+At 31 December 2024, 4,340,046 (2023: 4,578,992) units were issuable as settlement for the Manager's management fees for the last quarter of the reporting year.
+
+<!-- PAGE 175 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 16 UNITS IN ISSUE AND NET ASSETS VALUE ATTRIBUTABLE TO UNITHOLDERS (CONT'D)
+
+The issue price for determining the number of units issued and issuable as Manager's management fees is calculated based on the volume weighted average traded price ("VWAP") for all trades done on SGX-ST in the ordinary course of trading for 10 business days immediately preceding the respective last business day of the respective quarter end date.
+
+The Trust does not hold any treasury units and there is no subsidiary holding as at the end of the current financial period and as at the end of the corresponding period of the immediately preceding financial year.
+
+Under the Trust Deed, every unit carries the same voting rights. Each unit represents an equal and undivided beneficial interest in the assets of the Trust. Units have no conversion, retraction, redemption or pre-emptive rights. The rights and interests of unitholders are contained in the Trust Deed and include the right to:
+
+- Receive income and other distributions attributable to the units held;
+- Receive audited financial statements and the annual report of the Trust; and
+- Participate in the termination of the Trust by receiving a share of all net cash proceeds derived from the realisation of the assets of the Trust less any liabilities, in accordance with their proportionate interests in the Trust.
+
+No unitholder has a right to require that any assets of the Trust be transferred to him.
+
+Further, unitholders cannot give directions to the Trustee or the Manager (whether at a meeting of unitholders duly convened and held in accordance with the provisions of the Trust Deed or otherwise) if it would require the Trustee or the Manager to do or omit doing anything which may result in:
+
+- The Trust ceasing to comply with applicable laws and regulations; or
+- The exercise of any discretion expressly conferred on the Trustee or the Manager by the Trust Deed or the determination of any matter which, under the Trust Deed, requires the agreement of either or both of the Trustee and the Manager.
+
+The Trust Deed contains provisions that are designed to limit the liability of a unitholder to the amount paid or payable for any unit. The provisions seek to ensure that if the issue price of the units held by a unitholder has been fully paid, no such unitholder, by reason alone of being a unitholder, will be personally liable to indemnify the Trustee or any creditor of the Trust in the event that the liabilities of the Trust exceeds its assets.
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| Net assets value attributable to unitholders | 598,990 | 626,884 | 371,228 | 412,543 |
+| Net assets value per unit in cents attributable to unitholders | 28.60 | 30.18 | 17.72 | 19.86 |
+
+<!-- PAGE 176 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 17 RENTAL AND OTHER INCOME
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Rental income from investment properties | 102,210 | 108,568 | 4,241 | 4,228 |
+| Dividend income from subsidiaries | – | – | 25,874 | 34,050 |
+| Dividend income from share trading | 1 | – | – | – |
+|  | 102,211 | 108,568 | 30,115 | 38,278 |
+
+Included in rental income of the Group is variable rent of \$2,778,000 (2023: \$3,259,000) and adjustment on rental straight-lining of \$10,227,000 (2023: \$15,189,000) (note 4). Included in rental income of the Trust is adjustment on rental straight-lining of \$176,000 (2023: \$86,000) (note 4).
+
+### 18 PROPERTY OPERATING EXPENSES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Property tax expense | 1,395 | 1,521 | 202 | 200 |
+| Valuation expenses | 251 | 183 | 24 | 20 |
+| Professional fees | 1,273 | 1,069 | – | 5 |
+| Repairs and maintenance | 482 | 155 | – | – |
+| Others | 357 | 306 | – | – |
+|  | 3,758 | 3,234 | 226 | 225 |
+
+### 19 FINANCE INCOME AND FINANCE COSTS
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Finance income:</b> |  |  |  |  |
+| Bank deposits | 362 | 507 | 304 | 437 |
+| Loan to subsidiaries | – | – | 937 | 1,277 |
+|  | 362 | 507 | 1,241 | 1,714 |
+| <b>Finance costs:</b> |  |  |  |  |
+| Interest expense: |  |  |  |  |
+| - Borrowings | (18,242) | (18,023) | (16,526) | (16,452) |
+| Amortisation of transaction costs: |  |  |  |  |
+| - Borrowings | (3,475) | (3,626) | (3,080) | (2,928) |
+| - Guarantee fees | (1,010) | (1,010) | (1,010) | (1,010) |
+| - Letter of credit fees | (46) | (39) | (46) | (39) |
+|  | (4,531) | (4,675) | (4,136) | (3,977) |
+|  | (22,773) | (22,698) | (20,662) | (20,429) |
+
+<!-- PAGE 177 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 20 MANAGER'S MANAGEMENT FEES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Base fees | 3,729 | 3,713 | 3,686 | 3,670 |
+| Performance fees | 4,961 | 5,266 | 4,961 | 5,266 |
+|  | 8,690 | 8,979 | 8,647 | 8,936 |
+
+### 21 OTHER EXPENSES
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Depreciation expense | 12 | 13 | – | – |
+| Handling and processing fees | 195 | 268 | 195 | 268 |
+| Professional fees | 865 | 730 | 865 | 730 |
+| Project expenses | 239 | 195 | 239 | 195 |
+| Losses on disposal of quoted shares | 6 | 7 | – | – |
+| Others | 236 | 257 | 217 | 193 |
+|  | 1,553 | 1,470 | 1,516 | 1,386 |
+
+### 22 TOTAL RETURN FOR THE YEAR BEFORE INCOME TAX
+
+The following items have been included in arriving at net income for the year:
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Audit fees paid to: |  |  |  |  |
+| - auditors of the Trust and other firms affiliated with KPMG International Limited | 687 | 631 | 506 | 441 |
+| - other auditors | 140 | 130 | – | – |
+| Non-audit fees to: |  |  |  |  |
+| - auditors of the Trust and other firms affiliated with KPMG International Limited | 25 | – | 25 | – |
+| - other auditors | 182 | 44 | – | – |
+
+<!-- PAGE 178 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 23 INCOME TAX EXPENSES
+
+|  | Note | Group |  | Trust |  |
+|-|-|-|-|-|-|
+|  |  | 2024<br>\$'000 | 2023<br>\$'000 | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Current tax expense</b> |  |  |  |  |  |
+| Current year |  | 8,756 | 7,635 | – | – |
+| <b>Withholding tax</b> |  | 3,660 | 4,671 | – | – |
+| <b>Deferred tax expense</b> | 11 | 1,406 | 2,571 | – | – |
+| <b>Total income tax expenses</b> |  | 13,822 | 14,877 | – | – |
+
+#### **Reconciliation of effective tax rate**
+
+|  |  |  |  |  |
+|-|-|-|-|-|
+| Total return for the year before income tax | 50,576 | 78,216 | 5,921 | 31,632 |
+| Tax using Singapore tax rate of 17% (2023: 17%) | 8,598 | 13,297 | 1,007 | 5,377 |
+| Effect of tax rates in foreign jurisdictions | (5,344) | (9,050) | – | – |
+| Tax-exempt income | (77) | (87) | (5,801) | (10,271) |
+| Non-deductible expenses | 7,472 | 6,447 | 5,281 | 5,295 |
+| Withholding tax | 3,660 | 4,671 | – | – |
+| Tax transparency | (487) | (401) | (487) | (401) |
+|  | 13,822 | 14,877 | – | – |
+
+#### **Global minimum top-up tax**
+
+The Amendments to FRS 12: *International Tax Reform – Pillar Two Model Rules* provide a temporary mandatory exception from deferred tax accounting for the top-up tax that may arise from the jurisdictional adoption of the Pillar Two model rules published by the Organisation for Economic Co-operation and Development (“OECD”), and require new disclosures about the Pillar Two tax exposure. The mandatory exception is effective immediately and applies retrospectively. However, the amendments have no impact on the Group as the Group’s consolidated revenue is less than EUR750 million per year and it is not in scope of the Pillar Two model rules.
+
+<!-- PAGE 179 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 24 EARNINGS PER UNIT
+
+|  | <b>Group</b> |  |
+|-|-|-|
+|  | <b>2024</b> | <b>2023</b> |
+| Total return attributable to unitholders during the year (\$'000) | 35,093 | 61,683 |
+| Weighted average number of units outstanding during the year ('000) | 2,086,175 | 2,067,938 |
+| <b>Earnings per unit (in cents)</b> |  |  |
+| Basic and diluted | 1.68 | 2.98 |
+
+There were no potential dilutive units for the years ended 31 December 2024 and 31 December 2023. As such, the total return attributable to unitholders and the weighted average number of units used in the calculation of diluted earnings per unit are the same as those used in the calculation of basic earnings per unit.
+
+### 25 DISTRIBUTIONS TO UNITHOLDERS
+
+|  | <b>Group and Trust</b> |  |
+|-|-|-|
+|  | <b>2024</b> | <b>2023</b> |
+|  | <b>\$'000</b> | <b>\$'000</b> |
+| Distribution of 0.62 cents per unit for the period from 1 October 2023 to 31 December 2023<br>(0.66 cents per unit for the period from 1 October 2022 to 31 December 2022) | 12,905 | 13,620 |
+| Distribution of 0.60 cents per unit for the period from 1 January 2024 to 31 March 2024<br>(0.62 cents per unit for the period from 1 January 2023 to 31 March 2023) | 12,515 | 12,820 |
+| Distribution of 0.60 cents per unit for the period from 1 April 2024 to 30 June 2024<br>(0.62 cents per unit for the period from 1 April 2023 to 30 June 2023) | 12,541 | 12,848 |
+| Distribution of 0.58 cents per unit for the period from 1 July 2024 to 30 September 2024<br>(0.62 cents per unit for the period from 1 July 2023 to 30 September 2023) | 12,148 | 12,848 |
+|  | 50,109 | 52,136 |
+
+Current distribution policy:
+
+The Trust's current distribution policy is to distribute at least 90% of its taxable income, whereas the tax-exempt income and capitalised receipts with the actual level distribution to be determined at the Manager's discretion. The capital receipts comprise amounts received by the Trust from redemption of redeemable preference shares and shareholder loans repayment in the Singapore subsidiaries.
+
+<!-- PAGE 180 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 26 FINANCIAL RATIOS
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+| Expenses to average net assets attributable to unitholders ratio - excluding performance related fees <sup>(1)</sup> | 1.08% | 1.06% | 1.42% | 1.29% |
+| Expenses to average net assets attributable to unitholders ratio - including performance related fees <sup>(1)</sup> | 1.89% | 1.89% | 2.68% | 2.54% |
+| Portfolio turnover ratio <sup>(2)</sup> | N/A | N/A | N/A | N/A |
+| Total operating expenses (\$'000) <sup>(3)</sup> | 29,184 | 30,026 | 10,744 | 10,908 |
+| Total operating expenses to net asset <sup>(a)</sup> value ratio <sup>(3)</sup> | 4.87% | 4.79% | 2.89% | 2.64% |
+
+(a) Referred to the net assets attributable to unitholders.
+
+(1) The annualised ratios are computed in accordance with the guidelines of the Investment Management Association of Singapore dated 25 May 2005. The expenses used in the computation relate to expenses excluding any property related expenses, interest expenses, foreign exchange losses, tax deducted at source and costs associated with the purchase of investments.
+
+(2) Turnover ratio means the number of times per year that a dollar of assets is reinvested. It is calculated based on the lesser of purchases or sales of underlying investments of a scheme expressed as a percentage of daily average net asset value.
+
+(3) The revised CIS Code dated 28 November 2024 requires disclosure of the total operating expenses of the property fund, including all fees and charges paid to the Manager and interested parties (in both absolute terms, and as a percentage of the property fund's net asset value as at the end of the financial year) and taxation incurred in relation to the property fund's real estate assets.
+
+N/A – Not applicable.
+
+### 27 LEASES
+
+#### Leases as lessor (FRS 116)
+
+##### Operating lease
+
+The Group and the Trust lease out its investment properties (note 4) under non-cancellable leases. The Group and the Trust have classified these leases as operating leases, because they do not transfer substantially all of the risks and rewards incidental to the ownership of the assets. Information about the operating leases of investment properties is set out in statements of portfolio.
+
+The following table sets out a maturity analysis of lease payments, showing the undiscounted lease payments to be received after the reporting date.
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Less than one year | 91,161 | 90,503 | 4,495 | 4,414 |
+| One to two years | 87,647 | 91,315 | 4,584 | 4,495 |
+| Two to three years | 86,598 | 89,720 | 1,577 | 4,584 |
+| Three to four years | 84,572 | 88,714 | – | 1,577 |
+| Four to five years | 87,558 | 86,745 | – | – |
+| More than five years | 667,592 | 776,731 | – | – |
+| <b>Total</b> | <b>1,105,128</b> | <b>1,223,728</b> | <b>10,656</b> | <b>15,070</b> |
+
+<!-- PAGE 181 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 28 SIGNIFICANT RELATED PARTY TRANSACTIONS
+
+In addition to the related party information disclosed elsewhere in the financial statements, the following significant transactions took place between the Group, the Trust, the Manager, and related parties during the year on terms agreed between the parties. Other related parties for the property rental income and asset management fee comprises mainly entities which controlled by the controlling shareholders of the Trust.
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| <b>Other related parties</b> |  |  |  |  |
+| Property rental income | 54,702 | 83,504 | – | – |
+| <b>Fellow subsidiary</b> |  |  |  |  |
+| Asset management fees | (214) | (1,105) | – | – |
+| <b>The Manager</b> |  |  |  |  |
+| Management fees paid to Manager | (8,690) | (8,979) | (8,647) | (8,936) |
+| <b>The Trustee</b> |  |  |  |  |
+| Trustee fees | (355) | (361) | (355) | (361) |
+
+### 29 OPERATING SEGMENTS
+
+#### Information about reportable segment profit or loss and assets
+
+The Group is engaged in a single business of investing in investment properties in the healthcare and/or healthcare related sector. As at 31 December 2024, the Group had three reportable operating segments: Singapore operations, Indonesia operations, and Japan operations (2023: three reportable operating segments: Singapore operations, Indonesia operations, and Japan operations). For management purposes, the Group is organised into one major strategic operating segment that offers all the investment properties for healthcare and/or healthcare related purposes.
+
+The geographical segment represents the Group's distinguishable components which provide products or services within a particular economic environment (location) and this component contains risks and returns that are different from those components which operate in other economic environments (locations). The liabilities are not analysed as the largest amount, namely the borrowings, are centrally managed.
+
+<!-- PAGE 182 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 29 OPERATING SEGMENTS (CONT'D)
+
+#### Information about reportable segment profit or loss and assets (cont'd)
+
+There are no significant inter-segment transactions. The accounting policies of the operating segments are the same as those described in the summary of material accounting policies in note 3.2.
+
+The management reporting system evaluates performances based on a number of factors. However, the primary financial performance measurement is to evaluate the properties based on their returns and yields.
+
+|  | Singapore<br>\$'000 | Indonesia<br>\$'000 | Japan<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|
+| <b>2024</b> |  |  |  |  |
+| <b>Total return reconciliation</b> |  |  |  |  |
+| Rental and other income | 4,242 | 84,577 | 13,392 | 102,211 |
+| Net property income and other income | 3,699 | 83,701 | 11,053 | 98,453 |
+| Finance income | 304 | 57 | 1 | 362 |
+| Manager's management fees |  |  |  | (8,690) |
+| Asset management fees | – | – | (1,006) | (1,006) |
+| Trustee fees |  |  |  | (355) |
+| Finance costs | (20,592) | – | (2,181) | (22,773) |
+| Other expenses |  |  |  | (1,553) |
+| Net income |  |  |  | 64,438 |
+| Net fair value losses on investment properties | (1,300) | (5,878) | (2,400) | (9,578) |
+| Net fair value gains of derivative financial instruments |  |  |  | 440 |
+| Net foreign exchange losses |  |  |  | (4,724) |
+| Total return before income tax |  |  |  | 50,576 |
+| Income tax expense | – | (11,873) | (1,949) | (13,822) |
+| Total return after income tax |  |  |  | 36,754 |
+| <b>Assets</b> |  |  |  |  |
+| Segment assets including investment properties/<br>Total assets | 43,393 | 853,893 | 263,215 | 1,160,501 |
+
+<!-- PAGE 183 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 29 OPERATING SEGMENTS (CONT'D)
+
+|  | Singapore<br>\$'000 | Indonesia<br>\$'000 | Japan<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|
+| <b>2023</b> |  |  |  |  |
+| <b>Total return reconciliation</b> |  |  |  |  |
+| Rental and other income | 4,228 | 89,489 | 14,851 | 108,568 |
+| Net property income and other income | 3,750 | 88,781 | 12,803 | 105,334 |
+| Finance income | 437 | 70 | – | 507 |
+| Manager's management fees |  |  |  | (8,979) |
+| Asset management fees | – | – | (1,105) | (1,105) |
+| Trustee fees |  |  |  | (361) |
+| Finance costs | (20,352) | – | (2,346) | (22,698) |
+| Other expenses |  |  |  | (1,470) |
+| Net income |  |  |  | 71,228 |
+| Net fair value (losses)/gains on investment properties | (906) | 14,106 | (2,366) | 10,834 |
+| Net fair value losses of derivative financial instruments |  |  |  | (477) |
+| Net foreign exchange losses |  |  |  | (3,369) |
+| Total return before income tax |  |  |  | 78,216 |
+| Income tax expense | – | (12,879) | (1,998) | (14,877) |
+| Total return after income tax |  |  |  | 63,339 |
+| <b>Assets</b> |  |  |  |  |
+| Segment assets including investment properties/<br>Total assets | 50,274 | 860,919 | 276,138 | 1,187,331 |
+
+Income is attributed to countries on the basis of the location of the investment properties. The non-current assets comprise mainly of investment properties which are analysed by the geographical area in which the assets are located (see the statements of portfolio for the carrying value of these assets).
+
+Income from the Group's top one and top two customers are from Indonesia. In aggregate, such revenue amounted to \$42,930,000 and \$78,772,000 (2023: \$44,007,000 and \$83,504,000) and contributed 42.0% and 77.1% (2023: 40.5% and 76.9%) of the Group's revenue respectively during the years ended 31 December 2024 and 31 December 2023.
+
+<!-- PAGE 184 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS
+
+#### Financial risk management
+
+##### Overview
+
+The Group has exposure to credit risk, liquidity risk and market risk arising from financial instruments.
+
+This note presents information about the Group's exposure to each of the above risks, the Group's objectives, policies and processes for measuring and managing risk, and the Group's management of capital.
+
+#### Risk management framework
+
+The Board of Directors of the Manager has overall responsibility for the establishment and oversight of the Group's risk management framework. The Audit and Risk Committee of the Manager assists the Board of Directors in overseeing how the Manager monitors compliance with the Group's risk management policies and procedures and reviews the adequacy of the risk management framework in relation to the risks faced by the Group. The Audit and Risk Committee reports regularly to the Board of Directors of the Manager on its activities.
+
+##### Climate-related risks
+
+The Group began introducing and reporting on climate-related risks in 2021 sustainability report of the Group with reference to the Task Force on Climate-Related Financial Disclosures ("TCFD") framework, which is also aligned with the requirements of the Guidelines on Environmental Risk Management ("EnRM") for asset managers as set out by the MAS.
+
+While there was no significant impact from climate risk or climate-related risks directly on the Group's assets and activities, the Manager recognises that climate risk and climate-related risks arising from the locations of the Group's assets can have impact on revenues, expenditures, assets & liabilities, capital and financing.
+
+The Group distinguishes between physical risks and transition risk. Physical risks such as rising global temperature and heatwaves, tropical cyclones, or typhoons are identified by the Manager as long-term risks, whereby the impact is likely to peak beyond the time horizon of ten to 30 years. Transition risks arise as a result of measures required to mitigate the effects of climate change and transition to a low-carbon economy, has the potential to dampen the severity of physical risks brought about by the climate change. It is expected that stringent policies will be implemented globally which may entail extensive policy, legal, technology and market changes posing varying levels of financial and reputational risk. The extent and severity of transition risks can be difficult to ascertain given its dependency on both climate and economic factors that could emerge between the short (one to three years) to medium (four to six years) term. In the short-to-medium-term, the impact of these transition risks, which are usually from policies, is likely to be greater than the impact of physical risks associated with climate change, which are expected to become more significant beyond the medium term.
+
+The Manager has developed an EnRM framework to manage the Group's climate and environmental-related risks. The Board of Directors (the "Board") of the Manager, with support from the sustainability team, has the oversight over the EnRM implementation and disclosures. The sustainability team comprises representatives from departments such as Asset Management, Compliance, Finance, and Investor Relations, and is chaired by the Chief Executive Officer.
+
+##### Credit risk
+
+Credit risk is the risk of potential financial loss to the Group or the Trust if a tenant or counterparty to a financial instrument fails to meet its contractual obligations as and when they fall due.
+
+The carrying amounts of financial assets in the statements of financial position represent the Group's and the Trust's maximum exposure to credit risk, before taking into account any collateral held. Security deposits are received, where appropriate, to reduce credit risk.
+
+<!-- PAGE 185 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Financial risk management (cont'd)
+
+##### Credit risk (cont'd)
+
+##### Trade and other receivables
+
+The Manager has established credit limits for tenants, obtained security deposits and/or bank guarantees (where applicable) and monitors their balances on an on-going basis. Credit evaluations are performed by the Manager before lease agreements are entered into with tenants.
+
+One of the tenants in Singapore has provided a bank guarantee in lieu of security deposits of \$1,576,000 (2023: \$1,545,000). The lessees, PT Lippo Karawaci Tbk and its subsidiaries, have provided bank guarantees of \$45,742,000 (2023: \$44,157,000) in lieu of security deposits for rental income from the properties. These guarantees which expired in 2024 have been renewed up to June, September, October, November and December 2025 as appropriate.
+
+##### Exposure to credit risk
+
+The exposure to credit risk for trade receivables at the reporting date by geographic region was as follows:
+
+|  | Group |  |
+|-|-|-|
+|  | 2024 | 2023 |
+|  | \$'000 | \$'000 |
+| Indonesia | 6,272 | 5,432 |
+| Singapore | – | 225 |
+|  | <u>6,272</u> | <u>5,657</u> |
+
+###### Expected credit loss assessment for trade receivables
+
+The Group uses an allowance matrix to measure the lifetime ECL of trade receivables from individual tenants. At every reporting date, the historical observed default rates are updated and changes in the forward-looking estimates are analysed. The Group has only a few tenants and for which credit risk can be graded individually. Loss allowance will be recognised for receivables from tenants if there is a significant increase in credit risk since the initial recognition. The loss allowance for trade receivables as at 31 December 2024 and 31 December 2023 were insignificant.
+
+The following table provides information about the exposure to credit risk for trade receivables:
+
+|  | Group |  |
+|-|-|-|
+|  | 2024 | 2023 |
+|  | \$'000 | \$'000 |
+| Current (not past due) | 2,159 | 2,177 |
+| 61 – 90 days past due | 595 | 864 |
+| More than 90 days past due | 3,518 | 2,616 |
+|  | <u>6,272</u> | <u>5,657</u> |
+
+<!-- PAGE 186 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Financial risk management (cont'd)
+
+##### ***Non-trade amounts due from subsidiaries and loan to subsidiaries***
+
+The Trust held non-trade receivables from its subsidiaries of \$17,470,000 (2023: \$10,974,000) and loan to subsidiaries of \$16,829,000 (2023: \$25,895,000). These balances are amounts lent to subsidiaries to satisfy their funding requirements. Impairment on these balances has been measured on the 12-month expected credit loss basis. The amount of the allowance on non-trade receivable from its subsidiaries and loan to subsidiaries were negligible as at 31 December 2024 and 31 December 2023.
+
+##### ***Derivatives financial instruments***
+
+Derivatives financial instruments are entered into with bank and financial institution counterparties with sound credit rating.
+
+At reporting date, there were no significant concentrations of credit risk. The maximum exposure to credit risk is represented by the carrying value of each financial asset on the statements of financial position.
+
+##### ***Cash and cash equivalents***
+
+Cash and cash equivalents are held with bank and financial institution counterparties with sound credit rating.
+
+Impairment on cash and cash equivalents has been measured on the 12-month expected loss basis and reflects the short maturities of the exposures. The Group considers that its cash and cash equivalents have low credit risk based on the external credit ratings of the counterparties. The amount of the allowance on cash and cash equivalents was negligible. The Group has complied with all its loan covenants based on the financial information as at 31 December 2024.
+
+##### **Liquidity risk**
+
+Liquidity risk is the risk that the Group will encounter difficulty in meeting the obligations associated with its financial liabilities that are settled by delivering cash or another financial asset.
+
+The Manager monitors its liquidity risk and maintains a level of cash and cash equivalents deemed adequate to finance the Group's operations and to mitigate the effects of fluctuations in cash flows. The Manager also monitors and observes the CIS Code issued by the MAS concerning limits on total borrowings. In March 2025, the Group commenced its negotiation with its lenders on the amendments to a future covenant (i.e. tests that are based on financial information on or after 31 March 2025), which states that the Trust shall ensure and procure that the ratio of the Consolidated Total Liabilities to the Consolidated Holders' Funds shall not exceed 0.9 to 1.
+
+As at the end of the financial year, the Group maintains an unutilised committed Social term loan A amounting to \$59,287,000.
+
+<!-- PAGE 187 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Liquidity risk (cont'd)
+
+The following are the contractual maturities of financial liabilities, including estimated interest payments and excluding the impact of netting agreements:
+
+|  | Carrying<br>amount<br>\$'000 | Contractual<br>cash flows<br>\$'000 | Cash flows |  |  |
+|-|-|-|-|-|-|
+|  |  |  | Within<br>1 year<br>\$'000 | Within<br>2 to 5 years<br>\$'000 | More than<br>5 years<br>\$'000 |
+| <b>Group</b> |  |  |  |  |  |
+| <b>2024</b> |  |  |  |  |  |
+| <b>Non-derivative financial liabilities</b> |  |  |  |  |  |
+| Borrowings | 453,482 | (492,490) | (16,762) | (370,702) | (105,026) |
+| Trade and other payables | 12,641 | (12,641) | (12,641) | – | – |
+| Other liabilities* | 8,069 | (8,069) | (126) | (2,397) | (5,546) |
+|  | 474,192 | (513,200) | (29,529) | (373,099) | (110,572) |
+| <b>Derivative financial instruments</b> |  |  |  |  |  |
+| Interest rate swaps (net-settled) | 192 | (199) | (199) | – | – |
+| Forward exchange contracts<br>(gross-settled) | (260) |  |  |  |  |
+| - inflow |  | 7,981 | 7,981 | – | – |
+| - outflow |  | (7,809) | (7,809) | – | – |
+|  | 474,124 | (513,227) | (29,556) | (373,099) | (110,572) |
+
+\* Excluding rental income received in advance from tenants
+
+<!-- PAGE 188 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Liquidity risk (cont'd)
+
+|  | Carrying<br>amount<br>\$'000 | Contractual<br>cash flows<br>\$'000 | Cash flows |  |  |
+|-|-|-|-|-|-|
+|  |  |  | Within<br>1 year<br>\$'000 | Within<br>2 to 5 years<br>\$'000 | More than<br>5 years<br>\$'000 |
+| Group |  |  |  |  |  |
+| 2023 |  |  |  |  |  |
+| Non-derivative financial liabilities |  |  |  |  |  |
+| Borrowings | 449,846 | (513,714) | (18,737) | (380,917) | (114,060) |
+| Trade and other payables | 12,402 | (12,402) | (12,402) | – | – |
+| Other liabilities* | 10,557 | (10,557) | – | (2,664) | (7,893) |
+|  | 472,805 | (536,673) | (31,139) | (383,581) | (121,953) |
+| Derivative financial instruments |  |  |  |  |  |
+| Interest rate swaps (net-settled) | 272 | (353) | (90) | (263) | – |
+| Interest rate caps (net-settled) | (411) | 175 | 175 | – | – |
+| Forward exchange contracts<br>(gross-settled) | (135) |  |  |  |  |
+| - inflow |  | 21,135 | 21,135 | – | – |
+| - outflow |  | (21,000) | (21,000) | – | – |
+|  | 472,531 | (536,716) | (30,919) | (383,844) | (121,953) |
+| Trust |  |  |  |  |  |
+| 2024 |  |  |  |  |  |
+| Non-derivative financial liabilities |  |  |  |  |  |
+| Borrowings | 336,394 | (364,698) | (15,007) | (349,691) | – |
+| Trade and other payables | 47,966 | (47,966) | (47,966) | – | – |
+| Loan from subsidiaries | 32,861 | (32,910) | (32,910) | – | – |
+| Other liabilities* | 2,121 | (2,121) | (72) | (2,049) | – |
+|  | 419,342 | (447,695) | (95,955) | (351,740) | – |
+| Derivative financial instruments |  |  |  |  |  |
+| Interest rate swaps (net-settled) | 192 | (199) | (199) | – | – |
+| Forward exchange contracts<br>(gross-settled) | (260) |  |  |  |  |
+| - inflow |  | 7,981 | 7,981 | – | – |
+| - outflow |  | (7,809) | (7,809) | – | – |
+|  | 419,274 | (447,722) | (95,982) | (351,740) | – |
+
+\* Excluding rental income received in advance from tenants
+
+<!-- PAGE 189 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+##### Liquidity risk (cont'd)
+
+|  |  |  | Cash flows |  |  |
+|-|-|-|-|-|-|
+|  | Carrying<br>amount | Contractual<br>cash flows | Within<br>1 year | Within<br>2 to 5 years | More than<br>5 years |
+|  | \$'000 | \$'000 | \$'000 | \$'000 | \$'000 |
+| Trust |  |  |  |  |  |
+| 2023 |  |  |  |  |  |
+| Non-derivative financial liabilities |  |  |  |  |  |
+| Borrowings | 326,926 | (377,236) | (16,888) | (360,348) | – |
+| Trade and other payables | 47,878 | (47,878) | (47,878) | – | – |
+| Loan from subsidiaries | 30,673 | (30,777) | (25,564) | (5,213) | – |
+| Other liabilities* | 2,079 | (2,079) | – | (2,079) | – |
+|  | 407,556 | (457,970) | (90,330) | (367,640) | – |
+| Derivative financial instruments |  |  |  |  |  |
+| Interest rate swaps (net-settled) | 272 | (353) | (90) | (263) | – |
+| Interest rate caps (net-settled) | (411) | 175 | 175 | – | – |
+| Forward exchange contracts<br>(gross-settled) | (135) |  |  |  |  |
+| - inflow |  | 21,135 | 21,135 | – | – |
+| - outflow |  | (21,000) | (21,000) | – | – |
+|  | 407,282 | (458,013) | (90,110) | (367,903) | – |
+
+\* Excluding rental income received in advance from tenants
+
+The maturity analyses show the contractual undiscounted cash flows of the Group's and the Trust's financial liabilities on the basis of their earliest possible contractual maturity. Derivative financial instruments held are usually not closed out prior to contractual maturity. The disclosure shows net cash flow amounts for derivatives that are net cash-settled and gross cash inflow and outflow amounts for derivatives that have simultaneous gross cash settlement.
+
+##### Market risk
+
+Market risk is the risk that changes in market prices, such as foreign exchange rates and interest rates will affect the Group's total return or the value of its holdings of financial instruments. The objective of market risk management is to manage and control market risk exposures within acceptable parameters, while optimising the return.
+
+<!-- PAGE 190 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Currency risk
+
+The Group operates predominantly in Singapore, Indonesia, and Japan. Entities in the Group regularly transact in currencies other than their respective functional currencies ("foreign currencies"). Currency risk arises within entities in the Group when transactions are denominated in foreign currencies other than the functional currencies of respective entity such as the JPY, IDR, SGD, and United States dollar ("USD").
+
+The Group management monitors the Group's foreign currency risk exposure and when appropriate, uses derivative financial instruments such as forward exchange contracts to hedge such exposure, only to the extent that the foreign currency exposure relates to monetary items. The Group does not hedge foreign currency exposure arising from (i) non-monetary items; and (ii) translation of Group's entities financial statements.
+
+###### Exposure to currency risk
+
+The Group's exposures to various foreign currencies are shown in SGD, translated using the spot rate as at 31 December as follows:
+
+|  | JPY<br>\$'000 | IDR<br>\$'000 | SGD<br>\$'000 | USD<br>\$'000 |
+|-|-|-|-|-|
+| <b>Group</b> |  |  |  |  |
+| <b>2024</b> |  |  |  |  |
+| <b>Financial assets</b> |  |  |  |  |
+| - Trade receivables | – | 1,654 | – | – |
+| - Other receivables | 1,532 | 18,017 | 3,814 | – |
+| - Loan to subsidiaries | 6,858 | – | – | – |
+| - Cash and cash equivalents | – | 3,564 | – | – |
+| <b>Financial liabilities</b> |  |  |  |  |
+| - Other payables | (275) | – | (1,443) | (551) |
+| - Loan from subsidiaries | (30,457) | – | (14,295) | – |
+| <b>Net exposure</b> | <u>(22,342)</u> | <u>23,235</u> | <u>(11,924)</u> | <u>(551)</u> |
+| <b>2023</b> |  |  |  |  |
+| <b>Financial assets</b> |  |  |  |  |
+| - Trade receivables | – | 791 | – | – |
+| - Other receivables | 809 | 27,922 | 40,219 | – |
+| - Loan to subsidiaries | 8,317 | – | – | – |
+| - Cash and cash equivalents | – | 2,327 | – | – |
+| <b>Financial liabilities</b> |  |  |  |  |
+| - Other payables | (515) | – | (1,462) | (549) |
+| - Loan from subsidiaries | (29,265) | – | (13,996) | – |
+| <b>Net exposure</b> | <u>(20,654)</u> | <u>31,040</u> | <u>24,761</u> | <u>(549)</u> |
+
+<!-- PAGE 191 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Currency risk (cont'd)
+
+###### Exposure to currency risk (cont'd)
+
+The Trust's exposures to various foreign currencies are shown in SGD, translated using the spot rate as at 31 December as follows:
+
+|  | JPY<br>\$'000 | USD<br>\$'000 |
+|-|-|-|
+| <b>Trust</b> |  |  |
+| <b>2024</b> |  |  |
+| <b>Financial assets</b> |  |  |
+| - Other receivables | 834 | – |
+| - Loan to a subsidiary | 5,526 | – |
+| <b>Financial liabilities</b> |  |  |
+| - Other payables | (275) | (551) |
+| - Loan from a subsidiary | (4,937) | – |
+| <b>Net exposure</b> | <u>1,148</u> | <u>(551)</u> |
+| <b>2023</b> |  |  |
+| <b>Financial assets</b> |  |  |
+| - Other receivables | 809 | – |
+| - Loan to a subsidiary | 6,928 | – |
+| <b>Financial liabilities</b> |  |  |
+| - Other payables | (216) | (549) |
+| - Loan from a subsidiary | (5,161) | – |
+| <b>Net exposure</b> | <u>2,360</u> | <u>(549)</u> |
+
+<!-- PAGE 192 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Currency risk (cont'd)
+
+###### Exposure to currency risk (cont'd)
+
+###### Sensitivity analysis
+
+A 5% strengthening of the functional currencies of the respective entity against the following currencies at the reporting date would have increased/(decreased) total return by the amounts shown below. A similar weakening would have the equal but opposite effect. This analysis assumes that all other variables, in particular interest rate, remain constant.
+
+|  | Total return |  |
+|-|-|-|
+|  | 2024 | 2023 |
+|  | \$'000 | \$'000 |
+| <b>Group</b> |  |  |
+| JPY | 1,117 | 1,033 |
+| IDR | (1,162) | (1,552) |
+| SGD | 596 | (1,238) |
+| USD | 28 | 27 |
+|  |  |  |
+| <b>Trust</b> |  |  |
+| JPY | (57) | (118) |
+| USD | 28 | 27 |
+
+##### Interest rate risk
+
+The Manager's strategy to manage the risk of potential interest rate volatility may be through the use of interest rate hedging instruments and/or fixed rate borrowings. The Manager will regularly evaluate the feasibility of putting in place the appropriate level of interest rate hedges, after taking into account the prevailing market conditions.
+
+Derivative financial instruments are used to manage exposures to interest rate risks arising from financing activities. Derivative financial instruments are not used for trading purposes. However, derivatives that do not qualify for hedge accounting are accounted for as trading instruments.
+
+The Group's exposure to interest rate risk arises primarily from its variable-rate borrowings. The Group's policy is to obtain the most favourable interest rates available without increasing its interest risk exposure.
+
+<!-- PAGE 193 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Interest rate risk (cont'd)
+
+At the reporting date, the interest rate profile of the interest-bearing financial instruments, as reported to the management was as follows:
+
+| Group | Nominal amount |  |
+|-|-|-|
+|  | 2024<br>\$'000 | 2023<br>\$'000 |
+| <b>Fixed rate instruments</b> |  |  |
+| Effect of borrowings | (218,888) | (225,212) |
+| Interest rate swaps | (42,500) | (85,000) |
+| Interest rate caps | – | (90,000) |
+|  | <u>(261,388)</u> | <u>(400,212)</u> |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (240,713) | (233,713) |
+| Interest rate swaps | 42,500 | 85,000 |
+| Interest rate caps | – | 90,000 |
+|  | <u>(198,213)</u> | <u>(58,713)</u> |
+| <b>Trust</b> |  |  |
+| <b>Fixed rate instruments</b> |  |  |
+| Effect of borrowings | (100,000) | (100,000) |
+| Loan to a subsidiary | 5,526 | 6,928 |
+| Interest rate swaps | (42,500) | (85,000) |
+| Interest rate caps | – | (90,000) |
+|  | <u>(136,974)</u> | <u>(268,072)</u> |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (240,713) | (233,713) |
+| Loan from a subsidiary | (4,937) | (5,161) |
+| Loan to a subsidiary | 11,303 | 18,967 |
+| Interest rate swaps | 42,500 | 85,000 |
+| Interest rate caps | – | 90,000 |
+|  | <u>(191,847)</u> | <u>(44,907)</u> |
+
+###### Fair value sensitivity analysis for fixed rate instruments
+
+The Group does not account for any fixed rate financial assets and liabilities at FVTPL, and the Group does not designate derivative financial instruments (interest rate swaps and interest rate caps) as hedging instruments under a fair value hedge accounting model. Therefore, in respect of the fixed rate instruments, a change in interest rates at the reporting date would not affect total return.
+
+<!-- PAGE 194 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Interest rate risk (cont'd)
+
+*Sensitivity analysis for variable rate instruments*
+
+For variable instruments, a change of 100 basis points in interest rates at the reporting date would have increased/(decreased) total return (before any tax effects) by the amount shown below. This analysis assumes that all other variables remain constant.
+
+|  | <b>Statements of total return</b> |  |
+|-|-|-|
+|  | <b>100 bp<br/>increase<br/>\$'000</b> | <b>100 bp<br/>decrease<br/>\$'000</b> |
+| <b>Group</b> |  |  |
+| <b>31 December 2024</b> |  |  |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (2,407) | 2,407 |
+| Interest rate swaps | 425 | (425) |
+|  | <u>(1,982)</u> | <u>1,982</u> |
+| <b>31 December 2023</b> |  |  |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (2,337) | 2,337 |
+| Interest rate swaps | 850 | (850) |
+| Interest rate caps | 900 | (900) |
+|  | <u>(587)</u> | <u>587</u> |
+| <b>Trust</b> |  |  |
+| <b>31 December 2024</b> |  |  |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (2,407) | 2,407 |
+| Loan from a subsidiary | (49) | 49 |
+| Loan to a subsidiary | 113 | (113) |
+| Interest rate swaps | 425 | (425) |
+|  | <u>(1,918)</u> | <u>1,918</u> |
+| <b>31 December 2023</b> |  |  |
+| <b>Variable rate instruments</b> |  |  |
+| Effect of borrowings | (2,337) | 2,337 |
+| Loan from a subsidiary | (52) | 52 |
+| Loan to a subsidiary | 190 | (190) |
+| Interest rate swaps | 850 | (850) |
+| Interest rate caps | 900 | (900) |
+|  | <u>(449)</u> | <u>449</u> |
+
+<!-- PAGE 195 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Interest rate risk (cont'd)
+
+##### Offsetting financial assets and financial liabilities
+
+Financial instruments such as loans and receivables and financial liabilities are not disclosed in the tables below unless they are offset in the statements of financial position.
+
+The Group and the Trust entered into transactions under ISDA master netting agreements. In general, under such agreements the amounts owed by each counterparty on a single day in respect of all transactions outstanding in the same currency are aggregated into a single net amount that is payable by one party to the other. In certain circumstances, for example, when a credit event such as a default occurs, all outstanding transactions under the agreement are terminated, the termination value is assessed and only a single net amount is payable in settlement of all transactions, the termination value is assessed and only a single net amount is payable in settlement of all transactions.
+
+The above ISDA agreements do not meet the criteria for offsetting in the statements of financial position. This is because the Group and the Trust do not have any currently legally enforceable right to offset recognised amounts, because the right to offset is enforceable only on the occurrence of future events such as default on bank loans or other credit events.
+
+The following table sets out the carrying amounts of recognised financial instruments that are subject to the above agreements.
+
+|  | Gross amount<br>of recognised<br>financial<br>instruments<br>\$'000 | Gross amount<br>of recognised<br>financial<br>instruments<br>offset in the<br>statements<br>of financial<br>position<br>\$'000 | Net amount<br>of financial<br>instruments<br>presented in<br>the statements<br>of financial<br>position<br>\$'000 | Related amount<br>not offset in<br>the statements<br>of financial<br>position<br>\$'000 | Net amount<br>\$'000 |
+|-|-|-|-|-|-|
+| <b>Group and Trust</b> |  |  |  |  |  |
+| <b>2024</b> |  |  |  |  |  |
+| <b>Derivative assets</b> |  |  |  |  |  |
+| Forward exchange contracts | 260 | – | 260 | – | 260 |
+| <b>Derivative liabilities</b> |  |  |  |  |  |
+| Interest rate swaps | (192) | – | (192) | – | (192) |
+
+<!-- PAGE 196 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Market risk (cont'd)
+
+##### Interest rate risk (cont'd)
+
+##### Offsetting financial assets and financial liabilities (cont'd)
+
+|  | Gross amount<br>of recognised<br>financial<br>instruments<br>offset in the<br>statements<br>of financial<br>position<br>\$'000 | Gross amount<br>of recognised<br>financial<br>instruments<br>offset in the<br>statements<br>of financial<br>position<br>\$'000 | Net amount<br>of financial<br>instruments<br>presented in<br>the statements<br>of financial<br>position<br>\$'000 | Related amount<br>not offset in<br>the statements<br>of financial<br>position<br>\$'000 | Net amount<br>\$'000 |
+|-|-|-|-|-|-|
+| <b>Group and Trust</b> |  |  |  |  |  |
+| <b>2023</b> |  |  |  |  |  |
+| <b>Derivative assets</b> |  |  |  |  |  |
+| Interest rate caps | 411 | – | 411 | – | 411 |
+| Forward exchange contracts | 149 | – | 149 | – | 149 |
+| Total | 560 | – | 560 | – | 560 |
+| <b>Derivative liabilities</b> |  |  |  |  |  |
+| Interest rate swaps | (272) | – | (272) | – | (272) |
+| Forward exchange contracts | (14) | – | (14) | – | (14) |
+| Total | (286) | – | (286) | – | (286) |
+
+The gross amounts of financial assets and financial liabilities and their net amounts as presented in the statements of financial position that are disclosed in the above table are measured in the statements of financial position on following basis:
+
+- interest rate swaps - fair value;
+- interest rate caps - fair value; and
+- forward exchange contracts - fair value.
+
+#### Capital management
+
+The Manager's principal objectives are to deliver regular and stable distributions to Unitholders and to achieve sustainable long-term growth in distributions and in the net asset value per unit, while maintaining an appropriate capital structure. Capital consists of all components of equity of the Group.
+
+The Group's capital funding objectives are to maintain a strong statements of financial position, manage the cost of debt financing, and potential refinancing or repayment risks, secure diversified funding sources and implement appropriate hedging strategies to manage interest rate volatility and foreign exchange exposure, after taking into account prevailing market conditions.
+
+<!-- PAGE 197 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Capital management (cont'd)
+
+The Trust and its subsidiaries are subject to the aggregate leverage limit as defined in the Property Fund Appendix of the CIS Code issued by the MAS. The CIS Code stipulates that all REIT are to have a minimum interest coverage ratio ("ICR") of 1.5 times and the total borrowings and deferred payments (together the "Aggregate Leverage") of a property fund should not exceed 50.0% of its Deposited Property.
+
+The Aggregate Leverage of the Group as at 31 December 2024 was 39.6% (2023: 38.7%) of its Deposited Property with an ICR of 3.6 times (2023: 3.9 times).
+
+The Manager monitors the level, nature of debt and leverage ratios, along with the compliance with financial covenants on quarterly basis to ensure that sufficient resources exist. The Group aims to maintain a healthy debt-to-adjusted capital ratio as part of its long-term policy of ensuring that the Group maintains a good credit rating and lowers its weighted average cost of capital. Net debt is calculated as total debt less cash and cash equivalents. Adjusted capital comprises all components of equity.
+
+|  | Group |  | Trust |  |
+|-|-|-|-|-|
+|  | 2024 | 2023 | 2024 | 2023 |
+|  | \$'000 | \$'000 | \$'000 | \$'000 |
+| Net debt: |  |  |  |  |
+| All external borrowings | 453,482 | 449,846 | 336,394 | 326,926 |
+| Less: cash and cash equivalents | (34,674) | (40,266) | (11,796) | (16,837) |
+| Net debt | 418,808 | 409,580 | 324,598 | 310,089 |
+| Adjusted capital: |  |  |  |  |
+| Issued equity | 535,993 | 565,086 | 535,993 | 565,086 |
+| Retained earnings/(Accumulated losses) | 179,216 | 160,605 | (164,765) | (152,543) |
+| Foreign exchange reserve | (116,219) | (98,807) | – | – |
+| Perpetual securities | 33,282 | 33,282 | 33,282 | 33,282 |
+| Adjusted capital | 632,272 | 660,166 | 404,510 | 445,825 |
+| Debt-to-adjusted capital ratio | 66.24% | 62.04% | 80.24% | 69.55% |
+
+The only externally imposed capital requirement is that for the Trust to maintain its listing on the SGX-ST, it must have a free float of at least 10% of the units in issue. The Manager monitors the non-free float through reports provided by the registrar on a quarterly basis to ensure that the Trust has complied with the SGX-ST's 10% limit throughout the reporting year.
+
+<!-- PAGE 198 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Accounting classifications and fair values
+
+The carrying amounts and fair values of financial assets and financial liabilities, including their levels in the fair value hierarchy are as follows. It does not include fair value information for financial assets and financial liabilities not measured at fair value if the carrying amount is a reasonable approximation of fair value.
+
+| Group | Mandatorily<br>at FVTPL<br>\$'000 | Amortised<br>cost<br>\$'000 | Other<br>financial<br>liabilities<br>\$'000 | Total<br>carrying<br>amount<br>\$'000 | Level 1<br>\$'000 | Level 2<br>\$'000 | Level 3<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|-|-|-|-|
+| <b>31 December 2024</b> |  |  |  |  |  |  |  |  |
+| <b>Financial assets measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – forward exchange contracts | 260 | – | – | 260 | – | 260 | – | 260 |
+| <b>Financial liabilities measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – interest rate swaps | (192) | – | – | (192) | – | (192) | – | (192) |
+| <b>Financial liabilities not measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Security deposits | – | – | (8,069) | (8,069) | – | – | (6,825) | (6,825) |
+| Social guaranteed bonds | – | – | (97,762) | (97,762) | – | (100,150) | – | (100,150) |
+| Social term loan A | – | – | (238,632) | (238,632) | – | – | – | – |
+| Social term loan B | – | – | (14,486) | (14,486) | – | – | (14,287) | (14,287) |
+| Secured TMK bonds B<br>and Term loan C | – | – | (102,602) | (102,602) | – | – | (97,143) | (97,143) |
+|  | – | – | (461,551) | (461,551) |  |  |  |  |
+
+<!-- PAGE 199 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Accounting classifications and fair values (cont'd)
+
+| Group | Mandatorily<br>at FVTPL<br>\$'000 | Amortised<br>cost<br>\$'000 | Other<br>financial<br>liabilities<br>\$'000 | Total<br>carrying<br>amount<br>\$'000 | Level 1<br>\$'000 | Level 2<br>\$'000 | Level 3<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|-|-|-|-|
+| <b>31 December 2023</b> |  |  |  |  |  |  |  |  |
+| <b>Financial assets measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – interest rate caps | 411 | – | – | 411 | – | 411 | – | 411 |
+| – forward exchange contracts | 149 | – | – | 149 | – | 149 | – | 149 |
+|  | 560 | – | – | 560 |  |  |  |  |
+| <b>Financial liabilities measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – interest rate swaps | (272) | – | – | (272) | – | (272) | – | (272) |
+| – forward exchange contracts | (14) | – | – | (14) | – | (14) | – | (14) |
+|  | (286) | – | – | (286) |  |  |  |  |
+| <b>Financial liabilities not measured at fair value</b> |  |  |  |  |  |  |  |  |
+| Security deposits | – | – | (10,557) | (10,557) | – | – | (8,347) | (8,347) |
+| Social guaranteed bonds | – | – | (96,778) | (96,778) | – | (97,789) | – | (97,789) |
+| Social term loan A | – | – | (230,148) | (230,148) | – | – | (14,748) | (14,748) |
+| Social term loan B | – | – | (15,071) | (15,071) | – | – | – | – |
+| Secured TMK bonds B and Term loan C | – | – | (107,849) | (107,849) | – | – | (101,084) | (101,084) |
+|  | – | – | (460,403) | (460,403) |  |  |  |  |
+
+<!-- PAGE 200 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Accounting classifications and fair values (cont'd)
+
+| Trust | Mandatorily<br>at FVTPL<br>\$'000 | Amortised<br>cost<br>\$'000 | Other<br>financial<br>liabilities<br>\$'000 | Total<br>carrying<br>amount<br>\$'000 | Level 1<br>\$'000 | Level 2<br>\$'000 | Level 3<br>\$'000 | Total<br>\$'000 |
+|-|-|-|-|-|-|-|-|-|
+| <b>31 December 2024</b> |  |  |  |  |  |  |  |  |
+| <b>Financial assets measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – forward exchange contracts | 260 | – | – | 260 | – | 260 | – | 260 |
+| <b>Financial assets not measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Loan to subsidiaries | – | 16,829 | – | 16,829 | – | – | 16,693 | 16,693 |
+| <b>Financial liabilities measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Derivative financial instruments |  |  |  |  |  |  |  |  |
+| – interest rate swaps | (192) | – | – | (192) | – | (192) | – | (192) |
+| <b>Financial liabilities not measured<br/>at fair value</b> |  |  |  |  |  |  |  |  |
+| Security deposits | – | – | (2,121) | (2,121) | – | – | (1,953) | (1,953) |
+| Social guaranteed bonds | – | – | (97,762) | (97,762) | – | (100,150) | – | (100,150) |
+| Social term loan A | – | – | (238,632) | (238,632) | – | – | – | – |
+| Loan from subsidiaries | – | – | (32,861) | (32,861) | – | – | – | – |
+|  | – | – | (371,376) | (371,376) | – | – | – | – |
+
+<!-- PAGE 201 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Accounting classifications and fair values (cont'd)
+
+##### Trust
+
+**31 December 2023**
+
+##### Financial assets measured at fair value
+
+|  |  |  |  |
+|-|-|-|-|
+| Derivative financial instruments |  |  |  |
+| – interest rate caps | 411 | – | 411 |
+| – forward exchange contracts | 149 | – | 149 |
+|  | 560 | – | 560 |
+
+##### Financial assets not measured at fair value
+
+|  |  |  |  |  |  |  |  |
+|-|-|-|-|-|-|-|-|
+| Loan to subsidiaries | - | 25,895 | - | 25,895 | - | 25,678 | 25,678 |
+|-|-|-|-|-|-|-|-|
+
+##### Financial liabilities measured at fair value
+
+|  |  |  |  |  |  |
+|-|-|-|-|-|-|
+| Derivative financial instruments |  |  |  |  |  |
+| – interest rate swaps | (272) | – | (272) | – | (272) |
+| – forward exchange contracts | (14) | – | (14) | – | (14) |
+|  | (286) | – | (286) |  |  |
+
+##### **Financial liabilities not measured at fair value**
+
+|  |  |  |  |  |  |
+|-|-|-|-|-|-|
+| Security deposits | — | (2,079) | (2,079) | — | (1,847) |
+| Social guaranteed bonds | — | (96,778) | (96,778) | — | (97,789) |
+| Social term loan A | — | (230,148) | (230,148) | — | — |
+| Loan from subsidiaries | — | (30,673) | (30,673) | — | — |
+|  | — | (359,678) | (359,678) | — | — |
+
+<!-- PAGE 202 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 30 FINANCIAL INSTRUMENTS (CONT'D)
+
+#### Accounting classifications and fair values (cont'd)
+
+##### Valuation techniques and significant unobservable inputs
+
+The following tables show the valuation techniques used in measuring Level 2 and Level 3 fair values as well as significant unobservable inputs used.
+
+##### *Financial instruments measured at fair value*
+
+| Type | Valuation technique | Key observable inputs |
+|-|-|-|
+| <b>Group and Trust</b> |  |  |
+| Interest rate swaps, interest rate caps and forward exchange contracts. | The fair values are based on broker quotes. Similar contracts are traded in an active market and the quotes reflect the actual transaction in similar instruments. | Not applicable |
+
+##### *Financial instruments not measured at fair value*
+
+| Type | Valuation technique | Key observable inputs |
+|-|-|-|
+| <b>Group</b> |  |  |
+| Security deposits | Discounted cash flows: The valuation model considers the present value of expected payment, discounted using a risk-adjusted discount rate. | Discount rate: 1.11% to 3.62% (2023: 1.11% to 3.62%) |
+| Social guaranteed bonds | Market quoted prices. | Not applicable |
+| Other financial liabilities <sup>(1)</sup> | Discounted cash flows: The valuation model considers the present value of expected payment, discounted using a risk-adjusted discount rate. | Not applicable |
+
+|  |  |  |
+|-|-|-|
+| <b>Trust</b> |  |  |
+| Security deposits | Discounted cash flows: The valuation model considers the present value of expected payment, discounted using a risk-adjusted discount rate. | Discount rate: 3.62% (2023: 3.62%) |
+| Loan to subsidiaries |  | Discount rate: 1.27% to 5.97% (2023: 1.27% to 6.02%) |
+| Social guaranteed bonds | Market quoted prices. | Not applicable |
+
+<sup>(1)</sup> Other financial liabilities include secured bonds and bank loans
+
+<!-- PAGE 203 -->
+
+## Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 31 LISTING OF ENTITIES IN THE GROUP
+
+The following are the Group's significant subsidiaries:
+
+| Name of company | Principal activities | Country of incorporation | % of paid-up capital held by |  |  |  |
+|-|-|-|-|-|-|-|
+|  |  |  | The Trust |  | Subsidiaries |  |
+|  |  |  | 2024 | 2023 | 2024 | 2023 |
+|  |  |  | % | % | % | % |
+| <b>Subsidiaries</b> |  |  |  |  |  |  |
+| PT Bayutama Sukses <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Makassar | Indonesia | – | – | 100 | 100 |
+| PT Graha Indah Pratama <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Kebon Jeruk | Indonesia | – | – | 100 | 100 |
+| PT Graha Pilar Sejahtera <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Lippo Cikarang | Indonesia | – | – | 100 | 100 |
+| PT Karya Sentra Sejahtera <sup>(a)</sup> | Property holding –<br>Imperial Aryaduta Hotel & Country Club | Indonesia | – | – | 100 | 100 |
+| PT Menara Abadi Megah <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Manado &<br>Hotel Aryaduta Manado | Indonesia | – | – | 100 | 100 |
+| PT Primatama Cemerlang <sup>(a)</sup> | Property holding –<br>Mochtar Riady Comprehensive<br>Cancer Centre | Indonesia | – | – | 100 | 100 |
+| PT Sentra Dinamika Perkasa <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Lippo Village | Indonesia | – | – | 100 | 100 |
+| PT Dasa Graha Jaya <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Bali | Indonesia | – | – | 100 | 100 |
+| PT Eka Dasa Parinama <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Purwakarta | Indonesia | – | – | 100 | 100 |
+| PT Sriwijaya Mega Abadi <sup>(a)</sup> | Property holding –<br>Siloam Sriwijaya | Indonesia | – | – | 100 | 100 |
+
+<!-- PAGE 204 -->
+
+# Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 31 LISTING OF ENTITIES IN THE GROUP (CONT'D)
+
+| Name of company | Principal activities | Country of incorporation | % of paid-up capital held by |  |  |  |
+|-|-|-|-|-|-|-|
+|  |  |  | The Trust | Subsidiaries |  |  |
+|  |  |  | 2024 | 2023 | 2024 | 2023 |
+|  |  |  | % | % | % | % |
+| <b>Subsidiaries</b> |  |  |  |  |  |  |
+| PT Nusa Bahana Niaga <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Kupang &<br>Lippo Plaza Kupang | Indonesia | – | – | 100 | 100 |
+| PT Buton Bangun Cipta <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Baubau &<br>Lippo Plaza Baubau | Indonesia | – | – | 100 | 100 |
+| PT Prima Labuan Bajo <sup>(a)</sup> | Property holding –<br>Siloam Hospitals Labuan Bajo | Indonesia | – | – | 100 | 100 |
+| PT Perisai Dunia Sejahtera <sup>(a)</sup> | Property holding –<br>Siloam Hospitals TB Simatupang | Indonesia | – | – | 100 | 100 |
+| OUELH Japan First TMK <sup>(b)</sup> | Property holding –<br>12 Japan nursing homes <sup>(c)</sup> | Japan | – | – | 100 | 100 |
+| First REIT Japan Two GK <sup>(b)</sup> | Property holding –<br>Two Japan nursing homes <sup>(d)</sup> | Japan | – | – | 100 | 100 |
+| <b>Joint operation held by subsidiary, Icon1 Holdings Pte. Ltd.</b> |  |  |  |  |  |  |
+| PT Yogya Central Terpadu <sup>(a)</sup><br>(Note A) | Property holding –<br>Siloam Hospitals Yogyakarta | Indonesia | – | – | 31% | 31% |
+
+<sup>(a)</sup> Audited by RSM Indonesia, member firm of RSM International
+
+<sup>(b)</sup> Audited by KPMG AZSA LLC, Tokyo
+
+<sup>(c)</sup> Hikari Heights Varus Ishiyama, Hikari Heights Varus Tsukisamu Koen, Hikari Heights Varus Fujino, Hikari Heights Varus Kotoni, Varus Cuore Yamanote, Hikari Heights Varus Makomanai Koen, Varus Cuore Sapporo Kita & Annex, Elysion Gakuenmae, Elysion Mamigaoka & Mamigaoka Annex, Orchard Amanohashidate, Orchard Kaichi North, and Orchard Kaichi West
+
+<sup>(d)</sup> Medical Rehabilitation Home Bon Séjour Komaki and Loyal Residence Ayase
+
+<!-- PAGE 205 -->
+
+###### Notes to the Financial Statements
+
+Year ended 31 December 2024
+
+### 31 LISTING OF ENTITIES IN THE GROUP (CONT'D)
+
+#### Note A
+
+In 2017, the Trust and Lippo Malls Indonesia Retail Trust entered into a joint venture deed (the “Deed”) to jointly own the Yogyakarta property through PT Yogya Central Terpadu (“PT YCT”) subsequent to the approval of the relevant licenses. Icon1 Holdings Pte. Ltd. (“Icon1”) transferred 18,850,000 of its existing Class A shares to Icon2 Investment Pte. Ltd. (“Icon2”). As a result, Icon1 holds 66,150,000,000 Class A shares and Icon2 holds 142,500,000,000 Class B shares in PT YCT. As holders of Class A shares, Icon1 has the exposure to all the economic rights, obligations, revenue, profits and dividends in respect of the hospital component. Icon2 has exposure to all the economic rights, obligations, revenue, profits and dividends in respect of the retail mall component.
+
+Any non-property-related common expenses of the hospital and retail mall component are borne by Icon1 and Icon2 in the proportion of 31% and 69% respectively. All property-related common expenses of the hospital component are borne by Icon1.
+
+### 32 SUBSEQUENT EVENTS
+
+- (i) On 13 January 2025, the Manager has received a preliminary non-binding letter of intent (“LOI”) from PT Siloam International Hospitals Tbk (“Siloam”) to acquire First REIT’s portfolio of hospital assets in Indonesia. The Board has decided to undertake a strategic review to assess the LOI and explore all strategic options relating to the business of First REIT which may include but not limited to, exploration of joint ventures, strategic partnerships, asset acquisitions and/or asset divestments, with a view to delivering sustainable long-term value for First REIT’s unitholders. There is no certainty or assurance that any transaction will materialise from Strategic Review or the LOI, or that a definitive or binding agreement will be reached relating to any of the assets of the Group within one year. Therefore, the sale is not highly probable at the reporting date. Accordingly, the Group has continued to classify the hospital assets in Indonesia as investment properties in the statements of financial position as at 31 December 2024.
+- (ii) On 11 February 2025, the Manager declared a distribution of 0.58 cents per unit, amounting to \$12,113,000, in respect of the period from 1 October 2024 to 31 December 2024.
+- (iii) On 19 February 2025, the Trust issued 1,824,192 new units at the issuance price of \$0.2533 per unit, amounting to \$462,000, to the Manager as partial payment of management base fee for the period from 1 October 2024 to 31 December 2024. The issue price was based on the volume weighted average traded price for all trades done on the SGX-ST in the ordinary course of trading for the last 10 business days of the quarter.
+- (iv) On 19 February 2025, the Trust issued 2,515,854 new units at the issuance price of \$0.2608 per unit, amounting to \$656,000, to the Manager as payment of 50% of the management performance fee for the period from 1 October 2023 to 31 December 2023. The issue price was based on the volume weighted average traded price for all trades done on the SGX-ST in the ordinary course of trading for the last 10 business days of the quarter.
+
+<!-- PAGE 206 -->
+
+## Interested Person Transactions
+
+The transactions entered into with interested persons during the financial year 31 December 2024, which fall within the Listing Manual of Singapore Exchange Securities Trading Limited (“SGX-ST”) and the Property Funds Appendix of the Code on Collective Investment Scheme are as follows:
+
+| Name of Interested Person | Nature of relationship | Aggregate value of all interested person transactions during the financial year under review (excluding transactions less than S\$100,000 and transactions conducted under unitholders’ mandate pursuant to Rule 920) | Aggregate value of all interested person transactions conducted under unitholders’ mandate pursuant to Rule 920 (excluding transactions less than S\$100,000) |
+|-|-|-|-|
+| First REIT Management Limited<br>- Manager’s management fees | Manager of First REIT | S\$8,690,000 | – |
+| FRM Japan Management K.K.<br>- Asset management fees | Associate of the controlling shareholder of the Manager and controlling Unitholder of First REIT | S\$214,000 | – |
+| Perpetual (Asia) Limited<br>- Trustee fees | Trustee of First REIT | S\$355,000 | – |
+| PT Lippo Karawaci Tbk and its subsidiaries<br>- Rental income | Associates of the controlling shareholder of the Manager and controlling Unitholder of First REIT | S\$54,702,000 | – |
+
+Saved as disclosed above, there will no additional interested person transactions (excluding transactions of less than S\$100,000 each) entered into during the financial year under review or any material contracts entered into by the Trust that involved the interests of the CEO, any Director or any controlling shareholder of the Trust.
+
+Fees payable to the Manager in accordance with the terms and conditions of the Trust Deed dated 19 October 2016 (subsequently amended by First Supplemental Deed dated 6 September 2007, Second Supplemental Deed dated 19 April 2010, Third Supplemental Deed dated 26 April 2011, Fourth Supplemental Deed dated 1 April 2013, First Amending and Restating Deed dated 23 March 2016, Supplemental Deed of Retirement and appointment of Trustee dated 1 November 2017, Fifth Supplemental Deed dated 22 May 2018, Sixth Supplemental Deed dated 30 April 2019, Seventh Supplemental Deed dated 7 April 2020 and Eighth Supplemental Deed dated 25 February 2022) are not subject to Rules 905 and 906 of the SGX-ST’s Listing Manual. Accordingly, such fees are not subject to aggregation and other requirements under Rules 905 and 906 of the SGX-ST’s Listing Manual.
+
+Please see significant related party transactions on note 28 in the financial statements.
+
+## Subscription of the Trust Units
+
+During the financial year ended 31 December 2024, 17,522,113 new units were issued as payment of management fees.
+
+<!-- PAGE 207 -->
+
+## Statistics of Unitholdings
+
+As at 10 March 2025
+
+### DISTRIBUTION OF UNITHOLDINGS
+
+| SIZE OF UNITHOLDINGS | NO. OF UNITHOLDERS | % | NO. OF UNITS | % |
+|-|-|-|-|-|
+| 1 - 99 | 615 | 4.64 | 26,936 | 0.00 |
+| 100 - 1,000 | 966 | 7.28 | 648,932 | 0.03 |
+| 1,001 - 10,000 | 5,091 | 38.38 | 28,901,725 | 1.38 |
+| 10,001 - 1,000,000 | 6,527 | 49.20 | 441,399,773 | 21.03 |
+| 1,000,001 AND ABOVE | 67 | 0.50 | 1,627,810,007 | 77.56 |
+| <b>TOTAL</b> | <b>13,266</b> | <b>100.00</b> | <b>2,098,787,373</b> | <b>100.00</b> |
+
+### TWENTY LARGEST UNITHOLDERS
+
+| NO. | NAME | NO. OF UNITS | % |
+|-|-|-|-|
+| 1 | OLH HEALTHCARE INVESTMENTS PTE LTD | 480,000,000 | 22.87 |
+| 2 | CITIBANK NOMINEES SINGAPORE PTE LTD | 397,169,836 | 18.92 |
+| 3 | DBS NOMINEES (PRIVATE) LIMITED | 145,099,306 | 6.91 |
+| 4 | FIRST REIT MANAGEMENT LIMITED | 100,820,475 | 4.80 |
+| 5 | RHB BANK NOMINEES PTE LTD | 100,000,000 | 4.76 |
+| 6 | RAFFLES NOMINEES (PTE.) LIMITED | 50,082,857 | 2.39 |
+| 7 | HSBC (SINGAPORE) NOMINEES PTE LTD | 37,999,590 | 1.81 |
+| 8 | PHILLIP SECURITIES PTE LTD | 34,889,981 | 1.66 |
+| 9 | DBSN SERVICES PTE. LTD. | 27,176,247 | 1.29 |
+| 10 | UNITED OVERSEAS BANK NOMINEES (PRIVATE) LIMITED | 25,936,410 | 1.24 |
+| 11 | IFAST FINANCIAL PTE. LTD. | 21,337,550 | 1.02 |
+| 12 | OCBC NOMINEES SINGAPORE PRIVATE LIMITED | 20,548,807 | 0.98 |
+| 13 | ABN AMRO CLEARING BANK N.V. | 19,575,114 | 0.93 |
+| 14 | OCBC SECURITIES PRIVATE LIMITED | 16,340,615 | 0.78 |
+| 15 | MAYBANK SECURITIES PTE. LTD. | 13,568,031 | 0.65 |
+| 16 | MOOMOO FINANCIAL SINGAPORE PTE. LTD. | 11,825,852 | 0.56 |
+| 17 | CGS INTERNATIONAL SECURITIES SINGAPORE PTE. LTD. | 9,824,609 | 0.47 |
+| 18 | UOB KAY HIAN PRIVATE LIMITED | 7,624,989 | 0.36 |
+| 19 | SNG KAY BOON TERENCE | 7,476,200 | 0.36 |
+| 20 | LIM CHEE YEW (LIN ZHIYOU) | 6,000,000 | 0.29 |
+| <b>TOTAL</b> |  | <b>1,533,296,469</b> | <b>73.05</b> |
+
+<!-- PAGE 208 -->
+
+# Statistics of Unitholdings
+
+As at 10 March 2025
+
+### SUBSTANTIAL UNITHOLDERS
+
+(As recorded in the Register of Substantial Unitholders' Unitholdings as at 10 March 2025)
+
+| Name of Substantial Unitholder | Direct Interest |  | Deemed Interest |  |
+|-|-|-|-|-|
+|  | No. of Units held | % <sup>(21)</sup> | No. of Units Held | % <sup>(21)</sup> |
+| First REIT Management Limited (“ <b>FRM</b> ”) | 219,006,655 | 10.43 | - | - |
+| OLH Healthcare Investments Pte. Ltd. (“ <b>OHI</b> ”) | 677,997,828 | 32.30 | - | - |
+| OUELH (Singapore) Pte. Ltd. (“ <b>OUELH (Singapore)</b> ”) | - | - | 677,997,828 <sup>(1)</sup> | 32.30 |
+| OUELH (SEA) Pte. Ltd. (“ <b>OUELH (SEA)</b> ”) | - | - | 677,997,828 <sup>(1)</sup> | 32.30 |
+| OUE Healthcare Limited (“ <b>OUEH</b> ”) | - | - | 897,004,483 <sup>(1)(2)</sup> | 42.74 |
+| Treasure International Holdings Pte. Ltd. (“ <b>TIHPL</b> ”) | - | - | 897,004,483 <sup>(1)(2)</sup> | 42.74 |
+| OUE Limited (“ <b>OUE</b> ”) | - | - | 950,475,700 <sup>(1)(2)(3)</sup> | 45.29 |
+| OUE Realty Pte. Ltd. (“ <b>OUER</b> ”) | - | - | 950,475,700 <sup>(4)</sup> | 45.29 |
+| Golden Concord Asia Limited (“ <b>GCAL</b> ”) | - | - | 950,475,700 <sup>(5)</sup> | 45.29 |
+| Fortune Crane Limited (“ <b>FCL</b> ”) | - | - | 950,475,700 <sup>(6)</sup> | 45.29 |
+| Lippo ASM Asia Property Limited (“ <b>LAAPL</b> ”) | - | - | 950,475,700 <sup>(7)</sup> | 45.29 |
+| HKC Property Investment Holdings Limited (“ <b>HKC Property</b> ”) | - | - | 950,475,700 <sup>(8)</sup> | 45.29 |
+| Hongkong Chinese Limited (“ <b>HCL</b> ”) | - | - | 950,475,700 <sup>(9)</sup> | 45.29 |
+| Lippo Capital Limited (“ <b>LCL</b> ”) | - | - | 952,120,288 <sup>(10)</sup> | 45.37 |
+| Lippo Capital Holdings Company Limited (“ <b>LCH</b> ”) | - | - | 952,120,288 <sup>(11)</sup> | 45.37 |
+| Lippo Capital Group Limited (“ <b>LCG</b> ”) | - | - | 952,120,288 <sup>(12)</sup> | 45.37 |
+| Admiralty Station Management Limited (“ <b>Admiralty</b> ”) | - | - | 950,475,700 <sup>(13)</sup> | 45.29 |
+| Argyle Street Management Limited (“ <b>ASML</b> ”) | - | - | 950,475,700 <sup>(14)</sup> | 45.29 |
+| Argyle Street Management Holdings Limited (“ <b>ASMHL</b> ”) | - | - | 950,475,700 <sup>(15)</sup> | 45.29 |
+| Mr Kin Chan | - | - | 950,475,700 <sup>(16)</sup> | 45.29 |
+| Mr V-Nee Yeh | - | - | 950,475,700 <sup>(17)</sup> | 45.29 |
+| PT Trijaya Utama Mandiri (“ <b>PT TUM</b> ”) | - | - | 952,120,288 <sup>(18)</sup> | 45.37 |
+| Mr James Tjahaja Riady | - | - | 952,120,288 <sup>(19)</sup> | 45.37 |
+| Dr Stephen Riady | - | - | 952,120,288 <sup>(20)</sup> | 45.37 |
+
+###### Notes:
+
+- OHI is 100% owned by OUELH (Singapore). OUELH (Singapore) is 100% owned by OUELH (SEA). OUELH (SEA) is 100% owned by OUEH. TIHPL, a subsidiary of OUE, directly holds 70.36% of the total issued share capital of OUEH. Accordingly, each of OUE, TIHPL, OUEH, OUELH (SEA) and OUELH (Singapore) has a deemed interest in OHI's interest in the Units.
+- FRM is 40% directly held by OUEH and 60% directly held by OUE. Accordingly, each of OUEH and OUE has a deemed interest in FRM's interest in the Units. TIHPL directly holds 70.36% of the total issued share capital of OUEH and has a deemed interest in the Units in which OUEH has a deemed interest.
+- Further, OUE is deemed to have an interest in the 53,471,217 Units held by Clifford Development Pte. Ltd., a subsidiary of OUE.
+- OUER is the holding company of OUE and has a deemed interest in the Units in which OUE has a deemed interest.
+- GCAL is the holding company of OUER and has a deemed interest in the Units in which OUER has a deemed interest.
+- FCL is the holding company of GCAL and has a deemed interest in the Units in which GCAL has a deemed interest.
+- LAAPL is the holding company of FCL and has a deemed interest in the Units in which FCL has a deemed interest.
+- LAAPL is jointly held by HKC Property and Admiralty. Accordingly, HKC Property is deemed to have an interest in the Units in which LAAPL has a deemed interest.
+- HCL is the immediate holding company of HKC Property. Accordingly, HCL is deemed to have an interest in the Units in which HKC Property has a deemed interest.
+
+<!-- PAGE 209 -->
+
+# Statistics of Unitholdings
+
+As at 10 March 2025
+
+10. LCL is an intermediate holding company of HKC Property and Hongkong China Treasury Limited (“**HKCTL**”). Accordingly, LCL is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the 1,644,588 Units held by HKCTL (the “**HKCTL Units**”).
+11. LCH is an intermediate holding company of HKC Property and HKCTL. Accordingly, LCH is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the HKCTL Units.
+12. LCG is the holding company of LCH, which in turn is an intermediate holding company of HKC Property and HKCTL. Accordingly, LCG is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the HKCTL Units.
+13. LAAPL is jointly held by HKC Property and Admiralty. Accordingly, Admiralty is deemed to have an interest in the Units in which LAAPL has a deemed interest.
+14. ASML owns 100% of the voting shares in the capital of Admiralty. Accordingly, ASML is deemed to have an interest in the Units in which Admiralty has a deemed interest.
+15. ASMHL is the immediate holding company of ASML. Accordingly, ASMHL is deemed to have an interest in the Units in which ASML has a deemed interest.
+16. Mr Kin Chan is the beneficial owner of more than 20% of the issued share capital of ASMHL. Accordingly, Mr Kin Chan is deemed to have an interest in the Units in which ASMHL has a deemed interest.
+17. Mr V-Nee Yeh is the beneficial owner of more than 20% of the issued share capital of ASMHL. Accordingly, Mr V-Nee Yeh is deemed to have an interest in the Units in which ASMHL has a deemed interest.
+18. PT TUM holds more than 20% of the shares in LCL, which in turn is an intermediate holding company of HKC Property and HKCTL. Accordingly, PT TUM is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the HKCTL Units.
+19. Mr James Tjahaja Riady effectively holds all the shares in PT TUM, which holds more than 20% of the shares in LCL. LCL in turn is an intermediate holding company of HKC Property and HKCTL. Accordingly, Mr James Tjahaja Riady is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the HKCTL Units.
+20. Dr Stephen Riady holds the entire issued share capital of LCG, which is the holding company of LCH. LCH in turn is an intermediate holding company of HKC Property and HKCTL. Accordingly, Dr Stephen Riady is deemed to have an interest in the Units in which HKC Property has a deemed interest, as well as a deemed interest in the HKCTL Units.
+21. The unitholding percentage is calculated based on 2,098,787,373 issued Units as at 10 March 2025.
+
+## MANAGER’S DIRECTORS’ UNITHOLDINGS
+
+(As recorded in the Register of Directors’ Unitholdings as at 21 January 2025)
+
+|  |  | No. of Units<br>Direct Interest | No. of Units<br>Deemed Interest |
+|-|-|-|-|
+| 1. | Tan Kok Mian Victor | 252,569 | - |
+| 2. | Martin Lechner | 3,000,000 | - |
+
+### Free Float
+
+Based on the information made available to the Manager as at 10 March 2025, approximately 54.48% of the Units in First REIT are held in hands of the public. Accordingly, First REIT is in compliance with Rule 723 of the Listing Manual of the SGX-ST.
+
+### Treasury Units and Subsidiary Holdings
+
+As at 10 March 2025, First REIT does not hold any treasury units and there is no subsidiary holding.
+
+<!-- PAGE 210 -->
+
+This page has been intentionally left blank
+
+<!-- PAGE 211 -->
+
+# Corporate Information
+
+### MANAGER
+
+**First REIT Management Limited**
+
+### REGISTERED OFFICE
+
+333 Orchard Road  
+#33-02, Hilton Singapore Orchard  
+Singapore 238867  
+Tel: (65) 6435 0168  
+Fax: (65) 6435 0167
+
+### Website & Email Address
+
+www.first-reit.com  
+ir@first-reit.com
+
+### TRUSTEE
+
+**Perpetual (Asia) Limited**
+
+8 Marina Boulevard #05-02  
+Marina Bay Financial Centre Tower 1  
+Singapore 018981
+
+## UNIT REGISTRAR AND UNIT TRANSFER OFFICE
+
+**Boardroom Corporate & Advisory Services Pte. Ltd.**
+
+1 Harbourfront Avenue  
+#14-07 Keppel Bay Tower  
+Singapore 098632
+
+## INDEPENDENT AUDITORS
+
+**KPMG LLP**
+
+12 Marina View #15-01  
+Asia Square Tower 2  
+Singapore 018916  
+Audit Partner-in-charge: Ms Tan Kar Yee, Linda  
+*Appointed from financial year: 2022*
+
+**KPMG AZSA LLC**
+
+Otemachi Financial City South Tower  
+1-9-7 Otemachi, Chiyoda-ku  
+Tokyo, 100-8172
+
+**RSM Indonesia**
+
+Plaza Asia, 10th Floor  
+Jl. Jend. Sudirman Kav. 59  
+Jakarta 12190, Indonesia
+
+### INDEPENDENT SINGAPORE TAX ADVISER
+
+**Ernst & Young LLP**
+
+One Raffles Quay  
+North Tower, Level 18  
+Singapore 048583
+
+### INDEPENDENT INDONESIA ACCOUNTING AND TAX ADVISER
+
+**PT Artha Jasakonsulindo**
+
+District 8 @SCBD Lot 28  
+Treasury Tower, 6th Floor  
+Jl. Jend. Sudirman Kav. 52-53  
+Senayan, Kebayoran Baru  
+Jakarta Selatan 12190, Indonesia
+
+## DIRECTORS OF THE MANAGER
+
+**Mr Christopher James Williams**
+
+Chairman and Non-Independent Non-Executive Director
+
+**Mr Tan Kok Mian Victor**
+
+Executive Director and Chief Executive Officer
+
+**Mr Chan Pengee Adrian**
+
+Lead Independent Director
+
+**Mr Ferris Charles Bye**
+
+Independent Director
+
+**Mr Tan Chuan Lye**
+
+Independent Director
+
+**Mr Martin Lechner**
+
+Independent Director
+
+**Ms Minny Riady**
+
+Non-Independent Non-Executive Director
+
+## AUDIT AND RISK COMMITTEE
+
+Mr Ferris Charles Bye (Chairman)  
+Mr Chan Pengee Adrian  
+Mr Tan Chuan Lye  
+Mr Martin Lechner
+
+## NOMINATING AND REMUNERATION COMMITTEE
+
+Mr Chan Pengee Adrian (Chairman)  
+Mr Tan Chuan Lye  
+Ms Minny Riady
+
+## COMPANY SECRETARY OF THE MANAGER
+
+Mr Kelvin Chua
+
+<!-- PAGE 212 -->
+
+![Decorative graphic of stylized leaves in yellow, green, and blue at the top left corner.](7abe7d494d789d5b4366875ebbe3322a_img.jpg)
+
+Decorative graphic of stylized leaves in yellow, green, and blue at the top left corner.
+
+![FIRST REIT logo with a colorful square icon and the tagline 'ASIA'S PREMIER HEALTHCARE TRUST' below it.](dd6ca069ca77109ad861ad55b7527083_img.jpg)
+
+FIRST REIT logo with a colorful square icon and the tagline 'ASIA'S PREMIER HEALTHCARE TRUST' below it.
+
+[www.first-reit.com](http://www.first-reit.com)
+
+Managed by:
+
+FIRST REIT MANAGEMENT LIMITED
+
+333 Orchard Road, #33-02,  
+Hilton Singapore Orchard, Singapore 238867  
+Tel: (65) 6435 0168 | Fax: (65) 6435 0167
+
+![FSC MIX logo with the text 'FSC', 'MIX', 'Paper | Supporting responsible forestry', and 'FSC® C177176'.](8001f778f2d1d713ba4e8f6a39b85718_img.jpg)
+
+FSC MIX logo with the text 'FSC', 'MIX', 'Paper | Supporting responsible forestry', and 'FSC® C177176'.

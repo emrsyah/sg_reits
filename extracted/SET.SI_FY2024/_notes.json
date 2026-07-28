@@ -1,0 +1,58 @@
+{
+  "currency": "EUR (presentation currency of Stoneweg European REIT / SERT). All figures native as-reported, not converted. EUR carries an FX rate at load time.",
+  "entity_note": "FY2024 report is REIT-only (Stoneweg European Real Estate Investment Trust, formerly Cromwell European REIT). The stapled Business Trust (Stoneweg European BT) was only constituted 21 May 2025, so unlike the FY2025 report there is NO Stapled-Group column here; the single audited 'SERT' column is canonical. New sponsor SWI Group acquired 28% in 2024.",
+  "columns_never_fillable": [
+    {"column": "property.net_property_income", "reason": "Per-property NPI not disclosed. NPI (segment profit) is disclosed ONLY at country x asset-class granularity in the Segment note (Note 1, p162): 14 rows, e.g. NL Logistics 5,159; France Logistics 20,751 (EUR'000); segment NPI totals Logistics 66,062 + Office 60,596 + Others 4,487 = 131,145 = portfolio NPI. No per-property decomposition anywhere. Country asset-summary tables (pp.76-90) disclose per-property Gross revenue but NOT NPI."},
+    {"column": "property.gla / property.gfa", "reason": "Only 'Lettable area (sqm)' (= NLA) is disclosed per property in the country asset-summary tables. No GLA or GFA (gross floor area) concept appears in the report. gla/gfa left null; nla filled."},
+    {"column": "property.major_tenants", "reason": "Per-property tenant lists not disclosed; only the portfolio-wide TOP TEN TENANT-CUSTOMERS table (p45)."},
+    {"column": "top_tenant.industry", "reason": "The TOP TEN TENANT-CUSTOMERS table (p45) has only Tenant-customer / Country / % of total headline rent columns — no per-tenant sector. Trade sector is disclosed only as a portfolio-wide aggregate donut (TENANT TRADE SECTOR BY HEADLINE RENT, 12 sectors, p45), not attributed to named tenants. Assigning a sector from the company name would be inference, not extraction — left null."},
+    {"column": "property.lease_term_years / lease_expiry_date / effective_date", "reason": "Country asset-summary tables disclose only categorical Land tenure (Freehold / Perpetual Leasehold / Continuing Leasehold / etc.) and Lease type (Single/Multi-tenanted). The audited Statement of Portfolio (pp.150-161) discloses a 'Remaining Term of Leasehold (Years)' column, but for this pass numeric per-property lease terms were not extracted (positional-split table); left null."}
+  ],
+  "reconciliation": {
+    "property_count": "105 rows in the marketing portfolio summary (p38, line: Total 105 properties, valuation EUR 2,240,947k, 8.1% variance to purchase price) = 104 investment properties (Note 9) + 1 held-for-sale (Via della Fortezza 8, Florence, EUR 15,000k). Matches parse: 105 properties, sum market_valuation EUR 2,240,947,000.",
+    "sum_property_valuation_marketing": 2240947000,
+    "audited_independent_valuation": 2225947000,
+    "rou_asset_component": 5885000,
+    "audited_investment_properties_carrying": 2231832000,
+    "assets_held_for_sale": 15000000,
+    "note_valuation": "Marketing valuation 2,240,947 = audited independent valuation 2,225,947 + assets held for sale 15,000 (= 2,240,947). Audited carrying amount on balance sheet = independent valuation 2,225,947 + ROU asset 5,885 = 2,231,832 (Note 9, p171). performance.portfolio_value = 2,231,832,000 (audited investment properties carrying, balance sheet), matching FY2025 methodology.",
+    "reported_total_gross_revenue": 212919000,
+    "income_stmt_total_revenue": 212919000,
+    "reported_total_npi": 131145000,
+    "income_stmt_gross_income": 131145000,
+    "line_items_recon": "Sum(revenue 213,026) - Sum(expense 129,450) + Sum(adjustment signed -48,095) = 35,481 = net_income (Total return for the year) [EUR'000]",
+    "distribution_rollforward": "A(opening 44,652) + B(NDI for year 79,328) - P(distributions declared/paid 84,094) = E(closing 39,886). Verified. NDI 79,328 = TotalReturn attrib to unitholders+perp 35,481 - perpetual 2,328 + distribution adjustments Note A 46,175.",
+    "segment_npi_by_class": {"Logistics_Light_Industrial": 66062000, "Office": 60596000, "Others": 4487000, "total": 131145000},
+    "divestments_fy2024": "5 completed divestments totalling EUR 32.1m (Poland Grójecka 5, Finland Grandinkulma, France Lénine, Italy Via Brigata Padova 19, Italy Via Rampa Cavalcavia 16-18), blended 9.7% premium to valuation. No acquisitions in FY2024."
+  },
+  "financial_atoms": {
+    "note": "Atoms captured for the §6 LOCKED downstream conventions (EUR'000).",
+    "dep_pe": 0,
+    "fv_cf_signed": 27677,
+    "finance_costs_gross": 41260,
+    "capex_sum": 43599,
+    "derivations": "ebit=NOI=operating_income=119,465; depreciation=dep_pe+fv_cf_signed=0+27,677=27,677; ebitda=pretax+interest(gross)+depreciation=55,707+41,260+27,677=124,644; ffo=net_income+depreciation-net_property_sales=35,481+27,677-599=62,559; capex=capex_sum=43,599 (stored positive). interest_expense_non_operating=gross finance costs 41,260 (interest expense 38,241 + amortisation of debt issuance costs 3,019; NOT netting interest income 5,264). line_items keep NET finance costs 35,996 (as-declared audit trail)."
+  },
+  "inferred": [
+    {"table": "properties", "field": "ownership", "scope": "all 105 rows", "value": 100.0,
+     "basis": "All investment properties held 100% by SERT (single-REIT structure, no NCI in FY2024). Not stated per property but structurally 100%.", "source_page": 18},
+    {"table": "properties", "field": "category", "scope": "Italy 'Others' rows (segment 'Others')", "value": "Specialized",
+     "basis": "Trust 'Others' asset class (hotel + leisure + govt-leased assets) mapped to canonical Specialized.", "source_page": 162},
+    {"table": "financial", "field": "income_stmt_metrics._derived",
+     "scope": "operating_income/ebit/ebitda/depreciation/ffo/interest_expense_non_operating/non_operating_income_or_loss/capital_expenditure",
+     "value": "computed", "basis": "Derived per reit-extract-hybrid REFERENCE §6 LOCKED conventions from the audited Statement of Total Return + Cash Flow Statement + finance-costs note (not literal statement lines).", "source_page": 145}
+  ],
+  "parsing_traps": [
+    "Property data lives in a FACING-PAGE POSITIONAL SPLIT in the country asset sections (pp.76-90): LEFT table = property name / address / acquisition date / purchase price; RIGHT table (next page, NO label column) = valuation / lettable area / gross revenue / occupancy / lease type / land tenure, aligned by row position. Extracted by a deterministic positional-zip (parse_props.py), VERIFIED by reconciling total valuation to EUR 2,240,947k (105 rows) exactly against the marketing portfolio summary (p38).",
+    "Marketing portfolio count is 105 (incl. Via della Fortezza held-for-sale); Note 9 says 104 investment properties + 1 HFS = 105. Not a double-count.",
+    "Maxima (Italy) generated zero gross revenue in FY2024 (ongoing redevelopment) — gross_revenue null is correct, not a miss.",
+    "Finance-costs note (10(b), p187) nets interest income within the note; the atom 'gross finance costs' = interest expense 38,241 + amortisation 3,019 = 41,260 (interest income 5,264 NOT netted). Net finance costs 35,996 used in line_items only."
+  ],
+  "data_with_no_home": [
+    "New sponsor SWI Group acquired 28% of SERT units + the management platform for €280m in 2024 (transition from Cromwell). Trust renamed Cromwell European REIT -> Stoneweg European REIT.",
+    "Portfolio by asset class (p bytes): Logistics/Light Industrial ~55%, Office, Others. WALE 5.1 years (longest ever); top-10 tenant WALE 6.9 yrs; WALB 4.0 yrs. 813 tenant-customers post-divestments; top-10 = 22.2% of headline rent; largest tenant 4.4%.",
+    "Aggregate leverage 41.2% (net gearing 40.2%); interest cover 3.3x; average all-in interest rate 3.2% p.a. in FY2024 (vs 2.6% FY2023). Gross borrowings €956.8m; total facilities €1,494.0m. €450m bond due Nov-2025 classified current at year-end; refinanced Jan-2025 via €500m 6-yr green bond (weighted-avg debt maturity extended to 4.2 yrs pro-forma).",
+    "Perpetual securities holders' funds €64,204k (SGD-denominated); FY2024 distribution to perpetual holders €2,328k.",
+    "Portfolio occupancy 93.5% by NLA (down 80bps y-o-y). Total lettable area ~1.7m sqm. Market capitalisation €888.6m at 31 Dec 2024."
+  ]
+}

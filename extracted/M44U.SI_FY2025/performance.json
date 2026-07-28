@@ -1,71 +1,60 @@
 {
   "symbol": "M44U.SI",
   "financial_year": 2025,
-  "portfolio_value": 13292000000,
-  "properties_location": "Singapore, Australia, China, Hong Kong SAR, India, Japan, Malaysia, South Korea, Vietnam",
-  "gross_revenue": 727026000,
-  "net_property_income": 625293000,
-  "net_distributable_income": 406397000,
-  "distribution_paid": 417743000,
-  "adjusted_distributable_income": null,
-  "dpu": 8.053,
+  "portfolio_value": 13076200000,
+  "properties_location": "Singapore, Hong Kong SAR, China, Japan, South Korea, Australia, Malaysia, Vietnam, India",
+  "gross_revenue": 708274000,
+  "net_property_income": 610156000,
+  "net_distributable_income": 370067000,
+  "distributable_income_opening": 99868000,
+  "distribution_cash_paid": 376135000,
+  "distributable_income_closing": 93800000,
+  "distribution_paid": null,
+  "distribution_basis": "full_payout_no_retention_line",
+  "dpu": 7.262,
   "distribution_record": [
     {
-      "period": "1 Apr 2024 to 30 Jun 2024",
-      "dpu": 2.068,
+      "period": "1Q FY25/26 (1 Apr-30 Jun 2025)",
+      "dpu": 1.812,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Jul 2024 to 30 Sep 2024",
-      "dpu": 2.027,
+      "period": "2Q FY25/26 (1 Jul-30 Sep 2025)",
+      "dpu": 1.815,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Oct 2024 to 31 Dec 2024",
-      "dpu": 2.003,
+      "period": "3Q FY25/26 (1 Oct-31 Dec 2025)",
+      "dpu": 1.816,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Jan 2025 to 31 Mar 2025",
-      "dpu": 1.955,
+      "period": "4Q FY25/26 (1 Jan-31 Mar 2026)",
+      "dpu": 1.819,
       "ex_date": null,
       "pay_date": null
     }
   ],
-  "number_of_unitholders": 34292,
-  "aggregate_leverage": 40.7,
+  "number_of_unitholders": 34600,
+  "number_of_shareholder_units": 5110907000,
+  "aggregate_leverage": 40.6,
   "interest_coverage_ratio": 2.9,
-  "nav_per_unit": 1.31,
-  "weighted_avg_debt_maturity": 3.8,
-  "wale": 2.8,
-  "wale_basis": "by NLA",
-  "cost_of_debt": 2.7,
-  "portfolio_occupancy": 96.2,
+  "cost_of_debt": 2.6,
+  "weighted_avg_debt_maturity": 3.6,
+  "nav_per_unit": 1.26,
+  "wale": 2.5,
+  "portfolio_occupancy": 96.9,
   "currency": "SGD",
-  "date": "2025-03-31",
-  "source_page": 6,
-  "distribution_basis": "full_payout_no_retention_line",
+  "date": "2026-03-31",
   "flags": [
     {
-      "type": "distribution_paid_basis",
-      "note": "cash distributed during FY (period-mixed): includes 2.211 cents for 1 Jan-31 Mar 2024 (S$110,417k) + 2.068 cents for 1 Apr-30 Jun 2024 (S$103,730k) + 2.027 cents for 1 Jul-30 Sep 2024 (S$102,287k) + 2.003 cents for 1 Oct-31 Dec 2024 (S$101,309k) = 'Total Unitholders' distribution (including capital return)' S$417,743k, Distribution Statements p124"
+      "type": "number_of_unitholders_dated_post_year_end",
+      "scope": "performance",
+      "note": "Statistics of Unitholdings as at 29 May 2026 (post FY-end)"
     }
   ],
-  "_recovered_note": {
-    "aggregate_leverage": "40.7% — KPI dashboard, parsed p5 (line 271); corroborated p40 (38.9% FY prior), p41 capital-management text, p42 5-yr table",
-    "interest_coverage_ratio": "2.9 times — capital-management narrative parsed p41 (line 2453) and financial-statement Note (line 8591 'interest coverage ratio 2.9 (2024: 3.1) times'); 5-yr highlights table p7 (line 486). Not shown on p5 dashboard.",
-    "nav_per_unit": "S$1.31 — Net Asset Value per Unit, KPI dashboard parsed p5 (line 255); corroborated p... balance-sheet note (line 2295)",
-    "weighted_avg_debt_maturity": "3.8 years — 'Average Debt Maturity', KPI dashboard parsed p5 (line 280); corroborated p42 (line 2481)",
-    "wale": "2.8 years by NLA — 'Weighted Average Lease Expiry (by NLA)', KPI dashboard parsed p5 (line 233). By-revenue basis (~2.7) not stated on this page; only the by-NLA figure is disclosed here.",
-    "cost_of_debt": "2.7% — 'Average Cost of Debt' as reported, p7 5-yr financial highlights (line 487) and p40 capital-management table (line 2395); narrative 'stable average cost of debt at 2.7%' (line 1176). NOTE: lead suggested 3.57% from Note 18 p198, but that 3.57% (line 7819) is the weighted-average interest rate on intercompany LOANS TO SUBSIDIARIES, a different metric — not used.",
-    "portfolio_occupancy": "96.2% — Portfolio Occupancy, KPI dashboard parsed p5 (line 225); corroborated narrative 'overall portfolio occupancy remained healthy at 96.2%' (line 1152)"
-  },
-  "number_of_shareholder_units": 5066733000,
-  "dpu_period_months": 12,
-  "distributable_income_opening": 111214000,
-  "distribution_cash_paid": 417743000,
-  "distributable_income_closing": 99868000
+  "source_page": 6
 }

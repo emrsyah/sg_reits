@@ -1,66 +1,66 @@
 {
   "symbol": "N2IU.SI",
   "financial_year": 2025,
-  "portfolio_value": 15960000000.0,
+  "portfolio_value": 15211100000,
   "properties_location": "Singapore; Hong Kong SAR; China; Japan; South Korea",
-  "gross_revenue": 908841000.0,
-  "net_property_income": 683537000.0,
-  "net_distributable_income": 423022000.0,
-  "distribution_paid": 439609000.0,
+  "gross_revenue": 867287000,
+  "net_property_income": 654427000,
+  "net_distributable_income": 421380000,
+  "distributable_income_opening": 141525000,
+  "distribution_cash_paid": 422889000,
+  "distributable_income_closing": 140016000,
+  "distribution_paid": null,
+  "distribution_basis": "not_disclosed_rollforward_only",
   "adjusted_distributable_income": null,
-  "dpu": 8.02,
+  "dpu": 7.97,
   "distribution_record": [
     {
-      "period": "1 Jan 2024 - 31 Mar 2024",
-      "dpu": 2.29,
+      "period": "1 Jan 2025 - 31 Mar 2025",
+      "dpu": 1.95,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Apr 2024 - 30 Jun 2024",
-      "dpu": 2.09,
+      "period": "1 Apr 2025 - 30 Jun 2025",
+      "dpu": 2.01,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Jul 2024 - 30 Sep 2024",
-      "dpu": 1.98,
+      "period": "1 Jul 2025 - 30 Sep 2025",
+      "dpu": 2.01,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "1 Oct 2024 - 31 Dec 2024",
-      "dpu": 2.0,
+      "period": "1 Oct 2025 - 31 Dec 2025",
+      "dpu": 2.05,
       "ex_date": null,
       "pay_date": null
     }
   ],
-  "number_of_unitholders": 32419,
-  "aggregate_leverage": 37.7,
-  "interest_coverage_ratio": 2.8,
-  "cost_of_debt": 3.51,
-  "weighted_avg_debt_maturity": 3.3,
-  "nav_per_unit": 1.78,
-  "wale": 2.2,
-  "portfolio_occupancy": 89.6,
+  "number_of_unitholders": 31768,
+  "number_of_shareholder_units": 5284369726,
+  "aggregate_leverage": 36.5,
+  "interest_coverage_ratio": 3.2,
+  "cost_of_debt": 3.16,
+  "weighted_avg_debt_maturity": 3.0,
+  "nav_per_unit": 1.73,
+  "wale": 2.4,
+  "portfolio_occupancy": 89.4,
   "currency": "SGD",
-  "date": "2025-03-31",
+  "date": "2026-03-31",
   "flags": [
     {
       "type": "dpu_period_basis",
       "scope": "distribution_record",
-      "note": "FY24/25 DPU 8.02 cents declared as four quarterly distributions covering 1 Jan 2024-31 Mar 2024 (paid in FY24/25) plus the three FY24/25 quarters to 31 Dec 2024; ex/pay dates not tabulated in the report. Sum of the four listed period DPUs = 8.36 cents reflects the calendar-quarter declaration timing, not the FY24/25 8.02-cent headline."
+      "note": "distribution_record lists the four quarterly distributions as disclosed in the audited Distribution Statement (p110) on a CASH-PAID basis (periods 1 Jan 2025 to 31 Dec 2025). Their sum (8.02 cents) reflects calendar-quarter declaration/payment timing, NOT the reported FY25/26 headline DPU of 7.97 cents (which covers the 4 FY25/26 quarters 1 Apr 2025 to 31 Mar 2026; the 1 Jan-31 Mar 2026 tranche is declared after FY-end). Underlying DPU excluding a one-off S$8.3m divestment-related tax charge = 8.11 cents (p4/p17)."
     },
     {
-      "type": "distribution_paid_basis",
-      "note": "distribution_paid = S$439,609k cash 'Distributions to Unitholders' during the year, Statement of Movements in Unitholders' Funds (Group), FY2025; period-mixed (cash-paid-in-year basis per user decision, not aligned 1:1 to FY24/25 declared DPU periods); p114"
+      "type": "distribution_basis_note",
+      "scope": "distribution_paid",
+      "note": "distribution_paid (for-year DECLARED) left null: the audited Distribution Statement (p110) discloses the rollforward (A opening 141,525k; B for-year available 421,380k; P total cash distribution 422,889k; E closing 140,016k) and per-quarter cash tranches, but not a single 'distribution declared for FY25/26' line. Rollforward A+B-P=E holds: 141,525+421,380-422,889=140,016."
     }
   ],
-  "source_page": 5,
-  "distribution_basis": "full_payout_no_retention_line",
-  "number_of_shareholder_units": 5267580000,
-  "dpu_period_months": 12,
-  "distributable_income_opening": 158112000,
-  "distribution_cash_paid": 439609000,
-  "distributable_income_closing": 141525000
+  "source_page": 4
 }

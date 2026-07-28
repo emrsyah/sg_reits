@@ -1,0 +1,20 @@
+{
+  "symbol": "CRPU.SI",
+  "sub_sector": "Retail",
+  "management": {
+    "reit_manager": [
+      "Sasseur Asset Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Sasseur Cayman Holding Limited"
+    ],
+    "operator": [
+      "Sasseur (Shanghai) Holding Company Limited"
+    ]
+  },
+  "income_model": "entrusted_management",
+  "source_page": 164
+}

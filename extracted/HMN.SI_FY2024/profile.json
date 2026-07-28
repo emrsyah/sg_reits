@@ -1,0 +1,21 @@
+{
+  "symbol": "HMN.SI",
+  "sub_sector": "Hospitality",
+  "management": {
+    "reit_manager": [
+      "CapitaLand Ascott Trust Management Limited"
+    ],
+    "trustee": [
+      "DBS Trustee Limited",
+      "CapitaLand Ascott Business Trust Management Pte. Ltd."
+    ],
+    "sponsor": [
+      "The Ascott Limited"
+    ],
+    "operator": [
+      "The Ascott Limited"
+    ]
+  },
+  "income_model": "mixed",
+  "source_page": 315
+}

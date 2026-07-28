@@ -1,0 +1,225 @@
+# Page map — 39_ODBU.SI_United-Hampshire-US-REIT_FY2024
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p20 ['000] — This page presents the organizational structure of United Hampshire US REIT, featuring a chart and description detailing the Board of Directors, Audit
+    - p69 — This page presents the UHREIT Sustainability and TCFD Report, specifically detailing stakeholder engagement activities for FY2024 through Table 2. The
+    - p194 ['000] — This page presents the **Related Parties** notes and a transaction table detailing financial year 2024 dealings with related entities, including fees 
+    - p198 ['000] — This page details the Interested Person Transactions for United Hampshire US REIT (UHREIT) for the financial year ended 31 December 2024, presented in
+    - p201 — This page presents the UNITHOLDING STATISTICS for the Directors of the Manager, specifically detailing their direct and deemed interests in Units as r
+- **also mentions:**
+    - p19 — This page displays the Trust and Tax Structure diagram illustrating the relationship between UHREIT, its Manager, Trustee (Perpetual (Asia) Limited), 
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p48 [million] — This page presents a property summary for Lawnside Commons, detailing its location, physical attributes (151,076 sq ft NLA), valuation ($33.6 million 
+    - p51 [million] — This page details the Parkway Crossing property, presenting a Property Summary table with key metrics including Location (2331-2535 Cleanleigh Drive, 
+    - p142 ['000] — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT for the financial year ended 31 December 2024, reporting all figure
+    - p146 ['000] — This page presents the Statements of Changes in Unitholders' Funds for the financial year ended 31 December 2023, detailing the movement in Units in I
+    - p147 ['000] — This page presents the Statements of Changes in Unitholders' Funds for SGX REIT (SGD'000) for the years ended 31 December 2024 and 2023, detailing uni
+
+## performance
+- **MAIN (lead):**
+    - p5 [million] — This page presents the FY2024 financial highlights for SGX REIT, featuring a DPU table with distributable income of US$25.5 million and a distribution
+    - p11 — This page highlights leasing risk metrics and portfolio composition for the SGX REIT's Grocery & Necessity sector, noting that 60% of rents are genera
+    - p29 [million] — This page presents the Financial Review and Capital Management section for UHREIT, highlighting a 1.4% year-on-year gross revenue growth to US$73.2 mi
+    - p30 ['000] — This page presents the Consolidated Statement of Comprehensive Income and Distribution Statement for SGX REIT FY2024, reporting US$'000 values includi
+    - p32 [million] — This page presents the Assets Under Management (AUM) table showing a valuation increase from US$584.6 million at IPO to US$752.9 million as of 31 Dece
+    - p36 ['000] — This page presents the **Portfolio Lease Expiry Profile (%)** table and chart detailing lease expirations by year (2025–beyond 2029) split between % o
+    - p42 [million] — This page presents a detailed property summary for Price Chopper Plaza, including its location, tenure, Net Leasable Area (NLA), and value in US$ Mill
+    - p43 [million] — This page presents a Property Summary for the Wallkill Price Chopper asset, featuring an audited Portfolio Statement table detailing location, land te
+    - p44 — This page presents a Property Summary for Hudson Valley Plaza, featuring a key property table with metrics such as 94.9% committed occupancy, $27.9M U
+    - p45 [million] — This page presents a single-storey Grocery & Necessity property summary for the Wallington ShopRite located at 375 Paterson Avenue, New Jersey, featur
+    - p46 [million] — This page details the audited Portfolio Statement for Piscataway Plaza, a Grocery & Necessity property with a Property Value of US$24.1 million and 5 
+    - p47 [million] — This page details the Towne Crossing property in New Jersey, featuring a table of key metrics including its location, 98.1% committed occupancy, $18.4
+    - p48 [million] — This page presents a property summary for Lawnside Commons, detailing its location, physical attributes (151,076 sq ft NLA), valuation ($33.6 million 
+    - p49 [million] — This page details the St. Lucie West property, presenting a summary table with location, tenure, occupancy (96.5%), NLA (381,648 sq ft), and US$ 101.0
+    - p50 [million] — This page presents the Property Summary for Arundel Plaza, a Grocery & Necessity asset in Maryland with a property value of US$49.5 million and 15 ten
+    - p51 [million] — This page details the Parkway Crossing property, presenting a Property Summary table with key metrics including Location (2331-2535 Cleanleigh Drive, 
+    - p53 [million] — This page presents a detailed profile of the Fairhaven Plaza property, anchored by its main artifact: a Property Summary table listing location, land 
+    - p54 [million] — This page presents the Lynncroft Center property summary, featuring a table with key metrics such as location (Greenville, North Carolina), land tenur
+    - p55 [million] — This page presents a Property Summary for Colonial Square, an SGX REIT portfolio asset located in Colonial Heights, Virginia, with property details in
+    - p56 ['000] — This page details the Penrose Plaza property, a Grocery & Necessity asset in Philadelphia with US$56.2 million value, 93.6% committed occupancy, and 2
+    - p57 [million] — This page presents a Property Summary for Upland Square in Pottstown, Pennsylvania, featuring a table with property details including 100% committed o
+    - p65 — This page presents UHREIT's FY2024 Sustainability and TCFD Report, detailing the identification, prioritization, and validation of nine material EESG 
+    - p90 [million] — This page presents UHREIT's economic performance highlights for FY2024, reporting gross revenue of US$73.2 million (up 1.4% Y-o-Y) and a portfolio val
+    - p134 — This page contains the Table of Contents for the Financial Statements section, listing documents from pages 133 to 149 including the Independent Audit
+    - p140 — This page contains the Independent Auditor's Report for United Hampshire US Real Estate Investment Trust, detailing the auditor's responsibilities reg
+    - p143 ['000] — This page presents the Distribution Statement for SGX REIT for the financial year ended 31 December 2024, reporting US$'000 amounts including $29,907 
+    - p148 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 December 2024, reporting operating cash flows before worki
+    - p149 [million] — This page presents the Consolidated Statement of Cash Flows (continued) for SGX REIT, specifically detailing payment for capital expenditure relating 
+    - p191 ['000] — This page presents the Liquidity risk management table detailing the contractual maturities of financial liabilities for SGX REIT Group as of 31 Decem
+    - p199 [million] — This page presents unitholding statistics for United Hampshire US Real Estate Investment Trust as of 10 March 2025, featuring a distribution table and
+    - p201 — This page presents the UNITHOLDING STATISTICS for the Directors of the Manager, specifically detailing their direct and deemed interests in Units as r
+- **also mentions:**
+    - p19 — This page displays the Trust and Tax Structure diagram illustrating the relationship between UHREIT, its Manager, Trustee (Perpetual (Asia) Limited), 
+    - p33 [million] — This page presents the Adjusted Debt Maturity Profile table detailing US$ million maturities of Fixed Rate Mortgage Loans and Term Loan Facilities fro
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p98 [million] — This page presents the Unit Price Performance and Trading Data for UHREIT for FY2024, including a comparative line chart and table detailing the year-
+    - p141 ['000] — This page presents the Group and Trust Statements of Financial Position as of 31 December 2024, reporting total assets of US$799,998 ('000) and net as
+    - p142 ['000] — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT for the financial year ended 31 December 2024, reporting all figure
+    - p144 ['000] — This page presents the Distribution adjustments table for SGX REIT, detailing non-cash items such as fair value changes in investment properties and a
+    - p145 ['000] — This page presents the **Statements of Changes in Unitholders' Funds** for the financial year ended 31 December 2024, reporting Group unitholders' fun
+    - p146 ['000] — This page presents the Statements of Changes in Unitholders' Funds for the financial year ended 31 December 2023, detailing the movement in Units in I
+    - p147 ['000] — This page presents the Statements of Changes in Unitholders' Funds for SGX REIT (SGD'000) for the years ended 31 December 2024 and 2023, detailing uni
+    - p150 ['000] — This page presents the **Statement of Portfolio (property valuations)** for SGX REIT as at 31 December 2024, detailing fair values and percentages of 
+    - p181 ['000] — This page presents the NAV and NTA per Unit table for SGX REIT's Group and Trust, reporting Net Assets in US$'000 and Unit counts in '000 for the fina
+    - p192 ['000] — This page presents a Liquidity Risk table detailing the carrying amount and contractual cash flows of non-derivative financial liabilities (trade and 
+    - p200 — This page presents the Substantial Unitholders' Unitholdings table, listing direct and deemed interests in Units as recorded on 10 March 2025. The rep
+
+## properties
+- **MAIN (lead):**
+    - p11 — This page highlights leasing risk metrics and portfolio composition for the SGX REIT's Grocery & Necessity sector, noting that 60% of rents are genera
+    - p19 — This page displays the Trust and Tax Structure diagram illustrating the relationship between UHREIT, its Manager, Trustee (Perpetual (Asia) Limited), 
+    - p20 ['000] — This page presents the organizational structure of United Hampshire US REIT, featuring a chart and description detailing the Board of Directors, Audit
+    - p29 [million] — This page presents the Financial Review and Capital Management section for UHREIT, highlighting a 1.4% year-on-year gross revenue growth to US$73.2 mi
+    - p34 ['000] — This page presents the audited Portfolio Statement (property valuations) for UHREIT as of 31 December 2024, reporting a total appraised value of US$75
+    - p35 [million] — This page presents the Operations Review for UHREIT's Grocery & Necessity properties, reporting a total portfolio of 20 assets with 3.4 million sq ft 
+    - p38 — This page presents the Audited Portfolio Statement listing 22 properties under Garden City Square's portfolio as of December 31, 2024, detailing their
+    - p39 [million] — This page presents a "Portfolio at a Glance" table detailing SGX REIT's market valuation, purchase price, occupancy rates, and tenant composition acro
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p43 [million] — This page presents a Property Summary for the Wallkill Price Chopper asset, featuring an audited Portfolio Statement table detailing location, land te
+    - p45 [million] — This page presents a single-storey Grocery & Necessity property summary for the Wallington ShopRite located at 375 Paterson Avenue, New Jersey, featur
+    - p46 [million] — This page details the audited Portfolio Statement for Piscataway Plaza, a Grocery & Necessity property with a Property Value of US$24.1 million and 5 
+    - p48 [million] — This page presents a property summary for Lawnside Commons, detailing its location, physical attributes (151,076 sq ft NLA), valuation ($33.6 million 
+    - p49 [million] — This page details the St. Lucie West property, presenting a summary table with location, tenure, occupancy (96.5%), NLA (381,648 sq ft), and US$ 101.0
+    - p50 [million] — This page presents the Property Summary for Arundel Plaza, a Grocery & Necessity asset in Maryland with a property value of US$49.5 million and 15 ten
+    - p52 ['000] — This page presents a Property Summary for BJ's Quincy, detailing its location at 200 Crown Colony Drive, freehold tenure, 100% committed occupancy, 84
+    - p53 [million] — This page presents a detailed profile of the Fairhaven Plaza property, anchored by its main artifact: a Property Summary table listing location, land 
+    - p55 [million] — This page presents a Property Summary for Colonial Square, an SGX REIT portfolio asset located in Colonial Heights, Virginia, with property details in
+    - p56 ['000] — This page details the Penrose Plaza property, a Grocery & Necessity asset in Philadelphia with US$56.2 million value, 93.6% committed occupancy, and 2
+    - p59 [million] — This page contains the Board Statement and Report Scope for United Hampshire US REIT's 2024 Sustainability and TCFD Report, outlining its EESG strateg
+    - p65 — This page presents UHREIT's FY2024 Sustainability and TCFD Report, detailing the identification, prioritization, and validation of nine material EESG 
+    - p87 — This page presents a summary of UHREIT's sustainability approach and governance progress, highlighted by a table showing the Singapore Governance and 
+    - p98 [million] — This page presents the Unit Price Performance and Trading Data for UHREIT for FY2024, including a comparative line chart and table detailing the year-
+    - p134 — This page contains the Table of Contents for the Financial Statements section, listing documents from pages 133 to 149 including the Independent Audit
+    - p137 — This page contains the Independent Auditor's Report confirming that United Hampshire US Real Estate Investment Trust's financial statements, including
+    - p138 ['000] — This page presents the Independent Auditor's Report focusing on the key audit matter of Fair Valuation and Disclosures for Investment Properties, deta
+    - p140 — This page contains the Independent Auditor's Report for United Hampshire US Real Estate Investment Trust, detailing the auditor's responsibilities reg
+    - p150 ['000] — This page presents the **Statement of Portfolio (property valuations)** for SGX REIT as at 31 December 2024, detailing fair values and percentages of 
+    - p164 — This page contains the accounting policy notes for borrowing costs and income tax applicable to the SGX REIT Trust, detailing how these expenses are r
+    - p167 ['000] — This page presents the audited Portfolio Statement for Trade and Other Receivables, reporting Group net trade receivables of US$'000 2,774 (2023: 1,85
+    - p168 ['000] — This page presents the audited Portfolio Statement (property valuations) for investment properties and those held for divestment, reporting carrying v
+    - p170 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents notes on investment properties held for divestment (US$'000) and 
+    - p171 ['000] — This page presents the audited Portfolio Statement for United Hampshire US REIT's subsidiaries as of 31 December 2024, listing 29 entities incorporate
+    - p174 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents the audited Portfolio Statement (Loans and Borrowings) 
+    - p179 ['000] — This page presents the audited Portfolio Statement for Non-Controlling Interests (MCBUH Lawside JV LLC, MCBH Parkway Crossing JV LLC, and HUH Wallkill
+    - p183 ['000] — This page contains the Audited Portfolio Statement for auditor remuneration and a table of Finance Costs (interest expense, dividends paid to preferre
+- **also mentions:**
+    - p21 — This page details the REIT's property portfolio across seven US states (New York, Massachusetts, Pennsylvania, Maryland, New Jersey, Virginia, North C
+    - p36 ['000] — This page presents the **Portfolio Lease Expiry Profile (%)** table and chart detailing lease expirations by year (2025–beyond 2029) split between % o
+    - p37 — This page presents a Top-10 Tenants table detailing the leading anchors in growing sectors, specifically listing BJ's Wholesale Club Holdings, Inc as 
+    - p42 [million] — This page presents a detailed property summary for Price Chopper Plaza, including its location, tenure, Net Leasable Area (NLA), and value in US$ Mill
+    - p44 — This page presents a Property Summary for Hudson Valley Plaza, featuring a key property table with metrics such as 94.9% committed occupancy, $27.9M U
+    - p47 [million] — This page details the Towne Crossing property in New Jersey, featuring a table of key metrics including its location, 98.1% committed occupancy, $18.4
+    - p51 [million] — This page details the Parkway Crossing property, presenting a Property Summary table with key metrics including Location (2331-2535 Cleanleigh Drive, 
+    - p54 [million] — This page presents the Lynncroft Center property summary, featuring a table with key metrics such as location (Greenville, North Carolina), land tenur
+    - p57 [million] — This page presents a Property Summary for Upland Square in Pottstown, Pennsylvania, featuring a table with property details including 100% committed o
+    - p144 ['000] — This page presents the Distribution adjustments table for SGX REIT, detailing non-cash items such as fair value changes in investment properties and a
+    - p149 [million] — This page presents the Consolidated Statement of Cash Flows (continued) for SGX REIT, specifically detailing payment for capital expenditure relating 
+    - p163 — This page contains accounting policy notes regarding investment properties held for divestment, provisions, and revenue recognition principles without
+    - p172 ['000] — This page presents the Notes to the Financial Statements for the year ended 31 December 2024, specifically detailing Deferred Income Tax liabilities i
+    - p187 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents capital commitments and operating lease maturity analys
+
+## top_tenants
+- **MAIN (lead):**
+    - p37 — This page presents a Top-10 Tenants table detailing the leading anchors in growing sectors, specifically listing BJ's Wholesale Club Holdings, Inc as 
+    - p39 [million] — This page presents a "Portfolio at a Glance" table detailing SGX REIT's market valuation, purchase price, occupancy rates, and tenant composition acro
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p51 [million] — This page details the Parkway Crossing property, presenting a Property Summary table with key metrics including Location (2331-2535 Cleanleigh Drive, 
+    - p57 [million] — This page presents a Property Summary for Upland Square in Pottstown, Pennsylvania, featuring a table with property details including 100% committed o
+    - p74 — This page contains Figure 6, a circular diagram titled 'TOP 6 SUSTAINABILITY INITIATIVES BY TENANTS' illustrating tenant-led efforts such as Smart Dev
+    - p170 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents notes on investment properties held for divestment (US$'000) and 
+- **also mentions:**
+    - p9 — This page highlights a 2.9% portfolio valuation increase from 31 December 2023 on a like-for-like basis, excluding divested Lowe's and Sam's Club prop
+    - p19 — This page displays the Trust and Tax Structure diagram illustrating the relationship between UHREIT, its Manager, Trustee (Perpetual (Asia) Limited), 
+    - p20 ['000] — This page presents the organizational structure of United Hampshire US REIT, featuring a chart and description detailing the Board of Directors, Audit
+    - p36 ['000] — This page presents the **Portfolio Lease Expiry Profile (%)** table and chart detailing lease expirations by year (2025–beyond 2029) split between % o
+    - p42 [million] — This page presents a detailed property summary for Price Chopper Plaza, including its location, tenure, Net Leasable Area (NLA), and value in US$ Mill
+    - p43 [million] — This page presents a Property Summary for the Wallkill Price Chopper asset, featuring an audited Portfolio Statement table detailing location, land te
+    - p44 — This page presents a Property Summary for Hudson Valley Plaza, featuring a key property table with metrics such as 94.9% committed occupancy, $27.9M U
+    - p45 [million] — This page presents a single-storey Grocery & Necessity property summary for the Wallington ShopRite located at 375 Paterson Avenue, New Jersey, featur
+    - p47 [million] — This page details the Towne Crossing property in New Jersey, featuring a table of key metrics including its location, 98.1% committed occupancy, $18.4
+    - p48 [million] — This page presents a property summary for Lawnside Commons, detailing its location, physical attributes (151,076 sq ft NLA), valuation ($33.6 million 
+    - p49 [million] — This page details the St. Lucie West property, presenting a summary table with location, tenure, occupancy (96.5%), NLA (381,648 sq ft), and US$ 101.0
+    - p50 [million] — This page presents the Property Summary for Arundel Plaza, a Grocery & Necessity asset in Maryland with a property value of US$49.5 million and 15 ten
+    - p52 ['000] — This page presents a Property Summary for BJ's Quincy, detailing its location at 200 Crown Colony Drive, freehold tenure, 100% committed occupancy, 84
+    - p53 [million] — This page presents a detailed profile of the Fairhaven Plaza property, anchored by its main artifact: a Property Summary table listing location, land 
+    - p54 [million] — This page presents the Lynncroft Center property summary, featuring a table with key metrics such as location (Greenville, North Carolina), land tenur
+    - p55 [million] — This page presents a Property Summary for Colonial Square, an SGX REIT portfolio asset located in Colonial Heights, Virginia, with property details in
+    - p56 ['000] — This page details the Penrose Plaza property, a Grocery & Necessity asset in Philadelphia with US$56.2 million value, 93.6% committed occupancy, and 2
+    - p59 [million] — This page contains the Board Statement and Report Scope for United Hampshire US REIT's 2024 Sustainability and TCFD Report, outlining its EESG strateg
+    - p65 — This page presents UHREIT's FY2024 Sustainability and TCFD Report, detailing the identification, prioritization, and validation of nine material EESG 
+    - p73 — Table 4: UHREIT's Scope 2 Emissions and Electricity Consumption for FY2023 and FY2024 presents data in tonnes CO₂e and MWh showing a 21.7% reduction i
+    - p89 — This page presents Table 13, which outlines UHREIT's Cybersecurity and Data Privacy Policies regarding internal IT governance, malware prevention, and
+    - p92 — This page presents the SGX REIT Sustainability and TCFD Report, detailing GRI standards and disclosure requirements across economic performance, busin
+    - p137 — This page contains the Independent Auditor's Report confirming that United Hampshire US Real Estate Investment Trust's financial statements, including
+    - p140 — This page contains the Independent Auditor's Report for United Hampshire US Real Estate Investment Trust, detailing the auditor's responsibilities reg
+    - p164 — This page contains the accounting policy notes for borrowing costs and income tax applicable to the SGX REIT Trust, detailing how these expenses are r
+    - p185 ['000] — This page presents the Basic and Diluted Earnings Per Unit (EPU) table for 2024 and 2023 in US$'000, alongside a segmental reporting table aggregating
+
+## trade_mix
+- **MAIN (lead):**
+    - p9 — This page highlights a 2.9% portfolio valuation increase from 31 December 2023 on a like-for-like basis, excluding divested Lowe's and Sam's Club prop
+    - p20 ['000] — This page presents the organizational structure of United Hampshire US REIT, featuring a chart and description detailing the Board of Directors, Audit
+    - p36 ['000] — This page presents the **Portfolio Lease Expiry Profile (%)** table and chart detailing lease expirations by year (2025–beyond 2029) split between % o
+    - p39 [million] — This page presents a "Portfolio at a Glance" table detailing SGX REIT's market valuation, purchase price, occupancy rates, and tenant composition acro
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p42 [million] — This page presents a detailed property summary for Price Chopper Plaza, including its location, tenure, Net Leasable Area (NLA), and value in US$ Mill
+    - p43 [million] — This page presents a Property Summary for the Wallkill Price Chopper asset, featuring an audited Portfolio Statement table detailing location, land te
+    - p44 — This page presents a Property Summary for Hudson Valley Plaza, featuring a key property table with metrics such as 94.9% committed occupancy, $27.9M U
+    - p46 [million] — This page details the audited Portfolio Statement for Piscataway Plaza, a Grocery & Necessity property with a Property Value of US$24.1 million and 5 
+    - p47 [million] — This page details the Towne Crossing property in New Jersey, featuring a table of key metrics including its location, 98.1% committed occupancy, $18.4
+    - p48 [million] — This page presents a property summary for Lawnside Commons, detailing its location, physical attributes (151,076 sq ft NLA), valuation ($33.6 million 
+    - p49 [million] — This page details the St. Lucie West property, presenting a summary table with location, tenure, occupancy (96.5%), NLA (381,648 sq ft), and US$ 101.0
+    - p50 [million] — This page presents the Property Summary for Arundel Plaza, a Grocery & Necessity asset in Maryland with a property value of US$49.5 million and 15 ten
+    - p51 [million] — This page details the Parkway Crossing property, presenting a Property Summary table with key metrics including Location (2331-2535 Cleanleigh Drive, 
+    - p53 [million] — This page presents a detailed profile of the Fairhaven Plaza property, anchored by its main artifact: a Property Summary table listing location, land 
+    - p54 [million] — This page presents the Lynncroft Center property summary, featuring a table with key metrics such as location (Greenville, North Carolina), land tenur
+    - p55 [million] — This page presents a Property Summary for Colonial Square, an SGX REIT portfolio asset located in Colonial Heights, Virginia, with property details in
+    - p56 ['000] — This page details the Penrose Plaza property, a Grocery & Necessity asset in Philadelphia with US$56.2 million value, 93.6% committed occupancy, and 2
+    - p57 [million] — This page presents a Property Summary for Upland Square in Pottstown, Pennsylvania, featuring a table with property details including 100% committed o
+    - p59 [million] — This page contains the Board Statement and Report Scope for United Hampshire US REIT's 2024 Sustainability and TCFD Report, outlining its EESG strateg
+    - p137 — This page contains the Independent Auditor's Report confirming that United Hampshire US Real Estate Investment Trust's financial statements, including
+- **also mentions:**
+    - p31 [million] — This page presents the Gross Revenue and Net Property Income (NPI) for FY2024, reporting US$73.2 million in gross revenue and US$49.8 million in NPI w
+    - p35 [million] — This page presents the Operations Review for UHREIT's Grocery & Necessity properties, reporting a total portfolio of 20 assets with 3.4 million sq ft 
+    - p52 ['000] — This page presents a Property Summary for BJ's Quincy, detailing its location at 200 Crown Colony Drive, freehold tenure, 100% committed occupancy, 84
+    - p167 ['000] — This page presents the audited Portfolio Statement for Trade and Other Receivables, reporting Group net trade receivables of US$'000 2,774 (2023: 1,85
+    - p173 ['000] — This page presents **Table 10: Trade and Other Payables**, detailing current and non-current liabilities for the Group and Trust in US$'000 for the fi
+    - p186 ['000] — This page presents the Group's segmental reporting for the financial year ended 31 December 2024, detailing Gross revenue, Property expenses, Net inco
+    - p190 ['000] — This page presents the financial instruments disclosure detailing credit risk exposure through an ageing table of trade receivables in US$'000 for the
+    - p191 ['000] — This page presents the Liquidity risk management table detailing the contractual maturities of financial liabilities for SGX REIT Group as of 31 Decem
+    - p192 ['000] — This page presents a Liquidity Risk table detailing the carrying amount and contractual cash flows of non-derivative financial liabilities (trade and 
+
+## financial
+- **MAIN (lead):**
+    - p20 ['000] — This page presents the organizational structure of United Hampshire US REIT, featuring a chart and description detailing the Board of Directors, Audit
+    - p29 [million] — This page presents the Financial Review and Capital Management section for UHREIT, highlighting a 1.4% year-on-year gross revenue growth to US$73.2 mi
+    - p30 ['000] — This page presents the Consolidated Statement of Comprehensive Income and Distribution Statement for SGX REIT FY2024, reporting US$'000 values includi
+    - p40 [million] — This page presents property summaries for Garden City Square – BJ's Wholesale Club and Garden City Square – LA Fitness, each featuring a table with lo
+    - p134 — This page contains the Table of Contents for the Financial Statements section, listing documents from pages 133 to 149 including the Independent Audit
+    - p142 ['000] — This page presents the Consolidated Statement of Comprehensive Income for SGX REIT for the financial year ended 31 December 2024, reporting all figure
+    - p143 ['000] — This page presents the Distribution Statement for SGX REIT for the financial year ended 31 December 2024, reporting US$'000 amounts including $29,907 
+    - p148 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 December 2024, reporting operating cash flows before worki
+    - p149 [million] — This page presents the Consolidated Statement of Cash Flows (continued) for SGX REIT, specifically detailing payment for capital expenditure relating 
+    - p164 — This page contains the accounting policy notes for borrowing costs and income tax applicable to the SGX REIT Trust, detailing how these expenses are r
+    - p168 ['000] — This page presents the audited Portfolio Statement (property valuations) for investment properties and those held for divestment, reporting carrying v
+    - p170 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents notes on investment properties held for divestment (US$'000) and 
+    - p172 ['000] — This page presents the Notes to the Financial Statements for the year ended 31 December 2024, specifically detailing Deferred Income Tax liabilities i
+    - p178 ['000] — This page presents the summarised financial information of significant entities with non-controlling interests for MCBUH Lawside JV LLC, MCBH Parkway 
+    - p179 ['000] — This page presents the audited Portfolio Statement for Non-Controlling Interests (MCBUH Lawside JV LLC, MCBH Parkway Crossing JV LLC, and HUH Wallkill
+- **also mentions:**
+    - p4 [million] — This page presents the FY2024 Highlights for SGX REIT, featuring a Gross Revenue table showing US$73.2 million for 2024 (up 1.4% vs FY2023) and Net Pr
+    - p31 [million] — This page presents the Gross Revenue and Net Property Income (NPI) for FY2024, reporting US$73.2 million in gross revenue and US$49.8 million in NPI w
+    - p37 — This page presents a Top-10 Tenants table detailing the leading anchors in growing sectors, specifically listing BJ's Wholesale Club Holdings, Inc as 
+    - p62 [million] — This page presents the SGX REIT's Sustainability and TCFD Report, featuring key social, governance, and economic indicators such as 27.6 hours of trai
+    - p90 [million] — This page presents UHREIT's economic performance highlights for FY2024, reporting gross revenue of US$73.2 million (up 1.4% Y-o-Y) and a portfolio val
+    - p173 ['000] — This page presents **Table 10: Trade and Other Payables**, detailing current and non-current liabilities for the Group and Trust in US$'000 for the fi
+    - p182 ['000] — This page presents the Notes to the Financial Statements for the year ended 31 December 2024, featuring three tables detailing Gross Revenue (US$'000)
+    - p183 ['000] — This page contains the Audited Portfolio Statement for auditor remuneration and a table of Finance Costs (interest expense, dividends paid to preferre
+    - p184 ['000] — This page presents the Income Tax Expense table and reconciliation for the SGX REIT Group, reporting figures in US$'000 for the financial year ended 3
+    - p186 ['000] — This page presents the Group's segmental reporting for the financial year ended 31 December 2024, detailing Gross revenue, Property expenses, Net inco
+    - p194 ['000] — This page presents the **Related Parties** notes and a transaction table detailing financial year 2024 dealings with related entities, including fees 
+    - p198 ['000] — This page details the Interested Person Transactions for United Hampshire US REIT (UHREIT) for the financial year ended 31 December 2024, presented in

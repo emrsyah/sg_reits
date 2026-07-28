@@ -1,0 +1,14 @@
+{
+  "file": "08_CY6U.SI_CapitaLand-India-Trust_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 280,
+  "pages_written": 280,
+  "seconds": 61.2,
+  "parse_quality_score": null,
+  "runtime": 48.90339708328247,
+  "cost_breakdown": {
+    "final_cost_cents": 84.0
+  },
+  "checkpoint_id": "checkpoint_lXCn1EYx2NEfbE1cfqMbBXW9CRkZNfiouN2YoOBMEmM",
+  "page_range": null
+}

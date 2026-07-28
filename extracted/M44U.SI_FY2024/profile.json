@@ -1,8 +1,6 @@
 {
   "symbol": "M44U.SI",
   "sub_sector": "Industrial",
-  "income_model": "conventional",
-  "source_page": 231,
   "management": {
     "reit_manager": [
       "Mapletree Logistics Trust Management Ltd."
@@ -10,11 +8,10 @@
     "trustee": [
       "HSBC Institutional Trust Services (Singapore) Limited"
     ],
-    "property_manager": [
-      "Mapletree Property Management Pte. Ltd."
-    ],
     "sponsor": [
       "Mapletree Investments Pte Ltd"
     ]
-  }
+  },
+  "income_model": "conventional",
+  "source_page": 233
 }

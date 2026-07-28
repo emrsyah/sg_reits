@@ -1,0 +1,51 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2024,
+  "portfolio_value": 1137200000.0,
+  "properties_location": "United States (Arizona, California, Georgia, New Jersey, Virginia, Washington D.C.)",
+  "gross_revenue": 167582000.0,
+  "net_property_income": 79874000.0,
+  "net_distributable_income": 38260000.0,
+  "distribution_paid": 0,
+  "adjusted_distributable_income": null,
+  "dpu": 0.0,
+  "distribution_record": [],
+  "number_of_unitholders": 8224,
+  "aggregate_leverage": 60.8,
+  "interest_coverage_ratio": 1.7,
+  "cost_of_debt": 4.53,
+  "weighted_avg_debt_maturity": 2.9,
+  "nav_per_unit": 0.23,
+  "wale": 5.0,
+  "portfolio_occupancy": 73.6,
+  "currency": "USD",
+  "date": "2024-12-31",
+  "source_page": 10,
+  "flags": [
+    {
+      "type": "dpu_distribution_halted",
+      "scope": "dpu",
+      "note": "Actual DPU = 0 (US cents); distributions to Unitholders halted till 31 December 2025 pursuant to the Recapitalisation Plan and Master Restructuring Agreement (Distribution Statement p148 shows DPU '-'). The headline 'Income Available for Distribution' US$38.3m on p10 is distributable income, NOT a paid DPU; captured via net_distributable_income (US$38.260m). dpu set to 0 per disclosed reality."
+    },
+    {
+      "type": "portfolio_value_basis",
+      "scope": "portfolio_value",
+      "note": "Captured on the audited basis (Statement of Portfolio p152): total investment properties US$1,093,500k + asset held for sale Plaza US$43,700k = US$1,137,200k. This matches the marketing headline US$1,137.2m (p29). Capitol was divested 28 Oct 2024 (no year-end value)."
+    }
+  ],
+  "_notes": {
+    "cost_of_debt_note": "Weighted average cost of debt 4.53% EXCLUDES the Sponsor-Lender loan exit premium; including it WACD would be 5.03% for FY2024 (p10 footnote 3). Captured the headline 4.53%.",
+    "nav_per_unit_note": "Net asset value per Unit US$0.23 attributable to Unitholders (Statements of Financial Position p146 / Note 14).",
+    "wale_note": "Portfolio WALE by NLA = 5.0 years (p10/p27). Top-10 tenant WALE by GRI = 5.1 years (p29).",
+    "portfolio_occupancy_note": "Portfolio occupancy 73.6% (committed leases, p10/p27).",
+    "number_of_unitholders_note": "Statistics of Unitholdings as at 20 March 2025 (p193): total 8,224 unitholders.",
+    "gross_borrowings_note": "Gross borrowings US$745.0m; aggregate leverage 60.8% (p10)."
+  },
+  "distribution_basis": "suspended",
+  "number_of_shareholder_units": 1776565421,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 74348000,
+  "distribution_cash_paid": 0,
+  "distributable_income_closing": 112608000,
+  "units_to_be_issued": 58559000
+}

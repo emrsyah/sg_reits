@@ -1,154 +1,102 @@
 {
-  "data_provenance": [
-    {
-      "table": "financial",
-      "field": "weighted_avg_shares_basic",
-      "value": 5260796000.0,
-      "basis": "Note 9 Earnings per Unit: 'Weighted average number of units outstanding during the financial year' 5,260,796 ('000); 'Basic and diluted EPU' identical (no dilutive instruments). Disclosed in '000, x1000 to absolute.",
-      "source_page": 141
-    },
-    {
-      "table": "financial",
-      "field": "diluted_shares_outstanding",
-      "value": 5260796000.0,
-      "basis": "Note 9: 'Diluted earnings per unit is the same as the basic' — no separate diluted figure; diluted = basic 5,260,796 ('000). Verified correct.",
-      "source_page": 141
-    },
-    {
-      "table": "performance",
-      "field": "adjusted_distributable_income",
-      "value": null,
-      "basis": "Distribution Statement (p110) adds back Manager's management fees paid/payable in units (18,001) non-cash; single 'Amount available for distribution for the year' 423,022 only -> method 1, null.",
-      "source_page": 110
-    },
-    {
-      "table": "performance",
-      "field": "net_distributable_income",
-      "value": 423022000.0,
-      "basis": "AUDIT: matches 'Amount available for distribution for the year' 423,022 ('000) (DPU numerator), NOT distributions paid 439,609. Correct, no change.",
-      "source_page": 110
-    },
-    {
-      "table": "performance",
-      "field": "distribution_paid",
-      "value": 423022000.0,
-      "basis": "FOR-THE-YEAR declared distribution = 'Amount available for distribution for the year' 423,022 ('000), which the MD&A (p657/p1552) states resulted in the full-year DPU of 8.02 cents — i.e. MPACT distributed substantially all of the year's available amount (DPU computed directly on 423.0m). NOT the rolling cash 'Total Unitholders' distribution' 439,609 ('000) on the Distribution Statement (p110), which is the four distributions DEDUCTED during FY24/25: the prior calendar Q4 1Jan-31Mar-2024 (2.29c, 120,293) + Q1 (2.09c) + Q2 (1.98c) + Q3 (2.00c) to 31Dec2024 — cash-paid timing, summing to 8.36c not the 8.02c headline. RETAINED CHECK: net_distributable_income 423,022 - 423,022 = 0 ('000), consistent with ~100% payout. '000 x1000 to absolute.",
-      "source_page": 110
-    },
-    {
-      "table": "performance",
-      "field": "distribution_basis",
-      "value": "full_payout_no_retention_line",
-      "basis": "Phase-1 harmonization 2026-06-23: report discloses no distinct for-the-year 'amount to be distributed' line (~100% payer; only a figure equal to NDI or computed from DPU*units). distribution_paid set NULL to avoid asserting a fabricated retained=0; for-year distribution approximately equals net_distributable_income. (was 423022000.0)",
-      "source_page": 5
-    }
-  ],
-  "null_recovery_round7_2026_07_03": [
-    {
-      "table": "properties",
-      "field": "purchase_price",
-      "key": "VivoCity",
-      "status": "confirmed_absent",
-      "reason": "Re-verified prior conclusion (columns_never_fillable below). Portfolio Statement (p116, full.md L5608): Acquisition date column = 'N.A.²'. Footnote 2 (p116/full.md L5701 and duplicate at p2242/L2242): 'Not applicable as VivoCity was owned by MPACT prior to Listing Date.' VivoCity is MPACT's IPO-seed asset; no acquisition/purchase transaction, hence no purchase price disclosed anywhere in the report. purchase_price key added to the record as null (was previously absent entirely, not just null-valued); purchase_price_currency also null.",
-      "pages_read": [116]
-    }
-  ],
-  "null_recovery_round8_2026_07_03": [
-    {
-      "table.column": "property_transactions.valuation & property_transactions.carrying_value",
-      "key": "Mapletree Anson (divestment, deal 2024-07-31)",
-      "verdict": "CONFIRMED-EQUAL as printed — genuine coincidence, NOT a conflation. No change to either field.",
-      "valuation_765m": "765,000,000 SGD = independent valuation of Mapletree Anson as at 31 March 2024 by CBRE Pte. Ltd. Printed p13 ('...secured a S$10.0 million gain over the property's independent valuation of S$765.0 million...'), p41 ('The divestment consideration of S$775.0 million exceeded the property's independent valuation of S$765.0 million as at 31 March 2024 by S$10.0 million'), and Portfolio Statement p117 (Mapletree Anson row: 'At valuation as at 31/03/2024' = 765,000 $'000; FY2025 column shows '—' because divested).",
-      "carrying_value_765m": "765,000,000 SGD = carrying amount removed on disposal per Note 14 INVESTMENT PROPERTIES movement schedule, p146: 'Divestment of an investment property | (765,000) | – | (765,000) | –' (identical (765,000) $'000 in both Group and MPACT columns).",
-      "why_genuine_not_conflation": "Under the IAS 40 fair-value model, an investment property's carrying amount IS its most recent fair value. Mapletree Anson's last valuation before the 31 Jul 2024 disposal was S$765.0m as at 31 Mar 2024; no revaluation was booked in the stub period, so the carrying amount removed on disposal (765,000) legitimately equals the independent valuation (765,000). These are TWO independent disclosures (Note 14 movement vs. valuation narrative/Portfolio Statement) that print the same number — not one column copied into another. Consideration S$775.0m > valuation/carrying S$765.0m by S$10.0m (accounting gain over valuation); net gain on divestment after costs = S$4,006k (p146).",
-      "pages_opened": "p13 (l667-669), p41 (l1895-1897), p117 (l5620-5632), p146 (l6730-6776)"
-    },
-    {
-      "flag": "stale/imprecise page cite (value correct, provenance note off)",
-      "detail": "property_transactions.source_page = 120 and carrying_value_basis cites '(p120)' for the 'Divestment of an investment property (765,000)' movement line, but that line is physically on <!-- PAGE 146 --> (Note 14 (a) movement schedule). Physical page 120 is the Portfolio Statement (continued). Value 765,000,000 is correct; only the page cite is imprecise. Left the data value untouched; main agent may re-cite to p146 (movement) / p117 (valuation)."
-    },
-    {
-      "flag": "no net>=gross violation in txn",
-      "detail": "net_proceeds 762,448,000 < gross consideration 775,000,000 (net-of-costs S$762,448k per cash-flow stmt). gain_on_divestment 4,006,000 matches 'net gain on divestment of $4,006,000' (p146, l6772). All internally consistent as printed; nothing derived."
-    },
-    {
-      "flag": "systemic (invariant 7) — foreign market_valuation stored in SGD",
-      "detail": "All foreign properties store market_valuation in SGD (converted): Festival Walk 4,086,421,000 SGD, Gateway Plaza 1,065,081,000 SGD, Sandhill Plaza 400,234,000 SGD, all Japan props (JPY assets) and The Pinnacle Gangnam 231,300,000 SGD. This is source-faithful for the CONSOLIDATED Portfolio Statement (which prints 'At valuation' in $'000 SGD), so currency tag SGD == figure ccy — NOT a conflation. Noted for awareness only; not touched."
-    },
-    {
-      "flag": "systemic (invariant 7b) — RMB vs CNY currency tag",
-      "detail": "Gateway Plaza and Sandhill Plaza store purchase_price_currency = 'CNY' (6,353,000,000 and 2,427,000,000 respectively), while the report narrative uses 'renminbi (\"RMB\")'. RMB/CNY normalization is main-agent scope per invariant 7(b) — flagged only, not changed. purchase_price magnitudes are genuine local-currency (not SGD-converted); currency tag matches figure ccy for HKD/CNY/JPY/KRW purchase prices."
-    }
-  ],
   "columns_never_fillable": [
     {
-      "column": "properties.net_property_income",
-      "reason": "MPACT discloses NPI only at Group level, not per property. The Portfolio Statement gives per-property gross revenue, occupancy and valuation but no per-property NPI."
+      "column": "gla / nla (MBC I, MBC II)",
+      "reason": "Lettable area for Mapletree Business City I and II is disclosed COMBINED (2,885,678 sqft as 'Mapletree Business City', Properties at a Glance p46); it cannot be split per building, so both rows carry null gla/nla/gfa. All other active properties have nla."
     },
     {
-      "column": "properties.gla / nla / gfa",
-      "reason": "Areas (GLA/NLA/GFA) are not disclosed per property in the audited Portfolio Statement; the Properties-at-a-Glance cards give NLA narratively only for some assets — not a clean per-property field across the portfolio."
+      "column": "net_property_income (MBC I / MBC II)",
+      "reason": "MPACT discloses NPI for Mapletree Business City I and II COMBINED (S$183.0m as 'Mapletree Business City', Properties at a Glance p46); it cannot be split per building, so both rows carry null NPI."
     },
     {
-      "column": "properties.major_tenants",
-      "reason": "Per-property tenant lists are not tabulated; only a portfolio-level Top Ten Tenants by GRI is disclosed (captured in top_tenants)."
+      "column": "npi_pct",
+      "reason": "Per-property NPI is disclosed only in the marketing cards (some in local currency), not as a percentage share of portfolio NPI in the audited statements; left null rather than derived."
     },
     {
-      "column": "properties.purchase_price",
-      "reason": "VivoCity has no disclosed purchase/acquisition price: it was MPACT's founding IPO asset. Both the property card (Purchase Price row, p47/p2223) and the audited Portfolio Statement (Acquisition date, p116) state 'N.A.', with footnote 'Not applicable as VivoCity was owned by MPACT prior to Listing Date' (p2242, p5701). All other 17 active properties have disclosed purchase prices; VivoCity is the sole exception."
+      "column": "effective_date",
+      "reason": "Land-lease commencement date not disclosed per property in a machine-readable way (acquisition dates are in the Portfolio Statement; VivoCity/MBC/Singapore leases commenced 1 Oct 1997)."
     }
   ],
   "data_with_no_home": [
-    "The Pinnacle Gangnam (South Korea): held via 50% effective interest as a joint venture; equity-accounted at Investment in a joint venture S$110,874k. NOT in the Portfolio Statement. MPACT shares profit after tax based on 50% effective interest; FY24/25 share of JV profit S$8,852k. 29 tenants.",
-    "Number of leases (portfolio): 959 tenants across the portfolio; 1,173 total leases (lease expiry profile bars).",
-    "Solar energy generated: 4,547 MWh renewable energy.",
-    "Proportion of fixed rate debt: 79.9% as at 31 Mar 2025.",
-    "Gross debt outstanding S$6,139.9m (incl. NCI share and proportionate JV gross debt).",
-    "Turnover (GTO) rental for the year: Group S$14,494k; MPACT S$11,191k.",
-    "Staff costs S$30,705k relate to Festival Walk employees + reimbursements to Property Managers; the trust/MPACT is otherwise externally managed (no payroll)."
+    "Portfolio: 15 commercial properties across five gateway markets (SG/HK/China/Japan/Korea) with total lettable area 10.2 million sq ft (p17). The audited Portfolio Statement splits Mapletree Business City into MBC I (held under MPACT) and MBC II (held under MBC LLP), so properties.json has 16 active rows (MBC counted twice) + 2 divested (TSI, ASY).",
+    "AUM by region (incl 50% Pinnacle): VivoCity SG 27%, MBC SG 27%, Other SG 8%, Festival Walk HK 22%, China 9%, Japan 6%, South Korea 1% (p6). Post-divestment Singapore = 61% of AUM and 66% of NPI.",
+    "Japan committed occupancy 75.1% as at 31 Mar 2026 (57.1% post-FJM single-tenant expiry on 31 Mar 2026) (p46/p48).",
+    "Gross debt outstanding S$5,685.9m; market cap S$6,971.1m; proportion of fixed-rate debt 75.1%; distribution yield 6.0% at S$1.32 close (p5).",
+    "FX (closing, 31 Mar 2026): S$1 = HKD6.1113, RMB5.3839, KRW1,167.5423 (p47); S$1 = JPY124.4818 (p48). SGD strengthened vs HKD/JPY/RMB yoy, a driver of lower overseas contributions (p17).",
+    "The Pinnacle Gangnam (South Korea, 50% JV): 100%-basis lettable area 478,461 sqft; MPACT 50% share market_valuation S$221.0m, gross revenue S$12.1m (KRW13,280.8m), NPI S$9.1m (KRW10,070.1m); equity-accounted, MPACT share of JV profit S$10,647k (p107); investment in JV S$109,825k (p109).",
+    "Three FY25/26 divestments totalled S$406.8m: TSI + ASY (Japan offices) JPY8,730.0m / S$78.7m; Festival Walk Tower (HK office) HKD1,960.0m / S$328.1m (p17).",
+    "Mapletree Anson (Singapore office) was divested in the PRIOR financial year (31 Jul 2024, S$775.0m, gain S$4,006k; Note 13 p133) and is NOT a FY25/26 property or transaction; excluded from properties.json."
   ],
   "parsing_traps": [
-    "Portfolio Statement uses a FACING-PAGE POSITIONAL SPLIT: property-name/tenure/location table on pages 116/118/120, and the value table (gross revenue / occupancy / valuation, blank first column) on the facing pages 117/119/121. Rows are aligned by position only. Routed properties to llm_only (positional pairing read directly from the markdown). Verified row-by-row against the audited sub-totals.",
-    "Statement of Profit or Loss prints both Group and MPACT (trust-only) columns side by side. Canonical = Group (consolidated) column. MPACT-only column (e.g. gross revenue 456,772; includes S$814.2m impairment of investment in subsidiary) is NOT used.",
-    "income_taxes is a tax CREDIT of S$6,113k in FY24/25 (negative expense): stored SIGNED negative in income_stmt_metrics; in line_items the adjustment is +6,113k (credit increases total return)."
+    "Audited Portfolio Statement (Tier-C, SGD $'000) is a two-page spread: property descriptions on p120/p122/p124 (left), financials (gross revenue, occupancy, valuation) on p121/p123/p125 (right); rows aligned by position after dropping section-header/sub-total rows. Reconciles exactly: Sigma valuation (active) = S$14,990,064k = Investment properties - Group; Sigma gross revenue (all incl divested partials) = S$867,287k = Group gross revenue.",
+    "market_valuation and gross_revenue for all 15 consolidated properties are the audited SGD $'000 figures (the statement consolidates all overseas assets to SGD; there is NO per-property local-currency valuation in the audited statement). currency = SGD on every row accordingly (multi-currency assets, single SGD reporting currency).",
+    "Per-property net_property_income is NOT in the audited Portfolio Statement; it is taken from the 'Properties at a Glance' cards (p46-49), using the disclosed SGD-equivalent figure (e.g. Festival Walk NPI HKD808.2m = S$133.5m). MBC I/II NPI is disclosed combined only.",
+    "Below-NPI income lines (finance income S$1,585k, foreign exchange gain S$1,424k, share of JV profit S$10,647k, income tax credit S$4,733k) are correctly bucketed as statement='adjustment' (signed), NOT 'revenue' - confirmed on the audited Statements of Profit or Loss (Group column), p107. Dividend income and impairment loss on subsidiary are MPACT-only (Group = nil) and excluded.",
+    "Reported FY25/26 DPU = 7.97 cents (includes a one-off S$8.3m divestment-related tax charge); underlying DPU = 8.11 cents. The Distribution Statement (p110) lists four quarterly cash tranches on a period-mixed basis (1 Jan 2025 - 31 Dec 2025), summing 8.02 cents - a cash-paid timing artefact, not the fiscal-year headline."
   ],
-  "reconciliation": {
-    "sum_property_valuation": 15728702000.0,
-    "reported_total_investment_properties": 15728702000.0,
-    "valuation_note": "Σ of 18 Portfolio-Statement property valuations = S$15,728,702k = audited Group Investment properties line (SFP Note 14). The Pinnacle Gangnam (50% JV) is equity-accounted and correctly excluded from the Portfolio Statement total.",
-    "sum_property_gross_revenue": 908841000.0,
-    "reported_total_gross_revenue": 908841000.0,
-    "gross_revenue_note": "Σ of 19 per-property gross revenue rows (incl. divested Mapletree Anson S$12,185k partial-year) = S$908,841k = Group gross revenue. (The Pinnacle Gangnam JV revenue is not consolidated.)",
-    "sum_property_npi": null,
-    "reported_total_npi": 683537000.0,
-    "npi_note": "Per-property NPI not disclosed; Group NPI S$683,537k captured in performance/financial.",
-    "line_items_check": "Sigma_revenue (910,902) - Sigma_expense (496,032) + Sigma_adjustment_signed (172,431) = 587,301 = net_income (profit after tax) PASS",
-    "trade_mix_sum": "Sum of 20 trade-mix categories = 100.0% by GRI"
-  },
   "inferred": [
     {
-      "table": "properties",
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all rows except rank 8",
+      "value": null,
+      "basis": "The Top Ten Tenants by GRI table (p45) discloses each tenant's property(ies) but no trade-sector column; industry mapped from each tenant's known business identity to the canonical 15-value taxonomy (e.g. Google/HP -> IT & Telecommunications; Merrill Lynch/HSBC -> Financial & Professional Services; IMDA -> Government Related; NTUC FairPrice/TaSTe -> Departmental Store/Supermarket; BMW -> Other Industrial Trades (automobile); Mapletree Investments -> Infrastructure, Real Estate & Property Services).",
+      "source_page": 45
+    },
+    {
+      "table": "top_tenants",
+      "field": "revenue_pct",
+      "rows": [
+        8
+      ],
+      "value": null,
+      "basis": "Rank 8 is an undisclosed tenant with no % of GRI disclosed (shown as '-' in the table); left null. Top-ten total 21.4% excludes the undisclosed tenant.",
+      "source_page": 45
+    },
+    {
+      "table": "trade_mix",
       "field": "category",
-      "scope": "MBC I, MBC II, Sandhill Plaza",
-      "value": "Specialized",
-      "basis": "Mapletree Business City and Sandhill Plaza are business-park assets; mapped to Specialized per PROPERTY_CATEGORY_ALIASES (Business Space). category_raw preserves the disclosed Business Park / Office type.",
-      "source_page": 116
+      "property_name": "Others",
+      "value": "Other Retail Trades",
+      "basis": "The report's residual 'Others' trade sector (6.9% of GRI) spans Real Estate/Construction, Convenience & Retail Services, Trading, Education, Optical, Energy and Medical across retail/office/business-park; no single canonical fits, mapped to Other Retail Trades as the dominant residual. Verbatim breakdown kept in category_raw.",
+      "source_page": 45
     },
     {
       "table": "properties",
-      "field": "ownership",
-      "scope": "all consolidated properties",
-      "value": 100.0,
-      "basis": "MPACT consolidates all 18 Portfolio-Statement properties at 100%; no stake footnotes indicating partial ownership. The Pinnacle Gangnam is the only partially-owned asset (50%, equity-accounted).",
-      "source_page": 116
+      "field": "occupancy_rate",
+      "property_name": "The Pinnacle Gangnam",
+      "value": 99.9,
+      "basis": "Pinnacle is absent from the audited Portfolio Statement (equity-accounted JV); occupancy 99.9% is the committed occupancy from Properties at a Glance p47 (vs the actual/physical occupancy used for consolidated rows).",
+      "source_page": 47
     },
     {
       "table": "properties",
-      "field": "lease_term_years/land_tenure",
-      "scope": "Festival Walk, China assets",
-      "value": "as printed",
-      "basis": "Festival Walk 54-yr leasehold; Gateway Plaza / Sandhill Plaza China land-use rights mapped to Leasehold per land_tenure rules.",
-      "source_page": 118
+      "field": "market_valuation",
+      "property_name": "The Pinnacle Gangnam",
+      "value": 221000000,
+      "basis": "Pinnacle valuation is MPACT's 50%-effective-interest SGD figure (S$221.0m = KRW258,050.0m at S$1=KRW1,167.5423) from Properties at a Glance p47, since the equity-accounted JV is not in the audited Tier-C Portfolio Statement. Reconciles: Sigma consolidated S$14,990.064m + Pinnacle S$221.0m = S$15,211.1m headline portfolio value.",
+      "source_page": 47
+    },
+    {
+      "table": "properties",
+      "field": "gross_revenue",
+      "property_name": "The Pinnacle Gangnam",
+      "value": 12100000,
+      "basis": "50% effective SGD share from Properties-at-a-Glance card (KRW13,280.8m = S$12.1m); equity-accounted JV, absent from consolidated Portfolio Statement. NPI taken from same card.",
+      "source_page": 47
     }
-  ]
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 867287000,
+    "reported_total_gross_revenue": 867287000,
+    "sum_property_npi": 653200000,
+    "reported_total_npi": 654427000,
+    "sum_consolidated_active_valuation": 14990064000,
+    "reported_investment_properties_group": 14990064000,
+    "note": "Gross revenue: Sigma over all consolidated property rows (incl divested-in-year TSI S$931k + ASY S$678k partials) = S$867,287k = Group gross revenue EXACTLY (p107/p125). Active-only Sigma (gate basis, excl divested) = S$865,678k (0.19% lower). NPI: per-property NPI from the marketing cards (SGD equivalents); full disclosed sum incl the combined MBC I+II figure (S$183.0m) = S$653,200k vs Group NPI S$654,427k (0.19% gap absorbs divested-in-year partials and card rounding). Row-level active NPI sum excludes MBC I/II (combined-only, null) so it is lower - _notes reconciliation is authoritative. Valuation: Sigma active consolidated = S$14,990,064k = Investment properties - Group EXACTLY (p125/p109); The Pinnacle Gangnam (50% JV, S$221.0m) is equity-accounted and excluded (its addition gives the S$15,211.1m headline portfolio value).",
+    "portfolio_valuation_check": {
+      "sum_consolidated_active_valuation": 14990064000,
+      "reported_fair_value_investment_properties": 14990064000
+    }
+  }
 }

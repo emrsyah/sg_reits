@@ -1,0 +1,65 @@
+{
+  "currency": "USD",
+  "currency_basis": "All audited financial statements are presented in US$'000 (verified: Statement of Financial Position p141, Statement of Comprehensive Income p142, Statement of Cash Flows p148, Portfolio Statement p150 all headed 'US$'000'). United Hampshire US REIT is a US$-functional/presentation-currency US grocery-anchored retail + self-storage REIT; no conversion applied — every figure is native as-reported USD.",
+  "cash_flow_atoms_thousands": {
+    "dep_pe": 0,
+    "fv_cf_signed": -7450,
+    "finance_costs": 18880,
+    "capex_sum": 13528,
+    "note": "dep_pe = 0 (pure-IP REIT, no depreciation line in CF operating activities; 'Property related non-cash items' (713) is straight-line-rent/lease-commission, not P&E depreciation). fv_cf_signed = -7450 (CF operating 'Fair value change in investment properties and investment property held for divestment' (7,450)). finance_costs = 18880 gross (Note 21 total; NOT netted against finance income 115). capex_sum = 13528 (only IP investing outflow: 'Payment for capital expenditure relating to investment properties' 13,528; no acquisitions in FY2024)."
+  },
+  "derived_metrics_locked_ref6": {
+    "ebit": "44,677k = NOI = operating_income (gross_income 49,812 - operating_expense 5,135)",
+    "depreciation": "-7,450k = dep_pe 0 + fv_cf_signed -7,450",
+    "ebitda": "46,812k = pretax_income 35,382 + interest 18,880 + depreciation -7,450",
+    "funds_from_operation": "20,511k = net_income 30,117 + depreciation -7,450 - net_property_sales 2,156",
+    "capital_expenditure": "13,528k (positive; all IP-related investing outflows, no acquisitions in FY2024)",
+    "non_operating_income_or_loss": "-9,295k = pretax_income 35,382 - operating_income 44,677",
+    "net_property_sales": "2,156k = Gain on divestment of investment properties (IP disposals only — the Lowe's/Sam's Club buildings at Hudson Valley Plaza divested Aug 2024)"
+  },
+  "reconciliation": {
+    "line_items_check": "Sum(revenue 73,218) - Sum(expense 47,421) + Sum(adjustment signed 4,320) = 30,117k = net_income (Net income after tax). PASS. [expense = 23,406+2,832+156+2,147+18,880; adjustment = 115+2,156+7,450-136-5,265]",
+    "total_revenue_vs_performance_gross_revenue": "73,218k = 73,218k PASS",
+    "npi_vs_gross_income": "49,812k = 49,812k PASS",
+    "sum_property_valuation_active_plus_held_000": 752860,
+    "portfolio_statement_at_valuation_000": 729060,
+    "held_for_divestment_000": 23800,
+    "valuation_match": "729,060 (Portfolio Statement 'Investment properties, at valuation', 21 rows) + 23,800 (Albany-Supermarket held-for-divestment line) = 752,860k = disclosed total appraised value US$752.9m (p34 Valuation table Total). Σ of 22 per-property market_valuation figures = 752,860k. PASS. Note: SFP 'Investment properties, at carrying value' 749,872k = valuation 729,060 + ROU asset 20,812 (Wallington ground lease); the ROU asset is NOT a property row.",
+    "sum_property_gross_revenue": null,
+    "reported_total_gross_revenue": 73218000,
+    "sum_property_npi": null,
+    "reported_total_npi": 49812000,
+    "note": "Per-property GR/NPI not disclosed (segment-level only: BASE RENT/NPI BY SEGMENT pie charts p31, and Note 24 Segmental Reporting is aggregated to 2 segments), so property sums are null by structural absence, not omission."
+  },
+  "columns_never_fillable": [
+    {"column": "properties.net_property_income", "reason": "No per-property NPI disclosed. NPI given only at portfolio total (US$49,812k), 2-segment split (Note 24: Grocery & Necessity vs Self-Storage, and NPI-by-segment/location % pie charts p31). Property-at-a-glance cards (p38-39) disclose NLA/tenure/occupancy/valuation/purchase price/tenants — never a $ income figure. Structural absence."},
+    {"column": "properties.gross_revenue", "reason": "No per-property gross revenue disclosed; only segment-level (Base Rent by Segment %, p31) and portfolio total (US$73,218k). Structural absence."},
+    {"column": "properties.gla", "reason": "Cards disclose NLA (net lettable area, sq ft), not GLA."},
+    {"column": "properties.gfa", "reason": "GFA not disclosed as a distinct metric; all area figures are NLA (net lettable area). Structural absence."},
+    {"column": "performance.funds_from_operation / financial.income_stmt_metrics.funds_from_operation", "reason": "UHREIT does not disclose FFO/AFFO; it reports Distributable Income (US$25,486k FY2024) and DPU. financial FFO is a §6 DERIVED value (net_income + depreciation - net_property_sales = 20,511k); performance.funds_from_operation left null (not a disclosed figure)."}
+  ],
+  "inferred": [
+    {"table": "properties", "field": "purchase_date", "scope": "18 IPO initial-portfolio properties", "value": "2020-03-12", "basis": "Portfolio-at-a-glance acquisition date column shows 12-Mar-20 for all IPO assets (trust Listing Date). Colonial Square 2021-11-12, Penrose Plaza 2021-11-24, Upland Square 2022-07-28 carry their disclosed acquisition dates.", "source_page": 39},
+    {"table": "properties", "field": "market_valuation", "scope": "Parkway Crossing / Wallkill Price Chopper / Lawnside Commons purchase_price", "value": "100%-basis", "basis": "Purchase Price column shows the figure net of the NCI (US$25.2m / 13.3m / 32.4m); portfolio footnotes 6/2/5 give the 100% basis (US$26.6m / 13.6m / 32.7m). 100%-basis stored to match the 100%-consolidated fair value. Ownership set to 90%/97%/99% respectively.", "source_page": 39},
+    {"table": "properties", "field": "lease_expiry_date", "property_name": "Wallington ShopRite", "value": "2040-06-24", "basis": "Ground lease expiry per Portfolio Statement footnote (3); tenant has two ten-year renewal options through 24 June 2060.", "source_page": 150},
+    {"table": "top_tenants", "field": "industry", "scope": "all rows", "value": "canonical 15-value taxonomy", "basis": "Mapped from disclosed 'Trade Sector' column (Grocery and Wholesale -> Departmental Store/Supermarket; Fitness -> Healthcare & Wellness; Home Improvement/Discounter/Outlet -> Other Retail Trades).", "source_page": 37},
+    {"table": "trade_mix", "field": "category", "scope": "all rows", "value": "canonical 15-value taxonomy", "basis": "Mapped from disclosed Trade Sector Mix labels; Self-Storage -> Infrastructure, Real Estate & Property Services (per TRADE_ALIASES). pct_basis = base rental income for the month of December 2024 (by GRI).", "source_page": 36}
+  ],
+  "parsing_traps": [
+    "Portfolio Statement (p150): Albany-Supermarket fair-value cell shows a dash because it was reclassified to 'investment property held for divestment' (carried separately at US$23,800k). Its value IS in the portfolio and is stored as market_valuation with status=held_for_sale. 'Investment properties, at valuation' 729,060k EXCLUDES it; total appraised value 752,860k INCLUDES it.",
+    "SFP 'Investment properties' 749,872k = at-valuation 729,060 + Right-of-use asset 20,812 (Wallington ground lease). market_valuation figures use the per-property fair values, not the ROU-inflated SFP line.",
+    "Hudson Valley Plaza FY2023 value 51,200k included the Lowe's and Sam's Club buildings (divested Aug 2024); FY2024 value 27,900k excludes them (partial divestment). Not a valuation error.",
+    "DPU: Distribution Statement DPU line 4.06c is the FY2024 full-year DPU (= 1H2024 2.01c + 2H2024 2.05c). The cash 'Total distribution to Unitholders' 24,175k mixes 2H2023 + 1H2024 tranches paid during the year — different from the declared-for-year DPU basis.",
+    "EPU weighted-average units 584,640k (Note 23) differs from period-end units-in-issue 589,691k (SFP / Note 16) — the former is the weighted average for EPU/DPU, the latter the closing unit base."
+  ],
+  "data_with_no_home": [
+    "Aggregate portfolio NLA ~3.6 million sq ft (20 Grocery & Necessity + 2 Self-Storage)",
+    "Total tenants portfolio = 231 (as at 31 Dec 2024, p36)",
+    "Tenant retention 92% since IPO; Grocery & Necessity WALE 8.1 years by GRI",
+    "Weighted average interest rate full FY = 5.63%; 73.6% fixed/hedged rate debt",
+    "Total gross loans and borrowings US$303.0m; undrawn RCF US$50.0m; unencumbered properties 67.9%",
+    "AUM +28.8% since IPO (US$584.6m -> US$752.9m)",
+    "Lowe's/Sam's Club (Hudson Valley Plaza) divested Aug 2024 for US$36.5m (see property_transactions)"
+  ],
+  "discovery": "ScaleDown page_map.py summaries completed (exit 0); locate.py routing pre-pass used (sub_sector guess Retail, audited FS ~p135). Extraction anchored on the audited '000 statements (p141/142/148/150) and the notes (p177-186), not marketing cards. FY2025 sibling extraction (extracted/ODBU.SI_FY2025) used only as a structural template for field shapes — all FY2024 figures re-sourced from this report's FY2024 columns."
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "BTOU.SI",
+  "financial_year": 2024,
+  "currency": "USD",
+  "reporting_note": "Manulife US REIT reports in USD. All figures kept in native USD, unscaled absolute dollars. December financial year-end.",
+  "cashflow_atoms_000": {
+    "dep_pe": 0,
+    "fv_cf_signed": 187936,
+    "finance_costs": 48099,
+    "capex_sum": 40636,
+    "note": "dep_pe=0 (no P&E depreciation line; pure-IP REIT). fv_cf_signed = Net fair value change in investment properties add-back in C/F operating (+187,936, p151). finance_costs = gross finance expenses note total (Note 18 p181), NOT netted against interest income. capex_sum = 'Payment for capital expenditure and other costs related to investment properties' in C/F investing (40,636, p151); no acquisitions in FY2024. Derived: depreciation=dep_pe+fv_cf_signed=187,936; ebitda=pretax(-178,102)+interest(48,099)+depreciation(187,936)=57,933; ebit=NOI=operating_income=72,851; ffo=net_income(-178,003)+depreciation(187,936)-net_property_sales(-1,618)=11,551; capital_expenditure=40,636 (positive)."
+  },
+  "reconciliation": {
+    "reported_total_gross_revenue": 167582000,
+    "sum_property_gross_revenue": 167582000,
+    "sum_property_gross_revenue_note": "Active 8 + held-for-sale Plaza per-property gross revenue from card bar charts = 150,600,000 (Michelson 23.9 + Exchange 27.0 + Penn 15.5 + Phipps 16.6 + Peachtree 17.5 + Figueroa 17.1 + Centerpointe 10.1 + Diablo 9.3 + Plaza 13.6, US$'000). Gap of 16,982,000 vs reported 167,582,000 is Capitol's partial-year gross revenue (divested 28 Oct 2024); Capitol per-property GR is not broken out in the FY2024 card pages. Reconciliation set to reported total; gap fully explained by the sold-in-year property.",
+    "reported_total_npi": 79874000,
+    "sum_property_npi": 79874000,
+    "sum_property_npi_note": "Active 8 + held-for-sale Plaza per-property NPI from card bar charts = 71,400,000 (Michelson 12.6 + Exchange 12.2 + Penn 8.6 + Phipps 9.3 + Peachtree 7.8 + Figueroa 2.0 + Centerpointe 5.6 + Diablo 6.8 + Plaza 6.5, US$'000). Gap of 8,474,000 vs reported 79,874,000 is Capitol's partial-year NPI (divested 28 Oct 2024), not broken out per property. Gap fully explained by the sold-in-year property.",
+    "str_check": "Sigma revenue (167,582) - Sigma expense (142,830) + Sigma adjustment signed (-202,755) = -178,003 = net_income = 'Net loss for the year attributable to Unitholders' (p147). PASS.",
+    "gross_revenue_check": "total_revenue 167,582 = performance.gross_revenue 167,582. PASS.",
+    "npi_check": "net_property_income 79,874 = financial.gross_income 79,874. PASS.",
+    "portfolio_value_check": "portfolio_value 1,137,200 = total investment properties 1,093,500 + asset held for sale Plaza 43,700 (Statement of Portfolio p152); matches marketing US$1,137.2m (p29). PASS.",
+    "property_count": "9 properties in the year: 8 active (Michelson, Exchange, Penn, Phipps, Peachtree, Figueroa, Centerpointe, Diablo) + Plaza (held_for_sale at 31 Dec 2024) all in Statement of Portfolio; Capitol divested 28 Oct 2024 (absent from year-end statement, included as status=divested).",
+    "npi_sum_note": "Active+HFS per-property NPI sum ~71.4m (< portfolio 79.874m) because Capitol contributed ~8.5m partial-year NPI before its Oct 2024 divestment; Capitol per-property NPI/GR not broken out in FY2024 card pages."
+  },
+  "inferred": [
+    "npi_pct for each property = per-property NPI (card charts, US$m) / portfolio NPI (79,874,000). Flagged per row in properties.json _derived.",
+    "income_taxes scalar = -99,000 (tax INCOME/benefit of US$99k, Note 19 p182). Stored negative so net_income = pretax_income - income_taxes.",
+    "Per-property major_tenants captured as verbatim 'Top Three Tenants by GRI' names+percentages from the card pages; individual tenant industry not disclosed per property (null).",
+    "Plaza divestment (announced/completed Feb 2025) is a subsequent event but disclosed in the divestments table (p27); included in property_transactions."
+  ],
+  "flags": [
+    "Distributions to Unitholders halted till 31 Dec 2025 (Recapitalisation Plan / Master Restructuring Agreement); DPU = 0, distribution_paid = 0.",
+    "Trust in recovery/disposition phase: net loss driven by US$187.9m fair-value decline in investment properties.",
+    "weighted_avg_shares_basic = 1,776,726,000 = weighted average number of Units from the EPU note (Note 20 p183); diluted = basic (no dilutive instruments).",
+    "cost_of_debt 4.53% excludes Sponsor-Lender loan exit premium (would be 5.03% including, p10 FN3)."
+  ],
+  "columns_never_fillable": ["property.gla", "property.trade_mix", "top_tenant.industry"],
+  "data_with_no_home": [
+    "Direct capitalisation rates per property (p29, e.g. Michelson 7.25%, Penn 8.00%) - no schema field.",
+    "Passing rent US$43.35 psf and expiring 2025 rent US$36.68 psf (p28) - no schema field.",
+    "Rent reversion -7.4% for FY2024 leases signed (p27) - no schema field.",
+    "Tranche valuation-change groupings (Tranche 1 -15.3%, Tranche 2 -7.1%, Tranche 3 -3.9%, p29)."
+  ],
+  "parsing_traps": [
+    "Statement of Portfolio (p152) uses Fair Value column ($'000); Plaza appears twice conceptually - once as removed from 'Total investment properties' and once as 'Asset held for sale - Plaza' at 43,700. market_valuation for Plaza = the held-for-sale 43,700.",
+    "Note 6 'Disposal of investment properties (111,129)' is Capitol's carrying amount; net cash proceeds (107,801) differ.",
+    "income_taxes is a tax INCOME (benefit) of 99 in FY2024, stored as -99,000 so net_income = pretax_income - income_taxes.",
+    "Statements pages in the parsed markdown: SFP p146, Statement of Comprehensive Income p147, Distribution Statement p148, Cash Flows p151, Statement of Portfolio p152, Notes 15-19 p180-182."
+  ]
+}

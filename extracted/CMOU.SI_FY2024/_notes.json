@@ -1,0 +1,65 @@
+{
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1044450254.0,
+      "basis": "EPU note 20 (p126): 'Weighted average number of Units' 1,044,450 ('000); footnote (p6) discloses precise 1,044,450,254 issued Units. Diluted EPU stated equivalent to basic (no dilutive instruments), so diluted=basic.",
+      "source_page": 126
+    },
+    {
+      "table": "financial",
+      "field": "income_taxes",
+      "value": -4001000.0,
+      "basis": "Note 19 Tax credit of 4,001 ('000) (a credit). Stored negative so net_income = pretax - income_taxes = -10,895 -(-4,001) = -6,894.",
+      "source_page": 126
+    },
+    {
+      "table": "performance",
+      "field": "dpu",
+      "value": 0.0,
+      "basis": "No distribution declared for FY2024 (Distribution Statement p103, Financial Highlights p6 show '-'). Distributions suspended under Recapitalisation Plan; 47,627 income available was fully withheld.",
+      "source_page": 103
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 47627000.0,
+      "basis": "'Income available for distribution to Unitholders for the year' 47,627 ('000), Distribution Statement p103.",
+      "source_page": 103
+    }
+  ],
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "gross_revenue",
+      "basis": "Per-property gross revenue from 'Gross Revenue by Asset' table (p55, US$m), rounded to nearest 0.1m; ×1,000,000."
+    },
+    {
+      "table": "properties",
+      "field": "net_property_income",
+      "basis": "NULL - FY2024 report discloses Gross Revenue by Asset but NO NPI-by-asset table; per-property NPI not disclosed."
+    },
+    {
+      "table": "properties",
+      "field": "major_tenants",
+      "basis": "Mapped from 'Top 10 Tenants by CRI and NLA' table (p37) via the 'Asset' column; pct is % of PORTFOLIO cash rental income (CRI), not per-property share."
+    }
+  ],
+  "data_with_no_home": [],
+  "parsing_traps": [
+    "Marketing valuations (US$m cards p38-39) vs audited Portfolio Statement '000 (p107): used the audited '000 figures. 105 Edgeview 55,910 and Bridge Crossing 41,400 given precisely in Portfolio Statement."
+  ],
+  "reconciliation": [
+    "Financial STR: Sum(revenue 146,437) - Sum(expense 104,750) + Sum(adjustment signed -48,581) = -6,894 = net_income. PASS.",
+    "total_revenue 146,437k = performance.gross_revenue 146,437k. PASS.",
+    "net_property_income 78,290k = financial.gross_income 78,290k. PASS.",
+    "Portfolio Statement total investment properties 1,326,410k = balance_sheet Investment properties. Sum of 13 property valuations = 1,326,410k. PASS.",
+    "Atoms(000): dep_pe=0, fv_cf_signed=46,663, finance_costs=27,571, capex_sum=53,630."
+  ],
+  "columns_never_fillable": [
+    "properties.net_property_income (no per-asset NPI disclosed)",
+    "properties.gla",
+    "properties.gfa"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "symbol": "UD1U.SI",
+  "financial_year": 2024,
+  "portfolio_value": 857333000,
+  "properties_location": "Germany, Spain, France",
+  "gross_revenue": 75573000,
+  "net_property_income": 53505000,
+  "net_distributable_income": 28409000,
+  "distribution_paid": 25568000,
+  "adjusted_distributable_income": null,
+  "distribution_basis": "disclosed_after_retention",
+  "dpu": 1.9,
+  "distribution_record": [
+    {
+      "period": "01/01/2024 to 30/06/2024",
+      "dpu": 0.96,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "01/07/2024 to 31/12/2024",
+      "dpu": 0.94,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": null,
+  "number_of_shareholder_units": 1344838000,
+  "aggregate_leverage": 37.6,
+  "interest_coverage_ratio": 7.6,
+  "cost_of_debt": 1.9,
+  "weighted_avg_debt_maturity": 1.7,
+  "nav_per_unit": 0.39,
+  "wale": 4.9,
+  "portfolio_occupancy": null,
+  "dpu_period_months": 12,
+  "currency": "EUR",
+  "date": "2024-12-31",
+  "source_page": 22,
+  "flags": [
+    {
+      "type": "extraction_notes",
+      "scope": "performance",
+      "note": "Currency EUR. DPU 1.90 EUR cents (H1 0.96 + H2 0.94). portfolio_value=857,333k = independent valuation total (Note 2.4a); carrying amount incl right-of-use assets = 863,708k. net_distributable_income=28,409k = Amount available for distribution (Statement of Distribution p176); 2,841k retained for working capital. nav_per_unit=0.39 EUR (Group NAV attributable to Unitholders, p174). ICR 7.6x, cost_of_debt 1.9%, wtd avg debt maturity 1.7yr (p1075)."
+    },
+    {
+      "type": "portfolio_occupancy_null",
+      "scope": "portfolio_occupancy",
+      "note": "Occupancy disclosed only at country level (Germany 80.9%, Spain 75.4%, France 100.0%, p238-260); no single blended portfolio occupancy figure disclosed -> null."
+    }
+  ],
+  "distributable_income_opening": null,
+  "distribution_cash_paid": 25551000,
+  "distributable_income_closing": null,
+  "units_to_be_issued": 0
+}

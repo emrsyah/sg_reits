@@ -1,0 +1,14 @@
+{
+  "file": "22_CMOU.SI_KORE-US-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 179,
+  "pages_written": 179,
+  "seconds": 62.0,
+  "parse_quality_score": null,
+  "runtime": 50.62935471534729,
+  "cost_breakdown": {
+    "final_cost_cents": 54.0
+  },
+  "checkpoint_id": "checkpoint_YEgWgIT2NDRCk8wsFR8Z3c1rICklV1q-MOyCjCElRdE",
+  "page_range": null
+}

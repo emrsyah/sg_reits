@@ -1,0 +1,61 @@
+{
+  "symbol": "DCRU.SI",
+  "financial_year": 2024,
+  "portfolio_value": 1624100000,
+  "properties_location": "United States, Germany, Canada, Japan",
+  "gross_revenue": 102274000,
+  "net_property_income": 61832000,
+  "net_distributable_income": 45991000,
+  "distribution_paid": 42590000,
+  "distribution_basis": "disclosed_after_retention",
+  "adjusted_distributable_income": null,
+  "dpu": 3.6,
+  "dpu_period_months": 12,
+  "distribution_record": [
+    {
+      "period": "1H24 (1 Jan 2024 - 30 Jun 2024)",
+      "dpu": 1.8,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "2H24 (1 Jul 2024 - 31 Dec 2024)",
+      "dpu": 1.8,
+      "ex_date": null,
+      "pay_date": "2025-03-31"
+    }
+  ],
+  "distributable_income_opening": 20004000,
+  "distribution_cash_paid": 42590000,
+  "distributable_income_closing": 23405000,
+  "number_of_unitholders": 6026,
+  "number_of_shareholder_units": 1300293718,
+  "units_to_be_issued": 21295000,
+  "aggregate_leverage": 34.0,
+  "interest_coverage_ratio": 3.6,
+  "cost_of_debt": 4.2,
+  "weighted_avg_debt_maturity": 4.7,
+  "nav_per_unit": 0.79,
+  "wale": 4.8,
+  "portfolio_occupancy": 97.0,
+  "currency": "USD",
+  "date": "2024-12-31",
+  "flags": [
+    {
+      "type": "dpu_half_year_split",
+      "scope": "dpu",
+      "note": "Semi-annual: 1H24 1.80c + 2H24 1.80c = 3.60c full-year; 2H24 distribution (1 Jul-31 Dec 2024) payable on or before 31 Mar 2025 (ex/pay dates not disclosed in AR)."
+    },
+    {
+      "type": "distribution_cycle_mismatch",
+      "scope": "distribution_paid",
+      "note": "The Distribution Statement 'Distribution to Unitholders during the year' of 42,590 US$'000 is DPU 3.58c for the period 1 Jul 2023-30 Jun 2024 (a Jul-Jun cash cycle), NOT the same period as net_distributable_income (45,991 for FY2024). Roll-forward opening 20,004 + NDI 45,991 - cash paid 42,590 = closing 23,405 (ties)."
+    },
+    {
+      "type": "portfolio_value_basis",
+      "scope": "portfolio_value",
+      "note": "AUM at ownership/pro-rata share = US$1,624.1m (p31, incl. Osaka 2 associate at share). Appraised value of investment properties incl. held-for-sale at 100% ~US$1.9bn (p28). Headline at-share AUM used."
+    }
+  ],
+  "source_page": 14
+}

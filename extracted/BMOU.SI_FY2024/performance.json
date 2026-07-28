@@ -1,0 +1,66 @@
+{
+  "symbol": "BMOU.SI",
+  "financial_year": 2024,
+  "portfolio_value": 885349000,
+  "properties_location": "China (Beijing, Chengdu, Hefei, Xining, Dalian)",
+  "gross_revenue": 60957000,
+  "net_property_income": 32843000,
+  "net_distributable_income": 2861000,
+  "distribution_paid": 2575000,
+  "adjusted_distributable_income": null,
+  "dpu": 0.50,
+  "distribution_record": [
+    {
+      "period": "1H FY2024 (1 Jan 2024 - 30 Jun 2024)",
+      "dpu": 0.25,
+      "ex_date": null,
+      "pay_date": "2024-09-27"
+    },
+    {
+      "period": "2H FY2024 (1 Jul 2024 - 31 Dec 2024)",
+      "dpu": 0.25,
+      "ex_date": null,
+      "pay_date": "2025-03-28"
+    }
+  ],
+  "number_of_unitholders": 724,
+  "aggregate_leverage": 39.6,
+  "interest_coverage_ratio": 1.7,
+  "cost_of_debt": 5.5,
+  "weighted_avg_debt_maturity": 0.2,
+  "nav_per_unit": 0.72,
+  "wale": 3.0,
+  "portfolio_occupancy": 95.8,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "flags": [
+    {
+      "type": "dpu_half_year_split",
+      "scope": "dpu",
+      "note": "DPU disclosed in two equal half-year tranches: 1H 0.25 cents (paid 27 Sep 2024), 2H 0.25 cents (paid 28 Mar 2025), total 0.50 cents (page 64)."
+    },
+    {
+      "type": "wale_dual_basis",
+      "scope": "wale",
+      "note": "WALE 3.0 years by gross rental income (primary, stored); 5.1 years by net lettable area also disclosed (page 66)."
+    },
+    {
+      "type": "cost_of_debt_dual_basis",
+      "scope": "cost_of_debt",
+      "note": "Average cost of debt 5.5% (stored); 6.3% p.a. if amortisation of loan establishment fee is included (page 65)."
+    },
+    {
+      "type": "distribution_rollforward_basis",
+      "scope": "distribution_pool_other_movements",
+      "note": "Rollforward gap of 286,000 = the DISCLOSED 'Amount retained' line (approx S$0.3m retained for operational expenses and working capital, footnote (1), Distribution Statement page 129), stored as distribution_pool_other_movements = -286,000. Guard: opening 517 + NDI 2,861 - retained 286 - cash_paid 1,715 = closing 1,377. All four A/B/P/E values read verbatim from the audited consolidated Distribution Statement (Group column, page 129)."
+    }
+  ],
+  "source_page": 5,
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 519603000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 517000,
+  "distribution_cash_paid": 1715000,
+  "distributable_income_closing": 1377000,
+  "distribution_pool_other_movements": -286000
+}

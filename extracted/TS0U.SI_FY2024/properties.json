@@ -1,0 +1,334 @@
+[
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": 98.2,
+    "gla": null,
+    "nla": 37133.0,
+    "gfa": 46902.3,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": 99.0,
+    "lease_expiry_date": "2106-11-11",
+    "major_tenants": [
+      {
+        "name": "Bank of America"
+      },
+      {
+        "name": "Aramco Asia Singapore Pte. Ltd."
+      },
+      {
+        "name": "Allen & Overy LLP"
+      },
+      {
+        "name": "Point72 Asia (Singapore)"
+      },
+      {
+        "name": "Hogan Lovells Lee & Lee"
+      }
+    ],
+    "flags": [
+      {
+        "type": "jv_not_in_portfolio_statement",
+        "scope": "market_valuation",
+        "note": "Held via 50% interest in OUE Allianz Bayfront LLP; equity-accounted (Investment in JV S$376,336k in SFP). Not a row in the audited Portfolio Statement. Valuation S$1,388.0m is the 100% LLP-basis appraised value from the property card; gross_revenue S$66.2m also on 100% LLP basis."
+      }
+    ],
+    "property_name": "OUE Bayfront",
+    "category": "Office",
+    "category_raw": "Office (Commercial)",
+    "address": "50 Collyer Quay, OUE Bayfront, Singapore 049321",
+    "ownership": 50.0,
+    "market_valuation": 1388000000,
+    "tenure_raw": "99-year lease from 12 November 2007",
+    "card_gross_revenue": 66200000,
+    "value_basis": "joint_venture_100pct",
+    "source_page": 41
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": 95.3,
+    "gla": null,
+    "nla": 65373.0,
+    "gfa": 119654.0,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": null,
+    "lease_expiry_date": null,
+    "major_tenants": [
+      {
+        "name": "Virgin Active Singapore Pte. Ltd."
+      },
+      {
+        "name": "StoneX APAC Pte. Ltd."
+      },
+      {
+        "name": "Spaces"
+      },
+      {
+        "name": "China Merchants Bank"
+      },
+      {
+        "name": "China Life Insurance (Singapore) Pte. Ltd."
+      }
+    ],
+    "flags": [
+      {
+        "type": "full_consolidation_partial_ownership",
+        "scope": "market_valuation",
+        "note": "OUE REIT effective interest 67.95% (via 83.33% of OUB Centre Limited, which owns 81.54%). Audited Portfolio Statement carrying value S$1,926.3m is on 100% consolidated basis. Card gross_revenue S$87.1m is on OUB Centre's 81.54% basis."
+      }
+    ],
+    "property_name": "One Raffles Place",
+    "category": "Diversified (Commercial)",
+    "category_raw": "Commercial (integrated development)",
+    "address": "1 Raffles Place, One Raffles Place, Singapore 048616",
+    "ownership": 67.95,
+    "market_valuation": 1926300000,
+    "card_gross_revenue": 87100000,
+    "tenure_raw": "One Raffles Place Tower 1: 841-year lease from 1 Nov 1985; Tower 2: 99-year lease from 26 May 1983; Shopping Mall retail podium: ~75% NLA on 99-year lease from 1 Nov 1985, balance 25% on 841-year lease from 1 Nov 1985",
+    "value_basis": "consolidated",
+    "source_page": 116
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": 91.9,
+    "gla": null,
+    "nla": 49133.0,
+    "gfa": 69922.0,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": 99.0,
+    "lease_expiry_date": "2066-07-18",
+    "major_tenants": [
+      {
+        "name": "Deloitte & Touche LLP"
+      },
+      {
+        "name": "Professional Investment Advisory Services Pte. Ltd."
+      },
+      {
+        "name": "ITOCHU Singapore Pte. Ltd."
+      },
+      {
+        "name": "Moody's Analytics Singapore Pte. Ltd."
+      },
+      {
+        "name": "Toyota Tsusho Asia Pacific Pte. Ltd."
+      }
+    ],
+    "flags": [],
+    "property_name": "OUE Downtown Office",
+    "category": "Office",
+    "category_raw": "Office",
+    "address": "6 Shenton Way, Singapore 068809 and 6A Shenton Way, Singapore 068815",
+    "ownership": 100.0,
+    "market_valuation": 930000000,
+    "tenure_raw": "99-year lease from 19 July 1967 (remaining 42 years as at 31/12/2024)",
+    "card_gross_revenue": 49000000,
+    "value_basis": "consolidated",
+    "source_page": 116
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": null,
+    "gla": null,
+    "nla": null,
+    "gfa": 91999.8,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": 99.0,
+    "lease_expiry_date": "2056-06-30",
+    "major_tenants": [
+      {
+        "name": "OUE Limited",
+        "note": "master lessee"
+      }
+    ],
+    "flags": [
+      {
+        "type": "master_lease_hotel",
+        "scope": "occupancy_rate",
+        "note": "1,080-room hotel on 15-yr master lease to OUE Limited (variable rent: 33% of gross operating revenue + 27.5% of gross operating profit, min S$45.0m p.a.). Occupancy N/A; FY2024 RevPAR S$290. NLA not applicable (size metric = keys)."
+      }
+    ],
+    "property_name": "Hilton Singapore Orchard",
+    "category": "Specialized",
+    "category_raw": "Hotel",
+    "address": "333 Orchard Road, Singapore 238867",
+    "ownership": 100.0,
+    "market_valuation": 1318500000,
+    "tenure_raw": "99-year lease from 1 July 1957 (remaining 32 years as at 31/12/2024)",
+    "card_gross_revenue": 77900000,
+    "value_basis": "consolidated",
+    "source_page": 117
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": null,
+    "gla": null,
+    "nla": null,
+    "gfa": 40913.5,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": 74.0,
+    "lease_expiry_date": "2083-06-30",
+    "major_tenants": [
+      {
+        "name": "OUE Airport Hotel Pte. Ltd.",
+        "note": "master lessee"
+      }
+    ],
+    "flags": [
+      {
+        "type": "master_lease_hotel",
+        "scope": "occupancy_rate",
+        "note": "575-room hotel on master lease to OUE Airport Hotel Pte. Ltd. (variable rent, min S$22.5m p.a.), first term expiring May 2028. Occupancy N/A; FY2024 RevPAR S$242."
+      },
+      {
+        "type": "tenure_source_conflict",
+        "scope": "tenure_raw",
+        "note": "Audited Portfolio Statement: 74-year lease from 1 July 2009. Property card p.51: 66-year lease from 9 June 2017. Both imply expiry ~2083. Audited statement used."
+      }
+    ],
+    "property_name": "Crowne Plaza Changi Airport",
+    "category": "Specialized",
+    "category_raw": "Hotel",
+    "address": "75 Airport Boulevard, Singapore 819664",
+    "ownership": 100.0,
+    "market_valuation": 520000000,
+    "tenure_raw": "74-year lease from 1 July 2009 (remaining 59 years as at 31/12/2024) per audited Portfolio Statement",
+    "card_gross_revenue": 28000000,
+    "value_basis": "consolidated",
+    "source_page": 117
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "valuation_date": "2024-12-31",
+    "country": "Singapore",
+    "status": "active",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": 98.2,
+    "gla": null,
+    "nla": 11733.0,
+    "gfa": 18240.0,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": 99.0,
+    "lease_expiry_date": "2056-06-30",
+    "major_tenants": [
+      {
+        "name": "Victoria's Secret"
+      },
+      {
+        "name": "Michael Kors"
+      },
+      {
+        "name": "Max Mara"
+      },
+      {
+        "name": "Rimowa Singapore"
+      },
+      {
+        "name": "MLB KOREA"
+      }
+    ],
+    "flags": [],
+    "property_name": "Mandarin Gallery",
+    "category": "Retail",
+    "category_raw": "Retail",
+    "address": "333A Orchard Road, Singapore 238897",
+    "ownership": 100.0,
+    "market_valuation": 451000000,
+    "tenure_raw": "99-year lease from 1 July 1957 (remaining 32 years as at 31/12/2024)",
+    "card_gross_revenue": 31300000,
+    "value_basis": "consolidated",
+    "source_page": 117
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "currency": "CNY",
+    "valuation_date": "2024-12-31",
+    "country": "China",
+    "status": "divested",
+    "net_property_income": null,
+    "npi_pct": null,
+    "trade_mix": null,
+    "occupancy_rate": null,
+    "gla": null,
+    "nla": null,
+    "gfa": null,
+    "gross_revenue": null,
+    "land_tenure": "Leasehold",
+    "effective_date": null,
+    "lease_term_years": null,
+    "lease_expiry_date": null,
+    "major_tenants": [],
+    "flags": [
+      {
+        "type": "divested_partial_data",
+        "scope": "all",
+        "note": "Divested 27 Dec 2024 via sale of Lippo Realty (Shanghai) Limited. Absent from FY2024 year-end Portfolio Statement (2023 carrying value RMB2,400,000,000 / S$449,041,000). Partial-year revenue included in Group total. See property_transactions."
+      }
+    ],
+    "property_name": "Lippo Plaza",
+    "category": "Diversified (Commercial)",
+    "category_raw": "Commercial",
+    "address": "222 Huaihai Zhong Road, Huangpu District, Shanghai, PRC 200021",
+    "ownership": 100.0,
+    "market_valuation": null,
+    "tenure_raw": "50-year land use right commencing from 2 July 1994",
+    "value_basis": "consolidated",
+    "source_page": 116
+  }
+]

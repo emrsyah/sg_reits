@@ -1,0 +1,16 @@
+{
+  "file": "10_J85.SI_CDL-Hospitality-Trusts_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 320,
+  "pages_written": 320,
+  "seconds": 67.5,
+  "parse_quality_score": null,
+  "runtime": 58.05470895767212,
+  "cost_breakdown": {
+    "list_cost_cents": 128,
+    "final_cost_cents": 96,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_-mw6L4WxOsTsWoQboyS1cER6cIYSedZAzyyki9feruU",
+  "page_range": null
+}

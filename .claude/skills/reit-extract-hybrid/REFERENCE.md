@@ -89,7 +89,7 @@ sweep. Always re-confirm on the actual report; this is the prior, not the answer
 | **properties** (operating metrics) | hybrid (2nd adapter) | per-property cards / "At A Glance" — semi-structured; a 2nd plan over the card pages, or LLM if cards are too irregular (hospitality). |
 | **top_tenants** | **hybrid** | single ranked table. fields: `client_name`, `industry`, `revenue_pct`, `pct_basis`. `value_col` = the % column. `needs_llm`: map `industry` to the canonical 15-value taxonomy; DC names are anonymised (verbatim descriptor → `client_name`). Anchor wording varies: "Top 10 Tenants/Customers/Clients" / "by GRI". |
 | **trade_mix** | **hybrid** | single table; `value_col` = pct. Watch roll-up + expanded sub-tables (CICT "Other Retail/Office Trades"). `needs_llm`: map `category_raw`→canonical. DC: client trade-sector / "by contract type", `pct_basis=rental_income`. **Hospitality: VERIFY, don't assume absent** — Ascott discloses a "Portfolio Information by Industry" table (corporate accounts, mgmt-contract properties only); capture it with a scoped `pct_basis`. Only declare structural after confirming the report truly has none. |
-| **financial** (3 statements + FULL STR) | **hybrid** | **financial.json is a SINGLE object with three prod-1:1 jsonb blobs** + our `line_items[]`. **Three jobs:** (A) `income_stmt_metrics` — standardize like prod: total_revenue (= gross revenue), cost_of_revenue (= property opex), gross_income (= NPI), operating_income/expense, ebit, ebitda, pretax_income, income_taxes, net_income (= total return), non_operating_income_or_loss, interest_expense_non_operating (= finance costs), diluted_shares_outstanding, net_property_sales, funds_from_operation, unitholders, perpetual_security_holders, minorities + revenue_breakdown/operating_expense_breakdown `[{class, amount, category}]`. (B) `balance_sheet_metrics` (Statement of Financial Position): total_asset, total_equity, total_liabilities, working_capital, total_(non_)current_asset/liabilities. `cash_flow_metrics` (Cash Flow Statement): operating/investing/financing_cash_flow, net_cash_flow, free_cash_flow, capital_expenditure. (C) **capture the WHOLE audited Statement of Total Return into `line_items[]`** (the #1 under-capture bug): every line below NPI — interest/investment income (`revenue`), management/trustee/audit/professional/valuation fees + finance costs + other trust expenses (`expense`), and non-operating lines (JV/associate share, FV changes, divestment gain/loss, tax) as `statement="adjustment"`, amount **SIGNED** (gains +, charges/tax −). `value_col` = amount. `needs_llm`: map `label_raw`→canonical `component` + `statement`, and the scalar standardization. **Self-check: `Σrevenue − Σexpense + Σadjustment(signed)` = "Total return for the year" = income_stmt_metrics.net_income; and total_revenue = performance.gross_revenue.** Gate warns if finance_costs / management_fee / adjustment lines absent. **Standardization formulas** (derive ebit/ebitda/operating_income — they're not literal REIT lines; verified to the dollar vs prod M44U): see `reit-extract/REFERENCE.md` §2 "Standardization formulas" — operating_income = gross_income−operating_expense; non_operating = pretax−operating_income; ebit = net_income+income_taxes+interest_expense_non_operating; ebitda ≈ ebit. **Sign convention (match prod):** income_stmt_metrics expense scalars (cost_of_revenue, operating_expense, income_taxes, interest_expense_non_operating) are POSITIVE magnitudes; non_operating_income_or_loss / net_property_sales SIGNED; breakdown `amount`s positive and must reconcile to total_revenue / operating_expense within 2% (gate-checked). line_items keep the SIGNED-adjustment rule (audit trail, not pushed). |
+| **financial** (3 statements + FULL STR) | **hybrid** | **financial.json is a SINGLE object with three prod-1:1 jsonb blobs** + our `line_items[]`. **Three jobs:** (A) `income_stmt_metrics` — standardize like prod: total_revenue (= gross revenue), cost_of_revenue (= property opex), gross_income (= NPI), operating_income/expense, ebit, ebitda, pretax_income, income_taxes, net_income (= total return), non_operating_income_or_loss, interest_expense_non_operating (= finance costs), diluted_shares_outstanding, net_property_sales, funds_from_operation, unitholders, perpetual_security_holders, minorities + revenue_breakdown/operating_expense_breakdown `[{class, amount, category}]`. (B) `balance_sheet_metrics` (Statement of Financial Position): total_asset, total_equity, total_liabilities, working_capital, total_(non_)current_asset/liabilities. `cash_flow_metrics` (Cash Flow Statement): operating/investing/financing_cash_flow, net_cash_flow, free_cash_flow, capital_expenditure. (C) **capture the WHOLE audited Statement of Total Return into `line_items[]`** (the #1 under-capture bug): every line below NPI — interest/investment income (`revenue`), management/trustee/audit/professional/valuation fees + finance costs + other trust expenses (`expense`), and non-operating lines (JV/associate share, FV changes, divestment gain/loss, tax) as `statement="adjustment"`, amount **SIGNED** (gains +, charges/tax −). `value_col` = amount. `needs_llm`: map `label_raw`→canonical `component` + `statement`, and the scalar standardization. **Self-check: `Σrevenue − Σexpense + Σadjustment(signed)` = "Total return for the year" = income_stmt_metrics.net_income; and total_revenue = performance.gross_revenue.** Gate warns if finance_costs / management_fee / adjustment lines absent. **Derived metrics (ebit/ebitda/depreciation/ffo/capex/interest) are NOT extracted here — they are computed downstream by `scripts/db/_apply_conventions.py` from atoms. See §6 (LOCKED conventions), which SUPERSEDES the older `ebit = net_income+income_taxes+interest` hint.** Your extraction job is to capture the as-declared lines + the atoms §6 lists (P&E depreciation, net FV change of IP, gross finance costs, IP-capex components). operating_income = gross_income−operating_expense; non_operating = pretax−operating_income. **Sign convention (match prod):** income_stmt_metrics expense scalars (cost_of_revenue, operating_expense, income_taxes, interest_expense_non_operating) are POSITIVE magnitudes; non_operating_income_or_loss / net_property_sales SIGNED; breakdown `amount`s positive and must reconcile to total_revenue / operating_expense within 2% (gate-checked). line_items keep the SIGNED-adjustment rule (audit trail, not pushed). |
 | **performance** | **llm_only** (usually) | headline figures are spread across 5-yr summary + distribution statement + statistics-of-unitholders (3 pages). A few cells, scattered — cheaper to LLM-extract than to author 3 micro-adapters. |
 | **profile** | **llm_only** | `management` entities are scattered across front matter + corporate-information; `sub_sector` is judgement (use locate.py guess). Not a grid. |
 
@@ -256,3 +256,75 @@ reliable path is per-report authoring + the gates, not plan reuse.
 | `track.py` | progress matrix across all ARs from their status.json |
 
 Gates (reused from `reit-extract/scripts/`): `validate_schema.py`, `check_extraction.py`.
+
+## §6 — Financial-statement conventions (LOCKED 2026-07)
+
+Locked from a 3-way cross-check of our extraction vs the colleague's Excel vs an independent
+blind re-extraction, adjudicated against the annual reports and industry standards (NAREIT for FFO,
+the SG-REIT convention for EBITDA). Evidence: `docs/reits_db_handoff/decision_examples.md`,
+`ours_vs_excel_field_diff.md`, `manual_vs_ours_parity.md`. **Where our data disagreed with the Excel,
+ours matched the AR every time** — so these conventions are authoritative; do not "correct" toward the
+Excel.
+
+**Financial-year label (declared FY):** statement period ending **Jan–Jun of year X → FY = X−1**;
+**Jul–Dec of X → FY = X**. (March-FYE trust ending 31-Mar-2025 = FY2024; June-FYE ending 30-Jun-2025
+= FY2024; Sept-FYE ending 30-Sep-2025 = FY2025.) DB + `extracted/` already use this; the
+`parsed_reports_datalab/` folders were renamed to match (2026-07).
+
+**As-declared (capture verbatim, GROUP column, current year):** all of `balance_sheet_metrics`,
+`cash_flow_metrics` (O/I/F subtotals), and the income-statement lines. These matched to the dollar in
+every pilot — extraction here is reliable; don't recompute.
+
+**Sign conventions (match prod):** expense scalars (`cost_of_revenue`, `operating_expense`,
+`income_taxes`, `interest_expense_non_operating`) = POSITIVE magnitudes. `minorities` &
+`perpetual_security_holders` = **NEGATIVE** (deductions to reach unitholders). `non_operating_income_or_loss`
+& `net_property_sales` = SIGNED.
+
+**Atoms to capture** (the derived metrics below are computed from these by `_apply_conventions.py`,
+NOT typed here): (1) **P&E depreciation** — the "Depreciation" line in C/F operating activities
+(0 for pure-IP REITs). (2) **Net change in fair value of investment properties** — C/F operating line,
+C/F sign. (3) **Gross finance costs** — the finance-costs note total (do NOT net off interest income).
+(4) **IP-capex components** — every investment-property payment in C/F investing activities.
+
+**PPE-model hospitality trusts (LOCKED 2026-07-28):** some hotel trusts carry their hotels as
+**property, plant & equipment (PPE) under the revaluation model**, NOT as investment property at fair
+value (e.g. XZL/Acrophyte; the PPE hotels in a stapled trust's BT column). For these, the hotels are
+**depreciated** (that charge goes into atom (1) `dep_pe`) AND periodically **revalued** through a
+"Revaluation of PPE" line in P&L / the C/F operating add-back. Treat that PPE-revaluation line as the
+**analogue of the IP fair-value change** → put it in atom (2) `fv_cf_signed` (same C/F sign convention:
+a revaluation *loss* in P&L is a *positive* add-back). Rationale: NAREIT FFO strips non-cash
+real-estate value movements regardless of whether the asset is classified IP or PPE, so this keeps
+PPE-model hotel trusts comparable to IP-model hospitality trusts (Q5T/HMN/J85). Do NOT leave
+`fv_cf_signed=0` and let the revaluation drag sit in FFO/EBITDA. (Applied: XZL FY2024, PPE reval
+−11,925k → `fv_cf_signed=+11,925`, depreciation 41,140k, ebitda 39,994k, ffo 17,448k.)
+
+**Derived-metric formulas (LOCKED — `_apply_conventions.py` applies them):**
+- `ebit` = **Net Operating Income** (= operating_income). For REITs EBIT is populated with NOI.
+- `depreciation` = P&E depreciation + net FV change of IP (C/F signed).
+- `ebitda` = pretax_income + interest_expense_non_operating + depreciation. (This removes the non-cash
+  fair-value swing, per the SG-REIT EBITDA definition.)
+- `interest_expense_non_operating` = **gross** finance costs (kept as "non_operating" for Gerald's
+  codebase, though economically operating for REITs).
+- `funds_from_operation` = net_income + depreciation − net_property_sales (NAREIT-style: strips the
+  non-cash revaluation and property-sale gains — so FFO legitimately falls **below** net income in a
+  revaluation-gain year and **above** in a loss year; that is correct, not a bug).
+- `capital_expenditure` = sum of **ALL** IP-related investing outflows **including acquisitions** (the
+  July-2026 meeting rule — locked; stored POSITIVE). This is total property investment, not
+  recurring-only capex.
+
+**Scope rules (LOCKED):**
+- `net_property_sales` = gain/(loss) on disposal of **investment property only**. **EXCLUDE**
+  gains from selling a subsidiary or a JV/associate stake (those are not property sales) — keep them in
+  `line_items` as signed adjustments, not in `net_property_sales`. (Fixed C38U FY2025 26→0, A17U FY2025
+  removed subsidiary gain 3,538.)
+- `net_cash_flow` = the "Net increase/(decrease) in cash and cash equivalents" **subtotal, BEFORE** the
+  "effects of exchange-rate fluctuations on cash held" line (do not fold FX into it). (Fixed T82U FY2025.)
+- `unitholders` = total return attributable to **ordinary unitholders only** = (total return
+  attributable to unitholders + perpetual holders + NCI) − perpetual − NCI. Never *add* the perpetual
+  return.
+- `basic_/diluted_shares_outstanding` = weighted-average units from the **Earnings-Per-Unit note**. If
+  the note states "diluted = basic, no dilutive instruments," set diluted = basic. Do not compute.
+
+**Reconciliation self-checks (already gated):** `Σrevenue − Σexpense + Σadjustment(signed)` =
+Total return for the year = `net_income`; `total_revenue` = `performance.gross_revenue`;
+`net_property_income` = `financial.gross_income`.

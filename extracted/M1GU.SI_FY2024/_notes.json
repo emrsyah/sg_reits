@@ -1,0 +1,94 @@
+{
+  "trust_overview": {
+    "name_at_report": "Sabana Industrial REIT",
+    "later_name": "Alpha Integrated REIT (renamed 23 Oct 2025)",
+    "note": "FY2024 report filed as Sabana Industrial Real Estate Investment Trust. During FY2024 the Manager (Sabana Real Estate Investment Management Pte. Ltd.) was an interim manager following the 7 Aug 2023 EGM resolution to internalise; three EGMs convened Mar/Aug/Oct 2024. Internalisation completed post-FY (first internalised SGX REIT). Property Manager = Sabana Property Management Pte. Ltd. (100% owned by SIP via the Manager). Currency SGD. Source p4, p13, p6.",
+    "fiscal_year_end": "31 December",
+    "currency": "SGD"
+  },
+  "data_with_no_home": [
+    "Portfolio: 183 tenants across 14 trade sectors as at 31 Dec 2024 (p20/p21)",
+    "Tenant retention rate 87.9% FY2024 (p14); WALE by GRI 2.6 years; weighted average unexpired land lease term 26.4 years by GFA (p14)",
+    "Total borrowings S$353.0m; 73.7% fixed rate; 100% unencumbered; undrawn facilities ~S$22.0m; cash S$18.5m (p9)",
+    "Income available for distribution per unit 3.15 cents; declared DPU 2.86 cents after ~10% retention (p6)",
+    "In Jun 2024 issued S$100.0m 5-year 4.15% senior unsecured Sustainability-Linked Guaranteed Bonds due 2029 (first SGD CGIF-guaranteed) (p9)",
+    "Investment properties total carrying S$992,929k = Fair value 915,900k + Right-of-use assets 77,029k (Portfolio Statement p130-133)"
+  ],
+  "columns_never_fillable": [
+    {
+      "column": "properties.net_property_income",
+      "reason": "Per-property NPI not disclosed; only portfolio-level NPI (p6) and operating segments. Property-level discloses only gross rental income (p45-50)."
+    },
+    {
+      "column": "properties.gla / properties.nla",
+      "reason": "Per-property GLA/NLA not disclosed in the property highlight cards; cards give GFA in sq ft only. Portfolio-level NLA disclosed only in aggregate."
+    },
+    {
+      "column": "top_tenants.industry",
+      "reason": "Top-10 tenant table (p21) has no per-tenant trade-sector column; not assigned to avoid unsupported inference. Portfolio trade-sector mix captured separately in trade_mix.json."
+    }
+  ],
+  "reconciliation": {
+    "line_items_recon": "Sum revenue (113,308) - sum expense (89,856: 55,856+17,862+3,241+4,749+379+1+7,768) + sum adjustment signed (148 - 2,306 - 9,339 - 584 = -12,081) = 11,371 = net_income (total return after tax). OK.",
+    "total_return_after_tax": 11371000,
+    "net_income_equals": "Total return for the year after taxation and before distribution (p126)",
+    "sum_property_market_valuation": 915900000,
+    "reported_investment_properties_fair_value": 915900000,
+    "reported_total_investment_properties_carrying": 992929000,
+    "note_carrying_bridge": "Portfolio Statement (p130-133): Investment properties at Fair value 915,900k + Right-of-use assets 77,029k = Total investment properties 992,929k (= SFP Investment properties line). market_valuation per property = the Fair value column, NOT the ROU-inflated carrying figure.",
+    "sum_property_gross_revenue": 72900000,
+    "reported_total_gross_revenue": 72961000,
+    "reported_property_rental_income": 72961000,
+    "reported_full_gross_revenue": 113308000,
+    "note_property_revenue": "Per-property 'Gross Rental Income for FY 2024' figures (p45-50, rounded to $0.1m) sum to S$72.9m, reconciling to Note 13 'Property rental income' S$72.961m — NOT to total gross revenue S$113.308m (which adds S$40.347m other operating income, mainly utilities/service recoveries, not split per property). reported_total_gross_revenue keyed to the property-rental-income basis so the row-level sum reconciles; full audited gross revenue is reported_full_gross_revenue.",
+    "total_revenue_equals_performance_gross_revenue": 113308000,
+    "npi_equals_gross_income": 57452000
+  },
+  "cash_flow_atoms": {
+    "dep_pe": 0,
+    "fv_cf_signed": 9339,
+    "finance_costs": 21103,
+    "capex_sum": 21734,
+    "units": "thousands SGD",
+    "note": "dep_pe: no P&E depreciation line in C/F operating activities (pure-IP REIT). fv_cf_signed: 'Net change in fair value of investment properties' +9,339 in C/F operating (a FY loss added back). finance_costs: gross finance costs 17,862 + finance costs relating to lease liabilities 3,241 = 21,103 (interest_expense_non_operating); finance income 148 NOT netted. capex_sum: Capital expenditure on investment properties 13,755 + Payment of upfront land premium 7,979 = 21,734 (all IP-related investing outflows; interest income received 60 excluded). Source C/F p135."
+  },
+  "derived_metrics_note": "Per REFERENCE.md §6 (LOCKED): ebit = operating_income (NOI) 44,555; depreciation = dep_pe(0)+fv_cf_signed(9,339)=9,339; ebitda = pretax(11,955)+interest(21,103)+depreciation(9,339)=42,397; ffo = net_income(11,371)+depreciation(9,339)-net_property_sales(0)=20,710; capital_expenditure = 21,734 (positive); net_cash_flow = 2,417 (no FX line to strip). net_property_sales = 0 (no investment-property disposals in FY2024).",
+  "parsing_traps": [
+    "p20 'Asset Type by Gross Revenue/Valuation/NLA' is an asset-type mix (High-tech/Warehouse/General/Chemical), NOT tenant trade-mix. True trade_mix = 'Trade Sectors by Gross Rental Income' table p21.",
+    "Property valuations on the highlight cards (p45-50) are in $ million (marketing); market_valuation uses the audited Consolidated Portfolio Statement Fair value column $'000 (p130-133), which equals the cards x1000.",
+    "Two master-tenanted properties repossessed in FY2024: 33/33A&35 Penjuru Lane (Mar 2024, re-let to 73.7%) and 30 & 32 Tuas Avenue 8 (Jun 2024, occupancy 0.0% at year-end).",
+    "Statistics of Unitholdings dated 20 Feb 2025 (post FY-end) — expected; number_of_unitholders = 9,608, units 1,125,055,242.",
+    "Weighted average number of Units (EPU Note 18, p166) = 1,122,191k; differs from units-in-issue at year-end 1,125,055k (DRP issuance during year)."
+  ],
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "all 18 rows",
+      "value": "month-end of the disclosed land-lease expiry month",
+      "basis": "FY2024 cards disclose land lease expiry as year + 'term wef commencement date'. lease_expiry_date carried as the month-end consistent with the same land leases disclosed to month precision in the FY2025 report (identical portfolio, unchanged leases); year matches the FY2024 card year in every case.",
+      "source_page": 45
+    },
+    {
+      "table": "properties",
+      "field": "category",
+      "scope": "High-tech industrial rows",
+      "value": "Specialized",
+      "basis": "Disclosed asset type 'High-tech industrial' mapped to canonical 'Specialized' per PROPERTY_CATEGORY_ALIASES (Hi-Tech Buildings -> Specialized). 'Chemical warehouse & logistics', 'Warehouse & logistics', 'General industrial' -> 'Industrial & Logistics'.",
+      "source_page": 130
+    },
+    {
+      "table": "properties",
+      "field": "purchase_price / purchase_date",
+      "scope": "all rows",
+      "value": "carried from acquisition disclosures",
+      "basis": "Purchase consideration ($m) matches the FY2024 highlight cards; purchase_date carried from the trust's disclosed acquisition dates (identical assets, unchanged from FY2025 extraction)."
+    }
+  ],
+  "flags": [
+    {
+      "type": "distribution_retention",
+      "note": "~10% of income available for distribution retained for internalisation-related capital management. distribution_paid = declared amount S$32,177k; net_distributable_income = income available for distribution after tax S$35,000k."
+    }
+  ]
+}

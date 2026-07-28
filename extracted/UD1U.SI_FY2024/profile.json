@@ -1,0 +1,18 @@
+{
+  "symbol": "UD1U.SI",
+  "sub_sector": "Diversified",
+  "income_model": "conventional",
+  "source_page": 183,
+  "management": {
+    "reit_manager": [
+      "IREIT Global Group Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Tikehau Capital",
+      "City Developments Limited"
+    ]
+  }
+}

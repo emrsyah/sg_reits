@@ -1,0 +1,30 @@
+{
+  "symbol": "AJBU.SI",
+  "sub_sector": "Data Centre",
+  "management": {
+    "reit_manager": [
+      "Keppel DC REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "Keppel Ltd."
+    ],
+    "property_manager": [
+      "Keppel DC Singapore 1 Ltd.",
+      "Keppel DC Singapore 2 Pte. Ltd.",
+      "Keppel DCS3 Services Pte. Ltd.",
+      "iseek-KDC Services Pty Limited",
+      "Jones Lang LaSalle K.K.",
+      "Basis Bay Services MSC Sdn Bhd",
+      "FRIS Investment Care B.V.",
+      "NL Asset Management B.V."
+    ],
+    "master_lessee": [
+      "Guangdong Bluesea Data Development Co., Ltd"
+    ]
+  },
+  "income_model": "mixed",
+  "source_page": 12
+}

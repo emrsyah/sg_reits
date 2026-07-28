@@ -1,67 +1,68 @@
 {
   "symbol": "ME8U.SI",
   "financial_year": 2024,
-  "portfolio_value": 8802200000,
-  "properties_location": "Singapore; United States; Canada; Japan",
-  "gross_revenue": 697332000,
-  "net_property_income": 521043000,
-  "net_distributable_income": 375069000,
-  "distribution_paid": 374273000,
+  "portfolio_value": 9144300000,
+  "properties_location": "Singapore; United States; Japan",
+  "gross_revenue": 711833000,
+  "net_property_income": 531460000,
+  "net_distributable_income": 388110000,
+  "distribution_paid": 385979000,
   "adjusted_distributable_income": null,
-  "distribution_basis": "disclosed_after_retention",
-  "dpu": 13.43,
+  "dpu": 13.57,
   "distribution_record": [
     {
-      "period": "01 Apr 2023 to 30 Jun 2023",
-      "dpu": 3.39,
+      "period": "01 Apr 2024 to 30 Jun 2024",
+      "dpu": 3.43,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "01 Jul 2023 to 30 Sep 2023",
-      "dpu": 3.32,
+      "period": "01 Jul 2024 to 30 Sep 2024",
+      "dpu": 3.37,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "01 Oct 2023 to 31 Dec 2023",
-      "dpu": 3.36,
+      "period": "01 Oct 2024 to 31 Dec 2024",
+      "dpu": 3.41,
       "ex_date": null,
       "pay_date": null
     },
     {
-      "period": "01 Jan 2024 to 31 Mar 2024",
+      "period": "01 Jan 2025 to 31 Mar 2025",
       "dpu": 3.36,
       "ex_date": null,
       "pay_date": null
     }
   ],
-  "number_of_unitholders": 42552,
-  "number_of_shareholder_units": 2834670000,
-  "aggregate_leverage": 38.7,
+  "number_of_unitholders": 44969,
+  "aggregate_leverage": 40.1,
   "interest_coverage_ratio": 4.3,
-  "cost_of_debt": 3.2,
-  "weighted_avg_debt_maturity": 3.8,
-  "nav_per_unit": 1.76,
+  "cost_of_debt": 3.1,
+  "weighted_avg_debt_maturity": 3.2,
+  "nav_per_unit": 1.71,
   "wale": 4.4,
-  "portfolio_occupancy": 92.6,
-  "dpu_period_months": 12,
+  "portfolio_occupancy": 92.1,
   "currency": "SGD",
-  "date": "2024-03-31",
-  "source_page": 11,
+  "date": "2025-03-31",
   "flags": [
-    "FYE 31 Mar 2024 (FY23/24). portfolio_value=8,906,300,000 = AUM incl JV interests (audited Group IP=7,847,851,000). interest_coverage_ratio=4.3 = adjusted-ICR basis (FY-ICR headline 4.6x); mirrors FY2025 adjusted basis. NDI=375,069 (amount available for distribution, before retention); distribution_paid=374,273 = Total Unitholders' distribution incl capital (Note B). 4Q FY23/24 (3.36c) declared after FYE. wale 4.4y by GRI; portfolio_occupancy 92.6% avg overall FY23/24. Big non-cash FV loss on IP (-210,826) depresses net_income/EPU.",
-    "round2 fix: properties_location adds Canada (6800 Millcreek Drive, Mississauga ON) — matches properties.json country=Canada.",
-    "round2 inference-flag: top_tenants.industry assigned from disclosed asset Category (Data Centres/Hi-Tech Buildings), not a disclosed tenant business-sector column - inferred.",
-    "round2 fix: portfolio_value=8,802,200,000 = total valuation of the 140-property portfolio INCL equity-accounted JV-held data centres (p32/p79; _notes labels this the portfolio valuation). Sigma properties.market_valuation 7,743,797,000 is the CONSOLIDATED investment-property total only (JV DCs are equity-accounted, not separate property rows). Was 8,906,300,000 (AUM incl JV interests + cash).",
+    {
+      "type": "dpu_4q_estimated",
+      "scope": "distribution_record[3]",
+      "note": "4Q FY24/25 DPU of 3.36 cents derived from full-year 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41); 4Q is declared after FY-end. Full-year DPU 13.57 is as-disclosed."
+    },
     {
       "type": "distribution_rollforward_basis",
       "scope": "distributable_income_closing",
-      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by -5391000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Group-column figures from the audited Distribution Statement (page 121; Note A/B breakdown page 122). A=95,141k opening, B=375,069k for-year 'Amount available for distribution' (profit 111,036 + non-tax/other adjustments Note A 232,190 + JV cash distribution declared 31,843; verified this line does NOT include the opening carry, so it is the correct for-year subtotal and matches existing performan"
+      "note": "Rollforward guard (opening+NDI-cash_paid vs closing) differs by -13354000 (raw); this is a DISCLOSED reconciling line (retention / capital or gains distribution / rounding), NOT a misread - values are as-disclosed. Guard A+B-P = 101,328 + 388,110 - 385,455 = 103,983 (thousands) != E 117,337; gap = exactly 13,354. This is NOT a misread. The Distribution Statement (p125) credits an additional separate for-year line 'Distribution of gains from divestment' of 13,354 (capital-gains top-up, incl. Tanglin Halt Cluster net divestment gain) to the distributable pool. Full audited identity holds exactly: A + B + 13,35"
     }
   ],
-  "distributable_income_opening": 95141000,
-  "distribution_cash_paid": 374273000,
-  "distributable_income_closing": 101328000,
-  "distribution_pool_other_movements": 5391000
+  "source_page": 11,
+  "distribution_basis": "disclosed_after_retention",
+  "number_of_shareholder_units": 2850935273,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 101328000,
+  "distribution_cash_paid": 385455000,
+  "distributable_income_closing": 117337000,
+  "distribution_pool_other_movements": 13354000
 }

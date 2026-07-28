@@ -1,0 +1,48 @@
+[
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "transaction_type": "divestment",
+    "status": "completed",
+    "property_name": "Lippo Plaza",
+    "deal_id": "TS0U.SI:lippo_plaza:divestment:2024",
+    "transaction_date": "2024-12-27",
+    "announced_date": "2024-12-20",
+    "completed_date": "2024-12-27",
+    "purchase_price": null,
+    "sale_price": 357382000,
+    "sale_price_currency": "SGD",
+    "sale_price_basis": "Total sales consideration RMB1,916,925,000 (~S$357,382,000) for 100% of Lippo Realty (Shanghai) Limited (via indirect wholly-owned subsidiary Tecwell Pte. Ltd.)",
+    "net_sale_proceeds": null,
+    "carrying_value": 311136000,
+    "carrying_value_basis": "Investment property carrying amount disposed (S$'000). Net asset disposed S$325,240k.",
+    "gain_on_divestment": null,
+    "gain_loss_pct": null,
+    "gain_basis": null,
+    "gain_note": "Statements of Total Return recorded a S$26,427k loss on disposal of the subsidiary, driven by recycling of S$54,614k FX translation reserve and S$32,323k disposal withholding tax; not a clean property-level gain/loss.",
+    "valuation": 329800000,
+    "valuation_date": "2024-12-18",
+    "valuation_basis": "Independent valuation by Savills (Guangzhou) as of 18 Dec 2024: RMB1,769.0m (~S$329.8m). Agreed property value RMB1,680.0m (~S$313.2m).",
+    "interest_pct": 100.0,
+    "counterparty": "Unrelated third-party purchaser",
+    "currency": "SGD",
+    "source_type": "annual_report",
+    "announcement_refs": [
+      {
+        "stage": "plan",
+        "date": "2024-12-20",
+        "url": null,
+        "ref": null,
+        "sub_title": "Announced divestment of Lippo Realty (Shanghai) Limited"
+      },
+      {
+        "stage": "completion",
+        "date": "2024-12-27",
+        "url": null,
+        "ref": null,
+        "sub_title": "Completion of divestment"
+      }
+    ],
+    "source_page": 181
+  }
+]

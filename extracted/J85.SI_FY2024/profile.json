@@ -1,0 +1,24 @@
+{
+  "symbol": "J85.SI",
+  "sub_sector": "Hospitality",
+  "management": {
+    "reit_manager": [
+      "M&C REIT Management Limited",
+      "M&C Business Trust Management Limited"
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "Millennium & Copthorne Hotels Limited (M&C)"
+    ],
+    "master_lessee": [
+      "Republic Hotels & Resorts Limited",
+      "City Hotels Pte. Ltd.",
+      "Harbour View Hotel Pte. Ltd.",
+      "CDL Hospitality Business Trust (HBT Group)"
+    ]
+  },
+  "income_model": "fri",
+  "source_page": 6
+}

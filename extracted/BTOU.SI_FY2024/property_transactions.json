@@ -1,0 +1,34 @@
+[
+  {
+    "symbol": "BTOU.SI", "financial_year": 2024, "type": "divestment",
+    "property_name": "Capitol", "location": "Sacramento, California",
+    "completion_date": "2024-10-28", "net_consideration_usd": 110000000.0,
+    "gross_valuation_usd": 118000000.0, "gross_sale_price": 110000000.0, "gross_sale_price_currency": "USD",
+    "buyer": "400 CM OWNER, LLC", "currency": "USD",
+    "carrying_value": 111129000.0,
+    "carrying_value_basis": "Note 6 investment-property movement (p166): 'Disposal of investment properties (111,129)' for 2024 = Capitol's carrying amount (the only completed IP disposal in FY2024). Net cash proceeds US$107,801k (Consolidated Statement of Cash Flows p151).",
+    "source_page": 27, "deal_id": "btou.si:capitol:divestment:2024",
+    "completed_date": "2024-10-28",
+    "valuation_date": "2024-09-01", "source_type": "annual_report",
+    "sale_price": 110000000, "valuation": 118000000, "net_sale_proceeds": 107801000,
+    "counterparty": "400 CM OWNER, LLC", "transaction_type": "divestment",
+    "transaction_date": "2024-10-28", "announcement_refs": null,
+    "gain_on_divestment_basis": "DERIVED & FLAGGED (not disclosed per property). Net consideration US$110m vs independent valuation US$118.0m (CBRE, Inc. income capitalisation approach as at 1 September 2024, divestments table FN3 p27) = -6.78%. vs carrying US$111,129k (net proceeds 107,801/carrying 111,129) = -2.99%. Accounting loss on disposal of investment properties is disclosed only in aggregate (US$1.618m loss, Consolidated Statement of Comprehensive Income p147), not split per property. A divestment fee of US$0.6m was payable to the Manager for Capitol (Note 1(a) p154)."
+  },
+  {
+    "symbol": "BTOU.SI", "financial_year": 2024, "type": "divestment",
+    "property_name": "Plaza", "location": "Secaucus, New Jersey",
+    "completion_date": "2025-02-25", "net_consideration_usd": 40000000.0,
+    "gross_valuation_usd": 43700000.0, "gross_sale_price": 40000000.0, "gross_sale_price_currency": "USD",
+    "buyer": "500 Plaza Ground Lessor LLC", "currency": "USD",
+    "carrying_value": 43700000.0,
+    "carrying_value_basis": "Reclassified to asset held for sale at 31 December 2024 at carrying amount US$43,700k (Note 6 'Reclassification to asset held for sale (43,700)' p166; Statements of Financial Position p146).",
+    "source_page": 27, "deal_id": "btou.si:plaza:divestment:2025",
+    "announced_date": "2025-02-20", "completed_date": "2025-02-25",
+    "valuation_date": "2024-12-31", "source_type": "annual_report",
+    "sale_price": 40000000, "valuation": 43700000, "net_sale_proceeds": 40000000,
+    "counterparty": "500 Plaza Ground Lessor LLC", "transaction_type": "divestment",
+    "transaction_date": "2025-02-25", "announcement_refs": null,
+    "gain_on_divestment_basis": "SUBSEQUENT EVENT disclosed in the FY2024 report: divestment announced 20 February 2025, completed 25 February 2025 (U.S. time). Net consideration US$40m vs independent valuation US$43.7m (Cushman & Wakefield of New Jersey, LLC as at 31 December 2024, divestments table FN4 p27) = -8.47%. Plaza was held for sale at year-end so it has no FY2024 disposal in the audited FS."
+  }
+]

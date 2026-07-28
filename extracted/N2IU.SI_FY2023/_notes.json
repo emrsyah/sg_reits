@@ -1,0 +1,108 @@
+{
+  "symbol": "N2IU.SI",
+  "financial_year": 2023,
+  "source": "parsed_reports_datalab/29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2024/full.md",
+  "scope": "properties.json and property_transactions.json only",
+  "valuation_reconciliation": {
+    "audited_portfolio_statement_pages": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159
+    ],
+    "audited_rows_count": 18,
+    "audited_market_valuation_sum_sgd": 16248855000,
+    "audited_reported_total_sgd": 16248855000,
+    "difference_sgd": 0,
+    "headline_portfolio_value_including_tpg_sgd": 16499500000,
+    "tpg_value_added_sgd": 250600000,
+    "headline_difference_sgd": -45000,
+    "explanation": "18 audited Portfolio Statement investment-property rows sum exactly to S$16,248,855,000 (p159). The Pinnacle Gangnam is not in those audited rows; it is included as an extra FY2025-convention equity-accounted JV record from p36/p47, bringing the property file sum to S$16,499,455,000, S$45,000 below the reported S$16,499.5m headline due to p36/p47 million rounding."
+  },
+  "property_row_basis": {
+    "rows_written": 19,
+    "audited_investment_property_rows": 18,
+    "extra_equity_accounted_jv_rows": [
+      "The Pinnacle Gangnam"
+    ],
+    "rationale": "Report headline says 18 commercial assets because MBC is counted as one and TPG is counted as one; audited Portfolio Statement splits MBC I/MBC II and omits TPG. FY2025 N2IU extraction convention includes TPG as a clearly flagged extra property record."
+  },
+  "transactions_rationale": {
+    "rows_written": 1,
+    "included": [
+      "Mapletree Anson announced divestment"
+    ],
+    "rationale": "The annual report discloses enough source-grounded post-year facts on p16 (consideration, expected completion, net proceeds, valuation premium, original purchase price footnote). It was not completed during FY2024: p150 cash flows show no investment-property disposal proceeds and p187 Note 14 has no disposal line for FY2024."
+  },
+  "null_recovery_sweep": {
+    "date": "2026-07-07",
+    "scope": "FY2024 disclosed-but-null recovery per QA vs prod under-capture review.",
+    "anchor_pages_checked": {
+      "per_property_gross_revenue_occupancy_valuation": "audited Portfolio Statement p154-159",
+      "per_property_net_property_income": "Note 31 Segment Reporting p220 (geographical, MBC grouped) + Properties at a Glance property cards p46-49",
+      "opex_and_revenue_category_breakdown": "Notes 3 & 4 p177 (by category, not by property)",
+      "lease_tenure_purchase": "Portfolio Statement p154-158 + Properties at a Glance cards p46-49",
+      "mbc_composition": "MBC property overview p54 (building composition, no per-property area/NPI split)"
+    },
+    "recovered": [
+      "effective_date (land-lease commencement) for the 6 Singapore leaseholds — VivoCity/mTower/BOAHF/MBC II 1997-10-01, MBC I 2016-08-25, Mapletree Anson 2007-10-22 — from Title disclosure on the Properties at a Glance cards p46/p47 (and MBC I strata-lease footnote 3 p158). Consistent with disclosed 99-year terms and existing lease_expiry_date."
+    ],
+    "confirmed_already_captured": [
+      "Per-property gross_revenue, occupancy_rate and market_valuation for all 18 audited rows (incl. MBC I 132,614 / MBC II 101,406 $'000) from Portfolio Statement p155-159.",
+      "Per-property net_property_income for every property that discloses it individually (VivoCity, mTower, Mapletree Anson, BOAHF, Festival Walk, Gateway Plaza, Sandhill Plaza, all 9 Japan properties, TPG) from property cards p46-49, in per-figure local currency where disclosed (HKD/CNY/JPY/KRW).",
+      "nla, land_tenure, lease_term_years, lease_expiry_date, purchase_price, purchase_date where disclosed."
+    ]
+  },
+  "jv_income_recovery": {
+    "date": "2026-07-07",
+    "scope": "Equity-accounted JV/associate attributable property income recovery for FY2024.",
+    "equity_accounted_rows": [
+      {
+        "property": "The Pinnacle Gangnam",
+        "ownership_pct": 50,
+        "structure": "Equity-accounted joint venture (Note 18 p194); MPACT holds 50% effective interest. Not in audited Investment Properties Portfolio Statement p154-159.",
+        "audited_segment_note": "Note 31 Segment Reporting p220: TPG (Korea) column shows gross revenue '-', property operating expenses '-', segment net property income '-'. The only income metric the audited financials disclose for TPG is 'Share of profit of a joint venture' S$6,380k (FY2024; S$9,425k FY2023) - a post-tax equity-accounted profit share, NOT net property income. Note 18 p194 states the JV is not individually material, so no summarised JV financials are presented.",
+        "attributable_npi_disclosed": true,
+        "net_property_income": "KRW 9,119.9M = 9,119,900,000 (KRW), 50% effective-interest attributable basis",
+        "gross_revenue": "KRW 11,901.5M = 11,901,500,000 (KRW), 50% effective-interest attributable basis",
+        "source_page": 65,
+        "source_detail": "TPG property card p65 lines labelled NET PROPERTY INCOME / GROSS REVENUE (footnote 1 'Based on MPACT's 50% effective interest'); corroborated in SGD by Financial Review contribution tables p37 (S$9.3M NPI / S$12.1M GR).",
+        "basis_flag": "attributable_basis_income flag added to the row; figures are 50% effective-interest, NOT 100%-of-property, and are not audited. NLA 478,461 sq ft is on a 100% basis (card footnote 2).",
+        "result": "net_property_income and gross_revenue FILLED (both were already correctly captured from p65 in prior sweep; this pass confirmed against audited Note 31/Note 18 and hardened the attributable-basis flag)."
+      }
+    ]
+  },
+  "columns_never_fillable": [
+    {
+      "field": "net_property_income for MBC I/MBC II",
+      "evidence": "NPI is disclosed only combined for MBC: Note 31 Segment Reporting p220 groups MBC I+II as one 'MBC' column (NPI S$186,000k), Properties at a Glance p46 gives one combined S$186.0m, and the audited Portfolio Statement p154-155 (which DOES split MBC I/MBC II gross revenue and valuation) carries NO NPI column at all. Notes 3/4 p177 break out revenue/opex by category, not property. Property operating expenses are disclosed only combined for MBC (segment note), so no source-grounded per-property NPI split exists; not computed/imputed."
+    },
+    {
+      "field": "nla for MBC I/MBC II",
+      "evidence": "Lettable area disclosed only combined: Properties at a Glance p46 gives one 2,888,738 sq ft figure and MBC overview p54 describes MBC I (one office tower + three BP blocks) and MBC II (four BP blocks + common premises) qualitatively with no per-property square footage. No source-grounded split."
+    },
+    {
+      "field": "purchase_price / purchase_date for VivoCity",
+      "evidence": "Properties at a Glance p46 states N.A.; footnote 3 (p46) and Portfolio Statement footnote 2 (p158) say VivoCity was owned by MPACT prior to Listing Date."
+    },
+    {
+      "field": "lease_term_years / lease_expiry_date for the 9 Japan freehold properties and The Pinnacle Gangnam",
+      "evidence": "Portfolio Statement p156/p158 shows tenure '–' and Properties at a Glance p47-p49 disclose Freehold; lease term/expiry not applicable."
+    },
+    {
+      "field": "effective_date for Festival Walk, Gateway Plaza, Sandhill Plaza",
+      "evidence": "Portfolio Statement p156-157 and Properties at a Glance p47 disclose only the lease EXPIRY ('Leasehold up to 30 June 2047 / 25 February 2053 / 3 February 2060'); no lease commencement date is printed, so land-lease start cannot be recovered without imputation."
+    },
+    {
+      "field": "counterparty for FY2024 Mapletree Anson announced divestment",
+      "evidence": "Letter to Unitholders p15-16 and Highlights p19 disclose the transaction economics (S$775.0m consideration, S$10.0m gain over valuation, S$95.0m premium to acquisition price, ~S$762m net proceeds, July 2024 completion) but do not name the buyer; FY2025 names the buyer after completion but FY2025 was not used as FY2024 source data."
+    }
+  ],
+  "parsing_traps": [
+    "Do not use p36/p47 marketing valuation in place of audited Portfolio Statement values for the 18 investment-property rows; p154-159 are $'000 and were rescaled x1000.",
+    "The Pinnacle Gangnam is included only as a flagged equity-accounted JV convention row; it is not part of the audited investment-properties total.",
+    "Mapletree Anson remains active at 31 Mar 2024 in FY2024 properties; the divestment was announced after year-end and expected to complete in July 2024."
+  ]
+}

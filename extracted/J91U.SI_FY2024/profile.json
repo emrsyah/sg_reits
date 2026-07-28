@@ -1,0 +1,17 @@
+{
+  "symbol": "J91U.SI",
+  "sub_sector": "Industrial",
+  "management": {
+    "reit_manager": [
+      "ESR-REIT Management (S) Limited"
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "ESR Group Limited"
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 2
+}

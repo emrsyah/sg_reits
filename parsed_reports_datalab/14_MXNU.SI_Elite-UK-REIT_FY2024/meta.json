@@ -1,0 +1,14 @@
+{
+  "file": "14_MXNU.SI_Elite-UK-REIT_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 195,
+  "pages_written": 195,
+  "seconds": 48.7,
+  "parse_quality_score": null,
+  "runtime": 42.33186197280884,
+  "cost_breakdown": {
+    "final_cost_cents": 59.0
+  },
+  "checkpoint_id": "checkpoint_2QXsA5e--rQo3fOqF4e0RwbicwU_qugqBcVyY4598JM",
+  "page_range": null
+}

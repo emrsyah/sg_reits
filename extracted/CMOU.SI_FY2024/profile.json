@@ -1,0 +1,21 @@
+{
+  "symbol": "CMOU.SI",
+  "sub_sector": "Office",
+  "management": {
+    "reit_manager": [
+      "Keppel Pacific Oak US REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "Perpetual (Asia) Limited"
+    ],
+    "sponsor": [
+      "Keppel Ltd.",
+      "KORE Pacific Advisors Pte. Ltd."
+    ],
+    "operator": [
+      "Pacific Oak Capital Advisors LLC"
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 100
+}

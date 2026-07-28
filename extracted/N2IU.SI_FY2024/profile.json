@@ -1,8 +1,6 @@
 {
   "symbol": "N2IU.SI",
   "sub_sector": "Diversified",
-  "income_model": "conventional",
-  "source_page": 231,
   "management": {
     "reit_manager": [
       "MPACT Management Ltd."
@@ -10,14 +8,16 @@
     "trustee": [
       "DBS Trustee Limited"
     ],
-    "property_manager": [
-      "MPACT Property Management Pte. Ltd.",
-      "Mapletree North Asia Property Management Limited",
-      "Mapletree Management Services Japan Kabushiki Kaisha",
-      "Mapletree Korea Management Co., Ltd."
-    ],
     "sponsor": [
       "Mapletree Investments Pte Ltd"
+    ],
+    "property_manager": [
+      "MPACT Property Management Pte. Ltd. (MPMPL)",
+      "Mapletree North Asia Property Management Limited (MNAPML)",
+      "Mapletree Management Services Japan Kabushiki Kaisha (MMSJ)",
+      "Mapletree Korea Management Co., Ltd. (MKM)"
     ]
-  }
+  },
+  "income_model": "conventional",
+  "source_page": 22
 }

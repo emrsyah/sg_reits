@@ -1,0 +1,177 @@
+{
+  "symbol": "M1GU.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "source_page": 126,
+  "income_stmt_metrics": {
+    "total_revenue": 113308000,
+    "cost_of_revenue": 55856000,
+    "gross_income": 57452000,
+    "operating_income": 44555000,
+    "operating_expense": 12897000,
+    "ebit": 44555000.0,
+    "ebitda": 42397000.0,
+    "pretax_income": 11955000,
+    "income_taxes": 584000,
+    "net_income": 11371000,
+    "non_operating_income_or_loss": -32600000,
+    "interest_expense_non_operating": 21103000.0,
+    "weighted_avg_shares_basic": 1122191000,
+    "diluted_shares_outstanding": 1122191000,
+    "net_property_sales": 0,
+    "funds_from_operation": 20710000.0,
+    "unitholders": 11371000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {
+        "category": "Property rental income",
+        "amount": 72961000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Other operating income",
+        "amount": 40347000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Manager's fees",
+        "amount": 4749000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fees",
+        "amount": 379000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Donation",
+        "amount": 1000,
+        "class": "Other expenses"
+      },
+      {
+        "category": "Other trust expenses",
+        "amount": 7768000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "funds_from_operation",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 9339000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 1024577000,
+    "total_equity": 564900000,
+    "total_liabilities": 459677000,
+    "working_capital": 2407000,
+    "total_current_asset": 31648000,
+    "total_non_current_asset": 992929000,
+    "total_current_liabilities": 29241000,
+    "total_non_current_liabilities": 430436000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 35546000,
+    "investing_cash_flow": -21674000,
+    "financing_cash_flow": -11455000,
+    "net_cash_flow": 2417000,
+    "free_cash_flow": 13812000.0,
+    "capital_expenditure": 21734000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 113308000,
+      "label_raw": "Gross revenue",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 55856000,
+      "label_raw": "Property expenses",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 17862000,
+      "label_raw": "Finance costs",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs_lease_liabilities",
+      "amount": 3241000,
+      "label_raw": "Finance costs relating to lease liabilities",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 4749000,
+      "label_raw": "Manager's fees",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 379000,
+      "label_raw": "Trustee's fees",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "donation",
+      "amount": 1000,
+      "label_raw": "Donation",
+      "source_page": 126
+    },
+    {
+      "statement": "expense",
+      "component": "other_trust_expenses",
+      "amount": 7768000,
+      "label_raw": "Other trust expenses",
+      "source_page": 126
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 148000,
+      "label_raw": "Finance income",
+      "source_page": 126
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_derivatives",
+      "amount": -2306000,
+      "label_raw": "Net change in fair value of financial derivatives",
+      "source_page": 126
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -9339000,
+      "label_raw": "Net change in fair value of investment properties",
+      "source_page": 126
+    },
+    {
+      "statement": "adjustment",
+      "component": "income_taxes",
+      "amount": -584000,
+      "label_raw": "Tax expense",
+      "source_page": 126
+    }
+  ]
+}

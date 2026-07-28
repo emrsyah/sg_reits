@@ -1,0 +1,38 @@
+{
+  "symbol": "Q5T.SI",
+  "financial_year": 2024,
+  "portfolio_value": 2515500000.0,
+  "properties_location": "Singapore",
+  "gross_revenue": 108706000.0,
+  "net_property_income": 99337000.0,
+  "net_distributable_income": 66587000.0,
+  "distributable_income_opening": 49059000.0,
+  "distribution_cash_paid": 82964000.0,
+  "distributable_income_closing": 48803000.0,
+  "distribution_pool_other_movements": 16121000.0,
+  "distribution_paid": null,
+  "distribution_basis": "not_disclosed_rollforward_only",
+  "dpu": 4.04,
+  "distribution_record": [
+    {"period": "1 Jan 2024 - 30 Jun 2024", "dpu": 1.96},
+    {"period": "1 Jul 2024 - 31 Dec 2024", "dpu": 2.08}
+  ],
+  "dpu_period_months": 12,
+  "number_of_unitholders": 11643,
+  "number_of_shareholder_units": 2014670000.0,
+  "aggregate_leverage": 30.8,
+  "interest_coverage_ratio": 3.0,
+  "cost_of_debt": 4.1,
+  "weighted_avg_debt_maturity": 3.7,
+  "nav_per_unit": 0.9057,
+  "wale": null,
+  "portfolio_occupancy": null,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "flags": [
+    {"type": "distribution_rollforward_basis", "scope": "distribution_pool_other_movements", "note": "Rollforward reconciles with a disclosed 'Distribution of other gains' line of 16,121k (capital-gains top-up from Central Square divestment) sitting between income-available-for-year and the distributions-paid rows: opening 49,059 + NDI 66,587 + other 16,121 - cash_paid 82,964 = closing 48,803."},
+    {"type": "portfolio_occupancy_not_disclosed", "scope": "portfolio_occupancy", "note": "Master-lease hospitality trust: no single portfolio committed-occupancy figure disclosed. Hotel avg occupancy 81.0%, serviced residence segment separate; revenue is fixed+variable master-lease rent."},
+    {"type": "wale_not_portfolio", "scope": "wale", "note": "Only Commercial Premises segment WALE (1.67 years) disclosed; hotels/serviced residences are on long master leases to sponsor lessees, no portfolio WALE reported."}
+  ],
+  "source_page": 8
+}

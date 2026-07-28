@@ -1,0 +1,175 @@
+# Page map — 33_OXMU.SI_Prime-US-REIT_FY2024
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p3 — This page contains the Corporate Profile for Prime US REIT, detailing its listing date, portfolio composition of 13 freehold office properties in the 
+- **also mentions:**
+    - p15 ['000] — This page presents the **Statement of Total Return** for SGX REIT, reporting US$'000 values that detail gross revenue, property operating expenses, ma
+    - p41 [million] — This page presents economic and office market indicators for San Diego, featuring tables on employment/unemployment rates, vacancy, net absorption, as
+    - p48 [million] — This page presents an independent market review for Suburban Virginia, featuring tables and charts detailing economic indicators, office vacancy rates
+    - p80 — This page features a table titled "Unitholding by Investor Types" reporting the distribution of PRIME's units as at 31 December 2024 across Retail & h
+    - p139 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2024, reporting Group results in US$'00
+    - p169 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents a reconciliation of effective tax expense showing unrecognised de
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+    - p182 ['000] — This page presents Level 3 fair value measurement policies and lease commitment data for the Group, including a table of future minimum payments recei
+    - p184 ['000] — This page presents the Interested Party Transaction table disclosing aggregate fees paid to PRIME's Manager, Trustee, and Sponsor-related entities tot
+
+## performance
+- **MAIN (lead):**
+    - p4 — This page presents high-level portfolio highlights for SGX REIT as of 31 December 2024, featuring a table detailing Cash Rental Income ("CRI") distrib
+    - p5 — This page presents the SGX REIT's key financial highlights as of 31 December 2024, featuring a **Statement of Portfolio (property valuations)** table 
+    - p16 [million] — This page presents the Financial Review for SGX REIT, featuring a table titled "Valuation of Investment Properties (US$m) as at 31 December" listing p
+    - p18 — This page details PRIME's portfolio review as of 31 December 2024, presenting a table of CRI by Primary Markets and another showing Carrying Value by 
+    - p19 ['000] — This page presents the audited Portfolio Statement detailing Prime's property valuations, occupancy rates, and lease metrics as of 31 December 2024, r
+    - p29 — This page presents property-level data for two assets, Tower I at Emeryville (74.8% occupancy, US$103.4M carrying value) and Crosspoint (100% occupanc
+    - p31 — This page presents property-specific details for Promenade I & II San Antonio (77.0% occupancy, US$72.3M carrying value, 5.4% contribution) and Waterf
+    - p32 — This page presents the Properties Profile for Reston Square, a 6-storey Class A office building in Suburban Virginia as of December 31, 2024, featurin
+    - p44 — This page presents an independent market review for the Dallas, Texas office sector, featuring key tables and charts on economic indicators, vacancy r
+    - p47 — This page presents economic and office market indicators for the Suburban Maryland region, featuring tables on employment/unemployment rates, vacancy,
+    - p68 — This page presents the Corporate Governance Report detailing Directors' remuneration for FY2024, featuring a table of fixed fees and total fees per di
+    - p83 — This page displays the Table of Contents for the PRIME US REIT FY2024 Sustainability Report, listing sections such as Economic Sustainability and Envi
+    - p102 — This page contains an Environmental Impact section featuring a table and chart comparing waste generation metrics of 1,085 tonnes in FY2023 versus 947
+    - p131 — This page contains a table of contents listing the financial statements and reports for the SGX REIT annual report, including the Independent Auditor'
+    - p140 ['000] — This page presents the Consolidated Distribution Statement for the financial year ended 31 December 2024, reporting distributions made to Unitholders 
+    - p142 ['000] — This page presents the Statement of Changes in Unitholders' Funds for the financial year ended 31 December 2024, reporting unit and earnings data in U
+    - p144 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the financial year ended 31 December 2024, reporting Group cash flows in US$'000. 
+    - p182 ['000] — This page presents Level 3 fair value measurement policies and lease commitment data for the Group, including a table of future minimum payments recei
+    - p185 — This page presents the Statistics of Unitholdings for PRIME as at 14 March 2025, featuring a main table detailing the distribution of unitholdings acr
+    - p186 — This page presents the Statistics of Unitholdings as at 14 March 2025, featuring a Substantial Unitholders' Unitholdings table listing major entities 
+- **also mentions:**
+    - p7 [million] — This page highlights PRIME's 2024 portfolio valuation increase of 2.2% to US$1,352 million alongside operational metrics including a leased occupancy 
+    - p15 ['000] — This page presents the **Statement of Total Return** for SGX REIT, reporting US$'000 values that detail gross revenue, property operating expenses, ma
+    - p23 [million] — This page presents the audited Portfolio Statement (property valuations) detailing five specific properties with their locations, ownership interests,
+    - p30 — This page presents a Properties Profile for two assets, Tower 909 in Dallas and The 101 in St. Louis, as of 31 December 2024, displaying key metrics i
+    - p80 — This page features a table titled "Unitholding by Investor Types" reporting the distribution of PRIME's units as at 31 December 2024 across Retail & h
+    - p82 — This page presents the Investor Relations (IR) Calendar, detailing scheduled events for FY2024 and FY2025 including analyst briefings, corporate prese
+    - p138 ['000] — This page presents the Statements of Financial Position for SGX REIT as at 31 December 2024, reporting Group and Trust assets, liabilities, and net as
+    - p139 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2024, reporting Group results in US$'00
+    - p141 ['000] — This page presents the **Statement of Changes in Unitholders' Funds** for SGX REIT, detailing the year-end balance of 915,190 US$'000 units and retain
+    - p154 — This page presents accounting policy notes regarding revenue recognition, finance expenses, and tax treatment (current and deferred) for the SGX REIT 
+    - p157 ['000] — This page presents the audited Portfolio Statement for Cash and Other Receivables (US$'000) within the Notes to the Financial Statements, detailing Gr
+    - p163 ['000] — This page presents the **Loans and Borrowings** table for SGX REIT, detailing current and non-current debt facilities in US$'000 with maturity dates r
+    - p167 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents three tables reporting gross revenue and property opera
+    - p174 ['000] — This page presents a Liquidity Risk table detailing the Group's and Trust's non-derivative financial liabilities by contractual cash flow maturities (
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+    - p184 ['000] — This page presents the Interested Party Transaction table disclosing aggregate fees paid to PRIME's Manager, Trustee, and Sponsor-related entities tot
+
+## properties
+- **MAIN (lead):**
+    - p5 — This page presents the SGX REIT's key financial highlights as of 31 December 2024, featuring a **Statement of Portfolio (property valuations)** table 
+    - p18 — This page details PRIME's portfolio review as of 31 December 2024, presenting a table of CRI by Primary Markets and another showing Carrying Value by 
+    - p19 ['000] — This page presents the audited Portfolio Statement detailing Prime's property valuations, occupancy rates, and lease metrics as of 31 December 2024, r
+    - p23 [million] — This page presents the audited Portfolio Statement (property valuations) detailing five specific properties with their locations, ownership interests,
+    - p25 [million] — This page presents a **Statement of Portfolio (property valuations)** for four office properties, detailing their primary markets, net lettable areas,
+    - p26 — This page presents a Properties Profile for the SGX REIT portfolio as of 31 December 2024, featuring detailed metrics (occupancy, carrying value, cont
+    - p27 — This page presents property-specific data for two Denver office buildings, Village Center Station I and II, organized into a table displaying Occupanc
+    - p29 — This page presents property-level data for two assets, Tower I at Emeryville (74.8% occupancy, US$103.4M carrying value) and Crosspoint (100% occupanc
+    - p30 — This page presents a Properties Profile for two assets, Tower 909 in Dallas and The 101 in St. Louis, as of 31 December 2024, displaying key metrics i
+    - p31 — This page presents property-specific details for Promenade I & II San Antonio (77.0% occupancy, US$72.3M carrying value, 5.4% contribution) and Waterf
+    - p32 — This page presents the Properties Profile for Reston Square, a 6-storey Class A office building in Suburban Virginia as of December 31, 2024, featurin
+    - p41 [million] — This page presents economic and office market indicators for San Diego, featuring tables on employment/unemployment rates, vacancy, net absorption, as
+    - p44 — This page presents an independent market review for the Dallas, Texas office sector, featuring key tables and charts on economic indicators, vacancy r
+    - p47 — This page presents economic and office market indicators for the Suburban Maryland region, featuring tables on employment/unemployment rates, vacancy,
+    - p48 [million] — This page presents an independent market review for Suburban Virginia, featuring tables and charts detailing economic indicators, office vacancy rates
+    - p68 — This page presents the Corporate Governance Report detailing Directors' remuneration for FY2024, featuring a table of fixed fees and total fees per di
+    - p82 — This page presents the Investor Relations (IR) Calendar, detailing scheduled events for FY2024 and FY2025 including analyst briefings, corporate prese
+    - p83 — This page displays the Table of Contents for the PRIME US REIT FY2024 Sustainability Report, listing sections such as Economic Sustainability and Envi
+    - p102 — This page contains an Environmental Impact section featuring a table and chart comparing waste generation metrics of 1,085 tonnes in FY2023 versus 947
+    - p131 — This page contains a table of contents listing the financial statements and reports for the SGX REIT annual report, including the Independent Auditor'
+    - p145 ['000] — This page presents the **Consolidated Portfolio Statement** for the financial year ended 31 December 2024, detailing fair values and asset percentages
+    - p154 — This page presents accounting policy notes regarding revenue recognition, finance expenses, and tax treatment (current and deferred) for the SGX REIT 
+    - p157 ['000] — This page presents the audited Portfolio Statement for Cash and Other Receivables (US$'000) within the Notes to the Financial Statements, detailing Gr
+    - p160 ['000] — This page presents an audited Portfolio Statement (property valuations) for the Group's investment properties as of 31 December 2024, listing fourteen
+    - p169 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents a reconciliation of effective tax expense showing unrecognised de
+    - p178 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents a continuation of Note 22 on Fair Value of Assets and L
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+    - p182 ['000] — This page presents Level 3 fair value measurement policies and lease commitment data for the Group, including a table of future minimum payments recei
+- **also mentions:**
+    - p3 — This page contains the Corporate Profile for Prime US REIT, detailing its listing date, portfolio composition of 13 freehold office properties in the 
+    - p7 [million] — This page highlights PRIME's 2024 portfolio valuation increase of 2.2% to US$1,352 million alongside operational metrics including a leased occupancy 
+    - p16 [million] — This page presents the Financial Review for SGX REIT, featuring a table titled "Valuation of Investment Properties (US$m) as at 31 December" listing p
+    - p24 [million] — This page presents the "PROPERTIES PROFILE" table as of 31 December 2024, detailing five specific assets with metrics including Net Lettable Area, Pur
+    - p139 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2024, reporting Group results in US$'00
+    - p143 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 December 2024, reporting Group operating cash flow before 
+    - p150 — This page contains no schema-relevant data, as it presents accounting policy notes regarding subsidiaries, foreign currency translation, and investmen
+    - p159 ['000] — This page presents the Consolidated Statement of Financial Position and Consolidated Statement of Comprehensive Income for Investment Properties, repo
+    - p163 ['000] — This page presents the **Loans and Borrowings** table for SGX REIT, detailing current and non-current debt facilities in US$'000 with maturity dates r
+    - p179 ['000] — This page presents the **Fair Value of Assets and Liabilities** table for SGX REIT's financial year ended 31 December 2024, reporting investment prope
+    - p180 — This page contains the Level 3 fair value measurement notes for investment properties, stating that as of 31 December 2024, the Group's fair value was
+
+## top_tenants
+- **MAIN (lead):**
+    - p20 ['000] — This page presents a **Top-N tenants/customers table** listing the top 10 tenants with their industry, property, leased area (sq ft), and percentage o
+    - p21 — This page presents the Top 10 Tenants table, detailing PRIME's largest tenants as of 31 December 2024 and their respective contributions to the portfo
+    - p69 ['000] — This page presents a Top-N tenants/customers table (specifically the Remuneration Band and Names of CEO and KMP table) detailing the fixed salary, var
+    - p169 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents a reconciliation of effective tax expense showing unrecognised de
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+    - p182 ['000] — This page presents Level 3 fair value measurement policies and lease commitment data for the Group, including a table of future minimum payments recei
+    - p185 — This page presents the Statistics of Unitholdings for PRIME as at 14 March 2025, featuring a main table detailing the distribution of unitholdings acr
+- **also mentions:**
+    - p18 — This page details PRIME's portfolio review as of 31 December 2024, presenting a table of CRI by Primary Markets and another showing Carrying Value by 
+    - p23 [million] — This page presents the audited Portfolio Statement (property valuations) detailing five specific properties with their locations, ownership interests,
+    - p25 [million] — This page presents a **Statement of Portfolio (property valuations)** for four office properties, detailing their primary markets, net lettable areas,
+    - p26 — This page presents a Properties Profile for the SGX REIT portfolio as of 31 December 2024, featuring detailed metrics (occupancy, carrying value, cont
+    - p27 — This page presents property-specific data for two Denver office buildings, Village Center Station I and II, organized into a table displaying Occupanc
+    - p29 — This page presents property-level data for two assets, Tower I at Emeryville (74.8% occupancy, US$103.4M carrying value) and Crosspoint (100% occupanc
+    - p30 — This page presents a Properties Profile for two assets, Tower 909 in Dallas and The 101 in St. Louis, as of 31 December 2024, displaying key metrics i
+    - p31 — This page presents property-specific details for Promenade I & II San Antonio (77.0% occupancy, US$72.3M carrying value, 5.4% contribution) and Waterf
+    - p32 — This page presents the Properties Profile for Reston Square, a 6-storey Class A office building in Suburban Virginia as of December 31, 2024, featurin
+    - p41 [million] — This page presents economic and office market indicators for San Diego, featuring tables on employment/unemployment rates, vacancy, net absorption, as
+    - p44 — This page presents an independent market review for the Dallas, Texas office sector, featuring key tables and charts on economic indicators, vacancy r
+    - p47 — This page presents economic and office market indicators for the Suburban Maryland region, featuring tables on employment/unemployment rates, vacancy,
+    - p48 [million] — This page presents an independent market review for Suburban Virginia, featuring tables and charts detailing economic indicators, office vacancy rates
+    - p68 — This page presents the Corporate Governance Report detailing Directors' remuneration for FY2024, featuring a table of fixed fees and total fees per di
+    - p82 — This page presents the Investor Relations (IR) Calendar, detailing scheduled events for FY2024 and FY2025 including analyst briefings, corporate prese
+    - p102 — This page contains an Environmental Impact section featuring a table and chart comparing waste generation metrics of 1,085 tonnes in FY2023 versus 947
+    - p125 — This page presents the GRI Content Index for Prime US REIT's 2024 sustainability report, detailing disclosures across standards such as GRI 1 Foundati
+    - p130 — This page presents the GRI Content Index, which maps sustainability disclosures to specific standards and chapters, with data for training hours, empl
+    - p154 — This page presents accounting policy notes regarding revenue recognition, finance expenses, and tax treatment (current and deferred) for the SGX REIT 
+    - p157 ['000] — This page presents the audited Portfolio Statement for Cash and Other Receivables (US$'000) within the Notes to the Financial Statements, detailing Gr
+    - p161 ['000] — This page presents the Investment in Subsidiaries table and a list of subsidiaries for SGX REIT, reporting figures in US$'000. It details the 2024 bal
+    - p178 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents a continuation of Note 22 on Fair Value of Assets and L
+
+## trade_mix
+- **MAIN (lead):**
+    - p18 — This page details PRIME's portfolio review as of 31 December 2024, presenting a table of CRI by Primary Markets and another showing Carrying Value by 
+    - p20 ['000] — This page presents a **Top-N tenants/customers table** listing the top 10 tenants with their industry, property, leased area (sq ft), and percentage o
+    - p27 — This page presents property-specific data for two Denver office buildings, Village Center Station I and II, organized into a table displaying Occupanc
+    - p29 — This page presents property-level data for two assets, Tower I at Emeryville (74.8% occupancy, US$103.4M carrying value) and Crosspoint (100% occupanc
+    - p30 — This page presents a Properties Profile for two assets, Tower 909 in Dallas and The 101 in St. Louis, as of 31 December 2024, displaying key metrics i
+    - p32 — This page presents the Properties Profile for Reston Square, a 6-storey Class A office building in Suburban Virginia as of December 31, 2024, featurin
+    - p41 [million] — This page presents economic and office market indicators for San Diego, featuring tables on employment/unemployment rates, vacancy, net absorption, as
+    - p44 — This page presents an independent market review for the Dallas, Texas office sector, featuring key tables and charts on economic indicators, vacancy r
+    - p48 [million] — This page presents an independent market review for Suburban Virginia, featuring tables and charts detailing economic indicators, office vacancy rates
+    - p154 — This page presents accounting policy notes regarding revenue recognition, finance expenses, and tax treatment (current and deferred) for the SGX REIT 
+    - p157 ['000] — This page presents the audited Portfolio Statement for Cash and Other Receivables (US$'000) within the Notes to the Financial Statements, detailing Gr
+    - p161 ['000] — This page presents the Investment in Subsidiaries table and a list of subsidiaries for SGX REIT, reporting figures in US$'000. It details the 2024 bal
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+- **also mentions:**
+    - p19 ['000] — This page presents the audited Portfolio Statement detailing Prime's property valuations, occupancy rates, and lease metrics as of 31 December 2024, r
+    - p162 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents **Table 7: Investment in Subsidiaries (cont'd)** listin
+    - p177 ['000] — This page presents a table titled "Fair Value of Assets and Liabilities (Cont'd)" from the Notes to the Financial Statements for the financial year en
+
+## financial
+- **MAIN (lead):**
+    - p15 ['000] — This page presents the **Statement of Total Return** for SGX REIT, reporting US$'000 values that detail gross revenue, property operating expenses, ma
+    - p48 [million] — This page presents an independent market review for Suburban Virginia, featuring tables and charts detailing economic indicators, office vacancy rates
+    - p131 — This page contains a table of contents listing the financial statements and reports for the SGX REIT annual report, including the Independent Auditor'
+    - p139 ['000] — This page presents the Consolidated Statement of Comprehensive Income for the financial year ended 31 December 2024, reporting Group results in US$'00
+    - p140 ['000] — This page presents the Consolidated Distribution Statement for the financial year ended 31 December 2024, reporting distributions made to Unitholders 
+    - p143 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 December 2024, reporting Group operating cash flow before 
+    - p144 ['000] — This page presents the **Consolidated Statement of Cash Flows** for the financial year ended 31 December 2024, reporting Group cash flows in US$'000. 
+    - p159 ['000] — This page presents the Consolidated Statement of Financial Position and Consolidated Statement of Comprehensive Income for Investment Properties, repo
+    - p176 ['000] — This page presents the Fair Value of Assets and Liabilities table for the SGX REIT group, reporting carrying amounts and fair values in US$'000 as of 
+    - p181 ['000] — This page details Level 3 fair value measurements for investment properties, presenting a table of valuation techniques (discounted cash flow, income 
+- **also mentions:**
+    - p5 — This page presents the SGX REIT's key financial highlights as of 31 December 2024, featuring a **Statement of Portfolio (property valuations)** table 
+    - p7 [million] — This page highlights PRIME's 2024 portfolio valuation increase of 2.2% to US$1,352 million alongside operational metrics including a leased occupancy 
+    - p16 [million] — This page presents the Financial Review for SGX REIT, featuring a table titled "Valuation of Investment Properties (US$m) as at 31 December" listing p
+    - p23 [million] — This page presents the audited Portfolio Statement (property valuations) detailing five specific properties with their locations, ownership interests,
+    - p24 [million] — This page presents the "PROPERTIES PROFILE" table as of 31 December 2024, detailing five specific assets with metrics including Net Lettable Area, Pur
+    - p25 [million] — This page presents a **Statement of Portfolio (property valuations)** for four office properties, detailing their primary markets, net lettable areas,
+    - p167 ['000] — This page of the SGX REIT annual report for the financial year ended 31 December 2024 presents three tables reporting gross revenue and property opera

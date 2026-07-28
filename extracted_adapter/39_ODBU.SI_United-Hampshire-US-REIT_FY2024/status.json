@@ -1,0 +1,19 @@
+{
+  "stem": "39_ODBU.SI_United-Hampshire-US-REIT_FY2024",
+  "symbol": "ODBU.SI",
+  "financial_year": 2024,
+  "sub_sector": "Retail",
+  "template_family": "United Hampshire US REIT (US grocery-anchored retail + self-storage)",
+  "parsed": {"markdown": "parsed_reports_datalab/39_ODBU.SI_United-Hampshire-US-REIT_FY2024/full.md", "html_pages": "n/a (extracted from markdown audited statements + notes)"},
+  "sections": {
+    "profile": {"status": "done", "method": "llm_only", "rows": 1, "note": "management entities stable vs FY2025 sibling; trust structure p19"},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "KPIs from Financial Review p30-32; distribution p143"},
+    "properties": {"status": "done", "method": "llm_only", "rows": 22, "cross_check": {"vs": "Portfolio Statement p150 + Valuation table p34", "match": "Σ22 market_valuation = 752,860k = total appraised value", "gaps": []}, "note": "Albany-Supermarket held_for_sale; Parkway/Wallkill/Lawnside 100%-basis PP with NCI ownership"},
+    "top_tenants": {"status": "done", "method": "llm_only", "rows": 10, "note": "Top 10 tenants by GRI p37"},
+    "trade_mix": {"status": "done", "method": "llm_only", "rows": 12, "note": "Trade Sector Mix by GRI p36; sums to 100.0%"},
+    "financial": {"status": "done", "method": "llm_only", "rows": 1, "cross_check": {"vs": "Statement of Total Return p142 + notes 18-23", "match": "Σrev - Σexp + Σadj(signed) = 30,117 = net_income", "gaps": []}, "note": "atoms: dep_pe=0, fv_cf_signed=-7450, finance_costs=18880, capex_sum=13528"}
+  },
+  "final_dir": "extracted/ODBU.SI_FY2024",
+  "gates": {"schema": "PASS", "check": "PASS"},
+  "updated": "2026-07-28"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 1,
+    "client_name": "Government entities and embassies of various countries",
+    "industry": "Government Related",
+    "revenue_pct": 1.2,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 2,
+    "client_name": "Volkswagen",
+    "industry": "Manufacturing",
+    "revenue_pct": 0.2,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 3,
+    "client_name": "Toyota",
+    "industry": "Manufacturing",
+    "revenue_pct": 0.2,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 4,
+    "client_name": "CapitaLand",
+    "industry": "Infrastructure, Real Estate & Property Services",
+    "revenue_pct": 0.2,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 5,
+    "client_name": "Mitsubishi",
+    "industry": "Other Industrial Trades",
+    "revenue_pct": 0.2,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 6,
+    "client_name": "Rothschild",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 7,
+    "client_name": "Accenture",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 8,
+    "client_name": "UBS",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 9,
+    "client_name": "Amazon",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 10,
+    "client_name": "Hitachi",
+    "industry": "Manufacturing",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "rank": 11,
+    "client_name": "Alstom",
+    "industry": "Other Industrial Trades",
+    "revenue_pct": 0.1,
+    "pct_basis": "apartment_rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  }
+]

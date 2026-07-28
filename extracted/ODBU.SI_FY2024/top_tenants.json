@@ -1,0 +1,12 @@
+[
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 1, "client_name": "BJ's Wholesale Club Holdings, Inc", "industry": "Departmental Store/Supermarket", "revenue_pct": 10.5, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 2, "client_name": "Wakefern Food Corporation / ShopRite", "industry": "Departmental Store/Supermarket", "revenue_pct": 7.8, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 3, "client_name": "Ahold Delhaize / Stop & Shop", "industry": "Departmental Store/Supermarket", "revenue_pct": 6.5, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 4, "client_name": "Price Chopper Supermarkets", "industry": "Departmental Store/Supermarket", "revenue_pct": 6.0, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 5, "client_name": "LA Fitness", "industry": "Healthcare & Wellness", "revenue_pct": 5.5, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 6, "client_name": "Home Depot USA, Inc", "industry": "Other Retail Trades", "revenue_pct": 4.0, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 7, "client_name": "Food Bazaar Supermarket", "industry": "Departmental Store/Supermarket", "revenue_pct": 3.0, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 8, "client_name": "Walmart Inc.", "industry": "Departmental Store/Supermarket", "revenue_pct": 2.9, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 9, "client_name": "Publix Super Markets Inc", "industry": "Departmental Store/Supermarket", "revenue_pct": 2.8, "pct_basis": "gri", "source_page": 37},
+  {"symbol": "ODBU.SI", "financial_year": 2024, "rank": 10, "client_name": "Burlington Stores Inc", "industry": "Other Retail Trades", "revenue_pct": 2.3, "pct_basis": "gri", "source_page": 37}
+]

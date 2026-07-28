@@ -1,0 +1,192 @@
+{
+  "symbol": "UD1U.SI",
+  "financial_year": 2024,
+  "currency": "EUR",
+  "income_stmt_metrics": {
+    "total_revenue": 75573000,
+    "cost_of_revenue": 22068000,
+    "gross_income": 53505000,
+    "operating_income": 46190000,
+    "operating_expense": 7315000,
+    "ebit": 46190000,
+    "ebitda": 37215000,
+    "pretax_income": 10428000,
+    "income_taxes": 1825000,
+    "net_income": 8603000,
+    "non_operating_income_or_loss": -35762000,
+    "interest_expense_non_operating": 7412000,
+    "weighted_avg_shares_basic": 1344838000,
+    "diluted_shares_outstanding": 1344838000,
+    "net_property_sales": -224000,
+    "funds_from_operation": 28202000,
+    "unitholders": 8603000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "revenue_breakdown": [
+      {
+        "category": "base_rental",
+        "amount": 51946000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "service_charge",
+        "amount": 10116000,
+        "class": "Other income"
+      },
+      {
+        "category": "carpark_income",
+        "amount": 3036000,
+        "class": "Other income"
+      },
+      {
+        "category": "other_income",
+        "amount": 10475000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "management_fee",
+        "amount": 2942000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "trustee_fee",
+        "amount": 195000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "administrative_costs",
+        "amount": 1535000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "other_trust_expenses",
+        "amount": 2036000,
+        "class": "Other expenses"
+      },
+      {
+        "category": "divestment_acquisition_fees",
+        "amount": 607000,
+        "class": "Other expenses"
+      }
+    ],
+    "_derived": [
+      "ebit",
+      "ebitda",
+      "depreciation",
+      "funds_from_operation",
+      "capital_expenditure",
+      "interest_expense_non_operating",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "depreciation": 19375000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 961389000,
+    "total_equity": 528655000,
+    "total_liabilities": 432734000,
+    "total_current_asset": 86447000,
+    "total_non_current_asset": 874942000,
+    "total_current_liabilities": 29278000,
+    "total_non_current_liabilities": 403456000,
+    "working_capital": 57169000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 48333000,
+    "investing_cash_flow": 23081000,
+    "financing_cash_flow": -45362000,
+    "net_cash_flow": 26052000,
+    "free_cash_flow": 45890000,
+    "capital_expenditure": 2443000
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {
+      "statement": "revenue",
+      "component": "gross_revenue",
+      "amount": 75573000,
+      "label_raw": "Gross revenue (Note 3.2)",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "property_operating_expenses",
+      "amount": 22068000,
+      "label_raw": "Property operating expenses (Note 3.3)",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "finance_income",
+      "amount": 1026000,
+      "label_raw": "Finance income",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "finance_costs",
+      "amount": 7412000,
+      "label_raw": "Finance costs (Note 3.4)",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "management_fee_base",
+      "amount": 2942000,
+      "label_raw": "Management fees (Note 3.5)",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "trustee_fee",
+      "amount": 195000,
+      "label_raw": "Trustee's fees (Note 3.5(b))",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "administrative_costs",
+      "amount": 1535000,
+      "label_raw": "Administrative costs",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "trust_expenses",
+      "amount": 2036000,
+      "label_raw": "Other trust expenses (Note 3.6)",
+      "source_page": 175
+    },
+    {
+      "statement": "expense",
+      "component": "acquisition_divestment_fees",
+      "amount": 607000,
+      "label_raw": "Divestment/Acquisition fees and related costs",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "fv_derivatives",
+      "amount": -10001000,
+      "label_raw": "Change in fair value of financial derivatives",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "fair_value_change_investment_properties",
+      "amount": -19375000,
+      "label_raw": "Change in fair value of investment properties (Note 2.4)",
+      "source_page": 175
+    },
+    {
+      "statement": "adjustment",
+      "component": "taxation",
+      "amount": -1825000,
+      "label_raw": "Income tax expense (Note 3.7.1)",
+      "source_page": 175
+    }
+  ],
+  "source_page": 175
+}

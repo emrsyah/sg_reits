@@ -1,0 +1,30 @@
+[
+  {
+    "symbol": "DHLU.SI", "financial_year": 2024, "transaction_type": "acquisition",
+    "property_name": "DPL Ibaraki Yuki", "country": "Japan", "date": "2024-03-15",
+    "consideration": 2640000000, "consideration_currency": "JPY", "consideration_sgd": null,
+    "vendor": "Daiwa House Industry Co., Ltd. (Sponsor)",
+    "valuation_at_acquisition": 3225000000, "valuation_currency": "JPY",
+    "notes": "Freehold logistics property (built Jan 2023) in Ibaraki, ~100km from central Tokyo; entirely leased to Mitsubishi Shokuhin. Purchase consideration JPY 2,640.0m = 18.1% discount to average of two independent valuations JPY 3,225.0m (as at 31 Aug 2023). Financed by borrowings and internal cash. Valuation at 31 Dec 2024 grew to JPY 3,350m (26.9% above purchase consideration). Interested-party transaction (from Sponsor).",
+    "source_page": 49, "deal_id": "dhlu:dpl_ibaraki_yuki:acquisition:2024",
+    "completed_date": "2024-03-15", "gain_loss_pct": 18.1, "gain_basis": "vs_valuation",
+    "valuation_date": "2023-08-31", "source_type": "annual_report", "valuation": 3225000000,
+    "counterparty": "Daiwa House Industry Co., Ltd. (Sponsor; interested party)",
+    "transaction_date": "2024-03-15", "announcement_refs": null,
+    "gain_on_divestment_basis": "DISCLOSED acquisition discount (not derived): purchase consideration JPY 2,640.0m was an 18.1% discount to average independent valuation JPY 3,225.0m (two valuers, as at 31 Aug 2023). Value created: 31 Dec 2024 valuation JPY 3,350m = 26.9% above purchase consideration (p50). Acquisition-side discount (favourable), not a divestment gain."
+  },
+  {
+    "symbol": "DHLU.SI", "financial_year": 2024, "transaction_type": "acquisition",
+    "property_name": "D Project Tan Duc 2", "country": "Vietnam", "date": "2024-07-05",
+    "consideration": 483000000000, "consideration_currency": "VND", "consideration_sgd": null,
+    "vendor": "DH Asia Investment Peony Pte. Ltd. (wholly-owned subsidiary of the Sponsor)",
+    "valuation_at_acquisition": 498000000000, "valuation_currency": "VND",
+    "notes": "DHLT's first property outside Japan. BTS cold storage facility in Long An province, near Ho Chi Minh City. Acquired via purchase of 100% capital of DH Logistics Management Vietnam Co., Ltd. Agreed property value VND 483.0 billion = 3.0% below average of two independent valuations VND 498.0 billion (as at 30 Sep & 30 Nov 2023). Financed mainly via borrowings. Leased to Meito Vietnam on a 20-year lease from Oct 2023. Valuation at 31 Dec 2024 grew to VND 512.7bn (6.1% above purchase consideration).",
+    "source_page": 49, "deal_id": "dhlu:d_project_tan_duc_2:acquisition:2024",
+    "completed_date": "2024-07-05", "gain_loss_pct": 3.0, "gain_basis": "vs_valuation",
+    "valuation_date": "2023-11-30", "source_type": "annual_report", "valuation": 498000000000,
+    "counterparty": "DH Asia Investment Peony Pte. Ltd. (Sponsor subsidiary; interested party)",
+    "transaction_date": "2024-07-05", "announcement_refs": null,
+    "gain_on_divestment_basis": "DISCLOSED acquisition discount (not derived): agreed property value VND 483.0bn = 3.0% below average independent valuation VND 498.0bn. Acquired via SPV (DH Logistics Management Vietnam Co., Ltd). 31 Dec 2024 valuation VND 512.7bn = 6.1% above purchase consideration (p50). Acquisition-side discount (favourable), not a divestment gain."
+  }
+]

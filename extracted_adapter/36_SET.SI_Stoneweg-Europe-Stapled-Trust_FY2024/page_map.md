@@ -1,0 +1,285 @@
+# Page map — 36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2024
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p40 — This page of the SGX REIT annual report presents the Manager's Report on portfolio performance as of 31 December 2024, featuring tables detailing SERT
+    - p42 — This page presents the Manager's Report for the Logistics / Light Industrial sector, featuring a Lease Expiry Profile table by Weighted Average Lease 
+    - p55 — This page displays ESG ratings (MSCI A, Morningstar 8.8 Negligible Risk, GRESB 6th in SGTI 2024) and outlines the Manager's preparation of SERT's seve
+    - p58 — This page presents the Investor Relations section of the SGX REIT annual report, featuring tables and charts detailing the DIVERSIFIED UNITHOLDER REGI
+    - p121 ['000] — This page presents the Key Management Personnel's (KMP) remuneration table for FY 2024, detailing base salary and variable income percentages for CEO 
+    - p138 ['000] — This page is the Table of Contents for the SGX REIT annual report, listing the locations of the Report of the Trustee, Statement by the Manager, Indep
+    - p192 ['000] — This page presents the Financial Risk Management note containing a table detailing SERT's and the Trust's financial assets (cash, receivables, derivat
+    - p196 ['000] — This page presents the contractual maturity analysis of SERT and the Trust's financial liabilities as at 31 December 2024, detailing undiscounted cash
+    - p210 ['000] — This page contains the Notes to the Financial Statements for SGX REIT SERT covering the year ended 31 December 2024, specifically detailing related pa
+    - p227 — This page contains corporate governance and management information for SGX REIT CWBU and CWCU, listing the Board of Directors, committee members, seni
+- **also mentions:**
+    - p12 — This page features a table titled "EUROPEAN INVESTMENT VOLUMES" displaying annual investment data across asset classes (Logistics, Office, Living, Hot
+    - p15 [million] — This page presents a debt transformation table and chart detailing the projected allocation of secured, unsecured, green bond, and revolving credit fa
+    - p32 ['000] — This page of the SGX REIT annual report for SERT features a Manager's Report with an Executive Summary and a Statement of Total Return table reporting
+    - p44 — This page of the SGX REIT Manager's Report presents a table detailing leasing activity (new leases, renewals, and retention rates) by quarter for 2024
+    - p145 ['000] — This page presents the Consolidated Statement of Total Return and Comprehensive Income for SGX REIT SERT, reporting total return/(loss) for the year 2
+    - p162 ['000] — This page presents the audited Segment Results table for SERT 2024, detailing gross revenue and property operating expenditure by segment (Logistics/L
+    - p163 ['000] — This page presents the **Segment Profit** table for SERT (Sertis REIT) for the year ended 31 December 2024, reporting gross revenue and property opera
+    - p167 ['000] — This page presents the Trustee, Manager's and Property Manager's Fees note for SGX REIT, featuring a table of audited Trustee fees valued in €'000 sho
+    - p168 — This page presents notes detailing property manager's fees and acquisition/divestment fees, with a table showing 2024 cash payments of €15,821 for man
+    - p218 ['000] — This page details transactions with interested persons and parties for SGX REIT SERT Trust, presenting a table of fees such as divestment, management,
+    - p252 [million] — This page presents a table titled "Office Vacancy Rate: Île-de-France & Paris CBD (%)" displaying vacancy rates for 2014–2024, alongside a table of "O
+    - p256 — This page presents a Logistics Take Up table and chart detailing in-square-meter volumes for Greater Paris and National regions from 2015 to 2024, alo
+
+## performance
+- **MAIN (lead):**
+    - p5 [million] — This page presents the FY 2024 Financial Highlights and a historical Balance Sheet/Key Financial Metrics table for an SGX REIT reporting in Euros (€ m
+    - p10 — This page features an interview with CEO Simon Garing discussing SERT's 2024 performance, highlighted by a key metrics table displaying Total Portfoli
+    - p12 — This page features a table titled "EUROPEAN INVESTMENT VOLUMES" displaying annual investment data across asset classes (Logistics, Office, Living, Hot
+    - p41 — This page presents the Lease Management section of SERT's FY 2024 annual report, featuring a table detailing new leases signed and leases renewed by q
+    - p42 — This page presents the Manager's Report for the Logistics / Light Industrial sector, featuring a Lease Expiry Profile table by Weighted Average Lease 
+    - p43 — This page details notable leasing successes and occupancy metrics for the logistics/light industrial and office sectors in FY 2024, presenting a **LEA
+    - p61 — This page presents the Trading Statistics and Total Unitholder Return for the financial year ending December 2024, featuring a table of S$-denominated
+    - p74 — This page presents a map of the Netherlands assets with 14 numbered locations, including an inset map detailing seven specific sites in the Amsterdam 
+    - p142 [million] — This page presents the Independent Auditor's Report, with the main artifact being the Key Audit Matter regarding Fair Valuation and Disclosure of Fair
+    - p144 — This page contains the Independent Auditor's Report from Deloitte & Touche LLP, confirming that Stoneweg European Real Estate Investment Trust's finan
+    - p147 ['000] — This page presents the Consolidated Distribution Statement for the year ended 31 December 2024, reporting income available for distribution to Unithol
+    - p148 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 December 2024, reporting financial highlights including tot
+    - p149 ['000] — This page presents the Consolidated Statement of Cash Flows for SERT for the year ended 31 December 2024, reporting net cash from operating activities
+    - p150 — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2024, detailing the SGX REIT's real estate assets organized 
+    - p158 — This page introduces the Notes to the Financial Statements for Stoneweg European Real Estate Investment Trust (SERT) for the year ended 31 December 20
+    - p172 ['000] — This page presents the Notes to the Financial Statements for SGX REIT SERT, specifically detailing Earnings Per Unit (€5.895 in 2024) and Distribution
+    - p183 ['000] — This page contains the "Borrowings" note (Note 10) presenting SERT's debt facilities and associated costs for the year ended 31 December 2024, reporti
+    - p195 ['000] — This page presents the ageing analysis of trade receivables and the movements in impairment losses for rental receivables, with all figures reported i
+    - p203 — This page presents a table listing the equity holding and ownership interest percentages for Europe 5 HoldCo S.à r.l. and its subsidiaries as of 31 De
+    - p213 — This page of the SGX REIT annual report for the year ended 31 December 2024 contains accounting policy notes detailing foreign currency translation, a
+    - p220 — This page presents the Statistics of Unitholdings for SERT as at 11 March 2025, featuring a table of Substantial Unitholders with direct and deemed in
+    - p222 — This page presents the statistics of unitholdings for SGX REIT as at 11 March 2025, featuring a table detailing the distribution of unitholdings by si
+    - p223 — This page presents the **Statistics of Unitholdings** for SGX REIT (SERT) as at 11 March 2025, featuring a table of Directors' Interests in Units repo
+    - p253 — The page presents a table of Office Prime Yields (%) in Île-de-France from 2015 to 2024, showing yields for Paris-CBD, Lyon-Part-Dieu, and La-Defense 
+    - p293 — This page presents the Industrial Prime Yields (%) table for six key Danish markets from 2015 to 2024, alongside a line chart illustrating the yield t
+    - p315 — This page presents a market introduction for Switzerland's commercial real estate sector in 2024, featuring a table titled "Switzerland Real Estate In
+    - p317 [million] — This page presents the **Industrial Stock and Supply Rates** for Zürich, Geneva, Bern, and Basel as of 2024, detailing industrial stock figures in sq 
+    - p324 — This page presents the Logistics Prime Yields table and chart for Madrid and Barcelona from 2013 to 2024, detailing yield contractions in response to 
+- **also mentions:**
+    - p32 ['000] — This page of the SGX REIT annual report for SERT features a Manager's Report with an Executive Summary and a Statement of Total Return table reporting
+    - p37 ['000] — The page presents an audited Portfolio Statement detailing property valuations across 105 assets in 10 countries as at 31 Dec 2024, with a total valua
+    - p58 — This page presents the Investor Relations section of the SGX REIT annual report, featuring tables and charts detailing the DIVERSIFIED UNITHOLDER REGI
+    - p60 — This page of the SGX REIT annual report presents trading statistics for the financial year, primarily featuring a table detailing 2024 and 2023 data i
+    - p121 ['000] — This page presents the Key Management Personnel's (KMP) remuneration table for FY 2024, detailing base salary and variable income percentages for CEO 
+    - p146 ['000] — This page presents the Balance Sheets for SERT and Trust as at 31 December 2024, reporting financial figures in €'000. The statement details total ass
+    - p167 ['000] — This page presents the Trustee, Manager's and Property Manager's Fees note for SGX REIT, featuring a table of audited Trustee fees valued in €'000 sho
+    - p190 ['000] — This page presents the **Unitholders' Funds** note detailing SERT's and the Trust's contributed equity and units in issue for the year ended 31 Decemb
+    - p199 ['000] — This page presents the foreign exchange risk sensitivity analysis for SGX REIT SERT and Trust, detailing the impact of a 1% currency fluctuation on to
+    - p219 ['000] — This page presents a table titled "Percentage of Total Operating Expenses to Net Assets" for the year 2024, reporting total operating expenses of €'00
+    - p225 — This page presents a non-exhaustive glossary of terms and first mentions for the SGX REIT annual report, defining acronyms such as "Fitch Ratings," "F
+    - p247 — This page presents a Logistics Prime Yields table detailing yield trends for Amsterdam, Schiphol, and Venlo from 2013 to 2024 (values in %), alongside
+    - p320 — The page presents a market introduction for Spain's commercial real estate sector, featuring a stacked bar chart and table detailing investment volume
+
+## properties
+- **MAIN (lead):**
+    - p10 — This page features an interview with CEO Simon Garing discussing SERT's 2024 performance, highlighted by a key metrics table displaying Total Portfoli
+    - p12 — This page features a table titled "EUROPEAN INVESTMENT VOLUMES" displaying annual investment data across asset classes (Logistics, Office, Living, Hot
+    - p37 ['000] — The page presents an audited Portfolio Statement detailing property valuations across 105 assets in 10 countries as at 31 Dec 2024, with a total valua
+    - p63 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, detailing a total portfolio value of SGD'000 across logistics/l
+    - p64 ['000] — This page presents the audited Portfolio Statement for Parc des Docks, an industrial property valued at €163.8 million as of 31 Dec 2024 with gross re
+    - p65 [million] — This page presents the Haagse Poort property valuation at €161.1 million as of 31 Dec 2024, alongside a Statement of Portfolio detailing its €16,894,5
+    - p66 [million] — This page presents the audited Portfolio Statement for Central Plaza, detailing its property valuation of €140.3 million (€156.8m purchase price), 97.
+    - p67 ['000] — This page presents the audited Portfolio Statement for Business Garden, a LEED Platinum-certified office property in Poznań valued at €70.0 million wi
+    - p68 ['000] — This page presents a detailed profile of the Bastion property, featuring an audited Portfolio Statement (property valuations) listing its valuation at
+    - p69 [million] — This page features a **Statement of Portfolio (property valuations)** for the CLOM industrial park in Montepreandone, Italy, reporting a valuation of 
+    - p70 [million] — This page details the Nervesa 21 property in Milan, presenting a Property Valuation of €56.5 million (€25.4m acquisition price) and Gross Revenue for 
+    - p71 [million] — This page presents the audited Property Valuation and Statement of Portfolio (property valuations) for Veemarkt, a light industrial asset in Amsterdam
+    - p72 [million] — This page presents the audited Portfolio Statement for Moeder Teresaaan 100/200 in Utrecht, reporting a property valuation of €51.6 million (€50,727,9
+    - p73 [million] — This page presents an audited Portfolio Statement for the De Ruyterkade 5 property in Amsterdam, detailing a valuation of €43.0 million and 100% occup
+    - p74 — This page presents a map of the Netherlands assets with 14 numbered locations, including an inset map detailing seven specific sites in the Amsterdam 
+    - p76 ['000] — This page presents an audited Portfolio Statement listing 14 properties within the Netherlands assets, categorized as Logistics/Light Industrial or Of
+    - p77 ['000] — This page presents an audited Portfolio Statement (property valuations) as at 31 December 2024, reporting total gross revenue of €16,895'000 alongside
+    - p81 ['000] — This page presents the Audited Portfolio Statement as at 31 December 2024 (€'000), detailing property valuations, lettable areas, FY 2024 gross revenu
+    - p84 ['000] — This page presents the audited Portfolio Statement for Italy Assets, listing 17 properties with their addresses, acquisition dates, and purchase price
+    - p85 ['000] — This page presents the Audited Portfolio Statement (property valuations) for the reporting unit in €'000, detailing 18 properties as of 31 December 20
+    - p89 ['000] — This page presents an audited Portfolio Statement (property valuations) for the reporting unit in €'000, detailing 15 properties with valuation as at 
+    - p92 ['000] — This page presents a map of 12 Denmark assets and an audited Portfolio Statement table detailing the address, acquisition date, and purchase price (€'
+    - p93 ['000] — This page presents a detailed table titled "Statement of Portfolio (property valuations)" for the Logistics/Light Industrial segment, reporting data a
+    - p96 ['000] — This page displays the **audited Portfolio Statement** for Slovakia assets, listing five industrial parks acquired on 11 Mar 2021 with purchase prices
+    - p97 ['000] — This page displays aerial views of five logistics/light industrial properties in Slovakia and presents an audited Portfolio Statement table detailing 
+    - p99 ['000] — This page presents a Statement of Portfolio (property valuations) for the Logistics/Light Industrial segment, listing three properties with valuation 
+    - p138 ['000] — This page is the Table of Contents for the SGX REIT annual report, listing the locations of the Report of the Trustee, Statement by the Manager, Indep
+    - p142 [million] — This page presents the Independent Auditor's Report, with the main artifact being the Key Audit Matter regarding Fair Valuation and Disclosure of Fair
+    - p144 — This page contains the Independent Auditor's Report from Deloitte & Touche LLP, confirming that Stoneweg European Real Estate Investment Trust's finan
+    - p150 — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2024, detailing the SGX REIT's real estate assets organized 
+    - p151 ['000] — This page presents the audited Portfolio Statement (property valuations) as of 31 December 2024, detailing land tenure types, remaining lease terms, c
+    - p152 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 31 December 2024, detailing properties by geography includ
+    - p153 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2024, detailing land tenure types and remainin
+    - p154 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as of 31 December 2024, detailing assets across Germany, Poland,
+    - p155 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 December 2024, detailing land tenure types, remaining leasehold term
+    - p156 — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2024, detailing a portfolio of logistics/light
+    - p157 ['000] — This page presents the **Statement of Portfolio** as at 31 December 2024, detailing property valuations by land tenure with carrying amounts and perce
+    - p158 — This page introduces the Notes to the Financial Statements for Stoneweg European Real Estate Investment Trust (SERT) for the year ended 31 December 20
+    - p159 ['000] — This page presents the **audited Portfolio Statement** for SERT's logistics/light industrial property sub-portfolios by location and asset class, deta
+    - p160 — This page presents a portfolio breakdown by asset class and country for the SGX REIT's audited Portfolio Statement, detailing property counts, valuati
+    - p164 ['000] — This page presents the audited Portfolio Statement for Segment assets under SERT 2024, detailing Investment properties and Assets held for sale in €'0
+    - p165 ['000] — This page presents the audited Portfolio Statement detailing segment assets by geography and property type (Logistics, Office, Others) for SERT's year
+    - p166 ['000] — This page contains the Revenue note from SGX REIT's financial statements for the year ended 31 December 2024, reporting property revenue in €'000 via 
+    - p176 ['000] — This page presents the audited Portfolio Statement for Deferred Tax Liabilities (€'000) showing year-end balances of €84,061 and movements including c
+    - p178 ['000] — This page presents the audited Portfolio Statement detailing SERT's investment properties by country with carrying amounts and independent valuations 
+    - p183 ['000] — This page contains the "Borrowings" note (Note 10) presenting SERT's debt facilities and associated costs for the year ended 31 December 2024, reporti
+    - p187 ['000] — This page presents the audited Portfolio Statement for Net Finance Costs and Gain on Bond Buyback, reporting SERT's 2024 interest expense of €38,241'0
+    - p195 ['000] — This page presents the ageing analysis of trade receivables and the movements in impairment losses for rental receivables, with all figures reported i
+    - p197 ['000] — This page presents the audited Portfolio Statement for SERT (SGD'000) detailing lease liabilities and market risk disclosures, specifically highlighti
+    - p202 ['000] — This page presents the audited Portfolio Statement (controlled entities) for SERT, detailing 19 subsidiaries registered in Singapore and Luxembourg wi
+    - p203 — This page presents a table listing the equity holding and ownership interest percentages for Europe 5 HoldCo S.à r.l. and its subsidiaries as of 31 De
+    - p205 ['000] — This page presents the audited Portfolio Statement (property valuations) for assets held for sale, listing specific properties in Italy and Poland wit
+    - p208 ['000] — This page presents the Audited Portfolio Statement for Other Liabilities and Cash Flow Information, reporting values in €'000 across two entities (SER
+    - p209 ['000] — This page presents the "Movements in net debt" and "Reconciliation of assets and liabilities from financing activities" tables for SERT, reporting fig
+    - p213 — This page of the SGX REIT annual report for the year ended 31 December 2024 contains accounting policy notes detailing foreign currency translation, a
+    - p218 ['000] — This page details transactions with interested persons and parties for SGX REIT SERT Trust, presenting a table of fees such as divestment, management,
+    - p245 [million] — This page presents national logistics stock and vacancy rate tables for the SGX REIT reporting unit in million sq m and percentage respectively, cover
+    - p247 — This page presents a Logistics Prime Yields table detailing yield trends for Amsterdam, Schiphol, and Venlo from 2013 to 2024 (values in %), alongside
+    - p252 [million] — This page presents a table titled "Office Vacancy Rate: Île-de-France & Paris CBD (%)" displaying vacancy rates for 2014–2024, alongside a table of "O
+    - p253 — The page presents a table of Office Prime Yields (%) in Île-de-France from 2015 to 2024, showing yields for Paris-CBD, Lyon-Part-Dieu, and La-Defense 
+    - p255 [million] — This page presents the audited Portfolio Statement (property valuations) for the French logistics segment, detailing a vacancy rate of 5.7% in 2024 an
+    - p256 — This page presents a Logistics Take Up table and chart detailing in-square-meter volumes for Greater Paris and National regions from 2015 to 2024, alo
+    - p261 [million] — This page presents the audited Portfolio Statement for Milan and Rome office stock (sq m) and vacancy rates (%) from 2023 to 2025 (f), reporting units
+    - p273 — This page presents the Office Vacancy Rate and Prime Yields for Helsinki Metropolitan Area submarkets and the CBD, respectively, featuring a table det
+    - p286 [million] — This page presents market analysis for industrial stock distribution across Europe and national take-up trends, featuring a map of European NUTS 2 reg
+    - p292 [million] — This page presents the audited Portfolio Statement for Industrial Stock and Vacancy Rate in Denmark and Copenhagen, detailing stock levels rising from
+    - p293 — This page presents the Industrial Prime Yields (%) table for six key Danish markets from 2015 to 2024, alongside a line chart illustrating the yield t
+    - p314 — This page presents the macroeconomic context for Switzerland, featuring charts and tables detailing GDP, unemployment rates, population, government de
+    - p315 — This page presents a market introduction for Switzerland's commercial real estate sector in 2024, featuring a table titled "Switzerland Real Estate In
+    - p317 [million] — This page presents the **Industrial Stock and Supply Rates** for Zürich, Geneva, Bern, and Basel as of 2024, detailing industrial stock figures in sq 
+    - p320 — The page presents a market introduction for Spain's commercial real estate sector, featuring a stacked bar chart and table detailing investment volume
+    - p324 — This page presents the Logistics Prime Yields table and chart for Madrid and Barcelona from 2013 to 2024, detailing yield contractions in response to 
+- **also mentions:**
+    - p5 [million] — This page presents the FY 2024 Financial Highlights and a historical Balance Sheet/Key Financial Metrics table for an SGX REIT reporting in Euros (€ m
+    - p13 — This page details SERT's ESG achievements and their impact on financial performance, featuring a Sustainability-linked loans KPIs table tracking green
+    - p32 ['000] — This page of the SGX REIT annual report for SERT features a Manager's Report with an Executive Summary and a Statement of Total Return table reporting
+    - p41 — This page presents the Lease Management section of SERT's FY 2024 annual report, featuring a table detailing new leases signed and leases renewed by q
+    - p42 — This page presents the Manager's Report for the Logistics / Light Industrial sector, featuring a Lease Expiry Profile table by Weighted Average Lease 
+    - p43 — This page details notable leasing successes and occupancy metrics for the logistics/light industrial and office sectors in FY 2024, presenting a **LEA
+    - p44 — This page of the SGX REIT Manager's Report presents a table detailing leasing activity (new leases, renewals, and retention rates) by quarter for 2024
+    - p91 ['000] — This page presents a table titled "Valuation as at 31 December 2024 (€'000)" which details the office portfolio comprising five assets with their resp
+    - p95 ['000] — This page presents a Logistics/Light Industrial portfolio table detailing seven properties as at 31 December 2024, reporting valuation, lettable area,
+    - p101 ['000] — This page presents an Office property overview featuring exterior images and a table titled "Valuation as at 31 December 2024 (€'000)" which details t
+    - p145 ['000] — This page presents the Consolidated Statement of Total Return and Comprehensive Income for SGX REIT SERT, reporting total return/(loss) for the year 2
+    - p163 ['000] — This page presents the **Segment Profit** table for SERT (Sertis REIT) for the year ended 31 December 2024, reporting gross revenue and property opera
+    - p177 ['000] — This page presents Note 9 (Investment Properties) from SERT's annual report for the year ended 31 December 2024, featuring a table detailing the recon
+    - p181 ['000] — This page presents sensitivity analysis for investment property fair values and details amounts recognized in profit and loss, specifically listing gr
+    - p210 ['000] — This page contains the Notes to the Financial Statements for SGX REIT SERT covering the year ended 31 December 2024, specifically detailing related pa
+
+## top_tenants
+- **MAIN (lead):**
+    - p44 — This page of the SGX REIT Manager's Report presents a table detailing leasing activity (new leases, renewals, and retention rates) by quarter for 2024
+    - p45 — This page presents the Tenant Trade Sector breakdown by Headline Rent for 2024 and 2023 alongside a Top-N Tenants table showing % of total headline re
+    - p166 ['000] — This page contains the Revenue note from SGX REIT's financial statements for the year ended 31 December 2024, reporting property revenue in €'000 via 
+    - p167 ['000] — This page presents the Trustee, Manager's and Property Manager's Fees note for SGX REIT, featuring a table of audited Trustee fees valued in €'000 sho
+- **also mentions:**
+    - p10 — This page features an interview with CEO Simon Garing discussing SERT's 2024 performance, highlighted by a key metrics table displaying Total Portfoli
+    - p41 — This page presents the Lease Management section of SERT's FY 2024 annual report, featuring a table detailing new leases signed and leases renewed by q
+    - p55 — This page displays ESG ratings (MSCI A, Morningstar 8.8 Negligible Risk, GRESB 6th in SGTI 2024) and outlines the Manager's preparation of SERT's seve
+    - p74 — This page presents a map of the Netherlands assets with 14 numbered locations, including an inset map detailing seven specific sites in the Amsterdam 
+    - p138 ['000] — This page is the Table of Contents for the SGX REIT annual report, listing the locations of the Report of the Trustee, Statement by the Manager, Indep
+    - p150 — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2024, detailing the SGX REIT's real estate assets organized 
+    - p159 ['000] — This page presents the **audited Portfolio Statement** for SERT's logistics/light industrial property sub-portfolios by location and asset class, deta
+    - p160 — This page presents a portfolio breakdown by asset class and country for the SGX REIT's audited Portfolio Statement, detailing property counts, valuati
+    - p203 — This page presents a table listing the equity holding and ownership interest percentages for Europe 5 HoldCo S.à r.l. and its subsidiaries as of 31 De
+    - p208 ['000] — This page presents the Audited Portfolio Statement for Other Liabilities and Cash Flow Information, reporting values in €'000 across two entities (SER
+    - p209 ['000] — This page presents the "Movements in net debt" and "Reconciliation of assets and liabilities from financing activities" tables for SERT, reporting fig
+    - p213 — This page of the SGX REIT annual report for the year ended 31 December 2024 contains accounting policy notes detailing foreign currency translation, a
+    - p218 ['000] — This page details transactions with interested persons and parties for SGX REIT SERT Trust, presenting a table of fees such as divestment, management,
+    - p245 [million] — This page presents national logistics stock and vacancy rate tables for the SGX REIT reporting unit in million sq m and percentage respectively, cover
+    - p247 — This page presents a Logistics Prime Yields table detailing yield trends for Amsterdam, Schiphol, and Venlo from 2013 to 2024 (values in %), alongside
+    - p252 [million] — This page presents a table titled "Office Vacancy Rate: Île-de-France & Paris CBD (%)" displaying vacancy rates for 2014–2024, alongside a table of "O
+    - p253 — The page presents a table of Office Prime Yields (%) in Île-de-France from 2015 to 2024, showing yields for Paris-CBD, Lyon-Part-Dieu, and La-Defense 
+    - p256 — This page presents a Logistics Take Up table and chart detailing in-square-meter volumes for Greater Paris and National regions from 2015 to 2024, alo
+    - p261 [million] — This page presents the audited Portfolio Statement for Milan and Rome office stock (sq m) and vacancy rates (%) from 2023 to 2025 (f), reporting units
+    - p273 — This page presents the Office Vacancy Rate and Prime Yields for Helsinki Metropolitan Area submarkets and the CBD, respectively, featuring a table det
+    - p286 [million] — This page presents market analysis for industrial stock distribution across Europe and national take-up trends, featuring a map of European NUTS 2 reg
+    - p287 ['000] — This page presents Logistics & Light Industrial market data for Germany, featuring a **Logistics & Light Industrial Take Up: Key Markets (1,000 sq m)*
+    - p293 — This page presents the Industrial Prime Yields (%) table for six key Danish markets from 2015 to 2024, alongside a line chart illustrating the yield t
+    - p314 — This page presents the macroeconomic context for Switzerland, featuring charts and tables detailing GDP, unemployment rates, population, government de
+    - p315 — This page presents a market introduction for Switzerland's commercial real estate sector in 2024, featuring a table titled "Switzerland Real Estate In
+    - p323 — This page presents the Logistics Development Pipeline and Take Up data for Barcelona and Madrid, featuring a table detailing 2025 pipeline metrics (to
+
+## trade_mix
+- **MAIN (lead):**
+    - p10 — This page features an interview with CEO Simon Garing discussing SERT's 2024 performance, highlighted by a key metrics table displaying Total Portfoli
+    - p34 ['000] — This page features a Gross Revenue and NPI Commentary table detailing FY 2024 versus FY 2023 performance by asset class and country for SERT's portfol
+    - p40 — This page of the SGX REIT annual report presents the Manager's Report on portfolio performance as of 31 December 2024, featuring tables detailing SERT
+    - p44 — This page of the SGX REIT Manager's Report presents a table detailing leasing activity (new leases, renewals, and retention rates) by quarter for 2024
+    - p45 — This page presents the Tenant Trade Sector breakdown by Headline Rent for 2024 and 2023 alongside a Top-N Tenants table showing % of total headline re
+    - p160 — This page presents a portfolio breakdown by asset class and country for the SGX REIT's audited Portfolio Statement, detailing property counts, valuati
+    - p167 ['000] — This page presents the Trustee, Manager's and Property Manager's Fees note for SGX REIT, featuring a table of audited Trustee fees valued in €'000 sho
+    - p203 — This page presents a table listing the equity holding and ownership interest percentages for Europe 5 HoldCo S.à r.l. and its subsidiaries as of 31 De
+    - p213 — This page of the SGX REIT annual report for the year ended 31 December 2024 contains accounting policy notes detailing foreign currency translation, a
+    - p245 [million] — This page presents national logistics stock and vacancy rate tables for the SGX REIT reporting unit in million sq m and percentage respectively, cover
+    - p247 — This page presents a Logistics Prime Yields table detailing yield trends for Amsterdam, Schiphol, and Venlo from 2013 to 2024 (values in %), alongside
+    - p253 — The page presents a table of Office Prime Yields (%) in Île-de-France from 2015 to 2024, showing yields for Paris-CBD, Lyon-Part-Dieu, and La-Defense 
+    - p256 — This page presents a Logistics Take Up table and chart detailing in-square-meter volumes for Greater Paris and National regions from 2015 to 2024, alo
+    - p259 — This page presents a market introduction for the Italian commercial real estate sector in 2024, featuring a stacked bar chart and table detailing inve
+    - p261 [million] — This page presents the audited Portfolio Statement for Milan and Rome office stock (sq m) and vacancy rates (%) from 2023 to 2025 (f), reporting units
+    - p270 — This page presents a market introduction for the Finnish commercial real estate sector in 2024, featuring a "Finland Real Estate Investment: Volumes" 
+    - p273 — This page presents the Office Vacancy Rate and Prime Yields for Helsinki Metropolitan Area submarkets and the CBD, respectively, featuring a table det
+    - p302 — This page presents market analysis and a table titled "Slovakia Real Estate Investment: Volumes" detailing investment figures in euros (€) by sector f
+    - p314 — This page presents the macroeconomic context for Switzerland, featuring charts and tables detailing GDP, unemployment rates, population, government de
+    - p315 — This page presents a market introduction for Switzerland's commercial real estate sector in 2024, featuring a table titled "Switzerland Real Estate In
+- **also mentions:**
+    - p93 ['000] — This page presents a detailed table titled "Statement of Portfolio (property valuations)" for the Logistics/Light Industrial segment, reporting data a
+    - p99 ['000] — This page presents a Statement of Portfolio (property valuations) for the Logistics/Light Industrial segment, listing three properties with valuation 
+    - p159 ['000] — This page presents the **audited Portfolio Statement** for SERT's logistics/light industrial property sub-portfolios by location and asset class, deta
+    - p162 ['000] — This page presents the audited Segment Results table for SERT 2024, detailing gross revenue and property operating expenditure by segment (Logistics/L
+    - p163 ['000] — This page presents the **Segment Profit** table for SERT (Sertis REIT) for the year ended 31 December 2024, reporting gross revenue and property opera
+    - p164 ['000] — This page presents the audited Portfolio Statement for Segment assets under SERT 2024, detailing Investment properties and Assets held for sale in €'0
+    - p165 ['000] — This page presents the audited Portfolio Statement detailing segment assets by geography and property type (Logistics, Office, Others) for SERT's year
+    - p195 ['000] — This page presents the ageing analysis of trade receivables and the movements in impairment losses for rental receivables, with all figures reported i
+    - p207 ['000] — This page presents the audited Trade and other payables table for SERT (€'000) and its Trust, detailing current and non-current liabilities including 
+    - p252 [million] — This page presents a table titled "Office Vacancy Rate: Île-de-France & Paris CBD (%)" displaying vacancy rates for 2014–2024, alongside a table of "O
+    - p255 [million] — This page presents the audited Portfolio Statement (property valuations) for the French logistics segment, detailing a vacancy rate of 5.7% in 2024 an
+
+## financial
+- **MAIN (lead):**
+    - p32 ['000] — This page of the SGX REIT annual report for SERT features a Manager's Report with an Executive Summary and a Statement of Total Return table reporting
+    - p68 ['000] — This page presents a detailed profile of the Bastion property, featuring an audited Portfolio Statement (property valuations) listing its valuation at
+    - p138 ['000] — This page is the Table of Contents for the SGX REIT annual report, listing the locations of the Report of the Trustee, Statement by the Manager, Indep
+    - p141 — This page contains the Independent Auditor's Report for Stoneweg European Real Estate Investment Trust (SERT) covering the year ended 31 December 2024
+    - p144 — This page contains the Independent Auditor's Report from Deloitte & Touche LLP, confirming that Stoneweg European Real Estate Investment Trust's finan
+    - p145 ['000] — This page presents the Consolidated Statement of Total Return and Comprehensive Income for SGX REIT SERT, reporting total return/(loss) for the year 2
+    - p147 ['000] — This page presents the Consolidated Distribution Statement for the year ended 31 December 2024, reporting income available for distribution to Unithol
+    - p149 ['000] — This page presents the Consolidated Statement of Cash Flows for SERT for the year ended 31 December 2024, reporting net cash from operating activities
+    - p169 ['000] — This page presents a table of other fees recognized during the year ended 31 December 2024, reporting Development management fees (€'000), Project man
+    - p175 ['000] — This page presents the corporate income tax rates applicable in overseas jurisdictions for SERT and a table of deferred tax assets (€'000) with moveme
+    - p176 ['000] — This page presents the audited Portfolio Statement for Deferred Tax Liabilities (€'000) showing year-end balances of €84,061 and movements including c
+    - p189 ['000] — This page presents the notional principal amounts and expiry profile of SERT's and the Trust's derivative financial instruments for the year ended 31 
+    - p192 ['000] — This page presents the Financial Risk Management note containing a table detailing SERT's and the Trust's financial assets (cash, receivables, derivat
+    - p197 ['000] — This page presents the audited Portfolio Statement for SERT (SGD'000) detailing lease liabilities and market risk disclosures, specifically highlighti
+    - p205 ['000] — This page presents the audited Portfolio Statement (property valuations) for assets held for sale, listing specific properties in Italy and Poland wit
+    - p247 — This page presents a Logistics Prime Yields table detailing yield trends for Amsterdam, Schiphol, and Venlo from 2013 to 2024 (values in %), alongside
+    - p252 [million] — This page presents a table titled "Office Vacancy Rate: Île-de-France & Paris CBD (%)" displaying vacancy rates for 2014–2024, alongside a table of "O
+    - p253 — The page presents a table of Office Prime Yields (%) in Île-de-France from 2015 to 2024, showing yields for Paris-CBD, Lyon-Part-Dieu, and La-Defense 
+- **also mentions:**
+    - p34 ['000] — This page features a Gross Revenue and NPI Commentary table detailing FY 2024 versus FY 2023 performance by asset class and country for SERT's portfol
+    - p64 ['000] — This page presents the audited Portfolio Statement for Parc des Docks, an industrial property valued at €163.8 million as of 31 Dec 2024 with gross re
+    - p65 [million] — This page presents the Haagse Poort property valuation at €161.1 million as of 31 Dec 2024, alongside a Statement of Portfolio detailing its €16,894,5
+    - p66 [million] — This page presents the audited Portfolio Statement for Central Plaza, detailing its property valuation of €140.3 million (€156.8m purchase price), 97.
+    - p67 ['000] — This page presents the audited Portfolio Statement for Business Garden, a LEED Platinum-certified office property in Poznań valued at €70.0 million wi
+    - p69 [million] — This page features a **Statement of Portfolio (property valuations)** for the CLOM industrial park in Montepreandone, Italy, reporting a valuation of 
+    - p70 [million] — This page details the Nervesa 21 property in Milan, presenting a Property Valuation of €56.5 million (€25.4m acquisition price) and Gross Revenue for 
+    - p71 [million] — This page presents the audited Property Valuation and Statement of Portfolio (property valuations) for Veemarkt, a light industrial asset in Amsterdam
+    - p72 [million] — This page presents the audited Portfolio Statement for Moeder Teresaaan 100/200 in Utrecht, reporting a property valuation of €51.6 million (€50,727,9
+    - p73 [million] — This page presents an audited Portfolio Statement for the De Ruyterkade 5 property in Amsterdam, detailing a valuation of €43.0 million and 100% occup
+    - p77 ['000] — This page presents an audited Portfolio Statement (property valuations) as at 31 December 2024, reporting total gross revenue of €16,895'000 alongside
+    - p81 ['000] — This page presents the Audited Portfolio Statement as at 31 December 2024 (€'000), detailing property valuations, lettable areas, FY 2024 gross revenu
+    - p85 ['000] — This page presents the Audited Portfolio Statement (property valuations) for the reporting unit in €'000, detailing 18 properties as of 31 December 20
+    - p89 ['000] — This page presents an audited Portfolio Statement (property valuations) for the reporting unit in €'000, detailing 15 properties with valuation as at 
+    - p91 ['000] — This page presents a table titled "Valuation as at 31 December 2024 (€'000)" which details the office portfolio comprising five assets with their resp
+    - p93 ['000] — This page presents a detailed table titled "Statement of Portfolio (property valuations)" for the Logistics/Light Industrial segment, reporting data a
+    - p95 ['000] — This page presents a Logistics/Light Industrial portfolio table detailing seven properties as at 31 December 2024, reporting valuation, lettable area,
+    - p97 ['000] — This page displays aerial views of five logistics/light industrial properties in Slovakia and presents an audited Portfolio Statement table detailing 
+    - p99 ['000] — This page presents a Statement of Portfolio (property valuations) for the Logistics/Light Industrial segment, listing three properties with valuation 
+    - p101 ['000] — This page presents an Office property overview featuring exterior images and a table titled "Valuation as at 31 December 2024 (€'000)" which details t
+    - p162 ['000] — This page presents the audited Segment Results table for SERT 2024, detailing gross revenue and property operating expenditure by segment (Logistics/L
+    - p163 ['000] — This page presents the **Segment Profit** table for SERT (Sertis REIT) for the year ended 31 December 2024, reporting gross revenue and property opera
+    - p168 — This page presents notes detailing property manager's fees and acquisition/divestment fees, with a table showing 2024 cash payments of €15,821 for man
+    - p174 ['000] — This page presents the Income Tax Expense table and a Numerical reconciliation between income tax expense and total return before tax for SGX REIT SER
+    - p181 ['000] — This page presents sensitivity analysis for investment property fair values and details amounts recognized in profit and loss, specifically listing gr
+    - p187 ['000] — This page presents the audited Portfolio Statement for Net Finance Costs and Gain on Bond Buyback, reporting SERT's 2024 interest expense of €38,241'0
+    - p209 ['000] — This page presents the "Movements in net debt" and "Reconciliation of assets and liabilities from financing activities" tables for SERT, reporting fig
+    - p219 ['000] — This page presents a table titled "Percentage of Total Operating Expenses to Net Assets" for the year 2024, reporting total operating expenses of €'00

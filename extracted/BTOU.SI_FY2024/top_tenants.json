@@ -1,0 +1,12 @@
+[
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 1, "pct_basis": "gri", "source_page": 29, "client_name": "The William Carter Company", "industry": null, "revenue_pct": 6.0},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 2, "pct_basis": "gri", "source_page": 29, "client_name": "Hyundai Capital America", "industry": null, "revenue_pct": 4.6},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 3, "pct_basis": "gri", "source_page": 29, "client_name": "United Nations Foundation", "industry": null, "revenue_pct": 4.4},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 4, "pct_basis": "gri", "source_page": 29, "client_name": "US Treasury", "industry": null, "revenue_pct": 4.1},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 5, "pct_basis": "gri", "source_page": 29, "client_name": "ACE American", "industry": null, "revenue_pct": 4.1},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 6, "pct_basis": "gri", "source_page": 29, "client_name": "Amazon Corp", "industry": null, "revenue_pct": 3.9},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 7, "pct_basis": "gri", "source_page": 29, "client_name": "Kilpatrick Townsend", "industry": null, "revenue_pct": 3.9},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 8, "pct_basis": "gri", "source_page": 29, "client_name": "Quest Diagnostics", "industry": null, "revenue_pct": 3.7},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 9, "pct_basis": "gri", "source_page": 29, "client_name": "Gibson, Dunn, & Crutcher", "industry": null, "revenue_pct": 3.4},
+  {"symbol": "BTOU.SI", "financial_year": 2024, "rank": 10, "pct_basis": "gri", "source_page": 29, "client_name": "CoStar Group, Inc.", "industry": null, "revenue_pct": 2.7}
+]

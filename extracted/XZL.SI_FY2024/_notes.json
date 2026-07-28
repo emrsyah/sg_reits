@@ -1,0 +1,79 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2024,
+  "trust_name": "Acrophyte Hospitality Trust (formerly ARA US Hospitality Trust)",
+  "currency": {
+    "presentation": "USD",
+    "verified": "Statement headers read 'US$'000'; functional currency USD (all borrowings and investments in USD). No conversion applied; all figures native as-reported.",
+    "scale": "financial statements in US$'000 -> multiplied x1000 to absolute; per-hotel valuation/revenue tables in US$ millions -> x1,000,000."
+  },
+  "stapled_structure": "Stapled Group = ACRO-REIT Group (owns hotels as investment properties, master-lessor) + ACRO-BT Group (master lessee, operates hotels; hotels appear as PPE). Statements present ACRO-REIT / ACRO-BT / Stapled Group columns. STAPLED GROUP column used as canonical throughout (per task instruction).",
+  "atoms_captured_thousands": {
+    "dep_pe": 29215,
+    "fv_cf_signed": 11925,
+    "finance_costs": 22832,
+    "capex_sum": 20462,
+    "notes": "dep_pe = 'Depreciation of property, plant and equipment' C/F line (Stapled) 29,215 (income-statement D&A 29,241 also includes intangibles amortisation 26). fv_cf_signed (PPE reval -11,925 treated as IP-FV analogue per 2026-07-28 decision) = Net change in FV of investment properties C/F line = 0 at Stapled Group (no IP at stapled level; hotels are PPE). finance_costs = Note 20 gross finance-costs total (Stapled) 22,832 (not netted vs 71 finance income). capex_sum = 'Payment for capital expenditure' 20,462 (Acquisition of IP/PPE was 0 in FY2024 for Stapled)."
+  },
+  "derived_metrics_thousands_for_orchestrator": {
+    "ebit_NOI": 10708,
+    "depreciation": 41140,
+    "ebitda": 39994,
+    "ffo": 17448,
+    "capex": 20462,
+    "formulae": "ebit=operating_income(NOI); depreciation=dep_pe+fv_cf_signed=29,215+11,925=41,140; ebitda=pretax(-23,978)+interest(22,832)+depreciation(41,140)=39,994; ffo=net_income(-23,692)+depreciation(41,140)-net_property_sales(0)=17,448. PPE-revaluation treated as IP-FV analogue (LOCKED 2026-07-28)."
+  },
+  "inferred": [
+    "properties.category set to 'Specialized' for all 33 hotels (hospitality has no dedicated bucket in the canonical 6-value property taxonomy); category_raw carries the brand.",
+    "Per-hotel market_valuation/gross_revenue/occupancy aligned by row position across the facing-page split (name lists p14/p16 vs value tables p15/p17). Alignment VERIFIED: Sigma of 33 per-hotel valuations = US$728.0m, exactly matching the disclosed independent portfolio valuation (HVS, 31 Dec 2024).",
+    "performance.dpu = 1.595 US cents = after-retention DPS (before-retention 1.772).",
+    "performance.aggregate_leverage = 41.6% (average leverage per MAS Property Funds Appendix); net gearing separately disclosed at 39.1%."
+  ],
+  "anomalies_watchouts": [
+    "HOTEL-TRUST / PPE REVALUATION MODEL: at Stapled Group the non-cash property revaluation flows through 'Revaluation of property, plant and equipment' -11,925 (P&L) rather than an investment-property fair-value line. The strict fv_cf_signed atom (IP fair value) is therefore 0, so the §6 depreciation/EBITDA/FFO derivations do NOT strip this -11,925 PPE revaluation drag. Flagged for the orchestrator: if PPE revaluation should be treated as the hotel-trust analogue of the IP-FV atom, fv_cf_signed would be 11,925 (giving depreciation 41,140, ebitda 39,994, ffo 17,448). Left at 0 to obey the literal §6 atom definition; not silently substituted. [RESOLVED 2026-07-28: PPE reval treated as IP-FV analogue -> fv_cf_signed=+11,925; depreciation 41,140, ebitda 39,994, ffo 17,448. See REFERENCE.md §6.]",
+    "income_taxes = -286 (a tax CREDIT of 286 at Stapled Group; negative under the positive-expense-magnitude convention). Reconciles: pretax -23,978 + 286 credit = net -23,692.",
+    "net_property_sales = 0: 3 hotels divested in FY2024 (gross US$38.7m; Stapled net proceeds from held-for-sale disposals US$37.361m) but no disposal gain/loss recognised through the Stapled Group P&L ('Net loss on disposition of PPE' and 'Net change in FV of assets held for sale' both nil in 2024).",
+    "trade_mix and top_tenants intentionally EMPTY: hospitality master-lease trust with guest (not tenant) income; no tenant-concentration or trade-mix disclosure. Master leases are internal (ACRO-REIT to ACRO-BT subsidiaries).",
+    "Name change effective 2 Oct 2024: ARA US Hospitality Trust -> Acrophyte Hospitality Trust; sponsor now Acrophyte Pte. Ltd. (formerly Chip Eng Seng Corporation Ltd.), Tang family."
+  ],
+  "columns_never_fillable": {
+    "properties.gla": "Not disclosed. Hotels disclose Number of Rooms (not lettable/floor area); no GLA/NLA/GFA in the report.",
+    "properties.nla": "Not disclosed (see gla).",
+    "properties.gfa": "Not disclosed (see gla).",
+    "properties.net_property_income": "Structural: internal master-lease/operated hotel portfolio; NPI disclosed only at portfolio level (US$44.337m), not per hotel. Per-hotel figures are Revenue (captured as gross_revenue) and independent valuation.",
+    "top_tenants": "Structural: hospitality master-lease trust — guest income, no tenant-concentration table.",
+    "trade_mix": "Structural: hospitality trust — no trade-mix / by-industry disclosure."
+  },
+  "data_with_no_home": {
+    "number_of_rooms_per_hotel": "Disclosed per hotel (p15/p17) and portfolio total 4,315 rooms; no schema field for room count.",
+    "year_of_last_renovation": "Disclosed per hotel (p15/p17); no schema field.",
+    "brand_franchisers": "Hyatt / Marriott / Hilton franchise brands; captured in category_raw.",
+    "weighted_avg_debt_maturity": "Not disclosed as a WADM figure in the report (all-in cost of debt 6.7%, 47.5% hedged, term loans US$324.5m given instead); left null."
+  },
+  "parsing_traps": {
+    "facing_page_split": "Portfolio is a facing-page positional split: hotel identity (State/City/Brand/Name) on p14 & p16, the numeric metrics (rooms/tenure/valuation/revenue/occupancy) on p15 & p17 with NO label column. Rows aligned by position; verified by valuation sum = 728.0m.",
+    "stapled_columns": "Three-way column layout (ACRO-REIT / ACRO-BT / Stapled Group) throughout the statements — must read the Stapled Group column, not the first numeric column.",
+    "gross_revenue_recon_gap": "Sum of 33 remaining hotels' revenue (161.9m) is ~4.1% below reported total revenue (168.778m) because 3 hotels divested mid-year (Pittsburgh Airport, Plymouth Meeting, Shelton) contributed partial-year revenue no longer in the year-end 33-hotel list. Legit gap, not a miss."
+  },
+  "reconciliation": {
+    "STR_signed": "Sigma revenue (168,849) - Sigma expense (180,902) + Sigma adjustment (-11,639) = -23,692 = net_income (Total return for the year). PASS.",
+    "total_revenue_vs_performance_gross_revenue": "168,778 = 168,778. PASS.",
+    "npi_vs_gross_income": "44,337 = 44,337. PASS.",
+    "revenue_breakdown_sum": "158,282 + 10,496 = 168,778 = total_revenue. PASS.",
+    "operating_expense_breakdown_sum": "29,241+1,143+120+111+3,014 = 33,629 = operating_expense. PASS.",
+    "portfolio_valuation": "Sigma 33 hotel valuations = 728.0m = disclosed portfolio valuation. PASS."
+  },
+  "scaledown": "page_map.py summaries completed (exit 0); page_map_classify.py routing run in background (used routing only). Extraction figures taken directly from full.md audited statements, not from ScaleDown.",
+  "sources": {
+    "income_statement": "Statements of Comprehensive Income, p104",
+    "balance_sheet": "Statements of Financial Position, p103",
+    "cash_flow": "Cash Flow Statements, p110-111",
+    "distribution": "Statement of Distributable Income, p105",
+    "finance_costs_note": "Note 20, p150",
+    "revenue_note": "Note 17, p149",
+    "opex_note": "Note 21, p151",
+    "eps_note": "Note 23, p153",
+    "portfolio": "p14-17 (list + per-hotel metrics), p45 portfolio valuation",
+    "unitholders": "Statistics of Stapled Securityholdings, p177"
+  }
+}

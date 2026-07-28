@@ -1,0 +1,23 @@
+{
+  "stem": "36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2024",
+  "symbol": "SET.SI", "financial_year": 2024,
+  "sub_sector": "Diversified", "template_family": "Stoneweg/Cromwell European",
+  "parsed": {"markdown": "parsed_reports_datalab/36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2024/full.md",
+             "html_pages": "none (parsed markdown positional-zip used for properties)"},
+  "sections": {
+    "profile":     {"status": "done", "method": "llm_only", "rows": 1, "note": "REIT-only FY2024 (no BT); mgr/trustee/PM/sponsor from Corporate Information p225"},
+    "performance": {"status": "done", "method": "llm_only", "rows": 1, "note": "distribution rollforward A+B-P=E verified; DPU 14.106c; KPIs from Financial Highlights"},
+    "properties":  {"status": "done", "method": "hybrid", "rows": 105,
+      "cross_check": {"vs": "marketing portfolio summary p38 (105 props, EUR 2,240,947k)", "match": "exact"},
+      "note": "deterministic positional-zip of facing-page country asset tables (parse_props.py); 1 held_for_sale (Via della Fortezza 8)"},
+    "top_tenants": {"status": "done", "method": "hybrid", "rows": 10, "note": "TOP TEN TENANT-CUSTOMERS p45; industry null (no per-tenant sector)"},
+    "trade_mix":   {"status": "done", "method": "hybrid", "rows": 12, "note": "TENANT TRADE SECTOR BY HEADLINE RENT donut p45; pct_basis headline_rent"},
+    "financial":   {"status": "done", "method": "hybrid", "rows": 1,
+      "cross_check": {"vs": "Statement of Total Return p145 / Balance Sheet p146 / Cash Flow p147", "match": "line_items recon = net_income 35,481k exact"},
+      "note": "atoms: dep_pe=0, fv_cf_signed=27,677, finance_costs_gross=41,260, capex_sum=43,599 (EUR'000); derived per §6 LOCKED"},
+    "property_transactions": {"status": "done", "method": "llm_only", "rows": 6, "note": "5 completed divestments (EUR 32.1m) + 1 announced (Via della Fortezza); no acquisitions"}
+  },
+  "final_dir": "extracted/SET.SI_FY2024",
+  "gates": {"schema": "PASS", "check": "PASS (1 warn: gross_revenue near-recon 1.24%, divested+Maxima redevelopment)"},
+  "updated": "2026-07-28"
+}

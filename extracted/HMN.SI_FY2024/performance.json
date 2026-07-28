@@ -1,0 +1,54 @@
+{
+  "symbol": "HMN.SI",
+  "financial_year": 2024,
+  "portfolio_value": 7600000000.0,
+  "properties_location": "Australia, Belgium, China, France, Germany, Indonesia, Ireland, Japan, Malaysia, The Philippines, Singapore, South Korea, Spain, United Kingdom, United States of America, Vietnam",
+  "gross_revenue": 809520000.0,
+  "net_property_income": 370949000.0,
+  "net_distributable_income": 231229000.0,
+  "distributable_income_opening": 116477000,
+  "distribution_cash_paid": 212917000,
+  "distributable_income_closing": 134789000,
+  "distribution_pool_other_movements": null,
+  "distribution_paid": null,
+  "distribution_basis": "full_payout_no_retention_line",
+  "adjusted_distributable_income": null,
+  "dpu": 6.1,
+  "distribution_record": [
+    {
+      "period": "1 January 2024 to 30 June 2024",
+      "dpu": 2.547,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 July 2024 to 31 December 2024",
+      "dpu": 3.55,
+      "ex_date": null,
+      "pay_date": null
+    }
+  ],
+  "number_of_unitholders": 73110,
+  "number_of_shareholder_units": 3796166000,
+  "dpu_period_months": 12,
+  "aggregate_leverage": 38.3,
+  "interest_coverage_ratio": 3.1,
+  "cost_of_debt": 3.0,
+  "weighted_avg_debt_maturity": 3.7,
+  "nav_per_unit": 1.15,
+  "wale": null,
+  "portfolio_occupancy": 77.0,
+  "currency": "SGD",
+  "date": "2024-12-31",
+  "source_page": 6,
+  "flags": [],
+  "_notes": {
+    "portfolio_value_source": "p20/p21: 'The Group's portfolio was revalued at S$7.6 billion' as at 31 Dec 2024.",
+    "ndi_source": "Distribution Statement p118: Income available for distribution to Stapled Securityholders for the year = 231,229. distribution_cash_paid 212,917 = distributions paid during the year; opening 116,477; closing 134,789 (guard: 116,477+231,229-212,917=134,789, closes exactly, no other-movements line).",
+    "distribution_paid_null": "Manager distributes ~100% of income available for distribution (DPS 6.097c FY2024). No distinct after-retention for-the-year distributed line separate from income available; distribution_paid left NULL per convention (full_payout_no_retention_line) to avoid asserting fabricated retained=0.",
+    "dpu_source": "p20/p118: 1H2024 2.547c + 2H2024 3.550c = 6.097c (reported 6.10c).",
+    "kpi_source": "p185 & p21 Capital Management: Aggregate Leverage 38.3%, interest cover 3.1x, Effective Interest Rate (cost of debt) 3.0%, Weighted Average Debt to Maturity 3.7 yrs, NAV/Stapled Security S$1.15; Portfolio Occupancy 77% (p27/p981).",
+    "unitholders_source": "Statistics of Stapled Securityholdings p289: TOTAL 73,110 holders; units in issue at 31 Dec 2024 = 3,796,166,000 (SFP p115).",
+    "wale_null_reason": "MAS waiver (Property Funds Appendix 11.1(c)(iv)/(v)) from disclosing portfolio WALE for management-contract properties; only master-lease (~11 yr) and MCMGI (~15 yr) sub-scope figures disclosed (p25). No portfolio-wide WALE."
+  }
+}

@@ -1,0 +1,227 @@
+# Page map — 27_ME8U.SI_Mapletree-Industrial-Trust_FY2025_new
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p2 — This page presents the cover and corporate profile of the Mapletree Industrial Trust 2025/2026 Annual Report, detailing its vision, mission, listing o
+    - p18 — This page presents the **Organisation and Trust Structures** of Mapletree Industrial Trust, detailing the Board of Directors, key committees (Audit an
+    - p192 ['000] — This page presents Related Party Transactions and Financial Ratios for the SGX REIT Group, reporting figures in S$'000 with a primary table detailing 
+    - p195 — This page details accounting standard amendments, including SFRS(I) 18 requirements and other updates, alongside audit status for the year ended 31 Ma
+    - p197 ['000] — This page presents the Statistics of Unitholdings as at 29 May 2026, detailing direct and deemed interests held by major shareholders such as Temasek 
+- **also mentions:**
+    - p113 — This page presents unitholdings data for MIT as of 31 March 2026, featuring a breakdown by investor type (Institutional 32.4%, Retail 36.7%, Sponsor &
+    - p147 ['000] — This page details the Property Manager's management fee structure for marketing services and project management, specifying commission rates based on 
+    - p179 ['000] — This page presents the audited Portfolio Statement of Units in Issue and to be Issued for the SGX REIT MIT, reporting figures in SGD'000. The table de
+    - p194 ['000] — This page presents the SGX REIT's Segment Information table (in SGD'000) for the year ended 31 March 2025, detailing gross revenue of S$711,833 and pr
+    - p198 ['000] — This page presents the Interested Person Transactions table for Mapletree Industrial Trust for the financial year ended 31 March 2026, reporting aggre
+
+## performance
+- **MAIN (lead):**
+    - p10 [million] — This page presents SGX REIT's Key Highlights with reporting units in S$ Million and Singapore Cents, featuring tables for Gross Revenue, Net Property 
+    - p11 [million] — This page presents the **Key Information** table detailing assets under management (S$8,315.6 million as at 31 March 2026), total borrowings, and unit
+    - p18 — This page presents the **Organisation and Trust Structures** of Mapletree Industrial Trust, detailing the Board of Directors, key committees (Audit an
+    - p32 ['000] — This page presents a **Financial Review** table detailing the SGX REIT's gross revenue, property operating expenses, net property income, and distribu
+    - p33 ['000] — This page presents the Distribution to Unitholders (DPU) and Net Assets Attributable to Unitholders for SGX REIT, featuring a table detailing quarterl
+    - p35 [million] — This page presents a Capital Management table displaying MIT's key financial metrics and indicators, including total borrowings (S$ million), aggregat
+    - p41 ['000] — This page presents the **Lease Expiry Profile (By Gross Rental Income)** table and chart as at 31 March 2026, detailing lease expirations across prope
+    - p48 [million] — This page presents the **Data Centres** portfolio overview for MIT's North America, Singapore, and Japan regions as of 31 March 2026, featuring an inf
+    - p52 — This page presents the audited Portfolio Statement (property valuations) via a detailed table of data centre assets across North America, listing 34 p
+    - p58 [million] — This page presents the Property Portfolio Overview for General Industrial Buildings in Singapore as at 31 March 2026, featuring a table of key statist
+    - p59 — This page displays exterior views of the SGX REIT's portfolio properties, specifically listing 20 assets including 1. 26 Woodlands Loop, 2A Changi Nor
+    - p70 — This page presents Exhibit 6-2, a table displaying the 25th percentile, median, and 75th percentile rents for business park space in Singapore from 20
+    - p115 — This page contains the Table of Contents for the SGX REIT annual report, listing the Financial Statements (including Statements of Profit or Loss and 
+    - p119 — This page presents the Independent Auditors' Report for Mapletree Industrial Trust, highlighting that investment properties valued at S$7.3 billion (9
+    - p125 ['000] — This page presents the **DISTRIBUTION STATEMENTS** table for the financial year ended 31 March 2026, detailing the amount available for distribution t
+    - p126 ['000] — This page presents the Distribution Statements for SGX REIT for the financial year ended 31 March 2026, reporting figures in S$'000. The main artifact
+    - p128 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 March 2026, reporting cash flows from financing activities
+    - p129 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 2026, reporting changes in equ
+    - p131 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the financial years ended 31 March 2026 and 31 March 2025, reporting figures 
+    - p133 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 and latest property valuations alongside th
+    - p138 ['000] — This page presents the **audited Portfolio Statement** for SGX REIT as at 31 March 2026, detailing investment properties in Data Centres (Asia) and Hi
+    - p156 — This page details the Group's accounting policies for derivative financial instruments, provisions, and leases under Note 2.15 to 2.17 of the SGX REIT
+    - p164 — This page details Level 3 fair value valuation techniques and key unobservable inputs for SGX REIT's investment properties, presented in tables showin
+    - p196 ['000] — This page presents the Statistics of Unitholdings as at 29 May 2026, featuring tables detailing the distribution of unitholders by holding size and co
+    - p197 ['000] — This page presents the Statistics of Unitholdings as at 29 May 2026, detailing direct and deemed interests held by major shareholders such as Temasek 
+- **also mentions:**
+    - p13 [million] — This page presents the MIT Annual Report's financial performance summary for FY25/26, featuring key metrics on net property income (S$500.4 million), 
+    - p31 — This page presents comparative trading performance and yield data for the MIT REIT, featuring a table of final index values as of March 26 and a table
+    - p37 [million] — This page details Prudent Hedging Strategy, featuring a table and chart on Interest Rate Risk Management showing 88.6% of borrowings as hedged and a D
+    - p44 ['000] — This page presents operational data for SGX REIT, featuring a table on Rental Reversions by portfolio segment and tables detailing the Retention Rate 
+    - p113 — This page presents unitholdings data for MIT as of 31 March 2026, featuring a breakdown by investor type (Institutional 32.4%, Retail 36.7%, Sponsor &
+    - p123 ['000] — This page presents the Statements of Comprehensive Income for the Group, MIT, and perpetual securities holders for the financial year ended 31 March 2
+    - p124 ['000] — This page presents the **Statements of Financial Position** for SGX REIT as at 31 March 2026, reporting Group and MIT financial data in S$'000. The ta
+    - p130 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the financial year ended 31 March 2026, reporting total comprehensive income 
+    - p135 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, reporting gross revenue and average occupancy rates in S$'000 alongside pr
+    - p137 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 alongside average occupancy rates and lates
+    - p139 ['000] — This page presents the Audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing gross revenue by property segment (reported in S$'000),
+    - p141 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, detailing gross revenue (S$'000), average occupancy rates (%), latest valu
+    - p142 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 March 2026, detailing investment properties including General Indust
+    - p143 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, reporting gross revenue of S$'000 alongside average occupancy rates and latest
+    - p179 ['000] — This page presents the audited Portfolio Statement of Units in Issue and to be Issued for the SGX REIT MIT, reporting figures in SGD'000. The table de
+    - p190 ['000] — This page presents a financial risk management disclosure focusing on capital structure, aggregate leverage limits, and compliance with the CIS Code, 
+    - p198 ['000] — This page presents the Interested Person Transactions table for Mapletree Industrial Trust for the financial year ended 31 March 2026, reporting aggre
+    - p199 ['000] — This page details Interested Person Transactions for the financial year ended 31 March 2026, reporting aggregate values in S$'000 for lease-related in
+
+## properties
+- **MAIN (lead):**
+    - p9 — This page highlights corporate governance and ESG metrics, specifically displaying that 69% of the board consists of Independent Directors and achievi
+    - p18 — This page presents the **Organisation and Trust Structures** of Mapletree Industrial Trust, detailing the Board of Directors, key committees (Audit an
+    - p34 [million] — This page presents the audited Portfolio Statement detailing property valuations for MIT's 136 properties across Singapore, North America, and Japan a
+    - p41 ['000] — This page presents the **Lease Expiry Profile (By Gross Rental Income)** table and chart as at 31 March 2026, detailing lease expirations across prope
+    - p43 — This page presents the audited Portfolio Statement detailing remaining years to expiry on underlying land leases by land area (As at 31 March 2025 and
+    - p44 ['000] — This page presents operational data for SGX REIT, featuring a table on Rental Reversions by portfolio segment and tables detailing the Retention Rate 
+    - p48 [million] — This page presents the **Data Centres** portfolio overview for MIT's North America, Singapore, and Japan regions as of 31 March 2026, featuring an inf
+    - p52 — This page presents the audited Portfolio Statement (property valuations) via a detailed table of data centre assets across North America, listing 34 p
+    - p53 ['000] — This page presents the audited Portfolio Statement detailing 99 individual property assets with columns for NLA, ownership interest, purchase price, a
+    - p54 — This page presents a detailed property portfolio overview for SGX REIT, listing 26 data centre assets across North America (Mississauga, King of Pruss
+    - p55 ['000] — The page presents audited Portfolio Statements in US$, SGD, and JPY denominated tables detailing NLA/GFA, ownership interests, purchase prices, valuat
+    - p56 [million] — This page presents the **audited Portfolio Statement** for Hi-Tech Buildings and Business Space as of 31 March 2026, reporting key metrics in S$ milli
+    - p57 ['000] — This page presents the **Statement of Portfolio (property valuations)** via a detailed table listing 11 properties with acquisition dates, lease terms
+    - p58 [million] — This page presents the Property Portfolio Overview for General Industrial Buildings in Singapore as at 31 March 2026, featuring a table of key statist
+    - p59 — This page displays exterior views of the SGX REIT's portfolio properties, specifically listing 20 assets including 1. 26 Woodlands Loop, 2A Changi Nor
+    - p61 ['000] — The page features a **Statement of Portfolio (property valuations)** table presenting SG$'000 data for 25 assets, including gross revenue, occupancy r
+    - p70 — This page presents Exhibit 6-2, a table displaying the 25th percentile, median, and 75th percentile rents for business park space in Singapore from 20
+    - p103 — This page details the terms of reference and activities of the Audit Committee (AC) for the financial year ended 31 March 2026, including a specific d
+    - p115 — This page contains the Table of Contents for the SGX REIT annual report, listing the Financial Statements (including Statements of Profit or Loss and 
+    - p119 — This page presents the Independent Auditors' Report for Mapletree Industrial Trust, highlighting that investment properties valued at S$7.3 billion (9
+    - p132 — This page contains the audited Portfolio Statement (property valuations) for SGX REIT as at 31 March 2026, detailing a list of investment properties u
+    - p133 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 and latest property valuations alongside th
+    - p134 — This page presents a **Statement of Portfolio (property valuations)** listing investment properties within the Data Centres – North America cluster as
+    - p135 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, reporting gross revenue and average occupancy rates in S$'000 alongside pr
+    - p136 — This page presents the **audited Portfolio Statement** for SGX REIT as at 31 March 2026, detailing investment properties in North America and Asia wit
+    - p137 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 alongside average occupancy rates and lates
+    - p138 ['000] — This page presents the **audited Portfolio Statement** for SGX REIT as at 31 March 2026, detailing investment properties in Data Centres (Asia) and Hi
+    - p139 ['000] — This page presents the Audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing gross revenue by property segment (reported in S$'000),
+    - p140 — This page presents the audited Portfolio Statement for SGX REIT as of 31 March 2026, listing investment properties under the General Industrial Buildi
+    - p141 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, detailing gross revenue (S$'000), average occupancy rates (%), latest valu
+    - p142 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 March 2026, detailing investment properties including General Indust
+    - p143 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, reporting gross revenue of S$'000 alongside average occupancy rates and latest
+    - p144 — This page contains the audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing carrying amounts of investment properties valued by CBR
+    - p154 — This page outlines SGX REIT's accounting policies for investment properties, cash equivalents, asset impairment, and financial guarantees without pres
+    - p156 — This page details the Group's accounting policies for derivative financial instruments, provisions, and leases under Note 2.15 to 2.17 of the SGX REIT
+    - p162 ['000] — This page presents the audited Portfolio Statement for Investment Properties, detailing the movement in carrying amounts (S$'000) between 2025 and 202
+    - p164 — This page details Level 3 fair value valuation techniques and key unobservable inputs for SGX REIT's investment properties, presented in tables showin
+    - p165 ['000] — This page contains the audited Portfolio Statement (property valuations) detailing valuation techniques and key unobservable inputs for High-Tech Buil
+    - p168 ['000] — This page presents the Audited Portfolio Statement for investments in subsidiaries (continued) and the Statement of Loans to Subsidiaries, detailing e
+    - p171 ['000] — This page presents the audited Portfolio Statement for borrowings and loans from a subsidiary, reporting Group balances in S$'000 for 2026 and 2025 ac
+    - p178 ['000] — This page presents the audited Portfolio Statement for Deferred Tax Liabilities and the HEDGING RESERVE, reporting Group and MIT movements in S$'000. 
+    - p179 ['000] — This page presents the audited Portfolio Statement of Units in Issue and to be Issued for the SGX REIT MIT, reporting figures in SGD'000. The table de
+    - p193 ['000] — This page presents the audited Portfolio Statement (segment information) for SGX REIT, detailing gross revenue and net property income by asset segmen
+- **also mentions:**
+    - p13 [million] — This page presents the MIT Annual Report's financial performance summary for FY25/26, featuring key metrics on net property income (S$500.4 million), 
+    - p38 [million] — This page presents the Operations Review with a Property Portfolio Statistics table showing 141 properties (2025) and 136 properties (2026), followed 
+    - p39 ['000] — This page presents MIT's Assets Under Management (AUM) and portfolio segmentation data as of 31 March 2026, led by a table detailing the shift from sp
+    - p40 ['000] — This page presents a **Segmental Occupancy Rates** table for the Singapore Portfolio comparing FY24/25 and FY25/26, alongside an **Operations Review**
+    - p60 — This page presents a **Detailed Property Information** table listing 26 general industrial buildings within the audited portfolio, detailing their acq
+    - p64 [million] — This page presents an overview of Singapore's industrial property market trends and stock levels as of 1Q2026, detailing the Research, Innovation and 
+    - p158 ['000] — This page presents the **Gross Revenue** table for the Group and MIT, reporting rental income, service charges, and other operating income in SGD'000 
+    - p163 ['000] — This page presents the reconciliation of Level 3 fair value measurements for investment properties, detailing the net change in fair value recognised 
+    - p194 ['000] — This page presents the SGX REIT's Segment Information table (in SGD'000) for the year ended 31 March 2025, detailing gross revenue of S$711,833 and pr
+
+## top_tenants
+- **MAIN (lead):**
+    - p41 ['000] — This page presents the **Lease Expiry Profile (By Gross Rental Income)** table and chart as at 31 March 2026, detailing lease expirations across prope
+    - p44 ['000] — This page presents operational data for SGX REIT, featuring a table on Rental Reversions by portfolio segment and tables detailing the Retention Rate 
+    - p56 [million] — This page presents the **audited Portfolio Statement** for Hi-Tech Buildings and Business Space as of 31 March 2026, reporting key metrics in S$ milli
+    - p58 [million] — This page presents the Property Portfolio Overview for General Industrial Buildings in Singapore as at 31 March 2026, featuring a table of key statist
+    - p196 ['000] — This page presents the Statistics of Unitholdings as at 29 May 2026, featuring tables detailing the distribution of unitholders by holding size and co
+- **also mentions:**
+    - p9 — This page highlights corporate governance and ESG metrics, specifically displaying that 69% of the board consists of Independent Directors and achievi
+    - p42 — This page presents a donut chart and accompanying tables detailing the tenant diversification across trade sectors by gross rental income for the SGX 
+    - p43 — This page presents the audited Portfolio Statement detailing remaining years to expiry on underlying land leases by land area (As at 31 March 2025 and
+    - p45 — This page presents two main tables detailing the MIT Data Centre Portfolio split by lease type and tenant type as of 31 March 2026, reporting percenta
+    - p47 ['000] — This page presents a portfolio map and list of 79 industrial properties across 38 clusters in Singapore, alongside 2 data centres located in Japan. Th
+    - p48 [million] — This page presents the **Data Centres** portfolio overview for MIT's North America, Singapore, and Japan regions as of 31 March 2026, featuring an inf
+    - p52 — This page presents the audited Portfolio Statement (property valuations) via a detailed table of data centre assets across North America, listing 34 p
+    - p54 — This page presents a detailed property portfolio overview for SGX REIT, listing 26 data centre assets across North America (Mississauga, King of Pruss
+    - p59 — This page displays exterior views of the SGX REIT's portfolio properties, specifically listing 20 assets including 1. 26 Woodlands Loop, 2A Changi Nor
+    - p103 — This page details the terms of reference and activities of the Audit Committee (AC) for the financial year ended 31 March 2026, including a specific d
+    - p115 — This page contains the Table of Contents for the SGX REIT annual report, listing the Financial Statements (including Statements of Profit or Loss and 
+    - p119 — This page presents the Independent Auditors' Report for Mapletree Industrial Trust, highlighting that investment properties valued at S$7.3 billion (9
+    - p133 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 and latest property valuations alongside th
+    - p134 — This page presents a **Statement of Portfolio (property valuations)** listing investment properties within the Data Centres – North America cluster as
+    - p138 ['000] — This page presents the **audited Portfolio Statement** for SGX REIT as at 31 March 2026, detailing investment properties in Data Centres (Asia) and Hi
+    - p144 — This page contains the audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing carrying amounts of investment properties valued by CBR
+    - p154 — This page outlines SGX REIT's accounting policies for investment properties, cash equivalents, asset impairment, and financial guarantees without pres
+    - p164 — This page details Level 3 fair value valuation techniques and key unobservable inputs for SGX REIT's investment properties, presented in tables showin
+    - p165 ['000] — This page contains the audited Portfolio Statement (property valuations) detailing valuation techniques and key unobservable inputs for High-Tech Buil
+
+## trade_mix
+- **MAIN (lead):**
+    - p9 — This page highlights corporate governance and ESG metrics, specifically displaying that 69% of the board consists of Independent Directors and achievi
+    - p11 [million] — This page presents the **Key Information** table detailing assets under management (S$8,315.6 million as at 31 March 2026), total borrowings, and unit
+    - p42 — This page presents a donut chart and accompanying tables detailing the tenant diversification across trade sectors by gross rental income for the SGX 
+    - p43 — This page presents the audited Portfolio Statement detailing remaining years to expiry on underlying land leases by land area (As at 31 March 2025 and
+    - p45 — This page presents two main tables detailing the MIT Data Centre Portfolio split by lease type and tenant type as of 31 March 2026, reporting percenta
+    - p47 ['000] — This page presents a portfolio map and list of 79 industrial properties across 38 clusters in Singapore, alongside 2 data centres located in Japan. Th
+    - p48 [million] — This page presents the **Data Centres** portfolio overview for MIT's North America, Singapore, and Japan regions as of 31 March 2026, featuring an inf
+    - p52 — This page presents the audited Portfolio Statement (property valuations) via a detailed table of data centre assets across North America, listing 34 p
+    - p56 [million] — This page presents the **audited Portfolio Statement** for Hi-Tech Buildings and Business Space as of 31 March 2026, reporting key metrics in S$ milli
+    - p58 [million] — This page presents the Property Portfolio Overview for General Industrial Buildings in Singapore as at 31 March 2026, featuring a table of key statist
+    - p115 — This page contains the Table of Contents for the SGX REIT annual report, listing the Financial Statements (including Statements of Profit or Loss and 
+    - p119 — This page presents the Independent Auditors' Report for Mapletree Industrial Trust, highlighting that investment properties valued at S$7.3 billion (9
+    - p133 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 and latest property valuations alongside th
+    - p144 — This page contains the audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing carrying amounts of investment properties valued by CBR
+    - p154 — This page outlines SGX REIT's accounting policies for investment properties, cash equivalents, asset impairment, and financial guarantees without pres
+    - p164 — This page details Level 3 fair value valuation techniques and key unobservable inputs for SGX REIT's investment properties, presented in tables showin
+- **also mentions:**
+    - p32 ['000] — This page presents a **Financial Review** table detailing the SGX REIT's gross revenue, property operating expenses, net property income, and distribu
+    - p44 ['000] — This page presents operational data for SGX REIT, featuring a table on Rental Reversions by portfolio segment and tables detailing the Retention Rate 
+    - p139 ['000] — This page presents the Audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing gross revenue by property segment (reported in S$'000),
+    - p142 ['000] — This page presents the audited Portfolio Statement (property valuations) as at 31 March 2026, detailing investment properties including General Indust
+    - p161 ['000] — This page presents earnings per unit (EPU) and cash flow data for the SGX REIT Group reported in SGD'000, detailing basic and diluted EPU calculations
+    - p170 ['000] — This page of the SGX REIT annual report presents a reconciliation table for MRODCT showing the Group's share of net assets and carrying value in a joi
+    - p186 ['000] — This page presents the Financial Risk Management notes focusing on credit risk, displaying a table of corporate guarantees provided for borrowings by 
+    - p187 ['000] — This page presents the Group's credit risk management disclosures, specifically detailing trade receivables and allowance for expected credit losses i
+    - p188 ['000] — This page presents the maturity profile of non-derivative financial liabilities for the Group and MIT, categorized by contractual undiscounted cash fl
+    - p192 ['000] — This page presents Related Party Transactions and Financial Ratios for the SGX REIT Group, reporting figures in S$'000 with a primary table detailing 
+    - p193 ['000] — This page presents the audited Portfolio Statement (segment information) for SGX REIT, detailing gross revenue and net property income by asset segmen
+    - p194 ['000] — This page presents the SGX REIT's Segment Information table (in SGD'000) for the year ended 31 March 2025, detailing gross revenue of S$711,833 and pr
+
+## financial
+- **MAIN (lead):**
+    - p18 — This page presents the **Organisation and Trust Structures** of Mapletree Industrial Trust, detailing the Board of Directors, key committees (Audit an
+    - p103 — This page details the terms of reference and activities of the Audit Committee (AC) for the financial year ended 31 March 2026, including a specific d
+    - p115 — This page contains the Table of Contents for the SGX REIT annual report, listing the Financial Statements (including Statements of Profit or Loss and 
+    - p122 ['000] — This page presents the Statements of Profit or Loss for SGX REIT, reporting Group and MIT results in S$'000 for the financial year ended 31 March 2026
+    - p123 ['000] — This page presents the Statements of Comprehensive Income for the Group, MIT, and perpetual securities holders for the financial year ended 31 March 2
+    - p125 ['000] — This page presents the **DISTRIBUTION STATEMENTS** table for the financial year ended 31 March 2026, detailing the amount available for distribution t
+    - p126 ['000] — This page presents the Distribution Statements for SGX REIT for the financial year ended 31 March 2026, reporting figures in S$'000. The main artifact
+    - p127 ['000] — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the financial year ended 31 March 2026, reporting Group net cash generate
+    - p128 ['000] — This page presents the Consolidated Statement of Cash Flows for the financial year ended 31 March 2026, reporting cash flows from financing activities
+    - p129 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT for the financial year ended 31 March 2026, reporting changes in equ
+    - p130 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the financial year ended 31 March 2026, reporting total comprehensive income 
+    - p131 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the financial years ended 31 March 2026 and 31 March 2025, reporting figures 
+    - p163 ['000] — This page presents the reconciliation of Level 3 fair value measurements for investment properties, detailing the net change in fair value recognised 
+    - p164 — This page details Level 3 fair value valuation techniques and key unobservable inputs for SGX REIT's investment properties, presented in tables showin
+    - p169 ['000] — This page details the audited financial information of the Mapletree Rosewood Data Centre Trust (MRODCT) joint venture, presenting a summarised statem
+    - p177 ['000] — This page presents tables detailing the Group's and MIT's derivative financial instruments used for hedging interest rate risk, specifically interest 
+    - p180 ['000] — This page presents capital commitments contracted for but not recognized in the financial statements, displaying a table with Group and MIT figures fo
+    - p187 ['000] — This page presents the Group's credit risk management disclosures, specifically detailing trade receivables and allowance for expected credit losses i
+    - p193 ['000] — This page presents the audited Portfolio Statement (segment information) for SGX REIT, detailing gross revenue and net property income by asset segmen
+- **also mentions:**
+    - p10 [million] — This page presents SGX REIT's Key Highlights with reporting units in S$ Million and Singapore Cents, featuring tables for Gross Revenue, Net Property 
+    - p13 [million] — This page presents the MIT Annual Report's financial performance summary for FY25/26, featuring key metrics on net property income (S$500.4 million), 
+    - p32 ['000] — This page presents a **Financial Review** table detailing the SGX REIT's gross revenue, property operating expenses, net property income, and distribu
+    - p43 — This page presents the audited Portfolio Statement detailing remaining years to expiry on underlying land leases by land area (As at 31 March 2025 and
+    - p48 [million] — This page presents the **Data Centres** portfolio overview for MIT's North America, Singapore, and Japan regions as of 31 March 2026, featuring an inf
+    - p53 ['000] — This page presents the audited Portfolio Statement detailing 99 individual property assets with columns for NLA, ownership interest, purchase price, a
+    - p55 ['000] — The page presents audited Portfolio Statements in US$, SGD, and JPY denominated tables detailing NLA/GFA, ownership interests, purchase prices, valuat
+    - p56 [million] — This page presents the **audited Portfolio Statement** for Hi-Tech Buildings and Business Space as of 31 March 2026, reporting key metrics in S$ milli
+    - p57 ['000] — This page presents the **Statement of Portfolio (property valuations)** via a detailed table listing 11 properties with acquisition dates, lease terms
+    - p61 ['000] — The page features a **Statement of Portfolio (property valuations)** table presenting SG$'000 data for 25 assets, including gross revenue, occupancy r
+    - p133 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 and latest property valuations alongside th
+    - p135 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, reporting gross revenue and average occupancy rates in S$'000 alongside pr
+    - p137 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, detailing gross revenue in SGD'000 alongside average occupancy rates and lates
+    - p139 ['000] — This page presents the Audited Portfolio Statement for SGX REIT as at 31 March 2026, detailing gross revenue by property segment (reported in S$'000),
+    - p141 ['000] — This page presents the **Audited Portfolio Statement** as at 31 March 2026, detailing gross revenue (S$'000), average occupancy rates (%), latest valu
+    - p143 ['000] — This page presents the Audited Portfolio Statement as at 31 March 2026, reporting gross revenue of S$'000 alongside average occupancy rates and latest
+    - p158 ['000] — This page presents the **Gross Revenue** table for the Group and MIT, reporting rental income, service charges, and other operating income in SGD'000 
+    - p159 ['000] — This page presents four financial tables detailing Property Operating Expenses, Interest Income, Investment Income, and Borrowing Costs for the Group 
+    - p160 ['000] — This page presents the audited financial statements for Other Trust Expenses and Income Tax, reporting Group and MIT figures in S$'000 for 2026 and 20
+    - p179 ['000] — This page presents the audited Portfolio Statement of Units in Issue and to be Issued for the SGX REIT MIT, reporting figures in SGD'000. The table de
+    - p194 ['000] — This page presents the SGX REIT's Segment Information table (in SGD'000) for the year ended 31 March 2025, detailing gross revenue of S$711,833 and pr
+    - p198 ['000] — This page presents the Interested Person Transactions table for Mapletree Industrial Trust for the financial year ended 31 March 2026, reporting aggre
+    - p199 ['000] — This page details Interested Person Transactions for the financial year ended 31 March 2026, reporting aggregate values in S$'000 for lease-related in

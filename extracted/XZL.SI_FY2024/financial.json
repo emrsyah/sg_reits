@@ -1,0 +1,77 @@
+{
+  "symbol": "XZL.SI",
+  "financial_year": 2024,
+  "currency": "USD",
+  "income_stmt_metrics": {
+    "total_revenue": 168778000,
+    "cost_of_revenue": 124441000,
+    "gross_income": 44337000,
+    "operating_income": 10708000,
+    "operating_expense": 33629000,
+    "pretax_income": -23978000,
+    "income_taxes": -286000,
+    "net_income": -23692000,
+    "non_operating_income_or_loss": -34686000,
+    "interest_expense_non_operating": 22832000,
+    "diluted_shares_outstanding": 579792000,
+    "weighted_avg_shares_basic": 579792000,
+    "net_property_sales": 0,
+    "ebit": 10708000,
+    "ebitda": 39994000,
+    "depreciation": 41140000,
+    "funds_from_operation": 17448000,
+    "unitholders": -23692000,
+    "perpetual_security_holders": null,
+    "minorities": null,
+    "_derived": ["depreciation", "ebit", "ebitda", "funds_from_operation", "interest_expense_non_operating", "non_operating_income_or_loss", "operating_income"],
+    "_ppe_reval_convention": "PPE revaluation of hotels (-11,925k) treated as the IP-fair-value analogue (fv_cf_signed=+11,925) per orchestrator decision 2026-07-28; strips real-estate revaluation from depreciation/EBITDA/FFO to match NAREIT and the IP-model hospitality trusts.",
+    "revenue_breakdown": [
+      {"category": "Room revenue", "amount": 158282000, "class": "Product/Service Sales"},
+      {"category": "Other operating revenue", "amount": 10496000, "class": "Product/Service Sales"}
+    ],
+    "operating_expense_breakdown": [
+      {"category": "Depreciation and amortisation", "amount": 29241000, "class": "Depreciation & Amortisation"},
+      {"category": "REIT Manager and Trustee-Manager's management fees", "amount": 1143000, "class": "General & Admin"},
+      {"category": "Trustee-Manager's trustee fee", "amount": 120000, "class": "General & Admin"},
+      {"category": "REIT Trustee's fee", "amount": 111000, "class": "General & Admin"},
+      {"category": "Other trust expenses", "amount": 3014000, "class": "Other expenses"}
+    ]
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 780945000,
+    "total_equity": 423907000,
+    "total_liabilities": 357038000,
+    "working_capital": -52617000,
+    "total_current_asset": 38131000,
+    "total_non_current_asset": 742814000,
+    "total_current_liabilities": 90748000,
+    "total_non_current_liabilities": 266290000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 35235000,
+    "investing_cash_flow": 16943000,
+    "financing_cash_flow": -40654000,
+    "net_cash_flow": 11524000,
+    "free_cash_flow": 14773000,
+    "capital_expenditure": 20462000
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "gross_revenue", "amount": 168778000, "label_raw": "Revenue", "source_page": 104},
+    {"statement": "adjustment", "component": "finance_income", "amount": 71000, "label_raw": "Finance income (Note 20)", "source_page": 150},
+    {"statement": "expense", "component": "property_operating_expenses", "amount": 109203000, "label_raw": "Operating expenses", "source_page": 104},
+    {"statement": "expense", "component": "hotel_management_fee", "amount": 5061000, "label_raw": "Hotel management fee", "source_page": 104},
+    {"statement": "expense", "component": "property_tax", "amount": 6131000, "label_raw": "Property taxes", "source_page": 104},
+    {"statement": "expense", "component": "insurance", "amount": 2703000, "label_raw": "Insurance", "source_page": 104},
+    {"statement": "expense", "component": "rental_and_other_expenses", "amount": 1343000, "label_raw": "Rental and other expenses", "source_page": 104},
+    {"statement": "expense", "component": "depreciation_amortisation", "amount": 29241000, "label_raw": "Depreciation and amortisation", "source_page": 104},
+    {"statement": "expense", "component": "management_fee_base", "amount": 1143000, "label_raw": "REIT Manager and Trustee-Manager's management fees", "source_page": 104},
+    {"statement": "expense", "component": "trustee_manager_fee", "amount": 120000, "label_raw": "Trustee-Manager's trustee fee", "source_page": 104},
+    {"statement": "expense", "component": "trustee_fee", "amount": 111000, "label_raw": "REIT Trustee's fee", "source_page": 104},
+    {"statement": "expense", "component": "other_trust_expenses", "amount": 3014000, "label_raw": "Other trust expenses", "source_page": 104},
+    {"statement": "expense", "component": "finance_costs", "amount": 22832000, "label_raw": "Finance costs (Note 20, gross)", "source_page": 150},
+    {"statement": "adjustment", "component": "revaluation_ppe", "amount": -11925000, "label_raw": "Revaluation of property, plant and equipment", "source_page": 104},
+    {"statement": "adjustment", "component": "taxation", "amount": 286000, "label_raw": "Taxation (credit)", "source_page": 104}
+  ],
+  "source_page": 104
+}

@@ -1,0 +1,16 @@
+[
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Manufacturing", "category_raw": "Electronics", "pct": 26.1, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Logistics & Supply Chain Management", "category_raw": "Logistics & Supply Chain Management", "pct": 23.9, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Food & Beverages", "category_raw": "F&B and Retail", "pct": 10.7, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Healthcare & Wellness", "category_raw": "Healthcare", "pct": 9.0, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Infrastructure, Real Estate & Property Services", "category_raw": "Construction & Real Estate", "pct": 6.2, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "IT & Telecommunications", "category_raw": "Data Centre & Telecommunication", "pct": 6.1, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "IT & Telecommunications", "category_raw": "R&D and Technology", "pct": 5.8, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Industrial Trades", "category_raw": "Engineering", "pct": 3.4, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Industrial Trades", "category_raw": "Chemical", "pct": 3.0, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Office Trades", "category_raw": "Media & Publishing", "pct": 2.9, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Education", "pct": 1.6, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Energy, Mining & Resources", "category_raw": "Maritime", "pct": 0.9, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Office Trades", "category_raw": "Convention", "pct": 0.2, "pct_basis": "gri", "source_page": 21},
+  {"symbol": "M1GU.SI", "financial_year": 2024, "category": "Other Industrial Trades", "category_raw": "Others", "pct": 0.2, "pct_basis": "gri", "source_page": 21}
+]

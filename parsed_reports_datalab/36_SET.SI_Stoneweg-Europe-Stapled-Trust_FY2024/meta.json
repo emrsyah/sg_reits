@@ -1,0 +1,16 @@
+{
+  "file": "36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 328,
+  "pages_written": 328,
+  "seconds": 81.7,
+  "parse_quality_score": null,
+  "runtime": 73.9662675857544,
+  "cost_breakdown": {
+    "list_cost_cents": 132,
+    "final_cost_cents": 132,
+    "regional_multiplier": 1.0
+  },
+  "checkpoint_id": "checkpoint_rn1P3pqmlGrraVhmz1Su8-Ew6T9vtajtc_lfNWyE4x0",
+  "page_range": null
+}

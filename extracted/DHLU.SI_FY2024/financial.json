@@ -1,0 +1,121 @@
+{
+  "symbol": "DHLU.SI",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_stmt_metrics": {
+    "total_revenue": 57100000,
+    "cost_of_revenue": 13210000,
+    "gross_income": 43890000,
+    "operating_income": 38497000,
+    "operating_expense": 5393000,
+    "ebit": 38497000.0,
+    "ebitda": 39486000.0,
+    "pretax_income": 41339000,
+    "income_taxes": 6634000,
+    "net_income": 34705000,
+    "non_operating_income_or_loss": 2842000,
+    "interest_expense_non_operating": 6630000.0,
+    "weighted_avg_shares_basic": 696619000,
+    "diluted_shares_outstanding": 696619000,
+    "net_property_sales": 0,
+    "funds_from_operation": 26222000.0,
+    "unitholders": 33921000,
+    "perpetual_security_holders": -784000.0,
+    "minorities": null,
+    "_derived": [
+      "capital_expenditure",
+      "depreciation",
+      "ebit",
+      "ebitda",
+      "free_cash_flow",
+      "funds_from_operation",
+      "non_operating_income_or_loss",
+      "operating_income"
+    ],
+    "revenue_breakdown": [
+      {
+        "category": "Rental income",
+        "amount": 50535000,
+        "class": "Product/Service Sales"
+      },
+      {
+        "category": "Recoverable and other income",
+        "amount": 6565000,
+        "class": "Other income"
+      }
+    ],
+    "operating_expense_breakdown": [
+      {
+        "category": "Manager's management fees",
+        "amount": 2393000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Japan asset management fees",
+        "amount": 1045000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trustee's fee",
+        "amount": 284000,
+        "class": "General & Admin"
+      },
+      {
+        "category": "Trust expenses",
+        "amount": 1671000,
+        "class": "Other expenses"
+      }
+    ],
+    "depreciation": -8483000
+  },
+  "balance_sheet_metrics": {
+    "total_asset": 1083515000,
+    "total_equity": 518127000,
+    "total_liabilities": 565388000,
+    "working_capital": -17021000,
+    "total_current_asset": 87054000,
+    "total_non_current_asset": 996461000,
+    "total_current_liabilities": 104075000,
+    "total_non_current_liabilities": 461313000
+  },
+  "cash_flow_metrics": {
+    "operating_cash_flow": 40850000,
+    "investing_cash_flow": -49091000,
+    "financing_cash_flow": 2630000,
+    "net_cash_flow": -5611000,
+    "free_cash_flow": -6515000.0,
+    "capital_expenditure": 47365000.0
+  },
+  "employee_breakdown": null,
+  "line_items": [
+    {"statement": "revenue", "component": "rental_income", "amount": 50535000, "label_raw": "Rental income", "source_page": 176},
+    {"statement": "revenue", "component": "recoverable_and_other_income", "amount": 6565000, "label_raw": "Recoverable and other income", "source_page": 176},
+    {"statement": "expense", "component": "property_taxes", "amount": 5107000, "label_raw": "Property taxes", "source_page": 176},
+    {"statement": "expense", "component": "utilities_expenses", "amount": 3719000, "label_raw": "Utilities expenses", "source_page": 176},
+    {"statement": "expense", "component": "property_management_fees", "amount": 1111000, "label_raw": "Property management fees and expenses", "source_page": 176},
+    {"statement": "expense", "component": "building_management_expenses", "amount": 1948000, "label_raw": "Building management expenses", "source_page": 176},
+    {"statement": "expense", "component": "other_operating_expenses", "amount": 1325000, "label_raw": "Other operating expenses", "source_page": 176},
+    {"statement": "expense", "component": "managers_management_fees", "amount": 2393000, "label_raw": "Manager's management fees", "source_page": 146},
+    {"statement": "expense", "component": "japan_asset_management_fees", "amount": 1045000, "label_raw": "Japan asset management fees", "source_page": 146},
+    {"statement": "expense", "component": "trustees_fee", "amount": 284000, "label_raw": "Trustee's fee", "source_page": 146},
+    {"statement": "expense", "component": "trust_expenses", "amount": 1671000, "label_raw": "Trust expenses", "source_page": 146},
+    {"statement": "expense", "component": "finance_expenses", "amount": 6630000, "label_raw": "Finance expenses", "source_page": 146},
+    {"statement": "adjustment", "component": "other_income", "amount": 2013000, "label_raw": "Other income", "source_page": 146},
+    {"statement": "adjustment", "component": "fair_value_change_investment_properties", "amount": 8483000, "label_raw": "Fair value change in investment properties", "source_page": 146},
+    {"statement": "adjustment", "component": "fair_value_change_derivatives", "amount": -1024000, "label_raw": "Fair value change in derivatives", "source_page": 146},
+    {"statement": "adjustment", "component": "tax_expenses", "amount": -6634000, "label_raw": "Tax expenses", "source_page": 146}
+  ],
+  "source_page": 146,
+  "_notes": {
+    "reconciliation": "line_items (expenses stored POSITIVE, adjustments SIGNED): Srevenue(50,535+6,565=57,100) - Sexpense(5,107+3,719+1,111+1,948+1,325+2,393+1,045+284+1,671+6,630=25,233) + Sadjustment(2,013+8,483-1,024-6,634=2,838) = 57,100 - 25,233 + 2,838 = 34,705 = net_income (Total return for the year). PASS.",
+    "currency": "PRESENTATION CURRENCY OF THE AUDITED CONSOLIDATED FINANCIAL STATEMENTS IS SGD (S$'000), confirmed against the Consolidated Statement of Comprehensive Income p146, SFP p145, Cash Flows p149. The task brief's assumption that the financial statements are in JPY is incorrect for DHLT: only the underlying per-property operating figures are in JPY millions (Japan) / VND millions (Vietnam). All financial.json figures are SGD absolute (x1000 from S$'000). No conversion applied.",
+    "interest_expense_non_operating": "Gross finance expenses (note 21, p177) = S$6,630k (interest expense 2,092 + amortisation of debt-related expense 1,650 + commitment/financing fees 80 + finance cost on lease liabilities 2,808). Kept GROSS (not netted against interest income of 184, which sits inside Other income).",
+    "operating_expense": "Below-NPI trust-level expenses before finance: Manager's fees 2,393 + Japan AM fees 1,045 + Trustee 284 + Trust expenses 1,671 = 5,393.",
+    "atoms_thousands": "dep_pe=0 (fair-value-model REIT, no P&E depreciation line in C/F operating); fv_cf_signed=-8,483 (net FV change of IP, C/F operating p149); finance_costs=6,630 (gross, note 21); capex_sum=47,365 (C/F investing: Acquisition of investment properties and related assets 23,649 + Capital expenditure on investment properties 431 + Acquisition of a subsidiary net of cash acquired 23,285 [D Project Tan Duc 2 Vietnam SPV]).",
+    "capital_expenditure": "Sum of ALL IP-related investing outflows incl. acquisitions per LOCKED §6 rule: 23,649 (DPL Ibaraki Yuki + related) + 431 (capex) + 23,285 (Tan Duc 2 via subsidiary acquisition) = 47,365. Non-IP investing outflows (security deposits 1,093, leasing commission 633) excluded. Total investing CF -49,091.",
+    "ebitda": "pretax 41,339 + interest 6,630 + depreciation(-8,483) = 39,486. depreciation = P&E dep (0) + net FV change of IP C/F-signed (-8,483). Removes non-cash FV revaluation gain per SG-REIT EBITDA definition.",
+    "funds_from_operation": "net_income 34,705 + depreciation(-8,483) - net_property_sales(0) = 26,222 (NAREIT-style; strips non-cash revaluation gain, so FFO < net income in this revaluation-gain year). Report's own 'Income available for distribution for the year' = S$33,518k -> performance.net_distributable_income.",
+    "net_property_sales": "0 - no investment-property disposals in FY2024.",
+    "source_pages": "PDF page numbers: Consolidated Statement of Comprehensive Income p146; SFP p145; Distribution Statement p147; Cash Flows p149; Statement of Portfolio p150; Gross Revenue note 18 p176; Property Operating Expenses note 19 p177; Other Trust Expenses note 20 p177; Finance Expenses note 21 p177; Tax note 22 p177-178; EPU note 23 p178."
+  }
+}

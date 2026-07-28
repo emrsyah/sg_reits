@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 1,
+    "client_name": "BAE Systems",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 4.0,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 2,
+    "client_name": "Comdata, Inc.",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 3.9,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 3,
+    "client_name": "Spectrum",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 3.5,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 4,
+    "client_name": "Gogo Business Aviation",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 3.1,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 5,
+    "client_name": "Lear Corporation",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 3.1,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 6,
+    "client_name": "Meta",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.9,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 7,
+    "client_name": "TerraPower",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.7,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 8,
+    "client_name": "Highridge Medical",
+    "industry": "IT & Telecommunications",
+    "revenue_pct": 2.3,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 9,
+    "client_name": "United Capital Financial Advisor",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.9,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  },
+  {
+    "symbol": "CMOU.SI",
+    "financial_year": 2024,
+    "rank": 10,
+    "client_name": "Bio-Medical Applications of Texas",
+    "industry": "Healthcare & Wellness",
+    "revenue_pct": 1.8,
+    "pct_basis": "cash_rental_income",
+    "source_page": 37
+  }
+]

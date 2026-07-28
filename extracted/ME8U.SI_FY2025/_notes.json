@@ -1,149 +1,68 @@
 {
   "columns_never_fillable": [
     {
-      "column": "property_transactions.counterparty (Tokyo Property acquisition)",
-      "reason": "No seller/vendor name is disclosed for the Tokyo Property acquisition (29 Oct 2024, freehold, 1-7 & 2-1 Nagayama 2-chome, Tama-shi, Tokyo). Checked Annual Report Highlights (p11-12, 'Completed the acquisition of a freehold property in Tokyo, Japan (the \"Tokyo Property\") for a purchase consideration of JPY14.5 billion'), Portfolio Statement note 62 (p1735, 2780), and Financial Review discussion of the Japan Portfolio/Tokyo Acquisition (p5083, 5158-5226, 10342) -- none name the counterparty. Left null; checked pages 11-12, 79 (financial review), 132-145 (portfolio statement note 62), 121-127 (investing activities note)."
+      "column": "net_property_income",
+      "reason": "MIT discloses NPI only at Group/segment level, not per property (audited Portfolio Statement gives per-property gross revenue, occupancy and valuation only)."
     },
     {
-      "column": "properties.net_property_income",
-      "reason": "Per-property NPI not disclosed; NPI given only at segment level (Data Centres NA/Asia, Hi-Tech, Business Park, Flatted Factories, Stack-up, Light Industrial) as % of Group NPI (p79)."
+      "column": "lease_expiry_date",
+      "reason": "Portfolio Statement discloses 'Remaining term of lease' (years) per property, not an expiry date; kept verbatim in tenure_raw."
     },
     {
-      "column": "properties.gla",
-      "reason": "GLA is not a metric MIT discloses at all (only GFA and NLA appear in the Property Portfolio Overview, p44-59); the audited Portfolio Statement (p132-145) has no area metric either."
-    },
-    {
-      "column": "properties.gfa (56 US Data Centre properties, p44-46)",
-      "reason": "US Data Centre 'Detailed Property Information' table (p44-46) discloses only NLA (sq ft) per asset, not GFA -- no GFA column exists in that table (compare SG tables at p54-58 which do have both GFA and NLA columns). Confirmed genuinely not disclosed, not a parsing miss. Left null for all North America properties incl. the 13 MRODCT JV assets and Osaka/Tokyo (Japan) properties."
-    },
-    {
-      "column": "properties.gfa / nla (Tanglin Halt)",
-      "reason": "Tanglin Halt Cluster was divested 27 March 2024 (before FY24/25, p7883/fn7); no FY24/25 area figures are disclosed for a divested asset. status=divested already set; left gfa/nla null."
-    },
-    {
-      "column": "properties.major_tenants",
-      "reason": "Not disclosed per property; only portfolio-level Top 10 tenants (p33)."
-    },
-    {
-      "column": "properties.purchase_price",
-      "reason": "3 active properties remain null because the disclosed 'Purchase Price' column in the Property Portfolio Overview Detailed Property Information tables shows an explicit '-' (dash) for them, i.e. no original purchase price is disclosed: Mapletree Sunview 1 (Data Centre table, p47, dash alongside valuation S$74,600k); 30A Kallang Place (Hi-Tech Buildings table, p49, dash alongside valuation S$96,400k); K&S Corporate Headquarters (Hi-Tech Buildings table, p49, dash alongside valuation S$72,800k). These are legacy IPO/original-portfolio and development-derived assets with no separately disclosed acquisition cost; the audited Portfolio Statement (p132-145) has no purchase-price column at all. Not fillable without inventing/inferring a cost."
+      "column": "effective_date",
+      "reason": "Land-lease commencement date not disclosed per property (only acquisition/legal-completion date, captured elsewhere)."
     }
   ],
   "data_with_no_home": [
-    "Aggregate leverage incl. proportionate JV: aggregate debt S$3,721.7m (p11 fn10).",
-    "Segment NPI/gross-revenue contribution % (p79): DC(NA) 34.7% GR/33.1% NPI; DC(Asia) 7.0%/8.7%; Hi-Tech 20.8%/20.5%; Business Park 6.5%/5.6%; Flatted Factories 23.3%/23.9%; Stack-up 0.5%/0.4%.",
-    "MRODCT JV (50%) summarised FS (p174-175): JV gross revenue S$61,672k; JV net assets S$1,047,485k; Group share S$523,743k; cash distribution declared by JV S$27,493k.",
-    "AUM by geography (p11): Singapore 47.6%, North America 45.6%, Japan 6.8%.",
-    "Tenant base (p33): 2,232 tenants, 3,349 leases; top 10 = 29.5% of monthly GRI.",
-    "WALE by portfolio (p33): North American 6.3yr, Singapore 2.7yr, Japan 14.5yr, Overall 4.4yr.",
-    "Occupancy by portfolio (p36): Singapore 93.2%, North American 89.3%, Japan 100.0%, Overall 92.1%.",
-    "Average rental rate (p36): Singapore S$2.27 psf/mth; North America US$2.47 psf/mth."
+    "Joint venture MRODCT (Mapletree Rosewood Data Centre Trust): 50% MIT-owned, equity-accounted; holds 13 US data centres (3 fully-fitted hyperscale + 10 powered shell). 100%-basis: net assets S$1,010,302k, gross revenue S$61,456k, profit S$58,969k; MIT carrying value of interest S$505,151k; MIT share of JV results S$29,484k; distributions received S$22,442k (Note 18, p169-170).",
+    "Some JV data centres (21744 & 21745 Sir Timothy Drive, 44490 Chillum Place, Ashburn) are held 40% by MIT (MRODCT holds 80%, Digital Realty 20%; MIT holds 50% of MRODCT) (p54 note 4).",
+    "Overall portfolio: 2,142 tenants across 3,127 leases; 61.1% MNCs, 38.9% SMEs by GRI (p41). WALE 4.4 years; new/renewal-lease WALE FY25/26 3.3 years.",
+    "AUM by geography: North America 46.5%, Singapore 46.3%, Japan 7.2% (p11). AUM by segment: Data Centres 57.3%, General Industrial 24.3%, Hi-Tech & Business Space 18.4%.",
+    "Total borrowings S$2,258.9m; distribution yield 6.6%; market cap S$5.54bn as at 31 Mar 2026 (p11, p30-31).",
+    "Segment reporting restated effective 1 April 2025 to: Data Centres (Asia), Data Centres (North America), Hi-Tech Buildings & Business Space, General Industrial Buildings (Portfolio Statement footnote 8, p142)."
   ],
   "parsing_traps": [
-    "Portfolio Statement (p132-145) is a FACING-PAGE POSITIONAL SPLIT: description columns (name/tenure/location) on even pages, value columns (gross revenue/occupancy/valuation, '000) on the next odd page with a BLANK label column aligned by row position. The deterministic HTML adapter cannot positionally-join these -> properties extracted llm_only by pairing description+value pages.",
-    "Non-December FY-end: 31 March. financial_year=2025 = year ended 31 Mar 2025 (FY24/25). All records stamped 2025-03-31.",
-    "US DC JV (MRODCT, 50%) is EQUITY-ACCOUNTED: a single 'Investment in a joint venture' line (S$523,743k) in the consolidated FS, NOT in the audited Portfolio Statement. The 13 MRODCT properties are added from the Property Portfolio Overview (p44-47) at 100%-basis US$ valuation, ownership 40-50%, value_basis=equity_accounted_jv. Their absence from the consolidated Portfolio Statement Σ is correct, not a miss.",
-    "Multi-currency: US DCs reported in US$ on overview cards but consolidated to SGD in the audited statement; Japan DCs in JPY on cards. Canonical = SGD consolidated (audited Portfolio Statement)."
-  ],
-  "reconciliation": {
-    "sum_property_gross_revenue_consolidated": 711833000,
-    "reported_total_gross_revenue": 711833000,
-    "sum_consolidated_market_valuation": 7975962000,
-    "reported_fair_value_net_of_future_lease_payments": 7975962000,
-    "carrying_amount_investment_properties": 8080101000,
-    "note": "Consolidated property gross_revenue Σ ties EXACTLY to Group gross revenue S$711,833k. Consolidated valuation Σ ties EXACTLY to 'Fair value of investment properties (net of future lease payments)' S$7,975,962k (p167); the carrying amount S$8,080,101k additionally includes lease-liability ROU S$102,748k + ARO S$1,391k. 13 MRODCT JV properties excluded from both Σ (equity-accounted).",
-    "income_line_items_reconcile": "Sum(revenue 711,833 - expense 180,373 + signed adjustments -186,019) = 345,441 = net_income (total return for the year). Pretax 375,072 - tax 29,631 = 345,441.",
-    "property_count": "100 total = 86 consolidated valued + 1 divested (Tanglin Halt, no value) + 13 MRODCT JV (equity-accounted, US$)."
-  },
-  "data_provenance": [
-    {
-      "table": "financial",
-      "field": "weighted_avg_shares_basic",
-      "value": 2841387000,
-      "basis": "EPU note 11 'Weighted average number of units outstanding during the year' = 2,841,387 ('000), absolute = 2,841,387,000; basic and diluted EPU stated identical (no dilutive instruments).",
-      "source_page": 164
-    },
-    {
-      "table": "financial",
-      "field": "diluted_shares_outstanding",
-      "value": 2841387000,
-      "basis": "Same EPU note 11: 'Diluted earnings per unit is the same as the basic earnings per unit as there were no dilutive instruments in issue', so diluted weighted-avg units = basic = 2,841,387,000. Stored value already correct.",
-      "source_page": 164
-    },
-    {
-      "table": "performance",
-      "field": "adjusted_distributable_income",
-      "value": null,
-      "basis": "DPU method 1: manager's fees settled in units and added back as non-cash adjustment; Distribution Statement (p125) discloses a single 'Amount available for distribution' 388,110 ('000). No separate cash-fees-deducted adjusted figure. Set null.",
-      "source_page": 125
-    },
-    {
-      "table": "performance",
-      "field": "net_distributable_income",
-      "value": 388110000,
-      "basis": "AUDIT: matches Distribution Statement 'Amount available for distribution' = 388,110 ('000), the DPU numerator (NOT 'Distribution to Unitholders' 385,979). Already correct, no change.",
-      "source_page": 125
-    },
-    {
-      "table": "performance",
-      "field": "distribution_paid",
-      "value": 385979000,
-      "basis": "'Distribution to Unitholders' line in Financial Review summary, p79: 385,979 ('000) for FY24/25 = the for-the-year declared distribution (incl. distribution of divestment gains 13,354). Distinct from 'Amount available for distribution - to Unitholders' 388,110 (=net_distributable_income). Retained = 388,110 - 385,979 = 2,131 ('000), small & positive (check passes). Ties to DPU 13.57c x ~2,841.4m units. ('000 -> absolute x1000)",
-      "source_page": 79
-    },
-    {
-      "table": "performance",
-      "field": "distribution_basis",
-      "value": "disclosed_after_retention",
-      "basis": "Phase-1 tag 2026-06-23: distribution_paid is the disclosed for-the-year amount-to-be-distributed (after retention); NDI - distribution_paid = the disclosed retention.",
-      "source_page": 11
-    }
-  ],
-  "null_recovery_round7_2026_07_03": [
-    {
-      "table": "properties",
-      "field": "purchase_price",
-      "key": "Mapletree Sunview 1",
-      "status": "confirmed_absent",
-      "reason": "Re-verified: Data Centres Singapore/Japan Detailed Property Information table row for Mapletree Sunview 1 (GFA 241,796 | NLA 241,796 | Purchase Price '-' | Valuation 31/03/2024 74,600 | Valuation 31/03/2025 74,600 | Gross Revenue 4,899 | Occ 100.0) prints an explicit dash in the Purchase Price S$'000 column -- genuine non-disclosure, not a parsing gap.",
-      "page": 47,
-      "quote": "| 241,796 | 241,796 | - | 74,600 | 74,600 | 4,899 | 100.0 |"
-    },
-    {
-      "table": "properties",
-      "field": "purchase_price",
-      "key": "30A Kallang Place",
-      "status": "confirmed_absent",
-      "reason": "Re-verified: Hi-Tech Buildings Detailed Property Information table (p49) row 3 '30A Kallang Place' shows Purchase Price S$'000 = '-' even though the same table discloses purchase prices for 6 of the 8 Hi-Tech Buildings cluster assets (e.g. 1&1A Depot Close 44,000; 18 Tai Seng 268,300). This is a legacy asset from the original 01/07/2008 IPO portfolio with no separately disclosed acquisition cost -- genuine absence, matches sibling K&S row pattern (both '-').",
-      "page": 49,
-      "quote": "| 3. | 30A Kallang Place | 01/07/2008 | 33 years | 16 years | 30A Kallang Place Singapore | 336,527 | 277,928 | - | 98,500 | 96,400 | 13,975 | 99.5 |"
-    },
-    {
-      "table": "properties",
-      "field": "purchase_price",
-      "key": "K&S Corporate Headquarters",
-      "status": "confirmed_absent",
-      "reason": "Re-verified: Hi-Tech Buildings Detailed Property Information table (p49) row 4 'K&S Corporate Headquarters' shows Purchase Price S$'000 = '-'. Acquisition Date is footnoted 4 = 'Refers to the temporary occupation permit date' (04/10/2013), consistent with this being a build-to-suit / development-derived asset for which MIT never paid an external acquisition purchase price (it was constructed by the trust, not bought) -- genuine absence, not a parsing gap.",
-      "page": 49,
-      "quote": "| 4. | K&S Corporate Headquarters | 04/10/2013 <sup>4</sup> | 30+28.5 years | 45 years | 23A Serangoon North Avenue 5 Singapore | 332,224 | 286,690 | - | 72,800 | 72,800 | 9,973 | 99.5 |"
-    }
+    "Audited Portfolio Statement is a two-page spread (descriptions on the left page, financials on the right); rows aligned by position after dropping section-header rows. Reconciles exactly: Σ valuation = S$7,183,873k, Σ gross revenue = S$672,991k.",
+    "market_valuation for the 86 consolidated properties is Tier-C SGD from the audited Portfolio Statement (p132-143). market_valuation for the 13 equity-accounted JV data centres is the operational-overview US$'000 figure (100% basis, p53/55) — NOT Tier-C — since the JV is absent from the consolidated Portfolio Statement; flagged per row.",
+    "trade_mix: the report's top-level 'Other Trade Sectors' (11.63%) is a mixed residual with no single canonical fit, so it is expanded into its four disclosed sub-sectors (Education/Health/Arts, Construction/Utilities, Accommodation/Food, Transport/Storage) which map cleanly; the other four top-level sectors kept as-disclosed. Sums to 100.0%.",
+    "top_tenants.industry: the Top-10 table (p41) has no per-tenant trade-sector column; industry assigned from the tenant's known identity (see inferred[]).",
+    "Below-NPI income lines (interest income S$1,020k, other income S$3,041k) are correctly bucketed as statement='adjustment', not 'revenue' (confirmed on the audited Statement of Total Return, p122)."
   ],
   "inferred": [
     {
       "table": "top_tenants",
       "field": "industry",
       "scope": "all 10 rows",
-      "value": "assigned from tenant name / business descriptor",
-      "basis": "Top-10 table (p33) has no trade-sector column; industry mapped from the company name or anonymised descriptor (e.g. 'Global Colocation Provider' -> IT & Telecommunications; Vanderbilt University Medical Center -> Healthcare & Wellness).",
-      "source_page": 33
+      "value": null,
+      "basis": "Top-10 tenants table (p41) has no trade-sector column; industry mapped from each tenant's known business identity to the canonical 15-value taxonomy.",
+      "source_page": 41
     },
     {
-      "table": "performance",
-      "field": "distribution_record[3].dpu",
-      "scope": "4Q FY24/25",
-      "value": 3.36,
-      "basis": "Derived as full-year DPU 13.57 less the three disclosed quarterly distributions (3.43+3.37+3.41). 4Q is declared after FY-end.",
-      "source_page": 125
+      "table": "properties",
+      "field": "market_valuation",
+      "scope": "13 JV data-centre rows (ownership<100%)",
+      "value": null,
+      "basis": "USD operational-overview valuation (100% basis, p53/55) used because equity-accounted JV assets are absent from the audited Portfolio Statement (Tier-C).",
+      "source_page": 53
+    },
+    {
+      "table": "properties",
+      "field": "lease_term_years",
+      "scope": "leasehold rows",
+      "value": null,
+      "basis": "Base head-lease term parsed from the Portfolio Statement 'Term of lease' wording (e.g. '30+30 years' -> 30); full verbatim kept in tenure_raw.",
+      "source_page": 132
     }
-  ]
+  ],
+  "reconciliation": {
+    "sum_property_gross_revenue": 672991000,
+    "reported_total_gross_revenue": 672991000,
+    "sum_property_npi": null,
+    "reported_total_npi": 500353000,
+    "note": "Σ gross revenue over all 86 consolidated property rows (incl. divested-in-year partials) = reported Group gross revenue S$672,991k exactly. The gate's active-only sum is ~2.3% lower (S$657,216k) because four properties divested in-year (2775 Northwoods, The Strategy, The Synergy, Woodlands Central) are marked status=divested but their partial-year revenue remains in the Group total. Per-property NPI is not disclosed (only Group/segment); JV (USD) rows excluded from the SGD reconciliation.",
+    "portfolio_valuation_check": {
+      "sum_consolidated_active_valuation": 7183873000,
+      "reported_fair_value_investment_properties": 7183873000
+    }
+  }
 }

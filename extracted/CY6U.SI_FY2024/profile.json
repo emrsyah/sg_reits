@@ -1,0 +1,21 @@
+{
+  "symbol": "CY6U.SI",
+  "sub_sector": "Diversified",
+  "management": {
+    "reit_manager": [
+      "CapitaLand India Trust Management Pte. Ltd."
+    ],
+    "trustee": [
+      "CapitaLand India Trust Management Pte. Ltd."
+    ],
+    "sponsor": [
+      "CapitaLand Investment Limited"
+    ],
+    "property_manager": [
+      "CapitaLand Services (India) Private Limited"
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 279,
+  "income_model_raw": "Business trust holding IT business parks, industrial/logistics facilities and data-centre developments in India; income from property rental (base rent, amenities, fit-out) plus operations/maintenance/utilities recoveries. Distributes >=90% of income available for distribution half-yearly."
+}

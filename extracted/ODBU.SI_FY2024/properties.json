@@ -1,0 +1,290 @@
+[
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Hudson Valley Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "401 Frank Stottile Boulevard, Kingston, Ulster County, New York 12401",
+    "ownership": 100.0, "market_valuation": 27900000.0, "purchase_price": 15000000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 94.9, "nla": 428804.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "Walmart"}, {"name": "PetSmart"}, {"name": "Ashley Furniture"},
+      {"name": "Dick's Sporting Goods (Opening in 2026)"}
+    ],
+    "flags": [
+      {"type": "occupancy_basis", "scope": "occupancy_rate", "note": "94.9% based on NLA of 428,804 sq ft minus non-functional static space of 67,616 sq ft (p38 fn3)"},
+      {"type": "partial_divestment_in_year", "scope": "market_valuation", "note": "Lowe's and Sam's Club buildings within Hudson Valley Plaza divested 14 Aug 2024; FY2023 value of 51,200k included them, FY2024 value 27,900k excludes them"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Albany - Supermarket",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "709 Central Avenue, Albany, Albany County, New York 12206",
+    "ownership": 100.0, "market_valuation": 23800000.0, "purchase_price": 22900000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 65000.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "held_for_sale",
+    "major_tenants": [{"name": "Price Chopper Supermarkets"}],
+    "flags": [
+      {"type": "held_for_divestment", "scope": "status", "note": "Classified as investment property held for divestment at 31 Dec 2024 (carrying value US$23,800k = fair value per CBRE); divestment completed 17 January 2025. In the Portfolio Statement the fair-value cell shows dash and the value is carried in the separate 'Investment property held for divestment' line."}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Albany - Gas Station",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "651 Central Avenue, Albany, Albany County, New York 12206",
+    "ownership": 100.0, "market_valuation": 4410000.0, "purchase_price": 4200000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 915.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "ShopRite"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Towne Crossing",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "2703 Burlington-Mount Holly Road, Burlington, Burlington County, New Jersey 08016",
+    "ownership": 100.0, "market_valuation": 18400000.0, "purchase_price": 13400000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 98.1, "nla": 92141.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Dick's Sporting Goods"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Lynncroft Center",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "3120-3160 Evans Street, Greenville, Pitt County, North Carolina 27834",
+    "ownership": 100.0, "market_valuation": 31700000.0, "purchase_price": 24900000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 98.4, "nla": 182761.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "Best Buy"}, {"name": "Ross"}, {"name": "Ulta"}, {"name": "Marshalls"},
+      {"name": "Michaels"}, {"name": "Trader Joe's"}
+    ],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Garden City Square - BJ's Wholesale Club",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "711 Stewart Avenue, Garden City, Nassau County, New York 11530",
+    "ownership": 100.0, "market_valuation": 57800000.0, "purchase_price": 47900000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 121000.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "BJ's Wholesale Club"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Garden City Square - LA Fitness",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "711 Stewart Avenue, Garden City, Nassau County, New York 11530",
+    "ownership": 100.0, "market_valuation": 22200000.0, "purchase_price": 21700000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 55000.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "LA Fitness"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Price Chopper Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "142-146 State Route 94, Warwick, New York 10990",
+    "ownership": 100.0, "market_valuation": 20500000.0, "purchase_price": 20000000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 84295.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Price Chopper Supermarkets"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Piscataway Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "581 Stelton Road, Piscataway, Middlesex County, New Jersey 08854",
+    "ownership": 100.0, "market_valuation": 24100000.0, "purchase_price": 29300000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 84167.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Food Bazaar Supermarket"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Fairhaven Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "221 Huttleston Avenue, Fairhaven, Bristol County, Massachusetts 02719",
+    "ownership": 100.0, "market_valuation": 20600000.0, "purchase_price": 18500000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 81085.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Stop & Shop"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Wallington ShopRite",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "375 Paterson Avenue, Wallington, Bergen County, New Jersey 07057",
+    "ownership": 100.0, "market_valuation": 15500000.0, "purchase_price": 15900000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 94027.0,
+    "land_tenure": "Leasehold", "lease_expiry_date": "2040-06-24",
+    "tenure_raw": "Leasehold (ground lease commenced 30 May 2013, expires 24 June 2040; tenant has two ten-year renewal options through 24 June 2060)",
+    "status": "active",
+    "major_tenants": [{"name": "ShopRite"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Parkway Crossing",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "2331-2535 Cleanleigh Drive, Parkville, Baltimore County, Maryland 21234",
+    "ownership": 90.0, "market_valuation": 30500000.0, "purchase_price": 26600000.0,
+    "purchase_price_currency": "USD",
+    "purchase_price_note": "US$26.6m on a 100% basis (portfolio footnote 6); the Purchase Price column shows US$25.2m excluding the 10.0% non-controlling interest. 100%-basis used to match the 100%-basis fair value.",
+    "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 97.9, "nla": 261641.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "ShopRite"}, {"name": "Home Depot"}],
+    "flags": [
+      {"type": "full_consolidation_partial_ownership", "scope": "market_valuation", "note": "10.0% non-controlling interest held by unrelated third party; property fully consolidated at 100% value"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Wallkill Price Chopper",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "505-511 Schutt Road, Middletown, Orange County, New York 10940",
+    "ownership": 97.0, "market_valuation": 12800000.0, "purchase_price": 13600000.0,
+    "purchase_price_currency": "USD",
+    "purchase_price_note": "US$13.6m on a 100% basis (portfolio footnote 2); the Purchase Price column shows US$13.3m excluding the 3.0% non-controlling interest. 100%-basis used to match the 100%-basis fair value.",
+    "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 94.2, "nla": 137795.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Price Chopper Supermarkets"}],
+    "flags": [
+      {"type": "full_consolidation_partial_ownership", "scope": "market_valuation", "note": "3.0% non-controlling interest held by unrelated third party; property fully consolidated at 100% value"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "St. Lucie West",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "1315-1497 St. Lucie West Blvd, Port St. Lucie, St. Lucie County, Florida 34986",
+    "ownership": 100.0, "market_valuation": 101000000.0, "purchase_price": 76100000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 96.5, "nla": 381648.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "Academy Sports + Outdoors"}, {"name": "Publix"}, {"name": "LA Fitness"},
+      {"name": "Burlington Coat Factory"}, {"name": "HomeGoods"}
+    ],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "BJ's Quincy",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "200 Crown Colony Drive, Quincy, Norfolk County, Massachusetts 02169",
+    "ownership": 100.0, "market_valuation": 32500000.0, "purchase_price": 33600000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 84360.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "BJ's Wholesale Club"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Arundel Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "6604-6654 Ritchie Highway, Glen Burnie, Anne Arundel County, Maryland 21061",
+    "ownership": 100.0, "market_valuation": 49500000.0, "purchase_price": 45300000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 282039.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Lowe's"}, {"name": "Giant Food"}],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Lawnside Commons",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "310 North White Horse Pike, Lawnside, Camden County, New Jersey 08045",
+    "ownership": 99.0, "market_valuation": 33600000.0, "purchase_price": 32700000.0,
+    "purchase_price_currency": "USD",
+    "purchase_price_note": "US$32.7m on a 100% basis (portfolio footnote 5); the Purchase Price column shows US$32.4m excluding the 1.0% non-controlling interest. 100%-basis used to match the 100%-basis fair value.",
+    "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 151076.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [{"name": "Home Depot"}, {"name": "PetSmart"}],
+    "flags": [
+      {"type": "full_consolidation_partial_ownership", "scope": "market_valuation", "note": "1.0% non-controlling interest held by unrelated third party; property fully consolidated at 100% value"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Colonial Square",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "3107 Boulevard, Colonial Heights, Virginia 23834",
+    "ownership": 100.0, "market_valuation": 26500000.0, "purchase_price": 26300000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 90.6, "nla": 168520.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "Publix"}, {"name": "Locke Supply Co."}, {"name": "Wells Fargo"}, {"name": "Dollar General"}
+    ],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2021-11-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Penrose Plaza",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "2900-3000 Island Ave, Philadelphia, Pennsylvania 19153",
+    "ownership": 100.0, "market_valuation": 56150000.0, "purchase_price": 52000000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 93.6, "nla": 262252.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "ShopRite"}, {"name": "dd's Discount"}, {"name": "Dollar Tree"}, {"name": "Citi Trends"}
+    ],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2021-11-24"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Upland Square",
+    "country": "United States", "category": "Retail", "category_raw": "Grocery & Necessity",
+    "address": "180 Upland Square Drive, Pottstown, Montgomery County, Pennsylvania 19464",
+    "ownership": 100.0, "market_valuation": 91500000.0, "purchase_price": 85700000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 100.0, "nla": 399559.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [
+      {"name": "Giant Food"}, {"name": "Burlington Coat Factory"}, {"name": "TJ Maxx"},
+      {"name": "Ross Dress for Less"}, {"name": "LA Fitness"}, {"name": "Dick's Sporting Goods"}
+    ],
+    "flags": [], "source_page": 150, "area_unit": "sqft", "purchase_date": "2022-07-28"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Carteret Self-Storage",
+    "country": "United States", "category": "Specialized", "category_raw": "Self-Storage",
+    "address": "6640 Industrial Highway, Carteret, Middlesex County, New Jersey 07008",
+    "ownership": 100.0, "market_valuation": 22100000.0, "purchase_price": 17300000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 93.2, "nla": 74175.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [],
+    "flags": [
+      {"type": "operator_managed", "scope": "property", "note": "Managed by Extra Space Storage Inc.; occupancy is unit-based (93.2% as at 31 Dec 2024)"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  },
+  {
+    "symbol": "ODBU.SI", "financial_year": 2024, "property_name": "Millburn Self-Storage",
+    "country": "United States", "category": "Specialized", "category_raw": "Self-Storage",
+    "address": "30 Bleeker Street, Millburn, Essex County, New Jersey 07041",
+    "ownership": 100.0, "market_valuation": 29800000.0, "purchase_price": 22200000.0,
+    "purchase_price_currency": "USD", "valuation_date": "2024-12-31", "currency": "USD",
+    "net_property_income": null, "gross_revenue": null, "occupancy_rate": 92.9, "nla": 80923.0,
+    "land_tenure": "Freehold", "tenure_raw": "Freehold", "status": "active",
+    "major_tenants": [],
+    "flags": [
+      {"type": "operator_managed", "scope": "property", "note": "Managed by Extra Space Storage Inc.; occupancy is unit-based (92.9% as at 31 Dec 2024)"}
+    ],
+    "source_page": 150, "area_unit": "sqft", "purchase_date": "2020-03-12"
+  }
+]

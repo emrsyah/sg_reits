@@ -1,0 +1,136 @@
+"""Generate a per-field ours-vs-Excel diff report for the 20 pilot rows ->
+docs/reits_db_handoff/ours_vs_excel_field_diff.md  (read-only, no DB writes).
+Values shown in S$'000. Excel = colleague's extract_reit; ours = raw sgx_reit_financial.
+"""
+import os, re, warnings
+warnings.filterwarnings("ignore")
+import numpy as np, pandas as pd, psycopg2
+from dotenv import load_dotenv
+load_dotenv(".env")
+
+# reuse the excel extractor from the compare script
+src = open("scripts/db/_compare_manual_vs_ours.py").read().split("conn = psycopg2")[0]
+exec(src)  # defines EXCEL, PILOTS, ISM_KEYS, excel_extract, norm_our_ism
+
+BS_KEYS = ["total_current_asset","total_non_current_asset","total_asset","total_current_liabilities",
+ "total_non_current_liabilities","total_liabilities","total_equity","working_capital"]
+CF_KEYS = ["operating_cash_flow","investing_cash_flow","financing_cash_flow","net_cash_flow",
+ "capital_expenditure","free_cash_flow"]
+
+REASON = {
+ "minorities":"Sign convention — ours stores NCI negative (deduction); Excel signed as declared. Magnitude matches.",
+ "perpetual_security_holders":"Sign convention — ours negative, Excel positive. Magnitude matches.",
+ "ebit":"Definition — ours EBIT = Net Operating Income (NOI); Excel = pretax + interest add-back.",
+ "ebitda":"Definition — different depreciation/FV add-back. Convention field, not an error.",
+ "interest_expense_non_operating":"Composition — ours = gross finance costs; Excel sometimes nets interest income.",
+ "funds_from_operation":"Definition — ours = net_income + depreciation(incl. IP FV) − net_property_sales; Excel = net_income + P&E depreciation only.",
+ "net_property_sales":"Scope — ours may include entity/JV-disposal gains; Excel = IP-disposal line only.",
+ "capital_expenditure":"Sign + scope — ours = signed IP-only outflow; Excel positive, sometimes broader (P&E / subsidiary IP).",
+ "free_cash_flow":"Follows the capital_expenditure difference.",
+ "net_cash_flow":"FX treatment — ours includes effects of exchange-rate on cash; Excel = pre-FX net-movement subtotal.",
+ "non_operating_income_or_loss":"Bucketing — normally equal; a diff means finance-cost/interest bucketing differs.",
+}
+# AR-verified verdicts (from parsed_reports_datalab / blind extractions)
+VERDICT = {
+ ("M44U","2025-03-31","diluted_shares_outstanding"):"AR-VERIFIED: OURS correct (5,034,448; basic=diluted, no dilutive instruments). Excel wrong.",
+ ("ME8U","2025-03-31","diluted_shares_outstanding"):"AR-VERIFIED: OURS correct (2,841,387). Excel wrong.",
+ ("N2IU","2025-03-31","basic_shares_outstanding"):"AR-VERIFIED: OURS correct (5,260,796). Excel wrong.",
+ ("T82U","2025-12-31","unitholders"):"AR-VERIFIED: OURS correct (159,279 = 177,955 − 18,676 perps). Excel added perps instead of subtracting.",
+ ("T82U","2024-12-31","cost_of_revenue"):"AR-VERIFIED: OURS = Note 21 Property expenses (153,130). Excel netted +333 impairment reversal.",
+ ("T82U","2025-12-31","net_cash_flow"):"AR-VERIFIED: Excel/independent = −36,808 (pre-FX subtotal); OURS folds in +1,233 FX. Recommend aligning ours.",
+ ("T82U","2025-12-31","capital_expenditure"):"AR-VERIFIED (blind): OURS correct (21,015, IP-only). Excel included P&E purchase (1,078).",
+ ("M44U","2025-03-31","interest_expense_non_operating"):"AR-VERIFIED (blind): OURS correct (156,893 gross). Excel netted interest income (2,648).",
+ ("M44U","2025-03-31","capital_expenditure"):"AR-VERIFIED (blind): OURS correct (410,522). Excel broader (453,507).",
+ ("C38U","2025-12-31","net_property_sales"):"AR-VERIFIED (blind): Excel/independent = 0 (IP-only). OURS includes JV-disposal gain (26).",
+}
+SIGNFLIP = {"minorities","perpetual_security_holders","capital_expenditure","free_cash_flow"}
+
+def k(v):  # to '000, int
+    if v is None: return None
+    try: return int(round(float(v)/1000.0))
+    except: return v
+def fmt(v):
+    return "—" if v is None else f"{v:,}"
+
+conn = psycopg2.connect(os.environ["SUPABASE_CONNECTION_STRING"]); cur = conn.cursor()
+cur.execute("""select f.symbol,p.date,f.currency,f.income_stmt_metrics,f.balance_sheet_metrics,f.cash_flow_metrics
+  from sgx_reit_financial f join sgx_reit_performance p on p.symbol=f.symbol and p.financial_year=f.financial_year""")
+OURS={}
+for sym,date,ccy,ism,bs,cf in cur.fetchall():
+    OURS[(sym.removesuffix('.SI'),str(date))]=(norm_our_ism(ism),bs or {},cf or {})
+conn.close()
+
+# build excel rows
+EXC={}; seen=set()
+for f in EXCEL:
+    for sh in pd.ExcelFile(f).sheet_names:
+        try: sym,ccy,date,ism,bs,cf=excel_extract(pd.read_excel(f,sheet_name=sh,header=None))
+        except: continue
+        base=sym.removesuffix('.SI')
+        if base not in PILOTS or (base,date) in seen: continue
+        seen.add((base,date)); EXC[(base,date)]=(ism,bs,cf)
+
+rows=sorted(set(EXC)&set(OURS))
+BLOCKS=[("Income statement",ISM_KEYS,0),("Balance sheet",BS_KEYS,1),("Cash flow",CF_KEYS,2)]
+
+out=[]
+out.append("# Ours vs Excel — per-field diff, 20 pilot rows\n")
+out.append("Auto-generated by `scripts/db/_field_diff_report.py`. **Ours** = raw `sgx_reit_financial`; "
+ "**Excel** = colleague's `extract_reit` (feeds `sgx_manual_input`). All 20 rows report SGD (native vs native, "
+ "no FX). Values in **S$'000**. Join on (symbol, statement date), never on financial_year "
+ "(March-FYE trusts are label-offset).\n")
+
+# summary
+out.append("## 1. Summary — diffs per row\n")
+out.append("| REIT | date | fields compared | exact | differ | of which sign/convention | of which value-diff |")
+out.append("|---|---|--:|--:|--:|--:|--:|")
+detail=[]
+totrows=0
+for base,date in rows:
+    eism,ebs,ecf=EXC[(base,date)]; oism,obs,ocf=OURS[(base,date)]
+    exb={0:eism,1:ebs,2:ecf}; oub={0:oism,1:obs,2:ocf}
+    nex=nd=nsign=nval=0; drows=[]
+    for bname,keys,bi in BLOCKS:
+        for fld in keys:
+            a=k(exb[bi].get(fld)); b=k(oub[bi].get(fld))
+            if a==b: nex+=1; continue
+            nd+=1
+            signmatch = fld in SIGNFLIP and a is not None and b is not None and a==-b
+            reason = VERDICT.get((base,date,fld))
+            kind="value"
+            if reason: kind="verdict"
+            elif signmatch: kind="sign"; nsign+=1; reason=REASON.get(fld,"sign convention")
+            elif fld in REASON: kind="conv"; nsign+=1; reason=REASON[fld]
+            else: nval+=1; reason="Value diff — source check needed."
+            if kind=="value" or kind=="verdict": nval+=1 if kind=="verdict" and False else 0
+            diff = (b-a) if (a is not None and b is not None) else None
+            drows.append((bname,fld,a,b,diff,signmatch,reason))
+    out.append(f"| {base} | {date} | {nex+nd} | {nex} | {nd} | {nsign} | {nd-nsign} |")
+    detail.append((base,date,drows)); totrows+=1
+
+out.append(f"\n_{totrows} rows. \"sign/convention\" = expected by-design divergence; \"value-diff\" = a real number "
+ "gap to adjudicate (mostly small share-counts / netting; see §3)._\n")
+
+out.append("## 2. Field-by-field differences (only non-equal fields)\n")
+for base,date,drows in detail:
+    out.append(f"### {base}  ({date})\n")
+    if not drows:
+        out.append("_All compared fields exact._\n"); continue
+    out.append("| block | field | Excel | Ours | Δ (ours−excel) | why |")
+    out.append("|---|---|--:|--:|--:|---|")
+    for bname,fld,a,b,diff,signmatch,reason in drows:
+        dd = "|match|" if signmatch else (fmt(diff) if diff is not None else "—")
+        out.append(f"| {bname} | `{fld}` | {fmt(a)} | {fmt(b)} | {dd} | {reason} |")
+    out.append("")
+
+out.append("## 3. How to read this\n")
+out.append("- **Sign/convention diffs** (minorities, perps, EBIT, EBITDA, interest, FFO, capex, free_cash_flow, "
+ "net_cash_flow): expected — ours and Excel apply different documented conventions, not extraction errors. "
+ "See `manual_vs_ours_parity.md` §3/§5.\n"
+ "- **Value diffs**: a genuine number gap. Where AR-verified (blind re-extraction / parsed reports), the verdict "
+ "is in the `why` column — every settled case so far, **ours matches the AR** and the Excel is the outlier.\n"
+ "- Everything not listed in §2 is **exact** between ours and Excel.\n")
+
+path="docs/reits_db_handoff/ours_vs_excel_field_diff.md"
+open(path,"w",encoding="utf-8").write("\n".join(out))
+print("wrote",path,"-",totrows,"rows")

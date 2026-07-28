@@ -1,0 +1,66 @@
+{
+  "symbol": "DHLU.SI",
+  "financial_year": 2024,
+  "currency_decision": {
+    "summary": "TASK BRIEF SAID JPY; SOURCE SAYS SGD FOR THE FINANCIAL STATEMENTS. The audited consolidated financial statements of DHLT (Statement of Comprehensive Income p146, SFP p145, Cash Flows p149, Statement of Portfolio p150, all notes) are PRESENTED IN SINGAPORE DOLLARS (S$'000). Per the §0 invariant 'extract what the report says, never assume', financial.json / performance.json / property market_valuation are all in SGD absolute. Only per-property operating figures (NPI, gross revenue, purchase price, card valuation) are in JPY millions (Japan) / VND millions (Vietnam) and are kept native with per-figure currency fields. No conversion applied anywhere. The prior-year 'DHLU JPY NPI' Tier-0 bug referred to per-property NPI scale (JPY millions), which here is stored as absolute JPY (x1,000,000) with net_property_income_currency=JPY.",
+    "npi_scale_confirmation": "Consolidated NPI = S$43,890k (S$'000 x1000 = 43,890,000 absolute SGD). Per-property Japan NPI in JPY millions (sum 4,838 JPY million = Japan Portfolio NPI, verified vs bar chart p24). NO thousands/millions mis-scale."
+  },
+  "reconciliation": {
+    "sum_property_market_valuation_sgd": 835902000,
+    "reported_total_portfolio_valuation_sgd": 835902000,
+    "valuation_reconciles": true,
+    "valuation_note": "Sum of 18 properties from Statement of Portfolio (p150) = S$835,902k. Headline marketing figure S$835.9m. Match confirmed. SFP investment properties line S$996,406k = valuation 835,902 + ROU assets 144,001 + ARO 16,503 (per reconciliation box p150).",
+    "gross_revenue_note_18": 57100000,
+    "reported_gross_revenue_p146": 57100000,
+    "gross_revenue_reconciles": true,
+    "gross_revenue_components": "Rental income S$50,535k + Recoverable and other income S$6,565k = S$57,100k (note 18 p176).",
+    "npi_check": {"gross_revenue": 57100000, "property_expenses": -13210000, "calculated_npi": 43890000, "reported_npi": 43890000, "reconciles": true},
+    "total_return_check": {
+      "gross_revenue": 57100000, "property_expenses": -13210000, "managers_fees": -2393000, "japan_am_fees": -1045000,
+      "trustees_fee": -284000, "trust_expenses": -1671000, "finance_expenses": -6630000, "other_income": 2013000,
+      "net_income_before_tax_and_fv": 33880000, "reported": 33880000,
+      "fv_investment_properties": 8483000, "fv_derivatives": -1024000, "net_income_before_tax": 41339000, "reported_pretax": 41339000,
+      "tax_expenses": -6634000, "total_return": 34705000, "reported_total_return": 34705000, "reconciles": true
+    },
+    "line_items_str_check": "Srevenue(57,100) - Sexpense(25,233) + Sadjustment_signed(2,838) = 34,705 = net_income. PASS.",
+    "sum_property_npi_jpy_millions": 4838,
+    "reported_japan_npi_jpy_millions": 4838,
+    "sum_property_npi": 4838,
+    "reported_total_npi": 4838,
+    "npi_reconciles": true,
+    "npi_currency_basis": "JPY millions - Japan Portfolio NPI (17 properties): 534+554+258+128+164+186+118+240+184+1231+291+205+303+165+121+53+103 = 4,838 JPY million (matches reported Japan NPI JPY 4,838m, bar chart p24). Vietnam property NPI VND 22,239m stored separately. SGD per-property reconciliation not applicable (cross-currency portfolio); gate skips JPY/VND rows.",
+    "sum_property_gross_revenue_jpy_millions": 4551,
+    "gross_revenue_currency_basis": "JPY millions - 7 multi-tenanted Japan properties disclosed: 787+747+335+1,752+402+376+152 = 4,551 JPY million. 11 single-tenant properties have null gross_revenue (structural, note 3 p26). Vietnam GR not disclosed per property (segment GR S$1,225k, note 24 p179).",
+    "top_tenants_top10_sum_pct": 66.2,
+    "trade_mix_sum_pct": 99.9,
+    "trade_mix_reconciles": "approximately (rounding to 99.9%; no residual 'Other' disclosed)"
+  },
+  "columns_never_fillable": [
+    {"column": "properties.gla", "reason": "DHLT is a logistics/industrial REIT reporting NLA (sqm) only. GLA not disclosed for any property."},
+    {"column": "properties.gross_revenue (per-property, single-tenant)", "reason": "Note 3 p26: gross rental income not disclosed for single-tenanted properties due to confidentiality obligations. Affects 11 single-tenant properties (Nagano Suzaka, Maebashi, Kuki, Ibaraki Yuki, Misato, Iruma, Kakegawa, Okayama Hayashima 2, Matsuyama, Fukuoka Tobara, Tan Duc 2). Disclosed only for 7 multi-tenanted properties (in JPY millions)."},
+    {"column": "properties.net_property_income / gross_revenue (SGD basis)", "reason": "Per-property NPI/GR disclosed in local currency (JPY millions for Japan; VND millions for Tan Duc 2), p27. Consolidated income statement translates at average FX not disclosed per-property. No per-property SGD figure published; fields carry native-currency absolute values with *_currency fields. Excluded from SGD gate reconciliation."}
+  ],
+  "data_with_no_home": [
+    {"item": "Japan Portfolio NPI (JPY terms)", "value": "JPY 4,838 million for FY2024 (FY2023: JPY 4,736 million, +2.1% y-o-y)", "source_page": 24},
+    {"item": "Japan Portfolio valuation (JPY)", "value": "JPY 93,116 million as at 31 December 2024 (FY2023: JPY 89,108 million, +4.5% incl. DPL Ibaraki Yuki)", "source_page": 49},
+    {"item": "Vietnam Portfolio segment results (SGD)", "value": "Gross revenue S$1,225k, NPI S$1,171k for FY2024 (note 24 p179)", "source_page": 179},
+    {"item": "FX rates used for SGD conversion", "value": "S$1.00 = JPY115.16 (closing, 31 Dec 2024; 31 Dec 2023: JPY107.11); S$1.00 = VND18,751.50 (closing, 31 Dec 2024)", "source_page": 22},
+    {"item": "Total borrowings", "value": "S$343.3 million as at 31 December 2024; 100% JPY-denominated; 99.2% fixed rate", "source_page": 54},
+    {"item": "Portfolio: 34 tenants; 78.7% of tenants in 3PL sector", "value": "As at 31 December 2024", "source_page": 48},
+    {"item": "Total investment properties per SFP vs Statement of Portfolio", "value": "SFP investment properties S$996,406k = valuation 835,902 + ROU 144,001 + ARO 16,503", "source_page": 150}
+  ],
+  "parsing_traps": [
+    {"trap": "Presentation currency SGD, not JPY", "description": "DHLT's audited consolidated financial statements are in S$'000 (SGD). Task brief assumed JPY. Only underlying property operations are JPY/VND. See currency_decision.", "source_page": 146},
+    {"trap": "pct_basis for top tenants is NPI not GRI", "description": "Top 10 Tenant table (p48) uses % of NPI (footnote 6), while trade-mix (p48) uses % of GRI (footnote 3). Kept distinct: top_tenants pct_basis=npi, trade_mix pct_basis=gri.", "source_page": 48},
+    {"trap": "SFP investment properties line != Statement-of-Portfolio valuation", "description": "SFP 'Investment properties' S$996,406k includes IFRS-16 right-of-use assets (S$144,001k) and Asset Retirement Obligation (S$16,503k). market_valuation uses 'Investment properties, at valuation' S$835,902k (Statement of Portfolio reconciliation p150), NOT the SFP line.", "source_page": 150},
+    {"trap": "Two acquisitions in FY2024, portfolio grew 16 -> 18", "description": "DPL Ibaraki Yuki (15 Mar 2024, from Sponsor) and D Project Tan Duc 2 (5 Jul 2024, first non-Japan property, via SPV). Both contribute partial-year NPI. DPL Gunma Fujioka (Mar 2025) is NOT in this FY2024 report.", "source_page": 49},
+    {"trap": "Vietnam NPI in VND millions", "description": "Portfolio overview p27 shows D Project Tan Duc 2 NPI as 'VND 22,239' (millions) = VND 22,239,000,000 absolute. Other properties in JPY millions.", "source_page": 27}
+  ],
+  "inferred": [
+    {"table": "performance", "field": "distribution_record[1].dpu (H2-2024)", "value": 2.18, "basis": "Derived = FY2024 full-year DPU 4.79c (p24) minus disclosed H1-2024 DPU 2.61c (Distribution Statement p147). H2-2024 distribution paid 26 Mar 2025 (FY2024 Calendar p55); amount not separately disclosed in FY2024 AR (subsequent event).", "source_page": 147},
+    {"table": "top_tenants / trade_mix", "field": "industry / category (canonical mapping)", "scope": "all rows", "value": "3PL->Logistics & Supply Chain Management; Retail & E-commerce->Other Retail Trades; Manufacturing->Other Industrial Trades", "basis": "Report discloses trade sector verbatim (3PL, Retail, E-commerce, Manufacturing); canonical mapping applied. category_raw/original preserved.", "source_page": 48},
+    {"table": "properties", "field": "lease_expiry_date (month-end)", "scope": "leasehold properties", "value": "day set to last day of stated month", "basis": "Cards state e.g. 'expiring in July 2034'; exact day not disclosed.", "source_page": "28-46"},
+    {"table": "properties", "field": "major_tenant", "scope": "single-tenant properties", "value": "tenant names from property card descriptions (disclosed textually, not inferred)", "basis": "Each property card names the sole/anchor tenant.", "source_page": "28-46"}
+  ],
+  "source_pages": "PDF pages: front summary/KPIs p10-11,p24; property cards p28-46; operational review/acquisitions p49; top tenants + trade mix p48; capital management p54; financial statements p145-150; notes p176-179; EPU note 23 p178; Distribution of Unitholdings p189."
+}

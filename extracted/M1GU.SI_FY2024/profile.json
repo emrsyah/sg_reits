@@ -1,0 +1,17 @@
+{
+  "symbol": "M1GU.SI",
+  "sub_sector": "Industrial",
+  "management": {
+    "reit_manager": [
+      "Sabana Real Estate Investment Management Pte. Ltd."
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "property_manager": [
+      "Sabana Property Management Pte. Ltd."
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 13
+}

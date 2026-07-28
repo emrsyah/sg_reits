@@ -1,0 +1,169 @@
+{
+  "targets": [
+    {
+      "symbol": "AJBU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\21_AJBU.SI_Keppel-DC-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "AU8U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\07_AU8U.SI_CapitaLand-China-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "AW9U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\17_AW9U.SI_First-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "BMOU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\04_BMOU.SI_BHG-Retail-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "BTOU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\26_BTOU.SI_Manulife-US-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "CMOU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\22_CMOU.SI_KORE-US-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "CRPU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\34_CRPU.SI_Sasseur-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "CY6U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\08_CY6U.SI_CapitaLand-India-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "D5IU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\25_D5IU.SI_Landmark-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "DCRU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\13_DCRU.SI_Digital-Core-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "DHLU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "HMN.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\06_HMN.SI_CapitaLand-Ascott-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "J85.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\10_J85.SI_CDL-Hospitality-Trusts_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "J91U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\15_J91U.SI_ESR-LOGOS-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "M1GU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\03_M1GU.SI_Alpha-Integrated-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "MXNU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\14_MXNU.SI_Elite-UK-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "ODBU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\39_ODBU.SI_United-Hampshire-US-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "OXMU.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\33_OXMU.SI_Prime-US-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "Q5T.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\16_Q5T.SI_Far-East-Hospitality-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "SET.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\36_SET.SI_Stoneweg-Europe-Stapled-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "TS0U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\31_TS0U.SI_OUE-REIT_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "UD1U.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\20_UD1U.SI_IREIT-Global_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    },
+    {
+      "symbol": "XZL.SI",
+      "declared_fy": 2024,
+      "pdf": "annual_reports\\01_XZL.SI_Acrophyte-Hospitality-Trust_FY2024.pdf",
+      "parsed": false,
+      "extracted": false
+    }
+  ],
+  "excluded": {
+    "8C8U.SI": "no FY2024 AR (listed 2025)"
+  },
+  "note": "all Dec FYE; FY2024 pdf = Dec-2024 = declared FY2024"
+}

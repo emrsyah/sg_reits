@@ -1,0 +1,8 @@
+[
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Fashion (Domestic)", "pct": 45.7, "pct_basis": "gross_revenue", "source_page": 66},
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Sports", "pct": 19.4, "pct_basis": "gross_revenue", "source_page": 66},
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "International Brands", "pct": 16.5, "pct_basis": "gross_revenue", "source_page": 66},
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Children's Wear", "pct": 5.9, "pct_basis": "gross_revenue", "source_page": 66},
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Shoes & Leather", "pct": 4.0, "pct_basis": "gross_revenue", "source_page": 66},
+  {"symbol": "CRPU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Others", "pct": 8.5, "pct_basis": "gross_revenue", "source_page": 66}
+]

@@ -1,0 +1,26 @@
+{
+  "symbol": "XZL.SI",
+  "sub_sector": "Hospitality",
+  "management": {
+    "reit_manager": [
+      "Acrophyte Hospitality Trust Management Pte. Ltd.",
+      "Acrophyte Hospitality Business Trust Management Pte. Ltd."
+    ],
+    "trustee": ["DBS Trustee Limited"],
+    "sponsor": ["Acrophyte Pte. Ltd."],
+    "operator": [
+      "ARA US Hospitality Management, Inc.",
+      "Aimbridge Hospitality",
+      "Avion Hospitality",
+      "Concord Hospitality",
+      "Chartwell Hospitality"
+    ],
+    "master_lessee": [
+      "ARA USH Chicago Tenant, LLC",
+      "ARA USH Blue Runner Tenant, LLC",
+      "ARA CS Tenant, LLC"
+    ]
+  },
+  "income_model": "master_lease",
+  "source_page": 6
+}

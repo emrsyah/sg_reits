@@ -1,0 +1,28 @@
+{
+  "symbol": "TS0U.SI",
+  "sub_sector": "Diversified",
+  "management": {
+    "reit_manager": [
+      "OUE REIT Management Pte. Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "sponsor": [
+      "OUE Limited"
+    ],
+    "property_manager": [
+      "OUE Commercial Property Management Pte. Ltd."
+    ],
+    "master_lessee": [
+      "OUE Limited",
+      "OUE Airport Hotel Pte. Ltd."
+    ],
+    "operator": [
+      "Hilton",
+      "InterContinental Hotels Group"
+    ]
+  },
+  "income_model": "mixed",
+  "source_page": 2
+}

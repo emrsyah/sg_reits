@@ -1,0 +1,17 @@
+{
+  "stem":"08_CY6U.SI_CapitaLand-India-Trust_FY2024","symbol":"CY6U.SI","financial_year":2024,
+  "sub_sector":"Diversified","template_family":"CapitaLand",
+  "parsed":{"markdown":"parsed_reports_datalab/08_CY6U.SI_CapitaLand-India-Trust_FY2024/full.md"},
+  "sections":{
+    "profile":{"status":"llm_only","method":"llm_only","rows":1},
+    "performance":{"status":"llm_only","method":"llm_only","rows":1},
+    "properties":{"status":"done","method":"llm_only","rows":16,"note":"per-property cards; INR valuations reconcile to Rs232,465m portfolio total; SGD to S$3,705.6m"},
+    "top_tenants":{"status":"done","method":"llm_only","rows":10},
+    "trade_mix":{"status":"done","method":"llm_only","rows":7},
+    "financial":{"status":"done","method":"llm_only","rows":1,"cross_check":{"vs":"net_income","match":"line_items Srev-Sexp+Sadj=458,030 PASS"}},
+    "property_transactions":{"status":"done","rows":2}
+  },
+  "final_dir":"extracted/CY6U.SI_FY2024",
+  "gates":{"schema":"PASS","check":"PASS"},
+  "updated":"2026-07-27"
+}

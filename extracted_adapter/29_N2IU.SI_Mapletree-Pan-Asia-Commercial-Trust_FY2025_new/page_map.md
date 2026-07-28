@@ -1,0 +1,251 @@
+# Page map — 29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2025_new
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p186 ['000] — This page presents the Significant Related Party Transactions table, detailing fees paid to the Manager and Property Managers (e.g., management, proje
+    - p194 ['000] — This page details the Manager's Management Fees Paid and Payable in Units for the year ended 31 March 2026, reporting units issued at specific S$ pric
+    - p196 — This page presents the **Substantial Unitholdings as at 8 June 2026** table, listing major holders such as Temasek Holdings (56.91%) and Fullerton Man
+- **also mentions:**
+    - p2 [million] — This page serves as the Corporate Overview for Mapletree Pan Asia Commercial Trust (MPACT), detailing its identity as an SGX-listed REIT, its portfoli
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p35 ['000] — This page presents financial highlights including a table of DPU breakdown by quarter for FY25/26 and a Net Assets Attributable to Unitholders stateme
+    - p99 — This page contains the Table of Contents for the Financial Statements section, listing items from the Report of the Trustee through to Notes to the Fi
+    - p111 ['000] — This page presents the Distribution Statements for SGX REIT Group and MPACT, detailing total distributions of $(422,889) and $(439,609) respectively (
+    - p112 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2026, reporting cash flows from operating activities ($586,003
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p174 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 details financial risk management, specifically currency exposure impacts on 
+    - p190 ['000] — This page presents the SGX REIT segment reporting table (in SGD'000) detailing gross revenue, property operating expenses, and profit after tax by geo
+
+## performance
+- **MAIN (lead):**
+    - p4 [million] — This page presents the SGX REIT Financial Highlights table, detailing gross revenue of S$867.3 million and net property income of S$654.4 million for 
+    - p5 [million] — This page presents the SGX REIT's Total Return since IPO (190.4%), a Selected Balance Sheet table reporting 2026 to 2022 figures in S$ million, and Ke
+    - p6 [million] — This page presents a "Performance Highlights" section featuring two tables detailing the geographical distribution of AUM and NPI by region, alongside
+    - p9 — This page details the SGX REIT's year-in-review activities from May 2025 to March 2026, explicitly naming financial highlights such as quarterly Distr
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p20 — This page of the MPACT SGX REIT annual report contains a Letter to Unitholders featuring text-based financial highlights (DPU/financial notes) rather 
+    - p35 ['000] — This page presents financial highlights including a table of DPU breakdown by quarter for FY25/26 and a Net Assets Attributable to Unitholders stateme
+    - p37 [million] — This page presents a Capital Management section featuring a **Key Financial Metrics and Indicators table** reporting MPACT's total gross debt outstand
+    - p40 [million] — This page presents MPACT's unit price performance and trading statistics, featuring a table of monthly trading volume and unit prices from April 2025 
+    - p44 — This page presents the **Lease Expiry Profile as a % of Monthly GRI** table for Retail and Office/Business Park segments across five fiscal years (FY2
+    - p51 [million] — This page presents a **Statement of Portfolio (property valuations)** and **Trade Mix by GRI** table detailing the property's trade composition, along
+    - p55 [million] — This page presents the **Trade Mix by GRI** table, detailing industry sectors comprising 37.4% IT Services & Consultancy and 12.5% Government Related,
+    - p56 [million] — This page features a table of financial highlights for the Singapore reporting unit (S$ million) displaying gross revenue of S$ 73.2M, net property in
+    - p57 ['000] — This page details the performance of SGX REIT's other Singapore properties, reporting gross revenue and NPI growth alongside occupancy rates and asset
+    - p59 — This page presents a **Trade Mix by GRI** table detailing Festival Walk's retail sector composition across categories such as F&B, Fashion, and Luxury
+    - p63 — This page presents a Lease Expiry Profile by GRI table detailing 192 total leases across FY26/27 to FY30/31 and beyond, alongside a Trade Mix by GRI t
+    - p64 [million] — This page presents the Japan property portfolio's gross revenue (S$56.0M) and net property income (S$31.1M) alongside a lease expiry profile table by 
+    - p110 ['000] — This page presents the Distribution Statements for the SGX REIT Group and MPACT units, reporting financial highlights including amounts available for 
+    - p111 ['000] — This page presents the Distribution Statements for SGX REIT Group and MPACT, detailing total distributions of $(422,889) and $(439,609) respectively (
+    - p117 ['000] — This page presents the **Statements of Movements in Unitholders' Funds** for the year ended 31 March 2026, reporting equity movements in SGD'000. Key 
+    - p119 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 March 2025, reporting financial data in SGD'000. The main t
+    - p131 — This page contains the accounting policy for income taxes within the Notes to The Financial Statements, detailing the recognition of current and defer
+    - p136 — This page contains the accounting policy notes for investment properties and plant and equipment under SGX REIT's Notes to the Financial Statements fo
+    - p171 — This page contains no schema-relevant data, as it discusses currency risk management strategies without presenting audited Portfolio Statements, finan
+    - p187 — This page presents the Financial Ratios and Segment Reporting notes for the SGX REIT Group for the year ended 31 March 2026, reporting ratios in perce
+    - p190 ['000] — This page presents the SGX REIT segment reporting table (in SGD'000) detailing gross revenue, property operating expenses, and profit after tax by geo
+    - p195 — This page presents the Statistics of Unitholdings for SGX REIT as at 8 June 2026, led by a table detailing the distribution of unitholdings across siz
+- **also mentions:**
+    - p34 ['000] — This page presents the SGX'000 (S\$ million) Statement of Total Return for MPACT REIT's FY25/26, detailing gross revenue of S\$867.3m, property operat
+    - p43 ['000] — The page features a "Successful Renewals of Key Top Ten Tenants" table detailing MPACT's portfolio retention metrics across Singapore, Hong Kong, Chin
+    - p99 — This page contains the Table of Contents for the Financial Statements section, listing items from the Report of the Trustee through to Notes to the Fi
+    - p103 ['000] — This page contains the Independent Auditors' Report highlighting Key Audit Matters, specifically the Valuation of investment properties where the carr
+    - p107 ['000] — This page presents the **Statements of Profit or Loss** for the SGX REIT Group and MPACT, reporting financial results in **$'000** for the year ended 
+    - p108 ['000] — This page presents the Statements of Comprehensive Income for MPACT REIT Group and MPACT for the year ended 31 March 2026, reporting total comprehensi
+    - p109 ['000] — This page presents the Group Statements of Financial Position for SGX REIT as of 31 March 2026 and 2025, reporting total assets of SGD'000 in the mill
+    - p114 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group year ended 31 March 2026, reporting total comprehensive income and 
+    - p115 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT, reporting figures in \$'000 and detailing contributions by unithold
+    - p116 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT's Group, detailing changes in equity components including foreign cu
+    - p118 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT (MPACT) for the year ended 31 March 2026, reporting movements in uni
+    - p123 ['000] — This page presents the audited Portfolio Statement of property valuations and occupancy rates for the SGX REIT as at 31/03/2026 and 31/03/2025, report
+    - p125 ['000] — This page presents the audited Portfolio Statement detailing gross revenue ($'000), occupancy rates (%), and asset valuations ($'000) across various p
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p180 ['000] — This page presents a table detailing the Group's capital risk metrics, specifically Aggregate Leverage and ICR ratios for the financial years ended 31
+    - p193 ['000] — This page details Interested Person Transactions for the year ended 31 March 2026, presenting an audited table of aggregate values in S$'000 for manag
+    - p194 ['000] — This page details the Manager's Management Fees Paid and Payable in Units for the year ended 31 March 2026, reporting units issued at specific S$ pric
+    - p196 — This page presents the **Substantial Unitholdings as at 8 June 2026** table, listing major holders such as Temasek Holdings (56.91%) and Fullerton Man
+
+## properties
+- **MAIN (lead):**
+    - p2 [million] — This page serves as the Corporate Overview for Mapletree Pan Asia Commercial Trust (MPACT), detailing its identity as an SGX-listed REIT, its portfoli
+    - p12 [million] — This page presents the audited Portfolio Statement (property valuations) for MPACT, reporting a diversified portfolio of 15 commercial properties valu
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p36 [million] — This page presents the audited Portfolio Statement detailing property valuations as of 31 March 2026 and 2025 in S$ million, showing a total portfolio
+    - p47 ['000] — This page presents the audited Portfolio Statement for Festival Walk (Hong Kong), Gateway Plaza (Beijing), Sandhill Plaza (Shanghai), and The Pinnacle
+    - p49 ['000] — This page presents the audited Portfolio Statement for three properties in Chiba, Japan (mBAY POINT Makuhari, Fujitsu Makuhari Building, and Makuhari 
+    - p50 — This page presents property details for VivoCity, listing gross revenue of S$253.2M and net property income of S$190.0M alongside a committed occupanc
+    - p51 [million] — This page presents a **Statement of Portfolio (property valuations)** and **Trade Mix by GRI** table detailing the property's trade composition, along
+    - p63 — This page presents a Lease Expiry Profile by GRI table detailing 192 total leases across FY26/27 to FY30/31 and beyond, alongside a Trade Mix by GRI t
+    - p64 [million] — This page presents the Japan property portfolio's gross revenue (S$56.0M) and net property income (S$31.1M) alongside a lease expiry profile table by 
+    - p99 — This page contains the Table of Contents for the Financial Statements section, listing items from the Report of the Trustee through to Notes to the Fi
+    - p103 ['000] — This page contains the Independent Auditors' Report highlighting Key Audit Matters, specifically the Valuation of investment properties where the carr
+    - p120 ['000] — This page presents the audited Portfolio Statement (property valuations) as of 31 March 2026, detailing investment properties held under MPACT and Map
+    - p121 ['000] — This page presents a table of audited Portfolio Statement data for the SGX REIT, reporting gross revenue and occupancy rates alongside property valuat
+    - p122 ['000] — This page presents the audited Portfolio Statement for Mapletree North Asia Commercial Trust (MNACT Group) as of 31 March 2026, listing eight investme
+    - p123 ['000] — This page presents the audited Portfolio Statement of property valuations and occupancy rates for the SGX REIT as at 31/03/2026 and 31/03/2025, report
+    - p124 — This page presents the **Audited Portfolio Statement** for investment properties held under the MNACT Group as at 31 March 2026, detailing specific as
+    - p125 ['000] — This page presents the audited Portfolio Statement detailing gross revenue ($'000), occupancy rates (%), and asset valuations ($'000) across various p
+    - p131 — This page contains the accounting policy for income taxes within the Notes to The Financial Statements, detailing the recognition of current and defer
+    - p136 — This page contains the accounting policy notes for investment properties and plant and equipment under SGX REIT's Notes to the Financial Statements fo
+    - p146 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, specifically detailing Notes 10 and 11 regarding Trade and Othe
+    - p147 ['000] — This page presents the audited Portfolio Statement of Derivative Financial Instruments for SGX REIT as of 31 March 2026 and 31 March 2025, detailing c
+    - p148 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's derivative financial instruments as of 31 March 2026, detailin
+    - p149 ['000] — This page presents the audited Portfolio Statement of Derivative Financial Instruments for the Group as of 31 March 2026, detailing hedging strategies
+    - p151 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT, specifically detailing Derivative Financial Instruments inc
+    - p153 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's Group and MPACT entities as of 31 March 2026, detailing invest
+    - p155 ['000] — This page contains the audited Portfolio Statement (property valuations) table detailing valuation techniques and significant unobservable inputs for 
+    - p156 ['000] — This page presents the audited Portfolio Statement for undiscouted lease payments receivable under operating leases as of 31 March 2026 and 2025, repo
+    - p158 ['000] — This page contains an unaudited table detailing the movement in impairment loss on equity investments at cost and a Statement of Portfolio listing sig
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p164 ['000] — This page details SGX REIT's borrowings and loans from a subsidiary as of 31 March 2026, presenting an audited Portfolio Statement (property valuation
+    - p169 ['000] — This page contains the audited Portfolio Statement (property valuations) for SGX REIT, detailing the Group's financial risk management policies and ex
+    - p171 — This page contains no schema-relevant data, as it discusses currency risk management strategies without presenting audited Portfolio Statements, finan
+    - p173 ['000] — This page contains the audited Portfolio Statement of currency risk exposure for SGX REIT's Group as of 31 March 2025, reporting net financial (liabil
+    - p174 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 details financial risk management, specifically currency exposure impacts on 
+    - p187 — This page presents the Financial Ratios and Segment Reporting notes for the SGX REIT Group for the year ended 31 March 2026, reporting ratios in perce
+    - p194 ['000] — This page details the Manager's Management Fees Paid and Payable in Units for the year ended 31 March 2026, reporting units issued at specific S$ pric
+- **also mentions:**
+    - p35 ['000] — This page presents financial highlights including a table of DPU breakdown by quarter for FY25/26 and a Net Assets Attributable to Unitholders stateme
+    - p42 [million] — This page presents a table titled "Contribution to Gross Revenue" by market segment for SGX REIT's FY24/25 and FY25/26 periods, reporting values in S$
+    - p46 [million] — This page presents a "Properties at a Glance" table detailing four Singapore assets (VivoCity, Mapletree Business City, mTower, and Bank of America Ha
+    - p48 ['000] — This page presents a "Properties at a Glance" table detailing four newly acquired office assets in Tokyo as of 31 March 2026, including their addresse
+    - p52 ['000] — This page presents two quarterly performance tables for VivoCity: a Breakdown of Shopper Traffic by Quarter (totaling 45.4 million in FY25/26, a 3.6% 
+    - p56 [million] — This page features a table of financial highlights for the Singapore reporting unit (S$ million) displaying gross revenue of S$ 73.2M, net property in
+    - p57 ['000] — This page details the performance of SGX REIT's other Singapore properties, reporting gross revenue and NPI growth alongside occupancy rates and asset
+    - p58 — This page details the property-level performance of Festival Walk in Hong Kong, featuring a Gross Revenue table showing HKD 1,013.9M (S$167.6M) and Ne
+    - p62 — This page features property details for Gateway Plaza in Beijing and Sandhill Plaza in Shanghai, including aggregate lettable areas, location descript
+    - p109 ['000] — This page presents the Group Statements of Financial Position for SGX REIT as of 31 March 2026 and 2025, reporting total assets of SGD'000 in the mill
+    - p111 ['000] — This page presents the Distribution Statements for SGX REIT Group and MPACT, detailing total distributions of $(422,889) and $(439,609) respectively (
+    - p112 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2026, reporting cash flows from operating activities ($586,003
+    - p189 ['000] — This page presents the SGX'000-denominated Segment Reporting table detailing non-current assets, trade receivables, inventories, unallocated assets, t
+
+## top_tenants
+- **MAIN (lead):**
+    - p6 [million] — This page presents a "Performance Highlights" section featuring two tables detailing the geographical distribution of AUM and NPI by region, alongside
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p43 ['000] — The page features a "Successful Renewals of Key Top Ten Tenants" table detailing MPACT's portfolio retention metrics across Singapore, Hong Kong, Chin
+    - p45 — This page presents the Top Ten Tenants by Gross Rental Income (GRI) and Trade Mix by GRI for the reporting period ending 31 March 2026, explicitly nam
+    - p46 [million] — This page presents a "Properties at a Glance" table detailing four Singapore assets (VivoCity, Mapletree Business City, mTower, and Bank of America Ha
+    - p50 — This page presents property details for VivoCity, listing gross revenue of S$253.2M and net property income of S$190.0M alongside a committed occupanc
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p195 — This page presents the Statistics of Unitholdings for SGX REIT as at 8 June 2026, led by a table detailing the distribution of unitholdings across siz
+- **also mentions:**
+    - p2 [million] — This page serves as the Corporate Overview for Mapletree Pan Asia Commercial Trust (MPACT), detailing its identity as an SGX-listed REIT, its portfoli
+    - p36 [million] — This page presents the audited Portfolio Statement detailing property valuations as of 31 March 2026 and 2025 in S$ million, showing a total portfolio
+    - p44 — This page presents the **Lease Expiry Profile as a % of Monthly GRI** table for Retail and Office/Business Park segments across five fiscal years (FY2
+    - p47 ['000] — This page presents the audited Portfolio Statement for Festival Walk (Hong Kong), Gateway Plaza (Beijing), Sandhill Plaza (Shanghai), and The Pinnacle
+    - p48 ['000] — This page presents a "Properties at a Glance" table detailing four newly acquired office assets in Tokyo as of 31 March 2026, including their addresse
+    - p49 ['000] — This page presents the audited Portfolio Statement for three properties in Chiba, Japan (mBAY POINT Makuhari, Fujitsu Makuhari Building, and Makuhari 
+    - p51 [million] — This page presents a **Statement of Portfolio (property valuations)** and **Trade Mix by GRI** table detailing the property's trade composition, along
+    - p52 ['000] — This page presents two quarterly performance tables for VivoCity: a Breakdown of Shopper Traffic by Quarter (totaling 45.4 million in FY25/26, a 3.6% 
+    - p55 [million] — This page presents the **Trade Mix by GRI** table, detailing industry sectors comprising 37.4% IT Services & Consultancy and 12.5% Government Related,
+    - p57 ['000] — This page details the performance of SGX REIT's other Singapore properties, reporting gross revenue and NPI growth alongside occupancy rates and asset
+    - p59 — This page presents a **Trade Mix by GRI** table detailing Festival Walk's retail sector composition across categories such as F&B, Fashion, and Luxury
+    - p60 [million] — This page presents the **Breakdown of Shopper Traffic by Quarter** and **Breakdown of Tenant Sales by Quarter** tables for Festival Walk, reporting FY
+    - p63 — This page presents a Lease Expiry Profile by GRI table detailing 192 total leases across FY26/27 to FY30/31 and beyond, alongside a Trade Mix by GRI t
+    - p64 [million] — This page presents the Japan property portfolio's gross revenue (S$56.0M) and net property income (S$31.1M) alongside a lease expiry profile table by 
+    - p65 — This page details the property specifics and financial performance of The Pinnacle Gangnam in South Korea, featuring a Gross Revenue table showing KRW
+    - p99 — This page contains the Table of Contents for the Financial Statements section, listing items from the Report of the Trustee through to Notes to the Fi
+    - p103 ['000] — This page contains the Independent Auditors' Report highlighting Key Audit Matters, specifically the Valuation of investment properties where the carr
+    - p131 — This page contains the accounting policy for income taxes within the Notes to The Financial Statements, detailing the recognition of current and defer
+    - p136 — This page contains the accounting policy notes for investment properties and plant and equipment under SGX REIT's Notes to the Financial Statements fo
+    - p141 ['000] — This page presents the **Gross Revenue** and **Property Operating Expenses** tables for MPACT and its Group for the year ended 31 March 2026, reportin
+    - p171 — This page contains no schema-relevant data, as it discusses currency risk management strategies without presenting audited Portfolio Statements, finan
+    - p174 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 details financial risk management, specifically currency exposure impacts on 
+    - p187 — This page presents the Financial Ratios and Segment Reporting notes for the SGX REIT Group for the year ended 31 March 2026, reporting ratios in perce
+    - p188 ['000] — This page presents the Segment Reporting table detailing gross revenue, property operating expenses, and profit after tax for SGX REIT's reportable se
+    - p194 ['000] — This page details the Manager's Management Fees Paid and Payable in Units for the year ended 31 March 2026, reporting units issued at specific S$ pric
+
+## trade_mix
+- **MAIN (lead):**
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p36 [million] — This page presents the audited Portfolio Statement detailing property valuations as of 31 March 2026 and 2025 in S$ million, showing a total portfolio
+    - p45 — This page presents the Top Ten Tenants by Gross Rental Income (GRI) and Trade Mix by GRI for the reporting period ending 31 March 2026, explicitly nam
+    - p47 ['000] — This page presents the audited Portfolio Statement for Festival Walk (Hong Kong), Gateway Plaza (Beijing), Sandhill Plaza (Shanghai), and The Pinnacle
+    - p49 ['000] — This page presents the audited Portfolio Statement for three properties in Chiba, Japan (mBAY POINT Makuhari, Fujitsu Makuhari Building, and Makuhari 
+    - p50 — This page presents property details for VivoCity, listing gross revenue of S$253.2M and net property income of S$190.0M alongside a committed occupanc
+    - p51 [million] — This page presents a **Statement of Portfolio (property valuations)** and **Trade Mix by GRI** table detailing the property's trade composition, along
+    - p55 [million] — This page presents the **Trade Mix by GRI** table, detailing industry sectors comprising 37.4% IT Services & Consultancy and 12.5% Government Related,
+    - p57 ['000] — This page details the performance of SGX REIT's other Singapore properties, reporting gross revenue and NPI growth alongside occupancy rates and asset
+    - p59 — This page presents a **Trade Mix by GRI** table detailing Festival Walk's retail sector composition across categories such as F&B, Fashion, and Luxury
+    - p62 — This page features property details for Gateway Plaza in Beijing and Sandhill Plaza in Shanghai, including aggregate lettable areas, location descript
+    - p63 — This page presents a Lease Expiry Profile by GRI table detailing 192 total leases across FY26/27 to FY30/31 and beyond, alongside a Trade Mix by GRI t
+    - p64 [million] — This page presents the Japan property portfolio's gross revenue (S$56.0M) and net property income (S$31.1M) alongside a lease expiry profile table by 
+    - p65 — This page details the property specifics and financial performance of The Pinnacle Gangnam in South Korea, featuring a Gross Revenue table showing KRW
+    - p136 — This page contains the accounting policy notes for investment properties and plant and equipment under SGX REIT's Notes to the Financial Statements fo
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p174 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 details financial risk management, specifically currency exposure impacts on 
+    - p187 — This page presents the Financial Ratios and Segment Reporting notes for the SGX REIT Group for the year ended 31 March 2026, reporting ratios in perce
+- **also mentions:**
+    - p42 [million] — This page presents a table titled "Contribution to Gross Revenue" by market segment for SGX REIT's FY24/25 and FY25/26 periods, reporting values in S$
+    - p43 ['000] — The page features a "Successful Renewals of Key Top Ten Tenants" table detailing MPACT's portfolio retention metrics across Singapore, Hong Kong, Chin
+    - p44 — This page presents the **Lease Expiry Profile as a % of Monthly GRI** table for Retail and Office/Business Park segments across five fiscal years (FY2
+    - p146 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT, specifically detailing Notes 10 and 11 regarding Trade and Othe
+    - p161 ['000] — This page presents two financial tables: the Deferred Tax Assets and Liabilities reconciliation for 2026 and 2025 (in $'000) detailing tax charges to 
+    - p175 — This page details the Group's and MPACT's credit risk management through a trade receivables ageing table, expected credit loss allowance movements, a
+    - p176 ['000] — This page presents the Liquidity Risk table for SGX REIT, detailing the contractual undiscounted cash flows of non-derivative financial liabilities (i
+    - p181 ['000] — This page presents the Group's financial risk management disclosures for the year ended 31 March 2026, specifically detailing accounting classificatio
+    - p182 ['000] — This page of the SGX REIT annual report contains a table detailing the accounting classifications and fair values of financial assets and liabilities 
+    - p183 ['000] — This page contains a table detailing the carrying amount and fair value of financial assets and liabilities as of 31 March 2026, presented in SGD'000.
+    - p184 ['000] — This page presents a table detailing the carrying amounts and fair values of financial assets and liabilities as of 31 March 2025, categorized by meas
+    - p188 ['000] — This page presents the Segment Reporting table detailing gross revenue, property operating expenses, and profit after tax for SGX REIT's reportable se
+    - p189 ['000] — This page presents the SGX'000-denominated Segment Reporting table detailing non-current assets, trade receivables, inventories, unallocated assets, t
+    - p190 ['000] — This page presents the SGX REIT segment reporting table (in SGD'000) detailing gross revenue, property operating expenses, and profit after tax by geo
+    - p191 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2025 presents a segment reporting table detailing non-current assets, trade receiv
+
+## financial
+- **MAIN (lead):**
+    - p17 — This page summarizes MPACT's FY25/26 performance with no schema-relevant data such as audited portfolio statements, profit or loss tables, top-N tenan
+    - p34 ['000] — This page presents the SGX'000 (S\$ million) Statement of Total Return for MPACT REIT's FY25/26, detailing gross revenue of S\$867.3m, property operat
+    - p99 — This page contains the Table of Contents for the Financial Statements section, listing items from the Report of the Trustee through to Notes to the Fi
+    - p107 ['000] — This page presents the **Statements of Profit or Loss** for the SGX REIT Group and MPACT, reporting financial results in **$'000** for the year ended 
+    - p108 ['000] — This page presents the Statements of Comprehensive Income for MPACT REIT Group and MPACT for the year ended 31 March 2026, reporting total comprehensi
+    - p110 ['000] — This page presents the Distribution Statements for the SGX REIT Group and MPACT units, reporting financial highlights including amounts available for 
+    - p111 ['000] — This page presents the Distribution Statements for SGX REIT Group and MPACT, detailing total distributions of $(422,889) and $(439,609) respectively (
+    - p112 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2026, reporting cash flows from operating activities ($586,003
+    - p113 ['000] — This page presents the Consolidated Statement of Cash Flows for the year ended 31 March 2026, detailing cash flows from financing activities reported 
+    - p114 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the Group year ended 31 March 2026, reporting total comprehensive income and 
+    - p116 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT's Group, detailing changes in equity components including foreign cu
+    - p118 ['000] — This page presents the Statements of Movements in Unitholders' Funds for SGX REIT (MPACT) for the year ended 31 March 2026, reporting movements in uni
+    - p119 ['000] — This page presents the Statements of Movements in Unitholders' Funds for the year ended 31 March 2025, reporting financial data in SGD'000. The main t
+    - p131 — This page contains the accounting policy for income taxes within the Notes to The Financial Statements, detailing the recognition of current and defer
+    - p144 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 presents a detailed table under "Income Taxes" showing tax credits and charge
+    - p149 ['000] — This page presents the audited Portfolio Statement of Derivative Financial Instruments for the Group as of 31 March 2026, detailing hedging strategies
+    - p151 ['000] — This page presents the audited Portfolio Statement (property valuations) for the SGX REIT, specifically detailing Derivative Financial Instruments inc
+    - p153 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT's Group and MPACT entities as of 31 March 2026, detailing invest
+    - p159 ['000] — This page presents Notes 17 and 18 detailing a loan to a subsidiary of $100,000,000 (SGD'000) and the Group's investment in a joint venture (IGIS Qual
+    - p160 ['000] — This page presents the audited Deferred Tax Assets and Liabilities for the SGX REIT group as of 31 March 2026, reporting figures in \$'000. It details
+    - p161 ['000] — This page presents two financial tables: the Deferred Tax Assets and Liabilities reconciliation for 2026 and 2025 (in $'000) detailing tax charges to 
+    - p174 ['000] — This page of the SGX REIT annual report for the year ended 31 March 2026 details financial risk management, specifically currency exposure impacts on 
+    - p194 ['000] — This page details the Manager's Management Fees Paid and Payable in Units for the year ended 31 March 2026, reporting units issued at specific S$ pric
+- **also mentions:**
+    - p4 [million] — This page presents the SGX REIT Financial Highlights table, detailing gross revenue of S$867.3 million and net property income of S$654.4 million for 
+    - p42 [million] — This page presents a table titled "Contribution to Gross Revenue" by market segment for SGX REIT's FY24/25 and FY25/26 periods, reporting values in S$
+    - p46 [million] — This page presents a "Properties at a Glance" table detailing four Singapore assets (VivoCity, Mapletree Business City, mTower, and Bank of America Ha
+    - p47 ['000] — This page presents the audited Portfolio Statement for Festival Walk (Hong Kong), Gateway Plaza (Beijing), Sandhill Plaza (Shanghai), and The Pinnacle
+    - p48 ['000] — This page presents a "Properties at a Glance" table detailing four newly acquired office assets in Tokyo as of 31 March 2026, including their addresse
+    - p49 ['000] — This page presents the audited Portfolio Statement for three properties in Chiba, Japan (mBAY POINT Makuhari, Fujitsu Makuhari Building, and Makuhari 
+    - p50 — This page presents property details for VivoCity, listing gross revenue of S$253.2M and net property income of S$190.0M alongside a committed occupanc
+    - p51 [million] — This page presents a **Statement of Portfolio (property valuations)** and **Trade Mix by GRI** table detailing the property's trade composition, along
+    - p55 [million] — This page presents the **Trade Mix by GRI** table, detailing industry sectors comprising 37.4% IT Services & Consultancy and 12.5% Government Related,
+    - p56 [million] — This page features a table of financial highlights for the Singapore reporting unit (S$ million) displaying gross revenue of S$ 73.2M, net property in
+    - p57 ['000] — This page details the performance of SGX REIT's other Singapore properties, reporting gross revenue and NPI growth alongside occupancy rates and asset
+    - p58 — This page details the property-level performance of Festival Walk in Hong Kong, featuring a Gross Revenue table showing HKD 1,013.9M (S$167.6M) and Ne
+    - p62 — This page features property details for Gateway Plaza in Beijing and Sandhill Plaza in Shanghai, including aggregate lettable areas, location descript
+    - p64 [million] — This page presents the Japan property portfolio's gross revenue (S$56.0M) and net property income (S$31.1M) alongside a lease expiry profile table by 
+    - p65 — This page details the property specifics and financial performance of The Pinnacle Gangnam in South Korea, featuring a Gross Revenue table showing KRW
+    - p117 ['000] — This page presents the **Statements of Movements in Unitholders' Funds** for the year ended 31 March 2026, reporting equity movements in SGD'000. Key 
+    - p121 ['000] — This page presents a table of audited Portfolio Statement data for the SGX REIT, reporting gross revenue and occupancy rates alongside property valuat
+    - p123 ['000] — This page presents the audited Portfolio Statement of property valuations and occupancy rates for the SGX REIT as at 31/03/2026 and 31/03/2025, report
+    - p125 ['000] — This page presents the audited Portfolio Statement detailing gross revenue ($'000), occupancy rates (%), and asset valuations ($'000) across various p
+    - p141 ['000] — This page presents the **Gross Revenue** and **Property Operating Expenses** tables for MPACT and its Group for the year ended 31 March 2026, reportin
+    - p142 ['000] — This page presents Notes 5, 6, and 7 detailing Finance Expenses ($'000), Other Trust Expenses ($'000), and Income Taxes ($'000) for the Group and MPAC
+    - p143 ['000] — This page presents the Income Tax Notes (Note 7) for SGX REIT, featuring a tax reconciliation table and movement tables in SGD'000 for the Group and M
+    - p186 ['000] — This page presents the Significant Related Party Transactions table, detailing fees paid to the Manager and Property Managers (e.g., management, proje
+    - p187 — This page presents the Financial Ratios and Segment Reporting notes for the SGX REIT Group for the year ended 31 March 2026, reporting ratios in perce
+    - p188 ['000] — This page presents the Segment Reporting table detailing gross revenue, property operating expenses, and profit after tax for SGX REIT's reportable se
+    - p190 ['000] — This page presents the SGX REIT segment reporting table (in SGD'000) detailing gross revenue, property operating expenses, and profit after tax by geo
+    - p193 ['000] — This page details Interested Person Transactions for the year ended 31 March 2026, presenting an audited table of aggregate values in S$'000 for manag

@@ -1,0 +1,65 @@
+[
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 37.4,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Telecommunications",
+    "pct": 17.8,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT & Electronics",
+    "pct": 17.5,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "Government",
+    "pct": 6.9,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Financial Services",
+    "pct": 5.8,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate",
+    "pct": 5.0,
+    "pct_basis": "gri",
+    "source_page": 47
+  },
+  {
+    "symbol": "UD1U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 9.5,
+    "pct_basis": "gri",
+    "source_page": 47
+  }
+]

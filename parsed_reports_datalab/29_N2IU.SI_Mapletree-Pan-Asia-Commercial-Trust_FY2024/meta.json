@@ -1,16 +1,14 @@
 {
-  "file": "29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2024.pdf",
+  "file": "29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2025.pdf",
   "parser": "datalab:balanced",
-  "pages": 232,
-  "pages_written": 232,
-  "seconds": 63.4,
+  "pages": 188,
+  "pages_written": 188,
+  "seconds": 34.0,
   "parse_quality_score": null,
-  "runtime": 51.3605420589447,
+  "runtime": 27.527076721191406,
   "cost_breakdown": {
-    "list_cost_cents": 93,
-    "final_cost_cents": 93,
-    "regional_multiplier": 1.0
+    "final_cost_cents": 76.0
   },
-  "checkpoint_id": "checkpoint_xnP8flibR9XZtTbT6PX19GutDZWyySh1aESJHOOZINA",
+  "checkpoint_id": "checkpoint_QvUXUKuPKRuQSR0CqQ5fVJmnjAwX_V2Yp9Qw_YeM-cI",
   "page_range": null
 }

@@ -1,0 +1,232 @@
+# Page map — 20_UD1U.SI_IREIT-Global_FY2024
+
+_md_page = physical PDF page (parse_html / cockpit numbering)._  
+_Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._
+
+## profile
+- **MAIN (lead):**
+    - p110 — This page presents the IREIT Sustainability Report's materiality table for FY2024 and FY2025, detailing targets and performance metrics across SDGs 3,
+- **also mentions:**
+    - p3 — This page contains the Table of Contents for an SGX REIT annual report, listing sections such as Key Figures (page 4), Financial Review (page 20), and
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p22 ['000] — This page presents the **Statement of Total Return** for IREIT for FY 2024 and FY 2023, reporting financial highlights in **€'000**. The table details
+    - p43 — This page features a line chart titled "Closing Unit Price Performance for Trading Period from 1 January 2024 to 31 December 2024" detailing the unit 
+    - p195 ['000] — This page presents the Group's operating segment results for the year ended 31 December 2024 in EUR'000, detailing gross revenue of SGD'000 (75,573) a
+    - p196 ['000] — This page presents the Group Performance segment results for SGX REIT, detailing operating income and expenses across Germany, Spain, and France in EU
+    - p200 ['000] — This page presents a table of Group Other Trust Expenses for the year ended 31 December 2024, reporting figures in EUR'000 with a total of €2,036. The
+    - p219 ['000] — This page contains the Group Structure notes and a table of significant related party transactions for the year ended 31 December 2024, reporting amou
+
+## performance
+- **MAIN (lead):**
+    - p3 — This page contains the Table of Contents for an SGX REIT annual report, listing sections such as Key Figures (page 4), Financial Review (page 20), and
+    - p6 [million] — This page presents key financial highlights for the year ended 31 December 2024, featuring DPU/financial metrics in € millions including €75.6 million
+    - p7 — This page presents the SGX REIT's key financial highlights and portfolio metrics, featuring a Portfolio Occupancy Rate of 88.5% (as at 31 December 202
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p22 ['000] — This page presents the **Statement of Total Return** for IREIT for FY 2024 and FY 2023, reporting financial highlights in **€'000**. The table details
+    - p23 [million] — This page presents IREIT's FY 2024 financial highlights, accounting policies, and geographic revenue composition reported in € million. The main artif
+    - p24 ['000] — This page presents the Financial Review of IREIT, featuring a table detailing investment property valuations by geography (German, Spanish, French) to
+    - p34 — This page contains an Independent Market Review focused on Barcelona, featuring a table and chart detailing the city's office market take-up (sqm) and
+    - p46 [million] — This page presents a portfolio summary for the SGX REIT with no schema-relevant data such as audited statements, total return tables, or financial hig
+    - p49 ['000] — This page presents a Top-N tenants/customers table detailing the gross rental income percentage split across 13 properties for 2023 and 2024, alongsid
+    - p57 [million] — This page details the Darmstadt Campus property in Europaviertel, Germany, featuring a main table of asset information (Book Value/Valuation €50.7 mil
+    - p73 ['000] — This page presents audited portfolio statements for two Decathlon retail properties located in Belfort Bessoncourt and Bergerac, detailing their prope
+    - p79 ['000] — This page details the portfolio of two Decathlon retail properties (FOIX and GAP) with their property information, lease profiles, and financial highl
+    - p81 ['000] — This page presents a property portfolio statement detailing two Decathlon stores in Laval and Mâcon, France, with data reported in € million and €'000
+    - p83 ['000] — This page presents a portfolio statement for two Decathlon retail properties (Sables d'Olonne and Sarrebourg) detailing their property information, le
+    - p88 ['000] — This page presents a Portfolio Overview for B&M REIT detailing individual property details, lease profiles, and financial highlights for two assets lo
+    - p94 ['000] — This page presents a portfolio overview of two B&M retail properties in Noyelles-Godault and Périgueux (Marsac), featuring property information tables
+    - p95 ['000] — This page details the property information, lease profiles, and financial highlights for two b&m retail properties in Rouen (St Etienne du Rouvray) an
+    - p100 — This page contains a Risk Management table detailing key risks such as interest rate fluctuations, pandemic impacts, property damage, and leasing chal
+    - p135 — This page contains GRI Standard disclosures detailing IREIT's compliance with laws, stakeholder engagement approach, and material topics related to re
+    - p175 ['000] — This page presents the Consolidated Statement of Total Return and Other Comprehensive Income for the year ended 31 December 2024, reporting Group fina
+    - p177 ['000] — This page presents the Statements of Changes in Net Assets Attributable to Unitholders for the year ended 31 December 2024, detailing a net decrease i
+    - p179 ['000] — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the year ended 31 December 2024, reporting net cash from operating activi
+    - p192 ['000] — This page contains the accounting policy notes for investment properties and a table detailing the Group's lease liabilities (EUR'000) as of 31 Decemb
+    - p195 ['000] — This page presents the Group's operating segment results for the year ended 31 December 2024 in EUR'000, detailing gross revenue of SGD'000 (75,573) a
+    - p221 [million] — This page contains the "Events After the Reporting Period" note detailing a lender waiver on Spanish Portfolio borrowings, a planned €165–€180 million
+    - p224 — This page presents the Statistics of Unitholdings for IREIT as at 13 March 2025, detailing 1,344,837,568 issued units with a market capitalisation of 
+- **also mentions:**
+    - p43 — This page features a line chart titled "Closing Unit Price Performance for Trading Period from 1 January 2024 to 31 December 2024" detailing the unit 
+    - p48 [million] — This page presents the audited Portfolio Statement detailing asset valuations by property for 2023 and 2024 in € million, including a note that Il·lum
+    - p70 — This page presents the Portfolio Overview for Decathlon as of 31 December 2024, featuring a main artifact displaying gross rental income (€8.9m), tota
+    - p78 ['000] — This page presents a Property Information and Lease Profile table for two Decathlon stores in Dreux and Evreux, detailing their completion dates, land
+    - p93 ['000] — This page details two retail properties in Martigues and Nancy, presenting Property Information tables with completion dates, land tenure, purchase pr
+    - p96 ['000] — This page displays the property information and lease profile for a single B&M store in Tours (Saint-Cyr-sur-Loire), including its completion date, la
+    - p174 ['000] — This page presents the **Statements of Financial Position** for the SGX REIT Group and Trust as at 31 December 2024, reporting total assets of EUR'000
+    - p176 ['000] — This page presents the CONSOLIDATED STATEMENT OF DISTRIBUTION for SGX REIT for the year ended 31 December 2024, reporting total return of EUR'000 8,60
+    - p178 ['000] — This page presents the Statements of Changes in Net Assets Attributable to Unitholders for SGX REIT for the years ended 31 December 2023 and 31 Decemb
+    - p180 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2024, detailing carrying values and percentage
+    - p181 ['000] — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2024, detailing individual property locations in France with
+    - p182 ['000] — This page presents the Statement of Portfolio (property valuations) as at 31 December 2024, detailing investment properties by geography and location 
+    - p199 ['000] — This page details the Group's management fees for the year ended 31 December 2024, reporting EUR'000 values for base fees of €2,841 and performance fe
+    - p209 — This page contains no schema-relevant data, as it discusses financial risk management policies and disclosures rather than presenting the audited Port
+    - p213 ['000] — This page contains the **Capital Structure** section (Notes 5) of the SGX REIT annual report for the year ended 31 December 2024, detailing capital ma
+    - p215 ['000] — This page presents the reconciliation of liabilities arising from financing activities for SGX REIT (SGD'000) and its associated EUR'000 tables, detai
+    - p216 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents a table detailing units in issue and to be issued, reported in '0
+    - p220 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents financial ratios and related party transactions reported in EUR'0
+    - p223 — This page presents unitholder statistics for SGX REIT as at 13 March 2025, featuring the top-N tenants/customers table listing the twenty largest unit
+
+## properties
+- **MAIN (lead):**
+    - p3 — This page contains the Table of Contents for an SGX REIT annual report, listing sections such as Key Figures (page 4), Financial Review (page 20), and
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p30 — This page presents an independent market review of German office sectors featuring tables and charts for Darmstadt, Bonn, and Munich prime office rent
+    - p34 — This page contains an Independent Market Review focused on Barcelona, featuring a table and chart detailing the city's office market take-up (sqm) and
+    - p37 — This page presents market analysis data for the French retail real estate sector, featuring a France Retail Investment Volume table (2014–2024) and a 
+    - p48 [million] — This page presents the audited Portfolio Statement detailing asset valuations by property for 2023 and 2024 in € million, including a note that Il·lum
+    - p50 — This page presents a Portfolio Overview for the German REIT as of 31 December 2024, featuring a main table displaying key metrics including €528.2m bo
+    - p52 — This page displays a portfolio overview for the German campus located in Berlin, featuring no audited Portfolio Statement, financial tables, tenant da
+    - p54 — This page displays a portfolio overview image for the German portfolio, specifically highlighting the Bonn Campus, but contains no audited Portfolio S
+    - p59 [million] — This page details the physical attributes, ownership history, and financial performance of the Münster Campus property for the period ending 31 Decemb
+    - p60 — This page displays a photograph of the Concor Park building and introduces the German portfolio section, containing no audited Portfolio Statement, fi
+    - p62 [million] — This page presents the Portfolio Overview for SGX REIT's Spanish portfolio as of 31 December 2024, featuring a Purchase Price table listing €161.0m an
+    - p70 — This page presents the Portfolio Overview for Decathlon as of 31 December 2024, featuring a main artifact displaying gross rental income (€8.9m), tota
+    - p72 ['000] — This page details the portfolio overview for two Decathlon properties in Abbeville and Aurillac, presenting Property Information tables with building 
+    - p73 ['000] — This page presents audited portfolio statements for two Decathlon retail properties located in Belfort Bessoncourt and Bergerac, detailing their prope
+    - p76 ['000] — This page presents the portfolio overview for Decathlon properties in Cholet and Concarneau, France, featuring tables detailing property information (
+    - p80 ['000] — This page details the portfolio overview for Decathlon properties in Istres and Lannion, presenting property information tables (completion dates, lan
+    - p81 ['000] — This page presents a property portfolio statement detailing two Decathlon stores in Laval and Mâcon, France, with data reported in € million and €'000
+    - p83 ['000] — This page presents a portfolio statement for two Decathlon retail properties (Sables d'Olonne and Sarrebourg) detailing their property information, le
+    - p84 ['000] — This page presents a portfolio overview of two Decathlon retail properties (SENS and VERDUN) with their respective property information, lease profile
+    - p86 [million] — This page presents the B&M Portfolio Overview for 31 December 2024, featuring a main table displaying €6.9m gross rental income, 61,756sqm total letta
+    - p88 ['000] — This page presents a Portfolio Overview for B&M REIT detailing individual property details, lease profiles, and financial highlights for two assets lo
+    - p90 ['000] — This page presents the portfolio overview for B&M properties in Chateauroux (Saint-Maur) and Claye-Souilly, featuring property information tables deta
+    - p91 ['000] — This page presents the Audited Portfolio Statement for two retail properties (Epinal and Forbach) featuring B&M as the sole major tenant, detailing pr
+    - p92 ['000] — This page presents a portfolio overview of two B&M retail properties, Metz (Maizieres-Les-Metz) and Marseille, featuring property information tables w
+    - p94 ['000] — This page presents a portfolio overview of two B&M retail properties in Noyelles-Godault and Périgueux (Marsac), featuring property information tables
+    - p100 — This page contains a Risk Management table detailing key risks such as interest rate fluctuations, pandemic impacts, property damage, and leasing chal
+    - p114 — This page of the SGX REIT annual report presents the audited Portfolio Statement for FY2024 carbon footprint assessment, reporting total GHG emissions
+    - p135 — This page contains GRI Standard disclosures detailing IREIT's compliance with laws, stakeholder engagement approach, and material topics related to re
+    - p170 — This page contains the Independent Auditor's Report confirming that IREIT Global's consolidated financial statements and statement of portfolio as at 
+    - p180 ['000] — This page presents the audited Portfolio Statement (property valuations) for SGX REIT as at 31 December 2024, detailing carrying values and percentage
+    - p181 ['000] — This page presents the **Statement of Portfolio (property valuations)** as at 31 December 2024, detailing individual property locations in France with
+    - p182 ['000] — This page presents the Statement of Portfolio (property valuations) as at 31 December 2024, detailing investment properties by geography and location 
+    - p190 ['000] — This page presents the audited Portfolio Statement (property valuations) detailing movements in investment properties for SGX REIT Group for the year 
+    - p192 ['000] — This page contains the accounting policy notes for investment properties and a table detailing the Group's lease liabilities (EUR'000) as of 31 Decemb
+    - p209 — This page contains no schema-relevant data, as it discusses financial risk management policies and disclosures rather than presenting the audited Port
+    - p221 [million] — This page contains the "Events After the Reporting Period" note detailing a lender waiver on Spanish Portfolio borrowings, a planned €165–€180 million
+- **also mentions:**
+    - p7 — This page presents the SGX REIT's key financial highlights and portfolio metrics, featuring a Portfolio Occupancy Rate of 88.5% (as at 31 December 202
+    - p24 ['000] — This page presents the Financial Review of IREIT, featuring a table detailing investment property valuations by geography (German, Spanish, French) to
+    - p53 [million] — This page details the Berlin Campus asset with its main artifact being a Property Information table listing completion date, land tenure, purchase pri
+    - p55 [million] — This page details the asset profile and financial performance of Bonn Campus, featuring a table titled "AS AT 31 DECEMBER" presenting Gross Rental Inc
+    - p57 [million] — This page details the Darmstadt Campus property in Europaviertel, Germany, featuring a main table of asset information (Book Value/Valuation €50.7 mil
+    - p61 [million] — This page presents a property-specific asset profile for Concor Park in Aschheim-Dornach, featuring detailed location descriptions and two primary tab
+    - p65 [million] — This page presents property information, lease profiles, and gross rental income data for the Delta Nova IV and Delta Nova VI assets as of 31 December
+    - p67 [million] — This page presents the property information and lease profile for Sant Cugat Green, featuring a table detailing the asset's book value (€45.4 million)
+    - p69 [million] — This page presents a property information table and lease profile for Parc Cugat Green, detailing its completion date (2009), land tenure, purchase pr
+    - p74 ['000] — This page presents a property overview table for two Decathlon retail locations (Calais and Cergy) including their building completion dates, purchase
+    - p75 ['000] — This page details property information and lease profiles for two Decathlon stores in Châteauroux and Châtellerault, presenting a Property Information
+    - p77 ['000] — This page presents property-specific data for two Decathlon stores in Dinan and Douai, featuring tables detailing building completion dates, purchase 
+    - p78 ['000] — This page presents a Property Information and Lease Profile table for two Decathlon stores in Dreux and Evreux, detailing their completion dates, land
+    - p79 ['000] — This page details the portfolio of two Decathlon retail properties (FOIX and GAP) with their property information, lease profiles, and financial highl
+    - p82 ['000] — This page presents property-level details for two Decathlon stores (Pont-Audemer and Pontivy) including their completion dates, land tenure, purchase 
+    - p85 ['000] — This page presents a single property snapshot for a Decathlon retail store in Vichy, detailing its building completion date of 2002, freehold tenure, 
+    - p89 [million] — This page details property-specific information for two retail assets located in Bourg-en-Bresse and Brive-la-Gaillarde, presenting data in € million.
+    - p93 ['000] — This page details two retail properties in Martigues and Nancy, presenting Property Information tables with completion dates, land tenure, purchase pr
+    - p96 ['000] — This page displays the property information and lease profile for a single B&M store in Tours (Saint-Cyr-sur-Loire), including its completion date, la
+    - p171 [million] — This page contains the Independent Auditor's Report highlighting "Fair Valuation and Disclosure of Fair Value for Investment Properties" as a Key Audi
+    - p189 ['000] — The page presents a reconciliation of the carrying amount of investment properties for IREIT's Group, detailing valuations by country (Germany, Spain,
+    - p191 — This page presents the valuation method and key unobservable inputs (discount rates and terminal capitalisation rates) for Level 3 investment properti
+    - p200 ['000] — This page presents a table of Group Other Trust Expenses for the year ended 31 December 2024, reporting figures in EUR'000 with a total of €2,036. The
+    - p202 ['000] — This page presents the audited Deferred Tax Assets/(Liabilities) table for SGX REIT Group, detailing movements in unutilised tax losses and revaluatio
+    - p214 [million] — This page details the Group's secured borrowings, facilities, and capital expenditure drawdowns as at 31 December 2024, including terms, maturities, i
+
+## top_tenants
+- **MAIN (lead):**
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p37 — This page presents market analysis data for the French retail real estate sector, featuring a France Retail Investment Volume table (2014–2024) and a 
+    - p47 — This page presents the Top 10 Tenants table and Trade Sector table detailing the distribution of rental income as at 31 December 2024, with Decathlon 
+    - p49 ['000] — This page presents a Top-N tenants/customers table detailing the gross rental income percentage split across 13 properties for 2023 and 2024, alongsid
+    - p59 [million] — This page details the physical attributes, ownership history, and financial performance of the Münster Campus property for the period ending 31 Decemb
+    - p65 [million] — This page presents property information, lease profiles, and gross rental income data for the Delta Nova IV and Delta Nova VI assets as of 31 December
+    - p67 [million] — This page presents the property information and lease profile for Sant Cugat Green, featuring a table detailing the asset's book value (€45.4 million)
+    - p69 [million] — This page presents a property information table and lease profile for Parc Cugat Green, detailing its completion date (2009), land tenure, purchase pr
+    - p74 ['000] — This page presents a property overview table for two Decathlon retail locations (Calais and Cergy) including their building completion dates, purchase
+    - p82 ['000] — This page presents property-level details for two Decathlon stores (Pont-Audemer and Pontivy) including their completion dates, land tenure, purchase 
+    - p92 ['000] — This page presents a portfolio overview of two B&M retail properties, Metz (Maizieres-Les-Metz) and Marseille, featuring property information tables w
+    - p93 ['000] — This page details two retail properties in Martigues and Nancy, presenting Property Information tables with completion dates, land tenure, purchase pr
+    - p197 ['000] — This page presents the Group's gross revenue breakdown for 2024 and 2023 in EUR'000, totaling €75,573 million (€64,977 million) with sub-categories in
+    - p223 — This page presents unitholder statistics for SGX REIT as at 13 March 2025, featuring the top-N tenants/customers table listing the twenty largest unit
+- **also mentions:**
+    - p30 — This page presents an independent market review of German office sectors featuring tables and charts for Darmstadt, Bonn, and Munich prime office rent
+    - p34 — This page contains an Independent Market Review focused on Barcelona, featuring a table and chart detailing the city's office market take-up (sqm) and
+    - p46 [million] — This page presents a portfolio summary for the SGX REIT with no schema-relevant data such as audited statements, total return tables, or financial hig
+    - p48 [million] — This page presents the audited Portfolio Statement detailing asset valuations by property for 2023 and 2024 in € million, including a note that Il·lum
+    - p50 — This page presents a Portfolio Overview for the German REIT as of 31 December 2024, featuring a main table displaying key metrics including €528.2m bo
+    - p52 — This page displays a portfolio overview for the German campus located in Berlin, featuring no audited Portfolio Statement, financial tables, tenant da
+    - p53 [million] — This page details the Berlin Campus asset with its main artifact being a Property Information table listing completion date, land tenure, purchase pri
+    - p54 — This page displays a portfolio overview image for the German portfolio, specifically highlighting the Bonn Campus, but contains no audited Portfolio S
+    - p55 [million] — This page details the asset profile and financial performance of Bonn Campus, featuring a table titled "AS AT 31 DECEMBER" presenting Gross Rental Inc
+    - p57 [million] — This page details the Darmstadt Campus property in Europaviertel, Germany, featuring a main table of asset information (Book Value/Valuation €50.7 mil
+    - p61 [million] — This page presents a property-specific asset profile for Concor Park in Aschheim-Dornach, featuring detailed location descriptions and two primary tab
+    - p62 [million] — This page presents the Portfolio Overview for SGX REIT's Spanish portfolio as of 31 December 2024, featuring a Purchase Price table listing €161.0m an
+    - p70 — This page presents the Portfolio Overview for Decathlon as of 31 December 2024, featuring a main artifact displaying gross rental income (€8.9m), tota
+    - p72 ['000] — This page details the portfolio overview for two Decathlon properties in Abbeville and Aurillac, presenting Property Information tables with building 
+    - p73 ['000] — This page presents audited portfolio statements for two Decathlon retail properties located in Belfort Bessoncourt and Bergerac, detailing their prope
+    - p75 ['000] — This page details property information and lease profiles for two Decathlon stores in Châteauroux and Châtellerault, presenting a Property Information
+    - p76 ['000] — This page presents the portfolio overview for Decathlon properties in Cholet and Concarneau, France, featuring tables detailing property information (
+    - p77 ['000] — This page presents property-specific data for two Decathlon stores in Dinan and Douai, featuring tables detailing building completion dates, purchase 
+    - p78 ['000] — This page presents a Property Information and Lease Profile table for two Decathlon stores in Dreux and Evreux, detailing their completion dates, land
+    - p79 ['000] — This page details the portfolio of two Decathlon retail properties (FOIX and GAP) with their property information, lease profiles, and financial highl
+    - p80 ['000] — This page details the portfolio overview for Decathlon properties in Istres and Lannion, presenting property information tables (completion dates, lan
+    - p81 ['000] — This page presents a property portfolio statement detailing two Decathlon stores in Laval and Mâcon, France, with data reported in € million and €'000
+    - p83 ['000] — This page presents a portfolio statement for two Decathlon retail properties (Sables d'Olonne and Sarrebourg) detailing their property information, le
+    - p84 ['000] — This page presents a portfolio overview of two Decathlon retail properties (SENS and VERDUN) with their respective property information, lease profile
+    - p85 ['000] — This page presents a single property snapshot for a Decathlon retail store in Vichy, detailing its building completion date of 2002, freehold tenure, 
+    - p86 [million] — This page presents the B&M Portfolio Overview for 31 December 2024, featuring a main table displaying €6.9m gross rental income, 61,756sqm total letta
+    - p88 ['000] — This page presents a Portfolio Overview for B&M REIT detailing individual property details, lease profiles, and financial highlights for two assets lo
+    - p89 [million] — This page details property-specific information for two retail assets located in Bourg-en-Bresse and Brive-la-Gaillarde, presenting data in € million.
+    - p90 ['000] — This page presents the portfolio overview for B&M properties in Chateauroux (Saint-Maur) and Claye-Souilly, featuring property information tables deta
+    - p91 ['000] — This page presents the Audited Portfolio Statement for two retail properties (Epinal and Forbach) featuring B&M as the sole major tenant, detailing pr
+    - p94 ['000] — This page presents a portfolio overview of two B&M retail properties in Noyelles-Godault and Périgueux (Marsac), featuring property information tables
+    - p95 ['000] — This page details the property information, lease profiles, and financial highlights for two b&m retail properties in Rouen (St Etienne du Rouvray) an
+    - p96 ['000] — This page displays the property information and lease profile for a single B&M store in Tours (Saint-Cyr-sur-Loire), including its completion date, la
+    - p100 — This page contains a Risk Management table detailing key risks such as interest rate fluctuations, pandemic impacts, property damage, and leasing chal
+    - p108 — This page presents IREIT's 12 material sustainability topics and FY2024 targets within a table covering Environment, Climate Action, Water, and Biodiv
+    - p112 — This page of the SGX REIT Sustainability Report features a table titled "Portfolio energy consumption and intensity by country in FY2024" reporting to
+    - p135 — This page contains GRI Standard disclosures detailing IREIT's compliance with laws, stakeholder engagement approach, and material topics related to re
+    - p192 ['000] — This page contains the accounting policy notes for investment properties and a table detailing the Group's lease liabilities (EUR'000) as of 31 Decemb
+    - p209 — This page contains no schema-relevant data, as it discusses financial risk management policies and disclosures rather than presenting the audited Port
+    - p221 [million] — This page contains the "Events After the Reporting Period" note detailing a lender waiver on Spanish Portfolio borrowings, a planned €165–€180 million
+
+## trade_mix
+- **MAIN (lead):**
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p27 — This page presents an investment market overview for Germany, featuring the "Germany Investment Volume" table (2017–2025) and the "Germany Prime Yield
+    - p30 — This page presents an independent market review of German office sectors featuring tables and charts for Darmstadt, Bonn, and Munich prime office rent
+    - p34 — This page contains an Independent Market Review focused on Barcelona, featuring a table and chart detailing the city's office market take-up (sqm) and
+    - p47 — This page presents the Top 10 Tenants table and Trade Sector table detailing the distribution of rental income as at 31 December 2024, with Decathlon 
+    - p49 ['000] — This page presents a Top-N tenants/customers table detailing the gross rental income percentage split across 13 properties for 2023 and 2024, alongsid
+    - p50 — This page presents a Portfolio Overview for the German REIT as of 31 December 2024, featuring a main table displaying key metrics including €528.2m bo
+    - p62 [million] — This page presents the Portfolio Overview for SGX REIT's Spanish portfolio as of 31 December 2024, featuring a Purchase Price table listing €161.0m an
+    - p70 — This page presents the Portfolio Overview for Decathlon as of 31 December 2024, featuring a main artifact displaying gross rental income (€8.9m), tota
+    - p209 — This page contains no schema-relevant data, as it discusses financial risk management policies and disclosures rather than presenting the audited Port
+    - p221 [million] — This page contains the "Events After the Reporting Period" note detailing a lender waiver on Spanish Portfolio borrowings, a planned €165–€180 million
+- **also mentions:**
+    - p188 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 contains a table and notes detailing Group and Trust trade and other recei
+    - p194 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents the Group's trade and other payables in EUR'000 (Table 2.5) and d
+    - p195 ['000] — This page presents the Group's operating segment results for the year ended 31 December 2024 in EUR'000, detailing gross revenue of SGD'000 (75,573) a
+    - p196 ['000] — This page presents the Group Performance segment results for SGX REIT, detailing operating income and expenses across Germany, Spain, and France in EU
+    - p204 ['000] — This page presents the Group's basic and diluted earnings per unit for 2024 (€ cents) alongside a detailed table of financial instruments categorized 
+
+## financial
+- **MAIN (lead):**
+    - p21 — This page of the SGX REIT annual report focuses on enhancing credit profile and managing loan maturities, explicitly displaying a main table/artifact 
+    - p22 ['000] — This page presents the **Statement of Total Return** for IREIT for FY 2024 and FY 2023, reporting financial highlights in **€'000**. The table details
+    - p50 — This page presents a Portfolio Overview for the German REIT as of 31 December 2024, featuring a main table displaying key metrics including €528.2m bo
+    - p175 ['000] — This page presents the Consolidated Statement of Total Return and Other Comprehensive Income for the year ended 31 December 2024, reporting Group fina
+    - p179 ['000] — This page presents the Consolidated Statement of Cash Flows for SGX REIT for the year ended 31 December 2024, reporting net cash from operating activi
+    - p200 ['000] — This page presents a table of Group Other Trust Expenses for the year ended 31 December 2024, reporting figures in EUR'000 with a total of €2,036. The
+    - p208 ['000] — This page of the SGX REIT annual report for the year ended 31 December 2024 presents financial derivative data in EUR'000, specifically detailing curr
+    - p209 — This page contains no schema-relevant data, as it discusses financial risk management policies and disclosures rather than presenting the audited Port
+- **also mentions:**
+    - p6 [million] — This page presents key financial highlights for the year ended 31 December 2024, featuring DPU/financial metrics in € millions including €75.6 million
+    - p23 [million] — This page presents IREIT's FY 2024 financial highlights, accounting policies, and geographic revenue composition reported in € million. The main artif
+    - p195 ['000] — This page presents the Group's operating segment results for the year ended 31 December 2024 in EUR'000, detailing gross revenue of SGD'000 (75,573) a
+    - p196 ['000] — This page presents the Group Performance segment results for SGX REIT, detailing operating income and expenses across Germany, Spain, and France in EU
+    - p197 ['000] — This page presents the Group's gross revenue breakdown for 2024 and 2023 in EUR'000, totaling €75,573 million (€64,977 million) with sub-categories in
+    - p198 ['000] — This page presents the Group's Property Operating Expenses and Finance Costs for the year ended 31 December 2024, reporting figures in EUR'000. The pr
+    - p199 ['000] — This page details the Group's management fees for the year ended 31 December 2024, reporting EUR'000 values for base fees of €2,841 and performance fe
+    - p201 ['000] — This page presents the Income Tax Expense/(Benefit) reconciliation for the SGX REIT Group, reporting figures in EUR'000 for the year ended 31 December
+    - p202 ['000] — This page presents the audited Deferred Tax Assets/(Liabilities) table for SGX REIT Group, detailing movements in unutilised tax losses and revaluatio

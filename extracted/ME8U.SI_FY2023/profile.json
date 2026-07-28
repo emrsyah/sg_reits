@@ -1,0 +1,22 @@
+{
+  "symbol": "ME8U.SI",
+  "sub_sector": "Industrial",
+  "income_model": "conventional",
+  "source_page": 207,
+  "management": {
+    "reit_manager": [
+      "Mapletree Industrial Trust Management Ltd."
+    ],
+    "trustee": [
+      "DBS Trustee Limited"
+    ],
+    "property_manager": [
+      "Mapletree Facilities Services Pte. Ltd.",
+      "Mapletree US Management LLC",
+      "Mapletree Management Services Japan Kabushiki Kaisha"
+    ],
+    "sponsor": [
+      "Mapletree Investments Pte Ltd"
+    ]
+  }
+}

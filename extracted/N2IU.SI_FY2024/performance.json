@@ -1,59 +1,66 @@
 {
   "symbol": "N2IU.SI",
   "financial_year": 2024,
-  "portfolio_value": 16499500000,
+  "portfolio_value": 15960000000.0,
   "properties_location": "Singapore; Hong Kong SAR; China; Japan; South Korea",
-  "gross_revenue": 958088000,
-  "net_property_income": 727929000,
-  "net_distributable_income": 468569000,
-  "distribution_paid": 465202000,
+  "gross_revenue": 908841000.0,
+  "net_property_income": 683537000.0,
+  "net_distributable_income": 423022000.0,
+  "distribution_paid": 439609000.0,
   "adjusted_distributable_income": null,
-  "distribution_basis": "full_payout_no_retention_line",
-  "dpu": 8.91,
+  "dpu": 8.02,
   "distribution_record": [
     {
-      "period": "1 Apr 2023 to 30 Jun 2023",
-      "dpu": 2.18,
-      "ex_date": null,
-      "pay_date": null
-    },
-    {
-      "period": "1 Jul 2023 to 30 Sep 2023",
-      "dpu": 2.24,
-      "ex_date": null,
-      "pay_date": null
-    },
-    {
-      "period": "1 Oct 2023 to 31 Dec 2023",
-      "dpu": 2.2,
-      "ex_date": null,
-      "pay_date": null
-    },
-    {
-      "period": "1 Jan 2024 to 31 Mar 2024",
+      "period": "1 Jan 2024 - 31 Mar 2024",
       "dpu": 2.29,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Apr 2024 - 30 Jun 2024",
+      "dpu": 2.09,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Jul 2024 - 30 Sep 2024",
+      "dpu": 1.98,
+      "ex_date": null,
+      "pay_date": null
+    },
+    {
+      "period": "1 Oct 2024 - 31 Dec 2024",
+      "dpu": 2.0,
       "ex_date": null,
       "pay_date": null
     }
   ],
-  "number_of_unitholders": 31597,
-  "number_of_shareholder_units": 5252985000,
-  "aggregate_leverage": 40.5,
-  "interest_coverage_ratio": 2.9,
-  "cost_of_debt": 3.35,
-  "weighted_avg_debt_maturity": 3.0,
-  "nav_per_unit": 1.75,
-  "wale": 2.4,
-  "portfolio_occupancy": 96.1,
-  "dpu_period_months": 12,
+  "number_of_unitholders": 32419,
+  "aggregate_leverage": 37.7,
+  "interest_coverage_ratio": 2.8,
+  "cost_of_debt": 3.51,
+  "weighted_avg_debt_maturity": 3.3,
+  "nav_per_unit": 1.78,
+  "wale": 2.2,
+  "portfolio_occupancy": 89.6,
   "currency": "SGD",
-  "date": "2024-03-31",
-  "source_page": 5,
+  "date": "2025-03-31",
   "flags": [
-    "FYE 31 Mar 2024 (FY23/24). portfolio_value=16,499,500,000 = portfolio property value incl 50% JV (Pinnacle Gangnam); Group audited IP=16,248,855,000. interest_coverage_ratio=2.9 = adjusted-ICR basis (plain ICR 3.0, p216); mirrors FY2025 adjusted basis. NDI=468,569 (amount available for distribution for the year, before retention); distribution_paid=465,202 = Total Unitholders' distribution incl capital (Note B); retention delta=3,367. 4Q FY23/24 (2.29c) declared after balance-sheet date. wale 2.4y by GRI. number_of_unitholders 31,597 as at 31 May 2024.",
-    "round2 note: adjusted-ICR basis retained (2.9); plain ICR 3.0 disclosed p216 (leverage note)."
+    {
+      "type": "dpu_period_basis",
+      "scope": "distribution_record",
+      "note": "FY24/25 DPU 8.02 cents declared as four quarterly distributions covering 1 Jan 2024-31 Mar 2024 (paid in FY24/25) plus the three FY24/25 quarters to 31 Dec 2024; ex/pay dates not tabulated in the report. Sum of the four listed period DPUs = 8.36 cents reflects the calendar-quarter declaration timing, not the FY24/25 8.02-cent headline."
+    },
+    {
+      "type": "distribution_paid_basis",
+      "note": "distribution_paid = S$439,609k cash 'Distributions to Unitholders' during the year, Statement of Movements in Unitholders' Funds (Group), FY2025; period-mixed (cash-paid-in-year basis per user decision, not aligned 1:1 to FY24/25 declared DPU periods); p114"
+    }
   ],
-  "distributable_income_opening": 154745000,
-  "distribution_cash_paid": 465202000,
-  "distributable_income_closing": 158112000
+  "source_page": 5,
+  "distribution_basis": "full_payout_no_retention_line",
+  "number_of_shareholder_units": 5267580000,
+  "dpu_period_months": 12,
+  "distributable_income_opening": 158112000,
+  "distribution_cash_paid": 439609000,
+  "distributable_income_closing": 141525000
 }

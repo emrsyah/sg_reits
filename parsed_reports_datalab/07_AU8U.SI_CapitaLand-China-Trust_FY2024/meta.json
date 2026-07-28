@@ -1,0 +1,14 @@
+{
+  "file": "07_AU8U.SI_CapitaLand-China-Trust_FY2024.pdf",
+  "parser": "datalab:balanced",
+  "pages": 172,
+  "pages_written": 172,
+  "seconds": 47.9,
+  "parse_quality_score": null,
+  "runtime": 37.58522582054138,
+  "cost_breakdown": {
+    "final_cost_cents": 52.0
+  },
+  "checkpoint_id": "checkpoint_Vlu2Sbyng6UMC8x6Up_HXgMFQ6tNvLk_baUTp6h_Hmw",
+  "page_range": null
+}

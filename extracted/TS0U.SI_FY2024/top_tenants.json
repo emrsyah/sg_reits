@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 1,
+    "client_name": "OUE Limited",
+    "industry": "Hospitality & Leisure",
+    "revenue_pct": 26.8,
+    "pct_basis": "gri",
+    "industry_note": "Hotel master lessee (Hilton Singapore Orchard)",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 2,
+    "client_name": "OUE Airport Hotel Pte. Ltd.",
+    "industry": "Hospitality & Leisure",
+    "revenue_pct": 10.3,
+    "pct_basis": "gri",
+    "industry_note": "Hotel master lessee (Crowne Plaza Changi Airport)",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 3,
+    "client_name": "Deloitte & Touche LLP",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 5.0,
+    "pct_basis": "gri",
+    "industry_note": "Accounting",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 4,
+    "client_name": "Luxury Ventures Pte. Ltd.",
+    "industry": "Other Retail Trades",
+    "revenue_pct": 4.3,
+    "pct_basis": "gri",
+    "industry_note": null,
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 5,
+    "client_name": "Merrill Lynch (Singapore) Pte. Ltd.",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 2.2,
+    "pct_basis": "gri",
+    "industry_note": "Banking/finance",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 6,
+    "client_name": "Professional Investment Advisory Services Pte. Ltd.",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.2,
+    "pct_basis": "gri",
+    "industry_note": null,
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 7,
+    "client_name": "Aramco Asia Singapore Pte. Ltd.",
+    "industry": "Energy, Mining & Resources",
+    "revenue_pct": 1.1,
+    "pct_basis": "gri",
+    "industry_note": "Energy & commodities",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 8,
+    "client_name": "Allen & Overy LLP",
+    "industry": "Financial & Professional Services",
+    "revenue_pct": 1.0,
+    "pct_basis": "gri",
+    "industry_note": "Legal",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 9,
+    "client_name": "ITOCHU Singapore Pte. Ltd.",
+    "industry": "Other Office Trades",
+    "revenue_pct": 1.0,
+    "pct_basis": "gri",
+    "industry_note": "Trading house",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "rank": 10,
+    "client_name": "Virgin Active Singapore Pte. Ltd.",
+    "industry": "Healthcare & Wellness",
+    "revenue_pct": 0.9,
+    "pct_basis": "gri",
+    "industry_note": "Fitness/wellness",
+    "source_page": 34
+  }
+]

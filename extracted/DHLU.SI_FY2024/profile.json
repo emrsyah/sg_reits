@@ -1,0 +1,20 @@
+{
+  "symbol": "DHLU.SI",
+  "sub_sector": "Industrial",
+  "management": {
+    "reit_manager": [
+      "Daiwa House Asset Management Asia Pte. Ltd."
+    ],
+    "trustee": [
+      "HSBC Institutional Trust Services (Singapore) Limited"
+    ],
+    "sponsor": [
+      "Daiwa House Industry Co., Ltd."
+    ],
+    "property_manager": [
+      "Daiwa House Property Management Co., Ltd."
+    ]
+  },
+  "income_model": "conventional",
+  "source_page": 59
+}

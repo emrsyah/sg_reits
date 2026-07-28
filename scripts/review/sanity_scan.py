@@ -75,7 +75,9 @@ def scan_report(d):
 
     # ---- profile ----
     if profile:
-        roles = {m.get("role") for m in profile.get("management", [])}
+        mgmt = profile.get("management", [])
+        # schema (models.py) uses dict{role: [names]}; tolerate legacy list[{role,...}]
+        roles = set(mgmt.keys()) if isinstance(mgmt, dict) else {m.get("role") for m in mgmt}
         for needed in ("reit_manager", "trustee", "sponsor"):
             if needed not in roles:
                 warn(f"profile: no '{needed}' in management (almost always disclosed)")

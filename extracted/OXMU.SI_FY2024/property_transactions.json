@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "OXMU.SI",
+    "financial_year": 2024,
+    "transaction_type": "divestment",
+    "status": "completed",
+    "property_name": "One Town Center",
+    "transaction_date": "2024-07-10",
+    "completed_date": "2024-07-10",
+    "sale_price": 82000000,
+    "net_sale_proceeds": 75373000,
+    "carrying_value": null,
+    "gain_on_divestment": -2627000,
+    "gain_basis": "vs_book_value",
+    "valuation": 84800000,
+    "valuation_date": "2023-12-31",
+    "sale_price_currency": "USD",
+    "net_sale_proceeds_currency": "USD",
+    "gain_currency": "USD",
+    "valuation_currency": "USD",
+    "counterparty": "Miles Capital LLC",
+    "currency": "USD",
+    "source_page": 143,
+    "source_type": "annual_report",
+    "net_proceeds_basis": "Net proceeds from disposal of investment property per Consolidated Statement of Cash Flows (p143); loss on disposal of US$2.627m recognised in P&L (p139). Property located in Boca Raton, Florida."
+  }
+]

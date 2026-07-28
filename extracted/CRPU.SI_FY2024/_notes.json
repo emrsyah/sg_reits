@@ -1,0 +1,151 @@
+{
+  "columns_never_fillable": [
+    {
+      "column": "properties.net_property_income",
+      "reason": "EMA model — under the Entrusted Management Agreement the Group receives EMA rental income (fixed + variable) and the Entrusted Manager bears ALL property operating expenses. There is no property-opex line in the audited Statement of Total Return, so a conventional per-property NPI is not disclosed. Per-property EMA rental income IS disclosed (SGD '000) in Note 23 Operating Segments (p198) and is stored as net_property_income = gross_revenue."
+    },
+    {
+      "column": "properties.gross_revenue",
+      "reason": "Per-property revenue is disclosed only as EMA rental income. The audited per-property figure (Note 23 Operating Segments, SGD '000) is used; per-property outlet sales (RMB) is an operational metric, not audited SGD gross revenue, and is kept in the _recovery_note."
+    },
+    {
+      "column": "properties.gla",
+      "reason": "Cards disclose Gross Floor Area (GFA) and Net Lettable Area (NLA), not a separate 'gross lettable area' (GLA). GFA -> gfa, NLA -> nla; gla left null."
+    },
+    {
+      "column": "properties.purchase_price",
+      "reason": "The audited Statement of Portfolio (p163) has only Valuation columns (RMB'000 and S$'000). Per-property 'Acquired value' is disclosed on the property cards in RMB million only (Liangjiang 2,452.0; Bishan 729; Hefei 2,250; Kunming 1,350) and is kept in properties[]._acquired_value_rmb_million; no SGD acquisition cost is disclosed so purchase_price (SGD) left null."
+    }
+  ],
+  "data_with_no_home": [
+    "Total portfolio outlet sales FY2024 = approx RMB 4,482 million (page 24).",
+    "Portfolio EMA rental income FY2024 = RMB 664.1 million (Fixed RMB 461.0m + Variable RMB 203.1m), page 46; = S$124.5m excluding straight-line adjustments; S$123,726k after straight-line adjustment of +726 (Note 13).",
+    "Per-property outlet sales (RMB m) FY2024: Liangjiang 2,423.9; Bishan 377.2; Hefei 1,028.1; Kunming 652.9 (property cards p55-61).",
+    "Number of tenants FY2024: Liangjiang 386; Bishan 201; Hefei 439; Kunming 312; Portfolio >1,300 (cards + p68).",
+    "Portfolio tenant mix by NLA (page 66): Fashion (Domestic) 33.2%, Sports 15.1%, International Brands 13.6%, Anchor Tenants 10.8%, Kid-centric Centres 6.5%, Others 20.8%.",
+    "Leases with turnover rent: ~99% by GR, ~94% by NLA (page 67).",
+    "Investment properties valued using DCF (Note 4); portfolio valuation RMB 8,420.0m (closing rate) -> SGD 1,582,290k.",
+    "Two FX context: portfolio valuation in RMB'000 (closing rate) and SGD'000 (consolidated); income/revenue translated at average rate.",
+    "EPU (basic & diluted) note 17: weighted avg units 1,246,584k. Total units in issue at 31 Dec 2024 = 1,250,771,206; units to be issued (mgmt fees) 4,744,372.",
+    "Interest expense on Sponsor Loan (IPT) = S$2,817k (p201).",
+    "Without the EMA, DPU would be 5.812 Singapore cents for FY2024 (page 46)."
+  ],
+  "parsing_traps": [
+    "Statement of Portfolio (page 163) is DUAL-CURRENCY: RMB'000 and S$'000 side-by-side for the SAME asset — canonical market_valuation = SGD consolidated column (matches audited FS); RMB kept in properties[]._rmb_valuation_000. Do NOT add the two columns.",
+    "ORCHESTRATOR CURRENCY NOTE DISCREPANCY: the task said the REIT reports in CNY/RMB, but the FY2024 audited financial statements (STR, SFP, Cash Flows) are presented in SGD ($'000). Only the Statement of Portfolio valuations and operational metrics (outlet sales, EMA rental income headline) are given in RMB. Financials kept as-reported in SGD (currency='SGD'), matching the FY2025 extraction; no conversion performed.",
+    "EMA REIT: the audited Statement of Total Return (page 159) has NO property operating expense line (all property opex borne by Entrusted Manager). cost_of_revenue=0 and gross_income(NPI)=total_revenue=EMA rental income 123,726. operating_expense below NPI = mgmt fees 8,330 + trustee 319 + other trust expenses 851 = 9,500.",
+    "Top-10 tenants are fully anonymised as 'Tenant 1'..'Tenant 10' (bar chart p69) with no descriptor — captured verbatim in client_name; no single tenant >5% of GR, top 10 = ~16% of GR.",
+    "DPU split across two half-year distributions (3.153c + 2.929c = 6.082c)."
+  ],
+  "reconciliation": {
+    "sum_property_valuation_sgd": 1582290000,
+    "reported_total_investment_properties_sgd": 1582290000,
+    "valuation_reconciles": true,
+    "sum_segment_ema_rental_income_sgd_000": 123726,
+    "line_items_check": "Sum(revenue 123,726) - Sum(expense 34,210) + Sum(adjustment signed: 253 - 2,272 - 113 - 14,164 - 17,162 = -33,458) = 56,058 ('000) = net_income = Total return for the year attributable to Unitholders (p159)",
+    "total_revenue_equals_performance_gross_revenue": true,
+    "npi_equals_gross_income": true,
+    "note": "Portfolio occupancy 98.9% is 4Q 2024 average (p24/64). Per-property committed occupancy from cards. All 4 outlets 100% effectively owned; consolidated SFP/STR show no non-controlling interest."
+  },
+  "inferred": [
+    {
+      "table": "properties",
+      "field": "lease_expiry_date",
+      "scope": "all 4 properties",
+      "value": "year-end of disclosed land-use-right expiry year",
+      "basis": "report discloses only the expiry YEAR (2047/2051/2053/2054) of land use right; set to YYYY-12-31",
+      "source_page": 163
+    },
+    {
+      "table": "properties",
+      "field": "npi_pct",
+      "scope": "all 4 properties",
+      "value": "segment EMA rental income / portfolio total 123,726",
+      "basis": "computed from Note 23 segment EMA rental income vs portfolio total; not disclosed as a percentage",
+      "source_page": 198
+    },
+    {
+      "table": "top_tenants",
+      "field": "industry",
+      "scope": "all rows",
+      "value": "Other Retail Trades",
+      "basis": "tenants are anonymised ('Tenant 1'..'Tenant 10'); outlet-mall retail brands -> canonical Other Retail Trades",
+      "source_page": 69
+    },
+    {
+      "table": "trade_mix",
+      "field": "category",
+      "scope": "all rows",
+      "value": "Other Retail Trades",
+      "basis": "outlet-mall trade categories (Fashion, Sports, International Brands, Children's Wear, Shoes & Leather) all map to retail sub-trades -> Other Retail Trades",
+      "source_page": 66
+    },
+    {
+      "table": "financial",
+      "field": "depreciation",
+      "scope": "income_stmt_metrics",
+      "value": 14164000,
+      "basis": "LOCKED §6: depreciation = P&E depreciation (0; no depreciation add-back in C/F operating) + net FV change of investment properties (C/F operating add-back +14,164). C/F p162.",
+      "source_page": 162
+    },
+    {
+      "table": "financial",
+      "field": "free_cash_flow",
+      "scope": "cash_flow_metrics",
+      "value": 114121000,
+      "basis": "operating_cash_flow 114,493 - capital_expenditure 372 (IP capex only); not disclosed as a line. Investing total -865 also includes P&E addition -493 (not IP capex).",
+      "source_page": 162
+    }
+  ],
+  "data_provenance": [
+    {
+      "table": "financial",
+      "field": "weighted_avg_shares_basic",
+      "value": 1246584000,
+      "basis": "Note 17 Earnings per Unit: 'Weighted average number of Units' = 1,246,584 ('000); multiplied to absolute units. Basic and diluted are the same (no dilutive instruments).",
+      "source_page": 197
+    },
+    {
+      "table": "financial",
+      "field": "capital_expenditure",
+      "value": 372000,
+      "basis": "LOCKED §6 atom (4): IP-capex components in C/F investing = 'Capital expenditure on investment properties' 372. 'Addition of plant and equipment' 493 is NOT investment property and is excluded from capex. Investing_cash_flow total -865 = -372 -493.",
+      "source_page": 162
+    },
+    {
+      "table": "financial",
+      "field": "interest_expense_non_operating",
+      "value": 24710000,
+      "basis": "LOCKED §6: gross finance costs note total (Note 15) = 24,710; not netted against finance income 253.",
+      "source_page": 197
+    },
+    {
+      "table": "financial",
+      "field": "net_property_sales",
+      "value": 0,
+      "basis": "No disposal of investment property, subsidiary or JV/associate in FY2024; no divestment gain in the Statement of Total Return.",
+      "source_page": 159
+    },
+    {
+      "table": "performance",
+      "field": "net_distributable_income",
+      "value": 83297000,
+      "basis": "Income available for distribution to Unitholders BEFORE retention = 83,297 ('000) = total return 56,058 + distribution adjustments 27,239 (Consolidated Distribution Statement p160). Headline 'Income Available for Distribution to Unitholders' 83,297 (p18).",
+      "source_page": 160
+    },
+    {
+      "table": "performance",
+      "field": "distribution_paid",
+      "value": 75911000,
+      "basis": "Consolidated Distribution Statement p160: 'Total distribution to Unitholders' = (75,911) ('000) = two FY2024 half-year distributions 3.153c (39,276) + 2.929c (36,635); ties to DPU 6.082c. Headline 'Amount to be Distributed to Unitholders' 75,912 (rounding).",
+      "source_page": 160
+    }
+  ],
+  "fx_rates": [
+    {
+      "pair": "RMB/SGD",
+      "note": "Portfolio valuation RMB 8,420.0m -> SGD 1,582,290k (closing rate). Average rate used for income translation. Explicit numeric rates not tabulated in parsed text.",
+      "source_page": 163
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 1,
+  "client_name": "Matahari Department Store",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 5.0,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 2,
+  "client_name": "Hypermart",
+  "industry": "Departmental Store/Supermarket",
+  "revenue_pct": 1.9,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 3,
+  "client_name": "Timezone",
+  "industry": "Hospitality & Leisure",
+  "revenue_pct": 1.2,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 4,
+  "client_name": "Uniqlo",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 0.7,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 5,
+  "client_name": "Cinepolis",
+  "industry": "Hospitality & Leisure",
+  "revenue_pct": 0.7,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 6,
+  "client_name": "Sogo",
+  "industry": "Departmental Store/Supermarket",
+  "revenue_pct": 0.6,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 7,
+  "client_name": "Ace Hardware",
+  "industry": "Other Retail Trades",
+  "revenue_pct": 0.5,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 8,
+  "client_name": "Solaria",
+  "industry": "Food & Beverages",
+  "revenue_pct": 0.5,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 9,
+  "client_name": "Sport Station",
+  "industry": "Fashion & Accessories",
+  "revenue_pct": 0.5,
+  "pct_basis": "gri",
+  "source_page": 28
+ },
+ {
+  "symbol": "D5IU.SI",
+  "financial_year": 2024,
+  "rank": 10,
+  "client_name": "Mr. DIY",
+  "industry": "Other Retail Trades",
+  "revenue_pct": 0.4,
+  "pct_basis": "gri",
+  "source_page": 28
+ }
+]

@@ -1,0 +1,37 @@
+{
+  "columns_never_fillable": [
+    {"column": "properties.market_valuation / nla (properties 11-149)", "reason": "Elite UK REIT holds 149 UK Government-leased commercial properties but discloses per-property valuation/NIA only for the TOP 10 by valuation (p34-37). The remaining ~139 properties are NOT itemised anywhere in the AR, and Note 27 Segment Information (p167) states no segment breakdown is presented (all assets are UK commercial). Only the top 10 property rows are captured; portfolio totals live in performance/financial. Not a parsing miss."},
+    {"column": "properties.occupancy_rate", "reason": "Occupancy disclosed only at portfolio level (93.9%, p26); not disclosed per property."},
+    {"column": "properties.gross_revenue", "reason": "Per-property audited FY gross revenue is NOT disclosed. The top-10 property cards (p34-37) disclose only an 'Annualised Gross Rental Income' snapshot (a forward annualised GRI figure, different basis from the audited FY revenue, and for 10/149 assets only), so it cannot be reconciled to the audited group gross revenue GBP 39,076k and is intentionally NOT stored in properties.gross_revenue. The disclosed annualised-GRI figures are preserved in data_with_no_home."},
+    {"column": "properties.net_property_income", "reason": "Per-property NPI not disclosed; the AR gives only portfolio NPI (audited SCI, p139)."}
+  ],
+  "data_with_no_home": [
+    "Net Internal Area of full portfolio: 3.7m sq ft (p26).",
+    "Top-10 property Annualised Gross Rental Income (p34-37, GBP): Peel Park Blackpool 2.0m; Glasgow Benefits Centre 2.2m; Crown House Romford 0.6m; Spring Gardens House Swindon 0.7m; Tomlinson House Blackpool 0.9m; Great Western House Birkenhead 0.8m; Broadway House Ealing 0.5m; Great Oak House Basildon 0.7m; Raydean House Barnet 0.4m; Nutwood House Canterbury 0.6m. (Annualised GRI snapshot, not audited FY per-property revenue.)",
+    "Portfolio by region (NIA / Valuation / GRI donut, p26): e.g. by Valuation North West 24%, Scotland 17%, London 15%, South East 11%, South West 8%, Midlands 7%, Wales 7%, East 6%, Yorkshire&Humber 3%, North East 3%.",
+    "144 freehold + 5 leasehold properties = 149 (Note 4, p153); 97% freehold by count (p27). All located across England, Scotland and Wales, leased mainly to UK Government via DWP.",
+    "Lease expiry profile (p26 fn3): 1.1% expire 2025, none 2026/2027, 96.9% in 2028, 0.75% in 2029.",
+    "Fixed-rate debt 86% (p5); Debt Headroom GBP 64.7m (Property Funds Appendix GBP 57.7m); all-in interest cost 4.9% (p23).",
+    "Manager headcount: 6 employees (p ESG, all permanent full-time) — externally-managed trust.",
+    "Distribution payout ratio raised from 90% to 95% for 2H FY2024 (p13); Distribution Yield 9.7%, Total Return 17.1% (p5)."
+  ],
+  "parsing_traps": [
+    "December FY-end: financial_year=2024 = year ended 31 December 2024. Reporting currency is GBP (Pound sterling) throughout — NOT converted to SGD (FX happens downstream).",
+    "Headline 'Revenue GBP 37.5m' and 'NPI GBP 37.4m' (p5) EXCLUDE straight-line rent adjustments and are NOT the audited figures. The audited Consolidated Statement of Comprehensive Income (p139) shows Revenue 36,472 + Other property income 2,604 = gross revenue 39,076 (000), NPI 36,342 (000). Extraction uses the audited figures for total_revenue / gross_income so the reconciliation self-check ties.",
+    "Note 25 'Amount available for distribution' (p166): the for-year distributable income BEFORE retention (B) = 18,454 (000) = profit 20,495 + distribution adjustments (2,041); the cumulative 'Amount available' 24,953 folds in opening carry-forward 7,881 (A) and less retention 1,382. distribution_pool_other_movements = -1,382 (retention). Guard A + B + other - P = 7,881 + 18,454 - 1,382 - 16,017 = 8,936 = E (closing). Holds exactly.",
+    "Net finance costs in the P&L is 11,789 (finance income 1,338 less finance costs 13,127). Per §6 LOCKED, interest_expense_non_operating = GROSS finance costs = 13,127 (not netted).",
+    "net_property_sales = 321 (Gain on divestment of INVESTMENT PROPERTIES per p139) — an investment-property disposal gain, correctly included. No subsidiary/JV-stake disposal gains this year."
+  ],
+  "reconciliation": {
+    "income_line_items_reconcile": "Sigma(revenue 39,076 - expense 6,998 + signed adjustments -11,583) = 20,495 (000) = net_income (Profit for the year). Pretax 23,052 - tax 2,557 = 20,495.",
+    "total_revenue_vs_performance_gross_revenue": "39,076,000 = 39,076,000 (tie).",
+    "net_property_income_vs_gross_income": "36,342,000 = 36,342,000 (tie).",
+    "cashflow_atoms": {"pe_depreciation": 0, "net_fv_change_ip_cf_sign": -2442000, "gross_finance_costs": 13127000, "ip_capex_investing": 3668000},
+    "derived": {"ebit": 32078000, "depreciation": -2442000, "ebitda": 33737000, "funds_from_operation": 17732000, "capital_expenditure": 3668000},
+    "portfolio_note": "Portfolio value GBP 416.2m (149 properties, CBRE independent valuation, p5/p13). Audited Investment properties carrying value 412,791 (000) = fair value per valuation reports 416,220 less reclassification to assets held for sale 4,650 add lease liabilities 1,221 (Note 4, p152). Top-10 property rows captured (Sigma of their valuations = 114.2m; the remaining 139 not individually disclosed)."
+  },
+  "inferred": [
+    {"table": "performance", "field": "distribution_record[1].dpu", "value": 1.47, "basis": "2H2024 DPU = full-year after-retention DPU 2.87 pence (p13) minus disclosed 1H2024 DPU 1.40 pence (p10). 2H declared after FY-end.", "source_page": 13},
+    {"table": "performance", "field": "distribution_paid", "value": 17072000, "basis": "for-the-year distribution after retention = net_distributable_income 18,454 minus retention 1,382 (Note 25, p166).", "source_page": 166}
+  ]
+}

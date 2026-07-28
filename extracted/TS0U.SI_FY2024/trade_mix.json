@@ -1,0 +1,128 @@
+[
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Hospitality & Leisure",
+    "category_raw": "Hospitality",
+    "pct": 35.9,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Banking, Insurance & Financial Services",
+    "pct": 15.7,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Accounting & Consultancy Services",
+    "pct": 9.6,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Retail",
+    "pct": 8.7,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Food & Beverages",
+    "category_raw": "Food & Beverage",
+    "pct": 4.7,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing & Distribution",
+    "pct": 4.4,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "IT, Media & Telecommunications",
+    "pct": 4.3,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Energy & Commodities",
+    "pct": 3.7,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Services",
+    "pct": 3.1,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Legal",
+    "pct": 2.8,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Logistics & Supply Chain Management",
+    "category_raw": "Maritime & Logistics",
+    "pct": 2.7,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate & Property Services",
+    "pct": 1.9,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 1.6,
+    "pct_basis": "gri",
+    "source_page": 34
+  },
+  {
+    "symbol": "TS0U.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Pharmaceuticals & Healthcare",
+    "pct": 0.9,
+    "pct_basis": "gri",
+    "source_page": 34
+  }
+]

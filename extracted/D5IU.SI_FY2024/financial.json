@@ -1,0 +1,204 @@
+{
+ "symbol": "D5IU.SI",
+ "financial_year": 2024,
+ "currency": "SGD",
+ "source_page": 82,
+ "income_stmt_metrics": {
+  "total_revenue": 194559000,
+  "cost_of_revenue": 78896000,
+  "gross_income": 115663000,
+  "operating_expense": 13403000,
+  "operating_income": 102260000,
+  "ebit": 102260000.0,
+  "ebitda": 38569000.0,
+  "pretax_income": -11043000,
+  "income_taxes": 25336000,
+  "net_income": -36379000,
+  "non_operating_income_or_loss": -113303000,
+  "interest_expense_non_operating": 77109000.0,
+  "diluted_shares_outstanding": 7696809979,
+  "weighted_avg_shares_basic": 7696809979,
+  "net_property_sales": 0,
+  "funds_from_operation": -63876000.0,
+  "unitholders": -36379000,
+  "perpetual_security_holders": 0.0,
+  "minorities": null,
+  "depreciation": -27497000,
+  "_derived": [
+   "capital_expenditure",
+   "depreciation",
+   "ebit",
+   "ebitda",
+   "funds_from_operation",
+   "interest_expense_non_operating",
+   "non_operating_income_or_loss",
+   "operating_expense",
+   "operating_income"
+  ],
+  "revenue_breakdown": [
+   {
+    "category": "Rental revenue",
+    "amount": 108178000,
+    "class": "Product/Service Sales"
+   },
+   {
+    "category": "Car park revenue",
+    "amount": 6566000,
+    "class": "Product/Service Sales"
+   },
+   {
+    "category": "Service charge and utilities recovery",
+    "amount": 78644000,
+    "class": "Product/Service Sales"
+   },
+   {
+    "category": "Other rental income",
+    "amount": 1171000,
+    "class": "Product/Service Sales"
+   }
+  ],
+  "operating_expense_breakdown": [
+   {
+    "category": "Manager's management fees (base + performance + authorised inv.)",
+    "amount": 8677000,
+    "class": "General & Admin"
+   },
+   {
+    "category": "Trustee's fees",
+    "amount": 405000,
+    "class": "General & Admin"
+   },
+   {
+    "category": "Other expenses",
+    "amount": 4321000,
+    "class": "General & Admin"
+   }
+  ]
+ },
+ "balance_sheet_metrics": {
+  "total_asset": 1641937000,
+  "total_equity": 699987000,
+  "total_liabilities": 941950000,
+  "working_capital": -78200000,
+  "total_current_asset": 76070000,
+  "total_non_current_asset": 1565867000,
+  "total_current_liabilities": 154270000,
+  "total_non_current_liabilities": 787680000
+ },
+ "cash_flow_metrics": {
+  "operating_cash_flow": 86935000,
+  "investing_cash_flow": -21813000,
+  "financing_cash_flow": -73686000,
+  "net_cash_flow": -8564000,
+  "free_cash_flow": 64263000.0,
+  "capital_expenditure": 22672000.0
+ },
+ "employee_breakdown": null,
+ "line_items": [
+  {
+   "statement": "revenue",
+   "component": "gross_revenue",
+   "amount": 194559000,
+   "label_raw": "Gross revenue",
+   "source_page": 82
+  },
+  {
+   "statement": "expense",
+   "component": "property_operating_expenses",
+   "amount": 78896000,
+   "label_raw": "Property operating expenses",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "interest_income",
+   "amount": 1267000,
+   "label_raw": "Interest income",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "other_losses_income",
+   "amount": -1523000,
+   "label_raw": "Other (losses)/income (loss on repurchase of Guaranteed Senior Notes)",
+   "source_page": 82
+  },
+  {
+   "statement": "expense",
+   "component": "management_fee",
+   "amount": 8677000,
+   "label_raw": "Manager's management fees",
+   "source_page": 82
+  },
+  {
+   "statement": "expense",
+   "component": "trustee_fee",
+   "amount": 405000,
+   "label_raw": "Trustee's fees",
+   "source_page": 82
+  },
+  {
+   "statement": "expense",
+   "component": "finance_costs",
+   "amount": 77109000,
+   "label_raw": "Finance costs",
+   "source_page": 82
+  },
+  {
+   "statement": "expense",
+   "component": "other_trust_expenses",
+   "amount": 4321000,
+   "label_raw": "Other expenses",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "fair_value_investment_properties",
+   "amount": 29823000,
+   "label_raw": "Increase/(Decrease) in fair value of investment properties",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "realised_loss_derivatives",
+   "amount": -736000,
+   "label_raw": "Realised (losses)/gains on derivative financial instruments",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "fair_value_derivatives",
+   "amount": 27341000,
+   "label_raw": "Increase in fair value of derivative financial instruments",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "realised_fx_loss",
+   "amount": -83420000,
+   "label_raw": "Realised foreign exchange losses",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "unrealised_fx_loss",
+   "amount": -3777000,
+   "label_raw": "Unrealised foreign exchange (losses)/gains",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "amortisation_intangibles",
+   "amount": -5169000,
+   "label_raw": "Amortisation of intangible assets",
+   "source_page": 82
+  },
+  {
+   "statement": "adjustment",
+   "component": "income_tax_expense",
+   "amount": -25336000,
+   "label_raw": "Income tax expense",
+   "source_page": 82
+  }
+ ]
+}

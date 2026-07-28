@@ -1,0 +1,85 @@
+[
+  {
+    "transaction_type": "acquisition",
+    "status": "completed",
+    "property_name": "Tokyo Data Centre 1 (Tokyo DC 1)",
+    "transaction_date": "2024-07-01",
+    "completed_date": "2024-07-01",
+    "purchase_price": 194200000,
+    "purchase_price_currency": "SGD",
+    "interest_pct": 98.47,
+    "currency": "SGD",
+    "source_page": 112,
+    "raw": {
+      "note": "Acquisition of 98.47% effective interest in Tokyo DC 1, West Tokyo, Japan, completed July 2024.",
+      "purchase_price_local": 23042000000,
+      "purchase_price_local_currency": "JPY"
+    }
+  },
+  {
+    "transaction_type": "acquisition",
+    "status": "completed",
+    "property_name": "Keppel DC Singapore 7 and 8 (KDC SGP 7 & 8)",
+    "transaction_date": "2024-12-01",
+    "completed_date": "2024-12-01",
+    "valuation": 1030000000,
+    "interest_pct": 99.49,
+    "currency": "SGD",
+    "source_page": 112,
+    "raw": {
+      "note": "Completed acquisition of 99.49% economic interest in Memphis 1 Pte. Ltd. (holds KDC SGP 7 & 8), Dec 2024. Agreed aggregate property value S$1,030.0m (S$1,380.0m with land tenure lease extension)."
+    }
+  },
+  {
+    "transaction_type": "divestment",
+    "status": "completed",
+    "property_name": "Intellicentre Campus (IC DC)",
+    "transaction_date": "2024-06-01",
+    "completed_date": "2024-06-01",
+    "sale_price": 174000000,
+    "sale_price_currency": "AUD",
+    "valuation": 128500000,
+    "valuation_currency": "AUD",
+    "valuation_date": "2023-12-31",
+    "gain_on_divestment": 31611000,
+    "gain_currency": "SGD",
+    "gain_basis": "vs_book_value",
+    "counterparty": "Macquarie Data Centres Macquarie Park Property SubTrust Pty Ltd",
+    "currency": "AUD",
+    "source_page": 112,
+    "raw": {
+      "note": "Divestment completed June 2024, A$174.0m. A$90.0m reinvested into Australia DC Note. Accounting gain S$31,611k; gain net of withholding tax S$17,028k (distribution statement)."
+    }
+  },
+  {
+    "transaction_type": "announced_divestment",
+    "status": "announced",
+    "property_name": "Basis Bay Data Centre (Basis Bay DC)",
+    "announced_date": "2025-01-02",
+    "transaction_date": "2025-01-02",
+    "valuation": 16300000,
+    "valuation_currency": "SGD",
+    "valuation_date": "2024-12-01",
+    "currency": "SGD",
+    "source_page": 44,
+    "source_type": "annual_report",
+    "raw": {
+      "note": "Divestment announced 2 Jan 2025; completion expected 3Q 2025 (subsequent event). Valuation S$16.3m / RM53.7m."
+    }
+  },
+  {
+    "transaction_type": "announced_divestment",
+    "status": "announced",
+    "property_name": "Kelsterbach Data Centre (Kelsterbach DC)",
+    "announced_date": "2025-02-17",
+    "transaction_date": "2025-02-17",
+    "valuation": 55000000,
+    "valuation_currency": "SGD",
+    "currency": "SGD",
+    "source_page": 44,
+    "source_type": "annual_report",
+    "raw": {
+      "note": "Divestment announced 17 Feb 2025; completion expected 1H 2025 (subsequent event). Valuation S$55.0m / EUR39.0m."
+    }
+  }
+]

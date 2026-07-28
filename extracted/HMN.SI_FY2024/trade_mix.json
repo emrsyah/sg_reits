@@ -1,0 +1,101 @@
+[
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Other Industrial Trades",
+    "category_raw": "Industrial",
+    "pct": 25.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Government Related",
+    "category_raw": "Government & Non-governmental Organisations (NGOs)",
+    "pct": 15.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Financial & Professional Services",
+    "category_raw": "Financial Institutions",
+    "pct": 12.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Other Retail Trades",
+    "category_raw": "Consumers",
+    "pct": 11.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Manufacturing",
+    "category_raw": "Manufacturing",
+    "pct": 9.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Media & Telecommunications",
+    "pct": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "IT & Telecommunications",
+    "category_raw": "Information Technology",
+    "pct": 6.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Energy, Mining & Resources",
+    "category_raw": "Energy & Utilities",
+    "pct": 5.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Other Office Trades",
+    "category_raw": "Others",
+    "pct": 4.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Infrastructure, Real Estate & Property Services",
+    "category_raw": "Real Estate / Lodging",
+    "pct": 4.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  },
+  {
+    "symbol": "HMN.SI",
+    "financial_year": 2024,
+    "category": "Healthcare & Wellness",
+    "category_raw": "Healthcare",
+    "pct": 3.0,
+    "pct_basis": "rental_income (corporate accounts of properties under Ascott management contracts only)",
+    "source_page": 27
+  }
+]
