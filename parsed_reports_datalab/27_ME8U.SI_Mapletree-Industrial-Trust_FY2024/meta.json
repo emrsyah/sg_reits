@@ -1,16 +1,16 @@
 {
-  "file": "27_ME8U.SI_Mapletree-Industrial-Trust_FY2025.pdf",
+  "file": "27_ME8U.SI_Mapletree-Industrial-Trust_FY2026.pdf",
   "parser": "datalab:balanced",
-  "pages": 212,
-  "pages_written": 212,
-  "seconds": 35.6,
+  "pages": 201,
+  "pages_written": 201,
+  "seconds": 226.3,
   "parse_quality_score": null,
-  "runtime": 28.876917123794556,
+  "runtime": 218.70739364624023,
   "cost_breakdown": {
-    "list_cost_cents": 85,
-    "final_cost_cents": 85,
+    "list_cost_cents": 81,
+    "final_cost_cents": 81,
     "regional_multiplier": 1.0
   },
-  "checkpoint_id": "checkpoint_Q5uSvHqaiQbu6iuJzR_Yo_XkA3QNp-nmMwGHDLfSa7o",
+  "checkpoint_id": "checkpoint_dPJpy316pQ2eQJHYh-gRLsN5EQPWAj_9gQ1K-hpBy5c",
   "page_range": null
 }
