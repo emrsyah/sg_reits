@@ -57,6 +57,10 @@ PAIRS = [  # (dev_final, prod, scope_cols)
 FRACTION_FIELDS = {"occupancy_rate", "ownership", "revenue_pct", "pct", "interest_pct"}
 # text "A, B, C" / "A; B; C" -> prod's bracketed text "[A, B, C]" (NOT a real array)
 BRACKET_TEXT_FIELDS = {"properties_location"}
+# prod column name -> dev *_final column name (where they differ).
+# Coordinates: dev uses coordinate_* ; prod uses bare latitude/longitude.
+# (dev-only coordinate_source has no prod column and is dropped automatically.)
+COLUMN_ALIAS = {"latitude": "coordinate_latitude", "longitude": "coordinate_longitude"}
 
 
 def parse_args():
@@ -204,7 +208,8 @@ def dev_read(cur, final_table, symbols_si, fy):
 def transform_row(row, prod_types):
     out = {}
     for col, ptype in prod_types.items():
-        out[col] = coerce(col, ptype, row.get(col))
+        src = COLUMN_ALIAS.get(col, col)      # prod name -> dev *_final name
+        out[col] = coerce(col, ptype, row.get(src))
     return out
 
 
@@ -279,7 +284,9 @@ def main():
         print(f"\n### {final_table} -> {prod_table}")
         print(f"    dev rows selected: {len(rows)}   scopes: {len(scopes)}   "
               f"(prod cols sent: {len(prod_types)})")
-        dropped = [c for c in (rows[0].keys() if rows else []) if c not in prod_types]
+        _mapped = set(COLUMN_ALIAS.values())
+        dropped = [c for c in (rows[0].keys() if rows else [])
+                   if c not in prod_types and c not in _mapped]
         if dropped:
             print(f"    dev-only cols DROPPED: {sorted(dropped)}")
         nulled = _DATE_DROPS[_dstart:]

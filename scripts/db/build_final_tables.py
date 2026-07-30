@@ -74,11 +74,18 @@ def load(name, cols, rows):
                    rows, template=tmpl)
 
 # ===== profile_final =====
-cur.execute('select symbol,sub_sector,management from sgx_reit_profile')
-prows = [(s, ss, Json(m) if m is not None else None) for s,ss,m in cur.fetchall()]
+def strip_board_prov(board):
+    """RAW board = [{name, position, source_page}]. _final/prod keep only name+position."""
+    if not isinstance(board, list): return board
+    return [{k: v for k, v in d.items() if k != 'source_page'} if isinstance(d, dict) else d
+            for d in board]
+cur.execute('select symbol,sub_sector,management,board from sgx_reit_profile')
+prows = [(s, ss, Json(m) if m is not None else None,
+          Json(strip_board_prov(b)) if b is not None else None)
+         for s,ss,m,b in cur.fetchall()]
 ddl_drop_create('sgx_reit_profile_final',
-  'symbol text primary key, sub_sector text, management jsonb')
-load('sgx_reit_profile_final', ['symbol','sub_sector','management'], prows)
+  'symbol text primary key, sub_sector text, management jsonb, board jsonb')
+load('sgx_reit_profile_final', ['symbol','sub_sector','management','board'], prows)
 
 # ===== performance_final =====
 PERF_MONEY = ['portfolio_value','gross_revenue','net_property_income','net_distributable_income',
@@ -142,10 +149,12 @@ load('sgx_reit_financial_final', ['symbol','financial_year','income_stmt_metrics
 cur.execute("""select symbol,financial_year,property_name,country,category,address,ownership,
  market_valuation,purchase_price,valuation_date,net_property_income,net_property_income_currency,
  gross_revenue,gross_revenue_currency,occupancy_rate,gla,nla,gfa,area_unit,land_tenure,effective_date,
- lease_term_years,lease_expiry_date,status,purchase_date from sgx_reit_property""")
+ lease_term_years,lease_expiry_date,status,purchase_date,
+ coordinate_latitude,coordinate_longitude,coordinate_source from sgx_reit_property""")
 prows=[]
 for r in cur.fetchall():
-    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,gla,nla,gfa,au,lt,eff,lty,lexp,st,pdate)=r
+    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,gla,nla,gfa,au,lt,eff,lty,lexp,st,pdate,
+     clat,clng,csrc)=r
     d=fy_end(sym,fy)
     # Rule A: mv, pp already SGD. Rule B: gross/npi in-tag.
     def area(v):
@@ -155,17 +164,21 @@ for r in cur.fetchall():
       float(mv) if mv is not None else None, float(pp) if pp is not None else None, vdate,
       to_sgd(npi,npic,d,f'prop.npi.{sym}:{pn}'), to_sgd(gr,grc,d,f'prop.gr.{sym}:{pn}'),
       float(occ) if occ is not None else None, area(gla), area(nla), area(gfa),
-      lt, eff, float(lty) if lty is not None else None, lexp, st, pdate))
+      lt, eff, float(lty) if lty is not None else None, lexp, st, pdate,
+      # coordinates: pass-through (not currency/percent, no transform)
+      float(clat) if clat is not None else None, float(clng) if clng is not None else None, csrc))
 ddl_drop_create('sgx_reit_property_final',
   'symbol text, financial_year smallint, property_name text, country text, category text, address text, '
   'ownership numeric, market_valuation numeric, purchase_price numeric, valuation_date date, '
   'net_property_income numeric, gross_revenue numeric, occupancy_rate numeric, gross_lettable_area numeric, '
   'net_lettable_area numeric, gross_floor_area numeric, land_tenure text, effective_date text, '
-  'lease_term_years numeric, lease_expiry_date text, status text, purchase_date text')
+  'lease_term_years numeric, lease_expiry_date text, status text, purchase_date text, '
+  'coordinate_latitude double precision, coordinate_longitude double precision, coordinate_source text')
 load('sgx_reit_property_final', ['symbol','financial_year','property_name','country','category','address','ownership',
  'market_valuation','purchase_price','valuation_date','net_property_income','gross_revenue','occupancy_rate',
  'gross_lettable_area','net_lettable_area','gross_floor_area','land_tenure','effective_date','lease_term_years',
- 'lease_expiry_date','status','purchase_date'], prows)
+ 'lease_expiry_date','status','purchase_date',
+ 'coordinate_latitude','coordinate_longitude','coordinate_source'], prows)
 
 # ===== top_tenant_final / trade_mix_final =====
 cur.execute('select symbol,financial_year,rank,client_name,industry,revenue_pct,pct_basis from sgx_reit_top_tenant')
