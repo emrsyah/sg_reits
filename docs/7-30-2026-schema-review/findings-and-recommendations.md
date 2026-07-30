@@ -559,3 +559,51 @@ convention change**, so it needs Evelyn's and Calvin's agreement, not a unilater
     NAV S$0.049) — currently indistinguishable from bad data.
 22. Basis caveats — MXNU's WALE 7.2y is the post-lease-regear pro forma (pre-regear 2.4y).
 23. ICR must render as `×`, never `%`.
+
+---
+
+# Conclusions — agreed decisions
+
+Filled in as we work through the tables one by one. Only settled decisions go here; anything still
+under discussion stays in the sections above.
+
+Status: `AGREED` decided, not yet applied · `APPLIED` in dev + promoted to prod · `OPEN` still to decide
+
+## sgx_reit_profile — 2026-07-30
+
+| # | decision | status |
+|---|---|---|
+| P0.1 | No changes. Table is clean (4 columns, 37 rows, no nulls). | AGREED |
+
+## sgx_reit_property — 2026-07-30
+
+| # | decision | status |
+|---|---|---|
+| PR.1 | **Drop `gross_lettable_area`.** Move its 9 values into `net_lettable_area` first (all 9 rows currently have NLA and GFA null, so nothing is overwritten). NLA 2,397 → 2,406; GFA unchanged. | AGREED |
+| PR.2 | **No per-row note for the 2 P40U rows.** David Jones Building (24,071) and Plaza Arcade (3,431) are GLA-basis in Starhill's AR and move into `net_lettable_area` as-is. The slight overstatement is accepted; not flagged, not annotated. | AGREED |
+| PR.3 | **Keep `net_lettable_area` and `gross_floor_area`.** They measure different things and legitimately coexist (921 rows carry both). | AGREED |
+| PR.4 | **Re-run extraction for `gross_floor_area` and `net_lettable_area`** to catch extractor misses. 686 rows (20%) currently have no area at all, and NLA/GFA fill is 70.1% / 36.5% — some of that is genuine non-disclosure, some is missed. | AGREED |
+| PR.5 | **Drop `effective_date`** — 16.0% filled on leasehold rows, and semantically overloaded (means lease commencement on some rows, the REIT's acquisition date on others). | AGREED |
+| PR.6 | **Derive `lease_expiry_date` before dropping**, for every row that has `effective_date` + `lease_term_years`: `expiry = effective_date + lease_term_years`. 144 of the 145 effective-only rows qualify. Expiry coverage 691 → ~835 (45% → 57% of leasehold rows). | AGREED |
+| PR.7 | **Keep `lease_term_years` and `lease_expiry_date`.** `lease_term_years` is the best-populated of the three (89.4% of leasehold rows); `lease_expiry_date` is the decision-relevant one. | AGREED |
+
+### Notes carried forward from this table
+
+- **The 1 row that loses its only date** under PR.5/PR.6: DHLU "DPL Gunma Fujioka"
+  (`effective_date` 2025-03-24, `lease_term_years` NULL, tenure **Freehold**). A freehold asset
+  should not have had an `effective_date`; no action needed beyond letting it go null.
+- **PR.6 needs a spot-check before the values are trusted.** 126 of the 144 derived rows are M44U.
+  The derivation is unsafe for composite multi-lease assets — verified on TS0U One Raffles Place,
+  where `effective_date` (Tower 1, 1985-11-01), `lease_term_years` (Tower 1, **841** — genuinely
+  841 years per the AR) and `lease_expiry_date` (Tower 2's 99-year lease from 1983 → 2082-05-25)
+  each come from a **different lease within the same property**. `effective + term` there gives the
+  year 2826. ORP already has an expiry so it is outside the 144, but the same shape could exist
+  inside it.
+
+### Still open on this table
+
+| # | item | status |
+|---|---|---|
+| PR.8 | Convert `lease_expiry_date` and `purchase_date` from `text` to `date`. All values are clean ISO `YYYY-MM-DD` with 0 unparseable (691 / 2,079), but these were deliberately changed `date` → `text` in July — needs Evelyn's confirmation that the original reason no longer applies. | OPEN |
+| PR.9 | 28 **Freehold** rows carry a `lease_expiry_date` and 25 carry a `lease_term_years`. Either head-lease / building-lease structures (legitimate, needs a flag) or mis-tagged tenure. | OPEN |
+| PR.10 | 24 **Leasehold** rows have none of the three lease fields — no term, no expiry, no start. | OPEN |

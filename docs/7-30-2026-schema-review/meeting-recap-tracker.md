@@ -3,7 +3,9 @@
 **Source:** meeting recap, 2026-07-30. Items are stated as raised in the meeting.
 **Scope:** prod data.
 
-Status: `[ ]` open · `[x]` done · `[~]` in progress · `[?]` needs decision
+Status: `[ ]` open · `[x]` done · `[~]` decided, not yet applied · `[?]` needs decision
+
+Decisions are recorded in `findings-and-recommendations.md` § Conclusions.
 
 ---
 
@@ -15,8 +17,8 @@ Status: `[ ]` open · `[x]` done · `[~]` in progress · `[?]` needs decision
 
 ## sgx_reit_property
 
-- [ ] `gross_lettable_area`, `net_lettable_area`, `gross_floor_area`: how many of these are null in each.
-- [ ] `effective_date`, `lease_term_years`, `lease_expiry_date`: drop either effective or expiry date.
+- [~] `gross_lettable_area`, `net_lettable_area`, `gross_floor_area`: how many of these are null in each.
+- [~] `effective_date`, `lease_term_years`, `lease_expiry_date`: drop either effective or expiry date.
 
 ---
 
