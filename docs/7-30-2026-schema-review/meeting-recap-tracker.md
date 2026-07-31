@@ -71,6 +71,76 @@ Open work arising:
 
 ---
 
+## sgx_reit_top_tenant / sgx_reit_trade_mix — `pct_basis` decision (2026-07-31)
+
+`pct_basis` is to be **shown on the front end**, with the number of variations capped.
+
+**Canonical values to keep (6):**
+`headline_rent` · `annualised_rent` · `npi` · `asset_value` · `gross_rental_income` · `gross_revenue`
+
+**Mappings:**
+
+| from | to |
+|---|---|
+| `base_rental_income` | `gross_rental_income` |
+| `cash_rental_income` | `gross_revenue` |
+| `committed_gross_rent` | `gross_rental_income` |
+| `apartment_rental_income` | `gross_rental_income` |
+| `rental_income` | **remove** |
+| `revenue` | **remove** |
+
+### Current state in prod (surveyed 2026-07-31)
+
+`sgx_reit_top_tenant` 752 rows / 13 distinct · `sgx_reit_trade_mix` 509 rows / 12 distinct.
+
+| value | top_tenant | trade_mix | disposition |
+|---|---|---|---|
+| `gri` | 395 | 305 | **NOT IN THE LIST — see Q1** |
+| `rental_income` | 105 | 50 | remove — **see Q2** |
+| `gross_revenue` | 90 | 41 | keep |
+| `cash_rental_income` | 40 | 22 | → `gross_revenue` |
+| `npi` | 20 | — | keep |
+| `committed_gross_rent` | 20 | 16 | → `gross_rental_income` |
+| `headline_rent` | 20 | 20 | keep |
+| `rental_income (corporate accounts ... Ascott management contracts only)` | 11 | 20 | **see Q3** |
+| `apartment_rental_income (corporate accounts ... Ascott management contracts only)` | 11 | — | → `gross_rental_income`, **see Q3** |
+| `gri_logistics_industrial` | 10 | 5 | **see Q4** |
+| `gri_commercial` | 10 | 11 | **see Q4** |
+| `office_gri` | 10 | 10 | **see Q4** |
+| `retail_gri` | 10 | 7 | **see Q4** |
+| `asset_value` | — | 2 | keep |
+
+`base_rental_income` and `revenue` do not appear in prod — the mapping for them is forward-looking only.
+
+### Open questions blocking the rewrite
+
+- [ ] **Q1 — `gri` is the largest bucket (700 rows, ~55%) and is not in the list.** Almost certainly
+      an abbreviation of gross rental income. Confirm `gri` → `gross_rental_income`.
+- [ ] **Q2 — `rental_income` is 155 rows across ~8 REITs** (AJBU, AW9U, CY6U, DCRU, Q5T, UD1U, A17U…).
+      "Remove" needs a target: re-map to `gross_rental_income`, or drop the label and leave
+      `pct_basis` null, or drop the rows? Deleting the label without a target leaves 155 rows with a
+      percentage whose denominator is unknown.
+- [ ] **Q3 — HMN's two bases carry a meaningful qualifier**: *"(corporate accounts of properties
+      under Ascott management contracts only)"*. The percentages cover only part of the portfolio.
+      Collapsing to a bare `gross_rental_income` loses that scope caveat — keep it in a separate
+      note/scope field, or accept the loss?
+- [ ] **Q4 — the four segment variants must NOT be collapsed** (63 rows, BUOU + T82U). Verified in
+      `pct_basis-verification.md`: T82U's AR states *"20.0% of Suntec REIT's total **office** gross
+      rental income"* and separately *"15.0% of … total gross **retail** income"* — these are
+      **separate denominators, each summing to ~100%**. Flattening them to one
+      `gross_rental_income` would make the percentages incomparable and appear to double-count.
+      Decide: keep as distinct enum values, or add a `basis_segment` column
+      (`office` / `retail` / `commercial` / `logistics_industrial`) alongside the canonical basis.
+
+### Also outstanding on these two tables
+
+- [ ] Apply the 19 mislabelled-row fixes from `pct_basis-verification.md`.
+- [ ] Backfill Q5T FY2024 and XZL FY2024.
+- [ ] `revenue_pct` / `pct` are already fractions (0–1) — no change under the percentage-normalization
+      item below.
+
+---
+
 ## Also raised
 
 - [ ] Naming — make sure of what the data is and the naming.
