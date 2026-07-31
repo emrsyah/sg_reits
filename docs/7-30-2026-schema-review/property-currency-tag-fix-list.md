@@ -110,17 +110,97 @@ Group B's tags have been stripped**, or the conversion pass will catch them too.
 | DCRU | 2025 | 11 | USD:11 | 2,207,226,000 | 2,834,298,907 | 2,346,949,570 | between the two |
 | MXNU | 2024 | 10 | GBP:10 | 115,200,000 | 196,692,480 | 710,619,880 | **6x short** |
 
-Plausible explanations to test, not to assume:
+### RESOLVED 2026-07-31 — none of the six is a currency problem
 
-- **MXNU 2024** has only **10 property rows** against **148 in FY2025** — most likely an incomplete
-  property table rather than a tagging problem.
-- **C38U / ME8U** sum *above* `portfolio_value` on both hypotheses — suggests joint-venture or
-  partly-owned assets counted at 100% in the property table but at the REIT's share in the portfolio
-  figure. `ownership` may need applying.
-- **DCRU** lands between the two hypotheses — consistent with a genuinely **mixed** table, some rows
-  native and some already converted.
+All six were investigated against their annual reports. Every one is a **scope or basis** mismatch,
+not a tagging error. **No currency fix is required for any of them.**
 
-**Do not fix these by arithmetic.** Each needs checking against its annual report.
+#### ME8U 2024 + 2025 — joint-venture assets excluded from the audited statement
+
+ME8U's 13 US data centres are held via **MRODCT**, a 50%-owned JV. Equity-accounted, so they appear
+in the consolidated accounts as a single *"Investment in a joint venture"* line (S$523,743k) and are
+**absent from the audited Portfolio Statement**. Our table keeps all 13 as rows.
+
+```
+86 consolidated properties  = S$7,975,962,000  = the reported fair value, exactly
+13 JV properties (USD, 100% basis)             = correctly absent from that total
+99 rows summed                                 = always overshoots
+```
+
+Our own `_notes.json` already said so: *"Their absence from the consolidated Portfolio Statement Σ
+is correct, not a miss."* The 13 USD tags are **correct**.
+
+Reconcile with `value_basis != 'equity_accounted_jv'`.
+
+#### C38U 2024 — proportionate vs 100% ownership basis
+
+The AR's footnote: *"Includes CICT's **proportionate interests** in CapitaSky (70.0%), ION Orchard
+(50.0%), CapitaSpring (45.0%), Gallileo and Main Airport Center (94.9% respectively), and 101-103
+Miller Street & Greenwood Plaza (50.0%)."*
+
+We store the 100% value in `market_valuation`; the reported total uses CICT's share — **and the
+share figures are already in our `alt_value` column**, matching the AR exactly:
+
+| property | `market_valuation` (100%) | `alt_value` (share) | AR reports |
+|---|---|---|---|
+| ION Orchard | 3,697,900,000 | 1,848,500,000 | 1,849.0m (50%) |
+| CapitaSpring | 2,058,500,000 | 926,300,000 | 926.3m (45%) |
+| CapitaSky | 1,263,000,000 | 884,100,000 | 884.1m (70%) |
+| Gallileo | 383,226,000 | 363,700,000 | 363.7m (94.9%) |
+
+Substituting `alt_value` takes the 26-row sum from ~S$29.6bn to ~S$26.0bn vs a reported
+S$26,034.9m. ION Orchard and CapitaSpring are additionally flagged
+`excluded_from_portfolio_statement` in our data. **Nothing to re-extract** — the reconciliation
+must use the right column.
+
+#### MXNU 2024 — genuinely incomplete, and correctly so
+
+*"Comprising 149 Properties as at 31 December 2024"*, portfolio value **£416.2 million**. The AR
+itemises only the **top 10 by valuation** (p34-37); the other 139 are never individually disclosed
+anywhere in the report. Our 10 rows sum to £115.2m — exactly those top-10 cards.
+
+Already documented in our notes: *"The remaining ~139 properties are NOT itemised anywhere in the
+AR ... Not a parsing miss."* A source-document limitation. **Nothing to fix.**
+
+> Open question, assumed rather than verified by the investigating agent: why FY2025 holds 148 rows
+> when FY2024 holds 10. If FY2025's rows did not come from the AR, that needs its own answer.
+
+#### DCRU 2024 + 2025 — two different metrics that were never meant to reconcile
+
+Every DCRU property row is genuinely USD; **nothing is silently pre-converted**. The gap is that the
+two figures being compared come from different disclosures:
+
+- `properties.market_valuation` — 9 majority-owned assets at **100% consolidated** value from the
+  audited Note 6, plus the equity-accounted JVs (Digital Osaka 2, and Osaka 3 in FY2025) at their
+  **20% share**, flagged `value_basis: "effective_interest"`. Mixed basis by design, each row correct.
+- `performance.portfolio_value` — the AR's headline **AUM at ownership/pro-rata share for every
+  asset**, from p31, a different table entirely.
+
+The 9 consolidated rows sum to **1,852,018,000 = the audited Note 6 balance exactly**.
+
+The "lands between the two hypotheses" appearance is coincidence: prod's figure is simply
+`performance.portfolio_value` FX-converted (1,624,100,000 × ~1.3603 ≈ 2,209,263,230 ✓).
+
+---
+
+## Consequence for the audit method itself
+
+The test used here — *sum of property valuations = reported portfolio value* — holds only for
+**wholly-owned, fully-consolidated, fully-disclosed** portfolios. It breaks legitimately on:
+
+- equity-accounted JV rows (ME8U, DCRU)
+- proportionate-vs-100% basis (C38U, DCRU)
+- partially-disclosed portfolios (MXNU)
+
+The Group A / Group B classification above is still sound — those 24 REIT-years matched one
+hypothesis closely, several to the dollar — but before this becomes an automated gate it needs to
+filter JV rows, apply ownership, and skip REITs whose ARs disclose only part of the portfolio.
+
+**Also unresolved and worth its own look:** `performance.portfolio_value` is not a consistent
+concept across REITs. For ME8U it appears to be an AUM-style figure (9,144,300,000) that matches
+neither the audited Portfolio Statement (7,975,962,000) nor the balance sheet (8,080,101,000); for
+DCRU it is explicitly at-share AUM. If it means different things per REIT, it should not be used as
+a reconciliation target anywhere.
 
 ---
 
