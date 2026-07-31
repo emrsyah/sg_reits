@@ -9,6 +9,12 @@ Companion to `performance-column-brief.md` and `performance-dpu-brief.md`. Those
 each column*. This one answers **which of their claims survive contact with the reports**, and it
 corrects four of them.
 
+> **Read `performance-normalization.md` first — it is the deepest of the four** and the only one
+> covering FX (balance-vs-flow conversion), the Group A/B/C property-currency split, and KPI basis
+> divergence. It also already identified the `distribution_paid`-holds-cash mechanism (§5) and BTOU's
+> units basis (§6) on 2026-07-30. This document confirms both against the reports and supplies the
+> corrected values; it does not discover them.
+
 ---
 
 ## 0. Corrections to the existing briefs
@@ -89,6 +95,8 @@ Income to be distributed                106,968
 > Skip them explicitly rather than letting them sit as permanent red.
 
 **BTOU is a second suspended REIT** alongside D5IU — no distribution declared for FY2025 or FY2024.
+(Its units basis was already flagged in `performance-normalization.md` §6: the AR divides by
+1,835,124k *"Units issued and to be issued"* while we store 1,776,565,000 — issued-only.)
 Its *"Income Available for Distribution per Unit 1.44 US cents"* is **not** a declared DPU and must
 not be stored as one.
 
@@ -119,7 +127,9 @@ FY2025.
 
 ### FIX 2 — C2PU FY2025 `distribution_paid` → `99,781,000`
 
-**Newly found in this pass.** Parkway Life's distribution statement:
+**Not a new finding** — `performance-normalization.md` §5 already identified the mechanism on
+2026-07-30 (*"Same mechanism verified for C2PU, ODBU, DCRU, J85"*). What this pass adds is the
+**corrected value and its cross-check**. Parkway Life's distribution statement:
 
 ```
 Income for the year available for distribution to Unitholders     99,781   ← accrual, for the year
