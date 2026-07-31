@@ -1,0 +1,45 @@
+{
+  "symbol": "ME8U",
+  "financial_year": 2023,
+  "source": "parsed_reports_datalab/27_ME8U.SI_Mapletree-Industrial-Trust_FY2022/full.md",
+  "transactions": [
+    {
+      "property_name": "Osaka Data Centre",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Suma Tokutei Mokuteki Kaisha",
+      "completed_date": "2023-09-28",
+      "purchase_price": 52000000000,
+      "purchase_price_currency": "JPY",
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": 0.9847,
+      "deal_id": "me8u:osaka_data_centre:acquisition:2023",
+      "citation": "p831/849: 'Announced the proposed acquisition of the Osaka Data Centre for a purchase consideration of JPY52.0 billion'... 'Completed the acquisition of the Osaka Data Centre'; footnote 4 (p1726): 'JLL Morii Valuation & Advisory K.K. valued the property based on the cost approach and income capitalisation approach methods. The independent valuation of the property was JPY52.0 billion as at 30 April 2023.'; footnote 3 (p1724): 'MIT has an effective economic interest of 98.47% in the property while the remaining 1.53% is held by its Sponsor, MIPL.'",
+      "notes": "Purchase consideration JPY52.0bn was 'in line with' (equal to) the JLL Morii independent valuation of JPY52.0bn as at 30 Apr 2023 -- i.e. a 0% premium/discount, but this is not populated as gain_loss_pct since that field is reserved for divestments per SPEC (no gain/loss concept applies to an acquisition). MIT holds a 98.47% effective economic interest in the property (remaining 1.53% held by Sponsor MIPL); purchase price recorded on the JPY-denominated, effective-interest basis as disclosed. Fit-out works were completed in phases across FY23/24 through FY25/26 (Phase 3 completed 25 Jun 2024, final Phase 4 completed 2 May 2025), each phase representing an incremental ~10% of the total purchase consideration paid on completion -- this is additional capex disclosed in subsequent years' ARs, not part of the FY2023 acquisition transaction itself."
+    },
+    {
+      "property_name": "Tanglin Halt Cluster",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Extra Space Commonwealth Pte. Ltd.",
+      "completed_date": "2024-03-27",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 8.4,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 46700000,
+      "reference_currency": "SGD",
+      "reference_basis": "book_value",
+      "interest_pct": null,
+      "deal_id": "me8u:tanglin_halt_cluster:divestment:2024",
+      "citation": "p744: 'On 27 March 2024, we completed the divestment of 115A & 115B Commonwealth Drive, Singapore (the \"Tanglin Halt Cluster\") at a sale price of S$50.6 million. The sale price was at an 8.4% premium above book value.'; footnote 11 (p2099): 'Based on the book value of S$46.7 million as at the end of the Financial Year 2022/2023 ended 31 March 2023.'; footnote 12 (p2101): independent valuation by Savills Valuation and Professional Services (S) Pte Ltd.",
+      "notes": "VERIFIED per user flag: the disclosed 8.4% is the GROSS sale price (S$50.6m) measured against BOOK VALUE (S$46.7m as at 31 Mar 2023 FYE, i.e. the prior comparative-period carrying amount) -- (50,600,000-46,700,000)/46,700,000*100 = 8.35%, rounds to the disclosed 8.4%; used the disclosed figure verbatim (pct_source='disclosed'), not the derived 8.35%. reference_basis correctly set to 'book_value' (not 'valuation'), matching the AR's own 'premium above book value' framing. A SEPARATE net-proceeds figure exists and must not be conflated with the gross sale price used for the 8.4%: net cash proceeds from the divestment were S$50.192m (Statement of Cash Flows, per prior extraction citation, p38 source_page) vs the gross sale price of S$50.6m -- a difference of S$408k in disposal costs/adjustments. Also note a distinct independent valuation of S$48.7m as at 31 Dec 2023 exists (Savills, per prior extraction) which is NOT the book-value reference used for the disclosed 8.4% -- had (50,600,000-48,700,000)/48,700,000 been used instead it would give a different +3.90% figure; the AR's own wording anchors explicitly to book value, so that valuation figure is not used as reference_value here. 100% interest divested (whole-property book-value entity), interest_pct left null."
+    }
+  ]
+}

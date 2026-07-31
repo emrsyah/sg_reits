@@ -1,0 +1,27 @@
+{
+  "symbol": "O5RU",
+  "financial_year": 2024,
+  "source": "parsed_reports_datalab/02_O5RU.SI_AIMS-APAC-REIT_FY2024/full.md",
+  "source_note": "O5RU is a Jan-Jun-offset declared-FY reporter: this datalab folder is titled 'FY2024' and correctly contains AIMS APAC REIT's own 'Annual Report 2025' / 'FY2025' content (fiscal year ended 31 March 2025), which maps to our declared FY2024 (FYE in Jan-Jun of calendar year X -> declared FY X-1 = 2025-1 = 2024). Confirmed via in-document 'AIMS APAC REIT Annual Report 2025' cover and 'FY2025 KEY HIGHLIGHTS' section headers. No folder mislabeling here (unlike M44U).",
+  "transactions": [
+    {
+      "property_name": "3 Toh Tuck Link",
+      "transaction_type": "divestment",
+      "status": "announced",
+      "counterparty": "third-party buyer (unnamed in AR)",
+      "completed_date": null,
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "o5ru:3_toh_tuck_link:divestment:2025",
+      "citation": "p164 Portfolio Statement footnote 4 / p191 Note 4: 3 Toh Tuck Link reclassified to investment property held for sale at fair value = agreed sale price S$24.388m (net of S$0.618m lease liability, gross S$25.006m) as at 31 Mar 2025; completion pending post year-end. Announced 10 Dec 2024.",
+      "notes": "Status recorded as 'announced' (not 'completed') because completion occurred AFTER the FY2024(declared)/FYE-31-Mar-2025 year-end covered by this AR -- the AR itself shows the property still reclassified as 'held for sale' with the deal not yet closed. gain_loss_pct/reference fields intentionally left null in the AUDITED-STATEMENT sense: the audited Portfolio Statement/FS notes carry the property at fair value = the agreed sale price itself (S$24.388m = S$24.388m), so a vs_book_value comparison computed strictly from the audited figures gives 0% (no gain recognised pre-completion) -- this would be a misleading 'derived' figure since carrying value was reset to equal the sale price precisely BECAUSE of the pending sale, not an independent measure. SEPARATELY, the AR's narrative commentary (Chairman & CEO Statement p16: 'a price 32.5% above valuation'; Board/strategy section p17: 'at a 32.5% premium to valuation') states a 32.5% premium, but this figure is NOT corroborated anywhere in the audited portfolio statement or FS notes with an independent valuation number -- no valuation figure is disclosed in the audited statements to derive against (the implied pre-reclassification valuation would be ~S$18.4m, backed out from the sale price and the stated 32.5%, but that back-calculation is not itself a disclosed or auditable figure). Per spec Rule 5 (never balance by assumption) and the instruction not to invent a reference, gain_loss_pct is left NULL rather than populated with the commentary-only 32.5% treated as an audited-statement fact. This is a genuine gap: the AR discloses the deal exists and its price, but the audited statements provide no defensible reference_value for a divestment premium at the time of this report; deal_id uses year 2025 reflecting the year the deal was expected to complete per the announced timeline referenced in the AR (post-FYE 2025)."
+    }
+  ]
+}

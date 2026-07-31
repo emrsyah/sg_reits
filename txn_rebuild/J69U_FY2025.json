@@ -1,0 +1,45 @@
+{
+  "symbol": "J69U",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/18_J69U.SI_Frasers-Centrepoint-Trust_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "Northpoint City South Wing",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Frasers Property Limited (Sponsor) - via acquisition of 100% of North Gem Trust and its trustee-manager",
+      "completed_date": "2025-05-26",
+      "purchase_price": 380660000,
+      "purchase_price_currency": "SGD",
+      "gain_loss_pct": -66.4,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 1133000000,
+      "reference_currency": "SGD",
+      "reference_basis": "valuation",
+      "interest_pct": 1.0,
+      "deal_id": "j69u:northpoint_city_south_wing:acquisition:2025",
+      "citation": "p8/p20: 'the purchase consideration' S$380.660m for 100% of North Gem Trust (equity + trustee-manager shares); agreed property value $1,133.0m = average of Colliers $1,146.0m and Savills $1,120.0m independent valuations as at 31 Dec 2024.",
+      "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Structured as an equity/unit purchase (S$380.660m purchase consideration for units + trustee-manager shares) rather than a direct property purchase, so purchase_price (equity consideration) is NOT on the same basis as the agreed property value (S$1,133.0m, 100% gross asset value) - gain_loss_pct is therefore NOT a meaningful discount/premium figure and is DERIVED here only for completeness of the schema, not as a comparable metric; treat with caution (equity consideration includes assumption of debt: gross investment-property value recognised on acquisition S$1,174,816k = equity consideration + assumed borrowings S$781,851k, FS Note 4). Total acquisition outlay approx S$393.238m incl. acquisition fee S$11.330m + transaction costs. Funded via April 2025 Equity Fund Raising. Seller is the Sponsor group (Frasers Property Limited); interested-person transaction."
+    },
+    {
+      "property_name": "Yishun 10 Retail Podium",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Lion (Singapore) Pte. Limited (wholly-owned subsidiary of Frasers Property Limited)",
+      "completed_date": "2025-09-23",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 1.47,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 34000000,
+      "reference_currency": "SGD",
+      "reference_basis": "book_value",
+      "interest_pct": null,
+      "deal_id": "j69u:yishun_10_retail_podium:divestment:2025",
+      "citation": "p9/p138/FS p199: 'On 23 September 2025, the Trust divested Y10 for a consideration of $34,500,000 to Lion (Singapore) Pte. Limited... with a net gain on divestment of $128,000.' Consideration negotiated as average of two independent valuations of $34.0m and $35.0m as at 31 May 2025. Investment-property movement note: 'Disposal (34,000)' (FY-end carrying value $34.0m).",
+      "notes": "Divested to Lion (Singapore) Pte. Limited, a wholly-owned subsidiary of FPL (interested-person transaction). Gross consideration S$34,500,000. gain_loss_pct DERIVED vs_book_value = (34,500,000 - 34,000,000)/34,000,000 = +1.47% (net_sale_proceeds not separately disclosed, so gross sale_price used per the formula against carrying value). No premium/gain % explicitly disclosed by the AR. For reference, the AR's own disclosed net gain on divestment of $128,000 (net of transaction costs, FS Note 4) = +0.38% of carrying value - a smaller, cost-adjusted figure not used as primary since it is net of unspecified transaction costs (implied ~$372k) rather than the gross-consideration-vs-book comparison the SPEC calls for. Consideration was the average of two independent valuations of $34.0m and $35.0m as at 31 May 2025 (not the FY-end carrying value); if that average ($34.5m) were used as reference_basis=valuation instead, gain_loss_pct would be 0.00% by construction (consideration = valuation average), so book_value is the more informative basis and is used here. Net proceeds from divestment of investment property and investment in joint venture (Statement of Cash Flows) = $34,500,000 for FY2025 (no JV divestment that year, so the whole amount is Y10)."
+    }
+  ]
+}

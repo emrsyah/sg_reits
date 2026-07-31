@@ -1,0 +1,117 @@
+{
+  "symbol": "AJBU",
+  "financial_year": 2024,
+  "source": "parsed_reports_datalab/21_AJBU.SI_Keppel-DC-REIT_FY2024/full.md",
+  "transactions": [
+    {
+      "property_name": "Tokyo Data Centre 1 (Tokyo DC 1)",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": null,
+      "completed_date": "2024-07-31",
+
+      "purchase_price": 194200000,
+      "purchase_price_currency": "SGD",
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": 0.9847,
+      "deal_id": "ajbu:tokyo_dc_1:acquisition:2024",
+
+      "citation": "p392 (highlights): 'DPU-accretive acquisition of 98.47% effective interest in Tokyo Data Centre 1, a hyperscale data centre, for JPY 23.0 billion'; p6331/p7171: 'On 31 July 2024, Keppel DC REIT completed the acquisition of 98.47% effective interest in Tokyo DC 1, located in West Tokyo, Japan'",
+      "notes": "Purchase price of JPY23,042.0m (p2873) converted/reported in the AR at S$194.2m (per our prior extraction's raw.purchase_price_local); JPY figure is the source-disclosed local-currency amount. interest_pct is the 98.47% effective interest acquired (not a multi-tranche stake build)."
+    },
+    {
+      "property_name": "Keppel DC Singapore 7 and 8 (KDC SGP 7 & 8)",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "TPM Pte. Ltd. and Geras DC Pte. Ltd. (via subscription for securities issued by Memphis 1 Pte. Ltd.)",
+      "completed_date": "2024-12-27",
+
+      "purchase_price": 1030000000,
+      "purchase_price_currency": "SGD",
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": 0.9949,
+      "deal_id": "ajbu:kdc_sgp_7_8:acquisition:2024",
+
+      "citation": "p2040-2042: 'Keppel DC REIT acquiring 49% of the shares of Memphis 1 Pte. Ltd. ... and subscribing to two new classes of securities ... entitling Keppel DC REIT to 99.49% of the economic interest in KDC SGP 7 and 8. The agreed aggregated property value of S$1,030.0 million (if there is no Land Tenure Lease Extension)'; p7171: completed 27 Dec 2024",
+      "notes": "purchase_price uses the agreed aggregate property value EXCLUDING the optional Land Tenure Lease Extension (S$1,030.0m); WITH the 10-year extension the agreed value rises to S$1,380.0m (extension consideration ~S$350m, disclosed separately, p165) — not included here since the extension was not exercised/paid as part of this completed deal. Structured as a 99.49% economic-interest acquisition via securities in Memphis 1 Pte. Ltd., which holds the two properties; Keppel DC REIT also holds a call option (Nov 2024) for the remaining 51% share stake, unexercised at FY2024 year-end (p8462)."
+    },
+    {
+      "property_name": "Intellicentre Campus (IC DC)",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Macquarie Data Centres Macquarie Park Property SubTrust Pty Ltd",
+      "completed_date": "2024-06-01",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": 35.4,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 128500000,
+      "reference_currency": "AUD",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "ajbu:intellicentre_campus:divestment:2024",
+
+      "citation": "p236: 'we unlocked A$174.0 million from the opportunistic divestment of Intellicentre Campus in Sydney at a 35.4% premium over valuation'; p1940: 'The Manager opportunistically divested IC DC in Australia at 35.4% premium to valuation to unlock value'",
+      "notes": "gain_loss_pct is AR-DISCLOSED (35.4%), not derived. Sale price A$174.0m; implied valuation base = 174.0/1.354 ≈ A$128.5m, matching our prior extraction's valuation figure (A$128.5m as at 31 Dec 2023). This is a PROPERTY-LEVEL premium-to-valuation figure per the schema convention; the separate ACCOUNTING gain booked in the financial statements is S$31,611k ('Gain on divestment of an investment property', p3745/p6146), net of withholding tax S$17,028k (p6393) — that SGD accounting figure is NOT stored here (it mixes FX translation and is on a different basis/currency than the AUD property-level premium); recorded per spec's 'equity/property sales recorded on property economics, not accounting outcome' convention. Part of A$174.0m proceeds (A$90.0m) reinvested into an Australia Data Centre Note (p236) — no bearing on the divestment economics itself."
+    },
+    {
+      "property_name": "Basis Bay Data Centre (Basis Bay DC)",
+      "transaction_type": "divestment",
+      "status": "announced",
+      "counterparty": null,
+      "completed_date": null,
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "ajbu:basis_bay_dc:divestment:2025",
+
+      "citation": "p517/p528: 'Divestment of asset announced on 2 January 2025; completion expected in 3Q 2025'",
+      "notes": "Announced but not completed as at FY2024 year-end (announced 2 Jan 2025, a subsequent event); no sale price disclosed in FY2024 AR, so gain_loss_pct cannot be derived. Property was reclassified to investment property held for sale at carrying value S$16,520k (per prior extraction _notes.json anomalies) — this is a carrying value, not a transacted price, so left out of reference_value to avoid implying a completed deal. deal_id uses 2025 (the year completion is expected), consistent with spec's 'year deal completed' rule; will need reconciling if completion lands in FY2025 AR under a different date."
+    },
+    {
+      "property_name": "Kelsterbach Data Centre (Kelsterbach DC)",
+      "transaction_type": "divestment",
+      "status": "announced",
+      "counterparty": null,
+      "completed_date": null,
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "ajbu:kelsterbach_dc:divestment:2025",
+
+      "citation": "p529/p1261/p2236/p2906: 'Divestment of asset announced on 17 February 2025; completion expected in 1H 2025'",
+      "notes": "Announced but not completed as at FY2024 year-end (announced 17 Feb 2025, a subsequent event); no sale price disclosed in FY2024 AR, so gain_loss_pct cannot be derived. deal_id uses 2025 (expected completion year); check against FY2025 AR for actual completion date and reconcile deal_id if it differs."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "symbol": "TS0U",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/31_TS0U.SI_OUE-REIT_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "Salesforce Tower (180 George Street, Sydney)",
+      "transaction_type": "acquisition",
+      "status": "announced",
+      "counterparty": "Lendlease (via Lendlease (Circular Quay) Trust, Lendlease (Jackson on George) Trust, Lendlease (CQT Assets) Trust and the Target Trustee)",
+      "completed_date": "2026-03",
+      "purchase_price": 175046000,
+      "purchase_price_currency": "SGD",
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": 0.199,
+      "deal_id": "ts0u:salesforce_tower_180_george_street_sydney:acquisition:2026",
+      "citation": "p174/175, Subsequent Events note: 'On 24 February 2026, the Group entered into a share and unit sale agreement to acquire a 19.9% interest in Salesforce Tower for a consideration of A$195,538,000 (equivalent to $175,046,000)...' p984-986 (Manager's review): 'In March 2026, OUE REIT ... successfully completing the acquisition of a 19.9% interest in Salesforce Tower - a landmark, freehold premium-grade commercial tower at 180 George Street in Sydney's Circular Quay.'",
+      "notes": "SUBSEQUENT EVENT: SPA signed 24 Feb 2026 (after FY2025 year-end 31 Dec 2025), completion in March 2026 -- status recorded as 'announced' reflecting the AR's own subsequent-events disclosure basis (the deal had completed by the time the AR was published, but sits outside the FY2025 reporting period/financials). interest_pct 0.199 (19.9% interest acquired via 19.9% of units in three Lendlease target trusts + 22.0% of shares in the target trustee, per Manager's review p35 of the extracted-notes context). No gain/loss, premium %, or independent valuation disclosed in the AR for this acquisition. purchase_price recorded as the SGD-equivalent consideration (S$175,046,000 for A$195,538,000)."
+    },
+    {
+      "property_name": "Lippo Plaza Shanghai (via Lippo Realty (Shanghai) Limited)",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Unrelated third-party purchaser (buyer entity not named; sold via SPA for shares in Lippo Realty (Shanghai) Limited, through indirect wholly-owned subsidiary Tecwell Pte. Ltd.)",
+      "completed_date": "2024-12-27",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 14.86,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 311136000,
+      "reference_currency": "SGD",
+      "reference_basis": "book_value",
+      "interest_pct": null,
+      "deal_id": "ts0u:lippo_plaza_shanghai:divestment:2024",
+      "citation": "p121, comparative disclosure of the FY2024 subsidiary disposal (identical Note to the FY2024 AR's Note 30): 'On 20 December 2024, the Group announced the divestment of 100% issued and paid-up capital of Lippo Realty (Shanghai) Limited ... for a total sales consideration of RMB 1,916,925,000 (equivalent to approximately $357,382,000). The sale was completed on 27 December 2024.'",
+      "notes": "CROSS-YEAR DUPLICATE of the row in TS0U_FY2024.json -- deal_id 'ts0u:lippo_plaza_shanghai:divestment:2024' is IDENTICAL across both files (same deal, completed Dec 2024, year the deal completed used in the deal_id per spec rule), and all five required-field values (gain_loss_pct, pct_unit, pct_source, reference_value, reference_currency, reference_basis) are IDENTICAL to the FY2024 file for consistency. This deal appears in the FY2025 AR ONLY as an audit-trail/comparative reference explaining the FY2025 YoY revenue/NPI decline ('the absence of revenue contributions from Lippo Plaza Shanghai', p809; 'like-for-like revenue and NPI increased by 0.1% and 1.6% YoY respectively' excluding Lippo Plaza, p809/1618) -- it is NOT a new or second transaction, and this row should be deduplicated against the FY2024 row when the two files are merged/loaded, not double-counted. PROPERTY-LEVEL economics: gross sale consideration S$357,382,000 vs the disposed entity's investment-property carrying value S$311,136,000 (Note 30, FY2024 AR p181) = DERIVED +14.86% premium. The consolidated Statements of Total Return instead recorded a LOSS on disposal of the subsidiary of S$(26,427,000) for FY2024 -- this accounting loss has the OPPOSITE SIGN from the property-level economics above because it additionally nets in a S$54,614,000 recycled foreign-currency-translation-reserve (FCTR) and a S$32,323,000 disposal tax expense at the SPV/subsidiary-disposal level, neither of which reflects the property's price-vs-book performance. See TS0U_FY2024.json for the full breakdown and citations of this reconciliation (Note 30, p181 of the FY2024 AR)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "symbol": "DHLU",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/12_DHLU.SI_Daiwa-House-Logistics-Trust_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "DPL Gunma Fujioka",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Mitsubishi HC Capital Estate Plus Inc. (unrelated third party)",
+      "completed_date": "2025-03-24",
+      "purchase_price": 3990000000,
+      "purchase_price_currency": "JPY",
+      "gain_loss_pct": -23.4,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 5210000000,
+      "reference_currency": "JPY",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "dhlu:dpl_gunma_fujioka:acquisition:2025",
+      "citation": "p51: 'purchase consideration JPY 3,990m represented a discount of 23.4% to the independent valuation of JPY 5,210m'; independent valuation as at 31 January 2025 (income approach, DCF method).",
+      "notes": "Acquired via DH-CRUX Japan TMK. Freehold logistics property in Fujioka-shi, Gunma (Greater Tokyo). DISCLOSED acquisition discount (not derived): -23.4% (sign convention: negative = acquired below independent valuation). Financed by JPY 3,990m borrowings drawn to fund the acquisition. Value further created post-acquisition: valuation as at 31 Dec 2025 grew to JPY5,230m, 31.1% above the purchase consideration (p52) - not used as the reference since it postdates the transaction."
+    }
+  ]
+}

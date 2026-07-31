@@ -1,0 +1,73 @@
+{
+  "symbol": "N2IU",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2024/full.md",
+  "transactions": [
+    {
+      "property_name": "TS Ikebukuro Building (TSI)",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Sun Frontier Fudousan Co., Ltd",
+      "completed_date": "2025-08-22",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": -5.1,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 5690000000,
+      "reference_currency": "JPY",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "n2iu:ts_ikebukuro:divestment:2025",
+
+      "citation": "p41: 'TSI ... divested on 22 August 2025 ... for JPY5,400.0 million (approximately S$48.7 million)[1]. The divestment consideration for TSI was at a 3.4% discount (in local currency terms) to its purchase price of JPY5,590.0 million (approximately S$67.8 million)[2] and a 5.1% discount (in local currency terms) to its independent valuation (as at 31 March 2025) of JPY5,690.0 million (approximately S$51.3 million)[1]'",
+      "notes": "Consideration is JPY5,400.0 million (local currency = JPY, NOT SGD — a prior extraction mixed this up by tagging sale_price_currency JPY but reporting the amount as the raw JPY figure with an incorrect S$ conversion cross-reference elsewhere). Two disclosed reference bases exist: vs purchase_price (JPY5,590.0m, -3.4%) and vs independent valuation as at 31 Mar 2025 (JPY5,690.0m, -5.1%); this row records the VALUATION basis (spec's reference_basis=valuation preferred over purchase_price as the more standard/comparable metric); the purchase_price-basis figure is preserved here for completeness: JPY5,590.0m purchase price, -3.4% discount. Both percentages and reference values are 'in local currency terms' i.e. JPY, per the AR's own footnote framing — the SGD-equivalent figures (S$48.7m consideration, S$51.3m valuation, S$67.8m purchase price) are FX-converted at S$1=JPY110.8881 (31 Mar 2025) purely for narrative purposes and must not be used to compute the percentage (mixing JPY consideration against an SGD reference would silently distort the result). Gain on divestment per audited FS (Note 13, p153): net LOSS of S$3,093k (SGD; combined proceeds vs SGD carrying value, a DIFFERENT metric from the local-currency valuation/purchase-price premiums above — do not conflate)."
+    },
+    {
+      "property_name": "ABAS Shin-Yokohama Building (ASY)",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "ACN Fudosan Co., Ltd",
+      "completed_date": "2025-08-28",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": 4.7,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 3180000000,
+      "reference_currency": "JPY",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "n2iu:abas_shin_yokohama:divestment:2025",
+
+      "citation": "p41: 'ASY ... divested on ... 28 August 2025 ... for ... JPY3,330.0 million (approximately S$30.0 million)[1]. ... For ASY, the divestment consideration was at an 11.4% premium (in local currency terms) to its purchase price of JPY2,990.0 million (approximately S$36.3 million)[2] and a 4.7% premium (in local currency terms) to its independent valuation (as at 31 March 2025) of JPY3,180.0 million (approximately S$28.7 million)[1]'",
+      "notes": "Consideration is JPY3,330.0 million (local currency = JPY, not SGD). Two disclosed reference bases: vs purchase_price (JPY2,990.0m, +11.4%) and vs independent valuation as at 31 Mar 2025 (JPY3,180.0m, +4.7%); this row uses the VALUATION basis. All figures 'in local currency terms' (JPY); SGD-equivalent figures shown in the AR narrative are FX-converted at S$1=JPY110.8881 (31 Mar 2025) and NOT used for the percentage. Gain on divestment per audited FS (Note 13, p153): net GAIN of S$408k (SGD, a different SGD-carrying-value-basis metric — do not conflate with the JPY valuation premium above)."
+    },
+    {
+      "property_name": "Festival Walk Tower (office component of Festival Walk)",
+      "transaction_type": "partial_divestment",
+      "status": "completed",
+      "counterparty": "CityU Limited",
+      "completed_date": "2026-02-02",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": -15.9,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 2331900000,
+      "reference_currency": "HKD",
+      "reference_basis": "purchase_price",
+      "interest_pct": null,
+      "deal_id": "n2iu:festival_walk_tower:partial_divestment:2026",
+
+      "citation": "p41: 'On 2 February 2026, Festival Walk Tower was divested to an unrelated third party, CityU Limited, for HKD1,960.0 million (S$328.1 million), in line with its independent valuation (as at 30 November 2025)[3]. The divestment consideration was at a 15.9% discount (in local currency terms) to its purchase price of HKD2,331.9 million (S$406.1 million)[4].'",
+      "notes": "Consideration is HKD1,960.0 million (local currency = HKD, NOT SGD). The AR discloses TWO comparisons: (1) 'in line with its independent valuation' (as at 30 Nov 2025, no percentage stated, i.e. ~0% to valuation) and (2) an explicit -15.9% discount to purchase price HKD2,331.9m (footnote 4: valuation commissioned for the 2021 MCT/MNACT merger scheme, exchange rate S$1=HKD5.7415). Per spec §2 reference_basis table, purchase_price is used here since it is the ONE reference basis with a disclosed percentage (pct_source=disclosed); the valuation basis, while also cited, carries no explicit % (described qualitatively as 'in line with'). Office component only — MPACT retains full ownership of Festival Walk's retail mall (588,890 sq ft NLA). Gain on divestment per audited FS (Note 13, p153): net LOSS of S$10,263k (SGD, against SGD carrying value — a different metric from the HKD purchase-price discount above; do not conflate). A one-off tax charge of S$8.3m was recognised on completion of this divestment (p356), separate from the divestment gain/loss."
+    }
+  ]
+}

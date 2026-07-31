@@ -1,0 +1,45 @@
+{
+  "symbol": "CY6U",
+  "financial_year": 2024,
+  "source": "parsed_reports_datalab/08_CY6U.SI_CapitaLand-India-Trust_FY2024/full.md",
+  "transactions": [
+    {
+      "property_name": "aVance II, Pune",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Nalanda Shelter Private Limited (subsidiary acquired) / Ascendas Property Fund (India) Pte Ltd (APFI, acquiring entity)",
+      "completed_date": "2024-03-01",
+      "purchase_price": 124600000,
+      "purchase_price_currency": "SGD",
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "cy6u:avance_ii_pune:acquisition:2024",
+      "citation": "Property portfolio card (p2372-2387): 'aVance II, Pune ... Stake 100% ... Purchase price: Rs 7,730 million ($124.6 million)'. Key events (p287): 'Completed the acquisition of 1.4 million square feet aVance II, Pune in Hinjawadi, Pune' (March 2024). Note - Acquisition of subsidiaries (p7379): 'In March 2024, the Group's subsidiary, Ascendas Property Fund (India) Pte Ltd (APFI), had acquired 100% equity interest in Nalanda Shelter Private Limited (NSPL), for a cash consideration of INR783.6 million ($12.6 million), the settlement of long-term receivables and accrued interest amounting to INR6.9 billion ($111.2 million) and contingent deferred consideration of INR106.6 million ($1.7 million). The acquisition of NSPL augments the Trust's presence in Pune.'",
+      "notes": "Acquired 100% via acquisition of subsidiary Nalanda Shelter Private Limited (NSPL); purchase_price of S$124.6m (INR7,730m) is the total property purchase price disclosed in the portfolio card, which reconciles closely with Note 40's sum of cash consideration (INR783.6m) + settlement of long-term receivables/accrued interest (INR6.9bn) + contingent deferred consideration (INR106.6m) = ~INR7,790m (small residual difference not investigated further; both figures point to the same deal). No independent valuation as at the acquisition date is disclosed (Dec 2023 valuation column shows '-' since not yet held); Dec 2024 year-end valuation of INR10,989m ($175.2m) is a post-acquisition fair value, not an acquisition-date reference, so gain/loss vs valuation is not populated per SPEC rule 3 (no defensible reference at time of acquisition). No gain/loss concept applies to an acquisition in any case."
+    },
+    {
+      "property_name": "Building Q2, Aurum Q Parc",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Loma Co-Developers 2 Private Limited (subsidiary acquired) / Ascendas Property Fund (India) Pte Ltd (APFI, acquiring entity)",
+      "completed_date": "2024-07-01",
+      "purchase_price": 109500000,
+      "purchase_price_currency": "SGD",
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "cy6u:building_q2_aurum_q_parc:acquisition:2024",
+      "citation": "p1622: 'our acquisition of Building Q2 located in Aurum Q Parc, Ghansoli, Navi Mumbai ... The gross consideration for the acquisition was INR 6.79 billion / S$ 109.50 million.' Note - Acquisition of subsidiaries (p7381): 'In July 2024, APFI acquired 100% equity interest in Loma Co-Developers 2 Private Limited (Loma Co-Developers 2), for a cash consideration of INR2.9 billion ($47.4 million), settlement of long-term receivables and accrued interest amounting to INR3.6 billion ($57.9 million) and contingent deferred consideration of INR288.3 million ($4.7 million). The acquisition of Loma Co-Developers 2 augments the Trust's presence in Navi Mumbai.'",
+      "notes": "CORRECTION to prior extraction: our earlier property_transactions.json recorded purchase_price as null with a note that 'per-deal purchase price not separately disclosed (combined Q1+Q2 PP S$173.1m / INR10,287m)'. That combined S$173.1m/INR10,287m figure (portfolio card p2437) is the COMBINED Building Q1 + Building Q2 purchase price across both acquisition events (Q1 was already owned pre-FY2024; only Q2 was acquired in FY2024, per footnote 'Dec 2023 valuation only includes Building Q1. Building Q2 was acquired in July 2024.', p2489). A Q2-SPECIFIC gross consideration IS separately disclosed in the Manager's narrative (p1622): INR6.79 billion / S$109.50 million -- used here as purchase_price instead of null. Reconciliation: combined Q1+Q2 purchase price INR10,287m minus this Q2-only INR6,790m implies an original Q1 purchase price of ~INR3,497m, not independently verified in this pass. Acquired 100% via acquisition of subsidiary Loma Co-Developers 2 Private Limited (Loma Co-Developers 2). No acquisition-date independent valuation disclosed (Dec 2023 valuation column for the combined Q1/Q2 row includes only Q1); Dec 2024 year-end valuation is a post-acquisition figure, not populated as a reference per SPEC rule 3. No gain/loss concept applies to an acquisition in any case."
+    }
+  ]
+}

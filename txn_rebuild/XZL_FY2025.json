@@ -1,0 +1,73 @@
+{
+  "symbol": "XZL",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/01_XZL.SI_Acrophyte-Hospitality-Trust_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "Hyatt Place Detroit Auburn Hills",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "AHM Hospitality LLC",
+      "completed_date": "2025-09-10",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": 7.12,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 6208000,
+      "reference_currency": "USD",
+      "reference_basis": "book_value",
+      "interest_pct": null,
+      "deal_id": "xzl:hyatt_place_detroit_auburn_hills:divestment:2025",
+
+      "citation": "p10-11: 'On 4 June 2025 ... to sell Hyatt Place Detroit Auburn Hills for US$6.65 million. The sale was completed on 10 September 2025... Please refer to the divestment announcement dated 5 June 2025 for further information of the sale, including the valuation and valuation methodology for the property'; Note 11 Assets Held For Sale (p133): 'Sale completed during the financial year (6,208)' [Stapled Group carrying value removed]",
+      "notes": "gain_loss_pct DERIVED (not disclosed): (6,650,000 - 6,208,000)/6,208,000 = 7.12%. No independent valuation for this property is printed anywhere in the AR — the AR explicitly defers it to the separate SGX divestment announcement dated 5 June 2025 (not this document), so reference_basis uses book_value (the one figure genuinely printed, Note 11 held-for-sale roll-forward) rather than valuation. FLAG (accounting-outcome divergence, preserved per spec convention that this table stores property economics not accounting outcome): at ACRO-BT (cost-model) level, a 'Net loss on disposition of property, plant and equipment' of US$(127)k was recognised (Note 11 p133; P&L p98) because ACRO-BT held the asset at depreciated cost, not fair value; at Stapled level (revaluation model) no separate P&L gain/loss line arises. Cash proceeds received were US$6,207k (Cash Flow Statement, Stapled, p105) vs US$6,650k gross consideration — a small collection/cost difference, not stored."
+    },
+    {
+      "property_name": "Hyatt Place Detroit Livonia",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "NJA Management Group LLC",
+      "completed_date": "2026-03-11",
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": -2.9,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 10300000,
+      "reference_currency": "USD",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "xzl:hyatt_place_detroit_livonia:divestment:2026",
+
+      "citation": "Note 29 Subsequent Events (p170): 'sell Hyatt Place Detroit Livonia ... for US$10.0 million, representing a 2.9% discount to the independent valuation of US$10.3 million as of 31 July 2025'; Portfolio List (p16): 'Hyatt Place Detroit Livonia | 127 | Freehold | 2016 | 10.3' (valuation, US$ mil, as at 31 Dec 2025)",
+      "notes": "gain_loss_pct is AR-DISCLOSED and SIGNED NEGATIVE per spec (a discount, not a premium): -2.9%. deal_id uses 2026 (the year this deal actually completed, 11 Mar 2026, per spec's grouping-by-completion-year rule), even though it is disclosed within the FY2025 AR as a subsequent event — status recorded as 'completed' since the AR states the sale did complete (post year-end, before report issuance), distinct from Basis Bay/Kelsterbach-style still-pending announcements seen elsewhere in this rebuild. No carrying value (book_value basis) is available: Note 11 (p133) shows the FY2025 year-end held-for-sale balance at zero, meaning Livonia was NOT reclassified to held-for-sale at 31 Dec 2025 and its carrying amount sits buried in aggregate PPE/investment-property totals with no per-property figure printed — confirmed by our prior extraction's explicit correction removing a previously-conflated carrying_value=valuation entry."
+    },
+    {
+      "property_name": "Hyatt Place Memphis Primacy Parkway",
+      "transaction_type": "divestment",
+      "status": "terminated",
+      "counterparty": "Shivam Patel",
+      "completed_date": null,
+
+      "purchase_price": null,
+      "purchase_price_currency": null,
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": null,
+      "deal_id": "xzl:hyatt_place_memphis_primacy_parkway:divestment:2025",
+
+      "citation": "p18/p27: conditional sale agreement for US$7.75 million; p18: 'the sale of which was terminated by the buyer' (announced 16 March 2026); Portfolio List (p16): 'Hyatt Place Memphis Primacy Parkway | 126 | Freehold | 2016 | 7.7' (independent valuation, US$ mil, as at 31 Dec 2025)",
+      "notes": "This divestment did NOT complete — the buyer terminated the conditional sale agreement (announced 16 Mar 2026); the property remains in the portfolio. gain_loss_pct deliberately left null: since no sale occurred, there is no realised premium or discount to record, even though the AR's conditional price (US$7.75m) and year-end independent valuation (US$7.7m) could mechanically produce a derived +0.65% — that number would describe a deal that never closed, not an actual gain/loss, so per spec ('null it if there is no defensible reference; do not invent one') it is not stored as gain_loss_pct. status = 'terminated' captures the outcome per schema. The conditional price and valuation are preserved here in notes/citation only, not in the reference/gain_loss_pct fields."
+    }
+  ]
+}

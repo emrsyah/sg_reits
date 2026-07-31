@@ -1,0 +1,26 @@
+{
+  "symbol": "AU8U",
+  "financial_year": 2024,
+  "source": "parsed_reports_datalab/07_AU8U.SI_CapitaLand-China-Trust_FY2024/full.md",
+  "transactions": [
+    {
+      "property_name": "CapitaMall Shuangjing",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": null,
+      "completed_date": "2024-01-23",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 7.86,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 130471000,
+      "reference_currency": "SGD",
+      "reference_basis": "net_identifiable_assets",
+      "interest_pct": null,
+      "deal_id": "au8u:capitamall_shuangjing:divestment:2024",
+      "citation": "p91 Consolidated Statement of Total Return / p100 subsidiary-disposal Note B: 'Gain on disposal of subsidiary S$7,309k'; sale consideration S$140,720k, net identifiable assets divested S$130,471k, realisation of translation reserves S$2,940k.",
+      "notes": "Structured as disposal of subsidiary (CapitaRetail Beijing Shuangjing Real Estate Co., Ltd.) holding CapitaMall Shuangjing, a Beijing retail mall. Announced 6 Dec 2023, completed 23 Jan 2024 at agreed property price RMB842.0m (exit yield 2.8%); agreed price equalled the appraised value at classification to held-for-sale (RMB842.0m = S$156.9m, p91/p100). gain_loss_pct DERIVED as (sale consideration S$140,720k - net identifiable assets divested S$130,471k)/S$130,471k = 7.86%, using net_identifiable_assets basis because this was an equity/subsidiary disposal, not a direct asset sale. This differs from the AR's disclosed gain figure (S$7,309k) which nets in a S$2,940k translation-reserve realisation not part of the identifiable-assets comparison; both figures are audited (p91, p100) and kept as-is per invariant against balancing by assumption. Investment-property carrying value at the subsidiary level was S$156,570k (Note B, p100) - this is the whole-property carrying value, not on the same interest basis as the S$140,720k equity consideration, so it was NOT used as the reference (per SPEC rule: never mix a part-price with a whole-asset reference / must be on the same interest basis)."
+    }
+  ]
+}

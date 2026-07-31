@@ -1,0 +1,45 @@
+{
+  "symbol": "CY6U",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/08_CY6U.SI_CapitaLand-India-Trust_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "CyberPearl, Hyderabad and CyberVale, Chennai",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": null,
+      "completed_date": "2025-09-29",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 3.0,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "cy6u:cyberpearl_hyderabad_and_cybervale_chennai:divestment:2025",
+      "citation": "full.md line 2202 (Capital Recycling section, p35): 'In September 2025, CLINT marked a major milestone in this strategy with its first divestments since listing in 2007, selling CyberVale in Chennai and CyberPearl in Hyderabad. These legacy IT park assets, totaling 1.4 million square feet, were divested at an enterprise value of INR 11,031 million (approximately S$161.7 million). The sale was executed at a 3% premium to their independent valuations, demonstrating the Trust's ability to monetise mature assets at optimal values to improve its gearing and fund future growth.'",
+      "notes": "RE-VERIFIED directly against full.md (not just reused from prior extraction). Maiden divestment since listing, via indirect subsidiary CITPPL; two dormant direct subsidiaries (CyberVale IT Parks Private Limited, Cyber Pearl Business Parks Private Limited) divested together, completed 29 Sep 2025 (Note 25a, full.md line 6376-6409). Gross combined consideration INR 11,031m (~S$161.7m gross sale price, line 2202); net sales consideration after divestment expenses S$159.922m (Note 25a); gain on divestment S$4.081m struck against disposal-group net assets S$155.841m (subsidiary/equity disposal, not the IP alone). Checked whether the disposal-group's investment-property carrying value (S$138,890,000 as at 29 Sep 2025, Note 25a, line 6396) could serve as the 'independent valuation' reference: it does NOT reconcile -- S$161.7m / S$138.89m - 1 = +16.4%, not the disclosed 3%, so this book/fair-value carrying figure is NOT the basis the 3% premium is measured against (also, reference_basis is 'valuation' not 'book_value' per the row's original tag, and IP carrying value is itself fair-value not a comparable independent-valuation-at-sale figure). Searched the full report for a per-property or per-deal independent valuation dollar amount: Portfolio Statement/valuation-by-type donut chart (lines 1955-1964) gives only aggregate percentages, not per-property dollar valuations; Note 25a gives only the disposal-group carrying value (not a fresh independent valuation); no SGX-announcement-style valuation table for CyberPearl/CyberVale appears anywhere in the AR. No absolute independent-valuation dollar figure for this deal is disclosed anywhere in the report -- only the 3% premium statement (line 2202) -- so reference_value/reference_currency are left null per SPEC section 3 (never balance by assumption / must be a defensible, disclosed reference figure). Buyer/counterparty not named in AR."
+    },
+    {
+      "property_name": "20.2% stake in three data centre developments (DC Chennai, DC ITPH, DC Navi Mumbai)",
+      "transaction_type": "partial_divestment",
+      "status": "completed",
+      "counterparty": "CapitaLand India Data Centre Fund Pte. Ltd. (CIDCF)",
+      "completed_date": "2026-02-27",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 13.7,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": "valuation",
+      "interest_pct": 0.202,
+      "deal_id": "cy6u:20_2pct_stake_three_data_centre_developments:divestment:2026",
+      "citation": "full.md line 2204 (Capital Recycling section, p35): 'Furthering this reconstitution, CLINT divested a 20.2% stake in its data centre portfolio to the CapitaLand India Data Centre Fund (CIDCF). This transaction, valued at approximately INR 7,021 million (S$99.7 million), involves three major data centres under development in Navi Mumbai, Hyderabad and Chennai. The partial divestment was executed at a 13.7% premium to their independent valuation. By unlocking value during the development lifecycle while retaining a majority 79.8% stake, CLINT preserves its exposure to India's digital infrastructure growth while securing a strategic partner and additional capital for its expansion pipeline.'",
+      "notes": "RE-VERIFIED directly against full.md (not just reused from prior extraction). SPA/subscription agreements executed 30 Dec 2025 (assets held for sale at 31 Dec 2025); completed 27 Feb 2026, after FYE. Divested 20.2% of ITPH DC, DSRPL and MVDC to CIDCF (a private fund, ~98% third-party investors / ~2% CLI affiliate; not treated as an interested-party transaction). Consideration INR 7,021m (~S$99.7m, line 2204) for the 20.2% stake. Searched the report for a dollar independent-valuation figure on either a 100% or 20.2% basis (portfolio valuation chart, Note 25/held-for-sale disclosures, investment-properties notes, forward-purchase section): none of these give a per-asset or per-deal valuation dollar figure for these three under-construction data centres specifically -- only the aggregate 'assets held for sale' / 'buildings under construction' portfolio-valuation percentages (lines 1955-1964), which are not attributable to this specific 20.2% tranche. No absolute independent-valuation dollar figure is disclosed for this deal anywhere in the AR (only the 13.7% premium statement, line 2204), so reference_value/reference_currency are left null per SPEC section 3. Per SPEC section 3, if a figure were later found it would need to be recorded ON THE 20.2% BASIS (matching the S$99.7m price), not the 100% asset value -- no such 20.2%-basis figure is printed. interest_pct = 0.202 is the stake TRANSACTED (post-divestment CLINT/CY6U retained stake 79.8%), per SPEC section 4. deal_id year uses 2026 (year the deal completed), not the FY2025 reporting year, per SPEC deal_id rule."
+    }
+  ]
+}

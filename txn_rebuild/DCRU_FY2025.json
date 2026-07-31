@@ -1,0 +1,29 @@
+{
+  "symbol": "DCRU",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/13_DCRU.SI_Digital-Core-REIT_FY2025/full.md",
+  "transactions": [
+    {
+      "property_name": "Digital Osaka 3",
+      "transaction_type": "acquisition",
+      "status": "completed",
+      "counterparty": "Mitsubishi Corporation",
+      "completed_date": "2025-03-25",
+
+      "purchase_price": 86700000,
+      "purchase_price_currency": "USD",
+
+      "gain_loss_pct": null,
+      "pct_unit": "percent",
+      "pct_source": null,
+      "reference_value": null,
+      "reference_currency": null,
+      "reference_basis": null,
+      "interest_pct": 0.20,
+      "deal_id": "dcru:digital_osaka_3:acquisition:2025",
+
+      "citation": "p1523: 'Digital Core REIT ... acquired a 20.0% interest from a third-party vendor, Mitsubishi Corporation, in a second fully-fitted freehold data centre located at Lot 2-1, 6-Chome, Ao-kita, Saito, Minoh-city, Osaka, Japan (Digital Osaka 3) ... for ¥13,000 million (approximately US$86.7 million)'; p6776 (Note): 'On 26 March 2025, the Group completed the acquisition of a 20.0% equity interest in Digital Osaka 3 TMK'",
+      "notes": "This is a fresh 20% interest in a NEW asset (Digital Osaka 3), unrelated to the Digital Osaka 2 step-acquisitions of FY2024 — interest_pct = 0.20 is the full stake acquired here (not an increment on an existing holding, unlike Digital Osaka 2). Completion date: announcement says 26 March 2025 (announced+completed same period), Note 8 disposal-effects table (p6776) also says 26 March 2025, but the investment-highlights card (p1406) says 'completed the acquisition on 25 March 2025' — both dates appear in the AR; 25 March 2025 used as completed_date (the more specific completion-date disclosure) with the discrepancy noted here. Purchase price funded by debt (JPY-denominated borrowings, p1327/p1377); no property-level valuation vs. price comparison disclosed as a percentage, so gain_loss_pct fields left null (this is an acquisition, and no independent-valuation premium/discount figure is stated in the report text scanned)."
+    }
+  ]
+}

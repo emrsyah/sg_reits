@@ -1,0 +1,26 @@
+{
+  "symbol": "N2IU",
+  "financial_year": 2023,
+  "source": "parsed_reports_datalab/29_N2IU.SI_Mapletree-Pan-Asia-Commercial-Trust_FY2022/full.md",
+  "transactions": [
+    {
+      "property_name": "Mapletree Anson",
+      "transaction_type": "divestment",
+      "status": "announced",
+      "counterparty": null,
+      "completed_date": null,
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 1.31,
+      "pct_unit": "percent",
+      "pct_source": "derived",
+      "reference_value": 765000000,
+      "reference_currency": "SGD",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "n2iu:mapletree_anson:divestment:2024",
+      "citation": "full.md line 699 (Letter to Unitholders): 'Finalised at a divestment consideration of S$775.0 million, this divestment secures a gain of S$10.0 million over Mapletree Anson's latest independent valuation and a premium of S$95.0 million to its acquisition price.'",
+      "notes": "BOTH a valuation premium and an original-purchase-price premium disclosed in one sentence, per assignment care note. Valuation basis recorded as primary row: gain S$10.0m over latest independent valuation of S$765.0m (by Jones Lang LaSalle, as at 31 Mar 2024, per Portfolio Statement p155 and footnote); derived pct = 10.0/765.0 = 1.31% (AR states the dollar gain, not a %, so pct_source=derived). ALSO DISCLOSED: a S$95.0 million premium to Mapletree Anson's acquisition (original purchase) price -- reference_basis=purchase_price, dollar premium disclosed but original acquisition price itself and derived % not stated in this AR passage, so not populated as a second row per spec (one row per deal; note the alternate basis here instead). Status is 'announced' not 'completed': this AR (source folder labelled '..._FY2022' in the repo's file system but containing the report for MPACT's fiscal year ended 31 March 2024, i.e. our declared FY2023) discloses the divestment as a subsequent/completing event at consideration S$775.0m with expected completion around July 2024 and approx. net proceeds S$762m (Letter to Unitholders p16); the divestment did not complete within the FYE 31 Mar 2024 reporting period covered by this AR. NOTE: the folder literally named '..._FY2023' in parsed_reports_datalab actually contains MPACT's LATER annual report (FYE 31 March 2025, MPACT FY24/25), in which this same deal is reported as COMPLETED on 31 July 2024 for S$775.0m with a net divestment gain of S$4.006m (a different, audited-in-arrears gain figure); that is a cross-year duplicate of this deal and should carry the SAME deal_id ('n2iu:mapletree_anson:divestment:2024', year the deal completed = 2024) when the FY2024-labelled REIT-year output is produced separately -- out of scope for this FY2023 assignment but flagged here per SPEC's cross-year-duplicate rule."
+    }
+  ]
+}

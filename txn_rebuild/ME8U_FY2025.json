@@ -1,0 +1,49 @@
+{
+  "symbol": "ME8U",
+  "financial_year": 2025,
+  "source": "parsed_reports_datalab/27_ME8U.SI_Mapletree-Industrial-Trust_FY2024/full.md",
+  "transactions": [
+    {
+      "property_name": "2775 Northwoods Parkway, Norcross (Georgia Data Centre)",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "Flexential LLC",
+      "completed_date": "2025-05-10",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 18.6,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 9950000,
+      "reference_currency": "USD",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "me8u:2775_northwoods_parkway_norcross:divestment:2025",
+      "sale_price": 11800000,
+      "sale_price_currency": "USD",
+      "citation": "p14 (Portfolio Rejuvenation table): 'Georgia Data Centre (United States) ... 2775 Northwoods Parkway, Norcross, Georgia | US$11.8 million | US$9.95 million | US$7.2 million | 10 May 2025' (columns: Sale Price | Valuation (as at 31 March 2025) | Purchase Price / Original Investment Cost | Completion Date); narrative (same page): 'The Georgia Data Centre was divested to Flexential LLC for US$11.8 million on 10 May 2025. This represented an 18.6% premium above the independent valuation of US$9.95 million as at 31 March 2025.'; footnote 3: 'The independent valuation of the Georgia Data Centre was conducted by JLL Valuation & Advisory Services, LLC, using the income capitalisation method and the sales comparison approach.'; Note 14 (financial statements): 'On 10 May 2025, the Group completed the divestment of 2775 Northwoods Parkway, Norcross, Georgia located in the United States at a sale price of US$11,800,000 (approximately S$15,300,000).'",
+      "notes": "Original purchase price / original investment cost disclosed as US$7.2 million (same table row) but not populated into purchase_price field since that field is reserved for acquisition-type rows per SPEC schema; retained here only in notes for reference: (11,800,000-7,200,000)/7,200,000*100 = +63.9% gain vs original cost, not used as gain_loss_pct since the AR's own disclosed premium (18.6%) is anchored to the independent valuation (reference_basis='valuation'), not to original cost -- per SPEC rule 5.1 (use disclosed % verbatim, pct_source='disclosed') and rule 2 (do not invent a different reference). 100% interest divested (whole property), interest_pct left null. Sale price row-level field (sale_price/sale_price_currency) retained alongside the five gain/loss fields for completeness, consistent with prior extraction."
+    },
+    {
+      "property_name": "The Strategy, The Synergy and Woodlands Central Cluster",
+      "transaction_type": "divestment",
+      "status": "completed",
+      "counterparty": "affiliates of Brookfield Asset Management",
+      "completed_date": "2025-08-15",
+      "purchase_price": null,
+      "purchase_price_currency": null,
+      "gain_loss_pct": 2.6,
+      "pct_unit": "percent",
+      "pct_source": "disclosed",
+      "reference_value": 521500000,
+      "reference_currency": "SGD",
+      "reference_basis": "valuation",
+      "interest_pct": null,
+      "deal_id": "me8u:strategy_synergy_woodlands_central_cluster:divestment:2025",
+      "sale_price": 535300000,
+      "sale_price_currency": "SGD",
+      "citation": "Narrative (Portfolio Rejuvenation section, same page as Georgia Data Centre): 'In Singapore, the portfolio divestment of three industrial properties – The Strategy, The Synergy and the Woodlands Central – was divested to the affiliates of Brookfield Asset Management for S$535.3 million on 15 August 2025. The divestment consideration of S$535.3 million represented a 2.6% premium over the independent valuations of the properties at S$521.5 million as at 31 March 2025, and a 22.1% increase from the original investment cost of the properties at S$438.4 million.'; table 'Portfolio Divestment – Two Business Park Buildings and Hi-Tech Building (Singapore)': 'The Strategy | 2 International Business Park | S$535.3 million | S$521.5 million | S$438.4 million | 15 August 2025' (The Synergy and Woodlands Central rows blank -- combined figures stated once against The Strategy row); footnote 4: 'The independent valuations of the properties were conducted by Savills Valuation and Professional Services (S) Pte Ltd, using the income capitalisation method and discounted cash flow analysis while using the direct comparison method as a check against its valuations.'; Note 14 (financial statements): 'On 15 August 2025, MIT completed the divestment of three industrial properties located in Singapore, namely, The Strategy, The Synergy and Woodlands Central Cluster at a sale price of S$535,300,000.'",
+      "notes": "AGGREGATE DEAL per SPEC rule: The Strategy, The Synergy and Woodlands Central were divested together as one portfolio transaction for a combined S$535.3m; deal-level figures (sale price, valuation, original investment cost) are disclosed only once, against The Strategy row, and apply to all three properties combined -- this single row represents the deal (property_name captures all three; if the schema requires one row per property, replicate this row three times with the same deal_id, reference_value=521,500,000, and gain_loss_pct=2.6, per SPEC's aggregate-deal handling). AR also discloses a SEPARATE originally-invested-cost-basis percentage: 22.1% increase over original investment cost of S$438.4 million -- this is NOT used as gain_loss_pct since reference_basis is set to 'valuation' (matching the AR's primary framing 'divestment consideration ... represented a 2.6% premium over the independent valuations'); the cost-basis figure is recorded here for completeness: (535,300,000-438,400,000)/438,400,000*100 = +22.1% (matches disclosed figure exactly), reference would be reference_basis='purchase_price', reference_value=438,400,000, SGD -- only one basis can be recorded per SPEC row shape, so 'valuation' was chosen as primary since it is cited first in the narrative. 100% interest divested, interest_pct left null."
+    }
+  ]
+}
