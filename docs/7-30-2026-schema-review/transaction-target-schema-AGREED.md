@@ -1,12 +1,36 @@
 # `sgx_reit_property_transaction` — AGREED target schema
 
-Decided 2026-07-31. Supersedes the "proposed target shape" in
-`property-transaction-verification.md` and the proposal in `transaction-gain-uniform-metric.md`.
+**Revised 2026-07-31 (v2).** Supersedes v1 of this document and the proposals in
+`property-transaction-verification.md` and `transaction-gain-uniform-metric.md`.
 
 The table answers two questions and nothing else:
 
 - **Acquisition** — when, and how much.
-- **Divestment** — how much was gained or lost, and against what.
+- **Divestment** — what it sold for, what that is measured against, and the gain.
+
+---
+
+## What changed from v1, and why
+
+v1 stored `gain_loss_pct` and derived the price from it. **That was backwards.**
+
+Checking all 138 divestments against the annual reports (`txn_rebuild/_COVERAGE_RESULTS.md`):
+
+| the AR discloses | count | % |
+|---|---|---|
+| basis value (valuation / book value / cost / SPV net assets) | 112/138 | **81%** |
+| sale price, per property | 106/138 | **77%** |
+| percentage | 53/138 | **38%** |
+| both pct + basis → price derivable | 45/138 | 33% |
+
+**A stated percentage exists on only 38% of divestments.** Deriving the price from it covers 33%;
+storing the price covers 77%.
+
+And it was circular: our rebuild had `gain_loss_pct` on 120/138 but only **53 disclosed** — the rest
+we computed as `(sale_price − basis_value) / basis_value`. Storing the percentage and dropping the
+price kept the calculation and discarded its source.
+
+**v2 stores what the reports disclose and derives what they don't.**
 
 ---
 
@@ -14,298 +38,246 @@ The table answers two questions and nothing else:
 
 ```sql
 sgx_reit_property_transaction (
-  symbol             text,
-  financial_year     smallint,
-  deal_id            text,     -- groups aggregate deals AND cross-year duplicates
-  transaction_type   text,     -- acquisition | divestment | partial_divestment
-  status             text,     -- completed | announced | terminated
-  property_name      text,
-  counterparty       text,
-  completed_date     date,     -- applies to BOTH directions
+  symbol            text,
+  financial_year    smallint,
+  deal_id           text,      -- groups multi-property deals AND cross-year duplicates
+  transaction_type  text,      -- acquisition | divestment | partial_divestment
+  status            text,      -- completed | announced | terminated
+  property_name     text,
+  counterparty      text,
+  completed_date    date,
 
   -- ACQUISITION
-  purchase_price     numeric,
+  purchase_price    numeric,
 
   -- DIVESTMENT
-  gain_loss_pct      numeric,  -- signed. UNIT PENDING — see "Percentage unit" note below
-  reference_value    numeric,  -- the number the pct is measured against
-  reference_basis    text,     -- valuation | book_value | purchase_price | net_identifiable_assets
-  interest_pct       numeric   -- stake TRANSACTED; null = 100%
+  sale_price        numeric,   -- PRIMARY. disclosed on 77%
+  basis_value       numeric,   -- what the price is measured against. disclosed on 81%
+  basis             text,      -- valuation | book_value | purchase_price | net_identifiable_assets
+  gain_loss_pct     numeric,   -- fallback for rows with no sale price. see below
+  interest_pct      numeric    -- stake transacted; null = 100%
 )
 ```
 
-### Dropped
-
-`sale_price`, `net_sale_proceeds`, `valuation`, `carrying_value`, `gain_on_divestment`,
-`gain_basis`, `announced_date`, `transaction_date`, `valuation_date`, `description`,
-`source_type`, `announcement_refs`.
+All money fields carry a currency tag. Percentages are fractions (0–1) per the database-wide
+normalisation — `0.042`, not `4.2`.
 
 ---
 
-## Percentage unit — SUPERSEDED 2026-07-31
-
-This document was written with `gain_loss_pct` in **percent** (8.4 = +8.4%), and every formula and
-worked example below uses `/ 100`.
-
-A later decision standardises **all** percentage columns across the database on **fraction (0–1)**.
-Under that rule `gain_loss_pct` becomes `0.084`, and the calculations become:
-
-```
-gain_or_loss   = reference_value × gain_loss_pct
-implied_price  = reference_value × (1 + gain_loss_pct)
-```
-
-The `/ 100` in the examples below must be dropped when that conversion is applied. Sequencing
-matters: **61 prod rows currently hold stale `gain_loss_pct` values** (see the P0 section), and
-`gain_loss_pct` is the one field deliberately excluded from `FRACTION_FIELDS` in
-`promote_final_to_prod.py:57`. Re-promote to clear the staleness *first*, then convert — otherwise
-the two defects are indistinguishable.
-
-See `meeting-recap-tracker.md` → "Percentage normalization" for the full column survey.
-
 ## The calculation
 
-*(shown in percent units; see the note above)*
+**Primary — use this wherever a sale price exists (101/138 rows have both):**
 
 ```
-gain_or_loss   = reference_value × gain_loss_pct / 100
-implied_price  = reference_value × (1 + gain_loss_pct / 100)
+gain          = sale_price − basis_value
+gain_loss_pct = gain / basis_value
 ```
 
-Three columns are arithmetically complete: the dollar gain and the price both fall out. A negative
-percentage is a loss; no separate column or sign convention is needed.
-
-### Invariant 1 — internal
-
-`gain_loss_pct`, `reference_value` and the transaction price are always on the **same interest
-basis**: the stake actually transacted. `interest_pct` records what that stake was.
-
-For a 20.2% divestment, `reference_value` is the **20.2% share** of the valuation, not the whole
-asset. Storing it at 100% would make `pct × reference_value` the gain on the entire building — a
-number the REIT never earned.
-
-### Invariant 2 — cross-table
-
-When `reference_basis = valuation`:
+**Fallback — only where `sale_price` is null but a percentage was disclosed (17 rows):**
 
 ```
-reference_value  ≈  sgx_reit_property.market_valuation × COALESCE(interest_pct, 1)
+gain       = basis_value × gain_loss_pct
+sale_price = basis_value × (1 + gain_loss_pct)
 ```
 
-compared against the property's **last appearance** in the property table (a divested property is
-removed in the year of sale). Two conditions must hold for the check to be fair: the valuation
-must be as at a comparable date (deal valuations are often mid-year, not 31 December), and
-`interest_pct` must be applied before comparing.
+### `gain_loss_pct` — what goes in it
 
-The tie-out target depends on the basis — which is the reason `reference_basis` exists:
+Store the **AR's stated percentage** where one exists. Leave null otherwise; the derived value is
+computed at read time from the two stored figures and labelled as derived.
 
-| `reference_basis` | ties against |
-|---|---|
-| `valuation` | `sgx_reit_property.market_valuation` (× interest) |
-| `book_value` | carrying amount; **not** the market valuation |
-| `purchase_price` | `sgx_reit_property.purchase_price` |
-| `net_identifiable_assets` | entity-level figure — **no property-table tie-out** |
+This keeps the column to disclosed facts only, so "the REIT said 8.4%" is never confused with "we
+calculated 8.35%". ME8U Tanglin Halt is the live case: sale 50,600,000 against book value
+46,700,000 derives to 8.35%, while the AR states *"an 8.4% premium above book value"*.
 
-### Invariant 3 — grouping
+---
 
-**Group by `deal_id` before aggregating.** Take `reference_value` and `gain_loss_pct` once per
-deal, not once per row.
+## Invariants
+
+**1 — same interest basis.** `sale_price`, `basis_value` and `gain_loss_pct` are all on the stake
+**actually transacted**. For a 20.2% divestment, `basis_value` is the 20.2% share, not the whole
+asset. `interest_pct` records the stake.
+
+**2 — cross-table.** Where `basis = valuation`:
+`basis_value ≈ sgx_reit_property.market_valuation × COALESCE(interest_pct, 1)`, compared against
+the property's **last appearance** (a divested property leaves the table in the year of sale).
+Valuation dates must be comparable — deal valuations are often mid-year.
+
+**3 — grouping.** **Group by `deal_id` before aggregating money.** Rows are per property; money is
+per deal.
+
+---
+
+## The basis, and why the label is mandatory
+
+| `basis` | rows | meaning |
+|---|---|---|
+| `valuation` | 93 | independent valuer, as at a date |
+| `book_value` | 21 | carrying amount on the balance sheet |
+| `purchase_price` | 4 | original acquisition cost — rare |
+| `net_identifiable_assets` | 2 | equity/SPV disposal |
+
+REITs choose the benchmark that flatters them. ME8U's report discloses **both** — valuation S$48.7m
+and book value S$46.7m — and quotes the premium against book value (8.4%) because it is the larger
+number; against valuation it is 3.9%. Two REITs can both say "20% premium" and mean different
+things, so the label is what makes the percentage comparable.
+
+`net_identifiable_assets` also removes the need for a separate structure flag: it *is* the signal
+that a row is an equity sale rather than an asset sale.
 
 ---
 
 ## Worked examples
 
-### A — ordinary asset sale
+### 1. Ordinary asset sale — the 73% case
 
-```
-deal_id                             symbol fy   property_name       basis      reference_value   pct
-j69u:changi_city_point:divest:2024  J69U   2024 Changi City Point   valuation      325,000,000  +4.00
-```
-
+J69U Changi City Point, FY2024:
 > *"total divestment consideration of $338.0 million ... after taking into account the independent
 > valuation of $325.0 million as at 31 July 2023"*
 
 ```
-gain  = 325,000,000 × 4.00/100 =  13,000,000
-price = 325,000,000 × 1.04     = 338,000,000
+sale_price     338,000,000
+basis_value    325,000,000    basis = valuation
+-> gain         13,000,000
+-> pct               +4.0%
 ```
 
-### B — aggregate deal (one sale, three properties)
+### 2. No sale price — fall back to the percentage
 
-A17U FY2024 sold 77 Logistics Place, 62 Sandstone Place and 92 Sandstone Place for one
-consideration of S$64.2m with one disclosed gain of S$628,000. The three rows survive and share a
-`deal_id`; the deal-level figures repeat across them.
+J91U FY2025 and HMN's WBF trio disclose a percentage and a valuation but no per-property price:
 
 ```
-deal_id                        symbol fy   property_name       basis       reference_value   pct
-a17u:qld_trio:divestment:2024  A17U   2024 77 Logistics Place  book_value      62,432,000   +1.01
-a17u:qld_trio:divestment:2024  A17U   2024 62 Sandstone Place  book_value      62,432,000   +1.01
-a17u:qld_trio:divestment:2024  A17U   2024 92 Sandstone Place  book_value      62,432,000   +1.01
+sale_price     null
+basis_value     86,782,609    basis = valuation
+gain_loss_pct       +15.0%    (AR-stated)
+-> gain         13,017,391
+-> sale_price   99,800,000    (derived, flag as derived)
 ```
 
-`reference_value` is the summed carrying amount (24,359,000 + 14,345,000 + 23,728,000), and:
+### 3. Partial stake
 
 ```
-gain = 62,432,000 × 1.01/100 = 628,000    ✓ "a gain amounting to $628,000 (A$710,000)"
+C38U CapitaSpring Serviced Residence, 45% JV interest
+  sale_price     126,000,000
+  basis_value    125,325,000    45% share, NOT the whole asset
+  interest_pct          0.45
 ```
 
-```sql
--- CORRECT
-SELECT deal_id, MAX(reference_value) * MAX(gain_loss_pct)/100 AS gain
-FROM sgx_reit_property_transaction GROUP BY deal_id;        -- 628,000
+### 4. Equity sale
 
--- WRONG (today's behaviour): SUM over rows -> 1,884,000, triple-counted
-```
-
-Per-property rows are retained deliberately: you can still ask *"did A17U divest 92 Sandstone
-Place?"*, you simply cannot ask what that one property sold for — the report never said. Note
-92 Sandstone's carrying value (23,728,000) **exceeds** its valuation (19,300,000), so a per-property
-calculation would show a loss on a deal that was an aggregate gain. This is why deal-level grouping
-is mandatory, not advisory.
-
-### C — cross-year duplicate
-
-The same deal reported in two consecutive annual reports. Identical `deal_id`, so the same grouping
-rule prevents the double-count.
-
-```
-deal_id                       symbol fy   property_name  basis      reference_value   pct
-m44u:century:divestment:2023  M44U   2023 Century        valuation      14,900,000   +15.38
-m44u:century:divestment:2023  M44U   2024 Century        valuation      14,900,000   +15.38
-```
-
-Affects M44U (×8), ODBU Albany, UD1U Il·lumina and TS0U Lippo Plaza. Today prod has no signal for
-this at all, so any multi-year sum of divestment proceeds is overstated.
-
-### D — equity sale, partial stake
-
-```
-deal_id                    symbol fy   property_name           basis      reference_value  pct   interest_pct
-cy6u:dc_stake:divest:2025  CY6U   2025 3 data centres (20.2%)  valuation     132,000,000  +3.00  0.202
-```
-
-> *"The sale was executed at a 3% premium to their independent valuations."*
-
-```
-gain = 132,000,000 × 3.00/100 = 3,960,000     -- on the 20.2% sold
-```
-
-Cross-check must be scaled: `132,000,000 ≈ market_valuation × 0.202`.
-
-### E — equity sale with no property-level valuation
-
-AU8U CapitaMall Shuangjing FY2024, structured as a subsidiary disposal:
-
+AU8U CapitaMall Shuangjing:
 > *"Gain on disposal of subsidiary S$7,309k... net identifiable assets divested S$130,471k"*
 
 ```
-basis = net_identifiable_assets   reference_value = 130,471,000   pct = +5.60
-gain  = 130,471,000 × 5.60/100 = 7,309,000    ✓ ties to the accounts
+sale_price     140,720,000
+basis_value    130,471,000    basis = net_identifiable_assets
+-> gain          10,249,000
 ```
 
-This is the only basis with **no** property-table tie-out, and the basis value is what signals that.
+The AR's own arithmetic: `140,720 − 130,471 + 2,940 (recycled FX reserves) = 7,309`. The FX term is
+why an equity-sale gain can never be reproduced from property figures alone — record it in notes.
+
+### 5. Multi-property deal
+
+```
+deal_id                        property             sale_price   basis_value
+a17u:qld_trio:divestment:2024  77 Logistics Place   64,200,000   62,432,000
+a17u:qld_trio:divestment:2024  62 Sandstone Place   64,200,000   62,432,000
+a17u:qld_trio:divestment:2024  92 Sandstone Place   64,200,000   62,432,000
+```
+
+One S$64.2m consideration and one S$628,000 gain for three properties; `basis_value` is the summed
+held-for-sale carrying amount (24,359,000 + 14,345,000 + 23,728,000).
+
+```sql
+-- money: group first
+SELECT deal_id, MAX(sale_price) - MAX(basis_value) AS gain
+FROM   sgx_reit_property_transaction GROUP BY deal_id;     -- 1,768,000, once
+
+-- WRONG: SUM over rows -> triple-counted
+```
+
+**Never compute a per-property percentage on these rows.** 92 Sandstone's own carrying value
+(23,728,000) exceeds its allocated valuation, so per property it shows a *loss* on a deal that was
+an aggregate *gain*.
+
+### 6. Cross-year duplicate — same rule, no extra logic
+
+```
+m44u:century:divestment:2023   M44U FY2023 Century
+m44u:century:divestment:2023   M44U FY2024 Century
+```
+
+One deal reported in two annual reports. Group by `deal_id` → counted once. Affects **11 deals /
+22 rows** (M44U ×several, ODBU Albany, UD1U Il·lumina, TS0U Lippo Plaza, N2IU Mapletree Anson,
+O5RU 3 Toh Tuck Link) — prod has no signal for this today, so any multi-year sum is overstated.
 
 ---
 
-## Convention decisions and their consequences
+## Aggregate deals — what is real and what is ours to fix
 
-### Equity sales are recorded on **property economics**, not accounting outcome
+**Genuine (no per-property figures exist anywhere in the AR):**
 
-Where an equity/subsidiary disposal discloses both, `gain_loss_pct` carries the **property-level**
-premium or discount. The REIT's booked P&L figure is **not** stored.
+| deal | note |
+|---|---|
+| HMN FY2024 WBF trio | one JPY10.7B / S$99.8M for 3 hotels |
+| M44U Chee Wah + Subang 1 | Subang 1's Sale Price and Valuation cells are **blank** |
 
-TS0U Lippo Plaza FY2025 is the worked case: the property sold at **+14.86%** over carrying value,
-while the accounts booked a **loss of S$26,427,000** driven by recycled FX translation reserves and
-tax. Both are correct; they measure different things.
+**Single rows already standing for many properties:** BUOU 28 German properties · C2PU MOB
+Specialist Clinics · C38U Bukit Panjang Plaza (90 of 91 strata lots) · ME8U Tanglin Halt Cluster ·
+ME8U Strategy/Synergy/Woodlands · P40U Wisma Atria (13 strata units, 7 buyers) · T82U Suntec strata
+(FY2024 and FY2025).
 
-**Accepted cost:** the reported P&L gain leaves the table. This is a real loss of information,
-recorded here so it is not discovered later. The reason for the choice is comparability — a column
-where half the rows mean *"premium over building value"* and half mean *"gain after FX recycling at
-the holding company"* is not comparable across REITs even though every individual value is right.
+**Our extraction errors — must be split before load:**
 
-Today this convention conflict is visible in prod as rows with a positive percentage beside a
-negative dollar gain (AU8U Yuhuating, ODBU Albany, XZL Detroit). Those are **not** sign bugs.
+- **J91U FY2025 (8 rows)** — every property has its own price and carrying value
+  (46A Tanjong Penjuru 113,500,000 / 111,498,000; 24 Jurong Port Road 68,000,000 / 66,792,000; …).
+  Only the 2.0% premium is deal-level. We wrongly collapsed it.
+- **SET FY2025 Slovakia (5 properties)** — the AR discloses per-property "Divestment Price" and
+  "Valuation" (p43). Only the €70.0m cash consideration and 3.5% premium are portfolio-level.
 
-### `net_identifiable_assets` replaces a separate structure flag
-
-An earlier proposal added `transaction_structure (asset_sale | equity_sale)`. It is unnecessary:
-the basis value already identifies an entity-level measurement. One fewer column.
-
-### `pct_source` (disclosed vs derived) stays in dev only
-
-A majority of these percentages are derived by us, not stated by the REIT — M44U's divestment table
-headers are literally **Property | Country | Sale Price | Valuation | Completion Date**, with no
-percentage column anywhere. Retain the distinction in dev/raw for provenance; prod does not carry it.
+**QA step (extraction-time, not query-time):** where per-property values exist, confirm they sum to
+the deal-level `basis_value`. A17U's trio passes (62,432,000). Skip the check where they don't exist
+— never invent a split.
 
 ---
 
-## Current data position
+## Known defects to fix before load
 
-Against this schema, using dev `_final` (which is correct — see the prod-staleness note below):
-
-```
-divestments                                      136
-  gain_loss_pct + a usable reference (ready)      91   (67%)
-  reference present, percentage missing           24   (18%)
-  neither                                         16   (12%)
-  percentage present, reference missing            5    (4%)
-```
-
-**This is a rebuild, not a column rename.** `reference_value` / `reference_basis` must be populated
-per row from the existing `valuation` / `carrying_value` / `gain_basis` columns, and ~39 of the 53
-rows currently holding a dollar gain do **not** reconcile to any formula. Those are resolved during
-the fill, not afterwards.
-
-Known genuine gap: **XZL FY2024's three Hyatt divestments.** The AR pools figures across hotels and
-across the ACRO-REIT/ACRO-BT sub-entities, never per property. Nothing to extract; those rows will
-carry a price only.
+1. **M44U FY2025 — 6 rows are 1000× too small.** The AR prints *"S$X.X million"*; 1 Genting Lane is
+   S$12.3 million, prod holds 12,300. Our extraction error, confirmed at source.
+2. **J91U and SET** — de-aggregate as above.
+3. **AJBU Kelsterbach FY2024** — the $70.6m sale price *is* disclosed, in the subsequent-events
+   note. We captured only the valuation.
+4. **J91U 86 & 88 International Road** — shows 41,409 / 42,500 among neighbours in the tens of
+   millions. Units or parse error; check.
+5. **HMN Courtyard North Ryde** — the AR gives **two different prices** for one deal (AUD109.0M /
+   S$95.6M in the Divestment Highlights p9, $48.6M in Note 8). Not our bug; needs a judgement call
+   on which the report intends.
+6. **ODBU Albany** — the FY2025 AR states *"4.2% Above Purchase Price"* but never prints the
+   purchase-price figure; our US$22.9m comes from the FY2024 report. Percentage and basis originate
+   in different documents — acceptable, but record it.
+7. **Prod `gain_loss_pct` is stale on 61 of 130 rows** (some ×10, some ÷100). Dev is correct
+   throughout. **Re-promote before converting to fractions**, or the two defects are
+   indistinguishable.
 
 ---
 
-## P0 — prod `gain_loss_pct` is stale (fix before anything else)
+## Dropped
 
-61 of 130 prod rows disagree with dev. The extraction, raw dev table and `_final` all hold the
-correct percent value; only prod is wrong.
+`net_sale_proceeds`, `valuation`, `carrying_value`, `gain_on_divestment`, `gain_basis`,
+`announced_date`, `transaction_date`, `valuation_date`, `description`, `source_type`,
+`announcement_refs`.
 
-```
-extracted JSON  ->  raw dev  ->  _final  ->  PROD
-     8.4             8.4         8.4        84.0    x10    ME8U Tanglin Halt
-     1.31            1.31        1.31       0.0131  x0.01  N2IU Mapletree Anson
-     0.3             0.3         0.3        3.0     x10    BTOU Peachtree
-
-SAME 69  |  x0.01  50  |  x10  11
-```
-
-`promote_final_to_prod.py:56` explicitly excludes `gain_loss_pct` from `FRACTION_FIELDS`
-(*"gain_loss_pct is intentionally NOT here"*), so the current pipeline does not cause this — these
-rows were written by an earlier pipeline and never re-promoted.
-
-**Re-running the promote script fixes 61 rows with no schema change and no re-extraction.** This is
-almost certainly the largest single cause of the table appearing untrustworthy, and it invalidates
-two earlier findings in `transaction-gain-uniform-metric.md`: the "two units in one column" split
-and the "confirmed 10x error on ME8U" were both prod staleness, not data defects.
+`valuation` and `carrying_value` are replaced by the single `basis_value` + `basis` pair.
+`gain_on_divestment` is derived. `transaction_date` never disagreed with `completed_date` on any of
+the 174 rows where both exist.
 
 ---
 
-## Action order
+## Open
 
-**Before the rebuild:**
-1. Re-promote `sgx_reit_property_transaction` to fix the 61 stale `gain_loss_pct` rows.
-2. Make the currency fallback in `build_final_tables.py` raise instead of defaulting to the row
-   currency (caused the DCRU 770,936 artifact).
-
-**Rebuild:**
-3. Populate `reference_value` + `reference_basis` on all 136 divestments from existing columns.
-4. Resolve the ~39 non-reconciling rows into: equity-sale (convention above), aggregate (deal_id),
-   or genuine extraction error (fix at source with citation).
-5. Backfill `deal_id` on aggregate deals (A17U trio, M44U Chee Wah + Subang 1, T82U and P40U strata)
-   — roughly 10 rows. Make slug generation deterministic first: TS0U Lippo Plaza currently has two
-   different `deal_id`s across years (`TS0U.SI:lippo_plaza:...` vs `ts0u.si:lippo_plaza_shanghai:...`)
-   and will not dedupe until that is fixed.
-6. Promote `deal_id` to prod.
-7. Source the 45 divestments missing a percentage or a reference.
-8. Drop the retired columns.
-
-**Gates to add:**
-9. Invariant 1 (internal) and Invariant 2 (cross-table) as sanity-scan checks, so this cannot rot
-   again silently.
+- Whether to store a `property_basis_value` (this property's own figure, alongside the deal-level
+  one) so the aggregate sum-check is a query rather than a manual step. Would populate on ~10–15
+  rows. Recommended but not agreed.
+- Promote `deal_id` to prod and make slug generation deterministic — TS0U Lippo Plaza currently has
+  two differently-cased slugs across years and will not dedupe until fixed.

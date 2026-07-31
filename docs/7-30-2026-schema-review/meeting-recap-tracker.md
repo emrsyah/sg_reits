@@ -40,19 +40,34 @@ Decisions are recorded in `findings-and-recommendations.md` § Conclusions.
   - [x] `transaction_price` − `sgx_reit_property.purchase_price`
   - [x] `transaction_price` − `carrying_value`
 
-> Resolved 2026-07-31 — target schema agreed in `transaction-target-schema-AGREED.md`.
-> Divestments are recorded as `gain_loss_pct` + `reference_value` + `reference_basis` +
+> Resolved 2026-07-31 — target schema agreed in `transaction-target-schema-AGREED.md` (v2).
+> Divestments are recorded as `sale_price` + `basis_value` + `basis` + `gain_loss_pct` +
 > `interest_pct` + `deal_id`; acquisitions as `purchase_price` + `completed_date`.
+> **v2 reversed the calculation direction**: sale_price is stored and the gain derived as
+> `sale_price - basis_value`. v1 stored the percentage and derived the price — wrong, because the
+> AR discloses a price on 77% of divestments but a percentage on only 38%
+> (see `txn_rebuild/_COVERAGE_RESULTS.md`).
 
 Open work arising:
 
-- [ ] P0 — re-promote to fix 61 stale `gain_loss_pct` rows in prod (dev is correct).
-- [ ] Populate `reference_value` / `reference_basis` across 136 divestments.
-- [ ] Resolve ~39 rows whose dollar gain reconciles to no formula.
-- [ ] Backfill `deal_id` on aggregate deals; make slug generation deterministic (TS0U Lippo Plaza).
+- [ ] P0 — re-promote to fix 61 stale `gain_loss_pct` rows in prod (dev is correct). Must run
+      BEFORE the 0–1 conversion, or the two defects are indistinguishable.
+- [ ] Populate `sale_price` / `basis_value` / `basis` across all 138 divestments from `txn_rebuild/`.
+- [ ] De-aggregate **J91U FY2025** (8 rows) and **SET FY2025 Slovakia** (5) — both have per-property
+      figures that our extraction wrongly collapsed to deal level.
+- [ ] Fix **M44U FY2025**: 6 rows are 1000× too small (AR prints "S$X.X million").
+- [ ] Backfill **AJBU Kelsterbach FY2024** sale price $70.6m (disclosed in subsequent-events note).
+- [ ] Check **J91U 86 & 88 International Road** — 41,409 / 42,500 among neighbours in the tens of
+      millions; units or parse error.
+- [ ] Decide **HMN Courtyard North Ryde** — the AR gives two prices for one deal (S$95.6M p9 vs
+      $48.6M Note 8). Not our bug.
+- [ ] Backfill `deal_id` on aggregate deals; make slug generation deterministic (TS0U Lippo Plaza
+      has two differently-cased slugs across years).
 - [ ] Promote `deal_id` to prod.
-- [ ] Source the 45 divestments missing a percentage or a reference.
-- [ ] Add Invariant 1 (internal) + Invariant 2 (cross-table vs `sgx_reit_property`) as gates.
+- [ ] Add the three invariants as gates (same interest basis · cross-table vs `sgx_reit_property` ·
+      group by `deal_id` before aggregating money).
+- [ ] Decide: add `property_basis_value` so the aggregate sum-check is a query, not a manual step
+      (~10–15 rows). Recommended, not agreed.
 - [ ] Confirm with Evelyn: reported P&L gain leaves the table on equity sales (see doc).
 
 ---
