@@ -1,4 +1,4 @@
-# Page map v2 (classify) — 04_BMOU.SI_BHG-Retail-REIT_FY2025
+# Page map v2 (classify) — 04_BMGU.SI_BHG-Retail-REIT_FY2025
 
 _Per table, pages RANKED by classify score (+ reporting unit). `top` = highest score; `top_audited_000` = highest-scoring page in '000 (the audited statement, vs marketing cards in millions)._
 _Routing only; confirm the page & extract from it, not from here._

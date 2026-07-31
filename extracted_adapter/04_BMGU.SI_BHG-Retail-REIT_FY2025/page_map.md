@@ -1,4 +1,4 @@
-# Page map — 04_BMOU.SI_BHG-Retail-REIT_FY2025
+# Page map — 04_BMGU.SI_BHG-Retail-REIT_FY2025
 
 _md_page = physical PDF page (parse_html / cockpit numbering)._  
 _Routing only: pick the authoritative page (e.g. Portfolio Statement in '000, not a card in millions) and extract from the page, not the summary._

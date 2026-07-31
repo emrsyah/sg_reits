@@ -1,6 +1,6 @@
 [
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Beijing Wanliu",
     "country": "China",
@@ -40,7 +40,7 @@
     "purchase_date": "2015-12-11"
   },
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Chengdu Konggang",
     "country": "China",
@@ -73,7 +73,7 @@
     "purchase_date": "2015-12-11"
   },
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Hefei Mengchenglu",
     "country": "China",
@@ -106,7 +106,7 @@
     "purchase_date": "2015-12-11"
   },
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Hefei Changjiangxilu",
     "country": "China",
@@ -139,7 +139,7 @@
     "purchase_date": null
   },
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Xining Huayuan",
     "country": "China",
@@ -185,7 +185,7 @@
     "purchase_date": "2015-12-11"
   },
   {
-    "symbol": "BMOU.SI",
+    "symbol": "BMGU.SI",
     "financial_year": 2025,
     "property_name": "Dalian Jinsanjiao",
     "country": "China",
