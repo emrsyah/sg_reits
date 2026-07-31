@@ -74,6 +74,36 @@ Open work arising:
 
 ## sgx_reit_performance
 
+> Verified 2026-07-31 against all 74 extracted rows and the 32 FY2025 ARs —
+> `performance-verification.md`. Rollforward passes **62/62, zero failures**. That pass corrects four
+> claims in `performance-column-brief.md` / `performance-dpu-brief.md`; read §0 of the verification
+> doc before relying on either brief.
+
+### P0 + the two data fixes (mechanical, no decision needed)
+
+- [ ] **P0 — `round(x, 6)` at `build_final_tables.py:30`.** Currently `round(float(value) *
+      tbl[ccy]['SGD'])` with no ndigits, so every per-unit figure in a foreign presentation currency
+      is integer-rounded. Destroys `CMOU dpu 0` (record says 0.25), `BTOU nav 0`, `MXNU nav 1`.
+      Rebuild and re-promote after fixing.
+      **Do not quote the SET example** from `performance-dpu-brief.md` §9 — *"record sums to 13.609
+      vs dpu stored 20.000"* compares EUR cents to SGD cents. SET's real DPS is 13.390 € cents
+      ≈ 19.55 SGD cents, so the true error is ~2%, not ~47%. Use CMOU or BTOU instead.
+
+- [ ] **FIX 1 — AJBU FY2025 `distribution_paid` → `268,051,000`** (currently `133,531,000`, the cash
+      figure). AR DPU note p144: *"Total amount available for distribution for the year | 268,051"*.
+      Cross-checks two ways: `332,893 − 64,842 = 268,051`, and `5.133 + 5.248 = 10.381` DPU.
+      Our own `_notes.json` says the cash line was *"deliberately NOT used"* for this field.
+
+- [ ] **FIX 2 — C2PU FY2025 `distribution_paid` → `99,781,000`** (currently `65,436,000`, the cash
+      figure). **Newly found 2026-07-31.** AR distribution statement gives *"Income for the year
+      available for distribution to Unitholders 99,781"* vs *"Distributions to Unitholders during the
+      year 65,436"*. Ties to DPU: `15.29% × 652,487,000 = 99,765,000`.
+
+  > Both are the same bug — `distribution_paid` overwritten with the cash value — and they are the
+  > **only two** such rows in all 74. The tell is `distribution_paid == distribution_cash_paid`
+  > **plus** a large `dpu × units` miss; equality alone is legitimate (A17U FY2025 has both at
+  > 669,086 because no timing straddle fell that year).
+
 - [ ] `number_of_shareholder_units` should never be NULL.
 - [ ] `distribution_record`: fix data structure. `period_start`, `period_end`, remove `ex_date`, `pay_date`.
 - [ ] Drop `distribution_period_months`.
@@ -83,6 +113,29 @@ Open work arising:
 - [ ] `adjusted_distributable_income` + `distributable_income_opening` = `net_distributable_income`
 - [ ] `net_distributable_income` − `distribution_paid` − `distributable_income_closing` = upcoming distribution amount
 - [ ] `distribution_pool_other_movements`: confirm that this is a standalone and how is this used.
+
+### Arising from the verification pass (2026-07-31)
+
+- [ ] ADD `weighted_average_units` — disclosed in **32/32** FY2025 ARs; moves the `dpu × units`
+      check from 48% to 70% within 2%. (Recommend yes.)
+- [ ] ADD `retention_basis` (`policy` | `discretionary`) — at least 6 REITs disclose retention, and
+      CY6U/XZL/CRPU/M1GU/OXMU retain *by policy* while C38U/HMN retain by decision. Publishing both
+      as a bare `amount_retained` reads as a signal when it isn't.
+- [ ] ADD `units_entitled_to_distribution` — O5RU, M1GU, UD1U and C2PU publish it outright; it is
+      the actual DPU denominator, and is neither year-end units nor the weighted average.
+- [ ] `units_basis` must be **per unit column, not per row** — AU8U and DCRU state WAU on an
+      issued-*and-issuable* basis while their year-end figure is issued-only. **WAU exceeds year-end
+      on 5 of 32 REITs**, so the briefs' "always the same direction" claim is false.
+- [ ] Rollforward gate must **explicitly skip CY6U, UD1U and XZL** — they have no pool
+      carry-forward at all, so opening/closing are legitimately null, not missing.
+- [ ] `dpu × units` gate: set the threshold at **20%, not 2%**. Both real bugs were >50% off; every
+      structural quirk is <12%. At 2% it raises 9 false alarms.
+- [ ] **BTOU is a second suspended REIT** alongside D5IU (no distribution FY2024 or FY2025). Its
+      *"Income Available for Distribution per Unit 1.44 US cents"* must NOT be stored as a DPU.
+- [ ] Flag **J91U's 10:1 unit consolidation (May 2025)** — FY2024 comparatives were restated, so
+      cross-year unit/DPU comparisons are meaningless without it.
+- [ ] Decide **CY6U's three per-unit figures** — available 8.74 / declared 7.87 / paid 7.17. We
+      store 7.87 (correct), but nothing records that a choice was made.
 
 ---
 
