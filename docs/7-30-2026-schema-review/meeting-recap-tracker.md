@@ -75,3 +75,42 @@ Open work arising:
 
 - [ ] Naming — make sure of what the data is and the naming.
 - [ ] Dropping some columns and restructuring/flattening some columns.
+- [ ] **All percentage columns to be normalized to 0–1 (fraction), not 0–100.**
+
+### Percentage normalization — current state (surveyed 2026-07-31)
+
+Prod is currently split. Already **fraction (0–1)**, no change needed:
+
+| column | n | range |
+|---|---|---|
+| `property.occupancy_rate` | 3016 | 0 – 1 |
+| `property.ownership` | 2757 | 0.1 – 1 |
+| `top_tenant.revenue_pct` | 749 | 0.001 – 0.934 |
+| `trade_mix.pct` | 509 | 0.001 – 1 |
+| `property_transaction.interest_pct` | 18 | 0.0051 – 1 |
+
+Still **percent (0–100)**, to convert:
+
+| column | n | range |
+|---|---|---|
+| `performance.aggregate_leverage` | 74 | 22.1 – 60.8 |
+| `performance.portfolio_occupancy` | 70 | 67.7 – 100 |
+| `performance.cost_of_debt` | 73 | 1.48 – 8.54 |
+| `property_transaction.gain_loss_pct` | 130 | see conflict note below |
+
+- [ ] Convert the four above; add them to `FRACTION_FIELDS` in `promote_final_to_prod.py:57`
+      (which already performs this transform for the first five).
+- [ ] `performance.portfolio_occupancy` (percent) and `property.occupancy_rate` (fraction) are the
+      **same concept stored two ways** — must end on one convention.
+
+**Do NOT convert — these are not percentages:**
+
+- `performance.interest_coverage_ratio` (1.36 – 10.1) — a **multiple**, never a percentage.
+- `performance.weighted_average_lease_expiry` / `weighted_average_debt_maturity` — **years**.
+- `performance.distribution_per_unit` (cents), `net_asset_value_per_unit` (dollars).
+
+**Conflict to resolve first:** `transaction-target-schema-AGREED.md` specifies `gain_loss_pct` in
+**percent** ("8.4 means +8.4%"). Under this rule it becomes `0.084`, and the worked examples in that
+document need updating. Note `gain_loss_pct` is currently the one field deliberately excluded from
+`FRACTION_FIELDS` — and 61 prod rows are stale (see that doc's P0), so **re-promote first, then
+convert**, or the two bugs will be impossible to tell apart.

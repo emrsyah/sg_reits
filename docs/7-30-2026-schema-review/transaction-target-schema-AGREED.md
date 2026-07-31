@@ -27,7 +27,7 @@ sgx_reit_property_transaction (
   purchase_price     numeric,
 
   -- DIVESTMENT
-  gain_loss_pct      numeric,  -- PERCENT, signed. 8.4 means +8.4%; -6.55 means a loss
+  gain_loss_pct      numeric,  -- signed. UNIT PENDING — see "Percentage unit" note below
   reference_value    numeric,  -- the number the pct is measured against
   reference_basis    text,     -- valuation | book_value | purchase_price | net_identifiable_assets
   interest_pct       numeric   -- stake TRANSACTED; null = 100%
@@ -42,7 +42,30 @@ sgx_reit_property_transaction (
 
 ---
 
+## Percentage unit — SUPERSEDED 2026-07-31
+
+This document was written with `gain_loss_pct` in **percent** (8.4 = +8.4%), and every formula and
+worked example below uses `/ 100`.
+
+A later decision standardises **all** percentage columns across the database on **fraction (0–1)**.
+Under that rule `gain_loss_pct` becomes `0.084`, and the calculations become:
+
+```
+gain_or_loss   = reference_value × gain_loss_pct
+implied_price  = reference_value × (1 + gain_loss_pct)
+```
+
+The `/ 100` in the examples below must be dropped when that conversion is applied. Sequencing
+matters: **61 prod rows currently hold stale `gain_loss_pct` values** (see the P0 section), and
+`gain_loss_pct` is the one field deliberately excluded from `FRACTION_FIELDS` in
+`promote_final_to_prod.py:57`. Re-promote to clear the staleness *first*, then convert — otherwise
+the two defects are indistinguishable.
+
+See `meeting-recap-tracker.md` → "Percentage normalization" for the full column survey.
+
 ## The calculation
+
+*(shown in percent units; see the note above)*
 
 ```
 gain_or_loss   = reference_value × gain_loss_pct / 100
