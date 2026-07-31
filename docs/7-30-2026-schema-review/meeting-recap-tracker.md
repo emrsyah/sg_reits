@@ -31,14 +31,29 @@ Decisions are recorded in `findings-and-recommendations.md` § Conclusions.
 ## sgx_property_transaction
 
 - [ ] Remove all status that is not "completed".
-- [ ] `transaction_type` and `transaction_price` (drop `purchase_price` and `sale_price`).
-- [ ] What is `interest_pct`? Drop if not important.
-- [ ] Drop `announced_date` and `transaction_date`. Don't see a value here.
-- [ ] `gain_basis` — is this necessary?
-- [ ] `valuation_date` and `carrying_value` should be sufficient. Drop `valuation`.
-- [ ] Where is `gain_on_divestment` be derived from?
-  - [ ] `transaction_price` − `sgx_reit_property.purchase_price`
-  - [ ] `transaction_price` − `carrying_value`
+- [~] `transaction_type` and `transaction_price` (drop `purchase_price` and `sale_price`).
+- [~] What is `interest_pct`? Drop if not important.
+- [~] Drop `announced_date` and `transaction_date`. Don't see a value here.
+- [~] `gain_basis` — is this necessary?
+- [~] `valuation_date` and `carrying_value` should be sufficient. Drop `valuation`.
+- [~] Where is `gain_on_divestment` be derived from?
+  - [x] `transaction_price` − `sgx_reit_property.purchase_price`
+  - [x] `transaction_price` − `carrying_value`
+
+> Resolved 2026-07-31 — target schema agreed in `transaction-target-schema-AGREED.md`.
+> Divestments are recorded as `gain_loss_pct` + `reference_value` + `reference_basis` +
+> `interest_pct` + `deal_id`; acquisitions as `purchase_price` + `completed_date`.
+
+Open work arising:
+
+- [ ] P0 — re-promote to fix 61 stale `gain_loss_pct` rows in prod (dev is correct).
+- [ ] Populate `reference_value` / `reference_basis` across 136 divestments.
+- [ ] Resolve ~39 rows whose dollar gain reconciles to no formula.
+- [ ] Backfill `deal_id` on aggregate deals; make slug generation deterministic (TS0U Lippo Plaza).
+- [ ] Promote `deal_id` to prod.
+- [ ] Source the 45 divestments missing a percentage or a reference.
+- [ ] Add Invariant 1 (internal) + Invariant 2 (cross-table vs `sgx_reit_property`) as gates.
+- [ ] Confirm with Evelyn: reported P&L gain leaves the table on equity sales (see doc).
 
 ---
 
