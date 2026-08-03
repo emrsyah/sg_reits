@@ -10,6 +10,24 @@ from normalize_locations import normalize_locations  # canonical country cleanup
 load_dotenv('.env')
 
 DRY_RUN = ('--write' not in sys.argv)
+
+# --only sgx_reit_property_final[,...]  -> rebuild just those _final tables, leave the rest alone.
+# The script is a flat sequence of drop/create/load sections; without this every run drops and
+# recreates all seven tables even when one table's source rows changed. Filtering keeps the
+# blast radius equal to the change.
+ONLY = set()
+for _i, _a in enumerate(sys.argv):
+    if _a == '--only' and _i + 1 < len(sys.argv):
+        ONLY = {t.strip() for t in sys.argv[_i + 1].split(',') if t.strip()}
+def selected(name):
+    return not ONLY or name in ONLY
+
+# P1: a per-figure currency tag that is missing falls back to the row-level `currency`. That
+# fallback is usually RIGHT (a JPY row's untagged sale price is JPY), so it must not hard-fail --
+# but it was silent, which produced the DCRU 770,936 artifact. Every inheritance is now recorded
+# and printed; --strict-currency turns them into an abort once the tags have been backfilled.
+STRICT_CURRENCY = ('--strict-currency' in sys.argv)
+inherited_ccy = []
 SQFT_TO_SQM = 0.092903
 conn = psycopg2.connect(os.environ['SUPABASE_CONNECTION_STRING']); conn.autocommit = False
 cur = conn.cursor()
@@ -63,12 +81,15 @@ def conv_blob(blob, ccy, date, kind):
 
 report = {}
 def ddl_drop_create(name, cols_sql):
-    if DRY_RUN: return
+    if DRY_RUN or not selected(name): return
     cur.execute(f'drop table if exists public.{name}')
     cur.execute(f'create table public.{name} ({cols_sql})')
 
 def load(name, cols, rows):
     report[name] = len(rows)
+    if not selected(name):
+        print(f'[SKIP] {name}: not in --only, left untouched')
+        return
     if DRY_RUN:
         print(f'[DRY] {name}: {len(rows)} rows; sample:', rows[0] if rows else None)
         return
@@ -174,12 +195,13 @@ load('sgx_reit_financial_final', ['symbol','financial_year','income_stmt_metrics
 # ===== property_final =====
 cur.execute("""select symbol,financial_year,property_name,country,category,address,ownership,
  market_valuation,purchase_price,valuation_date,net_property_income,net_property_income_currency,
- gross_revenue,gross_revenue_currency,occupancy_rate,gla,nla,gfa,area_unit,land_tenure,effective_date,
+ gross_revenue,gross_revenue_currency,occupancy_rate,nla,gfa,area_unit,land_tenure,effective_date,
  lease_term_years,lease_expiry_date,status,purchase_date,
  coordinate_latitude,coordinate_longitude,coordinate_source from sgx_reit_property""")
 prows=[]
 for r in cur.fetchall():
-    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,gla,nla,gfa,au,lt,eff,lty,lexp,st,pdate,
+    # gla dropped 2026-08-03 (schema review): 9 surviving values moved into nla, column removed.
+    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,nla,gfa,au,lt,eff,lty,lexp,st,pdate,
      clat,clng,csrc)=r
     d=fy_end(sym,fy)
     # Rule A: mv, pp already SGD. Rule B: gross/npi in-tag.
@@ -189,20 +211,20 @@ for r in cur.fetchall():
     prows.append((sym,fy,pn,ctry,cat,addr, float(own) if own is not None else None,
       float(mv) if mv is not None else None, float(pp) if pp is not None else None, vdate,
       to_sgd(npi,npic,d,f'prop.npi.{sym}:{pn}'), to_sgd(gr,grc,d,f'prop.gr.{sym}:{pn}'),
-      float(occ) if occ is not None else None, area(gla), area(nla), area(gfa),
+      float(occ) if occ is not None else None, area(nla), area(gfa),
       lt, eff, float(lty) if lty is not None else None, lexp, st, pdate,
       # coordinates: pass-through (not currency/percent, no transform)
       float(clat) if clat is not None else None, float(clng) if clng is not None else None, csrc))
 ddl_drop_create('sgx_reit_property_final',
   'symbol text, financial_year smallint, property_name text, country text, category text, address text, '
   'ownership numeric, market_valuation numeric, purchase_price numeric, valuation_date date, '
-  'net_property_income numeric, gross_revenue numeric, occupancy_rate numeric, gross_lettable_area numeric, '
+  'net_property_income numeric, gross_revenue numeric, occupancy_rate numeric, '
   'net_lettable_area numeric, gross_floor_area numeric, land_tenure text, effective_date text, '
   'lease_term_years numeric, lease_expiry_date text, status text, purchase_date text, '
   'coordinate_latitude double precision, coordinate_longitude double precision, coordinate_source text')
 load('sgx_reit_property_final', ['symbol','financial_year','property_name','country','category','address','ownership',
  'market_valuation','purchase_price','valuation_date','net_property_income','gross_revenue','occupancy_rate',
- 'gross_lettable_area','net_lettable_area','gross_floor_area','land_tenure','effective_date','lease_term_years',
+ 'net_lettable_area','gross_floor_area','land_tenure','effective_date','lease_term_years',
  'lease_expiry_date','status','purchase_date',
  'coordinate_latitude','coordinate_longitude','coordinate_source'], prows)
 
@@ -220,48 +242,68 @@ ddl_drop_create('sgx_reit_trade_mix_final',
 load('sgx_reit_trade_mix_final', ['symbol','financial_year','category','pct','pct_basis'], tm)
 
 # ===== property_transaction_final =====
-TXN_MONEY = [('purchase_price','purchase_price_currency','transaction_date'),
+TXN_MONEY = [('purchase_price','purchase_price_currency','completed_date'),
  ('sale_price','sale_price_currency','completed_date'),
- ('net_sale_proceeds','net_sale_proceeds_currency','completed_date'),
- ('carrying_value','carrying_value_currency','completed_date'),
- ('gain_on_divestment','gain_currency','completed_date'),
- ('valuation','valuation_currency','valuation_date')]
-cur.execute("""select symbol,financial_year,deal_id,transaction_type,status,property_name,description,
- counterparty,interest_pct,announced_date,completed_date,transaction_date,gain_loss_pct,gain_basis,
- valuation_date,source_type,announcement_refs,
- purchase_price,purchase_price_currency,sale_price,sale_price_currency,net_sale_proceeds,net_sale_proceeds_currency,
- carrying_value,carrying_value_currency,gain_on_divestment,gain_currency,valuation,valuation_currency,currency
+ ('basis_value','basis_currency','completed_date')]
+# v2 schema (2026-08-03). carrying_value / valuation / gain_on_divestment / gain_basis /
+# net_sale_proceeds / announced_date / transaction_date / valuation_date are DROPPED.
+# gain_loss_pct is NOT stored -- it derives from sale_price and basis_value at read time.
+cur.execute("""select symbol,financial_year,deal_id,transaction_type,status,property_name,
+ counterparty,interest_pct,completed_date,
+ purchase_price,purchase_price_currency,purchase_price_scope,
+ sale_price,sale_price_currency,sale_price_scope,
+ basis_value,basis_currency,basis,
+ figures_source,basis_mismatch,source_type,currency
  from sgx_reit_property_transaction""")
+FLDS=['symbol','financial_year','deal_id','transaction_type','status','property_name',
+ 'counterparty','interest_pct','completed_date','purchase_price','purchase_price_currency',
+ 'purchase_price_scope','sale_price','sale_price_currency','sale_price_scope',
+ 'basis_value','basis_currency','basis','figures_source','basis_mismatch','source_type','currency']
 trows=[]
 for r in cur.fetchall():
-    d=dict(zip(['symbol','financial_year','deal_id','transaction_type','status','property_name','description',
-     'counterparty','interest_pct','announced_date','completed_date','transaction_date','gain_loss_pct','gain_basis',
-     'valuation_date','source_type','announcement_refs','purchase_price','purchase_price_currency','sale_price',
-     'sale_price_currency','net_sale_proceeds','net_sale_proceeds_currency','carrying_value','carrying_value_currency',
-     'gain_on_divestment','gain_currency','valuation','valuation_currency','currency'], r))
+    d=dict(zip(FLDS,r))
     conv={}
     for fld,ccol,dcol in TXN_MONEY:
-        ccy=d.get(ccol) or d.get('currency')
-        rdate=d.get(dcol) or d.get('transaction_date') or d.get('completed_date') or d.get('announced_date') or fy_end(d['symbol'],d['financial_year'])
+        ccy=d.get(ccol)
+        if ccy is None and d.get(fld) is not None:
+            ccy=d.get('currency')          # P1: inherit, but never silently -- record it
+            if ccy not in (None,'','SGD'):
+                inherited_ccy.append((d['symbol'], d['financial_year'], d.get('property_name'), fld, ccy))
+        rdate=d.get(dcol) or d.get('completed_date') or fy_end(d['symbol'],d['financial_year'])
         conv[fld]=to_sgd(d.get(fld), ccy, rdate, f'txn.{fld}.{d["symbol"]}:{d.get("property_name")}')
-    trows.append((d['symbol'],d['financial_year'],d['deal_id'],d['transaction_type'],d['status'],d['property_name'],
-      d['description'],d['counterparty'],
+    # gain derived AFTER both sides are in SGD, so one rate is applied to both
+    gain = (conv['sale_price'] - conv['basis_value']) if (conv['sale_price'] is not None
+             and conv['basis_value'] is not None and not d.get('basis_mismatch')) else None
+    pct  = (gain / conv['basis_value'] * 100) if (gain is not None and conv['basis_value']) else None
+    trows.append((d['symbol'],d['financial_year'],d['deal_id'],d['transaction_type'],d['status'],
+      d['property_name'],d['counterparty'],
       float(d['interest_pct']) if d['interest_pct'] is not None else None,
-      d['announced_date'],d['completed_date'],d['transaction_date'],
-      float(d['gain_loss_pct']) if d['gain_loss_pct'] is not None else None, d['gain_basis'],d['valuation_date'],
-      d['source_type'], Json(d['announcement_refs']) if d['announcement_refs'] is not None else None,
-      conv['purchase_price'],conv['sale_price'],conv['net_sale_proceeds'],conv['carrying_value'],
-      conv['gain_on_divestment'],conv['valuation']))
+      d['completed_date'],
+      conv['purchase_price'],d['purchase_price_scope'],
+      conv['sale_price'],d['sale_price_scope'],
+      conv['basis_value'],d['basis'],
+      round(gain,2) if gain is not None else None,
+      round(pct,4) if pct is not None else None,
+      d['figures_source'],d['basis_mismatch']))
 ddl_drop_create('sgx_reit_property_transaction_final',
-  'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, property_name text, '
-  'description text, counterparty text, interest_pct numeric, announced_date text, completed_date text, '
-  'transaction_date date, gain_loss_pct numeric, gain_basis text, valuation_date text, source_type text, '
-  'announcement_refs jsonb, purchase_price numeric, sale_price numeric, net_sale_proceeds numeric, '
-  'carrying_value numeric, gain_on_divestment numeric, valuation numeric')
-load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type','status','property_name',
- 'description','counterparty','interest_pct','announced_date','completed_date','transaction_date','gain_loss_pct',
- 'gain_basis','valuation_date','source_type','announcement_refs','purchase_price','sale_price','net_sale_proceeds',
- 'carrying_value','gain_on_divestment','valuation'], trows)
+  'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, '
+  'property_name text, counterparty text, interest_pct numeric, completed_date text, '
+  'purchase_price numeric, purchase_price_scope text, sale_price numeric, sale_price_scope text, '
+  'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric, '
+  'figures_source text, basis_mismatch text')
+load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type',
+ 'status','property_name','counterparty','interest_pct','completed_date','purchase_price',
+ 'purchase_price_scope','sale_price','sale_price_scope','basis_value','basis','gain','gain_loss_pct',
+ 'figures_source','basis_mismatch'], trows)
+
+if inherited_ccy:
+    print(f'\n!! P1: {len(inherited_ccy)} money figures had NO per-figure currency tag and inherited a')
+    print('   non-SGD row currency. Each was converted on that assumption -- verify against the AR:')
+    for sym, fy, pname, fld, ccy in inherited_ccy:
+        print(f'     {sym:9s} FY{fy}  {fld:20s} {ccy}  {str(pname)[:52]}')
+    if STRICT_CURRENCY:
+        conn.rollback()
+        raise SystemExit('ABORTED (--strict-currency): backfill the per-figure currency tags above.')
 
 if DRY_RUN:
     print('\n[DRY RUN] no tables written. Row counts:', report)

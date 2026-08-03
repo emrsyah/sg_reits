@@ -131,10 +131,18 @@ def main():
 
     if args.check_pipeline:
         src = open(os.path.join(ROOT, "scripts", "db", "build_final_tables.py"), encoding="utf-8").read()
-        print("build_final_tables.py references to columns v2 DROPS:")
-        for c in DROP:
-            if c in src:
-                print(f"   {c:28s} referenced -> must be removed before the migration runs")
+        # only the sgx_reit_property_transaction SELECT matters -- these names also exist
+        # on sgx_reit_property, and appear in comments
+        i = src.find("from sgx_reit_property_transaction")
+        blk = src[max(0, i - 1400):i] if i >= 0 else ""
+        blk = chr(10).join(l for l in blk.splitlines() if not l.strip().startswith("#"))
+        bad = [c for c in DROP if c in blk]
+        print("build_final_tables.py — columns v2 DROPS still SELECTed from the transaction table:")
+        if bad:
+            for c in bad:
+                print(f"   {c:28s} -> must be removed before the migration runs")
+        else:
+            print("   none — the transaction block is on the v2 schema")
         print("\nThe transaction block needs rewriting to:")
         print("   select ... sale_price, sale_price_currency, basis_value, basis_currency, basis ...")
         print("   TXN_MONEY = [('purchase_price','purchase_price_currency','completed_date'),")

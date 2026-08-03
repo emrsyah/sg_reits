@@ -283,7 +283,10 @@ def load_one(cur, dirpath):
             (_ccy(r.get("gross_revenue_currency") or r.get("currency"))
              if r.get("gross_revenue") is not None else None),
             r.get("npi_pct"), r.get("occupancy_rate"),
-            J(r.get("major_tenants") or []), r.get("gla"), r.get("nla"), r.get("gfa"), r.get("area_unit"),
+            # gla column dropped 2026-08-03 (schema review). Extraction JSON may still carry a
+            # gla key, so fold it into nla rather than discarding it; nla wins if both are present.
+            J(r.get("major_tenants") or []), (r.get("nla") if r.get("nla") is not None else r.get("gla")),
+            r.get("gfa"), r.get("area_unit"),
             r.get("land_tenure"), r.get("effective_date"), r.get("lease_term_years"),
             r.get("lease_expiry_date"), r.get("tenure_raw"), r.get("lease_terms_flags"), r.get("status") or "active",
             J(r.get("flags") or []), r.get("source_page"),
@@ -293,7 +296,7 @@ def load_one(cur, dirpath):
          "purchase_price_local","purchase_price_local_currency",
          "valuation_date","currency","original_currency","original_value","market_valuation_currency",
          "net_property_income","net_property_income_currency","gross_revenue","gross_revenue_currency","npi_pct","occupancy_rate","major_tenants",
-         "gla","nla","gfa","area_unit","land_tenure","effective_date","lease_term_years",
+         "nla","gfa","area_unit","land_tenure","effective_date","lease_term_years",
          "lease_expiry_date","tenure_raw","lease_terms_flags","status","flags","source_page","purchase_date"])
 
     n_tt = reload_list("sgx_reit_top_tenant", "top_tenants.json",
