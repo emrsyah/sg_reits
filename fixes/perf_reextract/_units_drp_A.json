@@ -1,0 +1,557 @@
+[
+ {
+  "symbol": "XZL",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 1180,
+  "units_in_issue": 580103000,
+  "units_in_issue_line": 4799,
+  "units_scale": "thousands",
+  "units_to_be_issued": 0,
+  "units_to_be_issued_line": 4802,
+  "units_to_be_issued_comprises": [
+   "manager management fees"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At 31 December | <b>580,103</b> | 578,212 | <b>580,103</b> | 578,212 | <b>580,103</b> | 578,212 |",
+   "units_to_be_issued": "| At 31 December | - | 1,891 | - | 1,891 | - | 1,891 |",
+   "paid_in_units": "The management fee is payable in the form of cash and/or Stapled Securities as the Managers may elect, and in such proportion and for such period as may be determined by the Managers. For financial year ended 31 December 2024, the management fees were or would be paid in cash.",
+   "fy_end_date": "the annual report of ACRO-HT for the financial year ended 31 December 2024"
+  },
+  "flags": [
+   "Note 15 'STAPLED SECURITIES IN ISSUE AND TO BE ISSUED' splits both components; 2024 to-be-issued is an explicit nil ('-' vs 1,891 in 2023).",
+   "No Distribution Reinvestment Plan / scrip distribution disclosed anywhere in the AR; the 1,891,000 securities issued in March 2024 were manager fee settlement, not distribution."
+  ]
+ },
+ {
+  "symbol": "XZL",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 1241,
+  "units_in_issue": 580103000,
+  "units_in_issue_line": 4755,
+  "units_scale": "thousands",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": false,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| <b>Stapled Securities issued and to be issued as at 1 January/ 31 December (Note 16)</b> | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 |",
+   "units_to_be_issued": "| <b>Stapled Securities issued and to be issued as at 1 January/ 31 December (Note 16)</b> | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 |",
+   "paid_in_units": "The management fee is payable in the form of cash and/or Stapled Securities as the Managers may elect, and in such proportion and for such period as may be determined by the Managers. For financial year ended 31 December 2025, the management fees were or would be paid in cash.",
+   "fy_end_date": "the annual report of ACRO-HT for the financial year ended 31 December 2025"
+  },
+  "flags": [
+   "FY2025 Note 15 collapses to a single combined 'issued and to be issued' line of 580,103 ('000) with no movement table; issued-only is not separately printed, so units_in_issue is the combined figure.",
+   "FY2024 comparative in the FY2024 AR shows to-be-issued nil and issued 580,103, so the combined 580,103 is consistent with issued-only, but not independently disclosed in FY2025.",
+   "No DRP / scrip distribution disclosed."
+  ]
+ },
+ {
+  "symbol": "O5RU",
+  "financial_year": 2024,
+  "fy_end_date": "2025-03-31",
+  "fy_end_date_line": 6187,
+  "units_in_issue": 813994000,
+  "units_in_issue_line": 8266,
+  "units_scale": "thousands",
+  "units_to_be_issued": 2622000,
+  "units_to_be_issued_line": 8268,
+  "units_to_be_issued_comprises": [
+   "Manager's management fees",
+   "Manager's performance fees"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": 7545,
+  "quotes": {
+   "units_in_issue": "| Units in issue at end of the year | 813,994 | 810,564 |",
+   "units_to_be_issued": "| Units to be issued relating to: |  |  | / | Manager's management fees | 900 | 391 | / | Manager's performance fees | 1,722 | \u2013 | / | Total Units in issue and to be issued at end of the year | 816,616 | 810,955 |",
+   "paid_in_units": "The Manager has also implemented a Distribution Reinvestment Plan (\"DRP\"), which provides eligible Unitholders with the option to elect to receive Units in lieu of the cash amount of any distribution",
+   "fy_end_date": "Year ended 31 March 2025"
+  },
+  "flags": [
+   "Directory is labelled FY2024 but the report is AA REIT's FY2025 annual report (financial year ended 31 March 2025); fy_end_date reflects the report's own stated year end.",
+   "units_to_be_issued = sum of the two separately printed components (900 + 1,722 thousand); no subtraction used.",
+   "No DRP/scrip units issued in respect of FY2025 distributions: the statement of movements in Unitholders' funds (line 6513 onward) lists issuances only for Manager's management fees, property/lease management fees and Manager's performance fees, with no distribution-reinvestment line. AR does not state an explicit nil, so paid_in_units is null."
+  ]
+ },
+ {
+  "symbol": "O5RU",
+  "financial_year": 2025,
+  "fy_end_date": "2026-03-31",
+  "fy_end_date_line": 6626,
+  "units_in_issue": 818644000,
+  "units_in_issue_line": 8810,
+  "units_scale": "thousands",
+  "units_to_be_issued": 1917000,
+  "units_to_be_issued_line": 8812,
+  "units_to_be_issued_comprises": [
+   "Manager's management fees",
+   "Manager's performance fees"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": 8094,
+  "quotes": {
+   "units_in_issue": "| Units in issue at end of the year | 818,644 | 813,994 |",
+   "units_to_be_issued": "| Units to be issued relating to: |  |  | / | Manager's management fees | 285 | 900 | / | Manager's performance fees | 1,632 | 1,722 | / | Total Units in issue and to be issued at end of the year | 820,561 | 816,616 |",
+   "paid_in_units": "The Manager has also implemented a Distribution Reinvestment Plan (\"DRP\"), which provides eligible Unitholders with the option to elect to receive Units in lieu of the cash amount of any distribution",
+   "fy_end_date": "Year ended 31 March 2026"
+  },
+  "flags": [
+   "Directory is labelled FY2025 but the report is AA REIT's FY2026 annual report (financial year ended 31 March 2026); fy_end_date reflects the report's own stated year end.",
+   "units_to_be_issued = sum of the two separately printed components (285 + 1,632 thousand); no subtraction used.",
+   "No DRP/scrip units issued in respect of FY2026 distributions: statement of movements in Unitholders' funds (line 6969 onward) shows issuances only for Manager's management fees and performance fees. Subsequent-event note (line 9869) says the Q4 FY2026 distribution may be paid in cash or new Units under the DRP, but that is after the balance date. paid_in_units null."
+  ]
+ },
+ {
+  "symbol": "M1GU",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 5207,
+  "units_in_issue": 1125055000,
+  "units_in_issue_line": 6201,
+  "units_scale": "units",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": false,
+  "paid_in_units": 4880000,
+  "paid_in_units_units": 13266912,
+  "paid_in_units_line": 6219,
+  "quotes": {
+   "units_in_issue": "| At end of the year | <u>1,125,055</u> | <u>1,111,788</u> |  (Note 11. UNITS IN ISSUE, table in '000)",
+   "units_to_be_issued": "Note 11 UNITS IN ISSUE discloses only issued Units (beginning of year, units issued via DRP, end of year); no \"units to be issued\" line is disclosed.",
+   "paid_in_units": "13,266,912 new Units (2023: 15,667,005 new Units) amounting to approximately \\$4,880,000 at issue prices of \\$0.3678 per Unit (2023: approximately \\$6,427,000 at average issue prices of \\$0.4102 per Unit) in lieu of distribution payments pursuant to the Distribution Reinvestment Plan",
+   "fy_end_date": "The financial statements of the Group as at and for the year ended 31 December 2024 comprise the Trust and its subsidiaries"
+  },
+  "flags": [
+   "units_in_issue reported in '000 in source (1,125,055) and scaled to absolute units",
+   "no units-to-be-issued disclosure anywhere in report; management fees paid in cash post-internalisation"
+  ]
+ },
+ {
+  "symbol": "M1GU",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 4613,
+  "units_in_issue": 1125055000,
+  "units_in_issue_line": 5542,
+  "units_scale": "units",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": false,
+  "paid_in_units": 0,
+  "paid_in_units_units": 0,
+  "paid_in_units_line": 5560,
+  "quotes": {
+   "units_in_issue": "| At end of the year | <b>1,125,055</b> | 1,125,055 |",
+   "units_to_be_issued": "Note 12 UNITS IN ISSUE discloses only issued Units (beginning of year, units issued, end of year); no \"units to be issued\" line is disclosed.",
+   "paid_in_units": "No new Units (2024: 13,266,912 new Units) are issued (2024: amounting to approximately \\$4,880,000 at issue prices of \\$0.3678 per Unit) in lieu of distribution payments pursuant to the Distribution Reinvestment Plan",
+   "fy_end_date": "The financial statements of the Group as at and for the year ended 31 December 2025 comprise the Trust and its subsidiaries"
+  },
+  "flags": [
+   "units_in_issue reported in '000 in source (1,125,055) and scaled to absolute units",
+   "paid_in_units = 0 with explicit nil evidence (also line 4416: \"No units were issued for the year ended 31 December 2025\")",
+   "SGX-style table at line 993 confirms 1,125,055,242 units in issue (exact count); note-11/12 rounded '000 figure used per issued-only audited-note rule"
+  ]
+ },
+ {
+  "symbol": "BMGU",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 6105,
+  "units_in_issue": 519603000,
+  "units_in_issue_line": 6114,
+  "units_scale": "units",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": true,
+  "paid_in_units": 0,
+  "paid_in_units_units": 0,
+  "paid_in_units_line": 4804,
+  "quotes": {
+   "units_in_issue": "| <b>Total Units in issue at the end of year</b> | <b>519,603</b> | <b>519,603</b> |",
+   "units_to_be_issued": "### 16. UNITS IN ISSUE",
+   "paid_in_units": "- (i) There is no distribution reinvestment plan during the financial year ended 31 December 2024. For the financial year ended 31 December 2023, the REIT issued 2,118,000 new Units at an issue price of S\\$0.4677 per Unit as payment for distribution of S\\$990,000 under the distribution reinvestment plan for the period from 1 January 2023 to 30 June 2023.",
+   "fy_end_date": "Year ended 31 December 2024"
+  },
+  "flags": [
+   "units_in_issue reported in '000 in Note 16 (audited); scaled to absolute units",
+   "Note 16 discloses issued Units only; no 'units to be issued' component disclosed anywhere in the report -> units_to_be_issued null (not derived)",
+   "paid_in_units set to 0 on explicit nil statement: DRP row in Note 16 shows '-' for 2024 and note (i) states there was no DRP during FY2024"
+  ]
+ },
+ {
+  "symbol": "BMGU",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 6088,
+  "units_in_issue": 519603000,
+  "units_in_issue_line": 6082,
+  "units_scale": "units",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": true,
+  "paid_in_units": 0,
+  "paid_in_units_units": 0,
+  "paid_in_units_line": 6082,
+  "quotes": {
+   "units_in_issue": "| <b>Total Units in issue at the beginning and end of year</b> | <b>519,603</b> | <b>519,603</b> |",
+   "units_to_be_issued": "### 16. UNITS IN ISSUE",
+   "paid_in_units": "| <b>Total Units in issue at the beginning and end of year</b> | <b>519,603</b> | <b>519,603</b> |",
+   "fy_end_date": "Year ended 31 December 2025"
+  },
+  "flags": [
+   "units_in_issue reported in '000 in Note 16 (audited); scaled to absolute units",
+   "Note 16 discloses issued Units only; no 'units to be issued' component disclosed -> null (not derived)",
+   "paid_in_units 0: Note 16 shows units unchanged at beginning and end of FY2025 (no issuance line items at all) and no DRP was implemented; DRP described only as a standing plan at line 5284. No explicit dollar nil statement (unlike FY2024) - inferred from zero unit movement"
+  ]
+ },
+ {
+  "symbol": "A17U",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 7741,
+  "units_in_issue": 4400309000,
+  "units_in_issue_line": 7735,
+  "units_scale": "thousands",
+  "units_to_be_issued": 797000,
+  "units_to_be_issued_line": 7737,
+  "units_to_be_issued_comprises": [
+   "management fee",
+   "divestment fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At end of the financial year | 4,400,309 | 4,393,607 |",
+   "units_to_be_issued": "| Management fee payable in Units | 575 | 504 |",
+   "paid_in_units": null,
+   "fy_end_date": "During the financial year ended 31 December 2024:"
+  },
+  "flags": [
+   "units_to_be_issued = sum of two disclosed components: management fee payable in Units 575 ('000) (line 7737) + divestment fee payable in Units 222 ('000) (line 7738) = 797 ('000); ties to disclosed total 4,401,106 ('000) at line 7739",
+   "paid_in_units null: no distribution reinvestment/scrip plan disclosed (0 hits for 'distribution reinvestment'); the Units issued in the year were management-fee Units, not distributions settled in Units"
+  ]
+ },
+ {
+  "symbol": "A17U",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 7643,
+  "units_in_issue": 4611952000,
+  "units_in_issue_line": 7637,
+  "units_scale": "thousands",
+  "units_to_be_issued": 555000,
+  "units_to_be_issued_line": 7639,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At end of the financial year | <b>4,611,952</b> | 4,400,309 |",
+   "units_to_be_issued": "| Management fees payable in Units | <b>555</b> | 575 |",
+   "paid_in_units": null,
+   "fy_end_date": "During the financial year ended 31 December 2025:"
+  },
+  "flags": [
+   "units_to_be_issued = management fees payable in Units 555 ('000); divestment fee payable in Units is nil ('-', line 7640); ties to disclosed total 4,612,507 ('000) at line 7641",
+   "paid_in_units null: no distribution reinvestment/scrip plan disclosed (0 hits for 'distribution reinvestment')"
+  ]
+ },
+ {
+  "symbol": "HMN",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 4490,
+  "units_in_issue": 3796166000,
+  "units_in_issue_line": 8188,
+  "units_scale": "thousands",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": false,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At 31 December | 3,796,166 | 3,763,304 | 3,796,166 | 3,763,304 | 3,796,166 | 3,763,304 |",
+   "units_to_be_issued": "A total of 26,578,594 (2023: 22,134,460) Stapled Securities were issued or will be issued as payment of the REIT Manager's management fees amounting to \\$23,663,000 (2023: \\$22,340,00) in respect of the year ended 31 December 2024.",
+   "paid_in_units": null,
+   "fy_end_date": "Year ended 31 December 2024"
+  },
+  "flags": [
+   "stapled_trust: unit = Stapled Security (1 CapitaLand Ascott REIT Unit stapled to 1 CapitaLand Ascott BT Unit); figure is Stapled Securities",
+   "units_to_be_issued disclosed only on a combined 'issued or will be issued' basis (line 5479 REIT Manager fees; line 5487 BT Trustee-Manager fees) - not split, so left null (no subtraction)",
+   "paid_in_units: no distribution reinvestment plan / scrip distribution disclosed anywhere in the report - null (not disclosed, not nil)"
+  ]
+ },
+ {
+  "symbol": "HMN",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 4530,
+  "units_in_issue": 3831131000,
+  "units_in_issue_line": 7642,
+  "units_scale": "thousands",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": false,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At 31 December | <b>3,831,131</b> | 3,796,166 | <b>3,831,131</b> | 3,796,166 | <b>3,831,131</b> | 3,796,166 |",
+   "units_to_be_issued": "A total of 27,848,875 (2024: 26,578,594) Stapled Securities were issued or will be issued as payment of the REIT Manager's management fees amounting to \\$25,558,000 (2024: \\$23,663,000) in respect of the year ended 31 December 2025.",
+   "paid_in_units": null,
+   "fy_end_date": "Year ended 31 December 2025"
+  },
+  "flags": [
+   "stapled_trust: unit = Stapled Security (1 CapitaLand Ascott REIT Unit stapled to 1 CapitaLand Ascott BT Unit); figure is Stapled Securities",
+   "units_to_be_issued disclosed only on a combined 'issued or will be issued' basis (line 5500 REIT Manager fees; line 5507 BT Trustee-Manager fees) - not split, so left null (no subtraction)",
+   "paid_in_units: no distribution reinvestment plan / scrip distribution disclosed anywhere in the report - null (not disclosed, not nil)"
+  ]
+ },
+ {
+  "symbol": "AU8U",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 4613,
+  "units_in_issue": 1720367330,
+  "units_in_issue_line": 6443,
+  "units_scale": "ones",
+  "units_to_be_issued": 19612240,
+  "units_to_be_issued_line": 6444,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": 12490000,
+  "paid_in_units_units": 15494730,
+  "paid_in_units_line": 4751,
+  "quotes": {
+   "units_in_issue": "| Total issued Units as at end of the year | 1,720,367,330 | 1,688,862,115 |",
+   "units_to_be_issued": "| \u2013 as payment of Manager's management fees | 19,612,240 | 16,010,485 |",
+   "paid_in_units": "| Units issued in respect of the distribution reinvestment plan | 12,490 | 1,794 | 12,490 | 1,794 |",
+   "fy_end_date": "Year ended 31 December 2024"
+  },
+  "flags": [
+   "paid_in_units dollar amount 12,490 is in S$'000 (statement of changes in Unitholders' funds), converted to absolute; unit count 15,494,730 from Note 16 DRP line 6438"
+  ]
+ },
+ {
+  "symbol": "AU8U",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 4618,
+  "units_in_issue": 1740902808,
+  "units_in_issue_line": 6419,
+  "units_scale": "ones",
+  "units_to_be_issued": 16247383,
+  "units_to_be_issued_line": 6420,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": 0,
+  "paid_in_units_units": 0,
+  "paid_in_units_line": 6414,
+  "quotes": {
+   "units_in_issue": "| Total issued Units as at end of the year | 1,740,902,808 | 1,720,367,330 |",
+   "units_to_be_issued": "| - as payment of Manager's management fees | 16,247,383 | 19,612,240 |",
+   "paid_in_units": "| - As payment of distribution through distribution reinvestment plan | \u2013 | 15,494,730 |",
+   "fy_end_date": "Year ended 31 December 2025"
+  },
+  "flags": [
+   "explicit nil DRP in FY2025: Note 16 shows dash for 2025, corroborated at line 4754 'Units issued in respect of the distribution reinvestment plan | - | 12,490'"
+  ]
+ },
+ {
+  "symbol": "CY6U",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 5282,
+  "units_in_issue": 1343710000,
+  "units_in_issue_line": 7704,
+  "units_scale": "thousands",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| Balance at end of financial year | 1,343,710 | 1,194,094 | 1,333,817 | 1,183,250 |",
+   "units_to_be_issued": null,
+   "paid_in_units": null,
+   "fy_end_date": "For the financial year ended 31 December 2024"
+  },
+  "flags": [
+   "Note 26 UNITS IN ISSUE (line 7693) discloses issued units only; no 'units to be issued' concept disclosed anywhere in the report",
+   "Units column header is 'Number of units (in thousands)' (line 7698); S$'000 column (1,194,094) is unit capital, not a unit count",
+   "No distribution reinvestment plan / scrip distribution disclosed; the only unit-settled item is '- Fee paid in units | 9,893 | 10,844' (line 7701), which is a manager fee, not a distribution, so paid_in_units left null (not disclosed)"
+  ]
+ },
+ {
+  "symbol": "CY6U",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 3977,
+  "units_in_issue": 1355589000,
+  "units_in_issue_line": 6471,
+  "units_scale": "thousands",
+  "units_to_be_issued": null,
+  "units_to_be_issued_line": null,
+  "units_to_be_issued_comprises": [],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| Balance at end of financial year | <b>1,355,589</b> | <b>1,206,673</b> | 1,343,710 | 1,194,094 |",
+   "units_to_be_issued": null,
+   "paid_in_units": null,
+   "fy_end_date": "For the financial year ended 31 December 2025"
+  },
+  "flags": [
+   "Note 26 Units in issue (line 6462) discloses issued units only; no 'units to be issued' concept disclosed anywhere in the report",
+   "Units column header is 'Number of units (in thousands)' (line 6467); S$'000 column (1,206,673) is unit capital, not a unit count",
+   "No DRP / scrip distribution disclosed; only unit-settled item is '- Fee paid in units | 11,879 | 12,579' (line 6470), a manager fee, so paid_in_units left null (not disclosed)"
+  ]
+ },
+ {
+  "symbol": "C38U",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 5653,
+  "units_in_issue": 7298469763,
+  "units_in_issue_line": 7758,
+  "units_scale": "absolute",
+  "units_to_be_issued": 15637000,
+  "units_to_be_issued_line": 7760,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": 115543000,
+  "paid_in_units_units": 59828333,
+  "paid_in_units_line": 5774,
+  "quotes": {
+   "units_in_issue": "| Total issued units at 31 December | 7,298,470 | 6,657,723 |",
+   "units_to_be_issued": "| \u2013 payment of management fees | 15,637 | 14,019 |",
+   "paid_in_units": "| \u2013 Distribution reinvestment plan | <b>115,543</b> | \u2013 | <b>115,543</b> | \u2013 |",
+   "fy_end_date": "Year ended 31 December 2024"
+  },
+  "flags": [
+   "units_in_issue: note 19 table states 7,298,470 ('000); absolute 7,298,469,763 confirmed at line 9068 ('The percentage is based on 7,298,469,763 Units in issue as at 28 February 2025')",
+   "units_to_be_issued 15,637 ('000) scaled to absolute; no absolute figure disclosed",
+   "paid_in_units units count 59,828,333 from note 19(c) line 7767; dollar 115,543 ('000) from Statement of Movements in Unitholders' Funds line 5774"
+  ]
+ },
+ {
+  "symbol": "C38U",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 5589,
+  "units_in_issue": 7611317783,
+  "units_in_issue_line": 7757,
+  "units_scale": "absolute",
+  "units_to_be_issued": 14120000,
+  "units_to_be_issued_line": 7759,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": 0,
+  "paid_in_units_units": 0,
+  "paid_in_units_line": 7755,
+  "quotes": {
+   "units_in_issue": "| Total issued units at 31 December | 7,611,318 | 7,298,470 |",
+   "units_to_be_issued": "| \u2013 payment of management fees | 14,120 | 15,637 |",
+   "paid_in_units": "| \u2013 distribution reinvestment plan <sup>(d)</sup> | \u2013 | 59,828 |",
+   "fy_end_date": "Year ended 31 December 2025"
+  },
+  "flags": [
+   "units_in_issue: note 20 table states 7,611,318 ('000); absolute 7,611,317,783 confirmed at line 9214 ('The percentage is based on 7,611,317,783 Units in issue as at 27 February 2026')",
+   "units_to_be_issued 14,120 ('000) scaled to absolute; no absolute figure disclosed",
+   "paid_in_units explicit nil: DRP row shows '\u2013' for FY2025 in note 20 (line 7755) and in Movements in Unitholders' Funds (line 5716: '| \u2013 Distribution reinvestment plan | \u2013 | 115,543 | \u2013 | 115,543 |')"
+  ]
+ },
+ {
+  "symbol": "J85",
+  "financial_year": 2024,
+  "fy_end_date": "2024-12-31",
+  "fy_end_date_line": 11112,
+  "units_in_issue": 1256857000,
+  "units_in_issue_line": 11105,
+  "units_scale": "thousands",
+  "units_to_be_issued": 7349000,
+  "units_to_be_issued_line": 11109,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At 31 December | 1,256,857 | 1,245,832 |",
+   "units_to_be_issued": "| At 31 December | 7,349 | 5,892 |",
+   "paid_in_units": null,
+   "fy_end_date": "#### Financial year ended 31 December 2024"
+  },
+  "flags": [
+   "stapled_trust_stapled_securities",
+   "no_distribution_reinvestment_plan_disclosed"
+  ]
+ },
+ {
+  "symbol": "J85",
+  "financial_year": 2025,
+  "fy_end_date": "2025-12-31",
+  "fy_end_date_line": 11032,
+  "units_in_issue": 1270770000,
+  "units_in_issue_line": 11025,
+  "units_scale": "thousands",
+  "units_to_be_issued": 7727000,
+  "units_to_be_issued_line": 11029,
+  "units_to_be_issued_comprises": [
+   "management fee"
+  ],
+  "units_split_disclosed": true,
+  "paid_in_units": null,
+  "paid_in_units_units": null,
+  "paid_in_units_line": null,
+  "quotes": {
+   "units_in_issue": "| At 31 December | 1,270,770 | 1,256,857 |",
+   "units_to_be_issued": "| At 31 December | 7,727 | 7,349 |",
+   "paid_in_units": null,
+   "fy_end_date": "#### Financial year ended 31 December 2025"
+  },
+  "flags": [
+   "stapled_trust_stapled_securities",
+   "no_distribution_reinvestment_plan_disclosed"
+  ]
+ }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "symbol": "J91U",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 7275,
+    "units_in_issue": 8049164215,
+    "units_in_issue_line": 2652,
+    "units_scale": "units",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": 9813,
+    "units_to_be_issued_comprises": null,
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 7543,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2024",
+      "units_in_issue": "<b>Issued Units at end of the year</b> | <b>8,049,164,215</b> | 7,689,164,004",
+      "units_to_be_issued": "Total issued Units at 31 December | 8,049,164 | 7,689,164",
+      "paid_in_units": "Distributions during the year ended 31 December 2024 were fully paid in cash by ESR-REIT (2023: partially paid by issuing an aggregate of 14.8 million new Units amounting to \\$5.2 million pursuant to the Distribution Reinvestment Plan)."
+    },
+    "flags": [
+      "PRE-CONSOLIDATION basis: FY2024 figure of 8,049,164,215 Units is before the 10:1 Unit consolidation completed 5 May 2025.",
+      "No 'units to be issued' concept disclosed: Note 18 (line 9798-9813) and the balance sheet (line 7434) report issued Units only, no 'in issue and to be issued' figure. units_to_be_issued quote is the Note 18 issued-only total, used as evidence that only an issued figure exists.",
+      "paid_in_units = genuine nil for FY2024 (explicit statement, line 7543); the DRP row in the Note 18 movement table (line 9807) is nil for 2024 and 14,828k for 2023."
+    ]
+  },
+  {
+    "symbol": "J91U",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 4887,
+    "units_in_issue": 805035067,
+    "units_in_issue_line": 2510,
+    "units_scale": "units",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": 7574,
+    "units_to_be_issued_comprises": null,
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 5951,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2025",
+      "units_in_issue": "<b>Issued Units at end of the year</b> | <b>805,035,067</b> | <b>8,049,164,215</b>",
+      "units_to_be_issued": "Total issued Units at 31 December | 805,035 | 8,049,164",
+      "paid_in_units": "Distributions paid to Unitholders | (167,921) | (177,424)"
+    },
+    "flags": [
+      "POST-CONSOLIDATION basis: 805,035,067 Units at 31 Dec 2025, after the 10:1 Unit consolidation completed 5 May 2025 (Note 18 cont'd, line 7592: 802,914,454 Consolidated Units immediately post-consolidation).",
+      "No 'units to be issued' concept disclosed: Note 18 (line 7555-7574) and balance sheet (line 5060) give issued Units only.",
+      "paid_in_units nil inferred with evidence: cash-flow 'Distributions paid to Unitholders' of \\$167,921k (line 5951) equals total distributions to Unitholders for the year of \\$167,921k (line 5183), i.e. wholly settled in cash; the FY2025 Note 18 movement table (lines 7563-7573) contains no Distribution Reinvestment Plan line."
+    ]
+  },
+  {
+    "symbol": "Q5T",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 5301,
+    "units_in_issue": 2014670000,
+    "units_in_issue_line": 6326,
+    "units_scale": "thousands",
+    "units_to_be_issued": 29961000,
+    "units_to_be_issued_line": 6329,
+    "units_to_be_issued_comprises": "REIT Manager's base fees payable in Stapled Securities (1,806k), performance fees payable in Stapled Securities (3,292k), and the Earn-out Amount Stapled Securities for the acquisition of Oasia Hotel Downtown (24,863k)",
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 6325,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2024",
+      "units_in_issue": "At 31 December | 2,014,670 | 2,014,670 | 2,014,670 | 2,002,633 | 2,002,633 | 2,002,633",
+      "units_to_be_issued": "– Base fees | 1,806 | 1,806 | 1,806 | 2,438 | 2,438 | 2,438",
+      "paid_in_units": "REIT Manager's fees paid<br>in Stapled Securities | 12,037 | 12,037 | 12,037 | 14,251 | 14,251 | 14,251"
+    },
+    "flags": [
+      "Stapled group: figures are Stapled Securities of the Stapled Group (Far East H-REIT + Far East H-BT), which are identical across the three columns.",
+      "Note 10 discloses issued (2,014,670k) and to-be-issued components separately; the combined 'in issue and to be issued' total is 2,044,631k (line 6332). units_to_be_issued = 1,806 + 3,292 + 24,863 = 29,961k, the sum of disclosed components (not a subtraction).",
+      "paid_in_units = 0: the Note 10 issuance movement table lists only 'REIT Manager's fees paid in Stapled Securities' as an issuance during the year; no distribution reinvestment / scrip distribution scheme is mentioned anywhere in the report.",
+      "Source figures are in '000; values reported here are absolute."
+    ]
+  },
+  {
+    "symbol": "Q5T",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 5309,
+    "units_in_issue": 2051142000,
+    "units_in_issue_line": 6581,
+    "units_scale": "thousands",
+    "units_to_be_issued": 5043000,
+    "units_to_be_issued_line": 6584,
+    "units_to_be_issued_comprises": "REIT Manager's base fees payable in Stapled Securities (2,018k) and performance fees payable in Stapled Securities (3,025k)",
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 6579,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2025",
+      "units_in_issue": "At 31 December | 2,051,142 | 2,051,142 | 2,051,142 | 2,014,670 | 2,014,670 | 2,014,670",
+      "units_to_be_issued": "– Base fees | 2,018 | 2,018 | 2,018 | 1,806 | 1,806 | 1,806",
+      "paid_in_units": "REIT Manager's fees paid in<br>Stapled Securities | 10,725 | 10,725 | 10,725 | 12,037 | 12,037 | 12,037"
+    },
+    "flags": [
+      "Stapled group: Stapled Securities of the Stapled Group (Far East H-REIT + Far East H-BT).",
+      "Note 11 discloses issued (2,051,142k) and to-be-issued separately; combined 'in issue and to be issued' = 2,056,185k (line 6587). units_to_be_issued = 2,018 + 3,025 = 5,043k (sum of disclosed components). The FY2024 Earn-out to-be-issued 24,863k was actually issued on 20 Aug 2025 as 25,746,652 Stapled Securities.",
+      "paid_in_units = 0: the Note 11 issuance movement table lists only manager's fees (10,725k) and the Earn-out consideration (25,747k) as issuances; no distribution reinvestment / scrip distribution scheme appears in the report.",
+      "Source figures are in '000; values reported here are absolute."
+    ]
+  }
+]

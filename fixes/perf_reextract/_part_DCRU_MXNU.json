@@ -1,0 +1,110 @@
+[
+  {
+    "symbol": "DCRU",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 5296,
+    "units_in_issue": 1300293000,
+    "units_in_issue_line": 6773,
+    "units_scale": "absolute (source table in '000)",
+    "units_to_be_issued": 21294540,
+    "units_to_be_issued_line": 6786,
+    "units_to_be_issued_comprises": ["Manager's base fees (14,965,341 units)", "Manager's performance fees (6,329,199 units)"],
+    "units_split_disclosed": true,
+    "paid_in_units": null,
+    "paid_in_units_units": null,
+    "paid_in_units_line": 5586,
+    "quotes": {
+      "fy_end_date": "Year ended 31 December 2024",
+      "units_in_issue": "| <b>At 31 December 2024</b> |  | <b>1,300,293</b> | <b>—</b> | <b>1,016,484</b> | <b>—</b> |",
+      "units_to_be_issued": "14,965,341 units to be issued for base management fees",
+      "paid_in_units": "The Trust issued units amounting to US\\$3.3 million (2023: US\\$1.7 million) as payment for the Manager's base fees"
+    },
+    "flags": [
+      "Headline 'Units in issue and to be issued as at balance sheet date' 1,321,588k (line 5287 / 384) is the COMBINED figure - not used.",
+      "units_to_be_issued exact components: 14,965,341 (line 6786) + 6,329,199 (line 6788) = 21,294,540; Note 14 table shows 14,965 + 6,330 ('000) at lines 6775-6776.",
+      "paid_in_units null: no distribution reinvestment plan / scrip distribution disclosed anywhere in the report ('DRP', 'scrip', 'distribution reinvestment' return no hits). Units issued in the year were for Manager's base/acquisition fees and a private placement, not distributions."
+    ]
+  },
+  {
+    "symbol": "DCRU",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 5479,
+    "units_in_issue": 1304010000,
+    "units_in_issue_line": 7097,
+    "units_scale": "absolute (source table in '000)",
+    "units_to_be_issued": 37021988,
+    "units_to_be_issued_line": 7105,
+    "units_to_be_issued_comprises": ["Manager's base fees (25,696,841 units)", "Manager's performance fees (11,325,147 units)"],
+    "units_split_disclosed": true,
+    "paid_in_units": null,
+    "paid_in_units_units": null,
+    "paid_in_units_line": 5773,
+    "quotes": {
+      "fy_end_date": "Year ended 31 December 2025",
+      "units_in_issue": "| <b>At 31 December 2025</b> |  | <b>1,304,010</b> | <b>—</b> | <b>981,656</b> | <b>—</b> |",
+      "units_to_be_issued": "25,696,841 units to be issued for base management fees",
+      "paid_in_units": "The Trust issued units amounting to US\\$3.2 million (2024: US\\$3.3 million) as payment for the Manager's base fees."
+    },
+    "flags": [
+      "Headline 'Units in issue and to be issued as at balance sheet date' 1,341,032k (lines 505 / 5470) is the COMBINED figure - not used.",
+      "units_to_be_issued exact components: 25,696,841 (line 7105) + 11,325,147 (line 7107) = 37,021,988; Note 14 table shows 25,697 + 11,325 ('000) at lines 7099-7100.",
+      "paid_in_units null: no DRP/scrip distribution disclosed; only non-cash unit issuance was Manager's base fees."
+    ]
+  },
+  {
+    "symbol": "MXNU",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 7010,
+    "units_in_issue": 594194000,
+    "units_in_issue_line": 8013,
+    "units_scale": "absolute (source table in '000)",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": null,
+    "units_to_be_issued_comprises": null,
+    "units_split_disclosed": true,
+    "paid_in_units": 1972000,
+    "paid_in_units_units": 7873000,
+    "paid_in_units_line": 8019,
+    "quotes": {
+      "fy_end_date": "Year ended 31 December 2024",
+      "units_in_issue": "| At end of the year | 594,194 | 338,215 | 482,966 | 308,337 |",
+      "units_to_be_issued": "| At end of the year | 594,194 | 338,215 | 482,966 | 308,337 |",
+      "paid_in_units": "Approximately 7,873,000 Units were issued at Unit prices ranging from £0.25 to £0.26 per Unit, valued at £1,972,000, under the distribution reinvestment plan."
+    },
+    "flags": [
+      "Note 15 is a 4-column layout (2024: Number of Units '000 | £'000, then 2023 pair). 594,194 is the UNIT COUNT column; 338,215 is £'000 and is NOT a unit count.",
+      "Elite REIT discloses issued units only - there is no 'units to be issued' concept anywhere in the report, so units_to_be_issued = null (not disclosed) while the issued figure is unambiguous (units_split_disclosed true).",
+      "paid_in_units currency GBP; corroborated at line 7114 (significant non-cash transactions) and line 7060 (statement of changes in unitholders' funds, £1,972k)."
+    ]
+  },
+  {
+    "symbol": "MXNU",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 6151,
+    "units_in_issue": 610286000,
+    "units_in_issue_line": 7084,
+    "units_scale": "absolute (source table in '000)",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": null,
+    "units_to_be_issued_comprises": null,
+    "units_split_disclosed": true,
+    "paid_in_units": 682000,
+    "paid_in_units_units": 2267000,
+    "paid_in_units_line": 7090,
+    "quotes": {
+      "fy_end_date": "Year ended 31 December 2025",
+      "units_in_issue": "| At end of the year | 610,286 | 342,989 | 594,194 | 338,215 |",
+      "units_to_be_issued": "| At end of the year | 610,286 | 342,989 | 594,194 | 338,215 |",
+      "paid_in_units": "Approximately 2,267,000 Units were issued at £0.29 to £0.34 per Unit, valued at £682,000, under the distribution reinvestment plan."
+    },
+    "flags": [
+      "Note 14 4-column layout: 610,286 is the '000 UNIT COUNT; 342,989 is £'000 (unit capital), NOT a unit count.",
+      "No 'units to be issued' disclosed; issued-only figure is unambiguous.",
+      "paid_in_units currency GBP; corroborated at line 7082 (Note 14 DRP row: 2,267 units / £682k) and line 6262 (non-cash transactions)."
+    ]
+  }
+]

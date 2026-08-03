@@ -1,0 +1,107 @@
+[
+  {
+    "symbol": "BUOU",
+    "financial_year": 2024,
+    "fy_end_date": "2024-09-30",
+    "fy_end_date_line": 9846,
+    "units_in_issue": 3757818000,
+    "units_in_issue_line": 11513,
+    "units_scale": "'000 in source; values reported here are absolute units",
+    "units_to_be_issued": 4384000,
+    "units_to_be_issued_line": 11515,
+    "units_to_be_issued_comprises": ["Managers' management fees payable in Units"],
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 11520,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 30 September 2024",
+      "units_in_issue": "| At end of the year | 3,757,818 | 3,544,634 | 3,512,953 |",
+      "units_to_be_issued": "| - Managers' management fees payable in Units | 4,384 | 5,074 | 17,239 |",
+      "paid_in_units": "During the year, the following new Units were issued:"
+    },
+    "flags": [
+      "Note 21 'UNITS IN ISSUE AND TO BE ISSUED' splits 'Units issued' (3,757,818'000 at end of year) from 'Units to be issued' (4,384'000); the AR headline 'Units in issue and to be issued' of 3,762,202'000 (line 9324) is the combined figure and is NOT used.",
+      "paid_in_units set to 0: FLCT has no DRP/scrip distribution scheme; the exhaustive list of Units issued during FY2024 (line 11520 onward) comprises only Managers' management fees (28,072,276 Units / S$30,835,000) and acquisition fees (804,693 Units / S$846,000) - no distribution was settled by issuing Units."
+    ]
+  },
+  {
+    "symbol": "BUOU",
+    "financial_year": 2025,
+    "fy_end_date": "2025-09-30",
+    "fy_end_date_line": 632,
+    "units_in_issue": 3778193000,
+    "units_in_issue_line": 6975,
+    "units_scale": "'000 in source; values reported here are absolute units",
+    "units_to_be_issued": 12578000,
+    "units_to_be_issued_line": 6977,
+    "units_to_be_issued_comprises": ["Managers' management fees payable in Units"],
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 6982,
+    "quotes": {
+      "fy_end_date": "for the financial year ended 30 September 2025",
+      "units_in_issue": "| At end of the year | 3,778,193 | 3,563,645 | 3,757,818 | 3,544,634 |",
+      "units_to_be_issued": "| – Managers' management fees payable in Units | 12,578 | 11,920 | 4,384 | 5,074 |",
+      "paid_in_units": "During the year, the following new Units were issued:"
+    },
+    "flags": [
+      "Issued-only 3,778,193'000 taken from Note 21 'Units issued - At end of the year'; combined issued-and-issuable 3,790,771'000 (line 4814 / 6978) deliberately NOT used, matching the known value in the task brief.",
+      "paid_in_units set to 0: FY2025 Unit issuances were Managers' management fees (19,987,765 Units / S$18,685,000) and divestment fees (386,833 Units / S$326,000) only; no DRP/scrip distribution."
+    ]
+  },
+  {
+    "symbol": "UD1U",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 9256,
+    "units_in_issue": 1344838000,
+    "units_in_issue_line": 9026,
+    "units_scale": "'000 in source; values reported here are absolute units",
+    "units_to_be_issued": 0,
+    "units_to_be_issued_line": 9027,
+    "units_to_be_issued_comprises": [],
+    "units_split_disclosed": true,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 9026,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2024",
+      "units_in_issue": "| End of the year | 1,344,838 | 1,344,838 |",
+      "units_to_be_issued": "| <b>Total units in issue and to be issued at end of year</b> | <b>1,344,838</b> | <b>1,344,838</b> |",
+      "paid_in_units": "| End of the year | 1,344,838 | 1,344,838 |"
+    },
+    "flags": [
+      "Note 5.3 prints both 'Units in issue: End of the year' (1,344,838'000) and 'Total units in issue and to be issued at end of year' (1,344,838'000) as separate lines and they are identical, so units to be issued is a genuine nil rather than a subtraction-derived figure.",
+      "paid_in_units set to 0: the Note 5.3 unit roll-forward shows no new units issued during FY2024 at all (issuance rows for Preferential Offer and acquisition fees are both nil in the 2024 column), so no distribution could have been settled in units. IREIT has no DRP."
+    ]
+  },
+  {
+    "symbol": "UD1U",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 8578,
+    "units_in_issue": 1344838000,
+    "units_in_issue_line": 6758,
+    "units_scale": "'000 in source; values reported here are absolute units",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": 8349,
+    "units_to_be_issued_comprises": null,
+    "units_split_disclosed": false,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 8349,
+    "quotes": {
+      "fy_end_date": "For the financial year ended 31 December 2025",
+      "units_in_issue": "| <b>Units in issue at the end of the year ('000)</b> | 5.3 | <b>1,344,838</b> | 1,344,838 |",
+      "units_to_be_issued": "| Beginning and at end of the year | 1,344,838 | 1,344,838 |",
+      "paid_in_units": "| Beginning and at end of the year | 1,344,838 | 1,344,838 |"
+    },
+    "flags": [
+      "FY2025 Note 5.3 collapses the roll-forward into a single combined line 'Units in issue and to be issued: Beginning and at end of the year 1,344,838' with no issued/issuable split, so units_to_be_issued is null (units_split_disclosed=false).",
+      "units_in_issue taken from the statement of financial position line explicitly labelled 'Units in issue at the end of the year' (line 6758), an issued-only label; the FY2024 comparative confirms nil units to be issued.",
+      "paid_in_units set to 0: unit count was unchanged from beginning to end of FY2025 (no units issued), so no distribution was settled by issuing units."
+    ]
+  }
+]
