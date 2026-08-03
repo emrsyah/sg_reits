@@ -224,6 +224,8 @@ Populate **only** where the annual report names it. **Null means "not disclosed"
 |---|---|---|
 | 1 | **P0 rounding** | `build_final_tables.py:30` — `round(float(value) * tbl[ccy]['SGD'])` has no ndigits, so every per-unit figure in a foreign presentation currency integer-rounds. Prod serves `CMOU dpu 0`, `BTOU nav 0`, `MXNU nav 1` **right now**. Fix: `round(x, 6)` |
 | 2 | **AJBU FY2025** | `distribution_declared` → `268,051,000` (holds `133,531,000`, the cash figure). AR p144: *"Total amount available for distribution for the year 268,051"*. Cross-checks: `332,893 − 64,842 = 268,051`, and `5.133 + 5.248 = 10.381` DPU |
+| 2b | **Audit the 22** | Gate 2 flags **22 rows** where `declared == cash` (§7), not the 2 that `dpu × units` caught. Verified defects so far: AJBU, C2PU, **BUOU FY2024** (stores 262,580,000, the cash figure; declared is 255,515,000 = `210,337 + 45,178`). The other 19 are **unaudited leads** |
+| 2c | **Extract the missing retention** | 6 rows meleset exactly −10.0% — CY6U, UD1U, XZL, both years. The AR discloses a 10% policy retention that we never extracted. Their `declared` is already correct; only `amount_retained` is missing |
 | 3 | **C2PU FY2025** | `distribution_declared` → `99,781,000` (holds `65,436,000`, the cash figure). AR: *"Income for the year available for distribution to Unitholders 99,781"*. Ties: `15.29% × 652,487,000 = 99,765,000` |
 | 4 | **Re-promote** | `amount_retained` / `other_additions` — dev/`extracted` has all 24 values including the 8 that `performance-normalization.md` §2 recorded as null in prod. **This is a promotion gap, not an extraction gap** — same shape as the 61 stale `gain_loss_pct` rows. Re-promote, do not re-extract |
 | 5 | `distribution_record` | tag AJBU's and T82U's prior-year tranches `basis = cash_paid`; backfill the incomplete records (C2PU FY2025, J91U FY2025) |
@@ -283,29 +285,76 @@ three.
 
 ## 7. Gates
 
+> ### The governing rule: a gate DETECTS, it never POPULATES
+>
+> Every check below produces a number by reverse-engineering. **A reverse-engineered number will
+> always differ from the figure the annual report declares** — sometimes by a rounding, sometimes by
+> a real structural reason. It is an approximation and must be treated as one.
+>
+> **Never write a derived value into a column.** A gate that fails is a signal to open the report,
+> never a licence to compute a balancing figure. This is the same invariant as the retention rule in
+> §3, and it is the standing principle across this repository.
+
 | # | check | severity |
 |---|---|---|
-| 1 | `opening + income_for_year + other_additions − amount_retained − paid = closing` | **hard gate** — but **skip CY6U, UD1U, XZL**: they have no pool carry-forward in any year, so opening/closing are legitimately null, not missing |
-| 2 | `sum(distribution_record where basis = accrual) = distribution_per_unit` | hard, once `basis` exists |
-| 3 | `distribution_declared ≈ dpu × units` | **soft flag at 20%, never 2%** |
-| 4 | payout ratio `declared / income_for_year` in 0–1.3 | already passes 74/74 |
+| 1 | `opening + income_for_year + other_additions − amount_retained − paid = closing` | **hard gate** — but **skip CY6U, UD1U, XZL**: they have no pool carry-forward in any year, so opening/closing are legitimately null, not missing. Currently passes 62/62 |
+| 2 | **`declared ≈ income_for_year + other_additions − amount_retained`** | **tiered warning — see below.** The primary declared check |
+| 3 | `sum(distribution_record where basis = accrual) = distribution_per_unit` | hard, once `basis` exists |
+| 4 | `distribution_declared ≈ dpu × units` | **weak, informational only.** Superseded by gate 2 |
+| 5 | payout ratio `declared / income_for_year` in 0–1.3 | already passes 74/74 |
 
-### Why gate 3 is 20% and not 2%
+### Gate 2 — the declared check
+
+Everything that entered the pool this year, minus what was held back, is what was declared for the
+year. The opening and closing balances are pure timing and correctly play no part.
+
+**This gate replaces `dpu × units` as the primary check.** It is better on every axis:
+
+| | gate 4 (`dpu × units`) | **gate 2 (pool)** |
+|---|---|---|
+| declared-holds-cash rows detected | 2 | **22** |
+| missing-retention rows detected | 0 | **6** |
+| needs a unit count | yes — and the denominator is itself unreliable (§9) | **no** |
+
+Gate 4 is retained only as a weak cross-check. It cannot be made precise: DPU is struck per tranche
+on different unit bases, so no single annual unit count reproduces it. AJBU's implied denominator
+(2,582,130,816) **exceeds its year-end units** (2,440,733,452), because its 2H tranche was declared
+30 January 2026 against a 2026 unit base.
+
+### Tiered thresholds — there is no clean cut-off
+
+The error distribution is a gradient, not two clusters:
 
 ```
-AJBU    +89.7%   ← BUG
-C2PU    +52.5%   ← BUG
-──────────── clean empty band ────────────
-AJBU    -11.4%   ← after fix; per-tranche denominators, irreducible
-T82U     +8.2%
-ODBU     +6.8%
-...remainder under 6%
+0.000% ... 0.350%   |   0.512%  0.662%  0.719%  0.839%  1.354% ... 50%+
+        27 rows     |            no natural gap
 ```
 
-Both real bugs sit above 50%; every structural quirk sits below 12%; nothing lands between. At 20%
-the gate catches both bugs with **zero false positives**. At 2% it raises nine false alarms against
-REITs whose data is fine. Precision was never achievable — DPU is struck per tranche on different
-unit bases — but catching corruption is, and this check is what surfaced the C2PU bug.
+So a binary pass/fail would be dishonest. Use tiers:
+
+| band | reading | action |
+|---|---|---|
+| **< 0.5%** | clean (27 rows) | pass |
+| **0.5 – 3%** | rounding or a small timing difference | review, do not block |
+| **> 3%** | very likely a real defect | block promotion |
+
+### Two failure signatures worth matching explicitly
+
+**Exactly −10.0%** → a **10% policy retention disclosed in the AR but not extracted**. Hits CY6U,
+UD1U, XZL across both years (6 rows). CY6U proves it:
+
+```
+Income available for distribution   118,853
+10% retention                       (11,885)
+Income to be distributed            106,968     <- our declared, already correct
+```
+
+The declared value is right; `amount_retained` is the null. **Fix the retention, not the declared.**
+
+**`declared == distribution_paid` (cash)** → the declared field was defaulted to the cash line.
+22 rows carry this fingerprint. Three are verified defects (AJBU, C2PU, BUOU); the rest are
+unaudited, and at least one (A17U FY2025) is expected to be legitimate — no tranche straddled the
+year end, so the two figures genuinely coincide. **The fingerprint is a lead, not a verdict.**
 
 ---
 
