@@ -27,7 +27,10 @@ def to_sgd(value, ccy, date, ctx=''):
     q = min(_parsed, key=lambda p: abs((p[0] - pd.to_datetime(date)).days))[1]
     tbl = _rates.get(q, {})
     if ccy in tbl and 'SGD' in tbl[ccy]:
-        return round(float(value) * tbl[ccy]['SGD'])
+        # ndigits is REQUIRED: bare round() truncates to an integer, which destroys
+        # per-unit figures for foreign-currency reporters (CMOU dpu 0.25 -> 0,
+        # BTOU nav -> 0, MXNU nav 0.69 -> 1). See docs/7-30-2026-schema-review.
+        return round(float(value) * tbl[ccy]['SGD'], 6)
     warnings.append(f'{ctx}: no rate for {ccy} @ {q} -> NULLED')
     return None  # never emit raw native as SGD
 

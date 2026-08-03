@@ -207,16 +207,52 @@ which alone makes it unusable from an API.
   "period_start": "2025-01-01",   // real dates, was free text
   "period_end":   "2025-06-30",
   "dpu":          5.133,
-  "basis":        "accrual",      // accrual | cash_paid  — NEW
   "pay_date":     "2025-09-12"
   //  ex_date dropped — null on every row sampled
+  //  basis   dropped — see below, the array is now accrual-only
 }
 ```
 
-`basis` is what stops the tally failing. Some rows carry a **prior-year tranche paid in cash this
-year** — AJBU's `0.819¢` for Nov–Dec 2024, T82U's `1.570¢` for Q4 2024. In both the headline DPU is
-**correct**; the array is contaminated because it serves the cash view and the accrual view at once.
-Tagging each entry makes `sum(record where basis = accrual) = dpu` enforceable.
+### The array holds ONLY tranches in respect of the financial year
+
+**Decided 2026-08-03.** An earlier draft added a `basis` field (`accrual` | `cash_paid`) so that
+prior-year tranches paid during the year could sit in the same array, tagged. That was the wrong call:
+if the array is filtered to the reporting year anyway, the tag has one value everywhere and earns
+nothing.
+
+So prior-year tranches are **dropped, not tagged**. `basis` does not exist.
+
+```
+239 tranches extracted  ->  64 dropped as prior-year  ->  175 kept
+                            62 of 74 rows had at least one
+```
+
+The array now means exactly one thing: **the tranches that make up this year's DPU.** The check is a
+plain sum, with no filter and no tag:
+
+```
+sum(distribution_record.dpu) = distribution_per_unit
+```
+
+The cash view is not lost — `distribution_paid` already carries the cash total for the year. What is
+lost is the tranche-level cash detail, which nothing needs.
+
+> **A tranche declared AFTER year end but in respect of a period inside the year is KEPT.** AJBU's
+> 5.248¢ for 1 Jul–31 Dec 2025 was declared 30 Jan 2026 and belongs to FY2025. Judge by the period,
+> never the pay date.
+
+### One tranche removed for a different reason — J91U FY2024
+
+J91U disclosed two tranches with **overlapping periods**: `0.275¢` for 11 Nov–31 Dec 2024 and
+`0.195¢` for 29 Nov–31 Dec 2024. They are not consecutive instalments — they are **two different unit
+populations**. The 0.195 applied only to the new units from the 11 November preferential offering,
+which became entitled on 29 November.
+
+`1.122 + 0.722 + 0.275 = 2.119` = the headline DPU. The 0.195 is not part of it.
+
+An `entitlement` field (`all_units` | `new_units_only`) was considered and **rejected** — one extra
+key on a jsonb, carried on all 74 rows, to describe a single tranche on a single row. The tranche is
+**removed** and the reason recorded in `record_note`.
 
 A normal payment lag is **not** a defect: HMN's 2H tranche pays 2026-02-27 for an in-year period.
 

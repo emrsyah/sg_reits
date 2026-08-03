@@ -46,7 +46,6 @@
     "period_start": "2025-09-25",
     "period_end": "2025-12-31",
     "dpu": 1.739,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 29995000,
     "line": 3501
@@ -116,19 +115,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 7.441,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 326928000,
-    "line": 5322
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 7.524,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 330829000,
     "line": 5321
@@ -197,19 +186,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 7.681,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 338005000,
-    "line": 5404
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-05",
     "dpu": 6.479,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 285110000,
     "line": 5403
@@ -218,7 +197,6 @@
     "period_start": "2025-06-06",
     "period_end": "2025-06-30",
     "dpu": 0.998,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 45971000,
     "line": 5402
@@ -273,19 +251,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 4.332,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 74573000,
-    "line": 6371
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 4.549,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 78388000,
     "line": 6372
@@ -294,7 +262,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-11-27",
     "dpu": 4.083,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 70462000,
     "line": 6373
@@ -303,7 +270,6 @@
     "period_start": "2024-11-28",
     "period_end": "2024-12-31",
     "dpu": 0.819,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8590
@@ -358,19 +324,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-11-28",
-    "period_end": "2024-12-31",
-    "dpu": 0.819,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 18091000,
-    "line": 5538
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 5.133,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 113729000,
     "line": 5539
@@ -379,7 +335,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 5.248,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7793
@@ -448,19 +403,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 3.0,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 50666000,
-    "line": 4678
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 3.01,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 51301000,
     "line": 4677
@@ -469,7 +414,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.64,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7462
@@ -526,19 +470,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.64,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 45418000,
-    "line": 4684
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 2.49,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 43325000,
     "line": 4683
@@ -547,7 +481,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 2.33,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7456
@@ -603,19 +536,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-10-01",
-    "period_end": "2023-12-31",
-    "dpu": 0.62,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 12905000,
-    "line": 7053
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-03-31",
     "dpu": 0.6,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12515000,
     "line": 7054
@@ -624,7 +547,6 @@
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 0.6,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12541000,
     "line": 7055
@@ -633,7 +555,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 0.58,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12148000,
     "line": 7056
@@ -642,7 +563,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 0.58,
-    "basis": "accrual",
     "pay_date": "2025-02-11",
     "amount": 12113000,
     "line": 8010
@@ -700,19 +620,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-10-01",
-    "period_end": "2024-12-31",
-    "dpu": 0.58,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 12173000,
-    "line": 6821
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 0.58,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12197000,
     "line": 6822
@@ -721,7 +631,6 @@
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 0.55,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 11589000,
     "line": 6823
@@ -730,7 +639,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 0.52,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 10977000,
     "line": 6824
@@ -739,7 +647,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 0.52,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 11028000,
     "line": 7681
@@ -807,19 +714,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 0.08,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 416000,
-    "line": 4630
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 0.25,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 1299000,
     "line": 4631
@@ -828,7 +725,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 0.25,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7049
@@ -895,19 +791,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 0.25,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 1299000,
-    "line": 4578
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 0.22,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 1143000,
     "line": 4579
@@ -916,7 +802,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 0.07,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7010
@@ -1071,19 +956,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-04-01",
-    "period_end": "2023-09-30",
-    "dpu": 3.52,
-    "basis": "cash_paid",
-    "pay_date": "2023-12-14",
-    "amount": 131808000,
-    "line": 11554
-   },
-   {
     "period_start": "2023-10-01",
     "period_end": "2024-03-31",
     "dpu": 3.48,
-    "basis": "accrual",
     "pay_date": "2024-06-18",
     "amount": 130772000,
     "line": 11555
@@ -1092,7 +967,6 @@
     "period_start": "2024-04-01",
     "period_end": "2024-09-30",
     "dpu": 3.32,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 12771
@@ -1150,19 +1024,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-04-01",
-    "period_end": "2024-09-30",
-    "dpu": 3.32,
-    "basis": "cash_paid",
-    "pay_date": "2024-12-17",
-    "amount": 124905000,
-    "line": 7019
-   },
-   {
     "period_start": "2024-10-01",
     "period_end": "2025-03-31",
     "dpu": 3.0,
-    "basis": "accrual",
     "pay_date": "2025-06-18",
     "amount": 113087000,
     "line": 7020
@@ -1171,7 +1035,6 @@
     "period_start": "2025-04-01",
     "period_end": "2025-09-30",
     "dpu": 2.95,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8152
@@ -1227,19 +1090,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 7.48,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 45254000,
-    "line": 4123
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 7.54,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 45617000,
     "line": 4124
@@ -1248,7 +1101,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-10-31",
     "dpu": 5.0,
-    "basis": "accrual",
     "pay_date": "2024-11-26",
     "amount": 30250000,
     "line": 4125
@@ -1257,7 +1109,6 @@
     "period_start": "2024-11-01",
     "period_end": "2024-12-31",
     "dpu": 2.38,
-    "basis": "accrual",
     "pay_date": "2025-03-11",
     "amount": null,
     "line": 6759
@@ -1315,19 +1166,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-11-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.38,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 15526000,
-    "line": 4668
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 7.65,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 49910000,
     "line": 4669
@@ -1336,7 +1177,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 7.64,
-    "basis": "accrual",
     "pay_date": "2026-03-10",
     "amount": null,
     "line": 7728
@@ -1393,19 +1233,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 5.45,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 362854000,
-    "line": 5714
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 5.43,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 365687000,
     "line": 5715
@@ -1414,7 +1244,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-11",
     "dpu": 2.16,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 145531000,
     "line": 5716
@@ -1423,7 +1252,6 @@
     "period_start": "2024-09-12",
     "period_end": "2024-12-31",
     "dpu": 3.29,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 1730
@@ -1480,19 +1308,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-09-12",
-    "period_end": "2024-12-31",
-    "dpu": 3.29,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 240120000,
-    "line": 5653
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 5.62,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 1712
@@ -1501,7 +1319,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-08-13",
     "dpu": 1.35,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 1712
@@ -1510,7 +1327,6 @@
     "period_start": "2025-08-14",
     "period_end": "2025-12-31",
     "dpu": 4.61,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 1712
@@ -1615,7 +1431,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 0.25,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 2611000,
     "line": 6329
@@ -1675,7 +1490,6 @@
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 3.153,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 39276000,
     "line": 6317
@@ -1684,7 +1498,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.929,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 36635000,
     "line": 6318
@@ -1744,7 +1557,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 3.055,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 38356000,
     "line": 5959
@@ -1753,7 +1565,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 3.083,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 38852000,
     "line": 5960
@@ -1806,19 +1617,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 3.09,
-    "basis": "cash_paid",
-    "pay_date": "2024-02-28",
-    "amount": 41358000,
-    "line": 6926
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 3.64,
-    "basis": "accrual",
     "pay_date": "2024-08-28",
     "amount": 48850000,
     "line": 6927
@@ -1827,7 +1628,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 3.2,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 43200000,
     "line": 6930
@@ -1880,19 +1680,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 3.2,
-    "basis": "cash_paid",
-    "pay_date": "2025-02-27",
-    "amount": 43182000,
-    "line": 5643
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 3.97,
-    "basis": "accrual",
     "pay_date": "2025-09-18",
     "amount": 53745000,
     "line": 5644
@@ -1901,7 +1691,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 3.9,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 53100000,
     "line": 5647
@@ -2051,19 +1840,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2024-06-30",
-    "dpu": 3.58,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 42590000,
-    "line": 5368
-   },
-   {
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.8,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7543
@@ -2119,19 +1898,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2025-06-30",
-    "dpu": 3.6,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 46779000,
-    "line": 5555
-   },
-   {
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 1.8,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7896
@@ -2186,19 +1955,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 2.61,
-    "basis": "cash_paid",
-    "pay_date": "2024-03-26",
-    "amount": 18167000,
-    "line": 5470
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 2.45,
-    "basis": "accrual",
     "pay_date": "2024-09-26",
     "amount": 17077000,
     "line": 5471
@@ -2207,7 +1966,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.34,
-    "basis": "accrual",
     "pay_date": "2025-03-26",
     "amount": null,
     "line": 7115
@@ -2262,19 +2020,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.34,
-    "basis": "cash_paid",
-    "pay_date": "2025-03-26",
-    "amount": 16355000,
-    "line": 6267
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 2.24,
-    "basis": "accrual",
     "pay_date": "2025-09-26",
     "amount": 15677000,
     "line": 6268
@@ -2283,7 +2031,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 2.09,
-    "basis": "accrual",
     "pay_date": "2026-03-26",
     "amount": null,
     "line": 7963
@@ -2350,19 +2097,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-08-14",
-    "period_end": "2023-12-31",
-    "dpu": 3.095,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 116474000,
-    "line": 4570
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 2.547,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 96443000,
     "line": 4571
@@ -2371,7 +2108,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 3.55,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 134786000,
     "line": 10262
@@ -2440,19 +2176,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 3.55,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 134764000,
-    "line": 4609
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 2.526,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 96483000,
     "line": 4610
@@ -2461,7 +2187,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 3.576,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 137025000,
     "line": 9464
@@ -2517,19 +2242,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-04-01",
-    "period_end": "2023-09-30",
-    "dpu": 6.02,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 103065000,
-    "line": 7442
-   },
-   {
     "period_start": "2023-10-01",
     "period_end": "2024-02-04",
     "dpu": 4.25,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 72834000,
     "line": 7443
@@ -2538,7 +2253,6 @@
     "period_start": "2024-02-05",
     "period_end": "2024-03-31",
     "dpu": 1.772,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 32072000,
     "line": 7444
@@ -2547,7 +2261,6 @@
     "period_start": "2024-04-01",
     "period_end": "2024-09-30",
     "dpu": 6.02,
-    "basis": "accrual",
     "pay_date": "2024-11-29",
     "amount": 109415000,
     "line": 7448
@@ -2604,19 +2317,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-04-01",
-    "period_end": "2024-09-30",
-    "dpu": 6.02,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 109415000,
-    "line": 6241
-   },
-   {
     "period_start": "2024-10-01",
     "period_end": "2025-03-31",
     "dpu": 6.054,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 110077000,
     "line": 6242
@@ -2625,7 +2328,6 @@
     "period_start": "2025-04-01",
     "period_end": "2025-04-03",
     "dpu": 0.096,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 1745000,
     "line": 6243
@@ -2634,7 +2336,6 @@
     "period_start": "2025-04-04",
     "period_end": "2025-09-30",
     "dpu": 5.963,
-    "basis": "accrual",
     "pay_date": "2025-11-28",
     "amount": 121344000,
     "line": 6246
@@ -2693,19 +2394,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 3.19,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 39789000,
-    "line": 8837
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 2.51,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 31504000,
     "line": 8838
@@ -2714,7 +2405,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.81,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 12758
@@ -2773,19 +2463,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.81,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 35375000,
-    "line": 8905
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 1.98,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 25117000,
     "line": 8906
@@ -2794,7 +2474,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 2.82,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 12667
@@ -2850,19 +2529,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 1.186,
-    "basis": "cash_paid",
-    "pay_date": "2024-03-27",
-    "amount": 91193000,
-    "line": 7539
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 1.122,
-    "basis": "accrual",
     "pay_date": "2024-09-17",
     "amount": 86231000,
     "line": 7535
@@ -2871,7 +2540,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-11-10",
     "dpu": 0.722,
-    "basis": "accrual",
     "pay_date": "2025-01-08",
     "amount": 55672000,
     "line": 2123
@@ -2880,23 +2548,13 @@
     "period_start": "2024-11-11",
     "period_end": "2024-12-31",
     "dpu": 0.275,
-    "basis": "accrual",
     "pay_date": "2025-03-14",
     "amount": 22027000,
-    "line": 2125
-   },
-   {
-    "period_start": "2024-11-29",
-    "period_end": "2024-12-31",
-    "dpu": 0.195,
-    "basis": "accrual",
-    "pay_date": null,
-    "amount": 77000,
     "line": 2125
    }
   ],
   "distribution_period_months": 12,
-  "record_note": "CRITICAL: all FY2024 rates are PRE the 10:1 unit consolidation completed 5 May 2025 -- do NOT sum or compare against FY2025 rates without adjusting for the consolidation. 2H FY2024 was split into two tranches around the 11 Nov 2024 preferential offering (advanced distribution 1 Jul-10 Nov 2024, paid 8 Jan 2025; balance distribution 11 Nov-31 Dec 2024, paid 14 Mar 2025) -- rates for these two are not printed as numbers in the FY2024 report itself (only the payment dates and periods, via financial-calendar footnotes 3/4) but are confirmed exactly (0.722 and 0.275 cents) via the FY2024 comparative column of the FY2025 report's Distribution Statement Note B, and independently verified because 1.122+0.722+0.275=2.119 exactly equals the headline FY2024 DPU. A 5th tiny tranche (0.195 cents, 29 Nov-31 Dec 2024) was paid per Consideration Unit only (new units issued 29 Nov 2024 for the 20 Tuas South Ave 14 acquisition) -- it is on a different, smaller unit base and is NOT part of the headline per-Unit DPU calculation; excluded from accrual_sum.",
+  "record_note": "CRITICAL: all FY2024 rates are PRE the 10:1 unit consolidation completed 5 May 2025 -- do NOT sum or compare against FY2025 rates without adjusting for the consolidation. 2H FY2024 was split into two tranches around the 11 Nov 2024 preferential offering (advanced distribution 1 Jul-10 Nov 2024, paid 8 Jan 2025; balance distribution 11 Nov-31 Dec 2024, paid 14 Mar 2025) -- rates for these two are not printed as numbers in the FY2024 report itself (only the payment dates and periods, via financial-calendar footnotes 3/4) but are confirmed exactly (0.722 and 0.275 cents) via the FY2024 comparative column of the FY2025 report's Distribution Statement Note B, and independently verified because 1.122+0.722+0.275=2.119 exactly equals the headline FY2024 DPU. A 5th tiny tranche (0.195 cents, 29 Nov-31 Dec 2024) was paid per Consideration Unit only (new units issued 29 Nov 2024 for the 20 Tuas South Ave 14 acquisition) -- it is on a different, smaller unit base and is NOT part of the headline per-Unit DPU calculation; excluded from accrual_sum. | A 0.195c tranche for 29 Nov-31 Dec 2024 was REMOVED: it applied only to the new units from the 11 Nov 2024 preferential offering, overlapped the 0.275c tranche, and is not part of the headline DPU (1.122+0.722+0.275=2.119).",
   "record_sum_matches": true
  },
  {
@@ -2945,37 +2603,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-11-10",
-    "dpu": 0.722,
-    "basis": "cash_paid",
-    "pay_date": "2025-01-08",
-    "amount": 55672000,
-    "line": 5181
-   },
-   {
-    "period_start": "2024-11-11",
-    "period_end": "2024-12-31",
-    "dpu": 0.275,
-    "basis": "cash_paid",
-    "pay_date": "2025-03-14",
-    "amount": 22027000,
-    "line": 5180
-   },
-   {
-    "period_start": "2024-11-29",
-    "period_end": "2024-12-31",
-    "dpu": 0.195,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 77000,
-    "line": 5179
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 11.239,
-    "basis": "accrual",
     "pay_date": "2025-09-12",
     "amount": 90145000,
     "line": 5176
@@ -2984,7 +2614,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 10.675,
-    "basis": "accrual",
     "pay_date": "2026-03-24",
     "amount": null,
     "line": 1990
@@ -3043,19 +2672,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-06-30",
-    "dpu": 1.77,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 42066000,
-    "line": 4984
-   },
-   {
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.795,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 43490000,
     "line": 4985
@@ -3064,7 +2683,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 1.8013,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 44100000,
     "line": 7327
@@ -3118,19 +2736,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 2.9,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 109694000,
-    "line": 5681
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 2.8,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 106914000,
     "line": 5682
@@ -3139,7 +2747,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.8,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8106
@@ -3193,19 +2800,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.8,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 107633000,
-    "line": 6081
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 2.72,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 105549000,
     "line": 6082
@@ -3214,7 +2811,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-10-16",
     "dpu": 1.63,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 63411000,
     "line": 6083
@@ -3223,7 +2819,6 @@
     "period_start": "2025-10-17",
     "period_end": "2025-12-31",
     "dpu": 0.88,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8436
@@ -3291,19 +2886,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 1.15,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 12786000,
-    "line": 4984
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 1.34,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 15076000,
     "line": 4985
@@ -3312,7 +2897,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.52,
-    "basis": "accrual",
     "pay_date": "2025-02-28",
     "amount": null,
     "line": 844
@@ -3381,19 +2965,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 1.52,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 17101000,
-    "line": 4407
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 1.7,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 19126000,
     "line": 4408
@@ -3402,7 +2976,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 1.83,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 986
@@ -3455,19 +3028,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-01-01",
-    "period_end": "2023-03-31",
-    "dpu": 2.268,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 109227000,
-    "line": 5629
-   },
-   {
     "period_start": "2023-04-01",
     "period_end": "2023-04-10",
     "dpu": 0.234,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 11270000,
     "line": 5630
@@ -3476,7 +3039,6 @@
     "period_start": "2023-04-11",
     "period_end": "2023-06-30",
     "dpu": 2.037,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 100695000,
     "line": 5631
@@ -3485,7 +3047,6 @@
     "period_start": "2023-07-01",
     "period_end": "2023-09-30",
     "dpu": 2.268,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 112501000,
     "line": 5632
@@ -3494,7 +3055,6 @@
     "period_start": "2023-10-01",
     "period_end": "2023-12-31",
     "dpu": 2.253,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 112242000,
     "line": 5633
@@ -3503,7 +3063,6 @@
     "period_start": "2024-01-01",
     "period_end": "2024-03-31",
     "dpu": 2.211,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8980
@@ -3556,19 +3115,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-03-31",
-    "dpu": 2.211,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 110417000,
-    "line": 5592
-   },
-   {
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 2.068,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 103730000,
     "line": 5593
@@ -3577,7 +3126,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 2.027,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 102287000,
     "line": 5594
@@ -3586,7 +3134,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 2.003,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 101309000,
     "line": 5595
@@ -3595,7 +3142,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 1.955,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8801
@@ -3648,19 +3194,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2025-01-01",
-    "period_end": "2025-03-31",
-    "dpu": 1.955,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 99055000,
-    "line": 5425
-   },
-   {
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 1.812,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 91961000,
     "line": 5426
@@ -3669,7 +3205,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 1.815,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 92455000,
     "line": 5427
@@ -3678,7 +3213,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 1.816,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 92664000,
     "line": 5428
@@ -3687,7 +3221,6 @@
     "period_start": "2026-01-01",
     "period_end": "2026-03-31",
     "dpu": 1.819,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8961
@@ -3744,19 +3277,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-01-01",
-    "period_end": "2023-03-31",
-    "dpu": 3.33,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 91238000,
-    "line": 6892
-   },
-   {
     "period_start": "2023-04-01",
     "period_end": "2023-06-05",
     "dpu": 2.48,
-    "basis": "accrual",
     "pay_date": "2023-07-06",
     "amount": 67962000,
     "line": 6893
@@ -3765,7 +3288,6 @@
     "period_start": "2023-06-06",
     "period_end": "2023-06-30",
     "dpu": 0.91,
-    "basis": "accrual",
     "pay_date": "2023-09-05",
     "amount": 25780000,
     "line": 6894
@@ -3774,7 +3296,6 @@
     "period_start": "2023-07-01",
     "period_end": "2023-09-30",
     "dpu": 3.32,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 94072000,
     "line": 6895
@@ -3783,7 +3304,6 @@
     "period_start": "2023-10-01",
     "period_end": "2023-12-31",
     "dpu": 3.36,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 95221000,
     "line": 6896
@@ -3792,7 +3312,6 @@
     "period_start": "2024-01-01",
     "period_end": "2024-03-31",
     "dpu": 3.36,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 9953
@@ -3849,19 +3368,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-03-31",
-    "dpu": 3.36,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 95245000,
-    "line": 7233
-   },
-   {
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 3.43,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 97261000,
     "line": 7234
@@ -3870,7 +3379,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 3.37,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 95836000,
     "line": 7235
@@ -3879,7 +3387,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 3.41,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 97113000,
     "line": 7236
@@ -3888,7 +3395,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 3.36,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 10466
@@ -3945,19 +3451,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2025-01-01",
-    "period_end": "2025-03-31",
-    "dpu": 3.36,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 95791000,
-    "line": 6494
-   },
-   {
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 3.27,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 93251000,
     "line": 6495
@@ -3966,7 +3462,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 3.18,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 90712000,
     "line": 6496
@@ -3975,7 +3470,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 3.17,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 90452000,
     "line": 6497
@@ -3984,7 +3478,6 @@
     "period_start": "2026-01-01",
     "period_end": "2026-03-31",
     "dpu": 3.09,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 9297
@@ -4038,19 +3531,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 1.33,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 7798000,
-    "line": 8184
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 1.4,
-    "basis": "accrual",
     "pay_date": "2024-09-23",
     "amount": 8219000,
     "line": 8185
@@ -4059,7 +3542,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.47,
-    "basis": "accrual",
     "pay_date": "2025-03-28",
     "amount": null,
     "line": 1384
@@ -4113,19 +3595,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 1.47,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 8735000,
-    "line": 7257
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-18",
     "dpu": 1.43,
-    "basis": "accrual",
     "pay_date": "2025-07-25",
     "amount": 8527000,
     "line": 7258
@@ -4134,7 +3606,6 @@
     "period_start": "2025-06-19",
     "period_end": "2025-06-30",
     "dpu": 0.11,
-    "basis": "accrual",
     "pay_date": "2025-09-18",
     "amount": 671000,
     "line": 7259
@@ -4143,7 +3614,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 1.49,
-    "basis": "accrual",
     "pay_date": "2026-03-30",
     "amount": null,
     "line": 1666
@@ -4196,19 +3666,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-01-01",
-    "period_end": "2023-03-31",
-    "dpu": 2.25,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 117885000,
-    "line": 7112
-   },
-   {
     "period_start": "2023-04-01",
     "period_end": "2023-06-30",
     "dpu": 2.18,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 114305000,
     "line": 7113
@@ -4217,7 +3677,6 @@
     "period_start": "2023-07-01",
     "period_end": "2023-09-30",
     "dpu": 2.24,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 117517000,
     "line": 7114
@@ -4226,7 +3685,6 @@
     "period_start": "2023-10-01",
     "period_end": "2023-12-31",
     "dpu": 2.2,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 115495000,
     "line": 7115
@@ -4235,7 +3693,6 @@
     "period_start": "2024-01-01",
     "period_end": "2024-03-31",
     "dpu": 2.29,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 9914
@@ -4288,19 +3745,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-03-31",
-    "dpu": 2.29,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 120293000,
-    "line": 5397
-   },
-   {
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 2.09,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 109872000,
     "line": 5398
@@ -4309,7 +3756,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 1.98,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 104166000,
     "line": 5399
@@ -4318,7 +3764,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 2.0,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 105278000,
     "line": 5400
@@ -4327,7 +3772,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 1.95,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 8094
@@ -4382,19 +3826,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2025-01-01",
-    "period_end": "2025-03-31",
-    "dpu": 1.95,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 102718000,
-    "line": 5078
-   },
-   {
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 2.01,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 105949000,
     "line": 5079
@@ -4403,7 +3837,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 2.01,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 106023000,
     "line": 5080
@@ -4412,7 +3845,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 2.05,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 108199000,
     "line": 5081
@@ -4421,7 +3853,6 @@
     "period_start": "2026-01-01",
     "period_end": "2026-03-31",
     "dpu": 1.9,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 100342000,
     "line": 8099
@@ -4493,19 +3924,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-03-31",
-    "dpu": 2.37,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 19220000,
-    "line": 6446
-   },
-   {
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 2.27,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 18431000,
     "line": 6447
@@ -4514,7 +3935,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 2.4,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 19527000,
     "line": 6448
@@ -4523,7 +3943,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 2.4,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 19536000,
     "line": 6449
@@ -4532,7 +3951,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 2.53,
-    "basis": "accrual",
     "pay_date": "2025-06-25",
     "amount": null,
     "line": 9193
@@ -4603,19 +4021,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2025-01-01",
-    "period_end": "2025-03-31",
-    "dpu": 2.53,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 20660000,
-    "line": 6900
-   },
-   {
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 2.28,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 18626000,
     "line": 6901
@@ -4624,7 +4032,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 2.44,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 19941000,
     "line": 6902
@@ -4633,7 +4040,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 2.53,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 20711000,
     "line": 6903
@@ -4642,7 +4048,6 @@
     "period_start": "2026-01-01",
     "period_end": "2026-03-31",
     "dpu": 2.6,
-    "basis": "accrual",
     "pay_date": "2026-06-29",
     "amount": 21300000,
     "line": 9869
@@ -4695,19 +4100,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 2.14,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 12448000,
-    "line": 5747
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 2.01,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 11727000,
     "line": 5748
@@ -4716,7 +4111,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.05,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7592
@@ -4771,19 +4165,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.05,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 12088000,
-    "line": 6001
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 2.09,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12475000,
     "line": 6002
@@ -4792,7 +4176,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 2.3,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7811
@@ -4848,19 +4231,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 0.25,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 2974000,
-    "line": 5468
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 0.18,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 2354000,
     "line": 5469
@@ -4869,7 +4242,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 0.11,
-    "basis": "accrual",
     "pay_date": "2025-03-28",
     "amount": null,
     "line": 7057
@@ -4925,19 +4297,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 0.11,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 1439000,
-    "line": 5100
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 0.12,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 1570000,
     "line": 5101
@@ -4946,7 +4308,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-10-05",
     "dpu": 0.24,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 3140000,
     "line": 5102
@@ -4955,7 +4316,6 @@
     "period_start": "2025-10-06",
     "period_end": "2025-12-31",
     "dpu": 0.25,
-    "basis": "accrual",
     "pay_date": "2026-03-31",
     "amount": null,
     "line": 7747
@@ -5014,19 +4374,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-01-01",
-    "period_end": "2024-06-30",
-    "dpu": 1.85,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 41925000,
-    "line": 7275
-   },
-   {
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.8,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 41254000,
     "line": 7276
@@ -5035,7 +4385,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 1.85,
-    "basis": "accrual",
     "pay_date": "2025-09-24",
     "amount": null,
     "line": 9087
@@ -5090,19 +4439,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 2.17,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 43510000,
-    "line": 5363
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 1.96,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 39454000,
     "line": 5364
@@ -5111,7 +4450,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 2.08,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 41943000,
     "line": 7026
@@ -5166,19 +4504,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 2.08,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 41943000,
-    "line": 5391
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 1.78,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 36020000,
     "line": 5392
@@ -5187,7 +4515,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-08-19",
     "dpu": 0.47,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 9511000,
     "line": 5393
@@ -5196,7 +4523,6 @@
     "period_start": "2025-08-20",
     "period_end": "2025-12-31",
     "dpu": 1.45,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 29771000,
     "line": 7614
@@ -5250,19 +4576,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 7.903,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 44446000,
-    "line": 6066
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 7.05,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 39648000,
     "line": 6067
@@ -5271,7 +4587,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 7.056,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7099
@@ -5324,19 +4639,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 7.056,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 39683000,
-    "line": 7697
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 6.553,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 36748000,
     "line": 7696
@@ -5345,7 +4650,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 6.837,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 7705
@@ -5402,19 +4706,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-10-01",
-    "period_end": "2023-12-31",
-    "dpu": 1.866,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 54290000,
-    "line": 3962
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-03-31",
     "dpu": 1.511,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 44026000,
     "line": 3963
@@ -5423,7 +4717,6 @@
     "period_start": "2024-04-01",
     "period_end": "2024-06-30",
     "dpu": 1.531,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 44674000,
     "line": 3964
@@ -5432,7 +4725,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-09-30",
     "dpu": 1.58,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 46158000,
     "line": 3965
@@ -5441,7 +4733,6 @@
     "period_start": "2024-10-01",
     "period_end": "2024-12-31",
     "dpu": 1.57,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 6723
@@ -5498,19 +4789,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-10-01",
-    "period_end": "2024-12-31",
-    "dpu": 1.57,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 46063000,
-    "line": 4011
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-03-31",
     "dpu": 1.563,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 45918000,
     "line": 4012
@@ -5519,7 +4800,6 @@
     "period_start": "2025-04-01",
     "period_end": "2025-06-30",
     "dpu": 1.592,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 46835000,
     "line": 4013
@@ -5528,7 +4808,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-09-30",
     "dpu": 1.778,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 52370000,
     "line": 4014
@@ -5537,7 +4816,6 @@
     "period_start": "2025-10-01",
     "period_end": "2025-12-31",
     "dpu": 2.102,
-    "basis": "accrual",
     "pay_date": null,
     "amount": null,
     "line": 6821
@@ -5597,19 +4875,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2023-07-01",
-    "period_end": "2023-12-31",
-    "dpu": 1.04,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 57126000,
-    "line": 5126
-   },
-   {
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 0.93,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 51085000,
     "line": 5127
@@ -5618,7 +4886,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 1.13,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 62361000,
     "line": 7643
@@ -5676,19 +4943,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 1.13,
-    "basis": "cash_paid",
-    "pay_date": null,
-    "amount": 62151000,
-    "line": 4927
-   },
-   {
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 0.98,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 54033000,
     "line": 4928
@@ -5697,7 +4954,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 1.25,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 69442000,
     "line": 7392
@@ -5753,7 +5009,6 @@
     "period_start": "2024-01-01",
     "period_end": "2024-06-30",
     "dpu": 0.96,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12907000,
     "line": 7362
@@ -5762,7 +5017,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 0.94,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 12661000,
     "line": 7363
@@ -5818,7 +5072,6 @@
     "period_start": "2025-01-01",
     "period_end": "2025-06-30",
     "dpu": 0.71,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 9549000,
     "line": 6752
@@ -5827,7 +5080,6 @@
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 0.38,
-    "basis": "accrual",
     "pay_date": null,
     "amount": 5113000,
     "line": 6753
@@ -5902,7 +5154,6 @@
     "period_start": "2024-07-01",
     "period_end": "2024-12-31",
     "dpu": 0.848,
-    "basis": "accrual",
     "pay_date": "2025-03-28",
     "amount": null,
     "line": 5967
@@ -5972,19 +5223,9 @@
   },
   "distribution_record": [
    {
-    "period_start": "2024-07-01",
-    "period_end": "2024-12-31",
-    "dpu": 0.848,
-    "basis": "cash_paid",
-    "pay_date": "2025-03-28",
-    "amount": null,
-    "line": 5967
-   },
-   {
     "period_start": "2025-07-01",
     "period_end": "2025-12-31",
     "dpu": 0.418,
-    "basis": "accrual",
     "pay_date": "2026-03-30",
     "amount": null,
     "line": 5844
