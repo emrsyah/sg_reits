@@ -1,0 +1,230 @@
+[
+  {
+    "symbol": "JYEU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 3.60,
+    "accrual_sum": 3.5963,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":1.770,"basis":"cash_paid","pay_date":null,"amount":42066000,"line":4984},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":1.795,"basis":"accrual","pay_date":null,"amount":43490000,"line":4985},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":1.8013,"basis":"accrual","pay_date":null,"amount":44100000,"line":7327}
+    ],
+    "record_note":"Report is for the year ended 30 June 2025, labeled declared FY2024 per naming convention. Consolidated Distribution Statement shows cash paid during the year for the periods Jan-Jun 2024 (prior FY, cash_paid) and Jul-Dec 2024 (accrual). The Jan-Jun 2025 tranche (1.8013 cents, ~S$44.1m) was announced 4 Aug 2025 as a subsequent event and is accrual. Accrual sum 3.5963 vs headline 3.60 differs only by rounding of the headline figure.",
+    "flags": []
+  },
+  {
+    "symbol": "D5IU",
+    "financial_year": 2024,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": null,
+    "accrual_sum": null,
+    "sum_matches": null,
+    "distribution_record": [],
+    "record_note": "Suspended trust. Distribution Statement and DPU summary table show '-' (dash) for all periods in FY2024; no distributions declared or paid.",
+    "flags": ["suspended_distribution"]
+  },
+  {
+    "symbol": "D5IU",
+    "financial_year": 2025,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": null,
+    "accrual_sum": null,
+    "sum_matches": null,
+    "distribution_record": [],
+    "record_note": "Suspended trust. DPU summary table shows '-' for FY2025; no distributions declared or paid.",
+    "flags": ["suspended_distribution"]
+  },
+  {
+    "symbol": "BTOU",
+    "financial_year": 2024,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": null,
+    "accrual_sum": null,
+    "sum_matches": null,
+    "distribution_record": [],
+    "record_note": "Suspended trust. Distribution Statement (note) shows DPU as '-' for FY2024; no cash distribution declared. The 2.15 US cents 'Adjusted income available for distribution to Unitholders per Unit' cited elsewhere in the report is NOT a DPU and was excluded per spec guidance.",
+    "flags": ["suspended_distribution"]
+  },
+  {
+    "symbol": "BTOU",
+    "financial_year": 2025,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": null,
+    "accrual_sum": null,
+    "sum_matches": null,
+    "distribution_record": [],
+    "record_note": "Suspended trust. Distribution per Unit line shows '-' for FY2025; no cash distribution declared.",
+    "flags": ["suspended_distribution"]
+  },
+  {
+    "symbol": "ME8U",
+    "financial_year": 2023,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 13.43,
+    "accrual_sum": 13.43,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-01-01","period_end":"2023-03-31","dpu":3.33,"basis":"cash_paid","pay_date":null,"amount":91238000,"line":6892},
+      {"period_start":"2023-04-01","period_end":"2023-06-05","dpu":2.48,"basis":"accrual","pay_date":"2023-07-06","amount":67962000,"line":6893},
+      {"period_start":"2023-06-06","period_end":"2023-06-30","dpu":0.91,"basis":"accrual","pay_date":"2023-09-05","amount":25780000,"line":6894},
+      {"period_start":"2023-07-01","period_end":"2023-09-30","dpu":3.32,"basis":"accrual","pay_date":null,"amount":94072000,"line":6895},
+      {"period_start":"2023-10-01","period_end":"2023-12-31","dpu":3.36,"basis":"accrual","pay_date":null,"amount":95221000,"line":6896},
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":3.36,"basis":"accrual","pay_date":null,"amount":null,"line":9953}
+    ],
+    "record_note": "Folder labeled FY2022 but is the AR for year ended 31 March 2024 -> declared FY2023 (folder labels run one year behind for ME8U). Jan-Mar 2024 tranche announced as subsequent event (para 34), amount not disclosed in AR.",
+    "flags": []
+  },
+  {
+    "symbol": "ME8U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 13.57,
+    "accrual_sum": 13.57,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":3.36,"basis":"cash_paid","pay_date":null,"amount":95245000,"line":7233},
+      {"period_start":"2024-04-01","period_end":"2024-06-30","dpu":3.43,"basis":"accrual","pay_date":null,"amount":97261000,"line":7234},
+      {"period_start":"2024-07-01","period_end":"2024-09-30","dpu":3.37,"basis":"accrual","pay_date":null,"amount":95836000,"line":7235},
+      {"period_start":"2024-10-01","period_end":"2024-12-31","dpu":3.41,"basis":"accrual","pay_date":null,"amount":97113000,"line":7236},
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":3.36,"basis":"accrual","pay_date":null,"amount":null,"line":10466}
+    ],
+    "record_note": "Folder labeled FY2023 but is the AR for year ended 31 March 2025 -> declared FY2024. Jan-Mar 2025 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "ME8U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 12.71,
+    "accrual_sum": 12.71,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":3.36,"basis":"cash_paid","pay_date":null,"amount":95791000,"line":6494},
+      {"period_start":"2025-04-01","period_end":"2025-06-30","dpu":3.27,"basis":"accrual","pay_date":null,"amount":93251000,"line":6495},
+      {"period_start":"2025-07-01","period_end":"2025-09-30","dpu":3.18,"basis":"accrual","pay_date":null,"amount":90712000,"line":6496},
+      {"period_start":"2025-10-01","period_end":"2025-12-31","dpu":3.17,"basis":"accrual","pay_date":null,"amount":90452000,"line":6497},
+      {"period_start":"2026-01-01","period_end":"2026-03-31","dpu":3.09,"basis":"accrual","pay_date":null,"amount":null,"line":9297}
+    ],
+    "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "M44U",
+    "financial_year": 2023,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 9.003,
+    "accrual_sum": 9.003,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-01-01","period_end":"2023-03-31","dpu":2.268,"basis":"cash_paid","pay_date":null,"amount":109227000,"line":5629},
+      {"period_start":"2023-04-01","period_end":"2023-04-10","dpu":0.234,"basis":"accrual","pay_date":null,"amount":11270000,"line":5630},
+      {"period_start":"2023-04-11","period_end":"2023-06-30","dpu":2.037,"basis":"accrual","pay_date":null,"amount":100695000,"line":5631},
+      {"period_start":"2023-07-01","period_end":"2023-09-30","dpu":2.268,"basis":"accrual","pay_date":null,"amount":112501000,"line":5632},
+      {"period_start":"2023-10-01","period_end":"2023-12-31","dpu":2.253,"basis":"accrual","pay_date":null,"amount":112242000,"line":5633},
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":2.211,"basis":"accrual","pay_date":null,"amount":null,"line":8980}
+    ],
+    "record_note": "Folder labeled FY2022 but is the AR for year ended 31 March 2024 -> declared FY2023. Apr 2023 tranche split at 10 April (unit-base change). Jan-Mar 2024 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "M44U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 8.053,
+    "accrual_sum": 8.053,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":2.211,"basis":"cash_paid","pay_date":null,"amount":110417000,"line":5592},
+      {"period_start":"2024-04-01","period_end":"2024-06-30","dpu":2.068,"basis":"accrual","pay_date":null,"amount":103730000,"line":5593},
+      {"period_start":"2024-07-01","period_end":"2024-09-30","dpu":2.027,"basis":"accrual","pay_date":null,"amount":102287000,"line":5594},
+      {"period_start":"2024-10-01","period_end":"2024-12-31","dpu":2.003,"basis":"accrual","pay_date":null,"amount":101309000,"line":5595},
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":1.955,"basis":"accrual","pay_date":null,"amount":null,"line":8801}
+    ],
+    "record_note": "Folder labeled FY2023 but is the AR for year ended 31 March 2025 -> declared FY2024. Jan-Mar 2025 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "M44U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 7.262,
+    "accrual_sum": 7.262,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":1.955,"basis":"cash_paid","pay_date":null,"amount":99055000,"line":5425},
+      {"period_start":"2025-04-01","period_end":"2025-06-30","dpu":1.812,"basis":"accrual","pay_date":null,"amount":91961000,"line":5426},
+      {"period_start":"2025-07-01","period_end":"2025-09-30","dpu":1.815,"basis":"accrual","pay_date":null,"amount":92455000,"line":5427},
+      {"period_start":"2025-10-01","period_end":"2025-12-31","dpu":1.816,"basis":"accrual","pay_date":null,"amount":92664000,"line":5428},
+      {"period_start":"2026-01-01","period_end":"2026-03-31","dpu":1.819,"basis":"accrual","pay_date":null,"amount":null,"line":8961}
+    ],
+    "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "N2IU",
+    "financial_year": 2023,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 8.91,
+    "accrual_sum": 8.91,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-01-01","period_end":"2023-03-31","dpu":2.25,"basis":"cash_paid","pay_date":null,"amount":117885000,"line":7112},
+      {"period_start":"2023-04-01","period_end":"2023-06-30","dpu":2.18,"basis":"accrual","pay_date":null,"amount":114305000,"line":7113},
+      {"period_start":"2023-07-01","period_end":"2023-09-30","dpu":2.24,"basis":"accrual","pay_date":null,"amount":117517000,"line":7114},
+      {"period_start":"2023-10-01","period_end":"2023-12-31","dpu":2.20,"basis":"accrual","pay_date":null,"amount":115495000,"line":7115},
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":2.29,"basis":"accrual","pay_date":null,"amount":null,"line":9914}
+    ],
+    "record_note": "Folder labeled FY2022 but is the AR for year ended 31 March 2024 -> declared FY2023. Jan-Mar 2024 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "N2IU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 8.02,
+    "accrual_sum": 8.02,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-01-01","period_end":"2024-03-31","dpu":2.29,"basis":"cash_paid","pay_date":null,"amount":120293000,"line":5397},
+      {"period_start":"2024-04-01","period_end":"2024-06-30","dpu":2.09,"basis":"accrual","pay_date":null,"amount":109872000,"line":5398},
+      {"period_start":"2024-07-01","period_end":"2024-09-30","dpu":1.98,"basis":"accrual","pay_date":null,"amount":104166000,"line":5399},
+      {"period_start":"2024-10-01","period_end":"2024-12-31","dpu":2.00,"basis":"accrual","pay_date":null,"amount":105278000,"line":5400},
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":1.95,"basis":"accrual","pay_date":null,"amount":null,"line":8094}
+    ],
+    "record_note": "Folder labeled FY2023 but is the AR for year ended 31 March 2025 -> declared FY2024. Jan-Mar 2025 tranche announced as subsequent event, amount not disclosed.",
+    "flags": []
+  },
+  {
+    "symbol": "N2IU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 7.97,
+    "accrual_sum": 7.97,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2025-01-01","period_end":"2025-03-31","dpu":1.95,"basis":"cash_paid","pay_date":null,"amount":102718000,"line":5078},
+      {"period_start":"2025-04-01","period_end":"2025-06-30","dpu":2.01,"basis":"accrual","pay_date":null,"amount":105949000,"line":5079},
+      {"period_start":"2025-07-01","period_end":"2025-09-30","dpu":2.01,"basis":"accrual","pay_date":null,"amount":106023000,"line":5080},
+      {"period_start":"2025-10-01","period_end":"2025-12-31","dpu":2.05,"basis":"accrual","pay_date":null,"amount":108199000,"line":5081},
+      {"period_start":"2026-01-01","period_end":"2026-03-31","dpu":1.90,"basis":"accrual","pay_date":null,"amount":100342000,"line":8099}
+    ],
+    "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event with amount disclosed (S$100,342,000). FY25/26 DPU 7.97 cents reported includes a one-off divestment-related tax charge; underlying DPU excluding that charge was 8.11 cents (not used here per spec: record as-printed).",
+    "flags": []
+  }
+]

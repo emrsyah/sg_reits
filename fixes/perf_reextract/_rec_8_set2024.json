@@ -1,0 +1,22 @@
+[
+{
+ "symbol": "SET",
+ "financial_year": 2024,
+ "currency": "EUR",
+ "distribution_period_months": 12,
+ "headline_dpu": 14.106,
+ "accrual_sum": 14.106,
+ "sum_matches": true,
+ "distribution_record": [
+  {"period_start": "2023-07-01", "period_end": "2023-12-31", "dpu": 7.903, "basis": "cash_paid", "pay_date": null, "amount": 44446000, "line": 6066},
+  {"period_start": "2024-01-01", "period_end": "2024-06-30", "dpu": 7.050, "basis": "accrual", "pay_date": null, "amount": 39648000, "line": 6067},
+  {"period_start": "2024-07-01", "period_end": "2024-12-31", "dpu": 7.056, "basis": "accrual", "pay_date": null, "amount": null, "line": 7099}
+ ],
+ "record_note": "Extracted by hand -- this row was missed by the batch agent. FY2024 DPU 14.106 EUR cents is stated at line 7095 as comprising (i) 7.050 for 1 Jan-30 Jun 2024 and (ii) 7.056 for 1 Jul-31 Dec 2024 'as announced subsequently on 26 February 2025'. 7.050 + 7.056 = 14.106 exactly. The 7.903 tranche for 1 Jul-31 Dec 2023 sits in the statement's cash list and is prior-year, so cash_paid. No EUR amount is published for the 7.056 tranche in this report.",
+ "flags": [
+  "This is the pre-stapling year: 'SERT' here abbreviates Stoneweg European REIT only; the stapling with Stoneweg European BT took effect 16 June 2025. Figures are 'per Unit', not 'per Stapled Security'.",
+  "TRAP 1 present in this report: the line labelled 'Income available for distribution to Unitholders' 123,980 is CUMULATIVE (44,652 + 35,481 - 2,328 + 46,175). The FY2025 report restates the for-the-year figure as 79,328.",
+  "amount for the 7.056 tranche is null -- the EUR figure (39,683k) only appears a year later in the FY2025 report."
+ ]
+}
+]

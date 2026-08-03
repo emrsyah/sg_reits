@@ -1,0 +1,129 @@
+[
+  {
+    "symbol": "A17U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 15.205,
+    "accrual_sum": 7.524,
+    "sum_matches": false,
+    "distribution_record": [
+      {"period_start":"2023-07-01","period_end":"2023-12-31","dpu":7.441,"basis":"cash_paid","pay_date":null,"amount":326928000,"line":5322},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":7.524,"basis":"accrual","pay_date":null,"amount":330829000,"line":5321}
+    ],
+    "record_note":"Consolidated Distribution Statement (p.110) shows only two cash tranches: 7.441c for 01/07/23-31/12/23 (prior-year, cash_paid) and 7.524c for 01/01/24-30/06/24 (accrual). The Subsequent Events note (Note 32, p.200) mentions only a property acquisition and a units-for-fees issuance -- it does NOT disclose a H2 2024 distribution declaration. Headline DPU per Note 25 is 15.205c, implying an undisclosed H2 2024 tranche of ~7.681c that had not yet been declared as of the report's issue date. Confirmed by the FY2025 AR's comparative column, which later shows 'Distribution of 7.681 cents per unit for the period from 01/07/24 to 31/12/24' declared as a FY2025 subsequent-year payment -- but that disclosure does not appear in this FY2024 report itself, so per spec it is left out here and the mismatch is reported honestly.",
+    "flags":["accrual_sum_mismatch","h2_tranche_not_yet_declared_in_this_report"]
+  },
+  {
+    "symbol": "A17U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 15.005,
+    "accrual_sum": 7.477,
+    "sum_matches": false,
+    "distribution_record": [
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":7.681,"basis":"cash_paid","pay_date":null,"amount":338005000,"line":5404},
+      {"period_start":"2025-01-01","period_end":"2025-06-05","dpu":6.479,"basis":"accrual","pay_date":null,"amount":285110000,"line":5403},
+      {"period_start":"2025-06-06","period_end":"2025-06-30","dpu":0.998,"basis":"accrual","pay_date":null,"amount":45971000,"line":5402}
+    ],
+    "record_note":"Consolidated Distribution Statement (p.116). H1 2025 was split into two tranches (6.479c for 01/01-05/06/25 and 0.998c for 06/06-30/06/25) because new units were issued mid-period, changing the per-unit rate. Headline DPU per Note 24 is 15.005c; accrual tranches sum to only 7.477c. No H2 2025 distribution (expected ~7.528c) appears in this report's Distribution Statement or Subsequent Events -- same pattern as FY2024, where the second-half distribution is evidently declared after this report's cut-off and only surfaces as a comparative figure in the following year's AR. Mismatch reported honestly, not forced.",
+    "flags":["accrual_sum_mismatch","h2_tranche_not_yet_declared_in_this_report","mid_period_unit_issuance_split_tranche"]
+  },
+  {
+    "symbol": "HMN",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 6.10,
+    "accrual_sum": 6.097,
+    "sum_matches": false,
+    "distribution_record": [
+      {"period_start":"2023-08-14","period_end":"2023-12-31","dpu":3.095,"basis":"cash_paid","pay_date":null,"amount":116474000,"line":4570},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":2.547,"basis":"accrual","pay_date":null,"amount":96443000,"line":4571},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":3.550,"basis":"accrual","pay_date":null,"amount":134786000,"line":10262}
+    ],
+    "record_note":"Distribution Statements (p.119). The 2H 2024 tranche (3.550c, $134,786,000) was declared 27 Jan 2025 for the period 1 Jul-31 Dec 2024 (Note 39 Subsequent Events) -- it is an accrual item in respect of FY2024 despite being declared and paid after year-end (per batch instructions, judged by period not pay date). Accrual sum 6.097c vs headline 'Distribution per Stapled Security' of 6.10c is a ~0.003c rounding difference (headline figure is itself rounded from the underlying cent components); not forced to match exactly.",
+    "flags":["rounding_only_mismatch"]
+  },
+  {
+    "symbol": "HMN",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 6.10,
+    "accrual_sum": 6.102,
+    "sum_matches": false,
+    "distribution_record": [
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":3.550,"basis":"cash_paid","pay_date":null,"amount":134764000,"line":4609},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":2.526,"basis":"accrual","pay_date":null,"amount":96483000,"line":4610},
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":3.576,"basis":"accrual","pay_date":null,"amount":137025000,"line":9464}
+    ],
+    "record_note":"Distribution Statements (p.114). 2H 2025 tranche (3.576c, $137,025,000) declared 29 Jan 2026 for the period 1 Jul-31 Dec 2025 (Note 39 Subsequent Events) -- accrual, in respect of FY2025 despite pay date falling in 2026. Note the amount for this same tranche is stated as $134,764,000 for the 2024 comparative column (vs $134,786,000 in the FY2024 report) -- a small restatement between the two reports, both figures preserved as printed in their respective source reports. Accrual sum 6.102c vs headline 6.10c is a ~0.002c rounding difference, not forced to match.",
+    "flags":["rounding_only_mismatch","prior_year_amount_restated_between_reports"]
+  },
+  {
+    "symbol": "AU8U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 5.65,
+    "accrual_sum": 5.65,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-07-01","period_end":"2023-12-31","dpu":3.00,"basis":"cash_paid","pay_date":null,"amount":50666000,"line":4678},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":3.01,"basis":"accrual","pay_date":null,"amount":51301000,"line":4677},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":2.64,"basis":"accrual","pay_date":null,"amount":null,"line":7462}
+    ],
+    "record_note":"Consolidated distribution statement (p.92). 2H 2024 tranche (2.64c) declared 6 Feb 2025 for period 1 Jul-31 Dec 2024 (Note 30 Subsequent Events, p.164) -- AU8U declares its 2H tranche in February of the following year per batch instructions; included as accrual. No dollar amount given for this subsequent-event tranche, only the per-unit rate. Accrual sum 3.01+2.64=5.65 matches headline DPU exactly.",
+    "flags":[]
+  },
+  {
+    "symbol": "AU8U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 4.82,
+    "accrual_sum": 4.82,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":2.64,"basis":"cash_paid","pay_date":null,"amount":45418000,"line":4684},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":2.49,"basis":"accrual","pay_date":null,"amount":43325000,"line":4683},
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":2.33,"basis":"accrual","pay_date":null,"amount":null,"line":7456}
+    ],
+    "record_note":"Consolidated Distribution Statement (p.94). 2H 2025 tranche (2.33c) declared 5 Feb 2026 for period 1 Jul-31 Dec 2025 (Note 30 Subsequent events) -- accrual. Note the 2024 comparative amount for the 2.64c tranche is $45,418,000 here vs $50,666,000 shown for the earlier 3.00c/2023 tranche in the FY2024 report (different tranches, not a restatement -- 2.64c is the correct 2H2024 amount, consistent with the FY2024 report's own subsequent-events disclosure which gave no dollar figure). Accrual sum 2.49+2.33=4.82 matches headline DPU exactly.",
+    "flags":[]
+  },
+  {
+    "symbol": "CY6U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 6.84,
+    "accrual_sum": 6.84,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-07-01","period_end":"2023-12-31","dpu":3.09,"basis":"cash_paid","pay_date":"2024-02-28","amount":41358000,"line":6926},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":3.64,"basis":"accrual","pay_date":"2024-08-28","amount":48850000,"line":6927},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":3.20,"basis":"accrual","pay_date":null,"amount":43200000,"line":6930}
+    ],
+    "record_note":"CY6U publishes three per-unit figures: 'Income available for distribution per unit' (7.60c), 'Income to be distributed per unit' (6.84c -- used here as headline_dpu per spec), and cash amounts actually paid (Note 10, p.~145: 'Exempt distribution of X cents per unit paid on <date>'). Note 10 gives pay dates but not explicit period ranges; periods for the 3.09c/3.64c tranches were inferred from CY6U's semi-annual cadence (Jan-Jun / Jul-Dec) and cross-checked against the accrual sum matching the headline exactly. The 3.20c 2H2024 tranche was approved 27 Jan 2025 (subsequent event, p.~166) 'amounting to S$43.2 million' -- amount recorded as printed (43,200,000, an approximation per the source text); accrual, in respect of FY2024. Accrual sum 3.64+3.20=6.84 matches the 'Income to be distributed per unit' headline exactly.",
+    "flags":["periods_inferred_from_semiannual_cadence","three_dpu_figures_disclosed_headline_is_to_be_distributed"]
+  },
+  {
+    "symbol": "CY6U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 7.87,
+    "accrual_sum": 7.87,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":3.20,"basis":"cash_paid","pay_date":"2025-02-27","amount":43182000,"line":5643},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":3.97,"basis":"accrual","pay_date":"2025-09-18","amount":53745000,"line":5644},
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":3.90,"basis":"accrual","pay_date":null,"amount":53100000,"line":5647}
+    ],
+    "record_note":"Headline is 'Income to be distributed per unit' = 7.87c (Distribution Statement, p.102; 'Income available for distribution per unit' is a separate, higher figure of 8.74c and is NOT the headline). Note 10 (Distribution to Unitholders) gives pay dates, not explicit period ranges; periods for the 3.20c/3.97c tranches inferred from the semi-annual cadence, cross-checked against the accrual sum matching the headline exactly. Note the 3.20c cash-paid amount here ($43,182,000) differs slightly from the $43,200,000 approved-amount stated in the FY2024 report's subsequent-events note for the same tranche -- both preserved as printed in their respective source reports (approval estimate vs actual paid amount). The 3.90c 2H2025 tranche was approved 30 Jan 2026 (Note, p.~127) 'amounting to S$53.1 million' -- accrual, in respect of FY2025. Accrual sum 3.97+3.90=7.87 matches headline exactly.",
+    "flags":["periods_inferred_from_semiannual_cadence","three_dpu_figures_disclosed_headline_is_to_be_distributed","approved_vs_actual_amount_diff_prior_year"]
+  }
+]

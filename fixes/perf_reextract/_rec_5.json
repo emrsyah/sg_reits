@@ -1,0 +1,156 @@
+[
+  {
+    "symbol": "BUOU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 6.80,
+    "accrual_sum": 6.80,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-04-01","period_end":"2023-09-30","dpu":3.52,"basis":"cash_paid","pay_date":"2023-12-14","amount":131808000,"line":11554},
+      {"period_start":"2023-10-01","period_end":"2024-03-31","dpu":3.48,"basis":"accrual","pay_date":"2024-06-18","amount":130772000,"line":11555},
+      {"period_start":"2024-04-01","period_end":"2024-09-30","dpu":3.32,"basis":"accrual","pay_date":null,"amount":null,"line":12771}
+    ],
+    "record_note":"FY ends 30 Sep. Third tranche (Apr-Sep 2024) declared 6 Nov 2024, after year end, as a Subsequent Event; not yet paid or amount-disclosed at report date.",
+    "flags":[]
+  },
+  {
+    "symbol": "BUOU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 5.95,
+    "accrual_sum": 5.95,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-04-01","period_end":"2024-09-30","dpu":3.32,"basis":"cash_paid","pay_date":"2024-12-17","amount":124905000,"line":7019},
+      {"period_start":"2024-10-01","period_end":"2025-03-31","dpu":3.00,"basis":"accrual","pay_date":"2025-06-18","amount":113087000,"line":7020},
+      {"period_start":"2025-04-01","period_end":"2025-09-30","dpu":2.95,"basis":"accrual","pay_date":null,"amount":null,"line":8152}
+    ],
+    "record_note":"FY ends 30 Sep. Third tranche (Apr-Sep 2025) declared 7 Nov 2025, after year end, as a Subsequent Event; not yet paid or amount-disclosed at report date.",
+    "flags":[]
+  },
+  {
+    "symbol": "UD1U",
+    "financial_year": 2024,
+    "currency": "EUR",
+    "distribution_period_months": 12,
+    "headline_dpu": 1.90,
+    "accrual_sum": 1.90,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":0.96,"basis":"accrual","pay_date":null,"amount":12907000,"line":7362},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":0.94,"basis":"accrual","pay_date":null,"amount":12661000,"line":7363}
+    ],
+    "record_note":"Reported on a declared basis (per spec batch note): both tranches are in respect of FY2024 and both booked in the FY2024 Statement of Distribution even though the 2H tranche is paid after year end. No pay dates disclosed in the AR.",
+    "flags":[]
+  },
+  {
+    "symbol": "UD1U",
+    "financial_year": 2025,
+    "currency": "EUR",
+    "distribution_period_months": 12,
+    "headline_dpu": 1.09,
+    "accrual_sum": 1.09,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":0.71,"basis":"accrual","pay_date":null,"amount":9549000,"line":6752},
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":0.38,"basis":"accrual","pay_date":null,"amount":5113000,"line":6753}
+    ],
+    "record_note":"Declared basis, consistent with FY2024. No pay dates disclosed in the AR.",
+    "flags":[]
+  },
+  {
+    "symbol": "AJBU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 9.451,
+    "accrual_sum": 9.451,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-07-01","period_end":"2023-12-31","dpu":4.332,"basis":"cash_paid","pay_date":null,"amount":74573000,"line":6371},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":4.549,"basis":"accrual","pay_date":null,"amount":78388000,"line":6372},
+      {"period_start":"2024-07-01","period_end":"2024-11-27","dpu":4.083,"basis":"accrual","pay_date":null,"amount":70462000,"line":6373},
+      {"period_start":"2024-11-28","period_end":"2024-12-31","dpu":0.819,"basis":"accrual","pay_date":null,"amount":null,"line":8590}
+    ],
+    "record_note":"2H FY2024 split into two periods around 28 Nov 2024 due to unit issuance (preferential offering ahead of KDC SGP 7/8 acquisition). Final 0.819c stub declared 24 Jan 2025 as a Subsequent Event; amount/pay date not yet disclosed at report date.",
+    "flags":[]
+  },
+  {
+    "symbol": "AJBU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 10.381,
+    "accrual_sum": 10.381,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-11-28","period_end":"2024-12-31","dpu":0.819,"basis":"cash_paid","pay_date":null,"amount":18091000,"line":5538},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":5.133,"basis":"accrual","pay_date":null,"amount":113729000,"line":5539},
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":5.248,"basis":"accrual","pay_date":null,"amount":null,"line":7793}
+    ],
+    "record_note":"Reference case per spec. A fourth Distribution Statement line, 'Distribution of 4.209 cents per Unit for the period from 1/1/2025 to 30/6/2025', amount $1,711,000 (line 5540), is excluded from distribution_record and accrual_sum: it is far too small to be a second tranche at the same headline rate and is not referenced anywhere else in the report (no explanation of what it is — possibly a distribution to a different unit class/NCI, e.g. preferential units). Flagged for investigation rather than guessed at.",
+    "flags":["unexplained_extra_distribution_line_5540_AJBU_FY2025"]
+  },
+  {
+    "symbol": "CMOU",
+    "financial_year": 2024,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": null,
+    "accrual_sum": 0,
+    "sum_matches": true,
+    "distribution_record": [],
+    "record_note": "No distribution declared for FY2024. Distributions suspended starting with those relating to 2H 2023 under the Recapitalisation Plan announced 15 February 2024. Income available for distribution of US$47.6 million was withheld, not distributed.",
+    "flags":["distributions_suspended"]
+  },
+  {
+    "symbol": "CMOU",
+    "financial_year": 2025,
+    "currency": "USD",
+    "distribution_period_months": 12,
+    "headline_dpu": 0.25,
+    "accrual_sum": 0.25,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2025-07-01","period_end":"2025-12-31","dpu":0.25,"basis":"accrual","pay_date":null,"amount":2611000,"line":6329}
+    ],
+    "record_note":"Recapitalisation Plan concluded early; distributions resumed for 2H 2025 only (1H 2025 remains withheld/suspended, no distribution for that period). Announced 3 Feb 2026 as a Subsequent Event; no pay date disclosed. Amount is the 'Income available for distribution to Unitholders at the end of the year' figure in the Consolidated Distribution Statement.",
+    "flags":[]
+  },
+  {
+    "symbol": "K71U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 5.60,
+    "accrual_sum": 5.60,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2023-07-01","period_end":"2023-12-31","dpu":2.90,"basis":"cash_paid","pay_date":null,"amount":109694000,"line":5681},
+      {"period_start":"2024-01-01","period_end":"2024-06-30","dpu":2.80,"basis":"accrual","pay_date":null,"amount":106914000,"line":5682},
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":2.80,"basis":"accrual","pay_date":null,"amount":null,"line":8106}
+    ],
+    "record_note":"2H FY2024 (2.80c) declared 27 Jan 2025 as a Subsequent Event; amount/pay date not yet disclosed at report date.",
+    "flags":[]
+  },
+  {
+    "symbol": "K71U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "distribution_period_months": 12,
+    "headline_dpu": 5.23,
+    "accrual_sum": 5.23,
+    "sum_matches": true,
+    "distribution_record": [
+      {"period_start":"2024-07-01","period_end":"2024-12-31","dpu":2.80,"basis":"cash_paid","pay_date":null,"amount":107633000,"line":6081},
+      {"period_start":"2025-01-01","period_end":"2025-06-30","dpu":2.72,"basis":"accrual","pay_date":null,"amount":105549000,"line":6082},
+      {"period_start":"2025-07-01","period_end":"2025-10-16","dpu":1.63,"basis":"accrual","pay_date":null,"amount":63411000,"line":6083},
+      {"period_start":"2025-10-17","period_end":"2025-12-31","dpu":0.88,"basis":"accrual","pay_date":null,"amount":null,"line":8436}
+    ],
+    "record_note":"2H FY2025 split around 17 Oct 2025 due to the private placement of 114,954,000 new Units (issued 17 Oct 2025) that fund the Top Ryde City Shopping Centre acquisition; the 1.63c stub is an advanced distribution tied to that placement, covering 1 Jul-16 Oct 2025. The 0.88c tranche (17 Oct-31 Dec 2025) declared 4 Feb 2026 as a Subsequent Event; amount/pay date not yet disclosed at report date.",
+    "flags":[]
+  }
+]
