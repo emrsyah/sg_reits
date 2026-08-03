@@ -54,7 +54,8 @@
   "distribution_period_months": 3.2,
   "record_note": "STUB YEAR: CAREIT was constituted 12 Aug 2025 and listed on SGX-ST 25 Sep 2025. The audited Distribution Statement (p.~101) covers the financial period from 12 Aug 2025 (constitution) to 31 Dec 2025, but the report states actual distributable income to Unitholders relates only to 25 Sep 2025 (listing date) to 31 Dec 2025 (98 days, ~3.2 months) — not annualised. Single tranche, DPU 1.739 S cents, 6.7% above IPO forecast of 1.630 cents. Amount available for distribution ($29,995k) is the sole disclosed figure for the period; no separate per-tranche paid amount or pay date is given.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "A17U",
@@ -295,7 +296,8 @@
   "distribution_period_months": 12,
   "record_note": "2H FY2024 split into two periods around 28 Nov 2024 due to unit issuance (preferential offering ahead of KDC SGP 7/8 acquisition). Final 0.819c stub declared 24 Jan 2025 as a Subsequent Event; amount/pay date not yet disclosed at report date.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "AJBU",
@@ -361,7 +363,8 @@
   "distribution_period_months": 12,
   "record_note": "Reference case per spec. A fourth Distribution Statement line, 'Distribution of 4.209 cents per Unit for the period from 1/1/2025 to 30/6/2025', amount $1,711,000 (line 5540), is excluded from distribution_record and accrual_sum: it is far too small to be a second tranche at the same headline rate and is not referenced anywhere else in the report (no explanation of what it is — possibly a distribution to a different unit class/NCI, e.g. preferential units). Flagged for investigation rather than guessed at.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "AU8U",
@@ -376,7 +379,7 @@
   "income_for_year_derived": false,
   "other_additions": null,
   "other_additions_line": null,
-  "other_additions_label": "Capital distribution",
+  "other_additions_label": null,
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -441,13 +444,7 @@
   "distribution_period_months": 12,
   "record_note": "Consolidated distribution statement (p.92). 2H 2024 tranche (2.64c) declared 6 Feb 2025 for period 1 Jul-31 Dec 2024 (Note 30 Subsequent Events, p.164) -- AU8U declares its 2H tranche in February of the following year per batch instructions; included as accrual. No dollar amount given for this subsequent-event tranche, only the per-unit rate. Accrual sum 3.01+2.64=5.65 matches headline DPU exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": [
-   {
-    "label": "Capital distribution",
-    "amount": 0,
-    "line": 4674
-   }
-  ],
+  "other_additions_breakdown": null,
   "reclass_note": " | other_additions normalised 0 -> null: the AR prints a dash for the comparative, and 53 other rows use null for the same meaning. One row holding 0 while the rest hold null is the kind of inconsistency that bites a consumer later."
  },
  {
@@ -605,7 +602,8 @@
   "distribution_period_months": 12,
   "record_note": "AW9U (First REIT) pays quarterly; FY ends 31 Dec (calendar year, not offset). The 4Q2024 tranche (0.58 cents, 1 Oct-31 Dec 2024) is declared as a subsequent event on 11 Feb 2025 -- accrual, in respect of FY2024. 0.60+0.60+0.58+0.58=2.36 exactly matches headline DPU (5-yr summary, line 233).",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "AW9U",
@@ -690,7 +688,8 @@
   "distribution_period_months": 12,
   "record_note": "Continuation of AW9U's quarterly cadence. The 4Q2025 tranche (0.52 cents, 1 Oct-31 Dec 2025) is declared as a subsequent event on 5 Feb 2026 -- accrual, in respect of FY2025. 0.58+0.55+0.52+0.52=2.17 exactly matches headline DPU.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "BMGU",
@@ -769,7 +768,7 @@
   "distribution_period_months": 12,
   "record_note": "BMGU (BHG Retail REIT) declares semi-annually. The 2H 2024 tranche (0.25 cents, 1 Jul-31 Dec 2024) is disclosed only in Subsequent Events, declared 26 Feb 2025; the AR states it 'will be paid within 90 days from the end of the distribution period' per the Trust Deed but gives no exact pay date or dollar amount, so both are left null. Accrual sum matches headline DPU of 0.50 cents exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "BMGU",
@@ -847,7 +846,7 @@
   "distribution_period_months": 12,
   "record_note": "Same semi-annual pattern as FY2024. The 2H 2025 tranche (0.07 cents, 1 Jul-31 Dec 2025) is disclosed only in Subsequent Events, declared 27 Feb 2026; no exact pay date or dollar amount is given. Accrual sum matches headline DPU of 0.29 cents exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "BTOU",
@@ -897,7 +896,8 @@
   "distribution_record": [],
   "distribution_period_months": 12,
   "record_note": "Suspended trust. Distribution Statement (note) shows DPU as '-' for FY2024; no cash distribution declared. The 2.15 US cents 'Adjusted income available for distribution to Unitholders per Unit' cited elsewhere in the report is NOT a DPU and was excluded per spec guidance.",
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "BTOU",
@@ -946,7 +946,8 @@
   "distribution_record": [],
   "distribution_period_months": 12,
   "record_note": "Suspended trust. Distribution per Unit line shows '-' for FY2025; no cash distribution declared.",
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "BUOU",
@@ -1020,11 +1021,6 @@
     "label": "Lease incentives",
     "amount": 1582000,
     "line": 9268
-   },
-   {
-    "label": "Rental support",
-    "amount": 0,
-    "line": 9269
    },
    {
     "label": "Divestment gains",
@@ -1120,11 +1116,6 @@
     "label": "Divestment gains",
     "amount": 27830000,
     "line": 4760
-   },
-   {
-    "label": "Coupon interest",
-    "amount": 0,
-    "line": 4761
    }
   ]
  },
@@ -1201,7 +1192,8 @@
   "distribution_period_months": 12,
   "record_note": "Advance distribution of 5.00 cents (1/7/2024-31/10/2024) declared 1 Nov 2024 ahead of the private placement; final stub tranche (1/11/2024-31/12/2024) declared 5 Feb 2025 in Subsequent Events (Note 27), payable 11 Mar 2025.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "C2PU",
@@ -1270,7 +1262,8 @@
   "distribution_period_months": 12,
   "record_note": "Rounding adjustment line item ($(36)k, line 4671) is a balancing entry, not a tranche — excluded. 2H FY2025 tranche declared 2 Feb 2026 (Subsequent Events, Note 26), payable 10 Mar 2026.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "C38U",
@@ -1487,7 +1480,8 @@
   "distribution_period_months": 12,
   "record_note": "No distribution declared for FY2024. Distributions suspended starting with those relating to 2H 2023 under the Recapitalisation Plan announced 15 February 2024. Income available for distribution of US$47.6 million was withheld, not distributed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "CMOU",
@@ -1544,7 +1538,8 @@
   "distribution_period_months": 12,
   "record_note": "Recapitalisation Plan concluded early; distributions resumed for 2H 2025 only (1H 2025 remains withheld/suspended, no distribution for that period). Announced 3 Feb 2026 as a Subsequent Event; no pay date disclosed. Amount is the 'Income available for distribution to Unitholders at the end of the year' figure in the Consolidated Distribution Statement.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "CRPU",
@@ -1612,7 +1607,8 @@
   "distribution_period_months": 12,
   "record_note": "Distribution Statement is on a DECLARATION basis: both FY2024 tranches are in respect of FY2024, even though the second was declared/paid after year end (declared 20 Feb 2025, Note 24). DPU is in Singapore cents (Sasseur is an RMB-asset REIT that distributes in SGD).",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "CRPU",
@@ -1680,7 +1676,8 @@
   "distribution_period_months": 12,
   "record_note": "Declaration-basis statement, as in FY2024: both tranches in respect of FY2025. 2H2025 tranche (3.083c) will be paid subsequent to reporting date per footnote 1 (Note 24); no separate pay date given in this filing. DPU is in Singapore cents.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "CY6U",
@@ -1744,7 +1741,8 @@
   "distribution_period_months": 12,
   "record_note": "CY6U publishes three per-unit figures: 'Income available for distribution per unit' (7.60c), 'Income to be distributed per unit' (6.84c -- used here as headline_dpu per spec), and cash amounts actually paid (Note 10, p.~145: 'Exempt distribution of X cents per unit paid on <date>'). Note 10 gives pay dates but not explicit period ranges; periods for the 3.09c/3.64c tranches were inferred from CY6U's semi-annual cadence (Jan-Jun / Jul-Dec) and cross-checked against the accrual sum matching the headline exactly. The 3.20c 2H2024 tranche was approved 27 Jan 2025 (subsequent event, p.~166) 'amounting to S$43.2 million' -- amount recorded as printed (43,200,000, an approximation per the source text); accrual, in respect of FY2024. Accrual sum 3.64+3.20=6.84 matches the 'Income to be distributed per unit' headline exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "CY6U",
@@ -1858,7 +1856,8 @@
   "distribution_record": [],
   "distribution_period_months": 12,
   "record_note": "Suspended trust. Distribution Statement and DPU summary table show '-' (dash) for all periods in FY2024; no distributions declared or paid.",
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "D5IU",
@@ -1906,7 +1905,8 @@
   "distribution_record": [],
   "distribution_period_months": 12,
   "record_note": "Suspended trust. DPU summary table shows '-' for FY2025; no distributions declared or paid.",
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "DCRU",
@@ -1965,7 +1965,8 @@
   "distribution_period_months": 12,
   "record_note": "DCRU pays ONE tranche a year rather than clean calendar halves: the audited Distribution Statement (p.151, FY end 31 Dec 2024) discloses a single undivided cash distribution of 3.58 US cents ($42,590k) 'for the period from 1 July 2023 to 30 June 2024' -- a period that straddles FY2023 (H2) and FY2024 (H1) in roughly equal, but UNDISCLOSED, proportions. No split of that $ amount or rate between the two halves is given anywhere in the AR, so per the spec we do not invent one; the whole tranche is tagged cash_paid since it was the amount actually paid to Unitholders during FY2024 and its period begins in the prior FY. Separately, a 2H2024 distribution (1.80 US cents, period 1/7/2024-31/12/2024) was declared as a Subsequent Event (announced 12 Feb 2025) -- unambiguously in respect of FY2024, tagged accrual. The audited 'Distribution per Unit' headline row (3.60c) is computed as Amount available for distribution / units (a distributable-income-per-unit metric), NOT as a sum of calendar-year-matched declared tranches -- it does not literally equal either the printed cash tranche rate (3.58c) or a clean calendar sum. Because the FY2024-in-respect-of portion of the straddling tranche is not separately disclosed, accrual_sum (1.80, the only unambiguous FY2024 accrual tranche) does not reach headline_dpu (3.60). This is an honest, expected mismatch given DCRU's rolling record-date distribution mechanic -- not an extraction error.",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "DCRU",
@@ -2024,7 +2025,8 @@
   "distribution_period_months": 12,
   "record_note": "Same DCRU straddling mechanic as FY2024 (see that record's note). The audited Distribution Statement (p.156, FY end 31 Dec 2025) discloses one undivided cash distribution of 3.60 US cents ($46,779k, includes a ~$31k reversal from FY2024 buybacks per footnote 4) 'for the period from 1 July 2024 to 30 June 2025' -- straddling FY2024 (H2) and FY2025 (H1) in undisclosed proportions; tagged cash_paid (paid during FY2025, period begins in prior FY). The IR highlights slide (p.29, NOT the audited statement) separately claims 'Full-Year 2025 Distribution' = 1H25 (1.80c) + 2H25 (1.80c) = 3.60c, but 2H25 was only announced as a Subsequent Event on 4 Feb 2026 (to be paid by 31 Mar 2026) and is not yet part of the audited cash statement -- so this highlight total is an accrual-basis reconstruction, not what was actually paid in FY2025. We use only the audited Distribution Statement + Subsequent Events note per the spec, giving accrual_sum=1.80 (2H2025 tranche only) vs headline_dpu=3.60 (a distributable-income/units ratio, not a tranche sum). Honest mismatch, consistent with FY2024's record; not invented/forced to balance.",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "DHLU",
@@ -2090,7 +2092,8 @@
   "distribution_period_months": 12,
   "record_note": "FY end 31 Dec. CORRECTION: the FY2024 AR's own Distribution Statement row for the 1/1/2024-30/6/2024 tranche prints the rate as '2.61 cents' (line 5471), which is a text/OCR duplication of the row above and inconsistent with the headline DPU (2.61+2.34=4.95 != 4.79 headline). The FY2025 AR (comparative column, same $17,077k amount) restates this same tranche as '2.45 cents' for the identical period and $ amount, and 2.45+2.34=4.79 matches the headline DPU exactly and matches the audited FY2024 headline (4.79). Used 2.45 as the corrected rate; flagged. 2H2024 tranche (2.34c) declared as Subsequent Event, amount not yet disclosed at FY2024 year end.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "DHLU",
@@ -2156,7 +2159,8 @@
   "distribution_period_months": 12,
   "record_note": "FY end 31 Dec. 2.34c paid within FY2025 belongs to prior period 1/7/2024-31/12/2024 (cash_paid); 2.24c paid within FY2025 for period 1/1/2025-30/6/2025 (accrual). 2H2025 tranche (2.09c, 1/7/2025-31/12/2025) declared as Subsequent Event, amount not disclosed, scheduled pay date 26 Mar 2026 per FY2025 Investor Calendar. Accrual sum 2.24+2.09=4.33 matches headline DPU exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "HMN",
@@ -2234,7 +2238,7 @@
   "distribution_period_months": 12,
   "record_note": "Distribution Statements (p.119). The 2H 2024 tranche (3.550c, $134,786,000) was declared 27 Jan 2025 for the period 1 Jul-31 Dec 2024 (Note 39 Subsequent Events) -- it is an accrual item in respect of FY2024 despite being declared and paid after year-end (per batch instructions, judged by period not pay date). Accrual sum 6.097c vs headline 'Distribution per Stapled Security' of 6.10c is a ~0.003c rounding difference (headline figure is itself rounded from the underlying cent components); not forced to match exactly.",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "HMN",
@@ -2314,7 +2318,7 @@
   "distribution_period_months": 12,
   "record_note": "Distribution Statements (p.114). 2H 2025 tranche (3.576c, $137,025,000) declared 29 Jan 2026 for the period 1 Jul-31 Dec 2025 (Note 39 Subsequent Events) -- accrual, in respect of FY2025 despite pay date falling in 2026. Note the amount for this same tranche is stated as $134,764,000 for the 2024 comparative column (vs $134,786,000 in the FY2024 report) -- a small restatement between the two reports, both figures preserved as printed in their respective source reports. Accrual sum 6.102c vs headline 6.10c is a ~0.002c rounding difference, not forced to match.",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "J69U",
@@ -2847,7 +2851,8 @@
   "distribution_period_months": 12,
   "record_note": "Report is for the year ended 30 June 2025, labeled declared FY2024 per naming convention. Consolidated Distribution Statement shows cash paid during the year for the periods Jan-Jun 2024 (prior FY, cash_paid) and Jul-Dec 2024 (accrual). The Jan-Jun 2025 tranche (1.8013 cents, ~S$44.1m) was announced 4 Aug 2025 as a subsequent event and is accrual. Accrual sum 3.5963 vs headline 3.60 differs only by rounding of the headline figure.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "K71U",
@@ -3080,7 +3085,7 @@
   "distribution_period_months": 12,
   "record_note": "M1GU (Sabana/Alpha Integrated REIT) applies ~10% retention to the opening amount available for distribution, not to individual tranche rates; tranche rates themselves are unaffected. The 2H 2024 tranche (1.52 cents, 1 Jul-31 Dec 2024) is stated in the FY highlights narrative (line 844) and results-calendar (payment date 28 Feb 2025, per the calendar table) but its dollar amount is not printed in this FY2024 report (only in the following year's comparative Distribution Statement, $17,101,000) -- amount left null here since not disclosed in this report. DRP-issued units (13,266,912 units, ~$4,880,000) were part-payment of the FY2023 H2 cash_paid tranche; this does not change that tranche's rate or period. Accrual sum matches headline declared DPU of 2.86 cents.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "M1GU",
@@ -3160,7 +3165,7 @@
   "distribution_period_months": 12,
   "record_note": "2H 2025 tranche rate (1.83 cents) is stated only in the FY highlights narrative (line 986: 'This comprised the payout of 1H 2025 DPU of 1.70 cents and 2H 2025 DPU of 1.83 cents'); no separate Subsequent Events note with a declaration date, pay date, or dollar amount for this tranche was found anywhere in this AR (the document has no 'SUBSEQUENT EVENTS' section this year), so those fields are left null. No retention was applied for FY2025 (note (2) to the Distribution Statement: 'nil' retained). Accrual sum matches headline declared DPU of 3.53 cents.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "M44U",
@@ -3248,7 +3253,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2022 but is the AR for year ended 31 March 2024 -> declared FY2023. Apr 2023 tranche split at 10 April (unit-base change). Jan-Mar 2024 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "M44U",
@@ -3328,7 +3334,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2023 but is the AR for year ended 31 March 2025 -> declared FY2024. Jan-Mar 2025 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "M44U",
@@ -3408,7 +3415,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "ME8U",
@@ -3680,7 +3688,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "MXNU",
@@ -3745,7 +3754,8 @@
   "distribution_period_months": 12,
   "record_note": "MXNU (Elite UK REIT) reports in GBP pence and discloses DPU both before retention (3.11p) and after retention (2.87p); the 'as printed' headline used here is the after-retention figure that the front-page/5-yr-summary present as DPU. The 2H2024 tranche rate (1.47p, period 1 Jul-31 Dec 2024) is not stated as a rate in the FY2024 report itself (only paid 28 Mar 2025, per the Financial and Distribution Calendar) -- it is derived as headline (2.87) minus the disclosed 1H2024 rate (1.40), and independently confirmed against the exact 1.47p figure disclosed as a comparative in the FY2025 report's Note 23 (Amount available for distribution). Amount for that tranche is not given in the FY2024 report so left null.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "MXNU",
@@ -3818,7 +3828,8 @@
   "distribution_period_months": 12,
   "record_note": "Headline DPU used is 'after Retention' (3.03p), matching front-page presentation. 1H2025 was split into an Advanced Distribution (1 Jan-18 Jun 2025, ahead of a Preferential Offering) and a stub (19-30 Jun 2025). The 2H2025 tranche (1.49p, 1 Jul-31 Dec 2025) is declared as a subsequent event (footnote 8 of the Financial and Distribution Calendar) and is accrual since it is in respect of a period inside FY2025; no dollar amount is disclosed yet.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "N2IU",
@@ -3898,7 +3909,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2022 but is the AR for year ended 31 March 2024 -> declared FY2023. Jan-Mar 2024 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "N2IU",
@@ -3978,7 +3990,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2023 but is the AR for year ended 31 March 2025 -> declared FY2024. Jan-Mar 2025 tranche announced as subsequent event, amount not disclosed.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "N2IU",
@@ -4060,7 +4073,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labeled FY2024 but is the AR for year ended 31 March 2026 -> declared FY2025. Jan-Mar 2026 tranche announced as subsequent event with amount disclosed (S$100,342,000). FY25/26 DPU 7.97 cents reported includes a one-off divestment-related tax charge; underlying DPU excluding that charge was 8.11 cents (not used here per spec: record as-printed).",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "O5RU",
@@ -4335,7 +4349,8 @@
   "distribution_period_months": 12,
   "record_note": "2H FY2024 tranche declared 19 Feb 2025 (Events After The Reporting Period, Note 30).",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "ODBU",
@@ -4401,7 +4416,8 @@
   "distribution_period_months": 12,
   "record_note": "2H FY2025 tranche declared 20 Feb 2026 (Events After The Reporting Period, Note 30).",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "OXMU",
@@ -4468,7 +4484,8 @@
   "distribution_period_months": 12,
   "record_note": "2H FY2024 tranche declared 19 Feb 2025 (Subsequent Events, Note 24), payable 28 Mar 2025.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "OXMU",
@@ -4543,7 +4560,8 @@
   "distribution_period_months": 12,
   "record_note": "Period breaks at 5/6 October 2025 due to a private placement. Final stub tranche declared 11 Feb 2026 (Subsequent Events, Note 24), payable 31 Mar 2026.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "P40U",
@@ -4613,7 +4631,8 @@
   "distribution_period_months": 12,
   "record_note": "Folder labelled FY2024 but report covers the year ended 30 June 2025 (declared FY2024, per trust's non-calendar year end). Final tranche declared after year-end (Subsequent Events, Note 28), in respect of 1/1/2025-30/6/2025.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "Q5T",
@@ -4830,7 +4849,8 @@
   "distribution_period_months": 12,
   "record_note": "Extracted by hand -- this row was missed by the batch agent. FY2024 DPU 14.106 EUR cents is stated at line 7095 as comprising (i) 7.050 for 1 Jan-30 Jun 2024 and (ii) 7.056 for 1 Jul-31 Dec 2024 'as announced subsequently on 26 February 2025'. 7.050 + 7.056 = 14.106 exactly. The 7.903 tranche for 1 Jul-31 Dec 2023 sits in the statement's cash list and is prior-year, so cash_paid. No EUR amount is published for the 7.056 tranche in this report.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "SET",
@@ -4894,7 +4914,8 @@
   "distribution_period_months": 12,
   "record_note": "Stapled trust reporting Distribution per Stapled Security in EUR cents. 2H2025 tranche (6.837 cps) announced 25 Feb 2026; no amount disclosed in this AR.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "T82U",
@@ -5212,7 +5233,8 @@
   "distribution_period_months": 12,
   "record_note": "2H FY2025 tranche declared 26 Jan 2026 (Subsequent Events, Note 30), in respect of the period 1/7/2025-31/12/2025; included as accrual.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "UD1U",
@@ -5276,7 +5298,8 @@
   "distribution_period_months": 12,
   "record_note": "Reported on a declared basis (per spec batch note): both tranches are in respect of FY2024 and both booked in the FY2024 Statement of Distribution even though the 2H tranche is paid after year end. No pay dates disclosed in the AR.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "UD1U",
@@ -5340,7 +5363,8 @@
   "distribution_period_months": 12,
   "record_note": "Declared basis, consistent with FY2024. No pay dates disclosed in the AR.",
   "record_sum_matches": true,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "XZL",
@@ -5415,7 +5439,7 @@
   "distribution_period_months": 12,
   "record_note": "XZL (ACRO-HT/ACRO-BT stapled trust) discloses DPS 'before retention' (1.772) and 'after retention' (1.595) only as full-year totals in the Statement of Distributable Income; no dated H1 2024 tranche with its own rate is printed anywhere in the AR. The only dated tranche disclosed is the Subsequent Events approval of 0.848 US cents for 1 Jul-31 Dec 2024 (declared 27 Feb 2025, paid 28 Mar 2025). The implied H1 2024 rate (~0.747, = 1.595 - 0.848) is never itself printed with a period, so per the no-invention rule it is NOT reported as a tranche. A cash_paid tranche for the prior period paid during FY2024 (presumably 2H2023) is also not reported because its rate/dates are not disclosed in this AR (only the FY2023 aggregate DPS of 3.430 is shown).",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  },
  {
   "symbol": "XZL",
@@ -5488,6 +5512,6 @@
   "distribution_period_months": 12,
   "record_note": "Same disclosure pattern as FY2024: only the full-year DPS totals (0.944 before retention, 0.850 after retention) and one Subsequent Events tranche (0.418 US cents, 1 Jul-31 Dec 2025, declared 26 Feb 2026, paid 30 Mar 2026) are printed with dates. The cash_paid entry (0.848 cents, 1 Jul-31 Dec 2024) is the prior year's subsequent-event tranche, actually paid on 28 Mar 2025 within this FY2025 period (cited from the FY2024 report, line 5967, since this FY2025 report does not re-print its rate/period). No dated H1 2025 tranche (implied ~0.432 = 0.850 - 0.418) is printed anywhere in this AR, so it is not reported per the no-invention rule.",
   "record_sum_matches": false,
-  "other_additions_breakdown": []
+  "other_additions_breakdown": null
  }
 ]

@@ -27,6 +27,7 @@ FIELDS = {
     'income_for_year_basis':      'income_for_year_basis',
     'other_additions':            'other_additions',
     'other_additions_label':      'other_additions_label',
+    'other_additions_breakdown':  'other_additions_breakdown',
     'amount_retained':            'amount_retained',
     'distribution_paid':          'distribution_paid',
     'distribution_declared':      'distribution_declared',
@@ -40,7 +41,7 @@ FIELDS = {
     'fy_end_date':                'fy_end_date',
     'currency':                   'currency',
 }
-JSONB = {'distribution_record'}
+JSONB = {'distribution_record', 'other_additions_breakdown'}
 
 
 def conn():
