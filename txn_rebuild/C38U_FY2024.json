@@ -9,21 +9,19 @@
       "status": "completed",
       "counterparty": "CLI Singapore Pte. Ltd.",
       "completed_date": "2024-10-30",
-
       "purchase_price": 1073023000,
       "purchase_price_currency": "SGD",
-
-      "gain_loss_pct": -0.15,
+      "gain_loss_pct": null,
       "pct_unit": "percent",
-      "pct_source": "derived",
+      "pct_source": null,
       "reference_value": 3702500000,
       "reference_currency": "SGD",
       "reference_basis": "valuation",
       "interest_pct": 0.5,
       "deal_id": "c38u:ion_orchard_and_ion_orchard_link:acquisition:2024",
-
       "citation": "Note 32 (p185): total purchase consideration S$1,073,023k for the 50.0% interest, net of assumed JV debt; agreed property value on 100% basis S$3,697.0m; independent valuations as at 31 July 2024: Savills S$3,715.0m, Cushman & Wakefield S$3,690.0m",
-      "notes": "Acquired 50.0% interest via CRSI/OTH/IOL joint ventures (asset acquisition accounting, not a business combination). Agreed 100%-basis property value S$3,697.0m compared against the midpoint of the two independent valuations (S$3,702.5m) => (3,697.0-3,702.5)/3,702.5 = -0.15% (marginal discount). purchase_price of S$1,073,023k is the 50% equity/JV consideration (net of assumed JV debt), NOT directly the reference used for gain_loss_pct which is on a 100% property-value basis matching the reference_value basis; do not divide purchase_price by reference_value. Acquisition-cost-inclusive total S$1,095,215k; net cash outflow S$1,079,322k (Note 32). Property absent from the audited investment-property Portfolio Statement — recorded via JV/associate accounting."
+      "notes": "Acquired 50.0% interest via CRSI/OTH/IOL joint ventures (asset acquisition accounting, not a business combination). Agreed 100%-basis property value S$3,697.0m compared against the midpoint of the two independent valuations (S$3,702.5m) => (3,697.0-3,702.5)/3,702.5 = -0.15% (marginal discount). purchase_price of S$1,073,023k is the 50% equity/JV consideration (net of assumed JV debt), NOT directly the reference used for gain_loss_pct which is on a 100% property-value basis matching the reference_value basis; do not divide purchase_price by reference_value. Acquisition-cost-inclusive total S$1,095,215k; net cash outflow S$1,079,322k (Note 32). Property absent from the audited investment-property Portfolio Statement — recorded via JV/associate accounting. | gain_loss_pct NULLED: the price is a 50% interest NET OF ASSUMED JV DEBT, while reference_value is the 100%-basis gross agreed value. Equity vs enterprise value — not comparable. reference_value retained.",
+      "basis_mismatch": "equity_consideration_vs_gross_valuation"
     },
     {
       "property_name": "21 Collyer Quay",
@@ -31,10 +29,8 @@
       "status": "completed",
       "counterparty": "Sun View SG I Pte. Ltd.",
       "completed_date": "2024-11-11",
-
       "purchase_price": null,
       "purchase_price_currency": null,
-
       "gain_loss_pct": 5.12,
       "pct_unit": "percent",
       "pct_source": "derived",
@@ -43,12 +39,10 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "c38u:21_collyer_quay:divestment:2024",
-
       "sale_price": 688000000,
       "sale_price_currency": "SGD",
       "sale_price_scope": "per_property",
       "sale_price_citation": "p1051: 'Divested 21 Collyer Quay to Sun View SG I Pte. Ltd. for S$688.0 million'; Note 33 (p8876): Consideration received in cash 688,000",
-
       "citation": "p136 Note 33: 'the Group recognised a net gain on divestment of investment property of $32.8 million'; net proceeds S$672,607k after divestment-related payments of S$15,393k (Note 33)",
       "notes": "Carrying value derived per accounting policy (gain/loss = net proceeds - carrying amount): 672,607 - 32,765 = 639,842 (SGD). gain_loss_pct = disclosed net gain S$32,765k / derived carrying value S$639,842k = +5.12% (pct_source=derived; the AR discloses the dollar gain, not a percentage). Sold at gross consideration S$688.0m, equal to the Savills valuation as at 31 Oct 2024 (0% premium to that valuation, not separately recorded as a second row since the spec's five fields are for one reference basis per row). Percentage is computed on NET proceeds after disposal costs (per rule 7 of spec) rather than the S$688.0m gross price; gross_sale_price = S$688,000k. Portfolio Statement (p107) shows a dash for this property's FY2024 carrying value since it was divested before year-end."
     }

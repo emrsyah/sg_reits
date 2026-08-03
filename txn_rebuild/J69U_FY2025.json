@@ -11,16 +11,17 @@
       "completed_date": "2025-05-26",
       "purchase_price": 380660000,
       "purchase_price_currency": "SGD",
-      "gain_loss_pct": -66.4,
+      "gain_loss_pct": null,
       "pct_unit": "percent",
-      "pct_source": "derived",
+      "pct_source": null,
       "reference_value": 1133000000,
       "reference_currency": "SGD",
       "reference_basis": "valuation",
-      "interest_pct": 1.0,
+      "interest_pct": null,
       "deal_id": "j69u:northpoint_city_south_wing:acquisition:2025",
       "citation": "p8/p20: 'the purchase consideration' S$380.660m for 100% of North Gem Trust (equity + trustee-manager shares); agreed property value $1,133.0m = average of Colliers $1,146.0m and Savills $1,120.0m independent valuations as at 31 Dec 2024.",
-      "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Structured as an equity/unit purchase (S$380.660m purchase consideration for units + trustee-manager shares) rather than a direct property purchase, so purchase_price (equity consideration) is NOT on the same basis as the agreed property value (S$1,133.0m, 100% gross asset value) - gain_loss_pct is therefore NOT a meaningful discount/premium figure and is DERIVED here only for completeness of the schema, not as a comparable metric; treat with caution (equity consideration includes assumption of debt: gross investment-property value recognised on acquisition S$1,174,816k = equity consideration + assumed borrowings S$781,851k, FS Note 4). Total acquisition outlay approx S$393.238m incl. acquisition fee S$11.330m + transaction costs. Funded via April 2025 Equity Fund Raising. Seller is the Sponsor group (Frasers Property Limited); interested-person transaction."
+      "notes": "Acquisition of 100% interest in North Gem Trust (private trust owning Northpoint City South Wing). Structured as an equity/unit purchase (S$380.660m purchase consideration for units + trustee-manager shares) rather than a direct property purchase, so purchase_price (equity consideration) is NOT on the same basis as the agreed property value (S$1,133.0m, 100% gross asset value) - gain_loss_pct is therefore NOT a meaningful discount/premium figure and is DERIVED here only for completeness of the schema, not as a comparable metric; treat with caution (equity consideration includes assumption of debt: gross investment-property value recognised on acquisition S$1,174,816k = equity consideration + assumed borrowings S$781,851k, FS Note 4). Total acquisition outlay approx S$393.238m incl. acquisition fee S$11.330m + transaction costs. Funded via April 2025 Equity Fund Raising. Seller is the Sponsor group (Frasers Property Limited); interested-person transaction. | gain_loss_pct NULLED: the price is the EQUITY consideration for NG Trust net of ~S$781,851k assumed interest-bearing borrowings, while reference_value is the JLL valuation of the whole property. Equity vs enterprise value — not comparable. reference_value retained as a disclosed fact. | interest_pct 1.0 -> null per schema rule (null = 100%).",
+      "basis_mismatch": "equity_consideration_vs_gross_valuation"
     },
     {
       "property_name": "Yishun 10 Retail Podium",

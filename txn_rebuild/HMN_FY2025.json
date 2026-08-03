@@ -55,7 +55,7 @@
       "status": "completed",
       "counterparty": "GKK Godo Kaisha (unrelated third party)",
       "completed_date": "2025-01-31",
-      "purchase_price": null,
+      "purchase_price": 178500000,
       "purchase_price_currency": "SGD",
       "gain_loss_pct": null,
       "pct_unit": "percent",
@@ -64,9 +64,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "hmn:ibis_styles_tokyo_ginza:acquisition:2025",
+      "deal_id": "hmn:ginza_kanazawa_pair:acquisition:2025",
       "citation": "p11 'Investments Completed in FY 2025' table: blended consideration JPY21.0 billion (S$178.5 million) for ibis Styles Tokyo Ginza together with Chisun Budget Kanazawa Ekimae, NOI yield 4.3%. p132: Portfolio Statement 'At Valuation' = S$145,345 thousand. p56 Portfolio Listing 'Agreed Property Value at Acquisition' = S$136.0 million.",
-      "notes": "purchase_price left null: the JPY21.0bn/S$178.5m consideration on p11 is a BLENDED price covering this hotel plus Chisun Budget Kanazawa Ekimae jointly, not split per property; no per-property purchase price is disclosed elsewhere. Agreed property value at acquisition S$136.0m (p56) is a valuation-type figure, not the purchase price paid."
+      "notes": "purchase_price left null: the JPY21.0bn/S$178.5m consideration on p11 is a BLENDED price covering this hotel plus Chisun Budget Kanazawa Ekimae jointly, not split per property; no per-property purchase price is disclosed elsewhere. Agreed property value at acquisition S$136.0m (p56) is a valuation-type figure, not the purchase price paid. | Blended deal-level price applied per schema aggregate rule: rows sharing this deal_id hold the same figure; GROUP BY deal_id before summing. No per-property split exists in the AR.",
+      "purchase_price_scope": "deal_level",
+      "purchase_price_citation": "p11: blended consideration JPY21.0 billion (S$178.5 million) covering ibis Styles Tokyo Ginza and Chisun Budget Kanazawa Ekimae jointly."
     },
     {
       "property_name": "Chisun Budget Kanazawa Ekimae",
@@ -74,7 +76,7 @@
       "status": "completed",
       "counterparty": "GKK Godo Kaisha (unrelated third party)",
       "completed_date": "2025-01-31",
-      "purchase_price": null,
+      "purchase_price": 178500000,
       "purchase_price_currency": "SGD",
       "gain_loss_pct": null,
       "pct_unit": "percent",
@@ -83,9 +85,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "hmn:chisun_budget_kanazawa_ekimae:acquisition:2025",
+      "deal_id": "hmn:ginza_kanazawa_pair:acquisition:2025",
       "citation": "p11 'Investments Completed in FY 2025' table: this property's Purchase Price/NOI Yield/Acquisition Date cells are blank, merged into the blended ibis Styles Tokyo Ginza row (JPY21.0bn/S$178.5m for both properties jointly). p132: Portfolio Statement 'At Valuation' = S$47,106 thousand. p56 Portfolio Listing 'Agreed Property Value at Acquisition' = S$42.5 million.",
-      "notes": "purchase_price genuinely not disclosed per-property (confirmed via p11 blended row, p132 valuation-only column, p56 agreed-value-only column); left null per spec Rule 4/8, not a lookup failure."
+      "notes": "purchase_price genuinely not disclosed per-property (confirmed via p11 blended row, p132 valuation-only column, p56 agreed-value-only column); left null per spec Rule 4/8, not a lookup failure. | Blended deal-level price applied per schema aggregate rule: rows sharing this deal_id hold the same figure; GROUP BY deal_id before summing. No per-property split exists in the AR.",
+      "purchase_price_scope": "deal_level",
+      "purchase_price_citation": "p11: blended consideration JPY21.0 billion (S$178.5 million) covering ibis Styles Tokyo Ginza and Chisun Budget Kanazawa Ekimae jointly."
     },
     {
       "property_name": "Pre de Cort Nishikyogoku",
@@ -93,7 +97,7 @@
       "status": "completed",
       "counterparty": "HSJPN2 TMK (unrelated third party)",
       "completed_date": "2025-08-27",
-      "purchase_price": null,
+      "purchase_price": 34200000,
       "purchase_price_currency": "SGD",
       "gain_loss_pct": null,
       "pct_unit": "percent",
@@ -102,9 +106,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "hmn:pre_de_cort_nishikyogoku:acquisition:2025",
+      "deal_id": "hmn:rental_housing_trio:acquisition:2025",
       "citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) for the three rental-housing acquisitions (this property, Splendide Namba West, Pregio Esaka South), NOI yield 4.0%. p135: Portfolio Statement 'At Valuation' = S$14,872 thousand. p57 Portfolio Listing 'Agreed Property Value at Acquisition' = S$13.7 million.",
-      "notes": "purchase_price left null: blended JPY4.0bn/S$34.2m price covers three properties jointly on p11, no per-property split disclosed elsewhere."
+      "notes": "purchase_price left null: blended JPY4.0bn/S$34.2m price covers three properties jointly on p11, no per-property split disclosed elsewhere. | Blended deal-level price applied per schema aggregate rule: rows sharing this deal_id hold the same figure; GROUP BY deal_id before summing. No per-property split exists in the AR.",
+      "purchase_price_scope": "deal_level",
+      "purchase_price_citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) covering the three rental-housing acquisitions jointly."
     },
     {
       "property_name": "Splendide Namba West",
@@ -112,7 +118,7 @@
       "status": "completed",
       "counterparty": "HSJPN2 TMK (unrelated third party)",
       "completed_date": "2025-08-27",
-      "purchase_price": null,
+      "purchase_price": 34200000,
       "purchase_price_currency": "SGD",
       "gain_loss_pct": null,
       "pct_unit": "percent",
@@ -121,9 +127,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "hmn:splendide_namba_west:acquisition:2025",
+      "deal_id": "hmn:rental_housing_trio:acquisition:2025",
       "citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) covering the three rental-housing acquisitions jointly; this row's price cells blank on p11. p136: Portfolio Statement 'At Valuation' = S$11,427 thousand. p57 Portfolio Listing 'Agreed Property Value at Acquisition' = S$10.6 million.",
-      "notes": "purchase_price genuinely not disclosed per-property; left null."
+      "notes": "purchase_price genuinely not disclosed per-property; left null. | Blended deal-level price applied per schema aggregate rule: rows sharing this deal_id hold the same figure; GROUP BY deal_id before summing. No per-property split exists in the AR.",
+      "purchase_price_scope": "deal_level",
+      "purchase_price_citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) covering the three rental-housing acquisitions jointly."
     },
     {
       "property_name": "Pregio Esaka South",
@@ -131,7 +139,7 @@
       "status": "completed",
       "counterparty": "HSJPN2 TMK (unrelated third party)",
       "completed_date": "2025-08-27",
-      "purchase_price": null,
+      "purchase_price": 34200000,
       "purchase_price_currency": "SGD",
       "gain_loss_pct": null,
       "pct_unit": "percent",
@@ -140,9 +148,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "hmn:pregio_esaka_south:acquisition:2025",
+      "deal_id": "hmn:rental_housing_trio:acquisition:2025",
       "citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) covering the three rental-housing acquisitions jointly; this row's price cells blank on p11. p135: Portfolio Statement 'At Valuation' = S$10,923 thousand. p57 Portfolio Listing 'Agreed Property Value at Acquisition' = S$9.9 million.",
-      "notes": "purchase_price genuinely not disclosed per-property; left null."
+      "notes": "purchase_price genuinely not disclosed per-property; left null. | Blended deal-level price applied per schema aggregate rule: rows sharing this deal_id hold the same figure; GROUP BY deal_id before summing. No per-property split exists in the AR.",
+      "purchase_price_scope": "deal_level",
+      "purchase_price_citation": "p11: blended consideration JPY4.0 billion (S$34.2 million) covering the three rental-housing acquisitions jointly."
     }
   ]
 }
