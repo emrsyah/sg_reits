@@ -1,0 +1,55 @@
+[
+  {
+    "symbol": "M1GU",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 5207,
+    "units_in_issue": 1125055000,
+    "units_in_issue_line": 6201,
+    "units_scale": "units",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": null,
+    "units_to_be_issued_comprises": [],
+    "units_split_disclosed": false,
+    "paid_in_units": 4880000,
+    "paid_in_units_units": 13266912,
+    "paid_in_units_line": 6219,
+    "quotes": {
+      "units_in_issue": "| At end of the year | <u>1,125,055</u> | <u>1,111,788</u> |  (Note 11. UNITS IN ISSUE, table in '000)",
+      "units_to_be_issued": "Note 11 UNITS IN ISSUE discloses only issued Units (beginning of year, units issued via DRP, end of year); no \"units to be issued\" line is disclosed.",
+      "paid_in_units": "13,266,912 new Units (2023: 15,667,005 new Units) amounting to approximately \\$4,880,000 at issue prices of \\$0.3678 per Unit (2023: approximately \\$6,427,000 at average issue prices of \\$0.4102 per Unit) in lieu of distribution payments pursuant to the Distribution Reinvestment Plan",
+      "fy_end_date": "The financial statements of the Group as at and for the year ended 31 December 2024 comprise the Trust and its subsidiaries"
+    },
+    "flags": [
+      "units_in_issue reported in '000 in source (1,125,055) and scaled to absolute units",
+      "no units-to-be-issued disclosure anywhere in report; management fees paid in cash post-internalisation"
+    ]
+  },
+  {
+    "symbol": "M1GU",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 4613,
+    "units_in_issue": 1125055000,
+    "units_in_issue_line": 5542,
+    "units_scale": "units",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": null,
+    "units_to_be_issued_comprises": [],
+    "units_split_disclosed": false,
+    "paid_in_units": 0,
+    "paid_in_units_units": 0,
+    "paid_in_units_line": 5560,
+    "quotes": {
+      "units_in_issue": "| At end of the year | <b>1,125,055</b> | 1,125,055 |  (Note 12. UNITS IN ISSUE, table in '000)",
+      "units_to_be_issued": "Note 12 UNITS IN ISSUE discloses only issued Units (beginning of year, units issued, end of year); no \"units to be issued\" line is disclosed.",
+      "paid_in_units": "No new Units (2024: 13,266,912 new Units) are issued (2024: amounting to approximately \\$4,880,000 at issue prices of \\$0.3678 per Unit) in lieu of distribution payments pursuant to the Distribution Reinvestment Plan",
+      "fy_end_date": "The financial statements of the Group as at and for the year ended 31 December 2025 comprise the Trust and its subsidiaries"
+    },
+    "flags": [
+      "units_in_issue reported in '000 in source (1,125,055) and scaled to absolute units",
+      "paid_in_units = 0 with explicit nil evidence (also line 4416: \"No units were issued for the year ended 31 December 2025\")",
+      "SGX-style table at line 993 confirms 1,125,055,242 units in issue (exact count); note-11/12 rounded '000 figure used per issued-only audited-note rule"
+    ]
+  }
+]

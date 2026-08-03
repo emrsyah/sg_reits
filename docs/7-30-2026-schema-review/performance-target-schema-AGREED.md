@@ -5,12 +5,12 @@ Agreed 2026-08-03. Companion to `transaction-target-schema-AGREED.md`.
 **Design goal, in the user's words:** make the **flow of the DPU** clear and **API-ready**. Not
 complex — solid.
 
-**Headline: this is a subtraction, not an addition.** 28 columns → **27**. Two dropped, one split in
-two, nothing invented.
+**Headline: 28 columns → 29.** One dropped, one split in two, one added. Decisions of 2026-08-03 are
+recorded in §2a.
 
 ---
 
-## 1. Why nothing is being added
+## 1. Why almost nothing is being added
 
 The rollforward already closes on **62 of 62** rows using only columns prod has today:
 
@@ -27,15 +27,17 @@ Zero failures, across two currencies, stapled structures, and a report that prin
 **The data was never missing.** What made prod unreadable is three separate things:
 
 1. names that don't say what they mean (`distribution_paid` vs `distribution_cash_paid`)
-2. one column carrying two dead concepts (`adjusted_distributable_income`, `units_to_be_issued`)
+2. a column no annual report publishes (`adjusted_distributable_income`)
 3. wrong values in a handful of cells (P0 rounding; 2 rows holding the cash figure)
 
-None of those is fixed by adding a column. Adding columns makes them worse.
+None of those is fixed by adding a column. Only one column is genuinely new — `paid_in_units` (§2a),
+added because `distribution_paid` turned out not to be all cash.
 
 ### Where the verification columns went
 
 An earlier draft proposed adding `weighted_average_units`, `units_entitled_to_distribution`,
-`units_basis`, `kpi_as_at_date` and `is_pro_forma`. **All are cut from prod.**
+`units_basis`, `kpi_as_at_date` and `is_pro_forma`. **All are cut from prod.** (`units_basis` was
+later superseded outright — see §2a: storing the two unit components makes a basis flag unnecessary.)
 
 They answer *"is our DPU consistent with our unit count?"* — a question **we** ask before promoting,
 never one an API consumer asks. They belong in the dev QC layer, not the published table.
@@ -85,16 +87,86 @@ One line each, no migration.
 
 `distribution_pool_other_movements` → **`amount_retained`** + **`other_additions`**. See §3.
 
-### Drops — 2
+### Drops — 1
 
 | column | evidence |
 |---|---|
 | `adjusted_distributable_income` | 4% fill (3 of 74). **NOT_FOUND in all six ARs checked.** No REIT publishes a second distributable-income figure. The 3 populated rows contradict each other — sometimes above, sometimes below `net_distributable_income` |
-| `units_to_be_issued` | 0.1–0.4% materiality. **Double-counts** — BUOU's and TS0U's headline unit figure is literally *"Units in issue and to be issued"*, so the component is already inside it, with no flag distinguishing them from A17U/C38U/ME8U which keep it separate |
+
+> **`units_to_be_issued` was on this list and is now KEPT — decision reversed 2026-08-03.** The defect
+> was never the column; it was that nothing recorded whether the component sat inside the headline
+> figure. Once `units_in_issue` is standardised to **issued-only**, the component stops double-counting
+> and becomes the complement that makes both bases derivable. See §2a.
+
 
 > **Conflict resolved.** `performance-normalization.md` N3 proposed *splitting*
 > `adjusted_distributable_income` into two columns. Overruled: a column absent from every annual
 > report cannot be split into two that are also absent. Drop stands.
+
+## 2a. Decisions taken 2026-08-03
+
+### `income_for_year` — normalise to PRE-retention
+
+Five rows print the figure **net** of a retention deducted inside the build-up. The retention is
+**added back** so the column means one thing everywhere:
+
+```
+TS0U/2024   108,660,000 -> 113,660,000      C2PU/2024    91,419,000 ->  94,419,000
+TS0U/2025   123,752,000 -> 128,752,000      C2PU/2025    99,781,000 -> 102,781,000
+P40U/2024    87,820,000 ->  91,820,000
+```
+
+Carry `income_for_year_basis` (`pre_retention_as_printed` | `pre_retention_normalised`) so the five
+computed values are never mistaken for figures printed in an AR. **No `retention_in_subtotal` flag is
+needed** — the gate now subtracts `amount_retained` unconditionally, with no exceptions.
+
+Result: rollforward **63/63**, zero failures.
+
+### Units — store the COMPONENTS, not a basis flag
+
+```
+units_in_issue        standardised to ISSUED-ONLY at the FY-end date
+units_to_be_issued    the component: units earned but not yet allotted
+```
+
+A basis flag tells you which definition you are looking at but **cannot recover the other number**.
+Two components give both:
+
+```
+issued_only          = units_in_issue
+issued_and_issuable  = units_in_issue + units_to_be_issued
+```
+
+**`units_basis` is therefore NOT created.** BUOU FY2025 is the worked example: `3,778,193,000` issued
++ `12,578,000` to be issued = `3,790,771,000`.
+
+> **Verified — the component is NOT only management fees.** It is fees payable to the Manager of
+> several kinds: base, **performance**, **acquisition** and **divestment** — A17U and J69U disclose
+> divestment fees, DHLU an acquisition fee, AW9U a divestment fee. BTOU also includes **Property
+> Manager** fees, deferred under a 9.8% ownership cap. Naming this column after management fees would
+> be wrong; the existing neutral name `units_to_be_issued` is accurate and is kept. Record
+> `units_to_be_issued_comprises` where the AR breaks it down.
+
+### ADD `paid_in_units` — 1 new column
+
+Part of `distribution_paid` is settled by **issuing units**, not cash, under a Distribution
+Reinvestment Plan. M1GU FY2024, from the AR footnote:
+
+> *"13,266,912 Units ... amounting to approximately **$4,880,000** were issued by the Trust as part
+> payment of distributions ... pursuant to the Distribution Reinvestment Plan."*
+
+```
+distribution_paid    27,862,000
+paid_in_units         4,880,000      <- 17.5% never left the bank
+cash actually out    22,982,000
+```
+
+Known: M1GU, M44U (S$40.6m), ME8U (S$29.8m), ODBU ×2, MXNU, JYEU. Without this column the API
+presents a number that reads as cash and is not — and repeated DRP use is itself a signal that a REIT
+is conserving cash. M1GU's own AR notes the flip side: NAV per unit fell partly from *"dilution impact
+from the new units issued pursuant to the DRP."*
+
+---
 
 ### Restructure — 1
 
@@ -358,18 +430,19 @@ year end, so the two figures genuinely coincide. **The fingerprint is a lead, no
 
 ---
 
-## 8. Final column list — 27
+## 8. Final column list — 29
 
 ```
 symbol · financial_year · date · source_url · properties_location
 
-number_of_unitholders · number_of_shareholder_units
+number_of_unitholders · units_in_issue · units_to_be_issued
 
 distribution_per_unit · distribution_record · distribution_period_months
 
 distributable_income_opening · income_for_year
 other_additions · amount_retained
-distribution_paid · distributable_income_closing · distribution_declared
+distribution_paid · paid_in_units · distributable_income_closing · distribution_declared
+income_for_year_basis
 
 portfolio_value · gross_revenue · net_property_income
 
@@ -379,7 +452,8 @@ portfolio_occupancy · net_asset_value_per_unit
 ```
 
 ```
-28 today  −2 dropped  +1 net from the split  =  27
+28 today  −1 dropped  +1 from the split  +1 paid_in_units  =  29
+          (+ income_for_year_basis, units_to_be_issued kept)
           3 renamed · 1 split · 1 restructured · 5 value fixes
 ```
 

@@ -1,0 +1,55 @@
+[
+  {
+    "symbol": "XZL",
+    "financial_year": 2024,
+    "fy_end_date": "2024-12-31",
+    "fy_end_date_line": 1180,
+    "units_in_issue": 580103000,
+    "units_in_issue_line": 4799,
+    "units_scale": "thousands",
+    "units_to_be_issued": 0,
+    "units_to_be_issued_line": 4802,
+    "units_to_be_issued_comprises": ["manager management fees"],
+    "units_split_disclosed": true,
+    "paid_in_units": null,
+    "paid_in_units_units": null,
+    "paid_in_units_line": null,
+    "quotes": {
+      "units_in_issue": "| At 31 December | <b>580,103</b> | 578,212 | <b>580,103</b> | 578,212 | <b>580,103</b> | 578,212 |",
+      "units_to_be_issued": "| At 31 December | - | 1,891 | - | 1,891 | - | 1,891 |",
+      "paid_in_units": "The management fee is payable in the form of cash and/or Stapled Securities as the Managers may elect, and in such proportion and for such period as may be determined by the Managers. For financial year ended 31 December 2024, the management fees were or would be paid in cash.",
+      "fy_end_date": "the annual report of ACRO-HT for the financial year ended 31 December 2024"
+    },
+    "flags": [
+      "Note 15 'STAPLED SECURITIES IN ISSUE AND TO BE ISSUED' splits both components; 2024 to-be-issued is an explicit nil ('-' vs 1,891 in 2023).",
+      "No Distribution Reinvestment Plan / scrip distribution disclosed anywhere in the AR; the 1,891,000 securities issued in March 2024 were manager fee settlement, not distribution."
+    ]
+  },
+  {
+    "symbol": "XZL",
+    "financial_year": 2025,
+    "fy_end_date": "2025-12-31",
+    "fy_end_date_line": 1241,
+    "units_in_issue": 580103000,
+    "units_in_issue_line": 4755,
+    "units_scale": "thousands",
+    "units_to_be_issued": null,
+    "units_to_be_issued_line": null,
+    "units_to_be_issued_comprises": [],
+    "units_split_disclosed": false,
+    "paid_in_units": null,
+    "paid_in_units_units": null,
+    "paid_in_units_line": null,
+    "quotes": {
+      "units_in_issue": "| <b>Stapled Securities issued and to be issued as at 1 January/ 31 December (Note 16)</b> | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 |",
+      "units_to_be_issued": "| <b>Stapled Securities issued and to be issued as at 1 January/ 31 December (Note 16)</b> | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 | <b>580,103</b> | 580,103 |",
+      "paid_in_units": "The management fee is payable in the form of cash and/or Stapled Securities as the Managers may elect, and in such proportion and for such period as may be determined by the Managers. For financial year ended 31 December 2025, the management fees were or would be paid in cash.",
+      "fy_end_date": "the annual report of ACRO-HT for the financial year ended 31 December 2025"
+    },
+    "flags": [
+      "FY2025 Note 15 collapses to a single combined 'issued and to be issued' line of 580,103 ('000) with no movement table; issued-only is not separately printed, so units_in_issue is the combined figure.",
+      "FY2024 comparative in the FY2024 AR shows to-be-issued nil and issued 580,103, so the combined 580,103 is consistent with issued-only, but not independently disclosed in FY2025.",
+      "No DRP / scrip distribution disclosed."
+    ]
+  }
+]
