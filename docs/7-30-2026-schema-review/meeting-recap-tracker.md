@@ -115,9 +115,12 @@ Open work arising:
 - [ ] `distribution_pool_other_movements`: confirm that this is a standalone and how is this used.
 
 > **RESOLVED 2026-08-03 — target schema agreed in `performance-target-schema-AGREED.md`.**
-> **28 columns → 26. No new columns.** The rollforward already closes 62/62 with what prod has, so
+> **28 columns → 27.** Two dropped, one split in two, nothing invented. The rollforward already closes 62/62 with what prod has, so
 > the flow was never missing data — it was unclear names, two dead columns, and bad values.
-> 4 renames · 2 drops · `distribution_record` restructured · 5 value fixes.
+> 3 renames · 2 drops · `distribution_pool_other_movements` **split** into `amount_retained` +
+> `other_additions` · `distribution_record` restructured · 5 value fixes.
+> The split was decided after checking the positives: BUOU's +45,178 is *"Capital distribution"*,
+> **92% of it divestment gains** — invisible while netted against retention.
 > The verification columns proposed below (`weighted_average_units`,
 > `units_entitled_to_distribution`, `units_basis`, `kpi_as_at_date`, `is_pro_forma`) are **cut from
 > prod** — they answer a QC question, not an API question, and belong in the dev layer.

@@ -5,7 +5,8 @@ Agreed 2026-08-03. Companion to `transaction-target-schema-AGREED.md`.
 **Design goal, in the user's words:** make the **flow of the DPU** clear and **API-ready**. Not
 complex — solid.
 
-**Headline: this is a subtraction, not an addition.** 28 columns → **26**. No new columns.
+**Headline: this is a subtraction, not an addition.** 28 columns → **27**. Two dropped, one split in
+two, nothing invented.
 
 ---
 
@@ -54,31 +55,35 @@ not published columns.
 ```
 distributable_income_opening      pool left over from last year
   + income_for_year               what the pool earned this year
-  + pool_adjustments              negative = retained · positive = added
+  + other_additions               capital distributions, divestment gains, top-ups
+  − amount_retained               taken OUT of the pool for capex / working capital
   − distribution_paid             cash that actually left the bank
-  = distributable_income_closing  carried into next year
+  = distributable_income_closing  still in the pool, carried into next year
 
   distribution_declared           promised for the year — ties to DPU
   distribution_per_unit           the headline, in cents
   distribution_record             the tranches that make it up
 ```
 
-### Renames — 4
+### Renames — 3
 
 | now | becomes | why |
 |---|---|---|
 | `net_distributable_income` | `income_for_year` | kills the cumulative trap. The AR's *"**Amount** available for distribution"* is opening+income; this column must be the **for-the-year subtotal** |
-| `distribution_pool_other_movements` | `pool_adjustments` | shorter, honest, sign-carrying |
 | `distribution_paid` | `distribution_declared` | it is the declared-for-year figure, the only one that ties to DPU |
 | `distribution_cash_paid` | `distribution_paid` | matches the AR line *"Distributions to Unitholders **during the year**"* |
 
-> The last two swap roles deliberately. Today the shorter name (`distribution_paid`) holds the
+> The last two **swap roles deliberately.** Today the shorter name (`distribution_paid`) holds the
 > *declared* figure and the longer one holds cash — the opposite of what a reader assumes, and the
 > direct cause of the two data bugs in §4. After the rename, `distribution_paid` means paid.
 
 Renames are cheap: dev→prod already renames `dpu` → `distribution_per_unit`, `nav_per_unit` →
 `net_asset_value_per_unit`, `wale` → `weighted_average_lease_expiry` in `build_final_tables.py`.
 One line each, no migration.
+
+### Split — 1
+
+`distribution_pool_other_movements` → **`amount_retained`** + **`other_additions`**. See §3.
 
 ### Drops — 2
 
@@ -117,9 +122,35 @@ A normal payment lag is **not** a defect: HMN's 2H tranche pays 2026-02-27 for a
 
 ---
 
-## 3. `pool_adjustments` — the sign convention
+## 3. The split — `amount_retained` + `other_additions`
 
-**One column, signed.** Verified across the 24 populated rows in `extracted/`:
+### First, the distinction that makes this necessary
+
+`amount_retained` and `distributable_income_closing` sound like the same thing — both are "money not
+paid out this year". **They are opposites.**
+
+| | what it is | does it carry to next year? |
+|---|---|---|
+| `distributable_income_closing` | still **inside** the pool. Declared or declarable, simply not yet disbursed | **Yes** — it becomes next year's `distributable_income_opening` |
+| `amount_retained` | **removed** from the pool. Becomes working capital, capex, debt repayment | **No** — it stops being distributable, permanently |
+
+The test is whether the money reappears the following year:
+
+```
+C38U FY2024 closing   249,796  ->  FY2025 opening  249,796   carries over
+C38U FY2024 retained    9,381  ->  appears nowhere in FY2025  gone from the pool
+```
+
+The AR states the destination outright — C38U: *"Amount retained for general corporate and working
+capital purposes"*. So a retention is **not** money saved for next year's distribution; it is money
+that has left the distribution story entirely.
+
+> Both are "not paid out", which is why one column for both was never going to read clearly.
+
+### Why one signed column was rejected
+
+`distribution_pool_other_movements` is populated on **24 of 74 rows (32%)**, and it holds two
+different *directions* of movement:
 
 ```
 17 negative = retained            7 positive = added
@@ -131,19 +162,50 @@ CRPU/2024    -7,385,000           ME8U/2023    +5,391,000
 ...                               J85/2024     +4,062,000
 ```
 
-Fill is **32% (24 of 74)**, not the ~20% the briefs estimated.
+An earlier draft of this document proposed keeping one signed column. **That was wrong**, for a
+reason found by checking what the positives actually are:
 
-> **The name must stay neutral.** Positives are 29% of populated rows — calling this column
-> `amount_retained` would mislabel nearly a third of them.
+```
+BUOU/2024   +45,178   "Capital distribution"
+Q5T/2024    +16,121   "Distribution of other gains"
+AU8U/2025    +5,700   "Distribution top-up"
+```
 
-### Accepted cost
+And BUOU's Note B breaks its figure down:
 
-**J85 nets two movements into one figure.** Its `+4,062,000` is a retention of `−6,261` *plus* a
-capital distribution of `+10,323`. A single signed number cannot show both.
+```
+Lease incentives         1,582
+Rental support               –
+Divestment gains        41,700      <- 92% of it
+Coupon interest          1,896
+                        45,178
+```
 
-Option B (split into `amount_retained` + `other_additions`) was considered and **rejected**: it buys
-one row's worth of precision at the cost of a permanent extra column that is null on 68% of rows.
-Split later if the frontend ever needs it — the underlying values are page-cited and recoverable.
+**BUOU's FY2024 distribution was ~16% funded by divestment gains, not by rent.** That is a materially
+different investment story, and under one signed column it is invisible — netted against retention
+and unlabelled.
+
+J85 is the clinching case: its `+4,062` is a retention of `−6,261` netted against a capital
+distribution of `+10,323`. One signed number makes two real movements cancel each other out.
+
+### The two columns
+
+| column | rows | concept |
+|---|---|---|
+| `amount_retained` | 17 | money **leaving** the pool. One clean concept — every REIT means the same thing |
+| `other_additions` | 7 | money **entering** the pool from outside the year's operating income |
+
+Store `amount_retained` as a **positive magnitude**; the sign lives in the rollforward, not the value.
+
+### Accepted cost — `other_additions` is still a mix
+
+It carries three distinct AR concepts (capital distribution · distribution of other gains ·
+distribution top-up) under one name. This is **better** than today — no longer tangled with
+retention — but not fully clean.
+
+**Deferred, not rejected:** an `other_additions_label` text column carrying the AR's own wording
+would make the divestment-gains story queryable, at a cost of ~7 populated rows. **Trigger to
+revisit:** if the frontend wants to surface *"how much of this yield came from asset sales."*
 
 ### The standing rule — unchanged
 
@@ -163,7 +225,7 @@ Populate **only** where the annual report names it. **Null means "not disclosed"
 | 1 | **P0 rounding** | `build_final_tables.py:30` — `round(float(value) * tbl[ccy]['SGD'])` has no ndigits, so every per-unit figure in a foreign presentation currency integer-rounds. Prod serves `CMOU dpu 0`, `BTOU nav 0`, `MXNU nav 1` **right now**. Fix: `round(x, 6)` |
 | 2 | **AJBU FY2025** | `distribution_declared` → `268,051,000` (holds `133,531,000`, the cash figure). AR p144: *"Total amount available for distribution for the year 268,051"*. Cross-checks: `332,893 − 64,842 = 268,051`, and `5.133 + 5.248 = 10.381` DPU |
 | 3 | **C2PU FY2025** | `distribution_declared` → `99,781,000` (holds `65,436,000`, the cash figure). AR: *"Income for the year available for distribution to Unitholders 99,781"*. Ties: `15.29% × 652,487,000 = 99,765,000` |
-| 4 | **Re-promote** | `pool_adjustments` — dev/`extracted` has all 24 values including the 8 that `performance-normalization.md` §2 recorded as null in prod. **This is a promotion gap, not an extraction gap** — same shape as the 61 stale `gain_loss_pct` rows. Re-promote, do not re-extract |
+| 4 | **Re-promote** | `amount_retained` / `other_additions` — dev/`extracted` has all 24 values including the 8 that `performance-normalization.md` §2 recorded as null in prod. **This is a promotion gap, not an extraction gap** — same shape as the 61 stale `gain_loss_pct` rows. Re-promote, do not re-extract |
 | 5 | `distribution_record` | tag AJBU's and T82U's prior-year tranches `basis = cash_paid`; backfill the incomplete records (C2PU FY2025, J91U FY2025) |
 
 > Fixes 2 and 3 are the **only two** rows in all 74 where `distribution_declared` disagrees with
@@ -196,8 +258,9 @@ are the same concept stored two ways — they must end on one convention.
 "distribution": {
   "opening":            249796000,
   "income_for_year":    869957000,
-  "pool_adjustments":    -9083000,
-  "paid":              -750125000,
+  "other_additions":            0,
+  "amount_retained":      9083000,
+  "paid":               750125000,
   "closing":            360545000,
 
   "declared":           860874000,
@@ -206,7 +269,11 @@ are the same concept stored two ways — they must end on one convention.
 }
 ```
 
-Reads top to bottom as the story, and it adds up.
+Reads top to bottom as the story, and it adds up:
+`opening + income_for_year + other_additions − amount_retained − paid = closing`.
+
+All values are positive magnitudes; the direction is carried by the field name, not by a sign the
+consumer has to interpret.
 
 `unpaid_at_year_end` = `declared − paid`. **Computed at read time, never stored** — it is a
 subtraction, and storing it creates a fourth number that can drift out of agreement with the other
@@ -218,7 +285,7 @@ three.
 
 | # | check | severity |
 |---|---|---|
-| 1 | `opening + income_for_year + pool_adjustments − paid = closing` | **hard gate** — but **skip CY6U, UD1U, XZL**: they have no pool carry-forward in any year, so opening/closing are legitimately null, not missing |
+| 1 | `opening + income_for_year + other_additions − amount_retained − paid = closing` | **hard gate** — but **skip CY6U, UD1U, XZL**: they have no pool carry-forward in any year, so opening/closing are legitimately null, not missing |
 | 2 | `sum(distribution_record where basis = accrual) = distribution_per_unit` | hard, once `basis` exists |
 | 3 | `distribution_declared ≈ dpu × units` | **soft flag at 20%, never 2%** |
 | 4 | payout ratio `declared / income_for_year` in 0–1.3 | already passes 74/74 |
@@ -242,7 +309,7 @@ unit bases — but catching corruption is, and this check is what surfaced the C
 
 ---
 
-## 8. Final column list — 26
+## 8. Final column list — 27
 
 ```
 symbol · financial_year · date · source_url · properties_location
@@ -251,7 +318,8 @@ number_of_unitholders · number_of_shareholder_units
 
 distribution_per_unit · distribution_record · distribution_period_months
 
-distributable_income_opening · income_for_year · pool_adjustments
+distributable_income_opening · income_for_year
+other_additions · amount_retained
 distribution_paid · distributable_income_closing · distribution_declared
 
 portfolio_value · gross_revenue · net_property_income
@@ -262,8 +330,8 @@ portfolio_occupancy · net_asset_value_per_unit
 ```
 
 ```
-28 today  −2 dropped  +0 added  =  26
-          4 renamed · 1 restructured · 5 value fixes
+28 today  −2 dropped  +1 net from the split  =  27
+          3 renamed · 1 split · 1 restructured · 5 value fixes
 ```
 
 ---
