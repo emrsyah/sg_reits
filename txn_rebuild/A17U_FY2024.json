@@ -22,6 +22,11 @@
       "interest_pct": null,
       "deal_id": "a17u:qld_trio:divestment:2024",
 
+      "sale_price": 64200000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "p28 transaction table: aggregate S$64.2m consideration for the three Australian properties (77 Logistics Place, 62 Sandstone Place, 92 Sandstone Place)",
+
       "citation": "p28 transaction table: aggregate S$64.2m consideration for the three Australian properties, no per-property split; Note 11 (p163): 'the Group completed the divestment of 77 Logistics Place, 62 Sandstone Place and 92 Sandstone Place ... recognising a gain amounting to $628,000 (A$710,000)'; Note 11 held-for-sale carrying amounts as at 31 Dec 2023: $24,359,000 / $14,345,000 / $23,728,000",
       "notes": "AGGREGATE DEAL — one sale, three properties, ONE consideration of S$64.2m and ONE gain of S$628,000; no per-property allocation disclosed anywhere in the AR. reference_value = summed carrying amount of the trio (24,359,000+14,345,000+23,728,000=62,432,000); gain_loss_pct = 628,000/62,432,000*100 = 1.01% (derived, book_value basis). This deal-level figure is repeated identically on all three property rows per spec. Per spec explicit warning: 92 Sandstone Place's own carrying value (23,728,000) EXCEEDS its own allocated valuation (19,300,000), so a per-property calculation would falsely show a loss on what was an aggregate-gain deal — per-property % deliberately NOT computed."
     },
@@ -43,6 +48,11 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "a17u:qld_trio:divestment:2024",
+
+      "sale_price": 64200000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "p28 transaction table: aggregate S$64.2m consideration for the three Australian properties (77 Logistics Place, 62 Sandstone Place, 92 Sandstone Place)",
 
       "citation": "p28 transaction table (aggregate S$64.2m, no per-property split); Note 11 (p163) aggregate gain $628,000 (A$710,000); Note 11 held-for-sale carrying amount as at 31 Dec 2023: $14,345,000",
       "notes": "Same aggregate deal as 77 Logistics Place — same deal_id, same deal-level reference_value (62,432,000) and gain_loss_pct (1.01%). See notes on 77 Logistics Place row for full explanation."
@@ -66,6 +76,11 @@
       "interest_pct": null,
       "deal_id": "a17u:qld_trio:divestment:2024",
 
+      "sale_price": 64200000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "p28 transaction table: aggregate S$64.2m consideration for the three Australian properties (77 Logistics Place, 62 Sandstone Place, 92 Sandstone Place)",
+
       "citation": "p28 transaction table (aggregate S$64.2m, no per-property split); Note 11 (p163) aggregate gain $628,000 (A$710,000); Note 11 held-for-sale carrying amount as at 31 Dec 2023: $23,728,000 (vs allocated valuation $19,300,000)",
       "notes": "Same aggregate deal — same deal_id, same deal-level reference_value (62,432,000) and gain_loss_pct (1.01%). DO NOT compute a per-property percentage for this row: its own carrying value ($23,728,000) exceeds its own allocated valuation ($19,300,000), which would produce a false loss on a deal that was an aggregate gain. Per spec, this is the exact known trap for A17U FY2024."
     },
@@ -87,6 +102,11 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "a17u:21_jalan_buroh:divestment:2024",
+
+      "sale_price": 112800000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p28 transaction table: sale consideration S$112.8m for 21 Jalan Buroh",
 
       "citation": "p28 transaction table: sale consideration S$112.8m, valuation S$67.5m (as at 1 Jul 2024); Investment Properties Portfolio Statement p115: 2023 carrying amount $67.5m, 2024 shown as dash (divested); p125 note (iii) divestment completed 28 Nov 2024",
       "notes": "Carrying value (2023) equals disclosed valuation at S$67.5m, so book_value and valuation bases coincide here. gain_loss_pct = (112,800,000-67,500,000)/67,500,000*100 = 67.11% (derived). Deal-level dollar gain not separately disclosed: total 'Gain on disposal of investment properties' S$45,362k (p196/p110) includes the QLD trio's S$628k, implying ~S$44,734k residual for this property, but that residual figure is not itself stated in the AR, so no gain-dollar figure is recorded — only the derived percentage."

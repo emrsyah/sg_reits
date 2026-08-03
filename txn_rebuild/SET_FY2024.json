@@ -19,6 +19,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:grojecka_5:divestment:2024",
+      "sale_price": 15900000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1798: 'On 28 March 2024, the Manager completed the divestment of Grójecka 5 in Warsaw, Poland, for €15.9 million, representing a 7.5% or €1.1 million premium over the 31 December 2023 independent valuation conducted by CBRE.'",
       "citation": "AR p39 (per prior extraction, extracted/SET.SI_FY2024/property_transactions.json): sold for EUR15.9m against a 30 Jun 2024 valuation of EUR14.8m, disclosed 7.5% premium.",
       "notes": "Poland. Gross sale price EUR15,900,000. Reused from prior extraction (page-level citation); not re-opened against full.md in this pass. Note: prior extraction's deal_id had a slugification artifact ('gr_jecka_5' from stripped accented characters); corrected here to 'grojecka_5'."
     },
@@ -38,6 +42,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:grandinkulma:divestment:2024",
+      "sale_price": 5400000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1802: 'On 26 April 2024, the Manager completed the divestment of Grandinkulma in Vantaa, Finland, to a local real estate developer for €5.4 million, which was 3.6% or €0.2 million [lower than the 30 June 2024 independent valuation]'",
       "citation": "AR p39 (per prior extraction): sold for EUR5.4m against a 30 Jun 2024 valuation of EUR5.6m, disclosed -3.6% (below valuation).",
       "notes": "Finland. Gross sale price EUR5,400,000. Reused from prior extraction; not re-opened against full.md in this pass."
     },
@@ -57,6 +65,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:lenine:divestment:2024",
+      "sale_price": 3100000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1812: 'On 30 September 2024, the Manager completed the divestment of Lénine in Paris, France, to a local real estate developer for €3.1 million, which was 0.3% or €0.01 million lower than the 30 June 2024 independent valuation conducted by CBRE.'",
       "citation": "AR p39 (per prior extraction): sold for EUR3.1m against a 30 Jun 2024 valuation of EUR3.1m, disclosed -0.3% (below valuation, sale and valuation round to the same EUR3.1m).",
       "notes": "France. Gross sale price EUR3,100,000. Reused from prior extraction (deal_id slug artifact 'l_nine' corrected here to 'lenine'); not re-opened against full.md in this pass."
     },
@@ -76,6 +88,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:via_brigata_padova_19:divestment:2024",
+      "sale_price": 1800000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1808: 'On 4 April 2024, the Manager completed the divestment of Via Brigata Padova 19 in Padova, Italy, to PDI Europe S.A. for €1.8 million, reflecting a 24.1% or €0.4 million premium over the 31 December 2023 independent valuation conducted by Savills.'",
       "citation": "AR p39 (per prior extraction): sold for EUR1.8m against a 30 Jun 2024 valuation of EUR1.5m, disclosed 24.1% premium.",
       "notes": "Italy. Gross sale price EUR1,800,000. Reused from prior extraction; not re-opened against full.md in this pass."
     },
@@ -95,6 +111,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:via_rampa_cavalcavia_16_18:divestment:2024",
+      "sale_price": 5900000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1816: 'On 19 December 2024, the Manager completed the divestment of Via Rampa Cavalcavia 16-18 in Mestre, Italy, to Agenzia del Demanio for €5.9 million, achieving a 36.6% or €1.6 million premium over the 30 June 2024 independent valuation conducted by Savills.'",
       "citation": "AR p39 (per prior extraction): sold for EUR5.9m against a 30 Jun 2024 valuation of EUR4.3m, disclosed 36.6% premium.",
       "notes": "Italy. Gross sale price EUR5,900,000. Reused from prior extraction; not re-opened against full.md in this pass."
     },
@@ -114,6 +134,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "set:via_della_fortezza_8:divestment:2025",
+      "sale_price": 15000000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "full.md L1732: 'Via della Fortezza 8 in Florence, Italy is classified as asset held for sale and carried at the contracted selling price of €15.0 million based on a binding offer from a purchaser.'",
       "citation": "AR p39 (per prior extraction): held for sale at 31 Dec 2024 at contracted price EUR15.0m against a 30 Jun 2024 valuation of EUR15.1m, disclosed -0.7%; binding offer entered in FY2024, notary deed signed and completed 5 Mar 2025.",
       "notes": "Italy. Status set to 'announced' since the deal had not completed as at the FY2024 AR/FYE date (31 Dec 2024) -- it was held for sale under a binding offer and completed post-FYE on 5 Mar 2025. Contracted/held-for-sale price EUR15,000,000. deal_id year set to 2025 (the year the deal actually completed) per SPEC's deal_id convention (year deal completed), differing from the prior extraction's deal_id which used the FY2024 reporting-year suffix; if a FY2025 SET output is separately produced, this same deal should reuse deal_id 'set:via_della_fortezza_8:divestment:2025' as a cross-year duplicate."
     }

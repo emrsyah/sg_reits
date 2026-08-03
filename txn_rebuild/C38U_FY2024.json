@@ -44,6 +44,11 @@
       "interest_pct": null,
       "deal_id": "c38u:21_collyer_quay:divestment:2024",
 
+      "sale_price": 688000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p1051: 'Divested 21 Collyer Quay to Sun View SG I Pte. Ltd. for S$688.0 million'; Note 33 (p8876): Consideration received in cash 688,000",
+
       "citation": "p136 Note 33: 'the Group recognised a net gain on divestment of investment property of $32.8 million'; net proceeds S$672,607k after divestment-related payments of S$15,393k (Note 33)",
       "notes": "Carrying value derived per accounting policy (gain/loss = net proceeds - carrying amount): 672,607 - 32,765 = 639,842 (SGD). gain_loss_pct = disclosed net gain S$32,765k / derived carrying value S$639,842k = +5.12% (pct_source=derived; the AR discloses the dollar gain, not a percentage). Sold at gross consideration S$688.0m, equal to the Savills valuation as at 31 Oct 2024 (0% premium to that valuation, not separately recorded as a second row since the spec's five fields are for one reference basis per row). Percentage is computed on NET proceeds after disposal costs (per rule 7 of spec) rather than the S$688.0m gross price; gross_sale_price = S$688,000k. Portfolio Statement (p107) shows a dash for this property's FY2024 carrying value since it was divested before year-end."
     }

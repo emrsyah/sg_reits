@@ -21,6 +21,10 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "dcru:walsh_avenue:divestment:2024",
+      "sale_price": 178000000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p6348 (Note 6b, FY2024): 'The properties were sold to a third-party at the carrying amount as at 31 December 2023 and sale of the properties was completed on 12 January 2024'",
 
       "citation": "p6348 (Note 6b, FY2024): 'entered into a purchase and sales agreement for the proposed divestment of 2401 Walsh Avenue and 2403 Walsh Avenue at a proposed sale price of US$160.2 million (based on 90% ownership interest). The properties were sold to a third-party at the carrying amount as at 31 December 2023 and sale of the properties was completed on 12 January 2024'",
       "notes": "Sold at exactly the 31-Dec-2023 carrying amount, i.e. zero gain/loss (0.00%), stated by the AR itself ('sold ... at the carrying amount'), not derived from a residual. 100%-basis carrying amount/sale price is US$178.0m (Note 6, p177 prior extraction); the AR also separately quotes a 90%-ownership-interest proposed price of US$160.2m (announced Nov 2023) — that figure is on a DIFFERENT (90%) interest basis than the 100% carrying value used here and is not used as reference_value to avoid mixing interest bases (spec invariant 1). No P&L divestment-gain line exists for this sale (net_property_sales = 0 per prior _notes.json), consistent with a nil-gain sale at book value."

@@ -38,6 +38,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "buou:357_collins_street:divestment:2025",
+      "sale_price": 192100000,
+      "sale_price_currency": "AUD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "line 1911 Property Profile table: 'Divestment Consideration | A$192.1 million'; line 676: 'On 30 September 2025, we completed the divestment of 357 Collins Street, Melbourne for A$192.1 million, representing a 0.6% premium to its independent valuation of A$191.0 million'.",
       "citation": "p37 Property Profile: Divestment Consideration A$192.1m and Appraised Value on Divestment A$191.0m (Savills Valuations Pty Ltd, capitalisation and DCF methods, as at 1 Jun 2025).",
       "notes": "Exit from Melbourne CBD office, sold A$192.1m vs A$191.0m independent valuation. gain_loss_pct DERIVED = (192.1m-191.0m)/191.0m = +0.58% (sold at a premium to valuation). Letter to Unitholders (p13) narratively describes this as 'approximately 0.6% above valuation' - consistent with but not identical to the derived 0.58%, so kept as derived rather than disclosed since no exact percentage figure is printed. Alt reference_basis=book_value: P&L-recognised gain on divestment S$180,000 (Statement of Total Return, group SGD accounts) vs carrying value S$162,052k (Note 10 investment-property movement, 'Disposal of investment properties (162,052)') = +0.11%; not used as primary because AUD-denominated valuation is the same-currency, deal-level reference matching the sale price. Per-deal net proceeds not separately disclosed (net_sale_proceeds S$160,725,000 is the group-level FY2025 cash-flow figure, single divestment in the year)."
     },
@@ -57,6 +61,10 @@
       "reference_basis": null,
       "interest_pct": null,
       "deal_id": "buou:28_german_properties:partial_divestment:2024",
+      "sale_price": 33414000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "line 6955: 'On 28 November 2024, FLCT's wholly-owned subsidiaries completed the sale of shares to the existing minority shareholders of the property holding companies of 28 German properties, reducing its effective interest in each of the German properties to 89.9% for sale consideration of S$33,414,000.'",
       "citation": "p36: sale of shares to existing minority shareholders of the property-holding companies, consideration EUR23.2m = S$33,414,000 (Note 6955 / Statement of Movements in Unitholders' Funds: 'Divestment of ownership interests to non-controlling interests | (746) | 33,414').",
       "notes": "IFRS-10 equity transaction (sale of shares to existing minority shareholders, no loss of control) - NOT a P&L property divestment, so gain_loss_pct/reference fields are genuinely inapplicable/not disclosed, not merely unfilled. Reduces the Trust's effective interest in each of the 28 German properties to 89.9% (a 3.2%-5.0% reduction per property, so interest_pct is left null as no single deal-level increment is disclosed - the reduction varies by property). No per-deal gain on divestment, no distinct carrying value of the minority interest transferred, and no separate deal-level appraised value are disclosed (confirmed absent per prior extraction worklist; deriving from the (746)/33,414 equity movement is prohibited under invariant against inventing a reference). Portfolio-level German valuations of EUR1,037.8m (First Valuation, Colliers) exist on p36 but are aggregate across all properties, not attributable to this transaction, so not used. sale_consideration (gross) = S$33,414,000; net_sale_proceeds = S$32,994,000."
     }

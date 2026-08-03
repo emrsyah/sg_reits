@@ -66,6 +66,11 @@
       "interest_pct": null,
       "deal_id": "ajbu:intellicentre_campus:divestment:2024",
 
+      "sale_price": 174000000,
+      "sale_price_currency": "AUD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p236: 'we unlocked A$174.0 million from the opportunistic divestment of Intellicentre Campus in Sydney at a 35.4% premium over valuation'",
+
       "citation": "p236: 'we unlocked A$174.0 million from the opportunistic divestment of Intellicentre Campus in Sydney at a 35.4% premium over valuation'; p1940: 'The Manager opportunistically divested IC DC in Australia at 35.4% premium to valuation to unlock value'",
       "notes": "gain_loss_pct is AR-DISCLOSED (35.4%), not derived. Sale price A$174.0m; implied valuation base = 174.0/1.354 ≈ A$128.5m, matching our prior extraction's valuation figure (A$128.5m as at 31 Dec 2023). This is a PROPERTY-LEVEL premium-to-valuation figure per the schema convention; the separate ACCOUNTING gain booked in the financial statements is S$31,611k ('Gain on divestment of an investment property', p3745/p6146), net of withholding tax S$17,028k (p6393) — that SGD accounting figure is NOT stored here (it mixes FX translation and is on a different basis/currency than the AUD property-level premium); recorded per spec's 'equity/property sales recorded on property economics, not accounting outcome' convention. Part of A$174.0m proceeds (A$90.0m) reinvested into an Australia Data Centre Note (p236) — no bearing on the divestment economics itself."
     },
@@ -79,17 +84,22 @@
       "purchase_price": null,
       "purchase_price_currency": null,
 
-      "gain_loss_pct": null,
+      "gain_loss_pct": -0.12,
       "pct_unit": "percent",
-      "pct_source": null,
-      "reference_value": null,
-      "reference_currency": null,
-      "reference_basis": null,
+      "pct_source": "derived",
+      "reference_value": 16520000,
+      "reference_currency": "SGD",
+      "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "ajbu:basis_bay_dc:divestment:2025",
 
+      "sale_price": 16500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p7189 (Note): 'On 31 December 2024, Keppel DC REIT entered into a sale and purchase agreement to divest Basis Bay DC, a colocation data centre in Malaysia to Basis Bay Services MSC Sdn. Bhd. at a proposed sale price of $16.5 million.'",
+
       "citation": "p517/p528: 'Divestment of asset announced on 2 January 2025; completion expected in 3Q 2025'",
-      "notes": "Announced but not completed as at FY2024 year-end (announced 2 Jan 2025, a subsequent event); no sale price disclosed in FY2024 AR, so gain_loss_pct cannot be derived. Property was reclassified to investment property held for sale at carrying value S$16,520k (per prior extraction _notes.json anomalies) — this is a carrying value, not a transacted price, so left out of reference_value to avoid implying a completed deal. deal_id uses 2025 (the year completion is expected), consistent with spec's 'year deal completed' rule; will need reconciling if completion lands in FY2025 AR under a different date."
+      "notes": "Announced but not completed as at FY2024 year-end (announced 2 Jan 2025, a subsequent event). Proposed sale price of $16.5m (SGD, p7189) vs carrying value S$16,520k at 31 Dec 2024 (p7187, same Note); gain_loss_pct derived from rounded price vs precise carrying value, so treat as approximate. deal_id uses 2025 (the year completion is expected), consistent with spec's 'year deal completed' rule; will need reconciling if completion lands in FY2025 AR under a different date."
     },
     {
       "property_name": "Kelsterbach Data Centre (Kelsterbach DC)",
@@ -110,8 +120,13 @@
       "interest_pct": null,
       "deal_id": "ajbu:kelsterbach_dc:divestment:2025",
 
-      "citation": "p529/p1261/p2236/p2906: 'Divestment of asset announced on 17 February 2025; completion expected in 1H 2025'",
-      "notes": "Announced but not completed as at FY2024 year-end (announced 17 Feb 2025, a subsequent event); no sale price disclosed in FY2024 AR, so gain_loss_pct cannot be derived. deal_id uses 2025 (expected completion year); check against FY2025 AR for actual completion date and reconcile deal_id if it differs."
+      "sale_price": 70600000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p8594 (Subsequent Events note): 'On 14 February 2025, the Group entered into a sale and purchase agreement to divest 100% freehold interest in Kelsterbach DC, a shell and core data centre in Frankfurt, Germany to an unrelated third party for $70.6 million.'",
+
+      "citation": "p529/p1261/p2236/p2906: 'Divestment of asset announced on 17 February 2025; completion expected in 1H 2025'; p8594 (Subsequent Events): sale and purchase agreement entered 14 February 2025 for $70.6 million",
+      "notes": "Announced but not completed as at FY2024 year-end (subsequent event). Sale price of $70.6m (SGD) IS disclosed, in the Subsequent Events note (p8594) — a prior extraction pass missed this and captured only the valuation. No carrying value/valuation figure paired with this specific price in the subsequent-events text, so gain_loss_pct is left null rather than mismatching bases. deal_id uses 2025 (expected completion year); check against FY2025 AR for actual completion date and reconcile deal_id if it differs."
     }
   ]
 }

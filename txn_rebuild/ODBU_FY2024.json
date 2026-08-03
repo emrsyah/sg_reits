@@ -21,6 +21,10 @@
       "reference_basis": "purchase_price",
       "interest_pct": null,
       "deal_id": "odbu:hudson_valley_plaza_lowes_sams:partial_divestment:2024",
+      "sale_price": 36500000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p1722: 'The divestment consideration of US$36.5 million represents an attractive premium of 4.3% over the independent valuation of US$35.0 million as at 30 June 2024, and a 17.5% premium over the purchase price of US$31.1 million'",
 
       "citation": "p1722: 'On 14 August 2024, UHREIT completed the divestment of Lowe's and Sam's Club properties within Hudson Valley Plaza, New York. The divestment consideration of US$36.5 million represents an attractive premium of 4.3% over the independent valuation of US$35.0 million as at 30 June 2024, and a 17.5% premium over the purchase price of US$31.1 million'",
       "notes": "reference_basis = purchase_price used (ODBU is one of the two REITs, per spec, that discloses this basis explicitly, and 17.5% is the more prominently repeated headline figure across the report, e.g. p603/p699). ALTERNATIVE disclosed figure, not stored (schema allows one basis per row): 4.3% premium over independent valuation of US$35.0m as at 30 Jun 2024 (would imply reference_value=35,000,000, reference_basis=valuation). Partial divestment: only the Lowe's and Sam's Club buildings within Hudson Valley Plaza were sold; the remainder of the property (FY2024 carrying value US$27,900k) was retained — hence transaction_type=partial_divestment even though the two buildings themselves were sold in full."
@@ -43,6 +47,10 @@
       "reference_basis": "purchase_price",
       "interest_pct": null,
       "deal_id": "odbu:albany_supermarket:divestment:2025",
+      "sale_price": 23800000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p1724: 'The divestment consideration of US$23.8 million is 4.2% higher than the purchase price of US$22.9 million'",
 
       "citation": "p1724: 'On 17 January 2025, UHREIT completed the divestment of Albany-Supermarket, New York. The divestment consideration of US$23.8 million is 4.2% higher than the purchase price of US$22.9 million'; p6600: 'As at 31 December 2024, Albany Supermarket is classified as an investment property held for divestment and the divestment was completed on 17 January 2025 for a consideration of US$23.8 million, which is also the fair value as at 31 December 2024 based on the independent valuation undertaken by CBRE, Inc.'",
       "notes": "CROSS-YEAR DUPLICATE handling (per spec explicit guidance — 'ODBU Albany appears again in FY2025 — same deal, same deal_id'): deal_id keyed to the completion year (2025), to be reused identically in the ODBU FY2025 rebuild file for this same asset. Recorded here under FY2024 because the property was classified as 'investment property held for divestment' at the FY2024 balance-sheet date (31 Dec 2024), with the AR itself disclosing the subsequent-event completion (17 Jan 2025) and its economics in the FY2024 report narrative. reference_basis = purchase_price (the only premium percentage AR discloses for this property) — note the divestment consideration (US$23.8m) EQUALS the fair value/independent valuation as at 31 Dec 2024 (also US$23.8m, per p6600), meaning the premium-vs-valuation basis would show exactly 0.0% (not separately stated as a percentage by the AR, so not stored as an alternate row)."

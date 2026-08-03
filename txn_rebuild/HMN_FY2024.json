@@ -22,8 +22,13 @@
       "interest_pct": null,
       "deal_id": "hmn:courtyard_north_ryde:divestment:2024",
 
+      "sale_price": 95600000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "Divestment highlights table p9: 'Courtyard by Marriott Sydney-North Ryde | Sydney, Australia | AUD109.0M (S$95.6M) | 5% [Premium over book value] | 4.4% [Exit yield] | Jan 2024'",
+
       "citation": "Divestment highlights table p9: 'Courtyard by Marriott Sydney-North Ryde | Sydney, Australia | AUD109.0M (S$95.6M) | 5% [Premium over book value] | 4.4% [Exit yield] | Jan 2024'; Note 14 (p8383): 'the CapitaLand Ascott BT Group completed the divestment of Courtyard by Marriott Sydney-North Ryde in Australia for a consideration of $48.6 million'",
-      "notes": "gain_loss_pct (5%) is AR-DISCLOSED, from the highlights table which pairs it with a sale price of S$95.6M (AUD109.0M); reference_value = book_value derived from THAT same paired sale price (95.6M / 1.05 = 91,047,619). FLAG: the audited Note 14 (p8383) discloses a materially different consideration figure, $48.6 million, for the same divestment — roughly half of the highlights-table figure. The AR does not reconcile this discrepancy anywhere found; per spec rule 5 ('never balance by assumption'), both figures are preserved here rather than silently choosing one — the % and reference_value use the highlights-table pair (internally consistent with each other) since Note 14 discloses no percentage of its own. Consideration/sale price is not stored in this schema regardless (dropped column)."
+      "notes": "gain_loss_pct (5%) is AR-DISCLOSED, from the highlights table which pairs it with a sale price of S$95.6M (AUD109.0M); reference_value = book_value derived from THAT same paired sale price (95.6M / 1.05 = 91,047,619). FLAG: the audited Note 14/Note 8 (p8383) discloses a materially different consideration figure, $48.6 million, for the same divestment — roughly half of the highlights-table figure: 'the CapitaLand Ascott BT Group completed the divestment of Courtyard by Marriott Sydney-North Ryde in Australia for a consideration of $48.6 million'. The AR does not reconcile this discrepancy anywhere found; per spec rule 5 ('never balance by assumption') and the V2 addendum, BOTH figures are preserved rather than silently choosing one — sale_price uses the Divestment Highlights figure (S$95.6M) per the addendum's explicit instruction, while the Note 8 figure ($48.6M) is quoted here for the record, not discarded. The % and reference_value use the highlights-table pair (internally consistent with each other) since Note 8 discloses no percentage of its own."
     },
     {
       "property_name": "Citadines Mount Sophia Property Singapore",
@@ -43,6 +48,11 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "hmn:citadines_mount_sophia:divestment:2024",
+
+      "sale_price": 148000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "Divestment highlights table p9: 'Citadines Mount Sophia Property Singapore | Singapore | S$148.0M | 19% [Premium over book value] | 3.2% [Exit yield] | Mar 2024'; matches Note 14 (p8385): consideration of $148.0 million.",
 
       "citation": "Divestment highlights table p9: 'Citadines Mount Sophia Property Singapore | Singapore | S$148.0M | 19% [Premium over book value] | 3.2% [Exit yield] | Mar 2024'; Note 14 (p8385): 'the CapitaLand Ascott REIT Group completed the divestment of Citadines Mount Sophia Property Singapore for a consideration of $148.0 million'",
       "notes": "gain_loss_pct (19%) is AR-DISCLOSED; sale price S$148.0M ties exactly between the highlights table and the audited Note 14 (no conflict here, unlike North Ryde). reference_value = book_value derived: 148,000,000 / 1.19 = 124,369,748."
@@ -66,6 +76,11 @@
       "interest_pct": null,
       "deal_id": "hmn:wbf_trio:divestment:2024",
 
+      "sale_price": 99800000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "Divestment highlights table p9: 'Hotel WBF Honmachi | Osaka, Japan | JPY10.7B (S$99.8M) | 15% [Premium over book value]' — aggregate price for the WBF trio (rows 4-5 blank in the same table).",
+
       "citation": "Divestment highlights table p9: 'Hotel WBF Honmachi | Osaka, Japan | JPY10.7B (S$99.8M) | 15% [Premium over book value] | Not meaningful [Exit yield] | Mar 2024', with rows 4-5 (Kitasemba East, Kitasemba West) left blank in the same table, indicating the aggregate figures apply to the trio; Note 14 (p8387): 'the CapitaLand Ascott REIT Group completed the divestment of three hotels in Japan for a total consideration of $96.3 million. The three properties are Hotel WBF Honmachi, Hotel WBF Kitasemba East and Hotel WBF Kitasemba West'",
       "notes": "AGGREGATE DEAL — one divestment, three hotels, ONE consideration and ONE premium%; no per-property split disclosed anywhere. All three property rows share this deal_id and repeat the deal-level gain_loss_pct (15%, disclosed) and reference_value. reference_value = book_value derived from the highlights-table paired sale price: 99,800,000/1.15 = 86,782,609. FLAG: as with North Ryde, the highlights-table aggregate sale price (S$99.8M) differs from the audited Note 14 aggregate consideration (S$96.3M); both are preserved (Note 14 figure in citation only, not used for the % calc since it carries no disclosed premium of its own). Exit yield explicitly 'Not meaningful' per AR footnote (properties largely closed in 2022)."
     },
@@ -87,6 +102,11 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "hmn:wbf_trio:divestment:2024",
+
+      "sale_price": 99800000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "Same aggregate deal as Hotel WBF Honmachi — highlights table p9 aggregate JPY10.7B (S$99.8M), row blank for this property (aggregated into the Honmachi row).",
 
       "citation": "Same aggregate deal as Hotel WBF Honmachi (highlights table p9, row 4 blank = aggregated into row 3; Note 14, p8387, names this property as part of the 3-hotel total consideration $96.3 million)",
       "notes": "Same aggregate deal — same deal_id, same deal-level gain_loss_pct (15%) and reference_value (86,782,609) as Hotel WBF Honmachi. See that row's notes for full explanation."
@@ -110,6 +130,11 @@
       "interest_pct": null,
       "deal_id": "hmn:wbf_trio:divestment:2024",
 
+      "sale_price": 99800000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "Same aggregate deal as Hotel WBF Honmachi — highlights table p9 aggregate JPY10.7B (S$99.8M), row blank for this property (aggregated into the Honmachi row).",
+
       "citation": "Same aggregate deal as Hotel WBF Honmachi (highlights table p9, row 5 blank = aggregated into row 3; Note 14, p8387, names this property as part of the 3-hotel total consideration $96.3 million)",
       "notes": "Same aggregate deal — same deal_id, same deal-level gain_loss_pct (15%) and reference_value (86,782,609) as Hotel WBF Honmachi. See that row's notes for full explanation."
     },
@@ -131,6 +156,11 @@
       "reference_basis": null,
       "interest_pct": null,
       "deal_id": "hmn:novotel_sydney_parramatta:divestment:2024",
+
+      "sale_price": 47800000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "Divestment Highlights table cells are blank for this property (p9); sourced instead from Note 14 (p8389): 'the CapitaLand Ascott BT Group completed the divestment of Novotel Sydney Parramatta in Australia for a consideration of $47.8 million.'",
 
       "citation": "Divestment highlights table p9: 'Novotel Sydney Parramatta | Sydney, Australia | [blank] | [blank] | [blank] | Sep 2024' — sale price, premium and exit yield cells are all blank for this row; Note 14 (p8389): 'the CapitaLand Ascott BT Group completed the divestment of Novotel Sydney Parramatta in Australia for a consideration of $47.8 million'",
       "notes": "No premium/discount percentage is disclosed anywhere in the AR for this property (highlights table cells intentionally blank, unlike every other FY2024 divestment) and no valuation or book-value figure to derive one against was located. gain_loss_pct and all reference fields left genuinely null per spec ('null it if there is no defensible reference; do not invent one'). Consideration $47.8m (Note 14) is disclosed but not stored (schema drops sale price)."
@@ -154,6 +184,11 @@
       "interest_pct": null,
       "deal_id": "hmn:citadines_karasuma_gojo_kyoto:divestment:2024",
 
+      "sale_price": 6200000000,
+      "sale_price_currency": "JPY",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p5050 (Portfolio Statement footnote 4): 'The sale price of JPY 6.2 billion was agreed on a willing buyer willing seller basis, and represented 40.1% above the property valuation as at 31 December 2023.'",
+
       "citation": "p5050 (Portfolio Statement footnote 4): 'Citadines Karasuma-Gojo Kyoto was divested on 8 October 2024 to Hilton Grand Vacations Japan Godo Kaisha, an unrelated third party. The sale price of JPY 6.2 billion was agreed on a willing buyer willing seller basis, and represented 40.1% above the property valuation as at 31 December 2023. The valuation was based on discounted cash flow method'",
       "notes": "gain_loss_pct is AR-DISCLOSED and property-specific (not aggregated), explicitly measured against 'the property valuation' -> reference_basis = valuation (not book_value). reference_value derived in JPY (the transaction's local/native currency): 6,200,000,000 / 1.401 = 4,425,410,421. Note 14 narrative (p8403) separately discloses SGD consideration $54.4 million for the same deal, consistent (6.2B JPY ~= S$54.4M at prevailing rates)."
     },
@@ -175,6 +210,11 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "hmn:infini_garden:divestment:2024",
+
+      "sale_price": 12700000000,
+      "sale_price_currency": "JPY",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p5105 (Portfolio Statement footnote 7): 'The sale price of JPY12.7 billion was agreed on a willing buyer willing seller basis, and represented 55.3% above the property valuation as at 31 December 2023.'",
 
       "citation": "p5105 (Portfolio Statement footnote 7): 'Infini Garden was divested on 29 October 2024 to two unrelated third parties, namely SaaS Holdings GK and RE Project One TMK. The sale price of JPY12.7 billion was agreed on a willing buyer willing seller basis, and represented 55.3% above the property valuation as at 31 December 2023. The valuation was based on discounted cash flow method'",
       "notes": "gain_loss_pct is AR-DISCLOSED and property-specific, explicitly measured against 'the property valuation' -> reference_basis = valuation. reference_value derived in JPY: 12,700,000,000 / 1.553 = 8,177,720,542. Note 14 narrative (p8405) separately discloses SGD consideration $109.7 million for the same deal, consistent with the JPY figure at prevailing rates."

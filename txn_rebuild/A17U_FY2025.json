@@ -152,6 +152,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:parkside:divestment:2025",
+      "sale_price": 26500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): 'Parkside | Portland, US | 26.5 | 18.3 | Tualatin Hills Park & Recreation District | 26 Jun 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): 'Parkside | Portland, US | 26.5 | 18.3 | Tualatin Hills Park & Recreation District | 26 Jun 2025'; footnote 1: valuation dated 31 Dec 2024, National Property Valuation Advisors, Inc.",
       "notes": "Sale consideration S$26.5m vs independent valuation S$18.3m (dated 31 Dec 2024). gain_loss_pct derived as (26.5-18.3)/18.3*100=44.81%; AR does not disclose a per-property percentage, only the aggregate 'above independent valuation' framing for the FY2025 divestment programme and a single aggregate gain-on-disposal figure (S$19,281k, Statement of Total Return, p113). Per-property gain amount and net sale proceeds are not separately disclosed. US property; only an SGD figure is printed in the divestments table (no USD)."
     },
@@ -171,6 +175,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:30_tampines_industrial_avenue_3:divestment:2025",
+      "sale_price": 23000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '30 Tampines Industrial Avenue 3 | Singapore | 23.0 | 22.0 | Tekscend Photomask Singapore Pte. Ltd. | 16 Oct 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '30 Tampines Industrial Avenue 3 | Singapore | 23.0 | 22.0 | Tekscend Photomask Singapore Pte. Ltd. | 16 Oct 2025'; footnote 2: valuation dated 30 Jun 2025, Edmund Tie & Company (SEA) Pte Ltd.",
       "notes": "gain_loss_pct derived as (23.0-22.0)/22.0*100=4.55%; not separately disclosed per-property. Prior-FY-end carrying value (31 Dec 2024 Portfolio Statement column, p120) is also S$22.0m, i.e. the independent valuation and prior-year carrying amount happen to coincide for this property -- verified as two distinct disclosures printing the same number, not a data-conflation artefact."
     },
@@ -190,6 +198,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:astmoor_road:divestment:2025",
+      "sale_price": 52500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): 'Astmoor Road | North West England, UK | 52.5 | 46.6 | Howden Joinery Limited | 7 Nov 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): 'Astmoor Road | North West England, UK | 52.5 | 46.6 | Howden Joinery Limited | 7 Nov 2025'; footnote 3: valuation dated 15 Jul 2025, Colliers International Property Consultants Limited.",
       "notes": "gain_loss_pct derived as (52.5-46.6)/46.6*100=12.66%. UK property; sale/valuation figures printed only in SGD in this table. Prior-FY-end carrying value (31 Dec 2024 Portfolio Statement, p124) was S$48,273k (orig GBP28,500k), a different figure from the S$46.6m valuation used here -- not conflated."
     },
@@ -209,6 +221,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:95_gilmore_road:divestment:2025",
+      "sale_price": 90000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '95 Gilmore Road | Queensland, Australia | 90.0 | 82.2 | CDIT No 6 Pty Ltd ATF Cadence Direct Industrial Trust No 6 Sub Trust | 10 Dec 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '95 Gilmore Road | Queensland, Australia | 90.0 | 82.2 | CDIT No 6 Pty Ltd ATF Cadence Direct Industrial Trust No 6 Sub Trust | 10 Dec 2025'; footnote 4: valuation dated 30 Sep 2025, Jones Lang LaSalle Advisory Services Pty Ltd.",
       "notes": "gain_loss_pct derived as (90.0-82.2)/82.2*100=9.49%. Australian property; sale/valuation figures printed only in SGD in this table (no AUD figure disclosed for the transaction itself)."
     },
@@ -228,6 +244,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:31_ubi_road_1:divestment:2025",
+      "sale_price": 30000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '31 Ubi Road 1 | 30.0 | 29.5 | Intertrust (Singapore) Ltd. in its capacity as trustee of 31 Ubi Sub-Trust'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '31 Ubi Road 1 | 30.0 | 29.5 | Intertrust (Singapore) Ltd. in its capacity as trustee of 31 Ubi Sub-Trust'; row completion date taken from narrative text (p441): 'Completed the divestment of 31 Ubi Road 1, 9 Changi South Street 3, 10 Toh Guan Road, as well as 19 & 21 Pandan Avenue in Singapore for S$306.0 million' dated 17 Dec 2025; footnote 5: valuation dated 1 Jul 2025, Edmund Tie & Company (SEA) Pte Ltd.",
       "notes": "This property, 9 Changi South Street 3, 10 Toh Guan Road and 19 & 21 Pandan Avenue were divested together for an aggregate S$306.0m (per key-events narrative) but each has a distinct individually-disclosed sale consideration/valuation in the divestments table, so each keeps its own deal_id rather than being pooled as one aggregate deal_id (not an 'aggregate deal' case per SPEC since a per-property price/valuation split IS disclosed)."
     },
@@ -247,6 +267,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:9_changi_south_street_3:divestment:2025",
+      "sale_price": 51500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '9 Changi South Street 3 | 51.5 | 47.5 | Intertrust (Singapore) Ltd. in its capacity as trustee of 9 Changi Sub-Trust'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '9 Changi South Street 3 | 51.5 | 47.5 | Intertrust (Singapore) Ltd. in its capacity as trustee of 9 Changi Sub-Trust'; completion date 17 Dec 2025 per narrative (p441); footnote 6: valuation dated 1 Jul 2025, Cushman & Wakefield VHS Pte Ltd.",
       "notes": "gain_loss_pct derived as (51.5-47.5)/47.5*100=8.42%."
     },
@@ -266,6 +290,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:10_toh_guan_road:divestment:2025",
+      "sale_price": 84500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '10 Toh Guan Road | Singapore | 84.5 | 79.7 | Intertrust (Singapore) Ltd. in its capacity as trustee of 10 Toh Guan Sub-Trust | 17 Dec 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '10 Toh Guan Road | Singapore | 84.5 | 79.7 | Intertrust (Singapore) Ltd. in its capacity as trustee of 10 Toh Guan Sub-Trust | 17 Dec 2025'; footnote 5: valuation dated 1 Jul 2025, Edmund Tie & Company (SEA) Pte Ltd.",
       "notes": "gain_loss_pct derived as (84.5-79.7)/79.7*100=6.02%."
     },
@@ -285,6 +313,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:19_21_pandan_avenue:divestment:2025",
+      "sale_price": 140000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '19 & 21 Pandan Avenue | 140.0 | 132.6 | Intertrust (Singapore) Ltd. in its capacity as trustee of 19 & 21 Pandan Sub-Trust'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '19 & 21 Pandan Avenue | 140.0 | 132.6 | Intertrust (Singapore) Ltd. in its capacity as trustee of 19 & 21 Pandan Sub-Trust'; completion date 17 Dec 2025 per narrative (p441); footnote 6: valuation dated 1 Jul 2025, Cushman & Wakefield VHS Pte Ltd.",
       "notes": "gain_loss_pct derived as (140.0-132.6)/132.6*100=5.58%."
     },
@@ -304,6 +336,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "a17u:8700_8770_nimbus:divestment:2025",
+      "sale_price": 8500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "'Completed Divestments in FY 2025' table (p32): '8700-8770 Nimbus | Portland, US | 8.5 | 7.7 | Madrona SW Nimbus LLC | 30 Dec 2025'",
       "citation": "'Completed Divestments in FY 2025' table (p32): '8700-8770 Nimbus | Portland, US | 8.5 | 7.7 | Madrona SW Nimbus LLC | 30 Dec 2025'; footnote 7 (valuation source per prior extraction; footnote text truncated in current grep window).",
       "notes": "gain_loss_pct derived as (8.5-7.7)/7.7*100=10.39%. US property; sale/valuation figures printed only in SGD."
     }

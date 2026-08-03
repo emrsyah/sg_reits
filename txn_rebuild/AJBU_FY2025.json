@@ -19,6 +19,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "ajbu:kelsterbach_data_centre:divestment:2025",
+      "sale_price": 50000000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p2125: 'Kelsterbach DC was opportunistically divested to Fortinet GmbH for EUR 50.0 million or a 28.2% premium to its 31 December 2024 value of EUR 39.0 million'",
       "citation": "p2125: 'In March 2025, Kelsterbach DC was opportunistically divested to Fortinet GmbH for EUR 50.0 million or a 28.2% premium to its 31 December 2024 value of EUR 39.0 million by Savills (UK) Limited, an independent [valuer]'. Consideration also stated in Note (p6358): 'On 24 March 2025, the Group divested Kelsterbach DC for a consideration of approximately $70.6 million.'",
       "notes": "VERIFIED: the disclosed 28.2% is gross sale price EUR 50.0m vs the 31-Dec-2024 independent valuation EUR 39.0m by Savills (UK) Limited -- (50.0-39.0)/39.0*100 = 28.2%, ties out exactly. reference_value/currency recorded in EUR (the currency the disclosed % is actually computed in), not SGD, since mixing bases would misstate the premium. The AR separately states an approx. SGD-equivalent consideration of S$70.6m (Note d, p6358) -- this is a currency-converted restatement of the same EUR 50.0m gross price, NOT a different (net) figure; not used as reference_value to avoid basis confusion. Carrying value immediately pre-divestment was S$55,041k (Portfolio Statement 2024 column, p5588) -- a book_value figure distinct from and not to be conflated with the EUR 39.0m independent valuation used for the disclosed 28.2%. Gain on divestment of S$10.825m was recognised in the Statement of Profit or Loss (per prior extraction, not independently re-verified against a specific P&L line in this pass); true net-of-disposal-cost proceeds for Kelsterbach alone are not separately disclosed (Note B, p5497-5499, states only that net divestment proceeds were used to repay bank borrowings, without a standalone Kelsterbach net-proceeds figure)."
     },
@@ -94,7 +98,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": null,
-      "deal_id": "ajbu:basis_bay_data_centre:divestment:2026",
+      "deal_id": "ajbu:basis_bay_dc:divestment:2025",
+      "sale_price": null,
+      "sale_price_currency": null,
+      "sale_price_scope": "not_disclosed",
+      "sale_price_citation": null,
       "citation": "p418: 'Entered agreement for the sale of Basis Bay Data Centre, Cyberjaya, Malaysia to rebalance portfolio'; Note 4(ii) (p128, per prior extraction): SPA entered 2024, announced 2 Jan 2025, completion expected 1Q 2026; carrying value 31 Dec 2025 S$17,092k; portfolio valuation S$16.9m / RM53.9m as at 31 Dec 2025.",
       "notes": "Sale and purchase agreement signed (originally in 2024, publicly announced 2 Jan 2025); still NOT COMPLETED as at FYE 31 Dec 2025, with completion expected 1Q 2026 -- status recorded as 'announced', not 'completed'. The AR does NOT disclose a sale/consideration price for Basis Bay DC anywhere found in this report, only the held-for-sale carrying value (S$17,092k) and an independent portfolio valuation (S$16.9m / RM53.9m, both as at 31 Dec 2025). Because no transacted price exists, gain_loss_pct cannot be computed under either a disclosed or derived path and is correctly left null per SPEC rule 3 ('no defensible reference. Do not invent one') -- this is a genuine disclosure gap, not an extraction miss. deal_id uses year 2026 (expected completion year) since the deal has not yet completed; may need to be reconciled with a future FY2026 filing once the actual completion date is known."
     }

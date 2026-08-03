@@ -22,6 +22,11 @@
       "interest_pct": null,
       "deal_id": "p40u:wisma_atria_property_office_strata_units:divestment:2024",
 
+      "sale_price": 41000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "p2095/fn8: '13 strata units ... in the Wisma Atria Property (Office) were divested for sales consideration of approximately S$41 million in FY 2024/25'; footnote 8: 'The strata transactions amounted to approximately S$41 million, compared to the valuation of approximately S$32 million as at 30 June 2024'",
+
       "citation": "p2095/fn8: '13 strata units or approximately 18,546 square feet of net lettable space in the Wisma Atria Property (Office) were divested for sales consideration of approximately S$41 million[8] in FY 2024/25'; footnote 8: 'The strata transactions amounted to approximately S$41 million, compared to the valuation of approximately S$32 million as at 30 June 2024 by CBRE Pte. Ltd. (using the income capitalisation method and discounted cash flow analysis)'; Note 13(13) p7388: 'A total of 13 strata units in Wisma Atria Property (Office) with carrying value of $31.9 million were divested during the current period'",
       "notes": "AGGREGATE DEAL per spec: one deal_id covers all 13 strata units, sold to 7 different unrelated third-party buyers, with only one combined aggregate sale figure disclosed (no per-unit breakdown) — every property row would repeat this same deal-level reference_value and gain_loss_pct if the units were listed individually; here recorded as a single aggregated row since no per-unit split exists anywhere in the AR. Aggregate sales consideration ~S$41m vs aggregate CBRE valuation ~S$32m as at 30 Jun 2024 => (41,000,000-32,000,000)/32,000,000 = +28.13% (pct_source=derived; AR states both figures as 'approximately', no percentage stated verbatim). Net proceeds S$40,898,000 (after directly attributable costs); disclosed gain on divestment S$9,044,000 against carrying value S$31.9m (=> +28.35% on a book_value basis — not used here per spec's preference, but consistent within ~0.2pp). Reduced Group's strata title interest in Wisma Atria from 74.23% (30 Jun 2024) to 68.81% (30 Jun 2025). No single completion date disclosed for the 13-unit aggregate (transacted across FY2024/25); completed_date left null."
     }

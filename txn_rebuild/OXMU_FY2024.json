@@ -19,6 +19,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "oxmu:one_town_center:divestment:2024",
+      "sale_price": 82000000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p139: sale price US$82,000,000 for One Town Center, Boca Raton, Florida.",
       "citation": "p139/p143: sale price US$82,000,000; loss on disposal of investment property US$2,627,000 recognised in P&L; valuation as at 31 Dec 2023 US$84,800,000; net sale proceeds per Consolidated Statement of Cash Flows US$75,373,000.",
       "notes": "Boca Raton, Florida office property. gain_loss_pct DERIVED vs_valuation = (82,000,000 - 84,800,000)/84,800,000 = -3.30% (sold at a discount to the last independent valuation, 31 Dec 2023). Alt reference_basis=book_value using the AR's disclosed P&L loss: if carrying_value = sale_price - loss_reversed-sign... carrying_value itself is not printed per-property in the extraction reviewed (recorded null), so a book_value-basis % could not be independently cross-checked; valuation is used as the sole defensible reference. Gross sale price US$82.0m; net sale proceeds US$75.373m (implied disposal costs ~US$6.6m) per Consolidated Statement of Cash Flows (p143). Loss on disposal US$2.627m recognised in P&L (p139)."
     }

@@ -20,6 +20,10 @@
       "interest_pct": null,
       "deal_id": "hmn:somerset_olympic_tower_tianjin:divestment:2025",
       "citation": "p196 (FS Note 14(a)): 'The consideration is approximately 50% above the property's carrying value as at 31 December 2023 which was appraised based on the discounted cash flow method.' Agreed property value RMB420 million disclosed same note.",
+      "sale_price": 420000000,
+      "sale_price_currency": "RMB",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p10 Divestments Completed in FY2025 highlight: sale consideration RMB420.0 million (S$77.4 million headline); p196 FS Note 14(a): 'Agreed property value RMB420 million'.",
       "notes": "DISCLOSED figure, not derived -- do not recompute. Basis is book_value at 31 DECEMBER 2023 specifically (not 2024): reference_value 51,367,000 SGD taken from the FY2024 AR audited Portfolio Statement (p131) 'At Valuation' column for this property (51,367 S$'000), the only disclosed carrying figure at that date. The FY2025 AR pledge-note carrying value at 31 Dec 2024 was a close but distinct S$51,316,000 (p196) -- NOT used here because the disclosed 50% premium is explicitly anchored to the Dec-2023 figure, not Dec-2024. Sale consideration RMB420.0m = S$77.4m headline (Investments/Divestments highlight p10); FS Note discloses agreed property value S$75.5m and net divestment consideration S$64.5m (p216/217, gain on divestment of assets held for sale S$17,027k, Note 28 p217). Do not conflate: p10's Divestments table also shows a slightly different premium context (2.2% exit-yield column, not price premium) -- see p10 table row 1 for cross-reference; premium basis footnote (p10 fn1) corroborates 'book value as at 31 December 2023'."
     },
     {
@@ -39,6 +43,10 @@
       "interest_pct": null,
       "deal_id": "hmn:citadines_central_shinjuku_tokyo:divestment:2025",
       "citation": "p132/5062 (Portfolio Statement footnote 3): 'The sale price of JPY25.0 billion was agreed on a willing buyer willing seller basis, and represented 100% above the property valuation as at 31 December 2024. The valuation was based on the income approach ... and the cost approach.' Portfolio Statement 'At Valuation' Dec-2024 column = S$108,647 thousand.",
+      "sale_price": 25000000000,
+      "sale_price_currency": "JPY",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p132/5062 Portfolio Statement footnote 3: 'The sale price of JPY25.0 billion was agreed on a willing buyer willing seller basis, and represented 100% above the property valuation as at 31 December 2024.'",
       "notes": "PRIMARY basis is the independent VALUATION as at 31 Dec 2024 (S$108,647k), per FS Note footnote 3 -- this is the basis recorded above (pct_source disclosed, reference_basis valuation). A SEPARATE ~100% figure ('c.100%') also appears in the Divestments Completed in FY2025 highlight table (p10), but on a DIFFERENT basis: p10 footnote 1 states that figure is computed against the property's BOOK VALUE as at 30 June 2025 (not the Dec-2024 independent valuation used in the audited FS note). Both bases happen to round to ~100% but are NOT the same figure -- do not conflate. The alternate book-value-basis figure from p10: gain_loss_pct 100.0 (disclosed as 'c.100%'), reference_basis book_value, reference_value not separately disclosed as a number (only the premium % is given on p10; the 30-Jun-2025 book value itself is not printed). Sale consideration JPY25.0bn = S$222.7m headline (p10); FS Note discloses net divestment consideration S$210.3m (p217) and gain on disposal of investment properties S$82,011k (Note 28, p217, sole investment-property divestment in FY2025)."
     },
     {

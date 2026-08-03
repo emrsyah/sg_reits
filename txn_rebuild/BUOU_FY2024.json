@@ -75,7 +75,11 @@
       "reference_currency": null,
       "reference_basis": null,
       "interest_pct": 0.101,
-      "deal_id": "buou:28_german_properties_minority_sale:partial_divestment:2024",
+      "deal_id": "buou:28_german_properties:partial_divestment:2024",
+      "sale_price": 23300000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "deal_level",
+      "sale_price_citation": "p12770 (Subsequent Events note): 'On 5 November 2024, FLCT's wholly-owned subsidiaries entered into share purchase agreements with the existing minority shareholders of the property holding companies of 28 of its German properties to reduce its effective interest in each of the German properties to 89.9% for sale consideration of €23.3 million (approximately S$33.3 million).'",
       "citation": "Subsequent-events note (p293): subsidiaries entered share purchase agreements with existing minority shareholders to reduce effective interest in each of 28 German properties to 89.9% for sale consideration of EUR23.3m (approximately S$33.3m).",
       "notes": "Announced (not completed) subsequent event as at the FY2024 AR date (announced 2024-11-05); no per-property carrying value, valuation, or gain percentage disclosed in FY2024, so gain_loss_pct/reference fields left null rather than derived. Gross sale price S$33,300,000 (SGD-converted from EUR23.3m) not populated into purchase_price since this is a sale, not an acquisition; retained only in notes: gross_sale_price=33,300,000 SGD."
     }

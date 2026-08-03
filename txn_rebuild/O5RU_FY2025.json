@@ -38,6 +38,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "o5ru:3_toh_tuck_link:divestment:2025",
+      "sale_price": 24388000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p186 portfolio statement footnote: '3 Toh Tuck Link... at a sale price of S$24.388 million... completed on 17 June 2025'",
       "citation": "Letter to Unitholders (p13/p52): 'AA REIT divested 3 Toh Tuck Link at a 32.5% premium to valuation' for a sale price of S$24.4 million (portfolio statement footnote, p186: '3 Toh Tuck Link... at a sale price of S\\$24.388 million... completed on 17 June 2025').",
       "notes": "DISCLOSED premium: +32.5% (AR's own wording, repeated in multiple sections). Gross sale price S$24,388,000 (portfolio-statement footnote, p186). reference_value is NOT separately printed as a dollar figure - it is back-calculated from the disclosed sale price and disclosed premium: 24,388,000 / 1.325 = 18,406,415 (rounded), representing the pre-reclassification independent valuation the 32.5% premium is measured against. Note the held-for-sale carrying value at FYE (S\\$24,388k, equal to the agreed sale price per Note 4/p725501 fair-value hierarchy - 'stated at fair value based on the agreed sale prices with third-party buyers') is NOT usable as reference_basis=book_value since it was reset to equal the sale price upon reclassification, which would force gain_loss_pct to 0% by construction; the pre-reclassification independent valuation (implied above) is the only defensible, non-circular reference. Net proceeds from divestment of investment property (Statement of Cash Flows, FY2026 = declared FY2025) = S$23,972,000 (implied transaction costs ~S$416k vs the S$24,388,000 gross price). Counterparty (third-party buyer) not named in the AR text reviewed."
     },
@@ -57,6 +61,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "o5ru:8_senoko_south_road:divestment:2025",
+      "sale_price": 15000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "Letter to Unitholders (p13/p52): 'the divestment of 8 Senoko South Road for S$15.0 million at an 11.1% premium above valuation'",
       "citation": "Letter to Unitholders (p13/p52): 'the divestment of 8 Senoko South Road for S\\$15.0 million at an 11.1% premium above valuation'; portfolio-statement footnote (p186): announced 4 March 2026, sale price S\\$15.0 million, completed 16 April 2026.",
       "notes": "DISCLOSED premium: +11.1% (AR's own wording). Sale price S$15,000,000. Divestment ANNOUNCED 4 Mar 2026 and COMPLETED 16 Apr 2026 - both dates fall within the AR's covered reporting period (year ended 31 Mar 2026 = declared FY2025 under this project's offset-FY convention for O5RU), so it is treated as completed, consistent with the AR's own framing ('completed post financial year end' relative to the 31 Mar 2026 balance-sheet date but within the FY2026/declared-FY2025 narrative window and its divestment count of 'two divestments... during FY2026'). reference_value back-calculated the same way as Toh Tuck: 15,000,000 / 1.111 = 13,501,350 (rounded); no separate dollar valuation figure is printed. FYE carrying value of S$28.6m shown in the properties table (held for sale, p186 row 24) is the PRE-transfer carrying figure at 31 Mar 2026, before the property was marked to the agreed sale price - inconsistent with the S$15.0m sale price, so not used as an alternate reference (large gap likely reflects a partial/land-related carrying convention not explained in the text reviewed; flagged rather than reconciled per invariant against balancing by assumption). Counterparty (third-party buyer) not named in the AR text reviewed."
     }

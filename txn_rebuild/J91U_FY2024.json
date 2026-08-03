@@ -57,6 +57,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "j91u:182_198_maidstone_street_altona:divestment:2024",
+      "sale_price": 65500000,
+      "sale_price_currency": "AUD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p48 acquisitions/divestments table: sale consideration A$65.5 million vs independent valuation A$61.0 million (Cushman & Wakefield, 31 Dec 2023).",
       "citation": "p538: 'Announced divestment of 182-198 Maidstone Street in Australia at 7.4% premium to valuation.' p48: sale consideration A$65.5 million vs independent valuation A$61.0 million (Cushman & Wakefield, 31 Dec 2023).",
       "notes": "Victoria, Australia logistics asset. Verified disclosed premium: (65,500,000-61,000,000)/61,000,000 = 7.38% ~ matches the AR's stated '7.4%' verbatim -- DISCLOSED, not derived. Native AUD as-reported."
     },
@@ -76,6 +80,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "j91u:81_tuas_bay_drive:divestment:2024",
+      "sale_price": 35000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p48/p2195: sale consideration S$35.0 million vs independent valuation S$30.0 million (JLL, 16 Aug 2024).",
       "citation": "p571: 'Announced divestment of 81 Tuas Bay Drive at 16.7% premium to valuation.' p48/p2195: sale consideration S$35.0 million vs independent valuation S$30.0 million (JLL, 16 Aug 2024).",
       "notes": "Singapore General Industrial asset. Verified disclosed premium: (35,000,000-30,000,000)/30,000,000 = 16.67% ~ matches the AR's stated '16.7%' verbatim -- DISCLOSED, not derived. Native SGD as-reported."
     }

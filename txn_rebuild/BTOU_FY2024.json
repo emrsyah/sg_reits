@@ -21,6 +21,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "btou:capitol:divestment:2024",
+      "sale_price": 110000000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "net_proceeds",
+      "sale_price_citation": "p27-28 Divestments table: 'Capitol | Sacramento, California | 110[3] | 118.0 | 400 CM OWNER, LLC | 28 October 2024'; p347: 'we divested Capitol in Sacramento, California for a net consideration of approximately US$110 million'",
 
       "citation": "p27-28 Divestments table: 'Capitol | Sacramento, California | 110[3] | 118.0 | 400 CM OWNER, LLC | 28 October 2024'; footnote 3: 'CBRE, Inc. valued the property at US$118.0 million as at 1 September 2024'; footnote 2: net consideration 'based on the respective purchase and sale agreements, and subjected to closing adjustments'",
       "notes": "Net consideration US$110m (per AR table, itself subject to closing adjustments) vs CBRE independent valuation US$118.0m as at 1 Sep 2024 = (110-118)/118 = -6.78%. Note 6 investment-property movement (p166) records carrying amount of disposal as US$111,129k; against that carrying value the discount is -2.99% (not used as reference_basis here per spec preference for valuation). Net cash proceeds US$107,801k (Consolidated Statement of Cash Flows p151). Aggregate loss on disposal of investment properties US$1.618m disclosed only in total (Statement of Comprehensive Income p147), not split per property. A divestment fee of US$0.6m was payable to the Manager for Capitol (Note 1(a) p154)."
@@ -43,6 +47,10 @@
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "btou:plaza:divestment:2025",
+      "sale_price": 40000000,
+      "sale_price_currency": "USD",
+      "sale_price_scope": "net_proceeds",
+      "sale_price_citation": "p27-28 Divestments table: 'Plaza | Secaucus, New Jersey | 40[4] | 43.7 | 500 Plaza Ground Lessor LLC | 25 February 2025'; p347: 'we completed the sale of Plaza in Secaucus, New Jersey for a net consideration of approximately US$40 million'",
 
       "citation": "p27-28 Divestments table: 'Plaza | Secaucus, New Jersey | 40[4] | 43.7 | 500 Plaza Ground Lessor LLC | 25 February 2025'; footnote 4: 'Cushman & Wakefield of New Jersey, LLC valued the property at US$43.7 million as at 31 December 2024'",
       "notes": "Subsequent event disclosed in the FY2024 annual report: transaction completed 25 Feb 2025 (U.S. time), so deal_id year is 2025 (year deal completed), though disclosed in the FY2024 AR. Net consideration US$40m vs Cushman & Wakefield independent valuation US$43.7m as at 31 Dec 2024 = (40-43.7)/43.7 = -8.47%. Plaza was reclassified to asset held for sale at 31 Dec 2024 at carrying amount US$43,700k (Note 6, p166; Statement of Financial Position p146), so no disposal-loss line exists in the FY2024 audited financial statements — the property has no FY2024 P&L disposal impact."

@@ -39,6 +39,10 @@
       "interest_pct": null,
       "deal_id": "j69u:changi_city_point:divestment:2023",
       "citation": "p223 Note 13: gain on divestment of Changi City Point (incl. Changi City Carpark Operations LLP interest) disclosed as S$11.272m. p39: sale price of S$338.0m was negotiated after taking into account an independent valuation of S$325.0m as at 31 Jul 2023.",
+      "sale_price": 338000000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p39: 'sale price of S$338.0m was negotiated after taking into account an independent valuation of S$325.0m as at 31 Jul 2023.'",
       "notes": "Deal completed 31 Oct 2023 (prior fiscal year, FY2023) but retained here in the FY2024 AR's comparative/audit-trail disclosure -- deal_id year (2023) reflects actual completion year per spec's cross-year rule, even though this row is recorded in the FY2024 extraction file. DERIVED: (sale price 338,000,000 - valuation 325,000,000)/325,000,000 = +4.0%; no premium % is disclosed verbatim in the AR. Carrying value equals the S$325.0m valuation figure (no separate book-value line disclosed), so vs_book_value would give the same +4.0% -- reference_basis recorded as 'valuation' since that is the disclosed comparison figure (p39). The disclosed S$11.272m gain on divestment (Note 13, net of transaction costs incl. CCCO LLP interest) is ~3.47% of the S$325.0m reference, differing from the 4.0% gross-consideration premium because the gain figure nets out transaction costs -- gross consideration captured per spec Rule 7, difference noted here rather than reconciled by adjustment."
     }
   ]

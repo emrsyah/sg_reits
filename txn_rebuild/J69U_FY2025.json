@@ -38,6 +38,10 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "j69u:yishun_10_retail_podium:divestment:2025",
+      "sale_price": 34500000,
+      "sale_price_currency": "SGD",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p9/p138/FS p199: 'On 23 September 2025, the Trust divested Y10 for a consideration of $34,500,000 to Lion (Singapore) Pte. Limited...'",
       "citation": "p9/p138/FS p199: 'On 23 September 2025, the Trust divested Y10 for a consideration of $34,500,000 to Lion (Singapore) Pte. Limited... with a net gain on divestment of $128,000.' Consideration negotiated as average of two independent valuations of $34.0m and $35.0m as at 31 May 2025. Investment-property movement note: 'Disposal (34,000)' (FY-end carrying value $34.0m).",
       "notes": "Divested to Lion (Singapore) Pte. Limited, a wholly-owned subsidiary of FPL (interested-person transaction). Gross consideration S$34,500,000. gain_loss_pct DERIVED vs_book_value = (34,500,000 - 34,000,000)/34,000,000 = +1.47% (net_sale_proceeds not separately disclosed, so gross sale_price used per the formula against carrying value). No premium/gain % explicitly disclosed by the AR. For reference, the AR's own disclosed net gain on divestment of $128,000 (net of transaction costs, FS Note 4) = +0.38% of carrying value - a smaller, cost-adjusted figure not used as primary since it is net of unspecified transaction costs (implied ~$372k) rather than the gross-consideration-vs-book comparison the SPEC calls for. Consideration was the average of two independent valuations of $34.0m and $35.0m as at 31 May 2025 (not the FY-end carrying value); if that average ($34.5m) were used as reference_basis=valuation instead, gain_loss_pct would be 0.00% by construction (consideration = valuation average), so book_value is the more informative basis and is used here. Net proceeds from divestment of investment property and investment in joint venture (Statement of Cash Flows) = $34,500,000 for FY2025 (no JV divestment that year, so the whole amount is Y10)."
     }

@@ -19,6 +19,10 @@
       "reference_basis": "book_value",
       "interest_pct": null,
       "deal_id": "ud1u:illumina:divestment:2024",
+      "sale_price": 24500000,
+      "sale_price_currency": "EUR",
+      "sale_price_scope": "per_property",
+      "sale_price_citation": "p189 Note 2.3: divested for sale consideration EUR24,500k on 31 Jan 2024; loss on divestment EUR224k (vs held-for-sale carrying value EUR24,698k)",
       "citation": "p189 Note 2.3: assets held for sale carried at EUR24,698k (31 Dec 2023); divested for sale consideration EUR24,500k on 31 Jan 2024; loss on divestment EUR224k.",
       "notes": "Il·lumina (Spain office, Barcelona) reclassified to held-for-sale 31 Dec 2023 following conditional SPA dated 22 Dec 2023; completed 31 Jan 2024, sold to an unrelated third party. gain_loss_pct DERIVED vs_book_value = (24,500,000 - 24,698,000)/24,698,000 = -0.91% (sold at a small discount to carrying value, consistent with the AR's disclosed loss of EUR224,000 = sale consideration EUR24,500k - carrying value EUR24,698k). No independent-valuation figure separate from the held-for-sale carrying amount is disclosed for this property, so book_value is the only defensible reference (reference_basis=valuation not used - none printed distinct from carrying value). Loss also appears as an add-back in the cash flow statement (p179). This deal is a known cross-year duplicate case per the SPEC (Il·lumina divestment straddling FY2023 held-for-sale classification / FY2024 completion); deal_id uses the year completed (2024), consistent with the SPEC's cross-year-duplicate convention."
     }
