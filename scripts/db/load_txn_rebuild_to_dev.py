@@ -12,7 +12,6 @@ v2 schema (docs/7-30-2026-schema-review/transaction-target-schema-AGREED.md):
   ACQUISITION   purchase_price + purchase_price_currency + purchase_price_scope
   DIVESTMENT    sale_price + sale_price_currency + sale_price_scope
                 basis_value + basis_currency + basis   (was reference_value/_basis)
-                gain_loss_pct  -- AR-STATED only; null where we derived it
                 interest_pct, deal_id
 
   gain  = sale_price - basis_value          (both must be the same currency)
@@ -44,7 +43,6 @@ ADD = [  # column, type
     ("basis",                 "text"),
     ("sale_price_scope",      "text"),
     ("purchase_price_scope",  "text"),
-    ("pct_source",            "text"),
     ("figures_source",        "text"),
     ("basis_mismatch",        "text"),
     ("sale_price_citation",   "text"),
@@ -52,7 +50,8 @@ ADD = [  # column, type
     ("citation",              "text"),
     ("notes",                 "text"),
 ]
-DROP = ["carrying_value", "carrying_value_currency", "carrying_value_basis",
+DROP = ["gain_loss_pct",
+        "carrying_value", "carrying_value_currency", "carrying_value_basis",
         "valuation", "valuation_currency", "valuation_date",
         "gain_on_divestment", "gain_currency", "gain_on_divestment_basis", "gain_basis",
         "net_sale_proceeds", "net_sale_proceeds_currency", "net_proceeds_basis",
@@ -63,7 +62,7 @@ COLS = ["symbol", "financial_year", "deal_id", "transaction_type", "status", "pr
         "purchase_price", "purchase_price_currency", "purchase_price_scope", "purchase_price_citation",
         "sale_price", "sale_price_currency", "sale_price_scope", "sale_price_citation",
         "basis_value", "basis_currency", "basis",
-        "gain_loss_pct", "pct_source", "interest_pct",
+        "interest_pct",
         "figures_source", "basis_mismatch", "citation", "notes"]
 
 
@@ -84,8 +83,8 @@ def read_rebuild():
             isdiv = "acquisition" not in str(t.get("transaction_type", ""))
             # v2 rename: reference_* -> basis_*
             bv, bc, bs = t.get("reference_value"), t.get("reference_currency"), t.get("reference_basis")
-            # gain_loss_pct is AR-STATED ONLY. Derived values are recomputed at read time.
-            pct = t.get("gain_loss_pct") if t.get("pct_source") == "disclosed" else None
+            # gain_loss_pct is NOT stored (dropped 2026-08-03): it derives from
+            # sale_price and basis_value, and no row needs it to recover a price.
             r = {c: None for c in COLS}
             r.update(symbol=sym, financial_year=fy, deal_id=t.get("deal_id"),
                      transaction_type=t.get("transaction_type"), status=t.get("status"),
@@ -99,7 +98,6 @@ def read_rebuild():
                      sale_price_scope=t.get("sale_price_scope"),
                      sale_price_citation=t.get("sale_price_citation"),
                      basis_value=bv, basis_currency=bc, basis=bs,
-                     gain_loss_pct=pct, pct_source=t.get("pct_source"),
                      interest_pct=t.get("interest_pct"),
                      figures_source=t.get("figures_source"), basis_mismatch=t.get("basis_mismatch"),
                      citation=t.get("citation"), notes=t.get("notes"))
@@ -160,11 +158,11 @@ def main():
     a = len(rows) - d
     comp = [r for r in rows if r["status"] == "completed"]
     print(f"\n  acquisitions {a} | divestments {d} | completed {len(comp)}")
-    for c in ("sale_price", "basis_value", "basis", "gain_loss_pct", "deal_id"):
+    for c in ("sale_price", "basis_value", "basis", "deal_id"):
         v = sum(1 for r in rows if r[c] is not None)
         print(f"    {c:22s}{v:>4d}/{len(rows)}")
-    print(f"    gain_loss_pct is AR-STATED ONLY ({sum(1 for r in rows if r['gain_loss_pct'] is not None)} rows); "
-          "derived values are recomputed at read time")
+    print("    gain_loss_pct NOT stored -- derived at read time as "
+          "(sale_price - basis_value) / basis_value")
 
     if issues:
         print(f"\n  !! {len(issues)} INTEGRITY ISSUES -- fix these before loading:")

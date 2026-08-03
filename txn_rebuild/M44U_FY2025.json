@@ -104,11 +104,11 @@
       "completed_date": "2025-08-29",
       "purchase_price": null,
       "purchase_price_currency": null,
-      "gain_loss_pct": 1.37,
+      "gain_loss_pct": 1.27,
       "pct_unit": "percent",
       "pct_source": "derived",
-      "reference_value": 7300000,
-      "reference_currency": "SGD",
+      "reference_value": 7900000000,
+      "reference_currency": "KRW",
       "reference_basis": "valuation",
       "interest_pct": null,
       "deal_id": "m44u:mapletree_logistics_centre_yeosu:divestment:2025",
@@ -117,7 +117,8 @@
       "sale_price_scope": "per_property",
       "sale_price_citation": "p2284 'Divestments in FY25/26' table: 'Mapletree Logistics Centre – Yeosu | South Korea | KRW8,000 million (S$7.4 million) | KRW7,900 million (S$7.3 million) | 29 August 2025'. Full-number verification: KRW8,000 million = 8,000,000,000.",
       "citation": "p49 table: Sale Price KRW8,000 million (S$7.4 million), Valuation KRW7,900 million (S$7.3 million), completed 29 August 2025. Footnote 5: independently valued by Colliers International (Hong Kong) Limited as at 31 March 2025.",
-      "notes": "DERIVED (no % column in AR table), on SGD-converted figures: (7,400,000-7,300,000)/7,300,000 = +1.37%."
+      "currency_mismatch_fix": "2026-08-03: reference_value/reference_currency changed from SGD 7,300,000 to KRW 7,900,000,000 (local-currency valuation) to match sale_price's KRW currency. The AR's own Divestments table (folder 28_M44U..._FY2024, full.md line 2284) gives both figures natively in KRW side by side: 'Mapletree Logistics Centre – Yeosu | South Korea | KRW8,000 million (S$7.4 million) | KRW7,900 million (S$7.3 million)'. gain_loss_pct re-derived on the native KRW figures: (8,000,000,000-7,900,000,000)/7,900,000,000 = +1.27% (was 1.37% on the SGD-rounded figures); see updated notes/gain_loss_pct.",
+      "notes": "DERIVED (no % column in AR table), on native KRW figures per currency_mismatch_fix: (8,000,000,000-7,900,000,000)/7,900,000,000 = +1.27%. Previously computed on SGD-converted, more-rounded figures as (7,400,000-7,300,000)/7,300,000 = +1.37% -- KRW figures are the more precise/native disclosure and are used now."
     },
     {
       "property_name": "28 Bilston Drive, Barnawartha North, Victoria",
