@@ -5,7 +5,7 @@ Agreed 2026-08-03. Companion to `transaction-target-schema-AGREED.md`.
 **Design goal, in the user's words:** make the **flow of the DPU** clear and **API-ready**. Not
 complex — solid.
 
-**Headline: 28 columns → 29.** One dropped, one split in two, one added. Decisions of 2026-08-03 are
+**Headline: 28 columns → 28.** One dropped, one split in two. Decisions of 2026-08-03 are
 recorded in §2a.
 
 ---
@@ -30,8 +30,8 @@ Zero failures, across two currencies, stapled structures, and a report that prin
 2. a column no annual report publishes (`adjusted_distributable_income`)
 3. wrong values in a handful of cells (P0 rounding; 2 rows holding the cash figure)
 
-None of those is fixed by adding a column. Only one column is genuinely new — `paid_in_units` (§2a),
-added because `distribution_paid` turned out not to be all cash.
+None of those is fixed by adding a column, and in the end **no new prod column was added at all**.
+`paid_in_units` was proposed, tested against our own dev/prod rule, and kept in dev (§2a).
 
 ### Where the verification columns went
 
@@ -45,7 +45,7 @@ never one an API consumer asks. They belong in the dev QC layer, not the publish
 | job | needs | lives in |
 |---|---|---|
 | show the flow | clear names, honest values | **prod / API** |
-| prove the flow is right | weighted-average units, basis tags | **dev only** |
+| prove the flow is right | weighted-average units, basis tags, `paid_in_units` | **dev only** |
 
 See `performance-verification.md` §3–4 for the evidence behind each; they remain valid findings, just
 not published columns.
@@ -147,7 +147,18 @@ issued_and_issuable  = units_in_issue + units_to_be_issued
 > be wrong; the existing neutral name `units_to_be_issued` is accurate and is kept. Record
 > `units_to_be_issued_comprises` where the AR breaks it down.
 
-### ADD `paid_in_units` — 1 new column
+### `paid_in_units` — DEV ONLY, not a prod column
+
+**Decision revised 2026-08-03 (second pass).** I argued for this as a prod column; tested against our
+own dev/prod rule it does not qualify.
+
+It drives **no metric**: DPU, yield, payout ratio, gearing, ICR and NAV are all unaffected — the
+dilution is already carried by `units_in_issue`. What it actually serves is (a) our cash-reconciliation
+gate and (b) a caveat that `distribution_paid` is not all cash. That is the same profile as
+`weighted_average_units`, which we cut for exactly this reason.
+
+**So it lives in dev as an audit trail.** Promoting it later is one line in `build_final_tables.py` if
+the frontend ever wants to surface distribution cash quality.
 
 Part of `distribution_paid` is settled by **issuing units**, not cash, under a Distribution
 Reinvestment Plan. M1GU FY2024, from the AR footnote:
@@ -161,10 +172,27 @@ paid_in_units         4,880,000      <- 17.5% never left the bank
 cash actually out    22,982,000
 ```
 
-Known: M1GU, M44U (S$40.6m), ME8U (S$29.8m), ODBU ×2, MXNU, JYEU. Without this column the API
-presents a number that reads as cash and is not — and repeated DRP use is itself a signal that a REIT
-is conserving cash. M1GU's own AR notes the flip side: NAV per unit fell partly from *"dilution impact
-from the new units issued pursuant to the DRP."*
+Found on **12 of 74 rows**: C38U (S$115.5m, 13.2%), M44U ×2, ME8U, JYEU, P40U, AU8U, ODBU ×2 (FY2025
+is 29.9%), M1GU (17.5%), MXNU ×2.
+
+**Why it is worth keeping in dev at all:** it is the only check we have that reconciles to a *second*
+audited statement rather than deriving one line from another in the same table.
+
+```
+ME8U   385,455 (distribution statement) − 29,754 = 355,701 = cash flow statement   exact
+JYEU    85,556 (distribution statement) − 13,453 =  72,103 = cash flow statement   exact
+```
+
+**Not derivable from anything else.** It is a dollar amount; `units_in_issue` holds a unit count and
+already includes the DRP units. And the DRP issue price is a *range* on several REITs (MXNU
+*"£0.25 to £0.26"*, P40U *"$0.4762 to $0.4921"*), so the dollars cannot be computed from the units.
+
+> **Verified, since this was contested:** DRP units are ALREADY inside `units_in_issue` and never pass
+> through `units_to_be_issued`. AU8U's Note 16(a) (FY2024, p138) prints both buckets side by side —
+> DRP sits under *"New Units issued"*, while *"New Units to be issued"* contains only manager fees.
+> The proof is that the manager-fee figure rolls exactly: `19,612,240` to-be-issued at end-FY2024
+> appears as issued during FY2025, to the unit. ODBU FY2025 p195 and DCRU FY2025 p195 show the same
+> separation. The defining property is **issuance state**, not who receives them.
 
 ---
 
@@ -430,7 +458,7 @@ year end, so the two figures genuinely coincide. **The fingerprint is a lead, no
 
 ---
 
-## 8. Final column list — 29
+## 8. Final column list — 28
 
 ```
 symbol · financial_year · date · source_url · properties_location
@@ -441,7 +469,7 @@ distribution_per_unit · distribution_record · distribution_period_months
 
 distributable_income_opening · income_for_year
 other_additions · amount_retained
-distribution_paid · paid_in_units · distributable_income_closing · distribution_declared
+distribution_paid · distributable_income_closing · distribution_declared
 income_for_year_basis
 
 portfolio_value · gross_revenue · net_property_income
@@ -452,8 +480,8 @@ portfolio_occupancy · net_asset_value_per_unit
 ```
 
 ```
-28 today  −1 dropped  +1 from the split  +1 paid_in_units  =  29
-          (+ income_for_year_basis, units_to_be_issued kept)
+28 today  −1 dropped  +1 from the split  =  28
+          (+ income_for_year_basis; units_to_be_issued kept; paid_in_units is DEV ONLY)
           3 renamed · 1 split · 1 restructured · 5 value fixes
 ```
 
