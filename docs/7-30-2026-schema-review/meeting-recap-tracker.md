@@ -114,7 +114,16 @@ Open work arising:
 - [ ] `net_distributable_income` − `distribution_paid` − `distributable_income_closing` = upcoming distribution amount
 - [ ] `distribution_pool_other_movements`: confirm that this is a standalone and how is this used.
 
-### Arising from the verification pass (2026-07-31)
+> **RESOLVED 2026-08-03 — target schema agreed in `performance-target-schema-AGREED.md`.**
+> **28 columns → 26. No new columns.** The rollforward already closes 62/62 with what prod has, so
+> the flow was never missing data — it was unclear names, two dead columns, and bad values.
+> 4 renames · 2 drops · `distribution_record` restructured · 5 value fixes.
+> The verification columns proposed below (`weighted_average_units`,
+> `units_entitled_to_distribution`, `units_basis`, `kpi_as_at_date`, `is_pro_forma`) are **cut from
+> prod** — they answer a QC question, not an API question, and belong in the dev layer.
+> `adjusted_distributable_income` **drop** stands; N3's split proposal is overruled.
+
+### Arising from the verification pass (2026-07-31) — SUPERSEDED, see above
 
 - [ ] ADD `weighted_average_units` — disclosed in **32/32** FY2025 ARs; moves the `dpu × units`
       check from 48% to 70% within 2%. (Recommend yes.)
