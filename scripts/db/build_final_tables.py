@@ -117,10 +117,26 @@ for r in cur.fetchall():
     (sym,fy,date,src,ccy,ploc,nuh,uii,utbi,drec,dpm,lev,icr,cod,wadm,wale,occ,dpu,nav,
      pv,gr,npi,ify,ddec,dio,dpaid,dic,retained,addns)=r
     def cv(v): return to_sgd(v, ccy, date, f'perf.{sym}')
+    def cv_record(rec):
+        # distribution_record was passed through UNCONVERTED while distribution_per_unit
+        # was converted, so in _final a foreign reporter's tranches and its headline sat
+        # in DIFFERENT currencies -- SET FY2025 read 20.188 SGD cents against tranches
+        # summing to 13.39 EUR cents, the 1.5077 EUR/SGD rate. Convert the per-unit rate
+        # and any amount inside each tranche so sum(record) = dpu survives the layer.
+        # an EMPTY list is meaningful -- suspended/withheld trusts declared nothing --
+        # so preserve [] and only pass None through as None.
+        if rec is None: return None
+        out=[]
+        for t in rec:
+            t=dict(t)
+            if t.get('dpu') is not None: t['dpu']=cv(t['dpu'])
+            if t.get('amount') is not None: t['amount']=cv(t['amount'])
+            out.append(t)
+        return out
     prows.append((sym,fy,date,src,normalize_locations(ploc),nuh,
       float(uii) if uii is not None else None,
       float(utbi) if utbi is not None else None,
-      Json(drec) if drec is not None else None,
+      Json(cv_record(drec)) if drec is not None else None,
       float(dpm) if dpm is not None else None,
       float(lev) if lev is not None else None, float(icr) if icr is not None else None,
       float(cod) if cod is not None else None, float(wadm) if wadm is not None else None,
