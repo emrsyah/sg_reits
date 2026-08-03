@@ -193,6 +193,12 @@ error** — our checker demands a single line, which cannot exist for:
 
 ## 10. Open decisions
 
+> **SUPERSEDED 2026-08-03 by `performance-open-issues.md`.** An adversarial verification pass
+> refuted four of the items below. In particular M1GU/2024 and the ME8U residues are **our data
+> bugs**, not AR gaps, and the J91U "cash conflict" was a parse artefact. Read that document
+> instead; the list below is kept only for history.
+
+
 1. **`income_for_year` convention** — as-printed plus a `retention_in_subtotal` flag, or normalise
    every row to pre-retention. **Blocks load.** Recommend the flag, per the as-disclosed invariant.
 2. **M1GU/2024** — reconciles on no basis. Needs a human read.
