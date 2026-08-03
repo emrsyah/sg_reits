@@ -94,41 +94,48 @@ load('sgx_reit_profile_final', ['symbol','sub_sector','management','board'], pro
 PERF_MONEY = ['portfolio_value','gross_revenue','net_property_income','net_distributable_income',
  'adjusted_distributable_income','distribution_paid','distributable_income_opening',
  'distribution_cash_paid','distributable_income_closing']
+# Distribution-flow restructure, 2026-08-03. See
+# docs/7-30-2026-schema-review/performance-target-schema-AGREED.md
+#   dev already carries the new names (migration 2026-08-03_performance_flow.sql),
+#   so this block is mostly a pass-through. Two things do NOT cross into _final:
+#     paid_in_units        DRP settlement — dev-only audit trail, drives no metric
+#     income_for_year_basis  marks the 5 computed (rather than printed) values
 cur.execute("""select symbol,financial_year,date,source_url,currency,properties_location,number_of_unitholders,
- number_of_shareholder_units,units_to_be_issued,distribution_record,dpu_period_months,
+ units_in_issue,units_to_be_issued,distribution_record,dpu_period_months,
  aggregate_leverage,interest_coverage_ratio,cost_of_debt,weighted_avg_debt_maturity,wale,portfolio_occupancy,
- dpu,nav_per_unit,portfolio_value,gross_revenue,net_property_income,net_distributable_income,
- adjusted_distributable_income,distribution_paid,distributable_income_opening,distribution_cash_paid,
- distributable_income_closing,distribution_pool_other_movements from sgx_reit_performance""")
-cols=['symbol','financial_year','date','source_url','properties_location','number_of_unitholders','number_of_shareholder_units',
+ dpu,nav_per_unit,portfolio_value,gross_revenue,net_property_income,income_for_year,
+ distribution_declared,distributable_income_opening,distribution_paid,
+ distributable_income_closing,amount_retained,other_additions from sgx_reit_performance""")
+cols=['symbol','financial_year','date','source_url','properties_location','number_of_unitholders','units_in_issue',
  'units_to_be_issued','distribution_record','distribution_period_months','aggregate_leverage','interest_coverage_ratio',
  'cost_of_debt','weighted_average_debt_maturity','weighted_average_lease_expiry','portfolio_occupancy',
  'distribution_per_unit','net_asset_value_per_unit','portfolio_value','gross_revenue','net_property_income',
- 'net_distributable_income','adjusted_distributable_income','distribution_paid','distributable_income_opening',
- 'distribution_cash_paid','distributable_income_closing','distribution_pool_other_movements']
+ 'income_for_year','distribution_declared','distributable_income_opening','distribution_paid',
+ 'distributable_income_closing','amount_retained','other_additions']
 prows=[]
 for r in cur.fetchall():
-    (sym,fy,date,src,ccy,ploc,nuh,nsu,utbi,drec,dpm,lev,icr,cod,wadm,wale,occ,dpu,nav,
-     pv,gr,npi,ndi,adi,dp,dio,dcp,dic,pool)=r
+    (sym,fy,date,src,ccy,ploc,nuh,uii,utbi,drec,dpm,lev,icr,cod,wadm,wale,occ,dpu,nav,
+     pv,gr,npi,ify,ddec,dio,dpaid,dic,retained,addns)=r
     def cv(v): return to_sgd(v, ccy, date, f'perf.{sym}')
     prows.append((sym,fy,date,src,normalize_locations(ploc),nuh,
-      float(nsu) if nsu is not None else None,
+      float(uii) if uii is not None else None,
       float(utbi) if utbi is not None else None,
       Json(drec) if drec is not None else None,
       float(dpm) if dpm is not None else None,
       float(lev) if lev is not None else None, float(icr) if icr is not None else None,
       float(cod) if cod is not None else None, float(wadm) if wadm is not None else None,
       float(wale) if wale is not None else None, float(occ) if occ is not None else None,
-      cv(dpu), cv(nav), cv(pv), cv(gr), cv(npi), cv(ndi), cv(adi), cv(dp), cv(dio), cv(dcp), cv(dic), cv(pool)))
+      cv(dpu), cv(nav), cv(pv), cv(gr), cv(npi), cv(ify), cv(ddec), cv(dio), cv(dpaid), cv(dic),
+      cv(retained), cv(addns)))
 ddl_drop_create('sgx_reit_performance_final',
   'symbol text, financial_year smallint, date date, source_url text, properties_location text, number_of_unitholders int, '
-  'number_of_shareholder_units numeric, units_to_be_issued numeric, distribution_record jsonb, '
+  'units_in_issue numeric, units_to_be_issued numeric, distribution_record jsonb, '
   'distribution_period_months numeric, aggregate_leverage numeric, interest_coverage_ratio numeric, '
   'cost_of_debt numeric, weighted_average_debt_maturity numeric, weighted_average_lease_expiry numeric, '
   'portfolio_occupancy numeric, distribution_per_unit numeric, net_asset_value_per_unit numeric, '
-  'portfolio_value numeric, gross_revenue numeric, net_property_income numeric, net_distributable_income numeric, '
-  'adjusted_distributable_income numeric, distribution_paid numeric, distributable_income_opening numeric, '
-  'distribution_cash_paid numeric, distributable_income_closing numeric, distribution_pool_other_movements numeric, primary key(symbol,financial_year)')
+  'portfolio_value numeric, gross_revenue numeric, net_property_income numeric, income_for_year numeric, '
+  'distribution_declared numeric, distributable_income_opening numeric, distribution_paid numeric, '
+  'distributable_income_closing numeric, amount_retained numeric, other_additions numeric, primary key(symbol,financial_year)')
 load('sgx_reit_performance_final', cols, prows)
 
 # ===== financial_final =====
