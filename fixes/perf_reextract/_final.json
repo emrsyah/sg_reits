@@ -65,12 +65,12 @@
   "archetype": "rollforward",
   "opening": 327300000,
   "opening_line": 5313,
-  "income_for_year": 588664000,
+  "income_for_year": 546864000,
   "income_for_year_line": 5320,
   "income_for_year_derived": false,
-  "other_additions": 80169000,
+  "other_additions": 121969000,
   "other_additions_line": null,
-  "other_additions_label": "Distribution from capital",
+  "other_additions_label": "Tax-exempt income + Distribution from capital",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -130,12 +130,16 @@
   "record_sum_matches": false,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 41800000,
+    "line": 5318
+   },
+   {
     "label": "Distribution from capital",
     "amount": 80169000,
     "line": 5319
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "A17U",
@@ -145,12 +149,12 @@
   "archetype": "rollforward",
   "opening": 338376000,
   "opening_line": 5394,
-  "income_for_year": 597294000,
+  "income_for_year": 561202000,
   "income_for_year_line": 5401,
   "income_for_year_derived": false,
-  "other_additions": 80974000,
+  "other_additions": 117066000,
   "other_additions_line": null,
-  "other_additions_label": "Distribution from capital",
+  "other_additions_label": "Tax-exempt income + Distribution from capital",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -217,12 +221,16 @@
   "record_sum_matches": false,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 36092000,
+    "line": 5399
+   },
+   {
     "label": "Distribution from capital",
     "amount": 80974000,
     "line": 5400
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "AJBU",
@@ -444,8 +452,7 @@
   "distribution_period_months": 12,
   "record_note": "Consolidated distribution statement (p.92). 2H 2024 tranche (2.64c) declared 6 Feb 2025 for period 1 Jul-31 Dec 2024 (Note 30 Subsequent Events, p.164) -- AU8U declares its 2H tranche in February of the following year per batch instructions; included as accrual. No dollar amount given for this subsequent-event tranche, only the per-unit rate. Accrual sum 3.01+2.64=5.65 matches headline DPU exactly.",
   "record_sum_matches": true,
-  "other_additions_breakdown": null,
-  "reclass_note": " | other_additions normalised 0 -> null: the AR prints a dash for the comparative, and 53 other rows use null for the same meaning. One row holding 0 while the rest hold null is the kind of inconsistency that bites a consumer later."
+  "other_additions_breakdown": null
  },
  {
   "symbol": "AU8U",
@@ -960,7 +967,7 @@
   "income_for_year_line": 9237,
   "other_additions": 45178000,
   "other_additions_line": 9238,
-  "other_additions_label": "Lease incentives + Rental support + Divestment gains + Coupon interest",
+  "other_additions_label": "Lease incentives + Divestment gains + Coupon interest",
   "amount_retained": null,
   "distribution_paid": 262580000,
   "distribution_paid_line": 9248,
@@ -1045,7 +1052,7 @@
   "income_for_year_line": 4727,
   "other_additions": 30175000,
   "other_additions_line": 4728,
-  "other_additions_label": "Lease incentives + Rental support + Divestment gains + Coupon interest",
+  "other_additions_label": "Lease incentives + Rental support + Divestment gains",
   "amount_retained": null,
   "distribution_paid": 237992000,
   "distribution_paid_line": 4738,
@@ -1272,9 +1279,9 @@
   "archetype": "rollforward",
   "opening": 371657000,
   "opening_line": 5703,
-  "income_for_year": 754007000,
+  "income_for_year": 716577000,
   "income_for_year_line": 5709,
-  "other_additions": 7585000,
+  "other_additions": 45015000,
   "amount_retained": 9381000,
   "amount_retained_line": 5719,
   "distribution_paid": 874072000,
@@ -1341,13 +1348,22 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 15512000,
+    "line": 5644
+   },
+   {
     "label": "Capital distributions",
     "amount": 7585000,
     "line": 5645
+   },
+   {
+    "label": "Distribution income from joint ventures",
+    "amount": 21918000,
+    "line": 5646
    }
   ],
-  "other_additions_label": "Capital distributions",
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_label": "Tax-exempt income + Capital distributions + Distribution income from joint ventures"
  },
  {
   "symbol": "C38U",
@@ -1356,9 +1372,9 @@
   "archetype": "rollforward",
   "opening": 249796000,
   "opening_line": 5641,
-  "income_for_year": 853749000,
+  "income_for_year": 793536000,
   "income_for_year_line": 5647,
-  "other_additions": 16208000,
+  "other_additions": 76421000,
   "amount_retained": 9083000,
   "amount_retained_line": 5656,
   "distribution_paid": 750125000,
@@ -1425,13 +1441,22 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 7885000,
+    "line": 5644
+   },
+   {
     "label": "Capital distributions",
     "amount": 16208000,
     "line": 5645
+   },
+   {
+    "label": "Distribution income from joint ventures",
+    "amount": 52328000,
+    "line": 5646
    }
   ],
-  "other_additions_label": "Capital distributions",
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_label": "Tax-exempt income + Capital distributions + Distribution income from joint ventures"
  },
  {
   "symbol": "CMOU",
@@ -1807,8 +1832,7 @@
   "record_note": "Headline is 'Income to be distributed per unit' = 7.87c (Distribution Statement, p.102; 'Income available for distribution per unit' is a separate, higher figure of 8.74c and is NOT the headline). Note 10 (Distribution to Unitholders) gives pay dates, not explicit period ranges; periods for the 3.20c/3.97c tranches inferred from the semi-annual cadence, cross-checked against the accrual sum matching the headline exactly. Note the 3.20c cash-paid amount here ($43,182,000) differs slightly from the $43,200,000 approved-amount stated in the FY2024 report's subsequent-events note for the same tranche -- both preserved as printed in their respective source reports (approval estimate vs actual paid amount). The 3.90c 2H2025 tranche was approved 30 Jan 2026 (Note, p.~127) 'amounting to S$53.1 million' -- accrual, in respect of FY2025. Accrual sum 3.97+3.90=7.87 matches headline exactly.",
   "record_sum_matches": true,
   "other_additions_breakdown": null,
-  "other_additions_label": null,
-  "reclass_note": "CORRECTED: 'Gain on disposal group classified as held for sale' (4,081) is one line INSIDE the 'Distribution adjustments' block, alongside depreciation, amortisation and manager's fees. It STRIPS OUT a non-cash accounting gain rather than adding sale proceeds, so it belongs in the operating build-up -- same treatment as SET's 'Loss/(Gain) on divestments'. A negative value in a column called other_additions was the tell."
+  "other_additions_label": null
  },
  {
   "symbol": "D5IU",
@@ -2327,9 +2351,9 @@
   "archetype": "rollforward",
   "opening": 104157000,
   "opening_line": 7432,
-  "income_for_year": 213221000,
+  "income_for_year": 167789000,
   "income_for_year_line": 7437,
-  "other_additions": null,
+  "other_additions": 45432000,
   "amount_retained": null,
   "distribution_paid": 207971000,
   "distribution_paid_line": 7445,
@@ -2393,9 +2417,14 @@
   "distribution_period_months": 12,
   "record_note": "J69U (Frasers Centrepoint Trust) FY ends 30 September. Its Distribution Statement labels embed the period inside a <br> tag ('...for period<br>from 1/10/2023 to 4/2/2024'), which defeats naive single-line greps -- multiline/HTML-aware search was needed. 1H FY2024 has a mid-period stub split at 4 Feb 2024 (unrelated to the FY2025 acquisition stub); the reason for the 4 Feb cut is not stated in the extract found. The 2H FY2024 tranche (6.020 cents, 1 Apr-30 Sep 2024) is accrual, declared/recognised in the FY2024 Distribution Statement itself but not yet cash-paid at year end (footnote: 'will be paid on 29 November 2024'); its dollar amount (109,415) is confirmed from the FY2025 report's comparative column (the FY2024 report's own statement only shows the reconciling 'Distributions to Unitholders' total of 214,313 without breaking out this row's amount). 4.250+1.772+6.020=12.042 exactly matches headline DPU.",
   "record_sum_matches": true,
-  "other_additions_breakdown": null,
-  "other_additions_label": null,
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_breakdown": [
+   {
+    "label": "Distributions from joint ventures",
+    "amount": 45432000,
+    "line": 7436
+   }
+  ],
+  "other_additions_label": "Distributions from joint ventures"
  },
  {
   "symbol": "J69U",
@@ -2404,9 +2433,9 @@
   "archetype": "rollforward",
   "opening": 109407000,
   "opening_line": 6231,
-  "income_for_year": 233180000,
+  "income_for_year": 165646000,
   "income_for_year_line": 6235,
-  "other_additions": null,
+  "other_additions": 67534000,
   "amount_retained": null,
   "distribution_paid": 221237000,
   "distribution_paid_line": 6244,
@@ -2471,9 +2500,14 @@
   "distribution_period_months": 12,
   "record_note": "FY2025 continues the 30 Sep year-end. A genuine mid-period stub occurs around a April 2025 acquisition: the tiny 0.096-cent tranche covers only 1-3 April 2025, immediately followed by a full stub-to-year-end tranche (4 Apr-30 Sep 2025). The final tranche's exact rate (5.963 cents) is not printed as a number anywhere found in the report -- it is derived as headline 12.113 minus the two disclosed FY2025 tranches (6.054+0.096=6.150; 12.113-6.150=5.963), and its amount (121,344) is derived the same way from the statement's 'Distributions to Unitholders' accrual total of 233,166 minus 110,077 and 1,745. Footnote (2) confirms it is paid 28 Nov 2025, for the period '4 April 2025 to 30 September 2025', matching the derived period exactly. 6.054+0.096+5.963=12.113 exactly matches headline DPU.",
   "record_sum_matches": true,
-  "other_additions_breakdown": null,
-  "other_additions_label": null,
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_breakdown": [
+   {
+    "label": "Distributions from joint ventures",
+    "amount": 67534000,
+    "line": 6234
+   }
+  ],
+  "other_additions_label": "Distributions from joint ventures"
  },
  {
   "symbol": "J85",
@@ -2633,11 +2667,11 @@
   "currency": "SGD",
   "archetype": "rollforward",
   "opening": null,
-  "income_for_year": 152493000,
+  "income_for_year": 149100000,
   "income_for_year_line": 7490,
-  "other_additions": 11571000,
+  "other_additions": 14964000,
   "other_additions_line": 7494,
-  "other_additions_label": "Capital distribution",
+  "other_additions_label": "Tax-exempt income + Capital distribution",
   "amount_retained": null,
   "distribution_paid": 177424000,
   "distribution_paid_line": 7541,
@@ -2702,12 +2736,16 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 3393000,
+    "line": 10079
+   },
+   {
     "label": "Capital distribution",
     "amount": 11571000,
     "line": 10080
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "J91U",
@@ -2715,11 +2753,11 @@
   "currency": "SGD",
   "archetype": "rollforward",
   "opening": null,
-  "income_for_year": 158671000,
+  "income_for_year": 148828000,
   "income_for_year_line": 5125,
-  "other_additions": 17405000,
+  "other_additions": 27248000,
   "other_additions_line": 5129,
-  "other_additions_label": "Capital distribution",
+  "other_additions_label": "Tax-exempt income + Capital distribution",
   "amount_retained": null,
   "distribution_paid": 167921000,
   "distribution_paid_line": 5183,
@@ -2776,12 +2814,16 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income",
+    "amount": 9843000,
+    "line": 7865
+   },
+   {
     "label": "Capital distribution",
     "amount": 17405000,
     "line": 7866
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "JYEU",
@@ -2861,9 +2903,9 @@
   "archetype": "rollforward",
   "opening": 109932000,
   "opening_line": 5670,
-  "income_for_year": 194547000,
+  "income_for_year": 85831000,
   "income_for_year_line": 5676,
-  "other_additions": 20000000,
+  "other_additions": 128716000,
   "amount_retained": null,
   "distribution_paid": 216608000,
   "distribution_paid_line": 5683,
@@ -2922,10 +2964,19 @@
     "label": "Capital gains distribution (within Note A)",
     "amount": 20000000,
     "line": 5698
+   },
+   {
+    "label": "Dividend and distribution income from associates (within Note A)",
+    "amount": 86321000,
+    "line": 5701
+   },
+   {
+    "label": "Distribution income from joint ventures (within Note A)",
+    "amount": 22395000,
+    "line": 5702
    }
   ],
-  "other_additions_label": "Capital gains distribution (within Note A)",
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_label": "Capital gains distribution (within Note A) + Dividend and distribution income from associates (within Note A) + Distribution income from joint ventures (within Note A)"
  },
  {
   "symbol": "K71U",
@@ -2934,9 +2985,9 @@
   "archetype": "rollforward",
   "opening": 107871000,
   "opening_line": 6070,
-  "income_for_year": 192406000,
+  "income_for_year": 63826000,
   "income_for_year_line": 6076,
-  "other_additions": 20000000,
+  "other_additions": 148580000,
   "amount_retained": null,
   "distribution_paid": 276593000,
   "distribution_paid_line": 6084,
@@ -3003,10 +3054,14 @@
     "label": "Capital gains distribution (within Note A)",
     "amount": 20000000,
     "line": 6097
+   },
+   {
+    "label": "Dividend and distribution income from associates and joint ventures (within Note A)",
+    "amount": 128580000,
+    "line": 6100
    }
   ],
-  "other_additions_label": "Capital gains distribution (within Note A)",
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_label": "Capital gains distribution (within Note A) + Dividend and distribution income from associates and joint ventures (within Note A)"
  },
  {
   "symbol": "M1GU",
@@ -4084,12 +4139,12 @@
   "archetype": "rollforward",
   "opening": 19234000,
   "opening_line": 6430,
-  "income_for_year": 67104000,
+  "income_for_year": 65669000,
   "income_for_year_line": 6436,
   "income_for_year_derived": true,
-  "other_additions": 11055000,
+  "other_additions": 12490000,
   "other_additions_line": 6440,
-  "other_additions_label": "Capital distribution",
+  "other_additions_label": "Tax-exempt income distribution + Capital distribution",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -4175,12 +4230,16 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income distribution",
+    "amount": 1435000,
+    "line": 6437
+   },
+   {
     "label": "Capital distribution",
     "amount": 11055000,
     "line": 6438
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "O5RU",
@@ -4190,12 +4249,12 @@
   "archetype": "rollforward",
   "opening": 20679000,
   "opening_line": 6884,
-  "income_for_year": 71307000,
+  "income_for_year": 70429000,
   "income_for_year_line": 6890,
   "income_for_year_derived": true,
-  "other_additions": 9307000,
+  "other_additions": 10185000,
   "other_additions_line": 6893,
-  "other_additions_label": "Capital distribution",
+  "other_additions_label": "Tax-exempt income distribution + Capital distribution",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -4280,12 +4339,16 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
+    "label": "Tax-exempt income distribution",
+    "amount": 878000,
+    "line": 6892
+   },
+   {
     "label": "Capital distribution",
     "amount": 9307000,
     "line": 6893
    }
-  ],
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  ]
  },
  {
   "symbol": "ODBU",
@@ -4924,10 +4987,10 @@
   "archetype": "rollforward",
   "opening": 54153000,
   "opening_line": 3948,
-  "income_for_year": 180923000,
+  "income_for_year": 30007000,
   "income_for_year_line": 3956,
   "income_for_year_derived": true,
-  "other_additions": null,
+  "other_additions": 150916000,
   "amount_retained": null,
   "distribution_paid": 189148000,
   "distribution_paid_line": 3966,
@@ -4999,9 +5062,14 @@
   "distribution_period_months": 12,
   "record_note": "Suntec pays quarterly. Q4 2024 (1.570c) declared after year end (Subsequent Events, Note 37), in respect of the period inside FY2024 — accrual.",
   "record_sum_matches": true,
-  "other_additions_breakdown": null,
-  "other_additions_label": null,
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_breakdown": [
+   {
+    "label": "Tax exempt dividend income (Note B)",
+    "amount": 150916000,
+    "line": 3954
+   }
+  ],
+  "other_additions_label": "Tax exempt dividend income (Note B)"
  },
  {
   "symbol": "T82U",
@@ -5010,10 +5078,10 @@
   "archetype": "rollforward",
   "opening": 45928000,
   "opening_line": 3998,
-  "income_for_year": 207280000,
+  "income_for_year": 40717000,
   "income_for_year_line": 4005,
   "income_for_year_derived": true,
-  "other_additions": null,
+  "other_additions": 166563000,
   "amount_retained": null,
   "distribution_paid": 191186000,
   "distribution_paid_line": 4015,
@@ -5085,9 +5153,14 @@
   "distribution_period_months": 12,
   "record_note": "Q4 2025 (2.102c) declared after year end (Subsequent Events, Note 37), in respect of the period inside FY2025 — accrual. The 1.570c tranche visible in this year's statement is Q4 2024, tagged cash_paid.",
   "record_sum_matches": true,
-  "other_additions_breakdown": null,
-  "other_additions_label": null,
-  "reclass_note": "JV / associate / tax-exempt dividend income moved BACK to operating: it is rent arriving through another structure, not money from selling assets."
+  "other_additions_breakdown": [
+   {
+    "label": "Tax exempt dividend income (Note B)",
+    "amount": 166563000,
+    "line": 4004
+   }
+  ],
+  "other_additions_label": "Tax exempt dividend income (Note B)"
  },
  {
   "symbol": "TS0U",
