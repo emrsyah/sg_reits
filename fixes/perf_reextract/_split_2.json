@@ -1,0 +1,174 @@
+[
+  {
+    "symbol": "A17U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 546864000,
+    "income_for_year_lines": [5314, 5315, 5316, 5317],
+    "other_additions": 121969000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income", "amount": 41800000, "line": 5318},
+      {"label": "Distribution from capital", "amount": 80169000, "line": 5319}
+    ],
+    "subtotal_printed": 668833000,
+    "subtotal_line": 5320,
+    "split_sum": 668833000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Taxable income | 546,864 (Total return 764,107 less perpetual securities holders (9,025) less Distribution adjustments (208,218))",
+      "subtotal": "Total amount available for distribution to Unitholders for the year | 668,833"
+    },
+    "note": "Perpetual securities deduction (9,025) left inside operating block per trap 3.",
+    "flags": []
+  },
+  {
+    "symbol": "A17U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 561202000,
+    "income_for_year_lines": [5395, 5396, 5397, 5398],
+    "other_additions": 117066000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income", "amount": 36092000, "line": 5399},
+      {"label": "Distribution from capital", "amount": 80974000, "line": 5400}
+    ],
+    "subtotal_printed": 678268000,
+    "subtotal_line": 5401,
+    "split_sum": 678268000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Taxable income | 561,202",
+      "subtotal": "Total amount available for distribution to Unitholders for the year | 678,268"
+    },
+    "note": "Perpetual securities deduction (10,020) left inside operating block per trap 3.",
+    "flags": []
+  },
+  {
+    "symbol": "HMN",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 231229000,
+    "income_for_year_lines": [4561, 4562, 4563, 4564],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 231229000,
+    "subtotal_line": 4564,
+    "split_sum": 231229000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income available for distribution to Stapled Securityholders for the year | 231,229",
+      "subtotal": "Income available for distribution to Stapled Securityholders for the year | 231,229"
+    },
+    "note": "No non-operating lines disclosed in FY2024 statement; 'Distribution to Stapled Securityholders' 347,706 is the cumulative opening(116,477)+income(231,229) figure, not a for-year subtotal - not used per trap 1.",
+    "flags": []
+  },
+  {
+    "symbol": "HMN",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 256708000,
+    "income_for_year_lines": [4601, 4602, 4603, 4604],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 256708000,
+    "subtotal_line": 4604,
+    "split_sum": 256708000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income available for distribution to Stapled Securityholders for the year | 256,708",
+      "subtotal": "Income available for distribution to Stapled Securityholders for the year | 256,708"
+    },
+    "note": "No non-operating lines disclosed. The 23,200 'Amount retained for asset enhancement initiatives...' line sits BELOW the for-year subtotal (after distributions during the year) and is out of scope per trap 4 - not included in either field. 'Distribution to Stapled Securityholders' 391,497 is cumulative opening(134,789)+income(256,708), not used per trap 1.",
+    "flags": []
+  },
+  {
+    "symbol": "AU8U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 96803000,
+    "income_for_year_lines": [4670, 4671, 4672, 4673],
+    "other_additions": 0,
+    "other_additions_breakdown": [
+      {"label": "Capital distribution", "amount": 0, "line": 4674}
+    ],
+    "subtotal_printed": 96803000,
+    "subtotal_line": 4673,
+    "split_sum": 96803000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income for the year available for distribution to Unitholders | 96,803",
+      "subtotal": "Income for the year available for distribution to Unitholders | 96,803; Capital distribution | – (dash/nil)"
+    },
+    "note": "No distinct for-year subtotal is printed after the Capital distribution line (per trap 2) - the statement rolls straight into the cumulative 'Amount available for distribution to Unitholders' 148,568, which equals opening 51,765 + income 96,803 + capital distribution 0. Used cumulative - opening = 96,803 as the check subtotal. Capital distribution line is printed as a dash (nil) so reported as 0, not null.",
+    "flags": []
+  },
+  {
+    "symbol": "AU8U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 78226000,
+    "income_for_year_lines": [4676, 4677, 4678, 4679],
+    "other_additions": 5700000,
+    "other_additions_breakdown": [
+      {"label": "Distribution top-up", "amount": 5700000, "line": 4680}
+    ],
+    "subtotal_printed": 83926000,
+    "subtotal_line": null,
+    "split_sum": 83926000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income for the year available for distribution to Unitholders | 78,226",
+      "subtotal": "Distribution top-up | 5,700; footnote: 'It is drawn from past divestment gains from CLCT and will be funded through debt.' Amount available for distribution to Unitholders | 130,527 = opening 46,601 + income 78,226 + top-up 5,700"
+    },
+    "note": "No distinct for-year subtotal is printed (same shape as FY2024, trap 2) - computed via cumulative(130,527) - opening(46,601) = 83,926 as the check subtotal. Distribution top-up confirmed non-operating: footnote states it approximates distribution income from an asset not yet consolidated for the full year, funded from past divestment gains and debt, not from this year's property operations.",
+    "flags": []
+  },
+  {
+    "symbol": "CY6U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 101492000,
+    "income_for_year_lines": [5929, 5930, 5931, 5932, 5933, 5934, 5935, 5936, 5937],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 101492000,
+    "subtotal_line": 5937,
+    "split_sum": 101492000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income available for distribution | 101,492",
+      "subtotal": "Income available for distribution | 101,492 (before 10% retention of 10,149, which yields Income to be distributed 91,343)"
+    },
+    "note": "CY6U runs straight from profit to Income to be distributed with no pool carry-forward, as flagged. No non-operating lines in FY2024 (the held-for-sale gain line first appears in FY2025). The 10% retention (10,149) is out of scope per trap 4 and is not double-counted; income_for_year is taken as the pre-retention subtotal 'Income available for distribution'.",
+    "flags": []
+  },
+  {
+    "symbol": "CY6U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 122934000,
+    "income_for_year_lines": [4618, 4619, 4620, 4621, 4622, 4624, 4625, 4626, 4627, 4628, 4630],
+    "other_additions": -4081000,
+    "other_additions_breakdown": [
+      {"label": "Gain on disposal group classified as held for sale", "amount": -4081000, "line": 4623}
+    ],
+    "subtotal_printed": 118853000,
+    "subtotal_line": 4630,
+    "split_sum": 118853000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Gain on disposal group classified as held for sale | (4,081) - printed as a negative deduction inside the pre-subtotal adjustment stack (Note 25)",
+      "subtotal": "Income available for distribution | 118,853 (before 10% retention of 11,885, which yields Income to be distributed 106,968)"
+    },
+    "note": "As flagged: the held-for-sale gain is a NEGATIVE line here - it is a non-cash accounting gain already inside 'Ordinary profit before tax' that is being STRIPPED OUT of distributable income (not an extra amount being distributed on top). Classified as non-operating (divestment/disposal gain) per the spec's category list, so it is moved to other_additions carrying its printed negative sign: other_additions = -4,081. income_for_year is therefore the printed subtotal (118,853) minus this negative other_additions, i.e. 118,853 - (-4,081) = 122,934, so that income_for_year + other_additions reconciles back to 118,853. The 10% retention (11,885) is out of scope per trap 4.",
+    "flags": []
+  }
+]

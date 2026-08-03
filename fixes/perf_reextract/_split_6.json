@@ -1,0 +1,713 @@
+[
+ {
+  "symbol": "BTOU",
+  "financial_year": 2024,
+  "currency": "USD",
+  "income_for_year": 38260000,
+  "income_for_year_lines": [
+   6949
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 38260000,
+  "subtotal_line": 6949,
+  "split_sum": 38260000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Income available for distribution to Unitholders for the year | 38,260",
+   "subtotal": "Income available for distribution to Unitholders for the year | 38,260"
+  },
+  "note": "Trust suspended distributions. No non-operating lines printed; income_for_year is the printed subtotal itself.",
+  "flags": [
+   "suspended"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "BTOU",
+  "financial_year": 2025,
+  "currency": "USD",
+  "income_for_year": 25542000,
+  "income_for_year_lines": [
+   5205
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 25542000,
+  "subtotal_line": 5205,
+  "split_sum": 25542000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Income available for distribution to Unitholders for the year | 25,542",
+   "subtotal": "Income available for distribution to Unitholders for the year | 25,542"
+  },
+  "note": "Trust suspended distributions. No non-operating lines printed.",
+  "flags": [
+   "suspended"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "ME8U",
+  "financial_year": 2023,
+  "currency": "SGD",
+  "income_for_year": 375069000,
+  "income_for_year_lines": [
+   6882,
+   6883,
+   6884,
+   6885
+  ],
+  "other_additions": 5391000,
+  "other_additions_breakdown": [
+   {
+    "label": "Distribution of gains from divestment",
+    "amount": 5391000,
+    "line": 6886
+   }
+  ],
+  "subtotal_printed": 380460000,
+  "subtotal_line": null,
+  "split_sum": 380460000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the year attributable to Unitholders 111,036; Adjustment (Note A) 232,190; Cash distribution declared by joint venture 31,843; Amount available for distribution 375,069",
+   "subtotal": "Amount available for distribution to Unitholders at end of the year 101,328 (reconciled: opening 95,141 + 375,069 + 5,391 - 374,273 = 101,328)"
+  },
+  "note": "Folder 27_ME8U_FY2022 = declared FY2023 (YE 31 Mar 2024, one year behind label). No single printed line sums operating+non-operating income; verified via ending-balance rollforward instead. Cash distribution from JV treated as operating (feeds the 'Amount available for distribution' subtotal alongside profit/adjustments); only the separately-added 'Distribution of gains from divestment' line is non-operating.",
+  "flags": [
+   "folder_fy_offset",
+   "derived_subtotal"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "ME8U",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 388110000,
+  "income_for_year_lines": [
+   7222,
+   7223,
+   7224,
+   7225
+  ],
+  "other_additions": 13354000,
+  "other_additions_breakdown": [
+   {
+    "label": "Distribution of gains from divestment",
+    "amount": 13354000,
+    "line": 7226
+   }
+  ],
+  "subtotal_printed": 401464000,
+  "subtotal_line": null,
+  "split_sum": 401464000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit 335,709; Adjustment (Note A) 24,908; Cash distribution declared by joint venture 27,493; Amount available for distribution 388,110",
+   "subtotal": "Amount available for distribution to Unitholders at end of the year 117,337 (reconciled: opening 101,328 + 388,110 + 13,354 - 385,455 = 117,337)"
+  },
+  "note": "Folder 27_ME8U_FY2023 = declared FY2024 (YE 31 Mar 2025). Same treatment as FY2023: JV cash distribution kept in operating, divestment gains line is non-operating; no single printed combined subtotal, verified via rollforward.",
+  "flags": [
+   "folder_fy_offset",
+   "derived_subtotal"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "ME8U",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 363881000,
+  "income_for_year_lines": [
+   6484,
+   6485,
+   6486,
+   6487
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 363881000,
+  "subtotal_line": 6487,
+  "split_sum": 363881000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit 211,195; Adjustment (Note A) 130,244; Cash distribution declared by joint venture 22,442; Amount available for distribution 363,881",
+   "subtotal": "Distribution of gains from divestment - (nil this year); Amount available for distribution to Unitholders at end of year 111,012 (reconciled: opening 117,337 + 363,881 - 370,206 = 111,012)"
+  },
+  "note": "Folder 27_ME8U_FY2024 = declared FY2025 (YE 31 Mar 2026). Distribution of gains from divestment printed as '-' (nil) this year, so other_additions is null.",
+  "flags": [
+   "folder_fy_offset"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "M44U",
+  "financial_year": 2023,
+  "currency": "SGD",
+  "income_for_year": 447149000,
+  "income_for_year_lines": [
+   5623,
+   5624
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 447149000,
+  "subtotal_line": 5625,
+  "split_sum": 447149000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the year attributable to Unitholders 303,135; Adjustment for net effect of non-tax items (Note A) 144,014; Amount available for distribution 447,149",
+   "subtotal": "Amount available for distribution 447,149"
+  },
+  "note": "No non-operating lines printed in the income build of the statement itself (capital distribution / tax-exempt breakdown appears only in Note B, describing composition of the amount PAID, not an income addition).",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "M44U",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 406397000,
+  "income_for_year_lines": [
+   5586,
+   5587
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 406397000,
+  "subtotal_line": 5588,
+  "split_sum": 406397000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the year attributable to Unitholders 183,540; Adjustment (Note A) 222,857; Amount available for distribution 406,397",
+   "subtotal": "Amount available for distribution 406,397"
+  },
+  "note": "No non-operating lines printed in income build.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "M44U",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 370067000,
+  "income_for_year_lines": [
+   5419,
+   5420
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 370067000,
+  "subtotal_line": 5421,
+  "split_sum": 370067000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the year attributable to Unitholders 254,468; Adjustment (Note A) 115,599; Amount available for distribution 370,067",
+   "subtotal": "Amount available for distribution 370,067"
+  },
+  "note": "No non-operating lines printed in income build.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "N2IU",
+  "financial_year": 2023,
+  "currency": "SGD",
+  "income_for_year": 468569000,
+  "income_for_year_lines": [
+   7108,
+   7109
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 468569000,
+  "subtotal_line": 7110,
+  "split_sum": 468569000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the financial year after tax before distribution attributable to Unitholders 577,940; Adjustment for net effect of non-tax chargeable items (Note A) (109,371); Amount available for distribution for the year 468,569",
+   "subtotal": "Amount available for distribution for the year 468,569"
+  },
+  "note": "Folder 29_N2IU_FY2022 = declared FY2023 (YE 31 Mar 2024, one year behind label). Note B 'Capital distribution' 48,786 is a component of the amount PAID out (breakdown of distribution by source), not an addition to distributable income, per batch guidance - excluded from other_additions.",
+  "flags": [
+   "folder_fy_offset"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "N2IU",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 423022000,
+  "income_for_year_lines": [
+   5393,
+   5394
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 423022000,
+  "subtotal_line": 5395,
+  "split_sum": 423022000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit for the financial year after tax before distribution attributable to Unitholders 584,181; Adjustment (Note A) (161,159); Amount available for distribution for the year 423,022",
+   "subtotal": "Amount available for distribution for the year 423,022"
+  },
+  "note": "Folder 29_N2IU_FY2023 = declared FY2024 (YE 31 Mar 2025). Capital distribution again only in Note B (component of amount paid).",
+  "flags": [
+   "folder_fy_offset"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "N2IU",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 421380000,
+  "income_for_year_lines": [
+   5074,
+   5075
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 421380000,
+  "subtotal_line": 5076,
+  "split_sum": 421380000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Profit after tax attributable to Unitholders 261,274; Adjustment (Note A) 160,106; Amount available for distribution for the year 421,380",
+   "subtotal": "Amount available for distribution for the year 421,380"
+  },
+  "note": "Folder 29_N2IU_FY2024 = declared FY2025 (YE 31 Mar 2026).",
+  "flags": [
+   "folder_fy_offset"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "TS0U",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 113660000,
+  "income_for_year_lines": [
+   5116,
+   5117,
+   5118,
+   5119
+  ],
+  "other_additions": 5000000,
+  "other_additions_breakdown": [
+   {
+    "label": "Amount released* (prior-year retention released back into the distributable pool)",
+    "amount": 5000000,
+    "line": 5121
+   }
+  ],
+  "subtotal_printed": 113660000,
+  "subtotal_line": 5122,
+  "split_sum": 113660000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Total (loss)/return for the year attributable to Unitholders and CPPU holder (68,321); Less: Amount reserved for CPPU (2,200); Less: Amount retained for working capital (5,000); Distribution adjustments (Note A) 184,181; Amount available for distribution for the year 108,660",
+   "subtotal": "Amount to be distributed to Unitholders (Note B) 113,660"
+  },
+  "note": "The $5,000 'Amount retained for working capital requirements' (a current-year retention) is out of scope and deducted INSIDE the operating block -> retention_inside_operating=true. The separate 'Add: Amount released*' line is a PRIOR-year retention released back into the pool, classified as non-operating per spec/batch note - not to be confused with the current-year retention line. | Retention 5,000,000 is deducted INSIDE the operating block in this AR; added back so income_for_year is uniformly pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_normalised"
+ },
+ {
+  "symbol": "TS0U",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 128752000,
+  "income_for_year_lines": [
+   4916,
+   4917,
+   4918,
+   4919
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 123752000,
+  "subtotal_line": 4920,
+  "split_sum": 123752000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Total return/(loss) for the year attributable to Unitholders and CPPU holder 28,451; Less: Amount reserved for CPPU (2,200); Less: Amount retained for working capital (5,000); Distribution adjustments (Note A) 102,501; Amount available for distribution for the year 123,752",
+   "subtotal": "Amount to be distributed to Unitholders (Note B) 123,752 ('Add: Amount released*' = nil this year)"
+  },
+  "note": "Amount released line prints '-' (nil) this year, so other_additions is null. Retention still deducted inside operating. | Retention 5,000,000 is deducted INSIDE the operating block in this AR; added back so income_for_year is uniformly pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_normalised"
+ },
+ {
+  "symbol": "C2PU",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 94419000,
+  "income_for_year_lines": [
+   4113,
+   4114,
+   4115,
+   4116,
+   4117,
+   4118
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 91419000,
+  "subtotal_line": 4118,
+  "split_sum": 91419000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Total return for the year 95,041; Distribution adjustments A (624); Rollover adjustment 2; Amount retained for capital expenditure (3,000); Income for the year available for distribution to Unitholders 91,419",
+   "subtotal": "Income for the year available for distribution to Unitholders (Note B) 91,419"
+  },
+  "note": "$3,000 amount retained for capex is deducted inside the printed income-for-year subtotal -> retention_inside_operating=true. No non-operating lines present. | Retention 3,000,000 is deducted INSIDE the operating block in this AR; added back so income_for_year is uniformly pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_normalised"
+ },
+ {
+  "symbol": "C2PU",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 102781000,
+  "income_for_year_lines": [
+   4662
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 99781000,
+  "subtotal_line": 4662,
+  "split_sum": 99781000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Income for the year available for distribution to Unitholders (Note B) 99,781",
+   "subtotal": "Income for the year available for distribution to Unitholders (Note B) 99,781"
+  },
+  "note": "Same shape as FY2024; retention deducted inside operating block. | Retention 3,000,000 is deducted INSIDE the operating block in this AR; added back so income_for_year is uniformly pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_normalised"
+ },
+ {
+  "symbol": "OXMU",
+  "financial_year": 2024,
+  "currency": "USD",
+  "income_for_year": 38175000,
+  "income_for_year_lines": [
+   5460,
+   5461,
+   5462
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 38175000,
+  "subtotal_line": 5462,
+  "split_sum": 38175000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Net income/(loss) for the year 8,049; Distribution adjustments (Note A) 30,126; Income available for distribution 38,175",
+   "subtotal": "Income available for distribution 38,175"
+  },
+  "note": "Per batch note, OXMU applies its retention (Amount retained 34,237) AFTER this 'Income available for distribution' subtotal, i.e. at the end balance -> retention_inside_operating=false. No non-operating lines present.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "OXMU",
+  "financial_year": 2025,
+  "currency": "USD",
+  "income_for_year": 28726000,
+  "income_for_year_lines": [
+   5092,
+   5093,
+   5094
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 28726000,
+  "subtotal_line": 5094,
+  "split_sum": 28726000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Net income for the year 20,331; Distribution adjustments (Note A) 8,395; Income available for distribution 28,726",
+   "subtotal": "Income available for distribution 28,726"
+  },
+  "note": "Retention (20,423) again applied after this subtotal, at the end balance.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "CRPU",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 83297000,
+  "income_for_year_lines": [
+   6311,
+   6312,
+   6313,
+   6314
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 75921000,
+  "subtotal_line": 6315,
+  "split_sum": 75921000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Total return for the year attributable to Unitholders 56,058; Distribution adjustments (Note A) 27,239; Less: Amount retained (7,385); Amount available for distribution to Unitholders 75,921",
+   "subtotal": "Amount available for distribution to Unitholders 75,921"
+  },
+  "note": "CORRECTED twice: the agent took 'Amount available for distribution' which is CUMULATIVE here (opening + subtotal - retention), spec trap 1. The for-the-year figure is the unlabelled subtotal. I then wrongly added the retention back -- CRPU's retention sits AFTER the subtotal, so the subtotal is already pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "CRPU",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 85666000,
+  "income_for_year_lines": [
+   5953,
+   5954,
+   5955,
+   5956
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 77219000,
+  "subtotal_line": 5957,
+  "split_sum": 77219000,
+  "split_matches": true,
+  "retention_inside_operating": true,
+  "quotes": {
+   "income_for_year": "Total return for the year attributable to Unitholders 63,256; Distribution adjustments (Note A) 22,410; Less: Amount retained for principal amortisation and capex (8,457); Amount available for distribution to Unitholders 77,219",
+   "subtotal": "Amount available for distribution to Unitholders 77,219"
+  },
+  "note": "CORRECTED twice: the agent took 'Amount available for distribution' which is CUMULATIVE here (opening + subtotal - retention), spec trap 1. The for-the-year figure is the unlabelled subtotal. I then wrongly added the retention back -- CRPU's retention sits AFTER the subtotal, so the subtotal is already pre-retention.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "P40U",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 91820000,
+  "income_for_year_lines": [
+   7269,
+   7270,
+   7271
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 87820000,
+  "subtotal_line": null,
+  "split_sum": 87820000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Total return after tax, before distribution 112,691; Less: Amount reserved for distribution to perpetual securities holders (3,850); Net tax and other adjustments (Note A) (21,021)",
+   "subtotal": "'Income available for distribution' printed as 185,121 is CUMULATIVE (opening 97,301 + for-year 87,820); the for-year figure is derived as cumulative minus opening."
+  },
+  "note": "Folder 35_P40U..._FY2024 = declared FY2024, YE 30 June 2025 (per batch instructions). Trap 1: the printed 'Income available for distribution' line (185,121) is the running/cumulative balance including the beginning-of-year amount, not the for-year subtotal. For-year subtotal derived via cumulative-opening = 185,121-97,301=87,820. No non-operating lines printed; perpetual securities deduction stays inside operating per trap 3. | Retention 4,000,000 is deducted INSIDE the operating block in this AR; added back so income_for_year is uniformly pre-retention.",
+  "flags": [
+   "folder_fy_offset",
+   "derived_subtotal",
+   "cumulative_trap"
+  ],
+  "income_for_year_basis": "pre_retention_normalised"
+ },
+ {
+  "symbol": "SET",
+  "financial_year": 2024,
+  "currency": "EUR",
+  "income_for_year": 79328000,
+  "income_for_year_lines": [
+   6044,
+   6045,
+   6046,
+   6047
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 123980000,
+  "subtotal_line": 6047,
+  "split_sum": 123980000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Total return/(loss) for the year attributable to Unitholders and perpetual securities holders 35,481; Less: Total return attributable to perpetual securities holders (2,328); Distribution adjustments (Note A) 46,175; Income available for distribution to Unitholders 123,980",
+   "subtotal": "Income available for distribution to Unitholders 123,980"
+  },
+  "note": "SET is a EUR stapled trust. Note A's '(Gain)/loss on divestments' (-599) is an ADJUSTMENT inside the operating Distribution-adjustments block, per batch note (read the sign) - not a non-operating addition. Perpetual securities deduction stays in operating per trap 3. | CORRECTED: the FY2024 AR labels 123,980 'Income available for distribution' but it is CUMULATIVE (opening 44,652 + 79,328). The FY2025 AR restates the for-the-year figure as 79,328. Spec trap 1.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "SET",
+  "financial_year": 2025,
+  "currency": "EUR",
+  "income_for_year": 74787000,
+  "income_for_year_lines": [
+   6467,
+   6468,
+   6469,
+   6470
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 74787000,
+  "subtotal_line": 6470,
+  "split_sum": 74787000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Total return for the year attributable to Stapled Securityholders and perpetual securities holders 60,911; Less: Total return attributable to perpetual securities holders (2,325); Distribution adjustments (Note A) 16,201; Income available for distribution to Stapled Securityholders 74,787",
+   "subtotal": "Income available for distribution to Stapled Securityholders 74,787"
+  },
+  "note": "Trap 1: 'Amount available for distribution to Stapled Securityholders' 114,673 is cumulative (opening 39,886+74,787), not the for-year figure - use 'Income available for distribution to Stapled Securityholders' 74,787 instead.",
+  "flags": [
+   "cumulative_trap"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "T82U",
+  "financial_year": 2024,
+  "currency": "SGD",
+  "income_for_year": 30007000,
+  "income_for_year_lines": [
+   3949,
+   3950,
+   3951,
+   3952
+  ],
+  "other_additions": 150916000,
+  "other_additions_breakdown": [
+   {
+    "label": "Tax exempt dividend income (Note B)",
+    "amount": 150916000,
+    "line": 3954
+   }
+  ],
+  "subtotal_printed": 180923000,
+  "subtotal_line": null,
+  "split_sum": 180923000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Total return attributable to Unitholders and perpetual securities holders 126,778; Less: Total return attributable to perpetual securities holders (14,013); Net tax adjustments (Note A) (82,758); Taxable income 30,007",
+   "subtotal": "'Amount available for distribution to Unitholders' printed as 235,076 is CUMULATIVE (opening 54,153 + 30,007 + 150,916); for-year subtotal derived = 235,076-54,153=180,923."
+  },
+  "note": "Trap 1: printed subtotal line is cumulative including opening balance. 'Others (Note C)' capital-distribution line (which was 23,000 in the FY2023 comparative column) prints '-' (nil) for FY2024, so it is excluded from other_additions this year.",
+  "flags": [
+   "derived_subtotal",
+   "cumulative_trap"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "T82U",
+  "financial_year": 2025,
+  "currency": "SGD",
+  "income_for_year": 40717000,
+  "income_for_year_lines": [
+   3999,
+   4000,
+   4001,
+   4002
+  ],
+  "other_additions": 166563000,
+  "other_additions_breakdown": [
+   {
+    "label": "Tax exempt dividend income (Note B)",
+    "amount": 166563000,
+    "line": 4004
+   }
+  ],
+  "subtotal_printed": 207280000,
+  "subtotal_line": null,
+  "split_sum": 207280000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Total return attributable to Unitholders and perpetual securities holders 177,955; Less: Total return attributable to perpetual securities holders (18,676); Net tax adjustments (Note A) (118,562); Taxable income 40,717",
+   "subtotal": "'Amount available for distribution to Unitholders' printed as 253,208 is CUMULATIVE (opening 45,928+40,717+166,563); for-year subtotal derived = 253,208-45,928=207,280."
+  },
+  "note": "No 'Others (Note C)' line this year. Same cumulative trap as FY2024.",
+  "flags": [
+   "derived_subtotal",
+   "cumulative_trap"
+  ],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "ODBU",
+  "financial_year": 2024,
+  "currency": "USD",
+  "income_for_year": 25486000,
+  "income_for_year_lines": [
+   5741,
+   5742
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 25486000,
+  "subtotal_line": 5743,
+  "split_sum": 25486000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Net income after tax attributable to the Unitholders for the year 29,907; Distribution adjustments (Note A) (4,421); Amount available for distribution to Unitholders 25,486",
+   "subtotal": "Amount available for distribution to Unitholders 25,486"
+  },
+  "note": "No non-operating lines present.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ },
+ {
+  "symbol": "ODBU",
+  "financial_year": 2025,
+  "currency": "USD",
+  "income_for_year": 26932000,
+  "income_for_year_lines": [
+   5995,
+   5996,
+   5997
+  ],
+  "other_additions": null,
+  "other_additions_breakdown": [],
+  "subtotal_printed": 26932000,
+  "subtotal_line": 5997,
+  "split_sum": 26932000,
+  "split_matches": true,
+  "retention_inside_operating": false,
+  "quotes": {
+   "income_for_year": "Net income after tax attributable to the Unitholders for the year 20,651; Distribution adjustments (Note A) 6,281; Amount available for distribution to Unitholders 26,932",
+   "subtotal": "Amount available for distribution to Unitholders 26,932"
+  },
+  "note": "No non-operating lines present.",
+  "flags": [],
+  "income_for_year_basis": "pre_retention_as_printed"
+ }
+]

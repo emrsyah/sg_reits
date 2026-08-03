@@ -1,0 +1,168 @@
+[
+  {
+    "symbol": "XZL",
+    "financial_year": 2024,
+    "currency": "USD",
+    "income_for_year": 10282000,
+    "income_for_year_lines": [3270, 3271, 3272, 3273, 3274, 3275, 3276, 3277, 3278, 3279, 3280, 3281],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 10282000,
+    "subtotal_line": 3281,
+    "split_sum": 10282000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Amount available for distribution | 10,282 | 19,835",
+      "subtotal": "Amount available for distribution | 10,282 | 19,835"
+    },
+    "note": "Stapled Group statement. No non-operating (tax-exempt/capital distribution/JV) lines appear in the Statement of Distributable Income itself; the (9,476) 'Tax-exempt income' figure at line 4960 is inside Note 22 Taxation's effective-rate reconciliation, not the distribution statement, so it is excluded. income_for_year = the printed 'Amount available for distribution' before retention. 'Amount retained for general corporate and working capital' (10% policy retention) is a separate line deducted AFTER this subtotal, not inside the operating block, so retention_inside_operating=false and it is left out of scope per the spec.",
+    "flags": []
+  },
+  {
+    "symbol": "XZL",
+    "financial_year": 2025,
+    "currency": "USD",
+    "income_for_year": 5476000,
+    "income_for_year_lines": [3228, 3229, 3230, 3231, 3232, 3233, 3234, 3235, 3236, 3237, 3238],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 5476000,
+    "subtotal_line": 3238,
+    "split_sum": 5476000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Amount available for distribution | 5,476 | 10,282",
+      "subtotal": "Amount available for distribution | 5,476 | 10,282"
+    },
+    "note": "Same statement shape as FY2024. No non-operating lines in the Statement of Distributable Income. 10% policy retention (548) deducted after the subtotal, out of scope.",
+    "flags": []
+  },
+  {
+    "symbol": "O5RU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 65669000,
+    "income_for_year_lines": [6431, 6432, 6433, 6434, 6435],
+    "other_additions": 12490000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income distribution", "amount": 1435000, "line": 6437},
+      {"label": "Capital distribution", "amount": 11055000, "line": 6438}
+    ],
+    "subtotal_printed": 78159000,
+    "subtotal_line": null,
+    "split_sum": 78159000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return before income tax 49,067; Less: Amount reserved for distribution to Perpetual Securities holders (20,725); Net effect of tax adjustments 5,082; Other adjustments 32,245 => 65,669 (Group, FY ended 31 Mar 2025)",
+      "subtotal": "Amount available for distribution to Unitholders at beginning of the year 19,234 ... Amount available for distribution to Unitholders 97,393 (cumulative, includes opening)"
+    },
+    "note": "Folder labeled _FY2024 but the statement is 'YEAR ENDED 31 March 2025' (Group column); per the Jan-Jun-end declared-FY rule this is correctly declared FY2024. No line-item subtotal is printed for the year alone -- 'Amount available for distribution to Unitholders' (97,393) is cumulative (= opening 19,234 + this year's total). Per spec trap 1/2: income_for_year + other_additions = cumulative (97,393) - opening (19,234) = 78,159, used as subtotal_printed. Perpetual Securities holders' distribution reservation is deducted before the unitholder figure, left inside operating per trap 3. Group column used.",
+    "flags": ["cumulative_subtotal_only"]
+  },
+  {
+    "symbol": "O5RU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 70429000,
+    "income_for_year_lines": [6885, 6886, 6887, 6888, 6889, 6890],
+    "other_additions": 10185000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income distribution", "amount": 878000, "line": 6892},
+      {"label": "Capital distribution", "amount": 9307000, "line": 6893}
+    ],
+    "subtotal_printed": 80614000,
+    "subtotal_line": null,
+    "split_sum": 80614000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return before income tax 132,940; Less: Amount reserved for distribution to Perpetual Securities holders (23,372); Net effect of tax adjustments (28,140); Taxable income from a Sub-Trust 1,594; Other adjustments (12,593) => 70,429 (Group, FY ended 31 Mar 2026)",
+      "subtotal": "Amount available for distribution to Unitholders at beginning of the year 20,679 ... Amount available for distribution to Unitholders 101,293 (cumulative, includes opening)"
+    },
+    "note": "Folder labeled _FY2025 contains 'YEAR ENDED 31 March 2026' as flagged in the batch notes; declared FY2025 per the Jan-Jun-end rule. Same cumulative-subtotal shape as the prior year: subtotal_printed = cumulative (101,293) - opening (20,679) = 80,614 per trap 1/2. Taxable income from Sub-Trust (1,594) is operating (part of the pre-subtotal tax/adjustment block). Group column used.",
+    "flags": ["cumulative_subtotal_only"]
+  },
+  {
+    "symbol": "M1GU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 35000000,
+    "income_for_year_lines": [4952, 4953, 4954, 4955, 4956, 4957, 4958, 4959, 4960, 4961, 4962, 4963, 4964, 4965],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 35000000,
+    "subtotal_line": 4965,
+    "split_sum": 35000000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income available for distribution to Unitholders for the year after tax | 35,000 | 33,158",
+      "subtotal": "Income available for distribution to Unitholders for the year after tax | 35,000 | 33,158"
+    },
+    "note": "Group column, year ended 31 Dec 2024. No non-operating lines (tax-exempt/capital distribution/JV) appear anywhere in the statement. Per batch note, M1GU deducts its prior-period retention from the OPENING balance: 'Amount retained for working capital' (3,994) reduces opening 15,539 to 11,545 before total return is added; this retention sits above/outside the operating income block (total return -> non-tax adjustments -> tax -> 35,000), not inside it, so retention_inside_operating=false. 'Total amount available for distribution to Unitholders for the year' (46,545) is cumulative (= opening-after-retention 11,545 + 35,000) and is NOT the figure used. A separate current-year retention (3,403) is disclosed below the distributions-paid roll-forward and is out of scope.",
+    "flags": ["retention_deducted_from_opening"]
+  },
+  {
+    "symbol": "M1GU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 39709000,
+    "income_for_year_lines": [4378, 4379, 4380, 4381, 4382, 4383, 4384, 4385, 4386, 4387, 4388, 4389, 4390, 4391],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 39709000,
+    "subtotal_line": 4391,
+    "split_sum": 39709000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income available for distribution to Unitholders for the period after tax | 39,709 | 35,000",
+      "subtotal": "Income available for distribution to Unitholders for the period after tax | 39,709 | 35,000"
+    },
+    "note": "Group column, year ended 31 Dec 2025. Same shape as FY2024: no non-operating lines. Current-year retention deducted from opening balance (1,546, reducing 18,683 to 17,137), outside the operating block -> retention_inside_operating=false. AR notes full distributable income released with no retention from FY2025 income itself (note at line 982); the FY2025 'Amount retained for working capital' shown at end-of-period roll-forward is nil (line 4411).",
+    "flags": ["retention_deducted_from_opening"]
+  },
+  {
+    "symbol": "BMGU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 2861000,
+    "income_for_year_lines": [4621, 4622, 4623, 4624],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 2861000,
+    "subtotal_line": 4624,
+    "split_sum": 2861000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income for the year available for distribution to Unitholders | 2,861 | 2,450",
+      "subtotal": "Income for the year available for distribution to Unitholders | 2,861 | 2,450"
+    },
+    "note": "Group column, year ended 31 Dec 2024. As expected for this small REIT, no non-operating lines (no capital distribution/tax-exempt/JV) appear in the statement. income_for_year is the printed 'Income for the year available for distribution to Unitholders' subtotal. 'Amount retained' (286) is deducted AFTER this subtotal, not inside the operating block, so retention_inside_operating=false and it is out of scope.",
+    "flags": []
+  },
+  {
+    "symbol": "BMGU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 1638000,
+    "income_for_year_lines": [4569, 4570, 4571, 4572],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 1638000,
+    "subtotal_line": 4572,
+    "split_sum": 1638000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Income for the year available for distribution to Unitholders | 1,638 | 2,861",
+      "subtotal": "Income for the year available for distribution to Unitholders | 1,638 | 2,861"
+    },
+    "note": "Group column, year ended 31 Dec 2025. Same shape as FY2024 -- no non-operating lines. Retention (164) deducted after the subtotal, out of scope.",
+    "flags": []
+  }
+]
