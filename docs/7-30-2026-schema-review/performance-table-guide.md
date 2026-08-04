@@ -150,22 +150,37 @@ miss it.
 sum(distribution_record[].dpu) = distribution_per_unit
 ```
 
-64 of 74 rows tally. The record holds only `dpu`, `period_start`, `period_end` — provenance
+66 of 74 rows tally. The record holds only `dpu`, `period_start`, `period_end` — provenance
 keys (`line`), `amount` and `pay_date` were dropped as derivable or sparse.
 
 The 5 that do not tally are all **semi-annual payers with only one half captured**, and
 `period_start`/`period_end` make it self-evident:
 
+**DCRU FY2024 and FY2025 are fixed** -- both ARs disclose the missing half outright
+(*"Announced results for First Half FY 2024: Declared DPU of 1.80 U.S. cents"*, and
+*"Delivered DPU of 1.80 U.S. cents for 1H 2025"*), so the tranche was added with that
+quote in its `source`. Both now sum to 3.60 US cents = the headline.
+
+**Three cannot be fixed from the annual report, because the figure is not in it:**
+
 ```
-A17U 2025   2025-01-01 .. 2025-06-30   H1 only   7.477 of 15.005
-DCRU 2024   2024-07-01 .. 2024-12-31   H2 only   2.449 of 4.897
-DCRU 2025   2025-07-01 .. 2025-12-31   H2 only   2.311 of 4.623
-XZL  2024   2024-07-01 .. 2024-12-31   H2 only   1.154 of 2.170
-XZL  2025   2025-07-01 .. 2025-12-31   H2 only   0.537 of 1.091
+A17U 2025   has H1 (6.479 + 0.998)   missing H2 Jul-Dec 2025   7.477 of 15.005
+XZL  2024   has H2 (0.848)           missing H1 Jan-Jun 2024   1.154 of 2.170
+XZL  2025   has H2 (0.418)           missing H1 Jan-Jun 2025   0.537 of 1.091
 ```
 
-Each sums to roughly half its headline DPU. The fix is re-extracting the missing half, and the
-gap is machine-detectable by checking that the tranche periods span the full year.
+A REIT's annual report prints the full-year DPU plus whichever tranche falls out as a
+subsequent event; the other half was announced in the interim results release, which is not
+in our corpus. A17U's Note 24(c) computes DPU from the full-year amount (678,268), never from
+summing tranches, so the AR has no reason to print the H2 figure.
+
+Subtracting (headline - captured) would produce a number no report states -- that is the
+"never balance by assumption" rule, so those three stay short. The precedent for a legitimate
+fill is A17U **FY2024**, whose H2 was taken from the **FY2025** AR and carries
+`source: "cross-year: disclosed in the FY2025 AR, not the FY2024 AR"`. The same trick will
+close A17U FY2025 once the FY2026 report exists.
+
+The gap is machine-detectable: the tranche periods should span the full financial year.
 
 ### 4. Zero vs null
 
@@ -187,7 +202,7 @@ Defaulting null to 0 would make a suspension indistinguishable from a formatting
 | # | check | result |
 |---|---|---|
 | G1 | rollforward closes | **62** tally · 11 inputs null · 1 mismatch |
-| G2 | `sum(record.dpu)` = `distribution_per_unit` | **64** tally · 5 mismatch · 5 empty record |
+| G2 | `sum(record.dpu)` = `distribution_per_unit` | **66** tally · 3 mismatch · 5 empty record |
 | G3 | `net_property_income ≤ gross_revenue` | **0** violations |
 | G4 | `dpu/100 × units` ≈ `distribution_declared` | **44 / 45** within 10% |
 | G5 | percentages within 0–1 | leverage 0.221–0.608 · cost of debt 0.0148–0.0854 · occupancy 0.677–1.0 |
@@ -203,7 +218,7 @@ as `[]`, distinct from `null`.
 |---|---|
 | **G1: 11 rows unreconcilable** | `distributable_income_opening` or `_closing` is null, so the rollforward cannot be tested at all |
 | **G1: C2PU FY2025 off by 36,000** | `15,562 + 102,781 − 65,436 − 3,000 = 49,907` vs closing `49,871`. FY2024 tallies exactly. Its `income_for_year_basis` is `pre_retention_normalised` — a computed, not printed, figure — so the gap is in our derivation. Not adjusted: a failed check is a signal to investigate, never licence to force a balance |
-| **G2: 5 records cover half a year** | A17U FY2025 H1 only; DCRU and XZL FY2024/25 H2 only. See §3 -- detectable from the tranche periods |
+| **G2: 3 records cover half a year** | A17U FY2025 (missing H2), XZL FY2024/25 (missing H1). The other half is announced in the interim results release, not the AR, so it cannot be extracted from our corpus. DCRU's two were fixed -- its AR states the H1 DPU. See §3 |
 | **G1: the 11 unreconcilable rows** | the report publishes no distribution rollforward at all; CY6U and J91U are business trusts, not REITs. Absent disclosure, not failed extraction. See §0 |
 | **G4: AJBU FY2024** | equity raised 13 days before year end, so the year-end unit count is the wrong denominator. See §2 |
 | **`portfolio_occupancy` null ×4** | 8C8U FY2025, Q5T FY2024/25, UD1U FY2024 |
