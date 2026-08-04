@@ -12,8 +12,10 @@ That is why `distribution_paid` and `distribution_declared` are different column
 ```
 POOL (money)
   distributable_income_opening     left over from last year
-  + income_for_year                operating income this year
-  + other_additions                tax-exempt income + capital distributions + JV income
+  + income_for_year                operating income this year — rent, incl. tax-exempt
+                                   overseas/dividend income and JV distributions
+  + other_additions                NON-operating: capital distributions, divestment
+                                   gains, sponsor top-ups, released retentions
   − amount_retained                held back, leaves the pool
   − distribution_paid              cash that actually left the bank
   = distributable_income_closing   carried into next year
@@ -29,6 +31,27 @@ UNITS
 ```
 
 `issued_and_issuable = units_in_issue + units_to_be_issued`
+
+### Where the operating / non-operating line sits
+
+Classify by **economic source**, never by the label's position in the statement.
+
+```
+income_for_year   = total return attributable to Unitholders
+                    − net tax and other adjustments
+                    + tax-exempt income          overseas property income, exempted dividends
+                    + JV / associate distributions
+
+other_additions   = capital distribution · distribution from capital · capital gains
+                    distribution · divestment gains · distribution of other gains ·
+                    distribution top-up · amount released · coupon interest
+```
+
+Tax-exempt income and JV distributions are rent arriving through a tax or ownership
+wrapper — they are the properties performing. `other_additions` is reserved for what the
+properties did **not** earn: sale proceeds, sponsor support, and prior-year money returning.
+
+20 rows carry an `other_additions`, S$419m in total, all capital in nature.
 
 ---
 

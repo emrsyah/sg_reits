@@ -65,12 +65,12 @@
   "archetype": "rollforward",
   "opening": 327300000,
   "opening_line": 5313,
-  "income_for_year": 546864000,
+  "income_for_year": 588664000,
   "income_for_year_line": 5320,
   "income_for_year_derived": false,
-  "other_additions": 121969000,
+  "other_additions": 80169000,
   "other_additions_line": null,
-  "other_additions_label": "Tax-exempt income + Distribution from capital",
+  "other_additions_label": "Distribution from capital",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -123,17 +123,21 @@
     "pay_date": null,
     "amount": 330829000,
     "line": 5321
+   },
+   {
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "dpu": 7.681,
+    "pay_date": null,
+    "amount": null,
+    "line": 5404,
+    "source": "cross-year: disclosed in the FY2025 AR, not the FY2024 AR"
    }
   ],
   "distribution_period_months": 12,
-  "record_note": "Consolidated Distribution Statement (p.110) shows only two cash tranches: 7.441c for 01/07/23-31/12/23 (prior-year, cash_paid) and 7.524c for 01/01/24-30/06/24 (accrual). The Subsequent Events note (Note 32, p.200) mentions only a property acquisition and a units-for-fees issuance -- it does NOT disclose a H2 2024 distribution declaration. Headline DPU per Note 25 is 15.205c, implying an undisclosed H2 2024 tranche of ~7.681c that had not yet been declared as of the report's issue date. Confirmed by the FY2025 AR's comparative column, which later shows 'Distribution of 7.681 cents per unit for the period from 01/07/24 to 31/12/24' declared as a FY2025 subsequent-year payment -- but that disclosure does not appear in this FY2024 report itself, so per spec it is left out here and the mismatch is reported honestly.",
+  "record_note": "Consolidated Distribution Statement (p.110) shows only two cash tranches: 7.441c for 01/07/23-31/12/23 (prior-year, cash_paid) and 7.524c for 01/01/24-30/06/24 (accrual). The Subsequent Events note (Note 32, p.200) mentions only a property acquisition and a units-for-fees issuance -- it does NOT disclose a H2 2024 distribution declaration. Headline DPU per Note 25 is 15.205c, implying an undisclosed H2 2024 tranche of ~7.681c that had not yet been declared as of the report's issue date. Confirmed by the FY2025 AR's comparative column, which later shows 'Distribution of 7.681 cents per unit for the period from 01/07/24 to 31/12/24' declared as a FY2025 subsequent-year payment -- but that disclosure does not appear in this FY2024 report itself, so per spec it is left out here and the mismatch is reported honestly. | CROSS-YEAR FILL: the 2H FY2024 tranche (7.681c for 01/07/24-31/12/24) is absent from the FY2024 AR because it was declared after that report went out. Taken verbatim from the FY2025 AR line 5404, where it appears in the cash tranche list. Marked with a source note so it is never mistaken for a same-report figure.",
   "record_sum_matches": false,
   "other_additions_breakdown": [
-   {
-    "label": "Tax-exempt income",
-    "amount": 41800000,
-    "line": 5318
-   },
    {
     "label": "Distribution from capital",
     "amount": 80169000,
@@ -149,12 +153,12 @@
   "archetype": "rollforward",
   "opening": 338376000,
   "opening_line": 5394,
-  "income_for_year": 561202000,
+  "income_for_year": 597294000,
   "income_for_year_line": 5401,
   "income_for_year_derived": false,
-  "other_additions": 117066000,
+  "other_additions": 80974000,
   "other_additions_line": null,
-  "other_additions_label": "Tax-exempt income + Distribution from capital",
+  "other_additions_label": "Distribution from capital",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -220,11 +224,6 @@
   "record_note": "Consolidated Distribution Statement (p.116). H1 2025 was split into two tranches (6.479c for 01/01-05/06/25 and 0.998c for 06/06-30/06/25) because new units were issued mid-period, changing the per-unit rate. Headline DPU per Note 24 is 15.005c; accrual tranches sum to only 7.477c. No H2 2025 distribution (expected ~7.528c) appears in this report's Distribution Statement or Subsequent Events -- same pattern as FY2024, where the second-half distribution is evidently declared after this report's cut-off and only surfaces as a comparative figure in the following year's AR. Mismatch reported honestly, not forced.",
   "record_sum_matches": false,
   "other_additions_breakdown": [
-   {
-    "label": "Tax-exempt income",
-    "amount": 36092000,
-    "line": 5399
-   },
    {
     "label": "Distribution from capital",
     "amount": 80974000,
@@ -963,11 +962,11 @@
   "archetype": "rollforward",
   "opening": 131812000,
   "opening_line": 9240,
-  "income_for_year": 210337000,
+  "income_for_year": 211919000,
   "income_for_year_line": 9237,
-  "other_additions": 45178000,
+  "other_additions": 43596000,
   "other_additions_line": 9238,
-  "other_additions_label": "Lease incentives + Divestment gains + Coupon interest",
+  "other_additions_label": "Multiple",
   "amount_retained": null,
   "distribution_paid": 262580000,
   "distribution_paid_line": 9248,
@@ -1025,11 +1024,6 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
-    "label": "Lease incentives",
-    "amount": 1582000,
-    "line": 9268
-   },
-   {
     "label": "Divestment gains",
     "amount": 41700000,
     "line": 9270
@@ -1048,11 +1042,11 @@
   "archetype": "rollforward",
   "opening": 124747000,
   "opening_line": 4730,
-  "income_for_year": 194479000,
+  "income_for_year": 196824000,
   "income_for_year_line": 4727,
-  "other_additions": 30175000,
+  "other_additions": 27830000,
   "other_additions_line": 4728,
-  "other_additions_label": "Lease incentives + Rental support + Divestment gains",
+  "other_additions_label": "Divestment gains",
   "amount_retained": null,
   "distribution_paid": 237992000,
   "distribution_paid_line": 4738,
@@ -1109,16 +1103,6 @@
   "record_note": "FY ends 30 Sep. Third tranche (Apr-Sep 2025) declared 7 Nov 2025, after year end, as a Subsequent Event; not yet paid or amount-disclosed at report date.",
   "record_sum_matches": true,
   "other_additions_breakdown": [
-   {
-    "label": "Lease incentives",
-    "amount": 1420000,
-    "line": 4758
-   },
-   {
-    "label": "Rental support",
-    "amount": 925000,
-    "line": 4759
-   },
    {
     "label": "Divestment gains",
     "amount": 27830000,
@@ -1279,9 +1263,9 @@
   "archetype": "rollforward",
   "opening": 371657000,
   "opening_line": 5703,
-  "income_for_year": 716577000,
+  "income_for_year": 754007000,
   "income_for_year_line": 5709,
-  "other_additions": 45015000,
+  "other_additions": 7585000,
   "amount_retained": 9381000,
   "amount_retained_line": 5719,
   "distribution_paid": 874072000,
@@ -1348,22 +1332,12 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
-    "label": "Tax-exempt income",
-    "amount": 15512000,
-    "line": 5644
-   },
-   {
     "label": "Capital distributions",
     "amount": 7585000,
     "line": 5645
-   },
-   {
-    "label": "Distribution income from joint ventures",
-    "amount": 21918000,
-    "line": 5646
    }
   ],
-  "other_additions_label": "Tax-exempt income + Capital distributions + Distribution income from joint ventures"
+  "other_additions_label": "Capital distributions"
  },
  {
   "symbol": "C38U",
@@ -1372,9 +1346,9 @@
   "archetype": "rollforward",
   "opening": 249796000,
   "opening_line": 5641,
-  "income_for_year": 793536000,
+  "income_for_year": 853749000,
   "income_for_year_line": 5647,
-  "other_additions": 76421000,
+  "other_additions": 16208000,
   "amount_retained": 9083000,
   "amount_retained_line": 5656,
   "distribution_paid": 750125000,
@@ -1441,22 +1415,12 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
-    "label": "Tax-exempt income",
-    "amount": 7885000,
-    "line": 5644
-   },
-   {
     "label": "Capital distributions",
     "amount": 16208000,
     "line": 5645
-   },
-   {
-    "label": "Distribution income from joint ventures",
-    "amount": 52328000,
-    "line": 5646
    }
   ],
-  "other_additions_label": "Tax-exempt income + Capital distributions + Distribution income from joint ventures"
+  "other_additions_label": "Capital distributions"
  },
  {
   "symbol": "CMOU",
@@ -2351,9 +2315,9 @@
   "archetype": "rollforward",
   "opening": 104157000,
   "opening_line": 7432,
-  "income_for_year": 167789000,
+  "income_for_year": 213221000,
   "income_for_year_line": 7437,
-  "other_additions": 45432000,
+  "other_additions": null,
   "amount_retained": null,
   "distribution_paid": 207971000,
   "distribution_paid_line": 7445,
@@ -2417,14 +2381,8 @@
   "distribution_period_months": 12,
   "record_note": "J69U (Frasers Centrepoint Trust) FY ends 30 September. Its Distribution Statement labels embed the period inside a <br> tag ('...for period<br>from 1/10/2023 to 4/2/2024'), which defeats naive single-line greps -- multiline/HTML-aware search was needed. 1H FY2024 has a mid-period stub split at 4 Feb 2024 (unrelated to the FY2025 acquisition stub); the reason for the 4 Feb cut is not stated in the extract found. The 2H FY2024 tranche (6.020 cents, 1 Apr-30 Sep 2024) is accrual, declared/recognised in the FY2024 Distribution Statement itself but not yet cash-paid at year end (footnote: 'will be paid on 29 November 2024'); its dollar amount (109,415) is confirmed from the FY2025 report's comparative column (the FY2024 report's own statement only shows the reconciling 'Distributions to Unitholders' total of 214,313 without breaking out this row's amount). 4.250+1.772+6.020=12.042 exactly matches headline DPU.",
   "record_sum_matches": true,
-  "other_additions_breakdown": [
-   {
-    "label": "Distributions from joint ventures",
-    "amount": 45432000,
-    "line": 7436
-   }
-  ],
-  "other_additions_label": "Distributions from joint ventures"
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "J69U",
@@ -2433,9 +2391,9 @@
   "archetype": "rollforward",
   "opening": 109407000,
   "opening_line": 6231,
-  "income_for_year": 165646000,
+  "income_for_year": 233180000,
   "income_for_year_line": 6235,
-  "other_additions": 67534000,
+  "other_additions": null,
   "amount_retained": null,
   "distribution_paid": 221237000,
   "distribution_paid_line": 6244,
@@ -2500,14 +2458,8 @@
   "distribution_period_months": 12,
   "record_note": "FY2025 continues the 30 Sep year-end. A genuine mid-period stub occurs around a April 2025 acquisition: the tiny 0.096-cent tranche covers only 1-3 April 2025, immediately followed by a full stub-to-year-end tranche (4 Apr-30 Sep 2025). The final tranche's exact rate (5.963 cents) is not printed as a number anywhere found in the report -- it is derived as headline 12.113 minus the two disclosed FY2025 tranches (6.054+0.096=6.150; 12.113-6.150=5.963), and its amount (121,344) is derived the same way from the statement's 'Distributions to Unitholders' accrual total of 233,166 minus 110,077 and 1,745. Footnote (2) confirms it is paid 28 Nov 2025, for the period '4 April 2025 to 30 September 2025', matching the derived period exactly. 6.054+0.096+5.963=12.113 exactly matches headline DPU.",
   "record_sum_matches": true,
-  "other_additions_breakdown": [
-   {
-    "label": "Distributions from joint ventures",
-    "amount": 67534000,
-    "line": 6234
-   }
-  ],
-  "other_additions_label": "Distributions from joint ventures"
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "J85",
@@ -2667,11 +2619,11 @@
   "currency": "SGD",
   "archetype": "rollforward",
   "opening": null,
-  "income_for_year": 149100000,
+  "income_for_year": 152493000,
   "income_for_year_line": 7490,
-  "other_additions": 14964000,
+  "other_additions": 11571000,
   "other_additions_line": 7494,
-  "other_additions_label": "Tax-exempt income + Capital distribution",
+  "other_additions_label": "Capital distribution",
   "amount_retained": null,
   "distribution_paid": 177424000,
   "distribution_paid_line": 7541,
@@ -2736,11 +2688,6 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
-    "label": "Tax-exempt income",
-    "amount": 3393000,
-    "line": 10079
-   },
-   {
     "label": "Capital distribution",
     "amount": 11571000,
     "line": 10080
@@ -2753,11 +2700,11 @@
   "currency": "SGD",
   "archetype": "rollforward",
   "opening": null,
-  "income_for_year": 148828000,
+  "income_for_year": 158671000,
   "income_for_year_line": 5125,
-  "other_additions": 27248000,
+  "other_additions": 17405000,
   "other_additions_line": 5129,
-  "other_additions_label": "Tax-exempt income + Capital distribution",
+  "other_additions_label": "Capital distribution",
   "amount_retained": null,
   "distribution_paid": 167921000,
   "distribution_paid_line": 5183,
@@ -2813,11 +2760,6 @@
   "record_note": "CRITICAL: FY2025 rates are POST the 10:1 unit consolidation completed 5 May 2025. The three FY2024-period tranches (0.722, 0.275, 0.195 cents, all pre-consolidation) are cash_paid here because they were paid during calendar FY2025 (Jan/Mar 2025) despite belonging to FY2024; do not sum them with FY2025 post-consolidation rates. The 2H FY2025 tranche (1 Jul-31 Dec 2025) is not stated as a number anywhere found in the report; it is derived as headline 21.914 minus the disclosed 11.239 (1H2025), and its payment is scheduled 24 Mar 2026 per the Financial Calendar. accrual_sum excludes the three cash_paid FY2024-period tranches and matches headline exactly (11.239+10.675=21.914).",
   "record_sum_matches": true,
   "other_additions_breakdown": [
-   {
-    "label": "Tax-exempt income",
-    "amount": 9843000,
-    "line": 7865
-   },
    {
     "label": "Capital distribution",
     "amount": 17405000,
@@ -2903,9 +2845,9 @@
   "archetype": "rollforward",
   "opening": 109932000,
   "opening_line": 5670,
-  "income_for_year": 85831000,
+  "income_for_year": 194547000,
   "income_for_year_line": 5676,
-  "other_additions": 128716000,
+  "other_additions": 20000000,
   "amount_retained": null,
   "distribution_paid": 216608000,
   "distribution_paid_line": 5683,
@@ -2964,19 +2906,9 @@
     "label": "Capital gains distribution (within Note A)",
     "amount": 20000000,
     "line": 5698
-   },
-   {
-    "label": "Dividend and distribution income from associates (within Note A)",
-    "amount": 86321000,
-    "line": 5701
-   },
-   {
-    "label": "Distribution income from joint ventures (within Note A)",
-    "amount": 22395000,
-    "line": 5702
    }
   ],
-  "other_additions_label": "Capital gains distribution (within Note A) + Dividend and distribution income from associates (within Note A) + Distribution income from joint ventures (within Note A)"
+  "other_additions_label": "Capital gains distribution (within Note A)"
  },
  {
   "symbol": "K71U",
@@ -2985,9 +2917,9 @@
   "archetype": "rollforward",
   "opening": 107871000,
   "opening_line": 6070,
-  "income_for_year": 63826000,
+  "income_for_year": 192406000,
   "income_for_year_line": 6076,
-  "other_additions": 148580000,
+  "other_additions": 20000000,
   "amount_retained": null,
   "distribution_paid": 276593000,
   "distribution_paid_line": 6084,
@@ -3054,14 +2986,9 @@
     "label": "Capital gains distribution (within Note A)",
     "amount": 20000000,
     "line": 6097
-   },
-   {
-    "label": "Dividend and distribution income from associates and joint ventures (within Note A)",
-    "amount": 128580000,
-    "line": 6100
    }
   ],
-  "other_additions_label": "Capital gains distribution (within Note A) + Dividend and distribution income from associates and joint ventures (within Note A)"
+  "other_additions_label": "Capital gains distribution (within Note A)"
  },
  {
   "symbol": "M1GU",
@@ -4139,12 +4066,12 @@
   "archetype": "rollforward",
   "opening": 19234000,
   "opening_line": 6430,
-  "income_for_year": 65669000,
+  "income_for_year": 67104000,
   "income_for_year_line": 6436,
   "income_for_year_derived": true,
-  "other_additions": 12490000,
+  "other_additions": 11055000,
   "other_additions_line": 6440,
-  "other_additions_label": "Tax-exempt income distribution + Capital distribution",
+  "other_additions_label": "Capital distribution",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -4230,11 +4157,6 @@
   "record_sum_matches": true,
   "other_additions_breakdown": [
    {
-    "label": "Tax-exempt income distribution",
-    "amount": 1435000,
-    "line": 6437
-   },
-   {
     "label": "Capital distribution",
     "amount": 11055000,
     "line": 6438
@@ -4249,12 +4171,12 @@
   "archetype": "rollforward",
   "opening": 20679000,
   "opening_line": 6884,
-  "income_for_year": 70429000,
+  "income_for_year": 71307000,
   "income_for_year_line": 6890,
   "income_for_year_derived": true,
-  "other_additions": 10185000,
+  "other_additions": 9307000,
   "other_additions_line": 6893,
-  "other_additions_label": "Tax-exempt income distribution + Capital distribution",
+  "other_additions_label": "Capital distribution",
   "amount_retained": null,
   "amount_retained_line": null,
   "retention_in_subtotal": null,
@@ -4338,11 +4260,6 @@
   "record_note": "This folder is labelled FY2025 but, consistent with the batch note, its columns are headed 2026 -- the report is for the financial year ended 31 March 2026 (declared FY2025 per the offset-reporter convention). Quarterly tranches taken from the Distribution Statements note; the final quarter (1 Jan-31 Mar 2026) is disclosed only in Subsequent Events (approved 7 May 2026, ~S$21.3m, paid 29 Jun 2026, payable in cash or via the Distribution Reinvestment Plan). Accrual sum matches headline DPU exactly.",
   "record_sum_matches": true,
   "other_additions_breakdown": [
-   {
-    "label": "Tax-exempt income distribution",
-    "amount": 878000,
-    "line": 6892
-   },
    {
     "label": "Capital distribution",
     "amount": 9307000,
@@ -4987,10 +4904,10 @@
   "archetype": "rollforward",
   "opening": 54153000,
   "opening_line": 3948,
-  "income_for_year": 30007000,
+  "income_for_year": 180923000,
   "income_for_year_line": 3956,
   "income_for_year_derived": true,
-  "other_additions": 150916000,
+  "other_additions": null,
   "amount_retained": null,
   "distribution_paid": 189148000,
   "distribution_paid_line": 3966,
@@ -5062,14 +4979,8 @@
   "distribution_period_months": 12,
   "record_note": "Suntec pays quarterly. Q4 2024 (1.570c) declared after year end (Subsequent Events, Note 37), in respect of the period inside FY2024 — accrual.",
   "record_sum_matches": true,
-  "other_additions_breakdown": [
-   {
-    "label": "Tax exempt dividend income (Note B)",
-    "amount": 150916000,
-    "line": 3954
-   }
-  ],
-  "other_additions_label": "Tax exempt dividend income (Note B)"
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "T82U",
@@ -5078,10 +4989,10 @@
   "archetype": "rollforward",
   "opening": 45928000,
   "opening_line": 3998,
-  "income_for_year": 40717000,
+  "income_for_year": 207280000,
   "income_for_year_line": 4005,
   "income_for_year_derived": true,
-  "other_additions": 166563000,
+  "other_additions": null,
   "amount_retained": null,
   "distribution_paid": 191186000,
   "distribution_paid_line": 4015,
@@ -5153,14 +5064,8 @@
   "distribution_period_months": 12,
   "record_note": "Q4 2025 (2.102c) declared after year end (Subsequent Events, Note 37), in respect of the period inside FY2025 — accrual. The 1.570c tranche visible in this year's statement is Q4 2024, tagged cash_paid.",
   "record_sum_matches": true,
-  "other_additions_breakdown": [
-   {
-    "label": "Tax exempt dividend income (Note B)",
-    "amount": 166563000,
-    "line": 4004
-   }
-  ],
-  "other_additions_label": "Tax exempt dividend income (Note B)"
+  "other_additions_breakdown": null,
+  "other_additions_label": null
  },
  {
   "symbol": "TS0U",
