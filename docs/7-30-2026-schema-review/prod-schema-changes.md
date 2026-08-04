@@ -128,7 +128,13 @@ Row counts: `_final` 761 → prod 509. Not a loss — rows sharing a canonical c
 | `interest_pct`       | fixed     | prod AJBU FY2025 KDC SGP 7 &amp; 8 reads `0.0051`, should be `0.51`       |
 
 
-Prod 206 rows → 212.
+**Prod holds completed transactions only.** `_final` keeps the full record (212); the promote filters to `status = 'completed'` (185). `announced` deals can be repriced or abandoned and carry no `completed_date`, so their money cannot even be FX-converted.
+
+Prod 206 rows → 185.
+
+The filter runs **after** scopes are grouped, not before. N2IU FY2023 and O5RU FY2024 contain only non-completed rows: filtering first would drop those scope keys, so the promote would never issue their DELETE and stale rows would survive in prod. Grouped first, the scope is visited, emptied, and left empty.
+
+Four completed rows have no `completed_date` — aggregate strata deals sold to different buyers across the year, with no single completion date (P40U Wisma Atria, T82U Suntec City ×2, A17U Manton Wood).
 
 **Gain is derived, not stored.** Verified on all 212 rows: `gain = sale_price − basis_value` and `pct = gain / basis_value` exactly, with no row where one side is present and the other missing.
 

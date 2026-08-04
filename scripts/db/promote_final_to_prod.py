@@ -78,6 +78,20 @@ BRACKET_TEXT_FIELDS = {"properties_location"}
 # (dev-only coordinate_source has no prod column and is dropped automatically.)
 COLUMN_ALIAS = {"latitude": "coordinate_latitude", "longitude": "coordinate_longitude"}
 
+# Rows _final holds but prod must not show. Prod is investor-facing: a transaction is a
+# fact only once it has completed. announced deals can be repriced or abandoned, and they
+# carry no completed_date, so their money cannot even be FX-converted (see the NULLED
+# warnings in build_final_tables.py). _final keeps them as the full record.
+#
+# IMPORTANT: the filter is applied AFTER scopes are grouped, never before. Two scopes --
+# N2IU FY2023 and O5RU FY2024 -- contain ONLY non-completed rows. Filtering first would
+# drop those scope keys entirely, so the promote would never DELETE them and their stale
+# rows would survive in prod indefinitely. Grouping first means the scope is still
+# visited, emptied, and left empty.
+ROW_FILTERS = {
+    "sgx_reit_property_transaction": lambda r: r.get("status") == "completed",
+}
+
 
 def parse_args():
     ap = argparse.ArgumentParser(description="Promote dev sgx_reit_*_final -> prod sgx_reit_*.")
@@ -332,6 +346,19 @@ def main():
             key = tuple(scope_of(pr, scope_cols).items())
             scopes.setdefault(key, []).append(pr)
 
+        # filter AFTER grouping -- see ROW_FILTERS. A scope that empties out still gets
+        # its DELETE, which is the whole point.
+        keep = ROW_FILTERS.get(prod_table)
+        if keep:
+            before = sum(len(g) for g in scopes.values())
+            scopes = {k: [r for r in g if keep(r)] for k, g in scopes.items()}
+            after = sum(len(g) for g in scopes.values())
+            emptied = [dict(k) for k, g in scopes.items() if not g]
+            print(f"    FILTER {prod_table}: {before} -> {after} rows "
+                  f"({before - after} not completed, held back from prod)")
+            if emptied:
+                print(f"    scopes emptied by the filter (deleted, then left empty): {emptied}")
+
         print(f"\n### {final_table} -> {prod_table}")
         print(f"    dev rows selected: {len(rows)}   scopes: {len(scopes)}   "
               f"(prod cols sent: {len(prod_types)})")
@@ -361,7 +388,9 @@ def main():
                 scope = dict(key)
                 try:
                     dstat = prod.delete(prod_table, scope)
-                    istat = prod.insert(prod_table, group)
+                    # a scope emptied by ROW_FILTERS is deleted and left empty; POSTing []
+                    # is a 400 from PostgREST
+                    istat = prod.insert(prod_table, group) if group else "skipped (0 rows)"
                     print(f"    WROTE scope {scope}: delete={dstat} insert={istat} rows={len(group)}")
                 except urllib.error.HTTPError as e:
                     print(f"    ERROR scope {scope}: HTTP {e.code} {e.read().decode('utf-8','replace')[:300]}")
