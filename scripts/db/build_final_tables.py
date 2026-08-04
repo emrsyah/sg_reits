@@ -37,8 +37,13 @@ _rates = json.load(open('quarterly_rates.json', encoding='utf-8'))['quarters']
 import pandas as pd
 _parsed = sorted((pd.to_datetime(k), k) for k in _rates)
 warnings = []
+# our extractions use the trade names; MAS publishes the ISO codes. Without this map
+# every RMB figure silently NULLed (AU8U and M44U divestment gains, 2026-08-04).
+_CCY_ALIAS = {'RMB': 'CNY', 'CNH': 'CNY', 'RM': 'MYR', 'S$': 'SGD', 'SG$': 'SGD',
+              'US$': 'USD', 'A$': 'AUD', 'HK$': 'HKD', 'NT$': 'TWD', 'Rmb': 'CNY'}
 def to_sgd(value, ccy, date, ctx=''):
     if value is None: return None
+    ccy = _CCY_ALIAS.get(ccy, ccy)
     if ccy in (None, '', 'SGD'): return float(value)
     if not date:
         warnings.append(f'{ctx}: no date for {ccy} -> NULLED'); return None
