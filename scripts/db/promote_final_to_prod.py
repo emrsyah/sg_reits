@@ -218,19 +218,49 @@ def scope_of(prod_row, scope_cols):
 
 
 def aggregate_trade_mix(rows):
-    """Prod sgx_reit_trade_mix PK = (symbol, financial_year, category, pct_basis).
-    Dev *_final can hold several rows collapsing to the same canonical category
-    (distinct category_raw). Sum their pct into one row to satisfy the PK
-    (matches the original prod promotion, which stores aggregated categories)."""
+    """Prod sgx_reit_trade_mix PK = (symbol, financial_year, category, pct_basis,
+    basis_segment). Dev *_final can hold several rows collapsing to the same canonical
+    category (distinct category_raw). Sum their pct into one row to satisfy the PK
+    (matches the original prod promotion, which stores aggregated categories).
+
+    basis_segment is part of the key and MUST stay there. T82U discloses office and
+    retail sector tables against SEPARATE denominators, each summing to ~100% within
+    its segment. Both carry pct_basis='gross_rental_income' since the 2026-08-03 remap,
+    so without basis_segment in this key the two segments land on one key and their
+    percentages are ADDED -- a trade mix summing to ~200%. Same for BUOU's
+    commercial / logistics_industrial split."""
     agg = {}
     for r in rows:
-        k = (r.get("symbol"), r.get("financial_year"), r.get("category"), r.get("pct_basis"))
+        k = (r.get("symbol"), r.get("financial_year"), r.get("category"),
+             r.get("pct_basis"), r.get("basis_segment"))
         if k in agg:
             if r.get("pct") is not None:
                 agg[k]["pct"] = round((agg[k].get("pct") or 0) + r["pct"], 8)
         else:
             agg[k] = dict(r)
     return list(agg.values())
+
+
+def assert_segment_promotable(dev_rows, prod_types, prod_table):
+    """transform_row() only emits columns prod already has, so if prod is missing
+    basis_segment the value is dropped SILENTLY -- and for trade_mix the two segments
+    then collide in aggregate_trade_mix() and get summed. Refuse to promote instead.
+
+    Clears once §3 of schema/migrations/2026-08-03_basis_segment.sql is applied to prod.
+    """
+    if "basis_segment" in prod_types:
+        return
+    n = sum(1 for r in dev_rows if r.get("basis_segment"))
+    if not n:
+        return
+    segs = sorted({r["basis_segment"] for r in dev_rows if r.get("basis_segment")})
+    syms = sorted({str(r.get("symbol")) for r in dev_rows if r.get("basis_segment")})
+    raise SystemExit(
+        f"\nABORT: {prod_table} -- prod has no basis_segment column, but {n} dev rows "
+        f"carry one ({', '.join(segs)}; {', '.join(syms)}).\n"
+        f"       Promoting now would drop the segment and, for trade_mix, SUM the "
+        f"separate-denominator segments into one row (~200% totals).\n"
+        f"       Apply §3 of schema/migrations/2026-08-03_basis_segment.sql to prod first.")
 
 
 def disambiguate_txn(rows):
@@ -269,6 +299,8 @@ def main():
         prod_types = prod.col_types(prod_table, defs)
         rows = dev_read(cur, final_table, symbols_si, args.fy)
         _dstart = len(_DATE_DROPS)
+        if prod_table in ("sgx_reit_trade_mix", "sgx_reit_top_tenant"):
+            assert_segment_promotable(rows, prod_types, prod_table)
         prod_rows = [transform_row(r, prod_types) for r in rows]
         if prod_table == "sgx_reit_trade_mix":
             prod_rows = aggregate_trade_mix(prod_rows)

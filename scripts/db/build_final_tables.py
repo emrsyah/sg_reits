@@ -207,17 +207,22 @@ load('sgx_reit_property_final', ['symbol','financial_year','property_name','coun
  'coordinate_latitude','coordinate_longitude','coordinate_source'], prows)
 
 # ===== top_tenant_final / trade_mix_final =====
-cur.execute('select symbol,financial_year,rank,client_name,industry,revenue_pct,pct_basis from sgx_reit_top_tenant')
+# basis_segment: NULL = whole-portfolio. Non-null (office/retail/commercial/
+# logistics_industrial) marks a disclosure with its OWN denominator summing to ~100%
+# within the segment (T82U, BUOU). It must travel with pct_basis all the way to prod
+# and be part of the prod PK -- otherwise aggregate_trade_mix() sums two segments'
+# percentages into one row. See docs/7-30-2026-schema-review/pct_basis-verification.md
+cur.execute('select symbol,financial_year,rank,client_name,industry,revenue_pct,pct_basis,basis_segment from sgx_reit_top_tenant')
 tt=[tuple(x) for x in cur.fetchall()]
 ddl_drop_create('sgx_reit_top_tenant_final',
-  'symbol text, financial_year smallint, rank int, client_name text, industry text, revenue_pct numeric, pct_basis text')
-load('sgx_reit_top_tenant_final', ['symbol','financial_year','rank','client_name','industry','revenue_pct','pct_basis'], tt)
+  'symbol text, financial_year smallint, rank int, client_name text, industry text, revenue_pct numeric, pct_basis text, basis_segment text')
+load('sgx_reit_top_tenant_final', ['symbol','financial_year','rank','client_name','industry','revenue_pct','pct_basis','basis_segment'], tt)
 
-cur.execute('select symbol,financial_year,category,pct,pct_basis from sgx_reit_trade_mix')
+cur.execute('select symbol,financial_year,category,pct,pct_basis,basis_segment from sgx_reit_trade_mix')
 tm=[tuple(x) for x in cur.fetchall()]
 ddl_drop_create('sgx_reit_trade_mix_final',
-  'symbol text, financial_year smallint, category text, pct numeric, pct_basis text')
-load('sgx_reit_trade_mix_final', ['symbol','financial_year','category','pct','pct_basis'], tm)
+  'symbol text, financial_year smallint, category text, pct numeric, pct_basis text, basis_segment text')
+load('sgx_reit_trade_mix_final', ['symbol','financial_year','category','pct','pct_basis','basis_segment'], tm)
 
 # ===== property_transaction_final =====
 TXN_MONEY = [('purchase_price','purchase_price_currency','transaction_date'),
