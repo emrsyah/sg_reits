@@ -296,10 +296,19 @@ for d in _txn_raw:
                 inherited_ccy.append((d['symbol'], d['financial_year'], d.get('property_name'), fld, ccy))
         rdate=d.get(dcol) or d.get('completed_date') or fy_end(d['symbol'],d['financial_year'])
         conv[fld]=to_sgd(d.get(fld), ccy, rdate, f'txn.{fld}.{d["symbol"]}:{d.get("property_name")}')
-    # gain derived AFTER both sides are in SGD, so one rate is applied to both
-    gain = (conv['sale_price'] - conv['basis_value']) if (conv['sale_price'] is not None
-             and conv['basis_value'] is not None and not d.get('basis_mismatch')) else None
-    pct  = (gain / conv['basis_value'] * 100) if (gain is not None and conv['basis_value']) else None
+    # gain / gain_loss_pct are NOT stored (2026-08-04). Both are exactly
+    #   gain = sale_price - basis_value        pct = gain / basis_value * 100
+    # over _final's own already-SGD columns, verified derivable on all 212 rows with no
+    # exceptions. Storing them only creates a second copy that can drift from the inputs.
+    #
+    # The conversion order still matters and is preserved: both sides go to SGD ABOVE, so a
+    # consumer subtracting them is subtracting two figures carried at the SAME rate. Never
+    # subtract native amounts and convert the difference.
+    #
+    # basis_mismatch used to suppress the gain here. Both flagged rows (C38U ION Orchard,
+    # J69U Northpoint City South Wing) are ACQUISITIONS whose sale_price is null, so the
+    # subtraction yields null for them anyway -- but their basis_value is an equity
+    # consideration against a gross valuation and must not be compared with purchase_price.
     trows.append((d['symbol'],d['financial_year'],
       d['deal_id'] if _deal_n[d['deal_id']]>1 else None,
       d['transaction_type'],d['status'],
@@ -308,14 +317,12 @@ for d in _txn_raw:
       d['completed_date'],
       conv['purchase_price'],
       conv['sale_price'],
-      conv['basis_value'],d['basis'],
-      round(gain,2) if gain is not None else None,
-      round(pct,4) if pct is not None else None))
+      conv['basis_value'],d['basis']))
 ddl_drop_create('sgx_reit_property_transaction_final',
   'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, '
   'property_name text, counterparty text, interest_pct numeric, completed_date text, '
   'purchase_price numeric, sale_price numeric, '
-  'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric')
+  'basis_value numeric, basis text')
 # sale_price_scope was DROPPED from raw as well (2026-08-04): 'deal_level' is subsumed by
 # deal_id above, 'not_disclosed' is just sale_price IS NULL, and 'net_proceeds' was judged not
 # worth carrying. Three prices are therefore net of disposal costs against a gross basis, so
@@ -328,7 +335,7 @@ ddl_drop_create('sgx_reit_property_transaction_final',
 # itself need not ship. All three remain queryable in sgx_reit_property_transaction.
 load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type',
  'status','property_name','counterparty','interest_pct','completed_date','purchase_price',
- 'sale_price','basis_value','basis','gain','gain_loss_pct'], trows)
+ 'sale_price','basis_value','basis'], trows)
 
 if inherited_ccy:
     print(f'\n!! P1: {len(inherited_ccy)} money figures had NO per-figure currency tag and inherited a')
