@@ -1,4 +1,4 @@
--- PROD schema sync — 2026-07-30 schema review.
+-- PROD schema sync — 2026-07-30 schema review.   APPLIED 2026-08-04, verified.
 -- Column-by-column detail: docs/7-30-2026-schema-review/prod-schema-changes.md
 --
 -- ORDER MATTERS:
@@ -39,6 +39,11 @@ alter table sgx_reit_trade_mix add  constraint sgx_reit_trade_mix_basis_segment_
 -- basis_segment must join the key: T82U discloses office and retail against separate
 -- denominators, so without it the two collide on one key and their percentages are
 -- summed into a ~200% trade mix. NULLs never compare equal in a plain PK, hence coalesce.
+-- The original PK must be DROPPED, not just superseded. Adding the index alone leaves
+-- sgx_reit_trade_mix_pkey on (symbol, financial_year, category, pct_basis) enforcing the
+-- very collision this index exists to allow -- the first promote 409'd on the 3 segmented
+-- scopes and, because prod is delete-then-insert, left them EMPTY until this ran.
+alter table sgx_reit_trade_mix drop constraint if exists sgx_reit_trade_mix_pkey;
 drop index if exists sgx_reit_trade_mix_scope_uidx;
 create unique index sgx_reit_trade_mix_scope_uidx on sgx_reit_trade_mix
   (symbol, financial_year, category, pct_basis, coalesce(basis_segment, ''));
