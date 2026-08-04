@@ -4,21 +4,26 @@ Encodes the transforms established by scripts/db/_compare_final_vs_prod.py +
 _compare_values.py (dev *_final vs prod, verified same-report on M44U FY2024):
 
   symbol            .SI stripped -> bare ticker            (all tables)
-  percent -> fraction (value / 100), fields:
-      property.occupancy_rate, property.ownership,
-      top_tenant.revenue_pct, trade_mix.pct,
-      property_transaction.interest_pct
+  percentages       NOT converted here. Every percentage is normalized to 0-1 once, in
+                    build_final_tables.py pct01(), so _final and prod agree and this is a
+                    pass-through. FRACTION_FIELDS is empty -- see the note on it below.
   properties_location  "A, B, C" / "A; B; C" (text) -> "[A, B, C]" (bracketed text,
                        prod's stored format; separators normalized to ", ")   (performance)
   date columns      coerced to 'YYYY-MM-DD' or NULL per prod column type
   text-typed numerics (e.g. property_transaction.purchase_price) -> string
-  dev-only columns  (deal_id, source_type, announcement_refs) -> DROPPED
+  bigint columns    ROUNDED, not truncated (prod holds money as bigint; FX leaves fractions)
+  dev-only columns  (source_type, announcement_refs) -> DROPPED
                     (prod schema is the target; we only send prod's columns)
 
-NOT transformed (kept as-is, verified): all money & areas (absolute), non-pct KPIs
-(aggregate_leverage, cost_of_debt, portfolio_occupancy, ICR, WALE, NAV, DPU, ...),
-and property_transaction.gain_loss_pct (prod stores it as a plain percent, NOT a
-fraction).
+NOT transformed (kept as-is, verified): all money & areas (absolute), and the KPIs that
+are NOT percentages -- interest_coverage_ratio (a multiple), WALE, weighted_average_debt_
+maturity (years), NAV, DPU (money).
+
+REQUIRES schema/migrations/2026-08-04_prod_schema_sync.sql to have been applied. This
+script does DATA only -- transform_row() emits just the columns prod already has, so a
+column added in _final (deal_id, basis_value, basis, basis_segment, units_in_issue,
+income_for_year, distribution_declared, amount_retained, other_additions,
+coordinate_source) is dropped SILENTLY until that migration runs.
 
 sgx_reit_financial_final has NO prod counterpart (financials live in
 sgx_manual_input) -> it is not promoted here.
