@@ -145,7 +145,10 @@ def coerce(col, ptype, v):
     if ptype in ("numeric", "real", "double precision", "number"):
         return float(v)
     if ptype in ("integer", "bigint", "smallint"):
-        return int(v)
+        # ROUND, not int(): prod holds money as bigint, and FX conversion leaves fractions
+        # on ~35 figures (income_for_year, amount_retained, basis_value, purchase_price...).
+        # int() truncates toward zero, so 1_638_000.9999 would land as 1_638_000.
+        return int(round(float(v)))
     if ptype == "boolean":
         return bool(v)
     # jsonb / json / array -> pass through (already json-serializable dict/list)

@@ -19,11 +19,16 @@ begin;
 -- ------------------------------------------------------------------ §1 performance
 -- Distribution flow restructured into a rollforward:
 --   opening + income_for_year + other_additions - distribution_paid - amount_retained = closing
-alter table sgx_reit_performance add column if not exists units_in_issue        numeric;
-alter table sgx_reit_performance add column if not exists income_for_year       numeric;
-alter table sgx_reit_performance add column if not exists distribution_declared numeric;
-alter table sgx_reit_performance add column if not exists amount_retained       numeric;
-alter table sgx_reit_performance add column if not exists other_additions       numeric;
+-- Types follow PROD's existing convention, NOT dev's numeric: money and counts are
+-- bigint, percentages/ratios double precision, areas real, dates date.
+--   units_in_issue        <- number_of_shareholder_units  bigint (a unit count)
+--   income_for_year       <- net_distributable_income      bigint (money)
+--   other_additions       <- distribution_pool_other_movements bigint (money)
+alter table sgx_reit_performance add column if not exists units_in_issue        bigint;
+alter table sgx_reit_performance add column if not exists income_for_year       bigint;
+alter table sgx_reit_performance add column if not exists distribution_declared bigint;
+alter table sgx_reit_performance add column if not exists amount_retained       bigint;
+alter table sgx_reit_performance add column if not exists other_additions       bigint;
 
 comment on column sgx_reit_performance.units_in_issue is
   'Units in issue at FY end. Renamed from number_of_shareholder_units — same figure, '
@@ -66,9 +71,17 @@ create unique index sgx_reit_trade_mix_scope_uidx on sgx_reit_trade_mix
 
 -- ------------------------------------------------------------------ §4 property_transaction
 -- v2: store the PRICE and the BASIS it is measured against; derive the gain.
+-- basis_value is bigint to match the money columns it replaces (carrying_value,
+-- valuation, gain_on_divestment were all bigint).
 alter table sgx_reit_property_transaction add column if not exists deal_id     text;
-alter table sgx_reit_property_transaction add column if not exists basis_value numeric;
+alter table sgx_reit_property_transaction add column if not exists basis_value bigint;
 alter table sgx_reit_property_transaction add column if not exists basis       text;
+
+-- Pre-existing prod inconsistency, unrelated to this review: purchase_price is TEXT
+-- while sale_price and every other money column is bigint. promote_final_to_prod.py
+-- serializes it as a string to match. Aligning it is a separate decision:
+--   alter table sgx_reit_property_transaction
+--     alter column purchase_price type bigint using nullif(purchase_price,'')::numeric::bigint;
 
 alter table sgx_reit_property_transaction drop constraint if exists sgx_reit_property_transaction_basis_chk;
 alter table sgx_reit_property_transaction add  constraint sgx_reit_property_transaction_basis_chk
