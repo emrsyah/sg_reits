@@ -56,7 +56,6 @@ Rollforward: `opening + income_for_year + other_additions − distribution_paid 
 
 | column                | change    | note                                                                                                        |
 | --------------------- | --------- | ----------------------------------------------------------------------------------------------------------- |
-| `coordinate_source`   | **added** | e.g. `onemap`                                                                                               |
 | `gross_lettable_area` | dropped   | 9 values moved into `net_lettable_area` first                                                               |
 | `effective_date`      | dropped   | derived into `lease_expiry_date` first (7 final rows); 10 T82U rows were year-only and could not be derived |
 | `occupancy_rate`      | unchanged | already `0-1`                                                                                               |
@@ -153,7 +152,7 @@ Both sides are converted to SGD **before** they reach `_final`, so subtracting t
 | ------------------------------- | ----------- | ---------- |
 | `sgx_reit_profile`              | 4           | 4          |
 | `sgx_reit_performance`          | 28          | 28         |
-| `sgx_reit_property`             | 24          | 23         |
+| `sgx_reit_property`             | 24          | 22         |
 | `sgx_reit_top_tenant`           | 7           | 8          |
 | `sgx_reit_trade_mix`            | 5           | 6          |
 | `sgx_reit_property_transaction` | 20          | 13         |
@@ -171,7 +170,7 @@ New columns follow prod's existing convention, not dev's `numeric`.
 | percentages, ratios | `double precision` / `real` | `occupancy_rate`, `aggregate_leverage`, `interest_pct` |
 | areas | `real` | `net_lettable_area`, `gross_floor_area` |
 | dates | `date` | `completed_date`, `lease_expiry_date` |
-| labels, ids | `text` | `deal_id`, `basis`, `basis_segment`, `coordinate_source` |
+| labels, ids | `text` | `deal_id`, `basis`, `basis_segment` |
 
 Types assigned to the new columns:
 
@@ -182,7 +181,6 @@ Types assigned to the new columns:
 | `performance.distribution_declared` | `bigint` | money |
 | `performance.amount_retained` | `bigint` | money |
 | `performance.other_additions` | `bigint` | `distribution_pool_other_movements` |
-| `property.coordinate_source` | `text` | label |
 | `top_tenant.basis_segment` | `text` | label |
 | `trade_mix.basis_segment` | `text` | label |
 | `transaction.deal_id` | `text` | id |

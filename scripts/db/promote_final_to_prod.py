@@ -22,8 +22,8 @@ maturity (years), NAV, DPU (money).
 REQUIRES schema/migrations/2026-08-04_prod_schema_sync.sql to have been applied. This
 script does DATA only -- transform_row() emits just the columns prod already has, so a
 column added in _final (deal_id, basis_value, basis, basis_segment, units_in_issue,
-income_for_year, distribution_declared, amount_retained, other_additions,
-coordinate_source) is dropped SILENTLY until that migration runs.
+income_for_year, distribution_declared, amount_retained, other_additions)
+is dropped SILENTLY until that migration runs.
 
 sgx_reit_financial_final has NO prod counterpart (financials live in
 sgx_manual_input) -> it is not promoted here.
@@ -75,7 +75,7 @@ FRACTION_FIELDS = set()
 BRACKET_TEXT_FIELDS = {"properties_location"}
 # prod column name -> dev *_final column name (where they differ).
 # Coordinates: dev uses coordinate_* ; prod uses bare latitude/longitude.
-# (dev-only coordinate_source has no prod column and is dropped automatically.)
+# coordinate_source is RAW-only (geocoder provenance) and never reaches _final.
 COLUMN_ALIAS = {"latitude": "coordinate_latitude", "longitude": "coordinate_longitude"}
 
 # Rows _final holds but prod must not show. Prod is investor-facing: a transaction is a

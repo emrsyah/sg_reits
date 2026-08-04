@@ -2,12 +2,12 @@
 -- Column-by-column detail: docs/7-30-2026-schema-review/prod-schema-changes.md
 --
 -- ORDER MATTERS:
---   §1-§5  add            <- run BEFORE the promote
+--   §1-§3  add            <- run BEFORE the promote
 --   then   python scripts/db/promote_final_to_prod.py --write
---   §6     drop           <- run AFTER the promote is verified
+--   §5     drop           <- run AFTER the promote is verified
 --
 -- promote_final_to_prod.py does DATA only, and only for columns prod already has, so a
--- new column is dropped silently until §1-§5 run. Dropping before the promote would
+-- new column is dropped silently until §1-§3 run. Dropping before the promote would
 -- delete data the promote has not yet replaced.
 --
 -- Types follow prod's convention: money and counts bigint, percentages double precision
@@ -22,10 +22,7 @@ alter table sgx_reit_performance add column if not exists distribution_declared 
 alter table sgx_reit_performance add column if not exists amount_retained       bigint;
 alter table sgx_reit_performance add column if not exists other_additions       bigint;
 
--- §2 property
-alter table sgx_reit_property add column if not exists coordinate_source text;
-
--- §3 top_tenant / trade_mix
+-- §2 top_tenant / trade_mix
 alter table sgx_reit_top_tenant add column if not exists basis_segment text;
 alter table sgx_reit_trade_mix  add column if not exists basis_segment text;
 
@@ -46,7 +43,7 @@ drop index if exists sgx_reit_trade_mix_scope_uidx;
 create unique index sgx_reit_trade_mix_scope_uidx on sgx_reit_trade_mix
   (symbol, financial_year, category, pct_basis, coalesce(basis_segment, ''));
 
--- §4 property_transaction
+-- §3 property_transaction
 alter table sgx_reit_property_transaction add column if not exists deal_id     text;
 alter table sgx_reit_property_transaction add column if not exists basis_value bigint;
 alter table sgx_reit_property_transaction add column if not exists basis       text;
@@ -58,7 +55,7 @@ alter table sgx_reit_property_transaction add  constraint sgx_reit_property_tran
 
 commit;
 
--- §5 pre-existing inconsistency, unrelated to this review: purchase_price is text while
+-- §4 pre-existing inconsistency, unrelated to this review: purchase_price is text while
 -- every other money column is bigint. The promote serializes it as a string to match.
 -- Aligning it is a separate decision:
 --
@@ -66,7 +63,7 @@ commit;
 --     alter column purchase_price type bigint using nullif(purchase_price,'')::numeric::bigint;
 
 
--- ================================================================== §6 DROPS
+-- ================================================================== §5 DROPS
 -- RUN ONLY AFTER promote_final_to_prod.py --write HAS COMPLETED AND BEEN VERIFIED.
 -- These columns are gone from _final, so nothing will repopulate them.
 
