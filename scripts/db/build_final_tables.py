@@ -35,7 +35,7 @@ SQFT_TO_SQM = 0.092903
 # stored 0-1 in _final and therefore in prod. Raw keeps the as-reported 0-100 figure.
 #
 # Before this, the convention was split: property.occupancy_rate / ownership,
-# top_tenant.revenue_pct, trade_mix.pct and txn.interest_pct were already 0-1 in prod, while
+# top_tenant.pct (was revenue_pct), trade_mix.pct and txn.interest_pct were already 0-1, while
 # performance.aggregate_leverage (22.1-60.8), cost_of_debt (1.48-8.54) and portfolio_occupancy
 # (67.7-100) were still 0-100. The conversion also lived in promote_final_to_prod.py's
 # FRACTION_FIELDS, so _final and prod disagreed with each other. It happens HERE now, once,
@@ -266,11 +266,14 @@ load('sgx_reit_property_final', ['symbol','financial_year','property_name','coun
 # within the segment (T82U, BUOU). It must travel with pct_basis all the way to prod
 # and be part of the prod PK -- otherwise aggregate_trade_mix() sums two segments'
 # percentages into one row. See docs/7-30-2026-schema-review/pct_basis-verification.md
-cur.execute('select symbol,financial_year,rank,client_name,industry,revenue_pct,pct_basis,basis_segment from sgx_reit_top_tenant')
+# revenue_pct renamed to pct (2026-08-04): only 143 of 752 rows were a percentage of
+# revenue; the rest are of gross_rental_income / headline_rent / npi / annualised_rent.
+# pct_basis already states the denominator, and trade_mix already calls it pct.
+cur.execute('select symbol,financial_year,rank,client_name,industry,pct,pct_basis,basis_segment from sgx_reit_top_tenant')
 tt=[(s,fy,rk,cn,ind,pct01(rp),pb,seg) for s,fy,rk,cn,ind,rp,pb,seg in cur.fetchall()]
 ddl_drop_create('sgx_reit_top_tenant_final',
-  'symbol text, financial_year smallint, rank int, client_name text, industry text, revenue_pct numeric, pct_basis text, basis_segment text')
-load('sgx_reit_top_tenant_final', ['symbol','financial_year','rank','client_name','industry','revenue_pct','pct_basis','basis_segment'], tt)
+  'symbol text, financial_year smallint, rank int, client_name text, industry text, pct numeric, pct_basis text, basis_segment text')
+load('sgx_reit_top_tenant_final', ['symbol','financial_year','rank','client_name','industry','pct','pct_basis','basis_segment'], tt)
 
 cur.execute('select symbol,financial_year,category,pct,pct_basis,basis_segment from sgx_reit_trade_mix')
 tm=[(s,fy,cat,pct01(p),pb,seg) for s,fy,cat,p,pb,seg in cur.fetchall()]
