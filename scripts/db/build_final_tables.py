@@ -266,13 +266,13 @@ TXN_MONEY = [('purchase_price','purchase_price_currency','completed_date'),
 cur.execute("""select symbol,financial_year,deal_id,transaction_type,status,property_name,
  counterparty,interest_pct,completed_date,
  purchase_price,purchase_price_currency,purchase_price_scope,
- sale_price,sale_price_currency,sale_price_scope,
+ sale_price,sale_price_currency,
  basis_value,basis_currency,basis,
  figures_source,basis_mismatch,source_type,currency
  from sgx_reit_property_transaction""")
 FLDS=['symbol','financial_year','deal_id','transaction_type','status','property_name',
  'counterparty','interest_pct','completed_date','purchase_price','purchase_price_currency',
- 'purchase_price_scope','sale_price','sale_price_currency','sale_price_scope',
+ 'purchase_price_scope','sale_price','sale_price_currency',
  'basis_value','basis_currency','basis','figures_source','basis_mismatch','source_type','currency']
 _txn_raw=[dict(zip(FLDS,r)) for r in cur.fetchall()]
 # deal_id is a GROUPING KEY, so in _final it is set only where there is something to group.
@@ -316,11 +316,11 @@ ddl_drop_create('sgx_reit_property_transaction_final',
   'property_name text, counterparty text, interest_pct numeric, completed_date text, '
   'purchase_price numeric, sale_price numeric, '
   'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric')
-# sale_price_scope is raw-only too (2026-08-04). 'deal_level' is subsumed by deal_id above and
-# 'not_disclosed' is just sale_price IS NULL. Only 'net_proceeds' carried anything unique, on
-# 3 rows -- BTOU Capitol / BTOU Plaza / UD1U Il-lumina -- whose price is net of disposal costs
-# while the basis is gross, so their gain runs slightly LOW. Recorded here rather than shipped
-# as a column; the scope value is still in sgx_reit_property_transaction.
+# sale_price_scope was DROPPED from raw as well (2026-08-04): 'deal_level' is subsumed by
+# deal_id above, 'not_disclosed' is just sale_price IS NULL, and 'net_proceeds' was judged not
+# worth carrying. Three prices are therefore net of disposal costs against a gross basis, so
+# their gain runs slightly low -- BTOU Capitol (110.0 vs 118.0), BTOU Plaza (40.0 vs 43.7),
+# UD1U Il-lumina (24.5 vs 24.7). The scope values remain in txn_rebuild/*.json if ever needed.
 # purchase_price_scope / figures_source / basis_mismatch are RAW-ONLY (2026-08-04). They are
 # provenance, not investor-facing figures: scope was set on 5 of 212 rows with a single value
 # that deal_id already implies; figures_source marks the 7 M44U rows filled from the prior-year
