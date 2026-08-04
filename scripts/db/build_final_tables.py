@@ -29,6 +29,24 @@ def selected(name):
 STRICT_CURRENCY = ('--strict-currency' in sys.argv)
 inherited_ccy = []
 SQFT_TO_SQM = 0.092903
+
+# ---- percentages ----
+# ONE convention, database-wide (2026-08-04): every column that expresses a PERCENTAGE is
+# stored 0-1 in _final and therefore in prod. Raw keeps the as-reported 0-100 figure.
+#
+# Before this, the convention was split: property.occupancy_rate / ownership,
+# top_tenant.revenue_pct, trade_mix.pct and txn.interest_pct were already 0-1 in prod, while
+# performance.aggregate_leverage (22.1-60.8), cost_of_debt (1.48-8.54) and portfolio_occupancy
+# (67.7-100) were still 0-100. The conversion also lived in promote_final_to_prod.py's
+# FRACTION_FIELDS, so _final and prod disagreed with each other. It happens HERE now, once,
+# and promotion is a pass-through.
+#
+# NOT percentages, deliberately excluded: interest_coverage_ratio (a multiple, 1.36-10.1x),
+# weighted_average_debt_maturity and weighted_average_lease_expiry (years),
+# distribution_per_unit and net_asset_value_per_unit (money).
+def pct01(v):
+    """0-100 as reported -> 0-1 as stored. None stays None."""
+    return None if v is None else round(float(v) / 100.0, 8)
 conn = psycopg2.connect(os.environ['SUPABASE_CONNECTION_STRING']); conn.autocommit = False
 cur = conn.cursor()
 
@@ -164,9 +182,9 @@ for r in cur.fetchall():
       float(utbi) if utbi is not None else None,
       Json(cv_record(drec)) if drec is not None else None,
       float(dpm) if dpm is not None else None,
-      float(lev) if lev is not None else None, float(icr) if icr is not None else None,
-      float(cod) if cod is not None else None, float(wadm) if wadm is not None else None,
-      float(wale) if wale is not None else None, float(occ) if occ is not None else None,
+      pct01(lev), float(icr) if icr is not None else None,   # icr is a MULTIPLE, not a percent
+      pct01(cod), float(wadm) if wadm is not None else None,
+      float(wale) if wale is not None else None, pct01(occ),
       cv(dpu), cv(nav), cv(pv), cv(gr), cv(npi), cv(ify), cv(ddec), cv(dio), cv(dpaid), cv(dic),
       cv(retained), cv(addns)))
 ddl_drop_create('sgx_reit_performance_final',
@@ -215,10 +233,10 @@ for r in cur.fetchall():
     def area(v):
         if v is None: return None
         return round(float(v)*SQFT_TO_SQM) if (au and str(au).lower() in ('sqft','sq ft','square feet')) else float(v)
-    prows.append((sym,fy,pn,ctry,cat,addr, float(own) if own is not None else None,
+    prows.append((sym,fy,pn,ctry,cat,addr, pct01(own),
       float(mv) if mv is not None else None, float(pp) if pp is not None else None, vdate,
       to_sgd(npi,npic,d,f'prop.npi.{sym}:{pn}'), to_sgd(gr,grc,d,f'prop.gr.{sym}:{pn}'),
-      float(occ) if occ is not None else None, area(nla), area(gfa),
+      pct01(occ), area(nla), area(gfa),
       # effective_date dropped from _final 2026-08-04 (schema review): lease_expiry_date is
       # derived from it in raw, so _final ships the expiry and not the start. Raw KEEPS the
       # column -- it is the derivation source and the only lease-start evidence we hold.
@@ -245,13 +263,13 @@ load('sgx_reit_property_final', ['symbol','financial_year','property_name','coun
 # and be part of the prod PK -- otherwise aggregate_trade_mix() sums two segments'
 # percentages into one row. See docs/7-30-2026-schema-review/pct_basis-verification.md
 cur.execute('select symbol,financial_year,rank,client_name,industry,revenue_pct,pct_basis,basis_segment from sgx_reit_top_tenant')
-tt=[tuple(x) for x in cur.fetchall()]
+tt=[(s,fy,rk,cn,ind,pct01(rp),pb,seg) for s,fy,rk,cn,ind,rp,pb,seg in cur.fetchall()]
 ddl_drop_create('sgx_reit_top_tenant_final',
   'symbol text, financial_year smallint, rank int, client_name text, industry text, revenue_pct numeric, pct_basis text, basis_segment text')
 load('sgx_reit_top_tenant_final', ['symbol','financial_year','rank','client_name','industry','revenue_pct','pct_basis','basis_segment'], tt)
 
 cur.execute('select symbol,financial_year,category,pct,pct_basis,basis_segment from sgx_reit_trade_mix')
-tm=[tuple(x) for x in cur.fetchall()]
+tm=[(s,fy,cat,pct01(p),pb,seg) for s,fy,cat,p,pb,seg in cur.fetchall()]
 ddl_drop_create('sgx_reit_trade_mix_final',
   'symbol text, financial_year smallint, category text, pct numeric, pct_basis text, basis_segment text')
 load('sgx_reit_trade_mix_final', ['symbol','financial_year','category','pct','pct_basis','basis_segment'], tm)

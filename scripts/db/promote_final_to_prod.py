@@ -53,8 +53,19 @@ PAIRS = [  # (dev_final, prod, scope_cols)
     ("sgx_reit_trade_mix_final",            "sgx_reit_trade_mix",            ["symbol", "financial_year"]),
     ("sgx_reit_property_transaction_final", "sgx_reit_property_transaction", ["symbol", "financial_year"]),
 ]
-# percent (dev) -> fraction (prod): divide by 100. (gain_loss_pct is intentionally NOT here.)
-FRACTION_FIELDS = {"occupancy_rate", "ownership", "revenue_pct", "pct", "interest_pct"}
+# EMPTY, deliberately (2026-08-04). Percentages are normalized to 0-1 ONCE, in
+# build_final_tables.py's pct01(), so _final and prod now agree and promotion is a
+# pass-through. Converting here as well would divide by 100 twice.
+#
+# This also fixes a latent 100x bug: interest_pct was in this set but _final already held
+# it as a fraction (CY6U's "20.2% stake" = 0.202), so promoting would have written 0.00202.
+# Prod still shows the damage on one row -- AJBU FY2025 KDC SGP 7 & 8 reads 0.0051 where the
+# report says 51%.
+#
+# The next promote also RE-WRITES prod's three remaining 0-100 columns to 0-1:
+# performance.aggregate_leverage, cost_of_debt and portfolio_occupancy. Any consumer
+# formatting those as already-percent needs a x100 at the display layer.
+FRACTION_FIELDS = set()
 # text "A, B, C" / "A; B; C" -> prod's bracketed text "[A, B, C]" (NOT a real array)
 BRACKET_TEXT_FIELDS = {"properties_location"}
 # prod column name -> dev *_final column name (where they differ).
