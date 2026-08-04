@@ -294,22 +294,24 @@ for r in cur.fetchall():
       d['property_name'],d['counterparty'],
       float(d['interest_pct']) if d['interest_pct'] is not None else None,
       d['completed_date'],
-      conv['purchase_price'],d['purchase_price_scope'],
+      conv['purchase_price'],
       conv['sale_price'],d['sale_price_scope'],
       conv['basis_value'],d['basis'],
       round(gain,2) if gain is not None else None,
-      round(pct,4) if pct is not None else None,
-      d['figures_source'],d['basis_mismatch']))
+      round(pct,4) if pct is not None else None))
 ddl_drop_create('sgx_reit_property_transaction_final',
   'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, '
   'property_name text, counterparty text, interest_pct numeric, completed_date text, '
-  'purchase_price numeric, purchase_price_scope text, sale_price numeric, sale_price_scope text, '
-  'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric, '
-  'figures_source text, basis_mismatch text')
+  'purchase_price numeric, sale_price numeric, sale_price_scope text, '
+  'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric')
+# purchase_price_scope / figures_source / basis_mismatch are RAW-ONLY (2026-08-04). They are
+# provenance, not investor-facing figures: scope was set on 5 of 212 rows with a single value
+# that deal_id already implies; figures_source marks the 7 M44U rows filled from the prior-year
+# report; basis_mismatch still does its job upstream -- it NULLs the gain above -- so the flag
+# itself need not ship. All three remain queryable in sgx_reit_property_transaction.
 load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type',
  'status','property_name','counterparty','interest_pct','completed_date','purchase_price',
- 'purchase_price_scope','sale_price','sale_price_scope','basis_value','basis','gain','gain_loss_pct',
- 'figures_source','basis_mismatch'], trows)
+ 'sale_price','sale_price_scope','basis_value','basis','gain','gain_loss_pct'], trows)
 
 if inherited_ccy:
     print(f'\n!! P1: {len(inherited_ccy)} money figures had NO per-figure currency tag and inherited a')
