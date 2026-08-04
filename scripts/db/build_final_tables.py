@@ -274,9 +274,19 @@ FLDS=['symbol','financial_year','deal_id','transaction_type','status','property_
  'counterparty','interest_pct','completed_date','purchase_price','purchase_price_currency',
  'purchase_price_scope','sale_price','sale_price_currency','sale_price_scope',
  'basis_value','basis_currency','basis','figures_source','basis_mismatch','source_type','currency']
+_txn_raw=[dict(zip(FLDS,r)) for r in cur.fetchall()]
+# deal_id is a GROUPING KEY, so in _final it is set only where there is something to group.
+# Raw gives every row an id, which makes the column pure noise: 159 of 212 are singletons and
+# "has a deal_id" tells a consumer nothing. Here it survives only on the 53 rows spanning the
+# 24 genuine multi-row deals -- multi-property aggregates and cross-year duplicates alike.
+# Non-null deal_id therefore means exactly: THIS PRICE IS SHARED, sum by deal before adding it up.
+# Rows whose price already covers several properties but occupy ONE row (ME8U's Strategy/Synergy/
+# Woodlands cluster, P40U's 13 strata units) need no id -- one row, one price, nothing to double
+# count. That is why sale_price_scope='deal_level' is not carried: deal_id subsumes it.
+_deal_n={}
+for d in _txn_raw: _deal_n[d['deal_id']]=_deal_n.get(d['deal_id'],0)+1
 trows=[]
-for r in cur.fetchall():
-    d=dict(zip(FLDS,r))
+for d in _txn_raw:
     conv={}
     for fld,ccol,dcol in TXN_MONEY:
         ccy=d.get(ccol)
@@ -290,20 +300,27 @@ for r in cur.fetchall():
     gain = (conv['sale_price'] - conv['basis_value']) if (conv['sale_price'] is not None
              and conv['basis_value'] is not None and not d.get('basis_mismatch')) else None
     pct  = (gain / conv['basis_value'] * 100) if (gain is not None and conv['basis_value']) else None
-    trows.append((d['symbol'],d['financial_year'],d['deal_id'],d['transaction_type'],d['status'],
+    trows.append((d['symbol'],d['financial_year'],
+      d['deal_id'] if _deal_n[d['deal_id']]>1 else None,
+      d['transaction_type'],d['status'],
       d['property_name'],d['counterparty'],
       float(d['interest_pct']) if d['interest_pct'] is not None else None,
       d['completed_date'],
       conv['purchase_price'],
-      conv['sale_price'],d['sale_price_scope'],
+      conv['sale_price'],
       conv['basis_value'],d['basis'],
       round(gain,2) if gain is not None else None,
       round(pct,4) if pct is not None else None))
 ddl_drop_create('sgx_reit_property_transaction_final',
   'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, '
   'property_name text, counterparty text, interest_pct numeric, completed_date text, '
-  'purchase_price numeric, sale_price numeric, sale_price_scope text, '
+  'purchase_price numeric, sale_price numeric, '
   'basis_value numeric, basis text, gain numeric, gain_loss_pct numeric')
+# sale_price_scope is raw-only too (2026-08-04). 'deal_level' is subsumed by deal_id above and
+# 'not_disclosed' is just sale_price IS NULL. Only 'net_proceeds' carried anything unique, on
+# 3 rows -- BTOU Capitol / BTOU Plaza / UD1U Il-lumina -- whose price is net of disposal costs
+# while the basis is gross, so their gain runs slightly LOW. Recorded here rather than shipped
+# as a column; the scope value is still in sgx_reit_property_transaction.
 # purchase_price_scope / figures_source / basis_mismatch are RAW-ONLY (2026-08-04). They are
 # provenance, not investor-facing figures: scope was set on 5 of 212 rows with a single value
 # that deal_id already implies; figures_source marks the 7 M44U rows filled from the prior-year
@@ -311,7 +328,7 @@ ddl_drop_create('sgx_reit_property_transaction_final',
 # itself need not ship. All three remain queryable in sgx_reit_property_transaction.
 load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type',
  'status','property_name','counterparty','interest_pct','completed_date','purchase_price',
- 'sale_price','sale_price_scope','basis_value','basis','gain','gain_loss_pct'], trows)
+ 'sale_price','basis_value','basis','gain','gain_loss_pct'], trows)
 
 if inherited_ccy:
     print(f'\n!! P1: {len(inherited_ccy)} money figures had NO per-figure currency tag and inherited a')
