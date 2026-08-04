@@ -210,6 +210,20 @@ class Prod:
         with urllib.request.urlopen(req, timeout=120) as r:
             return r.status
 
+    def scopes_present(self, table, scope_cols):
+        """Every distinct scope tuple prod currently holds, for the orphan sweep."""
+        sel = ",".join(scope_cols)
+        out, off = set(), 0
+        while True:
+            req = urllib.request.Request(
+                f"{self.url}/rest/v1/{table}?select={sel}&offset={off}&limit=1000", headers=self.h)
+            page = json.load(urllib.request.urlopen(req, timeout=120))
+            for row in page:
+                out.add(tuple((c, row[c]) for c in scope_cols))
+            if len(page) < 1000:
+                return out
+            off += 1000
+
     def insert(self, table, rows):
         body = json.dumps(rows).encode("utf-8")
         req = urllib.request.Request(f"{self.url}/rest/v1/{table}", data=body, method="POST",
@@ -403,7 +417,31 @@ def main():
             print("    sample transformed row:")
             print("      " + json.dumps(prod_rows[0], ensure_ascii=False)[:600])
 
+        # ORPHAN SCOPES. The write loop only visits scopes that exist in _final, so a scope
+        # prod still holds but dev no longer produces is never deleted and silently persists.
+        # It happens whenever a row changes scope -- collapsing the cross-year transaction
+        # duplicates moved UD1U's Il-lumina from FY2025 into FY2024, and prod kept the FY2025
+        # copy, leaving that property in the table twice.
+        # Only swept on a FULL promote: under --symbols/--fy we cannot tell an orphan from a
+        # scope that simply was not selected.
+        orphans = []
+        if not symbols_si and args.fy is None:
+            live = {tuple(scope_of(pr, scope_cols).items()) for pr in prod_rows}
+            try:
+                existing = prod.scopes_present(prod_table, scope_cols)
+                orphans = [dict(k) for k in existing - live]
+            except Exception as exc:
+                print(f"    (orphan-scope check skipped: {exc})")
+            if orphans:
+                print(f"    ORPHAN scopes in prod with no rows in _final: {len(orphans)} -> "
+                      f"{orphans[:6]}{' ...' if len(orphans) > 6 else ''}")
+
         if args.write:
+            for scope in orphans:
+                try:
+                    print(f"    DELETED orphan scope {scope}: {prod.delete(prod_table, scope)}")
+                except urllib.error.HTTPError as e:
+                    print(f"    ERROR orphan {scope}: HTTP {e.code}")
             for key, group in scopes.items():
                 scope = dict(key)
                 try:
