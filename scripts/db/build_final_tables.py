@@ -151,7 +151,7 @@ cur.execute("""select symbol,financial_year,date,source_url,currency,properties_
  distribution_declared,distributable_income_opening,distribution_paid,
  distributable_income_closing,amount_retained,other_additions from sgx_reit_performance""")
 cols=['symbol','financial_year','date','source_url','properties_location','number_of_unitholders','units_in_issue',
- 'units_to_be_issued','distribution_record','distribution_period_months','aggregate_leverage','interest_coverage_ratio',
+ 'units_to_be_issued','distribution_record','aggregate_leverage','interest_coverage_ratio',
  'cost_of_debt','weighted_average_debt_maturity','weighted_average_lease_expiry','portfolio_occupancy',
  'distribution_per_unit','net_asset_value_per_unit','portfolio_value','gross_revenue','net_property_income',
  'income_for_year','distribution_declared','distributable_income_opening','distribution_paid',
@@ -169,19 +169,21 @@ for r in cur.fetchall():
         # and any amount inside each tranche so sum(record) = dpu survives the layer.
         # an EMPTY list is meaningful -- suspended/withheld trusts declared nothing --
         # so preserve [] and only pass None through as None.
+        #
+        # _final keeps only dpu + period_start + period_end (2026-08-04). Dropped:
+        #   line    the line number in the parsed full.md -- extraction provenance
+        #   amount  the tranche's dollar distribution; 73% filled and recomputable as
+        #           dpu x units_in_issue, so it is a partial duplicate
+        #   pay_date  19% filled
+        # RAW keeps every key.
         if rec is None: return None
-        out=[]
-        for t in rec:
-            t=dict(t)
-            if t.get('dpu') is not None: t['dpu']=cv(t['dpu'])
-            if t.get('amount') is not None: t['amount']=cv(t['amount'])
-            out.append(t)
-        return out
+        return [{'dpu': cv(t['dpu']) if t.get('dpu') is not None else None,
+                 'period_start': t.get('period_start'),
+                 'period_end':   t.get('period_end')} for t in rec]
     prows.append((sym,fy,date,src,normalize_locations(ploc),nuh,
       float(uii) if uii is not None else None,
       float(utbi) if utbi is not None else None,
       Json(cv_record(drec)) if drec is not None else None,
-      float(dpm) if dpm is not None else None,
       pct01(lev), float(icr) if icr is not None else None,   # icr is a MULTIPLE, not a percent
       pct01(cod), float(wadm) if wadm is not None else None,
       float(wale) if wale is not None else None, pct01(occ),
@@ -190,7 +192,7 @@ for r in cur.fetchall():
 ddl_drop_create('sgx_reit_performance_final',
   'symbol text, financial_year smallint, date date, source_url text, properties_location text, number_of_unitholders int, '
   'units_in_issue numeric, units_to_be_issued numeric, distribution_record jsonb, '
-  'distribution_period_months numeric, aggregate_leverage numeric, interest_coverage_ratio numeric, '
+  'aggregate_leverage numeric, interest_coverage_ratio numeric, '
   'cost_of_debt numeric, weighted_average_debt_maturity numeric, weighted_average_lease_expiry numeric, '
   'portfolio_occupancy numeric, distribution_per_unit numeric, net_asset_value_per_unit numeric, '
   'portfolio_value numeric, gross_revenue numeric, net_property_income numeric, income_for_year numeric, '
