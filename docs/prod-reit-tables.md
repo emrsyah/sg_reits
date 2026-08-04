@@ -1,27 +1,24 @@
 # SGX REIT production tables
 
-Six tables covering 37 Singapore-listed REITs, FY2023–FY2025. Every figure comes from an
-audited annual report and is traceable to a page.
-
-Source of truth is the dev database. Prod is built by `build_final_tables.py` (dev raw →
-`*_final`) then `promote_final_to_prod.py` (`*_final` → prod). Prod holds no provenance
-columns: no currency tags, no source pages, no extraction flags.
+Six tables covering 37 Singapore-listed REITs, FY2023–FY2025.
 
 ---
 
 ## Conventions
 
-| kind | rule |
-|---|---|
-| money | SGD, converted at the MAS quarterly rate nearest the FY end. Stored as `bigint` |
-| percentages | 0–1. `aggregate_leverage` 0.39 means 39% |
-| ratios | a multiple as printed. `interest_coverage_ratio` 3.6 means 3.6× |
-| durations | years |
-| areas | square metres, `real` |
-| `distribution_per_unit` | cents |
-| `net_asset_value_per_unit` | dollars |
-| `symbol` | bare ticker, no `.SI` suffix |
-| `financial_year` | the declared FY, not the calendar year |
+
+| kind                       | rule                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| money                      | SGD, converted at the MAS quarterly rate nearest the FY end. Stored as `bigint` |
+| percentages                | 0–1. `aggregate_leverage` 0.39 means 39%                                        |
+| ratios                     | a multiple as printed. `interest_coverage_ratio` 3.6 means 3.6×                 |
+| durations                  | years                                                                           |
+| areas                      | square metres, `real`                                                           |
+| `distribution_per_unit`    | cents                                                                           |
+| `net_asset_value_per_unit` | dollars                                                                         |
+| `symbol`                   | bare ticker, no `.SI` suffix                                                    |
+| `financial_year`           | the declared FY, not the calendar year                                          |
+
 
 `interest_coverage_ratio`, `weighted_average_lease_expiry`, `weighted_average_debt_maturity`,
 `distribution_per_unit` and `net_asset_value_per_unit` are not percentages and are not scaled.
@@ -40,12 +37,14 @@ March 2024. Use `sgx_reit_performance.date` to get the actual FY end for any REI
 
 One row per REIT. 37 rows.
 
-| column | type | fill | notes |
-|---|---|---|---|
-| `symbol` | text | 100% | primary key |
-| `sub_sector` | text | 100% | 8 values |
-| `management` | jsonb | 100% | `{sponsor, trustee, reit_manager, property_manager, master_lessee}`, each a list |
-| `board` | jsonb | 100% | `[{name, position}]` |
+
+| column       | type  | fill | what it is                                                                   |
+| ------------ | ----- | ---- | ---------------------------------------------------------------------------- |
+| `symbol`     | text  | 100% | SGX ticker. Primary key                                                      |
+| `sub_sector` | text  | 100% | What the REIT mainly owns                                                    |
+| `management` | jsonb | 100% | Who runs it: sponsor, trustee, REIT manager, property manager, master lessee |
+| `board`      | jsonb | 100% | Directors and their positions                                                |
+
 
 `sub_sector`: Diversified 11, Retail 6, Industrial 6, Office 5, Hospitality 4, Data Centre 2,
 Healthcare 2, Specialized 1.
@@ -56,34 +55,36 @@ Healthcare 2, Specialized 1.
 
 One row per REIT-year. 74 rows: FY2023 ×3, FY2024 ×36, FY2025 ×35.
 
-| column | type | fill |
-|---|---|---|
-| `symbol`, `financial_year` | text, bigint | 100% (key) |
-| `date` | text | 100% |
-| `source_url` | text | 100% |
-| `properties_location` | text | 100% |
-| `portfolio_value` | bigint | 100% |
-| `gross_revenue` | bigint | 100% |
-| `net_property_income` | bigint | 100% |
-| `income_for_year` | bigint | 100% |
-| `units_in_issue` | bigint | 100% |
-| `units_to_be_issued` | bigint | 55% |
-| `number_of_unitholders` | bigint | 100% |
-| `distribution_per_unit` | double | 100% |
-| `net_asset_value_per_unit` | double | 100% |
-| `distribution_record` | jsonb | 100% |
-| `distribution_declared` | bigint | 68% |
-| `distribution_paid` | bigint | 100% |
-| `distributable_income_opening` | bigint | 85% |
-| `distributable_income_closing` | bigint | 88% |
-| `other_additions` | bigint | 27% |
-| `amount_retained` | bigint | 38% |
-| `aggregate_leverage` | double | 100% |
-| `cost_of_debt` | double | 99% |
-| `interest_coverage_ratio` | double | 100% |
-| `weighted_average_debt_maturity` | double | 89% |
-| `weighted_average_lease_expiry` | double | 89% |
-| `portfolio_occupancy` | double | 95% |
+
+| column                           | type         | fill | what it is                                                         |
+| -------------------------------- | ------------ | ---- | ------------------------------------------------------------------ |
+| `symbol`, `financial_year`       | text, bigint | 100% | Key                                                                |
+| `date`                           | text         | 100% | Last day of the financial year                                     |
+| `source_url`                     | text         | 100% | The annual report this row came from                               |
+| `properties_location`            | text         | 100% | Countries the portfolio spans                                      |
+| `portfolio_value`                | bigint       | 100% | What the whole portfolio is worth                                  |
+| `gross_revenue`                  | bigint       | 100% | Total rent and other income for the year                           |
+| `net_property_income`            | bigint       | 100% | Gross revenue less the cost of running the properties              |
+| `income_for_year`                | bigint       | 100% | Income available to distribute, before anything is held back       |
+| `units_in_issue`                 | bigint       | 100% | Units outstanding at year end                                      |
+| `units_to_be_issued`             | bigint       | 55%  | Units promised but not yet issued, e.g. manager fees paid in units |
+| `number_of_unitholders`          | bigint       | 100% | How many holders own units                                         |
+| `distribution_per_unit`          | double       | 100% | Cents paid per unit for the year (DPU)                             |
+| `net_asset_value_per_unit`       | double       | 100% | Net assets divided by units, in dollars (NAV)                      |
+| `distribution_record`            | jsonb        | 100% | The year's payouts split into tranches                             |
+| `distribution_declared`          | bigint       | 68%  | Total declared for the year                                        |
+| `distribution_paid`              | bigint       | 100% | Cash actually paid out during the year                             |
+| `distributable_income_opening`   | bigint       | 85%  | Undistributed pool carried in from last year                       |
+| `distributable_income_closing`   | bigint       | 88%  | Undistributed pool carried out to next year                        |
+| `other_additions`                | bigint       | 27%  | Money added to the pool beyond `income_for_year`                   |
+| `amount_retained`                | bigint       | 38%  | Income held back rather than paid out                              |
+| `aggregate_leverage`             | double       | 100% | Debt as a share of assets (gearing)                                |
+| `cost_of_debt`                   | double       | 99%  | Average interest rate paid on borrowings                           |
+| `interest_coverage_ratio`        | double       | 100% | How many times earnings cover interest                             |
+| `weighted_average_debt_maturity` | double       | 89%  | Average years until debt falls due                                 |
+| `weighted_average_lease_expiry`  | double       | 89%  | Average years until leases expire (WALE)                           |
+| `portfolio_occupancy`            | double       | 95%  | Share of space leased across the portfolio                         |
+
 
 `date` is the FY end. `number_of_unitholders` counts holders; `units_in_issue` counts units.
 
@@ -128,29 +129,31 @@ rollforwards still close. Null means the report does not publish that line. Do n
 One row per property per REIT-year. 3420 rows: FY2023 ×305, FY2024 ×1494, FY2025 ×1621.
 Key is `(symbol, financial_year, property_name)`.
 
-| column | type | fill |
-|---|---|---|
-| `symbol`, `financial_year`, `property_name` | | 100% (key) |
-| `country` | text | 100% |
-| `category` | text | 100% |
-| `address` | text | 97% |
-| `ownership` | real | 81% |
-| `market_valuation` | bigint | 97% |
-| `valuation_date` | date | 99% |
-| `purchase_price` | bigint | 81% |
-| `purchase_date` | date | 67% |
-| `gross_revenue` | bigint | 87% |
-| `net_property_income` | bigint | 11% |
-| `occupancy_rate` | double | 88% |
-| `net_lettable_area` | real | 70% |
-| `gross_floor_area` | real | 37% |
-| `land_tenure` | text | 100% |
-| `lease_term_years` | real | 39% |
-| `lease_expiry_date` | date | 24% |
-| `status` | text | 100% |
-| `latitude`, `longitude` | double | 96% |
 
-`category` (6 values): Industrial & Logistics 1551, Specialized 815, Office 448, Retail 296,
+| column                                      | type   | fill | what it is                                   |
+| ------------------------------------------- | ------ | ---- | -------------------------------------------- |
+| `symbol`, `financial_year`, `property_name` |        | 100% | Key                                          |
+| `country`                                   | text   | 100% | Where the property is                        |
+| `category`                                  | text   | 100% | Asset type                                   |
+| `address`                                   | text   | 97%  | Street address                               |
+| `ownership`                                 | real   | 81%  | The REIT's stake in the property             |
+| `market_valuation`                          | bigint | 97%  | Appraised value at year end, on a 100% basis |
+| `valuation_date`                            | date   | 99%  | When it was valued                           |
+| `purchase_price`                            | bigint | 81%  | What the REIT paid for it                    |
+| `purchase_date`                             | date   | 67%  | When the REIT bought it                      |
+| `gross_revenue`                             | bigint | 87%  | The property's revenue for the year          |
+| `net_property_income`                       | bigint | 11%  | Its revenue less its running costs           |
+| `occupancy_rate`                            | double | 88%  | Share of its space leased                    |
+| `net_lettable_area`                         | real   | 70%  | Floor area that can be leased out            |
+| `gross_floor_area`                          | real   | 37%  | Total built area, leasable or not            |
+| `land_tenure`                               | text   | 100% | Freehold or leasehold                        |
+| `lease_term_years`                          | real   | 39%  | Length of the lease                          |
+| `lease_expiry_date`                         | date   | 24%  | When the lease ends                          |
+| `status`                                    | text   | 100% | Still held, held for sale, or sold           |
+| `latitude`, `longitude`                     | double | 96%  | Map coordinates                              |
+
+
+`category` (6 values): Industrial &amp; Logistics 1551, Specialized 815, Office 448, Retail 296,
 Data Centers 296, Diversified (Commercial) 14.
 
 `status`: active 3326, divested 72, held_for_sale 22. Divested rows carry a name and country and
@@ -179,14 +182,16 @@ carry one. 60 rows are master leases, all AW9U.
 One row per tenant per REIT-year. 752 rows: FY2023 ×30, FY2024 ×358, FY2025 ×364.
 Key is `(symbol, financial_year, rank)`.
 
-| column | type | fill |
-|---|---|---|
-| `symbol`, `financial_year`, `rank` | | 100% (key) |
-| `client_name` | text | 100% |
-| `industry` | text | 99% |
-| `pct` | double | 100% |
-| `pct_basis` | text | 100% |
-| `basis_segment` | text | 11% |
+
+| column                             | type   | fill | what it is                                                               |
+| ---------------------------------- | ------ | ---- | ------------------------------------------------------------------------ |
+| `symbol`, `financial_year`, `rank` |        | 100% | Key. Rank 1 is the largest tenant                                        |
+| `client_name`                      | text   | 100% | Tenant name as the report gives it                                       |
+| `industry`                         | text   | 99%  | The tenant's sector                                                      |
+| `pct`                              | double | 100% | The tenant's share of whatever `pct_basis` names                         |
+| `pct_basis`                        | text   | 100% | What that share is measured against                                      |
+| `basis_segment`                    | text   | 11%  | Which part of the portfolio the denominator covers. Null means all of it |
+
 
 `pct` is the tenant's share of whatever `pct_basis` names, as a fraction.
 
@@ -210,17 +215,20 @@ REIT-year: T82U ranks 1–10 are office, 11–20 retail.
 Sector breakdown per REIT-year. 512 rows: FY2023 ×26, FY2024 ×248, FY2025 ×238.
 Key is `(symbol, financial_year, category, pct_basis, basis_segment)`.
 
-| column | type | fill |
-|---|---|---|
-| `symbol`, `financial_year`, `category`, `pct_basis` | | 100% (key) |
-| `pct` | double | 100% |
-| `basis_segment` | text | 10% |
 
-`category` (15 values): Financial & Professional Services, Other Retail Trades, Infrastructure
-Real Estate & Property Services, Other Office Trades, IT & Telecommunications, Government
-Related, Healthcare & Wellness, Hospitality & Leisure, Logistics & Supply Chain Management,
-Food & Beverages, Fashion & Accessories, Manufacturing, Other Industrial Trades, Energy Mining
-& Resources, Departmental Store/Supermarket.
+| column                                              | type   | fill | what it is                                                               |
+| --------------------------------------------------- | ------ | ---- | ------------------------------------------------------------------------ |
+| `symbol`, `financial_year`, `category`, `pct_basis` |        | 100% | Key                                                                      |
+| `pct`                                               | double | 100% | That sector's share of the portfolio                                     |
+| `pct_basis`                                         | text   | 100% | What the share is measured against                                       |
+| `basis_segment`                                     | text   | 10%  | Which part of the portfolio the denominator covers. Null means all of it |
+
+
+`category` (15 values): Financial &amp; Professional Services, Other Retail Trades, Infrastructure
+Real Estate &amp; Property Services, Other Office Trades, IT &amp; Telecommunications, Government
+Related, Healthcare &amp; Wellness, Hospitality &amp; Leisure, Logistics &amp; Supply Chain Management,
+Food &amp; Beverages, Fashion &amp; Accessories, Manufacturing, Other Industrial Trades, Energy Mining
+&amp; Resources, Departmental Store/Supermarket.
 
 `pct_basis` (5 values): gross_rental_income 419, gross_revenue 69, headline_rent 20,
 annualised_rent 2, asset_value 2.
@@ -237,17 +245,19 @@ its commercial 0.356 and logistics_industrial 0.644 sum to 1.0 together.
 One row per completed transaction. 172 rows: FY2023 ×18, FY2024 ×68, FY2025 ×86.
 Key is `(symbol, financial_year, transaction_type, property_name)`.
 
-| column | type | fill |
-|---|---|---|
-| `symbol`, `financial_year`, `transaction_type`, `property_name` | | 100% (key) |
-| `status` | text | 100% |
-| `counterparty` | text | 90% |
-| `completed_date` | date | 98% |
-| `interest_pct` | real | 99% |
-| `transaction_price` | bigint | 99% |
-| `basis_value` | bigint | 69% |
-| `basis` | text | 70% |
-| `deal_id` | text | 8% |
+
+| column                                                          | type   | fill | what it is                                                       |
+| --------------------------------------------------------------- | ------ | ---- | ---------------------------------------------------------------- |
+| `symbol`, `financial_year`, `transaction_type`, `property_name` |        | 100% | Key                                                              |
+| `status`                                                        | text   | 100% | Always completed in prod                                         |
+| `counterparty`                                                  | text   | 90%  | Who the REIT bought from or sold to                              |
+| `completed_date`                                                | date   | 98%  | When the deal closed                                             |
+| `interest_pct`                                                  | real   | 99%  | The stake bought or sold. 1.0 is the whole asset                 |
+| `transaction_price`                                             | bigint | 99%  | What was paid or received, gross                                 |
+| `basis_value`                                                   | bigint | 69%  | The figure the price is measured against                         |
+| `basis`                                                         | text   | 70%  | What `basis_value` is                                            |
+| `deal_id`                                                       | text   | 8%   | Links rows that share one price. Null means the row stands alone |
+
 
 `transaction_type` is `acquisition` (62) or `divestment` (110). `status` is always `completed`;
 announced and terminated deals stay in dev.
@@ -308,13 +318,12 @@ disappear from the property table the following year.
 
 ## Known gaps
 
-| what | detail |
-|---|---|
-| `portfolio_value` is not comparable across REITs | ME8U reports AUM-style, DCRU at-share AUM, others the audited portfolio statement. Do not use it to reconcile against the property table |
-| 11 rows have no distribution rollforward | those reports do not publish one. CY6U and J91U are business trusts, not REITs |
-| C2PU FY2025 rollforward off by 36,000 | its `income_for_year` is computed rather than printed |
+
+| what                                     | detail                                                                                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| C2PU FY2025 rollforward off by 36,000    | its `income_for_year` is computed rather than printed                                                                                       |
 | 3 distribution records cover half a year | A17U FY2025 missing H2, XZL FY2024 and FY2025 missing H1. The other half is announced in the interim results release, not the annual report |
-| `property.net_property_income` at 11% | most reports give NPI for the portfolio, not per property |
-| `property.purchase_date` at 67% | 337 rows disclose a bare year, which cannot be stored in a `date` column |
-| 2 divestments carry a price net of disposal costs | BTOU Capitol (110.0 against a 118.0 valuation) and UD1U Il·lumina (24.5 against 24.698). Their gains read low against a gross basis |
-| sum of property valuations ≠ `portfolio_value` | JV assets are equity-accounted and absent from the portfolio statement; MXNU itemises only its top 10 of 149 properties |
+| `property.net_property_income` at 11%    | most reports give NPI for the portfolio, not per property                                                                                   |
+| `property.purchase_date` at 67%          | 337 rows disclose a bare year, which cannot be stored in a `date` column                                                                    |
+
+
