@@ -1,0 +1,127 @@
+{
+  "planned": [
+    {
+      "id": "8b8e15c6-2b3a-4226-853b-13686c737caf",
+      "symbol": "M44U.SI",
+      "financial_year": 2023,
+      "property_name": "Subang Land Parcel",
+      "column": "lease_term_years",
+      "old_value": "10245.0",
+      "new_value": "99",
+      "reason": "AR p.76: 'Lot 10245: 99 years (1 March 1989)' -- lot number captured as term"
+    },
+    {
+      "id": "912150b2-fb1e-46c6-a9d6-eb7a1fd92dac",
+      "symbol": "T82U.SI",
+      "financial_year": 2024,
+      "property_name": "Suntec City Mall",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "ec113ef7-e953-4281-b2b2-8cf5a74dabde",
+      "symbol": "T82U.SI",
+      "financial_year": 2024,
+      "property_name": "Suntec City Office Towers",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "62cbecfe-0c99-4153-9c85-fd1d8e5a6777",
+      "symbol": "T82U.SI",
+      "financial_year": 2024,
+      "property_name": "Suntec Singapore Convention & Exhibition Centre",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "0c2cfc29-f0e4-418e-918f-0d0e1952f557",
+      "symbol": "T82U.SI",
+      "financial_year": 2024,
+      "property_name": "One Raffles Quay",
+      "column": "effective_date",
+      "old_value": "2001-01-01",
+      "new_value": "2001",
+      "reason": "AR states 'Leasehold 99 years from 2001' -- year only, day was manufactured"
+    },
+    {
+      "id": "3f7488fe-26ec-4a8d-913e-73cc89763bc3",
+      "symbol": "T82U.SI",
+      "financial_year": 2024,
+      "property_name": "MBFC Properties",
+      "column": "effective_date",
+      "old_value": "2005-01-01",
+      "new_value": "2005",
+      "reason": "AR states 'Leasehold 99 years from 2005' -- year only, day was manufactured"
+    },
+    {
+      "id": "a2a544b7-6c27-454f-896c-275dd43307b0",
+      "symbol": "T82U.SI",
+      "financial_year": 2025,
+      "property_name": "Suntec City Mall",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "ec75a4c7-7c20-46ad-95fa-c4d81275ac04",
+      "symbol": "T82U.SI",
+      "financial_year": 2025,
+      "property_name": "Suntec City Office Towers",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "d63b6879-d8d1-4a5d-a8fa-6f0f94cc8514",
+      "symbol": "T82U.SI",
+      "financial_year": 2025,
+      "property_name": "Suntec Singapore Convention & Exhibition Centre",
+      "column": "effective_date",
+      "old_value": "1989-01-01",
+      "new_value": "1989",
+      "reason": "AR states 'Leasehold 99 years from 1989' -- year only, day was manufactured"
+    },
+    {
+      "id": "4725eb56-a73a-402e-b404-f6b180deeb72",
+      "symbol": "T82U.SI",
+      "financial_year": 2025,
+      "property_name": "One Raffles Quay",
+      "column": "effective_date",
+      "old_value": "2001-01-01",
+      "new_value": "2001",
+      "reason": "AR states 'Leasehold 99 years from 2001' -- year only, day was manufactured"
+    },
+    {
+      "id": "74c1eb64-2701-4589-9e77-eacff6ecb536",
+      "symbol": "T82U.SI",
+      "financial_year": 2025,
+      "property_name": "MBFC Properties",
+      "column": "effective_date",
+      "old_value": "2005-01-01",
+      "new_value": "2005",
+      "reason": "AR states 'Leasehold 99 years from 2005' -- year only, day was manufactured"
+    },
+    {
+      "id": "2fba91c7-158a-4c94-b6cf-d38b3de6c94b",
+      "symbol": "M44U.SI",
+      "financial_year": 2023,
+      "property_name": "Pulau Sebarok",
+      "column": "lease_term_years",
+      "old_value": "73.25",
+      "new_value": "73.2856",
+      "reason": "AR p.62: '73 years 3 months 13 days' -- 73 + 3/12 + 13/365.25"
+    }
+  ],
+  "skipped_value_mismatch": [],
+  "skipped_row_missing": [],
+  "pulau_sebarok_included": true
+}

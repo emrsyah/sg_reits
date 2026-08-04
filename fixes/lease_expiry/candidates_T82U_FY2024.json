@@ -1,0 +1,32 @@
+[
+ {
+  "property_name": "MBFC Properties",
+  "country": "Singapore",
+  "effective_date": "2005-01-01",
+  "lease_term_years": 99.0
+ },
+ {
+  "property_name": "One Raffles Quay",
+  "country": "Singapore",
+  "effective_date": "2001-01-01",
+  "lease_term_years": 99.0
+ },
+ {
+  "property_name": "Suntec City Mall",
+  "country": "Singapore",
+  "effective_date": "1989-01-01",
+  "lease_term_years": 99.0
+ },
+ {
+  "property_name": "Suntec City Office Towers",
+  "country": "Singapore",
+  "effective_date": "1989-01-01",
+  "lease_term_years": 99.0
+ },
+ {
+  "property_name": "Suntec Singapore Convention & Exhibition Centre",
+  "country": "Singapore",
+  "effective_date": "1989-01-01",
+  "lease_term_years": 99.0
+ }
+]

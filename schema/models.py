@@ -185,17 +185,19 @@ class Property(BaseModel):
     major_tenants: list[PropertyTenant] = Field(
         default_factory=list,
         description="major/top tenants for this property (often several); was major_tenant text")
-    gla: Optional[float] = Field(
-        None, description="gross lettable area — the LETTABLE area; do NOT fill from gross "
-        "FLOOR area (that is gfa). Distinct from nla (net lettable).")
-    nla: Optional[float] = Field(None, description="net lettable area (distinct from gla/gfa)")
+    # gla removed 2026-08-03 (schema review): it was set on 9 of 3420 rows, those values were
+    # moved into nla, and the column was dropped. Put LETTABLE area — net or gross — in nla.
+    # Loaders still fold a legacy `gla` key in older extraction JSON into nla.
+    nla: Optional[float] = Field(
+        None, description="LETTABLE area (net lettable, or gross lettable where that is all the "
+        "report discloses). Do NOT fill from gross FLOOR area — that is gfa.")
     gfa: Optional[float] = Field(
         None, description="gross floor area — the built floor area (NOT lettable area); keep "
-        "separate from gla/nla. Many cards disclose GFA, not GLA.")
+        "separate from nla. Many cards disclose GFA, not lettable area.")
     area_unit: Optional[AreaUnit] = Field(
-        None, description="AUDIT TRAIL — unit of gla/nla/gfa as the report discloses it "
+        None, description="AUDIT TRAIL — unit of nla/gfa as the report discloses it "
         "('sqft' or 'sqm'). Store the as-reported unit; do NOT convert. Required whenever any "
-        "of gla/nla/gfa is set. Prod normalizes all areas to sqft at load (sqm x 10.7639).")
+        "of nla/gfa is set. Prod normalizes all areas to sqft at load (sqm x 10.7639).")
     land_tenure: Optional[LandTenure] = Field(
         None, description="Freehold or Leasehold ONLY; verbatim wording -> tenure_raw")
     effective_date: Optional[str] = Field(None, description="lease commencement date, AS-DISCLOSED "

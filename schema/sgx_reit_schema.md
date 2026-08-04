@@ -104,10 +104,12 @@ create table sgx_reit_property (
                                   -- keys use the same canonical 15-value category list
   major_tenants       jsonb,      -- src: AR — [{name, industry?, pct?}]; a property often
                                   -- has several major/top tenants (was major_tenant text)
-  gla                 numeric,    -- src: AR — gross LETTABLE area (NOT gross floor area)
-  nla                 numeric,    -- src: AR — net lettable area
+                                  -- gla DROPPED 2026-08-03 (schema review): set on 9/3420 rows,
+                                  -- values moved into nla, column removed
+  nla                 numeric,    -- src: AR — LETTABLE area (net, or gross where that is all
+                                  -- the report discloses)
   gfa                 numeric,    -- src: AR — gross FLOOR area (built area, not lettable);
-                                  -- many cards disclose GFA — keep separate from gla/nla
+                                  -- many cards disclose GFA — keep separate from nla
   land_tenure         text,       -- src: AR — Freehold | Leasehold
   effective_date      date,       -- src: AR — land-lease start
   lease_term_years    numeric,    -- src: AR — parsed from '64/99' → 99
