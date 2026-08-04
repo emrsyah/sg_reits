@@ -340,14 +340,19 @@ for d in _txn_raw:
       d['property_name'],d['counterparty'],
       float(d['interest_pct']) if d['interest_pct'] is not None else None,
       d['completed_date'],
-      conv['purchase_price'],
-      conv['sale_price'],
+      # purchase_price and sale_price merged into transaction_price (2026-08-04). They are
+      # mutually exclusive by construction -- verified on all 212 rows: 0 carry both, 66 are
+      # acquisitions with a purchase price, 135 divestments with a sale price, 11 disclose
+      # no price at all. transaction_type already states the direction, so two columns that
+      # can never both be populated were just a null-heavy way of repeating it.
+      # Side benefit: prod typed purchase_price `text` and sale_price `bigint`; one column
+      # ends that inconsistency.
+      conv['purchase_price'] if conv['purchase_price'] is not None else conv['sale_price'],
       conv['basis_value'],d['basis']))
 ddl_drop_create('sgx_reit_property_transaction_final',
   'symbol text, financial_year smallint, deal_id text, transaction_type text, status text, '
   'property_name text, counterparty text, interest_pct numeric, completed_date text, '
-  'purchase_price numeric, sale_price numeric, '
-  'basis_value numeric, basis text')
+  'transaction_price numeric, basis_value numeric, basis text')
 # sale_price_scope was DROPPED from raw as well (2026-08-04): 'deal_level' is subsumed by
 # deal_id above, 'not_disclosed' is just sale_price IS NULL, and 'net_proceeds' was judged not
 # worth carrying. Three prices are therefore net of disposal costs against a gross basis, so
@@ -359,8 +364,8 @@ ddl_drop_create('sgx_reit_property_transaction_final',
 # report; basis_mismatch still does its job upstream -- it NULLs the gain above -- so the flag
 # itself need not ship. All three remain queryable in sgx_reit_property_transaction.
 load('sgx_reit_property_transaction_final', ['symbol','financial_year','deal_id','transaction_type',
- 'status','property_name','counterparty','interest_pct','completed_date','purchase_price',
- 'sale_price','basis_value','basis'], trows)
+ 'status','property_name','counterparty','interest_pct','completed_date',
+ 'transaction_price','basis_value','basis'], trows)
 
 if inherited_ccy:
     print(f'\n!! P1: {len(inherited_ccy)} money figures had NO per-figure currency tag and inherited a')

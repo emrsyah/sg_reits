@@ -359,6 +359,26 @@ def main():
             if emptied:
                 print(f"    scopes emptied by the filter (deleted, then left empty): {emptied}")
 
+            # deal_id means "this price is SHARED -- group before summing". _final assigns it
+            # from group size across all 212 rows, but the completed-only filter above can
+            # strip a sibling and leave the survivor holding a deal_id that groups nothing.
+            # 7 such singletons reached prod (e.g. m44u:flexhub -- its FY2023 half is still
+            # 'announced'). Recompute AFTER filtering, over the rows prod will actually hold.
+            if "deal_id" in prod_types:
+                n_by_deal = {}
+                for g in scopes.values():
+                    for r in g:
+                        if r.get("deal_id"):
+                            n_by_deal[r["deal_id"]] = n_by_deal.get(r["deal_id"], 0) + 1
+                singles = {d for d, n in n_by_deal.items() if n == 1}
+                if singles:
+                    for g in scopes.values():
+                        for r in g:
+                            if r.get("deal_id") in singles:
+                                r["deal_id"] = None
+                    print(f"    deal_id cleared on {len(singles)} rows whose deal lost its "
+                          f"sibling to the filter (a deal of one groups nothing)")
+
         print(f"\n### {final_table} -> {prod_table}")
         print(f"    dev rows selected: {len(rows)}   scopes: {len(scopes)}   "
               f"(prod cols sent: {len(prod_types)})")
