@@ -88,6 +88,21 @@ during the year, which includes last year's final distribution and excludes this
 
 ## How they fit together
 
+### 0. Where opening and closing come from
+
+Both are **read verbatim from the audited Distribution Statement**, one page-cited line each --
+never computed. The extraction spec is explicit that `A + B - P = E` is a **guard, not a
+formula**: *"A broken guard = a mis-read line -> fix at the source, never plug."*
+
+That is why 11 rows have no opening or closing: those reports do not present a distribution
+rollforward at all. CY6U is the clearest case -- CapitaLand India Trust is a registered
+**business trust, not a REIT**, and its statements carry no *"income available for distribution
+at the beginning/end of the year"* line. Same for D5IU, XZL, UD1U, 8C8U and J91U. The value is
+absent because the disclosure is absent, not because extraction failed.
+
+Note `distribution_basis` (raw only) also has 11 rows marked `not_disclosed_rollforward_only`
+-- a **different** 11. Do not confuse the two sets.
+
 ### 1. The distribution rollforward
 
 ```
@@ -117,6 +132,18 @@ It reconciles against **declared**, not paid — 44 of 45 rows within 10%, 39 wi
 52 of 67 against paid. It is approximate because DPU is declared per tranche against the unit
 count at each record date, while `units_in_issue` is the year-end count.
 
+**The one row outside 10% is AJBU FY2024, and it is correct data, not an error.** Keppel DC
+REIT raised roughly $1.1bn of equity in Q4 2024 -- a private placement plus a preferential
+offering whose **148,413,063 new units listed on 18 December 2024**, thirteen days before year
+end. Those units earned almost none of the year's DPU, so multiplying by the year-end count
+overstates the implied distribution by 21%. The AR says as much: *"Excluding the impact of the
+148,413,063 new Units listed on 18 December 2024 ... the adjusted DPU would have been 9.504
+cents."*
+
+The correct denominator is **weighted-average units**, which this table does not store. Treat
+G4 as an order-of-magnitude sanity check, and expect any REIT that raised equity mid-year to
+miss it.
+
 ### 3. `distribution_record` sums to DPU
 
 ```
@@ -125,6 +152,20 @@ sum(distribution_record[].dpu) = distribution_per_unit
 
 64 of 74 rows tally. The record holds only `dpu`, `period_start`, `period_end` — provenance
 keys (`line`), `amount` and `pay_date` were dropped as derivable or sparse.
+
+The 5 that do not tally are all **semi-annual payers with only one half captured**, and
+`period_start`/`period_end` make it self-evident:
+
+```
+A17U 2025   2025-01-01 .. 2025-06-30   H1 only   7.477 of 15.005
+DCRU 2024   2024-07-01 .. 2024-12-31   H2 only   2.449 of 4.897
+DCRU 2025   2025-07-01 .. 2025-12-31   H2 only   2.311 of 4.623
+XZL  2024   2024-07-01 .. 2024-12-31   H2 only   1.154 of 2.170
+XZL  2025   2025-07-01 .. 2025-12-31   H2 only   0.537 of 1.091
+```
+
+Each sums to roughly half its headline DPU. The fix is re-extracting the missing half, and the
+gap is machine-detectable by checking that the tranche periods span the full year.
 
 ### 4. Zero vs null
 
@@ -162,7 +203,9 @@ as `[]`, distinct from `null`.
 |---|---|
 | **G1: 11 rows unreconcilable** | `distributable_income_opening` or `_closing` is null, so the rollforward cannot be tested at all |
 | **G1: C2PU FY2025 off by 36,000** | `15,562 + 102,781 − 65,436 − 3,000 = 49,907` vs closing `49,871`. FY2024 tallies exactly. Its `income_for_year_basis` is `pre_retention_normalised` — a computed, not printed, figure — so the gap is in our derivation. Not adjusted: a failed check is a signal to investigate, never licence to force a balance |
-| **G2: 5 records cover half a year** | A17U FY2025 (7.477 vs 15.005), DCRU FY2024/25, XZL FY2024/25 — each is ~half its headline DPU, so the second-half tranches were never extracted |
+| **G2: 5 records cover half a year** | A17U FY2025 H1 only; DCRU and XZL FY2024/25 H2 only. See §3 -- detectable from the tranche periods |
+| **G1: the 11 unreconcilable rows** | the report publishes no distribution rollforward at all; CY6U and J91U are business trusts, not REITs. Absent disclosure, not failed extraction. See §0 |
+| **G4: AJBU FY2024** | equity raised 13 days before year end, so the year-end unit count is the wrong denominator. See §2 |
 | **`portfolio_occupancy` null ×4** | 8C8U FY2025, Q5T FY2024/25, UD1U FY2024 |
 | **`portfolio_value` is not comparable across REITs** | ME8U's is AUM-style, DCRU's is explicitly at-share AUM, others are the audited portfolio statement. Do **not** use it as a reconciliation target |
 | **DPU cents vs NAV dollars** | inconsistent units in one table |
