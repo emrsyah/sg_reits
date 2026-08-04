@@ -200,13 +200,15 @@ load('sgx_reit_financial_final', ['symbol','financial_year','income_stmt_metrics
 # ===== property_final =====
 cur.execute("""select symbol,financial_year,property_name,country,category,address,ownership,
  market_valuation,purchase_price,valuation_date,net_property_income,net_property_income_currency,
- gross_revenue,gross_revenue_currency,occupancy_rate,nla,gfa,area_unit,land_tenure,effective_date,
+ gross_revenue,gross_revenue_currency,occupancy_rate,nla,gfa,area_unit,land_tenure,
  lease_term_years,lease_expiry_date,status,purchase_date,
  coordinate_latitude,coordinate_longitude,coordinate_source from sgx_reit_property""")
 prows=[]
 for r in cur.fetchall():
     # gla dropped 2026-08-03 (schema review): 9 surviving values moved into nla, column removed.
-    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,nla,gfa,au,lt,eff,lty,lexp,st,pdate,
+    # effective_date dropped 2026-08-04: every value it could still contribute was derived into
+    # lease_expiry_date first (7 final rows), so the column is gone from RAW as well as _final.
+    (sym,fy,pn,ctry,cat,addr,own,mv,pp,vdate,npi,npic,gr,grc,occ,nla,gfa,au,lt,lty,lexp,st,pdate,
      clat,clng,csrc)=r
     d=fy_end(sym,fy)
     # Rule A: mv, pp already SGD. Rule B: gross/npi in-tag.
@@ -217,19 +219,22 @@ for r in cur.fetchall():
       float(mv) if mv is not None else None, float(pp) if pp is not None else None, vdate,
       to_sgd(npi,npic,d,f'prop.npi.{sym}:{pn}'), to_sgd(gr,grc,d,f'prop.gr.{sym}:{pn}'),
       float(occ) if occ is not None else None, area(nla), area(gfa),
-      lt, eff, float(lty) if lty is not None else None, lexp, st, pdate,
+      # effective_date dropped from _final 2026-08-04 (schema review): lease_expiry_date is
+      # derived from it in raw, so _final ships the expiry and not the start. Raw KEEPS the
+      # column -- it is the derivation source and the only lease-start evidence we hold.
+      lt, float(lty) if lty is not None else None, lexp, st, pdate,
       # coordinates: pass-through (not currency/percent, no transform)
       float(clat) if clat is not None else None, float(clng) if clng is not None else None, csrc))
 ddl_drop_create('sgx_reit_property_final',
   'symbol text, financial_year smallint, property_name text, country text, category text, address text, '
   'ownership numeric, market_valuation numeric, purchase_price numeric, valuation_date date, '
   'net_property_income numeric, gross_revenue numeric, occupancy_rate numeric, '
-  'net_lettable_area numeric, gross_floor_area numeric, land_tenure text, effective_date text, '
+  'net_lettable_area numeric, gross_floor_area numeric, land_tenure text, '
   'lease_term_years numeric, lease_expiry_date text, status text, purchase_date text, '
   'coordinate_latitude double precision, coordinate_longitude double precision, coordinate_source text')
 load('sgx_reit_property_final', ['symbol','financial_year','property_name','country','category','address','ownership',
  'market_valuation','purchase_price','valuation_date','net_property_income','gross_revenue','occupancy_rate',
- 'net_lettable_area','gross_floor_area','land_tenure','effective_date','lease_term_years',
+ 'net_lettable_area','gross_floor_area','land_tenure','lease_term_years',
  'lease_expiry_date','status','purchase_date',
  'coordinate_latitude','coordinate_longitude','coordinate_source'], prows)
 
