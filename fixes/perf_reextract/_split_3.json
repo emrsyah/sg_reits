@@ -1,0 +1,194 @@
+[
+  {
+    "symbol": "C38U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 793536000,
+    "income_for_year_lines": [5642, 5643],
+    "other_additions": 76421000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income", "amount": 7885000, "line": 5644},
+      {"label": "Capital distributions", "amount": 16208000, "line": 5645},
+      {"label": "Distribution income from joint ventures", "amount": 52328000, "line": 5646}
+    ],
+    "subtotal_printed": 869957000,
+    "subtotal_line": 5647,
+    "split_sum": 869957000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return attributable to Unitholders 937,287 | Net tax and other adjustments (Note A) (143,751)",
+      "subtotal": "869,957 (unlabelled subtotal row directly above 'Amount available for distribution to Unitholders' 1,119,753, which is cumulative and out of scope per Trap 1)"
+    },
+    "note": "Worked example from spec, reproduced.",
+    "flags": []
+  },
+  {
+    "symbol": "C38U",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 716577000,
+    "income_for_year_lines": [5642, 5643],
+    "other_additions": 45015000,
+    "other_additions_breakdown": [
+      {"label": "Tax-exempt income", "amount": 15512000, "line": 5644},
+      {"label": "Capital distributions", "amount": 7585000, "line": 5645},
+      {"label": "Distribution income from joint ventures", "amount": 21918000, "line": 5646}
+    ],
+    "subtotal_printed": 761592000,
+    "subtotal_line": 5647,
+    "split_sum": 761592000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return attributable to Unitholders 933,683 | Net tax and other adjustments (Note A) (217,106)",
+      "subtotal": "761,592 (unlabelled subtotal row directly above 'Amount available for distribution to Unitholders' 1,133,249, which is cumulative and out of scope per Trap 1)"
+    },
+    "note": "Prior-year column of C38U FY2025 statement (same page/lines).",
+    "flags": []
+  },
+  {
+    "symbol": "J85",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 56944000,
+    "income_for_year_lines": [8894, 8895, 8896, 8897],
+    "other_additions": 9683000,
+    "other_additions_breakdown": [
+      {"label": "Capital distribution", "amount": 9683000, "line": 8900}
+    ],
+    "subtotal_printed": 66627000,
+    "subtotal_line": null,
+    "split_sum": 66627000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return of H-REIT 21,589 | Less: Total return attributable to perpetual securities holders (669) | Loss of HBT (13,678) | Net tax adjustments (Note A) 49,702 -> unlabelled subtotal row 56,944",
+      "subtotal": "Statement itself prints no combined subtotal that already nets in capital distribution but excludes retention. 66,627 (= 56,944 operating subtotal + 9,683 capital distribution) is independently confirmed by the report's Financial Highlights: 'Total distribution (before retention for working capital) (S$'000) 66,627' (line 436)."
+    },
+    "note": "Stapled trust. 'Less: Amount retained for working capital' (5,694) is out of scope per Trap 4 and excluded from both fields. Perpetual securities deduction (669) stays inside the operating block per Trap 3. Statement prints no subtotal that matches income_for_year + other_additions directly (Trap 2 style); cross-checked against Financial Highlights table instead.",
+    "flags": ["subtotal_not_directly_printed_in_statement"]
+  },
+  {
+    "symbol": "J85",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 62788000,
+    "income_for_year_lines": [8827, 8828, 8829],
+    "other_additions": 10323000,
+    "other_additions_breakdown": [
+      {"label": "Capital distribution", "amount": 10323000, "line": 8832}
+    ],
+    "subtotal_printed": 73111000,
+    "subtotal_line": null,
+    "split_sum": 73111000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Total return of H-REIT 20,929 | Loss of HBT (12,671) | Net tax adjustments (Note A) 54,530 -> unlabelled subtotal row 62,788",
+      "subtotal": "62,788 + 10,323 = 73,111, confirmed by Financial Highlights: 'Total distribution (before retention for working capital) (S$'000)' prior-year column 73,111 (line 436)."
+    },
+    "note": "From J85 FY2024 AR's own Distribution Statement (year ended 31 Dec 2024). 'Less: Amount retained for working capital' (6,261) out of scope. No perpetual securities deduction line this year.",
+    "flags": ["subtotal_not_directly_printed_in_statement"]
+  },
+  {
+    "symbol": "8C8U",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 29995000,
+    "income_for_year_lines": [3499, 3500],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 29995000,
+    "subtotal_line": 3501,
+    "split_sum": 29995000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Profit after tax attributable to the Unitholders 9,695 | Adjustment for net effect of non-tax deductible/(chargeable) items and other adjustments A 20,300",
+      "subtotal": "Amount available for distribution to Unitholders 29,995"
+    },
+    "note": "Stub period from 12 Aug 2025 (date of constitution) to 31 Dec 2025, no opening balance line (blank). No non-operating lines printed in this statement; other_additions is null per the common case in the spec.",
+    "flags": ["stub_period_no_opening_balance"]
+  },
+  {
+    "symbol": "DHLU",
+    "financial_year": 2025,
+    "currency": "SGD",
+    "income_for_year": 30378000,
+    "income_for_year_lines": [6260, 6261],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 30378000,
+    "subtotal_line": 6262,
+    "split_sum": 30378000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Net income for the period 34,881 | Distribution adjustments (Note A) (4,503)",
+      "subtotal": "Income available for distribution to Unitholders for the year 30,378"
+    },
+    "note": "Presented in SGD despite the Japanese logistics portfolio. No non-operating lines (no capital distribution / tax-exempt income / JV distribution) printed in this statement; other_additions is null.",
+    "flags": []
+  },
+  {
+    "symbol": "DHLU",
+    "financial_year": 2024,
+    "currency": "SGD",
+    "income_for_year": 33518000,
+    "income_for_year_lines": [5462, 5463],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 33518000,
+    "subtotal_line": 5464,
+    "split_sum": 33518000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Net income for the period 33,921 | Distribution adjustments (Note A) (403)",
+      "subtotal": "Income available for distribution to Unitholders for the year 33,518"
+    },
+    "note": "From DHLU FY2024 AR's own Distribution Statement. Presented in SGD despite Japanese portfolio. No non-operating lines; other_additions is null.",
+    "flags": []
+  },
+  {
+    "symbol": "DCRU",
+    "financial_year": 2025,
+    "currency": "USD",
+    "income_for_year": 46846000,
+    "income_for_year_lines": [5536, 5537, 5538, 5539, 5540, 5541, 5542, 5543, 5544, 5545, 5546, 5547, 5548, 5549, 5550, 5551, 5552],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 46846000,
+    "subtotal_line": 5553,
+    "split_sum": 46846000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Profit after tax attributable to Unitholders 47,698 | Net distribution adjustments (852)",
+      "subtotal": "Amount available for distribution to Unitholders 46,846"
+    },
+    "note": "'Capital distribution' figures found in Note 14 Units in Issue (lines 7094/7128) are contra-equity reductions to the unit issue account, not lines of the Distribution Statement itself -- checked and excluded as out of scope. 'Tax-exempt income' at line 7287 is from the tax-rate reconciliation note (Note on tax expense), also out of scope. Distribution Statement itself has no non-operating lines; other_additions is null.",
+    "flags": []
+  },
+  {
+    "symbol": "DCRU",
+    "financial_year": 2024,
+    "currency": "USD",
+    "income_for_year": 45991000,
+    "income_for_year_lines": [5351, 5352, 5353, 5354, 5355, 5356, 5357, 5358, 5359, 5360, 5361, 5362, 5363, 5364, 5365],
+    "other_additions": null,
+    "other_additions_breakdown": [],
+    "subtotal_printed": 45991000,
+    "subtotal_line": 5366,
+    "split_sum": 45991000,
+    "split_matches": true,
+    "retention_inside_operating": false,
+    "quotes": {
+      "income_for_year": "Profit/(Loss) after tax attributable to Unitholders 205,381 | Net distribution adjustments (159,390)",
+      "subtotal": "Amount available for distribution to Unitholders 45,991"
+    },
+    "note": "From DCRU FY2024 AR's own Distribution Statement (year ended 31 Dec 2024). No non-operating lines; other_additions is null.",
+    "flags": []
+  }
+]

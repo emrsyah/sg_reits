@@ -116,3 +116,14 @@ commit;
 --      tranches      sum(distribution_record.dpu) = distribution_per_unit
 --                    expect 63/69; A17U x2, DCRU x2, XZL x2 are structural
 -- 4. python scripts/db/promote_final_to_prod.py --write
+
+-- ---------------------------------------------------------------- addendum 2026-08-03
+-- other_additions was redefined from POSITIONAL (above/below the AR's subtotal) to
+-- ECONOMIC (rent vs money from selling assets). The breakdown is what makes that
+-- answerable -- "how much of this payout came from asset sales" needs the line items,
+-- not just a total. It was missed in the first cut of this migration.
+alter table sgx_reit_performance add column if not exists other_additions_breakdown jsonb;
+
+-- a label with no value is an orphan; clear it
+update sgx_reit_performance set other_additions_label = null
+ where other_additions is null and other_additions_label is not null;

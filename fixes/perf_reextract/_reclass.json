@@ -1,0 +1,444 @@
+[
+  {
+    "symbol": "O5RU",
+    "financial_year": 2024,
+    "total_before": 78159000,
+    "income_for_year_before": 65669000,
+    "other_additions_before": 12490000,
+    "income_for_year_after": 67104000,
+    "other_additions_after": 11055000,
+    "total_after": 78159000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income distribution",
+        "line": 6437,
+        "quote": "Tax-exempt income distribution |  | 1,435 | - | 1,435 | -",
+        "amount": 1435000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "No note ties this to an asset sale (unlike Note A/B items it carries no note reference); it is simply the tax character of ordinary operating income, so it stays with operating per the 'tax-exempt income generally operating' rule."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distribution",
+        "line": 6438,
+        "quote": "Capital distribution |  | 11,055 | 18,182 | 11,055 | 18,182",
+        "amount": 11055000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "O5RU",
+    "financial_year": 2025,
+    "total_before": 80614000,
+    "income_for_year_before": 70429000,
+    "other_additions_before": 10185000,
+    "income_for_year_after": 71307000,
+    "other_additions_after": 9307000,
+    "total_after": 80614000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income distribution",
+        "line": 6892,
+        "quote": "Tax-exempt income distribution |  | <b>878</b> | 1,435 | <b>878</b> | 1,435",
+        "amount": 878000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same unlabeled/no-note tax-exempt line as FY2024, not tied to any asset sale; operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distribution",
+        "line": 6893,
+        "quote": "Capital distribution |  | <b>9,307</b> | 11,055 | <b>9,307</b> | 11,055",
+        "amount": 9307000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "A17U",
+    "financial_year": 2024,
+    "total_before": 668833000,
+    "income_for_year_before": 546864000,
+    "other_additions_before": 121969000,
+    "income_for_year_after": 588664000,
+    "other_additions_after": 80169000,
+    "total_after": 668833000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 5318,
+        "quote": "Tax-exempt income |  | 41,800 | 40,618",
+        "amount": 41800000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Presented as a plain add-in line with no note tying it to a divestment or capital event; it is the tax character of operating rental income, so it belongs to operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Distribution from capital",
+        "line": 5319,
+        "quote": "Distribution from capital |  | 80,169 | 108,176",
+        "amount": 80169000,
+        "reason": "Explicitly a capital distribution; stays non-operating per the instructions."
+      }
+    ]
+  },
+  {
+    "symbol": "A17U",
+    "financial_year": 2025,
+    "total_before": 678268000,
+    "income_for_year_before": 561202000,
+    "other_additions_before": 117066000,
+    "income_for_year_after": 597294000,
+    "other_additions_after": 80974000,
+    "total_after": 678268000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 5399,
+        "quote": "Tax-exempt income |  | 36,092 | 41,800",
+        "amount": 36092000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same shape as FY2024, no note tying it to a divestment; operating by convention."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Distribution from capital",
+        "line": 5400,
+        "quote": "Distribution from capital |  | 80,974 | 80,169",
+        "amount": 80974000,
+        "reason": "Explicitly a capital distribution; stays non-operating."
+      }
+    ]
+  },
+  {
+    "symbol": "C38U",
+    "financial_year": 2025,
+    "total_before": 869957000,
+    "income_for_year_before": 793536000,
+    "other_additions_before": 76421000,
+    "income_for_year_after": 853749000,
+    "other_additions_after": 16208000,
+    "total_after": 869957000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 5644,
+        "quote": "Tax-exempt income | 7,885 | 15,512",
+        "amount": 7885000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "No note reference tying this to an asset disposal; it is a tax-character add-in from ordinary rental income."
+      },
+      {
+        "label": "Distribution income from joint ventures",
+        "line": 5646,
+        "quote": "Distribution income from joint ventures | 52,328 | 21,918",
+        "amount": 52328000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "CICT holds part of its mall/office portfolio (e.g. Raffles City, ICBC Tower stakes) via JVs; this is rent arriving through the JV channel, per the explicit reclassification rule."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distributions",
+        "line": 5645,
+        "quote": "Capital distributions | 16,208 | 7,585",
+        "amount": 16208000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "C38U",
+    "financial_year": 2024,
+    "total_before": 761592000,
+    "income_for_year_before": 716577000,
+    "other_additions_before": 45015000,
+    "income_for_year_after": 754007000,
+    "other_additions_after": 7585000,
+    "total_after": 761592000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 5644,
+        "quote": "Tax-exempt income | 7,885 | 15,512 (2024 = 15,512 comparative column)",
+        "amount": 15512000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same treatment as FY2025 column: plain tax-character add-in, no divestment note; operating."
+      },
+      {
+        "label": "Distribution income from joint ventures",
+        "line": 5646,
+        "quote": "Distribution income from joint ventures | 52,328 | 21,918 (2024 = 21,918 comparative column)",
+        "amount": 21918000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Rent from CICT's JV-held assets, arriving as a JV distribution; operating per the explicit reclassification rule."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distributions",
+        "line": 5645,
+        "quote": "Capital distributions | 16,208 | 7,585 (2024 = 7,585 comparative column)",
+        "amount": 7585000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "J91U",
+    "financial_year": 2024,
+    "total_before": 164064000,
+    "income_for_year_before": 149100000,
+    "other_additions_before": 14964000,
+    "income_for_year_after": 152493000,
+    "other_additions_after": 11571000,
+    "total_after": 164064000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 10079,
+        "quote": "– Tax-exempt income | 3,393 | 4,084",
+        "amount": 3393000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Plain add-in with no divestment note attached; tax character of ordinary rental income, so operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distribution",
+        "line": 10080,
+        "quote": "– Capital distribution | 11,571 | 30,323",
+        "amount": 11571000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "J91U",
+    "financial_year": 2025,
+    "total_before": 176076000,
+    "income_for_year_before": 148828000,
+    "other_additions_before": 27248000,
+    "income_for_year_after": 158671000,
+    "other_additions_after": 17405000,
+    "total_after": 176076000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax-exempt income",
+        "line": 7865,
+        "quote": "– Tax-exempt income | 9,843 | 3,393",
+        "amount": 9843000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same shape as FY2024, no divestment note; operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital distribution",
+        "line": 7866,
+        "quote": "– Capital distribution | 17,405 | 11,571",
+        "amount": 17405000,
+        "reason": "Explicit capital distribution line, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "J69U",
+    "financial_year": 2024,
+    "total_before": 213221000,
+    "income_for_year_before": 167789000,
+    "other_additions_before": 45432000,
+    "income_for_year_after": 213221000,
+    "other_additions_after": 0,
+    "total_after": 213221000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Distributions from joint ventures",
+        "line": 7436,
+        "quote": "Distributions from joint ventures |  | 45,432 |",
+        "amount": 45432000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "FCT holds NEX and Waterway Point through joint ventures; this is rent from those malls arriving as a JV distribution, i.e. operating income by source."
+      },
+      {
+        "label": "Distributions from associate",
+        "line": 7435,
+        "quote": "Distributions from associate |  | 0 |",
+        "amount": 0,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same associate/JV rent channel as the JV line above (amount is nil this year, moved for consistency of classification)."
+      }
+    ],
+    "still_non_operating": [],
+    "note": "other_additions_breakdown is now empty; other_additions total is 0 for this row."
+  },
+  {
+    "symbol": "J69U",
+    "financial_year": 2025,
+    "total_before": 233180000,
+    "income_for_year_before": 165646000,
+    "other_additions_before": 67534000,
+    "income_for_year_after": 233180000,
+    "other_additions_after": 0,
+    "total_after": 233180000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Distributions from joint ventures",
+        "line": 6234,
+        "quote": "Distributions from joint ventures |  | 67,534 |",
+        "amount": 67534000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same JV-held-mall rent channel (NEX / Waterway Point) as FY2024; operating."
+      }
+    ],
+    "still_non_operating": [],
+    "note": "other_additions_breakdown is now empty; other_additions total is 0 for this row."
+  },
+  {
+    "symbol": "K71U",
+    "financial_year": 2024,
+    "total_before": 214547000,
+    "income_for_year_before": 85831000,
+    "other_additions_before": 128716000,
+    "income_for_year_after": 194547000,
+    "other_additions_after": 20000000,
+    "total_after": 214547000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Dividend and distribution income from associates",
+        "line": 5701,
+        "quote": "Dividend and distribution income from associates | 86,321 | 80,083",
+        "amount": 86321000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Keppel REIT holds stakes such as Pinnacle Office Park / T-Tower and other office assets via associates; this is rent arriving as dividends from those associate structures, operating by source."
+      },
+      {
+        "label": "Distribution income from joint ventures",
+        "line": 5702,
+        "quote": "Distribution income from joint ventures | 22,395 | 22,985",
+        "amount": 22395000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Rent from Keppel REIT's JV-held office properties (e.g. Keppel Bay Tower, IFC Seoul-related JV interests) distributed via the JV channel; operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital gains distribution (within Note A)",
+        "line": 5698,
+        "quote": "– Capital gains distribution | 20,000 | 20,000",
+        "amount": 20000000,
+        "reason": "Explicit capital gains distribution, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "K71U",
+    "financial_year": 2025,
+    "total_before": 212406000,
+    "income_for_year_before": 63826000,
+    "other_additions_before": 148580000,
+    "income_for_year_after": 192406000,
+    "other_additions_after": 20000000,
+    "total_after": 212406000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Dividend and distribution income from associates and joint ventures",
+        "line": 6100,
+        "quote": "Dividend and distribution income from associates and joint ventures | 128,580 | (combined FY2025 line)",
+        "amount": 128580000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same associate/JV rent channel as FY2024 (now reported as one combined line); operating."
+      }
+    ],
+    "still_non_operating": [
+      {
+        "label": "Capital gains distribution (within Note A)",
+        "line": 6097,
+        "quote": "– Capital gains distribution | 20,000 | 20,000",
+        "amount": 20000000,
+        "reason": "Explicit capital gains distribution, non-operating by definition."
+      }
+    ]
+  },
+  {
+    "symbol": "T82U",
+    "financial_year": 2024,
+    "total_before": 180923000,
+    "income_for_year_before": 30007000,
+    "other_additions_before": 150916000,
+    "income_for_year_after": 180923000,
+    "other_additions_after": 0,
+    "total_after": 180923000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax exempt dividend income (Note B)",
+        "line": 3954,
+        "quote": "Tax exempt dividend income (Note B) | <b>150,916</b> | 151,009",
+        "amount": 150916000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "This is Suntec REIT's primary rent channel: property income received as tax-exempt dividends from its subsidiaries/JV holding structures (e.g. Suntec City JV, One Raffles Quay, MBFC stakes), not a capital or divestment item; operating."
+      }
+    ],
+    "still_non_operating": [],
+    "note": "other_additions_breakdown is now empty; other_additions total is 0 for this row. The 'Others (Note C)' line prints nil ('-') for FY2024 and was already excluded."
+  },
+  {
+    "symbol": "T82U",
+    "financial_year": 2025,
+    "total_before": 207280000,
+    "income_for_year_before": 40717000,
+    "other_additions_before": 166563000,
+    "income_for_year_after": 207280000,
+    "other_additions_after": 0,
+    "total_after": 207280000,
+    "total_unchanged": true,
+    "moves": [
+      {
+        "label": "Tax exempt dividend income (Note B)",
+        "line": 4004,
+        "quote": "Tax exempt dividend income (Note B) | <b>166,563</b> | 150,916",
+        "amount": 166563000,
+        "from": "other_additions",
+        "to": "income_for_year",
+        "reason": "Same rent-via-tax-exempt-dividend channel as FY2024; operating."
+      }
+    ],
+    "still_non_operating": [],
+    "note": "other_additions_breakdown is now empty; other_additions total is 0 for this row."
+  }
+]
