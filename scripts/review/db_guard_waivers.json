@@ -1,0 +1,19 @@
+{
+  "_comment": [
+    "Known findings that are accepted rather than fixed. A waiver is keyed on (group, check)",
+    "and downgrades that check from FAIL so it cannot block CI. The finding is still printed",
+    "under WAIVED with its reason, and any NEW row appearing in the same check shows up in",
+    "that text, so a waiver hides the failure status but never the evidence.",
+    "",
+    "Delete a waiver once the underlying data is fixed. Do not add one to make a red run",
+    "green without a reason someone can check."
+  ],
+  "waivers": [
+    {
+      "group": "sums",
+      "check": "property NPI <= gross_revenue",
+      "reason": "2 known rows: J69U FY2024 Changi City Point (GR 2,666,000 vs NPI 3,134,000) and CY6U FY2025 CyberVale (GR 373,000,000 vs NPI 416,000,000 INR). Both need re-extraction against the source; the revenue figure looks partial. Remove this waiver once they are corrected.",
+      "added": "2026-08-05"
+    }
+  ]
+}

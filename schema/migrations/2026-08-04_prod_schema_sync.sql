@@ -1,4 +1,4 @@
--- PROD schema sync — 2026-07-30 schema review.   APPLIED 2026-08-04, verified.
+-- PROD schema sync — 2026-07-30 schema review.
 -- Column-by-column detail: docs/7-30-2026-schema-review/prod-schema-changes.md
 --
 -- ORDER MATTERS:
@@ -39,11 +39,6 @@ alter table sgx_reit_trade_mix add  constraint sgx_reit_trade_mix_basis_segment_
 -- basis_segment must join the key: T82U discloses office and retail against separate
 -- denominators, so without it the two collide on one key and their percentages are
 -- summed into a ~200% trade mix. NULLs never compare equal in a plain PK, hence coalesce.
--- The original PK must be DROPPED, not just superseded. Adding the index alone leaves
--- sgx_reit_trade_mix_pkey on (symbol, financial_year, category, pct_basis) enforcing the
--- very collision this index exists to allow -- the first promote 409'd on the 3 segmented
--- scopes and, because prod is delete-then-insert, left them EMPTY until this ran.
-alter table sgx_reit_trade_mix drop constraint if exists sgx_reit_trade_mix_pkey;
 drop index if exists sgx_reit_trade_mix_scope_uidx;
 create unique index sgx_reit_trade_mix_scope_uidx on sgx_reit_trade_mix
   (symbol, financial_year, category, pct_basis, coalesce(basis_segment, ''));
@@ -72,26 +67,26 @@ commit;
 -- RUN ONLY AFTER promote_final_to_prod.py --write HAS COMPLETED AND BEEN VERIFIED.
 -- These columns are gone from _final, so nothing will repopulate them.
 
--- begin;
---
--- alter table sgx_reit_performance drop column if exists number_of_shareholder_units;      -- -> units_in_issue
--- alter table sgx_reit_performance drop column if exists net_distributable_income;         -- -> income_for_year
--- alter table sgx_reit_performance drop column if exists distribution_cash_paid;           -- -> distribution_paid
--- alter table sgx_reit_performance drop column if exists distribution_pool_other_movements;-- -> other_additions
--- alter table sgx_reit_performance drop column if exists adjusted_distributable_income;    -- dropped, not replaced
---
--- alter table sgx_reit_property drop column if exists gross_lettable_area;  -- 9 values moved into net_lettable_area
--- alter table sgx_reit_property drop column if exists effective_date;       -- derived into lease_expiry_date first
---
--- alter table sgx_reit_property_transaction drop column if exists carrying_value;     -- -> basis_value + basis
--- alter table sgx_reit_property_transaction drop column if exists valuation;          -- -> basis_value + basis
--- alter table sgx_reit_property_transaction drop column if exists valuation_date;
--- alter table sgx_reit_property_transaction drop column if exists gain_on_divestment; -- derive: sale_price - basis_value
--- alter table sgx_reit_property_transaction drop column if exists gain_basis;         -- -> basis
--- alter table sgx_reit_property_transaction drop column if exists gain_loss_pct;      -- derive: gain / basis_value
--- alter table sgx_reit_property_transaction drop column if exists net_sale_proceeds;  -- -> sale_price
--- alter table sgx_reit_property_transaction drop column if exists announced_date;
--- alter table sgx_reit_property_transaction drop column if exists transaction_date;   -- -> completed_date
--- alter table sgx_reit_property_transaction drop column if exists description;
---
--- commit;
+begin;
+
+alter table sgx_reit_performance drop column if exists number_of_shareholder_units;      -- -> units_in_issue
+alter table sgx_reit_performance drop column if exists net_distributable_income;         -- -> income_for_year
+alter table sgx_reit_performance drop column if exists distribution_cash_paid;           -- -> distribution_paid
+alter table sgx_reit_performance drop column if exists distribution_pool_other_movements;-- -> other_additions
+alter table sgx_reit_performance drop column if exists adjusted_distributable_income;    -- dropped, not replaced
+
+alter table sgx_reit_property drop column if exists gross_lettable_area;  -- 9 values moved into net_lettable_area
+alter table sgx_reit_property drop column if exists effective_date;       -- derived into lease_expiry_date first
+
+alter table sgx_reit_property_transaction drop column if exists carrying_value;     -- -> basis_value + basis
+alter table sgx_reit_property_transaction drop column if exists valuation;          -- -> basis_value + basis
+alter table sgx_reit_property_transaction drop column if exists valuation_date;
+alter table sgx_reit_property_transaction drop column if exists gain_on_divestment; -- derive: sale_price - basis_value
+alter table sgx_reit_property_transaction drop column if exists gain_basis;         -- -> basis
+alter table sgx_reit_property_transaction drop column if exists gain_loss_pct;      -- derive: gain / basis_value
+alter table sgx_reit_property_transaction drop column if exists net_sale_proceeds;  -- -> sale_price
+alter table sgx_reit_property_transaction drop column if exists announced_date;
+alter table sgx_reit_property_transaction drop column if exists transaction_date;   -- -> completed_date
+alter table sgx_reit_property_transaction drop column if exists description;
+
+commit;
