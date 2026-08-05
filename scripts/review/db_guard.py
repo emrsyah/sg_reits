@@ -470,6 +470,10 @@ def main():
     ap.add_argument("--list", action="store_true", help="list group names and exit")
     ap.add_argument("--quiet", action="store_true", help="suppress PASS lines")
     ap.add_argument("--json", action="store_true", help="emit findings as JSON")
+    ap.add_argument("--github", action="store_true",
+                    help="also emit ::error::/::warning:: annotations for GitHub Actions")
+    ap.add_argument("--markdown", metavar="PATH",
+                    help="write a markdown summary table to PATH (for $GITHUB_STEP_SUMMARY)")
     args = ap.parse_args()
 
     if args.list:
@@ -534,10 +538,64 @@ def main():
             for line in _wrap(msg, width - 8):
                 print(f"        {line}")
 
+    # ---- per-group tally, so a long log still ends with something readable ----
+    tally = {g: {"ok": 0, "waived": 0, WARN: 0, FAIL: 0} for g in selected}
+    for grp, _c, _n in passes:
+        tally.setdefault(grp, {"ok": 0, "waived": 0, WARN: 0, FAIL: 0})["ok"] += 1
+    for grp, _c, _m, _r in waived:
+        tally.setdefault(grp, {"ok": 0, "waived": 0, WARN: 0, FAIL: 0})["waived"] += 1
+    for sev, grp, _c, _m in findings:
+        tally.setdefault(grp, {"ok": 0, "waived": 0, WARN: 0, FAIL: 0})[sev] += 1
+
     print(f"\n{'=' * width}")
-    print(f"{len(passes)} passed, {len(waived)} waived, {len(warns)} warnings, {len(fails)} failures")
+    print("SUMMARY BY GROUP")
+    print(f"{'-' * width}")
+    print(f"  {'group':<14}{'ok':>6}{'waived':>8}{'warn':>7}{'fail':>7}   status")
+    for g in selected:
+        t = tally.get(g, {"ok": 0, "waived": 0, WARN: 0, FAIL: 0})
+        status = "FAIL" if t[FAIL] else ("warn" if t[WARN] else "pass")
+        print(f"  {g:<14}{t['ok']:>6}{t['waived']:>8}{t[WARN]:>7}{t[FAIL]:>7}   {status}")
+
+    print(f"{'-' * width}")
+    print(f"  {'TOTAL':<14}{len(passes):>6}{len(waived):>8}{len(warns):>7}{len(fails):>7}")
+    print(f"{'=' * width}")
     print("GUARD: FAIL" if fails else "GUARD: PASS")
+
+    # ---- GitHub Actions annotations: findings show up on the run, not only in the log ----
+    if args.github:
+        for _s2, grp, check, msg in fails:
+            print(f"::error title=db-guard {grp}/{check}::{_flat(msg)}")
+        for _s2, grp, check, msg in warns:
+            print(f"::warning title=db-guard {grp}/{check}::{_flat(msg)}")
+
+    if args.markdown:
+        with open(args.markdown, "a", encoding="utf-8") as fh:
+            fh.write(f"## DB guard: {'FAIL' if fails else 'PASS'}\n\n")
+            fh.write(f"`{len(passes)} passed · {len(waived)} waived · "
+                     f"{len(warns)} warnings · {len(fails)} failures`\n\n")
+            fh.write("| group | ok | waived | warn | fail |\n|---|---:|---:|---:|---:|\n")
+            for g in selected:
+                t = tally.get(g, {"ok": 0, "waived": 0, WARN: 0, FAIL: 0})
+                mark = " **FAIL**" if t[FAIL] else ""
+                fh.write(f"| {g}{mark} | {t['ok']} | {t['waived']} | {t[WARN]} | {t[FAIL]} |\n")
+            for label, items in (("Failures", fails), ("Warnings", warns)):
+                if not items:
+                    continue
+                fh.write(f"\n### {label}\n\n")
+                for _s2, grp, check, msg in items:
+                    fh.write(f"- **{grp} / {check}** — {_flat(msg)}\n")
+            if waived:
+                fh.write("\n### Waived\n\n")
+                for grp, check, msg, reason in waived:
+                    fh.write(f"- **{grp} / {check}** — {_flat(msg)}  \n  _{_flat(reason)}_\n")
+
     return 1 if fails else 0
+
+
+def _flat(text):
+    """GitHub annotations are one line; collapse whitespace and cap the length."""
+    t = " ".join(str(text).split())
+    return t if len(t) <= 900 else t[:897] + "..."
 
 
 def _wrap(text, w):

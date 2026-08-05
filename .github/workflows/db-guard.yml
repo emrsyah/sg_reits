@@ -57,20 +57,19 @@ jobs:
           ONLY="${{ github.event.inputs.only }}"
           ARGS=""
           [ -n "$ONLY" ] && ARGS="--only $ONLY"
-          # tee so the full report lands in the log even when the step fails
-          python scripts/review/db_guard.py $ARGS --quiet | tee guard.txt
+          # --github  turns findings into ::error::/::warning:: annotations, so they appear
+          #           on the run itself and not only buried in the log
+          # --markdown writes the group table straight into the job summary
+          # tee keeps the full report in the log even when the step fails; PIPESTATUS
+          #     preserves the guard's exit code through the pipe
+          python scripts/review/db_guard.py $ARGS --quiet --github --markdown "$GITHUB_STEP_SUMMARY" | tee guard.txt
           exit "${PIPESTATUS[0]}"
 
-      - name: Summary
+      - name: Print summary
         if: always()
         run: |
-          {
-            echo '## DB guard'
-            echo
-            echo '```'
-            tail -n 60 guard.txt 2>/dev/null || echo 'guard produced no output'
-            echo '```'
-          } >> "$GITHUB_STEP_SUMMARY"
+          echo "----- db guard result -----"
+          sed -n '/SUMMARY BY GROUP/,$p' guard.txt 2>/dev/null || echo 'guard produced no output'
 
       - name: Upload report
         if: always()
