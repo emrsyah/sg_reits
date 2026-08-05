@@ -1,0 +1,81 @@
+name: DB guard
+
+# Runs the whole-database invariant guard against the dev database.
+#
+# Required repo secret (Settings → Secrets and variables → Actions):
+#   SUPABASE_CONNECTION_STRING   direct Postgres URI for the dev database
+#
+# The guard is read-only. It runs no DDL and writes nothing.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/db/**'
+      - 'scripts/review/db_guard*'
+      - 'schema/**'
+      - '.github/workflows/db-guard.yml'
+  pull_request:
+    paths:
+      - 'scripts/db/**'
+      - 'scripts/review/db_guard*'
+      - 'schema/**'
+  workflow_dispatch:          # run it yourself from the Actions tab, any time
+    inputs:
+      only:
+        description: 'Comma list of groups (blank = all). e.g. scale,enums,sums'
+        required: false
+        default: ''
+
+concurrency:
+  group: db-guard-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: pip install --quiet psycopg2-binary python-dotenv
+
+      - name: Run guard
+        id: guard
+        env:
+          SUPABASE_CONNECTION_STRING: ${{ secrets.SUPABASE_CONNECTION_STRING }}
+        run: |
+          if [ -z "$SUPABASE_CONNECTION_STRING" ]; then
+            echo "::error::SUPABASE_CONNECTION_STRING secret is not set"
+            exit 1
+          fi
+          ONLY="${{ github.event.inputs.only }}"
+          ARGS=""
+          [ -n "$ONLY" ] && ARGS="--only $ONLY"
+          # tee so the full report lands in the log even when the step fails
+          python scripts/review/db_guard.py $ARGS --quiet | tee guard.txt
+          exit "${PIPESTATUS[0]}"
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo '## DB guard'
+            echo
+            echo '```'
+            tail -n 60 guard.txt 2>/dev/null || echo 'guard produced no output'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: db-guard-report
+          path: guard.txt
+          if-no-files-found: ignore

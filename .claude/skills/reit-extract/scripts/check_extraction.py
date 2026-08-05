@@ -17,6 +17,17 @@ Checks (exit code 1 if any FAIL):
   8. self-consistency: tenure_raw that mentions an expiry while lease_expiry_date
      is null => FAIL (the agent's own verbatim proves the date was disclosed)
 Warnings don't fail the run; FAILs do.
+
+SCHEMA VERSION. These checks encode the schema as of 2026-08-04. Extraction directories
+produced before then WILL fail, and that is correct rather than a bug in the gate: they
+carry gain_on_divestment / carrying_value / valuation / net_sale_proceeds / transaction_date
+/ revenue_pct / gla, all of which are now dropped at load, so the values they hold are lost.
+The database was migrated in place by scripts/db/*; the older extracted/ JSON was not.
+Re-run the gate on anything you intend to re-load.
+
+For invariants that span reports -- a whole REIT-year that skipped the category mapping,
+basis_segment tagged in one year but not the next, percentages on two scales -- use
+scripts/review/db_guard.py, which reads the database rather than one extraction.
 """
 import json
 import re
@@ -130,7 +141,7 @@ def main() -> None:
     # 3. basis on percentages
     for name, col in PCT_TABLES.items():
         for r in data[name]:
-            if r.get("pct") is not None or r.get("revenue_pct") is not None:
+            if r.get("pct") is not None:
                 if not r.get(col):
                     fails.append(f"{name}: record missing {col} "
                                  f"({r.get('client_name') or r.get('category')})")
@@ -142,12 +153,12 @@ def main() -> None:
             warns.append(f"{name}: pct_basis '{b}' ({n} rows) not in the known "
                          f"enum — map the footnote wording or extend the enum")
     no_pct = [r.get("rank") for r in data["top_tenants"]
-              if r.get("rank") is not None and r.get("revenue_pct") is None]
+              if r.get("rank") is not None and r.get("pct") is None]
     if no_pct:
-        warns.append(f"top_tenants: revenue_pct null on {len(no_pct)} row(s) "
+        warns.append(f"top_tenants: pct null on {len(no_pct)} row(s) "
                      f"(ranks {no_pct[:5]}{'...' if len(no_pct) > 5 else ''}) — if "
                      f"the trust ranks by another basis (e.g. NPI) the value still "
-                     f"goes in revenue_pct with pct_basis set; never invent a key")
+                     f"goes in pct with pct_basis set; never invent a key")
 
     # 7. enum discipline — verbatim wording belongs in *_raw, not enum columns
     for (name, col), allowed in ENUMS.items():
@@ -162,38 +173,86 @@ def main() -> None:
                              f"{sorted(allowed)} — put the report's wording in the "
                              f"*_raw / note field, keep the enum value here")
 
-    # 7a. property_transactions gain consistency — the gain must match its basis, and
-    # net_sale_proceeds must be a DISCLOSED net figure (not derived). Catches mislabeled
-    # gains and a "gross" price that is really a net figure.
+    # 7a. property_transactions — v2 contract (2026-08-03/04).
+    #
+    # The gain is no longer stored anywhere: it is derived at read time as
+    #   gain = sale_price - basis_value        pct = gain / basis_value
+    # so what the extraction must get right is the two INPUTS and the basis they sit on.
+    # The old checks reconciled gain_on_divestment against carrying_value/valuation; all of
+    # those columns are gone, and a gate that still tested them passed extractions that were
+    # wrong under the current schema.
+    RETIRED_TXN = ["gain_on_divestment", "gain_loss_pct", "gain_basis", "net_sale_proceeds",
+                   "carrying_value", "valuation", "valuation_date", "announced_date",
+                   "transaction_date", "description", "reference_value", "reference_basis"]
+    TXN_BASIS = {"valuation", "book_value", "purchase_price", "net_identifiable_assets"}
+    TXN_TYPE = {"acquisition", "divestment"}
     for r in data["property_transactions"]:
         who = r.get("property_name") or r.get("deal_id") or "?"
-        gain = r.get("gain_on_divestment")
-        gpct = r.get("gain_loss_pct")
-        basis = r.get("gain_basis")
-        sale = r.get("sale_price")
-        if sale is None and r.get("gross_sale_price") is not None:
-            sale = r.get("gross_sale_price")   # legacy alias
-        net = r.get("net_sale_proceeds")
-        carry = r.get("carrying_value")
-        val = r.get("valuation")
-        if (gain is not None or gpct is not None) and basis is None:
-            warns.append(f"property_transactions ({who}): gain disclosed but gain_basis is null "
-                         "— tag vs_book_value / vs_valuation / vs_cost so it isn't conflated")
-        proceeds = net if isinstance(net, (int, float)) else sale
-        if isinstance(gain, (int, float)) and basis == "vs_book_value" \
-           and isinstance(proceeds, (int, float)) and isinstance(carry, (int, float)):
-            exp = proceeds - carry
-            if abs(exp - gain) > max(1000.0, 0.02 * abs(gain or 1)):
-                warns.append(f"property_transactions ({who}): gain_on_divestment={gain:,} but "
-                             f"(proceeds {proceeds:,} - carrying {carry:,})={exp:,} (vs_book_value) "
-                             "— reconcile against the source")
-        if isinstance(gain, (int, float)) and basis == "vs_valuation" \
-           and isinstance(sale, (int, float)) and isinstance(val, (int, float)):
-            exp = sale - val
-            if abs(exp - gain) > max(1000.0, 0.02 * abs(gain or 1)):
-                warns.append(f"property_transactions ({who}): gain_on_divestment={gain:,} but "
-                             f"(sale {sale:,} - valuation {val:,})={exp:,} (vs_valuation) "
-                             "— reconcile against the source")
+
+        # a retired field is silently DROPPED at load, so the value it holds is lost
+        stale = [k for k in RETIRED_TXN if r.get(k) is not None]
+        if stale:
+            fails.append(f"property_transactions ({who}): retired field(s) {stale} — these are "
+                         f"dropped at load and the value is lost. carrying_value/valuation -> "
+                         f"basis_value + basis; net_sale_proceeds -> sale_price; "
+                         f"transaction_date -> completed_date; the gain is derived, not stored")
+
+        tt = r.get("transaction_type")
+        if tt is not None and tt not in TXN_TYPE:
+            fails.append(f"property_transactions ({who}): transaction_type={tt!r} — the enum is "
+                         f"{sorted(TXN_TYPE)}. partial_divestment was dropped 2026-08-04; a part "
+                         f"stake is a divestment with interest_pct < 1")
+
+        basis, bval = r.get("basis"), r.get("basis_value")
+        if basis is not None and basis not in TXN_BASIS:
+            fails.append(f"property_transactions ({who}): basis={basis!r} not in {sorted(TXN_BASIS)}")
+        if bval is not None and basis is None:
+            fails.append(f"property_transactions ({who}): basis_value is set but basis is null — "
+                         f"a gain against an unknown basis cannot be compared with any other")
+        if bval is not None and r.get("basis_currency") is None:
+            fails.append(f"property_transactions ({who}): basis_value carries no basis_currency")
+
+        # price and basis must be the same currency or the subtraction is meaningless
+        sale, scur = r.get("sale_price"), r.get("sale_price_currency")
+        bcur = r.get("basis_currency")
+        if sale is not None and scur is None:
+            fails.append(f"property_transactions ({who}): sale_price carries no currency tag")
+        if r.get("purchase_price") is not None and r.get("purchase_price_currency") is None:
+            fails.append(f"property_transactions ({who}): purchase_price carries no currency tag")
+        if None not in (sale, bval, scur, bcur) and scur != bcur:
+            fails.append(f"property_transactions ({who}): sale_price is {scur} but basis_value is "
+                         f"{bcur} — the derived gain would be nonsense. Record both on the same "
+                         f"currency, as the report states them")
+
+        # interest_pct is a FRACTION of the stake transacted
+        ip = r.get("interest_pct")
+        if isinstance(ip, (int, float)) and not (0 < ip <= 1):
+            fails.append(f"property_transactions ({who}): interest_pct={ip} — it is a fraction, "
+                         f"so 51% is 0.51. Whole-asset deals are 1.0, never null")
+
+        # a divestment with a price but no basis cannot produce a gain at all
+        if tt == "divestment" and sale is not None and bval is None:
+            warns.append(f"property_transactions ({who}): sale_price set but no basis_value, so no "
+                         f"gain is derivable. 81% of divestments disclose a valuation or carrying "
+                         f"amount — check the divestment table before accepting this")
+
+    # 7a-2. pct_basis and basis_segment (2026-08-03). pct_basis was capped at 6 canonical
+    # values; the four segment variants (office_gri, retail_gri, gri_commercial,
+    # gri_logistics_industrial) moved into basis_segment because they run against SEPARATE
+    # denominators — flattening them makes one tenant list appear to sum to 200%.
+    PCT_BASIS = {"headline_rent", "annualised_rent", "npi", "asset_value",
+                 "gross_rental_income", "gross_revenue"}
+    BASIS_SEGMENT = {"office", "retail", "commercial", "logistics_industrial"}
+    for name in ("top_tenants", "trade_mix"):
+        for r in data.get(name, []):
+            who = r.get("client_name") or r.get("category") or "?"
+            pb = r.get("pct_basis")
+            if pb is not None and pb not in PCT_BASIS:
+                fails.append(f"{name} ({who}): pct_basis={pb!r} not in {sorted(PCT_BASIS)}. "
+                             f"A segment variant belongs in basis_segment, not here")
+            bs = r.get("basis_segment")
+            if bs is not None and bs not in BASIS_SEGMENT:
+                fails.append(f"{name} ({who}): basis_segment={bs!r} not in {sorted(BASIS_SEGMENT)}")
 
     # 7b. category taxonomies (case-SENSITIVE — canonical labels are exact). Verbatim
     # disclosed labels belong in *_raw; `category`/`industry` must be a canonical value.
@@ -234,7 +293,7 @@ def main() -> None:
                    or re.search(r"\d+\s*years", raw, re.IGNORECASE))):
             no_expiry.append(r.get("property_name"))
         if str(r.get("status") or "active").lower().startswith("active") \
-                and r.get("gla") is None and r.get("nla") is None and r.get("gfa") is None:
+                and r.get("nla") is None and r.get("gfa") is None:
             no_area.append(r.get("property_name"))
     if no_expiry:
         if declared("lease_expiry", "expiry"):
@@ -247,16 +306,17 @@ def main() -> None:
                          f"check tenure_raw is VERBATIM, not paraphrased "
                          f"('X years remaining' suggests the expiry was dropped)")
     if no_area:
-        if declared("gla", "nla"):
-            infos.append(f"gla/nla null on {len(no_area)} active propert(ies) — "
+        if declared("nla", "area"):
+            infos.append(f"nla/gfa null on {len(no_area)} active propert(ies) — "
                          f"declared structural in _notes (e.g. hospitality trusts "
                          f"disclose unit counts, not floor area)")
         else:
-            warns.append(f"{len(no_area)} active propert(ies) with gla, nla AND gfa all "
+            warns.append(f"{len(no_area)} active propert(ies) with BOTH nla and gfa "
                          f"null (e.g. {no_area[:3]}) — some area metric is ~95-100% "
-                         f"disclosed unless sector-structural (use gfa for gross FLOOR "
-                         f"area, gla for gross LETTABLE); if structural, declare in "
-                         f"columns_never_fillable")
+                         f"disclosed unless sector-structural. nla = LETTABLE area "
+                         f"(net, or gross where that is all the report gives), gfa = "
+                         f"gross FLOOR area. gla was dropped 2026-08-03; if structural, "
+                         f"declare in columns_never_fillable")
 
     # 4. unit sanity (trust level)
     perf = data["performance"][0] if data["performance"] else {}
