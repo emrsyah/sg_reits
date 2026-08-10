@@ -314,6 +314,29 @@ def check_tallies(cur):
             "; ".join(f"{s} FY{fy} calc {c1:,} vs closing {c2:,.0f}" for s, fy, c1, c2 in bad[:5]))
     ok(g, "distribution rollforward", f"{tally} close, {miss} have a null input, {len(bad)} off")
 
+    # Rows with NO opening balance skip the check above entirely, and that blind spot hid a
+    # real defect: J91U's distribution_paid held Note B's total cash out (167,921) instead of
+    # the Distribution Statement's own deduction line (90,145), so 176,076 - paid missed the
+    # closing balance by 78m and nothing noticed. Where opening is absent the statement is a
+    # for-the-year one, so income + other - paid - retained must still reach closing.
+    rows2 = q(cur, """select symbol, financial_year, income_for_year, other_additions,
+                        distribution_paid, amount_retained, distributable_income_closing
+                      from sgx_reit_performance
+                      where distributable_income_opening is null
+                        and distributable_income_closing is not null
+                        and income_for_year is not null""")
+    off2 = []
+    for s2, fy, i, a, p2, r, c in rows2:
+        calc = float(i) + float(a or 0) - float(p2 or 0) - float(r or 0)
+        if abs(calc - float(c)) > 1:
+            off2.append((s2, fy, round(calc), float(c)))
+    if off2:
+        add(WARN, g, "for-the-year rollforward (no opening balance)",
+            f"{len(off2)} of {len(rows2)} rows do not close: " +
+            "; ".join(f"{s2} FY{fy} calc {c1:,} vs closing {c2:,.0f}" for s2, fy, c1, c2 in off2[:5]))
+    else:
+        ok(g, "for-the-year rollforward (no opening balance)", f"{len(rows2)} close")
+
     rows = q(cur, "select symbol, financial_year, dpu, distribution_record from sgx_reit_performance")
     off = []
     for s, fy, dpu, rec in rows:
