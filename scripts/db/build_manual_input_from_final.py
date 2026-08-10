@@ -12,11 +12,12 @@ One row per (symbol, financial_year), composed from:
   source_url/date      <- performance_final
   financial_year       <- DERIVE from performance_final.date via the declared-FY rule (Jan-Jun -> X-1)
   industry_breakdown   <- composed:
-      top_10_gri%_customers          <- top_tenant_final   (top-10 by revenue_pct, /100)
-      gross_rental_income_by_sectors <- trade_mix_final    ({category: pct/100}, summed per category)
-      property_portfolio_top_20      <- property_final     (top-20 by gross_revenue; renamed; /100 pcts)
+      top_10_gri%_customers          <- top_tenant_final   (top-10 by pct; already 0-1)
+      gross_rental_income_by_sectors <- trade_mix_final    ({category: pct}, summed; already 0-1)
+      property_portfolio_top_20      <- property_final     (top-20 by gross_revenue; renamed)
       property_counts_by_country     <- property_final     ({country:{category:[n, sum_gross, sum_val]}})
-      distribution_metrics           <- performance_final  (section 2 formulas)
+      distribution_metrics           <- performance_final  (adjusted =
+                                       income_for_year + other_additions)
 
 Children are keyed by the SAME declared FY as financial_final (build_final makes every *_final
 table declared-FY consistent), so we join on financial_year directly.
@@ -105,7 +106,7 @@ def make_sankey_component(inp):
 
 # --- industry_breakdown parts from *_final ---
 def top_tenants(cur, sym, fy, limit=10):
-    cur.execute("select rank,client_name,industry,revenue_pct from sgx_reit_top_tenant_final "
+    cur.execute("select rank,client_name,industry,pct from sgx_reit_top_tenant_final "
                 "where symbol=%s and financial_year=%s", (sym, fy))
     rows = cur.fetchall()
     if not rows:
@@ -116,7 +117,10 @@ def top_tenants(cur, sym, fy, limit=10):
         e = {}
         if name is not None: e["client_name"] = name
         if ind is not None: e["industry"] = ind
-        e["revenue_pct"] = round(float(pct) / 100, 2) if pct is not None else None
+        # pct is ALREADY a fraction since 2026-08-04 (build_final_tables pct01()).
+        # Dividing by 100 again turned 39% into 0.0039, and round(.., 2) then
+        # collapsed most values to 0.0 without failing anything.
+        e["revenue_pct"] = round(float(pct), 4) if pct is not None else None
         out.append(e)
     return out
 
@@ -133,7 +137,8 @@ def trade_mix(cur, sym, fy):
         agg[cat] = agg.get(cat, 0.0) + float(pct)
     if not agg or sum(agg.values()) > 130:  # ambiguous multi-segment (e.g. T82U office+retail) -> omit
         return None
-    return {k: round(v / 100, 2) for k, v in sorted(agg.items(), key=lambda kv: -kv[1])}
+    # trade_mix pct is already a fraction -- see the note in the top-10 builder
+    return {k: round(v, 4) for k, v in sorted(agg.items(), key=lambda kv: -kv[1])}
 
 
 def properties(cur, sym, fy, top_n=20):
@@ -150,10 +155,10 @@ def properties(cur, sym, fy, top_n=20):
         if country is not None: e["country"] = country
         if cat is not None: e["category"] = cat
         if name is not None: e["name"] = name
-        if own is not None and float(own) != 100: e["ownership_pct"] = round(float(own) / 100, 2)
+        if own is not None and float(own) != 1: e["ownership_pct"] = round(float(own), 4)
         if mv is not None: e["valuation"] = int(round(float(mv)))
         if gr is not None: e["gross_income"] = int(round(float(gr)))
-        if occ is not None: e["occupancy_rate"] = round(float(occ) / 100, 2)
+        if occ is not None: e["occupancy_rate"] = round(float(occ), 4)
         top.append(e)
     counts = {}
     for name, country, cat, own, mv, gr, occ in conv:
@@ -168,28 +173,43 @@ def properties(cur, sym, fy, top_n=20):
 def distribution_metrics(perf):
     """Section 2 of the mapping doc. perf = dict of the performance_final distribution columns."""
     def n(x): return jnum(x) if x is not None else None
-    adj_src = perf.get("adjusted_distributable_income")
-    ndi = perf.get("net_distributable_income")
-    adjusted = n(adj_src) if adj_src is not None else n(ndi)
+    # Column renames of 2026-08-04 (docs/frontend-migration.md):
+    #   net_distributable_income          -> income_for_year
+    #   distribution_cash_paid            -> distribution_paid
+    #   number_of_shareholder_units       -> units_in_issue
+    #   distribution_pool_other_movements -> other_additions
+    #   adjusted_distributable_income     -> DROPPED, no direct replacement
+    #
+    # adjusted_distributable_income was the "total amount available for distribution to
+    # Unitholders FOR THE YEAR" line. We no longer store it, but the report builds it from
+    # parts we do store. A17U FY2025 prints taxable 561,202 + tax-exempt 36,092 +
+    # distribution from capital 80,974 = 678,268; our income_for_year is the first two
+    # (597,294) and the third is other_additions. So:
+    #
+    #     adjusted = income_for_year + other_additions
+    #
+    # Measured against the 72 Excel-fed prod rows: 61/72 (85%), against 56/72 for
+    # income_for_year alone and 21/72 for distribution_declared. distribution_declared is the
+    # WRONG base: for CY6U, UD1U and XZL it is exactly 90% of the prod figure, i.e. the
+    # mandatory payout rather than the amount available.
+    ify = n(perf.get("income_for_year"))
+    other = n(perf.get("other_additions")) or 0
+    adjusted = (ify + other) if ify is not None else None
     opening = n(perf.get("distributable_income_opening"))
-    pool = n(perf.get("distribution_pool_other_movements")) or 0
-    dist_inc = None
-    if opening is not None and adjusted is not None:
-        dist_inc = opening + adjusted + pool
+    dist_inc = (opening + adjusted) if (opening is not None and adjusted is not None) else None
     return {
         "distributable_income": dist_inc,
         "adjusted_distributable_income": adjusted,
-        "distribution_paid": n(perf.get("distribution_cash_paid")),
+        "distribution_paid": n(perf.get("distribution_paid")),
         "end_of_year_distribution": n(perf.get("distributable_income_closing")),
-        "end_of_year_shareholder_units": n(perf.get("number_of_shareholder_units")),
+        "end_of_year_shareholder_units": n(perf.get("units_in_issue")),
         "units_to_be_issued": n(perf.get("units_to_be_issued")),
     }
 
 
-PERF_DIST_COLS = ["date", "source_url", "adjusted_distributable_income", "net_distributable_income",
-                  "distributable_income_opening", "distribution_pool_other_movements",
-                  "distribution_cash_paid", "distributable_income_closing",
-                  "number_of_shareholder_units", "units_to_be_issued"]
+PERF_DIST_COLS = ["date", "source_url", "income_for_year", "other_additions",
+                  "distributable_income_opening", "distribution_paid",
+                  "distributable_income_closing", "units_in_issue", "units_to_be_issued"]
 
 
 def build(cur, symbols, fy):
