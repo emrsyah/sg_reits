@@ -13,7 +13,8 @@ One row per (symbol, financial_year), composed from:
   financial_year       <- DERIVE from performance_final.date via the declared-FY rule (Jan-Jun -> X-1)
   industry_breakdown   <- composed:
       top_10_gri%_customers          <- top_tenant_final   (top-10 by pct; already 0-1)
-      gross_rental_income_by_sectors <- trade_mix_final    ({category: pct}, summed; already 0-1)
+      gross_rental_income_by_sectors <- trade_mix_final    ({category: pct}, summed; already
+                                       0-1; None when segments use separate denominators)
       property_portfolio_top_20      <- property_final     (top-20 by gross_revenue; renamed)
       property_counts_by_country     <- property_final     ({country:{category:[n, sum_gross, sum_val]}})
       distribution_metrics           <- performance_final  (adjusted =
@@ -121,15 +122,44 @@ def top_tenants(cur, sym, fy, limit=10):
         # Dividing by 100 again turned 39% into 0.0039, and round(.., 2) then
         # collapsed most values to 0.0 without failing anything.
         e["revenue_pct"] = round(float(pct), 4) if pct is not None else None
+        # KNOWN LIMITATION, same as prod: where a REIT reports tenants against separate
+        # segment denominators (T82U office vs retail), this list ranks them together even
+        # though 2.5% of office GRI and 2.2% of retail GRI are not comparable. The
+        # manual_input shape has no field for basis_segment, so the conflation cannot be
+        # expressed away; prod's Excel rows do the same. Flagged rather than dropped,
+        # because emitting null would remove data the frontend already shows.
         out.append(e)
     return out
 
 
 def trade_mix(cur, sym, fy):
-    cur.execute("select category,pct from sgx_reit_trade_mix_final where symbol=%s and financial_year=%s", (sym, fy))
-    rows = cur.fetchall()
-    if not rows:
+    """{category: fraction} for the whole portfolio, or None when that cannot be built.
+
+    basis_segment (2026-08-03) splits some REITs into segment tables, and the two shapes
+    behave differently under a sum:
+
+      one portfolio split   BUOU commercial 0.356 + logistics_industrial 0.644 -> 1.0
+                            summing across segments is CORRECT
+      separate denominators T82U office 1.0 AND retail 1.0, each against its own GRI base
+                            summing across segments gives 2.0, which is meaningless
+
+    manual_input's shape is a flat {category: pct} with nowhere to put the segment, so a
+    separate-denominator REIT-year cannot be represented at all. Prod's Excel builder emitted
+    null for T82U and that is the honest answer -- returning a 200% mix would be worse than
+    returning nothing.
+    """
+    cur.execute("select category,pct,basis_segment from sgx_reit_trade_mix_final "
+                "where symbol=%s and financial_year=%s", (sym, fy))
+    raw = cur.fetchall()
+    if not raw:
         return None
+    seg_tot = {}
+    for _cat, pct, seg in raw:
+        if seg:
+            seg_tot[seg] = seg_tot.get(seg, 0) + float(pct or 0)
+    if len(seg_tot) > 1 and all(abs(v - 1.0) <= 0.02 for v in seg_tot.values()):
+        return None      # separate denominators; not flattenable
+    rows = [(c, p) for c, p, _s in raw]
     agg = {}
     for cat, pct in rows:
         if cat is None or pct is None:
