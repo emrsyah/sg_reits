@@ -2625,8 +2625,8 @@
   "other_additions_line": 7494,
   "other_additions_label": "Capital distribution",
   "amount_retained": null,
-  "distribution_paid": 177424000,
-  "distribution_paid_line": 7541,
+  "distribution_paid": 86231000,
+  "distribution_paid_line": 5131,
   "closing": 77833000,
   "closing_line": 7497,
   "distribution_declared": 164064000,
@@ -2692,7 +2692,8 @@
     "amount": 11571000,
     "line": 10080
    }
-  ]
+  ],
+  "distribution_paid_note": "Corrected 2026-08-10. Was 177,424,000, read from Note B's 'Total distributions to Unitholders during the financial year' (line 5183). The rollforward deducts the STATEMENT line instead: p5131 Distribution Statement 2024 comparative: Less: Distributions (Note B) (86,231). The difference is tranches for periods before the 10:1 unit consolidation of 5 May 2025. Cite: p5131 Distribution Statement 2024 comparative: Less: Distributions (Note B) (86,231)"
  },
  {
   "symbol": "J91U",
@@ -2706,8 +2707,8 @@
   "other_additions_line": 5129,
   "other_additions_label": "Capital distribution",
   "amount_retained": null,
-  "distribution_paid": 167921000,
-  "distribution_paid_line": 5183,
+  "distribution_paid": 90145000,
+  "distribution_paid_line": 5131,
   "closing": 85931000,
   "closing_line": 5132,
   "distribution_declared": 176076000,
@@ -2765,7 +2766,8 @@
     "amount": 17405000,
     "line": 7866
    }
-  ]
+  ],
+  "distribution_paid_note": "Corrected 2026-08-10. Was 167,921,000, read from Note B's 'Total distributions to Unitholders during the financial year' (line 5183). The rollforward deducts the STATEMENT line instead: p5131 Distribution Statement: Less: Distributions (Note B) (90,145). The difference is tranches for periods before the 10:1 unit consolidation of 5 May 2025. Cite: p5131 Distribution Statement: Less: Distributions (Note B) (90,145)"
  },
  {
   "symbol": "JYEU",
