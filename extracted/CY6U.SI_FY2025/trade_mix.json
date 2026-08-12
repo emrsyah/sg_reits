@@ -1,9 +1,0 @@
-[
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "IT & ITES", "pct": 52.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "Manufacturing", "category_raw": "Electronics & Engineering", "pct": 15.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "Financial & Professional Services", "category_raw": "Banking & Financial Services", "pct": 8.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "Healthcare & Wellness", "category_raw": "Healthcare & Pharmaceutical", "pct": 6.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Telecommunication", "pct": 3.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "Automobile", "pct": 3.0, "pct_basis": "rental_income", "source_page": 41},
-  {"symbol": "CY6U.SI", "financial_year": 2025, "category": "Other Office Trades", "category_raw": "Others", "pct": 13.0, "pct_basis": "rental_income", "source_page": 41}
-]

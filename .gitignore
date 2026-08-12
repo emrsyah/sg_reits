@@ -1,8 +1,26 @@
-.env__pycache__/
+.env
+__pycache__/
 *.pyc
 *.premigration.bak
 pilot_backup/
-.env
 
 # DB snapshots (large; not version-controlled)
 backup/
+
+# Python virtual environment
+.venv/
+
+# Extraction/parsing outputs (large, regenerable; scripts still write here at root)
+annual_reports/
+annual_reports_pdf_manual/
+parsed_reports/
+parsed_reports_datalab/
+parsed_reports_liteparse/
+extracted/
+extracted_adapter/
+extracted_datalab/
+extracted_llm_baseline/
+extracted_mapdriven/
+
+# Internal docs, plans, reports, and scratch work (not for GitHub)
+internal/

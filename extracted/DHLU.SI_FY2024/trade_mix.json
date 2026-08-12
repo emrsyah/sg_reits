@@ -1,6 +1,0 @@
-[
-  {"symbol": "DHLU.SI", "financial_year": 2024, "category": "Logistics & Supply Chain Management", "category_raw": "3PL", "pct": 78.7, "pct_basis": "gri", "source_page": 48, "note": "Breakdown by tenant trade sector by Gross Rental Income (monthly rent as at 31 Dec 2024), footnote 3 p48. 3PL tenants serve clients across F&B, household products, chemical and materials sectors."},
-  {"symbol": "DHLU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "Retail", "pct": 11.9, "pct_basis": "gri", "source_page": 48, "note": "By GRI per footnote 3 p48. Includes drug store chains (Create SD), home furnishings (Nitori), appliance retailers (EDION)."},
-  {"symbol": "DHLU.SI", "financial_year": 2024, "category": "Other Retail Trades", "category_raw": "E-commerce", "pct": 5.5, "pct_basis": "gri", "source_page": 48, "note": "By GRI per footnote 3 p48. E-commerce mapped to Other Retail Trades (no exact canonical match); category_raw preserved."},
-  {"symbol": "DHLU.SI", "financial_year": 2024, "category": "Other Industrial Trades", "category_raw": "Manufacturing", "pct": 3.8, "pct_basis": "gri", "source_page": 48, "note": "By GRI per footnote 3 p48. Includes manufacturers (e.g. NOK Corporation). Sum 78.7+11.9+5.5+3.8=99.9% (rounding); no residual 'Other' disclosed."}
-]

@@ -1,7 +1,0 @@
-[
-  {"symbol": "ME8U.SI", "financial_year": 2025, "category": "IT & Telecommunications", "category_raw": "Information and Communications", "pct": 31.25, "pct_basis": "gri", "source_page": 34},
-  {"symbol": "ME8U.SI", "financial_year": 2025, "category": "Manufacturing", "category_raw": "Manufacturing", "pct": 27.19, "pct_basis": "gri", "source_page": 34},
-  {"symbol": "ME8U.SI", "financial_year": 2025, "category": "Other Retail Trades", "category_raw": "Wholesale and Retail Trade", "pct": 15.14, "pct_basis": "gri", "source_page": 34},
-  {"symbol": "ME8U.SI", "financial_year": 2025, "category": "Financial & Professional Services", "category_raw": "Financial and Business Services", "pct": 14.51, "pct_basis": "gri", "source_page": 34},
-  {"symbol": "ME8U.SI", "financial_year": 2025, "category": "Other Industrial Trades", "category_raw": "Other Trade Sectors", "pct": 11.91, "pct_basis": "gri", "source_page": 34}
-]
