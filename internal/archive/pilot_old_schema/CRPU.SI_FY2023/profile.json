@@ -1,7 +1,0 @@
-{
-  "symbol": "CRPU.SI",
-  "reit_sub_sector": "Retail",
-  "income_model": "entrusted_management",
-  "source_page": 168,
-  "notes": "Sasseur REIT operates exclusively via the Entrusted Management Agreement (EMA) model. The EMA means the REIT receives a single line of EMA rental income (fixed component + variable component + performance sharing if any) — NOT conventional gross revenue and NPI. All operating expenses are borne by the Entrusted Manager (Sasseur Shanghai Holding Company Limited). Conventional NPI does not exist and is a structural null. gross_revenue in performance.json = total EMA rental income as reported in the audited Consolidated Statement of Total Return. net_property_income is structurally absent."
-}

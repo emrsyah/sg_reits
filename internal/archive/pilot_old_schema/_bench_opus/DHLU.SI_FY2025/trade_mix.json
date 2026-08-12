@@ -1,6 +1,0 @@
-[
-  {"symbol": "DHLU.SI", "fiscal_year": "FY2025", "category": "3PL", "pct": 79.6, "pct_basis": "gri", "is_derived": false, "source_page": 50, "note": "Breakdown of tenant trade sector by GRI, based on monthly rent as at 31 Dec 2025 (footnote 3, p50). 79.6% of tenants in 3PL sector."},
-  {"symbol": "DHLU.SI", "fiscal_year": "FY2025", "category": "Retail", "pct": 11.4, "pct_basis": "gri", "is_derived": false, "source_page": 50, "note": "By GRI (footnote 3, p50)."},
-  {"symbol": "DHLU.SI", "fiscal_year": "FY2025", "category": "E-commerce", "pct": 5.8, "pct_basis": "gri", "is_derived": false, "source_page": 50, "note": "By GRI (footnote 3, p50)."},
-  {"symbol": "DHLU.SI", "fiscal_year": "FY2025", "category": "Manufacturing", "pct": 3.3, "pct_basis": "gri", "is_derived": false, "source_page": 50, "note": "By GRI (footnote 3, p50). Sum = 100.1 (rounding)."}
-]
